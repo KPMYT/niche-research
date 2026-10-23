@@ -1,0 +1,104 @@
+{
+ "pulled": "2026-10-23",
+ "note": "Transcribed from the NexLev MCP responses of 2026-10-23 (descriptions dropped where identical to the YT about page in ../yt/*-latest.json). Niche-finder records are NexLev's stored profile, last updated by NexLev on the date in updatedAt.",
+ "get_channel_analytics": {
+  "channelId": "UCUTZMtthVrdBhKfRrF0mrVg",
+  "subscriberCount": 720,
+  "viewCount": 126190,
+  "videoCount": 36,
+  "joinedDate": "2026-02-02",
+  "country": "United States",
+  "links": [
+   {
+    "title": "Youtube ",
+    "url": "youtube.com/channel/UCUTZMtthVrdBhKfRrF0mrVg"
+   }
+  ],
+  "avgVideoLength": "09:52",
+  "hasShorts": false,
+  "lastVideoUploadDate": "4 months ago",
+  "categories": [
+   "Construction",
+   "Engineering",
+   "Real Estate"
+  ]
+ },
+ "search_niche_finder_channels": {
+  "query": "new home builder scams cheap materials modern wiring scam 1920s houses",
+  "isMonetizationEnabled": true,
+  "isFaceless": true,
+  "isAiChannel": false,
+  "quality": "mid",
+  "editingStyle": "stock_footage_voiceover",
+  "editingVoice": "human",
+  "outlierScore": 0,
+  "channelCreationDate": "2026-02-03",
+  "stats": {
+   "subscribers": 720,
+   "monthlyRevenue": 0.48,
+   "monthlyViews": 216,
+   "totalViews": 126177,
+   "totalVideos": 36,
+   "avgViewsPerVideo": 3458.06,
+   "medianViewsPerVideo": 574.5,
+   "uploadsPerWeek": 0,
+   "firstVideoDate": "2026-04-19",
+   "lastVideoDate": "2026-06-19",
+   "rpm": {
+    "base": 5,
+    "total": 2.2265
+   }
+  },
+  "updatedAt": "2026-10-19T22:24:48",
+  "lastUploadedVideos": [
+   [
+    "qva5q_Fp3mA",
+    "The $2 Shortcut That's Burning Down American Homes",
+    46000
+   ],
+   [
+    "1EbXjv0kDzk",
+    "The Modern Wiring SCAM (1920s Houses Were Wired SAFER)",
+    34000
+   ],
+   [
+    "X64XEu6kcVo",
+    "Why 90% of New Home Electrical Panels Are a FIRE Waiting to Happen!",
+    6400
+   ],
+   [
+    "ruq88SrYlQ8",
+    "Why 90% of 70s Homes Are Built to BURN (The Aluminum Wire Scam)",
+    6000
+   ],
+   [
+    "JfPclWM5miY",
+    "Why Electricians Refuse to Wire Outlets the Way Builders Do",
+    5200
+   ]
+  ]
+ },
+ "get_batch_channel_metrics_v2": {
+  "isMonetized": true,
+  "rpm": 3.78,
+  "avgViewsPerVideo": 3505,
+  "avgVideoLength": 9,
+  "category": "architecture",
+  "format": "documentary",
+  "hasShorts": false,
+  "isFaceless": true,
+  "countryTop": "United States",
+  "confidence": 0.98,
+  "jobId": "e064956d-2d13-4b7e-b173-ed3885997f1a",
+  "timestamp": "2026-10-23T03:31:44Z"
+ },
+ "check_faceless_channel": {
+  "isFaceless": true,
+  "confidence": 0.98,
+  "primaryCategory": "architecture",
+  "format": "documentary",
+  "googleTrendsKeyword": "home construction",
+  "cached": true,
+  "timestamp": "2026-10-23T03:32Z"
+ }
+}

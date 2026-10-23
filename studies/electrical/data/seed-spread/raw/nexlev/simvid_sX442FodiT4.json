@@ -1,0 +1,358 @@
+{
+"source": "NexLev get_similar_videos",
+"seed": "sX442FodiT4",
+"pulled": "2026-10-23",
+"note": "compact extract transcribed from the inline tool result (thumbnails dropped)",
+"columns": [
+"videoId",
+"title",
+"channelTitle",
+"channelId",
+"viewCount",
+"lengthText",
+"publishedTimeText",
+"similarity_score"
+],
+"videos": [
+[
+"J-1rC1AKrwg",
+"Your Generator Won't Start In The Next Power Outage Unless You Do This Now",
+"Gus Whitaker",
+"UCLdI4EbF3WcHS_oyhjSvwDw",
+521,
+"13:31",
+"11 days ago",
+84
+],
+[
+"iN_iW8gAiig",
+"9 Generator Mistakes Homeowners Make During a Blackout",
+"The 72-Hour Home and America with Amos",
+"UCqFf0pfzDat_tJQUCj1dNXw",
+169,
+"14:06",
+"2 days ago",
+82
+],
+[
+"lmD-tX1Qh_g",
+"7 Dangerous Generator Mistakes During Hurricane Power Outages",
+"Graham Toller",
+"UCMJj3SIdszVjsLjirsPA-Jw",
+18,
+"19:10",
+"10 days ago",
+78
+],
+[
+"kANhFFf6O6o",
+"What I Do FIRST in a Power Outage (And What Can Wait)",
+"The Bug Out Location",
+"UCgexv0zlYzl_Q0otBfb6TXg",
+14741,
+"15:03",
+"1 day ago",
+78
+],
+[
+"JGjY6BBHKSc",
+"Your Portable Generator Will Die If You Don't Do These 5 Things Before Winter",
+"Cal Watts",
+"UCHLkHTF8k6PvjkpUStYUvKQ",
+1562,
+"28:42",
+"1 month ago",
+78
+],
+[
+"Mwnm7PMzy64",
+"7 Tips to Help Avoid Killing Your Generator.",
+"Backyard Maine",
+"UCdOuZ0bxeSxA8ZAHttc0U-w",
+1269532,
+"9:12",
+"1 year ago",
+76
+],
+[
+"ynlx8xGdjY8",
+"Top Reasons Generator Won't Start — Generator Troubleshooting",
+"RepairClinic.com",
+"UCGIWoFCiw_H5SW4sHWFzQSw",
+215710,
+"3:15",
+"5 years ago",
+76
+],
+[
+"s22hRXP1YtY",
+"How Generators Work, And How To Fix Them.",
+"FarmCraft101",
+"UCO4AaIooUgGTlBH64KWO76w",
+1631324,
+"58:48",
+"3 years ago",
+76
+],
+[
+"YOmckRlx80Y",
+"Easy Fix for Generator Not Starting",
+"Z23",
+"UCDOJceljJaxiEiXiEQwtNhA",
+625423,
+"3:05",
+"4 years ago",
+74
+],
+[
+"NfE7pbm0l7E",
+"Troubleshooting Generator With No Power Output - AVR and Brush Replacement - Flashing the Field",
+"James Condon",
+"UCr_GXW2Y56hOpGchXYNqZOQ",
+1684596,
+"28:20",
+"6 years ago",
+74
+],
+[
+"oGq7ywlU2KY",
+"how to START a generator that's been sitting too long",
+"Live Free",
+"UC0ACi7Dv2ca2JqwkoOSdZPQ",
+941774,
+"1:11",
+"4 years ago",
+72
+],
+[
+"mlqpbx4gQUA",
+"How To Use an Emergency Generator | Severe Weather Guide",
+"Lowe's Home Improvement",
+"UCqd2hbtE2N9fb0D2nTrLT1w",
+4378140,
+"3:52",
+"7 years ago",
+70
+],
+[
+"JeyiogCi9Pk",
+"Generator Starting problems and troubleshoot",
+"DIY & Fix it",
+"UCbNbEF0BBf-uMFWJT_7k6NA",
+186326,
+"7:44",
+"3 years ago",
+70
+],
+[
+"08mbZngOwGQ",
+"Generator vs Power Station: Which One Wins in a Power Outage?",
+"The Bug Out Location",
+"UCgexv0zlYzl_Q0otBfb6TXg",
+31134,
+"15:38",
+"3 weeks ago",
+68
+],
+[
+"897ILy-J7us",
+"Generator safety during a power outage",
+"KVUE",
+"UCxXTyFekH99JnS3qaXIQW7A",
+759,
+"1:47",
+"9 years ago",
+68
+],
+[
+"QzOiH-ZIZig",
+"Generator Won't Start? - Check This First! - Video",
+"donyboy73",
+"UC6MEb54vwjicHs7L39sS4hA",
+346415,
+"5:26",
+"5 years ago",
+67
+],
+[
+"-Cl15yM47Vk",
+"Your Generator Fails BEFORE the Storm Arrives (Generator Technician Explains)",
+"Mike Generator Guide",
+"UCf3KEwrLu4c-cB7SZaxKgSA",
+135,
+"13:05",
+"2 weeks ago",
+66
+],
+[
+"bEds7StGJTg",
+"Locked-Up Yanmar L100 Clone Generator - Will It Run and Make Power?",
+"James Condon",
+"UCr_GXW2Y56hOpGchXYNqZOQ",
+318512,
+"2:07:15",
+"1 month ago",
+66
+],
+[
+"uX-59Xd-deQ",
+"Locked-up PoulanPRO Generator - Will It Run and Make Power?",
+"James Condon",
+"UCr_GXW2Y56hOpGchXYNqZOQ",
+204555,
+"1:25:57",
+"5 months ago",
+65
+],
+[
+"ssZ1m-kyEek",
+"Generac Support: Shutting Down a Home Standby Generator During a Power Outage",
+"Generac",
+"UC4dxX5Icu4N0wGEigR9B-tQ",
+37196,
+"1:31",
+"2 years ago",
+62
+],
+[
+"q8zoncjhecE",
+"(S-5 Ep-31) Annual Portable Generator Maintenance",
+"Downeast Thunder Creations",
+"UCUUQWtP4dpKFwXTYQ57ex3g",
+311,
+"23:37",
+"4 years ago",
+62
+],
+[
+"JspVJS3AkZA",
+"7 Reasons Your Generator Is NOT Producing Power!",
+"Home & Hardware Lab",
+"UCB__V2pYiOwfzfxnT4wEP8g",
+361251,
+"5:28",
+"4 years ago",
+62
+],
+[
+"8fm1rrEvSR0",
+"Never Backfeed a Generator Into Your House (This Kills)",
+"Strong & Ready",
+"UCoQz4EzNyBqUgIcpO2Ma7iA",
+24,
+"8:03",
+"2 weeks ago",
+61
+],
+[
+"unzKjQJ6nfk",
+"Generators Troubleshooting Part I",
+"Mr Lopez",
+"UCodNb27R722ti0gTRhjsGEQ",
+2199,
+"14:57",
+"3 years ago",
+60
+],
+[
+"NCn0QEByFdw",
+"Long Term Storage Generators and Inverters",
+"Champion Power Equipment",
+"UCF6e4bLku8y6cbngAOtTDYA",
+31028,
+"3:26",
+"3 years ago",
+58
+],
+[
+"5skuTzaElls",
+"Generac Home Generator Wont Start Over Crank 1502 Code",
+"HVACR Survival",
+"UC7EJjONRyeihmQELDIFF8qQ",
+107235,
+"20:23",
+"2 years ago",
+57
+],
+[
+"WgLHZI51ywE",
+"Stay Powered Up: Generator Tips for Hurricanes",
+"evolutionaryTom",
+"UCxQHRwTRyPqYNUPezZ83zyA",
+3709,
+"8:18",
+"3 years ago",
+55
+],
+[
+"Qp2hgxA88U4",
+"No Power - Generac Standby 36kw Generator",
+"James Condon",
+"UCr_GXW2Y56hOpGchXYNqZOQ",
+454126,
+"22:41",
+"4 years ago",
+53
+],
+[
+"Oe5G7yT8Ds4",
+"Diesel Generator Training, Parts and components and working principle explain Power learning part 1",
+"Power Learning  channel",
+"UC_rv2Mtd05QVNtGO_hek3uA",
+307155,
+"21:11",
+"3 years ago",
+50
+],
+[
+"UkF9DBSMxbc",
+"How to Store a Generator",
+"Ryan Rutter (Rutter Realty Gulf Coast)",
+"UC1EmtULKPy6m6Mu6Q6xgBxQ",
+66401,
+"5:00",
+"5 years ago",
+48
+],
+[
+"URm2DkAZWTE",
+"Backup Generator Installation & Maintenance in Iowa",
+"Coffin Electric",
+"UCFatSGqso4FeTeQmUqvLVkg",
+8,
+"1:04",
+"1 year ago",
+48
+],
+[
+"H0IGIvOXFc0",
+"Shutting Down During Outages",
+"Generac Service Training",
+"UCL1Ez41A_lmxPct-FwZ0Lmw",
+67243,
+"1:40",
+"8 years ago",
+48
+],
+[
+"WPbKkidTQnM",
+"Diesel Generators diesel engine hunting problem | Cummins Generator 500kva - Engine Hunting Problem",
+"Power Learning  channel",
+"UC_rv2Mtd05QVNtGO_hek3uA",
+24701,
+"2:33",
+"3 years ago",
+47
+],
+[
+"CgN2Zey3-SM",
+"How to Prepare for a Power Outage in an Apartment or Condo | Jackery HomePower 3600 Plus",
+"TheUrbanPrepper",
+"UCF6zi1Q3oUknWkAD_LcRVjw",
+197277,
+"16:36",
+"2 months ago",
+38
+]
+]
+}

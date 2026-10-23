@@ -1,0 +1,100 @@
+{
+ "pulled": "2026-10-23",
+ "note": "Transcribed from the NexLev MCP responses of 2026-10-23 (descriptions dropped where identical to the YT about page in ../yt/*-latest.json). Niche-finder records are NexLev's stored profile, last updated by NexLev on the date in updatedAt.",
+ "get_channel_analytics": {
+  "channelId": "UCMXN-53SCPpYxmYSvFOjz2g",
+  "subscriberCount": 5350,
+  "viewCount": 886658,
+  "videoCount": 8,
+  "joinedDate": "2026-08-20",
+  "country": "United States",
+  "links": [],
+  "avgVideoLength": "14:11",
+  "hasShorts": true,
+  "lastVideoUploadDate": "12 days ago",
+  "categories": [
+   "Education",
+   "Engineering",
+   "Construction",
+   "Electrical Engineering"
+  ]
+ },
+ "search_niche_finder_channels": {
+  "query": "animated electrician apprentice school volts amps watts explained",
+  "isMonetizationEnabled": true,
+  "isFaceless": true,
+  "isAiChannel": false,
+  "quality": "mid",
+  "editingStyle": "2d_animation",
+  "editingVoice": "human",
+  "outlierScore": 9.26,
+  "channelCreationDate": "2026-08-20",
+  "stats": {
+   "subscribers": 5210,
+   "monthlyRevenue": 1014.77,
+   "monthlyViews": 380677,
+   "totalViews": 863654,
+   "totalVideos": 8,
+   "avgViewsPerVideo": 173320,
+   "medianViewsPerVideo": 10000,
+   "uploadsPerWeek": 0.5,
+   "firstVideoDate": "2026-09-19",
+   "lastVideoDate": "2026-10-10",
+   "rpm": {
+    "base": 6.8,
+    "total": 2.6657
+   }
+  },
+  "updatedAt": "2026-10-19T23:40:19",
+  "lastUploadedVideos": [
+   [
+    "ffO4xVOU1oI",
+    "Volts, Amps & Watts Explained — and Which One Kills You",
+    786000
+   ],
+   [
+    "MIuiZtAWm7s",
+    "How Electricity Actually Flows (What's Really Moving in a Wire)",
+    68000
+   ],
+   [
+    "pnK_OEpissI",
+    "Series vs Parallel Circuits Explained — Why One Dead Bulb Kills Everything",
+    10000
+   ],
+   [
+    "LOFpw6uyYjQ",
+    "Half Your House Went Dark. The Dark Half Is Still Live.",
+    1600
+   ],
+   [
+    "8nwE0Jq202o",
+    "Why Did Only One Breaker Trip?",
+    1000
+   ]
+  ]
+ },
+ "get_batch_channel_metrics_v2": {
+  "isMonetized": true,
+  "rpm": 4.78,
+  "avgViewsPerVideo": 111932,
+  "avgVideoLength": 14.2,
+  "category": "engineering",
+  "format": "educational",
+  "hasShorts": true,
+  "isFaceless": true,
+  "countryTop": "United States",
+  "confidence": 0.99,
+  "jobId": "e064956d-2d13-4b7e-b173-ed3885997f1a",
+  "timestamp": "2026-10-23T03:31:44Z"
+ },
+ "check_faceless_channel": {
+  "isFaceless": true,
+  "confidence": 0.99,
+  "primaryCategory": "engineering",
+  "format": "educational",
+  "googleTrendsKeyword": "electrician",
+  "cached": true,
+  "timestamp": "2026-10-23T03:32Z"
+ }
+}

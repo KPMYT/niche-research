@@ -1,0 +1,2903 @@
+{
+ "niche": "home safety and fire prevention",
+ "confidence": 0.64,
+ "channels": [
+  {
+   "ytChannelId": "UCUHSDmOjWwi8lViiSPBVz6Q",
+   "title": "Konrad Fischer's Woodfire",
+   "description": "My name is Konrad Fischer. I have heated my house with wood for forty years in the Black Forest, and my father did the same before me.\n\nIn Germany we do not treat wood heat as a hobby. Firewood is seasoned two years, not one. A chimney sweep inspects every stove by law. Nobody burns wet wood, because everyone was taught what wet wood does to a flue.\n\nMost people I meet who burn wood are doing three or four things wrong that nobody ever corrected. Not because they are careless \u2014 because nobody told them. That is what this channel is for.\n\nEvery week: which woods to burn and which to never put in a stove, how to season firewood properly, how to run a stove so it holds heat all night, and how to keep a chimney safe.\n\nEverything here comes from forty years of doing it, not from a manual.",
+   "username": "TheKonradFischersWoodfire",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/hoTRrPhCKeAVATt0wAN2N3asy6uH9cb-I2-B9LdtkjSFHtRxUnnXLfAKNAH44OlkZuy-OzwIAQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-09-07",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "de",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "rural living",
+    "environment",
+    "home improvement",
+    "society"
+   ],
+   "googleTrendsKeyword": "Heizen mit Holz",
+   "category": {
+    "id": 147,
+    "name": "rural living"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 219,
+    "monthlyRevenue": 0,
+    "monthlyViews": 98889,
+    "totalViews": 98500,
+    "totalVideos": 19,
+    "avgViewsPerVideo": 5204.68,
+    "medianViewsPerVideo": 371,
+    "avgVideoLength": 975.05,
+    "uploadsPerWeek": 3.25,
+    "firstVideoDate": "2026-09-20",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 2.9,
+     "total": 3.0622
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "K6gIfzj6tfU",
+     "video_title": "NEVER Let Your Wood Stove Die Overnight \u2014 Try This Old German Trick",
+     "video_view_count": 41000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/K6gIfzj6tfU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5Jt8-WXjpRKML75CWY5hhHNGapw",
+     "length_text": "11:10"
+    },
+    {
+     "video_id": "4zEP8_Uzpig",
+     "video_title": "Britain BLOWS UP The Entire Wood Stove Market With Latest Announcement!",
+     "video_view_count": 38000,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4zEP8_Uzpig/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2troH7zFNDl1rTn5fE0qgUilUOA",
+     "length_text": "18:50"
+    },
+    {
+     "video_id": "-cgq0CEz0vU",
+     "video_title": "5 Firewood Dangers That Can Put You in the Hospital. Number 4 Is Hiding Inside the Log",
+     "video_view_count": 5800,
+     "video_upload_date": "2026-10-14T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-cgq0CEz0vU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlFdx3ztQ5Ft7AGypSC048iR2Nsg",
+     "length_text": "18:16"
+    },
+    {
+     "video_id": "Jf9fRoioFv0",
+     "video_title": "A Cord Is NOT a Truckload \u2014 The Old German Rule That Proves If You Got Shorted",
+     "video_view_count": 3400,
+     "video_upload_date": "2026-10-16T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Jf9fRoioFv0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS474ANaugXuEg1MFY2X17zTFecw",
+     "length_text": "17:59"
+    },
+    {
+     "video_id": "OTfavE14Noc",
+     "video_title": "The Biggest Firewood Drying Myth Americans Believe \u2014 Germans Never Fell for It",
+     "video_view_count": 2800,
+     "video_upload_date": "2026-09-29T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OTfavE14Noc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpvF8cJ-8U8wqmg9gwyIVyEc9ePw",
+     "length_text": "13:41"
+    }
+   ],
+   "score": 0.6733673810958862,
+   "createdAt": "2026-10-14T10:22:10.176775",
+   "updatedAt": "2026-10-20T00:09:21.778900"
+  },
+  {
+   "ytChannelId": "UCqkAM60837FU4C1CzNEU6iw",
+   "title": "Firehouse Life",
+   "description": "Welcome to FirehouseLife! \ud83d\ude92\n\nDiscover what life is really like inside a fire station, from 24-hour shifts and emergency calls to the daily routines of firefighters. We explore the challenges, dangerous situations, and surprising moments most people never get to see. Join us and discover what really happens behind the firehouse doors!",
+   "username": "FirehouseLife",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/IrkmG38TNNWB8hwbSmbfFxXtrLQNmWmTL2Pgssc6Pw3UFG_g8uMuvuYFvnTOu0Tzi7kZxaSgIg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "NL",
+   "channelCreationDate": "2026-09-21",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": "photo_documentary",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "investigative documentaries",
+    "disaster and accidents",
+    "education",
+    "news"
+   ],
+   "googleTrendsKeyword": "firefighter documentary",
+   "category": {
+    "id": 300,
+    "name": "investigative documentaries"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 745,
+    "monthlyRevenue": 0,
+    "monthlyViews": 195202,
+    "totalViews": 130274,
+    "totalVideos": 29,
+    "avgViewsPerVideo": 4579.62,
+    "medianViewsPerVideo": 2400,
+    "avgVideoLength": 1161.38,
+    "uploadsPerWeek": 7.25,
+    "firstVideoDate": "2026-09-28",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 4,
+     "total": 3.7637
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "atVMN10yfrg",
+     "video_title": "What Happens When Firefighters Get an Alarm While They\u2019re Sleeping?",
+     "video_view_count": 37000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/atVMN10yfrg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCBVk7w62uS89dQ1gLU7I4x9VaYYQ",
+     "length_text": "22:21"
+    },
+    {
+     "video_id": "zlaIgTHul5Y",
+     "video_title": "What Happens Inside a Fire Station When a 911 Call Comes In?",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/zlaIgTHul5Y/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBSyVEGtP4K5-8eZTbtTz2exBMagg",
+     "length_text": "24:53"
+    },
+    {
+     "video_id": "58WiQ27vW0s",
+     "video_title": "What Happens When Firefighters Get a Call During Dinner?",
+     "video_view_count": 9400,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/58WiQ27vW0s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCUlipfHhUJAGAj82joDWUHFnKjIw",
+     "length_text": "19:49"
+    },
+    {
+     "video_id": "Bn2MTSb4kDs",
+     "video_title": "Inside America's Busiest Fire Station \u2014 24 Hours of Nonstop Calls",
+     "video_view_count": 7600,
+     "video_upload_date": "2026-10-07T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Bn2MTSb4kDs/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDu8aPsfokbvm_dL4DVZBpVba17bA",
+     "length_text": "18:59"
+    },
+    {
+     "video_id": "lpa_9O-nrYo",
+     "video_title": "What Happens When a Firefighter Dies During a Fire?",
+     "video_view_count": 7600,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lpa_9O-nrYo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBpfOuz8R7gHo961CgmOJxUfilHqg",
+     "length_text": "19:19"
+    }
+   ],
+   "score": 0.6731746792793274,
+   "createdAt": "2026-10-07T08:25:54.556762",
+   "updatedAt": "2026-10-19T23:42:53.363100"
+  },
+  {
+   "ytChannelId": "UCQCRIhHQ__ncUxtOHiIXI4A",
+   "title": "Exposi",
+   "description": "\ud83d\udc47 New for fall: The Fall Changeover Field Manual \ud83d\udc47\nShut your AC down right, fire your heat up safely, plus the HVAC Field Manual & the bundle-exclusive Contractor Defense Field Manual:\nexposi.pages.dev/s/main\n\nYour HVAC system is the most expensive thing in your home you know nothing about. We're here to change that.\n\nWe expose the truth behind HVAC brands, contractors and repair quotes \u2014 the stuff manufacturers, installers and reviewers won't tell you. Which brands still last, which ones technicians blacklist, what a $99 \"tune-up\" really is, and when a $12,000 replacement is actually a $400 repair.\n\nReal research. No contractor kickbacks. No brand deals. Just the facts.\n\nNew investigations every week.\n\nSubscribe before you sign that quote.",
+   "username": "Exposerosi34",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/nUFYzHjHKpBXzozsXr-v7nmXmWw9bE8CxmoR45yNH0qxQ-iLj32k54bdexyDAFd87qPaYMnIXg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-06-08",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0.2,
+   "tags": [
+    "engineering",
+    "do it yourself",
+    "small business",
+    "home improvement"
+   ],
+   "googleTrendsKeyword": "HVAC",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 2490,
+    "monthlyRevenue": 1262.59,
+    "monthlyViews": 473642,
+    "totalViews": 723095,
+    "totalVideos": 42,
+    "avgViewsPerVideo": 17242.71,
+    "medianViewsPerVideo": 943.5,
+    "avgVideoLength": 837.95,
+    "uploadsPerWeek": 3,
+    "firstVideoDate": "2026-07-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.6657
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ExzlvE5GfX8",
+     "video_title": "Doing This Will Make Your AC Run Like NEW Again!",
+     "video_view_count": 321000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ExzlvE5GfX8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCHUYgTjSToPHmTLi_e9oZizAgpTg",
+     "length_text": "14:07"
+    },
+    {
+     "video_id": "F0ENEEqAyaE",
+     "video_title": "This SECRET AC Trick is Only Known by 1% of HVAC Technicians (USE THEM NOW)",
+     "video_view_count": 196000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/F0ENEEqAyaE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXKpjhR4T3ZURLx8SFcULFw5yIag",
+     "length_text": "14:27"
+    },
+    {
+     "video_id": "HfELRedGjpQ",
+     "video_title": "This SECRET Fall AC Trick Is Only Known by 1% of HVAC Technicians (DO IT BEFORE WINTER)",
+     "video_view_count": 42000,
+     "video_upload_date": "2026-10-08T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HfELRedGjpQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_2T2c5IFEi5zsYz5XT0AhhtZ3_g",
+     "length_text": "11:12"
+    },
+    {
+     "video_id": "UMMG62rdxa0",
+     "video_title": "17 \u201cILLEGAL\u201d SECRET AC Tricks Technicians DON\u2019T WANT You Using (But They WORK!)",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UMMG62rdxa0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFEFT8Nxu8jjBeTWabz9awQ_8VJw",
+     "length_text": "13:21"
+    },
+    {
+     "video_id": "2Y5m7PCy0XQ",
+     "video_title": "This SECRET AC Trick Is Unknown To 99% Of AC Owners",
+     "video_view_count": 20000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2Y5m7PCy0XQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDLCiD8zKQJ_EicYksXNun2kF-X9g",
+     "length_text": "14:26"
+    }
+   ],
+   "score": 0.6588913798332214,
+   "createdAt": "2026-09-30T18:14:14.292243",
+   "updatedAt": "2026-10-19T22:32:48.669010"
+  },
+  {
+   "ytChannelId": "UCRKwB8DarX5_lykpnh8BolQ",
+   "title": "Rational Buyer",
+   "description": "",
+   "username": "rational_buyer",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/_JLVQfFCHYwtwHPBytnGLxidT8OaHmbk8TXgDxvr1mBUSVedHJ2NqvJlhQPC4qs4TIO6lA6Zyg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "FR",
+   "channelCreationDate": "2026-02-21",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.1,
+   "tags": [
+    "do it yourself",
+    "engineering",
+    "home improvement",
+    "small business"
+   ],
+   "googleTrendsKeyword": "home improvement",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 1800,
+    "monthlyRevenue": 89.91,
+    "monthlyViews": 22712,
+    "totalViews": 349718,
+    "totalVideos": 31,
+    "avgViewsPerVideo": 11250.77,
+    "medianViewsPerVideo": 344,
+    "avgVideoLength": 707.71,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-05-19",
+    "rpm": {
+     "base": 1.8,
+     "total": 3.9589
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ySzrVsvwuBs",
+     "video_title": "How Smart Homeowners Are Cutting Their Electric Bill in Half (The Panel Upgrade Loophole)",
+     "video_view_count": 282000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ySzrVsvwuBs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZAGaK1sBPgwrnzxnGmK0uKMv3BA",
+     "length_text": "10:44"
+    },
+    {
+     "video_id": "mH1nkv_Vj0I",
+     "video_title": "The Only 7 Tool Brands Built to Last a Lifetime (The \"Grandfather's Garage\" List)",
+     "video_view_count": 25000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mH1nkv_Vj0I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXvcojEff3ccClJiBxlG3rBgYAlw",
+     "length_text": "11:41"
+    },
+    {
+     "video_id": "H_PitCUQEeU",
+     "video_title": "7 Things That Get Better The Longer You Own Them (Buy It For Life)",
+     "video_view_count": 17000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/H_PitCUQEeU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcpckuBat8PNOeHwSXxpMeJGU7kg",
+     "length_text": "12:25"
+    },
+    {
+     "video_id": "j5mmiDQF1hc",
+     "video_title": "Why Plumbers and Electricians Never Buy Anything at Home Depot",
+     "video_view_count": 8400,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/j5mmiDQF1hc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwL_baCoC1ORrahjO-MMSyB754Zw",
+     "length_text": "12:37"
+    },
+    {
+     "video_id": "yaY6E4pp-XI",
+     "video_title": "The Only 7 \u201cDumb\u201d Appliances Left (The \u201cNo Chip\u201d List)",
+     "video_view_count": 3000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yaY6E4pp-XI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJAHBPHCOiqxraO01AMZ3yCXBkSQ",
+     "length_text": "12:53"
+    }
+   ],
+   "score": 0.6476495265960693,
+   "createdAt": "2026-10-02T04:19:31.768607",
+   "updatedAt": "2026-10-19T23:08:48.214058"
+  },
+  {
+   "ytChannelId": "UCDx17wSe3DLEr2gowDJh5GQ",
+   "title": "Krisen-Punkt",
+   "description": "\ud83d\udea8 Willkommen bei Krisen-Punkt - Dein Guide f\u00fcr Krisenvorsorge und \u00dcberlebensvorbereitung\n\nIn einer Welt voller Unsicherheiten ist Vorbereitung der Schl\u00fcssel zum \u00dcberleben. Bei Krisen-Punkt erh\u00e4ltst du fundiertes Wissen, praktische Tipps und strategische Einblicke f\u00fcr die Vorbereitung auf verschiedene Krisenszenarien.\n\n\ud83c\udfaf Was du hier lernst:\n\u2705 Bug-Out und Bug-In Strategien\n\u2705 Notfallvorsorge f\u00fcr Zuhause\n\u2705 \u00dcberlebenstechniken und -ausr\u00fcstung\n\u2705 Krisenvorbereitung f\u00fcr Familien\n\u2705 Gesellschaftlicher Kollaps: Anzeichen und Vorbereitung\n\u2705 Autarkie und nachhaltige Versorgung\n\n\u26a0\ufe0f Wichtiger Hinweis:\nDie Informationen in unseren Videos dienen der Bildung und Aufkl\u00e4rung. Bitte beachte \u00f6rtliche Gesetze und handle verantwortungsbewusst.\n\n\ud83d\udd14 Abonniere jetzt f\u00fcr lebensrettende Informationen!\n\ud83d\udc4d Like und teile unsere Videos, um mehr Menschen zu erreichen\n\ud83d\udcac Kommentiere deine eigenen Prepping-Erfahrungen",
+   "username": "Krisen-Punkt",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/AelUjllNM_2CcOQK-f6mBNcfGjth2_G77_z2jp_1Us9p8IhHWN_wZyU4C56M9Qu1pSv1-RwfOw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "BR",
+   "channelCreationDate": "2025-08-27",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "de",
+   "editingStyle": "ai_images",
+   "editingVoice": "ai",
+   "outlierScore": 0.4,
+   "tags": [
+    "prepping",
+    "geo politics",
+    "military",
+    "society"
+   ],
+   "googleTrendsKeyword": "Krisenvorsorge",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 11,
+    "name": "commentary"
+   },
+   "stats": {
+    "subscribers": 10500,
+    "monthlyRevenue": 0,
+    "monthlyViews": 15275,
+    "totalViews": 1109537,
+    "totalVideos": 124,
+    "avgViewsPerVideo": 8814.69,
+    "medianViewsPerVideo": 4000,
+    "avgVideoLength": 1322.01,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-03-19",
+    "rpm": {
+     "base": 9,
+     "total": 2.1655
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "vGN6_AysGFk",
+     "video_title": "Das erste Ziel nach dem Blackout (und wie Sie vermeiden, es zu sein)",
+     "video_view_count": 109000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vGN6_AysGFk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCbPOpGLcUS4UFvRZhFSVIUalyuTQ",
+     "length_text": "23:11"
+    },
+    {
+     "video_id": "-uLX0IhmYgw",
+     "video_title": "After the blackout: The 5 items that will be more valuable than gold",
+     "video_view_count": 71000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-uLX0IhmYgw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLADR4lDV5OuqMJGq1oaQ1h8m9jSVQ",
+     "length_text": "19:13"
+    },
+    {
+     "video_id": "Nxa20EasEW4",
+     "video_title": "How to Defend Your Home Against Looters, Thieves, and Raiders in a SHTF Scenario",
+     "video_view_count": 59000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Nxa20EasEW4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfHVQW-AzOdPb7zKeVDPy5dQwxPA",
+     "length_text": "19:37"
+    },
+    {
+     "video_id": "SxuROntkA-M",
+     "video_title": "Looter Defense Manual: 5 Household Items That Become Deadly Weapons",
+     "video_view_count": 45000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/SxuROntkA-M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0gppcjziLji7nieRMc98-3MzzIg",
+     "length_text": "1:05:43"
+    },
+    {
+     "video_id": "JKVa6jAJR-g",
+     "video_title": "Wenn Pl\u00fcnderer die Kontrolle \u00fcbernehmen: Ein Leitfaden, um die Stellung zu Halten.",
+     "video_view_count": 35000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JKVa6jAJR-g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDZLag00O44UKhESG6ROpU1fz5C1g",
+     "length_text": "22:19"
+    }
+   ],
+   "score": 0.6452139616012573,
+   "createdAt": "2026-10-01T09:09:21.167847",
+   "updatedAt": "2026-10-19T22:52:31.947793"
+  },
+  {
+   "ytChannelId": "UCQECEGqs2AwQykTv7UtsZMw",
+   "title": "SEVERE WEATHER NEWS",
+   "description": "Welcome to SEVERE WEATHER NEWS.\n\nyour trusted source for breaking severe weather news, alerts, and forecast updates from across the United States and around the world.\nWe cover tornadoes, hurricanes, severe thunderstorms, flash floods, winter storms, extreme heat, wildfires, and other dangerous weather events.\nStay informed with timely weather updates, storm tracking, forecasts, and coverage of the world\u2019s most severe weather events.\n\nSubscribe to SEVERE WEATHER NEWS for the latest weather updates and stay informed, prepared, and safe.",
+   "username": "SEVEREWEATHERNEWS_TV",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/Bvm06QRe08kcHZ2QC9CivIQNI94GcAWDRxaT9y2RSLXM8MJfo4z_QnC9YzHFp72fTHwH-VEZ6w=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-11-11",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "screen_recording",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "disaster and accidents",
+    "weather",
+    "news",
+    "investigative documentaries"
+   ],
+   "googleTrendsKeyword": "severe weather",
+   "category": {
+    "id": 97,
+    "name": "disaster and accidents"
+   },
+   "format": {
+    "id": 3,
+    "name": "news"
+   },
+   "stats": {
+    "subscribers": 721,
+    "monthlyRevenue": 0,
+    "monthlyViews": 426,
+    "totalViews": 154290,
+    "totalVideos": 23,
+    "avgViewsPerVideo": 6639.26,
+    "medianViewsPerVideo": 53,
+    "avgVideoLength": 843.17,
+    "uploadsPerWeek": 2.75,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 5,
+     "total": 2.135
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "rUR2vOJ-72s",
+     "video_title": "\ud83d\udea8 U.S. Wildfire Emergency: Hawk Fire Burns 10,523 Acres, 14,000 Homes Under Evacuation Orders",
+     "video_view_count": 63000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rUR2vOJ-72s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_Jt4KXMSxk6qdU6cmgulTDTFbRw",
+     "length_text": "10:19"
+    },
+    {
+     "video_id": "1Zp6vhcDbrQ",
+     "video_title": "\ud83d\udea8 U.S. Wildfire Emergency: Hawk Fire Tops 15,000 Acres, 42,000 Under Evacuation Orders",
+     "video_view_count": 55000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1Zp6vhcDbrQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXtgtZ4KzpjoF1aMGvRBwf4XhoRQ",
+     "length_text": "14:36"
+    },
+    {
+     "video_id": "81oRDrKvERo",
+     "video_title": "\ud83d\udea8 Texas Ross Fire Explodes from 25 to 50,000 Acres in Under 18 Hours | Evacuations Ordered",
+     "video_view_count": 22000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/81oRDrKvERo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFTQvBPihuLc3pk1dSGgh0A5Ht4A",
+     "length_text": "10:56"
+    },
+    {
+     "video_id": "hqIgp__M4bA",
+     "video_title": "\ud83d\udea8 U.S. Wildfires Explode to 157% of Normal | 6.26 Million Acres Burned",
+     "video_view_count": 5800,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/hqIgp__M4bA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1nAb3coG6CwxBbjCQXAL3OeY-6w",
+     "length_text": "16:29"
+    },
+    {
+     "video_id": "u8vePwr6WLo",
+     "video_title": "Canada Wildfires 2026: B.C. Evacuations, Smoke Spreads to U.S.",
+     "video_view_count": 2100,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/u8vePwr6WLo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCNLsG1CvqJx9ji7SUNhorJ95F7A",
+     "length_text": "12:32"
+    }
+   ],
+   "score": 0.6448723673820496,
+   "createdAt": "2026-10-01T12:06:29.534021",
+   "updatedAt": "2026-10-19T22:56:47.757818"
+  },
+  {
+   "ytChannelId": "UCiGOVbSR3aWWFAO0_ux_fwA",
+   "title": "Survival Blueprint",
+   "description": "",
+   "username": "SurvivalBlueprint-m6d",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/qNVK8fm5N_TNp9H5uDscmT-sP0j9zhRsO5vx1BbK1z5x6NFcRVpMLa3N7WxTqUHhX9XOcCN96w=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-08-12",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 4.12,
+   "tags": [
+    "prepping",
+    "disaster stories",
+    "investigative documentaries",
+    "self improvement"
+   ],
+   "googleTrendsKeyword": "survival prepper",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 9620,
+    "monthlyRevenue": 1824.02,
+    "monthlyViews": 348914,
+    "totalViews": 1015072,
+    "totalVideos": 19,
+    "avgViewsPerVideo": 53565.21,
+    "medianViewsPerVideo": 8100,
+    "avgVideoLength": 2573.58,
+    "uploadsPerWeek": 3,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 9,
+     "total": 5.2277
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "QQDzD6oSPic",
+     "video_title": "11 Dollar Tree Heating Items That'll Be WORTH GOLD in Winter Emergencies",
+     "video_view_count": 285000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QQDzD6oSPic/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsaQ6Jr-fLsq3_OCKo9-k0zHnVnQ",
+     "length_text": "31:40"
+    },
+    {
+     "video_id": "WIXm-0vfn98",
+     "video_title": "17 Urgent Items The Red Cross SAYS YOU MUST Stockpile NOW",
+     "video_view_count": 246000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WIXm-0vfn98/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0Wlutvnvx1sFjOQDPG6adL7mIeg",
+     "length_text": "1:03:57"
+    },
+    {
+     "video_id": "WTPjJOeo7GU",
+     "video_title": "10 Cheap Household Items That Still Function After an EMP Blackout",
+     "video_view_count": 176000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WTPjJOeo7GU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgR2HBQa-rdhIjbnI5B6dtWOnRRA",
+     "length_text": "31:15"
+    },
+    {
+     "video_id": "4YFZo_DN__g",
+     "video_title": "6 Everyday Items You\u2019ll Have to PROTECT From Your Neighbors After Collapse",
+     "video_view_count": 166000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4YFZo_DN__g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi7KHPPHIHv_kVJ8NESWF8uVV0-w",
+     "length_text": "31:57"
+    },
+    {
+     "video_id": "1uR9jtE8Obo",
+     "video_title": "First Things They'll Confiscate in a SHTF Crisis (Hide These NOW)",
+     "video_view_count": 52000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1uR9jtE8Obo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMBVjZJFPc6zB16NDb3ruYDJ_l-g",
+     "length_text": "31:17"
+    }
+   ],
+   "score": 0.6444159746170044,
+   "createdAt": "2026-09-30T17:05:02.201839",
+   "updatedAt": "2026-10-19T22:31:11.738864"
+  },
+  {
+   "ytChannelId": "UCek3nMgSgsrGBq_DtGW1yvA",
+   "title": "Nadia Gerges",
+   "description": "Welcome to Nadia Gerges, your go-to source for timely weather alerts and forecast updates across the United States.\n\nThis channel covers tornadoes, hurricanes, severe thunderstorms, flash floods, winter storms, extreme heat, wildfires, and other hazardous weather events.\n\nCount on us for up-to-the-minute updates, storm tracking, and forecasts that help you stay prepared and protected.\n\n\ud83d\udce2 AI Voice Disclosure: Videos on this channel feature AI-generated voice narration to share weather information and news. The AI voice is used solely for narration and presentation, helping us deliver clear, prompt, and accessible updates about severe weather threats.\n\nSubscribe to Nadia Gerges for the latest U.S. weather news and severe weather alerts.\n\nNadia Gerges: Following America's Most Dangerous Weather.",
+   "username": "NadiaGergesYT",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ePYiM__5_QXaEXrOngbm5Ve48EPijzTPzLasd31jcqpJwMbjgg5HSxkh55oP5fUj1k2hcLCIIOA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-02-28",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0.05,
+   "tags": [
+    "disaster and accidents",
+    "news",
+    "environment",
+    "weather"
+   ],
+   "googleTrendsKeyword": "wildfire",
+   "category": {
+    "id": 97,
+    "name": "disaster and accidents"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1690,
+    "monthlyRevenue": 142.01,
+    "monthlyViews": 39326,
+    "totalViews": 102760,
+    "totalVideos": 26,
+    "avgViewsPerVideo": 3893.58,
+    "medianViewsPerVideo": 184,
+    "avgVideoLength": 967.81,
+    "uploadsPerWeek": 1.75,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 6.6,
+     "total": 3.6112
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "1zb7nMuBU_0",
+     "video_title": "\ud83d\udea8 Reno Hawk Fire Forces 90,000 To Flee \u2014 Was It Arson? Nevada Declares Emergency",
+     "video_view_count": 50000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1zb7nMuBU_0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIHSK4amFTeruE3D5chKQTLrmQJg",
+     "length_text": "11:55"
+    },
+    {
+     "video_id": "Hs4c-QBT6JE",
+     "video_title": "Hurricane Isaias Hit Florida Hard \u2013 4 Dead, 860,000 Without Power and Flooding Continues",
+     "video_view_count": 30000,
+     "video_upload_date": "2026-10-11T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Hs4c-QBT6JE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdCsGKhx7KnB7wvCA6rK7X_7giOA",
+     "length_text": "18:47"
+    },
+    {
+     "video_id": "LLjErl6LKIc",
+     "video_title": "\ud83d\udea8 Bug, Fred Mountain & Stallion Fires EXPLODE | Arson Arrest as Fires Surround Reno",
+     "video_view_count": 7200,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/LLjErl6LKIc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZEnhHoFdCTCdM8TFjiiKyk6ilWg",
+     "length_text": "15:09"
+    },
+    {
+     "video_id": "bR7leib_UxE",
+     "video_title": "\ud83d\udea8 Hurricane Isaias Disaster | First Hurricane of 2026 Slams Florida & Alabama Tonight",
+     "video_view_count": 7100,
+     "video_upload_date": "2026-10-10T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bR7leib_UxE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWlA7ox3iADAm-gqMkpF3G52pkMw",
+     "length_text": "19:33"
+    },
+    {
+     "video_id": "5-vCpGla_Oo",
+     "video_title": "\ud83d\udea8 Bug & Fred Mountain Fires EXPLODE | Nevada Wildfires Merge Into 45,000 Acres Near Reno",
+     "video_view_count": 1800,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/5-vCpGla_Oo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7slhUpKnhqm8m2TMdG96mF8QieA",
+     "length_text": "15:10"
+    }
+   ],
+   "score": 0.639034628868103,
+   "createdAt": "2026-09-29T15:28:28.214198",
+   "updatedAt": "2026-10-19T22:19:49.479897"
+  },
+  {
+   "ytChannelId": "UCurNXMR8w5vd-DcyxN76HwQ",
+   "title": "Prepper Pulse",
+   "description": "",
+   "username": "PrepperPulse-m4m",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/nx97HrcaXxYT86hfMaY_nFEZDfzsF5NviYBIlEHPntUcPRq3u-oVFoeXjWx9wuCRxJx1UxZCsOE=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-06-22",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.16,
+   "tags": [
+    "prepping",
+    "rural living",
+    "health",
+    "motivational videos"
+   ],
+   "googleTrendsKeyword": "prepping",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 4510,
+    "monthlyRevenue": 82.9,
+    "monthlyViews": 36533,
+    "totalViews": 605139,
+    "totalVideos": 64,
+    "avgViewsPerVideo": 9425.11,
+    "medianViewsPerVideo": 465,
+    "avgVideoLength": 1752.02,
+    "uploadsPerWeek": 7,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 9,
+     "total": 2.2692
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "0lIS-3eOJMM",
+     "video_title": "10 Dollar Tree Items to Buy Before Winter Arrives",
+     "video_view_count": 264000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/0lIS-3eOJMM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgbj02g_6yBbssyoCVJu-XhXdugg",
+     "length_text": "22:49"
+    },
+    {
+     "video_id": "LHYsCJR8iYw",
+     "video_title": "10 Survival Drinks That Keep You Alive When Water Is Limited",
+     "video_view_count": 253000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/LHYsCJR8iYw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyZAMKTQmnAkCikh-woqfhGWub2Q",
+     "length_text": "23:23"
+    },
+    {
+     "video_id": "KqOrI1kVYOg",
+     "video_title": "15 Foods Smart Families Are Quietly Stockpile Before the Next Panic",
+     "video_view_count": 10000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KqOrI1kVYOg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoLkyS3son6uQjxx_GIPqNehqkhA",
+     "length_text": "35:27"
+    },
+    {
+     "video_id": "UsF6pX0Mm0Q",
+     "video_title": "10 Survival Drinks to Stockpile Before Winter 2026",
+     "video_view_count": 10000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UsF6pX0Mm0Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkwP-TTAVaDgFPKLE97fyIxlvnTQ",
+     "length_text": "30:29"
+    },
+    {
+     "video_id": "OHdrQxBV86s",
+     "video_title": "12 Survival Drinks That NEVER Expire",
+     "video_view_count": 8900,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OHdrQxBV86s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHWenaLEG5VrdECoTP2M4X4mQC6A",
+     "length_text": "32:20"
+    }
+   ],
+   "score": 0.6364616751670837,
+   "createdAt": "2026-09-30T21:06:56.452332",
+   "updatedAt": "2026-10-19T22:35:03.642753"
+  },
+  {
+   "ytChannelId": "UCnNLtiZfmZ2Vkybw-OKxXvQ",
+   "title": "Elias Mercer Method",
+   "description": "Discover clever home, garden, cleaning, and energy-saving methods from America, Britain, Germany, and beyond. Elias Mercer Method transforms traditional wisdom into simple solutions for smarter everyday living.",
+   "username": "EliasMercerMethod",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/lY0GmWLYMguWw1ojDaU_Lb-OPjUuLQ3vWouwRQvtqmHEZw2JRZgobGi-YSTZXIjzbmf_BbS9lQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-08-06",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "live_action_faceless",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "do it yourself",
+    "engineering",
+    "construction",
+    "home improvement"
+   ],
+   "googleTrendsKeyword": "home improvement",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 1140,
+    "monthlyRevenue": 0,
+    "monthlyViews": 304982,
+    "totalViews": 345408,
+    "totalVideos": 31,
+    "avgViewsPerVideo": 11067.84,
+    "medianViewsPerVideo": 601,
+    "avgVideoLength": 717.1,
+    "uploadsPerWeek": 2.5,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 1.8,
+     "total": 2.3668
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "-gfBM2U6DxE",
+     "video_title": "5 Things You Should NEVER Plug Into a Power Strip!",
+     "video_view_count": 288000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-gfBM2U6DxE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvKuLv0_b7RqKfnkwpCyDwSTCjQw",
+     "length_text": "13:07"
+    },
+    {
+     "video_id": "RSb-Jlhu7pg",
+     "video_title": "Pour Hydrogen Peroxide in Your Toilet Tank Tonight\u2014Here\u2019s What Happens!",
+     "video_view_count": 16000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/RSb-Jlhu7pg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_K-KeumuefmZjBBPY9W3Wd0QeVw",
+     "length_text": "12:13"
+    },
+    {
+     "video_id": "4PpbS2HYaj4",
+     "video_title": "Why Are People Burying Copper Coils in Their Backyards?",
+     "video_view_count": 11000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4PpbS2HYaj4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGOBjKgPHcXpFQOz7mnEYduChK4g",
+     "length_text": "11:02"
+    },
+    {
+     "video_id": "HkIcIj0xXVM",
+     "video_title": "The Cheapest Way to Remove a Tree Stump (Tested 3 Methods)",
+     "video_view_count": 5900,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HkIcIj0xXVM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv_bJ29QcU59y45Q1INcJ0fIM1ag",
+     "length_text": "10:21"
+    },
+    {
+     "video_id": "5u5YMHVgUJQ",
+     "video_title": "15 Home Organization Ideas That Save Hours Every Week!",
+     "video_view_count": 4100,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/5u5YMHVgUJQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDQuzTz6OJPY463wsLVjgV7E4GiA",
+     "length_text": "10:55"
+    }
+   ],
+   "score": 0.6341524124145508,
+   "createdAt": "2026-10-01T16:09:19.571457",
+   "updatedAt": "2026-10-19T23:02:51.897590"
+  },
+  {
+   "ytChannelId": "UChoVwGVLPHvm55zLbDOeJXA",
+   "title": "June's Kitchen Table",
+   "description": "June Halvorsen is a fictional character: an AI-generated grandmother living at the end of a gravel road on Minnesota's Iron Range. In her story, her late husband Walt restored power for the electric co-op for 38 years, and she drove a rural mail route for 31 winters.\n\nHere you'll find plain, cheap-first ways for older folks to get through winter and power outages: what to do when the power goes out, staying warm without electricity, store lists that won't break a fixed income, and the old ways our grandparents knew.\n\nJune's face and voice are made with AI, and her stories are fiction. Every video is researched, written and fact-checked by our small team, and every safety fact comes from a public source (CDC, National Institute on Aging, Red Cross, FEMA, CPSC, FTC) listed in the video description. June isn't a doctor, lawyer or financial adviser, and nothing here is medical, legal or financial advice. No fear, no politics.",
+   "username": "JunesKitchenTable",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/TYdPQeWHYUpg7r6li_ddKHOWV5eSjGWXMTt10R-htHXupRe6NwXXnSctQVqT4e3cKf5TLMaLiA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-07-08",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "prepping",
+    "rural living",
+    "self improvement",
+    "lifestyle"
+   ],
+   "googleTrendsKeyword": "prepping",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 1370,
+    "monthlyRevenue": 2005.8,
+    "monthlyViews": 528648,
+    "totalViews": 467408,
+    "totalVideos": 22,
+    "avgViewsPerVideo": 24419.73,
+    "medianViewsPerVideo": 1250,
+    "avgVideoLength": 703.82,
+    "uploadsPerWeek": 4.5,
+    "firstVideoDate": "2026-09-20",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 8,
+     "total": 3.7942
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "1Oz08l8RTWg",
+     "video_title": "9 Ways I Keep My Bed Warm With No Heat (The Cold Comes From Underneath)",
+     "video_view_count": 318000,
+     "video_upload_date": "2026-10-15T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1Oz08l8RTWg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzXzeP5-G4VfnjBkAEYTbNc621qQ",
+     "length_text": "9:57"
+    },
+    {
+     "video_id": "ldMtj6oIzw8",
+     "video_title": "9 Ways I Keep One Room Warm With No Power (65\u00b0 Is Already Too Cold at 74)",
+     "video_view_count": 137000,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ldMtj6oIzw8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXGHgEGLy0sNW7ImEuKh_JCSpzNQ",
+     "length_text": "9:47"
+    },
+    {
+     "video_id": "GR7Jj70m3fQ",
+     "video_title": "10 Things Ice-Storm Veterans Keep So You Can Eat for a Week",
+     "video_view_count": 28000,
+     "video_upload_date": "2026-09-29T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/GR7Jj70m3fQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtkMJY4opJBk3SNJFyS7SgNE9Glg",
+     "length_text": "10:29"
+    },
+    {
+     "video_id": "Jnj4HwWnxyI",
+     "video_title": "11 Dollar Tree Outage Items I Buy Every October And 2 I Wont",
+     "video_view_count": 14000,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Jnj4HwWnxyI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAxOQOzP_-Oa5Ch1vD4XrORjPZow",
+     "length_text": "9:20"
+    },
+    {
+     "video_id": "yB-mf6m7otw",
+     "video_title": "Bubble Wrap on Your Windows? 4 Things Nobody Tells You",
+     "video_view_count": 12000,
+     "video_upload_date": "2026-10-16T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yB-mf6m7otw/hq720_custom_1.jpg?sqp=CNji2tYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHxHvJxXCbshpi4fqfBf-WoknCfw",
+     "length_text": "8:38"
+    }
+   ],
+   "score": 0.6340145468711853,
+   "createdAt": "2026-10-14T10:28:23.269111",
+   "updatedAt": "2026-10-20T00:10:00.509995"
+  },
+  {
+   "ytChannelId": "UCxzV8-PVWTLLc6zok7H1K7g",
+   "title": "Disasters Watch",
+   "description": "Daily disaster briefings from around the world \u2014 wildfires, floods, storms, hurricanes and typhoons, earthquakes, extreme heat.\n\nEvery day, national and international agencies publish hundreds of pages of reports on disasters unfolding across the globe. Almost nobody reads them. We do.\n\nEach update covers what changed in the last 24 hours: how far each incident has spread, what's contained, which roads are closed, who is under evacuation orders, and what the forecast means next. Same format for every event, in every country.\n\nEvery number comes from a published agency report \u2014 NOAA, USGS, GDACS, Copernicus and national weather services \u2014 and we name the source. If the data is a day old, we say so.\n\nWe are not an emergency service. If you are in the path of something, your local authorities and national weather service come first, always. Every video links to the official sources for the regions covered.\n\nNew update every day.",
+   "username": "Disasters_Watch",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/Rc8sHSrCPcPvAYUoQBmPIKJJYlxQ-q22wiurykdTrW3_N93DohEb6hJXhEK2REM6Ft-bW6XjCZ4=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-04-05",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0.6,
+   "tags": [
+    "disaster and accidents",
+    "news",
+    "weather",
+    "investigative documentaries"
+   ],
+   "googleTrendsKeyword": "natural disasters",
+   "category": {
+    "id": 97,
+    "name": "disaster and accidents"
+   },
+   "format": {
+    "id": 3,
+    "name": "news"
+   },
+   "stats": {
+    "subscribers": 5730,
+    "monthlyRevenue": 576.96,
+    "monthlyViews": 485044,
+    "totalViews": 2262311,
+    "totalVideos": 187,
+    "avgViewsPerVideo": 11961.38,
+    "medianViewsPerVideo": 1800,
+    "avgVideoLength": 975.91,
+    "uploadsPerWeek": 22,
+    "firstVideoDate": "2026-06-19",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 6.6,
+     "total": 1.1895
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "3lGGVjpYfPg",
+     "video_title": "ITALY'S ETNA ERUPTS \u2013 CATANIA AIRPORT SHUT FOR A FOURTH TIME | Latest Updates",
+     "video_view_count": 285000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/3lGGVjpYfPg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfApMxL2W4UVoEEPx2Z1edsulrEg",
+     "length_text": "14:59"
+    },
+    {
+     "video_id": "HixWxUX6jRQ",
+     "video_title": "Nepal Flood, Day 10: ALIVE After 9 Days in the Tunnel \u2014 115 Still Trapped",
+     "video_view_count": 206000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HixWxUX6jRQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx6Dk_dAGXqHhqm49tdOp8GzTk_g",
+     "length_text": "31:05"
+    },
+    {
+     "video_id": "1WL1IKT92e8",
+     "video_title": "CALIFORNIA Fire Cuts I-80 \u2014 One of America's Main Highways Still Closed | Latest Updates",
+     "video_view_count": 91000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1WL1IKT92e8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATzf9jJ-dDmV1FXBCXeYyP2_s1TA",
+     "length_text": "13:16"
+    },
+    {
+     "video_id": "wrggbjA5O-c",
+     "video_title": "1,250 Bodies \u2014 Nepal Flood, Day 9 | Latest Update",
+     "video_view_count": 90000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/wrggbjA5O-c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGHcQ4jiru9WLfmCBz0kui_TKdvg",
+     "length_text": "35:19"
+    },
+    {
+     "video_id": "el3yezWfXv8",
+     "video_title": "Indonesia Volcano Erupts!\ud83c\udf0b Krakatoa Blasts Ash Higher Than Planes Fly, Villages Ordered Out",
+     "video_view_count": 83000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/el3yezWfXv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQGHqBhbg6HmNsVyrtbbfkr91GSA",
+     "length_text": "21:59"
+    }
+   ],
+   "score": 0.633939802646637,
+   "createdAt": "2026-09-30T21:08:15.920486",
+   "updatedAt": "2026-10-19T22:35:14.557731"
+  },
+  {
+   "ytChannelId": "UCZZbyvDtbilmeKGf5anlEyw",
+   "title": "Grandma Dot's Home Secrets",
+   "description": "Welcome to Grandma Dot's Home Secrets, a fully owned media property. All content is original and produced exclusively by our team.\n\n\ud83c\udfe1 Subscribe to Grandma Dot's Home Secrets:\nhttps://www.youtube.com/channel/UCZZbyvDtbilmeKGf5anlEyw?sub_confirmation=1\n\nWe share practical, old-fashioned home wisdom for saving money, wasting less, and making everyday life easier. From forgotten cleaning and laundry tricks to frugal kitchen habits, homemade alternatives, clever ways to reuse household items, and simple home hacks that still work today, Grandma Dot's Home Secrets is all about doing more with what you already have.\n\nEvery video is independently researched, scripted, voiced, and professionally edited for Grandma Dot's Home Secrets. Third-party footage, images, music, and other assets are appropriately licensed or used with applicable permissions.\n\nIf you enjoy simple, useful household tips that have stood the test of time, you're in the right place.\n\nInquiries: nostalgicoperations@gmail.com",
+   "username": "GrandmaDotsHomeSecrets",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/lRYR9rFO4lqhLLJa3hkzyGPRtvNHYj9RmfbrWTmDuMM1fZMBSXMF75zNUd4bTQbtv34kx-zuvw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-19",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "ai",
+   "outlierScore": 0.5,
+   "tags": [
+    "do it yourself",
+    "crafts",
+    "lifestyle",
+    "rural living"
+   ],
+   "googleTrendsKeyword": "DIY home hacks",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 2920,
+    "monthlyRevenue": 201.91,
+    "monthlyViews": 38850,
+    "totalViews": 354803,
+    "totalVideos": 32,
+    "avgViewsPerVideo": 11024.72,
+    "medianViewsPerVideo": 1350,
+    "avgVideoLength": 1232.84,
+    "uploadsPerWeek": 3.75,
+    "firstVideoDate": "2026-09-20",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 3,
+     "total": 5.1972
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "EvWq0VOTaMI",
+     "video_title": "20 Household Tricks I Still Use That Modern Homes Forgot",
+     "video_view_count": 112000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/EvWq0VOTaMI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5HdL0DPiycpKdf-RKKAPrGpPiLg",
+     "length_text": "23:12"
+    },
+    {
+     "video_id": "QHUPG_r6Vck",
+     "video_title": "20 Things I Reuse Instead of Throwing Away",
+     "video_view_count": 92000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QHUPG_r6Vck/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVHoxG_aDPyY6DDelKZQXUApcLjA",
+     "length_text": "20:18"
+    },
+    {
+     "video_id": "olFBE82apvI",
+     "video_title": "20 Things I Do Around the House Before Winter That Most People Forget",
+     "video_view_count": 66000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/olFBE82apvI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC4eH1Oehd42-MPkznblqiNadKzw",
+     "length_text": "20:25"
+    },
+    {
+     "video_id": "YXipDJ-5z3M",
+     "video_title": "15 Home Hacks I Wish I Had Known 30 Years Earlier",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/YXipDJ-5z3M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTkmp1gCv-7p351AgnM1CZ1UrHJQ",
+     "length_text": "17:35"
+    },
+    {
+     "video_id": "f_dL1LI6Bfg",
+     "video_title": "25 Frugal Home Habits I Use When Every Penny Has to Count",
+     "video_view_count": 9900,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/f_dL1LI6Bfg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNOotjXOKyn-OA5AGZlaxUVoEDZw",
+     "length_text": "18:10"
+    }
+   ],
+   "score": 0.6319985389709473,
+   "createdAt": "2026-10-14T10:19:10.371198",
+   "updatedAt": "2026-10-20T00:09:56.717971"
+  },
+  {
+   "ytChannelId": "UCMGi9ZZEgcG_Wzr_C_9wLaA",
+   "title": "Robert Hale",
+   "description": "How did families keep a house cool without electricity, make food last with no refrigerator, and live without endless energy bills? I'm Robert \u2014 and I still remember the old ways they used to.\n\nI grew up around people who knew how to live without depending on the systems modern families now take for granted. We kept our homes warm and cool without the power company, preserved our own food, built things to last, and wasted almost nothing \u2014 the old-fashioned, self-sufficient way of living that most people forgot in a single generation.\n\nOn this channel I share those forgotten household methods and old-fashioned skills: off-grid style cooling and heating, gardening and food preservation, natural pest control, frugal living, and simple traditional tricks people used every day just a few generations ago \u2014 the ones nobody passes down anymore.\n\nNo miracle cures. No \"banned\" secrets. Just real, low-cost, old-fashioned methods that worked then and still work now.",
+   "username": "RobertHaleOldWays",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/hIGveOf5aM_S-uZ3fMVJnYUj68B6n76k1XdcOKkAXM7n48PuaK8wFAs3uj_MUtxUioiV1gc7=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-01-02",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "ai",
+   "outlierScore": 0.16,
+   "tags": [
+    "do it yourself",
+    "crafts",
+    "gardening",
+    "small business"
+   ],
+   "googleTrendsKeyword": "home repair",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 18200,
+    "monthlyRevenue": 0,
+    "monthlyViews": 313249,
+    "totalViews": 3137972,
+    "totalVideos": 15,
+    "avgViewsPerVideo": 206145,
+    "medianViewsPerVideo": 1700,
+    "avgVideoLength": 974.87,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-02-20",
+    "lastVideoDate": "2026-09-20",
+    "rpm": {
+     "base": 3,
+     "total": 2.7633
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "sUdMcXSlZ9k",
+     "video_title": "I\u2019m 105... My Secret to Living This Long Isn\u2019t Diet. Here\u2019s the Truth.",
+     "video_view_count": 1900000,
+     "video_upload_date": "2026-03-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/sUdMcXSlZ9k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLABBiR6T6atzaZVdqLzCESpllitYA",
+     "length_text": "13:36"
+    },
+    {
+     "video_id": "To_mPcpRGzI",
+     "video_title": "I\u2019m 96... I Escaped the Nursing Home. Here\u2019s Why.",
+     "video_view_count": 338000,
+     "video_upload_date": "2026-03-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/To_mPcpRGzI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBATaj0ihHiKYiUxaLAvR351FYZYw",
+     "length_text": "12:59"
+    },
+    {
+     "video_id": "iOFXikyTrnA",
+     "video_title": "I'm 82... Never Get a Girlfriend After 60 (I Regret It Every Morning)",
+     "video_view_count": 294000,
+     "video_upload_date": "2026-03-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/iOFXikyTrnA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCnHfOaFH0ZvkV3yBjnamcNRTVoKA",
+     "length_text": "11:39"
+    },
+    {
+     "video_id": "UnKySMG1e5U",
+     "video_title": "I'm 86... My Kids Forgot Me. Here Is What I Did.",
+     "video_view_count": 246000,
+     "video_upload_date": "2026-03-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UnKySMG1e5U/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_vpOSjR9pZq0ZlGfja8uIxLim5Q",
+     "length_text": "10:32"
+    },
+    {
+     "video_id": "S0fXWN1Rb2g",
+     "video_title": "I'm 82... I Found My First Love After 50 Years (And It Broke Me)",
+     "video_view_count": 168000,
+     "video_upload_date": "2026-02-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/S0fXWN1Rb2g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAnMn4rwQfbI39B4k-tDzLGiVAaMQ",
+     "length_text": "12:56"
+    }
+   ],
+   "score": 0.631256639957428,
+   "createdAt": "2026-10-14T10:24:17.780353",
+   "updatedAt": "2026-10-20T00:09:24.426272"
+  },
+  {
+   "ytChannelId": "UC7IA9pvKwF5ERT0i5aQxcSA",
+   "title": "Vergessene Technik f\u00fcrs Zuhause",
+   "description": "Willkommen bei Vergessene Technik f\u00fcrs Zuhause \u2013 hier entdecken wir clevere Erfindungen, praktische Haushaltstechniken und erstaunliche L\u00f6sungen aus vergangenen Zeiten. Wir zeigen vergessene Methoden, alte Ger\u00e4te, traditionelle Handgriffe und einfache Tricks, mit denen Generationen ihren Alltag leichter, effizienter und unabh\u00e4ngiger gestaltet haben. Von l\u00e4ngst vergessenen Haushaltshelfern bis hin zu genialen L\u00f6sungen aus fr\u00fcheren Jahrzehnten: Wir holen n\u00fctzliches Wissen zur\u00fcck und zeigen, warum manche alten Ideen auch heute noch \u00fcberraschend wertvoll sind.",
+   "username": "vergessenetechnikyt",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/xMCNwAEyd3s9jG-TzQitDcOTzSZnWlfUqDXNLw9gSCe2KQI927RwooH4sQRXGoWL2ZFZl9Jg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "DE",
+   "channelCreationDate": "2026-09-06",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "de",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "do it yourself",
+    "home improvement",
+    "prepping",
+    "rural living"
+   ],
+   "googleTrendsKeyword": "Heimwerken",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 589,
+    "monthlyRevenue": 0,
+    "monthlyViews": 120392,
+    "totalViews": 189843,
+    "totalVideos": 17,
+    "avgViewsPerVideo": 11127.29,
+    "medianViewsPerVideo": 810,
+    "avgVideoLength": 1764.12,
+    "uploadsPerWeek": 2.25,
+    "firstVideoDate": "2026-09-19",
+    "lastVideoDate": "2026-10-09",
+    "rpm": {
+     "base": 3,
+     "total": 3.1354
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "x7TRQn0lUk0",
+     "video_title": "20 alte Entw\u00e4sserungstricks f\u00fcr H\u00e4user, die moderne Bauherren still und heimlich aufgegeben haben",
+     "video_view_count": 95000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/x7TRQn0lUk0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3Kg345D_75BPjdDDDgbA_ZECRsQ",
+     "length_text": "29:23"
+    },
+    {
+     "video_id": "PNwAQ-cHoFU",
+     "video_title": "25 alte Keller-Tricks, die H\u00e4user ohne Sumpfpumpe trocken hielten",
+     "video_view_count": 71000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PNwAQ-cHoFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlGbO20PGN-5S0tjSS80SaWTS9qA",
+     "length_text": "30:35"
+    },
+    {
+     "video_id": "A_CMKvtaj_c",
+     "video_title": "20 vergessene Dach-Tricks, die dein Haus auch ohne Klimaanlage k\u00fchler halten",
+     "video_view_count": 7400,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/A_CMKvtaj_c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdZui1AjheEemicMkJNMEJPAFH0A",
+     "length_text": "31:54"
+    },
+    {
+     "video_id": "HwGaBbhXPvM",
+     "video_title": "20 alte Tricks, um H\u00e4user winterfest zu machen, die moderne Bauherren l\u00e4ngst aufgegeben haben",
+     "video_view_count": 4300,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HwGaBbhXPvM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-AytzAYXNSlPYdj2_ULkyRNxH2Q",
+     "length_text": "31:56"
+    },
+    {
+     "video_id": "awzWH5z3W4I",
+     "video_title": "20 vergessene Hausbau-Tricks, die H\u00e4user schon vor der Klimaanlage k\u00fchl hielten",
+     "video_view_count": 2700,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/awzWH5z3W4I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8AfgfiAjRp1kmTNoiaSypOvEkYg",
+     "length_text": "29:55"
+    }
+   ],
+   "score": 0.6304003000259399,
+   "createdAt": "2026-10-02T14:06:29.318337",
+   "updatedAt": "2026-10-19T23:20:32.320923"
+  },
+  {
+   "ytChannelId": "UCZexkQbJznPjYLeuSJf2lpw",
+   "title": "Projet Survivant",
+   "description": "Bienvenue sur Projet Survivant \u2014 ta cha\u00eene d\u00e9di\u00e9e aux strat\u00e9gies de survie cr\u00e9atives dans un monde o\u00f9 rien n\u2019est garanti.\n\nIci, un bricoleur inventif, avec trop peu de sommeil et beaucoup trop de curiosit\u00e9, transforme des mat\u00e9riaux simples en solutions utiles. Tu y trouveras des astuces de survie test\u00e9es sur le terrain, des conseils de pr\u00e9paration intelligents, des exp\u00e9riences inhabituelles et des constructions ing\u00e9nieuses faites avec des objets du quotidien \u2014 car quand les syst\u00e8mes s\u2019effondrent, l\u2019ing\u00e9niosit\u00e9 devient ta meilleure ressource.\n\nDu feu allum\u00e9 avec des objets ordinaires aux outils fabriqu\u00e9s maison, chaque vid\u00e9o montre comment transformer l\u2019inutile en v\u00e9ritable \u00e9quipement de survie.\n\n\u26a0\ufe0f Attends-toi \u00e0 des \u00e9tincelles, de l\u2019improvisation et des id\u00e9es r\u00e9ellement efficaces.\nAbonne-toi maintenant \u2014 avant que la prochaine crise ne te prenne de court.",
+   "username": "Projet.Survivant",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/cY9aPP7pF1tXlBCz85CpqbQR20o7btP-WsLDCg2miwQzrP18PRAeqSWybZP5r_JMe9DSw7FO=s160-c-k-c0x00ffffff-no-rj",
+   "location": "FR",
+   "channelCreationDate": "2026-02-26",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "fr",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "ai",
+   "outlierScore": 0.32,
+   "tags": [
+    "prepping",
+    "do it yourself",
+    "rural living",
+    "lifestyle"
+   ],
+   "googleTrendsKeyword": "pr\u00e9paration survie",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 5390,
+    "monthlyRevenue": 0,
+    "monthlyViews": 4429,
+    "totalViews": 345237,
+    "totalVideos": 80,
+    "avgViewsPerVideo": 4266.85,
+    "medianViewsPerVideo": 1100,
+    "avgVideoLength": 853.51,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-06-19",
+    "rpm": {
+     "base": 8,
+     "total": 3.05
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "lW3S6Mu1dN0",
+     "video_title": "This \u20ac1 item heats a van ALL NIGHT LONG \u2014 why don't shelters say so?",
+     "video_view_count": 44000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lW3S6Mu1dN0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4O8j9f18oBDcSisHMRQ3vhZJqEg",
+     "length_text": "8:18"
+    },
+    {
+     "video_id": "o10lA2pXmx0",
+     "video_title": "How a homeless man's \"STUPID\" idea kept him warm for 14 winters in France",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/o10lA2pXmx0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsVzrtZkSPRq-ZaevcDsn3DF4GDg",
+     "length_text": "17:20"
+    },
+    {
+     "video_id": "RQ5KZfRY5C8",
+     "video_title": "This \u20ac50 wall panel heats your home for FREE all winter. Why did they hide it?",
+     "video_view_count": 31000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/RQ5KZfRY5C8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ8M2ikD3HBpV6hKrRfQ_3S6vrow",
+     "length_text": "23:06"
+    },
+    {
+     "video_id": "8p5baawfxIg",
+     "video_title": "This method transforms sand into solid stone \u2014 WHY isn't it everywhere?",
+     "video_view_count": 23000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8p5baawfxIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGNybLeWHjfFD8Xe8347tXKuK5QA",
+     "length_text": "15:30"
+    },
+    {
+     "video_id": "C30R8a_x-sU",
+     "video_title": "\u20ac5 car heating tips that SAVE \u20ac70/night (physical)",
+     "video_view_count": 17000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/C30R8a_x-sU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe3tKDSl-fTNNwqgDGZOnm1gPf1w",
+     "length_text": "21:32"
+    }
+   ],
+   "score": 0.62991863489151,
+   "createdAt": "2026-09-18T17:24:34.818515",
+   "updatedAt": "2026-10-19T21:37:18.228889"
+  },
+  {
+   "ytChannelId": "UCDc9jEiqyR-7z9YIGqGHY8w",
+   "title": "SURVIVAL TECH",
+   "description": "Welcome to SURVIVAL TECH \u2014 your source for survival gear, outdoor equipment, tactical gear, camping gadgets, emergency technology, and innovative tools built to help you stay prepared.\n\nFrom the latest camping gadgets and wilderness survival gear to emergency preparedness equipment, tactical tools, EDC, outdoor technology, and smart survival solutions, we explore the gear designed for the moments when preparation matters most.\n\nOn this channel, you'll discover interesting gear, useful gadgets, innovative technology, and equipment for camping, outdoor adventures, emergencies, preparedness, and everyday survival.\n\nSURVIVAL TECH is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.\n\n#commissionsearned",
+   "username": "SURVIVALTECHYT",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/-DEOb461JPY_dxq7SY4-CQVdX675eHaeWiu2tUaKj_vNR45LKgWGg2scz87rXxLf58JMoUx_vg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-09-02",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "prepping",
+    "retail business",
+    "guns",
+    "travel"
+   ],
+   "googleTrendsKeyword": "survival gear",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 10,
+    "name": "reviews"
+   },
+   "stats": {
+    "subscribers": 2420,
+    "monthlyRevenue": 0,
+    "monthlyViews": 1808450,
+    "totalViews": 972932,
+    "totalVideos": 20,
+    "avgViewsPerVideo": 52085,
+    "medianViewsPerVideo": 3850,
+    "avgVideoLength": 796.3,
+    "uploadsPerWeek": 3.25,
+    "firstVideoDate": "2026-09-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 8,
+     "total": 2.5376
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "s4V1SCJ6wGg",
+     "video_title": "15 Emergency Survival Shelters You Can Buy Right Now",
+     "video_view_count": 716000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/s4V1SCJ6wGg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBA6JCMYlFF2Jg4KBw27sch4hmbDw",
+     "length_text": "16:06"
+    },
+    {
+     "video_id": "pvo66mda0UY",
+     "video_title": "15 Lethal Weapons That Don't Need Gunpowder",
+     "video_view_count": 139000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pvo66mda0UY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB0zjh4hcjpWSRfP4HMfGMapIsypA",
+     "length_text": "14:02"
+    },
+    {
+     "video_id": "EKceR-LeUhQ",
+     "video_title": "10 Nuclear Bunkers You Can Actually Buy Right Now",
+     "video_view_count": 69000,
+     "video_upload_date": "2026-10-09T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/EKceR-LeUhQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOyCXVvADQPP4VzjnV36423TLAbg",
+     "length_text": "11:18"
+    },
+    {
+     "video_id": "90GKcgSfVBQ",
+     "video_title": "10 Camping Bikes Built for Complete Self-Sufficiency",
+     "video_view_count": 24000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/90GKcgSfVBQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_jEgqgJii21U8g5bAjUHqppGfyQ",
+     "length_text": "12:07"
+    },
+    {
+     "video_id": "jvnR6o5efh0",
+     "video_title": "15 Essential Survival Gear and Gadgets Every Prepper Should Own",
+     "video_view_count": 23000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jvnR6o5efh0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9OqpBgsPhCCRrRHXu_bjsTwdphw",
+     "length_text": "14:50"
+    }
+   ],
+   "score": 0.6298291683197021,
+   "createdAt": "2026-10-07T20:09:10.775149",
+   "updatedAt": "2026-10-19T23:55:11.529791"
+  },
+  {
+   "ytChannelId": "UCtWuTtfAIkin4cELdwcWbcw",
+   "title": "StormWatch America",
+   "description": "StormWatch America brings you breaking news and in-depth coverage of the most dangerous extreme weather and natural disasters across the United States and around the world.\n\nFrom powerful tornadoes and hurricanes to catastrophic flooding, wildfires, blizzards, earthquakes, landslides and severe storms, we track the events that can change communities in minutes.\n\nWe combine breaking information, verified reports, weather data and powerful visuals to explain not only what happened, but how severe the situation is and what may come next.\n\nSubscribe to StormWatch America for the latest extreme weather and disaster news.",
+   "username": "StormWatchAmericaTV",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/f5U1yLSZWgkTQ4x9Zwx_45ge5ydLAfEDHZXhsKj-lnshZvUKArqJdVST-CbbIX_8J3vt3xz-Y9Y=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-31",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "disaster and accidents",
+    "news",
+    "breaking news",
+    "weather"
+   ],
+   "googleTrendsKeyword": "wildfire",
+   "category": {
+    "id": 97,
+    "name": "disaster and accidents"
+   },
+   "format": {
+    "id": 3,
+    "name": "news"
+   },
+   "stats": {
+    "subscribers": 1720,
+    "monthlyRevenue": 0,
+    "monthlyViews": 474964,
+    "totalViews": 274068,
+    "totalVideos": 64,
+    "avgViewsPerVideo": 4250.23,
+    "medianViewsPerVideo": 549.5,
+    "avgVideoLength": 862.17,
+    "uploadsPerWeek": 15,
+    "firstVideoDate": "2026-09-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 5,
+     "total": 3.6417
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "7YKVu0kI-2M",
+     "video_title": "\ud83d\udea8 OMAHA FLOOD DISASTER: 8+ Inches of Rain, Water Rescues & Major Roads Shut Down",
+     "video_view_count": 52000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/7YKVu0kI-2M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXTUD24mQTRipHUarvkK1evNQqew",
+     "length_text": "16:33"
+    },
+    {
+     "video_id": "Qeh9Scgv7l8",
+     "video_title": "\ud83d\udea8 MONTANA SNOWSTORM: Up to 30 Inches of Snow, 45 MPH Winds & Dangerous Roads",
+     "video_view_count": 42000,
+     "video_upload_date": "2026-10-12T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Qeh9Scgv7l8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdE_GslIosI-LXJvs1c232QhJbrA",
+     "length_text": "13:38"
+    },
+    {
+     "video_id": "TfxGpBfo6ZE",
+     "video_title": "\ud83d\udea8HURRICANE ISAIAS SLAMS FLORIDA: 726,000+ Without Power, Flooding & Major Damage",
+     "video_view_count": 32000,
+     "video_upload_date": "2026-10-10T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/TfxGpBfo6ZE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVizFAVEeJDPJLwwy07wlHYZ5rzg",
+     "length_text": "16:08"
+    },
+    {
+     "video_id": "g2BtxUZqfwQ",
+     "video_title": "\ud83d\udd25 BREAKING: Bouquet Fire Hits 843 Acres Near L.A. \u2014 EVACUATIONS ORDERED (Live Update)",
+     "video_view_count": 31000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/g2BtxUZqfwQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXnAFepL4_krfCSpvOuXv4laADmg",
+     "length_text": "13:49"
+    },
+    {
+     "video_id": "Kw1KiD8LiDM",
+     "video_title": "\ud83d\udea8 LAS VEGAS FLASH FLOODING: Record Rain as Rachel\u2019s Remnants Surge",
+     "video_view_count": 23000,
+     "video_upload_date": "2026-10-11T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Kw1KiD8LiDM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp2zihOsID9Xkclqd4ks8-Q_9z8g",
+     "length_text": "13:55"
+    }
+   ],
+   "score": 0.6293601989746094,
+   "createdAt": "2026-10-06T10:25:28.258156",
+   "updatedAt": "2026-10-19T23:40:45.072562"
+  },
+  {
+   "ytChannelId": "UCrxKoIsDqYtWKeA8LygOppA",
+   "title": "Pioneer Survival Stories",
+   "description": "Pioneer Survival Wisdom Stories delivers cinematic American frontier survival storytelling\u2014blizzards, whiteouts, subzero nights, collapsing cabins, and the relentless wilderness that tested pioneers, mountain men, settlers, and explorers. Discover real frontier survival wisdom, cold-weather tactics, firecraft, sheltercraft, and wilderness survival skills rooted in true Old West history.\n\n\ud83d\udc49 Subscribe for immersive Wild West survival stories\u2014because on the frontier, knowledge is the only fire that never dies.\n\n\ud83d\udd12 Disclaimer\n\nAll stories on this channel are original or historically inspired and created for educational and storytelling purposes. Unauthorized reuse, reproduction, or reuploading is strictly prohibited.\n\n\u00a9 Pioneer Survival Wisdom Stories, 2026. All Rights Reserved.",
+   "username": "PioneerSurvivalWisdom1",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/QNK2EXMCaXJItzYyZrPsKunYuK-AdWxHaiNITNoe2ykByo8eaXoF3PFfrdYZdtGmGDCotQWawQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-04-05",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_images",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "rural living",
+    "stories",
+    "prepping",
+    "travel documentary"
+   ],
+   "googleTrendsKeyword": "frontier survival",
+   "category": {
+    "id": 147,
+    "name": "rural living"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 1000,
+    "monthlyRevenue": 0,
+    "monthlyViews": 643,
+    "totalViews": 227841,
+    "totalVideos": 20,
+    "avgViewsPerVideo": 11296.3,
+    "medianViewsPerVideo": 4100,
+    "avgVideoLength": 1470.7,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-04-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 2.9,
+     "total": 2.8853
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "2Qeum_g3Fm4",
+     "video_title": "She Built a Shelter in the Cave and Stayed Warm at 87\u00b0F All Winter Without Firewood",
+     "video_view_count": 87000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2Qeum_g3Fm4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDrvT734fiPycCuFXgCvnnNLvYWA",
+     "length_text": "25:32"
+    },
+    {
+     "video_id": "4nJgqBcEpDw",
+     "video_title": "The Winter Gave Her One Day\u2014She Stacked Her Firewood Inside Her Walls and Barely Felt the Cold Again",
+     "video_view_count": 36000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4nJgqBcEpDw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLpkIDLXmSOvfF_NudWcVZ7bN1yQ",
+     "length_text": "26:16"
+    },
+    {
+     "video_id": "jmRwQVBWIKc",
+     "video_title": "How He Built a Tiny Quonset Home Over a Stone Basement \u2014 And Kept It 55\u00b0 Warmer All Winter",
+     "video_view_count": 21000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jmRwQVBWIKc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDif6tzgVvS9MRGxFxfQO2AGmFX5w",
+     "length_text": "21:06"
+    },
+    {
+     "video_id": "qSddi8P7r8M",
+     "video_title": "She Hid a Bedroom for Her Mother in Grain Silo\u2014Then Deadliest Blizzard Became Their Only Shelter Now",
+     "video_view_count": 16000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qSddi8P7r8M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDuS0JK3xFNCduLhPGttUpCdwNydg",
+     "length_text": "27:20"
+    },
+    {
+     "video_id": "4gf-r91xxJ0",
+     "video_title": "She Built a Hidden Bedroom Under the Barn \u2014 Then Winter Proved It Saved Her Life",
+     "video_view_count": 15000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4gf-r91xxJ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBu7LuYhj-Oi9KBdJOGofVzJ43zRQ",
+     "length_text": "26:47"
+    }
+   ],
+   "score": 0.6289352178573608,
+   "createdAt": "2026-09-22T15:03:22.873902",
+   "updatedAt": "2026-10-19T21:52:56.901220"
+  },
+  {
+   "ytChannelId": "UCPcgLz3UpL-_NHohOGUHOMA",
+   "title": "American Practical Frontier",
+   "description": "American Practical Frontier is dedicated to reviving the practical skills, self-reliant habits, and time-tested traditions that helped build everyday American life.\n\nFrom frontier craftsmanship, homesteading, and wilderness know-how to preparedness, affordable outdoor skills, and forgotten household methods, we explore lessons from the past that still matter today. Every video is designed to be clear, useful, and easy to apply\u2014whether you are learning to be more capable outdoors, better prepared at home, or simply more resourceful in daily life.\n\nWe research, write, narrate, and edit original educational content that turns old-world wisdom into practical knowledge for the modern frontier.\n\nSubscribe and learn to prepare, build, and endure.",
+   "username": "AmericanPracticalFrontier",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/RILBa5LpO-UkGIbnLGlesJsbWnrezqW2050_oWBzH75F3iUcWUOFb_T0YenLLbC5-F0PL3bR=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-09-02",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "do it yourself",
+    "prepping",
+    "recreation",
+    "rural living"
+   ],
+   "googleTrendsKeyword": "camping hacks",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 952,
+    "monthlyRevenue": 0,
+    "monthlyViews": 256876,
+    "totalViews": 206497,
+    "totalVideos": 15,
+    "avgViewsPerVideo": 13766.8,
+    "medianViewsPerVideo": 1500,
+    "avgVideoLength": 1297.2,
+    "uploadsPerWeek": 3.25,
+    "firstVideoDate": "2026-09-22",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 3,
+     "total": 5.5937
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "qzv7wU2Tydw",
+     "video_title": "20 POOR MAN\u2019s CAMPING TRICKS That Make $1,000 Outdoor Gear Look OVERPRICED",
+     "video_view_count": 109000,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qzv7wU2Tydw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv0_4OyAxVXJqYH29hq-j3I5xGQw",
+     "length_text": "30:38"
+    },
+    {
+     "video_id": "kdfQv6PRqho",
+     "video_title": "20 POOR MAN'S Tarp Tricks That Make $2,000 Tent Setups Look Overpriced",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kdfQv6PRqho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBffjxBJHS__ZCVIgTr0znJISGT_A",
+     "length_text": "26:01"
+    },
+    {
+     "video_id": "xIngd87txvE",
+     "video_title": "20 Cheap Car-Camping Tricks Every American Should Know",
+     "video_view_count": 32000,
+     "video_upload_date": "2026-09-29T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xIngd87txvE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIQewDWJZ9Vm0ZIgxl3eKp5_kkaQ",
+     "length_text": "20:51"
+    },
+    {
+     "video_id": "O9KXG6-xYb8",
+     "video_title": "20 Cheap Car Camping Kitchen Tricks Every American Should Know",
+     "video_view_count": 7800,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/O9KXG6-xYb8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3RJtaqta2gN5ipjwHJl9lwJMeLg",
+     "length_text": "20:01"
+    },
+    {
+     "video_id": "2pgrRuq-yxw",
+     "video_title": "20 POOR MAN'S CAMP KITCHEN Hacks That Make $1,500 Outdoor Cooking Setups Look Like a Scam",
+     "video_view_count": 7200,
+     "video_upload_date": "2026-10-08T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2pgrRuq-yxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpSEwzZUtTN29bUDUgBeBLiHuzQg",
+     "length_text": "20:00"
+    }
+   ],
+   "score": 0.6279104351997375,
+   "createdAt": "2026-10-12T17:21:31.360921",
+   "updatedAt": "2026-10-20T00:06:28.837066"
+  },
+  {
+   "ytChannelId": "UCC6U5B4oJtbHGHjhQVpwxZg",
+   "title": "Extreme Weather USA",
+   "description": "\ud83c\udf2a\ufe0f Welcome to Extreme Weather USA\u2014 Your #1 source for breaking weather alerts, storm tracking, and extreme weather updates across the United States.\n\nWe cover every dangerous weather event happening across America:\n\ud83d\udd25 Wildfires | \ud83c\udf2a\ufe0f Tornadoes | \ud83c\udf00 Hurricanes | \u26c8\ufe0f Severe Thunderstorms\n\ud83c\udf0a Flash Floods | \u2744\ufe0f Blizzards & Winter Storms | \ud83c\udf21\ufe0f Extreme Heat | \ud83c\udf29\ufe0f Lightning Storms | \ud83d\udca8 High Wind Events | \ud83c\udf27\ufe0f Atmospheric Rivers\n\n\ud83d\udce1 What We Do:\nStay ahead of nature's fury with real-time weather updates, storm tracking, live radar analysis, and in-depth coverage of the most catastrophic weather events hitting the USA.\n\n\ud83d\udccc Subscribe for daily weather alerts, storm warnings, and extreme weather news \u2014 so you're always informed and prepared.\n\n\ud83d\udd14 Turn on notifications to never miss a breaking weather event!",
+   "username": "ExtremeWeatherUSA_288",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/t7IdOGDZRDMobiWME6Kn5vE7ftpXOcc03nH17bFKLJukWSMe64bi7Q85yYe7uzFPe3_SAO0nDA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-09-15",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0.53,
+   "tags": [
+    "weather",
+    "disaster stories",
+    "disaster and accidents",
+    "news"
+   ],
+   "googleTrendsKeyword": "extreme weather",
+   "category": {
+    "id": 91,
+    "name": "weather"
+   },
+   "format": {
+    "id": 3,
+    "name": "news"
+   },
+   "stats": {
+    "subscribers": 1080,
+    "monthlyRevenue": 1021.45,
+    "monthlyViews": 225069,
+    "totalViews": 361973,
+    "totalVideos": 49,
+    "avgViewsPerVideo": 7232.47,
+    "medianViewsPerVideo": 1300,
+    "avgVideoLength": 1158.9,
+    "uploadsPerWeek": 6.5,
+    "firstVideoDate": "2026-09-19",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 4,
+     "total": 4.5384
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "7AOfkkPaK0I",
+     "video_title": "Nor'easter Bomb Cyclone | Sandy-Level Surge, 24-Ft Seas & 60K+ Without Power",
+     "video_view_count": 45000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/7AOfkkPaK0I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgb6vDJi-X8sZg68k1PmymaFCekw",
+     "length_text": "17:49"
+    },
+    {
+     "video_id": "twee7BJdrLk",
+     "video_title": "New Mexico Flash Flood EMERGENCY | 6 Inches of Rain, Roads Cut Off & NOT Over!",
+     "video_view_count": 41000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/twee7BJdrLk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJKoyRUkOGHqqsNS7PdGPSbD_Q8A",
+     "length_text": "23:02"
+    },
+    {
+     "video_id": "WTOgOoA8Tlg",
+     "video_title": "Midwest Flood Disaster | Iowa Underwater, Indiana Near All-Time Record & Mississippi Rising",
+     "video_view_count": 39000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WTOgOoA8Tlg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3gupQ9mj2YnDVsLWtG-tZdQOjcw",
+     "length_text": "23:18"
+    },
+    {
+     "video_id": "m3nhtd-5Ip4",
+     "video_title": "Ross Fire Explodes to 90,400 Acres in Texas: Evacuations & Red Flag Warnings",
+     "video_view_count": 34000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/m3nhtd-5Ip4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFEgWkikVw_QLb_sdz733BOj5Z-Q",
+     "length_text": "20:58"
+    },
+    {
+     "video_id": "mNT8Qug0xHo",
+     "video_title": "\ud83d\udea8 Lucas Fire Explodes: 400 Acres in 6 Hours, Structures Threatened & Zero Percent Contained",
+     "video_view_count": 28000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mNT8Qug0xHo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFqTmGtlCg14K8axVeCC62uIlulA",
+     "length_text": "25:14"
+    }
+   ],
+   "score": 0.6275110244750977,
+   "createdAt": "2026-09-18T10:30:25.599961",
+   "updatedAt": "2026-10-19T21:35:57.198286"
+  },
+  {
+   "ytChannelId": "UCQ_4ckwlhBKKmgQxkMOOGbw",
+   "title": "Fuego & Precisi\u00f3n",
+   "description": "\u00a1Bienvenidos a Fuego & Precisi\u00f3n, el canal para verdaderos fan\u00e1ticos de la industria militar y amantes de la tecnolog\u00eda y defensa global! \ud83c\udf0d\n\nAqu\u00ed encontrar\u00e1s contenido emocionante sobre:\n\u2705 Equipos militares modernos y sus avances tecnol\u00f3gicos.\n\u2705 Las \u00faltimas tendencias en la industria militar 2025.\n\u2705 Datos curiosos y secretos sobre las fuerzas armadas de diferentes pa\u00edses.\n\u2705 Informaci\u00f3n sobre armas t\u00e1cticas, defensa personal y armamento pesado.\n\n\ud83d\udd14 Suscr\u00edbete ahora para estar al d\u00eda con las novedades del Shot Show 2025\n\n\ud83d\udd17 \u00a1Haz clic aqu\u00ed para suscribirte y no te pierdas lo mejor del mundo militar! \ud83d\udc49 https://www.youtube.com/@FuegoPrecisi\u00f3n",
+   "username": "FuegoPrecisi\u00f3n",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/dxHSxNmBboucFnrBg93iIGkNLDbz3H-mWBsbA1-LI4eAYCBEipcP5JkfZh6pVJViAcLcZmEb=s160-c-k-c0x00ffffff-no-rj",
+   "location": "MX",
+   "channelCreationDate": "2025-08-14",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "es",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 1.3,
+   "tags": [
+    "guns",
+    "hunting",
+    "sports",
+    "automotive business"
+   ],
+   "googleTrendsKeyword": "armas",
+   "category": {
+    "id": 163,
+    "name": "guns"
+   },
+   "format": {
+    "id": 10,
+    "name": "reviews"
+   },
+   "stats": {
+    "subscribers": 21100,
+    "monthlyRevenue": 1098.47,
+    "monthlyViews": 627448,
+    "totalViews": 4347110,
+    "totalVideos": 104,
+    "avgViewsPerVideo": 41674.04,
+    "medianViewsPerVideo": 13500,
+    "avgVideoLength": 841.06,
+    "uploadsPerWeek": 2,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-16",
+    "rpm": {
+     "base": 1.5,
+     "total": 1.7507
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "-KMBn1Ldsu8",
+     "video_title": "The .22 LR Secret That Most Shooters Completely Ignore",
+     "video_view_count": 478000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-KMBn1Ldsu8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAPHlAzxS_Jb-Vftc_57eNMwotzfw",
+     "length_text": "14:35"
+    },
+    {
+     "video_id": "nAr47hfVrZQ",
+     "video_title": "Goodbye to 9mm? These 5 Calibers Are the Future of Self-Defense",
+     "video_view_count": 390000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/nAr47hfVrZQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2vUXshUkA53Vh_Yb_hy5wD9PHaQ",
+     "length_text": "11:33"
+    },
+    {
+     "video_id": "CwI5rnKG9_A",
+     "video_title": "BRUTAL! 11 Amazon Weapons That DON'T Use Gunpowder",
+     "video_view_count": 332000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/CwI5rnKG9_A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDiHDqXJdm-sIjucK11hKQNQx6U7Q",
+     "length_text": "14:35"
+    },
+    {
+     "video_id": "931Hq2icPTE",
+     "video_title": "10 Amazon Weapons That SHOULDN'T Be LEGAL (But Are)",
+     "video_view_count": 214000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/931Hq2icPTE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTAb3slK__O5BpMDn-n6UU5hYCtw",
+     "length_text": "14:45"
+    },
+    {
+     "video_id": "qUHe8CKPevU",
+     "video_title": "Why the .357 Magnum is actually more lethal than you think",
+     "video_view_count": 172000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qUHe8CKPevU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9XLSqULMw_UFLCFWFNIMOpfuyFA",
+     "length_text": "11:02"
+    }
+   ],
+   "score": 0.626269519329071,
+   "createdAt": "2026-10-02T01:39:04.010107",
+   "updatedAt": "2026-10-19T23:06:23.879210"
+  },
+  {
+   "ytChannelId": "UCl6k8yXdosnVUef0Bc6hQzQ",
+   "title": "EV Car Habits",
+   "description": "Simple habits that add years to your EV's battery \u2014 and the mistakes that quietly kill it.\n\nWe break down the everyday habits that make or break your EV's battery life \u2014 charging routines, winter driving, fast-charging traps, and the small mistakes most owners don't even know they're making.\n\nEvery video is researched and built around real battery science, not guesswork, so you get practical habits you can actually use instead of just warnings. We cover charging habits that protect or destroy your battery, seasonal and winter EV care, monthly maintenance routines every owner should know, and real data and comparisons across EV brands.\n\nNew videos weekly. Subscribe if you want your EV to outlast the loan.\n\nDisclaimer: This content is for educational and informational purposes only. Always follow your manufacturer's official guidance and consult a certified technician for repairs or high-voltage work.",
+   "username": "EVCarHabits",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/763Y70LBbMZMDviQmCDP1Btnhgdj0MsTcPZObLD3FXjF_Ur3gxU8x4jhYIJg7GU9GPPI4xzg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-13",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 4.48,
+   "tags": [
+    "ev car business",
+    "autos",
+    "automotive business",
+    "tech gadgets"
+   ],
+   "googleTrendsKeyword": "EV battery",
+   "category": {
+    "id": 68,
+    "name": "ev car business"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 1670,
+    "monthlyRevenue": 805.19,
+    "monthlyViews": 356751,
+    "totalViews": 591623,
+    "totalVideos": 17,
+    "avgViewsPerVideo": 34825.59,
+    "medianViewsPerVideo": 12000,
+    "avgVideoLength": 595.82,
+    "uploadsPerWeek": 1.75,
+    "firstVideoDate": "2026-08-20",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 4,
+     "total": 2.257
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "HpDWAJ6hevo",
+     "video_title": "Always Do This After Charging Your EV!",
+     "video_view_count": 216000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HpDWAJ6hevo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-LUYeL8tGAXfb3CmXLekWcA_jFg",
+     "length_text": "9:41"
+    },
+    {
+     "video_id": "KZbZoDzVN2Q",
+     "video_title": "You've Been Misled - IGNORE the 80% Charge Rule",
+     "video_view_count": 80000,
+     "video_upload_date": "2026-10-12T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KZbZoDzVN2Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDkJJENEPVUEY3WRjWtA2g2aLrT3g",
+     "length_text": "8:55"
+    },
+    {
+     "video_id": "IkZTFlN7ZlE",
+     "video_title": "Never Do These After Charging Your EV!",
+     "video_view_count": 69000,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/IkZTFlN7ZlE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfUV9URlP-ejmT323gSeyvy98xew",
+     "length_text": "9:34"
+    },
+    {
+     "video_id": "kSByv6aZF5Q",
+     "video_title": "Do This Once a Month, and Your EV Battery Will Last Longer!",
+     "video_view_count": 52000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kSByv6aZF5Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBsXcBhfdM_DnbQ7G_2FfAh1o7nKA",
+     "length_text": "9:33"
+    },
+    {
+     "video_id": "ntiPClo68c4",
+     "video_title": "Never Do This After Fast Charging Your EV - The Damage Starts the Moment You Unplug",
+     "video_view_count": 50000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ntiPClo68c4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARMJLW6Hy-aQMWFxmtU4Aqv3iVww",
+     "length_text": "9:31"
+    }
+   ],
+   "score": 0.625728189945221,
+   "createdAt": "2026-10-08T20:37:25.541816",
+   "updatedAt": "2026-10-20T00:02:51.540079"
+  },
+  {
+   "ytChannelId": "UCXqxtmvB1eKQ_6Prm_rasZA",
+   "title": "Street Survival Solutions",
+   "description": "",
+   "username": "StreetSurvivalSolutionss",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ISsj6Vg0-RnAnErH54BJ8ANI2usZoNGZGBTBmIftLJpPPvZYCJI8p_4eMJ9B-Ygb8hXbCPk=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-06-23",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "rural living",
+    "documentary",
+    "stories",
+    "vlogs"
+   ],
+   "googleTrendsKeyword": "homeless survival",
+   "category": {
+    "id": 147,
+    "name": "rural living"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 433,
+    "monthlyRevenue": 0,
+    "monthlyViews": 78874,
+    "totalViews": 121842,
+    "totalVideos": 30,
+    "avgViewsPerVideo": 3983.8,
+    "medianViewsPerVideo": 1400,
+    "avgVideoLength": 1202.5,
+    "uploadsPerWeek": 3.5,
+    "firstVideoDate": "2026-07-20",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 2.9,
+     "total": 1.8483
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "kxAiU63SFgE",
+     "video_title": "How Homeless People Survive A Winter Storm In An RV Without Power",
+     "video_view_count": 35000,
+     "video_upload_date": "2026-09-29T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kxAiU63SFgE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAQrZkVZN-kKCbAe0r6sX2XMMT2SA",
+     "length_text": "19:17"
+    },
+    {
+     "video_id": "Rp0oZdJ9wRY",
+     "video_title": "How Homeless Women Stay Safe Living Alone in RVs Through Winter",
+     "video_view_count": 18000,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Rp0oZdJ9wRY/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBvsZ2PTV2G6-Nx1u1-WXVHntAckQ",
+     "length_text": "21:18"
+    },
+    {
+     "video_id": "oiCBr9P_iiU",
+     "video_title": "How Homeless Americans Survive 120\u00b0F Phoenix Heat In Sealed Vans Without AC Or Power",
+     "video_view_count": 14000,
+     "video_upload_date": "2026-07-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/oiCBr9P_iiU/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBbqh1PlYs1nF_iS5n6sp2ViWMCRA",
+     "length_text": "16:43"
+    },
+    {
+     "video_id": "ZIWq7U7q9Ts",
+     "video_title": "How Homeless Seniors Eat Through a Winter Storm When They Can\u2019t Leave Their RV",
+     "video_view_count": 7500,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ZIWq7U7q9Ts/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLBpNvQL44Q7gDup5x2aLk7P8COpAg",
+     "length_text": "22:34"
+    },
+    {
+     "video_id": "IeYGJwQW-cg",
+     "video_title": "How Homeless Seniors Eat, Sleep and Live Inside Converted School Buses",
+     "video_view_count": 5300,
+     "video_upload_date": "2026-10-08T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/IeYGJwQW-cg/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLB9XHTX_Q1EZO3syOIYVAuMPM7kGw",
+     "length_text": "19:53"
+    }
+   ],
+   "score": 0.6252249479293823,
+   "createdAt": "2026-10-15T03:23:32.569860",
+   "updatedAt": "2026-10-20T00:12:01.669376"
+  },
+  {
+   "ytChannelId": "UCLG4weiHLF4oclYHCcqwtsw",
+   "title": "Cat Caution",
+   "description": "We expose dangerous cat products hiding in your home. From toxic cat food brands and poisonous cat litter to recalled treats and unsafe toys \u2014 Cat Report investigates what pet companies don't want you to know. New deep dives every week. Your cat deserves better. \ud83d\udd14 Subscribe for the truth behind the labels.\n\n#CatFoodExposed\n#CatLitterDangers\n#ToxicPetProducts\n#CatOwnerMustWatch\n#PetSafetyAlert\n#CatCare\n#DangerousCatBrands",
+   "username": "CattCaution",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/NoQqWtMiDfxFej2lUBoPJOAQzfswVZXkBXAI8jy2MgjesUb7YL3s_SzU18rv6byGta2DlCvc=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-02-27",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.13,
+   "tags": [
+    "pets",
+    "investigative documentaries",
+    "healthcare industry",
+    "major companies"
+   ],
+   "googleTrendsKeyword": "cat food",
+   "category": {
+    "id": 141,
+    "name": "pets"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 2120,
+    "monthlyRevenue": 0,
+    "monthlyViews": 108176,
+    "totalViews": 142233,
+    "totalVideos": 4,
+    "avgViewsPerVideo": 35606.25,
+    "medianViewsPerVideo": 607.5,
+    "avgVideoLength": 1167.25,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-03-19",
+    "rpm": {
+     "base": 2.9,
+     "total": 1.5799
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "eShpLj8nZ7M",
+     "video_title": "5 Cat Litter Brands HARMING Your CAT \u2014 What ALL Owner MUST Know",
+     "video_view_count": 141000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/eShpLj8nZ7M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjC6obNBhjg6gQg4KgB&rs=AOn4CLB5YChlKUXfC6EyInZWrQ9m8VVEtg&usqp=CBU",
+     "length_text": "20:18"
+    },
+    {
+     "video_id": "QODBizFrgzI",
+     "video_title": "10 Cat Food Brands Hiding Dangerous Contaminants (And The 2 I Trust)",
+     "video_view_count": 994,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QODBizFrgzI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjZwpfNBhjg6gQg4KgB&rs=AOn4CLAMcUoxsQYAt7dcySgyb20T02oFlQ&usqp=CBU",
+     "length_text": "24:55"
+    },
+    {
+     "video_id": "Je0p4NYeo3I",
+     "video_title": "15 Human Foods That DESTROY Expensive Cat Food (Exposed by Lab Results)",
+     "video_view_count": 221,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Je0p4NYeo3I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgiG0bDNBhjg6gQg4KgB&rs=AOn4CLCeSn4678Upsf4FlFz3_5xqxvfr4w&usqp=CBU",
+     "length_text": "19:23"
+    },
+    {
+     "video_id": "T9SCX4SqEoA",
+     "video_title": "STOP Feeding This to Your Cat: 9 \u2018Premium\u2019 Wet Foods That FAILED Lab Tests",
+     "video_view_count": 210,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/T9SCX4SqEoA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgj2lZXNBhjg6gQg4KgB&rs=AOn4CLBsWNoaPYYZYFmHDQbe9V7U77VAVw&usqp=CBU",
+     "length_text": "13:13"
+    }
+   ],
+   "score": 0.6246468424797058,
+   "createdAt": "2026-10-02T07:38:01.099712",
+   "updatedAt": "2026-10-19T23:12:37.747388"
+  },
+  {
+   "ytChannelId": "UCGq_RFaHsaKOqmmEVWBNQzQ",
+   "title": "Jack Redfield",
+   "description": "I\u2019ve been around generators longer than most people have been dealing with power outages. Growing up in rural Tennessee, losing electricity wasn\u2019t an inconvenience \u2014 it was just part of life. By the time I was 16, I had rebuilt my first generator from a salvage yard find, and from that moment on, I was hooked.\n\nAfter 30 years in the power equipment industry \u2014 starting out selling generators at a local hardware store and eventually consulting for emergency preparedness companies \u2014 I decided it was time to take everything I\u2019ve learned and bring it to YouTube.\n\nMy motto? \u201cWhen the lights go out, you\u2019ll be glad you watched.\u201d",
+   "username": "JackRedfieldGenerators",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/EWb8yJCYBCBWOT5RQ0lNDx-pbnGdVmdue5NOP6VghDN5Gyr9ITZ-HPFNJXEl8ufJ5a8GPXLPhA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-02-24",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.32,
+   "tags": [
+    "engineering",
+    "do it yourself",
+    "automotive business",
+    "tech gadgets"
+   ],
+   "googleTrendsKeyword": "generator",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 4130,
+    "monthlyRevenue": 132.54,
+    "monthlyViews": 41308,
+    "totalViews": 297953,
+    "totalVideos": 50,
+    "avgViewsPerVideo": 5942.82,
+    "medianViewsPerVideo": 1200,
+    "avgVideoLength": 1089.84,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-06-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 3.2086
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "lVSqi7Tk2K0",
+     "video_title": "12v vs  24v Which Is The RIGHT Choice For Your Solar System",
+     "video_view_count": 185000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lVSqi7Tk2K0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqIuTG8dhk2LAwVvQl6xUNgDv1SA",
+     "length_text": "17:47"
+    },
+    {
+     "video_id": "D-mJvYQPJj0",
+     "video_title": "How to Test a Spark Plug The EASY Way (In 60 Seconds)",
+     "video_view_count": 26000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/D-mJvYQPJj0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXzUrmHixrhHB-AVnnrwybUm6teQ",
+     "length_text": "16:21"
+    },
+    {
+     "video_id": "0yuaTUN6ink",
+     "video_title": "How to Build a COMPLETE Solar System | The Easiest DIY Setup",
+     "video_view_count": 9400,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/0yuaTUN6ink/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLClEUgCJ2S3yZewDMfghQIh1S6Lvw",
+     "length_text": "17:48"
+    },
+    {
+     "video_id": "rKT9yWOHB-o",
+     "video_title": "How to Size Your Solar System The RIGHT Way",
+     "video_view_count": 7300,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rKT9yWOHB-o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXW_hmy7GKEWiQyZf-6oOLiqBN-Q",
+     "length_text": "18:28"
+    },
+    {
+     "video_id": "8ldieIYrq9k",
+     "video_title": "How to Fix a Generator With NO POWER - Step-by-Step Guide",
+     "video_view_count": 6600,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8ldieIYrq9k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwXlu5MYFS_6b5wYyj2HoMpTek-Q",
+     "length_text": "15:31"
+    }
+   ],
+   "score": 0.6244572997093201,
+   "createdAt": "2026-10-02T02:11:52.070379",
+   "updatedAt": "2026-10-19T23:06:40.514774"
+  },
+  {
+   "ytChannelId": "UCaJ-IpruES8wwFeJDmw55tw",
+   "title": "The Depression Era Home",
+   "description": "Welcome to The Depression Era Home.\n\nThis channel is about the forgotten wisdom of American homes during the Great Depression \u2014 a time when families had less money, fewer comforts, and almost no safety net, but somehow knew how to make a home survive.\n\nHere, we revisit the habits, routines, skills, meals, rules, and quiet sacrifices that kept families going through hard times. From frugal kitchens and winter survival to old-fashioned housekeeping, neighborhood help, simple repairs, and Depression-era resourcefulness, each video brings back a world where nothing was wasted and every home had to work.\n\nIf you believe the old ways still have something to teach us, subscribe and step inside The Depression Era Home.",
+   "username": "thedepressionerahome",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/zgk59Z0XLPLka5RpJe-p3-WfCOyJqauNBsSJIwgp18YcmGFzG-UeElW8cvxaDwkcehJg39wZfFE=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-08-09",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_images",
+   "editingVoice": "ai",
+   "outlierScore": 0.41,
+   "tags": [
+    "history",
+    "lifestyle",
+    "self improvement",
+    "cooking"
+   ],
+   "googleTrendsKeyword": "Great Depression",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1240,
+    "monthlyRevenue": 0,
+    "monthlyViews": 9228,
+    "totalViews": 202286,
+    "totalVideos": 57,
+    "avgViewsPerVideo": 3479.44,
+    "medianViewsPerVideo": 1400,
+    "avgVideoLength": 1827.77,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-07-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 7,
+     "total": 7.4054
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "bVf9SaQOJfs",
+     "video_title": "20 Low-Budget Blackout Survival Tricks Learned During the Great Depression That Make \"Preppers'\"...",
+     "video_view_count": 37000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bVf9SaQOJfs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRfyaD6bzWs9Cu8jVrZIwRmUFe-Q",
+     "length_text": "28:47"
+    },
+    {
+     "video_id": "oSbOFcg9B0k",
+     "video_title": "Grandma's Winter Secrets: How Families Survived the Cold With Almost Nothing",
+     "video_view_count": 18000,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/oSbOFcg9B0k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU1rKN5HUxRSEudIP93zJ3lQ1dRg",
+     "length_text": "40:01"
+    },
+    {
+     "video_id": "qBqLIxyjiaE",
+     "video_title": "Great Depression Era Habits Coming Back In Style: Frugal Skills For Hard Times",
+     "video_view_count": 14000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qBqLIxyjiaE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWxayGzsGGt8PMawHF-TsbZvtG8Q",
+     "length_text": "38:05"
+    },
+    {
+     "video_id": "Y_7Um8EQPp8",
+     "video_title": "Forgotten Great Depression Blizzard Survival Secrets Our Grandparents Used to Stay Alive",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Y_7Um8EQPp8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADSbWKAO21U-VIzhCDuudQcL3F8g",
+     "length_text": "26:40"
+    },
+    {
+     "video_id": "jvfEroxhsys",
+     "video_title": "Secrets of the Depression-Era Home: How Poor Families Survived When the Money Vanished",
+     "video_view_count": 9600,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jvfEroxhsys/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5BIiAqRQk1GPaRGIaa0-xrv0Ixg",
+     "length_text": "49:41"
+    }
+   ],
+   "score": 0.6242538690567017,
+   "createdAt": "2026-09-29T07:26:06.429949",
+   "updatedAt": "2026-10-19T22:18:02.603968"
+  },
+  {
+   "ytChannelId": "UC9ga5pd1adLQS3liXnZKVkg",
+   "title": "DeviceDeep",
+   "description": "Ever wondered what's really going on inside your everyday machines?\nThis channel breaks down the inner workings of the technology around you \u2014 from washing machines to engines, from refrigerators to turbines, from smartphones to power tools. We take complex engineering and make it simple, visual, and fun to watch.\n\nWe also expose common scams, misleading marketing tricks, and overpriced repairs in the tech and appliance industry. Knowing how your machine works means no one can rip you off.\n\nAll content on this channel is created with an educational and informational purpose. Where third-party visuals or references appear, they are used in a transformative manner under Fair Use principles!",
+   "username": "DeviceDeep",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/atW01mM9wAB7igJoGyPDxhy6GaGLzLnflpoHdDlrHEVn9wTuTCrzEGrLtRZeqlRHMfmSgJ1A=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-02-01",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "ai",
+   "outlierScore": 0,
+   "tags": [
+    "engineering",
+    "tech",
+    "science",
+    "future & discoveries"
+   ],
+   "googleTrendsKeyword": "how it works",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 715,
+    "monthlyRevenue": 0,
+    "monthlyViews": 76,
+    "totalViews": 142526,
+    "totalVideos": 9,
+    "avgViewsPerVideo": 15767.22,
+    "medianViewsPerVideo": 149,
+    "avgVideoLength": 640.22,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-04-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.3485
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "WVwnSK2VZiE",
+     "video_title": "5 Electricity Secrets Your Power Company HATES",
+     "video_view_count": 138000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WVwnSK2VZiE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBnEJjHos4IWctNT74JAlurdIxpA",
+     "length_text": "11:19"
+    },
+    {
+     "video_id": "9hnSCHZm_xE",
+     "video_title": "How USB-C Works and The Cable That Could Steal Your Data",
+     "video_view_count": 1600,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/9hnSCHZm_xE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhis5Gw76OuHiFmSMmn_lebmz8xw",
+     "length_text": "13:41"
+    },
+    {
+     "video_id": "eQ_xyce_zvo",
+     "video_title": "How WiFi Works and Why Your Internet Is Slower Than It Should Be",
+     "video_view_count": 1100,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/eQ_xyce_zvo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRehOcGt0GDjdpWXLigkFkztbvkA",
+     "length_text": "8:38"
+    },
+    {
+     "video_id": "xUMQMOiik7A",
+     "video_title": "How A Toaster Works and Why It's Smarter Than You Think",
+     "video_view_count": 667,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xUMQMOiik7A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzjsLQyRtvzHRmbuGKQ5Df62tx8g",
+     "length_text": "6:56"
+    },
+    {
+     "video_id": "LTCLB66fUzA",
+     "video_title": "5 Things You MUST Do This Spring (Or Pay Thousands Later)",
+     "video_view_count": 149,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/LTCLB66fUzA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIElJtlcd9a0y7tvHtSt1jpN-NpQ",
+     "length_text": "10:47"
+    }
+   ],
+   "score": 0.6239451169967651,
+   "createdAt": "2026-09-22T12:03:37.519568",
+   "updatedAt": "2026-10-19T21:48:27.497685"
+  },
+  {
+   "ytChannelId": "UCxRUn7wi1ZD2gv6VfmMY5ag",
+   "title": "Last Duck Standing",
+   "description": "The world as we knew it is gone. The grid is down. Chaos is the new normal.\n\nWelcome to Last Duck Standing. In a collapsed society, you can\u2019t afford to be a sitting duck. This channel is your ultimate guide to urban survival, budget prepping, and tactical resilience.\n\nGuided by the only survivor who\u2019s seen it all\u2014the Yellow Duck\u2014we break down the skills you need to thrive when the systems fail. No fear-mongering, just practical strategy for the end times.\n\nPrepare today. Survive tomorrow.\nSubscribe now\n#LastDuckStanding #Survival #Prepping #PostApocalyptic #UrbanSurvival #SHTF #TacticalGear #DoomsdayPreppers #SurvivalSkills #Wasteland",
+   "username": "LastDuckStanding",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/YjeoOizTKZAa3e7OdVQbIbBQJ7FA87RVa9lF2iC5_l_aZj4iB7_te08A4J3fx6uMFwml9PjHtK4=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-12-14",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_images",
+   "editingVoice": "ai",
+   "outlierScore": 0.11,
+   "tags": [
+    "prepping",
+    "disaster and accidents",
+    "science",
+    "earth sciences"
+   ],
+   "googleTrendsKeyword": "prepping",
+   "category": {
+    "id": 60,
+    "name": "prepping"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 11000,
+    "monthlyRevenue": 0,
+    "monthlyViews": 1278,
+    "totalViews": 536606,
+    "totalVideos": 95,
+    "avgViewsPerVideo": 5581.32,
+    "medianViewsPerVideo": 1100,
+    "avgVideoLength": 1335.88,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-12-19",
+    "lastVideoDate": "2026-08-19",
+    "rpm": {
+     "base": 9,
+     "total": 1.9947
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "-wxHM8BkIEA",
+     "video_title": "Don't Freeze to Death: How to Heat Your Apartment With... A Brick? (Nuclear Winter Hack)",
+     "video_view_count": 115000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-wxHM8BkIEA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3S2pAi8A_BhumjXrCmQKbrMFLZA",
+     "length_text": "29:33"
+    },
+    {
+     "video_id": "yvkBzs6U1tw",
+     "video_title": "The First 3 Things They Will Seize Hide This Now (Before The Army Arrives)",
+     "video_view_count": 56000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yvkBzs6U1tw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6J0lbTsyli9bxW1w-mDoDvnHJvg",
+     "length_text": "32:55"
+    },
+    {
+     "video_id": "45GtYB7jHBY",
+     "video_title": "The Supermarket Lied: 7 \"Forever\" Canned Foods ($1 Each)",
+     "video_view_count": 54000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/45GtYB7jHBY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6cmjirhUygoStyvE2TXLPNYvu7A",
+     "length_text": "27:11"
+    },
+    {
+     "video_id": "lPvwZSGzb2c",
+     "video_title": "8 Skills the Military Teaches That Schools Never Will \u2014 Number 5 Saves Your Whole Family",
+     "video_view_count": 52000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lPvwZSGzb2c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMFp3BRoB4CX3IBtl7QynJFXL5UQ",
+     "length_text": "21:34"
+    },
+    {
+     "video_id": "NP_yDq7wLrM",
+     "video_title": "Stop Buying Rice: 5 Junk Foods That Will Save Your Family ( Under $2 )",
+     "video_view_count": 27000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NP_yDq7wLrM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFCHH_XdXISOI2pEiDC9tPcBY8HQ",
+     "length_text": "31:56"
+    }
+   ],
+   "score": 0.622918426990509,
+   "createdAt": "2026-10-02T14:13:23.608518",
+   "updatedAt": "2026-10-19T23:20:23.848047"
+  },
+  {
+   "ytChannelId": "UCxufTGOB7gRfDbia5nKKvCQ",
+   "title": "The Fine Print",
+   "description": "Every household product costs you twice: once at checkout, and again in what it leaves behind. The specialty aisle sells you a different bottle for every problem. The DIY videos promise miracles and miss the details. We verify what actually works, correct what the genre gets backwards, and show you the real trade-offs.\n\nHydrogen peroxide, baking soda, perennial crops, cooling without AC, brand avoid lists \u2014 the topics rotate. The promise doesn't: check the label, verify the claim, and skip the hype.",
+   "username": "thefineprintverified",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/qAEnyT3S9SqP8e_TQa27G_Csy-GSsgVbPnY3oTPzbrOrlN1vUvslCFQxXyMX4nHx5zcvaNunQlo=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-07-23",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.19,
+   "tags": [
+    "do it yourself",
+    "home improvement",
+    "crafts",
+    "reviews"
+   ],
+   "googleTrendsKeyword": "home hacks",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 1480,
+    "monthlyRevenue": 539,
+    "monthlyViews": 102625,
+    "totalViews": 205789,
+    "totalVideos": 21,
+    "avgViewsPerVideo": 9743.48,
+    "medianViewsPerVideo": 628,
+    "avgVideoLength": 1329.57,
+    "uploadsPerWeek": 1.75,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-16",
+    "rpm": {
+     "base": 3,
+     "total": 5.2521
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "fLYM-Wuo9-Y",
+     "video_title": "15 TOP Health Benefits Of Using Baking Soda DAILY",
+     "video_view_count": 147000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/fLYM-Wuo9-Y/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFjWdDHJjmkDlvxQXcY9inojOvzQ&usqp=CBQ",
+     "length_text": "22:22"
+    },
+    {
+     "video_id": "QQtUmg4dQyY",
+     "video_title": "How To Use Hydrogen Peroxide To Kill Roaches, Ants, Bedbugs, Fleas, and Mice (27 Different Pests)",
+     "video_view_count": 31000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QQtUmg4dQyY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBslPXrGoPxN4UpBUit1iOJJbIWhg&usqp=CBQ",
+     "length_text": "24:28"
+    },
+    {
+     "video_id": "cmPDQ6fMuRI",
+     "video_title": "21 Hydrogen Peroxide Kitchen Tricks That Replace Expensive Cleaning Products",
+     "video_view_count": 11000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/cmPDQ6fMuRI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAXy-PkIufJMAJqHk1hFrhtOnuGlQ&usqp=CBQ",
+     "length_text": "23:37"
+    },
+    {
+     "video_id": "wBrj8PJLJjU",
+     "video_title": "14 Reasons Why You Must Pour Hydrogen Peroxide Down Every Drain Tonight",
+     "video_view_count": 2700,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/wBrj8PJLJjU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkExqvozPF8K5hiAJD7jkzlrmtLw&usqp=CBQ",
+     "length_text": "22:13"
+    },
+    {
+     "video_id": "qI1DQJIDwPA",
+     "video_title": "15 Things Exterminators Don t Want You to Know About Hydrogen Peroxide",
+     "video_view_count": 2300,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qI1DQJIDwPA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-QEwdtAOdX2JPkUCmPDDuFtKu7Q&usqp=CBQ",
+     "length_text": "23:32"
+    }
+   ],
+   "score": 0.6224877834320068,
+   "createdAt": "2026-10-01T12:12:09.954397",
+   "updatedAt": "2026-10-19T22:57:23.858586"
+  }
+ ],
+ "topicTags": [
+  "do it yourself",
+  "prepping",
+  "rural living",
+  "disaster and accidents",
+  "home improvement",
+  "news",
+  "investigative documentaries",
+  "engineering",
+  "weather",
+  "lifestyle"
+ ],
+ "totalResults": 30,
+ "hasMore": true,
+ "page": 1,
+ "limit": 30,
+ "filters": {
+  "query": "home safety and fire prevention",
+  "limit": 30,
+  "page": 1,
+  "editingVoice": [
+   "ai"
+  ],
+  "minScore": 0.5
+ }
+}

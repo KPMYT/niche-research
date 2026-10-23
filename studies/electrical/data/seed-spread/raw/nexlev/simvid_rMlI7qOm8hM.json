@@ -1,0 +1,358 @@
+{
+"source": "NexLev get_similar_videos",
+"seed": "rMlI7qOm8hM",
+"pulled": "2026-10-23",
+"note": "compact extract transcribed from the inline tool result (thumbnails dropped)",
+"columns": [
+"videoId",
+"title",
+"channelTitle",
+"channelId",
+"viewCount",
+"lengthText",
+"publishedTimeText",
+"similarity_score"
+],
+"videos": [
+[
+"Enz_2EOZvJ4",
+"Stop using wire nuts to install light fixtures | This is better (Wago Lever Connectors)",
+"Around the House",
+"UC0EHJGIAe9jX7qKfN9LepdQ",
+415,
+"0:53",
+"6 months ago",
+86
+],
+[
+"wb9K7UFT-zI",
+"New Wago 221 Inline Connector That EVERYONE is Talking About - And One Thing Nobody Talks About",
+"How To Home",
+"UCpb-xu6Oun_d41RjztUgFWA",
+424343,
+"8:11",
+"3 years ago",
+84
+],
+[
+"VkMeULf22l4",
+"Proving once and for all which is the better electrical connector Wego versus wire nuts",
+"Handsome Or Handy ",
+"UCTugbPCc2dhFLG5Q6liWFAg",
+6938,
+"3:35",
+"3 years ago",
+82
+],
+[
+"kr3gxIoohXw",
+"Wago Connectors Compared | What Wire Connectors Are The Best?",
+"The DIY Guy",
+"UCbJ8oD5Gmh6CKv0GPpXpK8w",
+204804,
+"9:36",
+"4 years ago",
+82
+],
+[
+"WAbo0-g3Fog",
+"WAGO Connectors are a GAME CHANGER When Wires are Too Short",
+"Electrician U",
+"UCB3jUEyCLRbCw7QED0vnXYg",
+100881,
+"7:10",
+"10 months ago",
+82
+],
+[
+"_NpY5mxsYaU",
+"Wago's vs. Wire Nuts - How To Wire Outlets During Rough In",
+"Benjamin Sahlstrom",
+"UC-Z9UcrgFzJIg49LtJFc_kg",
+621858,
+"10:56",
+"6 years ago",
+82
+],
+[
+"iGtbN1orgEg",
+"Wagos Vs Wirenuts Where Should You Use Them?",
+"Tools And Tactics",
+"UCPop6qtIJiQApbd7RwRDg3A",
+1407,
+"2:56",
+"2 years ago",
+82
+],
+[
+"9E8tWUhf87s",
+"Wago Connectors - EASY ways to connect 2 or more wires!",
+"LH2",
+"UCyQUo6wBt2m4KjBN56eG4UA",
+74347,
+"1:37",
+"3 years ago",
+80
+],
+[
+"B1pmuRsf1co",
+"What Wire Connector is the Best? Wire Nut VS Wago TESTED",
+"Silver Cymbal",
+"UC67dKTEwpAhKv2oYDATwR8g",
+768167,
+"5:51",
+"5 years ago",
+78
+],
+[
+"hrMp_GLw9rc",
+"Are Push-in WAGO Connectors Better Than Wire Nuts for DIY Electrical Projects?",
+"DragonBuilds",
+"UCFFmA0JkvES2obDpg8efnww",
+60020,
+"1:55",
+"1 year ago",
+78
+],
+[
+"783mxTnrVVg",
+"Should We Use WAGOS or WIRENUTS?!?!",
+"Electrician U",
+"UCB3jUEyCLRbCw7QED0vnXYg",
+570289,
+"13:50",
+"4 years ago",
+78
+],
+[
+"7QdFaUjmRKc",
+"Wago Lever Connectors Review — The Easiest Way to Wire ANY Project!",
+"Geoff's Gadgets, Gear and Good Deals",
+"UCGIoJmGfnSQpjoTdDs_BPuA",
+5492,
+"2:40",
+"9 months ago",
+77
+],
+[
+"heyEr8agVFA",
+"New Wago Electric Connector is SHOCKING everyone - Inline 221 has arrived!",
+"Silver Cymbal",
+"UC67dKTEwpAhKv2oYDATwR8g",
+824559,
+"4:20",
+"3 years ago",
+76
+],
+[
+null,
+"Ideal Giving Wago A Run For Its Money! Wago vs Ideal Lever Nuts",
+null,
+null,
+null,
+null,
+null,
+76
+],
+[
+"zgjo36-jaFY",
+"What Wire Connector is the Best? Settling a Debate! Wire Nut VS Wago",
+"GreatScott!",
+"UC6mIxFTvXkWQVEHPsEdflzQ",
+2182393,
+"11:09",
+"4 years ago",
+74
+],
+[
+"nXgrsZcwyDk",
+"Wago vs Wire Nut: 6 Mistakes That Make Either One Fail",
+"Roy Dalton Electric",
+"UCD5ecNIpxHr3xCiOhiFtC0g",
+1710,
+"10:54",
+"4 weeks ago",
+74
+],
+[
+"t-zb7j4ikHM",
+"How to Use Wago Connectors | Quick Wiring Tips & Best Practices for Robotics and Electrical Projects",
+"CTR Electronics",
+"UCIkhDEQb-fy4lMDUf8jMAQQ",
+50603,
+"4:45",
+"9 years ago",
+74
+],
+[
+"cDiCqjBSGhU",
+"Best Wire Connectors for DIYers? Wire Nut vs. Ideal vs. Wago 221",
+"Everyday Home Repairs Help",
+"UCSOq57Y9POnZcqzxQdhqp-A",
+33126,
+"4:10",
+"1 year ago",
+72
+],
+[
+"Q1wl4xGtzuo",
+"How to use WAGO 221 Splicing Connectors",
+"YueQing Hanrro Cable Accessories Co.,Ltd",
+"UCqDvc93dNQVE4Mfaa-NcetA",
+71534,
+"0:34",
+"3 years ago",
+68
+],
+[
+"gC3PI2Plw98",
+"Which Splicing Device is Best?  Push Ins Vs. Wago Vs. Wirenuts",
+"How To Home",
+"UCpb-xu6Oun_d41RjztUgFWA",
+1779325,
+"13:06",
+"4 years ago",
+66
+],
+[
+"vdRArXR6z_I",
+"Wire Nut Alternative: Wago Connectors",
+"Brighton's Reviews and More",
+"UCCQrrc0jEgzkHVsvdND-Shg",
+5528,
+"4:42",
+"2 years ago",
+65
+],
+[
+"C8Xpjj47vgU",
+"I tested 7 Wago Knock-Offs Wire Connectors so you don't have to! (Surprising Results)",
+"GreatScott!",
+"UC6mIxFTvXkWQVEHPsEdflzQ",
+377238,
+"11:10",
+"4 years ago",
+62
+],
+[
+"UowNVSjrS7M",
+"How to Use Wago Wire Connectors?  Fast and Safe wire Connection!",
+"BFJ Electric",
+"UC5o2R97rQuePPUSTwfB5AkQ",
+17455,
+"0:51",
+"1 year ago",
+62
+],
+[
+"d6VeZthlA8k",
+"How to use wago connector",
+"SALED AUSTRALIA",
+"UC_csaYV4g4ewlgYJKT3IKKA",
+240839,
+"0:41",
+"7 years ago",
+62
+],
+[
+"0JF3_ORRU64",
+"BIGGEST DIY Mistakes Joining Cables",
+"The Diligent DIYer",
+"UC0H5bjnLE0301VdHAXFh4Fg",
+617730,
+"8:52",
+"2 years ago",
+58
+],
+[
+"JekMbbW2VSg",
+"Wire Nut vs Wago Connector",
+"Hacks by Dad",
+"UCpLKRzr3Ms5rL6JHf2euCag",
+6864,
+"1:20",
+"1 year ago",
+48
+],
+[
+"C34rAbgJVOI",
+"Wago Lever Nut vs Wire Nut (One Clear Winner)",
+"Electrical You",
+"UCDPXjup__Uo81upOUfq7R7g",
+14172,
+"15:43",
+"1 year ago",
+48
+],
+[
+"M5BQIUBRHEg",
+"Wire Nuts vs Wago Lever Nuts: The Surprising Truth",
+"Sparky Steve ⚡️",
+"UCv1nSLuDah_djm4xmfkGX3A",
+12360,
+"8:48",
+"3 months ago",
+45
+],
+[
+"6KX2NS8h5QM",
+"Wire Connectors Heat Test: Wago vs Harbor Freight vs Wirenut",
+"Everyday Home Repairs Help",
+"UCSOq57Y9POnZcqzxQdhqp-A",
+1067,
+"3:42",
+"10 months ago",
+40
+],
+[
+"DV0hLjxfcME",
+"Never Buy Drill Batteries Again! Use a Sim Card and Watch What Happens!",
+"Hack & Craft",
+"UCl9D3LoUbczFNhTME6dgbbA",
+22697,
+"20:03",
+"1 day ago",
+28
+],
+[
+"brVUqgSMvhM",
+"DO NOT Make This Mistake",
+"DIY SITY",
+"UCLLsG7Mzv0ohFgZNi3vuTIA",
+12945,
+"4:16",
+"6 months ago",
+15
+],
+[
+"f8bRhDUVOpA",
+"Never Buy Drill Batteries Again! Use a Ring Terminal and Watch What Happens! | DIY Hacks",
+"DIY Hacks",
+"UCe_5cyghC66jIC64KnUs77w",
+19797,
+"18:03",
+"4 days ago",
+8
+],
+[
+"J37YeB63LVI",
+"Vite+ Just Killed Every Major Config Tool",
+"Web Dev Simplified",
+"UCFbNIlppjAuEX4znoulh0Cw",
+302577,
+"25:15",
+"8 days ago",
+5
+],
+[
+"A6I49gmoas8",
+"HOW TO USE A WAGO CONNECTOR #diy",
+"The Bald Builders",
+"UCUrOTshPDalFe8spxKKHaIA",
+51669,
+"2:03",
+"1 year ago",
+0
+]
+]
+}

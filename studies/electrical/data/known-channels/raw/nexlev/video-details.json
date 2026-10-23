@@ -1,0 +1,65 @@
+{
+ "tool": "youtube_video_details (NexLev)",
+ "pulled": "2026-10-23",
+ "note": "key fields transcribed; availableCountries and thumbnail lists dropped",
+ "videos": {
+  "p7x4nvpCoDg": {
+   "channel": "Walt Brennan",
+   "viewCount": 77920,
+   "likeCount": 2329,
+   "publishDate": "2026-09-29T17:37:22-07:00",
+   "lengthSeconds": 1274,
+   "category": "People & Blogs",
+   "description_first_line": "Learn how hidden electrical hazards can create heat for years without tripping a breaker: https://walt-brennan.netlify.app/",
+   "description_persona": "I spent years working around utility systems, and in this video I explain why the fine print on your power strip matters."
+  },
+  "ySzrVsvwuBs": {
+   "channel": "Rational Buyer",
+   "viewCount": 284979,
+   "likeCount": 3301,
+   "publishDate": "2026-03-16T12:12:54-07:00",
+   "lengthSeconds": 643,
+   "category": "Science & Technology",
+   "description": ""
+  },
+  "1EbXjv0kDzk": {
+   "channel": "The New Home Illusion",
+   "viewCount": 34352,
+   "likeCount": 439,
+   "publishDate": "2026-05-05T11:02:49-07:00",
+   "lengthSeconds": 574,
+   "category": "People & Blogs",
+   "description_excerpt": "...The issue stems from a simple, low-cost component: the backstab ... aluminum bus bars ... Federal Pacific's Stab-Lok ... the importance of an independent inspection by a licensed electrician. Turn on notifications to stay updated!",
+   "links": "none"
+  },
+  "lUAaVwSjk3M": {
+   "channel": "Remote Electrician",
+   "viewCount": 484428,
+   "likeCount": 5229,
+   "publishDate": "2023-03-09T21:19:59-08:00",
+   "lengthSeconds": 320,
+   "category": "Howto & Style",
+   "description_first_line": "►My Tools: https://shoplowes.me/4sJz0VP"
+  },
+  "f_EvnEe4NR4": {
+   "channel": "FixItWithFil",
+   "viewCount": 272402,
+   "likeCount": 2434,
+   "publishDate": "2026-09-22T11:42:23-07:00",
+   "lengthSeconds": 413,
+   "category": "Howto & Style",
+   "description_excerpt": "A kitchen outlet started crackling and smoking while a kettle was being used. When my friend replaced the damaged receptacle ... Using my own kitchen split receptacle ...",
+   "links": "none"
+  },
+  "ffO4xVOU1oI": {
+   "channel": "The Apprentice's Guide",
+   "viewCount": 812191,
+   "likeCount": 5873,
+   "publishDate": "2026-08-30T05:19:18-07:00",
+   "lengthSeconds": 780,
+   "category": "Education",
+   "description_excerpt": "This is Lesson 2 of Electrician Fundamentals — the animated electrician school ... REFERENCES: NEC 2026 (NFPA 70) 210, 240.4; NIOSH Pub. 98-131; UL 943; Mike Holt, Illustrated Guide to Electrical Theory",
+   "links": "none"
+  }
+ }
+}

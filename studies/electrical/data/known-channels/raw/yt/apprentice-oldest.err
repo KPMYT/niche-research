@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/tmp/claude-0/-home-user/bd54f07e-8fa6-5773-8636-91dde80d17df/scratchpad/pager.py", line 44, in <module>
+    print(json.dumps(run(sys.argv[1], sys.argv[2], int(sys.argv[3]) if len(sys.argv) > 3 else 10), indent=1))
+                     ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/claude-0/-home-user/bd54f07e-8fa6-5773-8636-91dde80d17df/scratchpad/pager.py", line 29, in run
+    r = yt.api("browse", {"continuation": m.group(1)}, ctx)
+                                          ^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
