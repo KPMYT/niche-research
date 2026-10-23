@@ -269,7 +269,8 @@ STRONG = re.compile(r"hvac|furnace|heat ?pump|air condition|mini[ -]?splits?|duc
                     r"fireplace insert|heat exchanger|condensate|utility compan|power compan|without power|"
                     r"no power\b|without electricity|no electricity|without heat|no heat\b|without ac\b|no ac\b|"
                     r"air vents?|blown in insulation|rim joist|ac capacitor|hvac capacitor|run capacitor|"
-                    r"start capacitor|condenser coil|condenser fan|ac condenser")
+                    r"start capacitor|condenser coil|condenser fan|ac condenser|air quality|zone valve|crawl ?space|"
+                    r"weather seal|door seals?\b|\bwarmer\b.*\b(house|home|room)\b")
 WEAK = re.compile(r"\bac\b|\ba/c\b|\bheat(ing|er|ers)?\b|\bcool(ing)?\b|\bwarm\b|\bcold\b|\bfilters?\b|\bvents?\b|"
                   r"\bwindows?\b|\bfans?\b|\bmold\b|\bhumidity\b|\bfireplace\b|\bgenerator\b|\bcurtains?\b|"
                   r"\bcaulk|\bdrafts?\b|\bcoils?\b|\bstove\b|\bchimney\b|\bpropane\b|\bkerosene\b|\bfreezing\b|"
@@ -285,7 +286,9 @@ CONTEXT = re.compile(r"\bhouse\b|\bhome\b|\broom\b|bedroom|basement|\battic|apar
                      r"\bcapacitor|\bcoil|\bfreon|\bwater\b|\bice\b|\bturn(ing)? (on|off)\b|\bvs\b|"
                      r"\bbrands?\b|\bcost\b|\bsystem\b|\belectric\b|\bgas\b|\boil\b|\bsenior|\bleak|\bpressure\b|"
                      r"\bvalve|\bbleed|\bbanging|\bpipes?\b|\bbaseboard|\bthermal|\bfiberglass|\bspray|\bfoam\b|"
-                     r"\bbattery\b|\bpellet|\bburn|\bplumb|\bvent|\bheater|\bheating\b")
+                     r"\bbattery\b|\bpellet|\bburn|\bplumb|\bvent|\bheater|\bheating\b|\bproblems?\b|\btrouble|"
+                     r"\bnot\b|\bwon'?t\b|\bsymptoms?\b|\bold\b|\bbest\b|\bworth\b|replacement|\bpump\b|\btank\b|"
+                     r"overheat|piping|safet|\bseal|encapsul|compan|stop working|turn (the )?heat|expansion")
 EXCLUDE = re.compile(r"\bcar\b|\bcars\b|\bauto\b|vehicle|\btruck|\bjeep\b|honda|toyota|\bford\b|chevy|chevrolet|bmw|"
                      r"nissan|hyundai|\bkia\b|tesla|subaru|dodge|\bram 1500|silverado|f-?150|\brv\b|camper|\bvan\b|"
                      r"\bboat\b|motorcycle|engine|coolant|minecraft|\bgame\b|gaming|\bgta\b|fortnite|roblox|valhalla|"
@@ -299,7 +302,7 @@ EXCLUDE = re.compile(r"\bcar\b|\bcars\b|\bauto\b|vehicle|\btruck|\bjeep\b|honda|
                      r"\bnfl\b|fantasy|windows 1[01]|windows 7|microsoft|\bvinyl\b|frozen pipe|pipes? freez|"
                      r"pool heater|hot tub|\bspa\b|sauna|air fryer|\bfridge|refrigerator|freezer|ice maker|"
                      r"\bcake\b|recipe|cooking|\bgrill\b|\bsmoker\b|\bdryer\b|\bgenerator review|\btiktok|"
-                     r"\bshorts?\b|\bmeme|\bprank|funny|\bkids?\b|cartoon|\bdrawing|\bpaint(ing)?\b|"
+                     r"youtube shorts|#shorts|\bmeme|\bprank|funny|\bkids?\b|cartoon|\bdrawing|\bpaint(ing)?\b|"
                      r"radiator (fan|cap|flush|fluid|hose)|\bcoolant\b|\bmilwaukee\b|\bdewalt\b|\bryobi\b|"
                      r"\bmakita\b|\bfinger|\bbody\b|\bskin\b|\bhair\b|\bface\b|\bfeet\b|\bbaby\b|\bpet\b|"
                      r"ventriloquis|\bvent(ing)? (session|video)|\bfan ?made\b|\bfanmade\b|\bfans? (react|edit)|"
@@ -315,21 +318,22 @@ EXCLUDE = re.compile(r"\bcar\b|\bcars\b|\bauto\b|vehicle|\btruck|\bjeep\b|honda|
                      r"check online|\bapp\b|bkash|\bksa\b|\bodia\b|bengal|manipur|gpay|paytm|\bbo6\b|black ops|"
                      r"warzone|\bcod\b|\bunity\b|odyssey|origins|shadows|syndicate|mirage|thermostat housing|"
                      r"\bdd15\b|mercedes|furrion|shower|family guy|spongebob|remix|sparta|breast milk|"
-                     r"thermodynamic|softening|engineering|chemistry|cabin|intake|fuel filter|velocity stack|"
-                     r"exhaust|melting|induction furnace|calentador|punju|geyser|murgi|ranna|steamos|\bshark\b|"
+                     r"thermodynamic|softening|engineering|chemistry|cabin (air )?filter|cold air intake|fuel filter|velocity stack|"
+                     r"exhaust (system|manifold|tip|sound)|melting|induction furnace|calentador|punju|geyser|murgi|ranna|steamos|\bshark\b|"
                      r"vacuum|k&n|splendor|pulsar|\bbmc\b|\bfz\b|kettle|instant pot|pressure cooker|thermistor|"
                      r"leadership|diverter|\buk\b|ireland|australia|\bcombi\b|\bmath\b|problem solving|"
-                     r"application|download|pay online|name change|\bpumped\b|\bnatok\b|\bvlog\b|\bgta\b|"
+                     r"problem application|application form|download|pay online|name change|\bpumped\b|\bnatok\b|\bvlog\b|\bgta\b|"
                      r"\bmlbb\b|free fire|\bpubg\b|\bbgmi\b|\bstalker\b|\bterraria|\boutpost\b|"
                      r"skins?\b|\bemote|secret base|\bboss\b|secret level|\bost\b|\bwalkthrough|\bgameplay|"
-                     r"\bturbo|predator \d|lid flip|\bcover\b|billie|eilish|brockhampton|saigon|neko case|lullaby|football|gold rush|\bxcx\b|"
+                     r"\bdriving\b|\bturbo|predator \d|lid flip|ar condicionado|springer|dielectric|capacitance|equations|inductors|"
+                     r"in circuits|grade 1\d|capacitor (arrangement|bipolar|assets|business|company|esc)|nfs heat|cover song|\(cover\)|\bcover by\b|billie|eilish|brockhampton|saigon|neko case|lullaby|football|gold rush|\bxcx\b|"
                      r"zenekar|mekanism|heroes|juniors|\birl\b|division 2|unboxing|eggman|baba is you|activate|"
                      r"draft tips|mock draft|draft picks?|\bjee\b|react native|\bkvl\b|lavadora|daewoo|delhi|mumbai|"
                      r"bangalore|chennai|hyderabad|karachi|lahore|dhaka|\bnepal|\bsri lanka|\bkenya|\bghana|"
                      r"\bmicrophone|\bmic\b|\bguitar|\bamp\b|\bamplifier|\bspeaker|\baudio|\bpedal|\bsynth|"
-                     r"\bcircuit\b|\bpcb\b|\barduino|\bphysics|\bclass 1[0-2]|\bformula\b|\bderivation|\bnumericals?|"
+                     r"\bpcb\b|\barduino|\bphysics|\bclass 1[0-2]|\bformula\b|\bderivation|\bnumericals?|"
                      r"\bsteam deck|\bsteam game|\bsteam (sale|account|workshop|link|wallet|summer sale)|\bon steam\b|"
-                     r"\bfull steam|\bsteamboat|\bsteam engine|\bsteam train|\blocomotive|\btrain\b|\bexplosion\b|"
+                     r"\bfull steam|\bsteamboat|\bsteam engine|\bsteam train|\blocomotive|\btrain\b|"
                      r"\bxbox\b|\bps[45]\b|\bplaystation|\bnintendo|\bswitch 2\b")
 
 TOPIC_RULES = [
@@ -355,7 +359,7 @@ TOPIC_RULES = [
      r"replace(ment)? (your |the |my |an |a )?(ac|air condition|furnace|hvac|heat pump|boiler|system|unit)|"
      r"new (ac|furnace|hvac|heat pump|air condition)|replace or repair|repair or replace", "replacement-cost"),
     (r"\bducts?\b|ductwork|\bvents?\b|register|damper|return air", "ducts-vents"),
-    (r"condenser|\bcoils?\b|\bfins?\b|clean (the |your |my )?(ac|air condition|outside|outdoor)", "coil-cleaning"),
+    (r"condenser|\bcoils?\b|\bfins?\b|clean(ing)? (the |your |my )?(ac|air condition|outside|outdoor)", "coil-cleaning"),
     (r"mini[ -]?split|ductless", "mini-split"),
     (r"window (ac|air|unit)|portable (ac|air)|window air", "ac-window"),
     (r"heat ?pump", "heat-pump"),
@@ -400,19 +404,19 @@ FRAMING_RULES = [
              r"\bis it (worth|true|bad|safe|ok|okay|better|cheaper)|worth it|\btrue\b|should (i|you)|"
              r"\bis it\b|not saving|\bdebunk"),
     ("cheap hack", r"\bhacks?\b|\btricks?\b|\bcheap|\bdiy\b|\$\d|\bfree\b|\bbudget\b|without (ac|power|electricity|heat)|"
-                   r"no (power|electricity|heat)\b|save money|saving money|lower (your |my |the )?([a-z]+ )?bills?|"
+                   r"no (power|electricity)\b|save money|saving money|lower (your |my |the )?([a-z]+ )?bills?|"
                    r"cut .*bills?|reduce|\bsave on\b|\bsave\b|blow colder|run like new|colder air"),
     ("cost", r"\bcost|\bprices?\b|how much|expensive|\bquotes?\b|\bworth\b|\bpay\b"),
     ("problem symptom", r"why is my|why does my|why is the|\bnot (working|cooling|heating|blowing|turning|coming|kicking|"
                         r"running|igniting|lighting|staying|getting|reaching|shutting)|won'?t|wont |keeps|leak|freez|"
                         r"frozen|\bice\b|icing|smell|odor|noise|noisy|\bloud\b|bang|squeal|humming|buzz|click|"
-                        r"tripping|short cycl|blowing (hot|cold|warm)|high (electric|energy|gas|heating|power|utility)?"
+                        r"\btripping|short cycl|blowing (hot|cold|warm)|high (electric|energy|gas|heating|power|utility)?"
                         r" ?bills?|too (hot|cold|humid)|cold air|hot air|warm air|blink|problems?|trouble|broken|"
                         r"\bdead\b|stopped|condensation|\bmold\b|\bwet\b|dripping|sweating|uneven|cold spots?|"
                         r"\bhot (upstairs|room|spots?)|always running|running constantly|runs constantly|"
                         r"so high|\berror\b|\bcode\b|flashing|\bhigh\b|clog|not on\b|starts then|then stops|not firing|"
                         r"won'?t start|no heat\b|no cool|symptoms?|troubleshoot|\bbad\b|failing|failure|"
-                        r"\bweak\b|\bslow\b|tripp"),
+                        r"\bweak\b|\bslow\b|\btripp|\blosing\b"),
     ("how-to", r"\bhow to\b|\bhow do\b|\binstall|\breplac|\bclean|\bfix|\brepair|\bset(ting|tings)?\b|\bwire|\bwiring|"
                r"\btest|\bcheck|\bchange|\breset|\bbleed|\bmaintenance|tune ?up|step by step|\bguide\b|\btips\b|"
                r"\bdiy\b|\bdo this\b|\bways\b|\bwhat to do\b|\bbuild|\bmake\b|\bkeep\b|\bdrain\b|\bflush|"
@@ -592,7 +596,7 @@ def write_md(rows, res, plan_q, dropped, sc_titles, sc_path):
       "\"the only X\", \"X vs\", \"X secret\", \"X hack\", \"cheap X\", \"X save money\", \"lower X bill\", \"X old house\", "
       "\"X seniors\", \"X winter/summer/fall/spring\", \"X myth\", \"X scam\", \"X cost\" and a few more; the full set "
       "for 23 owned-equipment topics, a 16-framing set for the rest); the same framings on 7 extra nouns (heater, "
-      "heat, heating, air conditioning, radiators, electric bill, heating bill); every known-title phrase; and an "
+      "heat, heating, air conditioning, radiators, electric bill, heating bill); every known-title phrase; every Silver Cymbal phrase (below); and an "
       "a-to-z expansion (`seed a` ... `seed z`) of 10 main seeds: "
       + ", ".join(f"`{s}`" for s in ALPHA_SEEDS) + ".")
     a("4. **Filter.** Autocomplete returns a lot that is not home HVAC (video games, car AC, Indian-market AC, "
@@ -616,19 +620,24 @@ def write_md(rows, res, plan_q, dropped, sc_titles, sc_path):
       "own order. It gives no search volume, and none is claimed here. A phrase appearing does not mean videos on it "
       "do well; the sweep measures that.")
     a("")
-    if sc_titles:
-        a(f"**Silver Cymbal titles:** {len(sc_titles)} titles read from `studies/hvac/seeds/silver-cymbal.md` and added "
-          "as whole-title keywords (source `Silver Cymbal title`).")
-    else:
-        a("**Silver Cymbal titles:** `studies/hvac/seeds/silver-cymbal.md` did not exist when this list was built "
-          "(2026-10-23), so no Silver Cymbal keywords are in it yet. Re-run `python3 autocomplete.py build` once it "
-          "exists; the build reads its tables and adds the titles (the PRIORITY marks are kept).")
+    a(f"**Silver Cymbal titles:** `studies/hvac/seeds/silver-cymbal.md` (the round 1 seed helper's file, read on "
+      f"2026-10-23) was read once it appeared. {len(SILVER_CYMBAL_PHRASES)} short phrases were cut by hand from "
+      f"{len(sc_titles)} of its titles (the 22 seeds, plus in-scope borderline and under-5-minute HVAC titles it lists, "
+      "marked as such), added as keywords (source `Silver Cymbal title: \"<title>\" (video ID, views as listed there)`) "
+      "and also run through autocomplete. Its views are that helper's figures, not re-checked here. If that file "
+      "changes, update `SILVER_CYMBAL_PHRASES` in the script and re-run `python3 autocomplete.py` then "
+      "`python3 autocomplete.py build`.")
     a("")
     a("## Counts")
     a("")
+    hits = Counter(v["kind"] for q, v in plan_q.items()
+                   if any(is_hvac(norm(s)) for s in (res.get(q, {}).get("suggestions") or [])))
     a(f"- Autocomplete queries sent: **{nq}** ({kinds['seed']} seeds, {kinds['framing']} framed, "
-      f"{kinds['known-title']} known-title phrases, {kinds['alphabet']} a-z). "
-      f"{nq_nonempty} returned at least one suggestion; {nq - nq_nonempty} returned none.")
+      f"{kinds['known-title']} known-title phrases, {kinds['silver-cymbal']} Silver Cymbal phrases, "
+      f"{kinds['alphabet']} a-z). {nq_nonempty} returned at least one suggestion; {nq - nq_nonempty} returned none; "
+      f"no request failed.")
+    a("- Queries that returned at least one kept (home HVAC) suggestion: " + ", ".join(
+        f"{k} {hits[k]} of {kinds[k]}" for k in ["seed", "framing", "known-title", "silver-cymbal", "alphabet"]) + ".")
     a(f"- Suggestions returned: {nsugg} ({nuniq} distinct); {len(set(dropped))} distinct dropped as not home HVAC.")
     a(f"- **Keywords in the list: {len(allr)}** — PRIORITY **{len(pri)}**, EXTENDED **{len(ext)}**.")
     a(f"- By first source: autocomplete {src_kind['autocomplete']}, brief/helper seeds {src_kind['seed']}, "
@@ -645,6 +654,15 @@ def write_md(rows, res, plan_q, dropped, sc_titles, sc_path):
     for f in FRAMINGS_ORDER:
         a(f"| {f} | {by_fr[f]} | {by_fr_p[f]} |")
     a("")
+    a(f"**Reading (counted from this list, not a volume):** framed phrasings are rare in autocomplete. Of "
+      f"{len(allr)} keywords, {by_fr['mistakes']} read as mistakes, {by_fr['before you']} as before-you, "
+      f"{by_fr['they don\'t want you to know']} as they-don't-want-you-to-know and {by_fr['myth']} as myth, against "
+      f"{by_fr['problem symptom']} problem-symptom and {by_fr['how-to']} how-to. Several known winning phrases "
+      "return nothing on topic (\"before you turn on your heat\" gives only \"before you turn off the light\"; "
+      "\"thermostat habits\" gives nothing about HVAC). People type the problem; the framing lives in the titles. "
+      "So the PRIORITY set adds the known-title phrases by hand, and the sweep should count framings from the "
+      "video titles it returns.")
+    a("")
     a("Framing notes: \"they don't want you to know\" also holds scam / upsell / secret phrasings. \"the only X\" also "
       "holds best / worst / brands-to-avoid. \"story\" and \"test\" (from deliverable 8) don't show up in autocomplete "
       "phrasing; they will have to be counted from the sweep's video titles.")
@@ -655,8 +673,7 @@ def write_md(rows, res, plan_q, dropped, sc_titles, sc_path):
     a("|---:|---|---|---|---|")
     keyf = lambda r: (list(TOPIC_NAMES).index(r["topic"]), FRAMINGS_ORDER.index(r["framing"]), r["keyword"])
     for i, r in enumerate(sorted(pri, key=keyf), 1):
-        a(f"| {i} | {md_escape(r['keyword'])} | `{r['topic']}` | {r['framing']} | {md_escape(r['sources'][0])}"
-          + (f" (+{len(r['sources'])-1} more)" if len(r["sources"]) > 1 else "") + " |")
+        a(f"| {i} | {md_escape(r['keyword'])} | `{r['topic']}` | {r['framing']} | {md_escape("; ".join(r['sources']))} |")
     a("")
     a("## EXTENDED keywords (relevance search only), by topic")
     a("")
@@ -675,7 +692,93 @@ def write_md(rows, res, plan_q, dropped, sc_titles, sc_path):
         f.write("\n".join(L))
 
 
-PRIORITY = set()
+PRIORITY = {  # hand-picked 2026-10-23 (see the md, method step 6); every one must exist in the built list
+    # ac-central
+    "air conditioner", "ac not cooling", "why is my ac blowing hot air", "ac mistakes", "save money on ac",
+    "secret ac trick", "central air conditioning not cooling", "unclog ac drain line", "adding air conditioning to old house",
+    # ac-window
+    "window air conditioner", "window ac not cooling", "window ac vs portable ac", "best portable air conditioner",
+    # mini-split
+    "mini split", "mini split vs central air", "mini split mistakes", "mini split cost installed",
+    # heat-pump
+    "heat pump", "heat pump vs furnace", "do heat pumps save money", "the truth about heat pumps",
+    "why is my heat pump blowing cold air", "heat pumps leaving people cold",
+    # furnace
+    "furnace", "why is my furnace blowing cold air", "save money on heating",
+    # oil-furnace
+    "oil furnace", "oil furnace won't ignite", "oil furnace maintenance", "oil furnace vs gas furnace", "heating oil vs gas",
+    # boiler-steam
+    "boiler", "steam radiator", "steam heat", "bleeding radiators old house", "steam radiator not getting hot",
+    "boiler vs furnace", "old house boiler", "boiler no heat",
+    # electric-heat
+    "baseboard heater",
+    # thermostat
+    "thermostat habits", "what temperature should you set your thermostat", "thermostat save money",
+    "turning your heat down", "smart thermostat save money", "nest thermostat vs ecobee",
+    # filters
+    "air filter", "ac filter destroying", "furnace filter mistakes", "how often should you change your air filter",
+    "furnace filters cheap vs expensive", "do air filters really work",
+    # ducts-vents
+    "duct cleaning", "duct cleaning scams", "closing vents", "is ac duct cleaning worth it",
+    # parts
+    "ac capacitor", "contactor", "furnace flame sensor", "furnace igniter",
+    # coil-cleaning
+    "how to clean ac unit", "cleaning ac unit with pressure washer", "central air conditioner condenser cleaning",
+    # maintenance
+    "hvac maintenance", "before you turn on your heat", "before you shut your ac down", "before you turn on your ac",
+    "do this once a month ac", "do this before winter furnace",
+    # energy-bill
+    "electric bill", "heating bill", "why is my electric bill so high", "lower your electric bill",
+    "energy bill mistakes", "power company doesn't want you to", "how to save money on electric bill in winter",
+    "why is your heat bill so high",
+    # insulation
+    "attic insulation", "rim joist insulation", "spray foam", "insulation mistakes", "spray foam alternative",
+    # drafts
+    "weatherstripping", "drafty house", "draft stopper",
+    # windows
+    "window insulation", "window film", "thermal curtains",
+    # humidity
+    "dehumidifier", "humidity in house", "dehumidifier mistakes",
+    # indoor-air
+    "indoor air quality", "air purifier", "carbon monoxide furnace",
+    # outage-heat
+    "power outage heat", "heat without power", "stay warm without power",
+    "keep your family warm during a power outage", "furnace not working after power outage",
+    # brands
+    "best hvac brands", "best ac brands", "best furnace brands", "best heat pump brands", "hvac brands to avoid",
+    "only hvac brands worth buying",
+    # refrigerant
+    "freon", "ac recharge", "ac losing freon",
+    # ac-freezing
+    "ac freezing up", "why is my ac freezing up", "frozen evaporator coil",
+    # short-cycling
+    "short cycling", "furnace short cycling", "ac short cycling",
+    # smells
+    "furnace smell", "burning smell furnace",
+    # noises
+    "furnace noise", "ac making noise", "banging radiator",
+    # scams-upsells
+    "hvac scam", "hvac scam caught on camera", "hvac upsell", "hvac companies hate",
+    "hvac companies don't want you to know", "beating the hvac industry",
+    # replacement-cost
+    "hvac replacement cost", "new ac cost", "new furnace cost", 
+    # wood-stove
+    "wood stove", "pellet stove", "wood stove mistakes",
+    # space-heater
+    "space heater", "space heater vs central heat", "space heater save money",
+    # ceiling-fan
+    "ceiling fan direction", "ceiling fan winter",
+    # attic-fan
+    "attic fan", "whole house fan", "cool your attic",
+    # keep-cool
+    "keep house cool", "cool house without ac", "home designs that stayed cool",
+    # keep-warm
+    "keep house warm", "heat house cheap",
+    # evap-cooler, geothermal, home-warranty
+    "swamp cooler", "geothermal", "home warranty hvac",
+    # hvac-general
+    "hvac tips", "hvac secrets", "hvac mistakes",
+}
 
 
 if __name__ == "__main__":

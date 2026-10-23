@@ -10,78 +10,81 @@ Files: this page; `studies/hvac/data/raw/keywords-round2.csv` (every keyword: ke
 
 1. **Brief topics.** Each topic in `RESEARCH-BRIEF.md` section 1 (and the helper brief's longer list) became a topic code with 1 to 8 plain seeds (for example `furnace`, `oil furnace`, `steam radiator`, `ac capacitor`). Seven topics were added by this helper because the autocomplete kept pointing at them: keep-cool, keep-warm, evap-cooler, electric-heat, geothermal, home-warranty, hvac-general. Source label: `brief topic list` or `helper-added seed`.
 2. **Known winning titles.** Short phrases were lifted from the winners quoted in `findings/2026-10-22-hvac-and-electrical.md` section 1 and `recovered/2026-10-22-roger-sub-brands/research/lane2-trades.md` (for example "thermostat habits", "before you turn on your heat", "hvac companies hate"). Source label: `known title: <title (channel, views as quoted there)>`. Two phrases ("radiator trick", "cuts the oil bill") come from a *proposed* hand-off title in lane2-trades, not a published video, and say so.
-3. **YouTube autocomplete.** `https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=en&gl=us&q=<query>`, 0.3 s between calls, pulled 2026-10-23. Queries: every seed; the first seed of each topic with the audience framings ("why is my X", "how to X", "stop X", "never X", "X mistakes", "don't X", "before you X", "the only X", "X vs", "X secret", "X hack", "cheap X", "X save money", "lower X bill", "X old house", "X seniors", "X winter/summer/fall/spring", "X myth", "X scam", "X cost" and a few more; the full set for 23 owned-equipment topics, a 16-framing set for the rest); the same framings on 7 extra nouns (heater, heat, heating, air conditioning, radiators, electric bill, heating bill); every known-title phrase; and an a-to-z expansion (`seed a` ... `seed z`) of 10 main seeds: `ac`, `furnace`, `heat pump`, `thermostat`, `air filter`, `electric bill`, `heating bill`, `boiler`, `hvac`, `insulation`.
-4. **Filter.** Autocomplete returns a lot that is not home HVAC (video games, car AC, Indian-market AC, Windows software, music, Hindi/Bangla/Spanish phrases, water heaters, which belong to plumbing). A suggestion is kept only if it has a strong HVAC word (furnace, thermostat, heat pump, insulation, electric bill...) or a weak one (ac, heat, filter, vent, window, fan...) plus a home context word, and none of the exclusion words. The rules are in `autocomplete.py` (`STRONG`, `WEAK`, `CONTEXT`, `EXCLUDE`). 2236 distinct suggestions were dropped. The filter is a heuristic: some off-topic strings remain in EXTENDED (mostly harmless; the sweep will show it) and a few on-topic ones may have been dropped.
+3. **YouTube autocomplete.** `https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=en&gl=us&q=<query>`, 0.3 s between calls, pulled 2026-10-23. Queries: every seed; the first seed of each topic with the audience framings ("why is my X", "how to X", "stop X", "never X", "X mistakes", "don't X", "before you X", "the only X", "X vs", "X secret", "X hack", "cheap X", "X save money", "lower X bill", "X old house", "X seniors", "X winter/summer/fall/spring", "X myth", "X scam", "X cost" and a few more; the full set for 23 owned-equipment topics, a 16-framing set for the rest); the same framings on 7 extra nouns (heater, heat, heating, air conditioning, radiators, electric bill, heating bill); every known-title phrase; every Silver Cymbal phrase (below); and an a-to-z expansion (`seed a` ... `seed z`) of 10 main seeds: `ac`, `furnace`, `heat pump`, `thermostat`, `air filter`, `electric bill`, `heating bill`, `boiler`, `hvac`, `insulation`.
+4. **Filter.** Autocomplete returns a lot that is not home HVAC (video games, car AC, Indian-market AC, Windows software, music, Hindi/Bangla/Spanish phrases, water heaters, which belong to plumbing). A suggestion is kept only if it has a strong HVAC word (furnace, thermostat, heat pump, insulation, electric bill...) or a weak one (ac, heat, filter, vent, window, fan...) plus a home context word, and none of the exclusion words. The rules are in `autocomplete.py` (`STRONG`, `WEAK`, `CONTEXT`, `EXCLUDE`). 2138 distinct suggestions were dropped. The filter is a heuristic: some off-topic strings remain in EXTENDED (mostly harmless; the sweep will show it) and a few on-topic ones may have been dropped.
 5. **Dedupe and label.** Lower-cased, spaces and apostrophes normalised, exact duplicates merged (all sources kept in the CSV, joined by `;`). A suggestion's autocomplete source is the first query in plan order that returned it. Topic and framing come from ordered word rules (`TOPIC_RULES`, `FRAMING_RULES`): the first rule that matches wins, so a keyword carries one topic and one framing (for example "why is my ac freezing up" is ac-freezing / problem symptom).
 6. **Priority.** The PRIORITY set was picked by hand from the labelled list, to cover every topic and mix plain topics with each framing, leaning towards what the 2026-10-22 findings say works for this audience (money, distrust of the trade, mistakes, before-you, brand verdicts, old-house heat, outage heat). It is the helper's judgement, not a measured ranking.
 
 **What autocomplete does and doesn't tell us.** It shows phrases people type on YouTube, in the endpoint's own order. It gives no search volume, and none is claimed here. A phrase appearing does not mean videos on it do well; the sweep measures that.
 
-**Silver Cymbal titles:** 78 titles read from `studies/hvac/seeds/silver-cymbal.md` and added as whole-title keywords (source `Silver Cymbal title`).
+**Silver Cymbal titles:** `studies/hvac/seeds/silver-cymbal.md` (the round 1 seed helper's file, read on 2026-10-23) was read once it appeared. 35 short phrases were cut by hand from 29 of its titles (the 22 seeds, plus in-scope borderline and under-5-minute HVAC titles it lists, marked as such), added as keywords (source `Silver Cymbal title: "<title>" (video ID, views as listed there)`) and also run through autocomplete. Its views are that helper's figures, not re-checked here. If that file changes, update `SILVER_CYMBAL_PHRASES` in the script and re-run `python3 autocomplete.py` then `python3 autocomplete.py build`.
 
 ## Counts
 
-- Autocomplete queries sent: **1751** (188 seeds, 1268 framed, 35 known-title phrases, 260 a-z). 1594 returned at least one suggestion; 157 returned none.
-- Suggestions returned: 9290 (7692 distinct); 2236 distinct dropped as not home HVAC.
-- **Keywords in the list: 5596** — PRIORITY **0**, EXTENDED **5596**.
-- By first source: autocomplete 5291, brief/helper seeds 188, known-title phrases 39, Silver Cymbal titles 78.
+- Autocomplete queries sent: **1786** (188 seeds, 1268 framed, 35 known-title phrases, 35 Silver Cymbal phrases, 260 a-z). 1629 returned at least one suggestion; 157 returned none; no request failed.
+- Queries that returned at least one kept (home HVAC) suggestion: seed 182 of 188, framing 1031 of 1268, known-title 24 of 35, silver-cymbal 33 of 35, alphabet 243 of 260.
+- Suggestions returned: 9496 (7886 distinct); 2138 distinct dropped as not home HVAC.
+- **Keywords in the list: 5825** — PRIORITY **150**, EXTENDED **5675**.
+- By first source: autocomplete 5563, brief/helper seeds 188, known-title phrases 39, Silver Cymbal titles 35.
 
 | Topic | Code | All keywords | PRIORITY |
 |---|---|---:|---:|
-| AC: central air | `ac-central` | 193 | 0 |
-| AC: window and portable | `ac-window` | 120 | 0 |
-| Mini-splits | `mini-split` | 141 | 0 |
-| Heat pumps | `heat-pump` | 283 | 0 |
-| Furnaces (gas) | `furnace` | 344 | 0 |
-| Oil furnaces and oil heat | `oil-furnace` | 103 | 0 |
-| Boilers, radiators, steam (old-house heat) | `boiler-steam` | 221 | 0 |
-| Electric and baseboard heat | `electric-heat` | 69 | 0 |
-| Thermostats | `thermostat` | 353 | 0 |
-| Filters | `filters` | 290 | 0 |
-| Ducts and vents | `ducts-vents` | 159 | 0 |
-| Parts homeowners touch (capacitors, contactors, igniters...) | `parts` | 245 | 0 |
-| Condenser and coil cleaning | `coil-cleaning` | 70 | 0 |
-| Seasonal maintenance | `maintenance` | 81 | 0 |
-| Energy bills | `energy-bill` | 265 | 0 |
-| Insulation | `insulation` | 422 | 0 |
-| Drafts and weatherstripping | `drafts` | 70 | 0 |
-| Windows, film, curtains | `windows` | 97 | 0 |
-| Humidity, dehumidifiers, humidifiers | `humidity` | 156 | 0 |
-| Indoor air (purifiers, mold, CO) | `indoor-air` | 78 | 0 |
-| Heat (and cooling) in a power outage | `outage-heat` | 83 | 0 |
-| Brand verdicts | `brands` | 62 | 0 |
-| Refrigerant / Freon | `refrigerant` | 64 | 0 |
-| AC freezing up | `ac-freezing` | 86 | 0 |
-| Short cycling | `short-cycling` | 3 | 0 |
-| Smells | `smells` | 33 | 0 |
-| Noises | `noises` | 114 | 0 |
-| HVAC scams, upsells, contractors | `scams-upsells` | 85 | 0 |
-| Replacement cost, repair or replace | `replacement-cost` | 66 | 0 |
-| Wood and pellet stoves, fireplaces | `wood-stove` | 160 | 0 |
-| Space heaters | `space-heater` | 250 | 0 |
-| Ceiling fans and fans | `ceiling-fan` | 213 | 0 |
-| Attic fans, whole-house fans, hot attics | `attic-fan` | 83 | 0 |
-| Keeping the house cool (no-AC tricks) | `keep-cool` | 51 | 0 |
-| Keeping the house warm cheaply | `keep-warm` | 47 | 0 |
-| Swamp / evaporative coolers | `evap-cooler` | 42 | 0 |
-| Geothermal | `geothermal` | 43 | 0 |
-| Home warranties | `home-warranty` | 9 | 0 |
-| HVAC general | `hvac-general` | 342 | 0 |
-| **Total** | | **5596** | **0** |
+| AC: central air | `ac-central` | 227 | 9 |
+| AC: window and portable | `ac-window` | 158 | 4 |
+| Mini-splits | `mini-split` | 161 | 3 |
+| Heat pumps | `heat-pump` | 286 | 6 |
+| Furnaces (gas) | `furnace` | 355 | 3 |
+| Oil furnaces and oil heat | `oil-furnace` | 109 | 5 |
+| Boilers, radiators, steam (old-house heat) | `boiler-steam` | 262 | 8 |
+| Electric and baseboard heat | `electric-heat` | 70 | 1 |
+| Thermostats | `thermostat` | 356 | 6 |
+| Filters | `filters` | 296 | 6 |
+| Ducts and vents | `ducts-vents` | 162 | 3 |
+| Parts homeowners touch (capacitors, contactors, igniters...) | `parts` | 232 | 4 |
+| Condenser and coil cleaning | `coil-cleaning` | 73 | 3 |
+| Seasonal maintenance | `maintenance` | 81 | 6 |
+| Energy bills | `energy-bill` | 268 | 8 |
+| Insulation | `insulation` | 426 | 6 |
+| Drafts and weatherstripping | `drafts` | 80 | 3 |
+| Windows, film, curtains | `windows` | 114 | 2 |
+| Humidity, dehumidifiers, humidifiers | `humidity` | 165 | 3 |
+| Indoor air (purifiers, mold, CO) | `indoor-air` | 84 | 3 |
+| Heat (and cooling) in a power outage | `outage-heat` | 78 | 5 |
+| Brand verdicts | `brands` | 70 | 6 |
+| Refrigerant / Freon | `refrigerant` | 64 | 3 |
+| AC freezing up | `ac-freezing` | 87 | 3 |
+| Short cycling | `short-cycling` | 39 | 3 |
+| Smells | `smells` | 32 | 2 |
+| Noises | `noises` | 115 | 3 |
+| HVAC scams, upsells, contractors | `scams-upsells` | 86 | 7 |
+| Replacement cost, repair or replace | `replacement-cost` | 68 | 4 |
+| Wood and pellet stoves, fireplaces | `wood-stove` | 163 | 3 |
+| Space heaters | `space-heater` | 246 | 3 |
+| Ceiling fans and fans | `ceiling-fan` | 210 | 2 |
+| Attic fans, whole-house fans, hot attics | `attic-fan` | 91 | 3 |
+| Keeping the house cool (no-AC tricks) | `keep-cool` | 51 | 3 |
+| Keeping the house warm cheaply | `keep-warm` | 49 | 2 |
+| Swamp / evaporative coolers | `evap-cooler` | 42 | 1 |
+| Geothermal | `geothermal` | 43 | 1 |
+| Home warranties | `home-warranty` | 9 | 1 |
+| HVAC general | `hvac-general` | 317 | 3 |
+| **Total** | | **5825** | **150** |
 
 | Framing | All keywords | PRIORITY |
 |---|---:|---:|
-| plain topic | 2430 | 0 |
-| problem symptom | 896 | 0 |
-| mistakes | 42 | 0 |
-| X vs Y | 218 | 0 |
-| the only X | 56 | 0 |
-| before you | 7 | 0 |
-| they don't want you to know | 54 | 0 |
-| cheap hack | 362 | 0 |
-| myth | 31 | 0 |
-| how-to | 1369 | 0 |
-| cost | 131 | 0 |
+| plain topic | 2493 | 52 |
+| problem symptom | 1003 | 25 |
+| mistakes | 40 | 10 |
+| X vs Y | 225 | 9 |
+| the only X | 68 | 7 |
+| before you | 7 | 4 |
+| they don't want you to know | 52 | 11 |
+| cheap hack | 361 | 11 |
+| myth | 29 | 5 |
+| how-to | 1414 | 12 |
+| cost | 133 | 4 |
+
+**Reading (counted from this list, not a volume):** framed phrasings are rare in autocomplete. Of 5825 keywords, 40 read as mistakes, 7 as before-you, 52 as they-don't-want-you-to-know and 29 as myth, against 1003 problem-symptom and 1414 how-to. Several known winning phrases return nothing on topic ("before you turn on your heat" gives only "before you turn off the light"; "thermostat habits" gives nothing about HVAC). People type the problem; the framing lives in the titles. So the PRIORITY set adds the known-title phrases by hand, and the sweep should count framings from the video titles it returns.
 
 Framing notes: "they don't want you to know" also holds scam / upsell / secret phrasings. "the only X" also holds best / worst / brands-to-avoid. "story" and "test" (from deliverable 8) don't show up in autocomplete phrasing; they will have to be counted from the sweep's video titles.
 
@@ -89,19 +92,170 @@ Framing notes: "they don't want you to know" also holds scam / upsell / secret p
 
 | # | Keyword | Topic | Framing | Source |
 |---:|---|---|---|---|
+| 1 | adding air conditioning to old house | `ac-central` | plain topic | autocomplete of "air conditioning old house" |
+| 2 | air conditioner | `ac-central` | plain topic | brief topic list; autocomplete of "air conditioner" |
+| 3 | ac not cooling | `ac-central` | problem symptom | brief topic list; autocomplete of "ac not cooling"; autocomplete of "ac n" |
+| 4 | central air conditioning not cooling | `ac-central` | problem symptom | Silver Cymbal title: "#1 Problem & Quick Fix with Central Air Conditioning Not Cooling" (_b6p0fkWhCY, 4,307,728) |
+| 5 | unclog ac drain line | `ac-central` | problem symptom | Silver Cymbal title: "How to UNCLOG your AC DRAIN Condensate line FAST..." (qAxJb0J1HH0, 3,772,025); autocomplete of "unclog ac drain line" |
+| 6 | why is my ac blowing hot air | `ac-central` | problem symptom | autocomplete of "why is my ac" |
+| 7 | ac mistakes | `ac-central` | mistakes | known title: 5 AC Mistakes HVAC Companies Hope You Keep Making (Ray Dutton's Garage, 589K) |
+| 8 | secret ac trick | `ac-central` | they don't want you to know | known title: This SECRET AC Trick is Only Known by 1% of HVAC Technicians (193K) |
+| 9 | save money on ac | `ac-central` | cheap hack | autocomplete of "save money ac"; autocomplete of "save money window ac"; autocomplete of "save money mini split"; autocomplete of "save money air ducts"; autocomplete of "save money air conditioning" |
+| 10 | window air conditioner | `ac-window` | plain topic | brief topic list; autocomplete of "window air conditioner" |
+| 11 | window ac not cooling | `ac-window` | problem symptom | autocomplete of "window ac"; autocomplete of "window ac problems" |
+| 12 | window ac vs portable ac | `ac-window` | X vs Y | autocomplete of "window ac vs" |
+| 13 | best portable air conditioner | `ac-window` | the only X | Silver Cymbal title: "The BEST Portable Air Conditioner Just Got BETTER for 2026" (OGVXmIZtEG8, 65,273); autocomplete of "best portable air conditioner" |
+| 14 | mini split | `mini-split` | plain topic | brief topic list; autocomplete of "mini split" |
+| 15 | mini split mistakes | `mini-split` | mistakes | autocomplete of "mini split mistakes" |
+| 16 | mini split vs central air | `mini-split` | X vs Y | brief topic list; autocomplete of "mini split vs central air" |
+| 17 | heat pump | `heat-pump` | plain topic | brief topic list; autocomplete of "heat pump" |
+| 18 | heat pumps leaving people cold | `heat-pump` | plain topic | Silver Cymbal title: "Why Heat Pumps are now leaving people COLD" (BP1iDvKpNZA, 631,905) |
+| 19 | why is my heat pump blowing cold air | `heat-pump` | problem symptom | autocomplete of "why is my heat pump" |
+| 20 | heat pump vs furnace | `heat-pump` | X vs Y | brief topic list; autocomplete of "heat pump vs furnace"; autocomplete of "heat pump vs"; autocomplete of "heat pump v" |
+| 21 | the truth about heat pumps | `heat-pump` | they don't want you to know | autocomplete of "the only heat pump" |
+| 22 | do heat pumps save money | `heat-pump` | myth | autocomplete of "heat pump save money"; autocomplete of "save money heat pump"; autocomplete of "heat save money" |
+| 23 | furnace | `furnace` | plain topic | brief topic list; autocomplete of "furnace" |
+| 24 | why is my furnace blowing cold air | `furnace` | problem symptom | autocomplete of "why is my furnace"; autocomplete of "why is my hvac" |
+| 25 | save money on heating | `furnace` | cheap hack | autocomplete of "save money furnace"; autocomplete of "save money boiler"; autocomplete of "save money thermostat"; autocomplete of "save money keep house cool"; autocomplete of "save money keep house warm"; autocomplete of "save money heater"; autocomplete of "save money heat"; autocomplete of "save money heating"; autocomplete of "save money radiators" |
+| 26 | oil furnace | `oil-furnace` | plain topic | brief topic list; autocomplete of "oil furnace"; autocomplete of "oil furnace myth" |
+| 27 | oil furnace won't ignite | `oil-furnace` | problem symptom | autocomplete of "never do this oil furnace"; autocomplete of "oil furnace problems" |
+| 28 | heating oil vs gas | `oil-furnace` | X vs Y | Silver Cymbal title: "Why Heating Oil is BETTER than GAS - Explained" (GdTOl1WcHV0, 343,444) |
+| 29 | oil furnace vs gas furnace | `oil-furnace` | X vs Y | autocomplete of "oil furnace vs" |
+| 30 | oil furnace maintenance | `oil-furnace` | how-to | autocomplete of "oil furnace"; autocomplete of "oil furnace old house"; autocomplete of "oil furnace summer"; autocomplete of "oil furnace spring" |
+| 31 | boiler | `boiler-steam` | plain topic | brief topic list |
+| 32 | old house boiler | `boiler-steam` | plain topic | autocomplete of "old house furnace"; autocomplete of "boiler old house"; autocomplete of "old house boiler" |
+| 33 | steam heat | `boiler-steam` | plain topic | brief topic list; autocomplete of "steam heat" |
+| 34 | steam radiator | `boiler-steam` | plain topic | brief topic list; autocomplete of "steam radiator" |
+| 35 | boiler no heat | `boiler-steam` | problem symptom | Silver Cymbal title: "Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT" (yCZqfnlBYW8, 470,352); autocomplete of "boiler no heat" |
+| 36 | steam radiator not getting hot | `boiler-steam` | problem symptom | autocomplete of "steam radiator" |
+| 37 | boiler vs furnace | `boiler-steam` | X vs Y | autocomplete of "boiler vs"; autocomplete of "boiler v" |
+| 38 | bleeding radiators old house | `boiler-steam` | how-to | autocomplete of "bleeding radiators"; autocomplete of "radiators old house" |
+| 39 | baseboard heater | `electric-heat` | plain topic | helper-added seed; autocomplete of "baseboard heater"; autocomplete of "baseboard heater vs"; autocomplete of "baseboard heater winter"; autocomplete of "baseboard heater tips"; autocomplete of "baseboard heater secret" |
+| 40 | turning your heat down | `thermostat` | plain topic | known title: Turning Your Heat Down Is NOT Saving You Money... (Gus Whitaker, 74K) |
+| 41 | thermostat habits | `thermostat` | mistakes | known title: The 5 Thermostat Habits That Wear Out Your AC Years Early (Ray Dutton's Garage, 1.1M) |
+| 42 | nest thermostat vs ecobee | `thermostat` | X vs Y | autocomplete of "thermostat vs" |
+| 43 | smart thermostat save money | `thermostat` | cheap hack | autocomplete of "thermostat save money" |
+| 44 | thermostat save money | `thermostat` | cheap hack | autocomplete of "thermostat save money"; autocomplete of "save money thermostat" |
+| 45 | what temperature should you set your thermostat | `thermostat` | myth | autocomplete of "before you turn on your thermostat" |
+| 46 | air filter | `filters` | plain topic | brief topic list; autocomplete of "air filter" |
+| 47 | ac filter destroying | `filters` | mistakes | known title: The $30 AC Filter Is Destroying Your HVAC System (Ray Dutton's Garage, 761K) |
+| 48 | furnace filter mistakes | `filters` | mistakes | autocomplete of "furnace mistakes" |
+| 49 | furnace filters cheap vs expensive | `filters` | X vs Y | autocomplete of "furnace filter" |
+| 50 | do air filters really work | `filters` | myth | autocomplete of "the only air filter" |
+| 51 | how often should you change your air filter | `filters` | myth | autocomplete of "before you turn on your air filter" |
+| 52 | closing vents | `ducts-vents` | plain topic | brief topic list |
+| 53 | is ac duct cleaning worth it | `ducts-vents` | myth | autocomplete of "cheap air ducts" |
+| 54 | duct cleaning | `ducts-vents` | how-to | brief topic list; autocomplete of "duct cleaning" |
+| 55 | ac capacitor | `parts` | plain topic | brief topic list; autocomplete of "ac capacitor" |
+| 56 | contactor | `parts` | plain topic | brief topic list; autocomplete of "contactor" |
+| 57 | furnace flame sensor | `parts` | plain topic | brief topic list; autocomplete of "furnace flame sensor"; autocomplete of "furnace f" |
+| 58 | furnace igniter | `parts` | plain topic | brief topic list |
+| 59 | central air conditioner condenser cleaning | `coil-cleaning` | how-to | Silver Cymbal title: "Central Air Conditioner Condenser Cleaning - How To - Make it COLD again!" (nsRHhU6q5RY, 1,454,183) |
+| 60 | cleaning ac unit with pressure washer | `coil-cleaning` | how-to | autocomplete of "clean ac unit" |
+| 61 | how to clean ac unit | `coil-cleaning` | how-to | autocomplete of "how to clean ac" |
+| 62 | before you shut your ac down | `maintenance` | before you | known title: Before You Shut Your AC Down This Fall, Do This (Ray Dutton's Garage, 1.1M) |
+| 63 | before you turn on your ac | `maintenance` | before you | known title: Before You Shut Your AC Down This Fall, Do This (Ray Dutton's Garage, 1.1M) [flipped to spring] |
+| 64 | before you turn on your heat | `maintenance` | before you | known title: Before You Turn On Your Heat This Fall, Do This (Ray Dutton's Garage, 926K) |
+| 65 | do this before winter furnace | `maintenance` | before you | known title: Do THIS Before Winter and Your Furnace Will Last 30 Years (John The HVAC Guy, 176K) |
+| 66 | do this once a month ac | `maintenance` | how-to | known title: Do THIS Once a Month and Your AC Will Last 25 Years (John The HVAC Guy, 232K) |
+| 67 | hvac maintenance | `maintenance` | how-to | brief topic list; autocomplete of "hvac maintenance"; autocomplete of "furnace maintenance"; autocomplete of "hvac maintenance myth"; autocomplete of "hvac maintenance secret"; autocomplete of "hvac m" |
+| 68 | electric bill | `energy-bill` | plain topic | brief topic list; autocomplete of "electric bill"; autocomplete of "electric bill y" |
+| 69 | heating bill | `energy-bill` | plain topic | brief topic list; autocomplete of "heating bill"; autocomplete of "stop heating bill"; autocomplete of "heating bill mistakes"; autocomplete of "heating bill hack"; autocomplete of "heating bill old house"; autocomplete of "heating bill seniors"; autocomplete of "heating bill winter"; autocomplete of "heating bill summer"; autocomplete of "heating bill fall"; autocomplete of "heating bill myth"; autocomplete of "heating bill scam"; autocomplete of "heating bill problems"; autocomplete of "heating bill companies hate"; autocomplete of "heating bill a"; autocomplete of "heating bill b"; autocomplete of "heating bill c"; autocomplete of "heating bill d"; autocomplete of "heating bill e"; autocomplete of "heating bill f"; autocomplete of "heating bill g"; autocomplete of "heating bill h"; autocomplete of "heating bill i"; autocomplete of "heating bill j"; autocomplete of "heating bill k"; autocomplete of "heating bill l"; autocomplete of "heating bill m"; autocomplete of "heating bill o"; autocomplete of "heating bill p"; autocomplete of "heating bill q"; autocomplete of "heating bill r"; autocomplete of "heating bill s"; autocomplete of "heating bill t"; autocomplete of "heating bill u"; autocomplete of "heating bill v"; autocomplete of "heating bill w"; autocomplete of "heating bill y" |
+| 70 | why is my electric bill so high | `energy-bill` | problem symptom | autocomplete of "why is my electric bill" |
+| 71 | why is your heat bill so high | `energy-bill` | problem symptom | known title: THIS is Why Your Heat Bill is So High! Rim Joist Insulation (5.8M) |
+| 72 | energy bill mistakes | `energy-bill` | mistakes | known title: 5 Energy Bill Mistakes Utility Companies Hope You Keep Making (Ray Dutton's Garage, 397K) |
+| 73 | power company doesn't want you to | `energy-bill` | they don't want you to know | known title: Your Power Company Doesn't Want You To See This! (128K) |
+| 74 | how to save money on electric bill in winter | `energy-bill` | cheap hack | autocomplete of "save money electric bill" |
+| 75 | lower your electric bill | `energy-bill` | cheap hack | known title: Can This Device Actually Lower Your Electric Bill By 30%?? (2.6M); autocomplete of "lower your electric bill" |
+| 76 | attic insulation | `insulation` | plain topic | brief topic list; autocomplete of "attic insulation" |
+| 77 | rim joist insulation | `insulation` | plain topic | brief topic list; autocomplete of "rim joist insulation" |
+| 78 | spray foam | `insulation` | plain topic | brief topic list; autocomplete of "spray foam" |
+| 79 | spray foam alternative | `insulation` | plain topic | Silver Cymbal title: [borderline, operator call] "Spray Foam is Expensive. Use THIS Instead!" (sHL4lBAhklA, 1,519,132) |
+| 80 | window insulation | `insulation` | plain topic | brief topic list; autocomplete of "window insulation" |
+| 81 | insulation mistakes | `insulation` | mistakes | autocomplete of "insulation mistakes" |
+| 82 | draft stopper | `drafts` | plain topic | brief topic list; autocomplete of "draft stopper" |
+| 83 | drafty house | `drafts` | plain topic | brief topic list; autocomplete of "drafty house" |
+| 84 | weatherstripping | `drafts` | plain topic | brief topic list |
+| 85 | thermal curtains | `windows` | plain topic | brief topic list; autocomplete of "thermal curtains" |
+| 86 | window film | `windows` | plain topic | brief topic list; autocomplete of "window film" |
+| 87 | dehumidifier | `humidity` | plain topic | brief topic list; autocomplete of "dehumidifier" |
+| 88 | humidity in house | `humidity` | plain topic | brief topic list; autocomplete of "humidity in house" |
+| 89 | dehumidifier mistakes | `humidity` | mistakes | autocomplete of "dehumidifier mistakes" |
+| 90 | air purifier | `indoor-air` | plain topic | brief topic list; autocomplete of "air purifier" |
+| 91 | carbon monoxide furnace | `indoor-air` | plain topic | brief topic list; autocomplete of "carbon monoxide furnace" |
+| 92 | indoor air quality | `indoor-air` | plain topic | brief topic list; autocomplete of "indoor air quality"; autocomplete of "indoor air quality hack"; autocomplete of "indoor air quality save money"; autocomplete of "indoor air quality old house"; autocomplete of "indoor air quality winter"; autocomplete of "indoor air quality summer"; autocomplete of "indoor air quality myth"; autocomplete of "indoor air quality cost"; autocomplete of "indoor air quality tips"; autocomplete of "indoor air quality secret" |
+| 93 | power outage heat | `outage-heat` | plain topic | brief topic list; autocomplete of "power outage heat"; autocomplete of "power outage heat mistakes"; autocomplete of "power outage heat winter"; autocomplete of "power outage heat summer"; autocomplete of "power outage heat myth"; autocomplete of "power outage heat cost"; autocomplete of "power outage heat tips" |
+| 94 | furnace not working after power outage | `outage-heat` | problem symptom | autocomplete of "furnace not working" |
+| 95 | heat without power | `outage-heat` | cheap hack | brief topic list; autocomplete of "heat without power" |
+| 96 | stay warm without power | `outage-heat` | cheap hack | brief topic list; autocomplete of "stay warm without power" |
+| 97 | keep your family warm during a power outage | `outage-heat` | how-to | known title: Keep Your Family Warm During A Power Outage By Installing This $5 Part (The DIY HVAC Guy, 4.2M); autocomplete of "keep your family warm during a power outage" |
+| 98 | best ac brands | `brands` | the only X | brief topic list; autocomplete of "best hvac brands"; autocomplete of "best ac brands" |
+| 99 | best furnace brands | `brands` | the only X | brief topic list; autocomplete of "best furnace brands" |
+| 100 | best heat pump brands | `brands` | the only X | brief topic list; autocomplete of "best heat pump brands"; autocomplete of "best hvac brands winter" |
+| 101 | best hvac brands | `brands` | the only X | brief topic list; autocomplete of "best hvac brands"; autocomplete of "best furnace brands"; autocomplete of "best hvac brands mistakes"; autocomplete of "best hvac brands vs"; autocomplete of "the only best hvac brands"; autocomplete of "best hvac brands hack"; autocomplete of "cheap best hvac brands"; autocomplete of "best hvac brands save money"; autocomplete of "best hvac brands winter"; autocomplete of "best hvac brands summer"; autocomplete of "best hvac brands myth"; autocomplete of "best hvac brands cost"; autocomplete of "best hvac brands tips"; autocomplete of "best hvac brands secret"; autocomplete of "how to best hvac brands"; autocomplete of "best hvac brands doesn't want you to know"; autocomplete of "before you best hvac brands"; autocomplete of "only hvac brands worth buying" |
+| 102 | hvac brands to avoid | `brands` | the only X | brief topic list; autocomplete of "hvac brands to avoid" |
+| 103 | only hvac brands worth buying | `brands` | the only X | known title: The Only 5 HVAC Brands Worth Buying (HVAC Exposed, 571-576K) |
+| 104 | ac recharge | `refrigerant` | plain topic | brief topic list |
+| 105 | freon | `refrigerant` | plain topic | brief topic list; autocomplete of "freon" |
+| 106 | ac losing freon | `refrigerant` | problem symptom | autocomplete of "ac mistakes" |
+| 107 | ac freezing up | `ac-freezing` | problem symptom | brief topic list; autocomplete of "ac freezing up"; autocomplete of "ac freezing up vs"; autocomplete of "cheap ac freezing up"; autocomplete of "ac freezing up winter"; autocomplete of "ac freezing up summer"; autocomplete of "ac freezing up myth"; autocomplete of "ac freezing up cost"; autocomplete of "ac freezing up tips"; autocomplete of "ac freezing up secret"; autocomplete of "ac f" |
+| 108 | frozen evaporator coil | `ac-freezing` | problem symptom | brief topic list; autocomplete of "frozen evaporator coil" |
+| 109 | why is my ac freezing up | `ac-freezing` | problem symptom | autocomplete of "why is my ac"; autocomplete of "ac freezing up mistakes"; autocomplete of "how to ac freezing up"; autocomplete of "ac freezing up doesn't want you to know" |
+| 110 | ac short cycling | `short-cycling` | problem symptom | brief topic list; autocomplete of "ac short cycling" |
+| 111 | furnace short cycling | `short-cycling` | problem symptom | brief topic list; autocomplete of "furnace short cycling"; autocomplete of "furnace s" |
+| 112 | short cycling | `short-cycling` | problem symptom | brief topic list; autocomplete of "short cycling"; autocomplete of "short cycling mistakes"; autocomplete of "short cycling vs"; autocomplete of "short cycling hack"; autocomplete of "short cycling save money"; autocomplete of "short cycling winter"; autocomplete of "short cycling summer"; autocomplete of "short cycling myth"; autocomplete of "short cycling cost"; autocomplete of "short cycling tips"; autocomplete of "short cycling secret" |
+| 113 | burning smell furnace | `smells` | problem symptom | brief topic list |
+| 114 | furnace smell | `smells` | problem symptom | brief topic list; autocomplete of "furnace myth"; autocomplete of "furnace smell"; autocomplete of "furnace smell mistakes"; autocomplete of "furnace smell vs"; autocomplete of "furnace smell hack"; autocomplete of "furnace smell winter"; autocomplete of "furnace smell summer"; autocomplete of "furnace smell myth"; autocomplete of "furnace smell cost"; autocomplete of "furnace smell tips"; autocomplete of "furnace smell secret" |
+| 115 | ac making noise | `noises` | problem symptom | brief topic list; autocomplete of "ac making noise" |
+| 116 | banging radiator | `noises` | problem symptom | brief topic list; autocomplete of "banging radiator" |
+| 117 | furnace noise | `noises` | problem symptom | brief topic list; autocomplete of "furnace noise"; autocomplete of "furnace noise mistakes"; autocomplete of "furnace noise vs"; autocomplete of "furnace noise hack"; autocomplete of "cheap furnace noise"; autocomplete of "furnace noise save money"; autocomplete of "furnace noise old house"; autocomplete of "furnace noise winter"; autocomplete of "furnace noise summer"; autocomplete of "furnace noise myth"; autocomplete of "furnace noise cost"; autocomplete of "furnace noise tips"; autocomplete of "furnace noise secret"; autocomplete of "furnace n" |
+| 118 | beating the hvac industry | `scams-upsells` | they don't want you to know | known title: How Smart Homeowners Are Beating the HVAC Industry (HVAC Exposed, 381K) |
+| 119 | duct cleaning scams | `scams-upsells` | they don't want you to know | autocomplete of "duct cleaning" |
+| 120 | hvac companies don't want you to know | `scams-upsells` | they don't want you to know | known title: HVAC Companies HATE That You Can Do This Yourself (739K) |
+| 121 | hvac companies hate | `scams-upsells` | they don't want you to know | known title: HVAC Companies HATE That You Can Do This Yourself (739K) |
+| 122 | hvac scam | `scams-upsells` | they don't want you to know | brief topic list; autocomplete of "hvac scam mistakes"; autocomplete of "hvac scam vs"; autocomplete of "hvac scam hack"; autocomplete of "cheap hvac scam"; autocomplete of "hvac scam save money"; autocomplete of "hvac scam old house"; autocomplete of "hvac scam winter"; autocomplete of "hvac scam summer"; autocomplete of "hvac scam myth"; autocomplete of "hvac scam tips"; autocomplete of "hvac scam secret"; autocomplete of "how to hvac scam" |
+| 123 | hvac scam caught on camera | `scams-upsells` | they don't want you to know | autocomplete of "furnace scam"; autocomplete of "hvac scam" |
+| 124 | hvac upsell | `scams-upsells` | they don't want you to know | brief topic list |
+| 125 | hvac replacement cost | `replacement-cost` | cost | brief topic list; autocomplete of "furnace noise cost"; autocomplete of "hvac replacement cost"; autocomplete of "hvac replacement cost mistakes"; autocomplete of "hvac replacement cost vs"; autocomplete of "hvac replacement cost save money"; autocomplete of "hvac replacement cost winter"; autocomplete of "hvac replacement cost summer"; autocomplete of "hvac replacement cost myth"; autocomplete of "hvac replacement cost cost"; autocomplete of "hvac replacement cost tips"; autocomplete of "hvac replacement cost secret"; autocomplete of "hvac cost" |
+| 126 | mini split cost installed | `replacement-cost` | cost | autocomplete of "mini split cost" |
+| 127 | new ac cost | `replacement-cost` | cost | brief topic list |
+| 128 | new furnace cost | `replacement-cost` | cost | brief topic list; autocomplete of "furnace cost"; autocomplete of "new furnace cost" |
+| 129 | pellet stove | `wood-stove` | plain topic | brief topic list; autocomplete of "pellet stove" |
+| 130 | wood stove | `wood-stove` | plain topic | brief topic list; autocomplete of "wood stove" |
+| 131 | wood stove mistakes | `wood-stove` | mistakes | autocomplete of "wood stove mistakes" |
+| 132 | space heater | `space-heater` | plain topic | brief topic list; autocomplete of "space heater" |
+| 133 | space heater vs central heat | `space-heater` | X vs Y | brief topic list; autocomplete of "space heater vs central heat"; autocomplete of "space heater vs" |
+| 134 | space heater save money | `space-heater` | cheap hack | autocomplete of "space heater save money"; autocomplete of "save money space heater"; autocomplete of "heater save money"; autocomplete of "heating save money" |
+| 135 | ceiling fan direction | `ceiling-fan` | plain topic | brief topic list; autocomplete of "ceiling fan direction" |
+| 136 | ceiling fan winter | `ceiling-fan` | plain topic | brief topic list; autocomplete of "ceiling fan winter" |
+| 137 | attic fan | `attic-fan` | plain topic | brief topic list; autocomplete of "attic fan" |
+| 138 | cool your attic | `attic-fan` | plain topic | known title: This $0 Fix Cools Your Attic by 55F. Why Don't Roofers Tell You? (Candlelight Archives, 586K) |
+| 139 | whole house fan | `attic-fan` | plain topic | brief topic list; autocomplete of "whole house fan" |
+| 140 | home designs that stayed cool | `keep-cool` | plain topic | known title: 20 Forgotten Home Designs That Stayed Cool Before Air Conditioning (405K) |
+| 141 | cool house without ac | `keep-cool` | cheap hack | helper-added seed; autocomplete of "cool house without ac" |
+| 142 | keep house cool | `keep-cool` | how-to | helper-added seed; autocomplete of "keep house cool"; autocomplete of "keep house cool secret"; autocomplete of "keep house cool winter"; autocomplete of "keep house cool myth"; autocomplete of "keep house cool scam"; autocomplete of "keep house cool cost"; autocomplete of "keep house cool tips"; autocomplete of "keep house cool companies hate" |
+| 143 | heat house cheap | `keep-warm` | cheap hack | helper-added seed; autocomplete of "heat house cheap" |
+| 144 | keep house warm | `keep-warm` | how-to | helper-added seed; autocomplete of "keep house warm"; autocomplete of "keep house warm vs"; autocomplete of "keep house warm hack"; autocomplete of "keep house warm save money"; autocomplete of "keep house warm fall"; autocomplete of "keep house warm myth"; autocomplete of "keep house warm scam"; autocomplete of "keep house warm cost"; autocomplete of "keep house warm companies hate" |
+| 145 | swamp cooler | `evap-cooler` | plain topic | helper-added seed; autocomplete of "swamp cooler"; autocomplete of "swamp cooler secret" |
+| 146 | geothermal | `geothermal` | plain topic | helper-added seed; autocomplete of "geothermal" |
+| 147 | home warranty hvac | `home-warranty` | plain topic | helper-added seed; autocomplete of "home warranty hvac"; autocomplete of "home warranty hvac mistakes"; autocomplete of "home warranty hvac vs"; autocomplete of "the only home warranty hvac"; autocomplete of "home warranty hvac hack"; autocomplete of "cheap home warranty hvac"; autocomplete of "home warranty hvac save money"; autocomplete of "home warranty hvac old house"; autocomplete of "home warranty hvac winter"; autocomplete of "home warranty hvac summer"; autocomplete of "home warranty hvac myth"; autocomplete of "home warranty hvac cost"; autocomplete of "home warranty hvac tips"; autocomplete of "home warranty hvac secret"; autocomplete of "how to home warranty hvac"; autocomplete of "home warranty hvac doesn't want you to know"; autocomplete of "before you home warranty hvac" |
+| 148 | hvac mistakes | `hvac-general` | mistakes | autocomplete of "furnace mistakes"; autocomplete of "hvac mistakes" |
+| 149 | hvac secrets | `hvac-general` | they don't want you to know | helper-added seed; autocomplete of "furnace secret"; autocomplete of "hvac secrets"; autocomplete of "hvac secret"; autocomplete of "hvac myth"; autocomplete of "hvac trick" |
+| 150 | hvac tips | `hvac-general` | how-to | helper-added seed; autocomplete of "furnace tips"; autocomplete of "hvac tips" |
 
 ## EXTENDED keywords (relevance search only), by topic
 
 One line each: keyword · framing · first source. Full source lists are in the CSV.
 
-### AC: central air (`ac-central`, 193)
+### AC: central air (`ac-central`, 218)
 
 - ac · plain topic · brief topic list
 - ac ac · plain topic · autocomplete of "ac a"
-- ac blows cold only when driving · plain topic · autocomplete of "ac blow colder"
 - ac blows cold sometimes · plain topic · autocomplete of "ac blow colder"
 - ac blows cold then hot · plain topic · autocomplete of "ac blow colder"
 - ac expansion valve · plain topic · autocomplete of "ac e"
+- ac fan · plain topic · autocomplete of "ac f"
+- ac fan not spinning · plain topic · autocomplete of "ac f"
 - ac hacker · plain topic · autocomplete of "ac hack"
 - ac pipe fitting in old house · plain topic · autocomplete of "ac old house"
 - ac unit · plain topic · brief topic list
@@ -109,6 +263,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac unit sound · plain topic · autocomplete of "ac unit"
 - ac winter · plain topic · autocomplete of "ac winter"
 - ac winter and summer · plain topic · autocomplete of "ac winter"
+- ac winter cover · plain topic · autocomplete of "ac winter"
 - ac winter macro · plain topic · autocomplete of "ac winter"
 - ac winter mode · plain topic · autocomplete of "ac winter"
 - ac winter portal macro · plain topic · autocomplete of "ac winter"
@@ -117,9 +272,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac winter use · plain topic · autocomplete of "ac winter"
 - ac zoning system · plain topic · autocomplete of "ac z"
 - adding ac to old house · plain topic · autocomplete of "ac old house"
-- adding air conditioning to old house · plain topic · autocomplete of "air conditioning old house"
 - air condition air condition · plain topic · autocomplete of "air conditioning seniors"
-- air conditioner · plain topic · brief topic list
 - air conditioner brave little toaster · plain topic · autocomplete of "air conditioner"
 - air conditioner company · plain topic · autocomplete of "air conditioning cost"
 - air conditioner cool mode · plain topic · autocomplete of "before you turn on your air conditioning"
@@ -136,12 +289,14 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air conditioning in winter · plain topic · autocomplete of "air conditioning winter"
 - air conditioning lessons · plain topic · autocomplete of "air conditioning seniors"
 - air conditioning system for winter season · plain topic · autocomplete of "air conditioning winter"
+- battery operated air conditioner · plain topic · autocomplete of "battery powered air conditioner"
+- battery powered ac unit · plain topic · autocomplete of "battery powered air conditioner"
+- battery powered air conditioner · plain topic · Silver Cymbal title: "EcoFlow Wave PORTABLE Battery Powered Air Conditioner 4000 BTU" (leEsPGaaru8, 698,976)
 - before air conditioning · plain topic · autocomplete of "before you hvac"
 - central air · plain topic · brief topic list
 - central air conditioner · plain topic · autocomplete of "central air"
 - central air conditioning system · plain topic · autocomplete of "central air"
 - cool home without air conditioning · plain topic · autocomplete of "cool house without ac"
-- ecoflow wave portable battery powered air conditioner 4000 btu · plain topic · Silver Cymbal title
 - home ac not keeping up · plain topic · autocomplete of "the only air conditioning"
 - how air conditioning works · plain topic · autocomplete of "how to air conditioning"
 - hvac central air conditioning · plain topic · autocomplete of "hvac replacement cost summer"
@@ -164,9 +319,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - this old house air conditioning · plain topic · autocomplete of "the only hvac replacement cost"
 - this old house central air conditioning · plain topic · autocomplete of "the only hvac replacement cost"
 - wash ac unit · plain topic · autocomplete of "clean ac unit"
+- water stains on ceiling from ac · plain topic · Silver Cymbal title: "How to UNCLOG your AC DRAIN Condensate line FAST - Water stains on Ceiling?..." (qAxJb0J1HH0, 3,772,025)
 - winter air conditioning system · plain topic · autocomplete of "air conditioning winter"
 - winter air conditioning system working · plain topic · autocomplete of "air conditioning winter"
-- #1 problem & quick fix with central air conditioning not cooling · problem symptom · Silver Cymbal title
 - ac blowing cold air · problem symptom · autocomplete of "ac blow colder"
 - ac blowing cold air instead of heat · problem symptom · autocomplete of "ac blow colder"
 - ac blowing cold air outside · problem symptom · autocomplete of "before you turn on your air conditioning"
@@ -178,18 +333,25 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac leak sealer · problem symptom · autocomplete of "ac l"
 - ac leaking water · problem symptom · autocomplete of "ac l"
 - ac making sound and not cooling · problem symptom · autocomplete of "ac making noise"
+- ac no heat troubleshooting · problem symptom · autocomplete of "no heat troubleshooting"
 - ac not blowing air · problem symptom · autocomplete of "ac n"
 - ac not blowing cold air · problem symptom · autocomplete of "ac n"
-- ac not cooling · problem symptom · brief topic list
 - ac not cooling at idle · problem symptom · autocomplete of "ac not cooling"
 - ac not cooling enough · problem symptom · autocomplete of "ac not cooling"
 - ac not cooling house · problem symptom · autocomplete of "ac not cooling"
 - ac not cooling properly · problem symptom · autocomplete of "ac not cooling"
+- ac not cooling quick fix · problem symptom · Silver Cymbal title: "#1 Problem & Quick Fix with Central Air Conditioning Not Cooling" (_b6p0fkWhCY, 4,307,728)
+- ac not cooling well · problem symptom · autocomplete of "ac not cooling quick fix"
+- ac not getting cool · problem symptom · autocomplete of "ac not cooling quick fix"
 - ac not turning on · problem symptom · autocomplete of "ac n"
 - ac not working · problem symptom · autocomplete of "ac n"
+- ac problems · problem symptom · autocomplete of "ac problems"
+- ac problems and solutions · problem symptom · autocomplete of "ac problems"
+- ac troubleshooting · problem symptom · autocomplete of "ac t"
 - ac unit not turning on · problem symptom · autocomplete of "ac unit"
 - ac won't turn off · problem symptom · autocomplete of "ac w"
 - ac won't turn on · problem symptom · autocomplete of "ac w"
+- ac your problem · problem symptom · autocomplete of "ac y"
 - air conditioner not blowing air · problem symptom · autocomplete of "air conditioner"
 - air conditioner not blowing cold air · problem symptom · autocomplete of "air conditioner"
 - air conditioner not turning on · problem symptom · autocomplete of "air conditioner"
@@ -203,21 +365,33 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air conditioning problems and solutions · problem symptom · autocomplete of "air conditioning problems"
 - air conditioning troubleshooting · problem symptom · autocomplete of "air conditioning problems"
 - c4 air conditioning problems · problem symptom · autocomplete of "air conditioning problems"
+- central air conditioner not cooling · problem symptom · autocomplete of "central air conditioning not cooling"
+- central air conditioner not cooling enough · problem symptom · autocomplete of "central air conditioning not cooling"
+- central air conditioner not working · problem symptom · autocomplete of "central air conditioning not cooling"
 - central air heat not working · problem symptom · autocomplete of "central air"
 - central air not blowing cold air · problem symptom · autocomplete of "central air"
 - central air not blowing heat · problem symptom · autocomplete of "central air"
 - central air not turning on · problem symptom · autocomplete of "central air"
+- central air unit not cooling · problem symptom · autocomplete of "central air conditioning not cooling"
+- central air unit not working · problem symptom · autocomplete of "central air conditioning not cooling"
+- centralized aircon not cooling · problem symptom · autocomplete of "central air conditioning not cooling"
 - how to fix air conditioner leaking water inside · problem symptom · autocomplete of "how to fix air conditioning"
 - how to fix air conditioner not cooling · problem symptom · autocomplete of "how to fix air conditioning"
 - how to fix air conditioner not heating · problem symptom · autocomplete of "how to fix air conditioning"
+- how to fix central air conditioner not cooling · problem symptom · autocomplete of "central air conditioning not cooling"
 - how to fix hvac not cooling · problem symptom · autocomplete of "how to fix hvac"
-- how to unclog your ac drain condensate line fast - water stains on ceiling? or in the pan · problem symptom · Silver Cymbal title
 - hvac cooling not working · problem symptom · autocomplete of "hvac problems"
 - leak stop air conditioning · problem symptom · autocomplete of "stop air conditioning"
 - stop ac leak · problem symptom · autocomplete of "stop hvac"
+- unclog ac drain line in condo · problem symptom · autocomplete of "unclog ac drain line"
+- unclog ac drain line vinegar · problem symptom · autocomplete of "unclog ac drain line"
+- unclog ac drain line with shop vac · problem symptom · autocomplete of "unclog ac drain line"
+- unclog ac drain line with snake · problem symptom · autocomplete of "unclog ac drain line"
+- unclog ac drain line with water hose · problem symptom · autocomplete of "unclog ac drain line"
+- unclog split ac drain line · problem symptom · autocomplete of "unclog ac drain line"
 - volvo air conditioning problems and fixes · problem symptom · autocomplete of "air conditioning problems"
 - vw air conditioning problems · problem symptom · autocomplete of "air conditioning problems"
-- why is my ac blowing hot air · problem symptom · autocomplete of "why is my ac"
+- why is my ac fan not spinning · problem symptom · autocomplete of "why is my ac"
 - why is my ac leaking water · problem symptom · autocomplete of "why is my ac"
 - why is my ac not blowing cold air · problem symptom · autocomplete of "why is my ac"
 - why is my ac not turning on · problem symptom · autocomplete of "why is my ac"
@@ -228,11 +402,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why is my air conditioner not cooling · problem symptom · autocomplete of "why is my air conditioning"
 - why is my air conditioner not turning on · problem symptom · autocomplete of "why is my air conditioning"
 - why is my air conditioning unit leaking water · problem symptom · autocomplete of "why is my air conditioning"
-- ac mistakes · mistakes · known title: 5 AC Mistakes HVAC Companies Hope You Keep Making (Ray Dutton's Garage, 589K)
+- why my ac not blowing cold air · problem symptom · autocomplete of "ac not cooling quick fix"
 - ac vs acc · X vs Y · autocomplete of "ac vs"
 - ac vs inter · X vs Y · autocomplete of "ac vs"
 - air cooling vs aio · X vs Y · autocomplete of "air conditioning vs"
-- secret ac trick · they don't want you to know · known title: This SECRET AC Trick is Only Known by 1% of HVAC Technicians (193K)
 - $5 fix ac · cheap hack · known title: The $5 Fix That Makes Your AC Blow 9 Degrees Colder... (Hank Cole, 156K)
 - ac blow colder · cheap hack · known title: The $5 Fix That Makes Your AC Blow 9 Degrees Colder... (Hank Cole, 156K)
 - ac hack hotel · cheap hack · autocomplete of "ac hack"
@@ -245,15 +418,17 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air conditioner life hacks · cheap hack · autocomplete of "air conditioning hack"
 - air conditioner tricks · cheap hack · autocomplete of "ac trick"
 - air conditioning hacks · cheap hack · autocomplete of "ac hack"
+- cheap 12v air conditioner · cheap hack · autocomplete of "cheapest air conditioner"
 - cheap ac units · cheap hack · autocomplete of "cheap hvac replacement cost"
 - cheap air conditioner · cheap hack · autocomplete of "cheap air conditioning"
 - cheap air conditioner for small room · cheap hack · autocomplete of "cheap air conditioning"
 - cheap air conditioning · cheap hack · autocomplete of "cheap air conditioning"
+- cheapest air conditioner · cheap hack · Silver Cymbal title: [under 5 min] "TESTING the CHEAPEST AIR CONDITIONER on Amazon" (JDq4i_lT8YI, 174,583)
+- cheapest air conditioner in ahmedabad · cheap hack · autocomplete of "cheapest air conditioner"
+- cheapest air conditioner in kolkata · cheap hack · autocomplete of "cheapest air conditioner"
 - hotel air conditioner hack · cheap hack · autocomplete of "air conditioning hack"
 - how to save money on air conditioning · cheap hack · autocomplete of "save money air conditioning"
 - make your ac run like new · cheap hack · known title: Doing This Will Make Your AC Run Like NEW Again! (Exposi, 321K)
-- save money on ac · cheap hack · autocomplete of "save money ac"
-- testing the cheapest air conditioner on amazon · cheap hack · Silver Cymbal title
 - ac drain line · how-to · brief topic list
 - ac drain line cleaner · how-to · autocomplete of "ac drain line"
 - ac drain line cleaning · how-to · autocomplete of "ac drain line"
@@ -271,8 +446,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac wall unit install · how-to · autocomplete of "ac w"
 - ac wiring in old house · how-to · autocomplete of "ac old house"
 - air conditioner installation · how-to · autocomplete of "air conditioner"
+- build your own air conditioner · how-to · autocomplete of "install your own air conditioning"
 - central air installation · how-to · autocomplete of "central air"
-- cleaning ac unit with pressure washer · how-to · autocomplete of "clean ac unit"
 - how to ac hot mode · how-to · autocomplete of "how to hvac"
 - how to air conditioner · how-to · autocomplete of "how to air conditioning"
 - how to air conditioner clean · how-to · autocomplete of "how to air conditioning"
@@ -286,16 +461,23 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix air conditioning · how-to · autocomplete of "how to fix air conditioning"
 - how to fix air conditioning in house · how-to · autocomplete of "how to fix air conditioning"
 - how to install central air conditioning yourself · how-to · autocomplete of "how to air conditioning"
+- how to install your own central air conditioning · how-to · autocomplete of "install your own air conditioning"
 - how to repair air conditioning ducting · how-to · autocomplete of "how to fix air conditioning"
+- install your own ac system · how-to · autocomplete of "install your own air conditioning"
+- install your own air conditioner · how-to · autocomplete of "install your own air conditioning"
+- install your own air conditioning · how-to · Silver Cymbal title: "Install your own AIR CONDITIONING in 4 HOURS! DIY Mini Split MR COOL" (Wejop_Rjpv0, 3,087,177)
 - old house ac wiring · how-to · autocomplete of "old house ac"
-- why sony's pocket sized air conditioner failed? · how-to · Silver Cymbal title
 
-### AC: window and portable (`ac-window`, 120)
+### AC: window and portable (`ac-window`, 154)
 
+- 2 hose portable air conditioner · plain topic · autocomplete of "dual hose portable air conditioner"
 - ac window unit · plain topic · autocomplete of "ac w"
-- ecoflow wave 2 solar battery powered portable air conditioner heater review · plain topic · Silver Cymbal title
-- first look at the new ecoflow glacier classic & wave 3 portable ac · plain topic · Silver Cymbal title
+- dual hose portable air conditioner · plain topic · Silver Cymbal title: [under 5 min] "BEST Portable Air Conditioner I have ever tested - DUAL HOSE" (NI-KNyp9tdQ, 519,566)
+- gasbye dual hose portable air conditioner · plain topic · autocomplete of "dual hose portable air conditioner"
 - heat pump window unit · plain topic · autocomplete of "heat pump w"
+- hisense dual hose portable air conditioner · plain topic · autocomplete of "dual hose portable air conditioner"
+- mini portable ac fan · plain topic · autocomplete of "tiny portable ac"
+- mini portable ac review · plain topic · autocomplete of "tiny portable ac"
 - old window ac unit · plain topic · autocomplete of "old house window ac"
 - old window air conditioner · plain topic · autocomplete of "old house window ac"
 - portable ac · plain topic · brief topic list
@@ -309,7 +491,15 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - portable air conditioner for camping · plain topic · autocomplete of "portable air conditioner"
 - portable air conditioner for garage · plain topic · autocomplete of "portable air conditioner"
 - portable air conditioner review · plain topic · autocomplete of "portable air conditioner"
-- say goodbye to big air conditioners - this tiny portable ac blows them away! · plain topic · Silver Cymbal title
+- single hose portable ac · plain topic · Silver Cymbal title: "This Tiny Portable AC can Keep Anyone COOL - 14,000 BTU Dreo - Single Hose Trigger Warning!" (NsPBamTmOPM, 527,951)
+- single hose portable air conditioner · plain topic · autocomplete of "single hose portable ac"
+- small portable ac · plain topic · autocomplete of "tiny portable ac"
+- small portable ac for room · plain topic · autocomplete of "tiny portable ac"
+- small portable ac unit · plain topic · autocomplete of "tiny portable ac"
+- smallest portable ac · plain topic · autocomplete of "tiny portable ac"
+- tiny portable ac · plain topic · Silver Cymbal title: "Say Goodbye to BIG Air Conditioners - This Tiny Portable AC Blows them Away!" (uObGbs4sGQY, 503,681)
+- two hose portable air conditioner · plain topic · autocomplete of "dual hose portable air conditioner"
+- whynter dual hose portable air conditioner · plain topic · autocomplete of "dual hose portable air conditioner"
 - window ac · plain topic · brief topic list
 - window ac blowing water · plain topic · autocomplete of "window ac winter"
 - window ac falls out · plain topic · autocomplete of "window ac fall"
@@ -323,16 +513,22 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window ac unit bracket · plain topic · autocomplete of "window ac seniors"
 - window ac unit insulation · plain topic · autocomplete of "window ac old house"
 - window ac winter · plain topic · autocomplete of "window ac winter"
-- window air conditioner · plain topic · brief topic list
+- window ac winter cover · plain topic · autocomplete of "window ac winter"
+- window air conditioner cover · plain topic · autocomplete of "window air conditioner"
 - window air conditioner sound · plain topic · autocomplete of "window air conditioner"
 - window air conditioner with heater · plain topic · autocomplete of "window air conditioner"
 - ac window unit not cooling · problem symptom · autocomplete of "ac w"
+- frigidaire window air conditioner not cooling · problem symptom · autocomplete of "window air conditioner not cooling"
+- ge window air conditioner not cooling · problem symptom · autocomplete of "window air conditioner not cooling"
+- hisense window air conditioner not cooling · problem symptom · autocomplete of "window air conditioner not cooling"
 - how to fix window ac not blowing cold air · problem symptom · autocomplete of "how to fix window ac"
 - how to fix window ac not turning on · problem symptom · autocomplete of "how to fix window ac"
 - how to stop window ac from dripping water · problem symptom · autocomplete of "stop window ac"
 - mold in ac window unit · problem symptom · autocomplete of "mold in ac"
 - portable ac not blowing cold air · problem symptom · autocomplete of "portable ac"
 - portable air conditioner not blowing cold air · problem symptom · autocomplete of "portable air conditioner"
+- toshiba window air conditioner not cooling · problem symptom · autocomplete of "window air conditioner not cooling"
+- vissani window air conditioner not cooling · problem symptom · autocomplete of "window air conditioner not cooling"
 - why is my window ac leaking water · problem symptom · autocomplete of "why is my window ac"
 - why is my window ac not blowing cold air · problem symptom · autocomplete of "why is my window ac"
 - why is my window ac not cooling · problem symptom · autocomplete of "why is my window ac"
@@ -347,7 +543,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window ac high cooling · problem symptom · autocomplete of "window ac trick"
 - window ac leaking water inside house · problem symptom · autocomplete of "window ac"
 - window ac not blowing cold air · problem symptom · autocomplete of "window ac"
-- window ac not cooling · problem symptom · autocomplete of "window ac"
 - window ac not getting on · problem symptom · autocomplete of "window ac problems"
 - window ac not on · problem symptom · autocomplete of "window ac problems"
 - window ac not working · problem symptom · autocomplete of "window ac problems"
@@ -356,22 +551,33 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window ac troubleshooting · problem symptom · autocomplete of "window ac problems"
 - window air conditioner leaking water inside house · problem symptom · autocomplete of "window air conditioner"
 - window air conditioner not blowing cold air · problem symptom · autocomplete of "window air conditioner"
-- window air conditioner not cooling? easy common fix - how to clean a windows ac · problem symptom · Silver Cymbal title
+- window air conditioner not cooling · problem symptom · Silver Cymbal title: "Window Air Conditioner Not Cooling? EASY Common Fix - How to Clean a Windows AC" (o8KQu_MlpoY, 2,363,606)
 - window air conditioner not turning on · problem symptom · autocomplete of "window air conditioner"
+- window air conditioner stopped working · problem symptom · autocomplete of "window air conditioner not cooling"
+- dual hose portable air conditioner vs single · X vs Y · autocomplete of "dual hose portable air conditioner"
+- dual hose vs single hose portable ac · X vs Y · autocomplete of "single hose portable ac"
 - evaporative cooler vs portable air conditioner · X vs Y · autocomplete of "swamp cooler vs"
+- single hose vs dual hose portable air conditioner · X vs Y · autocomplete of "single hose portable ac"
 - swamp cooler vs portable ac · X vs Y · autocomplete of "swamp cooler vs"
 - window ac vs ac · X vs Y · autocomplete of "window ac vs"
 - window ac vs cooler · X vs Y · autocomplete of "window ac vs"
 - window ac vs inverter ac · X vs Y · autocomplete of "window ac vs"
-- window ac vs portable ac · X vs Y · autocomplete of "window ac vs"
 - window ac vs split ac · X vs Y · autocomplete of "window ac vs"
 - window ac vs split ac electricity consumption · X vs Y · autocomplete of "window ac vs"
 - window ac vs split ac which is best · X vs Y · autocomplete of "window ac vs"
 - window ac vs wall ac · X vs Y · autocomplete of "window ac vs"
 - window ac vs wall ac which is better · X vs Y · autocomplete of "window ac vs"
 - best cheap window ac · the only X · autocomplete of "cheap window ac"
-- best portable air conditioner i have ever tested - dual hose · the only X · Silver Cymbal title
-- the best portable air conditioner just got better for 2026 · the only X · Silver Cymbal title
+- best dual hose portable air conditioner · the only X · autocomplete of "dual hose portable air conditioner"
+- best portable air conditioner and heater combo · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner for bedroom · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner for camping · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner for garage · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner for garage with no windows · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner for small room · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner on amazon · the only X · autocomplete of "best portable air conditioner"
+- best portable air conditioner without hose · the only X · autocomplete of "best portable air conditioner"
+- best single hose portable air conditioner · the only X · autocomplete of "single hose portable ac"
 - ac window unit hack · cheap hack · autocomplete of "window ac hack"
 - cheap window ac · cheap hack · autocomplete of "cheap window ac"
 - cheap window air conditioner · cheap hack · autocomplete of "cheap window ac"
@@ -380,9 +586,16 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window ac curtain hacks · cheap hack · autocomplete of "window ac hack"
 - window ac hack · cheap hack · autocomplete of "window ac trick"
 - window ac hacks · cheap hack · autocomplete of "window ac hack"
+- dual hose portable air conditioner installation · how-to · autocomplete of "dual hose portable air conditioner"
+- how to clean a window ac · how-to · Silver Cymbal title: "Window Air Conditioner Not Cooling? EASY Common Fix - How to Clean a Windows AC" (o8KQu_MlpoY, 2,363,606)
+- how to clean a window ac unit · how-to · autocomplete of "how to clean a window ac"
+- how to clean a window ac unit without removing it · how-to · autocomplete of "how to clean a window ac"
+- how to clean a window ac without removing it · how-to · autocomplete of "how to clean a window ac"
 - how to clean window ac · how-to · autocomplete of "how to clean window ac"
 - how to clean window ac at home · how-to · autocomplete of "how to clean window ac"
+- how to clean window ac at home without removing · how-to · autocomplete of "how to clean a window ac"
 - how to clean window ac drain line · how-to · autocomplete of "how to clean window ac"
+- how to clean window ac front panel · how-to · autocomplete of "how to clean a window ac"
 - how to clean window ac unit · how-to · autocomplete of "how to clean window ac"
 - how to clean window ac unit drain line · how-to · autocomplete of "how to clean window ac"
 - how to clean window ac unit inside house · how-to · autocomplete of "how to clean window ac"
@@ -403,7 +616,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - portable ac drain hose · how-to · autocomplete of "portable ac"
 - portable ac installation · how-to · autocomplete of "portable ac"
 - portable air conditioner installation · how-to · autocomplete of "portable air conditioner"
-- this tiny portable ac can keep anyone cool - 14,000 btu dreo - single hose trigger warning! · how-to · Silver Cymbal title
 - window ac cleaning · how-to · autocomplete of "window ac"
 - window ac cooling tips · how-to · autocomplete of "window ac tips"
 - window ac home service · how-to · autocomplete of "window ac scam"
@@ -413,7 +625,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window air conditioner cleaning · how-to · autocomplete of "window air conditioner"
 - window air conditioner installation · how-to · autocomplete of "window air conditioner"
 
-### Mini-splits (`mini-split`, 141)
+### Mini-splits (`mini-split`, 158)
 
 - 24 000 btu mini split · plain topic · autocomplete of "before you mini split"
 - ask this old house mini split · plain topic · autocomplete of "old house mini split"
@@ -428,7 +640,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump mini split · plain topic · autocomplete of "heat pump m"
 - heat pump mini split system · plain topic · autocomplete of "heat pump m"
 - lowes mini split · plain topic · autocomplete of "lower mini split bill"
-- mini split · plain topic · brief topic list
 - mini split 101 · plain topic · autocomplete of "mini split secret"
 - mini split air conditioner · plain topic · autocomplete of "mini split"
 - mini split air flow · plain topic · autocomplete of "mini split spring"
@@ -441,20 +652,24 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - mini split ground stand · plain topic · autocomplete of "mini split mistakes"
 - mini split heat pump · plain topic · autocomplete of "mini split"
 - mini split heating and cooling reviews · plain topic · autocomplete of "before you replace your mini split"
+- mini split hidden features · plain topic · Silver Cymbal title: "3 Unknown Features on Mr Cool Mini Split Air Conditioners" (cC-J0ZCUH28, 32,326)
 - mini split hook up · plain topic · autocomplete of "mini split spring"
 - mini split how it works · plain topic · autocomplete of "the only mini split"
 - mini split in shop · plain topic · autocomplete of "mini split companies hate"
+- mini split inside wall · plain topic · autocomplete of "mini split hidden features"
 - mini split issues · plain topic · autocomplete of "mini split problems"
 - mini split location · plain topic · autocomplete of "mini split secret"
 - mini split old house · plain topic · autocomplete of "mini split old house"
 - mini split on second floor · plain topic · autocomplete of "stop mini split"
 - mini split overview · plain topic · autocomplete of "mini split secret"
 - mini split pros and cons · plain topic · autocomplete of "before you turn on your mini split"
+- mini split quick connect · plain topic · autocomplete of "mini split hidden features"
 - mini split review · plain topic · autocomplete of "mini split scam"
 - mini split review 2025 · plain topic · autocomplete of "mini split scam"
 - mini split rough in · plain topic · autocomplete of "mini split mistakes"
 - mini split second floor · plain topic · autocomplete of "mini split fall"
 - mini split shop · plain topic · autocomplete of "mini split scam"
+- mini split snow cover · plain topic · autocomplete of "mini split winter"
 - mini split winter · plain topic · autocomplete of "mini split winter"
 - mini split winter heat · plain topic · autocomplete of "mini split winter"
 - mini-splits · plain topic · autocomplete of "mini split mistakes"
@@ -489,7 +704,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why is my mini split not blowing cold air · problem symptom · autocomplete of "why is my mini split"
 - why is my mini split not heating · problem symptom · autocomplete of "why is my mini split"
 - why is my mini split not turning on · problem symptom · autocomplete of "why is my mini split"
-- mini split mistakes · mistakes · autocomplete of "mini split mistakes"
 - central air vs mini split · X vs Y · autocomplete of "central air"
 - ducted mini split vs central air · X vs Y · autocomplete of "mini split vs central air"
 - ductless mini split vs central air · X vs Y · autocomplete of "ductless mini split"
@@ -499,7 +713,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - mini split vs air conditioner · X vs Y · autocomplete of "mini split vs"
 - mini split vs baseboard heat · X vs Y · autocomplete of "mini split vs"
 - mini split vs central ac · X vs Y · autocomplete of "mini split vs central air"
-- mini split vs central air · X vs Y · brief topic list
 - mini split vs gas furnace · X vs Y · autocomplete of "mini split vs"
 - mini split vs heat pump · X vs Y · autocomplete of "mini split vs"
 - mini split vs portable ac · X vs Y · autocomplete of "mini split vs"
@@ -516,6 +729,16 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cheapest mini split · cheap hack · autocomplete of "cheap mini split"
 - cheapest mini split air conditioner · cheap hack · autocomplete of "cheap mini split"
 - cheapest mini split on amazon · cheap hack · autocomplete of "cheap mini split"
+- diy mini split · cheap hack · Silver Cymbal title: "Install your own AIR CONDITIONING in 4 HOURS! DIY Mini Split MR COOL" (Wejop_Rjpv0, 3,087,177)
+- diy mini split air conditioner installation multi zone · cheap hack · autocomplete of "diy mini split"
+- diy mini split cleaning · cheap hack · autocomplete of "diy mini split"
+- diy mini split cover · cheap hack · autocomplete of "diy mini split"
+- diy mini split heat pump · cheap hack · autocomplete of "diy mini split"
+- diy mini split heat pump install · cheap hack · autocomplete of "diy mini split"
+- diy mini split install · cheap hack · autocomplete of "diy mini split"
+- diy mini split install all the things nobody shows you · cheap hack · autocomplete of "diy mini split"
+- diy mini split install garage · cheap hack · autocomplete of "diy mini split"
+- diy mini split reviews · cheap hack · autocomplete of "diy mini split"
 - mini split diy · cheap hack · autocomplete of "mini split hack"
 - mini split diy install · cheap hack · autocomplete of "mini split hack"
 - mini split install diy · cheap hack · autocomplete of "mini split seniors"
@@ -536,17 +759,23 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to clean mini split outdoor unit · how-to · autocomplete of "how to mini split"
 - how to fix a mini split · how-to · autocomplete of "how to fix mini split"
 - how to fix mini split air conditioner · how-to · autocomplete of "how to fix mini split"
+- how to install ductless ac & heating system · how-to · autocomplete of "install ductless ac and heating"
 - how to install mini split · how-to · autocomplete of "how to mini split"
 - how to install mini split air conditioner · how-to · autocomplete of "how to mini split"
 - how to install mini split heating and cooling · how-to · autocomplete of "how to mini split"
-- how to install split ductless ac & heating system // start to finish - 1 person! · how-to · Silver Cymbal title
 - how to mini split · how-to · autocomplete of "how to mini split"
 - how to replace mini split · how-to · autocomplete of "how to fix mini split"
 - how to replace mini split motor · how-to · autocomplete of "how to fix mini split"
 - how to turn on mini split · how-to · autocomplete of "before you turn on your mini split"
+- install ductless ac and heating · how-to · Silver Cymbal title: "How To install Split Ductless AC & Heating System // Start to Finish - 1 PERSON!" (kEWzIfnIhUw, 221,217)
+- install ductless air conditioner · how-to · autocomplete of "install ductless ac and heating"
+- install ductless heat pump · how-to · autocomplete of "install ductless ac and heating"
+- install ductless heating cooling systems · how-to · autocomplete of "install ductless ac and heating"
+- install ductless mini split · how-to · autocomplete of "install ductless ac and heating"
 - lowes mini split installation · how-to · autocomplete of "lower mini split bill"
 - maintenance on mini split · how-to · autocomplete of "before you replace your mini split"
 - mini split cleaning · how-to · autocomplete of "mini split"
+- mini split full install · how-to · autocomplete of "mini split hidden features"
 - mini split install · how-to · autocomplete of "mini split"
 - mini split install this old house · how-to · autocomplete of "mini split old house"
 - mini split install tips · how-to · autocomplete of "mini split seniors"
@@ -557,7 +786,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - replacing a mini split · how-to · autocomplete of "before you replace your mini split"
 - this old house mini split cleaning · how-to · autocomplete of "old house mini split"
 
-### Heat pumps (`heat-pump`, 283)
+### Heat pumps (`heat-pump`, 280)
 
 - ask this old house heat pump · plain topic · autocomplete of "old house heat pump"
 - benefits of heat pump · plain topic · autocomplete of "before you heat pump"
@@ -571,7 +800,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - geothermal heat pump open loop · plain topic · autocomplete of "geothermal heat pump"
 - geothermal heat pump review · plain topic · autocomplete of "geothermal heat pump"
 - geothermal heat pump system · plain topic · autocomplete of "geothermal heat pump"
-- heat pump · plain topic · brief topic list
 - heat pump ac · plain topic · autocomplete of "heat pump a"
 - heat pump ac unit · plain topic · autocomplete of "heat pump a"
 - heat pump air · plain topic · autocomplete of "heat pump a"
@@ -589,6 +817,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump btech 1st year · plain topic · autocomplete of "heat pump y"
 - heat pump california · plain topic · autocomplete of "heat pump secret"
 - heat pump canada winter · plain topic · autocomplete of "heat pump in winter"
+- heat pump cover · plain topic · autocomplete of "heat pump c"
 - heat pump cycle · plain topic · autocomplete of "heat pump c"
 - heat pump defrost · plain topic · autocomplete of "heat pump d"
 - heat pump defrost cycle · plain topic · autocomplete of "heat pump"
@@ -640,6 +869,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump lockout · plain topic · autocomplete of "heat pump l"
 - heat pump low pressure · plain topic · autocomplete of "lower heat pump bill"
 - heat pump low pressure lockout · plain topic · autocomplete of "heat pump l"
+- heat pump low voltage short · plain topic · autocomplete of "heat pump l"
 - heat pump mini · plain topic · autocomplete of "heat pump m"
 - heat pump new england winter · plain topic · autocomplete of "heat pump winter"
 - heat pump not defrosting · plain topic · autocomplete of "heat pump n"
@@ -686,6 +916,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump upgrade · plain topic · autocomplete of "heat pump u"
 - heat pump use · plain topic · autocomplete of "heat pump u"
 - heat pump winter · plain topic · autocomplete of "heat pump winter"
+- heat pump winter cover · plain topic · autocomplete of "heat pump in winter"
 - heat pump zone control · plain topic · autocomplete of "heat pump z"
 - heat pumps · plain topic · autocomplete of "heat pump trick"
 - heat pumps explained · plain topic · autocomplete of "heat pump"
@@ -712,7 +943,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - this old house geothermal heat pump · plain topic · autocomplete of "old house heat pump"
 - this old house heat pump · plain topic · autocomplete of "old house heat pump"
 - when to switch heat pump to emergency heat · plain topic · autocomplete of "heat pump emergency heat"
-- why heat pumps are now leaving people cold · plain topic · Silver Cymbal title
 - winter heat pump · plain topic · autocomplete of "heat winter"
 - ykr heat pump · plain topic · autocomplete of "heat pump y"
 - yutaki heat pump · plain topic · autocomplete of "heat pump y"
@@ -738,6 +968,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump leaking · problem symptom · autocomplete of "heat pump l"
 - heat pump leaking water · problem symptom · autocomplete of "heat pump l"
 - heat pump leaking water outside unit · problem symptom · autocomplete of "heat pump l"
+- heat pump no heat · problem symptom · autocomplete of "heat pump n"
 - heat pump not blowing hot air · problem symptom · autocomplete of "heat pump n"
 - heat pump not cooling · problem symptom · autocomplete of "heat pump n"
 - heat pump not heating · problem symptom · autocomplete of "heat pump"
@@ -755,12 +986,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump reversing valve troubleshooting · problem symptom · autocomplete of "heat pump r"
 - heat pump running constantly · problem symptom · autocomplete of "heat pump r"
 - heat pump troubleshooting · problem symptom · autocomplete of "heat pump"
+- heat pump troubleshooting no heat · problem symptom · autocomplete of "heat pump t"
 - heat pump txv troubleshooting · problem symptom · autocomplete of "heat pump t"
 - heat pump won't turn on · problem symptom · autocomplete of "heat pump w"
 - how to troubleshoot heat pump · problem symptom · autocomplete of "how to fix heat pump"
 - hvac heat pump troubleshooting · problem symptom · autocomplete of "hvac h"
 - nibe heat pump problems · problem symptom · autocomplete of "heat pump problems"
-- why is my heat pump blowing cold air · problem symptom · autocomplete of "why is my heat pump"
 - why is my heat pump leaking water inside · problem symptom · autocomplete of "why is my heat pump"
 - why is my heat pump not blowing cold air · problem symptom · autocomplete of "why is my heat pump"
 - why is my heat pump not blowing hot air · problem symptom · autocomplete of "why is my heat pump"
@@ -780,7 +1011,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat pump vs boiler · X vs Y · autocomplete of "heat pump vs furnace"
 - heat pump vs electric furnace · X vs Y · autocomplete of "heat pump vs furnace"
 - heat pump vs electric heat · X vs Y · autocomplete of "heat pump vs"
-- heat pump vs furnace · X vs Y · brief topic list
 - heat pump vs gas boiler · X vs Y · autocomplete of "heat pump vs furnace"
 - heat pump vs gas furnace · X vs Y · autocomplete of "heat pump"
 - heat pump vs gas furnace in canada · X vs Y · autocomplete of "heat pump vs furnace"
@@ -793,17 +1023,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - oil furnace vs heat pump · X vs Y · autocomplete of "oil furnace vs"
 - space heater vs heat pump · X vs Y · autocomplete of "space heater vs"
 - best geothermal heat pump · the only X · autocomplete of "before you geothermal"
-- the truth about heat pumps · they don't want you to know · autocomplete of "the only heat pump"
 - cheap heat pump · cheap hack · autocomplete of "cheap heat pump"
 - cheapest heat pump · cheap hack · autocomplete of "cheap heat pump"
 - geothermal heat pump diy · cheap hack · autocomplete of "geothermal heat pump"
 - heat pump hacks · cheap hack · autocomplete of "heat pump hack"
 - heat pump installation diy · cheap hack · autocomplete of "heat pump i"
 - heat pump maintenance diy · cheap hack · autocomplete of "heat pump m"
-- heat pump no heat · cheap hack · autocomplete of "heat pump n"
 - heat pump tips and tricks · cheap hack · autocomplete of "heat pump tips"
-- heat pump troubleshooting no heat · cheap hack · autocomplete of "heat pump t"
-- do heat pumps save money · myth · autocomplete of "heat pump save money"
 - heat pump myth · myth · autocomplete of "heat pump myth"
 - should i get a heat pump · myth · autocomplete of "stop heat pump"
 - geothermal heat pump installation · how-to · autocomplete of "geothermal heat pump"
@@ -843,11 +1069,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - replacing boiler with heat pump · how-to · autocomplete of "before you replace your boiler"
 - heat pump quotes · cost · autocomplete of "heat pump q"
 
-### Furnaces (gas) (`furnace`, 344)
+### Furnaces (gas) (`furnace`, 352)
 
 - fallen furnace crater · plain topic · autocomplete of "furnace fall"
 - fallen furnace crater wukong · plain topic · autocomplete of "furnace fall"
-- furnace · plain topic · brief topic list
 - furnace 101 · plain topic · autocomplete of "furnace trick"
 - furnace 2006 · plain topic · autocomplete of "furnace secret"
 - furnace 2007 · plain topic · autocomplete of "furnace seniors"
@@ -870,6 +1095,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace evo · plain topic · autocomplete of "furnace"
 - furnace evo deck · plain topic · autocomplete of "furnace e"
 - furnace evolution · plain topic · autocomplete of "furnace e"
+- furnace explosion · plain topic · autocomplete of "furnace e"
 - furnace falls · plain topic · autocomplete of "furnace fall"
 - furnace fest · plain topic · autocomplete of "furnace"
 - furnace fest 2025 · plain topic · autocomplete of "furnace f"
@@ -905,6 +1131,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace nerf · plain topic · autocomplete of "furnace n"
 - furnace of fiery embers · plain topic · autocomplete of "furnace o"
 - furnace of righteousness where winds meet · plain topic · autocomplete of "furnace o"
+- furnace oil and gas · plain topic · autocomplete of "heating oil vs gas"
 - furnace old · plain topic · autocomplete of "furnace old house"
 - furnace on · plain topic · autocomplete of "furnace o"
 - furnace on fire · plain topic · autocomplete of "furnace summer"
@@ -979,6 +1206,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heating rods · plain topic · autocomplete of "heating tips"
 - heating springs · plain topic · autocomplete of "heating spring"
 - heating stones · plain topic · autocomplete of "heating myth"
+- heating winter cabin · plain topic · autocomplete of "heating winter"
 - hvac furnace · plain topic · autocomplete of "hvac f"
 - hvac gas furnace · plain topic · autocomplete of "hvac g"
 - hvac gas furnace sequence of operation · plain topic · autocomplete of "hvac g"
@@ -1008,6 +1236,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - winter heating pad · plain topic · autocomplete of "heating winter"
 - winter heating system · plain topic · autocomplete of "heating winter"
 - zao furnace fest 2025 · plain topic · autocomplete of "furnace z"
+- zone valves heating system · plain topic · autocomplete of "zone valve no heat"
 - airease furnace problems · problem symptom · autocomplete of "furnace problems"
 - coleman furnace problems · problem symptom · autocomplete of "furnace problems"
 - dometic furnace won't ignite · problem symptom · autocomplete of "do this before winter furnace"
@@ -1017,6 +1246,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace blowing cold air · problem symptom · autocomplete of "furnace b"
 - furnace burners not lighting · problem symptom · autocomplete of "furnace b"
 - furnace drain clogged · problem symptom · autocomplete of "furnace d"
+- furnace fan not working · problem symptom · autocomplete of "furnace f"
 - furnace is not turning on · problem symptom · autocomplete of "furnace i"
 - furnace just blowing cold air · problem symptom · autocomplete of "furnace j"
 - furnace keeps cutting off · problem symptom · autocomplete of "furnace k"
@@ -1027,6 +1257,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace leaking water when heat is on · problem symptom · autocomplete of "furnace l"
 - furnace light blinking · problem symptom · autocomplete of "furnace l"
 - furnace light blinking 3 times · problem symptom · autocomplete of "furnace l"
+- furnace no heat · problem symptom · autocomplete of "boiler no heat"
+- furnace no heat call · problem symptom · autocomplete of "boiler no heat"
 - furnace not blowing air · problem symptom · autocomplete of "furnace n"
 - furnace not blowing enough air · problem symptom · autocomplete of "before you furnace smell"
 - furnace not blowing hot air · problem symptom · autocomplete of "furnace n"
@@ -1038,8 +1270,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace not working · problem symptom · brief topic list
 - furnace not working the most common fix · problem symptom · autocomplete of "furnace not working"
 - furnace not working troubleshooting · problem symptom · autocomplete of "furnace not working"
+- furnace on but no heat · problem symptom · autocomplete of "furnace o"
 - furnace problems · problem symptom · autocomplete of "furnace problems"
 - furnace problems and solutions · problem symptom · autocomplete of "furnace problems"
+- furnace running but no heat · problem symptom · autocomplete of "furnace r"
 - furnace starts then shuts off · problem symptom · autocomplete of "furnace s"
 - furnace starts then stops · problem symptom · autocomplete of "stop furnace"
 - furnace stopped working · problem symptom · autocomplete of "furnace s"
@@ -1055,6 +1289,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - gas furnace not igniting · problem symptom · autocomplete of "gas furnace"
 - gas furnace not turning on · problem symptom · autocomplete of "gas furnace"
 - gas furnace won't ignite · problem symptom · autocomplete of "gas furnace"
+- heat problems · problem symptom · autocomplete of "heat problems"
+- heat won't stay on · problem symptom · autocomplete of "heat doesn't want you to know"
 - heating problem · problem symptom · autocomplete of "heating problems"
 - heating problem in s24 ultra · problem symptom · autocomplete of "heating problems"
 - heating problem in samsung · problem symptom · autocomplete of "heating problems"
@@ -1062,16 +1298,18 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heating problem s25 ultra · problem symptom · autocomplete of "heating problems"
 - heating problem solution · problem symptom · autocomplete of "heating problems"
 - how to fix furnace leaking water · problem symptom · autocomplete of "how to fix furnace"
+- how to fix furnace no heat · problem symptom · autocomplete of "how to fix furnace"
 - how to fix furnace not igniting · problem symptom · autocomplete of "how to fix furnace"
 - how to heating problem · problem symptom · autocomplete of "how to heating"
 - hvac gas furnace troubleshooting · problem symptom · autocomplete of "hvac g"
 - napoleon furnace problems · problem symptom · autocomplete of "furnace problems"
+- no heat troubleshooting · problem symptom · Silver Cymbal title: "Top 10 Heating Problems EASY Fixes for No HEAT - Boiler / Furnace Troubleshooting OIL HEAT" (Xd-Og809TUo, 216,421)
 - oil burning furnace troubleshooting · problem symptom · autocomplete of "don't oil furnace"
 - old gas furnace not turning on · problem symptom · autocomplete of "old house furnace"
 - old gas furnace troubleshooting · problem symptom · autocomplete of "old house furnace"
 - old gas furnace won't ignite · problem symptom · autocomplete of "old house furnace"
 - when your furnace won't turn on · problem symptom · autocomplete of "before you turn on your furnace"
-- why is my furnace blowing cold air · problem symptom · autocomplete of "why is my furnace"
+- why is my furnace fan not turning off · problem symptom · autocomplete of "why is my furnace"
 - why is my furnace leaking water · problem symptom · autocomplete of "why is my furnace"
 - why is my furnace light blinking · problem symptom · autocomplete of "why is my furnace"
 - why is my furnace not blowing hot air · problem symptom · autocomplete of "why is my furnace"
@@ -1087,7 +1325,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why is my heating pad blinking and not working · problem symptom · autocomplete of "why is my heating"
 - heating never worked · mistakes · autocomplete of "never heating"
 - never heating · mistakes · autocomplete of "never heater"
-- nfs heat mistakes · mistakes · autocomplete of "heat mistakes"
 - furnace vs · X vs Y · autocomplete of "furnace vs"
 - heat vs · X vs Y · autocomplete of "heat vs"
 - heat vs bucks · X vs Y · autocomplete of "heat vs"
@@ -1122,19 +1359,15 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cheapest heating · cheap hack · autocomplete of "cheap heating"
 - cheapest heating fuel · cheap hack · autocomplete of "cheap heating"
 - foundation heating hack · cheap hack · autocomplete of "heating hack"
-- furnace on but no heat · cheap hack · autocomplete of "furnace o"
-- furnace running but no heat · cheap hack · autocomplete of "furnace r"
 - furnace tips and tricks · cheap hack · autocomplete of "furnace tips"
 - grandpa's heating hacks · cheap hack · autocomplete of "heating hack"
 - heat hacks · cheap hack · autocomplete of "heat hack"
 - heating hacks · cheap hack · autocomplete of "heating hack"
 - heating hacks for home · cheap hack · autocomplete of "heating hack"
 - house heating hacks · cheap hack · autocomplete of "heating hack"
-- how to fix furnace no heat · cheap hack · autocomplete of "how to fix furnace"
 - mgg gold furnace hack · cheap hack · autocomplete of "furnace hack"
 - pool heating hacks · cheap hack · autocomplete of "heating hack"
 - room heating hacks · cheap hack · autocomplete of "heating hack"
-- save money on heating · cheap hack · autocomplete of "save money furnace"
 - save thousands replacing your gas furnace yourself · cheap hack · autocomplete of "save money furnace"
 - is it better to leave the heating on constantly · myth · autocomplete of "before you turn on your heating"
 - frostpunk heating tips · how-to · autocomplete of "heating tips"
@@ -1170,6 +1403,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to clean heating pad · how-to · autocomplete of "how to clean heating"
 - how to clean heating system · how-to · autocomplete of "how to clean heating bill"
 - how to fix furnace · how-to · autocomplete of "how to fix furnace"
+- how to fix furnace fan · how-to · autocomplete of "how to furnace noise"
 - how to fix furnace gas valve · how-to · autocomplete of "how to fix furnace"
 - how to fix heating element in oven · how-to · autocomplete of "how to fix heating"
 - how to fix heating laser in black hole core · how-to · autocomplete of "how to fix heating"
@@ -1190,7 +1424,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heating costs · cost · autocomplete of "heater cost"
 - heating up costco ham · cost · autocomplete of "heating cost"
 
-### Oil furnaces and oil heat (`oil-furnace`, 103)
+### Oil furnaces and oil heat (`oil-furnace`, 104)
 
 - cuts the oil bill · plain topic · known title: Plumbers Used to Do Heat Too: The Radiator Trick My Old Partner Swore By (Cuts the Oil Bill) (proposed hand-off title, not a published video)
 - heating oil · plain topic · brief topic list
@@ -1200,13 +1434,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how a oil furnace works · plain topic · autocomplete of "cheap oil furnace"
 - no hot water oil furnace · plain topic · autocomplete of "don't oil furnace"
 - oil boiler · plain topic · brief topic list
+- oil boiler how it works · plain topic · autocomplete of "oil heat boiler how it works"
 - oil burner · plain topic · brief topic list
 - oil burner air adjustment · plain topic · autocomplete of "oil burner"
 - oil burner furnace · plain topic · autocomplete of "oil burner"
 - oil burner heater · plain topic · autocomplete of "oil burner"
 - oil burner stove · plain topic · autocomplete of "oil burner"
 - oil fired furnace · plain topic · autocomplete of "never oil furnace"
-- oil furnace · plain topic · brief topic list
 - oil furnace air adjustment · plain topic · autocomplete of "oil furnace seniors"
 - oil furnace basics · plain topic · autocomplete of "oil furnace seniors"
 - oil furnace burner · plain topic · autocomplete of "oil furnace hack"
@@ -1214,11 +1448,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - oil furnace hard lockout · plain topic · autocomplete of "oil furnace problems"
 - oil furnace in garage · plain topic · autocomplete of "oil furnace save money"
 - oil furnace no flame · plain topic · autocomplete of "never oil furnace"
+- oil furnace not starting · plain topic · autocomplete of "oil heat troubleshooting"
 - oil furnace nozzle · plain topic · autocomplete of "oil furnace hack"
 - oil furnace parts · plain topic · autocomplete of "oil furnace secret"
 - oil furnace start up · plain topic · autocomplete of "oil furnace save money"
 - oil furnaces · plain topic · autocomplete of "oil furnace vs"
-- oil heat 🔥 boilers - how it works - understand the basics · plain topic · Silver Cymbal title
+- oil heat boiler how it works · plain topic · Silver Cymbal title: "Oil Heat Boilers - How it works - Understand the Basics" (5GbXgEYw5TE, 820,639)
+- oil heater boiler how it works · plain topic · autocomplete of "oil heat boiler how it works"
 - oil tank · plain topic · brief topic list
 - old oil heating system · plain topic · autocomplete of "old house oil furnace"
 - priming heating oil furnace · plain topic · autocomplete of "oil furnace save money"
@@ -1241,10 +1477,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - oil furnace starts then shuts off · problem symptom · autocomplete of "oil furnace"
 - oil furnace troubleshooting · problem symptom · autocomplete of "oil furnace"
 - oil furnace troubleshooting part 2 · problem symptom · autocomplete of "oil furnace problems"
-- oil furnace won't ignite · problem symptom · autocomplete of "never do this oil furnace"
 - oil furnace won't light · problem symptom · autocomplete of "before you oil furnace"
 - oil furnace won't start · problem symptom · autocomplete of "before you replace your oil furnace"
 - oil furnace won't turn on · problem symptom · autocomplete of "before you turn on your oil furnace"
+- oil heat not working · problem symptom · autocomplete of "oil heat troubleshooting"
+- oil heat troubleshooting · problem symptom · Silver Cymbal title: "Top 10 Heating Problems EASY Fixes for No HEAT - Boiler / Furnace Troubleshooting OIL HEAT" (Xd-Og809TUo, 216,421)
+- oil heater troubleshooting · problem symptom · autocomplete of "oil heat troubleshooting"
 - why is my oil burner not firing up · problem symptom · autocomplete of "why is my oil furnace"
 - why is my oil burner smoking · problem symptom · autocomplete of "why is my oil furnace"
 - why is my oil furnace not turning on · problem symptom · autocomplete of "why is my oil furnace"
@@ -1252,13 +1490,11 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heater vs oil heater · X vs Y · autocomplete of "heater vs"
 - heating oil vs diesel · X vs Y · autocomplete of "heating oil"
 - oil furnace vs electric furnace · X vs Y · autocomplete of "oil furnace vs"
-- oil furnace vs gas furnace · X vs Y · autocomplete of "oil furnace vs"
 - oil furnace vs propane furnace · X vs Y · autocomplete of "oil furnace vs"
+- oil heating vs gas · X vs Y · autocomplete of "heating oil vs gas"
 - space heater vs oil heater · X vs Y · autocomplete of "never do this space heater"
-- why heating oil is better than gas - explained · X vs Y · Silver Cymbal title
 - best oil burner furnace · the only X · autocomplete of "before you oil furnace"
 - best oil furnace · the only X · autocomplete of "before you oil furnace"
-- top 10 heating problems easy fixes for no heat - boiler / furnace troubleshooting oil heat · the only X · Silver Cymbal title
 - grant oil boiler service · how-to · autocomplete of "lower oil furnace bill"
 - heating oil furnace maintenance · how-to · autocomplete of "heating oil"
 - heating oil tank installation · how-to · autocomplete of "heating oil"
@@ -1294,18 +1530,20 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - oil burner tune up · how-to · autocomplete of "oil burner"
 - oil furnace cleaning · how-to · autocomplete of "oil furnace"
 - oil furnace installation · how-to · autocomplete of "oil furnace"
-- oil furnace maintenance · how-to · autocomplete of "oil furnace"
 
-### Boilers, radiators, steam (old-house heat) (`boiler-steam`, 221)
+### Boilers, radiators, steam (old-house heat) (`boiler-steam`, 254)
 
 - ask this old house boiler · plain topic · autocomplete of "old house boiler"
-- boiler · plain topic · brief topic list
+- baxi boiler no heating · plain topic · autocomplete of "boiler no heat"
 - boiler air purge · plain topic · autocomplete of "boiler a"
 - boiler air separator · plain topic · autocomplete of "boiler a"
 - boiler blowing up · plain topic · autocomplete of "boiler b"
+- boiler circulating pump · plain topic · autocomplete of "boiler c"
 - boiler cold · plain topic · autocomplete of "boiler winter"
 - boiler de gas · plain topic · autocomplete of "boiler d"
+- boiler expansion tank · plain topic · autocomplete of "boiler e"
 - boiler expansion tank pressure · plain topic · autocomplete of "boiler e"
+- boiler feed pump · plain topic · autocomplete of "boiler f"
 - boiler feed water system · plain topic · autocomplete of "boiler f"
 - boiler fill valve · plain topic · autocomplete of "boiler spring"
 - boiler fill valve adjustment · plain topic · autocomplete of "boiler f"
@@ -1322,11 +1560,17 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - boiler hvac system · plain topic · autocomplete of "boiler h"
 - boiler low water · plain topic · autocomplete of "boiler spring"
 - boiler low water cut off · plain topic · autocomplete of "boiler l"
+- boiler no hot water · plain topic · autocomplete of "boiler no heat"
 - boiler not circulating hot water · plain topic · autocomplete of "boiler n"
 - boiler overflow pipe · plain topic · autocomplete of "boiler o"
+- boiler overheating · plain topic · autocomplete of "boiler o"
+- boiler piping · plain topic · autocomplete of "boiler p"
+- boiler piping explained · plain topic · autocomplete of "boiler p"
 - boiler pressure reducing valve · plain topic · autocomplete of "boiler p"
 - boiler pressure relief valve · plain topic · autocomplete of "boiler p"
+- boiler safeties · plain topic · autocomplete of "boiler secret"
 - boiler stop valve · plain topic · autocomplete of "stop boiler"
+- boiler stop working · plain topic · autocomplete of "stop boiler"
 - boiler system · plain topic · autocomplete of "boiler s"
 - boiler valve · plain topic · autocomplete of "boiler v"
 - boiler venting · plain topic · autocomplete of "boiler v"
@@ -1334,8 +1578,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - boiler water pressure regulator · plain topic · autocomplete of "boiler w"
 - boiler water treatment · plain topic · autocomplete of "boiler w"
 - boiler zone valve · plain topic · autocomplete of "boiler x"
-- boilers and old-house heat · plain topic · Silver Cymbal title
 - cast iron radiator · plain topic · brief topic list
+- cast iron radiator cover · plain topic · autocomplete of "cast iron radiator"
 - cast iron radiator disassembly · plain topic · autocomplete of "cast iron radiator"
 - cast iron radiator how it works · plain topic · autocomplete of "cast iron radiator"
 - cast iron radiator removal · plain topic · autocomplete of "cast iron radiator"
@@ -1347,17 +1591,19 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hot water baseboard heating system · plain topic · autocomplete of "hot water baseboard"
 - hot water baseboard radiator · plain topic · autocomplete of "hot water baseboard"
 - house boiler heating system · plain topic · autocomplete of "boiler old house"
+- ideal boiler no heating · plain topic · autocomplete of "boiler no heat"
 - lower boiler pressure · plain topic · autocomplete of "lower boiler bill"
 - no water in my radiator · plain topic · autocomplete of "never do this radiators"
-- old house boiler · plain topic · autocomplete of "old house furnace"
+- old boiler · plain topic · autocomplete of "old house boiler"
 - old house radiator · plain topic · autocomplete of "old house radiators"
+- old radiator · plain topic · autocomplete of "old house radiators"
 - old radiator heater · plain topic · autocomplete of "old house heating"
+- old radiator removal · plain topic · autocomplete of "old house radiators"
 - old school boiler house · plain topic · autocomplete of "old house boiler"
 - radiant floor heating with wood boiler · plain topic · autocomplete of "radiant floor heating"
 - radiator · plain topic · brief topic list
 - radiator falling off wall · plain topic · autocomplete of "radiators fall"
 - radiators cold at bottom · plain topic · autocomplete of "don't radiators"
-- steam heat · plain topic · brief topic list
 - steam heat dance competition · plain topic · autocomplete of "steam heat"
 - steam heat exchanger · plain topic · autocomplete of "steam heat"
 - steam heat fosse · plain topic · autocomplete of "steam heat"
@@ -1366,14 +1612,20 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - steam heater · plain topic · autocomplete of "steam heat"
 - steam heating system · plain topic · autocomplete of "steam heat"
 - steam heating system basics · plain topic · autocomplete of "steam heat"
-- steam radiator · plain topic · brief topic list
 - steam radiator air valve hissing · plain topic · autocomplete of "steam radiator"
 - stove boiler · plain topic · autocomplete of "stop boiler"
+- stuck circulator pump · plain topic · Silver Cymbal title: "Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT" (yCZqfnlBYW8, 470,352)
 - this old house hydronic heating · plain topic · autocomplete of "old house heating"
 - this old house radiator · plain topic · autocomplete of "the only radiators"
 - this old house steam boiler · plain topic · autocomplete of "old house boiler"
 - turn off old radiator · plain topic · autocomplete of "never do this radiators"
+- vaillant boiler no heating · plain topic · autocomplete of "boiler no heat"
 - water boiler fallout 76 · plain topic · autocomplete of "boiler fall"
+- worcester boiler no heating · plain topic · autocomplete of "boiler no heat"
+- zone valve not closing · plain topic · autocomplete of "zone valve no heat"
+- zone valve stuck closed · plain topic · autocomplete of "zone valve no heat"
+- zone valve stuck open · plain topic · autocomplete of "zone valve no heat"
+- boiler aquastat troubleshooting · problem symptom · autocomplete of "boiler a"
 - boiler backflow preventer leaking · problem symptom · autocomplete of "boiler b"
 - boiler drain valve leaking · problem symptom · autocomplete of "boiler d"
 - boiler furnace not turning on · problem symptom · autocomplete of "boiler f"
@@ -1386,16 +1638,25 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - boiler leaking water · problem symptom · autocomplete of "boiler l"
 - boiler leaking water from top · problem symptom · autocomplete of "boiler l"
 - boiler liquid stop leak · problem symptom · autocomplete of "boiler l"
+- boiler no heat call · problem symptom · autocomplete of "boiler no heat"
+- boiler not firing up · problem symptom · autocomplete of "boiler n"
 - boiler not heating · problem symptom · autocomplete of "boiler n"
 - boiler not heating water · problem symptom · autocomplete of "boiler n"
+- boiler not igniting · problem symptom · autocomplete of "boiler n"
 - boiler not turning on · problem symptom · autocomplete of "boiler n"
 - boiler not working · problem symptom · autocomplete of "boiler n"
 - boiler pressure relief valve leaking · problem symptom · autocomplete of "boiler p"
 - boiler pressure too high · problem symptom · autocomplete of "boiler p"
+- boiler problems · problem symptom · autocomplete of "boiler problems"
+- boiler problems and solutions · problem symptom · autocomplete of "boiler problems"
 - boiler problems no hot water · problem symptom · autocomplete of "boiler problems"
 - boiler problems with hard water · problem symptom · autocomplete of "boiler problems"
 - boiler stop leak · problem symptom · autocomplete of "stop boiler"
+- boiler troubleshooting · problem symptom · autocomplete of "boiler t"
 - boiler water leaking · problem symptom · autocomplete of "boiler w"
+- boiler won't ignite · problem symptom · autocomplete of "boiler w"
+- boiler won't stay on · problem symptom · autocomplete of "before you turn on your boiler"
+- boiler wont come on · problem symptom · autocomplete of "boiler w"
 - boiler zone not heating · problem symptom · autocomplete of "boiler x"
 - boiler zone valve troubleshooting · problem symptom · autocomplete of "boiler x"
 - cast iron radiator leak repair · problem symptom · autocomplete of "cast iron radiator"
@@ -1407,12 +1668,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix radiator leak · problem symptom · autocomplete of "how to fix radiators"
 - how to fix radiator not heating · problem symptom · autocomplete of "how to fix radiators"
 - how to stop boiler leaking water · problem symptom · autocomplete of "stop boiler"
+- radiator problems · problem symptom · autocomplete of "radiators problems"
+- radiator problems and solutions · problem symptom · autocomplete of "radiators problems"
 - radiator stop leak · problem symptom · autocomplete of "radiator"
 - radiators not getting hot · problem symptom · autocomplete of "don't radiators"
 - radiators not heating up · problem symptom · autocomplete of "radiators problems"
 - radiators not working · problem symptom · autocomplete of "radiators problems"
 - steam radiator leaking water · problem symptom · autocomplete of "steam radiator"
-- steam radiator not getting hot · problem symptom · autocomplete of "steam radiator"
 - steam radiator valve leaking water · problem symptom · autocomplete of "steam radiator"
 - stop leak for radiators · problem symptom · autocomplete of "stop radiators"
 - top of radiator leaking · problem symptom · autocomplete of "never do this radiators"
@@ -1427,8 +1689,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why is my radiator not heating up · problem symptom · autocomplete of "why is my radiators"
 - why is my radiator not working · problem symptom · autocomplete of "why is my radiators"
 - wood boiler stop leak · problem symptom · autocomplete of "stop boiler"
+- zone valve no heat · problem symptom · Silver Cymbal title: [under 5 min] "No Heat? How to Replace & Troubleshoot a Taco Zone Valve" (xuswKBmauI4, 136,871)
 - boiler vs forced air · X vs Y · autocomplete of "boiler vs"
-- boiler vs furnace · X vs Y · autocomplete of "boiler vs"
 - cheap radiator vs expensive · X vs Y · autocomplete of "cheap radiators"
 - electric heater vs oil filled radiator · X vs Y · autocomplete of "baseboard heater vs"
 - furnace vs boiler · X vs Y · autocomplete of "furnace vs"
@@ -1442,9 +1704,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - space heater vs radiator · X vs Y · autocomplete of "space heater vs"
 - wood stove vs wood boiler · X vs Y · autocomplete of "wood stove vs"
 - best way to stop radiator leak · the only X · autocomplete of "stop radiators"
+- the best of the radiators · the only X · autocomplete of "the only radiators"
 - bleeding radiators to reduce boiler pressure · cheap hack · autocomplete of "bleeding radiators"
 - boiler hacks · cheap hack · autocomplete of "boiler hack"
-- boiler no heat call · cheap hack · autocomplete of "boiler n"
 - cheap boiler · cheap hack · autocomplete of "cheap boiler"
 - cheap propane · cheap hack · autocomplete of "cheap boiler"
 - radiator hack · cheap hack · autocomplete of "radiators hack"
@@ -1454,13 +1716,14 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - bleeding radiators · how-to · brief topic list
 - bleeding radiators in house · how-to · autocomplete of "bleeding radiators"
 - bleeding radiators no water coming out · how-to · autocomplete of "bleeding radiators"
-- bleeding radiators old house · how-to · autocomplete of "bleeding radiators"
 - bleeding radiators without key · how-to · autocomplete of "bleeding radiators"
 - boiler bleeding · how-to · autocomplete of "boiler b"
+- boiler circulator pump replacement · how-to · autocomplete of "boiler c"
 - boiler cleaning · how-to · autocomplete of "boiler c"
 - boiler drain · how-to · autocomplete of "boiler d"
 - boiler drain valve · how-to · autocomplete of "boiler d"
 - boiler drain valve replacement · how-to · autocomplete of "boiler d"
+- boiler expansion tank replacement · how-to · autocomplete of "boiler e"
 - boiler gas valve replacement · how-to · autocomplete of "boiler g"
 - boiler heat exchanger cleaning · how-to · autocomplete of "boiler h"
 - boiler install · how-to · autocomplete of "boiler seniors"
@@ -1470,6 +1733,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - boiler maintenance training · how-to · autocomplete of "boiler m"
 - boiler operation and maintenance · how-to · autocomplete of "boiler o"
 - boiler pressure relief valve replacement · how-to · autocomplete of "boiler p"
+- boiler pump replacement · how-to · autocomplete of "boiler p"
 - boiler tune up · how-to · autocomplete of "boiler t"
 - boiler valve replacement · how-to · autocomplete of "boiler v"
 - boiler zone valve replacement · how-to · autocomplete of "boiler x"
@@ -1510,12 +1774,16 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to radiator clean · how-to · autocomplete of "how to radiators"
 - how to radiator pressure test · how-to · autocomplete of "how to radiators"
 - how to radiator water · how-to · autocomplete of "how to radiators"
-- how to replace a circulator pump on a boiler · how-to · Silver Cymbal title
+- how to replace an old radiator · how-to · autocomplete of "before you replace your radiators"
+- how to replace an old radiator with a new one · how-to · autocomplete of "before you replace your radiators"
 - how to stop boiler pressure up · how-to · autocomplete of "stop boiler"
 - how to turn on your boiler · how-to · autocomplete of "before you turn on your boiler"
 - outdoor wood boiler tips · how-to · autocomplete of "boiler tips"
+- radiator replacement · how-to · autocomplete of "radiator"
 - radiator tips · how-to · autocomplete of "radiators tips"
 - radiators installation · how-to · autocomplete of "radiators hack"
+- replace circulator pump boiler · how-to · Silver Cymbal title: "How to Replace a Circulator Pump on a Boiler" (flpbqJu2sT8, 236,222)
+- replace circulator pump on boiler · how-to · autocomplete of "replace circulator pump boiler"
 - replacing a gas boiler · how-to · autocomplete of "before you replace your boiler"
 - steam radiator air valve replacement · how-to · autocomplete of "steam radiator"
 - steam radiator valve replacement · how-to · autocomplete of "steam radiator"
@@ -1523,9 +1791,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 ### Electric and baseboard heat (`electric-heat`, 69)
 
 - baseboard heat · plain topic · autocomplete of "baseboard heater mistakes"
-- baseboard heater · plain topic · helper-added seed
 - baseboard heater adjustment · plain topic · autocomplete of "baseboard heater mistakes"
 - baseboard heater alternatives · plain topic · autocomplete of "baseboard heater myth"
+- baseboard heater cover · plain topic · autocomplete of "baseboard heater secret"
 - baseboard heater covers · plain topic · autocomplete of "baseboard heater"
 - baseboard heater electric · plain topic · autocomplete of "baseboard heater vs"
 - baseboard heater removal · plain topic · autocomplete of "baseboard heater"
@@ -1555,6 +1823,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - electric furnace not turning on · problem symptom · autocomplete of "electric furnace"
 - electric furnace problems · problem symptom · autocomplete of "furnace problems"
 - electric furnace troubleshooting · problem symptom · autocomplete of "electric furnace"
+- no heat from baseboard heater · problem symptom · autocomplete of "before you replace your heater"
 - baseboard heater vs space heater · X vs Y · autocomplete of "baseboard heater vs"
 - baseboard heater vs wall heater · X vs Y · autocomplete of "baseboard heater vs"
 - electric baseboard heaters 120v vs 240v · X vs Y · autocomplete of "electric baseboard heat"
@@ -1563,7 +1832,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - baseboard heater covers diy · cheap hack · autocomplete of "baseboard heater"
 - baseboard heater tips and tricks · cheap hack · autocomplete of "baseboard heater tips"
 - cheap electric furnace · cheap hack · autocomplete of "cheap furnace"
-- no heat from baseboard heater · cheap hack · autocomplete of "before you replace your heater"
 - radiant floor heating diy · cheap hack · autocomplete of "radiant floor heating"
 - baseboard electric heater installation · how-to · autocomplete of "baseboard heater save money"
 - baseboard heater cleaning · how-to · autocomplete of "baseboard heater"
@@ -1592,7 +1860,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - radiant floor heating manifold installation · how-to · autocomplete of "radiant floor heating"
 - radiant floor heating cost · cost · autocomplete of "radiant floor heating"
 
-### Thermostats (`thermostat`, 353)
+### Thermostats (`thermostat`, 350)
 
 - #thermostats · plain topic · autocomplete of "thermostat secret"
 - baseboard thermostat · plain topic · autocomplete of "baseboard heater summer"
@@ -1631,6 +1899,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - thermostat bypass · plain topic · autocomplete of "thermostat b"
 - thermostat chrysler 300 · plain topic · autocomplete of "thermostat c"
 - thermostat control · plain topic · autocomplete of "thermostat c"
+- thermostat cover · plain topic · autocomplete of "thermostat c"
 - thermostat dad · plain topic · autocomplete of "thermostat d"
 - thermostat delete · plain topic · autocomplete of "thermostat d"
 - thermostat diagnosis · plain topic · autocomplete of "thermostat d"
@@ -1760,7 +2029,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - thermostatic mixing valve · plain topic · autocomplete of "thermostat"
 - this old house smart thermostat · plain topic · autocomplete of "old house thermostat"
 - this old house thermostat · plain topic · autocomplete of "old house thermostat"
-- turning your heat down · plain topic · known title: Turning Your Heat Down Is NOT Saving You Money... (Gus Whitaker, 74K)
+- turn the heat down · plain topic · autocomplete of "turning your heat down"
 - when you turn the thermostat to 67 · plain topic · autocomplete of "before you turn on your thermostat"
 - zen thermostat wifi setup · plain topic · autocomplete of "thermostat z"
 - honeywell thermostat problems · problem symptom · autocomplete of "thermostat problems"
@@ -1817,13 +2086,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why is my thermostat not turning on · problem symptom · autocomplete of "why is my thermostat"
 - why is my thermostat not working · problem symptom · autocomplete of "why is my thermostat"
 - why is my thermostat not working after changing batteries · problem symptom · autocomplete of "why is my thermostat"
+- window air conditioner thermostat not working · problem symptom · autocomplete of "window air conditioner not cooling"
 - don't touch me thermostat · mistakes · autocomplete of "don't thermostat"
 - don't touch the thermostat · mistakes · autocomplete of "don't thermostat"
 - never touch the thermostat · mistakes · autocomplete of "never thermostat"
-- thermostat habits · mistakes · known title: The 5 Thermostat Habits That Wear Out Your AC Years Early (Ray Dutton's Garage, 1.1M)
 - thermostat wrong temperature · mistakes · autocomplete of "thermostat fall"
 - why is my thermostat reading the wrong temperature · mistakes · autocomplete of "why is my thermostat"
-- nest thermostat vs ecobee · X vs Y · autocomplete of "thermostat vs"
 - thermostat vs 5 · X vs Y · autocomplete of "thermostat vs"
 - thermostat vs ac · X vs Y · autocomplete of "thermostat vs"
 - thermostat vs no thermostat · X vs Y · autocomplete of "thermostat vs"
@@ -1839,15 +2107,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - inncom thermostat hack · cheap hack · autocomplete of "thermostat hack"
 - nest thermostat save money · cheap hack · autocomplete of "thermostat save money"
 - nest thermostat tips and tricks · cheap hack · autocomplete of "thermostat tips"
-- smart thermostat save money · cheap hack · autocomplete of "thermostat save money"
 - thermostat hack · cheap hack · autocomplete of "thermostat hack"
 - thermostat hack hotel · cheap hack · autocomplete of "thermostat hack"
-- thermostat save money · cheap hack · autocomplete of "thermostat save money"
 - thermostat trick · cheap hack · autocomplete of "thermostat trick"
 - verdant thermostat hack · cheap hack · autocomplete of "thermostat hack"
 - verdant thermostat hack constant fan · cheap hack · autocomplete of "thermostat hack"
 - turning your heat down is not saving you money · myth · known title: Turning Your Heat Down Is NOT Saving You Money... (Gus Whitaker, 74K)
-- what temperature should you set your thermostat · myth · autocomplete of "before you turn on your thermostat"
 - baseboard heater thermostat installation · how-to · autocomplete of "baseboard heater"
 - ecobee smart thermostat winter settings · how-to · autocomplete of "thermostat winter"
 - electric baseboard heater thermostat installation · how-to · autocomplete of "electric baseboard heat"
@@ -1955,7 +2220,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac filter arrow direction · plain topic · autocomplete of "ac filter"
 - ac filter block · plain topic · autocomplete of "ac filter destroying"
 - ac filter ritz · plain topic · autocomplete of "ac filter destroying"
-- air filter · plain topic · brief topic list
 - air filter ac · plain topic · autocomplete of "air filter a"
 - air filter ac unit · plain topic · autocomplete of "air filter a"
 - air filter acura tl · plain topic · autocomplete of "air filter a"
@@ -1974,7 +2238,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter buggy · plain topic · autocomplete of "air filter b"
 - air filter buick encore · plain topic · autocomplete of "air filter b"
 - air filter business · plain topic · autocomplete of "air filter b"
+- air filter cabin · plain topic · autocomplete of "air filter c"
 - air filter comparison · plain topic · autocomplete of "air filter c"
+- air filter cover · plain topic · autocomplete of "air filter c"
 - air filter crv · plain topic · autocomplete of "air filter mistakes"
 - air filter ct100 · plain topic · autocomplete of "air filter seniors"
 - air filter diesel · plain topic · autocomplete of "air filter d"
@@ -1985,6 +2251,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter e90 · plain topic · autocomplete of "air filter e"
 - air filter ecosport · plain topic · autocomplete of "air filter e"
 - air filter element · plain topic · autocomplete of "air filter e"
+- air filter exhaust · plain topic · autocomplete of "air filter e"
 - air filter experiment · plain topic · autocomplete of "air filter e"
 - air filter explained · plain topic · autocomplete of "air filter e"
 - air filter f250 super duty · plain topic · autocomplete of "air filter f"
@@ -2012,6 +2279,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter in furnace · plain topic · autocomplete of "air filter i"
 - air filter in house · plain topic · autocomplete of "air filter i"
 - air filter infiniti q50 · plain topic · autocomplete of "air filter i"
+- air filter intake · plain topic · autocomplete of "air filter i"
 - air filter issue · plain topic · autocomplete of "air filter problems"
 - air filter jetta 2016 · plain topic · autocomplete of "air filter j"
 - air filter kenworth t680 · plain topic · autocomplete of "air filter k"
@@ -2023,7 +2291,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter lexus es350 · plain topic · autocomplete of "air filter l"
 - air filter lexus is 250 · plain topic · autocomplete of "air filter l"
 - air filter lexus rx350 · plain topic · autocomplete of "air filter l"
-- air filter lid flip · plain topic · autocomplete of "air filter l"
 - air filter life · plain topic · autocomplete of "air filter l"
 - air filter may langis · plain topic · autocomplete of "air filter winter"
 - air filter mazda · plain topic · autocomplete of "air filter m"
@@ -2038,15 +2305,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter oil spray · plain topic · autocomplete of "air filter o"
 - air filter on ac unit · plain topic · autocomplete of "air filter o"
 - air filter on furnace · plain topic · autocomplete of "air filter o"
-- air filter on predator 3500 · plain topic · autocomplete of "air filter o"
 - air filter on troy bilt snow blower · plain topic · autocomplete of "air filter o"
-- air filter on turbo · plain topic · autocomplete of "air filter o"
 - air filter parts · plain topic · autocomplete of "air filter p"
 - air filter performance · plain topic · autocomplete of "air filter p"
 - air filter piaggio zip · plain topic · autocomplete of "air filter z"
 - air filter placement · plain topic · autocomplete of "air filter p"
 - air filter porsche macan · plain topic · autocomplete of "air filter p"
-- air filter predator 3500 · plain topic · autocomplete of "air filter p"
 - air filter pressure drop · plain topic · autocomplete of "air filter p"
 - air filter prius · plain topic · autocomplete of "air filter p"
 - air filter project farm · plain topic · autocomplete of "air filter p"
@@ -2068,6 +2332,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter unit · plain topic · autocomplete of "air filter u"
 - air filter upgrade · plain topic · autocomplete of "air filter u"
 - air filter uses · plain topic · autocomplete of "air filter u"
+- air filter using exhaust fan · plain topic · autocomplete of "air filter u"
 - air filter using water · plain topic · autocomplete of "air filter u"
 - air filter velocity · plain topic · autocomplete of "air filter v"
 - air filter volkswagen · plain topic · autocomplete of "air filter v"
@@ -2115,13 +2380,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cutting off oil filter · plain topic · autocomplete of "cuts the oil bill"
 - dna air filter zx6r · plain topic · autocomplete of "air filter z"
 - dna motoring air filter review · plain topic · autocomplete of "lower air filter bill"
-- driving without air filter · plain topic · autocomplete of "never do this air filter"
 - furnace air filter · plain topic · autocomplete of "furnace a"
 - furnace air filter direction · plain topic · autocomplete of "furnace a"
 - furnace filter · plain topic · brief topic list
 - furnace filter arrow direction · plain topic · autocomplete of "furnace filter"
 - furnace filter direction · plain topic · autocomplete of "furnace filter"
 - furnace filter location · plain topic · autocomplete of "furnace filter"
+- furnace filters reviews · plain topic · autocomplete of "furnace filter save money"
 - hvac filter · plain topic · brief topic list
 - hvac filter direction · plain topic · autocomplete of "hvac filter"
 - hvac filter drier · plain topic · autocomplete of "hvac filter"
@@ -2147,19 +2412,16 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac dirty filter problems · problem symptom · autocomplete of "hvac problems"
 - why is my air filter wet · problem symptom · autocomplete of "why is my air filter"
 - why is there oil in my air filter box · problem symptom · autocomplete of "why is my air filter"
-- ac filter destroying · mistakes · known title: The $30 AC Filter Is Destroying Your HVAC System (Ray Dutton's Garage, 761K)
-- furnace filter mistakes · mistakes · autocomplete of "furnace mistakes"
+- air filter vs air intake · X vs Y · autocomplete of "air filter vs"
 - air filter vs air purifier · X vs Y · autocomplete of "air filter vs"
+- air filter vs exhaust · X vs Y · autocomplete of "air filter vs"
 - air filter vs no air filter · X vs Y · autocomplete of "air filter vs"
 - cheap air filter vs expensive · X vs Y · autocomplete of "cheap air filter"
-- furnace filters cheap vs expensive · X vs Y · autocomplete of "furnace filter"
 - air filter diy · cheap hack · autocomplete of "air filter d"
 - air filter hack · cheap hack · autocomplete of "air filter hack"
 - cheap air filter · cheap hack · autocomplete of "cheap air filter"
 - cheap air filter at home · cheap hack · autocomplete of "cheap air filter"
-- furnace filter - how to change it the right way & save money · cheap hack · Silver Cymbal title
-- do air filters really work · myth · autocomplete of "the only air filter"
-- how often should you change your air filter · myth · autocomplete of "before you turn on your air filter"
+- furnace filter save money · cheap hack · Silver Cymbal title: "Furnace Filter - How to Change it the Right Way & SAVE Money" (ED3bfesbE_Y, 388,617)
 - should i put filters in my return vents · myth · autocomplete of "before you turn on your air ducts"
 - ac filter change · how-to · autocomplete of "ac filter"
 - ac filter change home · how-to · autocomplete of "ac filter"
@@ -2185,11 +2447,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter tips · how-to · autocomplete of "air filter tips"
 - airtron air filter replacement · how-to · autocomplete of "air filter spring"
 - change air filter z900 · how-to · autocomplete of "air filter z"
+- change furnace filter the right way · how-to · Silver Cymbal title: "Furnace Filter - How to Change it the Right Way & SAVE Money" (ED3bfesbE_Y, 388,617)
 - clean ac unit filter · how-to · autocomplete of "clean ac unit"
 - furnace air filter replacement · how-to · autocomplete of "furnace a"
 - furnace filter change · how-to · autocomplete of "furnace filter"
 - furnace filter installation · how-to · autocomplete of "furnace filter"
 - furnace filter rack installation · how-to · autocomplete of "furnace filter"
+- furnace filter replace · how-to · autocomplete of "furnace filter save money"
 - furnace filter replacement · how-to · autocomplete of "furnace filter"
 - furnace filter test · how-to · autocomplete of "furnace filter"
 - heat pump filter change · how-to · autocomplete of "heat pump f"
@@ -2198,9 +2462,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to air filter · how-to · autocomplete of "how to air filter"
 - how to air filter cleaning · how-to · autocomplete of "how to air filter"
 - how to air filter for house · how-to · autocomplete of "how to air filter"
-- how to change a furnace filter the right way · how-to · Silver Cymbal title
 - how to change furnace filter · how-to · autocomplete of "how to furnace"
 - how to change oil furnace filter · how-to · autocomplete of "how to oil furnace"
+- how to clean a window ac filter · how-to · autocomplete of "how to clean a window ac"
 - how to clean ac filter · how-to · autocomplete of "how to clean ac"
 - how to clean air conditioning filter · how-to · autocomplete of "how to clean air conditioning"
 - how to clean air filter · how-to · autocomplete of "how to clean air filter"
@@ -2218,6 +2482,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to clean mini split filters · how-to · autocomplete of "how to mini split"
 - how to clean oil furnace filter · how-to · autocomplete of "how to clean oil furnace"
 - how to clean window ac filter · how-to · autocomplete of "how to clean window ac"
+- how to clean window ac filter at home · how-to · autocomplete of "how to clean a window ac"
 - how to clean window ac unit filter · how-to · autocomplete of "how to clean window ac"
 - how to filter air in home · how-to · autocomplete of "how to air filter"
 - how to fix air filter · how-to · autocomplete of "how to fix air filter"
@@ -2265,12 +2530,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - closing basement vents in summer · plain topic · autocomplete of "closing vents"
 - closing crawl space vents · plain topic · autocomplete of "closing vents"
 - closing foundation vents · plain topic · autocomplete of "closing vents"
-- closing vents · plain topic · brief topic list
 - closing vents in house · plain topic · autocomplete of "closing vents"
 - closing vents in unused rooms · plain topic · autocomplete of "closing vents"
 - dampers hvac · plain topic · brief topic list
 - does closing vents redirect air · plain topic · autocomplete of "closing vents"
 - electric bill mobile number register · plain topic · autocomplete of "electric bill m"
+- furnace exhaust vent · plain topic · autocomplete of "furnace e"
 - hvac damper · plain topic · autocomplete of "hvac d"
 - hvac ductwork · plain topic · autocomplete of "hvac d"
 - hvac zone damper · plain topic · autocomplete of "hvac z"
@@ -2280,8 +2545,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - low airflow from vents in house · plain topic · autocomplete of "lower air ducts bill"
 - low profile hvac ductwork · plain topic · autocomplete of "lower air ducts bill"
 - new ductwork in old house · plain topic · autocomplete of "air ducts old house"
+- pellet stove direct vent · plain topic · autocomplete of "pellet stove tax credit"
 - portable air conditioner without vent hose · plain topic · autocomplete of "portable air conditioner"
 - return vent · plain topic · brief topic list
+- return vent cover · plain topic · autocomplete of "return vent"
 - return vent direction · plain topic · autocomplete of "return vent"
 - return vent in ceiling · plain topic · autocomplete of "return vent"
 - return vent not pulling air · plain topic · autocomplete of "return vent"
@@ -2296,6 +2563,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air duct condensation · problem symptom · autocomplete of "air ducts winter"
 - air vents not blowing air · problem symptom · autocomplete of "air vents"
 - air vents not blowing hard · problem symptom · autocomplete of "air vents"
+- boiler damper troubleshooting · problem symptom · autocomplete of "boiler d"
 - how to check air ducts for leaks · problem symptom · autocomplete of "how to air ducts"
 - how to fix air duct leaks · problem symptom · autocomplete of "why is my air ducts"
 - how to stop condensation on air ducts · problem symptom · autocomplete of "never do this air ducts"
@@ -2310,7 +2578,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - diy hvac duct installation · cheap hack · autocomplete of "hvac diy"
 - duct cleaning diy · cheap hack · autocomplete of "duct cleaning"
 - how to clean air ducts diy · cheap hack · autocomplete of "how to clean air ducts"
-- is ac duct cleaning worth it · myth · autocomplete of "cheap air ducts"
 - should i clean my air ducts · myth · autocomplete of "why is my air ducts"
 - should i have my air ducts cleaned · myth · autocomplete of "before you air ducts"
 - should you close air vents in unused rooms · myth · autocomplete of "before you turn on your air ducts"
@@ -2333,7 +2600,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - clean air ducts yourself · how-to · autocomplete of "air ducts"
 - clean your own air ducts · how-to · autocomplete of "cheap air ducts"
 - do it yourself duct cleaning · how-to · autocomplete of "don't air ducts"
-- duct cleaning · how-to · brief topic list
 - duct cleaning business · how-to · autocomplete of "duct cleaning"
 - duct cleaning equipment · how-to · autocomplete of "duct cleaning"
 - duct cleaning hvac · how-to · autocomplete of "duct cleaning"
@@ -2371,7 +2637,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix hole in air duct · how-to · autocomplete of "how to fix air ducts"
 - how to fix hvac ductwork · how-to · autocomplete of "how to fix hvac"
 - how to hvac duct installation · how-to · autocomplete of "how to furnace"
-- how to install a kitchen range hood that vents outside · how-to · Silver Cymbal title
 - how to install air ducts in attic · how-to · autocomplete of "how to air ducts"
 - how to install air ducts in home · how-to · autocomplete of "how to air ducts"
 - how to repair air ducts in attic · how-to · autocomplete of "how to fix air ducts"
@@ -2403,10 +2668,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - video of air duct cleaning · how-to · autocomplete of "the only air ducts"
 - air duct cleaning cost · cost · autocomplete of "air ducts cost"
 
-### Parts homeowners touch (capacitors, contactors, igniters...) (`parts`, 245)
+### Parts homeowners touch (capacitors, contactors, igniters...) (`parts`, 228)
 
 - ac applied to capacitor · plain topic · autocomplete of "capacitor cost"
-- ac capacitor · plain topic · brief topic list
 - ac capacitor discharge · plain topic · autocomplete of "ac capacitor"
 - ac capacitor explained · plain topic · autocomplete of "ac capacitor"
 - ac compressor · plain topic · autocomplete of "ac c"
@@ -2418,30 +2682,14 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - boiler flame sensor · plain topic · autocomplete of "boiler f"
 - boiler igniter · plain topic · autocomplete of "boiler i"
 - boiler pilot light · plain topic · autocomplete of "boiler p"
-- capacitance in capacitor · plain topic · autocomplete of "capacitor secret"
 - capacitor · plain topic · brief topic list
-- capacitor ar condicionado springer · plain topic · autocomplete of "capacitor spring"
-- capacitor ar condicionado springer 7500 · plain topic · autocomplete of "capacitor spring"
-- capacitor ar condicionado springer 9000 · plain topic · autocomplete of "capacitor spring"
-- capacitor arrangement · plain topic · autocomplete of "capacitor secret"
-- capacitor assets · plain topic · autocomplete of "capacitor summer"
-- capacitor bipolar · plain topic · autocomplete of "capacitor secret"
-- capacitor business · plain topic · autocomplete of "capacitor companies hate"
 - capacitor changing in fan · plain topic · autocomplete of "capacitor cost"
-- capacitor company · plain topic · autocomplete of "capacitor companies hate"
 - capacitor damage · plain topic · autocomplete of "capacitor hack"
-- capacitor dielectric · plain topic · autocomplete of "capacitor winter"
-- capacitor esc · plain topic · autocomplete of "capacitor summer"
+- capacitor explosion · plain topic · autocomplete of "capacitor"
 - capacitor fail · plain topic · autocomplete of "capacitor mistakes"
 - capacitor for fan · plain topic · autocomplete of "capacitor tips"
-- capacitor grade 12 · plain topic · autocomplete of "capacitor secret"
-- capacitor springer 7500 · plain topic · autocomplete of "capacitor spring"
-- capacitor springer midea 12000 · plain topic · autocomplete of "capacitor spring"
-- capacitors and inductors · plain topic · autocomplete of "capacitor"
-- capacitors equations · plain topic · autocomplete of "capacitor summer"
 - capacitors explained · plain topic · autocomplete of "capacitor"
 - capacitors hvac · plain topic · autocomplete of "capacitor seniors"
-- capacitors in circuits · plain topic · autocomplete of "capacitor"
 - capacitors in series and parallel · plain topic · autocomplete of "capacitor"
 - changing the capacitor on an air conditioner · plain topic · autocomplete of "before you turn on your capacitor"
 - citroen start stop capacitor · plain topic · autocomplete of "stop capacitor"
@@ -2449,7 +2697,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - condensate pump for mini split · plain topic · autocomplete of "condensate pump"
 - condensate pump not pumping water out · plain topic · autocomplete of "condensate pump"
 - condensate pump running continuously · plain topic · autocomplete of "condensate pump"
-- contactor · plain topic · brief topic list
 - contactor ac unit · plain topic · autocomplete of "contactor"
 - contactor din rail · plain topic · autocomplete of "contactor"
 - contactor hvac · plain topic · autocomplete of "contactor"
@@ -2460,9 +2707,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - falla capacitor bomba de agua · plain topic · autocomplete of "capacitor fall"
 - falla capacitor de arranque · plain topic · autocomplete of "capacitor fall"
 - falla capacitor de ventilador · plain topic · autocomplete of "capacitor fall"
-- furnace flame sensor · plain topic · brief topic list
 - furnace flame sensor location · plain topic · autocomplete of "furnace flame sensor"
-- furnace igniter · plain topic · brief topic list
 - furnace igniter glows but no flame · plain topic · autocomplete of "furnace igniter"
 - furnace ignitor · plain topic · autocomplete of "furnace igniter"
 - furnace ignitor not glowing · plain topic · autocomplete of "furnace igniter"
@@ -2487,19 +2732,17 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - the use of capacitor · plain topic · autocomplete of "the only capacitor"
 - thermostat fuse location · plain topic · autocomplete of "thermostat f"
 - thermostat transformer · plain topic · autocomplete of "thermostat t"
-- troca de capacitor springer midea · plain topic · autocomplete of "capacitor spring"
 - when the capacitor is disconnected from the battery · plain topic · autocomplete of "never do this capacitor"
-- why dielectric used in capacitor · plain topic · autocomplete of "never do this capacitor"
 - ac bad compressor · problem symptom · autocomplete of "ac companies hate"
 - ac compressor not turning on · problem symptom · autocomplete of "ac c"
 - blower motor not working · problem symptom · autocomplete of "blower motor"
 - blower motor symptoms · problem symptom · autocomplete of "blower motor"
 - boiler pilot light on but not firing up · problem symptom · autocomplete of "boiler p"
 - capacitor combination problems · problem symptom · autocomplete of "capacitor problems"
-- capacitor dielectric problems · problem symptom · autocomplete of "capacitor problems"
 - capacitor problems · problem symptom · autocomplete of "capacitor problems"
 - capacitor problems involving plates · problem symptom · autocomplete of "capacitor problems"
 - capacitor sample problems · problem symptom · autocomplete of "capacitor summer"
+- central air unit compressor not working · problem symptom · autocomplete of "central air conditioning not cooling"
 - condensate pump line clogged · problem symptom · autocomplete of "condensate pump"
 - contactor troubleshooting · problem symptom · autocomplete of "contactor"
 - equivalent capacitor problems · problem symptom · autocomplete of "capacitor problems"
@@ -2532,6 +2775,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac fuse blown symptoms · problem symptom · autocomplete of "hvac fuse"
 - hvac fuse keeps blowing · problem symptom · autocomplete of "hvac fuse"
 - propane heater pilot light won't stay lit · problem symptom · autocomplete of "propane heater"
+- unclog ac drain line with air compressor · problem symptom · autocomplete of "unclog ac drain line"
 - why does my capacitor keep going out · problem symptom · autocomplete of "why is my capacitor"
 - don't take capacitors for granted · mistakes · autocomplete of "don't capacitor"
 - capacitor vs battery · X vs Y · autocomplete of "capacitor vs"
@@ -2541,12 +2785,14 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - capacitor vs non capacitor · X vs Y · autocomplete of "capacitor vs"
 - capacitor vs supercapacitor · X vs Y · autocomplete of "capacitor vs"
 - run capacitor vs start capacitor · X vs Y · autocomplete of "stop capacitor"
+- capacitor circuit problems tricks · cheap hack · autocomplete of "capacitor trick"
 - capacitor easy tricks · cheap hack · autocomplete of "capacitor trick"
 - capacitor hacks · cheap hack · autocomplete of "capacitor hack"
 - capacitor life hacks · cheap hack · autocomplete of "capacitor hack"
 - capacitor problems tricks · cheap hack · autocomplete of "capacitor problems"
 - capacitor questions tricks · cheap hack · autocomplete of "capacitor trick"
 - capacitor save on electric bills · cheap hack · autocomplete of "capacitor save money"
+- capacitor short tricks · cheap hack · autocomplete of "capacitor trick"
 - capacitor tricks · cheap hack · autocomplete of "capacitor trick"
 - capacitor tricks for neet · cheap hack · autocomplete of "capacitor trick"
 - fan capacitor hacks · cheap hack · autocomplete of "capacitor hack"
@@ -2560,6 +2806,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac capacitor wiring diagram · how-to · autocomplete of "ac capacitor"
 - ac compressor clutch replacement · how-to · autocomplete of "ac c"
 - ac compressor replacement · how-to · autocomplete of "ac c"
+- ac disconnect box replacement · how-to · autocomplete of "ac disconnect"
+- ac disconnect fuse replacement · how-to · autocomplete of "ac disconnect"
 - ac disconnect installation · how-to · autocomplete of "ac disconnect"
 - ac fan motor replacement · how-to · autocomplete of "ac f"
 - ac pressure switch replacement · how-to · autocomplete of "ac p"
@@ -2665,10 +2913,11 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - evaporator coil leaking water · problem symptom · autocomplete of "evaporator coil"
 - condenser coil vs evaporator coil · X vs Y · autocomplete of "condenser coil vs"
 - radiator vs condenser · X vs Y · autocomplete of "radiators vs"
+- best ac fin comb · the only X · autocomplete of "before you condenser coil"
 - best condenser coil cleaner · the only X · autocomplete of "cheap condenser coil"
 - ac coil cleaning · how-to · autocomplete of "ac c"
 - ac evaporator coil cleaning · how-to · autocomplete of "ac e"
-- central air conditioner condenser cleaning - how to - make it cold again! · how-to · Silver Cymbal title
+- central ac coil cleaning · how-to · autocomplete of "central air conditioner condenser cleaning"
 - clean ac condenser coils yourself · how-to · autocomplete of "before you condenser coil"
 - clean ac unit · how-to · brief topic list
 - clean ac unit coils · how-to · autocomplete of "clean ac unit"
@@ -2678,6 +2927,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - clean ac unit with hose · how-to · autocomplete of "clean ac unit"
 - clean condenser · how-to · brief topic list
 - clean condenser coils · how-to · autocomplete of "clean condenser"
+- clean mini split condenser · how-to · Silver Cymbal title: "How to Clean Your Mini Split AC Condenser - Make it Cold Again" (DSNUyxZtrmo, 1,859,343)
 - condenser coil change · how-to · autocomplete of "condenser coil vs"
 - condenser coil cleaner · how-to · autocomplete of "condenser coil"
 - condenser coil cleaning · how-to · autocomplete of "condenser coil"
@@ -2694,7 +2944,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to clean ac condenser · how-to · autocomplete of "how to clean ac"
 - how to clean ac drain line · how-to · autocomplete of "how to clean ac"
 - how to clean ac outdoor unit · how-to · autocomplete of "how to clean ac"
-- how to clean ac unit · how-to · autocomplete of "how to clean ac"
 - how to clean air conditioning · how-to · autocomplete of "how to clean air conditioning"
 - how to clean air conditioning coils · how-to · autocomplete of "how to clean air conditioning"
 - how to clean air conditioning condenser · how-to · autocomplete of "how to clean air conditioning"
@@ -2715,7 +2964,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to clean mini split coils · how-to · autocomplete of "how to clean mini split"
 - how to clean the condenser · how-to · autocomplete of "how to clean capacitor"
 - how to clean window ac coils · how-to · autocomplete of "how to clean window ac"
-- how to clean your mini split ac condenser - make it cold again · how-to · Silver Cymbal title
 - how to fix radiator fins · how-to · autocomplete of "how to fix radiators"
 - how to replace mini split evaporator coil · how-to · autocomplete of "how to fix mini split"
 - how to straighten condenser coil fins · how-to · autocomplete of "how to condenser coil"
@@ -2724,7 +2972,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac evaporator coil cleaning · how-to · autocomplete of "hvac e"
 - condenser coil price · cost · autocomplete of "condenser coil cost"
 
-### Seasonal maintenance (`maintenance`, 81)
+### Seasonal maintenance (`maintenance`, 75)
 
 - ac fall ceiling · plain topic · autocomplete of "ac fall"
 - ac last 25 years · plain topic · known title: Do THIS Once a Month and Your AC Will Last 25 Years (John The HVAC Guy, 232K)
@@ -2733,10 +2981,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hot room service · problem symptom · autocomplete of "hot room"
 - hot room service pitbull · problem symptom · autocomplete of "hot room"
 - hvac service vs install · X vs Y · autocomplete of "hvac maintenance vs"
-- before you shut your ac down · before you · known title: Before You Shut Your AC Down This Fall, Do This (Ray Dutton's Garage, 1.1M)
-- before you turn on your ac · before you · known title: Before You Shut Your AC Down This Fall, Do This (Ray Dutton's Garage, 1.1M) [flipped to spring]
-- before you turn on your heat · before you · known title: Before You Turn On Your Heat This Fall, Do This (Ray Dutton's Garage, 926K)
-- do this before winter furnace · before you · known title: Do THIS Before Winter and Your Furnace Will Last 30 Years (John The HVAC Guy, 176K)
 - furnace maintenance before winter · before you · autocomplete of "furnace winter"
 - what to do before you turn on your furnace · before you · autocomplete of "before you turn on your furnace"
 - furnace maintenance diy · cheap hack · autocomplete of "furnace maintenance"
@@ -2759,7 +3003,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air conditioner maintenance tips · how-to · autocomplete of "hvac maintenance tips"
 - air conditioner tune up · how-to · autocomplete of "hvac tune up"
 - central air tune up · how-to · autocomplete of "hvac tune up"
-- do this once a month ac · how-to · known title: Do THIS Once a Month and Your AC Will Last 25 Years (John The HVAC Guy, 232K)
 - furnace maintenance · how-to · brief topic list
 - furnace maintenance in refinery · how-to · autocomplete of "furnace maintenance"
 - furnace tune up · how-to · autocomplete of "hvac tune up"
@@ -2782,7 +3025,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac fall maintenance · how-to · autocomplete of "furnace fall"
 - hvac furnace maintenance · how-to · autocomplete of "hvac f"
 - hvac home maintenance · how-to · autocomplete of "hvac maintenance old house"
-- hvac maintenance · how-to · brief topic list
 - hvac maintenance agreement · how-to · autocomplete of "hvac maintenance"
 - hvac maintenance bag · how-to · autocomplete of "hvac maintenance"
 - hvac maintenance call · how-to · autocomplete of "hvac maintenance"
@@ -2808,18 +3050,20 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - maintenance of hvac system · how-to · autocomplete of "hvac maintenance vs"
 - maintenance on hvac system · how-to · autocomplete of "hvac maintenance summer"
 
-### Energy bills (`energy-bill`, 265)
+### Energy bills (`energy-bill`, 260)
 
 - barsha electric bill video · plain topic · autocomplete of "electric bill v"
 - bill heat wave · plain topic · autocomplete of "heating bill w"
 - billet heating · plain topic · autocomplete of "heating bill"
 - billet heating furnace · plain topic · autocomplete of "heating bill"
-- electric bill · plain topic · brief topic list
 - electric bill account number · plain topic · autocomplete of "electric bill a"
 - electric bill after solar panels · plain topic · autocomplete of "electric bill a"
 - electric bill all details · plain topic · autocomplete of "electric bill a"
+- electric bill application · plain topic · autocomplete of "electric bill a"
+- electric bill application letter · plain topic · autocomplete of "electric bill a"
 - electric bill barsha comedy · plain topic · autocomplete of "electric bill b"
 - electric bill barsha special · plain topic · autocomplete of "electric bill b"
+- electric bill besi asar jonno application · plain topic · autocomplete of "electric bill b"
 - electric bill book · plain topic · autocomplete of "electric bill b"
 - electric bill business · plain topic · autocomplete of "electric bill b"
 - electric bill calculator · plain topic · autocomplete of "electric bill c"
@@ -2955,7 +3199,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat bill simmons · plain topic · autocomplete of "heating bill"
 - heat energy bill nye · plain topic · autocomplete of "heating bill e"
 - heating and cooling bill nye · plain topic · autocomplete of "heating bill c"
-- heating bill · plain topic · brief topic list
 - heating house with propane · plain topic · autocomplete of "heating bill old house"
 - heating metals in air · plain topic · autocomplete of "heating bill myth"
 - hvac basic electricity · plain topic · autocomplete of "hvac b"
@@ -2997,18 +3240,15 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - electricity bill very high · problem symptom · autocomplete of "electric bill v"
 - gas bill high · problem symptom · autocomplete of "gas bill"
 - gas bill too high · problem symptom · autocomplete of "gas bill"
+- no heat bill holman · problem symptom · autocomplete of "heating bill h"
 - this is why your heat bill is so high · problem symptom · autocomplete of "why is your heat bill so high"
 - this old house high electric bill · problem symptom · autocomplete of "old house electric bill"
 - what to do if your electricity bill is too high · problem symptom · autocomplete of "before you turn on your electric bill"
-- why is my electric bill so high · problem symptom · autocomplete of "why is my electric bill"
 - why is my power bill so high · problem symptom · autocomplete of "why is my electric bill"
-- why is your heat bill so high · problem symptom · known title: THIS is Why Your Heat Bill is So High! Rim Joist Insulation (5.8M)
 - why my electric bill is too high · problem symptom · autocomplete of "why is my electric bill"
 - electric bill wrong · mistakes · autocomplete of "electric bill mistakes"
 - electricity bill mistake · mistakes · autocomplete of "electric bill mistakes"
-- energy bill mistakes · mistakes · known title: 5 Energy Bill Mistakes Utility Companies Hope You Keep Making (Ray Dutton's Garage, 397K)
 - what to do when electricity bill is wrong · mistakes · autocomplete of "never do this electric bill"
-- power company doesn't want you to · they don't want you to know · known title: Your Power Company Doesn't Want You To See This! (128K)
 - ac hacks to save electricity · cheap hack · autocomplete of "ac hack"
 - ac tips to reduce electricity bill · cheap hack · autocomplete of "ac tips"
 - cut heating bills instantly · cheap hack · autocomplete of "heating bill"
@@ -3024,7 +3264,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to reduce energy bill · cheap hack · autocomplete of "how to heating bill"
 - how to reduce heating bill · cheap hack · autocomplete of "why is my heating bill"
 - how to save money on electric bill in apartment · cheap hack · autocomplete of "save money electric bill"
-- how to save money on electric bill in winter · cheap hack · autocomplete of "save money electric bill"
 - how to save money on heating bill during winter · cheap hack · autocomplete of "save money heating bill"
 - how to save money on heating bills · cheap hack · autocomplete of "how to heating bill"
 - how to save money on your electric bill · cheap hack · autocomplete of "save money electric bill"
@@ -3033,8 +3272,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - lower electric bill · cheap hack · autocomplete of "lower electric bill bill"
 - lower electricity bill tips · cheap hack · autocomplete of "lower furnace bill"
 - lower energy bills · cheap hack · autocomplete of "lower heating bill"
-- lower your electric bill · cheap hack · known title: Can This Device Actually Lower Your Electric Bill By 30%?? (2.6M)
-- no heat bill holman · cheap hack · autocomplete of "heating bill h"
 - reduce ac bill · cheap hack · autocomplete of "lower ac bill"
 - reduce heating bill · cheap hack · autocomplete of "heating bill"
 - reduce your electric bill · cheap hack · autocomplete of "before you turn on your electric bill"
@@ -3076,12 +3313,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - i can't pay the electric bill · cost · autocomplete of "never electric bill"
 - oven electric bill cost · cost · autocomplete of "electric bill cost"
 
-### Insulation (`insulation`, 422)
+### Insulation (`insulation`, 420)
 
 - adding insulation to old house · plain topic · autocomplete of "insulation old house"
 - adding insulation to the outside of a house · plain topic · autocomplete of "before you turn on your insulation"
 - ask this old house insulation · plain topic · autocomplete of "old house insulation"
-- attic insulation · plain topic · brief topic list
+- attic insulation cover · plain topic · autocomplete of "attic insulation"
 - attic insulation for hot climates · plain topic · autocomplete of "attic insulation"
 - attic insulation removal · plain topic · autocomplete of "attic insulation"
 - attic ventilation and insulation · plain topic · autocomplete of "attic ventilation"
@@ -3098,6 +3335,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - blown in insulation removal · plain topic · autocomplete of "blown in insulation"
 - blown in insulation with shop vac · plain topic · autocomplete of "blown in insulation"
 - comfort zone insulation · plain topic · autocomplete of "insulation z"
+- crawl space encapsulation insulation · plain topic · autocomplete of "crawl space encapsulation"
 - crawl space rim joist insulation · plain topic · autocomplete of "rim joist insulation"
 - door insulation winter · plain topic · autocomplete of "insulation winter"
 - everything you need to know about insulation · plain topic · autocomplete of "before you turn on your insulation"
@@ -3267,6 +3505,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - insulation types · plain topic · autocomplete of "insulation t"
 - insulation types comparison · plain topic · autocomplete of "insulation t"
 - insulation under bathtub · plain topic · autocomplete of "insulation u"
+- insulation under cabin · plain topic · autocomplete of "insulation u"
 - insulation under floor · plain topic · autocomplete of "insulation u"
 - insulation under floorboards · plain topic · autocomplete of "insulation u"
 - insulation under metal roof · plain topic · autocomplete of "insulation u"
@@ -3292,7 +3531,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - insulator zatka machine · plain topic · autocomplete of "insulation z"
 - lowes blow in insulation · plain topic · autocomplete of "lower insulation bill"
 - lowes insulation · plain topic · autocomplete of "lower insulation bill"
-- new way to remove gross fiberglass insulation - full batts! · plain topic · Silver Cymbal title
 - no insulation in walls · plain topic · autocomplete of "never do this insulation"
 - old home insulation · plain topic · autocomplete of "old house insulation"
 - old house basement insulation · plain topic · autocomplete of "old house insulation"
@@ -3303,11 +3541,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - qbot insulation · plain topic · autocomplete of "insulation q"
 - quiet zone insulation · plain topic · autocomplete of "insulation z"
 - rim board insulation · plain topic · autocomplete of "rim joist insulation"
-- rim joist insulation · plain topic · brief topic list
 - rim joist insulation foam board · plain topic · autocomplete of "rim joist insulation"
 - rim joist insulation old house · plain topic · autocomplete of "rim joist insulation"
 - rim joist insulation rockwool · plain topic · autocomplete of "rim joist insulation"
-- spray foam · plain topic · brief topic list
+- spray foam alternatives · plain topic · autocomplete of "spray foam alternative"
 - spray foam art · plain topic · autocomplete of "spray foam"
 - spray foam attic · plain topic · autocomplete of "spray foam"
 - spray foam gun · plain topic · autocomplete of "spray foam"
@@ -3317,13 +3554,14 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - spray foam insulation quonset hut · plain topic · autocomplete of "insulation q"
 - spray foam kit · plain topic · autocomplete of "spray foam"
 - spray foam sculpture · plain topic · autocomplete of "spray foam"
+- spray on foam insulation · plain topic · autocomplete of "spray foam alternative"
 - sub zero insulation · plain topic · autocomplete of "insulation z"
 - this old house floor insulation · plain topic · autocomplete of "old house insulation"
 - this old house insulation · plain topic · autocomplete of "the only insulation"
 - this old house insulation attic · plain topic · autocomplete of "the only insulation"
 - this old house window insulation · plain topic · autocomplete of "old house insulation"
 - too much insulation in attic · plain topic · autocomplete of "never do this insulation"
-- window insulation · plain topic · brief topic list
+- whole house fan insulation cover · plain topic · autocomplete of "whole house fan"
 - window insulation blanket · plain topic · autocomplete of "window insulation"
 - window insulation curtains · plain topic · autocomplete of "window insulation"
 - window insulation film review · plain topic · autocomplete of "window insulation"
@@ -3351,7 +3589,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - roof foam insulation problems · problem symptom · autocomplete of "insulation problems"
 - spray foam insulation problems · problem symptom · autocomplete of "insulation problems"
 - don't eat the insulation · mistakes · autocomplete of "don't insulation"
-- insulation mistakes · mistakes · autocomplete of "insulation mistakes"
 - blown in insulation vs batt · X vs Y · autocomplete of "blown in insulation"
 - cellulose insulation vs fiberglass · X vs Y · autocomplete of "insulation vs"
 - denim insulation vs fiberglass · X vs Y · autocomplete of "insulation vs"
@@ -3360,7 +3597,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - insulated vs uninsulated hunting boots · X vs Y · autocomplete of "insulation vs"
 - insulation vs no insulation · X vs Y · autocomplete of "insulation vs"
 - insulator vs conductor · X vs Y · autocomplete of "insulation vs"
-- insulator vs dielectric · X vs Y · autocomplete of "insulation vs"
 - rockwool insulation vs fiberglass · X vs Y · autocomplete of "insulation vs"
 - rockwool insulation vs fire · X vs Y · autocomplete of "insulation vs"
 - window insulation. summer vs. winter · X vs Y · autocomplete of "insulation summer"
@@ -3499,10 +3735,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - low cost insulation · cost · autocomplete of "insulation cost"
 - rockwool insulation cost · cost · autocomplete of "insulation cost"
 - spray foam insulation cost · cost · autocomplete of "insulation cost"
-- spray foam is expensive. use this instead! · cost · Silver Cymbal title
 
-### Drafts and weatherstripping (`drafts`, 70)
+### Drafts and weatherstripping (`drafts`, 77)
 
+- c10 weatherstripping · plain topic · autocomplete of "weatherstripping"
 - caulking windows · plain topic · brief topic list
 - caulking windows and doors · plain topic · autocomplete of "caulking windows"
 - caulking windows exterior · plain topic · autocomplete of "caulking windows"
@@ -3522,7 +3758,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - draft house 2025 · plain topic · autocomplete of "drafty house"
 - draft house overtime · plain topic · autocomplete of "drafty house"
 - draft house shedeur sanders · plain topic · autocomplete of "drafty house"
-- draft stopper · plain topic · brief topic list
 - draft stopper crochet · plain topic · autocomplete of "draft stopper"
 - draft stopper for doors · plain topic · autocomplete of "draft stopper"
 - draft stopper for windows · plain topic · autocomplete of "draft stopper"
@@ -3531,21 +3766,20 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - draft stoppers · plain topic · autocomplete of "drafts spring"
 - draft window · plain topic · autocomplete of "drafts old house"
 - drafts · plain topic · brief topic list
-- drafty house · plain topic · brief topic list
 - find draft in house · plain topic · autocomplete of "drafts old house"
 - old drafty house · plain topic · autocomplete of "drafty house"
+- pile weatherstripping · plain topic · autocomplete of "weatherstripping"
 - stop drafts from windows · plain topic · autocomplete of "stop drafts"
 - this old house caulking windows · plain topic · autocomplete of "old house windows"
 - this old house drafts · plain topic · autocomplete of "old house drafts"
-- c10 weatherstripping · problem symptom · autocomplete of "weatherstripping"
-- pile weatherstripping · problem symptom · autocomplete of "weatherstripping"
-- weatherstripping · problem symptom · brief topic list
-- weatherstripping for doors · problem symptom · autocomplete of "weatherstripping"
-- weatherstripping for doors and windows · problem symptom · autocomplete of "weatherstripping"
-- weatherstripping for double doors exterior · problem symptom · autocomplete of "weatherstripping"
-- weatherstripping for old doors · problem symptom · autocomplete of "weatherstripping"
-- weatherstripping for sliding windows · problem symptom · autocomplete of "weatherstripping"
-- weatherstripping for windows · problem symptom · autocomplete of "weatherstripping"
+- weatherstripping for doors · plain topic · autocomplete of "weatherstripping"
+- weatherstripping for doors and windows · plain topic · autocomplete of "weatherstripping"
+- weatherstripping for double doors exterior · plain topic · autocomplete of "weatherstripping"
+- weatherstripping for old doors · plain topic · autocomplete of "weatherstripping"
+- weatherstripping for sliding windows · plain topic · autocomplete of "weatherstripping"
+- weatherstripping for windows · plain topic · autocomplete of "weatherstripping"
+- why my drafts are not showing in instagram · plain topic · autocomplete of "why is my drafts"
+- do not draft · mistakes · autocomplete of "don't drafts"
 - draft vs aryan kandari · X vs Y · autocomplete of "drafts vs"
 - draft vs auction · X vs Y · autocomplete of "drafts vs"
 - draft vs chatgpt · X vs Y · autocomplete of "drafts vs"
@@ -3563,6 +3797,14 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - door draft stopper installation · how-to · autocomplete of "door draft"
 - door draft stopper under door seal · how-to · autocomplete of "door draft"
 - draft buster door seal · how-to · autocomplete of "draft stopper"
+- garage door seal · how-to · Silver Cymbal title: [borderline, operator call] "How to Make Your Garage Door SEAL TIGHT as a Fridge" (EjLJm0g4whg, 906,215)
+- garage door seal bottom · how-to · autocomplete of "garage door seal"
+- garage door seal installation · how-to · autocomplete of "garage door seal"
+- garage door seal sides · how-to · autocomplete of "garage door seal"
+- garage door seal strip · how-to · autocomplete of "garage door seal"
+- garage door seal top and sides · how-to · autocomplete of "garage door seal"
+- garage door seal track replacement · how-to · autocomplete of "garage door seal"
+- garage door seals bottom rubber · how-to · autocomplete of "garage door seal"
 - how to clean draft beer lines · how-to · autocomplete of "how to clean drafts"
 - how to clean draft lines · how-to · autocomplete of "how to clean drafts"
 - how to clean perfect draft machine · how-to · autocomplete of "how to clean drafts"
@@ -3574,7 +3816,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix draft under front door · how-to · autocomplete of "how to fix drafts"
 - how to stop drafts around windows · how-to · autocomplete of "stop drafts"
 
-### Windows, film, curtains (`windows`, 97)
+### Windows, film, curtains (`windows`, 112)
 
 - ac falls out window · plain topic · autocomplete of "ac fall"
 - air conditioner falling out of window · plain topic · autocomplete of "air conditioning fall"
@@ -3590,14 +3832,17 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - retrofitting windows old house · plain topic · autocomplete of "windows old house"
 - storm window kit · plain topic · autocomplete of "storm windows"
 - storm windows · plain topic · brief topic list
+- storm windows cover · plain topic · autocomplete of "storm windows"
 - storm windows for old houses · plain topic · autocomplete of "storm windows"
 - storm windows for screened porch · plain topic · autocomplete of "storm windows"
 - storm windows john prine · plain topic · autocomplete of "storm windows"
 - storm windows with screens · plain topic · autocomplete of "storm windows"
-- thermal curtains · plain topic · brief topic list
+- thermal blackout curtains · plain topic · autocomplete of "thermal curtains"
 - thermal curtains for summer · plain topic · autocomplete of "thermal curtains"
 - thermal curtains for winter · plain topic · autocomplete of "thermal curtains"
-- window film · plain topic · brief topic list
+- window film application · plain topic · autocomplete of "window film"
+- window film application kit · plain topic · autocomplete of "window film"
+- window film application solution · plain topic · autocomplete of "window film"
 - window film privacy · plain topic · autocomplete of "window film"
 - window film privacy day and night · plain topic · autocomplete of "window film"
 - window film removal · plain topic · autocomplete of "window film"
@@ -3620,10 +3865,18 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - windows winter summer · plain topic · autocomplete of "windows winter"
 - winter windows sea wolf · plain topic · autocomplete of "windows winter"
 - why is my windows button not working · problem symptom · autocomplete of "why is my windows"
+- why is my windows not updating · problem symptom · autocomplete of "why is my windows"
+- windows problem code 43 · problem symptom · autocomplete of "windows problems"
+- windows problem reporting · problem symptom · autocomplete of "windows problems"
+- windows problem reporting in task manager · problem symptom · autocomplete of "windows problems"
+- windows problem sound · problem symptom · autocomplete of "windows problems"
+- windows problem sound effect · problem symptom · autocomplete of "windows problems"
+- windows problems · problem symptom · autocomplete of "windows problems"
 - mythbusters ac vs windows down · X vs Y · autocomplete of "ac myth"
 - mythbusters windows vs ac · X vs Y · autocomplete of "windows myth"
 - replacement windows versus new construction windows · X vs Y · autocomplete of "replacement windows"
 - replacement windows vs new construction · X vs Y · autocomplete of "replacement windows"
+- thermal curtains vs blackout curtains · X vs Y · autocomplete of "thermal curtains"
 - windows vs chromebook · X vs Y · autocomplete of "windows vs"
 - windows vs linux · X vs Y · autocomplete of "windows vs"
 - windows vs mac · X vs Y · autocomplete of "windows vs"
@@ -3632,6 +3885,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - windows vs macbook · X vs Y · autocomplete of "windows vs"
 - windows vs macos · X vs Y · autocomplete of "windows vs"
 - best thermal curtains · the only X · autocomplete of "thermal curtains"
+- best way to replace windows · the only X · autocomplete of "before you replace your windows"
 - cheap windows · cheap hack · autocomplete of "cheap windows"
 - cheap windows handheld · cheap hack · autocomplete of "cheap windows"
 - cheap windows tablet · cheap hack · autocomplete of "cheap windows"
@@ -3662,7 +3916,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - replace windows old house · how-to · autocomplete of "windows old house"
 - replacement windows · how-to · brief topic list
 - replacement windows brick house · how-to · autocomplete of "replacement windows"
+- replacement windows in brick · how-to · autocomplete of "replacement windows"
 - replacement windows in old house · how-to · autocomplete of "replacement windows"
+- replacement windows reviews · how-to · autocomplete of "replacement windows"
 - window film installation · how-to · autocomplete of "window film"
 - window film installation home · how-to · autocomplete of "window film"
 - window spring balance repair · how-to · autocomplete of "windows spring"
@@ -3670,11 +3926,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window spring repair · how-to · autocomplete of "windows spring"
 - windows clean tips · how-to · autocomplete of "windows tips"
 - windows productivity tips · how-to · autocomplete of "windows tips"
+- windows spring replacement · how-to · autocomplete of "windows spring"
 - windows tips · how-to · autocomplete of "windows tips"
 - windows winter setting · how-to · autocomplete of "windows winter"
 - windows cost · cost · autocomplete of "windows cost"
 
-### Humidity, dehumidifiers, humidifiers (`humidity`, 156)
+### Humidity, dehumidifiers, humidifiers (`humidity`, 162)
 
 - basement dehumidifier · plain topic · brief topic list
 - basement dehumidifier reviews · plain topic · autocomplete of "basement dehumidifier"
@@ -3683,8 +3940,11 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - before and after dehumidifier · plain topic · autocomplete of "before you turn on your dehumidifier"
 - benefits of dehumidifier · plain topic · autocomplete of "before you dehumidifier"
 - benefits of dehumidifier in bedroom · plain topic · autocomplete of "before you dehumidifier"
+- crawl space encapsulation · plain topic · Silver Cymbal title: [borderline, operator call] "MINDBLOWING Crawlspace Transformation - Next Level ENCAPSULATION" (CXjNHwFg0aQ, 242,232)
+- crawl space encapsulation before and after · plain topic · autocomplete of "crawl space encapsulation"
+- crawl space encapsulation process · plain topic · autocomplete of "crawl space encapsulation"
+- crawl space encapsulation time lapse · plain topic · autocomplete of "crawl space encapsulation"
 - decrease humidity in house · plain topic · autocomplete of "humidity in house"
-- dehumidifier · plain topic · brief topic list
 - dehumidifier benefits in winter · plain topic · autocomplete of "dehumidifier winter"
 - dehumidifier cellar · plain topic · autocomplete of "dehumidifier old house"
 - dehumidifier commercial · plain topic · autocomplete of "dehumidifier companies hate"
@@ -3717,7 +3977,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - humidifier review · plain topic · autocomplete of "humidifier"
 - humidifier sound · plain topic · autocomplete of "humidifier"
 - humidifiers for bedroom · plain topic · autocomplete of "humidifier"
-- humidity in house · plain topic · brief topic list
 - humidity levels in house · plain topic · autocomplete of "humidity in house"
 - hvac humidifier · plain topic · autocomplete of "hvac h"
 - increase humidity in house · plain topic · autocomplete of "humidity in house"
@@ -3762,11 +4021,11 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why is my dehumidifier not collecting water · problem symptom · autocomplete of "why is my dehumidifier"
 - why is my dehumidifier not draining through the hose · problem symptom · autocomplete of "why is my dehumidifier"
 - why is my dehumidifier not working · problem symptom · autocomplete of "why is my dehumidifier"
-- dehumidifier mistakes · mistakes · autocomplete of "dehumidifier mistakes"
 - don't buy a dehumidifier before watching this · mistakes · autocomplete of "don't dehumidifier"
 - air conditioner vs dehumidifier · X vs Y · autocomplete of "air conditioning vs"
 - air purifier vs dehumidifier · X vs Y · autocomplete of "air filter vs"
 - air purifier vs humidifier · X vs Y · autocomplete of "air filter vs"
+- crawl space encapsulation vs vapor barrier · X vs Y · autocomplete of "crawl space encapsulation"
 - dehumidifier vs ac · X vs Y · autocomplete of "dehumidifier vs"
 - dehumidifier vs air conditioner · X vs Y · autocomplete of "dehumidifier vs"
 - dehumidifier vs air purifier · X vs Y · autocomplete of "dehumidifier vs"
@@ -3781,6 +4040,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cheap dehumidifier · cheap hack · autocomplete of "cheap dehumidifier"
 - cheap dehumidifier review · cheap hack · autocomplete of "cheap dehumidifier"
 - cheapest dehumidifier · cheap hack · autocomplete of "cheap dehumidifier"
+- crawl space encapsulation diy · cheap hack · autocomplete of "crawl space encapsulation"
 - dehumidifier hacks · cheap hack · autocomplete of "dehumidifier hack"
 - whole house humidifier diy · cheap hack · autocomplete of "whole house humidifier"
 - do dehumidifiers work · myth · autocomplete of "don't dehumidifier"
@@ -3789,6 +4049,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - should i buy a dehumidifier · myth · autocomplete of "before you replace your dehumidifier"
 - basement dehumidifier installation · how-to · autocomplete of "basement dehumidifier"
 - basement dehumidifier with drain hose · how-to · autocomplete of "basement dehumidifier"
+- crawl space encapsulation install · how-to · autocomplete of "crawl space encapsulation"
+- crawl space encapsulation step by step · how-to · autocomplete of "crawl space encapsulation"
 - dehumidifier drain · how-to · autocomplete of "dehumidifier fall"
 - dehumidifier guide · how-to · autocomplete of "dehumidifier tips"
 - dehumidifier ices up fix · how-to · autocomplete of "dehumidifier winter"
@@ -3829,13 +4091,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - costway dehumidifier how to use · cost · autocomplete of "dehumidifier cost"
 - costway dehumidifier instructions · cost · autocomplete of "dehumidifier cost"
 - costway dehumidifier review · cost · autocomplete of "dehumidifier cost"
+- crawl space encapsulation cost · cost · autocomplete of "crawl space encapsulation"
 - dehumidifier cost to run · cost · autocomplete of "dehumidifier cost"
 - dehumidifier costco · cost · autocomplete of "dehumidifier cost"
 - dehumidifier costway · cost · autocomplete of "dehumidifier cost"
 
-### Indoor air (purifiers, mold, CO) (`indoor-air`, 78)
+### Indoor air (purifiers, mold, CO) (`indoor-air`, 81)
 
-- air purifier · plain topic · brief topic list
 - air purifier for dust · plain topic · autocomplete of "air purifier"
 - air purifier for smoke · plain topic · autocomplete of "air purifier"
 - air purifier levoit · plain topic · autocomplete of "air purifier"
@@ -3848,8 +4110,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air purifier review · plain topic · autocomplete of "air purifier"
 - air purifier sound · plain topic · autocomplete of "air purifier"
 - air purifier winter · plain topic · autocomplete of "air filter winter"
+- better air quality in home · plain topic · autocomplete of "before you indoor air quality"
 - carbon monoxide combustion · plain topic · autocomplete of "carbon monoxide furnace"
-- carbon monoxide furnace · plain topic · brief topic list
 - carbon monoxide heater · plain topic · autocomplete of "carbon monoxide furnace"
 - carbon monoxide hvac · plain topic · autocomplete of "carbon monoxide furnace"
 - carbon monoxide poisoning furnace · plain topic · autocomplete of "carbon monoxide furnace"
@@ -3860,9 +4122,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac air purifier system · plain topic · autocomplete of "hvac a"
 - hvac uv light · plain topic · autocomplete of "hvac u"
 - hvac uv light pros and cons · plain topic · autocomplete of "uv light hvac"
+- improve air quality in bedroom · plain topic · autocomplete of "before you indoor air quality"
 - indoor air pollutants · plain topic · autocomplete of "indoor air quality hack"
 - indoor air purifier plants · plain topic · autocomplete of "indoor air quality save money"
-- indoor air quality · plain topic · brief topic list
 - indoor air quality assessment · plain topic · autocomplete of "indoor air quality"
 - indoor air quality hvac · plain topic · autocomplete of "indoor air quality"
 - indoor air quality in schools · plain topic · autocomplete of "indoor air quality mistakes"
@@ -3893,6 +4155,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cheap air purifier for home · cheap hack · autocomplete of "cheap air filter"
 - cheap air purifier for room · cheap hack · autocomplete of "cheap air filter"
 - cheap air purifier review · cheap hack · autocomplete of "cheap air filter"
+- cheap air quality monitor · cheap hack · autocomplete of "cheap indoor air quality"
 - how to reduce indoor air pollution · cheap hack · autocomplete of "how to indoor air quality"
 - air purifier myth · myth · autocomplete of "air filter myth"
 - uv light hvac worth it · myth · autocomplete of "uv light hvac"
@@ -3900,21 +4163,24 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air purifier tips · how-to · autocomplete of "air filter tips"
 - furnace uv light installation · how-to · autocomplete of "furnace u"
 - how to check indoor air quality · how-to · autocomplete of "how to indoor air quality"
+- how to check room air quality · how-to · autocomplete of "how to indoor air quality"
 - how to improve indoor air quality · how-to · autocomplete of "indoor air quality tips"
 - how to sell indoor air quality · how-to · autocomplete of "indoor air quality save money"
+- how to test home air quality · how-to · autocomplete of "how to indoor air quality"
 - how to test indoor air quality · how-to · autocomplete of "how to indoor air quality"
 - hvac uv light installation · how-to · autocomplete of "hvac u"
 - indoor air quality test · how-to · autocomplete of "indoor air quality old house"
 - indoor air quality testing · how-to · autocomplete of "indoor air quality"
 - indoor air quality testing equipment · how-to · autocomplete of "indoor air quality"
 - replace uv light in hvac · how-to · autocomplete of "uv light hvac"
+- testing air quality in your home · how-to · autocomplete of "the only indoor air quality"
 - tips for improving indoor air quality · how-to · autocomplete of "indoor air quality tips"
 - uv light air purifier hvac · how-to · autocomplete of "uv light hvac"
 - uv light hvac installation · how-to · autocomplete of "uv light hvac"
 - air purifier cost · cost · autocomplete of "air filter cost"
 - air purifier costco · cost · autocomplete of "air filter cost"
 
-### Heat (and cooling) in a power outage (`outage-heat`, 83)
+### Heat (and cooling) in a power outage (`outage-heat`, 73)
 
 - ac generator · plain topic · autocomplete of "ac g"
 - furnace generator connection · plain topic · autocomplete of "generator furnace"
@@ -3933,9 +4199,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heating during power outage · plain topic · autocomplete of "cheap power outage heat"
 - hurricane power outage generator · plain topic · autocomplete of "cheap power outage heat"
 - lightning causes power outage · plain topic · autocomplete of "cheap power outage heat"
+- pellet stove power outage · plain topic · autocomplete of "pellet stove tax credit"
 - power outage battery backup · plain topic · autocomplete of "power outage heat save money"
 - power outage during thunderstorm · plain topic · autocomplete of "power outage heat myth"
-- power outage heat · plain topic · brief topic list
 - power outage heat source · plain topic · autocomplete of "power outage heat"
 - power outage heater · plain topic · autocomplete of "power outage heat"
 - power outage heating options · plain topic · autocomplete of "power outage heat"
@@ -3943,24 +4209,19 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - power outage must haves · plain topic · autocomplete of "power outage heat save money"
 - power outage winter storm · plain topic · autocomplete of "power outage heat winter"
 - rainbow furnace generator · plain topic · autocomplete of "generator furnace"
-- surviving a 36 hour power outage with the biggest ecoflow delta pro ultra - 30kwh!!!! · plain topic · Silver Cymbal title
-- thermal blackout curtains · plain topic · autocomplete of "thermal curtains"
+- staying warm during power outage · plain topic · autocomplete of "staying warm when the power is out"
 - what causes a power outage · plain topic · autocomplete of "power outage heat doesn't want you to know"
 - winter power outage heating · plain topic · autocomplete of "power outage heat"
 - ac not cooling after power outage · problem symptom · autocomplete of "ac not cooling"
-- furnace not working after power outage · problem symptom · autocomplete of "furnace not working"
 - hvac not working after power outage · problem symptom · autocomplete of "furnace not working"
+- power outage no heat · problem symptom · autocomplete of "power outage heat"
 - why is my generator leaking gas from the air filter · problem symptom · autocomplete of "why is my air filter"
 - why is my generator leaking oil from air filter · problem symptom · autocomplete of "why is my air filter"
-- thermal curtains vs blackout curtains · X vs Y · autocomplete of "thermal curtains"
-- cheap & easy way to connect a generator to your house - legal too! · cheap hack · Silver Cymbal title
 - diy power outage heater · cheap hack · autocomplete of "power outage heat"
-- easy diy generator transfer switch install - works with any portable gas or battery generator · cheap hack · Silver Cymbal title
 - free heat in winter · cheap hack · autocomplete of "heat your home all winter for free"
 - heat a room with no power · cheap hack · known title: 9 Ways I Keep One Room Warm With No Power (June's Kitchen Table, 151K)
 - heat house without electricity · cheap hack · brief topic list
 - heat house without power · cheap hack · autocomplete of "heat without power"
-- heat without power · cheap hack · brief topic list
 - heat your room without electricity · cheap hack · autocomplete of "heat house without electricity"
 - heating a home without electricity · cheap hack · autocomplete of "heat house without electricity"
 - heating food without power · cheap hack · autocomplete of "heat without power"
@@ -3978,31 +4239,25 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - keep your family warm during a power outage by installing this $5 part · cheap hack · autocomplete of "keep your family warm during a power outage"
 - keeping warm without power · cheap hack · autocomplete of "stay warm without power"
 - making heat without power · cheap hack · autocomplete of "heat without power"
-- power outage no heat · cheap hack · autocomplete of "power outage heat"
 - power outage tips and tricks · cheap hack · autocomplete of "power outage heat tips"
 - stay warm no power · cheap hack · autocomplete of "stay warm without power"
 - stay warm without electricity · cheap hack · autocomplete of "stay warm without power"
-- stay warm without power · cheap hack · brief topic list
 - thermostat has no power · cheap hack · autocomplete of "thermostat h"
 - thermostat no power · cheap hack · autocomplete of "thermostat n"
 - ways to heat without power · cheap hack · autocomplete of "heat without power"
 - ways to heat your house without electricity · cheap hack · autocomplete of "heat house without electricity"
-- how to connect a small generator to your house - safe & legal - run heat, fridge & more! · how-to · Silver Cymbal title
 - how to fix capacitor in generator · how-to · autocomplete of "how to fix capacitor"
 - how to fix power outage at home · how-to · autocomplete of "how to power outage heat"
 - how to heat house in power outage · how-to · autocomplete of "how to power outage heat"
 - how to keep house warm during power outage · how-to · autocomplete of "why is my keep house warm"
-- how to power your whole house with a battery generator - ecoflow delta pro · how-to · Silver Cymbal title
 - how to stay warm during a power outage · how-to · autocomplete of "before you power outage heat"
 - keep house warm during power outage · how-to · autocomplete of "keep house warm"
-- keep your family warm during a power outage · how-to · known title: Keep Your Family Warm During A Power Outage By Installing This $5 Part (The DIY HVAC Guy, 4.2M)
 - power outage what to do · how-to · autocomplete of "power outage heat tips"
 - this could keep your family warm during an emergency power outage · how-to · autocomplete of "keep your family warm during a power outage"
 - use this to keep your family warm during a winter power outage · how-to · autocomplete of "keep your family warm during a power outage"
 
-### Brand verdicts (`brands`, 62)
+### Brand verdicts (`brands`, 64)
 
-- 3 unknown features on mr cool mini split air conditioners · plain topic · Silver Cymbal title
 - ac brands comparison · plain topic · autocomplete of "ac brands worth buying"
 - air filter mitsubishi outlander · plain topic · autocomplete of "air filter m"
 - carrier heating and air conditioning · plain topic · autocomplete of "never do this air conditioning"
@@ -4017,11 +4272,10 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac brands reviews · plain topic · autocomplete of "hvac brands to avoid"
 - hvac york · plain topic · autocomplete of "hvac y"
 - is rheem a good air conditioner · plain topic · autocomplete of "before you turn on your hvac"
+- midea dual hose portable air conditioner · plain topic · autocomplete of "dual hose portable air conditioner"
 - mini split brand comparison · plain topic · autocomplete of "mini split companies hate"
 - most reliable hvac brands · plain topic · autocomplete of "best hvac brands"
-- this portable air conditioner blew me away - 14,000 btu midea smart inverter · plain topic · Silver Cymbal title
 - top hvac brands · plain topic · autocomplete of "best hvac brands"
-- ultimate home dehumidifier midea cube review · plain topic · Silver Cymbal title
 - york furnace · plain topic · autocomplete of "furnace y"
 - york furnace 3 red flashes · plain topic · autocomplete of "furnace y"
 - york heat pump defrost · plain topic · autocomplete of "heat pump y"
@@ -4029,6 +4283,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - york hvac reviews · plain topic · autocomplete of "hvac y"
 - york hvac system · plain topic · autocomplete of "hvac y"
 - goodman furnace problems · problem symptom · autocomplete of "furnace problems"
+- lg window air conditioner not cooling · problem symptom · autocomplete of "window air conditioner not cooling"
+- rheem central air conditioner not cooling · problem symptom · autocomplete of "central air conditioning not cooling"
 - york furnace troubleshooting · problem symptom · autocomplete of "furnace y"
 - york heat pump fan not working · problem symptom · autocomplete of "heat pump y"
 - york heat pump troubleshooting · problem symptom · autocomplete of "heat pump y"
@@ -4037,40 +4293,39 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - stop buying this hvac brand · mistakes · autocomplete of "stop hvac"
 - ac brands to avoid · the only X · autocomplete of "hvac brands to avoid"
 - ac brands worth buying · the only X · known title: The Only 4 AC Brands Worth Buying in 2026 (Vent Exposed, 666K)
-- best ac brands · the only X · brief topic list
 - best ac brands 2025 · the only X · autocomplete of "best ac brands"
 - best ac brands in the world · the only X · autocomplete of "best hvac brands"
 - best air conditioner brands · the only X · autocomplete of "best hvac brands"
-- best furnace brands · the only X · brief topic list
 - best furnace brands 2025 · the only X · autocomplete of "best furnace brands"
 - best furnace brands canada · the only X · autocomplete of "best furnace brands"
 - best gas furnace brands · the only X · autocomplete of "best furnace brands"
-- best heat pump brands · the only X · brief topic list
-- best hvac brands · the only X · brief topic list
 - best hvac brands consumer reports · the only X · autocomplete of "best hvac brands"
-- hvac brands to avoid · the only X · brief topic list
-- only hvac brands worth buying · the only X · known title: The Only 5 HVAC Brands Worth Buying (HVAC Exposed, 571-576K)
-- surviving the worst snow storm in 30 years · the only X · Silver Cymbal title
 - amana thermostat hack · cheap hack · autocomplete of "thermostat hack"
 - daikin thermostat hack · cheap hack · autocomplete of "thermostat hack"
-- install your own air conditioning in 4 hours! diy mini split mr cool · cheap hack · Silver Cymbal title
-- is the midea duo smart inverter portable air conditioner worth it? · myth · Silver Cymbal title
 - clean coils goodman air conditioner · how-to · autocomplete of "before you condenser coil"
+- cleaning mitsubishi mini split condenser · how-to · autocomplete of "clean mini split condenser"
+- how to change a goodman furnace filter · how-to · autocomplete of "change furnace filter the right way"
+- how to change furnace filter lennox · how-to · autocomplete of "change furnace filter the right way"
 - how to clean a rheem oil furnace · how-to · autocomplete of "how to clean oil furnace"
 - how to clean midea dehumidifier filter · how-to · autocomplete of "how to clean dehumidifier"
-- how to install a mr cool 18,000 btu ac in just 1 day! · how-to · Silver Cymbal title
 - how to turn on a goodman heater · how-to · autocomplete of "before you turn on your furnace"
-- midea 8,000 btu u shaped smart inverter window ac installation & review · how-to · Silver Cymbal title
+- mr cool cassette mini split installation · how-to · autocomplete of "mr cool mini split install"
+- mr cool mini split install · how-to · Silver Cymbal title: "How to Install a Mr Cool 18,000 BTU AC in Just 1 Day!" (zvFKD95z7IM, 1,296,956)
+- mrcool mini split installation · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation 12k · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation 18k · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation 2 zone · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation 36k · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation 4 zone · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation electrical · how-to · autocomplete of "mr cool mini split install"
+- mrcool mini split installation interior wall · how-to · autocomplete of "mr cool mini split install"
 - york heat pump wiring · how-to · autocomplete of "heat pump y"
 - midea air conditioner costco · cost · autocomplete of "air conditioning cost"
 - mitsubishi mini split cost · cost · autocomplete of "mini split cost"
 
-### Refrigerant / Freon (`refrigerant`, 64)
+### Refrigerant / Freon (`refrigerant`, 61)
 
-- ac losing freon · plain topic · autocomplete of "ac mistakes"
-- ac recharge · plain topic · brief topic list
 - air conditioner without refrigerant · plain topic · autocomplete of "air conditioning save money"
-- freon · plain topic · brief topic list
 - freon 32 · plain topic · autocomplete of "freon myth"
 - freon burn · plain topic · autocomplete of "freon mistakes"
 - freon freon · plain topic · autocomplete of "freon mistakes"
@@ -4132,13 +4387,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - r22 refrigerant replacement · how-to · autocomplete of "r22"
 - r410a refrigerant cost · cost · autocomplete of "r410a"
 
-### AC freezing up (`ac-freezing`, 86)
+### AC freezing up (`ac-freezing`, 84)
 
 - ac coil freezing up · problem symptom · autocomplete of "ac freezing up"
 - ac evaporator freezing up · problem symptom · autocomplete of "ac freezing up"
 - ac freezes up inside · problem symptom · autocomplete of "ac freezing up"
 - ac freezing problem · problem symptom · autocomplete of "ac freezing up myth"
-- ac freezing up · problem symptom · brief topic list
 - ac freezing up inside house · problem symptom · autocomplete of "ac freezing up"
 - ac frozen · problem symptom · brief topic list
 - ac frozen coil · problem symptom · autocomplete of "ac frozen"
@@ -4172,8 +4426,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - frozen ac unit · problem symptom · autocomplete of "ac frozen"
 - frozen evap coil · problem symptom · autocomplete of "frozen evaporator coil"
 - frozen evap coil troubleshooting · problem symptom · autocomplete of "frozen evaporator coil"
-- frozen evaporator coil · problem symptom · brief topic list
 - frozen evaporator coil ac · problem symptom · autocomplete of "frozen evaporator coil"
+- heat pump cover for ice and snow · problem symptom · autocomplete of "heat pump c"
+- heat pump cover for ice protection · problem symptom · autocomplete of "heat pump c"
 - heat pump during ice storm · problem symptom · autocomplete of "heat pump d"
 - heat pump freezing up · problem symptom · autocomplete of "heat pump f"
 - heat pump freezing up ice on coil · problem symptom · autocomplete of "heat pump f"
@@ -4188,7 +4443,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix ac freezing up · problem symptom · autocomplete of "how to ac freezing up"
 - how to fix dehumidifier freezing up · problem symptom · autocomplete of "how to fix dehumidifier"
 - how to fix frozen heat pump · problem symptom · autocomplete of "how to fix heat pump"
-- how to prevent pipes freezing in your house or rv - heat tape · problem symptom · Silver Cymbal title
 - how to stop ac unit from freezing up · problem symptom · autocomplete of "how to ac freezing up"
 - how to stop dehumidifier from icing up · problem symptom · autocomplete of "stop dehumidifier"
 - how to stop my window ac from freezing up · problem symptom · autocomplete of "how to ac freezing up"
@@ -4207,7 +4461,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - why do air conditioners freeze up · problem symptom · autocomplete of "never do this air conditioning"
 - why does my dehumidifier freeze up · problem symptom · autocomplete of "why is my dehumidifier"
 - why does my mini split keep freezing · problem symptom · autocomplete of "why is my mini split"
-- why is my ac freezing up · problem symptom · autocomplete of "why is my ac"
 - why is my air conditioner freezing up · problem symptom · autocomplete of "why is my air conditioning"
 - why is my dehumidifier freezing up · problem symptom · autocomplete of "why is my dehumidifier"
 - why is my heat pump freezing up · problem symptom · autocomplete of "why is my heat pump"
@@ -4221,13 +4474,46 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - window air conditioner freezing up · problem symptom · autocomplete of "window air conditioner"
 - ice cube don't heaters · mistakes · autocomplete of "don't heater"
 
-### Short cycling (`short-cycling`, 3)
+### Short cycling (`short-cycling`, 36)
 
-- ac short cycling · problem symptom · brief topic list
-- furnace short cycling · problem symptom · brief topic list
-- short cycling · problem symptom · brief topic list
+- ac condenser short cycling · problem symptom · autocomplete of "ac short cycling"
+- ac short cycling fix · problem symptom · autocomplete of "ac short cycling"
+- ac unit short cycling fix · problem symptom · autocomplete of "ac short cycling"
+- boiler short cycling · problem symptom · autocomplete of "furnace short cycling"
+- boiler short cycling fix · problem symptom · autocomplete of "furnace short cycling"
+- furnace keeps short cycling · problem symptom · autocomplete of "furnace k"
+- furnace short cycling fix · problem symptom · autocomplete of "furnace short cycling"
+- furnace short cycling limit switch · problem symptom · autocomplete of "furnace short cycling"
+- furnace short cycling sound · problem symptom · autocomplete of "furnace short cycling"
+- goodman ac short cycling · problem symptom · autocomplete of "ac short cycling"
+- goodman furnace short cycling · problem symptom · autocomplete of "furnace short cycling"
+- heat pump short cycling · problem symptom · autocomplete of "heat pump s"
+- heat pump short cycling in heat mode only · problem symptom · autocomplete of "heat pump s"
+- heater short cycling · problem symptom · autocomplete of "furnace short cycling"
+- how to fix ac short cycling · problem symptom · autocomplete of "how to short cycling"
+- how to fix furnace short cycling · problem symptom · autocomplete of "how to fix furnace"
+- how to fix short cycling air conditioner · problem symptom · autocomplete of "how to short cycling"
+- how to fix short cycling furnace · problem symptom · autocomplete of "how to short cycling"
+- how to fix short cycling well pump · problem symptom · autocomplete of "how to short cycling"
+- how to short cycle chain · problem symptom · autocomplete of "how to short cycling"
+- hvac short cycling · problem symptom · autocomplete of "furnace short cycling"
+- oil furnace short cycling · problem symptom · autocomplete of "furnace short cycling"
+- portable ac short cycling · problem symptom · autocomplete of "ac short cycling"
+- short cycling ac · problem symptom · autocomplete of "short cycling hack"
+- short cycling ac unit · problem symptom · autocomplete of "short cycling"
+- short cycling air conditioner · problem symptom · autocomplete of "short cycling"
+- short cycling boiler · problem symptom · autocomplete of "short cycling"
+- short cycling compressor · problem symptom · autocomplete of "short cycling"
+- short cycling furnace · problem symptom · autocomplete of "short cycling"
+- short cycling heat pump · problem symptom · autocomplete of "short cycling"
+- short cycling water pump · problem symptom · autocomplete of "short cycling"
+- short cycling well pump · problem symptom · autocomplete of "short cycling"
+- short cycling workout · problem symptom · autocomplete of "short cycling"
+- why is my furnace short cycling · problem symptom · autocomplete of "why is my furnace"
+- why is my heat pump short cycling · problem symptom · autocomplete of "why is my heat pump"
+- window ac short cycling · problem symptom · autocomplete of "ac short cycling"
 
-### Smells (`smells`, 33)
+### Smells (`smells`, 30)
 
 - ac smell · problem symptom · brief topic list
 - ac smells bad · problem symptom · autocomplete of "ac smell"
@@ -4242,10 +4528,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - burning smell from ac vents in house · problem symptom · autocomplete of "smell from vents"
 - burning smell from furnace · problem symptom · autocomplete of "burning smell furnace"
 - burning smell from heater vents in house · problem symptom · autocomplete of "smell from vents"
-- burning smell furnace · problem symptom · brief topic list
 - furnace burning smell · problem symptom · autocomplete of "furnace smell mistakes"
 - furnace burnt smell · problem symptom · autocomplete of "furnace smell mistakes"
-- furnace smell · problem symptom · brief topic list
 - furnace smells · problem symptom · autocomplete of "furnace save money"
 - furnace smells like burning · problem symptom · autocomplete of "furnace smell"
 - furnace smells like burning plastic · problem symptom · autocomplete of "furnace smell"
@@ -4261,9 +4545,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - sewer smell from ac vents · problem symptom · autocomplete of "smell from vents"
 - smell from ac vents in house · problem symptom · autocomplete of "smell from vents"
 - smell from vents · problem symptom · brief topic list
-- when your cars interior smells funky - check this first · problem symptom · Silver Cymbal title
 
-### Noises (`noises`, 114)
+### Noises (`noises`, 112)
 
 - air filter whistle · plain topic · autocomplete of "air filter w"
 - heat pump vibration · plain topic · autocomplete of "heat pump v"
@@ -4271,7 +4554,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ac compressor noise · problem symptom · autocomplete of "ac c"
 - ac fan noise · problem symptom · autocomplete of "ac f"
 - ac makes noise when turning off · problem symptom · autocomplete of "ac making noise"
-- ac making noise · problem symptom · brief topic list
 - ac making noise inside house · problem symptom · autocomplete of "ac making noise"
 - ac making noise when off · problem symptom · autocomplete of "ac making noise"
 - ac making noise when turned on · problem symptom · autocomplete of "ac making noise"
@@ -4288,7 +4570,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air conditioner noise · problem symptom · autocomplete of "air conditioner"
 - air filter noise · problem symptom · autocomplete of "air filter n"
 - attic fan noise · problem symptom · autocomplete of "attic fan"
-- banging radiator · problem symptom · brief topic list
 - banging radiator noise · problem symptom · autocomplete of "banging radiator"
 - banging steam radiator · problem symptom · autocomplete of "banging radiator"
 - blower motor noise · problem symptom · autocomplete of "blower motor"
@@ -4302,6 +4583,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace banging noise · problem symptom · autocomplete of "furnace noise"
 - furnace blower motor noise · problem symptom · autocomplete of "furnace b"
 - furnace buzzing noise · problem symptom · autocomplete of "furnace noise"
+- furnace exhaust fan noise · problem symptom · autocomplete of "furnace noise mistakes"
 - furnace fan noise · problem symptom · autocomplete of "furnace noise mistakes"
 - furnace humming noise · problem symptom · autocomplete of "furnace noise"
 - furnace inducer motor noise · problem symptom · autocomplete of "furnace i"
@@ -4316,7 +4598,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - furnace making humming noise · problem symptom · autocomplete of "furnace m"
 - furnace making loud noise · problem symptom · autocomplete of "furnace m"
 - furnace making noise · problem symptom · autocomplete of "furnace m"
-- furnace noise · problem symptom · brief topic list
 - furnace noise sleep · problem symptom · autocomplete of "furnace noise hack"
 - furnace noise when running · problem symptom · autocomplete of "furnace noise"
 - furnace noise when starting · problem symptom · autocomplete of "furnace noise"
@@ -4380,7 +4661,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to reduce furnace noise · cheap hack · autocomplete of "cheap furnace noise"
 - how to stop ceiling fan vibration · how-to · autocomplete of "stop ceiling fan"
 
-### HVAC scams, upsells, contractors (`scams-upsells`, 85)
+### HVAC scams, upsells, contractors (`scams-upsells`, 79)
 
 - being a hvac technician · plain topic · autocomplete of "beating the hvac industry"
 - hvac companies · plain topic · brief topic list
@@ -4418,6 +4699,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - what hvac technicians do · plain topic · autocomplete of "hvac technicians"
 - young hvac tech · plain topic · autocomplete of "hvac y"
 - best hvac companies to work for · the only X · autocomplete of "hvac companies"
+- top 5 things ac companies don't want you to know · the only X · autocomplete of "hvac companies don't want you to know"
+- top 7 things ac companies don't want you to know · the only X · autocomplete of "hvac companies don't want you to know"
 - air conditioner scam · they don't want you to know · autocomplete of "air conditioning scam"
 - air conditioning scams · they don't want you to know · autocomplete of "air conditioning scam"
 - air duct cleaning scams · they don't want you to know · autocomplete of "air ducts save money"
@@ -4426,8 +4709,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - air filter scam · they don't want you to know · autocomplete of "air filter scam"
 - air purifier scam · they don't want you to know · autocomplete of "air filter scam"
 - air vent cleaning scams · they don't want you to know · autocomplete of "air ducts mistakes"
-- beating the hvac industry · they don't want you to know · known title: How Smart Homeowners Are Beating the HVAC Industry (HVAC Exposed, 381K)
-- duct cleaning scams · they don't want you to know · autocomplete of "duct cleaning"
 - electric bill scam · they don't want you to know · autocomplete of "electric bill"
 - fake electricity bill scam podcast · they don't want you to know · autocomplete of "electric bill scam"
 - furnace scam · they don't want you to know · autocomplete of "furnace hack"
@@ -4435,18 +4716,13 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat exchanger scam · they don't want you to know · autocomplete of "heat scam"
 - heat pump scam · they don't want you to know · autocomplete of "heat pump scam"
 - hepa air filter scam · they don't want you to know · autocomplete of "air filter scam"
-- hvac companies don't want you to know · they don't want you to know · known title: HVAC Companies HATE That You Can Do This Yourself (739K)
-- hvac companies hate · they don't want you to know · known title: HVAC Companies HATE That You Can Do This Yourself (739K)
 - hvac contractors hate me for showing you this · they don't want you to know · autocomplete of "hvac contractor"
-- hvac scam · they don't want you to know · brief topic list
-- hvac scam caught on camera · they don't want you to know · autocomplete of "furnace scam"
 - hvac scammer · they don't want you to know · autocomplete of "furnace scam"
 - hvac scammer caught · they don't want you to know · autocomplete of "hvac scam"
 - hvac scammers · they don't want you to know · autocomplete of "hvac scams"
 - hvac scams · they don't want you to know · brief topic list
 - hvac scams caught · they don't want you to know · autocomplete of "hvac scam"
 - hvac technician sales secrets · they don't want you to know · autocomplete of "hvac secrets"
-- hvac upsell · they don't want you to know · brief topic list
 - hvac upselling · they don't want you to know · autocomplete of "hvac upsell"
 - insulation scam · they don't want you to know · autocomplete of "insulation scam"
 - loft insulation scam · they don't want you to know · autocomplete of "insulation scam"
@@ -4456,7 +4732,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - portable air conditioner scam · they don't want you to know · autocomplete of "air conditioning scam"
 - portable heater scam · they don't want you to know · autocomplete of "space heater scam"
 - spray foam insulation scam · they don't want you to know · autocomplete of "insulation scam"
-- the hvac company, the service call, the upsell, the bill-sender, the last owner or the flipper, insider · they don't want you to know · Silver Cymbal title
 - utility companies hate · they don't want you to know · known title: The Utility Company HATES This Air Conditioner (317K)
 - diy hvac guy furnace · cheap hack · autocomplete of "hvac diy"
 - diy hvac guy mini split · cheap hack · autocomplete of "hvac diy"
@@ -4468,7 +4743,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac quote · cost · brief topic list
 - hvac technician pay · cost · autocomplete of "hvac technician"
 
-### Replacement cost, repair or replace (`replacement-cost`, 66)
+### Replacement cost, repair or replace (`replacement-cost`, 64)
 
 - new furnace · plain topic · autocomplete of "new furnace cost"
 - how to install new hvac system · how-to · autocomplete of "how to hvac replacement cost"
@@ -4517,17 +4792,15 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac cost installation estimate · cost · autocomplete of "furnace cost"
 - hvac installation cost · cost · autocomplete of "hvac replacement cost"
 - hvac price book · cost · autocomplete of "hvac scam tips"
-- hvac replacement cost · cost · brief topic list
 - hvac system cost · cost · autocomplete of "hvac replacement cost"
+- low cost air conditioner · cost · autocomplete of "cheapest air conditioner"
 - low price window ac · cost · autocomplete of "cheap window ac"
+- mini portable ac price · cost · autocomplete of "tiny portable ac"
 - mini split ac cost · cost · autocomplete of "mini split cost"
 - mini split cost · cost · autocomplete of "mini split cost"
-- mini split cost installed · cost · autocomplete of "mini split cost"
 - mini split cost to run · cost · autocomplete of "mini split cost"
 - mini split costway · cost · autocomplete of "mini split cost"
-- new ac cost · cost · brief topic list
 - new ac unit cost · cost · autocomplete of "new ac cost"
-- new furnace cost · cost · brief topic list
 - octopus heat pump cost · cost · autocomplete of "heat pump cost"
 - portable air conditioner costway · cost · autocomplete of "air conditioning cost"
 - vrf air conditioning system cost · cost · autocomplete of "air conditioning cost"
@@ -4541,7 +4814,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 
 - affordable wood stove · plain topic · autocomplete of "cheap wood stove"
 - drafty fireplace · plain topic · autocomplete of "drafty house"
-- everyone will be buying pellet stoves after learning this news · plain topic · Silver Cymbal title
 - fireplace heat · plain topic · brief topic list
 - fireplace heat deflector · plain topic · autocomplete of "fireplace heat"
 - fireplace heat exchanger · plain topic · autocomplete of "fireplace heat"
@@ -4561,11 +4833,11 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - log burner stove · plain topic · autocomplete of "lower wood stove bill"
 - lopi leyden wood stove · plain topic · autocomplete of "lower wood stove bill"
 - lowes wood stove · plain topic · autocomplete of "lower wood stove bill"
-- pellet stove · plain topic · brief topic list
 - pellet stove in basement · plain topic · autocomplete of "pellet stove"
 - pellet stove in garage · plain topic · autocomplete of "pellet stove"
 - pellet stove insert · plain topic · autocomplete of "pellet stove"
 - pellet stove review · plain topic · autocomplete of "pellet stove"
+- pellet stove tax credit · plain topic · Silver Cymbal title: [borderline, lean include] "Everyone will be buying pellet stoves after learning this news" (9d9TL02idO4, 1,399,618)
 - stove black for wood stoves · plain topic · autocomplete of "stop wood stove"
 - the most efficient wood stove · plain topic · autocomplete of "the only wood stove"
 - the ultimate wood stove · plain topic · autocomplete of "the only wood stove"
@@ -4582,9 +4854,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - wood burning stove in garage · plain topic · autocomplete of "wood burning stove"
 - wood burning stove insert · plain topic · autocomplete of "wood burning stove"
 - wood burning stove tutorial · plain topic · autocomplete of "wood stove spring"
-- wood stove · plain topic · brief topic list
 - wood stove 101 · plain topic · autocomplete of "wood stove trick"
 - wood stove burn time · plain topic · autocomplete of "never do this wood stove"
+- wood stove cabin snow · plain topic · autocomplete of "wood stove winter"
 - wood stove chimney oven · plain topic · autocomplete of "wood stove fall"
 - wood stove fan · plain topic · autocomplete of "wood stove"
 - wood stove for heat · plain topic · autocomplete of "wood stove hack"
@@ -4604,11 +4876,15 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - wood stove restoration · plain topic · autocomplete of "wood stove"
 - wood stove review · plain topic · autocomplete of "wood stove scam"
 - wood stove starting a fire · plain topic · autocomplete of "save money wood stove"
+- wood stove tax credit · plain topic · autocomplete of "pellet stove tax credit"
 - wood stove this old house · plain topic · autocomplete of "wood stove old house"
 - wood stove winter · plain topic · autocomplete of "wood stove winter"
 - wood stove winter camping · plain topic · autocomplete of "wood stove winter"
+- wood stoves for cabins · plain topic · autocomplete of "wood stove summer"
 - wood stoves for homes · plain topic · autocomplete of "wood stove myth"
 - fireplace heater not working · problem symptom · autocomplete of "fireplace heat"
+- pp130 pellet stove troubleshooting · problem symptom · autocomplete of "pellet stove tax credit"
+- stove turns on but no heat · problem symptom · autocomplete of "never do this heater"
 - why is my wood stove blowing smoke into house · problem symptom · autocomplete of "why is my wood stove"
 - why is my wood stove smoking · problem symptom · autocomplete of "why is my wood stove"
 - wood burner not getting hot enough · problem symptom · autocomplete of "wood stove doesn't want you to know"
@@ -4617,7 +4893,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - wood stove problems · problem symptom · autocomplete of "wood stove problems"
 - wood stove troubleshooting · problem symptom · autocomplete of "wood stove problems"
 - wood stove won't stay lit · problem symptom · autocomplete of "wood stove doesn't want you to know"
-- wood stove mistakes · mistakes · autocomplete of "wood stove mistakes"
 - pellet stove vs wood stove · X vs Y · autocomplete of "pellet stove"
 - wood stove vs coal stove · X vs Y · autocomplete of "wood stove vs"
 - wood stove vs diesel heater · X vs Y · autocomplete of "wood stove vs"
@@ -4640,7 +4915,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - fireplace heat exchanger diy · cheap hack · autocomplete of "fireplace heat"
 - fireplace insert diy · cheap hack · autocomplete of "fireplace insert"
 - smoke free wood stove · cheap hack · autocomplete of "save money wood stove"
-- stove turns on but no heat · cheap hack · autocomplete of "never do this heater"
 - wood burning stove hacks · cheap hack · autocomplete of "wood stove hack"
 - wood stove hacks · cheap hack · autocomplete of "wood stove hack"
 - wood stove tips and tricks · cheap hack · autocomplete of "wood stove tips"
@@ -4671,7 +4945,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to make wood stove at home · how-to · autocomplete of "how to wood stove"
 - how to make wood stove without smoke · how-to · autocomplete of "how to wood stove"
 - how to repair wood stove · how-to · autocomplete of "how to fix wood stove"
-- how to restore a wood stove the easy way - like new in minutes · how-to · Silver Cymbal title
 - how to seal a wood stove · how-to · autocomplete of "how to fix wood stove"
 - how to seal a wood stove door · how-to · autocomplete of "how to fix wood stove"
 - how to seal wood stove pipe · how-to · autocomplete of "how to fix wood stove"
@@ -4700,7 +4973,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - wood burning stove cost · cost · autocomplete of "wood stove cost"
 - wood stove cost · cost · autocomplete of "wood stove cost"
 
-### Space heaters (`space-heater`, 250)
+### Space heaters (`space-heater`, 243)
 
 - don mcglashan the heater · plain topic · autocomplete of "don't heater"
 - don number heater · plain topic · autocomplete of "don't heater"
@@ -4730,7 +5003,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heater summer · plain topic · autocomplete of "heater summer"
 - heater that consume less electricity · plain topic · autocomplete of "before you heating bill"
 - heater winter · plain topic · autocomplete of "heater winter"
-- how safe are dreo electric space heaters? · plain topic · Silver Cymbal title
 - hvac heater hose connector · plain topic · autocomplete of "hvac h"
 - kerosene heater · plain topic · brief topic list
 - kerosene heater camping · plain topic · autocomplete of "kerosene heater"
@@ -4745,6 +5017,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - low wattage electric heater · plain topic · autocomplete of "lower space heater bill"
 - low wattage space heater · plain topic · autocomplete of "lower space heater bill"
 - mythbusters heater · plain topic · autocomplete of "heater myth"
+- mythbusters heater explosion · plain topic · autocomplete of "heater myth"
 - old heater in house · plain topic · autocomplete of "heater old house"
 - old house heater · plain topic · autocomplete of "old house boiler"
 - power out heater · plain topic · autocomplete of "power outage heat"
@@ -4757,7 +5030,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - room heater spring · plain topic · autocomplete of "space heater spring"
 - room heater spring connection · plain topic · autocomplete of "space heater spring"
 - room heater winter · plain topic · autocomplete of "space heater winter"
-- space heater · plain topic · brief topic list
 - space heater band · plain topic · autocomplete of "space heater spring"
 - space heater comparison · plain topic · autocomplete of "space heater cost"
 - space heater fire · plain topic · autocomplete of "space heater"
@@ -4836,7 +5108,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - room heater vs · X vs Y · autocomplete of "space heater vs"
 - room heater vs ac · X vs Y · autocomplete of "space heater vs"
 - room heater vs blower · X vs Y · autocomplete of "space heater vs"
-- space heater vs central heat · X vs Y · brief topic list
 - space heater vs space godzilla · X vs Y · autocomplete of "space heater vs"
 - best cheap heater for home · the only X · autocomplete of "cheap heater"
 - best cheap space heater · the only X · autocomplete of "cheap space heater"
@@ -4865,21 +5136,17 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - room heater tricks · cheap hack · autocomplete of "space heater trick"
 - space heater hack · cheap hack · autocomplete of "space heater trick"
 - space heater hacks · cheap hack · autocomplete of "space heater hack"
-- space heater save money · cheap hack · autocomplete of "space heater save money"
 - do space heaters save money · myth · autocomplete of "space heater save money"
 - how do space heaters work · myth · autocomplete of "how to space heater"
 - room heater myth · myth · autocomplete of "space heater myth"
 - blue heater tips · how-to · autocomplete of "heater tips"
 - buddy heater tips · how-to · autocomplete of "heater tips"
 - diesel heater tips · how-to · autocomplete of "heater tips"
-- easy way to flush your hot water heater tank · how-to · Silver Cymbal title
-- easy way to flush your hot water heater using air - sediment buster · how-to · Silver Cymbal title
 - electric heater repair · how-to · autocomplete of "electric heater"
 - fixing a space heater · how-to · autocomplete of "before you replace your space heater"
 - heater spring change · how-to · autocomplete of "heater spring"
 - heater tips · how-to · autocomplete of "heater tips"
 - how to change room heater rod · how-to · autocomplete of "how to space heater"
-- how to clean & flush tankless hot water heaters with vinegar! · how-to · Silver Cymbal title
 - how to clean a propane space heater · how-to · autocomplete of "how to clean space heater"
 - how to clean bajaj room heater · how-to · autocomplete of "how to clean space heater"
 - how to clean dreo space heater · how-to · autocomplete of "how to clean space heater"
@@ -4908,7 +5175,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix room heater rod · how-to · autocomplete of "how to fix space heater"
 - how to fix room heater stand · how-to · autocomplete of "how to fix space heater"
 - how to fix space heater · how-to · autocomplete of "how to fix space heater"
-- how to heat a small shop with a built in diesel wall heater · how-to · Silver Cymbal title
 - how to heater · how-to · autocomplete of "how to heater"
 - how to heater at home · how-to · autocomplete of "how to heater"
 - how to heater connection · how-to · autocomplete of "how to heater"
@@ -4953,10 +5219,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - space heater cost · cost · autocomplete of "space heater cost"
 - winter heater for room price · cost · autocomplete of "heater winter"
 
-### Ceiling fans and fans (`ceiling-fan`, 213)
+### Ceiling fans and fans (`ceiling-fan`, 208)
 
-- ac fan · plain topic · autocomplete of "ac f"
-- ac fan not spinning · plain topic · autocomplete of "ac f"
+- ac infinity exhaust fan · plain topic · autocomplete of "ac i"
 - ask this old house ceiling fan · plain topic · autocomplete of "old house ceiling fan"
 - ceiling fan · plain topic · brief topic list
 - ceiling fan abused · plain topic · autocomplete of "ceiling fan mistakes"
@@ -4964,7 +5229,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ceiling fan companies · plain topic · autocomplete of "ceiling fan companies hate"
 - ceiling fan counterclockwise summer · plain topic · autocomplete of "ceiling fan winter"
 - ceiling fan destruction · plain topic · autocomplete of "ceiling fan"
-- ceiling fan direction · plain topic · brief topic list
 - ceiling fan direction during summer · plain topic · autocomplete of "ceiling fan direction"
 - ceiling fan direction explained · plain topic · autocomplete of "ceiling fan direction"
 - ceiling fan direction for summer · plain topic · autocomplete of "ceiling fan direction"
@@ -4979,6 +5243,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ceiling fan falling down · plain topic · autocomplete of "ceiling fan"
 - ceiling fan falling down compilation · plain topic · autocomplete of "ceiling fan fall"
 - ceiling fan falling down electro demolish · plain topic · autocomplete of "ceiling fan fall"
+- ceiling fan falling down shorts · plain topic · autocomplete of "ceiling fan fall"
 - ceiling fan falling on people · plain topic · autocomplete of "ceiling fan fall"
 - ceiling fan falling video · plain topic · autocomplete of "ceiling fan fall"
 - ceiling fan for low ceiling · plain topic · autocomplete of "lower ceiling fan bill"
@@ -5006,7 +5271,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ceiling fan switch summer winter · plain topic · autocomplete of "ceiling fan winter"
 - ceiling fan u hook · plain topic · autocomplete of "ceiling fan trick"
 - ceiling fan vst · plain topic · autocomplete of "ceiling fan vs"
-- ceiling fan winter · plain topic · brief topic list
 - ceiling fan winter direction · plain topic · autocomplete of "ceiling fan winter"
 - ceiling fan winter mode · plain topic · autocomplete of "ceiling fan winter"
 - ceiling fan with ac · plain topic · autocomplete of "ceiling fan hack"
@@ -5031,7 +5295,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - fan cooling usb · plain topic · autocomplete of "fan cooling"
 - fan cooling vest · plain topic · autocomplete of "fan cooling"
 - heater fans · plain topic · autocomplete of "heater scam"
-- hvac fan not spinning · plain topic · autocomplete of "hvac f"
 - indoor air quality fan · plain topic · autocomplete of "indoor air quality"
 - low profile ceiling fan · plain topic · autocomplete of "lower ceiling fan bill"
 - mythbusters ceiling fan · plain topic · autocomplete of "ceiling fan myth"
@@ -5061,19 +5324,17 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ceiling fan spring problem · problem symptom · autocomplete of "ceiling fan spring"
 - ceiling fan troubleshooting · problem symptom · autocomplete of "ceiling fan problems"
 - ceiling fan wind problem · problem symptom · autocomplete of "ceiling fan winter"
+- central air conditioner fan not working · problem symptom · autocomplete of "central air conditioning not cooling"
 - electric fan problems and solutions · problem symptom · autocomplete of "ceiling fan problems"
-- furnace fan not working · problem symptom · autocomplete of "furnace f"
+- furnace no heat but fan runs · problem symptom · autocomplete of "boiler no heat"
 - how to fix ceiling fan light not working · problem symptom · autocomplete of "how to fix ceiling fan"
 - how to fix ceiling fan remote not working · problem symptom · autocomplete of "how to fix ceiling fan"
-- why is my ac fan not spinning · problem symptom · autocomplete of "why is my ac"
 - why is my ceiling fan light not working · problem symptom · autocomplete of "why is my ceiling fan"
 - why is my ceiling fan not spinning · problem symptom · autocomplete of "why is my ceiling fan"
 - why is my ceiling fan not working · problem symptom · autocomplete of "why is my ceiling fan"
 - why is my ceiling fan spinning so slow · problem symptom · autocomplete of "why is my ceiling fan"
 - why is my ceiling fan squeaking · problem symptom · autocomplete of "why is my ceiling fan"
 - why is my ceiling fan wobbling · problem symptom · autocomplete of "why is my ceiling fan"
-- why is my furnace fan not turning off · problem symptom · autocomplete of "why is my furnace"
-- why is my hvac fan not working · problem symptom · autocomplete of "why is my hvac"
 - ceiling fan mistake · mistakes · autocomplete of "ceiling fan mistakes"
 - ceiling fan wrong direction · mistakes · autocomplete of "ceiling fan mistakes"
 - ceiling fan wrong kara · mistakes · autocomplete of "ceiling fan mistakes"
@@ -5090,6 +5351,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - ceiling fan vs tower fan · X vs Y · autocomplete of "ceiling fan vs"
 - ceiling fan vs wall fan · X vs Y · autocomplete of "ceiling fan vs"
 - ceiling fan winter vs summer settings · X vs Y · autocomplete of "ceiling fan winter"
+- dehumidifier vs exhaust fan · X vs Y · autocomplete of "dehumidifier vs"
 - fan cooling vs liquid cooling · X vs Y · autocomplete of "fan cooling"
 - heater vs fan · X vs Y · autocomplete of "heater vs"
 - best type of ceiling fan · the only X · autocomplete of "before you ceiling fan"
@@ -5153,7 +5415,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to fix ceiling fan light pull chain · how-to · autocomplete of "how to fix ceiling fan"
 - how to fix ceiling fan not spinning · how-to · autocomplete of "how to fix ceiling fan"
 - how to fix ceiling fan wobble · how-to · autocomplete of "how to fix ceiling fan"
-- how to fix furnace fan · how-to · autocomplete of "how to furnace noise"
 - how to replace your ceiling fan · how-to · autocomplete of "before you replace your ceiling fan"
 - how to stop ceiling fan from shaking · how-to · autocomplete of "stop ceiling fan"
 - how to stop ceiling fan sound · how-to · autocomplete of "stop ceiling fan"
@@ -5169,13 +5430,15 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - costco heater fan · cost · autocomplete of "heater cost"
 - low cost ceiling fan · cost · autocomplete of "cheap ceiling fan"
 
-### Attic fans, whole-house fans, hot attics (`attic-fan`, 83)
+### Attic fans, whole-house fans, hot attics (`attic-fan`, 88)
 
 - ask this old house attic fan · plain topic · autocomplete of "old house attic fan"
 - attic cooling · plain topic · autocomplete of "attic fan winter"
 - attic cooling fan · plain topic · autocomplete of "attic fan hack"
-- attic fan · plain topic · brief topic list
+- attic exhaust fan · plain topic · autocomplete of "attic fan seniors"
+- attic exhaust fans · plain topic · autocomplete of "attic fan winter"
 - attic fan benefits · plain topic · autocomplete of "attic fan scam"
+- attic fan cover · plain topic · autocomplete of "attic fan"
 - attic fan ideas · plain topic · autocomplete of "attic fan hack"
 - attic fan in garage · plain topic · autocomplete of "attic fan companies hate"
 - attic fan results · plain topic · autocomplete of "attic fan vs"
@@ -5192,7 +5455,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - attic ventilation system · plain topic · autocomplete of "attic ventilation"
 - attic ventilation without soffits · plain topic · autocomplete of "attic ventilation"
 - attica hot soup · plain topic · autocomplete of "hot attic"
-- cool your attic · plain topic · known title: This $0 Fix Cools Your Attic by 55F. Why Don't Roofers Tell You? (Candlelight Archives, 586K)
 - cooling an attic · plain topic · autocomplete of "cool your attic"
 - cooling your attic · plain topic · autocomplete of "cool your attic"
 - furnace in attic · plain topic · autocomplete of "furnace old house"
@@ -5208,26 +5470,30 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - this old house attic fan · plain topic · autocomplete of "the only attic fan"
 - this old house whole house fan · plain topic · autocomplete of "old house attic fan"
 - whole house attic fans · plain topic · autocomplete of "the only attic fan"
-- whole house fan · plain topic · brief topic list
+- whole house fan cover · plain topic · autocomplete of "whole house fan"
 - whole house fan how it works · plain topic · autocomplete of "whole house fan"
 - whole house fan review · plain topic · autocomplete of "whole house fan"
 - whole house fan this old house · plain topic · autocomplete of "attic fan old house"
+- attic exhaust fan not working · problem symptom · autocomplete of "attic fan problems"
 - attic fan not working · problem symptom · autocomplete of "attic fan"
 - attic fan stopped working · problem symptom · autocomplete of "attic fan problems"
 - attic fans good or bad · problem symptom · autocomplete of "never attic fan"
 - my attic fan stopped working · problem symptom · autocomplete of "why is my attic fan"
 - solar attic fan not working · problem symptom · autocomplete of "solar attic fan"
+- unclog ac drain line in attic · problem symptom · autocomplete of "unclog ac drain line"
 - whole house fan not working · problem symptom · autocomplete of "whole house fan"
 - why is my attic fan not working · problem symptom · autocomplete of "why is my attic fan"
 - attic fan vs whole house fan · X vs Y · autocomplete of "attic fan vs"
 - whole house fan vs ac · X vs Y · autocomplete of "attic fan vs"
 - whole house fan vs attic fan · X vs Y · autocomplete of "whole house fan"
+- best attic exhaust fan · the only X · autocomplete of "before you attic fan"
 - best way to cool your attic · the only X · autocomplete of "cool your attic"
 - attic fan diy · cheap hack · autocomplete of "attic fan trick"
 - attic fan installation diy · cheap hack · autocomplete of "attic fan"
 - how to reduce heat in attic · cheap hack · autocomplete of "how to fix keep house cool"
 - are attic fans worth it · myth · autocomplete of "why is my attic fan"
 - do attic fans work · myth · autocomplete of "don't attic fan"
+- attic exhaust fan installation · how-to · autocomplete of "attic fan spring"
 - attic fan install · how-to · autocomplete of "attic fan seniors"
 - attic fan installation · how-to · autocomplete of "attic fan"
 - attic fan replacement · how-to · autocomplete of "attic fan"
@@ -5241,12 +5507,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to install attic fan on roof · how-to · autocomplete of "how to attic fan"
 - how to remove attic fan · how-to · autocomplete of "how to attic fan"
 - how to replace a whole house fan · how-to · autocomplete of "how to fix attic fan"
+- how to replace attic exhaust fan · how-to · autocomplete of "how to fix attic fan"
 - how to replace attic fan · how-to · autocomplete of "how to attic fan"
 - how to test attic fan · how-to · autocomplete of "how to attic fan"
 - how to turn off attic fan · how-to · autocomplete of "stop attic fan"
 - how to use attic fan · how-to · autocomplete of "how to attic fan"
 - how to wire attic fan · how-to · autocomplete of "how to attic fan"
-- make your bathroom fan like new without attic access · how-to · Silver Cymbal title
 - quietcool solar attic fan installation · how-to · autocomplete of "save money attic fan"
 - replacing an attic fan · how-to · autocomplete of "before you replace your attic fan"
 - solar attic fan install · how-to · autocomplete of "save money attic fan"
@@ -5255,7 +5521,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - whole house fan replacement · how-to · autocomplete of "whole house fan"
 - whole house fan cost · cost · autocomplete of "attic fan cost"
 
-### Keeping the house cool (no-AC tricks) (`keep-cool`, 51)
+### Keeping the house cool (no-AC tricks) (`keep-cool`, 48)
 
 - cool a room · plain topic · helper-added seed
 - cool down a room · plain topic · autocomplete of "cool a room"
@@ -5264,7 +5530,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cool room decor · plain topic · autocomplete of "cool a room"
 - cool room ideas · plain topic · autocomplete of "cool a room"
 - cool room without air conditioning · plain topic · autocomplete of "cool house without ac"
-- home designs that stayed cool · plain topic · known title: 20 Forgotten Home Designs That Stayed Cool Before Air Conditioning (405K)
 - hvac upstairs hot downstairs cold · plain topic · autocomplete of "upstairs hot"
 - keeping house cool in extreme heat · plain topic · autocomplete of "keep house cool"
 - upstairs hot · plain topic · helper-added seed
@@ -5283,7 +5548,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - cool a room without ac · cheap hack · autocomplete of "cool a room"
 - cool down a room without ac · cheap hack · autocomplete of "cool a room"
 - cool down house without ac · cheap hack · autocomplete of "cool house without ac"
-- cool house without ac · cheap hack · helper-added seed
 - cool room without ac · cheap hack · autocomplete of "cool house without ac"
 - cool your house without ac · cheap hack · autocomplete of "cheap keep house cool"
 - cooling home without ac · cheap hack · autocomplete of "cool house without ac"
@@ -5301,7 +5565,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to keep house cool in summer naturally · how-to · autocomplete of "keep house cool"
 - how to keep room cool · how-to · autocomplete of "how to keep house cool"
 - how to keep room cool in summer · how-to · autocomplete of "how to keep house cool"
-- keep house cool · how-to · helper-added seed
 - keep house cool in summer · how-to · autocomplete of "keep house cool"
 - keep room cool in summer · how-to · autocomplete of "keep house cool"
 - keep room cool without air conditioner · how-to · autocomplete of "keep house cool"
@@ -5326,20 +5589,21 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - heat a room with clay pot · plain topic · autocomplete of "heat a room"
 - heating a room by convection · plain topic · autocomplete of "heat a room"
 - heating a room when power goes out · plain topic · autocomplete of "heat a room"
+- staying warm in the cold · plain topic · autocomplete of "staying warm when the power is out"
+- staying warm when the power is out · plain topic · Silver Cymbal title: [under 5 min] "Best Kept Secret for Staying Warm When the Power is Out" (SIyntnwE7O8, 43,932)
 - warm house in snow · plain topic · autocomplete of "warm house winter"
 - warm house in winter · plain topic · autocomplete of "warm house winter"
 - warm house winter · plain topic · helper-added seed
+- warm winter cabin · plain topic · autocomplete of "warm house winter"
 - air conditioner warm air · problem symptom · autocomplete of "air conditioning summer"
-- best kept secret for staying warm when the power is out · the only X · Silver Cymbal title
+- keep bed warm with no heat · problem symptom · known title: 9 Ways I Keep My Bed Warm With No Heat (June's Kitchen Table, 318K)
 - cheap ways to keep house warm · cheap hack · autocomplete of "cheap keep house warm"
 - hacks to keep house warm in winter · cheap hack · autocomplete of "keep house warm hack"
 - heat a room for free · cheap hack · autocomplete of "heat a room"
 - heat home cheap · cheap hack · autocomplete of "heat house cheap"
-- heat house cheap · cheap hack · helper-added seed
 - heat your home all winter for free · cheap hack · known title: No Gas, No Wood: This DIY Stove Heats Your Home All Winter for FREE (Wes Tucker Prepping, 297K)
 - heat your home for free · cheap hack · autocomplete of "heat your home all winter for free"
 - heat your house for free · cheap hack · autocomplete of "heat your home all winter for free"
-- keep bed warm with no heat · cheap hack · known title: 9 Ways I Keep My Bed Warm With No Heat (June's Kitchen Table, 318K)
 - keep house warm without heating · cheap hack · autocomplete of "keep house warm"
 - stay warm without heat · cheap hack · autocomplete of "stay warm without power"
 - cold room build · how-to · autocomplete of "cold room"
@@ -5353,20 +5617,18 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to keep the house warm · how-to · autocomplete of "how to fix keep house warm"
 - how to keep your room warm · how-to · autocomplete of "before you keep house warm"
 - keep apartment warm in winter · how-to · autocomplete of "keep house cool winter"
-- keep house warm · how-to · helper-added seed
 - keep house warm in winter · how-to · autocomplete of "keep house warm"
 - keep old house warm · how-to · autocomplete of "keep house warm"
 - keep your home warm · how-to · autocomplete of "keep house warm"
 - tips to keep house warm · how-to · autocomplete of "keep house warm mistakes"
 
-### Swamp / evaporative coolers (`evap-cooler`, 42)
+### Swamp / evaporative coolers (`evap-cooler`, 41)
 
 - evaporative cooler · plain topic · helper-added seed
 - evaporative cooler 712s · plain topic · autocomplete of "evaporative cooler"
 - evaporative cooler float valve · plain topic · autocomplete of "evaporative cooler"
 - evaporative cooler for garage · plain topic · autocomplete of "evaporative cooler"
 - evaporative cooler review · plain topic · autocomplete of "evaporative cooler"
-- swamp cooler · plain topic · helper-added seed
 - swamp cooler air conditioner · plain topic · autocomplete of "swamp cooler"
 - swamp cooler for garage · plain topic · autocomplete of "swamp cooler"
 - swamp cooler review · plain topic · autocomplete of "swamp cooler"
@@ -5404,10 +5666,9 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - swamp cooler tips · how-to · autocomplete of "swamp cooler tips"
 - costway swamp cooler · cost · autocomplete of "swamp cooler cost"
 
-### Geothermal (`geothermal`, 43)
+### Geothermal (`geothermal`, 42)
 
 - benefits of geothermal heating and cooling · plain topic · autocomplete of "before you geothermal"
-- geothermal · plain topic · helper-added seed
 - geothermal basics · plain topic · autocomplete of "geothermal tips"
 - geothermal caverns tomb raider · plain topic · autocomplete of "geothermal"
 - geothermal cooling · plain topic · autocomplete of "geothermal"
@@ -5450,33 +5711,22 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - geothermal cost · cost · autocomplete of "geothermal hack"
 - geothermal energy costa rica · cost · autocomplete of "geothermal cost"
 
-### Home warranties (`home-warranty`, 9)
+### Home warranties (`home-warranty`, 8)
 
 - do i need a home warranty · plain topic · autocomplete of "home warranty hvac doesn't want you to know"
 - home warranty · plain topic · autocomplete of "home warranty hvac hack"
 - home warranty companies · plain topic · autocomplete of "home warranty hvac"
 - home warranty company reviews · plain topic · autocomplete of "home warranty hvac vs"
-- home warranty hvac · plain topic · helper-added seed
 - hvac home warranty · plain topic · autocomplete of "hvac warranty"
 - hvac warranty · plain topic · helper-added seed
 - working for home warranty companies · plain topic · autocomplete of "home warranty hvac vs"
 - home warranty vs home insurance · X vs Y · autocomplete of "home warranty hvac save money"
 
-### HVAC general (`hvac-general`, 342)
+### HVAC general (`hvac-general`, 314)
 
 - adding hvac to old house · plain topic · autocomplete of "hvac old house"
 - ask this old house hvac · plain topic · autocomplete of "old house hvac"
-- dropped as under 5 minutes · plain topic · Silver Cymbal title
-- e13 pride in self-reliance · plain topic · Silver Cymbal title
-- e14 relief and reassurance · plain topic · Silver Cymbal title
-- e20 new-gadget wonder (new) · plain topic · Silver Cymbal title
-- e3 distrust of the store shelf · plain topic · Silver Cymbal title
-- e4 dread of silent, hidden damage · plain topic · Silver Cymbal title
-- e5 emergency dread and urgency · plain topic · Silver Cymbal title
-- e8 satisfaction of the clear payoff · plain topic · Silver Cymbal title
 - heating cycle in hvac · plain topic · autocomplete of "hvac maintenance winter"
-- heating fuel and fuel choice · plain topic · Silver Cymbal title
-- his all-time long-form median, for context · plain topic · Silver Cymbal title
 - hvac · plain topic · helper-added seed
 - hvac 2.0 · plain topic · autocomplete of "hvac x"
 - hvac academy · plain topic · autocomplete of "hvac seniors"
@@ -5517,6 +5767,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac facts · plain topic · autocomplete of "hvac secrets"
 - hvac fails · plain topic · autocomplete of "hvac f"
 - hvac falls · plain topic · autocomplete of "furnace fall"
+- hvac fan not spinning · plain topic · autocomplete of "hvac f"
 - hvac financing · plain topic · autocomplete of "hvac save money"
 - hvac for beginners · plain topic · autocomplete of "hvac"
 - hvac for dummies · plain topic · autocomplete of "hvac f"
@@ -5655,13 +5906,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac zoom meeting · plain topic · autocomplete of "furnace z"
 - hvac zoomlock · plain topic · autocomplete of "hvac z"
 - hvacr videos · plain topic · autocomplete of "hvac"
-- last-12-months rule: long-form uploaded 2025-10-23 to 2026-10-23, n = 18 (>= 10, so the last-30 fallback was not needed) · plain topic · Silver Cymbal title
-- median of those 18 exact view counts (mean of the 9th and 10th: 78,736 and 80,878) · plain topic · Silver Cymbal title
-- mindblowing crawlspace transformation - next level encapsulation · plain topic · Silver Cymbal title
 - mythbusters hvac · plain topic · autocomplete of "hvac myth"
-- none found (no live tab on the channel) · plain topic · Silver Cymbal title
 - ridge xr hvac · plain topic · autocomplete of "hvac x"
-- the maker and the store shelf · plain topic · Silver Cymbal title
 - this old house hvac · plain topic · autocomplete of "old house hvac"
 - this old house hvac zoning · plain topic · autocomplete of "old house hvac"
 - uv lamp hvac system · plain topic · autocomplete of "uv light hvac"
@@ -5669,8 +5915,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - winterize hvac system · plain topic · autocomplete of "hvac winter"
 - xavier hvac · plain topic · autocomplete of "hvac x"
 - young hvac goat · plain topic · autocomplete of "hvac y"
-- youtube channel videos tab, logged-out curl + innertube continuations, all 18 pages (`data/tools/yt_allsorts.py`) · plain topic · Silver Cymbal title
-- 1 (`epgdf1jp0va`, on the shorts tab, not on the videos tab) · problem symptom · Silver Cymbal title
 - how to fix hvac leak · problem symptom · autocomplete of "how to fix hvac"
 - how to fix hvac leaking water · problem symptom · autocomplete of "how to fix hvac"
 - how to fix hvac not heating · problem symptom · autocomplete of "how to fix hvac"
@@ -5683,6 +5927,8 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac leaking · problem symptom · autocomplete of "hvac summer"
 - hvac leaking water · problem symptom · autocomplete of "hvac l"
 - hvac low voltage troubleshooting · problem symptom · autocomplete of "hvac l"
+- hvac no heat · problem symptom · autocomplete of "hvac n"
+- hvac no heat call · problem symptom · autocomplete of "hvac n"
 - hvac not blowing cold air · problem symptom · autocomplete of "hvac n"
 - hvac not blowing hot air · problem symptom · autocomplete of "hvac n"
 - hvac not heating · problem symptom · autocomplete of "hvac n"
@@ -5698,14 +5944,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac unit not turning on · problem symptom · autocomplete of "hvac u"
 - hvac water leak · problem symptom · autocomplete of "hvac w"
 - hvac zoning system troubleshooting · problem symptom · autocomplete of "furnace z"
+- why is my hvac fan not working · problem symptom · autocomplete of "why is my hvac"
 - why is my hvac leaking water · problem symptom · autocomplete of "why is my hvac"
 - why is my hvac not blowing cold air · problem symptom · autocomplete of "why is my hvac"
 - why is my hvac not heating · problem symptom · autocomplete of "why is my hvac"
 - why is my hvac unit leaking water · problem symptom · autocomplete of "why is my hvac"
-- don't buy a rooftop solar system before seeing my disaster · mistakes · Silver Cymbal title
 - hvac gone wrong · mistakes · autocomplete of "hvac scams"
-- hvac mistakes · mistakes · autocomplete of "furnace mistakes"
-- mistakes, cheap hack, myth-bust, story, test · mistakes · Silver Cymbal title
 - hvac vs carpentry · X vs Y · autocomplete of "hvac vs"
 - hvac vs electrician · X vs Y · autocomplete of "hvac vs"
 - hvac vs electrician vs plumber · X vs Y · autocomplete of "hvac vs"
@@ -5720,14 +5964,11 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - best hvac tips · the only X · autocomplete of "best hvac brands tips"
 - best hvac units for home · the only X · autocomplete of "best hvac brands save money"
 - the best hvac systems for homes · the only X · autocomplete of "the only best hvac brands"
-- hvac secrets · they don't want you to know · helper-added seed
 - hvac success secrets revealed · they don't want you to know · autocomplete of "hvac secrets"
-- y doesn't want you to know · they don't want you to know · Silver Cymbal title
 - cheap digital hvac gauges · cheap hack · autocomplete of "cheap hvac"
 - cheapest hvac system · cheap hack · autocomplete of "cheap hvac"
 - diy hvac replacement · cheap hack · autocomplete of "hvac diy"
 - diy hvac system · cheap hack · autocomplete of "hvac diy"
-- fix & repair stuck circulator pump before replacing no heat · cheap hack · Silver Cymbal title
 - hotel hvac hack · cheap hack · autocomplete of "hvac hack"
 - hvac budget · cheap hack · autocomplete of "hvac b"
 - hvac diy · cheap hack · helper-added seed
@@ -5735,16 +5976,12 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac diy installation · cheap hack · autocomplete of "hvac diy"
 - hvac hacks · cheap hack · autocomplete of "furnace hack"
 - hvac hacks and screw ups · cheap hack · autocomplete of "furnace hack"
-- hvac no heat · cheap hack · autocomplete of "hvac n"
-- hvac no heat call · cheap hack · autocomplete of "hvac n"
 - hvac tips and tricks · cheap hack · autocomplete of "furnace tips"
 - hvac tool hacks · cheap hack · autocomplete of "hvac hack"
 - hvac tricks · cheap hack · autocomplete of "furnace trick"
 - hvac tricks of the trade · cheap hack · autocomplete of "furnace trick"
-- no heat? how to replace & troubleshoot a taco zone valve · cheap hack · Silver Cymbal title
 - smart hvac hacks · cheap hack · autocomplete of "hvac hack"
 - e myth hvac · myth · autocomplete of "hvac myth"
-- e12 vindication and the myth-bust · myth · Silver Cymbal title
 - should i do hvac · myth · autocomplete of "before you hvac"
 - checking airflow hvac · how-to · autocomplete of "cheap hvac"
 - checking hvac fuses · how-to · autocomplete of "hvac fuse"
@@ -5760,9 +5997,7 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - how to hvac systems work · how-to · autocomplete of "how to furnace"
 - how to hvac work · how-to · autocomplete of "how to furnace"
 - how to instal hvac system · how-to · autocomplete of "how to hvac replacement cost"
-- how to make your garage door seal tight as a fridge · how-to · Silver Cymbal title
 - how to repair hvac system · how-to · autocomplete of "how to hvac maintenance"
-- how to replace hot water tank pressure relief valve - t&p · how-to · Silver Cymbal title
 - how to sell hvac systems · how-to · autocomplete of "how to hvac scam"
 - hvac apprentice tips · how-to · autocomplete of "hvac tips"
 - hvac clean · how-to · autocomplete of "hvac maintenance hack"
@@ -5794,7 +6029,6 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac residential installation · how-to · autocomplete of "hvac r"
 - hvac sales tips · how-to · autocomplete of "hvac tips"
 - hvac settings for winter · how-to · autocomplete of "hvac winter"
-- hvac tips · how-to · helper-added seed
 - hvac tips for beginners · how-to · autocomplete of "furnace tips"
 - hvac unit installation · how-to · autocomplete of "hvac u"
 - hvac wires explained · how-to · autocomplete of "hvac w"
@@ -5803,6 +6037,4 @@ One line each: keyword · framing · first source. Full source lists are in the 
 - hvac wiring training · how-to · autocomplete of "hvac w"
 - hvac zone system wiring · how-to · autocomplete of "hvac z"
 - hvac zoning system installation · how-to · autocomplete of "furnace z"
-- storm prep: how to power your house with a battery almost indefinitely - anker solix · how-to · Silver Cymbal title
-- tab duration text; seed lengths re-checked with nexlev `lengthseconds` · how-to · Silver Cymbal title
 - hvac pay · cost · autocomplete of "hvac p"
