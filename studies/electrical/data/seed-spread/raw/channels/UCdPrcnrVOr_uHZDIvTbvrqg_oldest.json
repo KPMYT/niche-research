@@ -1,0 +1,401 @@
+{
+ "channel": "The DIY Guide",
+ "id": "UCdPrcnrVOr_uHZDIvTbvrqg",
+ "handle": "http://www.youtube.com/@The-DIY-Guide",
+ "description": "DAILY UPLOADS - Wide variety of content in how to videos and training",
+ "subs": "14.9K subscribers",
+ "videos_count": "517 videos",
+ "sort": "oldest",
+ "videos": [
+  {
+   "id": "0tIHGljEe1U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Configure Static Routing : CCNA training : Cisco Training Videos",
+   "dur": "5:08",
+   "meta": [
+    "5.8K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 5800,
+   "age": "13y ago"
+  },
+  {
+   "id": "9MTGWrsLI1c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "GNS3 Tutorial : How to Add PIX Firewall to GNS3 : Cisco Training Videos",
+   "dur": "2:27",
+   "meta": [
+    "11K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "13y ago"
+  },
+  {
+   "id": "zA5hMzNZVBI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Configure Hostnames on ASA Firewall : Cisco ASA Firewall Tutorial : Cisco Training Videos",
+   "dur": "5:28",
+   "meta": [
+    "15K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "13y ago"
+  },
+  {
+   "id": "8IrkqeOqZoc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is a Firewall? : Cisco ASA Firewall Tutorial : Cisco Training Videos",
+   "dur": "7:00",
+   "meta": [
+    "141K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 141000,
+   "age": "13y ago"
+  },
+  {
+   "id": "t7WdNitkLy8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Add ASA Firewall to GNS3 : GNS3 Tutorial : Cisco Training Videos",
+   "dur": "4:16",
+   "meta": [
+    "51K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 51000,
+   "age": "13y ago"
+  },
+  {
+   "id": "5WNxPJqQ-yk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding Security Levels on Cisco ASA Firewall Tutorial : Cisco Training Videos",
+   "dur": "10:29",
+   "meta": [
+    "49K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 49000,
+   "age": "13y ago"
+  },
+  {
+   "id": "7Y4ixyvU0IE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Initial checking uRPF unicast Reverse Path Forwarding : CCNP Security FIREWALL Training Videos",
+   "dur": "4:15",
+   "meta": [
+    "23K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 23000,
+   "age": "13y ago"
+  },
+  {
+   "id": "DSO9H9hmokM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "XLATE lookup ASA packet inspection phase : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "4:00",
+   "meta": [
+    "15K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "13y ago"
+  },
+  {
+   "id": "Vyns7RweIYE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Connection lookup ASA packet inspection phase : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "3:17",
+   "meta": [
+    "12K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "13y ago"
+  },
+  {
+   "id": "fHqiUKY5SEk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "User Interface Modes and basis IOS navigation : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "6:21",
+   "meta": [
+    "4.8K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 4800,
+   "age": "13y ago"
+  },
+  {
+   "id": "0GBla8n-UHQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Access List lookup ASA packet inspection phase : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "2:19",
+   "meta": [
+    "8.4K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 8400,
+   "age": "13y ago"
+  },
+  {
+   "id": "Vwbidwk8CMY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UATH lookup ASA packet inspection phase : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "3:11",
+   "meta": [
+    "6.7K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 6700,
+   "age": "13y ago"
+  },
+  {
+   "id": "11al5q9jt_0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inspection Engine ASA packet inspection phase : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "5:02",
+   "meta": [
+    "17K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 17000,
+   "age": "13y ago"
+  },
+  {
+   "id": "qH8Xi3YeJoM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ICMP stateful inspection Fundamentals : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "3:44",
+   "meta": [
+    "13K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "13y ago"
+  },
+  {
+   "id": "hXlZZB9ZAt8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UDP stateful inspection Fundamentals : CCNP Security FIREWALL : Cisco Training Videos",
+   "dur": "3:07",
+   "meta": [
+    "10K",
+    "13y ago"
+   ],
+   "channel_id": null,
+   "views": 10000,
+   "age": "13y ago"
+  },
+  {
+   "id": "y9_KWhdQLVw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Adding and Removing CLI Commands : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "3:11",
+   "meta": [
+    "4.5K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 4500,
+   "age": "12y ago"
+  },
+  {
+   "id": "EaEltnYbt8s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tab Key Auto Complete CLI Feature : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "3:42",
+   "meta": [
+    "3.2K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 3200,
+   "age": "12y ago"
+  },
+  {
+   "id": "oNUsGNSfPks",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Network Object Group : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "6:59",
+   "meta": [
+    "35K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 35000,
+   "age": "12y ago"
+  },
+  {
+   "id": "u-ez1691H5o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding Question Mark Feature : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "2:51",
+   "meta": [
+    "1.5K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "12y ago"
+  },
+  {
+   "id": "4BkutEvgvi4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding the Show History Command : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "1:27",
+   "meta": [
+    "3.1K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 3100,
+   "age": "12y ago"
+  },
+  {
+   "id": "qVacudTr5Kw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Advanced Network Object Group Practice : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "3:58",
+   "meta": [
+    "9K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 9000,
+   "age": "12y ago"
+  },
+  {
+   "id": "wELxXhfMVs4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Piping and Filtering Command Output  : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "3:23",
+   "meta": [
+    "5.7K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 5700,
+   "age": "12y ago"
+  },
+  {
+   "id": "T-6dXKJSlT8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Object Group Piping CLI Trick  : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "2:08",
+   "meta": [
+    "5.7K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 5700,
+   "age": "12y ago"
+  },
+  {
+   "id": "B0ZS7Ihap2A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Interface MAC address CLI Trick  : Intro to ASA Firewalls : Cisco Training Videos",
+   "dur": "2:29",
+   "meta": [
+    "7.9K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 7900,
+   "age": "12y ago"
+  },
+  {
+   "id": "QjAh0cNa5mI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "200-301 CCNA TRAINING | Video 1: What is the CCNA? | Free Cisco Training Videos",
+   "dur": "7:28",
+   "meta": [
+    "46K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 46000,
+   "age": "12y ago"
+  },
+  {
+   "id": "G48bedf4V-k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "200-301 CCNA TRAINING | Video 2: What questions are on the CCNA? | Free Cisco Training Videos",
+   "dur": "7:13",
+   "meta": [
+    "15K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "12y ago"
+  },
+  {
+   "id": "yIR2foUX-N0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "200-301 CCNA TRAINING | Video 3: What is a network? | Free Cisco Training Videos",
+   "dur": "3:35",
+   "meta": [
+    "25K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 25000,
+   "age": "12y ago"
+  },
+  {
+   "id": "54KHy1N5VHE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "200-301 CCNA TRAINING | Video 4: What is a LAN? | Free Cisco Training Videos",
+   "dur": "3:42",
+   "meta": [
+    "9.6K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 9600,
+   "age": "12y ago"
+  },
+  {
+   "id": "Ci5SJYkGcaw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "200-301 CCNA TRAINING | Video 5: What is a MAN? | Free Cisco Training Videos",
+   "dur": "1:56",
+   "meta": [
+    "6.6K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 6600,
+   "age": "12y ago"
+  },
+  {
+   "id": "gcZjUXJdve4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "200-301 CCNA TRAINING | Video 6: What is a WAN? | Free Cisco Training Videos",
+   "dur": "2:04",
+   "meta": [
+    "7.8K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 7800,
+   "age": "12y ago"
+  }
+ ]
+}

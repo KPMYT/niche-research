@@ -81,4 +81,10 @@ Counted videos are long-form: 5:00 or more, in English, no Shorts. Videos under 
 
 ## New labels
 
-None yet.
+| Label | Kind | Definition | Added |
+|---|---|---|---|
+| review | format **NEW** | a plain product review or hands-on ("Hands On with the MOST Powerful Portable Solar Generator"), usually sponsored | 2026-10-23: 54 of Silver Cymbal's 96 long-form in-scope videos are this (helper 1) |
+| explainer | format **NEW** | explains how something works, no mistake or test framing ("Volts, Amps & Watts Explained", "Why Do Electric Plugs Have Holes?") | 2026-10-23: helpers 1 and 3 needed it |
+| recalls | sub-niche **NEW** | product recalls and "yours might still be plugged in" | 2026-10-23: helper 4 (Frederick channel) |
+
+Helpers in round 1 wrote these as `other:review`, `other:explainer`, `other:recalls`; they mean the labels above.

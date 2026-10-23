@@ -82,6 +82,16 @@ def conts(o, out):
     elif isinstance(o, list):
         for x in o: conts(x, out)
 
+def grid_conts(o, out):
+    """Tokens from continuationItemRenderer only (the video grid / results list), not the About panel's."""
+    if isinstance(o, dict):
+        if "continuationItemRenderer" in o:
+            t = re.search(r'"token": "([^"]+)"', json.dumps(o["continuationItemRenderer"]))
+            if t: out.append(t.group(1))
+        for v in o.values(): grid_conts(v, out)
+    elif isinstance(o, list):
+        for x in o: grid_conts(x, out)
+
 def dedupe(lst, key="id"):
     seen, res = set(), []
     for v in lst:
@@ -107,9 +117,9 @@ def channel(key, sort, pages):
             return {"error": f"no {chip} chip on Videos tab", "channel": meta.get("title"), "id": meta.get("externalId")}
         r = api("browse", {"continuation": m.group(1)}, ctx); lockups(r, vids)
     for _ in range(pages - 1):
-        c = []; conts(r, c)
+        c = []; grid_conts(r, c)   # fixed 2026-10-23: the old code took the last token (a panel's), capping lists at 30; the grid's is the first
         if not c: break
-        r = api("browse", {"continuation": c[-1]}, ctx); lockups(r, vids)
+        r = api("browse", {"continuation": c[0]}, ctx); lockups(r, vids)
     vids = [v for v in dedupe(vids) if v.get("type") in (None, "VIDEO", "LOCKUP_CONTENT_TYPE_VIDEO")]
     return {"channel": meta.get("title"), "id": meta.get("externalId"), "handle": meta.get("vanityChannelUrl"),
             "description": meta.get("description"), "subs": subs.group(1) if subs else None, "videos_count": nvid.group(1) if nvid else None,
@@ -129,7 +139,7 @@ def search(q, sort, pages, kind):
     url = "https://www.youtube.com/results?search_query=" + urllib.parse.quote(q) + "&sp=" + SP[(kind, sort)] + "&hl=en&gl=US"
     d, ctx = initial(get(url)); acc = []; lockups(d, acc); r = d
     for _ in range(pages - 1):
-        c = []; conts(r, c)
+        c = []; grid_conts(r, c)
         if not c: break
         r = api("search", {"continuation": c[-1]}, ctx); lockups(r, acc)
     return dedupe(acc)
