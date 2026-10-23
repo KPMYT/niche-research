@@ -104,3 +104,11 @@ Many target seniors ("Seniors", "Over 60" in titles); none of those passed 50K i
 Found again from the brief's list: Walt Brennan; The New Home Illusion ("The $2 Shortcut That's Burning Down American Homes" 46,730); Ray Dutton's Garage ("Before You Shut Your AC Down This Fall, Do This" 1,202,799); Gus Whitaker; HVAC Exposed. Ramón Delgado was mentioned in an earlier operator chat.
 
 Not checked, worth a follow-up: "Eli Yoder Secrets" (814K, 6 months old), a second Amish channel.
+
+## Corrections after checker B (2026-10-23)
+
+- **The "plugged in" count is too high:** an exact title match in `videos.csv` gives **39 videos on 23 channels** (35 on 22 without ours), not 65 on 36. The larger figure counted any "plugged in" or "unplug" title (power-bill videos, a Russian and a Chinese channel). 6 matches spot-checked: all right.
+- **Builds With Eli Yoder is faceless** (name only), not a persona. Fixed in `channels.csv`.
+- **Ray Sutter:** account created Apr 16 2019; first upload Aug 25 2026 (about 2 months, not 1). A different channel from Ray Dutton's Garage.
+- **Earl Whitaker:** 11 of 13 titles use the "(Retired Fire Inspector…)" tag, not every title. Confirmed tiny (2 subs, 302 views).
+- Otherwise the best-holding file of the three: subs, first uploads, reused-account flags and video figures checked out.

@@ -83,3 +83,10 @@ The 299 seed up-next videos, sorted by keyword (rough): home electrical 41%; gen
 - NexLev's faceless flag can't tell an AI-image character from a real person (persona channels come back "not faceless"); all types are guesses.
 - Channels with few videos have no Oldest chip; `looks_new` says which tab was used or "not determined".
 - About 200 smaller rows sorted by keyword only, type "not checked".
+
+## Corrections after checker B (2026-10-23)
+
+- **Persona labels:** 5 of the 11 "faceless persona" guesses checked were wrong: Builds With Eli Yoder, Grain & Gravity, Exposi and Sidney Explains are faceless (no character); The Rustic Handyman is a real man ("Russ") on camera. Unclear: Is It Worth It (looks like a real presenter), Cal Watts (an AI man without a consistent face). Treat every unchecked `type_guess` here as roughly a coin toss. Fixed in `candidates.csv`.
+- **Reused accounts not flagged:** Frank The Firefighter (oldest upload a GTA clip), Handy Jack (a Philippines motorcycle clip), Ground Truth (an unrelated driving clip; account from 2016). Flagged in `candidates.csv`.
+- XPH8qY3C_TY (plug holes, 1,632,289) is 4:52: short reference only, not counted.
+- Video figures held up: all named breakout videos re-pulled within ±1%.

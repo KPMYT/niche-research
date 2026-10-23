@@ -122,3 +122,12 @@ Started in the last 12 months, electrical or fire safety. Views and dates exact,
 - No electrical or fire category in the niche finder; the DIY category with first upload after 2025-10-23 returned 4 unrelated channels.
 - Viral keywords "electrician" and "wiring" returned 0 videos.
 - get_channel_analytics returned only the about block (no monthly views or earnings).
+
+## Corrections after checker B (2026-10-23)
+
+- **Fire inspector / marshal personas exist, but are tiny and not in NexLev's database:** Earl Whitaker (UCmk_aG0OsnaP_7C5OxSSEvQ; 2 subs, 13 videos, 302 views; "32 years in the Dayton Fire Department, the last 12 as a fire inspector"; joined Sep 12 2026), Chief Reardon (UCDfUpxEwI1s0tkTAm-cNw0A; 47 subs; best RDmBGhKJvYI 1,659; "25 years as a fire marshal"; reused account from Jul 2025), Chief Miller (UCy523MhXbDch-_O2wox7xwA; 3 subs; "62, retired battalion chief and fire inspector, 34 years"; joined Oct 12 2026), Tommy Sullivan "Sully's Safety" (UChFS6J4bSxENe2IK8Ls9WEg; 19 subs; fire-marshal titles). Read "none" above as "none in NexLev; a few tiny ones on YouTube, none over 1K subs": nearly empty, not empty.
+- **Zenthral Code started earlier:** first upload 2026-07-14 (-e240MMtf_Q), first long-form 2026-07-21 (SMSbci_DkIU), not Aug 26. Still new. Fixed in `census.csv`.
+- **Builds With Eli Yoder is faceless** (name only; 0 of 8 thumbnails show a character), not a persona. Fixed in `census.csv`.
+- NexLev subscriber counts lag 14-19% on two fast-growing channels (June's Kitchen Table, Kate Sullivan Safer Living).
+- Ray Sutter (persona, 22 years Army; UCVIirwqWdBCyynoWRsld2Ug) and Ray Dutton's Garage (UCvcKEgZcY9ZgEULZouaNAOA) are two different channels; the same 31.5K subs is a coincidence.
+- Home Hazard: account joined Dec 13 2022; first visible upload L1ocs_Qx3Gg on Jun 9 2026; nothing visible from 2022-2026 (reads as wiped and relaunched).
