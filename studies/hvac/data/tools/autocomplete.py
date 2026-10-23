@@ -131,6 +131,47 @@ KNOWN_TITLE_PHRASES = {  # phrase -> (topic, the known title it comes from)
     "turning your heat down is not saving you money": ("thermostat", "Turning Your Heat Down Is NOT Saving You Money... (Gus Whitaker, 74K)"),
 }
 
+# Keyword phrases cut from Silver Cymbal's seed titles (studies/hvac/seeds/silver-cymbal.md, round 1 seed helper,
+# views as pulled there on 2026-10-23), plus the in-scope borderline and under-5-minute HVAC titles it lists.
+SC = "Silver Cymbal title: "
+SILVER_CYMBAL_PHRASES = {
+    "central air conditioning not cooling": ("ac-central", SC + '"#1 Problem & Quick Fix with Central Air Conditioning Not Cooling" (_b6p0fkWhCY, 4,307,728)'),
+    "ac not cooling quick fix": ("ac-central", SC + '"#1 Problem & Quick Fix with Central Air Conditioning Not Cooling" (_b6p0fkWhCY, 4,307,728)'),
+    "unclog ac drain line": ("ac-central", SC + '"How to UNCLOG your AC DRAIN Condensate line FAST..." (qAxJb0J1HH0, 3,772,025)'),
+    "water stains on ceiling from ac": ("ac-central", SC + '"How to UNCLOG your AC DRAIN Condensate line FAST - Water stains on Ceiling?..." (qAxJb0J1HH0, 3,772,025)'),
+    "install your own air conditioning": ("mini-split", SC + '"Install your own AIR CONDITIONING in 4 HOURS! DIY Mini Split MR COOL" (Wejop_Rjpv0, 3,087,177)'),
+    "diy mini split": ("mini-split", SC + '"Install your own AIR CONDITIONING in 4 HOURS! DIY Mini Split MR COOL" (Wejop_Rjpv0, 3,087,177)'),
+    "window air conditioner not cooling": ("ac-window", SC + '"Window Air Conditioner Not Cooling? EASY Common Fix - How to Clean a Windows AC" (o8KQu_MlpoY, 2,363,606)'),
+    "how to clean a window ac": ("ac-window", SC + '"Window Air Conditioner Not Cooling? EASY Common Fix - How to Clean a Windows AC" (o8KQu_MlpoY, 2,363,606)'),
+    "clean mini split condenser": ("mini-split", SC + '"How to Clean Your Mini Split AC Condenser - Make it Cold Again" (DSNUyxZtrmo, 1,859,343)'),
+    "central air conditioner condenser cleaning": ("coil-cleaning", SC + '"Central Air Conditioner Condenser Cleaning - How To - Make it COLD again!" (nsRHhU6q5RY, 1,454,183)'),
+    "mr cool mini split install": ("mini-split", SC + '"How to Install a Mr Cool 18,000 BTU AC in Just 1 Day!" (zvFKD95z7IM, 1,296,956)'),
+    "oil heat boiler how it works": ("oil-furnace", SC + '"Oil Heat Boilers - How it works - Understand the Basics" (5GbXgEYw5TE, 820,639)'),
+    "battery powered air conditioner": ("ac-window", SC + '"EcoFlow Wave PORTABLE Battery Powered Air Conditioner 4000 BTU" (leEsPGaaru8, 698,976)'),
+    "heat pumps leaving people cold": ("heat-pump", SC + '"Why Heat Pumps are now leaving people COLD" (BP1iDvKpNZA, 631,905)'),
+    "single hose portable ac": ("ac-window", SC + '"This Tiny Portable AC can Keep Anyone COOL - 14,000 BTU Dreo - Single Hose Trigger Warning!" (NsPBamTmOPM, 527,951)'),
+    "tiny portable ac": ("ac-window", SC + '"Say Goodbye to BIG Air Conditioners - This Tiny Portable AC Blows them Away!" (uObGbs4sGQY, 503,681)'),
+    "stuck circulator pump": ("boiler-steam", SC + '"Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT" (yCZqfnlBYW8, 470,352)'),
+    "boiler no heat": ("boiler-steam", SC + '"Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT" (yCZqfnlBYW8, 470,352)'),
+    "change furnace filter the right way": ("filters", SC + '"Furnace Filter - How to Change it the Right Way & SAVE Money" (ED3bfesbE_Y, 388,617)'),
+    "furnace filter save money": ("filters", SC + '"Furnace Filter - How to Change it the Right Way & SAVE Money" (ED3bfesbE_Y, 388,617)'),
+    "heating oil vs gas": ("oil-furnace", SC + '"Why Heating Oil is BETTER than GAS - Explained" (GdTOl1WcHV0, 343,444)'),
+    "replace circulator pump boiler": ("boiler-steam", SC + '"How to Replace a Circulator Pump on a Boiler" (flpbqJu2sT8, 236,222)'),
+    "install ductless ac and heating": ("mini-split", SC + '"How To install Split Ductless AC & Heating System // Start to Finish - 1 PERSON!" (kEWzIfnIhUw, 221,217)'),
+    "no heat troubleshooting": ("furnace", SC + '"Top 10 Heating Problems EASY Fixes for No HEAT - Boiler / Furnace Troubleshooting OIL HEAT" (Xd-Og809TUo, 216,421)'),
+    "oil heat troubleshooting": ("oil-furnace", SC + '"Top 10 Heating Problems EASY Fixes for No HEAT - Boiler / Furnace Troubleshooting OIL HEAT" (Xd-Og809TUo, 216,421)'),
+    "best portable air conditioner": ("ac-window", SC + '"The BEST Portable Air Conditioner Just Got BETTER for 2026" (OGVXmIZtEG8, 65,273)'),
+    "mini split hidden features": ("mini-split", SC + '"3 Unknown Features on Mr Cool Mini Split Air Conditioners" (cC-J0ZCUH28, 32,326)'),
+    "pellet stove tax credit": ("wood-stove", SC + '[borderline, lean include] "Everyone will be buying pellet stoves after learning this news" (9d9TL02idO4, 1,399,618)'),
+    "spray foam alternative": ("insulation", SC + '[borderline, operator call] "Spray Foam is Expensive. Use THIS Instead!" (sHL4lBAhklA, 1,519,132)'),
+    "garage door seal": ("drafts", SC + '[borderline, operator call] "How to Make Your Garage Door SEAL TIGHT as a Fridge" (EjLJm0g4whg, 906,215)'),
+    "crawl space encapsulation": ("humidity", SC + '[borderline, operator call] "MINDBLOWING Crawlspace Transformation - Next Level ENCAPSULATION" (CXjNHwFg0aQ, 242,232)'),
+    "staying warm when the power is out": ("outage-heat", SC + '[under 5 min] "Best Kept Secret for Staying Warm When the Power is Out" (SIyntnwE7O8, 43,932)'),
+    "zone valve no heat": ("boiler-steam", SC + '[under 5 min] "No Heat? How to Replace & Troubleshoot a Taco Zone Valve" (xuswKBmauI4, 136,871)'),
+    "cheapest air conditioner": ("ac-window", SC + '[under 5 min] "TESTING the CHEAPEST AIR CONDITIONER on Amazon" (JDq4i_lT8YI, 174,583)'),
+    "dual hose portable air conditioner": ("ac-window", SC + '[under 5 min] "BEST Portable Air Conditioner I have ever tested - DUAL HOSE" (NI-KNyp9tdQ, 519,566)'),
+}
+
 ALPHA_SEEDS = ["ac", "furnace", "heat pump", "thermostat", "air filter", "electric bill", "heating bill",
                "boiler", "hvac", "insulation"]
 
@@ -152,6 +193,8 @@ def plan():
             add(f.format(n=n), t, "framing")
     for p, (t, _title) in KNOWN_TITLE_PHRASES.items():
         add(p, t, "known-title")
+    for p, (t, _title) in SILVER_CYMBAL_PHRASES.items():
+        add(p, t, "silver-cymbal")
     for s in ALPHA_SEEDS:
         t = next((k for k, v in TOPICS.items() if s in v), "hvac-general")
         for ch in string.ascii_lowercase:
@@ -212,31 +255,37 @@ BRIEF_TOPICS = {"ac-central", "ac-window", "mini-split", "heat-pump", "furnace",
                 "wood-stove", "space-heater", "ceiling-fan", "attic-fan"}
 # helper-added topics: keep-cool, keep-warm, evap-cooler, electric-heat, geothermal, home-warranty, hvac-general
 
-STRONG = re.compile(r"hvac|furnace|heat ?pump|air condition|mini ?split|ductless|boiler|thermostat|capacitor|"
-                    r"contactor|blower motor|igniter|ignitor|flame sensor|condenser|evaporator|freon|refrigerant|"
-                    r"\br-?22\b|r-?410a?|r-?454|dehumidif|humidifier|spray foam|weather ?strip|insulat|baseboard|"
-                    r"space heater|wood ?stove|wood burning|pellet stove|kerosene heater|propane heater|swamp cooler|"
-                    r"evaporative cooler|geothermal|ceiling fan|attic|whole house fan|electric bill|energy bill|"
-                    r"gas bill|utility bill|power bill|heating bill|electricity bill|light bill|heating oil|"
-                    r"oil burner|oil tank|steam heat|radiator|\bducts?\b|ductwork|short cycl|merv|nest thermostat|"
-                    r"ecobee|air purifier|indoor air|carbon monoxide|power outage|window ac|portable ac|ac unit|"
-                    r"central air|central ac|home warranty|drafty|draft stopper|draft blocker|hydronic|"
-                    r"heating system|cooling system|electric heat|radiant floor|fireplace insert|heat exchanger|"
-                    r"condensate|utility compan|power compan|without power|no power|without electricity|"
-                    r"no electricity|without heat|no heat\b|without ac\b|no ac\b|air vents?|hvac")
+STRONG = re.compile(r"hvac|furnace|heat ?pump|air condition|mini[ -]?splits?|ductless|thermostat|"
+                    r"contactor|blower motor|igniter|ignitor|flame sensor|evaporator coil|freon|refrigerant|"
+                    r"\br-?22\b|r-?410a?|r-?454|dehumidif|humidifier|spray foam|weather ?strip|baseboard heat|"
+                    r"space heaters?|wood ?stoves?|wood burning stove|pellet stoves?|kerosene heater|propane heater|"
+                    r"swamp cooler|evaporative cooler|geothermal|ceiling fans?|attic fan|attic insulation|"
+                    r"whole house fan|\belectric bills?\b|\benergy bills?\b|\bgas bills?\b|\butility bills?\b|"
+                    r"\bpower bills?\b|\bheating bills?\b|\belectricity bills?\b|\blight bills?\b|heating oil|"
+                    r"oil burner|oil furnace|steam heat|steam radiator|cast iron radiator|\bducts?\b|ductwork|"
+                    r"short cycl|\bmerv\b|nest thermostat|ecobee|air purifier|indoor air|carbon monoxide|"
+                    r"power outage|window ac|portable ac|\bac units?\b|central air|central ac|home warranty|drafty|"
+                    r"draft stopper|draft blocker|hydronic|heating system|cooling system|electric heat|radiant floor|"
+                    r"fireplace insert|heat exchanger|condensate|utility compan|power compan|without power|"
+                    r"no power\b|without electricity|no electricity|without heat|no heat\b|without ac\b|no ac\b|"
+                    r"air vents?|blown in insulation|rim joist|ac capacitor|hvac capacitor|run capacitor|"
+                    r"start capacitor|condenser coil|condenser fan|ac condenser")
 WEAK = re.compile(r"\bac\b|\ba/c\b|\bheat(ing|er|ers)?\b|\bcool(ing)?\b|\bwarm\b|\bcold\b|\bfilters?\b|\bvents?\b|"
                   r"\bwindows?\b|\bfans?\b|\bmold\b|\bhumidity\b|\bfireplace\b|\bgenerator\b|\bcurtains?\b|"
                   r"\bcaulk|\bdrafts?\b|\bcoils?\b|\bstove\b|\bchimney\b|\bpropane\b|\bkerosene\b|\bfreezing\b|"
-                  r"\bhot\b|\benergy\b|\bthermal\b|\bcondensation\b")
+                  r"\bhot\b|\benergy\b|\bthermal\b|\bcondensation\b|\bboilers?\b|\bradiators?\b|\bcapacitors?\b|"
+                  r"\battic\b|\binsulat\w*|\bcondenser\b|\bsteam\b|\bpilot light\b")
 CONTEXT = re.compile(r"\bhouse\b|\bhome\b|\broom\b|bedroom|basement|\battic|apartment|upstairs|\bwinter\b|"
-                     r"\bsummer\b|\bunit\b|not cooling|not working|not heating|blowing|leaking|freez|frozen|\bbill\b|"
-                     r"\bair\b|\bcentral\b|\bwindow ac\b|outside unit|compressor|\bdrain\b|\bline\b|breaker|"
+                     r"\bunit\b|not cooling|not working|not heating|blowing|leaking|freez|frozen|\bbill\b|"
+                     r"\bair\b|\bcentral\b|\bwindow ac\b|outside unit|compressor|\bdrain\b|breaker|"
                      r"\bseer\b|\bton\b|\binstall|\brepair|\bmaintenance|\bclean|\btune|\bhvac\b|\bfurnace\b|"
                      r"\bduct|cheap|save money|\bdoor\b|\bstorm\b|\bfilm\b|\binsulat|\bfloor\b|\bwall\b|"
                      r"\bceiling\b|\bfirewood\b|\bwood\b|\bpower outage\b|\bno power\b|\bthermostat\b|"
                      r"\bkeep\b|\bwithout\b|\bcheaply\b|\bdiy\b|\btips\b|\bhack|\bmistake|\bfix\b|\bnoise|\bsmell|"
-                     r"\bcapacitor|\bcoil|\bfreon|\bwater\b|\bice\b|\bturn(ing)? (on|off)\b|\bset(ting)?\b|\bvs\b|"
-                     r"\bbrands?\b|\bcost\b|\bsystem\b|\bheat\b|\bcool\b|\belectric\b|\bgas\b|\bsenior")
+                     r"\bcapacitor|\bcoil|\bfreon|\bwater\b|\bice\b|\bturn(ing)? (on|off)\b|\bvs\b|"
+                     r"\bbrands?\b|\bcost\b|\bsystem\b|\belectric\b|\bgas\b|\boil\b|\bsenior|\bleak|\bpressure\b|"
+                     r"\bvalve|\bbleed|\bbanging|\bpipes?\b|\bbaseboard|\bthermal|\bfiberglass|\bspray|\bfoam\b|"
+                     r"\bbattery\b|\bpellet|\bburn|\bplumb|\bvent|\bheater|\bheating\b")
 EXCLUDE = re.compile(r"\bcar\b|\bcars\b|\bauto\b|vehicle|\btruck|\bjeep\b|honda|toyota|\bford\b|chevy|chevrolet|bmw|"
                      r"nissan|hyundai|\bkia\b|tesla|subaru|dodge|\bram 1500|silverado|f-?150|\brv\b|camper|\bvan\b|"
                      r"\bboat\b|motorcycle|engine|coolant|minecraft|\bgame\b|gaming|\bgta\b|fortnite|roblox|valhalla|"
@@ -272,10 +321,19 @@ EXCLUDE = re.compile(r"\bcar\b|\bcars\b|\bauto\b|vehicle|\btruck|\bjeep\b|honda|
                      r"leadership|diverter|\buk\b|ireland|australia|\bcombi\b|\bmath\b|problem solving|"
                      r"application|download|pay online|name change|\bpumped\b|\bnatok\b|\bvlog\b|\bgta\b|"
                      r"\bmlbb\b|free fire|\bpubg\b|\bbgmi\b|\bstalker\b|\bterraria|\boutpost\b|"
-                     r"skins?\b|\bemote|secret base|\bboss\b|secret level|\bost\b|\bwalkthrough|\bgameplay")
+                     r"skins?\b|\bemote|secret base|\bboss\b|secret level|\bost\b|\bwalkthrough|\bgameplay|"
+                     r"\bturbo|predator \d|lid flip|\bcover\b|billie|eilish|brockhampton|saigon|neko case|lullaby|football|gold rush|\bxcx\b|"
+                     r"zenekar|mekanism|heroes|juniors|\birl\b|division 2|unboxing|eggman|baba is you|activate|"
+                     r"draft tips|mock draft|draft picks?|\bjee\b|react native|\bkvl\b|lavadora|daewoo|delhi|mumbai|"
+                     r"bangalore|chennai|hyderabad|karachi|lahore|dhaka|\bnepal|\bsri lanka|\bkenya|\bghana|"
+                     r"\bmicrophone|\bmic\b|\bguitar|\bamp\b|\bamplifier|\bspeaker|\baudio|\bpedal|\bsynth|"
+                     r"\bcircuit\b|\bpcb\b|\barduino|\bphysics|\bclass 1[0-2]|\bformula\b|\bderivation|\bnumericals?|"
+                     r"\bsteam deck|\bsteam game|\bsteam (sale|account|workshop|link|wallet|summer sale)|\bon steam\b|"
+                     r"\bfull steam|\bsteamboat|\bsteam engine|\bsteam train|\blocomotive|\btrain\b|\bexplosion\b|"
+                     r"\bxbox\b|\bps[45]\b|\bplaystation|\bnintendo|\bswitch 2\b")
 
 TOPIC_RULES = [
-    (r"power outage|without power|no power|without electricity|no electricity|generator|blackout", "outage-heat"),
+    (r"power outage|without power|no power|without electricity|no electricity|generator|blackout(?! curtain)", "outage-heat"),
     (r"short cycl", "short-cycling"),
     (r"freez|frozen|\bice\b|icing", "ac-freezing"),
     (r"smell|odor|odour|stink", "smells"),
@@ -307,9 +365,9 @@ TOPIC_RULES = [
     (r"wood ?stove|pellet|wood burn|fireplace|firewood|chimney|\bstove\b", "wood-stove"),
     (r"geothermal", "geothermal"),
     (r"swamp cooler|evaporative", "evap-cooler"),
-    (r"ceiling fan|box fan|fan direction|\bfans?\b", "ceiling-fan"),
     (r"insulat|spray foam|blown in|fiberglass|rim joist|cellulose", "insulation"),
     (r"attic|whole house fan|soffit|ridge vent", "attic-fan"),
+    (r"ceiling fan|box fan|fan direction|(?<!hvac )(?<!furnace )(?<!ac )(?<!blower )\bfans?\b", "ceiling-fan"),
     (r"weather ?strip|draft|caulk|door sweep|air seal", "drafts"),
     (r"window|curtain|blinds|shades", "windows"),
     (r"dehumidif|humidif|humidity|condensation|damp", "humidity"),
@@ -394,24 +452,6 @@ def norm(k):
     return k
 
 
-def silver_cymbal_keywords(path):
-    """Pull titles from a markdown table in studies/hvac/seeds/silver-cymbal.md if it exists."""
-    if not os.path.exists(path):
-        return []
-    out = []
-    for line in open(path, encoding="utf-8"):
-        if not line.startswith("|"):
-            continue
-        cells = [c.strip() for c in line.strip().strip("|").split("|")]
-        for c in cells:
-            # a title cell: long, has letters, not an ID/number/link
-            if len(c) > 25 and re.search(r"[A-Za-z]{3,}.*\s.*[A-Za-z]{3,}", c) and not c.startswith("http") \
-                    and not re.fullmatch(r"[-:\s]+", c):
-                out.append(c.strip('"*'))
-                break
-    return out
-
-
 def build():
     here = os.path.dirname(os.path.abspath(__file__))
     raw = os.path.join(here, "..", "raw")
@@ -438,6 +478,12 @@ def build():
     # 2. known-title phrases
     for p, (t, title) in KNOWN_TITLE_PHRASES.items():
         add(p, t, f"known title: {title}", "known-title")
+    # 4. phrases from Silver Cymbal's titles (hand-cut, see SILVER_CYMBAL_PHRASES)
+    sc_path = os.path.join(here, "..", "..", "seeds", "silver-cymbal.md")
+    sc_titles = sorted({v[1] for v in SILVER_CYMBAL_PHRASES.values()})
+    for p, (t, title) in SILVER_CYMBAL_PHRASES.items():
+        add(p, t, title, "silver-cymbal")
+
     # 3. autocomplete, in plan order (the first query that returned a suggestion is its source)
     dropped = []
     for q in plan_q:
@@ -450,12 +496,6 @@ def build():
                 dropped.append(sn)
                 continue
             add(sn, plan_q[q]["topic"], f'autocomplete of "{q}"', "autocomplete")
-    # 4. Silver Cymbal titles (if the other helper's file exists)
-    sc_path = os.path.join(here, "..", "..", "seeds", "silver-cymbal.md")
-    sc_titles = silver_cymbal_keywords(sc_path)
-    for title in sc_titles:
-        add(title, "hvac-general", f"Silver Cymbal title", "silver-cymbal")
-
     for k, r in rows.items():
         r["priority"] = "PRIORITY" if k in PRIORITY else "EXTENDED"
     missing = [k for k in PRIORITY if k not in rows]
