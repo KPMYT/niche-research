@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Checker tool for HVAC round 1 (written 2026-10-23 by the checker, independent of the helpers' scripts).
 Usage:
-  python3 -I check_round1.py tab <channel_id> <out.json>      # every item on the Videos tab (default sort = latest), all pages
+  python3 -I check_round1.py tab <channel_id> <out.json> [Latest|Popular|Oldest]  # every item on the Videos tab under that sort chip, all pages
   python3 -I check_round1.py shorts <channel_id>              # count of items on the Shorts tab (first pages)
   python3 -I check_round1.py next <out.jsonl> <id> [<id>...]  # exact title, views, date, owner, channel id via innertube /next
   python3 -I check_round1.py upnext <id> <pages>              # up-next list: id | channel | channelId
@@ -79,22 +79,29 @@ def conts(data):
     return toks
 
 
-def cmd_tab(cid, out):
+def cmd_tab(cid, out, sort="Latest"):
+    """Load the Videos tab, click the sort chip (Latest / Popular / Oldest), then follow the grid's continuation."""
     data, _ = page(f"https://www.youtube.com/channel/{cid}/videos")
-    items = tab_items(data); pages = 1
-    toks = conts(data)
-    while toks:
-        r = api("browse", {"continuation": toks[-1]}); pages += 1
-        new = tab_items(r)
-        if not new: break
-        items += new; toks = conts(r)
+    chip = [c for c in walk(data, "chipViewModel", []) if c.get("text") == sort]
+    r = api("browse", {"continuation": walk(chip[0], "token", [])[0]}) if chip else data
+    items = tab_items(r); pages = 1
+    while True:
+        toks = [t for t in conts(r)]
+        if not toks: break
+        got = False
+        for t in toks:
+            r2 = api("browse", {"continuation": t})
+            new = tab_items(r2)
+            if new:
+                items += new; r = r2; pages += 1; got = True; break
+        if not got: break
     seen = set(); uniq = []
     for i in items:
         if i["id"] and i["id"] not in seen:
             seen.add(i["id"]); uniq.append(i)
-    json.dump({"channel_id": cid, "pulled": datetime.datetime.now(datetime.timezone.utc).isoformat(), "pages": pages,
+    json.dump({"channel_id": cid, "sort": sort, "pulled": datetime.datetime.now(datetime.timezone.utc).isoformat(), "pages": pages,
                "n": len(uniq), "items": uniq}, open(out, "w"), indent=1)
-    print("pages", pages, "items", len(items), "unique", len(uniq))
+    print("sort", sort, "pages", pages, "items", len(items), "unique", len(uniq))
 
 
 def cmd_shorts(cid):
@@ -208,7 +215,7 @@ def cmd_ac(q):
 
 if __name__ == "__main__":
     c = sys.argv[1]
-    if c == "tab": cmd_tab(sys.argv[2], sys.argv[3])
+    if c == "tab": cmd_tab(sys.argv[2], sys.argv[3], *(sys.argv[4:5]))
     elif c == "shorts": cmd_shorts(sys.argv[2])
     elif c == "next": cmd_next(sys.argv[2], sys.argv[3:])
     elif c == "upnext": cmd_upnext(sys.argv[2], sys.argv[3])
