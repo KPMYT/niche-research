@@ -16,7 +16,8 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 |---|---|
 | `README.md` | This file: what's here, the status, the dates pulled. |
 | `log.md` | Every round: what ran, how many helpers, what changed. |
-| `seeds/` | Round 1: Silver Cymbal's HVAC, insulation and energy-bill videos, the leads they give, the re-check of the known channels, the round 2 keyword list, the first channel finds and the round 1 check. |
+| `labels.md` | Label definitions (emotions, villains, formats, sub-niches, types, the multiple), including proposed new ones marked NEW. |
+| `seeds/` | Round 1: `silver-cymbal.md` (22 HVAC seed videos, labelled; borderline and adjacent tables), `known-channels-recheck.md` (the 8 known channels re-checked), `leads-channels.md` (up-next and similar-video leads), `channel-finds-round1.md` (174 channels found), `keywords-round2.md` (round 2 keyword list), `check-round1.md` (the round 1 check). |
 | `data/raw/` | Raw pulls (JSON, CSV), one file per pull, named with the date. |
 | `data/tools/` | The small scripts used. Copied from `recovered/2026-10-22-roger-sub-brands/tools/` on 2026-10-23, then adapted where noted. |
 | `thumbnails/` | Deliverable 5 (later rounds). |

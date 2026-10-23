@@ -164,15 +164,17 @@ def upnext_items(r):
 
 def cmd_upnext(vid, pages):
     rec, r = nxt(vid)
-    items = upnext_items(r); toks = []
-    for c in walk(r, "continuationItemRenderer", []):
+    sr = walk(r, "secondaryResults", [])
+    items = upnext_items(sr); toks = []
+    for c in walk(sr, "continuationItemRenderer", []):
         t = walk(c, "token", [])
         if t: toks.append(t[0])
     for _ in range(int(pages) - 1):
         if not toks: break
-        r2 = api("next", {"continuation": toks[-1]})
+        r2 = api("next", {"continuation": toks[0]})
         items += upnext_items(r2)
         toks = [walk(c, "token", [])[0] for c in walk(r2, "continuationItemRenderer", []) if walk(c, "token", [])]
+        toks = toks[:1]
     print(json.dumps({"seed": vid, "pulled": rec["pulled"], "n": len(items), "items": items}, ensure_ascii=False))
 
 

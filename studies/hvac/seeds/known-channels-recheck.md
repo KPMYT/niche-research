@@ -205,3 +205,7 @@ From NexLev `get_similar_channels` for Ray Dutton (level 2, 120 channels), the N
 - Since mid-September, Ray Dutton's titles have been copied by at least John The HVAC Guy, Gus Whitaker, Hank Álvarez, Home Fix Garage, Hal's Boiler Room and, on a large on-camera channel, The DIY HVAC Guy. Measured: matching titles and dates.
 - Most of the copies get 10 to 2,000 views. Only the DIY HVAC Guy's version broke out (1.19M).
 - Hal's Boiler Room is the only boiler-named channel seen, and it is 11 days old.
+
+## Checker notes (2026-10-23, `seeds/check-round1.md`)
+
+All 8 rows passed. Two type notes: Vent Exposed's older pest-control thumbnails show a man, and 1 of 9 Exposi thumbnails shows a face in profile, so "faceless" for these two is mostly, not fully.

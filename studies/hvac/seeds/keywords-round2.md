@@ -141,7 +141,7 @@ Framing notes: "they don't want you to know" also holds scam / upsell / secret p
 | 47 | ac filter destroying | `filters` | mistakes | known title: The $30 AC Filter Is Destroying Your HVAC System (Ray Dutton's Garage, 761K) |
 | 48 | furnace filter mistakes | `filters` | mistakes | autocomplete of "furnace mistakes" |
 | 49 | furnace filters cheap vs expensive | `filters` | X vs Y | autocomplete of "furnace filter" |
-| 50 | do air filters really work | `filters` | myth | autocomplete of "the only air filter" |
+| 50 | do air filters really work | `filters` | myth | autocomplete of "the only air filter" (returned at 03:30 UTC 2026-10-23; not returned on the checker's re-pull) |
 | 51 | how often should you change your air filter | `filters` | myth | autocomplete of "before you turn on your air filter" |
 | 52 | closing vents | `ducts-vents` | plain topic | brief topic list |
 | 53 | is ac duct cleaning worth it | `ducts-vents` | myth | autocomplete of "cheap air ducts" |
@@ -227,7 +227,7 @@ Framing notes: "they don't want you to know" also holds scam / upsell / secret p
 | 133 | space heater vs central heat | `space-heater` | X vs Y | brief topic list; autocomplete of "space heater vs central heat"; autocomplete of "space heater vs" |
 | 134 | space heater save money | `space-heater` | cheap hack | autocomplete of "space heater save money"; autocomplete of "save money space heater"; autocomplete of "heater save money"; autocomplete of "heating save money" |
 | 135 | ceiling fan direction | `ceiling-fan` | plain topic | brief topic list; autocomplete of "ceiling fan direction" |
-| 136 | ceiling fan winter | `ceiling-fan` | plain topic | brief topic list; autocomplete of "ceiling fan winter" |
+| 136 | ceiling fan winter | `ceiling-fan` | plain topic | added topic (the brief puts ceiling fans in the electrical study; kept here for winter heat only); autocomplete of "ceiling fan winter" |
 | 137 | attic fan | `attic-fan` | plain topic | brief topic list; autocomplete of "attic fan" |
 | 138 | cool your attic | `attic-fan` | plain topic | known title: This $0 Fix Cools Your Attic by 55F. Why Don't Roofers Tell You? (Candlelight Archives, 586K) |
 | 139 | whole house fan | `attic-fan` | plain topic | brief topic list; autocomplete of "whole house fan" |

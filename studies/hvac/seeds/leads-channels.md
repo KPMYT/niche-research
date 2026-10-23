@@ -29,7 +29,7 @@ Sorted by hop 1, then hop 2, then NexLev similar. Silver Cymbal himself is left 
 | # | Channel | ID / handle | Up-next hop 1 (of 27 sources; of 22 seeds) | Up-next hop 2 (of 10) | NexLev similar videos (of 22 seeds) | HVAC-related? | Example recommended video | Subs seen (source) |
 |---|---|---|---|---|---|---|---|---|
 | 1 | The DIY HVAC Guy | `UC2w60mhlxFmAhoi2oSDcEng` @diyhvacguy | 15 (12) | 7 | 13 | yes: HVAC contractor DIY (Utah) (reading) | "The Mini Split - REINVENTED." (`-VPZuCK0Ag0`, 1M views, 31:23) | 527K (About, about.json) |
-| 2 | How To Home | `UCpb-xu6Oun_d41RjztUgFWA` @HowToHomeDIY | 14 (11) | 6 | 4 | yes: AC cleaning/fixes, capacitor, filters (reading) | "How To Clean Your AC and Coils Like the Pros Do / WILL Make Air Blow Colder" (`k7PSzi7NSyc`, 5.6M views, 11:01) | 854K (About, about.json) |
+| 2 | How To Home | `UCpb-xu6Oun_d41RjztUgFWA` @HowToHomeDIY | 14 (11) | 6 | 4 | yes: AC cleaning/fixes, capacitor, filters (reading) | "How To Clean Your AC and Coils Like the Pros Do \| WILL Make Air Blow Colder" (`k7PSzi7NSyc`, 5.6M views, 11:01) | 854K (About, about.json) |
 | 3 | Ray Dutton's Garage | `UCvcKEgZcY9ZgEULZouaNAOA` @RayDuttonsGarage | 13 (13) | 7 | 0 | yes: faceless 'retired HVAC pro' (Roger's model) (reading) | "The $30 AC Filter Is Destroying Your HVAC System (Here's Why)" (`_ZgVjFpBnQA`, 763K views, 15:10) | 31.5K (About, about.json) |
 | 4 | DIY JIM | `UCj-e0GX6QhDChCPUBeX-FbA` @DIYJIM | 12 (10) | 1 | 2 | yes, mixed: diesel heaters + mini-split cleaning + oil burners (reading) | "Heating My 2000 Sq Ft House With a Chinese Diesel Heater (Round 2 – Even Colder!)" (`bPj-y5o0Y7s`, 186K views, 42:01) | 112K (About, about.json) |
 | 5 | Snowstead | `UCT-HKsjRFI3S3BQVqeYdsYw` @Snowstead | 12 (11) | 1 | 0 | heating-adjacent: off-grid / diesel-heater home heating (reading) | "Can a DIRT CHEAP Diesel Heater Actually Keep My Homestead Warm?" (`s6gYsaYvdjg`, 1.3M views, 17:32) | 123K (About, this pull) |
@@ -45,7 +45,7 @@ Sorted by hop 1, then hop 2, then NexLev similar. Silver Cymbal himself is left 
 | 15 | Fix This House | `UCjhwaa5Ufj-l_5JGFwfp98Q` @FixThisHouse | 8 (6) | 2 | 2 | yes (12 of 16 titles; reading) | "HVAC Contractors Charge Hundreds For This SECRET 5-Minute AC Fix!" (`9QJL_dhfudc`, 537K views, 9:51) | 731K (About, about.json) |
 | 16 | Project Farm | `UC2rzsm1Qi6N1X-wuOg_p0Ng` @ProjectFarm | 8 (8) | 2 | 0 | partly: product tests, some AC and diesel heaters (reading) | "Coldest and Quietest Air Conditioner Ever Tested!" (`BSTkKiJPeaQ`, 1M views, 20:18) | 3.94M (About, about.json) |
 | 17 | Word of Advice TV | `UCekKmUEJxBRx5tI1tUyHOqA` @WordofAdviceTV | 7 (7) | 1 | 7 | yes (15 of 16 titles; reading) | "Window Air Conditioner Not Cooling And The Most Common Fix" (`an1yClPV4i4`, 2.3M views, 14:55) | 661K (About, about.json) |
-| 18 | Zen Garden Oasis | `UCq0fxytZwEYul4AmfEiXL_w` @ZenGardenOasis. | 6 (4) | 4 | 0 | heating-adjacent: 'unlimited heat, no electric' rocket/candle heaters (reading) | "UNLIMITED Heat For Your Home / NO ELECTRIC NEEDED" (`7LV5wY-iM34`, 12M views, 26:04) | 789K (About, about.json) |
+| 18 | Zen Garden Oasis | `UCq0fxytZwEYul4AmfEiXL_w` @ZenGardenOasis. | 6 (4) | 4 | 0 | heating-adjacent: 'unlimited heat, no electric' rocket/candle heaters (reading) | "UNLIMITED Heat For Your Home \| NO ELECTRIC NEEDED" (`7LV5wY-iM34`, 12,933,357 views (checker, 2026-10-23; up-next showed "12M"), 26:04) | 789K (About, about.json) |
 | 19 | Mikey Pipes - Pipe Doctor Plumbing & Heating & Air | `UCG_Pwm8tfMnJg1Rp2Fsd-qA` @PipeDoctor | 6 (6) | 2 | 5 | yes (19 of 19 titles; reading) | "Homeowner Tries To Fix Gas Boiler and Fails Miserably How to Bled or Purge Zones" (`cygl4HHnzdk`, 247K views, 31:54) | 207K (About, about.json) |
 | 20 | DEBOSS GARAGE | `UCLXV9vzJwgYOyGaZlD89VfA` @DEBOSSGARAGE | 6 (5) | 1 | 0 | heating-adjacent: diesel heaters (reading) | "Make a $100 Amazon Diesel Heater Even Better With This Simple Trick" (`XfzCeXlDq0A`, 1.8M views, 26:11) | not found |
 | 21 | Japan with Nao | `UCBK3AwEX1vL8qky015Z93vA` @JapanwithNao | 6 (6) | 1 | 0 | partly: Japanese homes without central heating (reading) | "No Central Heating? Here's What Japanese Homes Do Instead" (`FsmLvHuA96M`, 1.8M views, 14:32) | 91.1K (About, this pull) |
@@ -146,7 +146,7 @@ Sorted by hop 1, then hop 2, then NexLev similar. Silver Cymbal himself is left 
 | 116 | Home Caprice | `UCgm8JAXkb9MpHQwKaksj4PA` @homecapricehc | 1 (1) | 0 | 3 | yes (1 of 1 titles; reading) | "Dry Mode in Air Conditioners Explained [Quick Overview]" (`ANcISCxrvTQ`, 791K views, 5:34) | not found |
 | 117 | FarmCraft101 | `UCO4AaIooUgGTlBH64KWO76w` @FarmCraft101 | 0 (0) | 4 | 1 | yes (3 of 4 titles; reading) | "DIY Mini Split Install: Mr. Cool, Multi Zone System." (`enDmWk5QKF8`, 355K views, 53:28) | not found |
 | 118 | rowe robles and The Firearms Bench | `UCCioen-NhBnRx23njAOGO4w` @rowerobles6322 | 0 (0) | 3 | 0 | yes (2 of 3 titles; reading) | "Only 1% of HVAC Technicians Know This AC Trick (USE IT NOW)" (`bk1Bvq4Kx7o`, 1.2K views, 25:04) | not found |
-| 119 | Ask Big Jim. | `UCMDHm9pBWFY8r1NUkyWxPBw` @ask.big.jim01 | 0 (0) | 3 | 0 | yes (3 of 3 titles; reading) | "How To Clean Your AC and Coils Like the Pros Do / WILL Make Air Blow Colder" (`f4lEHVgqU3I`, 10K views, 13:37) | 437 (About, about.json) |
+| 119 | Ask Big Jim. | `UCMDHm9pBWFY8r1NUkyWxPBw` @ask.big.jim01 | 0 (0) | 3 | 0 | yes (3 of 3 titles; reading) | "How To Clean Your AC and Coils Like the Pros Do \| WILL Make Air Blow Colder" (`f4lEHVgqU3I`, 10K views, 13:37) | 437 (About, about.json) |
 | 120 | The Cooler | `UCZ9yiigZbPeeDZs1ze0QaCQ` @TheCoolerYT | 0 (0) | 3 | 0 | yes (3 of 3 titles; reading) | "The Only 3 Mini Splits Worth Buying in 2026 (Everyone Else Is Wasting Your Money)" (`18o412r4IXA`, 6K views, 25:57) | not found |
 | 121 | HeatAndCool.com | `UCTppb1CuxtXej-1JE4BxoZg` @HeatAndCool | 0 (0) | 3 | 0 | yes (3 of 3 titles; reading) | "Klimaire Mini Split Installation" (`0whZxKT4BF0`, 1.5K views, 18:22) | not found |
 | 122 | Robert Longechal | `UCc_pRip5WE5RRxadu6mL1hw` @robertlongechal | 0 (0) | 3 | 0 | yes (3 of 3 titles; reading) | "How to easily install a dual split reversible air conditioner - DIY tutorial with Robert" (`3DV8zQtDMeA`, 2.2M views, 17:18) | not found |
@@ -164,7 +164,7 @@ Sorted by hop 1, then hop 2, then NexLev similar. Silver Cymbal himself is left 
 **Readings worth a look (not measured):**
 - Faceless "retired pro" style titles do get paired with these seeds: Ray Dutton's Garage (13 lists), Hank Cole ("The $5 Fix That Makes Your AC Blow 9° Colder — 40 Years In, Nobody Tells You This", `HPYZfXWGzjQ`, 156K), and a home-security collab "Seniors, Put Foil on Your Door Knob Tonight — A Retired Locksmith Explains Why" (`M2E-MjKZKHk`, 242K, 5 lists).
 - Ramón Delgado (@FixTheMexicanWay, 33.4K subs, 26 videos) shows up in 5 hop-1 and 4 hop-2 lists with "This Is How We Cool Our House Without AC (The Mexican Way)" (`k1HGyewDZ_k`, 958K, 1 month old). A "(The X Way)" title format getting pushed next to HVAC how-tos.
-- Heating "without the bill" is a big neighbour: diesel heaters (DIY JIM, Snowstead, DEBOSS GARAGE, Joshua De Lisle, Chuck Kososky), wood stoves (Bezdymne Piece / Smokeless Stoves, Greenhill Forge, Precision Metal) and "UNLIMITED Heat For Your Home | NO ELECTRIC NEEDED" (Zen Garden Oasis, `7LV5wY-iM34`, 12M). 115 of the 899 hop-1 HVAC items are this kind.
+- Heating "without the bill" is a big neighbour: diesel heaters (DIY JIM, Snowstead, DEBOSS GARAGE, Joshua De Lisle, Chuck Kososky), wood stoves (Bezdymne Piece / Smokeless Stoves, Greenhill Forge, Precision Metal) and "UNLIMITED Heat For Your Home | NO ELECTRIC NEEDED" (Zen Garden Oasis, `7LV5wY-iM34`, 12,933,357 on the checker's pull). 115 of the 899 hop-1 HVAC items are this kind.
 
 ## Non-HVAC channels YouTube pairs with these seeds most (in at least 5 hop-1 lists)
 
@@ -218,8 +218,8 @@ Sorted by hop 1 + hop 2 lists, then NexLev similar. 691 videos qualify; top 40 s
 | 16 | `XfzCeXlDq0A` | "Make a $100 Amazon Diesel Heater Even Better With This Simple Trick" | DEBOSS GARAGE | 1.8M | 26:11 | 6 / 1 | 0 |
 | 17 | `FsmLvHuA96M` | "No Central Heating? Here's What Japanese Homes Do Instead" | Japan with Nao | 1.8M | 14:32 | 6 / 1 | 0 |
 | 18 | `bPj-y5o0Y7s` | "Heating My 2000 Sq Ft House With a Chinese Diesel Heater (Round 2 – Even Colder!)" | DIY JIM | 186K | 42:01 | 6 / 1 | 0 |
-| 19 | `7LV5wY-iM34` | "UNLIMITED Heat For Your Home / NO ELECTRIC NEEDED" | Zen Garden Oasis | 12M | 26:04 | 5 / 2 | 0 |
-| 20 | `k7PSzi7NSyc` | "How To Clean Your AC and Coils Like the Pros Do / WILL Make Air Blow Colder" | How To Home | 5.6M | 11:01 | 6 / 0 | 4 |
+| 19 | `7LV5wY-iM34` | "UNLIMITED Heat For Your Home \| NO ELECTRIC NEEDED" | Zen Garden Oasis | 12,933,357 (checker; up-next showed "12M") | 26:04 | 5 / 2 | 0 |
+| 20 | `k7PSzi7NSyc` | "How To Clean Your AC and Coils Like the Pros Do \| WILL Make Air Blow Colder" | How To Home | 5.6M | 11:01 | 6 / 0 | 4 |
 | 21 | `ozaw9QhxkQU` | "How to Install a Ductless Mini-Split Air Conditioner / This Old House" | This Old House | 5.2M | 7:09 | 3 / 3 | 3 |
 | 22 | `qwDq0JCo2eM` | "Complete DIY Mini Split Installation / New Mr Cool 4th Gen Unit" | Everyday Home Repairs | 1.1M | 18:43 | 3 / 3 | 2 |
 | 23 | `3DHyShrGUXw` | "Are Mini Split Air Conditioners Worth It? - Top 5 Pros & Cons" | Benjamin Sahlstrom | 2M | 15:33 | 4 / 2 | 1 |
