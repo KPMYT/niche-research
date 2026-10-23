@@ -14,7 +14,9 @@ about = json.load(open(PAGES + "/about.json"))
 sw = [r for r in json.load(open(RAW + "/channel-finds-ytsearch-2026-10-23.json"))["rows"]]
 sw += [r for r in json.load(open(RAW + "/channel-finds-ytsearch-2026-10-23-run1.json"))["rows"] if r["sort"] == "views"]
 
-KW = re.compile(r"(hvac|furnace|heat pump|\bac\b|a/c|air condition|thermostat|boiler|radiator|duct|vent|mini.?split|insulat|draft|draught|energy|electric bill|power bill|heating|heater|heat\b|cooling|cool|dehumid|humid|refrigerant|freon|capacitor|filter|power outage|blackout|warm|attic|weatherstrip|propane|wood stove|firewood|cold|winter|freez|air purif)", re.I)
+KW = re.compile(r"(hvac|furnace|heat pump|\bac\b|a/c|air condition|thermostat|boiler|radiator|ductless|ductwork|air ducts?|duct clean|mini.?split|insulat|drafts?\b|draughts?|heating|heat bill|electric bill|power bill|energy bill|cooling|cools?\b|cooler|dehumid|humidi|refrigerant|freon|capacitor|filters?\b|power outage|power goes out|blackout|no power|warm|attic|weatherstrip|propane|wood stove|firewood|heater|no heat|cold room|hot room|hottest room|hot house|free heat|heat (your|a|any|the) (home|house|room)|55.?f|air purif|heats?\b)", re.I)
+
+NEG = re.compile(r"(\bcar\b|car's|recessed|doorbell|water heater|hardwood|generator|tankless|#(?!\d)\w|jeep|dodge|shop vac)", re.I)
 
 def secs(t):
     if not t: return 0
@@ -151,7 +153,7 @@ ANN = {
 "UCjhwaa5Ufj-l_5JGFwfp98Q": ("DIY","homeowner",OC,"DIY host","garage door heat loss, home repairs"),
 "UCUtWNBWbFL9We-cdXkiAuJA": ("DIY","homeowner",OC,"This Old House (TV brand)","mini-split install, furnace maintenance, all home topics"),
 "UCjtUS7-SZTi6pXjUbzGHQCg": ("ENERGY","homeowner",OC,"Matt Ferrell, sustainable tech","geothermal, heat pumps, solar"),
-"UCy0tKL1T7wFoYcxCe0xjN6Q": ("DIY","homeowner",OC,"Alec Watson, explainer","portable AC, heat pumps, dehumidifiers explained"),
+"UCy0tKL1T7wFoYcxCe0xjN6Q": ("DIY","homeowner",OC,"explainer host (Alec Watson; my knowledge, not on page)","portable AC, heat pumps, dehumidifiers explained"),
 "UCI2VDyfqdsttBE0X3c-ArXg": ("ENERGY","mixed",OC,"Corbett and Grace Lunsford, home science","weatherstripping, window film, thermal cameras"),
 "UCM9ofY098XFqp-cCzVKhEyA": ("TRADE","mixed",OC,"HVAC/R journeyman, Phoenix; 'HVAC hacks'","bad installs; mostly car videos at top"),
 "UC-5zd31qI3tWQt8u4ZIJr-A": ("TRADE","trade",OC,"HVAC tech","reversing valves, boilers, tool loadouts"),
@@ -159,7 +161,7 @@ ANN = {
 "UCPgg9cUPr9g5dB_hb4k5cOQ": ("DIY","mixed",OC,"'Master HVAC technician', handyman influencer","plumbing/handyman shorts and long-form"),
 "UCq0fxytZwEYul4AmfEiXL_w": ("OFFGRID","homeowner",OC,"gardener (bonsai)","'unlimited heat for your home, no electric' (2 huge hits); gardening"),
 "UCZ32JAyPXVY2f3g2VxekBjA": ("DIY","homeowner",OC,"home repair host","window AC install/review, pellet stove, carpentry"),
-"UCnorhjQR4zJkT7AVNhu395Q": ("DIY","homeowner",OC,"Jeff, renovator 30 years","rim joist insulation/heat bill hit; renovation"),
+"UCnorhjQR4zJkT7AVNhu395Q": ("DIY","homeowner",OC,"renovation host ('30 years' per a title)","rim joist insulation/heat bill hit; renovation"),
 "UCP9-ESl_NU-f9iz9Tl_J3oQ": ("OUTAGE","homeowner",OC,"homestead/prepping couple","emergency heat, outages, recalls"),
 "UC99qA3pCW0u0-J2r49-naNA": ("OUTAGE","homeowner",OC,"survival/preparedness host","fan-to-AC hack, cut heating bill in half, power out"),
 "UCk0fGHsCEzGig-rSzkfCjMw": ("TRADE","mixed","faceless (animated explainers; my reading)","Paul Evans, engineering","heat pumps, HVAC and electrical explained"),
@@ -238,6 +240,7 @@ EXCLUDED = {  # candidates looked at and left out of the table, with the reason 
 "UCaxva4G655ldv6AHf1B9vvw": "Thomson AC: videos mostly under 5 minutes",
 "UCvtgUPTFH0vnjUnWKxpWgeA": "The Thermo Expert: videos under 5 minutes (rebate news)",
 "UCtBzNpJfPU8AWUEnEfAQFPw": "STAYCOOLHVAC: install clips, mostly under 5 minutes",
+"UCNdp0HrrequO9puyQvvh0Lw": "Gary Whitaker Backup Power: generator/power-station reviews (out of scope per operator)",
 }
 
 # ---------- sources ----------
@@ -275,7 +278,7 @@ def example(cid):
     for v in yts:
         if v.get("channelId") == cid and secs(v.get("duration")) >= 300:
             cands.append((num(v.get("viewCount")), v["title"], v["videoId"], "NexLev youtube_search"))
-    cands = [c for c in cands if c[0] is not None]
+    cands = [c for c in cands if c[0] is not None and not NEG.search(c[1] or "")]
     return max(cands) if cands else None
 
 def g(d, *ks):
@@ -329,5 +332,5 @@ for cid, (fit, aud, typ, persona, topics) in ANN.items():
 rows.sort(key=lambda r: -(r["subs"] or 0))
 with open(RAW + "/channel-finds-round1.csv", "w", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
-json.dump({"rows": rows, "excluded": EXCLUDED}, open("/tmp/claude-0/-home-user/d458a124-a50e-58e9-88d0-4274a40ceaa0/scratchpad/rows.json", "w"))
+json.dump({"rows": rows, "excluded": EXCLUDED}, open("/tmp/claude-0/-home-user/d458a124-a50e-58e9-88d0-4274a40ceaa0/scratchpad/cf1/rows.json", "w"))
 print(len(rows), "rows")
