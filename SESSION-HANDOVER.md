@@ -33,12 +33,13 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 ## Electrical and fire prevention research chat
 
 - **Owns:** `studies/electrical/`. Branch `claude/zealous-ptolemy-lxtx6t`.
-- **Status (2026-10-23):** round 1 running (6 helpers): Silver Cymbal's electrical videos, the six known channels re-checked, Just Stop Fire, the first spread from the seeds, and two new-channel hunts (core and adjacent; the operator asked for this).
-- **Operator decisions so far:** keep the 5-minute rule for counts and the top 100, with under-5-minute hits in a separate `short-reference.md` (not counted); Just Stop Fire gets a census row marked "ours".
-- **Method notes:** YouTube search's "upload date" sort no longer sorts and there's no "oldest" search sort; the loader uses date windows instead (`studies/electrical/data/tools/yt.py`). NexLev upload dates are rounded; exact dates come from video pages.
+- **Status (2026-10-23):** round 1 done and checked (6 helpers, 2 checkers; every fix logged in `studies/electrical/log.md`). Round 1 summary given to the operator; waiting on their answers before round 2.
+- **Operator decisions so far:** 5-minute rule for counts and the top 100, with under-5:00 hits in `short-reference.md` (not counted); Frederick's channel gets a census row marked "ours"; find new channels in the niche and next to it.
+- **What round 1 found (checked):** Frederick's channel is named "Frederick Barnes" (@FrederickBarnesYT), 97.7% of views on one video; the "never leave plugged in" list broke out on only 3 of 23 channels using it; persona channels in the core niche are all tiny (fire inspector/marshal personas: a few, none over 1K subs; firefighter, lineman and electrician personas mostly under 2K); the big new-channel winners are next door (winter blackouts, heat without power, backup power, seniors' safety).
+- **Method notes:** YouTube search's "upload date" sort no longer sorts and there's no "oldest" search sort; the loader uses date windows (`studies/electrical/data/tools/yt.py`, paging fixed 2026-10-23). NexLev dates are rounded; its faceless check marks AI-image personas "not faceless", so channel types need thumbnails. Helpers can't write `.md` report files; the main session saves their reports.
 - **Next actions:**
-  1. When round 1 lands: commit, run the checker on a sample, report to the operator.
-  2. Rounds 2-6 per `RESEARCH-BRIEF.md` section 4, including the presenter-background count (electrician, lineman, firefighter, inspector, none).
+  1. Get the operator's answers to the round 1 questions (adjacent lanes in scope; round 2 go).
+  2. Rounds 2-6 per `RESEARCH-BRIEF.md` section 4: keyword sweep, census metrics, top 100, sub-niche map, labelling, thumbnails, checking.
   3. Report the findings, go back and forth, then write `CONCLUSIONS.md`.
 
 ---
