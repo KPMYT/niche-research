@@ -23,12 +23,12 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 
 ## HVAC research chat
 
-- **Owns:** `studies/hvac/`.
-- **Status:** not started.
+- **Owns:** `studies/hvac/`. Branch `claude/adoring-galileo-wqloxp`.
+- **Status (2026-10-23):** round 1 (seeds) running. Plan approved by the operator, with two scope calls: generator videos count only when about outage heat (no product reviews); insulation, drafts and windows count when the title is about heating, cooling or the bill. The operator also asked round 1 to "find more channels too".
 - **Next actions:**
-  1. Read `CLAUDE.md`, `RESEARCH-BRIEF.md` and `findings/2026-10-22-hvac-and-electrical.md`.
-  2. Show the operator the round 1 plan (helpers, sources), then run the rounds in `RESEARCH-BRIEF.md` section 4.
-  3. Report the findings, go back and forth, then write `CONCLUSIONS.md`.
+  1. Finish round 1: Silver Cymbal seed pull, labelling, up-next leads, the re-check of the 8 known channels, the round 2 keyword list, the first channel finds, then the round 1 check.
+  2. Report round 1 to the operator and propose round 2 (keyword sweep, niche finder, channel list).
+  3. Then rounds 3-7 as in `RESEARCH-BRIEF.md` section 4, then `CONCLUSIONS.md` after the back and forth.
 
 ## Electrical and fire prevention research chat
 
