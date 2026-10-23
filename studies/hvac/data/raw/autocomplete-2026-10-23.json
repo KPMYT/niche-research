@@ -13333,6 +13333,566 @@
     "how to remove swamp cooler from roof"
    ],
    "fetched_at": "2026-10-23T03:37:12Z"
+  },
+  "swamp cooler doesn't want you to know": {
+   "topic": "evap-cooler",
+   "kind": "framing",
+   "suggestions": [
+    "swamp cooler not blowing air",
+    "swamp cooler not cooling",
+    "swamp cooler won't turn on"
+   ],
+   "fetched_at": "2026-10-23T03:37:12Z"
+  },
+  "before you swamp cooler": {
+   "topic": "evap-cooler",
+   "kind": "framing",
+   "suggestions": [
+    "best swamp cooler for room"
+   ],
+   "fetched_at": "2026-10-23T03:37:13Z"
+  },
+  "baseboard heater": {
+   "topic": "electric-heat",
+   "kind": "seed",
+   "suggestions": [
+    "baseboard heater",
+    "baseboard heater installation",
+    "baseboard heater not working",
+    "baseboard heater covers",
+    "baseboard heater replacement",
+    "baseboard heater removal",
+    "baseboard heater thermostat installation",
+    "baseboard heater covers diy",
+    "baseboard heater wiring",
+    "baseboard heater cleaning"
+   ],
+   "fetched_at": "2026-10-23T03:37:13Z"
+  },
+  "electric baseboard heat": {
+   "topic": "electric-heat",
+   "kind": "seed",
+   "suggestions": [
+    "electric baseboard heaters",
+    "electric baseboard heater installation",
+    "electric baseboard heater not working",
+    "electric baseboard heater thermostat",
+    "electric baseboard heat",
+    "electric baseboard heaters 120v vs 240v",
+    "electric baseboard heater wiring",
+    "electric baseboard heater thermostat installation",
+    "electric baseboard heater replacement",
+    "electric baseboard heater troubleshooting"
+   ],
+   "fetched_at": "2026-10-23T03:37:13Z"
+  },
+  "radiant floor heating": {
+   "topic": "electric-heat",
+   "kind": "seed",
+   "suggestions": [
+    "radiant floor heating",
+    "radiant floor heating system",
+    "radiant floor heating installation",
+    "radiant floor heating cost",
+    "radiant floor heating wood stove",
+    "radiant floor heating basement",
+    "radiant floor heating with wood boiler",
+    "radiant floor heating diy",
+    "radiant floor heating retrofit",
+    "radiant floor heating manifold installation"
+   ],
+   "fetched_at": "2026-10-23T03:37:14Z"
+  },
+  "electric furnace": {
+   "topic": "electric-heat",
+   "kind": "seed",
+   "suggestions": [
+    "electric furnace rust",
+    "electric furnace",
+    "electric furnace not blowing hot air",
+    "electric furnace not turning on",
+    "electric furnace troubleshooting",
+    "electric furnace blowing cold air",
+    "electric furnace installation",
+    "electric furnace not heating",
+    "electric furnace maintenance",
+    "electric furnace rust console"
+   ],
+   "fetched_at": "2026-10-23T03:37:14Z"
+  },
+  "baseboard heater mistakes": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater adjustment",
+    "baseboard heater removal",
+    "baseboard heat"
+   ],
+   "fetched_at": "2026-10-23T03:37:15Z"
+  },
+  "baseboard heater vs": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater vs space heater",
+    "baseboard heater vs wall heater",
+    "electric heater vs oil filled radiator",
+    "baseboard heater install",
+    "baseboard heater",
+    "baseboard heater electric",
+    "baseboard heater reviews"
+   ],
+   "fetched_at": "2026-10-23T03:37:15Z"
+  },
+  "the only baseboard heater": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "this old house baseboard heater",
+    "old baseboard heaters"
+   ],
+   "fetched_at": "2026-10-23T03:37:16Z"
+  },
+  "baseboard heater hack": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [],
+   "fetched_at": "2026-10-23T03:37:16Z"
+  },
+  "cheap baseboard heater": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "cheapest electric heater to run",
+    "best baseboard heater"
+   ],
+   "fetched_at": "2026-10-23T03:37:17Z"
+  },
+  "baseboard heater save money": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater upgrade",
+    "baseboard electric heater installation",
+    "baseboard heating system",
+    "baseboard heater install"
+   ],
+   "fetched_at": "2026-10-23T03:37:17Z"
+  },
+  "baseboard heater old house": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater to wall heater",
+    "how to remove a baseboard heater from the wall",
+    "how to remove electric baseboard heater from wall"
+   ],
+   "fetched_at": "2026-10-23T03:37:18Z"
+  },
+  "baseboard heater winter": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "electric winter heater",
+    "baseboard heater adjustment",
+    "baseboard heater removal",
+    "baseboard heater"
+   ],
+   "fetched_at": "2026-10-23T03:37:18Z"
+  },
+  "baseboard heater summer": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater water",
+    "baseboard thermostat",
+    "baseboard heater install",
+    "baseboard heater water sound",
+    "baseboard heater electric"
+   ],
+   "fetched_at": "2026-10-23T03:37:19Z"
+  },
+  "baseboard heater myth": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater alternatives",
+    "baseboard heater reviews",
+    "baseboard heater install",
+    "baseboard heater water"
+   ],
+   "fetched_at": "2026-10-23T03:37:19Z"
+  },
+  "baseboard heater cost": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "electric heater cost",
+    "baseboard heater reviews",
+    "baseboard heating installation",
+    "baseboard heater water",
+    "baseboard heater electric",
+    "baseboard heating system"
+   ],
+   "fetched_at": "2026-10-23T03:37:20Z"
+  },
+  "baseboard heater tips": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater tips and tricks",
+    "baseboard heater adjustment",
+    "baseboard heater",
+    "baseboard heater removal",
+    "baseboard heat"
+   ],
+   "fetched_at": "2026-10-23T03:37:20Z"
+  },
+  "baseboard heater secret": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater removal",
+    "baseboard heater cover",
+    "baseboard heater",
+    "baseboard heater adjustment",
+    "baseboard heater replace"
+   ],
+   "fetched_at": "2026-10-23T03:37:21Z"
+  },
+  "how to baseboard heater": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "how to electric heater",
+    "how to electric heater repair",
+    "how to install baseboard heater",
+    "how to clean baseboard heaters",
+    "how to remove baseboard heater",
+    "how to remove baseboard heaters from the wall",
+    "how to replace baseboard heaters",
+    "how to wire baseboard heater",
+    "how to install baseboard heater covers",
+    "how to replace baseboard heater covers"
+   ],
+   "fetched_at": "2026-10-23T03:37:21Z"
+  },
+  "baseboard heater doesn't want you to know": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater too hot"
+   ],
+   "fetched_at": "2026-10-23T03:37:21Z"
+  },
+  "before you baseboard heater": {
+   "topic": "electric-heat",
+   "kind": "framing",
+   "suggestions": [
+    "baseboard heater vs space heater",
+    "bleeding hot water baseboard heaters"
+   ],
+   "fetched_at": "2026-10-23T03:37:22Z"
+  },
+  "geothermal": {
+   "topic": "geothermal",
+   "kind": "seed",
+   "suggestions": [
+    "geothermal energy",
+    "geothermal heat pump",
+    "geothermal",
+    "geothermal greenhouse",
+    "geothermal power plant",
+    "geothermal cooling",
+    "geothermal heating",
+    "geothermal drilling",
+    "geothermal caverns tomb raider",
+    "geothermal energy for kids"
+   ],
+   "fetched_at": "2026-10-23T03:37:22Z"
+  },
+  "geothermal heat pump": {
+   "topic": "geothermal",
+   "kind": "seed",
+   "suggestions": [
+    "geothermal heat pump",
+    "geothermal heat pump installation",
+    "geothermal heat pump how it works",
+    "geothermal heat pump explained",
+    "geothermal heat pump diy",
+    "geothermal heat pump system",
+    "geothermal heat pump maintenance",
+    "geothermal heat pump review",
+    "geothermal heat pump oni",
+    "geothermal heat pump open loop"
+   ],
+   "fetched_at": "2026-10-23T03:37:23Z"
+  },
+  "geothermal mistakes": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal loops",
+    "geothermal explained",
+    "geothermal hvac"
+   ],
+   "fetched_at": "2026-10-23T03:37:23Z"
+  },
+  "geothermal vs": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal vs heat pump",
+    "geothermal vs air source heat pump",
+    "geothermal vs solar",
+    "penguin vs geothermal",
+    "geothermal install",
+    "geothermal explained",
+    "geothermal loops"
+   ],
+   "fetched_at": "2026-10-23T03:37:24Z"
+  },
+  "the only geothermal": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "this old house geothermal",
+    "the geothermal power plant",
+    "what is a geothermal energy"
+   ],
+   "fetched_at": "2026-10-23T03:37:24Z"
+  },
+  "geothermal hack": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal install",
+    "geothermal cost",
+    "geothermal hvac",
+    "geothermal loops"
+   ],
+   "fetched_at": "2026-10-23T03:37:25Z"
+  },
+  "cheap geothermal": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "cheap geothermal",
+    "cheap geothermal air conditioning",
+    "cheap geothermal system"
+   ],
+   "fetched_at": "2026-10-23T03:37:25Z"
+  },
+  "geothermal save money": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [],
+   "fetched_at": "2026-10-23T03:37:26Z"
+  },
+  "geothermal old house": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal house",
+    "geothermal homes"
+   ],
+   "fetched_at": "2026-10-23T03:37:26Z"
+  },
+  "geothermal winter": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal install",
+    "geothermal storm",
+    "geothermal loops"
+   ],
+   "fetched_at": "2026-10-23T03:37:27Z"
+  },
+  "geothermal summer": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal model",
+    "geothermal loops",
+    "geothermal extended",
+    "geothermal install"
+   ],
+   "fetched_at": "2026-10-23T03:37:27Z"
+  },
+  "geothermal myth": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal oni",
+    "geothermal install",
+    "geothermal energy potential"
+   ],
+   "fetched_at": "2026-10-23T03:37:28Z"
+  },
+  "geothermal cost": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal cost",
+    "geothermal energy costa rica",
+    "geothermal install",
+    "geothermal hvac"
+   ],
+   "fetched_at": "2026-10-23T03:37:28Z"
+  },
+  "geothermal tips": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal install",
+    "geothermal loops",
+    "geothermal cost",
+    "geothermal hvac",
+    "geothermal basics"
+   ],
+   "fetched_at": "2026-10-23T03:37:28Z"
+  },
+  "geothermal secret": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "geothermal valley ancient secrets 8/9",
+    "ancient secrets geothermal valley",
+    "geothermal install",
+    "geothermal loops",
+    "geothermal cost",
+    "geothermal model",
+    "geothermal home"
+   ],
+   "fetched_at": "2026-10-23T03:37:29Z"
+  },
+  "how to geothermal": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "how to geothermal",
+    "how to geothermal power plants work",
+    "how to make geothermal power plant",
+    "how to use geothermal well in industrialist",
+    "how to make geothermal energy working model",
+    "how to draw geothermal energy",
+    "how to funda geothermal energy",
+    "how to make geothermal energy at home",
+    "how to produce geothermal energy",
+    "how to install geothermal system yourself"
+   ],
+   "fetched_at": "2026-10-23T03:37:29Z"
+  },
+  "geothermal doesn't want you to know": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [],
+   "fetched_at": "2026-10-23T03:37:30Z"
+  },
+  "before you geothermal": {
+   "topic": "geothermal",
+   "kind": "framing",
+   "suggestions": [
+    "benefits of geothermal heating and cooling",
+    "best geothermal heat pump",
+    "before you awake solar energy"
+   ],
+   "fetched_at": "2026-10-23T03:37:30Z"
+  },
+  "home warranty hvac": {
+   "topic": "home-warranty",
+   "kind": "seed",
+   "suggestions": [
+    "home warranty hvac",
+    "home warranty companies"
+   ],
+   "fetched_at": "2026-10-23T03:37:31Z"
+  },
+  "hvac warranty": {
+   "topic": "home-warranty",
+   "kind": "seed",
+   "suggestions": [
+    "hvac warranty",
+    "hvac home warranty",
+    "hvac service contract",
+    "hvac insurance"
+   ],
+   "fetched_at": "2026-10-23T03:37:31Z"
+  },
+  "home warranty hvac mistakes": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac",
+    "home warranty companies"
+   ],
+   "fetched_at": "2026-10-23T03:37:32Z"
+  },
+  "home warranty hvac vs": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac",
+    "home warranty companies",
+    "home warranty company reviews",
+    "working for home warranty companies"
+   ],
+   "fetched_at": "2026-10-23T03:37:32Z"
+  },
+  "the only home warranty hvac": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac"
+   ],
+   "fetched_at": "2026-10-23T03:37:33Z"
+  },
+  "home warranty hvac hack": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac",
+    "home warranty companies",
+    "home warranty"
+   ],
+   "fetched_at": "2026-10-23T03:37:33Z"
+  },
+  "cheap home warranty hvac": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac"
+   ],
+   "fetched_at": "2026-10-23T03:37:34Z"
+  },
+  "home warranty hvac save money": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac",
+    "home warranty company reviews",
+    "home warranty vs home insurance"
+   ],
+   "fetched_at": "2026-10-23T03:37:34Z"
+  },
+  "home warranty hvac old house": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac"
+   ],
+   "fetched_at": "2026-10-23T03:37:35Z"
+  },
+  "home warranty hvac winter": {
+   "topic": "home-warranty",
+   "kind": "framing",
+   "suggestions": [
+    "home warranty hvac",
+    "home warranty companies",
+    "home warranty",
+    "home warranty company reviews"
+   ],
+   "fetched_at": "2026-10-23T03:37:35Z"
   }
  }
 }
