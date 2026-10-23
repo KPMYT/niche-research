@@ -35,7 +35,7 @@ Files: `census.csv` (6 rows); `videos.csv` (175 rows: 133 long-form, 42 under 5:
 | Apprentice grouped with Walt as "animated explainers" (lane2) | grouped | separate: Apprentice is 2D animation with a human voice; Walt is an AI avatar | NexLev editingStyle | lane2 merged them; the findings note keeps them apart |
 | Rational Buyer "…Electric Bill in Half (The Panel Upgrade Loophole)" (ySzrVsvwuBs) | 266-282K | 284,979; 2026-03-16 | yt.py video = NexLev | Yes (grown) |
 | Same video's multiple | 24.8x | NexLev video outlierScore 24.76; on our basis **828x** (284,979 ÷ median 344 of 31 long-form) | videos.csv | Different basis: 24.8x was NexLev's score |
-| Rational Buyer as an electrical channel | listed | 1 of 31 videos electrical; the rest buy-it-for-life brands, tools, Home Depot; no uploads in about 5 months; France | Videos tab; NexLev | **No (reading):** a one-off hit on a buyer's-guide channel |
+| Rational Buyer as an electrical channel | listed | **2 of 31** videos electrical (corrected after checker A: FomUMo2Z7Rg "NASA Engineers Use This $6 Trick to Stop Voltage Drop. Your Electrician Has Never Heard of It", 645 views, 2026-04-22, a failed follow-up to the hit); the rest buy-it-for-life brands, tools, Home Depot; no uploads in about 5 months; France | Videos tab; NexLev | **No (reading):** a one-off hit on a buyer's-guide channel |
 | FixItWithFil "This Kitchen Outlet Nearly Caught Fire — Here's What Went Wrong" (f_EvnEe4NR4) | 269K | 272,410; 2026-09-22 | yt.py video (NexLev 272,402 minutes earlier) | Yes (grown) |
 | FixItWithFil "faceless" | listed | faceless true (0.98): hands-only live action, real voice, says he's a licensed electrician; not monetized ($0) | NexLev | Yes, but a real person filming hands, not a persona |
 | Remote Electrician subs | 7.75K | 7,760 | NexLev; YT page | Yes |
@@ -160,3 +160,11 @@ Multiple = views ÷ the channel's median long-form views (basis given). Labels a
 - Transcripts checked: p7x4nvpCoDg (full), f_EvnEe4NR4, ffO4xVOU1oI, ySzrVsvwuBs. Not: The New Home Illusion, Remote Electrician.
 - NexLev disagrees with itself (two RPM figures per channel; Walt's monthly views above his total). Earnings are NexLev estimates, not measured.
 - Web searches used: 0.
+
+## 5. Corrections after checker A (2026-10-23)
+
+- Rational Buyer has **2** electrical videos of 31, not 1: FomUMo2Z7Rg (645 views, 2026-04-22) tried to repeat the electric-bill hit and flopped. The "one-off hit" reading stands, now with a failed repeat. The row is labelled in `videos.csv`.
+- Only 50 of the 175 rows in `videos.csv` carry labels (each channel's top 10 long-form plus some short ones); the rest are unlabelled.
+- Walt Brennan's total views: 188,856 is NexLev's older niche-finder record; 198,553 (census row) is the 2026-10-23 figure.
+- Remote Electrician's median (19,000) rests on a rounded list-page value.
+- Three format labels (ffO4xVOU1oI, pnK_OEpissI, MIuiZtAWm7s) fit the new "explainer" label better than x-vs-y or myth-bust.

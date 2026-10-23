@@ -109,3 +109,7 @@ Reading: YouTube places the hit with older viewers who live alone and watch reti
 - No impressions, click-through or retention, so the AI-disclaimer timing and the view drop (from Oct 7) are only a coincidence in time.
 - Likes known for 3 videos only.
 - Web searches used: 0.
+
+## Checker A (2026-10-23)
+
+Usable. 7 rows re-pulled, no data errors; census matches NexLev; the AI-disclaimer split (8 without, 13 with, from FbCaKAJYUNk) confirmed. Wording: the census row says he points at the hazard in "every" thumbnail; it's 17 of 21.

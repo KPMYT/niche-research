@@ -334,3 +334,8 @@ Views and length from the Videos-tab list page (rounded), 2026-10-23.
 | Ecoflow just made a Battery MORE Powerful than 90% of Gas Generators - Ultra X | n3JOHMlrQQQ | 65,108 | 2025-10-31 | 6:39 |
 
 Sources: YT Videos tab (Latest 18 pages, Popular 3 pages) and YT watch page via `yt.py`, NexLev get_channel_analytics, check_faceless_channel, get_batch_channel_metrics_v2, get_channel_promotions, youtube_channel_about, youtube_video_details; all pulled 2026-10-23. Thumbnails: `thumbnails/images/<id>.jpg`. Row data: `data/silver-cymbal/seeds.csv`.
+
+## Corrections after checker A (2026-10-23)
+
+- **Missed video added:** `_G7ZPjmR5ck` "Surviving a 36 Hour Power Outage with the BIGGEST ECOFLOW DELTA PRO ULTRA - 30KWH!!!!", 664,772 views, 2024-04-23, 7:37, 8.33x, backup-power-stations. Added to `data/silver-cymbal/seeds.csv` by the main session. **Counts above are one short:** in-scope videos 150 (long-form 97, under 5:00 53); backup-power-stations long-form 53. Checker A swept all 538 titles; this was the only miss.
+- Checker A re-pulled 33 sampled rows: views, dates, titles and channels match (within ±0.01%); length, the 5:00 flag and every multiple checked on all rows; the 12-month median (79,807, n=18) confirmed.
