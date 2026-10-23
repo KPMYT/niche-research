@@ -1,0 +1,290 @@
+{
+ "id": "rhoduYqQDUM",
+ "title": "How a Transistor Actually Works — The BJT Explained",
+ "channel": "Hardwired YouTube",
+ "channel_id": "UCo7EsDiQV_RqVCHLhQS986w",
+ "views": 17924,
+ "date": "Sep 19, 2026",
+ "up_next": [
+  {
+   "id": "nDEGqme5Z4g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EEVblog 1771 - A Tricky OpAmp Exam Question",
+   "dur": "28:40",
+   "meta": [
+    "EEVblog",
+    "345K",
+    "1mo ago"
+   ],
+   "channel_id": "UC2DjFE7Xf11URZqWBigcVOQ",
+   "views": 345000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "D95uiqSDcME",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transparent Aluminum Is Real. Star Trek Was Only Half Right",
+   "dur": "37:59",
+   "meta": [
+    "VEIN Material",
+    "112K",
+    "1d ago"
+   ],
+   "channel_id": "UCxb7o05-NujrJlw-KqQ01MQ",
+   "views": 112000,
+   "age": "1d ago"
+  },
+  {
+   "id": "DKYguNg1vmk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+   "dur": "14:39",
+   "meta": [
+    "The Engineering Mindset",
+    "736K",
+    "4mo ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 736000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "UxJeTiO1ntQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electricity Explained — How Electricity Actually Works",
+   "dur": "12:36",
+   "meta": [
+    "Hardwired YouTube",
+    "16K",
+    "1mo ago"
+   ],
+   "channel_id": "UCo7EsDiQV_RqVCHLhQS986w",
+   "views": 16000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "_Pqfjer8-O4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Transistors Build into a CPU?  🖥️🤔  How do Transistors Work? 🖥️🤔",
+   "dur": "26:45",
+   "meta": [
+    "Branch Education",
+    "2.5M",
+    "1y ago"
+   ],
+   "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+   "views": 2500000,
+   "age": "1y ago"
+  },
+  {
+   "id": "r2L5VOtf47Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Once You Understand it, You Will Think Everything Else is Silly - Toyota E-CVT",
+   "dur": "25:40",
+   "meta": [
+    "driving 4 answers",
+    "1.7M",
+    "4mo ago"
+   ],
+   "channel_id": "UCwosUnVH6AINmxtqkNJ3Fbg",
+   "views": 1700000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "8z1WR4b0hJY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Speed of Light Was NEVER About Light. Its About...",
+   "dur": "21:30",
+   "meta": [
+    "Carter Studios - Physics",
+    "1.4K",
+    "1d ago"
+   ],
+   "channel_id": "UCLN0l8D-yMtZ_rg7fkRuKmQ",
+   "views": 1400,
+   "age": "1d ago"
+  },
+  {
+   "id": "34Gl62r6x0Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Learn These 5 Circuits to Understand Op-Amps | Real Test",
+   "dur": "10:18",
+   "meta": [
+    "MM Circuits",
+    "84K",
+    "2w ago"
+   ],
+   "channel_id": "UCpLQJjMRlagyAuc7aCYsGFA",
+   "views": 84000,
+   "age": "2w ago"
+  },
+  {
+   "id": "97ZTkxzq-dI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "9 Schematic Rules to NEVER Break",
+   "dur": "15:19",
+   "meta": [
+    "Predictable Designs with John Teel",
+    "298K",
+    "3w ago"
+   ],
+   "channel_id": "UCDqov5THnmr0KX3f1FeK0Uw",
+   "views": 298000,
+   "age": "3w ago"
+  },
+  {
+   "id": "FH5SoaRx2TA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "There’s a Secret (Better) Netflix for Millionaires",
+   "dur": "17:59",
+   "meta": [
+    "Linus Tech Tips",
+    "1.2M",
+    "10h ago"
+   ],
+   "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+   "views": 1200000,
+   "age": "10h ago"
+  },
+  {
+   "id": "X_crwFuPht4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "An intuitive approach for understanding electricity",
+   "dur": "39:28",
+   "meta": [
+    "AlphaPhoenix",
+    "2.2M",
+    "3y ago"
+   ],
+   "channel_id": "UCCWeRTgd79JL0ilH0ZywSJA",
+   "views": 2200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "7voH3cm2h1M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does America Use 60 Hz While Europe Uses 50 Hz?",
+   "dur": "27:27",
+   "meta": [
+    "Weirdward Bound",
+    "1.3M",
+    "2w ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 1300000,
+   "age": "2w ago"
+  },
+  {
+   "id": "5vRAACeebjI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fun with Transistors",
+   "dur": "24:33",
+   "meta": [
+    "HackMakeMod",
+    "2.3M",
+    "4y ago"
+   ],
+   "channel_id": "UC9o6nWNu38SRdBYPlPcdTpA",
+   "views": 2300000,
+   "age": "4y ago"
+  },
+  {
+   "id": "5KQBgmvRHnA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Resistor vs Capacitor vs Inductor — Why They Behave So Differently ?",
+   "dur": "15:01",
+   "meta": [
+    "Prof MAD",
+    "240K",
+    "3w ago"
+   ],
+   "channel_id": "UCIHwyz8ISMolEPSy6VDf-kw",
+   "views": 240000,
+   "age": "3w ago"
+  },
+  {
+   "id": "vhv8fAqN1cw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Problem of Flatness in Ancient Egypt",
+   "dur": "20:41",
+   "meta": [
+    "IntoTheMap ",
+    "649K",
+    "9mo ago"
+   ],
+   "channel_id": "UCRWH9H1yxLfNQo84P1NWC3w",
+   "views": 649000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "ElGCkopB3oc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Toothless Gears Make Much More Torque Than Conventional Ones, Here's How. Cycloid Drive Explained",
+   "dur": "19:58",
+   "meta": [
+    "driving 4 answers",
+    "2.5M",
+    "8mo ago"
+   ],
+   "channel_id": "UCwosUnVH6AINmxtqkNJ3Fbg",
+   "views": 2500000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "vU8Xr4NVeww",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside a Chinese PC Power Supply Factory How It's Made",
+   "dur": "21:09",
+   "meta": [
+    "Miracle Process",
+    "2M",
+    "9d ago"
+   ],
+   "channel_id": "UC-b5z1biw_Qra-eOfC4kuqQ",
+   "views": 2000000,
+   "age": "9d ago"
+  },
+  {
+   "id": "tz23G_UXCGA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Something is jamming GPS over Europe. Here's what we found",
+   "dur": "34:17",
+   "meta": [
+    "Veritasium",
+    "12M",
+    "4mo ago"
+   ],
+   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "views": 12000000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "zv6B6PQOuHE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The last real programmers are dying out...",
+   "dur": "5:56",
+   "meta": [
+    "Fireship",
+    "941K",
+    "12h ago"
+   ],
+   "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+   "views": 941000,
+   "age": "12h ago"
+  },
+  {
+   "id": "OSCKBmkrH_g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Ultimate Component: OpAmp (ElectroBOOM101 – 013)",
+   "dur": "12:35",
+   "meta": [
+    "ElectroBOOM",
+    "845K",
+    "1y ago"
+   ],
+   "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+   "views": 845000,
+   "age": "1y ago"
+  }
+ ]
+}

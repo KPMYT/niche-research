@@ -1,0 +1,37 @@
+{
+ "channel": "Simplified Guy",
+ "id": "UCJLhrXZ4c5qiXDTEugowejA",
+ "handle": "http://www.youtube.com/@The-SimplifiedGuy",
+ "description": "I explain everyday things plainly:)\n",
+ "subs": null,
+ "videos_count": "2 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "Zq30a6X0ADM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Ships Are Painted Red Below the Waterline? (Explained in 13 Minutes)",
+   "dur": "13:16",
+   "meta": [
+    "0",
+    "9h ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "9h ago"
+  },
+  {
+   "id": "xPkJ0Vkgprs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Electric Plugs Have Holes? (Explained in 5 Minutes)",
+   "dur": "5:11",
+   "meta": [
+    "45",
+    "2d ago"
+   ],
+   "channel_id": null,
+   "views": 45,
+   "age": "2d ago"
+  }
+ ]
+}
