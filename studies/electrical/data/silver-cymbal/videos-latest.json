@@ -6,6 +6,8 @@
  "subs": "1.09M subscribers",
  "videos_count": "539 videos",
  "sort": "latest",
+ "pages_loaded": 2,
+ "note": "pulled 2026-10-23 with yt.py functions; pagination via continuationItemRenderer token (yt.py channel latest stopped at 1 page because its last continuation token was a chip token)",
  "videos": [
   {
    "id": "XJdrUmHkjIs",
