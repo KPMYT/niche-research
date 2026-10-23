@@ -32,13 +32,14 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 
 ## Electrical and fire prevention research chat
 
-- **Owns:** `studies/electrical/`.
-- **Status:** not started.
+- **Owns:** `studies/electrical/`. Branch `claude/zealous-ptolemy-lxtx6t`.
+- **Status (2026-10-23):** round 1 running (6 helpers): Silver Cymbal's electrical videos, the six known channels re-checked, Just Stop Fire, the first spread from the seeds, and two new-channel hunts (core and adjacent; the operator asked for this).
+- **Operator decisions so far:** keep the 5-minute rule for counts and the top 100, with under-5-minute hits in a separate `short-reference.md` (not counted); Just Stop Fire gets a census row marked "ours".
+- **Method notes:** YouTube search's "upload date" sort no longer sorts and there's no "oldest" search sort; the loader uses date windows instead (`studies/electrical/data/tools/yt.py`). NexLev upload dates are rounded; exact dates come from video pages.
 - **Next actions:**
-  1. Read `CLAUDE.md`, `RESEARCH-BRIEF.md`, `findings/2026-10-22-hvac-and-electrical.md`, and Frederick's baseline in `script-system/studies/home-diy/frederick-baseline-2026-10/`.
-  2. Show the operator the round 1 plan, then run the rounds.
-  3. Include the presenter-background evidence (electrician, lineman, firefighter, inspector, none) for the open decision.
-  4. Report the findings, go back and forth, then write `CONCLUSIONS.md`.
+  1. When round 1 lands: commit, run the checker on a sample, report to the operator.
+  2. Rounds 2-6 per `RESEARCH-BRIEF.md` section 4, including the presenter-background count (electrician, lineman, firefighter, inspector, none).
+  3. Report the findings, go back and forth, then write `CONCLUSIONS.md`.
 
 ---
 
