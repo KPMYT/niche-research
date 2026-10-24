@@ -1,5 +1,7 @@
 # HVAC round 2: the master channel list (2026-10-24)
 
+> **Checker notes (2026-10-24, `check-master.md`): the tiers here are provisional and often wrong.** On 86 channels checked against their own Videos tabs, stored tier A was wrong for 20 of 30, B for 11 of 15, C for 8 of 15; D (1 of 10) and X (0 of 10) held up. Cause: most rows were tiered from keyword-search hits, which return only a channel's HVAC videos, so big general channels with old AC hits look HVAC-first. Round 3 re-tiers every A-D channel from its own latest 30 long-form videos with the rule in `check-master.md`. Subscribers and country matched the About pages for all 86.
+
 Helper: round 2 master-list helper. Built 2026-10-24. Nothing committed or pushed. **Not yet re-checked by a second helper (working rule 3).**
 
 **What this is:** every channel found so far in the HVAC study (round 1 and round 2), merged into one list, one row per YouTube channel ID, and tiered so round 3 (the census) knows which channels to pull full metrics for. Full table, every column, every tier: `studies/hvac/data/raw/channels-master-2026-10-24.csv`.
