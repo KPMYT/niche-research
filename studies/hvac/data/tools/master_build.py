@@ -140,7 +140,7 @@ def iso_date(s):
 
 def about_fields(a):
     t = a.get("TITLE") or ""
-    name, _, url = t.partition(" | ")
+    name, _, url = t.rpartition(" | ") if " | http" in t else (t, "", "")
     h = re.search(r"/(@[^/\s]+)", url)
     return dict(name=name.strip(), handle=h.group(1) if h else "", subs=num((a.get("subscriberCountText") or "").replace(" subscribers", "").replace(" subscriber", "")),
                 subs_text=a.get("subscriberCountText") or "", views=num((a.get("viewCountText") or "").replace(" views", "")),
@@ -332,7 +332,7 @@ for cid, rs in recs.items():
     if sw and sw.get("sweep_collab_hvac"):
         notes.append(f"{sw['sweep_collab_hvac']} of its sweep HVAC-title videos are collaboration uploads credited to it by oEmbed uploader name")
     if any(a[1].startswith("YouTube About (master-list helper)") for a in abouts) and name and not any(
-            (r.get("name") or "").split(" and ")[0].strip().lower() == name.lower() for r in rs if r.get("name")):
+            (r.get("name") or "").split(" and ")[0].strip().lower() == name.strip().lower() for r in rs if r.get("name")):
         notes.append("About title differs from the source name(s): " + "; ".join(sorted({r.get('name') for r in rs if r.get('name')}))[:120])
     if cid in EXTRA_NOTE:
         notes.append(EXTRA_NOTE[cid])
