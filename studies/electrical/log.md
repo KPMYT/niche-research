@@ -44,3 +44,28 @@
 **Checker A (2026-10-23):** re-pulled 80 sampled rows (Silver Cymbal 33, known channels 40, ours 7) and every row's length, 5:00 flag and multiple; re-checked all 8 census rows against NexLev and thumbnails. No data errors. Fixed by the main session: added the missed `_G7ZPjmR5ck` to `seeds.csv` (noted in `seeds.md`); Rational Buyer has 2 electrical videos of 31, not 1 (`FomUMo2Z7Rg` labelled; `known-channels/report.md` corrected). Verdicts: Silver Cymbal and known channels usable with those fixes; ours usable. Details: `data/checks/checker-A.csv`.
 
 **Checker B (2026-10-23):** re-checked 85 sampled channels across the three discovery files (subs, first upload, English, type by thumbnail, persona and claimed background), re-pulled all 72 named "taking off" videos (all within ±1%, all on the named channel, all 5:00+ except one already-noted 4:52 video), and settled the four conflicts. Error rates: seed-spread 4.8% wrong (persona guesses), NexLev census 1.8%, search channels 1.0%. Fixed by the main session: Builds With Eli Yoder and four seed-spread channels relabelled; three reused accounts flagged; Zenthral Code's start date; the "plugged in" count (39 videos on 23 channels, not 65 on 36). Conflicts: fire inspector/marshal personas exist but are tiny (none over 1K subs; not in NexLev); Ray Sutter and Ray Dutton are different channels; Home Hazard's account is from 2022, first visible upload Jun 9 2026. Corrections appended to each report. Details: `data/checks/checker-B.csv`.
+
+**Operator's answers to the round 1 summary (2026-10-24):**
+- Frederick's own channel "wont be a strong representation of what will and wont work here we pretty much need a full pivot". So his channel stays a census row (ours), not a guide to what works.
+- Fire inspector / marshal personas being tiny: "thats fine … but it could mean we have a gap". Noted as a possible gap, to be tested in later rounds.
+- "we dont really need to use money in electrical."
+- Scope: "lets keep the scrope narrow". Winter blackouts maybe as a test only, and possibly not: "that could be a different chanenl i have called jack redfield who i stopped that does generators". Seniors' home safety: "definitely not … completley unrelated".
+- "go with round 2".
+
+**Scope from round 2 on (main session's reading of the above):** core electrical and fire prevention as `RESEARCH-BRIEF.md` lists them, including generator *safety* (backfeed, CO, cords), which the brief names. Out: winter blackout survival, heat without power, power-station and generator buying reviews (Jack Redfield's lane, a stopped channel), seniors' home security, "free energy". Round 1 files keep their adjacent rows (history isn't deleted); later counts use the narrow scope.
+
+## Round 2 (2026-10-24): keyword sweep and the master channel list
+
+**Helpers launched (7, in parallel):** shared rules (narrow scope) and one sweep task for the six sweep helpers (20+ keywords each; relevance 2 pages, views 3, views this year 2, this month 1, over-20-minutes for the top 5; exact dates for each group's top 40; sub-niche and format labels; formats and sub-niche counts).
+
+| Helper | Topic group | Output |
+|---|---|---|
+| sweep: wiring | wiring mistakes, outlets and switches, GFCI/AFCI, connectors | `data/sweep/wiring/` |
+| sweep: panels | breakers and panels, FPE/Zinsco, aluminium and knob-and-tube, inspectors | `data/sweep/panels/` |
+| sweep: cords | cords, power strips, surge, "never leave plugged in", LED, ceiling fans, holiday lights | `data/sweep/cords/` |
+| sweep: devices | lithium batteries, space heaters, generator safety, testers, the electric bill, EV/240V | `data/sweep/devices/` |
+| sweep: fire | smoke and CO alarms, dryer vents, kitchen and grease, extinguishers and escape, fire habits | `data/sweep/fire/` |
+| sweep: explainers | explainers and tests; plus the presenter-background search (electrician, lineman, firefighter, investigator, inspector/marshal, home inspector) | `data/sweep/explainers/` (+ `presenters.csv`) |
+| channel list | round 1's channel lists merged, checker fixes applied, re-scoped (core / partial / out) | `data/channel-list/` |
+
+Web search budget given: 30.
