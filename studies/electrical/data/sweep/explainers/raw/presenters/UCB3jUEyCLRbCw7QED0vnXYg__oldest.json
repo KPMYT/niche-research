@@ -1,5 +1,402 @@
 {
- "error": "no Oldest chip on Videos tab",
  "channel": "Electrician U",
- "id": "UCB3jUEyCLRbCw7QED0vnXYg"
+ "id": "UCB3jUEyCLRbCw7QED0vnXYg",
+ "handle": "http://www.youtube.com/@electricianu",
+ "description": "This site is for those of you who are passionate and intrigued by electricity.  If you read books, Google videos, read magazines, talk to engineers, join forums, and sit at home and tinker on your time off.  This site is for you.  If you want to know how this stuff works, why it acts the way it does, and how to experiment with it on your own time to learn a more profound understanding of it.  This site is for you.",
+ "subs": "954K subscribers",
+ "videos_count": "737 videos",
+ "sort": "oldest",
+ "videos": [
+  {
+   "id": "__vcKXrdTwE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Welcome To Electrician U - Electrical Training Made By Electricians For Electricians",
+   "dur": "1:54",
+   "meta": [
+    "81K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 81000,
+   "age": "9y ago"
+  },
+  {
+   "id": "ZWYNbw53Uu4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 1 - Electrical Testers and Multi-meters (Electricians' Test Equipment)",
+   "dur": "13:33",
+   "meta": [
+    "184K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 184000,
+   "age": "9y ago"
+  },
+  {
+   "id": "qQcVyh1LGwo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 2 - Tools Every Apprentice Electrician Needs To Start Their Job",
+   "dur": "26:44",
+   "meta": [
+    "978K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 978000,
+   "age": "9y ago"
+  },
+  {
+   "id": "QuR6_i27WcI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 4 - How To Wire For And Install A Plug-In Receptacle",
+   "dur": "27:16",
+   "meta": [
+    "423K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 423000,
+   "age": "8y ago"
+  },
+  {
+   "id": "4oRFwlCS4jo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 3 - How To Wire For and Install A Switch",
+   "dur": "28:22",
+   "meta": [
+    "2M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2000000,
+   "age": "8y ago"
+  },
+  {
+   "id": "0WpxENHrCK0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 5 - Whats Inside A Plug and A Switch",
+   "dur": "5:44",
+   "meta": [
+    "72K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 72000,
+   "age": "8y ago"
+  },
+  {
+   "id": "XbCFZF29yvY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 7 - THDprospective electrical tool giveaway coming",
+   "dur": "8:00",
+   "meta": [
+    "14K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "8y ago"
+  },
+  {
+   "id": "-vizSnmtLKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 8 - How To Wire For And Install 4-way Switches",
+   "dur": "38:22",
+   "meta": [
+    "476K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 476000,
+   "age": "8y ago"
+  },
+  {
+   "id": "m6krSsThAO8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 9 - How Breakers Work & Whats Inside A Breaker",
+   "dur": "10:39",
+   "meta": [
+    "69K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 69000,
+   "age": "8y ago"
+  },
+  {
+   "id": "5NfjfhA8zdo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 10 - What's Inside A 3-way and 4-way Switch?",
+   "dur": "5:46",
+   "meta": [
+    "43K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "8y ago"
+  },
+  {
+   "id": "l5xvj_LeDqk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 11 - SCHEMATICS How 3way and 4way Switches Work",
+   "dur": "12:16",
+   "meta": [
+    "280K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 280000,
+   "age": "8y ago"
+  },
+  {
+   "id": "invMXtTOMiQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 12 - How To Wire For A Switch Loop",
+   "dur": "13:55",
+   "meta": [
+    "269K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 269000,
+   "age": "8y ago"
+  },
+  {
+   "id": "SO3jvuBIu5I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TOOL REVIEW - TackLIFE Laser Distance Measure Tool - Digital Range Finder",
+   "dur": "12:54",
+   "meta": [
+    "13K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "8y ago"
+  },
+  {
+   "id": "nLwg6dpCsyU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 13 -  SCHEMATICS how a switch loop works",
+   "dur": "9:52",
+   "meta": [
+    "205K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 205000,
+   "age": "8y ago"
+  },
+  {
+   "id": "Mz0dqBA-6HE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 14 - Difference Of Potential (VOLTAGE)",
+   "dur": "16:38",
+   "meta": [
+    "82K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 82000,
+   "age": "8y ago"
+  },
+  {
+   "id": "MQ_75FVC4JE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 15 - SCHEMATICS - Automatic Circuits (Contactors, Relays, Photocells, & Timeclocks",
+   "dur": "30:51",
+   "meta": [
+    "78K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 78000,
+   "age": "8y ago"
+  },
+  {
+   "id": "jiXeUwUl5Nk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TOOL REVIEW - Milwaukee Radius Compact Site Light",
+   "dur": "5:17",
+   "meta": [
+    "8.7K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 8700,
+   "age": "8y ago"
+  },
+  {
+   "id": "3b8xWGC_bS0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electric Current (Amperes/amps) - What Electricians Need To Know",
+   "dur": "14:39",
+   "meta": [
+    "65K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 65000,
+   "age": "8y ago"
+  },
+  {
+   "id": "y37nEr53Jcg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "6",
+   "dur": "9:36",
+   "meta": [
+    "15K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "8y ago"
+  },
+  {
+   "id": "t2de7A2d3gE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrician Explains How Circuit Breakers And Electrical Panels Work",
+   "dur": "6:33",
+   "meta": [
+    "304K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 304000,
+   "age": "8y ago"
+  },
+  {
+   "id": "xtmMRQvOZdY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is Resistance/Impedance (Ohms) - Why electricians need to know it",
+   "dur": "23:26",
+   "meta": [
+    "88K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 88000,
+   "age": "8y ago"
+  },
+  {
+   "id": "SZvqtvfwKeY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tool Review - Husky 22 inch Rolling Tool Bag (Tote)",
+   "dur": "9:55",
+   "meta": [
+    "31K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "8y ago"
+  },
+  {
+   "id": "86fg_4dSQUM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 20 - Fault Detection Devices - GFCI, AFCI, DF, AFGFCI",
+   "dur": "14:07",
+   "meta": [
+    "137K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 137000,
+   "age": "8y ago"
+  },
+  {
+   "id": "_Tua9IQA43g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tool Review - Dewalt 20v Cordless Brushless 21-Degree Framing Nailer",
+   "dur": "8:56",
+   "meta": [
+    "21K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "8y ago"
+  },
+  {
+   "id": "CFba9nY76QE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "5K MILWAUKEE LIGHTING CONTEST GIVEAWAY",
+   "dur": "28:03",
+   "meta": [
+    "2.2K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2200,
+   "age": "8y ago"
+  },
+  {
+   "id": "jcZnpAbor_4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TOOL REVIEW - Milwaukee 18v Brushless Cordless Hammer-Drill & Impact Driver Combo Kit",
+   "dur": "12:28",
+   "meta": [
+    "25K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 25000,
+   "age": "8y ago"
+  },
+  {
+   "id": "gR_unrQ_5G0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tool Review - Diablo Demo Demon 9\" Carbide Sawzall Blades",
+   "dur": "16:31",
+   "meta": [
+    "24K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 24000,
+   "age": "7y ago"
+  },
+  {
+   "id": "O5fif05eXo0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tool Review - Ryobi 18v 3/8\" Bolt Cutter",
+   "dur": "9:08",
+   "meta": [
+    "14K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "7y ago"
+  },
+  {
+   "id": "zIAXIK53pl4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tool Review - Ridgid MegaMax - Combination Sawzall, Right-Angle Drill, and Rotary Hammer",
+   "dur": "16:02",
+   "meta": [
+    "8.5K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 8500,
+   "age": "7y ago"
+  },
+  {
+   "id": "9lZUP-Fe9to",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install & Program an Occupancy Sensor - Having Your Lights Turn On/Off Automatically",
+   "dur": "27:09",
+   "meta": [
+    "134K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 134000,
+   "age": "7y ago"
+  }
+ ],
+ "via": "sort menu (listItemViewModel)"
 }

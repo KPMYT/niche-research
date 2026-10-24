@@ -1,5 +1,402 @@
 {
- "error": "no Popular chip on Videos tab",
  "channel": "Electrician U",
- "id": "UCB3jUEyCLRbCw7QED0vnXYg"
+ "id": "UCB3jUEyCLRbCw7QED0vnXYg",
+ "handle": "http://www.youtube.com/@electricianu",
+ "description": "This site is for those of you who are passionate and intrigued by electricity.  If you read books, Google videos, read magazines, talk to engineers, join forums, and sit at home and tinker on your time off.  This site is for you.  If you want to know how this stuff works, why it acts the way it does, and how to experiment with it on your own time to learn a more profound understanding of it.  This site is for you.",
+ "subs": "954K subscribers",
+ "videos_count": "737 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "BkbpXujuW8E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Install a Ring Video Doorbell Wired -  From an Electrician",
+   "dur": "7:16",
+   "meta": [
+    "2.2M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "4y ago"
+  },
+  {
+   "id": "4oRFwlCS4jo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 3 - How To Wire For and Install A Switch",
+   "dur": "28:22",
+   "meta": [
+    "2M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2000000,
+   "age": "8y ago"
+  },
+  {
+   "id": "SiGXBhGtEVM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "THIS IS WHY ELECTRICIANS DON'T HIDE J-BOXES IN WALLS - Finding Hackwork!!",
+   "dur": "30:07",
+   "meta": [
+    "1.9M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1900000,
+   "age": "5y ago"
+  },
+  {
+   "id": "5L5Kujr98Cg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Bend EMT Conduit/Tubing - HOW ELECTRICIANS BEND 90s, OFFSETS, BOX OFFSETS, & KICKS",
+   "dur": "47:02",
+   "meta": [
+    "1.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "wLSe4LzK9b4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Won't These Melt?!? 15amp Receptacles on 20 amp Circuits!!!",
+   "dur": "11:47",
+   "meta": [
+    "1.5M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "4y ago"
+  },
+  {
+   "id": "6QEYg4wX70E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do We Bond at the Service Panel and Not a Subpanel?",
+   "dur": "19:46",
+   "meta": [
+    "1.5M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "4y ago"
+  },
+  {
+   "id": "q3eqVL-O3DQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Step by Step - How to Build a House",
+   "dur": "21:41",
+   "meta": [
+    "1.5M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "4y ago"
+  },
+  {
+   "id": "-oHzc_DbaGw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "5 Formulas Electricians Should Have Memorized!",
+   "dur": "17:00",
+   "meta": [
+    "1.5M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "3y ago"
+  },
+  {
+   "id": "4u83B3lAqmY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Current Flow on the Neutral?",
+   "dur": "23:03",
+   "meta": [
+    "1.3M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "4y ago"
+  },
+  {
+   "id": "rZKVPuInQ2Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Terminating/Testing Network Cables - CAT 3, CAT5, CAT6, CAT 7, CAT 8",
+   "dur": "25:42",
+   "meta": [
+    "1.1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "7y ago"
+  },
+  {
+   "id": "5ncfAobr26Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Tell if a Breaker is Bad",
+   "dur": "11:44",
+   "meta": [
+    "1.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ZfWDESUEfmA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 Basic Electrical Testers & HOW TO USE THEM",
+   "dur": "15:24",
+   "meta": [
+    "1.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "f2081Uu2Qmo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why KW and KVA Are NOT The Same Thing (Even If They Seem Like It)",
+   "dur": "13:29",
+   "meta": [
+    "1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "qQcVyh1LGwo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 2 - Tools Every Apprentice Electrician Needs To Start Their Job",
+   "dur": "26:44",
+   "meta": [
+    "978K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 978000,
+   "age": "9y ago"
+  },
+  {
+   "id": "_XM6rXjv0vc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do We BOND Neutral & Ground in ELECTRICAL SERVICE PANELS?",
+   "dur": "17:05",
+   "meta": [
+    "929K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 929000,
+   "age": "5y ago"
+  },
+  {
+   "id": "H_iDuhnXZzU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Pulling Wire Like a Pro - Tips and tricks for pulling conductors through conduit",
+   "dur": "28:08",
+   "meta": [
+    "890K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 890000,
+   "age": "5y ago"
+  },
+  {
+   "id": "FEydcr4wJw0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is the Difference Between Single Phase and Three Phase???",
+   "dur": "23:11",
+   "meta": [
+    "873K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 873000,
+   "age": "4y ago"
+  },
+  {
+   "id": "91Yj-8nR098",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SHORTS - WHY WE BOND (Neutral & Ground) Explained in 3 Minutes",
+   "dur": "3:05",
+   "meta": [
+    "859K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 859000,
+   "age": "5y ago"
+  },
+  {
+   "id": "LhZcWykPWQc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Wire Color Coding Used By Electricians",
+   "dur": "16:14",
+   "meta": [
+    "843K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 843000,
+   "age": "5y ago"
+  },
+  {
+   "id": "tHwlkZmNXt8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is the Difference Between a Short Circuit and a Ground Fault?",
+   "dur": "16:18",
+   "meta": [
+    "801K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 801000,
+   "age": "3y ago"
+  },
+  {
+   "id": "6sZyqikMsgw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wiring With MC - WHAT YOU CAN AND CAN'T DO WITH MC CABLE as an electrician",
+   "dur": "27:30",
+   "meta": [
+    "788K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 788000,
+   "age": "7y ago"
+  },
+  {
+   "id": "9Dc-WKOBVHY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace an Electrical Service Panel, Meter, and Riser (PART 1)",
+   "dur": "12:21",
+   "meta": [
+    "779K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 779000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ZNQsFbEwxMo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "RESIDENTIAL ELECTRICAL MATERIALS Apprentice Electricians Should Know",
+   "dur": "17:20",
+   "meta": [
+    "702K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 702000,
+   "age": "6y ago"
+  },
+  {
+   "id": "RMIgA7SuEWs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why is there more than 200 A worth of breakers inside of a 200 amp panel?!",
+   "dur": "12:22",
+   "meta": [
+    "685K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 685000,
+   "age": "4y ago"
+  },
+  {
+   "id": "qM2hJmtq3T4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Neutral Imbalance in Multiwire Branch Circuits (Two Hots, One Neutral)",
+   "dur": "16:41",
+   "meta": [
+    "670K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 670000,
+   "age": "4y ago"
+  },
+  {
+   "id": "eBD-FGUlyCM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Episode 42 - APPRENTICE TOOLS - 13 Tools Apprentice Electricians Need To Have",
+   "dur": "30:14",
+   "meta": [
+    "643K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 643000,
+   "age": "7y ago"
+  },
+  {
+   "id": "ksrE79uLBaY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Difference Between VOLTAGES - Why We Need Them All",
+   "dur": "13:43",
+   "meta": [
+    "637K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 637000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Zuq7Apc4feA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do We Use Ground Rods?",
+   "dur": "14:41",
+   "meta": [
+    "613K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 613000,
+   "age": "1y ago"
+  },
+  {
+   "id": "RugwZbd0ECc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Do Different Voltages Mean the Same Thing?",
+   "dur": "8:08",
+   "meta": [
+    "591K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 591000,
+   "age": "4y ago"
+  },
+  {
+   "id": "lcCl7MfmXco",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Shopping For A NEW SET OF APPRENTICE TOOLS!!! (Part 1 of 2)",
+   "dur": "14:30",
+   "meta": [
+    "581K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 581000,
+   "age": "5y ago"
+  }
+ ],
+ "via": "sort menu (listItemViewModel)"
 }
