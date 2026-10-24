@@ -24,11 +24,11 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 ## HVAC research chat
 
 - **Owns:** `studies/hvac/`. Branch `claude/adoring-galileo-wqloxp`.
-- **Status (2026-10-23):** round 1 (seeds) running. Plan approved by the operator, with two scope calls: generator videos count only when about outage heat (no product reviews); insulation, drafts and windows count when the title is about heating, cooling or the bill. The operator also asked round 1 to "find more channels too".
+- **Status (2026-10-24):** rounds 1 (seeds) and 2 (spread) done and checked; round 2 reported to the operator (`studies/hvac/round2/round2-report.md`). Operator decisions so far are in `studies/hvac/README.md` (among them: NexLev RPM is not used; off-grid heat is its own sub-niche; E19 comfort and E20 new-gadget wonder added).
 - **Next actions:**
-  1. Finish round 1: Silver Cymbal seed pull, labelling, up-next leads, the re-check of the 8 known channels, the round 2 keyword list, the first channel finds, then the round 1 check.
-  2. Report round 1 to the operator and propose round 2 (keyword sweep, niche finder, channel list).
-  3. Then rounds 3-7 as in `RESEARCH-BRIEF.md` section 4, then `CONCLUSIONS.md` after the back and forth.
+  1. Get the operator's answers on the round 2 questions, then run round 3: pull every tier A-D channel's own Videos tab, re-tier with the rule in `round2/check-master.md`, then the census, the top 100, recent winners and the sub-niche map.
+  2. Rounds 4-7 as in `RESEARCH-BRIEF.md` section 4, then `CONCLUSIONS.md` after the back and forth.
+- **For the electrical chat (passed on via the operator):** logged-out YouTube search translates foreign titles into English, so check English on the original title (oEmbed); Weirdward Bound's electrical explainers sit beside almost every Silver Cymbal HVAC video.
 
 ## Electrical and fire prevention research chat
 

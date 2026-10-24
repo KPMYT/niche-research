@@ -2,7 +2,7 @@
 
 The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.md`. Owned by the HVAC research chat.
 
-**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) running since 2026-10-24.
+**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) done and checked 2026-10-24; reported to the operator; round 3 waiting for the go.
 
 ## Scope decisions (operator, 2026-10-23)
 
@@ -28,5 +28,5 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 | `seeds/` | Round 1: `silver-cymbal.md` (22 HVAC seed videos, labelled; borderline and adjacent tables), `known-channels-recheck.md` (the 8 known channels re-checked), `leads-channels.md` (up-next and similar-video leads), `channel-finds-round1.md` (174 channels found), `keywords-round2.md` (round 2 keyword list), `check-round1.md` (the round 1 check), `round1-report.md` (what was reported to the operator). |
 | `data/raw/` | Raw pulls (JSON, CSV), one file per pull, named with the date. |
 | `data/tools/` | The small scripts used. Copied from `recovered/2026-10-22-roger-sub-brands/tools/` on 2026-10-23, then adapted where noted. |
-| `round2/` | Round 2 working files: the keyword sweep, formats, NexLev channel finds, old-house heat, and the master channel list. |
+| `round2/` | Round 2 working files: `keyword-sweep.md`, `formats.md`, `nexlev-channels.md`, `old-house-heat.md`, `channels-master.md` (the master channel list), the checks `check-round2.md` and `check-master.md`, and `round2-report.md` (what was reported to the operator). |
 | `thumbnails/` | Deliverable 5 (later rounds). |
