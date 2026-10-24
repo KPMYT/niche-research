@@ -166,6 +166,8 @@ AC of every kind (central, window, portable, mini-split) is 15 of the 22. None o
 
 ## Borderline and excluded (long-form)
 
+**Operator decision 2026-10-24:** the pellet stove video (`9d9TL02idO4`) counts as a seed (off-grid heat sub-niche). The rest of this table stays out. The seed table and summary above still show the 22; round 3 rebuilds the counts with 23.
+
 Not counted as seeds. 'Lean' is my reading, for the operator to decide. The four label columns on the right were added on 2026-10-23 by the labelling helper (readings, same definitions as the seeds); they are not in the label summary above.
 
 | Video ID | Title | Views | Upload date | Length (tab) | Multiple | Why borderline | Lean | Sub-niche (reading) | Format (reading) | Emotions (reading) | Villain (reading) |

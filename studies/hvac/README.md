@@ -2,13 +2,21 @@
 
 The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.md`. Owned by the HVAC research chat.
 
-**Status (2026-10-23):** round 1 (seeds) done and checked; reported to the operator; round 2 waiting for the go.
+**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) running since 2026-10-24.
 
 ## Scope decisions (operator, 2026-10-23)
 
 - Generator videos count only when they are about keeping the house warm in an outage; generator and power-station product reviews are out.
 - Drafts, weatherstripping, spray foam, windows and attic insulation count when the title is about heating, cooling or the bill.
 - Round 1 also starts finding channels ("go and find more channels too").
+
+## Operator decisions, 2026-10-24 (on the round 1 report)
+
+- New emotions E19 comfort and E20 new-gadget wonder: yes. New formats (symptom-fix, install/DIY project, review, explainer, news-warning): yes. See `labels.md`.
+- **NexLev RPM is not used:** "ignore nexlev rpm its wrong". RPM and NexLev's RPM-based figures are not used for any finding or comparison in this study. (NexLev monthly earnings are RPM-based too, so they are kept in the raw data but marked as NexLev estimates and not relied on.)
+- Off-grid heat (wood and pellet stoves, diesel heaters, "free heat" tricks) is mapped as its own sub-niche (my reading of the answer to question 4).
+- Silver Cymbal borderline videos: the pellet stove video (`9d9TL02idO4`) counts as a seed; spray foam, garage-door seal, crawlspace and snowstorm videos stay out.
+- Search sorts: "this month" and "this year" filters replace the broken "upload date" sort; old videos come from each channel's Oldest tab, as YouTube search has no "oldest" sort.
 
 ## Files
 

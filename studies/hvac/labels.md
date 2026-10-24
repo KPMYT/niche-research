@@ -37,10 +37,10 @@ Up to three per video, strongest first. E1 to E18 are the plumbing study's trigg
 | E16 | Protectiveness (family, pets, parents) | Keeping loved ones safe; this audience is often the caregiver. | Carbon monoxide and the grandchildren; an elderly parent in a cold house. |
 | E17 | Safety fear | Fear of being hurt by the fix itself: mixing cleaners, carbon monoxide. | Capacitor shock, gas leaks, CO from a furnace, a space heater fire. |
 | E18 | Rule-curiosity and mild defiance | "Why is this banned?", irritation at rules, worry about inspections, warranties or insurance. | Refrigerant rules (R-22, R-410A), "is it legal to install it yourself?", "voids your warranty", "legal too!". |
-| **E19** | **Comfort (NEW)** | Not in the plumbing list. Defined below. | "Not cooling", "make it cold again", "keep anyone cool", "leaving people cold", "keeps you warm". |
-| **E20** | **New-gadget wonder (NEW)** | Not in the plumbing list. Defined below. | "This tiny AC blows them away", "most powerful ever made", "first look at the new...". |
+| **E19** | **Comfort (NEW, approved by the operator 2026-10-24)** | Not in the plumbing list. Defined below. | "Not cooling", "make it cold again", "keep anyone cool", "leaving people cold", "keeps you warm". |
+| **E20** | **New-gadget wonder (NEW, approved by the operator 2026-10-24)** | Not in the plumbing list. Defined below. | "This tiny AC blows them away", "most powerful ever made", "first look at the new...". |
 
-### E19. Comfort (NEW, 2026-10-23)
+### E19. Comfort (NEW 2026-10-23, approved by the operator 2026-10-24)
 
 **What:** the misery of a house that's too hot or too cold, and the wish to feel right in your own home again. For older viewers, heat and cold are felt harder (sleepless summer nights, a cold bedroom), so the body's comfort is the point, not the fix itself.
 
@@ -53,7 +53,7 @@ Up to three per video, strongest first. E1 to E18 are the plumbing study's trigg
 
 **Seeds that needed it (9):** `_b6p0fkWhCY`, `o8KQu_MlpoY`, `DSNUyxZtrmo`, `nsRHhU6q5RY`, `BP1iDvKpNZA`, `NsPBamTmOPM`, `uObGbs4sGQY`, `S8XO4wFhrPU`, `OGVXmIZtEG8`.
 
-### E20. New-gadget wonder (NEW, 2026-10-23)
+### E20. New-gadget wonder (NEW 2026-10-23, approved by the operator 2026-10-24)
 
 **What:** excitement at a new, surprisingly small or surprisingly powerful product ("tiny", "most powerful", "first look", "just got better"). It rides on curiosity about what technology can do now.
 
@@ -99,17 +99,17 @@ Up to three per video, strongest first. E1 to E18 are the plumbing study's trigg
 | 1 | test | Something is put through a stated trial or measurement: "testing", "I tested", "how safe is X?", "surviving N hours with X". | "How Safe are DREO Electric Space Heaters?" (`ZJQjKOnbLKU`); "Surviving a 36 Hour Power Outage with the BIGGEST ECOFLOW DELTA PRO ULTRA" (`_G7ZPjmR5ck`) |
 | 2 | X vs Y | Two named options are compared ("vs", "better than", "instead of" with both named). | "Why Heating Oil is BETTER than GAS - Explained" (`GdTOl1WcHV0`) |
 | 3 | the only X I'd buy | A verdict naming the one or best product or brand: "the best X", "the only brands worth buying", "never buy X, buy Y". | "The BEST Portable Air Conditioner Just Got BETTER for 2026" (`OGVXmIZtEG8`) |
-| 4 | review (NEW) | One specific product (named in the title, or the subject of the thumbnail) is shown and judged: "review", "first look", "is it worth it?", specs and claims. If the video mainly installs it, use install/DIY project instead. | "Ecoflow Wave 2 Solar Battery Powered Portable Air Conditioner Heater Review" (`yZavrHJsBAw`) |
+| 4 | review (NEW, approved by the operator 2026-10-24) | One specific product (named in the title, or the subject of the thumbnail) is shown and judged: "review", "first look", "is it worth it?", specs and claims. If the video mainly installs it, use install/DIY project instead. | "Ecoflow Wave 2 Solar Battery Powered Portable Air Conditioner Heater Review" (`yZavrHJsBAw`) |
 | 5 | myth-bust | Says a common belief or practice is wrong: "myth", "doesn't work", "stop doing", "they were wrong". | Illustrative: "Closing Vents Doesn't Save You Money" (not a real title) |
 | 6 | Y doesn't want you to know | Promises knowledge someone keeps back: "secret", "they don't tell you", "what techs won't say", "hidden" or "unknown features". | "3 Unknown Features on Mr Cool Mini Split Air Conditioners" (`cC-J0ZCUH28`; thumbnail: "TRICKS THEY FORGOT TO TELL YOU ABOUT") |
 | 7 | mistakes | Names the viewer's mistakes or wrong ways: "X mistakes", "you're doing it wrong", "never do this to your AC". | Illustrative: "5 Thermostat Mistakes That Raise Your Bill" (not a real title) |
 | 8 | before you do X | Tells the viewer to stop before a step (buy, call, replace, sign): "before replacing", "don't buy X before...", "watch this before...". | "Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT" (`yCZqfnlBYW8`); "Don't Buy a Rooftop Solar System Before Seeing my Disaster" (`Roz9OXl5uEU`) |
-| 9 | news-warning (NEW) | A change or trend presented as news the viewer must hear: "after learning this news", "why X are now failing", new rules, bans, tax credits. | "Why Heat Pumps are now leaving people COLD" (`BP1iDvKpNZA`); "Everyone will be buying pellet stoves after learning this news" (`9d9TL02idO4`) |
+| 9 | news-warning (NEW, approved by the operator 2026-10-24) | A change or trend presented as news the viewer must hear: "after learning this news", "why X are now failing", new rules, bans, tax credits. | "Why Heat Pumps are now leaving people COLD" (`BP1iDvKpNZA`); "Everyone will be buying pellet stoves after learning this news" (`9d9TL02idO4`) |
 | 10 | cheap hack | A cheap substitute or trick in place of a dearer product or service: "use THIS instead", "$5 trick", "cheap & easy way". | "Spray Foam is Expensive. Use THIS Instead!" (`sHL4lBAhklA`); "Cheap & Easy Way to Connect a Generator to Your House - Legal Too!" (`pPMm0reEBPM`) |
-| 11 | symptom-fix (NEW) | Names a symptom or failure the viewer has, and promises the fix: "not cooling?", "no heat", "water stains on ceiling", "blowing warm air", "smells funky". | "#1 Problem & Quick Fix with Central Air Conditioning Not Cooling" (`_b6p0fkWhCY`); "Window Air Conditioner Not Cooling? EASY Common Fix" (`o8KQu_MlpoY`) |
-| 12 | install/DIY project (NEW) | Installs or builds a whole system, appliance or project from start to finish, often with a time claim: "install your own", "in 4 hours", "in 1 day", "start to finish", "transformation". | "Install your own AIR CONDITIONING in 4 HOURS! DIY Mini Split MR COOL" (`Wejop_Rjpv0`) |
+| 11 | symptom-fix (NEW, approved by the operator 2026-10-24) | Names a symptom or failure the viewer has, and promises the fix: "not cooling?", "no heat", "water stains on ceiling", "blowing warm air", "smells funky". | "#1 Problem & Quick Fix with Central Air Conditioning Not Cooling" (`_b6p0fkWhCY`); "Window Air Conditioner Not Cooling? EASY Common Fix" (`o8KQu_MlpoY`) |
+| 12 | install/DIY project (NEW, approved by the operator 2026-10-24) | Installs or builds a whole system, appliance or project from start to finish, often with a time claim: "install your own", "in 4 hours", "in 1 day", "start to finish", "transformation". | "Install your own AIR CONDITIONING in 4 HOURS! DIY Mini Split MR COOL" (`Wejop_Rjpv0`) |
 | 13 | how-to | A maintenance or repair procedure with no symptom named: "how to clean", "how to replace", "the right way". | "How to Clean Your Mini Split AC Condenser - Make it Cold Again" (`DSNUyxZtrmo`); "How to Replace a Circulator Pump on a Boiler" (`flpbqJu2sT8`) |
-| 14 | explainer (NEW) | How something works, or why, with no procedure: "how it works", "understand the basics", "explained". | "Oil Heat Boilers - How it works - Understand the Basics" (`5GbXgEYw5TE`) |
+| 14 | explainer (NEW, approved by the operator 2026-10-24) | How something works, or why, with no procedure: "how it works", "understand the basics", "explained". | "Oil Heat Boilers - How it works - Understand the Basics" (`5GbXgEYw5TE`) |
 | 15 | story | A first-person event or saga, when no rule above applies: "surviving the storm", "what happened when...". | "SURVIVING the Worst Snow Storm in 30 Years" (`OYM8aSESAY8`) |
 
 **Close calls in round 1** (so later helpers decide them the same way):
@@ -145,9 +145,9 @@ From the topic list in `RESEARCH-BRIEF.md` section 1, refined. One per video: th
 | drafts, insulation and air sealing | Insulation, drafts, weatherstripping, spray foam, windows. Operator rule (2026-10-23): it counts as an HVAC seed only when the title is about heating, cooling or the bill. |
 | humidity, ventilation and indoor air | Dehumidifiers, humidifiers, mould, crawlspaces, exhaust and range-hood fans, air purifiers. |
 | heat and power in an outage | Staying warm (or cool) with no power. Operator rule: generator videos count only when they're about keeping the house warm; generator and power-station product reviews are out. |
-| alternative and supplemental heat | Pellet and wood stoves, diesel heaters, space heaters. Space-heater safety is also the electrical study's. |
+| alternative and supplemental heat (off-grid heat) | Pellet and wood stoves, diesel heaters, space heaters, and the "free heat" / "forgotten trick" heat videos (candle and rocket heaters, earth tunnels, salt buckets). Mapped as its own sub-niche (operator, 2026-10-24). Space-heater safety is also the electrical study's. |
 | brand verdicts | Which brands or models to buy or avoid, across a category. |
-| buying and replacing a system (NEW) | Quotes, sizing, repair or replace, contractor choice, replacement costs. Added under "anything else the search turns up"; none in the seeds so far. |
+| buying and replacing a system (NEW, approved by the operator 2026-10-24) | Quotes, sizing, repair or replace, contractor choice, replacement costs. Added under "anything else the search turns up"; none in the seeds so far. |
 | adjacent or out of scope | Water heaters (plumbing), frozen pipes (plumbing), solar, cars. Recorded as "adjacent: ..." or "out of scope: ..." so they can be seen but not counted. |
 
 ---
