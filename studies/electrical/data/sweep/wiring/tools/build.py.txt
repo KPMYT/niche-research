@@ -1,0 +1,143 @@
+import json,re,csv,os,collections,statistics,sys,glob
+S="/tmp/claude-0/-home-user/bd54f07e-8fa6-5773-8636-91dde80d17df/scratchpad"
+O="/home/user/niche-research/studies/electrical/data/sweep/wiring"
+A=json.load(open(S+"/agg.json")); seen=A["seen"]; hits=A["hits"]; srcs=A["srcs"]
+kwsrc={}
+for fn in ["kw_wiring.tsv","kw_wiring2.tsv"]:
+    for line in open(S+"/"+fn):
+        k,s=line.rstrip("\n").split("\t"); kwsrc[k]=s
+slug=lambda k: re.sub(r'-$','',re.sub(r'-+','-',re.sub(r'[^a-z0-9]','-',k.lower())))
+slug2kw={slug(k):k for k in kwsrc}
+exact=json.load(open(S+"/exact.json")) if os.path.exists(S+"/exact.json") else {}
+
+# ---- manual exclusions (reading of title/channel, 2026-10-24) ----
+OUT_LANG_CH=["Mehboob","Electric Guruji","Local Electrician","Let's Make","ELSTUDY","Santitan","M1Molter","WAGO Germany","WAGO Polska","Leonidas","Haslo tu mismo","Tecnologia y Solucione","Electrical Pinoy","TEKNIK LISTRIK","Elektryka Elektronika","Mundo da El","CrazyMe","ELECTRICAL  TUTORIAL","Technical Work","ELECTRICNOLOGY","Engineering Facts","Sonu Automation","Khichdi Bazaar","Kolkata Trade","electric science","Electrical Expert Hi","The Electric zone","Electrical Dost","Er.Ashish","Electric Online","The Electrical Guy","KaraaNi","RIYADI","Cédric de Bricolage","Andreas Behrendt","DP Elétrica","Ada Manfaat","ProofWood","DIY INVENTOR","YueQing","Naveen Nehra","FAÇA SUA OBRA","ELETRICITY - O CAN","Kompas","Obra é compromiss","Bisayang Juan","Tamil tech","SAYDE TV","MASTER MOTO","Emmatech","Siva electrical","Helcio Marido","Gilson Eletricista","Can'ın Atölyesi","Enzo Giannone","Mate Electrónic","Reparador 101","Electric work","DIY Top1","FIX CRAFT","FIX LAB","Creation","Smart Fix Inventor","DIY ideas 247","Clever Tips","Creative Workshop","Smart Guide","DIY HUB 6","Albanian Fix","CnW creations","MEP Techniques","Jr Electric","YELLOW DIAMOND","Onkel Kramer","FUNKFIEBER","Elektronik \"EXTREM","ElektroM","Seby Torrisi","smattex","Adrian Chelaru","Marcel | DIY","Mr. INDIAN","MR. INDIAN","Creative Master","Creative Hacker","Handcraft","Mr Nik","Electrica Control","Daddicated Españo","ApatriD","DiyRoby","lightforyou","Si Puedes Tambien","Electro University","Electrical Job","diybehappy","Special electricia","Power Electric","Wire Wise Academy","Tech·WHYS","ElectroShark","Mr K","SmartTool99","Daddy's Tips","Petrovich","DIY Hacks","Electrical You","Solder Fel","Elektro","TOP HEIGHTS SOLAR"]
+OUT_OFF_CH=["Fauna Code","1ROAD","Cocobi","Rosoo Songs","Kendall StopMotion","ViralSnare","Crutchfield","CRUTCHFIELD","CarAudioFabrication","HifiVega","Lucid Autowerks","EricTheCarGuy","Holley","High Performance Aca","Haltech","Custom Dynamics","Pacer Marine","Virar Automotive","Electrical Car Rep","ShowMeCables","w2aew","Ham Radio","390 Wagon","Dorman Products","DIYautotech","AnthonyJ350","Morozov Automotive","Eastwood Company","POWERBLOCK","Uncle Tony","South Main Auto","J & G Transmissions","EC AUTOMOTIVE","Nathans BMW","JD Cars","Auto Fanatic","Dave Jenkins","Smart Racer","Rust Hoarder","Spite's Corner","JetSkiJake","ROBERTSON'S","Wrench & Reset","Cars Simplified","Mark Jenkins","Garage Story","Airsoft","The BIKESMITHS","idol tropa","Trying to Guitar","hughqelliott","enph twofivethree","1929fordhotrod","HotRodHippie","The Fab Forums","WHAT THE FIX","737mechanic","Raymond Lamb","Welding and stuff","WaltWW","The ZOOM Guys","Teaching Tech","Sven","ConCon","Room Recap","TheCompletedLook","Vibe with JS","Daniel Titchener","Jake Edmunds","EXPLORIST","Thrive Overland","Nick's Wanderings","camperhelp","ExploreVan","Grid Down Comms","KandWRailroader","Ultimate Tech Hub","E-Rigging","Electronics Repair Bas","Adam Savage","learnelectronics","Lectric Limited","BRPTI","Dim","Treadmill Doctor","Ice Machine 411","Mark Silverbridge","New York Daily","WCVB","KTVU","MS NOW","Tim Dillon","Throttle House","Isaac Brown","Labour Law","Liron Segev","RoyTecTips","Switched On Network","Quality Mobile Video","Wiring Rescue","SuperfastMatt","ChrisFix","Scotty Kilmer","TightWadDIY","YourSelf","CALDEIREIRO","Charlie Puth","Mobile Solar Consu","Passive House Tech","Engineering with Ros","Kilowatt Nation","History of Simple Th","LifeAda","The Max Revival","Taddy Digest","Tanmay Mehta","Empire AV","Hillbilly RV","Keystone RV","John C RV","JT Electrical Grou","Project Nine Oaks","Behind the Throttl","Electrical Safety ","Loot","bigAQ"]
+OUT_ID={  # id: reason
+ "DQx5SVj0biA":"wall plugs = drywall anchors","Il_-rSVN7yA":"TV tapes","NpcqgZaqTjk":"12V rocker switch (vehicle)",
+ "bHIhgxav9LY":"physics explainer, not home electrical","GK2pZ_oVU1o":"engineering/grid","dje7uhyW23o":"science stunt","BGD-oSwJv3E":"science explainer (volts/amps)","XDf2nhfxVzg":"science explainer","PXNKkcB0pI4":"battery science explainer","ZWlq_fWRrzI":"plumbing","CrCAm7wtaOI":"grid substation","HKt6kswEAXo":"rigging","WYJDBDZURro":"career","en7JKEfYT64":"career","qo2Bb8bNBao":"career","85ePwWunoIs":"career","hPo39C9yrQw":"career","kmFJvvmsXcs":"career","nHQExsGuY-U":"career","QQlOmW0D7Zs":"career/tools","fU5IQNMsXXQ":"trade tips for electricians","2_llkpJWizg":"tool gadgets for electricians","q3cXxG4VwdM":"tool brand comparison","U-xQm6QEv-s":"career","QnD4leUJKsg":"career","9kr1MNIwwiM":"science reaction","qMSRccYPUZU":"science reaction","mVR9Wns0ST8":"well pump pressure switch","4mS2ulVqmsc":"workshop build vlog","ULRKW-ykFdY":"generator repair, not safety","o9tQlbndZ7w":"campervan 12V","ZHFxLUOG8UE":"camper 12V","0zcdpvk6GUg":"Starlink 12V","8di40030LfA":"vehicle","G7xeyvHx24U":"vehicle","b3Sw3NUj8wo":"vehicle","RkTJtb9pjAA":"ATV","LHGxwulIPes":"vehicle","NmVAaGHRFXk":"12V","3Q-itOgn1Do":"vehicle 12V","VVgx33HH7Is":"vehicle","1o60yTSZALg":"vehicle T-tap","uaYdCRjDr4A":"vehicle","YhfSn2LQSb0":"battery cable","aivwb5LTm5g":"vehicle","pOTrS6-mNtA":"motorsport","BOmo0Vy5DyE":"motorsport","EAr2z6rGV7o":"motorsport","NEHpiZ0xnIo":"car audio","lmfiOJjRwRk":"motorcycle","UMeGCQa-oCI":"car audio","wZp41T0fguk":"automotive","zSh8P461LuA":"vehicle harness","fbLDbB2u0pc":"RF coax","yrefqZlIUkA":"RF coax","QNmyGA9LHes":"RF coax","jHfYzrSF4pY":"hobby electronics","cOTlzQh2BMk":"hobby electronics","WYMDU0CiswU":"video game","qsedLqdvG1U":"kitchen design","lhhtEJSNryQ":"motors","Wk0p5Yj_ebU":"industrial switchgear","xGJP4LLGWU8":"solar/bill policy","2vM5ofvE8lA":"industrial crane","a_XKEM1mnQM":"industrial","uu68bxG0iuM":"industrial safety","rX_l7wRS1v4":"video game","bwWm1fCtnjA":"aquarium","s32CAjZG2JY":"guitar","yebqked_WuI":"automotive","hfwGq00wlJE":"automotive","VqYsQVq7UXU":"automotive","bIZCQeZLUDY":"fiction","-eC_DZc-5w8":"fashion outlet store","SqgvbpnB50k":"news","cSlFq1hFHMA":"science","k2UcgP0LhuI":"out: winter blackout/power stations","MJ2kvs8fbBQ":"out: blackout buying (prepping)","gfy-xtAXYHY":"speaker hack","NBEWMBjNY_A":"coax","ik10WiIMfv0":"coax","Cp_KdrTVWkk":"electronics repair","GZOh1NzqzzU":"3D printer","bvdzmMmG5aw":"stunt","vDsVwbWiVFI":"electronics hobby","9zYICTmcnWM":"automotive diagnostics","LE-y9GOcqfQ":"electronics hobby","xo3gWC7SOHE":"coax","SsWFJdzCn5s":"automotive","Fo-L1tW_1-M":"narrowboat 12V","Du3iRWi5leM":"radio/12V","UyMsijpb7Yk":"vehicle","Yz9lfydCcVQ":"vehicle","kWWYViCMtLs":"unrelated","8eg-AzZLkN4":"jewelry","xVklxaLsh6g":"UK EV charging (ev-charging, UK)","T3Vsn2lBPN4":"bike","rJR7hpBOI0o":"automotive response","6mNIW84Yrbw":"fabrication","gFItTHsv96Y":"aviation","45MRHXa2huI":"hobby","Rs2rQqbe4Lo":"e-bike/automotive wiring","QjIG7AMevBg":"vehicle","1VycaKdq59k":"vehicle","1ELMYjTJLGI":"vehicle","JwRiac_phww":"vehicle","lKYH-J1fKBg":"vehicle","r5KoFetOTGQ":"vehicle","qlAgFv8TqDY":"golf cart","vagsItOACaM":"model railroad","QuuqbRwMgg4":"vehicle","Ic76EonFESM":"vehicle","BVbH-j-Mu5A":"jetski","B4L51cYJa0c":"jetski","3bfJp_cdIcQ":"plumbing","nu3JPpGzXb0":"home theater","kdQwRllGGlQ":"AV prewire","WL-3-XTizaI":"woodshop 12V? low-volt","bXIrAMhT9SA":"smart relay (home automation)","o8zAwi2Uuvs":"smart relay","H5NNaBOcVI8":"smart actuators (non-US)","Zm0fxDVJts8":"smart relay","nYCYio0eFEU":"caravan","sda0RPGlI6E":"smart meter India","XUeDo41YVJg":"motorbike","DcslAfIWYj0":"vehicle","cjPr4TU-3wI":"vehicle","HMMT52OzZ3k":"vehicle","L3j_ArNjRt4":"mower","2jIPggZjiI0":"airsoft","CRA0iE_qoYk":"automotive","uC1K1XtoIF0":"non-English","l5XM6hUd5Fk":"non-English","Do1OEgmGMGA":"non-English","oucNuEzC6DM":"non-English (Russian channel)","50tnHGbHq2g":"non-English","_Ow-HyC043U":"non-English","wnvlSPdSk7M":"non-English","TedSWJ8ZX0A":"non-English","nufWRER9KEQ":"non-English","0zX4GNq_7YM":"non-English","XMV26lpwDZY":"non-English","omLadZi6oIc":"non-English","DL-EbQTleHw":"non-English (Korean)","LIpzAs_neSU":"non-English","MUHhZn2YlMU":"non-English","gVDfK7KK6Sc":"non-English","FwjBX7NxjvE":"non-English","Zsvt4D-hCs8":"non-English","E4IUsTyKCaQ":"non-English","4QllVDu0K20":"non-English","J9GUcpk1hjQ":"non-English","6cyYAYdzwxo":"non-English",
+}
+OUT_RE=[r"\bcar\b",r"\bcars\b",r"truck",r"stereo",r"\bamp\b",r"headlight",r"spark plug",r"alternator",r"race car",r"hotrod",r"motorcycle",r"\bboat",r"marine",r"\brv\b",r"camper",r"caravan",r"trailer",r"jeep",r"kubota",r"tractor",r"vehicle",r"automotive",r"\batv\b",r"golf cart",r"cigarette lighter",r"\b12v\b",r"\b12 volt",r"harness",r"coax",r"\bbnc\b",r"pl-259",r"\bsma\b",r"\brf\b",r"plumb",r"\bpex\b",r"teflon",r"pipe",r"toilet",r"faucet",r"water heater",r"hvac",r"furnace",r"air condition",r"\bac keeps",r"thermostat",r"solar",r"renewable",r"ethernet",r"\bcat[5-7]",r"rj45",r"wifi",r"phone",r"android",r"iphone",r"laptop",r"charging port",r"official music",r"music video",r"trump",r"breaking:",r"podcast",r"show #",r"drywall anchor",r"screw hole",r"angle grinder",r"guitar",r"pedal",r"arduino",r"raspberry",r"\bpcb\b",r"drone",r"keyboard",r"\bmouse\b",r"dryer not heating",r"dishwasher",r"bathroom design",r"kill switch",r"cooler motor",r"\bups\b",r"inverter",r"tagalog",r"paano",r"guruji",r"hindi",r"bijli",r"connnection",r"\bko\b",r"kaise",r"\bkare\b",r"\bkya\b",r"urdu",r"bangla",r"tamil",r"telugu",r"\bmcb\b",r"rccb",r"\bnc2\b",r"ncii",r"tesda",r"philippines",r"model railroad",r"3d printer",r"bathroom exhaust fan",r"exhaust fan",r"lineman",r"substation",r"\bsong\b",r"cartoon",r"\bkids\b",r"marijuana",r"smart meter",r"crane",r"wire rope",r"battery cable",r"\blugs?\b",r"speaker wire",r"banana plug",r"posi-?products",r"anderson",r"jst\b",r"ferrule",r"zero turn",r"pool pump",r"sea-?doo",r"narrowboat",r"starlink",r"tesla model",r"inline fuse",r"\beels?\b",r"lexus",r"porsche",r"pinball",r"sauna",r"kettle",r"spray gun",r"grill",r"sofa",r"surgery",r"fuse box diagram",r"chevrolet",r"lifepo4",r"victron",r"\bvan\b",r"sailing",r"protection relay",r"off-grid",r"never pay an electric bill",r"energy (secret|trick)",r"voltage fluctuation",r"trip your ac",r"\bac\b",r"virtual pinball",r"\btach\b",r"tiny house",r"\bmcb\b",r"mpcb",r"lesson \d",r"class #",r"electric (company|bill)"]
+def excluded(v):
+    t=(v.get("title") or "").lower(); ch=v.get("channel") or ""
+    if any(ord(c)>0x2FF and not (0x2000<=ord(c)<=0x2BFF) and not (0x1F000<=ord(c)<=0x1FFFF) and ord(c)!=0xFE0F for c in (v.get("title") or "")+ch): return "out-lang: non-Latin script in title/channel"
+    if v["id"] in OUT_ID: return "out: "+OUT_ID[v["id"]]
+    for c in OUT_LANG_CH:
+        if c.lower() in ch.lower(): return "out-lang: non-English or no-narration hack channel (reading)"
+    for c in OUT_OFF_CH:
+        if c.lower() in ch.lower(): return "out: off-topic channel ("+c+")"
+    for p in OUT_RE:
+        if re.search(p,t): return "out: title term /"+p+"/"
+    return None
+IN=r"outlet|receptacle|switch|gfci|gfi\b|afci|arc.?fault|ground fault|rcd|wire nut|wirenut|wago|lever nut|crimp|solder|electrical tape|splic|connector|electrical|electrician|electric|wiring|\bwire|breaker|panel|circuit|volt|\bamps?\b|neutral|ground|romex|conduit|junction|j-box|box|light fixture|ceiling (fan|light)|\bled\b|bulb|dimmer|extension cord|power strip|surge|multimeter|tester|test light|\bplug|backstab|back stab|push.?in|shock|electrocut|aluminum|knob and tube|generator|240v|220v|120v|smoke|carbon monoxide|fire|socket|electricity|short|tripping|trips|prong|nema|lighting|light switch|sparky|sparks"
+STRICT=r"outlet|receptacle|switch|gfci|gfi\b|afci|arc.?fault|breaker|panel|wire nut|wirenut|wago|lever nut|crimp|solder|splic|electrical tape|connector|wiring|wired|circuit|plug|socket|romex|junction|neutral|ground|electrician|electrical (work|fire|mistake|problem|safety|system|hazard)|extension cord|power strip|surge|space heater|lights? (keep )?trip|multimeter|tester|backstab|back stab|wires?\b"
+def sub(t):
+    t=t.lower().replace("this old house","")
+    if re.search(r"federal pacific|zinsco|\bfpe\b|stab-?lok",t): return "old-panels"
+    if re.search(r"gfci|\bgfi\b|afci|arc.?fault|\brcd\b|ground fault circuit|dual function",t): return "gfci-afci"
+    if re.search(r"generator|backfeed",t): return "generator-safety"
+    if re.search(r"wire nut|wirenut|wago|lever nut|lever connector|crimp|solder|electrical tape|insulation tape|splic|butt connector|connectors?\b|splicing|wire joint|connect(ing)? (electrical |electric )?wires|joining|join (electrical )?wires|twist (electric )?wires|polaris tap|ideal in-?sure|push.?in wire connector|armourband",t): return "connectors"
+    if re.search(r"christmas|holiday|halloween|string lights",t): return "holiday-lights"
+    if re.search(r"space heater",t): return "space-heaters"
+    if re.search(r"e-?bike|electric bike|lithium|power bank",t): return "batteries-lithium"
+    if re.search(r"\bev\b|tesla|ev charg|14-50",t): return "ev-charging"
+    if re.search(r"aluminum wir|knob.and.tube|2.prong|two.prong|ungrounded|open ground|old (house|home|electrical|wiring)|100 year old|194 year|1950",t): return "old-wiring"
+    if re.search(r"ceiling fan",t): return "ceiling-fans"
+    if re.search(r"breaker|panel|fuse box|load center|keeps tripping|\\btripping|won.t reset|\\btrips?\\b|\\btripped",t): return "breakers-panels"
+    if re.search(r"\bled\b|light fixture|recessed light|can light|light strip|lighting|pendant|ceiling rose|ceiling light|exterior light|light socket|lamp|bulb",t) and not re.search(r"switch",t): return "lighting-led"
+    if re.search(r"extension cord|power strip|surge|power cord|cord|plug replacement|replace .*plug|plug on|prong plug|male end|electrical plug",t) and not re.search(r"outlet|receptacle|socket",t): return "cords-strips-surge"
+    if re.search(r"multimeter|tester|test light|tone and trace|wire stripper|screwdriver|tools? ",t): return "testers-meters"
+    if re.search(r"home inspect|buying a (home|house)|deal breaker|inspection|walk-?through",t): return "home-inspection"
+    if re.search(r"outlet|receptacle|switch|socket|plug|dryer cord|range cord|usb|electrical box|junction box|j-box|outlet box|short wires|extend .*wires|wires too short",t): return "outlets-switches"
+    if re.search(r"fire",t): return "fire-habits"
+    if re.search(r"mistake|dangerous|fail|nightmare|never|wrong|unsafe|habits|sins|garbage|shoddy|hazard",t): return "wiring-mistakes"
+    return "electrical-explainer"
+def fmt(t):
+    l=t.lower()
+    if re.search(r"react",l): return "other:reaction"
+    if re.search(r"things (i.ll|i will|i.d) never|things .*never (do|have|buy|use)|never (do|have|buy|use) as an electrician|things electricians never|electricians never have|retired electricians never|things i look for",l): return "other:insider-never"
+    if re.search(r"don.t want you|hate|won.t tell|never tell|hope you never|scam|electricians charge|don.t pay an electrician|nobody talks|what .* won.t|they don.t",l): return "dont-want-you"
+    if re.search(r"before you",l): return "before-you"
+    if re.search(r"\bvs\.?\b|versus|\bor\b.*\?|which (wire|splicing|one|is|connector)|compared|comparison|cheap vs|original .* or copy|wars",l): return "x-vs-y"
+    if re.search(r"\btest(ed|ing|s)?\b|what happens|experiment|overload|shootout|what could go wrong|surprising results|can .* handle|destructive",l): return "test"
+    if re.search(r"the only|only .* (worth|you should)|best .* (for your|on the market)",l): return "only-x"
+    if re.search(r"myth|misconception|debunk|truth|is it (illegal|dangerous|safe)|should you|should we|should i|does a|does your|do all|can you|is electrical tape a|actually fix|the real reason|why .* (upside down|installed)",l): return "myth-bust"
+    if re.search(r"mistake|wrong|don.t|do not|never|avoid|fatal|\bstop\b|beware|worst|dangerous|fails|habits|sins|bad idea|unsafe|disaster|horrible|garbage|illegal|deadly|burns?\b|could (start|burn)",l): return "mistakes"
+    if re.search(r"\$\d|hack|trick|cheap|save \$|genius|ingenious|brilliant|secret|few know|nobody knows|most don.t know|you never knew",l): return "cheap-hack"
+    if re.search(r"keeps? tripping|won.t reset|not working|won.t stay|no power|stopped working|doesn.t work|isn.t working|why (is|are|does|do) my|\?.*(here|fix)|getting shocked|sparks? (when|from)|warm|hot with",l): return "other:problem-fix"
+    if re.search(r"found|nightmare|my house|we found|almost|nearly|story|vlog|chaotic week|electrician life|in our house|incomplete mission|problems? &|i was dumb|i tested my house|so far|gone right",l): return "story"
+    if re.search(r"review|hands on|demo\b|keep or return",l): return "review"
+    if re.search(r"explain|how .* works?|what is|basics|difference|understanding|why (do|does|are|is)|everything (you need|to know)|guide to|101|crash course|where and why|what are",l): return "explainer"
+    return "how-to"
+def dsec(d):
+    if not d: return None
+    p=[int(x) for x in d.split(":")]; s=0
+    for x in p: s=s*60+x
+    return s
+VILLAIN=[r"electricians? (hate|don.t want|won.t tell|never tell|hope)",r"power company",r"builders?",r"flipper",r"cheap chinese",r"chinese",r"harbor freight",r"diy channels",r"scam",r"last owner",r"previous owner",r"handyman",r"\$\d+",r"knock-?offs?|fake|copy",r"illegal",r"code",r"diyers?",r"homeowners?"]
+rows=[];short=[];outs=[]
+for vid,v in seen.items():
+    t=v.get("title") or ""
+    ex=excluded(v)
+    if not ex and (v.get("views") or 0)<1300 and not re.search(STRICT,t.lower()): ex="out: tail row (<1,300 views, not hand-checked) without a home-electrical term"
+    if ex or not re.search(IN,t.lower()):
+        outs.append((vid,v,ex or "out: no in-scope term")); continue
+    sl=srcs[vid]; first=sl[0]
+    kw=sorted(set(slug2kw.get(s[0],s[0]) for s in sl))
+    best=min(sl,key=lambda s:s[2])
+    d=dsec(v.get("dur")); lf = d is not None and d>=300
+    e=exact.get(vid)
+    views=e["views"] if e else v.get("views"); vsrc="yt.py video (exact) 2026-10-24" if e else "yt.py search list views_text (exact count) 2026-10-24"
+    date=e["date"] if e else (v.get("age") or "not found")
+    note=[]
+    ch=v.get("channel") or ""
+    if re.search(r"POUSE|sparkydave|John Ward|Ultimate Handyman|eFIXX|Proper DIY|Diligent DIYer|GSH Electrical|How2D2|Artisan Electrics|Warren Nash|BuildersSA|Hartley|Excel Electricians|Sleaford|Sparks Will Fly|NZ Tradie|John McGrath|SA Power|Energy Safe Vic|Response Electric|Work Safe",ch): note.append("UK/AU/NZ channel (non-US rules)")
+    vw=[p for p in VILLAIN if re.search(p,t.lower())]
+    if vw: note.append("villain words: "+"/".join(re.search(p,t.lower()).group(0) for p in vw))
+    note.append("labels = title-based reading")
+    r=dict(video_id=vid,title=t,channel=ch,channel_id=v.get("channel_id") or "not found",views=views if views is not None else "not found",views_source=vsrc,age_or_date=date,length=v.get("dur") or "not found",long_form="yes" if lf else "no",keyword=slug2kw.get(first[0],first[0]),sort=first[1],rank_in_sort=first[2],subniche=sub(t),format=fmt(t),notes="; ".join(note),hits=hits[vid],all_keywords="|".join(kw))
+    (rows if lf else short).append(r)
+cols="video_id,title,channel,channel_id,views,views_source,age_or_date,length,long_form,keyword,sort,rank_in_sort,subniche,format,notes,hits,all_keywords".split(",")
+nv=lambda r: r["views"] if isinstance(r["views"],int) else -1
+rows.sort(key=lambda r:-nv(r)); short.sort(key=lambda r:-nv(r))
+for fn,data in (("videos.csv",rows),("short.csv",short)):
+    with open(O+"/"+fn,"w",newline="") as f:
+        w=csv.DictWriter(f,cols); w.writeheader(); w.writerows(data)
+with open(O+"/excluded.csv","w",newline="") as f:
+    w=csv.writer(f); w.writerow(["video_id","title","channel","channel_id","views","length","reason"])
+    for vid,v,why in sorted(outs,key=lambda x:-(x[1].get("views") or 0)): w.writerow([vid,v.get("title"),v.get("channel"),v.get("channel_id"),v.get("views"),v.get("dur"),why])
+# keywords.csv
+with open(O+"/keywords.csv","w",newline="") as f:
+    w=csv.writer(f); w.writerow(["keyword","source","sorts_run","relevant_long","relevant_short"])
+    for k,s in kwsrc.items():
+        sorts=sorted(os.path.basename(p)[:-5].split("__")[1] for p in glob.glob(f"/home/user/niche-research/studies/electrical/data/sweep/wiring/raw/{slug(k)}__*.json"))
+        pages={"relevance":2,"views":3,"views_year":2,"month":1,"views_long":1}
+        rl=sum(1 for r in rows if k in r["all_keywords"].split("|")); rs=sum(1 for r in short if k in r["all_keywords"].split("|"))
+        w.writerow([k,s," ".join(f"{x}({pages[x]}p)" for x in sorts),rl,rs])
+# channels.csv
+ch=collections.OrderedDict()
+for r in sorted(rows,key=lambda r:-nv(r)):
+    c=ch.setdefault(r["channel_id"],dict(name=r["channel"],channel_id=r["channel_id"],subs_if_shown="not shown (search results carry no subscriber count)",n_videos_in_sweep=0,best_video_id=r["video_id"],best_video_title=r["title"],best_video_views=r["views"],first_seen_keyword=None))
+    c["n_videos_in_sweep"]+=1
+# first seen keyword by file mtime order (srcs order)
+for r in rows:
+    c=ch[r["channel_id"]]
+for cid,c in ch.items():
+    vids=[r for r in rows if r["channel_id"]==cid]
+    # earliest by srcs order index in global run (approx: keyword list order)
+    order={k:i for i,k in enumerate(kwsrc)}
+    c["first_seen_keyword"]=min((r["keyword"] for r in vids),key=lambda k:order.get(k,999))
+with open(O+"/channels.csv","w",newline="") as f:
+    w=csv.DictWriter(f,"name,channel_id,subs_if_shown,n_videos_in_sweep,best_video_id,best_video_title,best_video_views".split(",")+["first_seen_keyword"]); w.writeheader()
+    for c in sorted(ch.values(),key=lambda c:-c["best_video_views"]): w.writerow(c)
+def summ(key,fn):
+    g=collections.defaultdict(list)
+    for r in rows: g[r[key]].append(r)
+    with open(O+"/"+fn,"w",newline="") as f:
+        w=csv.writer(f); w.writerow([key,"n_longform","median_views","top1_title","top1_id","top1_views","top2_title","top2_id","top2_views","top3_title","top3_id","top3_views"])
+        for k,lst in sorted(g.items(),key=lambda x:-len(x[1])):
+            lst=sorted(lst,key=lambda r:-nv(r)); row=[k,len(lst),int(statistics.median([nv(r) for r in lst]))]
+            for r in lst[:3]: row+= [r["title"],r["video_id"],r["views"]]
+            w.writerow(row)
+summ("format","formats.csv"); summ("subniche","subniches.csv")
+print("long",len(rows),"short",len(short),"excluded",len(outs),"channels",len(ch))

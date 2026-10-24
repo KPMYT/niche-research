@@ -1,0 +1,14 @@
+#!/bin/bash
+# usage: run_sweep.sh kwfile  ; runs 4 sorts per keyword
+Y=/home/user/niche-research/studies/electrical/data/tools/yt.py
+R=/home/user/niche-research/studies/electrical/data/sweep/wiring/raw
+while IFS=$'\t' read -r kw src; do
+  slug=$(echo "$kw" | tr 'A-Z' 'a-z' | sed 's/[^a-z0-9]/-/g;s/--*/-/g;s/-$//')
+  for sp in "relevance 2" "views 3" "views_year 2" "month 1"; do
+    set -- $sp
+    f="$R/${slug}__$1.json"
+    [ -s "$f" ] && continue
+    python3 $Y search "$kw" $1 $2 > "$f" 2> "$f.err" || echo "FAIL $kw $1"
+    [ -s "$f.err" ] || rm -f "$f.err"
+  done
+done < "$1"

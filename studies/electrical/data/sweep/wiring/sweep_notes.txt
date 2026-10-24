@@ -1,0 +1,27 @@
+Round 2 keyword sweep, GROUP = wiring (wiring mistakes, outlets/switches, GFCI/AFCI, connectors, DIY mistakes, "things electricians never do")
+Pulled 2026-10-24 with data/tools/yt.py (logged-out YouTube search). Web searches used: 0 of 5. NexLev: not used.
+
+FILES
+keywords.csv   31 keywords, source of each, sorts run, relevant long/short rows per keyword
+videos.csv     relevant long-form (5:00+) rows, deduped by video_id; hits = number of keyword/sort pages that surfaced it; all_keywords lists them
+short.csv      relevant rows under 5:00 (NOT counted)
+excluded.csv   every non-kept result with the reason (off-topic, out-of-scope, non-English, vehicle, career, etc.)
+channels.csv   channels with at least one relevant long-form row (subs not shown in search results: "not shown")
+formats.csv / subniches.csv  per label: n long-form, median views, top 3 (title, id, views)
+raw/<keyword-slug>__<sort>.json  raw loader output; raw/video/<id>.json exact video pulls (top 40 by views)
+tools/*.txt    the scripts used (run_sweep, classify, build), kept for re-runs
+
+VIEWS AND DATES
+views: top 40 long-form rows = yt.py video exact count and exact upload date (views_source says so). All other rows = search-list views_text, which is an exact count, with relative age ("3y ago"). "1y ago" was NOT counted as "this year" (it can mean 12-23 months).
+
+RELEVANCE (reading, not measured)
+Rows >= ~1,300 views were hand-checked by title and channel. Rows below that were filtered by rules only (needs a home-electrical term, plus the exclusion lists in tools/build.py.txt). A random sample of 40 kept rows looked ~95% in scope (two borderline: a doorbell-wiring list and a power-grid explainer). UK/AU channels are kept but flagged in notes. Non-English / no-narration "hack" channels (e.g. Handcraft "99% of People Connect Wires WRONG", 10.6M, NDqheegj6k8) are excluded as out-lang by reading, not verified by watching.
+Sub-niche and format labels are title-based readings (rules in tools/build.py.txt). other:problem-fix = "X not working / keeps tripping? here's why"; other:insider-never = "N things I'll never do / electricians never have"; other:reaction = reaction videos.
+
+SORT BEHAVIOUR (counted over all raw files)
+views       mostly descending: 85% of adjacent pairs descending; ~49 results per 3 pages on average; some niche keywords returned few (e.g. "outlet warm to touch" views = 8 results). Pulls in big off-topic videos (plumbing, music, cars) for broad keywords.
+views_year  75% of adjacent pairs descending; 98% of results show an age of 12 months or less. Only ~27 results per 2 pages. "outlet warm to touch" views_year = 2 results.
+month       97% of results 31 days old or less (597 of 614); 20 per keyword.
+views_long  95% descending; 100% of results over 20:00.
+relevance   40 results per 2 pages as expected.
+No "oldest" sort exists in YouTube search; not run.
