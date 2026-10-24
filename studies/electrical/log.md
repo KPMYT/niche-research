@@ -69,3 +69,10 @@
 | channel list | round 1's channel lists merged, checker fixes applied, re-scoped (core / partial / out) | `data/channel-list/` |
 
 Web search budget given: 30.
+
+**Landed (2026-10-24):** all 7 helpers. Reports saved by the main session in each folder's `report.md`.
+- `sweep/devices/` 1,022 long-form (28 keywords); `sweep/wiring/` 1,018 (31); `sweep/panels/` 988 (30); `sweep/fire/` 745 (41); `sweep/cords/` 681 (29); `sweep/explainers/` 1,321 (53, incl. 28 presenter-trade keywords; `presenters.csv` 122 counted channels). Groups overlap (a video can surface in several); the round 3 merge dedupes.
+- `channel-list/`: 957 deduped channels: 142 core, 158 partial, 657 out.
+- New format labels proposed by helpers: problem-fix, insider-never / never-list, reaction, inspection-walk(through), danger-warning, job-vlog, best-list, number-one, the-x-way, banned-2026. To be defined in `labels.md` after the checkers.
+
+**Fix:** `data/tools/yt.py` now also reads the Popular/Oldest sort from the new drop-down menu (73 channels had no sort chip; the explainers helper found it and used its own wrapper). Checked on Walt Brennan, Weirdward Bound, Home Hazard, Roy Dalton Electric and Silver Cymbal.

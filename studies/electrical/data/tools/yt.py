@@ -113,6 +113,8 @@ def channel(key, sort, pages):
     else:
         chip = {"popular": "Popular", "oldest": "Oldest"}[sort]
         m = re.search(r'"chipViewModel": \{"text": "%s".*?"continuationCommand": \{"token": "([^"]+)"' % chip, json.dumps(d))
+        if not m:  # newer layout (seen 2026-10-24 on 73 channels): the sort sits in a drop-down menu
+            m = re.search(r'"listItemViewModel": \{"title": \{"content": "%s"\}.*?"continuationCommand": \{"token": "([^"]+)"' % chip, json.dumps(d))
         if not m:
             return {"error": f"no {chip} chip on Videos tab", "channel": meta.get("title"), "id": meta.get("externalId")}
         r = api("browse", {"continuation": m.group(1)}, ctx); lockups(r, vids)
