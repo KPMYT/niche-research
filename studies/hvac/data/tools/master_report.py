@@ -82,7 +82,7 @@ A("| Source | File(s) | What was taken | Channels in the master list from it | O
 A("|---|---|---|---:|---:|")
 srcmeta = [
     ("known8", "seeds/known-channels-recheck.md (s.1-2)", "the 8 known channels, YT figures 2026-10-23, type readings, top video"),
-    ("known8-leads", "seeds/known-channels-recheck.md (s.4 Leads)", "24 lead rows (26 channels; 3 by handle only, resolved below)"),
+    ("known8-leads", "seeds/known-channels-recheck.md (s.4 Leads)", "23 lead rows (25 channels; 3 by handle only, resolved below)"),
     ("round1", "seeds/channel-finds-round1.md, data/raw/channel-finds-round1.csv", "174 channels with fit, audience, type, About figures, example video"),
     ("round1-rejected", "seeds/channel-finds-round1.md (\"left out\")", "19 rejected candidates (names only; IDs matched by exact name in the round 1 raw JSON)"),
     ("leads-hvac", "seeds/leads-channels.md", "129 HVAC / partly HVAC up-next and similar-video leads"),

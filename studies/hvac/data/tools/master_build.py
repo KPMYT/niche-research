@@ -68,7 +68,7 @@ TYPE_FIX = {
     "UCRdNcv3g_4rpbNEyFopZwDg": "on camera (round 2 checker, 2026-10-24; was 'faceless, real footage')",   # HVACTIME
     "UCKDkGhLRlzs1bV1tmeokcNQ": "on camera (round 2 checker, 2026-10-24; was 'faceless, real footage')",   # Adrian Garcia
     "UCcrs-w2r-S3VR7pe8t9DIew": "on camera (round 2 checker, 2026-10-24; was 'faceless, real footage')",   # Stephen Shares HVAC Tips at Goettl
-    "UC5knbXUbhA0MAGcQNM1SkKA": "faceless, AI images (round 2 checker, 2026-10-24; was 'faceless persona')",  # Halden Row
+    "UC5knbXUbhA0MAGcQNM1SkKA": "faceless, AI images (round 2 checker, 2026-10-24; was read as a named character)",  # Halden Row
 }
 DROP_BEST = {"UCKDkGhLRlzs1bV1tmeokcNQ": "r2-nexlev"}  # Adrian Garcia: round 2 example is a tool-bag video, not HVAC (checker)
 EXTRA_NOTE = {"UCO4alIAsCWzFaJ414P9Mwcw": "round 2 checker: its 'How To Remove Air From Your Heating System' (z80WspC4Nmg, 2,050,577 views) belongs in the old-house heat set; the old-heat helper's rule missed it"}
