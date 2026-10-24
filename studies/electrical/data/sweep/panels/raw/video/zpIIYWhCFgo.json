@@ -1,0 +1,290 @@
+{
+ "id": "zpIIYWhCFgo",
+ "title": "How To Add a New Circuit Breaker to a Main or Sub Panel",
+ "channel": "Benjamin Sahlstrom",
+ "channel_id": "UC-Z9UcrgFzJIg49LtJFc_kg",
+ "views": 1395170,
+ "date": "Apr 10, 2021",
+ "up_next": [
+  {
+   "id": "NUSNa-7Hecw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sub Panels Explained - Why are neutral and ground separated?",
+   "dur": "16:22",
+   "meta": [
+    "The Engineering Mindset",
+    "2.8M",
+    "3y ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 2800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "aCPaq9feeWI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Unlocking the Basics: Inside a Main Panel",
+   "dur": "16:01",
+   "meta": [
+    "Smarter Sparky",
+    "331K",
+    "8mo ago"
+   ],
+   "channel_id": "UC9TkzHC0J8SmHKpgnRxE5JA",
+   "views": 331000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "ucGBtTjE_-M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Unlocking the Basics: Wiring Multiple Receptacle Outlets",
+   "dur": "50:39",
+   "meta": [
+    "Smarter Sparky",
+    "1.2M",
+    "8mo ago"
+   ],
+   "channel_id": "UC9TkzHC0J8SmHKpgnRxE5JA",
+   "views": 1200000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "bGZVILwbyLo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Circuit Breaker and Electrical Panel Basics",
+   "dur": "12:25",
+   "meta": [
+    "Everyday Home Repairs",
+    "687K",
+    "5y ago"
+   ],
+   "channel_id": "UCw1V3VC3xAzL66X4VwqaKlg",
+   "views": 687000,
+   "age": "5y ago"
+  },
+  {
+   "id": "0kkVJYNLXo4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Install a Sub Panel Start to Finish!",
+   "dur": "31:44",
+   "meta": [
+    "Benjamin Sahlstrom",
+    "2.7M",
+    "6y ago"
+   ],
+   "channel_id": "UC-Z9UcrgFzJIg49LtJFc_kg",
+   "views": 2700000,
+   "age": "6y ago"
+  },
+  {
+   "id": "p2j0ZiCbDSU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Most DIYers Miss This CRITICAL Detail Installing Circuit Breakers!",
+   "dur": "14:41",
+   "meta": [
+    "How To Home",
+    "547K",
+    "1y ago"
+   ],
+   "channel_id": "UCpb-xu6Oun_d41RjztUgFWA",
+   "views": 547000,
+   "age": "1y ago"
+  },
+  {
+   "id": "hEDto-bnHKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED",
+   "dur": "43:50",
+   "meta": [
+    "The Excellent Laborer",
+    "4.1M",
+    "4y ago"
+   ],
+   "channel_id": "UCUJXaEduMHGB3Iap3DusmAA",
+   "views": 4100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "nxPZxJwdIGE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Wire an Electrical Panel - Good Workmanship",
+   "dur": "27:38",
+   "meta": [
+    "Electrician U",
+    "481K",
+    "3y ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 481000,
+   "age": "3y ago"
+  },
+  {
+   "id": "ZX9lUj199B4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Unlocking the Basics: How to Install a Subpanel",
+   "dur": "57:51",
+   "meta": [
+    "Smarter Sparky",
+    "276K",
+    "7mo ago"
+   ],
+   "channel_id": "UC9TkzHC0J8SmHKpgnRxE5JA",
+   "views": 276000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "5iEuaAYs5x4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Neutrals and Grounds are Separated in a Sub Panel",
+   "dur": "17:46",
+   "meta": [
+    "Benjamin Sahlstrom",
+    "3.7M",
+    "6y ago"
+   ],
+   "channel_id": "UC-Z9UcrgFzJIg49LtJFc_kg",
+   "views": 3700000,
+   "age": "6y ago"
+  },
+  {
+   "id": "OJ051s1cw1E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding Basic Home Electrical ",
+   "dur": "32:52",
+   "meta": [
+    "TX Tool Crib",
+    "128K",
+    "5mo ago"
+   ],
+   "channel_id": "UCOFxJWxZQE0A2rPNeImjrZw",
+   "views": 128000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "PUDwTjbDLOQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DIY 125 Amp Subpanel Installation | Step-by-Step Electrical Guide",
+   "dur": "39:34",
+   "meta": [
+    "Built By JD",
+    "86K",
+    "7mo ago"
+   ],
+   "channel_id": "UCfJeTaTrSEOdbMIC4GLDoDQ",
+   "views": 86000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "wzv-Kn1Yp6Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Install a 220 Volt Outlet",
+   "dur": "15:20",
+   "meta": [
+    "askmediy",
+    "261K",
+    "6y ago"
+   ],
+   "channel_id": "UCMqBEHMJkdsyICgJ6BkgLHQ",
+   "views": 261000,
+   "age": "6y ago"
+  },
+  {
+   "id": "gfaw-XAvn4M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Wire A Sub Panel - VERY DETAILED INSTALLATION! Start To Finish",
+   "dur": "49:02",
+   "meta": [
+    "The Excellent Laborer",
+    "1.1M",
+    "3y ago"
+   ],
+   "channel_id": "UCUJXaEduMHGB3Iap3DusmAA",
+   "views": 1100000,
+   "age": "3y ago"
+  },
+  {
+   "id": "NF4zxBAuRoI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 Common Mistakes DIYers Make In Circuit Breaker Boxes",
+   "dur": "13:55",
+   "meta": [
+    "LRN2DIY",
+    "3.7M",
+    "3y ago"
+   ],
+   "channel_id": "UCPKAKrjoMz7POptCloy7AIQ",
+   "views": 3700000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Px_SYXzatR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does The Neutral Wire Actually Do?",
+   "dur": "25:12",
+   "meta": [
+    "Weirdward Bound",
+    "236K",
+    "9d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 236000,
+   "age": "9d ago"
+  },
+  {
+   "id": "yBHdCsVRle0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Live, Neutral and Ground explained - Home electricity basics",
+   "dur": "8:55",
+   "meta": [
+    "The Wiring Guide ",
+    "1M",
+    "5mo ago"
+   ],
+   "channel_id": "UC7oeG08Bo3TwbMTZ8fA8qjA",
+   "views": 1000000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "5ip38Mf093Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "New Garage Outlet From Panel--VERY DETAILED! (New Circuit / GFCI / Breaker Box / FULL INSTALL!)",
+   "dur": "50:07",
+   "meta": [
+    "The Honest Carpenter",
+    "1.3M",
+    "6y ago"
+   ],
+   "channel_id": "UCDLxnaDQzo8YolFqsBAHVLQ",
+   "views": 1300000,
+   "age": "6y ago"
+  },
+  {
+   "id": "O4HJEX4i8Ic",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Wire a House Main Electrical Panel Load Center & Layout Tips Full Step By Step Process 200Amp",
+   "dur": "29:36",
+   "meta": [
+    "Benjamin Sahlstrom",
+    "2.8M",
+    "8y ago"
+   ],
+   "channel_id": "UC-Z9UcrgFzJIg49LtJFc_kg",
+   "views": 2800000,
+   "age": "8y ago"
+  },
+  {
+   "id": "VuPHkKYtGqA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Rough In a Switch Box Feeding Lights & Outlets",
+   "dur": "18:50",
+   "meta": [
+    "Benjamin Sahlstrom",
+    "820K",
+    "5y ago"
+   ],
+   "channel_id": "UC-Z9UcrgFzJIg49LtJFc_kg",
+   "views": 820000,
+   "age": "5y ago"
+  }
+ ]
+}

@@ -1,0 +1,401 @@
+{
+ "channel": "Study Circuit",
+ "id": "UCpHWNthd0jxKL7lyi9Qnyvg",
+ "handle": "http://www.youtube.com/@StudyCircuitON",
+ "description": "Welcome to Study Circuit! Daily electrical study videos in plain language for Ontario 309A and Master Electrician exam candidates. We break down code traps, motor control, calculations, and instrumentation to help you study with confidence. For education only — this channel is not instructions for DIY live electrical work. Always follow applicable codes and work only within your qualifications and supervision.",
+ "subs": "24 subscribers",
+ "videos_count": "234 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "rWPUNNKmtlY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ungrounded Systems Explained",
+   "dur": "4:59",
+   "meta": [
+    "26",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 26,
+   "age": "12d ago"
+  },
+  {
+   "id": "-DK3EXmnnGo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Contactors, Starters, and the Overload That Actually Protects Your Motor",
+   "dur": "4:58",
+   "meta": [
+    "22",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 22,
+   "age": "2w ago"
+  },
+  {
+   "id": "MkLNQk7SuP0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Slip, Torque, and Why Voltage Sag Kills Torque",
+   "dur": "4:32",
+   "meta": [
+    "13",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 13,
+   "age": "11d ago"
+  },
+  {
+   "id": "EGFGjlxSXMo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transfer Switches Explained: Open vs Closed Transition, Switching Mechanisms, and Operation Modes",
+   "dur": "12:14",
+   "meta": [
+    "11",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 11,
+   "age": "2w ago"
+  },
+  {
+   "id": "6gLn0rRzV2A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Box Fill, Calculated Step by Step",
+   "dur": "5:47",
+   "meta": [
+    "10",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 10,
+   "age": "12d ago"
+  },
+  {
+   "id": "55lQtHcTkHA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dry-Type Transformer Installation: Room to Breathe, Joints Made Honestly - Part 2",
+   "dur": "11:28",
+   "meta": [
+    "10",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 10,
+   "age": "2w ago"
+  },
+  {
+   "id": "bJa-w5PQYZg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UPS Fundamentals: The Complete Deep Dive",
+   "dur": "21:16",
+   "meta": [
+    "9",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 9,
+   "age": "2w ago"
+  },
+  {
+   "id": "XxfT3hpapeE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Energized Work: The Permit Comes Before the PPE",
+   "dur": "5:03",
+   "meta": [
+    "8",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 8,
+   "age": "5d ago"
+  },
+  {
+   "id": "GVHZHSahjkU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Systems: Verification vs Inspection",
+   "dur": "3:40",
+   "meta": [
+    "8",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 8,
+   "age": "6d ago"
+  },
+  {
+   "id": "-3berH8ZeqQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fail Open or Fail Closed? The 442A Control Valve Trap",
+   "dur": "5:42",
+   "meta": [
+    "8",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 8,
+   "age": "8d ago"
+  },
+  {
+   "id": "k89YK0nGt10",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How a Fire Alarm System Is Put Together: Control Unit, Initiating Devices, Notification, and Power",
+   "dur": "4:49",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "V86-e1GL9KE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Electronics: Switches, Converters, and Drives",
+   "dur": "59:26",
+   "meta": [
+    "7",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "4d ago"
+  },
+  {
+   "id": "Ua4R0mSL14Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Three-Phase Power Explained",
+   "dur": "4:58",
+   "meta": [
+    "7",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "13d ago"
+  },
+  {
+   "id": "Pd-qlKFh3nE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Alarm, Supervisory, and Trouble: The Three Signals You Must Never Mix Up",
+   "dur": "4:53",
+   "meta": [
+    "7",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "13d ago"
+  },
+  {
+   "id": "rEX9b_OGWRk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sensors at Work: Limit, Proximity, Photoelectric",
+   "dur": "4:35",
+   "meta": [
+    "6",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "10d ago"
+  },
+  {
+   "id": "qOkUIS9eHb0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PID Control in Plain Motion: What P, I, and D Each Do",
+   "dur": "3:51",
+   "meta": [
+    "6",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "7d ago"
+  },
+  {
+   "id": "lEIRKbNGWF0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electricity and Motor Control, From First Principles to Full Systems",
+   "dur": "2:09:54",
+   "meta": [
+    "6",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "5d ago"
+  },
+  {
+   "id": "azO-rvMgK3k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Know Your Gloves: Classes, Protectors, and the Air Test",
+   "dur": "5:12",
+   "meta": [
+    "6",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "4d ago"
+  },
+  {
+   "id": "X8KEFCcG19M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Read the Jacket: NMD90, AC90, Teck90",
+   "dur": "3:29",
+   "meta": [
+    "6",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "12d ago"
+  },
+  {
+   "id": "VlSWPr5F0T8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Rule 4-006: The Lug Picks Your Column",
+   "dur": "11:43",
+   "meta": [
+    "6",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "7d ago"
+  },
+  {
+   "id": "T6arEPBPVzs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformers: Turns Ratio, kVA, and Connections",
+   "dur": "4:55",
+   "meta": [
+    "7",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "13d ago"
+  },
+  {
+   "id": "PWRkjBK3O9Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Industrial Control for Electricians: Sensors, PLCs, PID, Drives & Motion",
+   "dur": "3:27:58",
+   "meta": [
+    "7",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "3d ago"
+  },
+  {
+   "id": "L_HUsRmB2mY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Generation: How the Grid Makes Its Power",
+   "dur": "1:00:27",
+   "meta": [
+    "4",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "4d ago"
+  },
+  {
+   "id": "Gphrz2fVOiA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Series RLC and Resonance",
+   "dur": "4:22",
+   "meta": [
+    "6",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "2w ago"
+  },
+  {
+   "id": "8MF92voJiBs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Conduit Fill: The Area Budget",
+   "dur": "3:55",
+   "meta": [
+    "6",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "12d ago"
+  },
+  {
+   "id": "nVpixZLn7GU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounded Is Not the Same as Safe: Temporary Protective Grounding",
+   "dur": "5:16",
+   "meta": [
+    "5",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "4d ago"
+  },
+  {
+   "id": "cB0-sY9DfpY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Pair, Whole Crew: How Fieldbus Replaced the Loop",
+   "dur": "6:17",
+   "meta": [
+    "5",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "12d ago"
+  },
+  {
+   "id": "ZXPxGORalWc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dry-Type Transformer Installation: Room to Breathe, Joints Made Honestly - Part 1",
+   "dur": "6:25",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "WmBcU2645Jo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UPS Batteries: The String That Decides Your Runtime",
+   "dur": "4:06",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "J5wB1YF9FOU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Arc Flash in Plain Numbers: Read the Label, Match the Rating",
+   "dur": "5:09",
+   "meta": [
+    "5",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "5d ago"
+  }
+ ]
+}

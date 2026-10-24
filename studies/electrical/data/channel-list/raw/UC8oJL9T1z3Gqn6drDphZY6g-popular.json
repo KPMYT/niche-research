@@ -1,0 +1,401 @@
+{
+ "channel": "MikeHoltNEC",
+ "id": "UC8oJL9T1z3Gqn6drDphZY6g",
+ "handle": "http://www.youtube.com/@MikeHoltNEC",
+ "description": "Electrical Education",
+ "subs": "138K subscribers",
+ "videos_count": "421 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "mpgAVE4UwFw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounding - Safety Fundamentals (1hr:13min:19sec)",
+   "dur": "1:13:19",
+   "meta": [
+    "1M",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "12y ago"
+  },
+  {
+   "id": "Yg6G5VUSsWA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ground Resistance Measurement, NEC 2014 - [250.53(A)(2)], (26min:27sec)",
+   "dur": "26:27",
+   "meta": [
+    "383K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 383000,
+   "age": "12y ago"
+  },
+  {
+   "id": "7PiGMYe-ubo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Prepare For an Electrical Exam (15min:15sec)",
+   "dur": "15:15",
+   "meta": [
+    "378K",
+    "15y ago"
+   ],
+   "channel_id": null,
+   "views": 378000,
+   "age": "15y ago"
+  },
+  {
+   "id": "u_ZRlmLmbV0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Controls ©2009 - Common Control Equipment, Devices, and Symbols",
+   "dur": "4:21",
+   "meta": [
+    "296K",
+    "15y ago"
+   ],
+   "channel_id": null,
+   "views": 296000,
+   "age": "15y ago"
+  },
+  {
+   "id": "Qynp92rIlYg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Branch Circuit, Multiwire, NEC 2020 - [210.4], (19min:38sec)",
+   "dur": "19:38",
+   "meta": [
+    "293K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 293000,
+   "age": "6y ago"
+  },
+  {
+   "id": "3vvvv5QVZoA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounding Versus Bonding (26min:26sec)",
+   "dur": "26:26",
+   "meta": [
+    "266K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 266000,
+   "age": "12y ago"
+  },
+  {
+   "id": "a_nv_Q9WbeE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Neutral-to-Earth Voltage (NEV), NEC 2020, (44min:40sec)",
+   "dur": "44:40",
+   "meta": [
+    "264K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 264000,
+   "age": "5y ago"
+  },
+  {
+   "id": "OVTS2yDIFM4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Use The NEC, NEC 2020, (29min:15sec)",
+   "dur": "29:15",
+   "meta": [
+    "240K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 240000,
+   "age": "5y ago"
+  },
+  {
+   "id": "qNZC782SzAQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "6 of 7 Grounding Myths (26min:55sec)",
+   "dur": "26:55",
+   "meta": [
+    "203K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 203000,
+   "age": "12y ago"
+  },
+  {
+   "id": "a8LjxEtd8N8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformers - Understanding Delta/Wye Connections [250.4(A)] (12min:11sec)",
+   "dur": "12:11",
+   "meta": [
+    "198K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 198000,
+   "age": "12y ago"
+  },
+  {
+   "id": "dlscWJRm38M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformers - Understanding Delta/Delta Connections [250.4(A)] (26min:36sec)",
+   "dur": "26:36",
+   "meta": [
+    "184K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 184000,
+   "age": "12y ago"
+  },
+  {
+   "id": "lyD6gzEze68",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounding, System and Equipment [250.4, 2020 NEC]",
+   "dur": "33:35",
+   "meta": [
+    "162K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 162000,
+   "age": "6y ago"
+  },
+  {
+   "id": "WugJ8-70Sqs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Air-Conditioning, Circuit Sizing, NEC 2020 - [440.4(B)], (5min:33sec)",
+   "dur": "5:33",
+   "meta": [
+    "119K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 119000,
+   "age": "6y ago"
+  },
+  {
+   "id": "jd4fwzjOqAQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "GFCI Receptacle Protection, Dwelling Units [210.8(A), 2020 NEC Changes]",
+   "dur": "36:52",
+   "meta": [
+    "118K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 118000,
+   "age": "6y ago"
+  },
+  {
+   "id": "gZT9y0Ougao",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solar Photovoltaic (PV) Systems, Scope, NEC 2020 - [690.1], (39min:21sec)",
+   "dur": "39:21",
+   "meta": [
+    "118K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 118000,
+   "age": "5y ago"
+  },
+  {
+   "id": "_7FmwY442dQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Branch Circuit Conductor Sizing [430.22(A)] (14min:30sec)",
+   "dur": "14:30",
+   "meta": [
+    "94K",
+    "15y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "15y ago"
+  },
+  {
+   "id": "lpIQs44IfUw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Prepare For and Pass Your Electrical Exam",
+   "dur": "31:42",
+   "meta": [
+    "94K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "3y ago"
+  },
+  {
+   "id": "MXdt6TfBetg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ampacity Table, NEC 2020 - [310.15], (13min:26sec)",
+   "dur": "13:26",
+   "meta": [
+    "88K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 88000,
+   "age": "6y ago"
+  },
+  {
+   "id": "_no-E8ZOkfQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2017 NEC - Switch - Neutral Connections [404.2] (14min:30sec)",
+   "dur": "14:31",
+   "meta": [
+    "81K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 81000,
+   "age": "9y ago"
+  },
+  {
+   "id": "QRZlLWqOC4k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Theory - Introduction",
+   "dur": "22:24",
+   "meta": [
+    "72K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 72000,
+   "age": "4y ago"
+  },
+  {
+   "id": "2Tj1XKLWXhg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mike Holt's All You Need to Know About Electrical Estimating Software",
+   "dur": "1:13:49",
+   "meta": [
+    "69K",
+    "15y ago"
+   ],
+   "channel_id": null,
+   "views": 69000,
+   "age": "15y ago"
+  },
+  {
+   "id": "9ZZZR8Me4nE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding System Voltages, NEC 2020, (46min:29sec)",
+   "dur": "46:29",
+   "meta": [
+    "68K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 68000,
+   "age": "5y ago"
+  },
+  {
+   "id": "KN5dJO1dwN0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Gas Pipe Bonding Requirements, NEC 2020 - [250.4(A)(4)], (12min:16sec)",
+   "dur": "12:16",
+   "meta": [
+    "66K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 66000,
+   "age": "5y ago"
+  },
+  {
+   "id": "cSsJJNxJRL8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Estimating ©2011 - Labor Units",
+   "dur": "6:41",
+   "meta": [
+    "59K",
+    "15y ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "15y ago"
+  },
+  {
+   "id": "Ypo99VRxT44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PV - Grounding Electrode System [690.47] (34min:00sec)",
+   "dur": "34:01",
+   "meta": [
+    "54K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 54000,
+   "age": "12y ago"
+  },
+  {
+   "id": "YlV8A5PvoQ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounding a Corner Grounded Delta System, NEC 2020, (3min:56sec)",
+   "dur": "3:56",
+   "meta": [
+    "53K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 53000,
+   "age": "5y ago"
+  },
+  {
+   "id": "aUSlKJQyE64",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Service Disconnecting Means [230.71, 2020 NEC]",
+   "dur": "11:09",
+   "meta": [
+    "49K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 49000,
+   "age": "6y ago"
+  },
+  {
+   "id": "VNPz_t-BjV8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounding, Transformers [250.30, 2020 NEC]",
+   "dur": "2:47",
+   "meta": [
+    "48K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 48000,
+   "age": "6y ago"
+  },
+  {
+   "id": "fNpcxqZELMM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Estimating ©2011 - Unit Price",
+   "dur": "6:15",
+   "meta": [
+    "43K",
+    "15y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "15y ago"
+  },
+  {
+   "id": "bwYvLXGAr38",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ground Rods at Metal Poles, NEC 2020 - [250.4(A)(5)], (25min:09sec)",
+   "dur": "25:09",
+   "meta": [
+    "43K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "4y ago"
+  }
+ ]
+}

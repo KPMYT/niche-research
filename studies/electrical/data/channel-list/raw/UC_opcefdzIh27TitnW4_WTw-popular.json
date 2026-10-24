@@ -1,0 +1,401 @@
+{
+ "channel": "Severe Weather USA",
+ "id": "UC_opcefdzIh27TitnW4_WTw",
+ "handle": "http://www.youtube.com/@SevereWeatherUSA",
+ "description": "Welcome to Severe Weather USA — your trusted source for breaking weather alerts and forecast updates across the United States.\n\nWe cover tornadoes, hurricanes, severe thunderstorms, flash floods, winter storms, extreme heat, wildfires, and other dangerous weather events.\n\nStay informed with timely weather updates, storm tracking, and forecasts to help you stay prepared and safe.\n\n📢 AI Voice Disclosure: videos on this channel use AI-generated voice narration to deliver weather information and news updates. AI voice is used for narration and presentation purposes only. Our goal is to provide clear, timely, and accessible weather information while keeping viewers informed about severe weather threats.\n\nSubscribe for the latest U.S. weather updates and severe weather alerts.\n\nSevere Weather USA — Tracking America's Most Dangerous Weather.\n",
+ "subs": "55.5K subscribers",
+ "videos_count": "101 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "hmejzMwPnAw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Nor’easter Continues to Hammer NJ & New York | Major Flooding, 24-Ft Seas & Power Outages",
+   "dur": "23:01",
+   "meta": [
+    "1.6M",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "3w ago"
+  },
+  {
+   "id": "bgCRwtHedSs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨Hurricane Rachel Hits Southern California | Heavy Rain, Major Flooding & Coastal Surge",
+   "dur": "19:11",
+   "meta": [
+    "880K",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 880000,
+   "age": "12d ago"
+  },
+  {
+   "id": "DhrETr2OKtc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Deadly Nor’easter Hits 6 States | 1 Dead, 90,000+ Power Outages & Major Flooding",
+   "dur": "24:30",
+   "meta": [
+    "825K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 825000,
+   "age": "3w ago"
+  },
+  {
+   "id": "q5goRQMQEPQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Severe Storms Slam Arizona | 2-Inch Hail, Flash Floods & Tornado Risk",
+   "dur": "17:23",
+   "meta": [
+    "609K",
+    "2d ago"
+   ],
+   "channel_id": null,
+   "views": 609000,
+   "age": "2d ago"
+  },
+  {
+   "id": "-J7zk7Cgg_U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Texas Flood Disaster | 8+ Inches of Rain, Major Flooding & Flash Flood Risk",
+   "dur": "13:53",
+   "meta": [
+    "599K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 599000,
+   "age": "3w ago"
+  },
+  {
+   "id": "sKn92vGQJic",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Nor’easter Disaster | 40 Million Threatened, 4-Ft Coastal Flooding & Power Outages",
+   "dur": "21:21",
+   "meta": [
+    "580K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 580000,
+   "age": "4w ago"
+  },
+  {
+   "id": "qXy-BFDpZrU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Indiana Flood Disaster | Indianapolis Evacuations, Record-Breaking Rivers & More Rain Coming",
+   "dur": "23:33",
+   "meta": [
+    "565K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 565000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "VrVIoOyG0vA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Southern California Coastal Disaster: 75 Yards of Beach Lost, 14 Homes Damaged & Roads Flooded",
+   "dur": "20:05",
+   "meta": [
+    "543K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 543000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "N3fhL7zqyOk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Major Snowstorm Sweeps the Western U.S. | Up to 24 Inches of Snow, Power Outages & Dangerous Roads",
+   "dur": "13:34",
+   "meta": [
+    "523K",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 523000,
+   "age": "10d ago"
+  },
+  {
+   "id": "SErOfgRYvoQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Oregon & Washington Wildfires Reach Historic Crisis | Over 2 Million Acres Burned",
+   "dur": "15:15",
+   "meta": [
+    "479K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 479000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "PZleAXBfAtY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Hurricane Isaias After Landfall: 860,000+ Without Power, Damaging Winds & Major Flooding",
+   "dur": "21:13",
+   "meta": [
+    "467K",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 467000,
+   "age": "13d ago"
+  },
+  {
+   "id": "pJawreO3dqM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Hurricane Isaias Strengthens to Category 3 | 9-Foot Storm Surge, 120 MPH Winds & Major Flooding",
+   "dur": "13:35",
+   "meta": [
+    "383K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 383000,
+   "age": "2w ago"
+  },
+  {
+   "id": "HeJU9X1b6pE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 New Mexico Flood Disaster: 6–8 Inches of Rain, Roads Washed Away & Flood Watches",
+   "dur": "20:37",
+   "meta": [
+    "331K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 331000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "oq9JsbqG3S0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Major Storm Hits Montana | Up to 30 Inches of Snow, Power Outage Risk & Dangerous Roads",
+   "dur": "18:42",
+   "meta": [
+    "326K",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 326000,
+   "age": "12d ago"
+  },
+  {
+   "id": "_-znsyzSOJI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Arizona Storm Disaster | Golf-Ball Hail, Major Flooding & Tornado Threat",
+   "dur": "13:39",
+   "meta": [
+    "325K",
+    "1d ago"
+   ],
+   "channel_id": null,
+   "views": 325000,
+   "age": "1d ago"
+  },
+  {
+   "id": "OI-o_1dAElU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Spokane Wildfire Turns Catastrophic | 3,500+ Acres Burned, Homes Destroyed &Thousands Evacuated",
+   "dur": "13:21",
+   "meta": [
+    "296K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 296000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "0DDBhrBncTI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Midwest Flood Disaster | Millions Affected Across 7 States, Record Rivers & Flash Floods",
+   "dur": "18:32",
+   "meta": [
+    "274K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 274000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "HHP-r9LFOWE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Historic Flooding Hits Connecticut | 7.45 Inches of Rain, 13 Water Rescues & Roads Closed",
+   "dur": "19:35",
+   "meta": [
+    "268K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 268000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "xLe0r1M83Sg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 5 Day Flood Disaster Ravages Southern Ohio: 7 Inches of Rain, Hospital Cut Off & Roads Closed",
+   "dur": "16:43",
+   "meta": [
+    "253K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 253000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "dF2FgHiZZMw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 East Coast Nor’easter Disaster | 2–4 Ft Coastal Flooding, 17-Foot Waves & 60 MPH Winds",
+   "dur": "22:23",
+   "meta": [
+    "252K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 252000,
+   "age": "4w ago"
+  },
+  {
+   "id": "dPS-5Q28uRE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Texas Flood Crisis | 8 Inches of Rain, Record Level Rivers & Flash Floods Hit Across the State",
+   "dur": "26:11",
+   "meta": [
+    "250K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 250000,
+   "age": "3w ago"
+  },
+  {
+   "id": "rBLnKR_wQaM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Extreme Heat Turns the US West Into a Firestorm | 84 Large Wildfires Burn",
+   "dur": "15:23",
+   "meta": [
+    "246K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 246000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "dWCJT0VTpoY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Hurricane Isaias Targets Florida | Tornadoes, Major Flooding, 7 FT Storm Surge & 110 MPH Winds",
+   "dur": "19:35",
+   "meta": [
+    "246K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 246000,
+   "age": "2w ago"
+  },
+  {
+   "id": "-yB0UkKuO1g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Southeast Texas Flood Crisis | 12 Counties Under Flood Warnings as More Rain Hits & Rivers Rise",
+   "dur": "16:57",
+   "meta": [
+    "214K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 214000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "fcjDox945mM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 U.S. Wildfire Crisis Worsens | 99 Major Fires Burning & 5.25 Million Acres Lost",
+   "dur": "20:55",
+   "meta": [
+    "208K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 208000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "wiPtK8HLsQM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Massive Flooding Hits OK, TX & KS | 8 Inches of Rain, Flash Flood Warnings & 35 Million at Risk",
+   "dur": "15:20",
+   "meta": [
+    "201K",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 201000,
+   "age": "9d ago"
+  },
+  {
+   "id": "ORilbmyD7NY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Hurricane Lowell Devastates Hawaii: Kauai Flooded, 60,000+ Without Power & Roads Shut Down",
+   "dur": "18:05",
+   "meta": [
+    "200K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 200000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "bLoC467f-A4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Spokane's 3 Major Fires Spread Fast | 640 Structures Destroyed, 60,000 Evacuated",
+   "dur": "22:09",
+   "meta": [
+    "188K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 188000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "H65vwTMtEVA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 Breaking: Oregon Wildfires Explode | Over 1.5 Million Acres Burned",
+   "dur": "10:22",
+   "meta": [
+    "176K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 176000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "CLQvYRd7Vt4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🚨 West Virginia Flood Disaster | 1 Dead, Roads Destroyed, 20,000 Without Power & More Flooding Ahead",
+   "dur": "23:44",
+   "meta": [
+    "170K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 170000,
+   "age": "2mo ago"
+  }
+ ]
+}

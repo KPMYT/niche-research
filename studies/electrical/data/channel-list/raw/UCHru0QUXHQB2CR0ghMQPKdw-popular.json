@@ -1,0 +1,401 @@
+{
+ "channel": "Electrolab",
+ "id": "UCHru0QUXHQB2CR0ghMQPKdw",
+ "handle": "http://www.youtube.com/@Electrolab-Eletronica",
+ "description": "Channel about electronics and technology. Presentation of electronics for hobbyists, beginners, even professionals in the area and engineers. Reviews, video lessons, amateur radio, tests and measurements!!! Presented by Electronic Engineer with more than 30 years of experience and radio amateur!\n\nBecome an Electrolab patron:\nElectrolab's Patreon page: https://www.patreon.com/electrolab?ty=h",
+ "subs": "252K subscribers",
+ "videos_count": "614 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "qgzzU2021XU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to test electronic components !!",
+   "dur": "28:49",
+   "meta": [
+    "683K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 683000,
+   "age": "8y ago"
+  },
+  {
+   "id": "q7Bhr8nTEb0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Thermoelectric Peltier Modules - How they work?",
+   "dur": "14:04",
+   "meta": [
+    "514K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 514000,
+   "age": "10y ago"
+  },
+  {
+   "id": "UzJenjMpSQc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Varistors (VDR) - What they are and how they work!",
+   "dur": "22:56",
+   "meta": [
+    "469K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 469000,
+   "age": "9y ago"
+  },
+  {
+   "id": "Bp1f51YkEHs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Learn how to use the oscilloscope in 28 minutes !!",
+   "dur": "28:03",
+   "meta": [
+    "464K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 464000,
+   "age": "9y ago"
+  },
+  {
+   "id": "fCH6HMyd8kU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Impedance - What it is and how to calculate!",
+   "dur": "27:55",
+   "meta": [
+    "420K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 420000,
+   "age": "10y ago"
+  },
+  {
+   "id": "fxLschkWg94",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What are Inductors? Types, uses and theory.",
+   "dur": "28:40",
+   "meta": [
+    "390K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 390000,
+   "age": "10y ago"
+  },
+  {
+   "id": "DeIUvPtdqEA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Relays - What they are - Theory, how to test, types and practice!",
+   "dur": "20:39",
+   "meta": [
+    "371K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 371000,
+   "age": "10y ago"
+  },
+  {
+   "id": "VgfFCt9lHug",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is a MOSFET? Applications and features !!",
+   "dur": "16:14",
+   "meta": [
+    "338K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 338000,
+   "age": "10y ago"
+  },
+  {
+   "id": "k1TCAgvHRV0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Induction heating - Induction Heater - Build one!",
+   "dur": "34:43",
+   "meta": [
+    "333K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 333000,
+   "age": "9y ago"
+  },
+  {
+   "id": "kJe8hCuQbPs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Test a Chopper Transformer!",
+   "dur": "13:36",
+   "meta": [
+    "331K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 331000,
+   "age": "5y ago"
+  },
+  {
+   "id": "a6mA969bid4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LED in 127 or 220V! Ways to connect!!",
+   "dur": "25:02",
+   "meta": [
+    "304K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 304000,
+   "age": "6y ago"
+  },
+  {
+   "id": "VOclZ1kRyaQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is an IGBT? Applications and features!!",
+   "dur": "15:20",
+   "meta": [
+    "297K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 297000,
+   "age": "10y ago"
+  },
+  {
+   "id": "GBxwM8ROV7k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TRIAC e DIAC - Tiristores  - O que são e como funcionam! Parte 2",
+   "dur": "22:19",
+   "meta": [
+    "287K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 287000,
+   "age": "10y ago"
+  },
+  {
+   "id": "TymWN_1Jnkw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Series Lamp - Electronics Bench Accessory - Equipment Testing",
+   "dur": "20:33",
+   "meta": [
+    "287K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 287000,
+   "age": "9y ago"
+  },
+  {
+   "id": "zeFs8LXmxZQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The versatile CI 555 - Theory and applications!",
+   "dur": "18:47",
+   "meta": [
+    "274K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 274000,
+   "age": "10y ago"
+  },
+  {
+   "id": "H5LHCr2qzR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Inductor! What it is, how it works, where it is applied!",
+   "dur": "26:19",
+   "meta": [
+    "243K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 243000,
+   "age": "2y ago"
+  },
+  {
+   "id": "SspygJnqoB8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Optical Coupler - Photo Coupler - What it is and how to test it!",
+   "dur": "21:10",
+   "meta": [
+    "239K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 239000,
+   "age": "8y ago"
+  },
+  {
+   "id": "7cEoGPkYXu4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LM317 - adjustable voltage and current regulator!",
+   "dur": "22:48",
+   "meta": [
+    "237K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 237000,
+   "age": "8y ago"
+  },
+  {
+   "id": "FrN92RBh-fc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Thermal fuse - What it is and how it works!",
+   "dur": "16:03",
+   "meta": [
+    "234K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 234000,
+   "age": "8y ago"
+  },
+  {
+   "id": "9lUjKZ3KYhM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to recover and clean the soldering iron tip!!",
+   "dur": "15:30",
+   "meta": [
+    "233K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 233000,
+   "age": "6y ago"
+  },
+  {
+   "id": "nv5Us3A7TYc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ATX Power Supplies - Basic Repair Concepts!!",
+   "dur": "31:45",
+   "meta": [
+    "210K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 210000,
+   "age": "8y ago"
+  },
+  {
+   "id": "BSo6h6ofGuY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What type of capacitor should I use? Polyester, Ceramic, Electrolytic Tantalum, Mica, MKP, etc ??",
+   "dur": "37:32",
+   "meta": [
+    "205K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 205000,
+   "age": "6y ago"
+  },
+  {
+   "id": "jCveG1XvzpU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Como medir capacitores na placa!! Teoria e testes!",
+   "dur": "23:43",
+   "meta": [
+    "201K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 201000,
+   "age": "7y ago"
+  },
+  {
+   "id": "Y6D-5OPX7sw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Oscillating Quartz Crystals - What they are and how they work!",
+   "dur": "17:32",
+   "meta": [
+    "199K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 199000,
+   "age": "8y ago"
+  },
+  {
+   "id": "g7S7OreLRS4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Set up your electronics lab/bench for less than R$540.00!",
+   "dur": "22:51",
+   "meta": [
+    "197K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 197000,
+   "age": "9y ago"
+  },
+  {
+   "id": "bXPhtwLVcOs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SCR - Thyristors - What they are and how they work!",
+   "dur": "25:57",
+   "meta": [
+    "193K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 193000,
+   "age": "10y ago"
+  },
+  {
+   "id": "A0Vuo3euYc0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Amazing Repair for a Dark LCD Display! Technique using Aluminum Tape! 💡",
+   "dur": "11:56",
+   "meta": [
+    "190K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 190000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "Kex1ojuZzLk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mini Peltier Air Conditioner!",
+   "dur": "15:45",
+   "meta": [
+    "186K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 186000,
+   "age": "8y ago"
+  },
+  {
+   "id": "zyP9VT5ct80",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Joule Thief ou  Ladrão de Joule - O que é e como funciona!",
+   "dur": "16:50",
+   "meta": [
+    "185K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 185000,
+   "age": "10y ago"
+  },
+  {
+   "id": "STFV4WrPba8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NTC and PTC thermistors",
+   "dur": "26:16",
+   "meta": [
+    "175K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 175000,
+   "age": "9y ago"
+  }
+ ]
+}

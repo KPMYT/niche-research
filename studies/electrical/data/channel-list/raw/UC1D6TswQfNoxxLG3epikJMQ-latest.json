@@ -1,0 +1,76 @@
+{
+ "channel": "Rewired Science",
+ "id": "UC1D6TswQfNoxxLG3epikJMQ",
+ "handle": "http://www.youtube.com/@RewiredScience",
+ "description": "Welcome to Rewired Science! ⚡\n\nWe make science simple, fun, and easy to understand.\n\nFrom electricity and physics to surprising everyday science, we explore how things really work, challenge common misconceptions, and explain complex ideas with simple animations.\n\nStay curious. Think differently. Get Rewired!\n",
+ "subs": "18 subscribers",
+ "videos_count": "5 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "z1brJR69g0g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Tesla’s New Roadster Drives Upside Down",
+   "dur": "19:18",
+   "meta": [
+    "224",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 224,
+   "age": "3d ago"
+  },
+  {
+   "id": "CLHLtN0U6as",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does This Outlet Know You're Being Electrocuted?",
+   "dur": "17:27",
+   "meta": [
+    "325",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 325,
+   "age": "4d ago"
+  },
+  {
+   "id": "WMygmnmDc38",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is America Still Stuck With 120V? (Europe Uses 230V)",
+   "dur": "23:00",
+   "meta": [
+    "1.2K",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "7d ago"
+  },
+  {
+   "id": "vgmhnXPiwuU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "If Electrons Are This Slow, Why Is Your Light Instant?",
+   "dur": "11:25",
+   "meta": [
+    "383",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 383,
+   "age": "9d ago"
+  },
+  {
+   "id": "APm5CYFNZDo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Voltage or Current: What Actually Kills You?",
+   "dur": "31:44",
+   "meta": [
+    "162",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 162,
+   "age": "11d ago"
+  }
+ ]
+}

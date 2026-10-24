@@ -1,0 +1,37 @@
+{
+ "channel": "Safe-ish",
+ "id": "UCOzSjX51a91IC9mJXk5PvKQ",
+ "handle": "http://www.youtube.com/@Safe-ish-D",
+ "description": "The everyday things in your LIFE that are quietly dangerous — and the ones\nthat only look like it. Researched, sourced, animated.\n",
+ "subs": null,
+ "videos_count": "2 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "_sJQnQu-yZc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Lithium Battery Actually Burns Your House Down (And the One Nobody Is Watching)",
+   "dur": "9:24",
+   "meta": [
+    "22",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 22,
+   "age": "13d ago"
+  },
+  {
+   "id": "FOI_l1P8W1Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Mixing Cleaning Products Actually Kills People (And the Mix Nobody Warns You About)",
+   "dur": "9:51",
+   "meta": [
+    "46",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 46,
+   "age": "2w ago"
+  }
+ ]
+}
