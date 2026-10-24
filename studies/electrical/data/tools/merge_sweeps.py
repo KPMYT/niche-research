@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Merge the round 2 sweep videos.csv files into one deduped table (data/merged/videos-all.csv).
 Keeps the row with the most exact views source; records every group that surfaced the video.
-Long-form only (5:00+); rows the helper marked out (subniche 'out' or group 'out') are kept but flagged."""
+Long-form only (5:00+); rows the helper marked out (subniche 'out') are kept but flagged; data/merged/corrections.csv (checkers' findings) marks more rows out."""
 import csv, os, re, sys
 base = os.path.join(os.path.dirname(__file__), "..")
 groups = ["wiring", "panels", "cords", "devices", "fire", "explainers"]
@@ -28,6 +28,13 @@ for g in groups:
                 o["subniche"], o["format"] = rec["subniche"], rec["format"]
         else:
             rows[vid] = rec
+corr = {}
+cfn = os.path.join(base, "merged", "corrections.csv")
+if os.path.exists(cfn):
+    for c in csv.DictReader(open(cfn)): corr[c["video_id"]] = c
+for vid, c in corr.items():
+    if vid in rows and c["action"] == "drop":
+        rows[vid]["subniche"] = "out"; rows[vid]["notes"] = ("DROPPED: " + c["reason"] + " | " + (rows[vid]["notes"] or "")).strip(" |")
 out = sorted(rows.values(), key=lambda x: -(x["views"] or 0))
 fn = os.path.join(base, "merged", "videos-all.csv")
 with open(fn, "w", newline="") as f:

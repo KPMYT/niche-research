@@ -78,3 +78,9 @@ Web search budget given: 30.
 **Fix:** `data/tools/yt.py` now also reads the Popular/Oldest sort from the new drop-down menu (73 channels had no sort chip; the explainers helper found it and used its own wrapper). Checked on Walt Brennan, Weirdward Bound, Home Hazard, Roy Dalton Electric and Silver Cymbal.
 
 **Merge (main session, 2026-10-24):** `data/tools/merge_sweeps.py` → `data/merged/videos-all.csv`: the six sweeps' videos.csv deduped by video ID (keeps the exact-views row; records every group that surfaced it). 5,070 unique long-form rows; 4,896 after dropping rows the helpers marked out. Not yet filtered for language (e.g. the German IFS dryer video, 15.8M) or re-scoped; that's round 3, after the checkers.
+
+**Checker C (2026-10-24):** re-pulled 135 rows (wiring, panels, cords: 30 random plus each top-15): all 135 match on views, title, channel and length. Recomputed counts: match except minor slips (wiring 1M+ 118 not 117; panels home-inspection median 13,490 not 12,651; inspection-walk 35,183 not 34,659; cords dont-want-you 1,450.5, left blank). Keyword sorts: same #1 on all 18 re-runs, top-20 overlap 17-20. Channel list: core 13% and partial 25% disagreement (wrong or minor), out 0%. Scope leakage: wiring 1-2%, panels about 8%, cords 2-3%.
+Fixed by the main session:
+- `data/merged/corrections.csv` (84 rows): videos marked out in the merge: the 68 general home-inspection videos (helper's own note), HAXMAN whole-home generator alternative (mlCcvozgYfE, 3.85M), two unpublished premieres, fake bill and bulb hacks, Powerwall, Generac installs, HVAC, EMP Shield, car wiring, a yacht, an HOA story. The merge script applies it; helper files unchanged.
+- Recomputed without the general inspections: electrical inspection walkthroughs 41 videos, median 46,299 (was 82, 35,183); home-inspection sub-niche 50 videos, median 37,515.
+- Channel list: Wired Wonders and HSE STUDY GUIDE → out; The Excellent Laborer → partial.
