@@ -96,6 +96,16 @@ def english_check(title):
         nonlatin = sum(1 for c in letters if not unicodedata.name(c, "").startswith("LATIN"))
         if nonlatin / len(letters) >= 0.3:
             return False, "non-Latin script"
+    # Added 2026-10-24 (round 2 checker): a run of 3+ non-Latin letters, whatever the share, catches
+    # Hindi and other titles with an English keyword tail (e.g. iMyniW0gJcQ).
+    run = 0
+    for c in title:
+        if (c.isalpha() or unicodedata.category(c).startswith("M")) and not unicodedata.name(c, "").startswith("LATIN"):
+            run += 1
+            if run >= 3:
+                return False, "non-Latin run of 3+ letters"
+        else:
+            run = 0
     if re.search(r"\bin (hindi|urdu|tamil|telugu|bangla|bengali|marathi|kannada|malayalam|punjabi|nepali|tagalog|spanish|arabic|portuguese)\b|\ben español\b", title.lower()):
         return False, "title says the video is in another language"
     words = re.findall(r"[a-zà-ÿ'\-]+", title.lower().replace("los angeles", ""))
@@ -500,6 +510,8 @@ def main():
     A = K.append
     A("# HVAC round 2: the keyword sweep")
     A("")
+    A("> **Checker notes (2026-10-24, `check-round2.md`):** 20 random videos, 5 re-run searches and 5 table rows checked: 1 mismatch in 120 fields (a Hindi title with an English tail kept as English). The English rule was tightened the same day (a run of 3+ non-Latin letters, vowel marks included, drops the title) and the build re-run.")
+    A("")
     A(f"Built 2026-10-24 by a round 2 helper with `studies/hvac/data/tools/sweep_build.py` (rerunnable) from the logged-out YouTube search sweep run by the main session (`sweep_round2.py`). Deliverable 8 of `RESEARCH-BRIEF.md`. Formats are in `formats.md`.")
     A("")
     A("**Status:** not yet re-checked by a second helper (working rule 3). Every count below is computed by the script from the raw search pages. Topic and framing labels on keywords are the keyword list's rule-based labels; format tags on titles are rule-based (see `formats.md`). Where a line says \"reading\", it is the helper's judgement, not a count.")
@@ -516,7 +528,7 @@ def main():
     A("- **Age windows (my rule, from the age text):** YouTube shows ages as min, h, d (up to 13d), w (2w to 4w), mo (1mo to 11mo), then y. `year` results count only if the age is below \"1y\" (under 12 months). `month` results count only if the age is in min, h, d or w (under about 5 weeks); \"1mo ago\" is out. A video outside the window is still kept in the video list (it is a real result for the keyword), but that search row is not counted in the per-search figures.")
     A("- **Upload date** in the CSV is approximate: pull date minus the age (1y = 365.25 days, 1mo = 30.44 days). YouTube rounds ages down, so the real upload is up to one unit earlier.")
     A("- **Long-form:** length 5:00 (300 s) or more. Live streams with no length are dropped; replays of past streams (\"Streamed ... ago\") with a length are kept and marked in the CSV.")
-    A("- **English (rule-based):** a title is dropped if (a) 30% or more of its letters are in a non-Latin script; (b) it has 2+ common words from Spanish, Portuguese, French, German, Hindi or Urdu written in Latin letters, Indonesian or Tagalog, and more of those than English function words; (c) it has 1+ such word and no English function word; or (d) it has a letter used only in other languages (Turkish, Polish, Czech, Vietnamese, transliteration marks) and fewer than 2 English function words; or (e) it says it is \"in Hindi\" (or Urdu, Tamil, Spanish and so on). The word lists are `FOREIGN`, `ENGLISH` and `STRONG_FOREIGN_LETTERS` in the script.")
+    A("- **English (rule-based):** a title is dropped if (a) 30% or more of its letters are in a non-Latin script, or it has a run of 3+ non-Latin letters (added 2026-10-24 after the round 2 check); (b) it has 2+ common words from Spanish, Portuguese, French, German, Hindi or Urdu written in Latin letters, Indonesian or Tagalog, and more of those than English function words; (c) it has 1+ such word and no English function word; or (d) it has a letter used only in other languages (Turkish, Polish, Czech, Vietnamese, transliteration marks) and fewer than 2 English function words; or (e) it says it is \"in Hindi\" (or Urdu, Tamil, Spanish and so on). The word lists are `FOREIGN`, `ENGLISH` and `STRONG_FOREIGN_LETTERS` in the script.")
     nchk = stats["orig_title_checked"]
     A(f"- **Original titles (oEmbed):** logged-out search auto-translates foreign titles into English (found by the old-house heat helper, 2026-10-24). So each video's original title was fetched from YouTube oEmbed (`tools/sweep_oembed.py`, pulled 2026-10-24, raw in `data/raw/sweep-oembed-2026-10-24.jsonl`) and the English rule was run on it too. Original title checked for {nchk:,} of the {len(videos) + len(odrops):,} long-form videos that passed the search-title rule; " + ", ".join(f"{k}: {v:,}" for k, v in stats["orig_title_failed"].items()) + f" (those keep the search-page check only; oEmbed 401 = embedding turned off, 404 = gone). **{len(odrops):,} videos dropped** because the original title is not English. Titles shown in these files are the original titles.")
     A("- **Per video:** views = the highest count seen across its searches (pulls were minutes to hours apart). Keywords, sorts and topics are every one that returned it. Best rank = its best position in any search (position counts every row on the page, including Shorts and lives).")
@@ -665,6 +677,8 @@ def main():
     F = []
     B = F.append
     B("# HVAC round 2: formats in the keyword sweep")
+    B("")
+    B("> **Checker notes (2026-10-24, `check-round2.md`):** a blind hand-tag of 60 titles agreed with the rule tags on 38 (63%; 66% on HVAC-word titles), lower than the helper's 74%. The medians recompute correctly. The all-titles tables' \"3 biggest\" examples include off-topic videos, so read the HVAC-word tables. Treat format counts as rough and compare only formats with big gaps; round 4 re-labels formats on the cleaned channel set.")
     B("")
     B("Built 2026-10-24 by a round 2 helper with `studies/hvac/data/tools/sweep_build.py` from the keyword sweep (`keyword-sweep.md` has the method, sources and filters). Deliverable 8 of `RESEARCH-BRIEF.md`.")
     B("")

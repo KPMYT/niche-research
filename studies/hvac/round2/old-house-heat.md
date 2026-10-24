@@ -1,5 +1,7 @@
 # Old-house heat: how big is the pool? (round 2, 2026-10-24)
 
+> **Checker notes (2026-10-24, `check-round2.md`):** 0 mismatches in a 10-video sample. Outside it: the on-topic rule missed "How To Remove Air From Your Heating System" (`z80WspC4Nmg`, TheDIYGuyDOTnet, US, 2,050,577 views, 5:24, about 12 years old), which would be the #1 US video in the top 20 (the conclusions don't change; the tables are not yet re-run). Halden Row is probably "faceless, AI images" rather than a persona (no named character). The analysis scripts are now in `data/tools/oldheat/`.
+
 **Question tested.** An earlier chat suggested Roger the HVAC Guy stand apart from the crowded AC / "retired HVAC pro" field (led by Ray Dutton's Garage) through "old-house heat": boilers, hot-water and steam radiators, steam heat, oil furnaces and oil boilers, baseboard hydronic heat and the winter heat bill. It warned that the pool "may be smaller than AC, so validate" (`findings/2026-10-22-hvac-and-electrical.md`, section 1). This file measures that pool and compares it with AC like for like.
 
 **Short answer (measured):** the old-house heat pool is much smaller than AC. On 10 matched keywords per side, it has 135 kept videos against 315. Its median video has 26,413 views against 212,313 (AC is about 8x). In the last 12 months it has 2 videos at 100K+ against 72. The biggest old-house heat videos are mostly British central-heating videos. US old-house heat is held by on-camera working plumbers and heating techs. The faceless AI personas in this space all launched in 2025-2026 and get under about 1,100 views a video. My reading of what this means is in the last section.
@@ -149,7 +151,7 @@ What I see in the per-keyword table (measured; the "why" is my reading):
 | 19 | `6t6QnYkXuXA` | VAILLANT ECOTEC BOILER. How to use, and change temperatures on the LCD display | Mark Ray | United Kingdom | 781,083 | 6y ago | 6:06 |
 | 20 | `LyHy2En9iF0` | Troubleshoot the oil furnace part 3.  Fire comes on but shuts down. | grayfurnaceman | United States | 760,474 | 12y ago | 8:35 |
 
-13 of the top 20 come from UK-listed channels, 5 from US-listed ones and 2 give no country (one is a Vaillant boiler, a UK brand). The only US videos in the top 20 are 7 to 16 years old: askmediy, grayfurnaceman's three oil-furnace troubleshooting videos (2012) and Silver Cymbal's "Oil Heat Boilers" (8 years).
+13 of the top 20 come from UK-listed channels, 5 from US-listed ones and 2 give no country (one is a Vaillant boiler, a UK brand). The only US videos in the top 20 are 7 to 16 years old: askmediy, grayfurnaceman's three oil-furnace troubleshooting videos (November 2013; corrected by the checker, 2012 is the year the channel joined) and Silver Cymbal's "Oil Heat Boilers" (8 years).
 
 ### Top 20, US-listed channels only
 

@@ -1,5 +1,7 @@
 # HVAC round 2: the keyword sweep
 
+> **Checker notes (2026-10-24, `check-round2.md`):** 20 random videos, 5 re-run searches and 5 table rows checked: 1 mismatch in 120 fields (a Hindi title with an English tail kept as English). The English rule was tightened the same day (a run of 3+ non-Latin letters, vowel marks included, drops the title) and the build re-run.
+
 Built 2026-10-24 by a round 2 helper with `studies/hvac/data/tools/sweep_build.py` (rerunnable) from the logged-out YouTube search sweep run by the main session (`sweep_round2.py`). Deliverable 8 of `RESEARCH-BRIEF.md`. Formats are in `formats.md`.
 
 **Status:** not yet re-checked by a second helper (working rule 3). Every count below is computed by the script from the raw search pages. Topic and framing labels on keywords are the keyword list's rule-based labels; format tags on titles are rule-based (see `formats.md`). Where a line says "reading", it is the helper's judgement, not a count.
@@ -14,8 +16,8 @@ Files: `data/raw/sweep-2026-10-24/*.jsonl` (raw search results), `data/raw/sweep
 - **Age windows (my rule, from the age text):** YouTube shows ages as min, h, d (up to 13d), w (2w to 4w), mo (1mo to 11mo), then y. `year` results count only if the age is below "1y" (under 12 months). `month` results count only if the age is in min, h, d or w (under about 5 weeks); "1mo ago" is out. A video outside the window is still kept in the video list (it is a real result for the keyword), but that search row is not counted in the per-search figures.
 - **Upload date** in the CSV is approximate: pull date minus the age (1y = 365.25 days, 1mo = 30.44 days). YouTube rounds ages down, so the real upload is up to one unit earlier.
 - **Long-form:** length 5:00 (300 s) or more. Live streams with no length are dropped; replays of past streams ("Streamed ... ago") with a length are kept and marked in the CSV.
-- **English (rule-based):** a title is dropped if (a) 30% or more of its letters are in a non-Latin script; (b) it has 2+ common words from Spanish, Portuguese, French, German, Hindi or Urdu written in Latin letters, Indonesian or Tagalog, and more of those than English function words; (c) it has 1+ such word and no English function word; or (d) it has a letter used only in other languages (Turkish, Polish, Czech, Vietnamese, transliteration marks) and fewer than 2 English function words; or (e) it says it is "in Hindi" (or Urdu, Tamil, Spanish and so on). The word lists are `FOREIGN`, `ENGLISH` and `STRONG_FOREIGN_LETTERS` in the script.
-- **Original titles (oEmbed):** logged-out search auto-translates foreign titles into English (found by the old-house heat helper, 2026-10-24). So each video's original title was fetched from YouTube oEmbed (`tools/sweep_oembed.py`, pulled 2026-10-24, raw in `data/raw/sweep-oembed-2026-10-24.jsonl`) and the English rule was run on it too. Original title checked for 25,153 of the 26,122 long-form videos that passed the search-title rule; oEmbed 401: 464, oEmbed 403: 1 (those keep the search-page check only; oEmbed 401 = embedding turned off, 404 = gone). **504 videos dropped** because the original title is not English. Titles shown in these files are the original titles.
+- **English (rule-based):** a title is dropped if (a) 30% or more of its letters are in a non-Latin script, or it has a run of 3+ non-Latin letters (added 2026-10-24 after the round 2 check); (b) it has 2+ common words from Spanish, Portuguese, French, German, Hindi or Urdu written in Latin letters, Indonesian or Tagalog, and more of those than English function words; (c) it has 1+ such word and no English function word; or (d) it has a letter used only in other languages (Turkish, Polish, Czech, Vietnamese, transliteration marks) and fewer than 2 English function words; or (e) it says it is "in Hindi" (or Urdu, Tamil, Spanish and so on). The word lists are `FOREIGN`, `ENGLISH` and `STRONG_FOREIGN_LETTERS` in the script.
+- **Original titles (oEmbed):** logged-out search auto-translates foreign titles into English (found by the old-house heat helper, 2026-10-24). So each video's original title was fetched from YouTube oEmbed (`tools/sweep_oembed.py`, pulled 2026-10-24, raw in `data/raw/sweep-oembed-2026-10-24.jsonl`) and the English rule was run on it too. Original title checked for 24,837 of the 25,873 long-form videos that passed the search-title rule; oEmbed 401: 453, oEmbed 403: 1 (those keep the search-page check only; oEmbed 401 = embedding turned off, 404 = gone). **582 videos dropped** because the original title is not English. Titles shown in these files are the original titles.
 - **Per video:** views = the highest count seen across its searches (pulls were minutes to hours apart). Keywords, sorts and topics are every one that returned it. Best rank = its best position in any search (position counts every row on the page, including Shorts and lives).
 - **"Above search median" (a within-search relative measure):** for each search, the median views of the long-form English results it kept (`year` and `month` searches: only those inside the age window). Each time a video shows up in a search, it either beats that search's median or not. A group's figure is the share of its appearances that beat the median (searches with fewer than 5 kept results are not used). Across all videos this is a little under 50% by construction (the median video itself never beats it), so a format or topic well over the all-videos figure beats the other videos returned for the same keywords. A video returned by many searches counts once per search. It is not the channel multiple; that comes in round 3. The video CSV gives each video's own count (`searches_above` of `searches_counted`; `above_search_median` = yes when more than half).
 
@@ -25,16 +27,19 @@ Files: `data/raw/sweep-2026-10-24/*.jsonl` (raw search results), `data/raw/sweep
 |---|---:|
 | under 5:00 | 53,665 |
 | no length (live / upcoming) | 2,483 |
-| not English (rule, on the search-page title) | 918 |
-| not English: original title (oEmbed); the search page showed an English translation | 607 |
-| month search: outside my age window (video kept, search row not counted) | 149 |
+| not English (rule, on the search-page title) | 1,311 |
+| not English: original title (oEmbed); the search page showed an English translation | 714 |
+| month search: outside my age window (video kept, search row not counted) | 147 |
 | year search: outside my age window (video kept, search row not counted) | 53 |
 | long-form but no view count | 5 |
 | no length (other) | 2 |
 
-Distinct titles dropped by the English rule: 648. First 15 (for checking):
+Distinct titles dropped by the English rule: 897. First 15 (for checking):
 
-- `ajUSq7KoJgE` "[ASMR] Air Conditioner Sound \| Sonido del AIRE ACONDICIONADO \| Som do AR CONDICIONADO \| 에어컨 소리" (foreign function words)
+- `Fhtm_0Yh47w` "Split AC Installation Guide\|\| Ac को लगाने का तरीका। LG 1.5 TON 5 STAR DUAL INVERTER AC" (non-Latin run of 3+ letters)
+- `ajUSq7KoJgE` "[ASMR] Air Conditioner Sound \| Sonido del AIRE ACONDICIONADO \| Som do AR CONDICIONADO \| 에어컨 소리" (non-Latin run of 3+ letters)
+- `rqMfzf-CSws` "How To Make AC \|\| Smart Air Conditioner कैसे बनाए" (non-Latin run of 3+ letters)
+- `SRsW6eyrJ5w` "Restoration Old Rusty Air Conditioner ＴＯＳＨＩＢＡ　\| Restore Air conditioning condenser" (non-Latin run of 3+ letters)
 - `LOY5duLbu-Y` "May lamig ang aircon pero kulang? Huwag kang magpadagdag ng Freon agad! \| GAWIN MO ITO PARA LUMAMIG" (foreign function words)
 - `RNlSzOXgUp0` "একদিনেই ১০ লাখ Loss 😱 কোথায় ভুল করলাম? \| My Trading Mistake \| AC Trader" (non-Latin script)
 - `0teSMtUcEmg` "Don't Waste AC Water \| Best Usage & How to Make Money from Ac Waste Water \| in Urdu @TechKnowledge64" (title says the video is in another language)
@@ -42,15 +47,12 @@ Distinct titles dropped by the English rule: 648. First 15 (for checking):
 - `hchGCss1ujk` "पैसा बचाने के 5 ऐसे तरीके जो आपको किसी ने नहीं बताये होंगे \| Beat Inflation & Invest Smartly" (non-Latin script)
 - `sOKgpnLA-Ac` "اسرار التو فير وفري فلوسك " (non-Latin script)
 - `4gQWkmI0TGo` "Sardiyo Mein AC Band Karne Ka Sahi Tarika \| Paise Bachayein! 💰 AC Service At Home 🏡" (foreign function words)
+- `TMbh76M_j8Y` "ac repairing tips - how to repair ac / air conditioner सीखो ac का काम" (non-Latin run of 3+ letters)
 - `g_yT09hsjMQ` "Air Conditioner कैसे काम करता है? 😳 AC ठंडी हवा कैसे बनाता है" (non-Latin script)
 - `TLT1xlBxBQU` "KONDISI AC WINDOW REIWA SETELAH PEMAKAIAN 2 TAHUN ? APAKAH MASIH DINGIN ? BAGAIMANA CARA NYUCI NYA" (foreign function words)
-- `5VqqTax_FdM` "Solution to all window AC problems in one video \|\| window ac ice problem 100% solution in Hindi" (title says the video is in another language)
-- `7A38LRpGDXk` "LG AC Remote Full Guide 2026 \| All Functions Information in Hindi! #airconditioner #lgac #remote #lg" (title says the video is in another language)
-- `M5lM2-zSC90` "घर में AC लगाना चाहिए या Cooler? \| कुछ भी लगाने से पहले इस वीडियो को एकबार देख लें.! #airconditioner" (non-Latin script)
-- `sCV6sBriwSY` "Unboxing Portable Air Conditioner A/C - चलता फिरता AC 🥶 कूलर का ज़माना गया" (non-Latin script)
-- `pDSNp_lk5tE` "Japani AC Lagwao Aur Garmi Ko Door Bhagao \| Bijli Ka Bill Fan Se Bhi Kam   Best AC 2026 \| Cheap AC" (foreign function words)
+- `YZKQH-rDTwU` "पुराने पंखे से AI AC तक का सफर।।What Makes China AI AC So Special? Discover the Technology Behind " (non-Latin run of 3+ letters)
 
-Videos dropped on the original title (oEmbed): 504. First 15 (search-page title -> original title):
+Videos dropped on the original title (oEmbed): 582. First 15 (search-page title -> original title):
 
 - `bvSub27JivE` "Mike and his uncle fix a broken air conditioner - A Toy Story for Kids" -> "مايك وعمه يصلحان مكيف هواء معطل - قصة لعبة للأطفال" (non-Latin script)
 - `BD-GkaspxwY` "Kids' Funny Adventure with the Magic AC" -> "Petualangan Lucu Anak-Anak dengan AC Ajaib" (foreign function word, no English ones)
@@ -72,7 +74,7 @@ Videos dropped on the original title (oEmbed): 504. First 15 (search-page title 
 
 | Sort | Searches | Check | Result |
 |---|---:|---|---|
-| relevance | 150 | none possible (no order to test) | 1,870 long-form English rows kept |
+| relevance | 150 | none possible (no order to test) | 1,869 long-form English rows kept |
 | views | 150 | views descending? | 19 of 150 searches strictly in descending view order; 329 of 2,810 adjacent pairs (12%) go up instead of down, 66 of them by more than double |
 | year | 150 | views descending? Results recent? | 4 of 150 searches strictly in descending view order; 696 of 2,720 adjacent pairs (26%) go up instead of down, 162 of them by more than double; 2,794 of 2,870 dated rows (97%) inside my 12-month window |
 | month | 150 | views descending? Results recent? | 19 of 150 searches strictly in descending view order; 716 of 2,258 adjacent pairs (32%) go up instead of down, 139 of them by more than double; 2,211 of 2,405 dated rows (92%) inside my 5-week window |
@@ -105,61 +107,61 @@ Long-form English results kept / median views of those, per sort. `year` and `mo
 
 | # | Keyword | Topic | Framing | Source kind | relevance n / median | views n / median | year n / median | month n / median | views rises | year in win | month in win |
 |---:|---|---|---|---|---|---|---|---|---:|---:|---:|
-| 1 | adding air conditioning to old house | `ac-central` | plain topic | autocomplete | 12 / 528,464 | 18 / 2,437,100 | 19 / 44,608 | 1 / 366,267 | 2/19 | 20/20 | 2/4 |
-| 2 | air conditioner | `ac-central` | plain topic | brief topic list, autocomplete | 17 / 2,414,166 | 11 / 9,356,062 | 7 / 3,707,997 | 7 / 110,263 | 3/19 | 20/20 | 19/20 |
+| 1 | adding air conditioning to old house | `ac-central` | plain topic | autocomplete | 12 / 528,464 | 17 / 2,387,613 | 19 / 44,608 | 1 / 366,267 | 2/19 | 20/20 | 2/4 |
+| 2 | air conditioner | `ac-central` | plain topic | brief topic list, autocomplete | 17 / 2,414,166 | 9 / 10,388,788 | 7 / 3,707,997 | 7 / 110,263 | 3/19 | 20/20 | 19/20 |
 | 3 | ac not cooling | `ac-central` | problem symptom | brief topic list, autocomplete | 12 / 310,402 | 17 / 2,937,395 | 16 / 340,058 | 12 / 7,848 | 2/19 | 20/20 | 19/20 |
 | 4 | central air conditioning not cooling | `ac-central` | problem symptom | Silver Cymbal title | 15 / 676,986 | 14 / 2,664,794 | 17 / 425,941 | 9 / 202 | 3/19 | 19/20 | 16/20 |
 | 5 | unclog ac drain line | `ac-central` | problem symptom | Silver Cymbal title, autocomplete | 8 / 561,654 | 13 / 1,676,076 | 15 / 33,458 | 15 / 650 | 1/19 | 20/20 | 16/20 |
 | 6 | why is my ac blowing hot air | `ac-central` | problem symptom | autocomplete | 11 / 170,813 | 18 / 2,476,596 | 14 / 95,904 | 2 / 2,006 | 1/19 | 20/20 | 7/7 |
 | 7 | ac mistakes | `ac-central` | mistakes | known title | 18 / 34,017 | 18 / 1,734,312 | 18 / 127,431 | 11 / 1,785 | 3/19 | 20/20 | 16/20 |
-| 8 | secret ac trick | `ac-central` | they don't want you to know | known title | 19 / 175,541 | 18 / 1,359,734 | 20 / 487,680 | 8 / 11,785 | 4/19 | 20/20 | 10/14 |
+| 8 | secret ac trick | `ac-central` | they don't want you to know | known title | 19 / 175,541 | 17 / 1,373,880 | 20 / 487,680 | 8 / 11,785 | 4/19 | 20/20 | 10/14 |
 | 9 | save money on ac | `ac-central` | cheap hack | autocomplete | 11 / 173,514 | 17 / 2,280,659 | 14 / 436,299 | 6 / 7,292 | 1/19 | 20/20 | 16/20 |
 | 10 | ac freezing up | `ac-freezing` | problem symptom | brief topic list, autocomplete | 13 / 216,709 | 18 / 1,186,702 | 13 / 18,359 | 6 / 7,098 | 2/19 | 20/20 | 10/13 |
 | 11 | frozen evaporator coil | `ac-freezing` | problem symptom | brief topic list, autocomplete | 18 / 91,166 | 17 / 775,314 | 16 / 1,614 | 4 / 796 | 2/19 | 20/20 | 5/5 |
 | 12 | why is my ac freezing up | `ac-freezing` | problem symptom | autocomplete | 13 / 216,724 | 18 / 736,469 | 12 / 5,590 | 2 / 30 | 1/19 | 20/20 | 3/3 |
-| 13 | window air conditioner | `ac-window` | plain topic | brief topic list, autocomplete | 12 / 153,272 | 17 / 4,019,112 | 17 / 501,807 | 15 / 32,029 | 0/19 | 20/20 | 19/20 |
-| 14 | window ac not cooling | `ac-window` | problem symptom | autocomplete | 13 / 145,453 | 17 / 2,559,447 | 13 / 366,678 | 8 / 256 | 0/19 | 17/20 | 17/20 |
+| 13 | window air conditioner | `ac-window` | plain topic | brief topic list, autocomplete | 12 / 153,272 | 15 / 4,019,112 | 17 / 501,807 | 14 / 29,696 | 0/19 | 20/20 | 19/20 |
+| 14 | window ac not cooling | `ac-window` | problem symptom | autocomplete | 13 / 145,453 | 15 / 2,559,447 | 13 / 366,678 | 8 / 256 | 0/19 | 17/20 | 17/20 |
 | 15 | window ac vs portable ac | `ac-window` | X vs Y | autocomplete | 11 / 98,357 | 13 / 2,793,625 | 16 / 469,472 | 11 / 114 | 0/19 | 20/20 | 18/20 |
-| 16 | best portable air conditioner | `ac-window` | the only X | Silver Cymbal title, autocomplete | 19 / 32,847 | 16 / 2,022,724 | 20 / 592,636 | 15 / 15,204 | 3/19 | 20/20 | 16/20 |
+| 16 | best portable air conditioner | `ac-window` | the only X | Silver Cymbal title, autocomplete | 19 / 32,847 | 16 / 2,022,724 | 20 / 592,636 | 14 / 17,927 | 3/19 | 20/20 | 16/20 |
 | 17 | attic fan | `attic-fan` | plain topic | brief topic list, autocomplete | 7 / 207,120 | 15 / 894,509 | 19 / 229,494 | 19 / 320 | 1/19 | 20/20 | 19/20 |
 | 18 | cool your attic | `attic-fan` | plain topic | known title | 11 / 152,132 | 14 / 1,205,764 | 19 / 425,941 | 16 / 238 | 2/19 | 19/20 | 17/20 |
 | 19 | whole house fan | `attic-fan` | plain topic | brief topic list, autocomplete | 9 / 16,361 | 14 / 4,290,570 | 16 / 251,952 | 13 / 4,005 | 2/19 | 20/20 | 20/20 |
-| 20 | boiler | `boiler-steam` | plain topic | brief topic list | 19 / 5,578,797 | 18 / 23,247,732 | 16 / 1,748,112 | 14 / 69,534 | 1/19 | 20/20 | 20/20 |
+| 20 | boiler | `boiler-steam` | plain topic | brief topic list | 19 / 5,578,797 | 13 / 21,200,053 | 11 / 891,082 | 12 / 68,362 | 1/19 | 20/20 | 20/20 |
 | 21 | old house boiler | `boiler-steam` | plain topic | autocomplete | 8 / 329,018 | 18 / 4,828,391 | 18 / 98,794 | 15 / 544 | 2/19 | 20/20 | 19/19 |
-| 22 | steam heat | `boiler-steam` | plain topic | brief topic list, autocomplete | 5 / 40,618 | 12 / 2,164,898 | 14 / 187,734 | 15 / 2,276 | 0/19 | 20/20 | 19/20 |
+| 22 | steam heat | `boiler-steam` | plain topic | brief topic list, autocomplete | 5 / 40,618 | 12 / 2,164,898 | 14 / 187,734 | 10 / 6,654 | 0/19 | 20/20 | 19/20 |
 | 23 | steam radiator | `boiler-steam` | plain topic | brief topic list, autocomplete | 12 / 13,643 | 12 / 1,027,528 | 17 / 13,495 | 11 / 79 | 2/19 | 20/20 | 19/20 |
 | 24 | boiler no heat | `boiler-steam` | problem symptom | Silver Cymbal title, autocomplete | 15 / 29,046 | 17 / 1,246,905 | 18 / 26,506 | 15 / 676 | 0/19 | 20/20 | 20/20 |
 | 25 | steam radiator not getting hot | `boiler-steam` | problem symptom | autocomplete | 13 / 153,319 | 13 / 930,467 | 7 / 251 | 1 / 875 | 2/19 | 8/8 | 1/2 |
 | 26 | boiler vs furnace | `boiler-steam` | X vs Y | autocomplete | 6 / 66,462 | 14 / 157,862 | 9 / 585 | 0 / n/a | 2/19 | 20/20 | 1/1 |
 | 27 | bleeding radiators old house | `boiler-steam` | how-to | autocomplete | 6 / 88,334 | 10 / 836,634 | 2 / 502 | 3 / 130 | 4/19 | 2/4 | 3/3 |
-| 28 | best ac brands | `brands` | the only X | brief topic list, autocomplete | 15 / 161,125 | 18 / 1,110,588 | 16 / 714,178 | 15 / 35,585 | 2/19 | 19/20 | 20/20 |
+| 28 | best ac brands | `brands` | the only X | brief topic list, autocomplete | 15 / 161,125 | 18 / 1,110,588 | 15 / 670,769 | 13 / 35,585 | 2/19 | 19/20 | 20/20 |
 | 29 | best furnace brands | `brands` | the only X | brief topic list, autocomplete | 18 / 27,229 | 18 / 313,534 | 19 / 48,494 | 10 / 2,390 | 1/19 | 20/20 | 10/10 |
 | 30 | best heat pump brands | `brands` | the only X | brief topic list, autocomplete | 17 / 31,864 | 19 / 670,769 | 17 / 232,642 | 6 / 265 | 3/19 | 18/20 | 18/20 |
-| 31 | best hvac brands | `brands` | the only X | brief topic list, autocomplete | 19 / 103,208 | 20 / 1,243,542 | 19 / 103,106 | 11 / 1,911 | 2/19 | 20/20 | 18/20 |
+| 31 | best hvac brands | `brands` | the only X | brief topic list, autocomplete | 19 / 103,208 | 19 / 1,295,595 | 19 / 103,106 | 10 / 1,147 | 2/19 | 20/20 | 18/20 |
 | 32 | hvac brands to avoid | `brands` | the only X | brief topic list, autocomplete | 19 / 47,329 | 19 / 199,222 | 20 / 47,770 | 2 / 36 | 1/19 | 20/20 | 2/2 |
 | 33 | only hvac brands worth buying | `brands` | the only X | known title | 19 / 113,653 | 10 / 110,093 | 19 / 43,507 | 5 / 794 | 1/10 | 19/19 | 5/5 |
-| 34 | ceiling fan direction | `ceiling-fan` | plain topic | brief topic list, autocomplete | 1 / 19,666 | 12 / 1,840,613 | 13 / 17,869 | 1 / 19,666 | 1/19 | 16/20 | 8/12 |
+| 34 | ceiling fan direction | `ceiling-fan` | plain topic | brief topic list, autocomplete | 1 / 19,666 | 10 / 1,840,613 | 11 / 18,434 | 1 / 19,666 | 1/19 | 16/20 | 8/12 |
 | 35 | ceiling fan winter | `ceiling-fan` | plain topic | brief topic list, autocomplete | 2 / 15,874 | 9 / 535,416 | 9 / 60,046 | 17 / 213 | 1/19 | 17/20 | 19/20 |
-| 36 | central air conditioner condenser cleaning | `coil-cleaning` | how-to | Silver Cymbal title | 11 / 1,454,188 | 18 / 2,318,818 | 15 / 6,017 | 1 / 55 | 2/19 | 20/20 | 1/2 |
-| 37 | cleaning ac unit with pressure washer | `coil-cleaning` | how-to | autocomplete | 13 / 139,723 | 16 / 2,748,886 | 13 / 118,197 | 5 / 278 | 0/19 | 17/20 | 16/20 |
+| 36 | central air conditioner condenser cleaning | `coil-cleaning` | how-to | Silver Cymbal title | 11 / 1,454,188 | 17 / 2,308,345 | 15 / 6,017 | 1 / 55 | 2/19 | 20/20 | 1/2 |
+| 37 | cleaning ac unit with pressure washer | `coil-cleaning` | how-to | autocomplete | 13 / 139,723 | 15 / 2,632,105 | 12 / 133,108 | 5 / 278 | 0/19 | 17/20 | 16/20 |
 | 38 | how to clean ac unit | `coil-cleaning` | how-to | autocomplete | 14 / 1,381,816 | 18 / 5,062,946 | 14 / 556,620 | 13 / 2,195 | 0/19 | 20/20 | 20/20 |
 | 39 | draft stopper | `drafts` | plain topic | brief topic list, autocomplete | 2 / 6,034 | 8 / 389,211 | 10 / 1,234 | 5 / 559 | 2/19 | 20/20 | 19/20 |
 | 40 | drafty house | `drafts` | plain topic | brief topic list, autocomplete | 13 / 23,945 | 15 / 79,134 | 17 / 19,094 | 20 / 207 | 1/19 | 20/20 | 20/20 |
 | 41 | weatherstripping | `drafts` | plain topic | brief topic list | 7 / 188,487 | 11 / 693,644 | 11 / 17,671 | 8 / 812 | 1/19 | 17/20 | 17/20 |
 | 42 | closing vents | `ducts-vents` | plain topic | brief topic list | 2 / 3,254 | 7 / 336,066 | 16 / 356 | 7 / 137 | 1/19 | 20/20 | 13/13 |
-| 43 | is ac duct cleaning worth it | `ducts-vents` | myth | autocomplete | 15 / 127,328 | 14 / 254,172 | 11 / 2,264 | 1 / 5 | 2/19 | 18/20 | 2/3 |
+| 43 | is ac duct cleaning worth it | `ducts-vents` | myth | autocomplete | 15 / 127,328 | 12 / 299,762 | 11 / 2,264 | 1 / 5 | 2/19 | 18/20 | 2/3 |
 | 44 | duct cleaning | `ducts-vents` | how-to | brief topic list, autocomplete | 16 / 149,676 | 13 / 1,693,397 | 11 / 46,932 | 9 / 7,482 | 3/19 | 20/20 | 19/20 |
 | 45 | baseboard heater | `electric-heat` | plain topic | helper-added seed, autocomplete | 11 / 44,776 | 9 / 307,367 | 11 / 5,308 | 9 / 39 | 3/19 | 16/20 | 17/20 |
-| 46 | electric bill | `energy-bill` | plain topic | brief topic list, autocomplete | 13 / 253,815 | 7 / 3,026,380 | 14 / 1,142,596 | 7 / 281,836 | 3/19 | 20/20 | 19/20 |
+| 46 | electric bill | `energy-bill` | plain topic | brief topic list, autocomplete | 13 / 253,815 | 7 / 3,026,380 | 11 / 1,153,253 | 6 / 256,940 | 3/19 | 20/20 | 19/20 |
 | 47 | heating bill | `energy-bill` | plain topic | brief topic list, autocomplete | 17 / 17,299 | 12 / 2,257,524 | 15 / 397,174 | 16 / 84,014 | 4/19 | 20/20 | 20/20 |
-| 48 | why is my electric bill so high | `energy-bill` | problem symptom | autocomplete | 12 / 62 | 14 / 938,216 | 14 / 397,390 | 16 / 60 | 4/19 | 17/20 | 20/20 |
+| 48 | why is my electric bill so high | `energy-bill` | problem symptom | autocomplete | 12 / 62 | 12 / 558,382 | 12 / 390,514 | 15 / 59 | 4/19 | 17/20 | 20/20 |
 | 49 | why is your heat bill so high | `energy-bill` | problem symptom | known title | 9 / 916 | 16 / 314,541 | 17 / 1,349 | 19 / 180 | 1/19 | 20/20 | 20/20 |
-| 50 | energy bill mistakes | `energy-bill` | mistakes | known title | 19 / 605 | 12 / 198,290 | 12 / 26,486 | 14 / 170 | 3/19 | 20/20 | 20/20 |
+| 50 | energy bill mistakes | `energy-bill` | mistakes | known title | 19 / 605 | 9 / 352,976 | 9 / 28,725 | 13 / 152 | 3/19 | 20/20 | 20/20 |
 | 51 | power company doesn't want you to | `energy-bill` | they don't want you to know | known title | 15 / 363 | 14 / 494 | 20 / 403,020 | 2 / 68,004 | 2/19 | 20/20 | 3/3 |
 | 52 | how to save money on electric bill in winter | `energy-bill` | cheap hack | autocomplete | 4 / 29,835 | 14 / 446,228 | 15 / 61,721 | 17 / 13,949 | 1/19 | 20/20 | 20/20 |
 | 53 | lower your electric bill | `energy-bill` | cheap hack | known title, autocomplete | 14 / 123,754 | 14 / 2,651,406 | 18 / 443,950 | 7 / 29,438 | 2/19 | 20/20 | 19/20 |
 | 54 | swamp cooler | `evap-cooler` | plain topic | helper-added seed, autocomplete | 11 / 145,665 | 15 / 1,240,002 | 14 / 289,236 | 16 / 124,778 | 0/19 | 20/20 | 19/20 |
-| 55 | air filter | `filters` | plain topic | brief topic list, autocomplete | 18 / 633,440 | 13 / 1,443,540 | 13 / 426,147 | 14 / 54,541 | 6/19 | 17/20 | 17/20 |
+| 55 | air filter | `filters` | plain topic | brief topic list, autocomplete | 18 / 633,440 | 13 / 1,443,540 | 12 / 447,772 | 14 / 54,541 | 6/19 | 17/20 | 17/20 |
 | 56 | ac filter destroying | `filters` | mistakes | known title | 16 / 3,798 | 18 / 27,052 | 19 / 5,378 | 2 / 3,555 | 4/19 | 20/20 | 2/2 |
 | 57 | furnace filter mistakes | `filters` | mistakes | autocomplete | 16 / 12,034 | 18 / 239,202 | 16 / 3,356 | 16 / 132 | 2/19 | 20/20 | 18/20 |
 | 58 | furnace filters cheap vs expensive | `filters` | X vs Y | autocomplete | 11 / 687,535 | 13 / 306,910 | 3 / 350,951 | 0 / n/a | 0/18 | 3/3 | 0/0 |
@@ -181,16 +183,16 @@ Long-form English results kept / median views of those, per sort. `year` and `mo
 | 74 | dehumidifier mistakes | `humidity` | mistakes | autocomplete | 5 / 29,811 | 10 / 49,733 | 8 / 4,657 | 0 / n/a | 3/19 | 20/20 | 6/6 |
 | 75 | hvac mistakes | `hvac-general` | mistakes | autocomplete | 20 / 28,294 | 19 / 1,526,472 | 18 / 198,395 | 17 / 1,879 | 3/19 | 20/20 | 20/20 |
 | 76 | hvac secrets | `hvac-general` | they don't want you to know | helper-added seed, autocomplete | 15 / 26,664 | 18 / 795,160 | 20 / 250,872 | 14 / 404 | 4/19 | 20/20 | 17/20 |
-| 77 | hvac tips | `hvac-general` | how-to | helper-added seed, autocomplete | 20 / 199,299 | 17 / 2,770,141 | 19 / 589,312 | 14 / 4,070 | 2/19 | 20/20 | 20/20 |
+| 77 | hvac tips | `hvac-general` | how-to | helper-added seed, autocomplete | 20 / 199,299 | 16 / 2,784,183 | 19 / 589,312 | 14 / 4,070 | 2/19 | 20/20 | 20/20 |
 | 78 | air purifier | `indoor-air` | plain topic | brief topic list, autocomplete | 18 / 68,562 | 6 / 4,436,190 | 11 / 469,396 | 11 / 66,575 | 4/19 | 18/20 | 17/20 |
 | 79 | carbon monoxide furnace | `indoor-air` | plain topic | brief topic list, autocomplete | 9 / 23,758 | 12 / 493,278 | 18 / 8,672 | 16 / 5,270 | 4/19 | 20/20 | 17/20 |
-| 80 | indoor air quality | `indoor-air` | plain topic | brief topic list, autocomplete | 13 / 16,473 | 12 / 2,501,330 | 10 / 123,291 | 8 / 4,010 | 3/19 | 18/20 | 20/20 |
+| 80 | indoor air quality | `indoor-air` | plain topic | brief topic list, autocomplete | 13 / 16,473 | 10 / 2,501,330 | 10 / 123,291 | 7 / 3,077 | 3/19 | 18/20 | 20/20 |
 | 81 | attic insulation | `insulation` | plain topic | brief topic list, autocomplete | 10 / 141,747 | 16 / 1,605,832 | 15 / 354,879 | 15 / 12,596 | 2/19 | 17/20 | 19/20 |
 | 82 | rim joist insulation | `insulation` | plain topic | brief topic list, autocomplete | 12 / 387,890 | 17 / 755,085 | 16 / 3,006 | 13 / 506 | 4/19 | 20/20 | 16/16 |
 | 83 | spray foam | `insulation` | plain topic | brief topic list, autocomplete | 15 / 671,095 | 17 / 3,540,821 | 13 / 671,095 | 13 / 8,534 | 3/19 | 20/20 | 20/20 |
 | 84 | spray foam alternative | `insulation` | plain topic | Silver Cymbal title | 14 / 51,196 | 16 / 1,836,689 | 20 / 16,562 | 2 / 6,368 | 5/19 | 20/20 | 2/2 |
 | 85 | window insulation | `insulation` | plain topic | brief topic list, autocomplete | 9 / 62,354 | 13 / 1,029,110 | 17 / 216,146 | 15 / 20,463 | 3/19 | 19/20 | 17/20 |
-| 86 | insulation mistakes | `insulation` | mistakes | autocomplete | 15 / 148,999 | 18 / 2,801,226 | 16 / 115,553 | 12 / 1,142 | 3/19 | 19/20 | 16/20 |
+| 86 | insulation mistakes | `insulation` | mistakes | autocomplete | 15 / 148,999 | 18 / 2,801,226 | 15 / 151,030 | 12 / 1,142 | 3/19 | 19/20 | 16/20 |
 | 87 | home designs that stayed cool | `keep-cool` | plain topic | known title | 18 / 4,160 | 15 / 406,995 | 18 / 2,984 | 16 / 250 | 2/19 | 20/20 | 17/18 |
 | 88 | cool house without ac | `keep-cool` | cheap hack | helper-added seed, autocomplete | 12 / 347,926 | 12 / 3,645,536 | 18 / 740,930 | 12 / 3,845 | 0/19 | 20/20 | 16/20 |
 | 89 | keep house cool | `keep-cool` | how-to | helper-added seed, autocomplete | 10 / 391,921 | 10 / 2,706,586 | 20 / 366,744 | 14 / 3,002 | 1/19 | 20/20 | 16/20 |
@@ -200,15 +202,15 @@ Long-form English results kept / median views of those, per sort. `year` and `mo
 | 93 | before you turn on your ac | `maintenance` | before you | known title | 16 / 907,452 | 19 / 2,559,447 | 15 / 222,410 | 16 / 1,230 | 2/19 | 17/20 | 20/20 |
 | 94 | before you turn on your heat | `maintenance` | before you | known title | 14 / 114,828 | 19 / 922,523 | 16 / 89,503 | 16 / 17,306 | 5/19 | 20/20 | 20/20 |
 | 95 | do this before winter furnace | `maintenance` | before you | known title | 13 / 1,472 | 16 / 1,077,766 | 18 / 164,337 | 19 / 9,061 | 5/19 | 20/20 | 20/20 |
-| 96 | do this once a month ac | `maintenance` | how-to | known title | 14 / 330,100 | 10 / 45,696 | 12 / 13,876 | 0 / n/a | 2/15 | 16/16 | 0/0 |
-| 97 | hvac maintenance | `maintenance` | how-to | brief topic list, autocomplete | 19 / 97,960 | 15 / 2,885,405 | 17 / 589,312 | 16 / 13,154 | 4/19 | 20/20 | 20/20 |
+| 96 | do this once a month ac | `maintenance` | how-to | known title | 14 / 330,100 | 8 / 58,516 | 11 / 14,451 | 0 / n/a | 2/15 | 16/16 | 0/0 |
+| 97 | hvac maintenance | `maintenance` | how-to | brief topic list, autocomplete | 19 / 97,960 | 14 / 2,932,711 | 17 / 589,312 | 16 / 13,154 | 4/19 | 20/20 | 20/20 |
 | 98 | mini split | `mini-split` | plain topic | brief topic list, autocomplete | 18 / 205,814 | 17 / 3,087,232 | 15 / 395,227 | 13 / 35,585 | 3/19 | 18/20 | 15/20 |
 | 99 | mini split mistakes | `mini-split` | mistakes | autocomplete | 11 / 133,288 | 10 / 1,682,559 | 6 / 15,290 | 4 / 317 | 2/19 | 20/20 | 16/16 |
 | 100 | mini split vs central air | `mini-split` | X vs Y | brief topic list, autocomplete | 13 / 15,172 | 19 / 2,007,929 | 19 / 37,244 | 3 / 188 | 2/19 | 20/20 | 3/6 |
-| 101 | ac making noise | `noises` | problem symptom | brief topic list, autocomplete | 15 / 608,848 | 13 / 3,020,583 | 19 / 365,797 | 17 / 5,290 | 0/19 | 20/20 | 19/22 |
+| 101 | ac making noise | `noises` | problem symptom | brief topic list, autocomplete | 15 / 608,848 | 13 / 3,020,583 | 19 / 365,797 | 16 / 5,651 | 0/19 | 20/20 | 19/22 |
 | 102 | banging radiator | `noises` | problem symptom | brief topic list, autocomplete | 1 / 64,797 | 8 / 329,678 | 3 / 13,495 | 0 / n/a | 1/19 | 4/7 | 1/2 |
 | 103 | furnace noise | `noises` | problem symptom | brief topic list, autocomplete | 17 / 838,582 | 17 / 3,618,895 | 18 / 77,863 | 13 / 163 | 4/19 | 20/20 | 20/20 |
-| 104 | oil furnace | `oil-furnace` | plain topic | brief topic list, autocomplete | 17 / 132,843 | 17 / 1,864,469 | 15 / 165,849 | 12 / 6,724 | 2/19 | 20/20 | 18/20 |
+| 104 | oil furnace | `oil-furnace` | plain topic | brief topic list, autocomplete | 17 / 132,843 | 17 / 1,864,469 | 14 / 184,440 | 12 / 6,724 | 2/19 | 20/20 | 18/20 |
 | 105 | oil furnace won't ignite | `oil-furnace` | problem symptom | autocomplete | 8 / 377,514 | 11 / 866,298 | 3 / 3,699 | 0 / n/a | 1/19 | 3/3 | 0/0 |
 | 106 | heating oil vs gas | `oil-furnace` | X vs Y | Silver Cymbal title | 8 / 48,819 | 17 / 3,223,542 | 19 / 734,130 | 27 / 7,077 | 2/19 | 20/20 | 34/40 |
 | 107 | oil furnace vs gas furnace | `oil-furnace` | X vs Y | autocomplete | 11 / 50,764 | 19 / 1,260,201 | 13 / 34,542 | 7 / 133 | 3/19 | 17/20 | 7/10 |
@@ -218,16 +220,16 @@ Long-form English results kept / median views of those, per sort. `year` and `mo
 | 111 | heat without power | `outage-heat` | cheap hack | brief topic list, autocomplete | 15 / 214,964 | 17 / 2,937,427 | 20 / 1,185,484 | 17 / 117,623 | 3/19 | 20/20 | 19/20 |
 | 112 | stay warm without power | `outage-heat` | cheap hack | brief topic list, autocomplete | 19 / 80,158 | 18 / 2,470,302 | 20 / 507,749 | 18 / 45,854 | 2/19 | 20/20 | 19/20 |
 | 113 | keep your family warm during a power outage | `outage-heat` | how-to | known title, autocomplete | 17 / 67,761 | 18 / 817,648 | 15 / 286,874 | 18 / 10,906 | 2/19 | 17/20 | 19/20 |
-| 114 | ac capacitor | `parts` | plain topic | brief topic list, autocomplete | 10 / 280,009 | 17 / 1,369,012 | 16 / 248,144 | 14 / 14,157 | 1/19 | 20/20 | 20/20 |
-| 115 | contactor | `parts` | plain topic | brief topic list, autocomplete | 10 / 130,220 | 11 / 1,175,813 | 11 / 21,501 | 10 / 7,166 | 4/19 | 20/20 | 20/20 |
+| 114 | ac capacitor | `parts` | plain topic | brief topic list, autocomplete | 10 / 280,009 | 16 / 1,661,104 | 14 / 248,144 | 12 / 14,157 | 1/19 | 20/20 | 20/20 |
+| 115 | contactor | `parts` | plain topic | brief topic list, autocomplete | 10 / 130,220 | 10 / 1,236,392 | 11 / 21,501 | 10 / 7,166 | 4/19 | 20/20 | 20/20 |
 | 116 | furnace flame sensor | `parts` | plain topic | brief topic list, autocomplete | 8 / 97,202 | 14 / 1,377,959 | 13 / 10,653 | 13 / 203 | 2/19 | 20/20 | 20/20 |
 | 117 | furnace igniter | `parts` | plain topic | brief topic list | 10 / 78,606 | 14 / 1,161,105 | 12 / 2,473 | 4 / 234 | 2/19 | 20/20 | 12/13 |
 | 118 | ac recharge | `refrigerant` | plain topic | brief topic list | 13 / 1,028,667 | 13 / 2,596,983 | 15 / 220,122 | 12 / 567 | 0/19 | 20/20 | 19/20 |
-| 119 | freon | `refrigerant` | plain topic | brief topic list, autocomplete | 11 / 130,580 | 12 / 2,318,268 | 12 / 21,596 | 6 / 1,703 | 1/19 | 20/20 | 16/20 |
+| 119 | freon | `refrigerant` | plain topic | brief topic list, autocomplete | 11 / 130,580 | 12 / 2,318,268 | 10 / 18,967 | 6 / 1,703 | 1/19 | 20/20 | 16/20 |
 | 120 | ac losing freon | `refrigerant` | problem symptom | autocomplete | 13 / 266,813 | 14 / 1,388,734 | 13 / 4,979 | 3 / 199 | 1/19 | 20/20 | 8/8 |
 | 121 | hvac replacement cost | `replacement-cost` | cost | brief topic list, autocomplete | 10 / 14,811 | 19 / 1,355,028 | 15 / 575,464 | 14 / 1,816 | 2/19 | 17/20 | 17/20 |
 | 122 | mini split cost installed | `replacement-cost` | cost | autocomplete | 8 / 168,385 | 20 / 1,974,778 | 20 / 110,418 | 8 / 398 | 3/19 | 20/20 | 15/16 |
-| 123 | new ac cost | `replacement-cost` | cost | brief topic list | 12 / 243,268 | 14 / 1,396,458 | 15 / 670,769 | 11 / 50,801 | 4/19 | 20/20 | 18/20 |
+| 123 | new ac cost | `replacement-cost` | cost | brief topic list | 11 / 273,812 | 14 / 1,396,458 | 13 / 644,660 | 10 / 65,458 | 4/19 | 20/20 | 18/20 |
 | 124 | new furnace cost | `replacement-cost` | cost | brief topic list, autocomplete | 9 / 59 | 19 / 544,755 | 15 / 64,648 | 17 / 627 | 2/19 | 20/20 | 18/20 |
 | 125 | beating the hvac industry | `scams-upsells` | they don't want you to know | known title | 16 / 2,811 | 9 / 646 | 6 / 684 | 1 / 88 | 0/9 | 7/7 | 1/1 |
 | 126 | duct cleaning scams | `scams-upsells` | they don't want you to know | autocomplete | 11 / 247,312 | 13 / 646,933 | 10 / 662 | 1 / 261 | 1/19 | 17/20 | 2/2 |
@@ -241,7 +243,7 @@ Long-form English results kept / median views of those, per sort. `year` and `mo
 | 134 | short cycling | `short-cycling` | problem symptom | brief topic list, autocomplete | 13 / 96,761 | 15 / 1,656,060 | 17 / 120,234 | 12 / 2,231 | 5/19 | 20/20 | 17/20 |
 | 135 | burning smell furnace | `smells` | problem symptom | brief topic list | 9 / 28,883 | 14 / 303,240 | 11 / 735 | 8 / 177 | 0/19 | 20/20 | 13/15 |
 | 136 | furnace smell | `smells` | problem symptom | brief topic list, autocomplete | 5 / 28,883 | 16 / 2,218,758 | 12 / 17,912 | 9 / 269 | 4/19 | 20/20 | 15/20 |
-| 137 | space heater | `space-heater` | plain topic | brief topic list, autocomplete | 20 / 1,636,782 | 17 / 5,244,071 | 15 / 405,114 | 17 / 106,887 | 3/19 | 17/20 | 18/20 |
+| 137 | space heater | `space-heater` | plain topic | brief topic list, autocomplete | 20 / 1,636,782 | 17 / 5,244,071 | 14 / 379,477 | 17 / 106,887 | 3/19 | 17/20 | 18/20 |
 | 138 | space heater vs central heat | `space-heater` | X vs Y | brief topic list, autocomplete | 9 / 19,092 | 14 / 1,111,226 | 13 / 44,169 | 16 / 234 | 1/19 | 20/20 | 19/20 |
 | 139 | space heater save money | `space-heater` | cheap hack | autocomplete | 11 / 1,063 | 17 / 1,006,781 | 17 / 51,584 | 16 / 1,044 | 1/19 | 20/20 | 18/20 |
 | 140 | turning your heat down | `thermostat` | plain topic | known title | 12 / 1,140 | 14 / 729,746 | 16 / 841 | 18 / 192 | 2/19 | 20/20 | 20/20 |
@@ -251,7 +253,7 @@ Long-form English results kept / median views of those, per sort. `year` and `mo
 | 144 | thermostat save money | `thermostat` | cheap hack | autocomplete | 7 / 98,899 | 15 / 412,706 | 13 / 16,683 | 11 / 795 | 5/19 | 20/20 | 17/20 |
 | 145 | what temperature should you set your thermostat | `thermostat` | myth | autocomplete | 5 / 129,066 | 14 / 1,431,712 | 19 / 83,219 | 12 / 747 | 3/19 | 20/20 | 20/20 |
 | 146 | thermal curtains | `windows` | plain topic | brief topic list, autocomplete | 9 / 2,098 | 11 / 243,350 | 15 / 11,609 | 10 / 200 | 2/19 | 20/20 | 19/20 |
-| 147 | window film | `windows` | plain topic | brief topic list, autocomplete | 14 / 320,819 | 18 / 2,904,373 | 18 / 228,234 | 17 / 207,838 | 5/19 | 20/20 | 18/20 |
+| 147 | window film | `windows` | plain topic | brief topic list, autocomplete | 14 / 320,819 | 14 / 2,525,032 | 17 / 216,459 | 17 / 207,838 | 5/19 | 20/20 | 18/20 |
 | 148 | pellet stove | `wood-stove` | plain topic | brief topic list, autocomplete | 18 / 53,316 | 15 / 2,045,141 | 14 / 133,472 | 9 / 91,981 | 4/19 | 20/20 | 17/20 |
 | 149 | wood stove | `wood-stove` | plain topic | brief topic list, autocomplete | 15 / 139,162 | 18 / 21,790,972 | 19 / 2,140,814 | 18 / 415,634 | 1/18 | 20/20 | 19/20 |
 | 150 | wood stove mistakes | `wood-stove` | mistakes | autocomplete | 18 / 57,048 | 17 / 1,368,087 | 18 / 151,760 | 18 / 15,700 | 3/19 | 20/20 | 20/20 |
@@ -340,8 +342,8 @@ The most-viewed kept long-form English result of each search.
 | whole house fan | month | "🔴No Need For Stool & Hands, Clean your Fan Easily In Minutes 😱\| Bathroom tiles cleaning tips" (Tips and Tricks with Hina, 329,049, `V5xmCgvx5rE`) |
 | boiler | relevance | "Limp Bizkit - Boiler (Official Music Video)" (limpbizkit, 93,572,265, `qex0OjXolzc`) |
 | boiler | views | "Limp Bizkit - Boiler (Official Music Video)" (limpbizkit, 93,572,265, `qex0OjXolzc`) |
-| boiler | year | "1st January \|\| পয়লা জানুয়ারি \|\| Bengali Best Funny Video 2025 \|\| Baccha Party School " (Baccha Party School , 30,314,679, `3QYVojJAz6w`) |
-| boiler | month | "LIVE : తిరుపతిలో భారీ పేలుడు \| Tirupati Sricity Boiler Blast : Injured in Massive Explosion \|UTVNews" (Its UTV News, 723,726, `IJ9fJhOUuNE`) |
+| boiler | year | "Novah \| Boiler Room x Teletech: London" (Boiler Room and Novah, 3,297,523, `t3dIgXOIuko`) |
+| boiler | month | "AEREA (live) \| Boiler Room: Maastricht" (Boiler Room and AEREA, 479,905, `KmhIx7xNxeg`) |
 | old house boiler | relevance | "How to Install a Combination Boiler/Water Heater \| Ask This Old House" (This Old House, 865,991, `BuxvKbIIYLU`) |
 | old house boiler | views | "Solomun \| Boiler Room: Tulum" (Boiler Room, 77,228,420, `bk6Xst6euQk`) |
 | old house boiler | year | "FREE Heating With Used Motor Oil? I Built This Waste Oil Heater" (Snowstead, 1,137,983, `nvgRcY40xX4`) |
@@ -385,7 +387,7 @@ The most-viewed kept long-form English result of each search.
 | best hvac brands | relevance | "STOP Buying This HVAC Brand" (The DIY HVAC Guy, 1,295,595, `x2BK-zr4raE`) |
 | best hvac brands | views | "Top 5 Things AC Companies Don't Want You To Know How To Do!" (How To Home, 2,979,991, `AQQH9QwC46A`) |
 | best hvac brands | year | "Best AC Under 30000 \| Best AC 2026 \| AC Buying Guide 2026" (Vineet Malhotra, 904,809, `Ax_ivx5AOGw`) |
-| best hvac brands | month | "Different Types of AC Systems Explained! உங்கள் வீட்டிற்கு எந்த AC Best?" (Ansari Architects, 50,037, `8VvwtgdYakI`) |
+| best hvac brands | month | "Ranking the Best and Worst HVAC Brands (2026 Update)" (Yarbrough & Sons Heating, Cooling & Plumbing, 13,687, `Kdk-nTX4FZg`) |
 | hvac brands to avoid | relevance | "STOP Buying the WRONG Air Conditioner Brands" (Atlas AC, 1,873,918, `r_uP9itJ0HQ`) |
 | hvac brands to avoid | views | "STOP Buying the WRONG Air Conditioner Brands" (Atlas AC, 1,873,918, `r_uP9itJ0HQ`) |
 | hvac brands to avoid | year | "The Only 4 AC Brands Worth Buying in 2026 (Everyone Else Is Overcharging You)" (Vent Exposed and 3 more, 670,769, `86S3ITbfzQY`) |
@@ -445,7 +447,7 @@ The most-viewed kept long-form English result of each search.
 | electric bill | relevance | "Who Broke Your Power Bill?" (Climate Town, 899,236, `3fDGcZ8qpPM`) |
 | electric bill | views | "'JUST THE TWO OF US' (GROVER WASHINGTON JNR - BILL WITHERS) cover by HSCC" (The Hindley Street Country Club, 40,504,078, `dS7kzPGkb3o`) |
 | electric bill | year | "Small plug-in solar panels gain traction as an affordable way to cut electricity bills" (PBS NewsHour and KQED, 3,057,508, `yVO9GcNlkLQ`) |
-| electric bill | month | "বিদ্যুৎ বিলের আতঙ্ক \| Electricity Bill \| Bangla Funny Video \| Family Entertainment bd \| Bangla Natok" (Family Entertainment Bd, 2,587,290, `zJNosjp9eiw`) |
+| electric bill | month | "Who Broke Your Power Bill?" (Climate Town, 899,236, `3fDGcZ8qpPM`) |
 | heating bill | relevance | "The Heating Bill \| Funny Episodes \| Mr Bean World" (Mr Bean World, 5,670,426, `5luF65i0kLc`) |
 | heating bill | views | "THIS is Why Your Heat Bill is So High! Rim Joist Insulation Technique!" (Home RenoVision DIY, 5,826,619, `J95l9Ue4224`) |
 | heating bill | year | "Genius AC Upgrade That Makes Air Colder And Bills Lower!" (How To Home, 1,769,523, `gQjotD-B0OU`) |
@@ -453,7 +455,7 @@ The most-viewed kept long-form English result of each search.
 | why is my electric bill so high | relevance | "Troubleshooting a High Electric Bill \| Ask This Old House" (This Old House, 352,976, `jjX5B8Txc7E`) |
 | why is my electric bill so high | views | "THIS is Why Your Heat Bill is So High! Rim Joist Insulation Technique!" (Home RenoVision DIY, 5,826,619, `J95l9Ue4224`) |
 | why is my electric bill so high | year | "This One Change Can Reduce Your Electricity Bill by 95%" (Keerthi, 1,159,215, `m8CQNYvjB_Q`) |
-| why is my electric bill so high | month | "Smart Meter लगते ही Electricity Bill 4X? - असली Reason क्या है?" (SolarSquare, 229,701, `VBLgbnDBhKA`) |
+| why is my electric bill so high | month | "The Real Reason Your Electric Bill Is So High" (Oliver Austria, 137,947, `oPlRVjB1MYM`) |
 | why is your heat bill so high | relevance | "THIS is Why Your Heat Bill is So High! Rim Joist Insulation Technique!" (Home RenoVision DIY, 5,826,619, `J95l9Ue4224`) |
 | why is your heat bill so high | views | "THIS is Why Your Heat Bill is So High! Rim Joist Insulation Technique!" (Home RenoVision DIY, 5,826,619, `J95l9Ue4224`) |
 | why is your heat bill so high | year | "This $8 Trick Cuts Your Electricity Bill in Half, And Nobody’s Aware Of It!" (WiseMoney, 331,860, `Y0teFh7cVrA`) |
@@ -716,7 +718,7 @@ The most-viewed kept long-form English result of each search.
 | keep your family warm during a power outage | month | "Government Says Prepare for Winter: Get These 10 Things Now" (Be Prepared UK, 357,057, `mtDx0ajdvq4`) |
 | ac capacitor | relevance | "How To Check & Replace An Air Conditioner Capacitor" (The DIY HVAC Guy, 2,393,744, `FQisFmMtAis`) |
 | ac capacitor | views | "Capacitors Explained - The basics how capacitors work working principle" (The Engineering Mindset, 11,078,034, `X4EUwTwZ110`) |
-| ac capacitor | year | "Multimeter चलाना सीखें (A to Z) \| How to use Digital Multimeter \| Multimeter Checking Hindi" (Technical Jugaad Hindi, 1,912,817, `LWMZma2E6LE`) |
+| ac capacitor | year | "Why Put A Capacitor Across The Diode? Here's Why!" (Mr Carlson's Lab, 1,237,056, `MUVLHRaYilU`) |
 | ac capacitor | month | "Resistor vs Capacitor vs Inductor — Why They Behave So Differently ?" (Prof MAD, 253,370, `5KQBgmvRHnA`) |
 | contactor | relevance | "Contactors: how we power the big stuff" (Technology Connections, 1,664,333, `VsNHrAzx5_w`) |
 | contactor | views | "Star Delta Starter Control Wiring Using Tense ERV-YU Timer \| @ElectricalTechnician" (Electrical Technician, 2,676,770, `_-efxckFkFw`) |
@@ -752,7 +754,7 @@ The most-viewed kept long-form English result of each search.
 | mini split cost installed | month | "$80 Wood Stove vs $900 Mini-Split: Which One Really Heats a Room Cheaper?" (Backyard Low Tech, 1,413, `vGvdKaUPEeQ`) |
 | new ac cost | relevance | "Best AC Buying Guide 2026 \| Monthy Electricity Bill \| Inverter vs Non-Inverter \| 3 Star vs 5 Star \|" (MR KNOWN, 757,609, `4_A_tGg6HrE`) |
 | new ac cost | views | "Learn SPLIT AC Servicing at Home full process \|\| Learn SPLIT AC Cleaning at home full process \|\|" (emm vlogs, 6,134,983, `XrMS3v4jZyM`) |
-| new ac cost | year | "Tesla New Solar Panel लांच : पूरी Solar Industry एक झटके में खत्म! 😱 Game Over? ⚡" (Deepak chaudhary Nexus solar energy, 5,836,908, `1WDLM5K0bVM`) |
+| new ac cost | year | "Panasonic AC 1.5 Ton 5 Star \| Best 1.5 Ton 5 Star AC \| Best AC 2026" (Vineet Malhotra, 3,243,403, `a93CLRfZSj4`) |
 | new ac cost | month | "ICG New Vacancy 2027 \| Cost Guard Eligibility, Age Limit, Online Form \| ICG GD DB Notification" (Rojgar with Ankit Defence, 353,518, `_AREZXhqxVM`) |
 | new furnace cost | relevance | "What is the BEST Furnace Brand to Get?" (Word of Advice TV, 91,302, `OLhZVaWH9Tw`) |
 | new furnace cost | views | "Is Geothermal Heating and Cooling Worth the Cost?  Heat Pumps Explained" (Undecided with Matt Ferrell, 3,682,327, `PI45yUhUWgk`) |
@@ -848,7 +850,7 @@ The most-viewed kept long-form English result of each search.
 | thermal curtains | month | "I Tested Window Film, Bubble Wrap & Thermal Curtains — Not Even Close" (Ivan’s Survival Journal and 3 more, 243,350, `e1f_psQ1zBs`) |
 | window film | relevance | "How To: Properly Apply Window Tint" (O'Reilly Auto Parts, 1,391,630, `B5KscTSk_5E`) |
 | window film | views | "Mindo Taseeldarni (Punjabi Movie) Karamjit Anmol \| Kavita Kaushik \| Harby Sangha \| Malkeet Rauni" (R R Records, 70,896,838, `aYF5x3fRpqk`) |
-| window film | year | "BINDU - बिंदू I ANJANA SINGH, JAY YADAV I BHOJPURI SUPERHIT FULL MOVIE" (BTS Bhojpuri Movies, 2,713,135, `n2Kp2bBxqwA`) |
+| window film | year | "I Found a Better Use for Dollar Tree Window Clings" (Loli Ds Creations, 1,005,388, `72RVsOBirMs`) |
 | window film | month | "Mazda CX50 Ceramic Window Tint" (Tint Studio, 543,213, `JY-xRWdxj9c`) |
 | pellet stove | relevance | "Everyone will be buying pellet stoves after learning this news" (Silver Cymbal, 1,403,139, `9d9TL02idO4`) |
 | pellet stove | views | "How To Make Homemade Manual Feed Pellet Machine Without Welding \| Simple Diy Feed Pellet Machine" (Diamleon Diy Builds, 4,749,265, `narp5klugCo`) |
@@ -865,11 +867,11 @@ The most-viewed kept long-form English result of each search.
 
 ## Channel tally
 
-**25,618 unique long-form English videos** from **13,708 channels**. **13,466 channels are NEW**: neither their channel ID nor their handle appears anywhere in `seeds/channel-finds-round1.md`, `seeds/leads-channels.md` or `seeds/known-channels-recheck.md` (a channel those files mention, even as a lead or a rejected candidate, counts as known). Of the top 100 below, 48 are NEW. Full list: `data/raw/sweep-channels-2026-10-24.csv`.
+**25,291 unique long-form English videos** from **13,486 channels**. **13,244 channels are NEW**: neither their channel ID nor their handle appears anywhere in `seeds/channel-finds-round1.md`, `seeds/leads-channels.md` or `seeds/known-channels-recheck.md` (a channel those files mention, even as a lead or a rejected candidate, counts as known). Of the top 100 below, 48 are NEW. Full list: `data/raw/sweep-channels-2026-10-24.csv`.
 
 Videos = distinct long-form English videos the sweep returned from the channel (all keywords, all sorts); total views = the sum of those videos' views. This measures how often the channel turns up in these searches, not its size. Many are off-niche channels that a broad keyword pulled in (reading).
 
-Most NEW channels are off-niche (one stray video). A rough cut on the HVAC-word title rule (see `formats.md`): **811 NEW channels have 3 or more returned videos with a home-HVAC word in the title, 281 have 5 or more.** These are the ones worth a round 3 look (reading).
+Most NEW channels are off-niche (one stray video). A rough cut on the HVAC-word title rule (see `formats.md`): **805 NEW channels have 3 or more returned videos with a home-HVAC word in the title, 278 have 5 or more.** These are the ones worth a round 3 look (reading).
 
 | # | Channel | Handle | Videos | HVAC-word videos | Total views | Median views | Last 12 mo | Topics | Biggest returned video (title, views, ID) | NEW |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---|---|
@@ -954,13 +956,13 @@ Most NEW channels are off-niche (one stray video). A rough cut on the HVAC-word 
 | 79 | Electro Demolish | @ElectroDemolish | 22 | 17 | 35,711,190 | 787,514 | 1 | 1 | "🇮🇳 Happy Independence Day Special \| 3 Ceiling Fans Combined \| Ultimate Wobble & Final Drop Test 🔥😱 ⭐" (9,170,051, `voOYrD1p4rE`) | NEW |
 | 80 | Anti DIY HVAC | @TedCookHVAC | 22 | 21 | 1,814,019 | 47,511 | 7 | 11 | "HVAC Scam Rip Off told customer furnace heat exchanger cracked" (333,510, `ouyl5Yp0zQg`) |  |
 | 81 | LRN2DIY | @LRN2DIY | 21 | 13 | 32,499,177 | 910,745 | 3 | 23 | "It's Been a Good Run, Drywall." (6,423,113, `uHGHeTzznhM`) |  |
-| 82 | emm vlogs | @emmvlogs | 21 | 10 | 19,629,194 | 39,779 | 11 | 9 | "Using ceiling Fan while using Air Conditioner Explained \| Benefits to Using AC with ceiling Fan" (7,544,999, `4qs6Sk8JbJE`) | NEW |
-| 83 | The Organic Chemistry Tutor | @TheOrganicChemistryTutor | 21 | 4 | 12,812,932 | 374,203 | 0 | 6 | "Specific Heat Capacity Problems & Calculations - Chemistry Tutorial - Calorimetry" (1,595,353, `ePm_N6RgLfk`) | NEW |
-| 84 | Roger Wakefield Plumbing Education | @RogerWakefield | 21 | 4 | 5,944,712 | 93,709 | 1 | 7 | "A NEW & FUN Way to Flush a Water Heater" (1,365,613, `2ikQ6Zuh7LA`) | NEW |
-| 85 | FCP Euro | @fcpeuro | 21 | 7 | 1,714,606 | 36,420 | 8 | 3 | "BMW N54 Water Pump and Thermostat - DIY, Symptoms, Tips, and Self Bleeding Procedure" (353,050, `g8qozaA0PJU`) | NEW |
-| 86 | Fire & Ice Home Services | @fireiceheatingandaircondit4363 | 21 | 20 | 1,600,311 | 25,353 | 0 | 15 | "Our Duct Cleaning Process from Start to Finish" (344,713, `L8yojsdz8EA`) | NEW |
-| 87 | Zach of All Trades | @zachofallskilledtrades | 21 | 11 | 803,986 | 13,806 | 10 | 3 | "5 Best and Worst Trade Jobs" (253,684, `kL_KZtQEK3U`) | NEW |
-| 88 | Exposi | @Exposerosi34 | 21 | 18 | 362,671 | 2,464 | 21 | 12 | "This SECRET AC Trick is Only Known by 1% of HVAC Technicians (USE THEM NOW)" (197,213, `F0ENEEqAyaE`) |  |
+| 82 | The Organic Chemistry Tutor | @TheOrganicChemistryTutor | 21 | 4 | 12,812,932 | 374,203 | 0 | 6 | "Specific Heat Capacity Problems & Calculations - Chemistry Tutorial - Calorimetry" (1,595,353, `ePm_N6RgLfk`) | NEW |
+| 83 | Roger Wakefield Plumbing Education | @RogerWakefield | 21 | 4 | 5,944,712 | 93,709 | 1 | 7 | "A NEW & FUN Way to Flush a Water Heater" (1,365,613, `2ikQ6Zuh7LA`) | NEW |
+| 84 | FCP Euro | @fcpeuro | 21 | 7 | 1,714,606 | 36,420 | 8 | 3 | "BMW N54 Water Pump and Thermostat - DIY, Symptoms, Tips, and Self Bleeding Procedure" (353,050, `g8qozaA0PJU`) | NEW |
+| 85 | Fire & Ice Home Services | @fireiceheatingandaircondit4363 | 21 | 20 | 1,600,311 | 25,353 | 0 | 15 | "Our Duct Cleaning Process from Start to Finish" (344,713, `L8yojsdz8EA`) | NEW |
+| 86 | Zach of All Trades | @zachofallskilledtrades | 21 | 11 | 803,986 | 13,806 | 10 | 3 | "5 Best and Worst Trade Jobs" (253,684, `kL_KZtQEK3U`) | NEW |
+| 87 | Exposi | @Exposerosi34 | 21 | 18 | 362,671 | 2,464 | 21 | 12 | "This SECRET AC Trick is Only Known by 1% of HVAC Technicians (USE THEM NOW)" (197,213, `F0ENEEqAyaE`) |  |
+| 88 | emm vlogs | @emmvlogs | 20 | 9 | 19,605,226 | 67,174 | 11 | 8 | "Using ceiling Fan while using Air Conditioner Explained \| Benefits to Using AC with ceiling Fan" (7,544,999, `4qs6Sk8JbJE`) | NEW |
 | 89 | Home Caprice | @homecapricehc | 20 | 18 | 1,799,676 | 25,038 | 3 | 13 | "Dry Mode in Air Conditioners Explained [Quick Overview]" (793,178, `ANcISCxrvTQ`) |  |
 | 90 | HVAC Training 101 | @HVACTraining101 | 20 | 19 | 947,907 | 31,432 | 0 | 11 | "How To Clean Window AC Unit Without Removing 🌬️  \| HVAC Training 101" (132,981, `GI6TBdRus_8`) | NEW |
 | 91 | Koolin’ with Krauss  | @KoolinwithKrauss | 20 | 17 | 537,725 | 12,079 | 8 | 12 | "Failed Honeywell Damper motor \| no AIR in bedroom \| HVAC" (122,476, `8T2co-Qughw`) |  |
@@ -1013,12 +1015,12 @@ Most NEW channels are off-niche (one stray video). A rough cut on the HVAC-word 
 | 33 | Jeff’s HVAC Adventures | @JeffsHVACAdventures | `UCsVYxwEvQIlB6b0MDDi7dpw` | 23 | 21 | 494,727 | 3 | "Quick Oil Boiler Service! Nozzle and Filter Change!" (114,625, `BQsSICx5H6g`) |
 | 34 | HVACmillionaire | @hvacmillionaire | `UCvqYNMZq4c2sTztlX7ZqeNg` | 23 | 23 | 287,236 | 11 | "HVAC beginner: Wiring a basic heat pump system" (196,026, `C-VyY1fkc7k`) |
 | 35 | Electro Demolish | @ElectroDemolish | `UCgfeKYGaAMAgaITBNGQ18sA` | 22 | 17 | 35,711,190 | 1 | "🇮🇳 Happy Independence Day Special \| 3 Ceiling Fans Combined \| Ultimate Wobble & Final Drop Test 🔥😱 ⭐" (9,170,051, `voOYrD1p4rE`) |
-| 36 | emm vlogs | @emmvlogs | `UCAlBwBSu9hrj1zULNahm4zg` | 21 | 10 | 19,629,194 | 11 | "Using ceiling Fan while using Air Conditioner Explained \| Benefits to Using AC with ceiling Fan" (7,544,999, `4qs6Sk8JbJE`) |
-| 37 | The Organic Chemistry Tutor | @TheOrganicChemistryTutor | `UCEWpbFLzoYGPfuWUMFPSaoA` | 21 | 4 | 12,812,932 | 0 | "Specific Heat Capacity Problems & Calculations - Chemistry Tutorial - Calorimetry" (1,595,353, `ePm_N6RgLfk`) |
-| 38 | Roger Wakefield Plumbing Education | @RogerWakefield | `UCGIMKh92vaL0_Yc0u4GYhHA` | 21 | 4 | 5,944,712 | 1 | "A NEW & FUN Way to Flush a Water Heater" (1,365,613, `2ikQ6Zuh7LA`) |
-| 39 | FCP Euro | @fcpeuro | `UCS49P-SYzk08DDs9wMi6TZg` | 21 | 7 | 1,714,606 | 8 | "BMW N54 Water Pump and Thermostat - DIY, Symptoms, Tips, and Self Bleeding Procedure" (353,050, `g8qozaA0PJU`) |
-| 40 | Fire & Ice Home Services | @fireiceheatingandaircondit4363 | `UCVdf0x94g-t4zIY5oGjma3g` | 21 | 20 | 1,600,311 | 0 | "Our Duct Cleaning Process from Start to Finish" (344,713, `L8yojsdz8EA`) |
-| 41 | Zach of All Trades | @zachofallskilledtrades | `UCIgwmAZ3giU5QVV882LdacA` | 21 | 11 | 803,986 | 10 | "5 Best and Worst Trade Jobs" (253,684, `kL_KZtQEK3U`) |
+| 36 | The Organic Chemistry Tutor | @TheOrganicChemistryTutor | `UCEWpbFLzoYGPfuWUMFPSaoA` | 21 | 4 | 12,812,932 | 0 | "Specific Heat Capacity Problems & Calculations - Chemistry Tutorial - Calorimetry" (1,595,353, `ePm_N6RgLfk`) |
+| 37 | Roger Wakefield Plumbing Education | @RogerWakefield | `UCGIMKh92vaL0_Yc0u4GYhHA` | 21 | 4 | 5,944,712 | 1 | "A NEW & FUN Way to Flush a Water Heater" (1,365,613, `2ikQ6Zuh7LA`) |
+| 38 | FCP Euro | @fcpeuro | `UCS49P-SYzk08DDs9wMi6TZg` | 21 | 7 | 1,714,606 | 8 | "BMW N54 Water Pump and Thermostat - DIY, Symptoms, Tips, and Self Bleeding Procedure" (353,050, `g8qozaA0PJU`) |
+| 39 | Fire & Ice Home Services | @fireiceheatingandaircondit4363 | `UCVdf0x94g-t4zIY5oGjma3g` | 21 | 20 | 1,600,311 | 0 | "Our Duct Cleaning Process from Start to Finish" (344,713, `L8yojsdz8EA`) |
+| 40 | Zach of All Trades | @zachofallskilledtrades | `UCIgwmAZ3giU5QVV882LdacA` | 21 | 11 | 803,986 | 10 | "5 Best and Worst Trade Jobs" (253,684, `kL_KZtQEK3U`) |
+| 41 | emm vlogs | @emmvlogs | `UCAlBwBSu9hrj1zULNahm4zg` | 20 | 9 | 19,605,226 | 11 | "Using ceiling Fan while using Air Conditioner Explained \| Benefits to Using AC with ceiling Fan" (7,544,999, `4qs6Sk8JbJE`) |
 | 42 | HVAC Training 101 | @HVACTraining101 | `UCWhFqsrrNfGWQnXSAVEAaZg` | 20 | 19 | 947,907 | 0 | "How To Clean Window AC Unit Without Removing 🌬️  \| HVAC Training 101" (132,981, `GI6TBdRus_8`) |
 | 43 | HVAC Greatness by Pete Ramsey | @HVACPete | `UCcv3wg9ehzTs3UNPtBM88Fg` | 20 | 19 | 129,287 | 2 | "Make $1 Million as a ONE-MAN HVAC Business Owner/Operator" (26,665, `YHP8Xw_zZjU`) |
 | 44 | My HVAC Life | @MYHVACLIFE | `UCBJ7O-VYUUHrKEQhuX9N7mg` | 20 | 15 | 83,404 | 9 | "RHEEM Heat pump on high pressure switch lock out." (18,243, `Qr0tpmRTgwI`) |
@@ -1072,36 +1074,36 @@ A video takes the topic of every keyword that returned it, so a video found by a
 
 | Topic | Code | Keywords searched | Videos | Only this topic | Channels | Median views | HVAC-word videos: n / median | Last 12 mo: videos / median | 3 biggest (title, channel, views, ID) |
 |---|---|---:|---:|---:|---:|---:|---|---|---|
-| Furnaces (gas) | `furnace` | 355 | 2,336 | 1,539 | 1,448 | 53,647 | 1,402 / 48,547 | 773 / 10,806 | "Fireplace Ambience – Cozy Fire for Relaxation & Background Viewing" (Fireplace Atmosphere, 166,006,610, `L_LUpnjgPso`)<br>"Aluminum and Mercury" (NileRed, 55,524,788, `IrdYueB9pY4`)<br>"12 HOURS of Relaxing Fireplace Sounds - Burning Fireplace & Crackling Fire Sounds (NO MUSIC)" (Cat Trumpet, 42,143,963, `UgHKb_7884o`) |
-| HVAC general | `hvac-general` | 317 | 2,303 | 1,346 | 854 | 26,665 | 1,680 / 23,620 | 676 / 5,450 | "How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"How to Fix a Car with No Heat (Easy)" (ChrisFix, 9,796,051, `-XjXTVJhFLM`) |
-| Insulation | `insulation` | 426 | 1,811 | 1,605 | 1,234 | 47,766 | 1,168 / 38,857 | 488 / 11,974 | "Turning cotton balls into cotton candy" (NileRed, 19,287,629, `vHuFizITMdA`)<br>"10 Beginner Mistakes Installing Vinyl Plank Flooring" (Fix This Build That, 15,713,486, `kvo-n2AYZnA`)<br>"Kodak Black - No Love For A Thug [Official Audio]" (Kodak Black, 14,306,645, `VWfhqWh9G2A`) |
-| Thermostats | `thermostat` | 356 | 1,534 | 1,303 | 1,096 | 36,328 | 1,002 / 35,820 | 339 / 2,721 | "*3 HOURS* Mark Adams BEST SHORTS OF 2023 \| Funny Marrkadams" (Yeap!, 12,431,298, `YSKstSLx3tk`)<br>"Car engine cooling system" (Sanya Tsvay, 8,859,691, `vRZu3-64yo0`)<br>"Turning Our Pool Into the World's Biggest Hot Tub!!!" (Beyond Family, 8,470,904, `kcBexIQ70ok`) |
-| Boilers, radiators, steam (old-house heat) | `boiler-steam` | 262 | 1,488 | 1,145 | 847 | 50,266 | 879 / 31,501 | 330 / 7,070 | "FULL MATCH: Roman Reigns vs. Randy Orton vs. Kane vs. John Cena –Title Match: WWE Battleground 2014" (WWE, 94,521,566, `wk5EeNzH17o`)<br>"Limp Bizkit - Boiler (Official Music Video)" (limpbizkit, 93,572,265, `qex0OjXolzc`)<br>"Solomun \| Boiler Room: Tulum" (Boiler Room, 77,228,502, `bk6Xst6euQk`) |
-| Filters | `filters` | 296 | 1,424 | 1,200 | 1,122 | 26,438 | 679 / 24,954 | 310 / 3,961 | "Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"How to Change EVERY FLUID in your Car or Truck (Oil, Transmission, Coolant, Brake, and More)" (ChrisFix, 14,646,599, `t7JCh7PHoDc`)<br>"How to Change Your Oil (COMPLETE Guide)" (ChrisFix, 12,855,661, `O1hF25Cowv8`) |
-| Space heaters | `space-heater` | 246 | 1,422 | 1,007 | 1,077 | 57,702 | 997 / 44,323 | 401 / 5,291 | "J Alvarez - Haters (Remix) [Official Music Video] ft. Bad Bunny, Almighty" (J Alvarez, 97,811,102, `9VgukIR8Qk8`)<br>"Don No. 1 - डॉन नंबर वन (4K ULTRA HD) Action Hindi Dubbed Full Movie \| Nagarjuna, Anushka Shetty" (Goldmines Dishoom, 34,763,989, `-2Z_-mLNgDs`)<br>"UNLIMITED Heat For Your Home \| NO ELECTRIC NEEDED" (Zen Garden Oasis, 12,939,348, `7LV5wY-iM34`) |
-| AC: central air | `ac-central` | 227 | 1,411 | 680 | 858 | 148,885 | 891 / 110,547 | 456 / 40,258 | "AC/DC - Thunderstruck (Live At River Plate, December 2009)" (AC/DC, 378,894,765, `n_GFN3a0yj0`)<br>"REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"AC/DC - Let There Be Rock (Live At River Plate, December 2009)" (AC/DC, 117,720,981, `O24AipZ-buQ`) |
-| Heat pumps | `heat-pump` | 286 | 1,323 | 711 | 665 | 41,923 | 1,100 / 39,004 | 327 / 7,208 | "Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"Would you swim in power plant wastewater?" (Tom Scott, 6,918,558, `OgMXjAQ5q14`) |
-| Parts homeowners touch (capacitors, contactors, igniters...) | `parts` | 232 | 1,310 | 983 | 800 | 68,804 | 919 / 69,632 | 190 / 9,674 | "How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"Capacitors Explained - The basics how capacitors work working principle" (The Engineering Mindset, 11,078,060, `X4EUwTwZ110`)<br>"Experiments with fan capacitor" (Let's See Inside, 10,449,175, `wRiNTWB3hrE`) |
-| Energy bills | `energy-bill` | 268 | 1,287 | 1,123 | 1,016 | 25,649 | 670 / 14,189 | 595 / 6,620 | "Masha And The Bear 🌞🏖 Summer Holidays🏖🌞 Best episodes cartoon collection 🎬" (Masha and The Bear, 435,536,745, `jCvSEuHms5M`)<br>"Why Are 96,000,000 Black Balls on This Reservoir?" (Veritasium, 112,818,293, `uxPdPpi5W4o`)<br>"'JUST THE TWO OF US' (GROVER WASHINGTON JNR - BILL WITHERS) cover by HSCC" (The Hindley Street Country Club, 40,504,078, `dS7kzPGkb3o`) |
-| Wood and pellet stoves, fireplaces | `wood-stove` | 163 | 1,079 | 975 | 755 | 65,842 | 747 / 53,262 | 301 / 20,523 | "Fireplace Ambience – Cozy Fire for Relaxation & Background Viewing" (Fireplace Atmosphere, 166,006,610, `L_LUpnjgPso`)<br>"12 HOURS of Relaxing Fireplace Sounds - Burning Fireplace & Crackling Fire Sounds (NO MUSIC)" (Cat Trumpet, 42,143,963, `UgHKb_7884o`)<br>"Outdoor wood stove from red brick and cement" (Creative Cement, 38,516,965, `EElfn2tYqmA`) |
-| Ceiling fans and fans | `ceiling-fan` | 210 | 919 | 774 | 634 | 82,023 | 681 / 81,868 | 228 / 17,114 | "REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"FAN WHITE NOISE \| Fall asleep, stay asleep (11 Hours)" (Relaxing White Noise, 51,199,807, `qorkD6nPYQM`)<br>"SML Movie: Jeffy's Bedtime" (SML, 37,597,774, `IWqTVk26T14`) |
-| HVAC scams, upsells, contractors | `scams-upsells` | 86 | 800 | 373 | 445 | 21,132 | 646 / 20,338 | 370 / 6,134 | "Oil change scams: Hidden camera investigation on what really happens to your car (CBC Marketplace)" (CBC News, 48,175,189, `-avpx8UTakI`)<br>"I Gave HACKED SCAMMERS a PANIC ATTACK On CCTV!" (Scam Sandwich, 13,674,344, `fhej9kABoyQ`)<br>"The NEW Tesla Roadster: My Honest Reaction" (Marques Brownlee and Auto Focus, 12,083,826, `scwlR0QHGOk`) |
-| Windows, film, curtains | `windows` | 114 | 769 | 716 | 581 | 116,809 | 331 / 71,348 | 241 / 35,297 | "Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation" (Relaxing Ambience ASMR, 141,067,168, `mPZkdNFkNps`)<br>"Mindo Taseeldarni (Punjabi Movie) Karamjit Anmol \| Kavita Kaushik \| Harby Sangha \| Malkeet Rauni" (R R Records, 70,896,838, `aYF5x3fRpqk`)<br>"BINDU I बिंदू  I ANJANA SINGH I NEW BHOJPURI MOVIE 2025" (B4U Bhojpuri, 58,061,857, `JbYFINBSGj8`) |
-| AC: window and portable | `ac-window` | 158 | 676 | 401 | 479 | 53,174 | 513 / 40,511 | 234 / 14,136 | "Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"$649 Dyson Fan vs. $15 Walmart Fan: The Hard Truth" (Mark Spurrell, 12,715,303, `dS0oFmzU06g`)<br>"A/C Buying Guide \| Inverter AC vs Non Inverter AC, Window AC vs Split AC, What is Ton & Star Rating?" (SidTalk, 10,772,005, `QNM9ASapu58`) |
-| Humidity, dehumidifiers, humidifiers | `humidity` | 165 | 652 | 555 | 481 | 17,248 | 520 / 12,921 | 210 / 2,030 | "Best fan placement to move air through the house" (Matthias random stuff, 11,467,376, `1L2ef1CP-yw`)<br>"Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"EASY - How to STOP CONDENSATION - Get Rid of Black Mold and Clean Mould" (Fixmyroof, 6,835,028, `Oj99RNY55Es`) |
-| Replacement cost, repair or replace | `replacement-cost` | 68 | 636 | 258 | 404 | 55,045 | 472 / 53,266 | 264 / 16,080 | "FISHER - Losing It - Live at Coachella 2019 Friday April 12, 2019" (Coachella, 78,770,021, `oUbpmjOgmmU`)<br>"Carl Cox @ Château de Chambord in France for Cercle" (Cercle, 17,882,305, `ZdAwiV4T22I`)<br>"How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`) |
+| Furnaces (gas) | `furnace` | 355 | 2,328 | 1,531 | 1,440 | 53,761 | 1,396 / 49,733 | 772 / 10,859 | "Fireplace Ambience – Cozy Fire for Relaxation & Background Viewing" (Fireplace Atmosphere, 166,006,610, `L_LUpnjgPso`)<br>"Aluminum and Mercury" (NileRed, 55,524,788, `IrdYueB9pY4`)<br>"12 HOURS of Relaxing Fireplace Sounds - Burning Fireplace & Crackling Fire Sounds (NO MUSIC)" (Cat Trumpet, 42,143,963, `UgHKb_7884o`) |
+| HVAC general | `hvac-general` | 317 | 2,300 | 1,344 | 851 | 26,526 | 1,679 / 23,605 | 675 / 5,464 | "How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"How to Fix a Car with No Heat (Easy)" (ChrisFix, 9,796,051, `-XjXTVJhFLM`) |
+| Insulation | `insulation` | 426 | 1,801 | 1,596 | 1,226 | 47,614 | 1,161 / 38,815 | 485 / 12,168 | "Turning cotton balls into cotton candy" (NileRed, 19,287,629, `vHuFizITMdA`)<br>"10 Beginner Mistakes Installing Vinyl Plank Flooring" (Fix This Build That, 15,713,486, `kvo-n2AYZnA`)<br>"Kodak Black - No Love For A Thug [Official Audio]" (Kodak Black, 14,306,645, `VWfhqWh9G2A`) |
+| Thermostats | `thermostat` | 356 | 1,530 | 1,299 | 1,092 | 36,328 | 999 / 35,896 | 339 / 2,721 | "*3 HOURS* Mark Adams BEST SHORTS OF 2023 \| Funny Marrkadams" (Yeap!, 12,431,298, `YSKstSLx3tk`)<br>"Car engine cooling system" (Sanya Tsvay, 8,859,691, `vRZu3-64yo0`)<br>"Turning Our Pool Into the World's Biggest Hot Tub!!!" (Beyond Family, 8,470,904, `kcBexIQ70ok`) |
+| Boilers, radiators, steam (old-house heat) | `boiler-steam` | 262 | 1,473 | 1,130 | 843 | 49,592 | 874 / 31,873 | 318 / 7,002 | "FULL MATCH: Roman Reigns vs. Randy Orton vs. Kane vs. John Cena –Title Match: WWE Battleground 2014" (WWE, 94,521,566, `wk5EeNzH17o`)<br>"Limp Bizkit - Boiler (Official Music Video)" (limpbizkit, 93,572,265, `qex0OjXolzc`)<br>"Solomun \| Boiler Room: Tulum" (Boiler Room, 77,228,502, `bk6Xst6euQk`) |
+| Filters | `filters` | 296 | 1,414 | 1,192 | 1,112 | 26,438 | 675 / 24,954 | 308 / 3,926 | "Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"How to Change EVERY FLUID in your Car or Truck (Oil, Transmission, Coolant, Brake, and More)" (ChrisFix, 14,646,599, `t7JCh7PHoDc`)<br>"How to Change Your Oil (COMPLETE Guide)" (ChrisFix, 12,855,661, `O1hF25Cowv8`) |
+| Space heaters | `space-heater` | 246 | 1,393 | 978 | 1,057 | 57,785 | 976 / 45,178 | 396 / 5,296 | "J Alvarez - Haters (Remix) [Official Music Video] ft. Bad Bunny, Almighty" (J Alvarez, 97,811,102, `9VgukIR8Qk8`)<br>"UNLIMITED Heat For Your Home \| NO ELECTRIC NEEDED" (Zen Garden Oasis, 12,939,348, `7LV5wY-iM34`)<br>"How to Make Room Heater At home" (DIY, 12,478,294, `OEdzXsloZ7I`) |
+| AC: central air | `ac-central` | 227 | 1,382 | 657 | 840 | 150,908 | 870 / 115,097 | 443 / 40,574 | "AC/DC - Thunderstruck (Live At River Plate, December 2009)" (AC/DC, 378,894,765, `n_GFN3a0yj0`)<br>"REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"AC/DC - Let There Be Rock (Live At River Plate, December 2009)" (AC/DC, 117,720,981, `O24AipZ-buQ`) |
+| Heat pumps | `heat-pump` | 286 | 1,321 | 709 | 663 | 41,923 | 1,099 / 39,005 | 327 / 7,208 | "Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"Would you swim in power plant wastewater?" (Tom Scott, 6,918,558, `OgMXjAQ5q14`) |
+| Parts homeowners touch (capacitors, contactors, igniters...) | `parts` | 232 | 1,293 | 966 | 784 | 68,449 | 909 / 69,429 | 185 / 9,626 | "How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"Capacitors Explained - The basics how capacitors work working principle" (The Engineering Mindset, 11,078,060, `X4EUwTwZ110`)<br>"Experiments with fan capacitor" (Let's See Inside, 10,449,175, `wRiNTWB3hrE`) |
+| Energy bills | `energy-bill` | 268 | 1,175 | 1,017 | 934 | 24,034 | 628 / 13,878 | 550 / 5,710 | "Masha And The Bear 🌞🏖 Summer Holidays🏖🌞 Best episodes cartoon collection 🎬" (Masha and The Bear, 435,536,745, `jCvSEuHms5M`)<br>"Why Are 96,000,000 Black Balls on This Reservoir?" (Veritasium, 112,818,293, `uxPdPpi5W4o`)<br>"'JUST THE TWO OF US' (GROVER WASHINGTON JNR - BILL WITHERS) cover by HSCC" (The Hindley Street Country Club, 40,504,078, `dS7kzPGkb3o`) |
+| Wood and pellet stoves, fireplaces | `wood-stove` | 163 | 1,077 | 973 | 753 | 65,842 | 747 / 53,262 | 300 / 20,494 | "Fireplace Ambience – Cozy Fire for Relaxation & Background Viewing" (Fireplace Atmosphere, 166,006,610, `L_LUpnjgPso`)<br>"12 HOURS of Relaxing Fireplace Sounds - Burning Fireplace & Crackling Fire Sounds (NO MUSIC)" (Cat Trumpet, 42,143,963, `UgHKb_7884o`)<br>"Outdoor wood stove from red brick and cement" (Creative Cement, 38,516,965, `EElfn2tYqmA`) |
+| Ceiling fans and fans | `ceiling-fan` | 210 | 892 | 747 | 612 | 81,946 | 665 / 80,021 | 220 / 17,114 | "REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"FAN WHITE NOISE \| Fall asleep, stay asleep (11 Hours)" (Relaxing White Noise, 51,199,807, `qorkD6nPYQM`)<br>"SML Movie: Jeffy's Bedtime" (SML, 37,597,774, `IWqTVk26T14`) |
+| HVAC scams, upsells, contractors | `scams-upsells` | 86 | 799 | 373 | 444 | 21,211 | 645 / 20,544 | 370 / 6,134 | "Oil change scams: Hidden camera investigation on what really happens to your car (CBC Marketplace)" (CBC News, 48,175,189, `-avpx8UTakI`)<br>"I Gave HACKED SCAMMERS a PANIC ATTACK On CCTV!" (Scam Sandwich, 13,674,344, `fhej9kABoyQ`)<br>"The NEW Tesla Roadster: My Honest Reaction" (Marques Brownlee and Auto Focus, 12,083,826, `scwlR0QHGOk`) |
+| Windows, film, curtains | `windows` | 114 | 761 | 708 | 573 | 115,856 | 330 / 71,153 | 240 / 34,902 | "Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation" (Relaxing Ambience ASMR, 141,067,168, `mPZkdNFkNps`)<br>"Mindo Taseeldarni (Punjabi Movie) Karamjit Anmol \| Kavita Kaushik \| Harby Sangha \| Malkeet Rauni" (R R Records, 70,896,838, `aYF5x3fRpqk`)<br>"The Weeknd - Coming Down" (The Weeknd, 56,840,874, `WVg1mbxTkFo`) |
+| AC: window and portable | `ac-window` | 158 | 657 | 388 | 462 | 52,688 | 502 / 39,868 | 230 / 13,732 | "Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"$649 Dyson Fan vs. $15 Walmart Fan: The Hard Truth" (Mark Spurrell, 12,715,303, `dS0oFmzU06g`)<br>"A/C Buying Guide \| Inverter AC vs Non Inverter AC, Window AC vs Split AC, What is Ton & Star Rating?" (SidTalk, 10,772,005, `QNM9ASapu58`) |
+| Humidity, dehumidifiers, humidifiers | `humidity` | 165 | 650 | 553 | 479 | 17,582 | 518 / 13,086 | 210 / 2,030 | "Best fan placement to move air through the house" (Matthias random stuff, 11,467,376, `1L2ef1CP-yw`)<br>"Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"EASY - How to STOP CONDENSATION - Get Rid of Black Mold and Clean Mould" (Fixmyroof, 6,835,028, `Oj99RNY55Es`) |
 | Mini-splits | `mini-split` | 161 | 635 | 331 | 374 | 55,808 | 563 / 54,462 | 142 / 13,037 | "Building a Tiny Office Pod Under My Stairs" (Man Made, 18,449,234, `b0npGI9WCzs`)<br>"How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`)<br>"7 FATAL Wiring Mistakes Most DIYers Don't Know They Are Making \| Most Are Guilty of 3" (How To Home, 12,129,104, `-jeP1d8PC1I`) |
-| Oil furnaces and oil heat | `oil-furnace` | 109 | 607 | 403 | 381 | 45,928 | 441 / 38,733 | 173 / 11,451 | "Millions of people do not know this knowledge! 3 in 1 waste oil heater! Warm for winter 2024" (Creative inventions LMTN, 14,876,623, `UawMGmg87ho`)<br>"Petroleum - Modern history of oil on a Map" (Geo History, 10,754,521, `xMQUGSrnbP8`)<br>"Steve Ballmer Explains The Cost of Oil" (USAFacts, 10,751,181, `KEiKy6mf2Ew`) |
-| Heat (and cooling) in a power outage | `outage-heat` | 78 | 599 | 396 | 429 | 64,613 | 428 / 45,480 | 303 / 18,783 | "The Most Misunderstood Concept in Physics" (Veritasium, 31,362,549, `DxL2HoqLbyA`)<br>"Winter Survival Shelter, Stay Warm Overnight With No Fire" (Scavenger Survival, 19,456,552, `lwv-vKYJV1o`)<br>"UNLIMITED Heat For Your Home \| NO ELECTRIC NEEDED" (Zen Garden Oasis, 12,939,348, `7LV5wY-iM34`) |
-| Ducts and vents | `ducts-vents` | 162 | 586 | 349 | 420 | 43,994 | 440 / 45,138 | 119 / 2,264 | "Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"How to Vent a Bath Fan Through the Roof \| This Old House" (This Old House, 4,555,765, `PqrZWd_CQIE`)<br>"How To Clean Your Dryer Vent Duct - Step By Step - It's Super Simple!" (AmplifyDIY, 3,803,747, `GLZSqhUoF_g`) |
-| Seasonal maintenance | `maintenance` | 81 | 585 | 222 | 364 | 37,017 | 446 / 31,808 | 253 / 7,860 | "Pitbull Mashup" (dk, 42,209,548, `lNUxJ6SL7T0`)<br>"Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"How to Properly Recharge Your AC System" (ChrisFix, 12,893,707, `Pdq8JAlct6s`) |
-| Brand verdicts | `brands` | 70 | 582 | 259 | 342 | 57,520 | 483 / 55,117 | 184 / 11,330 | "A/C Buying Guide \| Inverter AC vs Non Inverter AC, Window AC vs Split AC, What is Ton & Star Rating?" (SidTalk, 10,772,005, `QNM9ASapu58`)<br>"Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"How To Clean Your AC and Coils Like the Pros Do \| WILL Make Air Blow Colder" (How To Home, 5,631,712, `k7PSzi7NSyc`) |
-| Noises | `noises` | 115 | 556 | 315 | 322 | 78,570 | 290 / 39,324 | 112 / 19,292 | "White Noise Black Screen \| Sleep, Study, Focus \| 10 Hours" (Relaxing White Noise, 384,357,623, `nMfPqeZjc2c`)<br>"REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"FAN WHITE NOISE \| Fall asleep, stay asleep (11 Hours)" (Relaxing White Noise, 51,199,807, `qorkD6nPYQM`) |
-| Indoor air (purifiers, mold, CO) | `indoor-air` | 84 | 518 | 351 | 404 | 19,358 | 362 / 13,473 | 170 / 4,704 | "White Noise Black Screen \| Sleep, Study, Focus \| 10 Hours" (Relaxing White Noise, 384,357,623, `nMfPqeZjc2c`)<br>"REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"FAN WHITE NOISE \| Fall asleep, stay asleep (11 Hours)" (Relaxing White Noise, 51,199,807, `qorkD6nPYQM`) |
-| Drafts and weatherstripping | `drafts` | 80 | 512 | 479 | 396 | 39,196 | 248 / 23,392 | 202 / 8,452 | "The Secret Caulking Tip That Will Transform Your Ability!" (The Funny Carpenter, 16,789,508, `cQNIv2QqP00`)<br>"SPEED GOES PRO, EPISODE 1: TOM BRADY  (Football)" (IShowSpeed, 8,965,041, `5ZKLMLm2YLs`)<br>"FASTEST DRAFT TEAM!!" (Miniminter, 4,866,725, `0I-ARCNlxjg`) |
-| Refrigerant / Freon | `refrigerant` | 64 | 473 | 327 | 299 | 70,554 | 321 / 60,718 | 105 / 4,327 | "DAD Reacts to 11 Year old Son's CRINGE TIKTOKS!! 😂" (The Royalty Family, 63,418,912, `4SuPs7XrBW8`)<br>"12 Year old Son & Mom SWAP LIVES! *Instant Regret*" (The Royalty Family, 38,632,833, `ksJqjusYFt0`)<br>"How to Properly Recharge Your AC System" (ChrisFix, 12,893,707, `Pdq8JAlct6s`) |
+| Replacement cost, repair or replace | `replacement-cost` | 68 | 621 | 250 | 390 | 53,512 | 468 / 53,266 | 256 / 15,520 | "FISHER - Losing It - Live at Coachella 2019 Friday April 12, 2019" (Coachella, 78,770,021, `oUbpmjOgmmU`)<br>"Carl Cox @ Château de Chambord in France for Cercle" (Cercle, 17,882,305, `ZdAwiV4T22I`)<br>"How to Install a Ductless Mini-Split Air Conditioner - Blueridge" (alpinehomeair, 13,032,752, `DzVJiSQNbew`) |
+| Oil furnaces and oil heat | `oil-furnace` | 109 | 606 | 402 | 380 | 45,959 | 441 / 38,733 | 172 / 11,367 | "Millions of people do not know this knowledge! 3 in 1 waste oil heater! Warm for winter 2024" (Creative inventions LMTN, 14,876,623, `UawMGmg87ho`)<br>"Petroleum - Modern history of oil on a Map" (Geo History, 10,754,521, `xMQUGSrnbP8`)<br>"Steve Ballmer Explains The Cost of Oil" (USAFacts, 10,751,181, `KEiKy6mf2Ew`) |
+| Heat (and cooling) in a power outage | `outage-heat` | 78 | 598 | 395 | 428 | 65,324 | 428 / 45,480 | 303 / 18,783 | "The Most Misunderstood Concept in Physics" (Veritasium, 31,362,549, `DxL2HoqLbyA`)<br>"Winter Survival Shelter, Stay Warm Overnight With No Fire" (Scavenger Survival, 19,456,552, `lwv-vKYJV1o`)<br>"UNLIMITED Heat For Your Home \| NO ELECTRIC NEEDED" (Zen Garden Oasis, 12,939,348, `7LV5wY-iM34`) |
+| Ducts and vents | `ducts-vents` | 162 | 583 | 347 | 418 | 43,912 | 440 / 45,138 | 118 / 2,215 | "Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"How to Vent a Bath Fan Through the Roof \| This Old House" (This Old House, 4,555,765, `PqrZWd_CQIE`)<br>"How To Clean Your Dryer Vent Duct - Step By Step - It's Super Simple!" (AmplifyDIY, 3,803,747, `GLZSqhUoF_g`) |
+| Seasonal maintenance | `maintenance` | 81 | 579 | 218 | 359 | 37,017 | 444 / 31,808 | 252 / 7,814 | "Pitbull Mashup" (dk, 42,209,548, `lNUxJ6SL7T0`)<br>"Air Conditioner - 10 hours of relaxing ambient sounds asmr" (UnReal Asmr, 23,617,421, `OE9bF80KQGk`)<br>"How to Properly Recharge Your AC System" (ChrisFix, 12,893,707, `Pdq8JAlct6s`) |
+| Brand verdicts | `brands` | 70 | 575 | 256 | 337 | 58,800 | 479 / 55,427 | 180 / 10,762 | "A/C Buying Guide \| Inverter AC vs Non Inverter AC, Window AC vs Split AC, What is Ton & Star Rating?" (SidTalk, 10,772,005, `QNM9ASapu58`)<br>"Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10,388,788, `_-mBeYC2KGc`)<br>"How To Clean Your AC and Coils Like the Pros Do \| WILL Make Air Blow Colder" (How To Home, 5,631,712, `k7PSzi7NSyc`) |
+| Noises | `noises` | 115 | 553 | 313 | 319 | 80,066 | 288 / 39,590 | 111 / 19,546 | "White Noise Black Screen \| Sleep, Study, Focus \| 10 Hours" (Relaxing White Noise, 384,357,623, `nMfPqeZjc2c`)<br>"REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"FAN WHITE NOISE \| Fall asleep, stay asleep (11 Hours)" (Relaxing White Noise, 51,199,807, `qorkD6nPYQM`) |
+| Indoor air (purifiers, mold, CO) | `indoor-air` | 84 | 513 | 347 | 400 | 19,304 | 360 / 13,502 | 169 / 4,567 | "White Noise Black Screen \| Sleep, Study, Focus \| 10 Hours" (Relaxing White Noise, 384,357,623, `nMfPqeZjc2c`)<br>"REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"FAN WHITE NOISE \| Fall asleep, stay asleep (11 Hours)" (Relaxing White Noise, 51,199,807, `qorkD6nPYQM`) |
+| Drafts and weatherstripping | `drafts` | 80 | 508 | 475 | 393 | 38,954 | 247 / 23,356 | 202 / 8,452 | "The Secret Caulking Tip That Will Transform Your Ability!" (The Funny Carpenter, 16,789,508, `cQNIv2QqP00`)<br>"SPEED GOES PRO, EPISODE 1: TOM BRADY  (Football)" (IShowSpeed, 8,965,041, `5ZKLMLm2YLs`)<br>"FASTEST DRAFT TEAM!!" (Miniminter, 4,866,725, `0I-ARCNlxjg`) |
+| Refrigerant / Freon | `refrigerant` | 64 | 471 | 325 | 297 | 72,124 | 319 / 60,923 | 103 / 4,314 | "DAD Reacts to 11 Year old Son's CRINGE TIKTOKS!! 😂" (The Royalty Family, 63,418,912, `4SuPs7XrBW8`)<br>"12 Year old Son & Mom SWAP LIVES! *Instant Regret*" (The Royalty Family, 38,632,833, `ksJqjusYFt0`)<br>"How to Properly Recharge Your AC System" (ChrisFix, 12,893,707, `Pdq8JAlct6s`) |
 | Keeping the house warm cheaply | `keep-warm` | 49 | 425 | 217 | 344 | 105,539 | 281 / 63,011 | 220 / 28,706 | "Dugout Shelter Under 10ft (3m) of Snow - Solo Camping in Survival Shelter During Snow Storm" (Outdoor Boys, 97,243,887, `wcDFgir_jgY`)<br>"Camping Under the Snow in Hot Tent - Heated Snow Shelter & Sledding Hill of Death" (Outdoor Boys, 26,940,980, `A6v5Vj6h_fQ`)<br>"Camping Under the Snow in Survival Shelter" (Outdoor Boys, 18,134,489, `PTnrqkMpfj8`) |
-| Condenser and coil cleaning | `coil-cleaning` | 73 | 397 | 214 | 285 | 84,936 | 304 / 77,576 | 83 / 11,365 | "How to Properly Recharge Your AC System" (ChrisFix, 12,893,707, `Pdq8JAlct6s`)<br>"How to Flush a Heater Core (Fast)" (ChrisFix, 11,173,633, `M9SIafVsqyc`)<br>"How to Recharge Your Car's AC System (Fast and Easy)" (ChrisFix, 10,771,363, `SHg2xRMnM38`) |
+| Condenser and coil cleaning | `coil-cleaning` | 73 | 394 | 212 | 283 | 85,334 | 303 / 78,518 | 82 / 11,135 | "How to Properly Recharge Your AC System" (ChrisFix, 12,893,707, `Pdq8JAlct6s`)<br>"How to Flush a Heater Core (Fast)" (ChrisFix, 11,173,633, `M9SIafVsqyc`)<br>"How to Recharge Your Car's AC System (Fast and Easy)" (ChrisFix, 10,771,363, `SHg2xRMnM38`) |
 | Keeping the house cool (no-AC tricks) | `keep-cool` | 51 | 349 | 276 | 280 | 224,914 | 194 / 31,082 | 166 / 11,756 | "HOT VS COLD Challenge Ryan vs Daddy 1hr Kids Show" (Ryan's World, 116,259,579, `SCyFBeIgaDc`)<br>"INCREDIBLE ROOM MAKEOVER IDEAS \|\| Low-Budget Decor Crafts" (5-Minute Crafts, 76,850,950, `OGvhmFZwY0s`)<br>"Jason plays the Hot and Cold Challenge" (Jason Vlogs, 65,645,927, `o1cW9Cv3rWM`) |
 | Attic fans, whole-house fans, hot attics | `attic-fan` | 91 | 333 | 200 | 255 | 55,262 | 283 / 44,125 | 137 / 2,625 | "REALLY AWESOME FAN SOUND FOR SLEEP \| White Noise For Superb Slumber, Studying & Relaxation" (Relaxing White Noise, 125,772,335, `C5Gm8UvxKlU`)<br>"I Turned My House Into a Trampoline Park!" (Unspeakable, 79,772,408, `lSSWH4NOdgE`)<br>"There's Something LIVING in our Attic" (The Royalty Family, 25,008,610, `NLPkz9TJNP8`) |
 | Geothermal | `geothermal` | 43 | 294 | 229 | 222 | 46,382 | 198 / 48,582 | 83 / 30,745 | "BEAUTIFUL PLANET \| The most beautiful places on Earth" (Lifeder, 17,165,124, `ExJf59ankJo`)<br>"Could Solar Storms Destroy Civilization? Solar Flares & Coronal Mass Ejections" (Kurzgesagt – In a Nutshell, 15,421,439, `oHHSSJDJ4oo`)<br>"How does a Thermal power plant work?" (Sabin Civil Engineering, 7,361,642, `IdPTuwKEfmA`) |
