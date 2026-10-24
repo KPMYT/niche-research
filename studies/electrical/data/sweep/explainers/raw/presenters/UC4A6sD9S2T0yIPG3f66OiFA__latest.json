@@ -1,0 +1,37 @@
+{
+ "channel": "mriol mro",
+ "id": "UC4A6sD9S2T0yIPG3f66OiFA",
+ "handle": "http://www.youtube.com/@mriolmro",
+ "description": "",
+ "subs": null,
+ "videos_count": "2 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "lyI0K-p8J8I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 Things a Firefighter Would NEVER Have In His Bedroom",
+   "dur": "11:14",
+   "meta": [
+    "0",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "2w ago"
+  },
+  {
+   "id": "tnf-UolbCs8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "POV: You're on a Bus Watching the World Go By",
+   "dur": "3:02",
+   "meta": [
+    "0",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "1mo ago"
+  }
+ ]
+}

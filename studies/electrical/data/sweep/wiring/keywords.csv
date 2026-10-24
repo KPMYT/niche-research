@@ -1,32 +1,32 @@
 keyword,source,sorts_run,relevant_long,relevant_short
-outlet wiring mistakes,"brief: wiring mistakes, outlets",month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),89,13
+outlet wiring mistakes,"brief: wiring mistakes, outlets",month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),92,14
 wiring mistakes homeowners make,brief + homeowner phrasing,month(1p) relevance(2p) views(3p) views_year(2p),49,10
 DIY electrical mistakes,brief: DIY electrical mistakes in general,month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),63,8
-how to replace an outlet,brief: replacing outlets,month(1p) relevance(2p) views(3p) views_year(2p),77,28
-how to wire a light switch,brief: wiring switches,month(1p) relevance(2p) views(3p) views_year(2p),71,28
-backstab outlet,brief: backstab,month(1p) relevance(2p) views(3p) views_year(2p),46,26
-loose outlet fix,brief: loose outlets,month(1p) relevance(2p) views(3p) views_year(2p),40,27
-outlet warm to touch,brief: warm outlets,month(1p) relevance(2p) views(3p) views_year(2p),18,25
-outlet sparks when plugging in,brief: sparking,month(1p) relevance(2p) views(3p) views_year(2p),19,21
-GFCI keeps tripping,brief: GFCI tripping,month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),81,53
-GFCI won't reset,brief: GFCI won't reset,month(1p) relevance(2p) views(3p) views_year(2p),31,46
+how to replace an outlet,brief: replacing outlets,month(1p) relevance(2p) views(3p) views_year(2p),79,33
+how to wire a light switch,brief: wiring switches,month(1p) relevance(2p) views(3p) views_year(2p),71,29
+backstab outlet,brief: backstab,month(1p) relevance(2p) views(3p) views_year(2p),47,26
+loose outlet fix,brief: loose outlets,month(1p) relevance(2p) views(3p) views_year(2p),51,38
+outlet warm to touch,brief: warm outlets,month(1p) relevance(2p) views(3p) views_year(2p),19,27
+outlet sparks when plugging in,brief: sparking,month(1p) relevance(2p) views(3p) views_year(2p),21,29
+GFCI keeps tripping,brief: GFCI tripping,month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),81,54
+GFCI won't reset,brief: GFCI won't reset,month(1p) relevance(2p) views(3p) views_year(2p),31,50
 where is GFCI required,brief: where required,month(1p) relevance(2p) views(3p) views_year(2p),57,35
-AFCI breaker keeps tripping,brief: AFCI tripping,month(1p) relevance(2p) views(3p) views_year(2p),67,51
+AFCI breaker keeps tripping,brief: AFCI tripping,month(1p) relevance(2p) views(3p) views_year(2p),67,52
 wire nuts vs wago,brief: connectors (labels.md x-vs-y example),month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),79,40
-how to use wire nuts correctly,brief: wire nuts,month(1p) relevance(2p) views(3p) views_year(2p),43,39
+how to use wire nuts correctly,brief: wire nuts,month(1p) relevance(2p) views(3p) views_year(2p),43,41
 crimp vs solder wire connection,"brief: crimp, solder",month(1p) relevance(2p) views(3p) views_year(2p),23,23
 electrical tape mistakes,brief: electrical tape,month(1p) relevance(2p) views(3p) views_year(2p),30,8
-things electricians never do,brief: things electricians never do,month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),30,4
+things electricians never do,brief: things electricians never do,month(1p) relevance(2p) views(3p) views_long(1p) views_year(2p),32,4
 electrical problems in every house,brief: see in every house,month(1p) relevance(2p) views(3p) views_year(2p),44,14
 how to wire a 3 way switch,homeowner phrasing (switches),month(1p) relevance(2p) views(3p) views_year(2p),79,20
-outlet not working,homeowner phrasing,month(1p) relevance(2p) views(3p) views_year(2p),64,30
-how to install GFCI outlet,brief: GFCI + how-to,month(1p) relevance(2p) views(3p) views_year(2p),92,33
-dangerous wiring found in house,homeowner phrasing (wiring mistakes),month(1p) relevance(2p) views(3p) views_year(2p),37,16
-never do this electrical,homeowner phrasing (task example),month(1p) relevance(2p) views(3p) views_year(2p),28,17
+outlet not working,homeowner phrasing,month(1p) relevance(2p) views(3p) views_year(2p),65,31
+how to install GFCI outlet,brief: GFCI + how-to,month(1p) relevance(2p) views(3p) views_year(2p),94,33
+dangerous wiring found in house,homeowner phrasing (wiring mistakes),month(1p) relevance(2p) views(3p) views_year(2p),38,16
+never do this electrical,homeowner phrasing (task example),month(1p) relevance(2p) views(3p) views_year(2p),28,19
 wago connectors,"mined: results titles (Silver Cymbal ""Never use Wire Nuts Again - Wago"", GreatScott Wire Nut VS Wago)",month(1p) relevance(2p) views(3p) views_year(2p),57,36
 push in vs side wire outlet,"mined: How To Home ""Push Ins Vs. Wago Vs. Wirenuts"" + brief backstab",month(1p) relevance(2p) views(3p) views_year(2p),38,13
-how to add an outlet,"mined: Everyday Home Repairs ""How To Add An Outlet To A Finished Wall"" (13.2M)",month(1p) relevance(2p) views(3p) views_year(2p),86,24
-sunken outlet fix,"mined: How To Home ""Ingenious Sunken Outlet Fixes"", EHR ""How To Fix Sunken Outlet""",month(1p) relevance(2p) views(3p) views_year(2p),34,24
-plug won't stay in outlet,"mined: EHR ""Plug Won't Stay In Outlet"" (2.5M) + brief loose outlets",month(1p) relevance(2p) views(3p) views_year(2p),23,17
-replace 2 prong outlet with 3 prong,"mined: EHR ""Replace An Old 2 Prong Outlet Using 3 Prong GFCI"", This Old House ground two-prong",month(1p) relevance(2p) views(3p) views_year(2p),54,19
-electrician reacts worst DIY wiring,"homeowner/viewer phrasing (""see in every house""), reaction format check",month(1p) relevance(2p) views(3p) views_year(2p),9,3
+how to add an outlet,"mined: Everyday Home Repairs ""How To Add An Outlet To A Finished Wall"" (13.2M)",month(1p) relevance(2p) views(3p) views_year(2p),87,25
+sunken outlet fix,"mined: How To Home ""Ingenious Sunken Outlet Fixes"", EHR ""How To Fix Sunken Outlet""",month(1p) relevance(2p) views(3p) views_year(2p),35,24
+plug won't stay in outlet,"mined: EHR ""Plug Won't Stay In Outlet"" (2.5M) + brief loose outlets",month(1p) relevance(2p) views(3p) views_year(2p),33,25
+replace 2 prong outlet with 3 prong,"mined: EHR ""Replace An Old 2 Prong Outlet Using 3 Prong GFCI"", This Old House ground two-prong",month(1p) relevance(2p) views(3p) views_year(2p),62,29
+electrician reacts worst DIY wiring,"homeowner/viewer phrasing (""see in every house""), reaction format check",month(1p) relevance(2p) views(3p) views_year(2p),9,4
