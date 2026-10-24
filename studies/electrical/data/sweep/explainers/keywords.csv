@@ -1,0 +1,54 @@
+keyword,source,sorts_run,relevant_long,relevant_short,group
+why do plugs have holes,brief topic list (why plugs have holes),relevance(2p);views(3p);views_year(2p);month(1p),43,39,A
+why do plugs have three prongs,brief topic list (prongs),relevance(2p);views(3p);views_year(2p);month(1p),49,48,A
+why is one prong bigger than the other,homeowner phrasing (polarized plug),relevance(2p);views(3p);views_year(2p);month(1p),20,12,A
+volts amps watts explained,brief topic list; Apprentice's Guide winner title,relevance(2p);views(3p);views_year(2p);month(1p),59,19,A
+how electricity works in your house,brief topic list,relevance(2p);views(3p);views_year(2p);month(1p);views_long(1p),79,12,A
+how does electricity get to your house,homeowner phrasing,relevance(2p);views(3p);views_year(2p);month(1p),48,14,A
+what does the neutral wire do,brief topic list (neutral),relevance(2p);views(3p);views_year(2p);month(1p);views_long(1p),88,23,A
+what does the ground wire do,brief topic list (ground),relevance(2p);views(3p);views_year(2p);month(1p);views_long(1p),74,26,A
+why does america use 120 volts,brief topic list (why 120V),relevance(2p);views(3p);views_year(2p);month(1p),40,11,A
+why 60 hz,brief topic list (60 Hz),relevance(2p);views(3p);views_year(2p);month(1p),15,3,A
+what happens when you touch a live wire,brief topic list (what happens when / shocks),relevance(2p);views(3p);views_year(2p);month(1p),25,40,A
+how much current can kill you,brief topic list (shocks and why they kill),relevance(2p);views(3p);views_year(2p);month(1p),7,4,A
+why electric shock kills,brief topic list (shocks),relevance(2p);views(3p);views_year(2p);month(1p),27,39,A
+how a circuit breaker works,homeowner phrasing (explainer),relevance(2p);views(3p);views_year(2p);month(1p),60,27,A
+how does a gfci outlet work,homeowner phrasing (explainer),relevance(2p);views(3p);views_year(2p);month(1p),86,47,A
+what is a short circuit,homeowner phrasing (explainer),relevance(2p);views(3p);views_year(2p);month(1p),15,37,A
+why birds don't get shocked on power lines,curiosity phrasing (common explainer),relevance(2p);views(3p);views_year(2p);month(1p),41,51,A
+120v vs 240v explained,homeowner phrasing (x-vs-y explainer),relevance(2p);views(3p);views_year(2p);month(1p),36,12,A
+ground pin up or down outlet,homeowner phrasing (outlet orientation curiosity),relevance(2p);views(3p);views_year(2p);month(1p),22,19,A
+electricity explained,generic explainer phrasing,relevance(2p);views(3p);views_year(2p);month(1p);views_long(1p),59,8,A
+what happens when you overload a circuit,brief topic list (what happens when tests),relevance(2p);views(3p);views_year(2p);month(1p),24,22,A
+how your electrical panel works,homeowner phrasing,relevance(2p);views(3p);views_year(2p);month(1p),80,20,A
+electrical myths,myth-bust phrasing,relevance(2p);views(3p);views_year(2p);month(1p),49,26,A
+what happens when lightning strikes a house,curiosity phrasing (what happens when),relevance(2p);views(3p);views_year(2p);month(1p),14,61,A
+series vs parallel circuits explained,Apprentice's Guide title (labels/census),relevance(2p);views(3p);views_year(2p);month(1p),31,21,A
+retired electrician outlet mistakes,task brief example,relevance(2p);views(3p);views_year(2p);month(1p),23,10,B
+retired electrician warns,presenter-trade phrasing,relevance(2p);views(3p);views_year(2p);month(1p),26,2,B
+electrician explains,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p);views_long(1p),57,17,B
+master electrician homeowner mistakes,task brief keyword (master electrician),relevance(2p);views(3p);views_year(2p);month(1p),36,8,B
+electrician reacts diy wiring,presenter-trade phrasing (reaction format),relevance(2p);views(3p);views_year(2p);month(1p),30,10,B
+lineman explains,task brief keyword (lineman),relevance(2p);views(3p);views_year(2p);month(1p),30,22,B
+retired lineman,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),17,7,B
+lineman generator backfeed,presenter-trade + generator safety,relevance(2p);views(3p);views_year(2p);month(1p),32,12,B
+retired utility worker electric bill,task brief keyword (utility worker) + topic,relevance(2p);views(3p);views_year(2p);month(1p),11,7,B
+utility worker explains,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),4,2,B
+firefighter warns,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),31,58,B
+firefighter never plug in,task brief example,relevance(2p);views(3p);views_year(2p);month(1p),21,12,B
+retired firefighter house fire,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),30,54,B
+firefighter explains how house fires start,presenter-trade + fire-habits,relevance(2p);views(3p);views_year(2p);month(1p),18,17,B
+firefighter space heater,presenter-trade + space heaters,relevance(2p);views(3p);views_year(2p);month(1p),23,95,B
+firefighter lithium battery fire,presenter-trade + batteries,relevance(2p);views(3p);views_year(2p);month(1p),28,62,B
+fire investigator electrical fire,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),25,56,B
+fire investigator explains,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),18,26,B
+fire inspector home safety,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),58,51,B
+fire marshal warns,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),21,70,B
+fire marshal extension cord,presenter-trade + cords,relevance(2p);views(3p);views_year(2p);month(1p),20,77,B
+home inspector electrical problems,task brief example,relevance(2p);views(3p);views_year(2p);month(1p),65,35,B
+home inspector reveals,presenter-trade phrasing,relevance(2p);views(3p);views_year(2p);month(1p),35,61,B
+electrical inspector,task brief keyword,relevance(2p);views(3p);views_year(2p);month(1p),62,24,B
+electrical inspection fail,presenter-trade phrasing (inspector),relevance(2p);views(3p);views_year(2p);month(1p),73,24,B
+retired fire chief,presenter-trade phrasing (fire chief ~ marshal),relevance(2p);views(3p);views_year(2p);month(1p),13,17,B
+firefighter dryer vent,presenter-trade + dryer vents,relevance(2p);views(3p);views_year(2p);month(1p),20,75,B
+electrician never do this,presenter-trade phrasing,relevance(2p);views(3p);views_year(2p);month(1p),56,9,B

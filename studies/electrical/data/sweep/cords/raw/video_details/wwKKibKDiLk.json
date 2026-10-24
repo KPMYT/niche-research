@@ -1,0 +1,290 @@
+{
+ "id": "wwKKibKDiLk",
+ "title": "What Surge Protectors Actually Do (and What They Don’t)",
+ "channel": "Electrician U",
+ "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+ "views": 221306,
+ "date": "Oct 13, 2025",
+ "up_next": [
+  {
+   "id": "ZOzhwqd70MU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Watch Me Work: Whole-Home Surge Protector Installation",
+   "dur": "13:15",
+   "meta": [
+    "Palmer Electrical",
+    "106K",
+    "2mo ago"
+   ],
+   "channel_id": "UC2gFFKkP_fy-eRMnlcYFHPA",
+   "views": 106000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "T37V63EQdh8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Install a Surge Protector in Main Panel - Best SPD Location & NEC Type 1, 2, 3, & 4 Explained",
+   "dur": "25:53",
+   "meta": [
+    "Benjamin Sahlstrom",
+    "366K",
+    "4y ago"
+   ],
+   "channel_id": "UC-Z9UcrgFzJIg49LtJFc_kg",
+   "views": 366000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Px_SYXzatR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does The Neutral Wire Actually Do?",
+   "dur": "25:12",
+   "meta": [
+    "Weirdward Bound",
+    "236K",
+    "9d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 236000,
+   "age": "9d ago"
+  },
+  {
+   "id": "kazkHkwoVZ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Siemens FSPD140 vs Siemens FS140 Surge Protectors",
+   "dur": "14:21",
+   "meta": [
+    "empdoctor",
+    "40K",
+    "2y ago"
+   ],
+   "channel_id": "UCFirUQUjZ0baKYfIqTb3XSg",
+   "views": 40000,
+   "age": "2y ago"
+  },
+  {
+   "id": "oDuffo_zTHw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Circuit Breaker Trips Constantly? Don't Make This Fatal Mistake",
+   "dur": "12:32",
+   "meta": [
+    "Wade Harlan",
+    "5.2K",
+    "2mo ago"
+   ],
+   "channel_id": "UCZQSSxmEkKoj98WcTQX8mTQ",
+   "views": 5200,
+   "age": "2mo ago"
+  },
+  {
+   "id": "No54Xu3moMQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Whole Home Surge Protectors Are Now Required and How To Install One!  Siemens FS140",
+   "dur": "13:44",
+   "meta": [
+    "How To Home",
+    "638K",
+    "3y ago"
+   ],
+   "channel_id": "UCpb-xu6Oun_d41RjztUgFWA",
+   "views": 638000,
+   "age": "3y ago"
+  },
+  {
+   "id": "ffO4xVOU1oI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Volts, Amps & Watts Explained — and Which One Kills You",
+   "dur": "13:00",
+   "meta": [
+    "The Apprentice's Guide",
+    "821K",
+    "1mo ago"
+   ],
+   "channel_id": "UCMXN-53SCPpYxmYSvFOjz2g",
+   "views": 821000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "_nG4RpGWcFk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Plug-In Surge Protection with Square D",
+   "dur": "8:03",
+   "meta": [
+    "abrelectric",
+    "32K",
+    "1y ago"
+   ],
+   "channel_id": "UCSCFGq_CgRNnmaTtjiLZ-5A",
+   "views": 32000,
+   "age": "1y ago"
+  },
+  {
+   "id": "FDnwU2rv6o4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Everything You Need to Know About Electrical Panels",
+   "dur": "25:18",
+   "meta": [
+    "Electrician U",
+    "164K",
+    "1y ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 164000,
+   "age": "1y ago"
+  },
+  {
+   "id": "eagOP0bRePM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The One Install Everyone Should Consider Before It's Too Late! (Proper Generator Connection)",
+   "dur": "15:54",
+   "meta": [
+    "How To Home",
+    "259K",
+    "3w ago"
+   ],
+   "channel_id": "UCpb-xu6Oun_d41RjztUgFWA",
+   "views": 259000,
+   "age": "3w ago"
+  },
+  {
+   "id": "-sIzYjagX28",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solid VS. Stranded Wire — Why Do Electricians Use Both?",
+   "dur": "25:56",
+   "meta": [
+    "Weirdward Bound",
+    "160K",
+    "3w ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 160000,
+   "age": "3w ago"
+  },
+  {
+   "id": "6QEYg4wX70E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do We Bond at the Service Panel and Not a Subpanel?",
+   "dur": "19:46",
+   "meta": [
+    "Electrician U",
+    "1.5M",
+    "4y ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 1500000,
+   "age": "4y ago"
+  },
+  {
+   "id": "cSs3Vd-GmTQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Do surge protectors really work?",
+   "dur": "20:43",
+   "meta": [
+    "ScottiesTech.Info",
+    "108K",
+    "3y ago"
+   ],
+   "channel_id": "UCwwVQFDR6cVQE1cybJHrvoQ",
+   "views": 108000,
+   "age": "3y ago"
+  },
+  {
+   "id": "pUjzn-J97OY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Protecting My Whole Home From Electrical Surge",
+   "dur": "23:47",
+   "meta": [
+    "Electric Pro Academy",
+    "82K",
+    "4y ago"
+   ],
+   "channel_id": "UCEi84kmtGymUAjhVK6fxOzQ",
+   "views": 82000,
+   "age": "4y ago"
+  },
+  {
+   "id": "PJWSare36bY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Splices And Terminations That Fail Code In The 2026 NEC",
+   "dur": "22:18",
+   "meta": [
+    "Electrician U",
+    "92K",
+    "9mo ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 92000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "f2081Uu2Qmo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why KW and KVA Are NOT The Same Thing (Even If They Seem Like It)",
+   "dur": "13:29",
+   "meta": [
+    "Electrician U",
+    "1M",
+    "1y ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 1000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "iVrhX_sfYsI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "7 Things I'll Never Do As An Electrician",
+   "dur": "12:49",
+   "meta": [
+    "Backyard Maine",
+    "1.4M",
+    "1y ago"
+   ],
+   "channel_id": "UCdOuZ0bxeSxA8ZAHttc0U-w",
+   "views": 1400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "memRXfYK7WY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Code Rule Almost Everyone Misses.",
+   "dur": "11:58",
+   "meta": [
+    "Backyard Maine",
+    "234K",
+    "1mo ago"
+   ],
+   "channel_id": "UCdOuZ0bxeSxA8ZAHttc0U-w",
+   "views": 234000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "YXyxeb3kfQs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Had a Loose Neutral Connection! Here's How I Found It",
+   "dur": "40:39",
+   "meta": [
+    "Smarter Sparky",
+    "201K",
+    "2mo ago"
+   ],
+   "channel_id": "UC9TkzHC0J8SmHKpgnRxE5JA",
+   "views": 201000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "-jeP1d8PC1I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "7 FATAL Wiring Mistakes Most DIYers Don't Know They Are Making | Most Are Guilty of 3",
+   "dur": "13:01",
+   "meta": [
+    "How To Home",
+    "12M",
+    "3y ago"
+   ],
+   "channel_id": "UCpb-xu6Oun_d41RjztUgFWA",
+   "views": 12000000,
+   "age": "3y ago"
+  }
+ ]
+}
