@@ -76,3 +76,5 @@ Web search budget given: 30.
 - New format labels proposed by helpers: problem-fix, insider-never / never-list, reaction, inspection-walk(through), danger-warning, job-vlog, best-list, number-one, the-x-way, banned-2026. To be defined in `labels.md` after the checkers.
 
 **Fix:** `data/tools/yt.py` now also reads the Popular/Oldest sort from the new drop-down menu (73 channels had no sort chip; the explainers helper found it and used its own wrapper). Checked on Walt Brennan, Weirdward Bound, Home Hazard, Roy Dalton Electric and Silver Cymbal.
+
+**Merge (main session, 2026-10-24):** `data/tools/merge_sweeps.py` → `data/merged/videos-all.csv`: the six sweeps' videos.csv deduped by video ID (keeps the exact-views row; records every group that surfaced it). 5,070 unique long-form rows; 4,896 after dropping rows the helpers marked out. Not yet filtered for language (e.g. the German IFS dryer video, 15.8M) or re-scoped; that's round 3, after the checkers.
