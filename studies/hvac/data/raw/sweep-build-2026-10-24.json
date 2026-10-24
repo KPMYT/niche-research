@@ -1,23 +1,30 @@
 {
- "lines": 5541,
+ "lines": 6275,
  "priority_lines": 600,
- "extended_lines": 4941,
+ "extended_lines": 5675,
  "extended_keywords_total": 5675,
- "raw_rows": 112900,
+ "raw_rows": 127553,
  "drops": {
-  "under 5:00": 46532,
-  "no length (live / upcoming)": 2480,
-  "month search: outside my age window (video kept, search row not counted)": 150,
-  "not English (rule)": 781,
+  "under 5:00": 53665,
+  "no length (live / upcoming)": 2483,
+  "month search: outside my age window (video kept, search row not counted)": 149,
+  "not English (rule, on the search-page title)": 918,
+  "not English: original title (oEmbed); the search page showed an English translation": 607,
   "year search: outside my age window (video kept, search row not counted)": 53,
   "no length (other)": 2,
   "long-form but no view count": 5
  },
- "unique_videos": 23130,
- "recent_videos": 7548,
- "channels": 12422,
- "new_channels": 12179,
- "nonenglish_unique_titles": 546,
+ "unique_videos": 25618,
+ "recent_videos": 7902,
+ "channels": 13708,
+ "new_channels": 13466,
+ "nonenglish_unique_titles": 648,
+ "oembed_dropped_videos": 504,
+ "orig_title_checked": 25153,
+ "orig_title_failed": {
+  "oEmbed 401": 464,
+  "oEmbed 403": 1
+ },
  "pulled_first": "2026-10-24T06:54:55Z",
- "pulled_last": "2026-10-24T07:32:46Z"
+ "pulled_last": "2026-10-24T08:18:59Z"
 }

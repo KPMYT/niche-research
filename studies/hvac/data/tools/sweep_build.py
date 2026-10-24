@@ -78,7 +78,7 @@ def within_5w(age):
 FOREIGN = set("""para como cómo que qué del los las una por acondicionado calefaccion calefacción instalación
 instalacion condicionado não nao você voce fazer limpeza comment pour avec chauffage climatisation und mit wie für heizung
 klimaanlage kaise kare karen karein hai kya nahi aur kaun sasta kitna bijli garmi thanda lagaye lagwaye wala wali kare
-cara yang untuk mga ang paano naman ito kung ng bakit ganito panas dingin pemasangan cuci
+cara yang untuk bukan oleh pihak disebut dengan tidak sudah bisa juga mga ang paano naman ito kung ng bakit ganito panas dingin pemasangan cuci
 el también muy esto este esta cuando porque sin sobre mejor tu tus nuestro hacer cómo limpiar
 ou est les une des sur dans très pas
 und ist nicht auch eine einen
@@ -114,29 +114,29 @@ def english_check(title):
 def R(p): return re.compile(p, re.I)
 
 FORMAT_RULES = [
-    ("test", [R(r"\b(i|we) test(ed)?\b"), R(r"\btested\b"), R(r"^(?!.*\bhow to\b).*\btesting (\d+|the|these|every|all|cheap|popular|viral|amazon|my|a|an|out)\b(?! (capacitor|thermostat|contactor|relay|fuse|motor|igniter|ignitor|flame sensor|transformer|breaker|limit switch|pressure switch|voltage|for)\b)"),
+    ("test", [R(r"\b(i|we) test(ed)?\b"), R(r"^(?!.*\b(best|top \d+)\b).*\btested\b"), R(r"\bhow (warm|cold|hot|long|far|cool) can (i|we)\b"), R(r"^(?!.*\bhow to\b).*\btesting (\d+|the|these|every|all|cheap|popular|viral|amazon|my|a|an|out)\b(?! (capacitor|thermostat|contactor|relay|fuse|motor|igniter|ignitor|flame sensor|transformer|breaker|limit switch|pressure switch|voltage|for)\b)"),
               R(r"\b(put|putting) .* to the test\b"), R(r"\bhow safe (is|are)\b"), R(r"\bsurviv(e|ing|ed)\b.*\b\d+\s*(hours?|hrs?|days?|nights?)\b"),
               R(r"\bexperiments?\b"), R(r"\b(does|do|will|can) (it|this|they|these) (really |actually )?work\b"), R(r"\b(real[- ]world|side[- ]by[- ]side|torture|stress) test\b"),
               R(r"\btest\s*:|\btest results?\b"), R(r"\bwhich (one )?(is|works|lasts|cools|heats) (best|better|longer|the most)\b")]),
     ("X vs Y", [R(r"\bvs\.?\b"), R(r"\bversus\b"), R(r"\b(better|worse|cheaper|safer) than\b"), R(r"\bcompar(ed|ison|ing)\b"),
                 R(r"\b(?!this\b|that\b|it\b)\w+ instead of (a |an |the )?(?!this\b|that\b)\w+")]),
-    ("the only X", [R(r"\bonly\b.*\b(buy|brands?|worth|i'?d|recommend|install|use|own)\b"), R(r"\bbest\b(?! (way|ways|time|times|practice|practices|setting|settings|temp|temperature|tips?|thing)\b)"),
+    ("the only X", [R(r"\bonly\b.*\b(buy|brands?|worth|i'?d|recommend|install|use|own)\b"), R(r"\bbest\b(?! (way|ways|time|times|practice|practices|setting|settings|temp|temperature|tips?|thing|of both)\b)"),
                     R(r"\bworst\b"), R(r"\b(brands?|models?) to (avoid|buy)\b"), R(r"\bnever buy\b"), R(r"\b(avoid|stay away from) (these|this|the) .*\b(brands?|models?|units?)\b"),
                     R(r"\bwhich (brand|model|one|unit|filter|thermostat|heater)\b.*\b(buy|best|choose|get)\b"), R(r"\btop \d+\b.*\b(brands?|units?|heaters?|air conditioners?|acs?|filters?|thermostats?|heat pumps?|furnaces?|mini splits?|dehumidifiers?|humidifiers?|purifiers?|fans?)\b"),
                     R(r"\bmost reliable\b"), R(r"\bonly (one|1)\b"), R(r"\bmust[- ]haves?\b"), R(r"\b(don'?t|do not) buy\b(?!.*\b(before|until)\b)")]),
     ("review", [R(r"^(?!.*\binstall).*\breview(ed|s)?\b"), R(r"^(?!.*\binstall).*\bfirst look\b"), R(r"\bis (it|this|the \w+) worth (it|buying|the money)\b"), R(r"\bworth it\??"),
                 R(r"\bunbox(ing|ed)?\b"), R(r"\bhonest (opinion|thoughts|review)\b"), R(r"\b(long[- ]term|\d+ (month|year)s?) (later|update|review)\b"), R(r"\bhands[- ]on\b")]),
-    ("myth-bust", [R(r"\bmyths?\b"), R(r"\b(doesn'?t|don'?t|does not|do not|won'?t) (really |actually )?(work|save|help)\b"), R(r"\bstop (doing|using|closing|putting|running|turning|setting|believing|covering|blocking|spraying|cleaning|changing)\b"),
+    ("myth-bust", [R(r"\bmyth"), R(r"\b(doesn'?t|don'?t|does not|do not|won'?t) (really |actually )?(work|save|help)\b"), R(r"\bstop (doing|using|closing|putting|running|turning|setting|believing|covering|blocking|spraying|cleaning|changing)\b"),
                    R(r"\b(they|you) (were|was|are) wrong\b"), R(r"\byou'?ve been (told|lied|doing it)\b"), R(r"\bwaste of money\b"), R(r"\bdebunk"), R(r"\bdon'?t fall for\b"),
                    R(r"\bis (a )?(lie|myth|hoax)\b"), R(r"\b(is|are) ?(not|n'?t) (really |actually )?(saving|working|helping)\b"), R(r"\b(not|isn'?t) (what|as) you think\b")]),
     ("Y doesn't want you to know", [R(r"\bsecrets?\b"), R(r"\b(don'?t|doesn'?t|won'?t|never) (want you to know|tell you|talk about|mention)\b"), R(r"\bhidden\b"), R(r"\bunknown\b"),
                    R(r"\b(nobody|no one|no-one) (tells|knows|talks|told)\b"), R(r"\btruth\b"), R(r"\blies\b"), R(r"\bscams?\b|\bscammed\b"), R(r"\b(hates?|hate it when)\b"),
                    R(r"\bforgot to tell\b"), R(r"\b(known by|only \d+%)\b"), R(r"\binsider\b"), R(r"\bexpos(ed|ing|e)\b"), R(r"\brip(ped|ping)?[- ]?off\b"),
-                   R(r"\bwhat (they|techs?|contractors?|companies|dealers?|installers?|the \w+) (won'?t|don'?t|never)\b"), R(r"\bshould know\b"), R(r"\b(nobody|no one)\b"), R(r"\b(do not|don'?t) (even )?(know|notice|realize)\b"), R(r"\b(industry|they|companies|contractors|utilities) (is |are |stay |stays |kept |keep )?(silent|quiet)\b"), R(r"\bdidn'?t know\b"), R(r"\bsneaky\b"), R(r"\bthey don'?t\b")]),
+                   R(r"\bwhat (they|techs?|contractors?|companies|dealers?|installers?|the \w+) (won'?t|don'?t|never)\b"), R(r"\b(doesn'?t|don'?t) (everyone|anyone|people|most people) know\b|\bforgotten\b"), R(r"\bdecept|\bdeceiv|\bmislead|\bmisled\b|\boverlooked\b"), R(r"\b(nobody|no one)\b"), R(r"\b(do not|don'?t) (even )?(know|notice|realize)\b"), R(r"\b(industry|they|companies|contractors|utilities) (is |are |stay |stays |kept |keep )?(silent|quiet)\b"), R(r"\bdidn'?t know\b"), R(r"\bsneaky\b"), R(r"\bthey don'?t\b")]),
     ("mistakes", [R(r"\bmistakes?\b"), R(r"\bdoing it wrong\b"), R(r"\bwrong (way|thing|size)\b"), R(r"\bnever (do|put|use|run|turn|set|close|leave|cover|let|spray|clean|block|ignore)\b"),
                   R(r"\b(don'?t|do not) (ever )?(do|make|put|use|run|turn|set|close|leave|cover|spray|block|ignore|let)\b"), R(r"\bstop wasting\b"), R(r"\byou'?re (doing|using|setting|running|changing|wasting)\b"),
-                  R(r"\b(killing|ruining|destroying|damaging) (your|the)\b"), R(r"\b(bad|common) habits?\b"), R(r"\bavoid\b"), R(r"\bhabits?\b.*\b(wear|kill|ruin|cost|destroy|damag|shorten|waste)"), R(r"\bwear(s|ing)? out\b|\bshorten(s|ing)? (the |its |your )?life\b|\byears early\b"), R(r"\bavoid (these|this)\b")]),
-    ("before you do X", [R(r"\bbefore (you|replacing|buying|calling|installing|hiring|signing|paying|turning|starting|running|using|switching|getting|you buy|you call|you replace)\b"),
+                  R(r"\b(killing|ruining|destroying|damaging) (your|the)\b"), R(r"\b(bad|common) habits?\b"), R(r"\b(reasons|ways|how) to avoid\b|\bavoid (these|this|common|costly)\b"), R(r"\bhabits?\b.*\b(wear|kill|ruin|cost|destroy|damag|shorten|waste)"), R(r"\bwear(s|ing)? out\b|\bshorten(s|ing)? (the |its |your )?life\b|\byears early\b"), R(r"\bavoid (these|this)\b")]),
+    ("before you do X", [R(r"\bbefore (you|replacing|buying|calling|installing|hiring|signing|paying|turning|starting|running|using|switching|getting|trying|throwing|selling|scrapping|tossing)\b"),
                          R(r"\bwatch (this )?(video )?(first|before)\b"), R(r"\b(don'?t|do not) (buy|replace|call|pay|hire|sign|get|install)\b")]),
     ("news-warning", [R(r"\bnews\b"), R(r"\b(are|is) now\b"), R(r"\bnow (failing|leaving|banned|illegal|required|mandatory)\b"), R(r"\bbann?(ed|ing)?\b"), R(r"\bnew (rules?|laws?|regulations?|refrigerants?|standards?|requirements?|mandates?)\b"),
                       R(r"\btax credits?\b|\brebates?\b"), R(r"\bwarning\b"), R(r"\balert\b"), R(r"\brecall(ed|s)?\b"), R(r"\bphas(e|ed|ing)[- ]?out\b"), R(r"\b(going away|is ending|being discontinued|discontinued|shortage)\b"),
@@ -145,30 +145,30 @@ FORMAT_RULES = [
     ("cheap hack", [R(r"\bhacks?\b"), R(r"\btricks?\b"), R(r"\bcheap(ly)?\b(?!est)(?=.*\b(and|&|way|alternative|fix|trick|solution|option|diy|hack|heat|cool)\b)|\bfor cheap\b|\bcheaply\b|\bcheaper (way|than|alternative)\b"), R(r"\$\s?[\d,.]+\s?(trick|hack|fix|part|tool|item|solution|device|gadget|way|filter|upgrade|thing|product|secret|cover|kit)\b"), R(r"\b(use|try) (this|these|that) instead\b"), R(r"\binstead\b"),
                     R(r"\bfor (under|less than)\b"), R(r"\bdollars?\b"), R(r"\bfree (heat|heating|cooling|ac|a/c|air conditioning|energy|electricity|power|air)\b|\bfor free\b"),
                     R(r"\bsav(e|es|ing) (money|\$|big|hundreds|thousands|on)\b"), R(r"\b(lower|cut|reduce|slash|lowering|cutting|reducing) (your |the |my |our )?(electric|electricity|energy|heating|cooling|power|gas|utility|ac)? ?bills?\b"),
-                    R(r"\bbudget\b"), R(r"\blow[- ]cost\b|\binexpensive\b|\baffordable\b"), R(r"\bgenius\b"), R(r"\bwithout (ac|a/c|air conditioning|electricity|power)\b"), R(r"\bno elec\w* needed\b|\bno (power|gas|fuel) needed\b|\bunlimited (free )?(heat|cooling|hot)\b")]),
+                    R(r"\bbudget\b"), R(r"\b\d+x (stronger|faster|warmer|cooler|better|hotter|more)\b|\b(aluminum|aluminium|tin|the|kitchen) foil\b"), R(r"\blow[- ]cost\b|\binexpensive\b|\baffordable\b"), R(r"\bgenius\b"), R(r"\bwithout (ac|a/c|air conditioning|electricity|power)\b"), R(r"\bno elec\w* needed\b|\bno (power|gas|fuel) needed\b|\bunlimited (free )?(heat|cooling|hot)\b")]),
     ("symptom-fix", [R(r"\bnot (cooling|heating|working|turning on|blowing|igniting|lighting|starting|running|coming on|getting (hot|warm|cold)|kicking on|shutting off|cold|warm|hot)\b"),
                      R(r"\b(won'?t|doesn'?t|does not|will not|wont) (turn|start|cool|heat|ignite|light|kick|shut|stop|blow|come|work|run|get|stay|hold)\b"),
-                     R(r"\bno (heat|cool|cold|air|hot)\b"), R(r"\bblowing (hot|warm|cold|cool) air\b|\bblows (hot|warm|cold) air\b"), R(r"\bfreez(e|es|ing)\b|\bfrozen\b|\biced?\b|\bicing\b"),
+                     R(r"\bno (heat|cool|cold|air|hot)\b"), R(r"\bblowing (hot|warm|cold|cool) air\b|\bblows (hot|warm|cold) air\b"), R(r"\bfreez(e|es|ing)\b|\bfrozen\b|\biced? ?up\b|\bice (build|buildup|on|forming|in)\b|\bicing\b"),
                      R(r"\bleak(s|ing|y)?\b"), R(r"\bshort[- ]?cycl"), R(r"\bkeeps? (turning|shutting|running|tripping|cycling|going|blowing|clicking)\b"), R(r"\btrip(s|ping|ped)\b"),
                      R(r"\bsmell(s|ing|y)?\b|\bodou?rs?\b|\bstinks?\b"), R(r"\bnois(e|es|y)\b|\bloud\b|\bsqueal|\bbang(s|ing)\b|\brattl|\bhumming\b|\bbuzz(ing)?\b|\bclicking\b|\bwhistl|\bknock(ing)?\b|\bhiss(ing)?\b|\bgrind(ing)?\b|\bvibrat|\bscreech"),
                      R(r"\bwater (on|in|under|around|dripping|leaking|coming)\b|\bdripping\b|\bcondensation\b|\bsweat(s|ing)?\b|\bstains?\b"), R(r"\berror codes?\b|\bflashing\b|\bblinking\b|\bcode \d+\b"),
-                     R(r"\btroubleshoot"), R(r"\bproblems?\b|\bissues?\b"), R(r"\bbroken\b|\bstopped working\b|\bquit working\b|\bdead\b|\bfail(ing|ed|s|ure)?\b"), R(r"\bruns? (constantly|all the time|nonstop|non-stop|all day)\b"),
+                     R(r"\boverheat"), R(r"^(?!\s*what\b).*\b(problems?|issues?)\b"), R(r"\bbroken\b|\bstopped working\b|\bquit working\b|\bdead\b|\bfail(ing|ed|s|ure)?\b"), R(r"\bruns? (constantly|all the time|nonstop|non-stop|all day)\b"),
                      R(r"\btoo (hot|cold|humid|dry)\b|\buneven\b|\bhot (rooms?|spots?|upstairs|bedroom)\b|\bcold (rooms?|spots?|upstairs|bedroom)\b|\bweak (air|airflow)\b|\blow (airflow|air flow|pressure)\b"),
                      R(r"\b(not|isn'?t|aren'?t) [a-z]{3,}ing\b"), R(r"\bmou?ld\b|\bmildew\b|\bblack (gunk|stuff|slime)\b"), R(r"\bsigns? (of|your|that)\b|\bsymptoms?\b"), R(r"\bwhy (is|does|isn'?t|won'?t) (my|your)\b"), R(r"\bwhat causes\b"),
                      R(r"\bhigh (electric |energy |power )?bills?\b|\bbill (is )?(so )?high\b"), R(r"\bsoaring\b|\bskyrocketing\b")]),
-    ("install/DIY project", [R(r"\binstall(s|ing|ed|ation|ations|er)?\b"), R(r"^(?!.*\b(clean|maint|repair|fix|replac|servic|tune|flush|unclog)).*\bdiy\b.*\b(mini[- ]?split|system|heat pump|furnace|boiler|duct(s|work)?|project|central air|air conditioning|ac unit|geothermal|radiant)\b"), R(r"\badding\b"), R(r"\brestor(e|es|ed|ing|ation)\b|\bmaking (a|an|of|my|your|the|smoke|wood|homemade)\b|\bcreative ideas?\b|\bthe idea of\b|\b(from|out of) (red )?(bricks?|cement|barrels?|cans?|clay|pots?|bottles?|scrap|pallets?)\b"),
+    ("install/DIY project", [R(r"^(?=.*\b(ac|a/c|air condition\w*|mini[- ]?splits?|heat pumps?|furnaces?|boilers?|systems?|units?|hvac|thermostats?|ductwork|ducts?|central air|wood ?stoves?|stoves?|heaters?|insulation|fans?|radiators?|baseboards?|geothermal|condensers?|outlets?|generators?|dehumidifiers?|humidifiers?|purifiers?|vents?|windows?|attic|tubes?|solar|panels?|radiant|ptac|chiller|air handler|zoning)\b).*\binstall(s|ing|ed|ation|ations|er)?\b|^(?!.*\bhow to\b).*\binstall(s|ing|ed|ation|ations)?\b"), R(r"^(?!.*\b(clean|maint|repair|fix|replac|servic|tune|flush|unclog)).*\bdiy\b.*\b(mini[- ]?split|system|heat pump|furnace|boiler|duct(s|work)?|project|central air|air conditioning|ac unit|geothermal|radiant)\b"), R(r"\badding\b"), R(r"\brestor(e|es|ed|ing|ation)\b|\bmaking (a|an|of|my|your|the|smoke|wood|homemade)\b|\bcreative ideas?\b|\bthe idea of\b|\b(from|out of) (red )?(bricks?|cement|barrels?|cans?|clay|pots?|bottles?|scrap|pallets?)\b"),
                              R(r"\bbuild(ing)? (a|my|your|an|our|the)\b|\bi built\b|\bwe built\b|\bhomemade\b|\bmake (a|your own|my own)\b"), R(r"\bin (\d+|one|a|1) (hours?|hrs?|day|days|weekend)\b"),
                              R(r"\bstart to finish\b|\bfrom scratch\b|\btransformation\b|\bfull (job|install|project|build)\b"), R(r"\bconvert(ing|ed)?\b|\bconversion\b"), R(r"\badd(ing|ed)? (air conditioning|ac|a mini split|central air|a heat pump)\b"),
-                             R(r"\breplac(e|ing|ed) (my|our|the|a|an) ?(whole|entire|old)? ?(furnace|boiler|ac|air conditioner|system|heat pump|condenser|hvac)\b")]),
+                             R(r"\breplac(e|ing|ed) (my|our|the|a|an) ?(whole|entire|old)? ?(furnace|boiler|ac|air conditioner|system|heat pump|condenser|hvac)\b(?! (compressor|capacitor|contactor|fan|motor|coil|filter|board|valve|pump|thermostat|switch|sensor|igniter|ignitor|relay|blower|belt|line|drain))")]),
     ("how-to", [R(r"\bhow (to|i|we)\b"), R(r"\bstep[- ]by[- ]step\b|\bguide\b|\btutorial\b|\bwalkthrough\b"), R(r"\bclean(ing|ed|er)?\b"), R(r"\breplac(e|ing)\b|\bchang(e|ing) (the|your|a|my)\b"),
                 R(r"\bmaintenance\b|\bmaintain\b|\btune[- ]?up\b|\bservicing\b|\bservice (your|the|a|my)\b|\bcheck ?list\b|\binspect"), R(r"\breplacement\b(?! cost)|\b(re)?charg(e|ing) (the |your |an? )?(system|refrigerant|freon|ac|unit)|\bvacuum|\bbraz(e|ing)\b"), R(r"\bset ?up\b|\bsetting up\b|\bwir(e|es|ing)\b|\bprogram(ming)?\b|\breset\b"),
                 R(r"\bfix(ed|ing|es)?\b|\brepair(s|ing|ed)?\b"), R(r"\b(the )?(right|proper|correct|best|easiest|fastest|quickest) way\b|\bproperly\b|\bcorrectly\b"), R(r"\bdo this\b|\btips?\b|\bways to\b|\bsteps\b|\bthings (to|you)\b"),
                 R(r"\bmake (it|your|the)\b|\bkeep(ing)? (your|the|a|it|you)\b|\bprepar(e|ing)\b|\bwinteriz|\bsummeriz|\bflush|\bseal(ing)?\b|\binsulat(e|ing)\b|\bunclog|\bbleed(ing)?\b|\bdrain(ing)?\b"),
-                R(r"\bdiy\b"), R(r"\bwhat to do\b|\bwhat (i|we) do\b|\bwhere to\b|\bhow and\b|\bcheck(ing)? (the|your|a)\b|\bwatch out for\b|\bchoos(e|ing)\b|\brules (of|for)\b"), R(r"\bsize\b|\bsizing\b|\bcalculat"), R(r"\b(stay|staying) (cool|warm)\b"), R(r"\b(heat|cool|warm) (your|a|the) (home|house|room|garage)\b")]),
+                R(r"\btroubleshoot|\b(annual|yearly|seasonal|fall|spring) service\b|\binstall(s|ing|ed|ation)?\b|\b(filter|bearing|capacitor|motor|belt|battery|oil|coil) (change|swap|replacement)\b"), R(r"\bdiy\b"), R(r"\bwhat to do\b|\bwhat (i|we) do\b|\bwhere to\b|\bhow and\b|\bcheck(ing)? (the|your|a)\b|\bwatch out for\b|\bchoos(e|ing)\b|\brules (of|for)\b"), R(r"\bsize\b|\bsizing\b|\bcalculat"), R(r"\b(stay|staying) (cool|warm)\b"), R(r"\b(heat|cool|warm) (your|a|the) (home|house|room|garage)\b")]),
     ("explainer", [R(r"\bhow\b(?! to\b).{0,50}\bworks?\b"), R(r"\bwhy\b"), R(r"\b(types|kinds) of\b|\bq ?(&|and) ?a\b|\bfaq\b|\bquestions\b"), R(r"\bexplain(ed|s|ing)?\b"), R(r"\bbasics\b|\b101\b|\bintro(duction)? to\b|\bbeginners?'?\b"),
                    R(r"\bwhat (is|are|'?s) (a|an|the)?\b"), R(r"\bwhat'?s the (difference|point|deal)\b|\bdifference between\b"), R(r"\bwhy (do|does|is|are|you|we|it|they|some|most|so|did|should|would|people|homes|houses|americans|old)\b"),
-                   R(r"\bunderstand(ing)?\b"), R(r"\b(everything|what) you need to know\b"), R(r"\bthe science\b|\bmeaning\b"), R(r"\bhow (much|long|often|many|cold|hot|efficient|big)\b"), R(r"\b(should|do|can|could|will|would) (i|you|we)\b"),
-                   R(r"^(is|are|can|do|does|should|will|would|could)\b.*\?"), R(r"\bcost(s)?\b|\bprices?\b|\bpros and cons\b")]),
+                   R(r"\bunderstand(ing)?\b"), R(r"\b(everything|what|things|equations|facts|rules) you (need|should|must) (to )?know\b"), R(r"\bthe science\b|\bmeaning\b"), R(r"\bhow (much|long|often|many|cold|hot|efficient|big)\b"), R(r"\b(should|do|can|could|will|would) (i|you|we)\b"),
+                   R(r"^(is|are|can|do|does|should|will|would|could)\b.*\?"), R(r"^what\b.*\?\s*$"), R(r"\bcost(s)?\b|\bpros and cons\b")]),
     ("story", [R(r"\bsurviv(e|ing|ed|al)\b"), R(r"\bwhat happened\b|\bhappens when\b"), R(r"\b(i|we) (tried|bought|got|had|was|were|spent|paid|lived|went|called|found|did|made|lost|finally|switched|moved|ditched|ran|left)\b"),
                R(r"\bmy (experience|story|journey|disaster|nightmare|first|new|old|house|home|wife|husband|dad|mom|attic|basement|furnace|ac|boiler|heat pump|electric|homemade)\b"), R(r"\bdisaster\b|\bnightmare\b|\bgone wrong\b|\bvlog\b|\bday in the life\b|\ba day of\b|\bride[- ]?along\b"),
                R(r"\b(i|we)'?(ve|m)\b"), R(r"\b(after|for) (\d+|one|a|two|three) (years?|months?|winters?|summers?|weeks?)\b"), R(r"\bour (house|home|first|new|old)\b")]),
@@ -260,12 +260,29 @@ def pct(a, b):
 def md_esc(s):
     return (s or "").replace("|", "\\|").replace("\n", " ")
 
+def load_oembed():
+    """id -> original title (oEmbed, http 200 only), and id -> http code for failures."""
+    p = os.path.join(RAW, "sweep-oembed-2026-10-24.jsonl")
+    ok, err = {}, {}
+    if os.path.exists(p):
+        for l in open(p):
+            try: j = json.loads(l)
+            except Exception: continue
+            if j.get("orig_title") is not None: ok[j["id"]] = j["orig_title"]; err.pop(j["id"], None)
+            elif j["id"] not in ok: err[j["id"]] = j.get("http", "")
+    return ok, err
+
+OEMBED, OEMBED_ERR = {}, {}
+
 def build():
+    global OEMBED, OEMBED_ERR
+    OEMBED, OEMBED_ERR = load_oembed()
     lines = load_lines()
     kws = load_keywords()
     known_ids, known_handles = load_known()
     drop = collections.Counter()
     nonenglish_examples = []
+    oembed_drops = []
     videos = {}         # id -> dict
     searches = []       # per (mode, keyword, sort)
     for j in lines:
@@ -288,14 +305,20 @@ def build():
             if v is None:
                 drop["long-form but no view count"] += 1; continue
             eng, why = english_check(r.get("title") or "")
+            if eng and r["id"] in OEMBED:
+                eng, why = english_check(OEMBED[r["id"]])
+                if not eng:
+                    drop["not English: original title (oEmbed); the search page showed an English translation"] += 1
+                    if r["id"] not in {x[0] for x in oembed_drops}: oembed_drops.append((r["id"], r["title"], OEMBED[r["id"]], why))
+                    continue
             if not eng:
-                drop["not English (rule)"] += 1
+                drop["not English (rule, on the search-page title)"] += 1
                 if r["id"] not in {x[0] for x in nonenglish_examples}: nonenglish_examples.append((r["id"], r["title"], why))
                 continue
             win_ok = True
             if sort == "year": win_ok = within_12m(r.get("age"))
             if sort == "month": win_ok = within_5w(r.get("age"))
-            vid = videos.setdefault(r["id"], {"id": r["id"], "title": r["title"], "channel": r.get("channel") or "", "channelId": r.get("channelId") or "",
+            vid = videos.setdefault(r["id"], {"id": r["id"], "title": OEMBED.get(r["id"], r["title"]), "search_title": r["title"], "channel": r.get("channel") or "", "channelId": r.get("channelId") or "",
                                               "handle": r.get("handle") or "", "views": v, "age": r.get("age") or "", "pulled": j["pulled"],
                                               "length": L, "apps": []})
             if v > vid["views"]: vid["views"] = v
@@ -338,7 +361,9 @@ def build():
         vid["live_replay"] = (parse_age(vid["age"]) or (0, "", False))[2]
         h = norm_handle(vid["handle"])
         vid["is_new"] = not (vid["channelId"] in known_ids or (h and h in known_handles))
-    return lines, kws, searches, videos, drop, nonenglish_examples
+    for vid in videos.values():
+        vid["orig_checked"] = "yes" if vid["id"] in OEMBED else ("oEmbed " + OEMBED_ERR[vid["id"]] if vid["id"] in OEMBED_ERR else "not fetched")
+    return lines, kws, searches, videos, drop, nonenglish_examples, oembed_drops
 
 # ---------------------------------------------------------------- outputs
 
@@ -353,11 +378,11 @@ def write_csvs(searches, videos, channels):
     with open(os.path.join(RAW, "sweep-videos-2026-10-24.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["id", "title", "channel", "channelId", "handle", "views", "age_text", "approx_upload_date", "length_s", "live_replay",
-                    "format_rule", "keywords", "n_keywords", "sorts", "best_rank", "best_relevance_rank", "topics", "above_search_median", "searches_above", "searches_counted", "new_channel", "hvac_word_in_title"])
+                    "format_rule", "keywords", "n_keywords", "sorts", "best_rank", "best_relevance_rank", "topics", "above_search_median", "searches_above", "searches_counted", "new_channel", "hvac_word_in_title", "original_title_checked", "search_page_title"])
         for v in sorted(videos.values(), key=lambda x: -x["views"]):
             w.writerow([v["id"], v["title"], v["channel"], v["channelId"], v["handle"], v["views"], v["age"], v["date"], v["length"], "yes" if v["live_replay"] else "",
                         v["format"], " ; ".join(v["keywords"]), len(v["keywords"]), " ; ".join(v["sorts"]), v["best_rank"], v["best_rel_rank"], " ; ".join(v["topics"]),
-                        "" if v["above"] is None else ("yes" if v["above"] else "no"), v["above_n"], v["above_of"], "NEW" if v["is_new"] else "", "yes" if v["hvac_title"] else ""])
+                        "" if v["above"] is None else ("yes" if v["above"] else "no"), v["above_n"], v["above_of"], "NEW" if v["is_new"] else "", "yes" if v["hvac_title"] else "", v["orig_checked"], v["search_title"] if v["search_title"] != v["title"] else ""])
     with open(os.path.join(RAW, "sweep-keywords-2026-10-24.csv"), "w", newline="") as f:
         w = csv.writer(f)
         w.writerow(["mode", "keyword", "topic", "framing", "sort", "pulled", "raw_results", "longform_english_kept", "median_views", "top_id", "top_title", "top_views",
@@ -369,10 +394,10 @@ def write_csvs(searches, videos, channels):
                         s["views_pairs"], s["rises"], s["with_age"], s["in_window"] if s["sort"] in ("year", "month") else ""])
     with open(os.path.join(RAW, "sweep-channels-2026-10-24.csv"), "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["rank", "channel", "handle", "channelId", "videos", "total_views", "median_views", "videos_last_12m", "top_id", "top_title", "top_views", "n_topics", "topics", "new"])
+        w.writerow(["rank", "channel", "handle", "channelId", "videos", "total_views", "median_views", "videos_last_12m", "top_id", "top_title", "top_views", "n_topics", "topics", "new", "hvac_word_videos"])
         for i, c in enumerate(channels, 1):
             w.writerow([i, c["channel"], c["handle"], c["channelId"], c["n"], c["total"], c["median"], c["recent"], c["top"]["id"], c["top"]["title"], c["top"]["views"],
-                        len(c["topics"]), " ; ".join(sorted(c["topics"])), "NEW" if c["is_new"] else ""])
+                        len(c["topics"]), " ; ".join(sorted(c["topics"])), "NEW" if c["is_new"] else "", c["hvac"]])
 
 def channel_tally(videos):
     ch = {}
@@ -385,6 +410,7 @@ def channel_tally(videos):
         vs = [v["views"] for v in c["vids"]]
         c["n"] = len(vs); c["total"] = sum(vs); c["median"] = med(vs)
         c["recent"] = sum(1 for v in c["vids"] if v["recent"])
+        c["hvac"] = sum(1 for v in c["vids"] if v["hvac_title"])
         c["top"] = max(c["vids"], key=lambda v: v["views"])
         out.append(c)
     out.sort(key=lambda c: (-c["n"], -c["total"]))
@@ -392,8 +418,9 @@ def channel_tally(videos):
 
 def group_stats(vs):
     views = [v["views"] for v in vs]
-    flagged = [v for v in vs if v["above"] is not None]
-    above = sum(1 for v in flagged if v["above"])
+    # per appearance: each time a video showed up in a usable search, did it beat that search's median?
+    above = sum(v["above_n"] for v in vs)
+    flagged = [None] * sum(v["above_of"] for v in vs)
     return {"n": len(vs), "channels": len({v["channelId"] or v["channel"] for v in vs}), "median": med(views),
             "above": above, "flagged": len(flagged), "top": sorted(vs, key=lambda v: -v["views"])[:3]}
 
@@ -408,7 +435,7 @@ def format_table(vs, title):
         g = group_stats(by.get(f, []))
         if not g["n"]:
             out.append(f"| {f} | 0 | 0 | not found | n/a | none |"); continue
-        out.append(f"| {f} | {g['n']:,} | {g['channels']:,} | {fmt_int(g['median'])} | {pct(g['above'], g['flagged'])} ({g['above']:,} of {g['flagged']:,}) | " + "<br>".join(ex_str(v) for v in g["top"]) + " |")
+        out.append(f"| {f} | {g['n']:,} | {g['channels']:,} | {fmt_int(g['median'])} | {pct(g['above'], g['flagged'])} ({g['above']:,} of {g['flagged']:,} appearances) | " + "<br>".join(ex_str(v) for v in g["top"]) + " |")
     g = group_stats(vs)
     out.append(f"| **all** | **{g['n']:,}** | **{g['channels']:,}** | **{fmt_int(g['median'])}** | **{pct(g['above'], g['flagged'])}** ({g['above']:,} of {g['flagged']:,}) | |")
     return out
@@ -424,8 +451,8 @@ def topic_rows(vs_all):
         rows.append((t, g, only, gr))
     return rows
 
-def handcheck_summary(videos):
-    p = os.path.join(RAW, "format-handcheck-2026-10-24.csv")
+def handcheck_summary(videos, fn):
+    p = os.path.join(RAW, fn)
     if not os.path.exists(p): return None
     rows = list(csv.DictReader(open(p)))
     v1 = sum(1 for r in rows if r["rule_tag_v1"] == r["hand_tag"])
@@ -436,11 +463,12 @@ def handcheck_summary(videos):
         if now == r["hand_tag"]: cur += 1
         else: errs_cur.append(r)
         if r["rule_tag_v1"] != r["hand_tag"]: errs_v1[(r["rule_tag_v1"], r["hand_tag"])] += 1
-    return {"rows": rows, "n": len(rows), "v1": v1, "cur": cur, "errs_v1": errs_v1, "errs_cur": errs_cur}
+    return {"rows": rows, "n": len(rows), "v1": v1, "cur": cur, "errs_v1": errs_v1, "errs_cur": errs_cur,
+            "gone": sum(1 for r in rows if r["id"] not in videos)}
 
 def main():
     load_topic_names()
-    lines, kws, searches, videos, drop, nonen = build()
+    lines, kws, searches, videos, drop, nonen, odrops = build()
     channels = channel_tally(videos)
     write_csvs(searches, videos, channels)
     vs_all = list(videos.values())
@@ -453,7 +481,9 @@ def main():
     ext_kw_total = sum(1 for k in kws.values() if k["priority"].strip().upper() != "PRIORITY")
     stats = {"lines": len(lines), "priority_lines": len(pr), "extended_lines": len(ex), "extended_keywords_total": ext_kw_total, "raw_rows": raw_rows,
              "drops": dict(drop), "unique_videos": len(videos), "recent_videos": len(vs_recent), "channels": len(channels), "new_channels": n_new,
-             "nonenglish_unique_titles": len(nonen), "pulled_first": pulled[0], "pulled_last": pulled[-1]}
+             "nonenglish_unique_titles": len(nonen), "oembed_dropped_videos": len(odrops),
+             "orig_title_checked": sum(1 for v in videos.values() if v["orig_checked"] == "yes"),
+             "orig_title_failed": collections.Counter(v["orig_checked"] for v in videos.values() if v["orig_checked"] != "yes"), "pulled_first": pulled[0], "pulled_last": pulled[-1]}
     json.dump(stats, open(os.path.join(RAW, "sweep-build-2026-10-24.json"), "w"), indent=1)
 
     # ---- sort checks (priority)
@@ -480,13 +510,17 @@ def main():
     A("")
     A(f"- **Source:** YouTube search result pages, loaded logged out (`hl=en`, `gl=US`), pulled {pulled[0]} to {pulled[-1]} (UTC). Views are YouTube's own counts on the search page (\"1,234 views\"); lengths are the page's length text; ages are YouTube's relative text (\"3y ago\").")
     A("- **Sorts.** PRIORITY keywords: 4 searches each, 2 result pages each: `relevance`; `views` (sorted by view count); `year` (view count, uploaded this year); `month` (view count, uploaded this month). The brief asks for relevance, newest, oldest and most viewed: YouTube's \"upload date\" sort no longer works (tested 2026-10-23) and search has no \"oldest\" sort, so the operator approved this substitute on 2026-10-24 (old videos come from channels' Oldest tabs instead). EXTENDED keywords: relevance only, 1 page.")
-    A(f"- **Coverage:** {len(pr)} PRIORITY searches (150 keywords x 4 sorts); {len(ex)} EXTENDED searches of {ext_kw_total} EXTENDED keywords" + (" (complete)." if len(ex) >= ext_kw_total else f" (the extended sweep was still running when this was built; {len(ex)} of {ext_kw_total} done).") + f" {raw_rows:,} result rows in all.")
+    done_ext = {s["keyword"] for s in ex}
+    missing = [k for k, r in kws.items() if r["priority"].strip().upper() != "PRIORITY" and k not in done_ext]
+    A(f"- **Coverage:** {len(pr)} PRIORITY searches (150 keywords x 4 sorts); {len(ex)} EXTENDED searches of {ext_kw_total} EXTENDED keywords" + (" (complete)." if len(ex) >= ext_kw_total else f" (the extended sweep was still running when this was built; {len(ex)} of {ext_kw_total} done).") + f" {raw_rows:,} result rows in all." + (f" EXTENDED keywords with no search line (the sweep logged them as failed, or they are still to run): {len(missing)}: " + ", ".join(f'\"{k}\"' for k in missing[:80]) + ("..." if len(missing) > 80 else "") + "." if missing else ""))
     A("- **Age windows (my rule, from the age text):** YouTube shows ages as min, h, d (up to 13d), w (2w to 4w), mo (1mo to 11mo), then y. `year` results count only if the age is below \"1y\" (under 12 months). `month` results count only if the age is in min, h, d or w (under about 5 weeks); \"1mo ago\" is out. A video outside the window is still kept in the video list (it is a real result for the keyword), but that search row is not counted in the per-search figures.")
     A("- **Upload date** in the CSV is approximate: pull date minus the age (1y = 365.25 days, 1mo = 30.44 days). YouTube rounds ages down, so the real upload is up to one unit earlier.")
     A("- **Long-form:** length 5:00 (300 s) or more. Live streams with no length are dropped; replays of past streams (\"Streamed ... ago\") with a length are kept and marked in the CSV.")
     A("- **English (rule-based):** a title is dropped if (a) 30% or more of its letters are in a non-Latin script; (b) it has 2+ common words from Spanish, Portuguese, French, German, Hindi or Urdu written in Latin letters, Indonesian or Tagalog, and more of those than English function words; (c) it has 1+ such word and no English function word; or (d) it has a letter used only in other languages (Turkish, Polish, Czech, Vietnamese, transliteration marks) and fewer than 2 English function words; or (e) it says it is \"in Hindi\" (or Urdu, Tamil, Spanish and so on). The word lists are `FOREIGN`, `ENGLISH` and `STRONG_FOREIGN_LETTERS` in the script.")
+    nchk = stats["orig_title_checked"]
+    A(f"- **Original titles (oEmbed):** logged-out search auto-translates foreign titles into English (found by the old-house heat helper, 2026-10-24). So each video's original title was fetched from YouTube oEmbed (`tools/sweep_oembed.py`, pulled 2026-10-24, raw in `data/raw/sweep-oembed-2026-10-24.jsonl`) and the English rule was run on it too. Original title checked for {nchk:,} of the {len(videos) + len(odrops):,} long-form videos that passed the search-title rule; " + ", ".join(f"{k}: {v:,}" for k, v in stats["orig_title_failed"].items()) + f" (those keep the search-page check only; oEmbed 401 = embedding turned off, 404 = gone). **{len(odrops):,} videos dropped** because the original title is not English. Titles shown in these files are the original titles.")
     A("- **Per video:** views = the highest count seen across its searches (pulls were minutes to hours apart). Keywords, sorts and topics are every one that returned it. Best rank = its best position in any search (position counts every row on the page, including Shorts and lives).")
-    A(f"- **\"Above its search median\" (a within-search relative measure):** for each search, the median views of the long-form English results it kept. A video is \"above\" if its views beat that median in more than half of the searches that returned it (searches with fewer than {MIN_SEARCH_N} kept results are not used; ties at half count as not above). By construction a little under half of all videos are above, so a format or topic well over 50% beats the other videos returned for the same keywords. It is not the channel multiple; that comes in round 3.")
+    A(f"- **\"Above search median\" (a within-search relative measure):** for each search, the median views of the long-form English results it kept (`year` and `month` searches: only those inside the age window). Each time a video shows up in a search, it either beats that search's median or not. A group's figure is the share of its appearances that beat the median (searches with fewer than {MIN_SEARCH_N} kept results are not used). Across all videos this is a little under 50% by construction (the median video itself never beats it), so a format or topic well over the all-videos figure beats the other videos returned for the same keywords. A video returned by many searches counts once per search. It is not the channel multiple; that comes in round 3. The video CSV gives each video's own count (`searches_above` of `searches_counted`; `above_search_median` = yes when more than half).")
     A("")
     A("### Rows dropped (counted per search row, so a video can be counted more than once)")
     A("")
@@ -497,6 +531,10 @@ def main():
     A(f"Distinct titles dropped by the English rule: {len(nonen):,}. First 15 (for checking):")
     A("")
     for vid, t, why in nonen[:15]: A(f"- `{vid}` \"{md_esc(t)}\" ({why})")
+    A("")
+    A(f"Videos dropped on the original title (oEmbed): {len(odrops):,}. First 15 (search-page title -> original title):")
+    A("")
+    for vid, st, ot, why in odrops[:15]: A(f"- `{vid}` \"{md_esc(st)}\" -> \"{md_esc(ot)}\" ({why})")
     A("")
     A("### Did each sort behave? (PRIORITY searches)")
     A("")
@@ -582,29 +620,44 @@ def main():
     A("")
     A("Videos = distinct long-form English videos the sweep returned from the channel (all keywords, all sorts); total views = the sum of those videos' views. This measures how often the channel turns up in these searches, not its size. Many are off-niche channels that a broad keyword pulled in (reading).")
     A("")
-    A("| # | Channel | Handle | Videos | Total views | Median views | Last 12 mo | Topics | Biggest returned video (title, views, ID) | NEW |")
-    A("|---:|---|---|---:|---:|---:|---:|---:|---|---|")
+    nh3 = sum(1 for c in channels if c["is_new"] and c["hvac"] >= 3); nh5 = sum(1 for c in channels if c["is_new"] and c["hvac"] >= 5)
+    A(f"Most NEW channels are off-niche (one stray video). A rough cut on the HVAC-word title rule (see `formats.md`): **{nh3:,} NEW channels have 3 or more returned videos with a home-HVAC word in the title, {nh5:,} have 5 or more.** These are the ones worth a round 3 look (reading).")
+    A("")
+    A("| # | Channel | Handle | Videos | HVAC-word videos | Total views | Median views | Last 12 mo | Topics | Biggest returned video (title, views, ID) | NEW |")
+    A("|---:|---|---|---:|---:|---:|---:|---:|---:|---|---|")
     for i, c in enumerate(channels[:100], 1):
         h = urllib.parse.unquote(c["handle"] or "").lstrip("/")
-        A(f"| {i} | {md_esc(c['channel'])} | {md_esc(h)} | {c['n']} | {c['total']:,} | {fmt_int(c['median'])} | {c['recent']} | {len(c['topics'])} | \"{md_esc(c['top']['title'])}\" ({c['top']['views']:,}, `{c['top']['id']}`) | {'NEW' if c['is_new'] else ''} |")
+        A(f"| {i} | {md_esc(c['channel'])} | {md_esc(h)} | {c['n']} | {c['hvac']} | {c['total']:,} | {fmt_int(c['median'])} | {c['recent']} | {len(c['topics'])} | \"{md_esc(c['top']['title'])}\" ({c['top']['views']:,}, `{c['top']['id']}`) | {'NEW' if c['is_new'] else ''} |")
     A("")
-    A("### Top 30 NEW channels by videos returned")
+    A("### Top 50 NEW channels by videos returned")
     A("")
-    A("| # | Channel | Handle | channelId | Videos | Total views | Last 12 mo | Biggest returned video (title, views, ID) |")
-    A("|---:|---|---|---|---:|---:|---:|---|")
-    for i, c in enumerate([c for c in channels if c["is_new"]][:30], 1):
+    A("| # | Channel | Handle | channelId | Videos | HVAC-word videos | Total views | Last 12 mo | Biggest returned video (title, views, ID) |")
+    A("|---:|---|---|---|---:|---:|---:|---:|---|")
+    for i, c in enumerate([c for c in channels if c["is_new"]][:50], 1):
         h = urllib.parse.unquote(c["handle"] or "").lstrip("/")
-        A(f"| {i} | {md_esc(c['channel'])} | {md_esc(h)} | `{c['channelId']}` | {c['n']} | {c['total']:,} | {c['recent']} | \"{md_esc(c['top']['title'])}\" ({c['top']['views']:,}, `{c['top']['id']}`) |")
+        A(f"| {i} | {md_esc(c['channel'])} | {md_esc(h)} | `{c['channelId']}` | {c['n']} | {c['hvac']} | {c['total']:,} | {c['recent']} | \"{md_esc(c['top']['title'])}\" ({c['top']['views']:,}, `{c['top']['id']}`) |")
+    A("")
+    A("### Top 30 NEW channels by HVAC-word videos returned")
+    A("")
+    A("Same channels, ranked by returned videos with a home-HVAC word in the title (rule-based cut), then total views.")
+    A("")
+    A("| # | Channel | Handle | channelId | HVAC-word videos | Videos | Total views | Last 12 mo | Biggest returned video (title, views, ID) |")
+    A("|---:|---|---|---|---:|---:|---:|---:|---|")
+    for i, c in enumerate(sorted([c for c in channels if c["is_new"]], key=lambda c: (-c["hvac"], -c["total"]))[:30], 1):
+        h = urllib.parse.unquote(c["handle"] or "").lstrip("/")
+        A(f"| {i} | {md_esc(c['channel'])} | {md_esc(h)} | `{c['channelId']}` | {c['hvac']} | {c['n']} | {c['total']:,} | {c['recent']} | \"{md_esc(c['top']['title'])}\" ({c['top']['views']:,}, `{c['top']['id']}`) |")
     A("")
     # topics
     A("## Topics (sub-niches, from the keyword's topic)")
     A("")
-    A("A video takes the topic of every keyword that returned it, so a video found by an `ac-central` and a `filters` keyword counts in both; topic rows add up to more than the unique total. `Only this topic` = videos returned by keywords of this topic alone. The topic is the keyword list's rule-based label, not a reading of the video. Above search median as defined in the method.")
+    A("A video takes the topic of every keyword that returned it, so a video found by an `ac-central` and a `filters` keyword counts in both; topic rows add up to more than the unique total. `Only this topic` = videos returned by keywords of this topic alone. The topic is the keyword list's rule-based label, not a reading of the video. The \"above search median\" measure is not given here: a topic's videos are compared only with each other in the same searches, so it cannot rank topics against each other (compare median views instead; the channel multiple comes in round 3). Median views are of long-form English videos returned by any sort, so topics with more PRIORITY keywords (whose `views` sort pulls the biggest videos) read higher.")
     A("")
-    A("| Topic | Code | Videos | Only this topic | Channels | Median views | Above search median | Last 12 mo: videos / median | 3 biggest (title, channel, views, ID) |")
-    A("|---|---|---:|---:|---:|---:|---:|---|---|")
+    A("| Topic | Code | Keywords searched | Videos | Only this topic | Channels | Median views | HVAC-word videos: n / median | Last 12 mo: videos / median | 3 biggest (title, channel, views, ID) |")
+    A("|---|---|---:|---:|---:|---:|---:|---|---|---|")
+    kw_by_topic = collections.Counter(s["topic"] for s in searches if s["sort"] == "relevance")
     for t, g, only, gr in topic_rows(vs_all):
-        A(f"| {TOPIC_NAMES.get(t, t)} | `{t}` | {g['n']:,} | {only:,} | {g['channels']:,} | {fmt_int(g['median'])} | {pct(g['above'], g['flagged'])} | {gr['n']:,} / {fmt_int(gr['median']) if gr['n'] else 'n/a'} | " + "<br>".join(ex_str(v) for v in g["top"]) + " |")
+        hv = group_stats([v for v in vs_all if t in v["topics"] and v["hvac_title"]])
+        A(f"| {TOPIC_NAMES.get(t, t)} | `{t}` | {kw_by_topic.get(t, 0):,} | {g['n']:,} | {only:,} | {g['channels']:,} | {fmt_int(g['median'])} | {hv['n']:,} / {fmt_int(hv['median']) if hv['n'] else 'n/a'} | {gr['n']:,} / {fmt_int(gr['median']) if gr['n'] else 'n/a'} | " + "<br>".join(ex_str(v) for v in g["top"]) + " |")
     A("")
     open(os.path.join(OUTMD, "keyword-sweep.md"), "w").write("\n".join(K) + "\n")
 
@@ -622,7 +675,7 @@ def main():
     B("- One main format per video, from the title only (no thumbnails), following the ordered rules in `labels.md` section 3: test, X vs Y, the only X, review, myth-bust, Y doesn't want you to know, mistakes, before you do X, news-warning, cheap hack, symptom-fix, install/DIY project, how-to, explainer, story. The **first** rule that matches wins; a title that matches none is \"plain topic/other\". (The helper brief listed the formats in a different order; the labels.md order was used, as the brief asked.)")
     B("- The rules are `FORMAT_RULES` in the script. A trailing \"| channel name\" is stripped before matching. A list shape (\"Top 10\", \"5 things\") is not a format, as labels.md says.")
     B("- Thumbnail text is not read here, so a title that is only a topic label (\"Furnace Filters\") stays \"plain topic/other\" even where labels.md would read the thumbnail.")
-    B(f"- **Above their search median**: share of videos whose views beat the median of the long-form English results in more than half of the searches that returned them (searches with at least {MIN_SEARCH_N} kept results). About half of all videos are above by construction, so the figure says whether a format beats the other videos returned for the same keywords. Videos with no usable search are left out of that share (the counts in brackets).")
+    B(f"- **Above their search median** (a within-search relative measure): each time a video showed up in a search (with at least {MIN_SEARCH_N} kept long-form English results), did its views beat that search's median? The figure is the share of the format's appearances that did (counts in brackets). The all-videos row is the baseline (a little under 50% by construction); a format above it beats the other videos returned for the same keywords. Full definition in `keyword-sweep.md`.")
     B(f"- **Last 12 months** = age text below \"1y ago\" (approximate). {len(vs_recent):,} of {len(vs_all):,} videos.")
     B("")
     B("## Format table")
@@ -630,6 +683,15 @@ def main():
     F.extend(format_table(vs_all, f"All time ({len(vs_all):,} videos)"))
     B("")
     F.extend(format_table(vs_recent, f"Last 12 months ({len(vs_recent):,} videos)"))
+    B("")
+    vh = [v for v in vs_all if v["hvac_title"]]; vhr = [v for v in vh if v["recent"]]
+    B("### The same, only videos with a home-HVAC word in the title")
+    B("")
+    B(f"Broad EXTENDED keywords pull in many off-topic videos (games, sports, car AC, Indian-market TV). As a rough cut, this keeps only titles that pass the round 1 keyword filter (`is_hvac` in `tools/autocomplete.py`: a strong HVAC word, or a weak one plus a home word, and no excluded word such as car, game, hours, Hindi). Rule-based and strict: it also drops some on-topic titles (for example any title with \"hours\"). {len(vh):,} of {len(vs_all):,} videos pass; {len(vhr):,} in the last 12 months. The above-median share still compares each video with all the long-form English videos in its searches.")
+    B("")
+    F.extend(format_table(vh, f"HVAC-word titles, all time ({len(vh):,} videos)"))
+    B("")
+    F.extend(format_table(vhr, f"HVAC-word titles, last 12 months ({len(vhr):,} videos)"))
     B("")
     # format x framing
     B("### Which formats the keyword framings return (all time)")
@@ -645,35 +707,56 @@ def main():
         tot = sum(fr[x].values())
         B(f"| {x} | {tot:,} | " + " | ".join(pct(fr[x][f], tot) for f in FORMATS) + " |")
     B("")
-    hc = handcheck_summary(videos)
-    B("## Hand-check of the rules (100 random titles, seed 24)")
+    hc = handcheck_summary(videos, "format-handcheck-2026-10-24.csv")
+    hf = handcheck_summary(videos, "format-handcheck-fresh-2026-10-24.csv")
+    B("## Hand-check of the rules")
     B("")
     if not hc:
         B("not found: `data/raw/format-handcheck-2026-10-24.csv` has not been written yet.")
     else:
-        B(HANDCHECK_TEXT.format(n=hc["n"], v1=hc["v1"], cur=hc["cur"]))
+        B(HANDCHECK_TEXT.format(n=hc["n"], v1=hc["v1"], cur=hc["cur"], fn=hf["n"] if hf else 0, fv1=hf["v1"] if hf else 0, fcur=hf["cur"] if hf else 0,
+                                gone=hc["gone"] + (hf["gone"] if hf else 0)))
         B("")
-        B("Disagreements in the first pass (rule tag -> my reading, count):")
+        B("First-pass disagreements in the seed-24 sample (rule tag -> my reading, count):")
         B("")
         for (a, b), n in hc["errs_v1"].most_common(): B(f"- {a} -> {b}: {n}")
         B("")
-        B("Titles where the current rules still disagree with my reading:")
-        B("")
-        B("| ID | Title | Rule tag now | My reading | Note |")
-        B("|---|---|---|---|---|")
-        for r in hc["errs_cur"]: B(f"| `{r['id']}` | \"{md_esc(r['title'])}\" | {r['rule_now']} | {r['hand_tag']} | {md_esc(r['note'])} |")
-        B("")
-        B("All 100 rows (title, first-pass rule tag, my reading, note) are in `data/raw/format-handcheck-2026-10-24.csv`.")
+        for name, h in (("seed-24 sample", hc), ("fresh sample", hf)):
+            if not h: continue
+            B(f"Titles in the {name} where the current rules still disagree with my reading:")
+            B("")
+            B("| ID | Title | Rule tag now | My reading | Note |")
+            B("|---|---|---|---|---|")
+            for r in h["errs_cur"]: B(f"| `{r['id']}` | \"{md_esc(r['title'])}\" | {r['rule_now']} | {r['hand_tag']} | {md_esc(r['note'])} |")
+            B("")
+        B("Every row (title, first-pass rule tag, my reading, note) is in `data/raw/format-handcheck-2026-10-24.csv` and `data/raw/format-handcheck-fresh-2026-10-24.csv`.")
     B("")
     open(os.path.join(OUTMD, "formats.md"), "w").write("\n".join(F) + "\n")
     print(json.dumps(stats, indent=1))
 
-HANDCHECK_TEXT = """not found"""
+HANDCHECK_TEXT = """**Method.** 100 videos drawn at random (Python `random.Random(24).sample` over the sorted video IDs, on 2026-10-24, from the sweep's video list before all original titles were checked; {gone} of the 150 sampled videos were later dropped as not English and are scored on their stored title). Each title was read by the helper against `labels.md` section 3, in its rule order, title only. "My reading" is a **reading**. The rules were then fixed and a **fresh** sample of 50 (seed 25, excluding the first 100) was read to see whether the fixes held on titles they were not tuned on.
+
+| Check | Titles | Rule tag = my reading |
+|---|---:|---:|
+| Seed 24, first-pass rules | {n} | **{v1}** |
+| Seed 24, rules after the fixes (in-sample, so flattering) | {n} | {cur} |
+| Fresh sample (seed 25), rules after the first fixes (out-of-sample) | {fn} | **{fv1}** |
+| Fresh sample, after four more small fixes (in-sample) | {fn} | {fcur} |
+
+**Reading of the accuracy:** about three titles in four get the format a careful reader would give (72 of 100 first pass; 37 of 50 on the fresh sample). Treat format counts as approximate, good for spotting big differences between formats, not small ones.
+
+**Common errors (reading):**
+1. **Words that were too broad** (fixed): "troubleshooting" with no symptom read as symptom-fix; "problems" in a question ("What problems are most common...") read as symptom-fix; "avoid" ("Avoid plumber") read as mistakes; "should know" read as Y-doesn't-want-you-to-know; "prices" read as explainer; any "install" read as install/DIY project even for a small part ("How to Install a Flange Isolation Kit"); "replace an AC compressor" read as installing a whole system; "Tested & Reviews" on a best-of list read as test; "Mythbusters" missed by `myths?`.
+2. **Missing cue words** (some fixed): "deception", "overlooked", "forgotten", "the foil" trick, "how warm can I get", "before trying", "filter change", "annual service". Adding "forgotten" to Y-doesn't-want-you-to-know is my reading of labels.md rule 6 ("unknown" knowledge).
+3. **What a title-only rule can't see** (not fixable here): a title that only names a product ("Klein Carbon Monoxide Tester and Detector...") is a review in labels.md, but the rule needs the word "review"; stories without a first-person cue ("They Said He Wasn't built for HVAC. Now He Runs 20 Techs."); "How to heat your home" in a "101" explainer (labels.md puts how-to before explainer).
+4. **Off-topic videos** (games, sports, music) get a format from stray words ("Heat vs Timberwolves" = X vs Y; "cheap and quick farm" = cheap hack). Their formats are counted but say nothing about HVAC; see the HVAC-word cut above.
+5. The fresh sample also found one Indonesian title the English rule had missed; its words were added to the rule."""
+
 
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "sample":
         n, seed = int(sys.argv[2]), int(sys.argv[3])
-        _, _, _, videos, _, _ = build()
+        _, _, _, videos, _, _, _ = build()
         ids = sorted(videos)
         for i in random.Random(seed).sample(ids, n):
             v = videos[i]
