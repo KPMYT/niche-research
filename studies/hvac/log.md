@@ -18,3 +18,5 @@
 
 - **Operator answers on round 1 (2026-10-24):** E19 and E20 yes; new formats yes; "ignore nexlev rpm its wrong"; off-grid heat mapped; pellet stove in; sort substitute OK; "round 2 go". Recorded in `README.md` and `labels.md`.
 - **Keyword sweep running:** `data/tools/sweep_round2.py`, 150 priority keywords x 4 (relevance, view count, view count this year, view count this month; 2 pages each) and 5,675 extended keywords x relevance (1 page; 3 shards). Raw output `data/raw/sweep-2026-10-24/`. Tested 2026-10-24: the "year" and "month" filters let a few older videos through, so the analysis filters by upload age.
+- **Priority sweep complete (2026-10-24):** 600 of 600 keyword-sort searches (7 failures re-run). Extended sweep still running.
+- **Started:** NexLev channel helper (`round2/nexlev-channels.md`), old-house heat helper (`round2/old-house-heat.md`), sweep analyst (`round2/keyword-sweep.md`, `round2/formats.md`).
