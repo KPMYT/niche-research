@@ -1,0 +1,23 @@
+{
+ "lines": 5541,
+ "priority_lines": 600,
+ "extended_lines": 4941,
+ "extended_keywords_total": 5675,
+ "raw_rows": 112900,
+ "drops": {
+  "under 5:00": 46532,
+  "no length (live / upcoming)": 2480,
+  "month search: outside my age window (video kept, search row not counted)": 150,
+  "not English (rule)": 781,
+  "year search: outside my age window (video kept, search row not counted)": 53,
+  "no length (other)": 2,
+  "long-form but no view count": 5
+ },
+ "unique_videos": 23130,
+ "recent_videos": 7548,
+ "channels": 12422,
+ "new_channels": 12179,
+ "nonenglish_unique_titles": 546,
+ "pulled_first": "2026-10-24T06:54:55Z",
+ "pulled_last": "2026-10-24T07:32:46Z"
+}
