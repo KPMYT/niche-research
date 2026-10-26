@@ -6,10 +6,10 @@
  "videos_longform": 137332,
  "tiers": {
   "B": 224,
-  "C": 112,
+  "C": 123,
   "D": 223,
   "X": 330,
-  "A": 232,
+  "A": 221,
   "NO-DATA": 1
  },
  "moves": {
@@ -22,9 +22,9 @@
   "B->B": 95,
   "B->D": 1,
   "B->X": 143,
-  "C->A": 60,
+  "C->A": 49,
   "C->B": 81,
-  "C->C": 107,
+  "C->C": 118,
   "C->D": 3,
   "C->NO-DATA": 1,
   "C->X": 127,
@@ -37,6 +37,7 @@
   "LOW-N": 86,
   "COMPANY": 19,
   "contractor": 74,
+  "STOVE-CRAFT": 11,
   "LEGACY": 39,
   "ANY-LENGTH": 3,
   "DRIFT": 1

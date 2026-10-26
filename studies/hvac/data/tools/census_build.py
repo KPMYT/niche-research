@@ -824,6 +824,12 @@ def build_channel(d, mrow, about, ctype):
         flags.append("HAND-FIX")
     if lane_tags and tier == "A":
         why += "; lane " + "/".join(lane_tags)
+    # Main session, 2026-10-26: DIY stove-building and "free energy" craft channels are not Roger's competitors;
+    # keep them visible in the off-grid lane (C), not A. To be confirmed by the operator in the round 7 report.
+    if tier == "A" and "diy-stove-craft" in lane_tags:
+        tier = "C"
+        why += "; moved A->C: diy-stove-craft (main session default 2026-10-26)"
+        flags.append("STOVE-CRAFT")
     # --- baseline (labels.md section 6), from the Latest list only (an unbiased recent window)
     l12 = [v for v in lat_long if within(v["age"][1], v["age"][2], 365) and v["views"] is not None]
     capped = (not latest_complete) and oldest_latest_age is not None and within(oldest_latest_age[1], oldest_latest_age[2], 365)
