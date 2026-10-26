@@ -90,3 +90,13 @@ Fixed by the main session:
 - `data/merged/corrections.csv` now 224 rows: checker D's named rows (phone battery-life tips, generator sizing, solar and home batteries, a laptop battery, an EV-charger buying list, firefighter entertainment incl. Doctor Mike collabs, a video game, a comedy vlog, Bosnian/Malay/Hindi/German videos, the Veritasium Smith chart) and a title scan (solar; backup power / generator buying; phone or laptop battery life without a fire angle; firefighter entertainment). The top 45 title-scan drops were read by hand; 2 false drops restored ("Electricity Explained: Volts, Amps, Watts…" and "BEST Generator Cord is the One you Can Make Yourself").
 - `data/checks/presenters-summary-corrected.csv`: the presenter-background table with checker D's corrections (lineman 13 channels, 3 over 10K; firefighter 20, 2 over 10K; fire inspector/marshal 4, none over 10K; electrician 34, 18 over 10K; home inspector 35, 16 over 10K) and the big real channels the sweep missed.
 - Merged in-scope long-form after both checkers: see the count in the next round's files.
+
+**Operator, 2026-10-26:** "why do you need me inbetween each round, cant you do urself and check urself after aech round?" Standing instruction: run rounds 3-6 straight through, a checker after each round, fixes logged; stop only for a real decision; report at the end. The fire investigator / inspector deep look is added to round 3 (main session's call; it bears on the open presenter decision).
+
+## Round 3 (2026-10-26): census, channel medians and multiples, top 100, recent winners, investigator deep look
+
+**Launched (2026-10-26):**
+- Channel medians for the multiple: `data/tools/channel_medians.py` run by the main session in the background on 1,277 channels (every census channel plus every channel with an in-scope video of 10K+ in the merge; covers 3,125 of the 4,758 merged videos). Basis A = median of long-form uploads in the last 12 months (10 or more); else B = last 30 long-form. List-page views. Output `data/medians/`.
+- Census, 3 helpers (298 core and partial channels in 3 chunks): NexLev batch metrics, first upload, pace, top 3, type by thumbnails, persona and background, sub-niches, what it sells, scope re-judged. Output `data/census/`.
+- Top 100 and recent winners, 1 helper: the top 250 of the merge re-pulled, English and narrow scope re-judged, plus 15 broad keywords for misses; top 50 of the last 90 days and of the last 12 months. Output `data/top100/`.
+- Fire investigator / inspector deep look, 1 helper: every investigator-angle video and channel, top 10 described, compared with the "retired firefighter would NEVER" lists and electrician-angle videos. Output `data/investigator/`.
