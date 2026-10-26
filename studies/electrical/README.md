@@ -33,6 +33,7 @@ For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding el
 | `short-reference.md` | Under-5:00 hits, listed but never counted. |
 | `thumbnails/report-*.md` | The two thumbnail labellers' reports; `thumbnails/labels-extra.csv` holds 4 thumbnails labelled by the main session after checker G. |
 | `.gitignore` | Keeps Python caches and editor temp files out of git. |
+| `data/jack-redfield/` | The stopped Jack Redfield generator channel, pulled 2026-10-26 for the operator's question (fit for the electrical lane versus Frederick's channel). |
 | `data/tools/` | The scripts: `yt.py` (logged-out YouTube loader; notes on which sorts work), `merge_sweeps.py`, `channel_medians.py`, `subniche_map.py`, `top100_final.py`, `build_docs.py`, `build_channels.py`, `build_thumb_page.py`, `build_text_page.py`. The deliverables above are built by the last three; re-run them after any data fix. |
 | `data/silver-cymbal/` | Round 1: Silver Cymbal's full video list and the seed CSV. |
 | `data/known-channels/` | Round 1: the six known channels re-checked against the 2026-10-22 figures. |
