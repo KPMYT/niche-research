@@ -1,0 +1,81 @@
+# NexLev search_niche_finder_channels lookups, 2026-10-26. Method: query = channel description (or name + topic when no description) with a subscriber-range filter around the YT count; a hit counts only when the returned ytChannelId equals ours. Fields transcribed from the tool result. NexLev updatedAt 2026-10-19 on hits unless noted. NexLev dates (firstVideoDate) are rounded.
+idx,channelId,result,subscribers,totalViews,totalVideos,monthlyViews,monthlyRevenue,outlierScore,channelCreationDate,firstVideoDate,lastVideoDate,rpm_base,rpm_total,isMonetizationEnabled,isFaceless,isAiChannel,score,top_return_if_miss
+0,UCw1V3VC3xAzL66X4VwqaKlg,miss (filter query subs 1.30M-1.32M & views 300M-360M returned 0),,,,,,,,,,,,,,,,
+1,UC5v2qbyUuzohCNWwYLhgBpA,miss,,,,,,,,,,,,,,,,Embrace Making UClPWZq1CXsdOE9GlD6qIcZA (0.83)
+2,UCobJuNZM0teTrd2YLnDUTzA,miss (filter query subs 5.0M-5.3M & views 700M-780M returned 0),,,,,,,,,,,,,,,,
+3,UCKGkjQogWhWfMDzK50ewqOQ,hit,169000,18496712,19,838005,1947.61,15.96,2023-01-07,2024-10-19,2026-09-19,6.8,2.3241,true,true,false,0.864,
+4,UC4JLjBBedLqXjBF7u09lFyQ,hit,192000,39321186,73,2128634,5375.65,3.63,2022-07-21,2022-10-19,2026-10-07,1.8,2.5254,true,false,false,0.785,
+5,UCjG94SagJZoyPggcBhUdFCA,miss,,,,,,,,,,,,,,,,The professional idiots UCygVqyCKdETSropEKKlTXgA (0.73)
+6,UCUR9YNrJWDo21TE5Fq3bqYA,miss,,,,,,,,,,,,,,,,Ak Electric DIY UCHfnKsdsCIjmpta2Dwgy0RA (0.80)
+7,UC-Z9UcrgFzJIg49LtJFc_kg,miss,,,,,,,,,,,,,,,,TimWelds UCcfSihEYUjlCWInDQfEE1Tw (0.75)
+11,UCqZUswoAI9E9iFcTeS7L6gw,hit (from topic query 'home electrical wiring DIY electrician outlets breakers'),42200,8423371,84,494779,1255.55,0.58,2024-07-17,2024-10-19,2026-09-19,6.8,2.5376,true,true,false,0.712,
+28,UCpZ1AQDdJ5moZwFlCSzFvRQ,hit (from topic query),7750,3378738,57,142909,335.62,4.71,2022-09-18,2023-10-19,2026-09-19,6.8,2.3485,true,true,false,0.756,
+47,UCHhiS7OziiRgZ7wmZM4GKsw,hit (from topic query),604,185086,45,32730,0,0,2025-12-07,2025-12-19,2026-07-19,1.8,2.9402,false,true,false,0.719,
+8,UCQDNbE3hRniI6sc_emLLdQQ,hit,151000,41398144,88,466853,2081.74,1.69,2008-01-05,2017-10-19,2026-09-19,4,4.4591,true,true,false,0.894,
+9,UCL81H9jdKzuzCfqxV4fBVAA,miss,,,,,,,,,,,,,,,,How To Electronics UC5p2U8rMVIq0eJB8zJK7koQ (0.69)
+10,UCjhwaa5Ufj-l_5JGFwfp98Q,miss,,,,,,,,,,,,,,,,Connor Creates UCDSUFfZ6JLPrBsmZugfSqvQ (0.74)
+12,UC8OTAUHF6fdeAxad0YSkcsg,hit,683000,502022268,132,4768194,9685.63,1.2,2023-03-27,2023-10-19,2025-10-19,1.8,2.0313,true,true,false,0.875,
+13,UCvac7c_XwhBarF5ZnJanBsA,miss,,,,,,,,,,,,,,,,electronupdate UCqp2_p4YjtaTKiHuNZv0mAQ (0.73)
+14,UCuJxFxVuj4s_MmupOMmDqCQ,hit,59200,6670924,156,2379301,5355.57,0.99,2026-04-09,2026-05-19,2026-10-19,7,2.2509,true,true,true,0.802,
+15,UCx1m6AboILQKMNXbsLjjI4Q,miss,,,,,,,,,,,,,,,,simple & fast UC8NgpaX7KA2leDo0ewFsE2g (0.74)
+16,UCK-HHyVCfKYzhxVOJgBt73w,miss,,,,,,,,,,,,,,,,Marvin Achi UCV3XJz9E73P07hJCLjcJUmg (0.63)
+17,UC0H5bjnLE0301VdHAXFh4Fg,hit,23400,5837924,38,341434,899.75,3,2022-12-02,2023-10-19,2024-10-19,1.8,2.6352,true,false,false,0.843,
+18,UCqZaQ61DXBq5ifyKbSroECA,miss,,,,,,,,,,,,,,,,JLS Etnuper UCKnhronBNc1_87JyeDPUOSg (0.75)
+19,UCdBxGHBwUTQ-vnAfBfrSI7A,hit,20300,6718225,1192,108082,272.29,0.42,2012-12-04,2015-10-19,2026-10-09,1.8,2.5193,true,true,false,0.814,
+20,UCLnGgnj-hneDI3CFzBmdGLg,miss,,,,,,,,,,,,,,,,More than Gardening UCF30IObktYMnBIym1e5JAvQ (0.68)
+21,UCgtbE9w_d-u2AvPp3WBlPfQ,miss,,,,,,,,,,,,,,,,Cory Mac UCPz9akaMbffvxELBRlemUjA (0.72)
+22,UCMXN-53SCPpYxmYSvFOjz2g,hit,5210,863654,8,380677,1014.77,9.26,2026-08-20,2026-09-19,2026-10-10,6.8,2.6657,true,true,false,0.875,
+23,UCw0fdsm83rtTGkLrttaIBlA,miss,,,,,,,,,,,,,,,,For Crafts Sake UCyS-_cYzh83xQ5UFIBLdWrw (0.77)
+24,UC4PWgTIkkv5p2shhjiXNiGg,miss,,,,,,,,,,,,,,,,The professional idiots UCygVqyCKdETSropEKKlTXgA (0.65)
+25,UCAx9qFU1CRRcx2mMFTV9Png,miss,,,,,,,,,,,,,,,,Forgotten Disasters UCi044zIDe8DgARYXzEyx_zA (0.71)
+26,UCloyA5KxoM63MtH4SQxnkLQ,miss,,,,,,,,,,,,,,,,HB Restoration UCU2iVBWDRK9ZEljCt0nc9wA (0.74)
+27,UCCRkSQuy74rHjM2OczpGjrw,miss,,,,,,,,,,,,,,,,The Apprentice's Guide UCMXN-53SCPpYxmYSvFOjz2g (0.77)
+29,UCoLZdmj5sLFcRYWqTQ4FfEA,miss,,,,,,,,,,,,,,,,Earthling EDC UCg6mIr5eFxp4eZPV0gVO3Wg (0.74)
+30,UC-z5astuAc_sg_ea_nhOCZg,hit,133000,17666487,92,1654458,4531.4,0.39,2024-02-25,2024-10-19,2026-10-05,1.8,2.7389,true,false,false,0.861,
+31,UCJVZSU8Eq8BXpiQtW-O1S6A,hit,7660,8522510,100,2744915,3348.8,2.85,2026-04-05,2026-05-19,2026-10-19,1.8,1.22,true,true,false,0.876,
+32,UCFXBRQT9nrE1T52cUNVwOow,miss,,,,,,,,,,,,,,,,FLATLANDER TECH UCHYGnQ4Si91aaVXvqE7d2Lg (0.74)
+33,UCOkV7Zb61spc3fKxEWy-Ogw,miss,,,,,,,,,,,,,,,,FEATURE. UCT3GkiklbsN-G_ZX58vH8nA (0.76)
+34,UC6fkjcWqPG8uMj-NUHCmBPg,miss,,,,,,,,,,,,,,,,The Signal Path UCKxRARSpahF1Mt-2vbPug-g (0.68)
+35,UCiIkUHHwhndNBbxaq163uEQ,miss,,,,,,,,,,,,,,,,Mustang Motors UC0gCtni_XsPdj1yLbBAoEzw (0.78)
+36,UCnNLtiZfmZ2Vkybw-OKxXvQ,hit,1140,345408,31,304982,0,0,2026-08-06,2026-08-19,2026-10-18,1.8,2.3668,false,true,false,0.907,
+37,UCOFxJWxZQE0A2rPNeImjrZw,miss,,,,,,,,,,,,,,,,Sawdust Society UCPS--o2CCTF4PNHH0Fb59fg (0.72)
+38,UC-ZIYEO2M5ooPNNOqoW-QiQ,hit,23700,4675798,349,1445755,2151.86,0.34,2026-02-11,2026-03-19,2026-10-18,6.8,1.4884,true,true,true,0.822,
+39,UCPe_qVQVPPhmRwWv2TH0gPQ,hit,166000,9686112,440,136261,786.31,0.4,2012-10-18,2020-10-19,2026-10-15,7,5.7706,true,true,false,0.898,
+40,UCGx2kgwV88KGMhP5Yr5NnCA,miss,,,,,,,,,,,,,,,,Engineering with Prof. Kim UCRCdl2SXma02BG384RuZPqg (0.69)
+41,UCSCFGq_CgRNnmaTtjiLZ-5A,miss,,,,,,,,,,,,,,,,Addictive Desert Designs UC6TA0m2ga29nzVdQkf68Aww (0.64)
+42,UC_ssn3kbsxEuZ6QWv_rxvYg,miss,,,,,,,,,,,,,,,,Home Decor UCcFCmyEC-u3208XRzkLlpAQ (0.75)
+43,UC9ga5pd1adLQS3liXnZKVkg,hit,715,142526,9,76,0,0,2026-02-01,2026-03-19,2026-04-19,6.8,2.3485,false,true,false,0.855,
+44,UCwf9niZNaW8mkECB6GT6raQ,miss,,,,,,,,,,,,,,,,Jack of Haul Trades UCpZGaE1BzkWFIvHqwFxlefw (0.74)
+45,UCXnqxs5yX3F-lMf8lzWNrdA,hit (query: name + topic; channel has no description),17700,972614,135,85107,175.99,0.16,2026-02-23,2026-04-19,2026-08-19,7.2,2.0679,true,true,false,0.780,
+46,UCfJeTaTrSEOdbMIC4GLDoDQ,miss,,,,,,,,,,,,,,,,Heavy Earth Works UC5SrjVP1xwf4fInDzl2yfsQ (0.75)
+48,UC45mE0K2rnyzqiEz066GFdg,miss,,,,,,,,,,,,,,,,MM Circuits UCpLQJjMRlagyAuc7aCYsGFA (0.76; note: not ours; NexLev shows its monthlyViews 387751 > totalViews 351745)
+49,UCQzxwtXVwbzS__6IvWY5WNw,miss,,,,,,,,,,,,,,,,Inventor Master UCHBljhIP-lhdDD9GcYOtgnw (0.66)
+50,UC8U5p8K1Nhop76gg6K41pKg,miss,,,,,,,,,,,,,,,,Electro Retro UC93V83Za3anssUUQsHtv9WQ (0.77)
+51,UCSIpmdHeycEyiau0QF4Sw5g,miss,,,,,,,,,,,,,,,,Tools Inspector UCKk_JBwX3j0LzLRIaRtqzmQ (0.81)
+52,UC_fVPV0-N4-LJUZgDzMvbUQ,miss,,,,,,,,,,,,,,,,DIY inventor UCZ-NtoYTN_OjZupVG2ZlHNw (0.77)
+53,UCGtiVOckuC6fl3OItpRzGEw,miss (query: name + topic; no description),,,,,,,,,,,,,,,,Elec X UC1R1FrJabzzZlNGoh4XuQeg (0.72)
+54,UCUjEfdnZ_9C1ZW_8rC9XJ9g,miss,,,,,,,,,,,,,,,,Circuits and Sprockets UCYlXyv3XcqD2TXHnYuxqXMg (0.66)
+55,UCeoxa6P90RRSNLqeV8naktA,miss,,,,,,,,,,,,,,,,SkyBox Operator UClUJETVo_vnKycHD7v8HKrQ (0.71; not ours; NexLev shows its monthlyViews 1400431 > totalViews 1272228)
+57,UC-_b0aYhCG_R4Vv3O8AGXag,hit (NexLev editingStyle ai_avatar; updatedAt 2026-10-18),195,30179,16,22023,66.63,0,2026-08-21,2026-09-22,2026-10-08,5,3.0256,true,true,false,0.863,
+58,UCFTyE8e5LGj3WHEX813rfgg,miss,,,,,,,,,,,,,,,,Built to DIY UCiGm1ufS3Z_ZMIrBnuIOYYg (0.71)
+59,UCpz7d3TnqV2EnBs2T_kcpQg,miss,,,,,,,,,,,,,,,,Creative DIY UCGJ32Rm_G34BiD5ZS98f-uQ (0.79)
+56,UCpZhX7l9UkhmGmhWjS5OknQ,miss (query: name + topic; no description),,,,,,,,,,,,,,,,Pelagic Power UCTGzMBy4qa0hQYx1zQqi8_g (0.67)
+60,UCQDbegCLsCyys6B5QEnaR8w,hit (updatedAt 2026-10-20),591,335143,92,10803,0,0,2026-05-09,2026-05-20,2026-10-06,6.8,2.9646,false,true,false,0.913,
+61,UCrVVGArT6GvLOlni4CVBo8A,miss (query: name + topic; no description),,,,,,,,,,,,,,,,Dr Elias Carter UCf9DXE0JUDNVIFFKGOQLieg (0.69)
+62,UCbl4FZJfxh8tGVOwTTIrSYg,miss,,,,,,,,,,,,,,,,DAILY TIPS 365 UCV2O4bulhisZTBG4-3lZycQ (0.80; not ours; its monthlyViews 67019 > totalViews 66393)
+63,UC-MhB6izqQSdUGnn3iEbnzg,miss,,,,,,,,,,,,,,,,Wired Wild UC_EFCzcTChm15slu6OGo_Zw (0.71)
+64,UCehQcH5mo0F8cWFfMb9woxg,miss (query: name + topic; no description; filter max 60 subs & created after 2026-09-01),,,,,,,,,,,,,,,,Rugby Titans UCD4xX75N_OlJW2Wf9FRcXMQ (0.56)
+65,UCKfbTOJe1veuhcfy8KsTaPw,miss,,,,,,,,,,,,,,,,Forge & Stamp UCtCEsyWAmzZ7ycaPEgeUVcg (0.70)
+67,UCkz9H1Hl6jl31W330aA-Vrg,miss,,,,,,,,,,,,,,,,50 State Insider UC5YUhF6k4habXMEwW9LL5OA (0.68)
+68,UCPAnIra5StNpIri0nqBlKqg,miss,,,,,,,,,,,,,,,,Curious Scientist UCKp1MzuAceJnDqAvsZl_46g (0.77)
+70,UCoZVru6Yz5TLsYU9kFyGBVw,miss (filter max 60 subs),,,,,,,,,,,,,,,,Work We Left Behind UCVM_DtzDLWYEdrwAl1jz3yw (0.60)
+66,UCPEQT7UbWW-KO4h5R8pwziQ,miss (query: name + topic; filter max 40 subs; 0 results),,,,,,,,,,,,,,,,
+69,UChL5b_6ssO_U7ty6h0-xBmg,miss (filter max 80 subs),,,,,,,,,,,,,,,,Sarah's HeartTox UClabwT-bv5k97JmGAT_fPGQ (0.65)
+71,UCOtEwFa8fDW-F2nWRwi0i3w,miss (filter max 100 subs),,,,,,,,,,,,,,,,Clumsy Maker UCQ_IliFCITZLoddZYdp8O_g (0.66; not ours; its monthlyViews 76703 > totalViews 65402)
+72,UCKLLK9dJp0mwkiZtk1sDzEg,miss (filter max 60 subs),,,,,,,,,,,,,,,,Work We Left Behind UCVM_DtzDLWYEdrwAl1jz3yw (0.63)
+73,UCd6fy0Vgqzstqnnwq4Y-2sg,miss (filter max 80 subs),,,,,,,,,,,,,,,,RepairsMe UCZAJW5H7U_KrxK3nuDikuoA (0.74)
+75,UCnvA17kCklEUs3jtmRz8lrA,miss (filter max 60 subs),,,,,,,,,,,,,,,,Work We Left Behind UCVM_DtzDLWYEdrwAl1jz3yw (0.65)
+77,UC2slB8PTT1zHAlthu2tYyIQ,miss (filter max 60 subs),,,,,,,,,,,,,,,,BLINKER WATCH UCq_7wYBTwkQA71PGEX4RksA (0.67)
+78,UCVUPs0dok8YTnUG6JOaD67w,miss (filter max 60 subs),,,,,,,,,,,,,,,,Work We Left Behind UCVM_DtzDLWYEdrwAl1jz3yw (0.65)
+84,UCN4iDVKQEeWB8JoCjeF8UfA,miss (filter max 60 subs),,,,,,,,,,,,,,,,Northcase Studio UCo9F3-ZksxU30mBsjWyRDzQ (0.63)
+97,UCSbWccmdomSWb8o-hPlTZvw,miss (filter max 60 subs),,,,,,,,,,,,,,,,Work We Left Behind UCVM_DtzDLWYEdrwAl1jz3yw (0.67)

@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job d428dad0-2597-430a-870a-15f2f2531f32, timestamp 2026-10-26T06:52:37.210Z (transcribed field by field from the tool result)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UC-z5astuAc_sg_ea_nhOCZg,true,4.62,198594,10,do it yourself,tutorial,false,false,United States,0.98
+UCJVZSU8Eq8BXpiQtW-O1S6A,true,3.15,90713,10,do it yourself,tutorial,false,true,United States,0.98
+UCFXBRQT9nrE1T52cUNVwOow,true,2.92,168884,10.9,do it yourself,tutorial,false,false,United States,0.98
+UCOkV7Zb61spc3fKxEWy-Ogw,true,2.85,63000,14.6,engineering,tutorial,true,false,India,0.95
+UC6fkjcWqPG8uMj-NUHCmBPg,false,3.23,33095,2,business,reviews,true,true,United States,0.97
+UCiIkUHHwhndNBbxaq163uEQ,true,2.96,10927,5.3,music,music,true,true,Canada,0.97
+UCnNLtiZfmZ2Vkybw-OKxXvQ,true,3.69,10807,12.1,do it yourself,tutorial,false,true,,0.98
+UCOFxJWxZQE0A2rPNeImjrZw,true,3.34,47566,8.3,do it yourself,tutorial,true,true,United States,0.98
+UC-ZIYEO2M5ooPNNOqoW-QiQ,true,3.62,13955,11.4,engineering,educational,true,true,United States,0.98
+UCPe_qVQVPPhmRwWv2TH0gPQ,true,3.48,22072,12.3,tech,reviews,true,true,United States,0.98

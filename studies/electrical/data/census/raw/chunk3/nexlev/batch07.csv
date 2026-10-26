@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job 10f2e4e7-7c3f-4f68-96ee-1f98e8596f98, timestamp 2026-10-26T06:55:06.811Z (transcribed field by field from the tool result)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UCQDbegCLsCyys6B5QEnaR8w,false,4.58,3692,3.2,do it yourself,tutorial,true,true,,0.98
+UCrVVGArT6GvLOlni4CVBo8A,false,8.4,1555,12.2,health,educational,false,false,,0.99
+UCbl4FZJfxh8tGVOwTTIrSYg,false,3.12,2419,12,do it yourself,tutorial,false,true,Canada,0.98
+UC-MhB6izqQSdUGnn3iEbnzg,false,3.36,546,14.4,engineering,educational,false,true,,0.99
+UCehQcH5mo0F8cWFfMb9woxg,false,6.24,582,20.8,engineering,educational,false,true,,0.99
+UCKfbTOJe1veuhcfy8KsTaPw,false,5.7,5780,2,engineering,tutorial,true,true,United States,0.98
+UCPEQT7UbWW-KO4h5R8pwziQ,false,9.18,381,21.2,health,educational,false,false,,0.98
+UCkz9H1Hl6jl31W330aA-Vrg,false,5.27,750,7.5,real estate,commentary,true,false,United States,0.93
+UCPAnIra5StNpIri0nqBlKqg,true,2.4,369194,6.4,do it yourself,tutorial,true,true,,0.97
+UChL5b_6ssO_U7ty6h0-xBmg,false,10.77,349,29.3,lifestyle,educational,true,false,,0.98

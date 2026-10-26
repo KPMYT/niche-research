@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job c1ca2253-aa6a-4c38-9d5f-d2c935751a18, timestamp 2026-10-26T06:56:28.217Z (transcribed field by field from the tool result)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UCoZVru6Yz5TLsYU9kFyGBVw,false,8.63,250,20.5,safety,tutorial,false,false,,0.98
+UCOtEwFa8fDW-F2nWRwi0i3w,false,5.09,1214,12.1,business,tutorial,true,false,United States,0.88
+UCKLLK9dJp0mwkiZtk1sDzEg,false,4.77,208,9,health,educational,false,false,Jamaica,0.95
+UCd6fy0Vgqzstqnnwq4Y-2sg,false,4.94,527,11,architecture,tutorial,true,false,Canada,0.96
+UChFS6J4bSxENe2IK8Ls9WEg,false,5.22,187,14.9,health,educational,false,false,United States,0.96
+UCnvA17kCklEUs3jtmRz8lrA,false,4.07,1009,9.6,engineering,educational,false,false,,0.98
+UCKY4ENrlFurBXTLoFmdEswg,false,8.87,218,11.5,autos,reviews,false,false,,0.99
+UC2slB8PTT1zHAlthu2tYyIQ,false,2.5,202,19.2,weather,educational,false,false,,0.98
+UCVUPs0dok8YTnUG6JOaD67w,false,7.54,228,21.8,do it yourself,tutorial,false,false,United States,0.99
+UCx1dPGBUcDAv2zRJ8vO-tTA,false,6.08,142,5,science,educational,false,true,,0.98

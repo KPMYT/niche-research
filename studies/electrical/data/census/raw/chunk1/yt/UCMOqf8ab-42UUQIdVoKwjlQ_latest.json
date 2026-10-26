@@ -1,0 +1,791 @@
+{
+ "channel": "Practical Engineering",
+ "id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+ "handle": "http://www.youtube.com/@PracticalEngineeringChannel",
+ "description": "Practical Engineering is all about infrastructure and the human-made world around us. It is hosted, written, and produced by civil engineer, Grady Hillhouse. We have new videos posted every first and third Tuesday, so please subscribe for updates.\n\nPractical Engineering: Deciphering Our Constructed World\n\nCONTACT\n---------------------------------------------\nQuestions/Topic Suggestions: https://practical.engineering/about\nSponsorship/Business Inquiries: See below",
+ "subs": "4.84M subscribers",
+ "videos_count": "252 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "awV7FP9sAHE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Whatever Happened to Fire Escapes?",
+   "dur": "18:07",
+   "meta": [
+    "828K",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 828000,
+   "age": "5d ago"
+  },
+  {
+   "id": "5_B1Mq02wcI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Pressure Regulators",
+   "dur": "16:34",
+   "meta": [
+    "1.8M",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "2w ago"
+  },
+  {
+   "id": "n_1wzYQwnts",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Every US Electrical Outlet Explained",
+   "dur": "21:33",
+   "meta": [
+    "1.5M",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "-17mPnFxi30",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Stopping the Unstoppable",
+   "dur": "15:46",
+   "meta": [
+    "5.4M",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 5400000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "r1wwtGgnzg4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Are Beavers Actually Good at Dams?",
+   "dur": "19:15",
+   "meta": [
+    "1.3M",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "stQfGfUSLQg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Grid That Doubles the Strength of the Ground",
+   "dur": "18:28",
+   "meta": [
+    "975K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 975000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "Iclf_JnPkKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What's Under Your Feet in New York City?",
+   "dur": "22:32",
+   "meta": [
+    "847K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 847000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "Ku_ockR2t44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Mind-Blowing Flaw That Flooded New Orleans",
+   "dur": "24:34",
+   "meta": [
+    "2M",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 2000000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "7oi4yMr8Rjk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Bridge Demolition is Complicated",
+   "dur": "17:56",
+   "meta": [
+    "584K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 584000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "3YvwqMDDb3k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Roads Get Washboards",
+   "dur": "17:54",
+   "meta": [
+    "3.3M",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 3300000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "DWLcmq_DiaA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fixing the Most Dangerous Dam in the World",
+   "dur": "22:23",
+   "meta": [
+    "683K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 683000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "fKuIJ_z2Y6A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Physics Behind the Thumb Trick",
+   "dur": "17:43",
+   "meta": [
+    "1M",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "J7ieKmP96Hc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Wild Story of the Teton Dam Failure",
+   "dur": "19:23",
+   "meta": [
+    "1.2M",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "6mo ago"
+  },
+  {
+   "id": "UF63eFJmbrQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Spillway Failed On Purpose",
+   "dur": "19:04",
+   "meta": [
+    "795K",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 795000,
+   "age": "6mo ago"
+  },
+  {
+   "id": "PhW2BjFQCZM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Los Angeles Aqueduct is Wild",
+   "dur": "22:59",
+   "meta": [
+    "5.1M",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 5100000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "qt2j2gn0yWc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Earthquake Bearings Work",
+   "dur": "18:04",
+   "meta": [
+    "860K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 860000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "Ssw5bdx1HKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "So You Want to Build a Tunnel...",
+   "dur": "20:42",
+   "meta": [
+    "874K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 874000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "xPksDeGoh4E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Do Retention Ponds Actually Work?",
+   "dur": "17:43",
+   "meta": [
+    "2.4M",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 2400000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "ZJqY1WLX4zA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Runways",
+   "dur": "18:40",
+   "meta": [
+    "2M",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 2000000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "7OHCOFFUamQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Recreating an Ancient Pump (with no moving parts)",
+   "dur": "13:11",
+   "meta": [
+    "2.4M",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 2400000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "lnYA0_AzhsM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sawing a Dam in Half (on Purpose)",
+   "dur": "20:31",
+   "meta": [
+    "1M",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "-2HSFJOzQQ8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Hurricane vs. Tiny Houses",
+   "dur": "22:04",
+   "meta": [
+    "1.1M",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "sq6ZOVbKQhY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering Behind the Falkirk Wheel",
+   "dur": "15:15",
+   "meta": [
+    "745K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 745000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "f2uad6LT9fo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Concrete's Greatest Weakness is Time",
+   "dur": "17:04",
+   "meta": [
+    "824K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 824000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "7mdvEtmo1pM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Niagara Falls",
+   "dur": "15:43",
+   "meta": [
+    "2.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "3nDdLiXS5wk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Bizarre Bases of Antenna Towers",
+   "dur": "18:08",
+   "meta": [
+    "4.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 4100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "3FfMzWa6LKg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "An Engineer's Perspective on the Texas Floods",
+   "dur": "23:14",
+   "meta": [
+    "717K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 717000,
+   "age": "1y ago"
+  },
+  {
+   "id": "2nX7Y8ZwShg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Weirdest Tool in Underwater Construction",
+   "dur": "17:45",
+   "meta": [
+    "1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "QOnQORqkHcM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "California’s Tallest Bridge Has Nothing Underneath",
+   "dur": "17:07",
+   "meta": [
+    "1.7M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "1y ago"
+  },
+  {
+   "id": "_R0xPffklXQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are There No Short Arch Dams?",
+   "dur": "16:40",
+   "meta": [
+    "1.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "nol0_4qxzb0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Floating Bridges",
+   "dur": "17:36",
+   "meta": [
+    "890K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 890000,
+   "age": "1y ago"
+  },
+  {
+   "id": "fudWbvE8ZKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Liquid Dampers in Skyscrapers Work",
+   "dur": "19:10",
+   "meta": [
+    "1.3M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "1y ago"
+  },
+  {
+   "id": "WhCNpX3s-D8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Water Recycling Works",
+   "dur": "17:21",
+   "meta": [
+    "962K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 962000,
+   "age": "1y ago"
+  },
+  {
+   "id": "RnYdt4T76mk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why are Smokestacks So Tall?",
+   "dur": "20:20",
+   "meta": [
+    "1.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "jPJCYrxqyT8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Most Implausible Tunneling Method",
+   "dur": "15:32",
+   "meta": [
+    "2.2M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "1y ago"
+  },
+  {
+   "id": "RZg1zOKm5wk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When Abandoned Mines Collapse",
+   "dur": "17:33",
+   "meta": [
+    "2.7M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2700000,
+   "age": "1y ago"
+  },
+  {
+   "id": "-D5iBAuXxeQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When Kitty Litter Caused a Nuclear Catastrophe",
+   "dur": "17:36",
+   "meta": [
+    "961K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 961000,
+   "age": "1y ago"
+  },
+  {
+   "id": "0kQXOTcEB_E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Beach Holes So Deadly?",
+   "dur": "16:11",
+   "meta": [
+    "7.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 7100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "pL5NCUuOkTM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Bridge’s Bizarre Design Nearly Caused It To Collapse",
+   "dur": "20:04",
+   "meta": [
+    "1.7M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "1y ago"
+  },
+  {
+   "id": "XiUOBdEUqjY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "All Dams Are Temporary",
+   "dur": "16:29",
+   "meta": [
+    "6M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 6000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "YSQhtlyfPtU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A Love Letter to Cable-Stayed Bridges",
+   "dur": "20:19",
+   "meta": [
+    "473K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 473000,
+   "age": "1y ago"
+  },
+  {
+   "id": "1ztGpGjO60o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What’s Inside a Manhole?",
+   "dur": "13:10",
+   "meta": [
+    "2.3M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "1y ago"
+  },
+  {
+   "id": "qQCB3N8Vaxk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why are the Dutch So Good at Waterworks?",
+   "dur": "22:20",
+   "meta": [
+    "3.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 3400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "MNexLKROHmY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering Behind Texas's Top Tourist Attraction",
+   "dur": "20:48",
+   "meta": [
+    "1.6M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "1y ago"
+  },
+  {
+   "id": "5mYpQWPtfpo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Wildlife Crossings",
+   "dur": "16:56",
+   "meta": [
+    "1.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "nGa1244hK9Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What’s the Deal with Base Plates?",
+   "dur": "13:31",
+   "meta": [
+    "3.9M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 3900000,
+   "age": "1y ago"
+  },
+  {
+   "id": "sH1PVVJuBtE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Which Power Plant Does My Electricity Come From?",
+   "dur": "23:17",
+   "meta": [
+    "902K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 902000,
+   "age": "1y ago"
+  },
+  {
+   "id": "tmbZVmXyOXM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Cooling Towers Shaped Like That?",
+   "dur": "19:48",
+   "meta": [
+    "9.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 9400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "goWsVAE-JF0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "1.5 Years of Heavy Construction in 1.5 Hours",
+   "dur": "1:36:35",
+   "meta": [
+    "1.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "zRM2AnwNY20",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Wild Story of the Taum Sauk Dam Failure",
+   "dur": "20:10",
+   "meta": [
+    "11M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "SB0qDQFTyE8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is the World Really Running Out of Sand?",
+   "dur": "19:38",
+   "meta": [
+    "1.6M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "2y ago"
+  },
+  {
+   "id": "VE1wM4oIh8Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When Infrastructure Gets Hacked",
+   "dur": "15:08",
+   "meta": [
+    "733K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 733000,
+   "age": "2y ago"
+  },
+  {
+   "id": "HRx_dZawN44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Landfills",
+   "dur": "17:04",
+   "meta": [
+    "11M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "-16RFXr44fY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Texas Interchanges So Tall?",
+   "dur": "13:18",
+   "meta": [
+    "2.5M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2500000,
+   "age": "2y ago"
+  },
+  {
+   "id": "aFZM_BY6jBw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How French Drains Work",
+   "dur": "16:41",
+   "meta": [
+    "4.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "pR486zloao0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When Natural Gas Had No Smell",
+   "dur": "16:27",
+   "meta": [
+    "989K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 989000,
+   "age": "2y ago"
+  },
+  {
+   "id": "XpTs1V2NQ24",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Bridges Don't Sink",
+   "dur": "17:30",
+   "meta": [
+    "4.4M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "2y ago"
+  },
+  {
+   "id": "4mn0mC0cbi8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Bridge Should Have Been Closed Years Before It Collapsed",
+   "dur": "22:11",
+   "meta": [
+    "2.1M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "2y ago"
+  },
+  {
+   "id": "ZwkNTwWJP5k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Most Confusing Part of the Power Grid",
+   "dur": "22:07",
+   "meta": [
+    "3.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "DX_zkaK5PaI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Every Kind of Bridge Explained in 15 Minutes",
+   "dur": "17:36",
+   "meta": [
+    "2.5M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2500000,
+   "age": "2y ago"
+  }
+ ]
+}
