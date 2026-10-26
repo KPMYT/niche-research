@@ -1,0 +1,385 @@
+{
+ "key": "UC_fXHyeITyiccoEJxtGDPpg",
+ "channel": "kenz Survival ",
+ "id": "UC_fXHyeITyiccoEJxtGDPpg",
+ "subs": "2.82K subscribers",
+ "videos": "9 videos",
+ "pulled": "2026-10-26T08:15:22.758474+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "PkFQsuK0NXQ",
+    "title": "They Sold You a $800 Machine. The Real Solution Cost $8.",
+    "meta": [
+     "362",
+     "6mo ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 362
+   },
+   {
+    "id": "1yjM2ZXCR0M",
+    "title": "A $4 Hardware Store Device Dropped This Man's $340 Power Bill to $127. Here's Exactly How.",
+    "meta": [
+     "108K",
+     "6mo ago"
+    ],
+    "dur": "18:37",
+    "views_tab": 108000
+   },
+   {
+    "id": "O2Ri4c-TPf0",
+    "title": "\u201cThis $3 Powder Removes Toilet Stains Permanently (They Don\u2019t Tell You This)\u201d",
+    "meta": [
+     "374",
+     "6mo ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 374
+   },
+   {
+    "id": "uYIwvL4IXLg",
+    "title": "FREE Heat ALL WINTER With a $3 Pipe \u2014 Why Gas Companies Want This BURIED",
+    "meta": [
+     "179",
+     "6mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 179
+   },
+   {
+    "id": "t65DwOJlUBU",
+    "title": "$15 Plant REVERSED My Blood Sugar in 30 Days. GONE FOREVER. Big Pharma BURIED This",
+    "meta": [
+     "95",
+     "6mo ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 95
+   },
+   {
+    "id": "wVHSx9hHqTg",
+    "title": "$4 Powder DESTROYS Rust FOREVER. One Coat. No Grinding. THEY KNEW FOR 2,000 YEARS.",
+    "meta": [
+     "240",
+     "6mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 240
+   },
+   {
+    "id": "b0S90SSGrbM",
+    "title": "\"A $1 Hardware Store Powder Removes 30-Year Bathtub Stains In 20 Minutes\"",
+    "meta": [
+     "278",
+     "6mo ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 278
+   },
+   {
+    "id": "nZKD1dPMOVM",
+    "title": "$2 Liquid Makes ANY Wood Look NEW FOREVER \u2014 BURIED Since 1939. They PRAYED You'd Forget",
+    "meta": [
+     "387",
+     "6mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 387
+   },
+   {
+    "id": "WprgVeZN8CE",
+    "title": "Cool ANY Room 15\u00b0 for Free. No AC. No Fan. No Electricity. The 3-Minute Setup.",
+    "meta": [
+     "163",
+     "6mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 163
+   }
+  ],
+  "Latest": [
+   {
+    "id": "PkFQsuK0NXQ",
+    "title": "They Sold You a $800 Machine. The Real Solution Cost $8.",
+    "meta": [
+     "362",
+     "6mo ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 362
+   },
+   {
+    "id": "1yjM2ZXCR0M",
+    "title": "A $4 Hardware Store Device Dropped This Man's $340 Power Bill to $127. Here's Exactly How.",
+    "meta": [
+     "108K",
+     "6mo ago"
+    ],
+    "dur": "18:37",
+    "views_tab": 108000
+   },
+   {
+    "id": "O2Ri4c-TPf0",
+    "title": "\u201cThis $3 Powder Removes Toilet Stains Permanently (They Don\u2019t Tell You This)\u201d",
+    "meta": [
+     "374",
+     "6mo ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 374
+   },
+   {
+    "id": "uYIwvL4IXLg",
+    "title": "FREE Heat ALL WINTER With a $3 Pipe \u2014 Why Gas Companies Want This BURIED",
+    "meta": [
+     "179",
+     "6mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 179
+   },
+   {
+    "id": "t65DwOJlUBU",
+    "title": "$15 Plant REVERSED My Blood Sugar in 30 Days. GONE FOREVER. Big Pharma BURIED This",
+    "meta": [
+     "95",
+     "6mo ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 95
+   },
+   {
+    "id": "wVHSx9hHqTg",
+    "title": "$4 Powder DESTROYS Rust FOREVER. One Coat. No Grinding. THEY KNEW FOR 2,000 YEARS.",
+    "meta": [
+     "240",
+     "6mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 240
+   },
+   {
+    "id": "b0S90SSGrbM",
+    "title": "\"A $1 Hardware Store Powder Removes 30-Year Bathtub Stains In 20 Minutes\"",
+    "meta": [
+     "278",
+     "6mo ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 278
+   },
+   {
+    "id": "nZKD1dPMOVM",
+    "title": "$2 Liquid Makes ANY Wood Look NEW FOREVER \u2014 BURIED Since 1939. They PRAYED You'd Forget",
+    "meta": [
+     "387",
+     "6mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 387
+   },
+   {
+    "id": "WprgVeZN8CE",
+    "title": "Cool ANY Room 15\u00b0 for Free. No AC. No Fan. No Electricity. The 3-Minute Setup.",
+    "meta": [
+     "163",
+     "6mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 163
+   }
+  ],
+  "Popular": [
+   {
+    "id": "1yjM2ZXCR0M",
+    "title": "A $4 Hardware Store Device Dropped This Man's $340 Power Bill to $127. Here's Exactly How.",
+    "meta": [
+     "108K",
+     "6mo ago"
+    ],
+    "dur": "18:37",
+    "views_tab": 108000
+   },
+   {
+    "id": "nZKD1dPMOVM",
+    "title": "$2 Liquid Makes ANY Wood Look NEW FOREVER \u2014 BURIED Since 1939. They PRAYED You'd Forget",
+    "meta": [
+     "387",
+     "6mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 387
+   },
+   {
+    "id": "O2Ri4c-TPf0",
+    "title": "\u201cThis $3 Powder Removes Toilet Stains Permanently (They Don\u2019t Tell You This)\u201d",
+    "meta": [
+     "374",
+     "6mo ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 374
+   },
+   {
+    "id": "PkFQsuK0NXQ",
+    "title": "They Sold You a $800 Machine. The Real Solution Cost $8.",
+    "meta": [
+     "362",
+     "6mo ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 362
+   },
+   {
+    "id": "b0S90SSGrbM",
+    "title": "\"A $1 Hardware Store Powder Removes 30-Year Bathtub Stains In 20 Minutes\"",
+    "meta": [
+     "278",
+     "6mo ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 278
+   },
+   {
+    "id": "wVHSx9hHqTg",
+    "title": "$4 Powder DESTROYS Rust FOREVER. One Coat. No Grinding. THEY KNEW FOR 2,000 YEARS.",
+    "meta": [
+     "240",
+     "6mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 240
+   },
+   {
+    "id": "uYIwvL4IXLg",
+    "title": "FREE Heat ALL WINTER With a $3 Pipe \u2014 Why Gas Companies Want This BURIED",
+    "meta": [
+     "179",
+     "6mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 179
+   },
+   {
+    "id": "WprgVeZN8CE",
+    "title": "Cool ANY Room 15\u00b0 for Free. No AC. No Fan. No Electricity. The 3-Minute Setup.",
+    "meta": [
+     "163",
+     "6mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 163
+   },
+   {
+    "id": "t65DwOJlUBU",
+    "title": "$15 Plant REVERSED My Blood Sugar in 30 Days. GONE FOREVER. Big Pharma BURIED This",
+    "meta": [
+     "95",
+     "6mo ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 95
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "WprgVeZN8CE",
+    "title": "Cool ANY Room 15\u00b0 for Free. No AC. No Fan. No Electricity. The 3-Minute Setup.",
+    "meta": [
+     "163",
+     "6mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 163
+   },
+   {
+    "id": "nZKD1dPMOVM",
+    "title": "$2 Liquid Makes ANY Wood Look NEW FOREVER \u2014 BURIED Since 1939. They PRAYED You'd Forget",
+    "meta": [
+     "387",
+     "6mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 387
+   },
+   {
+    "id": "b0S90SSGrbM",
+    "title": "\"A $1 Hardware Store Powder Removes 30-Year Bathtub Stains In 20 Minutes\"",
+    "meta": [
+     "278",
+     "6mo ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 278
+   },
+   {
+    "id": "wVHSx9hHqTg",
+    "title": "$4 Powder DESTROYS Rust FOREVER. One Coat. No Grinding. THEY KNEW FOR 2,000 YEARS.",
+    "meta": [
+     "240",
+     "6mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 240
+   },
+   {
+    "id": "t65DwOJlUBU",
+    "title": "$15 Plant REVERSED My Blood Sugar in 30 Days. GONE FOREVER. Big Pharma BURIED This",
+    "meta": [
+     "95",
+     "6mo ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 95
+   },
+   {
+    "id": "uYIwvL4IXLg",
+    "title": "FREE Heat ALL WINTER With a $3 Pipe \u2014 Why Gas Companies Want This BURIED",
+    "meta": [
+     "179",
+     "6mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 179
+   },
+   {
+    "id": "O2Ri4c-TPf0",
+    "title": "\u201cThis $3 Powder Removes Toilet Stains Permanently (They Don\u2019t Tell You This)\u201d",
+    "meta": [
+     "374",
+     "6mo ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 374
+   },
+   {
+    "id": "1yjM2ZXCR0M",
+    "title": "A $4 Hardware Store Device Dropped This Man's $340 Power Bill to $127. Here's Exactly How.",
+    "meta": [
+     "108K",
+     "6mo ago"
+    ],
+    "dur": "18:37",
+    "views_tab": 108000
+   },
+   {
+    "id": "PkFQsuK0NXQ",
+    "title": "They Sold You a $800 Machine. The Real Solution Cost $8.",
+    "meta": [
+     "362",
+     "6mo ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 362
+   }
+  ]
+ }
+}

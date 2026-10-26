@@ -1,0 +1,3925 @@
+{
+ "key": "UCuJxFxVuj4s_MmupOMmDqCQ",
+ "channel": "Weirdward Bound",
+ "id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+ "subs": "64.4K subscribers",
+ "videos": "163 videos",
+ "pulled": "2026-10-26T08:14:31.295420+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "4qy9g7g_YO0",
+    "title": "How Does a Resistor Actually Work? \u2014 Ohm's Law Explained",
+    "meta": [
+     "8.2K",
+     "8h ago"
+    ],
+    "dur": "26:29",
+    "views_tab": 8200
+   },
+   {
+    "id": "iL5lBGfEUyA",
+    "title": "Volts, Amps & Watts Explained \u2014 and Which One Can Kill You",
+    "meta": [
+     "9.2K",
+     "1d ago"
+    ],
+    "dur": "25:01",
+    "views_tab": 9200
+   },
+   {
+    "id": "xjr2J3VL2RU",
+    "title": "How Inverters Turn Battery Power into AC",
+    "meta": [
+     "18K",
+     "2d ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 18000
+   },
+   {
+    "id": "-VyFzxWYQrg",
+    "title": "Why Does Japan Run on Both 50 Hz and 60 Hz",
+    "meta": [
+     "3.8K",
+     "3d ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 3800
+   },
+   {
+    "id": "zRGcAUKKIoQ",
+    "title": "Why Do 3-Phase Motors Have 6 Terminals but Only 3 Supply Leads?",
+    "meta": [
+     "18K",
+     "4d ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 18000
+   },
+   {
+    "id": "d1ewa_WekxA",
+    "title": "Why Do Builders Use Simple Wire to Hold Rebar Together?",
+    "meta": [
+     "5.9K",
+     "5d ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 5900
+   },
+   {
+    "id": "3QHTf50i1_M",
+    "title": "How Electricity Actually Works in a House From Start to Finish",
+    "meta": [
+     "14K",
+     "6d ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 14000
+   },
+   {
+    "id": "RGcyBe7fSY4",
+    "title": "Why Do Electrical Plugs Have Holes in the Prongs?",
+    "meta": [
+     "145K",
+     "7d ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 145000
+   },
+   {
+    "id": "Q5ZG7nLr_KE",
+    "title": "The Surprising Engineering Behind the Shape of Train Wheels",
+    "meta": [
+     "5.9K",
+     "8d ago"
+    ],
+    "dur": "25:09",
+    "views_tab": 5900
+   },
+   {
+    "id": "njDCLnY5ACg",
+    "title": "What Are Those Giant Balls on Power Lines For? (Bizarre Reason)",
+    "meta": [
+     "16K",
+     "9d ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 16000
+   },
+   {
+    "id": "hHbirZfeQmI",
+    "title": "Why Did Pirate Satellite TV Stop Working?",
+    "meta": [
+     "52K",
+     "10d ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 52000
+   },
+   {
+    "id": "Px_SYXzatR8",
+    "title": "What Does The Neutral Wire Actually Do?",
+    "meta": [
+     "272K",
+     "11d ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 272000
+   },
+   {
+    "id": "4C3HSt8Ww3E",
+    "title": "What Happened to Railroad Friction Bearings? The Oily Rags That Derailed Trains",
+    "meta": [
+     "5.6K",
+     "12d ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 5600
+   },
+   {
+    "id": "-xulKD_1Czs",
+    "title": "Why the US is Stuck on 120V (While the World Moved to 230V)",
+    "meta": [
+     "292K",
+     "13d ago"
+    ],
+    "dur": "24:55",
+    "views_tab": 292000
+   },
+   {
+    "id": "pRjGgdl1d3c",
+    "title": "The Real Reason Why the Neutral Wire is Thinner Than Phase Wires",
+    "meta": [
+     "72K",
+     "2w ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 72000
+   },
+   {
+    "id": "jqFPWcS-CY8",
+    "title": "Why 60 Hz Took Over North America",
+    "meta": [
+     "7.6K",
+     "2w ago"
+    ],
+    "dur": "23:14",
+    "views_tab": 7600
+   },
+   {
+    "id": "nVzlYiLJzdU",
+    "title": "Why Do Power-Line Insulators Have So Many Discs?",
+    "meta": [
+     "52K",
+     "2w ago"
+    ],
+    "dur": "26:13",
+    "views_tab": 52000
+   },
+   {
+    "id": "nEC5qCi7XXQ",
+    "title": "How Was Plastic Actually Invented?",
+    "meta": [
+     "27K",
+     "2w ago"
+    ],
+    "dur": "22:17",
+    "views_tab": 27000
+   },
+   {
+    "id": "3MqNVS3SGJE",
+    "title": "The Antenna Existed Decades Before Radio \u2014 So What Was It Actually For?",
+    "meta": [
+     "125K",
+     "2w ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 125000
+   },
+   {
+    "id": "7voH3cm2h1M",
+    "title": "Why Does America Use 60 Hz While Europe Uses 50 Hz?",
+    "meta": [
+     "1.4M",
+     "2w ago"
+    ],
+    "dur": "27:27",
+    "views_tab": 1400000
+   },
+   {
+    "id": "fZRtSsA8o24",
+    "title": "The Real Reason American Malls Died Is Not What Anyone Tells You",
+    "meta": [
+     "4.4K",
+     "2w ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 4400
+   },
+   {
+    "id": "Voc4g_gp7z0",
+    "title": "Before Grocery Stores, Where Did American Families Actually Go?",
+    "meta": [
+     "11K",
+     "3w ago"
+    ],
+    "dur": "24:48",
+    "views_tab": 11000
+   },
+   {
+    "id": "WEZ2f1vZ9B0",
+    "title": "Why Were Early Playing Grounds So Terrifying?",
+    "meta": [
+     "9.8K",
+     "3w ago"
+    ],
+    "dur": "26:52",
+    "views_tab": 9800
+   },
+   {
+    "id": "uiBidqia5uI",
+    "title": "Why Was Medieval Bread a Superfood When Modern Bread Makes You Sick?",
+    "meta": [
+     "9K",
+     "3w ago"
+    ],
+    "dur": "26:43",
+    "views_tab": 9000
+   },
+   {
+    "id": "yTn-5QTtud0",
+    "title": "What Did Men Do Before Viagra Existed?",
+    "meta": [
+     "1.9K",
+     "3w ago"
+    ],
+    "dur": "26:37",
+    "views_tab": 1900
+   },
+   {
+    "id": "-sIzYjagX28",
+    "title": "Solid VS. Stranded Wire \u2014 Why Do Electricians Use Both?",
+    "meta": [
+     "170K",
+     "3w ago"
+    ],
+    "dur": "25:56",
+    "views_tab": 170000
+   },
+   {
+    "id": "BASzPcLNdF4",
+    "title": "The Wartime Accident That Changed American Kitchens",
+    "meta": [
+     "10K",
+     "3w ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "uWii-VeMjew",
+    "title": "Why Saloon Girls Had the Nastiest Hygiene Habits of the Wild West?",
+    "meta": [
+     "4.2K",
+     "3w ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 4200
+   },
+   {
+    "id": "MNhTZk19Dos",
+    "title": "The GPS Began as Military Technology \u2014 So How Did They End Up in Every Car?",
+    "meta": [
+     "8.5K",
+     "4w ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 8500
+   },
+   {
+    "id": "b2pUA5g1dyE",
+    "title": "Batteries Existed Decades Before the Power Grid \u2014 So What Were They Actually For?",
+    "meta": [
+     "31K",
+     "1mo ago"
+    ],
+    "dur": "26:30",
+    "views_tab": 31000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "4qy9g7g_YO0",
+    "title": "How Does a Resistor Actually Work? \u2014 Ohm's Law Explained",
+    "meta": [
+     "8.2K",
+     "8h ago"
+    ],
+    "dur": "26:29",
+    "views_tab": 8200
+   },
+   {
+    "id": "iL5lBGfEUyA",
+    "title": "Volts, Amps & Watts Explained \u2014 and Which One Can Kill You",
+    "meta": [
+     "9.2K",
+     "1d ago"
+    ],
+    "dur": "25:01",
+    "views_tab": 9200
+   },
+   {
+    "id": "xjr2J3VL2RU",
+    "title": "How Inverters Turn Battery Power into AC",
+    "meta": [
+     "18K",
+     "2d ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 18000
+   },
+   {
+    "id": "-VyFzxWYQrg",
+    "title": "Why Does Japan Run on Both 50 Hz and 60 Hz",
+    "meta": [
+     "3.8K",
+     "3d ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 3800
+   },
+   {
+    "id": "zRGcAUKKIoQ",
+    "title": "Why Do 3-Phase Motors Have 6 Terminals but Only 3 Supply Leads?",
+    "meta": [
+     "18K",
+     "4d ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 18000
+   },
+   {
+    "id": "d1ewa_WekxA",
+    "title": "Why Do Builders Use Simple Wire to Hold Rebar Together?",
+    "meta": [
+     "5.9K",
+     "5d ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 5900
+   },
+   {
+    "id": "3QHTf50i1_M",
+    "title": "How Electricity Actually Works in a House From Start to Finish",
+    "meta": [
+     "14K",
+     "6d ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 14000
+   },
+   {
+    "id": "RGcyBe7fSY4",
+    "title": "Why Do Electrical Plugs Have Holes in the Prongs?",
+    "meta": [
+     "145K",
+     "7d ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 145000
+   },
+   {
+    "id": "Q5ZG7nLr_KE",
+    "title": "The Surprising Engineering Behind the Shape of Train Wheels",
+    "meta": [
+     "5.9K",
+     "8d ago"
+    ],
+    "dur": "25:09",
+    "views_tab": 5900
+   },
+   {
+    "id": "njDCLnY5ACg",
+    "title": "What Are Those Giant Balls on Power Lines For? (Bizarre Reason)",
+    "meta": [
+     "16K",
+     "9d ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 16000
+   },
+   {
+    "id": "hHbirZfeQmI",
+    "title": "Why Did Pirate Satellite TV Stop Working?",
+    "meta": [
+     "52K",
+     "10d ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 52000
+   },
+   {
+    "id": "Px_SYXzatR8",
+    "title": "What Does The Neutral Wire Actually Do?",
+    "meta": [
+     "272K",
+     "11d ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 272000
+   },
+   {
+    "id": "4C3HSt8Ww3E",
+    "title": "What Happened to Railroad Friction Bearings? The Oily Rags That Derailed Trains",
+    "meta": [
+     "5.6K",
+     "12d ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 5600
+   },
+   {
+    "id": "-xulKD_1Czs",
+    "title": "Why the US is Stuck on 120V (While the World Moved to 230V)",
+    "meta": [
+     "292K",
+     "13d ago"
+    ],
+    "dur": "24:55",
+    "views_tab": 292000
+   },
+   {
+    "id": "pRjGgdl1d3c",
+    "title": "The Real Reason Why the Neutral Wire is Thinner Than Phase Wires",
+    "meta": [
+     "72K",
+     "2w ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 72000
+   },
+   {
+    "id": "jqFPWcS-CY8",
+    "title": "Why 60 Hz Took Over North America",
+    "meta": [
+     "7.6K",
+     "2w ago"
+    ],
+    "dur": "23:14",
+    "views_tab": 7600
+   },
+   {
+    "id": "nVzlYiLJzdU",
+    "title": "Why Do Power-Line Insulators Have So Many Discs?",
+    "meta": [
+     "52K",
+     "2w ago"
+    ],
+    "dur": "26:13",
+    "views_tab": 52000
+   },
+   {
+    "id": "nEC5qCi7XXQ",
+    "title": "How Was Plastic Actually Invented?",
+    "meta": [
+     "27K",
+     "2w ago"
+    ],
+    "dur": "22:17",
+    "views_tab": 27000
+   },
+   {
+    "id": "3MqNVS3SGJE",
+    "title": "The Antenna Existed Decades Before Radio \u2014 So What Was It Actually For?",
+    "meta": [
+     "125K",
+     "2w ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 125000
+   },
+   {
+    "id": "7voH3cm2h1M",
+    "title": "Why Does America Use 60 Hz While Europe Uses 50 Hz?",
+    "meta": [
+     "1.4M",
+     "2w ago"
+    ],
+    "dur": "27:27",
+    "views_tab": 1400000
+   },
+   {
+    "id": "fZRtSsA8o24",
+    "title": "The Real Reason American Malls Died Is Not What Anyone Tells You",
+    "meta": [
+     "4.4K",
+     "2w ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 4400
+   },
+   {
+    "id": "Voc4g_gp7z0",
+    "title": "Before Grocery Stores, Where Did American Families Actually Go?",
+    "meta": [
+     "11K",
+     "3w ago"
+    ],
+    "dur": "24:48",
+    "views_tab": 11000
+   },
+   {
+    "id": "WEZ2f1vZ9B0",
+    "title": "Why Were Early Playing Grounds So Terrifying?",
+    "meta": [
+     "9.8K",
+     "3w ago"
+    ],
+    "dur": "26:52",
+    "views_tab": 9800
+   },
+   {
+    "id": "uiBidqia5uI",
+    "title": "Why Was Medieval Bread a Superfood When Modern Bread Makes You Sick?",
+    "meta": [
+     "9K",
+     "3w ago"
+    ],
+    "dur": "26:43",
+    "views_tab": 9000
+   },
+   {
+    "id": "yTn-5QTtud0",
+    "title": "What Did Men Do Before Viagra Existed?",
+    "meta": [
+     "1.9K",
+     "3w ago"
+    ],
+    "dur": "26:37",
+    "views_tab": 1900
+   },
+   {
+    "id": "-sIzYjagX28",
+    "title": "Solid VS. Stranded Wire \u2014 Why Do Electricians Use Both?",
+    "meta": [
+     "170K",
+     "3w ago"
+    ],
+    "dur": "25:56",
+    "views_tab": 170000
+   },
+   {
+    "id": "BASzPcLNdF4",
+    "title": "The Wartime Accident That Changed American Kitchens",
+    "meta": [
+     "10K",
+     "3w ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "uWii-VeMjew",
+    "title": "Why Saloon Girls Had the Nastiest Hygiene Habits of the Wild West?",
+    "meta": [
+     "4.2K",
+     "3w ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 4200
+   },
+   {
+    "id": "MNhTZk19Dos",
+    "title": "The GPS Began as Military Technology \u2014 So How Did They End Up in Every Car?",
+    "meta": [
+     "8.5K",
+     "4w ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 8500
+   },
+   {
+    "id": "b2pUA5g1dyE",
+    "title": "Batteries Existed Decades Before the Power Grid \u2014 So What Were They Actually For?",
+    "meta": [
+     "31K",
+     "1mo ago"
+    ],
+    "dur": "26:30",
+    "views_tab": 31000
+   },
+   {
+    "id": "4yGOJfbPKjw",
+    "title": "What Did Americans Do When It Was Too Hot to Sleep?",
+    "meta": [
+     "8K",
+     "1mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 8000
+   },
+   {
+    "id": "wZwqLyA9zn0",
+    "title": "Where Does Oil Actually Come From? And Why Does Middle East Have so Much of it?",
+    "meta": [
+     "6.6K",
+     "1mo ago"
+    ],
+    "dur": "29:56",
+    "views_tab": 6600
+   },
+   {
+    "id": "vhm7UA6rL7s",
+    "title": "Before GFCI Outlets, Unshielded Wiring Turned Bathrooms Into Electrocution Zones",
+    "meta": [
+     "18K",
+     "1mo ago"
+    ],
+    "dur": "29:39",
+    "views_tab": 18000
+   },
+   {
+    "id": "2VdNyoRMdHI",
+    "title": "Before Pressure Regulators, Early Steam Boilers Turned Basements Into Ticking Bombs",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "28:50",
+    "views_tab": 11000
+   },
+   {
+    "id": "o2PBzI_7j3k",
+    "title": "How Did Oil Rig Workers Stay Warm During Freezing Winters?",
+    "meta": [
+     "3.7K",
+     "1mo ago"
+    ],
+    "dur": "28:07",
+    "views_tab": 3700
+   },
+   {
+    "id": "3VRXcyRtOzc",
+    "title": "What Did Women Wear Under Their Clothes Before Underwear Existed?",
+    "meta": [
+     "5.9K",
+     "1mo ago"
+    ],
+    "dur": "29:16",
+    "views_tab": 5900
+   },
+   {
+    "id": "F-y7pdDANcU",
+    "title": "How Upgrading to Electricity Blew Up Victorian Homes",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "26:44",
+    "views_tab": 20000
+   },
+   {
+    "id": "ZtJkqbz77jk",
+    "title": "The Primitive Wiring Flaw That Turned Victorian Walls Into Kindling",
+    "meta": [
+     "83K",
+     "1mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 83000
+   },
+   {
+    "id": "VvcsAtqpUDA",
+    "title": "The Bizarre Law That Made It Illegal for a Woman to Eat at a Restaurant Alone",
+    "meta": [
+     "5.8K",
+     "1mo ago"
+    ],
+    "dur": "25:35",
+    "views_tab": 5800
+   },
+   {
+    "id": "D0SyKymnIxs",
+    "title": "Why 1920s Steam Radiators Were Engineered to Boil You Alive",
+    "meta": [
+     "13K",
+     "1mo ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 13000
+   },
+   {
+    "id": "bGUjwznJi58",
+    "title": "Why Humans Became Obsessed with Gold? (Weird History)",
+    "meta": [
+     "58K",
+     "1mo ago"
+    ],
+    "dur": "27:14",
+    "views_tab": 58000
+   },
+   {
+    "id": "GAg53E0MPEk",
+    "title": "Before Feminine Hygiene Products, Women Were Told to Douche With Lysol",
+    "meta": [
+     "8K",
+     "1mo ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 8000
+   },
+   {
+    "id": "G2hBtryrjbA",
+    "title": "The Real Reason Men Wear Ties Is Not What Anyone Tells You",
+    "meta": [
+     "9.2K",
+     "1mo ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 9200
+   },
+   {
+    "id": "SFfH9eVz3BE",
+    "title": "How Did Women Manage Their Periods Before Pads Existed?",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "26:36",
+    "views_tab": 7800
+   },
+   {
+    "id": "JwD6MU8U_90",
+    "title": "Before Nursing Homes, Who Took Care of Grandma?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "27:39",
+    "views_tab": 11000
+   },
+   {
+    "id": "ku0cup6u9kE",
+    "title": "Before Wheelchairs, What Happened When You Couldn't Walk?",
+    "meta": [
+     "29K",
+     "1mo ago"
+    ],
+    "dur": "25:20",
+    "views_tab": 29000
+   },
+   {
+    "id": "vQbuo-p5E2E",
+    "title": "What Did Men Use Before Condoms Existed?",
+    "meta": [
+     "23K",
+     "1mo ago"
+    ],
+    "dur": "27:16",
+    "views_tab": 23000
+   },
+   {
+    "id": "2vCjDTdTzno",
+    "title": "What Did Men Do Before Razors? The Brutal History of Shaving",
+    "meta": [
+     "14K",
+     "1mo ago"
+    ],
+    "dur": "26:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "sJQa-MHk7Tg",
+    "title": "Before Antibiotics, Half of America Died of Things We Now Cure in a Week",
+    "meta": [
+     "5.9K",
+     "1mo ago"
+    ],
+    "dur": "27:40",
+    "views_tab": 5900
+   },
+   {
+    "id": "1iCnTzP2ETw",
+    "title": "The Forgotten Fuse Box Flaw That Destroyed Early Suburban Homes",
+    "meta": [
+     "56K",
+     "1mo ago"
+    ],
+    "dur": "26:05",
+    "views_tab": 56000
+   },
+   {
+    "id": "_WRA1v_TnDY",
+    "title": "How Did Truck Drivers Sleep in Their Cabs on Freezing Nights?",
+    "meta": [
+     "82K",
+     "1mo ago"
+    ],
+    "dur": "24:37",
+    "views_tab": 82000
+   },
+   {
+    "id": "IpJM8azkaSA",
+    "title": "The Bizarre Reason Department Stores Were the Only Place a Woman Could Pee",
+    "meta": [
+     "52K",
+     "1mo ago"
+    ],
+    "dur": "25:42",
+    "views_tab": 52000
+   },
+   {
+    "id": "-WU12m6A8xM",
+    "title": "Before Electricity, Your Gas Lamp Was Poisoning the Whole House",
+    "meta": [
+     "6.1K",
+     "1mo ago"
+    ],
+    "dur": "26:44",
+    "views_tab": 6100
+   },
+   {
+    "id": "Bwgcq0iNEdg",
+    "title": "What Did Women Do Before Maternity Leave Existed?",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "25:32",
+    "views_tab": 7800
+   },
+   {
+    "id": "fmmhYSJi_0A",
+    "title": "What Did Men Wear Under Their Clothes Before Underwear Existed?",
+    "meta": [
+     "142K",
+     "1mo ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 142000
+   },
+   {
+    "id": "FwQtic9ABrc",
+    "title": "Before Power Lines, Half of Rural America Lived in the Dark Until 1940",
+    "meta": [
+     "50K",
+     "1mo ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 50000
+   },
+   {
+    "id": "L7PgJcB1Phc",
+    "title": "Why 16th-Century Women Wore 20-Inch Wooden Shoes to Cross the Street",
+    "meta": [
+     "8.7K",
+     "2mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 8700
+   },
+   {
+    "id": "5PDuirJXMO8",
+    "title": "The Disgusting Reason 18th-Century Women Slept With Cages on Their Heads",
+    "meta": [
+     "4.3K",
+     "2mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 4300
+   },
+   {
+    "id": "fc6bX8BnqYY",
+    "title": "What Did People Actually Wear to Bed Before Pajamas Existed?",
+    "meta": [
+     "3.4K",
+     "2mo ago"
+    ],
+    "dur": "25:53",
+    "views_tab": 3400
+   },
+   {
+    "id": "vRAzMjdLJx4",
+    "title": "The Uncomfortable History of the Menstrual Belt",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "25:45",
+    "views_tab": 2600
+   },
+   {
+    "id": "ouULoO0bFxQ",
+    "title": "The Bizarre Rise and Fall of the Men\u2019s Codpiece (Weird History)",
+    "meta": [
+     "5.9K",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 5900
+   },
+   {
+    "id": "imYSfX1FdQc",
+    "title": "Before Circuit Breakers, Early Electricity Turned Homes Into Fire Traps",
+    "meta": [
+     "210K",
+     "2mo ago"
+    ],
+    "dur": "25:52",
+    "views_tab": 210000
+   },
+   {
+    "id": "ZW7cmihmauY",
+    "title": "Why 19th-Century Women Wore Padded \"Bustles\" (bizarre history)",
+    "meta": [
+     "8.4K",
+     "2mo ago"
+    ],
+    "dur": "27:08",
+    "views_tab": 8400
+   },
+   {
+    "id": "8rSyjmic7AA",
+    "title": "The Bizarre Reason Sailors Drank Rum (It Wasn't for Fun)",
+    "meta": [
+     "4.9K",
+     "2mo ago"
+    ],
+    "dur": "27:07",
+    "views_tab": 4900
+   },
+   {
+    "id": "klx4iBXkkPg",
+    "title": "Before Clean Water, Children Drank Beer With Every Meal",
+    "meta": [
+     "2.4K",
+     "2mo ago"
+    ],
+    "dur": "25:21",
+    "views_tab": 2400
+   },
+   {
+    "id": "pVCNvBZIBMk",
+    "title": "The Baby Cage: When Dangling Infants Over the Street Was Good Parenting",
+    "meta": [
+     "4.5K",
+     "2mo ago"
+    ],
+    "dur": "25:22",
+    "views_tab": 4500
+   },
+   {
+    "id": "Rq7RyaY_D74",
+    "title": "The Bizarre Reason Married Couples Stopped Sharing a Bed for 100 Years",
+    "meta": [
+     "4.5K",
+     "2mo ago"
+    ],
+    "dur": "25:59",
+    "views_tab": 4500
+   },
+   {
+    "id": "pQf3KBi4G1E",
+    "title": "Before Bikinis, Police Measured Women's Swimsuits \u2014 And Made Arrests",
+    "meta": [
+     "1.3K",
+     "2mo ago"
+    ],
+    "dur": "24:34",
+    "views_tab": 1300
+   },
+   {
+    "id": "3T_7NaN0FPs",
+    "title": "Before Locks, What Actually Stopped Anyone From Walking Into Your House?",
+    "meta": [
+     "4.5K",
+     "2mo ago"
+    ],
+    "dur": "26:11",
+    "views_tab": 4500
+   },
+   {
+    "id": "f6oCFir00-k",
+    "title": "Before Window Glass, You Chose Between Light and Warmth",
+    "meta": [
+     "1.9K",
+     "2mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 1900
+   },
+   {
+    "id": "S7UZHShGF1A",
+    "title": "Before Freezers, Winter Was the Only Time You Could Eat a Pig",
+    "meta": [
+     "3.2K",
+     "2mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 3200
+   },
+   {
+    "id": "sPNBqN4JLrM",
+    "title": "What Did People Take for Pain Before Aspirin Existed?",
+    "meta": [
+     "6.2K",
+     "2mo ago"
+    ],
+    "dur": "27:52",
+    "views_tab": 6200
+   },
+   {
+    "id": "C4Tou7QYSxw",
+    "title": "Before Electric Outlets, Your House Had One Bulb and Nothing Else",
+    "meta": [
+     "72K",
+     "2mo ago"
+    ],
+    "dur": "23:08",
+    "views_tab": 72000
+   },
+   {
+    "id": "tpXa7fTXGf4",
+    "title": "The Bizarre History Why Cities Refused to Build Women's Toilets",
+    "meta": [
+     "38K",
+     "2mo ago"
+    ],
+    "dur": "25:31",
+    "views_tab": 38000
+   },
+   {
+    "id": "fSnaGaOx6T0",
+    "title": "Before Water Heaters, Half of America Stopped Bathing in Winter",
+    "meta": [
+     "13K",
+     "2mo ago"
+    ],
+    "dur": "25:23",
+    "views_tab": 13000
+   },
+   {
+    "id": "ACMp7usnNtM",
+    "title": "What Did People Wear on Their Feet Before Real Socks?",
+    "meta": [
+     "11K",
+     "2mo ago"
+    ],
+    "dur": "26:15",
+    "views_tab": 11000
+   },
+   {
+    "id": "rcTXtgY3GWM",
+    "title": "Before Shampoo, Clean Hair Was a Sign of Poverty | Bizarre History",
+    "meta": [
+     "5.4K",
+     "2mo ago"
+    ],
+    "dur": "27:16",
+    "views_tab": 5400
+   },
+   {
+    "id": "O5O1aqr3_Ak",
+    "title": "The Bizarre Reason Diarrhea Was the Deadliest Disease in History",
+    "meta": [
+     "7.4K",
+     "2mo ago"
+    ],
+    "dur": "26:57",
+    "views_tab": 7400
+   },
+   {
+    "id": "SIkZFR1W2NQ",
+    "title": "How Did Parents Handle Crying Babies? (Shocking History)",
+    "meta": [
+     "3.2K",
+     "2mo ago"
+    ],
+    "dur": "26:08",
+    "views_tab": 3200
+   },
+   {
+    "id": "p4EoHt6snNY",
+    "title": "What Was in Medicine Before Anyone Knew What it Was?",
+    "meta": [
+     "2.5K",
+     "2mo ago"
+    ],
+    "dur": "28:04",
+    "views_tab": 2500
+   },
+   {
+    "id": "91Eh0XmGEGU",
+    "title": "Before Hospitals, Every Woman Prepared to Die in Childbirth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "26:00",
+    "views_tab": 23000
+   },
+   {
+    "id": "GSMCwnhW-YQ",
+    "title": "What Did Americans Do During a Heat Wave Before AC Existed?",
+    "meta": [
+     "12K",
+     "2mo ago"
+    ],
+    "dur": "25:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "VZyFQ9r7DoE",
+    "title": "Humans Lost All Their Fur \u2014 So Why Did Men Keep Their Beard?",
+    "meta": [
+     "4.6K",
+     "2mo ago"
+    ],
+    "dur": "25:59",
+    "views_tab": 4600
+   },
+   {
+    "id": "iW24mSzHiBA",
+    "title": "The Milk That Killed 8,000 Babies \u2014 And Why it Was Perfectly Legal",
+    "meta": [
+     "1.6K",
+     "2mo ago"
+    ],
+    "dur": "26:20",
+    "views_tab": 1600
+   },
+   {
+    "id": "U2Z2eKtx198",
+    "title": "Before Sewers, Someone Had to Empty Your Toilet by Hand",
+    "meta": [
+     "2.2K",
+     "2mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 2200
+   },
+   {
+    "id": "hhK5kJRNFrk",
+    "title": "Why Did American Houses Have Two Doors? | Bizarre History",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 24000
+   },
+   {
+    "id": "l-P7HSEsfk0",
+    "title": "Before Kitchen Stoves, Half of America Was Unlivable | Bizarre Documentary",
+    "meta": [
+     "112K",
+     "3mo ago"
+    ],
+    "dur": "25:39",
+    "views_tab": 112000
+   },
+   {
+    "id": "X9ibbZRDWdc",
+    "title": "Why Did Women Stop Wearing Corsets? Bizarre History",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "26:42",
+    "views_tab": 1800
+   },
+   {
+    "id": "wBSN3gfiggw",
+    "title": "What Happened to Women Before Divorce Was Allowed?",
+    "meta": [
+     "3.3K",
+     "3mo ago"
+    ],
+    "dur": "26:11",
+    "views_tab": 3300
+   },
+   {
+    "id": "meaJdQE7PFY",
+    "title": "What Did Deaf People Do Before Hearing Aids Existed?",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 1800
+   },
+   {
+    "id": "1e2KmQmsbqo",
+    "title": "The Bizarre Reason Victorian Underwear Had No Crotch",
+    "meta": [
+     "87K",
+     "3mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 87000
+   },
+   {
+    "id": "noVRTAfp8z8",
+    "title": "Before Money Existed, How Did People Pay Their Taxes?",
+    "meta": [
+     "1.9K",
+     "3mo ago"
+    ],
+    "dur": "18:56",
+    "views_tab": 1900
+   },
+   {
+    "id": "V-ChlF8mats",
+    "title": "What Did Victorian Women Do When Their Period Started in Public?",
+    "meta": [
+     "112K",
+     "3mo ago"
+    ],
+    "dur": "27:12",
+    "views_tab": 112000
+   },
+   {
+    "id": "8ClbObSV_fo",
+    "title": "What Did People Actually Use Before Paper Money Existed?",
+    "meta": [
+     "5.2K",
+     "3mo ago"
+    ],
+    "dur": "25:48",
+    "views_tab": 5200
+   },
+   {
+    "id": "fXa5CEtjjq4",
+    "title": "Why Did Cowboys Sleep Fully Dressed and Never Bathed?",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "17:45",
+    "views_tab": 1800
+   },
+   {
+    "id": "qo41M4r8JdI",
+    "title": "Before Debt Existed, Where Did Your Tax Money Actually Go to?",
+    "meta": [
+     "2.3K",
+     "3mo ago"
+    ],
+    "dur": "26:03",
+    "views_tab": 2300
+   },
+   {
+    "id": "s9pLZBejjY4",
+    "title": "What Did Old People Do Before Retirement Existed?",
+    "meta": [
+     "46K",
+     "3mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 46000
+   },
+   {
+    "id": "uGKMbN7N0bY",
+    "title": "The Ancient Air Conditioning We Abandoned \u2014 And Why It Worked Better",
+    "meta": [
+     "45K",
+     "3mo ago"
+    ],
+    "dur": "25:45",
+    "views_tab": 45000
+   },
+   {
+    "id": "QunYpx8pRsI",
+    "title": "Before Mattress Stores, Beds Lasted a Lifetime \u2014 Here's What Changed",
+    "meta": [
+     "5.8K",
+     "3mo ago"
+    ],
+    "dur": "18:23",
+    "views_tab": 5800
+   },
+   {
+    "id": "R2nnZPceVD8",
+    "title": "Why Humans Went Barefoot for 99% of History",
+    "meta": [
+     "4.4K",
+     "3mo ago"
+    ],
+    "dur": "29:23",
+    "views_tab": 4400
+   },
+   {
+    "id": "SXCYLOoEsQo",
+    "title": "The Window Screen: The Invention That Saved a Million Lives",
+    "meta": [
+     "10K",
+     "3mo ago"
+    ],
+    "dur": "43:50",
+    "views_tab": 10000
+   },
+   {
+    "id": "qQi0_MMsTqc",
+    "title": "Before Soap, Your Doctor Was More Dangerous Than the Disease",
+    "meta": [
+     "34K",
+     "3mo ago"
+    ],
+    "dur": "42:12",
+    "views_tab": 34000
+   },
+   {
+    "id": "nhV1cdos6Hk",
+    "title": "Before Deodorant, Personal Hygiene Was a Social Class Weapon Used for Segregation",
+    "meta": [
+     "7.4K",
+     "3mo ago"
+    ],
+    "dur": "27:27",
+    "views_tab": 7400
+   },
+   {
+    "id": "ZuRZrkIcoaE",
+    "title": "Before Toilet Paper, You Only Wiped With\u2026 (If You Were Lucky)",
+    "meta": [
+     "203K",
+     "3mo ago"
+    ],
+    "dur": "39:41",
+    "views_tab": 203000
+   },
+   {
+    "id": "k3w_bsTAh5U",
+    "title": "Before Sunscreen, How Did Anyone Survive Summer?",
+    "meta": [
+     "3.5K",
+     "3mo ago"
+    ],
+    "dur": "47:31",
+    "views_tab": 3500
+   },
+   {
+    "id": "zgAsKtYn0LM",
+    "title": "What Did Humans Wear to Survive Before Real Clothes?",
+    "meta": [
+     "8.2K",
+     "3mo ago"
+    ],
+    "dur": "40:56",
+    "views_tab": 8200
+   },
+   {
+    "id": "fPB14B8WtDE",
+    "title": "How the Electric Fan Saved Cities Before AC Conquered the South",
+    "meta": [
+     "55K",
+     "3mo ago"
+    ],
+    "dur": "36:31",
+    "views_tab": 55000
+   },
+   {
+    "id": "8Bf5uc9t67Q",
+    "title": "Before Coal Delivery, Half of America Froze to Death Every Winter",
+    "meta": [
+     "10K",
+     "3mo ago"
+    ],
+    "dur": "20:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "5hIz17JPt1A",
+    "title": "Why Do British Guards Wear Those Hats? Bizarre History",
+    "meta": [
+     "5.5K",
+     "3mo ago"
+    ],
+    "dur": "27:38",
+    "views_tab": 5500
+   },
+   {
+    "id": "DfixknojaNI",
+    "title": "Before Commercial Ice, The Summer Was a Season of Death and Disease",
+    "meta": [
+     "12K",
+     "3mo ago"
+    ],
+    "dur": "48:52",
+    "views_tab": 12000
+   },
+   {
+    "id": "bVgmWQSAZJY",
+    "title": "Before Clean Water, American Cities Were Death Traps",
+    "meta": [
+     "4K",
+     "3mo ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 4000
+   },
+   {
+    "id": "1HbFFSKkC9E",
+    "title": "The History of Electric Light: The Invention That Started a War",
+    "meta": [
+     "71K",
+     "3mo ago"
+    ],
+    "dur": "24:46",
+    "views_tab": 71000
+   },
+   {
+    "id": "zAqE8a3zSic",
+    "title": "Before Modern Insulation, How Did Every American Survive?",
+    "meta": [
+     "27K",
+     "3mo ago"
+    ],
+    "dur": "28:13",
+    "views_tab": 27000
+   },
+   {
+    "id": "FvKARX4316c",
+    "title": "The Flush Toilet: The Invention That Saved America",
+    "meta": [
+     "9.9K",
+     "4mo ago"
+    ],
+    "dur": "21:18",
+    "views_tab": 9900
+   },
+   {
+    "id": "kr_q33kstk4",
+    "title": "Before Running Water, Half of America Hauled Every Drop by Hand",
+    "meta": [
+     "54K",
+     "4mo ago"
+    ],
+    "dur": "24:30",
+    "views_tab": 54000
+   },
+   {
+    "id": "3_De0pO9AtQ",
+    "title": "Before Funeral Homes, Burying Your Own Family Was Your Job",
+    "meta": [
+     "29K",
+     "4mo ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 29000
+   },
+   {
+    "id": "jOvbFU7XFHk",
+    "title": "Before Alarm Clocks, How Did Anyone Wake Up On Time?",
+    "meta": [
+     "8.8K",
+     "4mo ago"
+    ],
+    "dur": "24:26",
+    "views_tab": 8800
+   },
+   {
+    "id": "Y-J83QxpKys",
+    "title": "Why Did Grandma's Boil Dish Rags? (And Why You Should Try It)",
+    "meta": [
+     "4.2K",
+     "4mo ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 4200
+   },
+   {
+    "id": "ClBfrt4ay6A",
+    "title": "Why Chinese Women Broke Their Own Feet for a Thousand Years",
+    "meta": [
+     "12K",
+     "4mo ago"
+    ],
+    "dur": "25:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "o5ebifk423I",
+    "title": "What Did Women Do on Laundry Day Before Washing Machines Existed?",
+    "meta": [
+     "20K",
+     "4mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 20000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "7voH3cm2h1M",
+    "title": "Why Does America Use 60 Hz While Europe Uses 50 Hz?",
+    "meta": [
+     "1.4M",
+     "2w ago"
+    ],
+    "dur": "27:27",
+    "views_tab": 1400000
+   },
+   {
+    "id": "m9DumI6iEQY",
+    "title": "Before Air Conditioning, Half of America Was Unlivable | Bizarre History Documentary",
+    "meta": [
+     "347K",
+     "5mo ago"
+    ],
+    "dur": "36:25",
+    "views_tab": 347000
+   },
+   {
+    "id": "-xulKD_1Czs",
+    "title": "Why the US is Stuck on 120V (While the World Moved to 230V)",
+    "meta": [
+     "292K",
+     "13d ago"
+    ],
+    "dur": "24:55",
+    "views_tab": 292000
+   },
+   {
+    "id": "Px_SYXzatR8",
+    "title": "What Does The Neutral Wire Actually Do?",
+    "meta": [
+     "272K",
+     "11d ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 272000
+   },
+   {
+    "id": "CFNFVrUqE4w",
+    "title": "The Real Reason Scots Wear Kilts Is Not What Anyone Tells You",
+    "meta": [
+     "227K",
+     "4mo ago"
+    ],
+    "dur": "25:59",
+    "views_tab": 227000
+   },
+   {
+    "id": "ldazZt4yJIs",
+    "title": "The Surprising History of What Women Wore Before Bras Existed",
+    "meta": [
+     "214K",
+     "5mo ago"
+    ],
+    "dur": "28:06",
+    "views_tab": 214000
+   },
+   {
+    "id": "imYSfX1FdQc",
+    "title": "Before Circuit Breakers, Early Electricity Turned Homes Into Fire Traps",
+    "meta": [
+     "210K",
+     "2mo ago"
+    ],
+    "dur": "25:52",
+    "views_tab": 210000
+   },
+   {
+    "id": "ZuRZrkIcoaE",
+    "title": "Before Toilet Paper, You Only Wiped With\u2026 (If You Were Lucky)",
+    "meta": [
+     "203K",
+     "3mo ago"
+    ],
+    "dur": "39:41",
+    "views_tab": 203000
+   },
+   {
+    "id": "L_naS-gcg3w",
+    "title": "Before Central Heating, Half of America Froze to Death Every Winter | Bizarre History Documentary",
+    "meta": [
+     "174K",
+     "4mo ago"
+    ],
+    "dur": "26:24",
+    "views_tab": 174000
+   },
+   {
+    "id": "-sIzYjagX28",
+    "title": "Solid VS. Stranded Wire \u2014 Why Do Electricians Use Both?",
+    "meta": [
+     "170K",
+     "3w ago"
+    ],
+    "dur": "25:56",
+    "views_tab": 170000
+   },
+   {
+    "id": "RGcyBe7fSY4",
+    "title": "Why Do Electrical Plugs Have Holes in the Prongs?",
+    "meta": [
+     "145K",
+     "7d ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 145000
+   },
+   {
+    "id": "fmmhYSJi_0A",
+    "title": "What Did Men Wear Under Their Clothes Before Underwear Existed?",
+    "meta": [
+     "142K",
+     "1mo ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 142000
+   },
+   {
+    "id": "9zD96WUefVA",
+    "title": "Before Mattresses, You Slept on a Rope (Literally) | Bizarre History Documentary",
+    "meta": [
+     "138K",
+     "5mo ago"
+    ],
+    "dur": "28:58",
+    "views_tab": 138000
+   },
+   {
+    "id": "CRpnxE-GJqU",
+    "title": "What Did People Wear on Their Feet Before Real Shoes?",
+    "meta": [
+     "130K",
+     "4mo ago"
+    ],
+    "dur": "30:25",
+    "views_tab": 130000
+   },
+   {
+    "id": "SIHsurLwAjM",
+    "title": "What Did Women Use Before Tampons? | Weird History Documentary",
+    "meta": [
+     "127K",
+     "5mo ago"
+    ],
+    "dur": "40:49",
+    "views_tab": 127000
+   },
+   {
+    "id": "m0w3LJzeDZQ",
+    "title": "Before Refrigerators, Half of America Got Food Poisoning Every Summer",
+    "meta": [
+     "126K",
+     "4mo ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 126000
+   },
+   {
+    "id": "3MqNVS3SGJE",
+    "title": "The Antenna Existed Decades Before Radio \u2014 So What Was It Actually For?",
+    "meta": [
+     "125K",
+     "2w ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 125000
+   },
+   {
+    "id": "CCT8Lc7Qi48",
+    "title": "What Did Women Use Before Birth Control Existed? | Weird History Documentary",
+    "meta": [
+     "119K",
+     "5mo ago"
+    ],
+    "dur": "19:22",
+    "views_tab": 119000
+   },
+   {
+    "id": "Xgf0xd9XJBo",
+    "title": "Before Modern Makeup, Women Painted Themselves With Poison",
+    "meta": [
+     "117K",
+     "5mo ago"
+    ],
+    "dur": "42:40",
+    "views_tab": 117000
+   },
+   {
+    "id": "MJqC7-j-CNo",
+    "title": "Why Were Concubines K*lled When Chinese Emperors Died? | The Toxic History of Imperial Harems",
+    "meta": [
+     "114K",
+     "5mo ago"
+    ],
+    "dur": "50:32",
+    "views_tab": 114000
+   },
+   {
+    "id": "bKZJHOv--y8",
+    "title": "How Did People See Before Eyeglasses? | Weird History Documentary",
+    "meta": [
+     "114K",
+     "5mo ago"
+    ],
+    "dur": "32:14",
+    "views_tab": 114000
+   },
+   {
+    "id": "l-P7HSEsfk0",
+    "title": "Before Kitchen Stoves, Half of America Was Unlivable | Bizarre Documentary",
+    "meta": [
+     "112K",
+     "3mo ago"
+    ],
+    "dur": "25:39",
+    "views_tab": 112000
+   },
+   {
+    "id": "V-ChlF8mats",
+    "title": "What Did Victorian Women Do When Their Period Started in Public?",
+    "meta": [
+     "112K",
+     "3mo ago"
+    ],
+    "dur": "27:12",
+    "views_tab": 112000
+   },
+   {
+    "id": "uVULo-zBUCI",
+    "title": "Why Did Women Start Shaving? The Toxic History of Hair Removal",
+    "meta": [
+     "99K",
+     "5mo ago"
+    ],
+    "dur": "35:46",
+    "views_tab": 99000
+   },
+   {
+    "id": "1e2KmQmsbqo",
+    "title": "The Bizarre Reason Victorian Underwear Had No Crotch",
+    "meta": [
+     "87K",
+     "3mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 87000
+   },
+   {
+    "id": "ZtJkqbz77jk",
+    "title": "The Primitive Wiring Flaw That Turned Victorian Walls Into Kindling",
+    "meta": [
+     "83K",
+     "1mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 83000
+   },
+   {
+    "id": "_WRA1v_TnDY",
+    "title": "How Did Truck Drivers Sleep in Their Cabs on Freezing Nights?",
+    "meta": [
+     "82K",
+     "1mo ago"
+    ],
+    "dur": "24:37",
+    "views_tab": 82000
+   },
+   {
+    "id": "pRjGgdl1d3c",
+    "title": "The Real Reason Why the Neutral Wire is Thinner Than Phase Wires",
+    "meta": [
+     "72K",
+     "2w ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 72000
+   },
+   {
+    "id": "C4Tou7QYSxw",
+    "title": "Before Electric Outlets, Your House Had One Bulb and Nothing Else",
+    "meta": [
+     "72K",
+     "2mo ago"
+    ],
+    "dur": "23:08",
+    "views_tab": 72000
+   },
+   {
+    "id": "1HbFFSKkC9E",
+    "title": "The History of Electric Light: The Invention That Started a War",
+    "meta": [
+     "71K",
+     "3mo ago"
+    ],
+    "dur": "24:46",
+    "views_tab": 71000
+   },
+   {
+    "id": "SySd0rAPlmo",
+    "title": "What Did Parents Use Before Diapers? Bizarre History",
+    "meta": [
+     "58K",
+     "4mo ago"
+    ],
+    "dur": "28:03",
+    "views_tab": 58000
+   },
+   {
+    "id": "bGUjwznJi58",
+    "title": "Why Humans Became Obsessed with Gold? (Weird History)",
+    "meta": [
+     "58K",
+     "1mo ago"
+    ],
+    "dur": "27:14",
+    "views_tab": 58000
+   },
+   {
+    "id": "z1hJwwT58gc",
+    "title": "What Was Childbirth Actually Like Before Anesthesia?",
+    "meta": [
+     "57K",
+     "5mo ago"
+    ],
+    "dur": "41:49",
+    "views_tab": 57000
+   },
+   {
+    "id": "1iCnTzP2ETw",
+    "title": "The Forgotten Fuse Box Flaw That Destroyed Early Suburban Homes",
+    "meta": [
+     "56K",
+     "1mo ago"
+    ],
+    "dur": "26:05",
+    "views_tab": 56000
+   },
+   {
+    "id": "fPB14B8WtDE",
+    "title": "How the Electric Fan Saved Cities Before AC Conquered the South",
+    "meta": [
+     "55K",
+     "3mo ago"
+    ],
+    "dur": "36:31",
+    "views_tab": 55000
+   },
+   {
+    "id": "kr_q33kstk4",
+    "title": "Before Running Water, Half of America Hauled Every Drop by Hand",
+    "meta": [
+     "54K",
+     "4mo ago"
+    ],
+    "dur": "24:30",
+    "views_tab": 54000
+   },
+   {
+    "id": "SSAzdzbEN54",
+    "title": "Before Indoor Plumbing, You Only Bathed Once a Month (If You Were Lucky)",
+    "meta": [
+     "53K",
+     "4mo ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 53000
+   },
+   {
+    "id": "YFju9ny3hFk",
+    "title": "Why Were High Heels Invented for Men? | Weird History Documentary",
+    "meta": [
+     "53K",
+     "5mo ago"
+    ],
+    "dur": "17:14",
+    "views_tab": 53000
+   },
+   {
+    "id": "hHbirZfeQmI",
+    "title": "Why Did Pirate Satellite TV Stop Working?",
+    "meta": [
+     "52K",
+     "10d ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 52000
+   },
+   {
+    "id": "IpJM8azkaSA",
+    "title": "The Bizarre Reason Department Stores Were the Only Place a Woman Could Pee",
+    "meta": [
+     "52K",
+     "1mo ago"
+    ],
+    "dur": "25:42",
+    "views_tab": 52000
+   },
+   {
+    "id": "nVzlYiLJzdU",
+    "title": "Why Do Power-Line Insulators Have So Many Discs?",
+    "meta": [
+     "52K",
+     "2w ago"
+    ],
+    "dur": "26:13",
+    "views_tab": 52000
+   },
+   {
+    "id": "FwQtic9ABrc",
+    "title": "Before Power Lines, Half of Rural America Lived in the Dark Until 1940",
+    "meta": [
+     "50K",
+     "1mo ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 50000
+   },
+   {
+    "id": "s9pLZBejjY4",
+    "title": "What Did Old People Do Before Retirement Existed?",
+    "meta": [
+     "46K",
+     "3mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 46000
+   },
+   {
+    "id": "uGKMbN7N0bY",
+    "title": "The Ancient Air Conditioning We Abandoned \u2014 And Why It Worked Better",
+    "meta": [
+     "45K",
+     "3mo ago"
+    ],
+    "dur": "25:45",
+    "views_tab": 45000
+   },
+   {
+    "id": "cVTud-ZH45c",
+    "title": "Before Supermarkets, Brown Eggs Were a Sign of Poverty",
+    "meta": [
+     "41K",
+     "4mo ago"
+    ],
+    "dur": "28:47",
+    "views_tab": 41000
+   },
+   {
+    "id": "Ro1LNiu2t-w",
+    "title": "How the Bicycle Freed Women \u2014 And Why The Church Tried to Ban It | Weird History",
+    "meta": [
+     "40K",
+     "5mo ago"
+    ],
+    "dur": "32:35",
+    "views_tab": 40000
+   },
+   {
+    "id": "tpXa7fTXGf4",
+    "title": "The Bizarre History Why Cities Refused to Build Women's Toilets",
+    "meta": [
+     "38K",
+     "2mo ago"
+    ],
+    "dur": "25:31",
+    "views_tab": 38000
+   },
+   {
+    "id": "qQi0_MMsTqc",
+    "title": "Before Soap, Your Doctor Was More Dangerous Than the Disease",
+    "meta": [
+     "34K",
+     "3mo ago"
+    ],
+    "dur": "42:12",
+    "views_tab": 34000
+   },
+   {
+    "id": "b2pUA5g1dyE",
+    "title": "Batteries Existed Decades Before the Power Grid \u2014 So What Were They Actually For?",
+    "meta": [
+     "31K",
+     "1mo ago"
+    ],
+    "dur": "26:30",
+    "views_tab": 31000
+   },
+   {
+    "id": "ku0cup6u9kE",
+    "title": "Before Wheelchairs, What Happened When You Couldn't Walk?",
+    "meta": [
+     "29K",
+     "1mo ago"
+    ],
+    "dur": "25:20",
+    "views_tab": 29000
+   },
+   {
+    "id": "3_De0pO9AtQ",
+    "title": "Before Funeral Homes, Burying Your Own Family Was Your Job",
+    "meta": [
+     "29K",
+     "4mo ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 29000
+   },
+   {
+    "id": "zAqE8a3zSic",
+    "title": "Before Modern Insulation, How Did Every American Survive?",
+    "meta": [
+     "27K",
+     "3mo ago"
+    ],
+    "dur": "28:13",
+    "views_tab": 27000
+   },
+   {
+    "id": "nEC5qCi7XXQ",
+    "title": "How Was Plastic Actually Invented?",
+    "meta": [
+     "27K",
+     "2w ago"
+    ],
+    "dur": "22:17",
+    "views_tab": 27000
+   },
+   {
+    "id": "10tKN8PEJ5w",
+    "title": "What Did Women Use Before Pads? | Bizarre History Documentary",
+    "meta": [
+     "27K",
+     "5mo ago"
+    ],
+    "dur": "31:30",
+    "views_tab": 27000
+   },
+   {
+    "id": "hhK5kJRNFrk",
+    "title": "Why Did American Houses Have Two Doors? | Bizarre History",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 24000
+   },
+   {
+    "id": "91Eh0XmGEGU",
+    "title": "Before Hospitals, Every Woman Prepared to Die in Childbirth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "26:00",
+    "views_tab": 23000
+   },
+   {
+    "id": "vQbuo-p5E2E",
+    "title": "What Did Men Use Before Condoms Existed?",
+    "meta": [
+     "23K",
+     "1mo ago"
+    ],
+    "dur": "27:16",
+    "views_tab": 23000
+   },
+   {
+    "id": "o5ebifk423I",
+    "title": "What Did Women Do on Laundry Day Before Washing Machines Existed?",
+    "meta": [
+     "20K",
+     "4mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "F-y7pdDANcU",
+    "title": "How Upgrading to Electricity Blew Up Victorian Homes",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "26:44",
+    "views_tab": 20000
+   },
+   {
+    "id": "ssUeFid6Gbw",
+    "title": "What Did People Use Before Toothbrushes? Weird History Documentary",
+    "meta": [
+     "19K",
+     "4mo ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 19000
+   },
+   {
+    "id": "BVN4vYiG4Hw",
+    "title": "Why An Empress Starved Herself for 40 Years | The Toxic History of Beauty",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "36:32",
+    "views_tab": 18000
+   },
+   {
+    "id": "zRGcAUKKIoQ",
+    "title": "Why Do 3-Phase Motors Have 6 Terminals but Only 3 Supply Leads?",
+    "meta": [
+     "18K",
+     "4d ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 18000
+   },
+   {
+    "id": "xjr2J3VL2RU",
+    "title": "How Inverters Turn Battery Power into AC",
+    "meta": [
+     "18K",
+     "2d ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 18000
+   },
+   {
+    "id": "vhm7UA6rL7s",
+    "title": "Before GFCI Outlets, Unshielded Wiring Turned Bathrooms Into Electrocution Zones",
+    "meta": [
+     "18K",
+     "1mo ago"
+    ],
+    "dur": "29:39",
+    "views_tab": 18000
+   },
+   {
+    "id": "njDCLnY5ACg",
+    "title": "What Are Those Giant Balls on Power Lines For? (Bizarre Reason)",
+    "meta": [
+     "16K",
+     "9d ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 16000
+   },
+   {
+    "id": "q5SDgqRh6bM",
+    "title": "How One Piece of Iron Decided Which Empires Survived | Bizarre History Documentary",
+    "meta": [
+     "16K",
+     "4mo ago"
+    ],
+    "dur": "24:40",
+    "views_tab": 16000
+   },
+   {
+    "id": "3rnQmhzUAOk",
+    "title": "How Wet Nurses Survived Selling Their Milk to the Rich",
+    "meta": [
+     "15K",
+     "5mo ago"
+    ],
+    "dur": "44:05",
+    "views_tab": 15000
+   },
+   {
+    "id": "OS7s5qU7nOA",
+    "title": "The Umbrella: The Most Mocked Invention in History",
+    "meta": [
+     "15K",
+     "5mo ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 15000
+   },
+   {
+    "id": "v3WpJ7ojFto",
+    "title": "The Bizarre History of \"Ordering a Wife\" Explained in 51 Minutes",
+    "meta": [
+     "15K",
+     "4mo ago"
+    ],
+    "dur": "51:52",
+    "views_tab": 15000
+   },
+   {
+    "id": "2vCjDTdTzno",
+    "title": "What Did Men Do Before Razors? The Brutal History of Shaving",
+    "meta": [
+     "14K",
+     "1mo ago"
+    ],
+    "dur": "26:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "D0XbdKD8hpY",
+    "title": "How the Wedding Ring Turned Women Into Property \u2014 And Nobody Talked About It | Weird Documentary",
+    "meta": [
+     "14K",
+     "5mo ago"
+    ],
+    "dur": "27:44",
+    "views_tab": 14000
+   },
+   {
+    "id": "Q5wdstn5up8",
+    "title": "What Did Women Use To Smell Good Before Perfume Existed?",
+    "meta": [
+     "14K",
+     "5mo ago"
+    ],
+    "dur": "42:28",
+    "views_tab": 14000
+   },
+   {
+    "id": "3QHTf50i1_M",
+    "title": "How Electricity Actually Works in a House From Start to Finish",
+    "meta": [
+     "14K",
+     "6d ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 14000
+   },
+   {
+    "id": "D0SyKymnIxs",
+    "title": "Why 1920s Steam Radiators Were Engineered to Boil You Alive",
+    "meta": [
+     "13K",
+     "1mo ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 13000
+   },
+   {
+    "id": "WJIJ0f1wRjM",
+    "title": "Why Americans Stopped Drying Clothes Outside | Bizarre History",
+    "meta": [
+     "13K",
+     "4mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 13000
+   },
+   {
+    "id": "fSnaGaOx6T0",
+    "title": "Before Water Heaters, Half of America Stopped Bathing in Winter",
+    "meta": [
+     "13K",
+     "2mo ago"
+    ],
+    "dur": "25:23",
+    "views_tab": 13000
+   },
+   {
+    "id": "GSMCwnhW-YQ",
+    "title": "What Did Americans Do During a Heat Wave Before AC Existed?",
+    "meta": [
+     "12K",
+     "2mo ago"
+    ],
+    "dur": "25:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "_LuQIrv-9Nw",
+    "title": "How Did Women Test for Pregnancy 3,500 Years Ago? | Weird History Documentary",
+    "meta": [
+     "12K",
+     "5mo ago"
+    ],
+    "dur": "21:22",
+    "views_tab": 12000
+   },
+   {
+    "id": "ClBfrt4ay6A",
+    "title": "Why Chinese Women Broke Their Own Feet for a Thousand Years",
+    "meta": [
+     "12K",
+     "4mo ago"
+    ],
+    "dur": "25:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "DfixknojaNI",
+    "title": "Before Commercial Ice, The Summer Was a Season of Death and Disease",
+    "meta": [
+     "12K",
+     "3mo ago"
+    ],
+    "dur": "48:52",
+    "views_tab": 12000
+   },
+   {
+    "id": "Voc4g_gp7z0",
+    "title": "Before Grocery Stores, Where Did American Families Actually Go?",
+    "meta": [
+     "11K",
+     "3w ago"
+    ],
+    "dur": "24:48",
+    "views_tab": 11000
+   },
+   {
+    "id": "JwD6MU8U_90",
+    "title": "Before Nursing Homes, Who Took Care of Grandma?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "27:39",
+    "views_tab": 11000
+   },
+   {
+    "id": "ACMp7usnNtM",
+    "title": "What Did People Wear on Their Feet Before Real Socks?",
+    "meta": [
+     "11K",
+     "2mo ago"
+    ],
+    "dur": "26:15",
+    "views_tab": 11000
+   },
+   {
+    "id": "2VdNyoRMdHI",
+    "title": "Before Pressure Regulators, Early Steam Boilers Turned Basements Into Ticking Bombs",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "28:50",
+    "views_tab": 11000
+   },
+   {
+    "id": "8Bf5uc9t67Q",
+    "title": "Before Coal Delivery, Half of America Froze to Death Every Winter",
+    "meta": [
+     "10K",
+     "3mo ago"
+    ],
+    "dur": "20:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "BASzPcLNdF4",
+    "title": "The Wartime Accident That Changed American Kitchens",
+    "meta": [
+     "10K",
+     "3w ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "SXCYLOoEsQo",
+    "title": "The Window Screen: The Invention That Saved a Million Lives",
+    "meta": [
+     "10K",
+     "3mo ago"
+    ],
+    "dur": "43:50",
+    "views_tab": 10000
+   },
+   {
+    "id": "FvKARX4316c",
+    "title": "The Flush Toilet: The Invention That Saved America",
+    "meta": [
+     "9.9K",
+     "4mo ago"
+    ],
+    "dur": "21:18",
+    "views_tab": 9900
+   },
+   {
+    "id": "WEZ2f1vZ9B0",
+    "title": "Why Were Early Playing Grounds So Terrifying?",
+    "meta": [
+     "9.8K",
+     "3w ago"
+    ],
+    "dur": "26:52",
+    "views_tab": 9800
+   },
+   {
+    "id": "RMakLYAh0NE",
+    "title": "The Bizarre Reason Women's Clothing Had No Pockets",
+    "meta": [
+     "9.8K",
+     "4mo ago"
+    ],
+    "dur": "22:53",
+    "views_tab": 9800
+   },
+   {
+    "id": "24gqfsL3s2E",
+    "title": "The Surprising History of Dieting Before Obesity Existed | Weird History Documentary",
+    "meta": [
+     "9.3K",
+     "5mo ago"
+    ],
+    "dur": "31:11",
+    "views_tab": 9300
+   },
+   {
+    "id": "iL5lBGfEUyA",
+    "title": "Volts, Amps & Watts Explained \u2014 and Which One Can Kill You",
+    "meta": [
+     "9.2K",
+     "1d ago"
+    ],
+    "dur": "25:01",
+    "views_tab": 9200
+   },
+   {
+    "id": "G2hBtryrjbA",
+    "title": "The Real Reason Men Wear Ties Is Not What Anyone Tells You",
+    "meta": [
+     "9.2K",
+     "1mo ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 9200
+   },
+   {
+    "id": "uiBidqia5uI",
+    "title": "Why Was Medieval Bread a Superfood When Modern Bread Makes You Sick?",
+    "meta": [
+     "9K",
+     "3w ago"
+    ],
+    "dur": "26:43",
+    "views_tab": 9000
+   },
+   {
+    "id": "jOvbFU7XFHk",
+    "title": "Before Alarm Clocks, How Did Anyone Wake Up On Time?",
+    "meta": [
+     "8.8K",
+     "4mo ago"
+    ],
+    "dur": "24:26",
+    "views_tab": 8800
+   },
+   {
+    "id": "L7PgJcB1Phc",
+    "title": "Why 16th-Century Women Wore 20-Inch Wooden Shoes to Cross the Street",
+    "meta": [
+     "8.7K",
+     "2mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 8700
+   },
+   {
+    "id": "NjnyjOstIMs",
+    "title": "What Was The Wedding Night Actually Like for Victorian Women?",
+    "meta": [
+     "8.7K",
+     "5mo ago"
+    ],
+    "dur": "44:01",
+    "views_tab": 8700
+   },
+   {
+    "id": "MNhTZk19Dos",
+    "title": "The GPS Began as Military Technology \u2014 So How Did They End Up in Every Car?",
+    "meta": [
+     "8.5K",
+     "4w ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 8500
+   },
+   {
+    "id": "ZW7cmihmauY",
+    "title": "Why 19th-Century Women Wore Padded \"Bustles\" (bizarre history)",
+    "meta": [
+     "8.4K",
+     "2mo ago"
+    ],
+    "dur": "27:08",
+    "views_tab": 8400
+   },
+   {
+    "id": "Du0hnAont7c",
+    "title": "Why Rich Victorians Rented Pineapples Instead of Eating Them | Weird History Documentary",
+    "meta": [
+     "8.4K",
+     "4mo ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 8400
+   },
+   {
+    "id": "zgAsKtYn0LM",
+    "title": "What Did Humans Wear to Survive Before Real Clothes?",
+    "meta": [
+     "8.2K",
+     "3mo ago"
+    ],
+    "dur": "40:56",
+    "views_tab": 8200
+   },
+   {
+    "id": "4qy9g7g_YO0",
+    "title": "How Does a Resistor Actually Work? \u2014 Ohm's Law Explained",
+    "meta": [
+     "8.2K",
+     "8h ago"
+    ],
+    "dur": "26:29",
+    "views_tab": 8200
+   },
+   {
+    "id": "GAg53E0MPEk",
+    "title": "Before Feminine Hygiene Products, Women Were Told to Douche With Lysol",
+    "meta": [
+     "8K",
+     "1mo ago"
+    ],
+    "dur": "26:19",
+    "views_tab": 8000
+   },
+   {
+    "id": "4yGOJfbPKjw",
+    "title": "What Did Americans Do When It Was Too Hot to Sleep?",
+    "meta": [
+     "8K",
+     "1mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 8000
+   },
+   {
+    "id": "Bwgcq0iNEdg",
+    "title": "What Did Women Do Before Maternity Leave Existed?",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "25:32",
+    "views_tab": 7800
+   },
+   {
+    "id": "SFfH9eVz3BE",
+    "title": "How Did Women Manage Their Periods Before Pads Existed?",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "26:36",
+    "views_tab": 7800
+   },
+   {
+    "id": "jqFPWcS-CY8",
+    "title": "Why 60 Hz Took Over North America",
+    "meta": [
+     "7.6K",
+     "2w ago"
+    ],
+    "dur": "23:14",
+    "views_tab": 7600
+   },
+   {
+    "id": "O5O1aqr3_Ak",
+    "title": "The Bizarre Reason Diarrhea Was the Deadliest Disease in History",
+    "meta": [
+     "7.4K",
+     "2mo ago"
+    ],
+    "dur": "26:57",
+    "views_tab": 7400
+   },
+   {
+    "id": "nhV1cdos6Hk",
+    "title": "Before Deodorant, Personal Hygiene Was a Social Class Weapon Used for Segregation",
+    "meta": [
+     "7.4K",
+     "3mo ago"
+    ],
+    "dur": "27:27",
+    "views_tab": 7400
+   },
+   {
+    "id": "6zIZhkJpnvI",
+    "title": "Why Did People Start Hair Dyeing? Bizarre History Documentary",
+    "meta": [
+     "7K",
+     "4mo ago"
+    ],
+    "dur": "31:26",
+    "views_tab": 7000
+   },
+   {
+    "id": "wZwqLyA9zn0",
+    "title": "Where Does Oil Actually Come From? And Why Does Middle East Have so Much of it?",
+    "meta": [
+     "6.6K",
+     "1mo ago"
+    ],
+    "dur": "29:56",
+    "views_tab": 6600
+   },
+   {
+    "id": "JUMCMMgFLas",
+    "title": "Why Did Flight Attendants Start Sitting on Their Hands? | Weird History Documentary",
+    "meta": [
+     "6.6K",
+     "4mo ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 6600
+   },
+   {
+    "id": "sPNBqN4JLrM",
+    "title": "What Did People Take for Pain Before Aspirin Existed?",
+    "meta": [
+     "6.2K",
+     "2mo ago"
+    ],
+    "dur": "27:52",
+    "views_tab": 6200
+   },
+   {
+    "id": "-WU12m6A8xM",
+    "title": "Before Electricity, Your Gas Lamp Was Poisoning the Whole House",
+    "meta": [
+     "6.1K",
+     "1mo ago"
+    ],
+    "dur": "26:44",
+    "views_tab": 6100
+   },
+   {
+    "id": "sJQa-MHk7Tg",
+    "title": "Before Antibiotics, Half of America Died of Things We Now Cure in a Week",
+    "meta": [
+     "5.9K",
+     "1mo ago"
+    ],
+    "dur": "27:40",
+    "views_tab": 5900
+   },
+   {
+    "id": "d1ewa_WekxA",
+    "title": "Why Do Builders Use Simple Wire to Hold Rebar Together?",
+    "meta": [
+     "5.9K",
+     "5d ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 5900
+   },
+   {
+    "id": "ouULoO0bFxQ",
+    "title": "The Bizarre Rise and Fall of the Men\u2019s Codpiece (Weird History)",
+    "meta": [
+     "5.9K",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 5900
+   },
+   {
+    "id": "Q5ZG7nLr_KE",
+    "title": "The Surprising Engineering Behind the Shape of Train Wheels",
+    "meta": [
+     "5.9K",
+     "8d ago"
+    ],
+    "dur": "25:09",
+    "views_tab": 5900
+   },
+   {
+    "id": "3VRXcyRtOzc",
+    "title": "What Did Women Wear Under Their Clothes Before Underwear Existed?",
+    "meta": [
+     "5.9K",
+     "1mo ago"
+    ],
+    "dur": "29:16",
+    "views_tab": 5900
+   },
+   {
+    "id": "jrkeVDgqN2k",
+    "title": "Tarmac and Asphalt Aren't the Same Thing \u2014 And the Difference Has a Dark History",
+    "meta": [
+     "5.8K",
+     "4mo ago"
+    ],
+    "dur": "23:20",
+    "views_tab": 5800
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "bKZJHOv--y8",
+    "title": "How Did People See Before Eyeglasses? | Weird History Documentary",
+    "meta": [
+     "114K",
+     "5mo ago"
+    ],
+    "dur": "32:14",
+    "views_tab": 114000
+   },
+   {
+    "id": "m9DumI6iEQY",
+    "title": "Before Air Conditioning, Half of America Was Unlivable | Bizarre History Documentary",
+    "meta": [
+     "347K",
+     "5mo ago"
+    ],
+    "dur": "36:25",
+    "views_tab": 347000
+   },
+   {
+    "id": "Ro1LNiu2t-w",
+    "title": "How the Bicycle Freed Women \u2014 And Why The Church Tried to Ban It | Weird History",
+    "meta": [
+     "40K",
+     "5mo ago"
+    ],
+    "dur": "32:35",
+    "views_tab": 40000
+   },
+   {
+    "id": "SIHsurLwAjM",
+    "title": "What Did Women Use Before Tampons? | Weird History Documentary",
+    "meta": [
+     "127K",
+     "5mo ago"
+    ],
+    "dur": "40:49",
+    "views_tab": 127000
+   },
+   {
+    "id": "Ft_d8CkWeCc",
+    "title": "Why the Fork Was Banned by the Church for 400 Years | Weird History Documentary",
+    "meta": [
+     "5.7K",
+     "5mo ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 5700
+   },
+   {
+    "id": "9zD96WUefVA",
+    "title": "Before Mattresses, You Slept on a Rope (Literally) | Bizarre History Documentary",
+    "meta": [
+     "138K",
+     "5mo ago"
+    ],
+    "dur": "28:58",
+    "views_tab": 138000
+   },
+   {
+    "id": "CCT8Lc7Qi48",
+    "title": "What Did Women Use Before Birth Control Existed? | Weird History Documentary",
+    "meta": [
+     "119K",
+     "5mo ago"
+    ],
+    "dur": "19:22",
+    "views_tab": 119000
+   },
+   {
+    "id": "D0XbdKD8hpY",
+    "title": "How the Wedding Ring Turned Women Into Property \u2014 And Nobody Talked About It | Weird Documentary",
+    "meta": [
+     "14K",
+     "5mo ago"
+    ],
+    "dur": "27:44",
+    "views_tab": 14000
+   },
+   {
+    "id": "YFju9ny3hFk",
+    "title": "Why Were High Heels Invented for Men? | Weird History Documentary",
+    "meta": [
+     "53K",
+     "5mo ago"
+    ],
+    "dur": "17:14",
+    "views_tab": 53000
+   },
+   {
+    "id": "ldazZt4yJIs",
+    "title": "The Surprising History of What Women Wore Before Bras Existed",
+    "meta": [
+     "214K",
+     "5mo ago"
+    ],
+    "dur": "28:06",
+    "views_tab": 214000
+   },
+   {
+    "id": "uVULo-zBUCI",
+    "title": "Why Did Women Start Shaving? The Toxic History of Hair Removal",
+    "meta": [
+     "99K",
+     "5mo ago"
+    ],
+    "dur": "35:46",
+    "views_tab": 99000
+   },
+   {
+    "id": "_LuQIrv-9Nw",
+    "title": "How Did Women Test for Pregnancy 3,500 Years Ago? | Weird History Documentary",
+    "meta": [
+     "12K",
+     "5mo ago"
+    ],
+    "dur": "21:22",
+    "views_tab": 12000
+   },
+   {
+    "id": "z1hJwwT58gc",
+    "title": "What Was Childbirth Actually Like Before Anesthesia?",
+    "meta": [
+     "57K",
+     "5mo ago"
+    ],
+    "dur": "41:49",
+    "views_tab": 57000
+   },
+   {
+    "id": "Q5wdstn5up8",
+    "title": "What Did Women Use To Smell Good Before Perfume Existed?",
+    "meta": [
+     "14K",
+     "5mo ago"
+    ],
+    "dur": "42:28",
+    "views_tab": 14000
+   },
+   {
+    "id": "3rnQmhzUAOk",
+    "title": "How Wet Nurses Survived Selling Their Milk to the Rich",
+    "meta": [
+     "15K",
+     "5mo ago"
+    ],
+    "dur": "44:05",
+    "views_tab": 15000
+   },
+   {
+    "id": "Xgf0xd9XJBo",
+    "title": "Before Modern Makeup, Women Painted Themselves With Poison",
+    "meta": [
+     "117K",
+     "5mo ago"
+    ],
+    "dur": "42:40",
+    "views_tab": 117000
+   },
+   {
+    "id": "10tKN8PEJ5w",
+    "title": "What Did Women Use Before Pads? | Bizarre History Documentary",
+    "meta": [
+     "27K",
+     "5mo ago"
+    ],
+    "dur": "31:30",
+    "views_tab": 27000
+   },
+   {
+    "id": "BVN4vYiG4Hw",
+    "title": "Why An Empress Starved Herself for 40 Years | The Toxic History of Beauty",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "36:32",
+    "views_tab": 18000
+   },
+   {
+    "id": "NjnyjOstIMs",
+    "title": "What Was The Wedding Night Actually Like for Victorian Women?",
+    "meta": [
+     "8.7K",
+     "5mo ago"
+    ],
+    "dur": "44:01",
+    "views_tab": 8700
+   },
+   {
+    "id": "24gqfsL3s2E",
+    "title": "The Surprising History of Dieting Before Obesity Existed | Weird History Documentary",
+    "meta": [
+     "9.3K",
+     "5mo ago"
+    ],
+    "dur": "31:11",
+    "views_tab": 9300
+   },
+   {
+    "id": "MJqC7-j-CNo",
+    "title": "Why Were Concubines K*lled When Chinese Emperors Died? | The Toxic History of Imperial Harems",
+    "meta": [
+     "114K",
+     "5mo ago"
+    ],
+    "dur": "50:32",
+    "views_tab": 114000
+   },
+   {
+    "id": "OS7s5qU7nOA",
+    "title": "The Umbrella: The Most Mocked Invention in History",
+    "meta": [
+     "15K",
+     "5mo ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 15000
+   },
+   {
+    "id": "m0w3LJzeDZQ",
+    "title": "Before Refrigerators, Half of America Got Food Poisoning Every Summer",
+    "meta": [
+     "126K",
+     "4mo ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 126000
+   },
+   {
+    "id": "EsKkoJ_v4c0",
+    "title": "10 Horrifying Things Women Did To Their Bodies That Would Be Illegal Today",
+    "meta": [
+     "3.1K",
+     "4mo ago"
+    ],
+    "dur": "20:16",
+    "views_tab": 3100
+   },
+   {
+    "id": "SSAzdzbEN54",
+    "title": "Before Indoor Plumbing, You Only Bathed Once a Month (If You Were Lucky)",
+    "meta": [
+     "53K",
+     "4mo ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 53000
+   },
+   {
+    "id": "WJIJ0f1wRjM",
+    "title": "Why Americans Stopped Drying Clothes Outside | Bizarre History",
+    "meta": [
+     "13K",
+     "4mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 13000
+   },
+   {
+    "id": "JUMCMMgFLas",
+    "title": "Why Did Flight Attendants Start Sitting on Their Hands? | Weird History Documentary",
+    "meta": [
+     "6.6K",
+     "4mo ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 6600
+   },
+   {
+    "id": "q5SDgqRh6bM",
+    "title": "How One Piece of Iron Decided Which Empires Survived | Bizarre History Documentary",
+    "meta": [
+     "16K",
+     "4mo ago"
+    ],
+    "dur": "24:40",
+    "views_tab": 16000
+   },
+   {
+    "id": "M9kn1LHLVnM",
+    "title": "What Was Silica Gel Used For Before it Ended Up in Every Shoe Box?",
+    "meta": [
+     "5.2K",
+     "4mo ago"
+    ],
+    "dur": "24:53",
+    "views_tab": 5200
+   },
+   {
+    "id": "cVTud-ZH45c",
+    "title": "Before Supermarkets, Brown Eggs Were a Sign of Poverty",
+    "meta": [
+     "41K",
+     "4mo ago"
+    ],
+    "dur": "28:47",
+    "views_tab": 41000
+   },
+   {
+    "id": "v3WpJ7ojFto",
+    "title": "The Bizarre History of \"Ordering a Wife\" Explained in 51 Minutes",
+    "meta": [
+     "15K",
+     "4mo ago"
+    ],
+    "dur": "51:52",
+    "views_tab": 15000
+   },
+   {
+    "id": "jrkeVDgqN2k",
+    "title": "Tarmac and Asphalt Aren't the Same Thing \u2014 And the Difference Has a Dark History",
+    "meta": [
+     "5.8K",
+     "4mo ago"
+    ],
+    "dur": "23:20",
+    "views_tab": 5800
+   },
+   {
+    "id": "ssUeFid6Gbw",
+    "title": "What Did People Use Before Toothbrushes? Weird History Documentary",
+    "meta": [
+     "19K",
+     "4mo ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 19000
+   },
+   {
+    "id": "SySd0rAPlmo",
+    "title": "What Did Parents Use Before Diapers? Bizarre History",
+    "meta": [
+     "58K",
+     "4mo ago"
+    ],
+    "dur": "28:03",
+    "views_tab": 58000
+   },
+   {
+    "id": "DfWN4EgKNo8",
+    "title": "How Doctors \"Treated\" Women for a Disease That Didn't Exist",
+    "meta": [
+     "1.8K",
+     "4mo ago"
+    ],
+    "dur": "21:33",
+    "views_tab": 1800
+   },
+   {
+    "id": "RMakLYAh0NE",
+    "title": "The Bizarre Reason Women's Clothing Had No Pockets",
+    "meta": [
+     "9.8K",
+     "4mo ago"
+    ],
+    "dur": "22:53",
+    "views_tab": 9800
+   },
+   {
+    "id": "24XwqvG2Xg8",
+    "title": "How Did Women Deal With Menopause? Bizarre History Documentary",
+    "meta": [
+     "2.5K",
+     "4mo ago"
+    ],
+    "dur": "27:41",
+    "views_tab": 2500
+   },
+   {
+    "id": "6zIZhkJpnvI",
+    "title": "Why Did People Start Hair Dyeing? Bizarre History Documentary",
+    "meta": [
+     "7K",
+     "4mo ago"
+    ],
+    "dur": "31:26",
+    "views_tab": 7000
+   },
+   {
+    "id": "UKTSxQw1vmk",
+    "title": "Why Did People Start Smoking? Bizarre History",
+    "meta": [
+     "2.7K",
+     "4mo ago"
+    ],
+    "dur": "28:03",
+    "views_tab": 2700
+   },
+   {
+    "id": "CRpnxE-GJqU",
+    "title": "What Did People Wear on Their Feet Before Real Shoes?",
+    "meta": [
+     "130K",
+     "4mo ago"
+    ],
+    "dur": "30:25",
+    "views_tab": 130000
+   },
+   {
+    "id": "CFNFVrUqE4w",
+    "title": "The Real Reason Scots Wear Kilts Is Not What Anyone Tells You",
+    "meta": [
+     "227K",
+     "4mo ago"
+    ],
+    "dur": "25:59",
+    "views_tab": 227000
+   },
+   {
+    "id": "Du0hnAont7c",
+    "title": "Why Rich Victorians Rented Pineapples Instead of Eating Them | Weird History Documentary",
+    "meta": [
+     "8.4K",
+     "4mo ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 8400
+   },
+   {
+    "id": "L_naS-gcg3w",
+    "title": "Before Central Heating, Half of America Froze to Death Every Winter | Bizarre History Documentary",
+    "meta": [
+     "174K",
+     "4mo ago"
+    ],
+    "dur": "26:24",
+    "views_tab": 174000
+   },
+   {
+    "id": "o5ebifk423I",
+    "title": "What Did Women Do on Laundry Day Before Washing Machines Existed?",
+    "meta": [
+     "20K",
+     "4mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "ClBfrt4ay6A",
+    "title": "Why Chinese Women Broke Their Own Feet for a Thousand Years",
+    "meta": [
+     "12K",
+     "4mo ago"
+    ],
+    "dur": "25:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "Y-J83QxpKys",
+    "title": "Why Did Grandma's Boil Dish Rags? (And Why You Should Try It)",
+    "meta": [
+     "4.2K",
+     "4mo ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 4200
+   },
+   {
+    "id": "jOvbFU7XFHk",
+    "title": "Before Alarm Clocks, How Did Anyone Wake Up On Time?",
+    "meta": [
+     "8.8K",
+     "4mo ago"
+    ],
+    "dur": "24:26",
+    "views_tab": 8800
+   },
+   {
+    "id": "3_De0pO9AtQ",
+    "title": "Before Funeral Homes, Burying Your Own Family Was Your Job",
+    "meta": [
+     "29K",
+     "4mo ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 29000
+   },
+   {
+    "id": "kr_q33kstk4",
+    "title": "Before Running Water, Half of America Hauled Every Drop by Hand",
+    "meta": [
+     "54K",
+     "4mo ago"
+    ],
+    "dur": "24:30",
+    "views_tab": 54000
+   },
+   {
+    "id": "FvKARX4316c",
+    "title": "The Flush Toilet: The Invention That Saved America",
+    "meta": [
+     "9.9K",
+     "4mo ago"
+    ],
+    "dur": "21:18",
+    "views_tab": 9900
+   },
+   {
+    "id": "zAqE8a3zSic",
+    "title": "Before Modern Insulation, How Did Every American Survive?",
+    "meta": [
+     "27K",
+     "3mo ago"
+    ],
+    "dur": "28:13",
+    "views_tab": 27000
+   },
+   {
+    "id": "1HbFFSKkC9E",
+    "title": "The History of Electric Light: The Invention That Started a War",
+    "meta": [
+     "71K",
+     "3mo ago"
+    ],
+    "dur": "24:46",
+    "views_tab": 71000
+   },
+   {
+    "id": "bVgmWQSAZJY",
+    "title": "Before Clean Water, American Cities Were Death Traps",
+    "meta": [
+     "4K",
+     "3mo ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 4000
+   },
+   {
+    "id": "DfixknojaNI",
+    "title": "Before Commercial Ice, The Summer Was a Season of Death and Disease",
+    "meta": [
+     "12K",
+     "3mo ago"
+    ],
+    "dur": "48:52",
+    "views_tab": 12000
+   },
+   {
+    "id": "5hIz17JPt1A",
+    "title": "Why Do British Guards Wear Those Hats? Bizarre History",
+    "meta": [
+     "5.5K",
+     "3mo ago"
+    ],
+    "dur": "27:38",
+    "views_tab": 5500
+   },
+   {
+    "id": "8Bf5uc9t67Q",
+    "title": "Before Coal Delivery, Half of America Froze to Death Every Winter",
+    "meta": [
+     "10K",
+     "3mo ago"
+    ],
+    "dur": "20:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "fPB14B8WtDE",
+    "title": "How the Electric Fan Saved Cities Before AC Conquered the South",
+    "meta": [
+     "55K",
+     "3mo ago"
+    ],
+    "dur": "36:31",
+    "views_tab": 55000
+   },
+   {
+    "id": "zgAsKtYn0LM",
+    "title": "What Did Humans Wear to Survive Before Real Clothes?",
+    "meta": [
+     "8.2K",
+     "3mo ago"
+    ],
+    "dur": "40:56",
+    "views_tab": 8200
+   },
+   {
+    "id": "k3w_bsTAh5U",
+    "title": "Before Sunscreen, How Did Anyone Survive Summer?",
+    "meta": [
+     "3.5K",
+     "3mo ago"
+    ],
+    "dur": "47:31",
+    "views_tab": 3500
+   },
+   {
+    "id": "ZuRZrkIcoaE",
+    "title": "Before Toilet Paper, You Only Wiped With\u2026 (If You Were Lucky)",
+    "meta": [
+     "203K",
+     "3mo ago"
+    ],
+    "dur": "39:41",
+    "views_tab": 203000
+   },
+   {
+    "id": "nhV1cdos6Hk",
+    "title": "Before Deodorant, Personal Hygiene Was a Social Class Weapon Used for Segregation",
+    "meta": [
+     "7.4K",
+     "3mo ago"
+    ],
+    "dur": "27:27",
+    "views_tab": 7400
+   },
+   {
+    "id": "qQi0_MMsTqc",
+    "title": "Before Soap, Your Doctor Was More Dangerous Than the Disease",
+    "meta": [
+     "34K",
+     "3mo ago"
+    ],
+    "dur": "42:12",
+    "views_tab": 34000
+   },
+   {
+    "id": "SXCYLOoEsQo",
+    "title": "The Window Screen: The Invention That Saved a Million Lives",
+    "meta": [
+     "10K",
+     "3mo ago"
+    ],
+    "dur": "43:50",
+    "views_tab": 10000
+   },
+   {
+    "id": "R2nnZPceVD8",
+    "title": "Why Humans Went Barefoot for 99% of History",
+    "meta": [
+     "4.4K",
+     "3mo ago"
+    ],
+    "dur": "29:23",
+    "views_tab": 4400
+   },
+   {
+    "id": "QunYpx8pRsI",
+    "title": "Before Mattress Stores, Beds Lasted a Lifetime \u2014 Here's What Changed",
+    "meta": [
+     "5.8K",
+     "3mo ago"
+    ],
+    "dur": "18:23",
+    "views_tab": 5800
+   },
+   {
+    "id": "uGKMbN7N0bY",
+    "title": "The Ancient Air Conditioning We Abandoned \u2014 And Why It Worked Better",
+    "meta": [
+     "45K",
+     "3mo ago"
+    ],
+    "dur": "25:45",
+    "views_tab": 45000
+   },
+   {
+    "id": "s9pLZBejjY4",
+    "title": "What Did Old People Do Before Retirement Existed?",
+    "meta": [
+     "46K",
+     "3mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 46000
+   },
+   {
+    "id": "qo41M4r8JdI",
+    "title": "Before Debt Existed, Where Did Your Tax Money Actually Go to?",
+    "meta": [
+     "2.3K",
+     "3mo ago"
+    ],
+    "dur": "26:03",
+    "views_tab": 2300
+   },
+   {
+    "id": "fXa5CEtjjq4",
+    "title": "Why Did Cowboys Sleep Fully Dressed and Never Bathed?",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "17:45",
+    "views_tab": 1800
+   },
+   {
+    "id": "8ClbObSV_fo",
+    "title": "What Did People Actually Use Before Paper Money Existed?",
+    "meta": [
+     "5.2K",
+     "3mo ago"
+    ],
+    "dur": "25:48",
+    "views_tab": 5200
+   },
+   {
+    "id": "V-ChlF8mats",
+    "title": "What Did Victorian Women Do When Their Period Started in Public?",
+    "meta": [
+     "112K",
+     "3mo ago"
+    ],
+    "dur": "27:12",
+    "views_tab": 112000
+   },
+   {
+    "id": "noVRTAfp8z8",
+    "title": "Before Money Existed, How Did People Pay Their Taxes?",
+    "meta": [
+     "1.9K",
+     "3mo ago"
+    ],
+    "dur": "18:56",
+    "views_tab": 1900
+   },
+   {
+    "id": "1e2KmQmsbqo",
+    "title": "The Bizarre Reason Victorian Underwear Had No Crotch",
+    "meta": [
+     "87K",
+     "3mo ago"
+    ],
+    "dur": "25:51",
+    "views_tab": 87000
+   },
+   {
+    "id": "meaJdQE7PFY",
+    "title": "What Did Deaf People Do Before Hearing Aids Existed?",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 1800
+   },
+   {
+    "id": "wBSN3gfiggw",
+    "title": "What Happened to Women Before Divorce Was Allowed?",
+    "meta": [
+     "3.3K",
+     "3mo ago"
+    ],
+    "dur": "26:11",
+    "views_tab": 3300
+   },
+   {
+    "id": "X9ibbZRDWdc",
+    "title": "Why Did Women Stop Wearing Corsets? Bizarre History",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "26:42",
+    "views_tab": 1800
+   },
+   {
+    "id": "l-P7HSEsfk0",
+    "title": "Before Kitchen Stoves, Half of America Was Unlivable | Bizarre Documentary",
+    "meta": [
+     "112K",
+     "3mo ago"
+    ],
+    "dur": "25:39",
+    "views_tab": 112000
+   },
+   {
+    "id": "hhK5kJRNFrk",
+    "title": "Why Did American Houses Have Two Doors? | Bizarre History",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 24000
+   },
+   {
+    "id": "U2Z2eKtx198",
+    "title": "Before Sewers, Someone Had to Empty Your Toilet by Hand",
+    "meta": [
+     "2.2K",
+     "2mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 2200
+   },
+   {
+    "id": "iW24mSzHiBA",
+    "title": "The Milk That Killed 8,000 Babies \u2014 And Why it Was Perfectly Legal",
+    "meta": [
+     "1.6K",
+     "2mo ago"
+    ],
+    "dur": "26:20",
+    "views_tab": 1600
+   },
+   {
+    "id": "VZyFQ9r7DoE",
+    "title": "Humans Lost All Their Fur \u2014 So Why Did Men Keep Their Beard?",
+    "meta": [
+     "4.6K",
+     "2mo ago"
+    ],
+    "dur": "25:59",
+    "views_tab": 4600
+   },
+   {
+    "id": "GSMCwnhW-YQ",
+    "title": "What Did Americans Do During a Heat Wave Before AC Existed?",
+    "meta": [
+     "12K",
+     "2mo ago"
+    ],
+    "dur": "25:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "91Eh0XmGEGU",
+    "title": "Before Hospitals, Every Woman Prepared to Die in Childbirth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "26:00",
+    "views_tab": 23000
+   },
+   {
+    "id": "p4EoHt6snNY",
+    "title": "What Was in Medicine Before Anyone Knew What it Was?",
+    "meta": [
+     "2.5K",
+     "2mo ago"
+    ],
+    "dur": "28:04",
+    "views_tab": 2500
+   },
+   {
+    "id": "SIkZFR1W2NQ",
+    "title": "How Did Parents Handle Crying Babies? (Shocking History)",
+    "meta": [
+     "3.2K",
+     "2mo ago"
+    ],
+    "dur": "26:08",
+    "views_tab": 3200
+   },
+   {
+    "id": "O5O1aqr3_Ak",
+    "title": "The Bizarre Reason Diarrhea Was the Deadliest Disease in History",
+    "meta": [
+     "7.4K",
+     "2mo ago"
+    ],
+    "dur": "26:57",
+    "views_tab": 7400
+   },
+   {
+    "id": "rcTXtgY3GWM",
+    "title": "Before Shampoo, Clean Hair Was a Sign of Poverty | Bizarre History",
+    "meta": [
+     "5.4K",
+     "2mo ago"
+    ],
+    "dur": "27:16",
+    "views_tab": 5400
+   },
+   {
+    "id": "ACMp7usnNtM",
+    "title": "What Did People Wear on Their Feet Before Real Socks?",
+    "meta": [
+     "11K",
+     "2mo ago"
+    ],
+    "dur": "26:15",
+    "views_tab": 11000
+   },
+   {
+    "id": "fSnaGaOx6T0",
+    "title": "Before Water Heaters, Half of America Stopped Bathing in Winter",
+    "meta": [
+     "13K",
+     "2mo ago"
+    ],
+    "dur": "25:23",
+    "views_tab": 13000
+   },
+   {
+    "id": "tpXa7fTXGf4",
+    "title": "The Bizarre History Why Cities Refused to Build Women's Toilets",
+    "meta": [
+     "38K",
+     "2mo ago"
+    ],
+    "dur": "25:31",
+    "views_tab": 38000
+   },
+   {
+    "id": "C4Tou7QYSxw",
+    "title": "Before Electric Outlets, Your House Had One Bulb and Nothing Else",
+    "meta": [
+     "72K",
+     "2mo ago"
+    ],
+    "dur": "23:08",
+    "views_tab": 72000
+   },
+   {
+    "id": "sPNBqN4JLrM",
+    "title": "What Did People Take for Pain Before Aspirin Existed?",
+    "meta": [
+     "6.2K",
+     "2mo ago"
+    ],
+    "dur": "27:52",
+    "views_tab": 6200
+   },
+   {
+    "id": "S7UZHShGF1A",
+    "title": "Before Freezers, Winter Was the Only Time You Could Eat a Pig",
+    "meta": [
+     "3.2K",
+     "2mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 3200
+   },
+   {
+    "id": "f6oCFir00-k",
+    "title": "Before Window Glass, You Chose Between Light and Warmth",
+    "meta": [
+     "1.9K",
+     "2mo ago"
+    ],
+    "dur": "27:29",
+    "views_tab": 1900
+   },
+   {
+    "id": "3T_7NaN0FPs",
+    "title": "Before Locks, What Actually Stopped Anyone From Walking Into Your House?",
+    "meta": [
+     "4.5K",
+     "2mo ago"
+    ],
+    "dur": "26:11",
+    "views_tab": 4500
+   },
+   {
+    "id": "pQf3KBi4G1E",
+    "title": "Before Bikinis, Police Measured Women's Swimsuits \u2014 And Made Arrests",
+    "meta": [
+     "1.3K",
+     "2mo ago"
+    ],
+    "dur": "24:34",
+    "views_tab": 1300
+   },
+   {
+    "id": "Rq7RyaY_D74",
+    "title": "The Bizarre Reason Married Couples Stopped Sharing a Bed for 100 Years",
+    "meta": [
+     "4.5K",
+     "2mo ago"
+    ],
+    "dur": "25:59",
+    "views_tab": 4500
+   },
+   {
+    "id": "pVCNvBZIBMk",
+    "title": "The Baby Cage: When Dangling Infants Over the Street Was Good Parenting",
+    "meta": [
+     "4.5K",
+     "2mo ago"
+    ],
+    "dur": "25:22",
+    "views_tab": 4500
+   },
+   {
+    "id": "klx4iBXkkPg",
+    "title": "Before Clean Water, Children Drank Beer With Every Meal",
+    "meta": [
+     "2.4K",
+     "2mo ago"
+    ],
+    "dur": "25:21",
+    "views_tab": 2400
+   },
+   {
+    "id": "8rSyjmic7AA",
+    "title": "The Bizarre Reason Sailors Drank Rum (It Wasn't for Fun)",
+    "meta": [
+     "4.9K",
+     "2mo ago"
+    ],
+    "dur": "27:07",
+    "views_tab": 4900
+   },
+   {
+    "id": "ZW7cmihmauY",
+    "title": "Why 19th-Century Women Wore Padded \"Bustles\" (bizarre history)",
+    "meta": [
+     "8.4K",
+     "2mo ago"
+    ],
+    "dur": "27:08",
+    "views_tab": 8400
+   },
+   {
+    "id": "imYSfX1FdQc",
+    "title": "Before Circuit Breakers, Early Electricity Turned Homes Into Fire Traps",
+    "meta": [
+     "210K",
+     "2mo ago"
+    ],
+    "dur": "25:52",
+    "views_tab": 210000
+   },
+   {
+    "id": "ouULoO0bFxQ",
+    "title": "The Bizarre Rise and Fall of the Men\u2019s Codpiece (Weird History)",
+    "meta": [
+     "5.9K",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 5900
+   },
+   {
+    "id": "vRAzMjdLJx4",
+    "title": "The Uncomfortable History of the Menstrual Belt",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "25:45",
+    "views_tab": 2600
+   },
+   {
+    "id": "fc6bX8BnqYY",
+    "title": "What Did People Actually Wear to Bed Before Pajamas Existed?",
+    "meta": [
+     "3.4K",
+     "2mo ago"
+    ],
+    "dur": "25:53",
+    "views_tab": 3400
+   },
+   {
+    "id": "5PDuirJXMO8",
+    "title": "The Disgusting Reason 18th-Century Women Slept With Cages on Their Heads",
+    "meta": [
+     "4.3K",
+     "2mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 4300
+   },
+   {
+    "id": "L7PgJcB1Phc",
+    "title": "Why 16th-Century Women Wore 20-Inch Wooden Shoes to Cross the Street",
+    "meta": [
+     "8.7K",
+     "2mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 8700
+   },
+   {
+    "id": "FwQtic9ABrc",
+    "title": "Before Power Lines, Half of Rural America Lived in the Dark Until 1940",
+    "meta": [
+     "50K",
+     "1mo ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 50000
+   },
+   {
+    "id": "fmmhYSJi_0A",
+    "title": "What Did Men Wear Under Their Clothes Before Underwear Existed?",
+    "meta": [
+     "142K",
+     "1mo ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 142000
+   },
+   {
+    "id": "Bwgcq0iNEdg",
+    "title": "What Did Women Do Before Maternity Leave Existed?",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "25:32",
+    "views_tab": 7800
+   },
+   {
+    "id": "-WU12m6A8xM",
+    "title": "Before Electricity, Your Gas Lamp Was Poisoning the Whole House",
+    "meta": [
+     "6.1K",
+     "1mo ago"
+    ],
+    "dur": "26:44",
+    "views_tab": 6100
+   },
+   {
+    "id": "IpJM8azkaSA",
+    "title": "The Bizarre Reason Department Stores Were the Only Place a Woman Could Pee",
+    "meta": [
+     "52K",
+     "1mo ago"
+    ],
+    "dur": "25:42",
+    "views_tab": 52000
+   },
+   {
+    "id": "_WRA1v_TnDY",
+    "title": "How Did Truck Drivers Sleep in Their Cabs on Freezing Nights?",
+    "meta": [
+     "82K",
+     "1mo ago"
+    ],
+    "dur": "24:37",
+    "views_tab": 82000
+   },
+   {
+    "id": "1iCnTzP2ETw",
+    "title": "The Forgotten Fuse Box Flaw That Destroyed Early Suburban Homes",
+    "meta": [
+     "56K",
+     "1mo ago"
+    ],
+    "dur": "26:05",
+    "views_tab": 56000
+   },
+   {
+    "id": "sJQa-MHk7Tg",
+    "title": "Before Antibiotics, Half of America Died of Things We Now Cure in a Week",
+    "meta": [
+     "5.9K",
+     "1mo ago"
+    ],
+    "dur": "27:40",
+    "views_tab": 5900
+   },
+   {
+    "id": "2vCjDTdTzno",
+    "title": "What Did Men Do Before Razors? The Brutal History of Shaving",
+    "meta": [
+     "14K",
+     "1mo ago"
+    ],
+    "dur": "26:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "vQbuo-p5E2E",
+    "title": "What Did Men Use Before Condoms Existed?",
+    "meta": [
+     "23K",
+     "1mo ago"
+    ],
+    "dur": "27:16",
+    "views_tab": 23000
+   },
+   {
+    "id": "ku0cup6u9kE",
+    "title": "Before Wheelchairs, What Happened When You Couldn't Walk?",
+    "meta": [
+     "29K",
+     "1mo ago"
+    ],
+    "dur": "25:20",
+    "views_tab": 29000
+   },
+   {
+    "id": "JwD6MU8U_90",
+    "title": "Before Nursing Homes, Who Took Care of Grandma?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "27:39",
+    "views_tab": 11000
+   },
+   {
+    "id": "SFfH9eVz3BE",
+    "title": "How Did Women Manage Their Periods Before Pads Existed?",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "26:36",
+    "views_tab": 7800
+   }
+  ]
+ }
+}

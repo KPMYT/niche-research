@@ -1,0 +1,3929 @@
+{
+ "key": "UCkdnY2hNC0sdlVXPtWuNQ8g",
+ "channel": "New York Times Podcasts",
+ "id": "UCkdnY2hNC0sdlVXPtWuNQ8g",
+ "subs": "553K subscribers",
+ "videos": null,
+ "pulled": "2026-10-26T08:16:22.724558+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Z8fMW2IyU54",
+    "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
+    "meta": [
+     "25K",
+     "2d ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 25000
+   },
+   {
+    "id": "kU9huYFRFyY",
+    "title": "What to Read This Halloween, According to Two Best-Selling Writers",
+    "meta": [
+     "3.7K",
+     "2d ago"
+    ],
+    "dur": "51:32",
+    "views_tab": 3700
+   },
+   {
+    "id": "-oh3B4vuGgo",
+    "title": "Is Apple's Foldable iPhone Duo the Future of Smartphones?",
+    "meta": [
+     "5.9K",
+     "2d ago"
+    ],
+    "dur": "23:50",
+    "views_tab": 5900
+   },
+   {
+    "id": "wesNDBz6AMs",
+    "title": "The Election That Will Define Israel\u2019s Future",
+    "meta": [
+     "75K",
+     "3d ago"
+    ],
+    "dur": "33:53",
+    "views_tab": 75000
+   },
+   {
+    "id": "yE0KtYYCL4g",
+    "title": "New U.S.-Israeli Plans to Attack Iran, and Trump\u2019s Whistle-Blower Rewards Program",
+    "meta": [
+     "43K",
+     "3d ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 43000
+   },
+   {
+    "id": "nkHSP1SnBEM",
+    "title": "Nice to Meet You | Metro: Episode 1",
+    "meta": [
+     "6K",
+     "4d ago"
+    ],
+    "dur": "16:55",
+    "views_tab": 6000
+   },
+   {
+    "id": "NMEoS4habx8",
+    "title": "Special Preview: METRO with Sarah Koenig - Ep. 1",
+    "meta": [
+     "3.6K",
+     "4d ago"
+    ],
+    "dur": "17:22",
+    "views_tab": 3600
+   },
+   {
+    "id": "gsJuXxc57yc",
+    "title": "Karat and Schtick | Metro: Episode 2",
+    "meta": [
+     "3.6K",
+     "4d ago"
+    ],
+    "dur": "40:25",
+    "views_tab": 3600
+   },
+   {
+    "id": "76RTtKOapoY",
+    "title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
+    "meta": [
+     "103K",
+     "4d ago"
+    ],
+    "dur": "32:30",
+    "views_tab": 103000
+   },
+   {
+    "id": "FtC35oWj83k",
+    "title": "America\u2019s Utility Bill Crisis, and Trump\u2019s Approval Rating Hits a New Low",
+    "meta": [
+     "51K",
+     "4d ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 51000
+   },
+   {
+    "id": "B34dqplNEqI",
+    "title": "On Our Third Date, I Asked for a Joint Bank Account (Encore)",
+    "meta": [
+     "6.8K",
+     "4d ago"
+    ],
+    "dur": "46:07",
+    "views_tab": 6800
+   },
+   {
+    "id": "gd2wAK9xKLg",
+    "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+    "meta": [
+     "86K",
+     "5d ago"
+    ],
+    "dur": "35:43",
+    "views_tab": 86000
+   },
+   {
+    "id": "LEf9TAwzIe0",
+    "title": "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
+    "meta": [
+     "34K",
+     "5d ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 34000
+   },
+   {
+    "id": "yBAAKJSn6_A",
+    "title": "Face Sunscreen For Every Season",
+    "meta": [
+     "3.3K",
+     "5d ago"
+    ],
+    "dur": "34:28",
+    "views_tab": 3300
+   },
+   {
+    "id": "JUQBJa0Huj0",
+    "title": "Inside Putin\u2019s Plan to Cripple Ukraine This Winter",
+    "meta": [
+     "52K",
+     "6d ago"
+    ],
+    "dur": "29:01",
+    "views_tab": 52000
+   },
+   {
+    "id": "ZbkWJmjC6qI",
+    "title": "Israel\u2019s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
+    "meta": [
+     "33K",
+     "6d ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 33000
+   },
+   {
+    "id": "DmVGSKFVmpE",
+    "title": "A.I.-Generated Ads Flood the Midterms, and Teenager Kills 4 at Oregon Elementary School",
+    "meta": [
+     "41K",
+     "9d ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 41000
+   },
+   {
+    "id": "HpYzAIbj1eY",
+    "title": "The Best Soundbars (Plus Lessons from 40 Years of Audio Testing)",
+    "meta": [
+     "4.2K",
+     "9d ago"
+    ],
+    "dur": "24:00",
+    "views_tab": 4200
+   },
+   {
+    "id": "9HwO6EGlGNg",
+    "title": "A Book Review Critics\u2019 Roundtable",
+    "meta": [
+     "6.6K",
+     "9d ago"
+    ],
+    "dur": "41:41",
+    "views_tab": 6600
+   },
+   {
+    "id": "evOzjzPTOZc",
+    "title": "The Republican Strategy to Salvage the Midterms",
+    "meta": [
+     "149K",
+     "10d ago"
+    ],
+    "dur": "33:51",
+    "views_tab": 149000
+   },
+   {
+    "id": "Wm75sOZdNew",
+    "title": "Inflation Data Undercuts Trump\u2019s Economic Claims, and the Danger of New Jet-Powered Drones",
+    "meta": [
+     "39K",
+     "10d ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "XVz46V_2yrc",
+    "title": "The U.S. Tried to Choke Russia\u2019s Energy Market. Then It Made a Diesel Deal.",
+    "meta": [
+     "75K",
+     "11d ago"
+    ],
+    "dur": "30:52",
+    "views_tab": 75000
+   },
+   {
+    "id": "gs99jc7P1yk",
+    "title": "The Downfall of Trump\u2019s Ambassador to Greece, and the Pope\u2019s Cancer Diagnosis",
+    "meta": [
+     "37K",
+     "11d ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 37000
+   },
+   {
+    "id": "RRnubSoOc44",
+    "title": "Does My Son Like His Stepmother More Than Me?",
+    "meta": [
+     "14K",
+     "11d ago"
+    ],
+    "dur": "48:19",
+    "views_tab": 14000
+   },
+   {
+    "id": "LfGenpmOjDQ",
+    "title": "When A.I. Comes for Your Purpose in Life",
+    "meta": [
+     "289K",
+     "12d ago"
+    ],
+    "dur": "33:18",
+    "views_tab": 289000
+   },
+   {
+    "id": "gBEORIlVmsQ",
+    "title": "Musk Pours $276 Million Into the Midterms, and Federal Agents Raid Home of Rep. Ilhan Omar",
+    "meta": [
+     "37K",
+     "12d ago"
+    ],
+    "dur": "9:48",
+    "views_tab": 37000
+   },
+   {
+    "id": "ceomCrsDxjk",
+    "title": "Secrets to Cheap Travel (Encore)",
+    "meta": [
+     "9.5K",
+     "12d ago"
+    ],
+    "dur": "33:53",
+    "views_tab": 9500
+   },
+   {
+    "id": "6CxST38amkU",
+    "title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
+    "meta": [
+     "77K",
+     "13d ago"
+    ],
+    "dur": "32:12",
+    "views_tab": 77000
+   },
+   {
+    "id": "ul3JVYFMkbs",
+    "title": "Growing Threats Against Public Officials, and Trump\u2019s Diesel Deal With Putin",
+    "meta": [
+     "36K",
+     "13d ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 36000
+   },
+   {
+    "id": "lF4FUk-cAXo",
+    "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon\u2019s Plan to Livestream an Execution",
+    "meta": [
+     "33K",
+     "2w ago"
+    ],
+    "dur": "15:49",
+    "views_tab": 33000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Z8fMW2IyU54",
+    "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
+    "meta": [
+     "25K",
+     "2d ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 25000
+   },
+   {
+    "id": "kU9huYFRFyY",
+    "title": "What to Read This Halloween, According to Two Best-Selling Writers",
+    "meta": [
+     "3.7K",
+     "2d ago"
+    ],
+    "dur": "51:32",
+    "views_tab": 3700
+   },
+   {
+    "id": "-oh3B4vuGgo",
+    "title": "Is Apple's Foldable iPhone Duo the Future of Smartphones?",
+    "meta": [
+     "5.9K",
+     "2d ago"
+    ],
+    "dur": "23:50",
+    "views_tab": 5900
+   },
+   {
+    "id": "wesNDBz6AMs",
+    "title": "The Election That Will Define Israel\u2019s Future",
+    "meta": [
+     "75K",
+     "3d ago"
+    ],
+    "dur": "33:53",
+    "views_tab": 75000
+   },
+   {
+    "id": "yE0KtYYCL4g",
+    "title": "New U.S.-Israeli Plans to Attack Iran, and Trump\u2019s Whistle-Blower Rewards Program",
+    "meta": [
+     "43K",
+     "3d ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 43000
+   },
+   {
+    "id": "nkHSP1SnBEM",
+    "title": "Nice to Meet You | Metro: Episode 1",
+    "meta": [
+     "6K",
+     "4d ago"
+    ],
+    "dur": "16:55",
+    "views_tab": 6000
+   },
+   {
+    "id": "NMEoS4habx8",
+    "title": "Special Preview: METRO with Sarah Koenig - Ep. 1",
+    "meta": [
+     "3.6K",
+     "4d ago"
+    ],
+    "dur": "17:22",
+    "views_tab": 3600
+   },
+   {
+    "id": "gsJuXxc57yc",
+    "title": "Karat and Schtick | Metro: Episode 2",
+    "meta": [
+     "3.6K",
+     "4d ago"
+    ],
+    "dur": "40:25",
+    "views_tab": 3600
+   },
+   {
+    "id": "76RTtKOapoY",
+    "title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
+    "meta": [
+     "103K",
+     "4d ago"
+    ],
+    "dur": "32:30",
+    "views_tab": 103000
+   },
+   {
+    "id": "FtC35oWj83k",
+    "title": "America\u2019s Utility Bill Crisis, and Trump\u2019s Approval Rating Hits a New Low",
+    "meta": [
+     "51K",
+     "4d ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 51000
+   },
+   {
+    "id": "B34dqplNEqI",
+    "title": "On Our Third Date, I Asked for a Joint Bank Account (Encore)",
+    "meta": [
+     "6.8K",
+     "4d ago"
+    ],
+    "dur": "46:07",
+    "views_tab": 6800
+   },
+   {
+    "id": "gd2wAK9xKLg",
+    "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+    "meta": [
+     "86K",
+     "5d ago"
+    ],
+    "dur": "35:43",
+    "views_tab": 86000
+   },
+   {
+    "id": "LEf9TAwzIe0",
+    "title": "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
+    "meta": [
+     "34K",
+     "5d ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 34000
+   },
+   {
+    "id": "yBAAKJSn6_A",
+    "title": "Face Sunscreen For Every Season",
+    "meta": [
+     "3.3K",
+     "5d ago"
+    ],
+    "dur": "34:28",
+    "views_tab": 3300
+   },
+   {
+    "id": "JUQBJa0Huj0",
+    "title": "Inside Putin\u2019s Plan to Cripple Ukraine This Winter",
+    "meta": [
+     "52K",
+     "6d ago"
+    ],
+    "dur": "29:01",
+    "views_tab": 52000
+   },
+   {
+    "id": "ZbkWJmjC6qI",
+    "title": "Israel\u2019s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
+    "meta": [
+     "33K",
+     "6d ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 33000
+   },
+   {
+    "id": "DmVGSKFVmpE",
+    "title": "A.I.-Generated Ads Flood the Midterms, and Teenager Kills 4 at Oregon Elementary School",
+    "meta": [
+     "41K",
+     "9d ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 41000
+   },
+   {
+    "id": "HpYzAIbj1eY",
+    "title": "The Best Soundbars (Plus Lessons from 40 Years of Audio Testing)",
+    "meta": [
+     "4.2K",
+     "9d ago"
+    ],
+    "dur": "24:00",
+    "views_tab": 4200
+   },
+   {
+    "id": "9HwO6EGlGNg",
+    "title": "A Book Review Critics\u2019 Roundtable",
+    "meta": [
+     "6.6K",
+     "9d ago"
+    ],
+    "dur": "41:41",
+    "views_tab": 6600
+   },
+   {
+    "id": "evOzjzPTOZc",
+    "title": "The Republican Strategy to Salvage the Midterms",
+    "meta": [
+     "149K",
+     "10d ago"
+    ],
+    "dur": "33:51",
+    "views_tab": 149000
+   },
+   {
+    "id": "Wm75sOZdNew",
+    "title": "Inflation Data Undercuts Trump\u2019s Economic Claims, and the Danger of New Jet-Powered Drones",
+    "meta": [
+     "39K",
+     "10d ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "XVz46V_2yrc",
+    "title": "The U.S. Tried to Choke Russia\u2019s Energy Market. Then It Made a Diesel Deal.",
+    "meta": [
+     "75K",
+     "11d ago"
+    ],
+    "dur": "30:52",
+    "views_tab": 75000
+   },
+   {
+    "id": "gs99jc7P1yk",
+    "title": "The Downfall of Trump\u2019s Ambassador to Greece, and the Pope\u2019s Cancer Diagnosis",
+    "meta": [
+     "37K",
+     "11d ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 37000
+   },
+   {
+    "id": "RRnubSoOc44",
+    "title": "Does My Son Like His Stepmother More Than Me?",
+    "meta": [
+     "14K",
+     "11d ago"
+    ],
+    "dur": "48:19",
+    "views_tab": 14000
+   },
+   {
+    "id": "LfGenpmOjDQ",
+    "title": "When A.I. Comes for Your Purpose in Life",
+    "meta": [
+     "289K",
+     "12d ago"
+    ],
+    "dur": "33:18",
+    "views_tab": 289000
+   },
+   {
+    "id": "gBEORIlVmsQ",
+    "title": "Musk Pours $276 Million Into the Midterms, and Federal Agents Raid Home of Rep. Ilhan Omar",
+    "meta": [
+     "37K",
+     "12d ago"
+    ],
+    "dur": "9:48",
+    "views_tab": 37000
+   },
+   {
+    "id": "ceomCrsDxjk",
+    "title": "Secrets to Cheap Travel (Encore)",
+    "meta": [
+     "9.5K",
+     "12d ago"
+    ],
+    "dur": "33:53",
+    "views_tab": 9500
+   },
+   {
+    "id": "6CxST38amkU",
+    "title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
+    "meta": [
+     "77K",
+     "13d ago"
+    ],
+    "dur": "32:12",
+    "views_tab": 77000
+   },
+   {
+    "id": "ul3JVYFMkbs",
+    "title": "Growing Threats Against Public Officials, and Trump\u2019s Diesel Deal With Putin",
+    "meta": [
+     "36K",
+     "13d ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 36000
+   },
+   {
+    "id": "lF4FUk-cAXo",
+    "title": "The 2026 Nobel Peace Prize Winner, and the Pentagon\u2019s Plan to Livestream an Execution",
+    "meta": [
+     "33K",
+     "2w ago"
+    ],
+    "dur": "15:49",
+    "views_tab": 33000
+   },
+   {
+    "id": "wu2_1wkOgq4",
+    "title": "Min Jin Lee Wants Us to Rethink Education",
+    "meta": [
+     "31K",
+     "2w ago"
+    ],
+    "dur": "56:32",
+    "views_tab": 31000
+   },
+   {
+    "id": "PVWWBYlkDFQ",
+    "title": "The Best Rain Boots for Puddles, Mud, and City Sidewalks",
+    "meta": [
+     "3.4K",
+     "2w ago"
+    ],
+    "dur": "21:08",
+    "views_tab": 3400
+   },
+   {
+    "id": "rVbpnMKVS1Y",
+    "title": "A Failed Execution and the Future of the Death Penalty",
+    "meta": [
+     "52K",
+     "2w ago"
+    ],
+    "dur": "31:09",
+    "views_tab": 52000
+   },
+   {
+    "id": "PO1G8YWKDsY",
+    "title": "A Forced Retreat for Trump and Hegseth, and What to Know About the Russia Plague Scare",
+    "meta": [
+     "63K",
+     "2w ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 63000
+   },
+   {
+    "id": "GA3bapJsGb4",
+    "title": "Three Vans, a Startled Farmer and an Iranian Plot Against the U.S.",
+    "meta": [
+     "187K",
+     "2w ago"
+    ],
+    "dur": "22:36",
+    "views_tab": 187000
+   },
+   {
+    "id": "vljxKKPzAhs",
+    "title": "A Wall Street Record, and Why India Cut 130 Million Names From Its Voter Roll",
+    "meta": [
+     "24K",
+     "2w ago"
+    ],
+    "dur": "8:56",
+    "views_tab": 24000
+   },
+   {
+    "id": "SZpKu0rPWis",
+    "title": "The Problem With Hegseth\u2019s Pentagon | 'The Opinions' Podcast",
+    "meta": [
+     "New York Times Podcasts",
+     "and The Opinions Podcast",
+     "46K",
+     "2w ago"
+    ],
+    "dur": "31:35",
+    "views_tab": 46000
+   },
+   {
+    "id": "eITWvkTQo38",
+    "title": "Call My A.I. Agent",
+    "meta": [
+     "64K",
+     "2w ago"
+    ],
+    "dur": "27:51",
+    "views_tab": 64000
+   },
+   {
+    "id": "zI2SJxybugg",
+    "title": "Huge Protests Put France on Edge, and How Meta Exploited a Tax Credit to Save Billions",
+    "meta": [
+     "21K",
+     "2w ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 21000
+   },
+   {
+    "id": "qR3hEi9hH1U",
+    "title": "Wirecutter's Hall of Fame",
+    "meta": [
+     "5.4K",
+     "2w ago"
+    ],
+    "dur": "45:21",
+    "views_tab": 5400
+   },
+   {
+    "id": "6dBxDAYVEag",
+    "title": "Midterm Surprise: Democrats Are Surging in Red America",
+    "meta": [
+     "132K",
+     "2w ago"
+    ],
+    "dur": "27:37",
+    "views_tab": 132000
+   },
+   {
+    "id": "zb7RV3ik2C8",
+    "title": "The Supreme Court\u2019s New Term, and a Race for Nuclear Power on the Moon",
+    "meta": [
+     "35K",
+     "2w ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 35000
+   },
+   {
+    "id": "a14hzS3Ag-I",
+    "title": "Where Voters Are Abandoning Trump, and Barriers to New Cancer Treatments",
+    "meta": [
+     "57K",
+     "3w ago"
+    ],
+    "dur": "15:38",
+    "views_tab": 57000
+   },
+   {
+    "id": "gq_RktwzpE0",
+    "title": "How to Pack a Better Lunch",
+    "meta": [
+     "5.8K",
+     "3w ago"
+    ],
+    "dur": "28:26",
+    "views_tab": 5800
+   },
+   {
+    "id": "0dknZntSaIg",
+    "title": "Decades Later, Stephen King Is Finishing What He and Peter Straub Started",
+    "meta": [
+     "13K",
+     "3w ago"
+    ],
+    "dur": "36:06",
+    "views_tab": 13000
+   },
+   {
+    "id": "nQ1l7taJBxY",
+    "title": "Why Washington Is Trying to Rein In College Sports",
+    "meta": [
+     "40K",
+     "3w ago"
+    ],
+    "dur": "29:35",
+    "views_tab": 40000
+   },
+   {
+    "id": "MuGlnF2DEoM",
+    "title": "What Newly Obtained Documents Show About the Cornell Case, and Inside the Bloody Midair Cockpit A...",
+    "meta": [
+     "40K",
+     "3w ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 40000
+   },
+   {
+    "id": "_xRcOYRrEfI",
+    "title": "Inside the Devastating Hack of the F.B.I.",
+    "meta": [
+     "195K",
+     "3w ago"
+    ],
+    "dur": "23:58",
+    "views_tab": 195000
+   },
+   {
+    "id": "OoP96WQ0XlU",
+    "title": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
+    "meta": [
+     "29K",
+     "3w ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 29000
+   },
+   {
+    "id": "8vhHSi1zgBw",
+    "title": "Tell Us About Your Household Debates",
+    "meta": [
+     "2.6K",
+     "3w ago"
+    ],
+    "dur": "0:56",
+    "views_tab": 2600
+   },
+   {
+    "id": "HgbFUwcjZEE",
+    "title": "Are Prediction Markets Gambling? A Lot Rides on the Answer.",
+    "meta": [
+     "43K",
+     "3w ago"
+    ],
+    "dur": "26:57",
+    "views_tab": 43000
+   },
+   {
+    "id": "OhZYzG6zh3k",
+    "title": "Huge Data Breach Leaves F.B.I. Scrambling, and Russian Attacks Destroy Millions of Books",
+    "meta": [
+     "44K",
+     "3w ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 44000
+   },
+   {
+    "id": "_DLHi6QBSQM",
+    "title": "Your A.I. Questions Answered",
+    "meta": [
+     "20K",
+     "3w ago"
+    ],
+    "dur": "13:27",
+    "views_tab": 20000
+   },
+   {
+    "id": "ZzP7KC0m0po",
+    "title": "Pillow Talk",
+    "meta": [
+     "4.8K",
+     "3w ago"
+    ],
+    "dur": "35:24",
+    "views_tab": 4800
+   },
+   {
+    "id": "D8kGlis5-HE",
+    "title": "He Was Deported to a Country He\u2019d Never Heard Of",
+    "meta": [
+     "45K",
+     "3w ago"
+    ],
+    "dur": "27:17",
+    "views_tab": 45000
+   },
+   {
+    "id": "XrL8LLh0uOc",
+    "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
+    "meta": [
+     "43K",
+     "3w ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 43000
+   },
+   {
+    "id": "W9e0PHDseH4",
+    "title": "Trump\u2019s Standoff With White House Reporters, and the Rise and Fall of \u2018Pervert Glasses\u2019",
+    "meta": [
+     "40K",
+     "1mo ago"
+    ],
+    "dur": "14:12",
+    "views_tab": 40000
+   },
+   {
+    "id": "VIK3sj8rtkU",
+    "title": "How to Make Your Phone Less Addictive",
+    "meta": [
+     "5.7K",
+     "1mo ago"
+    ],
+    "dur": "25:43",
+    "views_tab": 5700
+   },
+   {
+    "id": "IdcjplwJUQ8",
+    "title": "What Safeguarding Nukes Can Teach Us About Safeguarding A.I.",
+    "meta": [
+     "55K",
+     "1mo ago"
+    ],
+    "dur": "36:36",
+    "views_tab": 55000
+   },
+   {
+    "id": "Qa77eMSdJiE",
+    "title": "Judge Blocks Trump\u2019s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
+    "meta": [
+     "32K",
+     "1mo ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 32000
+   },
+   {
+    "id": "icoL45kZuiM",
+    "title": "Health Trackers Are Everywhere. Do Babies Need Them, Too?",
+    "meta": [
+     "21K",
+     "1mo ago"
+    ],
+    "dur": "34:03",
+    "views_tab": 21000
+   },
+   {
+    "id": "15KRqz5_ilM",
+    "title": "Trump\u2019s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
+    "meta": [
+     "88K",
+     "1mo ago"
+    ],
+    "dur": "9:27",
+    "views_tab": 88000
+   },
+   {
+    "id": "iC1llIh6Cxo",
+    "title": "I Left My Fianc\u00e9, My Church and My Shame",
+    "meta": [
+     "139K",
+     "1mo ago"
+    ],
+    "dur": "34:35",
+    "views_tab": 139000
+   },
+   {
+    "id": "xdCl_2Ld6go",
+    "title": "Trump Banned the Media. This Time, the Media Struck Back.",
+    "meta": [
+     "97K",
+     "1mo ago"
+    ],
+    "dur": "27:39",
+    "views_tab": 97000
+   },
+   {
+    "id": "UdBxZW-p80E",
+    "title": "Why Xi Is Coming to Washington, and White House TV Feeds Go Dark",
+    "meta": [
+     "35K",
+     "1mo ago"
+    ],
+    "dur": "9:02",
+    "views_tab": 35000
+   },
+   {
+    "id": "a0WK9H_jFnA",
+    "title": "Setting Digital Boundaries with Kids At Any Age",
+    "meta": [
+     "4.5K",
+     "1mo ago"
+    ],
+    "dur": "34:55",
+    "views_tab": 4500
+   },
+   {
+    "id": "ybTLEOb1eJQ",
+    "title": "The Trump Administration Defangs the Endangered Species Act",
+    "meta": [
+     "40K",
+     "1mo ago"
+    ],
+    "dur": "24:14",
+    "views_tab": 40000
+   },
+   {
+    "id": "JhIMdNd8KeE",
+    "title": "Trump\u2019s New Middle East Dilemma, and How DraftKings Uses A.I. to Target Gamblers",
+    "meta": [
+     "50K",
+     "1mo ago"
+    ],
+    "dur": "11:28",
+    "views_tab": 50000
+   },
+   {
+    "id": "a9dc4V61D8I",
+    "title": "How the Kremlin Gets the Election Results It Wants, and R.F.K. Jr. Rallies Vaccine Skeptics",
+    "meta": [
+     "42K",
+     "1mo ago"
+    ],
+    "dur": "14:50",
+    "views_tab": 42000
+   },
+   {
+    "id": "6l0kb8THsq8",
+    "title": "How Adaptive Beauty Tools Make Makeup Easier for Everyone",
+    "meta": [
+     "3.7K",
+     "1mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 3700
+   },
+   {
+    "id": "62MyjME0zhg",
+    "title": "John Green Knows a True Hollywood Ending is Complicated",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "57:36",
+    "views_tab": 11000
+   },
+   {
+    "id": "7uYyXVrCpdw",
+    "title": "Why Gas Prices Just Keep Going Up",
+    "meta": [
+     "121K",
+     "1mo ago"
+    ],
+    "dur": "23:53",
+    "views_tab": 121000
+   },
+   {
+    "id": "NxjijwhnmMI",
+    "title": "The Deadly Choice Facing Many Gazans, and a New Disclosure of \u201cConcerning\u201d A.I. Behavior",
+    "meta": [
+     "29K",
+     "1mo ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 29000
+   },
+   {
+    "id": "Imn5qjrOh6w",
+    "title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
+    "meta": [
+     "106K",
+     "1mo ago"
+    ],
+    "dur": "36:47",
+    "views_tab": 106000
+   },
+   {
+    "id": "6XGoJ3U0pGM",
+    "title": "Fuel Riots Spread Around the World, and Trump Approves $2.8 Billion Arms Sale to Israel",
+    "meta": [
+     "63K",
+     "1mo ago"
+    ],
+    "dur": "11:38",
+    "views_tab": 63000
+   },
+   {
+    "id": "x16LHhm9puQ",
+    "title": "I Was That Clich\u00e9 Divorced Guy, and I Knew It",
+    "meta": [
+     "30K",
+     "1mo ago"
+    ],
+    "dur": "51:20",
+    "views_tab": 30000
+   },
+   {
+    "id": "_lg1MZt6Q-I",
+    "title": "The Bond Market Is Flipping Out. Here\u2019s Why You Should Care.",
+    "meta": [
+     "308K",
+     "1mo ago"
+    ],
+    "dur": "28:29",
+    "views_tab": 308000
+   },
+   {
+    "id": "GV0Vnmvuk5o",
+    "title": "New Poll Shows Democrats Have Midterms Momentum, and Trump Calls A.I. Fears \u2018a Hoax\u2019",
+    "meta": [
+     "43K",
+     "1mo ago"
+    ],
+    "dur": "10:27",
+    "views_tab": 43000
+   },
+   {
+    "id": "2_WpPxdwQU0",
+    "title": "Vegetables Don't Have to Be Boring",
+    "meta": [
+     "4.8K",
+     "1mo ago"
+    ],
+    "dur": "37:32",
+    "views_tab": 4800
+   },
+   {
+    "id": "Wr5yrjkYkFE",
+    "title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
+    "meta": [
+     "133K",
+     "1mo ago"
+    ],
+    "dur": "34:14",
+    "views_tab": 133000
+   },
+   {
+    "id": "PCvTilOYAz8",
+    "title": "The Escalating Warnings About A.I., and the Rise of a Deadly New Street Drug",
+    "meta": [
+     "55K",
+     "1mo ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 55000
+   },
+   {
+    "id": "VPX6b6EA2yg",
+    "title": "How to Feed Your Feelings After Divorce",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "48:40",
+    "views_tab": 11000
+   },
+   {
+    "id": "lAxG8CGP39M",
+    "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
+    "meta": [
+     "70K",
+     "1mo ago"
+    ],
+    "dur": "15:34",
+    "views_tab": 70000
+   },
+   {
+    "id": "iwAAJXbNC00",
+    "title": "The Best Books of the 21st Century: Taffy Brodesser-Akner on \u2018The Corrections\u2019",
+    "meta": [
+     "14K",
+     "1mo ago"
+    ],
+    "dur": "47:15",
+    "views_tab": 14000
+   },
+   {
+    "id": "LyeKrZxWKfY",
+    "title": "Pickles! (Live From The Minnesota State Fair!)",
+    "meta": [
+     "3.6K",
+     "1mo ago"
+    ],
+    "dur": "28:19",
+    "views_tab": 3600
+   },
+   {
+    "id": "58kfCVciZSY",
+    "title": "A Couple Breaks Up. Who Gets Custody of Their Embryos?",
+    "meta": [
+     "32K",
+     "1mo ago"
+    ],
+    "dur": "43:58",
+    "views_tab": 32000
+   },
+   {
+    "id": "W2M0zexDTQc",
+    "title": "Trump Dangles $5,000 Payments if Republicans Win, and Deportees Are Stranded in Haiti",
+    "meta": [
+     "44K",
+     "1mo ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 44000
+   },
+   {
+    "id": "xZdJ8GpNTY4",
+    "title": "Trump\u2019s War on Mail-In Voting",
+    "meta": [
+     "45K",
+     "1mo ago"
+    ],
+    "dur": "27:30",
+    "views_tab": 45000
+   },
+   {
+    "id": "OYOvURRqCwc",
+    "title": "Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships",
+    "meta": [
+     "42K",
+     "1mo ago"
+    ],
+    "dur": "10:19",
+    "views_tab": 42000
+   },
+   {
+    "id": "9OFjDCuLRho",
+    "title": "\u2018Buy Now, Pay Later\u2019: A New Wave of Consumer Debt",
+    "meta": [
+     "146K",
+     "1mo ago"
+    ],
+    "dur": "24:06",
+    "views_tab": 146000
+   },
+   {
+    "id": "0rZTs9YgVJ0",
+    "title": "Why the Pentagon Is Doing Polygraphs, and Officials Prepare to Release Huge Set of 9/11 Documents",
+    "meta": [
+     "43K",
+     "1mo ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 43000
+   },
+   {
+    "id": "SPI1tjsPZcw",
+    "title": "How to Finally Find A Bra You Won\u2019t Hate",
+    "meta": [
+     "7.3K",
+     "1mo ago"
+    ],
+    "dur": "39:23",
+    "views_tab": 7300
+   },
+   {
+    "id": "sppq6q5iIUY",
+    "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
+    "meta": [
+     "202K",
+     "1mo ago"
+    ],
+    "dur": "14:54",
+    "views_tab": 202000
+   },
+   {
+    "id": "jgFGUGiShes",
+    "title": "So, You Want to Start Composting",
+    "meta": [
+     "4.8K",
+     "1mo ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 4800
+   },
+   {
+    "id": "jFiyHzHx3GI",
+    "title": "It\u2019s Time for a Big Ol\u2019 Fall Book Preview",
+    "meta": [
+     "6.8K",
+     "1mo ago"
+    ],
+    "dur": "49:20",
+    "views_tab": 6800
+   },
+   {
+    "id": "-OeXgrY3bss",
+    "title": "A.I. Is Outsmarting Its Creators",
+    "meta": [
+     "234K",
+     "1mo ago"
+    ],
+    "dur": "40:37",
+    "views_tab": 234000
+   },
+   {
+    "id": "PW9l4ujyO1Y",
+    "title": "U.S. Attack Hits Iranian Wedding, and Influencers Are Being Quietly Paid to Talk Politics",
+    "meta": [
+     "21K",
+     "1mo ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 21000
+   },
+   {
+    "id": "nYcetG52YCo",
+    "title": "The Fight for the West Bank",
+    "meta": [
+     "39K",
+     "1mo ago"
+    ],
+    "dur": "28:02",
+    "views_tab": 39000
+   },
+   {
+    "id": "grbCtlkBZ5Y",
+    "title": "Russia\u2019s New Push to Torment Kyiv, and a Whistle-Blower\u2019s Warning on Mail-In Voting",
+    "meta": [
+     "31K",
+     "1mo ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 31000
+   },
+   {
+    "id": "VAf0ZeTcoEM",
+    "title": "In 24 Hours, My Whole Life Changed",
+    "meta": [
+     "34K",
+     "1mo ago"
+    ],
+    "dur": "37:58",
+    "views_tab": 34000
+   },
+   {
+    "id": "zZD-cGFIls8",
+    "title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
+    "meta": [
+     "79K",
+     "1mo ago"
+    ],
+    "dur": "38:44",
+    "views_tab": 79000
+   },
+   {
+    "id": "2GZMk-JIpQU",
+    "title": "The Supreme Court\u2019s Secret Documents, and an Unusual Order From the C.D.C. Director",
+    "meta": [
+     "21K",
+     "1mo ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 21000
+   },
+   {
+    "id": "MiptRJv6gHQ",
+    "title": "The Best Bidet for Every Budget (Encore)",
+    "meta": [
+     "4.1K",
+     "1mo ago"
+    ],
+    "dur": "34:55",
+    "views_tab": 4100
+   },
+   {
+    "id": "Hjkz6IxST6Q",
+    "title": "How Flock Cameras Took Over America",
+    "meta": [
+     "131K",
+     "1mo ago"
+    ],
+    "dur": "29:27",
+    "views_tab": 131000
+   },
+   {
+    "id": "1-MKHRXLCkg",
+    "title": "The Navy\u2019s Supply Chain Struggle, and Trump\u2019s Unusual Oil Deal in Venezuela",
+    "meta": [
+     "102K",
+     "1mo ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 102000
+   },
+   {
+    "id": "vOCEhTpuw0M",
+    "title": "Book Club: Let\u2019s Talk About \u2018London Falling\u2019",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "54:06",
+    "views_tab": 10000
+   },
+   {
+    "id": "MGxQ6sQtezE",
+    "title": "Six Months of War, and Trump\u2019s Push for \u2018Lake America\u2019",
+    "meta": [
+     "49K",
+     "1mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 49000
+   },
+   {
+    "id": "g_EJq424WGE",
+    "title": "The Best Time to Buy a Mattress (and How to Get a Deal)",
+    "meta": [
+     "5.9K",
+     "1mo ago"
+    ],
+    "dur": "20:48",
+    "views_tab": 5900
+   },
+   {
+    "id": "oJxIYlfvVsY",
+    "title": "A Historic Settlement Over Social Media Addiction",
+    "meta": [
+     "85K",
+     "1mo ago"
+    ],
+    "dur": "28:10",
+    "views_tab": 85000
+   },
+   {
+    "id": "zU58-MaAjPA",
+    "title": "ICE Arrests Soar Across U.S., and Meta Agrees to Make Major Changes to Instagram and Facebook",
+    "meta": [
+     "39K",
+     "1mo ago"
+    ],
+    "dur": "13:00",
+    "views_tab": 39000
+   },
+   {
+    "id": "HHsJRddkWNY",
+    "title": "The Stunning Rise of the Democratic Socialists of America",
+    "meta": [
+     "79K",
+     "1mo ago"
+    ],
+    "dur": "50:07",
+    "views_tab": 79000
+   },
+   {
+    "id": "sIYHzDrbmq4",
+    "title": "Hegseth\u2019s Army Purge, and Polling Chaos in the Midterms",
+    "meta": [
+     "29K",
+     "1mo ago"
+    ],
+    "dur": "13:49",
+    "views_tab": 29000
+   },
+   {
+    "id": "EYDW0xZb8V4",
+    "title": "Hosting an Orgy Is About More Than Just Sex",
+    "meta": [
+     "17K",
+     "1mo ago"
+    ],
+    "dur": "37:59",
+    "views_tab": 17000
+   },
+   {
+    "id": "fhgw3qAxYlY",
+    "title": "Canada Is Done With Trump",
+    "meta": [
+     "225K",
+     "2mo ago"
+    ],
+    "dur": "37:02",
+    "views_tab": 225000
+   },
+   {
+    "id": "Dqe_ZhL0Ir0",
+    "title": "An Alarming New Study About Brain Injuries in Football, and How States Are Paying Millions for Rain",
+    "meta": [
+     "15K",
+     "2mo ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 15000
+   },
+   {
+    "id": "FbsSxcI1m7c",
+    "title": "Are You Using Conditioner All Wrong?",
+    "meta": [
+     "3.7K",
+     "2mo ago"
+    ],
+    "dur": "27:07",
+    "views_tab": 3700
+   },
+   {
+    "id": "SMSjKw8Po2Q",
+    "title": "Natalie Harp\u2019s Devotion to Trump",
+    "meta": [
+     "99K",
+     "2mo ago"
+    ],
+    "dur": "22:50",
+    "views_tab": 99000
+   },
+   {
+    "id": "YwBvn-4IuJE",
+    "title": "Canada Is \u2018at War\u2019 With U.S. Over Tariffs, and U.S.P.S. Publishes Plan to Restrict Ballots",
+    "meta": [
+     "20K",
+     "2mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 20000
+   },
+   {
+    "id": "QcIWtq0pRI8",
+    "title": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
+    "meta": [
+     "22K",
+     "2mo ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 22000
+   },
+   {
+    "id": "jkiFHz1hZ5Q",
+    "title": "Why We Can\u2019t Resist a Great Bookstore",
+    "meta": [
+     "3.4K",
+     "2mo ago"
+    ],
+    "dur": "26:04",
+    "views_tab": 3400
+   }
+  ],
+  "Popular": [
+   {
+    "id": "C8cGmR0gbPU",
+    "title": "How Trump Lost Control of the Epstein Narrative",
+    "meta": [
+     "450K",
+     "1y ago"
+    ],
+    "dur": "28:36",
+    "views_tab": 450000
+   },
+   {
+    "id": "JV0W8Jz0d5E",
+    "title": "Esther Perel on What the Other Woman Knows",
+    "meta": [
+     "410K",
+     "2y ago"
+    ],
+    "dur": "28:02",
+    "views_tab": 410000
+   },
+   {
+    "id": "_lg1MZt6Q-I",
+    "title": "The Bond Market Is Flipping Out. Here\u2019s Why You Should Care.",
+    "meta": [
+     "308K",
+     "1mo ago"
+    ],
+    "dur": "28:29",
+    "views_tab": 308000
+   },
+   {
+    "id": "LfGenpmOjDQ",
+    "title": "When A.I. Comes for Your Purpose in Life",
+    "meta": [
+     "289K",
+     "12d ago"
+    ],
+    "dur": "33:18",
+    "views_tab": 289000
+   },
+   {
+    "id": "D9dZk9YwguE",
+    "title": "A D.O.J. Whistleblower Speaks Out",
+    "meta": [
+     "284K",
+     "1y ago"
+    ],
+    "dur": "34:30",
+    "views_tab": 284000
+   },
+   {
+    "id": "mU94A1vTpDk",
+    "title": "The Day Thousands of Pagers Exploded in Lebanon",
+    "meta": [
+     "262K",
+     "2y ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 262000
+   },
+   {
+    "id": "9x8zSQVkVmc",
+    "title": "Bernie Sanders Thinks Trump Fever Has Broken",
+    "meta": [
+     "244K",
+     "2y ago"
+    ],
+    "dur": "36:10",
+    "views_tab": 244000
+   },
+   {
+    "id": "xvYvfOcEFXI",
+    "title": "Bernie Sanders Says Democrats Have Lost Their Way",
+    "meta": [
+     "239K",
+     "1y ago"
+    ],
+    "dur": "35:11",
+    "views_tab": 239000
+   },
+   {
+    "id": "-OeXgrY3bss",
+    "title": "A.I. Is Outsmarting Its Creators",
+    "meta": [
+     "234K",
+     "1mo ago"
+    ],
+    "dur": "40:37",
+    "views_tab": 234000
+   },
+   {
+    "id": "wFzDx81YK2s",
+    "title": "How Trump\u2019s Conviction Could Reshape the Election",
+    "meta": [
+     "233K",
+     "2y ago"
+    ],
+    "dur": "31:37",
+    "views_tab": 233000
+   },
+   {
+    "id": "fhgw3qAxYlY",
+    "title": "Canada Is Done With Trump",
+    "meta": [
+     "225K",
+     "2mo ago"
+    ],
+    "dur": "37:02",
+    "views_tab": 225000
+   },
+   {
+    "id": "eUs1m_wDHIQ",
+    "title": "Why \u2018Made in China\u2019 Is Becoming \u2018Made in Mexico\u2019",
+    "meta": [
+     "220K",
+     "3y ago"
+    ],
+    "dur": "28:40",
+    "views_tab": 220000
+   },
+   {
+    "id": "yrMaemo7bMk",
+    "title": "The Tangled Tale of the Tate Brothers and the Trumps",
+    "meta": [
+     "207K",
+     "2mo ago"
+    ],
+    "dur": "39:42",
+    "views_tab": 207000
+   },
+   {
+    "id": "sppq6q5iIUY",
+    "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk\u2019s Political War Chest",
+    "meta": [
+     "202K",
+     "1mo ago"
+    ],
+    "dur": "14:54",
+    "views_tab": 202000
+   },
+   {
+    "id": "86rdUhx-b4U",
+    "title": "Big Tech Told Kids to Code. The Jobs Didn\u2019t Follow.",
+    "meta": [
+     "198K",
+     "1y ago"
+    ],
+    "dur": "31:21",
+    "views_tab": 198000
+   },
+   {
+    "id": "_xRcOYRrEfI",
+    "title": "Inside the Devastating Hack of the F.B.I.",
+    "meta": [
+     "195K",
+     "3w ago"
+    ],
+    "dur": "23:58",
+    "views_tab": 195000
+   },
+   {
+    "id": "GA3bapJsGb4",
+    "title": "Three Vans, a Startled Farmer and an Iranian Plot Against the U.S.",
+    "meta": [
+     "187K",
+     "2w ago"
+    ],
+    "dur": "22:36",
+    "views_tab": 187000
+   },
+   {
+    "id": "UczqHLeRdNg",
+    "title": "Inside the Trump Purge: Federal Workers Tell Their Stories",
+    "meta": [
+     "178K",
+     "1y ago"
+    ],
+    "dur": "28:00",
+    "views_tab": 178000
+   },
+   {
+    "id": "lfDxO5Bg6jI",
+    "title": "The Chaotic Personal Life of Elon Musk",
+    "meta": [
+     "176K",
+     "1y ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 176000
+   },
+   {
+    "id": "jKkpCnZs_Xc",
+    "title": "\u2018Everything After This Will Be Harder\u2019: General Stanley McChrystal on Iran",
+    "meta": [
+     "New York Times Podcasts",
+     "and The Opinions Podcast",
+     "175K",
+     "7mo ago"
+    ],
+    "dur": "39:56",
+    "views_tab": 175000
+   },
+   {
+    "id": "i7uhDxSOylo",
+    "title": "How Do The Iowa Caucuses Work?",
+    "meta": [
+     "175K",
+     "2y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 175000
+   },
+   {
+    "id": "0u2geObUoWg",
+    "title": "Arizona\u2019s Food Stamp Crisis Is Coming for the Rest of the U.S.",
+    "meta": [
+     "165K",
+     "2mo ago"
+    ],
+    "dur": "31:10",
+    "views_tab": 165000
+   },
+   {
+    "id": "Mwn371XO31s",
+    "title": "A Failed Secret Mission in North Korea, a Government Shutdown Deadline, Your Friday News Quiz",
+    "meta": [
+     "149K",
+     "1y ago"
+    ],
+    "dur": "14:32",
+    "views_tab": 149000
+   },
+   {
+    "id": "evOzjzPTOZc",
+    "title": "The Republican Strategy to Salvage the Midterms",
+    "meta": [
+     "149K",
+     "10d ago"
+    ],
+    "dur": "33:51",
+    "views_tab": 149000
+   },
+   {
+    "id": "9OFjDCuLRho",
+    "title": "\u2018Buy Now, Pay Later\u2019: A New Wave of Consumer Debt",
+    "meta": [
+     "146K",
+     "1mo ago"
+    ],
+    "dur": "24:06",
+    "views_tab": 146000
+   },
+   {
+    "id": "bTyCKGYG89M",
+    "title": "Two Billionaires\u2019 Big Plan to Shrink Government",
+    "meta": [
+     "145K",
+     "1y ago"
+    ],
+    "dur": "28:55",
+    "views_tab": 145000
+   },
+   {
+    "id": "Vp9zG3oFhYo",
+    "title": "Tom Friedman on Israel\u2019s \u2018Morally Impossible Situation\u2019",
+    "meta": [
+     "142K",
+     "3y ago"
+    ],
+    "dur": "39:25",
+    "views_tab": 142000
+   },
+   {
+    "id": "pbSzLpJ3WEQ",
+    "title": "The Growing List of Names in the Epstein Files, and the Federal Investigation into D.E.I. at Nike",
+    "meta": [
+     "142K",
+     "8mo ago"
+    ],
+    "dur": "13:57",
+    "views_tab": 142000
+   },
+   {
+    "id": "iC1llIh6Cxo",
+    "title": "I Left My Fianc\u00e9, My Church and My Shame",
+    "meta": [
+     "139K",
+     "1mo ago"
+    ],
+    "dur": "34:35",
+    "views_tab": 139000
+   },
+   {
+    "id": "6KXRP_HidgU",
+    "title": "The End of Justin Trudeau\u2019s Canada",
+    "meta": [
+     "139K",
+     "1y ago"
+    ],
+    "dur": "29:39",
+    "views_tab": 139000
+   },
+   {
+    "id": "Wr5yrjkYkFE",
+    "title": "The A.I. Researcher Whose Rebellion Is Changing Everything",
+    "meta": [
+     "133K",
+     "1mo ago"
+    ],
+    "dur": "34:14",
+    "views_tab": 133000
+   },
+   {
+    "id": "qrJaonJt1QU",
+    "title": "Serial S01 - Ep. 1: The Alibi",
+    "meta": [
+     "132K",
+     "1y ago"
+    ],
+    "dur": "52:58",
+    "views_tab": 132000
+   },
+   {
+    "id": "Jm7n_74Wh6Y",
+    "title": "Inside Kash Patel\u2019s F.B.I.",
+    "meta": [
+     "132K",
+     "6mo ago"
+    ],
+    "dur": "39:42",
+    "views_tab": 132000
+   },
+   {
+    "id": "6dBxDAYVEag",
+    "title": "Midterm Surprise: Democrats Are Surging in Red America",
+    "meta": [
+     "132K",
+     "2w ago"
+    ],
+    "dur": "27:37",
+    "views_tab": 132000
+   },
+   {
+    "id": "BGaDCsqiMn0",
+    "title": "Andrew Garfield Wants to Crack Open Your Heart",
+    "meta": [
+     "131K",
+     "2y ago"
+    ],
+    "dur": "49:42",
+    "views_tab": 131000
+   },
+   {
+    "id": "Hjkz6IxST6Q",
+    "title": "How Flock Cameras Took Over America",
+    "meta": [
+     "131K",
+     "1mo ago"
+    ],
+    "dur": "29:27",
+    "views_tab": 131000
+   },
+   {
+    "id": "rRdAad_Zc3Q",
+    "title": "Canada Confronts India Over Alleged Assassination",
+    "meta": [
+     "129K",
+     "3y ago"
+    ],
+    "dur": "26:40",
+    "views_tab": 129000
+   },
+   {
+    "id": "TVTDSmX8SA0",
+    "title": "Andr\u00e9 3000 Performs Surprise Concert in The NY Times Newsroom",
+    "meta": [
+     "128K",
+     "1y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 128000
+   },
+   {
+    "id": "BIZ_rfthXpc",
+    "title": "Was I Married To A Stranger?",
+    "meta": [
+     "128K",
+     "9mo ago"
+    ],
+    "dur": "55:11",
+    "views_tab": 128000
+   },
+   {
+    "id": "ehpo1-3tGAA",
+    "title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
+    "meta": [
+     "122K",
+     "2mo ago"
+    ],
+    "dur": "30:26",
+    "views_tab": 122000
+   },
+   {
+    "id": "eAy5xBak_Rw",
+    "title": "The Origins of Jeffrey Epstein",
+    "meta": [
+     "122K",
+     "10mo ago"
+    ],
+    "dur": "29:39",
+    "views_tab": 122000
+   },
+   {
+    "id": "7uYyXVrCpdw",
+    "title": "Why Gas Prices Just Keep Going Up",
+    "meta": [
+     "121K",
+     "1mo ago"
+    ],
+    "dur": "23:53",
+    "views_tab": 121000
+   },
+   {
+    "id": "Vc6PZ1rCe_s",
+    "title": "Elbows Up: Canada\u2019s Response to Trump\u2019s Trade War",
+    "meta": [
+     "120K",
+     "1y ago"
+    ],
+    "dur": "27:02",
+    "views_tab": 120000
+   },
+   {
+    "id": "QTX2Gz5Fq_w",
+    "title": "What Went Wrong on the U.S.S. Lincoln?",
+    "meta": [
+     "116K",
+     "2mo ago"
+    ],
+    "dur": "28:35",
+    "views_tab": 116000
+   },
+   {
+    "id": "DttxfyGBwj0",
+    "title": "\u2018A Breaking Point\u2019: The Minneapolis Police Chief on ICE",
+    "meta": [
+     "115K",
+     "9mo ago"
+    ],
+    "dur": "34:34",
+    "views_tab": 115000
+   },
+   {
+    "id": "XtegIwAIlzs",
+    "title": "How Trump Fared in a Major New Poll",
+    "meta": [
+     "114K",
+     "1y ago"
+    ],
+    "dur": "29:05",
+    "views_tab": 114000
+   },
+   {
+    "id": "sODN9H3pgdU",
+    "title": "The Assassination of Charlie Kirk",
+    "meta": [
+     "112K",
+     "1y ago"
+    ],
+    "dur": "37:05",
+    "views_tab": 112000
+   },
+   {
+    "id": "djE7MDOyFLs",
+    "title": "How China Made Itself Tariff-Proof",
+    "meta": [
+     "107K",
+     "7mo ago"
+    ],
+    "dur": "31:37",
+    "views_tab": 107000
+   },
+   {
+    "id": "8AizqSRudj4",
+    "title": "Trump Goes After Venezuela\u2019s Oil",
+    "meta": [
+     "107K",
+     "10mo ago"
+    ],
+    "dur": "27:08",
+    "views_tab": 107000
+   },
+   {
+    "id": "IeToZ157OIs",
+    "title": "Swing State Voters Are Souring on Biden",
+    "meta": [
+     "106K",
+     "2y ago"
+    ],
+    "dur": "29:38",
+    "views_tab": 106000
+   },
+   {
+    "id": "Imn5qjrOh6w",
+    "title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
+    "meta": [
+     "106K",
+     "1mo ago"
+    ],
+    "dur": "36:47",
+    "views_tab": 106000
+   },
+   {
+    "id": "TueVfNvyeTE",
+    "title": "Why the Stock Market Just Keeps Going Up",
+    "meta": [
+     "104K",
+     "1y ago"
+    ],
+    "dur": "31:00",
+    "views_tab": 104000
+   },
+   {
+    "id": "76RTtKOapoY",
+    "title": "Is This Economy as Awful as Voters Think? We Ask Our Expert.",
+    "meta": [
+     "103K",
+     "4d ago"
+    ],
+    "dur": "32:30",
+    "views_tab": 103000
+   },
+   {
+    "id": "owKy9QrEWZA",
+    "title": "Trump\u2019s D.O.J. Went After the Fed. It Backfired.",
+    "meta": [
+     "103K",
+     "9mo ago"
+    ],
+    "dur": "28:16",
+    "views_tab": 103000
+   },
+   {
+    "id": "3F8o-RfS_T4",
+    "title": "Donald Trump\u2019s America",
+    "meta": [
+     "103K",
+     "1y ago"
+    ],
+    "dur": "30:58",
+    "views_tab": 103000
+   },
+   {
+    "id": "1-MKHRXLCkg",
+    "title": "The Navy\u2019s Supply Chain Struggle, and Trump\u2019s Unusual Oil Deal in Venezuela",
+    "meta": [
+     "102K",
+     "1mo ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 102000
+   },
+   {
+    "id": "7uinpFStVvU",
+    "title": "Major Nuclear Arms Treaty Expires, and Federal Prosecutor in Minnesota Says \u2018This Job Sucks\u2019",
+    "meta": [
+     "99K",
+     "8mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 99000
+   },
+   {
+    "id": "SMSjKw8Po2Q",
+    "title": "Natalie Harp\u2019s Devotion to Trump",
+    "meta": [
+     "99K",
+     "2mo ago"
+    ],
+    "dur": "22:50",
+    "views_tab": 99000
+   },
+   {
+    "id": "xdCl_2Ld6go",
+    "title": "Trump Banned the Media. This Time, the Media Struck Back.",
+    "meta": [
+     "97K",
+     "1mo ago"
+    ],
+    "dur": "27:39",
+    "views_tab": 97000
+   },
+   {
+    "id": "QdTCSt8AsVM",
+    "title": "The Plan to Turn Charlie Kirk's Murder Into a Crackdown on the Left",
+    "meta": [
+     "97K",
+     "1y ago"
+    ],
+    "dur": "34:20",
+    "views_tab": 97000
+   },
+   {
+    "id": "0tXmc_cYW9Y",
+    "title": "She Fell in Love With ChatGPT. Like, Actual Love. With Sex.",
+    "meta": [
+     "97K",
+     "1y ago"
+    ],
+    "dur": "32:29",
+    "views_tab": 97000
+   },
+   {
+    "id": "k-_bykJa0Fc",
+    "title": "Why Trump Just Gave China the Keys to A.I.\u2019s Future",
+    "meta": [
+     "96K",
+     "1y ago"
+    ],
+    "dur": "31:05",
+    "views_tab": 96000
+   },
+   {
+    "id": "rRvr4y5BvGc",
+    "title": "Have We Been Thinking About A.D.H.D. All Wrong?",
+    "meta": [
+     "91K",
+     "1y ago"
+    ],
+    "dur": "36:08",
+    "views_tab": 91000
+   },
+   {
+    "id": "t0-QzvsGmbg",
+    "title": "The Most Closely Watched Trump Firing in Washington",
+    "meta": [
+     "90K",
+     "1y ago"
+    ],
+    "dur": "29:22",
+    "views_tab": 90000
+   },
+   {
+    "id": "eZ7UudCmbao",
+    "title": "An Interview With the President",
+    "meta": [
+     "90K",
+     "9mo ago"
+    ],
+    "dur": "50:34",
+    "views_tab": 90000
+   },
+   {
+    "id": "n3ygrKM1Zgg",
+    "title": "Trump\u2019s Top Aides Spread the Epstein Conspiracy. Now They Are Trying to Kill It.",
+    "meta": [
+     "88K",
+     "1y ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 88000
+   },
+   {
+    "id": "15KRqz5_ilM",
+    "title": "Trump\u2019s Major Retreat on Greenland, and Why Texas Hit Pause on New Data Centers",
+    "meta": [
+     "88K",
+     "1mo ago"
+    ],
+    "dur": "9:27",
+    "views_tab": 88000
+   },
+   {
+    "id": "6ZtMyUNwC1g",
+    "title": "Inside Jeffrey Epstein\u2019s 50th Birthday Book",
+    "meta": [
+     "88K",
+     "1y ago"
+    ],
+    "dur": "24:57",
+    "views_tab": 88000
+   },
+   {
+    "id": "gRVI2wpl_48",
+    "title": "The Doping Scandal Rocking the Upcoming Olympics",
+    "meta": [
+     "87K",
+     "2y ago"
+    ],
+    "dur": "26:50",
+    "views_tab": 87000
+   },
+   {
+    "id": "uTLKFojoYAA",
+    "title": "Gavin Newsom on the LA Protests, Trump\u2019s Response and Why It\u2019s a Defining Moment for Democracy",
+    "meta": [
+     "87K",
+     "1y ago"
+    ],
+    "dur": "35:57",
+    "views_tab": 87000
+   },
+   {
+    "id": "PjKj7o0xyaY",
+    "title": "Inside the Three Worst Weeks of Trump\u2019s Campaign",
+    "meta": [
+     "86K",
+     "2y ago"
+    ],
+    "dur": "30:52",
+    "views_tab": 86000
+   },
+   {
+    "id": "cnfFE09sDX8",
+    "title": "Who Moves Up, and Who's Pushed Out, in Pete Hegseth's Military",
+    "meta": [
+     "86K",
+     "2mo ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 86000
+   },
+   {
+    "id": "y6Gxtx0jixk",
+    "title": "Trump vs. the Pope",
+    "meta": [
+     "86K",
+     "6mo ago"
+    ],
+    "dur": "34:41",
+    "views_tab": 86000
+   },
+   {
+    "id": "6yqj_6h_miI",
+    "title": "Deception and Dependency: Inside the Latest Epstein Files",
+    "meta": [
+     "86K",
+     "8mo ago"
+    ],
+    "dur": "40:31",
+    "views_tab": 86000
+   },
+   {
+    "id": "gd2wAK9xKLg",
+    "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+    "meta": [
+     "86K",
+     "5d ago"
+    ],
+    "dur": "35:43",
+    "views_tab": 86000
+   },
+   {
+    "id": "CfXoKJBpZAQ",
+    "title": "The Cracking of the Trump Coalition",
+    "meta": [
+     "85K",
+     "10mo ago"
+    ],
+    "dur": "41:43",
+    "views_tab": 85000
+   },
+   {
+    "id": "G3CL4l3AUhE",
+    "title": "How China Hacked America\u2019s Phone Network",
+    "meta": [
+     "85K",
+     "1y ago"
+    ],
+    "dur": "32:32",
+    "views_tab": 85000
+   },
+   {
+    "id": "oJxIYlfvVsY",
+    "title": "A Historic Settlement Over Social Media Addiction",
+    "meta": [
+     "85K",
+     "1mo ago"
+    ],
+    "dur": "28:10",
+    "views_tab": 85000
+   },
+   {
+    "id": "ROf1W9DRcK8",
+    "title": "Don\u2019t Be Fooled, \u2018Trump Is a Weak President\u2019",
+    "meta": [
+     "84K",
+     "1y ago"
+    ],
+    "dur": "45:12",
+    "views_tab": 84000
+   },
+   {
+    "id": "7Z1_xhlE-Rw",
+    "title": "The Parents Aren\u2019t All Right",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "30:08",
+    "views_tab": 84000
+   },
+   {
+    "id": "-B0qHCWvgjc",
+    "title": "The Fallout From Zelensky and Trump\u2019s Oval Office Meltdown",
+    "meta": [
+     "82K",
+     "1y ago"
+    ],
+    "dur": "34:27",
+    "views_tab": 82000
+   },
+   {
+    "id": "EfBq5v7biS0",
+    "title": "Will Biden Withdraw?",
+    "meta": [
+     "80K",
+     "2y ago"
+    ],
+    "dur": "32:10",
+    "views_tab": 80000
+   },
+   {
+    "id": "ev6AKAtKMuc",
+    "title": "Americans to Trump: You\u2019ve Gone Too Far",
+    "meta": [
+     "80K",
+     "1y ago"
+    ],
+    "dur": "29:54",
+    "views_tab": 80000
+   },
+   {
+    "id": "odgaUW97PuY",
+    "title": "Trump vs. Harris on the Economy",
+    "meta": [
+     "80K",
+     "2y ago"
+    ],
+    "dur": "35:53",
+    "views_tab": 80000
+   },
+   {
+    "id": "KJyQNwVj-_4",
+    "title": "The Workers Letting A.I. Do Their Jobs",
+    "meta": [
+     "80K",
+     "6mo ago"
+    ],
+    "dur": "36:31",
+    "views_tab": 80000
+   },
+   {
+    "id": "oEPqrCdwi9o",
+    "title": "Is There an A.I. Bubble? And What if It Pops?",
+    "meta": [
+     "80K",
+     "11mo ago"
+    ],
+    "dur": "25:02",
+    "views_tab": 80000
+   },
+   {
+    "id": "tCXwjO7yBxk",
+    "title": "Why Boys and Men Are Floundering, According to Relationship Therapist Terry Real",
+    "meta": [
+     "79K",
+     "1y ago"
+    ],
+    "dur": "37:16",
+    "views_tab": 79000
+   },
+   {
+    "id": "zZD-cGFIls8",
+    "title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
+    "meta": [
+     "79K",
+     "1mo ago"
+    ],
+    "dur": "38:44",
+    "views_tab": 79000
+   },
+   {
+    "id": "HHsJRddkWNY",
+    "title": "The Stunning Rise of the Democratic Socialists of America",
+    "meta": [
+     "79K",
+     "1mo ago"
+    ],
+    "dur": "50:07",
+    "views_tab": 79000
+   },
+   {
+    "id": "5mG_1CncoZw",
+    "title": "Israel's Invasion Begins",
+    "meta": [
+     "77K",
+     "2y ago"
+    ],
+    "dur": "23:23",
+    "views_tab": 77000
+   },
+   {
+    "id": "6CxST38amkU",
+    "title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
+    "meta": [
+     "77K",
+     "13d ago"
+    ],
+    "dur": "32:12",
+    "views_tab": 77000
+   },
+   {
+    "id": "ENJ6UmECe1Q",
+    "title": "The Future of Energy Has Arrived \u2014 Just Not in the U.S.",
+    "meta": [
+     "76K",
+     "11mo ago"
+    ],
+    "dur": "35:45",
+    "views_tab": 76000
+   },
+   {
+    "id": "Y7m8USkqSnE",
+    "title": "Why So Many Parents Are Opting Out of Public Schools",
+    "meta": [
+     "76K",
+     "1y ago"
+    ],
+    "dur": "29:36",
+    "views_tab": 76000
+   },
+   {
+    "id": "9hnS42vj2PU",
+    "title": "The Trial Mark Zuckerberg Couldn\u2019t Prevent",
+    "meta": [
+     "76K",
+     "1y ago"
+    ],
+    "dur": "23:41",
+    "views_tab": 76000
+   },
+   {
+    "id": "lcw_PsfMJ3o",
+    "title": "\u2018He Knew\u2019: What Epstein Said About Trump in New Emails",
+    "meta": [
+     "76K",
+     "11mo ago"
+    ],
+    "dur": "28:17",
+    "views_tab": 76000
+   },
+   {
+    "id": "wesNDBz6AMs",
+    "title": "The Election That Will Define Israel\u2019s Future",
+    "meta": [
+     "75K",
+     "3d ago"
+    ],
+    "dur": "33:53",
+    "views_tab": 75000
+   },
+   {
+    "id": "XVz46V_2yrc",
+    "title": "The U.S. Tried to Choke Russia\u2019s Energy Market. Then It Made a Diesel Deal.",
+    "meta": [
+     "75K",
+     "11d ago"
+    ],
+    "dur": "30:52",
+    "views_tab": 75000
+   },
+   {
+    "id": "Q1LFKXs_asw",
+    "title": "Democrats Are Panicking About Biden. How Did They Get Here?",
+    "meta": [
+     "74K",
+     "2y ago"
+    ],
+    "dur": "29:32",
+    "views_tab": 74000
+   },
+   {
+    "id": "xZ-gvaIVXeo",
+    "title": "How Elon Musk Is Infiltrating Washington",
+    "meta": [
+     "74K",
+     "1y ago"
+    ],
+    "dur": "32:31",
+    "views_tab": 74000
+   },
+   {
+    "id": "hlh7j8GeWB8",
+    "title": "The Sprawling Government Effort to Prosecute Barack Obama",
+    "meta": [
+     "74K",
+     "1y ago"
+    ],
+    "dur": "27:32",
+    "views_tab": 74000
+   },
+   {
+    "id": "6B-obc1GlWI",
+    "title": "The Possible Collapse of the U.S. Home Insurance System",
+    "meta": [
+     "74K",
+     "2y ago"
+    ],
+    "dur": "24:21",
+    "views_tab": 74000
+   },
+   {
+    "id": "oWRSYSPp1fk",
+    "title": "Stephen Miller\u2019s Return to Power",
+    "meta": [
+     "73K",
+     "1y ago"
+    ],
+    "dur": "33:03",
+    "views_tab": 73000
+   },
+   {
+    "id": "Jenjc22haP0",
+    "title": "The Fired C.D.C. Director Testifies",
+    "meta": [
+     "73K",
+     "1y ago"
+    ],
+    "dur": "29:12",
+    "views_tab": 73000
+   },
+   {
+    "id": "yyyiHoMCVcY",
+    "title": "The Lingering Questions about the Attempt to Kill Trump",
+    "meta": [
+     "72K",
+     "2y ago"
+    ],
+    "dur": "26:31",
+    "views_tab": 72000
+   },
+   {
+    "id": "PECWcylcxYY",
+    "title": "As the Iran War Escalates, Is the U.S. Hiding Its Toll?",
+    "meta": [
+     "71K",
+     "3mo ago"
+    ],
+    "dur": "26:02",
+    "views_tab": 71000
+   },
+   {
+    "id": "gMdGA8LuFvA",
+    "title": "Marriage and Sex in the Age of Ozempic",
+    "meta": [
+     "70K",
+     "1y ago"
+    ],
+    "dur": "37:18",
+    "views_tab": 70000
+   },
+   {
+    "id": "lAxG8CGP39M",
+    "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
+    "meta": [
+     "70K",
+     "1mo ago"
+    ],
+    "dur": "15:34",
+    "views_tab": 70000
+   },
+   {
+    "id": "AxQVf7Ikaso",
+    "title": "Trapped in a ChatGPT Spiral",
+    "meta": [
+     "69K",
+     "1y ago"
+    ],
+    "dur": "43:57",
+    "views_tab": 69000
+   },
+   {
+    "id": "f0VU9D0pFjQ",
+    "title": "It Sucks to Be 33",
+    "meta": [
+     "69K",
+     "2y ago"
+    ],
+    "dur": "26:28",
+    "views_tab": 69000
+   },
+   {
+    "id": "4UtAbu3gL-M",
+    "title": "What We\u2019ve Learned From 10 Days of War",
+    "meta": [
+     "69K",
+     "7mo ago"
+    ],
+    "dur": "38:55",
+    "views_tab": 69000
+   },
+   {
+    "id": "RNbRiDH_j-o",
+    "title": "Trump\u2019s Lonely War",
+    "meta": [
+     "68K",
+     "6mo ago"
+    ],
+    "dur": "32:00",
+    "views_tab": 68000
+   },
+   {
+    "id": "bd5ABsobEqU",
+    "title": "What A.I. Is Actually Doing to the Economy",
+    "meta": [
+     "68K",
+     "2mo ago"
+    ],
+    "dur": "34:18",
+    "views_tab": 68000
+   },
+   {
+    "id": "InrkAjWg90w",
+    "title": "El Ni\u00f1o Is Back. And Worse Than Ever.",
+    "meta": [
+     "67K",
+     "2mo ago"
+    ],
+    "dur": "23:18",
+    "views_tab": 67000
+   },
+   {
+    "id": "4vl73pL0t4M",
+    "title": "Project 2025 Is Everywhere. Here's What It Means.",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "41:03",
+    "views_tab": 67000
+   },
+   {
+    "id": "LrmmbSwoHvY",
+    "title": "The Biden Problem Democrats Can No Longer Ignore",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "33:07",
+    "views_tab": 67000
+   },
+   {
+    "id": "n7ODfNH-5t4",
+    "title": "A U-Turn on Tariffs",
+    "meta": [
+     "67K",
+     "1y ago"
+    ],
+    "dur": "28:57",
+    "views_tab": 67000
+   },
+   {
+    "id": "7RlaC9ZJNtA",
+    "title": "Unmasking the Creator of Bitcoin",
+    "meta": [
+     "67K",
+     "6mo ago"
+    ],
+    "dur": "53:18",
+    "views_tab": 67000
+   },
+   {
+    "id": "pZWZJnYX_zw",
+    "title": "Trumpism Is Not a Fad",
+    "meta": [
+     "66K",
+     "1y ago"
+    ],
+    "dur": "23:41",
+    "views_tab": 66000
+   },
+   {
+    "id": "Rc9kiXNXNWA",
+    "title": "Luigi Mangione\u2019s High-Risk Legal Strategy",
+    "meta": [
+     "66K",
+     "2mo ago"
+    ],
+    "dur": "24:57",
+    "views_tab": 66000
+   },
+   {
+    "id": "24UV7imfIRk",
+    "title": "The Republican Identity Crisis Over the Iran War",
+    "meta": [
+     "66K",
+     "7mo ago"
+    ],
+    "dur": "29:14",
+    "views_tab": 66000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "qrJaonJt1QU",
+    "title": "Serial S01 - Ep. 1: The Alibi",
+    "meta": [
+     "132K",
+     "1y ago"
+    ],
+    "dur": "52:58",
+    "views_tab": 132000
+   },
+   {
+    "id": "8UhBD-4PEAw",
+    "title": "Serial S01 - Ep. 2: The Breakup",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "35:50",
+    "views_tab": 27000
+   },
+   {
+    "id": "3SoHBO3ZNgA",
+    "title": "Serial S01 - Ep. 3: Leakin Park",
+    "meta": [
+     "29K",
+     "1y ago"
+    ],
+    "dur": "27:07",
+    "views_tab": 29000
+   },
+   {
+    "id": "cYUr1MgV-Ko",
+    "title": "Serial S01 - Ep. 4: Inconsistencies",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "33:15",
+    "views_tab": 26000
+   },
+   {
+    "id": "aEsR_Ho-3ok",
+    "title": "Serial S01 - Ep. 5: Route Talk",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "42:52",
+    "views_tab": 25000
+   },
+   {
+    "id": "olc1VnsXrQA",
+    "title": "Serial S01 - Ep. 6: The Case Against Adnan Syed",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "42:59",
+    "views_tab": 25000
+   },
+   {
+    "id": "Efv88Rb5tR4",
+    "title": "Serial S01 - Ep. 7: The Opposite of the Prosecution",
+    "meta": [
+     "18K",
+     "1y ago"
+    ],
+    "dur": "31:58",
+    "views_tab": 18000
+   },
+   {
+    "id": "QNtsDoALN90",
+    "title": "Serial S01 - Ep. 8: The Deal With Jay",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "42:44",
+    "views_tab": 19000
+   },
+   {
+    "id": "4Hi42uVE_Tc",
+    "title": "Serial S01 - Ep. 9: To Be Suspected",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "44:47",
+    "views_tab": 16000
+   },
+   {
+    "id": "60bENKuLJLA",
+    "title": "Serial S01 - Ep. 10: The Best Defense is a Good Defense",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "52:43",
+    "views_tab": 17000
+   },
+   {
+    "id": "a1QxnSBhSvw",
+    "title": "Serial S01 - Ep. 11: Rumors",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "39:41",
+    "views_tab": 13000
+   },
+   {
+    "id": "JFg3lCbNISg",
+    "title": "Inside The New York Times Book Review: A Rare View of North Korea",
+    "meta": [
+     "171",
+     "2y ago"
+    ],
+    "dur": "46:00",
+    "views_tab": 171
+   },
+   {
+    "id": "43yCYwTadGQ",
+    "title": "Serial S01 - Ep. 12: What We Know",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "54:26",
+    "views_tab": 15000
+   },
+   {
+    "id": "KeEmnddDT7M",
+    "title": "Serial S01 - Update 1: Day 01, Adnan Syed\u2019s Hearing",
+    "meta": [
+     "6.5K",
+     "1y ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 6500
+   },
+   {
+    "id": "zvRWqXWgM6Q",
+    "title": "Serial S01 - Update 2: Day 02, Adnan Syed\u2019s Hearing",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "14:38",
+    "views_tab": 4500
+   },
+   {
+    "id": "b8TgUR9y6O8",
+    "title": "Serial S01 - Update 3: Day 03, Adnan Syed\u2019s Hearing",
+    "meta": [
+     "4.4K",
+     "1y ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 4400
+   },
+   {
+    "id": "7RSicmprv60",
+    "title": "Serial S01 - Ep. 13: Adnan Is Out",
+    "meta": [
+     "9.1K",
+     "1y ago"
+    ],
+    "dur": "16:54",
+    "views_tab": 9100
+   },
+   {
+    "id": "NtxW1kdDrs4",
+    "title": "Inside The New York Times Book Review: Disappearing Religions",
+    "meta": [
+     "63",
+     "2y ago"
+    ],
+    "dur": "42:47",
+    "views_tab": 63
+   },
+   {
+    "id": "T6hMdFh1yyc",
+    "title": "Inside The New York Times Book Review: Patrick Modiano\u2019s \u2018Suspended Sentences\u2019",
+    "meta": [
+     "388",
+     "2y ago"
+    ],
+    "dur": "31:57",
+    "views_tab": 388
+   },
+   {
+    "id": "Pi7HPRr2hSk",
+    "title": "Inside The New York Times Book Review: Charles D\u2019Ambrosio\u2019s \u2018Loitering\u2019",
+    "meta": [
+     "196",
+     "2y ago"
+    ],
+    "dur": "37:20",
+    "views_tab": 196
+   },
+   {
+    "id": "vy34IetiFvI",
+    "title": "Inside The New York Times Book Review: \u2018America\u2019s Bitter Pill\u2019",
+    "meta": [
+     "89",
+     "2y ago"
+    ],
+    "dur": "43:38",
+    "views_tab": 89
+   },
+   {
+    "id": "XjaIutImECQ",
+    "title": "Inside The New York Times Book Review: \u2018Leaving Before the Rains Come\u2019",
+    "meta": [
+     "82",
+     "2y ago"
+    ],
+    "dur": "35:30",
+    "views_tab": 82
+   },
+   {
+    "id": "jryTuJoEszI",
+    "title": "Inside The New York Times Book Review: Jill Leovy\u2019s \u2018Ghettoside\u2019",
+    "meta": [
+     "115",
+     "2y ago"
+    ],
+    "dur": "42:45",
+    "views_tab": 115
+   },
+   {
+    "id": "r490LsrDyCg",
+    "title": "Inside The New York Times Book Review: \u2018Guant\u00e1namo Diary\u2019",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "48:56",
+    "views_tab": 30
+   },
+   {
+    "id": "PhQdnxC38m0",
+    "title": "Inside The New York Times Book Review: \u2018Love and Lies\u2019",
+    "meta": [
+     "83",
+     "2y ago"
+    ],
+    "dur": "36:22",
+    "views_tab": 83
+   },
+   {
+    "id": "cZQtTrPA97w",
+    "title": "Inside The New York Times Book Review: The War on Drugs",
+    "meta": [
+     "34",
+     "2y ago"
+    ],
+    "dur": "38:42",
+    "views_tab": 34
+   },
+   {
+    "id": "kdTXs6LYnAw",
+    "title": "Inside The New York Times Book Review: \u2018H Is for Hawk\u2019",
+    "meta": [
+     "225",
+     "2y ago"
+    ],
+    "dur": "27:23",
+    "views_tab": 225
+   },
+   {
+    "id": "XYXq_XZmV8Y",
+    "title": "Inside The New York Times Book Review: Elliot Ackerman\u2019s \u2018Green on Blue\u2019",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "38:50",
+    "views_tab": 26
+   },
+   {
+    "id": "bRr0z7xiaW4",
+    "title": "Inside The New York Times Book Review: Erik Larson\u2019s \u2018Dead Wake\u2019",
+    "meta": [
+     "318",
+     "2y ago"
+    ],
+    "dur": "45:38",
+    "views_tab": 318
+   },
+   {
+    "id": "zdr30dL9jx0",
+    "title": "Inside The New York Times Book Review: \u2018The Last Flight of Poxl West\u2019",
+    "meta": [
+     "20",
+     "2y ago"
+    ],
+    "dur": "37:08",
+    "views_tab": 20
+   },
+   {
+    "id": "N-eW_BFPyaA",
+    "title": "Inside The New York Times Book Review: \u2018The Opposite of Spoiled\u2019",
+    "meta": [
+     "42",
+     "2y ago"
+    ],
+    "dur": "38:50",
+    "views_tab": 42
+   },
+   {
+    "id": "1bVnMR54TQA",
+    "title": "Inside The New York Times Book Review: \u2018The Folded Clock\u2019",
+    "meta": [
+     "21",
+     "2y ago"
+    ],
+    "dur": "44:14",
+    "views_tab": 21
+   },
+   {
+    "id": "heXG8voNQXA",
+    "title": "Inside The New York Times Book Review: \u2018The Folded Clock\u2019",
+    "meta": [
+     "18",
+     "2y ago"
+    ],
+    "dur": "44:14",
+    "views_tab": 18
+   },
+   {
+    "id": "T0Z0GHNKhQE",
+    "title": "Inside The New York Times Book Review: \u2018Becoming Steve Jobs\u2019",
+    "meta": [
+     "31",
+     "2y ago"
+    ],
+    "dur": "40:08",
+    "views_tab": 31
+   },
+   {
+    "id": "T4okhopKYqE",
+    "title": "Inside The New York Times Book Review: \u2018Becoming Steve Jobs\u2019",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "40:08",
+    "views_tab": 36
+   },
+   {
+    "id": "sJ0GxHOtKqI",
+    "title": "Inside The New York Times Book Review: \u2018The Brothers,\u2019 About the Boston Marathon Bombers",
+    "meta": [
+     "62",
+     "2y ago"
+    ],
+    "dur": "44:56",
+    "views_tab": 62
+   },
+   {
+    "id": "jCvB3wExi2Y",
+    "title": "Inside The New York Times Book Review: \u2018Spinster\u2019 and Public Shaming",
+    "meta": [
+     "45",
+     "2y ago"
+    ],
+    "dur": "41:28",
+    "views_tab": 45
+   },
+   {
+    "id": "uKZgy3PUuPw",
+    "title": "Inside The New York Times Book Review: Mass Murder in Norway",
+    "meta": [
+     "33",
+     "2y ago"
+    ],
+    "dur": "37:48",
+    "views_tab": 33
+   },
+   {
+    "id": "WLfCMINmpaU",
+    "title": "Inside The New York Times Book Review: \u2018The Life of Saul Bellow\u2019",
+    "meta": [
+     "583",
+     "2y ago"
+    ],
+    "dur": "46:43",
+    "views_tab": 583
+   },
+   {
+    "id": "uJSrTtlER2g",
+    "title": "Inside The New York Times Book Review: \u2018A God in Ruins\u2019",
+    "meta": [
+     "327",
+     "2y ago"
+    ],
+    "dur": "28:56",
+    "views_tab": 327
+   },
+   {
+    "id": "08vqEew7jUg",
+    "title": "Inside The New York Times Book Review: The Future of Work",
+    "meta": [
+     "27",
+     "2y ago"
+    ],
+    "dur": "34:17",
+    "views_tab": 27
+   },
+   {
+    "id": "jCRYXdn2X9U",
+    "title": "Matthew Weiner On the End of \u2018Mad Men\u2019",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "34:41",
+    "views_tab": 2900
+   },
+   {
+    "id": "upO85nFpnCU",
+    "title": "Inside The New York Times Book Review: Shakespeare in Love",
+    "meta": [
+     "27",
+     "2y ago"
+    ],
+    "dur": "36:05",
+    "views_tab": 27
+   },
+   {
+    "id": "FBbaUyfCPO4",
+    "title": "Inside The New York Times Book Review: Judy Blume\u2019s \u2018In the Unlikely Event\u2019",
+    "meta": [
+     "115",
+     "2y ago"
+    ],
+    "dur": "45:12",
+    "views_tab": 115
+   },
+   {
+    "id": "zdKmQ8QKlIs",
+    "title": "Inside The New York Times Book Review: \u201cReagan: The Life\u201d",
+    "meta": [
+     "101",
+     "2y ago"
+    ],
+    "dur": "36:20",
+    "views_tab": 101
+   },
+   {
+    "id": "2OMSMlqfGVs",
+    "title": "Inside The New York Times Book Review: \u2018Stalin\u2019s Daughter\u2019",
+    "meta": [
+     "73",
+     "2y ago"
+    ],
+    "dur": "43:51",
+    "views_tab": 73
+   },
+   {
+    "id": "w_tcYJ3oyX0",
+    "title": "Inside The New York Times Book Review: When I Grow Up",
+    "meta": [
+     "25",
+     "2y ago"
+    ],
+    "dur": "39:48",
+    "views_tab": 25
+   },
+   {
+    "id": "RH6E8nRn0UU",
+    "title": "Inside The New York Times Book Review: The Art Issue",
+    "meta": [
+     "53",
+     "2y ago"
+    ],
+    "dur": "39:58",
+    "views_tab": 53
+   },
+   {
+    "id": "7arPj_0FvPQ",
+    "title": "Inside The New York Times Book Review: \u2018Skyfaring\u2019",
+    "meta": [
+     "59",
+     "2y ago"
+    ],
+    "dur": "36:53",
+    "views_tab": 59
+   },
+   {
+    "id": "VC2n_rZt9cs",
+    "title": "Inside The New York Times Book Review: \u2018Skyfaring\u2019",
+    "meta": [
+     "48",
+     "2y ago"
+    ],
+    "dur": "36:53",
+    "views_tab": 48
+   },
+   {
+    "id": "65y4HvPkquY",
+    "title": "Inside The New York Times Book Review: Michael B. Oren\u2019s \u2018Ally\u2019",
+    "meta": [
+     "65",
+     "2y ago"
+    ],
+    "dur": "34:24",
+    "views_tab": 65
+   },
+   {
+    "id": "m_ycLFg2278",
+    "title": "Inside The New York Times Book Review: \u2018Barbarian Days\u2019",
+    "meta": [
+     "101",
+     "2y ago"
+    ],
+    "dur": "41:04",
+    "views_tab": 101
+   },
+   {
+    "id": "hVN-4yNdzWA",
+    "title": "Inside The New York Times Book Review: \u2018What Pet Should I Get?\u2019",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "27:34",
+    "views_tab": 26
+   },
+   {
+    "id": "ywTQTBgfK5w",
+    "title": "Inside The New York Times Book Review: \u2018The Conservative Heart\u2019",
+    "meta": [
+     "40",
+     "2y ago"
+    ],
+    "dur": "35:58",
+    "views_tab": 40
+   },
+   {
+    "id": "Bcwnz2sqBSc",
+    "title": "Inside The New York Times Book Review: \u2018Katrina: After the Flood\u2019",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "37:56",
+    "views_tab": 26
+   },
+   {
+    "id": "F9oDMtKKwOo",
+    "title": "Inside The New York Times Book Review: Vu Tran\u2019s \u2018Dragonfish\u2019",
+    "meta": [
+     "34",
+     "2y ago"
+    ],
+    "dur": "35:34",
+    "views_tab": 34
+   },
+   {
+    "id": "_-lBNSjyBM0",
+    "title": "Inside The New York Times Book Review: \u2018NeuroTribes\u2019",
+    "meta": [
+     "333",
+     "2y ago"
+    ],
+    "dur": "52:14",
+    "views_tab": 333
+   },
+   {
+    "id": "qIQaWAty9vg",
+    "title": "Inside The New York Times Book Review: \u2018Give Us the Ballot\u2019",
+    "meta": [
+     "12",
+     "2y ago"
+    ],
+    "dur": "27:46",
+    "views_tab": 12
+   },
+   {
+    "id": "rLiP8KfaMio",
+    "title": "Inside The New York Times Book Review: \u2018Give Us the Ballot\u2019",
+    "meta": [
+     "15",
+     "2y ago"
+    ],
+    "dur": "27:45",
+    "views_tab": 15
+   },
+   {
+    "id": "2zicIukUKYU",
+    "title": "Inside The New York Times Book Review: Bill Clegg\u2019s Debut Novel",
+    "meta": [
+     "181",
+     "2y ago"
+    ],
+    "dur": "35:42",
+    "views_tab": 181
+   },
+   {
+    "id": "raZDHKd5OV4",
+    "title": "Inside The New York Times Book Review: \u2018Fates and Furies\u2019",
+    "meta": [
+     "382",
+     "2y ago"
+    ],
+    "dur": "41:26",
+    "views_tab": 382
+   },
+   {
+    "id": "QQLjb_ZA4o8",
+    "title": "Inside The New York Times Book Review: \u2018The Court and the World\u2019",
+    "meta": [
+     "15",
+     "2y ago"
+    ],
+    "dur": "51:09",
+    "views_tab": 15
+   },
+   {
+    "id": "S-j2OkuC9v4",
+    "title": "Inside The New York Times Book Review: \u2018Black Silent Majority\u2019",
+    "meta": [
+     "71",
+     "2y ago"
+    ],
+    "dur": "40:19",
+    "views_tab": 71
+   },
+   {
+    "id": "0lXUdPDJ3Tg",
+    "title": "Inside The New York Times Book Review: Niall Ferguson\u2019s \u2018Kissinger\u2019",
+    "meta": [
+     "221",
+     "2y ago"
+    ],
+    "dur": "37:14",
+    "views_tab": 221
+   },
+   {
+    "id": "YZrX_w8DE0o",
+    "title": "Inside The New York Times Book Review: \u2018Rosemary: The Hidden Kennedy Daughter\u2019",
+    "meta": [
+     "153",
+     "2y ago"
+    ],
+    "dur": "45:08",
+    "views_tab": 153
+   },
+   {
+    "id": "F9BiIXmisak",
+    "title": "Inside The New York Times Book Review: Richard McGuire\u2019s \u2018Here\u2019",
+    "meta": [
+     "600",
+     "2y ago"
+    ],
+    "dur": "33:22",
+    "views_tab": 600
+   },
+   {
+    "id": "EZynFX7h7Gk",
+    "title": "Inside The New York Times Book Review: \u2018Doomed to Succeed\u201d",
+    "meta": [
+     "29",
+     "2y ago"
+    ],
+    "dur": "30:18",
+    "views_tab": 29
+   },
+   {
+    "id": "TCeobzCJ6Ng",
+    "title": "Inside The New York Times Book Review: \u2018Doomed to Succeed\u201d",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "30:18",
+    "views_tab": 36
+   },
+   {
+    "id": "jLl5VKvKLu0",
+    "title": "Inside The New York Times Book Review: Michael Connelly\u2019s \u2018The Crossing\u2019",
+    "meta": [
+     "102",
+     "2y ago"
+    ],
+    "dur": "41:20",
+    "views_tab": 102
+   },
+   {
+    "id": "VcVGHBd4xJ8",
+    "title": "Inside The New York Times Book Review: Putin\u2019s Reign",
+    "meta": [
+     "25",
+     "2y ago"
+    ],
+    "dur": "50:40",
+    "views_tab": 25
+   },
+   {
+    "id": "X1GufIGXDiM",
+    "title": "Inside The New York Times Book Review: The Life of George H. W. Bush",
+    "meta": [
+     "57",
+     "2y ago"
+    ],
+    "dur": "44:01",
+    "views_tab": 57
+   },
+   {
+    "id": "R7D5Y6g2ibE",
+    "title": "Inside The New York Times Book Review: David Hare\u2019s Memoir",
+    "meta": [
+     "60",
+     "2y ago"
+    ],
+    "dur": "40:43",
+    "views_tab": 60
+   },
+   {
+    "id": "8iR4G7NlMmg",
+    "title": "Inside The New York Times Book Review: \u2018Dark Matter and the Dinosaurs\u2019",
+    "meta": [
+     "44",
+     "2y ago"
+    ],
+    "dur": "40:11",
+    "views_tab": 44
+   },
+   {
+    "id": "WtNiJ7fv2ho",
+    "title": "Inside The New York Times Book Review: The 10 Best Books of 2015",
+    "meta": [
+     "248",
+     "2y ago"
+    ],
+    "dur": "58:49",
+    "views_tab": 248
+   },
+   {
+    "id": "-SPw4hOELCM",
+    "title": "Introducing 'Modern Love: The Podcast'",
+    "meta": [
+     "507",
+     "2y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 507
+   },
+   {
+    "id": "-l6nA9ZCh2o",
+    "title": "Serial S02 - Ep. 1: DUSTWUN",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "43:06",
+    "views_tab": 15000
+   },
+   {
+    "id": "BfFrCD_SWH4",
+    "title": "Inside The New York Times Book Review: Reading \u2018Pride and Prejudice\u2019",
+    "meta": [
+     "233",
+     "2y ago"
+    ],
+    "dur": "49:55",
+    "views_tab": 233
+   },
+   {
+    "id": "tBl92nCCo8c",
+    "title": "Serial S02 - Ep. 2: The Golden Chicken",
+    "meta": [
+     "4.4K",
+     "1y ago"
+    ],
+    "dur": "58:03",
+    "views_tab": 4400
+   },
+   {
+    "id": "djiClB6rTjU",
+    "title": "Inside The New York Times Book Review: From Movement to Mainstream",
+    "meta": [
+     "80",
+     "2y ago"
+    ],
+    "dur": "39:54",
+    "views_tab": 80
+   },
+   {
+    "id": "gtRKbpAmgxw",
+    "title": "Inside The New York Times Book Review: The Year in Poetry",
+    "meta": [
+     "63",
+     "2y ago"
+    ],
+    "dur": "39:23",
+    "views_tab": 63
+   },
+   {
+    "id": "VNHK8B4s5As",
+    "title": "Serial S02 - Ep. 3: Escaping",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "53:08",
+    "views_tab": 4000
+   },
+   {
+    "id": "mGLerkfeaJk",
+    "title": "Inside The New York Times Book Review: You, New and Improved",
+    "meta": [
+     "21",
+     "2y ago"
+    ],
+    "dur": "28:56",
+    "views_tab": 21
+   },
+   {
+    "id": "YNKdpylbbd0",
+    "title": "Serial S02 - Ep. 4: The Captors",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "43:58",
+    "views_tab": 3600
+   },
+   {
+    "id": "mAHOd-T0EyQ",
+    "title": "Inside The New York Times Book Review: \u2018The Defender\u2019",
+    "meta": [
+     "18",
+     "2y ago"
+    ],
+    "dur": "40:39",
+    "views_tab": 18
+   },
+   {
+    "id": "YhEgnHdPHT8",
+    "title": "Inside The New York Times Book Review: \u2018City of Thorns\u2019",
+    "meta": [
+     "25",
+     "2y ago"
+    ],
+    "dur": "35:45",
+    "views_tab": 25
+   },
+   {
+    "id": "WSYm2qru60Q",
+    "title": "Missed Connection | With Lauren Molina",
+    "meta": [
+     "798",
+     "2y ago"
+    ],
+    "dur": "20:45",
+    "views_tab": 798
+   },
+   {
+    "id": "q9vVJJkt0Aw",
+    "title": "One Last Swirl | With Jason Alexander",
+    "meta": [
+     "792",
+     "2y ago"
+    ],
+    "dur": "22:54",
+    "views_tab": 792
+   },
+   {
+    "id": "4CGQqouDSEE",
+    "title": "Serial S02 - Ep. 5: Meanwhile, in Tampa",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "52:18",
+    "views_tab": 3200
+   },
+   {
+    "id": "eFof1S08uL4",
+    "title": "Inside The New York Times Book Review: \u2018Dark Money\u2019",
+    "meta": [
+     "133",
+     "2y ago"
+    ],
+    "dur": "45:00",
+    "views_tab": 133
+   },
+   {
+    "id": "zJ_in2rYdAw",
+    "title": "Not So Simple Math | With Sarah Paulson",
+    "meta": [
+     "839",
+     "2y ago"
+    ],
+    "dur": "23:46",
+    "views_tab": 839
+   },
+   {
+    "id": "5m_U-9wOIrU",
+    "title": "Inside The New York Times Book Review: Bill Bryson on Britain",
+    "meta": [
+     "502",
+     "2y ago"
+    ],
+    "dur": "43:55",
+    "views_tab": 502
+   },
+   {
+    "id": "ttMpXAMTfHc",
+    "title": "'An Interlude Of Clarity' | With Judd Apatow",
+    "meta": [
+     "526",
+     "2y ago"
+    ],
+    "dur": "18:40",
+    "views_tab": 526
+   },
+   {
+    "id": "fUBk4zxQows",
+    "title": "Serial S02 - Ep. 6: 5 O\u2019Clock Shadow",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "58:49",
+    "views_tab": 3200
+   },
+   {
+    "id": "l_JR_g0QzoY",
+    "title": "Inside The New York Times Book Review: \u2018Infinite Jest\u2019 at 20",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "47:28",
+    "views_tab": 1000
+   },
+   {
+    "id": "EShCU6ATMSY",
+    "title": "'The Plunge' | With Dakota Fanning",
+    "meta": [
+     "487",
+     "2y ago"
+    ],
+    "dur": "22:27",
+    "views_tab": 487
+   },
+   {
+    "id": "t3MdbZWNheU",
+    "title": "Inside The New York Times Book Review: Love and Death",
+    "meta": [
+     "66",
+     "2y ago"
+    ],
+    "dur": "47:45",
+    "views_tab": 66
+   },
+   {
+    "id": "JnVBX-h_O0U",
+    "title": "A 'Modern Love' Audio Valentine",
+    "meta": [
+     "249",
+     "2y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 249
+   },
+   {
+    "id": "vpOlMCoRyws",
+    "title": "Magically Interrupted | With Michael Shannon",
+    "meta": [
+     "516",
+     "2y ago"
+    ],
+    "dur": "19:48",
+    "views_tab": 516
+   },
+   {
+    "id": "C9ydAlpw2_w",
+    "title": "Can the American Dream Survive?",
+    "meta": [
+     "125",
+     "2y ago"
+    ],
+    "dur": "39:22",
+    "views_tab": 125
+   },
+   {
+    "id": "axeKzr0_mRg",
+    "title": "Inside The New York Times Book Review: \u2018West of Eden\u2019",
+    "meta": [
+     "87",
+     "2y ago"
+    ],
+    "dur": "39:58",
+    "views_tab": 87
+   },
+   {
+    "id": "9-OA6LWXz9c",
+    "title": "Serial S02 - Ep. 8: Hindsight, Part 2",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "35:34",
+    "views_tab": 2600
+   },
+   {
+    "id": "dh5yMfFvkXg",
+    "title": "In Darkness And In Light | With Patina Miller",
+    "meta": [
+     "349",
+     "2y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 349
+   },
+   {
+    "id": "UPDcp8CmLiA",
+    "title": "Inside The New York Times Book Review: \u2018A Mother\u2019s Reckoning\u2019",
+    "meta": [
+     "203",
+     "2y ago"
+    ],
+    "dur": "34:33",
+    "views_tab": 203
+   },
+   {
+    "id": "ze8FfYSph-s",
+    "title": "A Faithful Leap | With Amber Tamblyn",
+    "meta": [
+     "407",
+     "2y ago"
+    ],
+    "dur": "20:35",
+    "views_tab": 407
+   },
+   {
+    "id": "oFPsJ95cEtA",
+    "title": "Serial S02 - Ep. 9: Trade Secrets",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "47:44",
+    "views_tab": 2400
+   },
+   {
+    "id": "NxEOX0Wlgmc",
+    "title": "Inside The New York Times Book Review: \u2018All the Single Ladies\u2019",
+    "meta": [
+     "49",
+     "2y ago"
+    ],
+    "dur": "52:28",
+    "views_tab": 49
+   },
+   {
+    "id": "X-0fp_HP3ww",
+    "title": "Leaps of Faith | Modern Love Bonus Episode",
+    "meta": [
+     "284",
+     "2y ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 284
+   },
+   {
+    "id": "kpgCUL4DgMQ",
+    "title": "Seesawing Libidos | With Stephen Bogardus",
+    "meta": [
+     "319",
+     "2y ago"
+    ],
+    "dur": "16:36",
+    "views_tab": 319
+   },
+   {
+    "id": "JGS0wFdlzIg",
+    "title": "Inside The New York Times Book Review: \u2018The Profiteers\u2019",
+    "meta": [
+     "66",
+     "2y ago"
+    ],
+    "dur": "45:28",
+    "views_tab": 66
+   },
+   {
+    "id": "j2ZuUTVcCvE",
+    "title": "A Millennial's Guide To Kissing | With Emmy Rossum",
+    "meta": [
+     "655",
+     "2y ago"
+    ],
+    "dur": "17:43",
+    "views_tab": 655
+   },
+   {
+    "id": "AC40NVAMJSQ",
+    "title": "Serial S02 - Ep. 10: Thorny Politics",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "50:28",
+    "views_tab": 2100
+   },
+   {
+    "id": "Ohexq-lLEn0",
+    "title": "Inside The New York Times Book Review: American Eugenics",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "41:44",
+    "views_tab": 36
+   },
+   {
+    "id": "FRJUlU2rXo4",
+    "title": "Where It All Started | Modern Love Bonus Episode",
+    "meta": [
+     "472",
+     "2y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 472
+   },
+   {
+    "id": "WgSG_G-GOMA",
+    "title": "Mom/Not Mom/Aunt | With Jesse Tyler Ferguson",
+    "meta": [
+     "240",
+     "2y ago"
+    ],
+    "dur": "20:17",
+    "views_tab": 240
+   },
+   {
+    "id": "jmZRbw5PQwM",
+    "title": "Inside The New York Times Book Review: \u2018Girls and Sex\u2019",
+    "meta": [
+     "171",
+     "2y ago"
+    ],
+    "dur": "32:51",
+    "views_tab": 171
+   },
+   {
+    "id": "eASytwoZaKU",
+    "title": "Broken, Not Bound | With America Ferrera",
+    "meta": [
+     "286",
+     "2y ago"
+    ],
+    "dur": "19:32",
+    "views_tab": 286
+   },
+   {
+    "id": "r_lIHrghOAE",
+    "title": "Serial S02 - Ep. 11: Present for Duty",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "1:03:53",
+    "views_tab": 2400
+   },
+   {
+    "id": "J57OEO64C_A",
+    "title": "Inside The New York Times Book Review: \u2018Spain in Our Hearts\u2019",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "43:29",
+    "views_tab": 43
+   },
+   {
+    "id": "J39w8nm_veM",
+    "title": "Maddy Just Might Work | With Jennifer Finney Boylan",
+    "meta": [
+     "273",
+     "2y ago"
+    ],
+    "dur": "22:07",
+    "views_tab": 273
+   },
+   {
+    "id": "nFmBYQdMWXY",
+    "title": "Inside The New York Times Book Review: The Life of Louisa Adams",
+    "meta": [
+     "24",
+     "2y ago"
+    ],
+    "dur": "34:29",
+    "views_tab": 24
+   }
+  ]
+ }
+}

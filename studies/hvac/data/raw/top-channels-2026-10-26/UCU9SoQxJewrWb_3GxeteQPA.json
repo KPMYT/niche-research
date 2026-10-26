@@ -1,0 +1,3925 @@
+{
+ "key": "UCU9SoQxJewrWb_3GxeteQPA",
+ "channel": "Mr Carlson's Lab",
+ "id": "UCU9SoQxJewrWb_3GxeteQPA",
+ "subs": "547K subscribers",
+ "videos": "333 videos",
+ "pulled": "2026-10-26T08:14:31.131082+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "TZJisMX7b8U",
+    "title": "Why Add A Capacitor Across The Switch? Here's Why - With Examples!",
+    "meta": [
+     "86K",
+     "2d ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 86000
+   },
+   {
+    "id": "kqscKno9AqU",
+    "title": "Why Twist Wire? Is There Any Advantage Or Difference? Let's Find Out!",
+    "meta": [
+     "386K",
+     "9d ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 386000
+   },
+   {
+    "id": "_FrADoCkh0k",
+    "title": "Why Connect A Resistor And Capacitor Across Relay Contacts? Here's Why!",
+    "meta": [
+     "250K",
+     "2w ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 250000
+   },
+   {
+    "id": "Dg-lOEqJGGw",
+    "title": "What Part Failed In This Fluke 6071A? Found And Explained In Detail.",
+    "meta": [
+     "127K",
+     "1mo ago"
+    ],
+    "dur": "38:03",
+    "views_tab": 127000
+   },
+   {
+    "id": "Xexp12ydsJs",
+    "title": "Why Add These Parts To A Lamp Circuit? Explained With Real Examples!",
+    "meta": [
+     "189K",
+     "1mo ago"
+    ],
+    "dur": "15:45",
+    "views_tab": 189000
+   },
+   {
+    "id": "SjOxBg6SJuw",
+    "title": "Why Put Diodes Together In Both Directions? Explained With Examples!",
+    "meta": [
+     "1M",
+     "2mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 1000000
+   },
+   {
+    "id": "owdYYPnLESg",
+    "title": "80 Year Old Radio - Will It Still Work - If Not - What Will It Take?",
+    "meta": [
+     "168K",
+     "2mo ago"
+    ],
+    "dur": "27:03",
+    "views_tab": 168000
+   },
+   {
+    "id": "1K9HphuZY_Y",
+    "title": "Testing Capacitors - Here's How - And The Results!",
+    "meta": [
+     "56K",
+     "2mo ago"
+    ],
+    "dur": "38:38",
+    "views_tab": 56000
+   },
+   {
+    "id": "Pce63hiFxpk",
+    "title": "Are These Tubes Considered - \"Money In The Bank?\"",
+    "meta": [
+     "74K",
+     "3mo ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 74000
+   },
+   {
+    "id": "V4P2SZ9PVTE",
+    "title": "Why Are These Bumblebee Capacitors So Sought After? Let's See!",
+    "meta": [
+     "86K",
+     "3mo ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 86000
+   },
+   {
+    "id": "Wai8MUH5ky4",
+    "title": "What Speaker Wire Should I Use? Here's Your Answer!",
+    "meta": [
+     "166K",
+     "4mo ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 166000
+   },
+   {
+    "id": "s5kU5SeaSQs",
+    "title": "The Best Cable - Wire For Audio? Let's Look Closer!",
+    "meta": [
+     "497K",
+     "4mo ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 497000
+   },
+   {
+    "id": "GYOgq9fwSNE",
+    "title": "More About Mr Carlson's Lab - And Behind The Scenes!",
+    "meta": [
+     "50K",
+     "5mo ago"
+    ],
+    "dur": "22:37",
+    "views_tab": 50000
+   },
+   {
+    "id": "SQqRsSvJWUs",
+    "title": "An Easy Test For Audio Transformers! [Tech Tip]",
+    "meta": [
+     "40K",
+     "5mo ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 40000
+   },
+   {
+    "id": "w7v3-WwVyJc",
+    "title": "1961 DeWald FM Radio Receiver Restoration - See It Work Like New!",
+    "meta": [
+     "40K",
+     "5mo ago"
+    ],
+    "dur": "52:04",
+    "views_tab": 40000
+   },
+   {
+    "id": "bMKWi0ZKtTg",
+    "title": "Rocket Radio Lamp Restoration From 1941 - See it Work!",
+    "meta": [
+     "48K",
+     "6mo ago"
+    ],
+    "dur": "45:15",
+    "views_tab": 48000
+   },
+   {
+    "id": "1cNqdcq3HvU",
+    "title": "Signal One Transceiver Troubleshooting!",
+    "meta": [
+     "30K",
+     "6mo ago"
+    ],
+    "dur": "14:32",
+    "views_tab": 30000
+   },
+   {
+    "id": "9ngZMLhgs6w",
+    "title": "Hear It Work! The Hammarlund SP-600 Restoration Is Complete.",
+    "meta": [
+     "38K",
+     "7mo ago"
+    ],
+    "dur": "41:13",
+    "views_tab": 38000
+   },
+   {
+    "id": "VTbrDU1HRBw",
+    "title": "Restoring A Communications Receiver - Hammarlund SP-600-JX21",
+    "meta": [
+     "38K",
+     "7mo ago"
+    ],
+    "dur": "31:52",
+    "views_tab": 38000
+   },
+   {
+    "id": "shEhQ6CnBRU",
+    "title": "1960s Digital Multimeter Repair, The Hickok DMS 3200!",
+    "meta": [
+     "66K",
+     "7mo ago"
+    ],
+    "dur": "26:50",
+    "views_tab": 66000
+   },
+   {
+    "id": "0AhJdrfzIiw",
+    "title": "Electronic Tech Tips - Troubleshooting Process And Fault Diagnosis Made Easy!",
+    "meta": [
+     "53K",
+     "8mo ago"
+    ],
+    "dur": "31:27",
+    "views_tab": 53000
+   },
+   {
+    "id": "WiLqp_XQP4Q",
+    "title": "What Capacitor Do I Use? Here's How To Choose!",
+    "meta": [
+     "83K",
+     "8mo ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 83000
+   },
+   {
+    "id": "sks0ATTjC8c",
+    "title": "Why Put A Tantalum Capacitor Across The Zener Diode? Here's Why With Real Examples!",
+    "meta": [
+     "116K",
+     "8mo ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 116000
+   },
+   {
+    "id": "Tv12HQoIDo4",
+    "title": "Greatly Extend The Life Of A Soldering Iron Tip - Here's How!",
+    "meta": [
+     "43K",
+     "8mo ago"
+    ],
+    "dur": "13:20",
+    "views_tab": 43000
+   },
+   {
+    "id": "Stxd_YMHF3U",
+    "title": "Electromechanical Marvel - The Stroboconn Listens! See How It Works!",
+    "meta": [
+     "69K",
+     "8mo ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 69000
+   },
+   {
+    "id": "lctzxrv6RJU",
+    "title": "Why Use 4 Diodes - Not 1? Here's Why!",
+    "meta": [
+     "71K",
+     "9mo ago"
+    ],
+    "dur": "13:57",
+    "views_tab": 71000
+   },
+   {
+    "id": "bRi6_-iikvg",
+    "title": "Why Use This Special Capacitor? Why So Important?",
+    "meta": [
+     "238K",
+     "9mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 238000
+   },
+   {
+    "id": "e9XEjOecnMI",
+    "title": "Why Are Crystals Needed? Here's Why With Examples!",
+    "meta": [
+     "79K",
+     "9mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 79000
+   },
+   {
+    "id": "zC3cGyvlObw",
+    "title": "Why Did Power Supplies Shrink? Here's Why And How!",
+    "meta": [
+     "276K",
+     "9mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 276000
+   },
+   {
+    "id": "Sgy9IFecTRA",
+    "title": "Why The Cuts In The Capacitor Plates? Here's Why With Circuit Examples!",
+    "meta": [
+     "289K",
+     "9mo ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 289000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "TZJisMX7b8U",
+    "title": "Why Add A Capacitor Across The Switch? Here's Why - With Examples!",
+    "meta": [
+     "86K",
+     "2d ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 86000
+   },
+   {
+    "id": "kqscKno9AqU",
+    "title": "Why Twist Wire? Is There Any Advantage Or Difference? Let's Find Out!",
+    "meta": [
+     "386K",
+     "9d ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 386000
+   },
+   {
+    "id": "_FrADoCkh0k",
+    "title": "Why Connect A Resistor And Capacitor Across Relay Contacts? Here's Why!",
+    "meta": [
+     "250K",
+     "2w ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 250000
+   },
+   {
+    "id": "Dg-lOEqJGGw",
+    "title": "What Part Failed In This Fluke 6071A? Found And Explained In Detail.",
+    "meta": [
+     "127K",
+     "1mo ago"
+    ],
+    "dur": "38:03",
+    "views_tab": 127000
+   },
+   {
+    "id": "Xexp12ydsJs",
+    "title": "Why Add These Parts To A Lamp Circuit? Explained With Real Examples!",
+    "meta": [
+     "189K",
+     "1mo ago"
+    ],
+    "dur": "15:45",
+    "views_tab": 189000
+   },
+   {
+    "id": "SjOxBg6SJuw",
+    "title": "Why Put Diodes Together In Both Directions? Explained With Examples!",
+    "meta": [
+     "1M",
+     "2mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 1000000
+   },
+   {
+    "id": "owdYYPnLESg",
+    "title": "80 Year Old Radio - Will It Still Work - If Not - What Will It Take?",
+    "meta": [
+     "168K",
+     "2mo ago"
+    ],
+    "dur": "27:03",
+    "views_tab": 168000
+   },
+   {
+    "id": "1K9HphuZY_Y",
+    "title": "Testing Capacitors - Here's How - And The Results!",
+    "meta": [
+     "56K",
+     "2mo ago"
+    ],
+    "dur": "38:38",
+    "views_tab": 56000
+   },
+   {
+    "id": "Pce63hiFxpk",
+    "title": "Are These Tubes Considered - \"Money In The Bank?\"",
+    "meta": [
+     "74K",
+     "3mo ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 74000
+   },
+   {
+    "id": "V4P2SZ9PVTE",
+    "title": "Why Are These Bumblebee Capacitors So Sought After? Let's See!",
+    "meta": [
+     "86K",
+     "3mo ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 86000
+   },
+   {
+    "id": "Wai8MUH5ky4",
+    "title": "What Speaker Wire Should I Use? Here's Your Answer!",
+    "meta": [
+     "166K",
+     "4mo ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 166000
+   },
+   {
+    "id": "s5kU5SeaSQs",
+    "title": "The Best Cable - Wire For Audio? Let's Look Closer!",
+    "meta": [
+     "497K",
+     "4mo ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 497000
+   },
+   {
+    "id": "GYOgq9fwSNE",
+    "title": "More About Mr Carlson's Lab - And Behind The Scenes!",
+    "meta": [
+     "50K",
+     "5mo ago"
+    ],
+    "dur": "22:37",
+    "views_tab": 50000
+   },
+   {
+    "id": "SQqRsSvJWUs",
+    "title": "An Easy Test For Audio Transformers! [Tech Tip]",
+    "meta": [
+     "40K",
+     "5mo ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 40000
+   },
+   {
+    "id": "w7v3-WwVyJc",
+    "title": "1961 DeWald FM Radio Receiver Restoration - See It Work Like New!",
+    "meta": [
+     "40K",
+     "5mo ago"
+    ],
+    "dur": "52:04",
+    "views_tab": 40000
+   },
+   {
+    "id": "bMKWi0ZKtTg",
+    "title": "Rocket Radio Lamp Restoration From 1941 - See it Work!",
+    "meta": [
+     "48K",
+     "6mo ago"
+    ],
+    "dur": "45:15",
+    "views_tab": 48000
+   },
+   {
+    "id": "1cNqdcq3HvU",
+    "title": "Signal One Transceiver Troubleshooting!",
+    "meta": [
+     "30K",
+     "6mo ago"
+    ],
+    "dur": "14:32",
+    "views_tab": 30000
+   },
+   {
+    "id": "9ngZMLhgs6w",
+    "title": "Hear It Work! The Hammarlund SP-600 Restoration Is Complete.",
+    "meta": [
+     "38K",
+     "7mo ago"
+    ],
+    "dur": "41:13",
+    "views_tab": 38000
+   },
+   {
+    "id": "VTbrDU1HRBw",
+    "title": "Restoring A Communications Receiver - Hammarlund SP-600-JX21",
+    "meta": [
+     "38K",
+     "7mo ago"
+    ],
+    "dur": "31:52",
+    "views_tab": 38000
+   },
+   {
+    "id": "shEhQ6CnBRU",
+    "title": "1960s Digital Multimeter Repair, The Hickok DMS 3200!",
+    "meta": [
+     "66K",
+     "7mo ago"
+    ],
+    "dur": "26:50",
+    "views_tab": 66000
+   },
+   {
+    "id": "0AhJdrfzIiw",
+    "title": "Electronic Tech Tips - Troubleshooting Process And Fault Diagnosis Made Easy!",
+    "meta": [
+     "53K",
+     "8mo ago"
+    ],
+    "dur": "31:27",
+    "views_tab": 53000
+   },
+   {
+    "id": "WiLqp_XQP4Q",
+    "title": "What Capacitor Do I Use? Here's How To Choose!",
+    "meta": [
+     "83K",
+     "8mo ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 83000
+   },
+   {
+    "id": "sks0ATTjC8c",
+    "title": "Why Put A Tantalum Capacitor Across The Zener Diode? Here's Why With Real Examples!",
+    "meta": [
+     "116K",
+     "8mo ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 116000
+   },
+   {
+    "id": "Tv12HQoIDo4",
+    "title": "Greatly Extend The Life Of A Soldering Iron Tip - Here's How!",
+    "meta": [
+     "43K",
+     "8mo ago"
+    ],
+    "dur": "13:20",
+    "views_tab": 43000
+   },
+   {
+    "id": "Stxd_YMHF3U",
+    "title": "Electromechanical Marvel - The Stroboconn Listens! See How It Works!",
+    "meta": [
+     "69K",
+     "8mo ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 69000
+   },
+   {
+    "id": "lctzxrv6RJU",
+    "title": "Why Use 4 Diodes - Not 1? Here's Why!",
+    "meta": [
+     "71K",
+     "9mo ago"
+    ],
+    "dur": "13:57",
+    "views_tab": 71000
+   },
+   {
+    "id": "bRi6_-iikvg",
+    "title": "Why Use This Special Capacitor? Why So Important?",
+    "meta": [
+     "238K",
+     "9mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 238000
+   },
+   {
+    "id": "e9XEjOecnMI",
+    "title": "Why Are Crystals Needed? Here's Why With Examples!",
+    "meta": [
+     "79K",
+     "9mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 79000
+   },
+   {
+    "id": "zC3cGyvlObw",
+    "title": "Why Did Power Supplies Shrink? Here's Why And How!",
+    "meta": [
+     "276K",
+     "9mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 276000
+   },
+   {
+    "id": "Sgy9IFecTRA",
+    "title": "Why The Cuts In The Capacitor Plates? Here's Why With Circuit Examples!",
+    "meta": [
+     "289K",
+     "9mo ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 289000
+   },
+   {
+    "id": "fM5mQ2WZhAQ",
+    "title": "WHY Put A Coil Across The Capacitor? Here's Why!",
+    "meta": [
+     "349K",
+     "10mo ago"
+    ],
+    "dur": "12:29",
+    "views_tab": 349000
+   },
+   {
+    "id": "8n16b1NjBJ4",
+    "title": "Don't Be Fooled By These Parts!",
+    "meta": [
+     "96K",
+     "10mo ago"
+    ],
+    "dur": "15:35",
+    "views_tab": 96000
+   },
+   {
+    "id": "WQ8NckdUwFc",
+    "title": "Why This Mark On The Capacitor? Here's Why!",
+    "meta": [
+     "318K",
+     "10mo ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 318000
+   },
+   {
+    "id": "9r6ntkwAadY",
+    "title": "LED Capacitors? See How They Work!",
+    "meta": [
+     "144K",
+     "10mo ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 144000
+   },
+   {
+    "id": "gKWOWx2eNZg",
+    "title": "Why Add This Diode Across A Relay Coil? This Is Why It's Needed!",
+    "meta": [
+     "434K",
+     "11mo ago"
+    ],
+    "dur": "21:18",
+    "views_tab": 434000
+   },
+   {
+    "id": "ASq3epxEjEI",
+    "title": "What Is The Purpose Of The Resistors Across The Capacitors? Here Is The Answer!",
+    "meta": [
+     "151K",
+     "11mo ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 151000
+   },
+   {
+    "id": "MUVLHRaYilU",
+    "title": "Why Put A Capacitor Across The Diode? Here's Why!",
+    "meta": [
+     "1.2M",
+     "11mo ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 1200000
+   },
+   {
+    "id": "1qImYcql4vk",
+    "title": "BIG Stark VT-9 And Hickok 209A VTVM Repair And Alignment!",
+    "meta": [
+     "46K",
+     "11mo ago"
+    ],
+    "dur": "59:31",
+    "views_tab": 46000
+   },
+   {
+    "id": "4HO-ZNdvNa4",
+    "title": "Power Supply Repair Restoration And Modification!",
+    "meta": [
+     "65K",
+     "1y ago"
+    ],
+    "dur": "1:34:13",
+    "views_tab": 65000
+   },
+   {
+    "id": "aF1mD1XM7ZU",
+    "title": "Big Movie Theater Light Dimmer Troubleshooting And Repair!",
+    "meta": [
+     "60K",
+     "1y ago"
+    ],
+    "dur": "28:32",
+    "views_tab": 60000
+   },
+   {
+    "id": "39S7cI2k85I",
+    "title": "Important Electrical Safety Information Regarding Antiques And Collectibles!",
+    "meta": [
+     "96K",
+     "1y ago"
+    ],
+    "dur": "30:50",
+    "views_tab": 96000
+   },
+   {
+    "id": "dlQoWyc3nws",
+    "title": "10 Transistor TRANSETTE Radio Receiver Troubleshooting Adventure!",
+    "meta": [
+     "161K",
+     "1y ago"
+    ],
+    "dur": "42:34",
+    "views_tab": 161000
+   },
+   {
+    "id": "1W5O6y5oCTY",
+    "title": "Revival Of A Northern Electric Baby Champ Radio Receiver!",
+    "meta": [
+     "66K",
+     "1y ago"
+    ],
+    "dur": "35:55",
+    "views_tab": 66000
+   },
+   {
+    "id": "AXs9ZccTJvk",
+    "title": "Power Supply Not Working - Troubleshoot Step By Step - Process Explained In Detail!",
+    "meta": [
+     "106K",
+     "1y ago"
+    ],
+    "dur": "33:14",
+    "views_tab": 106000
+   },
+   {
+    "id": "qVI7CKydXi8",
+    "title": "Unique Barn Find - National Schools Hand Wired Radio From 1955 - Will It Work?",
+    "meta": [
+     "78K",
+     "1y ago"
+    ],
+    "dur": "28:00",
+    "views_tab": 78000
+   },
+   {
+    "id": "gnfnTpwK-kA",
+    "title": "Cool Circuit Inside! TEKTRONIX 180-S1 Teardown With Description - Guess how many TUBES are inside!",
+    "meta": [
+     "54K",
+     "1y ago"
+    ],
+    "dur": "37:09",
+    "views_tab": 54000
+   },
+   {
+    "id": "kNdk5MVzl3E",
+    "title": "Hammarlund SP-600 Receiver Restoration?",
+    "meta": [
+     "35K",
+     "1y ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 35000
+   },
+   {
+    "id": "ovHb5oJAxMY",
+    "title": "KEURIG Doesn't Work - Here's Why!",
+    "meta": [
+     "313K",
+     "1y ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 313000
+   },
+   {
+    "id": "sPuPh3q-AuY",
+    "title": "Mean Hart Battery Charger - See It Work!",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "18:59",
+    "views_tab": 52000
+   },
+   {
+    "id": "bPpugiWdA3A",
+    "title": "More Voices From Inside This Wire - Hear What They Say!",
+    "meta": [
+     "277K",
+     "1y ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 277000
+   },
+   {
+    "id": "WJUOWRTBf0I",
+    "title": "Trapped Voices In This Wire - Let's Listen To Them!",
+    "meta": [
+     "3.4M",
+     "1y ago"
+    ],
+    "dur": "40:03",
+    "views_tab": 3400000
+   },
+   {
+    "id": "WDkRzRhT_Es",
+    "title": "Motorola Radio Restoration And Modification - Full Detailed Procedure With Bluetooth Addition!",
+    "meta": [
+     "216K",
+     "1y ago"
+    ],
+    "dur": "3:20:20",
+    "views_tab": 216000
+   },
+   {
+    "id": "p9pMvDN7kMk",
+    "title": "Complete Restoration And Alignment! The BC-348 Aircraft Radio Receiver Comes To Life!",
+    "meta": [
+     "132K",
+     "1y ago"
+    ],
+    "dur": "2:27:44",
+    "views_tab": 132000
+   },
+   {
+    "id": "7I8hrQjePks",
+    "title": "WW2 Dynamo Flashlight - Doesn't Use Batteries! Let's look Inside.",
+    "meta": [
+     "232K",
+     "1y ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 232000
+   },
+   {
+    "id": "vuQzyODMrO4",
+    "title": "Installing A Bluetooth Circuit Into A Radio Receiver!",
+    "meta": [
+     "90K",
+     "1y ago"
+    ],
+    "dur": "41:49",
+    "views_tab": 90000
+   },
+   {
+    "id": "iE93SG3dWQs",
+    "title": "FM IN 1938! The Clough And Brengle FM Electronic Sweep Alignment Tool Teardown!",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "18:41",
+    "views_tab": 52000
+   },
+   {
+    "id": "hrXBkpiQ2DI",
+    "title": "What Is The Best Tube Tester? Which Tube Tester Should I Buy? Here's A Guide To Help!",
+    "meta": [
+     "78K",
+     "1y ago"
+    ],
+    "dur": "22:08",
+    "views_tab": 78000
+   },
+   {
+    "id": "EKC4zWdWuvw",
+    "title": "Test Your Electronics Smarts - Guess The Electronic Parts!",
+    "meta": [
+     "78K",
+     "1y ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 78000
+   },
+   {
+    "id": "0lGrQ7tq-NE",
+    "title": "Electronic Mystery Machine - What Does It Do?",
+    "meta": [
+     "301K",
+     "1y ago"
+    ],
+    "dur": "28:20",
+    "views_tab": 301000
+   },
+   {
+    "id": "oGYbwjhxpDM",
+    "title": "Electronics And Bread! - Say What? - Channel Projects And News!",
+    "meta": [
+     "52K",
+     "2y ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 52000
+   },
+   {
+    "id": "GS-EDP3Kxl0",
+    "title": "70 Million Candle Power! Super Bright Anti-Submarine Searchlight - See It Light Up!",
+    "meta": [
+     "302K",
+     "2y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 302000
+   },
+   {
+    "id": "PCnIuWT3e_8",
+    "title": "250 Amp Power Supply - Will It Work? Power It Up!",
+    "meta": [
+     "68K",
+     "2y ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 68000
+   },
+   {
+    "id": "fFt56oH6MWM",
+    "title": "Big Power! 14000 Watt 892-R Transmitter Tube - Will It Work? Power It Up!",
+    "meta": [
+     "167K",
+     "2y ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 167000
+   },
+   {
+    "id": "irS-vv16r0M",
+    "title": "93 Year Old Battery Charger, Will It Work? Let's See!",
+    "meta": [
+     "182K",
+     "2y ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 182000
+   },
+   {
+    "id": "f5vQmQ6Wp4U",
+    "title": "Microwave Doesn't Work? These Are The Reasons Why!",
+    "meta": [
+     "383K",
+     "2y ago"
+    ],
+    "dur": "27:06",
+    "views_tab": 383000
+   },
+   {
+    "id": "ZU7ewzAUZYU",
+    "title": "Make A Power Supply, The Entire Process!",
+    "meta": [
+     "109K",
+     "2y ago"
+    ],
+    "dur": "1:20:21",
+    "views_tab": 109000
+   },
+   {
+    "id": "nX87kwSshZ8",
+    "title": "Build A Power Supply - With Junk Box Parts! [The BC-348 Series.]",
+    "meta": [
+     "177K",
+     "2y ago"
+    ],
+    "dur": "1:57:40",
+    "views_tab": 177000
+   },
+   {
+    "id": "Zqe6CBe0iGs",
+    "title": "BC-348-Q Receiver Restoration - Initial Inspection And Power Up!",
+    "meta": [
+     "75K",
+     "2y ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 75000
+   },
+   {
+    "id": "ZS3X2Bat8Dw",
+    "title": "Delco High Performance Radio Receiver! [Repair]",
+    "meta": [
+     "134K",
+     "2y ago"
+    ],
+    "dur": "45:14",
+    "views_tab": 134000
+   },
+   {
+    "id": "MLg8Mu-OepY",
+    "title": "New Solar Fence Post Lights [FAULTY] Right Out Of The Box - Can They Be Fixed?",
+    "meta": [
+     "68K",
+     "2y ago"
+    ],
+    "dur": "37:21",
+    "views_tab": 68000
+   },
+   {
+    "id": "3ADoODcApNE",
+    "title": "How A Turn Signal Flasher Blinker Works - Complete Redesign With Schematic [Tung-Sol P229D]",
+    "meta": [
+     "114K",
+     "2y ago"
+    ],
+    "dur": "1:07:09",
+    "views_tab": 114000
+   },
+   {
+    "id": "mV98cuLwBjw",
+    "title": "Very Sensitive Antenna With Rusty Welding Wire!",
+    "meta": [
+     "74K",
+     "2y ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 74000
+   },
+   {
+    "id": "6B_-WznDq1g",
+    "title": "Panasonic Radar Matic Receiver Teardown With Circuit Description, Troubleshooing, And Resurrection!",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "1:00:15",
+    "views_tab": 84000
+   },
+   {
+    "id": "xY49YWDcKWE",
+    "title": "SONY Receiver Repair Adventure - The TR-6 Gendis!",
+    "meta": [
+     "93K",
+     "2y ago"
+    ],
+    "dur": "43:34",
+    "views_tab": 93000
+   },
+   {
+    "id": "IEplwMsXhAA",
+    "title": "1950s ATR Power Inverter Repair - It's a Mechanical SMPS!",
+    "meta": [
+     "129K",
+     "2y ago"
+    ],
+    "dur": "27:41",
+    "views_tab": 129000
+   },
+   {
+    "id": "J16R9c5NdVA",
+    "title": "27000 Watt Load Complete Build!",
+    "meta": [
+     "92K",
+     "2y ago"
+    ],
+    "dur": "46:01",
+    "views_tab": 92000
+   },
+   {
+    "id": "h86JlDzkADU",
+    "title": "Will It Run? Diesel Generator Adventure!",
+    "meta": [
+     "74K",
+     "2y ago"
+    ],
+    "dur": "9:39",
+    "views_tab": 74000
+   },
+   {
+    "id": "QkK_-kayZEQ",
+    "title": "Where Are The Videos? My Life And Projects Off Camera",
+    "meta": [
+     "126K",
+     "2y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 126000
+   },
+   {
+    "id": "H1CI1OoVcS0",
+    "title": "Restoration Teardown - Was It Done Properly?",
+    "meta": [
+     "120K",
+     "2y ago"
+    ],
+    "dur": "22:00",
+    "views_tab": 120000
+   },
+   {
+    "id": "8RJmEfeoL7E",
+    "title": "LUXMAN Preamplifier Repair - The LUXKIT A3300 Preamp",
+    "meta": [
+     "193K",
+     "2y ago"
+    ],
+    "dur": "52:14",
+    "views_tab": 193000
+   },
+   {
+    "id": "F4TBeelopL8",
+    "title": "Barn Find Adventure - Antique TV - Will It Work?",
+    "meta": [
+     "92K",
+     "2y ago"
+    ],
+    "dur": "23:40",
+    "views_tab": 92000
+   },
+   {
+    "id": "oEg0HlRDhJw",
+    "title": "The Magic Hiding Inside Your Incandescent Holiday Light Strings!",
+    "meta": [
+     "66K",
+     "2y ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 66000
+   },
+   {
+    "id": "JpwcmLl0M68",
+    "title": "1939 Antique Radio Restoration! Westinghouse 785 Receiver.",
+    "meta": [
+     "246K",
+     "2y ago"
+    ],
+    "dur": "1:46:27",
+    "views_tab": 246000
+   },
+   {
+    "id": "6150Y4HURhM",
+    "title": "1940's Radio Transmitter - The ART-13 Restoration Introduction!",
+    "meta": [
+     "55K",
+     "2y ago"
+    ],
+    "dur": "18:14",
+    "views_tab": 55000
+   },
+   {
+    "id": "hK3z49JlyNE",
+    "title": "Special Request - The New GRRS Entry BC-348!",
+    "meta": [
+     "47K",
+     "2y ago"
+    ],
+    "dur": "14:51",
+    "views_tab": 47000
+   },
+   {
+    "id": "L1BuunymLAQ",
+    "title": "Behind The Scenes At The New Mr Carlson's Lab!",
+    "meta": [
+     "58K",
+     "2y ago"
+    ],
+    "dur": "23:32",
+    "views_tab": 58000
+   },
+   {
+    "id": "1EO8Xpfh7S4",
+    "title": "Teardown - WW2 Aircraft Radio Receiver BC- 348 Restoration Series!",
+    "meta": [
+     "62K",
+     "2y ago"
+    ],
+    "dur": "21:38",
+    "views_tab": 62000
+   },
+   {
+    "id": "-BWQZQ3Xj5c",
+    "title": "Restoration Warplane Radio Receiver BC-348",
+    "meta": [
+     "61K",
+     "3y ago"
+    ],
+    "dur": "31:59",
+    "views_tab": 61000
+   },
+   {
+    "id": "T02iAzrL9uI",
+    "title": "Troubleshoot And Repair Electronics - 1950's Radio Receiver!",
+    "meta": [
+     "116K",
+     "3y ago"
+    ],
+    "dur": "41:18",
+    "views_tab": 116000
+   },
+   {
+    "id": "iSZ8BFuPayA",
+    "title": "Weston 981 Type 3 TUBECHECKER Repair, Modification, And Alignment Procedure!",
+    "meta": [
+     "68K",
+     "3y ago"
+    ],
+    "dur": "1:05:51",
+    "views_tab": 68000
+   },
+   {
+    "id": "Hyx6MZZwc8c",
+    "title": "Switch Mode Power Supply Troubleshooting And Repair - Yaesu FT-1000MP",
+    "meta": [
+     "331K",
+     "3y ago"
+    ],
+    "dur": "1:28:06",
+    "views_tab": 331000
+   },
+   {
+    "id": "GDZS1yEVqko",
+    "title": "TEKTRONIX TYPE 503 Electrical Troubleshooting And Repair!",
+    "meta": [
+     "118K",
+     "3y ago"
+    ],
+    "dur": "58:12",
+    "views_tab": 118000
+   },
+   {
+    "id": "YHbnwJ0Ojag",
+    "title": "SCARY Fan Blade Story! More Of Mr Carlson's Past.",
+    "meta": [
+     "56K",
+     "3y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 56000
+   },
+   {
+    "id": "nOYWwIYH3bw",
+    "title": "B&K Dyna-Jet 707 Tube Tester RESTORATION and ALIGNMENT!",
+    "meta": [
+     "111K",
+     "3y ago"
+    ],
+    "dur": "1:12:20",
+    "views_tab": 111000
+   },
+   {
+    "id": "WNes9blcFGk",
+    "title": "ZAP! Mr C's Worst Electric Shock Explained In Detail!",
+    "meta": [
+     "158K",
+     "3y ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 158000
+   },
+   {
+    "id": "JvWBXCQwhBI",
+    "title": "Old 1960's Barn Find Radio Receiver Teardown And Diagnosis!",
+    "meta": [
+     "139K",
+     "3y ago"
+    ],
+    "dur": "37:41",
+    "views_tab": 139000
+   },
+   {
+    "id": "SHub2tGmrT4",
+    "title": "Audio Research Reference 600 Mono Block Amplifier Troubleshooting And Repair!",
+    "meta": [
+     "160K",
+     "3y ago"
+    ],
+    "dur": "47:04",
+    "views_tab": 160000
+   },
+   {
+    "id": "aIhi4F4MM5I",
+    "title": "Finished! Restored 1940's Secret Listening Post Receiver, See And Hear It Operate! The RCA CR-88",
+    "meta": [
+     "187K",
+     "3y ago"
+    ],
+    "dur": "1:13:29",
+    "views_tab": 187000
+   },
+   {
+    "id": "FvH9KS8BN1k",
+    "title": "Fix Computer Speakers!",
+    "meta": [
+     "100K",
+     "3y ago"
+    ],
+    "dur": "35:28",
+    "views_tab": 100000
+   },
+   {
+    "id": "kiaRGA0UjWE",
+    "title": "RCA AR-88 And RCA CR-88 Radio Receiver \"IF\" Alignment Procedure.",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "44:11",
+    "views_tab": 53000
+   },
+   {
+    "id": "SXQ0nV2kqgM",
+    "title": "Restoration Adventure - The RCA CR-88 Radio Receiver Series!",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "40:44",
+    "views_tab": 58000
+   },
+   {
+    "id": "NSs8xicmYNM",
+    "title": "New Upcoming Barn Find Restorations And Repairs!",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 36000
+   },
+   {
+    "id": "od_eq4xZOXc",
+    "title": "1940's Radio Receiver Performance Check - RCA CR-88 With New Mica Capacitors!",
+    "meta": [
+     "55K",
+     "3y ago"
+    ],
+    "dur": "34:53",
+    "views_tab": 55000
+   },
+   {
+    "id": "UaCRqi8lpdo",
+    "title": "Capacitors And Resistors -A Parts Substitution Guide!",
+    "meta": [
+     "121K",
+     "3y ago"
+    ],
+    "dur": "29:04",
+    "views_tab": 121000
+   },
+   {
+    "id": "uiK1BD7HILo",
+    "title": "Find Intermittent Electrical Noise - When Its Not Even There! Here's How.",
+    "meta": [
+     "102K",
+     "3y ago"
+    ],
+    "dur": "28:50",
+    "views_tab": 102000
+   },
+   {
+    "id": "Se4uuYuUJmQ",
+    "title": "Electronic Circuit Troubleshooting! The Fix Made Easy!",
+    "meta": [
+     "88K",
+     "3y ago"
+    ],
+    "dur": "31:14",
+    "views_tab": 88000
+   },
+   {
+    "id": "c4JlwqBM6hA",
+    "title": "Electrical Troubleshooting Adventure! Let's Find The Issue Together!",
+    "meta": [
+     "108K",
+     "3y ago"
+    ],
+    "dur": "46:32",
+    "views_tab": 108000
+   },
+   {
+    "id": "6Ta23aAQRU8",
+    "title": "Receiver Restoration Series! The RCA CR-88.",
+    "meta": [
+     "57K",
+     "3y ago"
+    ],
+    "dur": "33:54",
+    "views_tab": 57000
+   },
+   {
+    "id": "gVVOeMnKhI4",
+    "title": "1950's? Psychiatric Hospital Electrical Device - \"The Evaluator!\"",
+    "meta": [
+     "92K",
+     "3y ago"
+    ],
+    "dur": "11:35",
+    "views_tab": 92000
+   },
+   {
+    "id": "jE4TdY6KWJk",
+    "title": "Barn Find - What Is It - 1940's? Mystery Device Teardown!",
+    "meta": [
+     "482K",
+     "3y ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 482000
+   },
+   {
+    "id": "D0drh4V-cL4",
+    "title": "Capacitors And Electronic Troubleshooting - RCA CR-88 Radio Receiver!",
+    "meta": [
+     "124K",
+     "3y ago"
+    ],
+    "dur": "1:06:25",
+    "views_tab": 124000
+   },
+   {
+    "id": "dIEM2bG8mOQ",
+    "title": "UPS Electrical Failure - Teardown and Analysis!",
+    "meta": [
+     "214K",
+     "3y ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 214000
+   },
+   {
+    "id": "NjYukvZAmkA",
+    "title": "1946 Radio Receiver Teardown - The RCA CR-88!",
+    "meta": [
+     "86K",
+     "3y ago"
+    ],
+    "dur": "31:55",
+    "views_tab": 86000
+   },
+   {
+    "id": "kIB7pEA4eqg",
+    "title": "1946 Secret Listening Post Radio Receiver - Will it Work? Lets Restore it - The RCA CR-88",
+    "meta": [
+     "168K",
+     "3y ago"
+    ],
+    "dur": "27:25",
+    "views_tab": 168000
+   },
+   {
+    "id": "faU_Q8nn63o",
+    "title": "What's This? It's The Next Restoration In The GRR Series!  Q&A - Join In!",
+    "meta": [
+     "46K",
+     "3y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 46000
+   },
+   {
+    "id": "ECpkrlo8XTo",
+    "title": "New Video Series = More Frequent Video's!",
+    "meta": [
+     "37K",
+     "3y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 37000
+   },
+   {
+    "id": "XQVkD5Hzhkg",
+    "title": "Mr Carlson's Lab History - Projects From The Past!",
+    "meta": [
+     "106K",
+     "3y ago"
+    ],
+    "dur": "21:07",
+    "views_tab": 106000
+   },
+   {
+    "id": "Shg7VNoIL_g",
+    "title": "Where Is Mr. Carlson's Lab? What's Going On?",
+    "meta": [
+     "163K",
+     "3y ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 163000
+   },
+   {
+    "id": "e8uBz3u-75U",
+    "title": "Restoration Adventure, 1946 Baby Champ Radio Receiver!",
+    "meta": [
+     "507K",
+     "3y ago"
+    ],
+    "dur": "1:47:34",
+    "views_tab": 507000
+   },
+   {
+    "id": "4AyshHH1yuw",
+    "title": "Dryer Repair: No Heat Running Cold Diagnosis Procedure.",
+    "meta": [
+     "70K",
+     "4y ago"
+    ],
+    "dur": "35:40",
+    "views_tab": 70000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "Omo3XvhsKd0",
+    "title": "Yaesu FT-1000MP Repair and Modification",
+    "meta": [
+     "4.2M",
+     "11y ago"
+    ],
+    "dur": "2:03:19",
+    "views_tab": 4200000
+   },
+   {
+    "id": "WJUOWRTBf0I",
+    "title": "Trapped Voices In This Wire - Let's Listen To Them!",
+    "meta": [
+     "3.4M",
+     "1y ago"
+    ],
+    "dur": "40:03",
+    "views_tab": 3400000
+   },
+   {
+    "id": "OWXbdCz-AiY",
+    "title": "Electronic Restoration Adventure-The Belmont 636 Radio Receiver!",
+    "meta": [
+     "2.2M",
+     "8y ago"
+    ],
+    "dur": "1:59:57",
+    "views_tab": 2200000
+   },
+   {
+    "id": "DzaiZtRoqs8",
+    "title": "1938 Receiver Restoration! DeForest 7D832 Radio.",
+    "meta": [
+     "2.1M",
+     "5y ago"
+    ],
+    "dur": "3:29:09",
+    "views_tab": 2100000
+   },
+   {
+    "id": "AlfJ1dxTuWI",
+    "title": "SONY CRF-320 Receiver Restoration Repair and Modification",
+    "meta": [
+     "1.7M",
+     "10y ago"
+    ],
+    "dur": "2:27:51",
+    "views_tab": 1700000
+   },
+   {
+    "id": "J31nVC0ms0w",
+    "title": "Tube Radio Restoration, Hammarlund HQ-120",
+    "meta": [
+     "1.5M",
+     "11y ago"
+    ],
+    "dur": "2:37:22",
+    "views_tab": 1500000
+   },
+   {
+    "id": "pffOJdCQ7kw",
+    "title": "Power Supply Troubleshooting and Repair Tips",
+    "meta": [
+     "1.5M",
+     "9y ago"
+    ],
+    "dur": "31:26",
+    "views_tab": 1500000
+   },
+   {
+    "id": "X8N9O3a9jiM",
+    "title": "Electrolytic Capacitor Removal NO Desoldering Required",
+    "meta": [
+     "1.4M",
+     "10y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 1400000
+   },
+   {
+    "id": "GB37DyAQazw",
+    "title": "84 Year Old Radio Receiver Restoration! Stromberg-Carlson 145L",
+    "meta": [
+     "1.3M",
+     "5y ago"
+    ],
+    "dur": "2:16:26",
+    "views_tab": 1300000
+   },
+   {
+    "id": "MUVLHRaYilU",
+    "title": "Why Put A Capacitor Across The Diode? Here's Why!",
+    "meta": [
+     "1.2M",
+     "11mo ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 1200000
+   },
+   {
+    "id": "LC7OjuYAOQE",
+    "title": "Electronic Circuitry Diagnosis And Fault Finding! [Repair]",
+    "meta": [
+     "1.1M",
+     "6y ago"
+    ],
+    "dur": "1:14:50",
+    "views_tab": 1100000
+   },
+   {
+    "id": "SjOxBg6SJuw",
+    "title": "Why Put Diodes Together In Both Directions? Explained With Examples!",
+    "meta": [
+     "1M",
+     "2mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 1000000
+   },
+   {
+    "id": "67M7fsbLUIU",
+    "title": "Which Capacitor Do I Use? Tech Tips Tuesday",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "24:04",
+    "views_tab": 1000000
+   },
+   {
+    "id": "oHjZs0bNwEs",
+    "title": "How A Tube Works",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "27:07",
+    "views_tab": 1000000
+   },
+   {
+    "id": "LColZ8MOtd0",
+    "title": "Tube Audio Amplifier Troubleshoot Repair and Modification",
+    "meta": [
+     "978K",
+     "11y ago"
+    ],
+    "dur": "2:05:27",
+    "views_tab": 978000
+   },
+   {
+    "id": "4kT57s0kCAk",
+    "title": "Hammarlund HQ-140-X Repair and Restoration",
+    "meta": [
+     "918K",
+     "9y ago"
+    ],
+    "dur": "2:58:10",
+    "views_tab": 918000
+   },
+   {
+    "id": "BnR_DLd1PDI",
+    "title": "Are Your Capacitors Installed Backwards? Build this and find out",
+    "meta": [
+     "839K",
+     "11y ago"
+    ],
+    "dur": "49:36",
+    "views_tab": 839000
+   },
+   {
+    "id": "NoGl7oeh7eU",
+    "title": "Switch Mode Power Supply Repair, SMPS",
+    "meta": [
+     "784K",
+     "10y ago"
+    ],
+    "dur": "29:45",
+    "views_tab": 784000
+   },
+   {
+    "id": "6P4C9at5rV8",
+    "title": "Two Six Pac's On The Bench",
+    "meta": [
+     "739K",
+     "8y ago"
+    ],
+    "dur": "1:33:26",
+    "views_tab": 739000
+   },
+   {
+    "id": "GD-b5zbYMBI",
+    "title": "75 Year Old Receiver Found In A Barn, Will It Still Work?",
+    "meta": [
+     "651K",
+     "6y ago"
+    ],
+    "dur": "32:15",
+    "views_tab": 651000
+   },
+   {
+    "id": "ZzpVhCL5aPg",
+    "title": "Standing Inside a Broadcast Transmitter While it's ON!",
+    "meta": [
+     "628K",
+     "9y ago"
+    ],
+    "dur": "37:37",
+    "views_tab": 628000
+   },
+   {
+    "id": "ISbidethQyc",
+    "title": "Electronic Restoration Fun- 1947 Rogers \"Chairside\" Radio!",
+    "meta": [
+     "627K",
+     "7y ago"
+    ],
+    "dur": "1:59:47",
+    "views_tab": 627000
+   },
+   {
+    "id": "UxMaEyUxlVM",
+    "title": "Reading Resistor Color Codes Fast, Tech Tips Tuesday",
+    "meta": [
+     "607K",
+     "10y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 607000
+   },
+   {
+    "id": "z8k-h-g_8V8",
+    "title": "Echophone EC-1 Tube Radio Restoration with Alignment Procedure",
+    "meta": [
+     "575K",
+     "11y ago"
+    ],
+    "dur": "2:34:22",
+    "views_tab": 575000
+   },
+   {
+    "id": "lMJr-oUYYDA",
+    "title": "Tesla Coil Wireless Energy and Resonance Demonstration",
+    "meta": [
+     "568K",
+     "10y ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 568000
+   },
+   {
+    "id": "KGcoOETCaEQ",
+    "title": "Transistor Identification and Testing made easy.",
+    "meta": [
+     "543K",
+     "12y ago"
+    ],
+    "dur": "8:29",
+    "views_tab": 543000
+   },
+   {
+    "id": "uGXQc-zanWg",
+    "title": "Electronic Repair Adventure- The Signal Tracer!",
+    "meta": [
+     "533K",
+     "7y ago"
+    ],
+    "dur": "1:53:32",
+    "views_tab": 533000
+   },
+   {
+    "id": "_11CkjXT2nw",
+    "title": "Electronic Repair Adventure- Radio Receiver Troubleshooting!",
+    "meta": [
+     "508K",
+     "6y ago"
+    ],
+    "dur": "1:06:09",
+    "views_tab": 508000
+   },
+   {
+    "id": "e8uBz3u-75U",
+    "title": "Restoration Adventure, 1946 Baby Champ Radio Receiver!",
+    "meta": [
+     "507K",
+     "3y ago"
+    ],
+    "dur": "1:47:34",
+    "views_tab": 507000
+   },
+   {
+    "id": "s5kU5SeaSQs",
+    "title": "The Best Cable - Wire For Audio? Let's Look Closer!",
+    "meta": [
+     "497K",
+     "4mo ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 497000
+   },
+   {
+    "id": "jE4TdY6KWJk",
+    "title": "Barn Find - What Is It - 1940's? Mystery Device Teardown!",
+    "meta": [
+     "482K",
+     "3y ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 482000
+   },
+   {
+    "id": "CyKHVl3xF70",
+    "title": "Fix A Computer Power Supply!",
+    "meta": [
+     "474K",
+     "5y ago"
+    ],
+    "dur": "20:55",
+    "views_tab": 474000
+   },
+   {
+    "id": "qqmegXoB7lA",
+    "title": "Intro to Mr Carlson's Lab",
+    "meta": [
+     "470K",
+     "12y ago"
+    ],
+    "dur": "0:26",
+    "views_tab": 470000
+   },
+   {
+    "id": "HZLQzBOOQbw",
+    "title": "How To Desolder Electronic Parts Using Different Tools.",
+    "meta": [
+     "459K",
+     "8y ago"
+    ],
+    "dur": "40:08",
+    "views_tab": 459000
+   },
+   {
+    "id": "V1aONINVkSE",
+    "title": "Choosing The Right Solder, Tech Tips Tuesday.",
+    "meta": [
+     "458K",
+     "10y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 458000
+   },
+   {
+    "id": "E3Q1IjFuwe0",
+    "title": "Barn Find Restoration Adventure - 1960's Long Range Radio Receiver!",
+    "meta": [
+     "446K",
+     "4y ago"
+    ],
+    "dur": "1:27:23",
+    "views_tab": 446000
+   },
+   {
+    "id": "gKWOWx2eNZg",
+    "title": "Why Add This Diode Across A Relay Coil? This Is Why It's Needed!",
+    "meta": [
+     "434K",
+     "11mo ago"
+    ],
+    "dur": "21:18",
+    "views_tab": 434000
+   },
+   {
+    "id": "uVkJqqZroN0",
+    "title": "Troubleshoot Electronics FAST with a Super Probe",
+    "meta": [
+     "428K",
+     "9y ago"
+    ],
+    "dur": "1:05:27",
+    "views_tab": 428000
+   },
+   {
+    "id": "lR9LxLDbAy4",
+    "title": "1940's Stewart Warner Tube Radio Troubleshooting and Repair",
+    "meta": [
+     "424K",
+     "8y ago"
+    ],
+    "dur": "1:59:43",
+    "views_tab": 424000
+   },
+   {
+    "id": "au2ba5gWLWk",
+    "title": "How to Make Double Sided Circuit Boards at Home",
+    "meta": [
+     "406K",
+     "11y ago"
+    ],
+    "dur": "55:02",
+    "views_tab": 406000
+   },
+   {
+    "id": "HqsXe3IKTCo",
+    "title": "Junk Box Oscilloscope, Can It Be Fixed?",
+    "meta": [
+     "392K",
+     "10y ago"
+    ],
+    "dur": "37:49",
+    "views_tab": 392000
+   },
+   {
+    "id": "Nzutvfbucr0",
+    "title": "Bizarre Looking RCA Radio! [Electrical Restoration]",
+    "meta": [
+     "388K",
+     "6y ago"
+    ],
+    "dur": "1:33:10",
+    "views_tab": 388000
+   },
+   {
+    "id": "kqscKno9AqU",
+    "title": "Why Twist Wire? Is There Any Advantage Or Difference? Let's Find Out!",
+    "meta": [
+     "386K",
+     "9d ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 386000
+   },
+   {
+    "id": "f5vQmQ6Wp4U",
+    "title": "Microwave Doesn't Work? These Are The Reasons Why!",
+    "meta": [
+     "383K",
+     "2y ago"
+    ],
+    "dur": "27:06",
+    "views_tab": 383000
+   },
+   {
+    "id": "74ZynoXL1xA",
+    "title": "B-29 Aircraft Receiver Scrap Parts Unit, Will It Still Work?",
+    "meta": [
+     "369K",
+     "6y ago"
+    ],
+    "dur": "31:35",
+    "views_tab": 369000
+   },
+   {
+    "id": "GR3rR7tc30Y",
+    "title": "VTVM Restoration, Alignment, and why you should own one",
+    "meta": [
+     "354K",
+     "11y ago"
+    ],
+    "dur": "1:42:34",
+    "views_tab": 354000
+   },
+   {
+    "id": "fM5mQ2WZhAQ",
+    "title": "WHY Put A Coil Across The Capacitor? Here's Why!",
+    "meta": [
+     "349K",
+     "10mo ago"
+    ],
+    "dur": "12:29",
+    "views_tab": 349000
+   },
+   {
+    "id": "vzfliznVRkY",
+    "title": "Tiny Radio Restoration With Detailed Procedure!",
+    "meta": [
+     "335K",
+     "5y ago"
+    ],
+    "dur": "46:07",
+    "views_tab": 335000
+   },
+   {
+    "id": "ogHEAs3zFkI",
+    "title": "Testing A Large Tube Used For Heating People With RF!",
+    "meta": [
+     "332K",
+     "9y ago"
+    ],
+    "dur": "20:34",
+    "views_tab": 332000
+   },
+   {
+    "id": "Hyx6MZZwc8c",
+    "title": "Switch Mode Power Supply Troubleshooting And Repair - Yaesu FT-1000MP",
+    "meta": [
+     "331K",
+     "3y ago"
+    ],
+    "dur": "1:28:06",
+    "views_tab": 331000
+   },
+   {
+    "id": "mE7SoZXX1FQ",
+    "title": "Tube Amplifier Repair, and what to look for.",
+    "meta": [
+     "327K",
+     "9y ago"
+    ],
+    "dur": "31:31",
+    "views_tab": 327000
+   },
+   {
+    "id": "E_5cVxeoG7U",
+    "title": "Vacuum Tube Preamp Repair, Harman Kardon Citation 1",
+    "meta": [
+     "326K",
+     "9y ago"
+    ],
+    "dur": "56:44",
+    "views_tab": 326000
+   },
+   {
+    "id": "Tf2vxwm52fU",
+    "title": "How To Solder Properly, With Extra Tips!",
+    "meta": [
+     "325K",
+     "8y ago"
+    ],
+    "dur": "22:29",
+    "views_tab": 325000
+   },
+   {
+    "id": "vrmwql2msbU",
+    "title": "\"GREAT\" Meter! The HP 419A DC Null Voltmeter,  [RESTORATION]",
+    "meta": [
+     "321K",
+     "6y ago"
+    ],
+    "dur": "1:42:09",
+    "views_tab": 321000
+   },
+   {
+    "id": "WQ8NckdUwFc",
+    "title": "Why This Mark On The Capacitor? Here's Why!",
+    "meta": [
+     "318K",
+     "10mo ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 318000
+   },
+   {
+    "id": "ovHb5oJAxMY",
+    "title": "KEURIG Doesn't Work - Here's Why!",
+    "meta": [
+     "313K",
+     "1y ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 313000
+   },
+   {
+    "id": "LhovRIM5xAo",
+    "title": "Invention Release! Carlson LV Capacitor Leakage Tester.",
+    "meta": [
+     "309K",
+     "8y ago"
+    ],
+    "dur": "43:02",
+    "views_tab": 309000
+   },
+   {
+    "id": "79uD6XwBg5E",
+    "title": "Tech Tips Tuesday, Super Hot Soldering Gun",
+    "meta": [
+     "308K",
+     "10y ago"
+    ],
+    "dur": "15:59",
+    "views_tab": 308000
+   },
+   {
+    "id": "7VBVSEevXaY",
+    "title": "Become A Super Electronics Troubleshooter!",
+    "meta": [
+     "306K",
+     "8y ago"
+    ],
+    "dur": "1:06:24",
+    "views_tab": 306000
+   },
+   {
+    "id": "7A_NqNyvaBM",
+    "title": "View my personal electronics lab",
+    "meta": [
+     "304K",
+     "12y ago"
+    ],
+    "dur": "7:37",
+    "views_tab": 304000
+   },
+   {
+    "id": "dXtSTpBXItI",
+    "title": "ASTRON RS-35A Power Supply Repair",
+    "meta": [
+     "304K",
+     "11y ago"
+    ],
+    "dur": "30:21",
+    "views_tab": 304000
+   },
+   {
+    "id": "GS-EDP3Kxl0",
+    "title": "70 Million Candle Power! Super Bright Anti-Submarine Searchlight - See It Light Up!",
+    "meta": [
+     "302K",
+     "2y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 302000
+   },
+   {
+    "id": "ZgxpdcIeNFk",
+    "title": "Your Own Radio Station! The Knight Radio Broadcaster And Amplifier!",
+    "meta": [
+     "301K",
+     "7y ago"
+    ],
+    "dur": "45:52",
+    "views_tab": 301000
+   },
+   {
+    "id": "0lGrQ7tq-NE",
+    "title": "Electronic Mystery Machine - What Does It Do?",
+    "meta": [
+     "301K",
+     "1y ago"
+    ],
+    "dur": "28:20",
+    "views_tab": 301000
+   },
+   {
+    "id": "37lIpTxUQcE",
+    "title": "Fix A Power Supply! Diagnosis Repair And Restoration.",
+    "meta": [
+     "296K",
+     "6y ago"
+    ],
+    "dur": "1:01:22",
+    "views_tab": 296000
+   },
+   {
+    "id": "Sgy9IFecTRA",
+    "title": "Why The Cuts In The Capacitor Plates? Here's Why With Circuit Examples!",
+    "meta": [
+     "289K",
+     "9mo ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 289000
+   },
+   {
+    "id": "0vuhqoRB-y8",
+    "title": "DeForest Crosley Empress or Duchess Electrical Restoration",
+    "meta": [
+     "283K",
+     "11y ago"
+    ],
+    "dur": "2:04:29",
+    "views_tab": 283000
+   },
+   {
+    "id": "bPpugiWdA3A",
+    "title": "More Voices From Inside This Wire - Hear What They Say!",
+    "meta": [
+     "277K",
+     "1y ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 277000
+   },
+   {
+    "id": "zC3cGyvlObw",
+    "title": "Why Did Power Supplies Shrink? Here's Why And How!",
+    "meta": [
+     "276K",
+     "9mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 276000
+   },
+   {
+    "id": "uTReCtMf3fg",
+    "title": "FADA Radio Receiver From 1937 Electronic Restoration! [Repair]",
+    "meta": [
+     "270K",
+     "6y ago"
+    ],
+    "dur": "1:14:28",
+    "views_tab": 270000
+   },
+   {
+    "id": "1Y6mNqMU9z8",
+    "title": "Make A Circuit Board, At Home!",
+    "meta": [
+     "268K",
+     "6y ago"
+    ],
+    "dur": "40:27",
+    "views_tab": 268000
+   },
+   {
+    "id": "TXKfg5Rdi3U",
+    "title": "BEAUTIFUL 1940's Majestic Radio Receiver Restoration!",
+    "meta": [
+     "267K",
+     "7y ago"
+    ],
+    "dur": "1:33:20",
+    "views_tab": 267000
+   },
+   {
+    "id": "aWgdyoJsVnI",
+    "title": "[Restoration]- 1960's Multimeter! Sentinel ME-26D/U",
+    "meta": [
+     "262K",
+     "7y ago"
+    ],
+    "dur": "1:58:34",
+    "views_tab": 262000
+   },
+   {
+    "id": "P3Wh41Mbf9A",
+    "title": "Atomic Era Radio Teardown, Explained With Repair",
+    "meta": [
+     "259K",
+     "9y ago"
+    ],
+    "dur": "1:10:56",
+    "views_tab": 259000
+   },
+   {
+    "id": "BvbNBZX6kNE",
+    "title": "Tektronix type 555 oscilloscope, over 100 tubes inside!",
+    "meta": [
+     "251K",
+     "12y ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 251000
+   },
+   {
+    "id": "ZaOZBmCXjAo",
+    "title": "Neat Electronic Device from 1939 Explained with Restoration",
+    "meta": [
+     "251K",
+     "9y ago"
+    ],
+    "dur": "1:16:33",
+    "views_tab": 251000
+   },
+   {
+    "id": "_FrADoCkh0k",
+    "title": "Why Connect A Resistor And Capacitor Across Relay Contacts? Here's Why!",
+    "meta": [
+     "250K",
+     "2w ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 250000
+   },
+   {
+    "id": "I1gfUNh5PJQ",
+    "title": "\"TDR\" or Time Domain Reflectometer, build and use this circuit.",
+    "meta": [
+     "249K",
+     "12y ago"
+    ],
+    "dur": "20:05",
+    "views_tab": 249000
+   },
+   {
+    "id": "JpwcmLl0M68",
+    "title": "1939 Antique Radio Restoration! Westinghouse 785 Receiver.",
+    "meta": [
+     "246K",
+     "2y ago"
+    ],
+    "dur": "1:46:27",
+    "views_tab": 246000
+   },
+   {
+    "id": "VtsyKXl-nwU",
+    "title": "High Voltage  AM Transmitter equals FUN!",
+    "meta": [
+     "246K",
+     "8y ago"
+    ],
+    "dur": "36:37",
+    "views_tab": 246000
+   },
+   {
+    "id": "Fimf3jypV_o",
+    "title": "Electronic Circuit Design, Let's Build a Project",
+    "meta": [
+     "242K",
+     "11y ago"
+    ],
+    "dur": "1:01:18",
+    "views_tab": 242000
+   },
+   {
+    "id": "jKr3rdX9oXQ",
+    "title": "Electronic Repair- Stereo Audio Equalizer From The 1980's!",
+    "meta": [
+     "239K",
+     "7y ago"
+    ],
+    "dur": "57:26",
+    "views_tab": 239000
+   },
+   {
+    "id": "qTb65aoYA_Y",
+    "title": "Understanding AC And DC, How Diodes Work",
+    "meta": [
+     "238K",
+     "10y ago"
+    ],
+    "dur": "23:20",
+    "views_tab": 238000
+   },
+   {
+    "id": "bRi6_-iikvg",
+    "title": "Why Use This Special Capacitor? Why So Important?",
+    "meta": [
+     "238K",
+     "9mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 238000
+   },
+   {
+    "id": "RHv7EPef2E4",
+    "title": "Electronic Restoration- The Supreme Vedolyzer! 1939 (Part 1)",
+    "meta": [
+     "237K",
+     "7y ago"
+    ],
+    "dur": "1:22:16",
+    "views_tab": 237000
+   },
+   {
+    "id": "m-1OSFPHi04",
+    "title": "Magnasine MS2012 Inverter Charger Troubleshoot and Repair",
+    "meta": [
+     "234K",
+     "11y ago"
+    ],
+    "dur": "1:21:36",
+    "views_tab": 234000
+   },
+   {
+    "id": "y6IUecNa4KE",
+    "title": "Amp Repair And Restoration - Kay Model K550",
+    "meta": [
+     "234K",
+     "5y ago"
+    ],
+    "dur": "1:31:56",
+    "views_tab": 234000
+   },
+   {
+    "id": "W5x35TmTKr0",
+    "title": "Signal Tracer Troubleshooting Repair and Modification",
+    "meta": [
+     "233K",
+     "10y ago"
+    ],
+    "dur": "1:22:56",
+    "views_tab": 233000
+   },
+   {
+    "id": "7I8hrQjePks",
+    "title": "WW2 Dynamo Flashlight - Doesn't Use Batteries! Let's look Inside.",
+    "meta": [
+     "232K",
+     "1y ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 232000
+   },
+   {
+    "id": "crJdGfAmSs4",
+    "title": "Repairing and aligning an antique radio, Stromberg Carlson 240",
+    "meta": [
+     "225K",
+     "11y ago"
+    ],
+    "dur": "1:05:08",
+    "views_tab": 225000
+   },
+   {
+    "id": "mEiUt56elAw",
+    "title": "Build A Simple VFD or Variable Frequency Drive!",
+    "meta": [
+     "219K",
+     "8y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 219000
+   },
+   {
+    "id": "XBsQ3sZ45Fk",
+    "title": "Tech Tips Tuesday, Isolation Transformer and Variac Safety",
+    "meta": [
+     "219K",
+     "10y ago"
+    ],
+    "dur": "16:16",
+    "views_tab": 219000
+   },
+   {
+    "id": "g3CUQaQ-_gM",
+    "title": "Restored Radio Receiver From 1957 Receives Signals From Half Way Across The Planet!",
+    "meta": [
+     "219K",
+     "4y ago"
+    ],
+    "dur": "1:11:11",
+    "views_tab": 219000
+   },
+   {
+    "id": "ABK-BndqGz8",
+    "title": "Kenmore LG Fridge Repair Process.",
+    "meta": [
+     "217K",
+     "7y ago"
+    ],
+    "dur": "27:59",
+    "views_tab": 217000
+   },
+   {
+    "id": "bXUvlVPWF2I",
+    "title": "High End McIntosh C29 Preamplifier Repair!",
+    "meta": [
+     "216K",
+     "8y ago"
+    ],
+    "dur": "23:30",
+    "views_tab": 216000
+   },
+   {
+    "id": "WDkRzRhT_Es",
+    "title": "Motorola Radio Restoration And Modification - Full Detailed Procedure With Bluetooth Addition!",
+    "meta": [
+     "216K",
+     "1y ago"
+    ],
+    "dur": "3:20:20",
+    "views_tab": 216000
+   },
+   {
+    "id": "spwyGQuIXwc",
+    "title": "Transformer Repair {Depotting} Lets Look Inside!",
+    "meta": [
+     "215K",
+     "8y ago"
+    ],
+    "dur": "47:13",
+    "views_tab": 215000
+   },
+   {
+    "id": "dIEM2bG8mOQ",
+    "title": "UPS Electrical Failure - Teardown and Analysis!",
+    "meta": [
+     "214K",
+     "3y ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 214000
+   },
+   {
+    "id": "5tDCQDdilCo",
+    "title": "Audio Signal Generator Restoration EICO 377",
+    "meta": [
+     "213K",
+     "8y ago"
+    ],
+    "dur": "1:38:31",
+    "views_tab": 213000
+   },
+   {
+    "id": "N75D9293Eb8",
+    "title": "Tube Amplifier Troubleshooting Tips",
+    "meta": [
+     "210K",
+     "10y ago"
+    ],
+    "dur": "18:47",
+    "views_tab": 210000
+   },
+   {
+    "id": "eE7J4Kpbe6w",
+    "title": "Signal Generator Troubleshooting Repair and Modification",
+    "meta": [
+     "202K",
+     "10y ago"
+    ],
+    "dur": "1:27:42",
+    "views_tab": 202000
+   },
+   {
+    "id": "qsrMkde23s0",
+    "title": "CNC Power Supply Repair, Yamabishi SF-PW",
+    "meta": [
+     "201K",
+     "9y ago"
+    ],
+    "dur": "1:00:13",
+    "views_tab": 201000
+   },
+   {
+    "id": "lLQThhf3Brc",
+    "title": "Which Capacitor Tester Should I Buy?",
+    "meta": [
+     "196K",
+     "9y ago"
+    ],
+    "dur": "20:45",
+    "views_tab": 196000
+   },
+   {
+    "id": "8RJmEfeoL7E",
+    "title": "LUXMAN Preamplifier Repair - The LUXKIT A3300 Preamp",
+    "meta": [
+     "193K",
+     "2y ago"
+    ],
+    "dur": "52:14",
+    "views_tab": 193000
+   },
+   {
+    "id": "jSy5nyk7fQo",
+    "title": "Grand Receiver Restoration Series - The GE CX371 Part 2 - The Amplifier And Power Supply!",
+    "meta": [
+     "192K",
+     "4y ago"
+    ],
+    "dur": "1:08:06",
+    "views_tab": 192000
+   },
+   {
+    "id": "f3dGStQuI7c",
+    "title": "Coffee Maker Repair And Modification - \"For The Perfect Cup\"- The Keurig!",
+    "meta": [
+     "190K",
+     "4y ago"
+    ],
+    "dur": "1:03:22",
+    "views_tab": 190000
+   },
+   {
+    "id": "Xexp12ydsJs",
+    "title": "Why Add These Parts To A Lamp Circuit? Explained With Real Examples!",
+    "meta": [
+     "189K",
+     "1mo ago"
+    ],
+    "dur": "15:45",
+    "views_tab": 189000
+   },
+   {
+    "id": "l8ndPgGNKg8",
+    "title": "Electronic Repair Time! ASHLY 3102 Stereo Equalizer",
+    "meta": [
+     "187K",
+     "7y ago"
+    ],
+    "dur": "39:29",
+    "views_tab": 187000
+   },
+   {
+    "id": "aIhi4F4MM5I",
+    "title": "Finished! Restored 1940's Secret Listening Post Receiver, See And Hear It Operate! The RCA CR-88",
+    "meta": [
+     "187K",
+     "3y ago"
+    ],
+    "dur": "1:13:29",
+    "views_tab": 187000
+   },
+   {
+    "id": "XW7Fx7M6txE",
+    "title": "Electronic Repair- Sansui B-77 Stereo Power Amplifier!",
+    "meta": [
+     "185K",
+     "7y ago"
+    ],
+    "dur": "35:17",
+    "views_tab": 185000
+   },
+   {
+    "id": "UnTHM23DLpk",
+    "title": "Ten-Tec Eagle model 599 Repair",
+    "meta": [
+     "183K",
+     "11y ago"
+    ],
+    "dur": "51:18",
+    "views_tab": 183000
+   },
+   {
+    "id": "irS-vv16r0M",
+    "title": "93 Year Old Battery Charger, Will It Work? Let's See!",
+    "meta": [
+     "182K",
+     "2y ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 182000
+   },
+   {
+    "id": "tS7SvoT8Ivw",
+    "title": "Stop RF \"Radio Frequency\" Interference! [Ways To Solve Noise Issues]",
+    "meta": [
+     "181K",
+     "5y ago"
+    ],
+    "dur": "42:29",
+    "views_tab": 181000
+   },
+   {
+    "id": "GbV0-k4-qNk",
+    "title": "Telefunken Radio Receiver Electronic Troubleshooting And Repair!",
+    "meta": [
+     "181K",
+     "5y ago"
+    ],
+    "dur": "31:18",
+    "views_tab": 181000
+   },
+   {
+    "id": "nX87kwSshZ8",
+    "title": "Build A Power Supply - With Junk Box Parts! [The BC-348 Series.]",
+    "meta": [
+     "177K",
+     "2y ago"
+    ],
+    "dur": "1:57:40",
+    "views_tab": 177000
+   },
+   {
+    "id": "bX0o3jAzSBs",
+    "title": "Tech Tips Tuesday Dirty Little Secrets",
+    "meta": [
+     "175K",
+     "10y ago"
+    ],
+    "dur": "17:09",
+    "views_tab": 175000
+   },
+   {
+    "id": "UdY6RhNOCWg",
+    "title": "Troubleshoot and Repair an ICOM IC-746",
+    "meta": [
+     "172K",
+     "11y ago"
+    ],
+    "dur": "26:16",
+    "views_tab": 172000
+   },
+   {
+    "id": "swO-gSQ08ns",
+    "title": "1930's Electronics - Will It Still Work? Lets Find Out!",
+    "meta": [
+     "171K",
+     "5y ago"
+    ],
+    "dur": "31:17",
+    "views_tab": 171000
+   },
+   {
+    "id": "5eS8hx8lYF8",
+    "title": "What Can Old Test Gear Teach Us About Electronics? Find Out.",
+    "meta": [
+     "170K",
+     "9y ago"
+    ],
+    "dur": "1:17:48",
+    "views_tab": 170000
+   },
+   {
+    "id": "owdYYPnLESg",
+    "title": "80 Year Old Radio - Will It Still Work - If Not - What Will It Take?",
+    "meta": [
+     "168K",
+     "2mo ago"
+    ],
+    "dur": "27:03",
+    "views_tab": 168000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "iYJWq3SAsH4",
+    "title": "Nixie Tube Frequency Counter Modification Video #1",
+    "meta": [
+     "35K",
+     "12y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 35000
+   },
+   {
+    "id": "nfVoNCyN6TM",
+    "title": "Black Box gets my modified car through Emissions Test \"AirCare\"",
+    "meta": [
+     "117K",
+     "12y ago"
+    ],
+    "dur": "23:23",
+    "views_tab": 117000
+   },
+   {
+    "id": "7A_NqNyvaBM",
+    "title": "View my personal electronics lab",
+    "meta": [
+     "304K",
+     "12y ago"
+    ],
+    "dur": "7:37",
+    "views_tab": 304000
+   },
+   {
+    "id": "BvbNBZX6kNE",
+    "title": "Tektronix type 555 oscilloscope, over 100 tubes inside!",
+    "meta": [
+     "251K",
+     "12y ago"
+    ],
+    "dur": "25:12",
+    "views_tab": 251000
+   },
+   {
+    "id": "I1gfUNh5PJQ",
+    "title": "\"TDR\" or Time Domain Reflectometer, build and use this circuit.",
+    "meta": [
+     "249K",
+     "12y ago"
+    ],
+    "dur": "20:05",
+    "views_tab": 249000
+   },
+   {
+    "id": "l58qUNVJna0",
+    "title": "Determining Velocity Factor of coaxial cable.",
+    "meta": [
+     "20K",
+     "12y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 20000
+   },
+   {
+    "id": "lIZTpP113_c",
+    "title": "Understanding DTF or Distance To Fault, using a TDR",
+    "meta": [
+     "37K",
+     "12y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 37000
+   },
+   {
+    "id": "-eAnz5rT4SU",
+    "title": "Determining Coax Impedance with a TDR",
+    "meta": [
+     "20K",
+     "12y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 20000
+   },
+   {
+    "id": "nHHWYYZdN0A",
+    "title": "TDR with different Oscilloscopes.",
+    "meta": [
+     "46K",
+     "12y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 46000
+   },
+   {
+    "id": "KGcoOETCaEQ",
+    "title": "Transistor Identification and Testing made easy.",
+    "meta": [
+     "543K",
+     "12y ago"
+    ],
+    "dur": "8:29",
+    "views_tab": 543000
+   },
+   {
+    "id": "qqmegXoB7lA",
+    "title": "Intro to Mr Carlson's Lab",
+    "meta": [
+     "470K",
+     "12y ago"
+    ],
+    "dur": "0:26",
+    "views_tab": 470000
+   },
+   {
+    "id": "mjF0S-ctXfg",
+    "title": "Testing a Relay",
+    "meta": [
+     "29K",
+     "12y ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 29000
+   },
+   {
+    "id": "yy8NS2zejhQ",
+    "title": "Circuit Board Faults hiding in plain sight.",
+    "meta": [
+     "62K",
+     "12y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 62000
+   },
+   {
+    "id": "Ja_cb_gfDDk",
+    "title": "Husky Compressor Repair and Modification",
+    "meta": [
+     "159K",
+     "12y ago"
+    ],
+    "dur": "56:34",
+    "views_tab": 159000
+   },
+   {
+    "id": "v3Jv2_pQ86o",
+    "title": "How to use a Curve Tracer to determine Transistor gain",
+    "meta": [
+     "21K",
+     "12y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 21000
+   },
+   {
+    "id": "4dasj7PbF2k",
+    "title": "Curve Tracer, determine DC static Current gain of a Transistor or hFE",
+    "meta": [
+     "16K",
+     "12y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 16000
+   },
+   {
+    "id": "QDqwSZ3HUqk",
+    "title": "Mastercraft 052-0726-0 also #52-0726-0 Smart Multimeter Review",
+    "meta": [
+     "33K",
+     "12y ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 33000
+   },
+   {
+    "id": "crJdGfAmSs4",
+    "title": "Repairing and aligning an antique radio, Stromberg Carlson 240",
+    "meta": [
+     "225K",
+     "11y ago"
+    ],
+    "dur": "1:05:08",
+    "views_tab": 225000
+   },
+   {
+    "id": "xMPMctaIRQE",
+    "title": "Stromberg Carlson 240 Modification Video",
+    "meta": [
+     "24K",
+     "11y ago"
+    ],
+    "dur": "10:35",
+    "views_tab": 24000
+   },
+   {
+    "id": "kmiiM-Mv1s4",
+    "title": "Listen to SSB or single sideband on your old AM radio",
+    "meta": [
+     "35K",
+     "11y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 35000
+   },
+   {
+    "id": "AuQQNmCwwqQ",
+    "title": "Philco Ford Car Radio Repair and Alignment",
+    "meta": [
+     "101K",
+     "11y ago"
+    ],
+    "dur": "34:37",
+    "views_tab": 101000
+   },
+   {
+    "id": "51mjt9nFoeA",
+    "title": "Big Dim Bulb Tester with Variac and Isolation Transformer",
+    "meta": [
+     "160K",
+     "11y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 160000
+   },
+   {
+    "id": "gO7RkSnuGys",
+    "title": "AKAI AM-2950 Amplifier LED Modification",
+    "meta": [
+     "115K",
+     "11y ago"
+    ],
+    "dur": "31:20",
+    "views_tab": 115000
+   },
+   {
+    "id": "j-viaPm5duA",
+    "title": "Doing Math with Fire",
+    "meta": [
+     "20K",
+     "11y ago"
+    ],
+    "dur": "13:46",
+    "views_tab": 20000
+   },
+   {
+    "id": "fGP8W5Y9JZs",
+    "title": "Fender DeVille Amplifier, Repair and Bias Set Procedure",
+    "meta": [
+     "157K",
+     "11y ago"
+    ],
+    "dur": "35:07",
+    "views_tab": 157000
+   },
+   {
+    "id": "J31nVC0ms0w",
+    "title": "Tube Radio Restoration, Hammarlund HQ-120",
+    "meta": [
+     "1.5M",
+     "11y ago"
+    ],
+    "dur": "2:37:22",
+    "views_tab": 1500000
+   },
+   {
+    "id": "e6v6elT26_o",
+    "title": "Find hiding radio stations with a, PCA-2T-200 Panadaptor",
+    "meta": [
+     "155K",
+     "11y ago"
+    ],
+    "dur": "37:04",
+    "views_tab": 155000
+   },
+   {
+    "id": "lGlQA3GCYw4",
+    "title": "ICOM IC-751A Reference Frequency Oscillator Alignment",
+    "meta": [
+     "36K",
+     "11y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 36000
+   },
+   {
+    "id": "Omo3XvhsKd0",
+    "title": "Yaesu FT-1000MP Repair and Modification",
+    "meta": [
+     "4.2M",
+     "11y ago"
+    ],
+    "dur": "2:03:19",
+    "views_tab": 4200000
+   },
+   {
+    "id": "V9VDY0fiO7k",
+    "title": "Yaesu FT-900 Repair",
+    "meta": [
+     "100K",
+     "11y ago"
+    ],
+    "dur": "22:34",
+    "views_tab": 100000
+   },
+   {
+    "id": "GR3rR7tc30Y",
+    "title": "VTVM Restoration, Alignment, and why you should own one",
+    "meta": [
+     "354K",
+     "11y ago"
+    ],
+    "dur": "1:42:34",
+    "views_tab": 354000
+   },
+   {
+    "id": "UdY6RhNOCWg",
+    "title": "Troubleshoot and Repair an ICOM IC-746",
+    "meta": [
+     "172K",
+     "11y ago"
+    ],
+    "dur": "26:16",
+    "views_tab": 172000
+   },
+   {
+    "id": "FHxOI_iSmcM",
+    "title": "KENWOOD TL-922A Repair and Modification",
+    "meta": [
+     "152K",
+     "11y ago"
+    ],
+    "dur": "30:17",
+    "views_tab": 152000
+   },
+   {
+    "id": "z8k-h-g_8V8",
+    "title": "Echophone EC-1 Tube Radio Restoration with Alignment Procedure",
+    "meta": [
+     "575K",
+     "11y ago"
+    ],
+    "dur": "2:34:22",
+    "views_tab": 575000
+   },
+   {
+    "id": "dXtSTpBXItI",
+    "title": "ASTRON RS-35A Power Supply Repair",
+    "meta": [
+     "304K",
+     "11y ago"
+    ],
+    "dur": "30:21",
+    "views_tab": 304000
+   },
+   {
+    "id": "BnR_DLd1PDI",
+    "title": "Are Your Capacitors Installed Backwards? Build this and find out",
+    "meta": [
+     "839K",
+     "11y ago"
+    ],
+    "dur": "49:36",
+    "views_tab": 839000
+   },
+   {
+    "id": "0vuhqoRB-y8",
+    "title": "DeForest Crosley Empress or Duchess Electrical Restoration",
+    "meta": [
+     "283K",
+     "11y ago"
+    ],
+    "dur": "2:04:29",
+    "views_tab": 283000
+   },
+   {
+    "id": "ETKyKC2Zj-M",
+    "title": "Build this Spectrum Analyzer Protection Circuit",
+    "meta": [
+     "59K",
+     "11y ago"
+    ],
+    "dur": "22:28",
+    "views_tab": 59000
+   },
+   {
+    "id": "m-1OSFPHi04",
+    "title": "Magnasine MS2012 Inverter Charger Troubleshoot and Repair",
+    "meta": [
+     "234K",
+     "11y ago"
+    ],
+    "dur": "1:21:36",
+    "views_tab": 234000
+   },
+   {
+    "id": "au2ba5gWLWk",
+    "title": "How to Make Double Sided Circuit Boards at Home",
+    "meta": [
+     "406K",
+     "11y ago"
+    ],
+    "dur": "55:02",
+    "views_tab": 406000
+   },
+   {
+    "id": "LColZ8MOtd0",
+    "title": "Tube Audio Amplifier Troubleshoot Repair and Modification",
+    "meta": [
+     "978K",
+     "11y ago"
+    ],
+    "dur": "2:05:27",
+    "views_tab": 978000
+   },
+   {
+    "id": "UnTHM23DLpk",
+    "title": "Ten-Tec Eagle model 599 Repair",
+    "meta": [
+     "183K",
+     "11y ago"
+    ],
+    "dur": "51:18",
+    "views_tab": 183000
+   },
+   {
+    "id": "Fimf3jypV_o",
+    "title": "Electronic Circuit Design, Let's Build a Project",
+    "meta": [
+     "242K",
+     "11y ago"
+    ],
+    "dur": "1:01:18",
+    "views_tab": 242000
+   },
+   {
+    "id": "lMJr-oUYYDA",
+    "title": "Tesla Coil Wireless Energy and Resonance Demonstration",
+    "meta": [
+     "568K",
+     "10y ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 568000
+   },
+   {
+    "id": "KHpL-sJaReE",
+    "title": "Making Christmas Lights Last Longer",
+    "meta": [
+     "32K",
+     "10y ago"
+    ],
+    "dur": "15:13",
+    "views_tab": 32000
+   },
+   {
+    "id": "79uD6XwBg5E",
+    "title": "Tech Tips Tuesday, Super Hot Soldering Gun",
+    "meta": [
+     "308K",
+     "10y ago"
+    ],
+    "dur": "15:59",
+    "views_tab": 308000
+   },
+   {
+    "id": "XBsQ3sZ45Fk",
+    "title": "Tech Tips Tuesday, Isolation Transformer and Variac Safety",
+    "meta": [
+     "219K",
+     "10y ago"
+    ],
+    "dur": "16:16",
+    "views_tab": 219000
+   },
+   {
+    "id": "mCZb4xiLLaY",
+    "title": "Tech Tips Tuesday- Radio Repair Tips.",
+    "meta": [
+     "56K",
+     "10y ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 56000
+   },
+   {
+    "id": "bX0o3jAzSBs",
+    "title": "Tech Tips Tuesday Dirty Little Secrets",
+    "meta": [
+     "175K",
+     "10y ago"
+    ],
+    "dur": "17:09",
+    "views_tab": 175000
+   },
+   {
+    "id": "V1aONINVkSE",
+    "title": "Choosing The Right Solder, Tech Tips Tuesday.",
+    "meta": [
+     "458K",
+     "10y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 458000
+   },
+   {
+    "id": "UxMaEyUxlVM",
+    "title": "Reading Resistor Color Codes Fast, Tech Tips Tuesday",
+    "meta": [
+     "607K",
+     "10y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 607000
+   },
+   {
+    "id": "VwJ-fTEXw_M",
+    "title": "How Binary Logic Works, Tech Tips Tuesday",
+    "meta": [
+     "157K",
+     "10y ago"
+    ],
+    "dur": "17:30",
+    "views_tab": 157000
+   },
+   {
+    "id": "N75D9293Eb8",
+    "title": "Tube Amplifier Troubleshooting Tips",
+    "meta": [
+     "210K",
+     "10y ago"
+    ],
+    "dur": "18:47",
+    "views_tab": 210000
+   },
+   {
+    "id": "67M7fsbLUIU",
+    "title": "Which Capacitor Do I Use? Tech Tips Tuesday",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "24:04",
+    "views_tab": 1000000
+   },
+   {
+    "id": "qTb65aoYA_Y",
+    "title": "Understanding AC And DC, How Diodes Work",
+    "meta": [
+     "238K",
+     "10y ago"
+    ],
+    "dur": "23:20",
+    "views_tab": 238000
+   },
+   {
+    "id": "xXG3VmUBF_o",
+    "title": "Zener Diode vs Tube Regulation and More",
+    "meta": [
+     "143K",
+     "10y ago"
+    ],
+    "dur": "31:35",
+    "views_tab": 143000
+   },
+   {
+    "id": "oHjZs0bNwEs",
+    "title": "How A Tube Works",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "27:07",
+    "views_tab": 1000000
+   },
+   {
+    "id": "bKv95nRTWcY",
+    "title": "Whats A Wobbulator? Tech Tip Teardowns",
+    "meta": [
+     "87K",
+     "10y ago"
+    ],
+    "dur": "22:19",
+    "views_tab": 87000
+   },
+   {
+    "id": "NlbC-cMIBTY",
+    "title": "Active Probe, Schematic Included",
+    "meta": [
+     "112K",
+     "10y ago"
+    ],
+    "dur": "35:37",
+    "views_tab": 112000
+   },
+   {
+    "id": "NoGl7oeh7eU",
+    "title": "Switch Mode Power Supply Repair, SMPS",
+    "meta": [
+     "784K",
+     "10y ago"
+    ],
+    "dur": "29:45",
+    "views_tab": 784000
+   },
+   {
+    "id": "HqsXe3IKTCo",
+    "title": "Junk Box Oscilloscope, Can It Be Fixed?",
+    "meta": [
+     "392K",
+     "10y ago"
+    ],
+    "dur": "37:49",
+    "views_tab": 392000
+   },
+   {
+    "id": "B0JH80Ul4F8",
+    "title": "Old Oscilloscope, The Steps Needed For Restoration",
+    "meta": [
+     "66K",
+     "10y ago"
+    ],
+    "dur": "22:00",
+    "views_tab": 66000
+   },
+   {
+    "id": "RF7CRqb54XM",
+    "title": "Oscilloscope Restoration",
+    "meta": [
+     "161K",
+     "10y ago"
+    ],
+    "dur": "48:42",
+    "views_tab": 161000
+   },
+   {
+    "id": "AlfJ1dxTuWI",
+    "title": "SONY CRF-320 Receiver Restoration Repair and Modification",
+    "meta": [
+     "1.7M",
+     "10y ago"
+    ],
+    "dur": "2:27:51",
+    "views_tab": 1700000
+   },
+   {
+    "id": "X8N9O3a9jiM",
+    "title": "Electrolytic Capacitor Removal NO Desoldering Required",
+    "meta": [
+     "1.4M",
+     "10y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 1400000
+   },
+   {
+    "id": "aieMZNC4m_0",
+    "title": "Yaesu FT-1000MP Repair",
+    "meta": [
+     "108K",
+     "10y ago"
+    ],
+    "dur": "26:47",
+    "views_tab": 108000
+   },
+   {
+    "id": "nLWVTFj_Yik",
+    "title": "Tektronix 224 Oscilloscope Repair and Modification",
+    "meta": [
+     "140K",
+     "10y ago"
+    ],
+    "dur": "27:50",
+    "views_tab": 140000
+   },
+   {
+    "id": "W5x35TmTKr0",
+    "title": "Signal Tracer Troubleshooting Repair and Modification",
+    "meta": [
+     "233K",
+     "10y ago"
+    ],
+    "dur": "1:22:56",
+    "views_tab": 233000
+   },
+   {
+    "id": "eE7J4Kpbe6w",
+    "title": "Signal Generator Troubleshooting Repair and Modification",
+    "meta": [
+     "202K",
+     "10y ago"
+    ],
+    "dur": "1:27:42",
+    "views_tab": 202000
+   },
+   {
+    "id": "jytF5bvPGcU",
+    "title": "The NIXIE Tube, and How To Use Them",
+    "meta": [
+     "131K",
+     "10y ago"
+    ],
+    "dur": "20:08",
+    "views_tab": 131000
+   },
+   {
+    "id": "tb1-EF_F2Rk",
+    "title": "The Crystal Oscillator and Frequency Division",
+    "meta": [
+     "90K",
+     "10y ago"
+    ],
+    "dur": "22:58",
+    "views_tab": 90000
+   },
+   {
+    "id": "yAx4ehqRSPE",
+    "title": "NIXIE Tube Programmable Frequency Display",
+    "meta": [
+     "118K",
+     "10y ago"
+    ],
+    "dur": "1:16:40",
+    "views_tab": 118000
+   },
+   {
+    "id": "LzA2nUT-vgc",
+    "title": "How to Advertize Yourself and Get Attention",
+    "meta": [
+     "13K",
+     "10y ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 13000
+   },
+   {
+    "id": "wuPUL5x_nhM",
+    "title": "Sneak Peak and Tear Down of a Simpson Genescope 480",
+    "meta": [
+     "106K",
+     "10y ago"
+    ],
+    "dur": "47:18",
+    "views_tab": 106000
+   },
+   {
+    "id": "tSu0xibIdyM",
+    "title": "Nixie Tube Digital Display for Receivers",
+    "meta": [
+     "76K",
+     "10y ago"
+    ],
+    "dur": "1:09:37",
+    "views_tab": 76000
+   },
+   {
+    "id": "goo9n-bIhGM",
+    "title": "Design and Build a Buffer Circuit, Tube and Transistor",
+    "meta": [
+     "91K",
+     "9y ago"
+    ],
+    "dur": "1:05:39",
+    "views_tab": 91000
+   },
+   {
+    "id": "4kT57s0kCAk",
+    "title": "Hammarlund HQ-140-X Repair and Restoration",
+    "meta": [
+     "918K",
+     "9y ago"
+    ],
+    "dur": "2:58:10",
+    "views_tab": 918000
+   },
+   {
+    "id": "uVkJqqZroN0",
+    "title": "Troubleshoot Electronics FAST with a Super Probe",
+    "meta": [
+     "428K",
+     "9y ago"
+    ],
+    "dur": "1:05:27",
+    "views_tab": 428000
+   },
+   {
+    "id": "qsrMkde23s0",
+    "title": "CNC Power Supply Repair, Yamabishi SF-PW",
+    "meta": [
+     "201K",
+     "9y ago"
+    ],
+    "dur": "1:00:13",
+    "views_tab": 201000
+   },
+   {
+    "id": "Wa86yYSesPM",
+    "title": "Electronics Course Has Started, and Patreon Intro",
+    "meta": [
+     "54K",
+     "9y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 54000
+   },
+   {
+    "id": "pffOJdCQ7kw",
+    "title": "Power Supply Troubleshooting and Repair Tips",
+    "meta": [
+     "1.5M",
+     "9y ago"
+    ],
+    "dur": "31:26",
+    "views_tab": 1500000
+   },
+   {
+    "id": "mwl74jk8ZyU",
+    "title": "Yamabishi SE-PW Power Supply Repair",
+    "meta": [
+     "61K",
+     "9y ago"
+    ],
+    "dur": "25:10",
+    "views_tab": 61000
+   },
+   {
+    "id": "mE7SoZXX1FQ",
+    "title": "Tube Amplifier Repair, and what to look for.",
+    "meta": [
+     "327K",
+     "9y ago"
+    ],
+    "dur": "31:31",
+    "views_tab": 327000
+   },
+   {
+    "id": "ZzpVhCL5aPg",
+    "title": "Standing Inside a Broadcast Transmitter While it's ON!",
+    "meta": [
+     "628K",
+     "9y ago"
+    ],
+    "dur": "37:37",
+    "views_tab": 628000
+   },
+   {
+    "id": "P3Wh41Mbf9A",
+    "title": "Atomic Era Radio Teardown, Explained With Repair",
+    "meta": [
+     "259K",
+     "9y ago"
+    ],
+    "dur": "1:10:56",
+    "views_tab": 259000
+   },
+   {
+    "id": "lLQThhf3Brc",
+    "title": "Which Capacitor Tester Should I Buy?",
+    "meta": [
+     "196K",
+     "9y ago"
+    ],
+    "dur": "20:45",
+    "views_tab": 196000
+   },
+   {
+    "id": "ZaOZBmCXjAo",
+    "title": "Neat Electronic Device from 1939 Explained with Restoration",
+    "meta": [
+     "251K",
+     "9y ago"
+    ],
+    "dur": "1:16:33",
+    "views_tab": 251000
+   },
+   {
+    "id": "yLr16NJ2Llg",
+    "title": "Bizarre Circuit Tests Capacitors with RF!",
+    "meta": [
+     "106K",
+     "9y ago"
+    ],
+    "dur": "49:00",
+    "views_tab": 106000
+   },
+   {
+    "id": "F5UhzILAISQ",
+    "title": "I Found A Great YouTube Channel, Here It Is!",
+    "meta": [
+     "49K",
+     "9y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 49000
+   },
+   {
+    "id": "ogHEAs3zFkI",
+    "title": "Testing A Large Tube Used For Heating People With RF!",
+    "meta": [
+     "332K",
+     "9y ago"
+    ],
+    "dur": "20:34",
+    "views_tab": 332000
+   },
+   {
+    "id": "E_5cVxeoG7U",
+    "title": "Vacuum Tube Preamp Repair, Harman Kardon Citation 1",
+    "meta": [
+     "326K",
+     "9y ago"
+    ],
+    "dur": "56:44",
+    "views_tab": 326000
+   },
+   {
+    "id": "5eS8hx8lYF8",
+    "title": "What Can Old Test Gear Teach Us About Electronics? Find Out.",
+    "meta": [
+     "170K",
+     "9y ago"
+    ],
+    "dur": "1:17:48",
+    "views_tab": 170000
+   },
+   {
+    "id": "Tf2vxwm52fU",
+    "title": "How To Solder Properly, With Extra Tips!",
+    "meta": [
+     "325K",
+     "8y ago"
+    ],
+    "dur": "22:29",
+    "views_tab": 325000
+   },
+   {
+    "id": "HZLQzBOOQbw",
+    "title": "How To Desolder Electronic Parts Using Different Tools.",
+    "meta": [
+     "459K",
+     "8y ago"
+    ],
+    "dur": "40:08",
+    "views_tab": 459000
+   },
+   {
+    "id": "afwYTF8GooM",
+    "title": "We Win! Patreon Apologizes And Retracts The Change!",
+    "meta": [
+     "32K",
+     "8y ago"
+    ],
+    "dur": "0:48",
+    "views_tab": 32000
+   },
+   {
+    "id": "mEiUt56elAw",
+    "title": "Build A Simple VFD or Variable Frequency Drive!",
+    "meta": [
+     "219K",
+     "8y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 219000
+   },
+   {
+    "id": "TP9Fb6RUMsk",
+    "title": "The New Lab, Mr Carlson's Old Time Lab.",
+    "meta": [
+     "150K",
+     "8y ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 150000
+   },
+   {
+    "id": "pe9lPW9fsXw",
+    "title": "Ice Storm Destruction at Mr Carlson's House!",
+    "meta": [
+     "72K",
+     "8y ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 72000
+   },
+   {
+    "id": "lR9LxLDbAy4",
+    "title": "1940's Stewart Warner Tube Radio Troubleshooting and Repair",
+    "meta": [
+     "424K",
+     "8y ago"
+    ],
+    "dur": "1:59:43",
+    "views_tab": 424000
+   },
+   {
+    "id": "6P4C9at5rV8",
+    "title": "Two Six Pac's On The Bench",
+    "meta": [
+     "739K",
+     "8y ago"
+    ],
+    "dur": "1:33:26",
+    "views_tab": 739000
+   },
+   {
+    "id": "tXYp0C1mYQw",
+    "title": "What's Hiding Inside This HUGE Test Equipment?",
+    "meta": [
+     "63K",
+     "8y ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 63000
+   },
+   {
+    "id": "JPm5eQdJm38",
+    "title": "Amplifier Troubleshooting and Modification.",
+    "meta": [
+     "121K",
+     "8y ago"
+    ],
+    "dur": "31:41",
+    "views_tab": 121000
+   },
+   {
+    "id": "5tDCQDdilCo",
+    "title": "Audio Signal Generator Restoration EICO 377",
+    "meta": [
+     "213K",
+     "8y ago"
+    ],
+    "dur": "1:38:31",
+    "views_tab": 213000
+   },
+   {
+    "id": "LhovRIM5xAo",
+    "title": "Invention Release! Carlson LV Capacitor Leakage Tester.",
+    "meta": [
+     "309K",
+     "8y ago"
+    ],
+    "dur": "43:02",
+    "views_tab": 309000
+   },
+   {
+    "id": "NKbE5jcLF3U",
+    "title": "Neat Electronic Tool From The 1930's, Lets Look Inside!",
+    "meta": [
+     "157K",
+     "8y ago"
+    ],
+    "dur": "45:05",
+    "views_tab": 157000
+   },
+   {
+    "id": "VtsyKXl-nwU",
+    "title": "High Voltage  AM Transmitter equals FUN!",
+    "meta": [
+     "246K",
+     "8y ago"
+    ],
+    "dur": "36:37",
+    "views_tab": 246000
+   },
+   {
+    "id": "spwyGQuIXwc",
+    "title": "Transformer Repair {Depotting} Lets Look Inside!",
+    "meta": [
+     "215K",
+     "8y ago"
+    ],
+    "dur": "47:13",
+    "views_tab": 215000
+   },
+   {
+    "id": "6lCmIbXbbuk",
+    "title": "The Next Restoration {Viewers Choice} 4K",
+    "meta": [
+     "35K",
+     "8y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 35000
+   },
+   {
+    "id": "mEFdADrU9MA",
+    "title": "600 Volt Tube Op Amp! Lets Power It Up.",
+    "meta": [
+     "128K",
+     "8y ago"
+    ],
+    "dur": "43:54",
+    "views_tab": 128000
+   },
+   {
+    "id": "bXUvlVPWF2I",
+    "title": "High End McIntosh C29 Preamplifier Repair!",
+    "meta": [
+     "216K",
+     "8y ago"
+    ],
+    "dur": "23:30",
+    "views_tab": 216000
+   },
+   {
+    "id": "JroiDZgReak",
+    "title": "Tools For The Bench- High Voltage Power Supply Repair!",
+    "meta": [
+     "145K",
+     "8y ago"
+    ],
+    "dur": "58:43",
+    "views_tab": 145000
+   },
+   {
+    "id": "OWXbdCz-AiY",
+    "title": "Electronic Restoration Adventure-The Belmont 636 Radio Receiver!",
+    "meta": [
+     "2.2M",
+     "8y ago"
+    ],
+    "dur": "1:59:57",
+    "views_tab": 2200000
+   },
+   {
+    "id": "7VBVSEevXaY",
+    "title": "Become A Super Electronics Troubleshooter!",
+    "meta": [
+     "306K",
+     "8y ago"
+    ],
+    "dur": "1:06:24",
+    "views_tab": 306000
+   },
+   {
+    "id": "Lzsr6uuXuRM",
+    "title": "Super Electronics Troubleshooter- Working On Hybrid Technology And Not Destroying It",
+    "meta": [
+     "78K",
+     "8y ago"
+    ],
+    "dur": "52:19",
+    "views_tab": 78000
+   },
+   {
+    "id": "RHv7EPef2E4",
+    "title": "Electronic Restoration- The Supreme Vedolyzer! 1939 (Part 1)",
+    "meta": [
+     "237K",
+     "7y ago"
+    ],
+    "dur": "1:22:16",
+    "views_tab": 237000
+   },
+   {
+    "id": "XW7Fx7M6txE",
+    "title": "Electronic Repair- Sansui B-77 Stereo Power Amplifier!",
+    "meta": [
+     "185K",
+     "7y ago"
+    ],
+    "dur": "35:17",
+    "views_tab": 185000
+   },
+   {
+    "id": "eib6GSYS4CQ",
+    "title": "ZAP! Electrifying Silvertone Radio and Safety Tips!",
+    "meta": [
+     "80K",
+     "7y ago"
+    ],
+    "dur": "23:00",
+    "views_tab": 80000
+   },
+   {
+    "id": "jKr3rdX9oXQ",
+    "title": "Electronic Repair- Stereo Audio Equalizer From The 1980's!",
+    "meta": [
+     "239K",
+     "7y ago"
+    ],
+    "dur": "57:26",
+    "views_tab": 239000
+   },
+   {
+    "id": "tUEkXAgqHFc",
+    "title": "Electronic Restoration- The Supreme Vedolyzer from 1939 (Part 2)",
+    "meta": [
+     "77K",
+     "7y ago"
+    ],
+    "dur": "26:04",
+    "views_tab": 77000
+   },
+   {
+    "id": "Ob-nkNTrvcc",
+    "title": "Signal Booster Amplifier- The TRIO RF Preselector Restoration!",
+    "meta": [
+     "136K",
+     "7y ago"
+    ],
+    "dur": "1:33:14",
+    "views_tab": 136000
+   }
+  ]
+ }
+}
