@@ -135,7 +135,7 @@ CENSUS_STRONG = re.compile(
 #     Home", "Keeps Homes Cool Without AC"), plus the technician's "no cool" and the outdoor "condenser". Added to the
 #     strong hits; the DEPENDENT test and CENSUS_EXCLUDE still run first.
 HOME_CLIMATE = re.compile(
-    r"\bcool(s|ed|ing)? (itself|themselves|homes?|houses?|rooms?|buildings?|the whole|their homes?|for (\$|free|pennies|nothing))|"
+    r"\bcool(s|ed|ing) (itself|themselves|homes?|houses?|rooms?|buildings?|the whole|their homes?|for (\$|free|pennies|nothing))|"
     r"\b(homes?|houses?|rooms?|buildings?|cabins?|apartments?|bedrooms?) (that )?(stays? cool|keeps? cool|cools?|heats? (itself|up)|"
     r"stays? warm|keeps? warm)\b|"
     r"\bbeats? (the )?(\d+ ?(°|degrees?) ?f? |summer |desert |extreme |brutal )?heat\b|"
@@ -148,7 +148,7 @@ HOME_CLIMATE = re.compile(
     r"\b(passive|natural|free|zero[- ]energy|ancient) cooling\b|\bno cool\b|"
     r"\bcondensers?\b(?! (mic|microphone|lens|tube|coil spring))")
 # Clear non-HVAC hits of the warmth words (check-round3.md part 5, row 1: "25 Cheap Meals ... Hot Summers").
-FOOD_EXCLUDE = re.compile(r"\bmeals?\b|\brecipes?\b|\bcanning\b")
+FOOD_EXCLUDE = re.compile(r"\bmeals?\b|\brecipes?\b|\bcanning\b|\bdrinks?\b|\blemonade\b|\bsmoothies?\b")
 
 
 # Bath, exhaust, attic and whole-house fans count (check-master.md step 3 scope); checked before the fan rule.
