@@ -33,6 +33,20 @@ from datetime import date, timedelta
 HERE = os.path.dirname(os.path.abspath(__file__))
 RAW = os.path.join(os.path.dirname(HERE), "raw")
 STUDY = os.path.dirname(os.path.dirname(HERE))
+
+
+def _load_round3(pattern, key="channel_id"):
+    """Round 3 helper outputs (types, sells), merged in by the main session 2026-10-26. Empty if not yet written."""
+    out = {}
+    for f in sorted(glob.glob(os.path.join(RAW, pattern))):
+        for r in csv.DictReader(open(f, encoding="utf-8")):
+            if r.get(key):
+                out[r[key]] = r
+    return out
+
+
+R3_TYPES = _load_round3("census-types-[ABC]-2026-10-26.csv")
+R3_SELLS = _load_round3("census-sells-2026-10-26.csv")
 CENSUS_DIR = os.path.join(RAW, "census-2026-10-26")
 PULL_DATE = date(2026, 10, 26)
 NEW_SINCE = date(2025, 10, 26)
@@ -938,8 +952,21 @@ def build_channel(d, mrow, about, ctype):
     row["hvac_longform_pulled"] = sum(1 for v in longs if v["hvac"])
     row["main_subniches"] = "; ".join(f"{k} ({c})" for k, c in sn.most_common(3))
     row["new_12m"], row["new_12m_basis"] = new12, new_basis
+    t3 = R3_TYPES.get(cid)
+    if t3 and t3.get("type"):
+        typ = t3["type"]
+        typ_src = "round 3 thumbnails (reading, confidence %s): %s" % (t3.get("confidence", ""), t3.get("type_basis", "")[:80])
     row["type"], row["type_source"] = typ, typ_src
-    row["sells"] = "to fill (round 3 helper)"
+    row["persona_name"] = (t3 or {}).get("persona_name", "")
+    row["claimed_background"] = (t3 or {}).get("claimed_background", "")
+    row["thumb_style_note"] = (t3 or {}).get("style_note", "")
+    s3 = R3_SELLS.get(cid)
+    if s3:
+        row["sells"] = s3.get("sells_categories") or "nothing found"
+        row["own_products"] = s3.get("own_products", "")
+        row["sells_source"] = "round 3 descriptions: " + (s3.get("source_video_ids", "") or "")
+    else:
+        row["sells"], row["own_products"], row["sells_source"] = "not checked", "", ""
     row["about_source"] = src_about or "not found"
     row["pulled"] = d.get("pulled", "")
     vrows = []
@@ -1008,8 +1035,8 @@ def write_md(rows, moves, hc, build_info):
     L.append("Built 2026-10-26 by `data/tools/census_build.py` (round 3 census-build helper) from the Videos-tab pulls of "
              "2026-10-26 (`data/raw/census-2026-10-26/`, logged out, Latest / Popular / Oldest sorts, up to ~120 videos "
              "each). Nothing committed or pushed. **Not yet re-checked by a second helper (working rule 3).** "
-             "The `type` and `sells` columns are being filled by other round 3 helpers; `type` here is carried forward "
-             "from round 2 where it existed (source in the CSV, provisional where marked).\n")
+             "`type` (tiers A-C) comes from the round 3 thumbnail helpers (`round3/types-A.md`, `-B`, `-C`; readings from 3-4 recent "
+             "thumbnails); tier D keeps the carried type (provisional). `sells` comes from `round3/sells.md` (2 descriptions per channel).\n")
     L.append("Full tables: `data/raw/census-channels-2026-10-26.csv` (every pulled channel, X included), "
              "`data/raw/census-videos-2026-10-26.csv` (every long-form video), `channels.csv` (tiers A-D).\n")
     L.append("## Method\n")
@@ -1070,14 +1097,14 @@ def write_md(rows, moves, hc, build_info):
     L.append(f"**DRIFT** (tier A whose newest 10 long-form hold 2 or fewer HVAC titles; flagged, kept A): {len(dr)}: "
              + ("; ".join(f"{r['name']} (newest 10: {r['hvac_newest10']}, latest 30: {r['hvac_latest30']})" for r in dr) or "none") + ".\n")
     keycols = ("| # | Channel | Subs | HVAC latest 30 | Lane | Flags | Baseline (rule, n) | Uploads 90 d | "
-               "Top video (views) | Main sub-niches | NEW_12M | Type (carried, provisional) |")
+               "Top video (views) | Main sub-niches | NEW_12M | Type (persona) | Sells |")
     for t in ("A", "B", "C", "D"):
         rr = sorted([r for r in rows if r["tier"] == t], key=lambda r: -subs_key(r))
         L.append(f"## Tier {t} ({len(rr):,} channels, by subscribers)\n")
-        L.append("Subs = Videos-tab header 2026-10-26 (rounded) unless the CSV says otherwise. Type and sells are being "
-                 "filled by round 3 helpers. Tier, HVAC marks, lanes and sub-niches are readings by rule.\n")
+        L.append("Subs = Videos-tab header 2026-10-26 (rounded) unless the CSV says otherwise. Type is a reading from thumbnails; "
+                 "sells from 2 descriptions. Tier, HVAC marks, lanes and sub-niches are readings by rule.\n")
         L.append(keycols)
-        L.append("|---:|---|---:|---|---|---|---|---:|---|---|---|---|")
+        L.append("|---:|---|---:|---|---|---|---|---:|---|---|---|---|---|")
         for i, r in enumerate(rr, 1):
             h = f"[@{r['handle'].lstrip('@')}]({r['link']})" if r["handle"] else f"[link]({r['link']})"
             top = (f"\"{md_escape(r['top1_title'])[:70]}\" ({r['top1_id']}, {fnum(r['top1_views'])})"
@@ -1086,7 +1113,9 @@ def write_md(rows, moves, hc, build_info):
             L.append(f"| {i} | {md_escape(r['name'])} {h} | {fnum(r['subs'])} | {r['hvac_latest30']} "
                      f"({'' if r['hvac_share_latest30'] == '' else round(100 * r['hvac_share_latest30'])}%) | "
                      f"{r['lane_tags'] or '-'} | {r['flags'] or '-'} | {base} | {r['uploads_90d']} | {top} | "
-                     f"{md_escape(r['main_subniches']) or '-'} | {r['new_12m']} | {r['type'] or '-'} |")
+                     f"{md_escape(r['main_subniches']) or '-'} | {r['new_12m']} | {r['type'] or '-'}"
+                     f"{(' (' + md_escape(r['persona_name']) + ')') if r.get('persona_name') else ''} | "
+                     f"{md_escape(r.get('sells', '') or '-')}{(': ' + md_escape(r['own_products'])[:60]) if r.get('own_products') else ''} |")
         L.append("")
     open(os.path.join(STUDY, "channels.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 

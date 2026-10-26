@@ -89,17 +89,16 @@ SUBNICHE_RULES = [
      r"repair|equipment|unit)|industrial|supermarket|restaurant|hotel|hospital|school building|\bptac"),
     ("trade: careers, business and tech life", "trade-facing", "trade",
      r"hvac (life|business|sales|school|career|careers|student|students|license|licensing|owner|owners|entrepreneur|"
-     r"marketing|branding|podcast|company owners?|apprentice|industry|job|jobs|interview)|day in the life|\bvlog\b|"
+     r"marketing|branding|podcast|company owners?|apprentice|job|jobs)\b|day in the life|day in my life|\bvlog\b|"
      r"apprentice|journeym|\bsalary|\bwages|get paid|how much (can|do|does) (a |an )?(hvac )?(tech|techs|technician)|"
      r"tech pay|\bpay per|sales (call|process|training|myth|tips|advice|manager|team|meeting)|\bclosers?\b|"
-     r"business owners?|#hvaclife|#hvacbusiness|#bluecollar|#hvacguy|women in hvac|ride ?along|along for the ride|"
-     r"\bpodcast|interview questions?|job interview|\bhiring\b|callbacks?|hvac trade|\bcustomers?\b|\bcustomers?\b.{0,20}\b(upset|difficult|angry|service)|de-?escalat|"
-     r"\bmy (first|last) (day|year|week)\b|quit(ting)? (my|the) (job|trade)|\bthe trade\b|\btradesm[ae]n|"
+     r"business owners?|#hvaclife|#hvacbusiness|women in hvac|ride ?along|along for the ride|"
+     r"\bpodcast|interview questions?|job interview|\bhiring\b|callbacks?|hvac trade|de-?escalat|"
+     r"quit(ting)? (my|the) (job|trade)|\bthe trade\b|\btradesm[ae]n|"
      r"\bcareer|\bburn ?out|mindset|recession|\bscal(e|ing) (your|a|my)\b|\bdealer meeting|\bexpo\b|\bahr\b|"
-     r"\bep(isode|\.)? ?\d|\bseason \d|\bsession \d|\blive\b.{0,10}\b(q ?& ?a|stream)|q ?& ?a|"
-     r"\bhvac (tech|technician)s?\b.{0,25}\b(life|vlog|pov|pay|day|work day|week|year)|\bpov\b|tool ?bag|"
+     r"\bhvac (tech|technician)s?\b.{0,25}\b(life|vlog|pov|pay|work day)\b|\bpov\b|tool ?bag|"
      r"bag (loadout|setup)|tool (review|haul|tour)|\bnew tools?\b|tools? (i use|every (hvac )?tech|for (hvac )?techs)|"
-     r"\bvan tour|work van|service van|\bcrew\b"),
+     r"\bvan tour|work van|service van|telemarket|get a job"),
     ("trade: technical training", "trade-facing", "trade",
      r"(hvac|hvacr|tech|technician|hands[- ]on|installation|service|refrigeration|online) training|training (video|class|"
      r"course|for|session|series)|practice test|\bexams?\b|exam prep|\bepa ?60[89]|\bceu|superheat|subcool|manifold|\bgauges?\b|wiring diagram|"
@@ -111,39 +110,42 @@ SUBNICHE_RULES = [
      r"\bfaults? codes?\b(?=.{0,20}(training|class))|\bclass\b|\blesson|lecture|course|\bschematic"),
     # 2. cross-cutting homeowner questions
     ("heat and power in an outage", "heat and power in an outage", "home",
-     r"outage|without power|no power\b|blackout|power (goes|went|is|was) out|"
+     r"outage|without power|no power\b(?! bills?)|blackout|power (goes|went|is|was) out|"
      r"(lose|losing|lost) power|power dies|grid[- ]down|\bgrid (fails|failure|goes|collapse)|\boff the grid\b|"
      r"generator|when the power|power cut|ice storm|winter storm|snow ?storm|\bstorm\b|hurricane|emergency heat(?! strip)|"
      r"emergency (heating|heater|warmth)|\bshtf|survive (a|the) (storm|ice storm|blizzard)"),
+    ("energy bills", "energy bills", "home",
+     r"\bbills?\b|cost(s|ing)? (to run|to operate|per (hour|day|week|month|year))|cost of running|running costs?|"
+     r"costs? (pennies (a|to|per)|less|nothing|\$?\d+(\.\d+)? ?(cents?|a (day|month|year)))|\bkwh\b|price cap|octopus|phantom|"
+     r"\btariffs?\b|electricity (prices?|costs?|usage|rates?)|power (usage|consumption)|\bwatts?\b|wattage|"
+     r"use(s)? (less|more) (electricity|energy|power)|\bsave(s|d)? (energy|on (your )?(heating|cooling|energy|"
+     r"electric\w*|utilit\w+|power|gas))|saving (energy|on (heating|cooling|energy|electric\w*))|"
+     r"(heating|cooling|energy|electric|electricity|power|gas|running) costs?|(power|utility|electric|energy|gas) "
+     r"compan(y|ies)|cost(s)? (you )?\$?\d+ (this|a|per|every) month|energy[- ]sav|cut (your )?(heating|cooling|energy)|lower (your )?(heating|cooling|"
+     r"energy|electric|utility)|cheaper (to run|than)|\butility\b|utilities|money[- ]saving|\bwasting (money|energy)|"
+     r"waste (money|energy)"),
     ("scams and upsells", P_BUY, "home",
      r"\bscam|rip(ped|s)?[- ]?off|\bupsell|\bconned|\bcon (job|artist)|gouge|gouging|overcharg|over-?charg|hack job|"
-     r"dishonest|\bfraud|crooked|shady|\bliars?\b|\blie(s|d)?\b|\blying\b|don'?t (fall for|get fooled|be fooled)|"
+     r"dishonest|\bfraud|crooked|shady|don'?t (fall for|get fooled|be fooled)|"
      r"(companies|contractors?|techs?|technicians|installers|salesm[ae]n|dealers?|hvac guys?|repairm[ae]n) "
      r"(don'?t|won'?t|never|hope|hate|lie|charge|tricks?|secretly|use|want|wish|will try|try)|"
      r"don'?t let (them|the|your|an?|any)|\btricks? (they|hvac|companies|contractors|techs)|second opinion|"
-     r"bad install|botched|installer (ruined|messed)|ruined (my|our|the)|\bunnecessary|"
-     r"(companies|contractors|techs|industry).{0,25}(make a living|make money|profit|rich|killed)|"
+     r"\b(they|companies|contractors|techs|salesm[ae]n|dealers) (lie|lied|lying)\b|\blies (they|about|hvac|"
+     r"contractors|companies)|bad install|botched|installer (ruined|messed)|ruined (my|our|the)|\bunnecessary|"
+     r"(companies|contractors|techs|industry).{0,25}(make a living|make money|profit|rich)|"
      r"\bdon'?t need (a |an )?(new|to replace)|what (they|your (tech|contractor|installer|salesman)) (won'?t|didn'?t|don'?t)"),
-    ("energy bills", "energy bills", "home",
-     r"\bbills?\b|cost(s|ing)? (to run|to operate|per (hour|day|week|month|year))|cost of running|running costs?|"
-     r"costs? (pennies|less|nothing|\$?\d+(\.\d+)? ?(cents?|a (day|month|year)))|\bkwh\b|price cap|octopus|phantom|"
-     r"\btariffs?\b|electricity (prices?|costs?|usage|rates?)|power (usage|consumption)|\bwatts?\b|wattage|"
-     r"use(s)? (less|more) (electricity|energy|power)|\bsave(s|d)? (\$|money|energy|on|you|hundreds|thousands|big)|"
-     r"saving (money|energy|on)|energy[- ]sav|cut (your )?(heating|cooling|energy)|lower (your )?(heating|cooling|"
-     r"energy|electric|utility)|cheaper (to run|than)|\butility\b|utilities|money[- ]saving|\bwasting (money|energy)|"
-     r"waste (money|energy)"),
     ("replacement cost and quotes", P_BUY, "home",
      r"\bquotes?\b|how much (does|do|is|should|will|did|it|for|to|are)|\bfinanc|\brebates?\b|tax credits?|"
-     r"\bwarrant(y|ies)|\binvoice|\bestimates?\b|\bworth the (money|price|cost|investment)|"
-     r"\b(costs?|price[sd]?|pricing|paid|pay|paying|charged?)\b.{0,30}\b(ac|a/c|air ?con\w*|furnace|hvac|system|"
+     r"\bwarrant(y|ies)|\binvoice|\bestimates?\b|"
+     r"\b(costs?|price[sd]?|pricing|paid|pay|paying)\b.{0,30}\b(ac|a/c|air ?con\w*|furnace|hvac|system|"
      r"heat pump|mini[ -]?split|boiler|install\w*|replace\w*|repair|unit|service call|tune[- ]?up|condenser|"
      r"new|equipment|contractor|tech)s?\b|\b(ac|a/c|furnace|hvac|system|heat pump|mini[ -]?split|boiler|"
      r"install\w*|replace\w*|repair|unit|equipment)s? (costs?|prices?|pricing|quotes?)\b"),
     ("brand verdicts", "brand verdicts", "home",
-     r"\bbrands?\b|worth buying|to avoid|never buy|don'?t buy|which (one|model|brand|is better|should)|"
+     r"\bbrands?\b|worth buying|worth (the|your) (money|price|investment)|to avoid|never buy|don'?t buy|which (one|model|brand|is better|should)|"
      r"^(?!.*\breview\b).*\b(best|worst|top \d+|\d+ best) (\w+ ){0,3}(ac|a/c|air conditioners?|heat pumps?|furnaces?|mini[ -]?splits?|"
      r"hvac|thermostats?|boilers?|units?|systems?|dehumidifiers?|purifiers?|heaters?|space heaters?|window|portable|"
-     r"filters?)\b(?! (compressor|capacitor|replacement|repair|install\w*|video|tips?|settings?|temperature|way|mode|"
+     r"wood stoves?|stoves?|fans?|blankets?)\b(?! (compressor|capacitor|replacement|repair|install\w*|video|tips?|settings?|temperature|way|mode|"
      r"hack|trick|maintenance|cleaning|coil|motor|fan|part|parts))|\b(carrier|trane|lennox|goodman|rheem|ruud|york|amana|daikin|bryant|american standard|mitsubishi|"
      r"fujitsu|\blg\b|gree|bosch|mr ?cool|pioneer|senville|midea|payne|heil|tempstar|coleman|maytag|frigidaire|"
      r"friedrich|haier|ge|toshiba|samsung|panasonic|aciq|daikin)\b.{0,40}\b(vs\.?|versus|good (and|or|&) bad|"
@@ -163,13 +165,13 @@ SUBNICHE_RULES = [
      r"sensor|switch|relay|valve))|new (hvac|ac|a/c) system|(system|unit|equipment|furnace|ac|a/c|heat pump) change ?out|\bupgrad(e|ed|ing) (your|my|the|to)"),
     ("smells and noises", NEWP, "home",
      r"\bsmell|odou?r|stink|\bnois(e|y|es)\b|buzz|humm(ing|s)?\b|\bbang(ing|s)?\b|click(ing|s)?\b|squeal|whistl|"
-     r"rattl|grind(ing)?\b|\bloud\b|rotten egg|dirty sock|musty|sound(s|ing)? like|\bscreech|\bsqueak|\bpopping\b|"
+     r"rattl|\bgrinding\b|\bloud\b|rotten egg|dirty sock|musty|sound(s|ing)? like|\bscreech|\bsqueak|\bpopping\b|"
      r"\bknock(ing)?\b|\bthump"),
     # 3. distinct appliance families
     ("evaporative coolers", NEWP, "home",
      r"swamp cooler|evaporative|\bair coolers?\b|\bcooler (fan|unit)|desert cooler|hessaire|\bportacool"),
     ("cooling without AC (tricks, DIY coolers)", NEWP, "home",
-     r"without (an? )?(ac|a/c|air ?con\w*)|(diy|homemade|crafting|make|making|build|building) (\w+ ){0,3}(ac|a/c|"
+     r"without (an? )?(ac|a/c|air ?con\w*)|((diy|homemade|crafting) (\w+ ){0,3}|(make|making|build|building) (an? |your own |my own )(\w+ ){0,2})(ac|a/c|"
      r"air ?con\w*|cooler)\b|cools? (your|the|a|my) (home|house|room)|\bno (ac|a/c|air conditioning)\b|diy (ac|a/c|air ?con\w*|air cooler|cooler|"
      r"swamp)|homemade (ac|a/c|air ?con\w*|cooler)|\bice (fan|cooler|bucket|block|chest)|bucket (ac|cooler|air)|"
      r"(keep|keeping|stay|staying) (\w+ ){0,3}cool\b|cool (a|your|the|my) (room|house|home|bedroom|tent|garage) "
@@ -247,7 +249,8 @@ SUBNICHE_RULES = [
      r"\bblinds\b|\bwindows?\b|\bseal(ing|ed|s)?\b|passive ?house|\broof\b|\bshades?\b|energy audit|blower door|"
      r"thermal (bridg|imag|camera)|bubble wrap|door sweep|cold air (coming|leaking|getting)|heat loss|"
      r"(keep|keeping) (the )?(heat|cold|warmth|warm air|cool air) (in|out)|r-?value|cellulose|fiberglass|"
-     r"radiant barrier|\bexterior wall|\bwalls?\b(?= .{0,15}(cold|warm|heat))|\bdoors?\b"),
+     r"radiant barrier|energy[- ]efficient (home|house)|passiv(e )?haus|hers (score|rating)|home energy (audit|score|"
+     r"efficiency|monitor)|\bexterior wall|\bwalls?\b(?= .{0,15}(cold|warm|heat))|\bdoors?\b"),
     # 5. heat-system families
     ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
      r"candle|terracotta|clay pot|flower ?pot|rocket (stove|heater|mass)|free (heat|heating|energy|fuel|warmth)|"
@@ -273,26 +276,21 @@ SUBNICHE_RULES = [
     ("space heaters (electric)", P_OFF, "home",
      r"space heaters?|electric heaters?|oil[- ]filled|infrared heater|panel heaters?|radiant heaters?|ceramic heater|"
      r"storage heaters?|electric (radiators?|heating|heat\b|fireplace)|"
-     r"^(?!.*\b(carrier|trane|lennox|goodman|rheem|ruud|york|bryant|amana|coleman|payne|heil|tempstar)\b).*\bheaters?\b|\bconvector|\bdelonghi|\bdyson"),
+     r"^(?!.*\b(carrier|trane|lennox|goodman|rheem|ruud|bryant|amana|coleman|payne|heil|tempstar)\b).*\bheaters?\b|\bconvector|\bdelonghi|\bdyson"),
     ("staying warm without heating (body, bed, clothes)", P_OFF, "home",
      r"(keep|keeps|keeping|stay|staying|sleep|sleeping) (\w+ ){0,3}warm|warm (bed|blanket|feet|hands)|hand ?warmers?|"
      r"blankets?|sleeping bags?|heated (blanket|vest|jacket|clothing|socks|throw|mattress|pad)|\blayers|"
      r"thermal underwear|hot water bottle|freezing nights?|without (heat|heating)|\bcold (night|nights)\b|"
-     r"warm(er|est)? (room|bedroom|house|home)|\bbed\b|\bbedroom\b"),
+     r"warm(er|est)? (room|bedroom|house|home|bed)|bed warm"),
     ("garage, shop and outbuildings", NEWP, "home",
      r"garage|workshop|\bshop\b|\bbarn\b|greenhouse|chicken coop|\bcoop\b|\bshed\b|outbuilding|pole barn|"
      r"tiny (house|home)|\bcabin\b|container home|shipping container|\byurt"),
     ("furnaces", "furnaces", "home",
-     r"furnace|pilot light|forced[- ]air|\bburner\b|heat exchanger|\bgas heat\b|\bgas fired\b|\bhigh efficiency\b"),
+     r"furnace|lennox pulse|pilot light|forced[- ]air|\bburner\b|heat exchanger|\bgas heat\b|\bgas fired\b|\bhigh efficiency\b"),
     ("heating fuel and fuel choice", "heating fuel and fuel choice", "home",
      r"\bpropane\b|natural gas|\bfuel\b|gas vs|vs\.? gas|gas or electric|electric vs\.? gas|\blpg\b|"
      r"cheapest (way|heat|heating|to heat|form)|\bgas (prices?|supply|ban|line|meter|company)|\bgas\b"),
-    # 6. broad topics, then catch-alls. The old-ways / trick words only decide when no equipment or topic did.
-    ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
-     r"\bbottles?\b|invention|\bgenius|ingenious|\btricks?\b|\bhacks?\b|\bclever\b|\bforgotten\b|"
-     r"\bold[- ]?(time|fashioned|school|timers?|ways?)\b|\bamish\b|\bgrand(ma|pa|mother|father|parents)|"
-     r"depression[- ]era|\bpioneers?\b|\bancient\b|\bvictorian\b|\b1[89]00s\b|\bmountain men\b|\bsoviet\b|"
-     r"\bmiracle\b|\bbanned\b|\bsecrets?\b|\bhomestead|\boff[- ]grid\b|\bfree\b"),
+    # 6. broad topics, then catch-alls.
     ("seasonal maintenance", "seasonal maintenance", "home",
      r"maintenance|maintain|tune[- ]?up|before (winter|summer|you turn|the first|heating season|cooling season|it gets|"
      r"the cold|the heat|fall|spring)|checklist|\bspring\b|\bfall\b|\bautumn\b|\bwinteriz|summeriz|first freeze|"
@@ -304,15 +302,27 @@ SUBNICHE_RULES = [
      r"\ba/?c\b|air ?con\w*|central air|condenser|compressor|blowing (warm|hot)|not cooling|won'?t cool|"
      r"outdoor unit|outside unit|\bhvac unit\b|\bcooling\b|\bcools?\b|split system|\bac'?s\b"),
     ("error codes and troubleshooting", NEWP, "home",
-     r"troubleshoot|diagnos|error codes?|fault codes?|\bcodes?\b|blink|flashing|\b[a-z]\d{1,2}\b (code|error)|"
+     r"troubleshoot|diagnos|error codes?|fault codes?|\bfaults?\b|lockout|\bcodes?\b|blink|flashing|\b[a-z]\d{1,2}\b (code|error)|"
      r"\berror\b|not working|won'?t (turn|start|come)|stopped working|\bfix(ed|ing|es)?\b|\brepair"),
     ("adjacent: solar, batteries and home energy systems", "adjacent: solar and home energy", "adjacent",
      r"\bsolar|powerwall|home batter|\bbatter(y|ies)\b|\bev\b|electric (car|vehicle)|\binverter\b(?! (ac|mini|heat))|"
      r"net zero|zero carbon|\benergy (system|independence|storage)|hydrogen|\bnuclear\b|wind turbine"),
+    ("trade: careers, business and tech life", "trade-facing", "trade",
+     r"#bluecollar|#hvacguy|#hvac(contractor|tech|technician|service)|\bcustomers?\b|\bep(isode|\.)? ?\d|\bseason \d|"
+     r"\bsession \d|\blive\b.{0,10}\b(q ?& ?a|stream)|q ?& ?a|\bcrew\b|\bmy (first|last) (day|year|week)\b|"
+     r"\bhvac (tech|technician)s?\b"),
+    ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
+     r"(\bbottles?\b|invention|\bgenius|ingenious|\btricks?\b|\bhacks?\b|\bclever\b|\bforgotten\b|"
+     r"\bold[- ]?(time|fashioned|school|timers?|ways?)\b|\bamish\b|\bgrand(ma|pa|mother|father|parents)|"
+     r"depression[- ]era|\bpioneers?\b|\bancient\b|\bvictorian\b|\b1[89]00s\b|\bmountain men\b|\bsoviet\b|"
+     r"\bmiracle\b|\bbanned\b|\bsecrets?\b|\bhomestead|\boff[- ]grid\b|\bfree\b)"
+     r"(?=.*\b(heat\w*|warm\w*|winter|cold|freez\w*|stoves?|fire|chill\w*|frost\w*)\b)"),
     ("general: HVAC basics and how it works", NEWP, "general",
      r"how (does |do |a |an |your |the )?(hvac|heating|cooling|ac|a/c|system|it)( system)? works?|hvac (basics|101|"
      r"explained|components)|explained|how .{0,30} works?\b|\bbasics\b"),
-    ("general: HVAC, topic not named", NEWP, "general", r"\bhvac"),
+    ("general: HVAC, topic not named", NEWP, "general",
+     r"\bhvac|\b(carrier|trane|lennox|goodman|rheem|ruud|york|amana|daikin|bryant|american standard|mitsubishi|"
+     r"fujitsu|payne|heil|tempstar|bosch|aciq)\b"),
     ("general: no heat (equipment not named)", NEWP, "general",
      r"no heat|not heating|heat(er|ing)? (is )?not working|won'?t heat|no (warm|hot) air|blowing cold|"
      r"house (is|so|too|feels) cold"),

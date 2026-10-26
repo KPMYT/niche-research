@@ -183,6 +183,8 @@ def order_list(cid):
                 pre.append(x)
             seq = pre + seq
             complete = True
+        else:                                          # no overlap: Oldest list, then a gap, then the Latest list
+            seq = old + [{"id": "__GAP__"}] + seq
     return seq, complete
 
 
@@ -216,3 +218,158 @@ if __name__ == "__main__" and sys.argv[1] == "select":
         print(i, r["tier"], r["name"], r["_status"], r["subs"], m["lf_since"], m["lf_views_since"], m["views_90d"], m["best_views"],
               round(r["_score"], 1), r["_n3x"], r["lane_tags"])
     print(len(ids), "ids")
+
+
+# =====================================================================================================================
+# build: CSV, exact JSON, markdown table parts
+# =====================================================================================================================
+LANE_OF_TAG = {"outage": "outage and winter prep", "survival": "outage and winter prep", "generator": "outage and winter prep",
+               "off-grid": "off-grid, old ways and free heat", "old-ways": "off-grid, old ways and free heat",
+               "diy-stove-craft": "off-grid, old ways and free heat", "solar": "off-grid, old ways and free heat",
+               "frugal": "bills and frugal hacks", "energy": "bills and frugal hacks", "product-lists": "product lists"}
+
+
+def lane(r):
+    """Lane by rule (a reading): first (most common) lane tag; else brand verdict if that is the top sub-niche of an
+    A channel; else 'HVAC repair and explainers' for tier A, 'mixed / other main topic' for B and C."""
+    tags = [t for t in r["lane_tags"].split(";") if t]
+    if tags:
+        return LANE_OF_TAG.get(tags[0], tags[0])
+    if r["tier"] == "A":
+        if r["main_subniches"].startswith("brand verdicts"):
+            return "HVAC brand verdicts"
+        return "HVAC repair and explainers"
+    return "mixed / other main topic"
+
+
+def load_exact(p):
+    ex = {}
+    for l in open(p):
+        if l.strip():
+            d = json.loads(l)
+            if "error" not in d:
+                ex[d["id"]] = d
+    return ex
+
+
+HOOK_RX = r"banned|illegal|hid(e|den|ing)?\b|buried|bury|don'?t want you|won'?t tell|nobody tells|secret|1% of|they (don'?t|won'?t)|hope you|exterminators|mechanics want|monopol"
+
+
+def tmpl(title):
+    """Title template of a takeoff video (a reading by rule; first match wins). Order matters."""
+    t = title.lower()
+    rules = [
+        ("'(The X Way)' / Amish tradition key", r"\(the \w+ way\)|\bamish\b"),
+        ("'Before you X, do this (or pay for it)'", r"^before you|or pay (for it|the price)"),
+        ("'N [store] items for winter / a blackout'", r"^\d+ .*(dollar tree|walmart|tractor supply|tesco)"),
+        ("'I tested X' / 'Can X really ...? I tried it'", r"^i tested|i (actually )?tried it|^will my|^can (a|an|this)"),
+        ("'The only N X worth buying'", r"only \d+ .*worth|brands? (to avoid|worth)"),
+        ("'Do this and your X will last N years'", r"(will|can) last \d+ years|last(s)? \d+ years if"),
+        ("'Why ...?' expose ('Why did we stop X?', 'Why X is destroying Y')", r"^why (did|do|don'?t|is|are|aren'?t|the|your|installing)"),
+        ("insider secret ('only 1% of techs know', 'the loophole')", r"1% of|loophole|only known"),
+        ("'N X worth a fortune' (collectibles)", r"worth a fortune"),
+        ("how-to", r"^how to"),
+        ("'This $X thing does Y (forever / for free / no power)'", r"^(this|these|the) (\$|\d|\"|[a-z\-]+ )?.*(cools?|heats?|keeps?|beats?|pulls?|kills?|makes?|purif|repels?|freezes|costs?|cuts?)"),
+        ("'N X mistakes / habits / dangers / things'", r"^(the )?\d+ .*(mistakes|habits|dangers|things|signs|fees|settings|woods)"),
+        ("'N [cheap / old / forgotten] tricks / ways / sources'", r"^(the )?\d+ .*(tricks|ways|sources|items|hacks|recipes|methods|designs|heaters)"),
+        ("'Doing this will ...' / 'Do THIS ...' command", r"^(do|doing|stop|kill|turn|mix|attach|connecting|\$\d+ liquid|1 cup)"),
+        ("'DIY build' / 'turning X into Y'", r"diy|turning|build|homemade"),
+        ("first-person job story", r"^(my|they|single|i |we )"),
+    ]
+    for name, rx in rules:
+        if re.search(rx, t):
+            return name
+    return "other"
+
+
+def build(exact_path, copies_path):
+    ex = load_exact(exact_path)
+    rows = []
+    for rank, r in enumerate(NEW, 1):
+        m = r["_m"]
+        ty = types.get(r["channel_id"], {})
+        sl = sells.get(r["channel_id"], {})
+        best = m["best"]
+        row = {"rank": rank, "tier": r["tier"], "name": r["name"].strip(), "handle": r["handle"], "channel_id": r["channel_id"],
+               "link": r["link"], "start_status": r["_status"], "start_basis": r["_basis"], "start_date_approx": r["_start"],
+               "joined": r["joined"], "type": ty.get("type") or r["type"] or "not found",
+               "type_source": ("census-types-%s-2026-10-26.csv" % r["tier"]) if ty else (r["type_source"] or "not found"),
+               "persona_name": ty.get("persona_name", "") or "", "claimed_background": (ty.get("claimed_background", "") or "")[:300],
+               "subs": m["subs"] if m["subs"] is not None else "not found", "total_views_about": r["total_views"],
+               "lf_videos_since_start": m["lf_since"], "lf_views_since_start": m["lf_views_since"], "views_90d_floor": m["views_90d"],
+               "best_video_views_tab": m["best_views"], "best_video_id": best["video_id"] if best else "",
+               "best_video_title": best["title"] if best else "",
+               "hvac_lf_since_start": m["hvac_lf_since"], "hvac_lf_views_since_start": m["hvac_views_since"],
+               "hvac_view_share": round(m["hvac_views_since"] / m["lf_views_since"], 3) if m["lf_views_since"] else "",
+               "best_hvac_video_id": m["hvac_best"]["video_id"] if m["hvac_best"] else "",
+               "best_hvac_video_title": m["hvac_best"]["title"] if m["hvac_best"] else "",
+               "best_hvac_video_views_tab": num(m["hvac_best"]["views_tab"]) if m["hvac_best"] else "",
+               "lf_per_month_since_start": round(m["pace"], 1), "uploads_90d_census": r["uploads_90d"],
+               "ratio_lf_views": round(r["_ratio"]["lf_views_since"], 2), "ratio_views_90d": round(r["_ratio"]["views_90d"], 2),
+               "ratio_subs": round(r["_ratio"]["subs"], 2), "ratio_best": round(r["_ratio"]["best_views"], 2),
+               "score": round(r["_score"], 2), "metrics_at_3x": r["_n3x"], "well_above": "yes" if r["_well_above"] else "no",
+               "lane_rule": lane(r), "lane_tags": r["lane_tags"], "hvac_latest30": r["hvac_latest30"], "main_subniches": r["main_subniches"],
+               "sells": sl.get("sells_categories", "not found"), "own_products": sl.get("own_products", "not found")}
+        # takeoff detail for the top 25
+        if rank <= TOP_N:
+            since = {v["video_id"]: v for v in m["since"]}
+            pulled = [ex[i] for i in since if i in ex]
+            top3 = sorted(pulled, key=lambda e: -(e["views"] or 0))[:3]
+            for k, e in enumerate(top3, 1):
+                row[f"takeoff{k}_id"] = e["id"]; row[f"takeoff{k}_title"] = e["title"]
+                row[f"takeoff{k}_views_exact"] = e["views"]; row[f"takeoff{k}_date_exact"] = e["date"]
+                row[f"takeoff{k}_template"] = tmpl(e["title"])
+                row[f"takeoff{k}_hidden_truth_hook"] = "yes" if re.search(HOOK_RX, e["title"].lower()) else "no"
+                row[f"takeoff{k}_hvac"] = since[e["id"]]["is_hvac"]
+            seq, complete = order_list(r["channel_id"])
+            seq_ids = [x["id"] for x in seq]
+            hits = sorted([e for e in pulled if (e["views"] or 0) >= HIT], key=lambda e: (e["date"], seq_ids.index(e["id"]) if e["id"] in seq_ids else 0))
+            fl = first_longform(r)
+            fle = ex.get(fl["video_id"]) if fl else None
+            row["first_lf_id"] = fl["video_id"] if fl else ""
+            row["first_lf_date_exact"] = fle["date"] if fle else "not found"
+            if fle:
+                months = max((PULL - date.fromisoformat(fle["date"])).days / 30.44, 0.5)
+                row["lf_per_month_since_first_lf"] = round(m["lf_since"] / months, 1)
+            if hits:
+                h = hits[0]
+                row["first_hit_id"] = h["id"]; row["first_hit_title"] = h["title"]
+                row["first_hit_views_exact"] = h["views"]; row["first_hit_date_exact"] = h["date"]; row["first_hit_month"] = h["date"][:7]
+                i0 = seq_ids.index(fl["video_id"]) if fl and fl["video_id"] in seq_ids else None
+                ih = seq_ids.index(h["id"]) if h["id"] in seq_ids else None
+                if i0 is not None and ih is not None and "__GAP__" not in seq_ids[i0:ih]:
+                    part = seq[i0:ih]
+                    row["videos_before_first_hit_all"] = len(part)
+                    row["lf_before_first_hit"] = sum(1 for x in part if x["id"] in since)
+                    row["order_basis"] = "Videos tab order (Latest%s), 2026-10-26" % (" + Oldest" if not ch[r["channel_id"]]["latest_list_complete"] == "yes" else "")
+                else:
+                    row["videos_before_first_hit_all"] = "not found"; row["lf_before_first_hit"] = "not found"
+                    row["order_basis"] = "first hit or first video outside the pulled order (gap)"
+                if fle:
+                    row["days_first_lf_to_first_hit"] = (date.fromisoformat(h["date"]) - date.fromisoformat(fle["date"])).days
+            else:
+                row["first_hit_id"] = "none (no long-form video at 100,000+)"
+        rows.append(row)
+    cols = []
+    for rr in rows:
+        for k in rr:
+            if k not in cols:
+                cols.append(k)
+    out_csv = os.path.join(RAW, "new-channels-2026-10-26.csv")
+    with open(out_csv, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for rr in rows:
+            w.writerow(rr)
+    copies = json.load(open(copies_path))
+    out_json = os.path.join(RAW, "new-channels-exact-2026-10-26.json")
+    json.dump({"pulled": "2026-10-26 (innertube /next, logged out; /watch is blocked from the cloud)",
+               "tool": "data/tools/vid_next_batch.py",
+               "videos": sorted(ex.values(), key=lambda e: e["id"]),
+               "copycat_matches": copies}, open(out_json, "w"), indent=1, ensure_ascii=False)
+    print("wrote", out_csv, len(rows), "rows;", out_json, len(ex), "videos")
+    return rows, ex, copies
+
+
+if __name__ == "__main__" and sys.argv[1] == "build":
+    build(sys.argv[2], sys.argv[3])
