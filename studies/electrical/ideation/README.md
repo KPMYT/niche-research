@@ -15,5 +15,13 @@ Ideation built on this study (`../CONCLUSIONS.md`). Channel-neutral while the ch
 | `recent-formats.csv` | 33 recent winning title formats in this niche (R1-R33), each with its proof video. |
 | `titles-50.csv` | 50 titles: a measured topic in a recent winning format, with heat and format source. |
 | `titles-50.html` | The same as a page, hottest topics first (published privately: https://claude.ai/artifact/3QAKWSMampn4ai4pycKAh9). Built by `../data/tools/build_titles_page.py`. |
+| `heat-judged-300k.csv` | A helper's on-topic judgements for the 376 videos of 300K+ not yet judged. |
+| `channel-types.csv` | 150 channels typed real / faceless / AI persona / unclear by two helpers (NexLev check_faceless_channel). |
+| `proof-candidates.json` | Every on-topic 300K+ video per topic, plus the sources: the input to the proof check. |
+| `topic-proof.csv` | The operator's rule (300K+ faceless or 1M+ real) per topic: proven or not, the biggest proof and the count. Built by `../data/tools/topic_proof.py`. |
+| `proven-formats.csv` | Formats whose proof clears the same bar, recent winners (P codes) plus bank formats. |
+| `silver-cymbal-copies.csv` | Silver Cymbal's 1M+ electrical videos with lightly altered titles (operator, 2026-10-26). |
+| `titles-50-v2.csv` | The 50 titles rebuilt on proven topics and proven formats (version 1 kept as `titles-50.csv`). |
+| `round-2.html` | Round 2: the kept round-1 ideas (1, 2, 7, 12, 14, 29, 30, 31, 33), the Silver Cymbal copies and the 50 v2 titles, each with topic proof and heat (published privately: https://claude.ai/artifact/Mxf5cotJEuSLjDFnWAtdL9). Built by `../data/tools/build_round2_page.py`. |
 
 Not yet: the operator's picks, the ideation skill, the base ideation plan and the thumbnail plan (on the operator's call).
