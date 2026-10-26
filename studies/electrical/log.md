@@ -150,3 +150,15 @@ Not changed (reading or design): 67 channels in the top 100 or recent lists aren
 ## Handover (2026-10-26)
 
 The operator: "i have read none of this yet. chat context is too large, so we do a handover and you explain and give me everything there". Wrote `REPORT-2026-10-26.md` (the full report in plain words, with the 4 questions; two figures corrected against `format-map.csv` before saving: mistakes titles have 28 videos over 1M, and the tests example is a counted video). Rewrote the electrical section of `SESSION-HANDOVER.md` so the next chat walks the operator through the report, then merged the branch into `main`.
+
+## Walkthrough with the operator (2026-10-26, chat `claude/epic-maxwell-ty7jnr`)
+
+**Correction to the report (section 2):** the "real inspection walkthroughs" row (39 videos, 39K typical) counted only one helper's label. With both labels (`other:inspection-walk` 39 + `other:inspection-walkthrough` 34, from `data/merged/videos-with-multiples.csv`): 73 videos, typical 20,317, 0 over 1M, 19 over 100K. The "NEVER" lists checked the same way: 143 videos, typical 225, 1 over 1M, 5 over 100K (matches the report). The report file is left as written; this entry supersedes the figure. Question 2's suggestion (retired electrical inspector) leaned on the 39K figure.
+
+**Operator on title shapes (2026-10-26):**
+- Tests and demonstrations: "we cannot really do tests and demonstrations. we can take their topics and apply them into a different format or reword slightly. but we cannot do exact demonstrations. WE STILL TAKE THE BEST TOPICS"
+- How-to: "how to is good"
+- "Why does X keep doing Y": "why does x keep doing y is good"
+- Real inspections and real stories: "real inspections real stories wont work"
+- Mistakes lists and "this is dangerous": "work but obviuosly high competition"
+- "NEVER leave plugged in" lists: "we dont really want to proceed for now"
