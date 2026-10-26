@@ -1,0 +1,178 @@
+<meta charset="utf-8">
+<title>HVAC Thumbnail Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: a field guide. Summary table first, then one shelf per thumbnail style, then each channel's house style. */
+:root {
+  --bg: #f3f5f6; --panel: #ffffff; --fg: #1c2328; --muted: #5d6a73; --line: #d5dce0;
+  --accent: #b5562a; --accent-soft: #f5e3d9; --cool: #2f6d8c;
+  --display: "Barlow Condensed", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --body: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121719; --panel: #1a2125; --fg: #e4eaed; --muted: #95a3ab; --line: #2c363c;
+  --accent: #e08757; --accent-soft: #3a261c; --cool: #7fb6d1; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121719; --panel: #1a2125; --fg: #e4eaed; --muted: #95a3ab; --line: #2c363c;
+  --accent: #e08757; --accent-soft: #3a261c; --cool: #7fb6d1; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1240px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { font-family: var(--display); font-weight: 700; letter-spacing: .01em; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); line-height: 1; text-transform: uppercase; }
+h2 { font-size: 1.9rem; text-transform: uppercase; }
+h3 { font-size: 1.35rem; }
+.lede { max-width: 68ch; color: var(--muted); margin: 10px 0 0; }
+.plate { display: inline-flex; gap: 14px; flex-wrap: wrap; margin-top: 16px; font-family: var(--mono); font-size: 12px;
+  text-transform: uppercase; letter-spacing: .06em; color: var(--muted); border: 1px solid var(--line); padding: 8px 12px; border-radius: 3px; background: var(--panel); }
+.plate b { color: var(--fg); font-weight: 500; }
+section { margin-top: 40px; display: grid; gap: 14px; }
+.tablebox { overflow-x: auto; border: 1px solid var(--line); border-radius: 4px; background: var(--panel); }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+th:first-child, td:first-child { text-align: left; white-space: normal; min-width: 210px; }
+th { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 500; }
+td a { color: var(--fg); text-decoration: none; border-bottom: 1px dashed var(--muted); }
+td a:hover, td a:focus-visible { color: var(--accent); border-color: var(--accent); }
+.bar { display: inline-block; height: 8px; background: var(--accent); border-radius: 1px; vertical-align: middle; margin-left: 6px; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; position: sticky; top: env(safe-area-inset-top, 0px);
+  background: var(--bg); padding-block: 10px; z-index: 5; border-bottom: 1px solid var(--line); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.controls span { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-right: 2px; }
+button.chip { font: inherit; font-size: 13px; padding: 5px 11px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--fg); cursor: pointer; }
+button.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--panel); }
+button.chip:focus-visible { outline: 2px solid var(--cool); outline-offset: 2px; }
+.sep { width: 1px; height: 22px; background: var(--line); margin: 0 6px; }
+.shelf { display: grid; gap: 10px; padding-top: 18px; }
+.shelfhead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; }
+.shelfhead .meta { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 12px; }
+.card { display: grid; gap: 5px; align-content: start; min-width: 0; }
+.card a.thumb { display: block; aspect-ratio: 16 / 9; max-width: 100%; border-radius: 3px; overflow: hidden; background: var(--line); }
+.card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.card .stat { font-family: var(--mono); font-size: 12px; display: flex; gap: 10px; flex-wrap: wrap; }
+.card .stat b { font-weight: 500; color: var(--accent); }
+.card .ttl { font-size: 13px; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card .ch { font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+.card .words { font-size: 12px; color: var(--cool); overflow-wrap: anywhere; }
+.tags { display: flex; gap: 4px; flex-wrap: wrap; }
+.tag { font-family: var(--mono); font-size: 10px; text-transform: uppercase; letter-spacing: .05em; padding: 1px 6px; border-radius: 2px; background: var(--accent-soft); color: var(--fg); }
+.chan { display: grid; gap: 8px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.chan .row { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
+@media (max-width: 640px) { .chan .row { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.chan .name { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
+.chan .name small { font-family: var(--mono); font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.note { color: var(--muted); font-size: 13px; max-width: 80ch; }
+.narrow { display: none; }
+@media (max-width: 640px) { .narrow { display: block; } }
+.empty { color: var(--muted); font-size: 13px; }
+@media (prefers-reduced-motion: no-preference) { .card a.thumb img { transition: transform .2s ease; } .card a.thumb:hover img { transform: scale(1.04); } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>HVAC Thumbnail Atlas</h1>
+    <p class="lede">Thumbnails from the HVAC study for Roger the HVAC Guy: the all-time top 100 long-form HVAC videos, the recent winners (last 90 days and last 12 months), and the top 5 videos of 57 main channels. Each is filed under one style group. Views and the multiple (views divided by that channel's typical video) are shown under each one. Style labels are readings by eye, not measurements.</p>
+    <div class="plate" id="plate"></div>
+  </header>
+
+  <section aria-labelledby="sum">
+    <h2 id="sum">Which styles go with the biggest videos</h2>
+    <p class="note narrow">On a phone, swipe the table sideways to see every column.</p>
+    <p class="note">The top-10, top-25 and top-100 columns count the all-time top 100 by views. A style's median views mix all four lists, so compare it within a list using the filter below. The all-time list leans on real photos because most of it is years old; the recent lists lean on AI images.</p>
+    <div class="tablebox"><table id="sumtable"><thead><tr>
+      <th>Style group</th><th>Thumbnails</th><th>Median views</th><th>Top 10</th><th>Top 25</th><th>Top 100</th><th>Last 12 months</th><th>Last 90 days</th><th>Channel top 5</th>
+    </tr></thead><tbody></tbody></table></div>
+  </section>
+
+  <section aria-labelledby="shelves">
+    <h2 id="shelves">The styles</h2>
+    <div class="controls" role="toolbar" aria-label="Filter and sort">
+      <span>Show</span>
+      <button class="chip" data-set="all" aria-pressed="true">All</button>
+      <button class="chip" data-set="top100" aria-pressed="false">All-time top 100</button>
+      <button class="chip" data-set="r12" aria-pressed="false">Last 12 months</button>
+      <button class="chip" data-set="r90" aria-pressed="false">Last 90 days</button>
+      <button class="chip" data-set="ch5" aria-pressed="false">Channel top 5</button>
+      <i class="sep" aria-hidden="true"></i>
+      <span>Sort</span>
+      <button class="chip" data-sort="v" aria-pressed="true">Views</button>
+      <button class="chip" data-sort="m" aria-pressed="false">Multiple</button>
+    </div>
+    <div id="groups"></div>
+  </section>
+
+  <section aria-labelledby="house">
+    <h2 id="house">House styles, channel by channel</h2>
+    <p class="note">Each main channel's 5 most-viewed long-form videos, from its Videos tab (Popular), pulled 2026-10-26. Faceless personas first.</p>
+    <div id="chans"></div>
+  </section>
+
+  <section aria-labelledby="src">
+    <h3 id="src">Sources</h3>
+    <p class="note">Views are exact for the top 100 and recent winners (YouTube's own count, pulled 2026-10-26) and the Videos tab's rounded figure for channel top 5s. The multiple uses each channel's baseline from the census (the median of its long-form videos from the last 12 months, or its last 30); a dead or tiny channel's baseline makes an old hit's multiple huge, so read multiples within a list. Files: <code>studies/hvac/thumbnails/labels-top-winners.csv</code>, <code>labels-channel-top5.csv</code>, <code>round5/</code> in the niche-research repository.</p>
+  </section>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const fmt = v => v == null ? "n/a" : v >= 1e6 ? (v / 1e6).toFixed(v >= 1e7 ? 1 : 2) + "M" : v >= 1e3 ? Math.round(v / 1e3) + "K" : String(Math.round(v));
+const fmx = m => m == null ? "n/a" : m >= 100 ? Math.round(m) + "x" : m.toFixed(1) + "x";
+const SETNAME = { top100: "Top 100", r12: "12 mo", r90: "90 days", ch5: "Ch. top 5" };
+const byId = Object.fromEntries(DATA.vids.map(v => [v.id, v]));
+const groupsOrder = Object.entries(DATA.stats).sort((a, b) => b[1].top100 - a[1].top100 || b[1].n - a[1].n).map(e => e[0]);
+const slug = s => "g-" + s.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+let state = { set: "all", sort: "v" };
+try { const s = JSON.parse(localStorage.getItem("hvac-atlas") || "{}"); if (s.set) state.set = s.set; if (s.sort) state.sort = s.sort; } catch (e) {}
+
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function plate() {
+  const n = DATA.vids.length, top = DATA.vids.filter(v => v.sets.includes("top100")).length;
+  const r = DATA.vids.filter(v => v.sets.includes("r12") || v.sets.includes("r90")).length;
+  document.getElementById("plate").innerHTML =
+    `<span>Thumbnails <b>${n}</b></span><span>Top 100 <b>${top}</b></span><span>Recent winners <b>${r}</b></span><span>Channels <b>${DATA.chans.length}</b></span><span>Pulled <b>2026-10-26</b></span>`;
+}
+function summary() {
+  const maxTop = Math.max(...Object.values(DATA.stats).map(s => s.top100), 1);
+  document.querySelector("#sumtable tbody").innerHTML = groupsOrder.map(g => {
+    const s = DATA.stats[g];
+    return `<tr><td><a href="#${slug(g)}">${esc(g)}</a></td><td>${s.n}</td><td>${fmt(s.medv)}</td><td>${s.top10}</td><td>${s.top25}</td>
+      <td>${s.top100}<span class="bar" style="width:${Math.round(60 * s.top100 / maxTop)}px"></span></td><td>${s.r12}</td><td>${s.r90}</td><td>${s.ch5}</td></tr>`;
+  }).join("");
+}
+function card(v) {
+  const words = v.w && v.w !== "none" ? v.w : "no text";
+  return `<div class="card"><a class="thumb" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">${v.img ? `<img loading="lazy" src="${v.img}" alt="${esc(v.t)}">` : ""}</a>
+    <div class="stat"><span><b>${fmt(v.v)}</b> views</span><span>${fmx(v.m)}</span></div>
+    <div class="ttl" title="${esc(v.t)}">${esc(v.t)}</div><div class="ch">${esc(v.c)}${v.d ? " · " + esc(v.d.slice(0, 4)) : ""}</div>
+    <div class="words">${esc(words)}</div><div class="tags">${v.sets.map(s => `<span class="tag">${SETNAME[s] || s}</span>`).join("")}</div></div>`;
+}
+function shelves() {
+  const html = groupsOrder.map(g => {
+    let vs = DATA.vids.filter(v => v.g === g && (state.set === "all" || v.sets.includes(state.set)));
+    vs.sort((a, b) => (b[state.sort] || 0) - (a[state.sort] || 0));
+    const views = vs.map(v => v.v).filter(Boolean).sort((a, b) => a - b);
+    const med = views.length ? (views.length % 2 ? views[(views.length - 1) / 2] : (views[views.length / 2 - 1] + views[views.length / 2]) / 2) : null;
+    return `<div class="shelf" id="${slug(g)}"><div class="shelfhead"><h3>${esc(g)}</h3><span class="meta">${vs.length} shown · median ${fmt(med)} views</span></div>
+      ${vs.length ? `<div class="grid">${vs.map(card).join("")}</div>` : `<p class="empty">None in this list.</p>`}</div>`;
+  }).join("");
+  document.getElementById("groups").innerHTML = html;
+  document.querySelectorAll("[data-set]").forEach(b => b.setAttribute("aria-pressed", b.dataset.set === state.set));
+  document.querySelectorAll("[data-sort]").forEach(b => b.setAttribute("aria-pressed", b.dataset.sort === state.sort));
+}
+function chans() {
+  document.getElementById("chans").innerHTML = DATA.chans.map(c => `<div class="chan"><div class="name"><h3>${esc(c.c)}</h3><small>${esc(c.type || "type not found")} · tier ${esc(c.tier || "?")}</small></div>
+    <div class="row">${c.ids.map(i => byId[i]).filter(Boolean).map(card).join("")}</div></div>`).join("");
+}
+document.querySelector(".controls").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.set) state.set = b.dataset.set; if (b.dataset.sort) state.sort = b.dataset.sort;
+  try { localStorage.setItem("hvac-atlas", JSON.stringify(state)); } catch (err) {}
+  shelves();
+});
+plate(); summary(); shelves(); chans();
+</script>

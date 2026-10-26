@@ -1,0 +1,495 @@
+{
+ "key": "UCXzUc27pNwYfbjrow8jjbEw",
+ "channel": "Practical Home Energy",
+ "id": "UCXzUc27pNwYfbjrow8jjbEw",
+ "subs": "7 subscribers",
+ "videos": "15 videos",
+ "pulled": "2026-10-26T06:59:28.856688+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "c8malW7MbyQ",
+    "title": "Don\u2019t Buy Solar Panels Until You Fix These 5 Things First (The Mexican Way)",
+    "meta": [
+     "1",
+     "12h ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 1
+   },
+   {
+    "id": "ikHYpEclZLY",
+    "title": "Do THIS Before Winter or Your Furnace Will Die Years Too Early",
+    "meta": [
+     "46",
+     "2d ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 46
+   },
+   {
+    "id": "NNYYmyGUWY0",
+    "title": "The 5 Thermostat Habits That Are Draining Your Wallet Every Month",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "19:19",
+    "views_tab": 33
+   },
+   {
+    "id": "KA9e7IL0Lh4",
+    "title": "7 Energy-Wasting Habits Utility Companies Are Happy You Keep Making",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "24:28",
+    "views_tab": 3
+   },
+   {
+    "id": "hP0mstFnLr4",
+    "title": "This Forgotten Cooling Design Could Save You THOUSANDS on Energy Bills",
+    "meta": [
+     "25",
+     "10d ago"
+    ],
+    "dur": "22:49",
+    "views_tab": 25
+   },
+   {
+    "id": "bh_dSVRBDUA",
+    "title": "Your Garage Is Quietly Raising Your Electric Bill \u2014 Here\u2019s Why",
+    "meta": [
+     "61",
+     "11d ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 61
+   },
+   {
+    "id": "7NGWqXvwirI",
+    "title": "What I Would Fix First in a House With a $400 Electric Bill (The Mexican Way)",
+    "meta": [
+     "20",
+     "12d ago"
+    ],
+    "dur": "25:24",
+    "views_tab": 20
+   },
+   {
+    "id": "xvhuCMw1M3Y",
+    "title": "Unplug These 5 Appliances Before Bed And Save Thousands (The Mexican Way)",
+    "meta": [
+     "24",
+     "13d ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 24
+   },
+   {
+    "id": "h65-O7pJTCs",
+    "title": "This $5 Window Trick Can Keep More Heat Inside All Winter (The Mexican Way)",
+    "meta": [
+     "821",
+     "2w ago"
+    ],
+    "dur": "24:07",
+    "views_tab": 821
+   },
+   {
+    "id": "PhMGJVBB9xQ",
+    "title": "5 Laundry Mistakes That Quietly Raise Your Energy Bill",
+    "meta": [
+     "201",
+     "2w ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 201
+   },
+   {
+    "id": "pI8sSsxkxCI",
+    "title": "Retired Electrician Reveals 5 Habits That Quietly Raise Your Electric Bill",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 112
+   },
+   {
+    "id": "N-k1V0OP9zI",
+    "title": "The Best Way to Lower Your Electric Bill (The Mexican Way)",
+    "meta": [
+     "53",
+     "2w ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 53
+   }
+  ],
+  "Latest": [
+   {
+    "id": "c8malW7MbyQ",
+    "title": "Don\u2019t Buy Solar Panels Until You Fix These 5 Things First (The Mexican Way)",
+    "meta": [
+     "1",
+     "12h ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 1
+   },
+   {
+    "id": "ikHYpEclZLY",
+    "title": "Do THIS Before Winter or Your Furnace Will Die Years Too Early",
+    "meta": [
+     "46",
+     "2d ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 46
+   },
+   {
+    "id": "NNYYmyGUWY0",
+    "title": "The 5 Thermostat Habits That Are Draining Your Wallet Every Month",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "19:19",
+    "views_tab": 33
+   },
+   {
+    "id": "KA9e7IL0Lh4",
+    "title": "7 Energy-Wasting Habits Utility Companies Are Happy You Keep Making",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "24:28",
+    "views_tab": 3
+   },
+   {
+    "id": "hP0mstFnLr4",
+    "title": "This Forgotten Cooling Design Could Save You THOUSANDS on Energy Bills",
+    "meta": [
+     "25",
+     "10d ago"
+    ],
+    "dur": "22:49",
+    "views_tab": 25
+   },
+   {
+    "id": "bh_dSVRBDUA",
+    "title": "Your Garage Is Quietly Raising Your Electric Bill \u2014 Here\u2019s Why",
+    "meta": [
+     "61",
+     "11d ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 61
+   },
+   {
+    "id": "7NGWqXvwirI",
+    "title": "What I Would Fix First in a House With a $400 Electric Bill (The Mexican Way)",
+    "meta": [
+     "20",
+     "12d ago"
+    ],
+    "dur": "25:24",
+    "views_tab": 20
+   },
+   {
+    "id": "xvhuCMw1M3Y",
+    "title": "Unplug These 5 Appliances Before Bed And Save Thousands (The Mexican Way)",
+    "meta": [
+     "24",
+     "13d ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 24
+   },
+   {
+    "id": "h65-O7pJTCs",
+    "title": "This $5 Window Trick Can Keep More Heat Inside All Winter (The Mexican Way)",
+    "meta": [
+     "821",
+     "2w ago"
+    ],
+    "dur": "24:07",
+    "views_tab": 821
+   },
+   {
+    "id": "PhMGJVBB9xQ",
+    "title": "5 Laundry Mistakes That Quietly Raise Your Energy Bill",
+    "meta": [
+     "201",
+     "2w ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 201
+   },
+   {
+    "id": "pI8sSsxkxCI",
+    "title": "Retired Electrician Reveals 5 Habits That Quietly Raise Your Electric Bill",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 112
+   },
+   {
+    "id": "N-k1V0OP9zI",
+    "title": "The Best Way to Lower Your Electric Bill (The Mexican Way)",
+    "meta": [
+     "53",
+     "2w ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 53
+   }
+  ],
+  "Popular": [
+   {
+    "id": "h65-O7pJTCs",
+    "title": "This $5 Window Trick Can Keep More Heat Inside All Winter (The Mexican Way)",
+    "meta": [
+     "821",
+     "2w ago"
+    ],
+    "dur": "24:07",
+    "views_tab": 821
+   },
+   {
+    "id": "PhMGJVBB9xQ",
+    "title": "5 Laundry Mistakes That Quietly Raise Your Energy Bill",
+    "meta": [
+     "201",
+     "2w ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 201
+   },
+   {
+    "id": "pI8sSsxkxCI",
+    "title": "Retired Electrician Reveals 5 Habits That Quietly Raise Your Electric Bill",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 112
+   },
+   {
+    "id": "bh_dSVRBDUA",
+    "title": "Your Garage Is Quietly Raising Your Electric Bill \u2014 Here\u2019s Why",
+    "meta": [
+     "61",
+     "11d ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 61
+   },
+   {
+    "id": "N-k1V0OP9zI",
+    "title": "The Best Way to Lower Your Electric Bill (The Mexican Way)",
+    "meta": [
+     "53",
+     "2w ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 53
+   },
+   {
+    "id": "ikHYpEclZLY",
+    "title": "Do THIS Before Winter or Your Furnace Will Die Years Too Early",
+    "meta": [
+     "46",
+     "2d ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 46
+   },
+   {
+    "id": "NNYYmyGUWY0",
+    "title": "The 5 Thermostat Habits That Are Draining Your Wallet Every Month",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "19:19",
+    "views_tab": 33
+   },
+   {
+    "id": "xvhuCMw1M3Y",
+    "title": "Unplug These 5 Appliances Before Bed And Save Thousands (The Mexican Way)",
+    "meta": [
+     "24",
+     "13d ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 24
+   },
+   {
+    "id": "hP0mstFnLr4",
+    "title": "This Forgotten Cooling Design Could Save You THOUSANDS on Energy Bills",
+    "meta": [
+     "25",
+     "10d ago"
+    ],
+    "dur": "22:49",
+    "views_tab": 25
+   },
+   {
+    "id": "7NGWqXvwirI",
+    "title": "What I Would Fix First in a House With a $400 Electric Bill (The Mexican Way)",
+    "meta": [
+     "20",
+     "12d ago"
+    ],
+    "dur": "25:24",
+    "views_tab": 20
+   },
+   {
+    "id": "KA9e7IL0Lh4",
+    "title": "7 Energy-Wasting Habits Utility Companies Are Happy You Keep Making",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "24:28",
+    "views_tab": 3
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "N-k1V0OP9zI",
+    "title": "The Best Way to Lower Your Electric Bill (The Mexican Way)",
+    "meta": [
+     "53",
+     "2w ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 53
+   },
+   {
+    "id": "pI8sSsxkxCI",
+    "title": "Retired Electrician Reveals 5 Habits That Quietly Raise Your Electric Bill",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 112
+   },
+   {
+    "id": "PhMGJVBB9xQ",
+    "title": "5 Laundry Mistakes That Quietly Raise Your Energy Bill",
+    "meta": [
+     "201",
+     "2w ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 201
+   },
+   {
+    "id": "h65-O7pJTCs",
+    "title": "This $5 Window Trick Can Keep More Heat Inside All Winter (The Mexican Way)",
+    "meta": [
+     "821",
+     "2w ago"
+    ],
+    "dur": "24:07",
+    "views_tab": 821
+   },
+   {
+    "id": "xvhuCMw1M3Y",
+    "title": "Unplug These 5 Appliances Before Bed And Save Thousands (The Mexican Way)",
+    "meta": [
+     "24",
+     "13d ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 24
+   },
+   {
+    "id": "7NGWqXvwirI",
+    "title": "What I Would Fix First in a House With a $400 Electric Bill (The Mexican Way)",
+    "meta": [
+     "20",
+     "12d ago"
+    ],
+    "dur": "25:24",
+    "views_tab": 20
+   },
+   {
+    "id": "bh_dSVRBDUA",
+    "title": "Your Garage Is Quietly Raising Your Electric Bill \u2014 Here\u2019s Why",
+    "meta": [
+     "61",
+     "11d ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 61
+   },
+   {
+    "id": "hP0mstFnLr4",
+    "title": "This Forgotten Cooling Design Could Save You THOUSANDS on Energy Bills",
+    "meta": [
+     "25",
+     "10d ago"
+    ],
+    "dur": "22:49",
+    "views_tab": 25
+   },
+   {
+    "id": "KA9e7IL0Lh4",
+    "title": "7 Energy-Wasting Habits Utility Companies Are Happy You Keep Making",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "24:28",
+    "views_tab": 3
+   },
+   {
+    "id": "NNYYmyGUWY0",
+    "title": "The 5 Thermostat Habits That Are Draining Your Wallet Every Month",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "19:19",
+    "views_tab": 33
+   },
+   {
+    "id": "ikHYpEclZLY",
+    "title": "Do THIS Before Winter or Your Furnace Will Die Years Too Early",
+    "meta": [
+     "46",
+     "2d ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 46
+   },
+   {
+    "id": "c8malW7MbyQ",
+    "title": "Don\u2019t Buy Solar Panels Until You Fix These 5 Things First (The Mexican Way)",
+    "meta": [
+     "1",
+     "12h ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 1
+   }
+  ]
+ }
+}

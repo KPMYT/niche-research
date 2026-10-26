@@ -1,0 +1,385 @@
+{
+ "key": "UCD8R4bQk4aCKTh0R1FIw1DA",
+ "channel": "Simple Savings at Home",
+ "id": "UCD8R4bQk4aCKTh0R1FIw1DA",
+ "subs": "5 subscribers",
+ "videos": "9 videos",
+ "pulled": "2026-10-26T06:52:29.279828+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "doMbNb7eFEk",
+    "title": "Old Farmhouse Laundry Detergent Secret: Does It Really Work Better?",
+    "meta": [
+     "5",
+     "2h ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 5
+   },
+   {
+    "id": "IhVZodZN2Vw",
+    "title": "What I'd Buy First If I Could Only Buy One Winter Item After 60",
+    "meta": [
+     "11",
+     "1d ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 11
+   },
+   {
+    "id": "gGgeKIp-6Dg",
+    "title": "I Tried 20 Old-School Winter Habits to Beat My Heating Bill, Which One Worked?",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 3
+   },
+   {
+    "id": "YDn4soNnvTs",
+    "title": "Get Your Freezer Ready for Winter: 12 Things to Buy Now",
+    "meta": [
+     "136",
+     "4d ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 136
+   },
+   {
+    "id": "PSLGU1QKCtU",
+    "title": "Heating Oil Up 21%, Gas Down 9%: What Your Winter Bill Will Be",
+    "meta": [
+     "29",
+     "5d ago"
+    ],
+    "dur": "11:57",
+    "views_tab": 29
+   },
+   {
+    "id": "99Bj1PEuG9Q",
+    "title": "I Tried Every Free Heating Hack for 30 Days \u2014 Here's What My Bill Dropped To",
+    "meta": [
+     "68",
+     "6d ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 68
+   },
+   {
+    "id": "fPllqoV-hNI",
+    "title": "Where Your Food Is Quietly Going to Waste (7-Day Fix)",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 92
+   },
+   {
+    "id": "cdZY3WYCgHM",
+    "title": "10 Things Frugal People Quit Buying (You Still Do #3) ",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 92
+   },
+   {
+    "id": "rn9Zuu0uhWU",
+    "title": "7 Free Ways to Keep Your House Warmer This Winter",
+    "meta": [
+     "154",
+     "8d ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 154
+   }
+  ],
+  "Latest": [
+   {
+    "id": "doMbNb7eFEk",
+    "title": "Old Farmhouse Laundry Detergent Secret: Does It Really Work Better?",
+    "meta": [
+     "5",
+     "2h ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 5
+   },
+   {
+    "id": "IhVZodZN2Vw",
+    "title": "What I'd Buy First If I Could Only Buy One Winter Item After 60",
+    "meta": [
+     "11",
+     "1d ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 11
+   },
+   {
+    "id": "gGgeKIp-6Dg",
+    "title": "I Tried 20 Old-School Winter Habits to Beat My Heating Bill, Which One Worked?",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 3
+   },
+   {
+    "id": "YDn4soNnvTs",
+    "title": "Get Your Freezer Ready for Winter: 12 Things to Buy Now",
+    "meta": [
+     "136",
+     "4d ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 136
+   },
+   {
+    "id": "PSLGU1QKCtU",
+    "title": "Heating Oil Up 21%, Gas Down 9%: What Your Winter Bill Will Be",
+    "meta": [
+     "29",
+     "5d ago"
+    ],
+    "dur": "11:57",
+    "views_tab": 29
+   },
+   {
+    "id": "99Bj1PEuG9Q",
+    "title": "I Tried Every Free Heating Hack for 30 Days \u2014 Here's What My Bill Dropped To",
+    "meta": [
+     "68",
+     "6d ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 68
+   },
+   {
+    "id": "fPllqoV-hNI",
+    "title": "Where Your Food Is Quietly Going to Waste (7-Day Fix)",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 92
+   },
+   {
+    "id": "cdZY3WYCgHM",
+    "title": "10 Things Frugal People Quit Buying (You Still Do #3) ",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 92
+   },
+   {
+    "id": "rn9Zuu0uhWU",
+    "title": "7 Free Ways to Keep Your House Warmer This Winter",
+    "meta": [
+     "154",
+     "8d ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 154
+   }
+  ],
+  "Popular": [
+   {
+    "id": "rn9Zuu0uhWU",
+    "title": "7 Free Ways to Keep Your House Warmer This Winter",
+    "meta": [
+     "154",
+     "8d ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 154
+   },
+   {
+    "id": "YDn4soNnvTs",
+    "title": "Get Your Freezer Ready for Winter: 12 Things to Buy Now",
+    "meta": [
+     "136",
+     "4d ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 136
+   },
+   {
+    "id": "cdZY3WYCgHM",
+    "title": "10 Things Frugal People Quit Buying (You Still Do #3) ",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 92
+   },
+   {
+    "id": "fPllqoV-hNI",
+    "title": "Where Your Food Is Quietly Going to Waste (7-Day Fix)",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 92
+   },
+   {
+    "id": "99Bj1PEuG9Q",
+    "title": "I Tried Every Free Heating Hack for 30 Days \u2014 Here's What My Bill Dropped To",
+    "meta": [
+     "68",
+     "6d ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 68
+   },
+   {
+    "id": "PSLGU1QKCtU",
+    "title": "Heating Oil Up 21%, Gas Down 9%: What Your Winter Bill Will Be",
+    "meta": [
+     "29",
+     "5d ago"
+    ],
+    "dur": "11:57",
+    "views_tab": 29
+   },
+   {
+    "id": "IhVZodZN2Vw",
+    "title": "What I'd Buy First If I Could Only Buy One Winter Item After 60",
+    "meta": [
+     "11",
+     "1d ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 11
+   },
+   {
+    "id": "doMbNb7eFEk",
+    "title": "Old Farmhouse Laundry Detergent Secret: Does It Really Work Better?",
+    "meta": [
+     "5",
+     "2h ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 5
+   },
+   {
+    "id": "gGgeKIp-6Dg",
+    "title": "I Tried 20 Old-School Winter Habits to Beat My Heating Bill, Which One Worked?",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 3
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "rn9Zuu0uhWU",
+    "title": "7 Free Ways to Keep Your House Warmer This Winter",
+    "meta": [
+     "154",
+     "8d ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 154
+   },
+   {
+    "id": "cdZY3WYCgHM",
+    "title": "10 Things Frugal People Quit Buying (You Still Do #3) ",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 92
+   },
+   {
+    "id": "fPllqoV-hNI",
+    "title": "Where Your Food Is Quietly Going to Waste (7-Day Fix)",
+    "meta": [
+     "92",
+     "7d ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 92
+   },
+   {
+    "id": "99Bj1PEuG9Q",
+    "title": "I Tried Every Free Heating Hack for 30 Days \u2014 Here's What My Bill Dropped To",
+    "meta": [
+     "68",
+     "6d ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 68
+   },
+   {
+    "id": "PSLGU1QKCtU",
+    "title": "Heating Oil Up 21%, Gas Down 9%: What Your Winter Bill Will Be",
+    "meta": [
+     "29",
+     "5d ago"
+    ],
+    "dur": "11:57",
+    "views_tab": 29
+   },
+   {
+    "id": "YDn4soNnvTs",
+    "title": "Get Your Freezer Ready for Winter: 12 Things to Buy Now",
+    "meta": [
+     "136",
+     "4d ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 136
+   },
+   {
+    "id": "gGgeKIp-6Dg",
+    "title": "I Tried 20 Old-School Winter Habits to Beat My Heating Bill, Which One Worked?",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 3
+   },
+   {
+    "id": "IhVZodZN2Vw",
+    "title": "What I'd Buy First If I Could Only Buy One Winter Item After 60",
+    "meta": [
+     "11",
+     "1d ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 11
+   },
+   {
+    "id": "doMbNb7eFEk",
+    "title": "Old Farmhouse Laundry Detergent Secret: Does It Really Work Better?",
+    "meta": [
+     "5",
+     "2h ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 5
+   }
+  ]
+ }
+}

@@ -1,0 +1,3925 @@
+{
+ "key": "UChW1-MEgWf0viaY1h0HQvag",
+ "channel": "BESA Research",
+ "id": "UChW1-MEgWf0viaY1h0HQvag",
+ "subs": "3.24K subscribers",
+ "videos": null,
+ "pulled": "2026-10-26T07:02:47.956559+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "NMGkLzM5c6U",
+    "title": "Commercial Electrical Branch Circuit Takeoffs Methods Compared",
+    "meta": [
+     "223",
+     "8mo ago"
+    ],
+    "dur": "17:05",
+    "views_tab": 223
+   },
+   {
+    "id": "Snzl2zpdPWY",
+    "title": "Calculating Transformer Ratings Explained Electrical Engineering",
+    "meta": [
+     "173",
+     "8mo ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 173
+   },
+   {
+    "id": "khuMzpHap3s",
+    "title": "In-Home Electric Line Repair Program Should You Sign Up?",
+    "meta": [
+     "95",
+     "8mo ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 95
+   },
+   {
+    "id": "gQs54mD57gY",
+    "title": "Dedicated Circuits for Garbage Disposals NEC Requirements",
+    "meta": [
+     "385",
+     "8mo ago"
+    ],
+    "dur": "17:36",
+    "views_tab": 385
+   },
+   {
+    "id": "uCWnWmyGmzo",
+    "title": "Home Construction Unit Pricing Guide and Cost Breakdown",
+    "meta": [
+     "83",
+     "8mo ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 83
+   },
+   {
+    "id": "Fb_D6BiaGxI",
+    "title": "Installing a CFL Over a Closet Door Limited Space",
+    "meta": [
+     "46",
+     "8mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 46
+   },
+   {
+    "id": "wbXJy7Ozdy8",
+    "title": "Analyzing Electrical Systems Found Online",
+    "meta": [
+     "160",
+     "8mo ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 160
+   },
+   {
+    "id": "It9tRRgG6X8",
+    "title": "Understanding 240 Volts Circuits Return Path Explained",
+    "meta": [
+     "548",
+     "8mo ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 548
+   },
+   {
+    "id": "yn6pI3jWppU",
+    "title": "Under Cabinet Lighting Installation Guide Low Versus Line volts",
+    "meta": [
+     "288",
+     "8mo ago"
+    ],
+    "dur": "18:43",
+    "views_tab": 288
+   },
+   {
+    "id": "BPLGjOUhla8",
+    "title": "Mounting Circuit Breaker Panels Horizontally NEC Restrictions Explained",
+    "meta": [
+     "302",
+     "8mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 302
+   },
+   {
+    "id": "dVwFSQm3eAI",
+    "title": "Why PG&E Won't Allow Rigid Conduit Overhead Service",
+    "meta": [
+     "73",
+     "8mo ago"
+    ],
+    "dur": "9:38",
+    "views_tab": 73
+   },
+   {
+    "id": "dfjbGcYIvkE",
+    "title": "Landing Multiple Conductors Under a Circuit Breaker Screw",
+    "meta": [
+     "75",
+     "8mo ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 75
+   },
+   {
+    "id": "j8slqIbg0Mk",
+    "title": "NM Cable Use in Three Story Office Buildings",
+    "meta": [
+     "37",
+     "8mo ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 37
+   },
+   {
+    "id": "SBuW57sq5DM",
+    "title": "Nebraska Electrician License to Colorado Reciprocity and Military",
+    "meta": [
+     "18",
+     "8mo ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 18
+   },
+   {
+    "id": "cVJuzfe8Ocs",
+    "title": "Floating Dock Junction Box Distance per NEC 555.13(4)(b)",
+    "meta": [
+     "81",
+     "8mo ago"
+    ],
+    "dur": "12:59",
+    "views_tab": 81
+   },
+   {
+    "id": "BgYn7SEzAnY",
+    "title": "Bonding Hot Water Heaters and GFIs for Hydro Tubs",
+    "meta": [
+     "73",
+     "8mo ago"
+    ],
+    "dur": "13:37",
+    "views_tab": 73
+   },
+   {
+    "id": "3bchry8v1j0",
+    "title": "Kitchens and Ex-Safety Understanding Explosion Risks Explained",
+    "meta": [
+     "43",
+     "8mo ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 43
+   },
+   {
+    "id": "18iZNtQj2ns",
+    "title": "UPS Battery Connection Issues Undermining System Reliability",
+    "meta": [
+     "73",
+     "8mo ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 73
+   },
+   {
+    "id": "rVUK9lklwBE",
+    "title": "NEC and Emergency Shutdown Cables Sharing Raceways",
+    "meta": [
+     "83",
+     "8mo ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 83
+   },
+   {
+    "id": "zLKTpTIwa-o",
+    "title": "Warehouse Lighting Solutions and High Installation Methods",
+    "meta": [
+     "190",
+     "8mo ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 190
+   },
+   {
+    "id": "WiFlvlo77X8",
+    "title": "T-Taps on Edwards QS4 Fire Alarm Systems Explained",
+    "meta": [
+     "98",
+     "8mo ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 98
+   },
+   {
+    "id": "mwAIOfuYPio",
+    "title": "Safe Overnight Freezer Power for Ice Cream Trucks",
+    "meta": [
+     "83",
+     "8mo ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 83
+   },
+   {
+    "id": "k82KRNzIrU0",
+    "title": "Drawer Power Outlet Solutions for Phone and Collar Chargers",
+    "meta": [
+     "9",
+     "8mo ago"
+    ],
+    "dur": "13:37",
+    "views_tab": 9
+   },
+   {
+    "id": "BWn90TwoTu0",
+    "title": "California Generator Tier Rating Requirements Explained Simply",
+    "meta": [
+     "35",
+     "8mo ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 35
+   },
+   {
+    "id": "Ew6dvhj-X7Y",
+    "title": "Finding 12/5 Tray Cable Options for Smaller Lengths",
+    "meta": [
+     "7",
+     "8mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 7
+   },
+   {
+    "id": "kpfEwctBqVY",
+    "title": "Speed of Light Car Headlights and More",
+    "meta": [
+     "10",
+     "8mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 10
+   },
+   {
+    "id": "vup_lc9KDdo",
+    "title": "GFCI Breaker Dual Neutral Wiring Explained Simply",
+    "meta": [
+     "43",
+     "8mo ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 43
+   },
+   {
+    "id": "nwMBdniEu1o",
+    "title": "Sizing Cable for Additional MCC Section Connection",
+    "meta": [
+     "14",
+     "8mo ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 14
+   },
+   {
+    "id": "d4GhCrCXf0Q",
+    "title": "Siemens IGBT Module Guts Interchangeability Explained",
+    "meta": [
+     "20",
+     "8mo ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 20
+   },
+   {
+    "id": "apK8zH9UCts",
+    "title": "Two 100 Amp Breakers in a 200 Amp Panel?",
+    "meta": [
+     "995",
+     "8mo ago"
+    ],
+    "dur": "14:27",
+    "views_tab": 995
+   }
+  ],
+  "Latest": [
+   {
+    "id": "NMGkLzM5c6U",
+    "title": "Commercial Electrical Branch Circuit Takeoffs Methods Compared",
+    "meta": [
+     "223",
+     "8mo ago"
+    ],
+    "dur": "17:05",
+    "views_tab": 223
+   },
+   {
+    "id": "Snzl2zpdPWY",
+    "title": "Calculating Transformer Ratings Explained Electrical Engineering",
+    "meta": [
+     "173",
+     "8mo ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 173
+   },
+   {
+    "id": "khuMzpHap3s",
+    "title": "In-Home Electric Line Repair Program Should You Sign Up?",
+    "meta": [
+     "95",
+     "8mo ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 95
+   },
+   {
+    "id": "gQs54mD57gY",
+    "title": "Dedicated Circuits for Garbage Disposals NEC Requirements",
+    "meta": [
+     "385",
+     "8mo ago"
+    ],
+    "dur": "17:36",
+    "views_tab": 385
+   },
+   {
+    "id": "uCWnWmyGmzo",
+    "title": "Home Construction Unit Pricing Guide and Cost Breakdown",
+    "meta": [
+     "83",
+     "8mo ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 83
+   },
+   {
+    "id": "Fb_D6BiaGxI",
+    "title": "Installing a CFL Over a Closet Door Limited Space",
+    "meta": [
+     "46",
+     "8mo ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 46
+   },
+   {
+    "id": "wbXJy7Ozdy8",
+    "title": "Analyzing Electrical Systems Found Online",
+    "meta": [
+     "160",
+     "8mo ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 160
+   },
+   {
+    "id": "It9tRRgG6X8",
+    "title": "Understanding 240 Volts Circuits Return Path Explained",
+    "meta": [
+     "548",
+     "8mo ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 548
+   },
+   {
+    "id": "yn6pI3jWppU",
+    "title": "Under Cabinet Lighting Installation Guide Low Versus Line volts",
+    "meta": [
+     "288",
+     "8mo ago"
+    ],
+    "dur": "18:43",
+    "views_tab": 288
+   },
+   {
+    "id": "BPLGjOUhla8",
+    "title": "Mounting Circuit Breaker Panels Horizontally NEC Restrictions Explained",
+    "meta": [
+     "302",
+     "8mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 302
+   },
+   {
+    "id": "dVwFSQm3eAI",
+    "title": "Why PG&E Won't Allow Rigid Conduit Overhead Service",
+    "meta": [
+     "73",
+     "8mo ago"
+    ],
+    "dur": "9:38",
+    "views_tab": 73
+   },
+   {
+    "id": "dfjbGcYIvkE",
+    "title": "Landing Multiple Conductors Under a Circuit Breaker Screw",
+    "meta": [
+     "75",
+     "8mo ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 75
+   },
+   {
+    "id": "j8slqIbg0Mk",
+    "title": "NM Cable Use in Three Story Office Buildings",
+    "meta": [
+     "37",
+     "8mo ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 37
+   },
+   {
+    "id": "SBuW57sq5DM",
+    "title": "Nebraska Electrician License to Colorado Reciprocity and Military",
+    "meta": [
+     "18",
+     "8mo ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 18
+   },
+   {
+    "id": "cVJuzfe8Ocs",
+    "title": "Floating Dock Junction Box Distance per NEC 555.13(4)(b)",
+    "meta": [
+     "81",
+     "8mo ago"
+    ],
+    "dur": "12:59",
+    "views_tab": 81
+   },
+   {
+    "id": "BgYn7SEzAnY",
+    "title": "Bonding Hot Water Heaters and GFIs for Hydro Tubs",
+    "meta": [
+     "73",
+     "8mo ago"
+    ],
+    "dur": "13:37",
+    "views_tab": 73
+   },
+   {
+    "id": "3bchry8v1j0",
+    "title": "Kitchens and Ex-Safety Understanding Explosion Risks Explained",
+    "meta": [
+     "43",
+     "8mo ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 43
+   },
+   {
+    "id": "18iZNtQj2ns",
+    "title": "UPS Battery Connection Issues Undermining System Reliability",
+    "meta": [
+     "73",
+     "8mo ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 73
+   },
+   {
+    "id": "rVUK9lklwBE",
+    "title": "NEC and Emergency Shutdown Cables Sharing Raceways",
+    "meta": [
+     "83",
+     "8mo ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 83
+   },
+   {
+    "id": "zLKTpTIwa-o",
+    "title": "Warehouse Lighting Solutions and High Installation Methods",
+    "meta": [
+     "190",
+     "8mo ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 190
+   },
+   {
+    "id": "WiFlvlo77X8",
+    "title": "T-Taps on Edwards QS4 Fire Alarm Systems Explained",
+    "meta": [
+     "98",
+     "8mo ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 98
+   },
+   {
+    "id": "mwAIOfuYPio",
+    "title": "Safe Overnight Freezer Power for Ice Cream Trucks",
+    "meta": [
+     "83",
+     "8mo ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 83
+   },
+   {
+    "id": "k82KRNzIrU0",
+    "title": "Drawer Power Outlet Solutions for Phone and Collar Chargers",
+    "meta": [
+     "9",
+     "8mo ago"
+    ],
+    "dur": "13:37",
+    "views_tab": 9
+   },
+   {
+    "id": "BWn90TwoTu0",
+    "title": "California Generator Tier Rating Requirements Explained Simply",
+    "meta": [
+     "35",
+     "8mo ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 35
+   },
+   {
+    "id": "Ew6dvhj-X7Y",
+    "title": "Finding 12/5 Tray Cable Options for Smaller Lengths",
+    "meta": [
+     "7",
+     "8mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 7
+   },
+   {
+    "id": "kpfEwctBqVY",
+    "title": "Speed of Light Car Headlights and More",
+    "meta": [
+     "10",
+     "8mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 10
+   },
+   {
+    "id": "vup_lc9KDdo",
+    "title": "GFCI Breaker Dual Neutral Wiring Explained Simply",
+    "meta": [
+     "43",
+     "8mo ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 43
+   },
+   {
+    "id": "nwMBdniEu1o",
+    "title": "Sizing Cable for Additional MCC Section Connection",
+    "meta": [
+     "14",
+     "8mo ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 14
+   },
+   {
+    "id": "d4GhCrCXf0Q",
+    "title": "Siemens IGBT Module Guts Interchangeability Explained",
+    "meta": [
+     "20",
+     "8mo ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 20
+   },
+   {
+    "id": "apK8zH9UCts",
+    "title": "Two 100 Amp Breakers in a 200 Amp Panel?",
+    "meta": [
+     "995",
+     "8mo ago"
+    ],
+    "dur": "14:27",
+    "views_tab": 995
+   },
+   {
+    "id": "y8x5fim-2tw",
+    "title": "Grounding Separately Derived Systems Explained Simply",
+    "meta": [
+     "147",
+     "8mo ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 147
+   },
+   {
+    "id": "MlUg5g3bZeM",
+    "title": "Recreational Vehicle Park Electrical Service Explained Simply",
+    "meta": [
+     "27",
+     "8mo ago"
+    ],
+    "dur": "10:12",
+    "views_tab": 27
+   },
+   {
+    "id": "eeMAz4xGKIU",
+    "title": "Balcony Lighting Is It Required Above Grade?",
+    "meta": [
+     "19",
+     "8mo ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 19
+   },
+   {
+    "id": "IX3WtnXGcqQ",
+    "title": "Using 14/2 NMB Wire for Commercial Lighting Explained",
+    "meta": [
+     "88",
+     "8mo ago"
+    ],
+    "dur": "17:05",
+    "views_tab": 88
+   },
+   {
+    "id": "wd-UfxSLqWs",
+    "title": "Drilling Holes in Joists and Plates Safe Practices",
+    "meta": [
+     "247",
+     "8mo ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 247
+   },
+   {
+    "id": "BIomeHV5aW4",
+    "title": "Fluke Electrical Tester Features and Safety Overview",
+    "meta": [
+     "7",
+     "8mo ago"
+    ],
+    "dur": "11:31",
+    "views_tab": 7
+   },
+   {
+    "id": "WsboeA53n3U",
+    "title": "IDEAL PowerPlug Ballast Disconnect for Electrical Safety",
+    "meta": [
+     "103",
+     "8mo ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 103
+   },
+   {
+    "id": "zdRzZkZSwjI",
+    "title": "Low Voltage Lighting Code Requirements Explained Simply",
+    "meta": [
+     "81",
+     "8mo ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 81
+   },
+   {
+    "id": "skjhTxWqF2I",
+    "title": "Electrical Contractor Magazine March 2007 Edition Overview",
+    "meta": [
+     "8",
+     "8mo ago"
+    ],
+    "dur": "12:33",
+    "views_tab": 8
+   },
+   {
+    "id": "M8mkmTiD8Wo",
+    "title": "Motel Rooms with Kitchens Multifamily or Commercial",
+    "meta": [
+     "4",
+     "8mo ago"
+    ],
+    "dur": "1:44",
+    "views_tab": 4
+   },
+   {
+    "id": "iDjXkBpLuwE",
+    "title": "Supporting Raceways and Cables Securely in Suspended Ceilings",
+    "meta": [
+     "204",
+     "8mo ago"
+    ],
+    "dur": "16:59",
+    "views_tab": 204
+   },
+   {
+    "id": "G3VixRI4EHQ",
+    "title": "Transformer Secondary Overcurrent Protection Requirements Explained Simply",
+    "meta": [
+     "36",
+     "8mo ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 36
+   },
+   {
+    "id": "iOIdwYRsFW0",
+    "title": "Wire Size on 20 Amp Circuits Explained",
+    "meta": [
+     "692",
+     "8mo ago"
+    ],
+    "dur": "13:51",
+    "views_tab": 692
+   },
+   {
+    "id": "38frI9_BbIg",
+    "title": "Sizing Transformer Equipment Grounding Conductor Per Code",
+    "meta": [
+     "90",
+     "8mo ago"
+    ],
+    "dur": "19:27",
+    "views_tab": 90
+   },
+   {
+    "id": "TolzccQAQcU",
+    "title": "Undercabinet Puck Light Installation and NEC Code Compliance",
+    "meta": [
+     "13",
+     "8mo ago"
+    ],
+    "dur": "13:59",
+    "views_tab": 13
+   },
+   {
+    "id": "DVwZL0EZYn4",
+    "title": "Church Parking Lot Lighting Upgrade Energy Saving Options",
+    "meta": [
+     "17",
+     "8mo ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 17
+   },
+   {
+    "id": "svTRFAkvyTA",
+    "title": "Parallel Conductor Length Tolerance for High Voltage Motors",
+    "meta": [
+     "10",
+     "8mo ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 10
+   },
+   {
+    "id": "kf9s_bR3A4U",
+    "title": "Freeman Timers Overview Products Applications and More",
+    "meta": [
+     "3",
+     "8mo ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 3
+   },
+   {
+    "id": "z8EEB1MXsG0",
+    "title": "Corner Grounded Delta Systems Explained Electrical Safety",
+    "meta": [
+     "987",
+     "8mo ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 987
+   },
+   {
+    "id": "JjwREdAHOEo",
+    "title": "2005 NEC Electronic Copy Features and Portability",
+    "meta": [
+     "5",
+     "8mo ago"
+    ],
+    "dur": "7:22",
+    "views_tab": 5
+   },
+   {
+    "id": "EAbcoYmplLM",
+    "title": "GUA Fittings Acceptable in Class 1 Div 2 Area?",
+    "meta": [
+     "14",
+     "8mo ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 14
+   },
+   {
+    "id": "Ci78aFCiECg",
+    "title": "Electricians and Asbestos Safety Awareness Training Protocols",
+    "meta": [
+     "12",
+     "8mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 12
+   },
+   {
+    "id": "WgVvKCQ_keY",
+    "title": "Feeders in Single Buildings Understanding NEC Article 225.30",
+    "meta": [
+     "41",
+     "8mo ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 41
+   },
+   {
+    "id": "FwkO5gvI1q0",
+    "title": "Indoor Unit Disconnect Options for Split Systems",
+    "meta": [
+     "40",
+     "8mo ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 40
+   },
+   {
+    "id": "3kHJW-I5QSY",
+    "title": "Low Voltage Wiring Height Requirements NEC and NFPA 72",
+    "meta": [
+     "36",
+     "8mo ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 36
+   },
+   {
+    "id": "Pa7w5BmR1KE",
+    "title": "Bonding Stainless Steel Backsplash in Commercial Kitchens",
+    "meta": [
+     "198",
+     "8mo ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 198
+   },
+   {
+    "id": "9Df4Kt14-fw",
+    "title": "Separate Electrical Service for Medical Equipment Explained",
+    "meta": [
+     "9",
+     "8mo ago"
+    ],
+    "dur": "28:17",
+    "views_tab": 9
+   },
+   {
+    "id": "l5UWF9dzERw",
+    "title": "Motor Overload Protection NEC Requirements Explained",
+    "meta": [
+     "21",
+     "8mo ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 21
+   },
+   {
+    "id": "YdNoHMCnx78",
+    "title": "Heat Sealer Circuit Sizing and NEC Requirements",
+    "meta": [
+     "5",
+     "8mo ago"
+    ],
+    "dur": "19:41",
+    "views_tab": 5
+   },
+   {
+    "id": "uQYjSSa_Hng",
+    "title": "Colorado and Nebraska Electrician License Reciprocity Explained",
+    "meta": [
+     "7",
+     "8mo ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 7
+   },
+   {
+    "id": "mEBEkRaN4fg",
+    "title": "Generator Grounding Requirements Explained Simply True or False",
+    "meta": [
+     "42",
+     "8mo ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 42
+   },
+   {
+    "id": "8wBnQ1RWjwk",
+    "title": "Sump Pump GFI Outlet Recommendation Safety and Considerations",
+    "meta": [
+     "78",
+     "8mo ago"
+    ],
+    "dur": "11:45",
+    "views_tab": 78
+   },
+   {
+    "id": "vUZ88ITInKg",
+    "title": "Transformer Wiring Size Calculations Primary and Secondary",
+    "meta": [
+     "152",
+     "8mo ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 152
+   },
+   {
+    "id": "Rkxn2MwzUgM",
+    "title": "Streamlining Work Orders Choosing the Right System",
+    "meta": [
+     "0",
+     "8mo ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 0
+   },
+   {
+    "id": "e2-nHOF-g8g",
+    "title": "Drill Hammerdrill Brush Replacement Troubleshooting Guide",
+    "meta": [
+     "70",
+     "8mo ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 70
+   },
+   {
+    "id": "QiaGqcmycHE",
+    "title": "Oil Change Bay Electrical Code Compliance Explained",
+    "meta": [
+     "7",
+     "8mo ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 7
+   },
+   {
+    "id": "JGwvkCOch54",
+    "title": "Concrete Anchors for Meter Module Pack Installation",
+    "meta": [
+     "16",
+     "8mo ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 16
+   },
+   {
+    "id": "MHgj0MmJaic",
+    "title": "Understanding AIC Ratings for Meter Stack Modules",
+    "meta": [
+     "26",
+     "8mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 26
+   },
+   {
+    "id": "sps80Y1RUNM",
+    "title": "Using 4/3 NM Cable for 100 amp Subpanel No",
+    "meta": [
+     "143",
+     "8mo ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 143
+   },
+   {
+    "id": "8WFwSSyiwHU",
+    "title": "Bonding Whirlpool Tub Motor Housing with Non-Metallic Pipe",
+    "meta": [
+     "20",
+     "8mo ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 20
+   },
+   {
+    "id": "WhnH3rVeF4I",
+    "title": "RV Main Disconnect Switch and NEC Requirements",
+    "meta": [
+     "50",
+     "8mo ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 50
+   },
+   {
+    "id": "ImQPtUQDe4I",
+    "title": "Ground Rod Requirement for Subpanel with UF Cable",
+    "meta": [
+     "101",
+     "8mo ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 101
+   },
+   {
+    "id": "cpFz2Sa0OTM",
+    "title": "Kansas Nursing Exam 02 vs 05 What's the Difference?",
+    "meta": [
+     "2",
+     "8mo ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 2
+   },
+   {
+    "id": "AQrA07PLElw",
+    "title": "Detached Garage Wiring Rules and Meter Connections",
+    "meta": [
+     "149",
+     "8mo ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 149
+   },
+   {
+    "id": "EJq1365VNcw",
+    "title": "Best Places to Sell Used Electric Equipment Online",
+    "meta": [
+     "117",
+     "8mo ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 117
+   },
+   {
+    "id": "8uX2L3ZV6Pk",
+    "title": "CT Cabinet Spacing NEC Table 312.6(B) Explained",
+    "meta": [
+     "193",
+     "8mo ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 193
+   },
+   {
+    "id": "ESPlwDbOXTY",
+    "title": "FIOS Benefits Fiber Internet TV and Phone Services",
+    "meta": [
+     "6",
+     "8mo ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 6
+   },
+   {
+    "id": "w-yUP1bN1a0",
+    "title": "UPS System Wire Sizing and Conduit Considerations",
+    "meta": [
+     "18",
+     "8mo ago"
+    ],
+    "dur": "11:06",
+    "views_tab": 18
+   },
+   {
+    "id": "sHlNyzLPWWE",
+    "title": "Two Pole AFCI Breakers Inspector Disagreement Resolution",
+    "meta": [
+     "20",
+     "8mo ago"
+    ],
+    "dur": "13:46",
+    "views_tab": 20
+   },
+   {
+    "id": "eMCONOGNtOU",
+    "title": "HVAC Wiring vs Electrical Work NEC Compliance",
+    "meta": [
+     "5",
+     "8mo ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 5
+   },
+   {
+    "id": "XxfcyYgoKYE",
+    "title": "Splicing Wires and Combining Circuits in Service Panels",
+    "meta": [
+     "108",
+     "8mo ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 108
+   },
+   {
+    "id": "QunQrkQ2qro",
+    "title": "Double Tapping Wires on a 110 Volt Circuit Breaker",
+    "meta": [
+     "70",
+     "8mo ago"
+    ],
+    "dur": "12:51",
+    "views_tab": 70
+   },
+   {
+    "id": "mToxvQyIDP8",
+    "title": "Understanding Conduit Fill Percentages According to the NEC",
+    "meta": [
+     "63",
+     "8mo ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 63
+   },
+   {
+    "id": "f7C9wRj5F3A",
+    "title": "Old Electrical Panels and Breaker Safety Explained",
+    "meta": [
+     "38",
+     "8mo ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 38
+   },
+   {
+    "id": "sxzmykEGwR4",
+    "title": "Insulated Ground for Spa Circuit Crawl Space NEC Requirements",
+    "meta": [
+     "4",
+     "8mo ago"
+    ],
+    "dur": "12:49",
+    "views_tab": 4
+   },
+   {
+    "id": "hk2KfQgKLxM",
+    "title": "Estimating Labor Hours for New Residential Electrical Work",
+    "meta": [
+     "113",
+     "8mo ago"
+    ],
+    "dur": "14:53",
+    "views_tab": 113
+   },
+   {
+    "id": "Mj8FcvYK5Ts",
+    "title": "FPE Stab-Lok Breakers A Real Electrical Hazard",
+    "meta": [
+     "116",
+     "8mo ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 116
+   },
+   {
+    "id": "Vf52_iXGWOQ",
+    "title": "Understanding Cathodes and Grid Operation in Vacuum Tubes",
+    "meta": [
+     "30",
+     "8mo ago"
+    ],
+    "dur": "2:48",
+    "views_tab": 30
+   },
+   {
+    "id": "AzKYtq-eU9c",
+    "title": "2005 NEC Resources Find Alternatives To Illustrated Guide",
+    "meta": [
+     "3",
+     "8mo ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 3
+   },
+   {
+    "id": "XvBa12BOtow",
+    "title": "Main Bonding Jumper Explained Fused Disconnect",
+    "meta": [
+     "163",
+     "8mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 163
+   },
+   {
+    "id": "7xhGlE9wIKY",
+    "title": "Project Management and Estimation Courses Explained",
+    "meta": [
+     "6",
+     "8mo ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 6
+   },
+   {
+    "id": "s3XwIfrmh_o",
+    "title": "Pool Ground Wire Splicing Legality and Safety",
+    "meta": [
+     "84",
+     "8mo ago"
+    ],
+    "dur": "3:32",
+    "views_tab": 84
+   },
+   {
+    "id": "vgdm2ZSZKls",
+    "title": "Choosing the Right Ship Auger Bit Brand",
+    "meta": [
+     "26",
+     "8mo ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 26
+   },
+   {
+    "id": "tMgw6N0y_6E",
+    "title": "Plastic J Boxes for Low Voltage Wiring in Motels",
+    "meta": [
+     "8",
+     "8mo ago"
+    ],
+    "dur": "9:21",
+    "views_tab": 8
+   },
+   {
+    "id": "4eBR-S0IoQY",
+    "title": "Receptacle Ground Lug Orientation and NEC Guidelines",
+    "meta": [
+     "55",
+     "8mo ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 55
+   },
+   {
+    "id": "fiF0fQOGQmE",
+    "title": "Motor Starter Tripping Troubleshooting for Three Phase Motors",
+    "meta": [
+     "386",
+     "8mo ago"
+    ],
+    "dur": "12:45",
+    "views_tab": 386
+   },
+   {
+    "id": "fd_kwFImYTk",
+    "title": "Stopping GFCI Child Proof Receptacle Mandates NEC Action",
+    "meta": [
+     "3",
+     "8mo ago"
+    ],
+    "dur": "22:37",
+    "views_tab": 3
+   },
+   {
+    "id": "7ratNv13qyY",
+    "title": "VFD Motor Protection and Feeder Sizing Explained",
+    "meta": [
+     "91",
+     "8mo ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 91
+   },
+   {
+    "id": "OhgWkkmH3IM",
+    "title": "Torque Specs Explained Cable Lugs and Electrical Connections",
+    "meta": [
+     "142",
+     "8mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 142
+   },
+   {
+    "id": "fgu8oIUXq3Q",
+    "title": "Arc Flash PPE Face Shields and Hoods Explained",
+    "meta": [
+     "87",
+     "8mo ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 87
+   },
+   {
+    "id": "Ji1Xtnb3yPM",
+    "title": "Generator Neutral Bonding Explained UL 508A Requirements",
+    "meta": [
+     "30",
+     "8mo ago"
+    ],
+    "dur": "16:25",
+    "views_tab": 30
+   },
+   {
+    "id": "eSl31wnjOyg",
+    "title": "Refrigerator Outlets and Dedicated Circuits Explained",
+    "meta": [
+     "275",
+     "8mo ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 275
+   },
+   {
+    "id": "mZfqMv575CU",
+    "title": "NEC Minimum Distance for 12kVA Transformer Near Buildings",
+    "meta": [
+     "33",
+     "8mo ago"
+    ],
+    "dur": "12:35",
+    "views_tab": 33
+   },
+   {
+    "id": "Rk9X72aep74",
+    "title": "PVC Alternatives Conductor Insulation and Conduit Options",
+    "meta": [
+     "25",
+     "8mo ago"
+    ],
+    "dur": "16:14",
+    "views_tab": 25
+   },
+   {
+    "id": "b62l4UVcJAE",
+    "title": "Marina Electrical Design Grounding and Safety Considerations",
+    "meta": [
+     "93",
+     "8mo ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 93
+   },
+   {
+    "id": "TjPz1HfosE4",
+    "title": "Hospital Lightning Protection System Requirements Explained Simply",
+    "meta": [
+     "28",
+     "8mo ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 28
+   },
+   {
+    "id": "8jw24A3D3wY",
+    "title": "GFCI Protection for 50 amp 480 volts Receptacles",
+    "meta": [
+     "17",
+     "8mo ago"
+    ],
+    "dur": "13:02",
+    "views_tab": 17
+   },
+   {
+    "id": "gMigIV8L-s8",
+    "title": "Calculate Transformer kVA for Heating Circuits Explained",
+    "meta": [
+     "42",
+     "8mo ago"
+    ],
+    "dur": "17:36",
+    "views_tab": 42
+   },
+   {
+    "id": "rze70fdD0mM",
+    "title": "Grounding Electrode Conductor Sizing Transformer to Building Steel",
+    "meta": [
+     "142",
+     "8mo ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 142
+   },
+   {
+    "id": "K52ZPhSvrrM",
+    "title": "Running 380 volts 50 hertz Equipment in the USA",
+    "meta": [
+     "213",
+     "8mo ago"
+    ],
+    "dur": "15:47",
+    "views_tab": 213
+   },
+   {
+    "id": "a17ZMnz6cUE",
+    "title": "380 Volts 3 Phase Transformers Explained",
+    "meta": [
+     "269",
+     "8mo ago"
+    ],
+    "dur": "13:08",
+    "views_tab": 269
+   },
+   {
+    "id": "Eaz5Wtuj1XE",
+    "title": "Overloaded Capacitor Banks Troubleshooting and Rectification",
+    "meta": [
+     "33",
+     "8mo ago"
+    ],
+    "dur": "18:38",
+    "views_tab": 33
+   },
+   {
+    "id": "xdpnVb8B7Kg",
+    "title": "Cubicle Power Circuit Requirements Debunked NEC Compliance Explained",
+    "meta": [
+     "82",
+     "8mo ago"
+    ],
+    "dur": "18:07",
+    "views_tab": 82
+   },
+   {
+    "id": "-4pmpvyDZys",
+    "title": "Rephrasing Needed Clarification on Electrician Pay",
+    "meta": [
+     "3",
+     "8mo ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 3
+   },
+   {
+    "id": "1OqW_BoFyhs",
+    "title": "Calculating Total Amps for Lamps After Voltage Change",
+    "meta": [
+     "10",
+     "8mo ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 10
+   },
+   {
+    "id": "I1pXNbwtC4U",
+    "title": "Powering a 230 Volt Motor with 208 Volts",
+    "meta": [
+     "210",
+     "8mo ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 210
+   },
+   {
+    "id": "bryhnNfv-sI",
+    "title": "GFCI Protection Requirements for Accessory Buildings and Bell Towers",
+    "meta": [
+     "7",
+     "8mo ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 7
+   },
+   {
+    "id": "F1qGqEsstog",
+    "title": "2008 National Electrical Code Book Cost",
+    "meta": [
+     "4",
+     "8mo ago"
+    ],
+    "dur": "8:31",
+    "views_tab": 4
+   },
+   {
+    "id": "2aMpou-mqTY",
+    "title": "Recessed Versus Surface Electrical Panels Which Is Better?",
+    "meta": [
+     "154",
+     "8mo ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 154
+   },
+   {
+    "id": "vAxjDJvK10I",
+    "title": "Electrical Work Pricing Northern New Jersey Analysis",
+    "meta": [
+     "26",
+     "8mo ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 26
+   }
+  ],
+  "Popular": [
+   {
+    "id": "O2yRzfkeK9Y",
+    "title": "Wire Size for 100 amp Subpanel Explained",
+    "meta": [
+     "7.6K",
+     "1y ago"
+    ],
+    "dur": "12:10",
+    "views_tab": 7600
+   },
+   {
+    "id": "HtV12DtkqEw",
+    "title": "Understanding 480Y/277 Volt 3-Phase Systems Explained",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 6700
+   },
+   {
+    "id": "AxuWq46gK38",
+    "title": "Adding a Ground Wire To An Old Two Wire System",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 6100
+   },
+   {
+    "id": "6HyiN-dcItE",
+    "title": "Remote Ceiling Fan Light Not Working Troubleshooting Guide",
+    "meta": [
+     "5.5K",
+     "1y ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 5500
+   },
+   {
+    "id": "fI0y0a-zNf0",
+    "title": "Adding Dimmers to Your Four Way Switch Setup",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 5000
+   },
+   {
+    "id": "QrWOOVdIoNE",
+    "title": "Baseboard Heater Troubleshooting and Safety Tips",
+    "meta": [
+     "4.3K",
+     "1y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 4300
+   },
+   {
+    "id": "XA9131rD7z0",
+    "title": "Connecting Three Baseboard Heaters to One Circuit",
+    "meta": [
+     "4.1K",
+     "1y ago"
+    ],
+    "dur": "19:32",
+    "views_tab": 4100
+   },
+   {
+    "id": "LQEjJxDjwpE",
+    "title": "Mixing 14/2 and 12/2 Wire on a 20 Amp Circuit",
+    "meta": [
+     "4.1K",
+     "1y ago"
+    ],
+    "dur": "16:15",
+    "views_tab": 4100
+   },
+   {
+    "id": "vXOSM1iZgQ4",
+    "title": "Breaker Panel Buzzing? Potential Causes and Troubleshooting",
+    "meta": [
+     "4.1K",
+     "1y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 4100
+   },
+   {
+    "id": "HSYPnxVKWbI",
+    "title": "60Hz vs 50Hz System Advantages and Disadvantages Explained",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 4000
+   },
+   {
+    "id": "pNgHQbjusy0",
+    "title": "Understanding Corner Grounded Delta Systems and Neutral Derivation",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 3600
+   },
+   {
+    "id": "V525WE257aA",
+    "title": "Wiring a 230 or 208 Volt Air Conditioner Correctly",
+    "meta": [
+     "3.4K",
+     "1y ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 3400
+   },
+   {
+    "id": "iE5ddqkLQoE",
+    "title": "320 Amp Meter Two 200 Amp Panels Explained",
+    "meta": [
+     "3.4K",
+     "1y ago"
+    ],
+    "dur": "15:23",
+    "views_tab": 3400
+   },
+   {
+    "id": "lNFYr66B_Ik",
+    "title": "Quick PVC Conduit Repair No Re-Pulling Solutions",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 3200
+   },
+   {
+    "id": "hi-yOb0zTY8",
+    "title": "208 Volts GFCI Breaker Wiring Without Neutral Explained",
+    "meta": [
+     "3.1K",
+     "1y ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 3100
+   },
+   {
+    "id": "YxjWC0ArKao",
+    "title": "Locked Rotor Explained What It Is and Why It Matters",
+    "meta": [
+     "3.1K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 3100
+   },
+   {
+    "id": "ctSNq8P5l3U",
+    "title": "Electric Baseboard Heater Thermostat Troubleshooting Guide",
+    "meta": [
+     "2.9K",
+     "1y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 2900
+   },
+   {
+    "id": "3zFPhaE1nlg",
+    "title": "Can You Put 30 Amp Plug on 20 Amp Device?",
+    "meta": [
+     "2.7K",
+     "1y ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 2700
+   },
+   {
+    "id": "aW8VAdfH4A0",
+    "title": "Using 14 AWG Wire on a 20 Amp Circuit?",
+    "meta": [
+     "2.7K",
+     "1y ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 2700
+   },
+   {
+    "id": "H465DXfsZQ0",
+    "title": "Protecting Romex in Attics NEC Requirements Explained",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "12:43",
+    "views_tab": 2600
+   },
+   {
+    "id": "JnY4xVIP4WY",
+    "title": "Wiring a 115/230 Volt Motor Simple Guide",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "-GnzT76Bc4s",
+    "title": "Three Phase Load Balancing Explained Simply",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 2400
+   },
+   {
+    "id": "qHwVuAgukWY",
+    "title": "Extending a 220 Volt Line Safely Explained",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 2400
+   },
+   {
+    "id": "jI4FHjQLdC8",
+    "title": "Sump Pump Tripping Breaker Troubleshooting Guide",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 2400
+   },
+   {
+    "id": "PRTPkdwUY1g",
+    "title": "Wire Size for 100 Amp Garage Feed Explained",
+    "meta": [
+     "2.4K",
+     "9mo ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 2400
+   },
+   {
+    "id": "FMwtqnTeKms",
+    "title": "Wiring 208 Volts Air Conditioner Single Phase Explained",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 2300
+   },
+   {
+    "id": "Ap-7eX5WCS0",
+    "title": "Connecting PVC to Liquid Tight Conduit Code Compliance",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 2300
+   },
+   {
+    "id": "zjmxsawEwHg",
+    "title": "Two Pole Breakers vs Single Pole Understanding NEC",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 2300
+   },
+   {
+    "id": "J9x9eLavCvM",
+    "title": "Wiring 100 Amp Sub-Panel Best Method Explained",
+    "meta": [
+     "2.2K",
+     "11mo ago"
+    ],
+    "dur": "19:53",
+    "views_tab": 2200
+   },
+   {
+    "id": "zXAUsYDtU7I",
+    "title": "Light Switch Reads 30 Volts Off Troubleshooting",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 2200
+   },
+   {
+    "id": "I4iqhonzKDk",
+    "title": "Dishwasher Electrical Connections Receptacle or Hardwired Explained",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 2200
+   },
+   {
+    "id": "bfJSYAhdE0k",
+    "title": "Using 14 AWG Wire on a 20 Amp Circuit Explained",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 2200
+   },
+   {
+    "id": "n0Bdyyp9Ea8",
+    "title": "208 Volts vs 240 Volts Three Phase Power Explained",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "12:31",
+    "views_tab": 2200
+   },
+   {
+    "id": "l8bBWFTzQJg",
+    "title": "Installing a GFCI Breaker Without a Neutral Conductor",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "18:06",
+    "views_tab": 2100
+   },
+   {
+    "id": "bIW-clzPtN0",
+    "title": "GFCI Tripping Troubleshooting Sump Pump Electrical Help",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "12:44",
+    "views_tab": 2100
+   },
+   {
+    "id": "RNRexa4sJTM",
+    "title": "Maximum Breaker Amps for 100 Amp Service Panel",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 2100
+   },
+   {
+    "id": "8XsH26ueZL0",
+    "title": "Shunt Trip Breakers Explained Remote Circuit Control",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 2100
+   },
+   {
+    "id": "1HmDlFCc4j4",
+    "title": "Why a Double Pole Breaker is Needed",
+    "meta": [
+     "2K",
+     "11mo ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 2000
+   },
+   {
+    "id": "VUpE0TF2mzQ",
+    "title": "Understanding L1 L2 and Neutral in Electrical Systems",
+    "meta": [
+     "2K",
+     "9mo ago"
+    ],
+    "dur": "20:50",
+    "views_tab": 2000
+   },
+   {
+    "id": "FVh10tJZspE",
+    "title": "Sauna Heater Wiring Diagrams Explained Simply",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 2000
+   },
+   {
+    "id": "yqXkdmpepq8",
+    "title": "Calculate Wire Length Using Resistance Easy Method",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 2000
+   },
+   {
+    "id": "Haby820T_g8",
+    "title": "Understanding 3 Speed Fan Control Basics Explained",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "18:15",
+    "views_tab": 2000
+   },
+   {
+    "id": "DadJTkVqYQU",
+    "title": "Refrigerator and Freezer on a 20 Amp Breaker",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 2000
+   },
+   {
+    "id": "ZCbxrRsrWFc",
+    "title": "Wire Size for 20 Amp Load Over Long Distance",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 1900
+   },
+   {
+    "id": "uFlu2XGcTas",
+    "title": "Grounding and Bonding Metal Barn Walls and Roof",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 1900
+   },
+   {
+    "id": "oJG16ZBedPY",
+    "title": "Wiring Two Wires Under One Breaker Explained",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 1900
+   },
+   {
+    "id": "9oS4aODS-zE",
+    "title": "Mobile Home Electrical Problems Troubleshooting Neutral and More",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 1900
+   },
+   {
+    "id": "xmZGwKr-1MM",
+    "title": "Maximum Subpanel Size for 100 amp Service Explained",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "18:50",
+    "views_tab": 1900
+   },
+   {
+    "id": "hmuT3vLcQIo",
+    "title": "Using a Two Pole Breaker for 120 Volt Circuit",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 1900
+   },
+   {
+    "id": "ZzoDw6kDwxw",
+    "title": "Solving Annoying Buzzing Sounds in Walls Electrical Mystery",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 1800
+   },
+   {
+    "id": "dB7xX13cdpg",
+    "title": "Running Electrical Conduit and Water Supply in Trench",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "9:41",
+    "views_tab": 1800
+   },
+   {
+    "id": "rN6W_xW0V9M",
+    "title": "PVC Expansion Coupling Installation Best Practices",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 1800
+   },
+   {
+    "id": "401T01HrrTU",
+    "title": "Water Pipe Grounding Rules What You Need to Know",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 1800
+   },
+   {
+    "id": "jHHhZSOHlPg",
+    "title": "Dryer Makes Lights Flicker Electrical Problem? Here's Why",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 1800
+   },
+   {
+    "id": "DHY200cb-Ak",
+    "title": "Pond Pump GFCI Tripping Troubleshooting and Solutions",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "22:06",
+    "views_tab": 1800
+   },
+   {
+    "id": "kBOM5am8HFQ",
+    "title": "EEI CAST Test What Linemen Need to Know",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 1800
+   },
+   {
+    "id": "50G4AOxwxqQ",
+    "title": "Shower Faucet Shocking? Possible Causes and Troubleshooting",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "15:43",
+    "views_tab": 1800
+   },
+   {
+    "id": "2NsyCVtC5io",
+    "title": "Understanding 125% Rule in Electrical Calculations",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "58vQtTMhREo",
+    "title": "Shunt Trip Breaker Wiring Explained Do Not Daisy Chain",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1700
+   },
+   {
+    "id": "XZVaHQWN2Sc",
+    "title": "Megger Testing How to Properly Test Wires",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 1700
+   },
+   {
+    "id": "uTnFmd5yoPE",
+    "title": "Feed Through Lugs vs Double Lugs Electrical Panel Wiring",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 1700
+   },
+   {
+    "id": "F4jqI24hc9w",
+    "title": "Shunt Trip Breakers and Commercial Kitchen Hood Shutdowns",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 1700
+   },
+   {
+    "id": "ZIGll8qL8yo",
+    "title": "Spray Foam Insulation and Electrical Wiring Is it Safe?",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 1700
+   },
+   {
+    "id": "k3QI5uPdEKU",
+    "title": "Grounding a 400 Amp Service Step by Step",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "12:54",
+    "views_tab": 1700
+   },
+   {
+    "id": "kpM3-cmPiCs",
+    "title": "Running Romex in PVC Conduit Code Compliance Guide",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 1700
+   },
+   {
+    "id": "jqjNVhHeT7Y",
+    "title": "Electricity in Tap Water Possible Causes and Troubleshooting",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 1700
+   },
+   {
+    "id": "PRCG2SGKMbM",
+    "title": "Breaker Buzzing Causes and Evaluation by Electrician",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 1700
+   },
+   {
+    "id": "OD00v1_Axqc",
+    "title": "Water Heater Breaker and Wire Sizing Explained",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 1600
+   },
+   {
+    "id": "ZlyiEHa_6gQ",
+    "title": "Understanding Medium Voltage What It Is and Applications",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 1600
+   },
+   {
+    "id": "WtobM8nk46g",
+    "title": "Raceway Versus Wireway Electrical Differences Explained Simply",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 1600
+   },
+   {
+    "id": "hgJNpKjgnO4",
+    "title": "Wiring a Second GFCI Outlet Correctly Explained",
+    "meta": [
+     "1.6K",
+     "10mo ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1600
+   },
+   {
+    "id": "CtzsRnsKqYM",
+    "title": "Why Daisy Chaining Power Strips Is a Bad Idea",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 1600
+   },
+   {
+    "id": "VhntoSZxVm4",
+    "title": "Michigan Contractors Exam Study Guide Key Topics",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 1600
+   },
+   {
+    "id": "d9YhupYfk38",
+    "title": "GFCI Tripping? Quick Troubleshooting Steps for RV Outlets",
+    "meta": [
+     "1.6K",
+     "10mo ago"
+    ],
+    "dur": "10:47",
+    "views_tab": 1600
+   },
+   {
+    "id": "525BZOSm05M",
+    "title": "NFPA 72 Class A Fire Alarm Wiring Explained",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 1600
+   },
+   {
+    "id": "Osu3w51j3K4",
+    "title": "Loud Clicking Noise When Lights Turn Off Explained",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 1600
+   },
+   {
+    "id": "glSnryB6dhU",
+    "title": "Three Way Switches for Ceiling Fans with Lights",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "13:41",
+    "views_tab": 1600
+   },
+   {
+    "id": "wyTGpJnHBw4",
+    "title": "Wiring a Well Pump Control Box Explained Simply",
+    "meta": [
+     "1.5K",
+     "10mo ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 1500
+   },
+   {
+    "id": "cxDpYJdlhR0",
+    "title": "Silver Versus Gold Electrical Conductivity Explained Simply",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 1500
+   },
+   {
+    "id": "DrYe1NOJYt4",
+    "title": "Grounding a Steel Frame Building with 200 Amp Service",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 1500
+   },
+   {
+    "id": "ee0sJFnD2Nw",
+    "title": "Emergency Lighting Circuits NEC Requirements Explained Simply",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 1500
+   },
+   {
+    "id": "j77HonV6NXw",
+    "title": "Running 4/0 Aluminum Wire in a Standard Panel",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 1500
+   },
+   {
+    "id": "NS2ylt35E0E",
+    "title": "Hot Tub Bonding Guide Installation and Safety Tips",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 1500
+   },
+   {
+    "id": "qELJXQeMzRM",
+    "title": "Mounting Outlet Box to Concrete Wall Best Practices",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 1500
+   },
+   {
+    "id": "6dkwbO-xsUU",
+    "title": "Circuit Breaker Compatibility Cross Reference Chart Explained",
+    "meta": [
+     "1.5K",
+     "9mo ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 1500
+   },
+   {
+    "id": "bgIApTujzfo",
+    "title": "Fifth Jaw Meter Socket and Meter Bypass Explained",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "19:51",
+    "views_tab": 1500
+   },
+   {
+    "id": "nTc4E4Ni-dk",
+    "title": "Floating Neutral Explained Electrical Troubleshooting and Solutions",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 1500
+   },
+   {
+    "id": "Kzmh33pTzfs",
+    "title": "Transformer Connections 480 Volts to 208Y/120 Volts",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 1500
+   },
+   {
+    "id": "CUIpn23tACE",
+    "title": "Grounding Your Aboveground Pool A Simple Guide",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 1400
+   },
+   {
+    "id": "cw6Xp0HJfik",
+    "title": "Replacing Old Romex Wiring Without Ripping Out Walls",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 1500
+   },
+   {
+    "id": "tuXNsibQiDI",
+    "title": "Converting 30 Amp to 50 Amp RV Outlet Safely",
+    "meta": [
+     "1.4K",
+     "10mo ago"
+    ],
+    "dur": "17:46",
+    "views_tab": 1400
+   },
+   {
+    "id": "cfPBXaSGk_w",
+    "title": "Garbage Disposal Switch and GFCI Outlet NEC Requirements",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 1400
+   },
+   {
+    "id": "ueHp8NOXB-k",
+    "title": "PVC Conduit in Concrete Slab Installation Guide",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "12:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "7lXhl_6mxcY",
+    "title": "Calculate Panel Full Load Current Easily Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "10:43",
+    "views_tab": 1400
+   },
+   {
+    "id": "9i2Fkvnu0Gs",
+    "title": "Mounting Electrical Panels on Concrete Walls Code Insights",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 1400
+   },
+   {
+    "id": "A99YOTxA1kw",
+    "title": "What is a Duct Bank? Clear Explanation",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "19:53",
+    "views_tab": 1400
+   },
+   {
+    "id": "Md4BZ2wMYNo",
+    "title": "Electrical Shock Mystery Solved Washing Machine Culprit",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 1400
+   },
+   {
+    "id": "Gg1OBDvarrs",
+    "title": "Hot Tub Disconnect Requirements Explained NEC 680.43(E)",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 1400
+   },
+   {
+    "id": "EACNvn_BYfY",
+    "title": "Can You Use a 30 amp Breaker for AC Unit?",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "14:59",
+    "views_tab": 1400
+   },
+   {
+    "id": "JweVbNeff5I",
+    "title": "Fault Current Calculation Explained Step by Step",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 1400
+   },
+   {
+    "id": "ZlMIcGHzHVw",
+    "title": "Caulking Exterior Light Fixtures A Helpful Installation Tip",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 1400
+   },
+   {
+    "id": "C3qeyzt7ep4",
+    "title": "Can You Dim Christmas Tree Lights? Let's Find Out",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "OjdLzo1Bejo",
+    "title": "Generator Voltage Drop Troubleshooting Load and Connections",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 1400
+   },
+   {
+    "id": "GPPVDLT6wu0",
+    "title": "California C-10 Electrical Contractor Exam Prep Guide",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 1400
+   },
+   {
+    "id": "lVVpD6C0b64",
+    "title": "Using 12-2 Wire on 15 Amp Circuits Violations",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 1400
+   },
+   {
+    "id": "Nt7oJZafuXo",
+    "title": "NEC and Sharing Trenches Water Sewer and Electrical",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 1400
+   },
+   {
+    "id": "sEEhA5CNkng",
+    "title": "50/51G versus 50/51N Ground Fault Relays Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 1400
+   },
+   {
+    "id": "BDDF0snsbk4",
+    "title": "Grounding Portable Generators Explained Simple NEC Requirements",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "9:52",
+    "views_tab": 1400
+   },
+   {
+    "id": "DR4l0IFEsI0",
+    "title": "Selecting Wire Size for 200 Amp Panel Box",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "19:16",
+    "views_tab": 1400
+   },
+   {
+    "id": "EYCRMAxDyrg",
+    "title": "Stop Ceiling Fan Humming Troubleshooting Guide",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 1400
+   },
+   {
+    "id": "GWKu8iDCUI8",
+    "title": "Reversed Pump Wiring Impact on Amp Draw Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "12:27",
+    "views_tab": 1400
+   },
+   {
+    "id": "M_Yi9Ij0UVo",
+    "title": "Generator Transfer Switch Grounding and Bonding Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 1400
+   },
+   {
+    "id": "POtNLkD1xTs",
+    "title": "Understanding 480Y/277 Volt Three-Phase Four-Wire Electrical Systems",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "z_FV3XWadq8",
+    "title": "Ansul System Shunt Trip Breaker Connection Guide",
+    "meta": [
+     "1.3K",
+     "9mo ago"
+    ],
+    "dur": "12:34",
+    "views_tab": 1300
+   },
+   {
+    "id": "YevNMzYqMj0",
+    "title": "High Leg Delta Explained Voltage Imbalance and Phase Shift",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 1300
+   },
+   {
+    "id": "0K4J4uWT55Y",
+    "title": "Sump Pump Electrical Connection NEC Requirements and Solutions",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 1300
+   },
+   {
+    "id": "-Z9F5PJoWds",
+    "title": "Ground Rod Testing Guide with a Multimeter",
+    "meta": [
+     "1.3K",
+     "10mo ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 1300
+   },
+   {
+    "id": "t-bA8sUCpfE",
+    "title": "Balancing Electrical Loads Panel Safety and Efficiency",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "21:37",
+    "views_tab": 1300
+   },
+   {
+    "id": "omwzagvsFGM",
+    "title": "Removing a Floor Outlet Safely and Properly",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 1300
+   },
+   {
+    "id": "Q0xplfg2ZNU",
+    "title": "Securely Mounting an LB Connector to a Service Panel",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "18:20",
+    "views_tab": 1300
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "hcoxFQGbfZg",
+    "title": "Understanding Generator Decrement Curves for Power System Stability",
+    "meta": [
+     "456",
+     "1y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 456
+   },
+   {
+    "id": "JJ0DKXA8K9k",
+    "title": "Sensor Controlled Motor Automation Simple Garment Conveyor Hack",
+    "meta": [
+     "17",
+     "1y ago"
+    ],
+    "dur": "1:57",
+    "views_tab": 17
+   },
+   {
+    "id": "HIj0x3mGw1k",
+    "title": "Elevator Feeder Conductor Vibration Causes and Solutions",
+    "meta": [
+     "96",
+     "1y ago"
+    ],
+    "dur": "4:44",
+    "views_tab": 96
+   },
+   {
+    "id": "684ponMTcZk",
+    "title": "Ground Fault Protection Standby System with 3 Pole Transfer",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 24
+   },
+   {
+    "id": "K38TFU2ECoI",
+    "title": "Calculate Wire Size for Long Microhydro Power Run",
+    "meta": [
+     "14",
+     "1y ago"
+    ],
+    "dur": "20:39",
+    "views_tab": 14
+   },
+   {
+    "id": "OJ5PpX14ep0",
+    "title": "Fire Pump Service Conductors Sizing Explained",
+    "meta": [
+     "39",
+     "1y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 39
+   },
+   {
+    "id": "zrklJu8ds4I",
+    "title": "Designated Forum Breaks for Well-being and Healthy Relationships",
+    "meta": [
+     "3",
+     "1y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 3
+   },
+   {
+    "id": "uB0pS1Wkrzc",
+    "title": "Master Electrician License Versus Electrical Engineering License",
+    "meta": [
+     "246",
+     "1y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 246
+   },
+   {
+    "id": "LI_XQoP7qtA",
+    "title": "Cord-Connected UPS and NEC 400.8(1) Violation Explained",
+    "meta": [
+     "12",
+     "1y ago"
+    ],
+    "dur": "16:23",
+    "views_tab": 12
+   },
+   {
+    "id": "Xl02QylJLLE",
+    "title": "Calculating Electrical Load for Condo Common Areas",
+    "meta": [
+     "32",
+     "1y ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 32
+   },
+   {
+    "id": "ZpIOXKnYrJQ",
+    "title": "Cable Impedance Per Unit Conversion Explained Simply",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 21
+   },
+   {
+    "id": "GAa4NFWeg_Y",
+    "title": "200 Amp Service Disconnect Code Requirements Explained",
+    "meta": [
+     "328",
+     "1y ago"
+    ],
+    "dur": "17:42",
+    "views_tab": 328
+   },
+   {
+    "id": "V-523u9UKMM",
+    "title": "Fused vs Non-Fused Disconnects for 480 Volts AHU",
+    "meta": [
+     "33",
+     "1y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 33
+   },
+   {
+    "id": "HKopUmdVRQA",
+    "title": "Short Circuit Current Rating for Class 1 Div 1 Panels",
+    "meta": [
+     "6",
+     "1y ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 6
+   },
+   {
+    "id": "4-qHI8Z3iWs",
+    "title": "Subpanel Load Calculation Review and Breaker Sizing",
+    "meta": [
+     "134",
+     "1y ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 134
+   },
+   {
+    "id": "O2iSN6qding",
+    "title": "Isolated Ground Circuits and Romex Cable Explained",
+    "meta": [
+     "61",
+     "1y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 61
+   },
+   {
+    "id": "Vqyo_2jl8Wc",
+    "title": "DC Motors and AC System Short Circuit Studies",
+    "meta": [
+     "3",
+     "1y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 3
+   },
+   {
+    "id": "sVC4PPkwRqk",
+    "title": "Fire Pump Conductor and Conduit Sizing Explained",
+    "meta": [
+     "70",
+     "1y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 70
+   },
+   {
+    "id": "Xr_v2re9644",
+    "title": "Understanding Transformer Connections and Current Measurements",
+    "meta": [
+     "0",
+     "1y ago"
+    ],
+    "dur": "12:41",
+    "views_tab": 0
+   },
+   {
+    "id": "MyaCD-LqBYc",
+    "title": "Transformer Secondary Protection NEC Requirements Explained",
+    "meta": [
+     "145",
+     "1y ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 145
+   },
+   {
+    "id": "MsPTIiWP1o4",
+    "title": "Circuit Breaker and Device Temperature Testing Explained",
+    "meta": [
+     "65",
+     "1y ago"
+    ],
+    "dur": "11:28",
+    "views_tab": 65
+   },
+   {
+    "id": "jmNP9edAVt8",
+    "title": "Open Delta Transformer Capacity Calculation 4 Wire System",
+    "meta": [
+     "73",
+     "1y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 73
+   },
+   {
+    "id": "TyMLIx_qLsg",
+    "title": "NEC 300.7 and Communication Wiring Applicability Explained",
+    "meta": [
+     "28",
+     "1y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 28
+   },
+   {
+    "id": "xVKueodDWCM",
+    "title": "Buss Drop Cable Ampacity NEC Article Explained",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 15
+   },
+   {
+    "id": "ecMohNt03vM",
+    "title": "Resistive versus Inductive Loads on Contactors Explained",
+    "meta": [
+     "199",
+     "1y ago"
+    ],
+    "dur": "16:28",
+    "views_tab": 199
+   },
+   {
+    "id": "SA_kJhITveM",
+    "title": "Duct Bank Ampacity NEC Table Selection Explained",
+    "meta": [
+     "44",
+     "1y ago"
+    ],
+    "dur": "17:05",
+    "views_tab": 44
+   },
+   {
+    "id": "UsWnNJvRppY",
+    "title": "Barn Subpanel Wire Size and Capacity Calculation",
+    "meta": [
+     "100",
+     "1y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 100
+   },
+   {
+    "id": "f7MwrfWF1l0",
+    "title": "Lightronics Dimmer AR-1202 Single Phase Power Explained",
+    "meta": [
+     "119",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 119
+   },
+   {
+    "id": "18rXGbB0sNc",
+    "title": "Feeding Multi-Dwelling Unit Panels NEC Requirements Explained",
+    "meta": [
+     "13",
+     "1y ago"
+    ],
+    "dur": "13:54",
+    "views_tab": 13
+   },
+   {
+    "id": "6LdDhiAKZic",
+    "title": "Generator Sizing for Emergency Operations Centers Explained",
+    "meta": [
+     "5",
+     "1y ago"
+    ],
+    "dur": "13:50",
+    "views_tab": 5
+   },
+   {
+    "id": "1gDrIzh9r88",
+    "title": "Ground Wire Importance for 4160 Volts Overhead Line",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 24
+   },
+   {
+    "id": "1cyyvNBPPHE",
+    "title": "IG Branch Circuits Tenant Preferences and Code Compliance",
+    "meta": [
+     "3",
+     "1y ago"
+    ],
+    "dur": "10:53",
+    "views_tab": 3
+   },
+   {
+    "id": "MuJFX5h__SY",
+    "title": "Fault Current Calculation When Missing Impedance or kVA",
+    "meta": [
+     "45",
+     "1y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 45
+   },
+   {
+    "id": "_RzpL2MUasE",
+    "title": "15kV Oil Insulated Cable Termination Time and Steps",
+    "meta": [
+     "71",
+     "1y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 71
+   },
+   {
+    "id": "CcM2kY9wZtg",
+    "title": "HVAC Motor Wiring Explained Capacitor Start Motors",
+    "meta": [
+     "14",
+     "1y ago"
+    ],
+    "dur": "17:03",
+    "views_tab": 14
+   },
+   {
+    "id": "0DYcUCrFj1g",
+    "title": "Main Breaker and Fused Switch Loading Explained",
+    "meta": [
+     "4",
+     "1y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 4
+   },
+   {
+    "id": "xsN-w-F7eAM",
+    "title": "Radiant Floor Heat Zone Relay Recommendation and Wiring",
+    "meta": [
+     "190",
+     "1y ago"
+    ],
+    "dur": "3:49",
+    "views_tab": 190
+   },
+   {
+    "id": "pN2ozr3gtkQ",
+    "title": "Calculating Electrical Service Size for Home Heating and Cooling",
+    "meta": [
+     "5",
+     "1y ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 5
+   },
+   {
+    "id": "0zIuKF2Qebg",
+    "title": "Transformer Configurations Wye vs Delta for Campus Distribution",
+    "meta": [
+     "4",
+     "1y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 4
+   },
+   {
+    "id": "D4mOtKn-S8I",
+    "title": "Calculating Residential Electrical Loads Understanding the 80 Percent Rule",
+    "meta": [
+     "26",
+     "1y ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 26
+   },
+   {
+    "id": "UvFVYUpQ8Vs",
+    "title": "Transformer Disconnect Requirements Explained NEC 450.3",
+    "meta": [
+     "155",
+     "1y ago"
+    ],
+    "dur": "17:38",
+    "views_tab": 155
+   },
+   {
+    "id": "YvYqcVntxcM",
+    "title": "No Amperage at an Off Switch Explained",
+    "meta": [
+     "2",
+     "1y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 2
+   },
+   {
+    "id": "hyUITDWrWQM",
+    "title": "Viking Oven Wiring Dedicated Neutral Explained",
+    "meta": [
+     "192",
+     "1y ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 192
+   },
+   {
+    "id": "fHJ2hSwxbYk",
+    "title": "Restaurant Electrical Load Exhaust Fan and Make-Up Air",
+    "meta": [
+     "25",
+     "1y ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 25
+   },
+   {
+    "id": "dD5_3JCzUH4",
+    "title": "Using a 400 Hertz Transformer on 60 Hertz System",
+    "meta": [
+     "73",
+     "1y ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 73
+   },
+   {
+    "id": "UPv7uLHlUGU",
+    "title": "Transformer Acceptance Tests Verifying Your Pad Mount Transformer",
+    "meta": [
+     "34",
+     "1y ago"
+    ],
+    "dur": "14:58",
+    "views_tab": 34
+   },
+   {
+    "id": "Dt-umerO12U",
+    "title": "Calculating Conduit Fill for Nipples Explained Simply",
+    "meta": [
+     "194",
+     "1y ago"
+    ],
+    "dur": "12:24",
+    "views_tab": 194
+   },
+   {
+    "id": "GANBeRUWFI4",
+    "title": "Choosing Breaker and Conductor Size for Heat Pump",
+    "meta": [
+     "162",
+     "1y ago"
+    ],
+    "dur": "14:54",
+    "views_tab": 162
+   },
+   {
+    "id": "FU9RXTRfOIA",
+    "title": "Cable Tray Fill Capacity Calculating TC 10-3 Cables",
+    "meta": [
+     "74",
+     "1y ago"
+    ],
+    "dur": "17:51",
+    "views_tab": 74
+   },
+   {
+    "id": "Hf_KrpnsLgk",
+    "title": "Voltage Between Circuits Explained NEC 404.8(B)",
+    "meta": [
+     "8",
+     "1y ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 8
+   },
+   {
+    "id": "oDfuzrn5avE",
+    "title": "Sizing Transformer Overcurrent Protection Device for Printing Press",
+    "meta": [
+     "3",
+     "1y ago"
+    ],
+    "dur": "12:24",
+    "views_tab": 3
+   },
+   {
+    "id": "0ejoLR2GO-I",
+    "title": "Understanding Three Phase Power for Your Conveyor Motor",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "26:33",
+    "views_tab": 15
+   },
+   {
+    "id": "4jIce-fVlJg",
+    "title": "Calculate Three Phase Heater Bank Wattage Explained",
+    "meta": [
+     "124",
+     "1y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 124
+   },
+   {
+    "id": "GKMce_o4bVY",
+    "title": "GFCI Protection for Shop Receptacles Explained Simply",
+    "meta": [
+     "4",
+     "1y ago"
+    ],
+    "dur": "10:58",
+    "views_tab": 4
+   },
+   {
+    "id": "bQYLK65Buns",
+    "title": "Overhead to Underground Power Line Tower Inductive Heating",
+    "meta": [
+     "7",
+     "1y ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 7
+   },
+   {
+    "id": "0SzHtGbNjKo",
+    "title": "When to Switch the Neutral in a Transfer Switch",
+    "meta": [
+     "266",
+     "1y ago"
+    ],
+    "dur": "31:34",
+    "views_tab": 266
+   },
+   {
+    "id": "UyX3IS5gZhg",
+    "title": "Understanding Type D Thermo-Magnetic Circuit Breakers",
+    "meta": [
+     "5",
+     "1y ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 5
+   },
+   {
+    "id": "IS7ZKIvPGpU",
+    "title": "Electric Oven Voltage Change Branch Circuit Considerations",
+    "meta": [
+     "7",
+     "1y ago"
+    ],
+    "dur": "13:37",
+    "views_tab": 7
+   },
+   {
+    "id": "3YN8HwZ7kOg",
+    "title": "208 Volts Single Phase Versus 208 Volts Three Phase",
+    "meta": [
+     "490",
+     "1y ago"
+    ],
+    "dur": "18:46",
+    "views_tab": 490
+   },
+   {
+    "id": "158iFlPymsQ",
+    "title": "PIN Insulators Versus Surge Protectors Explained",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "19:36",
+    "views_tab": 9
+   },
+   {
+    "id": "oivDOzJ7SMQ",
+    "title": "HCAR Breakers for HVAC Units NEC Requirements",
+    "meta": [
+     "35",
+     "1y ago"
+    ],
+    "dur": "18:01",
+    "views_tab": 35
+   },
+   {
+    "id": "emjBrxwr17U",
+    "title": "Calculating Amps for AC Equipment Peak Load",
+    "meta": [
+     "106",
+     "1y ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 106
+   },
+   {
+    "id": "O7jmAf3damo",
+    "title": "Maximum Conductor and OCPD Size Code Reference Explained",
+    "meta": [
+     "62",
+     "1y ago"
+    ],
+    "dur": "12:10",
+    "views_tab": 62
+   },
+   {
+    "id": "-pXx00V_Gbo",
+    "title": "Wireway Conductor Fill Calculation Explained NEC 376.25",
+    "meta": [
+     "99",
+     "1y ago"
+    ],
+    "dur": "14:29",
+    "views_tab": 99
+   },
+   {
+    "id": "Q7iJ0PNAXcw",
+    "title": "Isolation Panels Explained Surgical Suites Electrical Safety",
+    "meta": [
+     "185",
+     "1y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 185
+   },
+   {
+    "id": "KE3S4zLmHVw",
+    "title": "Wire Ampacity, Breakers, and Receptacle Temperature Ratings",
+    "meta": [
+     "31",
+     "1y ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 31
+   },
+   {
+    "id": "i8o9uj4NNYM",
+    "title": "Adding Electrical Panels What the NEC Says",
+    "meta": [
+     "3",
+     "1y ago"
+    ],
+    "dur": "11:43",
+    "views_tab": 3
+   },
+   {
+    "id": "fn8zXbBg878",
+    "title": "Industrial Oven Wiring Ampacity and Termination Considerations",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "12:33",
+    "views_tab": 21
+   },
+   {
+    "id": "tjP3RzS8HGA",
+    "title": "NEC Cable Installation Requirements in Pump Rooms Explained",
+    "meta": [
+     "4",
+     "1y ago"
+    ],
+    "dur": "16:26",
+    "views_tab": 4
+   },
+   {
+    "id": "6SYLpXlWX8I",
+    "title": "Calculating Voltage Drop for General Purpose Receptacles",
+    "meta": [
+     "11",
+     "1y ago"
+    ],
+    "dur": "16:16",
+    "views_tab": 11
+   },
+   {
+    "id": "iWA0VisgaQ8",
+    "title": "Hermetic Air Conditioners and NEC 430.24 Explained",
+    "meta": [
+     "7",
+     "1y ago"
+    ],
+    "dur": "24:32",
+    "views_tab": 7
+   },
+   {
+    "id": "aapm_Rv4PJY",
+    "title": "Conduit and Breaker Upgrade for 200 Amps Service",
+    "meta": [
+     "1",
+     "1y ago"
+    ],
+    "dur": "21:23",
+    "views_tab": 1
+   },
+   {
+    "id": "cGcL4QYYrl8",
+    "title": "Arc Flash Calculations Explained for Journeymen Simply",
+    "meta": [
+     "285",
+     "1y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 285
+   },
+   {
+    "id": "W8He9lhRO1s",
+    "title": "Questionable Energy Saving Product Claims Debunked",
+    "meta": [
+     "0",
+     "1y ago"
+    ],
+    "dur": "12:56",
+    "views_tab": 0
+   },
+   {
+    "id": "nrQw7UfHFQY",
+    "title": "Calculating Amperage and Cable Size for Voltage Drop",
+    "meta": [
+     "6",
+     "1y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 6
+   },
+   {
+    "id": "QvLNWSjORcM",
+    "title": "Power and Control Cable Bundling Minimize Interference",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "20:19",
+    "views_tab": 15
+   },
+   {
+    "id": "Bf7LTWQYTiE",
+    "title": "Wiring Two Branch Circuits to a Two Pole Switch?",
+    "meta": [
+     "3",
+     "1y ago"
+    ],
+    "dur": "12:28",
+    "views_tab": 3
+   },
+   {
+    "id": "P6jq4rfham8",
+    "title": "Unveiling Stealth Technology Rockwell International's Deep Dive",
+    "meta": [
+     "6",
+     "1y ago"
+    ],
+    "dur": "16:26",
+    "views_tab": 6
+   },
+   {
+    "id": "mAbqhIaOHTU",
+    "title": "Jacuzzi NEC Code Requirements Simplified",
+    "meta": [
+     "213",
+     "1y ago"
+    ],
+    "dur": "18:20",
+    "views_tab": 213
+   },
+   {
+    "id": "JJcSuf8uo-Q",
+    "title": "Half-Wave Rectifier Effective Power Output Explained",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 9
+   },
+   {
+    "id": "7Nap4O3V2pI",
+    "title": "Optional Calculation Method for Feeders Under 100 Amps",
+    "meta": [
+     "2",
+     "1y ago"
+    ],
+    "dur": "11:35",
+    "views_tab": 2
+   },
+   {
+    "id": "Wx3JdEyURzA",
+    "title": "Megger Test Evaluation and Motor Resistance Standards Explained",
+    "meta": [
+     "101",
+     "1y ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 101
+   },
+   {
+    "id": "EGQ9uBokDqU",
+    "title": "Understanding 1 to 50 Scale in Electrical Plans",
+    "meta": [
+     "242",
+     "1y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 242
+   },
+   {
+    "id": "hPiK0pV89K4",
+    "title": "Conductor Sizing for Distribution Panels Explained",
+    "meta": [
+     "16",
+     "1y ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 16
+   },
+   {
+    "id": "vUUeHXB9V_s",
+    "title": "Emergency Electrical Power Systems Policy Explained Simply",
+    "meta": [
+     "6",
+     "1y ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 6
+   },
+   {
+    "id": "V2l4YqUNjBo",
+    "title": "How Many Ceiling Fans Per 3-Speed Control",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 24
+   },
+   {
+    "id": "C9u_uMhHRS4",
+    "title": "Calculating Electrical Service Size for Commercial Art Showroom",
+    "meta": [
+     "0",
+     "1y ago"
+    ],
+    "dur": "11:37",
+    "views_tab": 0
+   },
+   {
+    "id": "CkleXPEFOtg",
+    "title": "K Factor Transformer Impact K=13 vs K=4",
+    "meta": [
+     "212",
+     "1y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 212
+   },
+   {
+    "id": "fHARnzJ3Ee4",
+    "title": "Tapping Power Between Motor Starters Safely Explained",
+    "meta": [
+     "6",
+     "1y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 6
+   },
+   {
+    "id": "fm4G2tAJfg0",
+    "title": "Oversized Wiring for Transformer Explained Possible Reasons",
+    "meta": [
+     "14",
+     "1y ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 14
+   },
+   {
+    "id": "vh0y3pMckbI",
+    "title": "Subpanel Wire Size Considerations and Charts",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "12:34",
+    "views_tab": 50
+   },
+   {
+    "id": "fJJYmfvXfmk",
+    "title": "Wireway Fill Capacity Explained Splices and Conductors",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "15:38",
+    "views_tab": 27
+   },
+   {
+    "id": "-GnzT76Bc4s",
+    "title": "Three Phase Load Balancing Explained Simply",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 2400
+   },
+   {
+    "id": "gZuBfJ1mS88",
+    "title": "EMT Conduit Support Mastering Wire Suspension Techniques",
+    "meta": [
+     "45",
+     "1y ago"
+    ],
+    "dur": "13:14",
+    "views_tab": 45
+   },
+   {
+    "id": "NPaOZOhZ2U4",
+    "title": "Addressing High K Factor on a Dry Type Transformer",
+    "meta": [
+     "20",
+     "1y ago"
+    ],
+    "dur": "11:12",
+    "views_tab": 20
+   },
+   {
+    "id": "MnLLsilPreI",
+    "title": "Sizing Neutral Conductors for Commercial Buildings Explained",
+    "meta": [
+     "324",
+     "1y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 324
+   },
+   {
+    "id": "tFuTW-BUBpU",
+    "title": "NEC 110.26(F)(1) and Wall Ledges Explained Simply",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "6:03",
+    "views_tab": 9
+   },
+   {
+    "id": "hxzM4_tNPbk",
+    "title": "NEC Requirements for Neutral Conductors in Conduit",
+    "meta": [
+     "16",
+     "1y ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 16
+   },
+   {
+    "id": "VN8dKDiCdec",
+    "title": "600 Volts Electrical Facility Considerations and Challenges",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 9
+   },
+   {
+    "id": "xIyprmJbFZI",
+    "title": "Parking Lot Light Bulb Replacement Strategy Explained",
+    "meta": [
+     "46",
+     "1y ago"
+    ],
+    "dur": "11:38",
+    "views_tab": 46
+   },
+   {
+    "id": "mJshPf6be4Y",
+    "title": "Sizing Conductors for Continuous Loads NEC Table 310.16 Explained",
+    "meta": [
+     "103",
+     "1y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 103
+   },
+   {
+    "id": "Eey3JxHZZlA",
+    "title": "Driving a 220 Volts Motor with 110 Volts No Go",
+    "meta": [
+     "2",
+     "1y ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 2
+   },
+   {
+    "id": "r8o6NfMV_VI",
+    "title": "Transformer Sizing and Conductor Selection Made Easy",
+    "meta": [
+     "29",
+     "1y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 29
+   },
+   {
+    "id": "DbzM8eosQgE",
+    "title": "Transformer Cutout and Fuse Sizing Explained Correctly",
+    "meta": [
+     "339",
+     "1y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 339
+   },
+   {
+    "id": "NbjGGljfMEs",
+    "title": "Metal Halide Lamp Lifespan Replacement and Maintenance Tips",
+    "meta": [
+     "133",
+     "1y ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 133
+   },
+   {
+    "id": "LHbZUPxDpQg",
+    "title": "AFCI Outlets and Bedroom Lighting What You Need to Know",
+    "meta": [
+     "53",
+     "1y ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 53
+   },
+   {
+    "id": "lU5foiKp3E4",
+    "title": "Romex Cable Diameter Conduit Fill and Bend Radius Explained",
+    "meta": [
+     "169",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 169
+   },
+   {
+    "id": "F4sGiwSO9HU",
+    "title": "Water Heater Load Standard vs Optional NEC Calculation",
+    "meta": [
+     "113",
+     "1y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 113
+   },
+   {
+    "id": "A7zQf7lMk-M",
+    "title": "Electrical Bids and Load Calculations for Large Homes",
+    "meta": [
+     "5",
+     "1y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 5
+   },
+   {
+    "id": "9PJ9bpBO_gI",
+    "title": "Understanding Neutral Current in Three Phase Electrical Systems",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 24
+   },
+   {
+    "id": "E2kt6vUBiJ4",
+    "title": "Duplex Breakers NEC Rules Old Library Electrical Study",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 15
+   },
+   {
+    "id": "W8rxKLOap-w",
+    "title": "480 Volt 3 Phase B Leg to Ground (Corner Grounded) Explained",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "1:43",
+    "views_tab": 1300
+   },
+   {
+    "id": "w06jMinfA_Y",
+    "title": "Transformer Troubleshooting High Neutral Current and Loud Noise",
+    "meta": [
+     "14",
+     "1y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 14
+   },
+   {
+    "id": "fv-pGwm6sEA",
+    "title": "Fuse Let Through Current Protect Your Construction Site",
+    "meta": [
+     "65",
+     "1y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 65
+   },
+   {
+    "id": "pHokjGGJC_0",
+    "title": "Transformer as Inductor Open Secondary Explained",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 21
+   },
+   {
+    "id": "zeLSd-ezS9U",
+    "title": "PC Power Guide Understanding Amps Watts and Safe Wiring",
+    "meta": [
+     "8",
+     "1y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 8
+   },
+   {
+    "id": "hb624iKifW0",
+    "title": "Load Diversity and Conductor Adjustment Factors Explained",
+    "meta": [
+     "4",
+     "1y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 4
+   },
+   {
+    "id": "yo1IRqtXS-s",
+    "title": "Calculating Meter Bank Loads 208V 3 Phase Explained",
+    "meta": [
+     "29",
+     "1y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 29
+   },
+   {
+    "id": "8FmEf79s3-4",
+    "title": "Generator Short Circuit Current Explained Protect Your System",
+    "meta": [
+     "255",
+     "1y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 255
+   },
+   {
+    "id": "fisFRr5XcmE",
+    "title": "ATS Grounding and Ground Fault Protection Explained Simply",
+    "meta": [
+     "103",
+     "1y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 103
+   }
+  ]
+ }
+}

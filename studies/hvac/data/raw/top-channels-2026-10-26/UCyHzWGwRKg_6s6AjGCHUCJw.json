@@ -1,0 +1,49 @@
+{
+ "key": "UCyHzWGwRKg_6s6AjGCHUCJw",
+ "channel": "America Unbuilt",
+ "id": "UCyHzWGwRKg_6s6AjGCHUCJw",
+ "subs": "359 subscribers",
+ "videos": "3 videos",
+ "pulled": "2026-10-26T08:16:10.350154+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "L3mVWGJRpEs",
+    "title": "America's New Geothermal Drill Could Power the Entire Country",
+    "meta": [
+     "82K",
+     "6d ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 82000
+   },
+   {
+    "id": "T5B7_xGeIYE",
+    "title": "America's New Space Elevator Could Replace Rockets Forever",
+    "meta": [
+     "267",
+     "3w ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 267
+   },
+   {
+    "id": "DXxYTp8G2B4",
+    "title": "The Civilization Before Humanity \u2014 Lost in Deep Time?",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 1500
+   }
+  ],
+  "Latest": null,
+  "Popular": null,
+  "Oldest": null
+ }
+}

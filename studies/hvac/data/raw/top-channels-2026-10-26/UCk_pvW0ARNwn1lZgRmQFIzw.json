@@ -1,0 +1,3925 @@
+{
+ "key": "UCk_pvW0ARNwn1lZgRmQFIzw",
+ "channel": "Simon Says Home Assistant",
+ "id": "UCk_pvW0ARNwn1lZgRmQFIzw",
+ "subs": "13.9K subscribers",
+ "videos": "661 videos",
+ "pulled": "2026-10-26T08:15:51.328630+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "b72ONrwsr20",
+    "title": "Finally a True Drag and Drop Interface for Home Assistant Dashboards!",
+    "meta": [
+     "5.2K",
+     "17h ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 5200
+   },
+   {
+    "id": "oyYORd-DohI",
+    "title": "My Top 15 Integrations for Home Assistant in 2026!",
+    "meta": [
+     "5.2K",
+     "1d ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 5200
+   },
+   {
+    "id": "fvsp35wwlWU",
+    "title": "Beautiful Home Assistant Dashboards with Vulpo!",
+    "meta": [
+     "5.7K",
+     "2d ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 5700
+   },
+   {
+    "id": "ytGG3ZDQbrc",
+    "title": "Home Assistant Running on an Android TV Box!",
+    "meta": [
+     "5.1K",
+     "4d ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 5100
+   },
+   {
+    "id": "4YJMwGmXcqc",
+    "title": "Amazing Smart Tracking with the Reolink OMVI 2i !",
+    "meta": [
+     "1.4K",
+     "4d ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 1400
+   },
+   {
+    "id": "7Fk98CbzBjE",
+    "title": "eInk Touch Function now Working with Home Assistant!",
+    "meta": [
+     "5K",
+     "7d ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 5000
+   },
+   {
+    "id": "jSxDCR7BxNY",
+    "title": "My Top 10 Home Assistant Apps for 2026!",
+    "meta": [
+     "15K",
+     "10d ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 15000
+   },
+   {
+    "id": "3Ewshiqa6tY",
+    "title": "Now you can Control Home Assistant with the UControl Home Theatre Remote!",
+    "meta": [
+     "4K",
+     "12d ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 4000
+   },
+   {
+    "id": "W4axTXTWdEw",
+    "title": "Finaly a Drag and Drop ESP 32 Screen Builder for Home Assistant!",
+    "meta": [
+     "25K",
+     "2w ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 25000
+   },
+   {
+    "id": "swZUDamFs6U",
+    "title": "Build a Home Assistant Wall Tablet Dashboard in 20 Minutes (2026)",
+    "meta": [
+     "15K",
+     "2w ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 15000
+   },
+   {
+    "id": "wJheAXfvOOs",
+    "title": "Finally I can Manage my Day Job with the SwitchBot AI MindClip!",
+    "meta": [
+     "1.3K",
+     "2w ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 1300
+   },
+   {
+    "id": "u4ovRKtePiE",
+    "title": "HACS Soon to become Marketplace in Home Assistant!",
+    "meta": [
+     "13K",
+     "2w ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 13000
+   },
+   {
+    "id": "J5nTYpzR_FM",
+    "title": "Top 10 Smart Home Deals on Amazon Prime Day!",
+    "meta": [
+     "1.1K",
+     "2w ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 1100
+   },
+   {
+    "id": "LqFLHZzLR54",
+    "title": "Now IR Proxy is Easy with the Kincony IR Gateway and ESP Home!",
+    "meta": [
+     "2.7K",
+     "3w ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 2700
+   },
+   {
+    "id": "TBi4I9KeeN0",
+    "title": "SONOFF's New Matter Mini Switch in Home Assistant (MINI-1GS)",
+    "meta": [
+     "1.7K",
+     "3w ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "flL3gfr8BBo",
+    "title": "Finally, a Completely Cordless Home Assistant Wall Display from Inkanva!",
+    "meta": [
+     "12K",
+     "3w ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "Nit-ovHDRdo",
+    "title": "SONOFF Zigbee Smart Thermostat for Home Assistant",
+    "meta": [
+     "3.3K",
+     "3w ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 3300
+   },
+   {
+    "id": "wWkIrMk99Zs",
+    "title": "I Built a DIY RFID (NFC) Tag Reader for Home Assistant for Under US $15 (2026)",
+    "meta": [
+     "4.6K",
+     "4w ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 4600
+   },
+   {
+    "id": "p2kbuqyJbdg",
+    "title": "I Built an Amazing Home Assistant Dashboard in 20 Minutes with Grok AI!",
+    "meta": [
+     "12K",
+     "4w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 12000
+   },
+   {
+    "id": "JzxbZqUhoJc",
+    "title": "This E-Ink Sonoff Zigbee Temp/Humid Sensor Is Perfect for Home Assistant!",
+    "meta": [
+     "4.1K",
+     "1mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 4100
+   },
+   {
+    "id": "8oHWG8YcNdU",
+    "title": "DIY Air Quality Sensor - With the Apollo Automation's ESP Home Starter Kit and Home Assistant",
+    "meta": [
+     "1.5K",
+     "1mo ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 1500
+   },
+   {
+    "id": "7W2t5WOJevA",
+    "title": "SwitchBot E-Ink Home Dashboard",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 2400
+   },
+   {
+    "id": "ZgWLEoTmUQM",
+    "title": "DIY IR Transmitter / Receiver build for Home Assistant",
+    "meta": [
+     "12K",
+     "1mo ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 12000
+   },
+   {
+    "id": "dJY6T67CdZE",
+    "title": "Modular Air Quality Sensing with Sensereo Airo and Home Assistant",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "7:11",
+    "views_tab": 1000
+   },
+   {
+    "id": "6GElnTifkEg",
+    "title": "Third Reality Air Quality Sensor \u2013 Full Features, Accuracy & Verdict",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 2400
+   },
+   {
+    "id": "NLwh_Tu0XFk",
+    "title": "Enecess Home Energy Power Monitoring with Ethernet Connection to Home Assistant!",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 10000
+   },
+   {
+    "id": "_n6XpR2eMr8",
+    "title": "Aqara FP400: Next-Gen Spatial Sensing Done Right!",
+    "meta": [
+     "8.4K",
+     "1mo ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 8400
+   },
+   {
+    "id": "Kw2mBjs_VF4",
+    "title": "Dartsnut Pixeldarts: Raspberry Pie based Retro Game Hub",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 1200
+   },
+   {
+    "id": "WzQ0RAN3dJI",
+    "title": "Switch 16A Devices with SONOFF MINI ONE Zigbee Smart Switch and Home Assistant",
+    "meta": [
+     "3.9K",
+     "1mo ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 3900
+   },
+   {
+    "id": "oYhS7bhX6Jc",
+    "title": "Sonoff Window Camera CAM-S3W  : Great for Apartments with Home Assistant!",
+    "meta": [
+     "7.9K",
+     "1mo ago"
+    ],
+    "dur": "6:08",
+    "views_tab": 7900
+   }
+  ],
+  "Latest": [
+   {
+    "id": "b72ONrwsr20",
+    "title": "Finally a True Drag and Drop Interface for Home Assistant Dashboards!",
+    "meta": [
+     "5.2K",
+     "17h ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 5200
+   },
+   {
+    "id": "oyYORd-DohI",
+    "title": "My Top 15 Integrations for Home Assistant in 2026!",
+    "meta": [
+     "5.2K",
+     "1d ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 5200
+   },
+   {
+    "id": "fvsp35wwlWU",
+    "title": "Beautiful Home Assistant Dashboards with Vulpo!",
+    "meta": [
+     "5.7K",
+     "2d ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 5700
+   },
+   {
+    "id": "ytGG3ZDQbrc",
+    "title": "Home Assistant Running on an Android TV Box!",
+    "meta": [
+     "5.1K",
+     "4d ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 5100
+   },
+   {
+    "id": "4YJMwGmXcqc",
+    "title": "Amazing Smart Tracking with the Reolink OMVI 2i !",
+    "meta": [
+     "1.4K",
+     "4d ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 1400
+   },
+   {
+    "id": "7Fk98CbzBjE",
+    "title": "eInk Touch Function now Working with Home Assistant!",
+    "meta": [
+     "5K",
+     "7d ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 5000
+   },
+   {
+    "id": "jSxDCR7BxNY",
+    "title": "My Top 10 Home Assistant Apps for 2026!",
+    "meta": [
+     "15K",
+     "10d ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 15000
+   },
+   {
+    "id": "3Ewshiqa6tY",
+    "title": "Now you can Control Home Assistant with the UControl Home Theatre Remote!",
+    "meta": [
+     "4K",
+     "12d ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 4000
+   },
+   {
+    "id": "W4axTXTWdEw",
+    "title": "Finaly a Drag and Drop ESP 32 Screen Builder for Home Assistant!",
+    "meta": [
+     "25K",
+     "2w ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 25000
+   },
+   {
+    "id": "swZUDamFs6U",
+    "title": "Build a Home Assistant Wall Tablet Dashboard in 20 Minutes (2026)",
+    "meta": [
+     "15K",
+     "2w ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 15000
+   },
+   {
+    "id": "wJheAXfvOOs",
+    "title": "Finally I can Manage my Day Job with the SwitchBot AI MindClip!",
+    "meta": [
+     "1.3K",
+     "2w ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 1300
+   },
+   {
+    "id": "u4ovRKtePiE",
+    "title": "HACS Soon to become Marketplace in Home Assistant!",
+    "meta": [
+     "13K",
+     "2w ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 13000
+   },
+   {
+    "id": "J5nTYpzR_FM",
+    "title": "Top 10 Smart Home Deals on Amazon Prime Day!",
+    "meta": [
+     "1.1K",
+     "2w ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 1100
+   },
+   {
+    "id": "LqFLHZzLR54",
+    "title": "Now IR Proxy is Easy with the Kincony IR Gateway and ESP Home!",
+    "meta": [
+     "2.7K",
+     "3w ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 2700
+   },
+   {
+    "id": "TBi4I9KeeN0",
+    "title": "SONOFF's New Matter Mini Switch in Home Assistant (MINI-1GS)",
+    "meta": [
+     "1.7K",
+     "3w ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "flL3gfr8BBo",
+    "title": "Finally, a Completely Cordless Home Assistant Wall Display from Inkanva!",
+    "meta": [
+     "12K",
+     "3w ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "Nit-ovHDRdo",
+    "title": "SONOFF Zigbee Smart Thermostat for Home Assistant",
+    "meta": [
+     "3.3K",
+     "3w ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 3300
+   },
+   {
+    "id": "wWkIrMk99Zs",
+    "title": "I Built a DIY RFID (NFC) Tag Reader for Home Assistant for Under US $15 (2026)",
+    "meta": [
+     "4.6K",
+     "4w ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 4600
+   },
+   {
+    "id": "p2kbuqyJbdg",
+    "title": "I Built an Amazing Home Assistant Dashboard in 20 Minutes with Grok AI!",
+    "meta": [
+     "12K",
+     "4w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 12000
+   },
+   {
+    "id": "JzxbZqUhoJc",
+    "title": "This E-Ink Sonoff Zigbee Temp/Humid Sensor Is Perfect for Home Assistant!",
+    "meta": [
+     "4.1K",
+     "1mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 4100
+   },
+   {
+    "id": "8oHWG8YcNdU",
+    "title": "DIY Air Quality Sensor - With the Apollo Automation's ESP Home Starter Kit and Home Assistant",
+    "meta": [
+     "1.5K",
+     "1mo ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 1500
+   },
+   {
+    "id": "7W2t5WOJevA",
+    "title": "SwitchBot E-Ink Home Dashboard",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 2400
+   },
+   {
+    "id": "ZgWLEoTmUQM",
+    "title": "DIY IR Transmitter / Receiver build for Home Assistant",
+    "meta": [
+     "12K",
+     "1mo ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 12000
+   },
+   {
+    "id": "dJY6T67CdZE",
+    "title": "Modular Air Quality Sensing with Sensereo Airo and Home Assistant",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "7:11",
+    "views_tab": 1000
+   },
+   {
+    "id": "6GElnTifkEg",
+    "title": "Third Reality Air Quality Sensor \u2013 Full Features, Accuracy & Verdict",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 2400
+   },
+   {
+    "id": "NLwh_Tu0XFk",
+    "title": "Enecess Home Energy Power Monitoring with Ethernet Connection to Home Assistant!",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 10000
+   },
+   {
+    "id": "_n6XpR2eMr8",
+    "title": "Aqara FP400: Next-Gen Spatial Sensing Done Right!",
+    "meta": [
+     "8.4K",
+     "1mo ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 8400
+   },
+   {
+    "id": "Kw2mBjs_VF4",
+    "title": "Dartsnut Pixeldarts: Raspberry Pie based Retro Game Hub",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 1200
+   },
+   {
+    "id": "WzQ0RAN3dJI",
+    "title": "Switch 16A Devices with SONOFF MINI ONE Zigbee Smart Switch and Home Assistant",
+    "meta": [
+     "3.9K",
+     "1mo ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 3900
+   },
+   {
+    "id": "oYhS7bhX6Jc",
+    "title": "Sonoff Window Camera CAM-S3W  : Great for Apartments with Home Assistant!",
+    "meta": [
+     "7.9K",
+     "1mo ago"
+    ],
+    "dur": "6:08",
+    "views_tab": 7900
+   },
+   {
+    "id": "Yhx8zs7poCk",
+    "title": "Lighting Fast Detection with the Shelly BLU Motion Zigbee for Home Assistant",
+    "meta": [
+     "8.9K",
+     "1mo ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 8900
+   },
+   {
+    "id": "T-xSdLwbWRc",
+    "title": "Keep tabs on things at home with the Tiny Shelly Cam and Home Assistant!",
+    "meta": [
+     "7.1K",
+     "1mo ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 7100
+   },
+   {
+    "id": "uXv-jQafDKU",
+    "title": "Seeed Sticky Note : Works with ESP Home!",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 20000
+   },
+   {
+    "id": "20Cr6qcSnas",
+    "title": "Turn Any Powered Speaker into a Media Player with the CAST-1 for Home Assistant!",
+    "meta": [
+     "15K",
+     "1mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 15000
+   },
+   {
+    "id": "ezlNkIq59kg",
+    "title": "FINALLY the Home Assistant IR Proxy can Sniff any IR Signal!",
+    "meta": [
+     "30K",
+     "1mo ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 30000
+   },
+   {
+    "id": "cZ81ss3aFuA",
+    "title": "Stay Safe with Connected Matter Smoke Alarms and Home Assistant",
+    "meta": [
+     "3.5K",
+     "1mo ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 3500
+   },
+   {
+    "id": "KiHRvERCv6U",
+    "title": "Automate Safe Graceful Power Down for Home Assistant During Power Outages with Bluetti",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 1400
+   },
+   {
+    "id": "o-nTwafqUWw",
+    "title": "SONOFF MINI PM Matter Over WiFi Power Meter for Home Assistant",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 1800
+   },
+   {
+    "id": "_VtZfh71Cyc",
+    "title": "Home Assistant Radiator Control with the Sonoff TRV Gen 2!",
+    "meta": [
+     "6.1K",
+     "2mo ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 6100
+   },
+   {
+    "id": "tG93A7k7kSw",
+    "title": "Recessed Ceiling-Mount Adapter for SONOFF Motion & Presence Sensors",
+    "meta": [
+     "4.2K",
+     "2mo ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 4200
+   },
+   {
+    "id": "oowtdAeloqc",
+    "title": "Bi Directional Power Monitoring with the SONOFF MINI ONE PM for Home Assistant",
+    "meta": [
+     "1.1K",
+     "2mo ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 1100
+   },
+   {
+    "id": "IYY7VLHT-_o",
+    "title": "Best Home Assistant Local Voice Speaker that Money Can Buy, Satelite1!",
+    "meta": [
+     "22K",
+     "2mo ago"
+    ],
+    "dur": "10:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "P3EazYuCJs4",
+    "title": "Zigbee Siren for Home Assistant Alarmo with Backup Battery",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 2600
+   },
+   {
+    "id": "bxuXUZ_5c9Q",
+    "title": "ESP Home Starter Kit : Build Your Own Home Assistant Devices!",
+    "meta": [
+     "1.9K",
+     "2mo ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 1900
+   },
+   {
+    "id": "eEY1aifgSkY",
+    "title": "Home Assistant Controls Your Breakers with the Shelly Pro 1CM",
+    "meta": [
+     "8.7K",
+     "2mo ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 8700
+   },
+   {
+    "id": "oyOLCOlZJBg",
+    "title": "Home Assistant's Cheeky Little Voice Assistant, Stackchan!",
+    "meta": [
+     "3.6K",
+     "2mo ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 3600
+   },
+   {
+    "id": "9MOaz19kEEI",
+    "title": "Best Home Assistant Dashboard on the TRMNL X",
+    "meta": [
+     "2.9K",
+     "2mo ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 2900
+   },
+   {
+    "id": "Sb0cwygj31A",
+    "title": "Seeed Studio's CodeCraft creates code for Micro Controllers, can we use it with Home Assistant?",
+    "meta": [
+     "465",
+     "3mo ago"
+    ],
+    "dur": "7:58",
+    "views_tab": 465
+   },
+   {
+    "id": "ZGrTRSQLDRc",
+    "title": "BEST Universal Remote for Local Home Assistant Control : Sofabaton X2 !",
+    "meta": [
+     "1.7K",
+     "3mo ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 1700
+   },
+   {
+    "id": "kqwmnPKzlsU",
+    "title": "How does the new Sonoff Dongle plus compare to the ZBT2?",
+    "meta": [
+     "2.6K",
+     "3mo ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 2600
+   },
+   {
+    "id": "OK1tMWz4tjE",
+    "title": "Aranet Radiation Sensor in Home Assistant",
+    "meta": [
+     "444",
+     "3mo ago"
+    ],
+    "dur": "7:23",
+    "views_tab": 444
+   },
+   {
+    "id": "EY4fw0miOZw",
+    "title": "Reolink Battery Video Doorbell (2nd Gen) - best for Home Assistant",
+    "meta": [
+     "96K",
+     "3mo ago"
+    ],
+    "dur": "8:56",
+    "views_tab": 96000
+   },
+   {
+    "id": "8PSli4tWIl8",
+    "title": "SONOFF AirGuard TH Pressure Zigbee Temperature Humidity Air Pressure Sensor | SNZB-02M",
+    "meta": [
+     "1K",
+     "3mo ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 1000
+   },
+   {
+    "id": "RcYoVepyWVI",
+    "title": "Smart Presence Timer Light TL2 works with Home Assistant",
+    "meta": [
+     "727",
+     "3mo ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 727
+   },
+   {
+    "id": "KrBGinO_Jac",
+    "title": "Secure Your Home Without a Subscription Tapo CC675D KIT, and Home Assistant",
+    "meta": [
+     "1.1K",
+     "3mo ago"
+    ],
+    "dur": "11:48",
+    "views_tab": 1100
+   },
+   {
+    "id": "adbEFoRQWB8",
+    "title": "BLE Freezer Sensor for Home Assistant",
+    "meta": [
+     "1.2K",
+     "3mo ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "VOfyIL5CUvw",
+    "title": "SONOFF Zigbee Smart Water Valve\u2014Hydro DUO in Home Assistant",
+    "meta": [
+     "3K",
+     "3mo ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 3000
+   },
+   {
+    "id": "2oPytrV_RxE",
+    "title": "Control High Power Devices with Home Assistant over Zigbee!",
+    "meta": [
+     "1.8K",
+     "3mo ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 1800
+   },
+   {
+    "id": "Lyasmc1FbyQ",
+    "title": "Zigbee Smartwings Curtains work great with Home Assistant!",
+    "meta": [
+     "1.5K",
+     "3mo ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 1500
+   },
+   {
+    "id": "qrG3mcjeo8Q",
+    "title": "SONOFF AirGuard TH Lite Zigbee Temperature Humidity Sensor | SNZB-02B with Home Assistant",
+    "meta": [
+     "1.2K",
+     "3mo ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 1200
+   },
+   {
+    "id": "xXpYC-E66gs",
+    "title": "New Sonoff Zigbee Smart Power Meter Series with Home Assistant",
+    "meta": [
+     "3.3K",
+     "3mo ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 3300
+   },
+   {
+    "id": "FLWC0lEE_uE",
+    "title": "Super Easy Home Assistant Setup in 2026!",
+    "meta": [
+     "6.8K",
+     "3mo ago"
+    ],
+    "dur": "12:42",
+    "views_tab": 6800
+   },
+   {
+    "id": "lLpBj9_9slo",
+    "title": "All-in-One Zigbee Gateway &Matter Bridge - Bridge Max: Testing with Home Assistant",
+    "meta": [
+     "6K",
+     "4mo ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 6000
+   },
+   {
+    "id": "Ba54HhJeSPU",
+    "title": "My 2026 Top 5 Amazon Prime Day Deals!",
+    "meta": [
+     "630",
+     "4mo ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 630
+   },
+   {
+    "id": "gLx2NOTi9Zw",
+    "title": "Simply The Best Battery Powered Presence Sensor for Home Assistant Users: Aqara FP300",
+    "meta": [
+     "5K",
+     "4mo ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 5000
+   },
+   {
+    "id": "W59NsrXblM8",
+    "title": "2026 Seeed reTerminal E1003 ePaper Display with Touch Screen is Amazing: Can it run Home Assistant?",
+    "meta": [
+     "4K",
+     "4mo ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 4000
+   },
+   {
+    "id": "xB3jpJz24hI",
+    "title": "SONOFF SenseGuard Motion Gen2 Zigbee Motion Sensor",
+    "meta": [
+     "1K",
+     "4mo ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 1000
+   },
+   {
+    "id": "o1mJ5wJNQO4",
+    "title": "This Tiny Camera is Amazing! Reolink Argus MagiCam",
+    "meta": [
+     "2.2K",
+     "4mo ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 2200
+   },
+   {
+    "id": "UD3PWi5p2dw",
+    "title": "Cordless SwitchBot Standing Circulator Fan",
+    "meta": [
+     "1.1K",
+     "4mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 1100
+   },
+   {
+    "id": "2eK719ZI_Rk",
+    "title": "Smart Presence Sensor R2 with Home Assistant",
+    "meta": [
+     "2K",
+     "4mo ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 2000
+   },
+   {
+    "id": "tfNcN8BGixc",
+    "title": "Are PRO Security Cameras Worth it for Home Use? Dahua XSPans Series",
+    "meta": [
+     "870",
+     "4mo ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 870
+   },
+   {
+    "id": "OiqLu7rLO1w",
+    "title": "ULTIMATE Smart Tracking with the Reolink OMVI3 POE and Home Assistant!",
+    "meta": [
+     "139K",
+     "4mo ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 139000
+   },
+   {
+    "id": "uU9DF6I864s",
+    "title": "The Everything Presence Pro has it all!  Perfect Home Assistant Presence Sensor",
+    "meta": [
+     "6.5K",
+     "4mo ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 6500
+   },
+   {
+    "id": "vifRvdn4J9U",
+    "title": "SONOFF SenseGuard Presence Core 24GHz Zigbee Human Presence Sensor | SNZB-06P24 for Home Assistant",
+    "meta": [
+     "5.3K",
+     "4mo ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 5300
+   },
+   {
+    "id": "Q7_VcfpvzHI",
+    "title": "SONOFF Basic DIN Rail offers HIGH Power Switching for Heating Control!",
+    "meta": [
+     "3.2K",
+     "4mo ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 3200
+   },
+   {
+    "id": "PRgQg27OZwc",
+    "title": "THIRDREALITY R3 Presence Sensor + Home Assistant: Full Review & Setup",
+    "meta": [
+     "5K",
+     "5mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 5000
+   },
+   {
+    "id": "2AbSDZEhpo4",
+    "title": "BEST Value WLED Cob Lighting Strip for Home Assistant",
+    "meta": [
+     "3.7K",
+     "5mo ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 3700
+   },
+   {
+    "id": "-c55L4NoCHI",
+    "title": "Garage Door Control using Home Assistant : SONOFF MINI Dry Zigbee Dry Contact Smart Switch",
+    "meta": [
+     "3.2K",
+     "5mo ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 3200
+   },
+   {
+    "id": "HVQl2DAplQI",
+    "title": "Wi-Fi Sensing for Home Assistant!",
+    "meta": [
+     "6K",
+     "5mo ago"
+    ],
+    "dur": "9:40",
+    "views_tab": 6000
+   },
+   {
+    "id": "zYRyo5MeWGw",
+    "title": "Is it worth Upgrading to the 3rd Reality Gen 2 Soil Sensor?",
+    "meta": [
+     "3.3K",
+     "5mo ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 3300
+   },
+   {
+    "id": "TNf3PUmwIv8",
+    "title": "SONOFF Z-Wave 800 PoE Dongle Max",
+    "meta": [
+     "1.9K",
+     "5mo ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 1900
+   },
+   {
+    "id": "MPSe1zMxO6Q",
+    "title": "The Aqara P100 Sensor has a 9 Axis Gyro!",
+    "meta": [
+     "4.4K",
+     "5mo ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 4400
+   },
+   {
+    "id": "YzHS2XTqArA",
+    "title": "How does the Third Reality Voice Dev Edition Compare with Home Assistant Voice PE?",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "9:42",
+    "views_tab": 18000
+   },
+   {
+    "id": "H7FEzX34-j8",
+    "title": "Is this the Perfect Tiny Home Assistant Display? Sonoff NS Panel Pro Gen 2",
+    "meta": [
+     "15K",
+     "5mo ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 15000
+   },
+   {
+    "id": "JOQok8mn0EU",
+    "title": "Kincony ESP HOME Light Dimmer Module for Home Assistant",
+    "meta": [
+     "2.8K",
+     "5mo ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 2800
+   },
+   {
+    "id": "ZTQZNPKefk4",
+    "title": "Zemismart Zigbee Push Switch with Aluminum Alloy Switches and Home Assistant !",
+    "meta": [
+     "1.1K",
+     "5mo ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 1100
+   },
+   {
+    "id": "HCGIP9c_eFI",
+    "title": "What is an ESP32 Solo Miner LCD Display?",
+    "meta": [
+     "1.5K",
+     "5mo ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "zhPU5iqbWUc",
+    "title": "Can I Automate my Watering with Sonoff Hydro One and Home Assistant?",
+    "meta": [
+     "4.6K",
+     "5mo ago"
+    ],
+    "dur": "7:11",
+    "views_tab": 4600
+   },
+   {
+    "id": "gnqTAWa0Ovo",
+    "title": "What Can You Build with ESP 32's and Home Assistant?",
+    "meta": [
+     "20K",
+     "6mo ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 20000
+   },
+   {
+    "id": "oTnnkTV0tsI",
+    "title": "Pironman 5 Pro Max: The Ultimate Raspberry Pi 5 Case for Home Assistant!",
+    "meta": [
+     "2.3K",
+     "6mo ago"
+    ],
+    "dur": "8:29",
+    "views_tab": 2300
+   },
+   {
+    "id": "jRjBWGodg9c",
+    "title": "Using The Aranet 4 CO2 Sensor and Home Assistant to Control my  TV Room Lights!",
+    "meta": [
+     "1.9K",
+     "6mo ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 1900
+   },
+   {
+    "id": "LSggRfSZxoo",
+    "title": "YouMIAI Wi-Fi 2MP Video Calling Indoor Camera",
+    "meta": [
+     "423",
+     "6mo ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 423
+   },
+   {
+    "id": "W8e44usoiK4",
+    "title": "Make ANYTHING Smart with the Shelly Pill !",
+    "meta": [
+     "11K",
+     "6mo ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 11000
+   },
+   {
+    "id": "ubj3oBxSDcw",
+    "title": "Save Your Home Assistant from a Power Crash!",
+    "meta": [
+     "3.4K",
+     "6mo ago"
+    ],
+    "dur": "7:39",
+    "views_tab": 3400
+   },
+   {
+    "id": "2CHRqz4COz0",
+    "title": "Shelly Presence Gen4",
+    "meta": [
+     "7.6K",
+     "6mo ago"
+    ],
+    "dur": "7:14",
+    "views_tab": 7600
+   },
+   {
+    "id": "Byd3Y3cR1D0",
+    "title": "Show Home Assistant Data on an eInk Display using TRMNL",
+    "meta": [
+     "7K",
+     "6mo ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 7000
+   },
+   {
+    "id": "s1zGYkydz3c",
+    "title": "ThinkNode M5 - ELECROW LoRa Meshtastic Transceiver with GPS",
+    "meta": [
+     "2.1K",
+     "6mo ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 2100
+   },
+   {
+    "id": "RMaGWnf4Jqk",
+    "title": "Zemismart ZPS-Z1: Ultra Low-Power mmWave Sensor for Home Assistant",
+    "meta": [
+     "1.6K",
+     "6mo ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 1600
+   },
+   {
+    "id": "Li4O8p8m_5I",
+    "title": "IKEA Dirigera Hub  Unboxing & Smart Home Setup Secrets Revealed!",
+    "meta": [
+     "8.3K",
+     "6mo ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 8300
+   },
+   {
+    "id": "-Kc_4JjamGY",
+    "title": "Third Reality Smart Water Leak KM1 for Home Assistant!",
+    "meta": [
+     "964",
+     "6mo ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 964
+   },
+   {
+    "id": "PO0y6biQ230",
+    "title": "Aranet Radon One Sensor for Home Assistant!",
+    "meta": [
+     "712",
+     "6mo ago"
+    ],
+    "dur": "6:35",
+    "views_tab": 712
+   },
+   {
+    "id": "__xmKphlmy4",
+    "title": "Level up your Home Assistant Data Graphics!",
+    "meta": [
+     "1.9K",
+     "6mo ago"
+    ],
+    "dur": "3:49",
+    "views_tab": 1900
+   },
+   {
+    "id": "yiIZ31gq_kM",
+    "title": "Super Easy Installation : Reolink Solar Floodlight-Level Security Cam for Home Assistant",
+    "meta": [
+     "733",
+     "7mo ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 733
+   },
+   {
+    "id": "mPN1R9QJvx4",
+    "title": "Turn Boring Weather Data Into This (Home Assistant Wind Rose)",
+    "meta": [
+     "1.9K",
+     "7mo ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 1900
+   },
+   {
+    "id": "0vd7I0TU4mM",
+    "title": "Wired Reliability with the Aqara Doorbell Camera G400 with Chime!",
+    "meta": [
+     "1.5K",
+     "7mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 1500
+   },
+   {
+    "id": "VlH3lS_bYqA",
+    "title": "Never Miss a Leak Again \u2013 Long-Range Sensor Demo",
+    "meta": [
+     "487",
+     "7mo ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 487
+   },
+   {
+    "id": "LwGHAV2EWn0",
+    "title": "Aqara G350 Camera Hub Review",
+    "meta": [
+     "5.4K",
+     "7mo ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 5400
+   },
+   {
+    "id": "aJjgjyFNXIM",
+    "title": "Local Home Assistant Backups on the Beelink ME Pro",
+    "meta": [
+     "569",
+     "7mo ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 569
+   },
+   {
+    "id": "zDo_Y-xb2j0",
+    "title": "How to Setup Remote Home Assistant Access with Tailscale in 2026",
+    "meta": [
+     "17K",
+     "7mo ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "2zqQ93h6I4g",
+    "title": "My Top 10 HACS in Home Assistant for 2026!",
+    "meta": [
+     "10K",
+     "7mo ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 10000
+   },
+   {
+    "id": "x3Hem2hhNw0",
+    "title": "Switchbot AI Hub runs Claw, Frigate and Home Assistant all on one Box!",
+    "meta": [
+     "4.9K",
+     "7mo ago"
+    ],
+    "dur": "17:13",
+    "views_tab": 4900
+   },
+   {
+    "id": "Z0q9JQr6md0",
+    "title": "Esparagus Louder for Home Assistant Audio Streaming!",
+    "meta": [
+     "4.2K",
+     "7mo ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 4200
+   },
+   {
+    "id": "FX9WI_QOh1M",
+    "title": "My Top 20 Apps / Add-Ons for Home Assistant in 2026!",
+    "meta": [
+     "18K",
+     "8mo ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 18000
+   },
+   {
+    "id": "DVMtTe319rA",
+    "title": "Top 10 Problems when loading ESP Home to ESP32 Devices with Home Assistant",
+    "meta": [
+     "5.3K",
+     "8mo ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 5300
+   },
+   {
+    "id": "5EhOCBCZL6k",
+    "title": "Shelly BLU H&T Display Zigbee with Home Assistant",
+    "meta": [
+     "5.2K",
+     "8mo ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 5200
+   },
+   {
+    "id": "BIpNBF31n6w",
+    "title": "ONLY 10 Minutes to Install Home Assistant on a Mini PC in 2026 using the Beelink ME Pro!",
+    "meta": [
+     "10K",
+     "8mo ago"
+    ],
+    "dur": "9:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "tJL_yMIdtsE",
+    "title": "Repenic Zigbee Smart Dimmers Look Amazing but How do they Perform?",
+    "meta": [
+     "975",
+     "8mo ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 975
+   },
+   {
+    "id": "qwPFYD73Wso",
+    "title": "Flash your Own Zigbee Devices for Home Assistant in Less than 5 Minutes!",
+    "meta": [
+     "9.1K",
+     "8mo ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 9100
+   },
+   {
+    "id": "hqpbMdqtEjY",
+    "title": "Will the Shelly Wall Display XL give us Everything we Asked for?",
+    "meta": [
+     "19K",
+     "8mo ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 19000
+   },
+   {
+    "id": "GJemTcm9tOE",
+    "title": "Will this Cheap little Zigbee Soil Sensor work with Home Assistant?",
+    "meta": [
+     "4.4K",
+     "8mo ago"
+    ],
+    "dur": "4:54",
+    "views_tab": 4400
+   }
+  ],
+  "Popular": [
+   {
+    "id": "OiqLu7rLO1w",
+    "title": "ULTIMATE Smart Tracking with the Reolink OMVI3 POE and Home Assistant!",
+    "meta": [
+     "139K",
+     "4mo ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 139000
+   },
+   {
+    "id": "EY4fw0miOZw",
+    "title": "Reolink Battery Video Doorbell (2nd Gen) - best for Home Assistant",
+    "meta": [
+     "96K",
+     "3mo ago"
+    ],
+    "dur": "8:56",
+    "views_tab": 96000
+   },
+   {
+    "id": "ugYjGOYPvTo",
+    "title": "How does the IKEA Alpstuga Air Quality Sensor Stack up to more expensive options?",
+    "meta": [
+     "78K",
+     "9mo ago"
+    ],
+    "dur": "9:43",
+    "views_tab": 78000
+   },
+   {
+    "id": "gT9EfT69a2o",
+    "title": "Easy and affordable Webcam for Home Assistant - ESP32 Cam",
+    "meta": [
+     "66K",
+     "3y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 66000
+   },
+   {
+    "id": "ImBv2mtaRR0",
+    "title": "Setting Up MQTT for Home Assistant in under 5 Minutes in 2025!",
+    "meta": [
+     "63K",
+     "1y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 63000
+   },
+   {
+    "id": "JhPYKHoJsD8",
+    "title": "Using the Broadlink RM4 Pro to control IR devices using Home Assistant",
+    "meta": [
+     "57K",
+     "3y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 57000
+   },
+   {
+    "id": "-IEYP6vItec",
+    "title": "Tank water level sensor and integration into Home Assistant Part 1",
+    "meta": [
+     "55K",
+     "4y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 55000
+   },
+   {
+    "id": "urws9z3V9Ys",
+    "title": "Shelly Wall Display can now Control Home Assistant!",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 52000
+   },
+   {
+    "id": "V5UMUhhzH0s",
+    "title": "Great Home Assistant Integration with the Reolink WIFI Doorbell Camera!",
+    "meta": [
+     "45K",
+     "2y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 45000
+   },
+   {
+    "id": "x-iD8Q7AwLE",
+    "title": "Only 5 Minutes to install Zigbee to MQTT  in 2024 for Home Assistant",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 39000
+   },
+   {
+    "id": "G4wZKvn2hpA",
+    "title": "How to use NFC tags to trigger automations in Home Assistant",
+    "meta": [
+     "35K",
+     "3y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 35000
+   },
+   {
+    "id": "69JpIujEzH0",
+    "title": "New Sonoff ZB Mini R2 Now with 2 switches and works with Home Assistant",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 34000
+   },
+   {
+    "id": "3AYq-z9WQWE",
+    "title": "Tank Water Level  Sensor Part 2 and Shelly Uni review",
+    "meta": [
+     "32K",
+     "4y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 32000
+   },
+   {
+    "id": "VJQaqNtKXjY",
+    "title": "Home Assistant on a Mini PC: The Ultimate Setup Guide",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 32000
+   },
+   {
+    "id": "ezlNkIq59kg",
+    "title": "FINALLY the Home Assistant IR Proxy can Sniff any IR Signal!",
+    "meta": [
+     "30K",
+     "1mo ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 30000
+   },
+   {
+    "id": "k9_SyfToDEw",
+    "title": "New Home Assistant Tuya Integration in Home Assistant!",
+    "meta": [
+     "29K",
+     "2y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 29000
+   },
+   {
+    "id": "nnsBnYmEgGg",
+    "title": "Review of the IKEA BILRESA Scroll Wheel with Home Assistant",
+    "meta": [
+     "27K",
+     "9mo ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 27000
+   },
+   {
+    "id": "b_sXYXc1P2o",
+    "title": "How to Automate the IKEA BILRESA Scroll Wheel in Home Assistant",
+    "meta": [
+     "27K",
+     "9mo ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 27000
+   },
+   {
+    "id": "9IiSgpHKt10",
+    "title": "Generic Home Assistant Thermostat",
+    "meta": [
+     "26K",
+     "3y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 26000
+   },
+   {
+    "id": "W4axTXTWdEw",
+    "title": "Finaly a Drag and Drop ESP 32 Screen Builder for Home Assistant!",
+    "meta": [
+     "25K",
+     "2w ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 25000
+   },
+   {
+    "id": "-0yv5m6TCo8",
+    "title": "How is the Aqara M3 Hub working with Home Assistant a year later?",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 25000
+   },
+   {
+    "id": "8JfmWUXoeok",
+    "title": "Shelly 1 Gen 4 now offers WiFi or Zigbee !",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 25000
+   },
+   {
+    "id": "_fUxglRhplY",
+    "title": "Ecowitt WS90 - 7-in-1 weather station with Z2MQTT Home Assistant Integration using Shelly",
+    "meta": [
+     "25K",
+     "8mo ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 25000
+   },
+   {
+    "id": "zPEnMk_fT_g",
+    "title": "How to Setup a Thread Border Router using the Home Assistant ZBT-2",
+    "meta": [
+     "25K",
+     "9mo ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 25000
+   },
+   {
+    "id": "pIEZS1jCVgA",
+    "title": "Frigate, Coral, Reolink and Home Assistant: A Powerful combination for Home Security!",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 25000
+   },
+   {
+    "id": "9RD0dXHi3bM",
+    "title": "How to wire up a Shelly 1 smart light switch!",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 23000
+   },
+   {
+    "id": "IYY7VLHT-_o",
+    "title": "Best Home Assistant Local Voice Speaker that Money Can Buy, Satelite1!",
+    "meta": [
+     "22K",
+     "2mo ago"
+    ],
+    "dur": "10:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "m43Fe30Dbv8",
+    "title": "Easy way to flash ESP 32 Microcontrollers with ESP Home",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 21000
+   },
+   {
+    "id": "1ue6GabRNXU",
+    "title": "How to control your Home Assistant devices with Stream Deck!",
+    "meta": [
+     "21K",
+     "2y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 21000
+   },
+   {
+    "id": "KgteNZP4McM",
+    "title": "DIY MH-Z19 CO2 Sensor build and integration in Home Assistant using ESP Home",
+    "meta": [
+     "21K",
+     "4y ago"
+    ],
+    "dur": "6:43",
+    "views_tab": 21000
+   },
+   {
+    "id": "COfFTVe1hf4",
+    "title": "This is my favorite Local Weather Station!  Wittboy from Ecowitt",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "10:58",
+    "views_tab": 21000
+   },
+   {
+    "id": "pbw_IdWJjZc",
+    "title": "This Reolink RLC 823-S2 Camera is Amazing with Home Assistant!",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "12:55",
+    "views_tab": 21000
+   },
+   {
+    "id": "uXv-jQafDKU",
+    "title": "Seeed Sticky Note : Works with ESP Home!",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 20000
+   },
+   {
+    "id": "gnqTAWa0Ovo",
+    "title": "What Can You Build with ESP 32's and Home Assistant?",
+    "meta": [
+     "20K",
+     "6mo ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 20000
+   },
+   {
+    "id": "GyM3U7FAfYI",
+    "title": "Best Music Assistant Player for Home Assistant! WIIM Ultra",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "12:42",
+    "views_tab": 19000
+   },
+   {
+    "id": "P-YJZO1z3zs",
+    "title": "Home Assistant COMPLETE Beginners Guide  Part 4: How to create Dashboards",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 19000
+   },
+   {
+    "id": "hqpbMdqtEjY",
+    "title": "Will the Shelly Wall Display XL give us Everything we Asked for?",
+    "meta": [
+     "19K",
+     "8mo ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 19000
+   },
+   {
+    "id": "bXE-XqH5s2U",
+    "title": "Universal IR Control with ESP Home and Home Assistant!",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "4:44",
+    "views_tab": 19000
+   },
+   {
+    "id": "wXVMucZF8U0",
+    "title": "Will the IKEA TIMMERFLOTTE Temperature / Humidity Sensor work with Home Assistant?",
+    "meta": [
+     "19K",
+     "9mo ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 19000
+   },
+   {
+    "id": "YzHS2XTqArA",
+    "title": "How does the Third Reality Voice Dev Edition Compare with Home Assistant Voice PE?",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "9:42",
+    "views_tab": 18000
+   },
+   {
+    "id": "fgivdFkCsOA",
+    "title": "Cheapest $5 Xiaomi Temperature / Humidity Sensor now runs on Zigbee!",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 18000
+   },
+   {
+    "id": "bukGCR2o-Uc",
+    "title": "Super CHEAP ! $7:99 Matter Over Thread Smart Home Sensors for Home Assistant!",
+    "meta": [
+     "18K",
+     "9mo ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 18000
+   },
+   {
+    "id": "yfVNPq3I49E",
+    "title": "1 minute setup for Home Assistant on NS Panel Pro!",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 18000
+   },
+   {
+    "id": "kQPW7HAqimY",
+    "title": "Simple RTSP Camera Stream into Home Assistant with Sonoff Cam Slim 2",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 18000
+   },
+   {
+    "id": "o67mMOdBi8A",
+    "title": "Turn any Light Switch into a Dimmable Light with the Shelly Dimmer!",
+    "meta": [
+     "18K",
+     "1y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 18000
+   },
+   {
+    "id": "FX9WI_QOh1M",
+    "title": "My Top 20 Apps / Add-Ons for Home Assistant in 2026!",
+    "meta": [
+     "18K",
+     "8mo ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 18000
+   },
+   {
+    "id": "tDY_iN03-y4",
+    "title": "Mushroom Cards for Awesome Home Assistant Dashboards",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 18000
+   },
+   {
+    "id": "2ohOHbkCR3M",
+    "title": "Music Assistant is now officially supported by Home Assistant!",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 17000
+   },
+   {
+    "id": "O-9mzUFOQsw",
+    "title": "Make your garage Door Smart with the Sonoff Mini, Dry Contact Matter over WiFi Smart Relay",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 17000
+   },
+   {
+    "id": "zDo_Y-xb2j0",
+    "title": "How to Setup Remote Home Assistant Access with Tailscale in 2026",
+    "meta": [
+     "17K",
+     "7mo ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "j_vN-r6FC_o",
+    "title": "An ESP 32 board that can be used to bring your old Wired Alarm System into 2025 with Home Assistant!",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 16000
+   },
+   {
+    "id": "A233yFljW9A",
+    "title": "A closer look at the IKEA MYGGSPRAY Motion Sensor",
+    "meta": [
+     "16K",
+     "9mo ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 16000
+   },
+   {
+    "id": "reknxym-oT4",
+    "title": "Bubble Card from HACS for Home Assistant!",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "F9hIlXaiBNc",
+    "title": "Is the Sonoff NS Panel Pro 120 a great option for a wall mounted Dashboard for Home Assistant?",
+    "meta": [
+     "15K",
+     "2y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 15000
+   },
+   {
+    "id": "H7FEzX34-j8",
+    "title": "Is this the Perfect Tiny Home Assistant Display? Sonoff NS Panel Pro Gen 2",
+    "meta": [
+     "15K",
+     "5mo ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 15000
+   },
+   {
+    "id": "AS9N8uKvpn8",
+    "title": "Top 10 Home Assistant Integrations for 2025!",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "7:58",
+    "views_tab": 15000
+   },
+   {
+    "id": "xHChc2kYTfs",
+    "title": "How to use Widgets on your iPhone to control anything in Home Assistant using Node Red!",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 15000
+   },
+   {
+    "id": "jSxDCR7BxNY",
+    "title": "My Top 10 Home Assistant Apps for 2026!",
+    "meta": [
+     "15K",
+     "10d ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 15000
+   },
+   {
+    "id": "QZ7QEnhz63w",
+    "title": "How to Install Z2MQTT as a Home Assistant App in 2026",
+    "meta": [
+     "15K",
+     "9mo ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 15000
+   },
+   {
+    "id": "swZUDamFs6U",
+    "title": "Build a Home Assistant Wall Tablet Dashboard in 20 Minutes (2026)",
+    "meta": [
+     "15K",
+     "2w ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 15000
+   },
+   {
+    "id": "20Cr6qcSnas",
+    "title": "Turn Any Powered Speaker into a Media Player with the CAST-1 for Home Assistant!",
+    "meta": [
+     "15K",
+     "1mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 15000
+   },
+   {
+    "id": "zgLi3Cku-hs",
+    "title": "New Features with the Shelly Uni Plus!",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "9:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "GnXqvzVOHMo",
+    "title": "Are Aliexpress Zigbee bulbs any good?",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 14000
+   },
+   {
+    "id": "qgbgaDgGtZo",
+    "title": "This New Voice Assistant has 4 Mics to allow for great performance even with background noise!",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 13000
+   },
+   {
+    "id": "2HaoYDnwXh4",
+    "title": "Dallas Temperature Sensor in Home Assistant",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 13000
+   },
+   {
+    "id": "au08rpwmUL4",
+    "title": "Let's test the New Sonoff Zibgee Bridge Ultra and integrate it into Home Asssitant with Matter!",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 13000
+   },
+   {
+    "id": "sjMIfWiALjE",
+    "title": "Automate your garden irrigation with Sonoff and Home Assistant",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 13000
+   },
+   {
+    "id": "Q5AV3UpJkHg",
+    "title": "How to install the System Monitor in Home Assistant",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "2:51",
+    "views_tab": 13000
+   },
+   {
+    "id": "a2PMCRcqh4U",
+    "title": "Mi Flora plant moisture sensor in HOME ASSISTANT",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 13000
+   },
+   {
+    "id": "u4ovRKtePiE",
+    "title": "HACS Soon to become Marketplace in Home Assistant!",
+    "meta": [
+     "13K",
+     "2w ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 13000
+   },
+   {
+    "id": "-8E1Pr7HuBc",
+    "title": "Homey Pro vs Home Assistant!",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "13:46",
+    "views_tab": 13000
+   },
+   {
+    "id": "hQnM7l5iwsw",
+    "title": "The SLZB-MR1 offers Zigbee and Thread on the same device!",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 13000
+   },
+   {
+    "id": "klhnLLs1kv4",
+    "title": "Boost Your Home Assistant Zigbee Network Range!",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 13000
+   },
+   {
+    "id": "8V8F-htYxFo",
+    "title": "Problems loading Shelly?  Try this easy way to setup Shelly devices without using the Shelly App!",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 12000
+   },
+   {
+    "id": "SzWdSxL0c3I",
+    "title": "Is the Amazon Echo Show 5 any good for controlling Home Assistant?",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 12000
+   },
+   {
+    "id": "p2kbuqyJbdg",
+    "title": "I Built an Amazing Home Assistant Dashboard in 20 Minutes with Grok AI!",
+    "meta": [
+     "12K",
+     "4w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 12000
+   },
+   {
+    "id": "rHOX3TZbOC8",
+    "title": "Apex Charts are Awesome for Home Assistant!",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 12000
+   },
+   {
+    "id": "7Nu0XIlIEKQ",
+    "title": "New Version 4.1.2  lets you Load Home Assistant on the NS Panel Pro 120!",
+    "meta": [
+     "12K",
+     "11mo ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 12000
+   },
+   {
+    "id": "flL3gfr8BBo",
+    "title": "Finally, a Completely Cordless Home Assistant Wall Display from Inkanva!",
+    "meta": [
+     "12K",
+     "3w ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "AqAXSqYrlo8",
+    "title": "Will the IKEA BILRESA work with the Home Assistant Blueprint?",
+    "meta": [
+     "12K",
+     "8mo ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 12000
+   },
+   {
+    "id": "Y7QJq9UO1Sw",
+    "title": "How to Control a Relay with a Shelly Uni!",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 12000
+   },
+   {
+    "id": "ZgWLEoTmUQM",
+    "title": "DIY IR Transmitter / Receiver build for Home Assistant",
+    "meta": [
+     "12K",
+     "1mo ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 12000
+   },
+   {
+    "id": "VaKWqvhm4bA",
+    "title": "Sonoff Zigbee Smart Light Switch, No Neutral, No Capacitor needed!",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 12000
+   },
+   {
+    "id": "x9erKDKQMpE",
+    "title": "Z-Wave vs. Zigbee vs. Wi-Fi! Smart Home Basics: How To Pick The Right Protocol",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 11000
+   },
+   {
+    "id": "Lr636WAR_vc",
+    "title": "How to convert your cord type blinds for use with Switchbot Blind Tilt",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 11000
+   },
+   {
+    "id": "W8e44usoiK4",
+    "title": "Make ANYTHING Smart with the Shelly Pill !",
+    "meta": [
+     "11K",
+     "6mo ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 11000
+   },
+   {
+    "id": "akggf6BRjTI",
+    "title": "Build your own Touch Screen for Home Assistant using the Cheap Yellow Display",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "8:33",
+    "views_tab": 11000
+   },
+   {
+    "id": "qaUhDRcWcUU",
+    "title": "Phillips Hue Outdoor Garden Lights Setup",
+    "meta": [
+     "11K",
+     "3y ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 11000
+   },
+   {
+    "id": "8gF9-5jktu4",
+    "title": "Reolink Battery Doorbell camera review and integration into Home Assistant",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 11000
+   },
+   {
+    "id": "yCcuCNrOLsk",
+    "title": "How to create really cool graphs with the Mini Graph Card!",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 11000
+   },
+   {
+    "id": "rsdZnrZVASQ",
+    "title": "How to Setup Hard wired Smart Lighting with the Shelly Pro 4PM",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 11000
+   },
+   {
+    "id": "2zqQ93h6I4g",
+    "title": "My Top 10 HACS in Home Assistant for 2026!",
+    "meta": [
+     "10K",
+     "7mo ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 10000
+   },
+   {
+    "id": "FJQUFd7XeVg",
+    "title": "ULANZI clock in Home Assistant!",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "pGneHs9eONY",
+    "title": "Aranet 4 CO2 sensor review and Home Assistant integration",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 10000
+   },
+   {
+    "id": "NLwh_Tu0XFk",
+    "title": "Enecess Home Energy Power Monitoring with Ethernet Connection to Home Assistant!",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 10000
+   },
+   {
+    "id": "ydwkatI49P4",
+    "title": "MM Wave Presence Sensor for $5 - local BLE integration into Home Assistant",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 10000
+   },
+   {
+    "id": "DUBQJPl806I",
+    "title": "Power your Home Assistant with Chat GPT",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 10000
+   },
+   {
+    "id": "KUz1MfaK2rY",
+    "title": "The Aqara G4 Doorbell can recognize me and I found a way to integrate with Home Assistant!",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 10000
+   },
+   {
+    "id": "JFp3cJ_cPEw",
+    "title": "How to install MatterBridge as a Home Assistant Add-On in less than 5 minutes!",
+    "meta": [
+     "10K",
+     "8mo ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 10000
+   },
+   {
+    "id": "2CqUgzeB4Tc",
+    "title": "Review of the new SONOFF POW Ring Smart Power Meter",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 10000
+   },
+   {
+    "id": "eXaEU7EG_Dg",
+    "title": "How To Clean up your Home Assistant with SPOOK!",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 10000
+   },
+   {
+    "id": "VgpPTZ4xp7E",
+    "title": "Screek MMWave Sensor that can count people!",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 10000
+   },
+   {
+    "id": "Oc6bUhAL-EM",
+    "title": "Let's see how the Home Assistant Voice Assistant Preview works with Music Assistant!",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 10000
+   },
+   {
+    "id": "BIpNBF31n6w",
+    "title": "ONLY 10 Minutes to Install Home Assistant on a Mini PC in 2026 using the Beelink ME Pro!",
+    "meta": [
+     "10K",
+     "8mo ago"
+    ],
+    "dur": "9:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "eDbZXK-J5FQ",
+    "title": "Shelly Gen 3 Devices Now Offer Blue-Tooth Proxy ! Shelly 1, Shelly i4, Shelly Dimmer, Shelly HT",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "Az1YNjE7A2c",
+    "title": "How to Install ESP Home and Build a DIY Temperature / Humidity Sensor using an ESP 32 and DHT 22!",
+    "meta": [
+     "9.7K",
+     "1y ago"
+    ],
+    "dur": "8:16",
+    "views_tab": 9700
+   },
+   {
+    "id": "WBa7Ipx8dj0",
+    "title": "Great Zigbee Smart Knob with Blueprint in Home Assistant !",
+    "meta": [
+     "9.6K",
+     "2y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 9600
+   },
+   {
+    "id": "U3f9uCHLgfk",
+    "title": "My Top 10 Home Assistant Add Ons for 2025",
+    "meta": [
+     "9.6K",
+     "1y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 9600
+   },
+   {
+    "id": "SSSmXFi-G-c",
+    "title": "Home assistant glow - the cost effective power consumption monitoring solution",
+    "meta": [
+     "9.2K",
+     "4y ago"
+    ],
+    "dur": "5:57",
+    "views_tab": 9200
+   },
+   {
+    "id": "N_31etV_ApE",
+    "title": "Building a Smart Home with Home Assistant on a Budget",
+    "meta": [
+     "9.2K",
+     "2y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 9200
+   },
+   {
+    "id": "GIIAvZk09yg",
+    "title": "How to setup a Bluethooth Proxy device for Home Assistant",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 9200
+   },
+   {
+    "id": "qwPFYD73Wso",
+    "title": "Flash your Own Zigbee Devices for Home Assistant in Less than 5 Minutes!",
+    "meta": [
+     "9.1K",
+     "8mo ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 9100
+   },
+   {
+    "id": "i2Q0B_ZOtOE",
+    "title": "Now I have fantastic Weather Visualizations with the Ecowitt Display!",
+    "meta": [
+     "9K",
+     "11mo ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 9000
+   },
+   {
+    "id": "qSTTsgeDbjQ",
+    "title": "Finally Smart Dimmers from Sonoff!",
+    "meta": [
+     "9K",
+     "10mo ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 9000
+   },
+   {
+    "id": "TXtRdAMKMBo",
+    "title": "Finally an ePaper ESP Home display for Home Assitant!",
+    "meta": [
+     "9K",
+     "1y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 9000
+   },
+   {
+    "id": "Yhx8zs7poCk",
+    "title": "Lighting Fast Detection with the Shelly BLU Motion Zigbee for Home Assistant",
+    "meta": [
+     "8.9K",
+     "1mo ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 8900
+   },
+   {
+    "id": "eEY1aifgSkY",
+    "title": "Home Assistant Controls Your Breakers with the Shelly Pro 1CM",
+    "meta": [
+     "8.7K",
+     "2mo ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 8700
+   },
+   {
+    "id": "tl9PgwpYY-Q",
+    "title": "Testing Matter over Thread with Home Assistant!",
+    "meta": [
+     "8.7K",
+     "2y ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 8700
+   },
+   {
+    "id": "r1NGOdn47pY",
+    "title": "PV Smart Solar Hot Water Heating!",
+    "meta": [
+     "8.6K",
+     "3y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 8600
+   },
+   {
+    "id": "dG1TWwlB6lc",
+    "title": "What's New in Music Assistant 2.7?",
+    "meta": [
+     "8.5K",
+     "10mo ago"
+    ],
+    "dur": "4:43",
+    "views_tab": 8500
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "SSSmXFi-G-c",
+    "title": "Home assistant glow - the cost effective power consumption monitoring solution",
+    "meta": [
+     "9.2K",
+     "4y ago"
+    ],
+    "dur": "5:57",
+    "views_tab": 9200
+   },
+   {
+    "id": "-IEYP6vItec",
+    "title": "Tank water level sensor and integration into Home Assistant Part 1",
+    "meta": [
+     "55K",
+     "4y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 55000
+   },
+   {
+    "id": "8dTR6bsA8MU",
+    "title": "Best way to save on electric bill by measuring it real time with a Shelly EM!",
+    "meta": [
+     "646",
+     "4y ago"
+    ],
+    "dur": "22:57",
+    "views_tab": 646
+   },
+   {
+    "id": "V-Q2xWeoyA0",
+    "title": "My Home Assistant Dashboard - and a behind the scenes view of my home automation server",
+    "meta": [
+     "3.5K",
+     "4y ago"
+    ],
+    "dur": "19:20",
+    "views_tab": 3500
+   },
+   {
+    "id": "BG5lDy0sm-E",
+    "title": "Welcome to Simon Says",
+    "meta": [
+     "163",
+     "4y ago"
+    ],
+    "dur": "0:32",
+    "views_tab": 163
+   },
+   {
+    "id": "3AYq-z9WQWE",
+    "title": "Tank Water Level  Sensor Part 2 and Shelly Uni review",
+    "meta": [
+     "32K",
+     "4y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 32000
+   },
+   {
+    "id": "AAZ8mU16EnQ",
+    "title": "Great cost effective Wifi 6 router supports up to 200 devices! Dynalink AX3600",
+    "meta": [
+     "767",
+     "4y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 767
+   },
+   {
+    "id": "kVoC-Oicx5s",
+    "title": "Holman Aspect Weather Station Review",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "8:30",
+    "views_tab": 3000
+   },
+   {
+    "id": "KgteNZP4McM",
+    "title": "DIY MH-Z19 CO2 Sensor build and integration in Home Assistant using ESP Home",
+    "meta": [
+     "21K",
+     "4y ago"
+    ],
+    "dur": "6:43",
+    "views_tab": 21000
+   },
+   {
+    "id": "kbP24aWLvdM",
+    "title": "DIY Smart Home Doorbell",
+    "meta": [
+     "874",
+     "4y ago"
+    ],
+    "dur": "0:15",
+    "views_tab": 874
+   },
+   {
+    "id": "EMOWPwWPZn4",
+    "title": "Create a Home Assistant Automation to send doorbell alert to iphone and alexa",
+    "meta": [
+     "2.7K",
+     "4y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 2700
+   },
+   {
+    "id": "PrBK_VBKE3I",
+    "title": "Is the Raspberry Pi4 powerful enough to run Home Assistant?",
+    "meta": [
+     "5.9K",
+     "4y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 5900
+   },
+   {
+    "id": "dc9tetuA_t4",
+    "title": "Simon Says Home Assistant Channel",
+    "meta": [
+     "442",
+     "4y ago"
+    ],
+    "dur": "0:38",
+    "views_tab": 442
+   },
+   {
+    "id": "CwjURM5XRP0",
+    "title": "How to install Home Assistant on a Raspberry Pi",
+    "meta": [
+     "2.7K",
+     "4y ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 2700
+   },
+   {
+    "id": "SATYD4L0FP0",
+    "title": "Channel update, Google Coral, NS Panel Pro",
+    "meta": [
+     "364",
+     "4y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 364
+   },
+   {
+    "id": "4FhyFnPkFn0",
+    "title": "Dirk's Home Assistant with UniFi and NS Panel",
+    "meta": [
+     "1.9K",
+     "4y ago"
+    ],
+    "dur": "44:03",
+    "views_tab": 1900
+   },
+   {
+    "id": "Pf7C49mx_8M",
+    "title": "Lora WAN - Home Assistant - Helium Crypto Currency",
+    "meta": [
+     "2.2K",
+     "4y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 2200
+   },
+   {
+    "id": "9x63wSGGhmY",
+    "title": "Home Assistant Yellow - Home Automation for Dummies",
+    "meta": [
+     "2.1K",
+     "3y ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 2100
+   },
+   {
+    "id": "8V8F-htYxFo",
+    "title": "Problems loading Shelly?  Try this easy way to setup Shelly devices without using the Shelly App!",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 12000
+   },
+   {
+    "id": "pGneHs9eONY",
+    "title": "Aranet 4 CO2 sensor review and Home Assistant integration",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 10000
+   },
+   {
+    "id": "vdTmhOVkkhw",
+    "title": "Athom Smart Home Devices, local control with Home Assistant!",
+    "meta": [
+     "3K",
+     "3y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 3000
+   },
+   {
+    "id": "h-J6OS62Q4c",
+    "title": "An introduction to Home Assistant Automations",
+    "meta": [
+     "188",
+     "3y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 188
+   },
+   {
+    "id": "-X8reYxGd3I",
+    "title": "Add-Ons for Home Assistant",
+    "meta": [
+     "705",
+     "3y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 705
+   },
+   {
+    "id": "UZ3kgndKXus",
+    "title": "How to buy great quality, affordable IOT products from Ali Express",
+    "meta": [
+     "1.5K",
+     "3y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 1500
+   },
+   {
+    "id": "GIIAvZk09yg",
+    "title": "How to setup a Bluethooth Proxy device for Home Assistant",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 9200
+   },
+   {
+    "id": "yyTn20ARhfs",
+    "title": "How to wire up ESP 32 dev boards to create your own custom made IOT devices",
+    "meta": [
+     "4.9K",
+     "3y ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 4900
+   },
+   {
+    "id": "FaeVFwjLPZs",
+    "title": "How to create a dashboard in Home Assistant",
+    "meta": [
+     "6K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 6000
+   },
+   {
+    "id": "P_FiyqF7K5c",
+    "title": "Chat GPT to create your YAML code!",
+    "meta": [
+     "6.1K",
+     "3y ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 6100
+   },
+   {
+    "id": "GnXqvzVOHMo",
+    "title": "Are Aliexpress Zigbee bulbs any good?",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 14000
+   },
+   {
+    "id": "jCLjuyx4New",
+    "title": "Can you tell the difference : Phillips Hue vs cheap Zigbee Bulb comparison",
+    "meta": [
+     "2K",
+     "3y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 2000
+   },
+   {
+    "id": "y6I5yk4ccJQ",
+    "title": "Home Automation to measure pot plant moisture!",
+    "meta": [
+     "1.5K",
+     "3y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 1500
+   },
+   {
+    "id": "ldtl084snaU",
+    "title": "Oral B IO7 Review and Home Assistant Integration",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 1600
+   },
+   {
+    "id": "mQ6g3JOk2Qk",
+    "title": "Easy and affordable automated garden lights with Home Assistant! Part 1",
+    "meta": [
+     "3.1K",
+     "3y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 3100
+   },
+   {
+    "id": "a2PMCRcqh4U",
+    "title": "Mi Flora plant moisture sensor in HOME ASSISTANT",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 13000
+   },
+   {
+    "id": "kjxNNO45Re4",
+    "title": "Super Simple Washing Reminder Automation",
+    "meta": [
+     "493",
+     "3y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 493
+   },
+   {
+    "id": "_XBnAjdOlro",
+    "title": "Affordable Zigbee Automated Blind Automation Motor",
+    "meta": [
+     "6.1K",
+     "3y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 6100
+   },
+   {
+    "id": "OW7jWQIc4xE",
+    "title": "Automated Garden Lights - Part 2",
+    "meta": [
+     "701",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 701
+   },
+   {
+    "id": "JhPYKHoJsD8",
+    "title": "Using the Broadlink RM4 Pro to control IR devices using Home Assistant",
+    "meta": [
+     "57K",
+     "3y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 57000
+   },
+   {
+    "id": "qtDrEeVePP4",
+    "title": "Philips Hue Play Light Bar in Home Assistant",
+    "meta": [
+     "4.3K",
+     "3y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4300
+   },
+   {
+    "id": "gT9EfT69a2o",
+    "title": "Easy and affordable Webcam for Home Assistant - ESP32 Cam",
+    "meta": [
+     "66K",
+     "3y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 66000
+   },
+   {
+    "id": "zd_DXJeDtx8",
+    "title": "Does the uHoo Air Quality Sensor work with Home Assistant?",
+    "meta": [
+     "744",
+     "3y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 744
+   },
+   {
+    "id": "NPd4qeIK7Mw",
+    "title": "Aqara PIR Sensor for Home Assistant",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 1000
+   },
+   {
+    "id": "x0FZzRHZq-0",
+    "title": "Setup a smart button to control your lights!",
+    "meta": [
+     "3.3K",
+     "3y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 3300
+   },
+   {
+    "id": "lWtYWLC8DyA",
+    "title": "Washing machine reminder using a Home Assistant Blueprint with an Aquara vibration sensor",
+    "meta": [
+     "5.2K",
+     "3y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 5200
+   },
+   {
+    "id": "dVr5lhbfSKs",
+    "title": "Playing with WLED!",
+    "meta": [
+     "592",
+     "3y ago"
+    ],
+    "dur": "0:15",
+    "views_tab": 592
+   },
+   {
+    "id": "sHdUUuqdYX0",
+    "title": "Super cheap $10 LED matrix controller",
+    "meta": [
+     "910",
+     "3y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 910
+   },
+   {
+    "id": "_6KsYasEMnY",
+    "title": "SwitchBot Thermometer and Hygrometer Plus - Review and integration into Home Assistant",
+    "meta": [
+     "3K",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 3000
+   },
+   {
+    "id": "UTJkdb2C4mM",
+    "title": "Switchbot Bot to automate computer startup in Home Assistant",
+    "meta": [
+     "7.3K",
+     "3y ago"
+    ],
+    "dur": "7:13",
+    "views_tab": 7300
+   },
+   {
+    "id": "tFtz0e_e4VQ",
+    "title": "Switchbot HubMini Review and User Guide",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 1600
+   },
+   {
+    "id": "NfirE2EB8G0",
+    "title": "The Awesome Switchbot Curtain and Remote Control in Home Assistant",
+    "meta": [
+     "928",
+     "3y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 928
+   },
+   {
+    "id": "midSSaJDTKg",
+    "title": "SwitchBot Pan/Tilt Cam 2K Unboxing and Review",
+    "meta": [
+     "720",
+     "3y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 720
+   },
+   {
+    "id": "wPEUEWVlXzQ",
+    "title": "RODECaster Pro Audio for my channel",
+    "meta": [
+     "110",
+     "3y ago"
+    ],
+    "dur": "6:15",
+    "views_tab": 110
+   },
+   {
+    "id": "qaUhDRcWcUU",
+    "title": "Phillips Hue Outdoor Garden Lights Setup",
+    "meta": [
+     "11K",
+     "3y ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 11000
+   },
+   {
+    "id": "DUBQJPl806I",
+    "title": "Power your Home Assistant with Chat GPT",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 10000
+   },
+   {
+    "id": "DZ2hjjOxq_U",
+    "title": "Switchbot LED Bulb with Party Mode",
+    "meta": [
+     "428",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 428
+   },
+   {
+    "id": "5ZhMrOIzWQA",
+    "title": "Home Assistant Mold Sensor",
+    "meta": [
+     "3.5K",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 3500
+   },
+   {
+    "id": "VQwkA2Rx0YE",
+    "title": "Simon Says Introduction",
+    "meta": [
+     "3.6K",
+     "3y ago"
+    ],
+    "dur": "0:58",
+    "views_tab": 3600
+   },
+   {
+    "id": "ydwkatI49P4",
+    "title": "MM Wave Presence Sensor for $5 - local BLE integration into Home Assistant",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 10000
+   },
+   {
+    "id": "0kmA9lNWqGI",
+    "title": "How to create custom dashboards in Home Assistant",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 1800
+   },
+   {
+    "id": "9IiSgpHKt10",
+    "title": "Generic Home Assistant Thermostat",
+    "meta": [
+     "26K",
+     "3y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 26000
+   },
+   {
+    "id": "56_3WqlSuac",
+    "title": "So what does Shahina really think about Home Automation?",
+    "meta": [
+     "317",
+     "3y ago"
+    ],
+    "dur": "17:44",
+    "views_tab": 317
+   },
+   {
+    "id": "2HaoYDnwXh4",
+    "title": "Dallas Temperature Sensor in Home Assistant",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 13000
+   },
+   {
+    "id": "4-VyjKgYsmg",
+    "title": "Sonic Sensor for Accurate Distance measurement with ESP Home",
+    "meta": [
+     "5.7K",
+     "3y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 5700
+   },
+   {
+    "id": "xHChc2kYTfs",
+    "title": "How to use Widgets on your iPhone to control anything in Home Assistant using Node Red!",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 15000
+   },
+   {
+    "id": "LqrsPfJe8JA",
+    "title": "Why would you want to put Home Assistant on the Cloud?",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 2500
+   },
+   {
+    "id": "SzWdSxL0c3I",
+    "title": "Is the Amazon Echo Show 5 any good for controlling Home Assistant?",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 12000
+   },
+   {
+    "id": "hJuLBXtiwFY",
+    "title": "My Summary and testing of : Year of the Voice Part 2",
+    "meta": [
+     "614",
+     "3y ago"
+    ],
+    "dur": "7:22",
+    "views_tab": 614
+   },
+   {
+    "id": "m43Fe30Dbv8",
+    "title": "Easy way to flash ESP 32 Microcontrollers with ESP Home",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 21000
+   },
+   {
+    "id": "ccPM072mbQY",
+    "title": "Reolink 510WA in Home Assistant",
+    "meta": [
+     "2.7K",
+     "3y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 2700
+   },
+   {
+    "id": "5qqEo7Pth80",
+    "title": "Counting people with Home Assistant and Unify G4 Pro Camera",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 2200
+   },
+   {
+    "id": "FJQUFd7XeVg",
+    "title": "ULANZI clock in Home Assistant!",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "N4fxYNpRjkY",
+    "title": "Home Assistant controlling our ducted heating/colling system",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 2500
+   },
+   {
+    "id": "wR6a69LnNyk",
+    "title": "Rotary Encoder Automation in Home Assistant",
+    "meta": [
+     "3.8K",
+     "3y ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 3800
+   },
+   {
+    "id": "IVz4-2dUnNk",
+    "title": "Rotary Encoder Node Red Automation now works to dim lights thanks to my Awesome Audience!",
+    "meta": [
+     "1.5K",
+     "3y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 1500
+   },
+   {
+    "id": "PUlhOxlGbhQ",
+    "title": "My 2 year review of using an August Smart Lock with my Smart Home",
+    "meta": [
+     "6.6K",
+     "3y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 6600
+   },
+   {
+    "id": "E-xE5s9e2kc",
+    "title": "View all your Formula One stats in Home Assistant!",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 1700
+   },
+   {
+    "id": "-TT01Yolom0",
+    "title": "Simple way to flash ESP32s without Remote Access!",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 1200
+   },
+   {
+    "id": "K8L6FHMp9KA",
+    "title": "Free Home Assistant Remote Access Using HomeKit Integration!",
+    "meta": [
+     "4.8K",
+     "3y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 4800
+   },
+   {
+    "id": "G4wZKvn2hpA",
+    "title": "How to use NFC tags to trigger automations in Home Assistant",
+    "meta": [
+     "35K",
+     "3y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 35000
+   },
+   {
+    "id": "k7YFcCOGY0g",
+    "title": "How to decide between Smart Bulbs and Smart Switches",
+    "meta": [
+     "551",
+     "3y ago"
+    ],
+    "dur": "4:43",
+    "views_tab": 551
+   },
+   {
+    "id": "X0Cien5r8Jc",
+    "title": "ESP Home Athom mm Wave Human Presence Sensor is great and only US $29!",
+    "meta": [
+     "4.5K",
+     "3y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 4500
+   },
+   {
+    "id": "r1NGOdn47pY",
+    "title": "PV Smart Solar Hot Water Heating!",
+    "meta": [
+     "8.6K",
+     "3y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 8600
+   },
+   {
+    "id": "9RD0dXHi3bM",
+    "title": "How to wire up a Shelly 1 smart light switch!",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 23000
+   },
+   {
+    "id": "LFnUA9rp4gU",
+    "title": "What's inside the Athom Presence Sensor and how can we tweak it?",
+    "meta": [
+     "2.4K",
+     "3y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 2400
+   },
+   {
+    "id": "VgpPTZ4xp7E",
+    "title": "Screek MMWave Sensor that can count people!",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 10000
+   },
+   {
+    "id": "ueFv27Uovu8",
+    "title": "Best Local Wifi Smart Plug preflashed with ESP Home for Home Assistant",
+    "meta": [
+     "5.6K",
+     "3y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 5600
+   },
+   {
+    "id": "Z8NyBTbjDyw",
+    "title": "Comparison video between Screek 2A and Athom mm Wave Sensors",
+    "meta": [
+     "3.1K",
+     "3y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 3100
+   },
+   {
+    "id": "UvdRdEZBepw",
+    "title": "Fordpass HACS integration in Home Assistant!",
+    "meta": [
+     "5.2K",
+     "3y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 5200
+   },
+   {
+    "id": "1L6_2zxOYmM",
+    "title": "Easiest way to make your garage door opener smart with ESP Home and Athom!",
+    "meta": [
+     "7.2K",
+     "3y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 7200
+   },
+   {
+    "id": "jvRJ3hLsJAY",
+    "title": "New Features and Setting Zones for Presence Detection with Screek mmWave sensors.",
+    "meta": [
+     "3K",
+     "3y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 3000
+   },
+   {
+    "id": "MMHGsFPXh_o",
+    "title": "Super cheap Xiaomi Temperature and Humidity sensors in Home Assistant!",
+    "meta": [
+     "4.7K",
+     "3y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 4700
+   },
+   {
+    "id": "DmAE4QerHJs",
+    "title": "Create a Home Assistant Automation using PIR and MMWave Sensors!",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 1800
+   },
+   {
+    "id": "1jr08SS1LaQ",
+    "title": "How does a US$15 Matter Smart Plug work with Home Assistant?",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 2200
+   },
+   {
+    "id": "vXl-Btmu5jE",
+    "title": "Let's have a look at Home Assistant Green!",
+    "meta": [
+     "7.4K",
+     "3y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 7400
+   },
+   {
+    "id": "FrQ_TkO3ckI",
+    "title": "Zigbee Power Strip Test",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 1300
+   },
+   {
+    "id": "rxtUYElB2eM",
+    "title": "Switchbot Curtain 3 with Hub 2 and Matter Support",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 1200
+   },
+   {
+    "id": "rppUBU3ot_M",
+    "title": "Glow Tube Clock- Beautiful 70s style display!",
+    "meta": [
+     "542",
+     "3y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 542
+   },
+   {
+    "id": "esZMyBEBoJA",
+    "title": "Detailed 2023 how to for wiring as well as connecting Shelly switches to Home Assistant",
+    "meta": [
+     "698",
+     "2y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 698
+   },
+   {
+    "id": "LQQXYp3gXzc",
+    "title": "Sale 11/11 Ali Express",
+    "meta": [
+     "422",
+     "2y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 422
+   },
+   {
+    "id": "-NQgymTvolw",
+    "title": "Make your own Biltong with the help of Home Assistant",
+    "meta": [
+     "941",
+     "2y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 941
+   },
+   {
+    "id": "mlxNo30Cae0",
+    "title": "My Top 6 Black Friday Deals 2023",
+    "meta": [
+     "341",
+     "2y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 341
+   },
+   {
+    "id": "AMRD7XHRXUM",
+    "title": "Seeed Studio ESPHome MMWave sensor kit, offering Sleep and Fall Detection!",
+    "meta": [
+     "7.7K",
+     "2y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 7700
+   },
+   {
+    "id": "3pq7lAd1Jzg",
+    "title": "Low Battery Warning Alert and Dashboard!",
+    "meta": [
+     "7.9K",
+     "2y ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 7900
+   },
+   {
+    "id": "Lr636WAR_vc",
+    "title": "How to convert your cord type blinds for use with Switchbot Blind Tilt",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 11000
+   },
+   {
+    "id": "yfVNPq3I49E",
+    "title": "1 minute setup for Home Assistant on NS Panel Pro!",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 18000
+   },
+   {
+    "id": "fSvIWxE0o_k",
+    "title": "Sonoff Presence Sensor and Home Assistant Light Switch Automation",
+    "meta": [
+     "6.2K",
+     "2y ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 6200
+   },
+   {
+    "id": "dYe7yg4Av50",
+    "title": "Review of the Mumubiz Zigbee Smart Garage Door Control",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 1500
+   },
+   {
+    "id": "YvoarMpRwz0",
+    "title": "How I fixed my Zigbee Network!",
+    "meta": [
+     "5.3K",
+     "2y ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 5300
+   },
+   {
+    "id": "eJ86p5mN3Z4",
+    "title": "How do I transfer all my Wi FI devices to a new home?",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 1400
+   },
+   {
+    "id": "rsNP-HRFnDE",
+    "title": "2 Year Review of Ecovacs Deebot T9, and Home Assistant HACS integration.",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 3200
+   },
+   {
+    "id": "hfZR2_BNXUE",
+    "title": "My 5 minute summary of the Home Assistant 2024.1 Release Party!",
+    "meta": [
+     "378",
+     "2y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 378
+   },
+   {
+    "id": "aY8r8X0xFQM",
+    "title": "Smart WiFI Light from Meross, 2 ways to integrate into Home Assistant!",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 4200
+   },
+   {
+    "id": "vz5OQJEpqdk",
+    "title": "Haier has just forced the removal of the HACS integration into it's appliances!",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 1000
+   },
+   {
+    "id": "3fEAf1L9sb0",
+    "title": "Automate my Heat Recovery Ventilation System with Home Assistant",
+    "meta": [
+     "3.3K",
+     "2y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 3300
+   },
+   {
+    "id": "1CqVpD36Ljk",
+    "title": "Unboxing and Review of Sonoff Zigbee Motion Sensor",
+    "meta": [
+     "5.8K",
+     "2y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 5800
+   },
+   {
+    "id": "tjlTeiUd0t8",
+    "title": "My first impressions of Home Assistant on Apple Carplay!",
+    "meta": [
+     "2.8K",
+     "2y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 2800
+   },
+   {
+    "id": "zDLsUP6rMTA",
+    "title": "Setup tutorial for Athom LED strips preloaded with WLED",
+    "meta": [
+     "4.5K",
+     "2y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 4500
+   },
+   {
+    "id": "NQUFSKle4B0",
+    "title": "Review of Smart Smoke Alarm Kit from Meross!",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 1800
+   },
+   {
+    "id": "k9_SyfToDEw",
+    "title": "New Home Assistant Tuya Integration in Home Assistant!",
+    "meta": [
+     "29K",
+     "2y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 29000
+   },
+   {
+    "id": "E20USp6WIWs",
+    "title": "Measure household appliance energy usage with Zemismart!",
+    "meta": [
+     "342",
+     "2y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 342
+   }
+  ]
+ }
+}

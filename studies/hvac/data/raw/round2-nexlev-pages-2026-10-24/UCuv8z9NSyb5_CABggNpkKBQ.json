@@ -1,0 +1,611 @@
+{
+ "key": "UCuv8z9NSyb5_CABggNpkKBQ",
+ "channel": "EdgeTek HVAC",
+ "id": "UCuv8z9NSyb5_CABggNpkKBQ",
+ "subs": "17.1K subscribers",
+ "videos": "289 videos",
+ "latest": [
+  {
+   "id": "Sbl7u94KO0c",
+   "title": "EdgeTek Tip: Defrost Board Wiring",
+   "meta": [
+    "481",
+    "10mo ago"
+   ],
+   "dur": "3:55",
+   "views": 481
+  },
+  {
+   "id": "rrKBKaj5o0w",
+   "title": "EdgeTek Tip: Up-flow Conversion for the MH E7EM Furnace",
+   "meta": [
+    "414",
+    "10mo ago"
+   ],
+   "dur": "2:15",
+   "views": 414
+  },
+  {
+   "id": "-bNl4gZYGj4",
+   "title": "EdgeTek Tip: Roof Jacks, Combustion Fans, and Ventilaire Systems",
+   "meta": [
+    "220",
+    "10mo ago"
+   ],
+   "dur": "1:42",
+   "views": 220
+  },
+  {
+   "id": "d8lhCwODtLY",
+   "title": "EdgeTek Tip: Installing Downflow Coil Box on MH E7 Furnace",
+   "meta": [
+    "1.2K",
+    "10mo ago"
+   ],
+   "dur": "1:48",
+   "views": 1200
+  },
+  {
+   "id": "DueqERlftTc",
+   "title": "EdgeTek Tip: Defrost Diagnostic Codes",
+   "meta": [
+    "245",
+    "11mo ago"
+   ],
+   "dur": "3:04",
+   "views": 245
+  },
+  {
+   "id": "3Gokvf6JipM",
+   "title": "EdgeTek Tip: Compressor Troubleshooting",
+   "meta": [
+    "334",
+    "11mo ago"
+   ],
+   "dur": "3:24",
+   "views": 334
+  },
+  {
+   "id": "jOpaDcTl20g",
+   "title": "EdgeTek Tip: Heat Pump Capacitor",
+   "meta": [
+    "150",
+    "11mo ago"
+   ],
+   "dur": "1:24",
+   "views": 150
+  },
+  {
+   "id": "WV4In8W3Ph0",
+   "title": "EdgeTek Tip: Hot Gas Solenoid",
+   "meta": [
+    "226",
+    "11mo ago"
+   ],
+   "dur": "1:14",
+   "views": 226
+  },
+  {
+   "id": "5uBgIYFJuSU",
+   "title": "EdgeTek Tip: Reversing Valve",
+   "meta": [
+    "502",
+    "1y ago"
+   ],
+   "dur": "2:01",
+   "views": 502
+  },
+  {
+   "id": "5ccCXhph7Gw",
+   "title": "EdgeTek Tip: Contactor Coil and Fan Motor",
+   "meta": [
+    "271",
+    "1y ago"
+   ],
+   "dur": "2:00",
+   "views": 271
+  },
+  {
+   "id": "Drd-NVcYeys",
+   "title": "EdgeTek Tip: New Channel Board for Manufactured Housing Furnaces",
+   "meta": [
+    "151",
+    "1y ago"
+   ],
+   "dur": "1:13",
+   "views": 151
+  },
+  {
+   "id": "gxIgCrej9jk",
+   "title": "EdgeTek Tip: Heat Pump Defrost Cycle",
+   "meta": [
+    "179",
+    "1y ago"
+   ],
+   "dur": "1:25",
+   "views": 179
+  },
+  {
+   "id": "6d5mECmr5Rg",
+   "title": "EdgeTek Tip: What is Guardian Seal?",
+   "meta": [
+    "113",
+    "1y ago"
+   ],
+   "dur": "1:01",
+   "views": 113
+  },
+  {
+   "id": "H89he7HG3IY",
+   "title": "EdgeTek Tip: Condenser Coil Cleaning",
+   "meta": [
+    "148",
+    "1y ago"
+   ],
+   "dur": "2:57",
+   "views": 148
+  },
+  {
+   "id": "Uh4kE7NSmGc",
+   "title": "EdgeTek Tip: MH E7 Electric Furnace Maintenance and Airflow Settings",
+   "meta": [
+    "807",
+    "1y ago"
+   ],
+   "dur": "1:21",
+   "views": 807
+  },
+  {
+   "id": "JrgYMVeA4dA",
+   "title": "EdgeTek Tip: Coil Maintenance and Cleaning",
+   "meta": [
+    "411",
+    "1y ago"
+   ],
+   "dur": "2:13",
+   "views": 411
+  },
+  {
+   "id": "Ov0CVW4LLRs",
+   "title": "EdgeTek Tip: MH Furnace Changes with A2L",
+   "meta": [
+    "155",
+    "1y ago"
+   ],
+   "dur": "1:57",
+   "views": 155
+  },
+  {
+   "id": "z9_tzhPO6S0",
+   "title": "EdgeTek Tip: DM5i Motor Replacement",
+   "meta": [
+    "113",
+    "1y ago"
+   ],
+   "dur": "1:19",
+   "views": 113
+  },
+  {
+   "id": "hQbly4vm364",
+   "title": "EdgeTek Tip: Troubleshooting Airflow and Charging for MH Equipment",
+   "meta": [
+    "207",
+    "1y ago"
+   ],
+   "dur": "3:18",
+   "views": 207
+  },
+  {
+   "id": "cfSkZ1AuwHU",
+   "title": "EdgeTek Tip: Service Tips for MG2R",
+   "meta": [
+    "372",
+    "1y ago"
+   ],
+   "dur": "1:24",
+   "views": 372
+  },
+  {
+   "id": "muwEWOql0y0",
+   "title": "EdgeTek Tip: Quick Reference Data Guides for MH Outdoor Units",
+   "meta": [
+    "108",
+    "1y ago"
+   ],
+   "dur": "2:37",
+   "views": 108
+  },
+  {
+   "id": "63GGw4qK8LQ",
+   "title": "EdgeTek Tip: Replacing Gas Valve in Manufactured Housing Furnaces",
+   "meta": [
+    "962",
+    "1y ago"
+   ],
+   "dur": "1:41",
+   "views": 962
+  },
+  {
+   "id": "LD6VY0MyP_A",
+   "title": "EdgeTek Tip: MG1E and MG2R Furnace A2L Upgrades",
+   "meta": [
+    "585",
+    "1y ago"
+   ],
+   "dur": "2:03",
+   "views": 585
+  },
+  {
+   "id": "De-wcslBVuA",
+   "title": "EdgeTek Tip: A2L Sensor Wiring",
+   "meta": [
+    "8.2K",
+    "1y ago"
+   ],
+   "dur": "2:10",
+   "views": 8200
+  },
+  {
+   "id": "BPzjnXxO_YY",
+   "title": "EdgeTek Tip: Replacing Hot Surface Ignitors in Manufactured Housing Furnaces",
+   "meta": [
+    "1K",
+    "1y ago"
+   ],
+   "dur": "1:45",
+   "views": 1000
+  },
+  {
+   "id": "9UvhdtupkuY",
+   "title": "Wiring and Brazing A2L Equipment",
+   "meta": [
+    "49K",
+    "1y ago"
+   ],
+   "dur": "16:53",
+   "views": 49000
+  },
+  {
+   "id": "uJ4ImLtQoF8",
+   "title": "Installation Considerations with A2L Equipment",
+   "meta": [
+    "21K",
+    "2y ago"
+   ],
+   "dur": "26:47",
+   "views": 21000
+  },
+  {
+   "id": "19cFX7yyji0",
+   "title": "Intertherm...the Right Choice in HVAC",
+   "meta": [
+    "416",
+    "2y ago"
+   ],
+   "dur": "1:32",
+   "views": 416
+  },
+  {
+   "id": "XoQWTtOMjbY",
+   "title": "Nordyne's New 115V Air Handler!",
+   "meta": [
+    "523",
+    "2y ago"
+   ],
+   "dur": "1:41",
+   "views": 523
+  },
+  {
+   "id": "co_DlvpdogU",
+   "title": "How We Back Our Distributors",
+   "meta": [
+    "129",
+    "2y ago"
+   ],
+   "dur": "0:37",
+   "views": 129
+  }
+ ],
+ "popular": [
+  {
+   "id": "Ph4JheZVR0Q",
+   "title": "Furnace Troubleshooting Condensate Piping",
+   "meta": [
+    "494K",
+    "15y ago"
+   ],
+   "dur": "3:29",
+   "views": 494000
+  },
+  {
+   "id": "66hSwg2y_9k",
+   "title": "Troubleshooting with Superheat and Subcooling (TXV)",
+   "meta": [
+    "241K",
+    "9y ago"
+   ],
+   "dur": "6:13",
+   "views": 241000
+  },
+  {
+   "id": "OrDnR4Aa5rw",
+   "title": "Wiring of a Two-Stage Heat Pump",
+   "meta": [
+    "175K",
+    "9y ago"
+   ],
+   "dur": "4:53",
+   "views": 175000
+  },
+  {
+   "id": "PgeSVZZrRKk",
+   "title": "Furnace Repair - Eliminate the Thermostat | NORDYNE U Technical Tip",
+   "meta": [
+    "175K",
+    "13y ago"
+   ],
+   "dur": "2:25",
+   "views": 175000
+  },
+  {
+   "id": "t-Epjx5wN2w",
+   "title": "Checking Voltage from Neutral to Ground",
+   "meta": [
+    "174K",
+    "8y ago"
+   ],
+   "dur": "1:02",
+   "views": 174000
+  },
+  {
+   "id": "wZ8ayD1g4c0",
+   "title": "Air Conditioner Repair | Adding R-410A Refrigerant to a System | NORDYNE U",
+   "meta": [
+    "164K",
+    "14y ago"
+   ],
+   "dur": "1:20",
+   "views": 164000
+  },
+  {
+   "id": "bjsdOKgw6Io",
+   "title": "Diagnosing Locked Rotor Compressor",
+   "meta": [
+    "158K",
+    "9y ago"
+   ],
+   "dur": "3:11",
+   "views": 158000
+  },
+  {
+   "id": "Rw_LDCq4vY4",
+   "title": "Mini-Split Remote Functions - Part 1",
+   "meta": [
+    "148K",
+    "9y ago"
+   ],
+   "dur": "2:12",
+   "views": 148000
+  },
+  {
+   "id": "fjnKkQ0eKYE",
+   "title": "Troubleshooting with Superheat and Subcooling (Piston)",
+   "meta": [
+    "145K",
+    "9y ago"
+   ],
+   "dur": "9:47",
+   "views": 145000
+  },
+  {
+   "id": "UHN24qnmrwE",
+   "title": "Wiring of a Single-Stage Heat Pump",
+   "meta": [
+    "112K",
+    "9y ago"
+   ],
+   "dur": "4:35",
+   "views": 112000
+  },
+  {
+   "id": "9WI-uRRx0o0",
+   "title": "FURNACE TROUBLESHOOTING pressure switches  - HVAC Repair  Tips",
+   "meta": [
+    "99K",
+    "15y ago"
+   ],
+   "dur": "2:15",
+   "views": 99000
+  },
+  {
+   "id": "m_Gahs7e3AA",
+   "title": "Furnace Vent Piping Tips for HVAC Contractors",
+   "meta": [
+    "96K",
+    "14y ago"
+   ],
+   "dur": "2:08",
+   "views": 96000
+  },
+  {
+   "id": "inyppSGBBp8",
+   "title": "How Do You Verify Second Stage?",
+   "meta": [
+    "63K",
+    "7y ago"
+   ],
+   "dur": "3:14",
+   "views": 63000
+  },
+  {
+   "id": "ItOFi_U0hck",
+   "title": "Gas Furnace Repair Diagnosing No Heat Calls repair Basic Tutorial-HVAC Repair Tips",
+   "meta": [
+    "54K",
+    "15y ago"
+   ],
+   "dur": "1:39",
+   "views": 54000
+  },
+  {
+   "id": "57OTtcQI50Y",
+   "title": "Two Ways to Hook Gauges up to a Heat Pump",
+   "meta": [
+    "51K",
+    "8y ago"
+   ],
+   "dur": "1:20",
+   "views": 51000
+  },
+  {
+   "id": "9UvhdtupkuY",
+   "title": "Wiring and Brazing A2L Equipment",
+   "meta": [
+    "49K",
+    "1y ago"
+   ],
+   "dur": "16:53",
+   "views": 49000
+  },
+  {
+   "id": "C-Klm2b0A0E",
+   "title": "Understanding Ohms vs Continuity",
+   "meta": [
+    "46K",
+    "9y ago"
+   ],
+   "dur": "3:33",
+   "views": 46000
+  },
+  {
+   "id": "HkI0bwSTYws",
+   "title": "OL is Not an Ohm Reading",
+   "meta": [
+    "43K",
+    "4y ago"
+   ],
+   "dur": "0:38",
+   "views": 43000
+  },
+  {
+   "id": "nglwiKI65RA",
+   "title": "St*ff No HVAC Contractor Says",
+   "meta": [
+    "40K",
+    "14y ago"
+   ],
+   "dur": "1:00",
+   "views": 40000
+  },
+  {
+   "id": "ikKq7JdiePE",
+   "title": "Troubleshooting Flame Failure",
+   "meta": [
+    "38K",
+    "8y ago"
+   ],
+   "dur": "1:11",
+   "views": 38000
+  },
+  {
+   "id": "eeW8EaOtu-Q",
+   "title": "Where to Install the Filter Drier",
+   "meta": [
+    "38K",
+    "8y ago"
+   ],
+   "dur": "1:06",
+   "views": 38000
+  },
+  {
+   "id": "_4BUOCc4A7o",
+   "title": "Mini-Split Remote Functions - Part 2",
+   "meta": [
+    "38K",
+    "9y ago"
+   ],
+   "dur": "1:43",
+   "views": 38000
+  },
+  {
+   "id": "OXWNkD3DaPQ",
+   "title": "Understanding Compressor RLA",
+   "meta": [
+    "36K",
+    "8y ago"
+   ],
+   "dur": "0:52",
+   "views": 36000
+  },
+  {
+   "id": "sbge79gEwnk",
+   "title": "Is Your Reversing Valve Energized?",
+   "meta": [
+    "35K",
+    "8y ago"
+   ],
+   "dur": "0:53",
+   "views": 35000
+  },
+  {
+   "id": "IGLwxJnlEGU",
+   "title": "Single Stage Furnace Limit Circuit",
+   "meta": [
+    "34K",
+    "8y ago"
+   ],
+   "dur": "8:51",
+   "views": 34000
+  },
+  {
+   "id": "DZJjAMTncNQ",
+   "title": "Clearing Fault Codes In Inverter Driven Units",
+   "meta": [
+    "30K",
+    "5y ago"
+   ],
+   "dur": "3:19",
+   "views": 30000
+  },
+  {
+   "id": "MHfbGdSzNes",
+   "title": "Condensate Piping",
+   "meta": [
+    "30K",
+    "6y ago"
+   ],
+   "dur": "2:46",
+   "views": 30000
+  },
+  {
+   "id": "NYuaTFUOqvo",
+   "title": "Micro-Channel Basic Knowledge",
+   "meta": [
+    "29K",
+    "9y ago"
+   ],
+   "dur": "7:31",
+   "views": 29000
+  },
+  {
+   "id": "IgvE-Y0sDGs",
+   "title": "Air Conditioner Repair Checking Compressor to Ground",
+   "meta": [
+    "27K",
+    "15y ago"
+   ],
+   "dur": "1:43",
+   "views": 27000
+  },
+  {
+   "id": "CzyygfgsndU",
+   "title": "Proper Location of a Liquid Line Filter Drier",
+   "meta": [
+    "25K",
+    "9y ago"
+   ],
+   "dur": "1:09",
+   "views": 25000
+  }
+ ]
+}

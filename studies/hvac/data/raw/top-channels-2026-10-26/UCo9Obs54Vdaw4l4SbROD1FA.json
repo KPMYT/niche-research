@@ -1,0 +1,2515 @@
+{
+ "key": "UCo9Obs54Vdaw4l4SbROD1FA",
+ "channel": "The HVAC Game",
+ "id": "UCo9Obs54Vdaw4l4SbROD1FA",
+ "subs": "17.4K subscribers",
+ "videos": "573 videos",
+ "pulled": "2026-10-26T08:15:13.448232+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 3,
+  "Popular": 3,
+  "Oldest": 3
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "1zzVWDDhrZE",
+    "title": "Gas Furnace Sequence of Operation in Under 3 Minutes from a 16-Year HVAC Tech",
+    "meta": [
+     "227",
+     "18h ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 227
+   },
+   {
+    "id": "JMBxN8YN1HU",
+    "title": "How I replace exhaust fan motors after 16 years in HVAC",
+    "meta": [
+     "1.4K",
+     "2w ago"
+    ],
+    "dur": "40:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "0PmVEHB6ySI",
+    "title": "Before Knowing My HVAC Sequence of Operation I Couldn't Troubleshoot with Confidence",
+    "meta": [
+     "1.3K",
+     "4w ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 1300
+   },
+   {
+    "id": "SIEf3yBSQV4",
+    "title": "Starting Out I had to Gauge Up on Every System. Now I Do This Instead",
+    "meta": [
+     "4.7K",
+     "1mo ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 4700
+   },
+   {
+    "id": "lSHYnKPXZ-k",
+    "title": "This Is How I Teach Diagrams After 16 Years In HVAC",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1100
+   },
+   {
+    "id": "q88rhMPW01Q",
+    "title": "I Avoided HVAC Wiring Diagrams For Two Years When Starting Out",
+    "meta": [
+     "20K",
+     "2mo ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 20000
+   },
+   {
+    "id": "oEMIjAE0-cM",
+    "title": "I Rushed Too Many Ice Machine Calls Before Learning This",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 2600
+   },
+   {
+    "id": "QeIxC-jaqh8",
+    "title": "Breaking Down HVAC Wiring Diagrams So You Can Actually Understand Them",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "T7Nklk8I1OM",
+    "title": "I Misdiagnosed Dozens of Motors Before Learning This",
+    "meta": [
+     "59K",
+     "2mo ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 59000
+   },
+   {
+    "id": "gfD1l4lOEQs",
+    "title": "This Is How I Troubleshoot with Confidence After 16 Years in HVAC",
+    "meta": [
+     "141K",
+     "3mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 141000
+   },
+   {
+    "id": "riLAE8Bdwks",
+    "title": "Stop Guessing! Here's How to Actually Find a Refrigerant Leak",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 24000
+   },
+   {
+    "id": "KIPH6pbm0XA",
+    "title": "The Fastest Way to Find Your AC Unit",
+    "meta": [
+     "635",
+     "3mo ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 635
+   },
+   {
+    "id": "AwWRsZze_24",
+    "title": "How To Ohm Out A Three-Phase Compressor",
+    "meta": [
+     "762",
+     "3mo ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 762
+   },
+   {
+    "id": "NqZgAnLfBkU",
+    "title": "How To Leak Search Successfully And Find Leaks",
+    "meta": [
+     "227",
+     "3mo ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 227
+   },
+   {
+    "id": "LSFM35FBJAw",
+    "title": "How to Read HVAC Wiring Diagrams in the Field (Real Unit Schematic Walk-Through)",
+    "meta": [
+     "1.2K",
+     "10mo ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 1200
+   },
+   {
+    "id": "xjAp00H_cZs",
+    "title": "Condenser Fan Motor Troubleshooting",
+    "meta": [
+     "424",
+     "10mo ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 424
+   },
+   {
+    "id": "JFCwBJJQUoY",
+    "title": "Day in the life of a 37 year old HVAC tech in under 5 minutes",
+    "meta": [
+     "549",
+     "11mo ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 549
+   },
+   {
+    "id": "iOqIkj8ZdvE",
+    "title": "I hate these calls where you can't find anything wrong!",
+    "meta": [
+     "281",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 281
+   },
+   {
+    "id": "xYeEjLDiCz4",
+    "title": "AC Not Working In The Texas Summer Heat",
+    "meta": [
+     "423",
+     "1y ago"
+    ],
+    "dur": "33:19",
+    "views_tab": 423
+   },
+   {
+    "id": "ofk0-OUego4",
+    "title": "Repairing Air Conditioner That Hasn't Worked for Months",
+    "meta": [
+     "482",
+     "1y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 482
+   },
+   {
+    "id": "KpOsOC5cmk4",
+    "title": "HVAC Electrical Troubleshooting Basics",
+    "meta": [
+     "865",
+     "1y ago"
+    ],
+    "dur": "43:47",
+    "views_tab": 865
+   },
+   {
+    "id": "hUkMkfT2Dm0",
+    "title": "Should I Go To Trade School For HVAC",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "22:08",
+    "views_tab": 123
+   },
+   {
+    "id": "J1YsORpfHSM",
+    "title": "How To Learn HVAC As A New Tech Without Getting Overwhelmed",
+    "meta": [
+     "518",
+     "1y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 518
+   },
+   {
+    "id": "_L3LxGpiYC4",
+    "title": "Should You Stay Or Should You Go",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "20:40",
+    "views_tab": 123
+   },
+   {
+    "id": "STXitZ-n63A",
+    "title": "How To Stay Busy In The Slow Season",
+    "meta": [
+     "137",
+     "1y ago"
+    ],
+    "dur": "20:56",
+    "views_tab": 137
+   },
+   {
+    "id": "WOZIMXozARI",
+    "title": "How To Move Ahead As HVAC Tech In The Slow Season",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "19:29",
+    "views_tab": 114
+   },
+   {
+    "id": "TZg8pTglzr8",
+    "title": "In-Person Meetup And New Community Features",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 27
+   },
+   {
+    "id": "jgLAxCJ0lYA",
+    "title": "How To Clean Your Coil Like The Pros",
+    "meta": [
+     "135",
+     "1y ago"
+    ],
+    "dur": "18:31",
+    "views_tab": 135
+   },
+   {
+    "id": "I-oncRluUlc",
+    "title": "Superheat And Subcool Explained",
+    "meta": [
+     "164",
+     "1y ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 164
+   },
+   {
+    "id": "yiJe899gUnw",
+    "title": "Don't Trash Talk Yourself As A New HVAC Tech",
+    "meta": [
+     "63",
+     "1y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 63
+   }
+  ],
+  "Latest": [
+   {
+    "id": "1zzVWDDhrZE",
+    "title": "Gas Furnace Sequence of Operation in Under 3 Minutes from a 16-Year HVAC Tech",
+    "meta": [
+     "227",
+     "18h ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 227
+   },
+   {
+    "id": "JMBxN8YN1HU",
+    "title": "How I replace exhaust fan motors after 16 years in HVAC",
+    "meta": [
+     "1.4K",
+     "2w ago"
+    ],
+    "dur": "40:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "0PmVEHB6ySI",
+    "title": "Before Knowing My HVAC Sequence of Operation I Couldn't Troubleshoot with Confidence",
+    "meta": [
+     "1.3K",
+     "4w ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 1300
+   },
+   {
+    "id": "SIEf3yBSQV4",
+    "title": "Starting Out I had to Gauge Up on Every System. Now I Do This Instead",
+    "meta": [
+     "4.7K",
+     "1mo ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 4700
+   },
+   {
+    "id": "lSHYnKPXZ-k",
+    "title": "This Is How I Teach Diagrams After 16 Years In HVAC",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1100
+   },
+   {
+    "id": "q88rhMPW01Q",
+    "title": "I Avoided HVAC Wiring Diagrams For Two Years When Starting Out",
+    "meta": [
+     "20K",
+     "2mo ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 20000
+   },
+   {
+    "id": "oEMIjAE0-cM",
+    "title": "I Rushed Too Many Ice Machine Calls Before Learning This",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 2600
+   },
+   {
+    "id": "QeIxC-jaqh8",
+    "title": "Breaking Down HVAC Wiring Diagrams So You Can Actually Understand Them",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "T7Nklk8I1OM",
+    "title": "I Misdiagnosed Dozens of Motors Before Learning This",
+    "meta": [
+     "59K",
+     "2mo ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 59000
+   },
+   {
+    "id": "gfD1l4lOEQs",
+    "title": "This Is How I Troubleshoot with Confidence After 16 Years in HVAC",
+    "meta": [
+     "141K",
+     "3mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 141000
+   },
+   {
+    "id": "riLAE8Bdwks",
+    "title": "Stop Guessing! Here's How to Actually Find a Refrigerant Leak",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 24000
+   },
+   {
+    "id": "KIPH6pbm0XA",
+    "title": "The Fastest Way to Find Your AC Unit",
+    "meta": [
+     "635",
+     "3mo ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 635
+   },
+   {
+    "id": "AwWRsZze_24",
+    "title": "How To Ohm Out A Three-Phase Compressor",
+    "meta": [
+     "762",
+     "3mo ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 762
+   },
+   {
+    "id": "NqZgAnLfBkU",
+    "title": "How To Leak Search Successfully And Find Leaks",
+    "meta": [
+     "227",
+     "3mo ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 227
+   },
+   {
+    "id": "LSFM35FBJAw",
+    "title": "How to Read HVAC Wiring Diagrams in the Field (Real Unit Schematic Walk-Through)",
+    "meta": [
+     "1.2K",
+     "10mo ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 1200
+   },
+   {
+    "id": "xjAp00H_cZs",
+    "title": "Condenser Fan Motor Troubleshooting",
+    "meta": [
+     "424",
+     "10mo ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 424
+   },
+   {
+    "id": "JFCwBJJQUoY",
+    "title": "Day in the life of a 37 year old HVAC tech in under 5 minutes",
+    "meta": [
+     "549",
+     "11mo ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 549
+   },
+   {
+    "id": "iOqIkj8ZdvE",
+    "title": "I hate these calls where you can't find anything wrong!",
+    "meta": [
+     "281",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 281
+   },
+   {
+    "id": "xYeEjLDiCz4",
+    "title": "AC Not Working In The Texas Summer Heat",
+    "meta": [
+     "423",
+     "1y ago"
+    ],
+    "dur": "33:19",
+    "views_tab": 423
+   },
+   {
+    "id": "ofk0-OUego4",
+    "title": "Repairing Air Conditioner That Hasn't Worked for Months",
+    "meta": [
+     "482",
+     "1y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 482
+   },
+   {
+    "id": "KpOsOC5cmk4",
+    "title": "HVAC Electrical Troubleshooting Basics",
+    "meta": [
+     "865",
+     "1y ago"
+    ],
+    "dur": "43:47",
+    "views_tab": 865
+   },
+   {
+    "id": "hUkMkfT2Dm0",
+    "title": "Should I Go To Trade School For HVAC",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "22:08",
+    "views_tab": 123
+   },
+   {
+    "id": "J1YsORpfHSM",
+    "title": "How To Learn HVAC As A New Tech Without Getting Overwhelmed",
+    "meta": [
+     "518",
+     "1y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 518
+   },
+   {
+    "id": "_L3LxGpiYC4",
+    "title": "Should You Stay Or Should You Go",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "20:40",
+    "views_tab": 123
+   },
+   {
+    "id": "STXitZ-n63A",
+    "title": "How To Stay Busy In The Slow Season",
+    "meta": [
+     "137",
+     "1y ago"
+    ],
+    "dur": "20:56",
+    "views_tab": 137
+   },
+   {
+    "id": "WOZIMXozARI",
+    "title": "How To Move Ahead As HVAC Tech In The Slow Season",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "19:29",
+    "views_tab": 114
+   },
+   {
+    "id": "TZg8pTglzr8",
+    "title": "In-Person Meetup And New Community Features",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 27
+   },
+   {
+    "id": "jgLAxCJ0lYA",
+    "title": "How To Clean Your Coil Like The Pros",
+    "meta": [
+     "135",
+     "1y ago"
+    ],
+    "dur": "18:31",
+    "views_tab": 135
+   },
+   {
+    "id": "I-oncRluUlc",
+    "title": "Superheat And Subcool Explained",
+    "meta": [
+     "164",
+     "1y ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 164
+   },
+   {
+    "id": "yiJe899gUnw",
+    "title": "Don't Trash Talk Yourself As A New HVAC Tech",
+    "meta": [
+     "63",
+     "1y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 63
+   },
+   {
+    "id": "MlGU-251fOY",
+    "title": "Keep Your Diagnosis Simple",
+    "meta": [
+     "112",
+     "1y ago"
+    ],
+    "dur": "18:06",
+    "views_tab": 112
+   },
+   {
+    "id": "QnVG8Z6Tj6w",
+    "title": "How To Clean Your AC Coils Like The Pros | Step By Step Tutorial",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "GQQ2n1JV9kE",
+    "title": "HVAC Troubleshooting And Sequence Of Operation",
+    "meta": [
+     "244",
+     "1y ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 244
+   },
+   {
+    "id": "d3-TK7mj9Cs",
+    "title": "Carrier RTU No Heat Fix: Overcoming BAS Failures With Relay Installation",
+    "meta": [
+     "246",
+     "1y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 246
+   },
+   {
+    "id": "vOkg4QfV1Js",
+    "title": "Love Hate Relationship With HVAC Equipment",
+    "meta": [
+     "39",
+     "1y ago"
+    ],
+    "dur": "18:04",
+    "views_tab": 39
+   },
+   {
+    "id": "3a6_3lldjaA",
+    "title": "Heating Calls, Refrigeration, And Controls",
+    "meta": [
+     "55",
+     "1y ago"
+    ],
+    "dur": "18:01",
+    "views_tab": 55
+   },
+   {
+    "id": "AB5jZyiarNc",
+    "title": "Capacitors, Duct Detectors, And Wiring Problems",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "16:56",
+    "views_tab": 50
+   },
+   {
+    "id": "P3Z2OR8qvSY",
+    "title": "Coil Cleaning 101 Step 4 - Rinse",
+    "meta": [
+     "444",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 444
+   },
+   {
+    "id": "n-iRUgpL2sE",
+    "title": "EPA Certification, The New Year And Refrigeration",
+    "meta": [
+     "35",
+     "1y ago"
+    ],
+    "dur": "23:28",
+    "views_tab": 35
+   },
+   {
+    "id": "xl3FRnH0K3E",
+    "title": "How To Get Promoted As An HVAC Tech",
+    "meta": [
+     "40",
+     "1y ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 40
+   },
+   {
+    "id": "Ky772n5stUg",
+    "title": "Overcoming Fear Of Unknown Equipment",
+    "meta": [
+     "57",
+     "1y ago"
+    ],
+    "dur": "20:58",
+    "views_tab": 57
+   },
+   {
+    "id": "OxuUuRrdjRI",
+    "title": "How To Deal With Mistakes As An HVAC Tech",
+    "meta": [
+     "25",
+     "1y ago"
+    ],
+    "dur": "19:24",
+    "views_tab": 25
+   },
+   {
+    "id": "qBQ8MA_OuwY",
+    "title": "Captive Aire Exhaust Fan Motor Replacement",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "hSyDV7_mmbs",
+    "title": "Unlock Your Membership Value",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "35:14",
+    "views_tab": 24
+   },
+   {
+    "id": "s_vbYEd9ajI",
+    "title": "How To Diagnose Open LPS",
+    "meta": [
+     "127",
+     "1y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 127
+   },
+   {
+    "id": "f8gpRPm60eY",
+    "title": "A2L And Note Taking Efficiency Hack",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 114
+   },
+   {
+    "id": "UDVwF2SBALY",
+    "title": "Low Voltage Troubleshooting, Gas Heaters, And More",
+    "meta": [
+     "29",
+     "1y ago"
+    ],
+    "dur": "18:21",
+    "views_tab": 29
+   },
+   {
+    "id": "a11iKuv7dHI",
+    "title": "Defrosting Frozen Evap Coils",
+    "meta": [
+     "383",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 383
+   },
+   {
+    "id": "CJ4-wU-HEpU",
+    "title": "How To Replace A Contactor",
+    "meta": [
+     "41",
+     "1y ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 41
+   },
+   {
+    "id": "qW9cax5y4tg",
+    "title": "Air Conditioner Explained Simple",
+    "meta": [
+     "226",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 226
+   },
+   {
+    "id": "PeOo9qWNWWI",
+    "title": "Gas Furnace Operation And Service",
+    "meta": [
+     "17",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 17
+   },
+   {
+    "id": "dfqB-Fd63tg",
+    "title": "How Does An Air Conditioner Work",
+    "meta": [
+     "361",
+     "1y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 361
+   },
+   {
+    "id": "awO0s9Vl9go",
+    "title": "New Installs And Heating",
+    "meta": [
+     "38",
+     "1y ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 38
+   },
+   {
+    "id": "7s85qTYCtqg",
+    "title": "Gas Furnace Operation And Parts Explained",
+    "meta": [
+     "146",
+     "1y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 146
+   },
+   {
+    "id": "0MlNdq5YW2c",
+    "title": "How To Replace Your AC Compressor Step-By-Step Tutorial",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 4600
+   },
+   {
+    "id": "RlHIj829-RY",
+    "title": "How To Do Fall PMs",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 30
+   },
+   {
+    "id": "fSpv0mlPsqw",
+    "title": "How To Handle Tripped Breakers And Blown Fuses",
+    "meta": [
+     "13",
+     "2y ago"
+    ],
+    "dur": "15:51",
+    "views_tab": 13
+   },
+   {
+    "id": "KOZtTcZ-xB8",
+    "title": "Troubleshooting blown fuses and tripped breakers",
+    "meta": [
+     "20",
+     "2y ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 20
+   },
+   {
+    "id": "BkpPucKAIqs",
+    "title": "What Is A Contactor And How Does It Work",
+    "meta": [
+     "224",
+     "2y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 224
+   },
+   {
+    "id": "i6JbkxfnK0s",
+    "title": "Drive To Work Wednesday - Electrical Problems - 8/14/24",
+    "meta": [
+     "14",
+     "2y ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 14
+   },
+   {
+    "id": "mf9oY3JCqp0",
+    "title": "How To Remove Stuck Blower Wheel",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 1800
+   },
+   {
+    "id": "_DC3gwj_hl8",
+    "title": "Troubleshoot \u201cNo Cool\u201d Call With Me",
+    "meta": [
+     "512",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 512
+   },
+   {
+    "id": "6zkgRm6l0Mw",
+    "title": "Weekly Live Call - Covering The Basics",
+    "meta": [
+     "10",
+     "2y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 10
+   },
+   {
+    "id": "bnG4tq35YXk",
+    "title": "Weekly Call - How We Developed The Courses",
+    "meta": [
+     "11",
+     "2y ago"
+    ],
+    "dur": "20:13",
+    "views_tab": 11
+   },
+   {
+    "id": "1AilBQAW_D0",
+    "title": "Electrical Wiring Diagrams Dotted Line Vs Solid Line",
+    "meta": [
+     "137",
+     "2y ago"
+    ],
+    "dur": "0:29",
+    "views_tab": 137
+   },
+   {
+    "id": "Moz0prssDDs",
+    "title": "Different Electrical Wiring Diagrams In HVAC",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 56
+   },
+   {
+    "id": "-r9Garmnxio",
+    "title": "How To Relate Wiring Diagrams To The Unit",
+    "meta": [
+     "237",
+     "2y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 237
+   },
+   {
+    "id": "yiNDA4PN02k",
+    "title": "Relating Wiring Diagrams To The Unit",
+    "meta": [
+     "211",
+     "2y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 211
+   },
+   {
+    "id": "uBOYfpcvCmA",
+    "title": "Talk To The Customer",
+    "meta": [
+     "23",
+     "2y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 23
+   },
+   {
+    "id": "G8Nj4TCuGYI",
+    "title": "Read The Job Description",
+    "meta": [
+     "32",
+     "2y ago"
+    ],
+    "dur": "0:59",
+    "views_tab": 32
+   },
+   {
+    "id": "FU2AIlUxePo",
+    "title": "How To Change Your AC Filters",
+    "meta": [
+     "41",
+     "2y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 41
+   },
+   {
+    "id": "ni4aP_fssdw",
+    "title": "What Is An HVAC Filter Drier 101",
+    "meta": [
+     "123",
+     "2y ago"
+    ],
+    "dur": "0:47",
+    "views_tab": 123
+   },
+   {
+    "id": "y0N0DBEB7ws",
+    "title": "This causes your transformer to blow",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 4200
+   }
+  ],
+  "Popular": [
+   {
+    "id": "gfD1l4lOEQs",
+    "title": "This Is How I Troubleshoot with Confidence After 16 Years in HVAC",
+    "meta": [
+     "141K",
+     "3mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 141000
+   },
+   {
+    "id": "T7Nklk8I1OM",
+    "title": "I Misdiagnosed Dozens of Motors Before Learning This",
+    "meta": [
+     "59K",
+     "2mo ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 59000
+   },
+   {
+    "id": "riLAE8Bdwks",
+    "title": "Stop Guessing! Here's How to Actually Find a Refrigerant Leak",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 24000
+   },
+   {
+    "id": "q88rhMPW01Q",
+    "title": "I Avoided HVAC Wiring Diagrams For Two Years When Starting Out",
+    "meta": [
+     "20K",
+     "2mo ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 20000
+   },
+   {
+    "id": "qBQ8MA_OuwY",
+    "title": "Captive Aire Exhaust Fan Motor Replacement",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "QnVG8Z6Tj6w",
+    "title": "How To Clean Your AC Coils Like The Pros | Step By Step Tutorial",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "SIEf3yBSQV4",
+    "title": "Starting Out I had to Gauge Up on Every System. Now I Do This Instead",
+    "meta": [
+     "4.7K",
+     "1mo ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 4700
+   },
+   {
+    "id": "0MlNdq5YW2c",
+    "title": "How To Replace Your AC Compressor Step-By-Step Tutorial",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 4600
+   },
+   {
+    "id": "y0N0DBEB7ws",
+    "title": "This causes your transformer to blow",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 4200
+   },
+   {
+    "id": "oEMIjAE0-cM",
+    "title": "I Rushed Too Many Ice Machine Calls Before Learning This",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 2600
+   },
+   {
+    "id": "mf9oY3JCqp0",
+    "title": "How To Remove Stuck Blower Wheel",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 1800
+   },
+   {
+    "id": "JMBxN8YN1HU",
+    "title": "How I replace exhaust fan motors after 16 years in HVAC",
+    "meta": [
+     "1.4K",
+     "2w ago"
+    ],
+    "dur": "40:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "0PmVEHB6ySI",
+    "title": "Before Knowing My HVAC Sequence of Operation I Couldn't Troubleshoot with Confidence",
+    "meta": [
+     "1.3K",
+     "4w ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 1300
+   },
+   {
+    "id": "LSFM35FBJAw",
+    "title": "How to Read HVAC Wiring Diagrams in the Field (Real Unit Schematic Walk-Through)",
+    "meta": [
+     "1.2K",
+     "10mo ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 1200
+   },
+   {
+    "id": "lSHYnKPXZ-k",
+    "title": "This Is How I Teach Diagrams After 16 Years In HVAC",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1100
+   },
+   {
+    "id": "QeIxC-jaqh8",
+    "title": "Breaking Down HVAC Wiring Diagrams So You Can Actually Understand Them",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "KpOsOC5cmk4",
+    "title": "HVAC Electrical Troubleshooting Basics",
+    "meta": [
+     "865",
+     "1y ago"
+    ],
+    "dur": "43:47",
+    "views_tab": 865
+   },
+   {
+    "id": "AwWRsZze_24",
+    "title": "How To Ohm Out A Three-Phase Compressor",
+    "meta": [
+     "762",
+     "3mo ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 762
+   },
+   {
+    "id": "KIPH6pbm0XA",
+    "title": "The Fastest Way to Find Your AC Unit",
+    "meta": [
+     "635",
+     "3mo ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 635
+   },
+   {
+    "id": "JFCwBJJQUoY",
+    "title": "Day in the life of a 37 year old HVAC tech in under 5 minutes",
+    "meta": [
+     "549",
+     "11mo ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 549
+   },
+   {
+    "id": "J1YsORpfHSM",
+    "title": "How To Learn HVAC As A New Tech Without Getting Overwhelmed",
+    "meta": [
+     "518",
+     "1y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 518
+   },
+   {
+    "id": "_DC3gwj_hl8",
+    "title": "Troubleshoot \u201cNo Cool\u201d Call With Me",
+    "meta": [
+     "512",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 512
+   },
+   {
+    "id": "ofk0-OUego4",
+    "title": "Repairing Air Conditioner That Hasn't Worked for Months",
+    "meta": [
+     "482",
+     "1y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 482
+   },
+   {
+    "id": "P3Z2OR8qvSY",
+    "title": "Coil Cleaning 101 Step 4 - Rinse",
+    "meta": [
+     "444",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 444
+   },
+   {
+    "id": "xjAp00H_cZs",
+    "title": "Condenser Fan Motor Troubleshooting",
+    "meta": [
+     "424",
+     "10mo ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 424
+   },
+   {
+    "id": "xYeEjLDiCz4",
+    "title": "AC Not Working In The Texas Summer Heat",
+    "meta": [
+     "423",
+     "1y ago"
+    ],
+    "dur": "33:19",
+    "views_tab": 423
+   },
+   {
+    "id": "a11iKuv7dHI",
+    "title": "Defrosting Frozen Evap Coils",
+    "meta": [
+     "383",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 383
+   },
+   {
+    "id": "dfqB-Fd63tg",
+    "title": "How Does An Air Conditioner Work",
+    "meta": [
+     "361",
+     "1y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 361
+   },
+   {
+    "id": "iOqIkj8ZdvE",
+    "title": "I hate these calls where you can't find anything wrong!",
+    "meta": [
+     "281",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 281
+   },
+   {
+    "id": "d3-TK7mj9Cs",
+    "title": "Carrier RTU No Heat Fix: Overcoming BAS Failures With Relay Installation",
+    "meta": [
+     "246",
+     "1y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 246
+   },
+   {
+    "id": "GQQ2n1JV9kE",
+    "title": "HVAC Troubleshooting And Sequence Of Operation",
+    "meta": [
+     "244",
+     "1y ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 244
+   },
+   {
+    "id": "-r9Garmnxio",
+    "title": "How To Relate Wiring Diagrams To The Unit",
+    "meta": [
+     "237",
+     "2y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 237
+   },
+   {
+    "id": "NqZgAnLfBkU",
+    "title": "How To Leak Search Successfully And Find Leaks",
+    "meta": [
+     "227",
+     "3mo ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 227
+   },
+   {
+    "id": "1zzVWDDhrZE",
+    "title": "Gas Furnace Sequence of Operation in Under 3 Minutes from a 16-Year HVAC Tech",
+    "meta": [
+     "227",
+     "18h ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 227
+   },
+   {
+    "id": "qW9cax5y4tg",
+    "title": "Air Conditioner Explained Simple",
+    "meta": [
+     "226",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 226
+   },
+   {
+    "id": "BkpPucKAIqs",
+    "title": "What Is A Contactor And How Does It Work",
+    "meta": [
+     "224",
+     "2y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 224
+   },
+   {
+    "id": "yiNDA4PN02k",
+    "title": "Relating Wiring Diagrams To The Unit",
+    "meta": [
+     "211",
+     "2y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 211
+   },
+   {
+    "id": "I-oncRluUlc",
+    "title": "Superheat And Subcool Explained",
+    "meta": [
+     "164",
+     "1y ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 164
+   },
+   {
+    "id": "7s85qTYCtqg",
+    "title": "Gas Furnace Operation And Parts Explained",
+    "meta": [
+     "146",
+     "1y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 146
+   },
+   {
+    "id": "STXitZ-n63A",
+    "title": "How To Stay Busy In The Slow Season",
+    "meta": [
+     "137",
+     "1y ago"
+    ],
+    "dur": "20:56",
+    "views_tab": 137
+   },
+   {
+    "id": "1AilBQAW_D0",
+    "title": "Electrical Wiring Diagrams Dotted Line Vs Solid Line",
+    "meta": [
+     "137",
+     "2y ago"
+    ],
+    "dur": "0:29",
+    "views_tab": 137
+   },
+   {
+    "id": "jgLAxCJ0lYA",
+    "title": "How To Clean Your Coil Like The Pros",
+    "meta": [
+     "135",
+     "1y ago"
+    ],
+    "dur": "18:31",
+    "views_tab": 135
+   },
+   {
+    "id": "s_vbYEd9ajI",
+    "title": "How To Diagnose Open LPS",
+    "meta": [
+     "127",
+     "1y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 127
+   },
+   {
+    "id": "ni4aP_fssdw",
+    "title": "What Is An HVAC Filter Drier 101",
+    "meta": [
+     "123",
+     "2y ago"
+    ],
+    "dur": "0:47",
+    "views_tab": 123
+   },
+   {
+    "id": "hUkMkfT2Dm0",
+    "title": "Should I Go To Trade School For HVAC",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "22:08",
+    "views_tab": 123
+   },
+   {
+    "id": "_L3LxGpiYC4",
+    "title": "Should You Stay Or Should You Go",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "20:40",
+    "views_tab": 123
+   },
+   {
+    "id": "f8gpRPm60eY",
+    "title": "A2L And Note Taking Efficiency Hack",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 114
+   },
+   {
+    "id": "WOZIMXozARI",
+    "title": "How To Move Ahead As HVAC Tech In The Slow Season",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "19:29",
+    "views_tab": 114
+   },
+   {
+    "id": "MlGU-251fOY",
+    "title": "Keep Your Diagnosis Simple",
+    "meta": [
+     "112",
+     "1y ago"
+    ],
+    "dur": "18:06",
+    "views_tab": 112
+   },
+   {
+    "id": "yiJe899gUnw",
+    "title": "Don't Trash Talk Yourself As A New HVAC Tech",
+    "meta": [
+     "63",
+     "1y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 63
+   },
+   {
+    "id": "Ky772n5stUg",
+    "title": "Overcoming Fear Of Unknown Equipment",
+    "meta": [
+     "57",
+     "1y ago"
+    ],
+    "dur": "20:58",
+    "views_tab": 57
+   },
+   {
+    "id": "Moz0prssDDs",
+    "title": "Different Electrical Wiring Diagrams In HVAC",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 56
+   },
+   {
+    "id": "3a6_3lldjaA",
+    "title": "Heating Calls, Refrigeration, And Controls",
+    "meta": [
+     "55",
+     "1y ago"
+    ],
+    "dur": "18:01",
+    "views_tab": 55
+   },
+   {
+    "id": "AB5jZyiarNc",
+    "title": "Capacitors, Duct Detectors, And Wiring Problems",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "16:56",
+    "views_tab": 50
+   },
+   {
+    "id": "FU2AIlUxePo",
+    "title": "How To Change Your AC Filters",
+    "meta": [
+     "41",
+     "2y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 41
+   },
+   {
+    "id": "CJ4-wU-HEpU",
+    "title": "How To Replace A Contactor",
+    "meta": [
+     "41",
+     "1y ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 41
+   },
+   {
+    "id": "xl3FRnH0K3E",
+    "title": "How To Get Promoted As An HVAC Tech",
+    "meta": [
+     "40",
+     "1y ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 40
+   },
+   {
+    "id": "vOkg4QfV1Js",
+    "title": "Love Hate Relationship With HVAC Equipment",
+    "meta": [
+     "39",
+     "1y ago"
+    ],
+    "dur": "18:04",
+    "views_tab": 39
+   },
+   {
+    "id": "awO0s9Vl9go",
+    "title": "New Installs And Heating",
+    "meta": [
+     "38",
+     "1y ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 38
+   },
+   {
+    "id": "n-iRUgpL2sE",
+    "title": "EPA Certification, The New Year And Refrigeration",
+    "meta": [
+     "35",
+     "1y ago"
+    ],
+    "dur": "23:28",
+    "views_tab": 35
+   },
+   {
+    "id": "G8Nj4TCuGYI",
+    "title": "Read The Job Description",
+    "meta": [
+     "32",
+     "2y ago"
+    ],
+    "dur": "0:59",
+    "views_tab": 32
+   },
+   {
+    "id": "RlHIj829-RY",
+    "title": "How To Do Fall PMs",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 30
+   },
+   {
+    "id": "UDVwF2SBALY",
+    "title": "Low Voltage Troubleshooting, Gas Heaters, And More",
+    "meta": [
+     "29",
+     "1y ago"
+    ],
+    "dur": "18:21",
+    "views_tab": 29
+   },
+   {
+    "id": "TZg8pTglzr8",
+    "title": "In-Person Meetup And New Community Features",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 27
+   },
+   {
+    "id": "OxuUuRrdjRI",
+    "title": "How To Deal With Mistakes As An HVAC Tech",
+    "meta": [
+     "25",
+     "1y ago"
+    ],
+    "dur": "19:24",
+    "views_tab": 25
+   },
+   {
+    "id": "hSyDV7_mmbs",
+    "title": "Unlock Your Membership Value",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "35:14",
+    "views_tab": 24
+   },
+   {
+    "id": "uBOYfpcvCmA",
+    "title": "Talk To The Customer",
+    "meta": [
+     "23",
+     "2y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 23
+   },
+   {
+    "id": "KOZtTcZ-xB8",
+    "title": "Troubleshooting blown fuses and tripped breakers",
+    "meta": [
+     "20",
+     "2y ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 20
+   },
+   {
+    "id": "PeOo9qWNWWI",
+    "title": "Gas Furnace Operation And Service",
+    "meta": [
+     "17",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 17
+   },
+   {
+    "id": "i6JbkxfnK0s",
+    "title": "Drive To Work Wednesday - Electrical Problems - 8/14/24",
+    "meta": [
+     "14",
+     "2y ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 14
+   },
+   {
+    "id": "fSpv0mlPsqw",
+    "title": "How To Handle Tripped Breakers And Blown Fuses",
+    "meta": [
+     "13",
+     "2y ago"
+    ],
+    "dur": "15:51",
+    "views_tab": 13
+   },
+   {
+    "id": "bnG4tq35YXk",
+    "title": "Weekly Call - How We Developed The Courses",
+    "meta": [
+     "11",
+     "2y ago"
+    ],
+    "dur": "20:13",
+    "views_tab": 11
+   },
+   {
+    "id": "6zkgRm6l0Mw",
+    "title": "Weekly Live Call - Covering The Basics",
+    "meta": [
+     "10",
+     "2y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 10
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "y0N0DBEB7ws",
+    "title": "This causes your transformer to blow",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 4200
+   },
+   {
+    "id": "ni4aP_fssdw",
+    "title": "What Is An HVAC Filter Drier 101",
+    "meta": [
+     "123",
+     "2y ago"
+    ],
+    "dur": "0:47",
+    "views_tab": 123
+   },
+   {
+    "id": "FU2AIlUxePo",
+    "title": "How To Change Your AC Filters",
+    "meta": [
+     "41",
+     "2y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 41
+   },
+   {
+    "id": "G8Nj4TCuGYI",
+    "title": "Read The Job Description",
+    "meta": [
+     "32",
+     "2y ago"
+    ],
+    "dur": "0:59",
+    "views_tab": 32
+   },
+   {
+    "id": "uBOYfpcvCmA",
+    "title": "Talk To The Customer",
+    "meta": [
+     "23",
+     "2y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 23
+   },
+   {
+    "id": "yiNDA4PN02k",
+    "title": "Relating Wiring Diagrams To The Unit",
+    "meta": [
+     "211",
+     "2y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 211
+   },
+   {
+    "id": "-r9Garmnxio",
+    "title": "How To Relate Wiring Diagrams To The Unit",
+    "meta": [
+     "237",
+     "2y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 237
+   },
+   {
+    "id": "Moz0prssDDs",
+    "title": "Different Electrical Wiring Diagrams In HVAC",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 56
+   },
+   {
+    "id": "1AilBQAW_D0",
+    "title": "Electrical Wiring Diagrams Dotted Line Vs Solid Line",
+    "meta": [
+     "137",
+     "2y ago"
+    ],
+    "dur": "0:29",
+    "views_tab": 137
+   },
+   {
+    "id": "bnG4tq35YXk",
+    "title": "Weekly Call - How We Developed The Courses",
+    "meta": [
+     "11",
+     "2y ago"
+    ],
+    "dur": "20:13",
+    "views_tab": 11
+   },
+   {
+    "id": "6zkgRm6l0Mw",
+    "title": "Weekly Live Call - Covering The Basics",
+    "meta": [
+     "10",
+     "2y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 10
+   },
+   {
+    "id": "_DC3gwj_hl8",
+    "title": "Troubleshoot \u201cNo Cool\u201d Call With Me",
+    "meta": [
+     "512",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 512
+   },
+   {
+    "id": "mf9oY3JCqp0",
+    "title": "How To Remove Stuck Blower Wheel",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 1800
+   },
+   {
+    "id": "i6JbkxfnK0s",
+    "title": "Drive To Work Wednesday - Electrical Problems - 8/14/24",
+    "meta": [
+     "14",
+     "2y ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 14
+   },
+   {
+    "id": "BkpPucKAIqs",
+    "title": "What Is A Contactor And How Does It Work",
+    "meta": [
+     "224",
+     "2y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 224
+   },
+   {
+    "id": "KOZtTcZ-xB8",
+    "title": "Troubleshooting blown fuses and tripped breakers",
+    "meta": [
+     "20",
+     "2y ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 20
+   },
+   {
+    "id": "fSpv0mlPsqw",
+    "title": "How To Handle Tripped Breakers And Blown Fuses",
+    "meta": [
+     "13",
+     "2y ago"
+    ],
+    "dur": "15:51",
+    "views_tab": 13
+   },
+   {
+    "id": "RlHIj829-RY",
+    "title": "How To Do Fall PMs",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 30
+   },
+   {
+    "id": "0MlNdq5YW2c",
+    "title": "How To Replace Your AC Compressor Step-By-Step Tutorial",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 4600
+   },
+   {
+    "id": "7s85qTYCtqg",
+    "title": "Gas Furnace Operation And Parts Explained",
+    "meta": [
+     "146",
+     "1y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 146
+   },
+   {
+    "id": "awO0s9Vl9go",
+    "title": "New Installs And Heating",
+    "meta": [
+     "38",
+     "1y ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 38
+   },
+   {
+    "id": "dfqB-Fd63tg",
+    "title": "How Does An Air Conditioner Work",
+    "meta": [
+     "361",
+     "1y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 361
+   },
+   {
+    "id": "PeOo9qWNWWI",
+    "title": "Gas Furnace Operation And Service",
+    "meta": [
+     "17",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 17
+   },
+   {
+    "id": "qW9cax5y4tg",
+    "title": "Air Conditioner Explained Simple",
+    "meta": [
+     "226",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 226
+   },
+   {
+    "id": "CJ4-wU-HEpU",
+    "title": "How To Replace A Contactor",
+    "meta": [
+     "41",
+     "1y ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 41
+   },
+   {
+    "id": "a11iKuv7dHI",
+    "title": "Defrosting Frozen Evap Coils",
+    "meta": [
+     "383",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 383
+   },
+   {
+    "id": "UDVwF2SBALY",
+    "title": "Low Voltage Troubleshooting, Gas Heaters, And More",
+    "meta": [
+     "29",
+     "1y ago"
+    ],
+    "dur": "18:21",
+    "views_tab": 29
+   },
+   {
+    "id": "f8gpRPm60eY",
+    "title": "A2L And Note Taking Efficiency Hack",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 114
+   },
+   {
+    "id": "s_vbYEd9ajI",
+    "title": "How To Diagnose Open LPS",
+    "meta": [
+     "127",
+     "1y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 127
+   },
+   {
+    "id": "hSyDV7_mmbs",
+    "title": "Unlock Your Membership Value",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "35:14",
+    "views_tab": 24
+   },
+   {
+    "id": "qBQ8MA_OuwY",
+    "title": "Captive Aire Exhaust Fan Motor Replacement",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "OxuUuRrdjRI",
+    "title": "How To Deal With Mistakes As An HVAC Tech",
+    "meta": [
+     "25",
+     "1y ago"
+    ],
+    "dur": "19:24",
+    "views_tab": 25
+   },
+   {
+    "id": "Ky772n5stUg",
+    "title": "Overcoming Fear Of Unknown Equipment",
+    "meta": [
+     "57",
+     "1y ago"
+    ],
+    "dur": "20:58",
+    "views_tab": 57
+   },
+   {
+    "id": "xl3FRnH0K3E",
+    "title": "How To Get Promoted As An HVAC Tech",
+    "meta": [
+     "40",
+     "1y ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 40
+   },
+   {
+    "id": "n-iRUgpL2sE",
+    "title": "EPA Certification, The New Year And Refrigeration",
+    "meta": [
+     "35",
+     "1y ago"
+    ],
+    "dur": "23:28",
+    "views_tab": 35
+   },
+   {
+    "id": "P3Z2OR8qvSY",
+    "title": "Coil Cleaning 101 Step 4 - Rinse",
+    "meta": [
+     "444",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 444
+   },
+   {
+    "id": "AB5jZyiarNc",
+    "title": "Capacitors, Duct Detectors, And Wiring Problems",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "16:56",
+    "views_tab": 50
+   },
+   {
+    "id": "3a6_3lldjaA",
+    "title": "Heating Calls, Refrigeration, And Controls",
+    "meta": [
+     "55",
+     "1y ago"
+    ],
+    "dur": "18:01",
+    "views_tab": 55
+   },
+   {
+    "id": "vOkg4QfV1Js",
+    "title": "Love Hate Relationship With HVAC Equipment",
+    "meta": [
+     "39",
+     "1y ago"
+    ],
+    "dur": "18:04",
+    "views_tab": 39
+   },
+   {
+    "id": "d3-TK7mj9Cs",
+    "title": "Carrier RTU No Heat Fix: Overcoming BAS Failures With Relay Installation",
+    "meta": [
+     "246",
+     "1y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 246
+   },
+   {
+    "id": "GQQ2n1JV9kE",
+    "title": "HVAC Troubleshooting And Sequence Of Operation",
+    "meta": [
+     "244",
+     "1y ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 244
+   },
+   {
+    "id": "QnVG8Z6Tj6w",
+    "title": "How To Clean Your AC Coils Like The Pros | Step By Step Tutorial",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "MlGU-251fOY",
+    "title": "Keep Your Diagnosis Simple",
+    "meta": [
+     "112",
+     "1y ago"
+    ],
+    "dur": "18:06",
+    "views_tab": 112
+   },
+   {
+    "id": "yiJe899gUnw",
+    "title": "Don't Trash Talk Yourself As A New HVAC Tech",
+    "meta": [
+     "63",
+     "1y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 63
+   },
+   {
+    "id": "I-oncRluUlc",
+    "title": "Superheat And Subcool Explained",
+    "meta": [
+     "164",
+     "1y ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 164
+   },
+   {
+    "id": "jgLAxCJ0lYA",
+    "title": "How To Clean Your Coil Like The Pros",
+    "meta": [
+     "135",
+     "1y ago"
+    ],
+    "dur": "18:31",
+    "views_tab": 135
+   },
+   {
+    "id": "TZg8pTglzr8",
+    "title": "In-Person Meetup And New Community Features",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 27
+   },
+   {
+    "id": "WOZIMXozARI",
+    "title": "How To Move Ahead As HVAC Tech In The Slow Season",
+    "meta": [
+     "114",
+     "1y ago"
+    ],
+    "dur": "19:29",
+    "views_tab": 114
+   },
+   {
+    "id": "STXitZ-n63A",
+    "title": "How To Stay Busy In The Slow Season",
+    "meta": [
+     "137",
+     "1y ago"
+    ],
+    "dur": "20:56",
+    "views_tab": 137
+   },
+   {
+    "id": "_L3LxGpiYC4",
+    "title": "Should You Stay Or Should You Go",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "20:40",
+    "views_tab": 123
+   },
+   {
+    "id": "J1YsORpfHSM",
+    "title": "How To Learn HVAC As A New Tech Without Getting Overwhelmed",
+    "meta": [
+     "518",
+     "1y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 518
+   },
+   {
+    "id": "hUkMkfT2Dm0",
+    "title": "Should I Go To Trade School For HVAC",
+    "meta": [
+     "123",
+     "1y ago"
+    ],
+    "dur": "22:08",
+    "views_tab": 123
+   },
+   {
+    "id": "KpOsOC5cmk4",
+    "title": "HVAC Electrical Troubleshooting Basics",
+    "meta": [
+     "865",
+     "1y ago"
+    ],
+    "dur": "43:47",
+    "views_tab": 865
+   },
+   {
+    "id": "ofk0-OUego4",
+    "title": "Repairing Air Conditioner That Hasn't Worked for Months",
+    "meta": [
+     "482",
+     "1y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 482
+   },
+   {
+    "id": "xYeEjLDiCz4",
+    "title": "AC Not Working In The Texas Summer Heat",
+    "meta": [
+     "423",
+     "1y ago"
+    ],
+    "dur": "33:19",
+    "views_tab": 423
+   },
+   {
+    "id": "iOqIkj8ZdvE",
+    "title": "I hate these calls where you can't find anything wrong!",
+    "meta": [
+     "281",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 281
+   },
+   {
+    "id": "JFCwBJJQUoY",
+    "title": "Day in the life of a 37 year old HVAC tech in under 5 minutes",
+    "meta": [
+     "549",
+     "11mo ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 549
+   },
+   {
+    "id": "xjAp00H_cZs",
+    "title": "Condenser Fan Motor Troubleshooting",
+    "meta": [
+     "424",
+     "10mo ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 424
+   },
+   {
+    "id": "LSFM35FBJAw",
+    "title": "How to Read HVAC Wiring Diagrams in the Field (Real Unit Schematic Walk-Through)",
+    "meta": [
+     "1.2K",
+     "10mo ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 1200
+   },
+   {
+    "id": "NqZgAnLfBkU",
+    "title": "How To Leak Search Successfully And Find Leaks",
+    "meta": [
+     "227",
+     "3mo ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 227
+   },
+   {
+    "id": "AwWRsZze_24",
+    "title": "How To Ohm Out A Three-Phase Compressor",
+    "meta": [
+     "762",
+     "3mo ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 762
+   },
+   {
+    "id": "KIPH6pbm0XA",
+    "title": "The Fastest Way to Find Your AC Unit",
+    "meta": [
+     "635",
+     "3mo ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 635
+   },
+   {
+    "id": "riLAE8Bdwks",
+    "title": "Stop Guessing! Here's How to Actually Find a Refrigerant Leak",
+    "meta": [
+     "24K",
+     "3mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 24000
+   },
+   {
+    "id": "gfD1l4lOEQs",
+    "title": "This Is How I Troubleshoot with Confidence After 16 Years in HVAC",
+    "meta": [
+     "141K",
+     "3mo ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 141000
+   },
+   {
+    "id": "T7Nklk8I1OM",
+    "title": "I Misdiagnosed Dozens of Motors Before Learning This",
+    "meta": [
+     "59K",
+     "2mo ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 59000
+   },
+   {
+    "id": "QeIxC-jaqh8",
+    "title": "Breaking Down HVAC Wiring Diagrams So You Can Actually Understand Them",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "oEMIjAE0-cM",
+    "title": "I Rushed Too Many Ice Machine Calls Before Learning This",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 2600
+   },
+   {
+    "id": "q88rhMPW01Q",
+    "title": "I Avoided HVAC Wiring Diagrams For Two Years When Starting Out",
+    "meta": [
+     "20K",
+     "2mo ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 20000
+   },
+   {
+    "id": "lSHYnKPXZ-k",
+    "title": "This Is How I Teach Diagrams After 16 Years In HVAC",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1100
+   },
+   {
+    "id": "SIEf3yBSQV4",
+    "title": "Starting Out I had to Gauge Up on Every System. Now I Do This Instead",
+    "meta": [
+     "4.7K",
+     "1mo ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 4700
+   },
+   {
+    "id": "0PmVEHB6ySI",
+    "title": "Before Knowing My HVAC Sequence of Operation I Couldn't Troubleshoot with Confidence",
+    "meta": [
+     "1.3K",
+     "4w ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 1300
+   },
+   {
+    "id": "JMBxN8YN1HU",
+    "title": "How I replace exhaust fan motors after 16 years in HVAC",
+    "meta": [
+     "1.4K",
+     "2w ago"
+    ],
+    "dur": "40:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "1zzVWDDhrZE",
+    "title": "Gas Furnace Sequence of Operation in Under 3 Minutes from a 16-Year HVAC Tech",
+    "meta": [
+     "227",
+     "18h ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 227
+   }
+  ]
+ }
+}

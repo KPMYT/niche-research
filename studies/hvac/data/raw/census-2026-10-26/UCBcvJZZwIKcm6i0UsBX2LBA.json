@@ -1,0 +1,3925 @@
+{
+ "key": "UCBcvJZZwIKcm6i0UsBX2LBA",
+ "channel": "Boiler Room Detective",
+ "id": "UCBcvJZZwIKcm6i0UsBX2LBA",
+ "subs": "3.18K subscribers",
+ "videos": "229 videos",
+ "pulled": "2026-10-26T06:52:04.288326+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "K_77lszmowY",
+    "title": "Hydronic Boiler Heats Up Before You're Done Testing? Try This!",
+    "meta": [
+     "158",
+     "2d ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 158
+   },
+   {
+    "id": "TzbQSRgaVKo",
+    "title": "Boiler Is Hot but Building Is Cold? Here's What to Check!",
+    "meta": [
+     "451",
+     "9d ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 451
+   },
+   {
+    "id": "fMgpIX1YWR0",
+    "title": "Why we still use steam",
+    "meta": [
+     "395",
+     "2w ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 395
+   },
+   {
+    "id": "HlBFEFtk4e4",
+    "title": "The Battle for Air: Chimney vs Exhaust Fan",
+    "meta": [
+     "842",
+     "3w ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 842
+   },
+   {
+    "id": "6DvfXh26Uzo",
+    "title": "Hydronic boiler won't start? Check these 7 things first.",
+    "meta": [
+     "704",
+     "1mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 704
+   },
+   {
+    "id": "56oBYJctTEg",
+    "title": "Why your boiler keeps losing pressure",
+    "meta": [
+     "673",
+     "1mo ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 673
+   },
+   {
+    "id": "OPfLxHvX7RE",
+    "title": "Should I drain the boiler in the summer?",
+    "meta": [
+     "696",
+     "1mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 696
+   },
+   {
+    "id": "pmuMLa-roMo",
+    "title": "Should I replace the steam system with forced air?",
+    "meta": [
+     "790",
+     "1mo ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 790
+   },
+   {
+    "id": "ZjiXP8kkCRU",
+    "title": "What caused this on a boiler flue?",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 1000
+   },
+   {
+    "id": "FiOd0w0hA1M",
+    "title": "Cleaning a dirty burner blower wheel",
+    "meta": [
+     "560",
+     "2mo ago"
+    ],
+    "dur": "5:27",
+    "views_tab": 560
+   },
+   {
+    "id": "ZRPnOthFu9Q",
+    "title": "Why do boilers soot?",
+    "meta": [
+     "437",
+     "2mo ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 437
+   },
+   {
+    "id": "DjmwZp86wTo",
+    "title": "Why is the stack temperature so high?",
+    "meta": [
+     "363",
+     "2mo ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 363
+   },
+   {
+    "id": "A7jTuze1UcE",
+    "title": "Remembering Binyomin",
+    "meta": [
+     "162",
+     "2mo ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 162
+   },
+   {
+    "id": "ffxhK89KU5o",
+    "title": "What Happens When Steam Pipe Insulation Is Removed? It's Worse Than You Think",
+    "meta": [
+     "435",
+     "3mo ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 435
+   },
+   {
+    "id": "5deHfmrCJNU",
+    "title": "The Most Dangerous Thing in a Boiler Room Isn\u2019t the Boiler. It's Hearing it's Grandfathered in",
+    "meta": [
+     "326",
+     "3mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 326
+   },
+   {
+    "id": "7t9kXJEhvE0",
+    "title": "The 5 second challenge  Can you find the steam problems?",
+    "meta": [
+     "366",
+     "3mo ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 366
+   },
+   {
+    "id": "JsNy6Cnfx_o",
+    "title": "Why Carbon Monoxide Is So Dangerous",
+    "meta": [
+     "198",
+     "3mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 198
+   },
+   {
+    "id": "ieprHrOc2Uk",
+    "title": "Can Gas Train Vents Be Combined? The Dangerous Mistake Most Techs Make",
+    "meta": [
+     "198",
+     "4mo ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 198
+   },
+   {
+    "id": "IQt-9cbW5Yo",
+    "title": "The 20 second challenge: What's wrong with the boiler?",
+    "meta": [
+     "415",
+     "4mo ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 415
+   },
+   {
+    "id": "UFiI8cerjzs",
+    "title": "The Hidden Hydronic Problem NobodyChecks: Water Velocity",
+    "meta": [
+     "375",
+     "4mo ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 375
+   },
+   {
+    "id": "ujzihMilo8M",
+    "title": "The Boiler Room Hero  Scott Galto",
+    "meta": [
+     "568",
+     "4mo ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 568
+   },
+   {
+    "id": "KloCApIEsdg",
+    "title": "8 Steam rules every tech  should know",
+    "meta": [
+     "526",
+     "5mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 526
+   },
+   {
+    "id": "faJr7EOGvIE",
+    "title": "Steam Boiler Replacement: Don't Make These Expensive Mistakes",
+    "meta": [
+     "460",
+     "5mo ago"
+    ],
+    "dur": "6:46",
+    "views_tab": 460
+   },
+   {
+    "id": "UcKdGlx1MFY",
+    "title": "Why your boiler is already failing. Top 5 installation mistakes",
+    "meta": [
+     "145",
+     "5mo ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 145
+   },
+   {
+    "id": "N27uW7dAeIU",
+    "title": "Troubleshooting a Friday Afternoon Boiler Service Call Without a Diagram",
+    "meta": [
+     "301",
+     "5mo ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 301
+   },
+   {
+    "id": "nAymjF8jwIA",
+    "title": "HeatingHelp.com, my go to site for heating system answers",
+    "meta": [
+     "41",
+     "5mo ago"
+    ],
+    "dur": "0:18",
+    "views_tab": 41
+   },
+   {
+    "id": "CnQ4tz5VYSM",
+    "title": "Why is the boiler room so cold? Unintended consequences of updating boilers",
+    "meta": [
+     "295",
+     "6mo ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 295
+   },
+   {
+    "id": "snasrQVB8sA",
+    "title": "Why is the boiler moaning?",
+    "meta": [
+     "69",
+     "6mo ago"
+    ],
+    "dur": "0:27",
+    "views_tab": 69
+   },
+   {
+    "id": "lnWnTMbzhaY",
+    "title": "The case of the stuck flow switch",
+    "meta": [
+     "396",
+     "6mo ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 396
+   },
+   {
+    "id": "6lM0HYBKJow",
+    "title": "Probe Type Low Water Cutoff LWCO Maintenance",
+    "meta": [
+     "997",
+     "6mo ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 997
+   }
+  ],
+  "Latest": [
+   {
+    "id": "K_77lszmowY",
+    "title": "Hydronic Boiler Heats Up Before You're Done Testing? Try This!",
+    "meta": [
+     "158",
+     "2d ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 158
+   },
+   {
+    "id": "TzbQSRgaVKo",
+    "title": "Boiler Is Hot but Building Is Cold? Here's What to Check!",
+    "meta": [
+     "451",
+     "9d ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 451
+   },
+   {
+    "id": "fMgpIX1YWR0",
+    "title": "Why we still use steam",
+    "meta": [
+     "395",
+     "2w ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 395
+   },
+   {
+    "id": "HlBFEFtk4e4",
+    "title": "The Battle for Air: Chimney vs Exhaust Fan",
+    "meta": [
+     "842",
+     "3w ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 842
+   },
+   {
+    "id": "6DvfXh26Uzo",
+    "title": "Hydronic boiler won't start? Check these 7 things first.",
+    "meta": [
+     "705",
+     "1mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 705
+   },
+   {
+    "id": "56oBYJctTEg",
+    "title": "Why your boiler keeps losing pressure",
+    "meta": [
+     "673",
+     "1mo ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 673
+   },
+   {
+    "id": "OPfLxHvX7RE",
+    "title": "Should I drain the boiler in the summer?",
+    "meta": [
+     "698",
+     "1mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 698
+   },
+   {
+    "id": "pmuMLa-roMo",
+    "title": "Should I replace the steam system with forced air?",
+    "meta": [
+     "790",
+     "1mo ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 790
+   },
+   {
+    "id": "ZjiXP8kkCRU",
+    "title": "What caused this on a boiler flue?",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 1000
+   },
+   {
+    "id": "FiOd0w0hA1M",
+    "title": "Cleaning a dirty burner blower wheel",
+    "meta": [
+     "560",
+     "2mo ago"
+    ],
+    "dur": "5:27",
+    "views_tab": 560
+   },
+   {
+    "id": "ZRPnOthFu9Q",
+    "title": "Why do boilers soot?",
+    "meta": [
+     "437",
+     "2mo ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 437
+   },
+   {
+    "id": "DjmwZp86wTo",
+    "title": "Why is the stack temperature so high?",
+    "meta": [
+     "363",
+     "2mo ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 363
+   },
+   {
+    "id": "A7jTuze1UcE",
+    "title": "Remembering Binyomin",
+    "meta": [
+     "162",
+     "2mo ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 162
+   },
+   {
+    "id": "ffxhK89KU5o",
+    "title": "What Happens When Steam Pipe Insulation Is Removed? It's Worse Than You Think",
+    "meta": [
+     "435",
+     "3mo ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 435
+   },
+   {
+    "id": "5deHfmrCJNU",
+    "title": "The Most Dangerous Thing in a Boiler Room Isn\u2019t the Boiler. It's Hearing it's Grandfathered in",
+    "meta": [
+     "326",
+     "3mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 326
+   },
+   {
+    "id": "7t9kXJEhvE0",
+    "title": "The 5 second challenge  Can you find the steam problems?",
+    "meta": [
+     "366",
+     "3mo ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 366
+   },
+   {
+    "id": "JsNy6Cnfx_o",
+    "title": "Why Carbon Monoxide Is So Dangerous",
+    "meta": [
+     "198",
+     "3mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 198
+   },
+   {
+    "id": "ieprHrOc2Uk",
+    "title": "Can Gas Train Vents Be Combined? The Dangerous Mistake Most Techs Make",
+    "meta": [
+     "198",
+     "4mo ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 198
+   },
+   {
+    "id": "IQt-9cbW5Yo",
+    "title": "The 20 second challenge: What's wrong with the boiler?",
+    "meta": [
+     "415",
+     "4mo ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 415
+   },
+   {
+    "id": "UFiI8cerjzs",
+    "title": "The Hidden Hydronic Problem NobodyChecks: Water Velocity",
+    "meta": [
+     "375",
+     "4mo ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 375
+   },
+   {
+    "id": "ujzihMilo8M",
+    "title": "The Boiler Room Hero  Scott Galto",
+    "meta": [
+     "568",
+     "4mo ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 568
+   },
+   {
+    "id": "KloCApIEsdg",
+    "title": "8 Steam rules every tech  should know",
+    "meta": [
+     "526",
+     "5mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 526
+   },
+   {
+    "id": "faJr7EOGvIE",
+    "title": "Steam Boiler Replacement: Don't Make These Expensive Mistakes",
+    "meta": [
+     "460",
+     "5mo ago"
+    ],
+    "dur": "6:46",
+    "views_tab": 460
+   },
+   {
+    "id": "UcKdGlx1MFY",
+    "title": "Why your boiler is already failing. Top 5 installation mistakes",
+    "meta": [
+     "145",
+     "5mo ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 145
+   },
+   {
+    "id": "N27uW7dAeIU",
+    "title": "Troubleshooting a Friday Afternoon Boiler Service Call Without a Diagram",
+    "meta": [
+     "301",
+     "5mo ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 301
+   },
+   {
+    "id": "nAymjF8jwIA",
+    "title": "HeatingHelp.com, my go to site for heating system answers",
+    "meta": [
+     "41",
+     "5mo ago"
+    ],
+    "dur": "0:18",
+    "views_tab": 41
+   },
+   {
+    "id": "CnQ4tz5VYSM",
+    "title": "Why is the boiler room so cold? Unintended consequences of updating boilers",
+    "meta": [
+     "295",
+     "6mo ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 295
+   },
+   {
+    "id": "snasrQVB8sA",
+    "title": "Why is the boiler moaning?",
+    "meta": [
+     "69",
+     "6mo ago"
+    ],
+    "dur": "0:27",
+    "views_tab": 69
+   },
+   {
+    "id": "lnWnTMbzhaY",
+    "title": "The case of the stuck flow switch",
+    "meta": [
+     "396",
+     "6mo ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 396
+   },
+   {
+    "id": "6lM0HYBKJow",
+    "title": "Probe Type Low Water Cutoff LWCO Maintenance",
+    "meta": [
+     "997",
+     "6mo ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 997
+   },
+   {
+    "id": "9S1JfMw5wgE",
+    "title": "Low Water Cutoff Maintenance Float Type LWCO Teardown & Blowdown Steam Boiler Safety",
+    "meta": [
+     "540",
+     "6mo ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 540
+   },
+   {
+    "id": "80M3vuE4O4o",
+    "title": "Boiler Room Detective The Fatal Venting Error in Room 225",
+    "meta": [
+     "420",
+     "6mo ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 420
+   },
+   {
+    "id": "6gQUTAzKUSM",
+    "title": "Reusing the Old Chimney When Replacing a Boiler? Dangerous Mistake!",
+    "meta": [
+     "606",
+     "7mo ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 606
+   },
+   {
+    "id": "7oEhVRfF4GQ",
+    "title": "Boiler Room Dangers: That Smell Could Save Your Life or Warn you of  Disaster",
+    "meta": [
+     "424",
+     "7mo ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 424
+   },
+   {
+    "id": "44eR4IaQPZU",
+    "title": "Boiler Safety Upgrade: Installing a Second Pressure Control in Series",
+    "meta": [
+     "366",
+     "7mo ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 366
+   },
+   {
+    "id": "em8EoZa1WWM",
+    "title": "Boiler Gas Train Preventive Maintenance \u2013 What Most Techs Miss",
+    "meta": [
+     "349",
+     "7mo ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 349
+   },
+   {
+    "id": "gkU54RaT8dc",
+    "title": "The Steam Trap Isn\u2019t Too Small \u2014 You\u2019re Looking at the Wrong Problem!",
+    "meta": [
+     "287",
+     "8mo ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 287
+   },
+   {
+    "id": "VrjMbS5NNk4",
+    "title": "Why is a steam burn so much worse than a hot water?",
+    "meta": [
+     "436",
+     "8mo ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 436
+   },
+   {
+    "id": "8-R0LgSrD9I",
+    "title": "The Case of the Short-Cycling Boiler \u2013 Causes, Damage & Fixes",
+    "meta": [
+     "1.5K",
+     "8mo ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 1500
+   },
+   {
+    "id": "B0I6yMbx810",
+    "title": "Don't buy that actuator just yet! The 2-Wire Boiler Killer That Cost Almost $700",
+    "meta": [
+     "265",
+     "8mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 265
+   },
+   {
+    "id": "zLsN_bo_LoQ",
+    "title": "Where to REALLY Install Barometric Dampers on Multiple Boilers (Avoid These Deadly Mistakes!)",
+    "meta": [
+     "1K",
+     "9mo ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 1000
+   },
+   {
+    "id": "lpcO3Qb_k-Q",
+    "title": "That Pesky O\u2082 Molecule \u2013 How Oxygen Finds Its Way Back Into a Steam Boiler",
+    "meta": [
+     "310",
+     "9mo ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 310
+   },
+   {
+    "id": "rUYzfaGO2hI",
+    "title": "\ud83d\udd25 Why Raising Steam Boiler Pressure Is a HUGE Mistake (Costs You Money & Causes Banging!)",
+    "meta": [
+     "765",
+     "9mo ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 765
+   },
+   {
+    "id": "hVgQiLbD3JY",
+    "title": "Boiler PRVs",
+    "meta": [
+     "494",
+     "9mo ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 494
+   },
+   {
+    "id": "y2CefOf7MdQ",
+    "title": "Steam Drip Legs: The Unsung Heroes That Stop Water Hammer and Save Your Steam System!",
+    "meta": [
+     "706",
+     "9mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 706
+   },
+   {
+    "id": "7awLlcjJjX4",
+    "title": "How Steam Heating Systems Breathe Just Like You Do \u2013 The Secret to Troubleshooting",
+    "meta": [
+     "480",
+     "10mo ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 480
+   },
+   {
+    "id": "dr7sU9SrIds",
+    "title": "Why steam heat worked in morning but didnt after. Understanding air vent drop away pressure",
+    "meta": [
+     "1.1K",
+     "10mo ago"
+    ],
+    "dur": "7:25",
+    "views_tab": 1100
+   },
+   {
+    "id": "AeaIW1n2xm8",
+    "title": "What the Heck is CO Air Free (COAF) and Why Should You Care? | Boiler Room Detective \ud83d\udd0d",
+    "meta": [
+     "396",
+     "10mo ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 396
+   },
+   {
+    "id": "-CAOb94tKgM",
+    "title": "Debunking steam heating myths",
+    "meta": [
+     "285",
+     "10mo ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 285
+   },
+   {
+    "id": "9zQS6mmfBYE",
+    "title": "#1 boiler killer you're NOT testing (Low pH will destroy your boiler fast",
+    "meta": [
+     "949",
+     "11mo ago"
+    ],
+    "dur": "6:42",
+    "views_tab": 949
+   },
+   {
+    "id": "8ldTb_FbR24",
+    "title": "Unraveling Intermittent Boiler Flame Failures: The Ultimate Troubleshooting Guide for Technicians",
+    "meta": [
+     "1.6K",
+     "11mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 1600
+   },
+   {
+    "id": "KcdiTpyloPg",
+    "title": "Why is the top radiator cold?",
+    "meta": [
+     "400",
+     "11mo ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 400
+   },
+   {
+    "id": "zK1qIEril-0",
+    "title": "Why your radiators arent heating right",
+    "meta": [
+     "494",
+     "11mo ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 494
+   },
+   {
+    "id": "ZM8RopljrG0",
+    "title": "Why Your Classroom Unit Ventilator Blows Cold Air and Why Thats Normal",
+    "meta": [
+     "971",
+     "1y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 971
+   },
+   {
+    "id": "SlU7a2BU9fo",
+    "title": "The First Five Minutes in a Boiler Room Can Tell You Everything",
+    "meta": [
+     "658",
+     "1y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 658
+   },
+   {
+    "id": "hSF2iQI2dFY",
+    "title": "Top 10 Steam Heating Problems & How to Fix Them!",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 4000
+   },
+   {
+    "id": "GB6WXxVTkn4",
+    "title": "Top Ten Hydronic Issues and Fixes",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "gxCjXNUNIhw",
+    "title": "Uncovering the Dirty Truth About Sooted Boilers",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 1600
+   },
+   {
+    "id": "zrtnzRQRVSU",
+    "title": "Understanding Gas Boiler Burners: Firing Types & Turndown Ratios Explained",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "fY8AEoUXtCQ",
+    "title": "The Battle Inside Your Boiler: Air vs Steam",
+    "meta": [
+     "384",
+     "1y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 384
+   },
+   {
+    "id": "jce2WMZXAA4",
+    "title": "Why you must flush hydronic piping before installing a boiler",
+    "meta": [
+     "659",
+     "1y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 659
+   },
+   {
+    "id": "CKiqRhrraJI",
+    "title": "15 boiler room noises you should never ignore",
+    "meta": [
+     "8.4K",
+     "1y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 8400
+   },
+   {
+    "id": "nJ_Ky6mLbuE",
+    "title": "Always assume the old steam boiler was installed wrong",
+    "meta": [
+     "221",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 221
+   },
+   {
+    "id": "t1LQCqTs7ss",
+    "title": "Hydronic Boiler Scale: Causes Dangers Prevention",
+    "meta": [
+     "476",
+     "1y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 476
+   },
+   {
+    "id": "UVgUOkPqh0E",
+    "title": "How does a steam boiler work",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 2800
+   },
+   {
+    "id": "cVeVCVKhOL0",
+    "title": "The Glycol Myth Why Your Pipes Might Freeze Anyway!  Boiler Room Detective",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 1000
+   },
+   {
+    "id": "I2FHX3gY3Yo",
+    "title": "Why is my radiator cold?",
+    "meta": [
+     "703",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 703
+   },
+   {
+    "id": "f5nJV1SY1Vg",
+    "title": "Master Steam Trap Mistake",
+    "meta": [
+     "475",
+     "1y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 475
+   },
+   {
+    "id": "Rqg6tn_H4w0",
+    "title": "Firetube vs Watertube Boilers Explained: Which One Is Better for Steam Heating?",
+    "meta": [
+     "3.1K",
+     "1y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 3100
+   },
+   {
+    "id": "pEwrkd7rQSk",
+    "title": "How to Prevent 33% of all Boiler Accidents with One Simple Test",
+    "meta": [
+     "157",
+     "1y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 157
+   },
+   {
+    "id": "Y8mqDqN0ZAI",
+    "title": "Using Thermal Cameras to Find Problems - A review of the Thermal Master P2 Pro camera",
+    "meta": [
+     "222",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 222
+   },
+   {
+    "id": "3uvu_d3bst8",
+    "title": "My Boiler Relief Valve is Leaking",
+    "meta": [
+     "5.8K",
+     "1y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 5800
+   },
+   {
+    "id": "QD7zfDerg-U",
+    "title": "How Steam Traps Work: Thermostatic and F&T Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 1100
+   },
+   {
+    "id": "S3RjU3_2_OM",
+    "title": "Boiler Room Dangers - Steam Piping",
+    "meta": [
+     "283",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 283
+   },
+   {
+    "id": "BKmUoWc5pCs",
+    "title": "Why is my Hydronic Boiler short cycling?",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 3600
+   },
+   {
+    "id": "x-MCpzNkrPE",
+    "title": "My steam boiler is short cycling",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 2600
+   },
+   {
+    "id": "nPuOQe4Se4Y",
+    "title": "How to Estimate Water Volume in a Hydronic System",
+    "meta": [
+     "860",
+     "1y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 860
+   },
+   {
+    "id": "aiR6pJanydU",
+    "title": "What is boiler draft?",
+    "meta": [
+     "718",
+     "1y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 718
+   },
+   {
+    "id": "72ycC_ALCDA",
+    "title": "Are boiler rooms dangerous?",
+    "meta": [
+     "308",
+     "1y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 308
+   },
+   {
+    "id": "zAiG3XWPXnk",
+    "title": "How water velocity affects hydronic systems",
+    "meta": [
+     "489",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 489
+   },
+   {
+    "id": "mwhYlXjLCbk",
+    "title": "Boiler failure mystery solved using the pump curve",
+    "meta": [
+     "427",
+     "1y ago"
+    ],
+    "dur": "6:46",
+    "views_tab": 427
+   },
+   {
+    "id": "mSbpPwHDFwk",
+    "title": "Boiler feed mistakes & sizing",
+    "meta": [
+     "785",
+     "1y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 785
+   },
+   {
+    "id": "t8x61mJBe60",
+    "title": "Boiler flame signals",
+    "meta": [
+     "824",
+     "1y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 824
+   },
+   {
+    "id": "i9bePVMsdHM",
+    "title": "Benefits & dangers of boiler refractory",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "lLb5vQKMsdE",
+    "title": "Understanding the Combustion Process",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 1500
+   },
+   {
+    "id": "EFN5a7eE9kQ",
+    "title": "How does steam get to the radiator",
+    "meta": [
+     "718",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 718
+   },
+   {
+    "id": "vykHzOVSB24",
+    "title": "What are these things & what do they do?",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 1800
+   },
+   {
+    "id": "2dTaIwtjmLs",
+    "title": "Venting Air from a Hydronic Heating System\u2014The Easy Way!",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4500
+   },
+   {
+    "id": "GWb6ahW5QIE",
+    "title": "Why is the boiler feed tank flooding every morning",
+    "meta": [
+     "749",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 749
+   },
+   {
+    "id": "OjtIG6-nMIg",
+    "title": "What is a pigtail and what does it do",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 3700
+   },
+   {
+    "id": "Hb8Mc2LUTcc",
+    "title": "Case of discolored boiler jacket",
+    "meta": [
+     "366",
+     "1y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 366
+   },
+   {
+    "id": "Lvff5DL9EHY",
+    "title": "The frozen pipe in the warm boiler room",
+    "meta": [
+     "458",
+     "1y ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 458
+   },
+   {
+    "id": "-xvuaDkxVaQ",
+    "title": "Time Delay Relay case",
+    "meta": [
+     "513",
+     "1y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 513
+   },
+   {
+    "id": "Er_13wzGseo",
+    "title": "Troubleshooting back flow preventers with Hot Rod",
+    "meta": [
+     "564",
+     "1y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 564
+   },
+   {
+    "id": "G-lzA1i1N2s",
+    "title": "How does a hydronic reset control work?",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "cPIPMTizqkU",
+    "title": "The case of the frozen gas meter",
+    "meta": [
+     "720",
+     "1y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 720
+   },
+   {
+    "id": "vTGKeZXIuFI",
+    "title": "Chasing DOLLARS",
+    "meta": [
+     "213",
+     "1y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 213
+   },
+   {
+    "id": "FhCZOTG5OeY",
+    "title": "Understanding boiler wiring schematics",
+    "meta": [
+     "5.1K",
+     "1y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 5100
+   },
+   {
+    "id": "2wlc22-HZwM",
+    "title": "Case of the Upside Down Control Panel",
+    "meta": [
+     "432",
+     "1y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 432
+   },
+   {
+    "id": "tys4o-zvMBs",
+    "title": "Mastering Steam Systems",
+    "meta": [
+     "604",
+     "1y ago"
+    ],
+    "dur": "1:13:33",
+    "views_tab": 604
+   },
+   {
+    "id": "h5okr3NVPCo",
+    "title": "Why boilers are still great",
+    "meta": [
+     "546",
+     "1y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 546
+   },
+   {
+    "id": "PMyblZ0dqsc",
+    "title": "Hydronic boiler room dangers",
+    "meta": [
+     "365",
+     "1y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 365
+   },
+   {
+    "id": "pYgfg-SnLRc",
+    "title": "Steam Boiler Room Dangers",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 1000
+   },
+   {
+    "id": "CCfJaBG9eyU",
+    "title": "Boiler room emergency door switches",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1000
+   },
+   {
+    "id": "SScF3HmFxQ4",
+    "title": "Boiler gas pressure switches",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 2000
+   },
+   {
+    "id": "rjmYhOQESsY",
+    "title": "Hydronic boiler wiring - Finding the problem",
+    "meta": [
+     "809",
+     "2y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 809
+   },
+   {
+    "id": "H9BR_atUMWA",
+    "title": "Why is the compression tank flooding",
+    "meta": [
+     "419",
+     "2y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 419
+   },
+   {
+    "id": "vMcW8v8bT5U",
+    "title": "How does the boiler fill valve work?",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 12000
+   },
+   {
+    "id": "c-AN6-5wkK8",
+    "title": "Understanding the PTA Gauge",
+    "meta": [
+     "4.3K",
+     "2y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 4300
+   },
+   {
+    "id": "MHk5D77wadY",
+    "title": "Gauge glass maintenance",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 2600
+   },
+   {
+    "id": "HzkRBscsadY",
+    "title": "2 things you never do on a Friday afternoon",
+    "meta": [
+     "353",
+     "2y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 353
+   },
+   {
+    "id": "DHbFBxVWXhU",
+    "title": "Case of the air bound hydronic system",
+    "meta": [
+     "564",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 564
+   },
+   {
+    "id": "yOgjCRsCVHc",
+    "title": "Case of the broken vacuum breakers",
+    "meta": [
+     "434",
+     "2y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 434
+   },
+   {
+    "id": "Mw8-hkcNTEg",
+    "title": "How air temperature affects combustion",
+    "meta": [
+     "706",
+     "2y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 706
+   },
+   {
+    "id": "9Gbpewq9amI",
+    "title": "Case for dry steam",
+    "meta": [
+     "367",
+     "2y ago"
+    ],
+    "dur": "6:23",
+    "views_tab": 367
+   },
+   {
+    "id": "AHak5LidrUY",
+    "title": "Common hydronic boiler installation mistakes",
+    "meta": [
+     "589",
+     "2y ago"
+    ],
+    "dur": "7:21",
+    "views_tab": 589
+   },
+   {
+    "id": "XphDWWMF9sE",
+    "title": "Common mistakes made when installing  low pressure steam boilers",
+    "meta": [
+     "483",
+     "2y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 483
+   },
+   {
+    "id": "I7CkJFsEPyM",
+    "title": "Case of the cold offices",
+    "meta": [
+     "193",
+     "2y ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 193
+   },
+   {
+    "id": "LUIT_9RQwu8",
+    "title": "Case of why the boiler isn't firing",
+    "meta": [
+     "362",
+     "2y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 362
+   },
+   {
+    "id": "7nTv4FnwXOQ",
+    "title": "Case of why door switches save lives",
+    "meta": [
+     "327",
+     "2y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 327
+   }
+  ],
+  "Popular": [
+   {
+    "id": "3RT5IGboBCM",
+    "title": "How to set & adjust steam boiler pressure controls",
+    "meta": [
+     "45K",
+     "3y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 45000
+   },
+   {
+    "id": "yjUI3i04fP0",
+    "title": "Detective Tools   Adjusting a PA404 steam pressure control",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 13000
+   },
+   {
+    "id": "0O7ckkZFJ5M",
+    "title": "What is a barometric damper & what does it do?",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 12000
+   },
+   {
+    "id": "vMcW8v8bT5U",
+    "title": "How does the boiler fill valve work?",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 12000
+   },
+   {
+    "id": "CKiqRhrraJI",
+    "title": "15 boiler room noises you should never ignore",
+    "meta": [
+     "8.4K",
+     "1y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 8400
+   },
+   {
+    "id": "mf5ocBGoLDs",
+    "title": "The Case of the Hissing Air Vent",
+    "meta": [
+     "6.2K",
+     "3y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 6200
+   },
+   {
+    "id": "3uvu_d3bst8",
+    "title": "My Boiler Relief Valve is Leaking",
+    "meta": [
+     "5.8K",
+     "1y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 5800
+   },
+   {
+    "id": "9V2gnOKl6jY",
+    "title": "Case of the Bouncing Water Level",
+    "meta": [
+     "5.4K",
+     "3y ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 5400
+   },
+   {
+    "id": "FhCZOTG5OeY",
+    "title": "Understanding boiler wiring schematics",
+    "meta": [
+     "5.1K",
+     "1y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 5100
+   },
+   {
+    "id": "SBypNhXDIJI",
+    "title": "Testing a steam pop safety valve",
+    "meta": [
+     "4.7K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 4700
+   },
+   {
+    "id": "2dTaIwtjmLs",
+    "title": "Venting Air from a Hydronic Heating System\u2014The Easy Way!",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4500
+   },
+   {
+    "id": "c-AN6-5wkK8",
+    "title": "Understanding the PTA Gauge",
+    "meta": [
+     "4.3K",
+     "2y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 4300
+   },
+   {
+    "id": "hSF2iQI2dFY",
+    "title": "Top 10 Steam Heating Problems & How to Fix Them!",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 4000
+   },
+   {
+    "id": "OjtIG6-nMIg",
+    "title": "What is a pigtail and what does it do",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 3700
+   },
+   {
+    "id": "BKmUoWc5pCs",
+    "title": "Why is my Hydronic Boiler short cycling?",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 3600
+   },
+   {
+    "id": "4XIyKLWGgh0",
+    "title": "The Case of the Missing Swing Joint",
+    "meta": [
+     "3.4K",
+     "3y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 3400
+   },
+   {
+    "id": "rmr9dOjyQHo",
+    "title": "Case of the Short Cycling Boiler",
+    "meta": [
+     "3.3K",
+     "3y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 3300
+   },
+   {
+    "id": "Rqg6tn_H4w0",
+    "title": "Firetube vs Watertube Boilers Explained: Which One Is Better for Steam Heating?",
+    "meta": [
+     "3.1K",
+     "1y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 3100
+   },
+   {
+    "id": "yDNDIUVTha4",
+    "title": "The Case of the Shocked Boiler",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 2900
+   },
+   {
+    "id": "zhp1crutWvA",
+    "title": "Case of the Plugged Pigtail",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 2900
+   },
+   {
+    "id": "UVgUOkPqh0E",
+    "title": "How does a steam boiler work",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 2800
+   },
+   {
+    "id": "MHk5D77wadY",
+    "title": "Gauge glass maintenance",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 2600
+   },
+   {
+    "id": "tSkqAaW799E",
+    "title": "Case of the backward flow",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 2600
+   },
+   {
+    "id": "x-MCpzNkrPE",
+    "title": "My steam boiler is short cycling",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 2600
+   },
+   {
+    "id": "CvRxCrPwFWI",
+    "title": "Case of the tripped limit controls",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "FnkqbTGEdYQ",
+    "title": "The Case of the Low Delta T",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 2500
+   },
+   {
+    "id": "7hn3ZgWi2u0",
+    "title": "Case of the boiler descaler",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 2300
+   },
+   {
+    "id": "dQaG6RLZ8wk",
+    "title": "Case of the banging steam pipes",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 2100
+   },
+   {
+    "id": "SScF3HmFxQ4",
+    "title": "Boiler gas pressure switches",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 2000
+   },
+   {
+    "id": "SPpFOcSGLP4",
+    "title": "Difference between condensate and boiler feed tank",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 2000
+   },
+   {
+    "id": "vykHzOVSB24",
+    "title": "What are these things & what do they do?",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 1800
+   },
+   {
+    "id": "wkWfIk5zixU",
+    "title": "Case of the hydronic system with 3 way valve",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 1800
+   },
+   {
+    "id": "J3aQdtJ0fyo",
+    "title": "Case of why are the pipes banging",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 1700
+   },
+   {
+    "id": "xdKxvbS0iTc",
+    "title": "The Case of the Non Condensing Condensing Boiler",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 1700
+   },
+   {
+    "id": "GB6WXxVTkn4",
+    "title": "Top Ten Hydronic Issues and Fixes",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "HgpD6xVPuQo",
+    "title": "Case of the tripped auxiliary low water cutoff",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 1600
+   },
+   {
+    "id": "i9bePVMsdHM",
+    "title": "Benefits & dangers of boiler refractory",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "gxCjXNUNIhw",
+    "title": "Uncovering the Dirty Truth About Sooted Boilers",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 1600
+   },
+   {
+    "id": "8ldTb_FbR24",
+    "title": "Unraveling Intermittent Boiler Flame Failures: The Ultimate Troubleshooting Guide for Technicians",
+    "meta": [
+     "1.6K",
+     "11mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 1600
+   },
+   {
+    "id": "8-R0LgSrD9I",
+    "title": "The Case of the Short-Cycling Boiler \u2013 Causes, Damage & Fixes",
+    "meta": [
+     "1.5K",
+     "8mo ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 1500
+   },
+   {
+    "id": "lLb5vQKMsdE",
+    "title": "Understanding the Combustion Process",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 1500
+   },
+   {
+    "id": "zqzbfsza08c",
+    "title": "Case of the banging condensate pipes",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 1400
+   },
+   {
+    "id": "JxXO6lGnw0g",
+    "title": "Detective Tools Learn the difference between relief and safety valves",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 1400
+   },
+   {
+    "id": "r8-dyP3XDmk",
+    "title": "The case of the flooded boiler feed tank",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 1400
+   },
+   {
+    "id": "O0aaxxW7fnM",
+    "title": "Case of the missed Christmas party or My first sooted boiler",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 1400
+   },
+   {
+    "id": "KBW0cpa8OBw",
+    "title": "Case of the intermittent flame failures",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "6:20",
+    "views_tab": 1300
+   },
+   {
+    "id": "TZX2ik7ywXg",
+    "title": "The case of the high conductivity",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 1300
+   },
+   {
+    "id": "Yz4vt9z9DxM",
+    "title": "Case of the boiler that wasn't a boiler",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 1200
+   },
+   {
+    "id": "dr7sU9SrIds",
+    "title": "Why steam heat worked in morning but didnt after. Understanding air vent drop away pressure",
+    "meta": [
+     "1.1K",
+     "10mo ago"
+    ],
+    "dur": "7:25",
+    "views_tab": 1100
+   },
+   {
+    "id": "QD7zfDerg-U",
+    "title": "How Steam Traps Work: Thermostatic and F&T Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 1100
+   },
+   {
+    "id": "aYJyN36yupM",
+    "title": "Case of the Squealing Boiler",
+    "meta": [
+     "1.1K",
+     "3y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 1100
+   },
+   {
+    "id": "pYgfg-SnLRc",
+    "title": "Steam Boiler Room Dangers",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 1000
+   },
+   {
+    "id": "zrtnzRQRVSU",
+    "title": "Understanding Gas Boiler Burners: Firing Types & Turndown Ratios Explained",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "ocCir0YuWjw",
+    "title": "Case of the flooded steam boiler",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 1000
+   },
+   {
+    "id": "qszP9U-lOfg",
+    "title": "The Case of the Failed 5 Year Old Boiler",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 1000
+   },
+   {
+    "id": "zLsN_bo_LoQ",
+    "title": "Where to REALLY Install Barometric Dampers on Multiple Boilers (Avoid These Deadly Mistakes!)",
+    "meta": [
+     "1K",
+     "9mo ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 1000
+   },
+   {
+    "id": "L17GJVvjAOw",
+    "title": "Case of the boiler that failed on low water",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 1000
+   },
+   {
+    "id": "ZjiXP8kkCRU",
+    "title": "What caused this on a boiler flue?",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 1000
+   },
+   {
+    "id": "CCfJaBG9eyU",
+    "title": "Boiler room emergency door switches",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1000
+   },
+   {
+    "id": "G-lzA1i1N2s",
+    "title": "How does a hydronic reset control work?",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "cVeVCVKhOL0",
+    "title": "The Glycol Myth Why Your Pipes Might Freeze Anyway!  Boiler Room Detective",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 1000
+   },
+   {
+    "id": "_CqcPC0hqUQ",
+    "title": "Case of the upset custodian",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 1000
+   },
+   {
+    "id": "6lM0HYBKJow",
+    "title": "Probe Type Low Water Cutoff LWCO Maintenance",
+    "meta": [
+     "997",
+     "6mo ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 997
+   },
+   {
+    "id": "XWytAArfxIY",
+    "title": "Common boiler feed system mistakes",
+    "meta": [
+     "980",
+     "2y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 980
+   },
+   {
+    "id": "BaxgX9uuF80",
+    "title": "The case of Ray versus the A Dimension",
+    "meta": [
+     "976",
+     "2y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 976
+   },
+   {
+    "id": "ZM8RopljrG0",
+    "title": "Why Your Classroom Unit Ventilator Blows Cold Air and Why Thats Normal",
+    "meta": [
+     "971",
+     "1y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 971
+   },
+   {
+    "id": "9zQS6mmfBYE",
+    "title": "#1 boiler killer you're NOT testing (Low pH will destroy your boiler fast",
+    "meta": [
+     "949",
+     "11mo ago"
+    ],
+    "dur": "6:42",
+    "views_tab": 949
+   },
+   {
+    "id": "EHstE07VKCA",
+    "title": "The case of the Leaking Gas Valve",
+    "meta": [
+     "936",
+     "3y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 936
+   },
+   {
+    "id": "2tmJlOzdZOY",
+    "title": "The case of the Cold Flue Pipe",
+    "meta": [
+     "925",
+     "3y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 925
+   },
+   {
+    "id": "WKem_Qah7lY",
+    "title": "Case of the Cold Radiator",
+    "meta": [
+     "922",
+     "3y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 922
+   },
+   {
+    "id": "nPuOQe4Se4Y",
+    "title": "How to Estimate Water Volume in a Hydronic System",
+    "meta": [
+     "860",
+     "1y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 860
+   },
+   {
+    "id": "7wqgnkXtjZA",
+    "title": "The case of the Premature Boiler Failure",
+    "meta": [
+     "855",
+     "3y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 855
+   },
+   {
+    "id": "PdM1IyPLl40",
+    "title": "The case of the dirty burner",
+    "meta": [
+     "855",
+     "3y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 855
+   },
+   {
+    "id": "Bl2s6IzbUEU",
+    "title": "Case of the dangerous boiler room",
+    "meta": [
+     "847",
+     "2y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 847
+   },
+   {
+    "id": "HlBFEFtk4e4",
+    "title": "The Battle for Air: Chimney vs Exhaust Fan",
+    "meta": [
+     "842",
+     "3w ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 842
+   },
+   {
+    "id": "0ZnGWnql4Z0",
+    "title": "The Case of the Overheated Boiler",
+    "meta": [
+     "842",
+     "3y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 842
+   },
+   {
+    "id": "t8x61mJBe60",
+    "title": "Boiler flame signals",
+    "meta": [
+     "824",
+     "1y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 824
+   },
+   {
+    "id": "BASDiTvg_Nc",
+    "title": "The Case of the Haunted Boiler Room",
+    "meta": [
+     "825",
+     "3y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 825
+   },
+   {
+    "id": "UrMr-WTIWTk",
+    "title": "Case of the Tripped Pressure Control",
+    "meta": [
+     "812",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 812
+   },
+   {
+    "id": "rjmYhOQESsY",
+    "title": "Hydronic boiler wiring - Finding the problem",
+    "meta": [
+     "809",
+     "2y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 809
+   },
+   {
+    "id": "yNTXXxUQyvE",
+    "title": "The Case of the Flame Rollout",
+    "meta": [
+     "807",
+     "3y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 807
+   },
+   {
+    "id": "pmuMLa-roMo",
+    "title": "Should I replace the steam system with forced air?",
+    "meta": [
+     "790",
+     "1mo ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 790
+   },
+   {
+    "id": "mSbpPwHDFwk",
+    "title": "Boiler feed mistakes & sizing",
+    "meta": [
+     "785",
+     "1y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 785
+   },
+   {
+    "id": "HCEOMo2rQVY",
+    "title": "Case of the time the boiler exploded with Ray inside",
+    "meta": [
+     "784",
+     "2y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 784
+   },
+   {
+    "id": "9YJIFDuzw3Y",
+    "title": "Case of the cold apartment",
+    "meta": [
+     "778",
+     "2y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 778
+   },
+   {
+    "id": "7BfXcOTNgGw",
+    "title": "Detective Tools: Designing a steam system for a brewery",
+    "meta": [
+     "776",
+     "3y ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 776
+   },
+   {
+    "id": "rUYzfaGO2hI",
+    "title": "\ud83d\udd25 Why Raising Steam Boiler Pressure Is a HUGE Mistake (Costs You Money & Causes Banging!)",
+    "meta": [
+     "765",
+     "9mo ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 765
+   },
+   {
+    "id": "CnO3uM4Ms9g",
+    "title": "Case for 11 psi in breweries",
+    "meta": [
+     "760",
+     "2y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 760
+   },
+   {
+    "id": "YIMBJ78cWyI",
+    "title": "Detective Tools   Troubleshooting Hydronics",
+    "meta": [
+     "753",
+     "3y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 753
+   },
+   {
+    "id": "CWYKfwXhZao",
+    "title": "How an intermittent flame failure averted a catastrophe",
+    "meta": [
+     "749",
+     "2y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 749
+   },
+   {
+    "id": "4sMCtC-RyL4",
+    "title": "Detective Tools   Replacing a steam boiler",
+    "meta": [
+     "749",
+     "3y ago"
+    ],
+    "dur": "14:29",
+    "views_tab": 749
+   },
+   {
+    "id": "GWb6ahW5QIE",
+    "title": "Why is the boiler feed tank flooding every morning",
+    "meta": [
+     "749",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 749
+   },
+   {
+    "id": "fj00EnUeZTg",
+    "title": "The case of the rainy day boiler",
+    "meta": [
+     "746",
+     "3y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 746
+   },
+   {
+    "id": "ceSfgRt0jPc",
+    "title": "Detective Tools The case for 2 psi",
+    "meta": [
+     "743",
+     "3y ago"
+    ],
+    "dur": "6:55",
+    "views_tab": 743
+   },
+   {
+    "id": "-BbqB2VSgw8",
+    "title": "The Case of the Plugged Gas Pipe",
+    "meta": [
+     "738",
+     "3y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 738
+   },
+   {
+    "id": "VuzXvoZFAZ4",
+    "title": "Case of the boiler room flood alarm",
+    "meta": [
+     "729",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 729
+   },
+   {
+    "id": "cPIPMTizqkU",
+    "title": "The case of the frozen gas meter",
+    "meta": [
+     "720",
+     "1y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 720
+   },
+   {
+    "id": "aiR6pJanydU",
+    "title": "What is boiler draft?",
+    "meta": [
+     "718",
+     "1y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 718
+   },
+   {
+    "id": "EFN5a7eE9kQ",
+    "title": "How does steam get to the radiator",
+    "meta": [
+     "718",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 718
+   },
+   {
+    "id": "yz1cTV7bwps",
+    "title": "Case of the Used Gas Valve",
+    "meta": [
+     "711",
+     "3y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 711
+   },
+   {
+    "id": "y2CefOf7MdQ",
+    "title": "Steam Drip Legs: The Unsung Heroes That Stop Water Hammer and Save Your Steam System!",
+    "meta": [
+     "706",
+     "9mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 706
+   },
+   {
+    "id": "Mw8-hkcNTEg",
+    "title": "How air temperature affects combustion",
+    "meta": [
+     "706",
+     "2y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 706
+   },
+   {
+    "id": "D4o3jv5XXr4",
+    "title": "The Case of the Defective Gas Valves",
+    "meta": [
+     "707",
+     "3y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 707
+   },
+   {
+    "id": "I2FHX3gY3Yo",
+    "title": "Why is my radiator cold?",
+    "meta": [
+     "703",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 703
+   },
+   {
+    "id": "6DvfXh26Uzo",
+    "title": "Hydronic boiler won't start? Check these 7 things first.",
+    "meta": [
+     "705",
+     "1mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 705
+   },
+   {
+    "id": "OPfLxHvX7RE",
+    "title": "Should I drain the boiler in the summer?",
+    "meta": [
+     "698",
+     "1mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 698
+   },
+   {
+    "id": "rQZgKXJMT1I",
+    "title": "Case of the Faulty Flame Safeguard",
+    "meta": [
+     "690",
+     "3y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 690
+   },
+   {
+    "id": "Ss18q3pWfvE",
+    "title": "Combustion air sizing using ducts fans, or indoor air",
+    "meta": [
+     "675",
+     "3y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 675
+   },
+   {
+    "id": "MPrisYhN_7k",
+    "title": "The case of the rusted boiler",
+    "meta": [
+     "675",
+     "3y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 675
+   },
+   {
+    "id": "vmn6d8QINac",
+    "title": "Case of the warped burner head",
+    "meta": [
+     "668",
+     "3y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 668
+   },
+   {
+    "id": "56oBYJctTEg",
+    "title": "Why your boiler keeps losing pressure",
+    "meta": [
+     "673",
+     "1mo ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 673
+   },
+   {
+    "id": "_hW-tNnsiek",
+    "title": "The Case of the Sooted Boiler",
+    "meta": [
+     "666",
+     "3y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 666
+   },
+   {
+    "id": "NmeIZ-VzyQA",
+    "title": "Detective Tools Combustion air sizing using wall openings",
+    "meta": [
+     "662",
+     "3y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 662
+   },
+   {
+    "id": "jce2WMZXAA4",
+    "title": "Why you must flush hydronic piping before installing a boiler",
+    "meta": [
+     "659",
+     "1y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 659
+   },
+   {
+    "id": "SlU7a2BU9fo",
+    "title": "The First Five Minutes in a Boiler Room Can Tell You Everything",
+    "meta": [
+     "658",
+     "1y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 658
+   },
+   {
+    "id": "9HynvMU4jO8",
+    "title": "Case of how air got into the piping",
+    "meta": [
+     "639",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 639
+   },
+   {
+    "id": "Y_tidilJwGc",
+    "title": "The case of the nocturnal boiler failure",
+    "meta": [
+     "634",
+     "3y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 634
+   },
+   {
+    "id": "Ty6UfzToebc",
+    "title": "Case of the hybrid steam system",
+    "meta": [
+     "633",
+     "2y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 633
+   },
+   {
+    "id": "Mp7xAufRomo",
+    "title": "Detective Tools   What is this and what does it do?",
+    "meta": [
+     "628",
+     "3y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 628
+   },
+   {
+    "id": "3GfQKxglZso",
+    "title": "Case of the high gas costs",
+    "meta": [
+     "626",
+     "3y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 626
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "zhp1crutWvA",
+    "title": "Case of the Plugged Pigtail",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 2900
+   },
+   {
+    "id": "JqZZl3llwIg",
+    "title": "The Case of the Squatter Spider",
+    "meta": [
+     "325",
+     "3y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 325
+   },
+   {
+    "id": "34E6t73ahRs",
+    "title": "The Case of the Popped Safety Valve",
+    "meta": [
+     "482",
+     "3y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 482
+   },
+   {
+    "id": "EHstE07VKCA",
+    "title": "The case of the Leaking Gas Valve",
+    "meta": [
+     "936",
+     "3y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 936
+   },
+   {
+    "id": "UmHWIfYbKUE",
+    "title": "Case of the Defective Gas Valve",
+    "meta": [
+     "305",
+     "3y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 305
+   },
+   {
+    "id": "7wqgnkXtjZA",
+    "title": "The case of the Premature Boiler Failure",
+    "meta": [
+     "855",
+     "3y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 855
+   },
+   {
+    "id": "jJrYvjPctD8",
+    "title": "The Case of the Non Pumping Boiler Feed Pump",
+    "meta": [
+     "619",
+     "3y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 619
+   },
+   {
+    "id": "rQZgKXJMT1I",
+    "title": "Case of the Faulty Flame Safeguard",
+    "meta": [
+     "690",
+     "3y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 690
+   },
+   {
+    "id": "UrMr-WTIWTk",
+    "title": "Case of the Tripped Pressure Control",
+    "meta": [
+     "812",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 812
+   },
+   {
+    "id": "Ilthw_pkLBo",
+    "title": "Case of the Backward Pressure Control",
+    "meta": [
+     "383",
+     "3y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 383
+   },
+   {
+    "id": "yz1cTV7bwps",
+    "title": "Case of the Used Gas Valve",
+    "meta": [
+     "711",
+     "3y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 711
+   },
+   {
+    "id": "-7CJfjoJ1lU",
+    "title": "Case of the Silent Alarm",
+    "meta": [
+     "533",
+     "3y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 533
+   },
+   {
+    "id": "rmr9dOjyQHo",
+    "title": "Case of the Short Cycling Boiler",
+    "meta": [
+     "3.3K",
+     "3y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 3300
+   },
+   {
+    "id": "9V2gnOKl6jY",
+    "title": "Case of the Bouncing Water Level",
+    "meta": [
+     "5.4K",
+     "3y ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 5400
+   },
+   {
+    "id": "54kYbqKOIBo",
+    "title": "Case of the Cross Connected Fountain",
+    "meta": [
+     "553",
+     "3y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 553
+   },
+   {
+    "id": "FnkqbTGEdYQ",
+    "title": "The Case of the Low Delta T",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 2500
+   },
+   {
+    "id": "4XIyKLWGgh0",
+    "title": "The Case of the Missing Swing Joint",
+    "meta": [
+     "3.4K",
+     "3y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 3400
+   },
+   {
+    "id": "WKem_Qah7lY",
+    "title": "Case of the Cold Radiator",
+    "meta": [
+     "922",
+     "3y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 922
+   },
+   {
+    "id": "xdKxvbS0iTc",
+    "title": "The Case of the Non Condensing Condensing Boiler",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 1700
+   },
+   {
+    "id": "yDNDIUVTha4",
+    "title": "The Case of the Shocked Boiler",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 2900
+   },
+   {
+    "id": "0ZnGWnql4Z0",
+    "title": "The Case of the Overheated Boiler",
+    "meta": [
+     "842",
+     "3y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 842
+   },
+   {
+    "id": "qszP9U-lOfg",
+    "title": "The Case of the Failed 5 Year Old Boiler",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 1000
+   },
+   {
+    "id": "_hW-tNnsiek",
+    "title": "The Case of the Sooted Boiler",
+    "meta": [
+     "666",
+     "3y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 666
+   },
+   {
+    "id": "D4o3jv5XXr4",
+    "title": "The Case of the Defective Gas Valves",
+    "meta": [
+     "707",
+     "3y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 707
+   },
+   {
+    "id": "yNTXXxUQyvE",
+    "title": "The Case of the Flame Rollout",
+    "meta": [
+     "807",
+     "3y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 807
+   },
+   {
+    "id": "BASDiTvg_Nc",
+    "title": "The Case of the Haunted Boiler Room",
+    "meta": [
+     "825",
+     "3y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 825
+   },
+   {
+    "id": "-BbqB2VSgw8",
+    "title": "The Case of the Plugged Gas Pipe",
+    "meta": [
+     "738",
+     "3y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 738
+   },
+   {
+    "id": "dFiKJv-QT4I",
+    "title": "The Case of the Missing Glycol",
+    "meta": [
+     "582",
+     "3y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 582
+   },
+   {
+    "id": "mf5ocBGoLDs",
+    "title": "The Case of the Hissing Air Vent",
+    "meta": [
+     "6.2K",
+     "3y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 6200
+   },
+   {
+    "id": "oirjJ8bkLuE",
+    "title": "The Case of the Snapped Relief Valve",
+    "meta": [
+     "409",
+     "3y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 409
+   },
+   {
+    "id": "2tmJlOzdZOY",
+    "title": "The case of the Cold Flue Pipe",
+    "meta": [
+     "925",
+     "3y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 925
+   },
+   {
+    "id": "aYJyN36yupM",
+    "title": "Case of the Squealing Boiler",
+    "meta": [
+     "1.1K",
+     "3y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 1100
+   },
+   {
+    "id": "Y_tidilJwGc",
+    "title": "The case of the nocturnal boiler failure",
+    "meta": [
+     "634",
+     "3y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 634
+   },
+   {
+    "id": "fj00EnUeZTg",
+    "title": "The case of the rainy day boiler",
+    "meta": [
+     "746",
+     "3y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 746
+   },
+   {
+    "id": "TZX2ik7ywXg",
+    "title": "The case of the high conductivity",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 1300
+   },
+   {
+    "id": "gmnzS6H95rU",
+    "title": "Case of the angry engineer",
+    "meta": [
+     "515",
+     "3y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 515
+   },
+   {
+    "id": "NmeIZ-VzyQA",
+    "title": "Detective Tools Combustion air sizing using wall openings",
+    "meta": [
+     "662",
+     "3y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 662
+   },
+   {
+    "id": "Ss18q3pWfvE",
+    "title": "Combustion air sizing using ducts fans, or indoor air",
+    "meta": [
+     "675",
+     "3y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 675
+   },
+   {
+    "id": "3VleZMGdm4k",
+    "title": "Case of the flooded lag boiler",
+    "meta": [
+     "554",
+     "3y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 554
+   },
+   {
+    "id": "r8-dyP3XDmk",
+    "title": "The case of the flooded boiler feed tank",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 1400
+   },
+   {
+    "id": "zCdqTu3ci7g",
+    "title": "Case of the failing feed water pumps",
+    "meta": [
+     "583",
+     "3y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 583
+   },
+   {
+    "id": "Eu6gj1gUQrQ",
+    "title": "Case of the non opening gas valve",
+    "meta": [
+     "424",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 424
+   },
+   {
+    "id": "tok7cZytYTs",
+    "title": "Case of the disappearing water treatment chemicals",
+    "meta": [
+     "624",
+     "3y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 624
+   },
+   {
+    "id": "WPPfGhgFlxg",
+    "title": "Case of the damaged boiler",
+    "meta": [
+     "322",
+     "3y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 322
+   },
+   {
+    "id": "JxXO6lGnw0g",
+    "title": "Detective Tools Learn the difference between relief and safety valves",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 1400
+   },
+   {
+    "id": "zqzbfsza08c",
+    "title": "Case of the banging condensate pipes",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 1400
+   },
+   {
+    "id": "0O7ckkZFJ5M",
+    "title": "What is a barometric damper & what does it do?",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 12000
+   },
+   {
+    "id": "PdM1IyPLl40",
+    "title": "The case of the dirty burner",
+    "meta": [
+     "855",
+     "3y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 855
+   },
+   {
+    "id": "MPrisYhN_7k",
+    "title": "The case of the rusted boiler",
+    "meta": [
+     "675",
+     "3y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 675
+   },
+   {
+    "id": "U4I7HGlKOJs",
+    "title": "Detective Tools Hydronic Boiler Safety Controls",
+    "meta": [
+     "406",
+     "3y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 406
+   },
+   {
+    "id": "CvRxCrPwFWI",
+    "title": "Case of the tripped limit controls",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "ceSfgRt0jPc",
+    "title": "Detective Tools The case for 2 psi",
+    "meta": [
+     "743",
+     "3y ago"
+    ],
+    "dur": "6:55",
+    "views_tab": 743
+   },
+   {
+    "id": "3GfQKxglZso",
+    "title": "Case of the high gas costs",
+    "meta": [
+     "626",
+     "3y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 626
+   },
+   {
+    "id": "YIMBJ78cWyI",
+    "title": "Detective Tools   Troubleshooting Hydronics",
+    "meta": [
+     "753",
+     "3y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 753
+   },
+   {
+    "id": "4sMCtC-RyL4",
+    "title": "Detective Tools   Replacing a steam boiler",
+    "meta": [
+     "749",
+     "3y ago"
+    ],
+    "dur": "14:29",
+    "views_tab": 749
+   },
+   {
+    "id": "bmiVMv568tA",
+    "title": "Case of the failed makeup air fan",
+    "meta": [
+     "382",
+     "3y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 382
+   },
+   {
+    "id": "7BfXcOTNgGw",
+    "title": "Detective Tools: Designing a steam system for a brewery",
+    "meta": [
+     "776",
+     "3y ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 776
+   },
+   {
+    "id": "WWcY2VZ6E_8",
+    "title": "Case of the counterfeit thermostat",
+    "meta": [
+     "369",
+     "3y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 369
+   },
+   {
+    "id": "VuzXvoZFAZ4",
+    "title": "Case of the boiler room flood alarm",
+    "meta": [
+     "729",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 729
+   },
+   {
+    "id": "eGYHEY8mDek",
+    "title": "Why CSD1 code is a win win for the owner and the service company",
+    "meta": [
+     "538",
+     "3y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 538
+   },
+   {
+    "id": "wI85alqimlI",
+    "title": "Case of no boiler maintenance",
+    "meta": [
+     "445",
+     "3y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 445
+   },
+   {
+    "id": "SBypNhXDIJI",
+    "title": "Testing a steam pop safety valve",
+    "meta": [
+     "4.7K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 4700
+   },
+   {
+    "id": "_CqcPC0hqUQ",
+    "title": "Case of the upset custodian",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 1000
+   },
+   {
+    "id": "3RT5IGboBCM",
+    "title": "How to set & adjust steam boiler pressure controls",
+    "meta": [
+     "45K",
+     "3y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 45000
+   },
+   {
+    "id": "Q2FSjoLrWKg",
+    "title": "Case of the jumped safety controls",
+    "meta": [
+     "499",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 499
+   },
+   {
+    "id": "O0aaxxW7fnM",
+    "title": "Case of the missed Christmas party or My first sooted boiler",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 1400
+   },
+   {
+    "id": "Yz4vt9z9DxM",
+    "title": "Case of the boiler that wasn't a boiler",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 1200
+   },
+   {
+    "id": "k3mYsafRIBU",
+    "title": "Case of the slippery  boiler room or Ray's first service call in a pet food rendering plant",
+    "meta": [
+     "486",
+     "3y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 486
+   },
+   {
+    "id": "yjUI3i04fP0",
+    "title": "Detective Tools   Adjusting a PA404 steam pressure control",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 13000
+   },
+   {
+    "id": "Mp7xAufRomo",
+    "title": "Detective Tools   What is this and what does it do?",
+    "meta": [
+     "628",
+     "3y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 628
+   },
+   {
+    "id": "gMJqKNco-kk",
+    "title": "Detective Tools   How many boilers?",
+    "meta": [
+     "539",
+     "3y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 539
+   },
+   {
+    "id": "vmn6d8QINac",
+    "title": "Case of the warped burner head",
+    "meta": [
+     "668",
+     "3y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 668
+   },
+   {
+    "id": "7hn3ZgWi2u0",
+    "title": "Case of the boiler descaler",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 2300
+   },
+   {
+    "id": "dF2fx3URG_w",
+    "title": "Case of the damaged drain pipe",
+    "meta": [
+     "527",
+     "2y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 527
+   },
+   {
+    "id": "ocCir0YuWjw",
+    "title": "Case of the flooded steam boiler",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 1000
+   },
+   {
+    "id": "BaxgX9uuF80",
+    "title": "The case of Ray versus the A Dimension",
+    "meta": [
+     "976",
+     "2y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 976
+   },
+   {
+    "id": "dQaG6RLZ8wk",
+    "title": "Case of the banging steam pipes",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 2100
+   },
+   {
+    "id": "CnO3uM4Ms9g",
+    "title": "Case for 11 psi in breweries",
+    "meta": [
+     "760",
+     "2y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 760
+   },
+   {
+    "id": "SzVLUDJ4IRc",
+    "title": "Case for a hybrid boiler system",
+    "meta": [
+     "436",
+     "2y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 436
+   },
+   {
+    "id": "Bn9wCCs8ZE8",
+    "title": "Case of the non heating steam system",
+    "meta": [
+     "430",
+     "2y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 430
+   },
+   {
+    "id": "HgpD6xVPuQo",
+    "title": "Case of the tripped auxiliary low water cutoff",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 1600
+   },
+   {
+    "id": "tSkqAaW799E",
+    "title": "Case of the backward flow",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 2600
+   },
+   {
+    "id": "2SXjXObnhOs",
+    "title": "Case of the cold radiator",
+    "meta": [
+     "510",
+     "2y ago"
+    ],
+    "dur": "3:49",
+    "views_tab": 510
+   },
+   {
+    "id": "9YJIFDuzw3Y",
+    "title": "Case of the cold apartment",
+    "meta": [
+     "778",
+     "2y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 778
+   },
+   {
+    "id": "Bl2s6IzbUEU",
+    "title": "Case of the dangerous boiler room",
+    "meta": [
+     "847",
+     "2y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 847
+   },
+   {
+    "id": "rbDkIIBhOJE",
+    "title": "Case of the tardy two pipe system",
+    "meta": [
+     "420",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 420
+   },
+   {
+    "id": "Ty6UfzToebc",
+    "title": "Case of the hybrid steam system",
+    "meta": [
+     "633",
+     "2y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 633
+   },
+   {
+    "id": "zS2RvBQCWxI",
+    "title": "Case of the lost heat call",
+    "meta": [
+     "404",
+     "2y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 404
+   },
+   {
+    "id": "wkWfIk5zixU",
+    "title": "Case of the hydronic system with 3 way valve",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 1800
+   },
+   {
+    "id": "L17GJVvjAOw",
+    "title": "Case of the boiler that failed on low water",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 1000
+   },
+   {
+    "id": "58-gPMCuU4M",
+    "title": "Case of the lowered steam pressure",
+    "meta": [
+     "519",
+     "2y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 519
+   },
+   {
+    "id": "KBW0cpa8OBw",
+    "title": "Case of the intermittent flame failures",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "6:20",
+    "views_tab": 1300
+   },
+   {
+    "id": "GKrN4LucNEg",
+    "title": "Case of the time Ray was escorted off the job",
+    "meta": [
+     "401",
+     "2y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 401
+   },
+   {
+    "id": "Zm6s7Sdzt3Q",
+    "title": "Case of the steam filled boiler room",
+    "meta": [
+     "535",
+     "2y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 535
+   },
+   {
+    "id": "HCEOMo2rQVY",
+    "title": "Case of the time the boiler exploded with Ray inside",
+    "meta": [
+     "784",
+     "2y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 784
+   },
+   {
+    "id": "uWGbbCpVGdY",
+    "title": "Case of the costly carryover",
+    "meta": [
+     "441",
+     "2y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 441
+   },
+   {
+    "id": "USNWlcN7ctA",
+    "title": "Case of the moving no heat call",
+    "meta": [
+     "402",
+     "2y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 402
+   },
+   {
+    "id": "9HynvMU4jO8",
+    "title": "Case of how air got into the piping",
+    "meta": [
+     "639",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 639
+   },
+   {
+    "id": "ukd-SrOHqqA",
+    "title": "Case of the intermittent steam vent",
+    "meta": [
+     "282",
+     "2y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 282
+   },
+   {
+    "id": "561mpzkScc0",
+    "title": "Case of why the boiler failed",
+    "meta": [
+     "329",
+     "2y ago"
+    ],
+    "dur": "4:24",
+    "views_tab": 329
+   },
+   {
+    "id": "ptKB_rN7vWw",
+    "title": "Case of the random no heat calls at night",
+    "meta": [
+     "302",
+     "2y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 302
+   },
+   {
+    "id": "SPpFOcSGLP4",
+    "title": "Difference between condensate and boiler feed tank",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 2000
+   },
+   {
+    "id": "XWytAArfxIY",
+    "title": "Common boiler feed system mistakes",
+    "meta": [
+     "980",
+     "2y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 980
+   },
+   {
+    "id": "shArhgtNYKU",
+    "title": "Case of inadvertent law suit",
+    "meta": [
+     "208",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 208
+   },
+   {
+    "id": "J3aQdtJ0fyo",
+    "title": "Case of why are the pipes banging",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 1700
+   },
+   {
+    "id": "m4eLMs6cyfA",
+    "title": "Case of the no heating brew kettle",
+    "meta": [
+     "172",
+     "2y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 172
+   },
+   {
+    "id": "iz2XHC0r3IY",
+    "title": "The difference between space heating and a brewery steam system",
+    "meta": [
+     "326",
+     "2y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 326
+   },
+   {
+    "id": "CWYKfwXhZao",
+    "title": "How an intermittent flame failure averted a catastrophe",
+    "meta": [
+     "749",
+     "2y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 749
+   },
+   {
+    "id": "WwivqHYZ-rw",
+    "title": "Case of why the 7 year old boiler leaked",
+    "meta": [
+     "227",
+     "2y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 227
+   },
+   {
+    "id": "7nTv4FnwXOQ",
+    "title": "Case of why door switches save lives",
+    "meta": [
+     "327",
+     "2y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 327
+   },
+   {
+    "id": "LUIT_9RQwu8",
+    "title": "Case of why the boiler isn't firing",
+    "meta": [
+     "362",
+     "2y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 362
+   },
+   {
+    "id": "I7CkJFsEPyM",
+    "title": "Case of the cold offices",
+    "meta": [
+     "193",
+     "2y ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 193
+   },
+   {
+    "id": "XphDWWMF9sE",
+    "title": "Common mistakes made when installing  low pressure steam boilers",
+    "meta": [
+     "483",
+     "2y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 483
+   },
+   {
+    "id": "AHak5LidrUY",
+    "title": "Common hydronic boiler installation mistakes",
+    "meta": [
+     "589",
+     "2y ago"
+    ],
+    "dur": "7:21",
+    "views_tab": 589
+   },
+   {
+    "id": "9Gbpewq9amI",
+    "title": "Case for dry steam",
+    "meta": [
+     "367",
+     "2y ago"
+    ],
+    "dur": "6:23",
+    "views_tab": 367
+   },
+   {
+    "id": "Mw8-hkcNTEg",
+    "title": "How air temperature affects combustion",
+    "meta": [
+     "706",
+     "2y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 706
+   },
+   {
+    "id": "yOgjCRsCVHc",
+    "title": "Case of the broken vacuum breakers",
+    "meta": [
+     "434",
+     "2y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 434
+   },
+   {
+    "id": "DHbFBxVWXhU",
+    "title": "Case of the air bound hydronic system",
+    "meta": [
+     "564",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 564
+   },
+   {
+    "id": "HzkRBscsadY",
+    "title": "2 things you never do on a Friday afternoon",
+    "meta": [
+     "353",
+     "2y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 353
+   },
+   {
+    "id": "MHk5D77wadY",
+    "title": "Gauge glass maintenance",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 2600
+   }
+  ]
+ }
+}

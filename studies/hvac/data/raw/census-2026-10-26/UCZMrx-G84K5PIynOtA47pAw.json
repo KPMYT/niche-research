@@ -1,0 +1,3085 @@
+{
+ "key": "UCZMrx-G84K5PIynOtA47pAw",
+ "channel": "Zebra Learnings",
+ "id": "UCZMrx-G84K5PIynOtA47pAw",
+ "subs": "96.2K subscribers",
+ "videos": "99 videos",
+ "pulled": "2026-10-26T06:59:18.640252+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Xz70fov2PnU",
+    "title": "Virtual Chiller Plant 3D Simulator | Explore & Learn HVAC Systems",
+    "meta": [
+     "874",
+     "2d ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 874
+   },
+   {
+    "id": "fNpk4aDjkPo",
+    "title": "How Chiller Plants Work | Water Cooled vs Air Cooled Chiller Explained",
+    "meta": [
+     "2.9K",
+     "3d ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 2900
+   },
+   {
+    "id": "ysy5R1icbaM",
+    "title": "VFD vs Soft Starter: What\u2019s the Difference? | HVAC Motor Control Explained | Animation | #hvac",
+    "meta": [
+     "8.8K",
+     "1mo ago"
+    ],
+    "dur": "6:43",
+    "views_tab": 8800
+   },
+   {
+    "id": "rw23Q76BQD8",
+    "title": "EER vs SEER Explained | Air Conditioner Energy Efficiency Made Simple",
+    "meta": [
+     "2.8K",
+     "2mo ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 2800
+   },
+   {
+    "id": "1lqsEc0bRAc",
+    "title": "How a Split AC Works (Interactive Simulator) | Learn Air Conditioner Working",
+    "meta": [
+     "4.6K",
+     "3mo ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 4600
+   },
+   {
+    "id": "jEReq6DcxIo",
+    "title": "How to Vacuum an AC unit with our simulator | HVAC Simulator Tutorial",
+    "meta": [
+     "3.6K",
+     "3mo ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 3600
+   },
+   {
+    "id": "SSjGsI8vusk",
+    "title": "BTU vs TR vs KW | What is the difference?",
+    "meta": [
+     "6K",
+     "4mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 6000
+   },
+   {
+    "id": "kSIE2r38UZw",
+    "title": "\ud83d\ude80 HVAC Simulators Are Here! | HVAC Vacuum Simulator| Learn HVAC the Interactive Way | Zebralearnings",
+    "meta": [
+     "4.5K",
+     "4mo ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 4500
+   },
+   {
+    "id": "h7m_ndpLkTE",
+    "title": "Why 1 TR is 12000 BTU?",
+    "meta": [
+     "1.6K",
+     "4mo ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 1600
+   },
+   {
+    "id": "3vhHRuMjupg",
+    "title": "Why 1 TR = 3.52 KW? Explained Clearly | Cooling Capacity KW",
+    "meta": [
+     "3K",
+     "4mo ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 3000
+   },
+   {
+    "id": "i0DnhsM_0fk",
+    "title": "Electrical kW vs Cooling kW \u2014 What\u2019s the Difference?",
+    "meta": [
+     "3.6K",
+     "5mo ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "BRCDIQcsV5U",
+    "title": "What is TR? | Ton Of Refrigeration Explained | #hvac",
+    "meta": [
+     "5.1K",
+     "6mo ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 5100
+   },
+   {
+    "id": "jJo91sYY03Q",
+    "title": "What is a BTU? The Secret History of Air Conditioning! | HVAC | Animation |",
+    "meta": [
+     "4.6K",
+     "7mo ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4600
+   },
+   {
+    "id": "XiPDHWW3dAA",
+    "title": "How to Do Vacuum in AC System Using Micron Gauge | Step-by-Step HVAC Tutorial | Animation",
+    "meta": [
+     "25K",
+     "11mo ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 25000
+   },
+   {
+    "id": "gAGMblg0Aqg",
+    "title": "PSIG vs PSIA | Gauge Pressure vs Absolute Pressure | HVAC Explained Simply #hvac #gauge",
+    "meta": [
+     "5.7K",
+     "1y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 5700
+   },
+   {
+    "id": "gi3O9f3G-Qs",
+    "title": "Electronic Expansion Valve | Animation | Zebra Learnings | #hvac #hvaclife #hvacsystem",
+    "meta": [
+     "7K",
+     "1y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 7000
+   },
+   {
+    "id": "dWSFQKii8FM",
+    "title": "How Scroll Compressors Work | HVAC Basics Explained | HVAC System",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "ap4yFJl8A5Y",
+    "title": "Reciprocating Compressor Explained | HVAC Basics \u2013 Zebra Learnings",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 17000
+   },
+   {
+    "id": "C-bs8GMIlfo",
+    "title": "Types of HVAC Compressors Explained | HVAC Basics with Zebra Learnings",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 26000
+   },
+   {
+    "id": "c8FCeKX-kBo",
+    "title": "How the Reversing Valve Works in a Heat Pump | HVAC Explained | Animation",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 27000
+   },
+   {
+    "id": "Tj-5Ti1oJvQ",
+    "title": "How Does a Heat Pump Work? | Heating & Cooling Explained | Animation | #HVAC #HVACSYSTEM",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 52000
+   },
+   {
+    "id": "Nr4ohCyYV2g",
+    "title": "What Is an Accumulator? | Protecting Your AC Compressor | Animation | #hvac #hvacsystem",
+    "meta": [
+     "53K",
+     "1y ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 53000
+   },
+   {
+    "id": "IJ7nSHaaTgI",
+    "title": "How to Vacuum an Indoor AC Unit: Step-by-Step Guide | Animation |",
+    "meta": [
+     "332K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 332000
+   },
+   {
+    "id": "OKJqFOs0JUs",
+    "title": "How to do Pump Down in an AC unit? | Animation | #HVAC #HVACTRAINING #HVACSYSTEM",
+    "meta": [
+     "101K",
+     "1y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 101000
+   },
+   {
+    "id": "Sb8vWjjNb7k",
+    "title": "Service Valve Explained | Animation | HVAC | Air Conditioning",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 202000
+   },
+   {
+    "id": "8sNwVYuLymQ",
+    "title": "How To Clean AHU Strainer? | Animation | HVAC | HVACR | Maintenance",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 26000
+   },
+   {
+    "id": "N0ZxJQEO7jU",
+    "title": "How Strainer Works? | Y Type Strainer | Basket Strainer | Animation | HVAC",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 23000
+   },
+   {
+    "id": "Raj9gGY3mck",
+    "title": "Specific Volume Explained | Animation | #HVACR #HVAC #Thermodynamics",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 9300
+   },
+   {
+    "id": "ZKOQ1d3fLFI",
+    "title": "Specific Humidity Explained | Animation | HVAC",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "i7cnvz41qoA",
+    "title": "What is Enthalpy? | Animation | #hvacr #hvac #hvacsystem",
+    "meta": [
+     "30K",
+     "2y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 30000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Xz70fov2PnU",
+    "title": "Virtual Chiller Plant 3D Simulator | Explore & Learn HVAC Systems",
+    "meta": [
+     "874",
+     "2d ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 874
+   },
+   {
+    "id": "fNpk4aDjkPo",
+    "title": "How Chiller Plants Work | Water Cooled vs Air Cooled Chiller Explained",
+    "meta": [
+     "2.9K",
+     "3d ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 2900
+   },
+   {
+    "id": "ysy5R1icbaM",
+    "title": "VFD vs Soft Starter: What\u2019s the Difference? | HVAC Motor Control Explained | Animation | #hvac",
+    "meta": [
+     "8.8K",
+     "1mo ago"
+    ],
+    "dur": "6:43",
+    "views_tab": 8800
+   },
+   {
+    "id": "rw23Q76BQD8",
+    "title": "EER vs SEER Explained | Air Conditioner Energy Efficiency Made Simple",
+    "meta": [
+     "2.8K",
+     "2mo ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 2800
+   },
+   {
+    "id": "1lqsEc0bRAc",
+    "title": "How a Split AC Works (Interactive Simulator) | Learn Air Conditioner Working",
+    "meta": [
+     "4.6K",
+     "3mo ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 4600
+   },
+   {
+    "id": "jEReq6DcxIo",
+    "title": "How to Vacuum an AC unit with our simulator | HVAC Simulator Tutorial",
+    "meta": [
+     "3.6K",
+     "3mo ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 3600
+   },
+   {
+    "id": "SSjGsI8vusk",
+    "title": "BTU vs TR vs KW | What is the difference?",
+    "meta": [
+     "6K",
+     "4mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 6000
+   },
+   {
+    "id": "kSIE2r38UZw",
+    "title": "\ud83d\ude80 HVAC Simulators Are Here! | HVAC Vacuum Simulator| Learn HVAC the Interactive Way | Zebralearnings",
+    "meta": [
+     "4.5K",
+     "4mo ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 4500
+   },
+   {
+    "id": "h7m_ndpLkTE",
+    "title": "Why 1 TR is 12000 BTU?",
+    "meta": [
+     "1.6K",
+     "4mo ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 1600
+   },
+   {
+    "id": "3vhHRuMjupg",
+    "title": "Why 1 TR = 3.52 KW? Explained Clearly | Cooling Capacity KW",
+    "meta": [
+     "3K",
+     "4mo ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 3000
+   },
+   {
+    "id": "i0DnhsM_0fk",
+    "title": "Electrical kW vs Cooling kW \u2014 What\u2019s the Difference?",
+    "meta": [
+     "3.6K",
+     "5mo ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "BRCDIQcsV5U",
+    "title": "What is TR? | Ton Of Refrigeration Explained | #hvac",
+    "meta": [
+     "5.1K",
+     "6mo ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 5100
+   },
+   {
+    "id": "jJo91sYY03Q",
+    "title": "What is a BTU? The Secret History of Air Conditioning! | HVAC | Animation |",
+    "meta": [
+     "4.6K",
+     "7mo ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4600
+   },
+   {
+    "id": "XiPDHWW3dAA",
+    "title": "How to Do Vacuum in AC System Using Micron Gauge | Step-by-Step HVAC Tutorial | Animation",
+    "meta": [
+     "25K",
+     "11mo ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 25000
+   },
+   {
+    "id": "gAGMblg0Aqg",
+    "title": "PSIG vs PSIA | Gauge Pressure vs Absolute Pressure | HVAC Explained Simply #hvac #gauge",
+    "meta": [
+     "5.7K",
+     "1y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 5700
+   },
+   {
+    "id": "gi3O9f3G-Qs",
+    "title": "Electronic Expansion Valve | Animation | Zebra Learnings | #hvac #hvaclife #hvacsystem",
+    "meta": [
+     "7K",
+     "1y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 7000
+   },
+   {
+    "id": "dWSFQKii8FM",
+    "title": "How Scroll Compressors Work | HVAC Basics Explained | HVAC System",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "ap4yFJl8A5Y",
+    "title": "Reciprocating Compressor Explained | HVAC Basics \u2013 Zebra Learnings",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 17000
+   },
+   {
+    "id": "C-bs8GMIlfo",
+    "title": "Types of HVAC Compressors Explained | HVAC Basics with Zebra Learnings",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 26000
+   },
+   {
+    "id": "c8FCeKX-kBo",
+    "title": "How the Reversing Valve Works in a Heat Pump | HVAC Explained | Animation",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 27000
+   },
+   {
+    "id": "Tj-5Ti1oJvQ",
+    "title": "How Does a Heat Pump Work? | Heating & Cooling Explained | Animation | #HVAC #HVACSYSTEM",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 52000
+   },
+   {
+    "id": "Nr4ohCyYV2g",
+    "title": "What Is an Accumulator? | Protecting Your AC Compressor | Animation | #hvac #hvacsystem",
+    "meta": [
+     "53K",
+     "1y ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 53000
+   },
+   {
+    "id": "IJ7nSHaaTgI",
+    "title": "How to Vacuum an Indoor AC Unit: Step-by-Step Guide | Animation |",
+    "meta": [
+     "332K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 332000
+   },
+   {
+    "id": "OKJqFOs0JUs",
+    "title": "How to do Pump Down in an AC unit? | Animation | #HVAC #HVACTRAINING #HVACSYSTEM",
+    "meta": [
+     "101K",
+     "1y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 101000
+   },
+   {
+    "id": "Sb8vWjjNb7k",
+    "title": "Service Valve Explained | Animation | HVAC | Air Conditioning",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 202000
+   },
+   {
+    "id": "8sNwVYuLymQ",
+    "title": "How To Clean AHU Strainer? | Animation | HVAC | HVACR | Maintenance",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 26000
+   },
+   {
+    "id": "N0ZxJQEO7jU",
+    "title": "How Strainer Works? | Y Type Strainer | Basket Strainer | Animation | HVAC",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 23000
+   },
+   {
+    "id": "Raj9gGY3mck",
+    "title": "Specific Volume Explained | Animation | #HVACR #HVAC #Thermodynamics",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 9300
+   },
+   {
+    "id": "ZKOQ1d3fLFI",
+    "title": "Specific Humidity Explained | Animation | HVAC",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "i7cnvz41qoA",
+    "title": "What is Enthalpy? | Animation | #hvacr #hvac #hvacsystem",
+    "meta": [
+     "30K",
+     "2y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 30000
+   },
+   {
+    "id": "xH0hrdj4YZ0",
+    "title": "Centrifugal Separator Explained | Animation | #HVAC #HVACR #HVACSYSTEM",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 11000
+   },
+   {
+    "id": "AS_M8Iu3rWg",
+    "title": "Wet Bulb Temperature Explained | Animation | #hvac #hvactraining #hvacsystem #hvacr",
+    "meta": [
+     "94K",
+     "2y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 94000
+   },
+   {
+    "id": "Dps5vBOMPq4",
+    "title": "Dew Point Temperature Explained | Animation | #hvac  #hvacsystem",
+    "meta": [
+     "119K",
+     "2y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 119000
+   },
+   {
+    "id": "0Qd9j_SFuwg",
+    "title": "Absolute Humidity vs Relative Humidity | Animation | #HVAC #hvacsystem",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 84000
+   },
+   {
+    "id": "t8c91N5pfeU",
+    "title": "Humidity Explained | Animation | #HVAC",
+    "meta": [
+     "320K",
+     "2y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 320000
+   },
+   {
+    "id": "FX_1h3XkN84",
+    "title": "Nitrogen Leak Test | How to do? | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "101K",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 101000
+   },
+   {
+    "id": "pJ-FlABM6OE",
+    "title": "Types of Heat Transfer | Conduction | Convection | Radiation | #hvac  | Animation | #hvactraining",
+    "meta": [
+     "47K",
+     "2y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 47000
+   },
+   {
+    "id": "STkDRoaTfPs",
+    "title": "Latent Heat and Sensible Heat Explained | Humidity | Animation | #hvac #hvacsystem  #hvacmaintenance",
+    "meta": [
+     "116K",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 116000
+   },
+   {
+    "id": "FSt7A4vYUWw",
+    "title": "Chiller Load Calculation Breakdown | Explanation | Animation | #hvac #hvacsystem #hvacmaintenance",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 12000
+   },
+   {
+    "id": "eZNWgK17aww",
+    "title": "CCU | PAC | Precision Air Conditioning | Closed Control Unit | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 44000
+   },
+   {
+    "id": "gD8aQ9SRzN8",
+    "title": "Heat Capacity vs Specific Heat Capacity | Animation | HVAC | Thermodynamics | Heat and Mass Transfer",
+    "meta": [
+     "8.2K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 8200
+   },
+   {
+    "id": "GN-CG7V59cs",
+    "title": "What is Primary and Secondary Pump? Explained | Animation | #hvac #hvacsystem",
+    "meta": [
+     "85K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 85000
+   },
+   {
+    "id": "DD8YBcwejLE",
+    "title": "Split AC Working Principle | Animation | #hvac #hvacsystem #hvacmaintenance #hvactraining",
+    "meta": [
+     "92K",
+     "2y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 92000
+   },
+   {
+    "id": "_IGi3ZFkdYM",
+    "title": "Flow Rate Units | GPM | M\u00b3/Minute | Liters/Second | Animation | #hvac #hvacsystem #hvactraining",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 18000
+   },
+   {
+    "id": "XwEwOtzK0Tw",
+    "title": "How to find Chiller Approach? | Evaporator and Condenser Approach | Animation | #hvac #hvacsystem",
+    "meta": [
+     "57K",
+     "2y ago"
+    ],
+    "dur": "10:17",
+    "views_tab": 57000
+   },
+   {
+    "id": "jiFNkTyxZa0",
+    "title": "COP | Chiller Efficiency Calculation | Coefficient Of Performance | Animation | #hvac #hvacsystem",
+    "meta": [
+     "43K",
+     "2y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 43000
+   },
+   {
+    "id": "EQBEY4ZxbHk",
+    "title": "How to convert Celsius to Fahrenheit? | Don't make this mistake | HVAC | Zebra Learnings",
+    "meta": [
+     "9.5K",
+     "2y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 9500
+   },
+   {
+    "id": "rSS76OPU_ic",
+    "title": "Chiller Load Calculation | Load Capacity | Animation | #hvac #hvacsystem #hvacmaintenance",
+    "meta": [
+     "79K",
+     "2y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 79000
+   },
+   {
+    "id": "xSb0tOeAhkI",
+    "title": "BTU Meter Explained | How it works? | Animation | #hvac #hvacmaintenance #hvactraining #hvacsystem",
+    "meta": [
+     "61K",
+     "2y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 61000
+   },
+   {
+    "id": "mY9FhDfj-lI",
+    "title": "Two Way Valve and Three Way Valve Detailed Explanation | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "78K",
+     "2y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 78000
+   },
+   {
+    "id": "ifHOCacmMiA",
+    "title": "PICV Explained | Actuator | Pressure Independent Control Valve | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "63K",
+     "2y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 63000
+   },
+   {
+    "id": "moDplf7BHho",
+    "title": "What is Saturation temperature? | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 44000
+   },
+   {
+    "id": "O0GKDSaXtJA",
+    "title": "Top 10 largest AC company | Animation |",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 5600
+   },
+   {
+    "id": "difbr3CZkD4",
+    "title": "What is Thermal Wheel or Heat Recovery Wheel? | FAHU | ERU | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 36000
+   },
+   {
+    "id": "ZmcfP0qKS8A",
+    "title": "What is FAHU or ERU? | Fresh Air Handling Unit | Energy Recovery Unit | Animation | #hvac",
+    "meta": [
+     "61K",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 61000
+   },
+   {
+    "id": "aLG0batzkaE",
+    "title": "What is FCU? | Fan Coil Unit | #hvacmaintenance #hvactraining #hvac",
+    "meta": [
+     "93K",
+     "2y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 93000
+   },
+   {
+    "id": "KvshA5jxIy8",
+    "title": "Air-Cooled Chiller Working Principle | Animation | #hvactraining #hvacmaintenance",
+    "meta": [
+     "103K",
+     "2y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 103000
+   },
+   {
+    "id": "t57YNUanfqI",
+    "title": "How to find refrigerant leak in Air Conditioner? | 3 ways to find Refrigerant leak | Animation |",
+    "meta": [
+     "24K",
+     "2y ago"
+    ],
+    "dur": "2:48",
+    "views_tab": 24000
+   },
+   {
+    "id": "HS6-eCXZSe4",
+    "title": "Troubleshooting Low Refrigerant Levels in AC: Common Signs and Solutions. #hvacmaintenance",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 17000
+   },
+   {
+    "id": "paEagjWvsGw",
+    "title": "How to clean evaporator coil? | Animation | #hvacmaintenance #hvactraining",
+    "meta": [
+     "9.5K",
+     "2y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 9500
+   },
+   {
+    "id": "9rI-YT1heRo",
+    "title": "How to clean AC filter | Do it Yourself | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 9000
+   },
+   {
+    "id": "sOIkz_-9LLM",
+    "title": "Frozen Evaporator | Reason and Solution | Animation | HVAC | #hvacmaintenance #hvactraining",
+    "meta": [
+     "86K",
+     "2y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 86000
+   },
+   {
+    "id": "yEzCvjQ2sNY",
+    "title": "Chiller Plant Working Principle by Truck Experiment | Animation | HVAC |",
+    "meta": [
+     "493K",
+     "3y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 493000
+   },
+   {
+    "id": "V2bXvPvwHTg",
+    "title": "Refrigerant Pressure Details | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 48000
+   },
+   {
+    "id": "ssE4ZblLedo",
+    "title": "How to Recover Refrigerant from an AC unit? | Animation | #hvactraining #hvacmaintenance #hvac",
+    "meta": [
+     "205K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 205000
+   },
+   {
+    "id": "YpnQUqJLeVA",
+    "title": "How to Charge Refrigerant (Gas) in an AC unit?",
+    "meta": [
+     "493K",
+     "3y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 493000
+   },
+   {
+    "id": "DOvFAuUyaXY",
+    "title": "How to Check AC Gas (Refrigerant) Pressure? | Animation | HVAC",
+    "meta": [
+     "133K",
+     "3y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 133000
+   },
+   {
+    "id": "muL6BcdVB2A",
+    "title": "How Manifold Gauge Works? | Refrigerant Pressure Gauge | Animation | HVAC",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 179000
+   },
+   {
+    "id": "YXKYgkuGbBg",
+    "title": "Split AC Wiring Diagram | Animation | HVAC | Electrical",
+    "meta": [
+     "109K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 109000
+   },
+   {
+    "id": "QYeJKFHy3o8",
+    "title": "Contactor Wiring Diagram | Animation | HVAC | Electrical",
+    "meta": [
+     "42K",
+     "3y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 42000
+   },
+   {
+    "id": "eHfHEXLJ_Bs",
+    "title": "What is Contactor? | HVAC | Electrical | Animation",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 53000
+   },
+   {
+    "id": "0ExLspcm4-g",
+    "title": "Split AC Capacitor Wiring Diagram | Dual Capacitor | HVAC | Electrical",
+    "meta": [
+     "132K",
+     "3y ago"
+    ],
+    "dur": "2:14",
+    "views_tab": 132000
+   },
+   {
+    "id": "2xM5yBfjsgA",
+    "title": "Ceiling Fan Capacitor wiring diagram | Animation | HVAC | Eletcrical",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 33000
+   },
+   {
+    "id": "YcS4PuRg7lw",
+    "title": "How to check Capacitor with Multimeter | Animation | HVAC | Electrical",
+    "meta": [
+     "40K",
+     "3y ago"
+    ],
+    "dur": "3:04",
+    "views_tab": 40000
+   },
+   {
+    "id": "aldSaj8MTpw",
+    "title": "What is Run Capacitor? | Animation | HVAC | Electrical",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 58000
+   },
+   {
+    "id": "JcRHNL9r0LQ",
+    "title": "What is Start Capacitor? | Animation | HVAC | Electrical",
+    "meta": [
+     "89K",
+     "3y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 89000
+   },
+   {
+    "id": "rwMFE0W_dnc",
+    "title": "How to calculate bricks for a wall | Animation |",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 1400
+   },
+   {
+    "id": "-WY3eJKotrE",
+    "title": "What is Superheat and Subcooling | Animation |#superheat #subcooling #hvac #chiller #thermodynamics",
+    "meta": [
+     "242K",
+     "3y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 242000
+   },
+   {
+    "id": "4vpmztdNY6o",
+    "title": "Refrigeration Cycle | Vapor Compression Cycle | Animation | #Refrigerationcycle #HVAC",
+    "meta": [
+     "480K",
+     "3y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 480000
+   },
+   {
+    "id": "FMDE67MQUP4",
+    "title": "What is VRV and VRF? | Animation| #HVAC #VRF #VRV #VariableRefrigerantFlow#VariableRefrigerantVolume",
+    "meta": [
+     "369K",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 369000
+   },
+   {
+    "id": "7zkCRKIZQ_g",
+    "title": "What is Inverter AC? | Animation | HVAC | #inverterac | #AirConditioning | #InverterCompressor",
+    "meta": [
+     "103K",
+     "3y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 103000
+   },
+   {
+    "id": "UWFVvLNfknE",
+    "title": "What is refrigerant? | Animation | HVAC | Refrigeration",
+    "meta": [
+     "81K",
+     "3y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 81000
+   },
+   {
+    "id": "DlJPCgnqfSY",
+    "title": "TXV | Thermal Expansion Valve | Animation | HVAC |",
+    "meta": [
+     "210K",
+     "3y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 210000
+   },
+   {
+    "id": "MTeWsJDBLKk",
+    "title": "What is Condenser? | English | Animation | HVAC | Chiller |",
+    "meta": [
+     "126K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 126000
+   },
+   {
+    "id": "Y1Ph07ZWKv4",
+    "title": "What is Evaporator? | English | Animation | HVAC | Chiller |",
+    "meta": [
+     "87K",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 87000
+   },
+   {
+    "id": "ya1BSeBBD4U",
+    "title": "What is HVAC? | English | Animation",
+    "meta": [
+     "193K",
+     "3y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 193000
+   },
+   {
+    "id": "IhfvLBI1VMQ",
+    "title": "What is Chiller Surge? | English | Animation | HVAC",
+    "meta": [
+     "31K",
+     "3y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 31000
+   },
+   {
+    "id": "tPEjYj-xiVM",
+    "title": "Easily Understand Chiller Working Principle by Balloon Experiment | English | Animation | HVAC",
+    "meta": [
+     "42K",
+     "3y ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 42000
+   },
+   {
+    "id": "HAxv0T3NVe4",
+    "title": "Chiller working principle | English | Animation | HVAC",
+    "meta": [
+     "253K",
+     "3y ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 253000
+   },
+   {
+    "id": "EjCBc5gl31o",
+    "title": "AHU working Principle | English | Animation",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 179000
+   },
+   {
+    "id": "GdFuAA68Pw0",
+    "title": "Cooling Tower working principle | English | Animation",
+    "meta": [
+     "76K",
+     "3y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 76000
+   },
+   {
+    "id": "ASHRVx3tkDY",
+    "title": "Working Principle of Chiller Plant | Animation | English",
+    "meta": [
+     "752K",
+     "3y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 752000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "ASHRVx3tkDY",
+    "title": "Working Principle of Chiller Plant | Animation | English",
+    "meta": [
+     "752K",
+     "3y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 752000
+   },
+   {
+    "id": "YpnQUqJLeVA",
+    "title": "How to Charge Refrigerant (Gas) in an AC unit?",
+    "meta": [
+     "493K",
+     "3y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 493000
+   },
+   {
+    "id": "yEzCvjQ2sNY",
+    "title": "Chiller Plant Working Principle by Truck Experiment | Animation | HVAC |",
+    "meta": [
+     "493K",
+     "3y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 493000
+   },
+   {
+    "id": "4vpmztdNY6o",
+    "title": "Refrigeration Cycle | Vapor Compression Cycle | Animation | #Refrigerationcycle #HVAC",
+    "meta": [
+     "480K",
+     "3y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 480000
+   },
+   {
+    "id": "FMDE67MQUP4",
+    "title": "What is VRV and VRF? | Animation| #HVAC #VRF #VRV #VariableRefrigerantFlow#VariableRefrigerantVolume",
+    "meta": [
+     "369K",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 369000
+   },
+   {
+    "id": "IJ7nSHaaTgI",
+    "title": "How to Vacuum an Indoor AC Unit: Step-by-Step Guide | Animation |",
+    "meta": [
+     "332K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 332000
+   },
+   {
+    "id": "t8c91N5pfeU",
+    "title": "Humidity Explained | Animation | #HVAC",
+    "meta": [
+     "320K",
+     "2y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 320000
+   },
+   {
+    "id": "HAxv0T3NVe4",
+    "title": "Chiller working principle | English | Animation | HVAC",
+    "meta": [
+     "253K",
+     "3y ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 253000
+   },
+   {
+    "id": "-WY3eJKotrE",
+    "title": "What is Superheat and Subcooling | Animation |#superheat #subcooling #hvac #chiller #thermodynamics",
+    "meta": [
+     "242K",
+     "3y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 242000
+   },
+   {
+    "id": "DlJPCgnqfSY",
+    "title": "TXV | Thermal Expansion Valve | Animation | HVAC |",
+    "meta": [
+     "210K",
+     "3y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 210000
+   },
+   {
+    "id": "ssE4ZblLedo",
+    "title": "How to Recover Refrigerant from an AC unit? | Animation | #hvactraining #hvacmaintenance #hvac",
+    "meta": [
+     "205K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 205000
+   },
+   {
+    "id": "Sb8vWjjNb7k",
+    "title": "Service Valve Explained | Animation | HVAC | Air Conditioning",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 202000
+   },
+   {
+    "id": "ya1BSeBBD4U",
+    "title": "What is HVAC? | English | Animation",
+    "meta": [
+     "193K",
+     "3y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 193000
+   },
+   {
+    "id": "muL6BcdVB2A",
+    "title": "How Manifold Gauge Works? | Refrigerant Pressure Gauge | Animation | HVAC",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 179000
+   },
+   {
+    "id": "EjCBc5gl31o",
+    "title": "AHU working Principle | English | Animation",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 179000
+   },
+   {
+    "id": "DOvFAuUyaXY",
+    "title": "How to Check AC Gas (Refrigerant) Pressure? | Animation | HVAC",
+    "meta": [
+     "133K",
+     "3y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 133000
+   },
+   {
+    "id": "0ExLspcm4-g",
+    "title": "Split AC Capacitor Wiring Diagram | Dual Capacitor | HVAC | Electrical",
+    "meta": [
+     "132K",
+     "3y ago"
+    ],
+    "dur": "2:14",
+    "views_tab": 132000
+   },
+   {
+    "id": "MTeWsJDBLKk",
+    "title": "What is Condenser? | English | Animation | HVAC | Chiller |",
+    "meta": [
+     "126K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 126000
+   },
+   {
+    "id": "Dps5vBOMPq4",
+    "title": "Dew Point Temperature Explained | Animation | #hvac  #hvacsystem",
+    "meta": [
+     "119K",
+     "2y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 119000
+   },
+   {
+    "id": "STkDRoaTfPs",
+    "title": "Latent Heat and Sensible Heat Explained | Humidity | Animation | #hvac #hvacsystem  #hvacmaintenance",
+    "meta": [
+     "116K",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 116000
+   },
+   {
+    "id": "YXKYgkuGbBg",
+    "title": "Split AC Wiring Diagram | Animation | HVAC | Electrical",
+    "meta": [
+     "109K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 109000
+   },
+   {
+    "id": "7zkCRKIZQ_g",
+    "title": "What is Inverter AC? | Animation | HVAC | #inverterac | #AirConditioning | #InverterCompressor",
+    "meta": [
+     "103K",
+     "3y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 103000
+   },
+   {
+    "id": "KvshA5jxIy8",
+    "title": "Air-Cooled Chiller Working Principle | Animation | #hvactraining #hvacmaintenance",
+    "meta": [
+     "103K",
+     "2y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 103000
+   },
+   {
+    "id": "OKJqFOs0JUs",
+    "title": "How to do Pump Down in an AC unit? | Animation | #HVAC #HVACTRAINING #HVACSYSTEM",
+    "meta": [
+     "101K",
+     "1y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 101000
+   },
+   {
+    "id": "FX_1h3XkN84",
+    "title": "Nitrogen Leak Test | How to do? | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "101K",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 101000
+   },
+   {
+    "id": "AS_M8Iu3rWg",
+    "title": "Wet Bulb Temperature Explained | Animation | #hvac #hvactraining #hvacsystem #hvacr",
+    "meta": [
+     "94K",
+     "2y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 94000
+   },
+   {
+    "id": "aLG0batzkaE",
+    "title": "What is FCU? | Fan Coil Unit | #hvacmaintenance #hvactraining #hvac",
+    "meta": [
+     "93K",
+     "2y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 93000
+   },
+   {
+    "id": "DD8YBcwejLE",
+    "title": "Split AC Working Principle | Animation | #hvac #hvacsystem #hvacmaintenance #hvactraining",
+    "meta": [
+     "92K",
+     "2y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 92000
+   },
+   {
+    "id": "JcRHNL9r0LQ",
+    "title": "What is Start Capacitor? | Animation | HVAC | Electrical",
+    "meta": [
+     "89K",
+     "3y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 89000
+   },
+   {
+    "id": "Y1Ph07ZWKv4",
+    "title": "What is Evaporator? | English | Animation | HVAC | Chiller |",
+    "meta": [
+     "87K",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 87000
+   },
+   {
+    "id": "sOIkz_-9LLM",
+    "title": "Frozen Evaporator | Reason and Solution | Animation | HVAC | #hvacmaintenance #hvactraining",
+    "meta": [
+     "86K",
+     "2y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 86000
+   },
+   {
+    "id": "GN-CG7V59cs",
+    "title": "What is Primary and Secondary Pump? Explained | Animation | #hvac #hvacsystem",
+    "meta": [
+     "85K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 85000
+   },
+   {
+    "id": "0Qd9j_SFuwg",
+    "title": "Absolute Humidity vs Relative Humidity | Animation | #HVAC #hvacsystem",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 84000
+   },
+   {
+    "id": "UWFVvLNfknE",
+    "title": "What is refrigerant? | Animation | HVAC | Refrigeration",
+    "meta": [
+     "81K",
+     "3y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 81000
+   },
+   {
+    "id": "rSS76OPU_ic",
+    "title": "Chiller Load Calculation | Load Capacity | Animation | #hvac #hvacsystem #hvacmaintenance",
+    "meta": [
+     "79K",
+     "2y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 79000
+   },
+   {
+    "id": "mY9FhDfj-lI",
+    "title": "Two Way Valve and Three Way Valve Detailed Explanation | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "78K",
+     "2y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 78000
+   },
+   {
+    "id": "GdFuAA68Pw0",
+    "title": "Cooling Tower working principle | English | Animation",
+    "meta": [
+     "76K",
+     "3y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 76000
+   },
+   {
+    "id": "ifHOCacmMiA",
+    "title": "PICV Explained | Actuator | Pressure Independent Control Valve | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "63K",
+     "2y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 63000
+   },
+   {
+    "id": "ZmcfP0qKS8A",
+    "title": "What is FAHU or ERU? | Fresh Air Handling Unit | Energy Recovery Unit | Animation | #hvac",
+    "meta": [
+     "61K",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 61000
+   },
+   {
+    "id": "xSb0tOeAhkI",
+    "title": "BTU Meter Explained | How it works? | Animation | #hvac #hvacmaintenance #hvactraining #hvacsystem",
+    "meta": [
+     "61K",
+     "2y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 61000
+   },
+   {
+    "id": "aldSaj8MTpw",
+    "title": "What is Run Capacitor? | Animation | HVAC | Electrical",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 58000
+   },
+   {
+    "id": "XwEwOtzK0Tw",
+    "title": "How to find Chiller Approach? | Evaporator and Condenser Approach | Animation | #hvac #hvacsystem",
+    "meta": [
+     "57K",
+     "2y ago"
+    ],
+    "dur": "10:17",
+    "views_tab": 57000
+   },
+   {
+    "id": "Nr4ohCyYV2g",
+    "title": "What Is an Accumulator? | Protecting Your AC Compressor | Animation | #hvac #hvacsystem",
+    "meta": [
+     "53K",
+     "1y ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 53000
+   },
+   {
+    "id": "eHfHEXLJ_Bs",
+    "title": "What is Contactor? | HVAC | Electrical | Animation",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 53000
+   },
+   {
+    "id": "Tj-5Ti1oJvQ",
+    "title": "How Does a Heat Pump Work? | Heating & Cooling Explained | Animation | #HVAC #HVACSYSTEM",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 52000
+   },
+   {
+    "id": "V2bXvPvwHTg",
+    "title": "Refrigerant Pressure Details | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 48000
+   },
+   {
+    "id": "pJ-FlABM6OE",
+    "title": "Types of Heat Transfer | Conduction | Convection | Radiation | #hvac  | Animation | #hvactraining",
+    "meta": [
+     "47K",
+     "2y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 47000
+   },
+   {
+    "id": "moDplf7BHho",
+    "title": "What is Saturation temperature? | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 44000
+   },
+   {
+    "id": "eZNWgK17aww",
+    "title": "CCU | PAC | Precision Air Conditioning | Closed Control Unit | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 44000
+   },
+   {
+    "id": "jiFNkTyxZa0",
+    "title": "COP | Chiller Efficiency Calculation | Coefficient Of Performance | Animation | #hvac #hvacsystem",
+    "meta": [
+     "43K",
+     "2y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 43000
+   },
+   {
+    "id": "QYeJKFHy3o8",
+    "title": "Contactor Wiring Diagram | Animation | HVAC | Electrical",
+    "meta": [
+     "42K",
+     "3y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 42000
+   },
+   {
+    "id": "tPEjYj-xiVM",
+    "title": "Easily Understand Chiller Working Principle by Balloon Experiment | English | Animation | HVAC",
+    "meta": [
+     "42K",
+     "3y ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 42000
+   },
+   {
+    "id": "YcS4PuRg7lw",
+    "title": "How to check Capacitor with Multimeter | Animation | HVAC | Electrical",
+    "meta": [
+     "40K",
+     "3y ago"
+    ],
+    "dur": "3:04",
+    "views_tab": 40000
+   },
+   {
+    "id": "difbr3CZkD4",
+    "title": "What is Thermal Wheel or Heat Recovery Wheel? | FAHU | ERU | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 36000
+   },
+   {
+    "id": "2xM5yBfjsgA",
+    "title": "Ceiling Fan Capacitor wiring diagram | Animation | HVAC | Eletcrical",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 33000
+   },
+   {
+    "id": "IhfvLBI1VMQ",
+    "title": "What is Chiller Surge? | English | Animation | HVAC",
+    "meta": [
+     "31K",
+     "3y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 31000
+   },
+   {
+    "id": "i7cnvz41qoA",
+    "title": "What is Enthalpy? | Animation | #hvacr #hvac #hvacsystem",
+    "meta": [
+     "30K",
+     "2y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 30000
+   },
+   {
+    "id": "c8FCeKX-kBo",
+    "title": "How the Reversing Valve Works in a Heat Pump | HVAC Explained | Animation",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 27000
+   },
+   {
+    "id": "8sNwVYuLymQ",
+    "title": "How To Clean AHU Strainer? | Animation | HVAC | HVACR | Maintenance",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 26000
+   },
+   {
+    "id": "C-bs8GMIlfo",
+    "title": "Types of HVAC Compressors Explained | HVAC Basics with Zebra Learnings",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 26000
+   },
+   {
+    "id": "XiPDHWW3dAA",
+    "title": "How to Do Vacuum in AC System Using Micron Gauge | Step-by-Step HVAC Tutorial | Animation",
+    "meta": [
+     "25K",
+     "11mo ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 25000
+   },
+   {
+    "id": "t57YNUanfqI",
+    "title": "How to find refrigerant leak in Air Conditioner? | 3 ways to find Refrigerant leak | Animation |",
+    "meta": [
+     "24K",
+     "2y ago"
+    ],
+    "dur": "2:48",
+    "views_tab": 24000
+   },
+   {
+    "id": "N0ZxJQEO7jU",
+    "title": "How Strainer Works? | Y Type Strainer | Basket Strainer | Animation | HVAC",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 23000
+   },
+   {
+    "id": "_IGi3ZFkdYM",
+    "title": "Flow Rate Units | GPM | M\u00b3/Minute | Liters/Second | Animation | #hvac #hvacsystem #hvactraining",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 18000
+   },
+   {
+    "id": "HS6-eCXZSe4",
+    "title": "Troubleshooting Low Refrigerant Levels in AC: Common Signs and Solutions. #hvacmaintenance",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 17000
+   },
+   {
+    "id": "ap4yFJl8A5Y",
+    "title": "Reciprocating Compressor Explained | HVAC Basics \u2013 Zebra Learnings",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 17000
+   },
+   {
+    "id": "dWSFQKii8FM",
+    "title": "How Scroll Compressors Work | HVAC Basics Explained | HVAC System",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "ZKOQ1d3fLFI",
+    "title": "Specific Humidity Explained | Animation | HVAC",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "FSt7A4vYUWw",
+    "title": "Chiller Load Calculation Breakdown | Explanation | Animation | #hvac #hvacsystem #hvacmaintenance",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 12000
+   },
+   {
+    "id": "xH0hrdj4YZ0",
+    "title": "Centrifugal Separator Explained | Animation | #HVAC #HVACR #HVACSYSTEM",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 11000
+   },
+   {
+    "id": "EQBEY4ZxbHk",
+    "title": "How to convert Celsius to Fahrenheit? | Don't make this mistake | HVAC | Zebra Learnings",
+    "meta": [
+     "9.5K",
+     "2y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 9500
+   },
+   {
+    "id": "paEagjWvsGw",
+    "title": "How to clean evaporator coil? | Animation | #hvacmaintenance #hvactraining",
+    "meta": [
+     "9.5K",
+     "2y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 9500
+   },
+   {
+    "id": "Raj9gGY3mck",
+    "title": "Specific Volume Explained | Animation | #HVACR #HVAC #Thermodynamics",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 9300
+   },
+   {
+    "id": "9rI-YT1heRo",
+    "title": "How to clean AC filter | Do it Yourself | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 9000
+   },
+   {
+    "id": "ysy5R1icbaM",
+    "title": "VFD vs Soft Starter: What\u2019s the Difference? | HVAC Motor Control Explained | Animation | #hvac",
+    "meta": [
+     "8.8K",
+     "1mo ago"
+    ],
+    "dur": "6:43",
+    "views_tab": 8800
+   },
+   {
+    "id": "gD8aQ9SRzN8",
+    "title": "Heat Capacity vs Specific Heat Capacity | Animation | HVAC | Thermodynamics | Heat and Mass Transfer",
+    "meta": [
+     "8.2K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 8200
+   },
+   {
+    "id": "gi3O9f3G-Qs",
+    "title": "Electronic Expansion Valve | Animation | Zebra Learnings | #hvac #hvaclife #hvacsystem",
+    "meta": [
+     "7K",
+     "1y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 7000
+   },
+   {
+    "id": "SSjGsI8vusk",
+    "title": "BTU vs TR vs KW | What is the difference?",
+    "meta": [
+     "6K",
+     "4mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 6000
+   },
+   {
+    "id": "gAGMblg0Aqg",
+    "title": "PSIG vs PSIA | Gauge Pressure vs Absolute Pressure | HVAC Explained Simply #hvac #gauge",
+    "meta": [
+     "5.7K",
+     "1y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 5700
+   },
+   {
+    "id": "O0GKDSaXtJA",
+    "title": "Top 10 largest AC company | Animation |",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 5600
+   },
+   {
+    "id": "BRCDIQcsV5U",
+    "title": "What is TR? | Ton Of Refrigeration Explained | #hvac",
+    "meta": [
+     "5.1K",
+     "6mo ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 5100
+   },
+   {
+    "id": "jJo91sYY03Q",
+    "title": "What is a BTU? The Secret History of Air Conditioning! | HVAC | Animation |",
+    "meta": [
+     "4.6K",
+     "7mo ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4600
+   },
+   {
+    "id": "1lqsEc0bRAc",
+    "title": "How a Split AC Works (Interactive Simulator) | Learn Air Conditioner Working",
+    "meta": [
+     "4.6K",
+     "3mo ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 4600
+   },
+   {
+    "id": "kSIE2r38UZw",
+    "title": "\ud83d\ude80 HVAC Simulators Are Here! | HVAC Vacuum Simulator| Learn HVAC the Interactive Way | Zebralearnings",
+    "meta": [
+     "4.5K",
+     "4mo ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 4500
+   },
+   {
+    "id": "jEReq6DcxIo",
+    "title": "How to Vacuum an AC unit with our simulator | HVAC Simulator Tutorial",
+    "meta": [
+     "3.6K",
+     "3mo ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 3600
+   },
+   {
+    "id": "i0DnhsM_0fk",
+    "title": "Electrical kW vs Cooling kW \u2014 What\u2019s the Difference?",
+    "meta": [
+     "3.6K",
+     "5mo ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "3vhHRuMjupg",
+    "title": "Why 1 TR = 3.52 KW? Explained Clearly | Cooling Capacity KW",
+    "meta": [
+     "3K",
+     "4mo ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 3000
+   },
+   {
+    "id": "fNpk4aDjkPo",
+    "title": "How Chiller Plants Work | Water Cooled vs Air Cooled Chiller Explained",
+    "meta": [
+     "2.9K",
+     "3d ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 2900
+   },
+   {
+    "id": "rw23Q76BQD8",
+    "title": "EER vs SEER Explained | Air Conditioner Energy Efficiency Made Simple",
+    "meta": [
+     "2.8K",
+     "2mo ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 2800
+   },
+   {
+    "id": "h7m_ndpLkTE",
+    "title": "Why 1 TR is 12000 BTU?",
+    "meta": [
+     "1.6K",
+     "4mo ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 1600
+   },
+   {
+    "id": "rwMFE0W_dnc",
+    "title": "How to calculate bricks for a wall | Animation |",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 1400
+   },
+   {
+    "id": "Xz70fov2PnU",
+    "title": "Virtual Chiller Plant 3D Simulator | Explore & Learn HVAC Systems",
+    "meta": [
+     "874",
+     "2d ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 874
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "ASHRVx3tkDY",
+    "title": "Working Principle of Chiller Plant | Animation | English",
+    "meta": [
+     "752K",
+     "3y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 752000
+   },
+   {
+    "id": "GdFuAA68Pw0",
+    "title": "Cooling Tower working principle | English | Animation",
+    "meta": [
+     "76K",
+     "3y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 76000
+   },
+   {
+    "id": "EjCBc5gl31o",
+    "title": "AHU working Principle | English | Animation",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 179000
+   },
+   {
+    "id": "HAxv0T3NVe4",
+    "title": "Chiller working principle | English | Animation | HVAC",
+    "meta": [
+     "253K",
+     "3y ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 253000
+   },
+   {
+    "id": "tPEjYj-xiVM",
+    "title": "Easily Understand Chiller Working Principle by Balloon Experiment | English | Animation | HVAC",
+    "meta": [
+     "42K",
+     "3y ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 42000
+   },
+   {
+    "id": "IhfvLBI1VMQ",
+    "title": "What is Chiller Surge? | English | Animation | HVAC",
+    "meta": [
+     "31K",
+     "3y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 31000
+   },
+   {
+    "id": "ya1BSeBBD4U",
+    "title": "What is HVAC? | English | Animation",
+    "meta": [
+     "193K",
+     "3y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 193000
+   },
+   {
+    "id": "Y1Ph07ZWKv4",
+    "title": "What is Evaporator? | English | Animation | HVAC | Chiller |",
+    "meta": [
+     "87K",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 87000
+   },
+   {
+    "id": "MTeWsJDBLKk",
+    "title": "What is Condenser? | English | Animation | HVAC | Chiller |",
+    "meta": [
+     "126K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 126000
+   },
+   {
+    "id": "DlJPCgnqfSY",
+    "title": "TXV | Thermal Expansion Valve | Animation | HVAC |",
+    "meta": [
+     "210K",
+     "3y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 210000
+   },
+   {
+    "id": "UWFVvLNfknE",
+    "title": "What is refrigerant? | Animation | HVAC | Refrigeration",
+    "meta": [
+     "81K",
+     "3y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 81000
+   },
+   {
+    "id": "7zkCRKIZQ_g",
+    "title": "What is Inverter AC? | Animation | HVAC | #inverterac | #AirConditioning | #InverterCompressor",
+    "meta": [
+     "103K",
+     "3y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 103000
+   },
+   {
+    "id": "FMDE67MQUP4",
+    "title": "What is VRV and VRF? | Animation| #HVAC #VRF #VRV #VariableRefrigerantFlow#VariableRefrigerantVolume",
+    "meta": [
+     "369K",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 369000
+   },
+   {
+    "id": "4vpmztdNY6o",
+    "title": "Refrigeration Cycle | Vapor Compression Cycle | Animation | #Refrigerationcycle #HVAC",
+    "meta": [
+     "480K",
+     "3y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 480000
+   },
+   {
+    "id": "-WY3eJKotrE",
+    "title": "What is Superheat and Subcooling | Animation |#superheat #subcooling #hvac #chiller #thermodynamics",
+    "meta": [
+     "242K",
+     "3y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 242000
+   },
+   {
+    "id": "rwMFE0W_dnc",
+    "title": "How to calculate bricks for a wall | Animation |",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 1400
+   },
+   {
+    "id": "JcRHNL9r0LQ",
+    "title": "What is Start Capacitor? | Animation | HVAC | Electrical",
+    "meta": [
+     "89K",
+     "3y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 89000
+   },
+   {
+    "id": "aldSaj8MTpw",
+    "title": "What is Run Capacitor? | Animation | HVAC | Electrical",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 58000
+   },
+   {
+    "id": "YcS4PuRg7lw",
+    "title": "How to check Capacitor with Multimeter | Animation | HVAC | Electrical",
+    "meta": [
+     "40K",
+     "3y ago"
+    ],
+    "dur": "3:04",
+    "views_tab": 40000
+   },
+   {
+    "id": "2xM5yBfjsgA",
+    "title": "Ceiling Fan Capacitor wiring diagram | Animation | HVAC | Eletcrical",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 33000
+   },
+   {
+    "id": "0ExLspcm4-g",
+    "title": "Split AC Capacitor Wiring Diagram | Dual Capacitor | HVAC | Electrical",
+    "meta": [
+     "132K",
+     "3y ago"
+    ],
+    "dur": "2:14",
+    "views_tab": 132000
+   },
+   {
+    "id": "eHfHEXLJ_Bs",
+    "title": "What is Contactor? | HVAC | Electrical | Animation",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 53000
+   },
+   {
+    "id": "QYeJKFHy3o8",
+    "title": "Contactor Wiring Diagram | Animation | HVAC | Electrical",
+    "meta": [
+     "42K",
+     "3y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 42000
+   },
+   {
+    "id": "YXKYgkuGbBg",
+    "title": "Split AC Wiring Diagram | Animation | HVAC | Electrical",
+    "meta": [
+     "109K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 109000
+   },
+   {
+    "id": "muL6BcdVB2A",
+    "title": "How Manifold Gauge Works? | Refrigerant Pressure Gauge | Animation | HVAC",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 179000
+   },
+   {
+    "id": "DOvFAuUyaXY",
+    "title": "How to Check AC Gas (Refrigerant) Pressure? | Animation | HVAC",
+    "meta": [
+     "133K",
+     "3y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 133000
+   },
+   {
+    "id": "YpnQUqJLeVA",
+    "title": "How to Charge Refrigerant (Gas) in an AC unit?",
+    "meta": [
+     "493K",
+     "3y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 493000
+   },
+   {
+    "id": "ssE4ZblLedo",
+    "title": "How to Recover Refrigerant from an AC unit? | Animation | #hvactraining #hvacmaintenance #hvac",
+    "meta": [
+     "205K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 205000
+   },
+   {
+    "id": "V2bXvPvwHTg",
+    "title": "Refrigerant Pressure Details | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 48000
+   },
+   {
+    "id": "yEzCvjQ2sNY",
+    "title": "Chiller Plant Working Principle by Truck Experiment | Animation | HVAC |",
+    "meta": [
+     "493K",
+     "3y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 493000
+   },
+   {
+    "id": "sOIkz_-9LLM",
+    "title": "Frozen Evaporator | Reason and Solution | Animation | HVAC | #hvacmaintenance #hvactraining",
+    "meta": [
+     "86K",
+     "2y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 86000
+   },
+   {
+    "id": "9rI-YT1heRo",
+    "title": "How to clean AC filter | Do it Yourself | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 9000
+   },
+   {
+    "id": "paEagjWvsGw",
+    "title": "How to clean evaporator coil? | Animation | #hvacmaintenance #hvactraining",
+    "meta": [
+     "9.5K",
+     "2y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 9500
+   },
+   {
+    "id": "HS6-eCXZSe4",
+    "title": "Troubleshooting Low Refrigerant Levels in AC: Common Signs and Solutions. #hvacmaintenance",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 17000
+   },
+   {
+    "id": "t57YNUanfqI",
+    "title": "How to find refrigerant leak in Air Conditioner? | 3 ways to find Refrigerant leak | Animation |",
+    "meta": [
+     "24K",
+     "2y ago"
+    ],
+    "dur": "2:48",
+    "views_tab": 24000
+   },
+   {
+    "id": "KvshA5jxIy8",
+    "title": "Air-Cooled Chiller Working Principle | Animation | #hvactraining #hvacmaintenance",
+    "meta": [
+     "103K",
+     "2y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 103000
+   },
+   {
+    "id": "aLG0batzkaE",
+    "title": "What is FCU? | Fan Coil Unit | #hvacmaintenance #hvactraining #hvac",
+    "meta": [
+     "93K",
+     "2y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 93000
+   },
+   {
+    "id": "ZmcfP0qKS8A",
+    "title": "What is FAHU or ERU? | Fresh Air Handling Unit | Energy Recovery Unit | Animation | #hvac",
+    "meta": [
+     "61K",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 61000
+   },
+   {
+    "id": "difbr3CZkD4",
+    "title": "What is Thermal Wheel or Heat Recovery Wheel? | FAHU | ERU | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 36000
+   },
+   {
+    "id": "O0GKDSaXtJA",
+    "title": "Top 10 largest AC company | Animation |",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 5600
+   },
+   {
+    "id": "moDplf7BHho",
+    "title": "What is Saturation temperature? | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 44000
+   },
+   {
+    "id": "ifHOCacmMiA",
+    "title": "PICV Explained | Actuator | Pressure Independent Control Valve | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "63K",
+     "2y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 63000
+   },
+   {
+    "id": "mY9FhDfj-lI",
+    "title": "Two Way Valve and Three Way Valve Detailed Explanation | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "78K",
+     "2y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 78000
+   },
+   {
+    "id": "xSb0tOeAhkI",
+    "title": "BTU Meter Explained | How it works? | Animation | #hvac #hvacmaintenance #hvactraining #hvacsystem",
+    "meta": [
+     "61K",
+     "2y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 61000
+   },
+   {
+    "id": "rSS76OPU_ic",
+    "title": "Chiller Load Calculation | Load Capacity | Animation | #hvac #hvacsystem #hvacmaintenance",
+    "meta": [
+     "79K",
+     "2y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 79000
+   },
+   {
+    "id": "EQBEY4ZxbHk",
+    "title": "How to convert Celsius to Fahrenheit? | Don't make this mistake | HVAC | Zebra Learnings",
+    "meta": [
+     "9.5K",
+     "2y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 9500
+   },
+   {
+    "id": "jiFNkTyxZa0",
+    "title": "COP | Chiller Efficiency Calculation | Coefficient Of Performance | Animation | #hvac #hvacsystem",
+    "meta": [
+     "43K",
+     "2y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 43000
+   },
+   {
+    "id": "XwEwOtzK0Tw",
+    "title": "How to find Chiller Approach? | Evaporator and Condenser Approach | Animation | #hvac #hvacsystem",
+    "meta": [
+     "57K",
+     "2y ago"
+    ],
+    "dur": "10:17",
+    "views_tab": 57000
+   },
+   {
+    "id": "_IGi3ZFkdYM",
+    "title": "Flow Rate Units | GPM | M\u00b3/Minute | Liters/Second | Animation | #hvac #hvacsystem #hvactraining",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 18000
+   },
+   {
+    "id": "DD8YBcwejLE",
+    "title": "Split AC Working Principle | Animation | #hvac #hvacsystem #hvacmaintenance #hvactraining",
+    "meta": [
+     "92K",
+     "2y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 92000
+   },
+   {
+    "id": "GN-CG7V59cs",
+    "title": "What is Primary and Secondary Pump? Explained | Animation | #hvac #hvacsystem",
+    "meta": [
+     "85K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 85000
+   },
+   {
+    "id": "gD8aQ9SRzN8",
+    "title": "Heat Capacity vs Specific Heat Capacity | Animation | HVAC | Thermodynamics | Heat and Mass Transfer",
+    "meta": [
+     "8.2K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 8200
+   },
+   {
+    "id": "eZNWgK17aww",
+    "title": "CCU | PAC | Precision Air Conditioning | Closed Control Unit | Animation | #hvac #hvacmaintenance",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 44000
+   },
+   {
+    "id": "FSt7A4vYUWw",
+    "title": "Chiller Load Calculation Breakdown | Explanation | Animation | #hvac #hvacsystem #hvacmaintenance",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 12000
+   },
+   {
+    "id": "STkDRoaTfPs",
+    "title": "Latent Heat and Sensible Heat Explained | Humidity | Animation | #hvac #hvacsystem  #hvacmaintenance",
+    "meta": [
+     "116K",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 116000
+   },
+   {
+    "id": "pJ-FlABM6OE",
+    "title": "Types of Heat Transfer | Conduction | Convection | Radiation | #hvac  | Animation | #hvactraining",
+    "meta": [
+     "47K",
+     "2y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 47000
+   },
+   {
+    "id": "FX_1h3XkN84",
+    "title": "Nitrogen Leak Test | How to do? | Animation | #hvac #hvacmaintenance #hvactraining",
+    "meta": [
+     "101K",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 101000
+   },
+   {
+    "id": "t8c91N5pfeU",
+    "title": "Humidity Explained | Animation | #HVAC",
+    "meta": [
+     "320K",
+     "2y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 320000
+   },
+   {
+    "id": "0Qd9j_SFuwg",
+    "title": "Absolute Humidity vs Relative Humidity | Animation | #HVAC #hvacsystem",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 84000
+   },
+   {
+    "id": "Dps5vBOMPq4",
+    "title": "Dew Point Temperature Explained | Animation | #hvac  #hvacsystem",
+    "meta": [
+     "119K",
+     "2y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 119000
+   },
+   {
+    "id": "AS_M8Iu3rWg",
+    "title": "Wet Bulb Temperature Explained | Animation | #hvac #hvactraining #hvacsystem #hvacr",
+    "meta": [
+     "94K",
+     "2y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 94000
+   },
+   {
+    "id": "xH0hrdj4YZ0",
+    "title": "Centrifugal Separator Explained | Animation | #HVAC #HVACR #HVACSYSTEM",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 11000
+   },
+   {
+    "id": "i7cnvz41qoA",
+    "title": "What is Enthalpy? | Animation | #hvacr #hvac #hvacsystem",
+    "meta": [
+     "30K",
+     "2y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 30000
+   },
+   {
+    "id": "ZKOQ1d3fLFI",
+    "title": "Specific Humidity Explained | Animation | HVAC",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "Raj9gGY3mck",
+    "title": "Specific Volume Explained | Animation | #HVACR #HVAC #Thermodynamics",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 9300
+   },
+   {
+    "id": "N0ZxJQEO7jU",
+    "title": "How Strainer Works? | Y Type Strainer | Basket Strainer | Animation | HVAC",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 23000
+   },
+   {
+    "id": "8sNwVYuLymQ",
+    "title": "How To Clean AHU Strainer? | Animation | HVAC | HVACR | Maintenance",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 26000
+   },
+   {
+    "id": "Sb8vWjjNb7k",
+    "title": "Service Valve Explained | Animation | HVAC | Air Conditioning",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 202000
+   },
+   {
+    "id": "OKJqFOs0JUs",
+    "title": "How to do Pump Down in an AC unit? | Animation | #HVAC #HVACTRAINING #HVACSYSTEM",
+    "meta": [
+     "101K",
+     "1y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 101000
+   },
+   {
+    "id": "IJ7nSHaaTgI",
+    "title": "How to Vacuum an Indoor AC Unit: Step-by-Step Guide | Animation |",
+    "meta": [
+     "332K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 332000
+   },
+   {
+    "id": "Nr4ohCyYV2g",
+    "title": "What Is an Accumulator? | Protecting Your AC Compressor | Animation | #hvac #hvacsystem",
+    "meta": [
+     "53K",
+     "1y ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 53000
+   },
+   {
+    "id": "Tj-5Ti1oJvQ",
+    "title": "How Does a Heat Pump Work? | Heating & Cooling Explained | Animation | #HVAC #HVACSYSTEM",
+    "meta": [
+     "52K",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 52000
+   },
+   {
+    "id": "c8FCeKX-kBo",
+    "title": "How the Reversing Valve Works in a Heat Pump | HVAC Explained | Animation",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 27000
+   },
+   {
+    "id": "C-bs8GMIlfo",
+    "title": "Types of HVAC Compressors Explained | HVAC Basics with Zebra Learnings",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 26000
+   },
+   {
+    "id": "ap4yFJl8A5Y",
+    "title": "Reciprocating Compressor Explained | HVAC Basics \u2013 Zebra Learnings",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 17000
+   },
+   {
+    "id": "dWSFQKii8FM",
+    "title": "How Scroll Compressors Work | HVAC Basics Explained | HVAC System",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "gi3O9f3G-Qs",
+    "title": "Electronic Expansion Valve | Animation | Zebra Learnings | #hvac #hvaclife #hvacsystem",
+    "meta": [
+     "7K",
+     "1y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 7000
+   },
+   {
+    "id": "gAGMblg0Aqg",
+    "title": "PSIG vs PSIA | Gauge Pressure vs Absolute Pressure | HVAC Explained Simply #hvac #gauge",
+    "meta": [
+     "5.7K",
+     "1y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 5700
+   },
+   {
+    "id": "XiPDHWW3dAA",
+    "title": "How to Do Vacuum in AC System Using Micron Gauge | Step-by-Step HVAC Tutorial | Animation",
+    "meta": [
+     "25K",
+     "11mo ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 25000
+   },
+   {
+    "id": "jJo91sYY03Q",
+    "title": "What is a BTU? The Secret History of Air Conditioning! | HVAC | Animation |",
+    "meta": [
+     "4.6K",
+     "7mo ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4600
+   },
+   {
+    "id": "BRCDIQcsV5U",
+    "title": "What is TR? | Ton Of Refrigeration Explained | #hvac",
+    "meta": [
+     "5.1K",
+     "6mo ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 5100
+   },
+   {
+    "id": "i0DnhsM_0fk",
+    "title": "Electrical kW vs Cooling kW \u2014 What\u2019s the Difference?",
+    "meta": [
+     "3.6K",
+     "5mo ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "3vhHRuMjupg",
+    "title": "Why 1 TR = 3.52 KW? Explained Clearly | Cooling Capacity KW",
+    "meta": [
+     "3K",
+     "4mo ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 3000
+   },
+   {
+    "id": "h7m_ndpLkTE",
+    "title": "Why 1 TR is 12000 BTU?",
+    "meta": [
+     "1.6K",
+     "4mo ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 1600
+   },
+   {
+    "id": "kSIE2r38UZw",
+    "title": "\ud83d\ude80 HVAC Simulators Are Here! | HVAC Vacuum Simulator| Learn HVAC the Interactive Way | Zebralearnings",
+    "meta": [
+     "4.5K",
+     "4mo ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 4500
+   },
+   {
+    "id": "SSjGsI8vusk",
+    "title": "BTU vs TR vs KW | What is the difference?",
+    "meta": [
+     "6K",
+     "4mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 6000
+   },
+   {
+    "id": "jEReq6DcxIo",
+    "title": "How to Vacuum an AC unit with our simulator | HVAC Simulator Tutorial",
+    "meta": [
+     "3.6K",
+     "3mo ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 3600
+   },
+   {
+    "id": "1lqsEc0bRAc",
+    "title": "How a Split AC Works (Interactive Simulator) | Learn Air Conditioner Working",
+    "meta": [
+     "4.6K",
+     "3mo ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 4600
+   },
+   {
+    "id": "rw23Q76BQD8",
+    "title": "EER vs SEER Explained | Air Conditioner Energy Efficiency Made Simple",
+    "meta": [
+     "2.8K",
+     "2mo ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 2800
+   },
+   {
+    "id": "ysy5R1icbaM",
+    "title": "VFD vs Soft Starter: What\u2019s the Difference? | HVAC Motor Control Explained | Animation | #hvac",
+    "meta": [
+     "8.8K",
+     "1mo ago"
+    ],
+    "dur": "6:43",
+    "views_tab": 8800
+   },
+   {
+    "id": "fNpk4aDjkPo",
+    "title": "How Chiller Plants Work | Water Cooled vs Air Cooled Chiller Explained",
+    "meta": [
+     "2.9K",
+     "3d ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 2900
+   },
+   {
+    "id": "Xz70fov2PnU",
+    "title": "Virtual Chiller Plant 3D Simulator | Explore & Learn HVAC Systems",
+    "meta": [
+     "874",
+     "2d ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 874
+   }
+  ]
+ }
+}

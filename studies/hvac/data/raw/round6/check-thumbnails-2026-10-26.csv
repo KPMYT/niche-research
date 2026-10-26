@@ -1,0 +1,483 @@
+check,file,video_id,channel,field,checker_blind,stored,verdict,checker_note
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,face,no,no,agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,person_type,none,none,agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,text_word_count,6,8,DISAGREE (convention: stored counts 92°F/68°F readouts),
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,text_words,COLDEST AIR SALT IS THE SECRET (+92°F/68°F displays),"""COLDEST AIR"" ""SALT IS THE SECRET"" ""92°F"" ""68°F""",agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,text_colours,icy blue; white; yellow; red/blue digits,blue; white; yellow; red readout; blue readout,agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,arrows_circles,yes white curved arrow,"yes, white curved arrow",agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,before_after,yes hot-vs-cold split,yes (hot vs cold split),agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,red_green_marks,red (92°F) vs blue,red/blue hot-cold tint,agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,overall_look,AI image,AI image / graphic composite,agree,
+label,labels-top-winners.csv,mUoj_DGsOZY,Zen Garden Oasis,style_group,before/after or hot-vs-cold split,before/after or hot-vs-cold split,agree,
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,face,yes,yes,agree,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,person_type,real (archival colourised photo),AI,DISAGREE,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,text_word_count,7,6,DISAGREE (stored 6; the words are 7),not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,text_words,BEFORE AIR CONDITIONING HOW DID THEY SURVIVE?,"""BEFORE AIR CONDITIONING"" ""HOW DID THEY SURVIVE?""",agree,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,text_colours,white on black; white on red banner,white on black; white on red banner,agree,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,arrows_circles,no,no,agree,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,before_after,no,no,agree,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,red_green_marks,red banner,red banner,agree,not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,overall_look,realistic photo (archival collage),AI image (history),DISAGREE (real vs AI),not AI: real archival photos
+label,labels-top-winners.csv,y5kjluBWlEo,Secret State Files and 4 more,style_group,real face + text (alt: history scene + red banner),AI history scene + red banner,DISAGREE,not AI: real archival photos
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,face,no,no,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,person_type,none,none,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,text_word_count,3,3,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,text_words,COOLEST AC EVER?,"""\""COOLEST\"" AC EVER?""",agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,text_colours,blue; white with dark outline,blue with white outline; white with black outline,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,arrows_circles,no,no,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,before_after,no,no,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,red_green_marks,none,none,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,overall_look,realistic photo,realistic photo + text,agree,low res
+label,labels-top-winners.csv,hux4BEKiu6k,The Fixer,style_group,real build/product photo + text,real build/product photo + text,agree,low res
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,face,no,no,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,person_type,none (hand only),none,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,text_word_count,5,5,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,text_words,WATCH THIS BEFORE YOU CALL!,"""WATCH THIS"" ""BEFORE YOU CALL!""",agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,text_colours,white/silver; white on blue banner,white; white on blue banner,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,before_after,no,no,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,red_green_marks,none,none,agree,
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,overall_look,realistic photo,AI image (reading),DISAGREE (real vs AI),
+label,labels-top-winners.csv,JDlPVhleV8A,Frugal Folks Garage,style_group,real build/product photo + text,AI object/build + bold text,DISAGREE,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,face,no,no,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,person_type,none,none,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,text_word_count,3,3,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,text_words,The Russian Oven,"""The Russian Oven""",agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,text_colours,"white serif, dark outline",white serif with dark outline,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,before_after,no,no,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,red_green_marks,none (red logo),none,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,overall_look,realistic photo,realistic photo + text,agree,
+label,labels-top-winners.csv,r_TO30jzyUA,Survival Russia,style_group,real build/product photo + text,real build/product photo + text,agree,
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,face,yes,yes,agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,person_type,real,real,agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,text_word_count,5 (checker miscount; recount 6),6,agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,text_words,WHAT'S INSIDE THE BREEZAMAX? SCAM EXPOSED!,"""WHAT'S INSIDE THE BREEZAMAX?"" ""SCAM"" ""EXPOSED!""",agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,text_colours,cyan; red; yellow (black outlines),cyan; red; yellow (dark outlines),agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,arrows_circles,no,no,agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,before_after,no,no,agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,red_green_marks,red text (SCAM),"red word ""SCAM""",agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,overall_look,realistic photo + text,realistic photo + text (face reaction),agree,facepalm
+label,labels-top-winners.csv,JZ4vlMZlCj8,JDub Adventures,style_group,real face + text,real face + text,agree,facepalm
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,face,no,no,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,person_type,none (hand only),none,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,text_word_count,0,0,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,text_words,none,none,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,text_colours,none,none,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,before_after,no,no,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,red_green_marks,none (green can),none,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,overall_look,realistic photo,realistic photo,agree,
+label,labels-top-winners.csv,Abu43UiLpV4,Lovepreet Singh,style_group,"real build/product photo, no text","real build/product photo, no text",agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,face,yes,yes,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,person_type,real,real,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,text_word_count,5,5,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,text_words,Best Space Heater Ever Tested!,"""Best Space Heater Ever Tested!""",agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,text_colours,yellow,yellow,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,before_after,no,no,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,red_green_marks,none,none,agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,overall_look,realistic photo + text,realistic photo + text (product line-up),agree,
+label,labels-top-winners.csv,ND2mrzPnBic,Project Farm,style_group,real face + text,real face + text,agree,
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,face,yes,yes,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,person_type,AI,AI,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,text_word_count,3,3,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,text_words,NO HEATER NEEDED,"""NO HEATER NEEDED""",agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,text_colours,cream/white; yellow-orange,cream and yellow,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,arrows_circles,no,no,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,before_after,no,no,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,red_green_marks,none,none,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,overall_look,AI image,AI image,agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,ldMtj6oIzw8,June's Kitchen Table,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,"old woman pointing, AI-rendered"
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,face,yes,yes,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,person_type,real,real,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,text_word_count,1,1,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,text_words,DUMB,"""DUMB""",agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,text_colours,magenta with black outline,magenta with dark outline,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,before_after,no,no,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,red_green_marks,none,blue tint,agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,overall_look,realistic photo + graphic (blue-tinted house),realistic photo + graphic (face reaction),agree,
+label,labels-top-winners.csv,QoC8R3KHk8E,Linus Tech Tips,style_group,real face + text,real face + text,agree,
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,face,no,no,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,person_type,none,none,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,text_word_count,0,0,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,text_words,none,none,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,text_colours,none,none,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,arrows_circles,yes red/blue airflow arrows,"yes, red and blue flow arrows",agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,before_after,split: outside vs cut-away (not before/after),no (outside vs cut-away view),agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,red_green_marks,red/blue flow arrows,red/blue hot-cold arrows,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,overall_look,AI image,AI image,agree,alt: before/after split
+label,labels-top-winners.csv,bFG90VOkQr8,Creative DIY365,style_group,"AI object/build, no headline","AI object/build, no headline",agree,alt: before/after split
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,face,no,no,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,person_type,none (gloved hands),none,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,text_word_count,4,4,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,text_words,UNCLOG AIR CONDITIONER DRAIN!,"""UNCLOG AIR CONDITIONER DRAIN!""",agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,text_colours,white with black outline,white with black outline,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,before_after,no,no,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,red_green_marks,red check mark,red check mark,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,overall_look,realistic photo,realistic photo + text,agree,
+label,labels-top-winners.csv,qAxJb0J1HH0,Silver Cymbal,style_group,real build/product photo + text,real build/product photo + text,agree,
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,face,no,no,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,person_type,none,none,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,text_word_count,5,5,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,text_words,WHY DON'T THESE EXIST ANYMORE?,"""WHY DON'T THESE EXIST ANYMORE?""",agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,text_colours,white; yellow (black outline),white and yellow with dark outline,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,arrows_circles,yes red curved arrow,"yes, red curved arrow",agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,before_after,no,no,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,red_green_marks,red arrow,red arrow; red-orange heat lines,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,overall_look,AI image,AI image,agree,turbine vent
+label,labels-top-winners.csv,H6TQ8DLCqTQ,Earl Knows How,style_group,AI object/build + bold text,AI object/build + bold text,agree,turbine vent
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,face,yes,yes,agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,person_type,real,real,agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,text_word_count,3,3,agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,text_words,AIR DUCT SCAM,"""AIR DUCT SCAM""",agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,text_colours,white; white on red box,white; white on red box,agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,arrows_circles,yes red circle + red arrow,"yes, red circle and red curved arrow",agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,before_after,no,no,agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,red_green_marks,red circle/arrow/box,"red circle, red arrow, red box",agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,overall_look,realistic photo + text,realistic photo + text (face reaction),agree,
+label,labels-top-winners.csv,J_FMXc7F_bM,Pleasant Green,style_group,real face + text,real face + text,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,face,yes,yes,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,person_type,real,real,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,text_word_count,4,4,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,text_words,HOW TO STAY WARM,"""HOW TO STAY WARM""",agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,text_colours,yellow with dark shadow,yellow with black outline,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,before_after,no,no,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,red_green_marks,none,none,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,overall_look,realistic photo + graphic background,realistic photo + graphic,agree,
+label,labels-top-winners.csv,oVkRaiTXX3U,Wranglerstar,style_group,real face + text,real face + text,agree,
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,face,yes (side/small),yes,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,person_type,AI,AI,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,text_word_count,3,3,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,text_words,CHEAP WINTER LIFESAVERS,"""CHEAP WINTER LIFESAVERS""",agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,text_colours,black on white band,black on white banner,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,arrows_circles,no,no,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,before_after,no,no,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,red_green_marks,none,none,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,overall_look,AI image,AI image,agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,rX4eyZaHAjw,Lost Survival Knowledge,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,"woman hanging mylar blanket, Walmart bag"
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,face,no,no,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,person_type,none,none,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,text_word_count,8 (checker miscount; recount 9),9,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,text_words,15 HEATING SOURCES THAT DON'T NEED ELECTRICITY STOCKPILE NOW,"""15 HEATING SOURCES"" ""THAT DON'T NEED ELECTRICITY"" ""STOCKPILE NOW""",agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,text_colours,black with white outline; red,white on black; red; black on white,"DISAGREE (minor: lines are black with white outline, not white on black)",
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,before_after,no,no,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,red_green_marks,red text,red text,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,overall_look,AI image,AI image,agree,
+label,labels-top-winners.csv,0AZw4BlV_3Q,Prep Life Hacks,style_group,AI store front + list text,AI store front + list text,agree,
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,face,no,no,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,person_type,none (hand only),none,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,text_word_count,0,0,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,text_words,none,none,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,text_colours,none,none,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,arrows_circles,no,no,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,before_after,no,no,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,red_green_marks,none,none,agree,"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,overall_look,"realistic photo (possibly AI, unsure)",AI image (reading),DISAGREE (real vs AI),"stones in bucket, flame"
+label,labels-top-winners.csv,fclBeOvI7FA,Holic Creation,style_group,"real build/product photo, no text","AI object/build, no headline",DISAGREE,"stones in bucket, flame"
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,face,no,no,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,person_type,none,none,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,text_word_count,4,4,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,text_words,$4 DEHUMIDIFIER WORKS FOREVER,"""$4"" ""DEHUMIDIFIER WORKS FOREVER""",agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,text_colours,black on yellow; red ($4),black on yellow; red,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,before_after,no,no,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,red_green_marks,red $4,red price,agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,overall_look,graphic,graphic (bold text panel + product image),agree,
+label,labels-top-winners.csv,KphunxyIbKM,Zen Garden Oasis,style_group,bold text panel + product cut-out,bold text panel + product cut-out,agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,face,yes,yes,agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,person_type,AI (unsure; could be real face in AI-styled composite),real,"DISAGREE (census: Craftsman Chris on camera, same real man -> stored likely right)",
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,text_word_count,4,4,agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,text_words,DUMPSTER AC GROUND LOOP,"""DUMPSTER AC GROUND LOOP""",agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,text_colours,white; green,white; green,agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,arrows_circles,yes green arrow,"yes, green arrow",agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,before_after,no,no,agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,red_green_marks,green arrow/glow,"green arrow, red tubing",agree,
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,overall_look,AI image (unsure),realistic photo + text (face reaction),DISAGREE (real vs AI),
+label,labels-top-winners.csv,GfMNLWzaUHU,Craftsman Chris,style_group,AI persona + bold text (+ red arrow),real face + text,DISAGREE,
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,face,yes,yes,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,person_type,AI,AI,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,text_word_count,0,0,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,text_words,none,none,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,text_colours,none,none,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,arrows_circles,yes small orange arrows (to gaps),"yes, small orange arrows (at draft gaps)",agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,before_after,no,no,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,red_green_marks,none,none,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,overall_look,AI image,AI image,agree,"old woman, cold cabin"
+label,labels-top-winners.csv,dhZDwTCI31A,Project Renewed Homes,style_group,"AI persona + object, no text","AI persona + object, no text",agree,"old woman, cold cabin"
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,face,no (cameraman from behind),no,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,person_type,AI (no face),none,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,text_word_count,6,6,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,text_words,MATH EXPOSED: THE REAL AC COST! (+ tape WARNING: THE REAL MATH),"""MATH EXPOSED:"" ""THE REAL AC COST!"" (tape: ""WARNING: THE REAL MATH"" repeated)",agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,text_colours,white on red box; black on white,white on red; black on white; black on yellow tape,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,arrows_circles,no,no,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,before_after,no,no,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,red_green_marks,red box,red tag,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,overall_look,AI image,AI image,agree,
+label,labels-top-winners.csv,auUvh-k5ja4,Coil Exposed,style_group,AI object/build + bold text,AI object/build + bold text,agree,
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,face,no,no,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,person_type,none,none,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,text_word_count,3,3,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,text_words,Connect the wires,"""Connect the wires""",agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,text_colours,thin grey,grey,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,arrows_circles,no,no,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,before_after,no,no,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,red_green_marks,none,none,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,overall_look,realistic photo / product render,clean product render / photo,agree,Nest promo frame
+label,labels-top-winners.csv,dHKD-9uI24I,Google Nest,style_group,real build/product photo + text,real build/product photo + text,agree,Nest promo frame
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,face,no,no,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,person_type,none,none,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,text_word_count,2,2,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,text_words,No Refrigerant?,"""No Refrigerant?""",agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,text_colours,white,white,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,arrows_circles,no,no,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,before_after,no,no,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,red_green_marks,none (red parts),red part on model,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,overall_look,AI image / 3D render,3D render + text,agree,alt: AI object/build + bold text
+label,labels-top-winners.csv,qcscUoP8FNk,Undecided with Matt Ferrell,style_group,diagram / 3D render explainer,diagram / 3D render explainer,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,face,no,no,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,person_type,none,none,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,text_word_count,7 (checker miscount; recount 8),8,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,text_words,THEIR $900 SCAM A $3 BOTTLE DOES IT,THEIR $900 SCAM / A $3 BOTTLE DOES IT,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,text_colours,white; yellow (black outline),"white; ""SCAM"" and ""$3"" yellow",agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,arrows_circles,no,no,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,before_after,no,no,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,red_green_marks,none,none,agree,low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,overall_look,realistic photo,AI image (reading; photo-real),DISAGREE (real vs AI),low res
+label,labels-channel-top5.csv,7RsV7F5eU-s,John The HVAC Guy,style_group,real build/product photo + text,AI object/build + bold text,DISAGREE,low res
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,face,yes (partial),yes,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,person_type,real,real,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,text_word_count,0,0,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,text_words,none,none,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,text_colours,none,none,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,arrows_circles,no,no,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,before_after,no,no,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,red_green_marks,none,none,agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,overall_look,realistic photo (video frame),realistic photo (low resolution),agree,low res; electrical meter box
+label,labels-channel-top5.csv,guFn_mlhpY8,David Jones,style_group,"real person on the job, no text","real person on the job, no text",agree,low res; electrical meter box
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,face,yes,yes,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,person_type,AI,AI,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,text_word_count,2,2,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,text_words,"WORTH $7,000?","WORTH $7,000?",agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,text_colours,yellow; white (black outline),"""WORTH"" yellow; ""$7,000?"" white",agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,arrows_circles,yes yellow curved arrow,yes: yellow curved arrow,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,before_after,no,no,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,red_green_marks,none (red reel),none,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,overall_look,AI image,AI image,agree,fishing reel - off-niche
+label,labels-channel-top5.csv,pxd8tTkJzVw,Walter's Tool Talk,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,fishing reel - off-niche
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,face,yes,yes,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,person_type,AI,AI,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,text_word_count,11,11,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,text_words,11 POUNDLAND HEATING ITEMS THAT'LL BE WORTH GOLD IN WINTER BLACKOUT,11 POUNDLAND HEATING ITEMS THAT'LL BE WORTH GOLD IN WINTER BLACKOUT,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,text_colours,black on white; white on red band,"black on white; ""THAT'LL BE WORTH GOLD"" white on red band",agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,arrows_circles,no (pointing finger),no,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,before_after,no,no,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,red_green_marks,red band,red band,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,overall_look,AI image,AI image,agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,ecJNKnFrYI8,Christopher Johnson,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,garbled Pepco sign = AI tell; alt AI store front + list text
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,face,no,no,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,person_type,none,none,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,text_word_count,6,6,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,text_words,The BLANKET METHOD MODERN BEDS FORGOT.,The BLANKET METHOD MODERN BEDS FORGOT.,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,text_colours,white; yellow-orange,"white; ""BLANKET METHOD"" orange-yellow",agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,arrows_circles,no,no,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,before_after,no,no,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,red_green_marks,none,none,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,overall_look,AI image,AI image,agree,
+label,labels-channel-top5.csv,63zzh2DV6sg,Historia Prime,style_group,AI object/build + bold text,AI object/build + bold text,agree,
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,face,no,no,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,person_type,none,none,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,text_word_count,4,4,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,text_words,BURNS FOR 4 MONTHS,BURNS FOR 4 MONTHS,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,text_colours,yellow; red with white outline,"yellow; ""4 MONTHS"" red; white outline",agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,arrows_circles,no,no,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,before_after,no,no,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,red_green_marks,red text,red text,agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,overall_look,AI image,AI image (reading),agree,Crisco candle stove
+label,labels-channel-top5.csv,qDcxlTl4rL0,Why Am I Green,style_group,AI object/build + bold text,AI object/build + bold text,agree,Crisco candle stove
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,face,no,no,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,person_type,none,none,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,text_word_count,4,4,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,text_words,AC ON BATTERY POWER!?,AC ON BATTERY POWER!?,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,text_colours,white with orange outline,white with orange outline,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,arrows_circles,no,no,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,before_after,no,no,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,red_green_marks,none,none,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,overall_look,realistic photo,realistic photo,agree,
+label,labels-channel-top5.csv,7M16dzeCRSs,SmitHVAC,style_group,real build/product photo + text,real build/product photo + text,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,face,no,no,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,person_type,none (hand holding phone),none,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,text_word_count,5,5,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,text_words,HOW LOW CAN IT GO?,HOW LOW CAN IT GO?,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,text_colours,white with blue outline,white with blue outline,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,arrows_circles,no,no,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,before_after,no,no,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,red_green_marks,none,none,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,overall_look,realistic photo,realistic photo,agree,
+label,labels-channel-top5.csv,g-uBJFXieUY,SmitHVAC,style_group,real build/product photo + text,real build/product photo + text,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,face,no,no,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,person_type,none,none,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,text_word_count,4,4,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,text_words,NO POWER. ALL ICE. (+ 0°F gauge),NO POWER. ALL ICE.,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,text_colours,white on red banner,cream on red banner,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,arrows_circles,small flow arrows on pipes,no,DISAGREE (minor: small flow arrows on pipes),
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,before_after,no,no,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,red_green_marks,red banner,red banner,agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,overall_look,cartoon/illustration (AI-drawn),AI illustration (reading),agree,
+label,labels-channel-top5.csv,9a-Q5hl_NuQ,Passive Survival,style_group,cartoon / sketch / 3D animation,cartoon / sketch / 3D animation,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,face,no,no,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,person_type,none (hand only),none,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,text_word_count,5,5,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,text_words,RUST GONE FOREVER $3 LIQUID,RUST GONE FOREVER / $3 LIQUID,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,text_colours,red; yellow; light blue,"""RUST"" red; ""GONE FOREVER"" yellow; ""$3 LIQUID"" cyan",agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,arrows_circles,yes red curved arrow,yes: red curved arrow,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,before_after,no (rusty vs cleaned spot),yes (reading: rusty vs cleaned band on one pipe),"DISAGREE (stored yes, reading)",
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,red_green_marks,"red arrow, red text","red arrow, red text",agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,overall_look,AI image,AI image,agree,
+label,labels-channel-top5.csv,pKRWnnDpmb4,Historia Prime,style_group,AI object/build + bold text,AI object/build + bold text,agree,
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,face,no,no,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,person_type,none (hand only),none,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,text_word_count,0,0,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,text_words,none,none,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,text_colours,none,none,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,arrows_circles,no,no,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,before_after,no,no,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,red_green_marks,none,none,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,overall_look,realistic photo (video frame),realistic photo,agree,low res; thermostat wiring
+label,labels-channel-top5.csv,AhJI2HOoAZI,D2D NY Real World HVAC Simplified,style_group,"real build/product photo, no text","real build/product photo, no text",agree,low res; thermostat wiring
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,face,no,no,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,person_type,none,none,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,text_word_count,5,5,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,text_words,IT'LL NEVER DIE (+ RIGHT HERE),IT'LL NEVER DIE / RIGHT HERE,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,text_colours,white; yellow; small white on black,"white; ""DIE"" yellow; ""RIGHT HERE"" white",agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,arrows_circles,yes yellow arrow,yes: yellow arrow,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,before_after,no,no,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,red_green_marks,none,none,agree,low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,overall_look,realistic photo,AI image (reading; photo-real),DISAGREE (real vs AI),low res; furnace
+label,labels-channel-top5.csv,D3s86GpsnZ4,John The HVAC Guy,style_group,real build/product photo + text,AI object/build + bold text,DISAGREE,low res; furnace
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,face,yes,yes,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,person_type,AI,AI,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,text_word_count,3,3,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,text_words,THE MEXICAN WAY,THE MEXICAN WAY,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,text_colours,white with black outline,white with black outline,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,arrows_circles,yes red curved arrow,yes: red curved arrow,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,before_after,no,no,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,red_green_marks,red arrow,red arrow,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,overall_look,AI image,AI image,agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,NobC3jN056E,Ramón Delgado,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,plumbing P-trap (off-niche)
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,face,yes,yes,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,person_type,AI,AI,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,text_word_count,10 (checker miscount; recount 11),11,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,text_words,33 CHEAP THINGS TO BUY BEFORE SUPPLY CHAINS CRASH! (+ BUY NOW! stamp),33 CHEAP THINGS TO BUY / BEFORE SUPPLY CHAINS CRASH! / BUY NOW!,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,text_colours,white; green; red; yellow/black stamp,"white; ""CHEAP"" green with red underline; red; stamp yellow on black",agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,arrows_circles,red underline,no,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,before_after,no,no,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,red_green_marks,green CHEAP; red text,"red text, red underline, green word",agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,overall_look,AI image,AI image,agree,
+label,labels-channel-top5.csv,UY80tZeju0o,WiseMoney,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,face,no,no,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,person_type,none,none,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,text_word_count,0,0,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,text_words,none,none,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,text_colours,none,none,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,arrows_circles,no,no,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,before_after,no,no,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,red_green_marks,none,none,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,overall_look,realistic photo (video frame),realistic photo,agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,OjTkSpvHegU,Anti DIY HVAC,style_group,"real build/product photo, no text","real build/product photo, no text",agree,old Trane XL1400 condenser
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,face,no,no,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,person_type,none,none,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,text_word_count,3 (checker miscount; recount 4),4,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,text_words,EXCLUSIVE STOCK UP NOW,EXCLUSIVE / STOCK UP NOW,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,text_colours,white on red box; black on white,"""EXCLUSIVE"" white on red; black on white band",agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,arrows_circles,no,no,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,before_after,no,no,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,red_green_marks,"red box, red crosses","red crosses, red label",agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,overall_look,AI image,AI image,agree,alt: AI object/build + bold text
+label,labels-channel-top5.csv,pqucG9p9h74,Ray Sutter,style_group,AI store front + list text,AI object/build + bold text,DISAGREE,alt: AI object/build + bold text
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,face,yes,yes,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,person_type,AI,AI,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,text_word_count,5 (checker miscount; recount 6),6,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,text_words,5 WOODS THAT START CHIMNEY FIRES,5 WOODS THAT START CHIMNEY FIRES,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,text_colours,yellow; white; red,"""5 WOODS"" yellow; ""THAT START"" white; ""CHIMNEY FIRES"" red",agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,arrows_circles,yes yellow curved arrow + red underline,yes: yellow arrow,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,before_after,no,no,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,red_green_marks,red text/underline,red text,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,overall_look,AI image,AI image,agree,
+label,labels-channel-top5.csv,jSlmEEj2x1A,Harlan Sawyer,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,face,no,no,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,person_type,none,none,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,text_word_count,3,3,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,text_words,NO AC NEEDED,NO AC NEEDED,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,text_colours,black on yellow box,black on yellow box,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,arrows_circles,no,no,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,before_after,no,no,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,red_green_marks,none,none,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,overall_look,AI image,AI image,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,style_group,AI object/build + bold text,AI object/build + bold text,agree,alt: AI cut-away house + claim text (but not cut-away)
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,face,yes,yes,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,person_type,real,real,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,text_word_count,4,4,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,text_words,BEST AIR PURIFIERS 2025,BEST AIR PURIFIERS 2025,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,text_colours,white with black outline; white on navy box,"white with black outline; ""2025"" white on navy",agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,arrows_circles,no,no,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,before_after,no,no,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,red_green_marks,none,none,agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,overall_look,realistic photo + graphic background,realistic photo (cut-out),agree,
+label,labels-channel-top5.csv,p712twUbKGA,HouseFresh,style_group,real face + text,real face + text,agree,
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,face,yes,yes,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,person_type,AI,AI,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,text_word_count,3,3,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,text_words,ILLEGAL IN USA?,ILLEGAL IN USA?,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,text_colours,black on yellow box,black on yellow box,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,arrows_circles,no (pointing finger),no,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,before_after,no,no,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,red_green_marks,none,none,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,overall_look,AI image,AI image,agree,egg pod house
+label,labels-channel-top5.csv,PZNVfSswfDQ,OffGrid Secrets,style_group,AI persona + bold text (+ red arrow),AI persona + bold text (+ red arrow),agree,egg pod house
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,face,yes,yes,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,person_type,AI,AI,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,text_word_count,5,5,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,text_words,WORTH GOLD IN WINTER BLACKOUT,"""WORTH GOLD IN WINTER BLACKOUT""",agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,text_colours,black on white band,black on white banner,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,arrows_circles,no (pointing finger),no,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,before_after,no,no,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,red_green_marks,none,none,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,overall_look,AI image,AI image,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+label,labels-top-winners.csv,lMhOQM5lcTU,Dick Colter Winterproof,style_group,AI store front + list text,AI store front + list text,agree,replacement for wzAA4dlp_70 (26th draw); alt AI persona + bold text
+numbers,labels-top-winners.csv,_ZgVjFpBnQA,,views; multiple,"source views 773572 (topvideos-exact json), multiple 51.57; top-100.csv not in top-100.csv ",773572; 51.6,match,list recent-90d
+numbers,labels-top-winners.csv,gqFzOKW0SQU,,views; multiple,"source views 473749 (topvideos-exact json), multiple 296.09; top-100.csv not in top-100.csv ",473749; 296.1,match,list recent-90d
+numbers,labels-top-winners.csv,e1f_psQ1zBs,,views; multiple,"source views 253190 (topvideos-exact json), multiple 403.17; top-100.csv not in top-100.csv ",253190; 403.2,match,list recent-90d;recent-12m
+numbers,labels-top-winners.csv,e8Do5eTr7cw,,views; multiple,"source views 75614 (topvideos-exact json), multiple 353.34; top-100.csv not in top-100.csv ",75614; 353.3,match,list recent-12m
+numbers,labels-top-winners.csv,sRvH-io-ZtA,,views; multiple,"source views 2777727 (topvideos-exact json), multiple 7.76; top-100.csv 2777727 7.76",2777727; 7.76,match,list top100
+numbers,labels-top-winners.csv,RJQyCq9R6Cs,,views; multiple,"source views 3721235 (topvideos-exact json), multiple 10817.54; top-100.csv 3721235 10817.54",3721235; 10817.54,match,list top100
+numbers,labels-top-winners.csv,PI45yUhUWgk,,views; multiple,"source views 3682492 (topvideos-exact json), multiple 7.25; top-100.csv 3682492 7.25",3682492; 7.25,match,list top100
+numbers,labels-top-winners.csv,TcZebLi8VsQ,,views; multiple,"source views 5034024 (topvideos-exact json), multiple 0.95; top-100.csv 5034024 0.95",5034024; 0.95,match,list top100
+numbers,labels-top-winners.csv,JDlPVhleV8A,,views; multiple,"source views 250463 (topvideos-exact json), multiple 250.46; top-100.csv not in top-100.csv ",250463; 250.5,match,list recent-90d
+numbers,labels-top-winners.csv,IRjeZP11TVg,,views; multiple,"source views 1236234 (topvideos-exact json), multiple 233.25; top-100.csv not in top-100.csv ",1236234; 233.3,match (233.25 rounded to 233.3),list recent-12m
+numbers,labels-channel-top5.csv,2-yoIqDIt6k,Construction Odyssey with Eddie,views; baseline; multiple,census views_tab 604000; census baseline 2800; recomputed multiple 215.71,604000; 2800; 215.71,match,
+numbers,labels-channel-top5.csv,41YLE3pKayc,Walter's Tool Talk,views; baseline; multiple,census views_tab 192000; census baseline 1700; recomputed multiple 112.94,192000; 1700; 112.94,match,
+numbers,labels-channel-top5.csv,RhgFEHgjPqY,Craftsman Chris,views; baseline; multiple,census views_tab 728000; census baseline 17000; recomputed multiple 42.82,728000; 17000; 42.82,match,
+numbers,labels-channel-top5.csv,p0wPY_gksTU,SmitHVAC,views; baseline; multiple,census views_tab 92000; census baseline 8250; recomputed multiple 11.15,92000; 8250; 11.15,match,
+numbers,labels-channel-top5.csv,Z_f-5jlxh1o,OffGrid Secrets,views; baseline; multiple,census views_tab 363000; census baseline 6000; recomputed multiple 60.5,363000; 6000; 60.50,match,
+numbers,labels-channel-top5.csv,ea8ksj6yTN4,Anti DIY HVAC,views; baseline; multiple,census views_tab 921000; census baseline 13000; recomputed multiple 70.85,921000; 13000; 70.85,match,
+numbers,labels-channel-top5.csv,GI6TBdRus_8,HVAC Training 101,views; baseline; multiple,census views_tab 133000; census baseline 3500; recomputed multiple 38.0,133000; 3500; 38.00,match,
+numbers,labels-channel-top5.csv,9lg_OWQ282o,Hotrods & Homestead,views; baseline; multiple,census views_tab 419000; census baseline 930; recomputed multiple 450.54,419000; 930; 450.54,match,
+numbers,labels-channel-top5.csv,mLCUGjLDjbQ,Ryan’s Fireplace Diaries,views; baseline; multiple,census views_tab 276000; census baseline 27000; recomputed multiple 10.22,276000; 27000; 10.22,match,
+numbers,labels-channel-top5.csv,2LwAcorIqRk,Walter's Tool Talk,views; baseline; multiple,census views_tab 126000; census baseline 1700; recomputed multiple 74.12,126000; 1700; 74.12,match,
+summary-table,thumbnail-styles.html,,real build/product photo + text,n,79,79,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,real build/product photo + text,top10,2,2,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,real build/product photo + text,top25,9,9,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,real build/product photo + text,top100,36,36,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI persona + bold text (+ red arrow),n,98,98,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI persona + bold text (+ red arrow),top10,0,0,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI persona + bold text (+ red arrow),top25,0,0,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI persona + bold text (+ red arrow),top100,2,2,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI object/build + bold text,n,49,49,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI object/build + bold text,top10,0,0,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI object/build + bold text,top25,1,1,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)
+summary-table,thumbnail-styles.html,,AI object/build + bold text,top100,2,2,match,recomputed from both CSVs (unique video_id; group from labels-top-winners.csv where present)

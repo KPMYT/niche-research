@@ -1,0 +1,3295 @@
+{
+ "key": "UC8i-4EpLBXMzekETNXwcZjA",
+ "channel": "Hyperspace Pirate",
+ "id": "UC8i-4EpLBXMzekETNXwcZjA",
+ "subs": "370K subscribers",
+ "videos": "109 videos",
+ "pulled": "2026-10-26T08:14:13.002896+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "UXNcivV8JNw",
+    "title": "DIY Synthetic Fuel Part I - Making Syngas And A High Pressure Compressor",
+    "meta": [
+     "285K",
+     "4w ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 285000
+   },
+   {
+    "id": "9-Bq0iL6F8w",
+    "title": "Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making Liquid Air",
+    "meta": [
+     "258K",
+     "1mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 258000
+   },
+   {
+    "id": "4lNIHBHzbn8",
+    "title": "Gifford-McMahon Cryocooler Part I - Building The Helium Compressor",
+    "meta": [
+     "307K",
+     "1mo ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 307000
+   },
+   {
+    "id": "5CVnrzNm310",
+    "title": "Turning Fruits Into Refrigerant",
+    "meta": [
+     "130K",
+     "2mo ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 130000
+   },
+   {
+    "id": "pIGd8ZqkmzE",
+    "title": "Filling High Pressure CO2 Tanks From Fermentation",
+    "meta": [
+     "134K",
+     "3mo ago"
+    ],
+    "dur": "18:19",
+    "views_tab": 134000
+   },
+   {
+    "id": "RvfuDIWNzGc",
+    "title": "Generating Electrical Power From Sugar",
+    "meta": [
+     "201K",
+     "3mo ago"
+    ],
+    "dur": "21:41",
+    "views_tab": 201000
+   },
+   {
+    "id": "Jj7Q7OqaW4A",
+    "title": "Building a Gifford-McMahon Cryocooler With 3d-Printed Parts",
+    "meta": [
+     "594K",
+     "4mo ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 594000
+   },
+   {
+    "id": "uxmJ5qT2Gaw",
+    "title": "Making Big Dry Ice Blocks With Low Pressure CO2",
+    "meta": [
+     "130K",
+     "5mo ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 130000
+   },
+   {
+    "id": "2LwwqrbKzQ8",
+    "title": "Pulse Tube Cryocooler (Part V)",
+    "meta": [
+     "113K",
+     "6mo ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 113000
+   },
+   {
+    "id": "tXeFSk1ndWA",
+    "title": "Testing Refrigerants and Capillary Tubes to Find Peak Performance",
+    "meta": [
+     "130K",
+     "6mo ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 130000
+   },
+   {
+    "id": "HSvguJ7u3VM",
+    "title": "Storing Solar Energy As Ice For Air Conditioning",
+    "meta": [
+     "399K",
+     "7mo ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 399000
+   },
+   {
+    "id": "mCLPCMgDScI",
+    "title": "Making a 3d-printed Underwater Dive Helmet With A Floating Air Supply",
+    "meta": [
+     "202K",
+     "7mo ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 202000
+   },
+   {
+    "id": "qv0IJM3BV9Y",
+    "title": "A Homemade Refrigerated Vest That Can Run Off Battery or Solar Power",
+    "meta": [
+     "449K",
+     "8mo ago"
+    ],
+    "dur": "18:53",
+    "views_tab": 449000
+   },
+   {
+    "id": "2hSkXNEV-GU",
+    "title": "DIY Mini Battery-Powered Vapor-Compression Air Conditioner",
+    "meta": [
+     "623K",
+     "10mo ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 623000
+   },
+   {
+    "id": "WW6ty2aeZ-k",
+    "title": "Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics",
+    "meta": [
+     "346K",
+     "11mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 346000
+   },
+   {
+    "id": "Ht9JzOryaKc",
+    "title": "Turning X-rays into 3d prints with a DIY CT scanner",
+    "meta": [
+     "95K",
+     "1y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 95000
+   },
+   {
+    "id": "7IkyVFxDQQw",
+    "title": "Welding with Natural Gas and a DIY Oxygen Concentrator",
+    "meta": [
+     "209K",
+     "1y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 209000
+   },
+   {
+    "id": "Fh3kbC1otMM",
+    "title": "Making Sodium Metal",
+    "meta": [
+     "137K",
+     "1y ago"
+    ],
+    "dur": "20:23",
+    "views_tab": 137000
+   },
+   {
+    "id": "_nKihWAYrEM",
+    "title": "1,500 Watt HHO Gas Generator",
+    "meta": [
+     "525K",
+     "1y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 525000
+   },
+   {
+    "id": "CLX_pQbSFFg",
+    "title": "Making Plasma By Hand",
+    "meta": [
+     "172K",
+     "1y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 172000
+   },
+   {
+    "id": "HZYWpZYuRKc",
+    "title": "Making Nitrates with 150,000 Volts",
+    "meta": [
+     "234K",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 234000
+   },
+   {
+    "id": "4NRkFqeO27Y",
+    "title": "DIY X-ray Machine",
+    "meta": [
+     "268K",
+     "1y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 268000
+   },
+   {
+    "id": "adTKHcrOzMU",
+    "title": "Transmitting Wireless Power over 100 ft",
+    "meta": [
+     "246K",
+     "1y ago"
+    ],
+    "dur": "24:12",
+    "views_tab": 246000
+   },
+   {
+    "id": "agwKNLoU6g8",
+    "title": "4,000-Joule Exploding Wire Machine",
+    "meta": [
+     "503K",
+     "1y ago"
+    ],
+    "dur": "27:01",
+    "views_tab": 503000
+   },
+   {
+    "id": "AZqjMaiJZMQ",
+    "title": "Making Gigantic Ice Cubes In My Garage",
+    "meta": [
+     "362K",
+     "1y ago"
+    ],
+    "dur": "19:13",
+    "views_tab": 362000
+   },
+   {
+    "id": "AiHksObCLuU",
+    "title": "Acetylene Gas from Sea Shells and Driftwood",
+    "meta": [
+     "372K",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 372000
+   },
+   {
+    "id": "54Htg4I_ZBA",
+    "title": "Gyroscopic Stabilization with Weight Shifting",
+    "meta": [
+     "100K",
+     "1y ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 100000
+   },
+   {
+    "id": "9MdJLTgTCSU",
+    "title": "Homemade Autocascade Refrigeration System (plus Anhydrous Ammonia)",
+    "meta": [
+     "194K",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 194000
+   },
+   {
+    "id": "15ga4KMSWqU",
+    "title": "DIY Micro Steam Powerplant",
+    "meta": [
+     "775K",
+     "2y ago"
+    ],
+    "dur": "19:59",
+    "views_tab": 775000
+   },
+   {
+    "id": "OpyLmIjZaxY",
+    "title": "Gyro-Stabilized Monorail Train",
+    "meta": [
+     "200K",
+     "2y ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 200000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "UXNcivV8JNw",
+    "title": "DIY Synthetic Fuel Part I - Making Syngas And A High Pressure Compressor",
+    "meta": [
+     "285K",
+     "4w ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 285000
+   },
+   {
+    "id": "9-Bq0iL6F8w",
+    "title": "Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making Liquid Air",
+    "meta": [
+     "258K",
+     "1mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 258000
+   },
+   {
+    "id": "4lNIHBHzbn8",
+    "title": "Gifford-McMahon Cryocooler Part I - Building The Helium Compressor",
+    "meta": [
+     "307K",
+     "1mo ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 307000
+   },
+   {
+    "id": "5CVnrzNm310",
+    "title": "Turning Fruits Into Refrigerant",
+    "meta": [
+     "130K",
+     "2mo ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 130000
+   },
+   {
+    "id": "pIGd8ZqkmzE",
+    "title": "Filling High Pressure CO2 Tanks From Fermentation",
+    "meta": [
+     "134K",
+     "3mo ago"
+    ],
+    "dur": "18:19",
+    "views_tab": 134000
+   },
+   {
+    "id": "RvfuDIWNzGc",
+    "title": "Generating Electrical Power From Sugar",
+    "meta": [
+     "201K",
+     "3mo ago"
+    ],
+    "dur": "21:41",
+    "views_tab": 201000
+   },
+   {
+    "id": "Jj7Q7OqaW4A",
+    "title": "Building a Gifford-McMahon Cryocooler With 3d-Printed Parts",
+    "meta": [
+     "594K",
+     "4mo ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 594000
+   },
+   {
+    "id": "uxmJ5qT2Gaw",
+    "title": "Making Big Dry Ice Blocks With Low Pressure CO2",
+    "meta": [
+     "130K",
+     "5mo ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 130000
+   },
+   {
+    "id": "2LwwqrbKzQ8",
+    "title": "Pulse Tube Cryocooler (Part V)",
+    "meta": [
+     "113K",
+     "6mo ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 113000
+   },
+   {
+    "id": "tXeFSk1ndWA",
+    "title": "Testing Refrigerants and Capillary Tubes to Find Peak Performance",
+    "meta": [
+     "130K",
+     "6mo ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 130000
+   },
+   {
+    "id": "HSvguJ7u3VM",
+    "title": "Storing Solar Energy As Ice For Air Conditioning",
+    "meta": [
+     "399K",
+     "7mo ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 399000
+   },
+   {
+    "id": "mCLPCMgDScI",
+    "title": "Making a 3d-printed Underwater Dive Helmet With A Floating Air Supply",
+    "meta": [
+     "202K",
+     "7mo ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 202000
+   },
+   {
+    "id": "qv0IJM3BV9Y",
+    "title": "A Homemade Refrigerated Vest That Can Run Off Battery or Solar Power",
+    "meta": [
+     "449K",
+     "8mo ago"
+    ],
+    "dur": "18:53",
+    "views_tab": 449000
+   },
+   {
+    "id": "2hSkXNEV-GU",
+    "title": "DIY Mini Battery-Powered Vapor-Compression Air Conditioner",
+    "meta": [
+     "623K",
+     "10mo ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 623000
+   },
+   {
+    "id": "WW6ty2aeZ-k",
+    "title": "Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics",
+    "meta": [
+     "346K",
+     "11mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 346000
+   },
+   {
+    "id": "Ht9JzOryaKc",
+    "title": "Turning X-rays into 3d prints with a DIY CT scanner",
+    "meta": [
+     "95K",
+     "1y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 95000
+   },
+   {
+    "id": "7IkyVFxDQQw",
+    "title": "Welding with Natural Gas and a DIY Oxygen Concentrator",
+    "meta": [
+     "209K",
+     "1y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 209000
+   },
+   {
+    "id": "Fh3kbC1otMM",
+    "title": "Making Sodium Metal",
+    "meta": [
+     "137K",
+     "1y ago"
+    ],
+    "dur": "20:23",
+    "views_tab": 137000
+   },
+   {
+    "id": "_nKihWAYrEM",
+    "title": "1,500 Watt HHO Gas Generator",
+    "meta": [
+     "525K",
+     "1y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 525000
+   },
+   {
+    "id": "CLX_pQbSFFg",
+    "title": "Making Plasma By Hand",
+    "meta": [
+     "172K",
+     "1y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 172000
+   },
+   {
+    "id": "HZYWpZYuRKc",
+    "title": "Making Nitrates with 150,000 Volts",
+    "meta": [
+     "234K",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 234000
+   },
+   {
+    "id": "4NRkFqeO27Y",
+    "title": "DIY X-ray Machine",
+    "meta": [
+     "268K",
+     "1y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 268000
+   },
+   {
+    "id": "adTKHcrOzMU",
+    "title": "Transmitting Wireless Power over 100 ft",
+    "meta": [
+     "246K",
+     "1y ago"
+    ],
+    "dur": "24:12",
+    "views_tab": 246000
+   },
+   {
+    "id": "agwKNLoU6g8",
+    "title": "4,000-Joule Exploding Wire Machine",
+    "meta": [
+     "503K",
+     "1y ago"
+    ],
+    "dur": "27:01",
+    "views_tab": 503000
+   },
+   {
+    "id": "AZqjMaiJZMQ",
+    "title": "Making Gigantic Ice Cubes In My Garage",
+    "meta": [
+     "362K",
+     "1y ago"
+    ],
+    "dur": "19:13",
+    "views_tab": 362000
+   },
+   {
+    "id": "AiHksObCLuU",
+    "title": "Acetylene Gas from Sea Shells and Driftwood",
+    "meta": [
+     "372K",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 372000
+   },
+   {
+    "id": "54Htg4I_ZBA",
+    "title": "Gyroscopic Stabilization with Weight Shifting",
+    "meta": [
+     "100K",
+     "1y ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 100000
+   },
+   {
+    "id": "9MdJLTgTCSU",
+    "title": "Homemade Autocascade Refrigeration System (plus Anhydrous Ammonia)",
+    "meta": [
+     "194K",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 194000
+   },
+   {
+    "id": "15ga4KMSWqU",
+    "title": "DIY Micro Steam Powerplant",
+    "meta": [
+     "775K",
+     "2y ago"
+    ],
+    "dur": "19:59",
+    "views_tab": 775000
+   },
+   {
+    "id": "OpyLmIjZaxY",
+    "title": "Gyro-Stabilized Monorail Train",
+    "meta": [
+     "200K",
+     "2y ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 200000
+   },
+   {
+    "id": "7M5x2OFYP-k",
+    "title": "Making Copper Parts from Algaecide",
+    "meta": [
+     "265K",
+     "2y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 265000
+   },
+   {
+    "id": "eqxwsfy72L0",
+    "title": "Making Liquid Nitrogen with my Homemade Cryocooler",
+    "meta": [
+     "362K",
+     "2y ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 362000
+   },
+   {
+    "id": "4rjwx5q2fVI",
+    "title": "Making Liquid Methane (and blowing up my Cryocooler)",
+    "meta": [
+     "219K",
+     "2y ago"
+    ],
+    "dur": "17:19",
+    "views_tab": 219000
+   },
+   {
+    "id": "oI_QEbG6mDE",
+    "title": "DIY Cascade Refrigeration System (Part III)",
+    "meta": [
+     "171K",
+     "2y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 171000
+   },
+   {
+    "id": "zRrgvYJ8gAY",
+    "title": "Automated Ethylene Production Plant",
+    "meta": [
+     "231K",
+     "2y ago"
+    ],
+    "dur": "13:11",
+    "views_tab": 231000
+   },
+   {
+    "id": "C3LCjp_REYA",
+    "title": "How to make Ethane Refrigerant (R170)",
+    "meta": [
+     "229K",
+     "2y ago"
+    ],
+    "dur": "23:29",
+    "views_tab": 229000
+   },
+   {
+    "id": "f6mLykQjxZ0",
+    "title": "Producing refrigeration from my pee",
+    "meta": [
+     "186K",
+     "2y ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 186000
+   },
+   {
+    "id": "JN_7KgdB1V8",
+    "title": "Dry Ice from Sea Shells",
+    "meta": [
+     "171K",
+     "2y ago"
+    ],
+    "dur": "15:09",
+    "views_tab": 171000
+   },
+   {
+    "id": "udIEGE5mfcA",
+    "title": "Battery-Powered Magnetron",
+    "meta": [
+     "946K",
+     "2y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 946000
+   },
+   {
+    "id": "oIWgzVaGn4Y",
+    "title": "Automated Hydrogen Generator",
+    "meta": [
+     "2.3M",
+     "3y ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 2300000
+   },
+   {
+    "id": "7uQ3YW3_3eA",
+    "title": "Joule-Thomson Cryocooler Part II (-153\u00b0C)",
+    "meta": [
+     "253K",
+     "3y ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 253000
+   },
+   {
+    "id": "-qWQaX8_EDY",
+    "title": "Seeing Radiation with the Naked Eye",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "15:13",
+    "views_tab": 138000
+   },
+   {
+    "id": "r_B0RmRlFHA",
+    "title": "Joule-Thompson Cryocooler",
+    "meta": [
+     "374K",
+     "3y ago"
+    ],
+    "dur": "29:02",
+    "views_tab": 374000
+   },
+   {
+    "id": "JSjlcPMi2yA",
+    "title": "DIY Cascade Refrigeration System (Part II)",
+    "meta": [
+     "254K",
+     "3y ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 254000
+   },
+   {
+    "id": "T76UDLPv04Y",
+    "title": "DIY Cascade Refrigeration System (Part I)",
+    "meta": [
+     "366K",
+     "3y ago"
+    ],
+    "dur": "19:15",
+    "views_tab": 366000
+   },
+   {
+    "id": "UKFEbYdKdJg",
+    "title": "Making Ethylene (Refrigerant R1150)",
+    "meta": [
+     "343K",
+     "3y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 343000
+   },
+   {
+    "id": "7QZrHzd3RA8",
+    "title": "DIY Vapor Compression Refrigeration System",
+    "meta": [
+     "1.6M",
+     "3y ago"
+    ],
+    "dur": "28:06",
+    "views_tab": 1600000
+   },
+   {
+    "id": "q_dVvGQ72YY",
+    "title": "Making Dry Ice from scratch",
+    "meta": [
+     "2.1M",
+     "3y ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 2100000
+   },
+   {
+    "id": "vC2it8LHKSQ",
+    "title": "Pulse Tube Cryocooler (Part 4) - Valve Controlled",
+    "meta": [
+     "209K",
+     "3y ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 209000
+   },
+   {
+    "id": "cy8aGMH8Tz4",
+    "title": "Pulse Tube Cryocooler (Part 3)",
+    "meta": [
+     "255K",
+     "3y ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 255000
+   },
+   {
+    "id": "WOmjJFk8rl0",
+    "title": "Pulse Tube Cryocooler - Part 2 (-75C)",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 1000000
+   },
+   {
+    "id": "GjRoThMyNGA",
+    "title": "Pulse Tube Cryocooler - Part 1",
+    "meta": [
+     "683K",
+     "3y ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 683000
+   },
+   {
+    "id": "u7k2wiY4Flo",
+    "title": "Electro-Mechanical Resonant Oscillator",
+    "meta": [
+     "161K",
+     "3y ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 161000
+   },
+   {
+    "id": "2Vb82SZE3JA",
+    "title": "Corona Discharge Photography",
+    "meta": [
+     "68K",
+     "4y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 68000
+   },
+   {
+    "id": "xImmwL5MR0o",
+    "title": "Tabletop Tesla Coil",
+    "meta": [
+     "139K",
+     "4y ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 139000
+   },
+   {
+    "id": "ooPlDbRXzAc",
+    "title": "500,000 Volt Lightning Tower",
+    "meta": [
+     "95K",
+     "4y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 95000
+   },
+   {
+    "id": "IRRF1FadkFw",
+    "title": "Inductor Tester",
+    "meta": [
+     "99K",
+     "4y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 99000
+   },
+   {
+    "id": "AvyeK_MXTL0",
+    "title": "Magnetic Remote Control",
+    "meta": [
+     "148K",
+     "4y ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 148000
+   },
+   {
+    "id": "SdJwY4Huukc",
+    "title": "RC Airboat with a Water Cannon",
+    "meta": [
+     "35K",
+     "4y ago"
+    ],
+    "dur": "18:14",
+    "views_tab": 35000
+   },
+   {
+    "id": "shNaC7d4CMA",
+    "title": "Submarine Kayak - Part 1",
+    "meta": [
+     "761K",
+     "4y ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 761000
+   },
+   {
+    "id": "RMUHxo2TOUk",
+    "title": "Comparing Turbine Rotors",
+    "meta": [
+     "100K",
+     "4y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 100000
+   },
+   {
+    "id": "Yg5swK_AnbU",
+    "title": "3d Printed Compressed Air Turbine",
+    "meta": [
+     "280K",
+     "4y ago"
+    ],
+    "dur": "13:40",
+    "views_tab": 280000
+   },
+   {
+    "id": "SwzpX-jgbYM",
+    "title": "Upgrading my Homemade CNC",
+    "meta": [
+     "705K",
+     "4y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 705000
+   },
+   {
+    "id": "R29G3hUiZnU",
+    "title": "CNC Mill for under $100",
+    "meta": [
+     "3.2M",
+     "4y ago"
+    ],
+    "dur": "18:05",
+    "views_tab": 3200000
+   },
+   {
+    "id": "1QK6zRQ8D4A",
+    "title": "A Generator built from a Stepper Motor and Supercapacitors",
+    "meta": [
+     "224K",
+     "4y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 224000
+   },
+   {
+    "id": "XdVXrno-3B4",
+    "title": "Tightrope-walking powered Gyroscope",
+    "meta": [
+     "648K",
+     "4y ago"
+    ],
+    "dur": "12:42",
+    "views_tab": 648000
+   },
+   {
+    "id": "eOT_G-1ogn4",
+    "title": "Large Magnetic Levitator",
+    "meta": [
+     "377K",
+     "4y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 377000
+   },
+   {
+    "id": "QHonF5h8tqo",
+    "title": "Building a Maglev train for my Christmas Tree",
+    "meta": [
+     "156K",
+     "4y ago"
+    ],
+    "dur": "8:57",
+    "views_tab": 156000
+   },
+   {
+    "id": "GJcQfJ6JTZg",
+    "title": "Automatic Coil Winding Machine",
+    "meta": [
+     "240K",
+     "4y ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 240000
+   },
+   {
+    "id": "CLS8pbDNHbk",
+    "title": "Stealing Electricity (The safe way)",
+    "meta": [
+     "2.1M",
+     "4y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 2100000
+   },
+   {
+    "id": "F8l9Z1HGYcU",
+    "title": "Brushless DC Speed Controller",
+    "meta": [
+     "510K",
+     "4y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 510000
+   },
+   {
+    "id": "X31B1pVow1o",
+    "title": "8-Bit Adder built from 152 Transistors",
+    "meta": [
+     "795K",
+     "5y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 795000
+   },
+   {
+    "id": "1EabqJJnWhc",
+    "title": "Ignition Coil Drivers",
+    "meta": [
+     "582K",
+     "5y ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 582000
+   },
+   {
+    "id": "USiW2xFOSFg",
+    "title": "320,000 Volt Marx Generator",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 66000
+   },
+   {
+    "id": "iXu-ForqR-M",
+    "title": "Solid State Tesla Coil (SSTC) - Part 4",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 24000
+   },
+   {
+    "id": "T66Ig4iOcig",
+    "title": "DIY Remote Controlled Electric Lawnmower",
+    "meta": [
+     "162K",
+     "5y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 162000
+   },
+   {
+    "id": "ncHoBamK9jA",
+    "title": "Solid State Tesla Coil (SSTC) - Part 3",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 41000
+   },
+   {
+    "id": "U_dhVrOCprA",
+    "title": "Solid State Tesla Coil (SSTC) - Part 2",
+    "meta": [
+     "43K",
+     "5y ago"
+    ],
+    "dur": "19:41",
+    "views_tab": 43000
+   },
+   {
+    "id": "CdUaW9StZwg",
+    "title": "Solid State Tesla Coil (SSTC) Part 1",
+    "meta": [
+     "48K",
+     "5y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 48000
+   },
+   {
+    "id": "v7t6dXT-Ffs",
+    "title": "3d Printed Waterwheel Generator",
+    "meta": [
+     "73K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 73000
+   },
+   {
+    "id": "mcD3uBld4Y4",
+    "title": "1 MHz AM Transmitter",
+    "meta": [
+     "165K",
+     "5y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 165000
+   },
+   {
+    "id": "cRY7HEzoOwk",
+    "title": "Mechanical inverter/transformer - 3V to 700V",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 44000
+   },
+   {
+    "id": "on3sQQa88dE",
+    "title": "Wireless Power RC Car",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 11000
+   },
+   {
+    "id": "D9IGjKJaO6w",
+    "title": "Wireless Power Transmission",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 42000
+   },
+   {
+    "id": "GUOHjON9RVg",
+    "title": "My Homemade Submarine",
+    "meta": [
+     "175K",
+     "5y ago"
+    ],
+    "dur": "13:07",
+    "views_tab": 175000
+   },
+   {
+    "id": "SmjKbNoK6nU",
+    "title": "120,000-Volt Multiplier",
+    "meta": [
+     "108K",
+     "5y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 108000
+   },
+   {
+    "id": "G9mudqJ46xM",
+    "title": "Mini Induction Heater",
+    "meta": [
+     "169K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 169000
+   },
+   {
+    "id": "KefetoLcZgE",
+    "title": "30,000 Volt Plasma Tube",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 45000
+   },
+   {
+    "id": "npypgEVxdRU",
+    "title": "30W Bipolar Tesla Coil",
+    "meta": [
+     "13K",
+     "5y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 13000
+   },
+   {
+    "id": "UUI0k7w_09g",
+    "title": "High Voltage Induction Launcher",
+    "meta": [
+     "158K",
+     "5y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 158000
+   },
+   {
+    "id": "Wedh-vp-pWI",
+    "title": "150V Mini Mortar",
+    "meta": [
+     "19K",
+     "5y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 19000
+   },
+   {
+    "id": "uNbL3tRZeMQ",
+    "title": "Electromagnetic Accelerator Improvements Part II",
+    "meta": [
+     "5.5M",
+     "5y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 5500000
+   },
+   {
+    "id": "OIw1JiMGHlw",
+    "title": "Electromagnetic Accelerator Improvements Part I - Gauss Cannon test rig",
+    "meta": [
+     "62K",
+     "5y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 62000
+   },
+   {
+    "id": "2j90m6k2vCo",
+    "title": "32 Volt Hand-cranked Generator",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 10000
+   },
+   {
+    "id": "qfmv-rHK_RU",
+    "title": "Electromagnetic Ring Accelerator",
+    "meta": [
+     "347K",
+     "5y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 347000
+   },
+   {
+    "id": "Nm9DAqkCOKU",
+    "title": "3-Axis Magnetometer Build",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "8:16",
+    "views_tab": 18000
+   },
+   {
+    "id": "0PiGNDu3Oqs",
+    "title": "Hand-Cranked 2V generator",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 15000
+   },
+   {
+    "id": "HY-rKw4qngk",
+    "title": "6,000V / 2.4 kW Power Supply",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "6zdD5Rkx8OE",
+    "title": "Creating a Tesla Coil winding machine",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 21000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "uNbL3tRZeMQ",
+    "title": "Electromagnetic Accelerator Improvements Part II",
+    "meta": [
+     "5.5M",
+     "5y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 5500000
+   },
+   {
+    "id": "R29G3hUiZnU",
+    "title": "CNC Mill for under $100",
+    "meta": [
+     "3.2M",
+     "4y ago"
+    ],
+    "dur": "18:05",
+    "views_tab": 3200000
+   },
+   {
+    "id": "oIWgzVaGn4Y",
+    "title": "Automated Hydrogen Generator",
+    "meta": [
+     "2.3M",
+     "3y ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 2300000
+   },
+   {
+    "id": "q_dVvGQ72YY",
+    "title": "Making Dry Ice from scratch",
+    "meta": [
+     "2.1M",
+     "3y ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 2100000
+   },
+   {
+    "id": "CLS8pbDNHbk",
+    "title": "Stealing Electricity (The safe way)",
+    "meta": [
+     "2.1M",
+     "4y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 2100000
+   },
+   {
+    "id": "7QZrHzd3RA8",
+    "title": "DIY Vapor Compression Refrigeration System",
+    "meta": [
+     "1.6M",
+     "3y ago"
+    ],
+    "dur": "28:06",
+    "views_tab": 1600000
+   },
+   {
+    "id": "WOmjJFk8rl0",
+    "title": "Pulse Tube Cryocooler - Part 2 (-75C)",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 1000000
+   },
+   {
+    "id": "udIEGE5mfcA",
+    "title": "Battery-Powered Magnetron",
+    "meta": [
+     "946K",
+     "2y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 946000
+   },
+   {
+    "id": "X31B1pVow1o",
+    "title": "8-Bit Adder built from 152 Transistors",
+    "meta": [
+     "795K",
+     "5y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 795000
+   },
+   {
+    "id": "15ga4KMSWqU",
+    "title": "DIY Micro Steam Powerplant",
+    "meta": [
+     "775K",
+     "2y ago"
+    ],
+    "dur": "19:59",
+    "views_tab": 775000
+   },
+   {
+    "id": "shNaC7d4CMA",
+    "title": "Submarine Kayak - Part 1",
+    "meta": [
+     "761K",
+     "4y ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 761000
+   },
+   {
+    "id": "SwzpX-jgbYM",
+    "title": "Upgrading my Homemade CNC",
+    "meta": [
+     "705K",
+     "4y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 705000
+   },
+   {
+    "id": "GjRoThMyNGA",
+    "title": "Pulse Tube Cryocooler - Part 1",
+    "meta": [
+     "683K",
+     "3y ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 683000
+   },
+   {
+    "id": "XdVXrno-3B4",
+    "title": "Tightrope-walking powered Gyroscope",
+    "meta": [
+     "648K",
+     "4y ago"
+    ],
+    "dur": "12:42",
+    "views_tab": 648000
+   },
+   {
+    "id": "2hSkXNEV-GU",
+    "title": "DIY Mini Battery-Powered Vapor-Compression Air Conditioner",
+    "meta": [
+     "623K",
+     "10mo ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 623000
+   },
+   {
+    "id": "Jj7Q7OqaW4A",
+    "title": "Building a Gifford-McMahon Cryocooler With 3d-Printed Parts",
+    "meta": [
+     "594K",
+     "4mo ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 594000
+   },
+   {
+    "id": "1EabqJJnWhc",
+    "title": "Ignition Coil Drivers",
+    "meta": [
+     "582K",
+     "5y ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 582000
+   },
+   {
+    "id": "_nKihWAYrEM",
+    "title": "1,500 Watt HHO Gas Generator",
+    "meta": [
+     "525K",
+     "1y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 525000
+   },
+   {
+    "id": "F8l9Z1HGYcU",
+    "title": "Brushless DC Speed Controller",
+    "meta": [
+     "510K",
+     "4y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 510000
+   },
+   {
+    "id": "agwKNLoU6g8",
+    "title": "4,000-Joule Exploding Wire Machine",
+    "meta": [
+     "503K",
+     "1y ago"
+    ],
+    "dur": "27:01",
+    "views_tab": 503000
+   },
+   {
+    "id": "qv0IJM3BV9Y",
+    "title": "A Homemade Refrigerated Vest That Can Run Off Battery or Solar Power",
+    "meta": [
+     "449K",
+     "8mo ago"
+    ],
+    "dur": "18:53",
+    "views_tab": 449000
+   },
+   {
+    "id": "HSvguJ7u3VM",
+    "title": "Storing Solar Energy As Ice For Air Conditioning",
+    "meta": [
+     "399K",
+     "7mo ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 399000
+   },
+   {
+    "id": "eOT_G-1ogn4",
+    "title": "Large Magnetic Levitator",
+    "meta": [
+     "377K",
+     "4y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 377000
+   },
+   {
+    "id": "r_B0RmRlFHA",
+    "title": "Joule-Thompson Cryocooler",
+    "meta": [
+     "374K",
+     "3y ago"
+    ],
+    "dur": "29:02",
+    "views_tab": 374000
+   },
+   {
+    "id": "AiHksObCLuU",
+    "title": "Acetylene Gas from Sea Shells and Driftwood",
+    "meta": [
+     "372K",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 372000
+   },
+   {
+    "id": "T76UDLPv04Y",
+    "title": "DIY Cascade Refrigeration System (Part I)",
+    "meta": [
+     "366K",
+     "3y ago"
+    ],
+    "dur": "19:15",
+    "views_tab": 366000
+   },
+   {
+    "id": "eqxwsfy72L0",
+    "title": "Making Liquid Nitrogen with my Homemade Cryocooler",
+    "meta": [
+     "362K",
+     "2y ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 362000
+   },
+   {
+    "id": "AZqjMaiJZMQ",
+    "title": "Making Gigantic Ice Cubes In My Garage",
+    "meta": [
+     "362K",
+     "1y ago"
+    ],
+    "dur": "19:13",
+    "views_tab": 362000
+   },
+   {
+    "id": "qfmv-rHK_RU",
+    "title": "Electromagnetic Ring Accelerator",
+    "meta": [
+     "347K",
+     "5y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 347000
+   },
+   {
+    "id": "WW6ty2aeZ-k",
+    "title": "Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics",
+    "meta": [
+     "346K",
+     "11mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 346000
+   },
+   {
+    "id": "UKFEbYdKdJg",
+    "title": "Making Ethylene (Refrigerant R1150)",
+    "meta": [
+     "343K",
+     "3y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 343000
+   },
+   {
+    "id": "4lNIHBHzbn8",
+    "title": "Gifford-McMahon Cryocooler Part I - Building The Helium Compressor",
+    "meta": [
+     "307K",
+     "1mo ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 307000
+   },
+   {
+    "id": "UXNcivV8JNw",
+    "title": "DIY Synthetic Fuel Part I - Making Syngas And A High Pressure Compressor",
+    "meta": [
+     "285K",
+     "4w ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 285000
+   },
+   {
+    "id": "Yg5swK_AnbU",
+    "title": "3d Printed Compressed Air Turbine",
+    "meta": [
+     "280K",
+     "4y ago"
+    ],
+    "dur": "13:40",
+    "views_tab": 280000
+   },
+   {
+    "id": "4NRkFqeO27Y",
+    "title": "DIY X-ray Machine",
+    "meta": [
+     "268K",
+     "1y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 268000
+   },
+   {
+    "id": "7M5x2OFYP-k",
+    "title": "Making Copper Parts from Algaecide",
+    "meta": [
+     "265K",
+     "2y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 265000
+   },
+   {
+    "id": "9-Bq0iL6F8w",
+    "title": "Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making Liquid Air",
+    "meta": [
+     "258K",
+     "1mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 258000
+   },
+   {
+    "id": "cy8aGMH8Tz4",
+    "title": "Pulse Tube Cryocooler (Part 3)",
+    "meta": [
+     "255K",
+     "3y ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 255000
+   },
+   {
+    "id": "JSjlcPMi2yA",
+    "title": "DIY Cascade Refrigeration System (Part II)",
+    "meta": [
+     "254K",
+     "3y ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 254000
+   },
+   {
+    "id": "7uQ3YW3_3eA",
+    "title": "Joule-Thomson Cryocooler Part II (-153\u00b0C)",
+    "meta": [
+     "253K",
+     "3y ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 253000
+   },
+   {
+    "id": "adTKHcrOzMU",
+    "title": "Transmitting Wireless Power over 100 ft",
+    "meta": [
+     "246K",
+     "1y ago"
+    ],
+    "dur": "24:12",
+    "views_tab": 246000
+   },
+   {
+    "id": "GJcQfJ6JTZg",
+    "title": "Automatic Coil Winding Machine",
+    "meta": [
+     "240K",
+     "4y ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 240000
+   },
+   {
+    "id": "HZYWpZYuRKc",
+    "title": "Making Nitrates with 150,000 Volts",
+    "meta": [
+     "234K",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 234000
+   },
+   {
+    "id": "zRrgvYJ8gAY",
+    "title": "Automated Ethylene Production Plant",
+    "meta": [
+     "231K",
+     "2y ago"
+    ],
+    "dur": "13:11",
+    "views_tab": 231000
+   },
+   {
+    "id": "C3LCjp_REYA",
+    "title": "How to make Ethane Refrigerant (R170)",
+    "meta": [
+     "229K",
+     "2y ago"
+    ],
+    "dur": "23:29",
+    "views_tab": 229000
+   },
+   {
+    "id": "1QK6zRQ8D4A",
+    "title": "A Generator built from a Stepper Motor and Supercapacitors",
+    "meta": [
+     "224K",
+     "4y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 224000
+   },
+   {
+    "id": "4rjwx5q2fVI",
+    "title": "Making Liquid Methane (and blowing up my Cryocooler)",
+    "meta": [
+     "219K",
+     "2y ago"
+    ],
+    "dur": "17:19",
+    "views_tab": 219000
+   },
+   {
+    "id": "vC2it8LHKSQ",
+    "title": "Pulse Tube Cryocooler (Part 4) - Valve Controlled",
+    "meta": [
+     "209K",
+     "3y ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 209000
+   },
+   {
+    "id": "7IkyVFxDQQw",
+    "title": "Welding with Natural Gas and a DIY Oxygen Concentrator",
+    "meta": [
+     "209K",
+     "1y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 209000
+   },
+   {
+    "id": "mCLPCMgDScI",
+    "title": "Making a 3d-printed Underwater Dive Helmet With A Floating Air Supply",
+    "meta": [
+     "202K",
+     "7mo ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 202000
+   },
+   {
+    "id": "RvfuDIWNzGc",
+    "title": "Generating Electrical Power From Sugar",
+    "meta": [
+     "201K",
+     "3mo ago"
+    ],
+    "dur": "21:41",
+    "views_tab": 201000
+   },
+   {
+    "id": "OpyLmIjZaxY",
+    "title": "Gyro-Stabilized Monorail Train",
+    "meta": [
+     "200K",
+     "2y ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 200000
+   },
+   {
+    "id": "9MdJLTgTCSU",
+    "title": "Homemade Autocascade Refrigeration System (plus Anhydrous Ammonia)",
+    "meta": [
+     "194K",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 194000
+   },
+   {
+    "id": "f6mLykQjxZ0",
+    "title": "Producing refrigeration from my pee",
+    "meta": [
+     "186K",
+     "2y ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 186000
+   },
+   {
+    "id": "GUOHjON9RVg",
+    "title": "My Homemade Submarine",
+    "meta": [
+     "175K",
+     "5y ago"
+    ],
+    "dur": "13:07",
+    "views_tab": 175000
+   },
+   {
+    "id": "CLX_pQbSFFg",
+    "title": "Making Plasma By Hand",
+    "meta": [
+     "172K",
+     "1y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 172000
+   },
+   {
+    "id": "JN_7KgdB1V8",
+    "title": "Dry Ice from Sea Shells",
+    "meta": [
+     "171K",
+     "2y ago"
+    ],
+    "dur": "15:09",
+    "views_tab": 171000
+   },
+   {
+    "id": "oI_QEbG6mDE",
+    "title": "DIY Cascade Refrigeration System (Part III)",
+    "meta": [
+     "171K",
+     "2y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 171000
+   },
+   {
+    "id": "G9mudqJ46xM",
+    "title": "Mini Induction Heater",
+    "meta": [
+     "169K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 169000
+   },
+   {
+    "id": "mcD3uBld4Y4",
+    "title": "1 MHz AM Transmitter",
+    "meta": [
+     "165K",
+     "5y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 165000
+   },
+   {
+    "id": "T66Ig4iOcig",
+    "title": "DIY Remote Controlled Electric Lawnmower",
+    "meta": [
+     "162K",
+     "5y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 162000
+   },
+   {
+    "id": "u7k2wiY4Flo",
+    "title": "Electro-Mechanical Resonant Oscillator",
+    "meta": [
+     "161K",
+     "3y ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 161000
+   },
+   {
+    "id": "UUI0k7w_09g",
+    "title": "High Voltage Induction Launcher",
+    "meta": [
+     "158K",
+     "5y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 158000
+   },
+   {
+    "id": "QHonF5h8tqo",
+    "title": "Building a Maglev train for my Christmas Tree",
+    "meta": [
+     "156K",
+     "4y ago"
+    ],
+    "dur": "8:57",
+    "views_tab": 156000
+   },
+   {
+    "id": "AvyeK_MXTL0",
+    "title": "Magnetic Remote Control",
+    "meta": [
+     "148K",
+     "4y ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 148000
+   },
+   {
+    "id": "xImmwL5MR0o",
+    "title": "Tabletop Tesla Coil",
+    "meta": [
+     "139K",
+     "4y ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 139000
+   },
+   {
+    "id": "-qWQaX8_EDY",
+    "title": "Seeing Radiation with the Naked Eye",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "15:13",
+    "views_tab": 138000
+   },
+   {
+    "id": "Fh3kbC1otMM",
+    "title": "Making Sodium Metal",
+    "meta": [
+     "137K",
+     "1y ago"
+    ],
+    "dur": "20:23",
+    "views_tab": 137000
+   },
+   {
+    "id": "pIGd8ZqkmzE",
+    "title": "Filling High Pressure CO2 Tanks From Fermentation",
+    "meta": [
+     "134K",
+     "3mo ago"
+    ],
+    "dur": "18:19",
+    "views_tab": 134000
+   },
+   {
+    "id": "5CVnrzNm310",
+    "title": "Turning Fruits Into Refrigerant",
+    "meta": [
+     "130K",
+     "2mo ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 130000
+   },
+   {
+    "id": "tXeFSk1ndWA",
+    "title": "Testing Refrigerants and Capillary Tubes to Find Peak Performance",
+    "meta": [
+     "130K",
+     "6mo ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 130000
+   },
+   {
+    "id": "uxmJ5qT2Gaw",
+    "title": "Making Big Dry Ice Blocks With Low Pressure CO2",
+    "meta": [
+     "130K",
+     "5mo ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 130000
+   },
+   {
+    "id": "2LwwqrbKzQ8",
+    "title": "Pulse Tube Cryocooler (Part V)",
+    "meta": [
+     "113K",
+     "6mo ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 113000
+   },
+   {
+    "id": "SmjKbNoK6nU",
+    "title": "120,000-Volt Multiplier",
+    "meta": [
+     "108K",
+     "5y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 108000
+   },
+   {
+    "id": "RMUHxo2TOUk",
+    "title": "Comparing Turbine Rotors",
+    "meta": [
+     "100K",
+     "4y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 100000
+   },
+   {
+    "id": "54Htg4I_ZBA",
+    "title": "Gyroscopic Stabilization with Weight Shifting",
+    "meta": [
+     "100K",
+     "1y ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 100000
+   },
+   {
+    "id": "IRRF1FadkFw",
+    "title": "Inductor Tester",
+    "meta": [
+     "99K",
+     "4y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 99000
+   },
+   {
+    "id": "Ht9JzOryaKc",
+    "title": "Turning X-rays into 3d prints with a DIY CT scanner",
+    "meta": [
+     "95K",
+     "1y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 95000
+   },
+   {
+    "id": "ooPlDbRXzAc",
+    "title": "500,000 Volt Lightning Tower",
+    "meta": [
+     "95K",
+     "4y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 95000
+   },
+   {
+    "id": "v7t6dXT-Ffs",
+    "title": "3d Printed Waterwheel Generator",
+    "meta": [
+     "73K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 73000
+   },
+   {
+    "id": "2Vb82SZE3JA",
+    "title": "Corona Discharge Photography",
+    "meta": [
+     "68K",
+     "4y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 68000
+   },
+   {
+    "id": "USiW2xFOSFg",
+    "title": "320,000 Volt Marx Generator",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 66000
+   },
+   {
+    "id": "OIw1JiMGHlw",
+    "title": "Electromagnetic Accelerator Improvements Part I - Gauss Cannon test rig",
+    "meta": [
+     "62K",
+     "5y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 62000
+   },
+   {
+    "id": "CdUaW9StZwg",
+    "title": "Solid State Tesla Coil (SSTC) Part 1",
+    "meta": [
+     "48K",
+     "5y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 48000
+   },
+   {
+    "id": "KefetoLcZgE",
+    "title": "30,000 Volt Plasma Tube",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 45000
+   },
+   {
+    "id": "cRY7HEzoOwk",
+    "title": "Mechanical inverter/transformer - 3V to 700V",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 44000
+   },
+   {
+    "id": "U_dhVrOCprA",
+    "title": "Solid State Tesla Coil (SSTC) - Part 2",
+    "meta": [
+     "43K",
+     "5y ago"
+    ],
+    "dur": "19:41",
+    "views_tab": 43000
+   },
+   {
+    "id": "D9IGjKJaO6w",
+    "title": "Wireless Power Transmission",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 42000
+   },
+   {
+    "id": "ncHoBamK9jA",
+    "title": "Solid State Tesla Coil (SSTC) - Part 3",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 41000
+   },
+   {
+    "id": "SdJwY4Huukc",
+    "title": "RC Airboat with a Water Cannon",
+    "meta": [
+     "35K",
+     "4y ago"
+    ],
+    "dur": "18:14",
+    "views_tab": 35000
+   },
+   {
+    "id": "iXu-ForqR-M",
+    "title": "Solid State Tesla Coil (SSTC) - Part 4",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 24000
+   },
+   {
+    "id": "HY-rKw4qngk",
+    "title": "6,000V / 2.4 kW Power Supply",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "6zdD5Rkx8OE",
+    "title": "Creating a Tesla Coil winding machine",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 21000
+   },
+   {
+    "id": "Wedh-vp-pWI",
+    "title": "150V Mini Mortar",
+    "meta": [
+     "19K",
+     "5y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 19000
+   },
+   {
+    "id": "Nm9DAqkCOKU",
+    "title": "3-Axis Magnetometer Build",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "8:16",
+    "views_tab": 18000
+   },
+   {
+    "id": "0PiGNDu3Oqs",
+    "title": "Hand-Cranked 2V generator",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 15000
+   },
+   {
+    "id": "npypgEVxdRU",
+    "title": "30W Bipolar Tesla Coil",
+    "meta": [
+     "13K",
+     "5y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 13000
+   },
+   {
+    "id": "on3sQQa88dE",
+    "title": "Wireless Power RC Car",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 11000
+   },
+   {
+    "id": "2j90m6k2vCo",
+    "title": "32 Volt Hand-cranked Generator",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 10000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "6zdD5Rkx8OE",
+    "title": "Creating a Tesla Coil winding machine",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 21000
+   },
+   {
+    "id": "HY-rKw4qngk",
+    "title": "6,000V / 2.4 kW Power Supply",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "0PiGNDu3Oqs",
+    "title": "Hand-Cranked 2V generator",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 15000
+   },
+   {
+    "id": "Nm9DAqkCOKU",
+    "title": "3-Axis Magnetometer Build",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "8:16",
+    "views_tab": 18000
+   },
+   {
+    "id": "qfmv-rHK_RU",
+    "title": "Electromagnetic Ring Accelerator",
+    "meta": [
+     "347K",
+     "5y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 347000
+   },
+   {
+    "id": "2j90m6k2vCo",
+    "title": "32 Volt Hand-cranked Generator",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 10000
+   },
+   {
+    "id": "OIw1JiMGHlw",
+    "title": "Electromagnetic Accelerator Improvements Part I - Gauss Cannon test rig",
+    "meta": [
+     "62K",
+     "5y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 62000
+   },
+   {
+    "id": "uNbL3tRZeMQ",
+    "title": "Electromagnetic Accelerator Improvements Part II",
+    "meta": [
+     "5.5M",
+     "5y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 5500000
+   },
+   {
+    "id": "Wedh-vp-pWI",
+    "title": "150V Mini Mortar",
+    "meta": [
+     "19K",
+     "5y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 19000
+   },
+   {
+    "id": "UUI0k7w_09g",
+    "title": "High Voltage Induction Launcher",
+    "meta": [
+     "158K",
+     "5y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 158000
+   },
+   {
+    "id": "npypgEVxdRU",
+    "title": "30W Bipolar Tesla Coil",
+    "meta": [
+     "13K",
+     "5y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 13000
+   },
+   {
+    "id": "KefetoLcZgE",
+    "title": "30,000 Volt Plasma Tube",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 45000
+   },
+   {
+    "id": "G9mudqJ46xM",
+    "title": "Mini Induction Heater",
+    "meta": [
+     "169K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 169000
+   },
+   {
+    "id": "SmjKbNoK6nU",
+    "title": "120,000-Volt Multiplier",
+    "meta": [
+     "108K",
+     "5y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 108000
+   },
+   {
+    "id": "GUOHjON9RVg",
+    "title": "My Homemade Submarine",
+    "meta": [
+     "175K",
+     "5y ago"
+    ],
+    "dur": "13:07",
+    "views_tab": 175000
+   },
+   {
+    "id": "D9IGjKJaO6w",
+    "title": "Wireless Power Transmission",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 42000
+   },
+   {
+    "id": "on3sQQa88dE",
+    "title": "Wireless Power RC Car",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 11000
+   },
+   {
+    "id": "cRY7HEzoOwk",
+    "title": "Mechanical inverter/transformer - 3V to 700V",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 44000
+   },
+   {
+    "id": "mcD3uBld4Y4",
+    "title": "1 MHz AM Transmitter",
+    "meta": [
+     "165K",
+     "5y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 165000
+   },
+   {
+    "id": "v7t6dXT-Ffs",
+    "title": "3d Printed Waterwheel Generator",
+    "meta": [
+     "73K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 73000
+   },
+   {
+    "id": "CdUaW9StZwg",
+    "title": "Solid State Tesla Coil (SSTC) Part 1",
+    "meta": [
+     "48K",
+     "5y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 48000
+   },
+   {
+    "id": "U_dhVrOCprA",
+    "title": "Solid State Tesla Coil (SSTC) - Part 2",
+    "meta": [
+     "43K",
+     "5y ago"
+    ],
+    "dur": "19:41",
+    "views_tab": 43000
+   },
+   {
+    "id": "ncHoBamK9jA",
+    "title": "Solid State Tesla Coil (SSTC) - Part 3",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 41000
+   },
+   {
+    "id": "T66Ig4iOcig",
+    "title": "DIY Remote Controlled Electric Lawnmower",
+    "meta": [
+     "162K",
+     "5y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 162000
+   },
+   {
+    "id": "iXu-ForqR-M",
+    "title": "Solid State Tesla Coil (SSTC) - Part 4",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 24000
+   },
+   {
+    "id": "USiW2xFOSFg",
+    "title": "320,000 Volt Marx Generator",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 66000
+   },
+   {
+    "id": "1EabqJJnWhc",
+    "title": "Ignition Coil Drivers",
+    "meta": [
+     "582K",
+     "5y ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 582000
+   },
+   {
+    "id": "X31B1pVow1o",
+    "title": "8-Bit Adder built from 152 Transistors",
+    "meta": [
+     "795K",
+     "5y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 795000
+   },
+   {
+    "id": "F8l9Z1HGYcU",
+    "title": "Brushless DC Speed Controller",
+    "meta": [
+     "510K",
+     "4y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 510000
+   },
+   {
+    "id": "CLS8pbDNHbk",
+    "title": "Stealing Electricity (The safe way)",
+    "meta": [
+     "2.1M",
+     "4y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 2100000
+   },
+   {
+    "id": "GJcQfJ6JTZg",
+    "title": "Automatic Coil Winding Machine",
+    "meta": [
+     "240K",
+     "4y ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 240000
+   },
+   {
+    "id": "QHonF5h8tqo",
+    "title": "Building a Maglev train for my Christmas Tree",
+    "meta": [
+     "156K",
+     "4y ago"
+    ],
+    "dur": "8:57",
+    "views_tab": 156000
+   },
+   {
+    "id": "eOT_G-1ogn4",
+    "title": "Large Magnetic Levitator",
+    "meta": [
+     "377K",
+     "4y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 377000
+   },
+   {
+    "id": "XdVXrno-3B4",
+    "title": "Tightrope-walking powered Gyroscope",
+    "meta": [
+     "648K",
+     "4y ago"
+    ],
+    "dur": "12:42",
+    "views_tab": 648000
+   },
+   {
+    "id": "1QK6zRQ8D4A",
+    "title": "A Generator built from a Stepper Motor and Supercapacitors",
+    "meta": [
+     "224K",
+     "4y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 224000
+   },
+   {
+    "id": "R29G3hUiZnU",
+    "title": "CNC Mill for under $100",
+    "meta": [
+     "3.2M",
+     "4y ago"
+    ],
+    "dur": "18:05",
+    "views_tab": 3200000
+   },
+   {
+    "id": "SwzpX-jgbYM",
+    "title": "Upgrading my Homemade CNC",
+    "meta": [
+     "705K",
+     "4y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 705000
+   },
+   {
+    "id": "Yg5swK_AnbU",
+    "title": "3d Printed Compressed Air Turbine",
+    "meta": [
+     "280K",
+     "4y ago"
+    ],
+    "dur": "13:40",
+    "views_tab": 280000
+   },
+   {
+    "id": "RMUHxo2TOUk",
+    "title": "Comparing Turbine Rotors",
+    "meta": [
+     "100K",
+     "4y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 100000
+   },
+   {
+    "id": "shNaC7d4CMA",
+    "title": "Submarine Kayak - Part 1",
+    "meta": [
+     "761K",
+     "4y ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 761000
+   },
+   {
+    "id": "SdJwY4Huukc",
+    "title": "RC Airboat with a Water Cannon",
+    "meta": [
+     "35K",
+     "4y ago"
+    ],
+    "dur": "18:14",
+    "views_tab": 35000
+   },
+   {
+    "id": "AvyeK_MXTL0",
+    "title": "Magnetic Remote Control",
+    "meta": [
+     "148K",
+     "4y ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 148000
+   },
+   {
+    "id": "IRRF1FadkFw",
+    "title": "Inductor Tester",
+    "meta": [
+     "99K",
+     "4y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 99000
+   },
+   {
+    "id": "ooPlDbRXzAc",
+    "title": "500,000 Volt Lightning Tower",
+    "meta": [
+     "95K",
+     "4y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 95000
+   },
+   {
+    "id": "xImmwL5MR0o",
+    "title": "Tabletop Tesla Coil",
+    "meta": [
+     "139K",
+     "4y ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 139000
+   },
+   {
+    "id": "2Vb82SZE3JA",
+    "title": "Corona Discharge Photography",
+    "meta": [
+     "68K",
+     "4y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 68000
+   },
+   {
+    "id": "u7k2wiY4Flo",
+    "title": "Electro-Mechanical Resonant Oscillator",
+    "meta": [
+     "161K",
+     "3y ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 161000
+   },
+   {
+    "id": "GjRoThMyNGA",
+    "title": "Pulse Tube Cryocooler - Part 1",
+    "meta": [
+     "683K",
+     "3y ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 683000
+   },
+   {
+    "id": "WOmjJFk8rl0",
+    "title": "Pulse Tube Cryocooler - Part 2 (-75C)",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 1000000
+   },
+   {
+    "id": "cy8aGMH8Tz4",
+    "title": "Pulse Tube Cryocooler (Part 3)",
+    "meta": [
+     "255K",
+     "3y ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 255000
+   },
+   {
+    "id": "vC2it8LHKSQ",
+    "title": "Pulse Tube Cryocooler (Part 4) - Valve Controlled",
+    "meta": [
+     "209K",
+     "3y ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 209000
+   },
+   {
+    "id": "q_dVvGQ72YY",
+    "title": "Making Dry Ice from scratch",
+    "meta": [
+     "2.1M",
+     "3y ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 2100000
+   },
+   {
+    "id": "7QZrHzd3RA8",
+    "title": "DIY Vapor Compression Refrigeration System",
+    "meta": [
+     "1.6M",
+     "3y ago"
+    ],
+    "dur": "28:06",
+    "views_tab": 1600000
+   },
+   {
+    "id": "UKFEbYdKdJg",
+    "title": "Making Ethylene (Refrigerant R1150)",
+    "meta": [
+     "343K",
+     "3y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 343000
+   },
+   {
+    "id": "T76UDLPv04Y",
+    "title": "DIY Cascade Refrigeration System (Part I)",
+    "meta": [
+     "366K",
+     "3y ago"
+    ],
+    "dur": "19:15",
+    "views_tab": 366000
+   },
+   {
+    "id": "JSjlcPMi2yA",
+    "title": "DIY Cascade Refrigeration System (Part II)",
+    "meta": [
+     "254K",
+     "3y ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 254000
+   },
+   {
+    "id": "r_B0RmRlFHA",
+    "title": "Joule-Thompson Cryocooler",
+    "meta": [
+     "374K",
+     "3y ago"
+    ],
+    "dur": "29:02",
+    "views_tab": 374000
+   },
+   {
+    "id": "-qWQaX8_EDY",
+    "title": "Seeing Radiation with the Naked Eye",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "15:13",
+    "views_tab": 138000
+   },
+   {
+    "id": "7uQ3YW3_3eA",
+    "title": "Joule-Thomson Cryocooler Part II (-153\u00b0C)",
+    "meta": [
+     "253K",
+     "3y ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 253000
+   },
+   {
+    "id": "oIWgzVaGn4Y",
+    "title": "Automated Hydrogen Generator",
+    "meta": [
+     "2.3M",
+     "3y ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 2300000
+   },
+   {
+    "id": "udIEGE5mfcA",
+    "title": "Battery-Powered Magnetron",
+    "meta": [
+     "946K",
+     "2y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 946000
+   },
+   {
+    "id": "JN_7KgdB1V8",
+    "title": "Dry Ice from Sea Shells",
+    "meta": [
+     "171K",
+     "2y ago"
+    ],
+    "dur": "15:09",
+    "views_tab": 171000
+   },
+   {
+    "id": "f6mLykQjxZ0",
+    "title": "Producing refrigeration from my pee",
+    "meta": [
+     "186K",
+     "2y ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 186000
+   },
+   {
+    "id": "C3LCjp_REYA",
+    "title": "How to make Ethane Refrigerant (R170)",
+    "meta": [
+     "229K",
+     "2y ago"
+    ],
+    "dur": "23:29",
+    "views_tab": 229000
+   },
+   {
+    "id": "zRrgvYJ8gAY",
+    "title": "Automated Ethylene Production Plant",
+    "meta": [
+     "231K",
+     "2y ago"
+    ],
+    "dur": "13:11",
+    "views_tab": 231000
+   },
+   {
+    "id": "oI_QEbG6mDE",
+    "title": "DIY Cascade Refrigeration System (Part III)",
+    "meta": [
+     "171K",
+     "2y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 171000
+   },
+   {
+    "id": "4rjwx5q2fVI",
+    "title": "Making Liquid Methane (and blowing up my Cryocooler)",
+    "meta": [
+     "219K",
+     "2y ago"
+    ],
+    "dur": "17:19",
+    "views_tab": 219000
+   },
+   {
+    "id": "eqxwsfy72L0",
+    "title": "Making Liquid Nitrogen with my Homemade Cryocooler",
+    "meta": [
+     "362K",
+     "2y ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 362000
+   },
+   {
+    "id": "7M5x2OFYP-k",
+    "title": "Making Copper Parts from Algaecide",
+    "meta": [
+     "265K",
+     "2y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 265000
+   },
+   {
+    "id": "OpyLmIjZaxY",
+    "title": "Gyro-Stabilized Monorail Train",
+    "meta": [
+     "200K",
+     "2y ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 200000
+   },
+   {
+    "id": "15ga4KMSWqU",
+    "title": "DIY Micro Steam Powerplant",
+    "meta": [
+     "775K",
+     "2y ago"
+    ],
+    "dur": "19:59",
+    "views_tab": 775000
+   },
+   {
+    "id": "9MdJLTgTCSU",
+    "title": "Homemade Autocascade Refrigeration System (plus Anhydrous Ammonia)",
+    "meta": [
+     "194K",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 194000
+   },
+   {
+    "id": "54Htg4I_ZBA",
+    "title": "Gyroscopic Stabilization with Weight Shifting",
+    "meta": [
+     "100K",
+     "1y ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 100000
+   },
+   {
+    "id": "AiHksObCLuU",
+    "title": "Acetylene Gas from Sea Shells and Driftwood",
+    "meta": [
+     "372K",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 372000
+   },
+   {
+    "id": "AZqjMaiJZMQ",
+    "title": "Making Gigantic Ice Cubes In My Garage",
+    "meta": [
+     "362K",
+     "1y ago"
+    ],
+    "dur": "19:13",
+    "views_tab": 362000
+   },
+   {
+    "id": "agwKNLoU6g8",
+    "title": "4,000-Joule Exploding Wire Machine",
+    "meta": [
+     "503K",
+     "1y ago"
+    ],
+    "dur": "27:01",
+    "views_tab": 503000
+   },
+   {
+    "id": "adTKHcrOzMU",
+    "title": "Transmitting Wireless Power over 100 ft",
+    "meta": [
+     "246K",
+     "1y ago"
+    ],
+    "dur": "24:12",
+    "views_tab": 246000
+   },
+   {
+    "id": "4NRkFqeO27Y",
+    "title": "DIY X-ray Machine",
+    "meta": [
+     "268K",
+     "1y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 268000
+   },
+   {
+    "id": "HZYWpZYuRKc",
+    "title": "Making Nitrates with 150,000 Volts",
+    "meta": [
+     "234K",
+     "1y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 234000
+   },
+   {
+    "id": "CLX_pQbSFFg",
+    "title": "Making Plasma By Hand",
+    "meta": [
+     "172K",
+     "1y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 172000
+   },
+   {
+    "id": "_nKihWAYrEM",
+    "title": "1,500 Watt HHO Gas Generator",
+    "meta": [
+     "525K",
+     "1y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 525000
+   },
+   {
+    "id": "Fh3kbC1otMM",
+    "title": "Making Sodium Metal",
+    "meta": [
+     "137K",
+     "1y ago"
+    ],
+    "dur": "20:23",
+    "views_tab": 137000
+   },
+   {
+    "id": "7IkyVFxDQQw",
+    "title": "Welding with Natural Gas and a DIY Oxygen Concentrator",
+    "meta": [
+     "209K",
+     "1y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 209000
+   },
+   {
+    "id": "Ht9JzOryaKc",
+    "title": "Turning X-rays into 3d prints with a DIY CT scanner",
+    "meta": [
+     "95K",
+     "1y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 95000
+   },
+   {
+    "id": "WW6ty2aeZ-k",
+    "title": "Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics",
+    "meta": [
+     "346K",
+     "11mo ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 346000
+   },
+   {
+    "id": "2hSkXNEV-GU",
+    "title": "DIY Mini Battery-Powered Vapor-Compression Air Conditioner",
+    "meta": [
+     "623K",
+     "10mo ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 623000
+   },
+   {
+    "id": "qv0IJM3BV9Y",
+    "title": "A Homemade Refrigerated Vest That Can Run Off Battery or Solar Power",
+    "meta": [
+     "449K",
+     "8mo ago"
+    ],
+    "dur": "18:53",
+    "views_tab": 449000
+   },
+   {
+    "id": "mCLPCMgDScI",
+    "title": "Making a 3d-printed Underwater Dive Helmet With A Floating Air Supply",
+    "meta": [
+     "202K",
+     "7mo ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 202000
+   },
+   {
+    "id": "HSvguJ7u3VM",
+    "title": "Storing Solar Energy As Ice For Air Conditioning",
+    "meta": [
+     "399K",
+     "7mo ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 399000
+   },
+   {
+    "id": "tXeFSk1ndWA",
+    "title": "Testing Refrigerants and Capillary Tubes to Find Peak Performance",
+    "meta": [
+     "130K",
+     "6mo ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 130000
+   },
+   {
+    "id": "2LwwqrbKzQ8",
+    "title": "Pulse Tube Cryocooler (Part V)",
+    "meta": [
+     "113K",
+     "6mo ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 113000
+   },
+   {
+    "id": "uxmJ5qT2Gaw",
+    "title": "Making Big Dry Ice Blocks With Low Pressure CO2",
+    "meta": [
+     "130K",
+     "5mo ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 130000
+   },
+   {
+    "id": "Jj7Q7OqaW4A",
+    "title": "Building a Gifford-McMahon Cryocooler With 3d-Printed Parts",
+    "meta": [
+     "594K",
+     "4mo ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 594000
+   },
+   {
+    "id": "RvfuDIWNzGc",
+    "title": "Generating Electrical Power From Sugar",
+    "meta": [
+     "201K",
+     "3mo ago"
+    ],
+    "dur": "21:41",
+    "views_tab": 201000
+   },
+   {
+    "id": "pIGd8ZqkmzE",
+    "title": "Filling High Pressure CO2 Tanks From Fermentation",
+    "meta": [
+     "134K",
+     "3mo ago"
+    ],
+    "dur": "18:19",
+    "views_tab": 134000
+   },
+   {
+    "id": "5CVnrzNm310",
+    "title": "Turning Fruits Into Refrigerant",
+    "meta": [
+     "130K",
+     "2mo ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 130000
+   },
+   {
+    "id": "4lNIHBHzbn8",
+    "title": "Gifford-McMahon Cryocooler Part I - Building The Helium Compressor",
+    "meta": [
+     "307K",
+     "1mo ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 307000
+   },
+   {
+    "id": "9-Bq0iL6F8w",
+    "title": "Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making Liquid Air",
+    "meta": [
+     "258K",
+     "1mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 258000
+   },
+   {
+    "id": "UXNcivV8JNw",
+    "title": "DIY Synthetic Fuel Part I - Making Syngas And A High Pressure Compressor",
+    "meta": [
+     "285K",
+     "4w ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 285000
+   }
+  ]
+ }
+}

@@ -1,0 +1,3925 @@
+{
+ "key": "UCXlofO53L7wDIvyVI5ty10Q",
+ "channel": "Grants Pass TV Repair",
+ "id": "UCXlofO53L7wDIvyVI5ty10Q",
+ "subs": "91.2K subscribers",
+ "videos": "299 videos",
+ "pulled": "2026-10-26T08:15:31.163732+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "ut_3fZ-LNyc",
+    "title": "Resonant Loop Antenna With Giant Capacitor Plates. The Surprising Effect.",
+    "meta": [
+     "155K",
+     "4d ago"
+    ],
+    "dur": "7:31",
+    "views_tab": 155000
+   },
+   {
+    "id": "6WEf4CCedTs",
+    "title": "Using a Grid Dip Meter to Build a Resonant Loop Field Strength Indicator",
+    "meta": [
+     "13K",
+     "1mo ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 13000
+   },
+   {
+    "id": "by5xyAeAzfI",
+    "title": "Build This Small 2-Meter Resonant Loop LED Field Strength Detector",
+    "meta": [
+     "27K",
+     "1mo ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 27000
+   },
+   {
+    "id": "kEQ5yHfAaBc",
+    "title": "Resonant Loop Antenna Upgrade And My Error.",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 1000
+   },
+   {
+    "id": "q4HRnD1LWMY",
+    "title": "Diode Comparison For Energy Harvesting From Radio Waves.",
+    "meta": [
+     "1.5K",
+     "3mo ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 1500
+   },
+   {
+    "id": "AXaWvpdIzGI",
+    "title": "Tuned Loop Resonant Antenna Magic!   Check Description For Important Update.",
+    "meta": [
+     "3.9K",
+     "3mo ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 3900
+   },
+   {
+    "id": "pSu_TjLIlwY",
+    "title": "Tactile Switch Repair With Alcohol ?",
+    "meta": [
+     "1.4K",
+     "4mo ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 1400
+   },
+   {
+    "id": "bmqgsUruuW8",
+    "title": "Surprise Kid Visits Grants Pass TV. ;-)",
+    "meta": [
+     "917",
+     "4mo ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 917
+   },
+   {
+    "id": "JgqVlj7D-jM",
+    "title": "Bose Acoustic Wave Radio Repair",
+    "meta": [
+     "784",
+     "5mo ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 784
+   },
+   {
+    "id": "GJt4A28CKUM",
+    "title": "Faraday Cages, Ham Swap Meet, Repeater Application Inventor, and more..",
+    "meta": [
+     "859",
+     "5mo ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 859
+   },
+   {
+    "id": "GcD9Y69jhIM",
+    "title": "Milwaukee Radio Repair. What made this diode go bad?",
+    "meta": [
+     "2.5K",
+     "5mo ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 2500
+   },
+   {
+    "id": "q2n1X7OCNTM",
+    "title": "Don't Replace Fuses Without Doing This Test !",
+    "meta": [
+     "2.1K",
+     "5mo ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 2100
+   },
+   {
+    "id": "0ZPV9Z5NKbs",
+    "title": "Grants Pass Oregon Arco Gas Station Crash. February 16, 2026.",
+    "meta": [
+     "1K",
+     "8mo ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "5Edjpk1cmP8",
+    "title": "Soldering On Plated Vias That Are Missing. The Fuel Pump Relay Was On A 2004 Ford Expedition.",
+    "meta": [
+     "769",
+     "8mo ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 769
+   },
+   {
+    "id": "NNo0aiNMXhQ",
+    "title": "ChatGPT And Grok Said My Energy Harvesting Device Can't Work but it does. LOL",
+    "meta": [
+     "1.4K",
+     "9mo ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 1400
+   },
+   {
+    "id": "uDaGF-hAmGU",
+    "title": "Thermal Master P1.Thermal Camera Test On Low Heat Sources..",
+    "meta": [
+     "2.7K",
+     "10mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 2700
+   },
+   {
+    "id": "IEhiqmXhrX8",
+    "title": "How To Desolder Connectors And Components When Other Techniques Fail.",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 1700
+   },
+   {
+    "id": "hIKmwsKGN7c",
+    "title": "Unclogging Ink Cartridges With Hydrogen Peroxide.",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 1400
+   },
+   {
+    "id": "yXVpk7POX_k",
+    "title": "Powering A Motor On Radio Waves.",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 11000
+   },
+   {
+    "id": "DwyraNT11OY",
+    "title": "Antenna Tuner For Free Power Experiment.",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "5:52",
+    "views_tab": 42000
+   },
+   {
+    "id": "Nyx2_fe7_8Y",
+    "title": "Long Distance Magnetic Field.",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 1900
+   },
+   {
+    "id": "hTuLsJiA-GE",
+    "title": "High Gain TV Antennas May Weaken Your Signals.",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 1000
+   },
+   {
+    "id": "YO1QfUpT3VM",
+    "title": "Turning Styrofoam Into useful blocks.",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 1000
+   },
+   {
+    "id": "2tY48bxsF1M",
+    "title": "Converting Video Heads Into Gyroscopes.",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 2100
+   },
+   {
+    "id": "TMZROk01R0U",
+    "title": "Are LED Lights And TVs Designed To Fail?",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 1200
+   },
+   {
+    "id": "GR9-hkfx-IA",
+    "title": "Frozen Water Crystals. What caused this?",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "0:52",
+    "views_tab": 1100
+   },
+   {
+    "id": "Pjm7j4_lxTQ",
+    "title": "Optical to Analog Converter Not Working For Samsung TV. Here's Why.",
+    "meta": [
+     "3.9K",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 3900
+   },
+   {
+    "id": "scyZ-k2ibMI",
+    "title": "Just having some fun blowing off a little steam.",
+    "meta": [
+     "892",
+     "1y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 892
+   },
+   {
+    "id": "tdy-M2gxy4w",
+    "title": "Bad Capacitors Are Still Being Manufactured.",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 1500
+   },
+   {
+    "id": "erDj2FjMt5Q",
+    "title": "Fire Resistant House Made Of Concrete.",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 1700
+   }
+  ],
+  "Latest": [
+   {
+    "id": "ut_3fZ-LNyc",
+    "title": "Resonant Loop Antenna With Giant Capacitor Plates. The Surprising Effect.",
+    "meta": [
+     "155K",
+     "4d ago"
+    ],
+    "dur": "7:31",
+    "views_tab": 155000
+   },
+   {
+    "id": "6WEf4CCedTs",
+    "title": "Using a Grid Dip Meter to Build a Resonant Loop Field Strength Indicator",
+    "meta": [
+     "13K",
+     "1mo ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 13000
+   },
+   {
+    "id": "by5xyAeAzfI",
+    "title": "Build This Small 2-Meter Resonant Loop LED Field Strength Detector",
+    "meta": [
+     "27K",
+     "1mo ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 27000
+   },
+   {
+    "id": "kEQ5yHfAaBc",
+    "title": "Resonant Loop Antenna Upgrade And My Error.",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 1000
+   },
+   {
+    "id": "q4HRnD1LWMY",
+    "title": "Diode Comparison For Energy Harvesting From Radio Waves.",
+    "meta": [
+     "1.5K",
+     "3mo ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 1500
+   },
+   {
+    "id": "AXaWvpdIzGI",
+    "title": "Tuned Loop Resonant Antenna Magic!   Check Description For Important Update.",
+    "meta": [
+     "3.9K",
+     "3mo ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 3900
+   },
+   {
+    "id": "pSu_TjLIlwY",
+    "title": "Tactile Switch Repair With Alcohol ?",
+    "meta": [
+     "1.4K",
+     "4mo ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 1400
+   },
+   {
+    "id": "bmqgsUruuW8",
+    "title": "Surprise Kid Visits Grants Pass TV. ;-)",
+    "meta": [
+     "917",
+     "4mo ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 917
+   },
+   {
+    "id": "JgqVlj7D-jM",
+    "title": "Bose Acoustic Wave Radio Repair",
+    "meta": [
+     "784",
+     "5mo ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 784
+   },
+   {
+    "id": "GJt4A28CKUM",
+    "title": "Faraday Cages, Ham Swap Meet, Repeater Application Inventor, and more..",
+    "meta": [
+     "859",
+     "5mo ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 859
+   },
+   {
+    "id": "GcD9Y69jhIM",
+    "title": "Milwaukee Radio Repair. What made this diode go bad?",
+    "meta": [
+     "2.5K",
+     "5mo ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 2500
+   },
+   {
+    "id": "q2n1X7OCNTM",
+    "title": "Don't Replace Fuses Without Doing This Test !",
+    "meta": [
+     "2.1K",
+     "5mo ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 2100
+   },
+   {
+    "id": "0ZPV9Z5NKbs",
+    "title": "Grants Pass Oregon Arco Gas Station Crash. February 16, 2026.",
+    "meta": [
+     "1K",
+     "8mo ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "5Edjpk1cmP8",
+    "title": "Soldering On Plated Vias That Are Missing. The Fuel Pump Relay Was On A 2004 Ford Expedition.",
+    "meta": [
+     "769",
+     "8mo ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 769
+   },
+   {
+    "id": "NNo0aiNMXhQ",
+    "title": "ChatGPT And Grok Said My Energy Harvesting Device Can't Work but it does. LOL",
+    "meta": [
+     "1.4K",
+     "9mo ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 1400
+   },
+   {
+    "id": "uDaGF-hAmGU",
+    "title": "Thermal Master P1.Thermal Camera Test On Low Heat Sources..",
+    "meta": [
+     "2.7K",
+     "10mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 2700
+   },
+   {
+    "id": "IEhiqmXhrX8",
+    "title": "How To Desolder Connectors And Components When Other Techniques Fail.",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 1700
+   },
+   {
+    "id": "hIKmwsKGN7c",
+    "title": "Unclogging Ink Cartridges With Hydrogen Peroxide.",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 1400
+   },
+   {
+    "id": "yXVpk7POX_k",
+    "title": "Powering A Motor On Radio Waves.",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 11000
+   },
+   {
+    "id": "DwyraNT11OY",
+    "title": "Antenna Tuner For Free Power Experiment.",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "5:52",
+    "views_tab": 42000
+   },
+   {
+    "id": "Nyx2_fe7_8Y",
+    "title": "Long Distance Magnetic Field.",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 1900
+   },
+   {
+    "id": "hTuLsJiA-GE",
+    "title": "High Gain TV Antennas May Weaken Your Signals.",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 1000
+   },
+   {
+    "id": "YO1QfUpT3VM",
+    "title": "Turning Styrofoam Into useful blocks.",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 1000
+   },
+   {
+    "id": "2tY48bxsF1M",
+    "title": "Converting Video Heads Into Gyroscopes.",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 2100
+   },
+   {
+    "id": "TMZROk01R0U",
+    "title": "Are LED Lights And TVs Designed To Fail?",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 1200
+   },
+   {
+    "id": "GR9-hkfx-IA",
+    "title": "Frozen Water Crystals. What caused this?",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "0:52",
+    "views_tab": 1100
+   },
+   {
+    "id": "Pjm7j4_lxTQ",
+    "title": "Optical to Analog Converter Not Working For Samsung TV. Here's Why.",
+    "meta": [
+     "3.9K",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 3900
+   },
+   {
+    "id": "scyZ-k2ibMI",
+    "title": "Just having some fun blowing off a little steam.",
+    "meta": [
+     "892",
+     "1y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 892
+   },
+   {
+    "id": "tdy-M2gxy4w",
+    "title": "Bad Capacitors Are Still Being Manufactured.",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 1500
+   },
+   {
+    "id": "erDj2FjMt5Q",
+    "title": "Fire Resistant House Made Of Concrete.",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 1700
+   },
+   {
+    "id": "9zHngerIbTk",
+    "title": "Television Signal Hunting Challenge.",
+    "meta": [
+     "975",
+     "1y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 975
+   },
+   {
+    "id": "7qTL664z-90",
+    "title": "Connector Issues on TV and RV Antenna Coax? Here's Why I Use Oxgard!",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 1500
+   },
+   {
+    "id": "uH_wU84fcmc",
+    "title": "Clear Stream Vs RCA TV Antenna.",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 1400
+   },
+   {
+    "id": "Wbd7uyng1Uc",
+    "title": "Driving Down A Southern Oregon Road. 4K",
+    "meta": [
+     "870",
+     "2y ago"
+    ],
+    "dur": "6:57",
+    "views_tab": 870
+   },
+   {
+    "id": "83edokt3K5c",
+    "title": "Giant induction coil picking up Audio 5 feet away!",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 44000
+   },
+   {
+    "id": "CA_JObSvT80",
+    "title": "Hole Drilling Alternative, When Mounting Starlink Antenna Tripods  On Metal Roofs.",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "0:57",
+    "views_tab": 3200
+   },
+   {
+    "id": "TQenKo9AFfQ",
+    "title": "Why You Should Load Test Small Batteries.",
+    "meta": [
+     "5.4K",
+     "2y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 5400
+   },
+   {
+    "id": "Sw7bwVnPiEI",
+    "title": "The Amazing World Of Amateur Radio.  An inside view of the hobby. Part 1",
+    "meta": [
+     "2.6K",
+     "3y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 2600
+   },
+   {
+    "id": "HSeuRiqWg-o",
+    "title": "The Amazing World Of Amateur Radio. An inside view of the hobby. Part 2",
+    "meta": [
+     "3.2K",
+     "3y ago"
+    ],
+    "dur": "30:38",
+    "views_tab": 3200
+   },
+   {
+    "id": "ku0S5Z5Brz4",
+    "title": "I'd guess the TV main board is bad. What are your thoughts on this?",
+    "meta": [
+     "4.3K",
+     "3y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 4300
+   },
+   {
+    "id": "5lrbhedgEsk",
+    "title": "My 91 year old father on his daily run to stay healthy.",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "1:23",
+    "views_tab": 1600
+   },
+   {
+    "id": "eEI7wgzxi-g",
+    "title": "Antique Gas And Steam Motors On Display At The Pottsville Oregon Gathering. June 17. 2023",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "10:08",
+    "views_tab": 1200
+   },
+   {
+    "id": "ghv1JyjWB8M",
+    "title": "Inferior Diodes to beware of for 2 dollar radiation detectors.",
+    "meta": [
+     "4.4K",
+     "3y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 4400
+   },
+   {
+    "id": "IkEtvFa5-18",
+    "title": "Van window pointlessly smashed as crime increases in Grants Pass Or.",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 1200
+   },
+   {
+    "id": "RreCVvIJxx4",
+    "title": "Water Distiller Repair.",
+    "meta": [
+     "4.2K",
+     "3y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 4200
+   },
+   {
+    "id": "sEBYC0Y6l-c",
+    "title": "Rats And Electronics Don't  Mix Well.",
+    "meta": [
+     "1.1K",
+     "3y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 1100
+   },
+   {
+    "id": "VoxXp9fOCM0",
+    "title": "Satellite Antenna Converted To  UHF TV Antenna",
+    "meta": [
+     "35K",
+     "3y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 35000
+   },
+   {
+    "id": "F-tXKNaQfHQ",
+    "title": "All TV Signals Are Blocked By Mountains. Only Reflections Are Available Here.",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "1:07",
+    "views_tab": 1800
+   },
+   {
+    "id": "lZX7pHyL1Ks",
+    "title": "Antenna Was To High To Pick Up TV Signal.",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "1:24",
+    "views_tab": 1300
+   },
+   {
+    "id": "n51LJNr6rnQ",
+    "title": "Time Lapse Video Of Fog In Grants Pass Oregon.",
+    "meta": [
+     "734",
+     "3y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 734
+   },
+   {
+    "id": "_5ul0KfoewA",
+    "title": "Signal Splitters That Block TV Signals..",
+    "meta": [
+     "27K",
+     "3y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 27000
+   },
+   {
+    "id": "0cwTHhqLPZA",
+    "title": "Motor Speed Adjustment On AM FM Cassette Player.",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 25000
+   },
+   {
+    "id": "g51JK5UaPMQ",
+    "title": "Starlink Satellites Obstructions Are Lowering Internet Speed To 4O MPS, But It's Very Useable..",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 2200
+   },
+   {
+    "id": "cFe9uMfREtU",
+    "title": "Hot Staples For Repairing Broken Plastic.",
+    "meta": [
+     "3.4K",
+     "4y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 3400
+   },
+   {
+    "id": "d16lO6aU8DQ",
+    "title": "Troubleshooting Circuits With A Watt Meter Or  An Amp Meter. Toro Electric Leaf Blower.",
+    "meta": [
+     "1.1K",
+     "4y ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 1100
+   },
+   {
+    "id": "pFZ6FBis50A",
+    "title": "13 Television Antennas Tested on the UHF band,",
+    "meta": [
+     "7.8K",
+     "4y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 7800
+   },
+   {
+    "id": "xcXeKc38zSc",
+    "title": "Samsung TV mainboard and backlight test. See info section for additional info.",
+    "meta": [
+     "50K",
+     "4y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 50000
+   },
+   {
+    "id": "Kx4GtpQ6Xo4",
+    "title": "Is Stretching TV Antenna Wire A Problem?",
+    "meta": [
+     "1.7K",
+     "4y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 1700
+   },
+   {
+    "id": "IwtxIT6SCL8",
+    "title": "75 Years Old TVs. Antique Radio Doctor.",
+    "meta": [
+     "3.7K",
+     "4y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 3700
+   },
+   {
+    "id": "2TaUn3qnQVw",
+    "title": "Weak TV Tuners, & Celll Phone Interference Filters.",
+    "meta": [
+     "1.6K",
+     "4y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 1600
+   },
+   {
+    "id": "o_5k-4y_gGw",
+    "title": "Don't Trust Television Signal Maps Until  you run your own test. Another example.",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 1000
+   },
+   {
+    "id": "x6PNs8JmpQE",
+    "title": "TV Antenna Job And Finding A Car On Fire.",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 1500
+   },
+   {
+    "id": "Op2nugxWWvk",
+    "title": "Must have DC Inductive Amp meters",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 3600
+   },
+   {
+    "id": "aWdjW-6k9F0",
+    "title": "KARCHER SC3  STEAM CLEANER REPAIR",
+    "meta": [
+     "125K",
+     "4y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 125000
+   },
+   {
+    "id": "0BpO6U5qtTA",
+    "title": "A sprinkler system to help protect your home during fire season",
+    "meta": [
+     "2.1K",
+     "4y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 2100
+   },
+   {
+    "id": "H0D-rOrZ8yc",
+    "title": "The most unusual job location I've ever encountered.",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 1500
+   },
+   {
+    "id": "s7lzK_77n8U",
+    "title": "Panasonic DVD VCR REPAIR DMR-ES30V",
+    "meta": [
+     "7.9K",
+     "4y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 7900
+   },
+   {
+    "id": "rj61eiJbDdU",
+    "title": "Audible Lightwaves Picked Up By A Solar Panel.",
+    "meta": [
+     "6.8K",
+     "4y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 6800
+   },
+   {
+    "id": "dkzwH2ov5gk",
+    "title": "Electric bike power consumption test.",
+    "meta": [
+     "1.1K",
+     "5y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 1100
+   },
+   {
+    "id": "3QcChBmXulw",
+    "title": "Thor Ace Motorhome Monitor Repair",
+    "meta": [
+     "6K",
+     "5y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 6000
+   },
+   {
+    "id": "c4aADrz87Os",
+    "title": "Electronic prices, inflation, and the loss of our independence.",
+    "meta": [
+     "1.1K",
+     "5y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 1100
+   },
+   {
+    "id": "vlEO8y_IXO4",
+    "title": "Motorhome TV Antennas And Troubleshooting Tips.",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 11000
+   },
+   {
+    "id": "W3mlmJwoASQ",
+    "title": "Medford Oregon Rally Against Mandated V.accines",
+    "meta": [
+     "1.5K",
+     "5y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 1500
+   },
+   {
+    "id": "lgT3_5KuAws",
+    "title": "Starlink Satellite Installation Job.",
+    "meta": [
+     "4.6K",
+     "5y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 4600
+   },
+   {
+    "id": "sikvIwpGPSE",
+    "title": "Telephone scammer is honest with me.",
+    "meta": [
+     "1K",
+     "5y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 1000
+   },
+   {
+    "id": "yqljaKjKjd4",
+    "title": "Radio Frequency Burns From A Long Wire Antenna Supported By A Kite",
+    "meta": [
+     "273K",
+     "5y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 273000
+   },
+   {
+    "id": "MgzowO0F5bY",
+    "title": "300 Feet Of TV Coax and no preamp needed.",
+    "meta": [
+     "1K",
+     "5y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 1000
+   },
+   {
+    "id": "YpBIya4jx58",
+    "title": "Testing This Unusual Looking UHF TV Antenna.",
+    "meta": [
+     "3.5K",
+     "5y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 3500
+   },
+   {
+    "id": "rZhw0BEqyRE",
+    "title": "This Splitter Blocks All TV Antenna Signals.",
+    "meta": [
+     "3.9K",
+     "5y ago"
+    ],
+    "dur": "1:39",
+    "views_tab": 3900
+   },
+   {
+    "id": "wNBfOk3wnyA",
+    "title": "TV Antenna Signal Splitting Mistake. (This Video Is Worthless Unless You See Follow Up Video.)",
+    "meta": [
+     "53K",
+     "5y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 53000
+   },
+   {
+    "id": "tfmBvu30RfY",
+    "title": "Can Two  TV Antennas Really help? Watch This Experiment.",
+    "meta": [
+     "75K",
+     "5y ago"
+    ],
+    "dur": "4:32",
+    "views_tab": 75000
+   },
+   {
+    "id": "YwRZ6jTuPw0",
+    "title": "TV Antenna Matching Transformer Experiment",
+    "meta": [
+     "4.1K",
+     "5y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 4100
+   },
+   {
+    "id": "GRWZU_8MlEo",
+    "title": "Norcal715 Visits Grants Pass TV Repair.",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 2600
+   },
+   {
+    "id": "KHFx6rI5mug",
+    "title": "Biden Dislikes Are Being Removed From White House Channel. Check info section.",
+    "meta": [
+     "8.7K",
+     "5y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 8700
+   },
+   {
+    "id": "wljERlphMc8",
+    "title": "Safely Charging Any Battery With Your Variable Power Supply.",
+    "meta": [
+     "68K",
+     "5y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 68000
+   },
+   {
+    "id": "urK6j11k3XY",
+    "title": "Electronic Lubricant Trick For difficult To Reach Potentiometers. See Warning In Info Section.",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 42000
+   },
+   {
+    "id": "-3pDH5f_lf8",
+    "title": "Your Thoughts On Covid And Health?",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 1200
+   },
+   {
+    "id": "mn5BjCeikz8",
+    "title": "Merry Christmas And Happy New Year From Grants Pass Oregon.",
+    "meta": [
+     "880",
+     "5y ago"
+    ],
+    "dur": "0:35",
+    "views_tab": 880
+   },
+   {
+    "id": "9AJOafHJ8fI",
+    "title": "Winegard TV Antenna Modification Improved Performance",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 10000
+   },
+   {
+    "id": "UYVbYyToaaQ",
+    "title": "Finding TV Signals Behind Trees.",
+    "meta": [
+     "3.9K",
+     "5y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 3900
+   },
+   {
+    "id": "Q5eTPCxj60M",
+    "title": "Worlds Largest Kite At Fort Vannoy Farms. Grants Pass Oregon",
+    "meta": [
+     "546",
+     "5y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 546
+   },
+   {
+    "id": "LsE_VSNTz3Q",
+    "title": "Follow Up Correction On  TV Antenna Resonance Formula",
+    "meta": [
+     "3K",
+     "5y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 3000
+   },
+   {
+    "id": "314lFMvf6sg",
+    "title": "Building Resonant TV Antennas, WRONG MATH. SEE INFO SECTION.",
+    "meta": [
+     "4.9K",
+     "5y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 4900
+   },
+   {
+    "id": "wchp_o9VjHI",
+    "title": "Finding Gold In Southern Oregon. You Too Can Earn 25 Cents An Hour.",
+    "meta": [
+     "2K",
+     "5y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 2000
+   },
+   {
+    "id": "UDOvUN7jzHw",
+    "title": "A bad TV antenna amplifier is worse than no amplifier at all.",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "2:32",
+    "views_tab": 3100
+   },
+   {
+    "id": "O3b0bZ07WIc",
+    "title": "VCR Gear Alignment Tips And IR Sensors",
+    "meta": [
+     "7.2K",
+     "5y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 7200
+   },
+   {
+    "id": "MN94SzFz5Tc",
+    "title": "My Wildest Delivery Job Ever.",
+    "meta": [
+     "838",
+     "6y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 838
+   },
+   {
+    "id": "ZmkXR6_6Q-A",
+    "title": "Repairing Electrical Switches.",
+    "meta": [
+     "1.7K",
+     "6y ago"
+    ],
+    "dur": "3:32",
+    "views_tab": 1700
+   },
+   {
+    "id": "REs0FngE5Ls",
+    "title": "TV Antennas I Use The Most.      Model numbers listed in info section",
+    "meta": [
+     "2.3K",
+     "6y ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 2300
+   },
+   {
+    "id": "DKxCPJKRM9Q",
+    "title": "87 Pound Newman Motor. Check link to newest documentary on Newman life in info section",
+    "meta": [
+     "23K",
+     "6y ago"
+    ],
+    "dur": "11:01",
+    "views_tab": 23000
+   },
+   {
+    "id": "p_RaoAAf-8o",
+    "title": "VCR DVD Repair Magnavox ZV457MG9A",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 10000
+   },
+   {
+    "id": "aelgWhwLW6Q",
+    "title": "Avoid  Drilling Disasters With A $30.00 Snake Camera.",
+    "meta": [
+     "1K",
+     "6y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 1000
+   },
+   {
+    "id": "JtsGdBf_rLg",
+    "title": "CB Radio Repair. Had No Broadcast Audio",
+    "meta": [
+     "3.9K",
+     "6y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 3900
+   },
+   {
+    "id": "OSCnVJk3bG4",
+    "title": "Finding Short Circuits With A Thermal Camera.",
+    "meta": [
+     "15K",
+     "6y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 15000
+   },
+   {
+    "id": "xEuAIJD48Fs",
+    "title": "Inexpensive Digital Microscope For Soldering",
+    "meta": [
+     "6.9K",
+     "6y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 6900
+   },
+   {
+    "id": "WQD41L-pBIM",
+    "title": "Bose Acoustic Wave. No Sound In Left Speaker.",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 10000
+   },
+   {
+    "id": "qmkzfZ8b4rs",
+    "title": "Experimental Newman Motor/Generator Part 2 Counter Electromotive Force Demonstration.",
+    "meta": [
+     "4K",
+     "6y ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 4000
+   },
+   {
+    "id": "MVkSoHrTGMs",
+    "title": "My Experimental Newman Motor/Generator. Part 1 of 2",
+    "meta": [
+     "21K",
+     "6y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 21000
+   },
+   {
+    "id": "hQeb_wu39Rs",
+    "title": "Can Electricity Kill A Virus?  Some People Claim It Can.",
+    "meta": [
+     "3.1K",
+     "6y ago"
+    ],
+    "dur": "5:57",
+    "views_tab": 3100
+   },
+   {
+    "id": "TfNxiA6dlYo",
+    "title": "Beware Of Fake N52 Rare Earth Neodymium Magnets.",
+    "meta": [
+     "12K",
+     "6y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 12000
+   },
+   {
+    "id": "3XH06J8Nui8",
+    "title": "Electrically Conductive Paint that really works",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 10000
+   },
+   {
+    "id": "1Kk3-Pu8TXk",
+    "title": "My customer brought me an IMPOSSIBLE job this is what happened",
+    "meta": [
+     "1.8K",
+     "6y ago"
+    ],
+    "dur": "3:07",
+    "views_tab": 1800
+   },
+   {
+    "id": "OJLDg2jlNoQ",
+    "title": "I had to put a HOLE in my customer's VCR!",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "G4YDsvv1DEk",
+    "title": "Radios That Work For Free.",
+    "meta": [
+     "63K",
+     "6y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 63000
+   },
+   {
+    "id": "dE0gmsRU7KU",
+    "title": "Turntable / Record Player Repair Tips.",
+    "meta": [
+     "109K",
+     "6y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 109000
+   },
+   {
+    "id": "wdH5G19qP1w",
+    "title": "Merry Christmas Everyone. Driving Through The Hills Of Grants Pass Oregon.",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 1500
+   },
+   {
+    "id": "neGFDKz3Mqs",
+    "title": "Picking Up TV Transmitters In Different Locations Without An Antenna Rotor",
+    "meta": [
+     "5.8K",
+     "6y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 5800
+   },
+   {
+    "id": "7HAPt5dH4IE",
+    "title": "The Wrong TV Antenna For This  Location.",
+    "meta": [
+     "2K",
+     "6y ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 2000
+   },
+   {
+    "id": "DxLhfTZuZAg",
+    "title": "Must Have Magnetic Connectors. Please see Warning in info section.",
+    "meta": [
+     "5K",
+     "6y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 5000
+   },
+   {
+    "id": "E0WocmJh17I",
+    "title": "Cell Phone Radiation Shield Scam . As Seen On TV.",
+    "meta": [
+     "2.4K",
+     "6y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 2400
+   }
+  ],
+  "Popular": [
+   {
+    "id": "DykBl7ai3Jo",
+    "title": "Samsung TV Main board was bad. Here's how I figured it out. Model # UN32EH5300FXZA.",
+    "meta": [
+     "567K",
+     "9y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 567000
+   },
+   {
+    "id": "_1pxf4faLAY",
+    "title": "Finding a shorted component.",
+    "meta": [
+     "551K",
+     "15y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 551000
+   },
+   {
+    "id": "GryA_Zl4EBk",
+    "title": "LCD TV Repair made easy # 1",
+    "meta": [
+     "533K",
+     "17y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 533000
+   },
+   {
+    "id": "6Zxp8lSdn8M",
+    "title": "Understanding Watts, Voltage, and Amps. Sorry about the math mistakes.",
+    "meta": [
+     "448K",
+     "16y ago"
+    ],
+    "dur": "12:35",
+    "views_tab": 448000
+   },
+   {
+    "id": "xvJWqf_b6Eo",
+    "title": "Repairing Remote Controls and key fobs.",
+    "meta": [
+     "381K",
+     "16y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 381000
+   },
+   {
+    "id": "z5JXm9jgLp8",
+    "title": "Your Multimeters Millivolt scale can be used to locate shorts to ground.",
+    "meta": [
+     "363K",
+     "11y ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 363000
+   },
+   {
+    "id": "BY1bUbBcMH0",
+    "title": "Plasma TV repair. Don't make this mistake.",
+    "meta": [
+     "343K",
+     "13y ago"
+    ],
+    "dur": "1:32",
+    "views_tab": 343000
+   },
+   {
+    "id": "MlJpRcu31Zc",
+    "title": "VCR Eats Tapes. The Most Common Causes Part 1 of 2",
+    "meta": [
+     "288K",
+     "10y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 288000
+   },
+   {
+    "id": "yqljaKjKjd4",
+    "title": "Radio Frequency Burns From A Long Wire Antenna Supported By A Kite",
+    "meta": [
+     "273K",
+     "5y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 273000
+   },
+   {
+    "id": "QmCwSA5u2H8",
+    "title": "TV Doesn\"t respond to remote, Here's why.",
+    "meta": [
+     "249K",
+     "11y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 249000
+   },
+   {
+    "id": "_pm2tLN6KOQ",
+    "title": "Free Energy From Radio Waves. See info section for additional video.",
+    "meta": [
+     "243K",
+     "11y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 243000
+   },
+   {
+    "id": "526XozYdvSU",
+    "title": "Infrared sensor in TV caused remote control not to work.",
+    "meta": [
+     "217K",
+     "10y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 217000
+   },
+   {
+    "id": "XhqwC3BFBug",
+    "title": "Finding a short to ground using this special technique.",
+    "meta": [
+     "212K",
+     "14y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 212000
+   },
+   {
+    "id": "SCUVBYaMi9Y",
+    "title": "LCD TV Repair made easy # 6",
+    "meta": [
+     "179K",
+     "16y ago"
+    ],
+    "dur": "9:25",
+    "views_tab": 179000
+   },
+   {
+    "id": "3rvEdHyAd2k",
+    "title": "Isolation Transformers can save your life, and your equipment.",
+    "meta": [
+     "179K",
+     "9y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 179000
+   },
+   {
+    "id": "hUiYRqrNxxU",
+    "title": "DLP Color Wheel Bad Bearing Symptoms and general service tips.",
+    "meta": [
+     "168K",
+     "14y ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 168000
+   },
+   {
+    "id": "cbEJnFckL7w",
+    "title": "Plasma TV repair. Learn from my mistakes.",
+    "meta": [
+     "156K",
+     "15y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 156000
+   },
+   {
+    "id": "ut_3fZ-LNyc",
+    "title": "Resonant Loop Antenna With Giant Capacitor Plates. The Surprising Effect.",
+    "meta": [
+     "155K",
+     "4d ago"
+    ],
+    "dur": "7:31",
+    "views_tab": 155000
+   },
+   {
+    "id": "EDylk9ezQtA",
+    "title": "LCD TV Repair made easy # 10",
+    "meta": [
+     "154K",
+     "16y ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 154000
+   },
+   {
+    "id": "7c2IQ2lbIWs",
+    "title": "Repairing antenna connectors on TVs",
+    "meta": [
+     "143K",
+     "17y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 143000
+   },
+   {
+    "id": "HsSlQnGCvdg",
+    "title": "Power surge due to an open neutral wire.",
+    "meta": [
+     "135K",
+     "13y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 135000
+   },
+   {
+    "id": "aWdjW-6k9F0",
+    "title": "KARCHER SC3  STEAM CLEANER REPAIR",
+    "meta": [
+     "125K",
+     "4y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 125000
+   },
+   {
+    "id": "NFTdvY4OBYY",
+    "title": "VCR EATS TAPES. THE MOST COMMON CAUSES #2",
+    "meta": [
+     "114K",
+     "10y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 114000
+   },
+   {
+    "id": "dE0gmsRU7KU",
+    "title": "Turntable / Record Player Repair Tips.",
+    "meta": [
+     "109K",
+     "6y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 109000
+   },
+   {
+    "id": "eJ2FTxxOqxs",
+    "title": "LCD TV Repair made # 2",
+    "meta": [
+     "106K",
+     "17y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 106000
+   },
+   {
+    "id": "GS-X2JZTip8",
+    "title": "LCD monitor had white screen. Make SVA Model number 2400W-BD",
+    "meta": [
+     "96K",
+     "16y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 96000
+   },
+   {
+    "id": "Qj51BkS9d-0",
+    "title": "Troubleshooting a bad LCD TV display",
+    "meta": [
+     "95K",
+     "15y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 95000
+   },
+   {
+    "id": "eJdGYtU7OZc",
+    "title": "How to test Diodes",
+    "meta": [
+     "92K",
+     "17y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 92000
+   },
+   {
+    "id": "Iz260fXTKaU",
+    "title": "Using freeze spray or hot air to troubleshoot Circuit Boards and LCD display problems.",
+    "meta": [
+     "90K",
+     "9y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 90000
+   },
+   {
+    "id": "H2jGvLnKRiM",
+    "title": "LCD Display problems.",
+    "meta": [
+     "80K",
+     "15y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 80000
+   },
+   {
+    "id": "R_uBSzIgO5M",
+    "title": "LCD TV repair made easy #3. Original Vs Generic parts. Sometimes it matters.",
+    "meta": [
+     "78K",
+     "17y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 78000
+   },
+   {
+    "id": "pbffKtXjTog",
+    "title": "RCA 50LB45RQ Service menu adjustment for main board replacement for a solarized picture.",
+    "meta": [
+     "77K",
+     "12y ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 77000
+   },
+   {
+    "id": "fBWX34wTULw",
+    "title": "Sharp LC-70LE733U Reset procedure and voltages measurements.",
+    "meta": [
+     "77K",
+     "11y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 77000
+   },
+   {
+    "id": "tfmBvu30RfY",
+    "title": "Can Two  TV Antennas Really help? Watch This Experiment.",
+    "meta": [
+     "75K",
+     "5y ago"
+    ],
+    "dur": "4:32",
+    "views_tab": 75000
+   },
+   {
+    "id": "rdMpoobYDkk",
+    "title": "Desoldering techniques for difficult connections.",
+    "meta": [
+     "75K",
+     "13y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 75000
+   },
+   {
+    "id": "qH4x8RQeLug",
+    "title": "How to test capacitors",
+    "meta": [
+     "74K",
+     "14y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 74000
+   },
+   {
+    "id": "0BPphesBGg0",
+    "title": "The Back Spike From A Coil Can Destroy Switches, Relays And Electronic Parts.",
+    "meta": [
+     "73K",
+     "9y ago"
+    ],
+    "dur": "6:16",
+    "views_tab": 73000
+   },
+   {
+    "id": "Tf-xeqH3Qgw",
+    "title": "Vizio TV. Inverter output shorted to ground from electric arc on lamps to chassis.",
+    "meta": [
+     "73K",
+     "13y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 73000
+   },
+   {
+    "id": "tEgV1MjlmoY",
+    "title": "LCD TV Repair made easy #4",
+    "meta": [
+     "71K",
+     "17y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 71000
+   },
+   {
+    "id": "Zg9dF1ZYNUc",
+    "title": "Plasma TV ribbon cable problem",
+    "meta": [
+     "70K",
+     "14y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 70000
+   },
+   {
+    "id": "y9gmAxRXyT0",
+    "title": "VIZIO LCD TV GV47L FHDTV10A",
+    "meta": [
+     "69K",
+     "15y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 69000
+   },
+   {
+    "id": "wljERlphMc8",
+    "title": "Safely Charging Any Battery With Your Variable Power Supply.",
+    "meta": [
+     "68K",
+     "5y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 68000
+   },
+   {
+    "id": "g-XYiy9mQw0",
+    "title": "LG Plasma TV Model # 50PJ350-UB",
+    "meta": [
+     "67K",
+     "11y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 67000
+   },
+   {
+    "id": "PflyJ4H51Fg",
+    "title": "LCD TV Backlights Overheating transformer on Samsung LN40B550K1F",
+    "meta": [
+     "66K",
+     "13y ago"
+    ],
+    "dur": "4:55",
+    "views_tab": 66000
+   },
+   {
+    "id": "EujQF8nukn4",
+    "title": "Digital TV Channel Misunderstandings, & TV Antenna Myths.",
+    "meta": [
+     "65K",
+     "8y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 65000
+   },
+   {
+    "id": "vHVmJ5lD9jc",
+    "title": "2 Dollar Radiation Detector You Can Build. Beware of imitation diodes that don't have an H on them.",
+    "meta": [
+     "65K",
+     "7y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 65000
+   },
+   {
+    "id": "2q2f0LwAqOc",
+    "title": "Dissecting an LCD TV panel",
+    "meta": [
+     "63K",
+     "16y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 63000
+   },
+   {
+    "id": "M2v04tdp5B8",
+    "title": "Understanding the hot and cold side of a switch mode power supply.",
+    "meta": [
+     "63K",
+     "9y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 63000
+   },
+   {
+    "id": "G4YDsvv1DEk",
+    "title": "Radios That Work For Free.",
+    "meta": [
+     "63K",
+     "6y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 63000
+   },
+   {
+    "id": "j_G3Flclj0o",
+    "title": "LG 47LS4500 Bad Diode.",
+    "meta": [
+     "62K",
+     "12y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 62000
+   },
+   {
+    "id": "TXGxE9Fxhlw",
+    "title": "LDC TV Repair made easy # 5",
+    "meta": [
+     "61K",
+     "17y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 61000
+   },
+   {
+    "id": "OFqLAIqiHMo",
+    "title": "LCD TV Repair made easy # 7",
+    "meta": [
+     "60K",
+     "16y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 60000
+   },
+   {
+    "id": "iTKm8Pgm2dY",
+    "title": "Soldering Microscope. Why you should have one.",
+    "meta": [
+     "58K",
+     "11y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 58000
+   },
+   {
+    "id": "4HoHERN_-DE",
+    "title": "Hidden Thermal Fuses in Transformers. Please watch update also!",
+    "meta": [
+     "57K",
+     "11y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 57000
+   },
+   {
+    "id": "gPpy-HX9wFg",
+    "title": "Broken TV Repurpose",
+    "meta": [
+     "57K",
+     "13y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 57000
+   },
+   {
+    "id": "BsR5LuDrqjI",
+    "title": "LCD TV Repair made easy # 12",
+    "meta": [
+     "53K",
+     "16y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 53000
+   },
+   {
+    "id": "wNBfOk3wnyA",
+    "title": "TV Antenna Signal Splitting Mistake. (This Video Is Worthless Unless You See Follow Up Video.)",
+    "meta": [
+     "53K",
+     "5y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 53000
+   },
+   {
+    "id": "wo2x0_AuASM",
+    "title": "Understanding AC AND DC",
+    "meta": [
+     "52K",
+     "17y ago"
+    ],
+    "dur": "6:35",
+    "views_tab": 52000
+   },
+   {
+    "id": "xcXeKc38zSc",
+    "title": "Samsung TV mainboard and backlight test. See info section for additional info.",
+    "meta": [
+     "50K",
+     "4y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 50000
+   },
+   {
+    "id": "VyEzolujYnQ",
+    "title": "Plasma TV repair",
+    "meta": [
+     "46K",
+     "15y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 46000
+   },
+   {
+    "id": "EjMLEPGJY2o",
+    "title": "LCD TV Repair made easy # 8",
+    "meta": [
+     "46K",
+     "16y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 46000
+   },
+   {
+    "id": "qotB1xxQols",
+    "title": "Troubleshooting bad circuits using ohms law.",
+    "meta": [
+     "45K",
+     "9y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 45000
+   },
+   {
+    "id": "83edokt3K5c",
+    "title": "Giant induction coil picking up Audio 5 feet away!",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 44000
+   },
+   {
+    "id": "DwyraNT11OY",
+    "title": "Antenna Tuner For Free Power Experiment.",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "5:52",
+    "views_tab": 42000
+   },
+   {
+    "id": "urK6j11k3XY",
+    "title": "Electronic Lubricant Trick For difficult To Reach Potentiometers. See Warning In Info Section.",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 42000
+   },
+   {
+    "id": "e6ULnVvYBmk",
+    "title": "RCA 39LB45RQ LCD TV. EEPROM Repair on main board",
+    "meta": [
+     "41K",
+     "11y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 41000
+   },
+   {
+    "id": "sdauoOVBFWA",
+    "title": "Understanding Power Supplies, Generators, AC and DC.",
+    "meta": [
+     "39K",
+     "16y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 39000
+   },
+   {
+    "id": "FtiEEGBch4M",
+    "title": "Diode check function has its limits. Bad diodes generally short out.",
+    "meta": [
+     "36K",
+     "8y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 36000
+   },
+   {
+    "id": "VoxXp9fOCM0",
+    "title": "Satellite Antenna Converted To  UHF TV Antenna",
+    "meta": [
+     "35K",
+     "3y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 35000
+   },
+   {
+    "id": "Bx38lk0JbXU",
+    "title": "Isolation transformers",
+    "meta": [
+     "35K",
+     "17y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 35000
+   },
+   {
+    "id": "mricveRkE_Q",
+    "title": "Repairing Plastic Cracks When Glues Don't Work.",
+    "meta": [
+     "34K",
+     "11y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 34000
+   },
+   {
+    "id": "AzxIjQt8zlI",
+    "title": "Television Signal Direction Finder And Frequency Indicator.",
+    "meta": [
+     "34K",
+     "8y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 34000
+   },
+   {
+    "id": "2urDrzpNeW0",
+    "title": "LCD TV Repair made easy # 11",
+    "meta": [
+     "34K",
+     "16y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 34000
+   },
+   {
+    "id": "PXg69n8Mhfg",
+    "title": "Volts Amps and Resistance made simple.",
+    "meta": [
+     "33K",
+     "17y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 33000
+   },
+   {
+    "id": "dyDXGgOe1tM",
+    "title": "Please see update link. I found a better repair.2006 Hummer H3 window and door Window controller.",
+    "meta": [
+     "33K",
+     "9y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 33000
+   },
+   {
+    "id": "19Sf0CIZB9A",
+    "title": "Fuse Identification Mystery Marking Revealed.  Slow Blow Vs Fast Blow Used In Electronics Repair.",
+    "meta": [
+     "33K",
+     "10y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 33000
+   },
+   {
+    "id": "0O5v89lEHxA",
+    "title": "LCD TV repair made easy # 9",
+    "meta": [
+     "33K",
+     "16y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 33000
+   },
+   {
+    "id": "QR-XQWk5vJA",
+    "title": "TV Signal Meters.  A Must Have For Doing TV Antenna Work.",
+    "meta": [
+     "32K",
+     "6y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 32000
+   },
+   {
+    "id": "Gm69RS2FVvs",
+    "title": "An UNUSUAL free energy source",
+    "meta": [
+     "31K",
+     "7y ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 31000
+   },
+   {
+    "id": "tjcXFCkSKU4",
+    "title": "There's No Perfect TV Antenna for every location",
+    "meta": [
+     "29K",
+     "7y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 29000
+   },
+   {
+    "id": "94WsUFb0vV0",
+    "title": "Sony KDL-40BX420",
+    "meta": [
+     "29K",
+     "11y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 29000
+   },
+   {
+    "id": "SBbdeMlHODc",
+    "title": "How long did your LCD TV last?",
+    "meta": [
+     "29K",
+     "17y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 29000
+   },
+   {
+    "id": "by5xyAeAzfI",
+    "title": "Build This Small 2-Meter Resonant Loop LED Field Strength Detector",
+    "meta": [
+     "27K",
+     "1mo ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 27000
+   },
+   {
+    "id": "_5ul0KfoewA",
+    "title": "Signal Splitters That Block TV Signals..",
+    "meta": [
+     "27K",
+     "3y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 27000
+   },
+   {
+    "id": "AUm9AVvZo9k",
+    "title": "VIZIO VW42L FHDTV10A. MAIN BOARD PROBLEM SOLVED.",
+    "meta": [
+     "25K",
+     "11y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "0cwTHhqLPZA",
+    "title": "Motor Speed Adjustment On AM FM Cassette Player.",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 25000
+   },
+   {
+    "id": "DKxCPJKRM9Q",
+    "title": "87 Pound Newman Motor. Check link to newest documentary on Newman life in info section",
+    "meta": [
+     "23K",
+     "6y ago"
+    ],
+    "dur": "11:01",
+    "views_tab": 23000
+   },
+   {
+    "id": "rNSB4EEriPw",
+    "title": "Generic Inverter board replacement and warning!",
+    "meta": [
+     "23K",
+     "12y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 23000
+   },
+   {
+    "id": "nC7soD9uQQ8",
+    "title": "Toshiba plasma repair. Model # 50HP16",
+    "meta": [
+     "22K",
+     "13y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 22000
+   },
+   {
+    "id": "wGrzHqwcUx8",
+    "title": "Interview with Plasma TV Expert.",
+    "meta": [
+     "22K",
+     "14y ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 22000
+   },
+   {
+    "id": "LHKDh_hjeRs",
+    "title": "Applying electricity to liquid crystals.",
+    "meta": [
+     "22K",
+     "16y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 22000
+   },
+   {
+    "id": "OqZG1F_h1CA",
+    "title": "POLAROID TV FLM2601",
+    "meta": [
+     "21K",
+     "17y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 21000
+   },
+   {
+    "id": "MVkSoHrTGMs",
+    "title": "My Experimental Newman Motor/Generator. Part 1 of 2",
+    "meta": [
+     "21K",
+     "6y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 21000
+   },
+   {
+    "id": "d0UjhHUrO74",
+    "title": "Does free energy exist?",
+    "meta": [
+     "20K",
+     "10y ago"
+    ],
+    "dur": "9:36",
+    "views_tab": 20000
+   },
+   {
+    "id": "_znMPaZYZAc",
+    "title": "Part 2, important update  on conductive paint Vs restoring pad. Please see info section for more.",
+    "meta": [
+     "20K",
+     "9y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "m4XxUi8nqbg",
+    "title": "Zener Diodes in series",
+    "meta": [
+     "19K",
+     "11y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 19000
+   },
+   {
+    "id": "xcoD3GTKM-4",
+    "title": "Blind trust in electronic repair kits can blow things up.",
+    "meta": [
+     "19K",
+     "9y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 19000
+   },
+   {
+    "id": "gzlZ84--JrQ",
+    "title": "Inductive Reactance Demonstration.",
+    "meta": [
+     "18K",
+     "12y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 18000
+   },
+   {
+    "id": "j5Tk8L7JR-8",
+    "title": "LCD BACK LIGHT",
+    "meta": [
+     "17K",
+     "17y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 17000
+   },
+   {
+    "id": "cgu7kL3iMwg",
+    "title": "Hisense Model 55K610GWN Repair History..",
+    "meta": [
+     "17K",
+     "11y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 17000
+   },
+   {
+    "id": "L50x35df2nI",
+    "title": "Antenna experiment. Flying kite with wire. Deadly warning in   info section",
+    "meta": [
+     "17K",
+     "12y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 17000
+   },
+   {
+    "id": "ufuELzsMKUg",
+    "title": "Replacing Rubber Belts In VCRs, Turntables, And Tape Recorders. Are some designed to fail?",
+    "meta": [
+     "16K",
+     "7y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 16000
+   },
+   {
+    "id": "qFOFFKtQlr8",
+    "title": "Updated info on hidden fuses in Transformers.",
+    "meta": [
+     "16K",
+     "11y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "5OVEDFWHTBw",
+    "title": "polarized light demonstration",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 15000
+   },
+   {
+    "id": "OSCnVJk3bG4",
+    "title": "Finding Short Circuits With A Thermal Camera.",
+    "meta": [
+     "15K",
+     "6y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 15000
+   },
+   {
+    "id": "6AkiBZzOhos",
+    "title": "Polaroid TLX04244B LCD TV",
+    "meta": [
+     "15K",
+     "13y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 15000
+   },
+   {
+    "id": "fBzdjjoEPAk",
+    "title": "Locating underground wires or pipes",
+    "meta": [
+     "13K",
+     "7y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 13000
+   },
+   {
+    "id": "6WEf4CCedTs",
+    "title": "Using a Grid Dip Meter to Build a Resonant Loop Field Strength Indicator",
+    "meta": [
+     "13K",
+     "1mo ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 13000
+   },
+   {
+    "id": "qaJ0TMpxVoI",
+    "title": "VIZIO E600i-B3 Troubleshooting And  Repair History.",
+    "meta": [
+     "13K",
+     "10y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 13000
+   },
+   {
+    "id": "Lp1eUEDRypM",
+    "title": "Winegard Vs Channel Master Antenna Test. See info section for Winegard modification.",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "2:54",
+    "views_tab": 13000
+   },
+   {
+    "id": "-Rq7ZajM1Cw",
+    "title": "TV Antenna height doesn't always help improve reception.",
+    "meta": [
+     "13K",
+     "9y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 13000
+   },
+   {
+    "id": "Ky2T1-n_Fks",
+    "title": "Ring tester for Coils and Transformers.",
+    "meta": [
+     "13K",
+     "11y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 13000
+   },
+   {
+    "id": "wZtWWO8cfH0",
+    "title": "Lightning Damage to home and electronics equipment..",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 12000
+   },
+   {
+    "id": "TfNxiA6dlYo",
+    "title": "Beware Of Fake N52 Rare Earth Neodymium Magnets.",
+    "meta": [
+     "12K",
+     "6y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 12000
+   },
+   {
+    "id": "0_G2y5VDa0w",
+    "title": "VCR was grinding gears due to a bad infrared LED.",
+    "meta": [
+     "12K",
+     "9y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 12000
+   },
+   {
+    "id": "YFwfvw29JEU",
+    "title": "RCA MODEL L37WD12YX1 Repair",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "vlEO8y_IXO4",
+    "title": "Motorhome TV Antennas And Troubleshooting Tips.",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 11000
+   },
+   {
+    "id": "4pVrMw3-E-w",
+    "title": "Fuel pump diagnosis while driving.",
+    "meta": [
+     "11K",
+     "11y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 11000
+   },
+   {
+    "id": "yXVpk7POX_k",
+    "title": "Powering A Motor On Radio Waves.",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 11000
+   },
+   {
+    "id": "3XH06J8Nui8",
+    "title": "Electrically Conductive Paint that really works",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 10000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "OqZG1F_h1CA",
+    "title": "POLAROID TV FLM2601",
+    "meta": [
+     "21K",
+     "17y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 21000
+   },
+   {
+    "id": "SBbdeMlHODc",
+    "title": "How long did your LCD TV last?",
+    "meta": [
+     "29K",
+     "17y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 29000
+   },
+   {
+    "id": "GryA_Zl4EBk",
+    "title": "LCD TV Repair made easy # 1",
+    "meta": [
+     "533K",
+     "17y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 533000
+   },
+   {
+    "id": "eJdGYtU7OZc",
+    "title": "How to test Diodes",
+    "meta": [
+     "92K",
+     "17y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 92000
+   },
+   {
+    "id": "nPm8UFT3BOM",
+    "title": "Electromagnetic induction",
+    "meta": [
+     "2.8K",
+     "17y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 2800
+   },
+   {
+    "id": "wo2x0_AuASM",
+    "title": "Understanding AC AND DC",
+    "meta": [
+     "52K",
+     "17y ago"
+    ],
+    "dur": "6:35",
+    "views_tab": 52000
+   },
+   {
+    "id": "Z5KlM8Ub5Ic",
+    "title": "RCA ITC2222",
+    "meta": [
+     "9.9K",
+     "17y ago"
+    ],
+    "dur": "0:14",
+    "views_tab": 9900
+   },
+   {
+    "id": "PXg69n8Mhfg",
+    "title": "Volts Amps and Resistance made simple.",
+    "meta": [
+     "33K",
+     "17y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 33000
+   },
+   {
+    "id": "eJ2FTxxOqxs",
+    "title": "LCD TV Repair made # 2",
+    "meta": [
+     "106K",
+     "17y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 106000
+   },
+   {
+    "id": "R_uBSzIgO5M",
+    "title": "LCD TV repair made easy #3. Original Vs Generic parts. Sometimes it matters.",
+    "meta": [
+     "78K",
+     "17y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 78000
+   },
+   {
+    "id": "MMpqbhpyQh4",
+    "title": "Astar LTV3001",
+    "meta": [
+     "5.9K",
+     "17y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 5900
+   },
+   {
+    "id": "-4uT1XN_YUE",
+    "title": "Grants Pass TV Repair",
+    "meta": [
+     "3.6K",
+     "17y ago"
+    ],
+    "dur": "1:39",
+    "views_tab": 3600
+   },
+   {
+    "id": "tEgV1MjlmoY",
+    "title": "LCD TV Repair made easy #4",
+    "meta": [
+     "71K",
+     "17y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 71000
+   },
+   {
+    "id": "TXGxE9Fxhlw",
+    "title": "LDC TV Repair made easy # 5",
+    "meta": [
+     "61K",
+     "17y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 61000
+   },
+   {
+    "id": "Bx38lk0JbXU",
+    "title": "Isolation transformers",
+    "meta": [
+     "35K",
+     "17y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 35000
+   },
+   {
+    "id": "Jts7WO19MTE",
+    "title": "Cycle Oregon 2009 Grants Pass part 1",
+    "meta": [
+     "1.7K",
+     "17y ago"
+    ],
+    "dur": "9:46",
+    "views_tab": 1700
+   },
+   {
+    "id": "ZCq831I6QgA",
+    "title": "Cycle Oregon 2009 Grants Pass part 2",
+    "meta": [
+     "842",
+     "17y ago"
+    ],
+    "dur": "9:48",
+    "views_tab": 842
+   },
+   {
+    "id": "7c2IQ2lbIWs",
+    "title": "Repairing antenna connectors on TVs",
+    "meta": [
+     "143K",
+     "17y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 143000
+   },
+   {
+    "id": "j5Tk8L7JR-8",
+    "title": "LCD BACK LIGHT",
+    "meta": [
+     "17K",
+     "17y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 17000
+   },
+   {
+    "id": "ou3EW5mccE8",
+    "title": "Grants Pass Art along the Rogue 2009",
+    "meta": [
+     "857",
+     "17y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 857
+   },
+   {
+    "id": "yqNJdX6IEBs",
+    "title": "Soldering",
+    "meta": [
+     "9K",
+     "17y ago"
+    ],
+    "dur": "9:26",
+    "views_tab": 9000
+   },
+   {
+    "id": "jMluXQvtjOk",
+    "title": "Pak lite LED flashlight sets new record.",
+    "meta": [
+     "5.2K",
+     "16y ago"
+    ],
+    "dur": "1:24",
+    "views_tab": 5200
+   },
+   {
+    "id": "3R_4I4Lq7ZU",
+    "title": "Phase angle difference",
+    "meta": [
+     "6.4K",
+     "16y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 6400
+   },
+   {
+    "id": "3hBC56sOWE8",
+    "title": "Phase shift differences under variable loads.",
+    "meta": [
+     "3.2K",
+     "16y ago"
+    ],
+    "dur": "1:55",
+    "views_tab": 3200
+   },
+   {
+    "id": "SCUVBYaMi9Y",
+    "title": "LCD TV Repair made easy # 6",
+    "meta": [
+     "179K",
+     "16y ago"
+    ],
+    "dur": "9:25",
+    "views_tab": 179000
+   },
+   {
+    "id": "0Mrka40ljoQ",
+    "title": "Polaroid FLM1911",
+    "meta": [
+     "9.3K",
+     "16y ago"
+    ],
+    "dur": "0:48",
+    "views_tab": 9300
+   },
+   {
+    "id": "OFqLAIqiHMo",
+    "title": "LCD TV Repair made easy # 7",
+    "meta": [
+     "60K",
+     "16y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 60000
+   },
+   {
+    "id": "GS-X2JZTip8",
+    "title": "LCD monitor had white screen. Make SVA Model number 2400W-BD",
+    "meta": [
+     "96K",
+     "16y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 96000
+   },
+   {
+    "id": "EjMLEPGJY2o",
+    "title": "LCD TV Repair made easy # 8",
+    "meta": [
+     "46K",
+     "16y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 46000
+   },
+   {
+    "id": "sdauoOVBFWA",
+    "title": "Understanding Power Supplies, Generators, AC and DC.",
+    "meta": [
+     "39K",
+     "16y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 39000
+   },
+   {
+    "id": "0O5v89lEHxA",
+    "title": "LCD TV repair made easy # 9",
+    "meta": [
+     "33K",
+     "16y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 33000
+   },
+   {
+    "id": "EDylk9ezQtA",
+    "title": "LCD TV Repair made easy # 10",
+    "meta": [
+     "154K",
+     "16y ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 154000
+   },
+   {
+    "id": "iPhCwzXKQ6I",
+    "title": "Diodes and Bridge Rectifiers",
+    "meta": [
+     "10K",
+     "16y ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 10000
+   },
+   {
+    "id": "CdFRY6ghXSQ",
+    "title": "Sharp LC135HIU",
+    "meta": [
+     "10K",
+     "16y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 10000
+   },
+   {
+    "id": "m7Zmb84MSKE",
+    "title": "Emerson EWL20S5C",
+    "meta": [
+     "7.3K",
+     "16y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 7300
+   },
+   {
+    "id": "2q2f0LwAqOc",
+    "title": "Dissecting an LCD TV panel",
+    "meta": [
+     "63K",
+     "16y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 63000
+   },
+   {
+    "id": "5OVEDFWHTBw",
+    "title": "polarized light demonstration",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 15000
+   },
+   {
+    "id": "kLP3jI46ON8",
+    "title": "More on LCD screens, liquid crystals and polarized light filters",
+    "meta": [
+     "9.7K",
+     "16y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 9700
+   },
+   {
+    "id": "LHKDh_hjeRs",
+    "title": "Applying electricity to liquid crystals.",
+    "meta": [
+     "22K",
+     "16y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 22000
+   },
+   {
+    "id": "Q7RbXbiBBl8",
+    "title": "GRANTS PASS AERIAL PHOTOS FROM A KITE.",
+    "meta": [
+     "1.8K",
+     "16y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 1800
+   },
+   {
+    "id": "xvJWqf_b6Eo",
+    "title": "Repairing Remote Controls and key fobs.",
+    "meta": [
+     "381K",
+     "16y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 381000
+   },
+   {
+    "id": "2urDrzpNeW0",
+    "title": "LCD TV Repair made easy # 11",
+    "meta": [
+     "34K",
+     "16y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 34000
+   },
+   {
+    "id": "6Zxp8lSdn8M",
+    "title": "Understanding Watts, Voltage, and Amps. Sorry about the math mistakes.",
+    "meta": [
+     "448K",
+     "16y ago"
+    ],
+    "dur": "12:35",
+    "views_tab": 448000
+   },
+   {
+    "id": "BsR5LuDrqjI",
+    "title": "LCD TV Repair made easy # 12",
+    "meta": [
+     "53K",
+     "16y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 53000
+   },
+   {
+    "id": "H2jGvLnKRiM",
+    "title": "LCD Display problems.",
+    "meta": [
+     "80K",
+     "15y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 80000
+   },
+   {
+    "id": "_1pxf4faLAY",
+    "title": "Finding a shorted component.",
+    "meta": [
+     "551K",
+     "15y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 551000
+   },
+   {
+    "id": "y9gmAxRXyT0",
+    "title": "VIZIO LCD TV GV47L FHDTV10A",
+    "meta": [
+     "69K",
+     "15y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 69000
+   },
+   {
+    "id": "VyEzolujYnQ",
+    "title": "Plasma TV repair",
+    "meta": [
+     "46K",
+     "15y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 46000
+   },
+   {
+    "id": "cbEJnFckL7w",
+    "title": "Plasma TV repair. Learn from my mistakes.",
+    "meta": [
+     "156K",
+     "15y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 156000
+   },
+   {
+    "id": "Qj51BkS9d-0",
+    "title": "Troubleshooting a bad LCD TV display",
+    "meta": [
+     "95K",
+     "15y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 95000
+   },
+   {
+    "id": "XhqwC3BFBug",
+    "title": "Finding a short to ground using this special technique.",
+    "meta": [
+     "212K",
+     "14y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 212000
+   },
+   {
+    "id": "hUiYRqrNxxU",
+    "title": "DLP Color Wheel Bad Bearing Symptoms and general service tips.",
+    "meta": [
+     "168K",
+     "14y ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 168000
+   },
+   {
+    "id": "wGrzHqwcUx8",
+    "title": "Interview with Plasma TV Expert.",
+    "meta": [
+     "22K",
+     "14y ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 22000
+   },
+   {
+    "id": "qH4x8RQeLug",
+    "title": "How to test capacitors",
+    "meta": [
+     "74K",
+     "14y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 74000
+   },
+   {
+    "id": "Zg9dF1ZYNUc",
+    "title": "Plasma TV ribbon cable problem",
+    "meta": [
+     "70K",
+     "14y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 70000
+   },
+   {
+    "id": "nC7soD9uQQ8",
+    "title": "Toshiba plasma repair. Model # 50HP16",
+    "meta": [
+     "22K",
+     "13y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 22000
+   },
+   {
+    "id": "YFwfvw29JEU",
+    "title": "RCA MODEL L37WD12YX1 Repair",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "HsSlQnGCvdg",
+    "title": "Power surge due to an open neutral wire.",
+    "meta": [
+     "135K",
+     "13y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 135000
+   },
+   {
+    "id": "rdMpoobYDkk",
+    "title": "Desoldering techniques for difficult connections.",
+    "meta": [
+     "75K",
+     "13y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 75000
+   },
+   {
+    "id": "BY1bUbBcMH0",
+    "title": "Plasma TV repair. Don't make this mistake.",
+    "meta": [
+     "343K",
+     "13y ago"
+    ],
+    "dur": "1:32",
+    "views_tab": 343000
+   },
+   {
+    "id": "6AkiBZzOhos",
+    "title": "Polaroid TLX04244B LCD TV",
+    "meta": [
+     "15K",
+     "13y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 15000
+   },
+   {
+    "id": "RZnb768dDEg",
+    "title": "Opening a Coconut with Electromagnetism.",
+    "meta": [
+     "4.1K",
+     "13y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 4100
+   },
+   {
+    "id": "5wLR0En5RlE",
+    "title": "Salvaged TV parts. Warning about some retailers..",
+    "meta": [
+     "9.6K",
+     "13y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 9600
+   },
+   {
+    "id": "PflyJ4H51Fg",
+    "title": "LCD TV Backlights Overheating transformer on Samsung LN40B550K1F",
+    "meta": [
+     "66K",
+     "13y ago"
+    ],
+    "dur": "4:55",
+    "views_tab": 66000
+   },
+   {
+    "id": "gPpy-HX9wFg",
+    "title": "Broken TV Repurpose",
+    "meta": [
+     "57K",
+     "13y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 57000
+   },
+   {
+    "id": "wZtWWO8cfH0",
+    "title": "Lightning Damage to home and electronics equipment..",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 12000
+   },
+   {
+    "id": "Tf-xeqH3Qgw",
+    "title": "Vizio TV. Inverter output shorted to ground from electric arc on lamps to chassis.",
+    "meta": [
+     "73K",
+     "13y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 73000
+   },
+   {
+    "id": "pbffKtXjTog",
+    "title": "RCA 50LB45RQ Service menu adjustment for main board replacement for a solarized picture.",
+    "meta": [
+     "77K",
+     "12y ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 77000
+   },
+   {
+    "id": "L50x35df2nI",
+    "title": "Antenna experiment. Flying kite with wire. Deadly warning in   info section",
+    "meta": [
+     "17K",
+     "12y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 17000
+   },
+   {
+    "id": "NXOSmE6A81s",
+    "title": "Sony KDL-32EX400 Broken CCFL",
+    "meta": [
+     "7K",
+     "12y ago"
+    ],
+    "dur": "2:07",
+    "views_tab": 7000
+   },
+   {
+    "id": "rNSB4EEriPw",
+    "title": "Generic Inverter board replacement and warning!",
+    "meta": [
+     "23K",
+     "12y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 23000
+   },
+   {
+    "id": "j_G3Flclj0o",
+    "title": "LG 47LS4500 Bad Diode.",
+    "meta": [
+     "62K",
+     "12y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 62000
+   },
+   {
+    "id": "gzlZ84--JrQ",
+    "title": "Inductive Reactance Demonstration.",
+    "meta": [
+     "18K",
+     "12y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 18000
+   },
+   {
+    "id": "IJWqufjiYJM",
+    "title": "Solenoids & Relays. The how and why they are used.",
+    "meta": [
+     "4.2K",
+     "12y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 4200
+   },
+   {
+    "id": "g-XYiy9mQw0",
+    "title": "LG Plasma TV Model # 50PJ350-UB",
+    "meta": [
+     "67K",
+     "11y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 67000
+   },
+   {
+    "id": "rigGPPTKmW0",
+    "title": "Resistors or speakers in parallel calculation.",
+    "meta": [
+     "4.9K",
+     "11y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 4900
+   },
+   {
+    "id": "m4XxUi8nqbg",
+    "title": "Zener Diodes in series",
+    "meta": [
+     "19K",
+     "11y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 19000
+   },
+   {
+    "id": "AUm9AVvZo9k",
+    "title": "VIZIO VW42L FHDTV10A. MAIN BOARD PROBLEM SOLVED.",
+    "meta": [
+     "25K",
+     "11y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "fBWX34wTULw",
+    "title": "Sharp LC-70LE733U Reset procedure and voltages measurements.",
+    "meta": [
+     "77K",
+     "11y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 77000
+   },
+   {
+    "id": "TeZQRPTYUxo",
+    "title": "Shop organization tips. Useful products to have in your shop and home..",
+    "meta": [
+     "3.6K",
+     "11y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 3600
+   },
+   {
+    "id": "QygDldhJKTM",
+    "title": "Mike's TV Repair Histories. A telephone interview with the author Mike Danish.",
+    "meta": [
+     "3.4K",
+     "11y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 3400
+   },
+   {
+    "id": "QmCwSA5u2H8",
+    "title": "TV Doesn\"t respond to remote, Here's why.",
+    "meta": [
+     "249K",
+     "11y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 249000
+   },
+   {
+    "id": "sB8E_I31_0I",
+    "title": "Fake IRS agent tells me I'm going to jail.",
+    "meta": [
+     "10K",
+     "11y ago"
+    ],
+    "dur": "11:37",
+    "views_tab": 10000
+   },
+   {
+    "id": "cgu7kL3iMwg",
+    "title": "Hisense Model 55K610GWN Repair History..",
+    "meta": [
+     "17K",
+     "11y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 17000
+   },
+   {
+    "id": "iTKm8Pgm2dY",
+    "title": "Soldering Microscope. Why you should have one.",
+    "meta": [
+     "58K",
+     "11y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 58000
+   },
+   {
+    "id": "e6ULnVvYBmk",
+    "title": "RCA 39LB45RQ LCD TV. EEPROM Repair on main board",
+    "meta": [
+     "41K",
+     "11y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 41000
+   },
+   {
+    "id": "PZzc6AbVBlY",
+    "title": "Proscan PLED5529AC Repair. Using A wattmeters to check power consumption.",
+    "meta": [
+     "9.5K",
+     "11y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 9500
+   },
+   {
+    "id": "7nmAHbjUxfI",
+    "title": "Vizio  V047LFHDTV20A No backlight.",
+    "meta": [
+     "7.7K",
+     "11y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 7700
+   },
+   {
+    "id": "94WsUFb0vV0",
+    "title": "Sony KDL-40BX420",
+    "meta": [
+     "29K",
+     "11y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 29000
+   },
+   {
+    "id": "z5JXm9jgLp8",
+    "title": "Your Multimeters Millivolt scale can be used to locate shorts to ground.",
+    "meta": [
+     "363K",
+     "11y ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 363000
+   },
+   {
+    "id": "qK6pYmdFVdQ",
+    "title": "Upgrading To A Better Diode.",
+    "meta": [
+     "2K",
+     "11y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 2000
+   },
+   {
+    "id": "4HoHERN_-DE",
+    "title": "Hidden Thermal Fuses in Transformers. Please watch update also!",
+    "meta": [
+     "57K",
+     "11y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 57000
+   },
+   {
+    "id": "qFOFFKtQlr8",
+    "title": "Updated info on hidden fuses in Transformers.",
+    "meta": [
+     "16K",
+     "11y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "mricveRkE_Q",
+    "title": "Repairing Plastic Cracks When Glues Don't Work.",
+    "meta": [
+     "34K",
+     "11y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 34000
+   },
+   {
+    "id": "Ky2T1-n_Fks",
+    "title": "Ring tester for Coils and Transformers.",
+    "meta": [
+     "13K",
+     "11y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 13000
+   },
+   {
+    "id": "otgsPe8hD9k",
+    "title": "Vizio E3D470VX  Repair Case history.",
+    "meta": [
+     "3.9K",
+     "11y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 3900
+   },
+   {
+    "id": "6t-wNmPSR-Y",
+    "title": "Power Adapters And Smart Battery Chargers.",
+    "meta": [
+     "1.6K",
+     "11y ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 1600
+   },
+   {
+    "id": "CWKrQvD_sQE",
+    "title": "Homemade UFO Startles Grants Pass Residents.",
+    "meta": [
+     "4.1K",
+     "11y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 4100
+   },
+   {
+    "id": "hCY0w_3tOUs",
+    "title": "How far can a permanent magnets field be detected?",
+    "meta": [
+     "1.4K",
+     "11y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 1400
+   },
+   {
+    "id": "aIRVI65Eqvc",
+    "title": "Using a Neon light to test your automobiles spark",
+    "meta": [
+     "4.6K",
+     "11y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 4600
+   },
+   {
+    "id": "_pm2tLN6KOQ",
+    "title": "Free Energy From Radio Waves. See info section for additional video.",
+    "meta": [
+     "243K",
+     "11y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 243000
+   },
+   {
+    "id": "khSAoTAC3iM",
+    "title": "VIZIO VF550M Misdiagnosis and repair.",
+    "meta": [
+     "7.5K",
+     "11y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 7500
+   },
+   {
+    "id": "4pVrMw3-E-w",
+    "title": "Fuel pump diagnosis while driving.",
+    "meta": [
+     "11K",
+     "11y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 11000
+   },
+   {
+    "id": "qaJ0TMpxVoI",
+    "title": "VIZIO E600i-B3 Troubleshooting And  Repair History.",
+    "meta": [
+     "13K",
+     "10y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 13000
+   },
+   {
+    "id": "1VkF5uRP_Vw",
+    "title": "Sceptre X409BV Repair Case History Using An Infrared Heat Sensor.",
+    "meta": [
+     "7.6K",
+     "10y ago"
+    ],
+    "dur": "4:45",
+    "views_tab": 7600
+   },
+   {
+    "id": "19Sf0CIZB9A",
+    "title": "Fuse Identification Mystery Marking Revealed.  Slow Blow Vs Fast Blow Used In Electronics Repair.",
+    "meta": [
+     "33K",
+     "10y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 33000
+   },
+   {
+    "id": "526XozYdvSU",
+    "title": "Infrared sensor in TV caused remote control not to work.",
+    "meta": [
+     "217K",
+     "10y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 217000
+   },
+   {
+    "id": "MlJpRcu31Zc",
+    "title": "VCR Eats Tapes. The Most Common Causes Part 1 of 2",
+    "meta": [
+     "288K",
+     "10y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 288000
+   },
+   {
+    "id": "6KK5fBlWFFk",
+    "title": "Buying Salvaged Circuit Boards. Who Can You Trust?",
+    "meta": [
+     "3K",
+     "10y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 3000
+   },
+   {
+    "id": "NFTdvY4OBYY",
+    "title": "VCR EATS TAPES. THE MOST COMMON CAUSES #2",
+    "meta": [
+     "114K",
+     "10y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 114000
+   },
+   {
+    "id": "ATJidGA4rEo",
+    "title": "Surge Protectors can be false protection.",
+    "meta": [
+     "2.3K",
+     "10y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 2300
+   },
+   {
+    "id": "d0UjhHUrO74",
+    "title": "Does free energy exist?",
+    "meta": [
+     "20K",
+     "10y ago"
+    ],
+    "dur": "9:36",
+    "views_tab": 20000
+   },
+   {
+    "id": "U6DC3baeI8g",
+    "title": "Free Energy From Thunder Clouds charging my long wire antenna.",
+    "meta": [
+     "2.5K",
+     "10y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 2500
+   },
+   {
+    "id": "MwF4oNUIIn0",
+    "title": "Electrotherapy Healing machines from the 1800s and newer.",
+    "meta": [
+     "4.8K",
+     "10y ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 4800
+   },
+   {
+    "id": "dyDXGgOe1tM",
+    "title": "Please see update link. I found a better repair.2006 Hummer H3 window and door Window controller.",
+    "meta": [
+     "33K",
+     "9y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 33000
+   },
+   {
+    "id": "_znMPaZYZAc",
+    "title": "Part 2, important update  on conductive paint Vs restoring pad. Please see info section for more.",
+    "meta": [
+     "20K",
+     "9y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "y-DAutCRuLo",
+    "title": "Inductive circuit probe you can build.",
+    "meta": [
+     "7.1K",
+     "9y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 7100
+   },
+   {
+    "id": "wFRVh_oHlbM",
+    "title": "Dental Equipment Repair. Water damage.",
+    "meta": [
+     "9.7K",
+     "9y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 9700
+   },
+   {
+    "id": "Iz260fXTKaU",
+    "title": "Using freeze spray or hot air to troubleshoot Circuit Boards and LCD display problems.",
+    "meta": [
+     "90K",
+     "9y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 90000
+   },
+   {
+    "id": "3rvEdHyAd2k",
+    "title": "Isolation Transformers can save your life, and your equipment.",
+    "meta": [
+     "179K",
+     "9y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 179000
+   }
+  ]
+ }
+}

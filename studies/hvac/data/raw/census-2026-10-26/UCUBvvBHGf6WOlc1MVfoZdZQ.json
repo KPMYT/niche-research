@@ -1,0 +1,505 @@
+{
+ "key": "UCUBvvBHGf6WOlc1MVfoZdZQ",
+ "channel": "Old Maine Firewood",
+ "id": "UCUBvvBHGf6WOlc1MVfoZdZQ",
+ "subs": "29 subscribers",
+ "videos": "12 videos",
+ "pulled": "2026-10-26T06:57:36.615284+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "zguIfv_9Ev0",
+    "title": "Most Maine Folks Miss These 5 Free Wood Sources \u2014 Don't Be One of Them",
+    "meta": [
+     "298",
+     "4w ago"
+    ],
+    "dur": "14:55",
+    "views_tab": 298
+   },
+   {
+    "id": "eeQXrou6_y0",
+    "title": "I'm Not Buying Kiln-Dried Firewood Anymore \u2014 This Old Maine Trick Gets the Same Result for Free",
+    "meta": [
+     "189",
+     "1mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 189
+   },
+   {
+    "id": "uAJb9pbr-c4",
+    "title": "I'm Not Using a Chainsaw the Normal Way Anymore \u2014 This Old Maine Logger Trick Saves 2 Hours a Day",
+    "meta": [
+     "419",
+     "1mo ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 419
+   },
+   {
+    "id": "8M-sJBjtFdc",
+    "title": "This 60-Year-Old Maine Woodstove Trick Is Why I Never Run Out of Propane",
+    "meta": [
+     "894",
+     "1mo ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 894
+   },
+   {
+    "id": "L5RXIDv6jfY",
+    "title": "I'm Not Paying For a Chimney Sweep Anymore \u2014 This Old Maine Trick Keeps My Flue Clean All Winter",
+    "meta": [
+     "544",
+     "1mo ago"
+    ],
+    "dur": "15:06",
+    "views_tab": 544
+   },
+   {
+    "id": "H7rvwJeeOnY",
+    "title": "10 Old Maine Firewood Mistakes That Are Costing You Hundreds This Winter",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 2000
+   },
+   {
+    "id": "-6pu1ATGAkk",
+    "title": "Never Buy a Fire Starter Again \u2014 This Old Maine Lumberjack Trick Costs Nothing",
+    "meta": [
+     "515",
+     "1mo ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 515
+   },
+   {
+    "id": "yoXdcATCCRk",
+    "title": "I'm Not Seasoning Wood the Normal Way Anymore \u2014 This Old Maine Trick Dries It in Half the Time",
+    "meta": [
+     "6.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 6300
+   },
+   {
+    "id": "LZoBq4prQys",
+    "title": "This $2 Maine Lumberjack Trick Tells You Exactly When Firewood Is Ready to Burn",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "ztnuTBCA5mw",
+    "title": "7 Old Maine Lumberjack Tricks Home Depot Doesn't Want You to Know",
+    "meta": [
+     "561",
+     "1mo ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 561
+   },
+   {
+    "id": "ZlnBqy1bUYU",
+    "title": "This $30 Maine Trick Turns a Free Tree Into $400 Worth of Firewood",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 1200
+   },
+   {
+    "id": "VC_UxJYmVZI",
+    "title": "I'm Not Buying Firewood Anymore \u2014 This Old Maine Lumberjack Trick Cut My Heating Bill by $600",
+    "meta": [
+     "2.2K",
+     "1mo ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 2200
+   }
+  ],
+  "Latest": [
+   {
+    "id": "zguIfv_9Ev0",
+    "title": "Most Maine Folks Miss These 5 Free Wood Sources \u2014 Don't Be One of Them",
+    "meta": [
+     "298",
+     "4w ago"
+    ],
+    "dur": "14:55",
+    "views_tab": 298
+   },
+   {
+    "id": "eeQXrou6_y0",
+    "title": "I'm Not Buying Kiln-Dried Firewood Anymore \u2014 This Old Maine Trick Gets the Same Result for Free",
+    "meta": [
+     "189",
+     "1mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 189
+   },
+   {
+    "id": "uAJb9pbr-c4",
+    "title": "I'm Not Using a Chainsaw the Normal Way Anymore \u2014 This Old Maine Logger Trick Saves 2 Hours a Day",
+    "meta": [
+     "420",
+     "1mo ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 420
+   },
+   {
+    "id": "8M-sJBjtFdc",
+    "title": "This 60-Year-Old Maine Woodstove Trick Is Why I Never Run Out of Propane",
+    "meta": [
+     "894",
+     "1mo ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 894
+   },
+   {
+    "id": "L5RXIDv6jfY",
+    "title": "I'm Not Paying For a Chimney Sweep Anymore \u2014 This Old Maine Trick Keeps My Flue Clean All Winter",
+    "meta": [
+     "544",
+     "1mo ago"
+    ],
+    "dur": "15:06",
+    "views_tab": 544
+   },
+   {
+    "id": "H7rvwJeeOnY",
+    "title": "10 Old Maine Firewood Mistakes That Are Costing You Hundreds This Winter",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 2000
+   },
+   {
+    "id": "-6pu1ATGAkk",
+    "title": "Never Buy a Fire Starter Again \u2014 This Old Maine Lumberjack Trick Costs Nothing",
+    "meta": [
+     "515",
+     "1mo ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 515
+   },
+   {
+    "id": "yoXdcATCCRk",
+    "title": "I'm Not Seasoning Wood the Normal Way Anymore \u2014 This Old Maine Trick Dries It in Half the Time",
+    "meta": [
+     "6.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 6300
+   },
+   {
+    "id": "LZoBq4prQys",
+    "title": "This $2 Maine Lumberjack Trick Tells You Exactly When Firewood Is Ready to Burn",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "ztnuTBCA5mw",
+    "title": "7 Old Maine Lumberjack Tricks Home Depot Doesn't Want You to Know",
+    "meta": [
+     "561",
+     "1mo ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 561
+   },
+   {
+    "id": "ZlnBqy1bUYU",
+    "title": "This $30 Maine Trick Turns a Free Tree Into $400 Worth of Firewood",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 1200
+   },
+   {
+    "id": "VC_UxJYmVZI",
+    "title": "I'm Not Buying Firewood Anymore \u2014 This Old Maine Lumberjack Trick Cut My Heating Bill by $600",
+    "meta": [
+     "2.2K",
+     "1mo ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 2200
+   }
+  ],
+  "Popular": [
+   {
+    "id": "yoXdcATCCRk",
+    "title": "I'm Not Seasoning Wood the Normal Way Anymore \u2014 This Old Maine Trick Dries It in Half the Time",
+    "meta": [
+     "6.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 6300
+   },
+   {
+    "id": "VC_UxJYmVZI",
+    "title": "I'm Not Buying Firewood Anymore \u2014 This Old Maine Lumberjack Trick Cut My Heating Bill by $600",
+    "meta": [
+     "2.2K",
+     "1mo ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 2200
+   },
+   {
+    "id": "H7rvwJeeOnY",
+    "title": "10 Old Maine Firewood Mistakes That Are Costing You Hundreds This Winter",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 2000
+   },
+   {
+    "id": "LZoBq4prQys",
+    "title": "This $2 Maine Lumberjack Trick Tells You Exactly When Firewood Is Ready to Burn",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "ZlnBqy1bUYU",
+    "title": "This $30 Maine Trick Turns a Free Tree Into $400 Worth of Firewood",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 1200
+   },
+   {
+    "id": "8M-sJBjtFdc",
+    "title": "This 60-Year-Old Maine Woodstove Trick Is Why I Never Run Out of Propane",
+    "meta": [
+     "894",
+     "1mo ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 894
+   },
+   {
+    "id": "ztnuTBCA5mw",
+    "title": "7 Old Maine Lumberjack Tricks Home Depot Doesn't Want You to Know",
+    "meta": [
+     "561",
+     "1mo ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 561
+   },
+   {
+    "id": "L5RXIDv6jfY",
+    "title": "I'm Not Paying For a Chimney Sweep Anymore \u2014 This Old Maine Trick Keeps My Flue Clean All Winter",
+    "meta": [
+     "544",
+     "1mo ago"
+    ],
+    "dur": "15:06",
+    "views_tab": 544
+   },
+   {
+    "id": "-6pu1ATGAkk",
+    "title": "Never Buy a Fire Starter Again \u2014 This Old Maine Lumberjack Trick Costs Nothing",
+    "meta": [
+     "515",
+     "1mo ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 515
+   },
+   {
+    "id": "uAJb9pbr-c4",
+    "title": "I'm Not Using a Chainsaw the Normal Way Anymore \u2014 This Old Maine Logger Trick Saves 2 Hours a Day",
+    "meta": [
+     "420",
+     "1mo ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 420
+   },
+   {
+    "id": "zguIfv_9Ev0",
+    "title": "Most Maine Folks Miss These 5 Free Wood Sources \u2014 Don't Be One of Them",
+    "meta": [
+     "298",
+     "4w ago"
+    ],
+    "dur": "14:55",
+    "views_tab": 298
+   },
+   {
+    "id": "eeQXrou6_y0",
+    "title": "I'm Not Buying Kiln-Dried Firewood Anymore \u2014 This Old Maine Trick Gets the Same Result for Free",
+    "meta": [
+     "189",
+     "1mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 189
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "VC_UxJYmVZI",
+    "title": "I'm Not Buying Firewood Anymore \u2014 This Old Maine Lumberjack Trick Cut My Heating Bill by $600",
+    "meta": [
+     "2.2K",
+     "1mo ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 2200
+   },
+   {
+    "id": "ZlnBqy1bUYU",
+    "title": "This $30 Maine Trick Turns a Free Tree Into $400 Worth of Firewood",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 1200
+   },
+   {
+    "id": "ztnuTBCA5mw",
+    "title": "7 Old Maine Lumberjack Tricks Home Depot Doesn't Want You to Know",
+    "meta": [
+     "561",
+     "1mo ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 561
+   },
+   {
+    "id": "LZoBq4prQys",
+    "title": "This $2 Maine Lumberjack Trick Tells You Exactly When Firewood Is Ready to Burn",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "yoXdcATCCRk",
+    "title": "I'm Not Seasoning Wood the Normal Way Anymore \u2014 This Old Maine Trick Dries It in Half the Time",
+    "meta": [
+     "6.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 6300
+   },
+   {
+    "id": "-6pu1ATGAkk",
+    "title": "Never Buy a Fire Starter Again \u2014 This Old Maine Lumberjack Trick Costs Nothing",
+    "meta": [
+     "515",
+     "1mo ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 515
+   },
+   {
+    "id": "H7rvwJeeOnY",
+    "title": "10 Old Maine Firewood Mistakes That Are Costing You Hundreds This Winter",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 2000
+   },
+   {
+    "id": "L5RXIDv6jfY",
+    "title": "I'm Not Paying For a Chimney Sweep Anymore \u2014 This Old Maine Trick Keeps My Flue Clean All Winter",
+    "meta": [
+     "544",
+     "1mo ago"
+    ],
+    "dur": "15:06",
+    "views_tab": 544
+   },
+   {
+    "id": "8M-sJBjtFdc",
+    "title": "This 60-Year-Old Maine Woodstove Trick Is Why I Never Run Out of Propane",
+    "meta": [
+     "894",
+     "1mo ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 894
+   },
+   {
+    "id": "uAJb9pbr-c4",
+    "title": "I'm Not Using a Chainsaw the Normal Way Anymore \u2014 This Old Maine Logger Trick Saves 2 Hours a Day",
+    "meta": [
+     "420",
+     "1mo ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 420
+   },
+   {
+    "id": "eeQXrou6_y0",
+    "title": "I'm Not Buying Kiln-Dried Firewood Anymore \u2014 This Old Maine Trick Gets the Same Result for Free",
+    "meta": [
+     "189",
+     "1mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 189
+   },
+   {
+    "id": "zguIfv_9Ev0",
+    "title": "Most Maine Folks Miss These 5 Free Wood Sources \u2014 Don't Be One of Them",
+    "meta": [
+     "298",
+     "4w ago"
+    ],
+    "dur": "14:55",
+    "views_tab": 298
+   }
+  ]
+ }
+}

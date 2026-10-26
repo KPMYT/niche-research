@@ -1,0 +1,3925 @@
+{
+ "key": "UCGIWoFCiw_H5SW4sHWFzQSw",
+ "channel": "RepairClinic.com",
+ "id": "UCGIWoFCiw_H5SW4sHWFzQSw",
+ "subs": "714K subscribers",
+ "videos": null,
+ "pulled": "2026-10-26T06:54:04.018464+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Q3xFO_DhgWU",
+    "title": "Washing Machine Dispenser Water Valve / Diverter Motor Voltage Testing",
+    "meta": [
+     "75K",
+     "3y ago"
+    ],
+    "dur": "1:58",
+    "views_tab": 75000
+   },
+   {
+    "id": "hH9zlQFjTjA",
+    "title": "Furnace Blower Motor Voltage Testing",
+    "meta": [
+     "49K",
+     "3y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 49000
+   },
+   {
+    "id": "e-XuoWW-dEs",
+    "title": "Furnace Draft Inducer Motor Voltage Testing",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 36000
+   },
+   {
+    "id": "-8sOiZWLlhE",
+    "title": "Furnace Heating Element Testing",
+    "meta": [
+     "87K",
+     "3y ago"
+    ],
+    "dur": "1:39",
+    "views_tab": 87000
+   },
+   {
+    "id": "IJV_iSV7klo",
+    "title": "Refrigerator Compressor Voltage Testing",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 80000
+   },
+   {
+    "id": "I7ZoMRl5ff8",
+    "title": "Freezer Thermistor Testing",
+    "meta": [
+     "27K",
+     "3y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 27000
+   },
+   {
+    "id": "yh21ZlHt-8Q",
+    "title": "Air Conditioner Thermistor Testing",
+    "meta": [
+     "91K",
+     "3y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 91000
+   },
+   {
+    "id": "F7Q7EZppU5I",
+    "title": "Microwave Turntable Motor Voltage Testing",
+    "meta": [
+     "19K",
+     "3y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 19000
+   },
+   {
+    "id": "ND5ZQirTqLM",
+    "title": "Microwave Light Socket Voltage Testing",
+    "meta": [
+     "4.4K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 4400
+   },
+   {
+    "id": "fBbCWVkkeJM",
+    "title": "Microwave Exhaust Fan Voltage Motor Testing",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 10000
+   },
+   {
+    "id": "vyCvTUcZbdA",
+    "title": "Water Heater Pressure Switch Testing",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "2:32",
+    "views_tab": 58000
+   },
+   {
+    "id": "WJcbc2a7ooA",
+    "title": "Furnace Pressure Switch Testing",
+    "meta": [
+     "121K",
+     "3y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 121000
+   },
+   {
+    "id": "O2MXvCmx5TI",
+    "title": "Range Vent Hood Thermal Fuse Testing",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "TJg9Xb00OLM",
+    "title": "Range Downdraft Vent Start Switch Testing",
+    "meta": [
+     "2.8K",
+     "3y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 2800
+   },
+   {
+    "id": "tFyPFepPasU",
+    "title": "Range Downdraft Vent Limit Switch Testing",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 5100
+   },
+   {
+    "id": "11n8yunNhjc",
+    "title": "Refrigerator Thermistor Testing",
+    "meta": [
+     "148K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 148000
+   },
+   {
+    "id": "1HuDLGVnDiQ",
+    "title": "Refrigerator Evaporator Fan Motor Voltage Testing",
+    "meta": [
+     "103K",
+     "3y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 103000
+   },
+   {
+    "id": "rebzh5ycsC0",
+    "title": "Oven Temperature Control Thermostat Testing",
+    "meta": [
+     "88K",
+     "3y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 88000
+   },
+   {
+    "id": "XlxTY39_yQc",
+    "title": "Oven Light Socket Voltage Testing",
+    "meta": [
+     "5K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 5000
+   },
+   {
+    "id": "p2yJti3PQGw",
+    "title": "Measuring Oven Temperature",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 29000
+   },
+   {
+    "id": "A631Jb4rT9s",
+    "title": "Microwave Magnetron Testing",
+    "meta": [
+     "234K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 234000
+   },
+   {
+    "id": "xDZRLRxMLZQ",
+    "title": "Dryer Vent Line Cleaning",
+    "meta": [
+     "4.1K",
+     "3y ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 4100
+   },
+   {
+    "id": "T1AJQQpeoPY",
+    "title": "Dryer Thermistor Testing",
+    "meta": [
+     "122K",
+     "3y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 122000
+   },
+   {
+    "id": "VaXdJu2ZU8s",
+    "title": "Dryer Moisture Sensor Testing",
+    "meta": [
+     "472K",
+     "3y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 472000
+   },
+   {
+    "id": "miUDO87bK6M",
+    "title": "Dishwasher Dispenser Solenoid Testing",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 13000
+   },
+   {
+    "id": "Wfp0GFnS5l4",
+    "title": "Dishwasher Flow-Through Heater Testing",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 9200
+   },
+   {
+    "id": "wO6dRlhSJMo",
+    "title": "Why Is The Refrigerator So Noisy?",
+    "meta": [
+     "8.5K",
+     "3y ago"
+    ],
+    "dur": "1:59",
+    "views_tab": 8500
+   },
+   {
+    "id": "tId0SGyN1Sk",
+    "title": "Refrigerator Dispenser Connector Voltage Testing",
+    "meta": [
+     "4.6K",
+     "3y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 4600
+   },
+   {
+    "id": "kEE_diZGB78",
+    "title": "Washing Machine Motor/Stator Testing",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 65000
+   },
+   {
+    "id": "pxwLWjkA09I",
+    "title": "Washing Machine Lid/Door Lock Testing",
+    "meta": [
+     "78K",
+     "3y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 78000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Q3xFO_DhgWU",
+    "title": "Washing Machine Dispenser Water Valve / Diverter Motor Voltage Testing",
+    "meta": [
+     "75K",
+     "3y ago"
+    ],
+    "dur": "1:58",
+    "views_tab": 75000
+   },
+   {
+    "id": "hH9zlQFjTjA",
+    "title": "Furnace Blower Motor Voltage Testing",
+    "meta": [
+     "49K",
+     "3y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 49000
+   },
+   {
+    "id": "e-XuoWW-dEs",
+    "title": "Furnace Draft Inducer Motor Voltage Testing",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 36000
+   },
+   {
+    "id": "-8sOiZWLlhE",
+    "title": "Furnace Heating Element Testing",
+    "meta": [
+     "87K",
+     "3y ago"
+    ],
+    "dur": "1:39",
+    "views_tab": 87000
+   },
+   {
+    "id": "IJV_iSV7klo",
+    "title": "Refrigerator Compressor Voltage Testing",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 80000
+   },
+   {
+    "id": "I7ZoMRl5ff8",
+    "title": "Freezer Thermistor Testing",
+    "meta": [
+     "27K",
+     "3y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 27000
+   },
+   {
+    "id": "yh21ZlHt-8Q",
+    "title": "Air Conditioner Thermistor Testing",
+    "meta": [
+     "91K",
+     "3y ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 91000
+   },
+   {
+    "id": "F7Q7EZppU5I",
+    "title": "Microwave Turntable Motor Voltage Testing",
+    "meta": [
+     "19K",
+     "3y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 19000
+   },
+   {
+    "id": "ND5ZQirTqLM",
+    "title": "Microwave Light Socket Voltage Testing",
+    "meta": [
+     "4.4K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 4400
+   },
+   {
+    "id": "fBbCWVkkeJM",
+    "title": "Microwave Exhaust Fan Voltage Motor Testing",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 10000
+   },
+   {
+    "id": "vyCvTUcZbdA",
+    "title": "Water Heater Pressure Switch Testing",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "2:32",
+    "views_tab": 58000
+   },
+   {
+    "id": "WJcbc2a7ooA",
+    "title": "Furnace Pressure Switch Testing",
+    "meta": [
+     "121K",
+     "3y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 121000
+   },
+   {
+    "id": "O2MXvCmx5TI",
+    "title": "Range Vent Hood Thermal Fuse Testing",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "TJg9Xb00OLM",
+    "title": "Range Downdraft Vent Start Switch Testing",
+    "meta": [
+     "2.8K",
+     "3y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 2800
+   },
+   {
+    "id": "tFyPFepPasU",
+    "title": "Range Downdraft Vent Limit Switch Testing",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 5100
+   },
+   {
+    "id": "11n8yunNhjc",
+    "title": "Refrigerator Thermistor Testing",
+    "meta": [
+     "148K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 148000
+   },
+   {
+    "id": "1HuDLGVnDiQ",
+    "title": "Refrigerator Evaporator Fan Motor Voltage Testing",
+    "meta": [
+     "103K",
+     "3y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 103000
+   },
+   {
+    "id": "rebzh5ycsC0",
+    "title": "Oven Temperature Control Thermostat Testing",
+    "meta": [
+     "88K",
+     "3y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 88000
+   },
+   {
+    "id": "XlxTY39_yQc",
+    "title": "Oven Light Socket Voltage Testing",
+    "meta": [
+     "5K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 5000
+   },
+   {
+    "id": "p2yJti3PQGw",
+    "title": "Measuring Oven Temperature",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 29000
+   },
+   {
+    "id": "A631Jb4rT9s",
+    "title": "Microwave Magnetron Testing",
+    "meta": [
+     "234K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 234000
+   },
+   {
+    "id": "xDZRLRxMLZQ",
+    "title": "Dryer Vent Line Cleaning",
+    "meta": [
+     "4.1K",
+     "3y ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 4100
+   },
+   {
+    "id": "T1AJQQpeoPY",
+    "title": "Dryer Thermistor Testing",
+    "meta": [
+     "122K",
+     "3y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 122000
+   },
+   {
+    "id": "VaXdJu2ZU8s",
+    "title": "Dryer Moisture Sensor Testing",
+    "meta": [
+     "472K",
+     "3y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 472000
+   },
+   {
+    "id": "miUDO87bK6M",
+    "title": "Dishwasher Dispenser Solenoid Testing",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 13000
+   },
+   {
+    "id": "Wfp0GFnS5l4",
+    "title": "Dishwasher Flow-Through Heater Testing",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 9200
+   },
+   {
+    "id": "wO6dRlhSJMo",
+    "title": "Why Is The Refrigerator So Noisy?",
+    "meta": [
+     "8.5K",
+     "3y ago"
+    ],
+    "dur": "1:59",
+    "views_tab": 8500
+   },
+   {
+    "id": "tId0SGyN1Sk",
+    "title": "Refrigerator Dispenser Connector Voltage Testing",
+    "meta": [
+     "4.6K",
+     "3y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 4600
+   },
+   {
+    "id": "kEE_diZGB78",
+    "title": "Washing Machine Motor/Stator Testing",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 65000
+   },
+   {
+    "id": "pxwLWjkA09I",
+    "title": "Washing Machine Lid/Door Lock Testing",
+    "meta": [
+     "78K",
+     "3y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 78000
+   },
+   {
+    "id": "AscHo-WnU2U",
+    "title": "Washing Machine Inner Tub or Transmission Damaged?",
+    "meta": [
+     "60K",
+     "3y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 60000
+   },
+   {
+    "id": "dzcEI751kbk",
+    "title": "Washing Machine Pressure Sensor Testing",
+    "meta": [
+     "67K",
+     "3y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 67000
+   },
+   {
+    "id": "OxmBPylwxso",
+    "title": "Washing Machine Agitator or Wash Plate Removal",
+    "meta": [
+     "368K",
+     "3y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 368000
+   },
+   {
+    "id": "Xa1hcTBYMR8",
+    "title": "Dishwasher Pressure Switch Testing",
+    "meta": [
+     "54K",
+     "3y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 54000
+   },
+   {
+    "id": "NIHLtcYAPTg",
+    "title": "Dishwasher Vent Fan Continuity Testing",
+    "meta": [
+     "22K",
+     "3y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 22000
+   },
+   {
+    "id": "LSFkbvRhNRo",
+    "title": "Oven Convection Fan Motor Testing",
+    "meta": [
+     "43K",
+     "3y ago"
+    ],
+    "dur": "1:55",
+    "views_tab": 43000
+   },
+   {
+    "id": "br_JBN9nEOQ",
+    "title": "Cooktop Shorted Surface Element Switch Testing",
+    "meta": [
+     "31K",
+     "3y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 31000
+   },
+   {
+    "id": "KGVourekLWA",
+    "title": "Oven Convection Element Testing",
+    "meta": [
+     "7.2K",
+     "3y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 7200
+   },
+   {
+    "id": "XY3IDjmMWOo",
+    "title": "Washing Machine Water Inlet Valve Voltage Testing",
+    "meta": [
+     "102K",
+     "3y ago"
+    ],
+    "dur": "2:11",
+    "views_tab": 102000
+   },
+   {
+    "id": "-AZXLL0FrW4",
+    "title": "Dishwasher Inlet Valve Voltage Testing",
+    "meta": [
+     "50K",
+     "3y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 50000
+   },
+   {
+    "id": "_nUyaqH0fkQ",
+    "title": "Refrigerator Dispenser Solenoid Testing - Refrigerator Troubleshooting",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 25000
+   },
+   {
+    "id": "ZXvBzagfYxU",
+    "title": "Refrigerator Crushed/Cubed Ice Solenoid Testing - Refrigerator Troubleshooting",
+    "meta": [
+     "7.4K",
+     "3y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 7400
+   },
+   {
+    "id": "cql8pciv1DQ",
+    "title": "Washing Machine Pressure Switch Testing - Washing Machine Troubleshooting",
+    "meta": [
+     "297K",
+     "3y ago"
+    ],
+    "dur": "3:28",
+    "views_tab": 297000
+   },
+   {
+    "id": "9zW0yoi_gF0",
+    "title": "Dryer Drive Motor Testing - Dryer Troubleshooting",
+    "meta": [
+     "186K",
+     "3y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 186000
+   },
+   {
+    "id": "gkzPcySvxGA",
+    "title": "Gas Oven Igniter Voltage Testing - Range/Stove/Oven Troubleshooting",
+    "meta": [
+     "151K",
+     "3y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 151000
+   },
+   {
+    "id": "9fF3WAmYFIw",
+    "title": "Range Solid Surface Element Testing - Range/Stove/Oven Troubleshooting",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 14000
+   },
+   {
+    "id": "sb0mfS8jzZE",
+    "title": "Dishwasher Water Pressure Testing",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 48000
+   },
+   {
+    "id": "Z81dkmKalgs",
+    "title": "Dishwasher Thermostat Testing",
+    "meta": [
+     "37K",
+     "3y ago"
+    ],
+    "dur": "2:48",
+    "views_tab": 37000
+   },
+   {
+    "id": "2Ds8aI2qBEM",
+    "title": "Microwave Thermoprotector Testing",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 23000
+   },
+   {
+    "id": "Mjzzwv1VRAc",
+    "title": "Washing Machine Lid Switch Testing",
+    "meta": [
+     "116K",
+     "3y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 116000
+   },
+   {
+    "id": "vw4OWuzP6Uo",
+    "title": "Washing Machine Agitator Directional Cog Replacement",
+    "meta": [
+     "6.6K",
+     "3y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 6600
+   },
+   {
+    "id": "MoNYrAjJjl4",
+    "title": "Oven Fan Not Working? \u2014  Range/Stove/Oven Troubleshooting",
+    "meta": [
+     "75K",
+     "3y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 75000
+   },
+   {
+    "id": "y3JkQjEH_z4",
+    "title": "Stove Smells Like Gas? \u2014 Range/Stove/Oven Troubleshooting",
+    "meta": [
+     "60K",
+     "3y ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 60000
+   },
+   {
+    "id": "MtfZV3bwvm8",
+    "title": "Snowblower Leaking Gas? \u2014 Snowblower Troubleshooting",
+    "meta": [
+     "72K",
+     "3y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 72000
+   },
+   {
+    "id": "pFOjde2Gwrk",
+    "title": "Chainsaw Chain Not Turning \u2014 Chainsaw Troubleshooting",
+    "meta": [
+     "118K",
+     "3y ago"
+    ],
+    "dur": "1:14",
+    "views_tab": 118000
+   },
+   {
+    "id": "cseQN3y7vx8",
+    "title": "Chainsaw Chain Won't Stop Turning \u2014 Chainsaw Troubleshooting",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 14000
+   },
+   {
+    "id": "1JDi6A87qHU",
+    "title": "Refrigerator Light Socket / Light Board Testing",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "1:55",
+    "views_tab": 12000
+   },
+   {
+    "id": "QiNke74NQRs",
+    "title": "Testing Voltage To A Gas Range Spark Module",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 33000
+   },
+   {
+    "id": "X1FQP6GI368",
+    "title": "Oven Control Board Testing",
+    "meta": [
+     "204K",
+     "3y ago"
+    ],
+    "dur": "1:39",
+    "views_tab": 204000
+   },
+   {
+    "id": "g974wZvPEbA",
+    "title": "Spark Ignition Switch Testing",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 25000
+   },
+   {
+    "id": "fIlc-XjyCTA",
+    "title": "Testing For Voltage With A Multimeter",
+    "meta": [
+     "8.2K",
+     "3y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 8200
+   },
+   {
+    "id": "QJE3QJV4h7Q",
+    "title": "Freezer Defrost Drain Frozen? Replace the Drain Strap",
+    "meta": [
+     "19K",
+     "3y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 19000
+   },
+   {
+    "id": "yAYVKcw_Kls",
+    "title": "Air Conditioner Capacitor Testing",
+    "meta": [
+     "364K",
+     "3y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 364000
+   },
+   {
+    "id": "7j9sLIkZQT8",
+    "title": "Freezer Compressor Components Testing",
+    "meta": [
+     "56K",
+     "3y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 56000
+   },
+   {
+    "id": "i5TOf6U04VI",
+    "title": "Freezer Condenser Fan Motor Testing",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "1:05",
+    "views_tab": 12000
+   },
+   {
+    "id": "5hFSh10TuLQ",
+    "title": "Freezer Evaporator Fan Motor Testing",
+    "meta": [
+     "7.6K",
+     "3y ago"
+    ],
+    "dur": "0:58",
+    "views_tab": 7600
+   },
+   {
+    "id": "1yuQRtxgteY",
+    "title": "Trash Compactor Won\u2019t Start? Test Start Switch",
+    "meta": [
+     "2.3K",
+     "4y ago"
+    ],
+    "dur": "0:48",
+    "views_tab": 2300
+   },
+   {
+    "id": "bbshBqk2LFA",
+    "title": "Oven Fan Won't Turn Off? Test the Fan Thermostat",
+    "meta": [
+     "21K",
+     "4y ago"
+    ],
+    "dur": "0:59",
+    "views_tab": 21000
+   },
+   {
+    "id": "fG-UeY4QDRQ",
+    "title": "What Causes a Microwave to Spark and Arc?",
+    "meta": [
+     "38K",
+     "4y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 38000
+   },
+   {
+    "id": "sp_637ndaNY",
+    "title": "GE Washer Mode Shifter Replacement WH03X30517",
+    "meta": [
+     "50K",
+     "4y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 50000
+   },
+   {
+    "id": "T0N_JXu6NLk",
+    "title": "GE Washer Belt Protector Replacement WH44X25306",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 2600
+   },
+   {
+    "id": "OKhLrkzm2y0",
+    "title": "GE Washer Drain Pump Seal Replacement WH08X24179",
+    "meta": [
+     "7.6K",
+     "4y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 7600
+   },
+   {
+    "id": "ONEaqqlci04",
+    "title": "GE Washer Hub Washer Replacement WH02X10364",
+    "meta": [
+     "9.9K",
+     "4y ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 9900
+   },
+   {
+    "id": "05B9hWEbA-M",
+    "title": "GE Washer Drive Belt Replacement WH01X24180",
+    "meta": [
+     "171K",
+     "4y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 171000
+   },
+   {
+    "id": "inBSiqUItBk",
+    "title": "GE Washer Upper Ball Joint Replacement WH01X26970",
+    "meta": [
+     "8.5K",
+     "4y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 8500
+   },
+   {
+    "id": "lLJFVjjMJYA",
+    "title": "GE Washer White Rod & Spring Assembly Replacement WH08X32657",
+    "meta": [
+     "3.9K",
+     "4y ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 3900
+   },
+   {
+    "id": "9noEf39-u6g",
+    "title": "GE Washer Green Rod & Spring Assembly Replacement WH16X26910",
+    "meta": [
+     "18K",
+     "4y ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 18000
+   },
+   {
+    "id": "7Ss89MQuNRc",
+    "title": "GE Washer Speed Sensor Replacement WH12X26330",
+    "meta": [
+     "76K",
+     "4y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 76000
+   },
+   {
+    "id": "3GBw4KoLEek",
+    "title": "GE Washer Dual Harness Connector Bracket Replacement WH16X24192",
+    "meta": [
+     "4.4K",
+     "4y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 4400
+   },
+   {
+    "id": "yFUFQHxBrrc",
+    "title": "GE Washer Tub Cover Replacement WH44X24150",
+    "meta": [
+     "6.9K",
+     "4y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 6900
+   },
+   {
+    "id": "JSObrMbESo8",
+    "title": "GE Washer Main Harness Replacement WH19X27495",
+    "meta": [
+     "4.7K",
+     "4y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 4700
+   },
+   {
+    "id": "kKHRB5S73l0",
+    "title": "GE Washer Lid Lock Harness Clip Replacement WH02X24143",
+    "meta": [
+     "2K",
+     "4y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 2000
+   },
+   {
+    "id": "RvQfrZga32s",
+    "title": "GE Washer Motor Pulley & Nut Replacement WH03X32217",
+    "meta": [
+     "26K",
+     "4y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 26000
+   },
+   {
+    "id": "6QBfTn-X1aY",
+    "title": "GE Washer Hub Nut Replacement WH02X10363",
+    "meta": [
+     "19K",
+     "4y ago"
+    ],
+    "dur": "3:07",
+    "views_tab": 19000
+   },
+   {
+    "id": "RfI3hwFH78w",
+    "title": "GE Washer Drain Pump Clamp Replacement WH01X24494",
+    "meta": [
+     "2.7K",
+     "4y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 2700
+   },
+   {
+    "id": "1U0foc3tBQo",
+    "title": "GE Washer Basket Assembly Replacement WH45X26674",
+    "meta": [
+     "37K",
+     "4y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 37000
+   },
+   {
+    "id": "nmCysMBLPM8",
+    "title": "GE Washer Motor & Nut Replacement WH49X25375",
+    "meta": [
+     "21K",
+     "4y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 21000
+   },
+   {
+    "id": "Zmh8hpqc9FQ",
+    "title": "GE Washer Clutch Replacement WH05X24185",
+    "meta": [
+     "40K",
+     "4y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 40000
+   },
+   {
+    "id": "OOrIPQPj4MU",
+    "title": "GE Washer Transmission Assembly Replacement WH38X27333",
+    "meta": [
+     "146K",
+     "4y ago"
+    ],
+    "dur": "17:46",
+    "views_tab": 146000
+   },
+   {
+    "id": "IdwMeYdRjGA",
+    "title": "Disassembly - GE Washer (Model GTW465ASN2WW)",
+    "meta": [
+     "148K",
+     "4y ago"
+    ],
+    "dur": "12:37",
+    "views_tab": 148000
+   },
+   {
+    "id": "UAvAG-_5Mbw",
+    "title": "GE Washer Auger Assembly Replacement WH43X31240",
+    "meta": [
+     "23K",
+     "4y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 23000
+   },
+   {
+    "id": "byLbCztB95k",
+    "title": "GE Washer Agitator Base Replacement WH43X34257",
+    "meta": [
+     "184K",
+     "4y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 184000
+   },
+   {
+    "id": "K5A5piddnFI",
+    "title": "GE Washer Belleville Washer Replacement WH01X26190",
+    "meta": [
+     "17K",
+     "4y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 17000
+   },
+   {
+    "id": "XjpI6kxo4Pc",
+    "title": "GE Washer Pressure Hose Replacement WH41X24395",
+    "meta": [
+     "22K",
+     "4y ago"
+    ],
+    "dur": "8:11",
+    "views_tab": 22000
+   },
+   {
+    "id": "FU-cGsAbFt4",
+    "title": "GE Washer Clutch Spring Washer Replacement WH01X10759",
+    "meta": [
+     "4.5K",
+     "4y ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 4500
+   },
+   {
+    "id": "cbARYjdFia4",
+    "title": "GE Washer Clutch Spring Replacement WH01X10759",
+    "meta": [
+     "6.7K",
+     "4y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 6700
+   },
+   {
+    "id": "PLKTbiazL-E",
+    "title": "GE Washer Transmission Pulley & Nut Replacement WH03X32097",
+    "meta": [
+     "7.6K",
+     "4y ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 7600
+   },
+   {
+    "id": "t51T9_98tVo",
+    "title": "GE Washer Internal Drain Hose Assembly Replacement WH41X24177",
+    "meta": [
+     "38K",
+     "4y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 38000
+   },
+   {
+    "id": "HwWpqd94mxc",
+    "title": "GE Washer Drain Pump Replacement WH23X28418",
+    "meta": [
+     "80K",
+     "4y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 80000
+   },
+   {
+    "id": "aIlLnKjd0-8",
+    "title": "Washing Machine Water Pressure Testing",
+    "meta": [
+     "24K",
+     "4y ago"
+    ],
+    "dur": "2:14",
+    "views_tab": 24000
+   },
+   {
+    "id": "Y-0UsGeGRpY",
+    "title": "Dishwasher Drain Pump Solenoid Continuity Testing",
+    "meta": [
+     "20K",
+     "4y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 20000
+   },
+   {
+    "id": "ZbKRqxGiXeo",
+    "title": "Dishwasher Drain Pump Continuity Testing",
+    "meta": [
+     "122K",
+     "4y ago"
+    ],
+    "dur": "8:18",
+    "views_tab": 122000
+   },
+   {
+    "id": "YoH-ix75T4o",
+    "title": "Dishwasher Circulation Pump Continuity Testing",
+    "meta": [
+     "151K",
+     "4y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 151000
+   },
+   {
+    "id": "sp-vQql9sZQ",
+    "title": "Dishwasher Control Board Testing",
+    "meta": [
+     "106K",
+     "4y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 106000
+   },
+   {
+    "id": "cresnyMtDog",
+    "title": "Dishwasher High Limit Thermostat Testing",
+    "meta": [
+     "32K",
+     "4y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 32000
+   },
+   {
+    "id": "f7N0FH6oHTE",
+    "title": "How to Test a Dryer Heating Element for a Short",
+    "meta": [
+     "41K",
+     "4y ago"
+    ],
+    "dur": "1:16",
+    "views_tab": 41000
+   },
+   {
+    "id": "xJxFvDMPsYw",
+    "title": "How Improper Air Flow Can Shut of Dryer Heat",
+    "meta": [
+     "27K",
+     "4y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "S8qT4Cfis-A",
+    "title": "Dryer Drum Belt Testing",
+    "meta": [
+     "129K",
+     "4y ago"
+    ],
+    "dur": "1:07",
+    "views_tab": 129000
+   },
+   {
+    "id": "cE8s4L78Uyw",
+    "title": "Refrigerator Water Pressure Testing",
+    "meta": [
+     "30K",
+     "4y ago"
+    ],
+    "dur": "1:31",
+    "views_tab": 30000
+   },
+   {
+    "id": "hOTg18X7EOU",
+    "title": "Refrigerator Thermostat Testing",
+    "meta": [
+     "287K",
+     "4y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 287000
+   },
+   {
+    "id": "ETzJgIgQZjM",
+    "title": "Microwave Diode Testing",
+    "meta": [
+     "94K",
+     "4y ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 94000
+   },
+   {
+    "id": "ucmistdyL6c",
+    "title": "Refrigerator Dispenser Switch Testing",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 11000
+   },
+   {
+    "id": "FdG1opcgb50",
+    "title": "Refrigerator Condenser Fan Motor Testing",
+    "meta": [
+     "119K",
+     "4y ago"
+    ],
+    "dur": "1:12",
+    "views_tab": 119000
+   },
+   {
+    "id": "Fo13e_gp90o",
+    "title": "Refrigerator Evaporator Fan Motor Testing",
+    "meta": [
+     "57K",
+     "4y ago"
+    ],
+    "dur": "1:14",
+    "views_tab": 57000
+   },
+   {
+    "id": "PzL4sSQsyFs",
+    "title": "Microwave Thermostat Testing",
+    "meta": [
+     "39K",
+     "4y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 39000
+   },
+   {
+    "id": "hQo2T1Y4ySI",
+    "title": "Microwave Thermal Fuse Testing",
+    "meta": [
+     "53K",
+     "4y ago"
+    ],
+    "dur": "2:35",
+    "views_tab": 53000
+   },
+   {
+    "id": "Sk6A48gOUxg",
+    "title": "Microwave Capacitor Testing",
+    "meta": [
+     "221K",
+     "4y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 221000
+   },
+   {
+    "id": "CM77rXikqIY",
+    "title": "Testing Resistance of Timer Motor in Ice Maker - Tech Tips from Repair Clinic",
+    "meta": [
+     "5.3K",
+     "4y ago"
+    ],
+    "dur": "0:51",
+    "views_tab": 5300
+   },
+   {
+    "id": "97Gfwqzrf8w",
+    "title": "Testing Resistance of Water Valve in Ice Maker - Tech Tips from Repair Clinic",
+    "meta": [
+     "6.3K",
+     "4y ago"
+    ],
+    "dur": "0:52",
+    "views_tab": 6300
+   },
+   {
+    "id": "lt3deKOk-oc",
+    "title": "Testing Resistance of Mold Heater in Ice Maker - Tech Tips from Repair Clinic",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "0:52",
+    "views_tab": 11000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "dKsiVhLYJn0",
+    "title": "RepairClinic.com \u2014 From Broken to Fixed in Just a Few Clicks!",
+    "meta": [
+     "3.8M",
+     "10y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 3800000
+   },
+   {
+    "id": "wYZzCxI8Duw",
+    "title": "RepairClinic.com Is Helping Millions of People Repair Their Own Appliances",
+    "meta": [
+     "3.4M",
+     "10y ago"
+    ],
+    "dur": "0:52",
+    "views_tab": 3400000
+   },
+   {
+    "id": "Of_QqHnsINg",
+    "title": "Top Reasons Lawn Mower Not Starting \u2014 Lawn Mower Troubleshooting",
+    "meta": [
+     "3.1M",
+     "9y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 3100000
+   },
+   {
+    "id": "45fPPzee364",
+    "title": "Refrigerator Isn\u2019t Cooling \u2014 Refrigerator Troubleshooting",
+    "meta": [
+     "2.8M",
+     "10y ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 2800000
+   },
+   {
+    "id": "kdFIARakavk",
+    "title": "Motor or Compressor Won\u2019t Run? Capacitor Test, Troubleshooting",
+    "meta": [
+     "2.6M",
+     "12y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 2600000
+   },
+   {
+    "id": "xp5sV_1SSKw",
+    "title": "Replace LG Front-Load Washer Door Boot Seal #MDS47123604",
+    "meta": [
+     "2.5M",
+     "15y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 2500000
+   },
+   {
+    "id": "S9KaJeV_bMQ",
+    "title": "Top Reasons Electric Dryer Not Heating \u2014 Dryer Troubleshooting",
+    "meta": [
+     "2.2M",
+     "10y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 2200000
+   },
+   {
+    "id": "Z1PQMAjN1fA",
+    "title": "Top-Load Washer Won\u2019t Drain \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "2.2M",
+     "10y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 2200000
+   },
+   {
+    "id": "3nicyh6EUHc",
+    "title": "Dryer Not Heating? Thermal Fuse Testing, Repair",
+    "meta": [
+     "2M",
+     "15y ago"
+    ],
+    "dur": "2:11",
+    "views_tab": 2000000
+   },
+   {
+    "id": "qCXmyhEY_k4",
+    "title": "Water Heater Not Heating? Thermostat Testing",
+    "meta": [
+     "2M",
+     "9y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 2000000
+   },
+   {
+    "id": "bU-bpYSc4Lw",
+    "title": "Top Reasons Electric Dryer Won't Start \u2014 Dryer Troubleshooting",
+    "meta": [
+     "1.8M",
+     "10y ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 1800000
+   },
+   {
+    "id": "3DsxEc1hSxk",
+    "title": "Front-Load Washer Won\u2019t Spin \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "1.7M",
+     "10y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 1700000
+   },
+   {
+    "id": "gf3_dHVB_5A",
+    "title": "Repair Clinic.com - Air Conditioner Ad",
+    "meta": [
+     "1.6M",
+     "5y ago"
+    ],
+    "dur": "0:11",
+    "views_tab": 1600000
+   },
+   {
+    "id": "j8_TzloPCwY",
+    "title": "Whirlpool/Kenmore  Top-Load Washer Model WTW4800XQ2 Disassembly, Repair Help",
+    "meta": [
+     "1.5M",
+     "13y ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 1500000
+   },
+   {
+    "id": "LMgRO4GAgBg",
+    "title": "Top-Load Washer Won\u2019t Spin \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "1.5M",
+     "10y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 1500000
+   },
+   {
+    "id": "x4YDWUK0jv8",
+    "title": "How Does A Refrigerator Ice Maker Work? \u2014 Appliance Repair",
+    "meta": [
+     "1.5M",
+     "14y ago"
+    ],
+    "dur": "3:32",
+    "views_tab": 1500000
+   },
+   {
+    "id": "-661-1NbYZ4",
+    "title": "Washer Not Filling? Water Inlet Valve Testing, Troubleshooting",
+    "meta": [
+     "1.5M",
+     "14y ago"
+    ],
+    "dur": "2:51",
+    "views_tab": 1500000
+   },
+   {
+    "id": "WJB8Y2tjYks",
+    "title": "Dryer Not Heating? High-Limit Thermostat Testing, Repair",
+    "meta": [
+     "1.5M",
+     "14y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 1500000
+   },
+   {
+    "id": "aXIX73EI1Z4",
+    "title": "Refrigerator Not Making Ice? Inlet Valve Test, Troubleshooting",
+    "meta": [
+     "1.4M",
+     "14y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 1400000
+   },
+   {
+    "id": "XNClH4tqajU",
+    "title": "Kenmore Top-Load Washer Disassembly (11022932100)/Repair Help",
+    "meta": [
+     "1.4M",
+     "10y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 1400000
+   },
+   {
+    "id": "BTChC_j4jSo",
+    "title": "Electric Oven Won\u2019t Heat \u2014 Electric Range Troubleshooting",
+    "meta": [
+     "1.4M",
+     "10y ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 1400000
+   },
+   {
+    "id": "wq-3zsiBID8",
+    "title": "Dryer Not Heating? Heating Element Testing, Troubleshooting",
+    "meta": [
+     "1.4M",
+     "15y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 1400000
+   },
+   {
+    "id": "j8rnvvdJaDU",
+    "title": "Top-Load Washer Is Noisy \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "1.4M",
+     "10y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 1400000
+   },
+   {
+    "id": "uElUCGNb6SY",
+    "title": "How Does a Central Air Conditioner Work? \u2014 HVAC Repair Tips",
+    "meta": [
+     "1.4M",
+     "13y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 1400000
+   },
+   {
+    "id": "Ij3U3ZvtqSs",
+    "title": "How Does A Front-Load Washer Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "1.3M",
+     "14y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 1300000
+   },
+   {
+    "id": "fMyKLL-4aCg",
+    "title": "Craftsman Riding Mower Deck Belt Replacement | Replacing V-Belt #532429636",
+    "meta": [
+     "1.3M",
+     "12y ago"
+    ],
+    "dur": "3:07",
+    "views_tab": 1300000
+   },
+   {
+    "id": "BuQbcZMaDbo",
+    "title": "Ice Maker Not Working \u2014 Refrigerator Troubleshooting",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 1300000
+   },
+   {
+    "id": "II_p8j-RSWU",
+    "title": "GE Washer Disassembly | How to Take Apart a GE Top-Load Washer",
+    "meta": [
+     "1.3M",
+     "14y ago"
+    ],
+    "dur": "9:41",
+    "views_tab": 1300000
+   },
+   {
+    "id": "Cx40plGVxg8",
+    "title": "Freezer Isn't Freezing  \u2014 Freezer Troubleshooting",
+    "meta": [
+     "1.3M",
+     "6y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 1300000
+   },
+   {
+    "id": "tZUHy_AOIY0",
+    "title": "LG Washer Disassembly | How to Open LG Front-Load Washer WM3360HWCA",
+    "meta": [
+     "1.3M",
+     "15y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 1300000
+   },
+   {
+    "id": "xIJsalTJ0Jk",
+    "title": "RepairClinic: Empowering DIY'ers to Save Time and Money!",
+    "meta": [
+     "1.2M",
+     "6y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 1200000
+   },
+   {
+    "id": "miydioyULxU",
+    "title": "Top-Load Washer Won\u2019t Start \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "1.2M",
+     "10y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 1200000
+   },
+   {
+    "id": "YdWuLw15xhk",
+    "title": "Washer Won\u2019t Start \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "1.2M",
+     "10y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 1200000
+   },
+   {
+    "id": "5AVVv7nN5do",
+    "title": "Dryer Not Drying? Cycling Thermostat Testing, Troubleshooting",
+    "meta": [
+     "1.2M",
+     "14y ago"
+    ],
+    "dur": "2:54",
+    "views_tab": 1200000
+   },
+   {
+    "id": "tVc6SZ2DD4U",
+    "title": "Washer Won't Spin? Replace Whirlpool Direct Drive Clutch Assembly #285785",
+    "meta": [
+     "1.2M",
+     "16y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 1200000
+   },
+   {
+    "id": "C2k3w6suShU",
+    "title": "Samsung Front-Load Washer Disassembly, Repair Help",
+    "meta": [
+     "1.2M",
+     "13y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1200000
+   },
+   {
+    "id": "Dq-EKfAjvLU",
+    "title": "Lawn Mower Won't Stay Running? Briggs & Stratton Carburetor #799866",
+    "meta": [
+     "1.2M",
+     "15y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 1200000
+   },
+   {
+    "id": "e5e_3ebvvBY",
+    "title": "Top 5 Reasons Gas Dryer Is Not Heating \u2014 Dryer Troubleshooting",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 1100000
+   },
+   {
+    "id": "X8w1w45TrnU",
+    "title": "Oven Won\u2019t Heat? Bake/Broil Element Testing, Troubleshooting",
+    "meta": [
+     "1.1M",
+     "15y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 1100000
+   },
+   {
+    "id": "1SWZTsSdeJo",
+    "title": "Top Reasons Oven Won't Turn On \u2014 Electric Oven Troubleshooting",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 1100000
+   },
+   {
+    "id": "6OU7WHgJ_cY",
+    "title": "How Does An Air Conditioner Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "1.1M",
+     "14y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 1100000
+   },
+   {
+    "id": "zDNiLvApKLc",
+    "title": "Top 5 Reasons Dishwasher Leaks \u2014 Dishwasher Troubleshooting",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 1100000
+   },
+   {
+    "id": "rCFJLvihYSU",
+    "title": "Front-Load Washer Is Noisy \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 1100000
+   },
+   {
+    "id": "6a8Y3l5piBY",
+    "title": "Engine Won't Start? Ignition Coil Testing, Troubleshooting",
+    "meta": [
+     "1.1M",
+     "14y ago"
+    ],
+    "dur": "1:57",
+    "views_tab": 1100000
+   },
+   {
+    "id": "GGTueTi33dg",
+    "title": "Dishwasher Won\u2019t Start \u2014 Dishwasher Troubleshooting",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 1100000
+   },
+   {
+    "id": "zLsldLp_ZDw",
+    "title": "Washer/Dryer Stacking Kit Installation | Whirlpool W10869845",
+    "meta": [
+     "1.1M",
+     "9y ago"
+    ],
+    "dur": "4:32",
+    "views_tab": 1100000
+   },
+   {
+    "id": "2bVoelV7M7Y",
+    "title": "Whirlpool/Kenmore Dryer Disassembly (#11079832800)/Repair Help",
+    "meta": [
+     "1M",
+     "16y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 1000000
+   },
+   {
+    "id": "zmdsBkO46dk",
+    "title": "Fridge Warm? Defrost Thermostat Testing, Troubleshooting",
+    "meta": [
+     "1M",
+     "15y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 1000000
+   },
+   {
+    "id": "VHYg_I90ONo",
+    "title": "Whirlpool Dryer Replace Thermostat & Thermal Fuse #279816",
+    "meta": [
+     "1M",
+     "16y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 1000000
+   },
+   {
+    "id": "qa6_ViM3xug",
+    "title": "LG Top-Load Washer Disassembly \u2013 Washing Machine Repair Help",
+    "meta": [
+     "1M",
+     "12y ago"
+    ],
+    "dur": "12:56",
+    "views_tab": 1000000
+   },
+   {
+    "id": "2xUKBtLkaeo",
+    "title": "How Does an Electric Dryer Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "1M",
+     "14y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 1000000
+   },
+   {
+    "id": "APdhKLyr7s4",
+    "title": "How Does A Dishwasher Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "1M",
+     "14y ago"
+    ],
+    "dur": "6:44",
+    "views_tab": 1000000
+   },
+   {
+    "id": "23GgOka30xA",
+    "title": "Dishwasher Won\u2019t Fill With Water \u2014 Dishwasher Troubleshooting",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 1000000
+   },
+   {
+    "id": "uee5SL8MEqs",
+    "title": "Maytag Dryer Makes Noise? Drum Support Roller Replacement #12001541",
+    "meta": [
+     "1M",
+     "15y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 1000000
+   },
+   {
+    "id": "zvHvZtRaZQc",
+    "title": "Refrigerator Is Noisy \u2014 Refrigerator Troubleshooting",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 1000000
+   },
+   {
+    "id": "PVOJRWceWp0",
+    "title": "Microwave Not Heating? Top Reasons & Troubleshooting",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 1000000
+   },
+   {
+    "id": "8G-3eu9wuuA",
+    "title": "Is Your Fridge Water Safe to Drink? | Refrigerator Water Filter Test",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "0:43",
+    "views_tab": 1000000
+   },
+   {
+    "id": "mcipN8bvpa0",
+    "title": "How Does A Gas Dryer Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "1M",
+     "14y ago"
+    ],
+    "dur": "7:59",
+    "views_tab": 1000000
+   },
+   {
+    "id": "LnexFmeJe9s",
+    "title": "Whirlpool Front-Load Washer Disassembly | Repair Help WPW10340443",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 1000000
+   },
+   {
+    "id": "dQK8vnzV_-A",
+    "title": "How Does A Top-Load Washer Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "1M",
+     "14y ago"
+    ],
+    "dur": "7:08",
+    "views_tab": 1000000
+   },
+   {
+    "id": "2GoiVgn2lpg",
+    "title": "Top 5 Reasons Gas Oven Won\u2019t Heat \u2014 Gas Range Troubleshooting",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 1000000
+   },
+   {
+    "id": "7ZQQtgZCQaY",
+    "title": "Surface Element Not Working \u2014 Electric Range Troubleshooting",
+    "meta": [
+     "976K",
+     "10y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 976000
+   },
+   {
+    "id": "MFsvLiuTniU",
+    "title": "Washer Not Spinning? Replace Washer Lid Switch #3949238",
+    "meta": [
+     "975K",
+     "16y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 975000
+   },
+   {
+    "id": "XKekrlpPd4Q",
+    "title": "Fridge Dispenser Not Working \u2014 Refrigerator Troubleshooting",
+    "meta": [
+     "973K",
+     "10y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 973000
+   },
+   {
+    "id": "l3uCrKXQHRk",
+    "title": "Bosch Dishwasher Removal and Installation, Repair Help",
+    "meta": [
+     "972K",
+     "14y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 972000
+   },
+   {
+    "id": "hAaMqp2E2ec",
+    "title": "Top 4 Reasons Oven Won\u2019t Turn On \u2014 Gas Range Troubleshooting",
+    "meta": [
+     "958K",
+     "10y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 958000
+   },
+   {
+    "id": "pckM4ca87Yg",
+    "title": "Top Reasons Lawn Mower Starting Then Stalling \u2014 Lawn Mower Troubleshooting",
+    "meta": [
+     "951K",
+     "9y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 951000
+   },
+   {
+    "id": "5vA8Ksv5kVY",
+    "title": "How Does A Refrigerator Work? - Appliance Repair Tips",
+    "meta": [
+     "942K",
+     "14y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 942000
+   },
+   {
+    "id": "Kg7sX8MzhxM",
+    "title": "Whirlpool Refrigerator Water Filter Replacement #UKF8001",
+    "meta": [
+     "940K",
+     "12y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 940000
+   },
+   {
+    "id": "n4dfaQzSN8c",
+    "title": "Refrigerator Leaking Water \u2014 Refrigerator Troubleshooting",
+    "meta": [
+     "927K",
+     "10y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 927000
+   },
+   {
+    "id": "ptej5T5wM0A",
+    "title": "KitchenAid Range Vent Hood Installation | Model KVWB400DSS",
+    "meta": [
+     "909K",
+     "8y ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 909000
+   },
+   {
+    "id": "y3ej_jG6AbY",
+    "title": "Toro Lawn Mower Won't Self Propel? Replace Drive Belt #117-1018",
+    "meta": [
+     "887K",
+     "13y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 887000
+   },
+   {
+    "id": "o_Zje4FjRwQ",
+    "title": "Washer Won\u2019t Drain \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "878K",
+     "10y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 878000
+   },
+   {
+    "id": "iGHn4wQaeG4",
+    "title": "LG Refrigerator Disassembly \u2013 Refrigerator Repair Help",
+    "meta": [
+     "862K",
+     "13y ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 862000
+   },
+   {
+    "id": "NMWijcOtiP0",
+    "title": "Top-Load Washer Won\u2019t Fill \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "860K",
+     "10y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 860000
+   },
+   {
+    "id": "311BiD76iYg",
+    "title": "Fridge Not Defrosting? Defrost Heater Testing, Repair",
+    "meta": [
+     "847K",
+     "15y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 847000
+   },
+   {
+    "id": "QtrKUFMT9BM",
+    "title": "Whirlpool Dishwasher Replace Pump and Motor Assembly #W10482480",
+    "meta": [
+     "832K",
+     "13y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 832000
+   },
+   {
+    "id": "V1IUZRaCfOM",
+    "title": "Whirlpool Top-Load Washer Won't Spin? Drive Belt #W10006384",
+    "meta": [
+     "820K",
+     "13y ago"
+    ],
+    "dur": "2:11",
+    "views_tab": 820000
+   },
+   {
+    "id": "RvbJn61d9hQ",
+    "title": "LG Electric Dryer Disassembly",
+    "meta": [
+     "818K",
+     "13y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 818000
+   },
+   {
+    "id": "APlWrIcP94g",
+    "title": "Whirlpool Duet Sport/Kenmore HE3 Dryer Disassembly/Repair Help",
+    "meta": [
+     "810K",
+     "16y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 810000
+   },
+   {
+    "id": "O07jEA6VO-Y",
+    "title": "GE Dryer Disassembly",
+    "meta": [
+     "790K",
+     "14y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 790000
+   },
+   {
+    "id": "Puq8jWMY9Iw",
+    "title": "Whirlpool Top-Load Direct Drive Washer Disassembly, Repair Help",
+    "meta": [
+     "786K",
+     "16y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 786000
+   },
+   {
+    "id": "CIiflC7N3oA",
+    "title": "Dishwasher Not Draining \u2014 Dishwasher Troubleshooting",
+    "meta": [
+     "779K",
+     "10y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 779000
+   },
+   {
+    "id": "NOdYp8CFjdU",
+    "title": "How Does An Electric Range & Oven Work? \u2014 Appliance Repair",
+    "meta": [
+     "779K",
+     "14y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 779000
+   },
+   {
+    "id": "FsjE7CTwUIk",
+    "title": "Bosch Dishwasher Circulation Pump Replacement #442548",
+    "meta": [
+     "770K",
+     "14y ago"
+    ],
+    "dur": "10:35",
+    "views_tab": 770000
+   },
+   {
+    "id": "1KVIeEn6EHI",
+    "title": "How Does a Dehumidifier Work? \u2014 Appliance Repair Tips",
+    "meta": [
+     "765K",
+     "11y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 765000
+   },
+   {
+    "id": "hVzp_YxOaUc",
+    "title": "Top Reasons Pressure Washer Won't Start \u2014 Pressure WasherTroubleshooting",
+    "meta": [
+     "761K",
+     "7y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 761000
+   },
+   {
+    "id": "ZBD1ctB681w",
+    "title": "Top-Load Washer Won\u2019t Agitate \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "760K",
+     "10y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 760000
+   },
+   {
+    "id": "QcmxyNWTPO4",
+    "title": "Top Reasons Lawn Mower Not Self-Propelling \u2014 Lawn Mower Troubleshooting",
+    "meta": [
+     "759K",
+     "9y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 759000
+   },
+   {
+    "id": "8SuWFxt57cE",
+    "title": "Samsung Dryer Moisture Sensor Replacement #DC61-02627A",
+    "meta": [
+     "750K",
+     "13y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 750000
+   },
+   {
+    "id": "JYPLoP2myHY",
+    "title": "LG Washer Door Boot Seal Replacement AGM30030702",
+    "meta": [
+     "743K",
+     "4y ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 743000
+   },
+   {
+    "id": "8ZKgP6hu8Fk",
+    "title": "Loud/Noisy LG Top Load Washer? Clutch/Tub Bearing #3661EA1009E",
+    "meta": [
+     "740K",
+     "12y ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 740000
+   },
+   {
+    "id": "zaT-gcEYpvs",
+    "title": "How Does a Furnace Work? \u2014 HVAC Repair & Troubleshooting Tips",
+    "meta": [
+     "732K",
+     "13y ago"
+    ],
+    "dur": "8:11",
+    "views_tab": 732000
+   },
+   {
+    "id": "BIWN-0iUKb0",
+    "title": "Top Reasons Fridge Freezes Food \u2014 Refrigerator Troubleshooting",
+    "meta": [
+     "722K",
+     "10y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 722000
+   },
+   {
+    "id": "YOkz2fBmaOI",
+    "title": "Whirlpool Refrigerator LED Light Replacement #W10289592",
+    "meta": [
+     "720K",
+     "12y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 720000
+   },
+   {
+    "id": "7NiFMxhd-pU",
+    "title": "Dishwasher Not Cleaning? Water Valve Testing, Troubleshooting",
+    "meta": [
+     "719K",
+     "14y ago"
+    ],
+    "dur": "3:07",
+    "views_tab": 719000
+   },
+   {
+    "id": "RdrhKqtzK_k",
+    "title": "GE Top Load Washer Makes Loud Noise? Tub Bearing #WH2X1198",
+    "meta": [
+     "719K",
+     "14y ago"
+    ],
+    "dur": "12:04",
+    "views_tab": 719000
+   },
+   {
+    "id": "WOLs4pAGOC8",
+    "title": "Maytag Dryer Disassembly (Model #DE412) \u2013 Dryer Repair Help",
+    "meta": [
+     "715K",
+     "15y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 715000
+   },
+   {
+    "id": "EFDqUvBgxH4",
+    "title": "Whirlpool Front Load Washer Replace Door Boot Seal #8182119",
+    "meta": [
+     "711K",
+     "15y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 711000
+   },
+   {
+    "id": "VrjpLtMU-Zk",
+    "title": "Range/Stove/Oven \u2013 How to Find the Model Number",
+    "meta": [
+     "710K",
+     "16y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 710000
+   },
+   {
+    "id": "ibHW_ICMczs",
+    "title": "Whirlpool Refrigerator Disassembly (#WRX735SDBM00)/Repair Help",
+    "meta": [
+     "709K",
+     "12y ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 709000
+   },
+   {
+    "id": "H6OaK_hKG7k",
+    "title": "How Does A Lawn Mower Work? \u2014 Lawn Equipment Repair Tips",
+    "meta": [
+     "704K",
+     "14y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 704000
+   },
+   {
+    "id": "JHCAmUyuT1U",
+    "title": "How Does A String Trimmer Work? \u2014 Lawn Equipment Repair Tips",
+    "meta": [
+     "702K",
+     "14y ago"
+    ],
+    "dur": "6:23",
+    "views_tab": 702000
+   },
+   {
+    "id": "xkjZG16ayZk",
+    "title": "Front-Load Washer Won\u2019t Fill \u2014 Washing Machine Troubleshooting",
+    "meta": [
+     "701K",
+     "10y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 701000
+   },
+   {
+    "id": "leM7XTm7oz8",
+    "title": "Samsung Dryer Won't Start? Replace Thermal Fuse #DC47-00016A",
+    "meta": [
+     "697K",
+     "13y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 697000
+   },
+   {
+    "id": "A35w1S9TvTI",
+    "title": "Whirlpool Front-Load Washer Replace Door Boot Seal WPW10340443",
+    "meta": [
+     "694K",
+     "10y ago"
+    ],
+    "dur": "6:40",
+    "views_tab": 694000
+   },
+   {
+    "id": "ya8KojgGrc0",
+    "title": "How to Remove Frigidaire Refrigerator/Freezer Doors",
+    "meta": [
+     "693K",
+     "15y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 693000
+   },
+   {
+    "id": "o-vWc-Cuqew",
+    "title": "LG Electric Dryer Won't Heat? Heating Element #5301EL1001J",
+    "meta": [
+     "690K",
+     "13y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 690000
+   },
+   {
+    "id": "oJI_8_Tjplw",
+    "title": "Refrigerator \u2013 How to Find the Model Number",
+    "meta": [
+     "690K",
+     "16y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 690000
+   },
+   {
+    "id": "HV4SJA-_N_c",
+    "title": "GE Microwave Won't Work? Replace Thermal Fuse #WB27X1127",
+    "meta": [
+     "685K",
+     "12y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 685000
+   },
+   {
+    "id": "ehwsMILlaTY",
+    "title": "Whirlpool Duet/Kenmore HE3 Front-Load Washer Disassembly",
+    "meta": [
+     "682K",
+     "15y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 682000
+   },
+   {
+    "id": "9K1KHEogf3c",
+    "title": "Whirlpool Top-Load Drive Motor Coupler Replacement #285753A",
+    "meta": [
+     "681K",
+     "16y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 681000
+   },
+   {
+    "id": "LngMWs1YoG8",
+    "title": "AO Smith Electric Water Heater Upper Thermostat #9001954045",
+    "meta": [
+     "676K",
+     "12y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 676000
+   },
+   {
+    "id": "pnoXDPlXC6g",
+    "title": "Bosch Dishwasher Heating Element Replacement #480317",
+    "meta": [
+     "675K",
+     "14y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 675000
+   },
+   {
+    "id": "IIm2TodFZdE",
+    "title": "Samsung Electric Dryer Disassembly \u2013 Dryer Repair Help",
+    "meta": [
+     "675K",
+     "13y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 675000
+   },
+   {
+    "id": "VhfAA25JhFU",
+    "title": "LG Electric Dryer Noise? Drum Roller Replacement #4581EL2002C",
+    "meta": [
+     "675K",
+     "13y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 675000
+   },
+   {
+    "id": "pSXOBQojHgg",
+    "title": "Craftsman Riding Mower Blades Won't Engage? Clutch Cable 584243501",
+    "meta": [
+     "675K",
+     "12y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 675000
+   },
+   {
+    "id": "lg7nstIhPDU",
+    "title": "Electric Dryer Drum Won\u2019t Turn \u2014 Dryer Troubleshooting",
+    "meta": [
+     "674K",
+     "10y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 674000
+   },
+   {
+    "id": "KKxD0oFM85I",
+    "title": "Whirlpool Top-Load Washer Lid Lock Replacement #W10404050",
+    "meta": [
+     "670K",
+     "13y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 670000
+   },
+   {
+    "id": "-_I7Oj9KdNc",
+    "title": "Whirlpool Dishwasher Installation (Model WDF520PADM)",
+    "meta": [
+     "668K",
+     "9y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 668000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "DwV71h86Gxw",
+    "title": "Washer Not Draining? Replace Washer Drain Pump #3363394",
+    "meta": [
+     "656K",
+     "16y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 656000
+   },
+   {
+    "id": "9K1KHEogf3c",
+    "title": "Whirlpool Top-Load Drive Motor Coupler Replacement #285753A",
+    "meta": [
+     "681K",
+     "16y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 681000
+   },
+   {
+    "id": "0GQh8JLqVv8",
+    "title": "Washer Won't Agitate? Washer Agitator Replacement Kit #285748",
+    "meta": [
+     "157K",
+     "16y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 157000
+   },
+   {
+    "id": "Fk4puRv3Vk8",
+    "title": "Whirlpool/Kenmore Top Load Washer Water Inlet Valve #285805",
+    "meta": [
+     "623K",
+     "16y ago"
+    ],
+    "dur": "3:30",
+    "views_tab": 623000
+   },
+   {
+    "id": "MFsvLiuTniU",
+    "title": "Washer Not Spinning? Replace Washer Lid Switch #3949238",
+    "meta": [
+     "975K",
+     "16y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 975000
+   },
+   {
+    "id": "Oeiyjt7807o",
+    "title": "Whirlpool/Kenmore Top-Load Direct Drive Washer Won't Start? #661600",
+    "meta": [
+     "275K",
+     "16y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 275000
+   },
+   {
+    "id": "OjfEN8hfxfw",
+    "title": "Whirlpool/Kenmore Top Load Washer Rinse Dispenser #63594",
+    "meta": [
+     "80K",
+     "16y ago"
+    ],
+    "dur": "0:38",
+    "views_tab": 80000
+   },
+   {
+    "id": "tVc6SZ2DD4U",
+    "title": "Washer Won't Spin? Replace Whirlpool Direct Drive Clutch Assembly #285785",
+    "meta": [
+     "1.2M",
+     "16y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 1200000
+   },
+   {
+    "id": "kClHNsA6XNI",
+    "title": "Whirlpool/Kenmore Washer Clutch Band Kit Replacement #285790",
+    "meta": [
+     "302K",
+     "16y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 302000
+   },
+   {
+    "id": "K7pNwlllRnA",
+    "title": "Whirlpool/Kenmore Washer Water Inlet Spout #3360977",
+    "meta": [
+     "52K",
+     "16y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 52000
+   },
+   {
+    "id": "wUu0MLI3uPg",
+    "title": "Whirlpool/Kenmore Washer Capacitor Replacement #482156",
+    "meta": [
+     "79K",
+     "16y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 79000
+   },
+   {
+    "id": "swB7lkz7C5Q",
+    "title": "Whirlpool/Kenmore Washer Agitator Ring Replacement #285587",
+    "meta": [
+     "54K",
+     "16y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 54000
+   },
+   {
+    "id": "eIK5dC6TH7E",
+    "title": "Whirlpool/Kenmore Top-Load Washer Replace Bleach Cup #3362952",
+    "meta": [
+     "30K",
+     "16y ago"
+    ],
+    "dur": "0:35",
+    "views_tab": 30000
+   },
+   {
+    "id": "cU9hJN0eHlA",
+    "title": "Whirlpool Top Load Washer Replace Sound Dampening Ring #63134",
+    "meta": [
+     "94K",
+     "16y ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 94000
+   },
+   {
+    "id": "73h2nbWGzZY",
+    "title": "Whirlpool/Kenmore Washer Replace Spanner Nut #21366",
+    "meta": [
+     "60K",
+     "16y ago"
+    ],
+    "dur": "1:37",
+    "views_tab": 60000
+   },
+   {
+    "id": "_HNKqmn9sxY",
+    "title": "Whirlpool Top Load Washer Replace Lid Hinge Screw #W10119828",
+    "meta": [
+     "17K",
+     "16y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 17000
+   },
+   {
+    "id": "MBuootO6dPY",
+    "title": "Whirlpool/Kenmore Washer Agitator Bolt Replacement #358237",
+    "meta": [
+     "49K",
+     "16y ago"
+    ],
+    "dur": "1:26",
+    "views_tab": 49000
+   },
+   {
+    "id": "NfTpqGI5wkg",
+    "title": "Whirlpool/Kenmore Washer Suspension Spring #63907",
+    "meta": [
+     "273K",
+     "16y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 273000
+   },
+   {
+    "id": "RbEraFxSmMo",
+    "title": "Whirlpool/Kenmore Top Load Washer Lid Bumper #9724509",
+    "meta": [
+     "9K",
+     "16y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 9000
+   },
+   {
+    "id": "f1MNlUfpLis",
+    "title": "Whirlpool/Kenmore Washer Won't Drain? Replace Hose #W10358149",
+    "meta": [
+     "240K",
+     "16y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 240000
+   },
+   {
+    "id": "7A2WQFDU6ow",
+    "title": "Whirlpool Washer Tub to Pump Hose Replacement #285871",
+    "meta": [
+     "36K",
+     "16y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 36000
+   },
+   {
+    "id": "daR9W1kFfIQ",
+    "title": "Whirlpool/Kenmore Washer Drain Pump Mounting Bracket #8546127",
+    "meta": [
+     "36K",
+     "16y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 36000
+   },
+   {
+    "id": "JvcYdj4Izlo",
+    "title": "Whirlpool Washer Suspension Spring Retainer #W10145155",
+    "meta": [
+     "29K",
+     "16y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 29000
+   },
+   {
+    "id": "tbBnr4aCGjc",
+    "title": "Whirlpool/Kenmore Washer Shaking? Counterbalance Spring #W10250667",
+    "meta": [
+     "627K",
+     "16y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 627000
+   },
+   {
+    "id": "w4O3n3r91B4",
+    "title": "Whirlpool/Kenmore Top Load Washer Replace Drive Block #389140",
+    "meta": [
+     "533K",
+     "16y ago"
+    ],
+    "dur": "4:43",
+    "views_tab": 533000
+   },
+   {
+    "id": "pCFWHoJ2tns",
+    "title": "Whirlpool/Kenmore Washer Drive Tub Wear Pad #285744",
+    "meta": [
+     "106K",
+     "16y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 106000
+   },
+   {
+    "id": "Ofc1sVU790A",
+    "title": "Whirlpool/Kenmore Top Load Washer Drive Suspension Pad 285219",
+    "meta": [
+     "94K",
+     "16y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 94000
+   },
+   {
+    "id": "5uSP2Kje8pQ",
+    "title": "Whirlpool/Kenmore Top-Load Washer Leaking? Tub Seal #383727",
+    "meta": [
+     "442K",
+     "16y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 442000
+   },
+   {
+    "id": "8WMLbpEPwQw",
+    "title": "Whirlpool/Kenmore Washer Leveling Leg Replacement #W10001130",
+    "meta": [
+     "26K",
+     "16y ago"
+    ],
+    "dur": "1:25",
+    "views_tab": 26000
+   },
+   {
+    "id": "awIH2m5Fbdw",
+    "title": "Whirlpool/Kenmore Top Load Washer Leg Nut Replacement #3359452",
+    "meta": [
+     "9.2K",
+     "16y ago"
+    ],
+    "dur": "1:25",
+    "views_tab": 9200
+   },
+   {
+    "id": "zpUqCrLaI7g",
+    "title": "Dryer Belt Replacement \u2013 Duet/HE3 Dryer Repair #661570",
+    "meta": [
+     "450K",
+     "16y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 450000
+   },
+   {
+    "id": "PY8DgdTbomQ",
+    "title": "Duet/HE3 Dryer Idler Pulley Wheel Replacement #279640",
+    "meta": [
+     "162K",
+     "16y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 162000
+   },
+   {
+    "id": "CGbf4_NtBkY",
+    "title": "Noisy Duet/HE3 Dryer? Drum Roller Replacement #W10314173",
+    "meta": [
+     "385K",
+     "16y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 385000
+   },
+   {
+    "id": "mCmGRijX_14",
+    "title": "Duet/HE3 Electric Dryer Thermistor Replacement #8577274",
+    "meta": [
+     "298K",
+     "16y ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 298000
+   },
+   {
+    "id": "A7ipwYgW8m4",
+    "title": "Duet/HE3 Dryer Idler Pulley Assembly Replacement #W10547290",
+    "meta": [
+     "105K",
+     "16y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 105000
+   },
+   {
+    "id": "tm1ZCiAnxto",
+    "title": "Duet/HE3 Electric Dryer Drive Motor Replacement #279787",
+    "meta": [
+     "90K",
+     "16y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 90000
+   },
+   {
+    "id": "SH8pgTzMG4c",
+    "title": "Whirlpool/Kenmore Duet/HE3 Gas Dryer Moisture Sensor Bar #3387223",
+    "meta": [
+     "92K",
+     "16y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 92000
+   },
+   {
+    "id": "9tETSbTqCak",
+    "title": "Duet/HE3 Electric Dryer Blower Wheel Replacement #697772",
+    "meta": [
+     "94K",
+     "16y ago"
+    ],
+    "dur": "4:32",
+    "views_tab": 94000
+   },
+   {
+    "id": "FA6OH2u5b7M",
+    "title": "Duet/HE3 Electric Dryer Drum Seal Replacement #280114",
+    "meta": [
+     "68K",
+     "16y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 68000
+   },
+   {
+    "id": "_yL-WO_eRic",
+    "title": "Dryer Won't Dry? Whirlpool/Kenmore Electric Dryer #279838",
+    "meta": [
+     "373K",
+     "16y ago"
+    ],
+    "dur": "1:26",
+    "views_tab": 373000
+   },
+   {
+    "id": "VHYg_I90ONo",
+    "title": "Whirlpool Dryer Replace Thermostat & Thermal Fuse #279816",
+    "meta": [
+     "1M",
+     "16y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 1000000
+   },
+   {
+    "id": "7k-jsaO7KIQ",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Ring Bearing #279441",
+    "meta": [
+     "32K",
+     "16y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 32000
+   },
+   {
+    "id": "aUQQJAxkZ0g",
+    "title": "Dryer Not Heating? \u2013 Whirlpool/Kenmore Dryer Repair #3392519",
+    "meta": [
+     "561K",
+     "16y ago"
+    ],
+    "dur": "1:12",
+    "views_tab": 561000
+   },
+   {
+    "id": "o5zXNaCcpWA",
+    "title": "Whirlpool/Kenmore Dryer Blower Housing Foam Seal #347139",
+    "meta": [
+     "23K",
+     "16y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 23000
+   },
+   {
+    "id": "wboQNVP6xhQ",
+    "title": "Whirlpool/Kenmore Dryer Front Panel Retainer Clip #3394083",
+    "meta": [
+     "29K",
+     "16y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 29000
+   },
+   {
+    "id": "wuP7o10SOG8",
+    "title": "Whirlpool/ Kenmore Electric Dryer Drive Motor Replacement #279827",
+    "meta": [
+     "597K",
+     "16y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 597000
+   },
+   {
+    "id": "8wOKsdC84zc",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Top Spring Clip #18776",
+    "meta": [
+     "18K",
+     "16y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 18000
+   },
+   {
+    "id": "9SCjJd3xUxI",
+    "title": "Whirlpool/Kenmore Dryer Right Support Roller Shaft #339489",
+    "meta": [
+     "29K",
+     "16y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 29000
+   },
+   {
+    "id": "RZ09dH4-7Ho",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Idler Pulley #691366",
+    "meta": [
+     "270K",
+     "16y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 270000
+   },
+   {
+    "id": "wBf_vwvlFGM",
+    "title": "Whirlpool/Kenmore Dryer Rear Drum Support Roller #349241T",
+    "meta": [
+     "152K",
+     "16y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 152000
+   },
+   {
+    "id": "2I0VK_nFEYk",
+    "title": "Whirlpool/Kenmore Electric Dryer Moisture Sensor #279366",
+    "meta": [
+     "225K",
+     "16y ago"
+    ],
+    "dur": "2:28",
+    "views_tab": 225000
+   },
+   {
+    "id": "zXg5iVKEel4",
+    "title": "Whirlpool/Kenmore Electric Dryer Drum Felt Seal #279857",
+    "meta": [
+     "83K",
+     "16y ago"
+    ],
+    "dur": "3:32",
+    "views_tab": 83000
+   },
+   {
+    "id": "CFnXwmUb4f4",
+    "title": "Whirlpool/Kenmore Electric Dryer Won't Spin? #341241",
+    "meta": [
+     "526K",
+     "16y ago"
+    ],
+    "dur": "3:04",
+    "views_tab": 526000
+   },
+   {
+    "id": "A_3eLrj5nV4",
+    "title": "Whirlpool/Kenmore Dryer Replace Light Lens Cover #8532165",
+    "meta": [
+     "23K",
+     "16y ago"
+    ],
+    "dur": "0:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "46abEPoDsow",
+    "title": "Whirlpool/Kenmore Electric Dryer Is Too Hot? 898078",
+    "meta": [
+     "127K",
+     "16y ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 127000
+   },
+   {
+    "id": "FXcveP1_aXU",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Drum Baffle #692490",
+    "meta": [
+     "42K",
+     "16y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 42000
+   },
+   {
+    "id": "GZsDbMuimm8",
+    "title": "Whirlpool/Kenmore Electric Dryer Maintenance Kit #4392065",
+    "meta": [
+     "90K",
+     "16y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 90000
+   },
+   {
+    "id": "Q1EKLRFs8us",
+    "title": "Whirlpool/Kenmore Electric Dryer Cycling Thermostat #8318268",
+    "meta": [
+     "128K",
+     "16y ago"
+    ],
+    "dur": "1:11",
+    "views_tab": 128000
+   },
+   {
+    "id": "mXXtaXkRMf4",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Blower Wheel #694089",
+    "meta": [
+     "375K",
+     "16y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 375000
+   },
+   {
+    "id": "P5JeFzAKRQU",
+    "title": "Whirlpool Electric Dryer Left Support Roller Shaft #W10359270",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 15000
+   },
+   {
+    "id": "EHvvES7Ju0A",
+    "title": "Whirlpool/Kenmore 29\" Gas Flame Sensor Replacement #338906",
+    "meta": [
+     "87K",
+     "16y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 87000
+   },
+   {
+    "id": "alJ3Zlgnpc0",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Door Gasket #3390731",
+    "meta": [
+     "61K",
+     "16y ago"
+    ],
+    "dur": "0:41",
+    "views_tab": 61000
+   },
+   {
+    "id": "jqrF_X_sGSc",
+    "title": "Whirlpool/Kenmore Gas Dryer Replace Flame Sensor #338906",
+    "meta": [
+     "34K",
+     "16y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 34000
+   },
+   {
+    "id": "5OIzJhcNntY",
+    "title": "Whirlpool/Kenmore Gas Dryer Cycling Thermostat #3387134",
+    "meta": [
+     "159K",
+     "16y ago"
+    ],
+    "dur": "1:08",
+    "views_tab": 159000
+   },
+   {
+    "id": "6Xzw7novD30",
+    "title": "Whirlpool/Kenmore Gas Dryer Replace Selection Switch #3399640",
+    "meta": [
+     "4.3K",
+     "16y ago"
+    ],
+    "dur": "1:15",
+    "views_tab": 4300
+   },
+   {
+    "id": "btZOXSv1R00",
+    "title": "Whirlpool Dryer Front Panel Felt Seal #W10663510",
+    "meta": [
+     "59K",
+     "16y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 59000
+   },
+   {
+    "id": "rtATa0a28bE",
+    "title": "Whirlpool/Kenmore Gas Dryer Belt Replacement #661570",
+    "meta": [
+     "223K",
+     "16y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 223000
+   },
+   {
+    "id": "43hmJGjguBM",
+    "title": "Whirlpool/Kenmore Gas Dryer High-Limit Thermostat #W10423382",
+    "meta": [
+     "57K",
+     "16y ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 57000
+   },
+   {
+    "id": "2tfqkXtjvfI",
+    "title": "Whirlpool 27\u201d Gas Dryer Drive Motor Replacement #279787",
+    "meta": [
+     "70K",
+     "16y ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 70000
+   },
+   {
+    "id": "jLrHthQ2XOs",
+    "title": "Whirlpool/Kenmore Gas Dryer Replace Access Panel Clip #297092",
+    "meta": [
+     "20K",
+     "16y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 20000
+   },
+   {
+    "id": "eYjzL9cajuA",
+    "title": "Whirlpool/Kenmore Electric Dryer Lint Screen Seal #339956",
+    "meta": [
+     "44K",
+     "16y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 44000
+   },
+   {
+    "id": "1obHbwPfw9s",
+    "title": "Whirlpool/Kenmore Dryer Won't Start/Heat? Thermal Fuse #3392519",
+    "meta": [
+     "549K",
+     "16y ago"
+    ],
+    "dur": "3:49",
+    "views_tab": 549000
+   },
+   {
+    "id": "sU-gWGl0Lfc",
+    "title": "Whirlpool/Kenmore Gas Dryer Pulley Wheel Replacement #279640",
+    "meta": [
+     "25K",
+     "16y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 25000
+   },
+   {
+    "id": "1N_TV81vogg",
+    "title": "Whirlpool/Kenmore Gas Dryer High-Limit Thermostat #3403140",
+    "meta": [
+     "25K",
+     "16y ago"
+    ],
+    "dur": "3:56",
+    "views_tab": 25000
+   },
+   {
+    "id": "U4QaZmIT6Nc",
+    "title": "Whirlpool Gas Dryer Valve Solenoid Coil 2 & 3 Terminal 694539",
+    "meta": [
+     "37K",
+     "16y ago"
+    ],
+    "dur": "1:24",
+    "views_tab": 37000
+   },
+   {
+    "id": "O3ehA9DzQsE",
+    "title": "Whirlpool/ Kenmore Gas Dryer Igniter Replacement #279311",
+    "meta": [
+     "61K",
+     "16y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 61000
+   },
+   {
+    "id": "RjonjNitfVk",
+    "title": "Whirlpool 29\" Dryer Gas Valve Solenoid Coil Kit #279834",
+    "meta": [
+     "402K",
+     "16y ago"
+    ],
+    "dur": "2:43",
+    "views_tab": 402000
+   },
+   {
+    "id": "8BAGz8o3fXY",
+    "title": "Whirlpool/Kenmore Electric Dryer Terminal Kit Replacement #279318",
+    "meta": [
+     "102K",
+     "16y ago"
+    ],
+    "dur": "1:59",
+    "views_tab": 102000
+   },
+   {
+    "id": "fxziywJ2wD8",
+    "title": "Whirlpool/Kenmore Electric Dryer Door Catch & Strike #279570",
+    "meta": [
+     "64K",
+     "16y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 64000
+   },
+   {
+    "id": "iK9q6K7iIrQ",
+    "title": "Whirlpool/Kenmore Gas Dryer Igniter Replacement #279311",
+    "meta": [
+     "377K",
+     "16y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 377000
+   },
+   {
+    "id": "NorYh2r60LM",
+    "title": "Whirlpool 27\" Gas Dryer Moisture Sensor Bar #3387223",
+    "meta": [
+     "24K",
+     "16y ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 24000
+   },
+   {
+    "id": "Sa-24fBv-BI",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Door Catch #3389441",
+    "meta": [
+     "11K",
+     "16y ago"
+    ],
+    "dur": "0:59",
+    "views_tab": 11000
+   },
+   {
+    "id": "1n1BNMtzMxU",
+    "title": "Whirlpool/Kenmore Dryer Not Starting? Start Switch #3398095",
+    "meta": [
+     "215K",
+     "16y ago"
+    ],
+    "dur": "1:17",
+    "views_tab": 215000
+   },
+   {
+    "id": "Ibv7dJD7yKs",
+    "title": "Whirlpool/Kenmore Electric Dryer Terminal Block #3397659",
+    "meta": [
+     "41K",
+     "16y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 41000
+   },
+   {
+    "id": "98gG6zbGet8",
+    "title": "Whirlpool/Kenmore Dryer Temperature Selector Switch #3399643",
+    "meta": [
+     "24K",
+     "16y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 24000
+   },
+   {
+    "id": "RdhlR7ll70w",
+    "title": "Whirlpool/Kenmore Gas Dryer Signal Switch Replacement #3405151",
+    "meta": [
+     "6.9K",
+     "16y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 6900
+   },
+   {
+    "id": "BjMuVjDWWZM",
+    "title": "Whirlpool/Kenmore Gas Dryer Wrinkle Shield Switch #3405152",
+    "meta": [
+     "8.7K",
+     "16y ago"
+    ],
+    "dur": "1:34",
+    "views_tab": 8700
+   },
+   {
+    "id": "XlN8dlz8afM",
+    "title": "Whirlpool/Kenmore Electric Dryer Wrinkle Shield Switch 3405156",
+    "meta": [
+     "14K",
+     "16y ago"
+    ],
+    "dur": "1:23",
+    "views_tab": 14000
+   },
+   {
+    "id": "wSy9giSYpsU",
+    "title": "Whirlpool/Kenmore Gas Dryer Motor/Heat Relay #3405281",
+    "meta": [
+     "73K",
+     "16y ago"
+    ],
+    "dur": "1:39",
+    "views_tab": 73000
+   },
+   {
+    "id": "fxh_NPhQHcs",
+    "title": "Whirlpool/Kenmore Gas Dryer Start Switch Replacement #3404233",
+    "meta": [
+     "11K",
+     "16y ago"
+    ],
+    "dur": "1:17",
+    "views_tab": 11000
+   },
+   {
+    "id": "f1NrbTKo2qA",
+    "title": "Whirlpool/ Kenmore Gas Timer Assembly Replacement #3976576",
+    "meta": [
+     "16K",
+     "16y ago"
+    ],
+    "dur": "1:14",
+    "views_tab": 16000
+   },
+   {
+    "id": "gWQhuQXa6d0",
+    "title": "Dryer Won't Start? Whirlpool/Kenmore Dryer Repair #3406107",
+    "meta": [
+     "232K",
+     "16y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 232000
+   },
+   {
+    "id": "vsLyHfJLfqk",
+    "title": "Whirlpool/Kenmore Electric Dryer Buzzer Replacement #694419",
+    "meta": [
+     "68K",
+     "16y ago"
+    ],
+    "dur": "1:11",
+    "views_tab": 68000
+   },
+   {
+    "id": "UCwlyMEUs04",
+    "title": "Whirlpool 29\" Gas Dryer Valve Solenoid Coil, 3 Terminal #694539",
+    "meta": [
+     "22K",
+     "16y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 22000
+   },
+   {
+    "id": "kZtU0N6b6JA",
+    "title": "Whirlpool 27\" Gas Dryer Valve Solenoid Coil, 3 Terminal #694539",
+    "meta": [
+     "25K",
+     "16y ago"
+    ],
+    "dur": "1:23",
+    "views_tab": 25000
+   },
+   {
+    "id": "rFII8hN3_iY",
+    "title": "Whirlpool Gas Dryer Gas Valve Solenoid Coil 2 Terminal #694539",
+    "meta": [
+     "17K",
+     "16y ago"
+    ],
+    "dur": "1:24",
+    "views_tab": 17000
+   },
+   {
+    "id": "KqRNoyxnKhk",
+    "title": "Whirlpool/Kenmore Gas Dryer Valve Solenoid Coil (2 Terminal) #694540",
+    "meta": [
+     "124K",
+     "16y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 124000
+   },
+   {
+    "id": "u3xdox8-9rk",
+    "title": "Whirlpool/Kenmore Gas Dryer Repair Kit Installation #4392067",
+    "meta": [
+     "38K",
+     "16y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 38000
+   },
+   {
+    "id": "gHVsYjShCmg",
+    "title": "Whirlpool/Kenmore Gas Dryer Replace Blower Wheel #697772",
+    "meta": [
+     "41K",
+     "16y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 41000
+   },
+   {
+    "id": "YP_KJNmhMio",
+    "title": "Whirlpool/Kenmore Electric Dryer Left Door Hinge #8066057",
+    "meta": [
+     "31K",
+     "16y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 31000
+   },
+   {
+    "id": "kvSZ39gTb0g",
+    "title": "Whirlpool/Kenmore Dryer Start Switch Replacement #3977456",
+    "meta": [
+     "56K",
+     "16y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 56000
+   },
+   {
+    "id": "usSlO61hRwA",
+    "title": "Whirlpool/Kenmore 27\" Gas Dryer Timer Replacement #8299771",
+    "meta": [
+     "27K",
+     "16y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 27000
+   },
+   {
+    "id": "ybnB4bNHJ6I",
+    "title": "Whirlpool/Kenmore Electric Dryer Right Door Hinge #8066056",
+    "meta": [
+     "11K",
+     "16y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 11000
+   },
+   {
+    "id": "morApNIdFik",
+    "title": "Whirlpool/Kenmore Gas Dryer Screen Grille Replacement #8299979",
+    "meta": [
+     "9.9K",
+     "16y ago"
+    ],
+    "dur": "3:32",
+    "views_tab": 9900
+   },
+   {
+    "id": "5Xmdnc4-9Nw",
+    "title": "Whirlpool/Kenmore Gas Dryer Thermal Cut-Out Fuse Kit #W10480709",
+    "meta": [
+     "97K",
+     "16y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 97000
+   },
+   {
+    "id": "4MlINTCCCwk",
+    "title": "Whirlpool/Kenmore Electric Dryer Dryness Control Board 8558178",
+    "meta": [
+     "25K",
+     "16y ago"
+    ],
+    "dur": "0:57",
+    "views_tab": 25000
+   },
+   {
+    "id": "y8kJYQfkr8w",
+    "title": "Whirlpool/Kenmore Gas Dryer Drum Roller #W10314173",
+    "meta": [
+     "28K",
+     "16y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 28000
+   },
+   {
+    "id": "ci-v-T9pgXo",
+    "title": "Whirlpool/Kenmore Electric Dryer Timer Assembly #8566184",
+    "meta": [
+     "86K",
+     "16y ago"
+    ],
+    "dur": "1:23",
+    "views_tab": 86000
+   },
+   {
+    "id": "b7bx7AoVRqQ",
+    "title": "Whirlpool/Kenmore Dryer Drum Seal Replacement, Repair #280114",
+    "meta": [
+     "260K",
+     "16y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 260000
+   },
+   {
+    "id": "iPUQPxOhlV4",
+    "title": "Whirlpool/Kenmore Electric Dryer Temperature Switch #8578352",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "1:20",
+    "views_tab": 15000
+   },
+   {
+    "id": "_Aq91LxJasI",
+    "title": "Whirlpool/Kenmore Electric Dryer Replace Leveling Leg #49621",
+    "meta": [
+     "21K",
+     "16y ago"
+    ],
+    "dur": "1:13",
+    "views_tab": 21000
+   },
+   {
+    "id": "CgLWVeTv6NM",
+    "title": "Whirlpool/ Kenmore Gas Dryer Replace Thermistor #8577274",
+    "meta": [
+     "60K",
+     "16y ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 60000
+   },
+   {
+    "id": "HyFqt8gS2RA",
+    "title": "Whirlpool Gas Dryer Replace Dryness Control Board #W10116565",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "1:32",
+    "views_tab": 15000
+   },
+   {
+    "id": "GaFFGzH7B_c",
+    "title": "Whirlpool/Kenmore Gas Dryer Access Panel Clip #3388229",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 15000
+   },
+   {
+    "id": "FdN56D62v6w",
+    "title": "Whirlpool/Kenmore Gas Dryer Idler Pulley Assembly #W10547290",
+    "meta": [
+     "27K",
+     "16y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 27000
+   },
+   {
+    "id": "iABhGWZN778",
+    "title": "Dishwasher Maintenance Tips",
+    "meta": [
+     "165K",
+     "16y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 165000
+   },
+   {
+    "id": "2LK6mbsp2uc",
+    "title": "Dryer Maintenance Tips",
+    "meta": [
+     "279K",
+     "16y ago"
+    ],
+    "dur": "1:07",
+    "views_tab": 279000
+   },
+   {
+    "id": "UJONYLT9xfg",
+    "title": "Ice Machine Maintenance Tips",
+    "meta": [
+     "42K",
+     "16y ago"
+    ],
+    "dur": "0:54",
+    "views_tab": 42000
+   },
+   {
+    "id": "HSuNkzFDpr0",
+    "title": "Range Maintenance Tips",
+    "meta": [
+     "155K",
+     "16y ago"
+    ],
+    "dur": "1:11",
+    "views_tab": 155000
+   },
+   {
+    "id": "sMPG1Q_zHEk",
+    "title": "Washer Maintenance Tips",
+    "meta": [
+     "314K",
+     "16y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 314000
+   }
+  ]
+ }
+}

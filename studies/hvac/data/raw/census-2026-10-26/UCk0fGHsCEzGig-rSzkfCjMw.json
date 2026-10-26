@@ -1,0 +1,3925 @@
+{
+ "key": "UCk0fGHsCEzGig-rSzkfCjMw",
+ "channel": "The Engineering Mindset",
+ "id": "UCk0fGHsCEzGig-rSzkfCjMw",
+ "subs": "4.49M subscribers",
+ "videos": "318 videos",
+ "pulled": "2026-10-26T07:03:31.894897+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "je0BsLY5nZw",
+    "title": "How a CPU Turns 1s and 0s Into Everything You See",
+    "meta": [
+     "389K",
+     "2w ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 389000
+   },
+   {
+    "id": "EElZjxhQxHs",
+    "title": "Why 3 Phase Power Is So Much Better",
+    "meta": [
+     "366K",
+     "1mo ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 366000
+   },
+   {
+    "id": "NDnjMjFDCe8",
+    "title": "The Truth About Three-Phase Power: Why It Became the Standard",
+    "meta": [
+     "182K",
+     "2mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 182000
+   },
+   {
+    "id": "DKYguNg1vmk",
+    "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+    "meta": [
+     "748K",
+     "4mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 748000
+   },
+   {
+    "id": "9pvNuptmzyQ",
+    "title": "The 1.25V Trick That Gives You Any Voltage You Want",
+    "meta": [
+     "363K",
+     "4mo ago"
+    ],
+    "dur": "27:44",
+    "views_tab": 363000
+   },
+   {
+    "id": "TUno2IT-KZY",
+    "title": "Why RCDs Fail: The Hidden Danger in Your Consumer Unit",
+    "meta": [
+     "275K",
+     "7mo ago"
+    ],
+    "dur": "17:18",
+    "views_tab": 275000
+   },
+   {
+    "id": "Sh9aZ2uemk0",
+    "title": "Why This Circuit Works When It Shouldn\u2019t",
+    "meta": [
+     "922K",
+     "9mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 922000
+   },
+   {
+    "id": "DGKTzl9CTXo",
+    "title": "The Strange Discovery That Made Computers Possible",
+    "meta": [
+     "354K",
+     "10mo ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 354000
+   },
+   {
+    "id": "mTiHK3fGmTU",
+    "title": "My first video was SO BAD!",
+    "meta": [
+     "51K",
+     "1y ago"
+    ],
+    "dur": "20:00",
+    "views_tab": 51000
+   },
+   {
+    "id": "LaY47Qrfs0c",
+    "title": "How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)",
+    "meta": [
+     "848K",
+     "1y ago"
+    ],
+    "dur": "35:07",
+    "views_tab": 848000
+   },
+   {
+    "id": "NIrKOVZrqnU",
+    "title": "Power Factor Explained \u2013 Your Electricity Bill Money Drain (Reactive Power)",
+    "meta": [
+     "1.1M",
+     "1y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 1100000
+   },
+   {
+    "id": "3KePcASD0NQ",
+    "title": "How Electricity Works - for visual learners",
+    "meta": [
+     "4.4M",
+     "1y ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 4400000
+   },
+   {
+    "id": "Qi0ynSQw-wc",
+    "title": "I Touched a Hot Wire to Ground\u2026 Here\u2019s What Happened",
+    "meta": [
+     "641K",
+     "2y ago"
+    ],
+    "dur": "12:54",
+    "views_tab": 641000
+   },
+   {
+    "id": "c9gm_NL7KyE",
+    "title": "How 3 Phase Power works: why 3 phases?",
+    "meta": [
+     "5.2M",
+     "2y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 5200000
+   },
+   {
+    "id": "J3kKNNizARc",
+    "title": "Clamp Meter Skills That Make You Look Like a Pro",
+    "meta": [
+     "1.2M",
+     "2y ago"
+    ],
+    "dur": "24:52",
+    "views_tab": 1200000
+   },
+   {
+    "id": "u0SsejDCVkU",
+    "title": "How 3 Phase Transformers Work \u2013 why we need them",
+    "meta": [
+     "2.2M",
+     "2y ago"
+    ],
+    "dur": "24:24",
+    "views_tab": 2200000
+   },
+   {
+    "id": "gqEu9t8HwW0",
+    "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+    "meta": [
+     "2.9M",
+     "2y ago"
+    ],
+    "dur": "18:23",
+    "views_tab": 2900000
+   },
+   {
+    "id": "AwRJsze_9m4",
+    "title": "MOSFET Explained - How MOSFET Works",
+    "meta": [
+     "3.4M",
+     "2y ago"
+    ],
+    "dur": "20:14",
+    "views_tab": 3400000
+   },
+   {
+    "id": "Xb-MZMoUtcQ",
+    "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
+    "meta": [
+     "972K",
+     "2y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 972000
+   },
+   {
+    "id": "e_4ITFCQvts",
+    "title": "Scroll Compressor Exposed: Understanding Its Mechanical Magic",
+    "meta": [
+     "370K",
+     "2y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 370000
+   },
+   {
+    "id": "Hf875eOVrVI",
+    "title": "How Wind Turbines Really Work: The Hidden Secrets",
+    "meta": [
+     "1.8M",
+     "2y ago"
+    ],
+    "dur": "22:03",
+    "views_tab": 1800000
+   },
+   {
+    "id": "Yxt72aDjFgY",
+    "title": "Generate Electricity - How Solar Panels Work!",
+    "meta": [
+     "2.5M",
+     "3y ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 2500000
+   },
+   {
+    "id": "NUSNa-7Hecw",
+    "title": "Sub Panels Explained - Why are neutral and ground separated?",
+    "meta": [
+     "2.8M",
+     "3y ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 2800000
+   },
+   {
+    "id": "Zv9Q7ih48Uc",
+    "title": "This Circuit works without electricity",
+    "meta": [
+     "249K",
+     "3y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 249000
+   },
+   {
+    "id": "O8M2z2hIbag",
+    "title": "How LED Works - Unravel the Mysteries of How LEDs Work!",
+    "meta": [
+     "1.5M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 1500000
+   },
+   {
+    "id": "DYcLFHgVCn0",
+    "title": "How Resistor Work - Unravel the Mysteries of How Resistors Work!",
+    "meta": [
+     "5.7M",
+     "3y ago"
+    ],
+    "dur": "28:23",
+    "views_tab": 5700000
+   },
+   {
+    "id": "FOh0iesTvx0",
+    "title": "Why electric heating is the smart choice",
+    "meta": [
+     "155K",
+     "3y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 155000
+   },
+   {
+    "id": "4lAyzRxsbDc",
+    "title": "How to use a multimeter like a pro! The Ultimate guide",
+    "meta": [
+     "3.5M",
+     "3y ago"
+    ],
+    "dur": "28:43",
+    "views_tab": 3500000
+   },
+   {
+    "id": "avm9vN09C0k",
+    "title": "Ultrasonic Flow Meter Basics",
+    "meta": [
+     "119K",
+     "3y ago"
+    ],
+    "dur": "1:16",
+    "views_tab": 119000
+   },
+   {
+    "id": "9VQqky7s3xQ",
+    "title": "Stepper Motor - What's inside?",
+    "meta": [
+     "90K",
+     "3y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 90000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "je0BsLY5nZw",
+    "title": "How a CPU Turns 1s and 0s Into Everything You See",
+    "meta": [
+     "389K",
+     "2w ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 389000
+   },
+   {
+    "id": "EElZjxhQxHs",
+    "title": "Why 3 Phase Power Is So Much Better",
+    "meta": [
+     "366K",
+     "1mo ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 366000
+   },
+   {
+    "id": "NDnjMjFDCe8",
+    "title": "The Truth About Three-Phase Power: Why It Became the Standard",
+    "meta": [
+     "182K",
+     "2mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 182000
+   },
+   {
+    "id": "DKYguNg1vmk",
+    "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+    "meta": [
+     "748K",
+     "4mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 748000
+   },
+   {
+    "id": "9pvNuptmzyQ",
+    "title": "The 1.25V Trick That Gives You Any Voltage You Want",
+    "meta": [
+     "363K",
+     "4mo ago"
+    ],
+    "dur": "27:44",
+    "views_tab": 363000
+   },
+   {
+    "id": "TUno2IT-KZY",
+    "title": "Why RCDs Fail: The Hidden Danger in Your Consumer Unit",
+    "meta": [
+     "275K",
+     "7mo ago"
+    ],
+    "dur": "17:18",
+    "views_tab": 275000
+   },
+   {
+    "id": "Sh9aZ2uemk0",
+    "title": "Why This Circuit Works When It Shouldn\u2019t",
+    "meta": [
+     "922K",
+     "9mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 922000
+   },
+   {
+    "id": "DGKTzl9CTXo",
+    "title": "The Strange Discovery That Made Computers Possible",
+    "meta": [
+     "354K",
+     "10mo ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 354000
+   },
+   {
+    "id": "mTiHK3fGmTU",
+    "title": "My first video was SO BAD!",
+    "meta": [
+     "51K",
+     "1y ago"
+    ],
+    "dur": "20:00",
+    "views_tab": 51000
+   },
+   {
+    "id": "LaY47Qrfs0c",
+    "title": "How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)",
+    "meta": [
+     "848K",
+     "1y ago"
+    ],
+    "dur": "35:07",
+    "views_tab": 848000
+   },
+   {
+    "id": "NIrKOVZrqnU",
+    "title": "Power Factor Explained \u2013 Your Electricity Bill Money Drain (Reactive Power)",
+    "meta": [
+     "1.1M",
+     "1y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 1100000
+   },
+   {
+    "id": "3KePcASD0NQ",
+    "title": "How Electricity Works - for visual learners",
+    "meta": [
+     "4.4M",
+     "1y ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 4400000
+   },
+   {
+    "id": "Qi0ynSQw-wc",
+    "title": "I Touched a Hot Wire to Ground\u2026 Here\u2019s What Happened",
+    "meta": [
+     "641K",
+     "2y ago"
+    ],
+    "dur": "12:54",
+    "views_tab": 641000
+   },
+   {
+    "id": "c9gm_NL7KyE",
+    "title": "How 3 Phase Power works: why 3 phases?",
+    "meta": [
+     "5.2M",
+     "2y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 5200000
+   },
+   {
+    "id": "J3kKNNizARc",
+    "title": "Clamp Meter Skills That Make You Look Like a Pro",
+    "meta": [
+     "1.2M",
+     "2y ago"
+    ],
+    "dur": "24:52",
+    "views_tab": 1200000
+   },
+   {
+    "id": "u0SsejDCVkU",
+    "title": "How 3 Phase Transformers Work \u2013 why we need them",
+    "meta": [
+     "2.2M",
+     "2y ago"
+    ],
+    "dur": "24:24",
+    "views_tab": 2200000
+   },
+   {
+    "id": "gqEu9t8HwW0",
+    "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+    "meta": [
+     "2.9M",
+     "2y ago"
+    ],
+    "dur": "18:23",
+    "views_tab": 2900000
+   },
+   {
+    "id": "AwRJsze_9m4",
+    "title": "MOSFET Explained - How MOSFET Works",
+    "meta": [
+     "3.4M",
+     "2y ago"
+    ],
+    "dur": "20:14",
+    "views_tab": 3400000
+   },
+   {
+    "id": "Xb-MZMoUtcQ",
+    "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
+    "meta": [
+     "972K",
+     "2y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 972000
+   },
+   {
+    "id": "e_4ITFCQvts",
+    "title": "Scroll Compressor Exposed: Understanding Its Mechanical Magic",
+    "meta": [
+     "370K",
+     "2y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 370000
+   },
+   {
+    "id": "Hf875eOVrVI",
+    "title": "How Wind Turbines Really Work: The Hidden Secrets",
+    "meta": [
+     "1.8M",
+     "2y ago"
+    ],
+    "dur": "22:03",
+    "views_tab": 1800000
+   },
+   {
+    "id": "Yxt72aDjFgY",
+    "title": "Generate Electricity - How Solar Panels Work!",
+    "meta": [
+     "2.5M",
+     "3y ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 2500000
+   },
+   {
+    "id": "NUSNa-7Hecw",
+    "title": "Sub Panels Explained - Why are neutral and ground separated?",
+    "meta": [
+     "2.8M",
+     "3y ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 2800000
+   },
+   {
+    "id": "Zv9Q7ih48Uc",
+    "title": "This Circuit works without electricity",
+    "meta": [
+     "249K",
+     "3y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 249000
+   },
+   {
+    "id": "O8M2z2hIbag",
+    "title": "How LED Works - Unravel the Mysteries of How LEDs Work!",
+    "meta": [
+     "1.5M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 1500000
+   },
+   {
+    "id": "DYcLFHgVCn0",
+    "title": "How Resistor Work - Unravel the Mysteries of How Resistors Work!",
+    "meta": [
+     "5.7M",
+     "3y ago"
+    ],
+    "dur": "28:23",
+    "views_tab": 5700000
+   },
+   {
+    "id": "FOh0iesTvx0",
+    "title": "Why electric heating is the smart choice",
+    "meta": [
+     "155K",
+     "3y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 155000
+   },
+   {
+    "id": "4lAyzRxsbDc",
+    "title": "How to use a multimeter like a pro! The Ultimate guide",
+    "meta": [
+     "3.5M",
+     "3y ago"
+    ],
+    "dur": "28:43",
+    "views_tab": 3500000
+   },
+   {
+    "id": "avm9vN09C0k",
+    "title": "Ultrasonic Flow Meter Basics",
+    "meta": [
+     "119K",
+     "3y ago"
+    ],
+    "dur": "1:16",
+    "views_tab": 119000
+   },
+   {
+    "id": "9VQqky7s3xQ",
+    "title": "Stepper Motor - What's inside?",
+    "meta": [
+     "90K",
+     "3y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 90000
+   },
+   {
+    "id": "NPM3wSb7veU",
+    "title": "What is a capacitor? Basics",
+    "meta": [
+     "275K",
+     "3y ago"
+    ],
+    "dur": "1:18",
+    "views_tab": 275000
+   },
+   {
+    "id": "W770Z1yvXs8",
+    "title": "What is a fuse? the basics explained",
+    "meta": [
+     "145K",
+     "3y ago"
+    ],
+    "dur": "0:58",
+    "views_tab": 145000
+   },
+   {
+    "id": "i8YcmhtLv-4",
+    "title": "Step Down Transformer Calculations - A Quick and Easy Guide",
+    "meta": [
+     "68K",
+     "3y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 68000
+   },
+   {
+    "id": "4aFlSEf8C0A",
+    "title": "Pump NPSH Basics",
+    "meta": [
+     "158K",
+     "3y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 158000
+   },
+   {
+    "id": "hObLxlXJPPM",
+    "title": "How Lead Acid Batteries Work: A Simple Guide",
+    "meta": [
+     "198K",
+     "3y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 198000
+   },
+   {
+    "id": "J9U_WvmYtCY",
+    "title": "Learn the Basics of HVACR Time Control",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 21000
+   },
+   {
+    "id": "gSz4Y8RV164",
+    "title": "Starter Motors, what's inside?",
+    "meta": [
+     "128K",
+     "3y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 128000
+   },
+   {
+    "id": "tHOH-bYjR4k",
+    "title": "What is a Servo Motor and What Does It Do?",
+    "meta": [
+     "300K",
+     "3y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 300000
+   },
+   {
+    "id": "pl_dt83Srlc",
+    "title": "Supermarket Ventilation System Basics",
+    "meta": [
+     "61K",
+     "3y ago"
+    ],
+    "dur": "2:21",
+    "views_tab": 61000
+   },
+   {
+    "id": "a4ttjOEdlc8",
+    "title": "What is a diode?",
+    "meta": [
+     "186K",
+     "3y ago"
+    ],
+    "dur": "3:49",
+    "views_tab": 186000
+   },
+   {
+    "id": "kVuoa9ntPgA",
+    "title": "Spiral Heat Exchangers Explained",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 65000
+   },
+   {
+    "id": "ehzT_rQEmTM",
+    "title": "Why is a ground wire used?",
+    "meta": [
+     "202K",
+     "3y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 202000
+   },
+   {
+    "id": "XTuYJ1Nd_vk",
+    "title": "Why Transformers Use kVA Not kW",
+    "meta": [
+     "111K",
+     "3y ago"
+    ],
+    "dur": "2:09",
+    "views_tab": 111000
+   },
+   {
+    "id": "-fCZZWwtgNM",
+    "title": "Pump Impeller Basics",
+    "meta": [
+     "206K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 206000
+   },
+   {
+    "id": "OwfKLz9LZWU",
+    "title": "Why do cars need a battery?",
+    "meta": [
+     "51K",
+     "3y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 51000
+   },
+   {
+    "id": "i2x5rOzatbU",
+    "title": "HVACR Temperature Control Basics",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "7:37",
+    "views_tab": 48000
+   },
+   {
+    "id": "iRLxHbgG_SA",
+    "title": "AFCI Breaker Basics - Arc Fault Circuit Interrupter how they work",
+    "meta": [
+     "86K",
+     "3y ago"
+    ],
+    "dur": "1:28",
+    "views_tab": 86000
+   },
+   {
+    "id": "lWEaGGZv8n8",
+    "title": "Transformers: How They Increase Voltage",
+    "meta": [
+     "55K",
+     "3y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 55000
+   },
+   {
+    "id": "iN0-rN9X7Yo",
+    "title": "Pump head pressure basics",
+    "meta": [
+     "148K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 148000
+   },
+   {
+    "id": "mMLoH4iUGCQ",
+    "title": "Learn the Basics of a 3 Phase Rectifier",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 138000
+   },
+   {
+    "id": "GTQkPOgqt_M",
+    "title": "Have you ever wondered how multispeed pumps work?",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 29000
+   },
+   {
+    "id": "2jqJZxxX6gQ",
+    "title": "AC and DC Electricity basics",
+    "meta": [
+     "461K",
+     "3y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 461000
+   },
+   {
+    "id": "JQzLhujx32Y",
+    "title": "How Open Differential works",
+    "meta": [
+     "59K",
+     "3y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 59000
+   },
+   {
+    "id": "32gg_8e1ujM",
+    "title": "What Is A Solenoid Valve?",
+    "meta": [
+     "228K",
+     "3y ago"
+    ],
+    "dur": "2:41",
+    "views_tab": 228000
+   },
+   {
+    "id": "aZt61aQodks",
+    "title": "Car Battery - What's Inside?",
+    "meta": [
+     "92K",
+     "3y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 92000
+   },
+   {
+    "id": "ukjXJp0Joyg",
+    "title": "HVACR Deadband Basics",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 36000
+   },
+   {
+    "id": "XTPQe6GtqlM",
+    "title": "GFCI breaker basics - Ground fault circuit interrupter how it works",
+    "meta": [
+     "180K",
+     "3y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 180000
+   },
+   {
+    "id": "qRiMFmILd8k",
+    "title": "Basic Transformer Calculations",
+    "meta": [
+     "192K",
+     "3y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 192000
+   },
+   {
+    "id": "5ZyhTNB3vYU",
+    "title": "How do centrifugal pumps work?",
+    "meta": [
+     "107K",
+     "3y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 107000
+   },
+   {
+    "id": "v-2SUw-ZtPI",
+    "title": "Heating and Cooling VRF System",
+    "meta": [
+     "50K",
+     "3y ago"
+    ],
+    "dur": "2:28",
+    "views_tab": 50000
+   },
+   {
+    "id": "Ie2HgsKvZlM",
+    "title": "This is How Diodes Work",
+    "meta": [
+     "293K",
+     "3y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 293000
+   },
+   {
+    "id": "CQ2HTZdzEO8",
+    "title": "Servo Motor, what's inside?",
+    "meta": [
+     "57K",
+     "3y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 57000
+   },
+   {
+    "id": "1AaUK6pT_cE",
+    "title": "How does an Electric Motor work? (DC Motor)",
+    "meta": [
+     "520K",
+     "3y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 520000
+   },
+   {
+    "id": "93TT8ewtAew",
+    "title": "Limited Slip Differential Explained",
+    "meta": [
+     "171K",
+     "3y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 171000
+   },
+   {
+    "id": "OPaXVa6r62w",
+    "title": "3 Phase Inverter Basics - Working Principle",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "2:28",
+    "views_tab": 65000
+   },
+   {
+    "id": "-7U4nJphU88",
+    "title": "Flemings Left Hand Rule",
+    "meta": [
+     "446K",
+     "3y ago"
+    ],
+    "dur": "2:51",
+    "views_tab": 446000
+   },
+   {
+    "id": "dPHtFe_4nSQ",
+    "title": "Circulating pump: What is it & why is it important?",
+    "meta": [
+     "204K",
+     "3y ago"
+    ],
+    "dur": "2:54",
+    "views_tab": 204000
+   },
+   {
+    "id": "8XI6GVLjPng",
+    "title": "What is an Inverter and What Does It Do?",
+    "meta": [
+     "634K",
+     "3y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 634000
+   },
+   {
+    "id": "6qIzGckiJ4c",
+    "title": "Server Room HVACR Efficiency",
+    "meta": [
+     "32K",
+     "3y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 32000
+   },
+   {
+    "id": "VGj32euYZ2c",
+    "title": "Circuit Breaker Basics - How do they work?",
+    "meta": [
+     "246K",
+     "3y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 246000
+   },
+   {
+    "id": "U30d_ugaHpQ",
+    "title": "Why are transformers used?",
+    "meta": [
+     "57K",
+     "3y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 57000
+   },
+   {
+    "id": "AOC7uTnxmTI",
+    "title": "Induction Motor Basics",
+    "meta": [
+     "273K",
+     "3y ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 273000
+   },
+   {
+    "id": "r-NQEoPidX8",
+    "title": "Heat Recovery VRF System - How it Works",
+    "meta": [
+     "84K",
+     "3y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 84000
+   },
+   {
+    "id": "-5NxKWOe0_g",
+    "title": "How to Use SMD LEDs in Your Electronics Projects",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 71000
+   },
+   {
+    "id": "_f-zNQKFMAA",
+    "title": "HVAC On Off Control Basics",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "1:32",
+    "views_tab": 25000
+   },
+   {
+    "id": "OUcKJuMSSW4",
+    "title": "AC Basics: Learn All About Alternating Current",
+    "meta": [
+     "511K",
+     "4y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 511000
+   },
+   {
+    "id": "fQsdUhRwCU4",
+    "title": "What is a Stepper Motor?",
+    "meta": [
+     "105K",
+     "4y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 105000
+   },
+   {
+    "id": "PvIb2LtgmaU",
+    "title": "How Inductors Work",
+    "meta": [
+     "337K",
+     "4y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 337000
+   },
+   {
+    "id": "NDam51g6dBA",
+    "title": "How Manual Cars Work - manual transmission gearbox",
+    "meta": [
+     "52K",
+     "4y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 52000
+   },
+   {
+    "id": "QmFQAVxdeBc",
+    "title": "Why Are Solenoid Valves Used?",
+    "meta": [
+     "43K",
+     "4y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 43000
+   },
+   {
+    "id": "yF7ADcRt_uA",
+    "title": "Why Resistors Are Used In circuits",
+    "meta": [
+     "197K",
+     "4y ago"
+    ],
+    "dur": "1:43",
+    "views_tab": 197000
+   },
+   {
+    "id": "N4PpRWBvgIo",
+    "title": "Finned Tube Heat Exchangers",
+    "meta": [
+     "107K",
+     "4y ago"
+    ],
+    "dur": "2:19",
+    "views_tab": 107000
+   },
+   {
+    "id": "Tglht_V4fzo",
+    "title": "How Do Power Outlets Work?",
+    "meta": [
+     "101K",
+     "4y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 101000
+   },
+   {
+    "id": "Nfja9F8OdPM",
+    "title": "How Transformers Work: The Basics",
+    "meta": [
+     "55K",
+     "4y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 55000
+   },
+   {
+    "id": "WNOyBdWZNwE",
+    "title": "Computer Room Air Conditioning - How do CRAC units work?",
+    "meta": [
+     "142K",
+     "4y ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 142000
+   },
+   {
+    "id": "AwXp6jVaTV4",
+    "title": "WHAT IS A TRANSISTOR?",
+    "meta": [
+     "170K",
+     "4y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 170000
+   },
+   {
+    "id": "RbmhsyYsEuk",
+    "title": "Plate Heat Exchanger Basics",
+    "meta": [
+     "116K",
+     "4y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 116000
+   },
+   {
+    "id": "aCk8BMNbmIs",
+    "title": "Why Cars Need Differential Gears",
+    "meta": [
+     "39K",
+     "4y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 39000
+   },
+   {
+    "id": "GHGKL-f5F9k",
+    "title": "Heating System Optimizer Basics",
+    "meta": [
+     "25K",
+     "4y ago"
+    ],
+    "dur": "1:31",
+    "views_tab": 25000
+   },
+   {
+    "id": "mrMis-ekPxs",
+    "title": "Step Up Transformer Calculation Basics",
+    "meta": [
+     "64K",
+     "4y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 64000
+   },
+   {
+    "id": "YADkNK0O1UA",
+    "title": "Steam Trap Failure",
+    "meta": [
+     "50K",
+     "4y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 50000
+   },
+   {
+    "id": "gXKqhFENnQc",
+    "title": "How Starter Motors Work",
+    "meta": [
+     "376K",
+     "4y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 376000
+   },
+   {
+    "id": "r0YbIQobDRg",
+    "title": "Why do transformers make a humming noise?",
+    "meta": [
+     "452K",
+     "4y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 452000
+   },
+   {
+    "id": "EnUG9og6ZO8",
+    "title": "Why Cars Have a Starter Motor",
+    "meta": [
+     "66K",
+     "4y ago"
+    ],
+    "dur": "1:58",
+    "views_tab": 66000
+   },
+   {
+    "id": "CQtSS6g00h0",
+    "title": "How Transistors Work",
+    "meta": [
+     "219K",
+     "4y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 219000
+   },
+   {
+    "id": "gtxryoHbBrM",
+    "title": "Double Pipe Heat Exchanger Basics Explained - industrial engineering",
+    "meta": [
+     "139K",
+     "4y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 139000
+   },
+   {
+    "id": "qOzE5F5vFGs",
+    "title": "How to control a BLDC with an Arduino",
+    "meta": [
+     "154K",
+     "4y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 154000
+   },
+   {
+    "id": "YG81w0HFXNc",
+    "title": "Electronic Pressure Switches- How They Work",
+    "meta": [
+     "150K",
+     "4y ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 150000
+   },
+   {
+    "id": "QbgTl6VSA9Y",
+    "title": "How to Control a Servo With an Arduino",
+    "meta": [
+     "440K",
+     "4y ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 440000
+   },
+   {
+    "id": "s55FxmQQId4",
+    "title": "Types of Stepper Motor Explained - What are the different types?",
+    "meta": [
+     "69K",
+     "4y ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 69000
+   },
+   {
+    "id": "VN4_asSBEKY",
+    "title": "Differential explained - How differential works open, limited slip",
+    "meta": [
+     "465K",
+     "4y ago"
+    ],
+    "dur": "12:43",
+    "views_tab": 465000
+   },
+   {
+    "id": "jcY4QN7awEc",
+    "title": "Transformers Explained - How transformers work",
+    "meta": [
+     "3.7M",
+     "4y ago"
+    ],
+    "dur": "16:33",
+    "views_tab": 3700000
+   },
+   {
+    "id": "8rGLrhVeZvw",
+    "title": "Shell and Tube Heat Exchanger basics explained",
+    "meta": [
+     "739K",
+     "4y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 739000
+   },
+   {
+    "id": "4i1XgcP1tmw",
+    "title": "VRF Systems Explained - Variable refrigerant flow basics HVAC",
+    "meta": [
+     "688K",
+     "4y ago"
+    ],
+    "dur": "13:53",
+    "views_tab": 688000
+   },
+   {
+    "id": "hr1gUTix3_M",
+    "title": "Design and Build a PCB - SMD LED Learn electronics engineering",
+    "meta": [
+     "665K",
+     "4y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 665000
+   },
+   {
+    "id": "yiD5nCfmbV0",
+    "title": "Brushless Motor - How they work BLDC ESC PWM",
+    "meta": [
+     "5.7M",
+     "4y ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 5700000
+   },
+   {
+    "id": "DMMj94nauM8",
+    "title": "Capacitor discharge time - how to calculate with examples",
+    "meta": [
+     "160K",
+     "4y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 160000
+   },
+   {
+    "id": "1WnGv-DPexc",
+    "title": "Servo Motors, how do they work?",
+    "meta": [
+     "2.5M",
+     "4y ago"
+    ],
+    "dur": "15:12",
+    "views_tab": 2500000
+   },
+   {
+    "id": "8-BwTmkiMdA",
+    "title": "Transistor capacitor circuit design guide",
+    "meta": [
+     "433K",
+     "4y ago"
+    ],
+    "dur": "11:19",
+    "views_tab": 433000
+   },
+   {
+    "id": "MA1NxRyYspU",
+    "title": "Automated Leak Detection solenoid explained",
+    "meta": [
+     "190K",
+     "4y ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 190000
+   },
+   {
+    "id": "SaQBD0NMT04",
+    "title": "Thermistor Basics - NTC PTC",
+    "meta": [
+     "295K",
+     "4y ago"
+    ],
+    "dur": "2:48",
+    "views_tab": 295000
+   },
+   {
+    "id": "jC3sbirGGAI",
+    "title": "Steam Heating Systems Basics  hvacr",
+    "meta": [
+     "622K",
+     "4y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 622000
+   },
+   {
+    "id": "Da63f16KKDo",
+    "title": "Hybrid Stepper Motor Basics",
+    "meta": [
+     "80K",
+     "4y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 80000
+   },
+   {
+    "id": "blnnAEmVXp0",
+    "title": "Resistance Temperature Detector Basics RTD",
+    "meta": [
+     "181K",
+     "4y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 181000
+   },
+   {
+    "id": "YYMsS50x1UY",
+    "title": "H Bridge Motor Control Basics Explained",
+    "meta": [
+     "147K",
+     "4y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 147000
+   },
+   {
+    "id": "FDmHVRC6pQk",
+    "title": "Capacitor charge time calculation - time constants",
+    "meta": [
+     "263K",
+     "4y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 263000
+   },
+   {
+    "id": "vZkA0z9JRgw",
+    "title": "Data Center Cooling - how are data centre cooled cold aisle containment hvacr",
+    "meta": [
+     "515K",
+     "4y ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 515000
+   },
+   {
+    "id": "uXG1y2bOufo",
+    "title": "Basic HVAC Controls - learn hvacr",
+    "meta": [
+     "417K",
+     "4y ago"
+    ],
+    "dur": "12:20",
+    "views_tab": 417000
+   },
+   {
+    "id": "y1gCWh-Km1U",
+    "title": "PC Water Cooling explained",
+    "meta": [
+     "263K",
+     "4y ago"
+    ],
+    "dur": "1:27",
+    "views_tab": 263000
+   },
+   {
+    "id": "C0iOzmJKOg8",
+    "title": "Ground Rod Explained",
+    "meta": [
+     "1.6M",
+     "4y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 1600000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "J4oO7PT_nzQ",
+    "title": "Transistors Explained - How transistors work",
+    "meta": [
+     "20M",
+     "5y ago"
+    ],
+    "dur": "18:20",
+    "views_tab": 20000000
+   },
+   {
+    "id": "X4EUwTwZ110",
+    "title": "Capacitors Explained - The basics how capacitors work working principle",
+    "meta": [
+     "11M",
+     "7y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 11000000
+   },
+   {
+    "id": "opoEswRp_jg",
+    "title": "Two Way Switching Explained - How to wire 2 way light switch",
+    "meta": [
+     "9.2M",
+     "7y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 9200000
+   },
+   {
+    "id": "4oRT7PoXSS0",
+    "title": "How Three Phase Electricity works - The basics explained",
+    "meta": [
+     "7.9M",
+     "8y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 7900000
+   },
+   {
+    "id": "mc979OhitAg",
+    "title": "How ELECTRICITY works - working principle",
+    "meta": [
+     "7.9M",
+     "9y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 7900000
+   },
+   {
+    "id": "59HBoIXzX_c",
+    "title": "How Electric Motors Work - 3 phase AC induction motors  ac motor",
+    "meta": [
+     "7.9M",
+     "5y ago"
+    ],
+    "dur": "15:34",
+    "views_tab": 7900000
+   },
+   {
+    "id": "yiD5nCfmbV0",
+    "title": "Brushless Motor - How they work BLDC ESC PWM",
+    "meta": [
+     "5.7M",
+     "4y ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 5700000
+   },
+   {
+    "id": "DYcLFHgVCn0",
+    "title": "How Resistor Work - Unravel the Mysteries of How Resistors Work!",
+    "meta": [
+     "5.7M",
+     "3y ago"
+    ],
+    "dur": "28:23",
+    "views_tab": 5700000
+   },
+   {
+    "id": "fJeRabV5hNU",
+    "title": "120V 240V Electricity explained - Split phase 3 wire electrician",
+    "meta": [
+     "5.5M",
+     "7y ago"
+    ],
+    "dur": "12:24",
+    "views_tab": 5500000
+   },
+   {
+    "id": "KSylo01n5FY",
+    "title": "Inductors Explained - The basics how inductors work working principle",
+    "meta": [
+     "5.5M",
+     "7y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 5500000
+   },
+   {
+    "id": "c9gm_NL7KyE",
+    "title": "How 3 Phase Power works: why 3 phases?",
+    "meta": [
+     "5.2M",
+     "2y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 5200000
+   },
+   {
+    "id": "P-W42tk-fWc",
+    "title": "Ground Neutral and Hot wires explained - electrical engineering grounding ground fault",
+    "meta": [
+     "4.9M",
+     "7y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 4900000
+   },
+   {
+    "id": "h89TTwlNnpY",
+    "title": "Star Delta Starter Explained - Working Principle",
+    "meta": [
+     "4.6M",
+     "7y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 4600000
+   },
+   {
+    "id": "TUpeMYTj1O8",
+    "title": "How Manual Transmission works - automotive technician  shifting",
+    "meta": [
+     "4.5M",
+     "5y ago"
+    ],
+    "dur": "19:39",
+    "views_tab": 4500000
+   },
+   {
+    "id": "3KePcASD0NQ",
+    "title": "How Electricity Works - for visual learners",
+    "meta": [
+     "4.4M",
+     "1y ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 4400000
+   },
+   {
+    "id": "iIqhAX0I7lI",
+    "title": "Power Inverters Explained - How do they work working principle IGBT",
+    "meta": [
+     "4.1M",
+     "6y ago"
+    ],
+    "dur": "13:39",
+    "views_tab": 4099999
+   },
+   {
+    "id": "jdSKlg80DjU",
+    "title": "How Alternators Work - Automotive Electricity Generator",
+    "meta": [
+     "4M",
+     "6y ago"
+    ],
+    "dur": "18:15",
+    "views_tab": 4000000
+   },
+   {
+    "id": "d-j0onzzuNQ",
+    "title": "5V Regulator design tutorial - How it works, how to design PCB  altium",
+    "meta": [
+     "4M",
+     "5y ago"
+    ],
+    "dur": "16:02",
+    "views_tab": 4000000
+   },
+   {
+    "id": "yEPe7RDtkgo",
+    "title": "Variable Frequency Drives Explained - VFD Basics IGBT inverter",
+    "meta": [
+     "3.9M",
+     "6y ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 3900000
+   },
+   {
+    "id": "jcY4QN7awEc",
+    "title": "Transformers Explained - How transformers work",
+    "meta": [
+     "3.7M",
+     "4y ago"
+    ],
+    "dur": "16:33",
+    "views_tab": 3700000
+   },
+   {
+    "id": "W0_1xRqT8uU",
+    "title": "Single Phase Electricity Explained - wiring diagram energy meter",
+    "meta": [
+     "3.7M",
+     "7y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 3700000
+   },
+   {
+    "id": "Fwj_d3uO5g8",
+    "title": "Diodes Explained - The basics how diodes work working principle pn junction",
+    "meta": [
+     "3.6M",
+     "6y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 3600000
+   },
+   {
+    "id": "4lAyzRxsbDc",
+    "title": "How to use a multimeter like a pro! The Ultimate guide",
+    "meta": [
+     "3.5M",
+     "3y ago"
+    ],
+    "dur": "28:43",
+    "views_tab": 3500000
+   },
+   {
+    "id": "AwRJsze_9m4",
+    "title": "MOSFET Explained - How MOSFET Works",
+    "meta": [
+     "3.4M",
+     "2y ago"
+    ],
+    "dur": "20:14",
+    "views_tab": 3400000
+   },
+   {
+    "id": "uOtdWHMKhnw",
+    "title": "Programable Logic Controller Basics Explained - automation engineering",
+    "meta": [
+     "3.1M",
+     "5y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 3100000
+   },
+   {
+    "id": "-MLGr1_Fw0c",
+    "title": "How Solenoid Valves Work - Basics actuator control valve working principle",
+    "meta": [
+     "3.1M",
+     "7y ago"
+    ],
+    "dur": "7:31",
+    "views_tab": 3100000
+   },
+   {
+    "id": "PXNKkcB0pI4",
+    "title": "How Batteries Work - Battery electricity working principle",
+    "meta": [
+     "3.1M",
+     "6y ago"
+    ],
+    "dur": "19:01",
+    "views_tab": 3100000
+   },
+   {
+    "id": "UchitHGF4n8",
+    "title": "How does a Transformer work  - Working Principle electrical engineering",
+    "meta": [
+     "3M",
+     "8y ago"
+    ],
+    "dur": "6:30",
+    "views_tab": 3000000
+   },
+   {
+    "id": "_u5ORnhqn8g",
+    "title": "3 Way Switches Explained - How to wire 3 way light switch",
+    "meta": [
+     "3M",
+     "7y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 3000000
+   },
+   {
+    "id": "w82aSjLuD_8",
+    "title": "Voltage Explained - What is Voltage? Basic electricity  potential difference",
+    "meta": [
+     "2.9M",
+     "7y ago"
+    ],
+    "dur": "10:52",
+    "views_tab": 2900000
+   },
+   {
+    "id": "gqEu9t8HwW0",
+    "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+    "meta": [
+     "2.9M",
+     "2y ago"
+    ],
+    "dur": "18:23",
+    "views_tab": 2900000
+   },
+   {
+    "id": "QykwWs3L1W8",
+    "title": "Heat Pumps Explained - How Heat Pumps Work HVAC",
+    "meta": [
+     "2.8M",
+     "8y ago"
+    ],
+    "dur": "9:43",
+    "views_tab": 2800000
+   },
+   {
+    "id": "NUSNa-7Hecw",
+    "title": "Sub Panels Explained - Why are neutral and ground separated?",
+    "meta": [
+     "2.8M",
+     "3y ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 2800000
+   },
+   {
+    "id": "n594CkrP6xE",
+    "title": "How Relays Work - Basic working principle  electronics engineering  electrician amp",
+    "meta": [
+     "2.8M",
+     "6y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 2800000
+   },
+   {
+    "id": "HsLLq6Rm5tU",
+    "title": "Ohms Law Explained - The basics circuit theory",
+    "meta": [
+     "2.6M",
+     "6y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2600000
+   },
+   {
+    "id": "1WnGv-DPexc",
+    "title": "Servo Motors, how do they work?",
+    "meta": [
+     "2.5M",
+     "4y ago"
+    ],
+    "dur": "15:12",
+    "views_tab": 2500000
+   },
+   {
+    "id": "Yxt72aDjFgY",
+    "title": "Generate Electricity - How Solar Panels Work!",
+    "meta": [
+     "2.5M",
+     "3y ago"
+    ],
+    "dur": "22:35",
+    "views_tab": 2500000
+   },
+   {
+    "id": "0rzQhSXVq60",
+    "title": "Chiller Basics - How they work",
+    "meta": [
+     "2.3M",
+     "9y ago"
+    ],
+    "dur": "16:37",
+    "views_tab": 2300000
+   },
+   {
+    "id": "kcL2_D33k3o",
+    "title": "Electrical Current Explained - AC DC, fuses, circuit breakers, multimeter, GFCI, ampere",
+    "meta": [
+     "2.3M",
+     "6y ago"
+    ],
+    "dur": "18:45",
+    "views_tab": 2300000
+   },
+   {
+    "id": "CaaLw01fMo8",
+    "title": "Single Pole Switch Lighting Circuits - How to wire a light switch",
+    "meta": [
+     "2.3M",
+     "7y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 2300000
+   },
+   {
+    "id": "u0SsejDCVkU",
+    "title": "How 3 Phase Transformers Work \u2013 why we need them",
+    "meta": [
+     "2.2M",
+     "2y ago"
+    ],
+    "dur": "24:24",
+    "views_tab": 2200000
+   },
+   {
+    "id": "U8iWNaDuUek",
+    "title": "Pump Chart Basics Explained - Pump curve HVACR",
+    "meta": [
+     "2.2M",
+     "6y ago"
+    ],
+    "dur": "13:05",
+    "views_tab": 2200000
+   },
+   {
+    "id": "Tv_7XWf96gg",
+    "title": "Power Factor Explained - The basics what is power factor pf",
+    "meta": [
+     "2.1M",
+     "7y ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 2100000
+   },
+   {
+    "id": "8Posj4WMo0o",
+    "title": "What is CURRENT\u2013 electric current explained, electricity basics",
+    "meta": [
+     "2.1M",
+     "7y ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 2100000
+   },
+   {
+    "id": "UmWWZdJR1hQ",
+    "title": "How Chiller, AHU, RTU work - working principle Air handling unit, rooftop unit hvac system",
+    "meta": [
+     "2M",
+     "8y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 2000000
+   },
+   {
+    "id": "XpcCUtYzwy0",
+    "title": "Centrifugal Pump Basics - How centrifugal pumps work working principle hvacr",
+    "meta": [
+     "1.9M",
+     "6y ago"
+    ],
+    "dur": "10:36",
+    "views_tab": 1900000
+   },
+   {
+    "id": "7d4ymjU9NqM",
+    "title": "LED Circuit Design - How to design LED circuits",
+    "meta": [
+     "1.9M",
+     "5y ago"
+    ],
+    "dur": "21:44",
+    "views_tab": 1900000
+   },
+   {
+    "id": "RiRyzLl4Y8U",
+    "title": "Full Wave Bridge Rectifier + Capacitor filters +  half wave rectifier",
+    "meta": [
+     "1.9M",
+     "5y ago"
+    ],
+    "dur": "18:59",
+    "views_tab": 1900000
+   },
+   {
+    "id": "ucEiEic-kZ4",
+    "title": "Capacitor calculations - Basic calculations for capacitors in series and parallel",
+    "meta": [
+     "1.8M",
+     "5y ago"
+    ],
+    "dur": "16:16",
+    "views_tab": 1800000
+   },
+   {
+    "id": "Hf875eOVrVI",
+    "title": "How Wind Turbines Really Work: The Hidden Secrets",
+    "meta": [
+     "1.8M",
+     "2y ago"
+    ],
+    "dur": "22:03",
+    "views_tab": 1800000
+   },
+   {
+    "id": "VnPRX5zQWLw",
+    "title": "How A Car Battery Works - basic working principle",
+    "meta": [
+     "1.7M",
+     "6y ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 1700000
+   },
+   {
+    "id": "qthuFLNSrlg",
+    "title": "Three Phase Electricity Basics and Calculations electrical engineering",
+    "meta": [
+     "1.7M",
+     "7y ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 1700000
+   },
+   {
+    "id": "pnqXEnn3DNk",
+    "title": "Vacuum Pumps Explained - Basic working principle HVAC",
+    "meta": [
+     "1.7M",
+     "7y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 1700000
+   },
+   {
+    "id": "klggop60vlM",
+    "title": "Fundamentals of HVAC - Basics of HVAC",
+    "meta": [
+     "1.7M",
+     "9y ago"
+    ],
+    "dur": "58:24",
+    "views_tab": 1700000
+   },
+   {
+    "id": "C0iOzmJKOg8",
+    "title": "Ground Rod Explained",
+    "meta": [
+     "1.6M",
+     "4y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 1600000
+   },
+   {
+    "id": "3AVHqV_xASQ",
+    "title": "How Optocouplers work - opto-isolator solid state relays phototransistor",
+    "meta": [
+     "1.5M",
+     "5y ago"
+    ],
+    "dur": "18:07",
+    "views_tab": 1500000
+   },
+   {
+    "id": "O8M2z2hIbag",
+    "title": "How LED Works - Unravel the Mysteries of How LEDs Work!",
+    "meta": [
+     "1.5M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 1500000
+   },
+   {
+    "id": "GQatiB-JHdI",
+    "title": "How does an Electric Motor work? DC Motor explained",
+    "meta": [
+     "1.5M",
+     "6y ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 1500000
+   },
+   {
+    "id": "JBpQ9Fodz_Q",
+    "title": "Ground Wire Explained",
+    "meta": [
+     "1.4M",
+     "5y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 1400000
+   },
+   {
+    "id": "UBERduCp3Wo",
+    "title": "Main electrical panel explained - Load center - service panel",
+    "meta": [
+     "1.4M",
+     "5y ago"
+    ],
+    "dur": "10:19",
+    "views_tab": 1400000
+   },
+   {
+    "id": "BbmocfETTFo",
+    "title": "Solenoid Basics Explained - Working Principle",
+    "meta": [
+     "1.4M",
+     "7y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 1400000
+   },
+   {
+    "id": "KCiv8IAUkh8",
+    "title": "How Air Handling Units work   AHU working principle hvac ventilation",
+    "meta": [
+     "1.4M",
+     "8y ago"
+    ],
+    "dur": "13:02",
+    "views_tab": 1400000
+   },
+   {
+    "id": "oSLOHCOw3yg",
+    "title": "How TXV works - Thermostatic expansion valve working principle, HVAC Basics vrv heat pump",
+    "meta": [
+     "1.4M",
+     "8y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 1400000
+   },
+   {
+    "id": "1cvFlBLo4u0",
+    "title": "How a Chiller, Cooling Tower and Air Handling Unit work together",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "16:46",
+    "views_tab": 1300000
+   },
+   {
+    "id": "ln9VZIL8rVs",
+    "title": "How Inverters Work - Working principle rectifier",
+    "meta": [
+     "1.3M",
+     "8y ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 1300000
+   },
+   {
+    "id": "09Mpkjcr0bo",
+    "title": "How Stepper Motors Work - Electric motor",
+    "meta": [
+     "1.3M",
+     "5y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 1300000
+   },
+   {
+    "id": "J3kKNNizARc",
+    "title": "Clamp Meter Skills That Make You Look Like a Pro",
+    "meta": [
+     "1.2M",
+     "2y ago"
+    ],
+    "dur": "24:52",
+    "views_tab": 1200000
+   },
+   {
+    "id": "UPTU6nYSaMo",
+    "title": "Motor speed controller tutorial - PWM how to build",
+    "meta": [
+     "1.2M",
+     "5y ago"
+    ],
+    "dur": "17:33",
+    "views_tab": 1200000
+   },
+   {
+    "id": "vw-bAbjPTd8",
+    "title": "VAV Variable Air Volume - HVAC system basics hvacr",
+    "meta": [
+     "1.2M",
+     "6y ago"
+    ],
+    "dur": "13:53",
+    "views_tab": 1200000
+   },
+   {
+    "id": "5y_VBiTiuAY",
+    "title": "Ductwork sizing, calculation and design for efficiency - HVAC Basics + full worked example",
+    "meta": [
+     "1.1M",
+     "8y ago"
+    ],
+    "dur": "17:39",
+    "views_tab": 1100000
+   },
+   {
+    "id": "VV6tZ3Aqfuc",
+    "title": "DC Series circuits explained - The basics working principle",
+    "meta": [
+     "1.1M",
+     "6y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1100000
+   },
+   {
+    "id": "NIrKOVZrqnU",
+    "title": "Power Factor Explained \u2013 Your Electricity Bill Money Drain (Reactive Power)",
+    "meta": [
+     "1.1M",
+     "1y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 1100000
+   },
+   {
+    "id": "T99yH_gw3p8",
+    "title": "What is Torque? - Torque basics explained",
+    "meta": [
+     "1.1M",
+     "5y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 1100000
+   },
+   {
+    "id": "WhATjUHgzxQ",
+    "title": "AC Electrical Generator Basics - How electricity is generated",
+    "meta": [
+     "1M",
+     "5y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 1000000
+   },
+   {
+    "id": "JjElWj0fFX4",
+    "title": "Testing Batteries With a Multimeter - AA Battery Test",
+    "meta": [
+     "1M",
+     "4y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 1000000
+   },
+   {
+    "id": "5uyJezQNSHw",
+    "title": "DC parallel circuits explained  - The basics how parallel circuits work working principle",
+    "meta": [
+     "1M",
+     "6y ago"
+    ],
+    "dur": "16:00",
+    "views_tab": 1000000
+   },
+   {
+    "id": "HqH1MSWakgo",
+    "title": "What's inside a Thermal Expansion Valve TXV - how it works hvac",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 1000000
+   },
+   {
+    "id": "SMPhh8gT_1E",
+    "title": "What is a kWh - kilowatt hour  + CALCULATIONS \ud83d\udca1\ud83d\udcb0 energy bill",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 1000000
+   },
+   {
+    "id": "peVAaLIJJ6c",
+    "title": "Industrial Refrigeration system Basics - Ammonia refrigeration working principle",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 1000000
+   },
+   {
+    "id": "TxqPAPg4nb4",
+    "title": "Centrifugal Pump How Does It Work",
+    "meta": [
+     "994K",
+     "9y ago"
+    ],
+    "dur": "7:19",
+    "views_tab": 994000
+   },
+   {
+    "id": "Xb-MZMoUtcQ",
+    "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
+    "meta": [
+     "972K",
+     "2y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 972000
+   },
+   {
+    "id": "lMqoKLli0Y4",
+    "title": "Refrigerants How they work in HVAC systems",
+    "meta": [
+     "934K",
+     "9y ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 934000
+   },
+   {
+    "id": "lKwjouNT4C8",
+    "title": "How to use a Resistor - Basic electronics engineering",
+    "meta": [
+     "929K",
+     "5y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 929000
+   },
+   {
+    "id": "br3gkrXTmdY",
+    "title": "Plate Heat Exchanger, How it works - working principle hvac industrial engineering phx heat transfer",
+    "meta": [
+     "922K",
+     "9y ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 922000
+   },
+   {
+    "id": "Sh9aZ2uemk0",
+    "title": "Why This Circuit Works When It Shouldn\u2019t",
+    "meta": [
+     "922K",
+     "9mo ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 922000
+   },
+   {
+    "id": "v7NUi88Lxi8",
+    "title": "How Thermocouples Work - basic working principle + RTD",
+    "meta": [
+     "915K",
+     "6y ago"
+    ],
+    "dur": "9:05",
+    "views_tab": 915000
+   },
+   {
+    "id": "99vikjRrlgo",
+    "title": "Pump CALCULATIONS, Flow rate, RPM, Pressure, Power, Diameter",
+    "meta": [
+     "911K",
+     "9y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 911000
+   },
+   {
+    "id": "jYFVsUqY6zc",
+    "title": "Four Way Switching Explained - How to wire 4 way intermediate light switch",
+    "meta": [
+     "878K",
+     "7y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 878000
+   },
+   {
+    "id": "eTGkvddOtFc",
+    "title": "How Receptacles Work - The basic working principle explained  grounding",
+    "meta": [
+     "848K",
+     "7y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 848000
+   },
+   {
+    "id": "LaY47Qrfs0c",
+    "title": "How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)",
+    "meta": [
+     "848K",
+     "1y ago"
+    ],
+    "dur": "35:07",
+    "views_tab": 848000
+   },
+   {
+    "id": "MqM-U8bftCI",
+    "title": "Fan Coil Unit  - FCU HVAC",
+    "meta": [
+     "839K",
+     "9y ago"
+    ],
+    "dur": "13:19",
+    "views_tab": 839000
+   },
+   {
+    "id": "Ic5a9E2ykjo",
+    "title": "Air Cooled Chiller -  How they work, working principle, Chiller basics",
+    "meta": [
+     "808K",
+     "9y ago"
+    ],
+    "dur": "15:39",
+    "views_tab": 808000
+   },
+   {
+    "id": "jN7o7xvO6Pc",
+    "title": "Electrical Motor Connections",
+    "meta": [
+     "804K",
+     "5y ago"
+    ],
+    "dur": "6:16",
+    "views_tab": 804000
+   },
+   {
+    "id": "DKYguNg1vmk",
+    "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+    "meta": [
+     "748K",
+     "4mo ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 748000
+   },
+   {
+    "id": "8rGLrhVeZvw",
+    "title": "Shell and Tube Heat Exchanger basics explained",
+    "meta": [
+     "739K",
+     "4y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 739000
+   },
+   {
+    "id": "SfuSzBja8QA",
+    "title": "Air Conditioning System Basics  hvacr how does it work",
+    "meta": [
+     "714K",
+     "5y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 714000
+   },
+   {
+    "id": "NCvYPclQNWM",
+    "title": "HVAC Heat Exchangers Explained   The basics working principle how heat exchanger works",
+    "meta": [
+     "704K",
+     "8y ago"
+    ],
+    "dur": "19:17",
+    "views_tab": 704000
+   },
+   {
+    "id": "4i1XgcP1tmw",
+    "title": "VRF Systems Explained - Variable refrigerant flow basics HVAC",
+    "meta": [
+     "688K",
+     "4y ago"
+    ],
+    "dur": "13:53",
+    "views_tab": 688000
+   },
+   {
+    "id": "7eN1gxH6lE4",
+    "title": "Starter Motor Explained - How a car's electric starter motor works",
+    "meta": [
+     "683K",
+     "4y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 683000
+   },
+   {
+    "id": "0R84hLprO5s",
+    "title": "Absorption Chiller, How it works - working principle hvac",
+    "meta": [
+     "674K",
+     "9y ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 674000
+   },
+   {
+    "id": "hr1gUTix3_M",
+    "title": "Design and Build a PCB - SMD LED Learn electronics engineering",
+    "meta": [
+     "665K",
+     "4y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 665000
+   },
+   {
+    "id": "Qi0ynSQw-wc",
+    "title": "I Touched a Hot Wire to Ground\u2026 Here\u2019s What Happened",
+    "meta": [
+     "641K",
+     "2y ago"
+    ],
+    "dur": "12:54",
+    "views_tab": 641000
+   },
+   {
+    "id": "8XI6GVLjPng",
+    "title": "What is an Inverter and What Does It Do?",
+    "meta": [
+     "634K",
+     "3y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 634000
+   },
+   {
+    "id": "S3FB8GY2ZyQ",
+    "title": "How to test a car battery",
+    "meta": [
+     "624K",
+     "5y ago"
+    ],
+    "dur": "3:04",
+    "views_tab": 624000
+   },
+   {
+    "id": "jC3sbirGGAI",
+    "title": "Steam Heating Systems Basics  hvacr",
+    "meta": [
+     "622K",
+     "4y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 622000
+   },
+   {
+    "id": "3ZpE3vCjNqM",
+    "title": "Chiller Basics - How they work part 2",
+    "meta": [
+     "605K",
+     "9y ago"
+    ],
+    "dur": "41:45",
+    "views_tab": 605000
+   },
+   {
+    "id": "RwSga-zQy0I",
+    "title": "Time Delay Relays Explained - How timing relays work hvacr",
+    "meta": [
+     "601K",
+     "6y ago"
+    ],
+    "dur": "12:29",
+    "views_tab": 601000
+   },
+   {
+    "id": "4ROtKKuSaBI",
+    "title": "Gears Explained -  mechanical engineering",
+    "meta": [
+     "597K",
+     "5y ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 597000
+   },
+   {
+    "id": "w3Hfj2kMrGo",
+    "title": "Temperature Sensors Explained",
+    "meta": [
+     "577K",
+     "7y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 577000
+   },
+   {
+    "id": "WAUwttp1fNA",
+    "title": "Capacitors in Parallel - calculations  electronics engineering",
+    "meta": [
+     "576K",
+     "4y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 576000
+   },
+   {
+    "id": "zpyK5Hy8d0c",
+    "title": "NPN & PNP Transistors explained - electronics engineering",
+    "meta": [
+     "575K",
+     "5y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 575000
+   },
+   {
+    "id": "HBmOyeWtpHg",
+    "title": "Variable Air Volume - VAV system HVAC",
+    "meta": [
+     "567K",
+     "9y ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 567000
+   },
+   {
+    "id": "xBxyhxmhigc",
+    "title": "Data Center HVAC - Cooling systems cfd",
+    "meta": [
+     "525K",
+     "8y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 525000
+   },
+   {
+    "id": "1AaUK6pT_cE",
+    "title": "How does an Electric Motor work? (DC Motor)",
+    "meta": [
+     "520K",
+     "3y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 520000
+   },
+   {
+    "id": "MUh_dOcqgVw",
+    "title": "Conventional Current v Electron Flow - Electricity explained",
+    "meta": [
+     "516K",
+     "5y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 516000
+   },
+   {
+    "id": "vZkA0z9JRgw",
+    "title": "Data Center Cooling - how are data centre cooled cold aisle containment hvacr",
+    "meta": [
+     "515K",
+     "4y ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 515000
+   },
+   {
+    "id": "OUcKJuMSSW4",
+    "title": "AC Basics: Learn All About Alternating Current",
+    "meta": [
+     "511K",
+     "4y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 511000
+   },
+   {
+    "id": "gYcNDT1d30k",
+    "title": "Chiller Types and Application Guide - Chiller basics, working principle hvac process engineering",
+    "meta": [
+     "503K",
+     "8y ago"
+    ],
+    "dur": "13:39",
+    "views_tab": 503000
+   },
+   {
+    "id": "NbcJvGk72HY",
+    "title": "Electric Motor Build - Make a simple electric motor",
+    "meta": [
+     "501K",
+     "5y ago"
+    ],
+    "dur": "13:19",
+    "views_tab": 501000
+   },
+   {
+    "id": "UzHJWNL2OtM",
+    "title": "How Cooling Towers Work",
+    "meta": [
+     "494K",
+     "10y ago"
+    ],
+    "dur": "13:00",
+    "views_tab": 494000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "IzQOiDP77GY",
+    "title": "Arc length, degrees & radians tutorial with example",
+    "meta": [
+     "23K",
+     "11y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 23000
+   },
+   {
+    "id": "1cvFlBLo4u0",
+    "title": "How a Chiller, Cooling Tower and Air Handling Unit work together",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "16:46",
+    "views_tab": 1300000
+   },
+   {
+    "id": "Uv3GfEQhtPE",
+    "title": "Basic Refrigeration cycle - How it works",
+    "meta": [
+     "408K",
+     "10y ago"
+    ],
+    "dur": "12:44",
+    "views_tab": 408000
+   },
+   {
+    "id": "yXitFJgvr7g",
+    "title": "Calculate the Area of a circle from Radius or Diameter",
+    "meta": [
+     "32K",
+     "10y ago"
+    ],
+    "dur": "6:15",
+    "views_tab": 32000
+   },
+   {
+    "id": "cpV2lblhC5M",
+    "title": "How to calculate the circumference of a circle",
+    "meta": [
+     "14K",
+     "10y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 14000
+   },
+   {
+    "id": "UzHJWNL2OtM",
+    "title": "How Cooling Towers Work",
+    "meta": [
+     "494K",
+     "10y ago"
+    ],
+    "dur": "13:00",
+    "views_tab": 494000
+   },
+   {
+    "id": "0rzQhSXVq60",
+    "title": "Chiller Basics - How they work",
+    "meta": [
+     "2.3M",
+     "9y ago"
+    ],
+    "dur": "16:37",
+    "views_tab": 2300000
+   },
+   {
+    "id": "3ZpE3vCjNqM",
+    "title": "Chiller Basics - How they work part 2",
+    "meta": [
+     "605K",
+     "9y ago"
+    ],
+    "dur": "41:45",
+    "views_tab": 605000
+   },
+   {
+    "id": "klggop60vlM",
+    "title": "Fundamentals of HVAC - Basics of HVAC",
+    "meta": [
+     "1.7M",
+     "9y ago"
+    ],
+    "dur": "58:24",
+    "views_tab": 1700000
+   },
+   {
+    "id": "f-N4isgQRGQ",
+    "title": "Chiller - Cooling Capacity Control",
+    "meta": [
+     "95K",
+     "9y ago"
+    ],
+    "dur": "15:38",
+    "views_tab": 95000
+   },
+   {
+    "id": "PT0UIqAGacg",
+    "title": "Centrifugal Compressors - Chillers HVAC",
+    "meta": [
+     "329K",
+     "9y ago"
+    ],
+    "dur": "21:34",
+    "views_tab": 329000
+   },
+   {
+    "id": "W3w7FpX9j9k",
+    "title": "\ud83d\udd27Chiller - Evaporators",
+    "meta": [
+     "434K",
+     "9y ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 434000
+   },
+   {
+    "id": "p5uuPsyqnwU",
+    "title": "\ud83d\udd27Chillers - Condensers",
+    "meta": [
+     "250K",
+     "9y ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 250000
+   },
+   {
+    "id": "HBmOyeWtpHg",
+    "title": "Variable Air Volume - VAV system HVAC",
+    "meta": [
+     "567K",
+     "9y ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 567000
+   },
+   {
+    "id": "XgQ3v6lvoZQ",
+    "title": "Constant Air Volume - CAV HVAC System",
+    "meta": [
+     "145K",
+     "9y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 145000
+   },
+   {
+    "id": "QlKSGDgqGF0",
+    "title": "How Chiller works - Design Data",
+    "meta": [
+     "87K",
+     "9y ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 87000
+   },
+   {
+    "id": "DQK_-vxObiw",
+    "title": "Chiller - Surge",
+    "meta": [
+     "203K",
+     "9y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 203000
+   },
+   {
+    "id": "OghkQFVKmPQ",
+    "title": "Chiller - Controls",
+    "meta": [
+     "114K",
+     "9y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 114000
+   },
+   {
+    "id": "MqM-U8bftCI",
+    "title": "Fan Coil Unit  - FCU HVAC",
+    "meta": [
+     "839K",
+     "9y ago"
+    ],
+    "dur": "13:19",
+    "views_tab": 839000
+   },
+   {
+    "id": "dXiV5YzTZQ4",
+    "title": "Chiller - Expansion Valve HVAC",
+    "meta": [
+     "216K",
+     "9y ago"
+    ],
+    "dur": "12:44",
+    "views_tab": 216000
+   },
+   {
+    "id": "qxRHCbitLzI",
+    "title": "Chiller - Oil lubrication and cooling",
+    "meta": [
+     "107K",
+     "9y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 107000
+   },
+   {
+    "id": "7Bah__spkTY",
+    "title": "\ud83d\udd27 Chiller - Compressor Types",
+    "meta": [
+     "115K",
+     "9y ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 115000
+   },
+   {
+    "id": "wsKZEbq78Wg",
+    "title": "HVAC - AHU Filters",
+    "meta": [
+     "116K",
+     "9y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 116000
+   },
+   {
+    "id": "lDeuIQ4VeWk",
+    "title": "How a boiler, fan coil unit, air handling unit and pump work together HVAC - Heating System \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "meta": [
+     "430K",
+     "9y ago"
+    ],
+    "dur": "13:07",
+    "views_tab": 430000
+   },
+   {
+    "id": "KU_AypZ-BnU",
+    "title": "HVAC Primary & secondary circuits",
+    "meta": [
+     "142K",
+     "9y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 142000
+   },
+   {
+    "id": "oSs-4Ptcfhk",
+    "title": "HVAC - Cooling coil + Calculations \u2744\ufe0f\u2744\ufe0f\u2744\ufe0f",
+    "meta": [
+     "107K",
+     "9y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 107000
+   },
+   {
+    "id": "G53tTKoakcY",
+    "title": "How A Heat Pump Works - HVAC",
+    "meta": [
+     "358K",
+     "9y ago"
+    ],
+    "dur": "11:33",
+    "views_tab": 358000
+   },
+   {
+    "id": "brA0pjWYBBk",
+    "title": "How Heat Pumps Work - ADVANCED (design data)",
+    "meta": [
+     "48K",
+     "9y ago"
+    ],
+    "dur": "9:54",
+    "views_tab": 48000
+   },
+   {
+    "id": "r8n1_6qmsKQ",
+    "title": "Reversing valve - Heat Pump. How it works, Operation.",
+    "meta": [
+     "331K",
+     "9y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 331000
+   },
+   {
+    "id": "TxqPAPg4nb4",
+    "title": "Centrifugal Pump How Does It Work",
+    "meta": [
+     "994K",
+     "9y ago"
+    ],
+    "dur": "7:19",
+    "views_tab": 994000
+   },
+   {
+    "id": "N7TZ4gm3aUg",
+    "title": "How does an Induction Motor work how it works 3 phase motor ac motor",
+    "meta": [
+     "475K",
+     "9y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 475000
+   },
+   {
+    "id": "br3gkrXTmdY",
+    "title": "Plate Heat Exchanger, How it works - working principle hvac industrial engineering phx heat transfer",
+    "meta": [
+     "922K",
+     "9y ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 922000
+   },
+   {
+    "id": "rl-HQRzL-kg",
+    "title": "Fan & motor CALCULATIONS, Pulley size, RPM, air flow rate cfm hvac rtu",
+    "meta": [
+     "291K",
+     "9y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 291000
+   },
+   {
+    "id": "99vikjRrlgo",
+    "title": "Pump CALCULATIONS, Flow rate, RPM, Pressure, Power, Diameter",
+    "meta": [
+     "911K",
+     "9y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 911000
+   },
+   {
+    "id": "yxCBhD9nguw",
+    "title": "Pulley Belt CALCULATIONS - Belt length, distance between pulley wheels",
+    "meta": [
+     "241K",
+     "9y ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 241000
+   },
+   {
+    "id": "BZxXIdxVKeY",
+    "title": "CALCULATE Chiller cooling capacity - Cooling Load kW BTU Refrigeration Ton",
+    "meta": [
+     "316K",
+     "9y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 316000
+   },
+   {
+    "id": "h5ILlZ8nyHE",
+    "title": "Chiller Efficiency CALCULATION - COP Coefficient of performance",
+    "meta": [
+     "110K",
+     "9y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 110000
+   },
+   {
+    "id": "Ic5a9E2ykjo",
+    "title": "Air Cooled Chiller -  How they work, working principle, Chiller basics",
+    "meta": [
+     "808K",
+     "9y ago"
+    ],
+    "dur": "15:39",
+    "views_tab": 808000
+   },
+   {
+    "id": "r1zNqzmGuPw",
+    "title": "How Air Cooled Chiller Works - Advanced",
+    "meta": [
+     "112K",
+     "9y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 112000
+   },
+   {
+    "id": "TPabv9iDENc",
+    "title": "How to DESIGN and ANALYSE a refrigeration system",
+    "meta": [
+     "227K",
+     "9y ago"
+    ],
+    "dur": "18:27",
+    "views_tab": 227000
+   },
+   {
+    "id": "0R84hLprO5s",
+    "title": "Absorption Chiller, How it works - working principle hvac",
+    "meta": [
+     "674K",
+     "9y ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 674000
+   },
+   {
+    "id": "Zu0LVVNNVSw",
+    "title": "Chiller faults - troubleshooting",
+    "meta": [
+     "229K",
+     "9y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 229000
+   },
+   {
+    "id": "lMqoKLli0Y4",
+    "title": "Refrigerants How they work in HVAC systems",
+    "meta": [
+     "934K",
+     "9y ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 934000
+   },
+   {
+    "id": "J77a0keM2Yk",
+    "title": "Refrigerant Types, Issues and Future",
+    "meta": [
+     "122K",
+     "9y ago"
+    ],
+    "dur": "12:41",
+    "views_tab": 122000
+   },
+   {
+    "id": "1OqgLcU2buQ",
+    "title": "Refrigerant Retrofit Guide",
+    "meta": [
+     "87K",
+     "9y ago"
+    ],
+    "dur": "9:39",
+    "views_tab": 87000
+   },
+   {
+    "id": "xEzz-JkPeLQ",
+    "title": "Engineering a Top Secret WW2 bunker industrial engineering ventilation hvac",
+    "meta": [
+     "26K",
+     "9y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 26000
+   },
+   {
+    "id": "mc979OhitAg",
+    "title": "How ELECTRICITY works - working principle",
+    "meta": [
+     "7.9M",
+     "9y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 7900000
+   },
+   {
+    "id": "SMPhh8gT_1E",
+    "title": "What is a kWh - kilowatt hour  + CALCULATIONS \ud83d\udca1\ud83d\udcb0 energy bill",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 1000000
+   },
+   {
+    "id": "QqP5aY6liAg",
+    "title": "Refrigeration Design Software - Coolselector 2",
+    "meta": [
+     "79K",
+     "9y ago"
+    ],
+    "dur": "16:10",
+    "views_tab": 79000
+   },
+   {
+    "id": "RIy-isS73Uw",
+    "title": "What is a Refrigeration Ton + CALCULATIONS chiller hvac btu kw",
+    "meta": [
+     "79K",
+     "9y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 79000
+   },
+   {
+    "id": "oSLOHCOw3yg",
+    "title": "How TXV works - Thermostatic expansion valve working principle, HVAC Basics vrv heat pump",
+    "meta": [
+     "1.4M",
+     "8y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 1400000
+   },
+   {
+    "id": "tA1_V6-dThM",
+    "title": "Chiller flow rate measurement and calculation, chilled and condenser water",
+    "meta": [
+     "190K",
+     "8y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 190000
+   },
+   {
+    "id": "UmWWZdJR1hQ",
+    "title": "How Chiller, AHU, RTU work - working principle Air handling unit, rooftop unit hvac system",
+    "meta": [
+     "2M",
+     "8y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 2000000
+   },
+   {
+    "id": "ln9VZIL8rVs",
+    "title": "How Inverters Work - Working principle rectifier",
+    "meta": [
+     "1.3M",
+     "8y ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 1300000
+   },
+   {
+    "id": "0gv2tJf7nwo",
+    "title": "Cooling Load Calculation -  Cold Room hvac",
+    "meta": [
+     "473K",
+     "8y ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 473000
+   },
+   {
+    "id": "4oRT7PoXSS0",
+    "title": "How Three Phase Electricity works - The basics explained",
+    "meta": [
+     "7.9M",
+     "8y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 7900000
+   },
+   {
+    "id": "r0Ej0xB-0C8",
+    "title": "What is Density? - Density Explained",
+    "meta": [
+     "133K",
+     "8y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 133000
+   },
+   {
+    "id": "gYcNDT1d30k",
+    "title": "Chiller Types and Application Guide - Chiller basics, working principle hvac process engineering",
+    "meta": [
+     "503K",
+     "8y ago"
+    ],
+    "dur": "13:39",
+    "views_tab": 503000
+   },
+   {
+    "id": "xrsbujk4u6k",
+    "title": "Micro Plate Heat Exchanger (MPHE) - How they work, working principle hvac phx",
+    "meta": [
+     "80K",
+     "8y ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 80000
+   },
+   {
+    "id": "K0xAKzdROEg",
+    "title": "Essential Chiller Terminology HVAC delta t",
+    "meta": [
+     "348K",
+     "8y ago"
+    ],
+    "dur": "19:56",
+    "views_tab": 348000
+   },
+   {
+    "id": "ak51DHAiuWo",
+    "title": "Chilled Water Schematics - How to read hvac engineering drawing diagram",
+    "meta": [
+     "239K",
+     "8y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 239000
+   },
+   {
+    "id": "UchitHGF4n8",
+    "title": "How does a Transformer work  - Working Principle electrical engineering",
+    "meta": [
+     "3M",
+     "8y ago"
+    ],
+    "dur": "6:30",
+    "views_tab": 3000000
+   },
+   {
+    "id": "xBxyhxmhigc",
+    "title": "Data Center HVAC - Cooling systems cfd",
+    "meta": [
+     "525K",
+     "8y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 525000
+   },
+   {
+    "id": "8x3MiO5XjhY",
+    "title": "Chiller Efficiency Improvements hvac chillers",
+    "meta": [
+     "138K",
+     "8y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 138000
+   },
+   {
+    "id": "YMwb3-N_Lu8",
+    "title": "Calculate savings from chiller replacement - How to IPLV, NPLV, COP, kW/Ton, EER efficiency",
+    "meta": [
+     "38K",
+     "8y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 38000
+   },
+   {
+    "id": "XHtRHiKIsEU",
+    "title": "How EEV works - Electronic Expansion Valve working principle, HVAC Basics",
+    "meta": [
+     "487K",
+     "8y ago"
+    ],
+    "dur": "8:33",
+    "views_tab": 487000
+   },
+   {
+    "id": "5y_VBiTiuAY",
+    "title": "Ductwork sizing, calculation and design for efficiency - HVAC Basics + full worked example",
+    "meta": [
+     "1.1M",
+     "8y ago"
+    ],
+    "dur": "17:39",
+    "views_tab": 1100000
+   },
+   {
+    "id": "3I8Uz4x8umQ",
+    "title": "How Multi ejectors work - working principle CO2 refrigeration",
+    "meta": [
+     "67K",
+     "8y ago"
+    ],
+    "dur": "9:12",
+    "views_tab": 67000
+   },
+   {
+    "id": "NCvYPclQNWM",
+    "title": "HVAC Heat Exchangers Explained   The basics working principle how heat exchanger works",
+    "meta": [
+     "704K",
+     "8y ago"
+    ],
+    "dur": "19:17",
+    "views_tab": 704000
+   },
+   {
+    "id": "r67f4V6pOOw",
+    "title": "Plate Heat Exchanger Applications and working principle hvac heat transfer",
+    "meta": [
+     "199K",
+     "8y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 199000
+   },
+   {
+    "id": "KCiv8IAUkh8",
+    "title": "How Air Handling Units work   AHU working principle hvac ventilation",
+    "meta": [
+     "1.4M",
+     "8y ago"
+    ],
+    "dur": "13:02",
+    "views_tab": 1400000
+   },
+   {
+    "id": "zltAGxk-qSU",
+    "title": "Rooftop Units explained - RTU working principle hvac",
+    "meta": [
+     "436K",
+     "8y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 436000
+   },
+   {
+    "id": "QykwWs3L1W8",
+    "title": "Heat Pumps Explained - How Heat Pumps Work HVAC",
+    "meta": [
+     "2.8M",
+     "8y ago"
+    ],
+    "dur": "9:43",
+    "views_tab": 2800000
+   },
+   {
+    "id": "Tv_7XWf96gg",
+    "title": "Power Factor Explained - The basics what is power factor pf",
+    "meta": [
+     "2.1M",
+     "7y ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 2100000
+   },
+   {
+    "id": "U3iL172VjAc",
+    "title": "Heat Pump Guide, how to select, compare and efficiency rating hvac",
+    "meta": [
+     "194K",
+     "7y ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 194000
+   },
+   {
+    "id": "w82aSjLuD_8",
+    "title": "Voltage Explained - What is Voltage? Basic electricity  potential difference",
+    "meta": [
+     "2.9M",
+     "7y ago"
+    ],
+    "dur": "10:52",
+    "views_tab": 2900000
+   },
+   {
+    "id": "8Posj4WMo0o",
+    "title": "What is CURRENT\u2013 electric current explained, electricity basics",
+    "meta": [
+     "2.1M",
+     "7y ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 2100000
+   },
+   {
+    "id": "peVAaLIJJ6c",
+    "title": "Industrial Refrigeration system Basics - Ammonia refrigeration working principle",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 1000000
+   },
+   {
+    "id": "F2LqwLHo4Ls",
+    "title": "Convert Sea Water to Fresh Water, Why we need to - isave filter salt water",
+    "meta": [
+     "43K",
+     "7y ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 43000
+   },
+   {
+    "id": "R8_j4nI_ThI",
+    "title": "What's Inside A Filter Drier - How it works  hvac",
+    "meta": [
+     "211K",
+     "7y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 211000
+   },
+   {
+    "id": "HqH1MSWakgo",
+    "title": "What's inside a Thermal Expansion Valve TXV - how it works hvac",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 1000000
+   },
+   {
+    "id": "opoEswRp_jg",
+    "title": "Two Way Switching Explained - How to wire 2 way light switch",
+    "meta": [
+     "9.2M",
+     "7y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 9200000
+   },
+   {
+    "id": "qthuFLNSrlg",
+    "title": "Three Phase Electricity Basics and Calculations electrical engineering",
+    "meta": [
+     "1.7M",
+     "7y ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 1700000
+   },
+   {
+    "id": "jYFVsUqY6zc",
+    "title": "Four Way Switching Explained - How to wire 4 way intermediate light switch",
+    "meta": [
+     "878K",
+     "7y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 878000
+   },
+   {
+    "id": "W0_1xRqT8uU",
+    "title": "Single Phase Electricity Explained - wiring diagram energy meter",
+    "meta": [
+     "3.7M",
+     "7y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 3700000
+   },
+   {
+    "id": "-MLGr1_Fw0c",
+    "title": "How Solenoid Valves Work - Basics actuator control valve working principle",
+    "meta": [
+     "3.1M",
+     "7y ago"
+    ],
+    "dur": "7:31",
+    "views_tab": 3100000
+   },
+   {
+    "id": "BbmocfETTFo",
+    "title": "Solenoid Basics Explained - Working Principle",
+    "meta": [
+     "1.4M",
+     "7y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 1400000
+   },
+   {
+    "id": "fJeRabV5hNU",
+    "title": "120V 240V Electricity explained - Split phase 3 wire electrician",
+    "meta": [
+     "5.5M",
+     "7y ago"
+    ],
+    "dur": "12:24",
+    "views_tab": 5500000
+   },
+   {
+    "id": "_u5ORnhqn8g",
+    "title": "3 Way Switches Explained - How to wire 3 way light switch",
+    "meta": [
+     "3M",
+     "7y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 3000000
+   },
+   {
+    "id": "P-W42tk-fWc",
+    "title": "Ground Neutral and Hot wires explained - electrical engineering grounding ground fault",
+    "meta": [
+     "4.9M",
+     "7y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 4900000
+   },
+   {
+    "id": "gKc1EwO6VeE",
+    "title": "Refrigeration Design Software - Coolselector\u00ae2 HVACR",
+    "meta": [
+     "45K",
+     "7y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 45000
+   },
+   {
+    "id": "h89TTwlNnpY",
+    "title": "Star Delta Starter Explained - Working Principle",
+    "meta": [
+     "4.6M",
+     "7y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 4600000
+   },
+   {
+    "id": "w3Hfj2kMrGo",
+    "title": "Temperature Sensors Explained",
+    "meta": [
+     "577K",
+     "7y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 577000
+   },
+   {
+    "id": "yEWT_XmqCtQ",
+    "title": "Thermal Comfort in Buildings Explained - HVACR Design",
+    "meta": [
+     "88K",
+     "7y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 88000
+   },
+   {
+    "id": "X4EUwTwZ110",
+    "title": "Capacitors Explained - The basics how capacitors work working principle",
+    "meta": [
+     "11M",
+     "7y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 11000000
+   },
+   {
+    "id": "CaaLw01fMo8",
+    "title": "Single Pole Switch Lighting Circuits - How to wire a light switch",
+    "meta": [
+     "2.3M",
+     "7y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 2300000
+   },
+   {
+    "id": "eTGkvddOtFc",
+    "title": "How Receptacles Work - The basic working principle explained  grounding",
+    "meta": [
+     "848K",
+     "7y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 848000
+   },
+   {
+    "id": "KSylo01n5FY",
+    "title": "Inductors Explained - The basics how inductors work working principle",
+    "meta": [
+     "5.5M",
+     "7y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 5500000
+   },
+   {
+    "id": "pnqXEnn3DNk",
+    "title": "Vacuum Pumps Explained - Basic working principle HVAC",
+    "meta": [
+     "1.7M",
+     "7y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 1700000
+   },
+   {
+    "id": "Pv-dVXb3oi8",
+    "title": "Purging Industrial Refrigeration Systems -  ammonia  industrial engineering",
+    "meta": [
+     "103K",
+     "6y ago"
+    ],
+    "dur": "5:52",
+    "views_tab": 103000
+   },
+   {
+    "id": "VV6tZ3Aqfuc",
+    "title": "DC Series circuits explained - The basics working principle",
+    "meta": [
+     "1.1M",
+     "6y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1100000
+   },
+   {
+    "id": "HsLLq6Rm5tU",
+    "title": "Ohms Law Explained - The basics circuit theory",
+    "meta": [
+     "2.6M",
+     "6y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2600000
+   },
+   {
+    "id": "xwvkojKiLJM",
+    "title": "Supermarket HVAC Basics Explained - Refrigeration / Ventilation hvac building services",
+    "meta": [
+     "155K",
+     "6y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 155000
+   },
+   {
+    "id": "5uyJezQNSHw",
+    "title": "DC parallel circuits explained  - The basics how parallel circuits work working principle",
+    "meta": [
+     "1M",
+     "6y ago"
+    ],
+    "dur": "16:00",
+    "views_tab": 1000000
+   },
+   {
+    "id": "Fwj_d3uO5g8",
+    "title": "Diodes Explained - The basics how diodes work working principle pn junction",
+    "meta": [
+     "3.6M",
+     "6y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 3600000
+   },
+   {
+    "id": "nAM5xU_KfzU",
+    "title": "PICV Explained - Pressure Independent Control Valves",
+    "meta": [
+     "266K",
+     "6y ago"
+    ],
+    "dur": "10:52",
+    "views_tab": 266000
+   },
+   {
+    "id": "XpcCUtYzwy0",
+    "title": "Centrifugal Pump Basics - How centrifugal pumps work working principle hvacr",
+    "meta": [
+     "1.9M",
+     "6y ago"
+    ],
+    "dur": "10:36",
+    "views_tab": 1900000
+   },
+   {
+    "id": "U8iWNaDuUek",
+    "title": "Pump Chart Basics Explained - Pump curve HVACR",
+    "meta": [
+     "2.2M",
+     "6y ago"
+    ],
+    "dur": "13:05",
+    "views_tab": 2200000
+   },
+   {
+    "id": "yEPe7RDtkgo",
+    "title": "Variable Frequency Drives Explained - VFD Basics IGBT inverter",
+    "meta": [
+     "3.9M",
+     "6y ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 3900000
+   },
+   {
+    "id": "0GAPchzqLwg",
+    "title": "Liquid Level Switches Explained - Industrial Refrigeration Ammonia  industrial engineering",
+    "meta": [
+     "81K",
+     "6y ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 81000
+   },
+   {
+    "id": "iIqhAX0I7lI",
+    "title": "Power Inverters Explained - How do they work working principle IGBT",
+    "meta": [
+     "4.1M",
+     "6y ago"
+    ],
+    "dur": "13:39",
+    "views_tab": 4099999
+   },
+   {
+    "id": "GQatiB-JHdI",
+    "title": "How does an Electric Motor work? DC Motor explained",
+    "meta": [
+     "1.5M",
+     "6y ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 1500000
+   },
+   {
+    "id": "onIMNox24NI",
+    "title": "Circulating Pump Basics - How a pump works HVAC heating pump working principle",
+    "meta": [
+     "181K",
+     "6y ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 181000
+   },
+   {
+    "id": "kJ7uQnXiP8Y",
+    "title": "DIY Centrifugal Pump - How to make a pump from wood and optimise with CFD",
+    "meta": [
+     "101K",
+     "6y ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 101000
+   },
+   {
+    "id": "LC5o2jC3yaw",
+    "title": "Why Electronics Need Cooling - transistor heat sink",
+    "meta": [
+     "351K",
+     "6y ago"
+    ],
+    "dur": "12:44",
+    "views_tab": 351000
+   },
+   {
+    "id": "PXNKkcB0pI4",
+    "title": "How Batteries Work - Battery electricity working principle",
+    "meta": [
+     "3.1M",
+     "6y ago"
+    ],
+    "dur": "19:01",
+    "views_tab": 3100000
+   },
+   {
+    "id": "ULvR2FF34BQ",
+    "title": "Unlocking the Mystery: How Padlocks Work",
+    "meta": [
+     "201K",
+     "6y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 201000
+   },
+   {
+    "id": "VnPRX5zQWLw",
+    "title": "How A Car Battery Works - basic working principle",
+    "meta": [
+     "1.7M",
+     "6y ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 1700000
+   },
+   {
+    "id": "jdSKlg80DjU",
+    "title": "How Alternators Work - Automotive Electricity Generator",
+    "meta": [
+     "4M",
+     "6y ago"
+    ],
+    "dur": "18:15",
+    "views_tab": 4000000
+   },
+   {
+    "id": "kcL2_D33k3o",
+    "title": "Electrical Current Explained - AC DC, fuses, circuit breakers, multimeter, GFCI, ampere",
+    "meta": [
+     "2.3M",
+     "6y ago"
+    ],
+    "dur": "18:45",
+    "views_tab": 2300000
+   }
+  ]
+ }
+}

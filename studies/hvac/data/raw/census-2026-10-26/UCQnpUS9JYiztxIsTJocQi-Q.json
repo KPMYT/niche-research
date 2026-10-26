@@ -1,0 +1,545 @@
+{
+ "key": "UCQnpUS9JYiztxIsTJocQi-Q",
+ "channel": "Dennis Kubiak",
+ "id": "UCQnpUS9JYiztxIsTJocQi-Q",
+ "subs": "28 subscribers",
+ "videos": "13 videos",
+ "pulled": "2026-10-26T06:56:23.892150+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "WbgW8kFMM7w",
+    "title": "The ONE Big Mistake That\u2019s Making Your House Colder",
+    "meta": [
+     "153",
+     "2d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 153
+   },
+   {
+    "id": "VjPJWYTTWME",
+    "title": "Stop Wasting Money: Most Homeowners Are Sealing Drafts Wrong",
+    "meta": [
+     "98",
+     "3d ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 98
+   },
+   {
+    "id": "fD69L_SaSMU",
+    "title": "The Attic Insulation Problem Nobody\u2019s Talking About",
+    "meta": [
+     "162",
+     "5d ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 162
+   },
+   {
+    "id": "4D9Jgc-IoGM",
+    "title": "This Cheap Rim Joist Trick Keeps Heat Inside All Winter",
+    "meta": [
+     "3.3K",
+     "6d ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 3300
+   },
+   {
+    "id": "WPttGy6thzc",
+    "title": "5 Insulation Mistakes Contractors Hope You Keep Making",
+    "meta": [
+     "1.6K",
+     "7d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 1600
+   },
+   {
+    "id": "MphZaaeGk2c",
+    "title": "Adding More Insulation Is NOT Saving You Money. Do This Instead And Your Bill Drops",
+    "meta": [
+     "2.7K",
+     "8d ago"
+    ],
+    "dur": "11:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "8-munrhWbXM",
+    "title": "15 Old-House Air Sealing Tricks Modern Builders Quietly Abandoned",
+    "meta": [
+     "217",
+     "9d ago"
+    ],
+    "dur": "13:42",
+    "views_tab": 217
+   },
+   {
+    "id": "ay6_DywifsM",
+    "title": "New Windows vs Insulation vs Air Sealing: The Math Nobody Shows You (The Real Cost Over 10 Years)",
+    "meta": [
+     "342",
+     "11d ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 342
+   },
+   {
+    "id": "_WPGy_d0Txk",
+    "title": "Why Your Floors Feel Cold Every Winter (It's Not the Furnace)",
+    "meta": [
+     "95",
+     "12d ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 95
+   },
+   {
+    "id": "BNaE5moqCx8",
+    "title": "This $11 Baseboard Trick Fixes the Coldest Room in Your House \u2014 Why Don\u2019t Contractors Tell You?",
+    "meta": [
+     "81",
+     "13d ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 81
+   },
+   {
+    "id": "DRxLNp8_IFE",
+    "title": "THIS Is Why Your Heat Bill Is So High \u2014 And the $30 Fix Energy Auditors Knew",
+    "meta": [
+     "247",
+     "2w ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 247
+   },
+   {
+    "id": "x6CvWT6wgNw",
+    "title": "11 Things That Actually Cut a Heating Bill in Half (Measured)",
+    "meta": [
+     "373",
+     "2w ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 373
+   },
+   {
+    "id": "SNbYMNcMXtM",
+    "title": "showing my pretty feet on the living room rug",
+    "meta": [
+     "42",
+     "1mo ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 42
+   }
+  ],
+  "Latest": [
+   {
+    "id": "WbgW8kFMM7w",
+    "title": "The ONE Big Mistake That\u2019s Making Your House Colder",
+    "meta": [
+     "153",
+     "2d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 153
+   },
+   {
+    "id": "VjPJWYTTWME",
+    "title": "Stop Wasting Money: Most Homeowners Are Sealing Drafts Wrong",
+    "meta": [
+     "98",
+     "3d ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 98
+   },
+   {
+    "id": "fD69L_SaSMU",
+    "title": "The Attic Insulation Problem Nobody\u2019s Talking About",
+    "meta": [
+     "162",
+     "5d ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 162
+   },
+   {
+    "id": "4D9Jgc-IoGM",
+    "title": "This Cheap Rim Joist Trick Keeps Heat Inside All Winter",
+    "meta": [
+     "3.3K",
+     "6d ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 3300
+   },
+   {
+    "id": "WPttGy6thzc",
+    "title": "5 Insulation Mistakes Contractors Hope You Keep Making",
+    "meta": [
+     "1.6K",
+     "7d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 1600
+   },
+   {
+    "id": "MphZaaeGk2c",
+    "title": "Adding More Insulation Is NOT Saving You Money. Do This Instead And Your Bill Drops",
+    "meta": [
+     "2.7K",
+     "8d ago"
+    ],
+    "dur": "11:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "8-munrhWbXM",
+    "title": "15 Old-House Air Sealing Tricks Modern Builders Quietly Abandoned",
+    "meta": [
+     "217",
+     "9d ago"
+    ],
+    "dur": "13:42",
+    "views_tab": 217
+   },
+   {
+    "id": "ay6_DywifsM",
+    "title": "New Windows vs Insulation vs Air Sealing: The Math Nobody Shows You (The Real Cost Over 10 Years)",
+    "meta": [
+     "342",
+     "11d ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 342
+   },
+   {
+    "id": "_WPGy_d0Txk",
+    "title": "Why Your Floors Feel Cold Every Winter (It's Not the Furnace)",
+    "meta": [
+     "95",
+     "12d ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 95
+   },
+   {
+    "id": "BNaE5moqCx8",
+    "title": "This $11 Baseboard Trick Fixes the Coldest Room in Your House \u2014 Why Don\u2019t Contractors Tell You?",
+    "meta": [
+     "81",
+     "13d ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 81
+   },
+   {
+    "id": "DRxLNp8_IFE",
+    "title": "THIS Is Why Your Heat Bill Is So High \u2014 And the $30 Fix Energy Auditors Knew",
+    "meta": [
+     "247",
+     "2w ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 247
+   },
+   {
+    "id": "x6CvWT6wgNw",
+    "title": "11 Things That Actually Cut a Heating Bill in Half (Measured)",
+    "meta": [
+     "373",
+     "2w ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 373
+   },
+   {
+    "id": "SNbYMNcMXtM",
+    "title": "showing my pretty feet on the living room rug",
+    "meta": [
+     "42",
+     "1mo ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 42
+   }
+  ],
+  "Popular": [
+   {
+    "id": "4D9Jgc-IoGM",
+    "title": "This Cheap Rim Joist Trick Keeps Heat Inside All Winter",
+    "meta": [
+     "3.3K",
+     "6d ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 3300
+   },
+   {
+    "id": "MphZaaeGk2c",
+    "title": "Adding More Insulation Is NOT Saving You Money. Do This Instead And Your Bill Drops",
+    "meta": [
+     "2.7K",
+     "8d ago"
+    ],
+    "dur": "11:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "WPttGy6thzc",
+    "title": "5 Insulation Mistakes Contractors Hope You Keep Making",
+    "meta": [
+     "1.6K",
+     "7d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 1600
+   },
+   {
+    "id": "x6CvWT6wgNw",
+    "title": "11 Things That Actually Cut a Heating Bill in Half (Measured)",
+    "meta": [
+     "373",
+     "2w ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 373
+   },
+   {
+    "id": "ay6_DywifsM",
+    "title": "New Windows vs Insulation vs Air Sealing: The Math Nobody Shows You (The Real Cost Over 10 Years)",
+    "meta": [
+     "342",
+     "11d ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 342
+   },
+   {
+    "id": "DRxLNp8_IFE",
+    "title": "THIS Is Why Your Heat Bill Is So High \u2014 And the $30 Fix Energy Auditors Knew",
+    "meta": [
+     "247",
+     "2w ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 247
+   },
+   {
+    "id": "8-munrhWbXM",
+    "title": "15 Old-House Air Sealing Tricks Modern Builders Quietly Abandoned",
+    "meta": [
+     "217",
+     "9d ago"
+    ],
+    "dur": "13:42",
+    "views_tab": 217
+   },
+   {
+    "id": "fD69L_SaSMU",
+    "title": "The Attic Insulation Problem Nobody\u2019s Talking About",
+    "meta": [
+     "162",
+     "5d ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 162
+   },
+   {
+    "id": "WbgW8kFMM7w",
+    "title": "The ONE Big Mistake That\u2019s Making Your House Colder",
+    "meta": [
+     "153",
+     "2d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 153
+   },
+   {
+    "id": "VjPJWYTTWME",
+    "title": "Stop Wasting Money: Most Homeowners Are Sealing Drafts Wrong",
+    "meta": [
+     "98",
+     "3d ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 98
+   },
+   {
+    "id": "_WPGy_d0Txk",
+    "title": "Why Your Floors Feel Cold Every Winter (It's Not the Furnace)",
+    "meta": [
+     "95",
+     "12d ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 95
+   },
+   {
+    "id": "BNaE5moqCx8",
+    "title": "This $11 Baseboard Trick Fixes the Coldest Room in Your House \u2014 Why Don\u2019t Contractors Tell You?",
+    "meta": [
+     "81",
+     "13d ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 81
+   },
+   {
+    "id": "SNbYMNcMXtM",
+    "title": "showing my pretty feet on the living room rug",
+    "meta": [
+     "42",
+     "1mo ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 42
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "SNbYMNcMXtM",
+    "title": "showing my pretty feet on the living room rug",
+    "meta": [
+     "42",
+     "1mo ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 42
+   },
+   {
+    "id": "x6CvWT6wgNw",
+    "title": "11 Things That Actually Cut a Heating Bill in Half (Measured)",
+    "meta": [
+     "373",
+     "2w ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 373
+   },
+   {
+    "id": "DRxLNp8_IFE",
+    "title": "THIS Is Why Your Heat Bill Is So High \u2014 And the $30 Fix Energy Auditors Knew",
+    "meta": [
+     "247",
+     "2w ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 247
+   },
+   {
+    "id": "BNaE5moqCx8",
+    "title": "This $11 Baseboard Trick Fixes the Coldest Room in Your House \u2014 Why Don\u2019t Contractors Tell You?",
+    "meta": [
+     "81",
+     "13d ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 81
+   },
+   {
+    "id": "_WPGy_d0Txk",
+    "title": "Why Your Floors Feel Cold Every Winter (It's Not the Furnace)",
+    "meta": [
+     "95",
+     "12d ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 95
+   },
+   {
+    "id": "ay6_DywifsM",
+    "title": "New Windows vs Insulation vs Air Sealing: The Math Nobody Shows You (The Real Cost Over 10 Years)",
+    "meta": [
+     "342",
+     "11d ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 342
+   },
+   {
+    "id": "8-munrhWbXM",
+    "title": "15 Old-House Air Sealing Tricks Modern Builders Quietly Abandoned",
+    "meta": [
+     "217",
+     "9d ago"
+    ],
+    "dur": "13:42",
+    "views_tab": 217
+   },
+   {
+    "id": "MphZaaeGk2c",
+    "title": "Adding More Insulation Is NOT Saving You Money. Do This Instead And Your Bill Drops",
+    "meta": [
+     "2.7K",
+     "8d ago"
+    ],
+    "dur": "11:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "WPttGy6thzc",
+    "title": "5 Insulation Mistakes Contractors Hope You Keep Making",
+    "meta": [
+     "1.6K",
+     "7d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 1600
+   },
+   {
+    "id": "4D9Jgc-IoGM",
+    "title": "This Cheap Rim Joist Trick Keeps Heat Inside All Winter",
+    "meta": [
+     "3.3K",
+     "6d ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 3300
+   },
+   {
+    "id": "fD69L_SaSMU",
+    "title": "The Attic Insulation Problem Nobody\u2019s Talking About",
+    "meta": [
+     "162",
+     "5d ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 162
+   },
+   {
+    "id": "VjPJWYTTWME",
+    "title": "Stop Wasting Money: Most Homeowners Are Sealing Drafts Wrong",
+    "meta": [
+     "98",
+     "3d ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 98
+   },
+   {
+    "id": "WbgW8kFMM7w",
+    "title": "The ONE Big Mistake That\u2019s Making Your House Colder",
+    "meta": [
+     "153",
+     "2d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 153
+   }
+  ]
+ }
+}

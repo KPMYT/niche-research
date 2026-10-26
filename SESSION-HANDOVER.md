@@ -2,7 +2,7 @@
 
 The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this file, then `RESEARCH-BRIEF.md` and `README.md`, and carries on from its section's "Next actions". Each chat rewrites only its own section.
 
-**Last updated:** 2026-10-26, electrical section by the electrical research chat (branch `claude/zealous-ptolemy-lxtx6t`). Other sections as the setup chat left them on 2026-10-23.
+**Last updated:** 2026-10-26: HVAC section by the HVAC research chat (branch `claude/adoring-galileo-wqloxp`) at its handover; electrical section by the electrical research chat (branch `claude/zealous-ptolemy-lxtx6t`). Other sections as the setup chat left them on 2026-10-23.
 
 ---
 
@@ -23,12 +23,19 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 
 ## HVAC research chat
 
-- **Owns:** `studies/hvac/`.
-- **Status:** not started.
+- **Owns:** `studies/hvac/`. Branch `claude/adoring-galileo-wqloxp` (merged into `main` at the 2026-10-26 handover).
+- **Status (2026-10-26, handover):** rounds 1-6 done and each checked by second helpers; round 7 reported to the operator. Start with `studies/hvac/round7-report.md` (findings, caveats, the default calls), then `studies/hvac/README.md` (operator decisions and the file map) and `studies/hvac/log.md` (every round, every check and fix).
+- **The deliverables (all in `studies/hvac/`):** 1 `channels.md`/`.csv` (764 channels in tiers A-D; tier A 254, of which 61 faceless personas); 2 `new-channels.md` (221 new, 58 well above); 3 `subniches.md`; 4 `emotions.md`; 5 `thumbnails/thumbnail-styles.html` (private Artifact https://claude.ai/artifact/NmxFR6D24eSFyQ9hSpB8Vz); 6 `recent-winners.md`; 7 `top-100.md`/`.csv`; 8 `round2/keyword-sweep.md` plus `formats.md`. 9 `CONCLUSIONS.md` is not written yet.
+- **Operator decisions so far** (also in `studies/hvac/README.md`): NexLev RPM and earnings are not used ("ignore nexlev rpm its wrong"); run the rounds without stopping and check after each; off-grid heat is its own sub-niche; E19 comfort and E20 new-gadget wonder added; generator videos only when about outage heat; insulation only when about heat, cooling or the bill; "newest" = the this-month / this-year filters.
+- **Waiting on the operator** (round 7 report section 4): confirm the five default calls (contractors = competitors; mostly-HVAC outage channels in tier A; stove-craft channels moved to the off-grid lane and craft stoves out of the top 100; four channel types plus a company column; add the four proposed sub-niche codes to `labels.md`?).
 - **Next actions:**
-  1. Read `CLAUDE.md`, `RESEARCH-BRIEF.md` and `findings/2026-10-22-hvac-and-electrical.md`.
-  2. Show the operator the round 1 plan (helpers, sources), then run the rounds in `RESEARCH-BRIEF.md` section 4.
-  3. Report the findings, go back and forth, then write `CONCLUSIONS.md`.
+  1. The back and forth with the operator on the round 7 report; then write `studies/hvac/CONCLUSIONS.md` (deliverable 9: what Roger makes, emotions and villains, titles and thumbnails, gaps, standing apart from Ray Dutton's Garage, what the scripting pack takes).
+  2. Then, on the operator's call, the ideation skill, base ideation plan and thumbnail plan in this repository.
+- **What a new chat needs to know (method):**
+  - The YouTube watch page and player endpoint are blocked from the cloud; the innertube `/next` endpoint works (`data/tools/vid.py`, `vid_next_batch.py`). Logged-out search translates foreign titles, so English is checked on the original title from oEmbed. The search "upload date" sort is broken.
+  - Channel Videos tabs: `data/tools/yt_allsorts.py` (patched for channels whose sorts sit in a dropdown). The census is rebuilt by `data/tools/census_build.py`; the label tables by `data/tools/round4_build.py`; the thumbnail page by `data/tools/thumb_page.py`.
+  - The multiple flatters old videos (lifetime views against a recent baseline): read the last-12-months tables; multiples use only channels with a 100+ view baseline.
+  - Helpers share the scratchpad and once overwrote each other's scripts: give each helper its own scratch subfolder.
 
 ## Electrical and fire prevention research chat
 

@@ -1,0 +1,1025 @@
+{
+ "key": "UCSvkdsbJ5f2R3sUY2_mL3-Q",
+ "channel": "Conditioned Air Secrets",
+ "id": "UCSvkdsbJ5f2R3sUY2_mL3-Q",
+ "subs": "31 subscribers",
+ "videos": "25 videos",
+ "pulled": "2026-10-26T06:57:16.003049+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "ak3XjJQZBk4",
+    "title": "5 Basement Dehumidifier Errors I Saw Waste $100s (Yours May Run)",
+    "meta": [
+     "118",
+     "1mo ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 118
+   },
+   {
+    "id": "xWVdrmt7CUo",
+    "title": "Your Furnace Runs All Day But Won't Heat (EASY DIAGNOSIS)",
+    "meta": [
+     "552",
+     "1mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 552
+   },
+   {
+    "id": "yKBdn5KozTM",
+    "title": "Electric Baseboard Runs All Day, Room Stays Cold (CHECK THIS)",
+    "meta": [
+     "155",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 155
+   },
+   {
+    "id": "KjJklNw8YLg",
+    "title": "7 HVAC Red Flags Before You Buy a House (CAN COST $1,000s)",
+    "meta": [
+     "320",
+     "1mo ago"
+    ],
+    "dur": "16:06",
+    "views_tab": 320
+   },
+   {
+    "id": "bCnCyqNZDZ4",
+    "title": "This $30 Attic Hatch Cover Cuts Winter Heat Loss (CHECK YOURS)",
+    "meta": [
+     "283",
+     "1mo ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 283
+   },
+   {
+    "id": "3lUfaxyfygM",
+    "title": "Your Heat Pump Blows Cool Air in Winter (EASY DIAGNOSIS)",
+    "meta": [
+     "329",
+     "1mo ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 329
+   },
+   {
+    "id": "O6qRxD6lmmc",
+    "title": "How to Check AC Airflow With a 13-Gallon Trash Bag (NO METER)",
+    "meta": [
+     "112",
+     "1mo ago"
+    ],
+    "dur": "17:14",
+    "views_tab": 112
+   },
+   {
+    "id": "q1Z1nyWukCo",
+    "title": "This $0 AC Timing Trick Cuts Peak-Rate Bills (Check Yours)",
+    "meta": [
+     "135",
+     "1mo ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 135
+   },
+   {
+    "id": "aMU7ztx9twY",
+    "title": "7 HVAC Service Clauses I Read Waste $100s (Before You Renew)",
+    "meta": [
+     "32",
+     "1mo ago"
+    ],
+    "dur": "18:09",
+    "views_tab": 32
+   },
+   {
+    "id": "FkoDIR_ERbg",
+    "title": "How to Fix an Air Exchanger That Freezes Solid Every Winter",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "21:13",
+    "views_tab": 110
+   },
+   {
+    "id": "Wh7f3gb6cRo",
+    "title": "7 Remodeling Mistakes That Quietly Ruin HVAC Performance",
+    "meta": [
+     "286",
+     "1mo ago"
+    ],
+    "dur": "20:37",
+    "views_tab": 286
+   },
+   {
+    "id": "gurUzMRZc7Y",
+    "title": "HVAC Technician Explains Why Two Quotes Can Be $8,000 Apart",
+    "meta": [
+     "45",
+     "1mo ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 45
+   },
+   {
+    "id": "OLVR5dZ9kDQ",
+    "title": "7 Space Heater Mistakes That Start House Fires Every Winter",
+    "meta": [
+     "143",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 143
+   },
+   {
+    "id": "5DlEl9nf40E",
+    "title": "Why Your AC Freezes Up Every Summer (Look For These Signs)",
+    "meta": [
+     "327",
+     "1mo ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 327
+   },
+   {
+    "id": "CdhNTY5gdCQ",
+    "title": "7 Generator Mistakes That Damage HVAC Boards During Outages",
+    "meta": [
+     "316",
+     "1mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 316
+   },
+   {
+    "id": "00Lw4ubbIq0",
+    "title": "7 AC Symptoms Homeowners Ignore Until It Costs $2,000",
+    "meta": [
+     "193",
+     "1mo ago"
+    ],
+    "dur": "13:43",
+    "views_tab": 193
+   },
+   {
+    "id": "RmkdXn90zBQ",
+    "title": "Why Your Ceiling Fan Wastes Energy All Summer, FIX IT",
+    "meta": [
+     "106",
+     "1mo ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 106
+   },
+   {
+    "id": "ZQSWQDQfaJ8",
+    "title": "Light One Incense Stick and Find Hidden Air Leaks (I Worked HVAC)",
+    "meta": [
+     "200",
+     "2mo ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 200
+   },
+   {
+    "id": "3r6vC8qNtWg",
+    "title": "How to Fix Your AC Drain Line Before It Floods Your Ceiling",
+    "meta": [
+     "310",
+     "2mo ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 310
+   },
+   {
+    "id": "VgNdTjX-XCo",
+    "title": "5 DEADLY Warranty Mistakes Homeowners Don't Know (Avoid Them!)",
+    "meta": [
+     "32",
+     "2mo ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 32
+   },
+   {
+    "id": "AUlGNt0LReE",
+    "title": "Why Your Thermostat Keeps Lying (and the FREE Fix)",
+    "meta": [
+     "259",
+     "2mo ago"
+    ],
+    "dur": "17:20",
+    "views_tab": 259
+   },
+   {
+    "id": "7LCe1qneljo",
+    "title": "Why Your HVAC Keeps Failing... and the ONE Thing to Check",
+    "meta": [
+     "120",
+     "2mo ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 120
+   },
+   {
+    "id": "_Z_yXwRnKJA",
+    "title": "Your AC Runs All Day But Won't Cool (EASY DIAGNOSIS)",
+    "meta": [
+     "1.6K",
+     "2mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "yP_WWJ9GKxw",
+    "title": "5 Winter HVAC BIGGEST Mistakes Costing You Hundreds! (in 2026)",
+    "meta": [
+     "202",
+     "2mo ago"
+    ],
+    "dur": "19:54",
+    "views_tab": 202
+   },
+   {
+    "id": "vMS0YpqGdzQ",
+    "title": "My cute feet after spending the day outside",
+    "meta": [
+     "97",
+     "2mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 97
+   }
+  ],
+  "Latest": [
+   {
+    "id": "ak3XjJQZBk4",
+    "title": "5 Basement Dehumidifier Errors I Saw Waste $100s (Yours May Run)",
+    "meta": [
+     "118",
+     "1mo ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 118
+   },
+   {
+    "id": "xWVdrmt7CUo",
+    "title": "Your Furnace Runs All Day But Won't Heat (EASY DIAGNOSIS)",
+    "meta": [
+     "552",
+     "1mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 552
+   },
+   {
+    "id": "yKBdn5KozTM",
+    "title": "Electric Baseboard Runs All Day, Room Stays Cold (CHECK THIS)",
+    "meta": [
+     "155",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 155
+   },
+   {
+    "id": "KjJklNw8YLg",
+    "title": "7 HVAC Red Flags Before You Buy a House (CAN COST $1,000s)",
+    "meta": [
+     "320",
+     "1mo ago"
+    ],
+    "dur": "16:06",
+    "views_tab": 320
+   },
+   {
+    "id": "bCnCyqNZDZ4",
+    "title": "This $30 Attic Hatch Cover Cuts Winter Heat Loss (CHECK YOURS)",
+    "meta": [
+     "283",
+     "1mo ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 283
+   },
+   {
+    "id": "3lUfaxyfygM",
+    "title": "Your Heat Pump Blows Cool Air in Winter (EASY DIAGNOSIS)",
+    "meta": [
+     "329",
+     "1mo ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 329
+   },
+   {
+    "id": "O6qRxD6lmmc",
+    "title": "How to Check AC Airflow With a 13-Gallon Trash Bag (NO METER)",
+    "meta": [
+     "112",
+     "1mo ago"
+    ],
+    "dur": "17:14",
+    "views_tab": 112
+   },
+   {
+    "id": "q1Z1nyWukCo",
+    "title": "This $0 AC Timing Trick Cuts Peak-Rate Bills (Check Yours)",
+    "meta": [
+     "135",
+     "1mo ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 135
+   },
+   {
+    "id": "aMU7ztx9twY",
+    "title": "7 HVAC Service Clauses I Read Waste $100s (Before You Renew)",
+    "meta": [
+     "32",
+     "1mo ago"
+    ],
+    "dur": "18:09",
+    "views_tab": 32
+   },
+   {
+    "id": "FkoDIR_ERbg",
+    "title": "How to Fix an Air Exchanger That Freezes Solid Every Winter",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "21:13",
+    "views_tab": 110
+   },
+   {
+    "id": "Wh7f3gb6cRo",
+    "title": "7 Remodeling Mistakes That Quietly Ruin HVAC Performance",
+    "meta": [
+     "286",
+     "1mo ago"
+    ],
+    "dur": "20:37",
+    "views_tab": 286
+   },
+   {
+    "id": "gurUzMRZc7Y",
+    "title": "HVAC Technician Explains Why Two Quotes Can Be $8,000 Apart",
+    "meta": [
+     "45",
+     "1mo ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 45
+   },
+   {
+    "id": "OLVR5dZ9kDQ",
+    "title": "7 Space Heater Mistakes That Start House Fires Every Winter",
+    "meta": [
+     "143",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 143
+   },
+   {
+    "id": "5DlEl9nf40E",
+    "title": "Why Your AC Freezes Up Every Summer (Look For These Signs)",
+    "meta": [
+     "327",
+     "1mo ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 327
+   },
+   {
+    "id": "CdhNTY5gdCQ",
+    "title": "7 Generator Mistakes That Damage HVAC Boards During Outages",
+    "meta": [
+     "316",
+     "1mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 316
+   },
+   {
+    "id": "00Lw4ubbIq0",
+    "title": "7 AC Symptoms Homeowners Ignore Until It Costs $2,000",
+    "meta": [
+     "193",
+     "1mo ago"
+    ],
+    "dur": "13:43",
+    "views_tab": 193
+   },
+   {
+    "id": "RmkdXn90zBQ",
+    "title": "Why Your Ceiling Fan Wastes Energy All Summer, FIX IT",
+    "meta": [
+     "106",
+     "1mo ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 106
+   },
+   {
+    "id": "ZQSWQDQfaJ8",
+    "title": "Light One Incense Stick and Find Hidden Air Leaks (I Worked HVAC)",
+    "meta": [
+     "200",
+     "2mo ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 200
+   },
+   {
+    "id": "3r6vC8qNtWg",
+    "title": "How to Fix Your AC Drain Line Before It Floods Your Ceiling",
+    "meta": [
+     "310",
+     "2mo ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 310
+   },
+   {
+    "id": "VgNdTjX-XCo",
+    "title": "5 DEADLY Warranty Mistakes Homeowners Don't Know (Avoid Them!)",
+    "meta": [
+     "32",
+     "2mo ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 32
+   },
+   {
+    "id": "AUlGNt0LReE",
+    "title": "Why Your Thermostat Keeps Lying (and the FREE Fix)",
+    "meta": [
+     "259",
+     "2mo ago"
+    ],
+    "dur": "17:20",
+    "views_tab": 259
+   },
+   {
+    "id": "7LCe1qneljo",
+    "title": "Why Your HVAC Keeps Failing... and the ONE Thing to Check",
+    "meta": [
+     "120",
+     "2mo ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 120
+   },
+   {
+    "id": "_Z_yXwRnKJA",
+    "title": "Your AC Runs All Day But Won't Cool (EASY DIAGNOSIS)",
+    "meta": [
+     "1.6K",
+     "2mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "yP_WWJ9GKxw",
+    "title": "5 Winter HVAC BIGGEST Mistakes Costing You Hundreds! (in 2026)",
+    "meta": [
+     "202",
+     "2mo ago"
+    ],
+    "dur": "19:54",
+    "views_tab": 202
+   },
+   {
+    "id": "vMS0YpqGdzQ",
+    "title": "My cute feet after spending the day outside",
+    "meta": [
+     "97",
+     "2mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 97
+   }
+  ],
+  "Popular": [
+   {
+    "id": "_Z_yXwRnKJA",
+    "title": "Your AC Runs All Day But Won't Cool (EASY DIAGNOSIS)",
+    "meta": [
+     "1.6K",
+     "2mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "xWVdrmt7CUo",
+    "title": "Your Furnace Runs All Day But Won't Heat (EASY DIAGNOSIS)",
+    "meta": [
+     "552",
+     "1mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 552
+   },
+   {
+    "id": "5DlEl9nf40E",
+    "title": "Why Your AC Freezes Up Every Summer (Look For These Signs)",
+    "meta": [
+     "327",
+     "1mo ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 327
+   },
+   {
+    "id": "3lUfaxyfygM",
+    "title": "Your Heat Pump Blows Cool Air in Winter (EASY DIAGNOSIS)",
+    "meta": [
+     "329",
+     "1mo ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 329
+   },
+   {
+    "id": "KjJklNw8YLg",
+    "title": "7 HVAC Red Flags Before You Buy a House (CAN COST $1,000s)",
+    "meta": [
+     "320",
+     "1mo ago"
+    ],
+    "dur": "16:06",
+    "views_tab": 320
+   },
+   {
+    "id": "CdhNTY5gdCQ",
+    "title": "7 Generator Mistakes That Damage HVAC Boards During Outages",
+    "meta": [
+     "316",
+     "1mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 316
+   },
+   {
+    "id": "3r6vC8qNtWg",
+    "title": "How to Fix Your AC Drain Line Before It Floods Your Ceiling",
+    "meta": [
+     "310",
+     "2mo ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 310
+   },
+   {
+    "id": "Wh7f3gb6cRo",
+    "title": "7 Remodeling Mistakes That Quietly Ruin HVAC Performance",
+    "meta": [
+     "286",
+     "1mo ago"
+    ],
+    "dur": "20:37",
+    "views_tab": 286
+   },
+   {
+    "id": "bCnCyqNZDZ4",
+    "title": "This $30 Attic Hatch Cover Cuts Winter Heat Loss (CHECK YOURS)",
+    "meta": [
+     "283",
+     "1mo ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 283
+   },
+   {
+    "id": "AUlGNt0LReE",
+    "title": "Why Your Thermostat Keeps Lying (and the FREE Fix)",
+    "meta": [
+     "259",
+     "2mo ago"
+    ],
+    "dur": "17:20",
+    "views_tab": 259
+   },
+   {
+    "id": "yP_WWJ9GKxw",
+    "title": "5 Winter HVAC BIGGEST Mistakes Costing You Hundreds! (in 2026)",
+    "meta": [
+     "202",
+     "2mo ago"
+    ],
+    "dur": "19:54",
+    "views_tab": 202
+   },
+   {
+    "id": "ZQSWQDQfaJ8",
+    "title": "Light One Incense Stick and Find Hidden Air Leaks (I Worked HVAC)",
+    "meta": [
+     "200",
+     "2mo ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 200
+   },
+   {
+    "id": "00Lw4ubbIq0",
+    "title": "7 AC Symptoms Homeowners Ignore Until It Costs $2,000",
+    "meta": [
+     "193",
+     "1mo ago"
+    ],
+    "dur": "13:43",
+    "views_tab": 193
+   },
+   {
+    "id": "yKBdn5KozTM",
+    "title": "Electric Baseboard Runs All Day, Room Stays Cold (CHECK THIS)",
+    "meta": [
+     "155",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 155
+   },
+   {
+    "id": "OLVR5dZ9kDQ",
+    "title": "7 Space Heater Mistakes That Start House Fires Every Winter",
+    "meta": [
+     "143",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 143
+   },
+   {
+    "id": "q1Z1nyWukCo",
+    "title": "This $0 AC Timing Trick Cuts Peak-Rate Bills (Check Yours)",
+    "meta": [
+     "135",
+     "1mo ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 135
+   },
+   {
+    "id": "7LCe1qneljo",
+    "title": "Why Your HVAC Keeps Failing... and the ONE Thing to Check",
+    "meta": [
+     "120",
+     "2mo ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 120
+   },
+   {
+    "id": "ak3XjJQZBk4",
+    "title": "5 Basement Dehumidifier Errors I Saw Waste $100s (Yours May Run)",
+    "meta": [
+     "118",
+     "1mo ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 118
+   },
+   {
+    "id": "O6qRxD6lmmc",
+    "title": "How to Check AC Airflow With a 13-Gallon Trash Bag (NO METER)",
+    "meta": [
+     "112",
+     "1mo ago"
+    ],
+    "dur": "17:14",
+    "views_tab": 112
+   },
+   {
+    "id": "FkoDIR_ERbg",
+    "title": "How to Fix an Air Exchanger That Freezes Solid Every Winter",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "21:13",
+    "views_tab": 110
+   },
+   {
+    "id": "RmkdXn90zBQ",
+    "title": "Why Your Ceiling Fan Wastes Energy All Summer, FIX IT",
+    "meta": [
+     "106",
+     "1mo ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 106
+   },
+   {
+    "id": "vMS0YpqGdzQ",
+    "title": "My cute feet after spending the day outside",
+    "meta": [
+     "97",
+     "2mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 97
+   },
+   {
+    "id": "gurUzMRZc7Y",
+    "title": "HVAC Technician Explains Why Two Quotes Can Be $8,000 Apart",
+    "meta": [
+     "45",
+     "1mo ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 45
+   },
+   {
+    "id": "aMU7ztx9twY",
+    "title": "7 HVAC Service Clauses I Read Waste $100s (Before You Renew)",
+    "meta": [
+     "32",
+     "1mo ago"
+    ],
+    "dur": "18:09",
+    "views_tab": 32
+   },
+   {
+    "id": "VgNdTjX-XCo",
+    "title": "5 DEADLY Warranty Mistakes Homeowners Don't Know (Avoid Them!)",
+    "meta": [
+     "32",
+     "2mo ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 32
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "vMS0YpqGdzQ",
+    "title": "My cute feet after spending the day outside",
+    "meta": [
+     "97",
+     "2mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 97
+   },
+   {
+    "id": "yP_WWJ9GKxw",
+    "title": "5 Winter HVAC BIGGEST Mistakes Costing You Hundreds! (in 2026)",
+    "meta": [
+     "202",
+     "2mo ago"
+    ],
+    "dur": "19:54",
+    "views_tab": 202
+   },
+   {
+    "id": "_Z_yXwRnKJA",
+    "title": "Your AC Runs All Day But Won't Cool (EASY DIAGNOSIS)",
+    "meta": [
+     "1.6K",
+     "2mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "7LCe1qneljo",
+    "title": "Why Your HVAC Keeps Failing... and the ONE Thing to Check",
+    "meta": [
+     "120",
+     "2mo ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 120
+   },
+   {
+    "id": "AUlGNt0LReE",
+    "title": "Why Your Thermostat Keeps Lying (and the FREE Fix)",
+    "meta": [
+     "259",
+     "2mo ago"
+    ],
+    "dur": "17:20",
+    "views_tab": 259
+   },
+   {
+    "id": "VgNdTjX-XCo",
+    "title": "5 DEADLY Warranty Mistakes Homeowners Don't Know (Avoid Them!)",
+    "meta": [
+     "32",
+     "2mo ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 32
+   },
+   {
+    "id": "3r6vC8qNtWg",
+    "title": "How to Fix Your AC Drain Line Before It Floods Your Ceiling",
+    "meta": [
+     "310",
+     "2mo ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 310
+   },
+   {
+    "id": "ZQSWQDQfaJ8",
+    "title": "Light One Incense Stick and Find Hidden Air Leaks (I Worked HVAC)",
+    "meta": [
+     "200",
+     "2mo ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 200
+   },
+   {
+    "id": "RmkdXn90zBQ",
+    "title": "Why Your Ceiling Fan Wastes Energy All Summer, FIX IT",
+    "meta": [
+     "106",
+     "1mo ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 106
+   },
+   {
+    "id": "00Lw4ubbIq0",
+    "title": "7 AC Symptoms Homeowners Ignore Until It Costs $2,000",
+    "meta": [
+     "193",
+     "1mo ago"
+    ],
+    "dur": "13:43",
+    "views_tab": 193
+   },
+   {
+    "id": "CdhNTY5gdCQ",
+    "title": "7 Generator Mistakes That Damage HVAC Boards During Outages",
+    "meta": [
+     "316",
+     "1mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 316
+   },
+   {
+    "id": "5DlEl9nf40E",
+    "title": "Why Your AC Freezes Up Every Summer (Look For These Signs)",
+    "meta": [
+     "327",
+     "1mo ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 327
+   },
+   {
+    "id": "OLVR5dZ9kDQ",
+    "title": "7 Space Heater Mistakes That Start House Fires Every Winter",
+    "meta": [
+     "143",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 143
+   },
+   {
+    "id": "gurUzMRZc7Y",
+    "title": "HVAC Technician Explains Why Two Quotes Can Be $8,000 Apart",
+    "meta": [
+     "45",
+     "1mo ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 45
+   },
+   {
+    "id": "Wh7f3gb6cRo",
+    "title": "7 Remodeling Mistakes That Quietly Ruin HVAC Performance",
+    "meta": [
+     "286",
+     "1mo ago"
+    ],
+    "dur": "20:37",
+    "views_tab": 286
+   },
+   {
+    "id": "FkoDIR_ERbg",
+    "title": "How to Fix an Air Exchanger That Freezes Solid Every Winter",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "21:13",
+    "views_tab": 110
+   },
+   {
+    "id": "aMU7ztx9twY",
+    "title": "7 HVAC Service Clauses I Read Waste $100s (Before You Renew)",
+    "meta": [
+     "32",
+     "1mo ago"
+    ],
+    "dur": "18:09",
+    "views_tab": 32
+   },
+   {
+    "id": "q1Z1nyWukCo",
+    "title": "This $0 AC Timing Trick Cuts Peak-Rate Bills (Check Yours)",
+    "meta": [
+     "135",
+     "1mo ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 135
+   },
+   {
+    "id": "O6qRxD6lmmc",
+    "title": "How to Check AC Airflow With a 13-Gallon Trash Bag (NO METER)",
+    "meta": [
+     "112",
+     "1mo ago"
+    ],
+    "dur": "17:14",
+    "views_tab": 112
+   },
+   {
+    "id": "3lUfaxyfygM",
+    "title": "Your Heat Pump Blows Cool Air in Winter (EASY DIAGNOSIS)",
+    "meta": [
+     "329",
+     "1mo ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 329
+   },
+   {
+    "id": "bCnCyqNZDZ4",
+    "title": "This $30 Attic Hatch Cover Cuts Winter Heat Loss (CHECK YOURS)",
+    "meta": [
+     "283",
+     "1mo ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 283
+   },
+   {
+    "id": "KjJklNw8YLg",
+    "title": "7 HVAC Red Flags Before You Buy a House (CAN COST $1,000s)",
+    "meta": [
+     "320",
+     "1mo ago"
+    ],
+    "dur": "16:06",
+    "views_tab": 320
+   },
+   {
+    "id": "yKBdn5KozTM",
+    "title": "Electric Baseboard Runs All Day, Room Stays Cold (CHECK THIS)",
+    "meta": [
+     "155",
+     "1mo ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 155
+   },
+   {
+    "id": "xWVdrmt7CUo",
+    "title": "Your Furnace Runs All Day But Won't Heat (EASY DIAGNOSIS)",
+    "meta": [
+     "552",
+     "1mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 552
+   },
+   {
+    "id": "ak3XjJQZBk4",
+    "title": "5 Basement Dehumidifier Errors I Saw Waste $100s (Yours May Run)",
+    "meta": [
+     "118",
+     "1mo ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 118
+   }
+  ]
+ }
+}

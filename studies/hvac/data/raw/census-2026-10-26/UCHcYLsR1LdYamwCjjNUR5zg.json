@@ -1,0 +1,585 @@
+{
+ "key": "UCHcYLsR1LdYamwCjjNUR5zg",
+ "channel": "Home Ready with Calvin",
+ "id": "UCHcYLsR1LdYamwCjjNUR5zg",
+ "subs": "3 subscribers",
+ "videos": "14 videos",
+ "pulled": "2026-10-26T06:54:16.528667+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "3FQWWTqDVmQ",
+    "title": "The 5 Thermostat Habits That Wear Out Your Furnace Years Early",
+    "meta": [
+     "15",
+     "3d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 15
+   },
+   {
+    "id": "n4am65cnN3c",
+    "title": "Before Central Heating, How Did Americans Heat Just One Room?",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 4
+   },
+   {
+    "id": "Czmecr3w_mM",
+    "title": "I've Never Had Condensation on My Windows in 40 Years \u2014 The Old Trick My Dad Swore By",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 30
+   },
+   {
+    "id": "BAIMFpItrWc",
+    "title": "15 Dollar Tree Items That Keep One Room Warm When Your Furnace Stops Working",
+    "meta": [
+     "9",
+     "6d ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 9
+   },
+   {
+    "id": "ZXIK6iyfZqw",
+    "title": "5 Furnace Filter Mistakes That Cost You Heat Every Winter",
+    "meta": [
+     "90",
+     "7d ago"
+    ],
+    "dur": "11:43",
+    "views_tab": 90
+   },
+   {
+    "id": "yvkyOCBAX5k",
+    "title": "3 Ways to Winterize Your Plumbing Before the First Freeze",
+    "meta": [
+     "28",
+     "8d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 28
+   },
+   {
+    "id": "aS793Kv9B24",
+    "title": "Sealing an Old House Before Winter? Watch This First",
+    "meta": [
+     "72",
+     "10d ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 72
+   },
+   {
+    "id": "LBbdVHD7kUI",
+    "title": "Why This Window Heat Pump Makes Sense for Older Homes",
+    "meta": [
+     "78",
+     "12d ago"
+    ],
+    "dur": "11:51",
+    "views_tab": 78
+   },
+   {
+    "id": "cg9Nq0zZGiU",
+    "title": "Can Heating One Room Lower Your Winter Bill? A 7-Day Test",
+    "meta": [
+     "357",
+     "2w ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 357
+   },
+   {
+    "id": "U1YG0m67uMg",
+    "title": "Best Space Heater for an Older Home? Safest and Most Effective? Let's Find Out!",
+    "meta": [
+     "219",
+     "2w ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 219
+   },
+   {
+    "id": "ST-Z1bSG7nU",
+    "title": "Why Don't More People Seal Exterior Doors Like This?",
+    "meta": [
+     "12",
+     "2w ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 12
+   },
+   {
+    "id": "P_2ddF6l5BM",
+    "title": "Window Insulation Is Changing Forever (No Replacement, No Remodel)",
+    "meta": [
+     "9",
+     "2w ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 9
+   },
+   {
+    "id": "OdYnbLROwo8",
+    "title": "This COLD-CLIMATE HEAT PUMP Pulls Heat From FREEZING Air (No Gas Furnace NEEDED!!)",
+    "meta": [
+     "23",
+     "3w ago"
+    ],
+    "dur": "11:54",
+    "views_tab": 23
+   },
+   {
+    "id": "1S46ww7tv94",
+    "title": "This $10 WINDOW FILM Keeps HEAT Inside (No New Windows NEEDED!!)",
+    "meta": [
+     "10",
+     "3w ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 10
+   }
+  ],
+  "Latest": [
+   {
+    "id": "3FQWWTqDVmQ",
+    "title": "The 5 Thermostat Habits That Wear Out Your Furnace Years Early",
+    "meta": [
+     "15",
+     "3d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 15
+   },
+   {
+    "id": "n4am65cnN3c",
+    "title": "Before Central Heating, How Did Americans Heat Just One Room?",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 4
+   },
+   {
+    "id": "Czmecr3w_mM",
+    "title": "I've Never Had Condensation on My Windows in 40 Years \u2014 The Old Trick My Dad Swore By",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 30
+   },
+   {
+    "id": "BAIMFpItrWc",
+    "title": "15 Dollar Tree Items That Keep One Room Warm When Your Furnace Stops Working",
+    "meta": [
+     "9",
+     "6d ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 9
+   },
+   {
+    "id": "ZXIK6iyfZqw",
+    "title": "5 Furnace Filter Mistakes That Cost You Heat Every Winter",
+    "meta": [
+     "90",
+     "7d ago"
+    ],
+    "dur": "11:43",
+    "views_tab": 90
+   },
+   {
+    "id": "yvkyOCBAX5k",
+    "title": "3 Ways to Winterize Your Plumbing Before the First Freeze",
+    "meta": [
+     "28",
+     "8d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 28
+   },
+   {
+    "id": "aS793Kv9B24",
+    "title": "Sealing an Old House Before Winter? Watch This First",
+    "meta": [
+     "72",
+     "10d ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 72
+   },
+   {
+    "id": "LBbdVHD7kUI",
+    "title": "Why This Window Heat Pump Makes Sense for Older Homes",
+    "meta": [
+     "78",
+     "12d ago"
+    ],
+    "dur": "11:51",
+    "views_tab": 78
+   },
+   {
+    "id": "cg9Nq0zZGiU",
+    "title": "Can Heating One Room Lower Your Winter Bill? A 7-Day Test",
+    "meta": [
+     "357",
+     "2w ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 357
+   },
+   {
+    "id": "U1YG0m67uMg",
+    "title": "Best Space Heater for an Older Home? Safest and Most Effective? Let's Find Out!",
+    "meta": [
+     "219",
+     "2w ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 219
+   },
+   {
+    "id": "ST-Z1bSG7nU",
+    "title": "Why Don't More People Seal Exterior Doors Like This?",
+    "meta": [
+     "12",
+     "2w ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 12
+   },
+   {
+    "id": "P_2ddF6l5BM",
+    "title": "Window Insulation Is Changing Forever (No Replacement, No Remodel)",
+    "meta": [
+     "9",
+     "2w ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 9
+   },
+   {
+    "id": "OdYnbLROwo8",
+    "title": "This COLD-CLIMATE HEAT PUMP Pulls Heat From FREEZING Air (No Gas Furnace NEEDED!!)",
+    "meta": [
+     "23",
+     "3w ago"
+    ],
+    "dur": "11:54",
+    "views_tab": 23
+   },
+   {
+    "id": "1S46ww7tv94",
+    "title": "This $10 WINDOW FILM Keeps HEAT Inside (No New Windows NEEDED!!)",
+    "meta": [
+     "10",
+     "3w ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 10
+   }
+  ],
+  "Popular": [
+   {
+    "id": "cg9Nq0zZGiU",
+    "title": "Can Heating One Room Lower Your Winter Bill? A 7-Day Test",
+    "meta": [
+     "357",
+     "2w ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 357
+   },
+   {
+    "id": "U1YG0m67uMg",
+    "title": "Best Space Heater for an Older Home? Safest and Most Effective? Let's Find Out!",
+    "meta": [
+     "219",
+     "2w ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 219
+   },
+   {
+    "id": "ZXIK6iyfZqw",
+    "title": "5 Furnace Filter Mistakes That Cost You Heat Every Winter",
+    "meta": [
+     "90",
+     "7d ago"
+    ],
+    "dur": "11:43",
+    "views_tab": 90
+   },
+   {
+    "id": "LBbdVHD7kUI",
+    "title": "Why This Window Heat Pump Makes Sense for Older Homes",
+    "meta": [
+     "78",
+     "12d ago"
+    ],
+    "dur": "11:51",
+    "views_tab": 78
+   },
+   {
+    "id": "aS793Kv9B24",
+    "title": "Sealing an Old House Before Winter? Watch This First",
+    "meta": [
+     "72",
+     "10d ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 72
+   },
+   {
+    "id": "yvkyOCBAX5k",
+    "title": "3 Ways to Winterize Your Plumbing Before the First Freeze",
+    "meta": [
+     "28",
+     "8d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 28
+   },
+   {
+    "id": "Czmecr3w_mM",
+    "title": "I've Never Had Condensation on My Windows in 40 Years \u2014 The Old Trick My Dad Swore By",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 30
+   },
+   {
+    "id": "OdYnbLROwo8",
+    "title": "This COLD-CLIMATE HEAT PUMP Pulls Heat From FREEZING Air (No Gas Furnace NEEDED!!)",
+    "meta": [
+     "23",
+     "3w ago"
+    ],
+    "dur": "11:54",
+    "views_tab": 23
+   },
+   {
+    "id": "ST-Z1bSG7nU",
+    "title": "Why Don't More People Seal Exterior Doors Like This?",
+    "meta": [
+     "12",
+     "2w ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 12
+   },
+   {
+    "id": "3FQWWTqDVmQ",
+    "title": "The 5 Thermostat Habits That Wear Out Your Furnace Years Early",
+    "meta": [
+     "15",
+     "3d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 15
+   },
+   {
+    "id": "1S46ww7tv94",
+    "title": "This $10 WINDOW FILM Keeps HEAT Inside (No New Windows NEEDED!!)",
+    "meta": [
+     "10",
+     "3w ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 10
+   },
+   {
+    "id": "P_2ddF6l5BM",
+    "title": "Window Insulation Is Changing Forever (No Replacement, No Remodel)",
+    "meta": [
+     "9",
+     "2w ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 9
+   },
+   {
+    "id": "BAIMFpItrWc",
+    "title": "15 Dollar Tree Items That Keep One Room Warm When Your Furnace Stops Working",
+    "meta": [
+     "9",
+     "6d ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 9
+   },
+   {
+    "id": "n4am65cnN3c",
+    "title": "Before Central Heating, How Did Americans Heat Just One Room?",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 4
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "1S46ww7tv94",
+    "title": "This $10 WINDOW FILM Keeps HEAT Inside (No New Windows NEEDED!!)",
+    "meta": [
+     "10",
+     "3w ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 10
+   },
+   {
+    "id": "OdYnbLROwo8",
+    "title": "This COLD-CLIMATE HEAT PUMP Pulls Heat From FREEZING Air (No Gas Furnace NEEDED!!)",
+    "meta": [
+     "23",
+     "3w ago"
+    ],
+    "dur": "11:54",
+    "views_tab": 23
+   },
+   {
+    "id": "P_2ddF6l5BM",
+    "title": "Window Insulation Is Changing Forever (No Replacement, No Remodel)",
+    "meta": [
+     "9",
+     "2w ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 9
+   },
+   {
+    "id": "ST-Z1bSG7nU",
+    "title": "Why Don't More People Seal Exterior Doors Like This?",
+    "meta": [
+     "12",
+     "2w ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 12
+   },
+   {
+    "id": "U1YG0m67uMg",
+    "title": "Best Space Heater for an Older Home? Safest and Most Effective? Let's Find Out!",
+    "meta": [
+     "219",
+     "2w ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 219
+   },
+   {
+    "id": "cg9Nq0zZGiU",
+    "title": "Can Heating One Room Lower Your Winter Bill? A 7-Day Test",
+    "meta": [
+     "357",
+     "2w ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 357
+   },
+   {
+    "id": "LBbdVHD7kUI",
+    "title": "Why This Window Heat Pump Makes Sense for Older Homes",
+    "meta": [
+     "78",
+     "12d ago"
+    ],
+    "dur": "11:51",
+    "views_tab": 78
+   },
+   {
+    "id": "aS793Kv9B24",
+    "title": "Sealing an Old House Before Winter? Watch This First",
+    "meta": [
+     "72",
+     "10d ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 72
+   },
+   {
+    "id": "yvkyOCBAX5k",
+    "title": "3 Ways to Winterize Your Plumbing Before the First Freeze",
+    "meta": [
+     "28",
+     "8d ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 28
+   },
+   {
+    "id": "ZXIK6iyfZqw",
+    "title": "5 Furnace Filter Mistakes That Cost You Heat Every Winter",
+    "meta": [
+     "90",
+     "7d ago"
+    ],
+    "dur": "11:43",
+    "views_tab": 90
+   },
+   {
+    "id": "BAIMFpItrWc",
+    "title": "15 Dollar Tree Items That Keep One Room Warm When Your Furnace Stops Working",
+    "meta": [
+     "9",
+     "6d ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 9
+   },
+   {
+    "id": "Czmecr3w_mM",
+    "title": "I've Never Had Condensation on My Windows in 40 Years \u2014 The Old Trick My Dad Swore By",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 30
+   },
+   {
+    "id": "n4am65cnN3c",
+    "title": "Before Central Heating, How Did Americans Heat Just One Room?",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 4
+   },
+   {
+    "id": "3FQWWTqDVmQ",
+    "title": "The 5 Thermostat Habits That Wear Out Your Furnace Years Early",
+    "meta": [
+     "15",
+     "3d ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 15
+   }
+  ]
+ }
+}

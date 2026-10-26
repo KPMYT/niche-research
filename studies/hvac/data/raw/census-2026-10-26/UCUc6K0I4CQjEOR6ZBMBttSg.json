@@ -1,0 +1,513 @@
+{
+ "key": "UCUc6K0I4CQjEOR6ZBMBttSg",
+ "channel": "Daniel Palacios",
+ "id": "UCUc6K0I4CQjEOR6ZBMBttSg",
+ "subs": "8.96K subscribers",
+ "videos": "112 videos",
+ "pulled": "2026-10-26T06:57:28.054606+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "72ZrzTScmUc",
+    "title": "HVAC Next Level Troubleshooting | Seeing the invisible with the Milseey TR10 Thermal Camera",
+    "meta": [
+     "637",
+     "2mo ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 637
+   },
+   {
+    "id": "JkmG7sbOdRI",
+    "title": "HVAC Summer Season: How to keep your cool in the heat \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "495",
+     "4mo ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 495
+   },
+   {
+    "id": "Q0ipEeTR7Q0",
+    "title": "New HVAC Service Bag / Tools Load out | Cripop Tech 16 Tool Bag ",
+    "meta": [
+     "Daniel Palacios",
+     "and CRIPOP OFFICIAL",
+     "3.4K",
+     "5mo ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 3400
+   },
+   {
+    "id": "M-VRt09rsF0",
+    "title": "Full HVAC Refrigerant Leak Search & Repair \ud83d\udc68\ud83c\udffb\u200d\ud83d\udd27 ",
+    "meta": [
+     "569",
+     "6mo ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 569
+   },
+   {
+    "id": "Ywsm0FPH0ss",
+    "title": "A/C Maintenance & Inspection saves the day - HVAC POV Repairs. Electrical Disconnect & float switch ",
+    "meta": [
+     "338",
+     "7mo ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 338
+   },
+   {
+    "id": "lAT05KigFxY",
+    "title": "The HVAC Tools You Need | My service bag loadout | Veto Pro Pac Tech Pac MC bag swap \ud83d\udd04",
+    "meta": [
+     "10K",
+     "7mo ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 10000
+   },
+   {
+    "id": "_22b9OKxg6A",
+    "title": "Traveling HVAC Technician, is it worth it? ",
+    "meta": [
+     "2.1K",
+     "9mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "pbBC5sBZVGE",
+    "title": "How to start your HVAC Apprenticeship",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 11000
+   },
+   {
+    "id": "bEg8tGLuKEM",
+    "title": "HVAC Commercial RTU No Cool Call - Compressor short cycling repair ",
+    "meta": [
+     "902",
+     "1y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 902
+   },
+   {
+    "id": "XO8PvN8ocTA",
+    "title": "The perfect compact service bag - Veto Pro Pac MB | HVAC Service calls ",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 4000
+   },
+   {
+    "id": "ZMTJiXPp_fY",
+    "title": "HVAC Apprentice Tech - Milwaukee Jobsite Backpack Tool bag Load out ",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5900
+   },
+   {
+    "id": "WaNsIC4JmI4",
+    "title": "Residential HVAC Apprentice goes Commercial!",
+    "meta": [
+     "3K",
+     "1y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 3000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "72ZrzTScmUc",
+    "title": "HVAC Next Level Troubleshooting | Seeing the invisible with the Milseey TR10 Thermal Camera",
+    "meta": [
+     "637",
+     "2mo ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 637
+   },
+   {
+    "id": "JkmG7sbOdRI",
+    "title": "HVAC Summer Season: How to keep your cool in the heat \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "495",
+     "4mo ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 495
+   },
+   {
+    "id": "Q0ipEeTR7Q0",
+    "title": "New HVAC Service Bag / Tools Load out | Cripop Tech 16 Tool Bag ",
+    "meta": [
+     "Daniel Palacios",
+     "and CRIPOP OFFICIAL",
+     "3.4K",
+     "5mo ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 3400
+   },
+   {
+    "id": "M-VRt09rsF0",
+    "title": "Full HVAC Refrigerant Leak Search & Repair \ud83d\udc68\ud83c\udffb\u200d\ud83d\udd27 ",
+    "meta": [
+     "569",
+     "6mo ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 569
+   },
+   {
+    "id": "Ywsm0FPH0ss",
+    "title": "A/C Maintenance & Inspection saves the day - HVAC POV Repairs. Electrical Disconnect & float switch ",
+    "meta": [
+     "338",
+     "7mo ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 338
+   },
+   {
+    "id": "lAT05KigFxY",
+    "title": "The HVAC Tools You Need | My service bag loadout | Veto Pro Pac Tech Pac MC bag swap \ud83d\udd04",
+    "meta": [
+     "10K",
+     "7mo ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 10000
+   },
+   {
+    "id": "_22b9OKxg6A",
+    "title": "Traveling HVAC Technician, is it worth it? ",
+    "meta": [
+     "2.1K",
+     "9mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "pbBC5sBZVGE",
+    "title": "How to start your HVAC Apprenticeship",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 11000
+   },
+   {
+    "id": "bEg8tGLuKEM",
+    "title": "HVAC Commercial RTU No Cool Call - Compressor short cycling repair ",
+    "meta": [
+     "902",
+     "1y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 902
+   },
+   {
+    "id": "XO8PvN8ocTA",
+    "title": "The perfect compact service bag - Veto Pro Pac MB | HVAC Service calls ",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 4000
+   },
+   {
+    "id": "ZMTJiXPp_fY",
+    "title": "HVAC Apprentice Tech - Milwaukee Jobsite Backpack Tool bag Load out ",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5900
+   },
+   {
+    "id": "WaNsIC4JmI4",
+    "title": "Residential HVAC Apprentice goes Commercial!",
+    "meta": [
+     "3K",
+     "1y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 3000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "pbBC5sBZVGE",
+    "title": "How to start your HVAC Apprenticeship",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 11000
+   },
+   {
+    "id": "lAT05KigFxY",
+    "title": "The HVAC Tools You Need | My service bag loadout | Veto Pro Pac Tech Pac MC bag swap \ud83d\udd04",
+    "meta": [
+     "10K",
+     "7mo ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 10000
+   },
+   {
+    "id": "ZMTJiXPp_fY",
+    "title": "HVAC Apprentice Tech - Milwaukee Jobsite Backpack Tool bag Load out ",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5900
+   },
+   {
+    "id": "XO8PvN8ocTA",
+    "title": "The perfect compact service bag - Veto Pro Pac MB | HVAC Service calls ",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 4000
+   },
+   {
+    "id": "Q0ipEeTR7Q0",
+    "title": "New HVAC Service Bag / Tools Load out | Cripop Tech 16 Tool Bag ",
+    "meta": [
+     "Daniel Palacios",
+     "and CRIPOP OFFICIAL",
+     "3.4K",
+     "5mo ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 3400
+   },
+   {
+    "id": "WaNsIC4JmI4",
+    "title": "Residential HVAC Apprentice goes Commercial!",
+    "meta": [
+     "3K",
+     "1y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 3000
+   },
+   {
+    "id": "_22b9OKxg6A",
+    "title": "Traveling HVAC Technician, is it worth it? ",
+    "meta": [
+     "2.1K",
+     "9mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "bEg8tGLuKEM",
+    "title": "HVAC Commercial RTU No Cool Call - Compressor short cycling repair ",
+    "meta": [
+     "902",
+     "1y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 902
+   },
+   {
+    "id": "72ZrzTScmUc",
+    "title": "HVAC Next Level Troubleshooting | Seeing the invisible with the Milseey TR10 Thermal Camera",
+    "meta": [
+     "637",
+     "2mo ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 637
+   },
+   {
+    "id": "M-VRt09rsF0",
+    "title": "Full HVAC Refrigerant Leak Search & Repair \ud83d\udc68\ud83c\udffb\u200d\ud83d\udd27 ",
+    "meta": [
+     "569",
+     "6mo ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 569
+   },
+   {
+    "id": "JkmG7sbOdRI",
+    "title": "HVAC Summer Season: How to keep your cool in the heat \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "495",
+     "4mo ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 495
+   },
+   {
+    "id": "Ywsm0FPH0ss",
+    "title": "A/C Maintenance & Inspection saves the day - HVAC POV Repairs. Electrical Disconnect & float switch ",
+    "meta": [
+     "338",
+     "7mo ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 338
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "WaNsIC4JmI4",
+    "title": "Residential HVAC Apprentice goes Commercial!",
+    "meta": [
+     "3K",
+     "1y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 3000
+   },
+   {
+    "id": "ZMTJiXPp_fY",
+    "title": "HVAC Apprentice Tech - Milwaukee Jobsite Backpack Tool bag Load out ",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5900
+   },
+   {
+    "id": "XO8PvN8ocTA",
+    "title": "The perfect compact service bag - Veto Pro Pac MB | HVAC Service calls ",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 4000
+   },
+   {
+    "id": "bEg8tGLuKEM",
+    "title": "HVAC Commercial RTU No Cool Call - Compressor short cycling repair ",
+    "meta": [
+     "902",
+     "1y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 902
+   },
+   {
+    "id": "pbBC5sBZVGE",
+    "title": "How to start your HVAC Apprenticeship",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 11000
+   },
+   {
+    "id": "_22b9OKxg6A",
+    "title": "Traveling HVAC Technician, is it worth it? ",
+    "meta": [
+     "2.1K",
+     "9mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "lAT05KigFxY",
+    "title": "The HVAC Tools You Need | My service bag loadout | Veto Pro Pac Tech Pac MC bag swap \ud83d\udd04",
+    "meta": [
+     "10K",
+     "7mo ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 10000
+   },
+   {
+    "id": "Ywsm0FPH0ss",
+    "title": "A/C Maintenance & Inspection saves the day - HVAC POV Repairs. Electrical Disconnect & float switch ",
+    "meta": [
+     "338",
+     "7mo ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 338
+   },
+   {
+    "id": "M-VRt09rsF0",
+    "title": "Full HVAC Refrigerant Leak Search & Repair \ud83d\udc68\ud83c\udffb\u200d\ud83d\udd27 ",
+    "meta": [
+     "569",
+     "6mo ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 569
+   },
+   {
+    "id": "Q0ipEeTR7Q0",
+    "title": "New HVAC Service Bag / Tools Load out | Cripop Tech 16 Tool Bag ",
+    "meta": [
+     "Daniel Palacios",
+     "and CRIPOP OFFICIAL",
+     "3.4K",
+     "5mo ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 3400
+   },
+   {
+    "id": "JkmG7sbOdRI",
+    "title": "HVAC Summer Season: How to keep your cool in the heat \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "495",
+     "4mo ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 495
+   },
+   {
+    "id": "72ZrzTScmUc",
+    "title": "HVAC Next Level Troubleshooting | Seeing the invisible with the Milseey TR10 Thermal Camera",
+    "meta": [
+     "637",
+     "2mo ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 637
+   }
+  ]
+ }
+}
