@@ -177,20 +177,21 @@ SUBNICHE_RULES = [
      r"swamp cooler|evaporative|\bair coolers?\b|\bcooler (fan|unit)|desert cooler|hessaire|\bportacool"),
     ("AC: portable", "AC: portable", "home",
      r"portable (ac|a/c|air|heat pump|unit|units|air conditioners?)|ecoflow wave|\bwave \d|battery[- ]powered (ac|air)|"
-     r"zero ?breeze|\bdreo\b|midea duo|\bwindmill\b|\bbluetti\b.{0,20}(ac|cool)|\bsolar (powered )?(ac|air ?con\w*)"),
+     r"zero ?breeze|\bdreo\b(?=.{0,30}\b(ac|a/c|air conditioner|portable|cool\w*)\b)|midea duo|\bwindmill\b|\bbluetti\b.{0,20}(ac|cool)|\bsolar (powered )?(ac|air ?con\w*)"),
     ("AC: window", "AC: window", "home",
      r"window (ac|a/c|air conditioners?|units?|air|conditioner)|window-?mounted|\bu[- ]shaped|midea u\b|"
      r"through[- ]the[- ]wall|wall (ac|a/c|unit|air conditioner)|in-?wall (ac|unit)|sleeve"),
     ("cooling without AC (tricks, DIY coolers)", NEWP, "home",
      r"without (an? )?(ac|a/c|air ?con\w*)|((diy|homemade|crafting) (\w+ ){0,3}|(make|making|build|building) (an? |your own |my own )(\w+ ){0,2})(ac|a/c|"
      r"air ?con\w*|cooler)\b(?! (capacitor|contactor|install\w*|repair\w*|fix\w*|maintenance|clean\w*|recharg\w*|"
-     r"service|coil|condenser|compressor|filter|tune|parts?|unit (install|repair)))|cools? (your|the|a|my) (entire |whole )?(home|house|room)|(with|need|needs|required) no (ac|a/c|air conditioning)|no (ac|a/c|air conditioning) (needed|required)|diy (ac|a/c|air ?con\w*|air cooler|cooler|"
+     r"service|coil|condenser|compressor|filter|tune|parts?|unit (install|repair)))|cools? (your|the|a|my|any|every) (entire |whole )?(\w+ )?(home|house|room)|(with|need|needs|required) no (ac|a/c|air conditioning)|no (ac|a/c|air conditioning) (needed|required)|diy (ac|a/c|air ?con\w*|air cooler|cooler|"
      r"swamp)|homemade (ac|a/c|air ?con\w*|cooler)|\bice (fan|cooler|bucket|block|chest)|bucket (ac|cooler|air)|"
      r"(keep|keeping|stay|staying) (\w+ ){0,3}cool\b|cool (a|your|the|my) (room|house|home|bedroom|tent|garage) "
      r"(down|without|for|with)|beat the heat|frozen water bottle|5 gallon (bucket )?(ac|air)|cooler ac|"
      r"(fan|cooler) (that )?(blows|makes) cold|ice cold air|free (ac|air conditioning|cooling)"),
     ("indoor air and purifiers", P_AIR, "home",
-     r"exhaust fans?|bath(room)? (exhaust |vent )?fans?|range hoods?|ventilation fans?|vent fans?"),
+     r"exhaust fans?|bath(room)? (exhaust |vent )?fans?|range hoods?|ventilation fans?|vent fans?|\berv\b|\bhrv\b|"
+     r"energy recovery|heat recovery ventilat|purifier|ioniz"),
     ("fans for cooling (ceiling, whole-house, box)", NEWP, "home",
      r"ceiling fans?|whole[- ]house fans?|attic fans?|box fans?|window fans?|tower fans?|bladeless fan|"
      r"\bfans?\b(?! (motor|blade|capacitor|relay|limit|control|speed|setting|on|auto|switch|coil))"),
@@ -258,13 +259,20 @@ SUBNICHE_RULES = [
      r"radiant barrier|energy[- ]efficient (home|house)|passiv(e )?haus|hers (score|rating)|home energy (audit|score|"
      r"efficiency|monitor)|\bexterior wall|\bwalls?\b(?= .{0,15}(cold|warm|heat))|\bdoors?\b"),
     # 5. heat-system families
+    ("off-grid heat: DIY stove builds (cement, barrel, brick craft)", P_OFF, "home",
+     r"^(?!.*(waste oil|used oil|motor oil|veg(etable)? oil|olive oil|candle|tin cans?|soda cans?|beer cans?|tuna cans?|"
+     r"alcohol|tea ?lights?|no gas|no wood|free (heat|energy)|rocket)).*("
+     r"\b(make|making|made|build|building|built|diy|homemade|creative|ideas?|craft\w*)\b.{0,50}\b(wood ?)?stoves?\b|"
+     r"\bstoves? (from|out of|made (from|of)|with (cement|concrete|bricks?))\b|"
+     r"\b(cement|concrete|barrels?|bricks?|gas cylinders?)\b.{0,25}\bstoves?\b|"
+     r"\bstoves?\b.{0,30}\b(cement|concrete|barrels?|bricks?|gas cylinders?)\b)"),
     ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
      r"candle|terracotta|clay pot|flower ?pot|rocket (stove|heater|mass)|free (heat|heating|energy|fuel|warmth)|"
      r"earth (tube|tunnel|battery|pipe)|underground (tube|pipe|tunnel)|\bsalt\b|solar (air )?(heater|heat|furnace|"
      r"collector|panel heater)|can heater|soda cans?|beer cans?|tuna can|aluminum cans|tin cans?|waste oil|used oil|"
      r"motor oil|diy (heater|stove|heating|furnace|radiator)|homemade (\w+ )?(heater|stove|heating|furnace|radiator)|"
      r"heat(s|ing)? (\w+ ){0,4}for free|(no|without) (electricity|power) (needed|required)|make (a|your own) (heater|"
-     r"stove)|no (gas|wood|electricity|fuel)\b|without (electricity|gas)|sand battery|thermal mass|compost heat|"
+     r"stove)|no (gas|wood|electricity|fuel)\b|without (electricity|gas)|(don'?t|doesn'?t|no) needs? (electricity|power)|sand battery|thermal mass|compost heat|"
      r"cement stove|\bbrick (heater|oven|rocket)|"
      r"charcoal|alcohol (heater|stove)|heat bank|\bjar\b|\bpvc\b|perpetual|unlimited heat"),
     ("boilers, radiators and steam", P_BOIL, "home",
@@ -282,9 +290,11 @@ SUBNICHE_RULES = [
     ("space heaters (electric)", P_OFF, "home",
      r"space heaters?|electric heaters?|oil[- ]filled|infrared heater|panel heaters?|radiant heaters?|ceramic heater|"
      r"storage heaters?|electric (radiators?|heating|heat\b|fireplace)|"
-     r"^(?!.*\b(carrier|trane|lennox|goodman|rheem|ruud|bryant|amana|coleman|payne|heil|tempstar)\b).*\bheaters?\b|\bconvector|\bdelonghi|\bdyson"),
+     r"^(?!.*\b(carrier|trane|lennox|goodman|rheem|ruud|bryant|amana|coleman|payne|heil|tempstar|furnaces?|boilers?|"
+     r"heat pumps?)\b).*\bheaters?\b|\bconvector|\bdelonghi|\bdyson"),
     ("staying warm without heating (body, bed, clothes)", P_OFF, "home",
-     r"(keep|keeps|keeping|stay|staying|sleep|sleeping) (\w+ ){0,3}warm|warm (bed|blanket|feet|hands)|hand ?warmers?|"
+     r"(keep|keeps|keeping|stay|staying|sleep|sleeping) (\w+ ){0,3}warm|(when|if) (your|the) (furnace|heat|heater|heating) "
+     r"(dies|goes out|quits|fails|breaks)|warm (bed|blanket|feet|hands)|hand ?warmers?|"
      r"blankets?|sleeping bags?|heated (blanket|vest|jacket|clothing|socks|throw|mattress|pad)|\blayers|"
      r"thermal underwear|hot water bottle|freezing nights?|without (heat|heating)|\bcold (night|nights)\b|"
      r"warm(er|est)? (room|bedroom|house|home|bed)|bed warm"),
@@ -316,7 +326,7 @@ SUBNICHE_RULES = [
      r"troubleshoot|diagnos|error codes?|fault codes?|\bfaults?\b|lockout|\bcodes?\b|blink|flashing|\b[a-z]\d{1,2}\b (code|error)|"
      r"\berror\b|not working|won'?t (turn|start|come)|stopped working|\bfix(ed|ing|es)?\b|\brepair"),
     ("adjacent: solar, batteries and home energy systems", "adjacent: solar and home energy", "adjacent",
-     r"\bsolar|powerwall|home batter|\bbatter(y|ies)\b|\bev\b|electric (car|vehicle)|\binverter\b(?! (ac|mini|heat))|"
+     r"\bsolar|powerwall|home batter|\bbatter(y|ies)\b|\bev\b|electric (car|vehicle)|\binverter (generator|batter\w+|for solar)|solar inverter|"
      r"net zero|zero carbon|\benergy (system|independence|storage)|hydrogen|\bnuclear\b|wind turbine"),
     ("trade: careers, business and tech life", "trade-facing", "trade",
      r"#bluecollar|#hvacguy|#hvac(contractor|tech|technician|service)|\bcustomers?\b|\bep(isode|\.)? ?\d|\bseason \d|"
@@ -365,7 +375,7 @@ def primary(title):
 # ---------------------------------------------------------------------------------------------------------------
 HANDCHECK = {  # video_id -> (my sub-niche or "=", note)
     'jzEu33PfP9E': ('off-grid heat: free-heat tricks and DIY heaters', 'homemade radiator heated free from diesel-heater exhaust: a DIY free-heat build'),
-    'VgwWoHq8pjE': ('=', 'a wood-stove build'),
+    'VgwWoHq8pjE': ('off-grid heat: DIY stove builds (cement, barrel, brick craft)', '(split added after this check) a stove-building craft video'),
     '0lKIYb5R62c': ('not HVAC', 'ignition coil pack is a car part; an is_hvac false positive'),
     'dg8KqDEpOyE': ('=', ''),
     '-adyiizXIIE': ('=', "a 'best' list = brand verdicts (labels.md: choosing across a category)"),
@@ -428,7 +438,7 @@ HANDCHECK = {  # video_id -> (my sub-niche or "=", note)
     '_P3pVtShkcc': ('scams and upsells', "'HVAC companies make a living off this' = the company villain; the fix itself is not named"),
     'dyusib94N20': ('oil heat', 'oil furnace service (oil filter)'),
     'etr11lF-Fu0': ('=', ''),
-    'BoiUDGU_VUw': ('=', ''),
+    'BoiUDGU_VUw': ('off-grid heat: DIY stove builds (cement, barrel, brick craft)', '(split added after this check) a stove-building craft video'),
     'rFAQTAnM0H4': ('=', ''),
     'h-s5G15iqDc': ('=', ''),
     '0lfMtdU4C3c': ('=', 'louvers on an AC; type of AC not named'),
@@ -440,7 +450,7 @@ HANDCHECK = {  # video_id -> (my sub-niche or "=", note)
     'I5nNfA1NFUw': ('=', ''),
     'IW9pt75WAto': ('=', 'furnace-specific maintenance stays furnaces (labels.md: seasonal = across the whole system)'),
     'LMZNx2XF6RQ': ('=', ''),
-    'D8-2aks4ulo': ('off-grid heat: wood and pellet stoves, fireplaces', 'a wood stove built from bricks'),
+    'D8-2aks4ulo': ('off-grid heat: DIY stove builds (cement, barrel, brick craft)', 'a wood stove built from bricks (DIY stove-build split added after this check)'),
     'Bk1H8BrI6-g': ('ducts and vents', 'a hot bonus room = airflow / uneven rooms'),
     'jk4AWVn_Z1s': ('=', ''),
     'KdmFeXbdlGs': ('=', ''),
@@ -568,6 +578,64 @@ FIRST_PASS = {  # video_id -> the rule's tag when the sample was first read
     'f-fnwJ_L3GM': 'AC: window',
 }
 
+# Titles where I agreed with the rule when I read them, and whose tag (mine and the rule's) moved to the DIY
+# stove-build split added afterwards.
+SPLIT_LATER = {"VgwWoHq8pjE", "BoiUDGU_VUw", "y5XV2kp0PiY"}
+# Fresh check (written after the fixes): 50 more A-C HVAC titles, random.Random(2612).sample of the sorted IDs
+# not in the seed-2611 sample. video_id -> (rule's tag when read, my sub-niche or "=", note).
+FRESH_CHECK = {
+    'Isjsvft-3kw': ('trade: commercial and refrigeration', '=', ''),
+    'lk3tuUg2jKU': ('ducts and vents', 'AC: central', 'warm air from the vents of a Trane system = not cooling; vents are where she felt it'),
+    '-ctojtnu_vQ': ('trade: careers, business and tech life', 'trade: commercial and refrigeration', 'rooftop package unit maintenance (commercial); trade either way'),
+    'ObvRH5JDOZM': ('energy bills', '=', ''),
+    'DnqOOzIz7ic': ('indoor air and purifiers', '=', ''),
+    'CvH8xDoDvd4': ('smart thermostats', '=', ''),
+    'sz5tjkwGvXg': ('mini-split', '=', ''),
+    'heez6VLi4hg': ('AC: central', '=', ''),
+    'bHL_oMwztNs': ('general: heating (equipment not named)', 'general: no heat (equipment not named)', "'the moment your heat goes out'"),
+    'R9vtoIes4x0': ('furnaces', '=', ''),
+    'IoS5BMs5yY8': ('filters', 'indoor air and purifiers', "an ionizer purifier; 'without filters' is the pitch"),
+    'cPwYBdTsww0': ('drafts, insulation and windows', 'AC: central', 'a central AC install in the attic; the attic is the location'),
+    'X6UvlAmGliM': ('off-grid heat: free-heat tricks and DIY heaters', '=', ''),
+    'f2j7WdlY5bw': ('evaporative coolers', '=', ''),
+    'vZKjLiRbtis': ('replacement cost and quotes', '=', ''),
+    '6sx1qrmGZ0g': ('brand verdicts', '=', ''),
+    'OBiasIlDjRQ': ('boilers, radiators and steam', '=', ''),
+    'NNYYmyGUWY0': ('thermostats', '=', ''),
+    'E8QuIurpmt4': ('heat and power in an outage', '=', ''),
+    'hWDFD_I9s2U': ('off-grid heat: free-heat tricks and DIY heaters', '=', ''),
+    'feAUrVDhuBo': ('furnaces', 'staying warm without heating (body, bed, clothes)', 'items for when the furnace dies, not furnace repair'),
+    'ezKweiF6YNM': ('ducts and vents', 'indoor air and purifiers', 'the ERV is the subject; the ductwork is the question about it'),
+    'GpKeKdETd1I': ('off-grid heat: wood and pellet stoves, fireplaces', '=', ''),
+    'Hv2y9oAdEKQ': ('oil heat', '=', ''),
+    'y5XV2kp0PiY': ('off-grid heat: wood and pellet stoves, fireplaces', 'off-grid heat: DIY stove builds (cement, barrel, brick craft)', 'a stove built from a gas cylinder (DIY stove-build split added after this check; counted as agreeing when read)'),
+    'UBDJXU6_1zg': ('off-grid heat: wood and pellet stoves, fireplaces', '=', ''),
+    'eic0r6AhCXE': ('trade: technical training', '=', ''),
+    '7pA23BGW6QU': ('adjacent: solar, batteries and home energy systems', 'buy or replace (sizing, repair vs replace, new system)', 'high-SEER inverter systems: an equipment choice, not solar'),
+    '4tRfzOjTV8s': ('heat and power in an outage', '=', ''),
+    '5X4q5iL8K4Q': ('seasonal maintenance', 'off-grid heat: free-heat tricks and DIY heaters', 'heating sources that need no electricity'),
+    'TjltfDyVluo': ('off-grid heat: wood and pellet stoves, fireplaces', '=', ''),
+    'Mh2FgUXgp68': ('thermostats', 'cooling without AC (tricks, DIY coolers)', 'a clay trick that cools a room; 65° is not a thermostat setting'),
+    'ovNGqHTRRIk': ('adjacent: solar, batteries and home energy systems', '=', ''),
+    'kSgLM4HSl_U': ('trade: careers, business and tech life', '=', ''),
+    'IISH9nTOwN8': ('furnaces', '=', ''),
+    'cKTFJm7J09w': ('trade: careers, business and tech life', '=', ''),
+    'adrXIOHiKgU': ('AC: central', '=', ''),
+    '48k3AlQLYao': ('AC: portable', 'space heaters (electric)', 'a Dreo convection heater, not a portable AC'),
+    'MnoXmoU5YR8': ('trade: technical training', 'brand verdicts', "a 'best 12000 BTU ACs' round-up; 'HVAC Training 101' is the channel's tag"),
+    'N9FZ2l3cOgY': ('drafts, insulation and windows', '=', ''),
+    '3cVbRkEeLWY': ('RV, van, tent and camping heat or cool', 'off-grid heat: free-heat tricks and DIY heaters', 'a tin-can rocket stove build; camping is the use'),
+    '3NVZFAcqDOk': ('boilers, radiators and steam', '=', ''),
+    'exM3TGNGnSU': ('parts homeowners touch', '=', ''),
+    'pv_bhBd9wUc': ('general: HVAC, topic not named', 'trade: careers, business and tech life', "a tech's scrap-pile vlog"),
+    'matJ5R4VA6I': ('staying warm without heating (body, bed, clothes)', '=', ''),
+    'BN-uV3R7inc': ('replacement cost and quotes', '=', ''),
+    '6ffHk08yqaQ': ('energy bills', '=', ''),
+    'CxnZrYrdEQc': ('space heaters (electric)', 'furnaces', "furnace not blowing air; 'furnace heater' is not a space heater"),
+    'X0DcioS0FM8': ('off-grid heat: wood and pellet stoves, fireplaces', '=', ''),
+    'HfMwakAYUbM': ('ducts and vents', 'drafts, insulation and windows', 'attic roof vents (box vs ridge), not HVAC ducts or registers'),
+}
+
 
 # ---------------------------------------------------------------------------------------------------------------
 def fnum(x):
@@ -688,7 +756,8 @@ def main_table(groups, title_note, ranked=True):
            "|---:|---|---|---:|---:|---:|---:|---:|---:|---:|"]
     rows = sorted(groups.items(), key=lambda kv: (-(kv[1]["med_mult"] or 0), -kv[1]["n"]))
     for i, (k, s) in enumerate(rows, 1):
-        out.append(f"| {i if ranked else '-'} | {k} | {PARENT_OF[k]} | {s['n']:,} | {s['channels']} | {fv(s['med_views'])} | "
+        nm = f"{k} (general)" if SCOPE_OF[k] == "general" else k
+        out.append(f"| {i if ranked else '-'} | {nm} | {PARENT_OF[k]} | {s['n']:,} | {s['channels']} | {fv(s['med_views'])} | "
                    f"{fm(s['med_mult'])} ({s['n_mult']}) | {fp(s['share2x'])} | {fp(s['top_ch_share'])} | {s['persona']} |")
     return out
 
@@ -738,6 +807,7 @@ def build(vids, chans, typed, type_files):
              "the all-time multiples lean high for old-video sub-niches; the 12-month table is the fairer comparison.")
     W.append("- **Medians, not means,** and every row shows n. Sub-niches with n under 15 are listed separately, not ranked. "
              "\"Biggest channel's share\" warns when one channel makes most of a row.\n")
+    summary_at = len(W)
 
     W.append("## Method\n")
     W.append(f"- **The map set:** every long-form (5:00+) video marked HVAC (`is_hvac = yes`) of the **tier A, B and C** "
@@ -752,7 +822,7 @@ def build(vids, chans, typed, type_files):
              "RV / van / camping, garage and shop, error codes, and the general catch-alls) are **proposals** and need "
              "the operator's yes before `labels.md` takes them. Fine splits inside a parent (refrigerant, coils, "
              "condensate drain inside AC: central; smart thermostats inside thermostats; oil heat inside boilers and "
-             "old-house heat; the four off-grid splits; scams, quotes, contractor choice and buy-or-replace inside "
+             "old-house heat; the six off-grid splits (DIY stove builds, free-heat tricks, wood and pellet stoves, diesel / propane / kerosene heaters, electric space heaters, staying warm); scams, quotes, contractor choice and buy-or-replace inside "
              "buying and replacing) are also my proposals.")
     W.append("- **One primary sub-niche per video. Ties break by rule order: the first rule that matches wins.** The order "
              "(top of `subniche_map.py`): out-of-scope, adjacent and trade-facing first; then the homeowner *question* "
@@ -773,9 +843,11 @@ def build(vids, chans, typed, type_files):
              f"{100 * (unm + gen) / n_ac:.1f}% have no specific topic. Many of the unmapped are not HVAC at all "
              "(errors of the `is_hvac` title mark, e.g. juicers, lawn care), which this map does not re-decide.")
     tyline = (f"- **Channel types:** the round 3 type helpers' files ({', '.join(type_files)}) typed "
-              f"{typed_from_helpers} of the {len(ac_ch)} A-C channels in the map; the rest use the provisional type "
-              "carried forward from round 2 in `census-channels-2026-10-26.csv` (sources R1, NX2, the round 2 checker, "
-              "and \"brand by channel name\"), where one exists.") if type_files else (
+              f"{typed_from_helpers} of the {len(ac_ch)} A-C channels in the map" + (
+              "." if typed_from_helpers == len(ac_ch) else "; the rest use the provisional type carried forward from "
+              "round 2 in `census-channels-2026-10-26.csv`, where one exists.") + " Types there are the helpers' "
+              "readings from thumbnail sheets and About text, not measurements; not yet re-checked by a second helper "
+              "here.") if type_files else (
               "- **Channel types:** no `census-types-*-2026-10-26.csv` file existed when this was built (the round 3 "
               "type helpers were still running), so types are the **provisional** ones carried forward from round 2 "
               "in `census-channels-2026-10-26.csv` (sources R1, NX2, the round 2 checker, \"brand by channel name\"). "
@@ -835,7 +907,9 @@ def build(vids, chans, typed, type_files):
         for k, a, b, gap in rows:
             if a["n"] + b["n"] < MIN_N:
                 continue
-            out.append(f"| {k} | {a['n']:,} | {fv(a['med_views'])} | {fm(a['med_mult'])} | {fp(a['share2x'])} | {b['n']:,} | "
+            fa = "*" if a["n"] >= MIN_N and (a["top_ch_share"] or 0) >= 0.5 else ""
+            fb = "*" if b["n"] >= MIN_N and (b["top_ch_share"] or 0) >= 0.5 else ""
+            out.append(f"| {k} | {a['n']:,}{fa} | {fv(a['med_views'])} | {fm(a['med_mult'])} | {fp(a['share2x'])} | {b['n']:,}{fb} | "
                        f"{fv(b['med_views'])} | {fm(b['med_mult'])} | {fp(b['share2x'])} | "
                        f"{'-' if gap is None else f'{gap:+.2f}'} |")
         return out, rows
@@ -845,7 +919,9 @@ def build(vids, chans, typed, type_files):
     W.append("## Split by tier: A vs B/C\n")
     W.append("Tier A = 50%+ of the latest 30 long-form titles HVAC; B/C = 10-49% (C = adjacent-lane channels: off-grid, "
              "old ways, frugal, energy). Rows sorted by the size of the gap (where both sides have n >= 15), then by n; "
-             "rows with fewer than 15 videos in total are left out.\n")
+             "rows with fewer than 15 videos in total are left out. `*` after an n = one channel made 50%+ of that cell "
+             "(read it as that channel, not the sub-niche). All-time gaps mix in video age (old videos on a recent "
+             "baseline); the 12-month gaps are the fairer ones.\n")
     gaps = {}
     for label, vs in (("all time", ac), ("last 12 months", rec)):
         W.append(f"### {label}\n")
@@ -856,7 +932,7 @@ def build(vids, chans, typed, type_files):
     W.append("## Split by channel type: faceless (incl. faceless persona) vs on camera\n")
     W.append("Types are readings (see Method for how many channels were typed and from where). Brand and AI-avatar "
              "channels and untyped channels are left out of this split. Faceless-persona videos are also counted in "
-             "every map row and shown separately below.\n")
+             "every map row and shown separately below. `*` after an n = one channel made 50%+ of that cell.\n")
     for label, vs in (("all time", ac), ("last 12 months", rec)):
         W.append(f"### {label}\n")
         t, rows = split_table(vs, type_key, {"faceless", "faceless persona"}, {"on camera"}, "faceless", "on camera")
@@ -906,9 +982,12 @@ def build(vids, chans, typed, type_files):
     W.append("`random.Random(2611).sample` of the A-C HVAC video IDs, sorted. I read each title and gave my own primary "
              "sub-niche under the same tie-break (a reading). \"First pass\" = the rule's tag when I first read the "
              "sample; \"rule now\" = after the fixes the sample led to (the rules were then re-run). Agreement after "
-             "fixes is not an independent test, because the fixes were written from this sample.\n")
+             "fixes is not an independent test, because the fixes were written from this sample. Three titles I agreed with "
+             "when read (two here, one in the fresh check) later moved, with my reading, to the DIY stove-build split "
+             "added after both checks; they count as agreeing when read.\n")
     if HANDCHECK:
-        agree_first = sum(1 for v in smp if HANDCHECK.get(v["video_id"], ("?",))[0] in ("=", FIRST_PASS.get(v["video_id"])))
+        agree_first = sum(1 for v in smp if HANDCHECK.get(v["video_id"], ("?",))[0] in ("=", FIRST_PASS.get(v["video_id"]))
+                          or v["video_id"] in SPLIT_LATER)
         def mine(v):
             m = HANDCHECK[v["video_id"]][0]
             return FIRST_PASS.get(v["video_id"], v["subniche"]) if m == "=" else m
@@ -927,6 +1006,50 @@ def build(vids, chans, typed, type_files):
         W.append("")
     else:
         W.append("(not yet filled)\n")
+    if FRESH_CHECK:
+        vd = {v["video_id"]: v for v in vids}
+        def fmine(vid):
+            old, m, _ = FRESH_CHECK[vid]
+            return old if m == "=" else m
+        a_then = sum(1 for vid, (old, m, _) in FRESH_CHECK.items() if m == "=" or vid in SPLIT_LATER)
+        a_now = sum(1 for vid in FRESH_CHECK if fmine(vid) == vd[vid]["subniche"])
+        p_then = sum(1 for vid, (old, m, _) in FRESH_CHECK.items()
+                     if PARENT_OF.get(fmine(vid), fmine(vid)) == PARENT_OF.get(old, old) or vid in SPLIT_LATER)
+        W.append("### Fresh check: 50 more titles read after the seed-2611 fixes (seed 2612)\n")
+        W.append("Because the after-fix figure above is not independent, I drew 50 more A-C HVAC titles "
+                 "(`random.Random(2612).sample` of the sorted IDs not in the first sample) and read them against the "
+                 f"rules as they then stood. **Agreement when read: {a_then} of 50 ({2 * a_then}%) at the fine sub-niche, "
+                 f"{p_then} of 50 at the labels.md parent.** This is the fairest estimate of the map's accuracy. I then "
+                 f"fixed the clear rule errors it showed; agreement with the rules now: {a_now} of 50 (again not "
+                 "independent).\n")
+        W.append("| # | ID | Title | Rule when read | Rule now | Mine | Note |")
+        W.append("|---:|---|---|---|---|---|---|")
+        for i, (vid, (old, m, note)) in enumerate(FRESH_CHECK.items(), 1):
+            v = vd[vid]
+            W.append(f"| {i} | `{vid}` | \"{md(v['title'])}\" | {old} | {v['subniche']} | {fmine(vid)} | {md(note)} |")
+        W.append("")
+    S = ["## Summary (tiers A-C; sub-niches are rule-based readings, views tab-rounded, dates approximate)\n"]
+    for label, vs in (("all time", ac), ("last 12 months", rec)):
+        g = by([v for v in vs if SCOPE_OF[v["subniche"]] == "home"])
+        st = sorted(((k, stats(x)) for k, x in g.items() if len(x) >= MIN_N), key=lambda kv: -(kv[1]["med_mult"] or 0))
+        S.append(f"**Top 15 homeowner sub-niches by median multiple, {label}** (n >= {MIN_N}; general catch-alls, "
+                 "trade and adjacent left out):\n")
+        S.append("| # | Sub-niche | n | channels | median views | median multiple | share at 2x+ | biggest channel's share |")
+        S.append("|---:|---|---:|---:|---:|---:|---:|---:|")
+        for i, (k, x) in enumerate(st[:15], 1):
+            S.append(f"| {i} | {k} | {x['n']:,} | {x['channels']} | {fv(x['med_views'])} | {fm(x['med_mult'])} | "
+                     f"{fp(x['share2x'])} | {fp(x['top_ch_share'])} |")
+        S.append("")
+    for kind, la, lb in (("tier", "A", "B/C"), ("type", "faceless (incl. persona)", "on camera")):
+        for label in ("last 12 months", "all time"):
+            rows = [r for r in gaps[(kind, label)] if r[3] is not None and SCOPE_OF[r[0]] == "home"
+                    and (r[1]["top_ch_share"] or 0) < 0.5 and (r[2]["top_ch_share"] or 0) < 0.5]
+            rows.sort(key=lambda r: -abs(r[3]))
+            S.append(f"**Biggest {kind} gaps, {label}** ({la} vs {lb}, median multiple; both n >= {MIN_N}, no cell "
+                     "where one channel made 50%+): " + "; ".join(
+                         f"{k} {fm(a['med_mult'])} (n {a['n']}) vs {fm(b['med_mult'])} (n {b['n']})"
+                         for k, a, b, gap in rows[:6]) + ".\n")
+    W[summary_at:summary_at] = S
     with open(OUT_MD, "w", encoding="utf-8") as f:
         f.write("\n".join(W) + "\n")
     return gaps
