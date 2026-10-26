@@ -95,13 +95,13 @@ SUBNICHE_RULES = [
      r"business owners?|#hvaclife|#hvacbusiness|#bluecollar|#hvacguy|women in hvac|ride ?along|along for the ride|"
      r"\bpodcast|interview|\bhiring\b|\bcustomers?\b.{0,20}\b(upset|difficult|angry|service)|de-?escalat|"
      r"\bmy (first|last) (day|year|week)\b|quit(ting)? (my|the) (job|trade)|\bthe trade\b|\btradesm[ae]n|"
-     r"\bcareer|\bburn ?out|mindset|recession|\bscal(e|ing) (your|a|my)\b|\bdealer meeting|\bexpo\b|ahr|"
-     r"\bep(isode|\.)? ?\d|\bseason \d|\bpart \d+ of \d+|\bsession \d|\blive\b.{0,10}\b(q ?& ?a|stream)|q ?& ?a|"
+     r"\bcareer|\bburn ?out|mindset|recession|\bscal(e|ing) (your|a|my)\b|\bdealer meeting|\bexpo\b|\bahr\b|"
+     r"\bep(isode|\.)? ?\d|\bseason \d|\bsession \d|\blive\b.{0,10}\b(q ?& ?a|stream)|q ?& ?a|"
      r"\bhvac (tech|technician)s?\b.{0,25}\b(life|vlog|pov|pay|day|work day|week|year)|\bpov\b|tool ?bag|"
      r"bag (loadout|setup)|tool (review|haul|tour)|\bnew tools?\b|tools? (i use|every (hvac )?tech|for (hvac )?techs)|"
      r"\bvan tour|work van|service van|\bcrew\b"),
     ("trade: technical training", "trade-facing", "trade",
-     r"training|practice test|exam|\bepa ?60[89]|\bceu|superheat|subcool|manifold|\bgauges?\b|wiring diagram|"
+     r"training|practice test|\bexams?\b|exam prep|\bepa ?60[89]|\bceu|superheat|subcool|manifold|\bgauges?\b|wiring diagram|"
      r"sequence of operation|pt chart|\btxv|\btev\b|expansion valve|metering device|\bpiston\b|brazing|\bbraz|"
      r"nitrogen|micron|vacuum pump|pulling (a )?vacuum|\bevacuat|recovery machine|\bmeasurequick|\bimanifold|"
      r"\bfieldpiece|\bveto\b|\bklein\b|\bmultimeter|\bmeter\b(?! (test|reading))|\bamp (draw|clamp)|\bohms?\b|"
@@ -246,10 +246,7 @@ SUBNICHE_RULES = [
      r"collector|panel heater)|can heater|soda cans?|beer cans?|tuna can|aluminum cans|tin cans?|waste oil|used oil|"
      r"motor oil|diy (heater|stove|heating|furnace)|homemade (heater|stove|heating|furnace)|make (a|your own) (heater|"
      r"stove)|no (gas|wood|electricity|fuel)\b|sand battery|thermal mass|compost heat|cement stove|\bbrick|"
-     r"charcoal|alcohol (heater|stove)|heat bank|\bjar\b|\bbottles?\b|\bpvc\b|invention|\bgenius|ingenious|"
-     r"\btrick\b|\bhack\b|\bclever\b|\bforgotten\b|\bold[- ]?(time|fashioned|school|timers?)\b|\bamish\b|"
-     r"\bgrand(ma|pa|mother|father|parents)|depression[- ]era|pioneer|\bancient\b|\bvictorian\b|\b1800s\b|"
-     r"\bmountain men\b|\bsoviet\b|\bmiracle\b|perpetual|unlimited heat|\bbanned\b|\bsecret\b"),
+     r"charcoal|alcohol (heater|stove)|heat bank|\bjar\b|\bpvc\b|perpetual|unlimited heat"),
     ("oil heat", P_BOIL, "home",
      r"oil burner|oil[- ]fired|heating oil|oil tank|oil furnace|oil heat|\boil boiler|beckett|riello|\bnozzle|"
      r"home heating oil|\boil (delivery|prices?|line|filter|pump|level)|fuel oil|\b#2 oil|\boil vs\.?|vs\.? oil\b"),
@@ -278,7 +275,12 @@ SUBNICHE_RULES = [
     ("heating fuel and fuel choice", "heating fuel and fuel choice", "home",
      r"\bpropane\b|natural gas|\bfuel\b|gas vs|vs\.? gas|gas or electric|electric vs\.? gas|\blpg\b|"
      r"cheapest (way|heat|heating|to heat|form)|\bgas (prices?|supply|ban|line|meter|company)|\bgas\b"),
-    # 6. broad topics, then catch-alls
+    # 6. broad topics, then catch-alls. The old-ways / trick words only decide when no equipment or topic did.
+    ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
+     r"\bbottles?\b|invention|\bgenius|ingenious|\btricks?\b|\bhacks?\b|\bclever\b|\bforgotten\b|"
+     r"\bold[- ]?(time|fashioned|school|timers?|ways?)\b|\bamish\b|\bgrand(ma|pa|mother|father|parents)|"
+     r"depression[- ]era|\bpioneers?\b|\bancient\b|\bvictorian\b|\b1[89]00s\b|\bmountain men\b|\bsoviet\b|"
+     r"\bmiracle\b|\bbanned\b|\bsecrets?\b|\bhomestead|\boff[- ]grid\b|\bfree\b"),
     ("seasonal maintenance", "seasonal maintenance", "home",
      r"maintenance|maintain|tune[- ]?up|before (winter|summer|you turn|the first|heating season|cooling season|it gets|"
      r"the cold|the heat|fall|spring)|checklist|\bspring\b|\bfall\b|\bautumn\b|\bwinteriz|summeriz|first freeze|"
@@ -297,7 +299,8 @@ SUBNICHE_RULES = [
      r"net zero|zero carbon|\benergy (system|independence|storage)|hydrogen|\bnuclear\b|wind turbine"),
     ("general: HVAC basics and how it works", NEWP, "general",
      r"how (does |do |a |an |your |the )?(hvac|heating|cooling|ac|a/c|system|it)( system)? works?|hvac (basics|101|"
-     r"explained|components|system)|explained|how .{0,30} works?\b|\bhvac\b"),
+     r"explained|components)|explained|how .{0,30} works?\b|\bbasics\b"),
+    ("general: HVAC, topic not named", NEWP, "general", r"\bhvac"),
     ("general: no heat (equipment not named)", NEWP, "general",
      r"no heat|not heating|heat(er|ing)? (is )?not working|won'?t heat|no (warm|hot) air|blowing cold|"
      r"house (is|so|too|feels) cold"),
@@ -316,7 +319,11 @@ PARENT_OF[FALLBACK[0]] = FALLBACK[1]
 
 def tags(title):
     t = norm(title)
-    return [n for n, p, s, rx in SUBNICHE_RX if rx.search(t)]
+    out = []
+    for n, p, s, rx in SUBNICHE_RX:
+        if n not in out and rx.search(t):
+            out.append(n)
+    return out
 
 
 def primary(title):

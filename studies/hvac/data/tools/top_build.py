@@ -169,6 +169,123 @@ def stage_pool(scratch):
     print("ids to pull", len(ids))
 
 
+
+# ---------------------------------------------------------------------------------------------------------------
+# Hand review (main-session helper, 2026-10-26). Every title that would enter a list was read. KEEP lists the IDs read
+# and kept (including rule pre-drops reversed by hand); DROP holds the IDs read and dropped, with the reason.
+# ---------------------------------------------------------------------------------------------------------------
+from top_review import KEEP, DROP, LABELS  # noqa: E402
+
+LANG_DESC = re.compile(r"\b(in|en) (hindi|urdu|tamil|telugu|bangla|bengali|marathi|kannada|malayalam|punjabi|nepali|"
+                       r"tagalog|spanish|arabic|portuguese|español|kurdish|vietnamese|indonesian|russian)\b|"
+                       r"\bhindi\b|\burdu\b|\bespañol\b|\bportuguês\b|\bvideo ini\b|\bcara membuat\b|\bकैसे\b", re.I)
+
+
+def nonlatin_share(s):
+    import unicodedata
+    letters = [c for c in s if c.isalpha()]
+    if not letters:
+        return 0.0
+    return sum(1 for c in letters if not unicodedata.name(c, "").startswith("LATIN")) / len(letters)
+
+
+def fmt_len(s):
+    if s is None:
+        return "not found"
+    h, m, sec = s // 3600, (s % 3600) // 60, s % 60
+    return f"{h}:{m:02d}:{sec:02d}" if h else f"{m}:{sec:02d}"
+
+
+def load_types():
+    import glob
+    types = {}
+    for fn in sorted(glob.glob(os.path.join(RAW, "census-types-*-2026-10-26.csv"))):
+        for r in csv.DictReader(open(fn)):
+            cid = r.get("channel_id") or r.get("channelId") or r.get("id")
+            t = r.get("type") or r.get("type_reading") or r.get("channel_type")
+            if cid and t:
+                types[cid] = (t, os.path.basename(fn))
+    return types
+
+
+def md(s):
+    return (s or "").replace("|", "\\|").replace("\n", " ")
+
+
+def build(exact_path, baselines_path=None):
+    pool, chans = load_pool()
+    ex = {}
+    for l in open(exact_path):
+        if l.strip():
+            j = json.loads(l)
+            ex[j["id"]] = j
+    extra = json.load(open(baselines_path)) if baselines_path and os.path.exists(baselines_path) else {}
+    types = load_types()
+    rows = []
+    for vid, p in pool.items():
+        e = ex.get(vid)
+        if not e:
+            continue
+        r = dict(p)
+        r["exact"] = e
+        r["views"] = e.get("views")
+        r["date"] = e.get("date")
+        r["title_final"] = e.get("title_original") or e.get("title_next") or p["title"]
+        r["handle"] = e.get("owner_handle") or p.get("handle") or ""
+        cid = e.get("owner_channel_id") or p["channel_id"]
+        r["channel_id"] = cid
+        c = chans.get(cid)
+        if c:
+            r["baseline"], r["baseline_rule"], r["baseline_n"] = (int(c["baseline"]) if c["baseline"] else None), c["baseline_rule"], (int(c["baseline_n"]) if c["baseline_n"] else 0)
+            r["baseline_src"] = "census-channels-2026-10-26.csv"
+            r["tier"] = c["tier"]
+            r["ctype"] = c["type"]
+        elif cid in extra and extra[cid].get("baseline"):
+            b = extra[cid]
+            r["baseline"], r["baseline_rule"], r["baseline_n"] = b["baseline"], b["rule"], b["n"]
+            r["baseline_src"] = "pulled for this build (yt_allsorts.py, " + b["pulled"][:10] + ")"
+            r["tier"] = "not in census"
+            r["ctype"] = ""
+        else:
+            r["baseline"], r["baseline_rule"], r["baseline_n"], r["baseline_src"] = None, "", 0, "not found"
+            r["tier"] = r.get("tier") or "not in census"
+            r["ctype"] = r.get("ctype") or ""
+        if cid in types:
+            r["ctype"] = types[cid][0] + " (" + types[cid][1] + ")"
+        elif r["ctype"]:
+            r["ctype"] = r["ctype"] + " (census CSV)"
+        else:
+            r["ctype"] = "not found"
+        r["mult"] = (r["views"] / r["baseline"]) if (r["views"] is not None and r["baseline"]) else None
+        # English: original title rule + description words + description script
+        ok, why = english_check(r["title_final"])
+        lang = None
+        if not ok:
+            lang = "not English (original title: " + why + ")"
+        elif LANG_DESC.search(e.get("description_head") or ""):
+            lang = "not English (description names another language)"
+        elif nonlatin_share(e.get("description_head") or "") >= 0.3:
+            lang = "not English (description mostly in a non-Latin script)"
+        r["lang_drop"] = lang
+        # decision
+        if vid in DROP:
+            r["decision"], r["reason"] = "drop", "hand: " + DROP[vid]
+        elif lang and vid not in KEEP:
+            r["decision"], r["reason"] = "drop", lang
+        elif vid in KEEP:
+            r["decision"], r["reason"] = "keep", ("hand: kept (rule pre-drop reversed: " + p["pre_drop"] + ")") if p["pre_drop"] else "hand: kept"
+        elif p["pre_drop"]:
+            r["decision"], r["reason"] = "drop", "rule: " + p["pre_drop"]
+        else:
+            r["decision"], r["reason"] = "unreviewed", ""
+        if r["dur"] is not None and r["dur"] < 300:
+            r["decision"], r["reason"] = "drop", "under 5:00"
+        if r["views"] is None:
+            r["decision"], r["reason"] = "drop", "no exact views (" + e.get("error", "") + ")"
+        rows.append(r)
+    return rows
+
+
 if __name__ == "__main__":
     if sys.argv[1] == "pool":
         stage_pool(sys.argv[2])
