@@ -164,3 +164,7 @@ The operator: "i have read none of this yet. chat context is too large, so we do
 - "NEVER leave plugged in" lists: "we dont really want to proceed for now"
 
 **Operator on emotions (2026-10-26):** "these are all important the emotions, we must track them but also track how the script makes them sound". Gap: this study labelled emotions from titles (and thumbnails for the top 100 and recent winners) only; no transcripts were read. To do (operator's call on when): a script-level look, i.e. transcripts of top videos per emotion and how the script voices each one (the opening lines, where the fear or pride comes in, the words used), for `CONCLUSIONS.md` and the scripting pack.
+
+**Operator on script emotions and fire (2026-10-26):**
+- The transcript look at how scripts voice each emotion is deferred: "we can do that when developing script SOPs on script emotions. for now its good what we do".
+- "we dont want any more fire type vids for now. the fire investigtor is interesting but not rly education. not our current lane". Fire investigator ruled out as a lane and a background. Reading (to confirm at question 1): no fire-prevention topic videos (space heaters, cords, "what starts fires", kitchen fires); fire and shock may still be the stakes inside electrical topics.
