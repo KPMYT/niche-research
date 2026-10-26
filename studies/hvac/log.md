@@ -52,3 +52,5 @@
 ## Round 5: thumbnails (started 2026-10-26, alongside round 4)
 
 - 2 helpers: the top 100 and recent winners (`thumbnails/labels-top-winners.csv`), and the main channels' top 5 (`thumbnails/labels-channel-top5.csv`); images in `thumbnails/img/`. The page follows once both land.
+- **Thumbnails, top 100 and recent winners done (2026-10-26):** `round5/thumbs-top-winners.md`, `thumbnails/labels-top-winners.csv`: 214 thumbnails (readings by eye). The biggest videos often carry no headline text (half of the all-time top 10 and of the 12-month top 10); 81 of the top 100 are real photos while 92 of the 120 recent winners are AI images (the look tracks upload year); the "AI persona + bold text + red arrow" style fills 12 of the 90-day top 30 by multiple and none of the 12-month top 10 by views. Its scripts and raw lists copied from the scratchpad into `data/tools/round5/` and `data/raw/round5/`.
+- **Labels, batches 2, 6 and 8 done (2026-10-26).**

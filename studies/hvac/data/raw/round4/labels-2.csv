@@ -36,7 +36,7 @@ U7imuv6W7hA,y,boiler-oldheat,how-to,,,,none,sight glass
 gwTvbez1A9I,y,humidity-air,secret,E10,E19,E1,utility,$3; Big Electric
 1htdAcoctKo,y,heat-pump,review,E1,,,none,Octopus Cosy 6; running costs; UK
 aIGlgSw4Wu0,y,ac-central,story,E4,E1,,none,neglected systems
-LecZcZs7A5g,y,offgrid-heat,explainer,E10,,,none,Top 4 wood stoves
+LecZcZs7A5g,?,offgrid-heat,explainer,E10,,,none,"Top 4 wood stoves; cement-stove channel, maybe cooking"
 fAMi6tAsAas,y,hvac-general,symptom-fix,E10,E6,,none,no heat call
 eVjxRosE3MU,y,cooling-no-ac,secret,E15,E19,E10,none,20 forgotten tricks
 2KsMo2md7tM,y,humidity-air,plain,,,,none,
@@ -1049,3 +1049,597 @@ D-oPHkg8flo,y,ac-portable,only-x,,,,none,"12,000 BTU"
 E1YGiWjOEsg,y,humidity-air,review,E1,,,none,Blue Pure 211i Max
 E_ksV7SLrlE,y,humidity-air,only-x,,,,none,dehumidifier buying guide
 GMPizFytNZI,y,humidity-air,only-x,,,,none,Levoit models
+GcMf9RJ0OE8,y,humidity-air,only-x,,,,none,Rabbit Air models
+IyzghKHSBV8,y,humidity-air,only-x,E1,,,none,under $100
+JKL_k68X4uE,y,humidity-air,review,E3,,,none,Waykar PD160B
+Ji3T20fb-Bc,y,humidity-air,review,E3,,,maker-shelf,Dyson vs cheaper
+KOndWugx1XY,y,humidity-air,only-x,,,,none,IQAir models
+MoYZk2KRL6I,y,humidity-air,only-x,,,,none,basement dehumidifier
+Qq5qPJ6qWO8,y,humidity-air,review,,,,none,Clorox 11010
+Qvki8jjcZlA,y,humidity-air,only-x,,,,none,Germ Guardian models
+TqunoLMaJK4,y,humidity-air,x-vs-y,E1,,,none,Germ Guardian vs Coway
+UYYi-E66BTM,y,ac-portable,review,,,,none,Midea Duo
+Uj5oZvcv8jI,y,humidity-air,test,,,,none,dehumidifier test results
+Ut7roGywoUI,y,humidity-air,only-x,,,,none,quiet
+VcsQGAw_1QE,y,humidity-air,only-x,,,,none,large room v2
+WMIKrW5131s,y,ac-portable,x-vs-y,,,,none,single vs dual hose
+Wz2XIjCIXGo,y,humidity-air,review,,,,none,Honeywell HFD-120-Q
+Y3Rr7sMzRDI,y,humidity-air,review,,,,none,hOmeLabs dehumidifier
+anDkdYhSq8A,y,humidity-air,only-x,,,,none,small room
+b-qfNiheZn4,y,ac-portable,plain,,,,none,quiet
+dWqK3bLo7Yk,y,humidity-air,review,,,,none,Vremi dehumidifier
+gswt4AYvhPk,y,humidity-air,only-x,,,,none,portable
+hGo9dz4BKCQ,y,humidity-air,explainer,,,,none,UV purifiers
+kpZd7l9ZB7s,y,humidity-air,x-vs-y,E1,,,none,$50 vs $200
+kxOOrOzjoy4,y,humidity-air,only-x,,,,none,Honeywell models
+luzeKCeOjaQ,y,humidity-air,x-vs-y,,,,none,Honeywell vs Germ Guardian
+oKlkgxHbA_o,y,humidity-air,x-vs-y,,,,none,IQAir vs Austin Air
+pg2RWsWfnQ0,y,humidity-air,x-vs-y,E1,,,none,$50 vs $500
+qA0n5OmYsMg,y,humidity-air,review,E3,,,maker-shelf,Dyson v3
+qV_cGSlxzPk,y,ac-portable,only-x,,,,none,buying guide
+qa27GB0hp2U,y,humidity-air,x-vs-y,E1,,,none,Winix vs IQAir
+qoIIzPNzhvM,y,humidity-air,only-x,,,,none,Coway models
+rvamRhx_4OM,y,ac-portable,only-x,E1,,,none,cheap
+sTfowmiApSY,y,humidity-air,only-x,,,,none,buying guide v3
+u7g0homqPPY,y,humidity-air,only-x,E1,,,none,under $50
+uPjcZrpIlVs,y,humidity-air,review,E3,,,maker-shelf,Dyson v2
+uSmGjSKRDtk,y,ac-portable,test,,,,none,test results
+wNmRPJ3S57Q,y,humidity-air,only-x,E16,,,none,pets
+wQtLb6x0BFs,y,humidity-air,only-x,,,,none,BlueAir models
+wsFsaQm0w4Y,y,humidity-air,only-x,E16,,,none,allergies
+x2ryistzwes,y,ac-portable,only-x,,,,none,2024 rankings
+x73c5-rMtYY,y,ac-portable,test,,,,none,Dreo AC318S tests
+xawaHvuTcbY,y,humidity-air,only-x,,,,none,buying guide v2
+xuuiRnK_Jzk,y,humidity-air,only-x,,,,none,dust
+y9rEEX0QdIo,y,humidity-air,review,E3,,,none,Levoit Vital 200S-P
+yBJ_UWtm42A,y,ac-portable,only-x,,,,none,"8,000 BTU"
+yeOJmvLhXDo,y,humidity-air,only-x,,,,none,under $500
+1tei6f4-xiw,?,offgrid-heat,plain,,,,none,cement-stove compilation; maybe cooking
+2KVrivEk_3U,?,offgrid-heat,install-diy,,,,none,brick stove; maybe cooking
+2w-rnK0-z2o,?,offgrid-heat,install-diy,,,,none,gas-cylinder stove; maybe cooking
+4jo_vG09Arg,?,offgrid-heat,install-diy,,,,none,sink stove; maybe cooking
+6_I6lTbW3x0,?,offgrid-heat,install-diy,,,,none,clay stove; maybe cooking
+6xC3wJjdm18,n,,,,,,,camping stove
+7PcOBqREKhU,?,offgrid-heat,plain,,,,none,stove compilation
+9am422H6S4s,?,offgrid-heat,install-diy,E1,,,none,saves firewood; maybe cooking
+BoiUDGU_VUw,?,offgrid-heat,install-diy,,,,none,barrel stove
+BvYiEuTooac,?,offgrid-heat,install-diy,,,,none,drum stoves
+C4B5srrbqzE,?,offgrid-heat,install-diy,,,,none,stove with fan
+Dts4ZRJe-PY,y,offgrid-heat,install-diy,E20,,,none,metal heating stove
+DuBJ_X9C0l4,?,offgrid-heat,install-diy,,,,none,brick stove
+Dxrxr75YXg8,?,offgrid-heat,install-diy,,,,none,iron box stove
+EJYC-QgGx4U,?,offgrid-heat,install-diy,,,,none,drum stove
+EazGDZPS_AA,?,offgrid-heat,install-diy,,,,none,drum stove
+FKEqOaJTZA0,?,offgrid-heat,install-diy,,,,none,wood-fired stove
+G2krW-pmVZQ,?,offgrid-heat,install-diy,,,,none,cement bucket stove
+GifU1UT34Yw,?,offgrid-heat,plain,,,,none,stove compilation
+GmM18swPccM,n,,,,,,,kitchen cooking stove
+HJo1YEc5C64,?,offgrid-heat,install-diy,,,,none,iron box stove
+J6X-JmZSLqA,?,offgrid-heat,install-diy,,,,none,brick stove
+Jg_tVJpHSe0,?,offgrid-heat,plain,,,,none,stove ideas
+KGXc6qeJhpA,?,offgrid-heat,install-diy,,,,none,gas-cylinder stove
+Kil3uR7SYKQ,?,offgrid-heat,install-diy,,,,none,brick stove
+Kr0XvzT3mZQ,?,offgrid-heat,install-diy,,,,none,brick and clay stove
+L5vGuvmkuOE,?,offgrid-heat,install-diy,,,,none,clay stove; primitive
+LDWvnz2aREk,?,offgrid-heat,install-diy,,,,none,brick stove
+LQOx2zwpIlI,?,offgrid-heat,install-diy,,,,none,cement stove
+Mo23ZekAPNA,?,offgrid-heat,install-diy,,,,none,metal pot stove
+Op-jE1fmoIk,?,offgrid-heat,install-diy,,,,none,brick stove
+P2ygD13UbK8,?,offgrid-heat,install-diy,,,,none,multi-function stove
+PJARXm7UG5Y,?,offgrid-heat,install-diy,,,,none,brick stove
+PKfPfOAJHeI,?,offgrid-heat,install-diy,,,,none,cement stoves
+Q0eJAzHKggQ,?,offgrid-heat,install-diy,,,,none,brick stove
+Q7JhGbNoWhw,n,,,,,,,cooking stove
+QJz0mW61wsg,?,offgrid-heat,install-diy,,,,none,barrel stove
+RWe9czp5ys0,?,offgrid-heat,install-diy,,,,none,stove with wheels
+Rrw7nqw_9L0,?,offgrid-heat,install-diy,,,,none,sawdust stove
+SYj6e922XjI,n,,,,,,,kitchen cooking stove
+SbCxmRAu5fE,?,offgrid-heat,install-diy,,,,none,drum stove
+TNj0hOQdOuM,?,offgrid-heat,install-diy,,,,none,brick stove
+TOLDiTNcvvY,n,,,,,,,cooking stove
+TctWTUbGG84,?,offgrid-heat,install-diy,,,,none,drum stove
+VFX8iwcbeYc,y,offgrid-heat,plain,E20,,,none,metal fireplaces compilation
+Vi3YgQS0ZvQ,?,offgrid-heat,install-diy,,,,none,brick and clay stove
+XLQv_ZNjJtY,?,offgrid-heat,install-diy,,,,none,brick stove
+Y1ZRvl438eo,?,offgrid-heat,install-diy,,,,none,brick stove
+YQ1AVYdBpic,?,offgrid-heat,install-diy,E1,,,none,smoke-free; saves firewood
+ZaUXNtZZCXc,?,offgrid-heat,cheap-hack,,,,none,waste-oil stove replacing gas
+_WzSzzOS8jw,?,offgrid-heat,plain,,,,none,stove compilation 2021
+bi9gOp7L-6w,?,offgrid-heat,install-diy,,,,none,rocket stove
+dMlge_912VY,?,offgrid-heat,plain,,,,none,stove ideas
+e4P36FHSz0I,y,offgrid-heat,install-diy,,,,none,pellet heating stove
+gHaWyrYg5HY,?,offgrid-heat,plain,,,,none,stove ideas
+gfgvvwOz6bU,?,offgrid-heat,install-diy,,,,none,plastic-pot mold stove
+ggTLRPaykpQ,?,offgrid-heat,install-diy,,,,none,bottle mold stove
+hJ0aLV7UuoQ,y,offgrid-heat,install-diy,,,,none,gas-cylinder heating stove
+hdbJR4rxc28,y,offgrid-heat,install-diy,,,,none,fireplace stove
+j8urIhseTBo,?,offgrid-heat,install-diy,,,,none,brick stove
+jMaAnPukp7A,?,offgrid-heat,install-diy,,,,none,gas-cylinder stove
+jm00ZTz8spY,?,offgrid-heat,install-diy,,,,none,brick stove
+knZYaXylo-U,?,offgrid-heat,install-diy,,,,none,brick stove
+m0t1T7wHCQI,?,offgrid-heat,install-diy,,,,none,bucket mold stove
+mDh1jqnvJ7U,y,offgrid-heat,secret,E10,,,none,waste-oil heating stoves; millions don't know
+n6OZgAKUveI,?,offgrid-heat,install-diy,,,,none,clay stoves
+n7x8BIFP22A,?,offgrid-heat,install-diy,,,,none,brick stove
+nIl6g5PSrAs,?,offgrid-heat,install-diy,,,,none,multi-function stove
+o5VNotZ9ppw,?,offgrid-heat,install-diy,,,,none,barrel stove
+oKwv6K2m_Tc,?,offgrid-heat,install-diy,,,,none,3-in-1 stove
+p3Q2CqwK9tM,?,offgrid-heat,install-diy,,,,none,oil-barrel stove
+pcx1khnc36k,?,offgrid-heat,install-diy,,,,none,microwave stove
+q2kITLGMU6I,?,offgrid-heat,install-diy,,,,none,smoke-free stove
+tL3PKvlOyio,?,offgrid-heat,install-diy,,,,none,brick stove
+uGELs-2eGkE,n,,,,,,,cooking stove
+vs2mb72A6lc,?,offgrid-heat,install-diy,,,,none,sink stove
+wYRrlro899k,?,offgrid-heat,install-diy,,,,none,brick stove
+zsdYDf4Iib4,?,offgrid-heat,install-diy,,,,none,basket mold stove
+6PABK4gIHak,n,,,,,,,generator repair
+CFpcbI6rpMQ,y,boiler-oldheat,install-diy,,,,none,Modine hydronic garage heater
+D6Stf1yIG3s,n,,,,,,,cold packs
+D9ofeMYE3aI,n,,,,,,,autoclave
+ElrR22QVo3A,y,boiler-oldheat,symptom-fix,E6,,,none,oil boiler safety trip
+FgtdHJXvH_4,y,ac-central,how-to,,,,none,Schrader core
+IqGrizZJcws,y,ac-central,how-to,E13,,,none,Nu-Calgon
+MWqZKXAvQ9c,n,,,,,,,gable vent carpentry
+RRMopixe4PQ,y,drafts-insulation,how-to,,,,none,knee wall door
+TWBl1aMm69M,n,,,,,,,water cooler
+URw97gLzyE8,n,,,,,,,well tank
+VgFC7a6RevU,y,boiler-oldheat,how-to,,,,none,baseboard heaters
+XF9j3gj5Xro,y,boiler-oldheat,symptom-fix,,,,none,Peerless cad eye
+ahYpG7ZwIh4,y,humidity-air,how-to,,,,none,Panasonic bath fan
+bMmujpOJ-hg,y,ac-central,cheap-hack,E1,E13,,none,$600 used eBay compressor
+cC5nOf4fnik,y,noise-smell-error,symptom-fix,,,,none,capacitor noise
+d7opAK41mQk,y,boiler-oldheat,how-to,,,,none,Peerless
+daBhd0Xd6-A,y,parts,how-to,,,,none,wiring
+fEjTpvuMoQc,y,boiler-oldheat,symptom-fix,,,,none,Peerless controller
+gq9RNDQ-mCY,y,ac-central,how-to,E13,,,none,
+iXSyRoLgQdk,y,humidity-air,how-to,,,,none,bath fan motor
+juy6R3RUmCk,y,boiler-oldheat,install-diy,,,,none,toe-kick heater
+lSXL7OSlktI,y,boiler-oldheat,symptom-fix,E5,,,none,Peerless stopped overnight
+mUQeKyNtQ78,y,ac-central,how-to,E13,,,none,drain pan without pump-down
+qp_eqXCbeEg,n,,,,,,,icemaker
+qr6sYCIyQ4Q,y,boiler-oldheat,how-to,,,,none,Peerless PRV and expansion tank
+vU4qZL91wm8,y,boiler-oldheat,symptom-fix,E4,,,none,tankless coil gasket leak
+yD-OPLdasa8,y,boiler-oldheat,how-to,,,,none,Peerless oil boiler cleaning
+yPMfSGkjwiY,y,boiler-oldheat,explainer,,,,none,Modine garage heater
+1xJuzX67_NA,y,thermostat,install-diy,E13,E2,,service-call,stop paying techs
+DMLJIE4Qt0c,y,thermostat,explainer,,,,none,wiring basics
+DeZV_QL7obE,y,thermostat,before-you,E2,E14,,service-call,before calling tech
+EBk-MJ4sD2M,y,hvac-general,how-to,E1,E13,,service-call,"blower motor; $1,000; 1 hour"
+HsHCKaanoQE,y,hvac-general,only-x,E1,,,none,3 cheap accessories
+I_CDrQh4b_o,y,parts,explainer,,,,none,capacitors
+Jh7VWrCZuBA,y,ac-central,before-you,E2,E19,,service-call,before calling a pro
+MRaO0PVR030,y,ac-central,symptom-fix,E14,,,none,frozen coils; 10 minutes
+VPVTQ62Ujzc,y,humidity-air,install-diy,,,,none,UV light kit
+Xh4DrLtROS8,y,parts,how-to,E13,,,none,contactor
+Y3BTbAVRY6U,y,thermostat,install-diy,,,,none,smart thermostat no C wire
+_swtVwELCi0,n,,,,,,,attic ladder
+dRL13JlclhM,y,ac-central,only-x,E10,,,none,drain line tool; 92% don't know
+nATNmIRlnRs,y,ac-central,symptom-fix,E4,,,none,float switch
+sviKEQt0Uxw,y,ac-central,cheap-hack,E14,E1,,none,$10 drain line fix
+vkntq065sug,y,ac-central,how-to,E13,,,none,condenser fan motor
+4hYh31b8szo,y,ac-central,how-to,E8,,,none,
+UuwvhNMoFu8,y,offgrid-heat,install-diy,,,,none,electric garage heater
+YbVJgtvWOO8,y,ac-central,cheap-hack,E1,E13,,none,under $20
+l7lWZ018hMg,y,ac-central,cheap-hack,E1,E13,,none,under $20
+rRW1m6gxm_w,y,furnace,how-to,E1,,,own-habit,stop wasting money
+RZOnKKmE1V8,y,furnace,explainer,E15,,,none,octopus furnace
+ky-H0rBkqo8,y,offgrid-heat,explainer,E17,E15,,none,stovepipe fire
+4SpTZk29pCk,y,humidity-air,cheap-hack,E13,,,none,DIY purifier
+59OVXPiqu-I,y,drafts-insulation,only-x,E1,,,none,storm window inserts
+FxptHRUxos8,y,offgrid-heat,how-to,,,,none,fireplace heating
+ib_7NY_2ASs,n,,,,,,,kindling rack
+lJLF6-mMS94,y,offgrid-heat,how-to,E1,,,none,fireplace efficiency
+0l4aSCROg5s,y,humidity-air,cheap-hack,E13,E12,,none,DIY air filter
+4p6tGOlsLbM,y,scam-upsell,secret,E2,E1,,hvac-company,capacitor scam exposed
+6PcBk2umEWA,y,filter,myth,E3,E12,,maker-shelf,stop using these filters
+934fwlPwG5M,y,ac-central,secret,E10,E19,,none,why doesn't everyone know
+AQQH9QwC46A,y,hvac-general,secret,E10,E13,,hvac-company,Top 5; AC companies don't want
+CamdecXrezE,y,ac-central,mistakes,E4,E1,,own-habit,4 things
+DHEVTsI3dI0,y,noise-smell-error,how-to,E8,,,none,quiet AC
+Im9tcbzLmAY,y,outage-heat,how-to,E16,E5,E17,none,power heat pump in outage
+JGO93EgXWSI,y,scam-upsell,how-to,E2,E1,,hvac-company,capacitor scam; $500
+K5dN7yq2Tk0,y,parts,cheap-hack,E2,E1,E13,hvac-company,"quoted $500, fixed $15"
+KdmFeXbdlGs,y,ac-central,cheap-hack,E19,E1,,none,under $20; 1 hour
+LHNQ0GYG07I,y,energy-bill,review,E3,,,none,Sense energy monitor
+MDp1g8r8IVs,y,parts,review,E20,,,none,Micro Air soft starter
+MH8Lo6fuWyc,y,hvac-general,symptom-fix,E19,,,none,75 feels cold
+NXBtYTZNBzw,y,hvac-general,review,E20,E19,,none,extremely cold AC
+Q8EwxVM4uaM,y,ac-central,how-to,E19,E10,,none,
+Rrjo19W_0K0,y,hvac-general,how-to,E19,E10,,none,12 things for winter
+SZT6_4H3syQ,y,ac-central,mistakes,E1,E19,,own-habit,common issue
+Y9zIWQWearM,y,filter,mistakes,E1,,,own-habit,filter mistakes
+YlPhqsMeegs,y,energy-bill,secret,E10,E1,,utility,power company doesn't want
+YqWTp6Gywig,y,ac-central,secret,E10,E13,E19,none,better than the pros
+ZitJJz2TIdU,?,humidity-air,how-to,,,,none,bath fan left on
+_AiyNkAB9OA,n,,,,,,,electrical hot wire
+_Qa5teuVPRg,y,ac-window,review,E20,E19,,none,coldest quietest window AC
+dsL6PG59eqQ,y,hvac-general,secret,E10,E13,,hvac-company,Top 7; AC companies don't want
+gQjotD-B0OU,y,ac-central,how-to,E8,E1,,none,genius upgrade
+i8nDBZo6XyE,y,parts,cheap-hack,E2,E1,E13,hvac-company,"quoted $400, fixed $11.72"
+k7PSzi7NSyc,y,ac-central,how-to,E19,E11,,none,like the pros
+nFTq5MLiTps,y,ac-central,symptom-fix,E4,,,none,compressor going bad
+omSf7x-hyw4,n,,,,,,,caulk tube
+psieFs6qG3I,y,ac-central,cheap-hack,E1,E2,,none,3 tricks
+ptYSLkP62LY,y,parts,how-to,,,,none,hard start kit
+q-Plhu4h3q4,y,energy-bill,review,E20,E1,,none,device; 30%
+sf79SDZLavY,y,parts,cheap-hack,E2,E1,E13,hvac-company,"quoted $450, fixed $19"
+uVvseOiCmIg,y,ac-window,how-to,E16,E4,,none,window AC making you sick
+uowVMYuPs-U,y,parts,how-to,,,,none,soft start; generator
+wMHIfUIVuJA,y,ac-central,how-to,E19,E1,,none,
+5ASVKAAJTWo,y,mini-split,story,E10,,,none,MrCool; frog
+8VmbNR_xdTw,y,boiler-oldheat,install-diy,,,,none,post-frame radiant
+8cg3IdYkTgM,y,hvac-general,symptom-fix,E19,,,none,upstairs too hot
+BjEBUdFUj5Q,y,humidity-air,explainer,,,,none,bath venting
+ELCNM7ROGDg,y,furnace,install-diy,,,,none,furnace and AC
+G2vRGdaTehk,y,mini-split,install-diy,,,,none,MrCool 36K multi-zone; cabin
+IPc8STpX5kc,y,mini-split,install-diy,,,,none,MrCool multi-zone
+IS1yKk7xSdg,?,humidity-air,install-diy,,,,none,custom vent hood (maybe carpentry)
+IWN3JXFuAs0,y,furnace,install-diy,,,,none,furnace and AC
+J4IN7T8Iius,y,boiler-oldheat,install-diy,,,,none,radiant
+JLKFPyq1VJ8,y,drafts-insulation,install-diy,,,,none,soffit vents
+L4I_HaNRF-U,y,boiler-oldheat,explainer,E1,,,none,radiant cost
+OQ59Xj-LJxQ,y,offgrid-heat,how-to,,,,none,wood stove prep
+W1wL025gVJc,y,boiler-oldheat,install-diy,,,,none,radiant
+XeNMDy7CVnA,?,offgrid-heat,how-to,,,,none,gas fireplace remodel
+Y-xthtKZaDs,n,,,,,,,block heater
+_hCIRNtfCSs,n,,,,,,,framing
+aY8-EF4_lxU,y,ducts-vents,install-diy,,,,none,barndominium ducts
+hEwYh_Ec160,y,ducts-vents,install-diy,,,,none,ducts and tools
+i688Fs7_-IA,y,drafts-insulation,secret,E3,E10,,maker-shelf,unsponsored truth; spray foam
+p-dQYL9lsNo,y,drafts-insulation,install-diy,,,,none,"below-grade insulation, in-floor heat"
+poxmuAeKN1w,y,offgrid-heat,install-diy,,,,none,wood stove chimney
+qjBhYyQ0wPQ,n,,,,,,,decorative stone fireplace
+spkJ62dM1aI,y,ducts-vents,install-diy,,,,none,attic ducts
+vr5n_rE4nLI,y,offgrid-heat,install-diy,,,,none,fireplace hearth
+w3y8Q8qqcfQ,y,hvac-general,install-diy,E6,,,none,basement HVAC
+xoRifCLNvVw,y,boiler-oldheat,install-diy,E1,,,none,radiant controls; cost
+-7r2pMBwH90,y,offgrid-heat,secret,E15,E10,,none,medieval firewood
+2re9ScIMdmY,y,cooling-no-ac,install-diy,E20,E19,E15,none,Persian AC
+3hHkmD8GdCY,y,drafts-insulation,mistakes,E19,,,last-owner,15 building mistakes
+5BrVI_KvgK4,y,offgrid-heat,secret,E15,E19,,none,7 forgotten heating systems
+5NK-etxsaGs,y,cooling-no-ac,secret,E15,,,none,10 forgotten techniques
+68B9CyG-BCs,y,offgrid-heat,explainer,E15,E10,,none,1790s fireplace
+6ljyP1UAfDY,y,offgrid-heat,x-vs-y,E15,E12,,none,medieval vs your furnace
+6rESqLFe57o,y,offgrid-heat,explainer,E15,E10,,none,Russian izbas
+78ydet6FHMc,y,cooling-no-ac,secret,E15,,,none,10 forgotten cooling
+7ChYNMwma6E,y,offgrid-heat,myth,E12,E15,,own-habit,castles vs your fireplace
+CmEmlwUpmjQ,y,offgrid-heat,secret,E15,E10,,last-owner,builders forgot
+HT147afB1lU,?,outage-heat,explainer,E15,,,none,medieval life history
+KRpfoNdrMns,n,,,,,,,food preservation
+KcFOl1kb84E,y,offgrid-heat,secret,E15,E19,,none,10 forgotten heating systems
+KrKAqQzaOr0,y,cooling-no-ac,secret,E15,,,none,10 forgotten cooling
+MIw6gLle0CM,y,cooling-no-ac,explainer,E15,E10,,none,adobe
+OgBoJIat1pY,y,offgrid-heat,cheap-hack,E1,E15,,none,$0 coppicing
+Qk3HQPeekTU,y,cooling-no-ac,x-vs-y,E15,E12,,none,medieval wall vs AC
+RA1ax5kwfh4,y,offgrid-heat,mistakes,E12,,,own-habit,stacking wrong
+Ta6ebRT0iX4,y,offgrid-heat,install-diy,E15,E13,,none,3 medieval heaters
+Tj3EBKOxO7A,y,offgrid-heat,myth,E12,E15,,none,furnace backwards
+UGVD7rJzWvg,y,offgrid-heat,secret,E15,E10,,none,old-timers' chimney
+UxAlAt7fMX0,y,offgrid-heat,x-vs-y,E15,E12,,none,10 forgotten techniques vs furnace
+bPHbZ4140xs,y,offgrid-heat,explainer,E15,E19,,none,log cabins
+cyrmL09L6Ow,y,offgrid-heat,explainer,E10,E15,,none,peasants' fuel
+dLu56NdQ3NQ,n,,,,,,,outdoor shepherd survival
+e_cQEEmmqXk,y,drafts-insulation,cheap-hack,E15,E1,,none,$0 roof louver
+ekJUpSKWuhI,y,offgrid-heat,explainer,E15,E20,,none,7 inventions
+gIJ2mBiTwUE,y,offgrid-heat,explainer,E15,E10,,none,splitting for drying
+iAB6tMgfCM4,y,humidity-air,explainer,E4,,,none,wall vents; rot
+jq1vZB9tkP4,y,offgrid-heat,myth,E12,E15,,none,fireplace loses 90%
+lk2scO8fulE,y,offgrid-heat,explainer,E15,,,none,castles
+mhBfON-_gwg,y,thermostat,myth,E12,,,none,thermostat lying
+ngkcuk1z8tw,?,offgrid-heat,explainer,E15,,,none,medieval peasants
+waaW_Qt2fR0,y,offgrid-heat,mistakes,E12,E15,,own-habit,drying wrong
+xvaSi0KuPdE,y,offgrid-heat,how-to,E15,,,none,shed trick
+yGDxutZIlTQ,n,,,,,,,food preservation
+yIkyvr9ZJyU,y,offgrid-heat,cheap-hack,E15,E13,,none,10 hacks
+Mm-ti6n0pWw,y,filter,myth,E3,E4,,maker-shelf,premium filter
+OnnqrCiFv4A,y,hvac-general,secret,E10,E1,,hvac-company,9 things; hydrogen peroxide
+XnKhbhFZ6nQ,y,thermostat,mistakes,E4,E1,,own-habit,5 habits; $10 part
+xekyyrqwmAU,y,ac-central,secret,E1,E2,E10,hvac-company,7 mistakes companies hope; $340
+3u2R6EUKZyQ,n,,,,,,,homeless survival
+6GtHls_vwt0,y,offgrid-heat,how-to,E13,,,none,7 DIY heating systems
+8hS9tfDnfaE,n,,,,,,,homeless survival
+FQ794Vz0-sE,n,,,,,,,homeless survival
+InqrCoWi6cE,n,,,,,,,homeless sleeping
+S2JdpAU_Ykg,n,,,,,,,homeless survival
+YsSOcFz8zyw,n,,,,,,,homeless survival
+gnSaxxLVo5Y,n,,,,,,,homeless survival
+kapkCmlD1ec,n,,,,,,,homeless shelters
+lqmricBeLN8,n,,,,,,,homeless survival
+nuVRiIj1aU0,n,,,,,,,food
+p6_PGwHDX08,n,,,,,,,winter shelters
+xdfv0-F-izY,n,,,,,,,food
+0M9QzdPhm58,y,thermostat,install-diy,,,,none,Honeywell smart thermostat
+7Ew2Z0ufO-4,y,thermostat,how-to,,,,none,Ecobee manual
+8aM7cp6YKN0,y,thermostat,review,E20,,,none,Sensi Lite 2023
+FodDVX2VDGo,y,thermostat,install-diy,,,,none,Nest 3rd gen
+H0wSA7Kl1eo,y,humidity-air,how-to,,,,none,Amazon air quality monitor
+Hiu6UdHs5Tk,y,thermostat,install-diy,,,,none,Nest gen 4 heat pump
+IA5KpPvuKhA,y,thermostat,install-diy,,,,none,Ecobee Premium
+IbQjqDJ2Vuo,y,thermostat,install-diy,,,,none,Amazon thermostat
+IknyU9Pnf6w,y,thermostat,symptom-fix,,,,none,Nest low power
+JXp3wnrZsS8,y,thermostat,install-diy,,,,none,Sensi Touch 2
+KOT1mtSDW0E,y,thermostat,how-to,,,,none,Nest manual
+LWxq9ZGZ78U,y,thermostat,before-you,,,,none,Nest models
+Mhz6bbsCUtE,y,thermostat,install-diy,,,,none,Nest 2-wire
+N1mAHpuY0Ag,y,thermostat,review,E20,,,none,Nest gen 4 first look
+Npj1fGjaVNU,y,thermostat,review,,,,none,Nest
+QmiMHSgr4aY,y,thermostat,review,,,,none,Sensi Touch 2
+Qtix9BzVFrU,y,thermostat,how-to,,,,none,Ecobee Enhanced
+ZJPohR5WfBA,y,thermostat,install-diy,,,,none,Ecobee3 Lite
+ZPQHvpnsnpU,y,thermostat,how-to,E10,,,none,Nest manual
+_Db43xB4VCU,y,thermostat,how-to,,,,none,Nest 2020
+bfcombY7C6c,y,thermostat,how-to,,,,none,Nest Alexa
+co-VS2mrKzg,y,thermostat,install-diy,,,,none,Ecobee no C wire
+dK6vpojwvJg,y,thermostat,how-to,,,,none,Sensi reset
+dhwl5h2uynI,y,thermostat,install-diy,,,,none,Nest 2020
+jVUHpicFQCI,y,thermostat,x-vs-y,,,,none,Ecobee Premium vs Enhanced
+lAempbfzvyQ,y,thermostat,install-diy,,,,none,Ecobee Enhanced
+o11YPxK8OfU,y,thermostat,review,,,,none,Sensi Touch
+oDY-2xZbfIE,y,thermostat,how-to,,,,none,Ecobee3 Lite
+oprKdt5x5ow,y,thermostat,how-to,,,,none,Nest gen 4
+oycPsW9zdak,y,thermostat,how-to,,,,none,Ecobee Premium
+pd926OwKAiA,y,thermostat,explainer,,,,none,C wire
+qJaFPhsMNCY,y,thermostat,how-to,,,,none,Nest gen 4
+rdfUbAZi7k0,y,thermostat,how-to,,,,none,Nest
+uriBB4R6HoI,y,thermostat,how-to,,,,none,Sensi Touch
+vG-K5TDYYNA,y,thermostat,explainer,,,,none,wiring
+xQd6GERVzVM,y,thermostat,explainer,,,,none,colour code
+yNQNG7qBYEg,y,thermostat,install-diy,,,,none,Sensi Lite
+yTMiAUA3us4,y,thermostat,install-diy,,,,none,Sensi Touch ST75
+yi5kfn3bmEk,y,thermostat,install-diy,,,,none,Nest C wire
+zAFmVMjTTyI,y,thermostat,install-diy,,,,none,Nest gen 4
+zi1Mkt1Nc8s,y,thermostat,install-diy,,,,none,Nest to boiler
+2ItuJdp0VFI,y,parts,secret,E10,E1,,hvac-company,$3 capacitor trick; buried 1963
+9mHAKmGbof8,y,hvac-general,secret,E10,,,hvac-company,9 things; hydrogen peroxide
+VFvgLF3gZdI,y,energy-bill,secret,E10,E1,E18,utility,$3 line wrap; utilities blocked
+cfQhUuT7hSI,y,hvac-general,secret,E10,,,hvac-company,11 things; hydrogen peroxide
+hkv3cWGH0c4,y,energy-bill,secret,E10,E1,,utility,$0 load secret
+q0VZrdOWTPo,?,energy-bill,secret,E18,E10,,none,$5 sticker; fuel bill (maybe car)
+xjOB7rFD7ps,y,energy-bill,secret,E10,E1,,utility,$2 liquid; power companies hate it
+B_L1Hg3p0X4,y,mini-split,install-diy,,,,none,EG4 hybrid solar
+ZFjicqQ9WGY,y,mini-split,install-diy,,,,none,MrCool 4th gen
+_afO3SYNocw,n,,,,,,,laser engraver vent
+aFGeM1Dk1qI,y,mini-split,install-diy,,,,none,Della
+t5ebr6o1a2E,y,mini-split,install-diy,,,,none,Cozeware Visio
+99Bj1PEuG9Q,y,energy-bill,test,E1,E13,,none,30 days free hacks
+PSLGU1QKCtU,y,fuel-choice,news-warning,E1,,,none,"oil up 21%, gas down 9%"
+gGgeKIp-6Dg,y,energy-bill,test,E1,E15,,none,20 old-school habits
+rn9Zuu0uhWU,y,hvac-general,cheap-hack,E19,E1,,none,7 free ways
+1siTldg2Xns,y,humidity-air,install-diy,E13,,,none,bath fan 5 minutes
+7eiH2mJKcRA,n,,,,,,,electrical outlet
+A5sBMLpSCPM,y,humidity-air,how-to,,,,none,bath fan
+Cuh-767ks4g,y,furnace,how-to,,,,none,Carrier ECM blower
+PIcC8KtoLNI,y,ac-central,how-to,E1,,,none,condenser coils
+R9TXGZOWzzQ,y,mini-split,install-diy,,,,none,Carrier mini split
+RmqbNUPk5Ww,n,,,,,,,LED lights
+_P3pVtShkcc,y,hvac-general,secret,E2,E1,E10,hvac-company,cheap DIY fix companies live off
+bMnvxDnjJog,y,hvac-general,secret,E10,E11,,insider,ex-HVAC expert; 15 secrets
+i3qIIHDGZ24,y,humidity-air,how-to,,,,none,bath fan upgrade
+jSHuluEi-Zw,n,,,,,,,roof plumbing vent boot
+uiLicM3N4fQ,y,parts,how-to,,,,none,contactor
+1s1LVYGDWDI,y,seasonal-maint,how-to,E19,,,none,winterize 5 steps
+9ZMLfhT0rco,y,drafts-insulation,cheap-hack,E1,,,none,DIY fireplace cover
+T0z3pxw43tQ,y,drafts-insulation,cheap-hack,E1,E19,,none,budget wall insulation
+UMBkuV93XSw,y,mini-split,review,,,,none,MrCool 1 year
+cWZDU1BA7-s,?,boiler-oldheat,install-diy,,,,none,radiator cover (decor)
+kzvAxgg-GGE,y,drafts-insulation,cheap-hack,E1,E19,,none,budget wall insulation
+pO9C-9HdNJY,y,ac-window,install-diy,,,,none,Frigidaire
+ruMIdjtwoyU,y,drafts-insulation,cheap-hack,E19,E1,,none,under $20; Reflectix
+7wXGWCn0oGg,y,humidity-air,install-diy,,,,none,Panasonic exhaust fan
+9wptq3IBnSs,y,ducts-vents,symptom-fix,E1,,,none,high bills
+AK07hFumjYo,y,humidity-air,install-diy,,,,none,Alorair HDi90
+GPBDt_z1fXM,y,humidity-air,install-diy,,,,none,WorkPro crawlspace dehumidifier
+HH8OEC2Azgo,y,humidity-air,install-diy,E1,,,none,vapor barrier
+PUnSV4eGNXY,y,humidity-air,install-diy,,,,none,vapor barrier and Alorair
+Pw0eUS9vw9k,y,humidity-air,install-diy,,,,none,Panasonic Whisper Choice
+XAooVbMYp1A,y,humidity-air,install-diy,,,,none,Alorair HD55
+eI5ROX5yscU,y,drafts-insulation,install-diy,,,,none,attic fan
+idB4Bh7l79U,y,outage-heat,cheap-hack,E5,E1,,none,alcohol emergency heater
+ig4PT6qBRtY,y,offgrid-heat,review,E20,,,none,Napoleon electric fireplace
+jS-oqV3h_1g,y,ducts-vents,how-to,E4,,,none,duct sealing; mold
+rNxRAKW8yQE,y,humidity-air,install-diy,,,,none,Durablow foundation fan
+tL5UWTUTUUk,y,humidity-air,install-diy,,,,none,Alorair HD55
+vu3jQyTLv1I,y,humidity-air,install-diy,,,,none,vapor barrier and Alorair HD55
+wuuOR_8fIto,n,,,,,,,sump pump
+WkwGyZ-6JWc,y,boiler-oldheat,symptom-fix,E6,,,none,short cycling
+oR9B-3jG9W0,y,boiler-oldheat,symptom-fix,E5,,,none,no-heat playbook
+-N-xa-YUxuA,y,cooling-no-ac,secret,E10,E20,,hvac-company,$150 mineral; AC industry
+5VMYBSfcxfs,y,cooling-no-ac,x-vs-y,E12,,,none,box fan vs AC
+7kU3aREcJbQ,y,offgrid-heat,test,E12,,,none,$10 salt bucket real math
+AGPaDtIJ5GE,y,heat-pump,explainer,E10,,,none,DIY geothermal
+CDhk7VXKjlc,y,ac-central,cheap-hack,E1,E19,,none,$300 without replacing
+DvsLteCxCjg,y,cooling-no-ac,cheap-hack,E10,E1,,none,$200 cooling system
+FxtDaRsY-cQ,y,heat-pump,review,E3,,,none,window heat pump 115V
+HMJS35Y4h5w,y,offgrid-heat,explainer,E12,,,none,water tank heat storage
+LvP5bTIGMBw,n,,,,,,,solar generator (power-station rule)
+T3tI2S6z9eQ,y,drafts-insulation,before-you,E1,,,none,foil trick before buying AC
+Tqr3zKvLH64,y,mini-split,secret,E18,E13,,hvac-company,AC they didn't want you to install
+_7WqC9uLQ9M,y,drafts-insulation,secret,E10,E1,,none,European trick America skipped
+bAmKxGmo73Q,y,offgrid-heat,cheap-hack,E1,E13,,none,$60 solar window box
+cI3ZCxJHpsI,y,adjacent,cheap-hack,E1,,,none,"$65 compressed-air battery (power, not heat)"
+fixXRWmZQMk,y,cooling-no-ac,cheap-hack,E20,E1,,none,buried pipe 40 W
+gzPAfMA3vl4,y,adjacent,before-you,E1,,,none,"$18 thermoelectric chip (power, not heat)"
+hL2q4R9-6Jw,y,energy-bill,cheap-hack,E1,E15,,none,$200 fix from 1955
+hbDTMfS8JVY,y,cooling-no-ac,cheap-hack,E20,E1,,none,$22 radiative cooling sheet
+lIsgPh2qJhQ,y,cooling-no-ac,explainer,E12,,,none,DIY geothermal cooling
+nIlswESxZ1Q,y,drafts-insulation,test,E1,,,none,$12 two-thermometer test
+s-OlkNaIHDQ,y,cooling-no-ac,explainer,E10,E12,,none,Skytherm
+t_y1Sy2K9HY,y,seasonal-maint,before-you,E1,,,none,
+uhjs-i01_mw,y,cooling-no-ac,secret,E15,,,none,forgotten low-tech
+vGvdKaUPEeQ,y,offgrid-heat,x-vs-y,E1,,,none,$80 wood stove vs $900 mini-split
+vv-VI6xIEZc,y,offgrid-heat,cheap-hack,E1,E10,,none,$80 salt block
+xotrjQ0GxCs,y,hvac-general,symptom-fix,E19,E1,,own-habit,upstairs hot
+zNAiVyp1DhQ,y,offgrid-heat,before-you,E1,,,none,buried pipe before heat pump
+9vYaT0GT0WY,n,,,,,,,foot massagers
+MA4dSMhu0xU,?,offgrid-heat,only-x,,,,none,portable wood stoves (maybe camping)
+Mr4ii5uf7U0,y,humidity-air,only-x,,,,none,3 best; 2026
+NvzvyTKKW4s,y,offgrid-heat,only-x,,,,none,3 best electric fireplaces; 2026
+VViPkuj3ICU,y,humidity-air,only-x,,,,none,3 best; 2026
+d2OI5ySnH1w,y,humidity-air,only-x,,,,none,3 best; 2026
+f-9C26ZrtJo,y,humidity-air,only-x,,,,none,3 best; 2026
+fbm4vJCC5S8,y,humidity-air,only-x,,,,none,3 best
+khTExdFInas,n,,,,,,,caulking gun
+lhP0FlaqCew,y,humidity-air,only-x,,,,none,3 best; 2026
+yccvplHGopY,n,,,,,,,fireplace TV stand
+zlK3YHWvXkE,y,humidity-air,only-x,,,,none,3 best bath fans; 2026
+1v_aOVtv8do,y,drafts-insulation,secret,E15,E19,,none,25 forgotten tricks
+Cfyo2gwjbjQ,y,offgrid-heat,secret,E15,E10,,last-owner,20 chimney tricks builders abandoned
+Jp6xgoY3oVQ,y,cooling-no-ac,secret,E15,E19,,none,25 forgotten ways
+PkzC65iCBz8,y,drafts-insulation,secret,E15,,,last-owner,20 attic tricks builders abandoned
+RikdKX2aSqU,y,drafts-insulation,cheap-hack,E15,E19,E1,none,20 storm-window tricks
+SE3w5k9JTCs,y,cooling-no-ac,secret,E15,,,none,20 forgotten windows
+UOO-RLhQ5iY,y,cooling-no-ac,cheap-hack,E1,E12,,none,"20 poor-man tricks vs $10,000 HVAC"
+Z-68RgeyvLs,y,humidity-air,cheap-hack,E15,,,none,20 basement ventilation tricks
+ZAxrms4Gy0E,y,offgrid-heat,secret,E15,,,none,20 forgotten heat-storage tricks
+ZHZrpI5VzI4,y,offgrid-heat,secret,E15,E1,,none,25 forgotten heating tricks
+cugCxxDuRaQ,y,humidity-air,secret,E15,,,last-owner,20 crawlspace tricks builders abandoned
+dlq-a9LIBkw,y,cooling-no-ac,secret,E15,,,none,20 forgotten roof tricks
+mD6BZwBSq6c,y,cooling-no-ac,secret,E15,,,none,20 forgotten designs
+mafgkFFlrCM,y,hvac-general,secret,E15,E19,,none,20 forgotten heat-transfer tricks
+nn4pWmdLESM,y,hvac-general,secret,E15,,,none,20 forgotten designs
+nqnDGYSHvME,y,drafts-insulation,secret,E15,,,last-owner,20 draft-proofing tricks builders abandoned
+qDNC6zxnyFo,y,cooling-no-ac,secret,E15,,,none,20 forgotten porch designs
+zNSMqXnDugc,y,drafts-insulation,secret,E15,,,none,20 forgotten entryways
+2V6gFa5tXgA,y,offgrid-heat,secret,E10,E1,,utility,energy industry buried it
+2kkbT3Zu7vs,y,energy-bill,secret,E18,E1,E10,none,zero bills; banned
+3y2DnsyYODQ,y,cooling-no-ac,secret,E10,E1,,hvac-company,AC industry buried it
+5fe3rP92hjY,y,offgrid-heat,secret,E18,E1,,none,$300 home; banned
+CDMNz5MDKus,y,energy-bill,secret,E18,E1,,none,underground home; banned
+EkezDaE3CN0,y,hvac-general,secret,E18,E1,,last-owner,$50 home; building industry ban
+NnwzQ6-QkoI,y,cooling-no-ac,secret,E18,E1,,none,$12 salt pipe; banned
+Qt5PAF1X7UA,y,offgrid-heat,secret,E10,E1,,utility,energy industry buried it
+QurNKzZm2dA,y,offgrid-heat,review,E20,,,none,container stove
+Urrm36wu0bQ,y,offgrid-heat,secret,E18,E1,,none,80% less wood; banned
+cgXn-vZrnOs,y,offgrid-heat,cheap-hack,E1,E5,,none,$400 room
+dChFR5n6GNI,y,drafts-insulation,secret,E10,E1,,utility,$4 film; energy companies never mention
+giVeQmztv9U,y,offgrid-heat,secret,E10,E1,,hvac-company,$50 panel; HVAC industry hid it
+hRNTkrxnCQw,?,offgrid-heat,secret,E10,E20,,none,flameless heater; military hid it
+ioy8H0XjIcs,n,,,,,,,food refrigeration
+lrbmnuIVOOw,y,drafts-insulation,secret,E10,E1,,maker-shelf,$20 window fix; window industry buried it
+r7GjJ5dw-ZE,y,hvac-general,secret,E18,E1,,none,illegal wall
+zU5q32i8b_E,y,offgrid-heat,cheap-hack,E1,E13,,none,$0 fuel; stop buying propane
+ACuLhY1RcYs,y,drafts-insulation,secret,E10,E1,,hvac-company,$22 copper coil; HVAC companies furious
+BgG3XcDa55c,y,adjacent,secret,E10,,,utility,$63 Irish device; power
+BongiqEWV08,y,drafts-insulation,cheap-hack,E15,E1,,none,$4; (The Old Irish Way)
+CQUG85T0rv8,y,cooling-no-ac,cheap-hack,E1,E13,,none,$30 underground pipe; 2 days
+E4t1xf0WkUU,y,filter,cheap-hack,E1,E14,,upsell,$10 filter swap; stop buying furnace
+Ipjrh9zftxw,y,drafts-insulation,cheap-hack,E1,,,own-habit,$15 attic hatch
+PIRA72Limqk,y,adjacent,secret,E18,E10,,utility,$100 balcony solar
+XqHlYjCiVOU,y,hvac-general,cheap-hack,E19,E1,,none,$6 Irish fix
+_dt1Ait0oRU,y,cooling-no-ac,cheap-hack,E15,E19,,none,Irish chimney trick
+qJiH2HNMNxg,y,drafts-insulation,secret,E15,E10,E1,utility,$4 attic secret; Irish grandfathers
+tv3AWN2qj2c,y,cooling-no-ac,secret,E10,E1,,hvac-company,$0 soda cans; HVAC industry buried
+5kj1PgfRpbk,y,offgrid-heat,test,E12,E13,,none,340 cans solar heater
+ASRzkxAvn3U,?,adjacent,secret,E10,,,none,tank heat loss math (maybe water heater)
+Bj_OyBKC3ec,y,heat-pump,explainer,E1,,,none,DIY geothermal loop
+IvsgMIlx9nE,y,drafts-insulation,before-you,E1,,,none,"$8,000 spray foam vs $100 fix first"
+WW_UeQMJR94,y,offgrid-heat,myth,E3,E12,,maker-shelf,$600 heat battery lie
+bHXcwtE54oo,y,seasonal-maint,before-you,E1,,,none,8 things
+blSjmJLzXso,y,offgrid-heat,explainer,E20,,,none,solar wall heater
+d4CalFZlaaU,y,offgrid-heat,x-vs-y,E1,,,none,"$12,000 battery vs $1,500 tank"
+eBwAyireU8s,y,offgrid-heat,cheap-hack,E1,E20,,none,$35 solar wall
+f7v5MdNuwhI,y,offgrid-heat,explainer,E12,,,none,$300 heat tank; the catch
+frZwg_uYHis,y,cooling-no-ac,x-vs-y,E1,E12,,none,"$200 pipe vs $5,000 AC"
+s4byIx-JBpY,y,hvac-general,secret,E2,E1,E10,upsell,"quoted $8,000; $20 fix"
+u0qFh2ds8AM,y,offgrid-heat,secret,E15,E10,,none,"2,000-year-old system"
+0dRNZ_HHmK4,?,offgrid-heat,install-diy,,,,none,Vietnamese DIY stove; likely cooking
+50FNL6z2So0,?,offgrid-heat,plain,,,,none,3-in-1 stove; likely cooking
+8OkIXyJKorE,?,offgrid-heat,install-diy,,,,none,likely cooking
+8sqzotTHv1E,?,offgrid-heat,install-diy,,,,none,likely cooking
+9pUW-z97UWk,?,offgrid-heat,install-diy,,,,none,family use; likely cooking
+BhxVa299TtI,?,offgrid-heat,install-diy,,,,none,indoor/outdoor; likely cooking
+Do8jgsCUF-M,?,offgrid-heat,plain,,,,none,likely cooking
+GC2u_nxGCW8,?,offgrid-heat,install-diy,,,,none,likely cooking
+HCgByPJu0rQ,?,offgrid-heat,install-diy,,,,none,smoke-free; likely cooking
+IUIgU2XJQiw,?,offgrid-heat,install-diy,,,,none,household; likely cooking
+Jpcc5pYfaUI,?,offgrid-heat,install-diy,,,,none,likely cooking
+LjbYJ2ZgZuk,?,offgrid-heat,install-diy,,,,none,likely cooking
+Mpu6cfiVzFM,?,offgrid-heat,install-diy,,,,none,likely cooking
+O-A2MG9dRLQ,?,offgrid-heat,install-diy,,,,none,family use; likely cooking
+Q3aTU7hypbo,?,offgrid-heat,install-diy,,,,none,smoke-free; likely cooking
+RsbBcnySuY8,?,offgrid-heat,install-diy,,,,none,recycled trays; likely cooking
+SLV1Tj5bDjk,?,offgrid-heat,plain,,,,none,rocket stove; likely cooking
+SMLW2IYLbRg,?,offgrid-heat,install-diy,,,,none,sink stove; likely cooking
+SOUbaKwYdU4,?,offgrid-heat,install-diy,,,,none,family; likely cooking
+T68Vsi4W4VI,n,,,,,,,pizza stove
+UeSkD3iB7mM,?,offgrid-heat,install-diy,,,,none,indoor/outdoor; likely cooking
+VgwWoHq8pjE,?,offgrid-heat,install-diy,,,,none,indoor/outdoor; likely cooking
+X9cuQVFr_2E,?,offgrid-heat,install-diy,,,,none,smoke-free; likely cooking
+YPZlPHvtcT4,n,,,,,,,camping stove
+aO-ipkgNrTs,?,offgrid-heat,install-diy,,,,none,home use; likely cooking
+avRBHcFqcEo,?,offgrid-heat,install-diy,,,,none,iron drums; likely cooking
+bKsxwM03KVY,?,offgrid-heat,install-diy,,,,none,indoor/outdoor; likely cooking
+btUHtoWvahI,?,offgrid-heat,install-diy,,,,none,3-in-1; likely cooking
+dpY-y9_EvLU,?,offgrid-heat,install-diy,,,,none,family use; likely cooking
+gn7FsY6dYrM,?,offgrid-heat,install-diy,,,,none,likely cooking
+h4TuCnTKvRQ,?,offgrid-heat,install-diy,,,,none,3-in-1; likely cooking
+iKFYx2TgRak,?,offgrid-heat,install-diy,,,,none,likely cooking
+kuKcSWxBqsE,?,offgrid-heat,install-diy,,,,none,likely cooking
+kvLklGJulek,?,offgrid-heat,install-diy,,,,none,bricks; likely cooking
+v9oaueTR3QI,?,offgrid-heat,install-diy,,,,none,gas cylinder; likely cooking
+vvvI_Bwsmio,?,offgrid-heat,install-diy,,,,none,likely cooking
+w6FhzpWjpuQ,?,offgrid-heat,install-diy,,,,none,iron drum; likely cooking
+yWUhz1-S7wA,?,offgrid-heat,install-diy,,,,none,smoke-free; likely cooking
+zY2KOYKW09A,?,offgrid-heat,plain,,,,none,indoor/outdoor; likely cooking
+NaRNBElaE58,y,offgrid-heat,how-to,E1,,,none,4 tips
+XQZ1gGVx9LM,y,offgrid-heat,before-you,E10,,,none,wish I knew before
+_Spr2eFM2BE,y,offgrid-heat,install-diy,,,,none,basement wood stove
+myxY0WBa40g,y,offgrid-heat,how-to,,,,none,Vogelzang 3200
+r7qcuS1DSjQ,y,offgrid-heat,how-to,,,,none,heating season prep
+t5WUxn0k0so,y,offgrid-heat,story,E11,,,none,6 things in 1 year
+0LBC_UQ9-KM,y,offgrid-heat,x-vs-y,E15,E1,,none,Grandma's 27 hacks vs modern heaters
+DrDymZsRsBQ,y,offgrid-heat,x-vs-y,E15,,,none,Grandma's 30 hacks vs modern heaters
+KIEDVKx0Q8E,y,offgrid-heat,secret,E15,E10,,none,Grandma's 30 cold-hacks
+oz6lAMrxJD4,y,offgrid-heat,cheap-hack,E15,E5,,none,Grandma's 42 hacks
+FVNGGzSheCE,y,outage-heat,only-x,E5,E1,,none,11 Dollar Tree essentials
+QQDzD6oSPic,y,outage-heat,only-x,E5,E1,,none,11 Dollar Tree items
+0xSvQ1IK5GQ,y,drafts-insulation,secret,E15,E1,,none,roof shape America abandoned
+1Pz_qhDf344,y,drafts-insulation,explainer,E10,E1,,none,wall; why not using it
+2RqhK2w8rrA,y,adjacent,secret,E18,,,none,plug-in solar illegal in 47 states
+4VoHa-TmL0A,y,cooling-no-ac,myth,E12,,,own-habit,ceiling fans
+71u3lQautUg,y,adjacent,x-vs-y,E20,,,none,solar thermal vs PV
+B-WJqqw5GcE,y,hvac-general,explainer,E20,E1,,none,storm-proof $0 heat home
+ByenDjiLFCc,y,adjacent,news-warning,E20,,,none,solar tubes
+HnRIgaftrII,y,cooling-no-ac,cheap-hack,E19,E1,,none,free trick 42F
+Im-KfowVPF0,y,energy-bill,secret,E15,E1,,none,salt; why did we stop
+Ldis0Uab6rA,y,cooling-no-ac,cheap-hack,E19,E15,,none,clay pots
+MSdWoAZcFqI,y,offgrid-heat,x-vs-y,E20,,,none,stove vs solar
+SVuQqEXaWdw,y,cooling-no-ac,secret,E15,E10,,none,why did we stop
+TO-Z7DgCv6I,y,cooling-no-ac,cheap-hack,E1,E19,,none,free pipe
+TT_C5Gr-yNw,y,adjacent,x-vs-y,E20,,,none,DIY system vs solar
+TVmGA8i5VLY,y,adjacent,news-warning,E20,,,none,5 solar systems
+ZWEY07bi4vs,y,cooling-no-ac,secret,E10,,,utility,energy industry hid it
+ZbwE_l7yHCU,y,adjacent,secret,E10,,,utility,DIY wind turbine
+a0PbmNWXkSI,y,hvac-general,explainer,E1,E10,,none,water heating and cooling
+aAVag1ZJWLk,y,offgrid-heat,x-vs-y,E15,E18,,none,Korean ondol vs your HVAC; illegal
+coeNDvPfyJA,y,hvac-general,explainer,E18,E1,,none,never paid utilities
+dhHO5AMiZ90,y,cooling-no-ac,explainer,E10,,,none,only 2% use it
+e2E2xDBARA8,y,adjacent,symptom-fix,E1,,,none,solar panels losing energy
+ef5Myzfe1Q8,y,drafts-insulation,secret,E15,E18,,none,"8,000-year-old roof; banned"
+f7sF8o7ID7k,y,offgrid-heat,news-warning,E20,,,none,5 heaters future
+gyiE5pzBt7I,y,adjacent,explainer,E20,,,none,unlimited green energy
+iqCVaBoSjn8,y,cooling-no-ac,cheap-hack,E12,E1,,none,DOE admitted; $20 trick
+lONGHq36jHk,y,energy-bill,review,E20,E1,,none,battery
+l_j7QSwpz6A,y,cooling-no-ac,secret,E10,E19,,none,7 ignored strategies
+mV9Y7lLKGgw,y,cooling-no-ac,cheap-hack,E1,E19,,none,$30 infinite cooling
+nVHzPKALcW4,y,adjacent,only-x,E1,,,none,plug-in home batteries
+ob2qpxztMzk,y,energy-bill,cheap-hack,E1,E10,,none,$5 trick; 17%
+sinItDBK6Rw,y,cooling-no-ac,explainer,E15,E10,,none,ancient window
+stvTwCY-8IU,y,cooling-no-ac,cheap-hack,E1,E19,,none,$50 wall
+tSs4y8km-N4,y,cooling-no-ac,x-vs-y,E20,E1,,none,device vs AC
+xK2pNt72byo,y,adjacent,news-warning,E20,,,none,5 batteries
+6CE72U92R-I,y,drafts-insulation,how-to,E10,E19,,none,cold walls
+WEX2lI-eVfM,y,mini-split,install-diy,E8,,,none,Funiki restoration
+1l4jg_FJ5Yc,y,offgrid-heat,test,E12,,,none,clay pot tea lights; 4 hours
+nVTdukNJdtM,y,hvac-general,explainer,,,,none,
+UGozws7p5Sw,y,cooling-no-ac,install-diy,E20,,,none,DIY air cooler
+bpYHcXwu9JA,y,ac-central,symptom-fix,,,,none,outdoor fan
+r_TO30jzyUA,y,offgrid-heat,story,E19,,,none,-40C Russia
+_g8gQ1gg1FM,y,filter,mistakes,E1,,,own-habit,5 mistakes
+1H20xp8Brnc,y,hvac-general,explainer,,,,none,opinion
+6kciiTNTOy4,?,cooling-no-ac,news-warning,E20,E10,,none,city-scale cooling (non-home)
+_o6SeFjl8H8,y,offgrid-heat,explainer,,,,none,
+cj35HoIgl3Q,y,outage-heat,only-x,E5,E1,,none,11 Dollar Tree products
+eVqwiMtoDhk,y,offgrid-heat,explainer,E15,E19,,none,Scandinavian cabins
+gsi8SE_P5bg,y,outage-heat,how-to,E5,E19,,none,one room blackout
+uP8q5EdqX1U,y,cooling-no-ac,how-to,E19,,,none,
