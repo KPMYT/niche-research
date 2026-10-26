@@ -162,3 +162,5 @@ The operator: "i have read none of this yet. chat context is too large, so we do
 - Real inspections and real stories: "real inspections real stories wont work"
 - Mistakes lists and "this is dangerous": "work but obviuosly high competition"
 - "NEVER leave plugged in" lists: "we dont really want to proceed for now"
+
+**Operator on emotions (2026-10-26):** "these are all important the emotions, we must track them but also track how the script makes them sound". Gap: this study labelled emotions from titles (and thumbnails for the top 100 and recent winners) only; no transcripts were read. To do (operator's call on when): a script-level look, i.e. transcripts of top videos per emotion and how the script voices each one (the opening lines, where the fear or pride comes in, the words used), for `CONCLUSIONS.md` and the scripting pack.
