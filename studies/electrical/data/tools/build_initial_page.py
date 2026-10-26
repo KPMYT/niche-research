@@ -109,7 +109,7 @@ STYLE = STYLE.replace("{{", "{").replace("}}", "}") + "<style>.advice{display:gr
 page = ("<title>Electrical Initial Ideas</title>\n<meta name=\"claude:viewport-fit-sides\" content=\"cover\">\n"
         "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n"
         "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@500&display=swap\">\n"
-        + STYLE + f'''<div class="wrap"><header class="read"><div class="eyebrow">Electrical · initial ideas · 2026-10-26</div><h1>Our initial ideas</h1>
+        + STYLE + f'''<div class="wrap"><header class="read"><div class="eyebrow">Electrical · initial ideas · 2026-10-26</div><h1>Our initial ideas</h1><p><b>All 17 titles confirmed (2026-10-26).</b> Five were reworded by you: A2, A12, A14, B3, B6.</p>
 <p>The {len(rows)} ideas you picked: the 9 kept from round 1, 5 Silver Cymbal copies and 3 of the 50 titles. Each shows the title, the thumbnail words and look, the reference video with its views and posting date, how hot the topic is now, and how to make the thumbnail better than the reference.</p>
 <p>Overlaps are flagged: A2 and C2 share a topic, as do A12 and C12; A31 and B11 are close. Each pair gets a different thumbnail so both can run, or you can drop one.</p></header>{body}</div>''')
 open(os.path.join(I, "initial-ideas.html"), "w").write(page)

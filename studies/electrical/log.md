@@ -204,3 +204,10 @@ Recent winning formats: `ideation/recent-formats.csv`, 33 title formats (R1-R33)
 
 **Operator's initial ideas (2026-10-26):** "from B we keep 3 6 7 10 11; from C 2 12 15. these are our initial ideas, please make a list of just these as in the format given ... also adding your input to how to improve thumb". With part A (the 9 kept from round 1) that is 17 initial ideas.
 **Initial ideas page (main session, 2026-10-26):** `ideation/initial-ideas.csv` and `ideation/initial-ideas.html` (published privately: https://claude.ai/artifact/QnG8dP83G7LZ84rpat3Qek): the 17 picks with title, thumbnail words and look, reference video (views, posting date, channel type, whether it clears the bar), topic heat, overlaps (A2/C2, A12/C12, A31/B11 close) and thumbnail advice. Thumbnail advice is the main session's reading of the 17 reference thumbnails (viewed on a contact sheet) against this study's thumbnail findings. A33's reference was Home RenoVision DIY's 466K video, below the 1M real-channel bar; switched to the topic's proof (LRN2DIY, 3.6M) and noted on the page. C-idea references are each topic's proving video; the format source is named in the text.
+
+**Titles confirmed (operator, 2026-10-26):** all 17 initial ideas confirmed ("we can confirm all titles now"), five reworded by the operator:
+- A2: "Wires Too Short in the Box? The Safe Fix Most DIYers Get Wrong" → "How To Actually Fix Short Wires In An Electrical Box (The Safe Way)"
+- A12: "Plug Won't Stay in the Outlet? It's Not Just Annoying, It's a Warning" → "The REAL Reason Your Plug Won't Stay In The Outlet"
+- A14: "Why Do LED Bulbs Glow After You Switch Them Off? (And When It's a Warning)" → "Why Do LED Bulbs Glow After You Switch Them Off? (WARNING)"
+- B3: "Why Do Electric Plugs Have Holes? Finally Answered" → "Why Exactly Do Electric Plugs Have Holes?"
+- B6: "3 Common Wiring Mistakes on Outlets & Switches - BEWARE of These" → "BEWARE of These 3 Common Wiring Mistakes on Outlets & Switches"
