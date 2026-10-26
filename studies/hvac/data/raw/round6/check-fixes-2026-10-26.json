@@ -1,0 +1,841 @@
+{
+ "checked": "2026-10-26",
+ "checker": "round 6 check-fixes helper",
+ "web_searches": 0,
+ "part1": {
+  "seed": 2640,
+  "population": "62 channels with hand_fix_tier in census-handread-2026-10-26.csv (sorted by channel_id)",
+  "sample_ids": [
+   "UCx6S7boRmAaxS8CB3Ur6qsw",
+   "UCpetqQhNychubOY4GhixESQ",
+   "UCMX8nbmbyPU4v-Yi6beBFyg",
+   "UCuezPXEDYWG_oXWDtZjguwA",
+   "UC0KNvNxxtc_NKRzM_JDzJSg",
+   "UCK9DXL31fZSNi3h7DTqTyzg",
+   "UCoVt9WOZcTYadXM64jQLfjw",
+   "UC3sYHaAZtJI-vrD64K7Qe9w",
+   "UCQxmS3iVsThKYAsNQ540jZw",
+   "UCSD7MSLETxsw6sm3PwugrXw",
+   "UCbRUa-hRUKYQbgSqo3ILq4w",
+   "UCCvRME9ejgMupNEpxPZET7Q",
+   "UCDdo6Gg7lRRniMjLHkVWCzw",
+   "UCU06hQzTIMmUpJRLznuw3eg",
+   "UCG0fCH41CLhviCwgBgfkwIw",
+   "UCX-wCnYqqzkSe_E40D7VZMg",
+   "UCnaa_80Xxuoq0jNA68uddaw",
+   "UC45SO4lv-hDatvcEDjGpscA",
+   "UCw1V3VC3xAzL66X4VwqaKlg",
+   "UCXcoxCRD5qe1CAwoNrbST8g",
+   "UC-5zd31qI3tWQt8u4ZIJr-A",
+   "UCn2YKsCiDpL3UjxIm4-RCoQ",
+   "UCCAESgTkIr9H0aFVPiJqxUw",
+   "UCf3PixDkHcrtAeKgdSh9TZw",
+   "UCSIClXw_5lT1buMo2BM6q7g"
+  ],
+  "method": "latest 30 long-form (Latest or Latest_initialpage list, whichever longer; dur >= 5:00) from data/raw/census-2026-10-26/<id>.json; LOW-N: pooled with Popular top 10",
+  "rows": [
+   {
+    "channel": "Bailey Line Road",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCx6S7boRmAaxS8CB3Ur6qsw"
+   },
+   {
+    "channel": "brother Q",
+    "claimed_tier": "A",
+    "claimed_count": "4/5",
+    "my_count": "4/5 (2 boiler no-heat titles certain; the 2 'Pilot assy replacement' read as boiler parts)",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "LOW-N: only 5 long-form and the Popular list is empty in the pull, so the pool is 5 titles",
+    "channel_id": "UCpetqQhNychubOY4GhixESQ"
+   },
+   {
+    "channel": "DIY WISCO",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCMX8nbmbyPU4v-Yi6beBFyg"
+   },
+   {
+    "channel": "Healthy Home Guide",
+    "claimed_tier": "A",
+    "claimed_count": "19/30",
+    "my_count": "18-22/30 (purifiers, ventilation, ERV/HRV, humidity, mould: in scope per labels.md 'humidity, ventilation and indoor air')",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCuezPXEDYWG_oXWDtZjguwA"
+   },
+   {
+    "channel": "World of HVAC",
+    "claimed_tier": "A",
+    "claimed_count": "21/30",
+    "my_count": "20-21/30",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "many tool / tech titles (flare tool, charging, leak sealer, packout, 'Want To Be An HVAC Tech?'): A vs D is a judgment",
+    "channel_id": "UC0KNvNxxtc_NKRzM_JDzJSg"
+   },
+   {
+    "channel": "Miillers Construction",
+    "claimed_tier": "X (COMPANY)",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCK9DXL31fZSNi3h7DTqTyzg"
+   },
+   {
+    "channel": "desertsun02",
+    "claimed_tier": "C (STOVE-CRAFT)",
+    "claimed_count": "15/30",
+    "my_count": "13-16/30",
+    "my_tier": "C (STOVE-CRAFT)",
+    "verdict": "OK",
+    "note": "DIY heater/cooler builder",
+    "channel_id": "UCoVt9WOZcTYadXM64jQLfjw"
+   },
+   {
+    "channel": "andyfireblade",
+    "claimed_tier": "A",
+    "claimed_count": "29/30",
+    "my_count": "29/30",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UC3sYHaAZtJI-vrD64K7Qe9w"
+   },
+   {
+    "channel": "Michigan Heating Guy",
+    "claimed_tier": "A",
+    "claimed_count": "18/30",
+    "my_count": "18/30",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCQxmS3iVsThKYAsNQ540jZw"
+   },
+   {
+    "channel": "CP Utility Solutions",
+    "claimed_tier": "A (contractor)",
+    "claimed_count": "19/30",
+    "my_count": "18-19/30",
+    "my_tier": "A (contractor)",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCSD7MSLETxsw6sm3PwugrXw"
+   },
+   {
+    "channel": "Powlas HVAC",
+    "claimed_tier": "A",
+    "claimed_count": "18/30",
+    "my_count": "16-20/30",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCbRUa-hRUKYQbgSqo3ILq4w"
+   },
+   {
+    "channel": "Prime Rundown",
+    "claimed_tier": "X",
+    "claimed_count": "1/30",
+    "my_count": "1/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCCvRME9ejgMupNEpxPZET7Q"
+   },
+   {
+    "channel": "Sam",
+    "claimed_tier": "A",
+    "claimed_count": "15/30",
+    "my_count": "15/30 (with the 2 bath-fan titles, in scope)",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "exactly 50%",
+    "channel_id": "UCDdo6Gg7lRRniMjLHkVWCzw"
+   },
+   {
+    "channel": "Ecohome Insulation",
+    "claimed_tier": "X (COMPANY)",
+    "claimed_count": "0/16",
+    "my_count": "0/16",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCU06hQzTIMmUpJRLznuw3eg"
+   },
+   {
+    "channel": "BlueTex Insulation",
+    "claimed_tier": "D",
+    "claimed_count": "2/13",
+    "my_count": "2/13",
+    "my_tier": "D",
+    "verdict": "OK",
+    "note": "both HVAC titles are Shorts (1:24, 3:48) from the Popular top-10 pool; long-form alone 0/6",
+    "channel_id": "UCG0fCH41CLhviCwgBgfkwIw"
+   },
+   {
+    "channel": "Jesse Muller",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCX-wCnYqqzkSe_E40D7VZMg"
+   },
+   {
+    "channel": "Missouri Wind and Solar",
+    "claimed_tier": "X (COMPANY)",
+    "claimed_count": "0/30",
+    "my_count": "0/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "'Solar Pool Heating Myths' is pool, not home",
+    "channel_id": "UCnaa_80Xxuoq0jNA68uddaw"
+   },
+   {
+    "channel": "Handyman Land",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UC45SO4lv-hDatvcEDjGpscA"
+   },
+   {
+    "channel": "Everyday Home Repairs",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2-3/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCw1V3VC3xAzL66X4VwqaKlg"
+   },
+   {
+    "channel": "Everyday Solar",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCXcoxCRD5qe1CAwoNrbST8g"
+   },
+   {
+    "channel": "HVAC Life",
+    "claimed_tier": "D",
+    "claimed_count": "19/30",
+    "my_count": "19-20/30, trade-facing (VRF, Trane controls, loadouts)",
+    "my_tier": "D",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UC-5zd31qI3tWQt8u4ZIJr-A"
+   },
+   {
+    "channel": "Everything Electric TECH",
+    "claimed_tier": "X",
+    "claimed_count": "1/30",
+    "my_count": "1-2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCn2YKsCiDpL3UjxIm4-RCoQ"
+   },
+   {
+    "channel": "OffGrid Secrets",
+    "claimed_tier": "A",
+    "claimed_count": "15/30",
+    "my_count": "15/30",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "exactly 50%",
+    "channel_id": "UCCAESgTkIr9H0aFVPiJqxUw"
+   },
+   {
+    "channel": "Brantley Blended",
+    "claimed_tier": "X",
+    "claimed_count": "2/30",
+    "my_count": "2/30",
+    "my_tier": "X",
+    "verdict": "OK",
+    "note": "",
+    "channel_id": "UCf3PixDkHcrtAeKgdSh9TZw"
+   },
+   {
+    "channel": "Forever Tech English",
+    "claimed_tier": "A",
+    "claimed_count": "20/30",
+    "my_count": "19-20/30",
+    "my_tier": "A",
+    "verdict": "OK",
+    "note": "repair technician; some titles aimed at techs",
+    "channel_id": "UCSIClXw_5lT1buMo2BM6q7g"
+   }
+  ],
+  "d_confirm_fix_1_1": "16 entries checked against census-channels tiers: all applied. AwesomeFramers: D_CONFIRM reason says 'HVAC 2 of 30 titles' but the hand read says 3/30 (10%) so it stays D; my count 2-3/30 (crawl-space venting; 'Full House Construction Designed for Maximum Utility Savings'; blower door). Zach of All Trades went to X at 2/30."
+ },
+ "part2": {
+  "seed": 2641,
+  "population": "51 A-C rows with type4 != type",
+  "thumbs": {
+   "B029": [
+    "QptKPRH_2h4",
+    "DIzBbXZGbWo",
+    "bMFQ70dvop0"
+   ],
+   "A044": [
+    "y2FQvjaDzUM",
+    "SgBe2HrwU3o",
+    "DtUnFPeWtL0"
+   ],
+   "A152": [
+    "g-u0ozb0iJE",
+    "mkNE70bVXYM",
+    "ko7g1ffeH-U"
+   ],
+   "A114": [
+    "pojwboemBlQ",
+    "2DuqwRcvvuE",
+    "Amvscs7IGbc"
+   ],
+   "A002": [
+    "OIkf1_9Wj10",
+    "rgGHtr3EXdo",
+    "kdq4Mi8X0h8"
+   ],
+   "A216": [
+    "7-B7T4Ul_eM"
+   ],
+   "A010": [
+    "dZ3mijXWU1E",
+    "DOTxwWZ_KWQ",
+    "rpjHP0P88cg"
+   ],
+   "B207": [
+    "X-_EdqPDCxw",
+    "TK_CRgKVGVo",
+    "Kv-Uqjv3Lds"
+   ],
+   "A209": [
+    "dmv4-E43mMg",
+    "zRdPLYCI6Cs",
+    "7_o__hlgvDA"
+   ],
+   "A038": [
+    "hQaQ-aOVij0",
+    "2GuWIUe5KqA"
+   ],
+   "A027": [
+    "7sC3sE6bJAg",
+    "qQhPAvQc6hg",
+    "osiZS7TohLw"
+   ],
+   "A105": [
+    "EeaEcxZdIjg",
+    "ZVKLrndne58",
+    "9w7b_cyJsbg"
+   ],
+   "A049": [
+    "3p2EjLGaTkg",
+    "_jwMIFBm1a4",
+    "7MQ35dnR4Ko"
+   ],
+   "A107": [
+    "N0G4o-Ek5rM",
+    "7wwEpZVugDA",
+    "_uzqGosKHeA"
+   ],
+   "A045": [
+    "juTMmT0end4",
+    "mUWU4lFTV_c",
+    "ST8pzZYuq4c"
+   ]
+  },
+  "method": "downloaded hqdefault of the 3 newest long-form per channel (i.ytimg.com, 2026-10-26), own contact sheets; fixer's type4 column was printed in the sample listing before viewing (not fully blind)",
+  "rows": [
+   {
+    "row": "B029",
+    "channel": "Structure Tech Home Inspections",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A044",
+    "channel": "Bright Air Duct Cleaning - Florida",
+    "claimed": "faceless",
+    "found": "faceless (workers from behind, logo templates)",
+    "verdict": "OK"
+   },
+   {
+    "row": "A152",
+    "channel": "Ductless Plus HVAC",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A114",
+    "channel": "RetroFoamofMichigan",
+    "claimed": "on camera (low)",
+    "found": "faceless (2 of 3 are foam graphics; the 3rd a customer couple with a rebate cheque)",
+    "verdict": "MISMATCH (low confidence both ways)"
+   },
+   {
+    "row": "A002",
+    "channel": "Hartzell's Heat & Air",
+    "claimed": "faceless",
+    "found": "faceless (cartoon, logo ad)",
+    "verdict": "OK"
+   },
+   {
+    "row": "A216",
+    "channel": "Advantage HVAC, Plumbing, and Electrical",
+    "claimed": "on camera (low)",
+    "found": "on camera (low; 1 thumbnail, a real woman by the van)",
+    "verdict": "OK"
+   },
+   {
+    "row": "A010",
+    "channel": "Barton Oil Burner Services",
+    "claimed": "faceless",
+    "found": "faceless",
+    "verdict": "OK"
+   },
+   {
+    "row": "B207",
+    "channel": "Rise",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A209",
+    "channel": "Insulwise Energy & Comfort Solutions",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A038",
+    "channel": "True Blue Heating & Cooling",
+    "claimed": "on camera",
+    "found": "on camera (low; real tech side-on in 2)",
+    "verdict": "OK"
+   },
+   {
+    "row": "A027",
+    "channel": "The Smart Way to Buy HVAC with Doug Cross",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A105",
+    "channel": "Birmingham Boiler Fix",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A049",
+    "channel": "American Veteran Air & Heat",
+    "claimed": "on camera (low)",
+    "found": "on camera (low; real man in 1 of 3)",
+    "verdict": "OK"
+   },
+   {
+    "row": "A107",
+    "channel": "Fire & Ice Home Services",
+    "claimed": "on camera",
+    "found": "on camera",
+    "verdict": "OK"
+   },
+   {
+    "row": "A045",
+    "channel": "Monkey Wrench Plumbing, Heating, Air & Electric",
+    "claimed": "on camera",
+    "found": "on camera (2 of 3)",
+    "verdict": "OK"
+   }
+  ]
+ },
+ "part3": {
+  "seed": 2642,
+  "population": "60 well_above=yes rows of new-channels-2026-10-26.csv (sorted by rank)",
+  "sample_ids": [
+   "UCZC0peuG11nBp0GculOqulw",
+   "UC5NJ3yYhsZFkfWLJJJVoxMA",
+   "UC1s7DYNFPAX2oz8RAr7KD6g",
+   "UCQCRIhHQ__ncUxtOHiIXI4A",
+   "UC5jSwGDIa9XgYAqd-5LWooQ",
+   "UCimosvXXx33o2BIrEpMQQ-g",
+   "UCCAESgTkIr9H0aFVPiJqxUw",
+   "UCDW0n--SimQsdCQLAxzkwKA",
+   "UCaKBU_jFbCCRbw8LEe5LIrw",
+   "UCAe1DFdhgDxmhzuaCxjzz6A"
+  ],
+  "rows": [
+   {
+    "rank": 44,
+    "channel": "Construction Odyssey with Eddie",
+    "claimed_share": 0.9,
+    "recomputed_rule_share": 0.9,
+    "my_hand_share": ">0.90 (rule misses 'Heates', 'Heats a Home' titles)",
+    "share_ok": "OK",
+    "best_hvac_claimed": "This $300 Tunnel Keeps Your Home 55°F Forever... (2,200,000)",
+    "best_hvac_ok": "OK"
+   },
+   {
+    "rank": 47,
+    "channel": "Hank Cole",
+    "claimed_share": 0.955,
+    "recomputed_rule_share": 0.955,
+    "my_hand_share": "~0.97",
+    "share_ok": "OK",
+    "best_hvac_claimed": "The $5 Fix That Makes Your AC Blow 9° Colder (156,000)",
+    "best_hvac_ok": "OK"
+   },
+   {
+    "rank": 15,
+    "channel": "Harlan Sawyer",
+    "claimed_share": 0.781,
+    "recomputed_rule_share": 0.781,
+    "my_hand_share": "0.44-0.63 (0.438 without the woodpile video; + chimney-fire and split-size titles the rule missed)",
+    "share_ok": "OK",
+    "best_hvac_claimed": "5 Woodpile Dangers That Can Put You in the Hospital... (438,000)",
+    "best_hvac_ok": "DOUBTFUL: same video BlHC-momweM is dropped in topvideos-exact as 'woodpile hazards (firewood handling), not heating the home'"
+   },
+   {
+    "rank": 24,
+    "channel": "Exposi",
+    "claimed_share": 0.971,
+    "recomputed_rule_share": 0.971,
+    "my_hand_share": "~0.97",
+    "share_ok": "OK",
+    "best_hvac_claimed": "Doing This Will Make Your AC Run Like NEW Again! (335,000)",
+    "best_hvac_ok": "OK"
+   },
+   {
+    "rank": 64,
+    "channel": "Eli Forgotten Ways",
+    "claimed_share": 0.397,
+    "recomputed_rule_share": 0.397,
+    "my_hand_share": "~0.62 (+ ammonia/saltpeter/salt/zeolite cooling, soapstone heat; - 2 wind-turbine titles, plug-in solar)",
+    "share_ok": "OK",
+    "best_hvac_claimed": "These 6 Wind Turbines Are The Future Of Home Energy (42,000)",
+    "best_hvac_ok": "MISMATCH: wind power, not HVAC; real best HVAC = 'Why Did We Stop Using Ammonia To Cool Our Homes?' (87,000, D7UKnOB0lPo)"
+   },
+   {
+    "rank": 31,
+    "channel": "Repara Fácil USA",
+    "claimed_share": 0.83,
+    "recomputed_rule_share": 0.83,
+    "my_hand_share": "~0.95 (Spanish AC titles missed)",
+    "share_ok": "OK",
+    "best_hvac_claimed": "Before Turning On Your Heater This Fall, Do This... (135,000)",
+    "best_hvac_ok": "OK"
+   },
+   {
+    "rank": 6,
+    "channel": "OffGrid Secrets",
+    "claimed_share": 0.553,
+    "recomputed_rule_share": 0.553,
+    "my_hand_share": ">0.58 (heats-for-$0 home titles missed)",
+    "share_ok": "OK",
+    "best_hvac_claimed": "This 3,000-Year-Old Layout Cools For $0... (648,000)",
+    "best_hvac_ok": "OK"
+   },
+   {
+    "rank": 67,
+    "channel": "TheUnknownMarks",
+    "claimed_share": 0.422,
+    "recomputed_rule_share": 0.422,
+    "my_hand_share": "~0.98",
+    "share_ok": "OK",
+    "best_hvac_claimed": "This $8 Walmart Pad Keeps Your Bed Warm With No Heat... (30,000)",
+    "best_hvac_ok": "MISMATCH: real best HVAC = 'This $4 Can of Crisco Heats a Room for 45 Days — Zero Electricity, Zero Gas' (74,000, _eNzYpPztj0), missed by the rule"
+   },
+   {
+    "rank": 10,
+    "channel": "Craftsman Chris",
+    "claimed_share": 0.999,
+    "recomputed_rule_share": 0.999,
+    "my_hand_share": "0.999",
+    "share_ok": "OK",
+    "best_hvac_claimed": "Turning a Dumpster AC Into a Super-Efficient Geothermal Heat Pump (781,000)",
+    "best_hvac_ok": "OK"
+   },
+   {
+    "rank": 54,
+    "channel": "Earl Sizemore",
+    "claimed_share": 0.85,
+    "recomputed_rule_share": 0.85,
+    "my_hand_share": "~0.85",
+    "share_ok": "OK",
+    "best_hvac_claimed": "STOP Paying for Heat This Winter. Fill This $10 SALT BUCKET... (123,000)",
+    "best_hvac_ok": "OK"
+   }
+  ],
+  "outside_sample": [
+   {
+    "rank": 11,
+    "channel": "Historia Prime",
+    "issue": "rule best HVAC 'Connecting Two Metals Purifies ANY Water' (1.6M, tSFizbjaCBo) is water purification (dropped as 'not HVAC' in topvideos-exact); share 0.294 -> 0.154 without it; ~0.20-0.25 if missed warmth titles (Vikings floor hack 338K, overnight warmth 146K, salt+foil heat 84K, heat candle 221K, bed insulation 296K) are added: borderline"
+   },
+   {
+    "rank": 45,
+    "channel": "Grain & Gravity",
+    "issue": "share 0.327 rests on plug-in battery / plug-in solar 'cuts home energy bills' titles (444K+167K+16K); by the study's own top-list drops of electric-bill devices (40zFRH-mb-o, JJDOg6Zmtk8) these are out -> ~0.05, would fail 20%"
+   },
+   {
+    "rank": 71,
+    "channel": "WiseMoney",
+    "issue": "share 0.289 rests on '$8 Trick Cuts Your Electricity Bill in Half' (332K) and '35 CHEAP Items That REPLACE Electricity' (98K); without them ~0.11: needs a hand read"
+   },
+   {
+    "rank": 65,
+    "channel": "Backyard Low Tech",
+    "issue": "best HVAC 'This $18 Thermoelectric Chip Powers My Gear From Attic Heat' (142K) is power, not HVAC; share still ~0.28 without it"
+   },
+   {
+    "rank": 48,
+    "channel": "Hidden Systems",
+    "issue": "hand share fixed (90%) but best HVAC column still shows the rule pick (19,000); best any 'The $12 Norwegian Stove That Heats a House for 18 Hours...' (347,000) is HVAC"
+   },
+   {
+    "rank": 59,
+    "channel": "Elias Mercer",
+    "issue": "hand share fixed (95%) but best HVAC column shows 7,100; best any 'Old-Timers Never Heated the House When the Power Died. They Did This ($0)' (160,000) is outage heat"
+   }
+  ]
+ },
+ "part4": {
+  "seed": 2643,
+  "population": "80 rows: last-90-day floor-1,000 list (30) + last-12-month floor-1,000 list (50), parsed from recent-winners.md",
+  "rows": [
+   {
+    "list": "90d",
+    "rank": "26",
+    "id": "9-eQiEQOhyo",
+    "title": "\"Before Central Heating, How Did Americans Survive Freezing Winters?\" (`9-eQiEQOhyo`)",
+    "channel": "Secret State Files (@Secretstatefiles-i5s)",
+    "md_views": "1,224,700",
+    "md_date": "2026-09-05",
+    "md_mult": "81.6x",
+    "md_base": "15,000 (12M, n=105)",
+    "exact_views": 1224700,
+    "views_text": "1,224,700 views",
+    "exact_date": "2026-09-05",
+    "date_text": "Sep 5, 2026",
+    "baseline": 15000.0,
+    "baseline_rule": "12M",
+    "baseline_n": 105,
+    "baseline_src": "extra",
+    "mult": 81.6,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 15000,
+    "my_baseline_n": 105,
+    "my_mult": 81.6
+   },
+   {
+    "list": "90d",
+    "rank": "13",
+    "id": "rX4eyZaHAjw",
+    "title": "\"15 Cheap Walmart Items That Become WORTH GOLD When Your Furnace Dies\" (`rX4eyZaHAjw`)",
+    "channel": "Lost Survival Knowledge (@LostSurvivalKnowledge)",
+    "md_views": "1,327,280",
+    "md_date": "2026-10-14",
+    "md_mult": "132.7x",
+    "md_base": "10,000 (12M, n=31)",
+    "exact_views": 1327280,
+    "views_text": "1,327,280 views",
+    "exact_date": "2026-10-14",
+    "date_text": "Oct 14, 2026",
+    "baseline": 10000.0,
+    "baseline_rule": "12M",
+    "baseline_n": "31",
+    "baseline_src": "census",
+    "mult": 132.7,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 10000,
+    "my_baseline_n": 31,
+    "my_mult": 132.7
+   },
+   {
+    "list": "12m",
+    "rank": "18",
+    "id": "sngNQIbfZxo",
+    "title": "\"FREE Heat All Winter😱!! Millions of people don't know this secret – Free Energy For Winter\" (`sngNQIbfZxo`)",
+    "channel": "Tips Clever (@TipsCleverUSA)",
+    "md_views": "1,631,013",
+    "md_date": "2025-12-02",
+    "md_mult": "316.7x",
+    "md_base": "5,150 (12M, n=120, capped)",
+    "exact_views": 1631013,
+    "views_text": "1,631,013 views",
+    "exact_date": "2025-12-02",
+    "date_text": "Premiered Dec 2, 2025",
+    "baseline": 5150.0,
+    "baseline_rule": "12M (Latest list ends inside 12 months: latest 120 uploads only)",
+    "baseline_n": "120",
+    "baseline_src": "census",
+    "mult": 316.7,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 5150.0,
+    "my_baseline_n": 120,
+    "my_mult": 316.7
+   },
+   {
+    "list": "12m",
+    "rank": "7",
+    "id": "H2SrcFJ8g6s",
+    "title": "\"No Gas, No Wood 😱!! This Simple DIY Stove Heats for FREE All Winter\" (`H2SrcFJ8g6s`)",
+    "channel": "Creative DIY365 (@CreativeDIY365USA)",
+    "md_views": "7,535,159",
+    "md_date": "2025-12-30",
+    "md_mult": "627.9x",
+    "md_base": "12,000 (12M, n=120, capped)",
+    "exact_views": 7535159,
+    "views_text": "7,535,159 views",
+    "exact_date": "2025-12-30",
+    "date_text": "Dec 30, 2025",
+    "baseline": 12000.0,
+    "baseline_rule": "12M (Latest list ends inside 12 months: latest 120 uploads only)",
+    "baseline_n": "120",
+    "baseline_src": "census",
+    "mult": 627.9,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 12000.0,
+    "my_baseline_n": 120,
+    "my_mult": 627.9
+   },
+   {
+    "list": "90d",
+    "rank": "17",
+    "id": "CJhglI70jw8",
+    "title": "\"Do THIS Once a Month and Your AC Will Last 25 Years\" (`CJhglI70jw8`)",
+    "channel": "John The HVAC Guy (@JohnTheHVACGuy)",
+    "md_views": "232,795",
+    "md_date": "2026-08-15",
+    "md_mult": "116.4x",
+    "md_base": "2,000 (12M, n=72)",
+    "exact_views": 232795,
+    "views_text": "232,795 views",
+    "exact_date": "2026-08-15",
+    "date_text": "Aug 15, 2026",
+    "baseline": 2000.0,
+    "baseline_rule": "12M",
+    "baseline_n": "72",
+    "baseline_src": "census",
+    "mult": 116.4,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 2000.0,
+    "my_baseline_n": 72,
+    "my_mult": 116.4
+   },
+   {
+    "list": "12m",
+    "rank": "44",
+    "id": "hJNFA6oxbA8",
+    "title": "\"Millions Don’t Know This 😱 Turn Charcoal Into a DIY Heat Source – No Gas, No Electricity Needed\" (`hJNFA6oxbA8`)",
+    "channel": "Creative DIY365 (@CreativeDIY365USA)",
+    "md_views": "2,045,436",
+    "md_date": "2026-06-09",
+    "md_mult": "170.5x",
+    "md_base": "12,000 (12M, n=120, capped)",
+    "exact_views": 2045436,
+    "views_text": "2,045,436 views",
+    "exact_date": "2026-06-09",
+    "date_text": "Jun 9, 2026",
+    "baseline": 12000.0,
+    "baseline_rule": "12M (Latest list ends inside 12 months: latest 120 uploads only)",
+    "baseline_n": "120",
+    "baseline_src": "census",
+    "mult": 170.5,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 12000.0,
+    "my_baseline_n": 120,
+    "my_mult": 170.5
+   },
+   {
+    "list": "12m",
+    "rank": "47",
+    "id": "EU89zAZS970",
+    "title": "\"Millions Don’t Know This! DIY 3-in-1 Heating Stove – Unlimited Energy to Stay Warm All Winter 2025🔥\" (`EU89zAZS970`)",
+    "channel": "Unknowns Lab 101 (@UnknownsLab101)",
+    "md_views": "1,183,500",
+    "md_date": "2025-12-10",
+    "md_mult": "155.7x",
+    "md_base": "7,600 (12M, n=120, capped)",
+    "exact_views": 1183500,
+    "views_text": "1,183,500 views",
+    "exact_date": "2025-12-10",
+    "date_text": "Dec 10, 2025",
+    "baseline": 7600.0,
+    "baseline_rule": "12M (Latest list ends inside 12 months: latest 120 uploads only)",
+    "baseline_n": "120",
+    "baseline_src": "census",
+    "mult": 155.7,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 7600.0,
+    "my_baseline_n": 120,
+    "my_mult": 155.7
+   },
+   {
+    "list": "90d",
+    "rank": "22",
+    "id": "D3s86GpsnZ4",
+    "title": "\"Do THIS Before Winter and Your Furnace Will Last 30 Years\" (`D3s86GpsnZ4`)",
+    "channel": "John The HVAC Guy (@JohnTheHVACGuy)",
+    "md_views": "177,794",
+    "md_date": "2026-08-25",
+    "md_mult": "88.9x",
+    "md_base": "2,000 (12M, n=72)",
+    "exact_views": 177794,
+    "views_text": "177,794 views",
+    "exact_date": "2026-08-25",
+    "date_text": "Aug 25, 2026",
+    "baseline": 2000.0,
+    "baseline_rule": "12M",
+    "baseline_n": "72",
+    "baseline_src": "census",
+    "mult": 88.9,
+    "in_window": true,
+    "in_json_list": true,
+    "decision": "keep",
+    "my_baseline": 2000.0,
+    "my_baseline_n": 72,
+    "my_mult": 88.9
+   }
+  ],
+  "full_rebuild": "both floor-1,000 lists rebuilt independently from topvideos-exact JSON (decision keep, exact date in window, baseline >= 1,000, n >= 10, dur >= 300): identical order 30/30 and 50/50; no unreviewed video above either cut (9 and 14 non-kept above the cuts are all hand drops)"
+ }
+}
