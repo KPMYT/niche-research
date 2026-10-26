@@ -1593,13 +1593,13 @@
     "merch"
    ],
    "own_products": [
-    "Kilcher Camp [membership community] — page shows $25 and $250 (period not captured) — eivinandevekilcher.com"
+    "Kilcher Camp [membership community] — $25 a month or $250 a year (\"$25 JOIN MONTHLY\", \"$250 JOIN FOR THE YEAR\"; kilcher-camp page loaded 2026-10-26) — eivinandevekilcher.com"
    ],
    "own_products_detail": [
     {
      "name": "Kilcher Camp",
      "kind": "membership community",
-     "price": "page shows $25 and $250 (period not captured)",
+     "price": "$25 a month or $250 a year (\"$25 JOIN MONTHLY\", \"$250 JOIN FOR THE YEAR\"; kilcher-camp page loaded 2026-10-26)",
      "domain": "eivinandevekilcher.com",
      "free": false
     }
@@ -3614,6 +3614,50 @@
    "own_products": [],
    "own_products_detail": [],
    "contractor": "n (manufacturer)"
+  },
+  "UClaK5GBRvmTaB227eFP6e9Q": {
+   "name": "Myks Garage",
+   "note": "teslaunch.net is a third-party Tesla accessory shop; the description says \"the above links are my Amazon affiliate links\"",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UClP0FR0dv5nSCAHqxQb-KQg": {
+   "name": "The Successful Contractor | by CertainPath",
+   "note": "\"Book a free strategy call\" (bit.ly -> mycertainpath.com/book-a-call): a coaching sales call",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCq9lcD5_glbQjZunar_78_g": {
+   "name": "Consumer Pick",
+   "note": "its bit.ly links resolve to its own review site consumer-picked.com (articles, not a product)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCy5qVwECeKwWlUhga7bis1w": {
+   "name": "Mechanical Hub",
+   "note": "bit.ly -> mechanical-hub.com/enewsletter: a newsletter sign-up",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCC-uuGy0BRA3sWMKZP-yQJA": {
+   "name": "Sierra LLC Air Conditioning & Plumbing",
+   "note": "contractor; own site SierraCoolsLV.com named in plain text",
+   "add": [
+    "own_website"
+   ],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
   },
   "UCQEFQJGOpz38hEQiQX8cJKA": {
    "name": "Obadiah's Woodstoves",

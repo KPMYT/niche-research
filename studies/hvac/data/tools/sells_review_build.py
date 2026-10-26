@@ -135,7 +135,9 @@ none('Piney Grove Homestead', 'VEVOR product link', ['affiliate'])
 own('Wonders', [P('The $0 Household Bible', 'e-book', '$27 (compare at $47)', 'householdbible.com')])
 own('Dirtpatcheaven', [P('Compost Hotbed Instructions (Etsy)', 'instructions/plans', NF, 'etsy.com')])
 own('Medieval Way', [P('The Medieval Bakery · The Complete Collection (3 e-books)', 'e-books', '$47 collection; single books $27-$29', 'medievalway.store')])
-own('Eivin Kilcher Homestead', [P('Kilcher Camp', 'membership community', 'page shows $25 and $250 (period not captured)', 'eivinandevekilcher.com')], add=['membership', 'merch'])
+# fix 3.5 (round 3 fixer, 2026-10-26): the period comes from the round 3 checker's load of eivinandevekilcher.com/kilcher-camp
+# on 2026-10-26 ("$25 JOIN MONTHLY"; "$250 JOIN FOR THE YEAR"; check-round3.md part 3 row 12).
+own('Eivin Kilcher Homestead', [P('Kilcher Camp', 'membership community', '$25 a month or $250 a year ("$25 JOIN MONTHLY", "$250 JOIN FOR THE YEAR"; kilcher-camp page loaded 2026-10-26)', 'eivinandevekilcher.com')], add=['membership', 'merch'])
 own('Everything Electric TECH', [P('The Fully Charged Guide to Electric Vehicles & Clean Energy', 'book (Amazon)', NF, 'buff.ly -> amazon.co.uk')])
 none('The Solar Lab', 'review site with discount codes', ['affiliate'])
 own('Medieval Wisdom', [P("The Medieval Wisdom Builder's Manual (PDF, 911 pages)", 'e-book', '$47 launch price through Oct 21, then $67', 'medieval-wisdom.com')])
@@ -291,6 +293,14 @@ own('Our Self-Reliant Life', [P('Off-Grid Guides (Ko-fi shop)', 'guides', NF + '
 own("Walter's Tool Talk", [P('The Vintage Tackle collection (collector guides)', 'e-books', 'bundle $79; guide $19 (was $27)', 'walterstooltalk.com')])
 
 none('AprilAire', 'manufacturer (phone + "call us today" are product support, not a contractor)', contractor='n (manufacturer)')
+# Round 3 fixer, 2026-10-26: 4 candidates that appeared once shortener targets were resolved (fix 3.1), read by hand.
+none('Myks Garage', 'teslaunch.net is a third-party Tesla accessory shop; the description says "the above links are my Amazon affiliate links"', add=['affiliate'])
+none('The Successful Contractor | by CertainPath', '"Book a free strategy call" (bit.ly -> mycertainpath.com/book-a-call): a coaching sales call', add=['consulting'])
+none('Consumer Pick', 'its bit.ly links resolve to its own review site consumer-picked.com (articles, not a product)')
+none('Mechanical Hub', 'bit.ly -> mechanical-hub.com/enewsletter: a newsletter sign-up', add=['newsletter'])
+# fix 3.3 (round 3 fixer, 2026-10-26): Las Vegas HVAC company; both descriptions end "please visit our website at
+# SierraCoolsLV.com" (plain text, no link) and the census D check has it as a contractor (check-round3.md part 3 row 14).
+none('Sierra LLC Air Conditioning & Plumbing', 'contractor; own site SierraCoolsLV.com named in plain text', add=['own_website'], contractor='y')
 none("Obadiah's Woodstoves", 'stove retailer', contractor='n (retailer)')
 master = {r['name']: r['channel_id'] for r in csv.DictReader(open('/home/user/niche-research/studies/hvac/data/raw/channels-master-2026-10-24.csv')) if r['tier'] in 'ABCD' and r['tier']}
 out, missing = {}, []

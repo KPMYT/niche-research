@@ -43,7 +43,15 @@ RETAIL = {  # domain -> label (third-party retailers / affiliate networks)
     'costco.com': 'Costco', 'wayfair.com': 'Wayfair', 'etsy.me': 'Etsy (link)', 'theecoexperts.co.uk': 'The Eco Experts',
     'quotes.theecoexperts.co.uk': 'The Eco Experts', 'screwfix.com': 'Screwfix', 'toolstation.com': 'Toolstation',
     'bit.ly': None, 'tinyurl.com': None, 'rb.gy': None, 'goo.gl': None, 'shorturl.at': None,
+    # fix 3.1 (round 3 fixer, 2026-10-26): affiliate networks and shops seen as shortener targets
+    'rstyle.me': 'LTK (rstyle.me)', 'on.ltk.com': 'LTK', 'liketk.it': 'LTK', 'redirect.viglink.com': 'Viglink',
+    'kqzyfj.com': 'CJ (kqzyfj.com)', 'anrdoezrs.net': 'CJ (anrdoezrs.net)', 'dpbolvw.net': 'CJ (dpbolvw.net)',
+    'jdoqocy.com': 'CJ (jdoqocy.com)', 'tkqlhce.com': 'CJ (tkqlhce.com)', 'pxf.io': 'Impact (pxf.io)', 'fbuy.io': 'Friendbuy (referral)',
+    'avantlink.com': 'AvantLink', 'go.skimresources.com': 'Skimlinks', 'prf.hn': 'Partnerize', 'banggood.com': 'Banggood',
+    'toolnation.com': 'Toolnation',
 }
+# fix 3.1: shortener targets resolved by sells_shorteners.py (raw/census-sells-shorteners-2026-10-26.json)
+RESOLVED = {}
 OWNPLAT = re.compile(r'(gumroad\.com|payhip\.com|stan\.store|lulu\.com|books2read\.com|teachable\.com|thinkific\.com|'
                      r'kajabi\.com|mykajabi\.com|podia\.com|systeme\.io|sellfy\.com|lemonsqueezy\.com|ko-fi\.com/s/|'
                      r'shopify|samcart|thrivecart|clickfunnels|selz\.com|sendowl|payloadz|kdp|smashwords|draft2digital|'
@@ -56,7 +64,9 @@ OWNTEXT2 = re.compile(r'(📘|📕|📖|📗|📙|save (over )?\$[\d,]+|\bbooks?
                       r'get my\b|the complete\b|in one place|one place|instant (pdf|download)|launch price|\bkit\b|my shop|our shop|'
                       r'shop\b.*(towels|products)|vault\b|ledger\b|library\b|letter\b)', re.I)
 MEMBER = re.compile(r'(patreon\.com|youtube\.com/[^ ]*/join\b|channel membership|channel members?\b|become a (channel )?(member|sponsor)|'
-                    r'join (this|my|our) channel|skool\.com|locals\.com|subscribestar)', re.I)
+                    r'join (this|my|our) channel|skool\.com|locals\.com|subscribestar|'
+                    # fix 3.4 (round 3 fixer, 2026-10-26): "Support our channel and get exclusive access to new videos" (AmericanOutdoors)
+                    r'support (our|the|my) channel and get exclusive|exclusive access to (new )?videos)', re.I)
 TIPS = re.compile(r'(buymeacoffee\.com|buymeacoff\.ee|ko-fi\.com|paypal\.me|paypal\.com/(donate|paypalme)|cash\.app|'
                   r'venmo\.com|\btip jar\b|donat)', re.I)
 MERCH = re.compile(r'(teespring|spreadshirt|fourthwall|bonfire\.com|redbubble|creator-spring|\.myspreadshop|printify|'
@@ -65,14 +75,29 @@ SPONSOR = re.compile(r'(sponsored by|(this|today\'s) (video|episode)( is| was)? 
                      r'(today\'s|our|series|this week\'s) sponsor|paid partnership|in partnership with|'
                      r'promo code|discount code|coupon code|use (my |the )?code\b|with (my )?code\b|code at checkout)', re.I)
 NOTSPONSOR = re.compile(r'not (a )?sponsored|no sponsors?|isn\'t sponsored|is not sponsored|unsponsored', re.I)
-AFFTEXT = re.compile(r'(affiliate|commission|as an amazon associate|i earn from qualifying)', re.I)
+AFFTEXT = re.compile(r'(affiliate|(earn|receive|make|get)s?( a| an| small| little| tiny)* commissions?|commissions? (at no|from|on|if)|'
+                     r'(provide|pay)s?( a| an| small| little| tiny)* commissions?|commissions? (might|may|will|is|are)( be)? (paid|earned)|#?commissions ?earned|'
+                     r'as an amazon associate|i earn from qualifying)', re.I)  # fix 3.2: not "Consumer Product Safety Commission"
+# fix 3.2 (round 3 fixer, 2026-10-26): a description that says it has no affiliate links ("No sponsorships. No affiliate
+# links." on BIG TICKET TRUTH) counts none of its shop links as affiliate; a line saying "this is not an affiliate link"
+# does the same for its own link; "not affiliated with ..." and "no affiliate links" are not affiliate disclosures.
+NOAFF_ALL = re.compile(r'\bno affiliate (links?|commissions?)\b|there are no affiliate links|\bno sponsors?\b[^\n]{0,20}\bno affiliate|'
+                       r"\bi(?: a|')m not an affiliate of\b", re.I)
+NOAFF_LINE = re.compile(r'\b(no|not|never|zero|without)\b[^\n]{0,30}(affiliat|commission)', re.I)
+# fix 3.1 (round 3 fixer, 2026-10-26): a URL shortener counts as affiliate only when its line says so or names a shop / deal.
+SHOPLINE = re.compile(r'(affiliate|commission|amazon|\bbuy\b|\bshop\b|\border\b|get (yours|it|one)|check (out )?(the )?(latest )?price|'
+                      r'\bdeals?\b|discount|coupon|% off|\bsave \$|on sale|gear i use|tools? i use|what i use|recommended)', re.I)
+# fix 3.3 (round 3 fixer, 2026-10-26): a website named in plain text ("please visit our website at SierraCoolsLV.com").
+PLAINSITE = re.compile(r'(visit (us|our (web ?)?site)|our (web ?)?site( is)?\b|website:|\bweb ?site at\b)', re.I)
 CONTRACT = re.compile(r'(serving\b|service area|free estimate|free quote|licensed and insured|licensed & insured|'
                       r'call us|call today|schedule (service|an appointment|your)|we service|our technicians|'
                       r'request service|book (a|your) (service|appointment)|service call|our team|family[- ]owned|'
                       r'locally owned|hvac company|heating and (air|cooling) (company|service)|license #|lic\.? ?#)', re.I)
 CONTRACT_STRONG = re.compile(r'(service area|free (estimate|quote)s?|licensed (and|&) insured|schedule (service|an appointment|your (service|appointment))|'
                              r'request (service|an appointment)|book (online|your visit|a visit|an appointment|your appointment)|housecallpro|'
-                             r'servicetitan|license ?#|lic\.? ?#|we service|\bServing [A-Z][a-z]+|proudly serving|call (us )?today)', re.I)
+                             r'servicetitan|license ?#|lic\.? ?#|we service|\bServing [A-Z][a-z]+|proudly serving|call (us )?today|'
+                             # fix 3.3: "any heating and/or air conditioning products and services, please visit our website at"
+                             r'(heating|air conditioning|hvac|plumbing)[^\n]{0,60}services?[^\n]{0,40}visit our website)', re.I)
 PHONE = re.compile(r'(\(\d{3}\)\s?\d{3}[-.\s]\d{4}|\b\d{3}[-.]\d{3}[-.]\d{4}\b|\b0\d{3,4}\s?\d{3}\s?\d{3,4}\b)')
 CONSULT = re.compile(r'(consultations?\b|consulting services|we consult|1-on-1|one-on-one|1:1 |book a call|calendly\.com|virtual (help|diagnos|call)|'
                      r'video call|coaching|zoom call|hire me)', re.I)
@@ -118,6 +143,10 @@ def plain_links(text):
 
 def main():
     master, descp, aboutp, reviewp, outp, candp = sys.argv[1:7]
+    import os
+    shortp = sys.argv[7] if len(sys.argv) > 7 else os.path.join(os.path.dirname(os.path.abspath(descp)), 'census-sells-shorteners-2026-10-26.json')
+    if os.path.exists(shortp):
+        RESOLVED.update(json.load(open(shortp))['links'])
     rows = [r for r in csv.DictReader(open(master)) if r['tier'] in ('A', 'B', 'C', 'D')]
     vids = collections.defaultdict(list)
     for l in open(descp):
@@ -135,6 +164,7 @@ def main():
             if ev and ev not in cats[cat] and len(cats[cat]) < 6:
                 cats[cat].append(ev)
         aff = collections.Counter()
+        not_counted = []
         own_c, spons, merch_e, mem_e, contr_e, cons_e = [], [], [], [], [], []
         srcs, errs, pulled = [], [], []
         texts = []
@@ -146,19 +176,31 @@ def main():
             pulled.append(v['pulled'][:10])
             d = v.get('description') or ''
             texts.append(('video ' + v['id'], d))
+            no_aff_video = bool(NOAFF_ALL.search(d))
+            linked_hosts = set()
             for lk in v.get('links', []):
                 u = lk['url']
                 if u.startswith('/') or 'youtube.com/redirect' in u:
                     continue
                 h = host(u)
+                linked_hosts.add(h)
                 ln = line_of(d, lk['text'])
-                handle_link(u, h, ln, 'video ' + v['id'], add, aff, own_c)
+                handle_link(u, h, ln, 'video ' + v['id'], add, aff, own_c, not_counted,
+                            no_aff=no_aff_video or bool(NOAFF_LINE.search(ln)))
+            for dl in d.split('\n'):
+                if PLAINSITE.search(dl):
+                    for u in plain_links(dl):
+                        h = host(u)
+                        if h and h not in linked_hosts and not SOCIAL.search(h) and not AMAZON.search(h) and h not in RETAIL \
+                                and '@' not in u and not re.search(r'\.(gov|edu|mil)$', h):
+                            add('own_website', h + ' (plain text)')
         a = about.get(cid)
         if a:
             ad = a.get('DESC') or ''
             texts.append(('About', ad))
             for u in plain_links(ad):
-                handle_link(u, host(u), line_of(ad, u), 'About', add, aff, own_c)
+                ln_a = line_of(ad, u)
+                handle_link(u, host(u), ln_a, 'About', add, aff, own_c, not_counted, no_aff=bool(NOAFF_LINE.search(ln_a)))
         own_domains = set()
         for src, t in texts:
             low = t
@@ -186,15 +228,29 @@ def main():
             for m in NEWS.finditer(t):
                 s = t.rfind('\n', 0, m.start()) + 1; e = t.find('\n', m.end()); e = len(t) if e < 0 else e
                 add('newsletter', t[s:e].strip()[:160] + ' [' + src + ']')
-            if AFFTEXT.search(t):
-                add('affiliate_disclosure', AFFTEXT.search(t).group(0) + ' [' + src + ']')
+            for m in AFFTEXT.finditer(t):
+                s_ = t.rfind('\n', 0, m.start()) + 1; e_ = t.find('\n', m.end()); e_ = len(t) if e_ < 0 else e_
+                if NOAFF_LINE.search(t[s_:e_]):
+                    continue  # fix 3.2: "No affiliate links." / "not affiliated with" is not a disclosure
+                add('affiliate_disclosure', m.group(0) + ' [' + src + ']')
+                break
             ph = PHONE.search(t)
             cm = CONTRACT.search(t)
             if ph or cm:
                 add('contractor_signal', ((ph.group(0) + ' ') if ph else '') + ((cm.group(0)) if cm else '') + ' [' + src + ']')
+        rv = review.get(cid, {})
+        # fix 3.5 (round 3 fixer): the channel's own product site is not an affiliate shop (Kilcher: eivinandevekilcher.com)
+        own_dom = set()
+        for p_ in rv.get('own_products_detail', []) or []:
+            for part in re.split(r'\s*->\s*|\s+', p_.get('domain', '')):
+                if part and '.' in part:
+                    pl = part.lower()
+                    own_dom.add(pl[4:] if pl.startswith('www.') else pl)
+        for k_ in list(aff):
+            if k_.lower() in own_dom or any(k_.lower().endswith('.' + od) for od in own_dom):
+                not_counted.append(k_ + ' (own product site)'); del aff[k_]
         if aff:
             add('affiliate', '')
-        rv = review.get(cid, {})
         # hand review (review.json) overrides the own-product candidates, adds categories, and can set contractor
         reviewed = bool(rv)
         prods = rv.get('own_products_detail')
@@ -251,6 +307,7 @@ def main():
             'contractor_evidence': ('hand-checked; ' if rv.get('contractor') else '') + (' ; '.join(ev) or 'not found'),
             'consulting_app_newsletter': ' || '.join(cats.get('consulting', []) + cats.get('app', []) + cats.get('newsletter', [])) or 'not found',
             'own_website': ' ; '.join(cats.get('own_website', [])) or 'not found',
+            'links_not_counted': ' ; '.join(sorted(set(not_counted))) or 'none',
             'source_video_ids': ' ; '.join(srcs) + ((' ; errors: ' + ' ; '.join(errs)) if errs else ''),
             'about_used': 'yes (DESC text only, no link list)' if a else 'no About record',
             'reviewed': 'hand-checked' if reviewed else 'rules only',
@@ -265,17 +322,27 @@ def main():
     print(len(out), 'rows;', len(cands), 'own-product candidate channels')
 
 
-def handle_link(u, h, ln, src, add, aff, own_c):
+def handle_link(u, h, ln, src, add, aff, own_c, not_counted=None, no_aff=False):
+    if not_counted is None:
+        not_counted = []
     if not h or h in ('gmail.com', 'yahoo.com', 'outlook.com', 'hotmail.com', 'icloud.com', 'aol.com') or '@' in u:
         return
     if re.search(r'(\.gov|\.gov\.[a-z]{2}|\.edu|\.mil|\.ac\.uk|\.nhs\.uk)$', h) or h in SOURCE_SITES:
         return  # public/source references, not something sold
+    if re.search(r'\.pdf($|[?#])', u.lower()) or h.startswith(('pdf.', 'downloads.')):
+        not_counted.append(h + ' (manual / PDF)')
+        return  # fix 3.2: a cited manual or PDF (pdf.lowes.com on BIG TICKET TRUTH) is a source, not a sale
     if SOCIAL.search(h):
         if 'youtube.com' in h and '/join' in u:
             add('membership', u + ' [' + src + ']')
         return
+    def count_aff(key):
+        if no_aff:  # fix 3.2
+            not_counted.append(key + ' (description says no affiliate links)')
+        else:
+            aff[key] += 1
     if AMAZON.search(h):
-        aff['Amazon'] += 1
+        count_aff('Amazon')
         if re.search(r'\b(my|our) (new )?(e-?)?book\b', ln, re.I):
             own_c.append({'src': src, 'url': u, 'line': ln, 'why': 'amazon + "my book"'})
         return
@@ -291,18 +358,24 @@ def handle_link(u, h, ln, src, add, aff, own_c):
     if APP.search(u):
         add('app', u + ' [' + src + ']'); return
     lab = RETAIL.get(h, 'unknown')
-    if lab is None:  # shortener: decide on line text
+    if lab is None:  # shortener: decide on its resolved target (fix 3.1), else on the line text
+        fin = (RESOLVED.get(u) or {}).get('final') or ''
+        if fin and host(fin) and RETAIL.get(host(fin), 'unknown') is not None and not src.endswith(' (via shortener)'):
+            handle_link(fin, host(fin), ln, src + ' (via shortener)', add, aff, own_c, not_counted, no_aff)
+            return
         if OWNTEXT.search(ln):
             own_c.append({'src': src, 'url': u, 'line': ln, 'why': 'shortener + product word'})
+        elif SHOPLINE.search(ln):
+            count_aff(h + ' (shortener)')
         else:
-            aff[h + ' (shortener)'] += 1
+            not_counted.append(h + ' (shortener, line names no shop)')  # fix 3.1
         return
     if lab != 'unknown':
-        aff[lab] += 1
+        count_aff(lab)
         return
     for k, v in RETAIL.items():
         if v and h.endswith('.' + k):
-            aff[v] += 1
+            count_aff(v)
             return
     # unknown domain: own product if the line says so, else note as website (own or third-party)
     if OWNTEXT.search(ln) or OWNTEXT2.search(ln):
@@ -311,7 +384,7 @@ def handle_link(u, h, ln, src, add, aff, own_c):
             and not NOTSPONSOR.search(ln):
         add('sponsor', ln[:200] + ' [' + src + ']')
     elif AFFTEXT.search(ln) or re.search(r'\b(buy|get|check (out|price)|link|shop|recommended|tools? i use|gear)\b', ln, re.I):
-        aff[h] += 1
+        count_aff(h)
     else:
         add('own_website', h)
 

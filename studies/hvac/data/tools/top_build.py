@@ -220,6 +220,9 @@ def build(exact_path, baselines_path=None):
         saved = json.load(open(exact_path))
         ex = {v["id"]: v["exact"] for v in saved["videos"]}
         extra = saved.get("extra_baselines", {})
+        SAVED_OUT_OF_POOL[:] = [dict(v, decision="drop", reason=(v.get("reason") or "") + " | out of the pool after the round 3 census "
+                                     "rule fix (2026-10-26): no longer an HVAC title by census_build.hvac_title")
+                                for v in saved["videos"] if v["id"] not in pool]
     else:
         for l in open(exact_path):
             if l.strip():
@@ -303,6 +306,11 @@ def build(exact_path, baselines_path=None):
 # Lists and outputs
 # ---------------------------------------------------------------------------------------------------------------
 MIN_N, MIN_BASE = 10, 100   # multiple lists: channel baseline n >= 10 (brief) and baseline >= 100 views (added guard)
+# Round 3 fix 6.3 (round 3 fixer, 2026-10-26; main session decision): a second pair of multiple lists with a baseline
+# floor of 1,000 views, beside the 100-view lists; and baselines whose set hit the pull cap (n = 120) are marked.
+MIN_BASE_F = 1000
+CAP_N = 120
+SAVED_OUT_OF_POOL = []      # saved exact videos no longer in the pool (kept in the raw JSON, never deleted)
 
 
 def make_lists(rows):
@@ -323,6 +331,8 @@ def make_lists(rows):
                                                 (r["baseline_n"] or 0) >= MIN_N and (r["baseline"] or 0) < MIN_BASE],
                                                key=lambda r: -r["mult"])
         L["m" + tag + "_no_baseline"] = [r for r in win if r["decision"] == "keep" and r["mult"] is None]
+        mf = [r for r in win if r["mult"] is not None and (r["baseline_n"] or 0) >= MIN_N and (r["baseline"] or 0) >= MIN_BASE_F]
+        L["m" + tag + "_f1000"] = chk(sorted(mf, key=lambda r: -r["mult"])[:nv], "m" + tag + "_f1000")
     return L
 
 
@@ -346,7 +356,8 @@ def fmult(r):
 def base_str(r):
     if not r["baseline"]:
         return "not found"
-    return f"{r['baseline']:,} ({(r['baseline_rule'] or '').split(' ')[0]}, n={r['baseline_n']})"
+    cap = ", capped" if (r["baseline_n"] or 0) >= CAP_N else ""
+    return f"{r['baseline']:,} ({(r['baseline_rule'] or '').split(' ')[0]}, n={r['baseline_n']}{cap})"
 
 
 def stage_baselines(chan_dir, out_path):
@@ -536,7 +547,7 @@ def write_outputs(rows, pool_stats, exact_path, baselines_path):
     ps = pool_stats
     T.append(f"1. **Pool.** (a) `data/raw/census-videos-2026-10-26.csv`: every long-form (5:00+) video the census pulled from the 1,122 channels of the round 2 master list's tiers A-D (Latest, Popular, Oldest sorts; up to about 120 each). Census channels re-tiered X keep their videos in the pool, so big HVAC videos on off-niche channels count. (b) `data/raw/sweep-videos-2026-10-24.csv`: keyword-sweep videos from any channel. Kept: titles that are HVAC by the census rule (`census_build.hvac_title`) or carry the census `is_hvac` mark. Pool: {ps['n_pool']:,} videos ({ps['n_census']:,} from the census, {ps['n_sweep_only']:,} sweep-only).")
     T.append(f"2. **Rule pre-filter** (logged): {ps['n_pre']:,} titles dropped as kids' challenges, games, vehicles, commercial / industrial / trade training, bushcraft and camping, electronics, non-English titles, and DIY craft stove builds with no heating word. Counts: " + "; ".join(f"{k} {v:,}" for k, v in ps['pre_counts']) + ".")
-    T.append(f"3. **Exact pulls**: {ps['n_exact']:,} candidates (the top 600 by approximate views, plus the recent-list candidates) pulled from `/next` (views, date, owner) and oEmbed (original title; logged-out pages auto-translate).")
+    T.append(f"3. **Exact pulls**: {ps['n_exact'] + len(SAVED_OUT_OF_POOL):,} candidates (the top 600 by approximate views, plus the recent-list candidates) pulled from `/next` (views, date, owner) and oEmbed (original title; logged-out pages auto-translate)." + (f" {len(SAVED_OUT_OF_POOL)} of them are no longer in the pool after the round 3 census rule fix (food and drink titles; kept in the raw JSON with the reason): " + ", ".join(f"`{v['id']}`" for v in SAVED_OUT_OF_POOL) + "." if SAVED_OUT_OF_POOL else ""))
     T.append(f"4. **Hand review**: every title that would enter a list was read: {ps['n_keep']} kept and {ps['n_drop_hand']} dropped by hand across all lists (reasons in `data/tools/top_review.py`). English: the original title by the round 2 rule, plus the description head (another language named, or mostly non-Latin script). Where an English-titled video's audio could not be confirmed, NexLev transcripts were checked for 6 videos (1 Hindi, dropped; 1 English; 1 music only; 3 not available); rows with unconfirmed audio carry a language note in the CSV.")
     T.append("5. **Scope readings used** (main ones, to confirm with the operator): DIY cement / brick / barrel stove builds whose title doesn't mention heating are read as craft or cooking stoves and left out (see the side table below: they would otherwise take most of the top 30); waste-oil 'stoves' that replace cooking gas are out, waste-oil *heaters* are in; bushcraft and camping shelters are out; car AC is out; firewood splitting and stacking are out; insulation, spray foam and weatherstripping are in only when the title is about heating, cooling or the bill (operator rule); utility-bill news stories are out, homeowner bill-cutting videos are in; DIY and passive cooling (homemade coolers, earth tubes) are in, mapped as `not mapped: DIY / passive cooling (proposed sub-niche, not in labels.md)` because labels.md has no cooling equivalent of off-grid heat.")
     T.append("6. **Multiple** = exact views / the channel's baseline (labels.md section 6: median tab views of its long-form uploads in the last 12 months, or of its last 30 if fewer than 10). Census channels: baseline from `census-channels-2026-10-26.csv`. Channels not in the census: pulled for this build with `yt_allsorts.py` (Latest, Popular, Oldest; 4 pages) on 2026-10-26 and computed the same way (" + f"{len(extra)} channels" + "). An old video's multiple is inflated by age; compare multiples with the upload year in view.\n")
@@ -586,6 +597,7 @@ def write_outputs(rows, pool_stats, exact_path, baselines_path):
     R.append("# HVAC study: what has worked recently (deliverable 6)\n")
     R.append(f"Built 2026-10-26 by `data/tools/top_build.py`. Same pool, rule pre-filter, exact pulls and hand review as `top-100.md`. Windows by the **exact** upload date from `/next`: last 90 days = uploaded {D90.isoformat()} to 2026-10-26; last 12 months = {D365.isoformat()} to 2026-10-26. Views exact, pulled {', '.join(pulled)} (UTC). **Not checked yet by a second helper.**\n")
     R.append(f"**Multiple lists rule:** exact views / the channel's baseline (labels.md section 6), only channels whose baseline set has **n >= {MIN_N}** videos (brief) **and a baseline of at least {MIN_BASE} views** (added guard: below that, one video's views swing the multiple into the thousands). Census channels use the census baseline; {len(extra)} channels outside the census were pulled for this build and computed the same way. Channels outside both (no baseline) can't enter the multiple lists. Sub-niche, format, emotions and villain are readings.\n")
+    R.append(f"**Round 3 fixes (2026-10-26, round 3 fixer):** (1) each multiple list now has a second version with a **baseline floor of {MIN_BASE_F:,} views** beside it (main session decision): a channel whose typical video gets a few hundred views can reach 500x-1,000x with one modest hit, so the floor-{MIN_BASE_F:,} lists show the breakouts of channels that already had an audience. (2) **\"capped\"** after a baseline means its set hit the census pull cap (n = {CAP_N}): the channel uploaded more than {CAP_N} long-form videos in 12 months, so its baseline is the median of its latest {CAP_N} only (a measured median, but of the most recent months, not the whole 12). (3) Dropped by hand: `40zFRH-mb-o` (an electrical 'reactive power' bill device, out of scope) and `iaCr4VfomMA` (a tin-can craft stove with no heating word, out by `top-100.md` step 5). (4) Channel types are the brief's four types (on camera / faceless / AI avatar / faceless persona) and tiers are the fixed census tiers.\n")
     def table(lst, title, by):
         R.append(f"## {title}\n")
         R.append("| # | Title | Channel | Views | Uploaded | Length | Multiple | Baseline (rule, n) | Sub-niche (reading) | Format (reading) | Emotions (reading) | Villain (reading) | Thumbnail |")
@@ -597,8 +609,10 @@ def write_outputs(rows, pool_stats, exact_path, baselines_path):
         R.append("\nSub-niches: " + "; ".join(f"{k} {v}" for k, v in c1.most_common()) + ".  \nFormats: " + "; ".join(f"{k} {v}" for k, v in c2.most_common()) + ".\n")
     table(L["v90"], "Last 90 days: top 30 by views", "views")
     table(L["m90"], f"Last 90 days: top 30 by multiple (n >= {MIN_N}, baseline >= {MIN_BASE})", "mult")
+    table(L["m90_f1000"], f"Last 90 days: top 30 by multiple, baseline floor {MIN_BASE_F:,} (n >= {MIN_N}, baseline >= {MIN_BASE_F:,}; round 3 fix 6.3)", "mult")
     table(L["v365"], "Last 12 months: top 50 by views", "views")
     table(L["m365"], f"Last 12 months: top 50 by multiple (n >= {MIN_N}, baseline >= {MIN_BASE})", "mult")
+    table(L["m365_f1000"], f"Last 12 months: top 50 by multiple, baseline floor {MIN_BASE_F:,} (n >= {MIN_N}, baseline >= {MIN_BASE_F:,}; round 3 fix 6.3)", "mult")
     g = [r for r in L["m365_guarded_out"]][:10]
     R.append(f"**Left out of the 12-month multiple list by the {MIN_BASE}-view baseline guard** ({len(L['m365_guarded_out'])} kept videos; the biggest): " + "; ".join(f"\"{md(r['title_final'])}\" ({md(r['channel'])}, {r['views']:,} views, baseline {r['baseline']}, {fmult(r)})" for r in g) + ".\n")
     nb = sorted(L["m365_no_baseline"], key=lambda r: -r["views"])[:10]
@@ -641,11 +655,11 @@ def write_outputs(rows, pool_stats, exact_path, baselines_path):
         R.append(f"| {r['views']:,} | {fmult(r)} | {r['date']} | \"{md(r['title_final'])}\" (`{r['id']}`) | {md(r['channel'])} | {md(r['reason'])} |")
     open(os.path.join(STUDY, "recent-winners.md"), "w").write("\n".join(R) + "\n")
     # ---------------- raw JSON
-    listed = {k: [r["id"] for r in v] for k, v in L.items() if k in ("top100", "v90", "m90", "v365", "m365")}
+    listed = {k: [r["id"] for r in v] for k, v in L.items() if k in ("top100", "v90", "m90", "v365", "m365", "m90_f1000", "m365_f1000")}
     raw = {"built": "2026-10-26", "tool": "data/tools/top_build.py (+ top_pull.py, top_review.py)",
            "source": "innertube /next (logged out, hl=en gl=US) + YouTube oEmbed; lengths from census tab / sweep search page",
            "pool_stats": {k: v for k, v in pool_stats.items() if k != "pool"},
-           "multiple_rule": {"min_n": MIN_N, "min_baseline": MIN_BASE},
+           "multiple_rule": {"min_n": MIN_N, "min_baseline": MIN_BASE, "min_baseline_floor_lists": MIN_BASE_F, "capped_n": CAP_N},
            "windows": {"90d_from": D90.isoformat(), "365d_from": D365.isoformat(), "to": TODAY.isoformat()},
            "lists": listed,
            "extra_baselines": extra,
@@ -654,7 +668,7 @@ def write_outputs(rows, pool_stats, exact_path, baselines_path):
                        "baseline": r["baseline"], "baseline_rule": r["baseline_rule"], "baseline_n": r["baseline_n"],
                        "baseline_source": r["baseline_src"], "multiple": r["mult"], "pool_source": r["src"],
                        "labels": dict(zip(("subniche", "format", "emotions", "villain", "by"), label_of(r))) if r["decision"] == "keep" else None,
-                       "language_note": r["lang_note"]} for r in rows],
+                       "language_note": r["lang_note"]} for r in rows] + SAVED_OUT_OF_POOL,
            "rising_falling": rf}
     json.dump(raw, open(os.path.join(RAW, "topvideos-exact-2026-10-26.json"), "w"), ensure_ascii=False, indent=0)
     print("top100 cut", cut100, "drops above", len(drops_top), "lists", {k: len(v) for k, v in listed.items()})

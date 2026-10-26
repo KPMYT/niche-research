@@ -251,6 +251,14 @@ DROP = {
 DROP.pop("1M8kAHcB9x8 ", None)
 DROP.pop("SidTalk", None)
 
+# Round 3 fixes 6.1 and 6.2 (round 3 fixer, 2026-10-26; main session decisions). Both were in KEEP; moved to DROP.
+for _v in ("40zFRH-mb-o", "iaCr4VfomMA"):
+    KEEP.discard(_v)
+DROP["40zFRH-mb-o"] = ("fix 6.1: the '$3 copper trick' is an electrical 'reactive power' device sold to cut the electric bill, "
+                       "not heating or cooling (out of scope)")
+DROP["iaCr4VfomMA"] = ("fix 6.2: tin-can mini stove ('No Gas, No Firewood, Just Free Energy at Home!') with no heating word: "
+                       "a craft stove, out by top-100.md step 5 like the other craft stoves")
+
 # Language notes on kept videos (English title; audio not confirmed English)
 LANG_NOTES = {
     "Abu43UiLpV4": "English title and description; NexLev transcript not available (likely no speech); audio language not confirmed",
@@ -515,3 +523,22 @@ mIAZ4Ib-ClQ out hack E5,E13 none
 QKPPm6M0__o brand only E3,E1 none
 """
 LABELS.update(_parse(_L2))
+
+# Round 3 fix 6.3 (round 3 fixer, 2026-10-26): read by hand when the floor-1,000 multiple list brought it in.
+# "My Husband Saves $1,000 on Heating Every Winter FOR FREE" (Clever Hacks): bubble wrap and draft stoppers sold as a
+# heating-bill cut, so in scope by the operator rule (insulation and drafts with a heat / bill word). Labels are readings.
+KEEP.add("GP4ohGurI88")
+LABELS.update(_parse("""
+GP4ohGurI88 ins hack E1,E13 util
+"""))
+
+# Round 3 fix 6.3 (round 3 fixer, 2026-10-26): the floor-1,000 12-month multiple list brought in 5 more unread titles.
+DROP["m9iqmUVQs74"] = "fix 6.3 read: car AC compressor and pressure switch (description: 'If your car's AC'), not home HVAC"
+DROP["VRtQnEzril4"] = "fix 6.3 read: street survival warmth tricks of homeless people, not a home system (as camping / bushcraft)"
+DROP["JJDOg6Zmtk8"] = ("fix 6.3 read: '$5 device that cuts your electric bill in half' sold as buried by power companies: "
+                       "an electric-bill gadget, out as 40zFRH-mb-o (fix 6.1)")
+KEEP.update(["a3y2hH8I9Bo", "pLAH6oejLMc"])
+LABELS.update(_parse("""
+a3y2hH8I9Bo cool exp E1,E19,E13 none
+pLAH6oejLMc cool hack E1,E19,E13 none
+"""))

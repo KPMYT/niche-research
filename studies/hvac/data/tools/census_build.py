@@ -46,6 +46,8 @@ def _load_round3(pattern, key="channel_id"):
 
 
 R3_TYPES = _load_round3("census-types-[ABC]-2026-10-26.csv")
+# Round 3 fix 2: channels that moved into tier A from D in the round 3 fixes, typed by the fixer from their thumbnails.
+R3_TYPES.update({k: v for k, v in _load_round3("census-types-moved-2026-10-26.csv").items() if k not in R3_TYPES})
 R3_SELLS = _load_round3("census-sells-2026-10-26.csv")
 CENSUS_DIR = os.path.join(RAW, "census-2026-10-26")
 PULL_DATE = date(2026, 10, 26)
@@ -149,6 +151,9 @@ HOME_CLIMATE = re.compile(
     r"\bcondensers?\b(?! (mic|microphone|lens|tube|coil spring))")
 # Clear non-HVAC hits of the warmth words (check-round3.md part 5, row 1: "25 Cheap Meals ... Hot Summers").
 FOOD_EXCLUDE = re.compile(r"\bmeals?\b|\brecipes?\b|\bcanning\b|\bdrinks?\b|\blemonade\b|\bsmoothies?\b")
+# ... unless the title names home heating or cooling equipment ("Drink The Tears Of Your Energy Company | Dreo Space
+# Heater"; found by the round 3 fixer when rebuilding the top lists, 2026-10-26)
+FOOD_KEEP = re.compile(r"\b(space heaters?|furnaces?|air conditioners?|heat pumps?|thermostats?|hvac|boilers?|mini[- ]?splits?)\b")
 
 
 # Bath, exhaust, attic and whole-house fans count (check-master.md step 3 scope); checked before the fan rule.
@@ -163,7 +168,7 @@ def _r2(t):
 def hvac_title(title):
     """True when a title is HVAC by the census rule (a reading by keyword rule)."""
     t = norm(title or "")
-    if CENSUS_EXCLUDE.search(t) or FOOD_EXCLUDE.search(t):
+    if CENSUS_EXCLUDE.search(t) or (FOOD_EXCLUDE.search(t) and not FOOD_KEEP.search(t)):
         return False
     c = STRIP.sub(" ", t)
     # fix 1.2 (2026-10-26): survival-test lengths ("24 Hours Without Electricity") and the kettle / pot stove crafts
@@ -904,6 +909,8 @@ def build_channel(d, mrow, about, ctype):
         for f_ in (HAND_FIXES[cid][2] if len(HAND_FIXES[cid]) > 2 else []):
             if f_ not in flags:
                 flags.append(f_)
+        if tier == "X" and top10 and h_top10 / len(top10) >= 0.30 and "LEGACY" not in flags:
+            flags.append("LEGACY")
     if lane_tags and tier == "A":
         why += "; lane " + "/".join(lane_tags)
     # Main session, 2026-10-26: DIY stove-building and "free energy" craft channels are not Roger's competitors;
@@ -1023,11 +1030,36 @@ def build_channel(d, mrow, about, ctype):
     row["hvac_longform_pulled"] = sum(1 for v in longs if v["hvac"])
     row["main_subniches"] = "; ".join(f"{k} ({c})" for k, c in sn.most_common(3))
     row["new_12m"], row["new_12m_basis"] = new12, new_basis
+    # Round 3 fix 2 (main session decision, 2026-10-26): every row gets one of the brief's four types by WHO PRESENTS
+    # (on camera / faceless / AI avatar / faceless persona); "brand" moves to its own column `company` (brand /
+    # contractor / no). The type files carry `type4` (and keep the original `type` for history).
     t3 = R3_TYPES.get(cid)
-    if t3 and t3.get("type"):
-        typ = t3["type"]
+    type_orig = ""
+    if t3 and (t3.get("type4") or t3.get("type")):
+        type_orig = t3.get("type", "")
+        typ = t3.get("type4") or t3["type"]
         typ_src = "round 3 thumbnails (reading, confidence %s): %s" % (t3.get("confidence", ""), t3.get("type_basis", "")[:80])
+        if t3.get("type4") and t3.get("type4") != t3.get("type"):
+            typ_src = "round 3 fix 2 re-type (was '%s'): %s" % (t3.get("type", ""), t3.get("type4_basis", "")[:120])
+    else:
+        type_orig = typ
+        mb = re.match(r"^brand(?: \((.*)\))?$", typ or "")
+        if mb:
+            inner = mb.group(1) or ""
+            typ = "faceless" if "faceless" in inner else ("on camera" if "on camera" in inner else "not checked")
+            typ_src += "; carried '%s' split by fix 2 (brand -> company column)%s" % (
+                type_orig, "" if inner else "; no presenter reading, so 'not checked' (no guess)")
+    if t3 and t3.get("company"):
+        company, company_src = t3["company"], "round 3 type file: " + (t3.get("company_basis", "") or "")[:100]
+    elif "contractor" in flags or (is_d and is_contractor):
+        company, company_src = "contractor", "rule: census contractor reading (D_CONFIRM / CONTRACTOR words)"
+    elif is_d and (f_name or f_about_company or (manual and manual[0] == "D")):
+        company, company_src = "brand", "rule: company / trade channel by the D check (" + "; ".join(d_basis) + ")"
+    else:
+        company, company_src = "no", "rule: not a company channel by the D check"
     row["type"], row["type_source"] = typ, typ_src
+    row["type_before_fix2"] = type_orig
+    row["company"], row["company_source"] = company, company_src
     row["persona_name"] = (t3 or {}).get("persona_name", "")
     row["claimed_background"] = (t3 or {}).get("claimed_background", "")
     row["thumb_style_note"] = (t3 or {}).get("style_note", "")
@@ -1167,6 +1199,26 @@ def write_md(rows, moves, hc, build_info):
     dr = [r for r in rows if "DRIFT" in r["flags"]]
     L.append(f"**DRIFT** (tier A whose newest 10 long-form hold 2 or fewer HVAC titles; flagged, kept A): {len(dr)}: "
              + ("; ".join(f"{r['name']} (newest 10: {r['hvac_newest10']}, latest 30: {r['hvac_latest30']})" for r in dr) or "none") + ".\n")
+    rd = [r for r in rows if "RECENT-DRIFT" in r["flags"]]
+    L.append(f"**RECENT-DRIFT** (round 3 fix 1.4: tier A whose newest 5 long-form are all non-HVAC; flagged, kept A): {len(rd)}: "
+             + ("; ".join(f"{r['name']} (newest 5: {r['hvac_newest5']}, latest 30: {r['hvac_latest30']})" for r in rd) or "none") + ".\n")
+    hf = sorted([r for r in rows if "HAND-FIX" in r["flags"]], key=lambda r: (r["tier"], r["name"].lower()))
+    L.append(f"## Round 3 fixes (2026-10-26, after the second helper's check `round3/check-round3.md`)\n")
+    L.append("- **HVAC rule (fix 1.2):** home cooling and heating phrases without equipment were added (`HOME_CLIMATE`: \"cools itself\", "
+             "\"heats your entire home\", \"generate heat\", \"keeps homes cool\", \"without AC\", \"no cool\", \"condenser\") and "
+             "food / drink titles excluded (`FOOD_EXCLUDE`).\n"
+             "- **Hand read (fix 1.2):** the round 3 fixer read by hand the latest 30 long-form titles of every channel whose HVAC share "
+             "was 30-60% or 7-13% after the rule change (328 channels) and counted the HVAC titles; where the count crosses a tier line the "
+             "tier is a HAND FIX with the reason (`data/raw/census-handread-2026-10-26.csv`, 328 rows). Operator rules applied strictly "
+             "(insulation, drafts and windows count only with a heat, cooling or bill word; generators only for warmth).\n"
+             "- **D check (fix 1.1):** the 16 channels that were D only on \"About trade words; stored D\" were each decided by hand in `D_CONFIRM`.\n"
+             "- **STOVE-CRAFT (fix 1.3):** the `diy-stove-craft` lane now also catches \"generate heat\", \"bold / crazy / genius idea\", "
+             "\"don't throw it away\" and \"kettle / basin ... full of holes\" (DIY mr.T). Hand-fixed channels are not moved by it.\n"
+             "- **Types (fix 2):** every row's `type` is one of the brief's four (on camera / faceless / AI avatar / faceless persona); "
+             "\"brand\" moved to the `company` column (brand / contractor / no), shown in [brackets] in the tables. D rows with a "
+             "carried plain \"brand\" and no thumbnail reading are \"not checked\".\n")
+    L.append(f"**HAND FIX** ({len(hf)} channels): " + "; ".join(f"{r['name']} {(re.search(r'HAND FIX \(([\w-]+)->', r['tier_basis']) or [None, '?'])[1]}→{r['tier']}" for r in hf)
+             + ". (Rule tier → hand tier; reasons in the tier_basis column and the hand-read CSV.)\n")
     keycols = ("| # | Channel | Subs | HVAC latest 30 | Lane | Flags | Baseline (rule, n) | Uploads 90 d | "
                "Top video (views) | Main sub-niches | NEW_12M | Type (persona) | Sells |")
     for t in ("A", "B", "C", "D"):
@@ -1185,6 +1237,7 @@ def write_md(rows, moves, hc, build_info):
                      f"({'' if r['hvac_share_latest30'] == '' else round(100 * r['hvac_share_latest30'])}%) | "
                      f"{r['lane_tags'] or '-'} | {r['flags'] or '-'} | {base} | {r['uploads_90d']} | {top} | "
                      f"{md_escape(r['main_subniches']) or '-'} | {r['new_12m']} | {r['type'] or '-'}"
+                     f"{(' [' + r['company'] + ']') if r.get('company') and r['company'] != 'no' else ''}"
                      f"{(' (' + md_escape(r['persona_name']) + ')') if r.get('persona_name') else ''} | "
                      f"{md_escape(r.get('sells', '') or '-')}{(': ' + md_escape(r['own_products'])[:60]) if r.get('own_products') else ''} |")
         L.append("")

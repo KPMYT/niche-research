@@ -65,61 +65,61 @@ Not ranked (fewer than 50 videos, or not counted): adjacent (not counted: labels
 
 | Sub-niche | Tier A | Tier B | Tier C |
 |---|---|---|---|
-| offgrid-heat | 1.48x (503) | 2.67x (607) | 1.94x (969) |
-| ac-central | 1.57x (1462) | 2.15x (295) | 1.88x (26) |
-| furnace | 1.74x (775) | 10.67x (193) | 0.85x (3) |
-| heat-pump | 1.50x (709) | 2.38x (152) | 1.03x (78) |
-| boiler-oldheat | 2.08x (573) | 3.90x (302) | 6.30x (19) |
-| brand-verdict | 2.48x (424) | 2.10x (51) | 1.34x (383) |
-| humidity-air | 1.65x (353) | 2.54x (385) | 1.17x (45) |
-| cooling-no-ac | 1.23x (185) | 3.07x (174) | 1.60x (319) |
-| hvac-general | 1.26x (488) | 1.27x (95) | 1.26x (24) |
-| mini-split | 1.83x (427) | 3.83x (148) | 2.00x (17) |
-| drafts-insulation | 1.41x (255) | 1.94x (189) | 1.05x (112) |
-| thermostat | 2.80x (381) | 7.04x (126) | 1.38x (8) |
-| buy-replace | 1.17x (350) | 1.25x (35) | 1.17x (2) |
-| outage-heat | 1.31x (101) | 2.02x (45) | 1.38x (216) |
-| energy-bill | 0.99x (145) | 0.95x (116) | 0.98x (92) |
-| ducts-vents | 1.77x (224) | 3.25x (63) | 0.68x (2) |
-| parts | 2.17x (184) | 3.24x (73) | - |
-| noise-smell-error | 2.83x (190) | 13.66x (41) | 1.88x (1) |
-| seasonal-maint | 0.94x (167) | 1.37x (45) | 0.90x (14) |
-| ac-window | 3.23x (138) | 12.25x (44) | 3.75x (5) |
-| adjacent | 0.92x (18) | 1.08x (21) | 2.30x (92) |
-| filter | 1.73x (94) | 1.49x (29) | 0.20x (3) |
-| scam-upsell | 1.31x (88) | 2.33x (13) | 6.49x (2) |
-| ac-portable | 1.87x (31) | 4.19x (49) | 12.82x (6) |
-| fuel-choice | 1.06x (41) | 1.79x (16) | 1.59x (8) |
+| offgrid-heat | 1.53x (552) | 2.37x (543) | 1.94x (940) |
+| ac-central | 1.61x (1592) | 1.77x (167) | 1.00x (16) |
+| furnace | 1.85x (839) | 26.46x (127) | 0.85x (3) |
+| heat-pump | 1.52x (728) | 2.80x (131) | 0.97x (70) |
+| boiler-oldheat | 2.08x (612) | 3.90x (250) | 8.92x (15) |
+| brand-verdict | 2.42x (431) | 2.46x (43) | 1.26x (377) |
+| humidity-air | 1.70x (463) | 2.48x (241) | 1.19x (42) |
+| cooling-no-ac | 1.28x (266) | 3.41x (156) | 1.64x (254) |
+| hvac-general | 1.26x (530) | 1.32x (60) | 1.29x (16) |
+| mini-split | 1.85x (479) | 6.52x (77) | 2.31x (15) |
+| drafts-insulation | 1.35x (295) | 1.93x (163) | 1.00x (81) |
+| thermostat | 2.69x (397) | 10.68x (103) | 1.38x (6) |
+| buy-replace | 1.17x (352) | 1.47x (33) | 0.09x (1) |
+| outage-heat | 1.00x (95) | 2.19x (36) | 1.40x (212) |
+| energy-bill | 1.00x (149) | 0.95x (116) | 0.91x (84) |
+| ducts-vents | 1.70x (231) | 3.25x (57) | - |
+| parts | 2.34x (220) | 2.92x (32) | - |
+| noise-smell-error | 3.27x (214) | 20.62x (18) | - |
+| seasonal-maint | 0.95x (187) | 1.00x (28) | 2.29x (10) |
+| ac-window | 3.24x (141) | 15.83x (39) | 3.20x (4) |
+| adjacent | 0.91x (25) | 1.50x (14) | 2.18x (87) |
+| filter | 1.77x (97) | 1.37x (25) | 0.11x (1) |
+| scam-upsell | 1.31x (90) | 2.33x (11) | 11.98x (1) |
+| ac-portable | 1.51x (32) | 4.76x (40) | 9.83x (5) |
+| fuel-choice | 1.06x (41) | 1.74x (15) | 1.23x (4) |
 
 ## By channel type (all time, median multiple, n)
 
 | Sub-niche | Faceless persona | Faceless | On camera |
 |---|---|---|---|
-| offgrid-heat | 1.50x (314) | 1.77x (1260) | 2.94x (497) |
-| ac-central | 1.52x (137) | 1.71x (811) | 1.62x (683) |
-| furnace | 0.80x (55) | 2.02x (503) | 3.01x (314) |
-| heat-pump | 0.52x (18) | 1.32x (212) | 1.66x (494) |
-| boiler-oldheat | 0.83x (7) | 2.99x (302) | 2.88x (466) |
-| brand-verdict | 3.38x (82) | 1.68x (545) | 2.48x (211) |
-| humidity-air | 1.02x (37) | 2.10x (329) | 2.32x (298) |
-| cooling-no-ac | 1.15x (149) | 1.72x (470) | 4.38x (49) |
-| hvac-general | 0.95x (76) | 1.36x (216) | 1.32x (232) |
-| mini-split | 0.95x (8) | 3.07x (176) | 2.06x (286) |
-| drafts-insulation | 1.33x (132) | 1.42x (242) | 1.49x (127) |
-| thermostat | 1.32x (54) | 4.45x (183) | 3.87x (237) |
-| buy-replace | 1.27x (28) | 1.30x (49) | 1.14x (169) |
-| outage-heat | 0.97x (162) | 1.71x (162) | 6.33x (37) |
-| energy-bill | 0.85x (107) | 0.96x (111) | 0.99x (108) |
-| ducts-vents | 1.33x (21) | 1.48x (99) | 2.69x (94) |
-| parts | 2.44x (11) | 2.13x (127) | 2.93x (105) |
-| noise-smell-error | 1.27x (3) | 3.61x (86) | 2.98x (101) |
-| seasonal-maint | 0.95x (71) | 0.99x (51) | 1.44x (60) |
-| ac-window | 11.15x (2) | 3.68x (148) | 8.32x (36) |
-| adjacent | 1.24x (27) | 2.00x (90) | 1.42x (12) |
-| filter | 1.25x (33) | 1.22x (36) | 2.79x (37) |
-| scam-upsell | 0.94x (40) | 2.08x (24) | 2.32x (25) |
+| offgrid-heat | 1.50x (313) | 1.77x (1263) | 2.94x (503) |
+| ac-central | 1.52x (137) | 1.73x (826) | 1.56x (822) |
+| furnace | 0.80x (54) | 2.02x (509) | 2.46x (408) |
+| heat-pump | 0.52x (17) | 1.33x (243) | 1.63x (681) |
+| boiler-oldheat | 0.83x (7) | 2.73x (353) | 2.51x (534) |
+| brand-verdict | 3.38x (82) | 1.72x (547) | 2.48x (229) |
+| humidity-air | 1.02x (37) | 2.10x (339) | 2.32x (408) |
+| cooling-no-ac | 1.15x (149) | 1.72x (470) | 3.81x (59) |
+| hvac-general | 0.95x (70) | 1.36x (217) | 1.31x (321) |
+| mini-split | 0.95x (8) | 2.83x (186) | 1.98x (399) |
+| drafts-insulation | 1.33x (132) | 1.42x (245) | 1.58x (180) |
+| thermostat | 1.32x (54) | 3.80x (202) | 3.44x (259) |
+| buy-replace | 1.27x (17) | 1.19x (72) | 1.17x (298) |
+| outage-heat | 0.97x (162) | 1.71x (162) | 6.25x (38) |
+| energy-bill | 0.85x (107) | 0.96x (115) | 1.00x (131) |
+| ducts-vents | 1.33x (21) | 1.54x (131) | 3.23x (137) |
+| parts | 2.44x (11) | 2.10x (129) | 2.84x (118) |
+| noise-smell-error | 1.27x (3) | 3.61x (89) | 3.63x (140) |
+| seasonal-maint | 0.95x (71) | 0.99x (62) | 1.02x (93) |
+| ac-window | 11.15x (2) | 3.68x (148) | 8.31x (37) |
+| adjacent | 1.24x (27) | 2.00x (90) | 1.32x (14) |
+| filter | 1.25x (33) | 1.03x (37) | 2.84x (57) |
+| scam-upsell | 0.94x (39) | 2.21x (26) | 2.32x (38) |
 | ac-portable | 1.17x (10) | 2.48x (41) | 4.76x (35) |
-| fuel-choice | 0.38x (6) | 0.99x (6) | 1.53x (36) |
+| fuel-choice | 0.38x (5) | 0.85x (7) | 1.53x (53) |
 
 ## Biggest videos per sub-niche
 

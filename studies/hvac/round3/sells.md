@@ -40,6 +40,29 @@ Pulled 2026-10-26 by the round 3 "what it sells" helper. Covers all 1,122 tier A
 - Kinds ("e-book", "course"), "cross-promotion" and contractor "possible" are my reading. The categories in the CSV come from rules, except own products, which were all checked by hand.
 - `own_website` and `affiliate_disclosure` in the CSV are context only, not things sold.
 
+## Round 3 fixes (2026-10-26, round 3 fixer)
+
+The counts below are **as first built**. After the round 3 check, `sells_classify.py` was fixed and re-run (main session decisions, fix 3; details and before/after per channel in `round3/check-round3.md`, "Fixes applied (2026-10-26)"); `data/raw/census-sells-2026-10-26.csv` now holds the fixed version:
+1. URL shorteners (bit.ly, tinyurl, rb.gy, goo.gl, shorturl.at) count as affiliate only when the line says so or the resolved target is a shop (368 shortener links resolved with curl redirect hops, `data/tools/sells_shorteners.py`, `data/raw/census-sells-shorteners-2026-10-26.json`).
+2. A description that says "no affiliate links" counts none of its links as affiliate; "not affiliated with ..." and government "Commission" names are no longer affiliate disclosures.
+3. Plain-text website names ("visit our website at X.com") are read for contractors.
+4. Membership words gain "support our channel and get exclusive access".
+5. Kilcher Camp: $25 a month or $250 a year ("$25 JOIN MONTHLY", "$250 JOIN FOR THE YEAR"; kilcher-camp page loaded 2026-10-26).
+6. PDF / manual links (pdf.*, downloads.*) are not affiliate.
+
+| Category (all 1,122) | As first built | After the fixes |
+|---|---:|---:|
+| own_product | 141 | 141 |
+| membership | 119 | 120 |
+| tips | 78 | 79 |
+| affiliate | 532 | 498 |
+| sponsor | 119 | 120 |
+| contractor | 27 | 28 |
+| affiliate_disclosure | 356 | 315 |
+| not found | 325 | 335 |
+
+For the 66 persona channels after the fixes: affiliate 0 (BIG TICKET TRUTH's Lowe's link is a PDF manual and its descriptions say "No affiliate links"), affiliate disclosure 0 (the 10 were "not affiliated with ...", "no affiliate commissions" or a government "Commission" in a source list), nothing found 39.
+
 ## Counts per category
 
 | Category | All A-D (1,122) | A | B | C | D | Personas* |

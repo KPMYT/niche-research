@@ -5,40 +5,42 @@
  "channels": 1122,
  "videos_longform": 137332,
  "tiers": {
-  "B": 224,
-  "C": 123,
-  "D": 223,
-  "X": 330,
-  "A": 221,
+  "B": 188,
+  "D": 213,
+  "C": 109,
+  "X": 357,
+  "A": 254,
   "NO-DATA": 1
  },
  "moves": {
-  "A->A": 80,
-  "A->B": 38,
-  "A->C": 5,
+  "A->A": 84,
+  "A->B": 35,
+  "A->C": 4,
   "A->D": 10,
   "A->X": 24,
-  "B->A": 5,
-  "B->B": 95,
+  "B->A": 7,
+  "B->B": 79,
   "B->D": 1,
-  "B->X": 143,
-  "C->A": 49,
-  "C->B": 81,
-  "C->C": 118,
+  "B->X": 157,
+  "C->A": 64,
+  "C->B": 69,
+  "C->C": 105,
   "C->D": 3,
   "C->NO-DATA": 1,
-  "C->X": 127,
-  "D->A": 87,
-  "D->B": 10,
-  "D->D": 209,
-  "D->X": 36
+  "C->X": 137,
+  "D->A": 99,
+  "D->B": 5,
+  "D->D": 199,
+  "D->X": 39
  },
  "flags": {
+  "HAND-FIX": 62,
   "LOW-N": 86,
-  "COMPANY": 19,
-  "contractor": 74,
-  "STOVE-CRAFT": 11,
-  "LEGACY": 39,
+  "COMPANY": 23,
+  "contractor": 80,
+  "STOVE-CRAFT": 14,
+  "LEGACY": 47,
+  "RECENT-DRIFT": 4,
   "ANY-LENGTH": 3,
   "DRIFT": 1
  },
@@ -1229,9 +1231,406 @@
   "UCR0EfsRZIwA5TVDaQbTqwEQ": [
    "D",
    "power-plant / industrial engineering education"
+  ],
+  "UC27gYyNxiJqlECQJVak8fZQ": [
+   "D",
+   "facilities-management training (MEP / technician interview prep, chillers, AHUs) for students and professionals"
+  ],
+  "UC517nXjqMelgOTxrNbdi2Eg": [
+   "contractor",
+   "residential HVAC technician and installer (Georgia) posting his service calls ('Blower Motor Replacement | After Hours Emergency Call'); not trade-facing (checker part 1 row 24; main session: tier A, contractor flag)"
+  ],
+  "UC9NWScbhyEUwelzPzG5Yusw": [
+   "D",
+   "industry show for HVAC and building-science pros (About: 'industry leading experts... industry news'; load-calc software, AHR, tool load-outs)"
+  ],
+  "UCFAMFDf_DrRSPLciMk9vRwg": [
+   "D",
+   "25-year-old HVAC business owner's trade vlog (vacuum-pump and work-light reviews, AHR Expo); About: 'insight for others interested in the trade'"
+  ],
+  "UCIgwmAZ3giU5QVV882LdacA": [
+   "D",
+   "trade-careers channel across all trades (HVAC 2 of 30 titles)"
+  ],
+  "UCItXgo_xQhTFQfEMphmzPwA": [
+   "contractor",
+   "UK boiler, heat-pump and solar installer selling fixed-price installs to homeowners ('The UK's trusted boiler and solar installers'); homeowner titles"
+  ],
+  "UCKDkGhLRlzs1bV1tmeokcNQ": [
+   "D",
+   "light-commercial HVACR contractor: tool reviews, business podcast, commercial calls (trade-facing)"
+  ],
+  "UCM9ofY098XFqp-cCzVKhEyA": [
+   "D",
+   "journeyman technician: commercial rooftop / VFD diagnostics and electronics lab (trade-facing)"
+  ],
+  "UCPoqanqHbWlBnZPrKggS34A": [
+   "D",
+   "home-construction magazine brand (framing, flashing, trade podcast) for builders and hands-on homeowners"
+  ],
+  "UCQR_Uz97ziLRLPVRQf-h_dw": [
+   "not D",
+   "individual service technician's job vlogs (GA/SC), like HVAC AO and DC HVAC; About not addressed to the trade"
+  ],
+  "UCaYbcSdrP6--46GP31AnuQQ": [
+   "D",
+   "AC-technician training in Hindi ('For New Technicians', interview questions, package units)"
+  ],
+  "UCf8QP2xfi8EcZEnjnGJ6gPA": [
+   "D",
+   "trade-competition broadcasts (Elite Trades Championship Series)"
+  ],
+  "UCfQzkksn2r4dBMEZO0L2jlw": [
+   "D",
+   "engineering education for HVAC engineers and students (HAP tutorials, district cooling, fire fighting)"
+  ],
+  "UCiDg_Mo6aJAOEnlGI4iilQw": [
+   "D",
+   "framing / construction education for builders (HVAC 2 of 30 titles)"
+  ],
+  "UCk0fGHsCEzGig-rSzkfCjMw": [
+   "not D",
+   "general-audience engineering explainer channel (mostly electrical); not a company, school or trade-facing channel"
+  ],
+  "UClP0FR0dv5nSCAHqxQb-KQg": [
+   "D",
+   "sales and business podcast for home-service contractors (CertainPath)"
   ]
  },
- "hand_fixes": {},
+ "hand_fixes": {
+  "UCQR_Uz97ziLRLPVRQf-h_dw": [
+   "A",
+   "my count 19/30: technician job vlog: the rule missed 'This Unit Keeps Tripping The Breaker', 'Doing What I Can To Get These People Comfortable', '1 Month Old System Not Working', 'Callbacks Are A Pain in the Summer', 'These Units Are Gonna Be Our Problem' (vague titles such as 'Didn't Expect To Come Across This' left out)",
+   []
+  ],
+  "UCkkXGl9z9xxiYBBnP3-bjbA": [
+   "A",
+   "my count 10/10: every title is a boiler install or an oil-to-gas heating conversion (the rule missed the 6 'Oil to Gas Conversion <town>' titles); a local plumbing-heating-cooling contractor, so A with the contractor flag (operator default 2026-10-26)",
+   [
+    "contractor"
+   ]
+  ],
+  "UCD52iJLgruEI_T6Csbq-SvQ": [
+   "A",
+   "my count 30/30: every title is an air-purifier review or comparison (indoor air, labels.md section 4); the rule caught only those that say 'air purifier' in full",
+   []
+  ],
+  "UC3sYHaAZtJI-vrD64K7Qe9w": [
+   "A",
+   "my count 29/30: diesel heater heating his home: the rule missed the 'DIESEL HEATER HEATING MY HOME REAL COST PER HOUR', exhaust-heat storage and diesel-heater power-cut switch titles; only the gas welding set is out. Lane off-grid (operator default: lane channels mostly HVAC are A)",
+   []
+  ],
+  "UC6Ko62-E2iMcdJ48tBvLjUQ": [
+   "A",
+   "my count 17/30: missed: 'Brazing in a Condensing Unit', 'Charging r32 System', 'TXV Troubleshooting and Repair', 'Condensing Unit Replacement'; washer, dryer and water-heater titles out",
+   []
+  ],
+  "UCpetqQhNychubOY4GhixESQ": [
+   "A",
+   "my count 4/5: LOW-N (5 titles): the two 'Pilot assy replacement' videos sit between boiler no-heat titles; only the dated vlog is out",
+   []
+  ],
+  "UCSD7MSLETxsw6sm3PwugrXw": [
+   "A",
+   "my count 19/30: one-man UK gas engineer posting his boiler jobs (the rule missed 'No Error Codes, 240V Everywhere...But It Won't Fire?!', 'I Pressurised The System', 'I Thought The Plate Was Blocked'); like The Bearded Heating Co and Barton Oil (both A, contractor), so A with the contractor flag",
+   [
+    "contractor"
+   ]
+  ],
+  "UCGzd_cifQY0qKQG87uMU_BQ": [
+   "A",
+   "my count 16/30: HVAC/R service vlog: the rule missed '80% Humidity - The Floors Were Sweating', 'Summer Time Maintenance - Rooftop Unit', 'Low Voltage Short'; vague job titles and the freezer left out",
+   []
+  ],
+  "UCQuKF1hbqMfP7yW3NLD-fsA": [
+   "A",
+   "my count 15/30: diesel-heater teardowns: the rule missed the Sunster controller and 'Old Webasto Dual Top disassembled'; power-station teardowns out; 15/30 = 50%",
+   []
+  ],
+  "UCoVt9WOZcTYadXM64jQLfjw": [
+   "C",
+   "my count 15/30: DIY heaters and coolers: the rule missed 'Flowerpot Air Heater', '\"Dutch Oven\" Air Heater', 'DIY 12v Space Heater', 'High Power DIY Ceramic Air Heater', 'DIY 12V Air Cooler'; the solar dish cooker is out. 15/30 would be A, but it is a DIY heater-building craft channel ('Low-Tech Inventor'), so C with the STOVE-CRAFT flag (main session's rule)",
+   [
+    "STOVE-CRAFT"
+   ]
+  ],
+  "UC5jSwGDIa9XgYAqd-5LWooQ": [
+   "A",
+   "my count 15/30: the rule missed 'Why Did We Stop Using Soapstone To Heat Our Homes?', 'Why Did We Stop Using Zeolite To Cool Our Houses?', 'The $4 Salt That Absorbs Heat All Day'; 'Vertical Fence Turbines' (power) out; 15/30 = 50%",
+   []
+  ],
+  "UCSIClXw_5lT1buMo2BM6q7g": [
+   "A",
+   "my count 20/30: AC repair channel: the rule missed the mini-split and AC PCB titles ('Mini Split AC PCB Repair', 'AC Compressor Not Starting?', 'Outdoor Unit Starts Sometimes', 'O General Indoor PCB Repair'); the fridge titles are out",
+   []
+  ],
+  "UCe_gTYzfmQ4BEx0SWFeFwNw": [
+   "C",
+   "my count 3/10: LOW-N (10 titles): home heat only in 'Bank Barns That Stayed Warm', 'Slept Warm in Freezing Old Houses', '\"Poor Man\" Heating Tricks'; the barn titles keep livestock warm or water from freezing, not a home (lane words 6/10, so C)",
+   []
+  ],
+  "UC_z_mhZvcq8fvyaSuO2jrrg": [
+   "A",
+   "my count 6/11: 'Beating the Price Cap ... with Octopus Agile' is the home energy bill (in); golf balls, banana bread and toilets out",
+   []
+  ],
+  "UCuezPXEDYWG_oXWDtZjguwA": [
+   "A",
+   "my count 19/30: indoor-air channel: the rule missed 'Do I STILL Think Most HEPAs Are A Scam?', 'Ventilate Without VOCs', 'The L\u00fcften Myth', 'Household VOCs Are Polluting the Air', 'How Healthy is Humidifying REALLY?', 'HRVs vs. ERVs', 'CO2 Monitoring and Home Ventilation', mould inspections",
+   []
+  ],
+  "UC5qP240HUaQkR7ZcDN-Oovg": [
+   "C",
+   "my count 1/4: LOW-N (4 titles): only the aluminium-mesh heater is HVAC; the '$600 Septic Tank Stores 16 Powerwalls of Energy' title is power storage (lane words 4/4, so C)",
+   []
+  ],
+  "UC-5zd31qI3tWQt8u4ZIJr-A": [
+   "D",
+   "my count 19/30: the rule missed most titles (drain pan, blower assembly, EEV driver, VRF units, LG Multi V, flares, cooling-tower fan); they are trade-facing (commercial VRF, Trane controller programming, technician tool load-outs), so D, not A (the D_CONFIRM 'not D' was made on 9/30)",
+   []
+  ],
+  "UC5ZN45vx-wx9IjLsTq90tDA": [
+   "A",
+   "my count 8/14: the rule missed '13 Warming Items DISAPPEARING From Store Shelves Before Winter', '15 Warming Items Senior Veterans Buy', '10 Warming Items at The Dollar Store ... Winter Blackout'",
+   []
+  ],
+  "UC3uixvUe3nanWqcZCZHSscg": [
+   "A",
+   "my count 18/25: wood-heat channel: the rule missed the firewood and stove titles ('Face Cord, Rick, Truckload', 'Why Our Woodpile Stays Dry' x2, '12 Things We Do Before the First Fire of the Winter', 'Which Wood We Burn', 'The $12 Norwegian Stove That Heats a House for 18 Hours', the moisture-meter and fire-starter titles); the frozen-pipes title is out",
+   []
+  ],
+  "UCP7Sn2wjXTnTgWGfbTJ4I0Q": [
+   "A",
+   "my count 18/25: family-owned Bellingham HVAC company: the rule missed 'Midea EVOX G3 Review', 'How to Clean Your Electronic Air Cleaner', 'Accuclean VS Smoke', 'Variable Speed Explained', 'Brazing 101', 'How to clean an AccuClean' (the 'Whispers From The Crawl' episodes left out); contractor, so A with the contractor flag",
+   [
+    "contractor"
+   ]
+  ],
+  "UCQxmS3iVsThKYAsNQ540jZw": [
+   "A",
+   "my count 18/30: technician vlog: the rule missed 'The Piece Of Goodman I'm Working On Today', 'Weil Mclain Control Board Replacement', 'My Experience With MR.Cool Warranty', 'Bryant Roof Top Unit Needs Start Up'; cancer updates and the Navien water heater out",
+   []
+  ],
+  "UCtjmjQ_lBAg-XdoT1MJgdTQ": [
+   "A",
+   "my count 29/30: AC repair channel (India): the rule missed most AC titles ('Split Ac 1.5 Ton Gas Leakage problem', 'Daikin Vrv Inverter Pcb Replacement', 'Cassette And Split Units Installation', '3 Phase AC Basic Wiring'); only the bike ride is out. Kept as D_CONFIRM 'not D' (technician job videos)",
+   []
+  ],
+  "UCCAESgTkIr9H0aFVPiJqxUw": [
+   "A",
+   "my count 15/30: 'This V-Shape Barndominium ... Heats For $0' in (the rule caught only the 'Cools For $0' titles); 15/30 = 50%",
+   []
+  ],
+  "UCntW8YWdZzyvj8cVLeyki1A": [
+   "A",
+   "my count 17/30: the rule missed 'Shower Wastewater Heat Your Home', 'Hot Water Tank Can Heat Your Home for Days', 'How Long Can 1,000 Gallons of Hot Water Heat Your House?', 'Old-House Ventilation Tricks'",
+   []
+  ],
+  "UCbRUa-hRUKYQbgSqo3ILq4w": [
+   "A",
+   "my count 18/30: technician vlog: the rule missed 'Change Motor On A 7.5 RTU', 'More Than Just A Air Flow Control Problem', 'Getting A Package Unit Ready For The Summer', 'Install A New Blower Wheel', 'Testing The Heat Strips', 'Reconnect Outdoor Unit', 'Gas Valve Replaced'; Workiz software and the thermometer review out",
+   []
+  ],
+  "UCa-zdipzciDX0CGgiMRi-PQ": [
+   "A",
+   "my count 16/30: mobile-home furnace channel: the rule missed 'DGAT Gas Valve Replacement', 'Coleman DGAT Combustion Motor', 'Coleman DGAT Circuit Board', 'DGAA Circuit Board Replacement', \"Limit Switch 'OPEN'\"; doors, windows and plumbing out",
+   []
+  ],
+  "UCDdo6Gg7lRRniMjLHkVWCzw": [
+   "A",
+   "my count 15/30: 'How to Replace Bathroom Exhaust FULL!' (bath fan, in scope) in; 15/30 = 50%",
+   []
+  ],
+  "UC1wJdXbjrFpLkY3RC7Fuvlg": [
+   "A",
+   "my count 7/14: LOW-N (14 titles): 'AC Out Before the Baby Shower?' missed; thermostat guides and furnace repair; 7/14 = 50%; contractor, so A with the contractor flag",
+   [
+    "contractor"
+   ]
+  ],
+  "UCKcg8smJ7kegOSWFwbEqSDg": [
+   "A",
+   "my count 15/30: the rule missed 'Your Roof Is Cooking Your Attic \u2014 What Actually Cools It' and 'The Amish \"Porch Shade\" Trick (Stop Baking Your Walls)'; the $200 solar system out; 15/30 = 50%",
+   []
+  ],
+  "UC_eTsy7fL7l2ZXUUTiT3ShQ": [
+   "C",
+   "my count 16/17: masonry heating stoves ('A stove that ... heats the house for 50 hours' and the like); only the pizza oven is out. A by share, but it is a stove-building craft channel, so C with the STOVE-CRAFT flag (main session's rule)",
+   [
+    "STOVE-CRAFT"
+   ]
+  ],
+  "UC4mZGMmJ1kOaOG1oRACZDbQ": [
+   "A",
+   "my count 16/30: one-man plumbing-heating-HVAC business (40 years) with homeowner titles ('Watch This Before Calling A Pro'): the rule missed the gas-fireplace service and 'Complete Boiler and Water Heater System Upgrade'; plumbing titles out; contractor, so A with the contractor flag",
+   [
+    "contractor"
+   ]
+  ],
+  "UCbjgf9PwtrWne1ZxNMPj9gw": [
+   "A",
+   "my count 17/30: passive cooling and heating house designs ('This 2,000-Year-Old Wall Heats For $0', '5 Affordable Cooling Techniques', 'Wind Catcher Makes Buildings NEVER Get Hot' missed; 'Cool Your Food' out). Only 3 of 30 titles are crafts, so not STOVE-CRAFT: a house-design channel like The Archive of Builds",
+   []
+  ],
+  "UCLEElfXVUwSipfGPCtyTNxw": [
+   "A",
+   "my count 7/11: 'STOP Heating Your Garage With a Space Heater \u2014 This $15 Sand Battery' and 'STOP Losing Heat Through Your Windows' in; the bubble-wrap insulation title without a heat word stays out (operator rule)",
+   []
+  ],
+  "UC0KNvNxxtc_NKRzM_JDzJSg": [
+   "A",
+   "my count 21/30: the rule missed the service titles ('Can The Cheaper Flare Tool Beat...', 'I've Been Charging Systems Wrong', drain-line products x3, 'Diagnosing Low Voltage Shorts', 'Soft Start Kits', 'Inject Leak Sealer'); Milwaukee tool and dryer-vent titles out. About addresses homeowners and techs (not in D_CONFIRM)",
+   []
+  ],
+  "UCx6S7boRmAaxS8CB3Ur6qsw": [
+   "X",
+   "my count 2/30: only 'How to Choose a Wood Boiler' and 'Outdoor Wood Boiler Walkthrough'; 'How To Use DAP Spray Foam Insulation' has no heat word (operator rule); generator and frost-protection titles out",
+   []
+  ],
+  "UCG0fCH41CLhviCwgBgfkwIw": [
+   "D",
+   "my count 2/13: insulation maker: 'Roll Up Garage Door Insulation To Keep Your Building Warmer' and the pole barn 'Keep Cooler' title are about heat (operator rule); 2/13 = 15%, so a company channel at 10%+ is D, not X",
+   []
+  ],
+  "UCf3PixDkHcrtAeKgdSh9TZw": [
+   "X",
+   "my count 2/30: only the Aprilaire dehumidifier and the fresh-air-return titles; 'Heated doghouse!' is a pet shelter, not the home",
+   []
+  ],
+  "UCvsgIkpAbfVRFZpeaYInIyA": [
+   "X",
+   "my count 1/30: only 'Portable ac unit added to master bedroom'; the Weber grill gas conversion and the Reefmat aquarium filter are false hits",
+   []
+  ],
+  "UCL5dYNI9HdF3zy1Tc_bIQCw": [
+   "X",
+   "my count 1/30: only 'Heating a house with a small generator | Emergency Heat'; 'replacing the radiator' is a Corolla's radiator and the downlights title is a false hit",
+   []
+  ],
+  "UClm4AsU5w3_509rlTMaGXbw": [
+   "X",
+   "my count 2/30: only the AC capacitor and the garage diesel heater; 'Easiest DIY Home Backup System' is power, not heat",
+   []
+  ],
+  "UCMX8nbmbyPU4v-Yi6beBFyg": [
+   "X",
+   "my count 2/30: only the two mini-split installs; 'BEFORE You Insulate Your Garage Attic' has no heat word (operator rule)",
+   []
+  ],
+  "UCNiueKCpqndb3NloPq2RJzA": [
+   "X",
+   "my count 1/30: only 'Emergency heat & light, vegetable oil burner'; the thermo-electric generator and RF energy titles are false hits",
+   []
+  ],
+  "UCAcYw19gfUnGXjJ3XIPIkXg": [
+   "X",
+   "my count 2/30: only the range-hood vent and the baseboard heat install; 'How to Wire Electrical in a Crawl Space' is a false hit",
+   []
+  ],
+  "UCU06hQzTIMmUpJRLznuw3eg": [
+   "X",
+   "my count 0/16: insulation distributor: the summerhouse insulation title has no heat word (operator rule) and 'Deliver Chilled & Frozen Food' is food; off-niche company",
+   [
+    "COMPANY"
+   ]
+  ],
+  "UCw1V3VC3xAzL66X4VwqaKlg": [
+   "X",
+   "my count 2/30: only the shed insulation 'Heating Costs' and 'Solar System CAN'T Heat My Tiny Shed'; 'I Replaced My Power Company\u2026 With My Insane Solar Shed' is power",
+   []
+  ],
+  "UCXcoxCRD5qe1CAwoNrbST8g": [
+   "X",
+   "my count 2/30: only 'How To Power A Gas Furnace In A Power Outage' and the sand-battery heater; 'DIY Solar System | No More Power Bills!' is solar",
+   []
+  ],
+  "UCn2YKsCiDpL3UjxIm4-RCoQ": [
+   "X",
+   "my count 1/30: only 'The Most Unexpected Heat Pump Project Yet?!'; the home-battery and 'Home-Grown Energy' titles are false hits",
+   []
+  ],
+  "UC7wn_pzn3qQZx3So0nNqHYA": [
+   "X",
+   "my count 0/17: the two 'Foam Board vs Spray Foam ... Insulating our Steel Building/Garage' titles have no heat or bill word (operator rule; the checker read 0/17 strict too)",
+   []
+  ],
+  "UC45SO4lv-hDatvcEDjGpscA": [
+   "X",
+   "my count 2/30: only the two Cadet wall-heater titles; the WEN workshop dust filter is not home HVAC",
+   []
+  ],
+  "UCRSb-ctjM3_DsjEE_Rol3zw": [
+   "X",
+   "my count 1/30: only the small dehumidifiers; smokeless fire pits and sink heat tests are false hits",
+   []
+  ],
+  "UCX-wCnYqqzkSe_E40D7VZMg": [
+   "X",
+   "my count 2/30: only the radiant-heat slab and the hydronic diesel heater; 'Power Company Wanted $27k ... Off-Grid Solar' is power",
+   []
+  ],
+  "UCAF7F9f_e-m3Y1USZNJjbCA": [
+   "X",
+   "my count 0/30: the three electric-fireplace titles are decorative wall builds ('DIY Electrical Fireplace Build & Slat Wall'), not heating",
+   []
+  ],
+  "UCUsfNTwfDV3Ry_CFHJ9BeKA": [
+   "X",
+   "my count 0/30: the two 'Electric Range' titles are cooking stoves and the door weather-stripping title has no heat word (operator rule)",
+   []
+  ],
+  "UC3_AWXcf2K3l9ILVuQe-XwQ": [
+   "X",
+   "my count 1/30: only 'Gas fireplace efficiency'; the two thermal-camera titles are false hits",
+   []
+  ],
+  "UCK9DXL31fZSNi3h7DTqTyzg": [
+   "X",
+   "my count 2/30: only the two Tosot mini-split installs; 'How To Build A Crawlspace Door' is carpentry; off-niche company (D_CONFIRM D)",
+   [
+    "COMPANY"
+   ]
+  ],
+  "UCnaa_80Xxuoq0jNA68uddaw": [
+   "X",
+   "my count 0/30: wind and solar store: the cable-sizing, maintenance and 'Energy Independence' titles are solar and wind, not HVAC; off-niche company",
+   [
+    "COMPANY"
+   ]
+  ],
+  "UCCvRME9ejgMupNEpxPZET7Q": [
+   "X",
+   "my count 1/30: only the air-filter brands title; 'The Propane Exchange Cage Is Shorting You' (grill tanks) and 'The Hot No-Start ... Your Valves' (mowers) are false hits",
+   []
+  ],
+  "UC6RIV9eUSn1mW8jjbPFwK6A": [
+   "X",
+   "my count 1/30: only the Alorair dehumidifier; 'How to Seal around the Base of a Toilet with Caulking' and the reverse-osmosis filters are false hits",
+   []
+  ],
+  "UCBc6N1zm3Q0TU0jqtQyHC9g": [
+   "X",
+   "my count 2/30: only the Buddy heater and the portable AC; 'Keeping Food Cold at Our Off-Grid Cabin' is food",
+   []
+  ],
+  "UCtaHVzOv_Em98HRCRbHhTjw": [
+   "X",
+   "my count 2/30: only the Comfortbilt pellet stove and the ecobee; the Waterdrop countertop RO 'Hot Cold' is a water dispenser",
+   []
+  ],
+  "UCsehkdEMPHIy_PIBZZs3VRg": [
+   "X",
+   "my count 2/30: only the whole-house fans and 'Surviving Extreme Heat Without Electricity'; 'Should You Freeze Grains Before Storing Them? ... Mold' is food storage",
+   []
+  ],
+  "UCIgwmAZ3giU5QVV882LdacA": [
+   "X",
+   "my count 2/30: trade-careers channel: 'Owned an HVAC Business for 16 Years' and 'What HVAC Employers Look For'; '5 Trades That Pay $100K (That Aren't ... HVAC)' is not HVAC; off-niche (fix 1.1)",
+   [
+    "COMPANY"
+   ]
+  ]
+ },
  "word_lists": {
   "STRIP": "\\buk\\b|\\bireland\\b|\\baustralia\\b|\\bcombi\\b|\\bunboxing\\b|\\bwalkthrough\\b|\\bvlog\\b|\\bapp\\b|\\bmath\\b|\\bvacuum (switch|pump|test)\\w*|\\bash vacuum\\b|\\btankless coil\\b|\\bdiverter\\b|\\b[1-9] ?hours?\\b|\\bpanasonic\\b|\\bsquare (feet|foot)\\b|\\bsq\\.? ?ft\\b|\\bengineers?\\b",
   "CENSUS_EXCLUDE": "\\b3d print|\\bprinter\\b|\\bbbq\\b|barbecue|soda can stove|alcohol stove|camp(ing)? stove|golf cart|\\bac motor\\b|\\bac (current|voltage|adapter|plug|cord|charger|circuit|outlet|power supply)\\b|current meter|\\bsmd\\b|garage door|\\bwater bill|hot water|water filter|water system|running water|well pump|root cellar|springhouse|smokehouse|cold pantry|\\bkeeps? (food|milk)|food (fresh|from)|\\beating\\b|hot chocolate|macbook|neck fan|industrial fan|dry iron|steam iron|flat iron|washer|washing machine|\\bpool\\b|freightliner|cascadia|kenworth|peterbilt|semi truck|trimmer|weed eater|duct tape|can lights?|recessed light|cooktop|stove ?top|gas stove|electric stove|stove burner|wood stove ashes|\\bashes\\b|work gloves|sports fan|\\bcomputer\\b|thermal (camera|imag)|thermal master|immersion heater|megaflo|\\bgmc\\b|\\bs10\\b|blazer|pontiac|buick|cadillac|chrysler|lexus|mazda|volvo|\\baudi\\b|volkswagen|\\bvw\\b|porsche|acura|infiniti|automotive|\\bdance\\b|bhojpuri|golden knight|graveyard|\\bdeck is\\b|air compressor|\\btire\\b|\\btyre\\b|inflator|nail gun|pancake compressor|\\bmini fridge|patio heater|pellet grill|heated (vest|jacket|gloves|socks|blanket)|hand warmer|\\bsous vide|winteriz\\w* (your |the )?(plumbing|pipes)|\\bpipes?\\b.{0,30}freez|freez\\w* pipes?|\\bgrill(ing|s)?\\b|\\bgarden (wood )?stoves?\\b|\\boutdoor (wood )?stoves?\\b|stoves? for cooking|\\bcook ?stoves?\\b|\\boven\\b|\\brice\\b|\\bbaking\\b",
@@ -1248,7 +1647,7 @@
    "frugal": "\\bfrugal\\b|\\bdollar tree\\b|\\bwalmart\\b|\\b(cost|for) pennies\\b|\\bzero[- ]cost\\b",
    "energy": "\\bnet[- ]zero\\b|\\bcleantech\\b",
    "product-lists": "\\b(top )?\\d+ (best|worst)\\b|\\bbest\\b.{1,60}\\b20[23]\\d\\b",
-   "diy-stove-craft": "\\bcement\\b|\\bfree energy\\b|\\bgas cylinders?\\b|\\b(build|built|make|made|making)\\b.{0,40}\\b(stoves?|heaters?)\\b|\\brocket stoves?\\b|\\bbarrel\\b|\\bcopper pipe\\b"
+   "diy-stove-craft": "\\bcement\\b|\\bfree energy\\b|\\bgas cylinders?\\b|\\b(build|built|make|made|making)\\b.{0,40}\\b(stoves?|heaters?)\\b|\\brocket stoves?\\b|\\bbarrel\\b|\\bcopper pipe\\b|\\bgenerat\\w* (\\w+ )?heat\\b|\\b(bold|crazy|genius|brilliant|million[- ]dollar) idea\\b|\\bdon'?t throw (it |them |this |your [\\w ]{0,20})?(away|out)\\b|\\b(kettle|basin|pot|pan)\\b.{0,25}\\b(full of|riddled with) holes\\b"
   },
   "TRADE": "\\btechs\\b|\\b(hvac|hvacr|service|ac|a/c|refrigeration|maintenance) tech\\b|\\btechnicians?\\b(?! (tell|told|know|don'?t|won'?t|hate|say|reveal|secret))|\\bfor (hvac )?(pros|contractors|installers)\\b|\\binstallers?'? guide|\\btraining\\b|\\bepa ?60[89]\\b|\\bapprentices?\\b|\\bjourneym[ae]n\\b|\\bhvac (business|school|students?|careers?|license|apprentice)|\\bgas engineers?\\b|\\bsuperheat\\b|\\bsubcool\\w*|\\bmanual j\\b|\\bload calc|\\bvr[fv]\\b|\\bchillers?\\b|\\bcommercial\\b|\\brtus?\\b|\\brooftop units?\\b|\\bcallbacks?\\b|\\bride ?along\\b|\\bday in the life\\b|\\bservice (manager|techs?)\\b|\\b(sales|marketing) (for|tips|training)|\\bbusiness owners?\\b|\\bfault codes?\\b|\\btrade school\\b|\\bfield ?piece\\b|\\bmanifold gauges?\\b|\\bnate\\b|\\bceu\\b|\\bwiring diagrams?\\b|\\bsequence of operation\\b|\\bpt chart\\b",
   "NAME_COMPANY": "heating ?(&|and|n'?) ?(air|cooling)|air ?(&|and) ?heat|heating,? cooling|cooling ?(&|and) ?heating|plumbing ?(&|and)|(&|and) plumbing|\\bmechanical\\b|\\bservices?\\b|\\bsuppl(y|ies)\\b|\\bparts\\b|\\bstoves?\\b|\\bfireplaces?\\b|\\bllc\\b|\\binc\\b|\\bltd\\b|\\blimited\\b|\\bcompany\\b|\\bco\\b\\.?$|\\bcorp\\b|\\bcorporation\\b|\\bdistribut|\\bwholesale\\b|\\bdealers?\\b|\\bofficial\\b|\\bgroup\\b|\\bindustries\\b|\\bmanufactur|\\bstore\\b|\\bshop\\b|\\boutlet\\b|\\bdirect\\b|\\bdepot\\b|\\bwarehouse\\b|\\bsales\\b|\\bacademy\\b|\\binstitute\\b|\\bschool\\b|\\btraining\\b|\\buniversity\\b|\\bcollege\\b|\\binsulation\\b|\\bwindows? (&|and) doors?\\b|\\bsolutions\\b|\\bpros?\\b$|\\benergy\\b|\\bair conditioning\\b|\\bcomfort\\b|\\bhome services\\b|\\bhvacr?\\b.*\\b(inc|llc|co|services|company)\\b",

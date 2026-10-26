@@ -219,12 +219,22 @@ def main():
         r.update({k: l.get(k, "") for k in ("scope_ok", "subniche", "format", "e1", "e2", "e3", "villain", "note")})
         r["labeller_batch"] = l.get("batch", "calibration")
         rows.append(r)
+    harmonize(rows)
+    # current tier and type from the census (after the round 3 fixes): the batches carry the tiers of their build day
+    cen = os.path.join(RAW, "census-channels-2026-10-26.csv")
+    if os.path.exists(cen):
+        cm = {r["channel_id"]: r for r in csv.DictReader(open(cen, encoding="utf-8"))}
+        for r in rows:
+            c = cm.get(r["channel_id"])
+            if c:
+                r["tier_batch"], r["type_batch"] = r.get("tier", ""), r.get("type", "")
+                r["tier"] = c.get("tier", r.get("tier", ""))
+                r["type"] = c.get("type4") or c.get("type") or r.get("type", "")
     cols = list(rows[0].keys())
     with open(os.path.join(R4, "labels-all-2026-10-26.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     json.dump({"agreement": cal_sum, "titles": cal}, open(os.path.join(R4, "calibration-2026-10-26.json"), "w"), indent=1)
 
-    harmonize(rows)
     ins = [r for r in rows if r["scope_ok"] == "y"]
     rec = [r for r in ins if r["last12m"] in ("yes", "1", "True", "true")]
     scope = Counter(r["scope_ok"] for r in rows)

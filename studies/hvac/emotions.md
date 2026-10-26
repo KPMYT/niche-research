@@ -237,8 +237,8 @@ Last 12 months: 41 videos, median multiple 1.26x.
 | E13 pride in self-reliance | 19 | 7% | 0.92 | 4 | n/a | "How a Contactor Works (Troubleshoot It & Replace It Like a Pro)" (Deanin' It Yourself, 8.1K, 3.2x, `Xh4DrLtROS8`)<br>"Home Depot Is Quietly Selling Pro-Grade HVAC Parts (Grab These 7)" (HVAC Exposed, 4.7K, 2.6x, `K4D0x9yMR4Y`) |
 | E1 fear of the big bill | 19 | 7% | 0.52 | 13 | 0.44 | "They All Failed at Once! The Capacitor Bank Went Bankrupt💸" (Davevid, 1.0K, 0.7x, `49B_zwT7mH4`) |
 | E4 dread of silent, hidden damage | 17 | 7% | 1.02 | 8 | 1.20 | "The $15 Part That Kills More AC Units Than Anything Else" (John The HVAC Guy, 18K, 9.0x, `Y3mXw8Zlh_s`)<br>"WHY HVAC PROs RECOMMENDS REPLACING THESE PARTS  BEFORE FAILURE " (D2D NY Real World HVAC Simplified, 2.6K, 2.6x, `i0_7fed4v50`) |
-| E3 distrust of the store shelf | 15 | 6% | 0.79 | 1 | n/a | "Why They Stopped Making Parts for Your AC (On Purpose)" (HVAC Exposed, 4.4K, 2.4x, `ksFb3wZoJ6s`) |
 | E10 insider curiosity | 15 | 6% | 0.40 | 11 | 0.78 | "The $15 Part That Kills More AC Units Than Anything Else" (John The HVAC Guy, 18K, 9.0x, `Y3mXw8Zlh_s`)<br>"Home Depot Is Quietly Selling Pro-Grade HVAC Parts (Grab These 7)" (HVAC Exposed, 4.7K, 2.6x, `K4D0x9yMR4Y`) |
+| E3 distrust of the store shelf | 15 | 6% | 0.79 | 1 | n/a | "Why They Stopped Making Parts for Your AC (On Purpose)" (HVAC Exposed, 4.4K, 2.4x, `ksFb3wZoJ6s`) |
 
 ### noise-smell-error (232 videos, median multiple 3.55x)
 

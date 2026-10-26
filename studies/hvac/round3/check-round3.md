@@ -340,3 +340,80 @@ Both files are finished (`top-100.md` ends with "Problems and limits"; `recent-w
    1. Drop `40zFRH-mb-o` under the panel-upgrade precedent, or state the exception.
    2. Make the craft-stove call for `iaCr4VfomMA` consistent with `top-100.md` step 5.
    3. Show the multiple lists with a higher baseline floor (for example 1,000) beside the current ones, and mark capped baselines (n = 120) in the table.
+
+---
+
+## Fixes applied (2026-10-26)
+
+Applied by the round 3 fixer on the main session's decisions (the "Recommended fixes" list above). Nothing committed or pushed by the fixer. Every script was re-run with `python3 -I`. The state before each fix is in git (commit 735bce9 and earlier). Figures are from the scripts' own counts on 2026-10-26.
+
+### Fix 1: census tiers (`data/tools/census_build.py`, re-run; `channels.csv`, `channels.md`, `data/raw/census-channels-2026-10-26.csv`, `census-videos-2026-10-26.csv`, `census-build-2026-10-26.json`)
+
+| Tier | Before | After |
+|---|---:|---:|
+| A | 221 | 254 |
+| B | 224 | 188 |
+| C | 123 | 109 |
+| D | 223 | 213 |
+| X | 330 | 357 |
+| NO-DATA | 1 | 1 |
+| A-D | 791 | 764 |
+
+- **1.1** 16 auto-D channels whose only D evidence was About trade words and/or the stored D were decided by hand in `D_CONFIRM`: D 12 (Facilities Mgmt Dubai, HVAC Grapevine, Hall's HVAC, Zach of All Trades, Adrian Garcia, hackfreehvac, Fine Homebuilding, cooling points, ServiceTitan ETCS, AMJ Engineering, AwesomeFramers, Successful Contractor); contractor 2 (Xavier_HVAC, now **A with the contractor flag**; Heatable); not D 2 (AB HVAC, The Engineering Mindset, now B).
+- **1.2** HVAC rule: home cooling and heating phrases without equipment added (`HOME_CLIMATE`: "cools itself / your home", "beats the heat", "heats your (entire) home", "generate heat", "keeps ... cool / warm", "without AC", "passive cooling", condensers); survival-test lengths ("24 Hours Without Power") and "kettle" in "generate heat" titles no longer trip the round 2 excludes; food and drink titles excluded (`FOOD_EXCLUDE`) unless they name heating or cooling equipment (`FOOD_KEEP`, added after "Drink The Tears Of Your Energy Company | Dreo Space Heater" was lost). HVAC-flagged long-form videos: 32,286 before, 32,444 after (181 no to yes, 23 yes to no). Then I read by hand the latest 30 long-form titles (or the LOW-N pool) of all 328 channels with a rule share of 30-60% or 7-13% (plus The Archive of Builds), counting the HVAC titles myself: `data/raw/census-handread-2026-10-26.csv` (328 rows: rule count, my count, my share, decision, reason). **62 hand fixes**: B to A 17, B to X 17, C to A 7, C to X 6, D to A 5 (contractors at 50%+: Absolute Precision, CP Utility Solutions, Marr's, Service Champions, steven lavimoniere), D to X 4 (with COMPANY: Ecohome Insulation, Miillers, Missouri Wind and Solar, Zach of All Trades), A to C 2, B to C 1 (Smokeless Stoves, STOVE-CRAFT), C stays C with STOVE-CRAFT 1 (desertsun02), B to D 1 (HVAC Life), X to D 1 (BlueTex). Examples: The Archive of Builds C to A (rule 18/30, my count 21/30), Passive House Technology C to A (rule 13/30, mine 17/30), Earl Knows How C to A (15/30, mine 16/30), Xavier_HVAC (rule 16/30, mine 24/30). Each shows in `channels.md` as "HAND FIX (rule tier -> hand tier)" with the reason. Checked: every hand fix applied, and no channel moved without one. Hand-check agreement (40 channels): 32/40 before, 36/40 after (unchanged by the hand read).
+- **1.3** `diy-stove-craft` lane widened ("generate heat", "bold / genius / million-dollar idea", "don't throw it away", "kettle / basin / pot full of holes"); narrowed again after a first version tagged 5 persona channels by mistake. DIY mr.T moves A to C (STOVE-CRAFT; the rule itself unchanged). STOVE-CRAFT flags 11 to 14.
+- **1.4** RECENT-DRIFT flag (tier A, newest 5 long-form all non-HVAC; flag only, no tier change) and an `hvac_newest5` column: 4 channels (Hank Cole, Talyn875, Marr's, Randy).
+- Flags after: HAND-FIX 62, contractor 80, LEGACY 47, COMPANY 23, STOVE-CRAFT 14, RECENT-DRIFT 4, DRIFT 1, LOW-N 86.
+
+### Fix 2: types (`data/raw/census-types-{A,B,C}-2026-10-26.csv`, new `census-types-moved-2026-10-26.csv` + contact sheet `census-types-moved-sheet-2026-10-26.jpg`; `census_build.py` re-run)
+
+- Added `type4` (the brief's four types, by who presents), `type4_basis`, `company` (brand / contractor / no) and `company_basis`; the original `type` column is kept. The 50 "brand" rows were re-typed from their contact sheets (Willman Air and PRIME on camera; faceless: Hartzell's, Barton Oil, Aabbott Ferraro, D Air (low confidence), Bright Air Duct, Sierra, Lloyd's, Breeze AC, Chud); Doug Cross re-typed as on camera. The 5 channels that moved into A by hand fix were typed from a new contact sheet (Service Champions on camera (low), Xavier_HVAC faceless, Marr's, CP Utility and Absolute Precision on camera; all contractor).
+- Type files, before (`type`) and after (`type4`): A 221: faceless 62 / on camera 57 / persona 55 / brand 47, now on camera 96 / faceless 71 / faceless persona 54; company no 145, contractor 75, brand 1 (Heat Geek). B 224: brand 3 re-typed, now faceless 105 / on camera 88 / faceless persona 31; company no 221, brand 2, contractor 1. C 123: unchanged (faceless 68 / faceless persona 34 / on camera 21), all company no.
+- `census_build.py` reads `type4` (falls back to `type`) and `company`; a carried "brand (x)" becomes x, a plain "brand" becomes "not checked" (no guess). `channels.csv` after (new tiers): A 254: on camera 107, faceless 86, faceless persona 61; company no 172, contractor 81, brand 1. B 188: faceless 91, on camera 68, faceless persona 29; brand 2, contractor 1. C 109: faceless 61, faceless persona 29, on camera 19. D 213: not checked 87, blank (not yet checked) 80, on camera 26, faceless 20; company brand 193, contractor 18, no 2. No AI avatar in A-C. New columns: `type_before_fix2`, `company`, `company_source`.
+
+### Fix 3: sells (`data/tools/sells_classify.py`, `sells_review_build.py`, new `sells_shorteners.py` + `data/raw/census-sells-shorteners-2026-10-26.json`; re-run; `census-sells-2026-10-26.csv`, `census-sells-review-2026-10-26.json`, `census-sells-candidates-2026-10-26.json`; note added to `round3/sells.md`)
+
+- 3.1 Shorteners: 368 shortener links resolved (curl redirect hops, logged out); a shortener counts as affiliate only when its line says so or its target is a shop. Affiliate networks added to the shop list (rstyle, LTK, Impact pxf.io, CJ, AvantLink, Skimlinks and others). PDF / manual links are not affiliate.
+- 3.2 "No affiliate links" in a description stops its links counting as affiliate (BIG TICKET TRUTH, Coil Exposed, American Backroad "I am not an affiliate of Kobalt or Lowe's"); "not affiliated with ...", "commissioning" and government "Commission" names are no longer disclosures; real disclosures kept ("provides a small commission", "#commissionsearned", "a small commission might be paid").
+- 3.3 Plain-text website names read for contractors ("visit our website at ..."): Sierra LLC now contractor; 22 channels gain `own_website`.
+- 3.4 Membership words: "support our channel and get exclusive access" (AmericanOutdoors).
+- 3.5 Kilcher Camp: $25 a month or $250 a year (kilcher-camp page, 2026-10-26).
+- New hand reviews: Sierra, Myks Garage, Successful Contractor, Consumer Pick, Mechanical Hub (244 reviewed; 225 candidate channels, none unreviewed).
+
+| Category (1,122 channels) | Before | After |
+|---|---:|---:|
+| own_product | 141 | 141 |
+| membership | 119 | 120 |
+| tips | 78 | 79 |
+| affiliate | 532 | 498 |
+| sponsor | 119 | 120 |
+| contractor | 27 | 28 |
+| affiliate_disclosure | 356 | 315 |
+| not found | 325 | 335 |
+
+Lost affiliate: 34 channels (for example BIG TICKET TRUTH, HarmanStoves, QuadraFire Stoves, Worcester Bosch: own sites or "no affiliate"); lost a disclosure: 41 (read: all false hits). New column `links_not_counted`.
+
+### Fix 4: new channels (`data/tools/new_channels_build.py`, re-run; `new-channels.md`, `data/raw/new-channels-2026-10-26.csv`, `new-channels-exact-2026-10-26.json`)
+
+- Re-run on the fixed tiers: new channels 222 to 221 (Prime Rundown left, now X); tier medians changed (A 94 to 107 channels, B 56 to 52, C 72 to 62). Two channels entered the top 25 (Passive House Technology #7, Earl Knows How #8; Passive Survival and Ray Sutter fall to #27 and #26); their 12 takeoff videos were pulled from `/next` (649 exact videos, was 637).
+- **4.1** "Well above" now also needs an HVAC view share of 20%+ (views on HVAC titles / all long-form views since the start, from `census-videos`). The rule dropped 13; I read all 13 by hand (and the borderline Elias Yoder, 20.6% by rule, 20.1% by hand) because the title rule misses some heating titles; 2 stay (Hidden Systems, rule 6% / hand 90%; Elias Mercer, rule 10% / hand 95%). Hand shares are in `HVAC_SHARE_HAND` and the CSV columns `hvac_view_share_hand(_note)`. **Dropped by the share rule (11):** Passive House Technology (#7, 2.8%), Elias Homestead (#13, 1.4%), Silas Mercer (#14, 16.9%), Forgotten American Survival (#17, 0.6%), Walter's Tool Talk (#22, 0.2%), Hidden Homestead (#30, 3.9%), Donna Fixes (#36, 8.1%), SafeMind (#49, 1.2%), Walt Brandt (#61, 4.9%), The Sensei's Home (#62, 10.3%), Forgotten Appalachian Skills (#66, 7.2%). They keep their rank (the score is unchanged).
+- Also changed by the tier fixes: out of well above: Deals with Lucy and Earl Appalachia (scores 2.9 and 3.05 against the new A medians), Building Grounds with Greg (2.9), Prime Rundown (left the set); in: The Archive of Builds, The Build Guide and Eli Forgotten Ways (C to A by hand fix).
+- **Well above: 72 before, 60 after** (A 29 / B 16 / C 27 before; A 32 / B 10 / C 18 after). 71 pass the score rule.
+- **4.2** The well-above table (rank 26 and below) now shows "Best video, any topic" and "Best HVAC video" side by side, plus the HVAC view share; the top-25 table gains the share and a "well above" column; a new table lists the 11 dropped channels. Types and sells in the CSV and md come from fixes 2 and 3 (CSV gains `type_before_fix2`, `company`, `well_above_score_rule`, `hvac_view_share_ok`).
+- Not re-run: the Ray Dutton copycat match (`new_channels_copycats.py`); its tables keep the old tiers (one change: Earl Knows How C to A, noted in the md). Copycat channels well above: 19 to 17.
+
+### Fix 5 (the check's fix 6): recent winners (`data/tools/top_build.py`, `top_review.py`; re-run from the saved exact pulls, nothing re-pulled; `recent-winners.md`, `top-100.md`, `top-100.csv`, `data/raw/topvideos-exact-2026-10-26.json`)
+
+- **6.1** `40zFRH-mb-o` ("This $3 Copper Trick KILLS Your Electric Bill FOREVER", Lost Methods Archive, 995.4x) dropped by hand: an electrical "reactive power" bill device. Left the 12-month multiple list; "Ranking the Best and Worst Mini Split Brands" (`yIOmar-8Rl0`) enters at the bottom.
+- **6.2** `iaCr4VfomMA` ("DIY Mini Stove from Tin Cans – No Gas, No Firewood, Just Free Energy at Home!", Unknowns Lab 101, 2,066,537 views) dropped by hand as a craft stove with no heating word, as `top-100.md` step 5. Left the 12-month views list; "The 5 Thermostat Habits That Wear Out Your AC Years Early" (`K2jCz3D5z_0`, Ray Dutton's Garage) enters.
+- **6.3** New lists beside the current ones: last 90 days top 30 and last 12 months top 50 by multiple with a **baseline floor of 1,000** (19 of 30 and 20 of 50 also in the floor-100 lists). Baselines whose set hit the pull cap are marked "n=120, capped" (floor-100 lists: 6 of 30 and 17 of 50; floor-1,000 lists: 11 of 30 and 29 of 50). The new lists brought in 6 unread titles, read by hand in `top_review.py`: kept `GP4ohGurI88` (bubble wrap for the heating bill), `a3y2hH8I9Bo` (earth tubes), `pLAH6oejLMc` (cooling with no AC); dropped `m9iqmUVQs74` (car AC), `VRtQnEzril4` (street survival warmth), `JJDOg6Zmtk8` ($5 electric-bill device, as 6.1).
+- Top 100: same 100 videos in the same order. Channel types now come from fix 2 (3 D-tier "brand" cells in the top 100 now read "not checked": Google Nest, MRCOOL, Lowe's) and the tier mix from fix 1. 4 saved exact videos fell out of the pool with the food rule (`OlqexwQ0OqU`, `m2UghFhNahU`, `j4Se7moXsj4`, `TVem7Z-r4fY`: canning, soldiers' hot meals, a thermos); none was in a list, and all stay in the raw JSON with the reason (1,543 videos, as before).
+
+### Fix 6 (the check's fix 5): sub-niches
+
+Skipped on the main session's instruction: the rule-based `subniches.md` was copied to `round3/subniches-rule-based-2026-10-26.md` and round 4 rebuilds it from the hand labels. `subniches.md` not touched.
+
+### Not done by the fixer (for the main session)
+
+- `CHANGELOG.md` rows and `README.md` file-map lines for the new files: `data/raw/census-handread-2026-10-26.csv`, `census-sells-shorteners-2026-10-26.json`, `census-types-moved-2026-10-26.csv`, `census-types-moved-sheet-2026-10-26.jpg`, `data/tools/sells_shorteners.py`.
+- A second helper's re-check of a sample of the 62 hand fixes, the 13 share readings and the 6 new top-list reviews (working rule 3).
