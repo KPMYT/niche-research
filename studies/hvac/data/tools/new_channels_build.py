@@ -186,6 +186,16 @@ def order_list(cid):
     return seq, complete
 
 
+def first_longform(r):
+    """The first long-form video since the start: earliest in exact tab order where the order is known."""
+    since = {v["video_id"]: v for v in r["_m"]["since"]}
+    seq, _ = order_list(r["channel_id"])
+    for x in seq:
+        if x["id"] in since:
+            return since[x["id"]]
+    return min(since.values(), key=lambda v: v["approx_date"]) if since else None
+
+
 if __name__ == "__main__" and sys.argv[1] == "select":
     ids = []
     for r in TOP:
@@ -193,7 +203,8 @@ if __name__ == "__main__" and sys.argv[1] == "select":
         top3 = sorted(m["since"], key=lambda v: -num(v["views_tab"]))[:3]
         hits = [v for v in m["since"] if num(v["views_tab"]) >= int(HIT * 0.8)]
         hb = [m["hvac_best"]] if m["hvac_best"] else []
-        for v in top3 + hits + hb:
+        fl = first_longform(r)
+        for v in top3 + hits + hb + ([fl] if fl else []):
             if v["video_id"] not in ids:
                 ids.append(v["video_id"])
     open(sys.argv[2], "w").write("\n".join(ids) + "\n")
