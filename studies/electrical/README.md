@@ -2,7 +2,7 @@
 
 For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding electrical mistakes, fire prevention). Follows `../../RESEARCH-BRIEF.md`. Owned by the "Electrical and fire prevention research chat".
 
-**Status (2026-10-26):** rounds 1-6 done and checked; report given to the operator; next the back and forth, then `CONCLUSIONS.md`.
+**Status (2026-10-26):** rounds 1-6 done and checked. **Start with `REPORT-2026-10-26.md`** (the findings in plain words and the questions for the operator); next the back and forth, then `CONCLUSIONS.md`.
 
 **Scope (operator, 2026-10-24):** narrow: core electrical and fire prevention. Out: winter blackouts, heat without power, generator and power-station buying (a possible later channel, Jack Redfield), seniors' home security, prepping, free energy. Long-form only (5:00+), English; under-5:00 hits are listed in `short-reference.md` but never counted.
 
@@ -25,6 +25,7 @@ For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding el
 | Path | What it is |
 |---|---|
 | `README.md` | This file. |
+| `REPORT-2026-10-26.md` | The research report for the operator: what was done, the findings, the 4 questions, where everything is. |
 | `log.md` | Every round: what ran, the helpers, the checkers, every fix and the operator's decisions. |
 | `labels.md` | Label definitions (emotions incl. new N1-N4, villains, formats incl. new ones, channel types, presenter background, the multiple, the length rule) and the rules clarified after the checkers. |
 | `seeds.md` | Round 1: Silver Cymbal's electrical and fire videos. |

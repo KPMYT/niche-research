@@ -146,3 +146,7 @@ Checker G: every deliverable file against its source CSVs (numbers, ranks, label
 - The 4 top-100 videos added after checker E had no labels: labelled by the main session (`data/labels/labelled-extra.csv`, `thumbnails/labels-extra.csv`); the thumbnail page now has 403 cards.
 - README: listed `search-candidates-checked.csv`, `blind-sample.csv`, `wiring/tools/`, `.gitignore`; fixed the sentence about helper folders.
 Not changed (reading or design): 67 channels in the top 100 or recent lists aren't in the census (general and hack channels, by design); 14 channels' impossible NexLev figures now blanked.
+
+## Handover (2026-10-26)
+
+The operator: "i have read none of this yet. chat context is too large, so we do a handover and you explain and give me everything there". Wrote `REPORT-2026-10-26.md` (the full report in plain words, with the 4 questions; two figures corrected against `format-map.csv` before saving: mistakes titles have 28 videos over 1M, and the tests example is a counted video). Rewrote the electrical section of `SESSION-HANDOVER.md` so the next chat walks the operator through the report, then merged the branch into `main`.
