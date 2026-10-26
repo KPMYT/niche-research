@@ -10,7 +10,8 @@ def num(x):
     m = re.search(r"-?[\d,.]+\s*[KMB]?", str(x or ""))
     if not m: return None
     t = m.group(0).replace(",", "").strip(); mult = 1
-    if t[-1:] in "KMB": mult = {"K": 1e3, "M": 1e6, "B": 1e9}[t[-1]]; t = t[:-1]
+    if not t.strip(",."): return None
+    if t[-1] in "KMB": mult = {"K": 1e3, "M": 1e6, "B": 1e9}[t[-1]]; t = t[:-1]
     try: return int(float(t) * mult)
     except: return None
 def esc(t): return (t or "").replace("|", "/").replace("\n", " ").strip()
@@ -20,8 +21,10 @@ med = {r["channel_id"]: r for r in rd("medians/channel-medians.csv") if r["media
 out = []
 for r in cen:
     d = daily.get(r["channel_id"], {}); note = d.get("notes", "") or ""
-    v30 = num(d.get("view30Day")); bad = (v30 is None or v30 < 0 or "stale" in note.lower() or "not found" in note.lower()
-                                          or (num(d.get("currentViews")) is not None and v30 > (num(d.get("currentViews")) or 0)))
+    v30 = num(d.get("view30Day")); v90 = num(d.get("view90Day")); v365 = num(d.get("view365Day"))
+    bad = (v30 is None or v30 < 0 or "stale" in note.lower() or "not found" in note.lower()
+           or (num(d.get("currentViews")) is not None and v30 > (num(d.get("currentViews")) or 0))
+           or (v90 not in (None, 0) and v30 > v90) or (v365 not in (None, 0) and v30 > v365))  # impossible orders: checker G
     rpm = None
     try: rpm = float(re.search(r"\d+(\.\d+)?", r["rpm"]).group(0)) if r["rpm"] and "null" not in r["rpm"].lower() else None
     except: rpm = None
@@ -48,8 +51,9 @@ def row(r):
 H = ["| Channel | Scope | Type | Claimed background | Subs | First upload | Uploads, 90 days | Monthly views (30 d) | RPM | Est. $/month | Median long-form views | Top 3 videos | Main sub-niches | Sells |",
      "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|"]
 o = ["# The channel census (deliverable 1)", "",
+     "Channels that reach the top 100 or the recent lists on one general or hack video (e.g. BEEE Works, Inventor J) but aren't electrical channels sit outside this census; they are in `top-100.md` and `recent-winners.md`.", "",
      f"{len(out)} channels from the round 2 master list (957 found, re-scoped under the narrow scope), each pulled in round 3 (2026-10-26): {sum(1 for r in out if r['scope']=='core')} core, {sum(1 for r in out if r['scope']=='partial')} partial, {sum(1 for r in out if r['scope']=='out')} re-judged out. Full data, sources and notes per channel: `channels.csv`.", "",
-     "**Sources and limits:** subs, total views, join date: YouTube About pages. Monthly views: NexLev's 30-day views (`get_daily_analytics`), blank where NexLev had nothing current or gave an impossible value (e.g. more views in 30 days than in the channel's life; 43 such rows flagged). **Estimated earnings = 30-day views × NexLev RPM**, ad revenue only, an estimate. NexLev's outlier score exists only for channels in its niche-finder database. Median long-form views: our own pull (`data/medians/`). **Type** (on camera / faceless / AI persona) is judged from thumbnails, because NexLev marks AI-image personas \"not faceless\". Scope and type are readings (checker E: about 13% disagreement on scope).", "",
+     f"**Sources and limits:** subs, total views, join date: YouTube About pages. Monthly views: NexLev's 30-day views (`get_daily_analytics`), blank where NexLev had nothing current or gave an impossible value (negative, more than the channel's lifetime, or more in 30 days than in 90 or 365): {sum(1 for r in out if r['monthly_views_30d']=='')} of {len(out)} blank. **Estimated earnings = 30-day views × NexLev RPM**, ad revenue only, an estimate. NexLev's outlier score exists only for channels in its niche-finder database. Median long-form views: our own pull (`data/medians/`). **Type** (on camera / faceless / AI persona) is judged from thumbnails, because NexLev marks AI-image personas \"not faceless\". Scope and type are readings (checker E: about 13% disagreement on scope).", "",
      "## Core channels (most of their long-form videos are in scope), by subscribers", ""] + H + [row(r) for r in sorted([r for r in out if r["scope"] == "core"], key=key)]
 o += ["", "## Partial channels (general DIY or science channels with in-scope hits), by subscribers", ""] + H + [row(r) for r in sorted([r for r in out if r["scope"] == "partial"], key=key)]
 tc = Counter(r["type"].split("(")[0].strip() for r in inscope); bc = Counter(r["claimed_background"].split("(")[0].strip() for r in inscope)
@@ -63,7 +67,7 @@ o += [f"| {p['background']} | {p['channels']} | {p['over_10k_subs']} | {p['media
 open(os.path.join(S, "channels.md"), "w").write("\n".join(o) + "\n")
 # ---------- new channels ----------
 def topv(r):
-    vs = [num(x) for x in re.findall(r"\]\s*([\d,]+)", r["top3"] or "")]
+    vs = [num(x) for x in re.findall(r"[\]\)]\s*([\d,]+)", r["top3"] or "")]  # "[id] 123,456" and "(id) 123,456 views" (checker G)
     return max([v for v in vs if v] or [0])
 new = [r for r in inscope if str(r["new_12mo"]).lower().startswith("y")]
 for r in new:

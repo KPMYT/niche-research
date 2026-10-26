@@ -27,7 +27,7 @@ EMO = {"E1": "fear of the big bill", "E2": "resentment of the service call", "E3
        "N3": "spectacle and thrill (NEW)", "N4": "comeuppance (NEW)"}
 ROBUST = {"E3", "E9", "E12", "E1", "N1", "E13", "E17", "E8", "E18"}; RANGE = {"E15", "E4", "N2"}
 labels = {}
-for g in "ABC":
+for g in ["A", "B", "C", "extra"]:  # extra = 4 top-100 videos labelled by the main session after checker G
     for r in rd(f"labels/labelled-{g}.csv"): labels[r["video_id"]] = r
 
 # ---------- top 100 ----------
@@ -70,6 +70,10 @@ m = rd("merged/videos-with-multiples.csv")
 def recent(age):
     a = (age or "").lower()
     if re.match(r"\d{4}-\d{2}-\d{2}", a): return a >= "2025-10-26"
+    try:  # "Dec 28, 2025" (fixed after checker G: these were counted as older)
+        import datetime
+        return datetime.datetime.strptime((age or "").strip(), "%b %d, %Y").date() >= datetime.date(2025, 10, 26)
+    except ValueError: pass
     if re.search(r"\d+\s*(y|year)", a): return False
     return bool(re.search(r"\d+\s*(mo|month|w|week|d|day|h|hour)", a))
 def rf(key):

@@ -6,7 +6,7 @@ from collections import defaultdict, Counter
 from PIL import Image
 T = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "thumbnails")
 rows = []
-for fn, setname in [("labels-top-recent.csv", None), ("labels-channel-top5.csv", "channel-top5")]:
+for fn, setname in [("labels-top-recent.csv", None), ("labels-extra.csv", None), ("labels-channel-top5.csv", "channel-top5")]:
     p = os.path.join(T, fn)
     if not os.path.exists(p): continue
     for r in csv.DictReader(open(p)):

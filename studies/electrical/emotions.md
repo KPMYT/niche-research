@@ -35,6 +35,38 @@ Villains: none 52, own habit 2, service call 1, bill-sender 1
 
 Villains: none 39, own habit 7, maker-shelf 2, insider 1
 
+## lighting-led (45 labelled videos)
+
+| Emotion | Any / first | Median views | Biggest example |
+|---|---|---|---|
+| E13 pride in self-reliance | 33 / 22 | 916,309 | How to cut, connect & power LED Strip Lighting (TIGER POWER SUPPLIES, 9,619,555) |
+| E8 satisfaction of the clear payoff | 17 / 2 | 1,843,899 | Just Use a Common Pencil and Fix All the LED Lamps in Your Home! How to Fix or Repair LED Easy (DIYTechTrends, 8,047,120) |
+| E9 embarrassment / doing it wrong | 8 / 5 | 547,186 | 7 Common LED Strip FAILS and How To Avoid Them (The Hook Up, 9,902,276) |
+| E3 distrust of the store shelf | 6 / 2 | 1,101,515 | Never Buy New LED Bulbs! Just Use This Trick and Old LED Bulbs can be Revived (DIY Hacks, 6,833,482) |
+| E10* insider curiosity | 6 / 3 | 1,159,396 | Why Cheap LED Lights Keep Glowing (ElectroBOOM, 3,761,194) |
+| E6* frustration of failed attempts | 5 / 4 | 819,492 | 7 Common LED Strip FAILS and How To Avoid Them (The Hook Up, 9,902,276) |
+| N1 nuisance irritation (NEW) | 4 / 3 | 52,674 | How to FIX Flickering LED Lights & LED lights that won't Turn Off with Dimmer Switch (My Mate VINCE, 262,268) |
+| N2~ how-it-works curiosity (NEW) | 3 / 2 | 1,661,670 | How To Convert T8 Fluorescent Lights to LED (Chris Notap, 3,123,310) |
+| E17 safety fear | 3 / 1 | 621,805 | The Light Bulbs You Need to Get Rid of Immediately (New Research) (Neal K. Shah, 1,084,867) |
+
+Villains: none 29, maker-shelf 7, own habit 6, insider 3
+
+## breakers-panels (44 labelled videos)
+
+| Emotion | Any / first | Median views | Biggest example |
+|---|---|---|---|
+| E13 pride in self-reliance | 29 / 20 | 1,121,451 | How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED (The Excellent Laborer, 4,196,301) |
+| N2~ how-it-works curiosity (NEW) | 12 / 6 | 1,232,118 | How to Upgrade an Electric Meter to 200-Amp Service (Part 1) / This Old House (This Old House, 3,335,341) |
+| E18 rule-curiosity / defiance | 8 / 1 | 1,042,923 | 10 Common Mistakes DIYers Make In Circuit Breaker Boxes (LRN2DIY, 3,766,565) |
+| E8 satisfaction of the clear payoff | 7 / 2 | 858,554 | How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED (The Excellent Laborer, 4,196,301) |
+| E17 safety fear | 7 / 0 | 1,525,424 | Tripping Every Breaker in Italy (ElectroBOOM, 4,000,997) |
+| E6* frustration of failed attempts | 5 / 5 | 1,121,451 | How To Replace or Change a Circuit Breaker in your Electrical Panel & Why it's Tripping (Silver Cymbal, 4,005,734) |
+| E10* insider curiosity | 3 / 0 | 2,955,603 | Tripping Every Breaker in Italy (ElectroBOOM, 4,000,997) |
+| E1 fear of the big bill | 3 / 1 | 288,469 | Deal Breakers When Buying a Home / Ask This Old House (This Old House, 943,924) |
+| N3* spectacle and thrill (NEW) | 3 / 3 | 2,408,411 | Tripping Every Breaker in Italy (ElectroBOOM, 4,000,997) |
+
+Villains: none 38, own habit 2, bill-sender 1, insider 1, company 1, maker-shelf 1
+
 ## connectors (43 labelled videos)
 
 | Emotion | Any / first | Median views | Biggest example |
@@ -49,20 +81,6 @@ Villains: none 39, own habit 7, maker-shelf 2, insider 1
 | N3* spectacle and thrill (NEW) | 5 / 3 | 486,985 | Original Wago or Copy? Current Test Wago 222 (ElectroTest, 1,035,443) |
 
 Villains: none 30, maker-shelf 7, own habit 5, insider 1
-
-## breakers-panels (43 labelled videos)
-
-| Emotion | Any / first | Median views | Biggest example |
-|---|---|---|---|
-| E13 pride in self-reliance | 29 / 20 | 1,121,451 | How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED (The Excellent Laborer, 4,196,301) |
-| N2~ how-it-works curiosity (NEW) | 12 / 6 | 1,232,118 | How to Upgrade an Electric Meter to 200-Amp Service (Part 1) / This Old House (This Old House, 3,335,341) |
-| E18 rule-curiosity / defiance | 8 / 1 | 1,042,923 | 10 Common Mistakes DIYers Make In Circuit Breaker Boxes (LRN2DIY, 3,766,565) |
-| E8 satisfaction of the clear payoff | 7 / 2 | 858,554 | How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED (The Excellent Laborer, 4,196,301) |
-| E17 safety fear | 6 / 0 | 1,165,452 | 10 Common Mistakes DIYers Make In Circuit Breaker Boxes (LRN2DIY, 3,766,565) |
-| E6* frustration of failed attempts | 5 / 5 | 1,121,451 | How To Replace or Change a Circuit Breaker in your Electrical Panel & Why it's Tripping (Silver Cymbal, 4,005,734) |
-| E1 fear of the big bill | 3 / 1 | 288,469 | Deal Breakers When Buying a Home / Ask This Old House (This Old House, 943,924) |
-
-Villains: none 37, own habit 2, bill-sender 1, insider 1, company 1, maker-shelf 1
 
 ## cords-strips-surge (43 labelled videos)
 
@@ -82,21 +100,6 @@ Villains: none 37, own habit 2, bill-sender 1, insider 1, company 1, maker-shelf
 | N1 nuisance irritation (NEW) | 3 / 2 | 802,468 | Goodbye, Extension Cord Woes [Here's How to Wrap 'Em] (Essential Craftsman, 1,104,771) |
 
 Villains: none 27, insider 9, own habit 6, maker-shelf 1
-
-## lighting-led (43 labelled videos)
-
-| Emotion | Any / first | Median views | Biggest example |
-|---|---|---|---|
-| E13 pride in self-reliance | 31 / 20 | 889,258 | How to cut, connect & power LED Strip Lighting (TIGER POWER SUPPLIES, 9,619,555) |
-| E8 satisfaction of the clear payoff | 16 / 2 | 1,622,631 | Just Use a Common Pencil and Fix All the LED Lamps in Your Home! How to Fix or Repair LED Easy (DIYTechTrends, 8,047,120) |
-| E9 embarrassment / doing it wrong | 8 / 5 | 547,186 | 7 Common LED Strip FAILS and How To Avoid Them (The Hook Up, 9,902,276) |
-| E3 distrust of the store shelf | 6 / 2 | 1,101,515 | Never Buy New LED Bulbs! Just Use This Trick and Old LED Bulbs can be Revived (DIY Hacks, 6,833,482) |
-| E10* insider curiosity | 6 / 3 | 1,159,396 | Why Cheap LED Lights Keep Glowing (ElectroBOOM, 3,761,194) |
-| E6* frustration of failed attempts | 5 / 4 | 819,492 | 7 Common LED Strip FAILS and How To Avoid Them (The Hook Up, 9,902,276) |
-| N1 nuisance irritation (NEW) | 4 / 3 | 52,674 | How to FIX Flickering LED Lights & LED lights that won't Turn Off with Dimmer Switch (My Mate VINCE, 262,268) |
-| E17 safety fear | 3 / 1 | 621,805 | The Light Bulbs You Need to Get Rid of Immediately (New Research) (Neal K. Shah, 1,084,867) |
-
-Villains: none 27, maker-shelf 7, own habit 6, insider 3
 
 ## generator-safety (43 labelled videos)
 
@@ -132,8 +135,8 @@ Villains: none 24, last owner-flipper 7, own habit 6, company 3, maker-shelf 1, 
 | Emotion | Any / first | Median views | Biggest example |
 |---|---|---|---|
 | E17 safety fear | 30 / 20 | 506,401 | The Perfect Battery Material Is Dangerous (Veritasium, 13,558,151) |
-| E10* insider curiosity | 10 / 3 | 530,117 | The Perfect Battery Material Is Dangerous (Veritasium, 13,558,151) |
-| N3* spectacle and thrill (NEW) | 9 / 5 | 2,081,676 | 4 Experiments with Batteries! We Explores Battery Explosion, Battery Blast & More In This Experiment (TKOR, 12,514,643) |
+| E10* insider curiosity | 11 / 3 | 541,085 | The Perfect Battery Material Is Dangerous (Veritasium, 13,558,151) |
+| N3* spectacle and thrill (NEW) | 9 / 5 | 2,081,676 | 4 Experiments with Batteries! We Explores Battery Explosion, Battery Blast & More In This Experiment (TKOR, 12,515,071) |
 | E3 distrust of the store shelf | 9 / 3 | 1,025,970 | E-Bike explosion. T.O.B ebike burst into flame in first 3 miles. Beware of Mike Moser ebikes (Jamie Bouchard, 2,901,812) |
 | E13 pride in self-reliance | 7 / 2 | 309,386 | How to keep LiPos from burning down your house (safe lipo charging) (Joshua Bardwell, 945,923) |
 | E5* emergency dread | 6 / 0 | 399,018 | E-Bike explosion. T.O.B ebike burst into flame in first 3 miles. Beware of Mike Moser ebikes (Jamie Bouchard, 2,901,812) |
@@ -381,16 +384,16 @@ Villains: none 21, own habit 6, insider 4, maker-shelf 2
 
 | Emotion | Videos (any position) |
 |---|---|
-| E13 pride in self-reliance | 460 |
-| E17 safety fear | 292 |
-| E10 insider curiosity | 230 |
-| N2 how-it-works curiosity (NEW) | 152 |
-| E8 satisfaction of the clear payoff | 121 |
+| E13 pride in self-reliance | 462 |
+| E17 safety fear | 293 |
+| E10 insider curiosity | 232 |
+| N2 how-it-works curiosity (NEW) | 153 |
+| E8 satisfaction of the clear payoff | 122 |
 | E9 embarrassment / doing it wrong | 112 |
 | E3 distrust of the store shelf | 103 |
 | E1 fear of the big bill | 96 |
 | E4 dread of hidden damage | 80 |
-| N3 spectacle and thrill (NEW) | 76 |
+| N3 spectacle and thrill (NEW) | 77 |
 | E18 rule-curiosity / defiance | 59 |
 | E16 protectiveness | 55 |
 | E12 vindication / myth-bust | 55 |
