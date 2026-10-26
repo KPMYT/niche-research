@@ -74,3 +74,13 @@
 ## Round 7: report (2026-10-26)
 
 - `round7-report.md` written and reported to the operator.
+
+## After round 7: the walk-through with the operator (2026-10-26, new HVAC chat, branch `claude/loving-einstein-htwt5s`)
+
+- **Operator's answers on the round 7 findings** (my reading: their numbered replies answer the five findings points of the chat's summary, not the five calls in report section 4, which stay open):
+  1. Copying Ray doesn't work for others: "kind of but we can copy his thinking and sitll his number 1 outliers".
+  2. What works best for faceless personas: "yes good ti keep in mind".
+  3. What works worst: "even bette to keep in mind but not necessarly bad".
+  4. Thumbnails: "yes we will look at this later".
+  5. What they sell: "we will also look at this later".
+- **New ask:** "take ray duttons channel and breakdown where he got his topics from. what his source videos were". Ray's 53 long-form videos pulled with exact dates and views (innertube `/next`): `data/raw/ray-dutton-videos-2026-10-26.jsonl` (first upload 2026-07-29; 10 videos 100K+). 4 helpers: sources for the 10 big videos; sources for the other 43 (2 helpers); where his title templates and the "retired pro" persona came from, across niches.
