@@ -1,0 +1,3627 @@
+{
+ "reviewed": "2026-10-26",
+ "by": "round 3 what-it-sells helper (hand review of rule candidates + landing pages loaded 2026-10-26)",
+ "note": "own_products are as written on the description or landing page; prices only where shown; \"price not found\" otherwise. Free items have free=true.",
+ "channels": {
+  "UCuMyjTVlkM4xZ5z_eSyoB1w": {
+   "name": "Taddy Digest",
+   "note": "Signature Solar discount code via solartoolpro.com (third-party code page)",
+   "add": [
+    "affiliate",
+    "sponsor"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCp_5AZlvvW9jn6L4EZuCbNQ": {
+   "name": "HVAC Guide for Homeowners",
+   "note": "NexLev also lists \"MasterMind Group\" (community) and \"HVAC Guide monthly support\" $1/month on buymeacoffee",
+   "add": [
+    "membership",
+    "tips"
+   ],
+   "own_products": [
+    "New HVAC Guide (access to the guide) [online guide] — $29 limited time, shown as \"$79 x $29\" (newhvacguide.com home page) — newhvacguide.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "New HVAC Guide (access to the guide)",
+     "kind": "online guide",
+     "price": "$29 limited time, shown as \"$79 x $29\" (newhvacguide.com home page)",
+     "domain": "newhvacguide.com",
+     "free": false
+    }
+   ]
+  },
+  "UCMHKuqSCH081eumeubSiYBQ": {
+   "name": "KungFuMaintenance",
+   "note": "own music album, not a book",
+   "add": [],
+   "own_products": [
+    "Kung Fu Maintenance album \"Entropy\" [music album (Amazon)] — price not found — amzn.to"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Kung Fu Maintenance album \"Entropy\"",
+     "kind": "music album (Amazon)",
+     "price": "price not found",
+     "domain": "amzn.to",
+     "free": false
+    }
+   ]
+  },
+  "UCWtuOnlW7BeXLgr6M1_Z49g": {
+   "name": "Atlas AC",
+   "note": "\"Buyers Guide\" is a free article on the company site",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCvcKEgZcY9ZgEULZouaNAOA": {
+   "name": "Ray Dutton's Garage",
+   "note": "NexLev (scraped 2026-08-20): ebook, $27",
+   "add": [],
+   "own_products": [
+    "The HVAC Survival Guide [e-book (illustrated, 160+ pages, PDF)] — $27 launch price, one-time (list $59; page says \"Total value $130\") — raydutton.com -> rayduttonsgarage.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The HVAC Survival Guide",
+     "kind": "e-book (illustrated, 160+ pages, PDF)",
+     "price": "$27 launch price, one-time (list $59; page says \"Total value $130\")",
+     "domain": "raydutton.com -> rayduttonsgarage.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UCcKZNXXXK5jTCBY1J2tSlMA": {
+   "name": "SaveGreenHere",
+   "note": "T-Mobile / Sprint plan links with promo code",
+   "add": [
+    "affiliate",
+    "sponsor"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCuv8z9NSyb5_CABggNpkKBQ": {
+   "name": "EdgeTek HVAC",
+   "note": "manufacturer literature link",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCZ1IwSV46bb09fMvqHn6_2A": {
+   "name": "HVAC Exposed",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Quote Defense Kit [e-book (PDF)] — $27 launch price, \"instead of $60\" — askfrankhvac.com -> clearfieldpress.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Quote Defense Kit",
+     "kind": "e-book (PDF)",
+     "price": "$27 launch price, \"instead of $60\"",
+     "domain": "askfrankhvac.com -> clearfieldpress.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UCnvAN9g2yTXz9tmnM_v2MOQ": {
+   "name": "Tom Bray",
+   "note": "mailing list + \"Book in a call\" (calendly) + \"Work with me\" (sb-energy.co.uk)",
+   "add": [
+    "consulting",
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCOyYTw-deou3ax6gvCmX2dg": {
+   "name": "John The HVAC Guy",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The 30-Year HVAC Bible [e-book] — $27 — liibro.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The 30-Year HVAC Bible",
+     "kind": "e-book",
+     "price": "$27",
+     "domain": "liibro.com",
+     "free": false
+    }
+   ]
+  },
+  "UCgm8JAXkb9MpHQwKaksj4PA": {
+   "name": "Home Caprice",
+   "note": "",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [
+    "FREE cheat sheet: 28 tricks to save on your electricity and heating bill [free guide (email sign-up)] — free — mailerlite.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "FREE cheat sheet: 28 tricks to save on your electricity and heating bill",
+     "kind": "free guide (email sign-up)",
+     "price": "free",
+     "domain": "mailerlite.com",
+     "free": true
+    }
+   ]
+  },
+  "UCSsBkNmIaBWj-B7c0dNbzoA": {
+   "name": "Jay Of All Trades",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Payhip shop (product not named in the description) [digital product] — price not found (Payhip blocked, 403) — payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Payhip shop (product not named in the description)",
+     "kind": "digital product",
+     "price": "price not found (Payhip blocked, 403)",
+     "domain": "payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UCDWlhWMW8Ji0rwlBwL8fpQw": {
+   "name": "Home Comfort Guy",
+   "note": "BathExhaust.com review site (own website, no product)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC-fWFS7gBfkP-wSUORdeLAg": {
+   "name": "Hartzell's Heat & Air",
+   "note": "online booking (housecallpro)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCwsHhGOYRYCkEhgDUadhD-g": {
+   "name": "DuC",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Maintenance Tracker for Home & Business (and other spreadsheet trackers/calculators) [spreadsheet template (Etsy)] — price not found (Etsy blocked, 403) — digitalpixelbyduc.etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Maintenance Tracker for Home & Business (and other spreadsheet trackers/calculators)",
+     "kind": "spreadsheet template (Etsy)",
+     "price": "price not found (Etsy blocked, 403)",
+     "domain": "digitalpixelbyduc.etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UClcy6Bt3jTQZDPtxXa-lxSw": {
+   "name": "Richard Nakamura Secrets",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Appliance Blueprint [e-book] — $19 launch offer, was $48 (landing page); Gumroad data shows 29.00 — nakamurasecrets.com -> richardnakamura.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Appliance Blueprint",
+     "kind": "e-book",
+     "price": "$19 launch offer, was $48 (landing page); Gumroad data shows 29.00",
+     "domain": "nakamurasecrets.com -> richardnakamura.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UCQCRIhHQ__ncUxtOHiIXI4A": {
+   "name": "Exposi",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Fall Changeover Field Manual (Vol. I) [e-book (PDF)] — $34.99 — exposi.pages.dev",
+    "Field Manual Vol. II [e-book (PDF)] — $49.99 — exposi.pages.dev",
+    "Complete Bundle (Vol. I-III incl. Contractor Defense) [e-book bundle] — $97 — exposi.pages.dev"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Fall Changeover Field Manual (Vol. I)",
+     "kind": "e-book (PDF)",
+     "price": "$34.99",
+     "domain": "exposi.pages.dev",
+     "free": false
+    },
+    {
+     "name": "Field Manual Vol. II",
+     "kind": "e-book (PDF)",
+     "price": "$49.99",
+     "domain": "exposi.pages.dev",
+     "free": false
+    },
+    {
+     "name": "Complete Bundle (Vol. I-III incl. Contractor Defense)",
+     "kind": "e-book bundle",
+     "price": "$97",
+     "domain": "exposi.pages.dev",
+     "free": false
+    }
+   ]
+  },
+  "UCgFpqO9vKw4HvjhnN6moalQ": {
+   "name": "HVAC Mike",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "THE REAL HVAC GUIDE [e-book] — price not found (Payhip blocked, 403); description: \"It costs less than a single service call.\" — payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "THE REAL HVAC GUIDE",
+     "kind": "e-book",
+     "price": "price not found (Payhip blocked, 403); description: \"It costs less than a single service call.\"",
+     "domain": "payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UC5NJ3yYhsZFkfWLJJJVoxMA": {
+   "name": "Hank Cole",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Hank's Shop Notes [e-book (PDF, 56 pages; car checks, not HVAC)] — $19 launch price, one-time — hanksheatguide.com (Stripe)"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Hank's Shop Notes",
+     "kind": "e-book (PDF, 56 pages; car checks, not HVAC)",
+     "price": "$19 launch price, one-time",
+     "domain": "hanksheatguide.com (Stripe)",
+     "free": false
+    }
+   ]
+  },
+  "UCt47_v_207fZOLrHhwXpIdA": {
+   "name": "Coil Exposed",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Coil Exposed HVAC Defense Vault [e-book bundle] — $29.99 launch discount, was $49.99 — coilexposed.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Coil Exposed HVAC Defense Vault",
+     "kind": "e-book bundle",
+     "price": "$29.99 launch discount, was $49.99",
+     "domain": "coilexposed.com",
+     "free": false
+    }
+   ]
+  },
+  "UCaT_bPLxSEi3krSWoAvigMQ": {
+   "name": "Nick Salermo",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Salermo Set — The Two-Bottle Manual + The Barrel Filter [e-books (2)] — $27, was $94 — nicksalermo.netlify.app"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Salermo Set — The Two-Bottle Manual + The Barrel Filter",
+     "kind": "e-books (2)",
+     "price": "$27, was $94",
+     "domain": "nicksalermo.netlify.app",
+     "free": false
+    }
+   ]
+  },
+  "UCMDHm9pBWFY8r1NUkyWxPBw": {
+   "name": "Ask Big Jim.",
+   "note": "also \"Grab the E-Book: 18 straight answers for smarter appliance choices\" (link in comments)",
+   "add": [],
+   "own_products": [
+    "The AC Owner's Guide [e-book] — $37 — ask-big-jim.netlify.app -> payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The AC Owner's Guide",
+     "kind": "e-book",
+     "price": "$37",
+     "domain": "ask-big-jim.netlify.app -> payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UCcn7-aWQMH4Vs8xD1n226dw": {
+   "name": "The Old House Fix",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Old House Field Set (3 PDF guides, 161 pages) [e-books (3)] — $37 — ohf-landing.vercel.app",
+    "The Plain Almanac (90 old methods) [e-book] — $47 launch price, was $77 — theplainalmanac.vercel.app"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Old House Field Set (3 PDF guides, 161 pages)",
+     "kind": "e-books (3)",
+     "price": "$37",
+     "domain": "ohf-landing.vercel.app",
+     "free": false
+    },
+    {
+     "name": "The Plain Almanac (90 old methods)",
+     "kind": "e-book",
+     "price": "$47 launch price, was $77",
+     "domain": "theplainalmanac.vercel.app",
+     "free": false
+    }
+   ]
+  },
+  "UCoK_tuWveW2XazZxQn0DTMg": {
+   "name": "Quarter Turn",
+   "note": "source links only (CPSC)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCoF2PA8_KWz5_TvSnsoXclQ": {
+   "name": "Practical Homeowner",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Homeowner's Field Manual [e-book (95 pages)] — $39 one-time — homeownersfieldmanual.com -> practicalhomeowner.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Homeowner's Field Manual",
+     "kind": "e-book (95 pages)",
+     "price": "$39 one-time",
+     "domain": "homeownersfieldmanual.com -> practicalhomeowner.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UCnBs9WIOiJV47qq3MiMpRRw": {
+   "name": "Dale Kirkwood",
+   "note": "free 18-point checklist too",
+   "add": [],
+   "own_products": [
+    "Home Heating Survival Guide [e-book bundle] — $37, regularly $57 — dale-kirkwood.netlify.app -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Home Heating Survival Guide",
+     "kind": "e-book bundle",
+     "price": "$37, regularly $57",
+     "domain": "dale-kirkwood.netlify.app -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCnorhjQR4zJkT7AVNhu395Q": {
+   "name": "Home RenoVision DIY",
+   "note": "newsletter; NexLev: channel membership \"DIY Crew\" $5/month",
+   "add": [
+    "newsletter",
+    "membership"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UChKlSK39lLg8eZHIX0iVzLA": {
+   "name": "DIY Creators",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Woodworking Plans (Big Bundle) [plans (Gumroad)] — price not found — gumroad.com/diycreators"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Woodworking Plans (Big Bundle)",
+     "kind": "plans (Gumroad)",
+     "price": "price not found",
+     "domain": "gumroad.com/diycreators",
+     "free": false
+    }
+   ]
+  },
+  "UCUtWNBWbFL9We-cdXkiAuJA": {
+   "name": "This Old House",
+   "note": "free newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCHYSw4XKO_q1GaChw5pxa-w": {
+   "name": "Fix This Build That",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "FTBT Woodworking Plans [plans] — from $10; \"The Everything Bundle\" $99 (was $400) — fixthisbuildthat.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "FTBT Woodworking Plans",
+     "kind": "plans",
+     "price": "from $10; \"The Everything Bundle\" $99 (was $400)",
+     "domain": "fixthisbuildthat.com",
+     "free": false
+    }
+   ]
+  },
+  "UCWXEQsK3UiHszjwgGN5HUeQ": {
+   "name": "RR Buildings",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Building Plans [plans (Big Cartel)] — page lists $100-$450 — rrplans.bigcartel.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Building Plans",
+     "kind": "plans (Big Cartel)",
+     "price": "page lists $100-$450",
+     "domain": "rrplans.bigcartel.com",
+     "free": false
+    }
+   ]
+  },
+  "UC4v2tQ8GqP0RbmAzhp4IFkQ": {
+   "name": "April Wilkerson",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "DIY Plans [plans] — $6.99-$19.99 — wilkerdos.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "DIY Plans",
+     "kind": "plans",
+     "price": "$6.99-$19.99",
+     "domain": "wilkerdos.com",
+     "free": false
+    }
+   ]
+  },
+  "UC1GLDECMH83KqDn6hypodYw": {
+   "name": "Clean That Up",
+   "note": "",
+   "add": [
+    "newsletter",
+    "merch"
+   ],
+   "own_products": [
+    "Clean That Up Microfiber towels (10 pack) [own-brand physical product] — $24.99 (Shopify data) — shop.cleanthatup.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Clean That Up Microfiber towels (10 pack)",
+     "kind": "own-brand physical product",
+     "price": "$24.99 (Shopify data)",
+     "domain": "shop.cleanthatup.com",
+     "free": false
+    }
+   ]
+  },
+  "UCw1V3VC3xAzL66X4VwqaKlg": {
+   "name": "Everyday Home Repairs",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Free Home Maintenance Checklist [free guide] — free — everydayhomerepairs.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Free Home Maintenance Checklist",
+     "kind": "free guide",
+     "price": "free",
+     "domain": "everydayhomerepairs.com",
+     "free": true
+    }
+   ]
+  },
+  "UCPKAKrjoMz7POptCloy7AIQ": {
+   "name": "LRN2DIY",
+   "note": "\"projects and plans\" blog (no paid plan seen on the page)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC-hTi9atsD6wAl2s46LpAVw": {
+   "name": "Crafted Workshop",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Jumpstart Your Woodworking [course] — price not found (\"Get 50% off\") — bit.ly"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Jumpstart Your Woodworking",
+     "kind": "course",
+     "price": "price not found (\"Get 50% off\")",
+     "domain": "bit.ly",
+     "free": false
+    }
+   ]
+  },
+  "UCraGaDLfWec67xl9FEPndtw": {
+   "name": "seejanedrill",
+   "note": "",
+   "add": [
+    "membership"
+   ],
+   "own_products": [
+    "Homeowner's Survival Guide [book (signed print)] — $39.99 signed copy; Book + Community Bundle $99.99 then $19.99/mo — book.seejanedrill.com",
+    "free masterclass on building your dream home [free class] — free — sjdmasterclass.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Homeowner's Survival Guide",
+     "kind": "book (signed print)",
+     "price": "$39.99 signed copy; Book + Community Bundle $99.99 then $19.99/mo",
+     "domain": "book.seejanedrill.com",
+     "free": false
+    },
+    {
+     "name": "free masterclass on building your dream home",
+     "kind": "free class",
+     "price": "free",
+     "domain": "sjdmasterclass.com",
+     "free": true
+    }
+   ]
+  },
+  "UCOUFSlpGiL9I3jPbt0vcI0A": {
+   "name": "Jon Peters - Longview Woodworking",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Woodworking design plans (e.g. Long Hive Plans) [plans] — $19.99-$24.99 — jonpeters.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Woodworking design plans (e.g. Long Hive Plans)",
+     "kind": "plans",
+     "price": "$19.99-$24.99",
+     "domain": "jonpeters.com",
+     "free": false
+    }
+   ]
+  },
+  "UCDLxnaDQzo8YolFqsBAHVLQ": {
+   "name": "The Honest Carpenter",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "FREE GUIDE: 25 Must-Have Carpentry Tools...Under $25 Each! [free guide] — free — thehonestcarpenter.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "FREE GUIDE: 25 Must-Have Carpentry Tools...Under $25 Each!",
+     "kind": "free guide",
+     "price": "free",
+     "domain": "thehonestcarpenter.com",
+     "free": true
+    }
+   ]
+  },
+  "UCziz6FiCnkyQ810X7qXFMZw": {
+   "name": "Mr. Build It",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Outdoor Chair Plans / Sauna plans [plans] — $10 sale (was $30); Sauna $25 — mrbuilditandco.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Outdoor Chair Plans / Sauna plans",
+     "kind": "plans",
+     "price": "$10 sale (was $30); Sauna $25",
+     "domain": "mrbuilditandco.com",
+     "free": false
+    }
+   ]
+  },
+  "UCUJXaEduMHGB3Iap3DusmAA": {
+   "name": "The Excellent Laborer",
+   "note": "",
+   "add": [
+    "membership"
+   ],
+   "own_products": [
+    "All DIY Courses & Downloads – $5 Membership [course membership] — $5/month — excellentlaborer.thinkific.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "All DIY Courses & Downloads – $5 Membership",
+     "kind": "course membership",
+     "price": "$5/month",
+     "domain": "excellentlaborer.thinkific.com",
+     "free": false
+    }
+   ]
+  },
+  "UCYAcr-u-BLGIrtUImT2_Elw": {
+   "name": "NoNonsenseKnowHow",
+   "note": "Bolt Depot (\"Where I Get My Hardware\")",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCZgZKI3C5YtMxWCkO5GotfQ": {
+   "name": "Helpful DIY",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "DIY Advice: 51 Tips for Do It Yourselfers [free e-book] — free ($0 on Gumroad) — gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "DIY Advice: 51 Tips for Do It Yourselfers",
+     "kind": "free e-book",
+     "price": "free ($0 on Gumroad)",
+     "domain": "gumroad.com",
+     "free": true
+    }
+   ]
+  },
+  "UCbJ8oD5Gmh6CKv0GPpXpK8w": {
+   "name": "The DIY Guy",
+   "note": "LED Space Iris Kit (LEDSpace collaboration page)",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC9GdB6vG6m6cDAwrTAWXgyg": {
+   "name": "Skill Builder",
+   "note": "newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCO4AaIooUgGTlBH64KWO76w": {
+   "name": "FarmCraft101",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Etsy Store \"MadeByFarmCraft101\" [own physical products (Etsy)] — price not found (Etsy blocked) — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Etsy Store \"MadeByFarmCraft101\"",
+     "kind": "own physical products (Etsy)",
+     "price": "price not found (Etsy blocked)",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCGIMKh92vaL0_Yc0u4GYhHA": {
+   "name": "Roger Wakefield Plumbing Education",
+   "note": "leak-detection equipment link",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCcFBzgxY4iB7-vrSywJNtfQ": {
+   "name": "MR Post Frame",
+   "note": "Back Forty Buildings plans and kits (ownership not stated)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCwF8vOEatNvJUiXXJtDx-zA": {
+   "name": "plumberparts",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Learn Plumbing Online (8 week course) [course] — £195.00 — learnplumbingonline.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Learn Plumbing Online (8 week course)",
+     "kind": "course",
+     "price": "£195.00",
+     "domain": "learnplumbingonline.com",
+     "free": false
+    }
+   ]
+  },
+  "UCMK35dc3gTdhNTic_NA_5lQ": {
+   "name": "HandyDadTV",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "blueprints (e.g. IKEA hack platform bed) [plans] — price not found (page blocked, 406) — handydad.tv"
+   ],
+   "own_products_detail": [
+    {
+     "name": "blueprints (e.g. IKEA hack platform bed)",
+     "kind": "plans",
+     "price": "price not found (page blocked, 406)",
+     "domain": "handydad.tv",
+     "free": false
+    }
+   ]
+  },
+  "UC8HX5CxoGOt2q1uT7uQxLOw": {
+   "name": "Gosforth Handyman",
+   "note": "free newsletter; \"Our little shop (official Tape Measure, pencils etc.)\"",
+   "add": [
+    "newsletter",
+    "merch"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCCMfy0ghzQ84BgVoAQ7G8eQ": {
+   "name": "AdamDIY",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "PDF (not named; \"Link to download the PDF\") [PDF] — price not found (Payhip blocked) — payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "PDF (not named; \"Link to download the PDF\")",
+     "kind": "PDF",
+     "price": "price not found (Payhip blocked)",
+     "domain": "payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UCT7uKjjnhi3eozGVrjKfTzQ": {
+   "name": "HouseCalls",
+   "note": "weekly newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCq6YaxJHA-t4bYBHHvaoZ8w": {
+   "name": "The Kelley's Country Life",
+   "note": "merchandise (T-shirts $19.99-$26.99)",
+   "add": [
+    "merch"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCtf6bJ0XHfK4xcVe7dFzu2A": {
+   "name": "A Glimpse Inside",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "plans (Etsy shop) [plans] — price not found (Etsy blocked) — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "plans (Etsy shop)",
+     "kind": "plans",
+     "price": "price not found (Etsy blocked)",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCXxL7mNEwADEqQ73xdhYFZw": {
+   "name": "Home With Stefani",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Home DIY With Stefani [course (launches November 10)] — price not found (waitlist 25% off; page blocked) — homewithstefani.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Home DIY With Stefani",
+     "kind": "course (launches November 10)",
+     "price": "price not found (waitlist 25% off; page blocked)",
+     "domain": "homewithstefani.com",
+     "free": false
+    }
+   ]
+  },
+  "UC1sPYHJYgJppmlkhi1AekuQ": {
+   "name": "AmplifyDIY",
+   "note": "free PDF of written instructions made by a viewer",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCvRnm6z-xSXgFs01W7l2JAA": {
+   "name": "JAMIE AND SARAH",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Our Flipping Guide [guide] — price not found (link opens a realtor page) — jamieandsarah.us"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Our Flipping Guide",
+     "kind": "guide",
+     "price": "price not found (link opens a realtor page)",
+     "domain": "jamieandsarah.us",
+     "free": false
+    }
+   ]
+  },
+  "UC1usuCeFHj1tQikOJ00SWyA": {
+   "name": "PatriotDIY",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Etsy shop PatriotDIY [own products (Etsy)] — price not found — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Etsy shop PatriotDIY",
+     "kind": "own products (Etsy)",
+     "price": "price not found",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UC0GzLtu-HV1tzQNOfNHwcEg": {
+   "name": "Mason Dixon Acres",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The No Regrets Build Guide [guide (waitlist, reopening)] — Shopify page data shows 897.00 (not shown as text) — buylandbuilddreams.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The No Regrets Build Guide",
+     "kind": "guide (waitlist, reopening)",
+     "price": "Shopify page data shows 897.00 (not shown as text)",
+     "domain": "buylandbuilddreams.com",
+     "free": false
+    }
+   ]
+  },
+  "UCT-HKsjRFI3S3BQVqeYdsYw": {
+   "name": "Snowstead",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Off-Grid Bathroom Plans [plans] — CA$12.99 — stan.store",
+    "Tiny Home Plans [plans] — $59.99 (was $99.99) — stan.store",
+    "Ultimate Guide to Starting Your Homestead [e-book] — CA$14.99 (was CA$24.99) — stan.store",
+    "FREE Emergency Kit E-Book [free e-book] — free — stan.store"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Off-Grid Bathroom Plans",
+     "kind": "plans",
+     "price": "CA$12.99",
+     "domain": "stan.store",
+     "free": false
+    },
+    {
+     "name": "Tiny Home Plans",
+     "kind": "plans",
+     "price": "$59.99 (was $99.99)",
+     "domain": "stan.store",
+     "free": false
+    },
+    {
+     "name": "Ultimate Guide to Starting Your Homestead",
+     "kind": "e-book",
+     "price": "CA$14.99 (was CA$24.99)",
+     "domain": "stan.store",
+     "free": false
+    },
+    {
+     "name": "FREE Emergency Kit E-Book",
+     "kind": "free e-book",
+     "price": "free",
+     "domain": "stan.store",
+     "free": true
+    }
+   ]
+  },
+  "UC_JI-fFYQD8Cb3WfoMtOvuA": {
+   "name": "Tomahawk DIY",
+   "note": "Tom's Key Company free tool (third party)",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCYFp9tOZEXOj0TSBqwKyxZQ": {
+   "name": "Visual Thinker",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Etsy Shop MidwoodMaps [own products (Etsy)] — price not found — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Etsy Shop MidwoodMaps",
+     "kind": "own products (Etsy)",
+     "price": "price not found",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCUuvM8Irrn-dk8j65QpzIQg": {
+   "name": "Brent Hull",
+   "note": "newsletter (Substack \"The Blueprint\")",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC6Ko62-E2iMcdJ48tBvLjUQ": {
+   "name": "Apartment Maintenance Pro",
+   "note": "own blog post with manuals",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCMI0EN2X4wd0UU_Kd9wtjDA": {
+   "name": "HouseBarons",
+   "note": "",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [
+    "Free Home Maintenance Checklist [free guide (newsletter sign-up)] — free — beehiiv.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Free Home Maintenance Checklist",
+     "kind": "free guide (newsletter sign-up)",
+     "price": "free",
+     "domain": "beehiiv.com",
+     "free": true
+    }
+   ]
+  },
+  "UCR2C--KENITllxSo1aAbWWA": {
+   "name": "Roger the Pipe Guy",
+   "note": "the operator's own sister channel",
+   "add": [],
+   "own_products": [
+    "100 Old-House Fixes That Save You Thousands [e-book (PDF, 200 pages)] — $19.99 (was $29.99); launch code LAUNCH25 — rogerthepipeguybooks.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "100 Old-House Fixes That Save You Thousands",
+     "kind": "e-book (PDF, 200 pages)",
+     "price": "$19.99 (was $29.99); launch code LAUNCH25",
+     "domain": "rogerthepipeguybooks.com",
+     "free": false
+    }
+   ]
+  },
+  "UCmPc7lvTIm-J9GmvQku5wAw": {
+   "name": "HomePro Hero",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "DETAILED WORKBENCH PLANS (and metric) [plans (Etsy)] — price not found (Etsy blocked) — etsy.com",
+    "FREE BASIC DIY WORKBENCH PLANS [free plans] — free — kit.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "DETAILED WORKBENCH PLANS (and metric)",
+     "kind": "plans (Etsy)",
+     "price": "price not found (Etsy blocked)",
+     "domain": "etsy.com",
+     "free": false
+    },
+    {
+     "name": "FREE BASIC DIY WORKBENCH PLANS",
+     "kind": "free plans",
+     "price": "free",
+     "domain": "kit.com",
+     "free": true
+    }
+   ]
+  },
+  "UC4UDFzeOPhEkPJMuIqoVqTA": {
+   "name": "Ali Dymock",
+   "note": "weekly newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCtiBAiaTFwjoF6fREyYaieQ": {
+   "name": "The Craftsman Blog",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "DIY Window Screen Plans (books & plans shop, courses) [plans] — $10 — thecraftsmanstore.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "DIY Window Screen Plans (books & plans shop, courses)",
+     "kind": "plans",
+     "price": "$10",
+     "domain": "thecraftsmanstore.com",
+     "free": false
+    }
+   ]
+  },
+  "UCnBQs4X0ZLg5-aLailTGbsw": {
+   "name": "Homebuilding & Renovating",
+   "note": "magazine website",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCIMtael9xbB5hP2eSk2oGEg": {
+   "name": "The 3D Handyman",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Kits (Etsy shop The3DHandyman) [own physical products] — price not found (Etsy blocked) — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Kits (Etsy shop The3DHandyman)",
+     "kind": "own physical products",
+     "price": "price not found (Etsy blocked)",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCvY8MGqz3-Q6BFaDGKAgA7g": {
+   "name": "Caliber8 Tools & DIY",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Power Tool Mastery Course [course] — $149.99 — caliber8.com",
+    "Home Improvement Planner [e-book] — price not found — caliber8.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Power Tool Mastery Course",
+     "kind": "course",
+     "price": "$149.99",
+     "domain": "caliber8.com",
+     "free": false
+    },
+    {
+     "name": "Home Improvement Planner",
+     "kind": "e-book",
+     "price": "price not found",
+     "domain": "caliber8.com",
+     "free": false
+    }
+   ]
+  },
+  "UCPD0ockVAQLslbQe_QFaNZw": {
+   "name": "Help At My Home",
+   "note": "own website",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCGYVoU8zbj9SXgwhxHobOjA": {
+   "name": "Lifey Guy",
+   "note": "third-party product links",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCLsg7-ywHS-R3qr28KBMJWA": {
+   "name": "The Gizmo Garage",
+   "note": "CATLINK product link (collabs.shop)",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC6EhiNUk9k2B3d7oAV3dnMw": {
+   "name": "Structure Tech Home Inspections",
+   "note": "ROII initiative link",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCV0L8CyL9lzXTvaVYh_prfQ": {
+   "name": "These are quick reviews",
+   "note": "VPN discount link",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCMX8nbmbyPU4v-Yi6beBFyg": {
+   "name": "DIY WISCO",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "FREE cut list [free plans (email sign-up)] — free — kit.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "FREE cut list",
+     "kind": "free plans (email sign-up)",
+     "price": "free",
+     "domain": "kit.com",
+     "free": true
+    }
+   ]
+  },
+  "UCXzxEH5J8y5EW1lZ3LtDB0A": {
+   "name": "Behind Your Walls",
+   "note": "Inspector Swag Merchandise Store (store unavailable on 2026-10-26)",
+   "add": [
+    "merch"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC2l11GBc44OC0tUG7Kd3fvw": {
+   "name": "Arthur Weber",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Arthur's Manual: 75 simple checks that catch small home problems early [e-book] — price not found (page needs JavaScript) — arthurweberhome.com (Gumroad files)"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Arthur's Manual: 75 simple checks that catch small home problems early",
+     "kind": "e-book",
+     "price": "price not found (page needs JavaScript)",
+     "domain": "arthurweberhome.com (Gumroad files)",
+     "free": false
+    }
+   ]
+  },
+  "UCjtUS7-SZTi6pXjUbzGHQCg": {
+   "name": "Undecided with Matt Ferrell",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Become Energy Independent (solar guide, Undecided Academy) [video course] — $125 one-time — undecided.link"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Become Energy Independent (solar guide, Undecided Academy)",
+     "kind": "video course",
+     "price": "$125 one-time",
+     "domain": "undecided.link",
+     "free": false
+    }
+   ]
+  },
+  "UCmb2QRAjdnkse21CtxAQ-cA": {
+   "name": "City Prepping",
+   "note": "sponsor: Incogni, \"Use code PREPPING\"",
+   "add": [
+    "sponsor"
+   ],
+   "own_products": [
+    "The Prepper's Roadmap [course] — price not found (page lists bonuses only) — cityprepp.ing",
+    "Start Preparing Survival Guide [free guide] — free — cityprepp.ing"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Prepper's Roadmap",
+     "kind": "course",
+     "price": "price not found (page lists bonuses only)",
+     "domain": "cityprepp.ing",
+     "free": false
+    },
+    {
+     "name": "Start Preparing Survival Guide",
+     "kind": "free guide",
+     "price": "free",
+     "domain": "cityprepp.ing",
+     "free": true
+    }
+   ]
+  },
+  "UCFCTrfb1JUJjs3Im8OZDtBw": {
+   "name": "Matt Risinger",
+   "note": "newsletter; BUILD GEAR STORE",
+   "add": [
+    "newsletter",
+    "merch"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCoj6RxIAQq8kmJme-5dnN0Q": {
+   "name": "DIY Solar Power with Will Prowse",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "guidebook to off-grid 12V solar [free e-book] — free — willapproved.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "guidebook to off-grid 12V solar",
+     "kind": "free e-book",
+     "price": "free",
+     "domain": "willapproved.com",
+     "free": true
+    }
+   ]
+  },
+  "UCRBwLPbXGsI2cJe9W1zfSjQ": {
+   "name": "Just Have a Think",
+   "note": "third-party free mini-courses",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCM7-S8Q0uqUxG0kKfX_dOzw": {
+   "name": "Melissa K. Norris - Modern Homesteading",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Family Garden Plan [book (retailers + bonuses)] — price not found — melissaknorris.com",
+    "Homemade Bread and Baking Course [course] — price not found (page 404) — lpages.co"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Family Garden Plan",
+     "kind": "book (retailers + bonuses)",
+     "price": "price not found",
+     "domain": "melissaknorris.com",
+     "free": false
+    },
+    {
+     "name": "Homemade Bread and Baking Course",
+     "kind": "course",
+     "price": "price not found (page 404)",
+     "domain": "lpages.co",
+     "free": false
+    }
+   ]
+  },
+  "UCUYJhbsrC1bvVWzgUq83K4A": {
+   "name": "Artisan Electrics",
+   "note": "",
+   "add": [
+    "membership"
+   ],
+   "own_products": [
+    "Electricians Business Academy (Skool community) [community/membership] — price not found — skool.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Electricians Business Academy (Skool community)",
+     "kind": "community/membership",
+     "price": "price not found",
+     "domain": "skool.com",
+     "free": false
+    }
+   ]
+  },
+  "UCHXjZagCrWdnkkx1rlpuqVg": {
+   "name": "HomeSteadHow",
+   "note": "newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCaj8oe2fiZNjXzX1QEZ1F2A": {
+   "name": "Elias Yoder",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Amish Home Savings Manual (700+ pages, Second Edition) [e-book] — $47 (\"earn the $47 back\") — eliasyoder.com -> eliasyoder.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Amish Home Savings Manual (700+ pages, Second Edition)",
+     "kind": "e-book",
+     "price": "$47 (\"earn the $47 back\")",
+     "domain": "eliasyoder.com -> eliasyoder.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UC-5at4izid5vmBmbMd0RylQ": {
+   "name": "Joshua De Lisle",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Sculpture designs (Etsy) [own products] — price not found — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Sculpture designs (Etsy)",
+     "kind": "own products",
+     "price": "price not found",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCF6zi1Q3oUknWkAD_LcRVjw": {
+   "name": "TheUrbanPrepper",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "100 Preps Every Urban Family Should Have (field guide) [guide] — page shows \"$ 7\" (not confirmed as the price) — theurbanprepper.com",
+    "20 Preps Gear Guide [free guide] — free — bit.ly (Dropbox)"
+   ],
+   "own_products_detail": [
+    {
+     "name": "100 Preps Every Urban Family Should Have (field guide)",
+     "kind": "guide",
+     "price": "page shows \"$ 7\" (not confirmed as the price)",
+     "domain": "theurbanprepper.com",
+     "free": false
+    },
+    {
+     "name": "20 Preps Gear Guide",
+     "kind": "free guide",
+     "price": "free",
+     "domain": "bit.ly (Dropbox)",
+     "free": true
+    }
+   ]
+  },
+  "UCSa3y4THgOgPCkcgrWlcqxg": {
+   "name": "Jill Winger - Old Fashioned on Purpose",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Old-Fashioned on Purpose [book (retailers)] — price not found — oldfashionedbook.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Old-Fashioned on Purpose",
+     "kind": "book (retailers)",
+     "price": "price not found",
+     "domain": "oldfashionedbook.com",
+     "free": false
+    }
+   ]
+  },
+  "UCjYun1PcC1l0Kq0x4h0mBFg": {
+   "name": "An American Homestead",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Homestead smoker building plans [plans] — price not found (page 404) — anamericanhomestead.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Homestead smoker building plans",
+     "kind": "plans",
+     "price": "price not found (page 404)",
+     "domain": "anamericanhomestead.com",
+     "free": false
+    }
+   ]
+  },
+  "UCsehkdEMPHIy_PIBZZs3VRg": {
+   "name": "The Provident Prepper",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Integrated Passive Energy Greenhouse (IPEG) plans [plans] — price not found (Payhip blocked) — payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Integrated Passive Energy Greenhouse (IPEG) plans",
+     "kind": "plans",
+     "price": "price not found (Payhip blocked)",
+     "domain": "payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UC9TcuDlGy9FTaYxhkOet0Ig": {
+   "name": "Frugal Solutions",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Amish cookbooks (Digital Cookbook PDF) [e-books] — $9.99-$11.99 — frugal-solutions.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Amish cookbooks (Digital Cookbook PDF)",
+     "kind": "e-books",
+     "price": "$9.99-$11.99",
+     "domain": "frugal-solutions.com",
+     "free": false
+    }
+   ]
+  },
+  "UCXJ7onrDcxo2zy8yAsxqwgg": {
+   "name": "DavidPoz",
+   "note": "affiliate battery kit links",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCmWhnLZQDqHbZ7HO6t9NhmQ": {
+   "name": "Eli Yoder Secrets",
+   "note": "also \"The Warm Room Letter (for members)\"",
+   "add": [],
+   "own_products": [
+    "The Complete Winter Library (incl. The One Warm Room Plan) [e-book bundle] — $97 (was $141) — eliyodersecrets.com -> payhip",
+    "The Borax Field Manual (and other single books) [e-book] — $27 (was $47) — eliyodersecrets.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Complete Winter Library (incl. The One Warm Room Plan)",
+     "kind": "e-book bundle",
+     "price": "$97 (was $141)",
+     "domain": "eliyodersecrets.com -> payhip",
+     "free": false
+    },
+    {
+     "name": "The Borax Field Manual (and other single books)",
+     "kind": "e-book",
+     "price": "$27 (was $47)",
+     "domain": "eliyodersecrets.com",
+     "free": false
+    }
+   ]
+  },
+  "UCbFc4dZikcCnQNLASfvM8-A": {
+   "name": "Rockhill farm",
+   "note": "newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCalhGzHdjoEn18XraUxsFHg": {
+   "name": "Under the Median",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "e-books shop (Frugal Finance Planner Bundle; Goal Wise: The Frugal Life Planner) [e-books/planners] — $47 each — underthemedian.com",
+    "Home Energy Savings Guide; Pantry Stock Up Workbook; grocery guide [free guides] — free — underthemedian.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "e-books shop (Frugal Finance Planner Bundle; Goal Wise: The Frugal Life Planner)",
+     "kind": "e-books/planners",
+     "price": "$47 each",
+     "domain": "underthemedian.com",
+     "free": false
+    },
+    {
+     "name": "Home Energy Savings Guide; Pantry Stock Up Workbook; grocery guide",
+     "kind": "free guides",
+     "price": "free",
+     "domain": "underthemedian.com",
+     "free": true
+    }
+   ]
+  },
+  "UCUCwzyrSh_3jIIzC-FgdiVw": {
+   "name": "Piney Grove Homestead",
+   "note": "VEVOR product link",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCmGizvYWqUH3DGYEgRbHr8g": {
+   "name": "Wonders",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The $0 Household Bible [e-book] — $27 (compare at $47) — householdbible.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The $0 Household Bible",
+     "kind": "e-book",
+     "price": "$27 (compare at $47)",
+     "domain": "householdbible.com",
+     "free": false
+    }
+   ]
+  },
+  "UC2GQkhnB8tQ_9P6p3lUYsfQ": {
+   "name": "Dirtpatcheaven",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Compost Hotbed Instructions (Etsy) [instructions/plans] — price not found — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Compost Hotbed Instructions (Etsy)",
+     "kind": "instructions/plans",
+     "price": "price not found",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCU_HLu89rp6coFxRwPWN2jw": {
+   "name": "Medieval Way",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Medieval Bakery · The Complete Collection (3 e-books) [e-books] — $47 collection; single books $27-$29 — medievalway.store"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Medieval Bakery · The Complete Collection (3 e-books)",
+     "kind": "e-books",
+     "price": "$47 collection; single books $27-$29",
+     "domain": "medievalway.store",
+     "free": false
+    }
+   ]
+  },
+  "UCDNuTd55psMU-HmzNGmpvXg": {
+   "name": "Eivin Kilcher Homestead",
+   "note": "",
+   "add": [
+    "membership",
+    "merch"
+   ],
+   "own_products": [
+    "Kilcher Camp [membership community] — page shows $25 and $250 (period not captured) — eivinandevekilcher.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Kilcher Camp",
+     "kind": "membership community",
+     "price": "page shows $25 and $250 (period not captured)",
+     "domain": "eivinandevekilcher.com",
+     "free": false
+    }
+   ]
+  },
+  "UCn2YKsCiDpL3UjxIm4-RCoQ": {
+   "name": "Everything Electric TECH",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Fully Charged Guide to Electric Vehicles & Clean Energy [book (Amazon)] — price not found — buff.ly -> amazon.co.uk"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Fully Charged Guide to Electric Vehicles & Clean Energy",
+     "kind": "book (Amazon)",
+     "price": "price not found",
+     "domain": "buff.ly -> amazon.co.uk",
+     "free": false
+    }
+   ]
+  },
+  "UCguq_xuHZPI40RjNxOeRyyg": {
+   "name": "The Solar Lab",
+   "note": "review site with discount codes",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC7seBcxwSd9wa6JOhke-WjA": {
+   "name": "Medieval Wisdom",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Medieval Wisdom Builder's Manual (PDF, 911 pages) [e-book] — $47 launch price through Oct 21, then $67 — medieval-wisdom.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Medieval Wisdom Builder's Manual (PDF, 911 pages)",
+     "kind": "e-book",
+     "price": "$47 launch price through Oct 21, then $67",
+     "domain": "medieval-wisdom.com",
+     "free": false
+    }
+   ]
+  },
+  "UC_yTHwUQS--7ZsCo8fxW67A": {
+   "name": "Silas Mercer",
+   "note": "same site as Sylvie Mercer",
+   "add": [],
+   "own_products": [
+    "The Forgotten Frontier Journal (\"Survive Any Crisis\") [e-book] — $37 first-edition launch price — silasmercer.shop"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Forgotten Frontier Journal (\"Survive Any Crisis\")",
+     "kind": "e-book",
+     "price": "$37 first-edition launch price",
+     "domain": "silasmercer.shop",
+     "free": false
+    }
+   ]
+  },
+  "UCkmEk3ldK7uJ1OvdLKwGrxg": {
+   "name": "Greenhill Forge",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Project Notes [plans/notes] — £2-£11 — greenhillforge.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Project Notes",
+     "kind": "plans/notes",
+     "price": "£2-£11",
+     "domain": "greenhillforge.com",
+     "free": false
+    }
+   ]
+  },
+  "UCx6S7boRmAaxS8CB3Ur6qsw": {
+   "name": "Bailey Line Road",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Cabin Building Course (Build your own tiny home) [course] — price not found — baileylineroad.com",
+    "How-To & DIY eBooks [e-books] — price not found — baileylineroad.com",
+    "DIY Hoop House Plans [free plans] — free — bit.ly"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Cabin Building Course (Build your own tiny home)",
+     "kind": "course",
+     "price": "price not found",
+     "domain": "baileylineroad.com",
+     "free": false
+    },
+    {
+     "name": "How-To & DIY eBooks",
+     "kind": "e-books",
+     "price": "price not found",
+     "domain": "baileylineroad.com",
+     "free": false
+    },
+    {
+     "name": "DIY Hoop House Plans",
+     "kind": "free plans",
+     "price": "free",
+     "domain": "bit.ly",
+     "free": true
+    }
+   ]
+  },
+  "UCkHDMmVa2MkgKdK7B05s9dQ": {
+   "name": "Bertha's House Hacks",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Old Mexican Way [e-book (PDF)] — $39.99 today, was $59.99 — oldmexicanway.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Old Mexican Way",
+     "kind": "e-book (PDF)",
+     "price": "$39.99 today, was $59.99",
+     "domain": "oldmexicanway.com",
+     "free": false
+    }
+   ]
+  },
+  "UCMvfq8cJF4koBwoPecrf_zQ": {
+   "name": "Zach Of All Trades",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The 50 Dollar Food Plan [free guide] — free — zachofalltrades.io"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The 50 Dollar Food Plan",
+     "kind": "free guide",
+     "price": "free",
+     "domain": "zachofalltrades.io",
+     "free": true
+    }
+   ]
+  },
+  "UCgdljd9PHGxqvDGgabrKvZg": {
+   "name": "Hidden Homestead",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Vault (22 forgotten Amish home formulas) [e-book] — $27 (was $47); Full Bundle $97 — hidden-homestead-vault.pages.dev -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Vault (22 forgotten Amish home formulas)",
+     "kind": "e-book",
+     "price": "$27 (was $47); Full Bundle $97",
+     "domain": "hidden-homestead-vault.pages.dev -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UCmNd9YwJEGzc0CQZSVe2oWg": {
+   "name": "Forgotten American Survival",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Forgotten American Survival Library (5 Preparedness Manuals) [e-books] — $59 library; single books from $19 — forgottenamericansurvival.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Forgotten American Survival Library (5 Preparedness Manuals)",
+     "kind": "e-books",
+     "price": "$59 library; single books from $19",
+     "domain": "forgottenamericansurvival.com",
+     "free": false
+    }
+   ]
+  },
+  "UCz7GdQbYYa7vyQ1MZJ-lm-g": {
+   "name": "Family DIY",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Etsy store terafoxua [own products] — price not found — etsy.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Etsy store terafoxua",
+     "kind": "own products",
+     "price": "price not found",
+     "domain": "etsy.com",
+     "free": false
+    }
+   ]
+  },
+  "UCcPAcUV5haCy4Y46t-VsRWA": {
+   "name": "There's A Trick For That",
+   "note": "Ko-fi: \"Have a personal question for me?\" and \"Book a consultation\"",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCz6goEjKTe5-kL_o4spw1ig": {
+   "name": "The Ready Life",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Emergency Power Toolkit [workbook (digital)] — $9 — thereadylife.com",
+    "CLASS: How to Heat & Power Your Home In a Long Term Blackout [class] — price not found — thereadylife.com",
+    "5:21 Preparedness Plan [program] — price not found — thereadylife.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Emergency Power Toolkit",
+     "kind": "workbook (digital)",
+     "price": "$9",
+     "domain": "thereadylife.com",
+     "free": false
+    },
+    {
+     "name": "CLASS: How to Heat & Power Your Home In a Long Term Blackout",
+     "kind": "class",
+     "price": "price not found",
+     "domain": "thereadylife.com",
+     "free": false
+    },
+    {
+     "name": "5:21 Preparedness Plan",
+     "kind": "program",
+     "price": "price not found",
+     "domain": "thereadylife.com",
+     "free": false
+    }
+   ]
+  },
+  "UCg0hupdIFfRTTvjuammoDdw": {
+   "name": "Off Grid with Jay and Jen",
+   "note": "Shopify store (unavailable on 2026-10-26)",
+   "add": [
+    "merch"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC_Cd3FJuxGKoiMqbtzYN-wA": {
+   "name": "Stefano Creatini",
+   "note": "",
+   "add": [
+    "membership"
+   ],
+   "own_products": [
+    "Homestead Community (Skool, \"complimentary $1,500 course\") [community] — price not found (page 404) — skool.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Homestead Community (Skool, \"complimentary $1,500 course\")",
+     "kind": "community",
+     "price": "price not found (page 404)",
+     "domain": "skool.com",
+     "free": false
+    }
+   ]
+  },
+  "UC1AtJIwlt9tI-Z-QKQJJ_Vw": {
+   "name": "Wild Line",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Passive Home Blueprint [e-book] — price not found (page needs JavaScript) — passivehomeblueprint.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Passive Home Blueprint",
+     "kind": "e-book",
+     "price": "price not found (page needs JavaScript)",
+     "domain": "passivehomeblueprint.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCt08e2_TicHGW1GqP-zqKDQ": {
+   "name": "Heat Geek",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "COURSES - Become a MASTER of renewable heating [trade courses] — price not found (page blocked, 429) — heatgeek.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "COURSES - Become a MASTER of renewable heating",
+     "kind": "trade courses",
+     "price": "price not found (page blocked, 429)",
+     "domain": "heatgeek.com",
+     "free": false
+    }
+   ]
+  },
+  "UCx0OIvHyA-rLE1_jHfrJTbQ": {
+   "name": "The Passive House Files",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Complete Passive House Vault [e-book bundle] — $97 (was $200) — passivehousefiles.com -> stan.store",
+    "The Heat Files [e-book] — $37 — passivehousefiles.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Complete Passive House Vault",
+     "kind": "e-book bundle",
+     "price": "$97 (was $200)",
+     "domain": "passivehousefiles.com -> stan.store",
+     "free": false
+    },
+    {
+     "name": "The Heat Files",
+     "kind": "e-book",
+     "price": "$37",
+     "domain": "passivehousefiles.com",
+     "free": false
+    }
+   ]
+  },
+  "UCm76z_NC8DU6zxxmnjZW22g": {
+   "name": "ASIRI Designs",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "A Design Guide To Dry & Comfortable Basements; A Guide To Moisture Management For Residential Remodels; Flat Roof Design Guides and CAD Details [e-books/design guides] — price not found — asiri-designs.com (teachable)"
+   ],
+   "own_products_detail": [
+    {
+     "name": "A Design Guide To Dry & Comfortable Basements; A Guide To Moisture Management For Residential Remodels; Flat Roof Design Guides and CAD Details",
+     "kind": "e-books/design guides",
+     "price": "price not found",
+     "domain": "asiri-designs.com (teachable)",
+     "free": false
+    }
+   ]
+  },
+  "UCQuKF1hbqMfP7yW3NLD-fsA": {
+   "name": "David McLuckie",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Ramp Plans [plans] — price not found — davidmcluckie.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Ramp Plans",
+     "kind": "plans",
+     "price": "price not found",
+     "domain": "davidmcluckie.com",
+     "free": false
+    }
+   ]
+  },
+  "UCMAmymzGNS1CE07KOwUWCNA": {
+   "name": "Builds With Eli Yoder",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Energy Trap — Full Off-Grid Manual [e-book] — $27 (was $47) — energy-trap-vol1.netlify.app -> payhip",
+    "The Alternator Power Manual [e-book (41 pages)] — $49 — manual.eliyodersecrets.com",
+    "The Complete Winter Power Library [e-book bundle] — $97 (was $230) — energy-trap-vol1.netlify.app"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Energy Trap — Full Off-Grid Manual",
+     "kind": "e-book",
+     "price": "$27 (was $47)",
+     "domain": "energy-trap-vol1.netlify.app -> payhip",
+     "free": false
+    },
+    {
+     "name": "The Alternator Power Manual",
+     "kind": "e-book (41 pages)",
+     "price": "$49",
+     "domain": "manual.eliyodersecrets.com",
+     "free": false
+    },
+    {
+     "name": "The Complete Winter Power Library",
+     "kind": "e-book bundle",
+     "price": "$97 (was $230)",
+     "domain": "energy-trap-vol1.netlify.app",
+     "free": false
+    }
+   ]
+  },
+  "UCsJ0zEQQV-FHEmltf062IGQ": {
+   "name": "Build Show Network",
+   "note": "newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCYe10DVVIwG9mdvX1m76XxQ": {
+   "name": "Lone Star Prepping",
+   "note": "product data sheet",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCPba1zh0V9QQAVju7D--SzA": {
+   "name": "Earl Knows How",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Earl's Home Repair Manual [e-book] — $29.99, one time — earlknowshow.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Earl's Home Repair Manual",
+     "kind": "e-book",
+     "price": "$29.99, one time",
+     "domain": "earlknowshow.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCVIirwqWdBCyynoWRsld2Ug": {
+   "name": "Ray Sutter",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "When the Lights Go Out — The All-Hazards Home Survival Playbook [e-book (315 pages)] — $47 launch price (goes to $67) — raysutter.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "When the Lights Go Out — The All-Hazards Home Survival Playbook",
+     "kind": "e-book (315 pages)",
+     "price": "$47 launch price (goes to $67)",
+     "domain": "raysutter.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCuezPXEDYWG_oXWDtZjguwA": {
+   "name": "Healthy Home Guide",
+   "note": "",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [
+    "Healthy Home Method [course] — price not found (page lists module values only) — teachable.com",
+    "DIY Mold Inspection Guide and Checklist [e-book] — $29 (Gumroad) — healthyhomeguide.gumroad.com",
+    "Free masterclass: 5 mistakes... [free class] — free — renegadeairquality.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Healthy Home Method",
+     "kind": "course",
+     "price": "price not found (page lists module values only)",
+     "domain": "teachable.com",
+     "free": false
+    },
+    {
+     "name": "DIY Mold Inspection Guide and Checklist",
+     "kind": "e-book",
+     "price": "$29 (Gumroad)",
+     "domain": "healthyhomeguide.gumroad.com",
+     "free": false
+    },
+    {
+     "name": "Free masterclass: 5 mistakes...",
+     "kind": "free class",
+     "price": "free",
+     "domain": "renegadeairquality.com",
+     "free": true
+    }
+   ]
+  },
+  "UCjhLH2htPeIBs8NBDxEynrQ": {
+   "name": "Mr iPoo",
+   "note": "also \"Become a channel sponsor\" (membership)",
+   "add": [
+    "membership"
+   ],
+   "own_products": [
+    "The Mini AC Builder's Course [course] — $2.99 (was $15) — stan.store"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Mini AC Builder's Course",
+     "kind": "course",
+     "price": "$2.99 (was $15)",
+     "domain": "stan.store",
+     "free": false
+    }
+   ]
+  },
+  "UC0BnbW-S7r-fCwL9b2DeyKw": {
+   "name": "Frugal Frannie",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Frannie's Bill Book (120 tricks, 73 pages) [e-book] — $26 (was $47); 2-book bundle $46 — frugalfrannie.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Frannie's Bill Book (120 tricks, 73 pages)",
+     "kind": "e-book",
+     "price": "$26 (was $47); 2-book bundle $46",
+     "domain": "frugalfrannie.com",
+     "free": false
+    }
+   ]
+  },
+  "UC--v6NZz9jkKIgqPsIAfQog": {
+   "name": "Elias Homestead",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Elias Homestead Four-Volume Library [e-books] — $99 (was $191); single volumes $27 (was $44) — eliashomestead.shop -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Elias Homestead Four-Volume Library",
+     "kind": "e-books",
+     "price": "$99 (was $191); single volumes $27 (was $44)",
+     "domain": "eliashomestead.shop -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCCvRME9ejgMupNEpxPZET7Q": {
+   "name": "Prime Rundown",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The No-BS Buyer's Vault (7 guides) [e-books] — $47 launch price (was $79) — primerundown.com -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The No-BS Buyer's Vault (7 guides)",
+     "kind": "e-books",
+     "price": "$47 launch price (was $79)",
+     "domain": "primerundown.com -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UCZC0peuG11nBp0GculOqulw": {
+   "name": "Construction Odyssey with Eddie",
+   "note": "source links (ASHRAE)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCCPCEUtao-g9_iWYyfF-B1w": {
+   "name": "Jhon Construction",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Complete Home Ledger (full bundle) / \"The complete home library\" [e-book bundle] — $97 — jhon-construction.com -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Complete Home Ledger (full bundle) / \"The complete home library\"",
+     "kind": "e-book bundle",
+     "price": "$97",
+     "domain": "jhon-construction.com -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UCl1akLyjHtxuL959tUX6xjQ": {
+   "name": "UnpluggedTexan",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "free wiring schematic pdf [free PDF] — free — solarpdfdownload.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "free wiring schematic pdf",
+     "kind": "free PDF",
+     "price": "free",
+     "domain": "solarpdfdownload.com",
+     "free": true
+    }
+   ]
+  },
+  "UCSDjTXpjDQxxaQA4jzVZiXw": {
+   "name": "Caleb Greer — Off-Grid Water & Power",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Off-Grid Manual (368 pages) [e-book] — $47 (was $97) — calebgreeroffgrid.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Off-Grid Manual (368 pages)",
+     "kind": "e-book",
+     "price": "$47 (was $97)",
+     "domain": "calebgreeroffgrid.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCqrSZXBGR6kD4ZMx9WLSqig": {
+   "name": "Grain & Gravity",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Grain & Gravity Field Manuals [e-books] — price not found — grainandgravity.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Grain & Gravity Field Manuals",
+     "kind": "e-books",
+     "price": "price not found",
+     "domain": "grainandgravity.com",
+     "free": false
+    }
+   ]
+  },
+  "UCSedPjb56LMeiq_VV8164OA": {
+   "name": "Backyard Low Tech",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Backyard LowTech Systems Manual (615 pages) [e-book] — $47 — backyardlowtech.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Backyard LowTech Systems Manual (615 pages)",
+     "kind": "e-book",
+     "price": "$47",
+     "domain": "backyardlowtech.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCCBDciZlJRGkwjHn45AuyxQ": {
+   "name": "Everything Home",
+   "note": "Heat Geek heat pump survey referral link",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCARn8zLnCi13ikrr-OjIVkQ": {
+   "name": "Survival Smart HQ",
+   "note": "links to the free guide on zachofalltrades.io (the channel Zach Of All Trades); cross-promotion, owner not stated",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCE3DzKfdkEEf3kwQYPqcJFA": {
+   "name": "Forgotten Home Engineering",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Ultimate Thermal Retention Blueprint (\"The Forgotten Blueprint\") [e-book] — $47 launch price — pages.dev -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Ultimate Thermal Retention Blueprint (\"The Forgotten Blueprint\")",
+     "kind": "e-book",
+     "price": "$47 launch price",
+     "domain": "pages.dev -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UCB2TupaQsCznPVNwLuFlNzQ": {
+   "name": "Sylvie Mercer",
+   "note": "same site as Silas Mercer",
+   "add": [],
+   "own_products": [
+    "The Forgotten Frontier Journal (\"Survive Any Crisis\") [e-book] — $37 first-edition launch price — silasmercer.shop"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Forgotten Frontier Journal (\"Survive Any Crisis\")",
+     "kind": "e-book",
+     "price": "$37 first-edition launch price",
+     "domain": "silasmercer.shop",
+     "free": false
+    }
+   ]
+  },
+  "UCik3JUx29XhSgEWKv7MUv8w": {
+   "name": "Renewable Heating Hub",
+   "note": "also \"Buy Bodge Buster: Heat Pump Guide for Homeowners\" (Amazon; authorship not confirmed)",
+   "add": [],
+   "own_products": [
+    "The Ultimate Guide to Heat Pumps [book] — price not found — renewableheatinghub.co.uk",
+    "Heat Pump Fundamentals For Homeowners [course] — £19.95 one-time — learn.renewableheatinghub.co.uk"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Ultimate Guide to Heat Pumps",
+     "kind": "book",
+     "price": "price not found",
+     "domain": "renewableheatinghub.co.uk",
+     "free": false
+    },
+    {
+     "name": "Heat Pump Fundamentals For Homeowners",
+     "kind": "course",
+     "price": "£19.95 one-time",
+     "domain": "learn.renewableheatinghub.co.uk",
+     "free": false
+    }
+   ]
+  },
+  "UChcEGagsoreavgb1jmKDhhg": {
+   "name": "The Sensei's Home",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Sensei's Home Manual [e-book] — $29.95 — thejapanesehomemanual.com -> gumroad",
+    "The House of Sensei Manual [e-book] — $29.95; both $44.95 — thejapanesehomemanual.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Sensei's Home Manual",
+     "kind": "e-book",
+     "price": "$29.95",
+     "domain": "thejapanesehomemanual.com -> gumroad",
+     "free": false
+    },
+    {
+     "name": "The House of Sensei Manual",
+     "kind": "e-book",
+     "price": "$29.95; both $44.95",
+     "domain": "thejapanesehomemanual.com",
+     "free": false
+    }
+   ]
+  },
+  "UC25wvCM4xBbfZHged4XyAgw": {
+   "name": "Christopher Johnson",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Christopher's Home Security Guide [e-book (15 chapters)] — £19 one-time — netlify.app"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Christopher's Home Security Guide",
+     "kind": "e-book (15 chapters)",
+     "price": "£19 one-time",
+     "domain": "netlify.app",
+     "free": false
+    }
+   ]
+  },
+  "UC9nEaKOfm5xtp9irCMiGkLg": {
+   "name": "Eric George | Home Performance Pro",
+   "note": "",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [
+    "Home Comfort Advisor course [course (incl. 30 minute 1 on 1 call)] — price not found — myhomecomfortadvisor.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Home Comfort Advisor course",
+     "kind": "course (incl. 30 minute 1 on 1 call)",
+     "price": "price not found",
+     "domain": "myhomecomfortadvisor.com",
+     "free": false
+    }
+   ]
+  },
+  "UCAnmPt5TiGJLN-C2dCq1baA": {
+   "name": "Sketchsurvive",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "72-Hour Survival Blueprint (Essential) [e-book] — special offer $12.00 — systeme.io"
+   ],
+   "own_products_detail": [
+    {
+     "name": "72-Hour Survival Blueprint (Essential)",
+     "kind": "e-book",
+     "price": "special offer $12.00",
+     "domain": "systeme.io",
+     "free": false
+    }
+   ]
+  },
+  "UC5rpEgl1KskEYLFN3gZxMiw": {
+   "name": "Emmett Boone Prepping",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Blackout Playbook (353 pages) [e-book] — $37 — blackout-playbook.netlify.app -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Blackout Playbook (353 pages)",
+     "kind": "e-book",
+     "price": "$37",
+     "domain": "blackout-playbook.netlify.app -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UC5jSwGDIa9XgYAqd-5LWooQ": {
+   "name": "Eli Forgotten Ways",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Forgotten Cooling System (full bundle) [e-book bundle] — $97 — eliforgottenways.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Forgotten Cooling System (full bundle)",
+     "kind": "e-book bundle",
+     "price": "$97",
+     "domain": "eliforgottenways.com",
+     "free": false
+    }
+   ]
+  },
+  "UCVkVhwXnattecHEyw7xSIJA": {
+   "name": "Old Ways Restored",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Old House Ledger [e-book] — $27 (Gumroad) — oldwaysrestored.gumroad.com",
+    "The Passive Cooling Vault (68 pages) [e-book] — $57 — oldwaysrestored.com",
+    "The Fan Country Test [free printable] — free — oldwaysrestored.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Old House Ledger",
+     "kind": "e-book",
+     "price": "$27 (Gumroad)",
+     "domain": "oldwaysrestored.gumroad.com",
+     "free": false
+    },
+    {
+     "name": "The Passive Cooling Vault (68 pages)",
+     "kind": "e-book",
+     "price": "$57",
+     "domain": "oldwaysrestored.com",
+     "free": false
+    },
+    {
+     "name": "The Fan Country Test",
+     "kind": "free printable",
+     "price": "free",
+     "domain": "oldwaysrestored.com",
+     "free": true
+    }
+   ]
+  },
+  "UCAhWuypQ5cwuZ22oMDOTEeQ": {
+   "name": "Outside In",
+   "note": "software download links",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCAe1DFdhgDxmhzuaCxjzz6A": {
+   "name": "Earl Sizemore",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The $0-Bill House Protocol [e-book] — $27 — liibro.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The $0-Bill House Protocol",
+     "kind": "e-book",
+     "price": "$27",
+     "domain": "liibro.com",
+     "free": false
+    }
+   ]
+  },
+  "UCOs-UENpz7ovjph0Ok6-Pnw": {
+   "name": "Dick Colter Winterproof",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Alaskan Way · Everything 66 Alaska Winters Taught Me [e-book] — $37 launch price ($47 later) — dickcolter.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Alaskan Way · Everything 66 Alaska Winters Taught Me",
+     "kind": "e-book",
+     "price": "$37 launch price ($47 later)",
+     "domain": "dickcolter.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCEInLGzWBsSsI5UVb4NowUQ": {
+   "name": "Donna Fixes",
+   "note": "free chapter too",
+   "add": [],
+   "own_products": [
+    "Donna's Home Book (large-print edition 2026) [e-book] — $9.99 (was $19.99) — donnafixes.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Donna's Home Book (large-print edition 2026)",
+     "kind": "e-book",
+     "price": "$9.99 (was $19.99)",
+     "domain": "donnafixes.com",
+     "free": false
+    }
+   ]
+  },
+  "UCIST8dJWrSej2lThAuJlhYw": {
+   "name": "Linda Fairbrook",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Prepared Home (and the five-book collection) [e-books] — $27 launch price for the collection (then $49) — lindafairbrook.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Prepared Home (and the five-book collection)",
+     "kind": "e-books",
+     "price": "$27 launch price for the collection (then $49)",
+     "domain": "lindafairbrook.com",
+     "free": false
+    }
+   ]
+  },
+  "UCMXFneU1qRWt9X_lNc36Zdw": {
+   "name": "Elias Mercer",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Old Ways Handbook (83 chapters) [e-book] — $27 — eliasmercer.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Old Ways Handbook (83 chapters)",
+     "kind": "e-book",
+     "price": "$27",
+     "domain": "eliasmercer.com",
+     "free": false
+    }
+   ]
+  },
+  "UCX35pnn1Z4rOKD__K_gMn-A": {
+   "name": "BIG TICKET TRUTH",
+   "note": "source links only",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCakhWWxvy7-kI3NfetLetPw": {
+   "name": "Earl Appalachia",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Man They Call When the Power Goes Out (93 methods) [e-book] — $47 — earl.myreads.store -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Man They Call When the Power Goes Out (93 methods)",
+     "kind": "e-book",
+     "price": "$47",
+     "domain": "earl.myreads.store -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UC7XxBUQRmL32Kzr5ozkNfLg": {
+   "name": "Attic Airflow Lab",
+   "note": "source links only",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC5ZN45vx-wx9IjLsTq90tDA": {
+   "name": "Jhon Survival Mode",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Blackout Winter Plan [e-book] — $27 — jhonsurvivalmode.netlify.app -> payhip",
+    "The Complete Survival Mode Library [e-book bundle] — $97 — jhonsurvivalmode.netlify.app"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Blackout Winter Plan",
+     "kind": "e-book",
+     "price": "$27",
+     "domain": "jhonsurvivalmode.netlify.app -> payhip",
+     "free": false
+    },
+    {
+     "name": "The Complete Survival Mode Library",
+     "kind": "e-book bundle",
+     "price": "$97",
+     "domain": "jhonsurvivalmode.netlify.app",
+     "free": false
+    }
+   ]
+  },
+  "UCDW0n--SimQsdCQLAxzkwKA": {
+   "name": "TheUnknownMarks",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Winter Bill Manual (5 books) [e-books] — $47 (was $105) — theunknownmark.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Winter Bill Manual (5 books)",
+     "kind": "e-books",
+     "price": "$47 (was $105)",
+     "domain": "theunknownmark.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCYDOzPpu1G0-WYJtIwKJwUA": {
+   "name": "Jake Holloway",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Before the First Frost — 181 tricks for a warm house and a lower heating bill [e-book (51 pages)] — page shows $15 and $25 (launch price; not tied in the text) — beforethefirstfrost.com -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Before the First Frost — 181 tricks for a warm house and a lower heating bill",
+     "kind": "e-book (51 pages)",
+     "price": "page shows $15 and $25 (launch price; not tied in the text)",
+     "domain": "beforethefirstfrost.com -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UC1lkFTykE3RqZlXqdGUnTzw": {
+   "name": "Hank Dockery",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Hank Dockery Books (set) [e-books] — $37 launch price (then $69) — hankdockery.com -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Hank Dockery Books (set)",
+     "kind": "e-books",
+     "price": "$37 launch price (then $69)",
+     "domain": "hankdockery.com -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UCxVLjOSnuB9vtDCMsEl_9lg": {
+   "name": "Shelved Science",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Hal's Guides (three books) [e-books] — $45 launch price ($59 for all three) — halthebricklayer.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Hal's Guides (three books)",
+     "kind": "e-books",
+     "price": "$45 launch price ($59 for all three)",
+     "domain": "halthebricklayer.com",
+     "free": false
+    }
+   ]
+  },
+  "UCTM_XE6E3z7byzLLgnBASmQ": {
+   "name": "Ray Donnelly DIY",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "How to Keep Your Car Alive Forever (\"147 Secrets Mechanics Don't Want You to Know\") [e-book] — $37 — keepyourcaralive.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "How to Keep Your Car Alive Forever (\"147 Secrets Mechanics Don't Want You to Know\")",
+     "kind": "e-book",
+     "price": "$37",
+     "domain": "keepyourcaralive.com",
+     "free": false
+    }
+   ]
+  },
+  "UC4ri6iP33kCy7_cPDZr2cfQ": {
+   "name": "Gary Miller",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Complete Home Preparedness Plan [e-book] — $29.99 (was $59.99) — garymillerprep.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Complete Home Preparedness Plan",
+     "kind": "e-book",
+     "price": "$29.99 (was $59.99)",
+     "domain": "garymillerprep.com",
+     "free": false
+    }
+   ]
+  },
+  "UCZcEViKVYurpsG2oosAgZyQ": {
+   "name": "Under Your Home",
+   "note": "free web guide on yarddrainagefixes.com",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCoreRxzSj2qK18IXgtwColg": {
+   "name": "Gene Halvorsen",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "A Thousand Cold Houses (154 pages) [e-book] — $37 launch price, ends October 31, 2026, then $59 — genehalvorsen.com (Stripe)"
+   ],
+   "own_products_detail": [
+    {
+     "name": "A Thousand Cold Houses (154 pages)",
+     "kind": "e-book",
+     "price": "$37 launch price, ends October 31, 2026, then $59",
+     "domain": "genehalvorsen.com (Stripe)",
+     "free": false
+    }
+   ]
+  },
+  "UCIR8M8d3GledOdl-jtOMmIA": {
+   "name": "Japanese Offgrid Survival",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Japanese Blackout Home [e-book] — price not found (Payhip blocked) — payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Japanese Blackout Home",
+     "kind": "e-book",
+     "price": "price not found (Payhip blocked)",
+     "domain": "payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UCAKUBWe7In76iFbhU3ZgHJA": {
+   "name": "Keith Smith",
+   "note": "calendly meeting booking",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCXzUc27pNwYfbjrow8jjbEw": {
+   "name": "Practical Home Energy",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Energy-Saving Manual (508-page PDF) [e-book] — $27 launch price (was $47) — thepracticalhomeenergy.site -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Energy-Saving Manual (508-page PDF)",
+     "kind": "e-book",
+     "price": "$27 launch price (was $47)",
+     "domain": "thepracticalhomeenergy.site -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCD8R4bQk4aCKTh0R1FIw1DA": {
+   "name": "Simple Savings at Home",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Home Bills & Savings Binder [web app + printable PDF] — $47 one-time — juliehartley.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Home Bills & Savings Binder",
+     "kind": "web app + printable PDF",
+     "price": "$47 one-time",
+     "domain": "juliehartley.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UCOZR-1IqsAer9wzlvFgb4mA": {
+   "name": "AC Service Tech LLC",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Mini Split Book and E-Book [book + e-book] — page lists $39.99 / $49.99 / $99.99 (formats not matched) — acservicetech.com",
+    "Refrigerant Charging Book and E-Book (A/C BOOK) [book + e-book] — page lists $39.99 / $49.99 / $99.99 (formats not matched) — acservicetech.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Mini Split Book and E-Book",
+     "kind": "book + e-book",
+     "price": "page lists $39.99 / $49.99 / $99.99 (formats not matched)",
+     "domain": "acservicetech.com",
+     "free": false
+    },
+    {
+     "name": "Refrigerant Charging Book and E-Book (A/C BOOK)",
+     "kind": "book + e-book",
+     "price": "page lists $39.99 / $49.99 / $99.99 (formats not matched)",
+     "domain": "acservicetech.com",
+     "free": false
+    }
+   ]
+  },
+  "UCdLlUhD9LUGm0-NTYDASPFA": {
+   "name": "HVAC School",
+   "note": "",
+   "add": [
+    "app"
+   ],
+   "own_products": [
+    "HVAC School app [app] — price not found — hvacrschool.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "HVAC School app",
+     "kind": "app",
+     "price": "price not found",
+     "domain": "hvacrschool.com",
+     "free": false
+    }
+   ]
+  },
+  "UCWmlRLAOpx9f1t_cVkBx8-g": {
+   "name": "Google Nest",
+   "note": "brand",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCiDg_Mo6aJAOEnlGI4iilQw": {
+   "name": "AwesomeFramers",
+   "note": "Part 107 drone course link (\"Save $100 with this link\")",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCtdNnHQQeUXT0H1tsRuJqtQ": {
+   "name": "A2Z Construction",
+   "note": "third-party masterclass",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCf0mHkUi_xiAdb97QnecFAA": {
+   "name": "Magic Touch: Fire & Air",
+   "note": "Phoenix installer, \"Book online\"",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCIo1gaS5cLsCtgaCLhi08cg": {
+   "name": "NS Builders",
+   "note": "Modern Craftsman newsletter",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCmFkUrOFd_FaASmI9HysA3g": {
+   "name": "MEP Academy",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "HVAC Training & Courses (e.g. Certified HVAC Piping Estimator Course) [courses] — $39-$795 — courses.mepacademy.com",
+    "HVAC & Plumbing - Commercial Estimating Spreadsheet (and other spreadsheets) [spreadsheet] — $245 (Gumroad) — mepacademy.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "HVAC Training & Courses (e.g. Certified HVAC Piping Estimator Course)",
+     "kind": "courses",
+     "price": "$39-$795",
+     "domain": "courses.mepacademy.com",
+     "free": false
+    },
+    {
+     "name": "HVAC & Plumbing - Commercial Estimating Spreadsheet (and other spreadsheets)",
+     "kind": "spreadsheet",
+     "price": "$245 (Gumroad)",
+     "domain": "mepacademy.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UC8w9GqZ3jWJlIl8GwwiW7-A": {
+   "name": "Wickes",
+   "note": "retailer brand",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCIdzZrKCdyNf1Oh1cGjSYnA": {
+   "name": "Crawl Space Ninja",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "DIY store (Mold Test Kit, mold cleaner, fogger) [own physical products] — price not found (product pages 404) — diy.crawlspaceninja.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "DIY store (Mold Test Kit, mold cleaner, fogger)",
+     "kind": "own physical products",
+     "price": "price not found (product pages 404)",
+     "domain": "diy.crawlspaceninja.com",
+     "free": false
+    }
+   ],
+   "contractor": "y"
+  },
+  "UCIgwmAZ3giU5QVV882LdacA": {
+   "name": "Zach of All Trades",
+   "note": "CourseCareers referral links",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCqH89ezsE1REn1cPXnKfu8g": {
+   "name": "Blue Collar Edu",
+   "note": "CourseCareers referral links",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCeO2QdRNK3y6Srm8SpFaeTw": {
+   "name": "Hook Agency",
+   "note": "own marketing agency (\"Book here for $1,000 off\")",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCiVCQ4sdoDjRszGC606nGIQ": {
+   "name": "PEX Universe",
+   "note": "brand's own store",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCKDkGhLRlzs1bV1tmeokcNQ": {
+   "name": "Adrian Garcia",
+   "note": "Uppbeat music link (discount)",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCam5-STAaS2ddkKEYF9w8RA": {
+   "name": "Koolin’ with Krauss",
+   "note": "RISION thermal camera link",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCF4bLsd3ltzI0hXOoEtCEoA": {
+   "name": "Digital Constructive",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "California contractor license course [course] — $295 Basic / $395 Crash Course — digitalconstructive.com",
+    "Free Course [free course] — free — digitalconstructive.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "California contractor license course",
+     "kind": "course",
+     "price": "$295 Basic / $395 Crash Course",
+     "domain": "digitalconstructive.com",
+     "free": false
+    },
+    {
+     "name": "Free Course",
+     "kind": "free course",
+     "price": "free",
+     "domain": "digitalconstructive.com",
+     "free": true
+    }
+   ]
+  },
+  "UC7fmaDG-Q4ZLKSCmIkgMVWA": {
+   "name": "Nighthawk HVAC",
+   "note": "CourseCareers referral link",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC8ZWT3Qi3UbBK2oBi2ymyOA": {
+   "name": "Insight Control System",
+   "note": "own blog post",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC3A49fGGkMo2RwdddC35Tiw": {
+   "name": "Baxi - sustainable heating and hot water solutions",
+   "note": "manufacturer training",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCDD5Nf06Rw4aHGoHPi__yIw": {
+   "name": "eMotors Direct",
+   "note": "retailer brand",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCVdf0x94g-t4zIY5oGjma3g": {
+   "name": "Fire & Ice Home Services",
+   "note": "learning center on the company site",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCvqYNMZq4c2sTztlX7ZqeNg": {
+   "name": "HVACmillionaire",
+   "note": "spot check 2026-10-26 also found amazon.com links \"Busyness-Busin...\" and \"Go-Make-Money-...\" (book titles cut off; authorship not confirmed)",
+   "add": [
+    "consulting"
+   ],
+   "own_products": [
+    "his book (\"Grab my book to grow your business\") [book (Amazon)] — price not found — a.co",
+    "THE MOMENT | HVAC MASTERY (\"Get The complete offer\") [coaching program] — price not found — themoment.kit.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "his book (\"Grab my book to grow your business\")",
+     "kind": "book (Amazon)",
+     "price": "price not found",
+     "domain": "a.co",
+     "free": false
+    },
+    {
+     "name": "THE MOMENT | HVAC MASTERY (\"Get The complete offer\")",
+     "kind": "coaching program",
+     "price": "price not found",
+     "domain": "themoment.kit.com",
+     "free": false
+    }
+   ]
+  },
+  "UC1Ox1WqBLGR6GXDiEDDz3Hw": {
+   "name": "Alternative Heating & Supplies",
+   "note": "retailer brand",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCHdJzcy6XBDlTv9nbh9s3Vw": {
+   "name": "John Wilson | Owned and Operated",
+   "note": "Service Scalers, Quick Staffers, Avoca (contractor-business sponsors)",
+   "add": [
+    "sponsor"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCMoYmd1aUyHkkw0ZkiO2wTw": {
+   "name": "eFIXX ENERGY",
+   "note": "GTEC insulation course (partner)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCcv3wg9ehzTs3UNPtBM88Fg": {
+   "name": "HVAC Greatness by Pete Ramsey",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "HVAC Services Pricing Workshop [course] — price not found (discount code sub30atoz, 30% off) — hvac-greatness.thinkific.com",
+    "HVAC \"Level of Service\" Flat Rate Price Book [price book] — price not found — hvac-greatness.thinkific.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "HVAC Services Pricing Workshop",
+     "kind": "course",
+     "price": "price not found (discount code sub30atoz, 30% off)",
+     "domain": "hvac-greatness.thinkific.com",
+     "free": false
+    },
+    {
+     "name": "HVAC \"Level of Service\" Flat Rate Price Book",
+     "kind": "price book",
+     "price": "price not found",
+     "domain": "hvac-greatness.thinkific.com",
+     "free": false
+    }
+   ]
+  },
+  "UCWqoUvmG3PDzKpx_oxn5SIQ": {
+   "name": "RetroFoamofMichigan",
+   "note": "brand buying guide",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCLUbkz2po22FB2Sz1PBsecw": {
+   "name": "American Window Concepts",
+   "note": "\"Build a Multi-Million Dollar Contracting Business\" sign-up (kit.com)",
+   "add": [
+    "newsletter"
+   ],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCbRUa-hRUKYQbgSqo3ILq4w": {
+   "name": "Powlas HVAC",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "his book (\"Buy My Book\") [book (Amazon)] — price not found — amzn.to"
+   ],
+   "own_products_detail": [
+    {
+     "name": "his book (\"Buy My Book\")",
+     "kind": "book (Amazon)",
+     "price": "price not found",
+     "domain": "amzn.to",
+     "free": false
+    }
+   ]
+  },
+  "UCn6U4wQe3DPYFFp4kiy_z0w": {
+   "name": "Tim DeStasio HVAC",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Manual J Fundamentals (or the Season Pass) [live classes] — $50 for the first class (Eventbrite) — eventbrite.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Manual J Fundamentals (or the Season Pass)",
+     "kind": "live classes",
+     "price": "$50 for the first class (Eventbrite)",
+     "domain": "eventbrite.com",
+     "free": false
+    }
+   ]
+  },
+  "UCtcIJto3pbwTywD9PtJVgQw": {
+   "name": "WarmlyYours",
+   "note": "brand",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC2Zt04YT6VJeKfOBjuz9E1w": {
+   "name": "HVAC Pro Blog",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Free Rule of Duct Design PDF [free PDF] — free — ck.page"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Free Rule of Duct Design PDF",
+     "kind": "free PDF",
+     "price": "free",
+     "domain": "ck.page",
+     "free": true
+    }
+   ]
+  },
+  "UCXyM5L5Kf4ejlbtjHb8YTsA": {
+   "name": "Miles Pellet Stoves",
+   "note": "pellet stove repair and parts business",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCI0twE6lRXqBhOcNPzy7o7A": {
+   "name": "Mechanical PE Exam Prep",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "FE Mechanical Exam Prep Course [course] — price not found (page blocked) — bit.ly"
+   ],
+   "own_products_detail": [
+    {
+     "name": "FE Mechanical Exam Prep Course",
+     "kind": "course",
+     "price": "price not found (page blocked)",
+     "domain": "bit.ly",
+     "free": false
+    }
+   ]
+  },
+  "UCwmXHahFSti0E9jgax6px3Q": {
+   "name": "Fuse Service: HVAC, Electrical & Plumbing",
+   "note": "San Jose contractor, \"Book your visit\"",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UCJnBJy9jSIRy9dbtqyMW_Uw": {
+   "name": "HVACJess - The HVAC Diaries",
+   "note": "manufacturer product links",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCfsNbViu-G8TnbteFo8RCxQ": {
+   "name": "ProbeLem®",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "ProbeLem SkillVault v1 [digital pack] — $49 one-time — skills.probelem.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "ProbeLem SkillVault v1",
+     "kind": "digital pack",
+     "price": "$49 one-time",
+     "domain": "skills.probelem.com",
+     "free": false
+    }
+   ]
+  },
+  "UCrkPKl9wg6Ev_F1QNoobxzA": {
+   "name": "HVAC Guide for Pros",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "New HVAC Guide (and growth groups) [online guide] — $29 limited time (\"$79 x $29\") — newhvacguide.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "New HVAC Guide (and growth groups)",
+     "kind": "online guide",
+     "price": "$29 limited time (\"$79 x $29\")",
+     "domain": "newhvacguide.com",
+     "free": false
+    }
+   ]
+  },
+  "UCgx4PS7fLbVDPWwPhGYQaXQ": {
+   "name": "Foam University by RetroFoam",
+   "note": "brand buying guide",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCRmPv4sdRiPqyWXqPDVWNKg": {
+   "name": "HVAC Technician Sales Secrets",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Book For Sales Scripting [book] — price not found (site did not load) — salesscriptingbook.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Book For Sales Scripting",
+     "kind": "book",
+     "price": "price not found (site did not load)",
+     "domain": "salesscriptingbook.com",
+     "free": false
+    }
+   ]
+  },
+  "UCK8wPHx1qOqh0m37UiD6epQ": {
+   "name": "Adam FUSE MAN",
+   "note": "Dakota Prep course link (third party)",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCOa9595DxOeB3wJ83XFXuMw": {
+   "name": "Brandon Does HVAC",
+   "note": "CourseCareers referral link (\"Get $50 OFF\")",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCdWbQy-Ze08piGmVm1_sQ5w": {
+   "name": "Buy Insulation Online",
+   "note": "retailer brand",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCwyVsc47KSRZVw3WWb2k3DA": {
+   "name": "MichaelJamesJohnson",
+   "note": "",
+   "add": [
+    "membership"
+   ],
+   "own_products": [
+    "HVAC Profit Lab (Skool: coaching, courses, pricing tools) [paid community/course] — $497 shown (period not captured) — skool.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "HVAC Profit Lab (Skool: coaching, courses, pricing tools)",
+     "kind": "paid community/course",
+     "price": "$497 shown (period not captured)",
+     "domain": "skool.com",
+     "free": false
+    }
+   ]
+  },
+  "UCNXmHUxNpoa_DiC54VxkJjg": {
+   "name": "HVAC 2.0",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "free quote onboarding [free course] — free — mykajabi.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "free quote onboarding",
+     "kind": "free course",
+     "price": "free",
+     "domain": "mykajabi.com",
+     "free": true
+    }
+   ]
+  },
+  "UCz-HGcQ9vXaBtkXPMIOtOmA": {
+   "name": "Learn Engineering MEP",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Cooling Tower Book; Chiller Complete Book; HVAC Commissioning Book; HVAC Installation Complete Guide; AHU, FCU & CSU Master Guide; ASHRAE HVAC Master Guide [e-books (6)] — price not found (Payhip blocked) — payhip.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Cooling Tower Book; Chiller Complete Book; HVAC Commissioning Book; HVAC Installation Complete Guide; AHU, FCU & CSU Master Guide; ASHRAE HVAC Master Guide",
+     "kind": "e-books (6)",
+     "price": "price not found (Payhip blocked)",
+     "domain": "payhip.com",
+     "free": false
+    }
+   ]
+  },
+  "UCO84ObwRL_Vk-DW8VDgJTdQ": {
+   "name": "WarmZilla",
+   "note": "retailer blog",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCDx7t_XxrIcwRU9DOmJqToA": {
+   "name": "Rosa The Female HVAC Tech",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Gumroad store (products not named in the description) [digital products] — price not found — rosafemalehvactech.gumroad.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Gumroad store (products not named in the description)",
+     "kind": "digital products",
+     "price": "price not found",
+     "domain": "rosafemalehvactech.gumroad.com",
+     "free": false
+    }
+   ]
+  },
+  "UCWp7BGt8Bq68IuAuOfWJmJA": {
+   "name": "Service-First-HVAC-Solutions",
+   "note": "source link (EPA)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UC7pgNPrndhM_ptJCljbTnHg": {
+   "name": "Aced It! Cooling & Heating",
+   "note": "online booking (housecallpro)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "y"
+  },
+  "UC0Nyjfbj69iZOOeo6d4Whwg": {
+   "name": "Clade Engineering Systems",
+   "note": "brand brochure",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UCyy0aTsuGJWq66Fx948IqsQ": {
+   "name": "No Degree Needed",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Complete HVAC License Playbook 2026 [e-book] — $30 (Gumroad) — tinyurl.com -> gumroad",
+    "Complete CDL Starter Kit 2026 [e-book bundle] — $30 — gumroad",
+    "Complete NEC Exam Cheat Sheet 2026 [e-book] — $19 — gumroad",
+    "Complete Plumbing Playbook 2026 [e-book] — price not found (link 404) — tinyurl.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Complete HVAC License Playbook 2026",
+     "kind": "e-book",
+     "price": "$30 (Gumroad)",
+     "domain": "tinyurl.com -> gumroad",
+     "free": false
+    },
+    {
+     "name": "Complete CDL Starter Kit 2026",
+     "kind": "e-book bundle",
+     "price": "$30",
+     "domain": "gumroad",
+     "free": false
+    },
+    {
+     "name": "Complete NEC Exam Cheat Sheet 2026",
+     "kind": "e-book",
+     "price": "$19",
+     "domain": "gumroad",
+     "free": false
+    },
+    {
+     "name": "Complete Plumbing Playbook 2026",
+     "kind": "e-book",
+     "price": "price not found (link 404)",
+     "domain": "tinyurl.com",
+     "free": false
+    }
+   ]
+  },
+  "UC3uixvUe3nanWqcZCZHSscg": {
+   "name": "Lars Halvorsen",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Warm Side (three books) [e-books] — $29 launch offer for all three; library $37 — larshalvorsen.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Warm Side (three books)",
+     "kind": "e-books",
+     "price": "$29 launch offer for all three; library $37",
+     "domain": "larshalvorsen.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCXfoJI9Xo1avP75lPBaXLxw": {
+   "name": "The Hillbilly Way",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Hillbilly Way (3 books) [e-books] — $59 (was $81) — thehillbillyway.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Hillbilly Way (3 books)",
+     "kind": "e-books",
+     "price": "$59 (was $81)",
+     "domain": "thehillbillyway.com",
+     "free": false
+    }
+   ]
+  },
+  "UC_z_mhZvcq8fvyaSuO2jrrg": {
+   "name": "Green Where It Suits",
+   "note": "links to The Hillbilly Way (thehillbillyway.com/v/wonders) and The $0 Household Bible (householdbible.com), the product sites of the channels The Hillbilly Way and Wonders; read as cross-promotion, owner not stated",
+   "add": [
+    "affiliate"
+   ],
+   "own_products": [],
+   "own_products_detail": []
+  },
+  "UClVbW933G0LhpQcqfE-2Pqg": {
+   "name": "Kate Sullivan Ready Living",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Kate Sullivan's Home Emergency Handbook [e-book] — $29.99 one time — katesullivanready.com -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Kate Sullivan's Home Emergency Handbook",
+     "kind": "e-book",
+     "price": "$29.99 one time",
+     "domain": "katesullivanready.com -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UC7xrSTuKm8YPd2l6WPgMt-g": {
+   "name": "TheCheapFix",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Hydrogen Peroxide Handbook (55 pages) [e-book] — $49 — thecheapfix.netlify.app -> gumroad"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Hydrogen Peroxide Handbook (55 pages)",
+     "kind": "e-book",
+     "price": "$49",
+     "domain": "thecheapfix.netlify.app -> gumroad",
+     "free": false
+    }
+   ]
+  },
+  "UCg7DfgK6U8Z5DXPFouF98EQ": {
+   "name": "WiseMoney",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "Prepping Guide 2026 (The Household Readiness Manual) [e-book] — $30 one-time — preppingguide2026.shop"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Prepping Guide 2026 (The Household Readiness Manual)",
+     "kind": "e-book",
+     "price": "$30 one-time",
+     "domain": "preppingguide2026.shop",
+     "free": false
+    }
+   ]
+  },
+  "UCUBvvBHGf6WOlc1MVfoZdZQ": {
+   "name": "Old Maine Firewood",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Old Maine Heating Manual [e-book] — $27 — vercel.app -> payhip"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Old Maine Heating Manual",
+     "kind": "e-book",
+     "price": "$27",
+     "domain": "vercel.app -> payhip",
+     "free": false
+    }
+   ]
+  },
+  "UC_7n21RGpsAo9i2N7hN_uAA": {
+   "name": "Our Self-Reliant Life",
+   "note": "",
+   "add": [
+    "merch"
+   ],
+   "own_products": [
+    "Off-Grid Guides (Ko-fi shop) [guides] — price not found (Ko-fi blocked) — ko-fi.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "Off-Grid Guides (Ko-fi shop)",
+     "kind": "guides",
+     "price": "price not found (Ko-fi blocked)",
+     "domain": "ko-fi.com",
+     "free": false
+    }
+   ]
+  },
+  "UC0PRT7zNVdZu060KtdaWsiw": {
+   "name": "Walter's Tool Talk",
+   "note": "",
+   "add": [],
+   "own_products": [
+    "The Vintage Tackle collection (collector guides) [e-books] — bundle $79; guide $19 (was $27) — walterstooltalk.com"
+   ],
+   "own_products_detail": [
+    {
+     "name": "The Vintage Tackle collection (collector guides)",
+     "kind": "e-books",
+     "price": "bundle $79; guide $19 (was $27)",
+     "domain": "walterstooltalk.com",
+     "free": false
+    }
+   ]
+  },
+  "UCSS6u9ZmKOg-fIQoU71Vtgg": {
+   "name": "AprilAire",
+   "note": "manufacturer (phone + \"call us today\" are product support, not a contractor)",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "n (manufacturer)"
+  },
+  "UCQEFQJGOpz38hEQiQX8cJKA": {
+   "name": "Obadiah's Woodstoves",
+   "note": "stove retailer",
+   "add": [],
+   "own_products": [],
+   "own_products_detail": [],
+   "contractor": "n (retailer)"
+  }
+ }
+}

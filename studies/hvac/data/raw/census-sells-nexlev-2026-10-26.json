@@ -1,0 +1,371 @@
+{
+ "pulled": "2026-10-26 (07:15-07:25 UTC)",
+ "source": "NexLev get_channel_promotions, query=channelProfile, creatorOwnedOnly=true, limit=5 (Word of Advice TV: full profile). NexLev's own scrape dates are in lastScraped. Not get_channel_promotions_realtime.",
+ "picked": "the 29 biggest tier A channels by subs in channels-master-2026-10-24.csv (Word of Advice TV to DIY Tinker), Ray Dutton's Garage, and the 3 biggest A-D channels (The Engineering Mindset, Home RenoVision DIY, Project Farm). Tier A rather than A-D because the biggest A-D rows are mostly off-niche (Google Help, Pastor Jerry Eze).",
+ "note": "scraped=false means NexLev has not scraped the channel; it does NOT mean the channel sells nothing.",
+ "channels": [
+  {
+   "id": "UCekKmUEJxBRx5tI1tUyHOqA",
+   "name": "Word of Advice TV",
+   "scraped": true,
+   "lastScraped": "2026-08-21",
+   "overview": {
+    "sells": false,
+    "byDealType": {
+     "affiliate": 16
+    },
+    "storeUrls": []
+   },
+   "own_products": [],
+   "examples_third_party": [
+    "Amazon Tools and Parts List https://amzn.to/2KjEaHo",
+    "Full Amazon Tools List https://amzn.to/2Q3QTOA",
+    "Hard Start Kit https://amzn.to/4eYkkgL",
+    "521 Kit https://amzn.to/3RdXyJX",
+    "camera gear (Sony A7SIII, Sigma 24-70mm, Rode, GoPro) via amzn.to"
+   ]
+  },
+  {
+   "id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "name": "The Engineering Mindset",
+   "scraped": true,
+   "lastScraped": "2026-08-22",
+   "overview": {
+    "sells": true,
+    "byDealType": {
+     "sponsorship": 3,
+     "selfPromo": 7,
+     "affiliate": 15
+    }
+   },
+   "own_products": [
+    {
+     "name": "Joule Thief Electronics Kit",
+     "price": "$39.99",
+     "url": "https://engineeringmindset.store"
+    },
+    {
+     "name": "Why Not Two-Phase? Mug",
+     "price": "$15.99",
+     "url": "https://engineeringmindset.store/products/why-not-two-phase-mug"
+    },
+    {
+     "name": "Engineering Mindset mugs",
+     "price": null,
+     "url": "https://engineeringmindset.store/pages/mugs"
+    },
+    {
+     "name": "The Engineering Mindset Patreon membership",
+     "price": "€2 /month",
+     "url": "https://patreon.com/theengineeringmindset"
+    },
+    {
+     "name": "Single, Two and Three Phase Power Calculator Bundle",
+     "price": "$4.00",
+     "url": "https://tinyurl.com/2-Phase-Excel"
+    }
+   ]
+  },
+  {
+   "id": "UCnorhjQR4zJkT7AVNhu395Q",
+   "name": "Home RenoVision DIY",
+   "scraped": true,
+   "lastScraped": "2026-08-21",
+   "overview": {
+    "sells": true,
+    "byDealType": {
+     "selfPromo": 3,
+     "affiliate": 9,
+     "sponsorship": 7,
+     "partnerMention": 3
+    }
+   },
+   "own_products": [
+    {
+     "name": "Home RenoVision DIY Newsletter",
+     "price": null,
+     "url": "https://homerenovisiondiy.com"
+    },
+    {
+     "name": "DIY Crew (channel membership)",
+     "price": "5$/month",
+     "url": "https://youtube.com/channel/UCnorhjQR4zJkT7AVNhu395Q/join"
+    }
+   ]
+  },
+  {
+   "id": "UC2rzsm1Qi6N1X-wuOg_p0Ng",
+   "name": "Project Farm",
+   "scraped": true,
+   "lastScraped": "2026-08-20",
+   "overview": {
+    "sells": true,
+    "byDealType": {
+     "affiliate": 33,
+     "selfPromo": 2
+    }
+   },
+   "own_products": [
+    {
+     "name": "Very Impressive! T-Shirt",
+     "price": "$29.95",
+     "url": "https://project-farm.com"
+    },
+    {
+     "name": "Project Farm Patreon membership",
+     "price": "€1 /month",
+     "url": "https://patreon.com/projectfarm",
+     "patreon_members": 5515
+    }
+   ]
+  },
+  {
+   "id": "UCPJ4MHBwRVAtATykjXrEElQ",
+   "name": "The Outspoken Engineer",
+   "scraped": false
+  },
+  {
+   "id": "UC2w60mhlxFmAhoi2oSDcEng",
+   "name": "The DIY HVAC Guy",
+   "scraped": true,
+   "lastScraped": "2026-08-18",
+   "overview": {
+    "sells": true,
+    "byDealType": {
+     "affiliate": 7,
+     "promo": 1,
+     "partnerMention": 1,
+     "selfPromo": 1
+    }
+   },
+   "own_products": [
+    {
+     "name": "DIY HVAC (serviceLeadgen)",
+     "price": null,
+     "url": "https://diyhvac.org"
+    }
+   ]
+  },
+  {
+   "id": "UCXrPJCFTIo_RSMBi3U_BZLA",
+   "name": "The Home Service Pro",
+   "scraped": false
+  },
+  {
+   "id": "UCuMyjTVlkM4xZ5z_eSyoB1w",
+   "name": "Taddy Digest",
+   "scraped": false
+  },
+  {
+   "id": "UCxtixc8d5O4StEarROgY6Dw",
+   "name": "Richard Lloyd",
+   "scraped": false
+  },
+  {
+   "id": "UC5j2jKeDj5pkr-ie1TyMHQw",
+   "name": "HVAC Mechanic",
+   "scraped": true,
+   "lastScraped": "2026-08-23",
+   "overview": {
+    "sells": false,
+    "byDealType": {
+     "affiliate": 1
+    }
+   },
+   "own_products": [],
+   "examples_third_party": [
+    "O2 Sensor Removal Tool"
+   ]
+  },
+  {
+   "id": "UCp_5AZlvvW9jn6L4EZuCbNQ",
+   "name": "HVAC Guide for Homeowners",
+   "scraped": true,
+   "lastScraped": "2026-08-21",
+   "overview": {
+    "sells": true,
+    "byDealType": {
+     "sponsorship": 1,
+     "selfPromo": 4,
+     "affiliate": 8,
+     "partnerMention": 1
+    }
+   },
+   "own_products": [
+    {
+     "name": "New HVAC Guide",
+     "price": null,
+     "url": "https://www.newhvacguide.com/overview",
+     "type": "digitalProduct (NexLev: creator-owned HVAC buying guide)"
+    },
+    {
+     "name": "HVAC Financing",
+     "price": null,
+     "url": "https://www.newhvacguide.com/financing",
+     "type": "serviceLeadgen"
+    },
+    {
+     "name": "MasterMind Group",
+     "price": null,
+     "url": "https://www.newhvacguide.com/mastermindgroup",
+     "type": "community"
+    },
+    {
+     "name": "HVAC Guide monthly support",
+     "price": "$1 /month",
+     "url": "https://buymeacoffee.com/hvacguide"
+    }
+   ]
+  },
+  {
+   "id": "UCchpiPYTBEg4DpK6mKfYi2A",
+   "name": "grayfurnaceman",
+   "scraped": false
+  },
+  {
+   "id": "UCCEkrdkurnRF-gNh0h_61HA",
+   "name": "Allen Hart",
+   "scraped": false
+  },
+  {
+   "id": "UC0ACi7Dv2ca2JqwkoOSdZPQ",
+   "name": "Live Free",
+   "scraped": true,
+   "lastScraped": "2026-08-22",
+   "overview": {
+    "sells": false,
+    "byDealType": {}
+   },
+   "own_products": []
+  },
+  {
+   "id": "UCAn_HKnYFSombNl-Y-LjwyA",
+   "name": "Andrew W",
+   "scraped": false
+  },
+  {
+   "id": "UCDdo6Gg7lRRniMjLHkVWCzw",
+   "name": "Sam",
+   "scraped": false
+  },
+  {
+   "id": "UClQzzkUsVhH8VzFsj7vAL7A",
+   "name": "Tom Leeman",
+   "scraped": false
+  },
+  {
+   "id": "UCVyfrw6CcrxavbVBxviKiSQ",
+   "name": "The Thought Provocateur",
+   "scraped": false
+  },
+  {
+   "id": "UCMqBEHMJkdsyICgJ6BkgLHQ",
+   "name": "askmediy",
+   "scraped": false
+  },
+  {
+   "id": "UCRbha3ai17bUF2Ac6R6nRYw",
+   "name": "Lex Vance",
+   "scraped": false
+  },
+  {
+   "id": "UCPQm9KnUZ4VceIb-kZVVk7g",
+   "name": "HVAC Talkshow and Review For Homeowners & DIY",
+   "scraped": false
+  },
+  {
+   "id": "UCabMcJyGkNHMbKEV3CqdD_w",
+   "name": "Enduring Charm LLC",
+   "scraped": false
+  },
+  {
+   "id": "UClvneKYETPOEMkJPpJmvkUw",
+   "name": "Mark Jenkins",
+   "scraped": false
+  },
+  {
+   "id": "UCFxf3hjNRSQ706L3jgDYnBw",
+   "name": "Anti DIY HVAC",
+   "scraped": false
+  },
+  {
+   "id": "UCO4alIAsCWzFaJ414P9Mwcw",
+   "name": "TheDIYGuyDOTnet",
+   "scraped": false
+  },
+  {
+   "id": "UCsDr1SXysCD6_6Thz5FkpzQ",
+   "name": "David Jones",
+   "scraped": false
+  },
+  {
+   "id": "UClZT1TPdg5Hrx2HPmkALofw",
+   "name": "The Fixer 2",
+   "scraped": false
+  },
+  {
+   "id": "UCeSzwJbwcKgQ9iJAhcd7S4w",
+   "name": "Mark Ballard LTD, Professional Heating Engineer",
+   "scraped": false
+  },
+  {
+   "id": "UCZ_LO-R1nn9ETqfra26RulQ",
+   "name": "Tomkat Gas Training",
+   "scraped": false
+  },
+  {
+   "id": "UCMHKuqSCH081eumeubSiYBQ",
+   "name": "KungFuMaintenance",
+   "scraped": false
+  },
+  {
+   "id": "UCSwbmhtDybG3pV2QUzV8nBw",
+   "name": "TonaziTube",
+   "scraped": true,
+   "lastScraped": "2026-08-23",
+   "overview": {
+    "sells": false,
+    "byDealType": {
+     "partnerMention": 7
+    }
+   },
+   "own_products": []
+  },
+  {
+   "id": "UCoI5VGGLttqIv7ReYACsrNA",
+   "name": "DIY Tinker",
+   "scraped": false
+  },
+  {
+   "id": "UCvcKEgZcY9ZgEULZouaNAOA",
+   "name": "Ray Dutton's Garage",
+   "scraped": true,
+   "lastScraped": "2026-08-20",
+   "overview": {
+    "sells": true,
+    "monetizationTypes": [
+     "ebook"
+    ],
+    "byDealType": {
+     "selfPromo": 1
+    },
+    "storeUrls": [
+     "https://raydutton.com"
+    ]
+   },
+   "own_products": [
+    {
+     "name": "The HVAC Survival Guide",
+     "price": "$27",
+     "pricePeriod": "oneTime",
+     "type": "ebook",
+     "url": "https://raydutton.com",
+     "nexlev_description": "Creator-owned illustrated ebook; landing page states the $27 launch price and one-time instant download.",
+     "firstSeen": "2026-08-17",
+     "mentionCount": 4
+    }
+   ]
+  }
+ ],
+ "summary": "33 channels queried: 10 scraped by NexLev, 23 not scraped (no data). Of the 29 biggest tier A: 6 scraped, 23 not scraped."
+}

@@ -1,0 +1,456 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The HVAC Survival Guide · Ray Dutton</title>
+<style>
+:root{
+  --navy:#1f3a5f; --navy2:#15273d; --rust:#8f2a1a; --gold:#9a5a12; --gold2:#c69a4a;
+  --paper:#faf5ea; --tan:#ece0c6; --ink:#2a251d; --mut:#645d4f; --line:#cbb888; --green:#2e7d47;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif;color:var(--ink);background:var(--paper);line-height:1.66;font-size:19.5px}
+h1,h2,h3,h4{font-family:'Lora',Georgia,serif;font-weight:700;line-height:1.16;color:var(--navy)}
+.wrap{max-width:1140px;margin:0 auto;padding:0 26px}
+a{color:inherit;text-decoration:none}
+/* bars */
+.tagbar{background:var(--navy2);color:#cdbb92;text-align:center;font-family:'Lora',serif;letter-spacing:.26em;font-size:12.5px;padding:8px}
+.count{background:var(--navy2);color:#fbf3df;text-align:center;font-size:16px;padding:10px 16px;letter-spacing:.02em;font-family:'Lora',serif}
+.count b{color:var(--gold2)}.count .t{font-variant-numeric:tabular-nums;font-weight:700;color:#fff}
+.topnav{position:sticky;top:0;z-index:50;background:rgba(250,245,234,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+.topnav .wr{display:flex;align-items:center;justify-content:space-between;max-width:1140px;margin:0 auto;padding:11px 26px}
+.topnav .brand{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:800;color:var(--navy);font-size:16.5px;letter-spacing:.02em;line-height:1.15}
+.topnav .brand small{display:block;font-weight:600;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--mut);margin-top:3px}
+.topnav .navcta{font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:14px;background:var(--rust);color:#fff;padding:9px 18px;border-radius:6px}
+.topnav .navcta:hover{background:#7a2416}
+.btn{display:inline-block;background:var(--rust);color:#fff;font-family:'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:17.5px;padding:16px 38px;border-radius:6px;box-shadow:0 10px 26px rgba(28,43,70,.16);transition:transform .15s,box-shadow .15s,background .15s;letter-spacing:.02em}
+.btn:hover{transform:translateY(-1px);background:#7a2416;box-shadow:0 16px 32px rgba(28,43,70,.22)}
+.btn small{display:block;font-weight:500;font-size:13px;opacity:.9;margin-top:5px;letter-spacing:.02em}
+.btn.big{font-size:22px;padding:17px 40px}
+.btn.ghost{background:transparent;color:var(--navy);border:1.5px solid var(--navy);box-shadow:none}
+.btn.ghost:hover{background:var(--navy);color:#fff}
+/* section shell + LEFT header */
+.sec{padding:58px 0}
+.sec.thin{padding:40px 0}
+.sec.tan{background:var(--tan)}
+.sec.navy{background:var(--navy2);color:#e6dcc9}
+.head{max-width:1140px;margin:0 auto 30px;padding:0 26px}
+.kick{font-family:'Lora',serif;letter-spacing:.2em;color:var(--gold);font-size:14.5px;font-weight:700;margin-bottom:8px}
+.head h2{font-size:38px;margin-bottom:6px}
+.head .hsub{font-style:italic;color:var(--mut);font-size:19px;font-family:'Lora',serif;max-width:60ch}
+.sec.navy .kick{color:var(--gold2)}.sec.navy .head h2{color:#fff}.sec.navy .head .hsub{color:#c3b8a2}
+.rule{height:2px;width:46px;background:var(--gold2);margin-top:14px}
+/* hero */
+.hero{background:radial-gradient(75% 60% at 16% 0%,#fbf5e7,transparent)}
+.hero .wrap{display:grid;grid-template-columns:1fr .96fr;gap:44px;align-items:center;padding:48px 26px 50px}
+.hero .no{font-family:'Lora',serif;letter-spacing:.22em;color:var(--gold);font-size:13.5px;margin-bottom:14px}
+.hero .name{font-family:'Lora',serif;letter-spacing:.16em;color:var(--navy);font-size:15.5px;font-weight:700;margin-bottom:8px}
+.hero h1{font-size:47px;margin-bottom:14px}
+.hero h1 span{color:var(--rust)}
+.hero .sub{font-style:italic;color:var(--gold);font-size:20px;margin-bottom:16px;font-family:'Lora',serif}
+.hero p{font-size:18.5px;color:#4a4437;margin-bottom:22px;max-width:42ch}
+.hero .ctas{display:flex;gap:14px;flex-wrap:wrap}
+.hvacline{display:grid;grid-template-columns:repeat(3,1fr);margin-top:28px;border-top:1px solid var(--gold2);border-bottom:1px solid var(--gold2)}
+.hvacline .c{text-align:center;padding:15px 8px;border-right:1px solid var(--line)}
+.hvacline .c:last-child{border-right:none}
+.hvacline .c b{display:block;font-family:'Lora',serif;font-weight:700;font-size:20.5px;color:var(--navy);letter-spacing:.04em}
+.hvacline .c span{display:block;font-family:'Helvetica Neue',Arial,sans-serif;font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--mut);margin-top:5px}
+
+.hero .photo{text-align:center}
+.hero .photo img{width:100%;max-width:450px;border:6px solid #fcf9f2;border-radius:2px;box-shadow:0 0 0 1px rgba(31,58,95,.12),0 26px 50px rgba(20,28,48,.28);transition:transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .35s ease}
+.hero .photo img:hover{transform:scale(1.035) translateY(-5px);box-shadow:0 0 0 1px rgba(31,58,95,.16),0 42px 72px rgba(20,28,48,.42)}
+.hero .photo .cap{font-family:'Helvetica Neue',Arial,sans-serif;font-size:13px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--mut);margin-top:14px}
+/* ribbon (liked) */
+.ribbon{background:linear-gradient(180deg,var(--paper) 0%,#efe5cf 52%,var(--paper) 100%);color:var(--mut);text-align:center;padding:22px}
+.ribbon .items{display:flex;justify-content:center;gap:52px;flex-wrap:wrap;font-family:'Lora',serif;letter-spacing:.06em;font-size:18.5px}
+.ribbon b{color:var(--gold);letter-spacing:.14em}
+/* problem list (borderless, editorial) */
+.pain{max-width:1140px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:1fr 1fr;gap:0 46px}
+.pain .p{padding:16px 0;border-bottom:1px solid var(--line)}
+.pain .p b{color:var(--navy);font-family:'Lora',serif;font-size:18px}
+.pain .p span{display:block;color:var(--mut);font-size:16.5px;font-family:Georgia,serif;margin-top:3px}
+.bridge{max-width:820px;margin:30px auto 0;padding:0 26px;font-size:20.5px}
+.bridge b{color:var(--rust)}
+/* ebook showcase */
+.show{max-width:1140px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:.82fr 1.18fr;gap:44px;align-items:start}
+.show .cov{text-align:center}
+.show .cov img{width:100%;max-width:330px;border:1px solid var(--gold2);box-shadow:0 24px 48px rgba(31,58,95,.24);transition:transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .35s ease;cursor:pointer}
+.show .cov img:hover{transform:scale(1.04) translateY(-6px);box-shadow:0 42px 74px rgba(15,22,44,.46)}
+.show .spec{font-family:'Lora',serif;letter-spacing:.13em;font-size:13px;color:var(--gold);margin-top:16px;text-align:center}
+.show h3{font-size:27.5px;margin-bottom:12px}
+.show p{font-size:18px;color:#453f34;margin-bottom:14px;font-family:Georgia,serif}
+.stack{border-top:1px solid var(--line);margin:16px 0}
+.stack .li{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;padding:12px 2px;border-bottom:1px solid var(--line)}
+.stack .li .nm{font-family:'Lora',serif;color:var(--navy);font-weight:700;font-size:17px}
+.stack .li .ds{color:var(--mut);font-size:14.5px;font-family:Georgia,serif;margin-top:2px}
+.stack .li .v{color:var(--mut);white-space:nowrap;font-family:Georgia,serif;font-size:16.5px}
+.stack .li.tot .nm,.stack .li.tot .v{color:var(--navy);font-size:18px;font-family:'Lora',serif}
+.pricerow{display:flex;align-items:baseline;gap:13px;margin:8px 0 16px}
+.pricerow .anchor{color:#a99;text-decoration:line-through;font-size:23px;font-family:'Lora',serif}
+.pricerow .now{font-family:'Lora',serif;font-size:48px;font-weight:700;color:var(--navy);line-height:1}
+.pricerow .cap{font-style:italic;color:var(--gold);font-size:16.5px}
+.micro{font-family:Georgia,serif;font-size:13.5px;color:var(--mut);letter-spacing:.05em;margin-top:12px}
+/* math (light, readable, minimal) */
+.mathg{max-width:1140px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:1fr 1fr;gap:34px}
+.mt .h{font-family:'Lora',serif;font-weight:700;font-size:17.5px;padding-bottom:10px;border-bottom:2px solid var(--line)}
+.mt.bad .h{color:var(--rust)}.mt.good .h{color:var(--green)}
+.mt .r{display:flex;justify-content:space-between;gap:14px;padding:10px 0;border-bottom:1px solid var(--line);font-family:Georgia,serif;font-size:16.5px;color:#3a352b}
+.mt .r span:last-child{font-family:'Lora',serif;font-weight:700;color:var(--navy)}
+.mt .r.sum{border-bottom:none;padding-top:13px}
+.mt .r.sum span:first-child{font-family:'Lora',serif;font-weight:700;color:var(--navy)}
+.mt .r.sum span:last-child{font-size:20.5px}
+.src{max-width:1140px;margin:20px auto 0;padding:0 26px;font-family:Georgia,serif;font-size:13.5px;color:var(--mut)}
+.netline{max-width:1140px;margin:20px auto 0;padding:0 26px;font-family:'Lora',serif;font-size:22px;color:var(--navy)}
+.netline b{color:var(--rust)}
+/* navy receipts band (mid accent) */
+.band{background:var(--navy2);color:#e7ddca;text-align:center;padding:44px 26px}
+.band .q{font-family:'Lora',serif;font-size:25px;color:#fff;max-width:760px;margin:0 auto;line-height:1.45}
+.band .q b{color:var(--gold2)}
+.band .cite{letter-spacing:.18em;font-size:13px;color:#9fb0c4;margin-top:14px}
+/* what's inside - borderless blocks */
+.inside{max-width:1140px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:1fr 1fr;gap:34px 46px}
+.iz{border-top:2px solid var(--gold2);padding-top:14px}
+.iz .cnt{font-family:'Lora',serif;letter-spacing:.1em;color:var(--gold);font-size:13.5px;font-weight:700}
+.iz h3{font-size:20.5px;margin:3px 0 3px}
+.iz .tl{font-style:italic;color:var(--mut);font-size:16px;font-family:Georgia,serif;margin-bottom:9px}
+.iz ul{list-style:none}
+.iz li{padding:3px 0;font-size:16px;font-family:Georgia,serif;color:#453f34;line-height:1.5;border-bottom:1px solid #d3c096}
+.iz li:last-child{border-bottom:none}
+/* testimonials */
+.stat{max-width:1140px;margin:0 auto 30px;padding:16px 26px;text-align:center;font-family:'Lora',serif;color:var(--navy);border-top:1px solid var(--line);border-bottom:1px solid var(--line);letter-spacing:.02em}
+.stat b{color:var(--gold);font-size:20.5px}
+.tg{max-width:1140px;margin:0 auto;padding:0 26px;columns:3;column-gap:32px}
+.tc{break-inside:avoid;margin-bottom:26px;padding-bottom:22px;border-bottom:1px solid var(--line)}
+.tc .stars{color:var(--gold2);font-size:14px;letter-spacing:3px;margin-bottom:8px}
+.tc p{font-size:17px;font-family:Georgia,serif;color:#39342a;margin-bottom:9px;line-height:1.55}
+.tc .a{font-family:'Lora',serif;font-size:14px;color:var(--navy);font-weight:700;letter-spacing:.04em}
+.tc .a span{color:var(--mut);font-weight:400;font-style:italic}
+.tnote{max-width:1140px;margin:6px auto 0;padding:0 26px;font-family:Georgia,serif;font-size:13.5px;color:var(--mut);text-align:center}
+/* about */
+.about{max-width:1140px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:.5fr 1fr;gap:36px;align-items:center}
+.about img{width:100%;border:1px solid var(--gold2);border-radius:4px;box-shadow:0 18px 40px rgba(20,28,48,.16);transition:transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .35s ease;cursor:pointer}
+.about img:hover{transform:scale(1.035) translateY(-5px);box-shadow:0 40px 70px rgba(20,28,48,.4)}
+.about p{font-size:19px;margin-bottom:14px}
+.about .sig{font-style:italic;color:var(--gold);font-family:'Lora',serif}
+.about .watch{display:inline-block;margin-top:8px;font-family:'Lora',serif;font-weight:700;color:var(--navy);border-bottom:2px solid var(--gold2);padding-bottom:2px}
+/* checkout badges */
+.badges{max-width:1140px;margin:22px auto 0;padding:0 26px;text-align:center;font-family:'Lora',serif;letter-spacing:.1em;font-size:13.5px;color:var(--mut)}
+/* faq */
+.faq{max-width:1140px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:1fr 1fr;gap:0 44px}
+.faq details{border-bottom:1px solid var(--line);padding:16px 0}
+.faq summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:18px;font-family:'Lora',Georgia,serif;font-weight:700;color:var(--navy);font-size:18px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary:after{content:"+";color:var(--rust);font-weight:700}
+.faq details[open] summary:after{content:"\2212"}
+.faq details p{font-family:Georgia,serif;font-size:16.5px;color:#453f34;margin-top:10px}
+.ordr{max-width:1180px;margin:0 auto;padding:0 26px;display:grid;grid-template-columns:1fr 1fr;gap:54px;align-items:start}
+.ordr .costs .row{display:flex;justify-content:space-between;gap:16px;padding:12px 0;border-bottom:1px solid var(--line);font-family:Georgia,serif;font-size:16.5px;color:#453f34}
+.ordr .costs .row .c{color:var(--rust);white-space:nowrap;font-weight:700;font-family:'Lora',serif}
+.ordr .costs .row.hi{border-bottom:none;padding-top:14px;color:var(--navy);font-weight:700;font-family:'Lora',serif;font-size:17.5px}
+.ordr .costs .row.hi .c{color:var(--green)}
+.ordr ul{list-style:none;margin:0 0 20px}
+.ordr li{font-family:Georgia,serif;font-size:16.5px;padding:9px 0;border-bottom:1px solid var(--line)}
+.ordr li:before{content:"\2713";color:var(--green);font-weight:700;margin-right:10px}
+@media(max-width:840px){.faq,.ordr{grid-template-columns:1fr}}
+.guar{max-width:760px;margin:28px auto 0;padding:22px 26px;background:#eef4ee;border-left:3px solid var(--green);border-radius:0 4px 4px 0}
+.guar h4{color:var(--green);font-size:19.5px;margin-bottom:6px}
+.guar p{font-family:Georgia,serif;font-size:16.5px;color:#3a5a44}
+/* last call */
+.last{background:var(--navy);color:#eadfca;text-align:center;padding:44px 26px}
+.last h2{color:#fff;font-size:37px;max-width:30ch;margin:0 auto 12px}
+.last p{max-width:52ch;margin:0 auto 24px;color:#c3b8a2;font-family:Georgia,serif;font-size:18px}
+.last .micro{color:#9fb0c4;margin-top:16px}
+/* footer */
+.footx{background:var(--navy2);color:#aeb8c8;text-align:center;padding:26px 20px;font-family:'Lora',serif;font-size:14px}
+.footx .nm{color:#f0e7d4;font-size:17.5px;letter-spacing:.06em}
+.footx .nav{margin:14px 0;letter-spacing:.14em;font-size:13px;color:#c9d0dd}
+.footx .nav a{margin:0 10px}
+.footx .ed{letter-spacing:.2em;font-size:12px;color:#8593a8;margin-top:8px}
+.footx .dis{font-family:Georgia,serif;font-size:12.5px;color:#7a8798;margin:8px auto 0;line-height:1.5}
+.mock{background:#ffe9a8;color:#5b4a12;text-align:center;font-size:13.5px;padding:6px;font-weight:700;font-family:Georgia,serif}
+@media(max-width:840px){.hero .wrap,.pain,.show,.mathg,.inside,.about{grid-template-columns:1fr}.tg{columns:1}.ribbon .items{gap:22px;font-size:16.5px}}
+.jsr section,.jsr .ribbon,.jsr .band{opacity:0;transform:translateY(28px);transition:opacity .7s cubic-bezier(.2,.6,.2,1),transform .7s cubic-bezier(.2,.6,.2,1)}
+.jsr section.in,.jsr .ribbon.in,.jsr .band.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){.jsr section,.jsr .ribbon,.jsr .band{opacity:1;transform:none;transition:none}}
+</style>
+<script>document.documentElement.classList.add('jsr');</script>
+</head><body>
+<div class="count">✦ Launch price &nbsp; <b>the complete guide, $27</b> &nbsp; one-time, instant PDF</div>
+<div class="topnav"><div class="wr">
+  <div class="brand">RAY DUTTON’S GARAGE<small>Retired HVAC Pro · 25 Years</small></div>
+  <a class="navcta" href="#guide">Get the Guide</a>
+</div></div>
+
+<!-- HERO -->
+<header class="hero"><div class="wrap">
+  <div>
+    <div class="no">FIELD GUIDE NO. 1 &nbsp;<span style="color:var(--gold2)">|</span>&nbsp; <span style="color:var(--navy);font-weight:700">RAY DUTTON</span></div>
+    <h1>Your whole HVAC system,<br><span>in one honest book.</span></h1>
+    <div class="sub">The fixes they overcharge for, and the prices they hope you never learn.</div>
+    <p>Cut hundreds a year off repairs, tune-ups, and wasted energy using the same things I did for 25 years in the trade. Cooling, heating, and the air in between. 40+ fixes, every scam decoded, in plain English. Most homeowners make the $27 back on the first repair they don&rsquo;t have to call in.</p>
+    <div class="ctas">
+      <a class="btn big" href="#guide">See the Guide</a>
+      <a class="btn ghost" href="#math">See the Math</a>
+    </div>
+    <div class="hvacline">
+      <div class="c"><b>HEATING</b><span>Furnace &amp; More</span></div>
+      <div class="c"><b>AIR</b><span>Duct &amp; Ventilation</span></div>
+      <div class="c"><b>COOLING</b><span>AC &amp; Heat Pump</span></div>
+    </div>
+  </div>
+  <div class="photo"><img src="ray.png" alt="Ray Dutton, retired HVAC pro"><div class="cap">Ray Dutton · Retired HVAC pro · 25 years</div></div>
+</div></header>
+
+<!-- RIBBON (liked) -->
+
+<!-- PROBLEM -->
+<section class="sec tan">
+  <div class="head">
+    <div class="kick">THE PROBLEM</div>
+    <h2>The system breaks. Then the overcharging starts.</h2>
+    <div class="hsub">If you own a home, you already know at least three of these.</div>
+    <div class="rule"></div>
+  </div>
+  <div class="pain">
+    <div class="p"><b>It&rsquo;s 95 degrees and the AC just died.</b><span>The first company to answer knows you&rsquo;ll pay anything to make it stop.</span></div>
+    <div class="p"><b>&ldquo;Your heat exchanger is cracked.&rdquo;</b><span>They shut the gas off in January and hand you a $9,000 quote before coffee.</span></div>
+    <div class="p"><b>One room is always hot.</b><span>They pitch a $6,000 zoning system for what&rsquo;s often a $30 fix in the attic.</span></div>
+    <div class="p"><b>The $99 tune-up.</b><span>Somehow it becomes a $2,400 bill and a system that &ldquo;won&rsquo;t last the summer.&rdquo;</span></div>
+    <div class="p"><b>&ldquo;You&rsquo;re low on Freon again.&rdquo;</b><span>The same refill every year, when a system sealed right never loses any.</span></div>
+    <div class="p"><b>&ldquo;It&rsquo;s too old, you need a whole new one.&rdquo;</b><span>A $12,000 replacement pitch for a part that costs fifteen dollars.</span></div>
+    <div class="p"><b>The after-hours emergency rate.</b><span>Double price because it broke on a Sunday, for a fix that takes ten minutes.</span></div>
+    <div class="p"><b>The financing tablet.</b><span>Zero percent that quietly turns a $4,000 job into nine.</span></div>
+  </div>
+  <p class="bridge">The truth after 25 years in the trade: <b>most of what they charge thousands for you can see or fix yourself</b>. You just need someone honest to show you how.</p>
+</section>
+
+<!-- I. THE GUIDE -->
+<section class="sec" id="guide">
+  <div class="head">
+    <div class="kick">NO. I</div><h2>The Guide</h2>
+    <div class="hsub">One book. Every system. Every price they hoped you&rsquo;d never learn.</div>
+    <div class="rule"></div>
+  </div>
+  <div class="show">
+    <div class="cov">
+      <img src="cover.png" alt="The HVAC Survival Guide">
+      <div class="spec">ILLUSTRATED EBOOK · 160+ PAGES · COMPLETE EDITION</div>
+    </div>
+    <div>
+      <h3>The complete blueprint for the machine that keeps your house comfortable.</h3>
+      <p>Cooling, heating, ducts, and ventilation. 40+ illustrated fixes, both diagnostic flowcharts, every scam decoded, and the exact prices. Each fix names the part, tells you what to buy and what to avoid, and shows what a fair price really is. Start tonight with a $9 filter and a flashlight.</p>
+      <div class="stack">
+        <div class="li"><div><div class="nm">The HVAC Survival Guide</div><div class="ds">160+ pages, 40+ illustrated fixes</div></div><span class="v">$59</span></div>
+        <div class="li"><div><div class="nm">Both Diagnostic Flowcharts</div><div class="ds">no-cool, no-heat, plus the health check</div></div><span class="v">$19</span></div>
+        <div class="li"><div><div class="nm">Service-Call Defense Scripts</div><div class="ds">word for word, for the driveway</div></div><span class="v">$19</span></div>
+        <div class="li"><div><div class="nm">Print-and-Tape Cards</div><div class="ds">furnace closet and fridge</div></div><span class="v">$12</span></div>
+        <div class="li"><div><div class="nm">Free Lifetime Updates</div><div class="ds">every revision, no extra charge</div></div><span class="v">$21</span></div>
+        <div class="li tot"><div class="nm">Total value</div><span class="v">$130</span></div>
+      </div>
+      <div class="pricerow"><span class="anchor">$59</span><span class="now">$27</span><span class="cap">launch price, today</span></div>
+      <a class="btn big" href="https://rayduttonsgarage.gumroad.com/l/gmuzt" target="_blank" rel="noopener" style="display:inline-block">Get the Guide · $27</a>
+      <div class="micro">INSTANT DOWNLOAD · PAY ONCE · YOURS FOREVER · 7-DAY GUARANTEE</div>
+      <div class="micro" style="margin-top:7px"><span style="color:var(--gold2);letter-spacing:2px">★★★★★</span> &nbsp;4.9 / 5 &middot; 10 verified Gumroad ratings</div>
+    </div>
+  </div>
+</section>
+
+<!-- II. THE MATH -->
+<section class="sec tan" id="math">
+  <div class="head">
+    <div class="kick">NO. II</div><h2>The Math</h2>
+    <div class="hsub">Where your HVAC money actually goes, and what you can stop paying.</div>
+    <div class="rule"></div>
+  </div>
+  <div class="mathg">
+    <div class="mt bad">
+      <div class="h">A typical household · per year</div>
+      <div class="r"><span>Emergency repairs &amp; service calls</span><span>$600</span></div>
+      <div class="r"><span>&ldquo;Maintenance plan&rdquo; / annual tune-up</span><span>$300</span></div>
+      <div class="r"><span>Wasted energy (dirty filter, leaky ducts)</span><span>$500</span></div>
+      <div class="r"><span>Early replacement, amortized</span><span>$700</span></div>
+      <div class="r"><span>Overpriced parts &amp; add-on upsells</span><span>$400</span></div>
+      <div class="r sum"><span>Per year</span><span>$2,500</span></div>
+    </div>
+    <div class="mt good">
+      <div class="h">The same household, after the Guide</div>
+      <div class="r"><span>DIY fixes (capacitor, drain, filter, sensor)</span><span>$60</span></div>
+      <div class="r"><span>Self-inspect, skip the plan</span><span>$30</span></div>
+      <div class="r"><span>Right filter, sealed ducts, smart habits</span><span>$150</span></div>
+      <div class="r"><span>Full lifespan, no early replacement</span><span>$0</span></div>
+      <div class="r"><span>Fair prices, no upsells</span><span>$80</span></div>
+      <div class="r sum"><span>Per year</span><span>~$320</span></div>
+    </div>
+  </div>
+  <div class="src">Typical U.S. ranges - Energy Star, U.S. Dept. of Energy, and industry service-pricing averages. Your numbers vary by home, climate, and system.</div>
+  <div class="netline">Net savings: <b>$1,500 to $2,500 a year</b>, for a one-time $27.</div>
+</section>
+
+<!-- NAVY RECEIPTS BAND -->
+<div class="band">
+  <div class="q">A $15 igniter. A $70 capacitor. A $30 attic duct. <b>That is most of what a &ldquo;whole new system&rdquo; gets sold for.</b></div>
+  <div class="cite">THE RECEIPTS, FROM INSIDE THE BOOK</div>
+</div>
+
+<!-- III. WHAT'S INSIDE -->
+<section class="sec">
+  <div class="head">
+    <div class="kick">NO. III</div><h2>What&rsquo;s Inside</h2>
+    <div class="hsub">40+ fixes across the whole system. Each one: the steps, what to buy, what to avoid, and the price.</div>
+    <div class="rule"></div>
+  </div>
+  <div class="inside">
+    <div class="iz"><div class="cnt">COOLING · 17 FIXES</div><h3>Your AC &amp; heat pump</h3><div class="tl">The stuff that quits in a heat wave.</div><ul>
+      <li>The $15 capacitor, and how to test it</li>
+      <li>Clean the condenser coil the right way</li>
+      <li>Clear and prevent the clogged drain</li>
+      <li>The no-cool power path: contactor, fuses, transformer</li>
+      <li>Thaw a frozen coil, straighten bent fins</li>
+      <li>Shade and clearance: the $5 fix for colder air</li></ul></div>
+    <div class="iz"><div class="cnt">HEATING · 12 FIXES</div><h3>Furnace &amp; heat pump</h3><div class="tl">Before you freeze, or buy a new furnace.</div><ul>
+      <li>The filter, the number-one no-heat call</li>
+      <li>Clean the flame sensor (the &ldquo;lights then dies&rdquo; fix)</li>
+      <li>The $15 igniter, not a $5,000 furnace</li>
+      <li>Reset and the blink code, clear the condensate clog</li>
+      <li>Heat-pump no-heat checks, snow and ice</li>
+      <li>The once-a-year Fall Protocol</li></ul></div>
+    <div class="iz"><div class="cnt">AIR &amp; DUCTS · 13 FIXES</div><h3>Ventilation &amp; the hot room</h3><div class="tl">The side nobody explains.</div><ul>
+      <li>The $30 attic fix behind &ldquo;one room never cools&rdquo;</li>
+      <li>Return air and the transfer grille</li>
+      <li>Seal duct leaks (mastic, not &ldquo;duct tape&rdquo;)</li>
+      <li>Insulate ducts, balance the dampers</li>
+      <li>Exhaust fans, dryer vent, attic ventilation</li>
+      <li>Whole-home humidity: real vs. upsell</li></ul></div>
+    <div class="iz"><div class="cnt">DIAGNOSE IT YOURSELF</div><h3>Find it before you call</h3><div class="tl">Plain-English flowcharts.</div><ul>
+      <li>The no-cool flowchart</li>
+      <li>The no-heat flowchart</li>
+      <li>The noise, smell, and carbon-monoxide decoders</li>
+      <li>The temperature-split check: is it actually working?</li></ul></div>
+    <div class="iz"><div class="cnt">DON&rsquo;T GET ROBBED</div><h3>Every scam, decoded</h3><div class="tl">What to say when they&rsquo;re in your driveway.</div><ul>
+      <li>The cracked-heat-exchanger condemn scam</li>
+      <li>The $99 duct cleaning air-quality lie</li>
+      <li>The &ldquo;low on Freon&rdquo; lie, the $1,500 air purifier</li>
+      <li>The comfort club, the home-warranty denial</li>
+      <li>The five lines that lead to $12,000</li>
+      <li>The financing trap: get the cash price</li></ul></div>
+    <div class="iz"><div class="cnt">WHEN IT&rsquo;S TIME TO BUY</div><h3>Before you sign anything</h3><div class="tl">The thousands live here.</div><ul>
+      <li>Real sizing: why oversized is cold and clammy</li>
+      <li>The brand twins: one factory, three price tags</li>
+      <li>The three tiers and stages, where a quote doubles</li>
+      <li>Heat-pump vs. gas: the honest math</li>
+      <li>Vet an honest contractor, the permit that protects you</li>
+      <li>Your 3-day right to cancel</li></ul></div>
+  </div>
+</section>
+
+<!-- IV. WHAT HOMEOWNERS SAY -->
+<section class="sec tan">
+  <div class="head">
+    <div class="kick">NO. IV</div><h2>What Homeowners Say</h2>
+    <div class="hsub">This book is Ray&rsquo;s 25 years in the trade, written down. Here&rsquo;s what homeowners say.</div>
+    <div class="rule"></div>
+  </div>
+  <div class="stat" style="border-bottom:none;margin-bottom:6px;padding-bottom:4px"><span style="color:var(--gold2);letter-spacing:4px;font-size:22px;vertical-align:middle">★★★★★</span> &nbsp;<b style="font-size:26px">4.9</b> <span style="color:var(--navy)">out of 5</span> &nbsp;·&nbsp; <b>10</b> verified ratings on Gumroad</div>
+  <div class="stat"><b>27,000+</b> subscribers &nbsp;·&nbsp; <b>4,500,000+</b> views &nbsp;·&nbsp; one honest voice homeowners keep coming back to</div>
+  <div class="tg">
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;good info on all the things I need to know about my a/c unit and how to save money and do my own service repairs if I can do it, and if I need an a/c tech to come, what questions I need to ask prior to any work that has to be completed, so I don&rsquo;t get ripped off on parts and repairs.&rdquo;</p><div class="a">Joe Caracapa <span>· Verified Gumroad review</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;The guide explains very clearly the repairs needed to fix the problem. My experience tells me its writing is 100 percent true. Very few people do what he has done. I love book. Thank you!&rdquo;</p><div class="a">Srikantaiya Sreenath <span>· Verified Gumroad review</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;Great, presented guide as it provides a real-world outline from a thoroughly experienced expert in the field.&rdquo;</p><div class="a">Darius Caswell <span>· Verified Gumroad review</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;Best info I have ever seen, this will help me tremendously, thanks!&rdquo;</p><div class="a">Michael Deller <span>· Verified Gumroad review</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;Excellent book!&rdquo;</p><div class="a">Alec Alpert <span>· Verified Gumroad review</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;Thank you Ray! You have done more for me by watching two videos than anybody else has ever regarding our HVAC. I sincerely appreciate it.&rdquo;</p><div class="a">@jimbu6651 <span>· YouTube</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;Finally, an honest AC man.&rdquo;</p><div class="a">@Kinsey718 <span>· 35 likes</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;I&rsquo;ve been an HVAC tech for 47 years. I&rsquo;ve told my clients these same things for years. Another great video, Ray.&rdquo;</p><div class="a">@OGHVAC <span>· 47 yrs in the trade</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;Straightforward, factual information without a lot of extra storytelling. Everything you said makes perfect sense.&rdquo;</p><div class="a">@spagogin <span>· 50 likes</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;I went and bought the lowest-MERV filter. Thanks Ray for giving my AC units a little longer life. Every dollar saved really counts!&rdquo;</p><div class="a">@cameronmacdonald <span>· California</span></div></div>
+    <div class="tc"><div class="stars">★★★★★</div><p>&ldquo;I wish more experts in their fields were as honest as you&hellip;!!!&rdquo;</p><div class="a">@lterry21 <span>· YouTube</span></div></div>
+  </div>
+  <div class="tnote">Verified buyer reviews from Gumroad, plus comments from Ray&rsquo;s videos.</div>
+</section>
+
+<!-- V. ABOUT -->
+<section class="sec">
+  <div class="head">
+    <div class="kick">NO. V</div><h2>About Ray</h2>
+    <div class="rule"></div>
+  </div>
+  <div class="about">
+    <img src="ray.png" alt="Ray Dutton">
+    <div>
+      <p>I spent 25 years in the attics and crawlspaces, working <em>for</em> the companies I now expose. I sat in the Monday morning sales meetings where they taught us how to build the bill: what to condemn, what to upsell, how to make a fifteen-dollar part sound like a new system.</p>
+      <p>I&rsquo;m not selling you a service. I&rsquo;m handing you everything I&rsquo;d tell my own neighbor over the fence: what you can fix yourself, what to leave to a pro, and exactly what to say when someone quotes you thousands for something small.</p>
+      <p>This book is the channel, organized. Cooling, heating, and the air side, in the order you&rsquo;d actually run into them, with the parts named and the prices written down.</p>
+      <p class="sig">Keep your cool, keep your heat, and keep your money.</p>
+      <a class="watch" href="https://www.youtube.com/@rayduttonsgarage" target="_blank" rel="noopener">Watch the channel</a>
+    </div>
+  </div>
+</section>
+
+<!-- VI. ORDER -->
+<section class="sec tan thin" id="order">
+  <div class="head">
+    <div class="kick">NO. VI</div><h2>Order the Guide</h2>
+    <div class="hsub">$27 once. No subscription. Yours forever.</div>
+    <div class="rule"></div>
+  </div>
+  <div class="ordr">
+    <div class="costs">
+      <div class="row"><span>A &ldquo;diagnostic&rdquo; call plus one capacitor swap</span><span class="c">$250 to $400</span></div>
+      <div class="row"><span>A cracked-heat-exchanger condemn</span><span class="c">$5,000 to $12,000</span></div>
+      <div class="row"><span>One panic replacement in a heat wave</span><span class="c">$8,000 to $14,000</span></div>
+      <div class="row hi"><span>The HVAC Survival Guide</span><span class="c">$27, one-time</span></div>
+      <div class="pricerow" style="margin-top:16px"><span class="anchor">$59</span><span class="now">$27</span><span class="cap">launch price, today</span></div>
+    </div>
+    <div>
+      <ul>
+        <li>The complete guide, 40+ illustrated fixes (instant PDF)</li>
+        <li>Heating, cooling, and ventilation in one book</li>
+        <li>Both diagnostic flowcharts and the Service-Call Defense Kit</li>
+        <li>The tape-up Print Pack, for the furnace closet and the fridge</li>
+        <li>Free lifetime updates, every new edition</li>
+      </ul>
+      <a class="btn big" href="https://rayduttonsgarage.gumroad.com/l/gmuzt" target="_blank" rel="noopener" style="display:block;text-align:center">Get Instant Access · $27</a>
+      <div class="badges">🔒 SECURE CHECKOUT &nbsp;·&nbsp; VISA · MASTERCARD · PAYPAL · APPLE PAY &nbsp;·&nbsp; 7-DAY REFUND</div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="sec thin">
+  <div class="head">
+    <div class="kick">NO. VII</div><h2>Questions Homeowners Ask</h2>
+    <div class="rule"></div>
+  </div>
+  <div class="faq">
+    <details><summary>I&rsquo;m not handy at all. Is this over my head?</summary><p>No. It&rsquo;s written for homeowners, not techs: plain English, hand-drawn diagrams, and a clear &ldquo;leave this to a pro&rdquo; line on anything that isn&rsquo;t safe to touch.</p></details>
+    <details><summary>Does it cover my furnace, heat pump, or central air?</summary><p>All of them. Heating, cooling, and the air side are in one book. Whatever&rsquo;s in your house is in here.</p></details>
+    <details><summary>Will it tell me to do dangerous gas or electrical work?</summary><p>Never. Anything involving gas, refrigerant, or high voltage is marked pro-only. For those, the book shows you how to spot the problem and pay a fair price instead.</p></details>
+    <details><summary>How fast will it pay for itself?</summary><p>Usually the first time a truck is in your driveway. Catching one capacitor or one igniter at its real price covers the book many times over.</p></details>
+    <details><summary>How do I get it, and what if it&rsquo;s not for me?</summary><p>Instant PDF the moment you order, on any device. And there&rsquo;s a 7-day, no-questions refund: reply to your receipt and it&rsquo;s done.</p></details>
+    <details><summary>Are more updates coming?</summary><p>Yes, and they&rsquo;re free. The guide gets lifetime updates, so every new edition lands in your inbox at no extra charge.</p></details>
+  </div>
+</section>
+
+<!-- LAST CALL -->
+<section class="last">
+  <h2>Stop overpaying on a machine you can mostly fix yourself.</h2>
+  <p>$27 once. Instant access. 7-day guarantee. Most homeowners make it back on the very first repair they don&rsquo;t have to call in.</p>
+  <a class="btn big" href="https://rayduttonsgarage.gumroad.com/l/gmuzt" target="_blank" rel="noopener">Get the Guide · $27</a>
+  <div class="micro">INSTANT DOWNLOAD · PAY ONCE · YOURS FOREVER</div>
+</section>
+
+<footer class="footx">
+  <div class="nm">Ray Dutton&rsquo;s Garage · An HVAC Field Guide</div>
+  <div class="nav"><a href="#guide">THE GUIDE</a> · <a href="#math">THE MATH</a> · <a href="#order">ORDER</a> · <a href="https://www.youtube.com/@rayduttonsgarage" target="_blank" rel="noopener">YOUTUBE</a></div>
+  <div class="dis">© 2026 Ray Dutton&rsquo;s Garage. Homeowner-maintenance education, not licensed contracting, legal, or tax advice. Anything involving gas, combustion, refrigerant, or high-voltage wiring is licensed work; hire it out. Verify current rules before you act.</div>
+</footer>
+<script>
+(function(){
+  var els=document.querySelectorAll('section,.ribbon,.band');
+  if(!('IntersectionObserver' in window)){els.forEach(function(s){s.classList.add('in');});return;}
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});
+  },{threshold:0.10, rootMargin:'0px 0px -6% 0px'});
+  els.forEach(function(s){io.observe(s);});
+})();
+</script>
+</body></html>
