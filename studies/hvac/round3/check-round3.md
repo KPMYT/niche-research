@@ -218,7 +218,7 @@ Checker: the round 3 second helper (working rule 3). Checked 2026-10-26, 08:30-1
 
 **Error rates (part 4).** Start basis 10/10, joined 10/10, first long-form age 10/10, views and dates 10/10 (drift only). **Not really an HVAC channel or takeoff: 2/10 (20%)** (Hidden Homestead, Walt Brandt), plus 1 borderline (Dick Colter).
 
-**Why.** "Well above" is scored on *all* long-form views since start, subscribers and the best video of *any* topic (`new-channels.md`, "Well above the niche"). A channel the census put in tier B or C for 10-30% HVAC titles can rank on bug-killer or appliance videos. In the CSV, **15 of the 72** well-above channels have an HVAC view share under 10% (my count from `hvac_view_share`; see fix 4.1).
+**Why.** "Well above" is scored on *all* long-form views since start, subscribers and the best video of *any* topic (`new-channels.md`, "Well above the niche"). A channel the census put in tier B or C for 10-30% HVAC titles can rank on bug-killer or appliance videos. In the CSV, **12 of the 72** well-above channels have an HVAC view share under 10%, and 15 under 20% (my count from `hvac_view_share`): Elias Homestead 1.3%, Forgotten American Survival 0.6%, Walter's Tool Talk 0.2%, Passive House Technology 1.9%, Hidden Homestead 3.7%, Donna Fixes 7.8%, SafeMind 1.2%, Hidden Systems 5.9%, Elias Mercer 9.6%, Walt Brandt 4.9%, Forgotten Appalachian Skills 7.2%, Prime Rundown 0.2%.
 
 ---
 
@@ -333,7 +333,7 @@ Both files are finished (`top-100.md` ends with "Problems and limits"; `recent-w
    4. Add "support our channel ... exclusive access" to the membership words.
    5. Fill in Kilcher Camp: $25 a month, $250 a year.
 4. **New channels.**
-   1. Score "well above" on HVAC long-form views (or require `hvac_view_share` of 20%+). At least flag the 15 of 72 under 10% (Hidden Homestead, Walt Brandt and the others).
+   1. Score "well above" on HVAC long-form views (or require `hvac_view_share` of 20%+). At least flag the 12 of 72 under 10% (listed in part 4).
    2. For ranks 26-73, label the column "best video (any topic)" or show the best HVAC video beside it.
 5. **Sub-niches.** Fix the 7 clear rule errors above (a bare "best" is not a brand verdict; "no power needed" is not an outage; "downflow" is not airflow; "warranty" in a tech's badge video is not a quote). Quote the map's accuracy as about 55-68% fine and 63-72% parent, not the after-fix 93%.
 6. **Recent winners.**
