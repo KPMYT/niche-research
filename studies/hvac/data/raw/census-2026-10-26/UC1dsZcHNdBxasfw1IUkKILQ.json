@@ -1,0 +1,3925 @@
+{
+ "key": "UC1dsZcHNdBxasfw1IUkKILQ",
+ "channel": "Everything HVACR",
+ "id": "UC1dsZcHNdBxasfw1IUkKILQ",
+ "subs": "11.5K subscribers",
+ "videos": "407 videos",
+ "pulled": "2026-10-26T06:48:23.191467+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "y_kic9KKuPw",
+    "title": "Horizon DOAS Modulating Heat Start up",
+    "meta": [
+     "525",
+     "15h ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 525
+   },
+   {
+    "id": "3Dy65KhKWbQ",
+    "title": "Maxitrol Modulating Gas Valve",
+    "meta": [
+     "944",
+     "7d ago"
+    ],
+    "dur": "4:44",
+    "views_tab": 944
+   },
+   {
+    "id": "CHmUcWjVnFo",
+    "title": "Horizon DOAS Supply Fan Sequence, Gas Heat Staging and RDS operation.",
+    "meta": [
+     "811",
+     "2w ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 811
+   },
+   {
+    "id": "T3ejkyLtYvM",
+    "title": "60 ton Condenser coil replacement ",
+    "meta": [
+     "1.3K",
+     "3w ago"
+    ],
+    "dur": "26:28",
+    "views_tab": 1300
+   },
+   {
+    "id": "o_-GgKi0-h4",
+    "title": "Let\u2019s Talk Sequence! Horizon DOAS.",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1400
+   },
+   {
+    "id": "qrb0F3w4XVQ",
+    "title": "Rub Outs Are the Worst! Catch this before it becomes an issue and make this easy repair. #hvac ",
+    "meta": [
+     "407",
+     "5mo ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 407
+   },
+   {
+    "id": "aHW9CU0X6F8",
+    "title": "Trane Horizon E-STOP circuit diagnostic tips! #hvac #trane #hvac ",
+    "meta": [
+     "1.3K",
+     "8mo ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 1300
+   },
+   {
+    "id": "xnknM3dy3us",
+    "title": "Pump Seals Leaking! Is the Pump Moving the Water it\u2019s Capable of Moving and How can We Tell? #hvac ",
+    "meta": [
+     "622",
+     "11mo ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 622
+   },
+   {
+    "id": "Eap3clS5qSo",
+    "title": "Restaurant humidity issues: Was this ever balanced? #hvac #hvacservice #hvaclife #commercialhvac",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "YyGnIhcXyMc",
+    "title": "Old Carrier Package Unit, Cooling Rules of Thumb! #hvac #hvaclife #airconditioning #hvacservice ",
+    "meta": [
+     "880",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 880
+   },
+   {
+    "id": "Zh_HY5Xp_go",
+    "title": "Old R22 Comfort Star locked up compressor!#hvac #hvaclife #hvacservice #hvacr #hvaclife ",
+    "meta": [
+     "944",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 944
+   },
+   {
+    "id": "8AOALoaMt8s",
+    "title": "New Carrier package unit not cooling. #hvac #hvacservice #hvaclife #commercialhvac #hvacarmy",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2300
+   },
+   {
+    "id": "HNsw9MErgps",
+    "title": "Down and Dirty Industrial site, leak repair. #hvacservice #hvaclife #hvac #commercialhvac #hvacarmy ",
+    "meta": [
+     "765",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 765
+   },
+   {
+    "id": "iH40hKJt7vM",
+    "title": "WTF Happened here? York Packaged Unit Mishap! #hvac #hvaclife #commercialhvac #hvacarmy #hvacr",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 1200
+   },
+   {
+    "id": "AcgL7VrMZrk",
+    "title": "Old Neglected Carrier Weathermaker Chugging Away. #hvac #hvaclife #commercialhvac #hvacarmy #hvacr",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2600
+   },
+   {
+    "id": "WxrQ4-9mdOE",
+    "title": "Trane Horizon TD7 Display Optimization! IYKYK. #hvac #trane #hvaclife #hvacr#hvacarmy#commercialhvac",
+    "meta": [
+     "904",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 904
+   },
+   {
+    "id": "2eMGxsHEyyE",
+    "title": "last serviced in 2019, old Carrier lives to fight another day. #hvac #hvaclife #hvacservice",
+    "meta": [
+     "921",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 921
+   },
+   {
+    "id": "mNX_rLAgXfA",
+    "title": "Old Neglected Carrier R22 Split System! #hvac #hvaclife #hvacr #commercialhvac #diagnosis #service",
+    "meta": [
+     "755",
+     "1y ago"
+    ],
+    "dur": "9:52",
+    "views_tab": 755
+   },
+   {
+    "id": "oGJSaASi5vM",
+    "title": "lennox package units, humidity issues, but why? #hvac #hvaclife #commercialhvac #hvacarmy #lennox",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 1400
+   },
+   {
+    "id": "BjfAt0-VWzI",
+    "title": "Brand new Carrier package units with humidity issues. #hvac #hvacarmy#hvaclife#commercialhvac#hvacr",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "9:18",
+    "views_tab": 1100
+   },
+   {
+    "id": "R_Adg1-pBU4",
+    "title": "York package unit, broken belt, but why? #hvac #hvaclife #hvactechnician #hvacarmy #hvacsystems",
+    "meta": [
+     "985",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 985
+   },
+   {
+    "id": "cixSyAjLamk",
+    "title": "Neglected Trane Voyagers with old Honeywell controls #hvac #hvacarmy #hvaclife #commercialhvac#hvacr",
+    "meta": [
+     "922",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 922
+   },
+   {
+    "id": "B01BVpJ7xJY",
+    "title": "Problematic Hot tub pump. #pump #hottubs #electrical #hvacarmy #diy #hvac",
+    "meta": [
+     "422",
+     "1y ago"
+    ],
+    "dur": "9:47",
+    "views_tab": 422
+   },
+   {
+    "id": "jmjxvw2BseY",
+    "title": "It\u2019s Hard to stop a Trane? I Think Not! #hvac #hvaclife #commercialhvac #hvacarmy #hvacrepair #hvacr",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1100
+   },
+   {
+    "id": "1afrm0BE92c",
+    "title": "A Unique Trane Voyager unlike any other. #hvac #hvaclife #commercialhvac #hvaccontrols #hvacarmy",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 2300
+   },
+   {
+    "id": "Iz6468p15z8",
+    "title": "Horizon exhaust fan operating a minimum Hz? #hvac #hvaclife #commercialhvac #hvacarmy #hvaccontrols",
+    "meta": [
+     "757",
+     "1y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 757
+   },
+   {
+    "id": "wrVl08zI7kA",
+    "title": "Trane Voyager operating as a multi zone VAV system with Reliatel controls. #hvac #hvaclife #hvacarmy",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "6HZMcdIvTAs",
+    "title": "Dedicated Outdoor Air (DOAU) Training board. #hvac #hvaclife #hvacr #commercialhvac #hvaccontrols",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 1000
+   },
+   {
+    "id": "aP-OiupF2jg",
+    "title": "boiler circulation pump failing, no isolation valves, we must drain the entire system, no air vents!",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 2200
+   },
+   {
+    "id": "NBz0Tw8sVSE",
+    "title": "No heat, Older Carrier Package unit #hvac #commercialhvac #hvaclife #hvacservice #hvacarmy #heat",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 1400
+   }
+  ],
+  "Latest": [
+   {
+    "id": "y_kic9KKuPw",
+    "title": "Horizon DOAS Modulating Heat Start up",
+    "meta": [
+     "525",
+     "15h ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 525
+   },
+   {
+    "id": "3Dy65KhKWbQ",
+    "title": "Maxitrol Modulating Gas Valve",
+    "meta": [
+     "944",
+     "7d ago"
+    ],
+    "dur": "4:44",
+    "views_tab": 944
+   },
+   {
+    "id": "CHmUcWjVnFo",
+    "title": "Horizon DOAS Supply Fan Sequence, Gas Heat Staging and RDS operation.",
+    "meta": [
+     "811",
+     "2w ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 811
+   },
+   {
+    "id": "T3ejkyLtYvM",
+    "title": "60 ton Condenser coil replacement ",
+    "meta": [
+     "1.3K",
+     "3w ago"
+    ],
+    "dur": "26:28",
+    "views_tab": 1300
+   },
+   {
+    "id": "o_-GgKi0-h4",
+    "title": "Let\u2019s Talk Sequence! Horizon DOAS.",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1400
+   },
+   {
+    "id": "qrb0F3w4XVQ",
+    "title": "Rub Outs Are the Worst! Catch this before it becomes an issue and make this easy repair. #hvac ",
+    "meta": [
+     "407",
+     "5mo ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 407
+   },
+   {
+    "id": "aHW9CU0X6F8",
+    "title": "Trane Horizon E-STOP circuit diagnostic tips! #hvac #trane #hvac ",
+    "meta": [
+     "1.3K",
+     "8mo ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 1300
+   },
+   {
+    "id": "xnknM3dy3us",
+    "title": "Pump Seals Leaking! Is the Pump Moving the Water it\u2019s Capable of Moving and How can We Tell? #hvac ",
+    "meta": [
+     "622",
+     "11mo ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 622
+   },
+   {
+    "id": "Eap3clS5qSo",
+    "title": "Restaurant humidity issues: Was this ever balanced? #hvac #hvacservice #hvaclife #commercialhvac",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "YyGnIhcXyMc",
+    "title": "Old Carrier Package Unit, Cooling Rules of Thumb! #hvac #hvaclife #airconditioning #hvacservice ",
+    "meta": [
+     "880",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 880
+   },
+   {
+    "id": "Zh_HY5Xp_go",
+    "title": "Old R22 Comfort Star locked up compressor!#hvac #hvaclife #hvacservice #hvacr #hvaclife ",
+    "meta": [
+     "944",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 944
+   },
+   {
+    "id": "8AOALoaMt8s",
+    "title": "New Carrier package unit not cooling. #hvac #hvacservice #hvaclife #commercialhvac #hvacarmy",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2300
+   },
+   {
+    "id": "HNsw9MErgps",
+    "title": "Down and Dirty Industrial site, leak repair. #hvacservice #hvaclife #hvac #commercialhvac #hvacarmy ",
+    "meta": [
+     "765",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 765
+   },
+   {
+    "id": "iH40hKJt7vM",
+    "title": "WTF Happened here? York Packaged Unit Mishap! #hvac #hvaclife #commercialhvac #hvacarmy #hvacr",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 1200
+   },
+   {
+    "id": "AcgL7VrMZrk",
+    "title": "Old Neglected Carrier Weathermaker Chugging Away. #hvac #hvaclife #commercialhvac #hvacarmy #hvacr",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2600
+   },
+   {
+    "id": "WxrQ4-9mdOE",
+    "title": "Trane Horizon TD7 Display Optimization! IYKYK. #hvac #trane #hvaclife #hvacr#hvacarmy#commercialhvac",
+    "meta": [
+     "904",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 904
+   },
+   {
+    "id": "2eMGxsHEyyE",
+    "title": "last serviced in 2019, old Carrier lives to fight another day. #hvac #hvaclife #hvacservice",
+    "meta": [
+     "921",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 921
+   },
+   {
+    "id": "mNX_rLAgXfA",
+    "title": "Old Neglected Carrier R22 Split System! #hvac #hvaclife #hvacr #commercialhvac #diagnosis #service",
+    "meta": [
+     "755",
+     "1y ago"
+    ],
+    "dur": "9:52",
+    "views_tab": 755
+   },
+   {
+    "id": "oGJSaASi5vM",
+    "title": "lennox package units, humidity issues, but why? #hvac #hvaclife #commercialhvac #hvacarmy #lennox",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 1400
+   },
+   {
+    "id": "BjfAt0-VWzI",
+    "title": "Brand new Carrier package units with humidity issues. #hvac #hvacarmy#hvaclife#commercialhvac#hvacr",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "9:18",
+    "views_tab": 1100
+   },
+   {
+    "id": "R_Adg1-pBU4",
+    "title": "York package unit, broken belt, but why? #hvac #hvaclife #hvactechnician #hvacarmy #hvacsystems",
+    "meta": [
+     "985",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 985
+   },
+   {
+    "id": "cixSyAjLamk",
+    "title": "Neglected Trane Voyagers with old Honeywell controls #hvac #hvacarmy #hvaclife #commercialhvac#hvacr",
+    "meta": [
+     "922",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 922
+   },
+   {
+    "id": "B01BVpJ7xJY",
+    "title": "Problematic Hot tub pump. #pump #hottubs #electrical #hvacarmy #diy #hvac",
+    "meta": [
+     "422",
+     "1y ago"
+    ],
+    "dur": "9:47",
+    "views_tab": 422
+   },
+   {
+    "id": "jmjxvw2BseY",
+    "title": "It\u2019s Hard to stop a Trane? I Think Not! #hvac #hvaclife #commercialhvac #hvacarmy #hvacrepair #hvacr",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1100
+   },
+   {
+    "id": "1afrm0BE92c",
+    "title": "A Unique Trane Voyager unlike any other. #hvac #hvaclife #commercialhvac #hvaccontrols #hvacarmy",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 2300
+   },
+   {
+    "id": "Iz6468p15z8",
+    "title": "Horizon exhaust fan operating a minimum Hz? #hvac #hvaclife #commercialhvac #hvacarmy #hvaccontrols",
+    "meta": [
+     "757",
+     "1y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 757
+   },
+   {
+    "id": "wrVl08zI7kA",
+    "title": "Trane Voyager operating as a multi zone VAV system with Reliatel controls. #hvac #hvaclife #hvacarmy",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "6HZMcdIvTAs",
+    "title": "Dedicated Outdoor Air (DOAU) Training board. #hvac #hvaclife #hvacr #commercialhvac #hvaccontrols",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 1000
+   },
+   {
+    "id": "aP-OiupF2jg",
+    "title": "boiler circulation pump failing, no isolation valves, we must drain the entire system, no air vents!",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 2200
+   },
+   {
+    "id": "NBz0Tw8sVSE",
+    "title": "No heat, Older Carrier Package unit #hvac #commercialhvac #hvaclife #hvacservice #hvacarmy #heat",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "RBEnvT5zpUw",
+    "title": "32 year old Cambridge is still kicking #hvac #hvaclife #hvacservice #commercialhvac #hvacarmy #heat",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "9:54",
+    "views_tab": 1100
+   },
+   {
+    "id": "veTMVXIxP7k",
+    "title": "Soot in the Heat exchanger! #hvac #hvacservice #hvaclife #commercialhvac #hvacarmy #combustion",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 1900
+   },
+   {
+    "id": "La9ntCf_OgM",
+    "title": "Carrier no heat, new heat exchanger? WTF! #hvacarmy #hvac #commercialhvac #hvaclife #hvacservice",
+    "meta": [
+     "944",
+     "1y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 944
+   },
+   {
+    "id": "fcwnq5Qow9c",
+    "title": "Cambridge direct fired burner, damper issues. #industrial #commercialhvac #hvacarmy #hvaclife #hvac",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 1000
+   },
+   {
+    "id": "Dibc1kT-he8",
+    "title": "HSFTOOLS - HF96V #HSFTOOLS #HF96V #thermalcamera #hvac #diy #electrical #hvacr #thermal #blackfriday",
+    "meta": [
+     "248",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 248
+   },
+   {
+    "id": "rtPgfK_YCpM",
+    "title": "lennox core Bluetooth connected package roof top unit. #hvac #hvacarmy #hvaclife #commercialhvac",
+    "meta": [
+     "567",
+     "1y ago"
+    ],
+    "dur": "7:08",
+    "views_tab": 567
+   },
+   {
+    "id": "zFGHsEd2h8E",
+    "title": "Lennox Humiditrol package unit walk through inspection #hvac #hvaclife #hvacservice #commercialhvac",
+    "meta": [
+     "897",
+     "1y ago"
+    ],
+    "dur": "7:11",
+    "views_tab": 897
+   },
+   {
+    "id": "Is1DBclaLd8",
+    "title": "Commonly missed, Simple fix! #hvacservice #hvacarmy #hvaclife #hvac #commercialhvac #electrical",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 1300
+   },
+   {
+    "id": "t3Qylpw-uJc",
+    "title": "2024 van tour and some news! #hvac #hvacservice #hvaclife #commercialhvac #hvacarmy #hvaclife",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 1300
+   },
+   {
+    "id": "IYvT2Xb3z38",
+    "title": "Dectron, Poolpak or Seresto, WTF knows.",
+    "meta": [
+     "2.2K",
+     "2y ago"
+    ],
+    "dur": "39:42",
+    "views_tab": 2200
+   },
+   {
+    "id": "_DjJbqgboLs",
+    "title": "New Carrier package unit not cooling. #hvac #hvacservice #hvaclife #commercialhvac #hvacarmy",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "16:46",
+    "views_tab": 2300
+   },
+   {
+    "id": "QFlTkpneVlg",
+    "title": "Old dirty carrier! This could have been avoided #hvac #hvacservice #airconditioning #commercialhvac",
+    "meta": [
+     "906",
+     "2y ago"
+    ],
+    "dur": "13:53",
+    "views_tab": 906
+   },
+   {
+    "id": "r_SUGLT86gE",
+    "title": "Old trane leak repair, industrial site. #hvac #hvacservice #hvaclife #commercialhvac #hvacarmy",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "27:13",
+    "views_tab": 1300
+   },
+   {
+    "id": "h-7RX-A0ZXc",
+    "title": "Restaurant humidity issues: Was this ever balanced? #hvac #hvacservice #hvaclife #commercialhvac",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 1300
+   },
+   {
+    "id": "7lvjK7EYbpo",
+    "title": "Trane VAV system with duct static pressure problems. #hvac #hvacservice #hvaclife #hvaclove",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 2900
+   },
+   {
+    "id": "j4wnLn4NQxc",
+    "title": "York package unit not cooling. Callback, repairs were just made. #hvac #hvaclife #hvacservice",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "17:37",
+    "views_tab": 1400
+   },
+   {
+    "id": "V2O3V5Gz5l4",
+    "title": "20 year old R22 comfort star DOA. #hvac #hvaclife #hvacservice #commercialhvac #compressor #r22",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "22:20",
+    "views_tab": 1300
+   },
+   {
+    "id": "PYlBaBBOlQw",
+    "title": "last serviced in 2019, old Carrier lives to fight another day. #hvac #hvaclife #hvacservice",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "EIKneCJ44vY",
+    "title": "1989 carrier weathermaker leaking water. #hvac #hvacservice #hvaclife #carrier",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "23:00",
+    "views_tab": 1500
+   },
+   {
+    "id": "j9w4kdIj9Wo",
+    "title": "Kitchen work is the best when no one's in the kitchen. #hvac #hvacr #hvaclife #hvacservice",
+    "meta": [
+     "764",
+     "2y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 764
+   },
+   {
+    "id": "0iML0k5ff3c",
+    "title": "thrown belt, loose pulley, and metal roof danger. #hvac #hvacservice #hvaclife #hvaclove #hvacr",
+    "meta": [
+     "649",
+     "2y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 649
+   },
+   {
+    "id": "yScGM-_0Dls",
+    "title": "2 Lennox units, one space with humidity issues. #hvac #hvacservice #hvaclife #hvacr #commercialhvac",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "16:19",
+    "views_tab": 1700
+   },
+   {
+    "id": "Uh7ea4vTXiM",
+    "title": "inaccessible and neglected air handler. Real World HVAC. #hvac #hvacservice#hvaclife#commercialhvac",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 1300
+   },
+   {
+    "id": "bnkQvV7d88Q",
+    "title": "new carrier package units, poor start-up leads to a service call. #hvac #hvacservice #hvaclife",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 1500
+   },
+   {
+    "id": "8toxSjevaDY",
+    "title": "No Cooling Service Call, York package unit",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 1000
+   },
+   {
+    "id": "a8TxfzsBAfY",
+    "title": "Load phase loss, electrical diagnostics. #hvac #commercialhvac #hvacservice #hvaclife #hvactraining",
+    "meta": [
+     "1.9K",
+     "2y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 1900
+   },
+   {
+    "id": "zMz3UGQ7Zp8",
+    "title": "new Carrier package unit easy call, smart customer #hvac #hvacr #hvacservice#commercialhvac#carrier",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 1100
+   },
+   {
+    "id": "PB_wPh8YMQ8",
+    "title": "Lennox Core circuit board replacement. Bluetooth connection damaged. #hvac #hvacservice #hvaclife",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 1100
+   },
+   {
+    "id": "QuMssds6np8",
+    "title": "Lennox Core Humiditrol Bluetooth Control. #hvac #hvacservice #hvacr #lennox#hvaclife #bluecollarlife",
+    "meta": [
+     "660",
+     "2y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 660
+   },
+   {
+    "id": "xFz-vdJfV1M",
+    "title": "Refrigerant leak search, locating a small leak in a coil. #hvac #hvacservice #commercialhvac #hvacr",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "25:57",
+    "views_tab": 1400
+   },
+   {
+    "id": "GgyK4M_M4j4",
+    "title": "WTF are you doing!? lose less refrigerant when removing your liquid refrigerant hose #hvac#hvaclife",
+    "meta": [
+     "604",
+     "2y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 604
+   },
+   {
+    "id": "UgWItEKKG6k",
+    "title": "VRF Madness! poor installation leads to big problems",
+    "meta": [
+     "2.2K",
+     "2y ago"
+    ],
+    "dur": "7:12",
+    "views_tab": 2200
+   },
+   {
+    "id": "VAJAc4rgDCU",
+    "title": "Old Trane Voyagers, Neglected and in need of a little TLC.",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "30:35",
+    "views_tab": 2000
+   },
+   {
+    "id": "BTcFR2_jxyg",
+    "title": "major refrigerant circuit restrictions cause contactor to chatter on low pressure switch.",
+    "meta": [
+     "854",
+     "2y ago"
+    ],
+    "dur": "1:20",
+    "views_tab": 854
+   },
+   {
+    "id": "jRV_OsbsdEo",
+    "title": "Pump Problems! Hot tub needs a time machine. pump took a dump, and we must fix it.",
+    "meta": [
+     "747",
+     "2y ago"
+    ],
+    "dur": "28:18",
+    "views_tab": 747
+   },
+   {
+    "id": "9wbP0DlJOYc",
+    "title": "Flaring 101. old school flaring tool used on a quarter inch oil line.",
+    "meta": [
+     "778",
+     "2y ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 778
+   },
+   {
+    "id": "yPaiH6stSgI",
+    "title": "Carrier humidimizer walk through and what to look for. #hvac#hvacservice #commercialhvac #carrier",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "2:51",
+    "views_tab": 1300
+   },
+   {
+    "id": "nAGUNh1wHmA",
+    "title": "My New Trane is making a noise! but why? #hvac #hvacservice #hvacr #bluecollarlife #commercialhvac",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 2400
+   },
+   {
+    "id": "Yu8_QyTHUp0",
+    "title": "32 year old Cambridge unit is not heating. they don't build em like this anymore. #hvac",
+    "meta": [
+     "2.2K",
+     "2y ago"
+    ],
+    "dur": "31:33",
+    "views_tab": 2200
+   },
+   {
+    "id": "RkxXmeXms6k",
+    "title": "Old Carrier No Heat Service Call.",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "19:10",
+    "views_tab": 1700
+   },
+   {
+    "id": "y0JVE-YI7Rk",
+    "title": "lennox Humiditrol with CORE Bluetooth controller. walk through and start up.",
+    "meta": [
+     "3.6K",
+     "2y ago"
+    ],
+    "dur": "40:53",
+    "views_tab": 3600
+   },
+   {
+    "id": "2iDBleRcNB8",
+    "title": "cleaning sooted heat exchanger on this trane package unit, but how?",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "25:41",
+    "views_tab": 2100
+   },
+   {
+    "id": "c6KJdeLpOzQ",
+    "title": "What's in my @VetoProPacToolBags  let's find out! #hvac #hvacservice #hvacr #bluecollarlife",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 1700
+   },
+   {
+    "id": "nU1M3uLbP3Q",
+    "title": "boiler circulation pump failing, no isolation valves, we must drain the entire system, no air vents!",
+    "meta": [
+     "7.4K",
+     "2y ago"
+    ],
+    "dur": "49:37",
+    "views_tab": 7400
+   },
+   {
+    "id": "rgGjhKdGMLI",
+    "title": "Pump Problem Macgyver. #shorts  #hvac #hvacservice #hvacr #macgyver #pump #boiler #waterproblem",
+    "meta": [
+     "460",
+     "2y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 460
+   },
+   {
+    "id": "t4Oy32pgzok",
+    "title": "trane heat exchanger full of soot, but why?. how?.",
+    "meta": [
+     "3.1K",
+     "2y ago"
+    ],
+    "dur": "24:05",
+    "views_tab": 3100
+   },
+   {
+    "id": "6NDuCzhfKRg",
+    "title": "two package units, Carrier and York, same building, no heat service calls.",
+    "meta": [
+     "3.6K",
+     "2y ago"
+    ],
+    "dur": "34:59",
+    "views_tab": 3600
+   },
+   {
+    "id": "tZz7gy4VIbo",
+    "title": "poor electrical connections on a trane package unit? #hvac #trane #qualitycontrol #hvacservice",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 1000
+   },
+   {
+    "id": "L6gNlp5GWaw",
+    "title": "Cambridge direct fired makeup air unit no heat #hvac #hvacservice #bluecollarlife#hvacr #industrial",
+    "meta": [
+     "5.5K",
+     "2y ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 5500
+   },
+   {
+    "id": "fYaj9kNRerk",
+    "title": "WTF! no wonder your heat doesn't work. no heat service call, carrier package unit.",
+    "meta": [
+     "6.6K",
+     "2y ago"
+    ],
+    "dur": "16:23",
+    "views_tab": 6600
+   },
+   {
+    "id": "ibbxbBbzZew",
+    "title": "The heat exchanger was just replaced! Carrier package unit not heating. #hvac #hvacservice #hvacr",
+    "meta": [
+     "3.3K",
+     "2y ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 3300
+   },
+   {
+    "id": "wn9zoGvmHhs",
+    "title": "trane package unit no heat service call, no flame sense#hvac#hvacservice#bluecollarlife#trane#noheat",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "19:42",
+    "views_tab": 2900
+   },
+   {
+    "id": "wrA9nl46Vfs",
+    "title": "large makeup air unit not heating. Master of the obvious!",
+    "meta": [
+     "2.5K",
+     "2y ago"
+    ],
+    "dur": "20:46",
+    "views_tab": 2500
+   },
+   {
+    "id": "UV-RH8svUXI",
+    "title": "Old dirty manufacturing building, six unit heaters not working with limited access to some.",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "19:27",
+    "views_tab": 1100
+   },
+   {
+    "id": "2de070lK8ps",
+    "title": "No heat, rough industrial conditions. #hvac #hvacservice #bluecollarlife #hvacr #industrialheater",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "20:51",
+    "views_tab": 1600
+   },
+   {
+    "id": "0WGJmuKvSXA",
+    "title": "Boiler is down! historical building.",
+    "meta": [
+     "864",
+     "2y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 864
+   },
+   {
+    "id": "eHaBsfbk6u0",
+    "title": "no water on site. How do you keep your tank cool? recovery methods and basic RTU observations.",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 1200
+   },
+   {
+    "id": "s4_E-0zQQx8",
+    "title": "The InfiRay P2 Pro. Affordable, Easy, and Accurate. don't miss out on great black Friday deals!",
+    "meta": [
+     "637",
+     "2y ago"
+    ],
+    "dur": "20:19",
+    "views_tab": 637
+   },
+   {
+    "id": "6dI5xd7etbc",
+    "title": "Old Trane split system second opinion, is it dead or not? #hvac #hvacservice #hvacr #compressor",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "17:24",
+    "views_tab": 1500
+   },
+   {
+    "id": "1tmYhSK55I8",
+    "title": "just an old dirty York. neglected package unit.",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "13:41",
+    "views_tab": 1000
+   },
+   {
+    "id": "SOONTDjOlBc",
+    "title": "it just stopped working. What's wrong here?",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "hvYA-bInEeo",
+    "title": "Carrier VFD problems?",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 9200
+   },
+   {
+    "id": "_jnPy2hzACA",
+    "title": "the walk-in cooler is warm.",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "37:19",
+    "views_tab": 1400
+   },
+   {
+    "id": "AOTa_vKvwdk",
+    "title": "Restaurant destroyed by excavator.",
+    "meta": [
+     "909",
+     "3y ago"
+    ],
+    "dur": "8:57",
+    "views_tab": 909
+   },
+   {
+    "id": "U9CDQrPY0Po",
+    "title": "the dining room is too hot.",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 1200
+   },
+   {
+    "id": "q66kxfusb4A",
+    "title": "2 stage Carrier package unit not cooling. call back?",
+    "meta": [
+     "3.2K",
+     "3y ago"
+    ],
+    "dur": "37:52",
+    "views_tab": 3200
+   },
+   {
+    "id": "9I4N0tXeiqE",
+    "title": "a couple of 90s Trane package units, still kickin.",
+    "meta": [
+     "2.1K",
+     "3y ago"
+    ],
+    "dur": "46:00",
+    "views_tab": 2100
+   },
+   {
+    "id": "rLkRmqbudRQ",
+    "title": "using an abandoned VAV box to cool an old storage room, recently changed to conference room.",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "28:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "2M8P83j7MZE",
+    "title": "No Cooling Service Call, 2 split systems, 1 large room.",
+    "meta": [
+     "2K",
+     "3y ago"
+    ],
+    "dur": "32:32",
+    "views_tab": 2000
+   },
+   {
+    "id": "4rcFW_QtJ8I",
+    "title": "no Cooling Service call #2. breaker tripped, but why?",
+    "meta": [
+     "2.4K",
+     "3y ago"
+    ],
+    "dur": "23:47",
+    "views_tab": 2400
+   },
+   {
+    "id": "LqF3qCLlmK8",
+    "title": "no cooling service call. commercial building call #1. #hvacservice #carrier #hvactraining #hvac",
+    "meta": [
+     "3.9K",
+     "3y ago"
+    ],
+    "dur": "27:33",
+    "views_tab": 3900
+   },
+   {
+    "id": "LCwLuPwwXns",
+    "title": "No Cooling Service call another carrier package unit. same commercial building as last week.",
+    "meta": [
+     "2K",
+     "3y ago"
+    ],
+    "dur": "22:26",
+    "views_tab": 2000
+   },
+   {
+    "id": "1lta_ITfbdA",
+    "title": "carrier package unit breaker tripped.",
+    "meta": [
+     "2.8K",
+     "3y ago"
+    ],
+    "dur": "16:10",
+    "views_tab": 2800
+   },
+   {
+    "id": "nl2mIjDXUXg",
+    "title": "No Cooling Service Call, carrier package unit.",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 1800
+   },
+   {
+    "id": "OvlP7NQWrXQ",
+    "title": "No Cooling Service Call, Carrier Humidimizer.",
+    "meta": [
+     "2.1K",
+     "3y ago"
+    ],
+    "dur": "35:35",
+    "views_tab": 2100
+   },
+   {
+    "id": "zMLzIIknc4k",
+    "title": "no Cooling Service Call carrier package unit",
+    "meta": [
+     "1.5K",
+     "3y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 1500
+   },
+   {
+    "id": "TMzPa2ezaf0",
+    "title": "no heat service call, carrier package unit.",
+    "meta": [
+     "940",
+     "3y ago"
+    ],
+    "dur": "17:12",
+    "views_tab": 940
+   },
+   {
+    "id": "dktAwLE1K0s",
+    "title": "Old Trane evaluation and walk through of the entire system.",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "25:09",
+    "views_tab": 2200
+   },
+   {
+    "id": "x4tLcxpHbbI",
+    "title": "Trane water source heat pump not cooling or heating.",
+    "meta": [
+     "4.5K",
+     "3y ago"
+    ],
+    "dur": "56:12",
+    "views_tab": 4500
+   },
+   {
+    "id": "mlfR202myzU",
+    "title": "almost deleted, haven't watched. emptying out my archive. old trane evaluation.",
+    "meta": [
+     "1.5K",
+     "3y ago"
+    ],
+    "dur": "12:43",
+    "views_tab": 1500
+   },
+   {
+    "id": "7vk9cyFA10k",
+    "title": "100-ton Trane intellipack sounds like a freight train throughout 4 story office building.",
+    "meta": [
+     "2.7K",
+     "3y ago"
+    ],
+    "dur": "35:51",
+    "views_tab": 2700
+   },
+   {
+    "id": "1d7_FzvJiZk",
+    "title": "2 carrier no heat calls",
+    "meta": [
+     "1.9K",
+     "3y ago"
+    ],
+    "dur": "24:03",
+    "views_tab": 1900
+   },
+   {
+    "id": "ANGLve3AkIs",
+    "title": "Large Trane package water source heat pump, VAV system with static pressure issues.",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "27:46",
+    "views_tab": 1300
+   },
+   {
+    "id": "zl8-vjHU9A0",
+    "title": "Trane No Heat Call, Negative pressure gas valve",
+    "meta": [
+     "4.6K",
+     "3y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 4600
+   },
+   {
+    "id": "k84wBimB31k",
+    "title": "The ERV is shaking the entire office below.",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 1700
+   },
+   {
+    "id": "5ImZsE1IH28",
+    "title": "Trane steam heated make up air  not working, tripped breaker.",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "29:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "XT07Hru15pk",
+    "title": "No Cooling Service call, The Gym is too hot.",
+    "meta": [
+     "1.5K",
+     "3y ago"
+    ],
+    "dur": "10:53",
+    "views_tab": 1500
+   },
+   {
+    "id": "5_7Z4Je7GBs",
+    "title": "Flame safeguard replacement and testing",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "37:32",
+    "views_tab": 1300
+   },
+   {
+    "id": "Frm4yURo_so",
+    "title": "2 no heat service calls, Bryant and Goodman package units.",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "23:17",
+    "views_tab": 2200
+   },
+   {
+    "id": "6CmKDwvyOAA",
+    "title": "compressor room exhaust/supply fan problems.",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 1800
+   }
+  ],
+  "Popular": [
+   {
+    "id": "b1gaRYma_Bs",
+    "title": "HVAC cooling season, rooftop unit p.m tips, tricks and what to look for",
+    "meta": [
+     "87K",
+     "5y ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 87000
+   },
+   {
+    "id": "ftMu5M0V2Zg",
+    "title": "HVAC trane controls",
+    "meta": [
+     "37K",
+     "5y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 37000
+   },
+   {
+    "id": "XY64XUMx3QQ",
+    "title": "Reach in cooler Service Call, Prep table not cooling.",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 29000
+   },
+   {
+    "id": "c4paF4YCGkI",
+    "title": "Hvac no cooling service call, Trane chiller locked out with sensor issues",
+    "meta": [
+     "16K",
+     "6y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 16000
+   },
+   {
+    "id": "la7i19O1ng8",
+    "title": "multiple hvac service calls. chiller, RTU, walk in cooler.",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 15000
+   },
+   {
+    "id": "n_VGRiEWyw8",
+    "title": "intellipack P.M. and controls overview",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 15000
+   },
+   {
+    "id": "m0SvhgxF41M",
+    "title": "HVAC preventative maintenance. Leibert overview and P.M.  HVAC IT room.",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 13000
+   },
+   {
+    "id": "7vUf_DHqxMQ",
+    "title": "Trane Chiller sensor replacement",
+    "meta": [
+     "12K",
+     "5y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 12000
+   },
+   {
+    "id": "f-BLsBj2GX4",
+    "title": "hvac, 2 unit heaters down, no heat service call.",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "9:45",
+    "views_tab": 11000
+   },
+   {
+    "id": "Uk2125fkLdc",
+    "title": "Carrier Aqua Snap Chiller, Alarm T116 lock out",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "24:57",
+    "views_tab": 11000
+   },
+   {
+    "id": "Mu3IVx6VcpI",
+    "title": "HVAC How To install a smoke detector on a trane package unit with trane Reliatel controls",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 11000
+   },
+   {
+    "id": "dVsaTGMIQLc",
+    "title": "Reznor unit heater stopped heating",
+    "meta": [
+     "11K",
+     "3y ago"
+    ],
+    "dur": "18:04",
+    "views_tab": 11000
+   },
+   {
+    "id": "nR5BmPkb5VQ",
+    "title": "Aaon unit No Heat Service Call, hacked up over many years, wires everywhere! can we make it work?",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "26:18",
+    "views_tab": 10000
+   },
+   {
+    "id": "n9WtmzF2bNs",
+    "title": "hvac no heat service call, carrier package unit",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 10000
+   },
+   {
+    "id": "nbcF119Gs94",
+    "title": "hvac, Bearing replacement, carrier air handler",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "23:58",
+    "views_tab": 10000
+   },
+   {
+    "id": "hvYA-bInEeo",
+    "title": "Carrier VFD problems?",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "18:13",
+    "views_tab": 9200
+   },
+   {
+    "id": "dvuk8Z4wqdY",
+    "title": "trane blower diagnosis + replacement",
+    "meta": [
+     "8.7K",
+     "4y ago"
+    ],
+    "dur": "28:09",
+    "views_tab": 8700
+   },
+   {
+    "id": "LuTvauFqF-s",
+    "title": "hvac service call, thermostat blank, low voltage short",
+    "meta": [
+     "8.3K",
+     "5y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 8300
+   },
+   {
+    "id": "E6vYykyUz34",
+    "title": "you need to see this if you work on Trane. Triac voltage control diagnostic",
+    "meta": [
+     "8.3K",
+     "4y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 8300
+   },
+   {
+    "id": "Djs4ugUXZZM",
+    "title": "2 Rupp Air direct fired make up air units not heating.",
+    "meta": [
+     "7.8K",
+     "4y ago"
+    ],
+    "dur": "24:48",
+    "views_tab": 7800
+   },
+   {
+    "id": "F_A8tflKiHI",
+    "title": "40 ton semi hermetic compressor replacement. it's not hard to stop a trane!",
+    "meta": [
+     "7.6K",
+     "5y ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 7600
+   },
+   {
+    "id": "nU1M3uLbP3Q",
+    "title": "boiler circulation pump failing, no isolation valves, we must drain the entire system, no air vents!",
+    "meta": [
+     "7.4K",
+     "2y ago"
+    ],
+    "dur": "49:37",
+    "views_tab": 7400
+   },
+   {
+    "id": "fYaj9kNRerk",
+    "title": "WTF! no wonder your heat doesn't work. no heat service call, carrier package unit.",
+    "meta": [
+     "6.6K",
+     "2y ago"
+    ],
+    "dur": "16:23",
+    "views_tab": 6600
+   },
+   {
+    "id": "QxHghT2pGMo",
+    "title": "hvac no heat call, trane intellipack",
+    "meta": [
+     "6.3K",
+     "5y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 6300
+   },
+   {
+    "id": "C4H6EXGInvA",
+    "title": "Lennox heat exchanger replacement",
+    "meta": [
+     "6K",
+     "5y ago"
+    ],
+    "dur": "16:15",
+    "views_tab": 6000
+   },
+   {
+    "id": "EHmWGuTAiUc",
+    "title": "York Package Unit electrical issues, but where?",
+    "meta": [
+     "6K",
+     "4y ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 6000
+   },
+   {
+    "id": "DC6WJi_m8is",
+    "title": "No cooling service call, two others would not do.",
+    "meta": [
+     "5.7K",
+     "5y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 5700
+   },
+   {
+    "id": "C6sMPDEDHEU",
+    "title": "No Heat Service call, Trane VAV issues, SC Controls",
+    "meta": [
+     "5.7K",
+     "4y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 5700
+   },
+   {
+    "id": "PlSH3FNnyP8",
+    "title": "HVAC VAN TOUR!",
+    "meta": [
+     "5.6K",
+     "5y ago"
+    ],
+    "dur": "20:23",
+    "views_tab": 5600
+   },
+   {
+    "id": "L6gNlp5GWaw",
+    "title": "Cambridge direct fired makeup air unit no heat #hvac #hvacservice #bluecollarlife#hvacr #industrial",
+    "meta": [
+     "5.5K",
+     "2y ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 5500
+   },
+   {
+    "id": "TpsUDAUDGqs",
+    "title": "2 New package units not cooling",
+    "meta": [
+     "5.3K",
+     "4y ago"
+    ],
+    "dur": "21:38",
+    "views_tab": 5300
+   },
+   {
+    "id": "2ZglsThPFT8",
+    "title": "direct fired make up air, greenheck,  high limit trips.",
+    "meta": [
+     "5.3K",
+     "5y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 5300
+   },
+   {
+    "id": "cbBmPM-KhAs",
+    "title": "No Heat Service Call, RBI Boiler not heating, the entire building is cold.",
+    "meta": [
+     "5.2K",
+     "3y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 5200
+   },
+   {
+    "id": "M1qgHdxDsNU",
+    "title": "New Make up air, direct fired burner not heating, Service Call",
+    "meta": [
+     "5.1K",
+     "4y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 5100
+   },
+   {
+    "id": "DU7vnVi-LkM",
+    "title": "No Cooling Service Call, old 2 stage carrier unit with multiple issues",
+    "meta": [
+     "4.9K",
+     "4y ago"
+    ],
+    "dur": "16:52",
+    "views_tab": 4900
+   },
+   {
+    "id": "WadehYcwDJc",
+    "title": "ERV wheel replacement",
+    "meta": [
+     "4.7K",
+     "5y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 4700
+   },
+   {
+    "id": "WyvejEu7hnM",
+    "title": "hvac, No cooling service call. one thing after another. multiple issues resolved.",
+    "meta": [
+     "4.7K",
+     "5y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 4700
+   },
+   {
+    "id": "TiUyeBMG9lI",
+    "title": "Trane Voyager, no cooling. hvac service call.",
+    "meta": [
+     "4.7K",
+     "6y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 4700
+   },
+   {
+    "id": "0RFR8AnGAE8",
+    "title": "Daikin condenser coil leak repair",
+    "meta": [
+     "4.7K",
+     "4y ago"
+    ],
+    "dur": "27:21",
+    "views_tab": 4700
+   },
+   {
+    "id": "gn9ULKG0-T8",
+    "title": "no cooling service call, york package unit leak check and repair",
+    "meta": [
+     "4.7K",
+     "5y ago"
+    ],
+    "dur": "18:50",
+    "views_tab": 4700
+   },
+   {
+    "id": "zl8-vjHU9A0",
+    "title": "Trane No Heat Call, Negative pressure gas valve",
+    "meta": [
+     "4.6K",
+     "3y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 4600
+   },
+   {
+    "id": "iyYSzOUE4NY",
+    "title": "No heat, cambridge unit, service call",
+    "meta": [
+     "4.5K",
+     "5y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 4500
+   },
+   {
+    "id": "WKBGS0dHrAE",
+    "title": "No Cooling Service Call, 18 year old Carrier Split System.",
+    "meta": [
+     "4.5K",
+     "4y ago"
+    ],
+    "dur": "29:52",
+    "views_tab": 4500
+   },
+   {
+    "id": "x4tLcxpHbbI",
+    "title": "Trane water source heat pump not cooling or heating.",
+    "meta": [
+     "4.5K",
+     "3y ago"
+    ],
+    "dur": "56:12",
+    "views_tab": 4500
+   },
+   {
+    "id": "bkYYdPZDiVI",
+    "title": "Industrial Boiler Tear down and cleaning",
+    "meta": [
+     "4.4K",
+     "3y ago"
+    ],
+    "dur": "33:04",
+    "views_tab": 4400
+   },
+   {
+    "id": "KnmodmdR7jw",
+    "title": "25 year old trane Service call",
+    "meta": [
+     "4.4K",
+     "5y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 4400
+   },
+   {
+    "id": "GUIG5bxCYqQ",
+    "title": "intellipack no heat",
+    "meta": [
+     "4.3K",
+     "4y ago"
+    ],
+    "dur": "16:04",
+    "views_tab": 4300
+   },
+   {
+    "id": "mLEMm4acwxI",
+    "title": "Real World HVAC repair. Carrier humidimizer repairs.",
+    "meta": [
+     "4.3K",
+     "5y ago"
+    ],
+    "dur": "46:09",
+    "views_tab": 4300
+   },
+   {
+    "id": "NST6Nd0p6TM",
+    "title": "No Cooling Service Call, 2 Carrier Weathermaker package Heat Pumps",
+    "meta": [
+     "4.2K",
+     "4y ago"
+    ],
+    "dur": "24:50",
+    "views_tab": 4200
+   },
+   {
+    "id": "KWtT0f0rNE8",
+    "title": "No Cooling Service Call, Labor Day Bonus Video! there's a lot going on here",
+    "meta": [
+     "4.1K",
+     "5y ago"
+    ],
+    "dur": "11:31",
+    "views_tab": 4100
+   },
+   {
+    "id": "hMfJu8-o0f0",
+    "title": "exhaust fan down and storm coming, this has got to work!",
+    "meta": [
+     "4.1K",
+     "4y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 4100
+   },
+   {
+    "id": "SoiPkL9LDjk",
+    "title": "No Cooling Service Call, old Goodman unit with multiple issues",
+    "meta": [
+     "4K",
+     "4y ago"
+    ],
+    "dur": "18:09",
+    "views_tab": 4000
+   },
+   {
+    "id": "qdc5irP4EEI",
+    "title": "Trane rtu no cool, plus Goodman split system with Lennox evaporator not cooling. 2 for one service",
+    "meta": [
+     "3.9K",
+     "4y ago"
+    ],
+    "dur": "26:56",
+    "views_tab": 3900
+   },
+   {
+    "id": "LqF3qCLlmK8",
+    "title": "no cooling service call. commercial building call #1. #hvacservice #carrier #hvactraining #hvac",
+    "meta": [
+     "3.9K",
+     "3y ago"
+    ],
+    "dur": "27:33",
+    "views_tab": 3900
+   },
+   {
+    "id": "bJFxF-PBKhI",
+    "title": "hvac No heat service call. trane Voyager package unit",
+    "meta": [
+     "3.9K",
+     "6y ago"
+    ],
+    "dur": "7:52",
+    "views_tab": 3900
+   },
+   {
+    "id": "XH5Mp_Jl2Xg",
+    "title": "3 Old Units, Remodel equipment assessment 1984 Lennox pulse Furnaces",
+    "meta": [
+     "3.8K",
+     "4y ago"
+    ],
+    "dur": "32:29",
+    "views_tab": 3800
+   },
+   {
+    "id": "WnpOTOeR3aU",
+    "title": "HVAC Service Call Commercial 20 Ton Trane package unit, Variable Air Volume",
+    "meta": [
+     "3.8K",
+     "4y ago"
+    ],
+    "dur": "20:34",
+    "views_tab": 3800
+   },
+   {
+    "id": "B2vkp8XIoGU",
+    "title": "Make up air unit not heating",
+    "meta": [
+     "3.7K",
+     "3y ago"
+    ],
+    "dur": "35:55",
+    "views_tab": 3700
+   },
+   {
+    "id": "o22oR308tcw",
+    "title": "CGAM Chiller sensor failure",
+    "meta": [
+     "3.7K",
+     "4y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 3700
+   },
+   {
+    "id": "h-v2u57eoN4",
+    "title": "hvac no heat service call",
+    "meta": [
+     "3.6K",
+     "5y ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 3600
+   },
+   {
+    "id": "rit95nuqvRA",
+    "title": "Commercial/Industrial P.M.",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "19:08",
+    "views_tab": 3600
+   },
+   {
+    "id": "uLqWIY4JOM4",
+    "title": "No Cooling Service Call, A Gift From the installers",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "16:57",
+    "views_tab": 3600
+   },
+   {
+    "id": "6NDuCzhfKRg",
+    "title": "two package units, Carrier and York, same building, no heat service calls.",
+    "meta": [
+     "3.6K",
+     "2y ago"
+    ],
+    "dur": "34:59",
+    "views_tab": 3600
+   },
+   {
+    "id": "ancUNuXKtrU",
+    "title": "greenheck make up air, modulating gas heat start up.",
+    "meta": [
+     "3.6K",
+     "5y ago"
+    ],
+    "dur": "17:28",
+    "views_tab": 3600
+   },
+   {
+    "id": "y0JVE-YI7Rk",
+    "title": "lennox Humiditrol with CORE Bluetooth controller. walk through and start up.",
+    "meta": [
+     "3.6K",
+     "2y ago"
+    ],
+    "dur": "40:53",
+    "views_tab": 3600
+   },
+   {
+    "id": "FhL8LF58GE0",
+    "title": "No Heat Service Call, Cambridge unit Lock out",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "16:04",
+    "views_tab": 3600
+   },
+   {
+    "id": "40TgfNnEDaM",
+    "title": "RBI Boiler burner tear down, insulator and gasket replacement",
+    "meta": [
+     "3.6K",
+     "3y ago"
+    ],
+    "dur": "39:02",
+    "views_tab": 3600
+   },
+   {
+    "id": "g42_CleLdyo",
+    "title": "No Heat Service Call, Cambridge direct fired burner.",
+    "meta": [
+     "3.5K",
+     "4y ago"
+    ],
+    "dur": "15:23",
+    "views_tab": 3500
+   },
+   {
+    "id": "-iKYTCSGS7s",
+    "title": "No Cooling service call 2 carrier package units not cooling",
+    "meta": [
+     "3.5K",
+     "4y ago"
+    ],
+    "dur": "20:59",
+    "views_tab": 3500
+   },
+   {
+    "id": "ZL8MzUWTBls",
+    "title": "Lowering blower speed to dehumidify. home hvac.",
+    "meta": [
+     "3.5K",
+     "6y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 3500
+   },
+   {
+    "id": "1-SIaBX5QfI",
+    "title": "Intellipack no cool service call but where is the problem",
+    "meta": [
+     "3.5K",
+     "5y ago"
+    ],
+    "dur": "15:20",
+    "views_tab": 3500
+   },
+   {
+    "id": "ViPDRCtdH08",
+    "title": "no Cooling Service Call",
+    "meta": [
+     "3.4K",
+     "4y ago"
+    ],
+    "dur": "17:42",
+    "views_tab": 3400
+   },
+   {
+    "id": "PSoabkIA0LI",
+    "title": "no cooling service call IT room",
+    "meta": [
+     "3.4K",
+     "5y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 3400
+   },
+   {
+    "id": "2nn6F_Y2SII",
+    "title": "walk in cooler + no heat service call",
+    "meta": [
+     "3.3K",
+     "4y ago"
+    ],
+    "dur": "22:19",
+    "views_tab": 3300
+   },
+   {
+    "id": "OPTZ9vLKCqk",
+    "title": "Daikin Heat pump Service Call.",
+    "meta": [
+     "3.3K",
+     "4y ago"
+    ],
+    "dur": "12:03",
+    "views_tab": 3300
+   },
+   {
+    "id": "ibbxbBbzZew",
+    "title": "The heat exchanger was just replaced! Carrier package unit not heating. #hvac #hvacservice #hvacr",
+    "meta": [
+     "3.3K",
+     "2y ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 3300
+   },
+   {
+    "id": "wmmWxefHCcg",
+    "title": "Old Trane package unit, No Cooling service call",
+    "meta": [
+     "3.2K",
+     "4y ago"
+    ],
+    "dur": "19:50",
+    "views_tab": 3200
+   },
+   {
+    "id": "Ex7B4NSOWlI",
+    "title": "Sunday hvac no Cooling service call",
+    "meta": [
+     "3.2K",
+     "5y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 3200
+   },
+   {
+    "id": "q66kxfusb4A",
+    "title": "2 stage Carrier package unit not cooling. call back?",
+    "meta": [
+     "3.2K",
+     "3y ago"
+    ],
+    "dur": "37:52",
+    "views_tab": 3200
+   },
+   {
+    "id": "yiXClzD60aY",
+    "title": "No Heat Service Call, Residential furnace",
+    "meta": [
+     "3.2K",
+     "4y ago"
+    ],
+    "dur": "15:17",
+    "views_tab": 3200
+   },
+   {
+    "id": "khxCaNeoBTE",
+    "title": "Industrial Bearing Replacement",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "41:46",
+    "views_tab": 3100
+   },
+   {
+    "id": "gObUC51g2UI",
+    "title": "hvac no heat service call carrier package unit.",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 3100
+   },
+   {
+    "id": "t4Oy32pgzok",
+    "title": "trane heat exchanger full of soot, but why?. how?.",
+    "meta": [
+     "3.1K",
+     "2y ago"
+    ],
+    "dur": "24:05",
+    "views_tab": 3100
+   },
+   {
+    "id": "kHSEVYsCDnw",
+    "title": "hvac no heat service call, trane intellipack",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 3100
+   },
+   {
+    "id": "Yw886wgbGKg",
+    "title": "no cooling, after hours service call",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 3100
+   },
+   {
+    "id": "dH7PNcn-Zs4",
+    "title": "4 Ton Daikin package unit, single phased with air flow issues",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "16:02",
+    "views_tab": 3000
+   },
+   {
+    "id": "kaPS92tE3Rc",
+    "title": "HVAC Service Call, Trane Package unit not communicating",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 3000
+   },
+   {
+    "id": "FLT8kzvnNp0",
+    "title": "hvac, no heat service call, Bryant package unit down after an Ice storm.",
+    "meta": [
+     "3K",
+     "5y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 3000
+   },
+   {
+    "id": "0Z7ovOD8BlU",
+    "title": "No Cooling Service Call, Old Carrier Package unit",
+    "meta": [
+     "2.9K",
+     "4y ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 2900
+   },
+   {
+    "id": "7lvjK7EYbpo",
+    "title": "Trane VAV system with duct static pressure problems. #hvac #hvacservice #hvaclife #hvaclove",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 2900
+   },
+   {
+    "id": "xoAXHXBj4Po",
+    "title": "HVAC No Cooling Service Call",
+    "meta": [
+     "2.9K",
+     "5y ago"
+    ],
+    "dur": "16:17",
+    "views_tab": 2900
+   },
+   {
+    "id": "wn9zoGvmHhs",
+    "title": "trane package unit no heat service call, no flame sense#hvac#hvacservice#bluecollarlife#trane#noheat",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "19:42",
+    "views_tab": 2900
+   },
+   {
+    "id": "OALfR4dsyPE",
+    "title": "55 Ton Trane Intellipack Replacement and controls start up.",
+    "meta": [
+     "2.8K",
+     "3y ago"
+    ],
+    "dur": "16:23",
+    "views_tab": 2800
+   },
+   {
+    "id": "1lta_ITfbdA",
+    "title": "carrier package unit breaker tripped.",
+    "meta": [
+     "2.8K",
+     "3y ago"
+    ],
+    "dur": "16:10",
+    "views_tab": 2800
+   },
+   {
+    "id": "_LEJA-Gv6aY",
+    "title": "HVACR Service Call. Evaporator Iced up.",
+    "meta": [
+     "2.8K",
+     "5y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 2800
+   },
+   {
+    "id": "8vYr6d6ZvCo",
+    "title": "old trane unit fell off the tracks",
+    "meta": [
+     "2.8K",
+     "4y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 2800
+   },
+   {
+    "id": "nbMB5x0tkUY",
+    "title": "Carrier package unit, low voltage short",
+    "meta": [
+     "2.8K",
+     "4y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 2800
+   },
+   {
+    "id": "i_Wr09BRy5M",
+    "title": "Refrigeration Cycle Explained",
+    "meta": [
+     "2.7K",
+     "4y ago"
+    ],
+    "dur": "12:16",
+    "views_tab": 2700
+   },
+   {
+    "id": "0_MmgSQsN4o",
+    "title": "Commonly neglected and missed items on commercial preventive maintenance",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 2700
+   },
+   {
+    "id": "retz1RsZ45w",
+    "title": "hvac, Goodman package unit condenser coil replacement start to finish.",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "20:55",
+    "views_tab": 2700
+   },
+   {
+    "id": "FEPwV9s2nCg",
+    "title": "Process Chiller not keeping temp",
+    "meta": [
+     "2.7K",
+     "4y ago"
+    ],
+    "dur": "22:01",
+    "views_tab": 2700
+   },
+   {
+    "id": "-Apt_HpmiQA",
+    "title": "hvac no heat call, trane climate changer.",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "9:39",
+    "views_tab": 2700
+   },
+   {
+    "id": "Hw2_6C8lrY0",
+    "title": "hvac process chiller lock out!",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "22:49",
+    "views_tab": 2700
+   },
+   {
+    "id": "7vk9cyFA10k",
+    "title": "100-ton Trane intellipack sounds like a freight train throughout 4 story office building.",
+    "meta": [
+     "2.7K",
+     "3y ago"
+    ],
+    "dur": "35:51",
+    "views_tab": 2700
+   },
+   {
+    "id": "vEu5guMEN0M",
+    "title": "No Cooling Service call, Jade economiser control",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 2600
+   },
+   {
+    "id": "_oJ31DNXXTc",
+    "title": "old split system leak repair and refrigerant conversion to R458A",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 2600
+   },
+   {
+    "id": "zzWFEsiHK1s",
+    "title": "after hours no Cooling 2 carrier humidimizers multiple issues",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 2600
+   },
+   {
+    "id": "AcgL7VrMZrk",
+    "title": "Old Neglected Carrier Weathermaker Chugging Away. #hvac #hvaclife #commercialhvac #hvacarmy #hvacr",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 2600
+   },
+   {
+    "id": "0dW5JG8XPkc",
+    "title": "Trane Voyager with VAV controls not cooling",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 2600
+   },
+   {
+    "id": "0zz1T-T9cKY",
+    "title": "Bryant package unit start up,  new carrier unit configuration.",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 2600
+   },
+   {
+    "id": "xaB2VD8GYaQ",
+    "title": "Goodman split system no Cooling Service Call.",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 2600
+   },
+   {
+    "id": "wrA9nl46Vfs",
+    "title": "large makeup air unit not heating. Master of the obvious!",
+    "meta": [
+     "2.5K",
+     "2y ago"
+    ],
+    "dur": "20:46",
+    "views_tab": 2500
+   },
+   {
+    "id": "hUUy0MIXDII",
+    "title": "walk in cooler, dirty with other issues",
+    "meta": [
+     "2.5K",
+     "4y ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 2500
+   },
+   {
+    "id": "Lq17ZO8VgIY",
+    "title": "old Lennox lock out code 23 low pressure",
+    "meta": [
+     "2.5K",
+     "4y ago"
+    ],
+    "dur": "8:57",
+    "views_tab": 2500
+   },
+   {
+    "id": "2FaIlW-RK5U",
+    "title": "carrier humidimiser",
+    "meta": [
+     "2.5K",
+     "5y ago"
+    ],
+    "dur": "12:58",
+    "views_tab": 2500
+   },
+   {
+    "id": "Nx6g8xYeUFw",
+    "title": "Package unit compressor replacement",
+    "meta": [
+     "2.5K",
+     "6y ago"
+    ],
+    "dur": "18:15",
+    "views_tab": 2500
+   },
+   {
+    "id": "eq2svBJvm28",
+    "title": "2 No cooling service calls, same site",
+    "meta": [
+     "2.4K",
+     "5y ago"
+    ],
+    "dur": "14:23",
+    "views_tab": 2400
+   },
+   {
+    "id": "nAGUNh1wHmA",
+    "title": "My New Trane is making a noise! but why? #hvac #hvacservice #hvacr #bluecollarlife #commercialhvac",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 2400
+   },
+   {
+    "id": "4rcFW_QtJ8I",
+    "title": "no Cooling Service call #2. breaker tripped, but why?",
+    "meta": [
+     "2.4K",
+     "3y ago"
+    ],
+    "dur": "23:47",
+    "views_tab": 2400
+   },
+   {
+    "id": "7Cj0W2RoUmw",
+    "title": "Old Lennox HVAC no cooling service call",
+    "meta": [
+     "2.4K",
+     "5y ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 2400
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "1jr7XiBQ8OY",
+    "title": "Low voltage short, installation issues, transformer breaker tripped.",
+    "meta": [
+     "601",
+     "6y ago"
+    ],
+    "dur": "2:37",
+    "views_tab": 601
+   },
+   {
+    "id": "9fCQV_jvfxM",
+    "title": "hvac, Compressor replacement start to finish. compressor acid burn out",
+    "meta": [
+     "1.6K",
+     "6y ago"
+    ],
+    "dur": "24:36",
+    "views_tab": 1600
+   },
+   {
+    "id": "ruXOZwEzGO8",
+    "title": "hvac, Coil cleaning, Don't use water!",
+    "meta": [
+     "254",
+     "6y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 254
+   },
+   {
+    "id": "DdoCzNqgxWs",
+    "title": "Not your typical package unit.",
+    "meta": [
+     "230",
+     "6y ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 230
+   },
+   {
+    "id": "S27ssnhXcII",
+    "title": "hvac no cooling, Package unit has seen better days.",
+    "meta": [
+     "330",
+     "6y ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 330
+   },
+   {
+    "id": "2QhtjMTqBhg",
+    "title": "Trap your damn drain line",
+    "meta": [
+     "157",
+     "6y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 157
+   },
+   {
+    "id": "gDuKOjmzaEA",
+    "title": "hvac service call. Capacitor check",
+    "meta": [
+     "106",
+     "6y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 106
+   },
+   {
+    "id": "S8AFV3HsReQ",
+    "title": "Much needed p.m",
+    "meta": [
+     "104",
+     "6y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 104
+   },
+   {
+    "id": "YF4xhQNzGNI",
+    "title": "hvac service call, Old VAV system damper not working.",
+    "meta": [
+     "1.8K",
+     "6y ago"
+    ],
+    "dur": "5:23",
+    "views_tab": 1800
+   },
+   {
+    "id": "6Cs4G0tDxek",
+    "title": "Look at this dinosaur",
+    "meta": [
+     "137",
+     "6y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 137
+   },
+   {
+    "id": "BjUIXKhL_GU",
+    "title": "Nothing stops a trane.",
+    "meta": [
+     "241",
+     "6y ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 241
+   },
+   {
+    "id": "Pm_AkDIavG8",
+    "title": "Process chiller leaking refrigerant",
+    "meta": [
+     "268",
+     "6y ago"
+    ],
+    "dur": "2:57",
+    "views_tab": 268
+   },
+   {
+    "id": "Nx6g8xYeUFw",
+    "title": "Package unit compressor replacement",
+    "meta": [
+     "2.5K",
+     "6y ago"
+    ],
+    "dur": "18:15",
+    "views_tab": 2500
+   },
+   {
+    "id": "_C9GUOoQNmY",
+    "title": "No cooling hvac service call, package unit",
+    "meta": [
+     "213",
+     "6y ago"
+    ],
+    "dur": "8:31",
+    "views_tab": 213
+   },
+   {
+    "id": "4IA3lARQW2c",
+    "title": "Carrier humidimiser unit, hvac humidity control.",
+    "meta": [
+     "1.2K",
+     "6y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 1200
+   },
+   {
+    "id": "GUq5Yx-uBuU",
+    "title": "No cooling, but why?",
+    "meta": [
+     "146",
+     "6y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 146
+   },
+   {
+    "id": "tXuGVbaagT0",
+    "title": "Zone system, 1 zone warm",
+    "meta": [
+     "98",
+     "6y ago"
+    ],
+    "dur": "11:12",
+    "views_tab": 98
+   },
+   {
+    "id": "nbcF119Gs94",
+    "title": "hvac, Bearing replacement, carrier air handler",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "23:58",
+    "views_tab": 10000
+   },
+   {
+    "id": "0wcS_iq9GHo",
+    "title": "hvac, heat pump refrigeration cycle, reversing valve explained. water source heat pump.",
+    "meta": [
+     "377",
+     "6y ago"
+    ],
+    "dur": "8:29",
+    "views_tab": 377
+   },
+   {
+    "id": "cIR_feExFUw",
+    "title": "hvac Crane lift, 100 ton package unit x 2. hvac replacement.",
+    "meta": [
+     "1.4K",
+     "6y ago"
+    ],
+    "dur": "25:19",
+    "views_tab": 1400
+   },
+   {
+    "id": "rJ5DVYllooc",
+    "title": "hvac service call. Trane Voyager noisy operation.",
+    "meta": [
+     "530",
+     "6y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 530
+   },
+   {
+    "id": "ZL8MzUWTBls",
+    "title": "Lowering blower speed to dehumidify. home hvac.",
+    "meta": [
+     "3.5K",
+     "6y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 3500
+   },
+   {
+    "id": "73Mq8sK_Upg",
+    "title": "Neglected cooling tower, how much calcium build up could it have?",
+    "meta": [
+     "396",
+     "6y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 396
+   },
+   {
+    "id": "iBGFTUeDKWE",
+    "title": "Walk in cooler at 80 degrees",
+    "meta": [
+     "373",
+     "6y ago"
+    ],
+    "dur": "26:15",
+    "views_tab": 373
+   },
+   {
+    "id": "TiUyeBMG9lI",
+    "title": "Trane Voyager, no cooling. hvac service call.",
+    "meta": [
+     "4.7K",
+     "6y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 4700
+   },
+   {
+    "id": "b8BpZi6cqMM",
+    "title": "Trane Voyager multiple offender. hvac service call.",
+    "meta": [
+     "493",
+     "6y ago"
+    ],
+    "dur": "4:54",
+    "views_tab": 493
+   },
+   {
+    "id": "CGXfmv2YB_I",
+    "title": "freezer defrost issues. HVACR service call.",
+    "meta": [
+     "192",
+     "6y ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 192
+   },
+   {
+    "id": "ViJ4dAGqtKE",
+    "title": "HVAC, adventures with steam. service call.",
+    "meta": [
+     "362",
+     "6y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 362
+   },
+   {
+    "id": "ov87hACpt70",
+    "title": "HVAC service call, bad capacitor",
+    "meta": [
+     "168",
+     "6y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 168
+   },
+   {
+    "id": "Rt12gspuXt8",
+    "title": "Hard to stop a trane? Compressor lock out, oil pressure control. HVACR",
+    "meta": [
+     "1.7K",
+     "6y ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 1700
+   },
+   {
+    "id": "DyEziJ5P8VQ",
+    "title": "Hvac gas heating start up and sequence of operation.",
+    "meta": [
+     "549",
+     "6y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 549
+   },
+   {
+    "id": "Y9DUWBrcyVM",
+    "title": "No cooling service call",
+    "meta": [
+     "456",
+     "6y ago"
+    ],
+    "dur": "17:15",
+    "views_tab": 456
+   },
+   {
+    "id": "diTHMR7ONN4",
+    "title": "No cooling service call. Evaluation and repair.",
+    "meta": [
+     "316",
+     "6y ago"
+    ],
+    "dur": "17:15",
+    "views_tab": 316
+   },
+   {
+    "id": "m0SvhgxF41M",
+    "title": "HVAC preventative maintenance. Leibert overview and P.M.  HVAC IT room.",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 13000
+   },
+   {
+    "id": "Z_Jo5MLKVa4",
+    "title": "Hvac trouble alarm, service call, lennox package unit. tripped breaker.",
+    "meta": [
+     "759",
+     "6y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 759
+   },
+   {
+    "id": "bJFxF-PBKhI",
+    "title": "hvac No heat service call. trane Voyager package unit",
+    "meta": [
+     "3.9K",
+     "6y ago"
+    ],
+    "dur": "7:52",
+    "views_tab": 3900
+   },
+   {
+    "id": "UfYWJum8A9g",
+    "title": "Hvac No heat or cool service call/ second opinion",
+    "meta": [
+     "450",
+     "6y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 450
+   },
+   {
+    "id": "c4paF4YCGkI",
+    "title": "Hvac no cooling service call, Trane chiller locked out with sensor issues",
+    "meta": [
+     "16K",
+     "6y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 16000
+   },
+   {
+    "id": "SgaxnAg3tFg",
+    "title": "No cooling service call. Hvac high pressure lock out.",
+    "meta": [
+     "950",
+     "6y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 950
+   },
+   {
+    "id": "WiL8SckCWXk",
+    "title": "no cooling service call, leak repair.",
+    "meta": [
+     "587",
+     "6y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 587
+   },
+   {
+    "id": "hQYIR3IGSqY",
+    "title": "no heat trane hvac package unit, small problem, easy fix!",
+    "meta": [
+     "896",
+     "6y ago"
+    ],
+    "dur": "4:24",
+    "views_tab": 896
+   },
+   {
+    "id": "F_A8tflKiHI",
+    "title": "40 ton semi hermetic compressor replacement. it's not hard to stop a trane!",
+    "meta": [
+     "7.6K",
+     "5y ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 7600
+   },
+   {
+    "id": "CGaUWWw2hsM",
+    "title": "VAV with trane controls, intermittent cooling issues",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 2100
+   },
+   {
+    "id": "kHSEVYsCDnw",
+    "title": "hvac no heat service call, trane intellipack",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 3100
+   },
+   {
+    "id": "2ZglsThPFT8",
+    "title": "direct fired make up air, greenheck,  high limit trips.",
+    "meta": [
+     "5.3K",
+     "5y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 5300
+   },
+   {
+    "id": "PlSH3FNnyP8",
+    "title": "HVAC VAN TOUR!",
+    "meta": [
+     "5.6K",
+     "5y ago"
+    ],
+    "dur": "20:23",
+    "views_tab": 5600
+   },
+   {
+    "id": "0zz1T-T9cKY",
+    "title": "Bryant package unit start up,  new carrier unit configuration.",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 2600
+   },
+   {
+    "id": "ToxOaRrXCdY",
+    "title": "HVAC P.M. limited access, multiple style units, industrial conditions. location walk through.",
+    "meta": [
+     "959",
+     "5y ago"
+    ],
+    "dur": "16:42",
+    "views_tab": 959
+   },
+   {
+    "id": "retz1RsZ45w",
+    "title": "hvac, Goodman package unit condenser coil replacement start to finish.",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "20:55",
+    "views_tab": 2700
+   },
+   {
+    "id": "LuTvauFqF-s",
+    "title": "hvac service call, thermostat blank, low voltage short",
+    "meta": [
+     "8.3K",
+     "5y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 8300
+   },
+   {
+    "id": "Hw2_6C8lrY0",
+    "title": "hvac process chiller lock out!",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "22:49",
+    "views_tab": 2700
+   },
+   {
+    "id": "n9WtmzF2bNs",
+    "title": "hvac no heat service call, carrier package unit",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 10000
+   },
+   {
+    "id": "iyYSzOUE4NY",
+    "title": "No heat, cambridge unit, service call",
+    "meta": [
+     "4.5K",
+     "5y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 4500
+   },
+   {
+    "id": "ancUNuXKtrU",
+    "title": "greenheck make up air, modulating gas heat start up.",
+    "meta": [
+     "3.6K",
+     "5y ago"
+    ],
+    "dur": "17:28",
+    "views_tab": 3600
+   },
+   {
+    "id": "-Apt_HpmiQA",
+    "title": "hvac no heat call, trane climate changer.",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "9:39",
+    "views_tab": 2700
+   },
+   {
+    "id": "O5sP-P698KA",
+    "title": "hvac no heat service call, multiple steam heaters not working.",
+    "meta": [
+     "1.6K",
+     "5y ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 1600
+   },
+   {
+    "id": "gObUC51g2UI",
+    "title": "hvac no heat service call carrier package unit.",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 3100
+   },
+   {
+    "id": "h-v2u57eoN4",
+    "title": "hvac no heat service call",
+    "meta": [
+     "3.6K",
+     "5y ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 3600
+   },
+   {
+    "id": "QxHghT2pGMo",
+    "title": "hvac no heat call, trane intellipack",
+    "meta": [
+     "6.3K",
+     "5y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 6300
+   },
+   {
+    "id": "CfMSGXZTUBM",
+    "title": "hvac, new Bryant package unit no heat service call",
+    "meta": [
+     "2.2K",
+     "5y ago"
+    ],
+    "dur": "12:49",
+    "views_tab": 2200
+   },
+   {
+    "id": "f-BLsBj2GX4",
+    "title": "hvac, 2 unit heaters down, no heat service call.",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "9:45",
+    "views_tab": 11000
+   },
+   {
+    "id": "FLT8kzvnNp0",
+    "title": "hvac, no heat service call, Bryant package unit down after an Ice storm.",
+    "meta": [
+     "3K",
+     "5y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 3000
+   },
+   {
+    "id": "IMuaS0JAwmQ",
+    "title": "hvac, cabinet cooler not working, no cooling service call.",
+    "meta": [
+     "1.5K",
+     "5y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 1500
+   },
+   {
+    "id": "WyvejEu7hnM",
+    "title": "hvac, No cooling service call. one thing after another. multiple issues resolved.",
+    "meta": [
+     "4.7K",
+     "5y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 4700
+   },
+   {
+    "id": "qnf74o_1ebg",
+    "title": "hvac steam issues, low pressure steam heating.",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 2100
+   },
+   {
+    "id": "PSoabkIA0LI",
+    "title": "no cooling service call IT room",
+    "meta": [
+     "3.4K",
+     "5y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 3400
+   },
+   {
+    "id": "la7i19O1ng8",
+    "title": "multiple hvac service calls. chiller, RTU, walk in cooler.",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 15000
+   },
+   {
+    "id": "WadehYcwDJc",
+    "title": "ERV wheel replacement",
+    "meta": [
+     "4.7K",
+     "5y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 4700
+   },
+   {
+    "id": "b1gaRYma_Bs",
+    "title": "HVAC cooling season, rooftop unit p.m tips, tricks and what to look for",
+    "meta": [
+     "87K",
+     "5y ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 87000
+   },
+   {
+    "id": "0_MmgSQsN4o",
+    "title": "Commonly neglected and missed items on commercial preventive maintenance",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 2700
+   },
+   {
+    "id": "C4H6EXGInvA",
+    "title": "Lennox heat exchanger replacement",
+    "meta": [
+     "6K",
+     "5y ago"
+    ],
+    "dur": "16:15",
+    "views_tab": 6000
+   },
+   {
+    "id": "eq2svBJvm28",
+    "title": "2 No cooling service calls, same site",
+    "meta": [
+     "2.4K",
+     "5y ago"
+    ],
+    "dur": "14:23",
+    "views_tab": 2400
+   },
+   {
+    "id": "n_VGRiEWyw8",
+    "title": "intellipack P.M. and controls overview",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 15000
+   },
+   {
+    "id": "Yw886wgbGKg",
+    "title": "no cooling, after hours service call",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 3100
+   },
+   {
+    "id": "r2YEUGXjikw",
+    "title": "No cooling service call. honeywell Lon talk controls",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "12:48",
+    "views_tab": 1300
+   },
+   {
+    "id": "gn9ULKG0-T8",
+    "title": "no cooling service call, york package unit leak check and repair",
+    "meta": [
+     "4.7K",
+     "5y ago"
+    ],
+    "dur": "18:50",
+    "views_tab": 4700
+   },
+   {
+    "id": "Ld-LB3FZxOo",
+    "title": "the kitchen has no AC, No Cooling service call",
+    "meta": [
+     "1.9K",
+     "5y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 1900
+   },
+   {
+    "id": "DC6WJi_m8is",
+    "title": "No cooling service call, two others would not do.",
+    "meta": [
+     "5.7K",
+     "5y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 5700
+   },
+   {
+    "id": "MDruj7LS3g0",
+    "title": "No cooling service call",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 1300
+   },
+   {
+    "id": "_LEJA-Gv6aY",
+    "title": "HVACR Service Call. Evaporator Iced up.",
+    "meta": [
+     "2.8K",
+     "5y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 2800
+   },
+   {
+    "id": "4yq6x8MgDmQ",
+    "title": "trane package unit humidity issues #short",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "0:56",
+    "views_tab": 2100
+   },
+   {
+    "id": "uEQ4ZqPjskU",
+    "title": "No cooling service call, nasty conditions",
+    "meta": [
+     "2K",
+     "5y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 2000
+   },
+   {
+    "id": "XY64XUMx3QQ",
+    "title": "Reach in cooler Service Call, Prep table not cooling.",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 29000
+   },
+   {
+    "id": "Ex7B4NSOWlI",
+    "title": "Sunday hvac no Cooling service call",
+    "meta": [
+     "3.2K",
+     "5y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 3200
+   },
+   {
+    "id": "KnmodmdR7jw",
+    "title": "25 year old trane Service call",
+    "meta": [
+     "4.4K",
+     "5y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 4400
+   },
+   {
+    "id": "2FaIlW-RK5U",
+    "title": "carrier humidimiser",
+    "meta": [
+     "2.5K",
+     "5y ago"
+    ],
+    "dur": "12:58",
+    "views_tab": 2500
+   },
+   {
+    "id": "5EgNRhXKX7M",
+    "title": "No Cooling Service Call. HVAC easy fix",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 1300
+   },
+   {
+    "id": "Mu3IVx6VcpI",
+    "title": "HVAC How To install a smoke detector on a trane package unit with trane Reliatel controls",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 11000
+   },
+   {
+    "id": "7Cj0W2RoUmw",
+    "title": "Old Lennox HVAC no cooling service call",
+    "meta": [
+     "2.4K",
+     "5y ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 2400
+   },
+   {
+    "id": "7vUf_DHqxMQ",
+    "title": "Trane Chiller sensor replacement",
+    "meta": [
+     "12K",
+     "5y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 12000
+   },
+   {
+    "id": "mLEMm4acwxI",
+    "title": "Real World HVAC repair. Carrier humidimizer repairs.",
+    "meta": [
+     "4.3K",
+     "5y ago"
+    ],
+    "dur": "46:09",
+    "views_tab": 4300
+   },
+   {
+    "id": "KWtT0f0rNE8",
+    "title": "No Cooling Service Call, Labor Day Bonus Video! there's a lot going on here",
+    "meta": [
+     "4.1K",
+     "5y ago"
+    ],
+    "dur": "11:31",
+    "views_tab": 4100
+   },
+   {
+    "id": "eCbwsDGx3ig",
+    "title": "No Cooling Service Call",
+    "meta": [
+     "1.6K",
+     "5y ago"
+    ],
+    "dur": "11:58",
+    "views_tab": 1600
+   },
+   {
+    "id": "q_kAXh6YN-E",
+    "title": "hvacr beer cooler service call + repair.",
+    "meta": [
+     "2K",
+     "5y ago"
+    ],
+    "dur": "29:24",
+    "views_tab": 2000
+   },
+   {
+    "id": "xoAXHXBj4Po",
+    "title": "HVAC No Cooling Service Call",
+    "meta": [
+     "2.9K",
+     "5y ago"
+    ],
+    "dur": "16:17",
+    "views_tab": 2900
+   },
+   {
+    "id": "Qzeow1ezumM",
+    "title": "Exhaust Fan Service Call, Actuator Not Working, Industrial Site",
+    "meta": [
+     "1.9K",
+     "5y ago"
+    ],
+    "dur": "17:55",
+    "views_tab": 1900
+   },
+   {
+    "id": "khxCaNeoBTE",
+    "title": "Industrial Bearing Replacement",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "41:46",
+    "views_tab": 3100
+   },
+   {
+    "id": "ftMu5M0V2Zg",
+    "title": "HVAC trane controls",
+    "meta": [
+     "37K",
+     "5y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 37000
+   },
+   {
+    "id": "1-SIaBX5QfI",
+    "title": "Intellipack no cool service call but where is the problem",
+    "meta": [
+     "3.5K",
+     "5y ago"
+    ],
+    "dur": "15:20",
+    "views_tab": 3500
+   },
+   {
+    "id": "kaPS92tE3Rc",
+    "title": "HVAC Service Call, Trane Package unit not communicating",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 3000
+   },
+   {
+    "id": "Cp9C7PyZO4Q",
+    "title": "No Heat Service Call, Boiler Issues?",
+    "meta": [
+     "1.6K",
+     "4y ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 1600
+   },
+   {
+    "id": "JaZbGqHUTKg",
+    "title": "HVAC Service Call Ice Machine Issues",
+    "meta": [
+     "2.1K",
+     "4y ago"
+    ],
+    "dur": "18:23",
+    "views_tab": 2100
+   },
+   {
+    "id": "E6vYykyUz34",
+    "title": "you need to see this if you work on Trane. Triac voltage control diagnostic",
+    "meta": [
+     "8.3K",
+     "4y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 8300
+   },
+   {
+    "id": "GagpgMNyk7A",
+    "title": "HVAC New coils with Leaks",
+    "meta": [
+     "2K",
+     "4y ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 2000
+   },
+   {
+    "id": "jc7Ok4l-fk8",
+    "title": "No Heat Service Call",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 1500
+   },
+   {
+    "id": "i-Ay4ODvxuM",
+    "title": "HVAC how commercial buildings work",
+    "meta": [
+     "2.2K",
+     "4y ago"
+    ],
+    "dur": "7:39",
+    "views_tab": 2200
+   },
+   {
+    "id": "g42_CleLdyo",
+    "title": "No Heat Service Call, Cambridge direct fired burner.",
+    "meta": [
+     "3.5K",
+     "4y ago"
+    ],
+    "dur": "15:23",
+    "views_tab": 3500
+   },
+   {
+    "id": "BkPPQ6UmD30",
+    "title": "No Heat Rheem package unit",
+    "meta": [
+     "2.2K",
+     "4y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 2200
+   },
+   {
+    "id": "4cpes23auMw",
+    "title": "No Heat Service call, Trane CCP panel",
+    "meta": [
+     "2.1K",
+     "4y ago"
+    ],
+    "dur": "20:18",
+    "views_tab": 2100
+   },
+   {
+    "id": "uLqWIY4JOM4",
+    "title": "No Cooling Service Call, A Gift From the installers",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "16:57",
+    "views_tab": 3600
+   },
+   {
+    "id": "0EVPxkH-Xwk",
+    "title": "inside HVAC",
+    "meta": [
+     "1.1K",
+     "4y ago"
+    ],
+    "dur": "9:25",
+    "views_tab": 1100
+   },
+   {
+    "id": "yiXClzD60aY",
+    "title": "No Heat Service Call, Residential furnace",
+    "meta": [
+     "3.2K",
+     "4y ago"
+    ],
+    "dur": "15:17",
+    "views_tab": 3200
+   },
+   {
+    "id": "vEu5guMEN0M",
+    "title": "No Cooling Service call, Jade economiser control",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 2600
+   },
+   {
+    "id": "GUIG5bxCYqQ",
+    "title": "intellipack no heat",
+    "meta": [
+     "4.3K",
+     "4y ago"
+    ],
+    "dur": "16:04",
+    "views_tab": 4300
+   },
+   {
+    "id": "dvuk8Z4wqdY",
+    "title": "trane blower diagnosis + replacement",
+    "meta": [
+     "8.7K",
+     "4y ago"
+    ],
+    "dur": "28:09",
+    "views_tab": 8700
+   },
+   {
+    "id": "M1qgHdxDsNU",
+    "title": "New Make up air, direct fired burner not heating, Service Call",
+    "meta": [
+     "5.1K",
+     "4y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 5100
+   },
+   {
+    "id": "FhL8LF58GE0",
+    "title": "No Heat Service Call, Cambridge unit Lock out",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "16:04",
+    "views_tab": 3600
+   },
+   {
+    "id": "Djs4ugUXZZM",
+    "title": "2 Rupp Air direct fired make up air units not heating.",
+    "meta": [
+     "7.8K",
+     "4y ago"
+    ],
+    "dur": "24:48",
+    "views_tab": 7800
+   },
+   {
+    "id": "nR5BmPkb5VQ",
+    "title": "Aaon unit No Heat Service Call, hacked up over many years, wires everywhere! can we make it work?",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "26:18",
+    "views_tab": 10000
+   },
+   {
+    "id": "rit95nuqvRA",
+    "title": "Commercial/Industrial P.M.",
+    "meta": [
+     "3.6K",
+     "4y ago"
+    ],
+    "dur": "19:08",
+    "views_tab": 3600
+   }
+  ]
+ }
+}
