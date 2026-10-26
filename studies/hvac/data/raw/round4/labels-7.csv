@@ -37,7 +37,7 @@ gwTvbez1A9I,y,humidity-air,secret,E10,E18,E19,utility,$3; Big Electric
 1htdAcoctKo,y,heat-pump,review,E1,,,none,Octopus Cosy 6
 aIGlgSw4Wu0,y,ac-central,story,E4,E1,,none,
 LecZcZs7A5g,?,offgrid-heat,plain,,,,none,Top 4; cement craft channel
-fAMi6tAsAas,y,furnace,symptom-fix,E10,E5,,none,
+fAMi6tAsAas,y,hvac-general,symptom-fix,E10,E5,,none,
 eVjxRosE3MU,y,cooling-no-ac,secret,E15,E10,E19,none,Top 20; forgotten
 77jmEU0QnLs,y,energy-bill,secret,E3,E10,,maker-shelf,
 CR6xQXp-vMo,y,outage-heat,secret,E10,E5,E1,hvac-company,$5
@@ -141,7 +141,7 @@ _R4BhNSdMSU,y,ac-central,secret,E18,E10,,maker-shelf,refrigerant ban
 aS6vgcRzlxs,y,brand-verdict,only-x,E3,E1,,maker-shelf,Top 5
 dAA9Y_eywrM,y,ac-central,how-to,E19,,,none,Top 3
 fC_7jfUjqLM,y,hvac-general,mistakes,E4,E1,,own-habit,Top 5
-hj_HfbWu5uA,y,scam-upsell,before-you,E2,E1,,hvac-company,$350; capacitor
+hj_HfbWu5uA,y,scam-upsell,secret,E2,E1,,hvac-company,$350; capacitor
 kOgx5n2Iqvs,y,brand-verdict,only-x,E1,,,none,Top 5; under $500
 mPONGOQNo50,y,brand-verdict,only-x,E3,,,maker-shelf,Top 5
 pBQdAFozxog,y,hvac-general,cheap-hack,E19,E20,,none,$20 gadget
@@ -354,7 +354,7 @@ pOqEQYaY09c,y,ac-central,story,E15,,,none,
 q5i77isV0gI,y,thermostat,x-vs-y,,,,none,Nest
 qLczalL6ADQ,y,ac-central,how-to,,,,none,Magic Pak
 qS6LaUkGtu8,y,ac-central,how-to,,,,none,Magic Pak
-qUowgswfC7w,y,furnace,symptom-fix,E6,,,none,
+qUowgswfC7w,y,hvac-general,symptom-fix,E6,,,none,
 qki1vcxvWeg,y,furnace,symptom-fix,,,,none,
 qmuAhb-z8J0,y,boiler-oldheat,review,,,,none,Force-03E
 rEb7oryCQHI,y,furnace,symptom-fix,,,,none,
