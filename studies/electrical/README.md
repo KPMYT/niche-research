@@ -2,28 +2,52 @@
 
 For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding electrical mistakes, fire prevention). Follows `../../RESEARCH-BRIEF.md`. Owned by the "Electrical and fire prevention research chat".
 
-**Status:** round 1 (starting videos and new-channel hunt) running, 2026-10-23.
+**Status (2026-10-26):** rounds 1-5 done and checked; round 6 (final cross-check) running; then the report to the operator, the back and forth, and `CONCLUSIONS.md`.
 
-## Files
+**Scope (operator, 2026-10-24):** narrow: core electrical and fire prevention. Out: winter blackouts, heat without power, generator and power-station buying (a possible later channel, Jack Redfield), seniors' home security, prepping, free energy. Long-form only (5:00+), English; under-5:00 hits are listed in `short-reference.md` but never counted.
+
+## Deliverables (`RESEARCH-BRIEF.md` section 2)
+
+| File | Deliverable |
+|---|---|
+| `channels.md`, `channels.csv` | 1. The channel census (298 channels: core, partial, out), plus the presenter-background table. |
+| `new-channels.md` | 2. New channels taking off. |
+| `subniches.md` | 3. The sub-niche map. |
+| `emotions.md` | 4. Emotions in each sub-niche (with how far to trust each emotion). |
+| `thumbnails/thumbnail-styles.html` | 5. Thumbnail styles, shown visually (published privately: https://claude.ai/artifact/4ZPp2yNMNRvQccsNo3yyet). Labels: `thumbnails/labels-*.csv`; images: `thumbnails/images/`. |
+| `recent-winners.md` | 6. What has worked recently (last 90 days, last 12 months, rising and falling). |
+| `top-100.md`, `top-100.csv` | 7. The top 100 of all time. |
+| `keyword-sweep.md`, `formats.md` | 8. The keyword sweep and the formats. |
+| `CONCLUSIONS.md` | 9. After the back and forth with the operator (not written yet). |
+
+## Other files
 
 | Path | What it is |
 |---|---|
 | `README.md` | This file. |
-| `log.md` | Every round: what ran, how many helpers, what changed. |
-| `labels.md` | Label definitions (emotions, villains, formats, channel types, presenter background, the multiple, the length rule). |
-| `seeds.md` | Silver Cymbal's electrical and fire videos (round 1): counts, labels, sub-niches, his recent uploads. Data in `data/silver-cymbal/`. |
-| `short-reference.md` | The under-5:00 hits, listed but never counted (operator's decision, 2026-10-23). |
-| `data/known-channels/` | The six known channels re-checked against the 2026-10-22 figures (census, videos, report). |
-| `data/just-stop-fire/` | Frederick Barnes's own channel (ours): census row, every video with exact dates, labels, report. |
-| `data/seed-spread/` | First spread from Silver Cymbal's seeds: up-next and NexLev similar; 385 candidate channels. |
-| `data/new-channels-nexlev/` | New-channel hunt via NexLev: 134 channels, personas, presenter backgrounds. |
-| `data/new-channels-search/` | New-channel hunt via YouTube search: 50 keywords, 563 channels, 1,740 long-form videos. |
-| `data/checks/` | The checkers' re-check results. |
-| `thumbnails/images/` | Downloaded thumbnails (named by video ID). |
-| `data/tools/yt.py` | The shared logged-out YouTube page loader (channel tabs, search, video pages, thumbnails). Notes in the file on which search sorts work. |
+| `log.md` | Every round: what ran, the helpers, the checkers, every fix and the operator's decisions. |
+| `labels.md` | Label definitions (emotions incl. new N1-N4, villains, formats incl. new ones, channel types, presenter background, the multiple, the length rule) and the rules clarified after the checkers. |
+| `seeds.md` | Round 1: Silver Cymbal's electrical and fire videos. |
+| `short-reference.md` | Under-5:00 hits, listed but never counted. |
+| `thumbnails/report-*.md` | The two thumbnail labellers' reports. |
+| `data/tools/` | The scripts: `yt.py` (logged-out YouTube loader; notes on which sorts work), `merge_sweeps.py`, `channel_medians.py`, `subniche_map.py`, `top100_final.py`, `build_docs.py`, `build_channels.py`, `build_thumb_page.py`. The deliverables above are built by the last three; re-run them after any data fix. |
+| `data/silver-cymbal/` | Round 1: Silver Cymbal's full video list and the seed CSV. |
+| `data/known-channels/` | Round 1: the six known channels re-checked against the 2026-10-22 figures. |
+| `data/just-stop-fire/` | Round 1: Frederick Barnes's own channel (named "Frederick Barnes" on YouTube). |
+| `data/seed-spread/` | Round 1: the spread from Silver Cymbal's seeds (385 candidates). |
+| `data/new-channels-nexlev/`, `data/new-channels-search/` | Round 1: the two new-channel hunts (incl. adjacent lanes later ruled out). |
+| `data/channel-list/` | Round 2: the master list (957 channels, re-scoped). |
+| `data/sweep/<group>/` | Round 2: the keyword sweep, six topic groups (wiring, panels, cords, devices, fire, explainers incl. `presenters.csv`). |
+| `data/merged/` | Round 2-3: all sweep videos deduped (`videos-all.csv`), the checkers' `corrections.csv`, `videos-with-multiples.csv`, `subniche-map.csv`, `format-map.csv`. |
+| `data/medians/` | Round 3: each channel's median long-form views (for the multiple). |
+| `data/census/` | Round 3: the census chunks, `census-all.csv`, `nexlev-daily.csv` (30-day views), raw pulls. |
+| `data/top100/` | Round 3: `top250-checked.csv`, `top100-final.csv`, `top100-narrated.csv` (without unnarrated hack channels), recent lists; `top100.csv` is the helper's first version, kept for history. |
+| `data/investigator/` | Round 3: the fire investigator / inspector deep look. |
+| `data/labels/` | Round 4: the labelling sets, labelled files and summaries; `thumb-channels.csv` (round 5's channel list). |
+| `data/checks/` | Every checker's results (A-H), `presenters-summary-corrected.csv`, `findings-recheck.csv`. |
 
-Files are added here as each round lands.
+Each helper folder keeps its own `report.md` (saved by the main session; helpers can't write report files) and `raw/`.
 
 ## Dates pulled
 
-Each table says when its figures were pulled and from where (NexLev or a YouTube page).
+Round 1: 2026-10-23. Round 2: 2026-10-24. Rounds 3-6: 2026-10-26. Each table says its source and date.
