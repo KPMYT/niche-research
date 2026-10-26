@@ -12,7 +12,9 @@ for r in rows:
     try: v = int(float(r["views"]))
     except: v = None
     r["views_int"] = v
-    if m and v is not None and float(m["median"]) > 0:
+    # channels whose typical long-form video gets under 200 views (brand/agency channels) give meaningless multiples
+    # (e.g. Puget Sound Energy median 21 -> 168,579x); checker E, 2026-10-26: left out of multiples
+    if m and v is not None and float(m["median"]) >= 200:
         r["channel_median"] = m["median"]; r["median_basis"] = m["basis"]; r["multiple"] = round(v / float(m["median"]), 2)
     else:
         r["channel_median"] = r["median_basis"] = r["multiple"] = ""

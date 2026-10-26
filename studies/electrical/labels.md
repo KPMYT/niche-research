@@ -67,6 +67,13 @@ From `RESEARCH-BRIEF.md` deliverable 8. New ones go at the bottom.
 | AI avatar | an AI-generated presenter on screen |
 | faceless persona | a named character with AI images and an AI voice (Roger's model) |
 
+## Label rules clarified after checker F (2026-10-26)
+
+- **Insider villain:** the TITLE decides, not the channel. Mark "insider" only when the title frames the presenter as the trade insider ("A Firefighter Would NEVER…", "Pros Know This"); a pro channel with a plain title is "none".
+- **E6 vs N1:** E6 first only when the title says a fix failed or keeps failing ("tried everything", "still trips"); a plain "keeps tripping / flickering / wobbles" title is N1 first.
+- **E13 and N2 mirror the format** (most how-tos get E13, most explainers N2), so their counts largely repeat the format counts; report them as such.
+- **Robustness (checker F, blind re-label of 90 rows):** report as counts: E3, E9, E12, E1, N1, E13, E17, E8, E18 (positive agreement 0.82-0.93). Report as ranges: E15, E4, N2 (0.71-0.75). Report only as "present", never as counts or ranks: E10, E11, E6, E16, E5 (0.40-0.60); too few to judge: E7, E14, N3, N4. First-emotion counts for E17 are unstable. Both labellers are likely the same model, so this measures consistency, not human agreement.
+
 ## Presenter background (for the open decision on Frederick)
 
 electrician · lineman / utility · firefighter · fire inspector / marshal · home inspector · other trade (say which) · none stated. "Claimed" = what the channel says; we can't verify it.

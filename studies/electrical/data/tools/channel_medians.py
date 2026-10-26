@@ -27,6 +27,8 @@ for r in csv.DictReader(open(inp)):
     if not cid or cid in done: continue
     try:
         d = json.loads(subprocess.run([sys.executable, "-I", YT, "channel", cid, "latest", "3"], capture_output=True, text=True, timeout=240).stdout)
+        if not d.get("channel") and not d.get("subs") and not d.get("videos"):
+            raise RuntimeError("blank page (no channel, subs or videos)")  # added 2026-10-26 after checker E: silent failed loads
         vids = [v for v in d.get("videos", []) if (secs(v.get("dur")) or 0) >= 300 and v.get("views") is not None]
         y = [v["views"] for v in vids if within12(v.get("age"))]
         if len(y) >= 10: basis, vals = "A: long-form last 12 months", y
