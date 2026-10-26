@@ -99,6 +99,9 @@ def main():
     for chip in ("Latest", "Popular", "Oldest"):
         pm = re.search(r'"chipViewModel": \{"text": "' + chip + r'".*?"continuationCommand": \{"token": "([^"]+)"', txt)
         if not pm:
+            # 2026-10-26: channels with a "Members only" chip put the sorts in a dropdown (listItemViewModel)
+            pm = re.search(r'"listItemViewModel": \{"title": \{"content": "' + chip + r'"\}.*?"continuationCommand": \{"token": "([^"]+)"', txt)
+        if not pm:
             sorts[chip] = None; continue
         r = post(pm.group(1), ctx)
         sorts[chip], pages[chip] = page_all(r, ctx, maxp)

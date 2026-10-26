@@ -2,7 +2,7 @@
 
 The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.md`. Owned by the HVAC research chat.
 
-**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) done and checked 2026-10-24; reported to the operator; round 3 waiting for the go.
+**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) done and checked 2026-10-24; round 3 (census) running since 2026-10-26.
 
 ## Scope decisions (operator, 2026-10-23)
 
@@ -17,6 +17,11 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 - Off-grid heat (wood and pellet stoves, diesel heaters, "free heat" tricks) is mapped as its own sub-niche (my reading of the answer to question 4).
 - Silver Cymbal borderline videos: the pellet stove video (`9d9TL02idO4`) counts as a seed; spray foam, garage-door seal, crawlspace and snowstorm videos stay out.
 - Search sorts: "this month" and "this year" filters replace the broken "upload date" sort; old videos come from each channel's Oldest tab, as YouTube search has no "oldest" sort.
+
+## Operator decisions, 2026-10-26
+
+- **Run the rounds without stopping:** "cant you do urself and check urself after aech round?" Rounds 3-6 run straight through, each checked by a second helper; the operator gets the full report at round 7. Only genuine operator calls stop the run.
+- Taken as the default, to be confirmed in the round 7 report (the operator didn't answer the two round 2 questions and asked to go on): contractor channels that teach homeowners count as competitors (tier A, marked "contractor"); outage or off-grid channels whose videos are mostly HVAC count as tier A, marked with their lane.
 
 ## Files
 
