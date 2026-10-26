@@ -174,7 +174,7 @@ def stage_pool(scratch):
 # Hand review (main-session helper, 2026-10-26). Every title that would enter a list was read. KEEP lists the IDs read
 # and kept (including rule pre-drops reversed by hand); DROP holds the IDs read and dropped, with the reason.
 # ---------------------------------------------------------------------------------------------------------------
-from top_review import KEEP, DROP, LABELS  # noqa: E402
+from top_review import KEEP, DROP, LABELS, LANG_NOTES  # noqa: E402
 
 LANG_DESC = re.compile(r"\b(in|en) (hindi|urdu|tamil|telugu|bangla|bengali|marathi|kannada|malayalam|punjabi|nepali|"
                        r"tagalog|spanish|arabic|portuguese|español|kurdish|vietnamese|indonesian|russian)\b|"
@@ -282,12 +282,101 @@ def build(exact_path, baselines_path=None):
             r["decision"], r["reason"] = "drop", "under 5:00"
         if r["views"] is None:
             r["decision"], r["reason"] = "drop", "no exact views (" + e.get("error", "") + ")"
+        r["lang_note"] = LANG_NOTES.get(vid, "")
         rows.append(r)
     return rows
+
+
+# ---------------------------------------------------------------------------------------------------------------
+# Lists and outputs
+# ---------------------------------------------------------------------------------------------------------------
+MIN_N, MIN_BASE = 10, 100   # multiple lists: channel baseline n >= 10 (brief) and baseline >= 100 views (added guard)
+
+
+def make_lists(rows):
+    live = [r for r in rows if r["decision"] != "drop"]
+    def chk(lst, name):
+        bad = [r["id"] for r in lst if r["decision"] != "keep"]
+        if bad:
+            raise SystemExit(f"{name}: unreviewed IDs would enter the list: {bad}")
+        return lst
+    L = {}
+    L["top100"] = chk(sorted(live, key=lambda r: -r["views"])[:100], "top100")
+    for tag, d0, nv in (("90", D90, 30), ("365", D365, 50)):
+        win = [r for r in live if r["date"] and r["date"] >= d0.isoformat()]
+        L["v" + tag] = chk(sorted(win, key=lambda r: -r["views"])[:nv], "v" + tag)
+        mm = [r for r in win if r["mult"] is not None and (r["baseline_n"] or 0) >= MIN_N and (r["baseline"] or 0) >= MIN_BASE]
+        L["m" + tag] = chk(sorted(mm, key=lambda r: -r["mult"])[:nv], "m" + tag)
+        L["m" + tag + "_guarded_out"] = sorted([r for r in win if r["mult"] is not None and r["decision"] == "keep" and
+                                                (r["baseline_n"] or 0) >= MIN_N and (r["baseline"] or 0) < MIN_BASE],
+                                               key=lambda r: -r["mult"])
+        L["m" + tag + "_no_baseline"] = [r for r in win if r["decision"] == "keep" and r["mult"] is None]
+    return L
+
+
+def label_of(r):
+    if r["id"] in LABELS:
+        sn, fm, em, vi = LABELS[r["id"]]
+        return sn, fm, em, vi, "hand"
+    return rule_subniche(r["title_final"]), tag_format(r["title_final"], r["channel"]), "", "not labelled", "rule"
+
+
+def fnum(x):
+    return "not found" if x is None else f"{x:,}"
+
+
+def fmult(r):
+    if r["mult"] is None:
+        return "not found"
+    return f"{r['mult']:.1f}x"
+
+
+def base_str(r):
+    if not r["baseline"]:
+        return "not found"
+    return f"{r['baseline']:,} ({(r['baseline_rule'] or '').split(' ')[0]}, n={r['baseline_n']})"
+
+
+def stage_baselines(chan_dir, out_path):
+    """Baseline for channels not in the census, the census way (labels.md section 6; census_build.build_channel):
+    median tab views of the channel's long-form (>= 300 s) uploads in the last 12 months (age text up to '11mo ago'),
+    from the Latest list only; if fewer than 10, the median of its last 30 long-form uploads."""
+    from census_build import age_of, parse_dur, within
+    out = {}
+    for fn in sorted(os.listdir(chan_dir)):
+        if not fn.endswith(".json"):
+            continue
+        try:
+            d = json.load(open(os.path.join(chan_dir, fn)))
+        except Exception:
+            continue
+        cid = d.get("id") or d.get("key")
+        sorts = d.get("sorts") or {}
+        lat_chip, lat_init = sorts.get("Latest"), sorts.get("Latest_initialpage") or []
+        latest = lat_chip if (lat_chip is not None and len(lat_chip) >= len(lat_init)) else lat_init
+        lat_long = []
+        for it in latest:
+            dur = parse_dur(it.get("dur"))
+            a = age_of(it.get("meta"))
+            if dur is not None and dur >= 300 and a and it.get("views_tab") is not None:
+                lat_long.append((it, a))
+        l12 = [it["views_tab"] for it, a in lat_long if within(a[1], a[2], 365)]
+        if len(l12) >= 10:
+            base, rule, n = statistics.median(l12), "12M", len(l12)
+        else:
+            vs = [it["views_tab"] for it, a in lat_long][:30]
+            base, rule, n = (statistics.median(vs) if vs else None), "last30", len(vs)
+        out[cid] = {"channel": d.get("channel"), "subs": d.get("subs"), "baseline": int(round(base)) if base else None,
+                    "rule": rule, "n": n, "pulled": d.get("pulled"), "latest_items": len(latest),
+                    "source": "YouTube Videos tab (yt_allsorts.py, Latest list, tab-rounded views)"}
+    json.dump(out, open(out_path, "w"), indent=1)
+    print("baselines", len(out), "with baseline", sum(1 for v in out.values() if v["baseline"]))
 
 
 if __name__ == "__main__":
     if sys.argv[1] == "pool":
         stage_pool(sys.argv[2])
+    elif sys.argv[1] == "baselines":
+        stage_baselines(sys.argv[2], sys.argv[3])
     elif sys.argv[1] == "build":
         build(*sys.argv[2:])

@@ -11,7 +11,9 @@ Reads (all pulled 2026-10-26 unless noted):
 
 Usage:
   python3 -I new_channels_build.py select <ids_out.txt>      rank, pick top 25, write video IDs for exact pulls
-  python3 -I new_channels_build.py build <exact.jsonl>       write new-channels CSV + exact JSON + tables (md parts)
+  python3 -I new_channels_build.py build <exact.jsonl> <copy_matches.json> [<copies.json>]
+      writes data/raw/new-channels-2026-10-26.csv and data/raw/new-channels-exact-2026-10-26.json
+  (copy_matches.json and copies.json come from new_channels_copycats.py; the md tables were generated from the CSV)
 """
 import csv, json, sys, os, re, statistics as st, math, collections, datetime
 from datetime import date, timedelta
@@ -282,7 +284,7 @@ def tmpl(title):
     return "other"
 
 
-def build(exact_path, copies_path):
+def build(exact_path, copies_path, copy_list_path=None):
     ex = load_exact(exact_path)
     rows = []
     for rank, r in enumerate(NEW, 1):
@@ -366,10 +368,12 @@ def build(exact_path, copies_path):
     json.dump({"pulled": "2026-10-26 (innertube /next, logged out; /watch is blocked from the cloud)",
                "tool": "data/tools/vid_next_batch.py",
                "videos": sorted(ex.values(), key=lambda e: e["id"]),
-               "copycat_matches": copies}, open(out_json, "w"), indent=1, ensure_ascii=False)
+               "copycat_matches": copies,
+               "copycat_copies": json.load(open(copy_list_path)) if copy_list_path else "not built"},
+              open(out_json, "w"), indent=1, ensure_ascii=False)
     print("wrote", out_csv, len(rows), "rows;", out_json, len(ex), "videos")
     return rows, ex, copies
 
 
 if __name__ == "__main__" and sys.argv[1] == "build":
-    build(sys.argv[2], sys.argv[3])
+    build(sys.argv[2], sys.argv[3], sys.argv[4] if len(sys.argv) > 4 else None)

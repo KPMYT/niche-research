@@ -84,7 +84,7 @@ SUBNICHE_RULES = [
     ("adjacent: fridges and freezers", "adjacent: fridges and freezers", "adjacent",
      r"\bfridge|refrigerator|\bfreezers?\b(?! (burn|bag))|mini fridge|kegerator|ice maker"),
     ("trade: commercial and refrigeration", "trade-facing", "trade",
-     r"chiller|walk[- ]?in|\brtus?\b|rooftop (units?|ac|hvac)|\bvr[fv]\d?\b|ice machine|commercial|glycol|"
+     r"chiller|walk[- ]?in|precision cooling|liebert|vertiv|facilit(y|ies)|\brtus?\b|rooftop (units?|ac|hvac)|\bvr[fv]\d?\b|ice machine|commercial|glycol|"
      r"cooling tower|reach[- ]in|make ?up air|\bahus?\b|cold (storage|room)|data cent|refrigeration (system|rack|"
      r"repair|equipment|unit)|industrial|supermarket|restaurant|hotel|hospital|school building|\bptac"),
     ("trade: careers, business and tech life", "trade-facing", "trade",
@@ -115,7 +115,7 @@ SUBNICHE_RULES = [
      r"generator|when the power|power cut|ice storm|winter storm|snow ?storm|\bstorm\b|hurricane|emergency heat(?! strip)|"
      r"emergency (heating|heater|warmth)|\bshtf|survive (a|the) (storm|ice storm|blizzard)"),
     ("energy bills", "energy bills", "home",
-     r"\bbills?\b|cost(s|ing)? (to run|to operate|per (hour|day|week|month|year))|cost of running|running costs?|"
+     r"(?<!repair )(?<!shop )(?<!hvac )(?<!service )(?<!vet )\bbills?\b|cost(s|ing)? (to run|to operate|per (hour|day|week|month|year))|cost of running|running costs?|"
      r"costs? (pennies (a|to|per)|less|nothing|\$?\d+(\.\d+)? ?(cents?|a (day|month|year)))|\bkwh\b|price cap|octopus|phantom|"
      r"\btariffs?\b|electricity (prices?|costs?|usage|rates?)|power (usage|consumption)|\bwatts?\b|wattage|"
      r"use(s)? (less|more) (electricity|energy|power)|\bsave(s|d)? (energy|on (your )?(heating|cooling|energy|"
@@ -158,9 +158,14 @@ SUBNICHE_RULES = [
     ("buy or replace (sizing, repair vs replace, new system)", P_BUY, "home",
      r"repair (or|vs\.?) replace|replace (or|vs\.?) repair|should (i|you|we) (replace|repair|buy|get|upgrade)|"
      r"time to replace|when to replace|replace (it|your system) (now|or)|how long (do|does|should|will) .{0,30}last|"
-     r"\blifespan|life expectancy|\bsiz(e|ed|ing)\b|what size|right size|oversiz|undersiz|how many btus?|"
-     r"buying (a|an|your|the) |before (you )?(buy|buying|replac)|buyer'?s guide|what to (buy|look for)|\bseer2?\b|"
-     r"\bafue\b|efficiency rating|heat loss calc|before install|replac(e|ed|ing|ement) (of )?(\S+ ){0,3}(ac|a/c|air conditioner|furnace|hvac|system|heat pump|unit|boiler|"
+     r"\blifespan|life expectancy|(ac|a/c|furnace|hvac|system|heat pump|unit|mini[ -]?split|boiler|equipment) siz(e|ed|ing)\b|"
+     r"siz(e|ing) (your|an?|the|my) (\w+ )?(ac|a/c|furnace|hvac|system|heat pump|unit|mini[ -]?split|boiler)|"
+     r"what size|right size|oversiz|undersiz|how many btus?|"
+     r"buying (a|an|your|the) |before (you )?(buy|buying|replac)|buyer'?s guide|what to (buy|look for)|"
+     r"\bseer2? (rating|ratings|vs|matter|explained|worth)|\d+ seer vs|"
+     r"\bafue\b|efficiency rating|heat loss calc|before install|^(?!.*\b(capacitor|contactor|motor|compressor|coil|board|thermostat|igniter|ignitor|"
+     r"sensor|switch|relay|valve|transformer|drains?|blower|filter|parts?|breaker|fuse|nozzle|(?<!heat )pump|thermocouple|"
+     r"inducer|fan)s?\b).*replac(e|ed|ing|ement) (of )?(\S+ ){0,3}(ac|a/c|air conditioner|furnace|hvac|system|heat pump|unit|boiler|"
      r"condenser|equipment)s?\b(?! (capacitor|contactor|filter|motor|fan|coil|board|thermostat|igniter|ignitor|part|"
      r"sensor|switch|relay|valve))|new (hvac|ac|a/c) system|(system|unit|equipment|furnace|ac|a/c|heat pump) change ?out|\bupgrad(e|ed|ing) (your|my|the|to)"),
     ("smells and noises", NEWP, "home",
@@ -170,26 +175,27 @@ SUBNICHE_RULES = [
     # 3. distinct appliance families
     ("evaporative coolers", NEWP, "home",
      r"swamp cooler|evaporative|\bair coolers?\b|\bcooler (fan|unit)|desert cooler|hessaire|\bportacool"),
-    ("cooling without AC (tricks, DIY coolers)", NEWP, "home",
-     r"without (an? )?(ac|a/c|air ?con\w*)|((diy|homemade|crafting) (\w+ ){0,3}|(make|making|build|building) (an? |your own |my own )(\w+ ){0,2})(ac|a/c|"
-     r"air ?con\w*|cooler)\b|cools? (your|the|a|my) (home|house|room)|\bno (ac|a/c|air conditioning)\b|diy (ac|a/c|air ?con\w*|air cooler|cooler|"
-     r"swamp)|homemade (ac|a/c|air ?con\w*|cooler)|\bice (fan|cooler|bucket|block|chest)|bucket (ac|cooler|air)|"
-     r"(keep|keeping|stay|staying) (\w+ ){0,3}cool\b|cool (a|your|the|my) (room|house|home|bedroom|tent|garage) "
-     r"(down|without|for|with)|beat the heat|heat ?wave|frozen water bottle|5 gallon (bucket )?(ac|air)|cooler ac|"
-     r"(fan|cooler) (that )?(blows|makes) cold|ice cold air|free (ac|air conditioning|cooling)"),
-    ("indoor air and purifiers", P_AIR, "home",
-     r"exhaust fans?|bath(room)? (exhaust |vent )?fans?|range hoods?|ventilation fans?|vent fans?"),
-    ("fans for cooling (ceiling, whole-house, box)", NEWP, "home",
-     r"ceiling fans?|whole[- ]house fans?|attic fans?|box fans?|window fans?|tower fans?|bladeless fan|"
-     r"\bfans?\b(?! (motor|blade|capacitor|relay|limit|control|speed|setting|on|auto|switch|coil))"),
     ("AC: portable", "AC: portable", "home",
      r"portable (ac|a/c|air|heat pump|unit|units|air conditioners?)|ecoflow wave|\bwave \d|battery[- ]powered (ac|air)|"
      r"zero ?breeze|\bdreo\b|midea duo|\bwindmill\b|\bbluetti\b.{0,20}(ac|cool)|\bsolar (powered )?(ac|air ?con\w*)"),
     ("AC: window", "AC: window", "home",
      r"window (ac|a/c|air conditioners?|units?|air|conditioner)|window-?mounted|\bu[- ]shaped|midea u\b|"
      r"through[- ]the[- ]wall|wall (ac|a/c|unit|air conditioner)|in-?wall (ac|unit)|sleeve"),
+    ("cooling without AC (tricks, DIY coolers)", NEWP, "home",
+     r"without (an? )?(ac|a/c|air ?con\w*)|((diy|homemade|crafting) (\w+ ){0,3}|(make|making|build|building) (an? |your own |my own )(\w+ ){0,2})(ac|a/c|"
+     r"air ?con\w*|cooler)\b(?! (capacitor|contactor|install\w*|repair\w*|fix\w*|maintenance|clean\w*|recharg\w*|"
+     r"service|coil|condenser|compressor|filter|tune|parts?|unit (install|repair)))|cools? (your|the|a|my) (entire |whole )?(home|house|room)|(with|need|needs|required) no (ac|a/c|air conditioning)|no (ac|a/c|air conditioning) (needed|required)|diy (ac|a/c|air ?con\w*|air cooler|cooler|"
+     r"swamp)|homemade (ac|a/c|air ?con\w*|cooler)|\bice (fan|cooler|bucket|block|chest)|bucket (ac|cooler|air)|"
+     r"(keep|keeping|stay|staying) (\w+ ){0,3}cool\b|cool (a|your|the|my) (room|house|home|bedroom|tent|garage) "
+     r"(down|without|for|with)|beat the heat|frozen water bottle|5 gallon (bucket )?(ac|air)|cooler ac|"
+     r"(fan|cooler) (that )?(blows|makes) cold|ice cold air|free (ac|air conditioning|cooling)"),
+    ("indoor air and purifiers", P_AIR, "home",
+     r"exhaust fans?|bath(room)? (exhaust |vent )?fans?|range hoods?|ventilation fans?|vent fans?"),
+    ("fans for cooling (ceiling, whole-house, box)", NEWP, "home",
+     r"ceiling fans?|whole[- ]house fans?|attic fans?|box fans?|window fans?|tower fans?|bladeless fan|"
+     r"\bfans?\b(?! (motor|blade|capacitor|relay|limit|control|speed|setting|on|auto|switch|coil))"),
     ("RV, van, tent and camping heat or cool", NEWP, "home",
-     r"\brvs?\b|camper|motorhome|\bvan\b|vanlife|\btents?\b|camping|ice fishing|\bboat\b|\bbus\b|skoolie|"
+     r"\brvs?\b|camper|parking (air|ac|a/c|heater|cooler)|motorhome|\bvan\b|vanlife|\btents?\b|camping|ice fishing|\bboat\b|\bbus\b|skoolie|"
      r"travel trailer|\btruck camper|overland|\bhunting (blind|cabin)|\bcabin\b(?= heat)"),
     ("mini-split", "mini-split", "home",
      r"mini[ -]?splits?|ductless|mr ?cool|\bsplit (ac|a/c|system|unit|air|heat pump)|senville|pioneer (mini|ductless|"
@@ -266,7 +272,7 @@ SUBNICHE_RULES = [
      r"underfloor|\bflue\b|combi|vaillant|remeha|worcester|baxi|viessmann|navien|\bbleed|expansion tank|"
      r"pressure relief|old house heat|cast iron|\bmanifold\b(?= .{0,10}(floor|radiant))|\bufh\b|gravity (heat|system)"),
     ("off-grid heat: wood and pellet stoves, fireplaces", P_OFF, "home",
-     r"wood ?stoves?|wood[- ]?burn|woodburn|pellet|firewood|fire ?wood|fireplace|chimney|\bstoves?\b|"
+     r"wood ?stoves?|wood[- ]?burn|woodburn|pellet|firewood|fire ?wood|(?<!electric )fireplace|chimney|\bstoves?\b|"
      r"masonry heater|wood heat|\bkindling|\bcord(s)? of|seasoned wood|\bsplitting\b|\bmulti[- ]?fuel|\binsert\b|"
      r"\bcreosote|\bwood\b"),
     ("off-grid heat: diesel, propane and kerosene heaters", P_OFF, "home",
@@ -291,16 +297,21 @@ SUBNICHE_RULES = [
      r"\bpropane\b|natural gas|\bfuel\b|gas vs|vs\.? gas|gas or electric|electric vs\.? gas|\blpg\b|"
      r"cheapest (way|heat|heating|to heat|form)|\bgas (prices?|supply|ban|line|meter|company)|\bgas\b"),
     # 6. broad topics, then catch-alls.
+    ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
+     r"^(?=.*\b(heat\w*|warm\w*|winter|cold|freez\w*|stoves?|fire|chill\w*|frost\w*)\b).*(\bbottles?\b|\bmedieval\b|invention|\bgenius|ingenious|\btricks?\b|\bhacks?\b|\bclever\b|\bforgotten\b|"
+     r"\bold[- ]?(time|fashioned|school|timers?|ways?)\b|\bamish\b|\bgrand(ma|pa|mother|father|parents)|"
+     r"depression[- ]era|\bpioneers?\b|\bancient\b|\bvictorian\b|\b1[89]00s\b|\bmountain men\b|\bsoviet\b|"
+     r"\bmiracle\b|\bbanned\b|\bsecrets?\b|\bhomestead|\boff[- ]grid\b|\bfree\b)"),
     ("seasonal maintenance", "seasonal maintenance", "home",
      r"maintenance|maintain|tune[- ]?up|before (winter|summer|you turn|the first|heating season|cooling season|it gets|"
      r"the cold|the heat|fall|spring)|checklist|\bspring\b|\bfall\b|\bautumn\b|\bwinteriz|summeriz|first freeze|"
-     r"start[- ]?up|turn(ing)? on (your|the) (heat|ac|a/c|furnace|air)|every (homeowner|year|month|season)|annual|"
+     r"turn(ing)? on (your|the) (heat|ac|a/c|furnace|air)|every (homeowner|year|month|season)|annual|"
      r"preventa?t?ive|clean(ing)? (your|the|an?|my) (ac|a/c|hvac|furnace|system|air conditioner)|\bservic(e|ing) "
      r"(your|my|the) (ac|a/c|hvac|furnace|system|unit|air conditioner)|\bsummer\b|\bwinter\b|\bdiy\b.{0,10}\b(clean|service)|"
      r"\bhomeowners? (should|must|need)"),
     ("AC: central", P_AC, "home",
      r"\ba/?c\b|air ?con\w*|central air|condenser|compressor|blowing (warm|hot)|not cooling|won'?t cool|"
-     r"outdoor unit|outside unit|\bhvac unit\b|\bcooling\b|\bcools?\b|split system|\bac'?s\b"),
+     r"outdoor unit|outside unit|\bno (ac|a/c|cool|cooling)\b|\bhvac unit\b|\bcooling\b|\bcools?\b|split system|\bac'?s\b"),
     ("error codes and troubleshooting", NEWP, "home",
      r"troubleshoot|diagnos|error codes?|fault codes?|\bfaults?\b|lockout|\bcodes?\b|blink|flashing|\b[a-z]\d{1,2}\b (code|error)|"
      r"\berror\b|not working|won'?t (turn|start|come)|stopped working|\bfix(ed|ing|es)?\b|\brepair"),
@@ -311,12 +322,6 @@ SUBNICHE_RULES = [
      r"#bluecollar|#hvacguy|#hvac(contractor|tech|technician|service)|\bcustomers?\b|\bep(isode|\.)? ?\d|\bseason \d|"
      r"\bsession \d|\blive\b.{0,10}\b(q ?& ?a|stream)|q ?& ?a|\bcrew\b|\bmy (first|last) (day|year|week)\b|"
      r"\bhvac (tech|technician)s?\b"),
-    ("off-grid heat: free-heat tricks and DIY heaters", P_OFF, "home",
-     r"(\bbottles?\b|invention|\bgenius|ingenious|\btricks?\b|\bhacks?\b|\bclever\b|\bforgotten\b|"
-     r"\bold[- ]?(time|fashioned|school|timers?|ways?)\b|\bamish\b|\bgrand(ma|pa|mother|father|parents)|"
-     r"depression[- ]era|\bpioneers?\b|\bancient\b|\bvictorian\b|\b1[89]00s\b|\bmountain men\b|\bsoviet\b|"
-     r"\bmiracle\b|\bbanned\b|\bsecrets?\b|\bhomestead|\boff[- ]grid\b|\bfree\b)"
-     r"(?=.*\b(heat\w*|warm\w*|winter|cold|freez\w*|stoves?|fire|chill\w*|frost\w*)\b)"),
     ("general: HVAC basics and how it works", NEWP, "general",
      r"how (does |do |a |an |your |the )?(hvac|heating|cooling|ac|a/c|system|it)( system)? works?|hvac (basics|101|"
      r"explained|components)|explained|how .{0,30} works?\b|\bbasics\b"),
@@ -358,8 +363,210 @@ def primary(title):
 # reading of each title's primary sub-niche under the same tie-break. "=" = I agree with the rule's tag (as it
 # stood when I read the sample: FIRST_PASS). Filled in by hand after reading the titles.
 # ---------------------------------------------------------------------------------------------------------------
-HANDCHECK = {}  # video_id -> (my sub-niche or "=", note)
-FIRST_PASS = {}  # video_id -> the rule's tag when the sample was first read (before the fixes it led to)
+HANDCHECK = {  # video_id -> (my sub-niche or "=", note)
+    'jzEu33PfP9E': ('off-grid heat: free-heat tricks and DIY heaters', 'homemade radiator heated free from diesel-heater exhaust: a DIY free-heat build'),
+    'VgwWoHq8pjE': ('=', 'a wood-stove build'),
+    '0lKIYb5R62c': ('not HVAC', 'ignition coil pack is a car part; an is_hvac false positive'),
+    'dg8KqDEpOyE': ('=', ''),
+    '-adyiizXIIE': ('=', "a 'best' list = brand verdicts (labels.md: choosing across a category)"),
+    'z6oUS6gkicU': ('=', ''),
+    'us9OA6qMqNw': ('=', ''),
+    'AkAtgMgbnmY': ('=', ''),
+    'Xy0Sk8sWNA4': ('=', ''),
+    'kX6fguBrYCY': ('furnaces', 'the furnace not running is the subject; the thermostat is one guessed cause'),
+    'HV99XjzVZDI': ('=', ''),
+    'rUhaUWh-Xks': ('buy or replace (sizing, repair vs replace, new system)', 'replacing a 30-year-old heat pump with a new system'),
+    '7wXGWCn0oGg': ('indoor air and purifiers', "bathroom exhaust-fan install; 'CFM' is a spec, not trade training"),
+    'jPcp0iLoJtM': ('not HVAC', 'masonry repointing; the chimney is incidental'),
+    'aVm5OO7CDCg': ('=', ''),
+    'R5zomh0xdWg': ('=', 'system install with a return added'),
+    'AInBNiPPi54': ('=', 'DIY stove craft from wood mulch; wood stoves'),
+    'rhYuYgf-Jzg': ('humidity and dehumidifiers', 'humidifier install named first; the thermostat is secondary (two-topic title)'),
+    'lnP_WEnG2TU': ('=', ''),
+    'znWQFDsLBTw': ('buy or replace (sizing, repair vs replace, new system)', 'heat-loss calculation = sizing before buying'),
+    '26uq_qHKRjU': ('cooling without AC (tricks, DIY coolers)', "DIY 'freezing AC' craft build; the -32°C is not a thermostat setting"),
+    'sJiRT_tNOQk': ('=', ''),
+    'U0u40HBqJwg': ('indoor air and purifiers', "exhaust-fan motor swap; 'change out' is not a system replacement"),
+    'QF8tLQZD5n0': ('=', ''),
+    'yIFz5umIUHQ': ('=', ''),
+    '_Ov2uBZ9dT4': ('=', ''),
+    '_BNWKZPKIhU': ('AC: central', 'compressor replacement how-to; not a brand or model verdict'),
+    '1ahpc4q_p6I': ('off-grid heat: free-heat tricks and DIY heaters', 'cheap winter survival tricks; nothing says the power is out'),
+    '9eDVW1BdVzo': ('=', ''),
+    '_RsLb2rUXGo': ('=', ''),
+    '6WiA9rtMKQk': ('indoor air and purifiers', "one named purifier reviewed: labels.md keeps single-product reviews in the equipment's sub-niche"),
+    'AhLs0FdTL40': ('smells and noises', "heat-pump noise; 'nightmares' is not a scam"),
+    'oia-jFUva40': ('=', ''),
+    '4nddYnLGRcg': ('=', ''),
+    '6gB-QA33NoE': ('=', ''),
+    'ft5mwIT8ZKg': ('=', ''),
+    'AAT7xUT3qsI': ('=', 'mini-split family wins over refrigerant (tie-break)'),
+    'p5_CWjAxHF0': ('trade: careers, business and tech life', 'callbacks in the HVAC trade'),
+    'dcWrBA8EIDA': ('=', 'the bill wins over the attic (tie-break)'),
+    '2JxwVP4LbOQ': ('cooling without AC (tricks, DIY coolers)', 'a buried pipe that cools the home'),
+    'vHVITBbPcQI': ('=', ''),
+    'PXTCa5ndKWw': ('=', ''),
+    'MD6o8FBah1Y': ('=', ''),
+    '3T1bown4WG8': ('=', 'contractor villain'),
+    'hWKtzvWf5es': ('=', ''),
+    'YoeGMiVNoIU': ('=', ''),
+    'Do6Rt9awpbQ': ('=', 'bill named; the furnace quote is secondary'),
+    '9tbUFAocp5A': ('off-grid heat: free-heat tricks and DIY heaters', 'homemade 3-in-1 heater that needs no electricity; no outage named'),
+    'qhVHQgGZ2A8': ('=', ''),
+    'J0g5NSwSJC8': ('brand verdicts', "best purifiers buyer's guide; 'HVAC Training 101' is the channel's tag"),
+    'ym9sY2deIWk': ('=', ''),
+    'fdUD8FZpkc8': ('=', ''),
+    'geISIICV8Ag': ('general: heating (equipment not named)', "a Carrier 'heater' with no topic; probably a furnace or heat pump, not a space heater"),
+    'PGJ7xsWEm-U': ('=', 'borderline: winter stock-up list, not HVAC maintenance'),
+    '92DaQEp83QY': ('=', "no topic named; 'industry killed them' is the villain"),
+    'YZdbaxR9ZCc': ('off-grid heat: wood and pellet stoves, fireplaces', 'a wood-stove build; the shop is the setting'),
+    '9KYbiMdP79U': ('=', ''),
+    'PyrlxJW0tHw': ('=', ''),
+    'SRCiGn7B0q4': ('=', ''),
+    '9G3pkS6BkX4': ('=', ''),
+    'gkqG83hDjZY': ('cooling without AC (tricks, DIY coolers)', "homemade AC; 'no electricity needed' is the device, not an outage"),
+    '_P3pVtShkcc': ('scams and upsells', "'HVAC companies make a living off this' = the company villain; the fix itself is not named"),
+    'dyusib94N20': ('oil heat', 'oil furnace service (oil filter)'),
+    'etr11lF-Fu0': ('=', ''),
+    'BoiUDGU_VUw': ('=', ''),
+    'rFAQTAnM0H4': ('=', ''),
+    'h-s5G15iqDc': ('=', ''),
+    '0lfMtdU4C3c': ('=', 'louvers on an AC; type of AC not named'),
+    'WnSQDl0rWuI': ('=', ''),
+    'UY2Ee7hcX0I': ('=', ''),
+    'nuVRiIj1aU0': ('not HVAC', "a food video; is_hvac false positive ('refrigeration')"),
+    'OsnwssiwPIw': ('=', ''),
+    'jR2MtQZInP8': ('=', ''),
+    'I5nNfA1NFUw': ('=', ''),
+    'IW9pt75WAto': ('=', 'furnace-specific maintenance stays furnaces (labels.md: seasonal = across the whole system)'),
+    'LMZNx2XF6RQ': ('=', ''),
+    'D8-2aks4ulo': ('off-grid heat: wood and pellet stoves, fireplaces', 'a wood stove built from bricks'),
+    'Bk1H8BrI6-g': ('ducts and vents', 'a hot bonus room = airflow / uneven rooms'),
+    'jk4AWVn_Z1s': ('=', ''),
+    'KdmFeXbdlGs': ('=', ''),
+    'CamdecXrezE': ('=', 'bill named; AC damage is the other half (tie-break)'),
+    'c5qtf0LnMa4': ('heat pumps', "heat-pump news; 'interview' is not trade-facing here"),
+    'je8M-2APogM': ('=', ''),
+    'BYpa5aptQh4': ('=', ''),
+    'OW2KUDVotYk': ('=', ''),
+    'AiKcx7ghtHk': ('=', ''),
+    'bckTbpJbie4': ('=', "a 'best' list = brand verdicts"),
+    'Y6jWEzWZiwI': ('=', 'vintage room AC; type not named in the title'),
+    'BQsSICx5H6g': ('oil heat', 'oil boiler service (nozzle and filter)'),
+    'Cym3gvCoZ9E': ('trade: careers, business and tech life', 'dealing with customers: trade-facing'),
+    '5K9pu-tkNYM': ('=', ''),
+    'rEb7oryCQHI': ('=', ''),
+    '19FVhOr-SnQ': ('heat pumps', 'A2A = air-to-air heat pump'),
+    'VHStuvd5Zeg': ('=', ''),
+    'Lexucc10ODU': ('=', ''),
+    '-jsHaxE9vrs': ('=', ''),
+    'e4b7t2n_y70': ('=', ''),
+    'EKz9EYcUlRc': ('=', ''),
+    'GIE1-hIhbvM': ('=', 'a battery company: adjacent'),
+    'f-fnwJ_L3GM': ('=', ''),
+}
+FIRST_PASS = {  # video_id -> the rule's tag when the sample was first read
+    'jzEu33PfP9E': 'oil heat',
+    'VgwWoHq8pjE': 'off-grid heat: wood and pellet stoves, fireplaces',
+    '0lKIYb5R62c': 'parts homeowners touch',
+    'dg8KqDEpOyE': 'indoor air and purifiers',
+    '-adyiizXIIE': 'brand verdicts',
+    'z6oUS6gkicU': 'staying warm without heating (body, bed, clothes)',
+    'us9OA6qMqNw': 'mini-split',
+    'AkAtgMgbnmY': 'coils and condenser cleaning',
+    'Xy0Sk8sWNA4': 'humidity and dehumidifiers',
+    'kX6fguBrYCY': 'thermostats',
+    'HV99XjzVZDI': 'heat and power in an outage',
+    'rUhaUWh-Xks': 'heat pumps',
+    '7wXGWCn0oGg': 'trade: technical training',
+    'jPcp0iLoJtM': 'off-grid heat: free-heat tricks and DIY heaters',
+    'aVm5OO7CDCg': 'humidity and dehumidifiers',
+    'R5zomh0xdWg': 'ducts and vents',
+    'AInBNiPPi54': 'off-grid heat: wood and pellet stoves, fireplaces',
+    'rhYuYgf-Jzg': 'thermostats',
+    'lnP_WEnG2TU': 'smart thermostats',
+    'znWQFDsLBTw': 'heat pumps',
+    '26uq_qHKRjU': 'thermostats',
+    'sJiRT_tNOQk': 'seasonal maintenance',
+    'U0u40HBqJwg': 'buy or replace (sizing, repair vs replace, new system)',
+    'QF8tLQZD5n0': 'humidity and dehumidifiers',
+    'yIFz5umIUHQ': 'mini-split',
+    '_Ov2uBZ9dT4': 'furnaces',
+    '_BNWKZPKIhU': 'brand verdicts',
+    '1ahpc4q_p6I': 'heat and power in an outage',
+    '9eDVW1BdVzo': 'parts homeowners touch',
+    '_RsLb2rUXGo': 'heat pumps',
+    '6WiA9rtMKQk': 'brand verdicts',
+    'AhLs0FdTL40': 'scams and upsells',
+    'oia-jFUva40': 'coils and condenser cleaning',
+    '4nddYnLGRcg': 'mini-split',
+    '6gB-QA33NoE': 'off-grid heat: wood and pellet stoves, fireplaces',
+    'ft5mwIT8ZKg': 'off-grid heat: diesel, propane and kerosene heaters',
+    'AAT7xUT3qsI': 'mini-split',
+    'p5_CWjAxHF0': 'general: HVAC, topic not named',
+    'dcWrBA8EIDA': 'energy bills',
+    '2JxwVP4LbOQ': 'off-grid heat: free-heat tricks and DIY heaters',
+    'vHVITBbPcQI': 'ducts and vents',
+    'PXTCa5ndKWw': 'off-grid heat: wood and pellet stoves, fireplaces',
+    'MD6o8FBah1Y': 'off-grid heat: wood and pellet stoves, fireplaces',
+    '3T1bown4WG8': 'scams and upsells',
+    'hWKtzvWf5es': 'heat pumps',
+    'YoeGMiVNoIU': 'refrigerant',
+    'Do6Rt9awpbQ': 'energy bills',
+    '9tbUFAocp5A': 'heat and power in an outage',
+    'qhVHQgGZ2A8': 'buy or replace (sizing, repair vs replace, new system)',
+    'J0g5NSwSJC8': 'trade: technical training',
+    'ym9sY2deIWk': 'furnaces',
+    'fdUD8FZpkc8': 'heat pumps',
+    'geISIICV8Ag': 'space heaters (electric)',
+    'PGJ7xsWEm-U': 'seasonal maintenance',
+    '92DaQEp83QY': 'general: HVAC, topic not named',
+    'YZdbaxR9ZCc': 'garage, shop and outbuildings',
+    '9KYbiMdP79U': 'furnaces',
+    'PyrlxJW0tHw': 'trade: careers, business and tech life',
+    'SRCiGn7B0q4': 'ducts and vents',
+    '9G3pkS6BkX4': 'buy or replace (sizing, repair vs replace, new system)',
+    'gkqG83hDjZY': 'heat and power in an outage',
+    '_P3pVtShkcc': 'error codes and troubleshooting',
+    'dyusib94N20': 'filters',
+    'etr11lF-Fu0': 'off-grid heat: free-heat tricks and DIY heaters',
+    'BoiUDGU_VUw': 'off-grid heat: wood and pellet stoves, fireplaces',
+    'rFAQTAnM0H4': 'trade: careers, business and tech life',
+    'h-s5G15iqDc': 'parts homeowners touch',
+    '0lfMtdU4C3c': 'AC: central',
+    'WnSQDl0rWuI': 'off-grid heat: wood and pellet stoves, fireplaces',
+    'UY2Ee7hcX0I': 'fans for cooling (ceiling, whole-house, box)',
+    'nuVRiIj1aU0': 'HVAC, not mapped',
+    'OsnwssiwPIw': 'AC: central',
+    'jR2MtQZInP8': 'parts homeowners touch',
+    'I5nNfA1NFUw': 'off-grid heat: diesel, propane and kerosene heaters',
+    'IW9pt75WAto': 'furnaces',
+    'LMZNx2XF6RQ': 'smells and noises',
+    'D8-2aks4ulo': 'off-grid heat: free-heat tricks and DIY heaters',
+    'Bk1H8BrI6-g': 'general: cooling (equipment not named)',
+    'jk4AWVn_Z1s': 'boilers, radiators and steam',
+    'KdmFeXbdlGs': 'AC: central',
+    'CamdecXrezE': 'energy bills',
+    'c5qtf0LnMa4': 'trade: careers, business and tech life',
+    'je8M-2APogM': 'heat pumps',
+    'BYpa5aptQh4': 'AC: central',
+    'OW2KUDVotYk': 'boilers, radiators and steam',
+    'AiKcx7ghtHk': 'off-grid heat: free-heat tricks and DIY heaters',
+    'bckTbpJbie4': 'brand verdicts',
+    'Y6jWEzWZiwI': 'AC: central',
+    'BQsSICx5H6g': 'filters',
+    'Cym3gvCoZ9E': 'general: HVAC, topic not named',
+    '5K9pu-tkNYM': 'indoor air and purifiers',
+    'rEb7oryCQHI': 'furnaces',
+    '19FVhOr-SnQ': 'adjacent: solar, batteries and home energy systems',
+    'VHStuvd5Zeg': 'space heaters (electric)',
+    'Lexucc10ODU': 'heat pumps',
+    '-jsHaxE9vrs': 'AC: central',
+    'e4b7t2n_y70': 'parts homeowners touch',
+    'EKz9EYcUlRc': 'heat pumps',
+    'GIE1-hIhbvM': 'adjacent: solar, batteries and home energy systems',
+    'f-fnwJ_L3GM': 'AC: window',
+}
 
 
 # ---------------------------------------------------------------------------------------------------------------
