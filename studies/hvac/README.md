@@ -2,7 +2,7 @@
 
 The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.md`. Owned by the HVAC research chat.
 
-**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) done and checked 2026-10-24; round 3 (census) running since 2026-10-26.
+**Status (2026-10-23):** round 1 (seeds) done and checked; round 2 (spread) done and checked 2026-10-24; rounds 3-6 done and checked 2026-10-26; round 7 report written (`round7-report.md`); the back and forth with the operator next, then `CONCLUSIONS.md`.
 
 ## Scope decisions (operator, 2026-10-23)
 
@@ -34,4 +34,16 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 | `data/raw/` | Raw pulls (JSON, CSV), one file per pull, named with the date. |
 | `data/tools/` | The small scripts used. Copied from `recovered/2026-10-22-roger-sub-brands/tools/` on 2026-10-23, then adapted where noted. |
 | `round2/` | Round 2 working files: `keyword-sweep.md`, `formats.md`, `nexlev-channels.md`, `old-house-heat.md`, `channels-master.md` (the master channel list), the checks `check-round2.md` and `check-master.md`, and `round2-report.md` (what was reported to the operator). |
-| `thumbnails/` | Deliverable 5 (later rounds). |
+| `channels.md`, `channels.csv` | Deliverable 1: the channel census (tiers A-D, 764 channels): tier, HVAC share, subs, views, joined, pace, baseline, top videos, sub-niches, type, persona, what it sells. |
+| `new-channels.md` | Deliverable 2: channels started (or pivoted) in the last 12 months, the 60 "well above", their takeoff videos, and the Ray Dutton copycats. |
+| `subniches.md` | Deliverable 3: the sub-niche map from the round 4 hand labels (all time, last 12 months, by tier, by type, faceless personas only). |
+| `emotions.md` | Deliverable 4: emotions across the niche and sub-niche by sub-niche, with lift and examples; faceless personas only. |
+| `thumbnails/` | Deliverable 5: `thumbnail-styles.html` (the page, also a private Artifact), `labels-top-winners.csv`, `labels-channel-top5.csv`, `img/` (the images), `census-sheets/` (contact sheets used for channel types). |
+| `recent-winners.md` | Deliverable 6: top videos of the last 90 days and 12 months by views and by multiple, rising and falling. |
+| `top-100.md`, `top-100.csv` | Deliverable 7: the all-time top 100 long-form English HVAC videos. |
+| `formats.md` | Deliverable 8 (formats and villains): from the round 4 hand labels. The keyword sweep itself is `round2/keyword-sweep.md` (rule-based formats: `round2/formats.md`). |
+| `round3/` | Round 3 working files: `types-A/B/C.md`, `sells.md`, `subniches-rule-based-2026-10-26.md`, `check-round3.md` (with the fixes applied). |
+| `round4/` | Round 4: `LABEL-GUIDE.md` (the labelling codes) and `labels-summary.md` (agreement and counts). |
+| `round5/` | Round 5: `thumbs-top-winners.md`, `thumbs-channel-top5.md`. |
+| `round6/` | Round 6 checks: `check-labels.md`, `check-thumbnails.md`, `check-fixes.md`. |
+| `round7-report.md` | Round 7: the report to the operator. |
