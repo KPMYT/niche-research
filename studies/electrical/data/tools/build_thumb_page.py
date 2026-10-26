@@ -30,8 +30,23 @@ def fmtv(v):
     return f"{v/1e6:.1f}M" if v >= 1e6 else (f"{v/1e3:.0f}K" if v >= 1e3 else str(v))
 E = html.escape
 q75 = sorted([r["_v"] for r in rows])[int(len(rows) * 0.75)] if rows else 0
+# The two labellers named style groups differently; both are mapped to one shared list (main session, 2026-10-26).
+UNIFY = {"real person presenting": "Real person, calm, with subject and text", "A real face + subject + text": "Real person, calm, with subject and text",
+         "real person reacting/pointing at problem": "Real person reacting or pointing at the problem", "B real face reaction": "Real person reacting or pointing at the problem",
+         "object close-up + big text": "Object close-up with text (no face, or hands only)", "C hands + object + text": "Object close-up with text (no face, or hands only)",
+         "D object close-up + text": "Object close-up with text (no face, or hands only)",
+         "product/hands close-up, little or no text": "Product, hands or work scene, little or no text", "E frame grab / work scene, little or no text": "Product, hands or work scene, little or no text",
+         "L product shot / brand layout": "Product, hands or work scene, little or no text",
+         "diagram/animated explainer": "Diagram or animated explainer", "J diagram / 3D / animated explainer": "Diagram or animated explainer",
+         "right/wrong or before/after split": "Before/after or right/wrong split", "F before/after or comparison split": "Before/after or right/wrong split",
+         "fire/explosion/spark test": "Real fire, sparks or burn close-up", "G hazard close-up (fire/burn), no face": "Real fire, sparks or burn close-up",
+         "AI person or persona": "AI person or persona", "H AI person + hazard/object": "AI person or persona",
+         "AI hazard scene + text": "AI scene, no person", "I AI scene, no person": "AI scene, no person",
+         "news/footage still": "News or footage still", "K text slide / screenshot": "Text slide or screenshot"}
 groups = defaultdict(list)
-for r in rows: groups[(r.get("style_group") or "unlabelled").strip()].append(r)
+for r in rows:
+    sg = (r.get("style_group") or "unlabelled").strip()
+    groups[UNIFY.get(sg, sg)].append(r)
 order = sorted(groups, key=lambda g: -statistics.median([r["_v"] for r in groups[g]]))
 def share(L, f): return f"{100*sum(1 for r in L if f(r))/len(L):.0f}%" if L else ""
 top = [r for r in rows if r["_v"] >= q75]; rest = [r for r in rows if r["_v"] < q75]

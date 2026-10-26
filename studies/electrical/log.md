@@ -130,3 +130,9 @@ Labelling set (`data/labels/to-label-*.csv`, 1,007 videos): the top 100, both re
 
 **Census fill landed (2026-10-26):** `data/census/nexlev-daily.csv`: 203 channels with current NexLev 30-day figures, 37 stale (NexLev stopped tracking), 58 not found; 43 impossible values flagged (negative 30-day views for This Old House and Everything Home Guide, negative 365-day for Starving Electrician and Kidde, 30-day above 90-day on newly tracked channels…). Not yet checked by a second helper: round 6.
 **Channels built:** `data/tools/build_channels.py` → `channels.md` and `channels.csv` (298 channels; monthly views from NexLev 30-day where current and possible: 206; estimated earnings = 30-day views × NexLev RPM: 164) and `new-channels.md` (128 new in 12 months among core and partial; taking off = a video over 100K, or 100K+ views in 30 days, or a median at least 2x subs and 1K+).
+
+**Round 5 landed (2026-10-26):** `thumbnails/labels-top-recent.csv` (177) and `labels-channel-top5.csv` (247; reports saved by the main session). The two labellers named style groups differently; `data/tools/build_thumb_page.py` maps both to 11 shared groups and builds `thumbnails/thumbnail-styles.html` (399 unique thumbnails, shrunk and embedded, 5.8 MB). Published as a private Artifact: https://claude.ai/artifact/4ZPp2yNMNRvQccsNo3yyet
+
+## Round 6 (2026-10-26): final cross-check
+
+Checker G: every deliverable file against its source CSVs (numbers, ranks, labels), internal consistency between files, and a re-check of `findings/2026-10-22-hvac-and-electrical.md` section 2 against this study's data. Checker H: a blind sample of thumbnail labels, channel types in `channels.md`, and a sample of NexLev 30-day figures.
