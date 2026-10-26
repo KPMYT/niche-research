@@ -130,6 +130,27 @@ CENSUS_STRONG = re.compile(
     r"(home|house|room|garage|shop|bedroom|cabin|greenhouse)\b")
 
 
+# (e) Round 3 fix 1.2 (fixer, 2026-10-26, from check-round3.md "Recommended fixes" 1.2): cooling or heating a HOME
+#     without naming equipment ("This Roman Home Cools Itself For $0", "Heats Your Entire Home", "Generate Heat at
+#     Home", "Keeps Homes Cool Without AC"), plus the technician's "no cool" and the outdoor "condenser". Added to the
+#     strong hits; the DEPENDENT test and CENSUS_EXCLUDE still run first.
+HOME_CLIMATE = re.compile(
+    r"\bcool(s|ed|ing)? (itself|themselves|homes?|houses?|rooms?|buildings?|the whole|their homes?|for (\$|free|pennies|nothing))|"
+    r"\b(homes?|houses?|rooms?|buildings?|cabins?|apartments?|bedrooms?) (that )?(stays? cool|keeps? cool|cools?|heats? (itself|up)|"
+    r"stays? warm|keeps? warm)\b|"
+    r"\bbeats? (the )?(\d+ ?(°|degrees?) ?f? |summer |desert |extreme |brutal )?heat\b|"
+    r"\bheats? (up )?(your|any|the|a|my|an|their)? ?(whole |entire )(home|house|room|cabin|garage|shop|bedroom|place)s?\b|"
+    r"\bheats? (your|any|my|their|whole|entire) (home|house|room|cabin|garage|bedroom)s?\b|"
+    r"\bgenerat\w* (free |more )?heat\b|"
+    r"\bkeeps? (any |your |the |a |my |whole |entire |homes? |houses? |rooms? |bedrooms? |cabins? |family |you )+"
+    r"(\w+ ){0,2}(cool|warm|cooler|warmer)\b|"
+    r"\bwithout (an? |any )?(ac|a/c|air ?con\w*)\b|\bno (ac|a/c|air ?con\w*) (needed|required)\b|"
+    r"\b(passive|natural|free|zero[- ]energy|ancient) cooling\b|\bno cool\b|"
+    r"\bcondensers?\b(?! (mic|microphone|lens|tube|coil spring))")
+# Clear non-HVAC hits of the warmth words (check-round3.md part 5, row 1: "25 Cheap Meals ... Hot Summers").
+FOOD_EXCLUDE = re.compile(r"\bmeals?\b|\brecipes?\b|\bcanning\b")
+
+
 # Bath, exhaust, attic and whole-house fans count (check-master.md step 3 scope); checked before the fan rule.
 VENT_FANS = re.compile(r"\b(bath(room)?|exhaust|attic|whole[- ]house|roof|ventilation|inline) (exhaust )?fans?\b|"
                        r"\bwhisper ?(fit|green|value|ceiling)\b|\bbath fan\b")
@@ -142,21 +163,26 @@ def _r2(t):
 def hvac_title(title):
     """True when a title is HVAC by the census rule (a reading by keyword rule)."""
     t = norm(title or "")
-    if CENSUS_EXCLUDE.search(t):
+    if CENSUS_EXCLUDE.search(t) or FOOD_EXCLUDE.search(t):
         return False
     c = STRIP.sub(" ", t)
+    # fix 1.2 (2026-10-26): survival-test lengths ("24 Hours Without Electricity") and the kettle / pot stove crafts
+    # ("Generate Heat With a Kettle Full of Holes") were dropped by round 2's sleep-sound / kitchen excludes.
+    c = re.sub(r"\b(24|36|48|72) ?hours?\b", " ", c)
+    if re.search(r"\bgenerat\w* (free |more )?heat\b", c):
+        c = re.sub(r"\bkettles?\b", " ", c)
     if re.search(r"\bgta\b", c) and GTA_CANADA.search(c):
         c = re.sub(r"\bgta\b", " ", c)
     if R2_EXCLUDE.search(c):
         return False
     if VENT_FANS.search(c):
         return True
-    hit = _r2(c) or bool(CENSUS_STRONG.search(c))
+    hit = _r2(c) or bool(CENSUS_STRONG.search(c)) or bool(HOME_CLIMATE.search(c))
     if not hit:
         return False
     if DEPENDENT.search(c):
         bare = DEPENDENT.sub(" ", c)
-        if not (_r2(bare) or CENSUS_STRONG.search(bare) or WARMTH.search(bare)):
+        if not (_r2(bare) or CENSUS_STRONG.search(bare) or HOME_CLIMATE.search(bare) or WARMTH.search(bare)):
             return False
     return True
 

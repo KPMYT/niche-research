@@ -1,15 +1,15 @@
 {
  "agreement": {
-  "scope_ok": 0.985,
-  "subniche": 0.935,
-  "format": 0.945,
-  "villain": 0.98,
-  "e1": 0.89,
-  "top_emotion_present": 0.95
+  "scope_ok": 0.969,
+  "subniche": 0.928,
+  "format": 0.931,
+  "villain": 0.963,
+  "e1": 0.891,
+  "top_emotion_present": 0.917
  },
  "titles": {
   "jhxxEcKGVhg": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "jhxxEcKGVhg",
@@ -44,6 +44,30 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "Top 7",
+     "batch": 3
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 7",
+     "batch": 4
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -58,6 +82,18 @@
      "villain": "none",
      "note": "pellet stoves; Top 7",
      "batch": 6
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 7",
+     "batch": 7
     },
     {
      "video_id": "jhxxEcKGVhg",
@@ -80,16 +116,16 @@
    "emotions_by_votes": [
     [
      "E1",
-     5
+     8
     ],
     [
      "E19",
-     2
+     3
     ]
    ]
   },
   "Q0V4b9r8bFY": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "Q0V4b9r8bFY",
@@ -114,6 +150,30 @@
      "villain": "none",
      "note": "",
      "batch": 2
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Part 2",
+     "batch": 3
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
     },
     {
      "video_id": "Q0V4b9r8bFY",
@@ -149,6 +209,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -160,7 +232,7 @@
    "emotions_by_votes": []
   },
   "quCLH92i8c8": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "quCLH92i8c8",
@@ -185,6 +257,30 @@
      "villain": "hvac-company",
      "note": "$12 fix",
      "batch": 2
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "E2",
+     "villain": "hvac-company",
+     "note": "$12 fix",
+     "batch": 3
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "E2",
+     "villain": "hvac-company",
+     "note": "$12 fix",
+     "batch": 4
     },
     {
      "video_id": "quCLH92i8c8",
@@ -219,6 +315,18 @@
      "e2": "E10",
      "e3": "E2",
      "villain": "hvac-company",
+     "note": "$12",
+     "batch": 7
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "E2",
+     "villain": "hvac-company",
      "note": "$12 fix",
      "batch": 8
     }
@@ -230,21 +338,21 @@
    "majority_e1": "E1",
    "emotions_by_votes": [
     [
-     "E10",
-     5
+     "E1",
+     8
     ],
     [
-     "E1",
-     5
+     "E10",
+     8
     ],
     [
      "E2",
-     4
+     7
     ]
    ]
   },
   "vOwkaI8WJCQ": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "vOwkaI8WJCQ",
@@ -275,6 +383,30 @@
      "scope_ok": "y",
      "subniche": "brand-verdict",
      "format": "only-x",
+     "e1": "E19",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6",
+     "batch": 3
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E20",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6",
+     "batch": 4
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
      "e1": "E20",
      "e2": "E19",
      "e3": "",
@@ -297,6 +429,18 @@
     {
      "video_id": "vOwkaI8WJCQ",
      "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E19",
+     "e2": "E3",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6",
+     "batch": 7
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
      "subniche": "ac-portable",
      "format": "only-x",
      "e1": "E19",
@@ -308,23 +452,27 @@
     }
    ],
    "majority_scope_ok": "y",
-   "majority_subniche": "ac-portable",
+   "majority_subniche": "brand-verdict",
    "majority_format": "only-x",
    "majority_villain": "none",
-   "majority_e1": "E20",
+   "majority_e1": "E19",
    "emotions_by_votes": [
     [
      "E19",
-     5
+     8
     ],
     [
      "E20",
-     5
+     6
+    ],
+    [
+     "E3",
+     1
     ]
    ]
   },
   "pfPvU90liFc": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "pfPvU90liFc",
@@ -360,6 +508,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "E10",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -384,6 +556,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -395,12 +579,12 @@
    "emotions_by_votes": [
     [
      "E10",
-     1
+     2
     ]
    ]
   },
   "P3z4nGRZ51c": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "P3z4nGRZ51c",
@@ -432,6 +616,30 @@
      "subniche": "energy-bill",
      "format": "secret",
      "e1": "E15",
+     "e2": "E10",
+     "e3": "E1",
+     "villain": "last-owner",
+     "note": "old builders; $800",
+     "batch": 3
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E1",
+     "villain": "last-owner",
+     "note": "old ways; $800",
+     "batch": 4
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E15",
      "e2": "E1",
      "e3": "E10",
      "villain": "last-owner",
@@ -455,6 +663,18 @@
      "scope_ok": "y",
      "subniche": "energy-bill",
      "format": "secret",
+     "e1": "E1",
+     "e2": "E15",
+     "e3": "E10",
+     "villain": "none",
+     "note": "$800; old houses",
+     "batch": 7
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
      "e1": "E15",
      "e2": "E10",
      "e3": "E1",
@@ -470,21 +690,21 @@
    "majority_e1": "E15",
    "emotions_by_votes": [
     [
-     "E10",
-     5
+     "E1",
+     8
     ],
     [
      "E15",
-     5
+     8
     ],
     [
-     "E1",
-     5
+     "E10",
+     8
     ]
    ]
   },
   "QFieA3UVQDA": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "QFieA3UVQDA",
@@ -520,6 +740,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -533,6 +777,18 @@
      "villain": "none",
      "note": "",
      "batch": 6
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
     },
     {
      "video_id": "QFieA3UVQDA",
@@ -555,20 +811,20 @@
    "emotions_by_votes": [
     [
      "E1",
+     8
+    ],
+    [
+     "E6",
      5
     ],
     [
      "E10",
      4
-    ],
-    [
-     "E6",
-     2
     ]
    ]
   },
   "hdn1itZ6y1E": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "hdn1itZ6y1E",
@@ -604,6 +860,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -628,6 +908,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -639,7 +931,7 @@
    "emotions_by_votes": []
   },
   "JVaFBTNu29w": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "JVaFBTNu29w",
@@ -674,6 +966,30 @@
      "e2": "E10",
      "e3": "",
      "villain": "none",
+     "note": "7 nights",
+     "batch": 3
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "7 nights",
+     "batch": 4
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -699,6 +1015,18 @@
      "e3": "",
      "villain": "none",
      "note": "7 nights",
+     "batch": 7
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "7 nights",
      "batch": 8
     }
    ],
@@ -709,12 +1037,12 @@
    "majority_e1": "E13",
    "emotions_by_votes": [
     [
-     "E10",
-     5
+     "E13",
+     8
     ],
     [
-     "E13",
-     5
+     "E10",
+     8
     ],
     [
      "E8",
@@ -727,7 +1055,7 @@
    ]
   },
   "j0AP_PNCi7s": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "j0AP_PNCi7s",
@@ -759,6 +1087,30 @@
      "subniche": "brand-verdict",
      "format": "only-x",
      "e1": "E3",
+     "e2": "E1",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
+     "e2": "E1",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
      "e2": "",
      "e3": "",
      "villain": "maker-shelf",
@@ -783,6 +1135,18 @@
      "subniche": "brand-verdict",
      "format": "only-x",
      "e1": "E3",
+     "e2": "E1",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
      "e2": "",
      "e3": "",
      "villain": "maker-shelf",
@@ -798,16 +1162,16 @@
    "emotions_by_votes": [
     [
      "E3",
-     5
+     8
     ],
     [
      "E1",
-     2
+     5
     ]
    ]
   },
   "txErJ_QNV88": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "txErJ_QNV88",
@@ -843,6 +1207,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -867,6 +1255,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -878,7 +1278,7 @@
    "emotions_by_votes": []
   },
   "bDXDHSSgi8Y": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "bDXDHSSgi8Y",
@@ -908,6 +1308,30 @@
      "video_id": "bDXDHSSgi8Y",
      "scope_ok": "y",
      "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "survival craft build",
+     "batch": 3
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "tuna can stove",
+     "batch": 4
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
      "format": "cheap-hack",
      "e1": "E13",
      "e2": "E5",
@@ -932,6 +1356,18 @@
      "video_id": "bDXDHSSgi8Y",
      "scope_ok": "y",
      "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
      "format": "install-diy",
      "e1": "E13",
      "e2": "E5",
@@ -949,20 +1385,24 @@
    "emotions_by_votes": [
     [
      "E13",
-     5
+     8
     ],
     [
      "E5",
-     3
+     5
     ],
     [
      "E10",
      2
+    ],
+    [
+     "E19",
+     1
     ]
    ]
   },
   "xCERCRTmNYI": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "xCERCRTmNYI",
@@ -993,6 +1433,30 @@
      "scope_ok": "y",
      "subniche": "offgrid-heat",
      "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "free heat",
+     "batch": 3
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "free heat",
+     "batch": 4
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
      "e1": "E1",
      "e2": "E13",
      "e3": "",
@@ -1021,6 +1485,18 @@
      "e2": "E1",
      "e3": "",
      "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
      "note": "free heat",
      "batch": 8
     }
@@ -1033,16 +1509,16 @@
    "emotions_by_votes": [
     [
      "E1",
-     5
+     8
     ],
     [
      "E13",
-     5
+     8
     ]
    ]
   },
   "XKG-87_o6rM": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "XKG-87_o6rM",
@@ -1078,6 +1554,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -1102,6 +1602,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -1113,12 +1625,12 @@
    "emotions_by_votes": [
     [
      "E4",
-     5
+     8
     ]
    ]
   },
   "MmE_d9l52s4": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "MmE_d9l52s4",
@@ -1150,6 +1662,30 @@
      "subniche": "ac-central",
      "format": "symptom-fix",
      "e1": "E5",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "service-call vlog",
+     "batch": 4
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E5",
      "e2": "",
      "e3": "",
      "villain": "none",
@@ -1173,6 +1709,18 @@
      "scope_ok": "y",
      "subniche": "ac-central",
      "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
      "e1": "E6",
      "e2": "E5",
      "e3": "",
@@ -1189,20 +1737,20 @@
    "emotions_by_votes": [
     [
      "E5",
-     5
-    ],
-    [
-     "E6",
-     2
+     8
     ],
     [
      "E10",
-     2
+     4
+    ],
+    [
+     "E6",
+     3
     ]
    ]
   },
   "0R6fu4BesXE": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "0R6fu4BesXE",
@@ -1232,6 +1780,30 @@
      "video_id": "0R6fu4BesXE",
      "scope_ok": "y",
      "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "survival craft build",
+     "batch": 3
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
      "format": "cheap-hack",
      "e1": "E13",
      "e2": "E5",
@@ -1256,6 +1828,18 @@
      "video_id": "0R6fu4BesXE",
      "scope_ok": "y",
      "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
      "format": "install-diy",
      "e1": "E13",
      "e2": "E5",
@@ -1273,16 +1857,16 @@
    "emotions_by_votes": [
     [
      "E5",
-     5
+     8
     ],
     [
      "E13",
-     5
+     8
     ]
    ]
   },
   "O1dkKgxs0v4": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "O1dkKgxs0v4",
@@ -1311,6 +1895,30 @@
     {
      "video_id": "O1dkKgxs0v4",
      "scope_ok": "y",
+     "subniche": "buy-replace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E3",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
      "subniche": "furnace",
      "format": "explainer",
      "e1": "E1",
@@ -1338,6 +1946,18 @@
      "subniche": "buy-replace",
      "format": "explainer",
      "e1": "E1",
+     "e2": "E3",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "buy-replace",
+     "format": "explainer",
+     "e1": "E1",
      "e2": "E10",
      "e3": "",
      "villain": "none",
@@ -1352,17 +1972,21 @@
    "majority_e1": "E1",
    "emotions_by_votes": [
     [
-     "E10",
-     5
+     "E1",
+     8
     ],
     [
-     "E1",
-     5
+     "E10",
+     6
+    ],
+    [
+     "E3",
+     2
     ]
    ]
   },
   "WYABJzHTAwU": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "WYABJzHTAwU",
@@ -1397,6 +2021,30 @@
      "e2": "",
      "e3": "",
      "villain": "",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "outdoor stove",
+     "batch": 4
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
      "note": "outdoor stove",
      "batch": 5
     },
@@ -1411,6 +2059,18 @@
      "villain": "",
      "note": "outdoor brick stove (garden)",
      "batch": 6
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "outdoor brick stove, maybe cooking",
+     "batch": 7
     },
     {
      "video_id": "WYABJzHTAwU",
@@ -1433,7 +2093,7 @@
    "emotions_by_votes": []
   },
   "3Jonl_TLkpE": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "3Jonl_TLkpE",
@@ -1458,6 +2118,30 @@
      "villain": "none",
      "note": "",
      "batch": 2
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "most common fix",
+     "batch": 3
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
     },
     {
      "video_id": "3Jonl_TLkpE",
@@ -1488,6 +2172,18 @@
      "scope_ok": "y",
      "subniche": "furnace",
      "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
      "e1": "E5",
      "e2": "E14",
      "e3": "",
@@ -1503,17 +2199,21 @@
    "majority_e1": "E5",
    "emotions_by_votes": [
     [
-     "E5",
-     5
+     "E14",
+     8
     ],
     [
-     "E14",
-     5
+     "E5",
+     7
+    ],
+    [
+     "E6",
+     1
     ]
    ]
   },
   "SJtRZKARF9w": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "SJtRZKARF9w",
@@ -1538,6 +2238,30 @@
      "villain": "none",
      "note": "no gas no electricity",
      "batch": 2
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E20",
+     "e2": "E13",
+     "e3": "E5",
+     "villain": "none",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E20",
+     "e2": "E13",
+     "e3": "E5",
+     "villain": "none",
+     "note": "",
+     "batch": 4
     },
     {
      "video_id": "SJtRZKARF9w",
@@ -1569,6 +2293,18 @@
      "subniche": "offgrid-heat",
      "format": "cheap-hack",
      "e1": "E5",
+     "e2": "E13",
+     "e3": "E20",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E5",
      "e2": "E20",
      "e3": "E13",
      "villain": "none",
@@ -1584,24 +2320,24 @@
    "emotions_by_votes": [
     [
      "E13",
-     5
+     8
     ],
     [
      "E20",
-     3
+     6
+    ],
+    [
+     "E5",
+     5
     ],
     [
      "E10",
      3
-    ],
-    [
-     "E5",
-     2
     ]
    ]
   },
   "zrlTMcnxZ-U": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "zrlTMcnxZ-U",
@@ -1636,6 +2372,30 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "may be cooking stove",
+     "batch": 3
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "2-in-1 brick stove",
+     "batch": 4
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -1650,6 +2410,18 @@
      "villain": "none",
      "note": "brick stove; may be cooking",
      "batch": 6
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "brick stove, maybe cooking",
+     "batch": 7
     },
     {
      "video_id": "zrlTMcnxZ-U",
@@ -1672,12 +2444,12 @@
    "emotions_by_votes": [
     [
      "E13",
-     5
+     7
     ]
    ]
   },
   "EDppOSUlrTo": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "EDppOSUlrTo",
@@ -1702,6 +2474,30 @@
      "villain": "none",
      "note": "$35 DIY purifier",
      "batch": 2
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E16",
+     "e2": "E5",
+     "e3": "E13",
+     "villain": "none",
+     "note": "$35",
+     "batch": 3
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E16",
+     "e2": "E5",
+     "e3": "E13",
+     "villain": "none",
+     "note": "$35 DIY purifier",
+     "batch": 4
     },
     {
      "video_id": "EDppOSUlrTo",
@@ -1737,6 +2533,18 @@
      "e3": "E13",
      "villain": "none",
      "note": "$35",
+     "batch": 7
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E16",
+     "e2": "E5",
+     "e3": "E13",
+     "villain": "none",
+     "note": "$35",
      "batch": 8
     }
    ],
@@ -1748,15 +2556,15 @@
    "emotions_by_votes": [
     [
      "E16",
-     5
+     8
     ],
     [
      "E5",
-     4
+     7
     ],
     [
      "E13",
-     4
+     7
     ],
     [
      "E17",
@@ -1765,7 +2573,7 @@
    ]
   },
   "iuKo9HhxqIg": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "iuKo9HhxqIg",
@@ -1797,6 +2605,30 @@
      "subniche": "offgrid-heat",
      "format": "cheap-hack",
      "e1": "E13",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "free",
+     "batch": 3
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "tin cans",
+     "batch": 4
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
      "e2": "E1",
      "e3": "",
      "villain": "none",
@@ -1821,6 +2653,18 @@
      "subniche": "offgrid-heat",
      "format": "cheap-hack",
      "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
      "e2": "E20",
      "e3": "",
      "villain": "none",
@@ -1836,11 +2680,11 @@
    "emotions_by_votes": [
     [
      "E13",
-     5
+     8
     ],
     [
      "E20",
-     3
+     5
     ],
     [
      "E10",
@@ -1853,7 +2697,7 @@
    ]
   },
   "KYC3-ljtCyg": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "KYC3-ljtCyg",
@@ -1888,6 +2732,30 @@
      "e2": "E2",
      "e3": "",
      "villain": "hvac-company",
+     "note": "$50K; Part 1",
+     "batch": 3
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E15",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$50K",
+     "batch": 4
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E2",
+     "e3": "",
+     "villain": "hvac-company",
      "note": "",
      "batch": 5
     },
@@ -1902,6 +2770,18 @@
      "villain": "hvac-company",
      "note": "$50K",
      "batch": 6
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E12",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$50K; Part 1",
+     "batch": 7
     },
     {
      "video_id": "KYC3-ljtCyg",
@@ -1923,17 +2803,25 @@
    "majority_e1": "E1",
    "emotions_by_votes": [
     [
-     "E2",
-     5
+     "E1",
+     8
     ],
     [
-     "E1",
-     5
+     "E2",
+     6
+    ],
+    [
+     "E15",
+     1
+    ],
+    [
+     "E12",
+     1
     ]
    ]
   },
   "kSqQwqUhahA": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "kSqQwqUhahA",
@@ -1966,6 +2854,30 @@
      "format": "secret",
      "e1": "E10",
      "e2": "E1",
+     "e3": "E2",
+     "villain": "hvac-company",
+     "note": "$16",
+     "batch": 3
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "E8",
+     "villain": "hvac-company",
+     "note": "$16",
+     "batch": 4
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
      "e3": "",
      "villain": "hvac-company",
      "note": "",
@@ -1993,6 +2905,18 @@
      "e3": "",
      "villain": "hvac-company",
      "note": "$16",
+     "batch": 7
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$16",
      "batch": 8
     }
    ],
@@ -2003,21 +2927,29 @@
    "majority_e1": "E10",
    "emotions_by_votes": [
     [
-     "E10",
-     5
+     "E1",
+     8
     ],
     [
-     "E1",
-     5
+     "E10",
+     8
     ],
     [
      "E19",
      2
+    ],
+    [
+     "E2",
+     1
+    ],
+    [
+     "E8",
+     1
     ]
    ]
   },
   "liSJbMyOiYQ": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "liSJbMyOiYQ",
@@ -2047,6 +2979,30 @@
      "video_id": "liSJbMyOiYQ",
      "scope_ok": "y",
      "subniche": "hvac-general",
+     "format": "only-x",
+     "e1": "E10",
+     "e2": "E3",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "worst",
+     "batch": 3
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "explainer",
+     "e1": "E10",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
      "format": "explainer",
      "e1": "E3",
      "e2": "",
@@ -2077,6 +3033,18 @@
      "e3": "",
      "villain": "maker-shelf",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "explainer",
+     "e1": "E3",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
      "batch": 8
     }
    ],
@@ -2088,16 +3056,16 @@
    "emotions_by_votes": [
     [
      "E3",
-     5
+     7
     ],
     [
      "E10",
-     3
+     5
     ]
    ]
   },
   "uRXw28QRrDI": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "uRXw28QRrDI",
@@ -2125,6 +3093,30 @@
     },
     {
      "video_id": "uRXw28QRrDI",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "uRXw28QRrDI",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "not HVAC topic",
+     "batch": 4
+    },
+    {
+     "video_id": "uRXw28QRrDI",
      "scope_ok": "?",
      "subniche": "heat-pump",
      "format": "plain",
@@ -2149,6 +3141,18 @@
     },
     {
      "video_id": "uRXw28QRrDI",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "mindfulness post",
+     "batch": 7
+    },
+    {
+     "video_id": "uRXw28QRrDI",
      "scope_ok": "?",
      "subniche": "heat-pump",
      "format": "plain",
@@ -2160,15 +3164,15 @@
      "batch": 8
     }
    ],
-   "majority_scope_ok": "?",
-   "majority_subniche": "heat-pump",
-   "majority_format": "plain",
-   "majority_villain": "none",
+   "majority_scope_ok": "n",
+   "majority_subniche": "",
+   "majority_format": "",
+   "majority_villain": "",
    "majority_e1": "",
    "emotions_by_votes": []
   },
   "5XdIjZEgIXQ": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "5XdIjZEgIXQ",
@@ -2200,6 +3204,30 @@
      "subniche": "humidity-air",
      "format": "explainer",
      "e1": "E4",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
      "e2": "",
      "e3": "",
      "villain": "none",
@@ -2228,6 +3256,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -2239,16 +3279,16 @@
    "emotions_by_votes": [
     [
      "E4",
-     5
+     8
     ],
     [
      "E10",
-     2
+     3
     ]
    ]
   },
   "31b5t8N1ThQ": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "31b5t8N1ThQ",
@@ -2284,6 +3324,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "E5",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -2305,6 +3369,18 @@
      "format": "secret",
      "e1": "E10",
      "e2": "E13",
+     "e3": "E5",
+     "villain": "none",
+     "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
      "e3": "",
      "villain": "none",
      "note": "ethanol heater",
@@ -2318,12 +3394,16 @@
    "majority_e1": "E10",
    "emotions_by_votes": [
     [
-     "E10",
-     5
+     "E13",
+     8
     ],
     [
-     "E13",
-     5
+     "E10",
+     8
+    ],
+    [
+     "E5",
+     2
     ],
     [
      "E20",
@@ -2332,7 +3412,7 @@
    ]
   },
   "vjHmIE6urJ0": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "vjHmIE6urJ0",
@@ -2363,6 +3443,30 @@
      "scope_ok": "y",
      "subniche": "ac-central",
      "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "7 reasons",
+     "batch": 3
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E10",
+     "e3": "E8",
+     "villain": "none",
+     "note": "7 reasons",
+     "batch": 4
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
      "e1": "E6",
      "e2": "E14",
      "e3": "",
@@ -2387,6 +3491,18 @@
      "scope_ok": "y",
      "subniche": "ac-central",
      "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 7",
+     "batch": 7
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
      "e1": "E6",
      "e2": "E10",
      "e3": "",
@@ -2403,20 +3519,24 @@
    "emotions_by_votes": [
     [
      "E10",
-     4
-    ],
-    [
-     "E6",
-     4
+     7
     ],
     [
      "E14",
-     3
+     5
+    ],
+    [
+     "E6",
+     5
+    ],
+    [
+     "E8",
+     1
     ]
    ]
   },
   "HY800HGwVMc": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "HY800HGwVMc",
@@ -2451,6 +3571,30 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "York",
+     "batch": 3
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -2476,6 +3620,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -2487,12 +3643,12 @@
    "emotions_by_votes": [
     [
      "E5",
-     5
+     8
     ]
    ]
   },
   "lofL4-yHePo": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "lofL4-yHePo",
@@ -2527,6 +3683,30 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "Mitsubishi",
+     "batch": 3
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -2552,6 +3732,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -2563,7 +3755,7 @@
    "emotions_by_votes": []
   },
   "cVNEVSeEvFE": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "cVNEVSeEvFE",
@@ -2598,6 +3790,30 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "weatherization training?",
+     "batch": 3
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "?",
+     "subniche": "drafts-insulation",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -2612,6 +3828,18 @@
      "villain": "",
      "note": "trade training (blower door)",
      "batch": 6
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "weatherization trade training",
+     "batch": 7
     },
     {
      "video_id": "cVNEVSeEvFE",
@@ -2634,7 +3862,7 @@
    "emotions_by_votes": []
   },
   "U7imuv6W7hA": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "U7imuv6W7hA",
@@ -2665,6 +3893,30 @@
      "scope_ok": "y",
      "subniche": "boiler-oldheat",
      "format": "how-to",
+     "e1": "E8",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
      "e1": "",
      "e2": "",
      "e3": "",
@@ -2694,6 +3946,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -2702,10 +3966,15 @@
    "majority_format": "how-to",
    "majority_villain": "none",
    "majority_e1": "",
-   "emotions_by_votes": []
+   "emotions_by_votes": [
+    [
+     "E8",
+     1
+    ]
+   ]
   },
   "gwTvbez1A9I": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "gwTvbez1A9I",
@@ -2740,6 +4009,30 @@
      "e2": "E19",
      "e3": "E1",
      "villain": "utility",
+     "note": "$3; Big Electric",
+     "batch": 3
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E19",
+     "e3": "E1",
+     "villain": "utility",
+     "note": "$3",
+     "batch": 4
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E19",
+     "e3": "E1",
+     "villain": "utility",
      "note": "",
      "batch": 5
     },
@@ -2754,6 +4047,18 @@
      "villain": "utility",
      "note": "$3",
      "batch": 6
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E18",
+     "e3": "E19",
+     "villain": "utility",
+     "note": "$3; Big Electric",
+     "batch": 7
     },
     {
      "video_id": "gwTvbez1A9I",
@@ -2775,21 +4080,25 @@
    "majority_e1": "E10",
    "emotions_by_votes": [
     [
+     "E19",
+     8
+    ],
+    [
      "E10",
-     5
+     8
     ],
     [
      "E1",
-     5
+     7
     ],
     [
-     "E19",
-     5
+     "E18",
+     1
     ]
    ]
   },
   "1htdAcoctKo": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "1htdAcoctKo",
@@ -2824,6 +4133,30 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "Octopus Cosy UK",
+     "batch": 3
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Octopus Cosy 6",
+     "batch": 4
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -2848,6 +4181,18 @@
      "e2": "",
      "e3": "",
      "villain": "none",
+     "note": "Octopus Cosy 6",
+     "batch": 7
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
      "note": "Octopus Cosy",
      "batch": 8
     }
@@ -2860,12 +4205,12 @@
    "emotions_by_votes": [
     [
      "E1",
-     5
+     8
     ]
    ]
   },
   "aIGlgSw4Wu0": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "aIGlgSw4Wu0",
@@ -2897,6 +4242,30 @@
      "subniche": "ac-central",
      "format": "story",
      "e1": "E4",
+     "e2": "E7",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E1",
+     "e3": "",
+     "villain": "own-habit",
+     "note": "",
+     "batch": 4
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
      "e2": "E1",
      "e3": "",
      "villain": "none",
@@ -2925,6 +4294,18 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 7
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 8
     }
    ],
@@ -2936,20 +4317,24 @@
    "emotions_by_votes": [
     [
      "E4",
-     5
+     8
     ],
     [
      "E1",
-     4
+     6
     ],
     [
      "E5",
+     1
+    ],
+    [
+     "E7",
      1
     ]
    ]
   },
   "LecZcZs7A5g": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "LecZcZs7A5g",
@@ -2974,6 +4359,30 @@
      "villain": "none",
      "note": "Top 4 wood stoves; cement-stove channel, maybe cooking",
      "batch": 2
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4",
+     "batch": 3
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "explainer",
+     "e1": "E10",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4",
+     "batch": 4
     },
     {
      "video_id": "LecZcZs7A5g",
@@ -3003,6 +4412,18 @@
      "video_id": "LecZcZs7A5g",
      "scope_ok": "?",
      "subniche": "offgrid-heat",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4; cement craft channel",
+     "batch": 7
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
      "format": "only-x",
      "e1": "",
      "e2": "",
@@ -3016,7 +4437,7 @@
    "majority_subniche": "offgrid-heat",
    "majority_format": "only-x",
    "majority_villain": "none",
-   "majority_e1": "E20",
+   "majority_e1": "",
    "emotions_by_votes": [
     [
      "E20",
@@ -3024,12 +4445,12 @@
     ],
     [
      "E10",
-     1
+     2
     ]
    ]
   },
   "fAMi6tAsAas": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "fAMi6tAsAas",
@@ -3065,6 +4486,30 @@
      "e3": "",
      "villain": "none",
      "note": "",
+     "batch": 3
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "service-call vlog",
+     "batch": 4
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
      "batch": 5
     },
     {
@@ -3078,6 +4523,18 @@
      "villain": "none",
      "note": "",
      "batch": 6
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 7
     },
     {
      "video_id": "fAMi6tAsAas",
@@ -3100,11 +4557,11 @@
    "emotions_by_votes": [
     [
      "E10",
-     5
+     8
     ],
     [
      "E5",
-     4
+     7
     ],
     [
      "E6",
@@ -3113,7 +4570,7 @@
    ]
   },
   "eVjxRosE3MU": {
-   "labellers": 5,
+   "labellers": 8,
    "readings": [
     {
      "video_id": "eVjxRosE3MU",
@@ -3148,6 +4605,30 @@
      "e2": "E10",
      "e3": "E19",
      "villain": "none",
+     "note": "20; forgotten",
+     "batch": 3
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E19",
+     "e3": "E10",
+     "villain": "none",
+     "note": "20; forgotten",
+     "batch": 4
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E19",
+     "villain": "none",
      "note": "",
      "batch": 5
     },
@@ -3172,6 +4653,18 @@
      "e2": "E10",
      "e3": "E19",
      "villain": "none",
+     "note": "Top 20; forgotten",
+     "batch": 7
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E19",
+     "villain": "none",
      "note": "20; forgotten",
      "batch": 8
     }
@@ -3183,16 +4676,16 @@
    "majority_e1": "E15",
    "emotions_by_votes": [
     [
-     "E10",
-     5
-    ],
-    [
      "E15",
-     5
+     8
     ],
     [
      "E19",
-     5
+     8
+    ],
+    [
+     "E10",
+     8
     ]
    ]
   }
