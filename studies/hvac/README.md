@@ -35,7 +35,7 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 | `data/tools/` | The small scripts used. Copied from `recovered/2026-10-22-roger-sub-brands/tools/` on 2026-10-23, then adapted where noted. |
 | `round2/` | Round 2 working files: `keyword-sweep.md`, `formats.md`, `nexlev-channels.md`, `old-house-heat.md`, `channels-master.md` (the master channel list), the checks `check-round2.md` and `check-master.md`, and `round2-report.md` (what was reported to the operator). |
 | `channels.md`, `channels.csv` | Deliverable 1: the channel census (tiers A-D, 764 channels): tier, HVAC share, subs, views, joined, pace, baseline, top videos, sub-niches, type, persona, what it sells. |
-| `new-channels.md` | Deliverable 2: channels started (or pivoted) in the last 12 months, the 60 "well above", their takeoff videos, and the Ray Dutton copycats. |
+| `new-channels.md` | Deliverable 2: channels started (or pivoted) in the last 12 months, the 58 "well above", their takeoff videos, and the Ray Dutton copycats. |
 | `subniches.md` | Deliverable 3: the sub-niche map from the round 4 hand labels (all time, last 12 months, by tier, by type, faceless personas only). |
 | `emotions.md` | Deliverable 4: emotions across the niche and sub-niche by sub-niche, with lift and examples; faceless personas only. |
 | `thumbnails/` | Deliverable 5: `thumbnail-styles.html` (the page, also a private Artifact), `labels-top-winners.csv`, `labels-channel-top5.csv`, `img/` (the images), `census-sheets/` (contact sheets used for channel types). |
@@ -47,3 +47,4 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 | `round5/` | Round 5: `thumbs-top-winners.md`, `thumbs-channel-top5.md`. |
 | `round6/` | Round 6 checks: `check-labels.md`, `check-thumbnails.md`, `check-fixes.md`. |
 | `round7-report.md` | Round 7: the report to the operator. |
+| `ray-dutton-sources.md` | Where Ray Dutton's Garage got his topics and titles: source videos for all 53 of his videos, his templates, the persona's predecessors, his method (operator's ask, 2026-10-26; checked). Raw data in `data/raw/ray-sources-2026-10-26/` and `data/raw/ray-dutton-videos-2026-10-26.jsonl`. |
