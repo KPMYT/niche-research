@@ -54,6 +54,8 @@ b5dubVcGM2M eD0e_YWTNlY xX8eSnSlb5w lw46Vz6OZKM bYy4nY79yDI fOW5Cv5cBoM f7sF8o7I
 o45X18irknc fUpTsdXa9Mk tJl78Pizpzw 3bfR4_PvBVY 2vtZNAkQx5g _m3dY47QT8s KTpHJJTL3I0 6rqtojPuTMY m_e6DRJY9UQ ZByfE3lFoGo
 oz6lAMrxJD4 iGwCJg61HFo yM1Zp0KSZ0U f0PBF-kE-H0 8b158p-w6s0 VH4N6tHoniM wbZYQQSCmNU va0iPj6CT3M CD56LfAYDYo AV6p0TCj3nA
 9HwjgzG-UVg
+rhbj712e7Hk 546lBfX7ugs hqaImbFVwAM L0sY1scbb5k gsi8SE_P5bg pSBR5A6oR70 Eho4hmfvqQc cj35HoIgl3Q e8Do5eTr7cw
+2ydQNz5O4I4 aJ0Fy4L5nu4
 aQH93DxWlJg Abu43UiLpV4 JShKwBYEllo epfMNxTkmns hZCHKDMUmLU HtaQfWKZhi8 9nbK1FFBC7U pXheDmsQol0
 """.split())
 
@@ -206,6 +208,16 @@ DROP = {
     "-goA9ImZHIQ": "home battery alternative (power storage), not heating or cooling",
     "eUPBg5_vbSk": "food 'cooling box' (reading: food storage), not home cooling",
     "mBCR5ogFA_8": "stacking firewood, firewood handling not home heating",
+    "2u_MtaTTgPA": "utility-bill news story, not about heating or cooling the home",
+    "gfD1l4lOEQs": "trade-facing troubleshooting (HVAC career channel)",
+    "VmOYOdWQW1I": "electricity-bill QR codes (Pakistan), not heating or cooling",
+    "drczqu2ejw0": "music mix, not HVAC",
+    "rC5_0DC6VnI": "car A/C reset (description: 'your car's A/C'), vehicle",
+    "prn-mDKJ4UM": "DIY battery power, not heating or cooling",
+    "6kciiTNTOy4": "city-scale cooling, not home HVAC",
+    "xzhlVdSR66w": "not English (reading): City 42 is a Lahore news channel (Urdu-language broadcaster)",
+    "qEB_6e1SI1g": "fiction drama, not HVAC",
+    "Byj75U9TJqg": "firewood tree history, not heating the home",
     # 220-300
     "JUx0cjbzbhs": "door weatherstrip, not about heating, cooling or the bill (operator rule)",
     "B_fW-1q4DpA": "music / not HVAC",
