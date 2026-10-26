@@ -1,0 +1,401 @@
+{
+ "channel": "eFIXX",
+ "id": "UC4PWgTIkkv5p2shhjiXNiGg",
+ "handle": "http://www.youtube.com/@efixx",
+ "description": "eFIXX is here to help electrician's, electrical contractors, building services engineers and electrical apprentices.  Watching our videos, you'll discover new products, explore new applications and find answers to your technical questions.\n\nSo if you've been on the tools for years or just starting your electrical journey, then please subscribe. We'll help you stay up to date with the latest regulations and developments in the electrical industry.\n\nWe release new content every day\n\nOur followers drive our content. If you have a suggestion for future content, would like to get involved in the channel or have any other ideas then please drop us a message.\n\n👍🏻 Via the website - https://www.efixx.co.uk/contact\n😀 Comment in our community tab - https://www.youtube.com/c/efixx/community",
+ "subs": "879K subscribers",
+ "videos_count": "2.7K videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "NvmMT_bq_RM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Revealed: DIY Home Battery Storage—Is It Even Legal? | DJI Power 2000",
+   "dur": "6:32",
+   "meta": [
+    "1M",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "43dh2M_hNJo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Don't Get Burned by MC4 Solar Connectors",
+   "dur": "13:41",
+   "meta": [
+    "1M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Na4LTD1M6nw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Plug in Solar: We’re Told Never Do This… So I Did",
+   "dur": "8:26",
+   "meta": [
+    "836K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 836000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "25LjXM38ass",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Shocking Truth About Extractor Fans!",
+   "dur": "7:45",
+   "meta": [
+    "790K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 790000,
+   "age": "1y ago"
+  },
+  {
+   "id": "jSdfJabUEUQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electric Wiring in Italy - You Won't Believe What They Do!",
+   "dur": "13:09",
+   "meta": [
+    "771K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 771000,
+   "age": "3y ago"
+  },
+  {
+   "id": "zaK_dy-x00w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Current Flow Through The Neutral Wire?",
+   "dur": "7:41",
+   "meta": [
+    "636K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 636000,
+   "age": "3y ago"
+  },
+  {
+   "id": "D5wn5Eju3_Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EV CHARGER installation UK - can you connect to an existing CONSUMER UNIT?",
+   "dur": "9:19",
+   "meta": [
+    "585K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 585000,
+   "age": "5y ago"
+  },
+  {
+   "id": "jc_M0SllFnc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Anker Solarbank 4: Plug-In Solar - First UK Install Tested",
+   "dur": "9:55",
+   "meta": [
+    "576K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 576000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "VE1THS428gM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Truth About Ferrules: Overkill or Essential?",
+   "dur": "19:50",
+   "meta": [
+    "488K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 488000,
+   "age": "1y ago"
+  },
+  {
+   "id": "pKwOIW3YWuo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Exclusive: Grid Bosses Set to Change UK Voltage",
+   "dur": "16:48",
+   "meta": [
+    "471K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 471000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "hvtihZMB-GM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "We Tested Plug-In Solar. The Industry Got This Wrong.",
+   "dur": "22:47",
+   "meta": [
+    "466K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 466000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "IGXto9zWmMc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EARTH LEAKAGE CURRENT - WHERE it comes from and HOW to measure it. - MEGGER DCM305E",
+   "dur": "10:59",
+   "meta": [
+    "454K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 454000,
+   "age": "5y ago"
+  },
+  {
+   "id": "YWcfz1lfD-w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LED Bulbs Downgraded From A+ To F! - Energy Labelling",
+   "dur": "9:05",
+   "meta": [
+    "428K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 428000,
+   "age": "4y ago"
+  },
+  {
+   "id": "OI5ddnK_3-8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wago 221 vs traditional connector strip: including demonstration and testing point",
+   "dur": "11:30",
+   "meta": [
+    "417K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 417000,
+   "age": "7y ago"
+  },
+  {
+   "id": "rkq1zwG9vLc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Don’t Arc Around with MC4 Connectors - Solar Panel Installation",
+   "dur": "4:42",
+   "meta": [
+    "385K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 385000,
+   "age": "3y ago"
+  },
+  {
+   "id": "r7KW2QOfpN8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Ultimate Guide to the Wago 221 Inline Connector",
+   "dur": "11:28",
+   "meta": [
+    "287K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 287000,
+   "age": "4y ago"
+  },
+  {
+   "id": "bJk0mzaATI4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ferrule crimping - An easy way to improve reliability of electrical connections.",
+   "dur": "8:21",
+   "meta": [
+    "286K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 286000,
+   "age": "6y ago"
+  },
+  {
+   "id": "fZ_hA9Wx5hk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Are screwless terminals actually better than screws?",
+   "dur": "6:56",
+   "meta": [
+    "274K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 274000,
+   "age": "2w ago"
+  },
+  {
+   "id": "NViL2XwLsXM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Did The Regs Ban These Junction Boxes?",
+   "dur": "6:55",
+   "meta": [
+    "264K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 264000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "qFWK57Yzefc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "REVEALED: The New British Standard for Electric Cables #aprilfools",
+   "dur": "6:29",
+   "meta": [
+    "249K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 249000,
+   "age": "3y ago"
+  },
+  {
+   "id": "leZdlQKWu1M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Wiring in Spain is SO Different",
+   "dur": "13:49",
+   "meta": [
+    "237K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 237000,
+   "age": "3y ago"
+  },
+  {
+   "id": "nzivUmsTNRU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "REVIEWED: KNIPEX ERGOSTRIP  - cable stripper - ideal for RIGHT or LEFT handed ELECTRICIANS",
+   "dur": "8:23",
+   "meta": [
+    "223K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 223000,
+   "age": "5y ago"
+  },
+  {
+   "id": "49W1vMQydQg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "VIPER CLIP The Ultimate Twin And Earth Cable Clipping Solution?",
+   "dur": "4:56",
+   "meta": [
+    "222K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 222000,
+   "age": "3y ago"
+  },
+  {
+   "id": "jMagvdqlF9c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UK Government to shut down peak hours EV charging... will you opt out?",
+   "dur": "17:08",
+   "meta": [
+    "213K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 213000,
+   "age": "4y ago"
+  },
+  {
+   "id": "SrvTFOhpIUI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Can I Use Connectors Inside Trunking to Extend Cables?",
+   "dur": "5:43",
+   "meta": [
+    "212K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 212000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Wnroz4Mvfbg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DON'T Install DC Isolators On Solar, Electricians Warned",
+   "dur": "10:09",
+   "meta": [
+    "210K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 210000,
+   "age": "2y ago"
+  },
+  {
+   "id": "U_F6R6sWx4I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "THE SECRET OF GREAT LED STRIP LIGHT INSTALLS - COB",
+   "dur": "11:09",
+   "meta": [
+    "209K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 209000,
+   "age": "4y ago"
+  },
+  {
+   "id": "EdSIFta7eI4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UK Government Orders Destruction Of Double-Gang Sockets ⚠️",
+   "dur": "16:32",
+   "meta": [
+    "184K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 184000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "1bPqpud1-f8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Million Pound Fine for Electrician's Horrific Injuries",
+   "dur": "8:47",
+   "meta": [
+    "182K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 182000,
+   "age": "4y ago"
+  },
+  {
+   "id": "qXgfGUymomU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DO YOU NEED TO EARTH BOND PLASTIC WATER PIPES?",
+   "dur": "6:08",
+   "meta": [
+    "178K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 178000,
+   "age": "4y ago"
+  }
+ ]
+}

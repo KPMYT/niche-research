@@ -1,0 +1,403 @@
+{
+ "channel": "Electromagnetic Videos",
+ "id": "UCV2-Qbq9o0EOQWPLAWkVH2w",
+ "handle": "http://www.youtube.com/@ElectromagneticVideos",
+ "description": " I’m Dr. Peter Jones, a licensed Professional Engineer. My career has spanned working on Space Shuttle TV cameras and rubidium atomic clocks to holding patents for internet multimedia transmission and more. On this channel, we bridge the gap between theory and hands-on reality. My goal is to provide deep technical insight without the jargon or math that often hides the beauty of physics and engineering.\n\nElectromagnetic Videos is my excuse to explore experiments I’ve always wanted to do. We’ve measured the speed of light, demonstrated quantum weirdness with polarized sunglasses, visited VLF submarine stations, and even burned up household wires to find their true current limits.\n\n\"Electromagnetic\" is a play on words: it covers anything connected to electricity and magnetism (which is almost everything) and reflects the formal theories I loved so much as a student. If you value insight over hype, I hope you'll subscribe and join me in looking at these fascinating things!",
+ "subs": "43K subscribers",
+ "videos_count": "107 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "it5UMt0lL8I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electricity Doesn't Actually Need a Return Wire",
+   "dur": "25:48",
+   "meta": [
+    "1M",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "QccOg_J1Xhw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How many Amps to burn up 14/2 electrical wiring?",
+   "dur": "11:45",
+   "meta": [
+    "683K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 683000,
+   "age": "4y ago"
+  },
+  {
+   "id": "ntV3lXuv3Y0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mirrors Don't Bounce Light—They Short Circuit It",
+   "dur": "12:05",
+   "meta": [
+    "605K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 605000,
+   "age": "3w ago"
+  },
+  {
+   "id": "AZsYHLHlIso",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do these Magnetizer/Demagnetizers work?",
+   "dur": "9:11",
+   "meta": [
+    "348K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 348000,
+   "age": "2y ago"
+  },
+  {
+   "id": "a-8CaGOmWDU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why doesn't a 75 Ohm cable measure 75 Ohms?",
+   "dur": "21:32",
+   "meta": [
+    "243K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 243000,
+   "age": "3y ago"
+  },
+  {
+   "id": "S21rlwrY74I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to (Re)Magnetize a Permanent Magnet",
+   "dur": "19:10",
+   "meta": [
+    "185K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 185000,
+   "age": "3y ago"
+  },
+  {
+   "id": "JbRLoWzHVEA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Let's Experiment with an Electromagnetic Chain!",
+   "dur": "19:25",
+   "meta": [
+    "134K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 134000,
+   "age": "4y ago"
+  },
+  {
+   "id": "UT_hR0vwM8A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "An Engineer tests Wago Connectors. Are they any good?",
+   "dur": "35:17",
+   "meta": [
+    "107K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 107000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Br9dQiSisYg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When a Light Bulb is better than a Fuse",
+   "dur": "11:38",
+   "meta": [
+    "97K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 97000,
+   "age": "4y ago"
+  },
+  {
+   "id": "CfYYNh7z7Qw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Lualualei Very Low Frequency Transmitter near Honolulu",
+   "dur": "11:42",
+   "meta": [
+    "76K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 76000,
+   "age": "1y ago"
+  },
+  {
+   "id": "kwaTvWNlnJo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NTSC, PAL, and SECAM: how they worked, how good were they?",
+   "dur": "49:38",
+   "meta": [
+    "Electromagnetic Videos",
+    "and Matt's TV Barn",
+    "59K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "vayJXJEjmaI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to make a Cereal Box Eclipse Viewer",
+   "dur": "8:59",
+   "meta": [
+    "58K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 58000,
+   "age": "2y ago"
+  },
+  {
+   "id": "EPQq7xd3WdA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How we slowed down electricity to create Color TV",
+   "dur": "40:45",
+   "meta": [
+    "50K",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 50000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "cMVnOZCGljc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Connectors: Which is the Weakest Link",
+   "dur": "16:56",
+   "meta": [
+    "43K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Yk9P2pKIza0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing 100 Year Old Knob and Tube Wiring",
+   "dur": "26:00",
+   "meta": [
+    "41K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 41000,
+   "age": "4y ago"
+  },
+  {
+   "id": "pWkJqw8S6CY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "My Vintage Iconoscope TV Camera Tube.",
+   "dur": "6:48",
+   "meta": [
+    "39K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 39000,
+   "age": "4y ago"
+  },
+  {
+   "id": "k0g2LinZWyA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lets try overloading some extension cords.",
+   "dur": "29:52",
+   "meta": [
+    "37K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 37000,
+   "age": "4y ago"
+  },
+  {
+   "id": "VOl0Bi2G9U0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "29.97 frames per second for video - why not 30?",
+   "dur": "33:01",
+   "meta": [
+    "33K",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "6mo ago"
+  },
+  {
+   "id": "bcKdh7cIC0U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Let's Measure the Speed of Light",
+   "dur": "15:10",
+   "meta": [
+    "32K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 32000,
+   "age": "3y ago"
+  },
+  {
+   "id": "WwQXQrm33JM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Let's Measure the Wavelength of Light - with NO lab equipment!",
+   "dur": "26:49",
+   "meta": [
+    "28K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 28000,
+   "age": "2y ago"
+  },
+  {
+   "id": "B0gVgvsG-XY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yikes! Don't use this Chinese-made Outlet!",
+   "dur": "12:06",
+   "meta": [
+    "24K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 24000,
+   "age": "4y ago"
+  },
+  {
+   "id": "5ABYhvwU9No",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A vintage Bell and Howell Filmosound 1540 16mm Projector",
+   "dur": "24:41",
+   "meta": [
+    "21K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "4y ago"
+  },
+  {
+   "id": "mGK8oYdEqyE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Demagnetizing magnets and other things",
+   "dur": "11:01",
+   "meta": [
+    "20K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "3y ago"
+  },
+  {
+   "id": "JJC4PZ3Ho4M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The 2024 Eclipse: What we all saw!",
+   "dur": "4:18",
+   "meta": [
+    "19K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 19000,
+   "age": "2y ago"
+  },
+  {
+   "id": "cPxYYwFiK0k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why don't Submarines use Radio or GPS?",
+   "dur": "29:27",
+   "meta": [
+    "19K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 19000,
+   "age": "3y ago"
+  },
+  {
+   "id": "b2uuiyjirio",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Things to know when visiting the Mauna Kea Observatory Telescopes",
+   "dur": "18:27",
+   "meta": [
+    "15K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "2y ago"
+  },
+  {
+   "id": "IDUuVNU7E9o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "That strange flow of electricity that transmits no real power",
+   "dur": "38:38",
+   "meta": [
+    "15K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "1y ago"
+  },
+  {
+   "id": "L4ML0-OiLu0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A Magnetic Amp and Core Memory",
+   "dur": "25:52",
+   "meta": [
+    "14K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "4y ago"
+  },
+  {
+   "id": "N5Q1sBnHLz0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electric Blankets - lets look at the magnetic fields and heat distribution. Are they safe",
+   "dur": "21:42",
+   "meta": [
+    "13K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "2y ago"
+  },
+  {
+   "id": "4I3oEAaWBuA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Viewer Questions: Back to Back Transformers",
+   "dur": "18:37",
+   "meta": [
+    "13K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "1y ago"
+  }
+ ]
+}

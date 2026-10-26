@@ -1,0 +1,63 @@
+{
+ "channel": "John Harabedian",
+ "id": "UCMFQhqWduTgxeeSHVAyIfPQ",
+ "handle": "http://www.youtube.com/@JohnHarabedian0",
+ "description": "",
+ "subs": null,
+ "videos_count": "4 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "OsWMSWBVC08",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CalTrans vs. Ronald McDonald House",
+   "dur": "4:18",
+   "meta": [
+    "5",
+    "2d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2d ago"
+  },
+  {
+   "id": "_-KQTwEUcfs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why is my electric bill so high",
+   "dur": "11:53",
+   "meta": [
+    "18",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 18,
+   "age": "13d ago"
+  },
+  {
+   "id": "wELRDNFKaHw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Has Altadena Actually Recovered?",
+   "dur": "8:46",
+   "meta": [
+    "76",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 76,
+   "age": "3w ago"
+  },
+  {
+   "id": "H-zhVghA_ak",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Going On Here?",
+   "dur": "4:45",
+   "meta": [
+    "57",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 57,
+   "age": "3w ago"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+keyword,source,sorts_run,relevant_long,relevant_short,raw_results_total
+smoke detector chirping,brief: smoke alarms chirping,month(1p);relevance(2p);views(3p);views_year(2p),28,74,160
+smoke detector placement,brief: smoke alarms placement,month(1p);relevance(2p);views(3p);views_year(2p),42,64,160
+smoke alarm mistakes,brief: smoke alarms mistakes,month(1p);relevance(2p);views(3p);views_year(2p),32,29,144
+10 year smoke detector,brief: smoke alarms 10-year,month(1p);relevance(2p);views(3p);views_year(2p),44,82,160
+how to test smoke detector,brief: smoke alarms testing,month(1p);relevance(2p);views(3p);views_year(2p),31,54,160
+carbon monoxide detector,brief: carbon monoxide alarms,month(1p);relevance(2p);views(3p);views_year(2p),50,70,160
+dryer vent fire,brief: dryer vent fires,month(1p);relevance(2p);views(3p);views_year(2p),37,90,160
+dryer vent cleaning,brief: dryer vents cleaning,month(1p);relevance(2p);views(3p);views_long(1p);views_year(2p),69,53,180
+dryer lint fire,brief: dryer vents lint,month(1p);relevance(2p);views(3p);views_year(2p),30,69,160
+dryer vent hose,brief: dryer vents vent hose,month(1p);relevance(2p);views(3p);views_year(2p),64,58,160
+grease fire,brief: kitchen and grease fires,month(1p);relevance(2p);views(3p);views_long(1p);views_year(2p),30,63,180
+how to put out a grease fire,brief: putting one out,month(1p);relevance(2p);views(3p);views_year(2p),23,77,160
+kitchen fire mistakes,brief: kitchen fires what not to do,month(1p);relevance(2p);views(3p);views_year(2p),23,35,160
+air fryer fire,brief: air fryer,month(1p);relevance(2p);views(3p);views_year(2p),7,14,160
+toaster fire,brief: toaster,month(1p);relevance(2p);views(3p);views_year(2p),12,44,160
+stove top fire,brief: stovetop,month(1p);relevance(2p);views(3p);views_year(2p),0,5,160
+how to use a fire extinguisher,brief: extinguishers how to use,month(1p);relevance(2p);views(3p);views_year(2p),16,62,160
+fire extinguisher types,brief: extinguishers which type,month(1p);relevance(2p);views(3p);views_year(2p),32,39,160
+expired fire extinguisher,brief: extinguishers expired,month(1p);relevance(2p);views(3p);views_year(2p),10,68,160
+house fire escape plan,brief: escape plans,month(1p);relevance(2p);views(3p);views_year(2p),27,53,160
+close your bedroom door fire,"brief: escape plans closed-door, bedroom",month(1p);relevance(2p);views(3p);views_year(2p),29,27,157
+things firefighters never do,brief: things firefighters never do,month(1p);relevance(2p);views(3p);views_long(1p);views_year(2p),39,4,118
+fire investigator,brief: what fire investigators see,month(1p);relevance(2p);views(3p);views_year(2p),12,39,160
+candle fire,brief: habits candles,month(1p);relevance(2p);views(3p);views_year(2p),1,10,160
+chimney fire,brief: habits chimneys,month(1p);relevance(2p);views(3p);views_year(2p),18,18,160
+what happens when house fire test,brief: fire tests what happens when,month(1p);relevance(2p);views(3p);views_year(2p),6,25,130
+common causes of house fires,natural phrasing (habits that start house fires),month(1p);relevance(2p);views(3p);views_year(2p),21,71,156
+things that start house fires,natural phrasing,month(1p);relevance(2p);views(3p);views_year(2p),44,16,160
+firefighter fire safety tips,natural phrasing (what firefighters see),month(1p);relevance(2p);views(3p);views_year(2p),9,26,160
+smoke detector beeping,natural phrasing (why is my smoke detector beeping),month(1p);relevance(2p);views(3p);views_year(2p),22,71,160
+replace hardwired smoke detector,natural phrasing (smoke alarms 10-year replacement),month(1p);relevance(2p);views(3p);views_long(1p);views_year(2p),61,82,172
+carbon monoxide poisoning home,brief: carbon monoxide alarms; mined from CO test titles (5vqyfOq0D-8),month(1p);relevance(2p);views(3p);views_year(2p),20,100,160
+dryer fire,mined: dryer titles; natural phrasing,month(1p);relevance(2p);views(3p);views_year(2p),26,72,160
+never throw water on grease fire,"mined: title CwjqUevc0Wk ""Never Throw Water On Grease Fire...I Said Never""",month(1p);relevance(2p);views(3p);views_year(2p),21,44,139
+how to survive a house fire,"mined: title Xgc90CoJbDI ""How To Survive A House Fire?""",month(1p);relevance(2p);views(3p);views_year(2p),8,20,150
+things I've seen as a firefighter,"mined: title JmiJAn41D9k ""Real Things I've Seen as a Firefighter and Paramedic""",month(1p);relevance(2p);views(3p);views_year(2p),13,2,160
+flashover demonstration,"mined: title BtMmymOxdjc ""Flashover Demonstration""",month(1p);relevance(2p);views(3p);views_year(2p),18,32,132
+fire extinguisher test,mined: extinguisher test titles; brief: fire tests,month(1p);relevance(2p);views(3p);views_long(1p);views_year(2p),34,38,178
+fire safety mistakes,natural phrasing (habits that start house fires),month(1p);relevance(2p);views(3p);views_year(2p),42,20,160
+chimney sweep,natural phrasing (chimneys),month(1p);relevance(2p);views(3p);views_year(2p),21,32,160
+fire blanket,natural phrasing (extinguishers and escape),month(1p);relevance(2p);views(3p);views_year(2p),17,56,160

@@ -1,0 +1,104 @@
+{
+ "pulled": "2026-10-23",
+ "note": "Transcribed from the NexLev MCP responses of 2026-10-23 (descriptions dropped where identical to the YT about page in ../yt/*-latest.json). Niche-finder records are NexLev's stored profile, last updated by NexLev on the date in updatedAt.",
+ "get_channel_analytics": {
+  "channelId": "UCpZ1AQDdJ5moZwFlCSzFvRQ",
+  "subscriberCount": 7760,
+  "viewCount": 3403378,
+  "videoCount": 57,
+  "joinedDate": "2022-09-17",
+  "country": "United States",
+  "links": [
+   {
+    "title": "My Tools",
+    "url": "shoplowes.me/4sJz0VP"
+   }
+  ],
+  "avgVideoLength": "05:24",
+  "hasShorts": true,
+  "lastVideoUploadDate": "1 month ago",
+  "categories": [
+   "Do It Yourself",
+   "Construction",
+   "Education"
+  ]
+ },
+ "search_niche_finder_channels": {
+  "query": "animated electrician apprentice school volts amps watts explained (also returned for the utility-man and kitchen-outlet queries)",
+  "isMonetizationEnabled": true,
+  "isFaceless": true,
+  "isAiChannel": false,
+  "quality": "mid",
+  "editingStyle": null,
+  "editingVoice": null,
+  "outlierScore": 4.71,
+  "channelCreationDate": "2022-09-18",
+  "stats": {
+   "subscribers": 7750,
+   "monthlyRevenue": 335.62,
+   "monthlyViews": 142909,
+   "totalViews": 3378738,
+   "totalVideos": 57,
+   "avgViewsPerVideo": 58075.89,
+   "medianViewsPerVideo": 17000,
+   "uploadsPerWeek": 0,
+   "firstVideoDate": "2023-10-19",
+   "lastVideoDate": "2026-09-19",
+   "rpm": {
+    "base": 6.8,
+    "total": 2.3485
+   }
+  },
+  "updatedAt": "2026-10-19T08:54:39",
+  "lastUploadedVideos": [
+   [
+    "lUAaVwSjk3M",
+    "How to Change Electrical Outlet As a Beginner",
+    479000
+   ],
+   [
+    "-ckZDjywVPA",
+    "How to Install GFCI Outlet (4 Wires)",
+    315000
+   ],
+   [
+    "o82wv4cEIJk",
+    "GFCI Outlet Not Working 🤷‍♂️ Can't Reset It",
+    305000
+   ],
+   [
+    "Rix5A8ku10g",
+    "Outlets Lights Not Working but Breaker is ON",
+    303000
+   ],
+   [
+    "8i0GJ6-cG8k",
+    "How to Change Out a Light Switch Like a Pro!",
+    232000
+   ]
+  ]
+ },
+ "get_batch_channel_metrics_v2": {
+  "isMonetized": true,
+  "rpm": 3.6,
+  "avgViewsPerVideo": 59708,
+  "avgVideoLength": 5.4,
+  "category": "do it yourself",
+  "format": "tutorial",
+  "hasShorts": true,
+  "isFaceless": true,
+  "countryTop": "United States",
+  "confidence": 0.98,
+  "jobId": "e064956d-2d13-4b7e-b173-ed3885997f1a",
+  "timestamp": "2026-10-23T03:31:44Z"
+ },
+ "check_faceless_channel": {
+  "isFaceless": true,
+  "confidence": 0.98,
+  "primaryCategory": "do it yourself",
+  "format": "tutorial",
+  "googleTrendsKeyword": "electrical wiring",
+  "cached": true,
+  "timestamp": "2026-10-23T03:32Z"
+ }
+}

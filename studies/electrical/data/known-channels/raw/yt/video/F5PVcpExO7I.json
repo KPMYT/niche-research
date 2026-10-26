@@ -1,0 +1,290 @@
+{
+ "id": "F5PVcpExO7I",
+ "title": "How to Test a Circuit Breaker – DIY Guide for Identifying a Bad or Faulty Breaker",
+ "channel": "Remote Electrician",
+ "channel_id": "UCpZ1AQDdJ5moZwFlCSzFvRQ",
+ "views": 26335,
+ "date": "Nov 12, 2024",
+ "up_next": [
+  {
+   "id": "5ncfAobr26Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Tell if a Breaker is Bad",
+   "dur": "11:44",
+   "meta": [
+    "Electrician U",
+    "1.1M",
+    "5y ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 1100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "8vvUFGAg4_Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "    5 Reasons Your Circuit Breaker Keeps Tripping ! ",
+   "dur": "14:11",
+   "meta": [
+    "Fix it with Jay ",
+    "43K",
+    "3mo ago"
+   ],
+   "channel_id": "UCBSz4RHRfgZVYq20cJsRP-w",
+   "views": 43000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "NUSNa-7Hecw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sub Panels Explained - Why are neutral and ground separated?",
+   "dur": "16:22",
+   "meta": [
+    "The Engineering Mindset",
+    "2.8M",
+    "3y ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 2800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "XxcrDc7ySKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Breaker is On But No Power?  Check these 5 things First",
+   "dur": "9:20",
+   "meta": [
+    "Fever River Construction & Electric",
+    "7.6K",
+    "2mo ago"
+   ],
+   "channel_id": "UCpZhX7l9UkhmGmhWjS5OknQ",
+   "views": 7600,
+   "age": "2mo ago"
+  },
+  {
+   "id": "oDuffo_zTHw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Circuit Breaker Trips Constantly? Don't Make This Fatal Mistake",
+   "dur": "12:32",
+   "meta": [
+    "Wade Harlan",
+    "5K",
+    "2mo ago"
+   ],
+   "channel_id": "UCZQSSxmEkKoj98WcTQX8mTQ",
+   "views": 5000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "fDIXIdBUZjU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Bad Breaker? How to Replace It Yourself !",
+   "dur": "31:55",
+   "meta": [
+    "Fix it with Jay ",
+    "19K",
+    "5mo ago"
+   ],
+   "channel_id": "UCBSz4RHRfgZVYq20cJsRP-w",
+   "views": 19000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "TRiibyY7ib0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Troubleshoot Circuit Breaker Tripping & Testing",
+   "dur": "24:41",
+   "meta": [
+    "United Tradesman Academy",
+    "206K",
+    "4y ago"
+   ],
+   "channel_id": "UCfmr52LlEvJrCj1N4KwQIeg",
+   "views": 206000,
+   "age": "4y ago"
+  },
+  {
+   "id": "b6ilpnbWt_I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Test a Wall Outlet - Receptacle Troubleshooting",
+   "dur": "9:22",
+   "meta": [
+    "Bill Newberry Second",
+    "1.4M",
+    "10y ago"
+   ],
+   "channel_id": "UCvac7c_XwhBarF5ZnJanBsA",
+   "views": 1400000,
+   "age": "10y ago"
+  },
+  {
+   "id": "APtYZq2z4RQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Tell If a Circuit Breaker Is Bad (6 Warning Signs) ",
+   "dur": "25:22",
+   "meta": [
+    "Fix it with Jay ",
+    "14K",
+    "2mo ago"
+   ],
+   "channel_id": "UCBSz4RHRfgZVYq20cJsRP-w",
+   "views": 14000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "ucGBtTjE_-M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Unlocking the Basics: Wiring Multiple Receptacle Outlets",
+   "dur": "50:39",
+   "meta": [
+    "Smarter Sparky",
+    "1.2M",
+    "8mo ago"
+   ],
+   "channel_id": "UC9TkzHC0J8SmHKpgnRxE5JA",
+   "views": 1200000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "A_iAIjg7Af8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Safely Replace a Circuit Breaker",
+   "dur": "7:03",
+   "meta": [
+    "Home Rapid Repair ",
+    "30K",
+    "2y ago"
+   ],
+   "channel_id": "UCloyA5KxoM63MtH4SQxnkLQ",
+   "views": 30000,
+   "age": "2y ago"
+  },
+  {
+   "id": "vLgc29iZHaA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Use a Non-Contact Voltage Tester",
+   "dur": "6:49",
+   "meta": [
+    "Flannel Guy DIY",
+    "507K",
+    "5y ago"
+   ],
+   "channel_id": "UC-gmqGa0TFBUkzOrfMnBGUQ",
+   "views": 507000,
+   "age": "5y ago"
+  },
+  {
+   "id": "NF4zxBAuRoI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 Common Mistakes DIYers Make In Circuit Breaker Boxes",
+   "dur": "13:55",
+   "meta": [
+    "LRN2DIY",
+    "3.7M",
+    "3y ago"
+   ],
+   "channel_id": "UCPKAKrjoMz7POptCloy7AIQ",
+   "views": 3700000,
+   "age": "3y ago"
+  },
+  {
+   "id": "dVsfHrtjLWs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Hacks Every Homeowner Should Know (DIY Friendly)",
+   "dur": "35:35",
+   "meta": [
+    "Home RenoVision DIY",
+    "457K",
+    "8mo ago"
+   ],
+   "channel_id": "UCnorhjQR4zJkT7AVNhu395Q",
+   "views": 457000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "nIfmEsPi48c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 Mistakes DIYers Make in Electrical Panels",
+   "dur": "16:37",
+   "meta": [
+    "Backyard Maine",
+    "796K",
+    "9mo ago"
+   ],
+   "channel_id": "UCdOuZ0bxeSxA8ZAHttc0U-w",
+   "views": 796000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "zl_-ixhdkYE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Multiple Outlets Not Working - Breaker is Not Tripped",
+   "dur": "7:49",
+   "meta": [
+    "Apartment Maintenance Pro",
+    "776K",
+    "3y ago"
+   ],
+   "channel_id": "UC6Ko62-E2iMcdJ48tBvLjUQ",
+   "views": 776000,
+   "age": "3y ago"
+  },
+  {
+   "id": "TW5KKIPMNwA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to troubleshoot a circuit breaker",
+   "dur": "5:10",
+   "meta": [
+    "ProTec Electric",
+    "370K",
+    "6y ago"
+   ],
+   "channel_id": "UCTFoC9ZjtPW427dS3chb9Yw",
+   "views": 370000,
+   "age": "6y ago"
+  },
+  {
+   "id": "hEDto-bnHKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED",
+   "dur": "43:50",
+   "meta": [
+    "The Excellent Laborer",
+    "4.1M",
+    "4y ago"
+   ],
+   "channel_id": "UCUJXaEduMHGB3Iap3DusmAA",
+   "views": 4100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "bGZVILwbyLo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Circuit Breaker and Electrical Panel Basics",
+   "dur": "12:25",
+   "meta": [
+    "Everyday Home Repairs",
+    "687K",
+    "5y ago"
+   ],
+   "channel_id": "UCw1V3VC3xAzL66X4VwqaKlg",
+   "views": 687000,
+   "age": "5y ago"
+  },
+  {
+   "id": "IaYiYnZczs8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Identify Circuit Breakers when Panel is Not Labeled",
+   "dur": "7:24",
+   "meta": [
+    "Apartment Maintenance Pro",
+    "1M",
+    "3y ago"
+   ],
+   "channel_id": "UC6Ko62-E2iMcdJ48tBvLjUQ",
+   "views": 1000000,
+   "age": "3y ago"
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+{
+ "channel": "Electrical You",
+ "id": "UCDPXjup__Uo81upOUfq7R7g",
+ "handle": "http://www.youtube.com/@ElectricalYou",
+ "description": "Hello, I'm Trevor, a retired Air Force veteran, dad, husband, and electronics technician. I founded Electrical You to empower individuals to safely tackle their own small electrical projects when it's appropriate and safe to do so. I also review as many electrical tools and gadgets as I can along the way so you can make an informed decision before buying the tools you need to get the job done.\n\nMy goal is to provide clear, concise, and safe electrical how-to tutorials that anyone can easily follow. I aim to help the everyday DIYer save time and money by learning how to perform their own electrical troubleshooting and repairs at home, without the need to hire expensive electricians for tasks they can handle themselves.\n\nDisclaimer: Electrical work can be dangerous. Always prioritize safety and consult with a qualified electrician for any complex, code-mandated, or high-voltage situations.\n\n\n",
+ "subs": "4.7K subscribers",
+ "videos_count": "88 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "0Yxl5LUWR8Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Super Capacitor Explosion | Parallel vs Series Capacitors",
+   "dur": "5:25",
+   "meta": [
+    "2K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 2000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "K3bBVnQIp9U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Peak Current vs Inrush Current",
+   "dur": "5:40",
+   "meta": [
+    "1.1K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "8mo ago"
+  },
+  {
+   "id": "3El-ehQOf90",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dangerous High Voltage Water Experiment using Kaiweets KE2500 Megger",
+   "dur": "11:54",
+   "meta": [
+    "1.4K",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "9mo ago"
+  },
+  {
+   "id": "jDxV1b98Odw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Convert 1 outlet into 2 (Full Walkthrough)",
+   "dur": "19:35",
+   "meta": [
+    "5K",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 5000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "9dPX31aQO3M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "FNIRSI ST2 Smart Tweezers Full Review",
+   "dur": "11:27",
+   "meta": [
+    "1.1K",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "10mo ago"
+  },
+  {
+   "id": "To6hey3cQYY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Identify Wire Colors and Sizes (Dryers, Romex, Cords)",
+   "dur": "10:23",
+   "meta": [
+    "5.5K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 5500,
+   "age": "11mo ago"
+  },
+  {
+   "id": "LGcxvGn7GSU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Klein CL810 Clamp Meter FULL REVIEW – The Last Meter You’ll Ever Need!",
+   "dur": "16:37",
+   "meta": [
+    "37K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 37000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "C34rAbgJVOI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wago Lever Nut vs Wire Nut (One Clear Winner)",
+   "dur": "15:43",
+   "meta": [
+    "14K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "1y ago"
+  },
+  {
+   "id": "aJqCUJTBfk4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Learn how to replace your home smoke alarm EASY",
+   "dur": "9:50",
+   "meta": [
+    "14K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "1y ago"
+  },
+  {
+   "id": "VgreVkSzUNQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Thermal Master Thor 001 vs Fluke Tis 20+ (Which One Wins?)",
+   "dur": "15:38",
+   "meta": [
+    "2.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2300,
+   "age": "1y ago"
+  },
+  {
+   "id": "mep6DxWCyK0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Switched Outlet EASY",
+   "dur": "11:00",
+   "meta": [
+    "4.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 4300,
+   "age": "1y ago"
+  },
+  {
+   "id": "uvlf12wu2tU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Klein CL800 to CL810 Clamp Meter Upgrade (Is it Worth it?)",
+   "dur": "11:22",
+   "meta": [
+    "25K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 25000,
+   "age": "1y ago"
+  },
+  {
+   "id": "csiik8GBVpc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Wire a GFCI Outlet from a Standard Outlet",
+   "dur": "14:13",
+   "meta": [
+    "84K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 84000,
+   "age": "1y ago"
+  },
+  {
+   "id": "6QfVdZP-gN0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The BEST Outlet Tester! (Klein RT390 Full Review)",
+   "dur": "9:09",
+   "meta": [
+    "22K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 22000,
+   "age": "1y ago"
+  },
+  {
+   "id": "mczZrBbgsJw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Circuit Breaker Finder SAVED My Son's Birthday!",
+   "dur": "8:02",
+   "meta": [
+    "1.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "1y ago"
+  },
+  {
+   "id": "hs0JyvOrFmk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Test a Capacitor With a Multimeter (Step by Step Guide)",
+   "dur": "4:52",
+   "meta": [
+    "158K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 158000,
+   "age": "1y ago"
+  },
+  {
+   "id": "mFU-i0NE0Vo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fluke 101 $45 Multimeter FULL Review ",
+   "dur": "12:24",
+   "meta": [
+    "10K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 10000,
+   "age": "1y ago"
+  },
+  {
+   "id": "ybXpCaq_ebQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Hard Start Kit on Your AC Unit (SAVE THOUSANDS!)",
+   "dur": "11:22",
+   "meta": [
+    "34K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 34000,
+   "age": "1y ago"
+  },
+  {
+   "id": "Pb_Jjqu5RQk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace and Test a Circuit Breaker (Comprehensive Tutorial)",
+   "dur": "10:36",
+   "meta": [
+    "13K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "1y ago"
+  },
+  {
+   "id": "gETbvDUXHNk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Klein CL800 Clamp Meter FULL REVIEW – The Last Meter You’ll Ever Need!",
+   "dur": "13:42",
+   "meta": [
+    "25K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 25000,
+   "age": "1y ago"
+  },
+  {
+   "id": "PNoSoEA6DBc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix Car Battery Dying EASY!",
+   "dur": "10:03",
+   "meta": [
+    "971",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 971,
+   "age": "1y ago"
+  },
+  {
+   "id": "vFGVkof4wKc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$3K Fluke vs $200 HSFTools Thermal Cameras | Is the Budget Tool BETTER?",
+   "dur": "14:52",
+   "meta": [
+    "2.2K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2200,
+   "age": "1y ago"
+  },
+  {
+   "id": "mIKIa6hr84Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Test LEDs With ANY Multimeter FAST",
+   "dur": "4:01",
+   "meta": [
+    "46K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 46000,
+   "age": "1y ago"
+  },
+  {
+   "id": "FD9yRCZ7zD4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install LED Nightlight Outlets EASY!",
+   "dur": "8:40",
+   "meta": [
+    "967",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 967,
+   "age": "1y ago"
+  },
+  {
+   "id": "c7G-XcAL9-Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a Ballast EASY! Fix Dim or Flickering Lights FAST!￼",
+   "dur": "10:47",
+   "meta": [
+    "35K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 35000,
+   "age": "1y ago"
+  },
+  {
+   "id": "ZCVSHbPgMK8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is the New FNIRSI DMC100 Better than the Klein CL800?",
+   "dur": "7:02",
+   "meta": [
+    "15K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "1y ago"
+  },
+  {
+   "id": "xRZvZu6KPao",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easy breadboard project (FIRE ALARM)",
+   "dur": "12:24",
+   "meta": [
+    "1.1K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "1y ago"
+  },
+  {
+   "id": "H6pDK8yroKI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I was shocked when I tested the TOP Non-Contact Voltage Testers!",
+   "dur": "9:43",
+   "meta": [
+    "22K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 22000,
+   "age": "1y ago"
+  },
+  {
+   "id": "j98ktN6gW68",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The BEST & Fastest Outlet for DIYers!",
+   "dur": "8:41",
+   "meta": [
+    "1.8K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1800,
+   "age": "1y ago"
+  },
+  {
+   "id": "h_LjE_OWCw8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Gochifix vs Finirsi: The Ultimate Scope Meter Showdown",
+   "dur": "11:46",
+   "meta": [
+    "4.2K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 4200,
+   "age": "1y ago"
+  },
+  {
+   "id": "H74aAo7w3Ao",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY Ways to Fix Your Christmas Lights!",
+   "dur": "10:52",
+   "meta": [
+    "24K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 24000,
+   "age": "1y ago"
+  },
+  {
+   "id": "IVdDUCufcTI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Ultimate 3-in-1 Tool for Your DIY Projects",
+   "dur": "10:06",
+   "meta": [
+    "3.6K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 3600,
+   "age": "1y ago"
+  },
+  {
+   "id": "R-uj4Z-GGtA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix GE Gas Oven Igniter (DIY Repair Guide)",
+   "dur": "7:02",
+   "meta": [
+    "36K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 36000,
+   "age": "2y ago"
+  },
+  {
+   "id": "l0oPjtwES8U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix Gas Oven Heating Problems (DIY Repair Guide)",
+   "dur": "8:09",
+   "meta": [
+    "5.5K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 5500,
+   "age": "2y ago"
+  },
+  {
+   "id": "mGbffUDQYVE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Overcharged Capacitors?",
+   "dur": "6:01",
+   "meta": [
+    "1.7K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "2y ago"
+  },
+  {
+   "id": "9xXiZus3B2g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a Circuit Breaker Work?",
+   "dur": "6:20",
+   "meta": [
+    "978",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 978,
+   "age": "2y ago"
+  },
+  {
+   "id": "Cop4Bg6jo1Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Klein vs Fluke Clamp Ammeter REMATCH | Still One Clear Winner?",
+   "dur": "11:13",
+   "meta": [
+    "33K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "2y ago"
+  },
+  {
+   "id": "taWG7AXIQVM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY Install Hidden Outlet Behind TV!",
+   "dur": "11:52",
+   "meta": [
+    "31K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "2y ago"
+  },
+  {
+   "id": "DIH0gV7zy-I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace Your Doorbell (EASY)",
+   "dur": "6:18",
+   "meta": [
+    "11K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "2y ago"
+  },
+  {
+   "id": "-SuZWpkfU_I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Klein vs Fluke Clamp Ammeter | One CLEAR winner!",
+   "dur": "6:43",
+   "meta": [
+    "82K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 82000,
+   "age": "2y ago"
+  },
+  {
+   "id": "IRepr11B-ao",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a Bathroom Fan EASY!",
+   "dur": "7:22",
+   "meta": [
+    "109K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 109000,
+   "age": "2y ago"
+  },
+  {
+   "id": "5bAOO4NZbrU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Revamp Your Lamp: Replace the Cord and Add a Switch!",
+   "dur": "9:00",
+   "meta": [
+    "12K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "2y ago"
+  },
+  {
+   "id": "4r2jYBprEbk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace Airtag  Battery EASY!",
+   "dur": "1:19",
+   "meta": [
+    "198",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 198,
+   "age": "2y ago"
+  },
+  {
+   "id": "OI7eSNY6YkE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Easily Test Any PC Power Supply in 2025!",
+   "dur": "7:14",
+   "meta": [
+    "129K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 129000,
+   "age": "2y ago"
+  },
+  {
+   "id": "DqYA4uG4r1Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Extend Short Wires",
+   "dur": "7:05",
+   "meta": [
+    "13K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "2y ago"
+  },
+  {
+   "id": "8kBINVPlPr4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Test YOUR Appliance Energy Consumption!",
+   "dur": "5:48",
+   "meta": [
+    "5.4K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 5400,
+   "age": "2y ago"
+  },
+  {
+   "id": "-HloC61SnAg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Use a Multimeter for Beginners",
+   "dur": "11:36",
+   "meta": [
+    "17K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 17000,
+   "age": "2y ago"
+  },
+  {
+   "id": "a8jSxm3uvoA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install USB Outlets!",
+   "dur": "4:44",
+   "meta": [
+    "1.7K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "2y ago"
+  },
+  {
+   "id": "Z10jz6J6KZs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Nightlight Switch",
+   "dur": "5:02",
+   "meta": [
+    "1.5K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "2y ago"
+  },
+  {
+   "id": "KcOuhsz1xnU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Wire 3-Way Switch for beginners!",
+   "dur": "9:43",
+   "meta": [
+    "59K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "2y ago"
+  },
+  {
+   "id": "iJ0ZAfM8ru8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Trace a Light Circuit to the Breaker Easily!",
+   "dur": "2:16",
+   "meta": [
+    "10K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 10000,
+   "age": "2y ago"
+  },
+  {
+   "id": "mapSZoLPW1g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Find A Circuit Breaker (EASY)",
+   "dur": "1:50",
+   "meta": [
+    "2.3K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2300,
+   "age": "2y ago"
+  },
+  {
+   "id": "R7DKWJ909TE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Avoid these 5 fatal electrical DIY mistakes!",
+   "dur": "4:13",
+   "meta": [
+    "484",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 484,
+   "age": "2y ago"
+  },
+  {
+   "id": "D2BoKpDvSQQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a Circuit Breaker EASY!",
+   "dur": "6:16",
+   "meta": [
+    "613",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 613,
+   "age": "2y ago"
+  },
+  {
+   "id": "FmmLF3Gug4I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to pull and test a circuit breaker anyone can do!",
+   "dur": "8:47",
+   "meta": [
+    "80K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 80000,
+   "age": "2y ago"
+  },
+  {
+   "id": "pcbI5gOte74",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace an Electrical Outlet (DIY for Beginners)",
+   "dur": "10:00",
+   "meta": [
+    "502",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 502,
+   "age": "2y ago"
+  },
+  {
+   "id": "Yeqx7TCH6W4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Play Guitar Hero With a REAL Guitar!",
+   "dur": "7:45",
+   "meta": [
+    "42K",
+    "18y ago"
+   ],
+   "channel_id": null,
+   "views": 42000,
+   "age": "18y ago"
+  },
+  {
+   "id": "CbCOUrRrDH4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How-to Test a IR LED Bulb with a Multimeter",
+   "dur": "2:01",
+   "meta": [
+    "48K",
+    "18y ago"
+   ],
+   "channel_id": null,
+   "views": 48000,
+   "age": "18y ago"
+  }
+ ]
+}

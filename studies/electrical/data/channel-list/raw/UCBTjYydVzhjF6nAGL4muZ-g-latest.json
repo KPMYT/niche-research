@@ -1,0 +1,37 @@
+{
+ "channel": "Hours Without",
+ "id": "UCBTjYydVzhjF6nAGL4muZ-g",
+ "handle": "http://www.youtube.com/@HoursWithout",
+ "description": "What really happens when the power goes out? Hour by hour.\n\nHours Without makes realistic, animated blackout and outage simulations: grid down, winter storms, no heat, no water. You face the decisions, pick your move, then see what the data says: what fails first, what actually helps, and where people go wrong.\n\nNo doomsday hype. Every video lists its sources in the description.\n\nThe scenarios and characters are fictional; the numbers and safety guidance are real and sourced. General information and entertainment, not professional emergency advice.\n\nNew here? Start with the featured video. Subscribe for the next simulation.\n",
+ "subs": "3 subscribers",
+ "videos_count": "4 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "Q93dF5uaY7Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Winter Power Outage: What Really Happens in 72 Hours (Simulation)",
+   "dur": "11:50",
+   "meta": [
+    "18",
+    "2d ago"
+   ],
+   "channel_id": null,
+   "views": 18,
+   "age": "2d ago"
+  },
+  {
+   "id": "zqz_FOVA-d8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens If the Power Grid Goes Down for 2 Weeks? (Hour by Hour)",
+   "dur": "10:43",
+   "meta": [
+    "32",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 32,
+   "age": "7d ago"
+  }
+ ]
+}

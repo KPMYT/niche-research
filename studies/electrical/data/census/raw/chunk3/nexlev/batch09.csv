@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job a3d5c907-9737-4fcd-9beb-de9fd969f6b1, timestamp 2026-10-26T06:57:29.717Z (transcribed field by field from the tool result)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UCWvY9QjfbXZMOE1DbqyVOnA,false,3.86,77,9.6,engineering,educational,false,true,Slovakia,0.99
+UCvddjuQr63BfchZ5iMc6vyQ,false,3.39,595,6.5,business,vlogs,true,false,United States,0.95
+UCsdItIDb90ZeBwRzFMULXZw,false,2.94,1188,9.1,engineering,tutorial,true,false,Austria,0.95
+UC9NqGJ9YosHp6VOT-afvLXQ,false,2.81,491,10.4,science,educational,true,true,United States,0.99
+UCN4iDVKQEeWB8JoCjeF8UfA,false,2.69,44,9,engineering,educational,true,true,,0.98
+UCMEZDecultHhqdjx7SBOEEw,false,7.39,26,21.9,health,educational,false,false,,0.97
+UCHP-G5Yu3RRngTr_X5MX1pg,false,3.85,97,23.5,history,documentary,false,true,United States,0.98
+UCU-8gCeq6yT4YP4viVMFAZA,false,8.6,26,21.7,how to,tutorial,false,false,United States,0.98
+UCTgCWWZRU3KcVO5ctsdh03g,false,4,160,3.7,science,documentary,true,true,Philippines,0.96
+UCmbeEAT0HFAFI3eRFB7Azvw,false,5.9,67,22.3,health,educational,false,true,India,0.98

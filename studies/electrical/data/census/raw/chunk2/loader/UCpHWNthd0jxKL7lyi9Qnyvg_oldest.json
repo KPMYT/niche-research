@@ -1,0 +1,401 @@
+{
+ "channel": "Study Circuit",
+ "id": "UCpHWNthd0jxKL7lyi9Qnyvg",
+ "handle": "http://www.youtube.com/@StudyCircuitON",
+ "description": "Welcome to Study Circuit! Daily electrical study videos in plain language for Ontario 309A and Master Electrician exam candidates. We break down code traps, motor control, calculations, and instrumentation to help you study with confidence. For education only — this channel is not instructions for DIY live electrical work. Always follow applicable codes and work only within your qualifications and supervision.",
+ "subs": "24 subscribers",
+ "videos_count": "237 videos",
+ "sort": "oldest",
+ "videos": [
+  {
+   "id": "-DK3EXmnnGo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Contactors, Starters, and the Overload That Actually Protects Your Motor",
+   "dur": "4:58",
+   "meta": [
+    "21",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 21,
+   "age": "2w ago"
+  },
+  {
+   "id": "k89YK0nGt10",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How a Fire Alarm System Is Put Together: Control Unit, Initiating Devices, Notification, and Power",
+   "dur": "4:49",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "Gphrz2fVOiA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Series RLC and Resonance",
+   "dur": "4:22",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "VBFBkZkCEi8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UPS Basics: The Box That Buys You Time",
+   "dur": "6:05",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "_y0N3MhDolk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Rack Power Distribution: One Feed In, Every Device Fed",
+   "dur": "4:29",
+   "meta": [
+    "4",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "2w ago"
+  },
+  {
+   "id": "n7xRejJu_HA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Low Voltage Distribution Equipment: Panelboards, Switchboards, Switchgear, Busway",
+   "dur": "4:04",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "aOte7rhjxg8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Management: Monitoring, Alerts, and Graceful Shutdown",
+   "dur": "3:28",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "WmBcU2645Jo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UPS Batteries: The String That Decides Your Runtime",
+   "dur": "4:06",
+   "meta": [
+    "6",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "2w ago"
+  },
+  {
+   "id": "bJa-w5PQYZg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UPS Fundamentals: The Complete Deep Dive",
+   "dur": "21:16",
+   "meta": [
+    "9",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 9,
+   "age": "2w ago"
+  },
+  {
+   "id": "M6VV0nHD5qg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Parallel UPS Systems: Stronger Together, If They Share Honestly",
+   "dur": "4:56",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "55lQtHcTkHA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dry-Type Transformer Installation: Room to Breathe, Joints Made Honestly - Part 2",
+   "dur": "11:28",
+   "meta": [
+    "10",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 10,
+   "age": "2w ago"
+  },
+  {
+   "id": "ZXPxGORalWc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dry-Type Transformer Installation: Room to Breathe, Joints Made Honestly - Part 1",
+   "dur": "6:25",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "EGFGjlxSXMo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transfer Switches Explained: Open vs Closed Transition, Switching Mechanisms, and Operation Modes",
+   "dur": "12:14",
+   "meta": [
+    "13",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 13,
+   "age": "2w ago"
+  },
+  {
+   "id": "1RSFYhP4smI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Hots, One Neutral: The 120/240 System in One Picture",
+   "dur": "3:11",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "o5yiEfLHEVc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Did the OESC Ban Aluminum Wiring? Rule 12-118 Says No",
+   "dur": "6:22",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "h-M8ATC1ABA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Read the Tag, Read the Loop: How to Decode a P&ID",
+   "dur": "7:02",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "GQ5S7o-N3lA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Hot Wire, Higher Resistance: Why Resistance Is Not a Constant",
+   "dur": "6:04",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "batkR7IStaE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Factor and Correction Capacitors",
+   "dur": "5:00",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "Pd-qlKFh3nE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Alarm, Supervisory, and Trouble: The Three Signals You Must Never Mix Up",
+   "dur": "4:53",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "t_N4bCYi05s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The 10% Holdback, Worked With Real Dates",
+   "dur": "5:34",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "T6arEPBPVzs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformers: Turns Ratio, kVA, and Connections",
+   "dur": "4:55",
+   "meta": [
+    "8",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 8,
+   "age": "2w ago"
+  },
+  {
+   "id": "Ua4R0mSL14Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Three-Phase Power Explained",
+   "dur": "4:58",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "rWPUNNKmtlY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ungrounded Systems Explained",
+   "dur": "4:59",
+   "meta": [
+    "26",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 26,
+   "age": "2w ago"
+  },
+  {
+   "id": "MfYhazd5aAQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "20 Workers on Site? You Need a Safety Committee",
+   "dur": "5:23",
+   "meta": [
+    "0",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "2w ago"
+  },
+  {
+   "id": "rGMoKWCwny4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Voltage Drop, Calculated Step by Step",
+   "dur": "5:39",
+   "meta": [
+    "4",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "2w ago"
+  },
+  {
+   "id": "3HwpQCz6ivo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Decoding the Motor Nameplate: Code Letters, Service Factor, and Starting Current",
+   "dur": "6:09",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "uPiGsdUpnas",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Pick the Path: Raceway or Cable?",
+   "dur": "4:01",
+   "meta": [
+    "1",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "2w ago"
+  },
+  {
+   "id": "8MF92voJiBs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Conduit Fill: The Area Budget",
+   "dur": "3:55",
+   "meta": [
+    "6",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "2w ago"
+  },
+  {
+   "id": "X8KEFCcG19M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Read the Jacket: NMD90, AC90, Teck90",
+   "dur": "3:29",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "lKAX8OEFClw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Down and Across: Buried and Overhead Runs",
+   "dur": "4:33",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  }
+ ]
+}

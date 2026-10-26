@@ -1,0 +1,667 @@
+file,row_or_claim,field,recorded_value,checked_value,source,verdict,note
+sweep/devices/videos.csv,row 2 AGglJehON5g (top),views,13558151,13558213,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 2 AGglJehON5g (top),title/channel/length,The Perfect Battery Material Is Dangerous | Veritasium | 34:42,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 2 AGglJehON5g (top),scope,batteries-lithium,"borderline: battery-science explainer, not home safety",title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 3 sTSQwtwr-Gg (top),views,12514643,12514643,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 3 sTSQwtwr-Gg (top),title/channel/length,4 Experiments with Batteries! We Explores Battery  | TKOR | 14:28,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 3 sTSQwtwr-Gg (top),scope/subniche/format,batteries-lithium / test,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 5 OgKQihUEFA0 (top),views,9461119,9461119,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 5 OgKQihUEFA0 (top),title/channel/length,how to lower your electric bill ... Oncor said I w | ranchitout | 5:28,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 5 OgKQihUEFA0 (top),format,myth-bust,story,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 6 TdUK6RPdIrA (top),views,8647726,8647736,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 6 TdUK6RPdIrA (top),title/channel/length,How to Use a Multimeter for Beginners - How to Mea | Ratchets And Wrenches | 8:08,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 6 TdUK6RPdIrA (top),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 7 Mkgo_CLVbzg (top),views,7263705,7263725,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 7 Mkgo_CLVbzg (top),title/channel/length,Ignoring All Lithium Battery Safety Warnings.. For | Concept Crafted Creations | 11:40,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 7 Mkgo_CLVbzg (top),format,test,test (devices sweep labels the same video test),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 8 HPcy3onpRFo (top),views,6370293,6370293,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 8 HPcy3onpRFo (top),title/channel/length,12 Mistakes You Make While Charging Your Phone | BRIGHT SIDE | 10:50,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 8 HPcy3onpRFo (top),scope,batteries-lithium,"out (phone battery-life tips, not fire)",title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 9 0loXukB302Q (top),views,6213077,6213160,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 9 0loXukB302Q (top),title/channel/length,"How to use a multimeter like a pro, the ultimate g | Anthony Mendez  | 12:55",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 9 0loXukB302Q (top),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 10 jnb4rdaKW6k (top),views,5632958,5632958,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 10 jnb4rdaKW6k (top),title/channel/length,"Stop Charging Your Phone at Night, Here's Why | BRIGHT SIDE | 8:10",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 10 jnb4rdaKW6k (top),scope,batteries-lithium,out (phone battery-life tips),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 12 lo8MWr3NuuM (top),views,5049957,5049957,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 12 lo8MWr3NuuM (top),title/channel/length,The Best Multimeter Tutorial in The World (How to  | Dan The Technology Man | 41:29,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 12 lo8MWr3NuuM (top),format,only-x,how-to (tutorial),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 13 lZBRYx0qXEU (top),views,4738975,4738975,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 13 lZBRYx0qXEU (top),title/channel/length,HOW TO EASILY FIND BAD CHRISTMAS LIGHT BULBS using | Gadget Reboot | 5:55,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 13 lZBRYx0qXEU (top),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 14 ZBbgiBU96mM (top),views,4379709,4379709,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 14 ZBbgiBU96mM (top),title/channel/length,How to use a Multimeter for beginners: Part 1 - Vo | mjlorton | 32:58,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 14 ZBbgiBU96mM (top),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 15 CKwBBesUKA8 (top),views,3851119,3851119,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 15 CKwBBesUKA8 (top),title/channel/length,Choosing a Backup Generator Plus 3 LEGAL House Con | Bailey Line Road | 12:39,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 15 CKwBBesUKA8 (top),scope/subniche/format,generator-safety / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 17 fB6uI7NPxRs (top),views,3693920,3693931,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 17 fB6uI7NPxRs (top),title/channel/length,The BEST Way To Connect A Generator To Your House  | How To Home | 13:18,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 17 fB6uI7NPxRs (top),format,only-x,how-to,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 18 02xtdkBR4ho (top),views,3570456,3570456,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 18 02xtdkBR4ho (top),title/channel/length,Installing my Electric Car Charger - What Could Go | Linus Tech Tips | 21:05,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 18 02xtdkBR4ho (top),format,mistakes,story/how-to (install vlog),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 19 4lAyzRxsbDc (top),views,3545384,3545391,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 19 4lAyzRxsbDc (top),title/channel/length,How to use a multimeter like a pro! The Ultimate g | The Engineering Mindset | 28:43,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 19 4lAyzRxsbDc (top),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 619 1cT5ERp8tCk (rand),views,5014,5027,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.26%
+sweep/devices/videos.csv,row 619 1cT5ERp8tCk (rand),title/channel/length,I Installed My Own Tesla Charger Outlet | NEMA 14- | Hammer Down Tesla | 18:46,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 619 1cT5ERp8tCk (rand),scope/subniche/format,ev-charging / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 197 X9OOOVDA2JA (rand),views,258950,258951,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 197 X9OOOVDA2JA (rand),title/channel/length,Best Multimeter | 5 factors to help you choose the | Gary Davies | 5:32,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 197 X9OOOVDA2JA (rand),scope/subniche/format,testers-meters / only-x,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 760 VH314vgucjA (rand),views,553,554,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.18%
+sweep/devices/videos.csv,row 760 VH314vgucjA (rand),title/channel/length,7 Backup Generator Mistakes to Fix Before the Next | gaurav thakur | 18:57,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 760 VH314vgucjA (rand),scope/subniche/format,generator-safety / mistakes,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 93 nIfmEsPi48c (rand),views,799360,799397,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 93 nIfmEsPi48c (rand),title/channel/length,10 Mistakes DIYers Make in Electrical Panels | Backyard Maine | 16:37,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 93 nIfmEsPi48c (rand),scope/subniche/format,breakers-panels / mistakes,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 332 hyOorSGAc6k (rand),views,88308,88308,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 332 hyOorSGAc6k (rand),title/channel/length,Generac GP17500 Generator Backfeeding House Electr | tom110111 | 13:33,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 332 hyOorSGAc6k (rand),scope/subniche/format,generator-safety / explainer (fallback: no cue word),plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 681 RXRQ_hdGs1c (rand),views,1683,1659,yt.py video 2026-10-24; length from helper raw/ search JSON,minor,-1.43% (count went down; YouTube adjustment)
+sweep/devices/videos.csv,row 681 RXRQ_hdGs1c (rand),title/channel/length,"SBS 16000mAh Power Bank – Swollen Battery, Capacit | FVEBlog | 13:21",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 681 RXRQ_hdGs1c (rand),scope/subniche/format,batteries-lithium / test,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 36 ts0EVc9vXcs (rand),views,2287557,2287557,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 36 ts0EVc9vXcs (rand),title/channel/length,How to Use a Multimeter | Science Buddies | 17:23,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 36 ts0EVc9vXcs (rand),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 213 jvObMo7SKYM (rand),views,234718,234719,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 213 jvObMo7SKYM (rand),title/channel/length,I was WRONG! The Tesla Gen 3 Charger is the WORST! | Artisan Electrics | 33:00,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 213 jvObMo7SKYM (rand),format,mistakes,review,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 555 gPDXwjzoZJ8 (rand),views,11640,11640,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 555 gPDXwjzoZJ8 (rand),title/channel/length,Major Causes of High Electricity Bill | Tests to C | Danhi Electrical | 16:21,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 555 gPDXwjzoZJ8 (rand),scope/subniche/format,electric-bill / explainer (fallback: no cue word),plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 904 g7jMd6jE94E (rand),views,66,66,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 904 g7jMd6jE94E (rand),title/channel/length,"April 15th Lecture. Identity, Isolate, Backfeed. | HGTC Electrical Lineman | 33:23",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 904 g7jMd6jE94E (rand),scope/subniche/format,generator-safety / explainer (fallback: no cue word),plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 803 PikWmvMqfyU (rand),views,314,314,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 803 PikWmvMqfyU (rand),title/channel/length,The Physics of Suffocation: Why A Running a Genera | Sketchy Survival | 12:14,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 803 PikWmvMqfyU (rand),scope,generator-safety,borderline: prepping channel (Sketchy Survival),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 80 5y7RaJSAMZQ (rand),views,951013,951056,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 80 5y7RaJSAMZQ (rand),title/channel/length,Watch This Before Connecting a Backup Generator to | Backyard Maine | 12:55,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 80 5y7RaJSAMZQ (rand),scope/subniche/format,generator-safety / before-you,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 777 -Cq77uXC_XY (rand),views,441,441,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 777 -Cq77uXC_XY (rand),title/channel/length,7 Carbon Monoxide Mistakes That Put Families at Ri | Mike Callahan's Firehouse | 14:48,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 777 -Cq77uXC_XY (rand),scope/subniche/format,smoke-co-alarms / mistakes,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 687 1Oj60z4h2CQ (rand),views,1544,1544,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 687 1Oj60z4h2CQ (rand),title/channel/length,Oversized Generator? Here's What's Really Happenin | The Decision filter | 13:51,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 687 1Oj60z4h2CQ (rand),scope,generator-safety,out (generator sizing = buying),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 589 g3L6r9DGonQ (rand),views,7969,7969,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 589 g3L6r9DGonQ (rand),title/channel/length,"High electric bill, multiple reasons. | HVAC GUY | 9:31",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 589 g3L6r9DGonQ (rand),format,cheap-hack,explainer,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 105 -hAbjcD8yVA (rand),views,631819,631819,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 105 -hAbjcD8yVA (rand),title/channel/length,E-Bike Fire on a Train: New Data Shows How Little  | StacheD Training | 8:17,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 105 -hAbjcD8yVA (rand),scope/subniche/format,batteries-lithium / explainer (fallback: no cue word),plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 363 FTRfq7qG8gg (rand),views,72634,72634,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 363 FTRfq7qG8gg (rand),title/channel/length,Generator power inlet box and interlock kit instal | The Kelley's Country Life | 16:51,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 363 FTRfq7qG8gg (rand),scope/subniche/format,generator-safety / how-to,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 915 1G7SyQExLBI (rand),views,58,58,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 915 1G7SyQExLBI (rand),title/channel/length,✅ Top 5: Best EV Chargers For Home of 2026 You Nee | Tech Ratings | 10:08,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 915 1G7SyQExLBI (rand),scope,ev-charging,out (Top 5 EV chargers buying list),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 541 SVnkFbnUkBY (rand),views,13990,13990,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 541 SVnkFbnUkBY (rand),title/channel/length,Cheap Generator Interlock Kit with some not-so-sma | Charles Olcott | 15:12,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 541 SVnkFbnUkBY (rand),scope/subniche/format,generator-safety / cheap-hack,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 889 GBDSfh12itM (rand),views,89,89,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 889 GBDSfh12itM (rand),title/channel/length,Phantom Loads That Drain Your Battery Overnight (R | solar circuit 360 | 5:37,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 889 GBDSfh12itM (rand),scope,electric-bill,out (solar/home battery phantom load),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 969 pBKkcJIcuHI (rand),views,18,18,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 969 pBKkcJIcuHI (rand),title/channel/length,Generator Backfeed Hazard and Mitigation Measures  | BESA Research | 22:00,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 969 pBKkcJIcuHI (rand),scope/subniche/format,generator-safety / explainer,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 683 pCSa_ZaB2U0 (rand),views,1617,1617,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 683 pCSa_ZaB2U0 (rand),title/channel/length,Does Deflating a Swollen Lithium Laptop Battery Ac | Nate's Toolbox | 6:01,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 683 pCSa_ZaB2U0 (rand),scope/subniche/format,batteries-lithium / myth-bust,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 532 YsPHFqjgPY0 (rand),views,15390,15391,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.01%
+sweep/devices/videos.csv,row 532 YsPHFqjgPY0 (rand),title/channel/length,HobbyKing's Tips Bench Tuesday -  How to Safely St | HobbyKing | 7:57,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 532 YsPHFqjgPY0 (rand),format,cheap-hack,how-to,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 644 5RAKOHIgKmM (rand),views,3130,3130,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 644 5RAKOHIgKmM (rand),title/channel/length,I Was DUMB! - My NEMA 14-50 Outlet Failure In 4 Ye | Bowe Family EV (Chris Bowe) | 8:50,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 644 5RAKOHIgKmM (rand),format,explainer (fallback: no cue word),story,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 951 seEk2G2iHYk (rand),views,28,28,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/devices/videos.csv,row 951 seEk2G2iHYk (rand),title/channel/length,Home Batteries: The Future of Electricity? | The Green Switch TV | 6:38,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 951 seEk2G2iHYk (rand),scope,batteries-lithium,out (home battery storage / solar),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 372 lHg_d8zXjhQ (rand),views,67563,67601,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.06%
+sweep/devices/videos.csv,row 372 lHg_d8zXjhQ (rand),title/channel/length,How to Use a Multimeter (Beginner's Guide) | MajstorBezGarancije | 21:32,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 372 lHg_d8zXjhQ (rand),language,English,"Bosnian/Serbian original (Kako se koristi multimetar), title auto-translated; NexLev video details",title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 425 hqv0YlSk6ZU (rand),views,40322,40318,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.01%
+sweep/devices/videos.csv,row 425 hqv0YlSk6ZU (rand),title/channel/length,Supermarket Multimeter!  The Ferrex Digital Multim | JazzTech Electronics | 22:07,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 425 hqv0YlSk6ZU (rand),scope/subniche/format,testers-meters / review,plausible,title reading by checker D,ok,
+sweep/devices/videos.csv,row 531 iZW_swfzFKc (rand),views,15573,15568,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.03%
+sweep/devices/videos.csv,row 531 iZW_swfzFKc (rand),title/channel/length,🔥 I Called a Fire Captain About the GSPACE 8440 Ba | Scoota Gang and StacheD Training | 15:17,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 531 iZW_swfzFKc (rand),format,mistakes,story,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/devices/videos.csv,row 180 iwjs74UjITM (rand),views,292787,292786,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.00%
+sweep/devices/videos.csv,row 180 iwjs74UjITM (rand),title/channel/length,Lenovo Tech Talks. Can I leave my laptop plugged i | Lenovo UK & Ireland | 7:34,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 180 iwjs74UjITM (rand),scope,batteries-lithium,out (laptop battery-life),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/devices/videos.csv,row 792 H_33f6Ahxj4 (rand),views,378,379,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.26%
+sweep/devices/videos.csv,row 792 H_33f6Ahxj4 (rand),title/channel/length,This $4 Copper Wire Fix Could Cut Your Electricity | Hiddennova | 11:46,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/devices/videos.csv,row 792 H_33f6Ahxj4 (rand),scope/subniche/format,electric-bill / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 2 HG6RWCClI6c (top),views,15763253,15763266,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 2 HG6RWCClI6c (top),title/channel/length,IFS - Cause of Dryer Fires | Institut für Schadenverhütung und Schadenforschung | 5:06,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 2 HG6RWCClI6c (top),language,LANG-CHECK flagged,German institute; helper flagged and excluded from medians but still #1 in report table,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/fire/videos.csv,row 3 rEbS1nH9ORY (top),views,5719512,5719548,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 3 rEbS1nH9ORY (top),title/channel/length,Doctor vs. Firefighter | Never Have I Ever | Doctor Mike and Fire Department Chronicles | 18:12,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 3 rEbS1nH9ORY (top),scope,fire-habits,out (Doctor Mike x FDC entertainment),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/fire/videos.csv,row 4 JmiJAn41D9k (top),views,5278304,5278311,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 4 JmiJAn41D9k (top),title/channel/length,Real Things I've Seen as a Firefighter and Paramed | Fire Department Chronicles | 8:01,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 4 JmiJAn41D9k (top),scope,fire-habits,out (FDC comedy sketch compilation),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/fire/videos.csv,row 5 CwjqUevc0Wk (top),views,3986572,3986572,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 5 CwjqUevc0Wk (top),title/channel/length,Never Throw Water On Grease Fire...I Said Never | Crazy XYZ | 6:37,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 5 CwjqUevc0Wk (top),scope/subniche/format,kitchen-grease / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 6 WqWraWeXSUE (top),views,3934873,3934878,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 6 WqWraWeXSUE (top),title/channel/length,Stop A Smoke Alarm Chirping With 3 Quick Fixes | Everyday Home Repairs | 5:31,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 6 WqWraWeXSUE (top),scope/subniche/format,smoke-co-alarms / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 7 GLZSqhUoF_g (top),views,3803747,3803747,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 7 GLZSqhUoF_g (top),title/channel/length,How To Clean Your Dryer Vent Duct - Step By Step - | AmplifyDIY | 16:06,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 7 GLZSqhUoF_g (top),scope/subniche/format,dryer-vents / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 8 HdJeZ4nQ3hc (top),views,3803556,3803627,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 8 HdJeZ4nQ3hc (top),title/channel/length,Everything Hollywood Gets Wrong About Firefighters | Doctor Mike and Fire Department Chronicles | 2:06:38,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 8 HdJeZ4nQ3hc (top),scope,fire-habits,"out (Doctor Mike x FDC entertainment, 2:06:38)",title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/fire/videos.csv,row 9 Tu8RBQ0ChaI (top),views,3435684,3435715,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 9 Tu8RBQ0ChaI (top),title/channel/length,Avoid Disaster! 8 FATAL Outlet Mistakes Most DIYer | How To Home | 16:50,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 9 Tu8RBQ0ChaI (top),scope/subniche/format,outlets-switches / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 10 CdItsso3ur0 (top),views,3153216,3153216,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 10 CdItsso3ur0 (top),title/channel/length,Testing The Burn Ability Of Insulation In Wall | post 10 | 19:45,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 10 CdItsso3ur0 (top),scope/subniche/format,fire-habits / test,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 11 DuAeaIcAXtg (top),views,3099661,3099711,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 11 DuAeaIcAXtg (top),title/channel/length,There are two types of smoke alarm. One of 'em ain | Technology Connections | 24:56,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 11 DuAeaIcAXtg (top),scope/subniche/format,smoke-co-alarms / myth-bust,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 12 bqKw8ERYCiM (top),views,2989372,2989372,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 12 bqKw8ERYCiM (top),title/channel/length,Dryer Lint Trap Deep-Cleaning: I found 4 cups of f | Doing Things Dan's Way | 10:06,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 12 bqKw8ERYCiM (top),scope/subniche/format,dryer-vents / story,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 13 vo0W1KCXRHg (top),views,2914457,2914470,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 13 vo0W1KCXRHg (top),title/channel/length,A new Real Things I've Seen as a Paramedic and Fir | Fire Department Chronicles | 8:19,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 13 vo0W1KCXRHg (top),scope,fire-habits,out (FDC comedy compilation),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/fire/videos.csv,row 14 Qzt9RZ0FQyM (top),views,2856800,2856800,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 14 Qzt9RZ0FQyM (top),title/channel/length,"Dangerous vs. Safe batteries, Explosion and fire t | ELERIX | 8:28",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 14 Qzt9RZ0FQyM (top),scope/subniche/format,batteries-lithium / test,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 15 BtMmymOxdjc (top),views,2660259,2660259,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 15 BtMmymOxdjc (top),title/channel/length,Flashover Demonstration | OakRidgeFD | 5:28,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 15 BtMmymOxdjc (top),scope/subniche/format,fire-habits / test,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 16 jNuVsFeL7vY (top),views,2557111,2557120,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 16 jNuVsFeL7vY (top),title/channel/length,7 Backup Generator Mistakes. (Have You Made One?) | Backyard Maine | 8:11,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 16 jNuVsFeL7vY (top),scope/subniche/format,generator-safety / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 195 TgzavlDIdz4 (rand),views,104083,104083,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 195 TgzavlDIdz4 (rand),title/channel/length,Yearly Fire Extinguisher Inspection | BYUI Fire Safety | 5:53,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 195 TgzavlDIdz4 (rand),scope/subniche/format,extinguishers-escape / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 501 378IoUkHjTQ (rand),views,558,558,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 501 378IoUkHjTQ (rand),title/channel/length,"""Things To Know..."", Outdoor Fire Safety | Knox County Fire Bureau | 13:00",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 501 378IoUkHjTQ (rand),scope,extinguishers-escape,borderline: outdoor/campfire safety,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/fire/videos.csv,row 462 IcXihgX0q2Q (rand),views,1137,1137,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 462 IcXihgX0q2Q (rand),title/channel/length,Mastering Type K Fire Extinguishers | Kitchen Grea | HSEstudy | 6:34,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 462 IcXihgX0q2Q (rand),scope/subniche/format,kitchen-grease / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 515 FsrLNS-ENBA (rand),views,441,441,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 515 FsrLNS-ENBA (rand),title/channel/length,No More Chimney Sweeps — The $2 Powder That Cleans | Amos Wright and 2 more | 10:56,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 515 FsrLNS-ENBA (rand),scope/subniche/format,fire-habits / cheap-hack,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 614 0chVRIiQOXs (rand),views,98,98,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 614 0chVRIiQOXs (rand),title/channel/length,NEVER Plug These 9 Things Into a Power Strip (It's | Martha Graves | 13:01,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 614 0chVRIiQOXs (rand),scope/subniche/format,cords-strips-surge / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 290 yTGCcBiXqfU (rand),views,17897,17898,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.01%
+sweep/fire/videos.csv,row 290 yTGCcBiXqfU (rand),title/channel/length,Google Killed Nest Protect — Which Smart Smoke Det | Speak to the Geek | 20:01,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 290 yTGCcBiXqfU (rand),format,story,only-x/review (which detector to buy),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/fire/videos.csv,row 277 iIFmSwCnYK8 (rand),views,21222,21222,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 277 iIFmSwCnYK8 (rand),title/channel/length,FIRE VS CLOSED BEDROOM DOOR | Caldwell Fire Department | 6:47,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 277 iIFmSwCnYK8 (rand),format,x-vs-y,test (demo),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/fire/videos.csv,row 394 Ek53ROc0qIo (rand),views,3801,3804,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.08%
+sweep/fire/videos.csv,row 394 Ek53ROc0qIo (rand),title/channel/length,Smoke alarm location requirements | Structure Tech Home Inspections | 8:02,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 394 Ek53ROc0qIo (rand),scope/subniche/format,smoke-co-alarms / explainer,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 360 KHfPx-DPf_A (rand),views,5988,5988,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 360 KHfPx-DPf_A (rand),title/channel/length,7 Smoke Alarms That FAIL In A Fire — And 3 That Ar | Home Hazard | 10:07,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 360 KHfPx-DPf_A (rand),scope/subniche/format,smoke-co-alarms / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 309 eZL1YlXTK-A (rand),views,11173,11173,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 309 eZL1YlXTK-A (rand),title/channel/length,If Only I Would’ve Looked!!! Never Again! DRYER VE | Almetal Dryer Vent | 14:21,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 309 eZL1YlXTK-A (rand),scope/subniche/format,dryer-vents / other:job-vlog,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 95 z8y4Snm7m0o (rand),views,400849,400844,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.00%
+sweep/fire/videos.csv,row 95 z8y4Snm7m0o (rand),title/channel/length,How To Remove Dryer Panels To Clean Dryer Lint Fil | HOW TO - TV CHANNEL | 8:38,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 95 z8y4Snm7m0o (rand),scope/subniche/format,dryer-vents / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 61 IxkoMJM3nX4 (rand),views,725382,725385,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 61 IxkoMJM3nX4 (rand),title/channel/length,How To Clean A Dryer Duct - Step By Step | Concord Carpenter | Tool Lab | 7:08,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 61 IxkoMJM3nX4 (rand),scope/subniche/format,dryer-vents / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 446 nUN5VK_1Aew (rand),views,1462,1462,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 446 nUN5VK_1Aew (rand),title/channel/length,7 Fire Escape Mistakes That Put Seniors At Risk (M | Home Hazard | 11:52,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 446 nUN5VK_1Aew (rand),scope/subniche/format,extinguishers-escape / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 78 FXHcEFeG43I (rand),views,473585,473585,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 78 FXHcEFeG43I (rand),title/channel/length,I Bought DANGEROUS Fire Safety Equipment And Teste | ADHD's World | 21:30,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 78 FXHcEFeG43I (rand),scope/subniche/format,fire-habits / test,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 161 D853ebze1DQ (rand),views,197620,197620,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 161 D853ebze1DQ (rand),title/channel/length,Turn OFF POWER on a Hardwired SMOKE ALARM and Live | Handz for Hire | 7:55,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 161 D853ebze1DQ (rand),scope/subniche/format,smoke-co-alarms / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 334 XqgGanncPbQ (rand),views,8677,8677,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 334 XqgGanncPbQ (rand),title/channel/length,Replacing my 23-year-old Smoke Detectors with Smok | 737mechanic | 9:48,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 334 XqgGanncPbQ (rand),scope/subniche/format,smoke-co-alarms / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 531 Rf4WByEKFYg (rand),views,316,316,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 531 Rf4WByEKFYg (rand),title/channel/length,30 Home-Fire Safety Tricks Retired Firefighters Te | Chief Reardon and Walt Greer Secrets | 32:42,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 531 Rf4WByEKFYg (rand),scope/subniche/format,fire-habits / other:insider-never,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 183 SmmAh87Anh8 (rand),views,122913,122918,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 183 SmmAh87Anh8 (rand),title/channel/length,Fire Investigation | Fire Safety Research Institute | 6:58,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 183 SmmAh87Anh8 (rand),scope/subniche/format,fire-habits / explainer,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 153 L1ocs_Qx3Gg (rand),views,215098,215100,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 153 L1ocs_Qx3Gg (rand),title/channel/length,The #1 Thing In Your Home Starting House Fires | Home Hazard | 9:37,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 153 L1ocs_Qx3Gg (rand),scope/subniche/format,fire-habits / mistakes,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 293 T1cnkrBLIq0 (rand),views,16903,16903,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 293 T1cnkrBLIq0 (rand),title/channel/length,Kidde Carbon Monoxide Detector Honest Review & How | Just A Dad Tips | 5:45,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 293 T1cnkrBLIq0 (rand),scope/subniche/format,smoke-co-alarms / review,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 106 djGUZp3p6VY (rand),views,361369,361369,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 106 djGUZp3p6VY (rand),title/channel/length,How To Change the Battery in Various SMOKE ALARMS  | My Mate VINCE | 16:27,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 106 djGUZp3p6VY (rand),scope/subniche/format,smoke-co-alarms / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 393 HcpPngOQzQw (rand),views,3926,3926,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 393 HcpPngOQzQw (rand),title/channel/length,West Metro Fire Open House 2026 | Live Burn Demons | Lindstrom Restoration | 5:19,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 393 HcpPngOQzQw (rand),scope/subniche/format,fire-habits / test,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 262 qerZYq62oYg (rand),views,28224,28224,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 262 qerZYq62oYg (rand),title/channel/length,Bedroom Fire Investigation | Fire Engineering | 7:48,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 262 qerZYq62oYg (rand),scope/subniche/format,fire-habits / explainer,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 709 E7d3N04inWU (rand),views,8,8,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 709 E7d3N04inWU (rand),title/channel/length,Don't call them smoke detectors! | Structure Tech Home Inspections | 25:49,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 709 E7d3N04inWU (rand),scope/subniche/format,smoke-co-alarms / myth-bust,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 609 3_Bp9kGBkzY (rand),views,107,107,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 609 3_Bp9kGBkzY (rand),title/channel/length,10 Things a Firefighter Would NEVER Do in Your Bed | Sam Creel | 18:35,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 609 3_Bp9kGBkzY (rand),scope/subniche/format,fire-habits / other:insider-never,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 51 ONUIEMSbrog (rand),views,817868,817859,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.00%
+sweep/fire/videos.csv,row 51 ONUIEMSbrog (rand),title/channel/length,Free Fire Extinguisher Training Video  - OSHA - Up | Ally Safety | 5:13,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 51 ONUIEMSbrog (rand),scope/subniche/format,extinguishers-escape / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 585 bc4RdcvM9cc (rand),views,153,155,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+1.31%
+sweep/fire/videos.csv,row 585 bc4RdcvM9cc (rand),title/channel/length,The Fire Safety Tool Every Home Should Have | Cana | International Safety | 7:19,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 585 bc4RdcvM9cc (rand),scope/subniche/format,extinguishers-escape / only-x,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 335 RtOd4So4Duo (rand),views,8386,8388,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.02%
+sweep/fire/videos.csv,row 335 RtOd4So4Duo (rand),title/channel/length,How to Put Out a Chimney Fire | Allen Family Firewood | 19:00,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 335 RtOd4So4Duo (rand),scope/subniche/format,fire-habits / how-to,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 341 6lTab734M8E (rand),views,7826,7825,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.01%
+sweep/fire/videos.csv,row 341 6lTab734M8E (rand),title/channel/length,The Best Way to Clean Your Dryer Vent (The Way Nob | Keeping House with Miss Ruthie. | 16:10,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 341 6lTab734M8E (rand),scope/subniche/format,dryer-vents / dont-want-you,plausible,title reading by checker D,ok,
+sweep/fire/videos.csv,row 485 g74H6EEfMOE (rand),views,762,762,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/fire/videos.csv,row 485 g74H6EEfMOE (rand),title/channel/length,5 Toaster Oven Brands That Catch Fire And 3 With R | The Boiling Point and Tasted & Tested | 6:59,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/fire/videos.csv,row 485 g74H6EEfMOE (rand),scope/subniche/format,kitchen-grease / only-x,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 2 bHIhgxav9LY (top),views,28197964,28197973,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 2 bHIhgxav9LY (top),title/channel/length,The Biggest Misconception About Electricity | Veritasium | 14:48,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 2 bHIhgxav9LY (top),scope/subniche/format,electrical-explainer / myth-bust,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 4 RO6Kq65HwNw (top),views,12910231,12910245,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 4 RO6Kq65HwNw (top),title/channel/length,The BIGGEST Mistakes DIYers Don't Know They Are Ma | How To Home | 12:00,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 4 RO6Kq65HwNw (top),scope/subniche/format,outlets-switches / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 5 oI_X2cMHNe0 (top),views,12764181,12764198,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 5 oI_X2cMHNe0 (top),title/channel/length,How Electricity Actually Works | Veritasium | 24:31,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 5 oI_X2cMHNe0 (top),scope/subniche/format,electrical-explainer / myth-bust,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 6 -jeP1d8PC1I (top),views,12129083,12129126,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 6 -jeP1d8PC1I (top),title/channel/length,7 FATAL Wiring Mistakes Most DIYers Don't Know The | How To Home | 13:01,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 6 -jeP1d8PC1I (top),scope/subniche/format,wiring-mistakes / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 7 opoEswRp_jg (top),views,9206320,9206323,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 7 opoEswRp_jg (top),title/channel/length,Two Way Switching Explained - How to wire 2 way li | The Engineering Mindset | 7:05,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 7 opoEswRp_jg (top),scope/subniche/format,outlets-switches / how-to,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 10 4oRT7PoXSS0 (top),views,7996215,7996222,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 10 4oRT7PoXSS0 (top),title/channel/length,How Three Phase Electricity works - The basics exp | The Engineering Mindset | 7:53,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 10 4oRT7PoXSS0 (top),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 11 mc979OhitAg (top),views,7970179,7970204,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 11 mc979OhitAg (top),title/channel/length,How ELECTRICITY works - working principle | The Engineering Mindset | 10:11,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 11 mc979OhitAg (top),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 12 jduDyF2Zwd8 (top),views,7942100,7942100,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 12 jduDyF2Zwd8 (top),title/channel/length,Where Does Grounded Electricity Actually Go? | Practical Engineering | 19:36,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 12 jduDyF2Zwd8 (top),scope/subniche/format,electrical-explainer / myth-bust,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 14 BGD-oSwJv3E (top),views,7342162,7342174,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 14 BGD-oSwJv3E (top),title/channel/length,Is it the volts or amps that kill? | styropyro | 20:50,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 14 BGD-oSwJv3E (top),scope/subniche/format,electrical-explainer / x-vs-y,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 15 Mkgo_CLVbzg (top),views,7263705,7263725,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 15 Mkgo_CLVbzg (top),title/channel/length,Ignoring All Lithium Battery Safety Warnings.. For | Concept Crafted Creations | 11:40,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 15 Mkgo_CLVbzg (top),format,mistakes,test (devices sweep labels the same video test),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 16 udNXMAflbU8 (top),views,6659947,6659947,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 16 udNXMAflbU8 (top),title/channel/length,"Holey Plugs, Batman! But... what are they for? | Technology Connections | 20:32",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 16 udNXMAflbU8 (top),scope/subniche/format,outlets-switches / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 17 GK2pZ_oVU1o (top),views,6614510,6614621,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 17 GK2pZ_oVU1o (top),title/channel/length,The Scariest Chart in Electrical Engineering | Veritasium | 39:44,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 17 GK2pZ_oVU1o (top),scope,wiring-mistakes,"out/other: Smith chart RF transmission-line theory (NexLev desc), not home wiring",title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/explainers/videos.csv,row 18 S7C5sSde9e4 (top),views,6499118,6499185,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 18 S7C5sSde9e4 (top),title/channel/length,Why Use AC Instead of DC at Home?? | ElectroBOOM | 10:36,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 18 S7C5sSde9e4 (top),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 19 0loXukB302Q (top),views,6213077,6213160,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 19 0loXukB302Q (top),title/channel/length,"How to use a multimeter like a pro, the ultimate g | Anthony Mendez  | 12:55",same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 19 0loXukB302Q (top),scope/subniche/format,testers-meters / how-to,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 20 dcrY59nGxBg (top),views,5633007,5633020,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 20 dcrY59nGxBg (top),title/channel/length,Electrocution in Water | ElectroBOOM | 6:41,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 20 dcrY59nGxBg (top),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 132 GGGBtl_SRIs (rand),views,1375893,1375893,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 132 GGGBtl_SRIs (rand),title/channel/length,AMP HOURS EXPLAINED (amp hours vs watt hours) | EXPLORIST life Mobile Marine & Off-Grid Electrical | 10:59,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 132 GGGBtl_SRIs (rand),scope,electrical-explainer,borderline: RV/marine battery amp-hours,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 91 3lR6tshBD6o (rand),views,1929139,1929140,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 91 3lR6tshBD6o (rand),title/channel/length,Solar Panel connection For Home with Inverter | So | Electrical Technician | 16:03,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 91 3lR6tshBD6o (rand),scope/subniche/format,out / unclear,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 842 7KAc1wp4NDw (rand),views,2323,2323,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 842 7KAc1wp4NDw (rand),title/channel/length,Electrical Urban Myths – Fact vs Fiction Explained | Eastway Electrical | 19:50,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 842 7KAc1wp4NDw (rand),scope/subniche/format,wiring-mistakes / myth-bust,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 415 Jj66V1y8dIM (rand),views,108994,108995,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 415 Jj66V1y8dIM (rand),title/channel/length,Electrician Reacts to ElectroBOOM’s Hawaiian Holid | David List | 11:12,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 415 Jj66V1y8dIM (rand),scope/subniche/format,wiring-mistakes / other:reaction,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 182 XwBDH391t4U (rand),views,854592,854582,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.00%
+sweep/explainers/videos.csv,row 182 XwBDH391t4U (rand),title/channel/length,Pre-drywall inspection and MEPs. Lots of issues. | Inspector Homes Inc. | 6:46,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 182 XwBDH391t4U (rand),scope/subniche/format,home-inspection / other:inspection-walkthrough,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 1037 vl9kiPtdWsM (rand),views,442,442,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1037 vl9kiPtdWsM (rand),title/channel/length,What Happens During a Home Inspection? Full Condo  | Living in Hoboken & Jersey City NJ w/ Tom Worley | 16:01,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1037 vl9kiPtdWsM (rand),scope,home-inspection,"borderline: general condo inspection, not electrical",title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 1023 G3f-ssS0tdA (rand),views,489,491,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.41%
+sweep/explainers/videos.csv,row 1023 G3f-ssS0tdA (rand),title/channel/length,Using Graviton Wells to Demolish Massive Hordes of | Dad's Gaming Addiction | 33:18,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1023 G3f-ssS0tdA (rand),scope,wiring-mistakes,out (video game: Circuit Overload),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/explainers/videos.csv,row 1307 5hzm-ntwHBw (rand),views,44,44,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1307 5hzm-ntwHBw (rand),title/channel/length,🔥⚡ TODAY I BECAME AN ELECTRICIAN 😱🔌 | Never Though | The Udy Keshwala | 5:46,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1307 5hzm-ntwHBw (rand),scope,wiring-mistakes,out (Indian vlog/comedy),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/explainers/videos.csv,row 1165 i1GmQMZzLug (rand),views,166,166,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1165 i1GmQMZzLug (rand),title/channel/length,⚡ 10 REASONS YOUR ELECTRICAL WOULD FAIL AN INSPECT | Florida Code Master | 6:58,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1165 i1GmQMZzLug (rand),scope/subniche/format,home-inspection / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 256 WviuwlcRtYE (rand),views,459490,459511,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 256 WviuwlcRtYE (rand),title/channel/length,Recognizing a Bad Circuit Breaker - DIY Home Elect | Top Homeowner | 5:35,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 256 WviuwlcRtYE (rand),scope/subniche/format,breakers-panels / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 1112 Q_IviN37huE (rand),views,239,247,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+3.35%
+sweep/explainers/videos.csv,row 1112 Q_IviN37huE (rand),title/channel/length,Why Don't Birds Get Shocked on Power Lines? | Power Grid Today | 6:26,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1112 Q_IviN37huE (rand),format,mistakes,explainer,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 115 n_1wzYQwnts (rand),views,1527357,1527364,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 115 n_1wzYQwnts (rand),title/channel/length,Every US Electrical Outlet Explained | Practical Engineering | 21:33,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 115 n_1wzYQwnts (rand),scope/subniche/format,outlets-switches / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 1372 OvXtsey8s3M (rand),views,21,21,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1372 OvXtsey8s3M (rand),title/channel/length,Why do electrical plugs have holes in the prongs? | Once was | 6:04,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1372 OvXtsey8s3M (rand),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 1030 rq-tpySqHtg (rand),views,471,471,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1030 rq-tpySqHtg (rand),title/channel/length,Why a Firefighter Would NEVER Run the Dryer Overni | Sam Creel | 14:30,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1030 rq-tpySqHtg (rand),scope/subniche/format,fire-habits / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 397 HG-tHxp0_tE (rand),views,125166,125155,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,-0.01%
+sweep/explainers/videos.csv,row 397 HG-tHxp0_tE (rand),title/channel/length,BUSTED! 7 Myths about smart shades---SmartWings mo | DIY Smart Home Guy | 9:11,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 397 HG-tHxp0_tE (rand),scope/subniche/format,out / review,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 739 cCpNPPv6Na0 (rand),views,5304,5304,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 739 cCpNPPv6Na0 (rand),title/channel/length,How Cool Are These Mini Downlights ! | Installing  | Cablesmith Electrical | 15:04,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 739 cCpNPPv6Na0 (rand),subniche,wiring-mistakes,lighting-led (UK downlights),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 1450 1UIhEIvpTGU (rand),views,7,7,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1450 1UIhEIvpTGU (rand),title/channel/length,Why Earthing Pin is bigger | Earthing Pin is Longe | Electro Repaireing | 9:19,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1450 1UIhEIvpTGU (rand),language,English,Hindi/Urdu narration per description (NexLev video details),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/explainers/videos.csv,row 1444 q7MQCPxJeQc (rand),views,7,7,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1444 q7MQCPxJeQc (rand),title/channel/length,How Does Electricity Actually Reach Your Home? | HOW THE WORLD WORKS | 15:29,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1444 q7MQCPxJeQc (rand),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 1496 LXOPq4wUuzU (rand),views,1,1,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1496 LXOPq4wUuzU (rand),title/channel/length,Why Your Panic Room Would Trap You in a Fire Retir | Mack Doheny | 15:08,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1496 LXOPq4wUuzU (rand),scope/subniche/format,fire-habits / how-to,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 517 EQI4rwpC_eo (rand),views,44201,44202,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 517 EQI4rwpC_eo (rand),title/channel/length,Solar Panels in Series vs Parallel: Which Is Actua | There's A Trick For That | 8:28,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 517 EQI4rwpC_eo (rand),scope/subniche/format,out / test,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 43 W0_1xRqT8uU (rand),views,3745488,3745488,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 43 W0_1xRqT8uU (rand),title/channel/length,Single Phase Electricity Explained - wiring diagra | The Engineering Mindset | 10:10,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 43 W0_1xRqT8uU (rand),scope/subniche/format,electrical-explainer / explainer,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 133 z_Osnbin2bI (rand),views,1370161,1370266,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.01%
+sweep/explainers/videos.csv,row 133 z_Osnbin2bI (rand),title/channel/length,Now 24 Hours Free Electricity! 😲 Household Load Ca | Solar Expert DC | 8:50,same,yt.py video 2026-10-24; length from helper raw/ search JSON,minor,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 133 z_Osnbin2bI (rand),title,English title,page now shows Hindi title; row already subniche=out,title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 1091 jFQ8sRCqNGU (rand),views,276,276,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1091 jFQ8sRCqNGU (rand),title/channel/length,What's Included in an Electrical Tune-Up? | Dawson's Electric & Air | 5:27,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1091 jFQ8sRCqNGU (rand),format,unclear,explainer (business promo),title/thumbnail reading by checker D; NexLev where noted,minor,
+sweep/explainers/videos.csv,row 22 Ru4Y3W103as (rand),views,5407959,5407959,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 22 Ru4Y3W103as (rand),title/channel/length,How To Fix Short Wires In An Electrical Box | Everyday Home Repairs | 8:36,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 22 Ru4Y3W103as (rand),scope/subniche/format,wiring-mistakes / how-to,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 856 0jV55dOau_s (rand),views,2142,2142,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 856 0jV55dOau_s (rand),title/channel/length,Your Home's Electrical System: A Complete Guide | WhiteBuilds | 13:23,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 856 0jV55dOau_s (rand),scope/subniche/format,wiring-mistakes / how-to,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 174 cdAkQCA5tuY (rand),views,895481,895481,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 174 cdAkQCA5tuY (rand),title/channel/length,SOLAR REGULATORS EXPLAINED! PWM versus MPPT - what | 4WD Supacentre | 10:10,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 174 cdAkQCA5tuY (rand),scope/subniche/format,out / x-vs-y,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 607 iKHxGgf67GE (rand),views,16258,16261,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.02%
+sweep/explainers/videos.csv,row 607 iKHxGgf67GE (rand),title/channel/length,PAKAR ELEKTRIK : Barangan Elektrik Selalu Rosak -  | MAH BAYU ENGINEERING SDN BHD | 1:10:52,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 607 iKHxGgf67GE (rand),language,English,Malay (PAKAR ELEKTRIK),title/thumbnail reading by checker D; NexLev where noted,wrong,
+sweep/explainers/videos.csv,row 1087 3ymUMTRYnyY (rand),views,282,282,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 1087 3ymUMTRYnyY (rand),title/channel/length,Victoria County Fire Marshal warns of lithium batt | CrossroadsToday | 5:15,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 1087 3ymUMTRYnyY (rand),scope/subniche/format,batteries-lithium / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 374 PqEQKxJnJ2Q (rand),views,171050,171059,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.01%
+sweep/explainers/videos.csv,row 374 PqEQKxJnJ2Q (rand),title/channel/length,The Most Dangerous Wire in Your Home | Backyard Maine | 14:39,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 374 PqEQKxJnJ2Q (rand),scope/subniche/format,wiring-mistakes / mistakes,plausible,title reading by checker D,ok,
+sweep/explainers/videos.csv,row 365 o0DcJewpMpc (rand),views,192223,192227,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,+0.00%
+sweep/explainers/videos.csv,row 365 o0DcJewpMpc (rand),title/channel/length,6 Electrical Code Myths people Should Stop Believi | Backyard Maine | 10:14,same,yt.py video 2026-10-24; length from helper raw/ search JSON,ok,length matches helper raw JSON; 5:00+
+sweep/explainers/videos.csv,row 365 o0DcJewpMpc (rand),scope/subniche/format,wiring-mistakes / myth-bust,plausible,title reading by checker D,ok,
+sweep/devices/report.md,long-form count,recompute,"1,022 (913 in group)",1022 rows; 913 in_group=yes,python recompute of videos.csv / presenters.csv,ok,
+sweep/devices/report.md,sub-niche counts+medians,recompute,"bat 215/36,561; ev 128/33,782; test 137/29,399; gen 210/13,659; bill 136/1,268; heat 87/1,040",same except electric-bill 135 rows with views (1 row has blank views),python recompute of videos.csv / presenters.csv,minor,bill count 136 includes a row with no view count
+sweep/devices/report.md,format counts+medians,recompute,"how-to 192/57,560; x-vs-y 33/22,425; review 29/21,144; cheap-hack 56/19,637; test 32/16,189; mistakes 183/3,230; story 23/198,260",same (cheap-hack 55 with views),python recompute of videos.csv / presenters.csv,ok,"report omits only-x 51/6,659, myth-bust 26/1,580, explainer 55/234, fallback 211/19,580"
+sweep/fire/report.md,long-form count,recompute,745,745 rows (12 LANG-CHECK),python recompute of videos.csv / presenters.csv,ok,
+sweep/fire/report.md,sub-niche counts+medians,recompute,"dryer 142/27,309; smoke 179/11,767; ext 108/2,215; habits 205/1,109; kitchen 62/654",identical when LANG-CHECK rows excluded,python recompute of videos.csv / presenters.csv,ok,
+sweep/fire/report.md,format counts+medians,recompute,"test 78/89,456; how-to 156/58,947; story 25/22,814; job-vlog 41/20,523; mistakes 119/911; insider-never 66/170; the-x-way 7/542; banned 6/88",identical (LANG excluded),python recompute of videos.csv / presenters.csv,ok,fire-habits/test medians include FDC/Doctor Mike entertainment rows
+sweep/explainers/report.md,long-form count,recompute,"1,321 in scope (+193 out)","1,514 rows; 1,321 not out",python recompute of videos.csv / presenters.csv,ok,
+sweep/explainers/report.md,format counts+medians,recompute,"how-to 195/267K; explainer 367/2,380; mistakes 266/623; inspection-walkthrough 70/31.9K; reaction 11/38K",identical,python recompute of videos.csv / presenters.csv,ok,189 rows still format=unclear
+sweep/explainers/report.md,sub-niche counts+medians,recompute,"outlets 86/466K; testers 7/545K; breakers 73/116K; explainer 474/1,386; fire-habits 121/615",identical,python recompute of videos.csv / presenters.csv,ok,testers-meters n=7 only
+sweep/explainers/presenters_summary.csv,arithmetic,recompute,as recorded,recomputed from presenters.csv: identical,python recompute of videos.csv / presenters.csv,ok,but backgrounds below are wrong for 10 channels
+sweep/devices/raw/,"keyword ""generator backfeed"" views",top-20 overlap,helper raw page 1,20/20,yt.py search 2026-10-24,ok,#1 mlCcvozgYfE same
+sweep/devices/raw/,"keyword ""generator backfeed"" month",top-20 overlap,helper raw page 1,19/20,yt.py search 2026-10-24,ok,
+sweep/devices/raw/,"keyword ""lithium battery fire"" views",top-20 overlap,helper raw page 1,see note,yt.py search 2026-10-24,ok,"first re-run returned 0, retry: #1-3 AGglJehON5g sTSQwtwr-Gg Mkgo_CLVbzg = raw"
+sweep/devices/raw/,"keyword ""lithium battery fire"" month",top-20 overlap,helper raw page 1,19/20,yt.py search 2026-10-24,ok,
+sweep/devices/raw/,"keyword ""lower your electric bill"" views",top-20 overlap,helper raw page 1,14/20,yt.py search 2026-10-24,ok,#1 OgKQihUEFA0 same; relevance drift
+sweep/devices/raw/,"keyword ""lower your electric bill"" month",top-20 overlap,helper raw page 1,17/20,yt.py search 2026-10-24,ok,
+sweep/fire/raw/,"keyword ""dryer vent cleaning"" views",top-20 overlap,helper raw page 1,20/20,yt.py search 2026-10-24,ok,MrLintGuy Ko3j2V2IN8o 10:00 1.76M not in any CSV (possible miss)
+sweep/fire/raw/,"keyword ""dryer vent cleaning"" month",top-20 overlap,helper raw page 1,17/20,yt.py search 2026-10-24,ok,
+sweep/fire/raw/,"keyword ""grease fire"" views",top-20 overlap,helper raw page 1,18/20,yt.py search 2026-10-24,ok,
+sweep/fire/raw/,"keyword ""grease fire"" month",top-20 overlap,helper raw page 1,19/20,yt.py search 2026-10-24,ok,
+sweep/fire/raw/,"keyword ""things firefighters never do"" views",top-20 overlap,helper raw page 1,20/20,yt.py search 2026-10-24,ok,
+sweep/fire/raw/,"keyword ""things firefighters never do"" month",top-20 overlap,helper raw page 1,18/20,yt.py search 2026-10-24,ok,
+sweep/explainers/raw/,"keyword ""electricity explained"" views",top-20 overlap,helper raw page 1,20/20,yt.py search 2026-10-24,ok,
+sweep/explainers/raw/,"keyword ""electricity explained"" month",top-20 overlap,helper raw page 1,19/20,yt.py search 2026-10-24,ok,
+sweep/explainers/raw/,"keyword ""what does the neutral wire do"" views",top-20 overlap,helper raw page 1,20/20,yt.py search 2026-10-24,ok,
+sweep/explainers/raw/,"keyword ""what does the neutral wire do"" month",top-20 overlap,helper raw page 1,19/20,yt.py search 2026-10-24,ok,
+sweep/explainers/raw/,"keyword ""electrician explains"" views",top-20 overlap,helper raw page 1,20/20,yt.py search 2026-10-24,ok,
+sweep/explainers/raw/,"keyword ""electrician explains"" month",top-20 overlap,helper raw page 1,17/20,yt.py search 2026-10-24,ok,
+sweep/explainers/presenters.csv,Backyard Maine UCdOuZ0bxeSxA8ZAHttc0U-w,subs,338K subscribers,338K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Backyard Maine UCdOuZ0bxeSxA8ZAHttc0U-w,median last 10 long-form,257000,257000.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Backyard Maine UCdOuZ0bxeSxA8ZAHttc0U-w,first upload,5y ago,5y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Backyard Maine UCdOuZ0bxeSxA8ZAHttc0U-w,background/type,electrician / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Smarter Sparky UC9TkzHC0J8SmHKpgnRxE5JA,subs,60.8K subscribers,60.8K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Smarter Sparky UC9TkzHC0J8SmHKpgnRxE5JA,median last 10 long-form,148000,148000.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Smarter Sparky UC9TkzHC0J8SmHKpgnRxE5JA,first upload,11mo ago,11mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Smarter Sparky UC9TkzHC0J8SmHKpgnRxE5JA,background/type,electrician / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Electrician U UCB3jUEyCLRbCw7QED0vnXYg,subs,954K subscribers,954K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Electrician U UCB3jUEyCLRbCw7QED0vnXYg,median last 10 long-form,63500,63500.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Electrician U UCB3jUEyCLRbCw7QED0vnXYg,first upload,9y ago,9y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Electrician U UCB3jUEyCLRbCw7QED0vnXYg,background/type,electrician / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,David List UCPpkQFI1Wvoi4lOwt8bdx-g,subs,37.1K subscribers,37.1K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,David List UCPpkQFI1Wvoi4lOwt8bdx-g,median last 10 long-form,690,690.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,David List UCPpkQFI1Wvoi4lOwt8bdx-g,first upload,5y ago,5y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,David List UCPpkQFI1Wvoi4lOwt8bdx-g,background,electrician,"real ex-electrician ok, but content now trade-business automation (ServiceM8, n8n)",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,Cal Watts UCHLkHTF8k6PvjkpUStYUvKQ,subs,8.46K subscribers,8.46K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Cal Watts UCHLkHTF8k6PvjkpUStYUvKQ,median last 10 long-form,1800,1800.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Cal Watts UCHLkHTF8k6PvjkpUStYUvKQ,first upload,3mo ago,3mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Cal Watts UCHLkHTF8k6PvjkpUStYUvKQ,background,electrician,none stated: power stations/generators/solar reviews (OUT content); AI images,NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as electrician persona
+sweep/explainers/presenters.csv,Gary Whitaker Backup Power UCNdp0HrrequO9puyQvvh0Lw,subs,7.19K subscribers,7.19K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Gary Whitaker Backup Power UCNdp0HrrequO9puyQvvh0Lw,median last 10 long-form,1850,1850.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Gary Whitaker Backup Power UCNdp0HrrequO9puyQvvh0Lw,first upload,4mo ago,4mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Gary Whitaker Backup Power UCNdp0HrrequO9puyQvvh0Lw,background,electrician,none stated: generator and power-station reviews (OUT); AI images,NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as electrician persona
+sweep/explainers/presenters.csv,Home Hazard UCAx9qFU1CRRcx2mMFTV9Png,subs,6.9K subscribers,6.9K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Home Hazard UCAx9qFU1CRRcx2mMFTV9Png,median last 10 long-form,1050,1050.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Home Hazard UCAx9qFU1CRRcx2mMFTV9Png,first upload,4mo ago,4mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Home Hazard UCAx9qFU1CRRcx2mMFTV9Png,background/type,electrician / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Walt Brennan UClpBI_QHhMq2_LcMMwmr6Og,subs,1.65K subscribers,1.65K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Walt Brennan UClpBI_QHhMq2_LcMMwmr6Og,median last 10 long-form,3350,3350.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Walt Brennan UClpBI_QHhMq2_LcMMwmr6Og,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Walt Brennan UClpBI_QHhMq2_LcMMwmr6Og,background/type,lineman / utility / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Bobsdecline - Lineman blogger UCpJWHeFjOjoDrHLIPqIHgwA,subs,166K subscribers,166K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Bobsdecline - Lineman blogger UCpJWHeFjOjoDrHLIPqIHgwA,median last 10 long-form,38500,38500.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Bobsdecline - Lineman blogger UCpJWHeFjOjoDrHLIPqIHgwA,first upload,12y ago,12y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Bobsdecline - Lineman blogger UCpJWHeFjOjoDrHLIPqIHgwA,background/type,lineman / utility / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Elite Lineman Training Institute UCv9n8tnmJ8IxOTUDRV7nbSw,subs,11.8K subscribers,11.8K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Elite Lineman Training Institute UCv9n8tnmJ8IxOTUDRV7nbSw,median last 10 long-form,3650,3650.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Elite Lineman Training Institute UCv9n8tnmJ8IxOTUDRV7nbSw,first upload,7y ago,7y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Elite Lineman Training Institute UCv9n8tnmJ8IxOTUDRV7nbSw,background/type,lineman / utility / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Lyle Brannock UCnvA17kCklEUs3jtmRz8lrA,subs,26 subscribers,26 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Lyle Brannock UCnvA17kCklEUs3jtmRz8lrA,median last 10 long-form,365,365.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Lyle Brannock UCnvA17kCklEUs3jtmRz8lrA,first upload,4w ago,4w ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Lyle Brannock UCnvA17kCklEUs3jtmRz8lrA,background,lineman / utility,lineman persona ok; content heat w/o power (OUT),NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,Silas Mercer UC_yTHwUQS--7ZsCo8fxW67A,subs,149K subscribers,149K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Silas Mercer UC_yTHwUQS--7ZsCo8fxW67A,median last 10 long-form,4750,4750.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Silas Mercer UC_yTHwUQS--7ZsCo8fxW67A,first upload,3mo ago,3mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Silas Mercer UC_yTHwUQS--7ZsCo8fxW67A,background,lineman / utility,"none: ""lifelong frontiersman"" bushcraft persona (NexLev desc)",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as lineman with 149K subs; inflates lineman over-10K
+sweep/explainers/presenters.csv,June's Kitchen Table UChoVwGVLPHvm55zLbDOeJXA,subs,1.75K subscribers,1.75K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,June's Kitchen Table UChoVwGVLPHvm55zLbDOeJXA,median last 10 long-form,3400,3400.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,June's Kitchen Table UChoVwGVLPHvm55zLbDOeJXA,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,June's Kitchen Table UChoVwGVLPHvm55zLbDOeJXA,background,lineman / utility,none: AI grandmother persona; late husband was the lineman; content heat without power (OUT),NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,
+sweep/explainers/presenters.csv,Ray's Workshop UC_-K_9q2sB8B-mJNX5Ll0pw,subs,14 subscribers,14 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Ray's Workshop UC_-K_9q2sB8B-mJNX5Ll0pw,median last 10 long-form,21,21.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Ray's Workshop UC_-K_9q2sB8B-mJNX5Ll0pw,first upload,2mo ago,2mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Ray's Workshop UC_-K_9q2sB8B-mJNX5Ll0pw,background,lineman / utility,"none: ""Ray is the illustrated host... tradesman"" home repair (water heater, drafts); no lineman claim",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,
+sweep/explainers/presenters.csv,Ground Truth UCjgyqD_mPLLcFZ5JhXIL6Cg,subs,23 subscribers,23 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Ground Truth UCjgyqD_mPLLcFZ5JhXIL6Cg,median last 10 long-form,116,116.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Ground Truth UCjgyqD_mPLLcFZ5JhXIL6Cg,first upload,5mo ago,5mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Ground Truth UCjgyqD_mPLLcFZ5JhXIL6Cg,background/type,lineman / utility / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Behind The Breaker UCggBZ-QBqR9e9lGQUOrZemA,subs,6 subscribers,6 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Behind The Breaker UCggBZ-QBqR9e9lGQUOrZemA,median last 10 long-form,74,74.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Behind The Breaker UCggBZ-QBqR9e9lGQUOrZemA,first upload,2w ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Behind The Breaker UCggBZ-QBqR9e9lGQUOrZemA,background/type,lineman / utility / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Earl the Power Guy UC8wTP8ilwHFWnlGI0LqbCmA,subs,not shown,not shown,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Earl the Power Guy UC8wTP8ilwHFWnlGI0LqbCmA,median last 10 long-form,7,7,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Earl the Power Guy UC8wTP8ilwHFWnlGI0LqbCmA,first upload,2mo ago,2mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Earl the Power Guy UC8wTP8ilwHFWnlGI0LqbCmA,background,lineman / utility,lineman/meter persona ok; content off-grid power-station sizing (OUT),NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,The Grid Keeper UCjrHm0TSHZfbcY8KTMybUmg,subs,10 subscribers,10 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,The Grid Keeper UCjrHm0TSHZfbcY8KTMybUmg,median last 10 long-form,28,28.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,The Grid Keeper UCjrHm0TSHZfbcY8KTMybUmg,first upload,not found,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,The Grid Keeper UCjrHm0TSHZfbcY8KTMybUmg,background,lineman / utility,"lineman in titles only; empty description; NexLev keywords ""True Crime"", country Germany, joined 2024 (repurposed)",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,Walt Hensley UCrVWzxmdDxvquFwU8xpuT_Q,subs,not shown,not shown,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Walt Hensley UCrVWzxmdDxvquFwU8xpuT_Q,median last 10 long-form,11,11.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Walt Hensley UCrVWzxmdDxvquFwU8xpuT_Q,first upload,11d ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Walt Hensley UCrVWzxmdDxvquFwU8xpuT_Q,background,lineman / utility,lineman persona ok; content pantry/senior discounts/heat w/o power (OUT); NexLev country India,NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,Calvin Slone UCSbWccmdomSWb8o-hPlTZvw,subs,not shown,not shown,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Calvin Slone UCSbWccmdomSWb8o-hPlTZvw,median last 10 long-form,3,3.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Calvin Slone UCSbWccmdomSWb8o-hPlTZvw,first upload,9d ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Calvin Slone UCSbWccmdomSWb8o-hPlTZvw,background/type,lineman / utility / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Kilowatt Country UCCBWk9bnq8RVa42b-6-gwEQ,subs,3 subscribers,3 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Kilowatt Country UCCBWk9bnq8RVa42b-6-gwEQ,median last 10 long-form,2,2.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Kilowatt Country UCCBWk9bnq8RVa42b-6-gwEQ,first upload,18y ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Kilowatt Country UCCBWk9bnq8RVa42b-6-gwEQ,type,faceless,"faceless persona (""old lineman"" voice, AI narrated, dramatized) vs recorded faceless; channel joined 2007",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,Harlan the Lineman UCyyCHAOboxY4gcYKCyvUR4A,subs,not shown,not shown,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Harlan the Lineman UCyyCHAOboxY4gcYKCyvUR4A,median last 10 long-form,2,2,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Harlan the Lineman UCyyCHAOboxY4gcYKCyvUR4A,first upload,3w ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Harlan the Lineman UCyyCHAOboxY4gcYKCyvUR4A,background/type,lineman / utility / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Lineman Miller UC4aNYgXlGPUkwPqTj9bFyHQ,subs,2 subscribers,2 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Lineman Miller UC4aNYgXlGPUkwPqTj9bFyHQ,median last 10 long-form,28,28.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Lineman Miller UC4aNYgXlGPUkwPqTj9bFyHQ,first upload,2mo ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Lineman Miller UC4aNYgXlGPUkwPqTj9bFyHQ,background/type,lineman / utility / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Mr Lineman UCj8kZ1xyNrXlt1BEhTLk0gg,subs,42.6K subscribers,42.6K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Mr Lineman UCj8kZ1xyNrXlt1BEhTLk0gg,median last 10 long-form,not found (no 5:00+ videos on Latest page),not found,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Mr Lineman UCj8kZ1xyNrXlt1BEhTLk0gg,first upload,not found,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Mr Lineman UCj8kZ1xyNrXlt1BEhTLk0gg,background,lineman / utility,"none: ""AI Tools & Tech Update, Unboxing"" Shorts-only (NexLev tabs: Home/Shorts/Playlists)",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as lineman with 42.6K subs
+sweep/explainers/presenters.csv,The Lineman Life UC3mRWeP7H4Se6fk7VxXf2Ng,subs,11.6K subscribers,11.6K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,The Lineman Life UC3mRWeP7H4Se6fk7VxXf2Ng,median last 10 long-form,15500,15500.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,The Lineman Life UC3mRWeP7H4Se6fk7VxXf2Ng,first upload,not found,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,The Lineman Life UC3mRWeP7H4Se6fk7VxXf2Ng,background/type,lineman / utility / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Five Star Linemen Academy UCrUYyVmhQ5gJeQJKShvL8Bg,subs,33.9K subscribers,33.9K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Five Star Linemen Academy UCrUYyVmhQ5gJeQJKShvL8Bg,median last 10 long-form,362,362.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Five Star Linemen Academy UCrUYyVmhQ5gJeQJKShvL8Bg,first upload,11y ago,11y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Five Star Linemen Academy UCrUYyVmhQ5gJeQJKShvL8Bg,background/type,lineman / utility / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Universal Lineman UCPCLX8Eq6y2--DljvnIs2IA,subs,21.3K subscribers,21.3K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Universal Lineman UCPCLX8Eq6y2--DljvnIs2IA,median last 10 long-form,1450,1450.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Universal Lineman UCPCLX8Eq6y2--DljvnIs2IA,first upload,5y ago,5y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Universal Lineman UCPCLX8Eq6y2--DljvnIs2IA,background/type,lineman / utility / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Fire Department Chronicles UCZbWCodPFwH2QQn772QnUxQ,subs,5.59M subscribers,5.59M subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Fire Department Chronicles UCZbWCodPFwH2QQn772QnUxQ,median last 10 long-form,2900000,2900000,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Fire Department Chronicles UCZbWCodPFwH2QQn772QnUxQ,first upload,11y ago,11y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Fire Department Chronicles UCZbWCodPFwH2QQn772QnUxQ,background/type,firefighter / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Frederick Barnes UCSf0X7Rt96r7sx0uCiDgDcA,subs,1.35K subscribers,1.35K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Frederick Barnes UCSf0X7Rt96r7sx0uCiDgDcA,median last 10 long-form,112,112.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Frederick Barnes UCSf0X7Rt96r7sx0uCiDgDcA,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Frederick Barnes UCSf0X7Rt96r7sx0uCiDgDcA,background/type,firefighter / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,StacheD Training UCoEAf9DqlFLAHYzog_Y21DQ,subs,98.2K subscribers,98.2K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,StacheD Training UCoEAf9DqlFLAHYzog_Y21DQ,median last 10 long-form,82000,82000.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,StacheD Training UCoEAf9DqlFLAHYzog_Y21DQ,first upload,3y ago,3y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,StacheD Training UCoEAf9DqlFLAHYzog_Y21DQ,background/type,firefighter / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Sam Creel UCgynpcF2rLWAqJ22mWauEtA,subs,150 subscribers,150 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Sam Creel UCgynpcF2rLWAqJ22mWauEtA,median last 10 long-form,353,353.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Sam Creel UCgynpcF2rLWAqJ22mWauEtA,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Sam Creel UCgynpcF2rLWAqJ22mWauEtA,background,firefighter,"titles/handle @SamCreelFire firefighter, but description is a ranch-hand (""Freddy"") text",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,Grady Holcomb UC7_N9uGqVdjdQ8J__iFeyGw,subs,117 subscribers,117 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Grady Holcomb UC7_N9uGqVdjdQ8J__iFeyGw,median last 10 long-form,4300,4300.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Grady Holcomb UC7_N9uGqVdjdQ8J__iFeyGw,first upload,2mo ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Grady Holcomb UC7_N9uGqVdjdQ8J__iFeyGw,background,firefighter,none: reads FEMA/NOAA/DHS docs (prepping); one title says retired cops,NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as firefighter
+sweep/explainers/presenters.csv,Marcy Hollis UCKky0A4Sat2XsLpRPnVaiQw,subs,2.12K subscribers,2.12K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Marcy Hollis UCKky0A4Sat2XsLpRPnVaiQw,median last 10 long-form,1450,1450.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Marcy Hollis UCKky0A4Sat2XsLpRPnVaiQw,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Marcy Hollis UCKky0A4Sat2XsLpRPnVaiQw,background,firefighter,none: woman who lives alone; home-security content (OUT); joined 2026-09-21,NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as firefighter
+sweep/explainers/presenters.csv,Chief Miller UCy523MhXbDch-_O2wox7xwA,subs,4 subscribers,4 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Chief Miller UCy523MhXbDch-_O2wox7xwA,median last 10 long-form,56,56.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Chief Miller UCy523MhXbDch-_O2wox7xwA,first upload,11d ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Chief Miller UCy523MhXbDch-_O2wox7xwA,background,fire inspector / marshal,"claims retired Battalion Chief AND Fire Inspector; channel joined 2026-10-12, 2 videos",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Frank Ross UCmmYanS5q897sa06G4RZzYQ,subs,6 subscribers,6 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Frank Ross UCmmYanS5q897sa06G4RZzYQ,median last 10 long-form,49,49.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Frank Ross UCmmYanS5q897sa06G4RZzYQ,first upload,7y ago,7y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Frank Ross UCmmYanS5q897sa06G4RZzYQ,background/type,firefighter / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Chief Reardon UCDfUpxEwI1s0tkTAm-cNw0A,subs,47 subscribers,47 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Chief Reardon UCDfUpxEwI1s0tkTAm-cNw0A,median last 10 long-form,289,289.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Chief Reardon UCDfUpxEwI1s0tkTAm-cNw0A,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Chief Reardon UCDfUpxEwI1s0tkTAm-cNw0A,background/type,fire inspector / marshal / faceless persona,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Rosco Reviews UCvH-5SGyBGJ-InJ_AmdEdXw,subs,24.1K subscribers,24.1K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Rosco Reviews UCvH-5SGyBGJ-InJ_AmdEdXw,median last 10 long-form,5750,5750.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Rosco Reviews UCvH-5SGyBGJ-InJ_AmdEdXw,first upload,4y ago,4y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Rosco Reviews UCvH-5SGyBGJ-InJ_AmdEdXw,background/type,firefighter / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Fire Investigator Cross UCWCTyq1GC0CXSbnfFqXg_wg,subs,222 subscribers,222 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Fire Investigator Cross UCWCTyq1GC0CXSbnfFqXg_wg,median last 10 long-form,350,350.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Fire Investigator Cross UCWCTyq1GC0CXSbnfFqXg_wg,first upload,4y ago,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Fire Investigator Cross UCWCTyq1GC0CXSbnfFqXg_wg,background/type,fire investigator / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,iaaifireinvestigator UCPONWuqLNHjlvsln4vs2cNg,subs,2.18K subscribers,2.18K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,iaaifireinvestigator UCPONWuqLNHjlvsln4vs2cNg,first upload,14y ago,14y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,iaaifireinvestigator UCPONWuqLNHjlvsln4vs2cNg,median,402,460.5 (n10) vs recorded 402 (n9),NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,"org channel (IAAI), not a single presenter"
+sweep/explainers/presenters.csv,Forensic Investigators UCXmVj5NqGTsu3k4HNUv3WYQ,subs,33.9K subscribers,33.9K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Forensic Investigators UCXmVj5NqGTsu3k4HNUv3WYQ,median last 10 long-form,15500,15500.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Forensic Investigators UCXmVj5NqGTsu3k4HNUv3WYQ,first upload,11mo ago,11mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Forensic Investigators UCXmVj5NqGTsu3k4HNUv3WYQ,background/type,fire investigator / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Earl Whitaker UCmk_aG0OsnaP_7C5OxSSEvQ,subs,2 subscribers,2 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Earl Whitaker UCmk_aG0OsnaP_7C5OxSSEvQ,median last 10 long-form,12,12.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Earl Whitaker UCmk_aG0OsnaP_7C5OxSSEvQ,first upload,1mo ago,1mo ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Earl Whitaker UCmk_aG0OsnaP_7C5OxSSEvQ,background,fire inspector / marshal,"claims 32 yrs Dayton FD, last 12 as fire inspector; joined 2026-09-12",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Ani Jose UCMEZDecultHhqdjx7SBOEEw,subs,5 subscribers,5 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Ani Jose UCMEZDecultHhqdjx7SBOEEw,median last 10 long-form,7,7.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Ani Jose UCMEZDecultHhqdjx7SBOEEw,first upload,2w ago,2w ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Ani Jose UCMEZDecultHhqdjx7SBOEEw,background,fire inspector / marshal,none stated (empty description; one off-topic bowling video),NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as fire inspector/marshal
+sweep/explainers/presenters.csv,Ounce Of Prevention USA UCt5pZUyBg-OqX4kKXQaftKw,subs,3 subscribers,3 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Ounce Of Prevention USA UCt5pZUyBg-OqX4kKXQaftKw,median last 10 long-form,0,0.5,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Ounce Of Prevention USA UCt5pZUyBg-OqX4kKXQaftKw,first upload,not found,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Ounce Of Prevention USA UCt5pZUyBg-OqX4kKXQaftKw,background/type,fire inspector / marshal / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Rosalinda Montero-Sutton UCwaTu87WL6qic_AnIZGsP_g,subs,1.46K subscribers,1.46K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Rosalinda Montero-Sutton UCwaTu87WL6qic_AnIZGsP_g,median last 10 long-form,435,435.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Rosalinda Montero-Sutton UCwaTu87WL6qic_AnIZGsP_g,first upload,2y ago,2y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Rosalinda Montero-Sutton UCwaTu87WL6qic_AnIZGsP_g,type,faceless persona,"looks like a real woman (claims federal fire inspector), not a faceless persona; 798 videos mostly food/Equatorial Guinea/parenting",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,best_video in summary is the Igbo history video
+sweep/explainers/presenters.csv,Inspector J UCGZaWDFqewzjrmgN7ggvTcA,subs,7.75K subscribers,7.75K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Inspector J UCGZaWDFqewzjrmgN7ggvTcA,median last 10 long-form,not found (no 5:00+ videos on Latest page),not found,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Inspector J UCGZaWDFqewzjrmgN7ggvTcA,first upload,not found,,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Inspector J UCGZaWDFqewzjrmgN7ggvTcA,background,fire inspector / marshal,"home inspector: ""Jordan's company... builders don't want you to see"", Shorts-only, joined 2026-02-02",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,wrong,counted as fire inspector/marshal
+sweep/explainers/presenters.csv,Home Inspection Carolina UC0-b12OjZWrMJLN7Y2K-s6w,subs,11.5K subscribers,11.5K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Home Inspection Carolina UC0-b12OjZWrMJLN7Y2K-s6w,median last 10 long-form,54,54.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Home Inspection Carolina UC0-b12OjZWrMJLN7Y2K-s6w,first upload,18y ago,18y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Home Inspection Carolina UC0-b12OjZWrMJLN7Y2K-s6w,background/type,home inspector / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Portland Property Inspectors UCtn_CT3oxEIyaf8OBbXlRqA,subs,8.58K subscribers,8.58K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Portland Property Inspectors UCtn_CT3oxEIyaf8OBbXlRqA,median last 10 long-form,260000,260000.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Portland Property Inspectors UCtn_CT3oxEIyaf8OBbXlRqA,first upload,not found,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Portland Property Inspectors UCtn_CT3oxEIyaf8OBbXlRqA,background/type,home inspector / faceless,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Southern Home Inspection Services UCkpTT6Q6D1ubaEHJEHDsA4g,subs,570 subscribers,570 subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Southern Home Inspection Services UCkpTT6Q6D1ubaEHJEHDsA4g,median last 10 long-form,not found (no 5:00+ videos on Latest page),not found,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Southern Home Inspection Services UCkpTT6Q6D1ubaEHJEHDsA4g,first upload,18y ago,18y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Southern Home Inspection Services UCkpTT6Q6D1ubaEHJEHDsA4g,background/type,home inspector / AI avatar,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,The Home Inspector UC_oQ6vAc_Mku_G5li4eUjAA,subs,19.9K subscribers,19.9K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,The Home Inspector UC_oQ6vAc_Mku_G5li4eUjAA,first upload,11y ago,11y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,The Home Inspector UC_oQ6vAc_Mku_G5li4eUjAA,median,not found (no 5:00+ videos on Latest page),"21,000 (n1) vs recorded not found",NexLev youtube_channel_about + yt.py channel page + 2 thumbnails,minor,
+sweep/explainers/presenters.csv,CyFy UC6cgh3wDSFPAYETrpLzPSvQ,subs,697K subscribers,697K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,CyFy UC6cgh3wDSFPAYETrpLzPSvQ,median last 10 long-form,80500,80500.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,CyFy UC6cgh3wDSFPAYETrpLzPSvQ,first upload,3y ago,3y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,CyFy UC6cgh3wDSFPAYETrpLzPSvQ,background/type,home inspector / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Site Inspections UCizZ9-GkRyYXXCrYJJIOOew,subs,226K subscribers,226K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Site Inspections UCizZ9-GkRyYXXCrYJJIOOew,median last 10 long-form,498500,498500.0,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Site Inspections UCizZ9-GkRyYXXCrYJJIOOew,first upload,3y ago,3y ago,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Site Inspections UCizZ9-GkRyYXXCrYJJIOOew,background/type,home inspector / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters.csv,Inspector Knight UC713DtxVVEOjcvAm_3SthmQ,subs,84.6K subscribers,84.6K subscribers,yt.py channel latest 2026-10-24 + NexLev youtube_channel_about,ok,
+sweep/explainers/presenters.csv,Inspector Knight UC713DtxVVEOjcvAm_3SthmQ,median last 10 long-form,8700,8700,yt.py channel latest 2 pages,ok,
+sweep/explainers/presenters.csv,Inspector Knight UC713DtxVVEOjcvAm_3SthmQ,first upload,not found,no Oldest chip on Videos tab,yt.py channel oldest 1,ok,"""no Oldest chip"" channels have under ~30 videos; latest page shows same age"
+sweep/explainers/presenters.csv,Inspector Knight UC713DtxVVEOjcvAm_3SthmQ,background/type,home inspector / on camera,confirmed,NexLev about (40 channels) or channel description + 2 thumbnails,ok,
+sweep/explainers/presenters_summary.csv,electrician,channels / over 10K / median of medians,"36 / 18 / 1,675","34 / 18 / 1,475 (Cal Watts, Gary Whitaker removed)",recompute after checker D corrections,wrong,
+sweep/explainers/presenters_summary.csv,lineman / utility,channels / over 10K / median of medians,17 / 5 / 51,"13 / 3 / 28 (Silas Mercer, Mr Lineman, Ray's Workshop, June's Kitchen Table removed)",recompute after checker D corrections,wrong,
+sweep/explainers/presenters_summary.csv,firefighter,channels / over 10K / median of medians,22 / 2 / 115,"20 / 2 / 109 (Marcy Hollis, Grady Holcomb removed)",recompute after checker D corrections,wrong,
+sweep/explainers/presenters_summary.csv,fire investigator,channels / over 10K / median of medians,2 / 0 / 376,2 / 0 / 405 (IAAI median 460.5),recompute after checker D corrections,ok,
+sweep/explainers/presenters_summary.csv,fire inspector / marshal,channels / over 10K / median of medians,6 / 0 / 56,"4 / 0 / 172.5 (Inspector J to home inspector, Ani Jose to none stated)",recompute after checker D corrections,wrong,
+sweep/explainers/presenters_summary.csv,home inspector,channels / over 10K / median of medians,"34 / 16 / 1,250","35 / 16 / 1,320 (+Inspector J, Shorts only, no median)",recompute after checker D corrections,wrong,
+sweep/explainers/presenters_summary.csv,electrical inspector,channels / over 10K / median of medians,5 / 2 / 754,5 / 2 / 754,recompute after checker D corrections,ok,
+sweep/explainers/presenters.csv,missing electrician: Sparky Channel UC9fxRCgiys5D1VCFLNW0uXA,presence,not in presenters.csv,252K subscribers,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing electrician: Sparky Izzy UCoLZdmj5sLFcRYWqTQ4FfEA,presence,not in presenters.csv,24.8K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing electrician: Jay The Sparky UCFftWKB9Q9H58awJu6xk65Q,presence,not in presenters.csv,17.8K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing electrician: Bristolsparky UCXnS3WPr_mqg-z7WlJHS24A (UK),presence,not in presenters.csv,16.9K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing electrician: Actual Electrical Content UCduaH-Au7koVBVwj_5f1OSA,presence,not in presenters.csv,11.8K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing electrician: JRC Electrical UC8EkcJIfPv23CfalqfFBKZA,presence,not in presenters.csv,10.2K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing home inspector: gold.star.inspections UCFmV6LZefNJ8j4PpGGo9JxQ,presence,not in presenters.csv,"299K; med10 59,000 (n7)",yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing home inspector: Inspector Randle UC9-3QE3xDfNGnsMaHeB-AbA,presence,not in presenters.csv,"150K; med 7,450 (n2)",yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing home inspector: InterNACHI UCj3wvOhJKuYBjoaX_dTBsTw (org),presence,not in presenters.csv,58.1K; med 575,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing home inspector: Preppy Jarhead UCSBuScr9fw99OuJw_Mq92sg,presence,not in presenters.csv,20.3K; med 176,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing home inspector: InspectorTapDaddy UCJGnWxiKS-gsZQwmEq80qgA,presence,not in presenters.csv,12.9K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing firefighter: The Humble Firefighter UCVdwPQp7y-sU58HpFS_3GSQ (training for firefighters),presence,not in presenters.csv,"19.6K; med 9,600 (n3)",yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,"missing firefighter: The Homeless Firefighter UC-v_BxiiJevUHtghBqhbvpw (life vlogs, not fire safety)",presence,not in presenters.csv,"73.2K; med 84,000",yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing firefighter: Firefighter Ambitions UCcUYGRbuzPQlOpwyhrAHshQ (career),presence,not in presenters.csv,12.8K; med 490,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing firefighter: Firefighter Fenton UCxKmHvdI0vCSg40ZFB76qEw (comedy Shorts),presence,not in presenters.csv,179K; no 5:00+ on latest,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing fire researcher (org): Fire Safety Research Institute (UL) UCd36aiebKHk0EKmP7MTuuqw,presence,not in presenters.csv,29.6K,yt.py search (channel) 2026-10-24,minor,real presenter over 10K subs not listed
+sweep/explainers/presenters.csv,missing fire investigator,presence,2 counted,"no real fire-investigator channel over 10K found (searches: ""fire investigator explains"" views x2 pages)",yt.py search,ok,Primal Space 2.23M video is a faceless explainer channel
+sweep/devices/videos.csv,out-of-scope leakage,share,kept as in scope,about 20% (6 of 30 random: 5 out + 1 non-English); top-15: 2 phone-tips rows,checker D sample + regex,minor,"title regex floor 47 rows (4.6%): phone/laptop battery-life 20, solar/home battery 8, buying 17"
+sweep/fire/videos.csv,out-of-scope leakage,share,kept as in scope,"about 0-3% of random rows, but 4 of the top 15 (FDC/Doctor Mike entertainment)",checker D sample + regex,minor,regex floor 13 rows; plus 12 LANG-CHECK rows already flagged
+sweep/explainers/videos.csv,out-of-scope leakage,share,kept as in scope,"about 20% of non-out rows (5 of 25 random: game, vlog, Malay, Hindi, condo walkthrough) ",checker D sample + regex,minor,helper own estimate 85% relevant agrees; 193 out rows correctly excluded

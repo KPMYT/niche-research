@@ -1,0 +1,674 @@
+{
+ "channel": "Footprint Hero with Alex Beale",
+ "id": "UCLnGgnj-hneDI3CFzBmdGLg",
+ "handle": "http://www.youtube.com/@footprinthero",
+ "description": "Solar setups, power stations, and home energy tech!\n\nSince 2020, I've been tinkering around with ways to use solar and battery setups to power my home. These videos are where I share my experiments!\n\nBusiness inquiries: footprinthero@apollomgmt.co\n",
+ "subs": "215K subscribers",
+ "videos_count": "73 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "71CXbDQMaNk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tested the BEST Cheap Solar Setups (Anker vs EcoFlow vs Jackery vs Bluetti)",
+   "dur": "19:43",
+   "meta": [
+    "587K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 587000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "eXWVk55sZB4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EcoFlow Hates Me For Showing You This",
+   "dur": "19:02",
+   "meta": [
+    "979K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 979000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "1pgDRYjARLo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "If I Were Buying My First Solar Setup Again, I’d Do This",
+   "dur": "15:48",
+   "meta": [
+    "235K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 235000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "wJmek3dKEik",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought a Dirt-Cheap WALMART Solar Setup",
+   "dur": "18:11",
+   "meta": [
+    "671K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 671000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "wSoQzGe-Tuc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Going Solar Is Now on EASY Mode",
+   "dur": "11:38",
+   "meta": [
+    "134K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 134000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "zEMA0Pu2YxI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "With Home Batteries Like This, Who Needs a Powerwall?",
+   "dur": "21:24",
+   "meta": [
+    "652K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 652000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "ytuUgZbrTDA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is This Deal Worth the Costco Membership?",
+   "dur": "19:53",
+   "meta": [
+    "548K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 548000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "Pp87kTvyiqk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought Amazon's #1 Device for Lowering Your Electric Bill",
+   "dur": "17:20",
+   "meta": [
+    "918K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 918000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "FKnZWWEqkdo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Harbor Freight Doesn't Want You to Know This!",
+   "dur": "12:33",
+   "meta": [
+    "535K",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 535000,
+   "age": "6mo ago"
+  },
+  {
+   "id": "eSJDOlL6lPE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought Harbor Freight's CHEAPEST Solar Setup",
+   "dur": "12:01",
+   "meta": [
+    "434K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 434000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "ihsr_g7TTww",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought a Dirt-Cheap TEMU Solar Setup",
+   "dur": "11:19",
+   "meta": [
+    "828K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 828000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "u7rgFT_-RVc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought Costco's CHEAPEST Power Station",
+   "dur": "19:42",
+   "meta": [
+    "534K",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 534000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "iHulKsD35Hc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$100 Solar Panel vs $100 Wind Turbine in a Normal Backyard",
+   "dur": "18:47",
+   "meta": [
+    "2.3M",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "Z9k8dsApWIM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tested the World's First Sodium-Ion Power Station",
+   "dur": "11:57",
+   "meta": [
+    "419K",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 419000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "kgvBhJgLBW8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tested a $1,200 American Power Station",
+   "dur": "19:15",
+   "meta": [
+    "180K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 180000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "RUOzvpwy8-8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought Costco's CHEAPEST Solar Setup",
+   "dur": "14:54",
+   "meta": [
+    "4.8M",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 4800000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "loOUv9pLDco",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solar Generator Companies Hate Me For Showing You This",
+   "dur": "11:10",
+   "meta": [
+    "924K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 924000,
+   "age": "1y ago"
+  },
+  {
+   "id": "6CYLg8W8LsE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought Amazon's CHEAPEST 2kWh Power Station...And This Happened",
+   "dur": "14:33",
+   "meta": [
+    "577K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 577000,
+   "age": "1y ago"
+  },
+  {
+   "id": "b4s3dnekvTM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tried Off-Grid Camping with Solar & Starlink",
+   "dur": "15:46",
+   "meta": [
+    "42K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 42000,
+   "age": "1y ago"
+  },
+  {
+   "id": "e4vRtDNvmgU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$1,500 Solar Generator vs My Electric Bill",
+   "dur": "12:08",
+   "meta": [
+    "253K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 253000,
+   "age": "1y ago"
+  },
+  {
+   "id": "qBSx0PuZego",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Solar Powered My Room for 7 Days",
+   "dur": "22:52",
+   "meta": [
+    "1.5M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "1y ago"
+  },
+  {
+   "id": "7uFalNd_-S8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Simple $1,500 Solar Generator Setup!",
+   "dur": "19:25",
+   "meta": [
+    "565K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 565000,
+   "age": "1y ago"
+  },
+  {
+   "id": "Ya_DPtNj6Og",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tested a \"Revolutionary\" New Solar Panel",
+   "dur": "18:22",
+   "meta": [
+    "1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "KARL_qPGHUE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dirt-Cheap $150 Solar Generator - What Can It Run?",
+   "dur": "12:00",
+   "meta": [
+    "249K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 249000,
+   "age": "1y ago"
+  },
+  {
+   "id": "mmdS1fk6Zko",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought Harbor Freight's CHEAPEST Power Station",
+   "dur": "12:41",
+   "meta": [
+    "2.3M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "1y ago"
+  },
+  {
+   "id": "6ERzqzcySUQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$1,000 Solar Setup vs My Electric Bill",
+   "dur": "14:45",
+   "meta": [
+    "1.2M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "1y ago"
+  },
+  {
+   "id": "YU4AFkeR2jg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought a $1,000 Solar Setup",
+   "dur": "13:05",
+   "meta": [
+    "2.6M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2600000,
+   "age": "1y ago"
+  },
+  {
+   "id": "ecRZTtVM1Eg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Bought a $500 Solar Setup",
+   "dur": "14:19",
+   "meta": [
+    "1.5M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "1y ago"
+  },
+  {
+   "id": "jtNq-0kV8YM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tried Outsmarting the Power Company with This Box",
+   "dur": "10:05",
+   "meta": [
+    "390K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 390000,
+   "age": "1y ago"
+  },
+  {
+   "id": "wu7KV-kAXlA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How I Overpanel My Power Stations (Safely)",
+   "dur": "11:28",
+   "meta": [
+    "106K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 106000,
+   "age": "1y ago"
+  },
+  {
+   "id": "ELrQewHxjj0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dirt-Cheap Solar Generator Setup from Amazon",
+   "dur": "17:10",
+   "meta": [
+    "4.5M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4500000,
+   "age": "2y ago"
+  },
+  {
+   "id": "LlJpG2FA8oM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Bifacial Solar Panels vs Increasingly Reflective Surfaces",
+   "dur": "5:50",
+   "meta": [
+    "1.1M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "2y ago"
+  },
+  {
+   "id": "snBU9k7iXdg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Private Tour of Retiree's Solar-Powered Property",
+   "dur": "11:49",
+   "meta": [
+    "19K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 19000,
+   "age": "2y ago"
+  },
+  {
+   "id": "dTIIvMqBs48",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$600 Power Station vs AC Unit, Fridge, TV, WiFi Router & Computer!",
+   "dur": "13:28",
+   "meta": [
+    "677K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 677000,
+   "age": "2y ago"
+  },
+  {
+   "id": "8Ngk4PdjMqc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Anker Hates Me for Showing You This!",
+   "dur": "7:40",
+   "meta": [
+    "1.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "bM7ULUCKJQo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "He Solar Powered His House HIMSELF – Full System Tour",
+   "dur": "19:26",
+   "meta": [
+    "696K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 696000,
+   "age": "2y ago"
+  },
+  {
+   "id": "csIdqSb5JHU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solar Powering Just 1 Room in My House",
+   "dur": "7:20",
+   "meta": [
+    "303K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 303000,
+   "age": "2y ago"
+  },
+  {
+   "id": "RuXqNMZQZrA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install & Use a Battery Monitor",
+   "dur": "12:06",
+   "meta": [
+    "133K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 133000,
+   "age": "2y ago"
+  },
+  {
+   "id": "ndw73MCPeq4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Much You Can Save Installing Solar Panels Yourself",
+   "dur": "5:02",
+   "meta": [
+    "7.3K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 7300,
+   "age": "2y ago"
+  },
+  {
+   "id": "yNbilzolgAw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What's the Best Direction for Solar Panels? - True South vs Magnetic South",
+   "dur": "5:58",
+   "meta": [
+    "22K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 22000,
+   "age": "2y ago"
+  },
+  {
+   "id": "4Uh9ZKl5aPY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dirt-Cheap Solar Panel Setup - What Can It Power?",
+   "dur": "8:32",
+   "meta": [
+    "1M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "MZ_vRUknhzw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "100 Watt Solar Panel Kit Setup for Beginners - Step-by-Step!",
+   "dur": "16:19",
+   "meta": [
+    "1.3M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "2y ago"
+  },
+  {
+   "id": "MQZr6J7ts04",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is Solar Panel Cleaning Worth It?",
+   "dur": "7:14",
+   "meta": [
+    "227K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 227000,
+   "age": "2y ago"
+  },
+  {
+   "id": "UnZ0-ZLm1KE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Test Solar Panels!",
+   "dur": "8:09",
+   "meta": [
+    "305K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 305000,
+   "age": "2y ago"
+  },
+  {
+   "id": "VadYsrjOusY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Anker SOLIX C1000 Portable Power Station: Small But Mighty!",
+   "dur": "8:45",
+   "meta": [
+    "402K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 402000,
+   "age": "2y ago"
+  },
+  {
+   "id": "LB415fDqavo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tested the 5 Best Solar Power Banks",
+   "dur": "5:52",
+   "meta": [
+    "328K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 328000,
+   "age": "2y ago"
+  },
+  {
+   "id": "IO1ztGEo8_Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tested the 4 Best RV & Solar Battery Monitors",
+   "dur": "13:24",
+   "meta": [
+    "172K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 172000,
+   "age": "3y ago"
+  },
+  {
+   "id": "HAU5K6uH5Cw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Much Energy Does a 100 Watt Solar Panel Produce?",
+   "dur": "4:06",
+   "meta": [
+    "531K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 531000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Z_Z2Me4dwXw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easiest DIY Solar Lights I Could Think Of",
+   "dur": "5:00",
+   "meta": [
+    "146K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 146000,
+   "age": "3y ago"
+  },
+  {
+   "id": "4GUoui8ziv8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Newpowa 5BB vs Renogy 9BB Solar Panels - Power Output Test!",
+   "dur": "2:32",
+   "meta": [
+    "16K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 16000,
+   "age": "3y ago"
+  },
+  {
+   "id": "jc9qnPqmsHo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "100Ah LiFePO4 Battery vs 12V RV Fridge",
+   "dur": "4:08",
+   "meta": [
+    "445K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 445000,
+   "age": "3y ago"
+  }
+ ]
+}

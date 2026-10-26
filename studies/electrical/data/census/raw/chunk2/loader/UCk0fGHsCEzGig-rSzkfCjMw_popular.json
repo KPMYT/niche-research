@@ -1,0 +1,1181 @@
+{
+ "channel": "The Engineering Mindset",
+ "id": "UCk0fGHsCEzGig-rSzkfCjMw",
+ "handle": "http://www.youtube.com/@EngineeringMindset",
+ "description": "Subscribe now to gain core Engineering knowledge and skills through mind-blowing tutorials\n\nThe Engineering Mindset was started in 2015 by its founder, Paul Evans. The mission was to help students, engineers and like-minded people learn technical engineering topics through short, simplified tutorials. Our goal is to be the number one resource and online learning tool for all aspects of engineering. We minimise technical jargon while using detailed illustrations and animations to help convey the essentials of each subject with on-demand, internet based, education.\n\nOur motto is simple: Simplify. Teach. Inspire.\n\nSome links displayed within the content are affiliate links and we may receive commission.\n\nContent is protected by copyright, it takes a great deal of time, money, effort and knowledge to produce. We issue copyright strikes against all channels using our content without permission. \n",
+ "subs": "4.49M subscribers",
+ "videos_count": "318 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "J4oO7PT_nzQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transistors Explained - How transistors work",
+   "dur": "18:20",
+   "meta": [
+    "20M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 20000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "X4EUwTwZ110",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Capacitors Explained - The basics how capacitors work working principle",
+   "dur": "8:42",
+   "meta": [
+    "11M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "opoEswRp_jg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Way Switching Explained - How to wire 2 way light switch",
+   "dur": "7:05",
+   "meta": [
+    "9.2M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 9200000,
+   "age": "7y ago"
+  },
+  {
+   "id": "4oRT7PoXSS0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Three Phase Electricity works - The basics explained",
+   "dur": "7:53",
+   "meta": [
+    "7.9M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 7900000,
+   "age": "8y ago"
+  },
+  {
+   "id": "mc979OhitAg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How ELECTRICITY works - working principle",
+   "dur": "10:11",
+   "meta": [
+    "7.9M",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 7900000,
+   "age": "9y ago"
+  },
+  {
+   "id": "59HBoIXzX_c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Electric Motors Work - 3 phase AC induction motors  ac motor",
+   "dur": "15:34",
+   "meta": [
+    "7.9M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 7900000,
+   "age": "5y ago"
+  },
+  {
+   "id": "yiD5nCfmbV0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Brushless Motor - How they work BLDC ESC PWM",
+   "dur": "16:12",
+   "meta": [
+    "5.7M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 5700000,
+   "age": "4y ago"
+  },
+  {
+   "id": "DYcLFHgVCn0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Resistor Work - Unravel the Mysteries of How Resistors Work!",
+   "dur": "28:23",
+   "meta": [
+    "5.7M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 5700000,
+   "age": "3y ago"
+  },
+  {
+   "id": "fJeRabV5hNU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "120V 240V Electricity explained - Split phase 3 wire electrician",
+   "dur": "12:24",
+   "meta": [
+    "5.5M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 5500000,
+   "age": "7y ago"
+  },
+  {
+   "id": "KSylo01n5FY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inductors Explained - The basics how inductors work working principle",
+   "dur": "10:20",
+   "meta": [
+    "5.5M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 5500000,
+   "age": "7y ago"
+  },
+  {
+   "id": "c9gm_NL7KyE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How 3 Phase Power works: why 3 phases?",
+   "dur": "14:41",
+   "meta": [
+    "5.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 5200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "P-W42tk-fWc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ground Neutral and Hot wires explained - electrical engineering grounding ground fault",
+   "dur": "11:13",
+   "meta": [
+    "4.9M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 4900000,
+   "age": "7y ago"
+  },
+  {
+   "id": "h89TTwlNnpY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Star Delta Starter Explained - Working Principle",
+   "dur": "11:08",
+   "meta": [
+    "4.6M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 4600000,
+   "age": "7y ago"
+  },
+  {
+   "id": "TUpeMYTj1O8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Manual Transmission works - automotive technician  shifting",
+   "dur": "19:39",
+   "meta": [
+    "4.5M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 4500000,
+   "age": "5y ago"
+  },
+  {
+   "id": "3KePcASD0NQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Electricity Works - for visual learners",
+   "dur": "18:35",
+   "meta": [
+    "4.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "iIqhAX0I7lI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Inverters Explained - How do they work working principle IGBT",
+   "dur": "13:39",
+   "meta": [
+    "4.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 4100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "jdSKlg80DjU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Alternators Work - Automotive Electricity Generator",
+   "dur": "18:15",
+   "meta": [
+    "4M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "6y ago"
+  },
+  {
+   "id": "d-j0onzzuNQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "5V Regulator design tutorial - How it works, how to design PCB  altium",
+   "dur": "16:02",
+   "meta": [
+    "4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "yEPe7RDtkgo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Variable Frequency Drives Explained - VFD Basics IGBT inverter",
+   "dur": "15:18",
+   "meta": [
+    "3.9M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 3900000,
+   "age": "6y ago"
+  },
+  {
+   "id": "jcY4QN7awEc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformers Explained - How transformers work",
+   "dur": "16:33",
+   "meta": [
+    "3.7M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3700000,
+   "age": "4y ago"
+  },
+  {
+   "id": "W0_1xRqT8uU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Single Phase Electricity Explained - wiring diagram energy meter",
+   "dur": "10:10",
+   "meta": [
+    "3.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "Fwj_d3uO5g8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Diodes Explained - The basics how diodes work working principle pn junction",
+   "dur": "11:32",
+   "meta": [
+    "3.6M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 3600000,
+   "age": "6y ago"
+  },
+  {
+   "id": "4lAyzRxsbDc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to use a multimeter like a pro! The Ultimate guide",
+   "dur": "28:43",
+   "meta": [
+    "3.5M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3500000,
+   "age": "3y ago"
+  },
+  {
+   "id": "AwRJsze_9m4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOSFET Explained - How MOSFET Works",
+   "dur": "20:14",
+   "meta": [
+    "3.4M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 3400000,
+   "age": "2y ago"
+  },
+  {
+   "id": "uOtdWHMKhnw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Programable Logic Controller Basics Explained - automation engineering",
+   "dur": "15:11",
+   "meta": [
+    "3.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 3100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "-MLGr1_Fw0c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Solenoid Valves Work - Basics actuator control valve working principle",
+   "dur": "7:31",
+   "meta": [
+    "3.1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3100000,
+   "age": "7y ago"
+  },
+  {
+   "id": "PXNKkcB0pI4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Batteries Work - Battery electricity working principle",
+   "dur": "19:01",
+   "meta": [
+    "3.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 3100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "UchitHGF4n8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does a Transformer work  - Working Principle electrical engineering",
+   "dur": "6:30",
+   "meta": [
+    "3M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 3000000,
+   "age": "8y ago"
+  },
+  {
+   "id": "_u5ORnhqn8g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "3 Way Switches Explained - How to wire 3 way light switch",
+   "dur": "8:27",
+   "meta": [
+    "3M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "w82aSjLuD_8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Voltage Explained - What is Voltage? Basic electricity  potential difference",
+   "dur": "10:52",
+   "meta": [
+    "2.9M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2900000,
+   "age": "7y ago"
+  },
+  {
+   "id": "gqEu9t8HwW0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+   "dur": "18:23",
+   "meta": [
+    "2.9M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2900000,
+   "age": "2y ago"
+  },
+  {
+   "id": "QykwWs3L1W8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Heat Pumps Explained - How Heat Pumps Work HVAC",
+   "dur": "9:43",
+   "meta": [
+    "2.8M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2800000,
+   "age": "8y ago"
+  },
+  {
+   "id": "NUSNa-7Hecw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sub Panels Explained - Why are neutral and ground separated?",
+   "dur": "16:22",
+   "meta": [
+    "2.8M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 2800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "n594CkrP6xE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Relays Work - Basic working principle  electronics engineering  electrician amp",
+   "dur": "14:02",
+   "meta": [
+    "2.8M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2800000,
+   "age": "6y ago"
+  },
+  {
+   "id": "HsLLq6Rm5tU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ohms Law Explained - The basics circuit theory",
+   "dur": "10:00",
+   "meta": [
+    "2.6M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2600000,
+   "age": "6y ago"
+  },
+  {
+   "id": "1WnGv-DPexc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Servo Motors, how do they work?",
+   "dur": "15:12",
+   "meta": [
+    "2.5M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2500000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Yxt72aDjFgY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Generate Electricity - How Solar Panels Work!",
+   "dur": "22:35",
+   "meta": [
+    "2.5M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 2500000,
+   "age": "3y ago"
+  },
+  {
+   "id": "0rzQhSXVq60",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Chiller Basics - How they work",
+   "dur": "16:37",
+   "meta": [
+    "2.3M",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "9y ago"
+  },
+  {
+   "id": "kcL2_D33k3o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Current Explained - AC DC, fuses, circuit breakers, multimeter, GFCI, ampere",
+   "dur": "18:45",
+   "meta": [
+    "2.3M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "6y ago"
+  },
+  {
+   "id": "CaaLw01fMo8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Single Pole Switch Lighting Circuits - How to wire a light switch",
+   "dur": "4:35",
+   "meta": [
+    "2.3M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "7y ago"
+  },
+  {
+   "id": "u0SsejDCVkU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How 3 Phase Transformers Work – why we need them",
+   "dur": "24:24",
+   "meta": [
+    "2.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "U8iWNaDuUek",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Pump Chart Basics Explained - Pump curve HVACR",
+   "dur": "13:05",
+   "meta": [
+    "2.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Tv_7XWf96gg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Factor Explained - The basics what is power factor pf",
+   "dur": "11:09",
+   "meta": [
+    "2.1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "7y ago"
+  },
+  {
+   "id": "8Posj4WMo0o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is CURRENT– electric current explained, electricity basics",
+   "dur": "11:40",
+   "meta": [
+    "2.1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "7y ago"
+  },
+  {
+   "id": "UmWWZdJR1hQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Chiller, AHU, RTU work - working principle Air handling unit, rooftop unit hvac system",
+   "dur": "8:25",
+   "meta": [
+    "2M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2000000,
+   "age": "8y ago"
+  },
+  {
+   "id": "XpcCUtYzwy0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Centrifugal Pump Basics - How centrifugal pumps work working principle hvacr",
+   "dur": "10:36",
+   "meta": [
+    "1.9M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1900000,
+   "age": "6y ago"
+  },
+  {
+   "id": "7d4ymjU9NqM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LED Circuit Design - How to design LED circuits",
+   "dur": "21:44",
+   "meta": [
+    "1.9M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1900000,
+   "age": "5y ago"
+  },
+  {
+   "id": "RiRyzLl4Y8U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Full Wave Bridge Rectifier + Capacitor filters +  half wave rectifier",
+   "dur": "18:59",
+   "meta": [
+    "1.9M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1900000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ucEiEic-kZ4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Capacitor calculations - Basic calculations for capacitors in series and parallel",
+   "dur": "16:16",
+   "meta": [
+    "1.8M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Hf875eOVrVI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Wind Turbines Really Work: The Hidden Secrets",
+   "dur": "22:03",
+   "meta": [
+    "1.8M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "2y ago"
+  },
+  {
+   "id": "VnPRX5zQWLw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How A Car Battery Works - basic working principle",
+   "dur": "16:01",
+   "meta": [
+    "1.7M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "6y ago"
+  },
+  {
+   "id": "qthuFLNSrlg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Three Phase Electricity Basics and Calculations electrical engineering",
+   "dur": "14:37",
+   "meta": [
+    "1.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "pnqXEnn3DNk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Vacuum Pumps Explained - Basic working principle HVAC",
+   "dur": "6:54",
+   "meta": [
+    "1.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "klggop60vlM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fundamentals of HVAC - Basics of HVAC",
+   "dur": "58:24",
+   "meta": [
+    "1.7M",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "9y ago"
+  },
+  {
+   "id": "C0iOzmJKOg8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ground Rod Explained",
+   "dur": "2:04",
+   "meta": [
+    "1.6M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "4y ago"
+  },
+  {
+   "id": "3AVHqV_xASQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Optocouplers work - opto-isolator solid state relays phototransistor",
+   "dur": "18:07",
+   "meta": [
+    "1.5M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "5y ago"
+  },
+  {
+   "id": "O8M2z2hIbag",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How LED Works - Unravel the Mysteries of How LEDs Work!",
+   "dur": "19:06",
+   "meta": [
+    "1.5M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "3y ago"
+  },
+  {
+   "id": "GQatiB-JHdI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does an Electric Motor work? DC Motor explained",
+   "dur": "15:32",
+   "meta": [
+    "1.5M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "6y ago"
+  },
+  {
+   "id": "JBpQ9Fodz_Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ground Wire Explained",
+   "dur": "3:33",
+   "meta": [
+    "1.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "UBERduCp3Wo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Main electrical panel explained - Load center - service panel",
+   "dur": "10:19",
+   "meta": [
+    "1.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "BbmocfETTFo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solenoid Basics Explained - Working Principle",
+   "dur": "9:09",
+   "meta": [
+    "1.4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "7y ago"
+  },
+  {
+   "id": "KCiv8IAUkh8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Air Handling Units work   AHU working principle hvac ventilation",
+   "dur": "13:02",
+   "meta": [
+    "1.4M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "8y ago"
+  },
+  {
+   "id": "oSLOHCOw3yg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How TXV works - Thermostatic expansion valve working principle, HVAC Basics vrv heat pump",
+   "dur": "8:28",
+   "meta": [
+    "1.4M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "8y ago"
+  },
+  {
+   "id": "1cvFlBLo4u0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How a Chiller, Cooling Tower and Air Handling Unit work together",
+   "dur": "16:46",
+   "meta": [
+    "1.3M",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "10y ago"
+  },
+  {
+   "id": "ln9VZIL8rVs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Inverters Work - Working principle rectifier",
+   "dur": "8:41",
+   "meta": [
+    "1.3M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "8y ago"
+  },
+  {
+   "id": "09Mpkjcr0bo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Stepper Motors Work - Electric motor",
+   "dur": "14:01",
+   "meta": [
+    "1.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "J3kKNNizARc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Clamp Meter Skills That Make You Look Like a Pro",
+   "dur": "24:52",
+   "meta": [
+    "1.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "UPTU6nYSaMo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor speed controller tutorial - PWM how to build",
+   "dur": "17:33",
+   "meta": [
+    "1.2M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "5y ago"
+  },
+  {
+   "id": "vw-bAbjPTd8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "VAV Variable Air Volume - HVAC system basics hvacr",
+   "dur": "13:53",
+   "meta": [
+    "1.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "5y_VBiTiuAY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ductwork sizing, calculation and design for efficiency - HVAC Basics + full worked example",
+   "dur": "17:39",
+   "meta": [
+    "1.1M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "8y ago"
+  },
+  {
+   "id": "VV6tZ3Aqfuc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Series circuits explained - The basics working principle",
+   "dur": "11:29",
+   "meta": [
+    "1.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "NIrKOVZrqnU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Factor Explained – Your Electricity Bill Money Drain (Reactive Power)",
+   "dur": "16:19",
+   "meta": [
+    "1.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "T99yH_gw3p8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is Torque? - Torque basics explained",
+   "dur": "2:10",
+   "meta": [
+    "1.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "WhATjUHgzxQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AC Electrical Generator Basics - How electricity is generated",
+   "dur": "5:56",
+   "meta": [
+    "1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "JjElWj0fFX4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing Batteries With a Multimeter - AA Battery Test",
+   "dur": "2:08",
+   "meta": [
+    "1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "5uyJezQNSHw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC parallel circuits explained  - The basics how parallel circuits work working principle",
+   "dur": "16:00",
+   "meta": [
+    "1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "6y ago"
+  },
+  {
+   "id": "HqH1MSWakgo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What's inside a Thermal Expansion Valve TXV - how it works hvac",
+   "dur": "7:51",
+   "meta": [
+    "1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "SMPhh8gT_1E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is a kWh - kilowatt hour  + CALCULATIONS 💡💰 energy bill",
+   "dur": "6:02",
+   "meta": [
+    "1M",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "9y ago"
+  },
+  {
+   "id": "peVAaLIJJ6c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Industrial Refrigeration system Basics - Ammonia refrigeration working principle",
+   "dur": "8:54",
+   "meta": [
+    "1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "TxqPAPg4nb4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Centrifugal Pump How Does It Work",
+   "dur": "7:19",
+   "meta": [
+    "994K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 994000,
+   "age": "9y ago"
+  },
+  {
+   "id": "Xb-MZMoUtcQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
+   "dur": "18:12",
+   "meta": [
+    "972K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 972000,
+   "age": "2y ago"
+  },
+  {
+   "id": "lMqoKLli0Y4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Refrigerants How they work in HVAC systems",
+   "dur": "8:54",
+   "meta": [
+    "934K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 934000,
+   "age": "9y ago"
+  },
+  {
+   "id": "lKwjouNT4C8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to use a Resistor - Basic electronics engineering",
+   "dur": "3:33",
+   "meta": [
+    "929K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 929000,
+   "age": "5y ago"
+  },
+  {
+   "id": "br3gkrXTmdY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Plate Heat Exchanger, How it works - working principle hvac industrial engineering phx heat transfer",
+   "dur": "10:14",
+   "meta": [
+    "922K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 922000,
+   "age": "9y ago"
+  },
+  {
+   "id": "Sh9aZ2uemk0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why This Circuit Works When It Shouldn’t",
+   "dur": "20:47",
+   "meta": [
+    "922K",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 922000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "v7NUi88Lxi8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Thermocouples Work - basic working principle + RTD",
+   "dur": "9:05",
+   "meta": [
+    "915K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 915000,
+   "age": "6y ago"
+  },
+  {
+   "id": "99vikjRrlgo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Pump CALCULATIONS, Flow rate, RPM, Pressure, Power, Diameter",
+   "dur": "9:31",
+   "meta": [
+    "911K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 911000,
+   "age": "9y ago"
+  },
+  {
+   "id": "jYFVsUqY6zc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Four Way Switching Explained - How to wire 4 way intermediate light switch",
+   "dur": "8:25",
+   "meta": [
+    "878K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 878000,
+   "age": "7y ago"
+  },
+  {
+   "id": "eTGkvddOtFc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Receptacles Work - The basic working principle explained  grounding",
+   "dur": "7:20",
+   "meta": [
+    "848K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 848000,
+   "age": "7y ago"
+  },
+  {
+   "id": "LaY47Qrfs0c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)",
+   "dur": "35:07",
+   "meta": [
+    "848K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 848000,
+   "age": "1y ago"
+  }
+ ]
+}

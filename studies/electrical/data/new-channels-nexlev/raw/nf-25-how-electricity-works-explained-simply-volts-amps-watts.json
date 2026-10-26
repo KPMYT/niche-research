@@ -1,0 +1,2908 @@
+{
+ "niche": "how electricity works explained simply volts amps watts",
+ "confidence": 0.67,
+ "channels": [
+  {
+   "ytChannelId": "UCr9iCr0odsB6IQ_37ULOrUA",
+   "title": "Kilowatt Nation",
+   "description": "How America got electricity \u2014 and who paid for it.\n\nKilowatt Nation tells the story of the American power grid through the people who built it, the money and deals that shaped it, and the nights it failed. Rural electrification and the farm cooperatives that strung their own lines. The utility empires, the men who ran them, and the bargains that decided who owns the wire outside your house. The great blackouts \u2014 1965, New York in 1977, the Northeast in 2003, Texas in 2021 \u2014 reconstructed minute by minute from official reports, archival photographs and the accounts of those on shift.\n\nEvery episode is a long-form documentary on American electrical infrastructure and industrial history: power plants, dams, transmission lines, substations and the companies behind them, from the first city systems of the 1880s to the grid we depend on now. Sourced from public archives and government investigations, told for anyone who has worked in this industry \u2014 or lost power because of it.",
+   "username": "KilowattNation",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/Kpke1PsIgtEaohDu4pBjjzV1ZbtS-6AM5bh6PISkGB5akE_NIhtFZOg8AUnJEW7iHwpHtz2iEw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-09-08",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "human",
+   "outlierScore": 0,
+   "tags": [
+    "engineering",
+    "infrastructure",
+    "history",
+    "science"
+   ],
+   "googleTrendsKeyword": "electricity",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1750,
+    "monthlyRevenue": 1000.57,
+    "monthlyViews": 229409,
+    "totalViews": 228802,
+    "totalVideos": 25,
+    "avgViewsPerVideo": 13664.71,
+    "medianViewsPerVideo": 2000,
+    "avgVideoLength": 1366.35,
+    "uploadsPerWeek": 3,
+    "firstVideoDate": "2026-09-20",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7.2,
+     "total": 4.3615
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "NGtn3dYwMeM",
+     "video_title": "What Actually Moves Through a 500,000-Volt Power Line?",
+     "video_view_count": 106000,
+     "video_upload_date": "2026-09-29T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NGtn3dYwMeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIPxy1Tqp__4nAN6pvOP6jHi2nzg&usqp=CBQ",
+     "length_text": "20:17"
+    },
+    {
+     "video_id": "vMrxKkT7M78",
+     "video_title": "What Actually Happens Under a 500,000-Volt Power Line?",
+     "video_view_count": 48000,
+     "video_upload_date": "2026-10-12T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vMrxKkT7M78/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfFKcxcidOyFWVyHAq4AEef3Nmcg&usqp=CBQ",
+     "length_text": "17:07"
+    },
+    {
+     "video_id": "gN04BAaeACU",
+     "video_title": "What Actually Happens Inside a 500,000-Volt Substation?",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-10-07T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/gN04BAaeACU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX_sipCZL67INZNId5fqm1_sMT4w&usqp=CBQ",
+     "length_text": "18:25"
+    },
+    {
+     "video_id": "rZuEHbBrQQQ",
+     "video_title": "You'll Finally Understand the Transformer on Your Power Pole",
+     "video_view_count": 23000,
+     "video_upload_date": "2026-10-18T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rZuEHbBrQQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAM8pNndAGL5IhocxBT0sBQAtw4Q&usqp=CBQ",
+     "length_text": "21:24"
+    },
+    {
+     "video_id": "1B2YoNcFI8A",
+     "video_title": "What Actually Happens When the Whole Grid Slows Down?",
+     "video_view_count": 5000,
+     "video_upload_date": "2026-10-14T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1B2YoNcFI8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yqfdxQFhmSkzKzYlgoml4nudRg&usqp=CBQ",
+     "length_text": "18:18"
+    }
+   ],
+   "score": 0.7025291919708252,
+   "createdAt": "2026-10-11T04:22:38.716920",
+   "updatedAt": "2026-10-20T00:04:42.186950"
+  },
+  {
+   "ytChannelId": "UC-ZIYEO2M5ooPNNOqoW-QiQ",
+   "title": "Zenthral Code",
+   "description": "Physics Graduate explaining electricity, engineering and technology through simple visual education.\n\nExplore simple visual explanations of:\n\ud83d\udd0c Power Systems & Three-Phase Electricity\n\u2699\ufe0f Transformers & Electrical Machines\n\ud83c\udf00 Motors, Generators & Industrial Systems\n\ud83d\udca1 Electronics & Basic Circuits\n\ud83d\udd2c Applied Physics Behind Electrical Technology\n\n\nWe break down complex electrical engineering concepts step by step for students, engineers, technicians, and curious minds.\n\n\ud83d\udce7 For any queries contact me at: \ud835\udc33\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc21\ud835\udc2b\ud835\udc1a\ud835\udc25\ud835\udc1c\ud835\udc28\ud835\udc1d\ud835\udc1e@\ud835\udc20\ud835\udc26\ud835\udc1a\ud835\udc22\ud835\udc25.\ud835\udc1c\ud835\udc28\ud835\udc26",
+   "username": "ZenthralCode",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/6N1PGn-bHbnq8ctVwKUOoECnR0qc7Cgrd-LDRNG0L11jG9nnILy9kd6dE9uHugY9yxDAgg-N=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-02-11",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "2d_animation",
+   "editingVoice": "human",
+   "outlierScore": 0.34,
+   "tags": [
+    "engineering",
+    "science",
+    "tech",
+    "educational"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 23700,
+    "monthlyRevenue": 2151.86,
+    "monthlyViews": 1445755,
+    "totalViews": 4675798,
+    "totalVideos": 349,
+    "avgViewsPerVideo": 22983.17,
+    "medianViewsPerVideo": 4000,
+    "avgVideoLength": 624.75,
+    "uploadsPerWeek": 3.25,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.4884
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "2zFnPI-cMYM",
+     "video_title": "Why 3-Phase Motors Have 6 Terminals but Only 3 Supply Wires?",
+     "video_view_count": 227000,
+     "video_upload_date": "2026-10-10T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2zFnPI-cMYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM91s42vkDCND3KERxCwZbg7T6Eg",
+     "length_text": "11:02"
+    },
+    {
+     "video_id": "GUF0eRC5ZrQ",
+     "video_title": "Why Does Europe Use 50 Hz Instead of 60 Hz?",
+     "video_view_count": 188000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/GUF0eRC5ZrQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaHUF6CgCrsHIV3vy2QajGKybIvQ",
+     "length_text": "10:06"
+    },
+    {
+     "video_id": "bdJfkIWDmD0",
+     "video_title": "Neutral Wire Complete Guide: The Hidden Danger Most People Ignore",
+     "video_view_count": 162000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bdJfkIWDmD0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDD3_i-FYpdAehal2N48M7fQUeNUg",
+     "length_text": "16:07"
+    },
+    {
+     "video_id": "3QVAuoydeD0",
+     "video_title": "Stranded Wire vs Solid Wire: Which One Is Better?",
+     "video_view_count": 158000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/3QVAuoydeD0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCbbVXqzoYRiB0WHKs19B97-ydrw",
+     "length_text": "12:38"
+    },
+    {
+     "video_id": "_F896X42owE",
+     "video_title": "Why Is the North American Power Grid 60 Hz?",
+     "video_view_count": 149000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_F896X42owE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9L4A31nyHI4g0E3_2ZKuJ2wczvA",
+     "length_text": "9:36"
+    }
+   ],
+   "score": 0.7004449367523193,
+   "createdAt": "2026-09-15T16:45:30.462677",
+   "updatedAt": "2026-10-19T21:02:34.501476"
+  },
+  {
+   "ytChannelId": "UCvakngZoicXBAM508WCxXOA",
+   "title": "Simply Explained",
+   "description": "Welcome to Simply Explained \u2014 The channel that makes technology easy for everyone!\nWe take complex tech topics and turn them into clear, simple, and fun explanations. From computers and programming to AI, the internet, and gadgets, every video breaks down the tech you use every day \u2014 in just a few minutes.\nWhether you\u2019re a student, a beginner, or just curious about how things work, this is your one-stop channel for learning technology without confusion.\nIf you love tech explained simply, short educational videos, and want to get smarter in minutes, you\u2019re in the right place.\n\nFor Business \nContact : karaf3244@gmail.com \n\n28/10/25 -----  10 Subs \n19/11/25 -----   50 Subs \n24/11/25 ----- 100 Subs",
+   "username": "simplyexplained56",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/kW_M9A7kmu1RnCmHQNQl_7T_p_khwWqUlAEvIPnB8ZwOuSpgAeH5m2TjziiTIyl_XxI3Y5Ontg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-09-17",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "mixed",
+   "editingVoice": "human",
+   "outlierScore": 0,
+   "tags": [
+    "tech",
+    "computers",
+    "programming",
+    "education"
+   ],
+   "googleTrendsKeyword": "technology explained",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 529,
+    "monthlyRevenue": 0,
+    "monthlyViews": 9259,
+    "totalViews": 105880,
+    "totalVideos": 38,
+    "avgViewsPerVideo": 3578.25,
+    "medianViewsPerVideo": 1050,
+    "avgVideoLength": 275.31,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-13",
+    "rpm": {
+     "base": 6.8,
+     "total": 0.5551
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "kkUu1TmkAoY",
+     "video_title": "Every Type Of Keyboard Explained in 3 Minutes",
+     "video_view_count": 28000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kkUu1TmkAoY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoLw_LR5FZ60KmmXxXhS_kYRywlQ",
+     "length_text": "3:20"
+    },
+    {
+     "video_id": "l5uWb_-Zves",
+     "video_title": "Every Computer Component Explained In 3 Minutes",
+     "video_view_count": 9700,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/l5uWb_-Zves/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3SbC6pM7HcinmxIErB6nZj1aUYg",
+     "length_text": "3:34"
+    },
+    {
+     "video_id": "z9szc-VeO84",
+     "video_title": "DON'T Buy a GPU Until You Watch THIS!",
+     "video_view_count": 5300,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/z9szc-VeO84/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwdFOwzhvEWX8Kt-g0NDT9cF7zGw",
+     "length_text": "9:44"
+    },
+    {
+     "video_id": "HGoJ8VUhJQM",
+     "video_title": "Every Coolers Explained in 4 Minutes",
+     "video_view_count": 3400,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HGoJ8VUhJQM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx8ZPTIP-wTCzZXYsKHFQorW6dtg",
+     "length_text": "4:20"
+    },
+    {
+     "video_id": "4RV2ABRbvsE",
+     "video_title": "Every Controller Explained in 4 Minutes",
+     "video_view_count": 2700,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4RV2ABRbvsE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZBlI-1ojwg6u2uW7wc1AHwP6SZQ",
+     "length_text": "4:24"
+    }
+   ],
+   "score": 0.6936904191970825,
+   "createdAt": "2026-09-26T23:23:51.888859",
+   "updatedAt": "2026-10-19T22:08:28.000753"
+  },
+  {
+   "ytChannelId": "UCwTclGzjgQX15IrvMzUTIGw",
+   "title": "\u00bfC\u00f3mo Funciona?",
+   "description": "Tecnolog\u00eda, ciencia e ingenier\u00eda explicadas de manera f\u00e1cil y entretenida.",
+   "username": "C\u00f3moFuncionaExplicado",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/uoDeJvUTLLn-7czyJoHW-bAkQeLlh-smjvDsKAkrnOGy2Jgwt5i_2nLqA2KhVMTv-RkoYf7l=s160-c-k-c0x00ffffff-no-rj",
+   "location": "BR",
+   "channelCreationDate": "2026-06-23",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "es",
+   "editingStyle": "2d_animation",
+   "editingVoice": "human",
+   "outlierScore": 0.28,
+   "tags": [
+    "science",
+    "tech",
+    "engineering",
+    "future & discoveries"
+   ],
+   "googleTrendsKeyword": "c\u00f3mo funciona",
+   "category": {
+    "id": 186,
+    "name": "science"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 2340,
+    "monthlyRevenue": 67.85,
+    "monthlyViews": 42457,
+    "totalViews": 437627,
+    "totalVideos": 35,
+    "avgViewsPerVideo": 12479.71,
+    "medianViewsPerVideo": 815,
+    "avgVideoLength": 636.26,
+    "uploadsPerWeek": 1.75,
+    "firstVideoDate": "2026-07-19",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 4.1,
+     "total": 1.5982
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "vWm8Z8gd0Ok",
+     "video_title": "How Does an Air Conditioner Work? Explained in 8 Minutes",
+     "video_view_count": 355000,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vWm8Z8gd0Ok/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpE6mkzCWLOKb1gCwP_71obo8IHg",
+     "length_text": "7:25"
+    },
+    {
+     "video_id": "jBBztNKxEoc",
+     "video_title": "How Does WiFi Work? Explained in 9 Minutes",
+     "video_view_count": 38000,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jBBztNKxEoc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPB566XB0HqzFWSRvXjIfZBLNfJg",
+     "length_text": "9:50"
+    },
+    {
+     "video_id": "gdMwh-1OMXU",
+     "video_title": "\u00bfPor Qu\u00e9 el Ventilador NO Enfr\u00eda el Aire? As\u00ed Funciona en Realidad",
+     "video_view_count": 11000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/gdMwh-1OMXU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASXjGuP-_6PUcvxh-lPJuvJlE71Q",
+     "length_text": "12:21"
+    },
+    {
+     "video_id": "cLOz08T16F8",
+     "video_title": "How Does Radio Work? AM vs. FM Explained Simply",
+     "video_view_count": 5200,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/cLOz08T16F8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYLj0KNQkzYlJoyJE4QNmi1Z8dVg",
+     "length_text": "10:18"
+    },
+    {
+     "video_id": "mByP6aMF6G0",
+     "video_title": "How Do Lithium Batteries Work? The Reason Why They Lose Capacity",
+     "video_view_count": 2600,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mByP6aMF6G0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaBcLhjMgsz1-DSZ14eMIIWBR6yw",
+     "length_text": "9:20"
+    }
+   ],
+   "score": 0.6898460388183594,
+   "createdAt": "2026-10-01T11:53:30.205320",
+   "updatedAt": "2026-10-19T22:55:15.647253"
+  },
+  {
+   "ytChannelId": "UCMXN-53SCPpYxmYSvFOjz2g",
+   "title": "The Apprentice's Guide",
+   "description": "The animated electrician school \u2014 from your first day as an apprentice to your journeyman card.\n\nEvery lesson is built the way a good journeyman teaches: what's actually happening in the wire, why the code says what it says, and what it looks like on a real job. Clean animated diagrams, no fluff, no shaky phone footage of a panel.\n\nThe plan:\n\u2022 Fundamentals \u2014 electricity from zero, properly explained\n\u2022 Residential Wiring \u2014 what's inside the walls and why\n\u2022 Code & Exam Prep \u2014 NEC, load calcs, and your journeyman test\n\u2022 The Trade \u2014 tools, job sites, licensing, and how to actually get in\n\nNew lesson every week. Watch in order, or jump to what you need.\n\nEducational content only. Electrical work can injure or kill \u2014 always de-energize and verify, and hire a licensed electrician for work in your home.",
+   "username": "theapprenticesguide",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/5nQvYSgY5eS7psDXfqOTLmvpaagp4B6dT2ytiGkzWefbeC4Qs9b6Pu3EVB47ESfUeqfg1NHAdfg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-20",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "2d_animation",
+   "editingVoice": "human",
+   "outlierScore": 9.26,
+   "tags": [
+    "engineering",
+    "science",
+    "education",
+    "tech"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 5210,
+    "monthlyRevenue": 1014.77,
+    "monthlyViews": 380677,
+    "totalViews": 863654,
+    "totalVideos": 8,
+    "avgViewsPerVideo": 173320,
+    "medianViewsPerVideo": 10000,
+    "avgVideoLength": 851.4,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2026-09-19",
+    "lastVideoDate": "2026-10-10",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.6657
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ffO4xVOU1oI",
+     "video_title": "Volts, Amps & Watts Explained \u2014 and Which One Kills You",
+     "video_view_count": 786000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ffO4xVOU1oI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZqznr8J9tEgXOayOSZkscZ1Z3UQ",
+     "length_text": "13:00"
+    },
+    {
+     "video_id": "MIuiZtAWm7s",
+     "video_title": "How Electricity Actually Flows (What's Really Moving in a Wire)",
+     "video_view_count": 68000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/MIuiZtAWm7s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTvZeXgxuCvq1pbtxyywEGoz2sPQ",
+     "length_text": "9:10"
+    },
+    {
+     "video_id": "pnK_OEpissI",
+     "video_title": "Series vs Parallel Circuits Explained \u2014 Why One Dead Bulb Kills Everything",
+     "video_view_count": 10000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pnK_OEpissI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB-M-hbQajlncEX76QvoXnyIFdhw",
+     "length_text": "14:02"
+    },
+    {
+     "video_id": "LOFpw6uyYjQ",
+     "video_title": "Half Your House Went Dark. The Dark Half Is Still Live.",
+     "video_view_count": 1600,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/LOFpw6uyYjQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxqYv9qui8NpNPpCdVuqw-Gt7u7w",
+     "length_text": "18:14"
+    },
+    {
+     "video_id": "8nwE0Jq202o",
+     "video_title": "Why Did Only One Breaker Trip?",
+     "video_view_count": 1000,
+     "video_upload_date": "2026-10-10T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8nwE0Jq202o/hq720_custom_2.jpg?sqp=CNDU2tYG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhZ4RUp2eNXGS4zwH0MNDvmk0O7g",
+     "length_text": "16:31"
+    }
+   ],
+   "score": 0.6836855411529541,
+   "createdAt": "2026-10-06T12:36:25.506761",
+   "updatedAt": "2026-10-19T23:40:19.469296"
+  },
+  {
+   "ytChannelId": "UCuUJB7dvJPNK9YofuzHcESw",
+   "title": "Generator experiments",
+   "description": "Hello and welcome to my Generator Experiences channel.",
+   "username": "Generatorexperiments",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/k4cW6VpwuE8_WOISjhvNuQhvjGsQrd6xvVY_Ah9qOPhjUuOhqgVXDVYRu8yU-mOmzeW3NEpIPCg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2024-03-12",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.2,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "do it yourself",
+    "science"
+   ],
+   "googleTrendsKeyword": "generators",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 12000,
+    "monthlyRevenue": 0,
+    "monthlyViews": 23840,
+    "totalViews": 1774224,
+    "totalVideos": 43,
+    "avgViewsPerVideo": 40986.05,
+    "medianViewsPerVideo": 12000,
+    "avgVideoLength": 2315.02,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2025-11-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.5864
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "aWIHAA7pjAU",
+     "video_title": "Generator experiments  220 v 15000 w //New generator experiments.How to do it in the simplest cases?",
+     "video_view_count": 425000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/aWIHAA7pjAU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCjxixJsWDm6C6kENZdye-E-L5uoA",
+     "length_text": "32:08"
+    },
+    {
+     "video_id": "4L3XISdyaj4",
+     "video_title": "7 EASY Generator Hacks You Need to Know",
+     "video_view_count": 383000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4L3XISdyaj4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAe1PXWwD0R-g20fCngiISVOme2gA",
+     "length_text": "1:06:32"
+    },
+    {
+     "video_id": "mIVVZzWXMPw",
+     "video_title": "220 v 9000 w Free energy generator\\\\New generator experiments\\\\How to do it in the simplest cases?",
+     "video_view_count": 259000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mIVVZzWXMPw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCNMMSfKLTD4Lu6Uc5ZKBoKbJnuVw",
+     "length_text": "31:02"
+    },
+    {
+     "video_id": "Kl6Q1SGGPsc",
+     "video_title": "Generator experiments  220 v 10000 w //New generator experiments.How to do it in the simplest cases?",
+     "video_view_count": 84000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Kl6Q1SGGPsc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDbiUTTPNGDE_dqT5FpGUIuOvoaJQ",
+     "length_text": "1:02:36"
+    },
+    {
+     "video_id": "3SAUZWRVzRg",
+     "video_title": "7 EASY Generator Hacks You Need to Know",
+     "video_view_count": 78000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/3SAUZWRVzRg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6JaxvxHgzVjaG-grksMVEUFK_1Q",
+     "length_text": "1:13:54"
+    }
+   ],
+   "score": 0.6826599836349487,
+   "createdAt": "2024-07-02T08:52:32.434946",
+   "updatedAt": "2026-10-19T10:41:07.070872"
+  },
+  {
+   "ytChannelId": "UCnOW3Q-L-NG-wV1CWRA0bag",
+   "title": "The Electric Brit",
+   "description": "Geordie Electrical Engineer with a passion for learning and teaching. I'm sharing insights into the UK National Infrastructure and Energy System, as well as the history and theory behind it all to hopefully inspire the next generation of Engineers, and to give the curious among us something to watch on an evening.",
+   "username": "TheElectricBrit",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/-lB8B4FqlK4DtLxDf6A7kLRUsSW9osAB2WuZOz1hx9cq4wFLHYEcsFDUtxfZrLMhHsL_W9pr9zU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2024-06-04",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.3,
+   "tags": [
+    "engineering",
+    "tech",
+    "education",
+    "renewable energy"
+   ],
+   "googleTrendsKeyword": "Power Grid",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 24200,
+    "monthlyRevenue": 57.1,
+    "monthlyViews": 25165,
+    "totalViews": 1054828,
+    "totalVideos": 33,
+    "avgViewsPerVideo": 48404.76,
+    "medianViewsPerVideo": 34000,
+    "avgVideoLength": 1279.76,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.2692
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "DK8mw07DcPQ",
+     "video_title": "How a 0.2Hz Wave Took Down Two Countries\u2019 Power Grids",
+     "video_view_count": 180000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/DK8mw07DcPQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcV59zkfrxTXwRv_d_eJQerr9N9A",
+     "length_text": "29:35"
+    },
+    {
+     "video_id": "BhzPjGiBjMk",
+     "video_title": "Everything about HVDC - Explained by an Engineer - Introduction",
+     "video_view_count": 160000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/BhzPjGiBjMk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVbCazE9NlDZsPn_PE2Lr4CHTgVg",
+     "length_text": "43:56"
+    },
+    {
+     "video_id": "22T9-oknmLM",
+     "video_title": "How to Restart the Grid after total collapse",
+     "video_view_count": 153000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/22T9-oknmLM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxZXjImv0ri9iHS6j7lOfum1bwtg",
+     "length_text": "24:02"
+    },
+    {
+     "video_id": "_Ypsc8iruc8",
+     "video_title": "Why the Electricity Board Hid a WW1 Tank",
+     "video_view_count": 78000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_Ypsc8iruc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBiriO2CIQBKrHF9oC4F2i3UvwbFg",
+     "length_text": "3:25"
+    },
+    {
+     "video_id": "pyrtqRxJt90",
+     "video_title": "Why Transformers Fail (and How to Prevent It)",
+     "video_view_count": 68000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pyrtqRxJt90/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAo_JlPevX_HmC2v7jPNly0rPdd5Q",
+     "length_text": "12:30"
+    }
+   ],
+   "score": 0.6825347542762756,
+   "createdAt": "2025-06-18T18:14:53.671698",
+   "updatedAt": "2026-10-19T17:20:46.191001"
+  },
+  {
+   "ytChannelId": "UCXnqxs5yX3F-lMf8lzWNrdA",
+   "title": "Eric Explains",
+   "description": "",
+   "username": "EricExplainsYT",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/MbXfH0AN24_94YbBrRVUpaLMlJIQRzXLEOvVINO0VWfsy6quKcxG8xoY7cEK_TTa5g-cSj5m=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-02-23",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.16,
+   "tags": [
+    "engineering",
+    "tech",
+    "science",
+    "education"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 17700,
+    "monthlyRevenue": 175.99,
+    "monthlyViews": 85107,
+    "totalViews": 972614,
+    "totalVideos": 135,
+    "avgViewsPerVideo": 7123.47,
+    "medianViewsPerVideo": 1700,
+    "avgVideoLength": 1395.21,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-04-19",
+    "lastVideoDate": "2026-08-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.0679
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "cGloedjeltI",
+     "video_title": "Every Type of Antenna Explained",
+     "video_view_count": 180000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/cGloedjeltI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjHu5LQBhjg6gQg4KgB&rs=AOn4CLBlR-wZjjgDGhPzFPBIi8-L9Pt7mQ&usqp=CBU",
+     "length_text": "17:31"
+    },
+    {
+     "video_id": "ltvHdF2TO8w",
+     "video_title": "How Electric Current Works Explained Simply",
+     "video_view_count": 114000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ltvHdF2TO8w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjOptPPBhjg6gQg4KgB&rs=AOn4CLDh9mAG_k2lKI1FYMHNGRlMRQQbBA&usqp=CBU",
+     "length_text": "18:01"
+    },
+    {
+     "video_id": "mxJWUrdqZrg",
+     "video_title": "Every Type of Voltage Regulator Explained",
+     "video_view_count": 69000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mxJWUrdqZrg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgiExMPQBhjg6gQg4KgB&rs=AOn4CLCE2J0f_UatAmSWSjNGCwF_aULjWg&usqp=CBU",
+     "length_text": "22:01"
+    },
+    {
+     "video_id": "8PI_vP4TBfA",
+     "video_title": "Every Type of Microcontroller Explained",
+     "video_view_count": 51000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8PI_vP4TBfA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgixyqPPBhjg6gQg4KgB&rs=AOn4CLB53nJ_nBS_89KyKLYTBtOwefWzig&usqp=CBU",
+     "length_text": "20:02"
+    },
+    {
+     "video_id": "zGno2qRsQqY",
+     "video_title": "Every Type of Electric Motor Explained",
+     "video_view_count": 42000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/zGno2qRsQqY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgj_obPPBhjg6gQg4KgB&rs=AOn4CLBK5C7s2_oHfbDgEASl6VOTcispUQ&usqp=CBU",
+     "length_text": "21:00"
+    }
+   ],
+   "score": 0.6818289160728455,
+   "createdAt": "2026-05-12T00:43:18.356751",
+   "updatedAt": "2026-10-19T19:17:00.679193"
+  },
+  {
+   "ytChannelId": "UCgxX-K8r74tR9Yo6cOop3tQ",
+   "title": "Wired Wonders",
+   "description": "\u26a1 Welcome to our channel, where we explore the fascinating world of electricity!\n\n \u26a1 Whether you're an aspiring electrician, a student, or simply curious about electrical systems, we offer insightful content designed to educate and inspire. \n\n\ud83d\udca1 From basic principles to advanced applications, we break down complex topics into easy-to-understand lessons. \n\n\ud83d\udd0c Join us for tutorials, tips, and in-depth explanations that will help you master the concepts of electricity. Stay connected and power up your knowledge! \u2699\ufe0f",
+   "username": "WiredWonders-y3v",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/mkooPaIPN1oyMUzMrfeaP9nhPWQzEqoctCW-Nni1hS0EjtjHtErTFa2pFpNAEqJ-lEaL2G1kwgM=s160-c-k-c0x00ffffff-no-rj",
+   "location": "VN",
+   "channelCreationDate": "2024-10-24",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.76,
+   "tags": [
+    "engineering",
+    "tech",
+    "science",
+    "space & exploration"
+   ],
+   "googleTrendsKeyword": "Electricity",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1710,
+    "monthlyRevenue": 87.17,
+    "monthlyViews": 38728,
+    "totalViews": 359705,
+    "totalVideos": 10,
+    "avgViewsPerVideo": 35840,
+    "medianViewsPerVideo": 12950,
+    "avgVideoLength": 982.1,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.2509
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "Pz1gIIEKMEQ",
+     "video_title": "High Voltage Electrical Failures: Dare to Watch the Shocking Truth?",
+     "video_view_count": 208000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Pz1gIIEKMEQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWsjtanwTtvfidaKthaBNvMgXDtg",
+     "length_text": "27:15"
+    },
+    {
+     "video_id": "OW6SDKPBmCk",
+     "video_title": "Shocking High-Voltage Disaster: Transformers Explode in Fiery Chaos!",
+     "video_view_count": 64000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OW6SDKPBmCk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7iwbq6bt2_UjyRtcz6cPtDR6w4A",
+     "length_text": "26:44"
+    },
+    {
+     "video_id": "AT5sXn-4VIg",
+     "video_title": "Shocking Secrets Behind High-Voltage Insulators! \u26a1\ufe0f\ud83d\udd0d",
+     "video_view_count": 22000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/AT5sXn-4VIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfKBkFFhA1T_nR77PydtscR2Fp7Q",
+     "length_text": "17:38"
+    },
+    {
+     "video_id": "iVHKWpI_3QY",
+     "video_title": "High Voltage Fuse Arc EXPLOSIONS You Won't Believe!",
+     "video_view_count": 20000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/iVHKWpI_3QY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhWdn6G9F8dRqt6vNuYvoIKNOezQ",
+     "length_text": "15:03"
+    },
+    {
+     "video_id": "bCxOBbWzerk",
+     "video_title": "SHOCKING High Voltage Accidents You Need to See to Believe!",
+     "video_view_count": 16000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bCxOBbWzerk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK5kE3Z7aIflydrQhP7j88cHOTNQ",
+     "length_text": "15:25"
+    }
+   ],
+   "score": 0.6806143522262573,
+   "createdAt": "2025-12-18T00:48:20.810342",
+   "updatedAt": "2026-10-19T18:16:08.177181"
+  },
+  {
+   "ytChannelId": "UCvObaOPoaXH45uGUhDbGHxg",
+   "title": "Electro Academy",
+   "description": "Welcome to The Electro Academy.!\n\nThis channel is designed primarily for students of Electrical Engineering and Electrotechnology, helping you master the concepts that often cause confusion. \nComplex topics are explained in a simple, clear, and engaging way, making learning easier and more enjoyable.\n\nBut it\u2019s not just for students\u2014professionals working in the field, as well as those looking to update or expand their knowledge, will also find great value here.\n\nWe invite you to support our channel by becoming a Sponsor or Patron. \nYour contributions will help us continue creating high-quality, educational content. \nSimply click the link on this page to \"Become a Patron.\"\n\nYour support is greatly appreciated.! \nStay with us, and enjoy expertly explained theoretical videos made just for you.",
+   "username": "ElectroAcademyEA",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/AKJ7WL7DhlAtu3jDlhjQ3iUotr32VVrkfJ-AOa4-cJ8p75Mfh6PjZG31giHHobpmA6TFFi_yjZQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "LK",
+   "channelCreationDate": "2021-05-10",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.6,
+   "tags": [
+    "engineering",
+    "tech & gadgets",
+    "education",
+    "science"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 43700,
+    "monthlyRevenue": 0,
+    "monthlyViews": 98642,
+    "totalViews": 3303903,
+    "totalVideos": 57,
+    "avgViewsPerVideo": 58194.53,
+    "medianViewsPerVideo": 16000,
+    "avgVideoLength": 492.76,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2021-10-19",
+    "lastVideoDate": "2026-05-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.2444
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "WKh5D4jTwKQ",
+     "video_title": "ATS panel wiring / Automatic Changeover Switch for Generator / Automatic Transfer Switch",
+     "video_view_count": 604000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WKh5D4jTwKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6116cU-yXXHwWyLmttKZY_IjHNA",
+     "length_text": "10:02"
+    },
+    {
+     "video_id": "nyH-ewbzf9c",
+     "video_title": "How to Run a 3-Phase Motor on Single-Phase Supply / 250K+ View Tutorial",
+     "video_view_count": 300000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/nyH-ewbzf9c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrHqwmkbt7A5Zlb4d4uRLOBUIzeA",
+     "length_text": "7:21"
+    },
+    {
+     "video_id": "d2UC56t0Ux4",
+     "video_title": "\u26a1 Surge Protection Device (SPD) | Working Principle & Installation Explained",
+     "video_view_count": 252000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/d2UC56t0Ux4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEWS2TxhQuHC5GtsjZkMeYEyUArg",
+     "length_text": "10:57"
+    },
+    {
+     "video_id": "82kSAOOcouA",
+     "video_title": "How ATS Starts Your Generator Automatically (No Manual Switching!)",
+     "video_view_count": 195000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/82kSAOOcouA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoGSF4vxD7w_G7lUAVyw55jb1rIA",
+     "length_text": "14:57"
+    },
+    {
+     "video_id": "WnQh-J0rRYg",
+     "video_title": "Single phase Induction Motor / Capacitor start capacitor run motor / Best video for you to learn.!\ud83d\ude0d\ud83d\udcaa",
+     "video_view_count": 162000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WnQh-J0rRYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaHtLyOWQLwcHSB8lX-QlVONR_wA",
+     "length_text": "7:52"
+    }
+   ],
+   "score": 0.6805410981178284,
+   "createdAt": "2023-08-19T08:29:31.901313",
+   "updatedAt": "2026-10-19T07:50:43.129263"
+  },
+  {
+   "ytChannelId": "UC98F9ZQL0B2EBOfK9uabN4Q",
+   "title": "Watt Cars",
+   "description": "Would you like to maximize your electric vehicle's performance and extend its battery life? You're in the right place! On this channel, we share detailed and easy-to-understand information about common charging, usage, and maintenance mistakes made by EV owners. In each video, we provide the most up-to-date and useful information that electric vehicle users need to know. Don't forget to subscribe to get accurate information about EV technology, avoid unnecessary expenses, and enjoy your journeys to the fullest!\n\nWhat you'll find on our channel:\n\nMethods to maintain battery health\n\nCommon charging mistakes and correct practices\n\nElectric vehicle maintenance tips and secrets for long-lasting use",
+   "username": "WattCars",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/i4Eg5e-QukcsqMg1FicbPkmPvLEYVTMMmFalLRUlCYFjBagoGxnKs21BP1ta-a7W0LduzNDSDRs=s160-c-k-c0x00ffffff-no-rj",
+   "location": "TR",
+   "channelCreationDate": "2025-07-31",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.49,
+   "tags": [
+    "automotive business",
+    "technology",
+    "environment",
+    "tech gadgets"
+   ],
+   "googleTrendsKeyword": "Electric Cars",
+   "category": {
+    "id": 69,
+    "name": "automotive business"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 3560,
+    "monthlyRevenue": 182.51,
+    "monthlyViews": 70731,
+    "totalViews": 817987,
+    "totalVideos": 12,
+    "avgViewsPerVideo": 68293.25,
+    "medianViewsPerVideo": 1550,
+    "avgVideoLength": 506.08,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-12",
+    "rpm": {
+     "base": 4,
+     "total": 2.5803
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "xrTWkPcGh8c",
+     "video_title": "5 Battery-Killing Mistakes Every EV Owner Makes",
+     "video_view_count": 790000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xrTWkPcGh8c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfyApg6NoK0uHcOadeLH93OiCRtA",
+     "length_text": "8:25"
+    },
+    {
+     "video_id": "ERDRRQhorcU",
+     "video_title": "5 EV Habits Secretly Draining Your Battery \u2013 Avoid These Mistakes!",
+     "video_view_count": 9600,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ERDRRQhorcU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAIFhnKqESJk30TRY6scvmBmg8zAw",
+     "length_text": "8:17"
+    },
+    {
+     "video_id": "PCmsaEfn18o",
+     "video_title": "5 Big Mistakes EV Owners Make Without Realizing",
+     "video_view_count": 7300,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PCmsaEfn18o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCjtcexdfCdESnVTCoxXmuqU0cqrg",
+     "length_text": "8:17"
+    },
+    {
+     "video_id": "ZihyE9yDGbo",
+     "video_title": "5 Mistakes That Are Secretly Killing Your Electric Car",
+     "video_view_count": 3600,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ZihyE9yDGbo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDoYlONTNlPr68MGPefLemcJOSlkg",
+     "length_text": "8:03"
+    },
+    {
+     "video_id": "_IooyzwKijw",
+     "video_title": "5 Accessories You Should NEVER Put on Your EV!",
+     "video_view_count": 2300,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_IooyzwKijw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6_ExOd3rxvUGfcQUG3Ucs1YSsiw",
+     "length_text": "9:01"
+    }
+   ],
+   "score": 0.6763889193534851,
+   "createdAt": "2025-12-06T18:30:42.205167",
+   "updatedAt": "2026-10-19T18:12:34.045582"
+  },
+  {
+   "ytChannelId": "UCHLkHTF8k6PvjkpUStYUvKQ",
+   "title": "Cal Watts",
+   "description": "When the power drops tonight, does your setup actually run the fridge, the well pump, and the medical gear? That's the only question this channel answers.\n\nJust straight talk on power stations, generators, home batteries and solar \u2014 what's built well, what's overpriced, and what quietly fails the night you need it.",
+   "username": "CalWattsYT",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/UcWCSOba2idsYVieiRnbEnrYsaAWp4Wuf0n72-gIhdW7jwKdaF7dMg4Z5UG3o7FfnPtDD07g6w=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2015-11-10",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": null,
+   "outlierScore": 1.12,
+   "tags": [
+    "business",
+    "tech",
+    "autos",
+    "e-commerce"
+   ],
+   "googleTrendsKeyword": "solar generators",
+   "category": {
+    "id": 53,
+    "name": "business"
+   },
+   "format": {
+    "id": 10,
+    "name": "reviews"
+   },
+   "stats": {
+    "subscribers": 8430,
+    "monthlyRevenue": 920.73,
+    "monthlyViews": 263879,
+    "totalViews": 1157183,
+    "totalVideos": 67,
+    "avgViewsPerVideo": 17190.79,
+    "medianViewsPerVideo": 3800,
+    "avgVideoLength": 1411.18,
+    "uploadsPerWeek": 4.75,
+    "firstVideoDate": "2026-07-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 9.4,
+     "total": 3.4892
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ZM61-HYNWZ0",
+     "video_title": "Tesla's New Powerwall 3 Has Ended the Standby Generator Business Forever!",
+     "video_view_count": 284000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ZM61-HYNWZ0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6DrmlaxT5t3AIXHZl2t7XKPrgxw",
+     "length_text": "26:07"
+    },
+    {
+     "video_id": "eQKDgiKTsWU",
+     "video_title": "PROVEN Habits to Make Your Power Station LAST Over 10 Years WITHOUT Repairs!",
+     "video_view_count": 212000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/eQKDgiKTsWU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsYEZjoinPeLF0CKeD5amP5dak_Q",
+     "length_text": "32:12"
+    },
+    {
+     "video_id": "KiRNWj5LExU",
+     "video_title": "MILLIONS Of Americans Are RETURNING Their NEW Power Stations In 2026  - Here is Why",
+     "video_view_count": 142000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KiRNWj5LExU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyBHmsN_ZHDSUeuV8rDBjHUznZtw",
+     "length_text": "24:01"
+    },
+    {
+     "video_id": "V3rTmNcXB5I",
+     "video_title": "5 Dirt Cheap Power Station's Nobody Wants in 2026 - ROTTING IN WAREHOUSES",
+     "video_view_count": 56000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/V3rTmNcXB5I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHlVrGfPND_EjPZB7sw7hf1zVZ_A",
+     "length_text": "26:44"
+    },
+    {
+     "video_id": "9P1JhC1ibpI",
+     "video_title": "I Don't Fix Power Stations. These Are the Only 2 I'd Buy.",
+     "video_view_count": 55000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/9P1JhC1ibpI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1skPAdRVPEQcej9CZt7_fOmqsGQ",
+     "length_text": "28:19"
+    }
+   ],
+   "score": 0.6759181022644043,
+   "createdAt": "2026-08-22T18:14:35.039529",
+   "updatedAt": "2026-10-19T20:25:53.245832"
+  },
+  {
+   "ytChannelId": "UCHfnKsdsCIjmpta2Dwgy0RA",
+   "title": "Ak Electric DIY",
+   "description": "Hi viewers, I am Ahmed Khan, and made the Youtube channel for you to learn anything about Electrical, Electronics & solar field.In this channel you will watch videos based on electronics, electric and DIY projects step by step and with complete guidance.You can Do it Yourself and make the projects at home everywhere easily.",
+   "username": "akelectricdiy",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/R5uwUK0lw0RNhR1MbIo72JhJWnOkM66HfmpChIwUVr-YDs5hFHaZjBtNh-gRMhV9RFiMEQwd=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2022-02-01",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.1,
+   "tags": [
+    "tech",
+    "engineering",
+    "energy",
+    "online business"
+   ],
+   "googleTrendsKeyword": "Solar",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 161000,
+    "monthlyRevenue": 1583.91,
+    "monthlyViews": 608098,
+    "totalViews": 143542520,
+    "totalVideos": 493,
+    "avgViewsPerVideo": 19895.99,
+    "medianViewsPerVideo": 3700,
+    "avgVideoLength": 635.05,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-10-09",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.6047
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "wqFPfTm0E0g",
+     "video_title": "hybrid solar system| hybrid off grid system| off grid solar system| off grid hybrid solar inverter",
+     "video_view_count": 317000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/wqFPfTm0E0g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFnukHAx-gvbH_OhpLp-ldCwon6Q",
+     "length_text": "7:00"
+    },
+    {
+     "video_id": "UIH5cnCb-Uk",
+     "video_title": "12kW Solar System Explained Step-by-Step \u26a1 MPPT, PV Strings, Wiring & Safety Guide",
+     "video_view_count": 288000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UIH5cnCb-Uk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLGLFyom2pdgT5TRPGZlOEmlEWxQ",
+     "length_text": "28:06"
+    },
+    {
+     "video_id": "qcC9KEsnLvc",
+     "video_title": "Door Access Control system||access control,door access",
+     "video_view_count": 252000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qcC9KEsnLvc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7fahAa8CcH-JusYBGBY2KO6I7vA",
+     "length_text": "1:36"
+    },
+    {
+     "video_id": "CcQC2IUADJY",
+     "video_title": "How to Wire a 4 String PV Combiner Box \u2013 Combines Box Wiring for Your Solar Panels",
+     "video_view_count": 222000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/CcQC2IUADJY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0H9tVin-zdTzSvAv6M3N6TVZitw",
+     "length_text": "4:36"
+    },
+    {
+     "video_id": "llwKNIPP8Yg",
+     "video_title": "Install Your Own 8kW Hybrid Solar System! \ud83c\udf1e Step-by-Step Guide for Complete Beginners [Save BIG]",
+     "video_view_count": 184000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/llwKNIPP8Yg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCakCO4zrz1b7Uq5dC6v2lAA7kPg",
+     "length_text": "45:02"
+    }
+   ],
+   "score": 0.6743361949920654,
+   "createdAt": "2023-08-23T22:00:34.901844",
+   "updatedAt": "2026-10-19T08:03:12.826245"
+  },
+  {
+   "ytChannelId": "UCC0mkLLIgQHssDb-O1Pa7_A",
+   "title": "ElectronIshq",
+   "description": "Simplifying Electronics, One concept at a Time.",
+   "username": "Electronishq",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_l-4bsb3g6FCWtugNiIlAcdT7aSkQMpygZ7rlunTFAO-GLtvDFLSaQGq4RYBW2RfrH8tg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2025-11-23",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.28,
+   "tags": [
+    "engineering",
+    "physics",
+    "science",
+    "tech"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 2340,
+    "monthlyRevenue": 0,
+    "monthlyViews": 17716,
+    "totalViews": 152395,
+    "totalVideos": 24,
+    "avgViewsPerVideo": 6331.79,
+    "medianViewsPerVideo": 921.5,
+    "avgVideoLength": 447.62,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-12-20",
+    "lastVideoDate": "2026-09-20",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.8605
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "aOelJw5bREE",
+     "video_title": "Crystal Oscillator Fully Explained",
+     "video_view_count": 114000,
+     "video_upload_date": "2026-01-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/aOelJw5bREE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAFdFXdhVq5rl_vue_sodL8MMIWgA",
+     "length_text": "9:02"
+    },
+    {
+     "video_id": "qMd8TRw8xXI",
+     "video_title": "Loop Antenna Explained -  Basics, Types, Structure, Radiation, Properties, and Applications",
+     "video_view_count": 6900,
+     "video_upload_date": "2025-12-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qMd8TRw8xXI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBjNESd-gWJrnPtwtVn1_PgqF0FQA",
+     "length_text": "5:45"
+    },
+    {
+     "video_id": "_ofxpaixGWQ",
+     "video_title": "Helical Antenna Explained - Basics, Types, Structure, Radiation, Designing, Properties",
+     "video_view_count": 5800,
+     "video_upload_date": "2025-12-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_ofxpaixGWQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCe986uksZwxfJeh3uNuhZ6TFvdjg",
+     "length_text": "7:44"
+    },
+    {
+     "video_id": "f36W-rtEa1c",
+     "video_title": "Slot Antenna Explained - Basics, Structure, Operation, Working, Feeding Methods, Applications",
+     "video_view_count": 4200,
+     "video_upload_date": "2025-12-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/f36W-rtEa1c/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBjMTzNqkSx_mGBmXf_JgM9-O9xBQ",
+     "length_text": "6:58"
+    },
+    {
+     "video_id": "YZj9Ggw-gwk",
+     "video_title": "Yagi Uda Antenna - Basics, Types, Structure, Radiation, Designing, Properties Explained",
+     "video_view_count": 3600,
+     "video_upload_date": "2025-12-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/YZj9Ggw-gwk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCQAJajmshPz91FcdL6JOO5RR8rDQ",
+     "length_text": "6:33"
+    }
+   ],
+   "score": 0.6715267300605774,
+   "createdAt": "2026-10-17T14:13:26.094206",
+   "updatedAt": "2026-10-20T00:21:31.456063"
+  },
+  {
+   "ytChannelId": "UCqbyfPue9wwCrtPgoVBB6tw",
+   "title": "Comics Simplified",
+   "description": "Comics Simplified breaks down complex comic book stories, characters, and events into clear, easy-to-understand explanations. No hot takes, no drama \u2014 just straightforward comic lore from Marvel, DC, and beyond. Whether you\u2019re new to comics or a longtime fan, this channel helps you understand what happened, why it matters, and how it all connects.",
+   "username": "ComicsSimplified",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/S4pNhpUMDtY_Icawyigp8l_34mjCtj7MnXj_OhAQ7f5xw46aeYnQklHkTl_VWukCH3Mo0bU-=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-12-30",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "comics",
+    "animation",
+    "culture",
+    "movies"
+   ],
+   "googleTrendsKeyword": "comic book lore",
+   "category": {
+    "id": 14,
+    "name": "comics"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 375,
+    "monthlyRevenue": 0,
+    "monthlyViews": 8347,
+    "totalViews": 94574,
+    "totalVideos": 27,
+    "avgViewsPerVideo": 7175.5,
+    "medianViewsPerVideo": 843.5,
+    "avgVideoLength": 434.62,
+    "uploadsPerWeek": 0.25,
+    "firstVideoDate": "2026-02-20",
+    "lastVideoDate": "2026-09-29",
+    "rpm": {
+     "base": 1.6,
+     "total": 1.7873
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "SOOlMP9iLNs",
+     "video_title": "Doctor Doom Is WAY More Powerful Than You Think | Powers Explained Simply",
+     "video_view_count": 52000,
+     "video_upload_date": "2026-02-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/SOOlMP9iLNs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYlgcdoyam-TxLEBmrhwSrU974Vw",
+     "length_text": "7:53"
+    },
+    {
+     "video_id": "YWEHwPfC2hM",
+     "video_title": "Amazing Fantasy #15: The Birth of Spider-Man | Full Comic With Audio",
+     "video_view_count": 1600,
+     "video_upload_date": "2026-02-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/YWEHwPfC2hM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjtK3g0x2hhRB9EMjquNNEIddY_Q",
+     "length_text": "13:14"
+    },
+    {
+     "video_id": "KAKm9U8kEEk",
+     "video_title": "Juggernaut EXPLAINED: The Unstoppable Avatar of Cyttorak",
+     "video_view_count": 1300,
+     "video_upload_date": "2026-02-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KAKm9U8kEEk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD7Kp3CmJNLJNXLaIZQf4mnLgXUZA",
+     "length_text": "7:12"
+    },
+    {
+     "video_id": "l2GYWJp5g_w",
+     "video_title": "The TRUTH About Mr. Terrific: DC's Most Underrated Genius",
+     "video_view_count": 1100,
+     "video_upload_date": "2026-02-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/l2GYWJp5g_w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD8qX7HKU1skEBWRgXEgdBP40xt-A",
+     "length_text": "7:21"
+    },
+    {
+     "video_id": "UsMSy-eVOxY",
+     "video_title": "Absolute Batman Isn\u2019t What You Think (Explained Simply) | D.C. Comics",
+     "video_view_count": 587,
+     "video_upload_date": "2026-02-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UsMSy-eVOxY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB9EPautZKTLryoZQBwFSFXzBsp3w",
+     "length_text": "4:48"
+    }
+   ],
+   "score": 0.6707286834716797,
+   "createdAt": "2026-10-17T16:34:14.021972",
+   "updatedAt": "2026-10-20T00:22:41.021498"
+  },
+  {
+   "ytChannelId": "UCzVZctNSMucAoXwriDl358w",
+   "title": "Utility Design Simplified",
+   "description": "\ud83c\udfae Free Transformer Course is LIVE! Level up with quizzes, flashcards, and lessons: https://utility-transformer-academy.lovable.app/\n\nWelcome to Utility Design Simplified, where electric utility design becomes a game you can actually win.\n\nWhether you're a new designer, an engineer in training, or a pro brushing up, each video breaks down real-world topics into quick, clear lessons:\n\n\u26a1 Single phase transformers\n\u26a1 Pole loading\n\u26a1 CPUC rules (GO 95 and GO 128) for California \n\u26a1 Standards and project basics\n\nThen test yourself with the free courses and quizzes to lock in what you learned.\n\nCreated by a utility design professional with years of hands-on experience, this channel turns complex design concepts into skills you can use on the job.\n\n\ud83d\udd14 Subscribe and hit the bell to unlock new lessons.",
+   "username": "utilitydesignsimplified",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/Dlzz8BRpP-tn6CZ3_eP8mpQko6N4SfmwndKYVc64zCpgETsUASJ1Ee_LGVqElyaxNwmbX1d3Vw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-10-04",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "photo_documentary",
+   "editingVoice": "human",
+   "outlierScore": 0.24,
+   "tags": [
+    "engineering",
+    "infrastructure",
+    "education",
+    "energy"
+   ],
+   "googleTrendsKeyword": "utility design",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 1330,
+    "monthlyRevenue": 11.65,
+    "monthlyViews": 4738,
+    "totalViews": 66592,
+    "totalVideos": 22,
+    "avgViewsPerVideo": 3518,
+    "medianViewsPerVideo": 758,
+    "avgVideoLength": 673.76,
+    "uploadsPerWeek": 0.25,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-16",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.4583
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "K1DioCaP4Yo",
+     "video_title": "Three-Phase Power Distribution: Delta Configuration Explained",
+     "video_view_count": 17000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/K1DioCaP4Yo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXVeiGxNmjhA4B-oxa0WiIz3-7yQ",
+     "length_text": "17:05"
+    },
+    {
+     "video_id": "N1W-8iHoev8",
+     "video_title": "Three-Phase Transformers Explained | Delta vs Wye Basics",
+     "video_view_count": 16000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/N1W-8iHoev8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAcbbwuK97lrPWMrdeW-Y7HAjclg",
+     "length_text": "9:45"
+    },
+    {
+     "video_id": "J8hY6sH4cWw",
+     "video_title": "How Single-Phase Transformers Work | Why Your Home Gets Lower Voltage",
+     "video_view_count": 8900,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/J8hY6sH4cWw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC12NG_Ykjko5ox-NqT7Lu67s8e-A",
+     "length_text": "9:27"
+    },
+    {
+     "video_id": "LJvaxBGJ6HU",
+     "video_title": "Fuse Cutouts and Lightning Arresters: How They Save Power Lines",
+     "video_view_count": 5800,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/LJvaxBGJ6HU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_WgVH1wBkcUbXQDhFCnMjAyZFgw",
+     "length_text": "6:53"
+    },
+    {
+     "video_id": "ggiA11COZzQ",
+     "video_title": "Pole Loading Calculations Every Distribution Designer and Engineer Needs to Know",
+     "video_view_count": 4500,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ggiA11COZzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcxJH_Ue7F8vj1WZAfZRC4osywUQ",
+     "length_text": "21:04"
+    }
+   ],
+   "score": 0.6705617904663086,
+   "createdAt": "2026-09-18T10:38:40.812560",
+   "updatedAt": "2026-10-19T21:36:22.952533"
+  },
+  {
+   "ytChannelId": "UCWTfMsDoO0Rr6g-FP4kyX7A",
+   "title": "EL Tronic",
+   "description": "Welcome to my YouTube Channel..\n\nHere I share Single Phase & 3 Phase Wiring Diagrams, Motor Control Circuits, Electronic & Arduino Projects, Power Electronic Designs, Pneumatic & Automation Circuits, Sensor Projects, and even New Invention Ideas.\n\nMy main goal is to help you understand every circuit clearly, simply, and practically, so you can learn, build, and create with confidence.\u2764\ufe0f",
+   "username": "ELTronic3",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kA2ogV8BZ_XuL7PFlo42Yyx2nXOL2Z9k1HPYJhjdDjSA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "LK",
+   "channelCreationDate": "2021-02-03",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.24,
+   "tags": [
+    "engineering",
+    "education",
+    "tech gadgets",
+    "do it yourself"
+   ],
+   "googleTrendsKeyword": "Electrical Engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 21300,
+    "monthlyRevenue": 59.35,
+    "monthlyViews": 27797,
+    "totalViews": 2367348,
+    "totalVideos": 161,
+    "avgViewsPerVideo": 15371.85,
+    "medianViewsPerVideo": 2400,
+    "avgVideoLength": 284.77,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2021-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.135
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "BRf1j4KcWow",
+     "video_title": "Automatic Changeover Switch for Generator / ATS for Single phase Wiring / ATS  System for generator",
+     "video_view_count": 213000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/BRf1j4KcWow/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYF7OKBvfRuhyow6aOgek5l1zr2A",
+     "length_text": "8:21"
+    },
+    {
+     "video_id": "1Pybm_kScJE",
+     "video_title": "Double Capacitor Motor Connection | Capacitor Start Capacitor Running Motor | single phase motor",
+     "video_view_count": 184000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1Pybm_kScJE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF2g92d7M6OIcl8KsEDEwG1naXtA",
+     "length_text": "5:03"
+    },
+    {
+     "video_id": "c5T9Zmy9tRw",
+     "video_title": "Staircase Lighting System with Motion Sensor | PIR Motion Sensor How to wiring | Motion Detector",
+     "video_view_count": 141000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/c5T9Zmy9tRw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqiNWsnIa2-8bJbVUbjrk1zhPVFg",
+     "length_text": "2:11"
+    },
+    {
+     "video_id": "NUvxBtBFimo",
+     "video_title": "Relay Holding Circuit | Relay Latching Circuit Wiring | How to hold relay using push button switch",
+     "video_view_count": 139000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NUvxBtBFimo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqdTeUf0IdtlPq80RZobZ8Z3H6cA",
+     "length_text": "2:58"
+    },
+    {
+     "video_id": "dtEfO_b3YjU",
+     "video_title": "Temperature Controller Wiring Connection with Thermocouple Sensor and RTD Sensor",
+     "video_view_count": 137000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dtEfO_b3YjU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC3_4QF3E9R03zYkAyKfR6WBpBcQ",
+     "length_text": "4:16"
+    }
+   ],
+   "score": 0.6699231863021851,
+   "createdAt": "2025-02-07T09:22:20.132406",
+   "updatedAt": "2026-10-19T14:46:16.662982"
+  },
+  {
+   "ytChannelId": "UCAnaf0qpf7cqeDgIm-3fqEw",
+   "title": "Circuit Class",
+   "description": "Welcome to Circuit Class \u2013 your ultimate guide to AC repair and electrical knowledge! \ud83d\udd27\u26a1 Whether you\u2019re looking to fix your air conditioner, troubleshoot electrical issues, or learn about home appliance maintenance, you've come to the right place. We offer easy-to-follow tutorials, expert tips, and DIY solutions to help you save time and money on repairs. Our step-by-step videos cover everything from basic electrical concepts to advanced AC servicing. Subscribe and stay updated with the latest maintenance tips and tricks to keep your home running smoothly!\"\n\nhouse wiring diagram\nelectrical wiring diagram\nelectrical wiring\nHVAC\nAC Marammat\nElectrical Tips\nGhar Ki Vidyut Marammat\nAC Servicing\nElectrical Samasya Samaadhan\nEngineering Gyaan\nBijli Bachaat Tips\nGhar Mein AC Installation\nVidyut Upkaran Marammat\nAC Installation Tips\nDIY Marammat\nElectrical Upkaran\nBijli Wiring\nAC Aur Electrical Marammat\nVidyut Upkaran Installation\nElectrical Fitting\nEngineering Samaadhan\nkaise kare",
+   "username": "circuitclass",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/7rGby8FcM_hE2EDgzGnEYkmfU04BnzRtznpq5bGkNNBSRqb5ZJN3VOwfykk8ifqbOHowvHsb2Q=s160-c-k-c0x00ffffff-no-rj",
+   "location": "IN",
+   "channelCreationDate": "2020-10-22",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.07,
+   "tags": [
+    "engineering",
+    "tech",
+    "diy",
+    "education"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 83900,
+    "monthlyRevenue": 133.28,
+    "monthlyViews": 74825,
+    "totalViews": 14539897,
+    "totalVideos": 346,
+    "avgViewsPerVideo": 25803.77,
+    "medianViewsPerVideo": 1550,
+    "avgVideoLength": 109.78,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-05-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.7812
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "siwJcqQO3uo",
+     "video_title": "How to work refrigerator gas cycle - Refrigeration Gas Cycle / Refrigerator working - The Basics",
+     "video_view_count": 1100000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/siwJcqQO3uo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO-DFR4kEXmD6OdOcQwy4kU0FqMQ",
+     "length_text": "1:54"
+    },
+    {
+     "video_id": "lVbcKXgtvok",
+     "video_title": "Split Ac outdoor Full Wiring Diagram - Air Conditioner Circuit | Fan And Compressor wire connection",
+     "video_view_count": 376000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lVbcKXgtvok/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg0BdLb11doCXKNJc11dcNK9jqZw",
+     "length_text": "2:54"
+    },
+    {
+     "video_id": "Vw50XjmoMVE",
+     "video_title": "Double Door Refrigerator Wiring Diagram - no frost refrigerator",
+     "video_view_count": 355000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Vw50XjmoMVE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGAoUzAP&rs=AOn4CLAh5GP-QQvThYSCfCfjLcaEuPI-Mg",
+     "length_text": "1:56"
+    },
+    {
+     "video_id": "SGrQ-Kohct8",
+     "video_title": "Microwave oven circuit diagram | Wiring Connection of micro oven",
+     "video_view_count": 243000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/SGrQ-Kohct8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oQjAP&rs=AOn4CLB9XihZ5MgbNvJ13ovGzB43UcXdFA",
+     "length_text": "3:49"
+    },
+    {
+     "video_id": "jGHwcqAABqE",
+     "video_title": "How to wire ceiling fan | Ceiling fan wiring diagram - Ceiling fan connection",
+     "video_view_count": 213000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jGHwcqAABqE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEUoNTAP&rs=AOn4CLB6YwwdDI1ABHamsoD3DufM0Wbnyw",
+     "length_text": "1:53"
+    }
+   ],
+   "score": 0.6689062118530273,
+   "createdAt": "2025-02-05T10:30:34.256009",
+   "updatedAt": "2026-10-19T13:41:58.591129"
+  },
+  {
+   "ytChannelId": "UCRQ7e0hTqbjshjztEb0I0Pg",
+   "title": "ResCom Contractors",
+   "description": "How your house actually works, explained in plain language.\n\nPlumbing, electrical, HVAC, framing, foundations. These are the systems everyone lives with and almost nobody ever had explained to them. Every video takes one of them apart from start to finish, in terms that make sense whether you own a home, work in the trades, or are about to hire someone who does.\n\nMade by ResCom Contractors, a full-service residential contractor in Central Florida. What you see here comes off real job sites, not from someone who has never opened a wall.\n\nNew videos every week. Have a question about your own house? Leave it in the comments. The topics that get traction become the next video, and several of the most watched videos on this channel started exactly that way.\n\nBuilding or renovating in Central Florida?\nOffice: (407) 457-5010\nrescomcontractors.net\n\nAs an Amazon Associate I earn from qualifying purchases.",
+   "username": "rescomcontractors",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/c0FsZO5yVwUcnvwTPe-uFG7ZR2LFHG5WmayNE-aBXqt1nEoVHO6U-jkel4MzCB0EIFFAVqL_=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-03-30",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.26,
+   "tags": [
+    "do it yourself",
+    "educational",
+    "home",
+    "crafts"
+   ],
+   "googleTrendsKeyword": "home repair",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 17500,
+    "monthlyRevenue": 189.08,
+    "monthlyViews": 215252,
+    "totalViews": 1071201,
+    "totalVideos": 100,
+    "avgViewsPerVideo": 20022.44,
+    "medianViewsPerVideo": 2800,
+    "avgVideoLength": 444.49,
+    "uploadsPerWeek": 3,
+    "firstVideoDate": "2026-04-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 1.8,
+     "total": 0.8784
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "At8fmYgJCbo",
+     "video_title": "How Plumbing Works in a House From Start to Finish (In Simple Terms Anyone Can Understand)",
+     "video_view_count": 314000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/At8fmYgJCbo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT_PsrdNsVYUeEhqiqbLdr936yew",
+     "length_text": "11:34"
+    },
+    {
+     "video_id": "S0MGyBCMJw0",
+     "video_title": "How Electricity Works in a House From Start to Finish (In Simple Terms Anyone Can Understand)",
+     "video_view_count": 165000,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/S0MGyBCMJw0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIxterAENq-dLKmLTAg8ovwxKIbA",
+     "length_text": "3:38"
+    },
+    {
+     "video_id": "THVgDHLFg8o",
+     "video_title": "How to Build a House From Start to Finish (In Simple Terms Anyone Can Understand)",
+     "video_view_count": 122000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/THVgDHLFg8o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI35bMkzWNXtnwsrNrUL43zCwAcw",
+     "length_text": "7:35"
+    },
+    {
+     "video_id": "_dyGpiM4zDM",
+     "video_title": "LEARN How Air Conditioners Actually Work",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_dyGpiM4zDM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBapkGe31FsajCl5wQEDddL4VFyfg",
+     "length_text": "4:14"
+    },
+    {
+     "video_id": "c-fWxjlOqS0",
+     "video_title": "A Complete Guide to Your Home's Electrical System",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/c-fWxjlOqS0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd0ylwGFHcBmUQydvXzhkA2TcmWA",
+     "length_text": "5:14"
+    }
+   ],
+   "score": 0.6675668358802795,
+   "createdAt": "2026-07-23T07:14:40.588779",
+   "updatedAt": "2026-10-19T20:01:31.949902"
+  },
+  {
+   "ytChannelId": "UCUb1Azq2_tTQ_cHB5Rvx_iQ",
+   "title": "Volty Crafts",
+   "description": "Hi, I\u2019m Brian. Welcome to Volty Crafts ! \n\nEvery week we turn crazy ideas into real projects\n\nFrom mind-blowing science experiments to clever DIY hacks, we bring curiosity to life. Learn how to make cool projects, explore the wonders of science, and turn everyday materials into something amazing.\n\nWhat we do ?\nDIY Projects : Creative builds for beginners & pros\n\nScience Experiments : Safe, Exciting, and fascinating\n\nHow-To Guides : Step-by-step instructions",
+   "username": "VoltyCrafts",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/iUfJuN2fAO8BO8NxnLnd9sTGBi50ezHB0Mj2gU82lJXOcYfmNwZL6yEYI8IOJHoIFtKbjFk_sA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "CA",
+   "channelCreationDate": "2025-08-11",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "live_action_faceless",
+   "editingVoice": "none",
+   "outlierScore": 0,
+   "tags": [
+    "engineering",
+    "science",
+    "do it yourself",
+    "tech"
+   ],
+   "googleTrendsKeyword": "high voltage generator",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 890,
+    "monthlyRevenue": 0,
+    "monthlyViews": 11546,
+    "totalViews": 99087,
+    "totalVideos": 8,
+    "avgViewsPerVideo": 12275,
+    "medianViewsPerVideo": 4400,
+    "avgVideoLength": 436.5,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-01-19",
+    "lastVideoDate": "2026-07-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.5681
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "8fnMj4kx-yQ",
+     "video_title": "How to Make High Voltage Transformer | DIY High Voltage Generator",
+     "video_view_count": 54000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8fnMj4kx-yQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC3ncPh07mCQcQGw19xFlQlb5tfqw",
+     "length_text": "14:03"
+    },
+    {
+     "video_id": "HqrfyNhYPBU",
+     "video_title": "How To Make Stun Gun | DIY Extreme Powerful Taser",
+     "video_view_count": 19000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HqrfyNhYPBU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9tFPXY9EKA5OmnQ_WtRU9ofNSDQ",
+     "length_text": "7:40"
+    },
+    {
+     "video_id": "oRndUpb4AcM",
+     "video_title": "How to Make High Voltage ZVS Driver | DIY Powerful Flyback Driver",
+     "video_view_count": 7400,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/oRndUpb4AcM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAg_10zXhQguQ1DmgeUo6CgmUFAzA",
+     "length_text": "5:06"
+    },
+    {
+     "video_id": "4byywwCvzm0",
+     "video_title": "How To Make High Voltage Generator | DIY ZVS Driver Flyback",
+     "video_view_count": 4700,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4byywwCvzm0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAdYmcsH9GEcLyy9V7wl6nUmXot9w",
+     "length_text": "6:23"
+    },
+    {
+     "video_id": "oVmareJOYhg",
+     "video_title": "How to Make High Voltage Multiplier | DIY Half Wave Voltage multiplier",
+     "video_view_count": 4100,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/oVmareJOYhg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_1SVuAosZexVPMSTNGStQCUOJ4Q",
+     "length_text": "5:45"
+    }
+   ],
+   "score": 0.666990339756012,
+   "createdAt": "2026-09-16T13:28:31.261709",
+   "updatedAt": "2026-10-19T21:25:42.267714"
+  },
+  {
+   "ytChannelId": "UC1L_jbFKsmzqPzBhTSfL_9g",
+   "title": "Explaining Tech Like You're Five",
+   "description": "Welcome to the channel where tech finally makes sense \u2014 no jargon, no lectures, just clear answers to the stuff no one ever bothered to explain.\nFrom cloud computing to crypto to why your Wi-Fi hates you, we turn complex grown-up concepts into bite-sized lessons even your sleep-deprived brain can handle.\nIt\u2019s like school, but way more fun and with zero pop quizzes.\nSubscribe and get smarter \u2014 one simplified idea at a time.",
+   "username": "ExplainingTechLikeYoureFive",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/x2Kuu-gwpXjeNsu6JEfrpJGXbGDchTi0jOvSb2JCQ73mnxvk6G8uq2W9UWx28X79-VArIskFRw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2020-12-26",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.15,
+   "tags": [
+    "tech",
+    "educational",
+    "artificial intelligence",
+    "explainers"
+   ],
+   "googleTrendsKeyword": "technology",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 83900,
+    "monthlyRevenue": 700.8,
+    "monthlyViews": 373003,
+    "totalViews": 6599403,
+    "totalVideos": 473,
+    "avgViewsPerVideo": 32910.31,
+    "medianViewsPerVideo": 4000,
+    "avgVideoLength": 553.85,
+    "uploadsPerWeek": 2.75,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.8788
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "faXf48-wIWU",
+     "video_title": "The Dark Web Explained Like You're Five",
+     "video_view_count": 1600000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/faXf48-wIWU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDQuRRd_jAGfuCiD1PxDIiUzCjxgg",
+     "length_text": "12:02"
+    },
+    {
+     "video_id": "whGEngzVRoc",
+     "video_title": "OLED vs QLED: Don\u2019t Get Tricked in the Store",
+     "video_view_count": 1000000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/whGEngzVRoc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAtbHHATyvUZWKRdhI5gyq_dM125Q",
+     "length_text": "8:47"
+    },
+    {
+     "video_id": "6AIE25bIWPc",
+     "video_title": "Gas vs. Electric vs. Induction Stove - Which Is Best?",
+     "video_view_count": 252000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/6AIE25bIWPc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBbXEX6bwBMpnBOq6oFBufdE71DHg",
+     "length_text": "8:28"
+    },
+    {
+     "video_id": "lsef_Vlx83M",
+     "video_title": "The Difference Between Volts, Watts, and Amps - Explained Like You're Five",
+     "video_view_count": 212000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lsef_Vlx83M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDjqZHY8kl71y2TfSZC5HJbFNhUJQ",
+     "length_text": "8:03"
+    },
+    {
+     "video_id": "eSZEnfvyDyw",
+     "video_title": "Big Tech Wants You to Use Passkeys - Here's What They're Hiding",
+     "video_view_count": 206000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/eSZEnfvyDyw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCjdjRwzkfQjjBR-MgfzOS2AYc03w",
+     "length_text": "8:25"
+    }
+   ],
+   "score": 0.6669511795043945,
+   "createdAt": "2025-10-02T14:58:04.186873",
+   "updatedAt": "2026-10-19T17:44:31.932601"
+  },
+  {
+   "ytChannelId": "UCJzU2lXWS5oVDoZ5asAWo1w",
+   "title": "Prime Explained",
+   "description": "We break down the biggest ideas in tech, computer and the internet cut out the jargon, and explain them in plain English. If you\u2019ve ever felt lost in the digital world, this is the place to finally say: 'Oh!\u2026 now I get it.`",
+   "username": "theprimexplained",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/_s-RxXgJF35NPWQM5sByB3O-Ict9EbHkp4cDpMHp1sm4eClEcbDU_Mb4pml6vKDh4UX7aYSd=s160-c-k-c0x00ffffff-no-rj",
+   "location": "GB",
+   "channelCreationDate": "2023-12-17",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 9.55,
+   "tags": [
+    "tech gadgets",
+    "internet culture",
+    "space & exploration",
+    "science"
+   ],
+   "googleTrendsKeyword": "Tech",
+   "category": {
+    "id": 198,
+    "name": "tech gadgets"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 24900,
+    "monthlyRevenue": 96.23,
+    "monthlyViews": 146063,
+    "totalViews": 2094265,
+    "totalVideos": 18,
+    "avgViewsPerVideo": 116272.22,
+    "medianViewsPerVideo": 69000,
+    "avgVideoLength": 501.72,
+    "uploadsPerWeek": 0.75,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7,
+     "total": 0.6588
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "5_GDs-SCYuo",
+     "video_title": "Every Network Device Simply Explained",
+     "video_view_count": 369000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/5_GDs-SCYuo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTXZgBcWLRafDko4aQY-H55vbJeg",
+     "length_text": "7:42"
+    },
+    {
+     "video_id": "SI056RziqrI",
+     "video_title": "Every Internet Speed Simply Explained",
+     "video_view_count": 348000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/SI056RziqrI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRDhEZOZvetVLkVsr_ChnT820Lkw",
+     "length_text": "8:46"
+    },
+    {
+     "video_id": "Zvk8Oj9nnW4",
+     "video_title": "Every Digital Storage Unit Simply Explained",
+     "video_view_count": 273000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Zvk8Oj9nnW4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtd1Z2626aWUqldFj-UPExhv_PrA",
+     "length_text": "5:09"
+    },
+    {
+     "video_id": "VoEEkpDtGwg",
+     "video_title": "Every Wi-Fi Generation Simply Explained",
+     "video_view_count": 224000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/VoEEkpDtGwg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjc22umS_0Eu8_95lMWCtmCW88Rw",
+     "length_text": "6:01"
+    },
+    {
+     "video_id": "Ll_LUl96bYA",
+     "video_title": "Every Type of Internet Connection Simply Explained",
+     "video_view_count": 176000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Ll_LUl96bYA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_CeWkTJdyc-O31xlMCUnfWAXn-A",
+     "length_text": "12:32"
+    }
+   ],
+   "score": 0.6668161153793335,
+   "createdAt": "2025-11-15T09:51:08.241303",
+   "updatedAt": "2026-10-19T18:00:11.317915"
+  },
+  {
+   "ytChannelId": "UClcy6s-4UotibMt1BLCt3ZA",
+   "title": "VOLTAJEAUTO",
+   "description": "\u26a1 VOLTAJE AUTO - La Verdad Sobre Autos El\u00e9ctricos\n\nBienvenido al canal que te dice TODO lo que necesitas saber sobre veh\u00edculos el\u00e9ctricos en 2026, sin marketing, sin mentiras, solo datos reales.\n\n\ud83d\udd0b \u00bfQU\u00c9 ENCONTRAR\u00c1S AQU\u00cd?\n\u2192 Reviews honestas de Tesla, BYD, Rivian y m\u00e1s\n\u2192 Comparativas t\u00e9cnicas basadas en datos\n\u2192 Verdades (y mentiras) sobre la industria EV\n\u2192 Gu\u00edas de compra para tu primer auto el\u00e9ctrico\n\u2192 An\u00e1lisis de costos REALES de propiedad\n\u2192 Tecnolog\u00eda de bater\u00edas explicada simple\n\u2192 Infraestructura de carga: la realidad\n\n\ud83d\udca1 NUESTRO COMPROMISO\nNo recibimos dinero de fabricantes. Nuestro \u00fanico inter\u00e9s es darte informaci\u00f3n precisa para que tomes la mejor decisi\u00f3n.\n\n\ud83d\udcca CONTENIDO NUEVO\n\u2192 Videos largos: Domingos \n\u2192 Shorts: lunes \n\n\u26a1 SUSCR\u00cdBETE si quieres entender los autos el\u00e9ctricos m\u00e1s all\u00e1 del hype.\n\n---\n\ud83d\udce7 Contacto: voltajeauto@gmail.com\n\n\n#AutosElectricos #VehiculosElectricos #Tesla #EV2025 #MovilidadElectrica",
+   "username": "VOLTAJEAUTOOFICIAL",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/yhLIH4HpQw4xA94VIzhEYrECdZL1fG8KjxNEZW8lGuaY06-fP-BCdMa15Ot6QV_6GTr_Pwidng=s160-c-k-c0x00ffffff-no-rj",
+   "location": "CO",
+   "channelCreationDate": "2025-12-27",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "es",
+   "editingStyle": "reused_footage",
+   "editingVoice": "human",
+   "outlierScore": 0.59,
+   "tags": [
+    "autos",
+    "ev car business",
+    "engineering",
+    "tech"
+   ],
+   "googleTrendsKeyword": "autos el\u00e9ctricos",
+   "category": {
+    "id": 159,
+    "name": "autos"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 4310,
+    "monthlyRevenue": 442.02,
+    "monthlyViews": 153196,
+    "totalViews": 877833,
+    "totalVideos": 91,
+    "avgViewsPerVideo": 15120.31,
+    "medianViewsPerVideo": 2200,
+    "avgVideoLength": 637.67,
+    "uploadsPerWeek": 1,
+    "firstVideoDate": "2026-01-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 4,
+     "total": 2.8853
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ObvgpKaoWlY",
+     "video_title": "Not All Hybrids Are the Same\u2014This Changes Everything",
+     "video_view_count": 324000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ObvgpKaoWlY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXTTQNGHykfENxhLwjTcLLeqTFHA",
+     "length_text": "11:01"
+    },
+    {
+     "video_id": "jZVljrtZ-P4",
+     "video_title": "How Does a Hybrid Car Work? Simply Explained \u26a1",
+     "video_view_count": 157000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jZVljrtZ-P4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3dR8323ZQxXd-nDCzX6Xl6goJpA",
+     "length_text": "11:37"
+    },
+    {
+     "video_id": "nyHCUEGGmns",
+     "video_title": "THE GREAT HYBRID SCAM",
+     "video_view_count": 91000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/nyHCUEGGmns/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJo7PCzDLfF19Nv4h-Rwhe1IReCQ",
+     "length_text": "12:03"
+    },
+    {
+     "video_id": "Qt7EipnV1rE",
+     "video_title": "Why Toyota's Hybrid Engine is Indestructible \u26a1\ufe0f The Engineering NO ONE Explains to You",
+     "video_view_count": 67000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Qt7EipnV1rE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCAmtmErAfZKNrHQ8Tqmt4jCZy2pA",
+     "length_text": "12:11"
+    },
+    {
+     "video_id": "4-UFC7e4G64",
+     "video_title": "HONDA e:HEV THE HYBRID WITHOUT A GEARBOX 1",
+     "video_view_count": 28000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4-UFC7e4G64/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDROtEtSOfVGLySqCAG9FhgGVt4vA",
+     "length_text": "9:17"
+    }
+   ],
+   "score": 0.6649580001831055,
+   "createdAt": "2026-10-08T03:55:41.037736",
+   "updatedAt": "2026-10-19T23:56:36.443141"
+  },
+  {
+   "ytChannelId": "UCirg9Z7ZRCj8KqMKjlXWkVg",
+   "title": "Watt Malin",
+   "description": "\u26a1 Bienvenue sur Watt Malin.\n\nIci, on d\u00e9crypte simplement la voiture \u00e9lectrique, la recharge et l'\u00e9nergie de la maison pour vous aider \u00e0 comprendre, choisir et \u00e9conomiser.\n\nPas de discours commercial : des explications claires, des simulations chiffr\u00e9es, des comparatifs honn\u00eates et des conseils concrets pour faire les bons choix.\n\n\ud83d\udc64 6+ ans d'exp\u00e9rience en R&D et commercialisation dans la recharge VE, le HEMS, le photovolta\u00efque et les batteries domestiques.\n\n\ud83d\ude97 Voiture \u00e9lectrique \u2014 co\u00fbts, autonomie, achat\n\ud83d\udd0c Recharge \u2014 prise renforc\u00e9e, wallbox, recharge publique\n\u2600\ufe0f Solaire \u2014 autoconsommation, recharge solaire\n\ud83d\udd0b Stockage \u2014 batteries domestiques\n\u26a1 V2G / V2H \u2014 recharge bidirectionnelle\n\ud83e\udde0 \u00c9nergie intelligente \u2014 HEMS, smart charging, smart grid\n\ud83d\udcb6 \u00c9conomies \u2014 comparatifs et simulations\n\nComprendre. Choisir. \u00c9conomiser.\n\n\ud83d\udd17 wattmalin.fr",
+   "username": "WattMalin",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/xTybn6uFVVWhX7G2F0mmwl93ISroaKwwKx2YNRDil1ERgO3IfdKsJwKOjK8viiAPYXq2AvI8Bg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "FR",
+   "channelCreationDate": "2026-04-11",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "fr",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2.76,
+   "tags": [
+    "automotive business",
+    "autos",
+    "engineering",
+    "environment"
+   ],
+   "googleTrendsKeyword": "voiture \u00e9lectrique",
+   "category": {
+    "id": 69,
+    "name": "automotive business"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 7170,
+    "monthlyRevenue": 2590.1,
+    "monthlyViews": 766437,
+    "totalViews": 1016242,
+    "totalVideos": 25,
+    "avgViewsPerVideo": 48669.43,
+    "medianViewsPerVideo": 11000,
+    "avgVideoLength": 679.05,
+    "uploadsPerWeek": 1,
+    "firstVideoDate": "2026-04-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 4,
+     "total": 3.3794
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "aUtSosddco0",
+     "video_title": "This Electric Car Battery Masterclass Should Be Mandatory",
+     "video_view_count": 522000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/aUtSosddco0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFUWJSLwJEoVQTAdM6PqkFTqrMiw",
+     "length_text": "23:19"
+    },
+    {
+     "video_id": "tKf_v0oTZOI",
+     "video_title": "EV Charging Installation: Rules You ABSOLUTELY Must Follow",
+     "video_view_count": 135000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/tKf_v0oTZOI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF1f_3DcMp68igGFZu69wz8lpElA",
+     "length_text": "15:18"
+    },
+    {
+     "video_id": "yIgNezxAX2c",
+     "video_title": "Ce cours sur la recharge \u00e9lectrique devrait \u00eatre obligatoire",
+     "video_view_count": 110000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yIgNezxAX2c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBug9X5hG5vGpJkwfqeq7X-gAAMvQ",
+     "length_text": "19:33"
+    },
+    {
+     "video_id": "rkvFP63N93Q",
+     "video_title": "This Electric Car Course Should Be Mandatory",
+     "video_view_count": 65000,
+     "video_upload_date": "2026-10-09T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rkvFP63N93Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHzmGhCk5ZCKEJBagFzSOoVc_k-w",
+     "length_text": "24:54"
+    },
+    {
+     "video_id": "_i42PTVzRfQ",
+     "video_title": "\u26a1 EV Reinforced Outlet: 5 Mistakes That Can Cost You Dearly",
+     "video_view_count": 49000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_i42PTVzRfQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyJRZosVtIQItyiiEO2b2sKSwkhQ",
+     "length_text": "8:55"
+    }
+   ],
+   "score": 0.6646518111228943,
+   "createdAt": "2026-09-14T06:05:51.797657",
+   "updatedAt": "2026-10-19T20:54:45.504754"
+  },
+  {
+   "ytChannelId": "UC51ATLxoST0adWo5xdbfhAA",
+   "title": "Electronic Wizard",
+   "description": "If you are looking for basic & advanced lessons on electronics using simple experiments, this channel is for you! :)",
+   "username": "elewizard",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/BZlLAm3voPhs4P2XJ46WZKDVsk9OHLGx_gY8IsblGJV2qzQLMuWxAZ2ESTryCHeqY5R-9qtznA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "GB",
+   "channelCreationDate": "2023-08-01",
+   "isMonetizationEnabled": true,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.76,
+   "tags": [
+    "tech",
+    "tutorial",
+    "engineering",
+    "diy"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 60300,
+    "monthlyRevenue": 253.13,
+    "monthlyViews": 102463,
+    "totalViews": 3119254,
+    "totalVideos": 85,
+    "avgViewsPerVideo": 38732.91,
+    "medianViewsPerVideo": 16000,
+    "avgVideoLength": 1151.03,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2023-10-19",
+    "lastVideoDate": "2026-10-15",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.4705
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "zg_Ejf_LyjI",
+     "video_title": "10 awesome application of capacitors in circuits",
+     "video_view_count": 515000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/zg_Ejf_LyjI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdo_K5kB2s3j6jxBqgeCcNHuMFUw",
+     "length_text": "29:01"
+    },
+    {
+     "video_id": "TrFzYEsJ0_Y",
+     "video_title": "Why you should avoid using charger modules!",
+     "video_view_count": 263000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/TrFzYEsJ0_Y/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhMj0dmKTAvSlabPustXeB1gY7Hg",
+     "length_text": "16:44"
+    },
+    {
+     "video_id": "yPwYNUDkkZs",
+     "video_title": "8 awesome application of diodes in circuits.",
+     "video_view_count": 230000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yPwYNUDkkZs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPpxW3Qc3VpVNRIA6gMgEEYh8sqQ",
+     "length_text": "19:50"
+    },
+    {
+     "video_id": "rwvJU7aJmJo",
+     "video_title": "7 awesome applications of transistors in circuits",
+     "video_view_count": 155000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rwvJU7aJmJo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJFo2dfOE4dEYMee-MOy8yoBy7hA",
+     "length_text": "27:12"
+    },
+    {
+     "video_id": "ju9oKliIl2o",
+     "video_title": "Inductors: making high voltage from low voltage",
+     "video_view_count": 149000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ju9oKliIl2o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ6K3nW64rgjYtwuqy0VjNP5gnUg",
+     "length_text": "10:51"
+    }
+   ],
+   "score": 0.6645569205284119,
+   "createdAt": "2023-09-13T18:32:48.386610",
+   "updatedAt": "2026-10-19T08:19:25.923347"
+  },
+  {
+   "ytChannelId": "UCfu2DFMqsUgyCLKyjJiu2gw",
+   "title": "World Of Electronics Technology",
+   "description": "\u00a9 Copyright by \"hoanghamedia.com\" \u261e Do not Reup\n\u2709 For business inquiries:\nWebsite: \nhoanghamedia.com\nhttps://blogsangtao.com\nContact:\ncontact@hoanghamedia.com\ncontact@blogsangtao.com\ninfo@hoanghamedia.com\nmajacikel23@gmail.com\nFacebook\nhttps://www.facebook.com/GardenElectricDIY\nhttps://www.facebook.com/diybalconygarden\nhttps://www.facebook.com/greatdiyidea\nhttps://www.facebook.com/hoang.nguyenvan1990\nhttps://www.tiktok.com/@lindauvcwbb",
+   "username": "WorldOfElectronicsTechnology",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/VETJRMxIR7R4q10ed9JsefhYtWqdUK5gyga1gRkvHthsTj1Is7L6eVsMh-cK14TI4BDnQ48INUc=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2024-06-09",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.3,
+   "tags": [
+    "tech gadgets",
+    "do it yourself",
+    "engineering",
+    "science exploration"
+   ],
+   "googleTrendsKeyword": "Electronics",
+   "category": {
+    "id": 198,
+    "name": "tech gadgets"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 18900,
+    "monthlyRevenue": 215.27,
+    "monthlyViews": 99129,
+    "totalViews": 2615329,
+    "totalVideos": 179,
+    "avgViewsPerVideo": 14386.21,
+    "medianViewsPerVideo": 3100,
+    "avgVideoLength": 1738.83,
+    "uploadsPerWeek": 1.25,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-10-13",
+    "rpm": {
+     "base": 9.3,
+     "total": 2.1716
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "dwPvexVLq5I",
+     "video_title": "Awesome Free Perpetual Generator Idea I Created",
+     "video_view_count": 822000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dwPvexVLq5I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARQA0_UqhlNZuSl5CsOB85QhwhFg",
+     "length_text": "19:08"
+    },
+    {
+     "video_id": "2LpUjeU646w",
+     "video_title": "YOU Won't Believe This DIY Free Generator Is Homemade!",
+     "video_view_count": 259000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2LpUjeU646w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSRr9yQmqEWgu-mSuf5EZT1P1ciA",
+     "length_text": "32:37"
+    },
+    {
+     "video_id": "kgNNeVvxzNo",
+     "video_title": "Turn Fan Motor Into Powerful PERMANENT Generator",
+     "video_view_count": 152000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kgNNeVvxzNo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0g4eYivS_xdiOWkZjuNMiuhlhKw",
+     "length_text": "39:11"
+    },
+    {
+     "video_id": "b8LNPCV2-kM",
+     "video_title": "Free Perpetual Generator Idea \u2013 Breakthrough Innovation Without Fuel!",
+     "video_view_count": 149000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/b8LNPCV2-kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqhlZ1u67RjNC9vGt6q_cxB6ESCQ",
+     "length_text": "30:40"
+    },
+    {
+     "video_id": "Nbk9gm4nkeM",
+     "video_title": "Making a POWERFUL Free Generator at Home! (2024)",
+     "video_view_count": 107000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Nbk9gm4nkeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT3SG3Ds7MAnQNLLwVK5tyymw0Bg",
+     "length_text": "17:06"
+    }
+   ],
+   "score": 0.664156973361969,
+   "createdAt": "2024-08-11T16:42:34.402820",
+   "updatedAt": "2026-10-19T11:02:57.014581"
+  },
+  {
+   "ytChannelId": "UC6SfOT7cjCe9FwvhMBBd5TQ",
+   "title": "Reel Clear Media",
+   "description": "Technology made clear and understandable.\nSolar energy, Electric vehicles, Green living and more.",
+   "username": "ReelClearMediaLLC",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kD4ctb8WUzBN55GConAIyGVonxx0H833tiWrvBx-hpz3Y=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2016-05-15",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2.76,
+   "tags": [
+    "tech",
+    "engineering",
+    "energy",
+    "do it yourself"
+   ],
+   "googleTrendsKeyword": "solar energy",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 6860,
+    "monthlyRevenue": 40.78,
+    "monthlyViews": 13955,
+    "totalViews": 710182,
+    "totalVideos": 33,
+    "avgViewsPerVideo": 21903.41,
+    "medianViewsPerVideo": 9450,
+    "avgVideoLength": 628.38,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2021-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.9219
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "-HrTapsKsFU",
+     "video_title": "Victron Smart Solar Charger Review After 4 Years Of Use. Features, Apps, Wiring Explained.",
+     "video_view_count": 106000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-HrTapsKsFU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDotjVnoZ2AyreQ8YNHbeELN3QipA",
+     "length_text": "13:52"
+    },
+    {
+     "video_id": "Ky5luEx6R2M",
+     "video_title": "Grounding & Bonding For Solar Inverters, Part 2: Off-Grid Systems",
+     "video_view_count": 91000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Ky5luEx6R2M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCHV_Fiy0k2Gz-4rgdBpTOIvX7jQ",
+     "length_text": "19:01"
+    },
+    {
+     "video_id": "LmI_bC16X2Y",
+     "video_title": "Grounding & Bonding For Solar Inverters: Part 1: Basics",
+     "video_view_count": 74000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/LmI_bC16X2Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0N-C4CVsE1-H8otjklEIwwvksWQ",
+     "length_text": "12:38"
+    },
+    {
+     "video_id": "5BgpclioQvQ",
+     "video_title": "Growatt SPF3000TL 3000 watt 48v Solar Inverter Review",
+     "video_view_count": 64000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/5BgpclioQvQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvNO7u32tIkTrY6z9WfVful4DJoA",
+     "length_text": "14:51"
+    },
+    {
+     "video_id": "oDiva1SJwpc",
+     "video_title": "GroWatt SPF3000TL LVM-48p Secrets of the Settings (updated)",
+     "video_view_count": 62000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/oDiva1SJwpc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKBt0orROHIJjOfNYsFye1n21ZJw",
+     "length_text": "14:44"
+    }
+   ],
+   "score": 0.6638811230659485,
+   "createdAt": "2025-02-19T17:22:05.325674",
+   "updatedAt": "2026-10-19T15:58:59.585384"
+  },
+  {
+   "ytChannelId": "UCMZoKcBl7hrzTOZJWd_dbPA",
+   "title": "Simple Things Simplified",
+   "description": "Ever look at an everyday object and wonder, \"How does that actually work?\"\n\nAt Simple Things Simplified, we believe you shouldn't need an engineering degree to understand the world around you. We strip away the confusion, the complex jargon, and the unnecessary fluff to bring you the fascinating mechanics and brilliant ideas hiding inside ordinary things.\n\nJoin us as we explore:\n-How your favorite everyday items are designed and built.\n-The clever solutions to problems you didn't even know existed.\n-Bite-sized knowledge that makes you the smartest person in the room.\n\nIf you love having those \"lightbulb moments,\" you are in the right place. Subscribe to Simple Things Simplified to start seeing the ordinary world in a completely extraordinary way.\n\n#simplethingssimplified #funfacts #howthingswork #everydaythings #edutainment #simplemechanics",
+   "username": "simplethingsimplified",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/Yg-2rXkaQ0nSY1vD6eYZymySnxK8rv-A9BwpwYw_XM61Uvdts30UVY3m9C3w3qbTM2YNMA-0=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-01-20",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.1,
+   "tags": [
+    "engineering",
+    "tech",
+    "science",
+    "educational"
+   ],
+   "googleTrendsKeyword": "engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 10800,
+    "monthlyRevenue": 57.06,
+    "monthlyViews": 22927,
+    "totalViews": 2723509,
+    "totalVideos": 117,
+    "avgViewsPerVideo": 23185.28,
+    "medianViewsPerVideo": 998,
+    "avgVideoLength": 694.02,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2026-02-19",
+    "lastVideoDate": "2026-10-05",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.4888
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "hzq5HbFq43A",
+     "video_title": "How Tugboats Move Ships 100x Their Size?",
+     "video_view_count": 492000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/hzq5HbFq43A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgMwFYcDIMRgZHOibEYZA2kQoxZg",
+     "length_text": "11:25"
+    },
+    {
+     "video_id": "8SjYI3sFBgI",
+     "video_title": "The Physics Trick That Keeps Cruise Ships From Flipping Over",
+     "video_view_count": 395000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8SjYI3sFBgI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2PGBFQ9-r1qQyZ9PZYGv7F3Zlqg",
+     "length_text": "7:37"
+    },
+    {
+     "video_id": "3fzaFqT6TEk",
+     "video_title": "Why Don't Ships Have Headlights",
+     "video_view_count": 289000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/3fzaFqT6TEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8t2X3BYnFAASa4S1Snea2be8uTA",
+     "length_text": "10:31"
+    },
+    {
+     "video_id": "jkyxmh-CceA",
+     "video_title": "Why Airplanes Can't Fly Past 600 MPH",
+     "video_view_count": 232000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jkyxmh-CceA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRBtYozufZOChwWjpOM7bDhMewLQ",
+     "length_text": "14:11"
+    },
+    {
+     "video_id": "vTG5whMYbek",
+     "video_title": "What's HIDDEN Inside a Ships Lifeboat",
+     "video_view_count": 231000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vTG5whMYbek/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiRcG6wRtHR4uUCkx0cQoBHGRqhQ",
+     "length_text": "13:02"
+    }
+   ],
+   "score": 0.6634587049484253,
+   "createdAt": "2026-03-29T18:42:32.539737",
+   "updatedAt": "2026-10-19T18:53:20.822055"
+  },
+  {
+   "ytChannelId": "UCTNuhu8hVtRNecQgJMceSeA",
+   "title": "SL Engineering Academy",
+   "description": "Hey, welcome to SL Engineering Academy. \n\nThis is a free online electrical engineering learning youtube channel for students, engineers, and like-minded people. We hope to share engineering tips and tricks through short, simplified tutorial videos.\n\nThanks for visiting and make sure to subscribe and join with us.",
+   "username": "slengineeringacademy2234",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_n3nqSiwjM7cao2ZAbKT2sB33F2h5RJ2xaW7q1Jeu-Ojg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2020-06-27",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2.02,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "education",
+    "diy"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 216000,
+    "monthlyRevenue": 817.65,
+    "monthlyViews": 138186,
+    "totalViews": 16255078,
+    "totalVideos": 63,
+    "avgViewsPerVideo": 260040.98,
+    "medianViewsPerVideo": 115000,
+    "avgVideoLength": 266.23,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2020-10-19",
+    "lastVideoDate": "2026-04-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 5.917
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ea1FSB3F2Bw",
+     "video_title": "Star-Delta Starter Complete Wiring for 3 Phase Motor / Star-Delta Control Connection / Explained",
+     "video_view_count": 1800000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ea1FSB3F2Bw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATCIKbOfGSo7P5ASPOrLthln7x2g",
+     "length_text": "7:33"
+    },
+    {
+     "video_id": "PnlVNb2I524",
+     "video_title": "Automatic Changeover Switch for Generator / Automatic Transfer Switch / ATS  (With Circuit Diagram)",
+     "video_view_count": 1700000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PnlVNb2I524/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNgzikFueyg7vICkCTalpjT7c7Ug",
+     "length_text": "6:33"
+    },
+    {
+     "video_id": "GFyYjqweLz4",
+     "video_title": "Single Phase House Wiring Diagram / Energy Meter / Single Phase DB Wiring",
+     "video_view_count": 1600000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/GFyYjqweLz4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKXhBHd5Ytwf8x513ZfjJxcvkBMw",
+     "length_text": "4:55"
+    },
+    {
+     "video_id": "srxGewy_hLU",
+     "video_title": "Complete Electrical House Wiring / Single Phase Full House Wiring Diagram /- Part 1",
+     "video_view_count": 1500000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/srxGewy_hLU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMx2N0K3apjbqt1Fve8c48VK-uZw",
+     "length_text": "4:46"
+    },
+    {
+     "video_id": "71Kij6DZ2vU",
+     "video_title": "Automatic Transfer Switch (ATS) Changeover for 3 Phase / Three Phase ATS Wiring Diagram / Explained",
+     "video_view_count": 1000000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/71Kij6DZ2vU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZlAIgm8iNROEQdYD-q0UzNFj6NQ",
+     "length_text": "8:12"
+    }
+   ],
+   "score": 0.662668764591217,
+   "createdAt": "2025-02-07T09:37:01.395416",
+   "updatedAt": "2026-10-19T14:47:36.944878"
+  },
+  {
+   "ytChannelId": "UCZlbAyUxFjj6LSEFK3oqfzg",
+   "title": "ElectroRobotics",
+   "description": "",
+   "username": "ElectroRobotics-qo2er",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_n_nj07aHleN8uGZG87BGwCoiKn6frileWLuBTPGoV7SK3tUej0VFYnY4c8Qr2CsretaA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "BO",
+   "channelCreationDate": "2024-01-25",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.71,
+   "tags": [
+    "do it yourself",
+    "engineering",
+    "tech",
+    "tech gadgets"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 198,
+    "name": "tech gadgets"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 80100,
+    "monthlyRevenue": 993.35,
+    "monthlyViews": 631182,
+    "totalViews": 7111326,
+    "totalVideos": 128,
+    "avgViewsPerVideo": 58079.49,
+    "medianViewsPerVideo": 15000,
+    "avgVideoLength": 812.58,
+    "uploadsPerWeek": 0.75,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7,
+     "total": 1.5738
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "4bKS7APcupw",
+     "video_title": "Don't Change Parts Randomly, First Learn to Measure these 5 Components",
+     "video_view_count": 613000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4bKS7APcupw/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAVc9D7KLX1GLK56rPVZC09JPN2cg",
+     "length_text": "12:08"
+    },
+    {
+     "video_id": "q0LjBGTNb94",
+     "video_title": "How to Make an Electric Generator.",
+     "video_view_count": 564000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/q0LjBGTNb94/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAvUVBmfql7PqVgl9einGwGV-Hi2Q",
+     "length_text": "16:54"
+    },
+    {
+     "video_id": "y2IvD1S9hzQ",
+     "video_title": "Modify Any Charger and Adjust Its Voltage.",
+     "video_view_count": 560000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/y2IvD1S9hzQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLD4eFDL1MF9_w1AOO4H0aHIauCoag",
+     "length_text": "12:32"
+    },
+    {
+     "video_id": "2CMPkCCDoQ0",
+     "video_title": "Don't Replace Parts Randomly; First Learn to Measure the Components that Fail Most Frequently.",
+     "video_view_count": 552000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2CMPkCCDoQ0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDohgMA9QZ7-zeXk7XB51t1FdphZA",
+     "length_text": "15:03"
+    },
+    {
+     "video_id": "1pEHFVTihIo",
+     "video_title": "Why is a Coil not a Short Circuit? All this and more with a Little Theory and a lot of Practice.",
+     "video_view_count": 314000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1pEHFVTihIo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDPBBmvzubJTPkItW0fIDLodJMdFQ",
+     "length_text": "15:50"
+    }
+   ],
+   "score": 0.6626255512237549,
+   "createdAt": "2024-12-12T22:13:47.309160",
+   "updatedAt": "2026-10-19T12:01:02.956521"
+  }
+ ],
+ "topicTags": [
+  "engineering",
+  "tech",
+  "science",
+  "education",
+  "tech gadgets",
+  "do it yourself",
+  "educational",
+  "autos",
+  "energy",
+  "diy"
+ ],
+ "totalResults": 30,
+ "hasMore": true,
+ "page": 1,
+ "limit": 30,
+ "filters": {
+  "query": "how electricity works explained simply volts amps watts",
+  "limit": 30,
+  "page": 1,
+  "minScore": 0.5
+ }
+}

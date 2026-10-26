@@ -1,0 +1,401 @@
+{
+ "channel": "Laurel TV",
+ "id": "UC2YlFTXECf4WMJ9IDylPxIg",
+ "handle": "http://www.youtube.com/@LaurelTVOfficial",
+ "description": "",
+ "subs": "2.12K subscribers",
+ "videos_count": "2.4K videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "__WHorNIt1E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Jayna Brown",
+   "dur": "7:11",
+   "meta": [
+    "17K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 17000,
+   "age": "11y ago"
+  },
+  {
+   "id": "wCV3ZP7rys4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel's First Responders: Laurel Volunteer Fire Department - July 14, 2017",
+   "dur": "7:12",
+   "meta": [
+    "13K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "9y ago"
+  },
+  {
+   "id": "ASDYH803hgQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Laurel High School #EnoughIsEnough",
+   "dur": "2:20",
+   "meta": [
+    "5.2K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 5200,
+   "age": "8y ago"
+  },
+  {
+   "id": "r8LcpUCK3fc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight : Tracy Camila Johns Exhibit in Laurel",
+   "dur": "2:32",
+   "meta": [
+    "4.5K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4500,
+   "age": "2y ago"
+  },
+  {
+   "id": "0Mgd43Zp8wY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "'Griots' Storytelling Circle - October 1, 2014",
+   "dur": "5:44",
+   "meta": [
+    "4.2K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 4200,
+   "age": "12y ago"
+  },
+  {
+   "id": "adZUm1RDk38",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: PGCPS Early Dismissal - September 5, 2018",
+   "dur": "2:17",
+   "meta": [
+    "3.7K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 3700,
+   "age": "8y ago"
+  },
+  {
+   "id": "xGsEygPa7Z0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Woodland Job Corps - October 2015",
+   "dur": "3:35",
+   "meta": [
+    "3.6K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 3600,
+   "age": "11y ago"
+  },
+  {
+   "id": "jlrQJNwrnUQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Laurel Elementary School's First Day - September 4, 2018",
+   "dur": "3:43",
+   "meta": [
+    "3.2K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 3200,
+   "age": "8y ago"
+  },
+  {
+   "id": "aYBsoYDjBpI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Police Press Conference: Police-involved Shooting - April 10, 2016",
+   "dur": "3:05",
+   "meta": [
+    "3.1K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 3100,
+   "age": "10y ago"
+  },
+  {
+   "id": "74n6C_75KDs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Griot's Story Circle: Who Is A Griot?",
+   "dur": "7:47",
+   "meta": [
+    "3K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 3000,
+   "age": "11y ago"
+  },
+  {
+   "id": "n_874wyys-k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: PGCPS Bus Shortage - October 19, 2021",
+   "dur": "3:08",
+   "meta": [
+    "2.8K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 2800,
+   "age": "5y ago"
+  },
+  {
+   "id": "Z72ZcKl5niM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: First Day Back to School - August 23, 2016",
+   "dur": "3:40",
+   "meta": [
+    "2.6K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 2600,
+   "age": "10y ago"
+  },
+  {
+   "id": "Qn--WbRSqhA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight:  Earth, Wind & Fire Tribute Band",
+   "dur": "1:24:48",
+   "meta": [
+    "2.6K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 2600,
+   "age": "11y ago"
+  },
+  {
+   "id": "7jfzMyPZ5VY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: 5 Stars For CMIT Academy - February 6, 2019",
+   "dur": "2:04",
+   "meta": [
+    "2.6K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2600,
+   "age": "7y ago"
+  },
+  {
+   "id": "GwkwFFtLvXk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Xanadu Games Grand Opening - March 30, 2018",
+   "dur": "2:57",
+   "meta": [
+    "2.6K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2600,
+   "age": "8y ago"
+  },
+  {
+   "id": "JZdHmDS1nTE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Laurel Elementary School Wax Museum - February 28, 2019",
+   "dur": "2:31",
+   "meta": [
+    "2.2K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2200,
+   "age": "7y ago"
+  },
+  {
+   "id": "V1peKJuw88w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Laurel High School Acting Principal Dinkins - August 28, 2019",
+   "dur": "2:26",
+   "meta": [
+    "2.1K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2100,
+   "age": "7y ago"
+  },
+  {
+   "id": "sDCfj3HgMIg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: March is Music Education Month - Laurel Elementary - March 29, 2018",
+   "dur": "2:25",
+   "meta": [
+    "2K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2000,
+   "age": "8y ago"
+  },
+  {
+   "id": "5CzValnqXqI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel High School Black History Month Program - February 28, 2017",
+   "dur": "1:13:28",
+   "meta": [
+    "1.9K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 1900,
+   "age": "9y ago"
+  },
+  {
+   "id": "X9LcpeJwze0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Montpelier Elementary Celebrates 50 Years - May 5, 2017",
+   "dur": "3:22",
+   "meta": [
+    "1.9K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 1900,
+   "age": "9y ago"
+  },
+  {
+   "id": "DgsY_FLoTiM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lost Laurel: Halloween - October 2014",
+   "dur": "22:38",
+   "meta": [
+    "1.8K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 1800,
+   "age": "11y ago"
+  },
+  {
+   "id": "40V3u-XpPtA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Emilia's Gymnastics Acrobatic Trio - May 14, 2018",
+   "dur": "3:03",
+   "meta": [
+    "1.7K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "8y ago"
+  },
+  {
+   "id": "v_gEVzMNpH8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Laurel Elementary Breakfast Program - April 8, 2016",
+   "dur": "1:53",
+   "meta": [
+    "1.6K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "10y ago"
+  },
+  {
+   "id": "WJ7RytnVz5U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Rise Up Nutrition - August 1, 2019",
+   "dur": "2:33",
+   "meta": [
+    "1.6K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "7y ago"
+  },
+  {
+   "id": "YcLvSDvXw48",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "50th Laurel High School Homecoming Parade - September 19, 2015",
+   "dur": "4:17",
+   "meta": [
+    "1.6K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "11y ago"
+  },
+  {
+   "id": "OTyx4-2_L3U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight:  Dwayne Jones is Retiring - June 14, 2019",
+   "dur": "2:21",
+   "meta": [
+    "1.6K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "7y ago"
+  },
+  {
+   "id": "U0mGHFKpxLw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Sister Karen - February 7, 2020",
+   "dur": "1:38",
+   "meta": [
+    "1.5K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "6y ago"
+  },
+  {
+   "id": "QcL7CQwBmLs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: House of Horror - October 11, 2016",
+   "dur": "2:48",
+   "meta": [
+    "1.5K",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "10y ago"
+  },
+  {
+   "id": "lmxh8I5BskM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Laurel High School Volleyball Coach - October 31, 2017",
+   "dur": "2:28",
+   "meta": [
+    "1.5K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "8y ago"
+  },
+  {
+   "id": "Us8f27r1Yd4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Laurel Community Spotlight: Montpelier Elementary School - March 19, 2019",
+   "dur": "3:00",
+   "meta": [
+    "1.5K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "7y ago"
+  }
+ ]
+}

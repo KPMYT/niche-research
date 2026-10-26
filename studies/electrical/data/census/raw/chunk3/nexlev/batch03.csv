@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job 96db6b2e-7553-4ba5-b59d-b1567cd5e09d, timestamp 2026-10-26T06:51:53.469Z (transcribed field by field from the tool result)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UCLnGgnj-hneDI3CFzBmdGLg,true,3.87,966245,15.5,tech,tutorial,true,false,United States,0.97
+UCgtbE9w_d-u2AvPp3WBlPfQ,true,3.27,38581,5.3,engineering,educational,true,true,United Kingdom,0.98
+UCMXN-53SCPpYxmYSvFOjz2g,true,5.01,114964,14.2,engineering,educational,true,true,United States,0.99
+UCw0fdsm83rtTGkLrttaIBlA,true,4.88,57160,13.9,do it yourself,tutorial,true,true,United States,0.97
+UC4PWgTIkkv5p2shhjiXNiGg,true,2.89,387294,11.9,engineering,educational,true,true,United Kingdom,0.98
+UCAx9qFU1CRRcx2mMFTV9Png,true,5.45,18134,14.9,science,educational,false,true,United States,0.98
+UCloyA5KxoM63MtH4SQxnkLQ,true,4.35,35530,4.5,do it yourself,tutorial,true,false,United States,0.98
+UCCRkSQuy74rHjM2OczpGjrw,true,2.22,6717,7.6,engineering,educational,true,true,India,0.99
+UCpZ1AQDdJ5moZwFlCSzFvRQ,true,3.95,59975,5.4,do it yourself,tutorial,true,true,United States,0.98
+UCoLZdmj5sLFcRYWqTQ4FfEA,true,6.39,76628,9.1,do it yourself,tutorial,true,false,United States,0.98

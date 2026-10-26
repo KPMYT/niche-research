@@ -1,0 +1,77 @@
+{
+ "channel": "The Apprentice's Guide",
+ "id": "UCMXN-53SCPpYxmYSvFOjz2g",
+ "handle": "http://www.youtube.com/@theapprenticesguide",
+ "description": "The animated electrician school \u2014 from your first day as an apprentice to your journeyman card.\n\nEvery lesson is built the way a good journeyman teaches: what's actually happening in the wire, why the code says what it says, and what it looks like on a real job. Clean animated diagrams, no fluff, no shaky phone footage of a panel.\n\nThe plan:\n\u2022 Fundamentals \u2014 electricity from zero, properly explained\n\u2022 Residential Wiring \u2014 what's inside the walls and why\n\u2022 Code & Exam Prep \u2014 NEC, load calcs, and your journeyman test\n\u2022 The Trade \u2014 tools, job sites, licensing, and how to actually get in\n\nNew lesson every week. Watch in order, or jump to what you need.\n\nEducational content only. Electrical work can injure or kill \u2014 always de-energize and verify, and hire a licensed electrician for work in your home.\n",
+ "subs": "5.35K subscribers",
+ "videos_count": "8 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "8nwE0Jq202o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Did Only One Breaker Trip?",
+   "dur": "16:31",
+   "meta": [
+    "1.1K",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "12d ago"
+  },
+  {
+   "id": "LOFpw6uyYjQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Half Your House Went Dark. The Dark Half Is Still Live.",
+   "dur": "18:14",
+   "meta": [
+    "1.6K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "1mo ago"
+  },
+  {
+   "id": "pnK_OEpissI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Series vs Parallel Circuits Explained \u2014 Why One Dead Bulb Kills Everything",
+   "dur": "14:02",
+   "meta": [
+    "11K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "ffO4xVOU1oI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Volts, Amps & Watts Explained \u2014 and Which One Kills You",
+   "dur": "13:00",
+   "meta": [
+    "812K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 812000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "MIuiZtAWm7s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Electricity Actually Flows (What's Really Moving in a Wire)",
+   "dur": "9:10",
+   "meta": [
+    "69K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 69000,
+   "age": "2mo ago"
+  }
+ ],
+ "pager": "scratchpad pager.py (continuationItemRenderer)"
+}

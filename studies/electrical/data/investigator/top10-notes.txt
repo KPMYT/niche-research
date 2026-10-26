@@ -1,0 +1,133 @@
+INVESTIGATOR / INSPECTOR ANGLE - TOP 10 NOTES (round 3, pulled 2026-10-26)
+
+METHOD (measured unless marked "reading")
+- 38 keywords x relevance (2 pages), views (2 pages), views_year (1 page) via yt.py search, 2026-10-26. Raw JSON in raw/search/.
+  2,140 unique results, 1,007 of them 5:00+. Rows were hand-coded from titles (reading): 313 kept as investigator / inspector /
+  marshal / arson / fire-cause / scene / electrical-fire-forensics angle; 308 counted (English, 5:00+); 5 marked counted=n
+  (Philippine exam lectures, English not confirmed). Plus 1 reference row (Buckin' Billy Ray Smith, named in the task).
+- Excluded on purpose (not in videos.csv): TV drama clips (Chicago Fire, Backdraft, CID), games, kids cartoons, comedy
+  (Fire Marshall Bill), AI "revenge story" fiction with a fire-investigator character, wildfire-behaviour or firefighting-ops
+  videos with no cause angle, non-English, PC hardware connector melts (12VHPWR), Forensic Files episodes whose title and
+  description show no fire (e.g. "House Hunting" Lz6Yu6pnnBU 1.75M, "Insulated Evidence" t4paaehNWYA 1.26M: checked in
+  NexLev youtube_video_details, both are murders without a fire).
+- investigator_framing = y when the title, channel or presenter frames the video as an investigator / inspector / marshal /
+  arson / forensic / origin-and-cause view. n = cause-of-fire content from another voice (electrician, homeowner, news).
+- Exact views + exact dates: yt.py video for the top 40 counted rows (raw/video/). Other rows: exact views_text from the
+  search page, relative age.
+- Self spot-check of 4 rows outside the top 40 against the watch page (raw/video/check_*.json): p2BiPDbqzc8 9,539 = 9,539;
+  zIs2YyjzvCQ 700 = 700; 0sCsnT5OQsw 24,987 vs 24,988; K7P1KyisUKA 503,205 vs 503,186. A second helper should still
+  re-check a sample (rule 3).
+- First-minute notes: 1pPoB8be1G0 from NexLev get_video_transcript. The other nine from NexLev watch_youtube_video_and_ask
+  limited to 0-60s (transcript tools returned only caption URLs or would have been very long). Quotes come from that tool,
+  not from my own viewing.
+- Thumbnails: own thumbnail + one comparison thumbnail per video (the channel's most popular video, or a sister video),
+  downloaded with yt.py thumb into raw/thumbs/<id>/. Style notes are my reading.
+
+TOP 10 BY VIEWS (counted, investigator_framing = y)
+
+1. HsN7AGa7GCI | Fox News | "Watters: Here's the latest on what caused the fire" | 3,528,585 | Jan 13, 2025 | 12:24
+   Presenter: news host (narrator). Angle: news. Electrical: unclear (LA wildfires, per NexLev description).
+   First minute: opens cold on "Neighborhoods wiped off the map. Homes reduced to piles of ash. Every day it gets more grim."
+   Aerial ruins, then the studio, then mugshots of looters and an arsonist.
+   Why it works (reading): it is a breaking national disaster carried by a 15.5M-subscriber channel. The "what caused it" question
+   is the hook, but the audience comes from the event and the channel, not from an investigator.
+   Thumbs: HsN7AGa7GCI = host at the desk, Fox logo, no text. Comparison Uztf1el3JUo (22M) = same template: guest face + logo.
+   Style: a network brand thumbnail. Nothing a new channel can copy.
+
+2. lFUTB48dSd8 | ABSTRACT | "Unmasking a Killer Serial Arsonist" | 2,776,319 | May 10, 2024 | 1:25:12
+   Narrator over 3D animation. Case story (John Orr). Electrical: n.
+   First minute: "When arson investigator Captain Marvin Casey was called out to a fire that had broken out at a craft
+   store, he had no idea what he was about to get himself into." A small fire with an obvious origin, then a single
+   fingerprint teases the "huge mistake".
+   Why it works (reading): the investigator is the point-of-view hero, and there is a mystery from the first line.
+   Thumbs: lFUTB48dSd8 = a fire captain's portrait, face burned away by a flaming hole. Dark, no text. Comparison d1nuqpAULpE
+   (10M) = a real photo of the person at the centre of the story, no text. Style: one striking human image, no words.
+
+3. M90i4QAXxy0 | Watcher | "The Deranged Arsonist Who Filmed Their Own Crime - Mystery Files" | 2,769,334 | Mar 8, 2024 | 32:05
+   Two real hosts on camera (Ryan Bergara, Shane Madej). Case story. Electrical: n.
+   First minute: "Welcome to Mystery Files where we take a deep dive into cases that span from the creepy to the truly
+   bizarre..." Then a slide projector, news clippings and the "House on Fire Tapes" title.
+   Why it works (reading): a famous host duo and a show format. The views come from the hosts, not from the fire angle.
+   Thumbs: M90i4QAXxy0 = the show title in big type, a burning house, a smirking host and the line "Your house is next!".
+   Comparison 0Anx3VQ2dcc (10M) = a show title plus two silhouettes. Style: a branded series look.
+
+4. 1pPoB8be1G0 | Primal Space | "How Investigators Find the Source of a Fire" | 2,234,555 | Jan 30, 2026 | 8:56
+   Narrator over 3D animation, faceless. Forensic explainer. Electrical: n (King's Cross 1987: matches + escalator grease).
+   First minute (transcript): "November 18th, 1987. Like every night on the London Underground, it's packed..." At 0:44:
+   "Figuring out what exactly happened here was mind-boggling... led investigators down a 7-month rabbit hole." At 0:59:
+   "We animated the entire thing to show you how investigators locate the source of a fire." Then V and U burn patterns,
+   char depth and accelerant dogs, before returning to the case.
+   Why it works (reading): it gives a date, a disaster and a mystery inside 45 seconds, then pays off with a method the viewer
+   can picture (V pattern = fire started here). The case is the hook and the method is the payoff. This is the one top-10
+   video whose subject is the method an investigator would teach.
+   Thumbs: 1pPoB8be1G0 = a 3D kitchen with a firefighter looking at a stove, an orange pan and a toaster picked out, and
+   "WHERE DID IT START?". Comparison kUYzuAJeg3M (12M) = a 3D object and a 3-word title. Style: clean 3D render, one question.
+   The question format suits a persona channel.
+
+5. pVhOU8pvxxA | 48 Hours | "The Station Nightclub Fire: Who's Responsible?" | 2,015,417 | Feb 20, 2024 | 41:52
+   Narrator, survivors and archive footage. Case story. Electrical: n (pyrotechnics).
+   First minute: "It took nearly 24 hours to recover all the bodies from inside the ruins of Rhode Island's Station
+   nightclub." Then burn survivors and memorials.
+   Why it works (reading): mass tragedy and a blame question, from a 2.56M-subscriber TV brand.
+   Thumbs: pVhOU8pvxxA = real night footage of the burning club with a timestamp and the 48 logo. Comparison xU7GIDi66xE (15M)
+   = a victim portrait + logo. Style: archive realism.
+
+6. pTDKkOy2KcA | Howtown | "How to catch an arsonist" | 1,863,344 | Jun 30, 2026 | 27:26
+   Two journalist hosts; investigators interviewed. Forensic explainer (Palisades fire). Electrical: n.
+   First minute: "How do they know what or who started the Palisades fire? A blaze that destroyed thousands of homes...
+   Months after the rubble was cleared, the government offered up a culprit." Satellite maps, a press conference, the
+   suspect's mugshot, documents.
+   Why it works (reading): it opens on a direct "how do they know?" question about a fire everyone has heard of. The method
+   is the story.
+   Thumbs: pTDKkOy2KcA = a burning street with palms and "who started this?" in lower case. Comparison tdIUMkXxtHg (4.8M) =
+   host face + 3-word text. Style: one question over a disaster photo.
+
+7. 5xsbaZoBgfc | Law&Crime Network | "Killer Cases: Deadly Arson Fire Kills 5 Kids, 2 Parents in Ohio Home" | 1,320,795 |
+   Jun 16, 2024 | 42:59. Narrator + news/court footage. Case story. Electrical: n.
+   First minute: a witness ("It's poison, man. If somebody's in there, they're dead"), then "five children and two adults
+   were killed by what they are calling a devastatingly quick-moving fire."
+   Why it works (reading): the death toll is in the title and the first 15 seconds. True-crime audience.
+   Thumbs: 5xsbaZoBgfc = a family photo next to the burned house, "KILLER CASES". Comparison ZXI25GM0X8g = mugshot inset,
+   bodycam flash and a red arrow. Style: victim photo + ruin + brand.
+
+8. Mwi1YNIUOlQ | Law&Crime Network | "TikTok Couple's Arson Case HEATS UP!" | 1,007,781 | Oct 9, 2026 | 24:23
+   Host + court footage. Case story / court. Electrical: n.
+   First minute: "It's an arson case getting a lot of attention and not really because of the flames. A TikTok personality..."
+   Why it works (reading): celebrity and courtroom drama. The fire itself is secondary.
+   Thumbs: Mwi1YNIUOlQ = defendant in orange in court, couple photo inset, logo. Comparison 5xsbaZoBgfc (above).
+
+9. hmDTGg5Qfbo | FilmRise True Crime | "Forensic Files - S7E41 - Plastic Fire" | 893,333 | Dec 10, 2021 | 22:37
+   Narrator; investigators interviewed. Case story. Electrical: unclear.
+   First minute: "Police say that this car crash which killed an elderly woman was murder and arson... Two fire
+   investigators came to two entirely different conclusions." Then "Was it an accident or murder? You decide."
+   Why it works (reading): two investigators disagree. The forensic method is the suspense.
+   Thumbs: hmDTGg5Qfbo = an interviewee in a dim room + "FORENSIC FILES" logo. Comparison nEr5FbUqtgc = same template.
+   Style: a series brand with interview stills. Old TV library.
+
+10. nEr5FbUqtgc | FilmRise True Crime | "Forensic Files - S7E34 - Fire Proof" | 859,759 | Dec 10, 2021 | 22:37
+   Narrator. Case story (Seattle 1992 arson series). Electrical: n.
+   First minute: "In 1992, there were more than 75 suspicious fires set in Seattle... It was the biggest arson case in
+   American history."
+   Thumbs: nEr5FbUqtgc and u5-FjxbOGDc = the same Forensic Files interview-still template.
+
+PATTERN ACROSS THE TOP 10 (reading)
+- 9 of 10 are crime / disaster stories carried by big brands (TV networks, true-crime studios, famous hosts). The demand is for
+  the mystery ("who / what started it"), not for home-safety advice.
+- The one that teaches the investigator's method (Primal Space, 2.23M) and Howtown (1.86M) both open on a specific disaster
+  and a "how do they know?" question, then show the method (burn patterns, char depth, evidence).
+- No top-10 video is about a house's electrical system. None of the 23 electrical + investigator-framed rows passes 300K.
+  The biggest are ilrUC-twHMY (EV fires, mechanic YouTuber, 292,303), RuGVp_kIjq4 (BBC Heathrow substation fire, 283,536) and
+  0vofS-u_gKE (NFPA MGM Grand documentary, 124,264).
+
+NEXT-BEST ROWS CLOSEST TO THE PLANNED CHANNEL (home / electrical cause), for reference
+- K7P1KyisUKA DIY Solar Power with Will Prowse "Lithium Battery House Fire: What Went Wrong? Who is to Blame?!" 503,205 (Jul 20, 2025)
+  Solar YouTuber on camera. Post-fire cause analysis. Electrical y. investigator_framing n.
+- f_EvnEe4NR4 FixItWithFil "This Kitchen Outlet Nearly Caught Fire - Here's What Went Wrong" 274,756 (Sep 22, 2026). Electrician.
+- b99n3tesnqY John Ward "Overheated Plug and Damaged Socket Outlet" 275,703 (Feb 12, 2017). Electrician.
+- EmXjbPLUx_8 Fire Investigation Industries "2016 April - Fire Investigation 1B - Milpitas CA" 170,585 (Apr 25, 2016).
+  A real class recording, from the channel's popular list (not surfaced by search, so not in videos.csv).
+- R0ptTIOP-H8 South Metro Fire Rescue "Fleet Friday - Fire Investigator Vehicle" 132,010. SmmAh87Anh8 FSRI "Fire Investigation" 122,969.
+- zIs2YyjzvCQ Chief Reardon and Walt Greer (AI persona) "25 Places House Fires Start That Homeowners Never Check (Fire
+  Investigators Check The...)" 700 (Sep 5, 2026).
+- Task reference: Nj_6hubk0RU Buckin' Billy Ray Smith "CHIMNEY FIRES: Don't Believe What You Hear" 751,455 (Sep 15, 2026, 20:42).
+  Not found by any of the 38 keywords. Not investigator framed.

@@ -1,0 +1,244 @@
+file,row_or_claim,field,recorded_value,checked_value,source,verdict,note
+top-100.csv,rank 43 WOK_EH5YHjM,labels,,not in labelled-A/B/C,data/labels,minor,top-100 row has no round 4 label
+top-100.csv,rank 51 A3Dblph1fig,labels,,not in labelled-A/B/C,data/labels,minor,top-100 row has no round 4 label
+top-100.csv,rank 84 mmR5iEEP9q8,labels,,not in labelled-A/B/C,data/labels,minor,top-100 row has no round 4 label
+top-100.md,closing line,unnarrated count / cut-offs,"9; 2,508,755; 2,680,400","9; 2,508,755; 2,680,400","top-100.csv, top100-narrated.csv",ok,
+data/top100/top100-narrated.csv,first 91 rows,order vs top100-final narrated rows,match,match,top100-final,ok,
+top-100.csv,all 100,labels present,97,100,labelled-*.csv,minor,"3 videos added after checker E (WOK_EH5YHjM #43, A3Dblph1fig #51, mmR5iEEP9q8 #84) have blank emotions/villain; format_r4 falls back to round 2 format; top-100.md does not say these 3 are unlabelled, and its emotion/villain counts cover 97 videos"
+top-100.csv,all 100 rows,13 source columns + multiple + emotions/villain/format_r4,match,match,"top100-final.csv, channel-medians.csv, labelled-*.csv",ok,
+top-100.md,all 100 rows,12 table columns,match,match,top-100.csv,ok,
+top-100.md,counts table subniche,all rows,match,match,recount of top-100.csv,ok,
+top-100.md,counts table format,all rows,match,match,recount of top-100.csv,ok,
+top-100.md,counts table emotion,all rows,match,match,recount of top-100.csv,ok,
+top-100.md,counts table villain,all rows,match,match,recount of top-100.csv,ok,
+recent-winners.md,90d table,all 50 rows x 10 columns,match,match,"data/top100/recent-90d.csv, labelled-*.csv, channel-medians.csv",ok,"window, order and no-duplicate checks ok"
+recent-winners.md,12mo table,all 50 rows x 10 columns,match,match,"data/top100/recent-12mo.csv, labelled-*.csv, channel-medians.csv",ok,"window, order and no-duplicate checks ok"
+recent-winners.md,intro line,90-day #50 views,"68,777","68,777",recent-90d.csv,ok,
+recent-winners.md,rising/falling intro,merged video count,"4,758",4758,videos-with-multiples.csv,ok,
+recent-winners.md,rising/falling subniche table,all rows,match,match,recomputed with the script's age rule,ok,
+recent-winners.md,rising/falling format table,all rows,match,match,recomputed with the script's age rule,ok,
+recent-winners.md,rising/falling (both tables),age split,"99 videos with absolute dates ('Mon D, YYYY') inside the last 12 months counted as older",should be recent,"build_docs.py recent(): only ISO dates and relative ages are read; 'Dec 28, 2025' style dates fall through to False",wrong,"recent N 2,372 -> 2,471. Directions hold except near-zero rows (dryer-vents +0.1 -> -0.3; testers-meters +0.1 -> 0.0; format unclear +0.1 -> -0.1). Biggest figure shifts: breakers-panels recent median 290 -> 518, recent multiple 1.5 -> 2.7, share gap -1.4 -> -0.4pp; batteries-lithium recent median 1,927 -> 3,506; old-wiring 212 -> 404; electric-bill recent multiple 13.9 -> 9.2"
+data/merged/videos-all.csv,224 corrections (drop),dropped IDs still in scope,0,0,corrections.csv,ok,
+data/merged/videos-with-multiples.csv,all,rows,4758,4758,videos-all.csv minus out,ok,
+data/merged/videos-with-multiples.csv,"all 4,758",multiple,0 mismatches,0,recomputed views / channel-medians.csv (median>=200),ok,
+subniches.md,intro,videos with a multiple,"2,674","2,674",videos-with-multiples.csv,ok,
+subniches.md,intro,unique in-scope videos,"4,758","4,758",videos-all.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,videos,411,411,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,channels,254,254,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,median_views,71022,71022,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,videos_1M_plus,73,73,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,videos_with_multiple,303,303,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,median_multiple,7.51,7.51,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,share_2x_plus,74%,74%,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,outlets-switches,biggest 3 (ids),nWfEANZOYSk RO6Kq65HwNw opoEswRp_jg,nWfEANZOYSk RO6Kq65HwNw opoEswRp_jg,recomputed,ok,
+data/merged/subniche-map.csv,fire-habits,videos,320,320,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,channels,227,227,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,median_views,1079,1079,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,videos_1M_plus,8,8,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,videos_with_multiple,132,132,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,median_multiple,2.48,2.48,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,share_2x_plus,55%,55%,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,fire-habits,biggest 3 (ids),CdItsso3ur0 BtMmymOxdjc 1pPoB8be1G0,CdItsso3ur0 BtMmymOxdjc 1pPoB8be1G0,recomputed,ok,
+data/merged/subniche-map.csv,generator-safety,videos,226,226,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,channels,177,177,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,median_views,12045,12045,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,videos_1M_plus,17,17,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,videos_with_multiple,126,126,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,median_multiple,7.19,7.19,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,share_2x_plus,77%,77%,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,generator-safety,biggest 3 (ids),CKwBBesUKA8 fB6uI7NPxRs GLgtFCJlVFQ,CKwBBesUKA8 fB6uI7NPxRs GLgtFCJlVFQ,recomputed,ok,
+data/merged/subniche-map.csv,batteries-lithium,videos,227,227,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,channels,186,186,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,median_views,27355,27355,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,videos_1M_plus,13,13,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,videos_with_multiple,152,152,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,median_multiple,3.96,3.96,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,share_2x_plus,62%,62%,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,batteries-lithium,biggest 3 (ids),AGglJehON5g sTSQwtwr-Gg Mkgo_CLVbzg,AGglJehON5g sTSQwtwr-Gg Mkgo_CLVbzg,recomputed,ok,
+data/merged/subniche-map.csv,old-panels,videos,103,103,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,channels,77,77,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,median_views,3664,3664,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,videos_1M_plus,0,0,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,videos_with_multiple,50,50,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,median_multiple,3.1,3.1,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,share_2x_plus,60%,60%,recomputed from videos-all.csv + channel-medians.csv,ok,
+data/merged/subniche-map.csv,old-panels,biggest 3 (ids),ewD2FHev_pk 5YNLC80clS8 VTXnSgpiCSw,ewD2FHev_pk 5YNLC80clS8 VTXnSgpiCSw,recomputed,ok,
+subniches.md,all 24 rows,8 columns,match,match,subniche-map.csv,ok,
+data/merged/subniche-map.csv,all,sum of videos,4758,4758,videos-all.csv,ok,
+emotions.md,electrical-explainer,labelled videos,56,56,labelled-A/B/C.csv,ok,
+emotions.md,electrical-explainer,all 7 emotion rows (any/first/median/example/mark) + villains,match,match,independent recount of labelled-A/B/C.csv,ok,
+emotions.md,fire-habits,labelled videos,42,42,labelled-A/B/C.csv,ok,
+emotions.md,fire-habits,all 8 emotion rows (any/first/median/example/mark) + villains,match,match,independent recount of labelled-A/B/C.csv,ok,
+emotions.md,generator-safety,labelled videos,43,43,labelled-A/B/C.csv,ok,
+emotions.md,generator-safety,all 8 emotion rows (any/first/median/example/mark) + villains,match,match,independent recount of labelled-A/B/C.csv,ok,
+emotions.md,"All 1,007",total labelled,1007,1007,labelled-A/B/C,ok,
+emotions.md,"All 1,007 table",22 emotion counts,match,match,recount,ok,
+emotions.md,all 24 section headers,labelled counts,match,match,recount,ok,
+formats.md,all 24 rows,7 columns,match,match,data/merged/format-map.csv,ok,
+data/merged/format-map.csv,all 27 formats,videos/channels/median/1M+/multiple/2x,match,match,independent recompute from videos-with-multiples.csv,ok,
+channels.csv,all,rows,298,298,census-all.csv,ok,
+channels.csv,all 298,monthly views + earnings arithmetic (every row),0 mismatches,0,"nexlev-daily.csv, census-all.csv rpm",ok,
+channels.md,sources paragraph,rows flagged,43,92,recount with the flag rule,wrong,"92 channels have blank monthly views: 58 NexLev returned no data, 32 stale tracking, 2 negative; none blanked for 30-day > lifetime views (the 4 census 'IMPOSSIBLE' cases were re-pulled in nexlev-daily.csv and are now possible). 43 matches no subset; 206 rows carry monthly views"
+channels.csv,WiseMoney,monthly_views_30d,kept,"view30Day 111,627 > view365Day 2,006",nexlev-daily.csv,minor,"impossible-looking NexLev figures not caught by the flag rule; note: view365Day 2,006 < view90Day 917,873 (NexLev artefact); NexLev history starts 20"
+channels.csv,Ground Truth,monthly_views_30d,kept,view7Day 417 > view30Day 283,nexlev-daily.csv,minor,"impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09-28; lifetime views fell 5,891 to 457 on 2026-10-02"
+channels.csv,CalBrennan,monthly_views_30d,kept,view30Day 236 > view90Day 174; view30Day 236 > view365Day 174,nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-08; view90Day/view365Day 174 < view30Day (NexLev arte
+channels.csv,The Grid Keeper,monthly_views_30d,kept,view30Day 302 > view90Day 298,nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: view30Day 302 > view90Day 298 (NexLev artefact); 2026-09 monthly gain negative (
+channels.csv,Smarter Sparky,monthly_views_30d,kept,"view30Day 465,201 > view365Day 291,557",nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-01 | AUTO-FLAG: view90Day > view365Day
+channels.csv,Fire Radar,monthly_views_30d,kept,view30Day 166 > view90Day 1; view30Day 166 > view365Day 1,nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09 (only 2 months); view90Day/view365Day = 1 (< view3
+channels.csv,Bike Vault,monthly_views_30d,kept,"view30Day 8,010 > view365Day 226",nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: view365Day 226 < view90Day (NexLev artefact: lifetime views fell ~39.4k in week 
+channels.csv,Sam Creel,monthly_views_30d,kept,"view30Day 29,539 > view90Day 1,502; view30Day 29,539 > view365Day 1,502",nexlev-daily.csv,minor,"impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-08; view90Day/view365Day 1,502 < view30Day (NexLev ar"
+channels.csv,Frank The Firefighter,monthly_views_30d,kept,"view30Day 20,427 > view90Day 2,689; view30Day 20,427 > view365Day 2,689",nexlev-daily.csv,minor,"impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09 (only 2 months); view90Day/view365Day 2,689 < view"
+channels.csv,Earl Knows Engines,monthly_views_30d,kept,"view30Day 8,282 > view90Day 1,980; view30Day 8,282 > view365Day 1,980",nexlev-daily.csv,minor,"impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09 (only 2 months); view90Day/view365Day 1,980 < view"
+channels.csv,Dale Brannon,monthly_views_30d,kept,"view30Day 2,070 > view90Day 208; view30Day 2,070 > view365Day 208",nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09 (only 2 months); view90Day/view365Day 208 < view30
+channels.csv,Gary Hutchins,monthly_views_30d,kept,"view30Day 2,511 > view90Day 436; view30Day 2,511 > view365Day 436",nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09 (only 2 months); view90Day/view365Day 436 < view30
+channels.csv,Hidden Home Danger,monthly_views_30d,kept,"view30Day 2,002 > view90Day 50; view30Day 2,002 > view365Day 50",nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-08; view90Day/view365Day 50 < view30Day; 2026-08 mont
+channels.csv,Tommy Sullivan,monthly_views_30d,kept,"view30Day 2,456 > view90Day 671; view30Day 2,456 > view365Day 671",nexlev-daily.csv,minor,impossible-looking NexLev figures not caught by the flag rule; note: NexLev history starts 2026-09 (only 2 months); view90Day/view365Day 671 < view30
+channels.csv,JCR Productions Electrical Training (UCcLCThmvuIxU3LJYHZ6FDdA),22 copied columns + median + monthly views + earnings,mv=blank; rpm=3.25; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,ELECTRICAL PRO TIPS (UCK3Pt9Ginp91EI-PwFVoYqA),22 copied columns + median + monthly views + earnings,mv=5588; rpm=3.24; earn=18,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,ElectriHelp (UCFTyE8e5LGj3WHEX813rfgg),22 copied columns + median + monthly views + earnings,mv=blank; rpm=5.13; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Wire Wise Academy (UC-MhB6izqQSdUGnn3iEbnzg),22 copied columns + median + monthly views + earnings,mv=blank; rpm=3.36; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,The New Home Illusion,census monthly_views vs nexlev-daily view30Day,"216 (NexLev NF est., upd 2026-10-19)",193,census-all.csv vs nexlev-daily.csv,minor,two NexLev pulls differ; channels.csv uses nexlev-daily
+channels.csv,The New Home Illusion (UCUTZMtthVrdBhKfRrF0mrVg),22 copied columns + median + monthly views + earnings,mv=193; rpm=3.59; earn=1,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Ambition Strikes (UC5OdB-sGz9atv-tJINwWOTg),22 copied columns + median + monthly views + earnings,mv=6193045; rpm=4.72; earn=29231,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Ani Jose (UCMEZDecultHhqdjx7SBOEEw),22 copied columns + median + monthly views + earnings,mv=blank; rpm=7.39; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Keerthi (UCK-HHyVCfKYzhxVOJgBt73w),22 copied columns + median + monthly views + earnings,mv=30563666; rpm=7.93; earn=242370,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,John Harabedian (UCMFQhqWduTgxeeSHVAyIfPQ),22 copied columns + median + monthly views + earnings,mv=blank; rpm=5.59; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,White Brothers Electric LLC (UCvddjuQr63BfchZ5iMc6vyQ),22 copied columns + median + monthly views + earnings,mv=blank; rpm=3.39; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,DIY CREATOR 247 (UC_fVPV0-N4-LJUZgDzMvbUQ),22 copied columns + median + monthly views + earnings,mv=10397; rpm=2.58; earn=27,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Home Rapid Repair (UCloyA5KxoM63MtH4SQxnkLQ),22 copied columns + median + monthly views + earnings,mv=2537047; rpm=4.35; earn=11036,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,KERF How To (UCpcXEJD5c_vlnB490wg8lFw),22 copied columns + median + monthly views + earnings,mv=4384; rpm=blank; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,How To Home (UCpb-xu6Oun_d41RjztUgFWA),22 copied columns + median + monthly views + earnings,mv=3589938; rpm=blank; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,LEARN ELECTRICS (UCYaJQnpO4XAp0yCgqzMkmfA),22 copied columns + median + monthly views + earnings,mv=172468; rpm=2.52; earn=435,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Roy Dalton Electric (UCD5ecNIpxHr3xCiOhiFtC0g),22 copied columns + median + monthly views + earnings,mv=70458; rpm=4.97; earn=350,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Walt Brennan,census monthly_views vs nexlev-daily view30Day,"215,383 (IMPOSSIBLE: exceeds NexLev total views 188,856)",200853,census-all.csv vs nexlev-daily.csv,minor,two NexLev pulls differ; channels.csv uses nexlev-daily
+channels.csv,Walt Brennan (UClpBI_QHhMq2_LcMMwmr6Og),22 copied columns + median + monthly views + earnings,mv=200853; rpm=7.56; earn=1518,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Fix it with Jay (UCBSz4RHRfgZVYq20cJsRP-w),22 copied columns + median + monthly views + earnings,mv=78948; rpm=2.96; earn=234,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,DIY Tips 24h,census monthly_views vs nexlev-daily view30Day,"2,744,915 (NexLev estimate)",2666239,census-all.csv vs nexlev-daily.csv,minor,two NexLev pulls differ; channels.csv uses nexlev-daily
+channels.csv,DIY Tips 24h (UCJVZSU8Eq8BXpiQtW-O1S6A),22 copied columns + median + monthly views + earnings,mv=2666239; rpm=3.15; earn=8399,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Fix This Build That (UCHYSw4XKO_q1GaChw5pxa-w),22 copied columns + median + monthly views + earnings,mv=4555580; rpm=blank; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,BESA Research (UChW1-MEgWf0viaY1h0HQvag),22 copied columns + median + monthly views + earnings,mv=167639; rpm=4.81; earn=806,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Flannel Guy DIY (UC-gmqGa0TFBUkzOrfMnBGUQ),22 copied columns + median + monthly views + earnings,mv=185399; rpm=4.44; earn=823,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Anthony Mendez,census monthly_views vs nexlev-daily view30Day,"2,128,634 (NexLev estimate)",2507083,census-all.csv vs nexlev-daily.csv,minor,two NexLev pulls differ; channels.csv uses nexlev-daily
+channels.csv,Anthony Mendez (UC4JLjBBedLqXjBF7u09lFyQ),22 copied columns + median + monthly views + earnings,mv=2507083; rpm=3.57; earn=8950,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Electric Pro Academy (UCEi84kmtGymUAjhVK6fxOzQ),22 copied columns + median + monthly views + earnings,mv=79822; rpm=blank; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.csv,Arnold Electric (UCiWb6wDuVKMXYgL_S7y5ADQ),22 copied columns + median + monthly views + earnings,mv=blank; rpm=3.84; earn=blank,match,"census-all.csv, nexlev-daily.csv, channel-medians.csv",ok,
+channels.md,core + partial tables (283 rows),10 data columns,match,match,channels.csv,ok,
+channels.md,intro,channels / core / partial / out,298;135;148;15,298;135;148;15,channels.csv,ok,
+channels.md,counts table (type),all rows,match,recount,channels.csv,ok,
+channels.md,counts table (background),all rows,match,recount,channels.csv,ok,
+new-channels.md,intro,"new channels (core+partial, new_12mo=y)",128,128,channels.csv,ok,
+new-channels.md,intro,qualify,26,26 (28 once DeviceDeep and Eric Explains are counted),table rows,wrong,"count matches the table, but the table misses 2 qualifying channels"
+new-channels.md,Hardwired YouTube (UCo7EsDiQV_RqVCHLhQS986w),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 1,700,000; 30d 814958; median blank; subs 9,850)",channels.csv recompute,ok,
+new-channels.md,Frederick Barnes (UCSf0X7Rt96r7sx0uCiDgDcA),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 439,000; 30d 300019; median 142; subs 1,350)",channels.csv recompute,ok,
+new-channels.md,WiseMoney (UCg7DfgK6U8Z5DXPFouF98EQ),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 380,000; 30d 111627; median 808.0; subs 22,000)",channels.csv recompute,ok,
+new-channels.md,FixItWithFil (UCq6ZD77yzOZkm23Wr6A3jqg),taking-off rule,a video over 100K; 100K+ views in 30 days; median video at least 2x its subscribers (and 1K+),"a video over 100K; 100K+ views in 30 days; median video at least 2x its subscribers (and 1K+) (top video 274,000; 30d 111227; median 3200.0; subs 1,020)",channels.csv recompute,ok,
+new-channels.md,bradyjreports (UCvKO3KtRQUC8TZ6hFiwU-Lg),taking-off rule,a video over 100K,"a video over 100K (top video 149,000; 30d 1592; median blank; subs 811)",channels.csv recompute,ok,
+new-channels.md,Kilowatt Nation (UCr9iCr0odsB6IQ_37ULOrUA),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 146,000; 30d 464798; median 3900; subs 3,010)",channels.csv recompute,ok,
+new-channels.md,E-Bike Insider (UCjOV-xw-tD7dvZTkh0BZUTw),taking-off rule,100K+ views in 30 days; median video at least 2x its subscribers (and 1K+),"100K+ views in 30 days; median video at least 2x its subscribers (and 1K+) (top video 72,000; 30d 198113; median 4200; subs 640)",channels.csv recompute,ok,
+new-channels.md,The eBike Doctor (UCECVWqdvsj91isypffyCFOA),taking-off rule,median video at least 2x its subscribers (and 1K+),"median video at least 2x its subscribers (and 1K+) (top video 70,000; 30d 98531; median 5050.0; subs 1,490)",channels.csv recompute,ok,
+new-channels.md,DIY INVENTOR (UCSlZaMPauAbBW1DJSuKx1Kw),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 5,634,911; 30d 2145766; median blank; subs 24,600)",channels.csv recompute,ok,
+new-channels.md,Smarter Sparky (UC9TkzHC0J8SmHKpgnRxE5JA),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 1,247,385; 30d 465201; median 60500.0; subs 61,200)",channels.csv recompute,ok,
+new-channels.md,The Wiring Guide (UC7oeG08Bo3TwbMTZ8fA8qjA),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 1,039,999; 30d 548321; median 3950.0; subs 9,470)",channels.csv recompute,ok,
+new-channels.md,Ramón Delgado (UC6nh_16KkkMHjccUXBNPEfQ),taking-off rule,a video over 100K; 100K+ views in 30 days,"a video over 100K; 100K+ views in 30 days (top video 974,059; 30d 122409; median 4300.0; subs 33,600)",channels.csv recompute,ok,
+new-channels.md,Rational Buyer (UCRKwB8DarX5_lykpnh8BolQ),taking-off rule,a video over 100K,"a video over 100K (top video 288,469; 30d 23943; median 345; subs 1,820)",channels.csv recompute,ok,
+new-channels.md,Walt Brennan (UClpBI_QHhMq2_LcMMwmr6Og),taking-off rule,100K+ views in 30 days,"100K+ views in 30 days (top video 85,680; 30d 200853; median 2000; subs 1,730)",channels.csv recompute,ok,
+new-channels.md,Earl Knows Engines (UCPrWMmUAx9RBtR7FEskcBXQ),taking-off rule,median video at least 2x its subscribers (and 1K+),"median video at least 2x its subscribers (and 1K+) (top video 2,858; 30d 8282; median 1500.0; subs 50)",channels.csv recompute,ok,
+new-channels.md,Weirdward Bound,why,100K+ views in 30 days,a video over 100K; 100K+ views in 30 days,recompute,minor,
+new-channels.md,The Apprentice's Guide,why,100K+ views in 30 days; median video at least 2x its subscribers (and 1K+),a video over 100K; 100K+ views in 30 days; median video at least 2x its subscribers (and 1K+),recompute,minor,
+new-channels.md,Home Hazard,why,100K+ views in 30 days,a video over 100K; 100K+ views in 30 days,recompute,minor,
+new-channels.md,Modern-Day Edison,why,100K+ views in 30 days,a video over 100K; 100K+ views in 30 days,recompute,minor,
+new-channels.md,DIY Tips 24h,why,100K+ views in 30 days,a video over 100K; 100K+ views in 30 days,recompute,minor,
+new-channels.md,Elias Mercer Method,why,100K+ views in 30 days,a video over 100K; 100K+ views in 30 days,recompute,minor,
+new-channels.md,Zenthral Code,why,100K+ views in 30 days,a video over 100K; 100K+ views in 30 days,recompute,minor,
+new-channels.md,SHOCKPROOF LIVING (UCHhiS7OziiRgZ7wmZM4GKsw),taking-off rule,median video at least 2x its subscribers (and 1K+),"median video at least 2x its subscribers (and 1K+) (top video 67,000; 30d 40494; median 1400.0; subs 620)",channels.csv recompute,ok,
+new-channels.md,Ethan Ellis (UCSIpmdHeycEyiau0QF4Sw5g),taking-off rule,median video at least 2x its subscribers (and 1K+),"median video at least 2x its subscribers (and 1K+) (top video 34,000; 30d blank; median 2500; subs 1,090)",channels.csv recompute,ok,
+new-channels.md,Fever River Construction & Electric (UCpZhX7l9UkhmGmhWjS5OknQ),taking-off rule,median video at least 2x its subscribers (and 1K+),"median video at least 2x its subscribers (and 1K+) (top video 16,000; 30d blank; median 1200; subs 380)",channels.csv recompute,ok,
+new-channels.md,Daily Inventor T (UCbl4FZJfxh8tGVOwTTIrSYg),taking-off rule,median video at least 2x its subscribers (and 1K+),"median video at least 2x its subscribers (and 1K+) (top video 24,000; 30d 27036; median 1200; subs 156)",channels.csv recompute,ok,
+new-channels.md,DeviceDeep (UC9ga5pd1adLQS3liXnZKVkg),taking off,listed as not taking off,"a video over 100K (top video 138,000; top3: 5 Electricity Secrets Your Power Company HATES (WVwnSK2VZiE) 138,000 views [11:19] | How USB-C Works and The Cable That Could Steal Your Data (9hnSCHZ)",channels.csv top3 / monthly views / median,wrong,"build_channels.py topv() reads only '[id] 123,456' view figures; this channel's top3 uses '(id) 123,456 views', so its top video counted as 0"
+new-channels.md,Eric Explains (UCXnqxs5yX3F-lMf8lzWNrdA),taking off,listed as not taking off,"a video over 100K (top video 185,000; top3: Every Type of Antenna Explained (cGloedjeltI) 185,000 views [17:31] | How Electric Current Works Explained Simply (ltvHdF2TO8w) 115,000 views [18:01] )",channels.csv top3 / monthly views / median,wrong,"build_channels.py topv() reads only '[id] 123,456' view figures; this channel's top3 uses '(id) 123,456 views', so its top video counted as 0"
+new-channels.md,HandMaster (UCh0KOXwI45Ib5BtvsKcUSJQ),not taking off,not taking off,top video 19; 30d blank; median 19; subs 2,channels.csv recompute,ok,
+new-channels.md,The New Home Illusion (UCUTZMtthVrdBhKfRrF0mrVg),not taking off,not taking off,"top video 46,000; 30d 193; median 574.5; subs 720",channels.csv recompute,ok,
+new-channels.md,LEONARDO LOPEZ (UCinb8I1I0LBIw8LYiyq4ldA),not taking off,not taking off,top video 6; 30d blank; median 6; subs 0,channels.csv recompute,ok,
+new-channels.md,Safe-ish (UCOzSjX51a91IC9mJXk5PvKQ),not taking off,not taking off,top video 50; 30d blank; median 36.0; subs 0,channels.csv recompute,ok,
+new-channels.md,JCR Productions Electrical Training (UCcLCThmvuIxU3LJYHZ6FDdA),not taking off,not taking off,"top video 8,000; 30d blank; median blank; subs 676",channels.csv recompute,ok,
+new-channels.md,CalBrennan (UCcbk8nP7UJ0gLxmW4MIU7mg),not taking off,not taking off,top video 87; 30d 236; median 67.5; subs 5,channels.csv recompute,ok,
+new-channels.md,Devin Hollis (UCluvuSN1x_Kyh9tYG2BOGhQ),not taking off,not taking off,"top video 7; 30d blank; median 5.5; subs 1,000",channels.csv recompute,ok,
+new-channels.md,INNOVATIVE LAB USA (UCjyUWi4EsJCsnzAR8twIepA),not taking off,not taking off,"top video 20,000; 30d 17660; median 425.0; subs 160",channels.csv recompute,ok,
+new-channels.md,Home Safety (UCQ3zj1pEGWj9WFklrPnZnwA),not taking off,not taking off,"top video 2,000; 30d 386; median 31.0; subs 31",channels.csv recompute,ok,
+new-channels.md,Power Mechanics Max (UCN4iDVKQEeWB8JoCjeF8UfA),not taking off,not taking off,top video 168; 30d blank; median 4.5; subs 4,channels.csv recompute,ok,
+new-channels.md,Marv Ostrander (UCpMz5KPwP37riCqfvY8UY7Q),not taking off,not taking off,"top video 1,600; 30d 3240; median 238; subs 15",channels.csv recompute,ok,
+new-channels.md,Ani Jose (UCMEZDecultHhqdjx7SBOEEw),not taking off,not taking off,top video 151; 30d blank; median 9; subs 5,channels.csv recompute,ok,
+new-channels.md,Francis Ruetz - DIY Electrical Education (UCcrClqLMNlRv52xCdQwD8xg),not taking off,not taking off,top video 656; 30d 900; median 531.0; subs 10,channels.csv recompute,ok,
+new-channels.md,Lineman Miller (UC4aNYgXlGPUkwPqTj9bFyHQ),not taking off,not taking off,top video 260; 30d blank; median 28.5; subs 2,channels.csv recompute,ok,
+new-channels.md,Chief Reardon (UCDfUpxEwI1s0tkTAm-cNw0A),not taking off,not taking off,"top video 1,706; 30d 2982; median 292.0; subs 47",channels.csv recompute,ok,
+new-channels.md,not taking off header,count,102,102 (100 once the 2 missed channels move up),recount,minor,follows from the topv() parse bug
+keyword-sweep.md,wiring,keyword count,31,31,data/sweep/wiring/keywords.csv,ok,
+keyword-sweep.md,wiring (31 rows),5 columns,match,match,data/sweep/wiring/keywords.csv,ok,
+keyword-sweep.md,panels,keyword count,30,30,data/sweep/panels/keywords.csv,ok,
+keyword-sweep.md,panels (30 rows),5 columns,match,match,data/sweep/panels/keywords.csv,ok,
+keyword-sweep.md,cords,keyword count,29,29,data/sweep/cords/keywords.csv,ok,
+keyword-sweep.md,cords (29 rows),5 columns,match,match,data/sweep/cords/keywords.csv,ok,
+keyword-sweep.md,devices,keyword count,28,28,data/sweep/devices/keywords.csv,ok,
+keyword-sweep.md,devices (28 rows),5 columns,match,match,data/sweep/devices/keywords.csv,ok,
+keyword-sweep.md,fire,keyword count,41,41,data/sweep/fire/keywords.csv,ok,
+keyword-sweep.md,fire (41 rows),5 columns,match,match,data/sweep/fire/keywords.csv,ok,
+keyword-sweep.md,explainers,keyword count,53,53,data/sweep/explainers/keywords.csv,ok,
+keyword-sweep.md,explainers (53 rows),5 columns,match,match,data/sweep/explainers/keywords.csv,ok,
+keyword-sweep.md,total,round 2 keywords,212,212,sum of 6 keywords.csv,ok,
+keyword-sweep.md,investigator,rows,114,114,data/investigator/keywords.csv,ok,
+keyword-sweep.md,intro,investigator keywords (text says 38),38,38,data/investigator/keywords.csv unique keyword,ok,
+top-100.csv,10 bTRLt-fzTwg,views,"9,619,555","9,619,607","yt.py video, re-pulled 2026-10-26",ok,grew +52
+top-100.csv,40 ZBbgiBU96mM,views,"4,379,921","4,379,922","yt.py video, re-pulled 2026-10-26",ok,grew +1
+top-100.csv,56 GLZSqhUoF_g,views,"3,804,716","3,804,716","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,32 EseFbug7cMg,views,"4,817,646","4,817,672","yt.py video, re-pulled 2026-10-26",ok,grew +26
+top-100.csv,58 _bgUy6zA0ts,views,"3,761,194","3,761,194","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,38 JBKF7rKB3zc,views,"4,437,479","4,437,479","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,33 lZBRYx0qXEU,views,"4,740,061","4,740,061","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,72 GLgtFCJlVFQ,views,"3,397,450","3,397,450","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,13 TdUK6RPdIrA,views,"8,652,656","8,652,713","yt.py video, re-pulled 2026-10-26",ok,grew +57
+top-100.csv,96 O4HJEX4i8Ic,views,"2,810,454","2,810,454","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,64 _KWdCqpXB7A,views,"3,630,527","3,630,842","yt.py video, re-pulled 2026-10-26",ok,grew +315
+top-100.csv,24 eTpbh2zJGhA,views,"6,088,792","6,088,798","yt.py video, re-pulled 2026-10-26",ok,grew +6
+top-100.csv,60 on6VxMLd9HY,views,"3,697,475","3,697,490","yt.py video, re-pulled 2026-10-26",ok,grew +15
+top-100.csv,67 64L4Pz4vuYc,views,"3,559,283","3,559,283","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,17 BGD-oSwJv3E,views,"7,347,196","7,347,249","yt.py video, re-pulled 2026-10-26",ok,grew +53
+top-100.csv,92 gqEu9t8HwW0,views,"2,955,603","2,955,657","yt.py video, re-pulled 2026-10-26",ok,grew +54
+top-100.csv,9 Fu4qZW0pQm4,views,"9,902,276","9,902,315","yt.py video, re-pulled 2026-10-26",ok,grew +39
+top-100.csv,47 Ygqv8_dR6q4,views,"4,049,014","4,049,040","yt.py video, re-pulled 2026-10-26",ok,grew +26
+top-100.csv,94 wxr1iXEf9lY,views,"2,901,812","2,901,812","yt.py video, re-pulled 2026-10-26",ok,grew +0
+top-100.csv,22 udNXMAflbU8,views,"6,660,803","6,660,813","yt.py video, re-pulled 2026-10-26",ok,grew +10
+data/top100/recent-90d.csv,27 yiOqsaclTI0,views,"161,137","161,177","yt.py video, re-pulled 2026-10-26",ok,grew +40
+data/top100/recent-90d.csv,47 m88lCa1SgPo,views,"70,900","70,900","yt.py video, re-pulled 2026-10-26",ok,grew +0
+data/top100/recent-90d.csv,46 O2gQhXOfOYY,views,"71,412","71,479","yt.py video, re-pulled 2026-10-26",ok,grew +67
+data/top100/recent-90d.csv,30 RGcyBe7fSY4,views,"144,664","145,093","yt.py video, re-pulled 2026-10-26",ok,grew +429
+data/top100/recent-90d.csv,41 4pFqbAtlPaw,views,"81,567","81,566","yt.py video, re-pulled 2026-10-26",minor,views 1 lower on re-pull (YouTube count jitter; not a data error)
+data/top100/recent-12mo.csv,2 Mkgo_CLVbzg,views,"7,279,582","7,279,765","yt.py video, re-pulled 2026-10-26",ok,grew +183
+data/top100/recent-12mo.csv,10 m8CQNYvjB_Q,views,"1,159,800","1,159,813","yt.py video, re-pulled 2026-10-26",ok,grew +13
+data/top100/recent-12mo.csv,41 Y4d8broISPA,views,"357,467","357,494","yt.py video, re-pulled 2026-10-26",ok,grew +27
+data/top100/recent-12mo.csv,11 FVQlwwT39yQ,views,"1,060,465","1,060,465","yt.py video, re-pulled 2026-10-26",ok,grew +0
+data/top100/recent-12mo.csv,40 JJDOg6Zmtk8,views,"359,694","359,767","yt.py video, re-pulled 2026-10-26",ok,grew +73
+top-100.csv + recent-*.csv,30 re-pulled rows,upload_date / channel_id / title,as recorded,"all match (2 shown as 'Premiered ...' by YouTube, same date)","yt.py video, 2026-10-26",ok,
+top-100.csv vs channels.csv,UC4JLjBBedLqXjBF7u09lFyQ,channel name,Anthony Mendez ,Anthony Mendez,,minor,
+top-100.csv vs channels.csv,UCL81H9jdKzuzCfqxV4fBVAA,channel name,Terry \u201cThe Internet Electrician\u201d Peterman,Terry “The Internet Electrician” Peterman,,minor,
+top-100.csv vs channels.csv,all,top-100 channels not in the census,38,ADT; AmplifyDIY; Another How To Channel; BEEE Works; Bailey Line Road; Battle of the Tools; Chris Notap; DIY Homestead Projects; DIYTechTrends; Dan The Technology Man; DirtFarmerJay; Doing Things Dan's Way; GEN3 Electric & HVAC; Gadget Reboot; Geek Street; Havells India; Home RenoVision DIY; Invention 75; Inventor J; Jamie Bouchard; Jr Electric School; Kreosan English; Linus Tech Tips; Puget Sound,channels.csv,minor,channels with top-100 videos that channels.md does not list
+thumbnails/labels-top-recent.csv,coverage,videos labelled,173,177,top-100 + recent lists,minor,missing: A3Dblph1fig WOK_EH5YHjM mmR5iEEP9q8 sTSQwtwr-Gg
+thumbnails/labels-top-recent.csv vs top-100.csv,views,0 of 96 differ,[],,cross-file,ok,
+top-100.md,"rank 99 EiIiI4037NE (and top-100.csv, top100-final.csv, labels-top-recent.csv, labelled-A/B)",channel,Terry \u201cThe Internet Electrician\u201d Peterman,Terry “The Internet Electrician” Peterman,channels.csv / YouTube,minor,literal \u201c escape text shown instead of curly quotes (encoding slip carried from top250-checked.csv)
+recent-winners.md,intro line,'below #2 the views are low',below #2 the views are low,"#3 841,137; #10 458,670; #14 405,809; #50 68,777",data/top100/recent-90d.csv,minor,wording overstates: 12 videos below #2 have 400K+
+"subniches.md + formats.md (data/merged/subniche-map.csv, format-map.csv)",scope,videos ruled out of the top 100 still counted,44 videos marked status=out in top250-checked.csv (not two flipped back in) are in videos-all.csv as in scope,"should be out under the top-100 scope rule, or the difference stated",data/top100/top250-checked.csv vs data/merged/videos-all.csv,wrong,"clear non-scope rows still counted: DQx5SVj0biA 'Everything You Need to Know About Wall Plugs' (drywall anchors) in outlets-switches; r7GlDBge_WU, NpcqgZaqTjk, S-DwV0HLsE4 (car/12V wiring); VwOkqM4j-ts, -8uoeQprMgg (Spanish/Russian originals); ywQeJCa3jl8, ZyVpunl8By8 (networking); AF2O4l1JprI (phone battery); _gGJTTvFSxI (solar); 2Cw7SxhDJ2U, np18AEKT60A (streamer entertainment). Plus 23 general-theory videos (Veritasium, Engineering Mindset). Only the top 250 were scope-checked this way, so more may exist lower down"
+subniches.md,biggest videos column,out-of-scope videos shown as biggest,"connectors: uj_PbRBirkQ (soldering, electronics hobby), r7GlDBge_WU (car wiring); batteries-lithium: AGglJehON5g (Veritasium battery materials); electrical-explainer: all three (bHIhgxav9LY, oI_X2cMHNe0, 4oRT7PoXSS0, general theory); fire-habits: 1pPoB8be1G0 (fire investigation history); kitchen-grease: 2Cw7SxhDJ2U, np18AEKT60A (streamer entertainment)",these were ruled OUT of the top 100,data/top100/top250-checked.csv why_out,wrong,contradiction between top-100.md and subniches.md on what counts as in scope
+formats.md,biggest videos column,out-of-scope videos shown as biggest,"how-to: uj_PbRBirkQ; explainer: AGglJehON5g, 4oRT7PoXSS0; myth-bust: bHIhgxav9LY, oI_X2cMHNe0; x-vs-y: Qzt9RZ0FQyM; story: 2Cw7SxhDJ2U; explainer (fallback): xhxo2oXRiio, -Y23nfAOiXQ",ruled OUT of the top 100,top250-checked.csv,minor,same scope split as above
+emotions.md,electrical-explainer,biggest examples,Veritasium 'The Biggest Misconception About Electricity' 28.2M; 'How Electricity Actually Works' 12.8M,both ruled OUT of the top 100 (general theory),top250-checked.csv,minor,labelled set includes sweep videos the top-100 check excluded
+top-100.md vs data/merged/format-map.csv,format labels,round 2 vs round 4 format,8 top-100 rows have format_r4 different from their round 2 format (e.g. ta0CvuSGQgY how-to -> problem-fix; fLVzvMTgGDY explainer -> danger-warning); 17 top-100 rows carry a different format in videos-with-multiples.csv,stated in formats.md ('The top 100's formats (round 4 labels) are in top-100.md'),"top-100.csv, videos-with-multiples.csv",minor,"documented, but the same video counts under different formats in top-100.md and formats.md"
+new-channels.md,table order + why column,sort and reasons,"7 listed channels (Weirdward Bound, The Apprentice's Guide, Home Hazard, Modern-Day Edison, DIY Tips 24h, Elias Mercer Method, Zenthral Code) lack 'a video over 100K' and sit at the bottom of the table",they have 281K-1.6M videos,channels.csv top3,minor,same topv() parse bug as the two missed channels
+new-channels.md,qualifying videos,video that qualifies the channel is out of scope,"bradyjreports qualifies only via 'The Real Reason It's Illegal to Fully Unplug From the Grid' 149K (off-grid, out of scope); Hardwired YouTube via a resistor theory video 1.7M; DIY Tips 24h's top video is plumbing (also qualifies on 30-day views); WiseMoney's top videos are prepping/fuel (qualifies on 30-day views)",rule does not require the qualifying video to be in scope,channels.csv top3,minor,state this in the rule or drop bradyjreports
+keyword-sweep.md,intro,'the strongest five per group also over-20-minutes',five per group,"panels ran views_long on 7 keywords, devices on 6, others 5",data/sweep/*/keywords.csv sorts_run,minor,
+top-100.csv vs channels.csv,coverage,channels in top-100 / recent lists missing from the census,67 channels,"e.g. Inventor J (3 rows incl. #1 of the 90 days, 6,898,597; not in the master list), BEEE Works (#1 and #2 all-time), Home RenoVision DIY, RimstarOrg, S.E.R. Safety, TKOR, The Excellent Laborer (partial in the master list but not in the census)","data/channel-list/channels.csv, census-all.csv",minor,channels.md is silent on these winners' channels
+thumbnails/labels-*.csv vs channels.csv,channel type and background,type per channel,50 channels in labels-channel-top5.csv and thumb-channels.csv,all types match channels.csv (first word); no contradictions,channels.csv,ok,
+thumbnails/thumbnail-styles.html,cards,cards / embedded images,399 / 399,"399 unique videos across the two label files, 399 images on disk",thumbnails/labels-*.csv,ok,
+README.md,file map,top-level files,13 deliverable/other files + thumbnails/ listed,"every top-level file exists and is listed (README, log, labels, seeds, short-reference, channels.md/.csv, new-channels, subniches, emotions, recent-winners, top-100.md/.csv, keyword-sweep, formats, thumbnails/*)",ls studies/electrical,ok,.gitignore not listed (housekeeping only)
+README.md,file map,CONCLUSIONS.md,listed,does not exist,ls,ok,README says 'not written yet'
+README.md,file map,data/ subfolders,16 folders listed,"all 16 exist (census, channel-list, checks, investigator, just-stop-fire, known-channels, labels, medians, merged, new-channels-nexlev, new-channels-search, seed-spread, silver-cymbal, sweep/6 groups, tools, top100); none listed that doesn't exist",ls data,ok,
+README.md,'Each helper folder keeps its own report.md ... and raw/',report.md / raw per folder,every helper folder,"no report.md in data/census (has report-chunk1-3.md), data/labels (report-A/B/C.md), data/medians, data/merged, data/silver-cymbal; no raw/ in labels, medians, merged, silver-cymbal",ls data/*,minor,sentence is too general
+README.md,file map,files not named anywhere,,"data/top100/search-candidates-checked.csv (an input to top100_final.py), data/labels/blind-sample.csv (checker F's sample), data/labels/to-label-*.csv, data/labels/*-summary.csv and *-villains.csv, data/sweep/wiring/tools/*.py.txt, data/new-channels-nexlev/queries.md, data/new-channels-search/keywords.md, data/channel-list/channels-core-partial.csv, data/census/chunks/, data/medians/chunk*/medians-chunk*/redo.csv/channels-to-pull.csv, data/checks/checker-F-*.{csv,txt}",ls data,minor,folder-level lines cover them loosely; search-candidates-checked.csv and blind-sample.csv deserve a mention
+README.md,data/checks line,checker files,A-H + findings-recheck.csv,"checker-A..E, checker-F-arithmetic.txt/compare.csv/relabel.csv, checker-H.csv, presenters-summary-corrected.csv present; checker-G.csv and findings-recheck.csv written by this check",ls data/checks,ok,

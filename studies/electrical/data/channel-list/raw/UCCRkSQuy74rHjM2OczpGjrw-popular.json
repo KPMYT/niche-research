@@ -1,0 +1,401 @@
+{
+ "channel": "Modern-Day Edison",
+ "id": "UCCRkSQuy74rHjM2OczpGjrw",
+ "handle": "http://www.youtube.com/@TheModernDayEdison",
+ "description": "Modern-Day Edison is dedicated to helping students master Electrical Engineering through simple explanations, practical examples, and real-world applications. Whether you're preparing for diploma exams, industry jobs, or an ETO career in the Merchant Navy, this channel is built for you.\n\"From Classroom Circuits to Shipboard Systems.\n",
+ "subs": "4.99K subscribers",
+ "videos_count": "103 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "egm30Z4BYoM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does the Neutral Wire Actually Do | Electrical Engineering Explained",
+   "dur": "8:02",
+   "meta": [
+    "498K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 498000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "sB33RdVyZ9E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOSFET vs IGBT: Which One to Use and Why? (Power Electronics Explained)",
+   "dur": "6:15",
+   "meta": [
+    "135K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 135000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "Do5tRfgzaX0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Core Type vs Shell Type Transformer Explained: Differences & Comparison",
+   "dur": "7:31",
+   "meta": [
+    "12K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "H88eLhXzbmM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inverter Explained: DC to AC Converter | Power Electronics Basics",
+   "dur": "6:49",
+   "meta": [
+    "1.6K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "1mo ago"
+  },
+  {
+   "id": "E0vdgl-FpXI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Transformers Work: The Physics, Math, and Core Design Explained",
+   "dur": "7:01",
+   "meta": [
+    "1.5K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1mo ago"
+  },
+  {
+   "id": "iF1TVxT5SM4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformer on No Load Explained: Phasor Diagram, Core Loss & No-Load Current",
+   "dur": "5:34",
+   "meta": [
+    "1.5K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "4w ago"
+  },
+  {
+   "id": "1kXNXmKzxag",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Three-Phase Transformers Actually Work (Star vs Delta & Vector Groups Explained)",
+   "dur": "7:40",
+   "meta": [
+    "1.4K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "3w ago"
+  },
+  {
+   "id": "QcepeEbm3Zo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Power Electronics? | Explained Simply",
+   "dur": "5:36",
+   "meta": [
+    "1.3K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "1mo ago"
+  },
+  {
+   "id": "pV3vFwF3JZI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Solar Panels Actually Work: The Physics Behind Photovoltaics",
+   "dur": "9:11",
+   "meta": [
+    "1.2K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "3w ago"
+  },
+  {
+   "id": "dBeygwvvfIw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ship Electrical Systems: Power Electronics Basics Every ETO Must Know",
+   "dur": "6:05",
+   "meta": [
+    "1.2K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "1mo ago"
+  },
+  {
+   "id": "M-5kqZsE7q0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor vs Generator | What's Actually the Difference?",
+   "dur": "3:58",
+   "meta": [
+    "1K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "VlA5CgLP7zI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Generator vs Alternator | What's the Difference?",
+   "dur": "4:33",
+   "meta": [
+    "1K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "JsddwZlZ7u4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Actually Happens During an Electric Shock? |Electrical Engineering Explained",
+   "dur": "5:59",
+   "meta": [
+    "1K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "2_3M6giK4U4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why EV Charging Melts Household Outlets (The Engineering Truth)",
+   "dur": "9:27",
+   "meta": [
+    "1K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "3w ago"
+  },
+  {
+   "id": "y0-GHdV5gFQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Motor vs AC Motor — Which One Is Better?",
+   "dur": "6:57",
+   "meta": [
+    "993",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 993,
+   "age": "2mo ago"
+  },
+  {
+   "id": "f2ZmYtcw1tQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Commutation in DC Machines: Why Brushes Spark & How to Fix It",
+   "dur": "8:55",
+   "meta": [
+    "984",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 984,
+   "age": "2w ago"
+  },
+  {
+   "id": "qqjale9B1-I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Common Transformer Faults: Internal Failures, Physics & Protection Explained",
+   "dur": "7:42",
+   "meta": [
+    "886",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 886,
+   "age": "3w ago"
+  },
+  {
+   "id": "RLTEhLzZ9Nw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Torque is ACTUALLY Produced in an Induction Motor (Torque-Slip Curve Explained)",
+   "dur": "8:46",
+   "meta": [
+    "878",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 878,
+   "age": "7d ago"
+  },
+  {
+   "id": "YZDutCMsTXI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Ships Used Mercury In Navigation Gyroscopes",
+   "dur": "6:42",
+   "meta": [
+    "853",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 853,
+   "age": "4w ago"
+  },
+  {
+   "id": "skB-8bjDrbQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Introduction to Chopper DC DC Converter",
+   "dur": "6:16",
+   "meta": [
+    "822",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 822,
+   "age": "1mo ago"
+  },
+  {
+   "id": "igYU7-cEng8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 Power Semiconductor Devices You Need to Know",
+   "dur": "6:38",
+   "meta": [
+    "817",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 817,
+   "age": "1mo ago"
+  },
+  {
+   "id": "EklsuLbltew",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why DC Motors Need a Starter (The Physics of Back EMF)",
+   "dur": "8:36",
+   "meta": [
+    "805",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 805,
+   "age": "3w ago"
+  },
+  {
+   "id": "A5bDvWZN9pQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC_Generators__Characteristics,_Circuits,_and_Shipboard_Applications",
+   "dur": "10:32",
+   "meta": [
+    "763",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 763,
+   "age": "3w ago"
+  },
+  {
+   "id": "iQLYFin0Nwc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is It Called an Induction Motor? (The Physics Explained)",
+   "dur": "6:22",
+   "meta": [
+    "714",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 714,
+   "age": "2w ago"
+  },
+  {
+   "id": "pIJZiCEhfxc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Squirrel Cage vs Slip Ring Induction Motor: The Engineering Truth",
+   "dur": "6:11",
+   "meta": [
+    "709",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 709,
+   "age": "12d ago"
+  },
+  {
+   "id": "2ozWqsAPLyo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Transformers Work Under Load: MMF Balance & Phasor Diagrams Explained",
+   "dur": "4:17",
+   "meta": [
+    "707",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 707,
+   "age": "4w ago"
+  },
+  {
+   "id": "8mFRQL1QuEs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 3-Point Starters Fail at High Speed: The 4-Point Starter Solution",
+   "dur": "7:38",
+   "meta": [
+    "682",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 682,
+   "age": "3w ago"
+  },
+  {
+   "id": "-xEDEwG0HGg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside an Induction Motor: Complete Construction & Working Explained",
+   "dur": "7:59",
+   "meta": [
+    "667",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 667,
+   "age": "2w ago"
+  },
+  {
+   "id": "JVgEtGtOimI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Rotor Frequency Drops to 2 Hz Inside an Induction Motor",
+   "dur": "5:55",
+   "meta": [
+    "653",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 653,
+   "age": "8d ago"
+  },
+  {
+   "id": "meIPSgw5U84",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Actually IS Electricity? (Atoms, Energy, or Chemical Reaction?",
+   "dur": "5:44",
+   "meta": [
+    "629",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 629,
+   "age": "1mo ago"
+  }
+ ]
+}

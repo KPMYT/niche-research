@@ -1,0 +1,11 @@
+{"source":"NexLev get_batch_channel_metrics_v2 + _status","pulled":"2026-10-23","timestamp":"2026-10-23T03:38:03.792Z","columns":["channelId","isMonetized","rpm","avgViewsPerVideo","avgVideoLength_min","category","format","hasShorts","isFaceless","countryTop","confidence"],"channels":[
+["UCuJxFxVuj4s_MmupOMmDqCQ",true,3.94,45992,26,"science","educational",false,true,"",0.98],
+["UCD5ecNIpxHr3xCiOhiFtC0g",false,3.88,1598,12.6,"do it yourself","tutorial",false,false,"",0.99],
+["UCMXN-53SCPpYxmYSvFOjz2g",true,4.75,111932,14.2,"engineering","educational",true,true,"United States",0.99],
+["UCCRkSQuy74rHjM2OczpGjrw",true,2.33,6720,7.4,"engineering","educational",true,true,"India",0.99],
+["UCHbQhoiP-819_MmVTohgcQQ",true,4.71,150614,4.5,"science","educational",false,true,"India",0.98],
+["UC5v2qbyUuzohCNWwYLhgBpA",true,2.5,103247,6.2,"do it yourself","tutorial",true,true,"Morocco",0.98],
+["UCr9iCr0odsB6IQ_37ULOrUA",true,7.77,12469,22.5,"science","documentary",true,true,"United States",0.98],
+["UC7oeG08Bo3TwbMTZ8fA8qjA",true,6.05,27728,12.7,"engineering","tutorial",true,false,"France",0.98],
+["UCo7EsDiQV_RqVCHLhQS986w",true,4.54,24771,13.2,"engineering","educational",true,true,"United States",0.99],
+["UC-ZIYEO2M5ooPNNOqoW-QiQ",true,3.56,13749,11.5,"science","educational",true,true,"United States",0.98]]}

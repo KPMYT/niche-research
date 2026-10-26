@@ -1,0 +1,739 @@
+{
+ "channel": "Grain & Gravity",
+ "id": "UCqrSZXBGR6kD4ZMx9WLSqig",
+ "handle": "http://www.youtube.com/@GrainandGravity",
+ "description": "Most systems around you aren’t built for efficiency.\nGrain & Gravity explores simple, overlooked ideas that outperform what you’re told works — from energy and natural systems to hidden mechanics and real-world efficiency.\nWe break down why they work, what the numbers actually say, and how these ideas can be used in the real world.\nWant to go deeper?\nGrain & Gravity Field Manuals take our most popular investigations further — with detailed technical breakdowns, real costs, parts lists, calculations and practical guidance that can’t all fit into a video.\nBecause the simplest solution is usually the one people ignore.\nGrain & Gravity — The numbers don’t lie.\n",
+ "subs": "18K subscribers",
+ "videos_count": "56 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "oK6w3bcCQd4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $150 HARBOR FREIGHT ENGINE Runs Your Whole House On A SCRAP GENERATOR. Why Don't We Use Them?!",
+   "dur": "28:45",
+   "meta": [
+    "1K",
+    "1d ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "1d ago"
+  },
+  {
+   "id": "qDv5Kmxbu88",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "These $5 DRILL BATTERIES Run Your Whole House For 3 Days. Why Is Everybody Throwing Them Out?!",
+   "dur": "28:49",
+   "meta": [
+    "6.3K",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 6300,
+   "age": "3d ago"
+  },
+  {
+   "id": "NVxiMeLt3dM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $30 WASHING MACHINE MOTOR Runs Your Whole House FOREVER. Why Is Everybody Throwing Them Out?!",
+   "dur": "28:47",
+   "meta": [
+    "101K",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 101000,
+   "age": "7d ago"
+  },
+  {
+   "id": "lfhlmk0_v88",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Your PRESSURE WASHER Runs A Whole House With One $60 AUTOZONE Part. Why Aren’t We Using Them?!",
+   "dur": "28:44",
+   "meta": [
+    "11K",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "9d ago"
+  },
+  {
+   "id": "g9h-r3Y9SRE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $60 AUTOZONE ALTERNATOR Runs Your Whole House On Your OWN CAR. Why Aren’t We Using Them?!",
+   "dur": "28:49",
+   "meta": [
+    "4.7K",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 4700,
+   "age": "11d ago"
+  },
+  {
+   "id": "TGk0zFi5mVc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $60 AUTOZONE ALTERNATOR Runs Your Whole Cabin On A LAWNMOWER. Why Aren't We Using Them?!",
+   "dur": "28:59",
+   "meta": [
+    "155K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 155000,
+   "age": "2w ago"
+  },
+  {
+   "id": "D_EnUK1O9bY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $3 HOME DEPOT OUTLET Heats Your Whole House WITHOUT A Generator. Why Aren't We Using Them?!",
+   "dur": "30:42",
+   "meta": [
+    "16K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 16000,
+   "age": "2w ago"
+  },
+  {
+   "id": "sIeJ0dCnUwc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $40 TREADMILL MOTOR Runs Your Whole House WITHOUT A Generator. Why Aren't We Using Them?!",
+   "dur": "29:34",
+   "meta": [
+    "48K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 48000,
+   "age": "2w ago"
+  },
+  {
+   "id": "1u9r7mSIWiE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two $60 AUTOZONE ALTERNATORS Power A Whole HOUSE WITHOUT A Generator. Why Aren't We Using Them?!",
+   "dur": "29:28",
+   "meta": [
+    "79K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 79000,
+   "age": "3w ago"
+  },
+  {
+   "id": "I5YrCxkJra4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $89 COSTCO BATTERY Runs Your Whole House WITHOUT Solar. Why Aren't We Using Them?!",
+   "dur": "26:20",
+   "meta": [
+    "8.8K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 8800,
+   "age": "3w ago"
+  },
+  {
+   "id": "fmIKex1kkz8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $80 INVERTER Turns Your CAR Into A $4,000 Generator. Why Aren't We Using Them?!",
+   "dur": "26:03",
+   "meta": [
+    "5.6K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 5600,
+   "age": "3w ago"
+  },
+  {
+   "id": "1rG8vVOG27c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $40 TRASH CAN Runs Your Cabin On FIREWOOD. No Gas, No Sun, No Creek. Why Aren't We Using Them?!",
+   "dur": "26:45",
+   "meta": [
+    "45K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 45000,
+   "age": "4w ago"
+  },
+  {
+   "id": "l3byLqn_PeM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "There Is A $3,000 Generator Hiding Inside Your Washing Machine. Why Doesn't Anyone Take It Out?",
+   "dur": "27:21",
+   "meta": [
+    "3.6K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 3600,
+   "age": "1mo ago"
+  },
+  {
+   "id": "ZZ25JPZB3pc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Copper Pipe Cuts Home Water Heating Bills By 40% WITHOUT Electricity. Why Aren't We Using Them?",
+   "dur": "26:44",
+   "meta": [
+    "8K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 8000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "K-8zhXAF0eI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Plug-In Water Generator Makes All Your Drinking Water From Air. Why Aren't We Using Them?",
+   "dur": "28:17",
+   "meta": [
+    "11K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "B0GPIXWP1E8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Rust Battery Powers A Home For 100 Hours WITHOUT Lithium. So Why Can't You Buy One?",
+   "dur": "22:42",
+   "meta": [
+    "1.6K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "1mo ago"
+  },
+  {
+   "id": "-2G5EArrGy0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $60 AUTOZONE ALTERNATOR Powers A Whole Cabin WITHOUT A Generator. Why Aren't We Using Them?!",
+   "dur": "27:48",
+   "meta": [
+    "630K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 630000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "F509b_W_Ll8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $40 SOLAR PANEL Runs Your Home For 25 Years WITHOUT An Installer. Why Aren't We Using Them?",
+   "dur": "28:34",
+   "meta": [
+    "4.5K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 4500,
+   "age": "1mo ago"
+  },
+  {
+   "id": "9BtshDZIHLs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $60 FORKLIFT CELL Runs Your Home For 3 Days WITHOUT Lithium. Why Aren't We Using Them?",
+   "dur": "28:57",
+   "meta": [
+    "29K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 29000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "E6OjM92K9h0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $79 WALMART BATTERY Runs Your Home For 30 Hours WITHOUT Lithium. Why Aren't We Using Them?",
+   "dur": "29:00",
+   "meta": [
+    "69K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 69000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "wBZlgKTnauk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Plug-In Battery Cuts Home Energy Bills By 60%. Here's What It Really Costs You!",
+   "dur": "14:53",
+   "meta": [
+    "16K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 16000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "ALfqH15Lmyc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Plug-In Heat Pump Cuts Home Energy Bills By 60% WITHOUT HVAC. Why Aren't We Using Them?",
+   "dur": "14:10",
+   "meta": [
+    "13K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 13000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "IOFvR0Bk3aw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $19-a-Month Home Battery Sells Power Back to the Grid WITHOUT Solar. Why Aren’t We Using Them?",
+   "dur": "14:54",
+   "meta": [
+    "508",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 508,
+   "age": "2mo ago"
+  },
+  {
+   "id": "awvMAqqgaXU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $200 Micro-Hydro Device Replaces Your Utility Bill Entirely. Why Aren’t We Using Them?",
+   "dur": "14:52",
+   "meta": [
+    "724",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 724,
+   "age": "2mo ago"
+  },
+  {
+   "id": "rkOueYDDot4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Plug-In Device Cuts Home Energy Bills By 40% WITHOUT Solar. Why Aren’t We Using Them?",
+   "dur": "15:27",
+   "meta": [
+    "4.9K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 4900,
+   "age": "3mo ago"
+  },
+  {
+   "id": "xlkBWEvw-ic",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Plug-In Battery Cuts Home Energy Bills By 60% WITHOUT Solar. Why Aren't We Using Them?",
+   "dur": "16:21",
+   "meta": [
+    "441K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 441000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "cV8lC7xPynQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Israel Heats 70% Of Its Hot Water For Free With This. Why Did America Choose Gas Instead?",
+   "dur": "16:22",
+   "meta": [
+    "424",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 424,
+   "age": "3mo ago"
+  },
+  {
+   "id": "5zO9wgZnRJQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $90 PROPANE TANK Holds SOLAR Power For 30 YEARS — NO BATTERIES NEEDED!!",
+   "dur": "21:37",
+   "meta": [
+    "1.5K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "3mo ago"
+  },
+  {
+   "id": "kN5YYdkDDs4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $8 Earth Battery Pulls Free Power Straight From Dirt — Why Won't the Energy Sector Discuss It?",
+   "dur": "21:49",
+   "meta": [
+    "449",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 449,
+   "age": "3mo ago"
+  },
+  {
+   "id": "-AgAWrkjwMI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Tiny Water Turbine Powers a Whole House for $200. Why Did Off-Grid Companies Hide It?",
+   "dur": "13:36",
+   "meta": [
+    "920",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 920,
+   "age": "3mo ago"
+  },
+  {
+   "id": "xQMiQCoj7pQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Plug-In Solar Cuts Home Energy Costs Anyone Can Afford. Why Did the Power Industry Ignore It?",
+   "dur": "17:09",
+   "meta": [
+    "167K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 167000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "LBXEUkGKZ8Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "These 6 Wind Turbines Are The Future Of Off-Grid Power",
+   "dur": "20:18",
+   "meta": [
+    "3.2K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 3200,
+   "age": "4mo ago"
+  },
+  {
+   "id": "2vozumIQWV0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $8 Pot Cooled Any Food For 5,000 Years — Why Stop?",
+   "dur": "16:35",
+   "meta": [
+    "373",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 373,
+   "age": "4mo ago"
+  },
+  {
+   "id": "hOQjl64IlvQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Water Bottle Trick Lowers Your Electric Bill for Free — So Why Doesn't Anyone Do This?",
+   "dur": "13:31",
+   "meta": [
+    "703",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 703,
+   "age": "4mo ago"
+  },
+  {
+   "id": "4B4D5JVk24g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Pile of Rotting Wood Heated a Whole House All Winter — So Why Did Everyone Forget It?",
+   "dur": "14:06",
+   "meta": [
+    "1.1K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "4mo ago"
+  },
+  {
+   "id": "pn8FgV7mmHY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Romans Heated Stone Floors With Zero Electricity — Why Did We Replace It?",
+   "dur": "13:44",
+   "meta": [
+    "299",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 299,
+   "age": "4mo ago"
+  },
+  {
+   "id": "3qJzOaod8l0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Forgotten 1800s Wall Cools a House in Summer AND Heats It in Winter — For Free",
+   "dur": "14:28",
+   "meta": [
+    "1.6K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "4mo ago"
+  },
+  {
+   "id": "hIxNMqiqvs8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $50 Machine Generates Electricity Forever. So Why Is Nobody Talking About It?",
+   "dur": "17:24",
+   "meta": [
+    "553",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 553,
+   "age": "4mo ago"
+  },
+  {
+   "id": "DeEe9gJXDV0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Is The Most Efficient Home Energy Source Ever Built. Why Is Nobody Talking About It?",
+   "dur": "15:52",
+   "meta": [
+    "2K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 2000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "41-APATzQWE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $180 Tank Collects Free Rainwater Forever. So Why Is This 'Banned' In Half of America?",
+   "dur": "16:58",
+   "meta": [
+    "300",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 300,
+   "age": "5mo ago"
+  },
+  {
+   "id": "EEnzzsU-XGQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Rocket Mass Heater Heats an Entire House on a Handful of Wood. So Why Did America Ban It?",
+   "dur": "14:16",
+   "meta": [
+    "368",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 368,
+   "age": "5mo ago"
+  },
+  {
+   "id": "gUmlQSMOMqw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Copper Strip Eliminates ALL Waterborne Bacteria Forever — So Why Is It Banned?",
+   "dur": "13:59",
+   "meta": [
+    "658",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 658,
+   "age": "5mo ago"
+  },
+  {
+   "id": "MtBgt3zMUsw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Did We Stop Using This Natural Windcatcher System?",
+   "dur": "13:01",
+   "meta": [
+    "756",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 756,
+   "age": "5mo ago"
+  },
+  {
+   "id": "kKNSFHiyoLc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Amish Families Bulk-Buy 11 Survival Essentials for Under $5. Why Don't Most Preppers Know This?",
+   "dur": "29:21",
+   "meta": [
+    "948",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 948,
+   "age": "5mo ago"
+  },
+  {
+   "id": "xcM6_vY67m0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Cheap Metals Eliminate ANY Bug Forever. Why Did the Pest Industry Try to Bury This?",
+   "dur": "19:24",
+   "meta": [
+    "3.2K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 3200,
+   "age": "5mo ago"
+  },
+  {
+   "id": "U2I1RdYsFUo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Flywheel Stores Solar 90% Cheaper Off-Grid. Why Did the Battery Industry Bury It?",
+   "dur": "21:37",
+   "meta": [
+    "2.9K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 2900,
+   "age": "5mo ago"
+  },
+  {
+   "id": "noog_kzvbI8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $1 Powder Protects Wood for 50 Years. Why Did The Paint Industry Hope You'd Never Find Out?",
+   "dur": "16:55",
+   "meta": [
+    "3.2K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 3200,
+   "age": "5mo ago"
+  },
+  {
+   "id": "Ra16elGSJ4c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $20 Roof Gadget Generates Free Electricity 24/7. Why Won't the Energy Sector Discuss It?",
+   "dur": "14:57",
+   "meta": [
+    "5.9K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 5900,
+   "age": "5mo ago"
+  },
+  {
+   "id": "k7obsGQKSyM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Is The Most Efficient Home Wind Turbine Ever Made. Why Is Nobody Talking About It?",
+   "dur": "15:38",
+   "meta": [
+    "157K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 157000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "E3Z0qMCZszA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Your Attic Is Turning Your House Into an Oven — The Amish Solved This 200 Years Ago for $4",
+   "dur": "25:55",
+   "meta": [
+    "4.4K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 4400,
+   "age": "5mo ago"
+  },
+  {
+   "id": "8_Ro0iSsypI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Copper Cable Eliminates ALL Mold Forever — So Why Is This ‘Banned’?",
+   "dur": "13:52",
+   "meta": [
+    "67K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 67000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "GYK7_jNAI_8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This $300 Underground Tube Keeps Any Home 55°F Forever — So Why Did the U.S. Ban It?",
+   "dur": "18:02",
+   "meta": [
+    "4K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 4000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "PYU1FthYoj0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A $50 Clay Wall Keeps Homes 25°F Cooler With Zero Electricity. So Why Isn’t It Everywhere?",
+   "dur": "12:18",
+   "meta": [
+    "3.7K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 3700,
+   "age": "5mo ago"
+  },
+  {
+   "id": "37M4g-nyhfU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This House Uses 90% Less Energy, Stays Warm Without Heating… So Why Aren’t We Building Them?",
+   "dur": "16:28",
+   "meta": [
+    "1.4K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "5mo ago"
+  },
+  {
+   "id": "gwg2CF7kt18",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This House Survives EF5 Tornadoes and Fires—So Why Aren’t We Building Them?",
+   "dur": "16:58",
+   "meta": [
+    "5.5K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 5500,
+   "age": "5mo ago"
+  },
+  {
+   "id": "Cy6wnm4TY_o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Forgotten Chimney Cools Your Home WITHOUT Electricity. Why Was It Silenced?",
+   "dur": "15:52",
+   "meta": [
+    "1.4K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "5mo ago"
+  }
+ ]
+}

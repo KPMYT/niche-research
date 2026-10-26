@@ -1,0 +1,290 @@
+{
+ "id": "-6ACoU3C6d0",
+ "title": "Flexible stranded 2,5mm2 wire Load test",
+ "channel": "ElectroTest",
+ "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+ "views": 5849,
+ "date": "Mar 6, 2025",
+ "up_next": [
+  {
+   "id": "7voH3cm2h1M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does America Use 60 Hz While Europe Uses 50 Hz?",
+   "dur": "27:27",
+   "meta": [
+    "Weirdward Bound",
+    "1.3M",
+    "2w ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 1300000,
+   "age": "2w ago"
+  },
+  {
+   "id": "pNxglA9lhv8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solid vs Flexible stranded wire | Current test",
+   "dur": "10:04",
+   "meta": [
+    "ElectroTest",
+    "430K",
+    "10mo ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 430000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "2hPfWA9iVoI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "1,5 vs 2,5 mm2 Wire in series Load test",
+   "dur": "10:12",
+   "meta": [
+    "ElectroTest",
+    "570K",
+    "10mo ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 570000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "kLrgGtzUQUk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wire in Conduit vs Open Air — Load Test",
+   "dur": "10:29",
+   "meta": [
+    "ElectroTest",
+    "275K",
+    "9mo ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 275000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "UT_hR0vwM8A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "An Engineer tests Wago Connectors. Are they any good?",
+   "dur": "35:17",
+   "meta": [
+    "Electromagnetic Videos",
+    "107K",
+    "2y ago"
+   ],
+   "channel_id": "UCV2-Qbq9o0EOQWPLAWkVH2w",
+   "views": 107000,
+   "age": "2y ago"
+  },
+  {
+   "id": "4KqnVzhXTJY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Cable in Conduit vs Without — Load Test of Wago Junction Box",
+   "dur": "8:52",
+   "meta": [
+    "ElectroTest",
+    "17K",
+    "8mo ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 17000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "l4ywLV9BndE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "1.5mm2 Copper wire vs High Current. Copper conductor melting temperature",
+   "dur": "7:01",
+   "meta": [
+    "ElectroTest",
+    "16K",
+    "1y ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 16000,
+   "age": "1y ago"
+  },
+  {
+   "id": "UEwFDO9hQMM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔋Never Buy Drill Batteries Again! Use a Ballpoint Pen and Watch What Happens!😱 | DIY Hacks",
+   "dur": "20:38",
+   "meta": [
+    "DIY Hacks",
+    "712K",
+    "2w ago"
+   ],
+   "channel_id": "UCe_5cyghC66jIC64KnUs77w",
+   "views": 712000,
+   "age": "2w ago"
+  },
+  {
+   "id": "XPIM_xbMC8I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Who Fails First? Electrician’s Legend: Thin vs Thick Wire in Parallel",
+   "dur": "5:59",
+   "meta": [
+    "ElectroTest",
+    "1.7M",
+    "1y ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 1700000,
+   "age": "1y ago"
+  },
+  {
+   "id": "SjOxBg6SJuw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Put Diodes Together In Both Directions? Explained With Examples!",
+   "dur": "17:49",
+   "meta": [
+    "Mr Carlson's Lab",
+    "1M",
+    "1mo ago"
+   ],
+   "channel_id": "UCU9SoQxJewrWb_3GxeteQPA",
+   "views": 1000000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "BsJg9T4Ig_w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Overload 3x1.5 cable. Test at 20,25A. NYM 3G 1,5mm2",
+   "dur": "3:46",
+   "meta": [
+    "ElectroTest",
+    "5.9K",
+    "1y ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 5900,
+   "age": "1y ago"
+  },
+  {
+   "id": "OI5ddnK_3-8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wago 221 vs traditional connector strip: including demonstration and testing point",
+   "dur": "11:30",
+   "meta": [
+    "eFIXX",
+    "417K",
+    "7y ago"
+   ],
+   "channel_id": "UC4PWgTIkkv5p2shhjiXNiGg",
+   "views": 417000,
+   "age": "7y ago"
+  },
+  {
+   "id": "OHQHT5dMQPw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SHOCKING Mistakes DIYers Make Installing Metal Electrical Boxes!",
+   "dur": "16:46",
+   "meta": [
+    "How To Home",
+    "1.7M",
+    "1y ago"
+   ],
+   "channel_id": "UCpb-xu6Oun_d41RjztUgFWA",
+   "views": 1700000,
+   "age": "1y ago"
+  },
+  {
+   "id": "Px_SYXzatR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does The Neutral Wire Actually Do?",
+   "dur": "25:12",
+   "meta": [
+    "Weirdward Bound",
+    "214K",
+    "8d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 214000,
+   "age": "8d ago"
+  },
+  {
+   "id": "97ZTkxzq-dI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "9 Schematic Rules to NEVER Break",
+   "dur": "15:19",
+   "meta": [
+    "Predictable Designs with John Teel",
+    "298K",
+    "3w ago"
+   ],
+   "channel_id": "UCDqov5THnmr0KX3f1FeK0Uw",
+   "views": 298000,
+   "age": "3w ago"
+  },
+  {
+   "id": "h0LF1kq0GEE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Crystal Makes a Laser 1,000x Stronger",
+   "dur": "13:30",
+   "meta": [
+    "Les' Lab",
+    "233K",
+    "2w ago"
+   ],
+   "channel_id": "UC0ptp5KuvAJmp8kRV8dqZDA",
+   "views": 233000,
+   "age": "2w ago"
+  },
+  {
+   "id": "t1vFO8x6bfU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Crazy Way to Open Any Lock Without Key😱 The Secret Locksmiths Don't Want You to Know!",
+   "dur": "8:02",
+   "meta": [
+    " Inventor 247",
+    "21K",
+    "1d ago"
+   ],
+   "channel_id": "UCkAyDKssQKq24vGanyTP4fQ",
+   "views": 21000,
+   "age": "1d ago"
+  },
+  {
+   "id": "w5mA4aeQE-Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Voltage drop and heat losses : 1.5 vs 2.5 mm² wire test",
+   "dur": "12:08",
+   "meta": [
+    "ElectroTest",
+    "11K",
+    "10mo ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 11000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "LwafhQwlSAs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Don’t Throw Away Your Old Adapter! Make an Induction Heater",
+   "dur": "8:15",
+   "meta": [
+    "ZAFER YILDIZ",
+    "78K",
+    "7d ago"
+   ],
+   "channel_id": "UC8rSmNojy8Dw3dKQ2vCgWdw",
+   "views": 78000,
+   "age": "7d ago"
+  },
+  {
+   "id": "OrkARxXx-Qg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Cable 3×1.5 vs 3×2.5 — Load Test of Wago Junction Box",
+   "dur": "9:57",
+   "meta": [
+    "ElectroTest",
+    "29K",
+    "8mo ago"
+   ],
+   "channel_id": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "views": 29000,
+   "age": "8mo ago"
+  }
+ ]
+}

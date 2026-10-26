@@ -1,0 +1,100 @@
+{
+ "pulled": "2026-10-23",
+ "note": "Transcribed from the NexLev MCP responses of 2026-10-23 (descriptions dropped where identical to the YT about page in ../yt/*-latest.json). Niche-finder records are NexLev's stored profile, last updated by NexLev on the date in updatedAt.",
+ "get_channel_analytics": {
+  "channelId": "UCq6ZD77yzOZkm23Wr6A3jqg",
+  "subscriberCount": 1010,
+  "viewCount": 359256,
+  "videoCount": 38,
+  "joinedDate": "2025-10-26",
+  "country": "United States",
+  "links": [],
+  "avgVideoLength": "05:08",
+  "hasShorts": true,
+  "lastVideoUploadDate": "9 days ago",
+  "categories": [
+   "Do It Yourself",
+   "Construction",
+   "Automotive Business",
+   "Autos"
+  ]
+ },
+ "search_niche_finder_channels": {
+  "query": "licensed electrician DIY home repairs kitchen outlet nearly caught fire",
+  "isMonetizationEnabled": false,
+  "isFaceless": true,
+  "isAiChannel": false,
+  "quality": "mid",
+  "editingStyle": "live_action_faceless",
+  "editingVoice": "human",
+  "outlierScore": 0,
+  "channelCreationDate": "2025-10-26",
+  "stats": {
+   "subscribers": 995,
+   "monthlyRevenue": 0,
+   "monthlyViews": 166418,
+   "totalViews": 353034,
+   "totalVideos": 38,
+   "avgViewsPerVideo": 11516.37,
+   "medianViewsPerVideo": 1050,
+   "uploadsPerWeek": 1,
+   "firstVideoDate": "2026-05-19",
+   "lastVideoDate": "2026-10-13",
+   "rpm": {
+    "base": 1.8,
+    "total": 3.2086
+   }
+  },
+  "updatedAt": "2026-10-19T23:04:12",
+  "lastUploadedVideos": [
+   [
+    "f_EvnEe4NR4",
+    "This Kitchen Outlet Nearly Caught Fire — Here's What Went Wrong",
+    269000
+   ],
+   [
+    "31SGyvxFRAY",
+    "3-Way Switches: The Simple Rule You Need to Know",
+    12000
+   ],
+   [
+    "mYlydW3GD2Q",
+    "No Neutral? No Problem! Easy DIY Dimmer Install. ",
+    10000
+   ],
+   [
+    "2UToUOm4Vc4",
+    "3-Way Switch Not Working? Fix This Common Mistake!",
+    8700
+   ],
+   [
+    "Jc1tNrmmPlI",
+    "Shared Neutral - Are they Dangerous?",
+    8400
+   ]
+  ]
+ },
+ "get_batch_channel_metrics_v2": {
+  "isMonetized": null,
+  "rpm": 4.18,
+  "avgViewsPerVideo": 9454,
+  "avgVideoLength": 5.1,
+  "category": "do it yourself",
+  "format": "tutorial",
+  "hasShorts": true,
+  "isFaceless": true,
+  "countryTop": "United States",
+  "confidence": 0.98,
+  "jobId": "e064956d-2d13-4b7e-b173-ed3885997f1a",
+  "timestamp": "2026-10-23T03:31:44Z"
+ },
+ "check_faceless_channel": {
+  "isFaceless": true,
+  "confidence": 0.98,
+  "primaryCategory": "do it yourself",
+  "format": "tutorial",
+  "googleTrendsKeyword": "DIY home repair",
+  "cached": true,
+  "timestamp": "2026-10-23T03:32Z"
+ }
+}

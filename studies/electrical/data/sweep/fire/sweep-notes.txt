@@ -1,0 +1,28 @@
+FIRE GROUP SWEEP (round 2), pulled 2026-10-24. Loader: data/tools/yt.py (logged-out YouTube pages). NexLev not used. Web searches used: 0 of 5.
+
+WHAT WAS RUN
+- 41 keywords (29 from the brief / natural phrasings, 12 mined from result titles); sources in keywords.csv.
+- Every keyword: relevance (2 pages), views (3), views_year (2), month (1). 5 strongest (by relevant long-form views per sub-niche): dryer vent cleaning, things firefighters never do, replace hardwired smoke detector, fire extinguisher test, grease fire also got views_long (1 page, over 20 min).
+- 169 raw search JSONs in raw/ (name = keyword__sort.json); 40 yt.py video JSONs in raw/video/ (top 40 long-form by views: exact views + exact upload date).
+- Four searches came back empty on first try (how to test smoke detector/month, toaster fire/relevance, fire blanket/relevance, fire blanket/views_year) and were re-run successfully.
+
+HOW RELEVANCE WAS DECIDED
+- 4,414 unique video IDs surfaced. Long-form (5:00+) candidates were pre-matched by title words, then every candidate title was read by hand (about 1,300 rows) and dropped or kept; extra relevant rows were rescued from the unmatched set. Result: 745 long-form kept (videos.csv).
+- short.csv (1,468 rows, under 5:00, NOT counted) was filtered by the same title rules automatically and was NOT hand-read; expect some noise.
+- Sub-niche and format are title readings (rules in method-rules.txt), not watched.
+- 12 rows carry LANG-CHECK in notes (channel likely not English, or title auto-translated because pages load with hl=en); they are kept but excluded from medians in formats.csv / subniches.csv.
+- Out of scope, seen often, not kept: commercial fire-alarm-system hobby channels (system tests, horns/strobes: S.E.R. Safety "System Test" series, FireAlarmDude5967 basement tests, 4050-80, ExitSign250, NIC'S), kitchen range "chimney" (Indian range hoods), candle making / candle heaters (heat without power), wood-stove heating, air fryer recipes, kids' fire-safety cartoons, fireplace ambience, wildfire, arson true crime, firefighter careers/interviews, reaction videos to Fire Department Chronicles, workplace HSE courses in Hindi/Urdu.
+
+SORT BEHAVIOUR (counted from raw files)
+- views: 85% of adjacent pairs descending (mostly descending, some out of order).
+- views_year: 1,542 of 1,564 results under 1 year old (22 older leaks); 70% descending.
+- month: 787 of 820 under ~1 month old (33 older leaks, 4-8y old); order is not by views (50% descending).
+- views_long: all 75 over 20 min; 90% descending; but relevance collapses (Mark Rober, business videos etc.).
+- relevance: no order by views (52%).
+- No oldest sort exists in YouTube search; not attempted.
+
+CAVEATS
+- channel names like "Bertha's Clean Home  and 3 more" are YouTube collab credits.
+- subs are not shown in search results: subs_if_shown = "not shown in search results".
+- formats.csv/subniches.csv "last 12 months" uses the relative age text (e.g. "8mo ago") or the exact date from yt.py video.
+- in_earlier_lists in channels.csv = channel id appears in known-channels, new-channels-nexlev, new-channels-search, just-stop-fire, silver-cymbal or seed-spread files.

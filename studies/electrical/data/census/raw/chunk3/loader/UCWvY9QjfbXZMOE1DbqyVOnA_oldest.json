@@ -1,0 +1,336 @@
+{
+ "channel": "Electro School – Electrical Engineering",
+ "id": "UCWvY9QjfbXZMOE1DbqyVOnA",
+ "handle": "http://www.youtube.com/@ELECTROSCHOOL-EN",
+ "description": "Welcome to ELECTRO SCHOOL.\n\nHere, electrical engineering is explained visually and step by step.\n\nWe cover three-phase systems, electric motors, circuit breakers, RCDs, contactors, relays, PLCs, transformers, electrical faults, industrial automation and many other practical electrical topics.\n\nThe goal is simple: understand what is actually happening inside the circuit — not just memorize a diagram.\n\nNew educational videos regularly.\n\nUnderstand electricity. Don’t just memorize it.\n",
+ "subs": "43 subscribers",
+ "videos_count": "25 videos",
+ "sort": "oldest",
+ "videos": [
+  {
+   "id": "UvDVPhU77QM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Star vs Delta Connection Explained | 3-Phase Motor Starting (Y/Δ)",
+   "dur": "10:56",
+   "meta": [
+    "98",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 98,
+   "age": "1mo ago"
+  },
+  {
+   "id": "vVbzMgERaDs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PLC Output Is ON, But the Valve Doesn’t Move – Where’s the Fault?",
+   "dur": "11:17",
+   "meta": [
+    "174",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 174,
+   "age": "1mo ago"
+  },
+  {
+   "id": "WbrqF3e7kUY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sensor Is ON, But PLC Can’t See It – Where’s the Fault?",
+   "dur": "10:18",
+   "meta": [
+    "170",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 170,
+   "age": "1mo ago"
+  },
+  {
+   "id": "IM9LCwGKhpQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "“fuse keeps blowing” a “find a short circuit”",
+   "dur": "12:29",
+   "meta": [
+    "33",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 33,
+   "age": "1mo ago"
+  },
+  {
+   "id": "Lx-s2nlr3_8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "24V Is There… So Why Does the Machine Still Fail?",
+   "dur": "14:35",
+   "meta": [
+    "42",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 42,
+   "age": "1mo ago"
+  },
+  {
+   "id": "ZPC9ue_isZ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does Your RCD Keep Tripping? 7 Causes You Need to Know",
+   "dur": "11:16",
+   "meta": [
+    "105",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 105,
+   "age": "1mo ago"
+  },
+  {
+   "id": "qBL73D-2zaU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does the RCD Trip Only After the Appliance Heats Up? ⚡",
+   "dur": "8:25",
+   "meta": [
+    "25",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 25,
+   "age": "1mo ago"
+  },
+  {
+   "id": "hrZK3xNEHSg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does an Electric Kettle Switch Off by Itself?",
+   "dur": "13:07",
+   "meta": [
+    "31",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 31,
+   "age": "1mo ago"
+  },
+  {
+   "id": "bQN-7WwbyTo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does an SPD Actually Do? Surge Protection Explained",
+   "dur": "12:09",
+   "meta": [
+    "322",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 322,
+   "age": "1mo ago"
+  },
+  {
+   "id": "LmpJJN6Ay_o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why a Neon Tester Can Mislead You",
+   "dur": "8:21",
+   "meta": [
+    "94",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 94,
+   "age": "1mo ago"
+  },
+  {
+   "id": "1dk6nS0lBkA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Machine Fault Only During Vibration? Here’s Where to Look",
+   "dur": "9:03",
+   "meta": [
+    "66",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 66,
+   "age": "1mo ago"
+  },
+  {
+   "id": "TWgf3mbEKYs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does a Transformer Trip the Breaker at Switch-On? ⚡ Inrush Current Explained",
+   "dur": "9:05",
+   "meta": [
+    "49",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 49,
+   "age": "1mo ago"
+  },
+  {
+   "id": "zdWYD525h08",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Every Appliance Works Alone — Why Do They Trip the RCD Together? ⚡",
+   "dur": "9:50",
+   "meta": [
+    "78",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 78,
+   "age": "1mo ago"
+  },
+  {
+   "id": "roMZ8XlNYwk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does a Motor Overheat at Low Voltage? ⚡",
+   "dur": "7:56",
+   "meta": [
+    "126",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 126,
+   "age": "1mo ago"
+  },
+  {
+   "id": "W-u6kw4zIxw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How 230V AC Becomes 24V DC | Inside a Switching Power Supply",
+   "dur": "9:04",
+   "meta": [
+    "208",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 208,
+   "age": "4w ago"
+  },
+  {
+   "id": "u-MNRMHMwm4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why a Multimeter Can Short an Outlet | The A Jack Mistake",
+   "dur": "8:10",
+   "meta": [
+    "21",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 21,
+   "age": "4w ago"
+  },
+  {
+   "id": "ANDBVizyNak",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Panel Getting Warm but the Breaker Stays On? Here's Why",
+   "dur": "8:34",
+   "meta": [
+    "82",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 82,
+   "age": "3w ago"
+  },
+  {
+   "id": "WX2KNwUoY-g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Won't Start? Why the Contactor Won't Click | START/STOP Circuit",
+   "dur": "9:57",
+   "meta": [
+    "53",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 53,
+   "age": "3w ago"
+  },
+  {
+   "id": "U7Wu5CIj8Zg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does Your RCD Trip? 30 mA, RCCB vs RCBO Explained",
+   "dur": "10:42",
+   "meta": [
+    "45",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 45,
+   "age": "3w ago"
+  },
+  {
+   "id": "4GdZHunL1d0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why LED Bulbs Fail Early (Even When Rated for 15,000 Hours)",
+   "dur": "8:01",
+   "meta": [
+    "31",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 31,
+   "age": "3w ago"
+  },
+  {
+   "id": "cQ7MLNxOOJg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does the Meter Show kWh When Appliances Show W? | Hair Dryer vs Router",
+   "dur": "8:17",
+   "meta": [
+    "14",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 14,
+   "age": "3w ago"
+  },
+  {
+   "id": "3y1aj3taoZ4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does the Bathroom Fan Keep Running After the Light Is Off?",
+   "dur": "8:03",
+   "meta": [
+    "43",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 43,
+   "age": "3w ago"
+  },
+  {
+   "id": "XHUyP-LQoHc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Switches, One Light: How Does a Two-Way Circuit Work?",
+   "dur": "5:06",
+   "meta": [
+    "9",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 9,
+   "age": "2w ago"
+  },
+  {
+   "id": "GROPIjCA-fM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How 3 Switches Control 1 Light: Intermediate / 4-Way Switch Explained",
+   "dur": "8:28",
+   "meta": [
+    "13",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 13,
+   "age": "2w ago"
+  },
+  {
+   "id": "7BzkVvR2ywI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How a Zener Diode Works – Voltage Regulation Explained",
+   "dur": "6:58",
+   "meta": [
+    "5",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "13d ago"
+  }
+ ]
+}

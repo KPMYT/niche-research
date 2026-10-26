@@ -1,0 +1,368 @@
+{
+"source": "NexLev get_similar_videos",
+"seed": "U9ZQ96hbmIY",
+"pulled": "2026-10-23",
+"note": "compact extract from saved tool result",
+"columns": [
+"videoId",
+"title",
+"channelTitle",
+"channelId",
+"viewCount",
+"lengthText",
+"publishedTimeText",
+"similarity_score"
+],
+"videos": [
+[
+"4yX_gLIlEEw",
+"Why Most DIY Crimp Connections Fail - Up or Down?",
+"Roy Dalton Electric",
+"UCD5ecNIpxHr3xCiOhiFtC0g",
+4075,
+"12:17",
+"1 day ago",
+85
+],
+[
+"dTYyMwbSK7I",
+"How to Crimp Various Electrical Wires: Beginner and Expert Tutorial",
+"DIY Solar Power with Will Prowse",
+"UCoj6RxIAQq8kmJme-5dnN0Q",
+206749,
+"15:33",
+"7 years ago",
+82
+],
+[
+"CRA0iE_qoYk",
+"Why Crimp & Seal Butt Connectors FAIL!",
+"South Main Auto LLC",
+"UCtAGzm9e_liY7ko1PBhzTHA",
+272971,
+"9:29",
+"2 years ago",
+82
+],
+[
+"3Zc_keQrEMs",
+"Wire Crimping : How To Get Professional Results",
+"TX Tool Crib",
+"UCOFxJWxZQE0A2rPNeImjrZw",
+256272,
+"19:51",
+"1 year ago",
+79
+],
+[
+"bHEjqfUs4ws",
+"CRIMPING 101: How to Crimp Open Barrel Terminals Like a PRO! (Wire Selection Included)",
+"Lucid Autowerks",
+"UCmUvUuRCUHXHcq3Tb-d9IEQ",
+385818,
+"8:02",
+"8 months ago",
+78
+],
+[
+"bN3CGCQlEZo",
+"Wire Lug Crimping 101 - Wire Terminal Basics | Ep: 5/14",
+"EXPLORIST life Mobile Marine & Off-Grid Electrical",
+"UC6nhezTEpRgsBaQ-nPd-Upw",
+43753,
+"6:32",
+"2 years ago",
+78
+],
+[
+"J0AUV-bXVjE",
+"Crimping Wires: Crimper Tools Used to Crimp Tiny Wires to HUGE CONDUCTORS!",
+"Electrician U",
+"UCB3jUEyCLRbCw7QED0vnXYg",
+30668,
+"15:15",
+"2 years ago",
+78
+],
+[
+"8IpFQXzCR9U",
+"How To Crimp Insulated & Non-Insulated Crimp Terminals | IWISS Crimp Tool",
+"dial2fast",
+"UC5NVvmIfn4-v8rhD_Bealpw",
+154320,
+"8:43",
+"2 years ago",
+76
+],
+[
+"bAO9eCS65jw",
+"Crimp Theory Fundamentals: ADVANCED",
+"TE Connectivity",
+"UCWAyuZuT-Qv4zkhricNa6IQ",
+102804,
+"19:32",
+"11 years ago",
+75
+],
+[
+"ZrpgeTqANKk",
+"How To Crimp Butt Connectors Tutorial",
+"Todd's Garage",
+"UCKvtG8W4JP3tSZJD9ox49Kw",
+570936,
+"5:12",
+"5 years ago",
+75
+],
+[
+"49DOqdnd5dk",
+"50% Failure Rate!  How To Install Crimp Connectors Like The Pros!",
+"How To Home",
+"UCpb-xu6Oun_d41RjztUgFWA",
+158847,
+"14:47",
+"2 years ago",
+74
+],
+[
+"GZOh1NzqzzU",
+"Guide to crimp connectors on 3D printers - Take your wiring to the next level!",
+"Teaching Tech",
+"UCbgBDBrwsikmtoLqtpc59Bw",
+337491,
+"15:47",
+"5 years ago",
+73
+],
+[
+"WYDFqrfysoE",
+"Open Barrel Terminal Crimping Made Easy: Achieve Pro Results with PEBA",
+"PEBA Tools",
+"UCPr3yByz5nnUOIxia88Pliw",
+66196,
+"1:01",
+"2 years ago",
+73
+],
+[
+"Svja8zEcKNQ",
+"How to Crimp Wires - Basic Tips on Crimping | Galco",
+"GalcoTV",
+"UC6fkjcWqPG8uMj-NUHCmBPg",
+1400268,
+"2:49",
+"11 years ago",
+72
+],
+[
+"-zL-vmBwH4k",
+"QuikGuide: How To Crimp Insulated Terminals",
+"Eclipse Tools",
+"UCKfbTOJe1veuhcfy8KsTaPw",
+27260,
+"0:34",
+"6 years ago",
+69
+],
+[
+"uuTRLQOa5zk",
+"Cable crimping tool. Everything You Need to Know in 5 Minutes",
+"Andreas Behrendt – Technology & Practice",
+"UC3NNci1ygUDpuYKeTUkVlmQ",
+253057,
+"4:45",
+"2 years ago",
+66
+],
+[
+"cqyYBua4pX4",
+"How you can use Wire Ferrules (Why We Need Them!)",
+"50plusdad",
+"UC57qLn8VC3buyi4HV5bs6kw",
+136661,
+"4:39",
+"2 years ago",
+66
+],
+[
+"goxVeefDpQg",
+"How Pros Use Crimp Connectors, how to use crimp connectors, the right way",
+"Anthony Mendez ",
+"UC4JLjBBedLqXjBF7u09lFyQ",
+2086933,
+"4:06",
+"3 years ago",
+65
+],
+[
+"8X2fLQQft9M",
+"How to Crimp Coax Cable With F-Type Connectors",
+"MostlyBuilds",
+"UCDBZHUwiidu97Cvn5mE3g6w",
+44141,
+"2:19",
+"2 years ago",
+61
+],
+[
+"N1dcCzfgdhs",
+"How to CRIMP CAT6 RJ45 - Tutorial (BEST Method)",
+"Low Voltage Nation",
+"UCcD17p0S1m_0VQhw3_F02rg",
+399627,
+"2:13",
+"2 years ago",
+58
+],
+[
+"Dyvwg_3UIf0",
+"Waterproof Connections a Step-By-Step Guide (make your own)",
+"50plusdad",
+"UC57qLn8VC3buyi4HV5bs6kw",
+590568,
+"7:43",
+"3 years ago",
+55
+],
+[
+"JQml6R9f-4c",
+"Crimp Tool SN-48B for Wire Connectors",
+"mygiguser",
+"UCScbacAUP9Ip-VAzGkqpw0w",
+120276,
+"2:10",
+"4 years ago",
+55
+],
+[
+"8TPWBD-ZIxA",
+"How To Crimp Shielded CAT6A with Passthrough RJ45s Tutorial",
+"Low Voltage Nation",
+"UCcD17p0S1m_0VQhw3_F02rg",
+185064,
+"6:23",
+"2 years ago",
+53
+],
+[
+"rpqJsggknGs",
+"Fix AirPods CONNECTION FAILED When Pairing With iPhone | 2025",
+"ITJungles",
+"UCQi4rjJkUqXNp-KfY9o3V-w",
+27532,
+"4:14",
+"1 year ago",
+28
+],
+[
+"d64XHoq6ZOg",
+"How to Fix Wi-Fi Connection Failed Error on Samsung and Other Smartphones",
+"Shahab Rajput",
+"UC03jpc7ew_Q9DwA6LpHCG6Q",
+604482,
+"5:21",
+"2 years ago",
+25
+],
+[
+"ZODpeyWPfaU",
+"How To Fix Connection Failed Error on FiveM - Full Guide",
+"GPSOLVED",
+"UCNlP7CqnwEu1-kmM9ITWgZw",
+95728,
+"2:46",
+"2 years ago",
+22
+],
+[
+"1RbnBzyiokA",
+"HOW TO FIX FIVEM CONNECTION ERROR FAILED?! WORKS IN ALL SERVERS‼️ GTA RP | GRIZZLEYWORLDRP",
+"Energymann",
+"UCEvyGblxLPts8PRW9XS3GPg",
+415071,
+"6:12",
+"3 years ago",
+18
+],
+[
+"0Ou1yZLuRGo",
+"How to Fix Connection Failed Error on COD Black Ops 6 & Warzone (PS5 Tutorial)",
+"YourSixGaming",
+"UCvgTpqI_3ZF8XL-jmwLXYKw",
+63962,
+"3:09",
+"1 year ago",
+18
+],
+[
+"G0xWGQCPZ0Y",
+"How to Fix Wifi Connection Failed (Any Device) | Wifi Connection Problem | Fix WIFI Not Connecting",
+"Exclusive Solution",
+"UCevOKSw-7rR7dyy_Mue74-w",
+231742,
+"1:58",
+"3 years ago",
+16
+],
+[
+"QOjlmnX3Cs0",
+"Fix Samsung WiFi Connection Failed issue | Solve Samsung Phone Wi-Fi Connection Fail issues",
+"JOy Studio+",
+"UCzjtEzYnpSZ-rcir9XaAQKw",
+78730,
+"2:48",
+"2 years ago",
+14
+],
+[
+"1yyrD2EIOCU",
+"Why 90% of Fiction Writers Fail to Connect with Readers",
+"Bookfox",
+"UCWp90fsJtx4BScXsxRoCMoA",
+136854,
+"13:54",
+"1 year ago",
+12
+],
+[
+"HH_49qODSjg",
+"Free Fire Login Error Fixed! (Account Data 2) ⚡| 22 Oct 2026",
+"Geet Gaming ff",
+"UCclIy9k2WSjjanpbsGDcjUQ",
+560,
+"2:20",
+"14 hours ago",
+12
+],
+[
+"i9VbvH-yZvM",
+"FIXED! Kali NetHunter KeX Connection Failed & Openbox GUI Crash | 100% Stable Method",
+"Termux Bird",
+"UCLSwqX7_qc1URdDs8-wGrUQ",
+3722,
+"6:57",
+"2 months ago",
+12
+],
+[
+"lwn9d1h_G2s",
+"Free Fire Network Connection Error Failed to retrieve server config 2 Problem Wifi | FF Open Trick 🔥",
+"The Bengal Gamer",
+"UC7o53anX4tW46dOKUXgAtzQ",
+9819,
+"2:59",
+"17 hours ago",
+10
+],
+[
+"tapihqxKexQ",
+"Assetto corsa failed to connect handshake failed Fix",
+"Lotus Geek",
+"UCnj8CMpvUFtU83-sopqD5hw",
+34145,
+"2:12",
+"1 year ago",
+8
+]
+]
+}
