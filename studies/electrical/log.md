@@ -105,3 +105,11 @@ Fixed by the main session:
 **Caveat (reading):** search results favour each channel's winners, so multiples run high across the board (most sub-niches median 3-8x). Use them to compare topics with each other, not as absolute figures. Small groups with tiny-channel medians (e.g. best-list, 35.9x) are unreliable. Two helpers' labels for the same format (inspection-walk / inspection-walkthrough; explainer / explainer fallback) are merged in round 4.
 
 **Census gap and fill (2026-10-26):** NexLev's batch tool returns no monthly views, earnings, outlier score or join date (census chunk 2's helper); subs, views and join date come from YouTube About pages. Main session tested NexLev `get_daily_analytics` (dayCount 30): it gives last-7/30/90/365-day views and subscriber gains (How To Home: 3,589,938 views in 30 days, 2026-10-26). A helper is filling this for all 298 census channels into `data/census/nexlev-daily.csv`; monthly earnings will be estimated as 30-day views × NexLev RPM and labelled an estimate.
+
+**Round 3 landed (2026-10-26):** top 100 and recent winners (`data/top100/`), investigator look (`data/investigator/`), census chunks 1-3 (`data/census/`, 298 channels; reports saved by the main session). Unnarrated "hack" channels (BEEE Works, Handcraft, Inventor J, DIYTechTrends, DIY Hacks and others) hold #1, #2 and #7 of the top 100: kept, flagged; the final top 100 will be shown with and without them (main session's call: a narrated persona can't copy that format).
+
+**Launched:** checker E (round 3: every top-100 row, recent winners, census sample, investigator sample, medians and multiples recomputed) and, in parallel, round 4.
+
+## Round 4 (2026-10-26): emotions, villains, formats
+
+Labelling set (`data/labels/to-label-*.csv`, 1,007 videos): the top 100, both recent lists, and per sub-niche the top 30 by views plus 10 random from the rest (to show the typical video, not just winners). Three labellers by sub-niche group (A wiring and panels 338; B cords and devices 407; C explainers and fire 262), working from the full plumbing emotion definitions; title plus thumbnail for the top 100 and recent winners, title only for the rest. Each also writes per-sub-niche emotion and villain summaries. A checker will re-label a sample blind.
