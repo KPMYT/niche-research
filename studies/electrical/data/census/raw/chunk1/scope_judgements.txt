@@ -1,0 +1,100 @@
+1|2|connectors|partial|
+2|12|wiring-mistakes;outlets-switches;connectors|partial|
+3|6|electrical-explainer;outlets-switches;electric-bill|partial|
+4|2|electrical-explainer|partial|
+5|3|lighting-led|partial|3 LED-bulb repair hacks counted; 8 drill-battery revival hacks read as battery repair, not lithium safety (not counted)
+6|2|lighting-led|partial|
+7|4|connectors;outlets-switches;lighting-led|partial|UK
+8|19|outlets-switches;gfci-afci;old-wiring|core|10 of 30 are EMT bending, plumbing, appliance or tool videos
+9|2|outlets-switches;gfci-afci|partial|only 8 long-form on Popular page 1
+10|12|lighting-led;batteries-lithium;cords-strips-surge|partial|UK; product teardowns and fire/shock warnings
+11|23|breakers-panels;outlets-switches;electrical-explainer|core|rest are conduit bending and trade-career videos
+12|4|breakers-panels;outlets-switches|partial|only 9 long-form; Canada
+13|12|outlets-switches;ceiling-fans;lighting-led|partial|
+14|2|electrical-explainer|partial|electronics-component explainers (resistor, capacitor, transistor) read as adjacent, not counted
+15|1|outlets-switches|partial|single hit (burnt outlet replace) on a general how-to channel
+16|29|dryer-vents|core|
+17|2|testers-meters;connectors|partial|mostly HVAC
+18|7|wiring-mistakes;outlets-switches;breakers-panels|partial|UK; rest is solar, battery storage, EV and electrician-life
+19|9|electrical-explainer;connectors;cords-strips-surge|partial|rest are physics/TV/history experiments
+20|0|out|out|re-judged out: no in-scope title in Popular 30 (WD-40, car, plastic-repair hacks; the one "battery" hit is a car-battery revival hack)
+21|4|breakers-panels;electrical-explainer|partial|UK; mostly solar, EV, off-grid and travel-electrics vlogs
+22|4|smoke-co-alarms;outlets-switches|core|only 6 long-form; organisation
+23|3|breakers-panels;outlets-switches|partial|South Africa
+24|2|generator-safety|partial|2 backfeed videos; generator buying/repair and bushcraft otherwise
+25|5|outlets-switches;gfci-afci;lighting-led|partial|Canada; general renovation
+26|18|electrical-explainer;testers-meters;connectors|core|Australia; most titles are "Electrician Reacts to" high-voltage/shock videos (counted as safety explainers); kept core but reaction-heavy
+27|2|lighting-led|partial|2 LED-light repair hacks; battery-revival and cement/WD-40 hacks otherwise
+28|1|generator-safety|partial|one transfer-switch hookup; rest is power-station/generator buying and blackout (out topics)
+29|3|breakers-panels;generator-safety|partial|rest solar, power stations, mowers
+30|4|breakers-panels;outlets-switches|partial|general homestead DIY
+31|13|wiring-mistakes;breakers-panels|partial|UK electrician vlog: botched-work and fault-finding stories; rest customer drama/day-in-life
+32|25|breakers-panels;generator-safety;old-wiring|core|New Jersey contractor: 200A service upgrades, interlocks, transfer switches
+33|18|fire-habits;smoke-co-alarms;cords-strips-surge|core|5 storm/hurricane/wildfire titles not counted
+34|2|connectors;lighting-led|partial|automotive/metal shop; crimping is automotive terminals
+35|2|batteries-lithium|partial|e-moto vlog; 2 "my e-bike caught on fire" videos
+36|4|wiring-mistakes;old-wiring|partial|half the Popular page is homebrewing
+37|1|electric-bill|partial|single hit ($8 electric-bill trick); rest prepping/blackout/stockpile (out topics)
+38|1|outlets-switches|partial|single hit; tool reviews and apprentice career otherwise
+39|13|outlets-switches;wiring-mistakes;testers-meters|core|only 14 long-form; 1 oil-change video
+40|14|lighting-led;outlets-switches;cords-strips-surge|core|borderline (14/30, 16 if EV-charger installs counted); kept core
+41|18|electrical-explainer;breakers-panels|core|utility-side line work (transformers, services, meters) counted as electrical explainers
+42|22|breakers-panels;electrical-explainer;gfci-afci|core|UK wiring-regs training
+43|24|breakers-panels;outlets-switches;gfci-afci|core|
+44|4|electric-bill|partial|utility-bill/rates titles counted; solar, off-grid, water-law titles out
+45|5|fire-habits;smoke-co-alarms;extinguishers-escape|partial|organisation; historic nightclub/hotel fire documentaries and wildland firefighting not counted
+46|17|electrical-explainer;breakers-panels;gfci-afci|core|grid and home electrical history explainers
+47|4|breakers-panels;electric-bill|partial|EV vlog channel; 3 SPAN smart-panel episodes
+48|22|testers-meters;breakers-panels;outlets-switches|core|
+49|5|batteries-lithium|partial|5 battery/charging titles; rest e-bike buying guides
+50|22|electrical-explainer;gfci-afci;testers-meters|core|re-judged partial->core: 22 of 30 Popular long-form are UK wiring, RCD, testing and fault explainers
+51|9|breakers-panels;outlets-switches;testers-meters|partial|appliance repair (dryers, fridges) and HVAC otherwise
+52|9|batteries-lithium;fire-habits|partial|battery/charging/fire titles counted; range, theft, buying titles not
+53|19|old-wiring;breakers-panels;outlets-switches|core|builder-shortcut framing; newest video is lawn care; no uploads in last 90 days
+54|4|smoke-co-alarms;generator-safety;batteries-lithium|partial|organisation (state insurance agency)
+55|9|testers-meters;wiring-mistakes|partial|toner/tracer how-tos; tool and pouch reviews otherwise
+56|3|connectors;outlets-switches;testers-meters|partial|
+57|28|wiring-mistakes;connectors;outlets-switches|core|
+58|0|out|out|re-judged out: fire department channel; no home fire-prevention title among 14 long-form (tours, recruit academy, cardiac-arrest ceremonies)
+59|3|smoke-co-alarms|partial|commercial fire-alarm technician training (NICET, EST3 programming); home smoke-alarm content is thin
+60|7|electrical-explainer|partial|re-judged core->partial: 11 of 18 long-form are relay-simulator software and motor-control tutorials; 7 high-voltage failure/safety clips counted
+61|16|electrical-explainer;breakers-panels;outlets-switches|core|NEC code/exam-prep explainers
+62|4|extinguishers-escape;generator-safety;batteries-lithium|partial|workplace/industrial safety otherwise
+63|27|holiday-lights;lighting-led|core|UK
+64|10|generator-safety;outlets-switches;breakers-panels|core|
+65|6|lighting-led;breakers-panels;fire-habits|partial|home-service radio show; garage doors and business-coaching episodes otherwise
+66|4|kitchen-grease;extinguishers-escape;fire-habits|partial|organisation; hurricane deployments and ceremonies otherwise
+67|14|electrical-explainer;old-wiring|partial|half electrical-history explainers, half food/general history
+68|17|wiring-mistakes;old-wiring;cords-strips-surge|core|
+69|9|fire-habits;batteries-lithium;smoke-co-alarms|core|
+70|8|outlets-switches;lighting-led;wiring-mistakes|partial|Nigeria; building conduit-piping trade training otherwise
+71|15|electrical-explainer;outlets-switches;gfci-afci|core|
+72|4|electrical-explainer;gfci-afci|core|only 6 long-form
+73|25|electrical-explainer|core|power-line and home-electricity explainers
+74|2|breakers-panels;old-wiring|core|only 2 long-form
+75|8|connectors;outlets-switches;testers-meters|partial|
+76|12|fire-habits;batteries-lithium;home-inspection|core|
+77|3|lighting-led|partial|UK contractor; solar and garden-lighting jobs; only 9 long-form
+78|3|electrical-explainer|partial|industrial diesel-generator controller and ACB training (Saudi Arabia); home topics thin
+79|3|electrical-explainer;fire-habits|core|franchise branch; only 3 long-form
+80|5|breakers-panels;outlets-switches;extinguishers-escape|partial|"how buildings work" channel; HVAC and plumbing otherwise
+81|16|fire-habits;smoke-co-alarms;extinguishers-escape|core|re-judged partial->core: 16 of 22 long-form are home fire-cause/fire-escape titles
+82|3|electric-bill;space-heaters|partial|senior budget/blackout framing; solar, home battery, blackout titles out
+83|1|generator-safety|partial|re-judged core->partial: 5 of 6 are line-crew hazards (arc flash, booms, poles, manholes), 1 generator-backfeed title
+84|7|cords-strips-surge;outlets-switches;electric-bill|core|
+85|3|old-wiring;breakers-panels|core|only 3 videos
+86|2|fire-habits|core|only 2 videos
+87|2|breakers-panels|partial|backup-power/blackout buying otherwise (out topics)
+88|1|fire-habits|core|only 2 long-form (1 plugged-in fire title, 1 wildfire-smoke)
+89|4|fire-habits;cords-strips-surge;batteries-lithium|core|
+90|0|out|out|re-judged out: wildlife/pest-control channel (raccoons, snakes, rodents); dryer-vent and chewed-wire titles are about animals
+91|9|fire-habits;smoke-co-alarms;kitchen-grease|core|UK firefighter persona
+92|4|generator-safety;electrical-explainer|partial|re-judged core->partial: about half are blackout/outage titles (out topic)
+93|3|outlets-switches;gfci-afci;electrical-explainer|partial|3D cutaway how-tos across septic, decks, roofing, AC
+94|4|wiring-mistakes;old-wiring|core|only 4 long-form
+95|4|electrical-explainer|core|re-judged partial->core: 4 of 6 long-form are electrical explainers
+96|1|outlets-switches|core|1 video
+97|4|fire-habits;cords-strips-surge;kitchen-grease|partial|general emergency/survival tips
+98|1|electric-bill|core|1 video
+99|1|breakers-panels|core|1 video
+100|4|cords-strips-surge;smoke-co-alarms;fire-habits|core|

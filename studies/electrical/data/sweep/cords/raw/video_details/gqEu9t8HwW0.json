@@ -1,0 +1,290 @@
+{
+ "id": "gqEu9t8HwW0",
+ "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+ "channel": "The Engineering Mindset",
+ "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+ "views": 2953202,
+ "date": "Apr 15, 2024",
+ "up_next": [
+  {
+   "id": "u0SsejDCVkU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How 3 Phase Transformers Work – why we need them",
+   "dur": "24:24",
+   "meta": [
+    "The Engineering Mindset",
+    "2.2M",
+    "2y ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 2200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "TUno2IT-KZY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why RCDs Fail: The Hidden Danger in Your Consumer Unit",
+   "dur": "17:18",
+   "meta": [
+    "The Engineering Mindset",
+    "275K",
+    "7mo ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 275000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "Px_SYXzatR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does The Neutral Wire Actually Do?",
+   "dur": "25:12",
+   "meta": [
+    "Weirdward Bound",
+    "236K",
+    "9d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 236000,
+   "age": "9d ago"
+  },
+  {
+   "id": "NUSNa-7Hecw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sub Panels Explained - Why are neutral and ground separated?",
+   "dur": "16:22",
+   "meta": [
+    "The Engineering Mindset",
+    "2.8M",
+    "3y ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 2800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "eyZEqSPeMwg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "No device could prove Einstein wrong... until now",
+   "dur": "34:28",
+   "meta": [
+    "Veritasium",
+    "1.8M",
+    "12h ago"
+   ],
+   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "views": 1800000,
+   "age": "12h ago"
+  },
+  {
+   "id": "XzOBKYoAj-0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Tried to Make a Better Fan",
+   "dur": "45:46",
+   "meta": [
+    "CaptiveAire",
+    "758K",
+    "5mo ago"
+   ],
+   "channel_id": "UCt0ArHe_-CKAr1So3IEwmsA",
+   "views": 758000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "hEDto-bnHKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED",
+   "dur": "43:50",
+   "meta": [
+    "The Excellent Laborer",
+    "4.1M",
+    "4y ago"
+   ],
+   "channel_id": "UCUJXaEduMHGB3Iap3DusmAA",
+   "views": 4100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "F2-z1WCa5OQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Aircraft Bomb Types Explained | From Gravity Bombs to Precision Guidance",
+   "dur": "11:36",
+   "meta": [
+    "3D World",
+    "55",
+    "2d ago"
+   ],
+   "channel_id": "UC9VJYCUADMVUT4TkiHuWBng",
+   "views": 55,
+   "age": "2d ago"
+  },
+  {
+   "id": "UEwFDO9hQMM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔋Never Buy Drill Batteries Again! Use a Ballpoint Pen and Watch What Happens!😱 | DIY Hacks",
+   "dur": "20:38",
+   "meta": [
+    "DIY Hacks",
+    "851K",
+    "2w ago"
+   ],
+   "channel_id": "UCe_5cyghC66jIC64KnUs77w",
+   "views": 851000,
+   "age": "2w ago"
+  },
+  {
+   "id": "96Vekm8Ws4U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Power Transformers work ? | Epic 3D Animation #transformers",
+   "dur": "21:06",
+   "meta": [
+    "Tracing Science",
+    "1.5M",
+    "2y ago"
+   ],
+   "channel_id": "UCjivsPgvOr_vF9En3n4lltg",
+   "views": 1500000,
+   "age": "2y ago"
+  },
+  {
+   "id": "NiCgcUTL9_Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Insane Engineering of Fiber Optics",
+   "dur": "34:32",
+   "meta": [
+    "Veritasium",
+    "12M",
+    "11d ago"
+   ],
+   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "views": 12000000,
+   "age": "11d ago"
+  },
+  {
+   "id": "bHIhgxav9LY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Biggest Misconception About Electricity",
+   "dur": "14:48",
+   "meta": [
+    "Veritasium",
+    "28M",
+    "4y ago"
+   ],
+   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "views": 28000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "ffO4xVOU1oI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Volts, Amps & Watts Explained — and Which One Kills You",
+   "dur": "13:00",
+   "meta": [
+    "The Apprentice's Guide",
+    "821K",
+    "1mo ago"
+   ],
+   "channel_id": "UCMXN-53SCPpYxmYSvFOjz2g",
+   "views": 821000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "DKYguNg1vmk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+   "dur": "14:39",
+   "meta": [
+    "The Engineering Mindset",
+    "740K",
+    "4mo ago"
+   ],
+   "channel_id": "UCk0fGHsCEzGig-rSzkfCjMw",
+   "views": 740000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "H9xDDNxblZU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Electronic Components Work?",
+   "dur": "16:35",
+   "meta": [
+    "ElectroRobotics",
+    "189K",
+    "1mo ago"
+   ],
+   "channel_id": "UCZlbAyUxFjj6LSEFK3oqfzg",
+   "views": 189000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "ZwkNTwWJP5k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Most Confusing Part of the Power Grid",
+   "dur": "22:07",
+   "meta": [
+    "Practical Engineering",
+    "3.2M",
+    "2y ago"
+   ],
+   "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+   "views": 3200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "M7mPz1dZ4oM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electric Meter Bypass - This is GENIUS!",
+   "dur": "22:16",
+   "meta": [
+    "Leon Rygol and Rygol Electrical and Renewable’s (Bristol)",
+    "916K",
+    "1y ago"
+   ],
+   "channel_id": "UCfaKl2NfTv1tL-QXgvHElGQ",
+   "views": 916000,
+   "age": "1y ago"
+  },
+  {
+   "id": "7voH3cm2h1M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does America Use 60 Hz While Europe Uses 50 Hz?",
+   "dur": "27:27",
+   "meta": [
+    "Weirdward Bound",
+    "1.3M",
+    "2w ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 1300000,
+   "age": "2w ago"
+  },
+  {
+   "id": "KYI7zjYRj-M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Inverters Turn Battery Power into AC",
+   "dur": "17:01",
+   "meta": [
+    "Prof MAD",
+    "471K",
+    "1mo ago"
+   ],
+   "channel_id": "UCIHwyz8ISMolEPSy6VDf-kw",
+   "views": 471000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "zRGcAUKKIoQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do 3-Phase Motors Have 6 Terminals but Only 3 Supply Leads?",
+   "dur": "26:59",
+   "meta": [
+    "Weirdward Bound",
+    "14K",
+    "2d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 14000,
+   "age": "2d ago"
+  }
+ ]
+}

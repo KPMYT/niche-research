@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job b6f3ecc8-e9d7-4846-aa22-8e9756135e28, timestamp 2026-10-26T06:53:24.866Z (transcribed field by field from the tool result)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UCGx2kgwV88KGMhP5Yr5NnCA,true,2.84,15054,34.9,education,tutorial,true,false,United States,0.98
+UCSCFGq_CgRNnmaTtjiLZ-5A,false,4.52,7243,3.4,business,tutorial,true,false,United States,0.98
+UC_ssn3kbsxEuZ6QWv_rxvYg,false,3.73,6636,4.1,do it yourself,tutorial,false,true,Denmark,0.96
+UC9ga5pd1adLQS3liXnZKVkg,false,3.6,15839,10.7,tech,educational,false,true,United States,0.97
+UCwf9niZNaW8mkECB6GT6raQ,false,8.11,47849,17.2,lifestyle,vlogs,false,false,United States,0.98
+UCXnqxs5yX3F-lMf8lzWNrdA,true,3.51,7326,29.6,science,educational,false,true,United States,0.99
+UCfJeTaTrSEOdbMIC4GLDoDQ,false,5.82,12888,26.2,do it yourself,tutorial,true,false,United States,0.94
+UCHhiS7OziiRgZ7wmZM4GKsw,false,4.71,4042,7.7,do it yourself,tutorial,true,false,United States,0.93
+UC45mE0K2rnyzqiEz066GFdg,true,5.28,5605,11.8,engineering,tutorial,true,false,United States,0.93
+UCQzxwtXVwbzS__6IvWY5WNw,true,3.91,15541,3,engineering,tutorial,true,false,United States,0.98

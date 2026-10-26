@@ -1,0 +1,791 @@
+{
+ "channel": "Practical Engineering",
+ "id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+ "handle": "http://www.youtube.com/@PracticalEngineeringChannel",
+ "description": "Practical Engineering is all about infrastructure and the human-made world around us. It is hosted, written, and produced by civil engineer, Grady Hillhouse. We have new videos posted every first and third Tuesday, so please subscribe for updates.\n\nPractical Engineering: Deciphering Our Constructed World\n\nCONTACT\n---------------------------------------------\nQuestions/Topic Suggestions: https://practical.engineering/about\nSponsorship/Business Inquiries: See below",
+ "subs": "4.84M subscribers",
+ "videos_count": "252 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "bY1E2IkvQ3k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Bizarre Paths of Groundwater Around Structures",
+   "dur": "14:02",
+   "meta": [
+    "14M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 14000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "e-DVIQPqS8E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Sinkholes Form?",
+   "dur": "6:41",
+   "meta": [
+    "13M",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 13000000,
+   "age": "9y ago"
+  },
+  {
+   "id": "HRx_dZawN44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Hidden Engineering of Landfills",
+   "dur": "17:04",
+   "meta": [
+    "11M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "cZINeaDjisY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Concrete Needs Reinforcement",
+   "dur": "8:11",
+   "meta": [
+    "11M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "8y ago"
+  },
+  {
+   "id": "zRM2AnwNY20",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Wild Story of the Taum Sauk Dam Failure",
+   "dur": "20:10",
+   "meta": [
+    "11M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "tmbZVmXyOXM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Cooling Towers Shaped Like That?",
+   "dur": "19:48",
+   "meta": [
+    "9.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 9400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "3oBCtTv6yOw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Really Happened at the Arecibo Telescope?",
+   "dur": "17:58",
+   "meta": [
+    "9.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 9400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "YkR79oDAgOg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is a Weir?",
+   "dur": "8:23",
+   "meta": [
+    "8.1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 8100000,
+   "age": "7y ago"
+  },
+  {
+   "id": "jduDyF2Zwd8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Where Does Grounded Electricity Actually Go?",
+   "dur": "19:36",
+   "meta": [
+    "7.9M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 7900000,
+   "age": "3y ago"
+  },
+  {
+   "id": "yZwfcMSDBHs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Water Towers Work",
+   "dur": "11:00",
+   "meta": [
+    "7.4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 7400000,
+   "age": "7y ago"
+  },
+  {
+   "id": "zFdyqTGx32A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a Hydraulic Ram Pump Work?",
+   "dur": "8:56",
+   "meta": [
+    "7.3M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 7300000,
+   "age": "6y ago"
+  },
+  {
+   "id": "0kQXOTcEB_E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Beach Holes So Deadly?",
+   "dur": "16:11",
+   "meta": [
+    "7.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 7100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "xoLmVFAFjn4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is Water Hammer?",
+   "dur": "7:40",
+   "meta": [
+    "6.8M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 6800000,
+   "age": "8y ago"
+  },
+  {
+   "id": "URC125wpMS4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How are Underwater Structures Built?",
+   "dur": "8:18",
+   "meta": [
+    "6.5M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 6500000,
+   "age": "7y ago"
+  },
+  {
+   "id": "XiUOBdEUqjY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "All Dams Are Temporary",
+   "dur": "16:29",
+   "meta": [
+    "6M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 6000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "zdkp9N3qfkI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is Air Lock?",
+   "dur": "9:46",
+   "meta": [
+    "5.7M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 5700000,
+   "age": "6y ago"
+  },
+  {
+   "id": "UpHOkHxpTvQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Sewers Work (feat. Fake Poop)",
+   "dur": "12:28",
+   "meta": [
+    "5.5M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 5500000,
+   "age": "5y ago"
+  },
+  {
+   "id": "KciAzYfXNwU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Really Happened During the 2003 Blackout?",
+   "dur": "20:39",
+   "meta": [
+    "5.5M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 5500000,
+   "age": "4y ago"
+  },
+  {
+   "id": "-17mPnFxi30",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Stopping the Unstoppable",
+   "dur": "15:46",
+   "meta": [
+    "5.4M",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 5400000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "jxNM4DGBRMU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Really Happened at the Oroville Dam Spillway?",
+   "dur": "18:27",
+   "meta": [
+    "5.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 5300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "zqmOSMAtadc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Railroads Don't Need Expansion Joints",
+   "dur": "15:53",
+   "meta": [
+    "5.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 5200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Ry_3icwd68o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Different Spillway Gates Work",
+   "dur": "15:16",
+   "meta": [
+    "5.2M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 5200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "PhW2BjFQCZM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Los Angeles Aqueduct is Wild",
+   "dur": "22:59",
+   "meta": [
+    "5.1M",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 5100000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "bG19b06NG_w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Wells & Aquifers Actually Work",
+   "dur": "14:13",
+   "meta": [
+    "5.1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 5100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "0olpSN6_TCc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sand Castle Holds Up A Car! - Mechanically Stabilized Earth",
+   "dur": "7:53",
+   "meta": [
+    "4.9M",
+    "10y ago"
+   ],
+   "channel_id": null,
+   "views": 4900000,
+   "age": "10y ago"
+  },
+  {
+   "id": "mxqOPdEUNTs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is Desalination So Difficult?",
+   "dur": "20:32",
+   "meta": [
+    "4.9M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 4900000,
+   "age": "3y ago"
+  },
+  {
+   "id": "JAhdb7dKQpU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do You Steer a Drill Below The Earth?",
+   "dur": "14:53",
+   "meta": [
+    "4.8M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 4800000,
+   "age": "4y ago"
+  },
+  {
+   "id": "PLF18H9JGHs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Rebar Rust?",
+   "dur": "7:49",
+   "meta": [
+    "4.8M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 4800000,
+   "age": "8y ago"
+  },
+  {
+   "id": "6CmX4ZmhwPM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Every Construction Machine Explained in 15 Minutes",
+   "dur": "17:21",
+   "meta": [
+    "4.6M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 4600000,
+   "age": "3y ago"
+  },
+  {
+   "id": "z-wQnWUhX5Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Repairing Underground Power Cables Is Nearly Impossible",
+   "dur": "13:34",
+   "meta": [
+    "4.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "XpTs1V2NQ24",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Bridges Don't Sink",
+   "dur": "17:30",
+   "meta": [
+    "4.4M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "2y ago"
+  },
+  {
+   "id": "vLZElIYHmAI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Engineers Can't Control Rivers",
+   "dur": "15:53",
+   "meta": [
+    "4.4M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Ty-m4pm8oog",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Really Happened at the Suez Canal?",
+   "dur": "11:34",
+   "meta": [
+    "4.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "aFZM_BY6jBw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How French Drains Work",
+   "dur": "16:41",
+   "meta": [
+    "4.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "3nDdLiXS5wk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Bizarre Bases of Antenna Towers",
+   "dur": "18:08",
+   "meta": [
+    "4.1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 4100000,
+   "age": "1y ago"
+  },
+  {
+   "id": "_OpC4fH3mEk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Long Would Society Last During a Total Grid Collapse?",
+   "dur": "14:57",
+   "meta": [
+    "4M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "3y ago"
+  },
+  {
+   "id": "GVDpqphHhAE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Most Dangerous Dams",
+   "dur": "8:40",
+   "meta": [
+    "4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "ph9O9yJoeZY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Really Happened at the Millennium Tower?",
+   "dur": "13:32",
+   "meta": [
+    "3.9M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3900000,
+   "age": "4y ago"
+  },
+  {
+   "id": "nGa1244hK9Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What’s the Deal with Base Plates?",
+   "dur": "13:31",
+   "meta": [
+    "3.9M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 3900000,
+   "age": "1y ago"
+  },
+  {
+   "id": "7Q-aVBv7PWM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Substations Work?",
+   "dur": "12:38",
+   "meta": [
+    "3.8M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3800000,
+   "age": "7y ago"
+  },
+  {
+   "id": "xNDppVTVUss",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Tunnels Don't Collapse",
+   "dur": "8:40",
+   "meta": [
+    "3.8M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 3800000,
+   "age": "8y ago"
+  },
+  {
+   "id": "SPCewaAfqPA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does land surveying work?",
+   "dur": "6:26",
+   "meta": [
+    "3.8M",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 3800000,
+   "age": "9y ago"
+  },
+  {
+   "id": "0_KhihMIOG8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Buildings Need Foundations",
+   "dur": "14:51",
+   "meta": [
+    "3.7M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3700000,
+   "age": "4y ago"
+  },
+  {
+   "id": "FksEGpBLfis",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Would a Nuclear EMP Affect the Power Grid?",
+   "dur": "17:15",
+   "meta": [
+    "3.6M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3600000,
+   "age": "3y ago"
+  },
+  {
+   "id": "08mwXICY4JM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Really Happened During the Texas Power Grid Outage?",
+   "dur": "16:48",
+   "meta": [
+    "3.6M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 3600000,
+   "age": "5y ago"
+  },
+  {
+   "id": "LxdjSG5IFds",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Cranes Collapse",
+   "dur": "15:40",
+   "meta": [
+    "3.6M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 3600000,
+   "age": "5y ago"
+  },
+  {
+   "id": "9XIjqdk69O4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Are Highways Designed?",
+   "dur": "12:21",
+   "meta": [
+    "3.6M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 3600000,
+   "age": "6y ago"
+  },
+  {
+   "id": "pH7VfJDq7f4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Bridges Move...",
+   "dur": "7:17",
+   "meta": [
+    "3.5M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 3500000,
+   "age": "8y ago"
+  },
+  {
+   "id": "fjapgTd-QUg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Spillways Work?",
+   "dur": "8:15",
+   "meta": [
+    "3.5M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3500000,
+   "age": "7y ago"
+  },
+  {
+   "id": "Nteyw40i9So",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Rails Shaped Like That?",
+   "dur": "14:53",
+   "meta": [
+    "3.4M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3400000,
+   "age": "3y ago"
+  },
+  {
+   "id": "qQCB3N8Vaxk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why are the Dutch So Good at Waterworks?",
+   "dur": "22:20",
+   "meta": [
+    "3.4M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 3400000,
+   "age": "1y ago"
+  },
+  {
+   "id": "3YvwqMDDb3k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Roads Get Washboards",
+   "dur": "17:54",
+   "meta": [
+    "3.3M",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 3300000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "--DKkzWVh-E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Retaining Walls Collapse",
+   "dur": "12:51",
+   "meta": [
+    "3.2M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "4y ago"
+  },
+  {
+   "id": "XKFaC5RYbEM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The World's Most Recycled Material",
+   "dur": "11:20",
+   "meta": [
+    "3.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "UBivwxBgdPQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Rivers Move",
+   "dur": "17:48",
+   "meta": [
+    "3.2M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "ZwkNTwWJP5k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Most Confusing Part of the Power Grid",
+   "dur": "22:07",
+   "meta": [
+    "3.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "O_Q1WKCtWiA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Arduino Garden Controller - Automatic Watering and Data Logging",
+   "dur": "9:13",
+   "meta": [
+    "3.2M",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "11y ago"
+  },
+  {
+   "id": "uOSnQM1Zu4w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is A Black Start Of The Power Grid?",
+   "dur": "17:06",
+   "meta": [
+    "3.1M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3100000,
+   "age": "3y ago"
+  },
+  {
+   "id": "qFXWjv65JWg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Spillway Gates Don't Rust Out",
+   "dur": "13:21",
+   "meta": [
+    "3M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "7tjf8HWiR3Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is a Hydraulic Jump?",
+   "dur": "8:43",
+   "meta": [
+    "3M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3000000,
+   "age": "7y ago"
+  }
+ ]
+}

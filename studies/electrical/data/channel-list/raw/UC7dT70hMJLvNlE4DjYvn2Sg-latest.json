@@ -1,0 +1,50 @@
+{
+ "channel": "We Went Inside",
+ "id": "UC7dT70hMJLvNlE4DjYvn2Sg",
+ "handle": "http://www.youtube.com/@WeWentInside",
+ "description": "We Went Inside explains how everyday things work, by going inside them. Why does your phone battery get worse every year? What happens in the two seconds after you tap your card? Why do traffic jams appear for no reason?\n\nIn each episode Wren asks the question you would ask, and Ozzo, a lens that can go inside anything, shows the answer with a picture you can follow. Episodes run about eight minutes, for adults and curious older teens.\n\nEvery factual claim is checked against a source, and the sources are linked under each video.\n\nHow it is made: the episodes are written, drawn and animated in code with an AI assistant, and both voices are computer-generated. A person watches every episode before it is published.\n\nNew episodes about once a week.\n",
+ "subs": "14 subscribers",
+ "videos_count": "19 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "iUg7in4Io9o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why does your smoke detector chirp at night?",
+   "dur": "10:47",
+   "meta": [
+    "27",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 27,
+   "age": "4d ago"
+  },
+  {
+   "id": "-w2vKaq_QVs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What happens when you tap your card? The 2-second trip and the slow money",
+   "dur": "9:32",
+   "meta": [
+    "51",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 51,
+   "age": "10d ago"
+  },
+  {
+   "id": "5fWYX3IX27s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why does your phone battery get worse every year?",
+   "dur": "8:41",
+   "meta": [
+    "36",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 36,
+   "age": "12d ago"
+  }
+ ]
+}

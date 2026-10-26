@@ -1,0 +1,7007 @@
+{
+ "channel": "Silver Cymbal",
+ "id": "UC67dKTEwpAhKv2oYDATwR8g",
+ "handle": "http://www.youtube.com/@SilverCymbal",
+ "description": "Do more yourself - Do it Yourself\n\nHome Improvement - Plumbing / Heating / Generators  / Landscaping & Gardening - Lawn Care\n\nEverything you see is how I take care of my home and I hope that you can use some of my videos to help you do more yourself at your home.",
+ "subs": "1.09M subscribers",
+ "videos_count": "539 videos",
+ "sort": "latest",
+ "pages_loaded": 18,
+ "note": "pulled 2026-10-23 with yt.py functions; pagination via first continuationItemRenderer token (yt.py channel latest stopped at 1 page because its last continuation token was a chip token)",
+ "videos": [
+  {
+   "id": "XJdrUmHkjIs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EcoFlow Just Made Whole House Backup WAY More Affordable! ALL NEW TITAN",
+   "dur": "9:32",
+   "meta": [
+    "76K",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 76000,
+   "age": "9d ago"
+  },
+  {
+   "id": "K8F2R1gDSkg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Hands On with the MOST Powerful Portable Solar Generator Anker Has Made - S5000",
+   "dur": "7:12",
+   "meta": [
+    "46K",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 46000,
+   "age": "13d ago"
+  },
+  {
+   "id": "W-iM-xNJj9E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Not Sure You Can Still Call this an Air Duster - BIG Wolfbox First Look",
+   "dur": "5:30",
+   "meta": [
+    "57K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 57000,
+   "age": "2w ago"
+  },
+  {
+   "id": "VW_bhZt3IpM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lawn Care is Expensive. Try THIS Instead!",
+   "dur": "5:25",
+   "meta": [
+    "330K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 330000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "sHL4lBAhklA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Spray Foam is Expensive. Use THIS Instead!",
+   "dur": "5:34",
+   "meta": [
+    "1.5M",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "crWFk9Da9_4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow vs Jackery - Which 240V Power Station is the BEST DEAL? DeltaPro 3 or HomePower 3600 Pro Max",
+   "dur": "4:56",
+   "meta": [
+    "28K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 28000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "p6zvBXU8V0M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Smart Sprinkler Saves Water & Works on ANY Shaped Lawn - Aiper Irrisense 2",
+   "dur": "4:48",
+   "meta": [
+    "19K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 19000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "zMSWKLvDFTc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Kitchen Range Hood that VENTS OUTSIDE",
+   "dur": "12:28",
+   "meta": [
+    "236K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 236000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "OGVXmIZtEG8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The BEST Portable Air Conditioner Just Got BETTER for 2026",
+   "dur": "5:39",
+   "meta": [
+    "65K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 65000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "VuQwtq7v0pk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Installing My BIGGEST Battery Backup System Yet! (62kWh EcoFlow DPUX)",
+   "dur": "11:01",
+   "meta": [
+    "78K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 78000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "geHew6AY57Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 String Trimmer Tricks So Good You Won't Believe they REALY WORK",
+   "dur": "4:58",
+   "meta": [
+    "67K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 67000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "hd6tJMsJ1ac",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Truth About the Anker SOLIX S2000 - FULL TESTS Revealed",
+   "dur": "6:15",
+   "meta": [
+    "47K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 47000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "ggxTdCjKBjI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "First Robot Lawn Mower with a BUILT-IN String Trimmer - Worx Landroid Vision Cloud",
+   "dur": "10:53",
+   "meta": [
+    "107K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 107000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "rIMsBWXS7UE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lawn Care Just Got Easier - Why this new Fertilizer is a Home Run",
+   "dur": "5:05",
+   "meta": [
+    "71K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 71000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "iyQk6K8ABlw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Finally a Power Station that Can Outlive GAS Generators - Anker SOLIX S2000",
+   "dur": "6:26",
+   "meta": [
+    "80K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 80000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "e2vsJxyGJtQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How I Stopped Getting Tick Bites Completely - Everything You NEED to Know",
+   "dur": "12:15",
+   "meta": [
+    "637K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 637000,
+   "age": "4mo ago"
+  },
+  {
+   "id": "EjLJm0g4whg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Make Your Garage Door SEAL TIGHT as a Fridge",
+   "dur": "6:36",
+   "meta": [
+    "906K",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 906000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "KLtlE41cTOI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mosquito Spraying is Expensive.  Do This Instead! Honey Bee Safe Too",
+   "dur": "6:45",
+   "meta": [
+    "1M",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "6mo ago"
+  },
+  {
+   "id": "CZg8yV3_HvQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A Ridiculously Easy Way to Clean the OUTSIDE of Your Windshield (No Bugs or Bird Poop)",
+   "dur": "4:03",
+   "meta": [
+    "112K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 112000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "SrjvoCH-l4s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The RIGHT Way to Pull Start an Engine",
+   "dur": "3:01",
+   "meta": [
+    "33K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "feHQ4g72DZc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "First Whole-House WEATHERPROOF 240V Power Backup Station - Anker SOLIX E10",
+   "dur": "9:11",
+   "meta": [
+    "57K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 57000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "uitpUH742oE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A Ridiculously Easy Way to Fix Your Tire Light (Dealers Hate This)",
+   "dur": "5:38",
+   "meta": [
+    "968K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 968000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "GmOOH_JPKpo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Long Can a Single Power Station Run a Fridge?",
+   "dur": "3:59",
+   "meta": [
+    "35K",
+    "9mo ago"
+   ],
+   "channel_id": null,
+   "views": 35000,
+   "age": "9mo ago"
+  },
+  {
+   "id": "fvmN9W5EfwQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "An Insanely Easy Way to Make Your Backup Camera SELF-CLEANING (Never Wipe Again)",
+   "dur": "3:49",
+   "meta": [
+    "835K",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 835000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "XFkcIlbX-R4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "9,000 Sold in 7 Days - Why is this NEW Wolfbox Duster is Going Viral",
+   "dur": "3:09",
+   "meta": [
+    "119K",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 119000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "fseq9NvO_zw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A Ridiculously Easy Way to Clean the INSIDE of Your Windshield  (NO Haze or Streaks)",
+   "dur": "3:57",
+   "meta": [
+    "10M",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 10000000,
+   "age": "10mo ago"
+  },
+  {
+   "id": "n3JOHMlrQQQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow just made a Battery MORE Powerful than 90% of Gas Generators - Ultra X",
+   "dur": "6:39",
+   "meta": [
+    "65K",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 65000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "TVkQ_aU2cWQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When Your Cars Interior Smells Funky - Check This First",
+   "dur": "6:52",
+   "meta": [
+    "36K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 36000,
+   "age": "1y ago"
+  },
+  {
+   "id": "YRow6eS6AHw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Move Over Sharkbites...Solder-Free Plumbing just got Easier with Compression Valves",
+   "dur": "6:37",
+   "meta": [
+    "1M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "1y ago"
+  },
+  {
+   "id": "hStIlntduyk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Convert 3 Point Tractor Implements to work a Skid Steer Mount with PTO",
+   "dur": "5:08",
+   "meta": [
+    "19K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 19000,
+   "age": "1y ago"
+  },
+  {
+   "id": "2Rhsv8fFqCE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Finally a Robot Lawn Mower That Got Everything Straight - LYMOW ONE",
+   "dur": "5:20",
+   "meta": [
+    "124K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 124000,
+   "age": "1y ago"
+  },
+  {
+   "id": "J7GY5q36IKY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Unraveling the New Ecoflow DELTA 3 Series Ultra & Max Solar Power Generators",
+   "dur": "6:04",
+   "meta": [
+    "31K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "1y ago"
+  },
+  {
+   "id": "TESgNqKAX5g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Secret to Outdoor Waterproof Ethernet Connections (Anyone Can Do This!)",
+   "dur": "5:45",
+   "meta": [
+    "45K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 45000,
+   "age": "1y ago"
+  },
+  {
+   "id": "l9HcFSMS6lc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Lawn Tool Might Make Renting Aerators Obsolete - Updated for 2026",
+   "dur": "5:33",
+   "meta": [
+    "243K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 243000,
+   "age": "1y ago"
+  },
+  {
+   "id": "G080Xs_2OUQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "First Remote Control Lawn Mower with an Auto Emptying Bag - Mowrator",
+   "dur": "4:18",
+   "meta": [
+    "34K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 34000,
+   "age": "1y ago"
+  },
+  {
+   "id": "Yj_QUYuKgWw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Install A 240V Outlet Start to Finish -  EV Car Charger - Welder 14-50 Explained",
+   "dur": "17:43",
+   "meta": [
+    "542K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 542000,
+   "age": "1y ago"
+  },
+  {
+   "id": "G3GzFnB0jmM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How I Beat the Refrigerator Water Filter Cartel at their Dirty Game - DIY Bypass",
+   "dur": "8:03",
+   "meta": [
+    "407K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 407000,
+   "age": "1y ago"
+  },
+  {
+   "id": "z33lluiKg9I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens When You get 6 Inches of RAIN IN ONE HOUR",
+   "dur": "6:29",
+   "meta": [
+    "81K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 81000,
+   "age": "1y ago"
+  },
+  {
+   "id": "D8Dpwbl5PBw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix a Loose Outlet In 2 Minutes - No Tools",
+   "dur": "3:12",
+   "meta": [
+    "86K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 86000,
+   "age": "1y ago"
+  },
+  {
+   "id": "cC-J0ZCUH28",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "3 Unknown Features on Mr Cool Mini Split Air Conditioners",
+   "dur": "5:02",
+   "meta": [
+    "32K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 32000,
+   "age": "1y ago"
+  },
+  {
+   "id": "EYctKo41-dc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lawnmower Blades are Expensive - So I made a Wood One",
+   "dur": "3:47",
+   "meta": [
+    "178K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 178000,
+   "age": "1y ago"
+  },
+  {
+   "id": "UvGZzlLEU90",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Which 240V Power Station Is the Best? Ecoflow Delta Pro 3 or Anker Solix F3800 Plus",
+   "dur": "6:07",
+   "meta": [
+    "73K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 73000,
+   "age": "1y ago"
+  },
+  {
+   "id": "eLc3eUOsNWU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "You Won’t Believe These Yard Lights Are Solar Powered",
+   "dur": "3:43",
+   "meta": [
+    "61K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 61000,
+   "age": "1y ago"
+  },
+  {
+   "id": "My79ZnAyrqY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dust Bunnies HATE Me for Showing You This - WolfBox Duster",
+   "dur": "3:51",
+   "meta": [
+    "79K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 79000,
+   "age": "1y ago"
+  },
+  {
+   "id": "OsJ7QPSl6JE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Clash of the Titans - Anker Solix F3000 vs Ecoflow Delta Pro Power Stations",
+   "dur": "4:55",
+   "meta": [
+    "85K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 85000,
+   "age": "1y ago"
+  },
+  {
+   "id": "zwrsSg2772g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Starting My Own Blueberry Farm & Easy Ways to Grow Them At Home",
+   "dur": "10:08",
+   "meta": [
+    "45K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 45000,
+   "age": "1y ago"
+  },
+  {
+   "id": "IgeexSKIEOQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Storm Prep: How to Power Your House with a Battery Almost Indefinitely - Anker SOLIX",
+   "dur": "6:20",
+   "meta": [
+    "36K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 36000,
+   "age": "1y ago"
+  },
+  {
+   "id": "NqFgelKaQvc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is the Midea DUO Smart Inverter Portable Air Conditioner Worth It?",
+   "dur": "3:35",
+   "meta": [
+    "376K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 376000,
+   "age": "1y ago"
+  },
+  {
+   "id": "FcXPl3aOxHY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Now I Understand Why Costco is Selling Out of These Power Stations",
+   "dur": "4:09",
+   "meta": [
+    "231K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 231000,
+   "age": "1y ago"
+  },
+  {
+   "id": "mKfUD9Kd73I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Thieves Hate This 1,000-Pound Package Box - That's Why I Had to Build It",
+   "dur": "6:18",
+   "meta": [
+    "551K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 551000,
+   "age": "1y ago"
+  },
+  {
+   "id": "sSOr1qFIqEM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Rid of Standing Water Dirt Cheap & Save Your Home From Flooding",
+   "dur": "8:29",
+   "meta": [
+    "423K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 423000,
+   "age": "1y ago"
+  },
+  {
+   "id": "NsPBamTmOPM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Tiny Portable AC can Keep Anyone COOL - 14,000 BTU Dreo - Single Hose Trigger Warning!",
+   "dur": "5:09",
+   "meta": [
+    "527K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 527000,
+   "age": "1y ago"
+  },
+  {
+   "id": "RWdBHDOMJW4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Aquor Just Quietly Released the Best HOSE REEL on the Market",
+   "dur": "4:07",
+   "meta": [
+    "51K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 51000,
+   "age": "1y ago"
+  },
+  {
+   "id": "cfGgCbQAjwM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 String Trimmer Hacks You’ll Wish You Knew Sooner - Clean Edges",
+   "dur": "3:25",
+   "meta": [
+    "1.7M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "1y ago"
+  },
+  {
+   "id": "UX_LFjbTlfg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "From Patchy to Perfect - How to Fertilize a Lawn CORRECTLY",
+   "dur": "3:59",
+   "meta": [
+    "157K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 157000,
+   "age": "1y ago"
+  },
+  {
+   "id": "S8XO4wFhrPU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "First Look at the NEW ECOFLOW Glacier Classic & Wave 3 Portable AC",
+   "dur": "6:06",
+   "meta": [
+    "117K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 117000,
+   "age": "1y ago"
+  },
+  {
+   "id": "jDLq-x3WaoY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Measured EVERYTHING in My House With This Digital Measuring Tape - Mileseey XTAPE1",
+   "dur": "4:22",
+   "meta": [
+    "73K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 73000,
+   "age": "1y ago"
+  },
+  {
+   "id": "yhDhdO429_E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why are People Still Overseeding Lawns? Here's a Faster & Cheaper Way",
+   "dur": "4:29",
+   "meta": [
+    "722K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 722000,
+   "age": "1y ago"
+  },
+  {
+   "id": "rBCmecPQ0qg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ANKER SOLIX F3800+ 120v/240v - In Depth Review & Test - Big Update!",
+   "dur": "8:14",
+   "meta": [
+    "90K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 90000,
+   "age": "1y ago"
+  },
+  {
+   "id": "xgD05FuF3Xw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why this WolfBox Jumpstarter will NEVER leave your stranded",
+   "dur": "7:16",
+   "meta": [
+    "105K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 105000,
+   "age": "1y ago"
+  },
+  {
+   "id": "k8PlPcKGENw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Change a Furnace Filter the RIGHT Way",
+   "dur": "4:26",
+   "meta": [
+    "139K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 139000,
+   "age": "1y ago"
+  },
+  {
+   "id": "_BkYht1CwDo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Best Electric Box is the type you have never heard of",
+   "dur": "4:49",
+   "meta": [
+    "53K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 53000,
+   "age": "1y ago"
+  },
+  {
+   "id": "q9ca7Xec7g8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When You Can't Get Find Ice Melt Salt Try These 3 Alternatives",
+   "dur": "4:10",
+   "meta": [
+    "457K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 457000,
+   "age": "1y ago"
+  },
+  {
+   "id": "Q_X94e76j9U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Exploring the Most AFFORDABLE MICRO CAMPER in the US - Hiker Trailers",
+   "dur": "6:42",
+   "meta": [
+    "426K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 426000,
+   "age": "1y ago"
+  },
+  {
+   "id": "gLZHLXHsfPE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Make Your Garage Door SILENT with Space Age Rollers - No Bending the Track",
+   "dur": "5:27",
+   "meta": [
+    "870K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 870000,
+   "age": "1y ago"
+  },
+  {
+   "id": "sX442FodiT4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Homeowners are Destroying Generators Skipping 1 Step During a Power Outage",
+   "dur": "4:07",
+   "meta": [
+    "1.6M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "1y ago"
+  },
+  {
+   "id": "D1z7yrj_Jhg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 Ways to Spot Fake Gold Bars Appearing Everywhere",
+   "dur": "13:52",
+   "meta": [
+    "89K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 89000,
+   "age": "1y ago"
+  },
+  {
+   "id": "ZJQjKOnbLKU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Safe are DREO Electric Space Heaters?",
+   "dur": "5:27",
+   "meta": [
+    "94K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "1y ago"
+  },
+  {
+   "id": "BYvM8hkO_-E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Deadly Outlet Hack House Flippers Are Scamming Buyers With",
+   "dur": "4:44",
+   "meta": [
+    "277K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 277000,
+   "age": "1y ago"
+  },
+  {
+   "id": "WxGdh5pUNT0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Copper to PVC Pipe has Never Been This Easy",
+   "dur": "3:17",
+   "meta": [
+    "176K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 176000,
+   "age": "1y ago"
+  },
+  {
+   "id": "NEsMHTgXf54",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The \"Deadly\" Bubble Christmas Light Explained",
+   "dur": "4:56",
+   "meta": [
+    "275K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 275000,
+   "age": "1y ago"
+  },
+  {
+   "id": "uWX7ekjkrqI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Find Dropped Stuff in 30 Seconds - Lighthouse Trick",
+   "dur": "2:15",
+   "meta": [
+    "327K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 327000,
+   "age": "1y ago"
+  },
+  {
+   "id": "QbXEe7_0GOw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dirty Reason Why Good Dishwashers Stop Cleaning after 1 Year",
+   "dur": "3:40",
+   "meta": [
+    "106K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 106000,
+   "age": "1y ago"
+  },
+  {
+   "id": "dVjg_BK3G3s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sneaky Reason LED Bulbs are Dying Faster than Advertised",
+   "dur": "3:29",
+   "meta": [
+    "1.3M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "1y ago"
+  },
+  {
+   "id": "taxobtIQwx4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dirty Secret about the New 2024 Romex Wire Colors",
+   "dur": "5:34",
+   "meta": [
+    "424K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 424000,
+   "age": "1y ago"
+  },
+  {
+   "id": "WToukRDZjJo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yoshino INVESTIGATION - Are Their Solid State Batteries REAL?",
+   "dur": "6:20",
+   "meta": [
+    "36K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 36000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Nr7ai7cDgxI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Harbor Freight is going after Wago! But is their Electric Connector any Good?",
+   "dur": "4:31",
+   "meta": [
+    "400K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 400000,
+   "age": "2y ago"
+  },
+  {
+   "id": "jOdz-E94uYQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow Recession Buster $615 Delta 3 Plus Power Station",
+   "dur": "6:37",
+   "meta": [
+    "53K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 53000,
+   "age": "2y ago"
+  },
+  {
+   "id": "_OFW4mlfsTk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Few Know These 3 Features on Measuring Tapes",
+   "dur": "5:17",
+   "meta": [
+    "48K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 48000,
+   "age": "2y ago"
+  },
+  {
+   "id": "3oiBTaLPu_s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sold My Gas Yamaha TW200 Motorcycle for an Electric 2WD UBCO",
+   "dur": "5:49",
+   "meta": [
+    "321K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 321000,
+   "age": "2y ago"
+  },
+  {
+   "id": "FGyQKYyqtaQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow River 3 is SHOCKINGLY Affordable with Big Power Features",
+   "dur": "3:30",
+   "meta": [
+    "113K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 113000,
+   "age": "2y ago"
+  },
+  {
+   "id": "9oG5ElYxNLM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tired of Raking Leaves? Try this Gardena Leaf Machine",
+   "dur": "3:54",
+   "meta": [
+    "123K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 123000,
+   "age": "2y ago"
+  },
+  {
+   "id": "yXPNZvxbi5Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Throwing Out Half-Used Caulking Tubes - How to Keep Fresh for Years",
+   "dur": "3:51",
+   "meta": [
+    "619K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 619000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Qwk1rER_EFM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Legally Mount Your TV & Hide the Wires - Adding an Outlet",
+   "dur": "9:44",
+   "meta": [
+    "498K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 498000,
+   "age": "2y ago"
+  },
+  {
+   "id": "nTVMj-pczJg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Good Bye Plumber's Tape - This is Better",
+   "dur": "3:49",
+   "meta": [
+    "266K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 266000,
+   "age": "2y ago"
+  },
+  {
+   "id": "5o_RVXnk2J8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Ecoflow Delta Pro Battery Generator is the Best Value?",
+   "dur": "6:54",
+   "meta": [
+    "261K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 261000,
+   "age": "2y ago"
+  },
+  {
+   "id": "0WC7lrpNvAo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Working on a Live Drain Clog that Feeds my 200,000 Gallon Pond",
+   "dur": "5:37",
+   "meta": [
+    "81K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 81000,
+   "age": "2y ago"
+  },
+  {
+   "id": "IrAelbSqjHg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why a 50 Year Old Floor Mat is More Useful Than Ever",
+   "dur": "4:02",
+   "meta": [
+    "137K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 137000,
+   "age": "2y ago"
+  },
+  {
+   "id": "QFg2zZrRZVU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Spray This to STOP Your Lawn Burning Up in the Heat of Summer",
+   "dur": "3:26",
+   "meta": [
+    "67K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 67000,
+   "age": "2y ago"
+  },
+  {
+   "id": "gkRcVxTVQaY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Rid of Mosquitoes Naturally - Small - Medium & Large",
+   "dur": "7:13",
+   "meta": [
+    "61K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 61000,
+   "age": "2y ago"
+  },
+  {
+   "id": "DGoPeyKQhZQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Starlink MINI In-Depth Setup & Review - Powered by Milwaukee Battery",
+   "dur": "7:46",
+   "meta": [
+    "406K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 406000,
+   "age": "2y ago"
+  },
+  {
+   "id": "YlJk9Ua9lSM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow Delta PRO 3 with 120 & 240v BUILT IN!  4000 Watt Solar Generator",
+   "dur": "5:11",
+   "meta": [
+    "370K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 370000,
+   "age": "2y ago"
+  },
+  {
+   "id": "zkU0eWoYBe0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing a BETTER SHOVEL?  Rotoshovel 4",
+   "dur": "3:53",
+   "meta": [
+    "44K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 44000,
+   "age": "2y ago"
+  },
+  {
+   "id": "gzC7IpqKo2M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "#1 Reason Your Gas Grill Doesn't Get Hot Enough Today - 30 Second Fix",
+   "dur": "7:18",
+   "meta": [
+    "4M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "xJR_P9CKrtU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Anker's FIRST Whole House Power Backup - SOLIX X1 Overview & Teardown",
+   "dur": "4:24",
+   "meta": [
+    "142K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 142000,
+   "age": "2y ago"
+  },
+  {
+   "id": "VQZ7R_1hR8c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2 Must Have Tools to Conquer All Weeds",
+   "dur": "4:28",
+   "meta": [
+    "390K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 390000,
+   "age": "2y ago"
+  },
+  {
+   "id": "P6lwyRmOk30",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Mow a Lawn CORRECTLY",
+   "dur": "3:35",
+   "meta": [
+    "1.1M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "2y ago"
+  },
+  {
+   "id": "85YY8aAAdTQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tips for Opening a new Pool the First Time & Testing a Cleaning Robot",
+   "dur": "5:53",
+   "meta": [
+    "70K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 70000,
+   "age": "2y ago"
+  },
+  {
+   "id": "EkuLHpYz02Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "92% of Homeowners Use Teflon Pipe Tape Wrong - Here's Why it Leaks",
+   "dur": "5:33",
+   "meta": [
+    "8M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 8000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "uObGbs4sGQY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Say Goodbye to BIG Air Conditioners - This Tiny Portable AC Blows them Away!",
+   "dur": "5:01",
+   "meta": [
+    "503K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 503000,
+   "age": "2y ago"
+  },
+  {
+   "id": "_G7ZPjmR5ck",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Surviving a 36 Hour Power Outage with the BIGGEST ECOFLOW DELTA PRO ULTRA - 30KWH!!!!",
+   "dur": "7:37",
+   "meta": [
+    "664K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 664000,
+   "age": "2y ago"
+  },
+  {
+   "id": "adjG8bsSciY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lawn Companies Hate Me for Sharing This - Lazy Person's Lawn Guide",
+   "dur": "3:24",
+   "meta": [
+    "326K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 326000,
+   "age": "2y ago"
+  },
+  {
+   "id": "T1cg4NkZW_I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Get 5X Faster Internet from T-Mobile - Same Bill!  Waveform Antenna",
+   "dur": "6:07",
+   "meta": [
+    "338K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 338000,
+   "age": "2y ago"
+  },
+  {
+   "id": "PZFJkXfThUg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "#1 DIY Electric Mistake - Can you use Romex Wire in Conduit?",
+   "dur": "3:44",
+   "meta": [
+    "2.7M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2700000,
+   "age": "2y ago"
+  },
+  {
+   "id": "tYEuYB8FGDA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Cheapest 240V Whole House Battery Generator - ANKER SOLIX F3800 & Home Power Panel",
+   "dur": "6:11",
+   "meta": [
+    "150K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 150000,
+   "age": "2y ago"
+  },
+  {
+   "id": "-cf1jrvWLbQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "REPLACING YOUR OUTDOOR FAUCET JUST GOT EASY / HOT & COLD AQUOR - Frost & Leak Free!",
+   "dur": "5:47",
+   "meta": [
+    "176K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 176000,
+   "age": "2y ago"
+  },
+  {
+   "id": "U9ZQ96hbmIY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 50% of All Crimp Connections Fail - Up or Down?",
+   "dur": "4:57",
+   "meta": [
+    "4.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 4200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "rj6zKo_d49g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is this INSTANT Shut Off Valve ILLEGAL?",
+   "dur": "2:53",
+   "meta": [
+    "324K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 324000,
+   "age": "2y ago"
+  },
+  {
+   "id": "e1TpseQATTw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY Way to Flush Your Hot Water Heater using AIR - Sediment Buster",
+   "dur": "6:02",
+   "meta": [
+    "260K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 260000,
+   "age": "2y ago"
+  },
+  {
+   "id": "r3spFKHCBkg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Digital Tape Measure Letdown - Reekon T1 Tomhawk",
+   "dur": "6:33",
+   "meta": [
+    "84K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 84000,
+   "age": "2y ago"
+  },
+  {
+   "id": "ydBCDsfC0_Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How I Get the Fastest Internet Speeds Living in the middle of Nowhere - Rural Network Tour",
+   "dur": "10:22",
+   "meta": [
+    "59K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "2y ago"
+  },
+  {
+   "id": "mzd9vJ_3Pzc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOST RUGGED Power Station in the WORLD! 10,000 Watts - Hybrid Power Solutions Review",
+   "dur": "5:29",
+   "meta": [
+    "57K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 57000,
+   "age": "2y ago"
+  },
+  {
+   "id": "BP1iDvKpNZA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Heat Pumps are now leaving people COLD",
+   "dur": "5:31",
+   "meta": [
+    "631K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 631000,
+   "age": "2y ago"
+  },
+  {
+   "id": "2K9mlryo8lI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ULTIMATE Home Generator just got BIGGER with 240V | Ecoflow Delta Pro ULTRA",
+   "dur": "8:22",
+   "meta": [
+    "334K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 334000,
+   "age": "2y ago"
+  },
+  {
+   "id": "3x5t4Zvkqms",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Heat a Small shop with a BUILT IN Diesel Wall Heater",
+   "dur": "8:26",
+   "meta": [
+    "353K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 353000,
+   "age": "2y ago"
+  },
+  {
+   "id": "BdW_a9SIUIM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing Amazon's Cheapest Generator",
+   "dur": "5:27",
+   "meta": [
+    "83K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 83000,
+   "age": "2y ago"
+  },
+  {
+   "id": "pPMm0reEBPM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Cheap & Easy Way to Connect a Generator to Your House - Legal Too!",
+   "dur": "8:19",
+   "meta": [
+    "1.2M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Tdn_IAm1e0g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Double your Storage Space with this Cheap Garage Lift",
+   "dur": "7:09",
+   "meta": [
+    "1.3M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "2y ago"
+  },
+  {
+   "id": "cYqMGhzj0x4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "No Mess GREASE GUN that loads in 10 SECONDS - Airtec Lube Shuttle",
+   "dur": "3:23",
+   "meta": [
+    "31K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "2y ago"
+  },
+  {
+   "id": "9d9TL02idO4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Everyone will be buying pellet stoves after learning this news",
+   "dur": "8:47",
+   "meta": [
+    "1.3M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "2y ago"
+  },
+  {
+   "id": "caT0JBkiGm8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wago Gelbox - Instant Waterproof High Voltage Connections",
+   "dur": "5:41",
+   "meta": [
+    "109K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 109000,
+   "age": "2y ago"
+  },
+  {
+   "id": "X3J3XwC2vhk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What REALLY HAPPENS when you Install OUTLETS UPSIDE DOWN",
+   "dur": "3:57",
+   "meta": [
+    "95K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 95000,
+   "age": "2y ago"
+  },
+  {
+   "id": "-RmUVOu5v2E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Leaks BEFORE they flood your house - NO Plumber required",
+   "dur": "3:40",
+   "meta": [
+    "46K",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 46000,
+   "age": "2y ago"
+  },
+  {
+   "id": "uToDTP99WEo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Finally a SILENT Garage Door Opener that locks like a SAFE! - RJ0101",
+   "dur": "10:30",
+   "meta": [
+    "2.8M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 2800000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Zbq5pBaXWOc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Most Powerful USB Outlet you can buy that won't burn your house down - Leviton 60 Watt",
+   "dur": "7:10",
+   "meta": [
+    "97K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 97000,
+   "age": "3y ago"
+  },
+  {
+   "id": "PKNENRY26Og",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Better than GAS Generator? First 240V Battery Backup - Anker SOLIX F3800",
+   "dur": "5:08",
+   "meta": [
+    "293K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 293000,
+   "age": "3y ago"
+  },
+  {
+   "id": "XfDjISwJOrs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Most Homeowners Don't Rent Boom Lifts - But Should",
+   "dur": "7:44",
+   "meta": [
+    "189K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 189000,
+   "age": "3y ago"
+  },
+  {
+   "id": "CWgaP90CGmo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "#1 PEX Plumbing Mistake You Don't Want to Make (A vs B)",
+   "dur": "6:14",
+   "meta": [
+    "5.8M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 5800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "sLP7jMeGgvg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yoshino B2000 SST Power Station",
+   "dur": "5:32",
+   "meta": [
+    "49K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 49000,
+   "age": "3y ago"
+  },
+  {
+   "id": "mdcZ43Q1qaE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Selling Lawn Mower Just Became ILLEGAL",
+   "dur": "4:03",
+   "meta": [
+    "1.1M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Z3C-b2OTEbA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Disaster Readiness WITHOUT GAS - How to Choose the RIGHT Battery Generator - Beginner's Guide",
+   "dur": "9:51",
+   "meta": [
+    "31K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "3y ago"
+  },
+  {
+   "id": "OKnZG2o97H4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This HOSE REEL was so good I moved it across state lines - HOSELINK UPDATE",
+   "dur": "4:11",
+   "meta": [
+    "95K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 95000,
+   "age": "3y ago"
+  },
+  {
+   "id": "CXjNHwFg0aQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MINDBLOWING Crawlspace Transformation - Next Level ENCAPSULATION",
+   "dur": "7:13",
+   "meta": [
+    "242K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 242000,
+   "age": "3y ago"
+  },
+  {
+   "id": "4e3Na6nMZRc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "REPLACING YOUR OUTDOOR FAUCET JUST GOT EASY / Leak & Frost Free AQUOR IDEAL for Retrofits",
+   "dur": "6:46",
+   "meta": [
+    "5.1M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 5100000,
+   "age": "3y ago"
+  },
+  {
+   "id": "jBfqJ8ugUQ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SHUT-OFF valve installs on a LIVE WATER PIPE - Aladdin EasyFit Isolator",
+   "dur": "4:45",
+   "meta": [
+    "2.9M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 2900000,
+   "age": "3y ago"
+  },
+  {
+   "id": "KV4tWIPLFc8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NEW Way to remove GROSS FIBERGLASS INSULATION - Full Batts!",
+   "dur": "7:01",
+   "meta": [
+    "163K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 163000,
+   "age": "3y ago"
+  },
+  {
+   "id": "dgpGsszbF4E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "This Portable Air Conditioner BLEW me Away - 14,000 BTU Midea Smart Inverter",
+   "dur": "4:42",
+   "meta": [
+    "296K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 296000,
+   "age": "3y ago"
+  },
+  {
+   "id": "tXf8opZCQdk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to get Wifi in the woods - DIY Solar Internet Station",
+   "dur": "8:47",
+   "meta": [
+    "240K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 240000,
+   "age": "3y ago"
+  },
+  {
+   "id": "ad59TYGsvac",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Trying Gardena new water saving lawn sprinklers",
+   "dur": "5:25",
+   "meta": [
+    "161K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 161000,
+   "age": "3y ago"
+  },
+  {
+   "id": "AZ-3VaxyMys",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Turning a Sump Pump into a Garden Pond Fountain",
+   "dur": "3:43",
+   "meta": [
+    "50K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 50000,
+   "age": "3y ago"
+  },
+  {
+   "id": "U-7S7VbkBV4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "3 Ways to WIPE OUT MOSQUITOES in your YARD - Cheap & Easy!",
+   "dur": "4:37",
+   "meta": [
+    "838K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 838000,
+   "age": "3y ago"
+  },
+  {
+   "id": "JyZgGSmtCRY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$3 DIY Weed Killer BEATS RoundUp Naturally!",
+   "dur": "5:00",
+   "meta": [
+    "1.2M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "DSNUyxZtrmo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Clean Your Mini Split AC Condenser - Make it Cold Again",
+   "dur": "7:06",
+   "meta": [
+    "1.8M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "7Jb0S0RqRZU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LUBA All Wheel Drive Robot Lawn Mower Changes the Game",
+   "dur": "8:55",
+   "meta": [
+    "176K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 176000,
+   "age": "3y ago"
+  },
+  {
+   "id": "FZQ_rydDB2Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why your LAWN is going to SEED & How to STOP it",
+   "dur": "2:53",
+   "meta": [
+    "61K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 61000,
+   "age": "3y ago"
+  },
+  {
+   "id": "T5QLSZCyPak",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Turn 2 Outlets Into 4 - Leviton QUADRAPLEX",
+   "dur": "3:28",
+   "meta": [
+    "294K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 294000,
+   "age": "3y ago"
+  },
+  {
+   "id": "5oEB5CNs9xU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow DELTA 2 Max BEATS Gas Honda! Clean Power Solar Generator",
+   "dur": "5:06",
+   "meta": [
+    "34K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 34000,
+   "age": "3y ago"
+  },
+  {
+   "id": "5QI9bEVpKt4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Clean Edges in Your Lawn the Easy Way",
+   "dur": "5:32",
+   "meta": [
+    "2.2M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "yZavrHJsBAw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow Wave 2 Solar Battery Powered Portable Air Conditioner Heater Review",
+   "dur": "7:33",
+   "meta": [
+    "163K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 163000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Fqe1zPTSCVo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "THIS Edger/String Trimmer Has a Feature NO ONE ELSE has & I love it",
+   "dur": "4:28",
+   "meta": [
+    "94K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "3y ago"
+  },
+  {
+   "id": "wDhMqwljVj8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow BLADE Robotic Lawn Mower - First Look",
+   "dur": "9:37",
+   "meta": [
+    "1.2M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "KWBx5BFtQ0o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get some FREE WAGOS Samples",
+   "dur": "2:20",
+   "meta": [
+    "164K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 164000,
+   "age": "3y ago"
+  },
+  {
+   "id": "boG3-ovzcNg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Simple Lawn Tips for a GREAT LAWN this SPRING",
+   "dur": "8:24",
+   "meta": [
+    "127K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 127000,
+   "age": "3y ago"
+  },
+  {
+   "id": "DuDNPiKYlw8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PORTABLE PROPANE Dual Fuel GENERATOR 2000 Watt - Pulsar Review",
+   "dur": "6:36",
+   "meta": [
+    "102K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 102000,
+   "age": "3y ago"
+  },
+  {
+   "id": "nr5gPJQuLic",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easiest Electric Outlet to Install in 100 Years - Safest too!",
+   "dur": "5:45",
+   "meta": [
+    "1.8M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Roz9OXl5uEU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Don't Buy a Rooftop Solar System Before Seeing my Disaster",
+   "dur": "11:43",
+   "meta": [
+    "277K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 277000,
+   "age": "3y ago"
+  },
+  {
+   "id": "4FDXXrpeyQw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "New MONSTER Jackery 3000 Watt Solar Generator - Explorer 3000 Pro",
+   "dur": "8:51",
+   "meta": [
+    "122K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 122000,
+   "age": "3y ago"
+  },
+  {
+   "id": "heyEr8agVFA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "New Wago Electric Connector is SHOCKING everyone - Inline 221 has arrived!",
+   "dur": "4:20",
+   "meta": [
+    "824K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 824000,
+   "age": "3y ago"
+  },
+  {
+   "id": "OYM8aSESAY8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SURVIVING the Worst Snow Storm in 30 Years",
+   "dur": "6:05",
+   "meta": [
+    "110K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 110000,
+   "age": "3y ago"
+  },
+  {
+   "id": "kFHkr4sU5QI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does a flamethrower really melt snow? Not clickbait",
+   "dur": "4:27",
+   "meta": [
+    "111K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 111000,
+   "age": "3y ago"
+  },
+  {
+   "id": "ZgOVwbnHx3A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Stop Doors from SQUEAKING Forever",
+   "dur": "5:40",
+   "meta": [
+    "168K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 168000,
+   "age": "3y ago"
+  },
+  {
+   "id": "bzYYKGrsPW8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is a BATTERY SNOWBLOWER Worth It? Toro 60V Two Stage TEST",
+   "dur": "6:51",
+   "meta": [
+    "73K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 73000,
+   "age": "3y ago"
+  },
+  {
+   "id": "R0w9Y8urXDc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "99% of STARLINK owners don't know how to BOOST their SPEED",
+   "dur": "11:46",
+   "meta": [
+    "562K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 562000,
+   "age": "3y ago"
+  },
+  {
+   "id": "L9G21_0Jpzs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "INSTANT Lightswitch installs ANYWHERE",
+   "dur": "10:40",
+   "meta": [
+    "310K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 310000,
+   "age": "3y ago"
+  },
+  {
+   "id": "bAReUt7I46U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fighting ENDLESS SNOW - Why did I give up everything for rural life?",
+   "dur": "7:36",
+   "meta": [
+    "1.3M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "3y ago"
+  },
+  {
+   "id": "ED3bfesbE_Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Furnace Filter - How to Change it the Right Way & SAVE Money",
+   "dur": "5:19",
+   "meta": [
+    "388K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 388000,
+   "age": "3y ago"
+  },
+  {
+   "id": "s0aRduXcUKs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electric Panel Full?  Try This Simple Fix",
+   "dur": "7:34",
+   "meta": [
+    "147K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 147000,
+   "age": "3y ago"
+  },
+  {
+   "id": "yNBXE3BszEM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to power your Whole House with a battery generator - Ecoflow Delta pro",
+   "dur": "7:23",
+   "meta": [
+    "982K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 982000,
+   "age": "3y ago"
+  },
+  {
+   "id": "4SROjWwGVvo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Jumpstarters are now leaving people stranded",
+   "dur": "3:51",
+   "meta": [
+    "1.7M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "3y ago"
+  },
+  {
+   "id": "UxXtfFfMzRA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "If Your Circuit Breaker Makes a Buzzing Sound 🔥 Fix It Quick!",
+   "dur": "5:32",
+   "meta": [
+    "307K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 307000,
+   "age": "3y ago"
+  },
+  {
+   "id": "YlQKePD6jl8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easy BACKUP POWER - Ecoflow River 2 First Look",
+   "dur": "5:29",
+   "meta": [
+    "209K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 209000,
+   "age": "3y ago"
+  },
+  {
+   "id": "weMZv-8H8PQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Better Way to Shovel Snow",
+   "dur": "3:35",
+   "meta": [
+    "621K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 621000,
+   "age": "3y ago"
+  },
+  {
+   "id": "72u8eYzVvU4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What's Hiding at the Bottom of my Garden Pond",
+   "dur": "3:38",
+   "meta": [
+    "64K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 64000,
+   "age": "3y ago"
+  },
+  {
+   "id": "193zGwu_5rM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "My \"New\" House's Lawn is an UGLY DISASTER",
+   "dur": "5:19",
+   "meta": [
+    "227K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 227000,
+   "age": "3y ago"
+  },
+  {
+   "id": "9bHTxnVeeXs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Turn TRASH into FIRESTARTERS you can make yourself",
+   "dur": "3:50",
+   "meta": [
+    "47K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 47000,
+   "age": "3y ago"
+  },
+  {
+   "id": "UToWV2ZN9h4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Most ILLEGAL CAMERA OUTLET you will never See",
+   "dur": "4:39",
+   "meta": [
+    "1M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "3y ago"
+  },
+  {
+   "id": "O6gn0M7EylI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Saving a Dying Pond Reveals its Shocking Truth",
+   "dur": "4:10",
+   "meta": [
+    "1.1M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "3y ago"
+  },
+  {
+   "id": "E5Vs4Zsvo04",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens When You Use a SUICIDE SHOWER HEAD in the US",
+   "dur": "6:31",
+   "meta": [
+    "1.1M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "3y ago"
+  },
+  {
+   "id": "pOKZlwB-lKQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Run Fiber Optic Cable in Your Backyard - My 10 Gig Install for Starlink",
+   "dur": "7:03",
+   "meta": [
+    "426K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 426000,
+   "age": "4y ago"
+  },
+  {
+   "id": "gmBaj9Q0ytU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Japanese Sink that Attaches to your Toilet?",
+   "dur": "3:09",
+   "meta": [
+    "130K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 130000,
+   "age": "4y ago"
+  },
+  {
+   "id": "qZKU5c6qlH8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Starlink Tower - No More Obstructions!",
+   "dur": "11:03",
+   "meta": [
+    "815K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 815000,
+   "age": "4y ago"
+  },
+  {
+   "id": "y59h-9rXALY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lightswitch So GOOD They Made it ILLEGAL",
+   "dur": "3:51",
+   "meta": [
+    "2.1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "fht1er_szoE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Clean a CLOGGED Faucet Aerator - WITHOUT TOOLS",
+   "dur": "3:00",
+   "meta": [
+    "362K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 362000,
+   "age": "4y ago"
+  },
+  {
+   "id": "H-4mvK2FW78",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens When You Plug a SUICIDE CORD in a LIVE OUTLET? Do Not Try This Ever",
+   "dur": "2:42",
+   "meta": [
+    "11M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "PwCwlDkTggE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ULTIMATE Home Generator Reinvented - ECOFLOW Delta 2",
+   "dur": "5:21",
+   "meta": [
+    "75K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 75000,
+   "age": "4y ago"
+  },
+  {
+   "id": "iNE3txnyjLk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WORST MISTAKE Homeowners make upgrading a 15AMP to 20AMP Circuit Breaker",
+   "dur": "3:30",
+   "meta": [
+    "518K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 518000,
+   "age": "4y ago"
+  },
+  {
+   "id": "lMC1uhnuLGk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to OVERSEED Your Lawn in FALL - Easy Way",
+   "dur": "6:04",
+   "meta": [
+    "549K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 549000,
+   "age": "4y ago"
+  },
+  {
+   "id": "NNXspMRO3-U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "RETRACTABLE HOSE REEL INSTALLS in 1 MINUTE & Doesn't TIP! by Gardena",
+   "dur": "5:34",
+   "meta": [
+    "405K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 405000,
+   "age": "4y ago"
+  },
+  {
+   "id": "NmpdWfrSqn8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "First Step to Fixing an Ugly Lawn - Where to Start",
+   "dur": "8:35",
+   "meta": [
+    "685K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 685000,
+   "age": "4y ago"
+  },
+  {
+   "id": "QtysRkM1gEI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Do O-Rings Really Leak Over Time? Testing PROPRESS",
+   "dur": "4:21",
+   "meta": [
+    "209K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 209000,
+   "age": "4y ago"
+  },
+  {
+   "id": "pu29nmLsBKc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "RUGGED eBIKE for BIG BOYS - Heybike Explore",
+   "dur": "6:12",
+   "meta": [
+    "104K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 104000,
+   "age": "4y ago"
+  },
+  {
+   "id": "DsItPCPtZCU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to FIX A STUCK INGROUND SPRINKLER that won't turn off",
+   "dur": "6:58",
+   "meta": [
+    "123K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 123000,
+   "age": "4y ago"
+  },
+  {
+   "id": "NI-KNyp9tdQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEST Portable Air Conditioner I have ever tested -  DUAL HOSE",
+   "dur": "4:43",
+   "meta": [
+    "519K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 519000,
+   "age": "4y ago"
+  },
+  {
+   "id": "x9_5rp0g6Ro",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY WAY to Get Rid of Mice in Your House FOREVER - No More Mousetraps!",
+   "dur": "6:37",
+   "meta": [
+    "2.3M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "4y ago"
+  },
+  {
+   "id": "T6qgFtgzu8o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AFFORDABLE High Speed Internet Anywhere - My RURAL INTERNET Setup Revealed!!",
+   "dur": "15:28",
+   "meta": [
+    "1.1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "XUpm6Eotg9A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY Way to REMOVE ROOTS, STUMPS & SHRUBS - Brush Grubber",
+   "dur": "3:00",
+   "meta": [
+    "117K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 117000,
+   "age": "4y ago"
+  },
+  {
+   "id": "yv1ET4cGUBs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WHY your LAWN is turning BROWN & IT'S NOT WATER!",
+   "dur": "3:44",
+   "meta": [
+    "73K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 73000,
+   "age": "4y ago"
+  },
+  {
+   "id": "7Mf0EQ9vlSA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "#1 Fix for LOUD GARAGE DOORS - EASY",
+   "dur": "3:42",
+   "meta": [
+    "115K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 115000,
+   "age": "4y ago"
+  },
+  {
+   "id": "M3IAW6MuPAU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MONSTER BATTERY MOWER - EGO 52 INCH ZERO TURN",
+   "dur": "7:06",
+   "meta": [
+    "104K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 104000,
+   "age": "4y ago"
+  },
+  {
+   "id": "zvFKD95z7IM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Mr Cool 18,000 BTU AC in Just 1 Day!",
+   "dur": "9:57",
+   "meta": [
+    "1.2M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "4y ago"
+  },
+  {
+   "id": "ZN2H_I37RUg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PLUG & PLAY SOLAR FOR OFF-GRID & VANLIFE - ECOFLOW Modular POWER KIT REVIEW",
+   "dur": "12:48",
+   "meta": [
+    "264K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 264000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Lpakhq8pujg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Edge Beds the Easy Way - Clean Edges Look NICE",
+   "dur": "4:46",
+   "meta": [
+    "164K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 164000,
+   "age": "4y ago"
+  },
+  {
+   "id": "UfxsvqbeO84",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AUTOMATIC Battery Backup for your ENTIRE HOUSE! - Ecoflow Smart Home Panel",
+   "dur": "5:47",
+   "meta": [
+    "201K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 201000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Lw9awU9xehE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY WAY to FLUSH your HOT WATER HEATER TANK",
+   "dur": "3:35",
+   "meta": [
+    "655K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 655000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Pe-L2pbQjoY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY WAY to CLEAN a Dryer Vent FAST!",
+   "dur": "2:53",
+   "meta": [
+    "842K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 842000,
+   "age": "4y ago"
+  },
+  {
+   "id": "HH2XpH7BgoQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why I moved to New Hampshire & What I Found Here",
+   "dur": "3:23",
+   "meta": [
+    "58K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 58000,
+   "age": "4y ago"
+  },
+  {
+   "id": "2QXI2ViGTgw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "25MPH Electric Bike looks like a REGULAR Bicycle - Vanpowers City Vanture",
+   "dur": "4:29",
+   "meta": [
+    "59K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "4y ago"
+  },
+  {
+   "id": "mioAA0N1dWY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "3 Steps to LEVEL a Bumpy LAWN - EASY",
+   "dur": "4:29",
+   "meta": [
+    "985K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 985000,
+   "age": "4y ago"
+  },
+  {
+   "id": "j5WU6EmJMZM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How big is your Lawn Really? How to measure your lawn from your phone easily",
+   "dur": "3:06",
+   "meta": [
+    "51K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 51000,
+   "age": "4y ago"
+  },
+  {
+   "id": "YqIAsyujHa8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIG Jackery 2200 Watts! Explorer Pro 2000 Battery Generator & Power Station",
+   "dur": "4:57",
+   "meta": [
+    "45K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 45000,
+   "age": "4y ago"
+  },
+  {
+   "id": "leEsPGaaru8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EcoFlow Wave PORTABLE Battery Powered Air Conditioner 4000 BTU",
+   "dur": "6:29",
+   "meta": [
+    "698K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 698000,
+   "age": "4y ago"
+  },
+  {
+   "id": "LdCU-PPryEY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEST SOLAR LIGHT REVIEW - Just as bright as WIRED Lights!",
+   "dur": "5:57",
+   "meta": [
+    "490K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 490000,
+   "age": "4y ago"
+  },
+  {
+   "id": "3eMGX6xRiXk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Can a BATTERY LAWN MOWER BEAT GAS? Worx 80V Nitro Review",
+   "dur": "5:11",
+   "meta": [
+    "160K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 160000,
+   "age": "4y ago"
+  },
+  {
+   "id": "xdtdo2Otm9I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "30 SECONDS CLEANER - TOO GOOD TO BE TRUE???",
+   "dur": "3:38",
+   "meta": [
+    "672K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 672000,
+   "age": "4y ago"
+  },
+  {
+   "id": "JrlR2Y9wonQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOST POWERFUL CORDLESS Pool Cleaning Robot AIPER SEAGULL 3000",
+   "dur": "4:03",
+   "meta": [
+    "94K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "4y ago"
+  },
+  {
+   "id": "CdMcZik70Ao",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to use LIME in your LAWN for GREAT RESULTS",
+   "dur": "4:42",
+   "meta": [
+    "284K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 284000,
+   "age": "4y ago"
+  },
+  {
+   "id": "-odG-FthzjE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Fix a Loose Toilet Paper Holder | Towel Racks & Wall Brackets",
+   "dur": "3:44",
+   "meta": [
+    "127K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 127000,
+   "age": "4y ago"
+  },
+  {
+   "id": "t8rl791E64U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Cut PVC Pipe in TIGHT Spots - Forgotten Tool",
+   "dur": "2:59",
+   "meta": [
+    "102K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 102000,
+   "age": "4y ago"
+  },
+  {
+   "id": "n7Nd4M8I-jg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UNIVERSAL BATTERY CHARGER - Hulkman Sigma 5 Charger & Maintainer",
+   "dur": "3:52",
+   "meta": [
+    "45K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 45000,
+   "age": "4y ago"
+  },
+  {
+   "id": "irK7l3eyB8g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEWARE Of These 3 Common Wiring Mistakes On Outlets & Switches",
+   "dur": "5:12",
+   "meta": [
+    "4.4M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "4y ago"
+  },
+  {
+   "id": "sn7V9dTq30A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NO CABLES! INERGY FLEX 1500 Modular Solar Generator REVIEW",
+   "dur": "6:09",
+   "meta": [
+    "59K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "4y ago"
+  },
+  {
+   "id": "6STeIiVpN0Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SCARY FAST Water Pump - Smartbot 2800/3600gph",
+   "dur": "3:58",
+   "meta": [
+    "52K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 52000,
+   "age": "4y ago"
+  },
+  {
+   "id": "_xP_McM5uwk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "HOW I JUMPSTART MY LAWN IN SPRING - Spring Lawn Care Tricks REVEALED!",
+   "dur": "4:40",
+   "meta": [
+    "292K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 292000,
+   "age": "4y ago"
+  },
+  {
+   "id": "QZqAwG-azMU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to CERAMIC COAT your Solar Panels",
+   "dur": "3:42",
+   "meta": [
+    "31K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "4y ago"
+  },
+  {
+   "id": "JkJyBHvgJZA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ANKER 500 Watt Lithium Iron Phosphate Mini Power Station 535",
+   "dur": "3:53",
+   "meta": [
+    "79K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 79000,
+   "age": "4y ago"
+  },
+  {
+   "id": "pyXo3lUDx5U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEST All in ONE SCREWDRIVER - Klein vs Milwaukee",
+   "dur": "4:18",
+   "meta": [
+    "127K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 127000,
+   "age": "4y ago"
+  },
+  {
+   "id": "EywYt_Pfg70",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix a Leaking Shower Hose in Two Minutes",
+   "dur": "3:16",
+   "meta": [
+    "583K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 583000,
+   "age": "4y ago"
+  },
+  {
+   "id": "wPUkj4hYIEk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WORST Electric Connection Made Easy STRANDED & SOLID Wire",
+   "dur": "4:24",
+   "meta": [
+    "260K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 260000,
+   "age": "4y ago"
+  },
+  {
+   "id": "6ikueoPpwRo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Few Know this EASY TRICK to STOP Leaking Valves INSTANTLY",
+   "dur": "3:36",
+   "meta": [
+    "1.9M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1900000,
+   "age": "4y ago"
+  },
+  {
+   "id": "0P_h0RNBn1Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "RIDICULOUS Mercedes 4x4 Sprinter Oil Change - Winnebago Revel",
+   "dur": "6:31",
+   "meta": [
+    "39K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 39000,
+   "age": "4y ago"
+  },
+  {
+   "id": "9kjpS1vfGio",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Worst Electrical Mistake You Can Make - Backfeeding Generators",
+   "dur": "4:15",
+   "meta": [
+    "2.3M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "4y ago"
+  },
+  {
+   "id": "OVpKizAQLr4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEST Generator Cord is the One you Can Make Yourself",
+   "dur": "6:29",
+   "meta": [
+    "350K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 350000,
+   "age": "4y ago"
+  },
+  {
+   "id": "8fSNhVEyFRM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "YARBO SNOWBOT Snow Blower Robot Review",
+   "dur": "5:32",
+   "meta": [
+    "696K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 696000,
+   "age": "4y ago"
+  },
+  {
+   "id": "EcZ6iX_kOGo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIG Backup Power Small Price - Pecron E3000 Solar Generator Review",
+   "dur": "5:22",
+   "meta": [
+    "319K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 319000,
+   "age": "4y ago"
+  },
+  {
+   "id": "BACQ3167pkA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easy DIY Generator Transfer Switch Install - Works with ANY Portable Gas or Battery Generator",
+   "dur": "7:54",
+   "meta": [
+    "810K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 810000,
+   "age": "4y ago"
+  },
+  {
+   "id": "4xopIgWVcPM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix Damaged Buried Electric Wire - Cheap & Easy",
+   "dur": "5:26",
+   "meta": [
+    "308K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 308000,
+   "age": "4y ago"
+  },
+  {
+   "id": "SuS2sJfwVec",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LIGHTEST SOLAR PANEL in the WORLD! Carbon Fiber uLeaf Canada",
+   "dur": "4:07",
+   "meta": [
+    "38K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 38000,
+   "age": "4y ago"
+  },
+  {
+   "id": "CRTh8fIhV5E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Restore a WOOD STOVE the EASY WAY - Like New in Minutes",
+   "dur": "5:39",
+   "meta": [
+    "334K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 334000,
+   "age": "4y ago"
+  },
+  {
+   "id": "msiQJNKuyUs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "IMPOSSIBLE DESIGN Caulking Gun FITS ANYWHERE with NO ROD - Siligun",
+   "dur": "3:44",
+   "meta": [
+    "1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "wLKW0FnAVME",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DON'T LIVE with SLOW DRAINS - Make Your Shower Drain like New In 2 Minutes",
+   "dur": "3:29",
+   "meta": [
+    "2.9M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2900000,
+   "age": "4y ago"
+  },
+  {
+   "id": "F-QuMvaYvGw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to MAGNETIZE Screwdrivers Bits & Tools INSTANTLY",
+   "dur": "3:17",
+   "meta": [
+    "216K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 216000,
+   "age": "4y ago"
+  },
+  {
+   "id": "oH4aq-TUg68",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CRAZY Fast Pocket Inflator - Tested on Everything that Inflates! Fanttik X8 Apex",
+   "dur": "4:24",
+   "meta": [
+    "506K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 506000,
+   "age": "4y ago"
+  },
+  {
+   "id": "SIyntnwE7O8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Kept Secret for Staying Warm When the Power is Out",
+   "dur": "4:18",
+   "meta": [
+    "43K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "4y ago"
+  },
+  {
+   "id": "2pPiIAN06A8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 INGENIOUS Tools that make GREAT GIFTS - My Picks for 2021",
+   "dur": "5:41",
+   "meta": [
+    "50K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 50000,
+   "age": "4y ago"
+  },
+  {
+   "id": "N_YTNoLKnqs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Repair Drywall NO DUST or SANDING - Fast & Easy",
+   "dur": "4:24",
+   "meta": [
+    "673K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 673000,
+   "age": "4y ago"
+  },
+  {
+   "id": "gtR-BoXJyy4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Got Robbed at the Car Dealer Today - How to Protect Yourself",
+   "dur": "7:40",
+   "meta": [
+    "72K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 72000,
+   "age": "4y ago"
+  },
+  {
+   "id": "SWhM_ZjzUX4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ANKER 521 Power Station- CHEAPEST Lithium IRON Phosphate! LiFePO4",
+   "dur": "5:31",
+   "meta": [
+    "140K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 140000,
+   "age": "4y ago"
+  },
+  {
+   "id": "k8hK9duZIGo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to PREVENT Pipes Freezing in your House or RV - HEAT TAPE",
+   "dur": "5:54",
+   "meta": [
+    "123K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 123000,
+   "age": "4y ago"
+  },
+  {
+   "id": "xUAotOwKzs4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to BOOST Slow Internet Speed 2X - Cheap & EASY!",
+   "dur": "5:49",
+   "meta": [
+    "93K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 93000,
+   "age": "4y ago"
+  },
+  {
+   "id": "m013znucEQY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Winterize a hand driven Well & Still Get Water",
+   "dur": "4:33",
+   "meta": [
+    "40K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 40000,
+   "age": "4y ago"
+  },
+  {
+   "id": "aOZBV_U5ddc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "RUGGED Klein Tools Power Station for Electricians & Pros - KTB1000",
+   "dur": "5:16",
+   "meta": [
+    "74K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 74000,
+   "age": "4y ago"
+  },
+  {
+   "id": "GdTOl1WcHV0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Heating Oil is BETTER than GAS - Explained",
+   "dur": "5:12",
+   "meta": [
+    "343K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 343000,
+   "age": "4y ago"
+  },
+  {
+   "id": "9kJJ_KbloAQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Outdoor Faucets from Freezing & Hoses - Winterize the EASY WAY",
+   "dur": "3:41",
+   "meta": [
+    "195K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 195000,
+   "age": "4y ago"
+  },
+  {
+   "id": "UT4A7P0jJn4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Toyota Tacoma Accessory your Dealer Won't Talk About",
+   "dur": "5:52",
+   "meta": [
+    "58K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 58000,
+   "age": "4y ago"
+  },
+  {
+   "id": "TfnMW1jwQEs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIGGEST Harbor Freight Generator Predator 9500 Review & TEST",
+   "dur": "8:05",
+   "meta": [
+    "1.7M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1700000,
+   "age": "4y ago"
+  },
+  {
+   "id": "FNWKrxfzVJU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Desktop Sized Power Station - Ecoflow River Mini Review",
+   "dur": "5:19",
+   "meta": [
+    "104K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 104000,
+   "age": "4y ago"
+  },
+  {
+   "id": "KSpaznsOwb0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "3 AMAZING Light Bulbs You Never Knew Existed",
+   "dur": "3:34",
+   "meta": [
+    "149K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 149000,
+   "age": "4y ago"
+  },
+  {
+   "id": "iFqjCMYncUs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Swardman ELECTRA V2 Battery Reel Lawn Mower Review",
+   "dur": "6:06",
+   "meta": [
+    "94K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "5y ago"
+  },
+  {
+   "id": "x4WmYDLcEYQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to RESTORE HEADLIGHTS PERMANENTLY - CHEAP & EASY",
+   "dur": "4:02",
+   "meta": [
+    "262K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 262000,
+   "age": "5y ago"
+  },
+  {
+   "id": "HhbKRWesOY8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How I built my SOLAR Powered Workshop - Power Anywhere",
+   "dur": "6:09",
+   "meta": [
+    "601K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 601000,
+   "age": "5y ago"
+  },
+  {
+   "id": "6jqeB5NWMY4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Opening Boxes Like an Animal",
+   "dur": "3:14",
+   "meta": [
+    "98K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 98000,
+   "age": "5y ago"
+  },
+  {
+   "id": "GcT_t_1f8s4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Do Ceramic Coatings LAST? Avalon King Coating 6 Months Laster NO WASHES",
+   "dur": "2:21",
+   "meta": [
+    "34K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 34000,
+   "age": "5y ago"
+  },
+  {
+   "id": "NrjHxU7XcTQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "1400 Watt Solar Power Station - ECOFLOW DELTA MINI",
+   "dur": "4:24",
+   "meta": [
+    "74K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 74000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ybbEK482cg8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DIY BACKYARD WELL with ELECTRIC PUMP - FREE Water",
+   "dur": "9:15",
+   "meta": [
+    "3.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 3300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "CpCoOoTRIQ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a GFCI Outlet - Not Working?",
+   "dur": "4:16",
+   "meta": [
+    "591K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 591000,
+   "age": "5y ago"
+  },
+  {
+   "id": "5n1Or8HCWzU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Get Rid of Yellow Jackets in Walls & Ground - Cheap & Easy",
+   "dur": "2:45",
+   "meta": [
+    "190K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 190000,
+   "age": "5y ago"
+  },
+  {
+   "id": "2ZCczy3gbIA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LAWN Renovation IN ONE DAY! Fall Lawn Care",
+   "dur": "5:47",
+   "meta": [
+    "141K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 141000,
+   "age": "5y ago"
+  },
+  {
+   "id": "r31vJXrZD3Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Make your BATHROOM FAN LIKE NEW without Attic Access",
+   "dur": "5:43",
+   "meta": [
+    "275K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 275000,
+   "age": "5y ago"
+  },
+  {
+   "id": "LJoM2B2fwi4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why your LAWN is YELLOW & DYING - EASY FIX that works FAST!",
+   "dur": "2:58",
+   "meta": [
+    "158K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 158000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Wzb8OQJNDnc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOST RUGGED Power Station in the WORLD! 8000 Watts - Hybrid Power Solutions Review",
+   "dur": "6:48",
+   "meta": [
+    "1.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "kEWzIfnIhUw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To install Split Ductless AC & Heating System // Start to Finish - 1 PERSON!",
+   "dur": "9:11",
+   "meta": [
+    "221K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 221000,
+   "age": "5y ago"
+  },
+  {
+   "id": "E-pn41fqYXs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to INSTALL YOUR OWN WELL with a Sledge Hammer for FREE OFF GRID WATER",
+   "dur": "7:53",
+   "meta": [
+    "6.9M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 6900000,
+   "age": "5y ago"
+  },
+  {
+   "id": "WhrRq6ChdIY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "HOSE REEL UPGRADE - Custom Install with Hoselink Hose Reel",
+   "dur": "6:05",
+   "meta": [
+    "241K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 241000,
+   "age": "5y ago"
+  },
+  {
+   "id": "uNXsC_592kI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ECOFLOW SMART HYBRID GAS GENERATOR",
+   "dur": "4:13",
+   "meta": [
+    "281K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 281000,
+   "age": "5y ago"
+  },
+  {
+   "id": "HyD7OkmcaQ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "INSTALL/REPLACE YOUR OUTDOOR FAUCET in BRICK & CONCRETE with AQUOR",
+   "dur": "8:55",
+   "meta": [
+    "246K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 246000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ioPoyoQBs4w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Hydro Mousse Work? Lawn in a Bottle Review",
+   "dur": "4:15",
+   "meta": [
+    "1.2M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "5y ago"
+  },
+  {
+   "id": "rbFqT1RVWzA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Whoppie Cushion that opens doors",
+   "dur": "3:29",
+   "meta": [
+    "327K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 327000,
+   "age": "5y ago"
+  },
+  {
+   "id": "m7ttligefCo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NEVER NEED JUMPER CABLES Again - Fanttik Apex T8 Digital Jump Starter",
+   "dur": "4:05",
+   "meta": [
+    "281K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 281000,
+   "age": "5y ago"
+  },
+  {
+   "id": "JDq4i_lT8YI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TESTING the CHEAPEST AIR CONDITIONER on Amazon",
+   "dur": "3:58",
+   "meta": [
+    "174K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 174000,
+   "age": "5y ago"
+  },
+  {
+   "id": "XJU271VjiQ0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Starting a New Lawn from Seed - Big & Small Areas",
+   "dur": "5:24",
+   "meta": [
+    "47K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 47000,
+   "age": "5y ago"
+  },
+  {
+   "id": "7fq7lkh2q-8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to LEVEL Your LAWN SMOOTH as GLASS the EASY WAY",
+   "dur": "4:04",
+   "meta": [
+    "263K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 263000,
+   "age": "5y ago"
+  },
+  {
+   "id": "DWjlQ4jNio4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow Delta Max & Solar Tracker Review",
+   "dur": "7:58",
+   "meta": [
+    "693K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 693000,
+   "age": "5y ago"
+  },
+  {
+   "id": "opozMO8gi5k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NEW SHED - Complete Project Start to Finish",
+   "dur": "7:04",
+   "meta": [
+    "88K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 88000,
+   "age": "5y ago"
+  },
+  {
+   "id": "JI5nPUH7HMs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CRAZIEST LAWN SPRINKLER - Orbit Precision Arc",
+   "dur": "3:49",
+   "meta": [
+    "648K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 648000,
+   "age": "5y ago"
+  },
+  {
+   "id": "YO1BtDden_g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why is LAWN PAINT is a PRO Secret - How Can it Help You?",
+   "dur": "4:14",
+   "meta": [
+    "89K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 89000,
+   "age": "5y ago"
+  },
+  {
+   "id": "sjP3YUejNRU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOST ADVANCED DIY PENCIL in the WORLD  - PICA Dry Review",
+   "dur": "3:19",
+   "meta": [
+    "476K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 476000,
+   "age": "5y ago"
+  },
+  {
+   "id": "YEAJaLZmyNA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP WEEDS INSTANTLY the EASY WAY - Grampa's Weed Puller Review",
+   "dur": "3:09",
+   "meta": [
+    "506K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 506000,
+   "age": "5y ago"
+  },
+  {
+   "id": "bfWzPPDh2Yg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NO MORE GAS Generators? ECOFLOW DELTA PRO Review",
+   "dur": "10:38",
+   "meta": [
+    "1.5M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "5y ago"
+  },
+  {
+   "id": "HtaekBomWHM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to BOOST or LOWER Your Water Pressure",
+   "dur": "4:00",
+   "meta": [
+    "161K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 161000,
+   "age": "5y ago"
+  },
+  {
+   "id": "sprTUz1Xde4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 FOOT LONG Weed Wacker? WORX NITRO Multi Lawn Tool Review",
+   "dur": "3:35",
+   "meta": [
+    "108K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 108000,
+   "age": "5y ago"
+  },
+  {
+   "id": "TofHP1moT78",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NEVER SOLDER PIPE AGAIN - 3 Ways for EASY DIY Plumbing",
+   "dur": "5:06",
+   "meta": [
+    "21M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 21000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Vq6pZp-O3jY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Garden HOSE SPRAYER is BEST?",
+   "dur": "6:28",
+   "meta": [
+    "223K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 223000,
+   "age": "5y ago"
+  },
+  {
+   "id": "XoM3fdZAvis",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "GENERARK Home Power 2 Power Generator Review",
+   "dur": "5:05",
+   "meta": [
+    "55K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 55000,
+   "age": "5y ago"
+  },
+  {
+   "id": "clXHYqk_OUs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 ORGANIC WAYS to IMPROVE YOUR LAWN",
+   "dur": "4:02",
+   "meta": [
+    "61K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 61000,
+   "age": "5y ago"
+  },
+  {
+   "id": "7hVFM8U2hWk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What can a Battery/Solar Generator Run?",
+   "dur": "5:02",
+   "meta": [
+    "125K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 125000,
+   "age": "5y ago"
+  },
+  {
+   "id": "jqLVr9HqR_g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to REPAIR GARDEN HOSE in SECONDS - 3 EASY WAYS!",
+   "dur": "3:25",
+   "meta": [
+    "1.6M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Wejop_Rjpv0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Install your own AIR CONDITIONING in 4 HOURS!  DIY Mini Split MR COOL",
+   "dur": "10:13",
+   "meta": [
+    "3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 3000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "uj_PbRBirkQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to SOLDER WIRES TOGETHER - PRO TIPS for WATERPROOF CONNECTIONS",
+   "dur": "5:39",
+   "meta": [
+    "15M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 15000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "rr0wMSLirns",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP MOWING YOUR LAWN - Have a ROBOT DO IT - Gardena Sileno",
+   "dur": "6:23",
+   "meta": [
+    "372K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 372000,
+   "age": "5y ago"
+  },
+  {
+   "id": "8Ka88XWm0oY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Ceramic Coating your Lawnmower Really Stop Grass from Sticking to It?",
+   "dur": "3:36",
+   "meta": [
+    "216K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 216000,
+   "age": "5y ago"
+  },
+  {
+   "id": "z2M0CVzs5xM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TESTING the BEST CAMPING GENERATORS for $299 - EcoFlow RIVER & Jackery 300",
+   "dur": "5:30",
+   "meta": [
+    "163K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 163000,
+   "age": "5y ago"
+  },
+  {
+   "id": "cnww3_Ea--0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TESTING the CRAZIEST SHOVEL Ever Made - Rotoshovel",
+   "dur": "3:53",
+   "meta": [
+    "1.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "WxazYMD7a9s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Using Hose Clamps WRONG - LEARN A BETTER WAY",
+   "dur": "3:50",
+   "meta": [
+    "1.6M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "5y ago"
+  },
+  {
+   "id": "3QFNA6mQ43E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does BIOCHAR for LAWNS WORK? 1 Year RESULT!",
+   "dur": "4:39",
+   "meta": [
+    "120K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 120000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ksl4WAB3B0U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing the CHEAPEST HARBOR FREIGHT INVERTER GENERATOR Predator 1400",
+   "dur": "5:34",
+   "meta": [
+    "1.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "X-55NF_tL-8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEAST MOWER! Toro Titan MAX Zero Turn Lawn Mower Review",
+   "dur": "5:54",
+   "meta": [
+    "149K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 149000,
+   "age": "5y ago"
+  },
+  {
+   "id": "1tfvtJyucHc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What REALLY HAPPENS WHEN YOU SPILL WATER in an OUTLET?",
+   "dur": "4:21",
+   "meta": [
+    "7.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 7400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "paYfM8Ni_jk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Bluetti EB70 vs Ecoflow River Pro - Which is Better?",
+   "dur": "7:04",
+   "meta": [
+    "131K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 131000,
+   "age": "5y ago"
+  },
+  {
+   "id": "u9jJqSGMB5g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Connecting Stranded Wire Like an Animal - Do it LIKE A PRO!",
+   "dur": "3:39",
+   "meta": [
+    "1.6M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "5y ago"
+  },
+  {
+   "id": "3netQmGiRKo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix a Leaky Outdoor Faucet - DON'T Replace It - Cheap & Easy",
+   "dur": "7:35",
+   "meta": [
+    "3.5M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 3500000,
+   "age": "5y ago"
+  },
+  {
+   "id": "bbRKmJkhvKs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Jackery 1800 WATT Battery & Solar Generator - Jackery Explorer 1500 Review",
+   "dur": "4:47",
+   "meta": [
+    "117K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 117000,
+   "age": "5y ago"
+  },
+  {
+   "id": "VM6HfDC0LGk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TESLA Powerwall Alternative - WATTS Battery Power Array & Solar Generator",
+   "dur": "5:39",
+   "meta": [
+    "108K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 108000,
+   "age": "5y ago"
+  },
+  {
+   "id": "J-PF5-Af3Xg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is the BEST LAWN Fertilizer - STOP Wasting Money!",
+   "dur": "5:20",
+   "meta": [
+    "958K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 958000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ZoLHQaWxvnY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Ceramic Coated my 16 YEAR OLD Toyota Tacoma - Was it Worth It?",
+   "dur": "6:31",
+   "meta": [
+    "606K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 606000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Cc1pY-Ix7vs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Open Your Own Pool & Keep it Clean All Season - EASY TIPS",
+   "dur": "6:16",
+   "meta": [
+    "1.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "NZtwD_F7lTA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Never Solder Again - How to Connect Wires the EASY Way",
+   "dur": "4:25",
+   "meta": [
+    "4.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 4400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "WSB3bnoe7tY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIG POWER! 5100Wh Bluetti EP500 Battery Generator TEST & Review",
+   "dur": "7:26",
+   "meta": [
+    "368K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 368000,
+   "age": "5y ago"
+  },
+  {
+   "id": "NnmaQKh4VWE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DON'T DETHATCH Your LAWN Before Watching - Your Questions Answered",
+   "dur": "4:26",
+   "meta": [
+    "1.8M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "5y ago"
+  },
+  {
+   "id": "WooVu6A7XRk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easy Fix for your Lawn in Spring - Dethatching",
+   "dur": "4:01",
+   "meta": [
+    "158K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 158000,
+   "age": "5y ago"
+  },
+  {
+   "id": "5cqy4V0TaAI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LAWN Cleanup Easier with a Tarp?",
+   "dur": "3:22",
+   "meta": [
+    "31K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "5y ago"
+  },
+  {
+   "id": "UBblPogHqvk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Reviewing a 1965 Honda Generator",
+   "dur": "6:54",
+   "meta": [
+    "109K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 109000,
+   "age": "5y ago"
+  },
+  {
+   "id": "d6Eq2KRtE90",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AC Polarity Explained - Electricity 101",
+   "dur": "4:22",
+   "meta": [
+    "500K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 500000,
+   "age": "5y ago"
+  },
+  {
+   "id": "OzKWqf1b0to",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIG BOY Honda EU7000is 7000 Watt Bluetooth Generator Review",
+   "dur": "7:43",
+   "meta": [
+    "365K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 365000,
+   "age": "5y ago"
+  },
+  {
+   "id": "B1pmuRsf1co",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Wire Connector is the Best? Wire Nut VS Wago TESTED",
+   "dur": "5:51",
+   "meta": [
+    "768K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 768000,
+   "age": "5y ago"
+  },
+  {
+   "id": "gFwP-0oQwMY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Milwaukee FAILED Attempt at a Generator Carry-On MX-Fuel Battery Power Station",
+   "dur": "6:45",
+   "meta": [
+    "208K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 208000,
+   "age": "5y ago"
+  },
+  {
+   "id": "xuj-sEJryxw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ultimate USB Outlet Install - No More Chargers!",
+   "dur": "6:49",
+   "meta": [
+    "429K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 429000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Db-dt5U3MCc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Electric Plugs Have Holes? Answered",
+   "dur": "3:17",
+   "meta": [
+    "8.6M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 8600000,
+   "age": "5y ago"
+  },
+  {
+   "id": "qQlYgjUDnC4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why PLASTIC RAZOR Blades are BETTER than Metal",
+   "dur": "3:15",
+   "meta": [
+    "787K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 787000,
+   "age": "5y ago"
+  },
+  {
+   "id": "WQSKPGmy0v0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Foot Pedal & Hand Crank Generators - K-TOR Pocket Socket & Power Box 50",
+   "dur": "4:48",
+   "meta": [
+    "328K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 328000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Yie1zCVx7Yk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "END of GAS Generators? Milwaukee MX Fuel Carry-On Changes EVERYTHING 3600 Watts!",
+   "dur": "4:29",
+   "meta": [
+    "570K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 570000,
+   "age": "5y ago"
+  },
+  {
+   "id": "rMlI7qOm8hM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Never use Wire Nuts Again - Wago is Better Electrical Connector",
+   "dur": "3:54",
+   "meta": [
+    "5.9M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 5900000,
+   "age": "5y ago"
+  },
+  {
+   "id": "UukOAptfTNE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Clean Grease from Hands Instantly NO SOAP or CHEMICALS",
+   "dur": "2:44",
+   "meta": [
+    "1.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "7Gack50m6bM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Clean Your Water Softener Salt Tank - Restore it Like New",
+   "dur": "5:18",
+   "meta": [
+    "821K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 821000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ydLWkh43LOw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Ceramic Coated my SNOW BLOWER to make it NON STICK",
+   "dur": "3:54",
+   "meta": [
+    "1.4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "5y ago"
+  },
+  {
+   "id": "j711uxbw5ow",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Waterproof 1000 Watt Battery Generator CHEAP & Solar Power Station - Montek X-1000 Review",
+   "dur": "8:31",
+   "meta": [
+    "352K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 352000,
+   "age": "5y ago"
+  },
+  {
+   "id": "8qWX_6MZsMg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EASY way to SHOVEL SNOW | Power Shovel 60V Toro",
+   "dur": "3:36",
+   "meta": [
+    "1.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ehkIA38Zm2s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing the Cheapest Harbor Freight Generator $99 Tailgator",
+   "dur": "4:45",
+   "meta": [
+    "1.2M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "5y ago"
+  },
+  {
+   "id": "ta0CvuSGQgY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Replace or Change a Circuit Breaker in your Electrical Panel & Why it's Tripping",
+   "dur": "6:11",
+   "meta": [
+    "4M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "_Uc_NMJ8BNk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Winterize Lawnmowers & Generators in 1 Step",
+   "dur": "2:59",
+   "meta": [
+    "33K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "5y ago"
+  },
+  {
+   "id": "_-fc2gb1kmA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to CONNECT Solar & Battery Generators to Circuit Breakers",
+   "dur": "5:53",
+   "meta": [
+    "109K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 109000,
+   "age": "5y ago"
+  },
+  {
+   "id": "biNdfKcxaqE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ultimate Home Dehumidifier Midea CUBE Review",
+   "dur": "4:06",
+   "meta": [
+    "145K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 145000,
+   "age": "5y ago"
+  },
+  {
+   "id": "Jc4-SYH5IW4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STEALTH GENERATOR $999 - LEOCH 2048 Next Generation Battery Power Station 2000 Watts! Review",
+   "dur": "5:27",
+   "meta": [
+    "156K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 156000,
+   "age": "5y ago"
+  },
+  {
+   "id": "5cvAHDqpgUY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WHY Sony's Pocket Sized Air Conditioner Failed?",
+   "dur": "4:21",
+   "meta": [
+    "68K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 68000,
+   "age": "5y ago"
+  },
+  {
+   "id": "I-C61z-ku44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to replace your Sprinkler Timer Controller with RACHIO",
+   "dur": "5:30",
+   "meta": [
+    "39K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 39000,
+   "age": "5y ago"
+  },
+  {
+   "id": "kIkzgds6Als",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "REPLACE YOUR OUTDOOR FAUCET WITH THIS / Leak & Frost Free AQUOR",
+   "dur": "5:39",
+   "meta": [
+    "10M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 10000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "uOh6NrzUsJU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mini Solar Power Station Kit with LED Lights VERY COOL - LiFePo4",
+   "dur": "3:41",
+   "meta": [
+    "77K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 77000,
+   "age": "5y ago"
+  },
+  {
+   "id": "YNBdtC9jjLA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Clean & Flush Tankless Hot Water Heaters with VINEGAR!",
+   "dur": "5:39",
+   "meta": [
+    "606K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 606000,
+   "age": "6y ago"
+  },
+  {
+   "id": "By0CYtSlRKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Aerate a Small Lawn",
+   "dur": "3:29",
+   "meta": [
+    "95K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 95000,
+   "age": "6y ago"
+  },
+  {
+   "id": "zKol-4K8znQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to STOP RAKING leaves & make LAWN clean ups EASY",
+   "dur": "5:51",
+   "meta": [
+    "58K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 58000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Y6yAJWAo_w0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Winterize Lawn Sprinklers & Hoses DIY BLOWOUT",
+   "dur": "5:49",
+   "meta": [
+    "75K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 75000,
+   "age": "6y ago"
+  },
+  {
+   "id": "q_9t9GqEk6o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to get Rid of ANTS FAST - Cheap & Easy DIY",
+   "dur": "4:21",
+   "meta": [
+    "57K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 57000,
+   "age": "6y ago"
+  },
+  {
+   "id": "sW654SenSog",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How TALL should you MOW your LAWN? Perfect Height?",
+   "dur": "3:50",
+   "meta": [
+    "629K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 629000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Nd8J1iwqpzE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "30\" Wide Lawn Mower Saves 40% of Mowing Time? 2020 Toro Timemaster Review",
+   "dur": "6:16",
+   "meta": [
+    "552K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 552000,
+   "age": "6y ago"
+  },
+  {
+   "id": "CLqSPvvO_8U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NEW HONDA BLUETOOTH Generator EU2200i Exposed! CO Minder Review / 2021 Model",
+   "dur": "8:57",
+   "meta": [
+    "1.5M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "6y ago"
+  },
+  {
+   "id": "YXPeoUdbxhQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to RENOVATE a SMALL LAWN - Cheap & Easy!",
+   "dur": "6:36",
+   "meta": [
+    "1.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "j3hMSKtcmxE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Dethatch an UGLY LAWN NOW CORDLESS!",
+   "dur": "5:30",
+   "meta": [
+    "316K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 316000,
+   "age": "6y ago"
+  },
+  {
+   "id": "BOYQ3wQInBQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "FIX YOUR LAWN in 3 STEPS - EASY",
+   "dur": "6:44",
+   "meta": [
+    "74K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 74000,
+   "age": "6y ago"
+  },
+  {
+   "id": "ymu4SZvoEr4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Cordless String Trimmer EGO vs Toro TEST",
+   "dur": "5:26",
+   "meta": [
+    "78K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 78000,
+   "age": "6y ago"
+  },
+  {
+   "id": "QFqt9IBpRVE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Liquid Aeration Work for your LAWN?",
+   "dur": "4:34",
+   "meta": [
+    "1.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "LYGPqewZvYg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Change Power Steering Fluid in 5 Minutes - DIY Easy",
+   "dur": "6:11",
+   "meta": [
+    "2.9M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2900000,
+   "age": "6y ago"
+  },
+  {
+   "id": "8aMKkUcTTJ4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Detailing my 16 Year Old Tacoma Engine Bay for the First Time!",
+   "dur": "4:25",
+   "meta": [
+    "55K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 55000,
+   "age": "6y ago"
+  },
+  {
+   "id": "zR-NwZ8dP4w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WEED EATING ROBOT for your Vegetable Garden - Tertill",
+   "dur": "4:22",
+   "meta": [
+    "142K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 142000,
+   "age": "6y ago"
+  },
+  {
+   "id": "34wHS7eHhoU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SUNGZU 1000 Watt Battery Generator & Solar Power Station",
+   "dur": "5:05",
+   "meta": [
+    "52K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 52000,
+   "age": "6y ago"
+  },
+  {
+   "id": "lLpFxpbd3XU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Lawn Mower? Honda HRX 217 Exposed",
+   "dur": "6:20",
+   "meta": [
+    "733K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 733000,
+   "age": "6y ago"
+  },
+  {
+   "id": "W8ofbptAmCU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Better Outdoor Faucet  - No More Leaks or Hose Bibs - Aquor",
+   "dur": "5:26",
+   "meta": [
+    "278K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 278000,
+   "age": "6y ago"
+  },
+  {
+   "id": "0mQB5fz6Wug",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Keep COOL Outside EASY",
+   "dur": "3:03",
+   "meta": [
+    "107K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 107000,
+   "age": "6y ago"
+  },
+  {
+   "id": "1p8Igb47ils",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Rid of Grubs ORGANICALLY in the LAWN",
+   "dur": "4:12",
+   "meta": [
+    "114K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 114000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Gm-SoM_whkE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIGGEST 2000 WATT Bluetti AC200 Battery Generator & Solar Power Station",
+   "dur": "5:49",
+   "meta": [
+    "342K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 342000,
+   "age": "6y ago"
+  },
+  {
+   "id": "-v8eZhee4Yc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Have CLEAN EDGES in a LAWN - Trimmer SECRETS Revealed",
+   "dur": "4:02",
+   "meta": [
+    "3.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Fu9rKGWbbMw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Replace SPRINKLER HEAD in 5 Minutes  - Rainbird - Hunter - Orbit",
+   "dur": "4:51",
+   "meta": [
+    "2.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "5GapR7KfFoA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Cub Cadet Ultima ZTX6 Zero Turn Lawn Mower Review",
+   "dur": "5:38",
+   "meta": [
+    "57K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 57000,
+   "age": "6y ago"
+  },
+  {
+   "id": "IkGO9LSJKf4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get RID OF ANTS - Cheap & Easy",
+   "dur": "3:49",
+   "meta": [
+    "240K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 240000,
+   "age": "6y ago"
+  },
+  {
+   "id": "QJTPVrF1sw4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to TEST your SOIl & Improve your LAWN - Fast Results MY Soil Test",
+   "dur": "3:38",
+   "meta": [
+    "51K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 51000,
+   "age": "6y ago"
+  },
+  {
+   "id": "kcieM8ax0Xc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TALL SPRINKLERS solve BIG Lawn Watering Problems",
+   "dur": "6:00",
+   "meta": [
+    "143K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 143000,
+   "age": "6y ago"
+  },
+  {
+   "id": "o8KQu_MlpoY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Window Air Conditioner Not Cooling? EASY Common Fix - How to Clean a Windows AC",
+   "dur": "6:09",
+   "meta": [
+    "2.3M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "6y ago"
+  },
+  {
+   "id": "rwDwnYlwYRU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mowing 25 Miles with Cub Cadet Ultima ZTX",
+   "dur": "5:28",
+   "meta": [
+    "167K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 167000,
+   "age": "6y ago"
+  },
+  {
+   "id": "3IQhM0dkiiE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Are ROBOT LAWN Mowers any Good? 🤖Worx Landroid",
+   "dur": "7:37",
+   "meta": [
+    "2.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "FUnlW7gXsJQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ecoflow River 600 Portable Battery Generator Review - R600",
+   "dur": "8:17",
+   "meta": [
+    "390K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 390000,
+   "age": "6y ago"
+  },
+  {
+   "id": "CmIxATlRr1o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to CLEAN POLYWOOD Outdoor Furniture & Cushions Like NEW",
+   "dur": "4:11",
+   "meta": [
+    "46K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 46000,
+   "age": "6y ago"
+  },
+  {
+   "id": "O2E86l2GNMc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2020 Toro Timecutter MyRide Lawn Mower Review",
+   "dur": "8:30",
+   "meta": [
+    "154K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 154000,
+   "age": "6y ago"
+  },
+  {
+   "id": "ZmB26bC2B7E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Vinegar Weed Killer - Works in 24 Hours",
+   "dur": "4:08",
+   "meta": [
+    "2.8M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2800000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Ea1wG2iLJFA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to DETHATCH an UGLY LAWN - CHEAP",
+   "dur": "5:21",
+   "meta": [
+    "5.4M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 5400000,
+   "age": "6y ago"
+  },
+  {
+   "id": "R81KJU0myDE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Back Saver TOOL HANDLE - Make Lawn & Yard Work Easier",
+   "dur": "3:11",
+   "meta": [
+    "79K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 79000,
+   "age": "6y ago"
+  },
+  {
+   "id": "EeemlK0dd9A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Visually Identify Weeds in Your Lawn Using your Phone - What kind of weed is that?",
+   "dur": "1:44",
+   "meta": [
+    "147K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 147000,
+   "age": "6y ago"
+  },
+  {
+   "id": "CUu_wAUiOZM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace your Lawn mower Blade in 3 Minutes EASY WAY",
+   "dur": "6:09",
+   "meta": [
+    "548K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 548000,
+   "age": "6y ago"
+  },
+  {
+   "id": "nAVDDePLoNU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to OVERSEED an UGLY LAWN in SPRING",
+   "dur": "5:17",
+   "meta": [
+    "1.4M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "6y ago"
+  },
+  {
+   "id": "FELeJRXxIto",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens When you Mow 400 Pinecones? Toro",
+   "dur": "3:59",
+   "meta": [
+    "40K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 40000,
+   "age": "6y ago"
+  },
+  {
+   "id": "oNr2cQwKPrI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "5 Lawn Tips for 2020",
+   "dur": "7:27",
+   "meta": [
+    "226K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 226000,
+   "age": "6y ago"
+  },
+  {
+   "id": "A08K97qgJwY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best BRUSH CUTTER Blade for a Weed Wacker! Chainsaw Blade - Chainblade",
+   "dur": "4:26",
+   "meta": [
+    "1.3M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "6y ago"
+  },
+  {
+   "id": "njDkLmTuoi0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Dethatch & POWER RAKE your LAWN",
+   "dur": "4:23",
+   "meta": [
+    "280K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 280000,
+   "age": "6y ago"
+  },
+  {
+   "id": "1m5nqr4pUb0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Toro 21\" Power Clear 60-Volt Cordless Lithium Ion BATTERY Snowblower Review",
+   "dur": "5:53",
+   "meta": [
+    "163K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 163000,
+   "age": "6y ago"
+  },
+  {
+   "id": "W90DZ8uYzEo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lightest 1000 Watt Power Station & Solar Generator - Jackery Explorer 1000",
+   "dur": "5:06",
+   "meta": [
+    "1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "6y ago"
+  },
+  {
+   "id": "qD_-QWTnZr4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to INCREASE WATER PRESSURE in Your Shower! End Poor Water Pressure",
+   "dur": "4:04",
+   "meta": [
+    "1.8M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "6y ago"
+  },
+  {
+   "id": "J5EwhuoaZnA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STOP Weeds In Lawns & Beds with Pre-Emergents",
+   "dur": "7:06",
+   "meta": [
+    "29K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 29000,
+   "age": "6y ago"
+  },
+  {
+   "id": "M-pa_vUNGl4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Midea 8,000 BTU U Shaped Smart Inverter Window AC Installation & Review",
+   "dur": "4:53",
+   "meta": [
+    "2.8M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 2800000,
+   "age": "6y ago"
+  },
+  {
+   "id": "aeqYIt1x7Jw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "You are buying FAKE Toyota & Lexus Parts & DON'T KNOW IT",
+   "dur": "4:23",
+   "meta": [
+    "695K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 695000,
+   "age": "6y ago"
+  },
+  {
+   "id": "A9MVTWGvPho",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BIGGEST 2400Wh Power Station & Solar Generator - NEW Bluetti EB240 -  Portable Backup Power",
+   "dur": "7:39",
+   "meta": [
+    "1.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "JUAG0Nj8r0Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WHY Your Tire Light is ON & EASY FIX",
+   "dur": "5:17",
+   "meta": [
+    "5.9M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 5900000,
+   "age": "6y ago"
+  },
+  {
+   "id": "kYt0LPDeEkE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Clean your Car's Undercarriage in 3 Minutes Winter Salt & Snow Removal",
+   "dur": "3:12",
+   "meta": [
+    "527K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 527000,
+   "age": "6y ago"
+  },
+  {
+   "id": "PblzWBMao-w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Secret way to BOOST your TOILET FLUSH FOR FREE - STOP CLOGS",
+   "dur": "3:37",
+   "meta": [
+    "504K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 504000,
+   "age": "6y ago"
+  },
+  {
+   "id": "5QdPzSgCIFM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to CHANGE OIL in a MINUTE?",
+   "dur": "4:07",
+   "meta": [
+    "411K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 411000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Q0JmZDRxE80",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ultimate Power Station & Solar Generator - Jackery Explorer 500 Review",
+   "dur": "5:58",
+   "meta": [
+    "472K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 472000,
+   "age": "6y ago"
+  },
+  {
+   "id": "fW0rj8lGXRQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why you should NEVER buy a Mercedes \"Luxury\" SUV or Car",
+   "dur": "7:29",
+   "meta": [
+    "1.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "1Gzttrn9P0c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Get the Perfect English LAWN - Allett Liberty 43 Reel Mower",
+   "dur": "6:33",
+   "meta": [
+    "873K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 873000,
+   "age": "6y ago"
+  },
+  {
+   "id": "UPKl5ohQIIU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fasten to Concrete -  EASY WAY - Walls/Floors/Block",
+   "dur": "6:14",
+   "meta": [
+    "260K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 260000,
+   "age": "6y ago"
+  },
+  {
+   "id": "Eu9YRCR4yro",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Deal 3500 Watt Inverter RV / Home Generator Review - Tomahawk",
+   "dur": "4:17",
+   "meta": [
+    "77K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 77000,
+   "age": "6y ago"
+  },
+  {
+   "id": "oWrx9wh-FXA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Snowblower TIPS for EASY Snow Removal",
+   "dur": "4:43",
+   "meta": [
+    "574K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 574000,
+   "age": "6y ago"
+  },
+  {
+   "id": "daHNfB5INkg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Make Windshield Wiper Blades Like NEW in 30 Seconds",
+   "dur": "3:17",
+   "meta": [
+    "17M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 17000000,
+   "age": "6y ago"
+  },
+  {
+   "id": "_i0xLiOhNRg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Budget Inverter Generator - Champion 2000watt",
+   "dur": "6:09",
+   "meta": [
+    "73K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 73000,
+   "age": "6y ago"
+  },
+  {
+   "id": "er9TmHg7QMw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Westinghouse Dual Fuel Propane Generator iGEN4500DF",
+   "dur": "6:25",
+   "meta": [
+    "319K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 319000,
+   "age": "6y ago"
+  },
+  {
+   "id": "mNww28gEIJ4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Toyota Oil Change SECRET Exposed",
+   "dur": "9:13",
+   "meta": [
+    "1.8M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "6y ago"
+  },
+  {
+   "id": "pM02HvRknWE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NO WATER LAWN- 1 Year Later Update",
+   "dur": "4:50",
+   "meta": [
+    "33K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "7y ago"
+  },
+  {
+   "id": "YyMonPCxzog",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ultimate Home Generator? - Ecoflow Delta / Portable Backup Power",
+   "dur": "8:46",
+   "meta": [
+    "4.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 4700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "MH0iRWy5tqY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tomahawk Turbo Boosted Backpack Mosquito Fogger Leaf Blower ULV Sprayer Review",
+   "dur": "7:08",
+   "meta": [
+    "141K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 141000,
+   "age": "7y ago"
+  },
+  {
+   "id": "irajObxV_1I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Water Softener Cleaning & Restore it Like New - Don't skip this EASY maintenance",
+   "dur": "7:28",
+   "meta": [
+    "3.8M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3800000,
+   "age": "7y ago"
+  },
+  {
+   "id": "iugI8dGS39A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yamaha EF2200is Generator VS Honda EU2200i - Best Portable Generator?",
+   "dur": "6:59",
+   "meta": [
+    "2M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "awuwXcrKayc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Walker T25i Lawn Mower Review & Make Money",
+   "dur": "8:30",
+   "meta": [
+    "152K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 152000,
+   "age": "7y ago"
+  },
+  {
+   "id": "T-W-eYFzh-c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to use a lawn spreader like a pro",
+   "dur": "5:35",
+   "meta": [
+    "294K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 294000,
+   "age": "7y ago"
+  },
+  {
+   "id": "GIFSeZxV-kc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fix an Ugly Lawn 5 TIPS -Easy Step by Step Guide For Beginners",
+   "dur": "5:13",
+   "meta": [
+    "1.8M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "7y ago"
+  },
+  {
+   "id": "oMaVbo_CcZw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Swardman Electra Lawn Dethatching & How to Swap Implements on this Reel Mower",
+   "dur": "4:17",
+   "meta": [
+    "64K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 64000,
+   "age": "7y ago"
+  },
+  {
+   "id": "EXuP6tQACa8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Cheap Inverter Generator - Generac GP2200i Review - Alternative to Honda EU2200i",
+   "dur": "7:33",
+   "meta": [
+    "2.3M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "7y ago"
+  },
+  {
+   "id": "EMmR5FEqzqQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Make RAKING EASIER - Lawn Dethatching / Leaves / Cleanups - BEST RAKE",
+   "dur": "4:36",
+   "meta": [
+    "553K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 553000,
+   "age": "7y ago"
+  },
+  {
+   "id": "eFD7Ssj9y88",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dig or Burn Weeds - Tips to make it EASY",
+   "dur": "4:47",
+   "meta": [
+    "88K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 88000,
+   "age": "7y ago"
+  },
+  {
+   "id": "ajs3hn7vw-I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Swardman Electra Lawn Mower Review",
+   "dur": "8:10",
+   "meta": [
+    "82K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 82000,
+   "age": "7y ago"
+  },
+  {
+   "id": "-IKgXyUnvv0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Aerate your Lawn EASY - CORE AERATION",
+   "dur": "6:14",
+   "meta": [
+    "527K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 527000,
+   "age": "7y ago"
+  },
+  {
+   "id": "I4fEjPDOkGo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2020 Cool Lawn Tools & Garden Less than $25!",
+   "dur": "6:46",
+   "meta": [
+    "93K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 93000,
+   "age": "7y ago"
+  },
+  {
+   "id": "8TDcnNQC-T8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Make MULCH look NEW in Minutes CHEAP",
+   "dur": "4:46",
+   "meta": [
+    "52K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 52000,
+   "age": "7y ago"
+  },
+  {
+   "id": "CptKylzKo00",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Growing HUGE Ornamental Grasses - Privacy & EASY!",
+   "dur": "6:11",
+   "meta": [
+    "174K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 174000,
+   "age": "7y ago"
+  },
+  {
+   "id": "eWdsIUBYf6I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "My Lawn Care Schedule - What I do, When",
+   "dur": "5:02",
+   "meta": [
+    "59K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 59000,
+   "age": "7y ago"
+  },
+  {
+   "id": "C4xorswL7yY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Swardman Lawn Mower Edwin 2.0 -TECH TIPS for Best Results with your Reel Mower",
+   "dur": "7:37",
+   "meta": [
+    "41K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 41000,
+   "age": "7y ago"
+  },
+  {
+   "id": "WKbjQecp910",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Rid of POISON IVY & THORNS without Chemicals",
+   "dur": "5:45",
+   "meta": [
+    "85K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 85000,
+   "age": "7y ago"
+  },
+  {
+   "id": "c54WSOI-MMc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to FIX an UGLY Lawn with RESULTS - Step by Step for Beginners EASY",
+   "dur": "11:10",
+   "meta": [
+    "8.2M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 8200000,
+   "age": "7y ago"
+  },
+  {
+   "id": "CEFJaFo44Fk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to replace a sprinkler head without digging",
+   "dur": "4:10",
+   "meta": [
+    "257K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 257000,
+   "age": "7y ago"
+  },
+  {
+   "id": "qAxJb0J1HH0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to UNCLOG your AC DRAIN Condensate line FAST - Water stains on Ceiling? or in the Pan",
+   "dur": "8:10",
+   "meta": [
+    "3.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 3700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "me29KdD_6gE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Clean Lawn Sprayers Correctly + Make them LAST Forever",
+   "dur": "3:45",
+   "meta": [
+    "74K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 74000,
+   "age": "7y ago"
+  },
+  {
+   "id": "nsRHhU6q5RY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Central Air Conditioner Condenser Cleaning - How To - Make it COLD again!",
+   "dur": "8:05",
+   "meta": [
+    "1.4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "7y ago"
+  },
+  {
+   "id": "CZ2FArMJesA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Homemade Organic Weed Control - Natural & Safe Vinegar Boosted",
+   "dur": "5:47",
+   "meta": [
+    "1.6M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "7y ago"
+  },
+  {
+   "id": "L0CnlqjT1HI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Rid of Creeping Charlie & Nutsedge in the Lawn - Weed Control Like a Pro",
+   "dur": "8:02",
+   "meta": [
+    "778K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 778000,
+   "age": "7y ago"
+  },
+  {
+   "id": "B3Aa5F0VKoE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Swardman Reel Mower Review - Edwin 2.0 Lawn Mowing System",
+   "dur": "9:23",
+   "meta": [
+    "126K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 126000,
+   "age": "7y ago"
+  },
+  {
+   "id": "RIgR6YpihjA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Sharpen Pruners & Garden Tools EASY - Sharpal Review",
+   "dur": "3:48",
+   "meta": [
+    "72K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 72000,
+   "age": "7y ago"
+  },
+  {
+   "id": "t_jGrpt43MM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lawn Sprinkler Adjustments you NEED to KNOW",
+   "dur": "7:24",
+   "meta": [
+    "1.4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "7y ago"
+  },
+  {
+   "id": "eIQQDDBAy-U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Repair Damaged Lawn Spots in 1 minute  with This Tool - BMS Turf Doctor",
+   "dur": "5:13",
+   "meta": [
+    "20K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "7y ago"
+  },
+  {
+   "id": "-hfIMgxZpVQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Lawn Sprinkler DIY - Without an Irrigation System- Build your own EASY",
+   "dur": "7:19",
+   "meta": [
+    "1.5M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "7y ago"
+  },
+  {
+   "id": "S2Q-hfE_bl4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Have a Lawn with 50% less water.  BEST TIPS",
+   "dur": "6:57",
+   "meta": [
+    "270K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 270000,
+   "age": "7y ago"
+  },
+  {
+   "id": "3RYe2HeOcQI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Rid of Crabgrass & Clover in the Lawn - Weed Control Like a Pro",
+   "dur": "8:21",
+   "meta": [
+    "8M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 8000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "O8aTJVDypm0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Gas Chainsaw VS Electric - Makita against Stihl Pro MS200T/MS201",
+   "dur": "4:58",
+   "meta": [
+    "33K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "7y ago"
+  },
+  {
+   "id": "9lzYIslHRB8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Improve your Lawn with Dethatching - 3 Ways How to do it for Any Budget",
+   "dur": "7:01",
+   "meta": [
+    "534K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 534000,
+   "age": "7y ago"
+  },
+  {
+   "id": "F6FNjR9t_Ok",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What HUMIC ACID can do for your LAWN",
+   "dur": "5:18",
+   "meta": [
+    "141K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 141000,
+   "age": "7y ago"
+  },
+  {
+   "id": "w_WIonHGISA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Get Perfect Lawn Edges with a Weed Wacker",
+   "dur": "5:11",
+   "meta": [
+    "854K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 854000,
+   "age": "7y ago"
+  },
+  {
+   "id": "2JotIRjSOmQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Never Wind Weed Wacker Line Again - String Trimmer Line Loading Miracle",
+   "dur": "7:40",
+   "meta": [
+    "5.2M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 5200000,
+   "age": "7y ago"
+  },
+  {
+   "id": "08v-uOUDDCo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "REEL Mowing Right for YOU? Mowing Low / Cylinder Lawn Mowing - How to Get Started",
+   "dur": "7:23",
+   "meta": [
+    "229K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 229000,
+   "age": "7y ago"
+  },
+  {
+   "id": "-tsfC4FkNoQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Protect your Lawn From Summer HEAT & Stress my Secret Recipe STAY GREEN with Sea Kelp",
+   "dur": "8:15",
+   "meta": [
+    "741K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 741000,
+   "age": "7y ago"
+  },
+  {
+   "id": "jsmvZiyrJHU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best String Trimmer Wacker - Makita / Whipper Snipper XRU15PT1",
+   "dur": "5:45",
+   "meta": [
+    "74K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 74000,
+   "age": "7y ago"
+  },
+  {
+   "id": "pMcXe8Pnlqw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "FREE Lawn Mower - Will it Run? Trash to Treasure & Tuneup Step by Step",
+   "dur": "7:41",
+   "meta": [
+    "31K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 31000,
+   "age": "7y ago"
+  },
+  {
+   "id": "cx05XYcbTvM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why is my grass BROWN?  Does it have a disease?",
+   "dur": "6:04",
+   "meta": [
+    "21K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "7y ago"
+  },
+  {
+   "id": "eI01afj9Hio",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Patio Paver Restoration - DIY Step by Step How to - Easy",
+   "dur": "9:14",
+   "meta": [
+    "716K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 716000,
+   "age": "7y ago"
+  },
+  {
+   "id": "TwKh97XYqjA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best ORGANIC Lawn Fertilizer & Tricks making it Work",
+   "dur": "6:20",
+   "meta": [
+    "65K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 65000,
+   "age": "7y ago"
+  },
+  {
+   "id": "YZJjbbEs-0g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Prune Hedges & Shrubs - Step by Step",
+   "dur": "4:55",
+   "meta": [
+    "44K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 44000,
+   "age": "7y ago"
+  },
+  {
+   "id": "PFldiw59-bo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to MULCH lawn and garden BEDS FAST",
+   "dur": "11:27",
+   "meta": [
+    "319K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 319000,
+   "age": "7y ago"
+  },
+  {
+   "id": "jSh-jhOAqgM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best  Battery Lawn Sprayer for Pesticide / Herbicide / Cleaning and More!",
+   "dur": "6:13",
+   "meta": [
+    "105K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 105000,
+   "age": "7y ago"
+  },
+  {
+   "id": "vXhMt1hOmv0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easy Way to Fertilize Shrubs, Trees & Flowers",
+   "dur": "6:52",
+   "meta": [
+    "23K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 23000,
+   "age": "7y ago"
+  },
+  {
+   "id": "RwzmolXxXgo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "King of Spades - BEST Shovel Ever - Edging, Digging & Trenching",
+   "dur": "5:18",
+   "meta": [
+    "118K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 118000,
+   "age": "7y ago"
+  },
+  {
+   "id": "js-grVwbTmE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Change Blades on a Walker Commercial Lawnmower",
+   "dur": "6:40",
+   "meta": [
+    "49K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 49000,
+   "age": "7y ago"
+  },
+  {
+   "id": "hBgqBC4EIxQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Edge Beds Like a Pro Using Only a Shovel - BEST Technique for GREAT results",
+   "dur": "5:59",
+   "meta": [
+    "2.7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2700000,
+   "age": "7y ago"
+  },
+  {
+   "id": "4mjzhvg-ygg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Create a Garden Bed START to FINISH from Grass",
+   "dur": "9:24",
+   "meta": [
+    "203K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 203000,
+   "age": "7y ago"
+  },
+  {
+   "id": "C77PrN_I8UY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PREVENT Lawn Weeds BEFORE they Grow Using Pre Emergents",
+   "dur": "5:50",
+   "meta": [
+    "72K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 72000,
+   "age": "7y ago"
+  },
+  {
+   "id": "vVHWlJLo5x0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Rake Ever - New Model & How to Assemble the Groundskeeper II Rake Correctly",
+   "dur": "4:08",
+   "meta": [
+    "68K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 68000,
+   "age": "7y ago"
+  },
+  {
+   "id": "xE0_aQMwz_M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Lawn Sprayer- Battery Powered Cordless",
+   "dur": "12:51",
+   "meta": [
+    "52K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 52000,
+   "age": "7y ago"
+  },
+  {
+   "id": "Odb6a9g5Q4o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fixing a leaking Lawn Sprinkler Valve / Vacuum Breaker & Backflow Preventer",
+   "dur": "5:09",
+   "meta": [
+    "138K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 138000,
+   "age": "7y ago"
+  },
+  {
+   "id": "nBz8_RB9tbA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grow grass without sprinklers or a hose? See for yourself.",
+   "dur": "8:41",
+   "meta": [
+    "94K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "7y ago"
+  },
+  {
+   "id": "X0BkhBfEfgE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix A Broken Lawn Sprinkler line",
+   "dur": "5:32",
+   "meta": [
+    "170K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 170000,
+   "age": "7y ago"
+  },
+  {
+   "id": "btyTNS91DLI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Edge beds like a PRO with this lawn Edger - Stihl Bed Redefiner",
+   "dur": "4:33",
+   "meta": [
+    "2.4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2400000,
+   "age": "7y ago"
+  },
+  {
+   "id": "2bLWOvyLwyU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mulching vs Bagging vs Side Discharge - Which is Best & Why to help your Lawn",
+   "dur": "7:44",
+   "meta": [
+    "2.1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "7y ago"
+  },
+  {
+   "id": "MLbQKfldvdw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Topdress & Level Your Lawn Using Sand or TopSoil?  Beginners DIY Guide",
+   "dur": "4:47",
+   "meta": [
+    "1.6M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "7y ago"
+  },
+  {
+   "id": "65kbNfhvuko",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Open your Lawn Sprinklers / Irrigation System - Save Money",
+   "dur": "7:14",
+   "meta": [
+    "111K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 111000,
+   "age": "7y ago"
+  },
+  {
+   "id": "zc032-zaWxg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Dethatch your Lawn - Raking vs Power Dethatcher - Easy with Tips! Lawn Lessons #1",
+   "dur": "7:01",
+   "meta": [
+    "71K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 71000,
+   "age": "7y ago"
+  },
+  {
+   "id": "lLp8Tk9NrfM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Walker Snowblower Mower Attachment Demo & Review in ACTION",
+   "dur": "4:30",
+   "meta": [
+    "76K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 76000,
+   "age": "7y ago"
+  },
+  {
+   "id": "OgJcx-0B5jQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "iRobot Terra Robotic Roomba Lawn Mower CANCELLED! 🤖",
+   "dur": "5:32",
+   "meta": [
+    "153K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 153000,
+   "age": "7y ago"
+  },
+  {
+   "id": "MvD-fjlH1HI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Clean a Washing Machine CHEAP & EASY No More Musty Smell!",
+   "dur": "3:47",
+   "meta": [
+    "245K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 245000,
+   "age": "7y ago"
+  },
+  {
+   "id": "-oKPBAWLzBQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Miele Dishwasher Repair - Not Draining / Grinding Noises Fix in 1 Minute - Dishes not getting clean?",
+   "dur": "4:51",
+   "meta": [
+    "189K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 189000,
+   "age": "7y ago"
+  },
+  {
+   "id": "HWNM1Wafsvk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Kill Weeds Crabgrass + 40 more & NOT your Grass with Tenacity - DIY",
+   "dur": "8:05",
+   "meta": [
+    "1.6M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "7y ago"
+  },
+  {
+   "id": "sfMeMKoCPJE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Clean & Detail Your Car Engine in 5 Minutes!",
+   "dur": "4:48",
+   "meta": [
+    "7M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 7000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "jsMOvM_-jac",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2019 Lawn & Garden Tools to Make Yard Work Easier",
+   "dur": "6:13",
+   "meta": [
+    "160K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 160000,
+   "age": "7y ago"
+  },
+  {
+   "id": "8LFI_lm6sEI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2019 Lawn Renovation Plan Step by Step 🏅Transform Your Ugly Lawn",
+   "dur": "7:09",
+   "meta": [
+    "285K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 285000,
+   "age": "7y ago"
+  },
+  {
+   "id": "xnuiKR7Wk1E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Seafoam Small Engines - Step by Step",
+   "dur": "6:41",
+   "meta": [
+    "132K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 132000,
+   "age": "7y ago"
+  },
+  {
+   "id": "_iwtjBK1TTE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "You will be SHOCKED at what a 1000 Watt Generator Can Run",
+   "dur": "5:42",
+   "meta": [
+    "54K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 54000,
+   "age": "7y ago"
+  },
+  {
+   "id": "4uZuRNzvYMg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dakota Fire Hole Backyward Smokeless Firepit - Done it in 30 Minutes EASY",
+   "dur": "9:03",
+   "meta": [
+    "29K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 29000,
+   "age": "7y ago"
+  },
+  {
+   "id": "d8O57J1d2o4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Strip Electrical Wire like a Pro 6 Ways",
+   "dur": "6:37",
+   "meta": [
+    "327K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 327000,
+   "age": "7y ago"
+  },
+  {
+   "id": "5Kvq4jVMaEc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix a SLOW LEAK in a Lawn mower TIRE - EASY!",
+   "dur": "6:10",
+   "meta": [
+    "92K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 92000,
+   "age": "7y ago"
+  },
+  {
+   "id": "Xd-Og809TUo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Top 10 Heating Problems EASY Fixes for No HEAT - Boiler / Furnace Troubleshooting OIL HEAT",
+   "dur": "10:44",
+   "meta": [
+    "216K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 216000,
+   "age": "7y ago"
+  },
+  {
+   "id": "XqoAtERlr_Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Walker Lawn Mower to Snow Blower Conversion",
+   "dur": "9:19",
+   "meta": [
+    "189K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 189000,
+   "age": "7y ago"
+  },
+  {
+   "id": "W6TWKPX5oXM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Honda EU7000is Generator Oil Change / Spark Plug Replacement & Air Cleaner",
+   "dur": "27:49",
+   "meta": [
+    "76K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 76000,
+   "age": "7y ago"
+  },
+  {
+   "id": "F5fP7biZ2aQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Generator Interlock - Using it & Connecting a Generator to your House",
+   "dur": "4:44",
+   "meta": [
+    "117K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 117000,
+   "age": "7y ago"
+  },
+  {
+   "id": "ydRveyXkf4M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Connect a Small Generator to Your House - Safe & Legal - Run Heat, Fridge & More!",
+   "dur": "4:18",
+   "meta": [
+    "1M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "FFkppaSxoUo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Faster Way to Clean Up Leaves In My Yard",
+   "dur": "6:40",
+   "meta": [
+    "312K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 312000,
+   "age": "7y ago"
+  },
+  {
+   "id": "wDqzwAK01QI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "💪New Refrigerator Won't Fit?",
+   "dur": "3:51",
+   "meta": [
+    "177K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 177000,
+   "age": "7y ago"
+  },
+  {
+   "id": "JHofyZQ6e6Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Flying Hovercraft Lawn Mower - No Wheels",
+   "dur": "5:22",
+   "meta": [
+    "301K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 301000,
+   "age": "7y ago"
+  },
+  {
+   "id": "vepSc2CF8Ko",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Lawn Cart - Stainless Steel & Compact! STRONG",
+   "dur": "6:36",
+   "meta": [
+    "21K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "7y ago"
+  },
+  {
+   "id": "cOYC3LdU1jI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mosquito & Tick Control Yard Spraying - 1 Step - Best Defense for DIY EEE & Lyme",
+   "dur": "8:51",
+   "meta": [
+    "143K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 143000,
+   "age": "7y ago"
+  },
+  {
+   "id": "gpTQb6RpvQk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Winterize the Lawn - Get the Grass Ready for Spring",
+   "dur": "4:15",
+   "meta": [
+    "63K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 63000,
+   "age": "7y ago"
+  },
+  {
+   "id": "UQQReVLVrBw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "LAWNMOWER Oil Change 2 MINUTES - Easy / Clean / DIY",
+   "dur": "6:28",
+   "meta": [
+    "438K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 438000,
+   "age": "8y ago"
+  },
+  {
+   "id": "tEsJI6MsJaY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Use Humic Acid for Lawns - Step by Step Guide with Benefits - Turf Miracle?",
+   "dur": "7:35",
+   "meta": [
+    "198K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 198000,
+   "age": "8y ago"
+  },
+  {
+   "id": "3uSseovAhrs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Leaf Blower Hacks that will Blow you Away  🍁Fall Leaves",
+   "dur": "3:44",
+   "meta": [
+    "266K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 266000,
+   "age": "8y ago"
+  },
+  {
+   "id": "QnAKzFm2OH4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Winterize Sprinklers DIY Step by Step - Blowout the Pipes",
+   "dur": "6:46",
+   "meta": [
+    "228K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 228000,
+   "age": "8y ago"
+  },
+  {
+   "id": "sGdbzPdGJvA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "3 Tools to Edge Your Lawn Beds Like a Pro",
+   "dur": "5:17",
+   "meta": [
+    "515K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 515000,
+   "age": "8y ago"
+  },
+  {
+   "id": "EG1PAGfZIAo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "BEST Lawn Rake - Raking Leaves - Dethatching & Fall Cleanups",
+   "dur": "3:07",
+   "meta": [
+    "310K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 310000,
+   "age": "8y ago"
+  },
+  {
+   "id": "VT73LKxPiWo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grow a LAWN without WATER - Step by Step with Results WATERLESS LAWN",
+   "dur": "8:55",
+   "meta": [
+    "391K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 391000,
+   "age": "8y ago"
+  },
+  {
+   "id": "H9H9_x8EZnY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Easy TRICK to Fix Bare Spots in the Lawn - Pet Damage",
+   "dur": "3:12",
+   "meta": [
+    "126K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 126000,
+   "age": "8y ago"
+  },
+  {
+   "id": "nc_7RZ-2y5A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Aerate Your Lawn BIG  Results - BUY Don't Rent an Aerator",
+   "dur": "5:27",
+   "meta": [
+    "445K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 445000,
+   "age": "8y ago"
+  },
+  {
+   "id": "3GsW2W2e1Oc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Toro Greens Reel Lawn Mower Restoration / Rebuild Project GM1000",
+   "dur": "14:09",
+   "meta": [
+    "73K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 73000,
+   "age": "8y ago"
+  },
+  {
+   "id": "2-AhUNRSXBk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yamaha Inverter Generator EF2000is V2 Review 2000 Watt - Portable Generator",
+   "dur": "7:20",
+   "meta": [
+    "97K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 97000,
+   "age": "8y ago"
+  },
+  {
+   "id": "hqnR7WK9UeU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "⚡️Honda Generator EU2200i Full Review - Upgrade to Honda EU2000i Best Generator 2019",
+   "dur": "13:43",
+   "meta": [
+    "468K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 468000,
+   "age": "8y ago"
+  },
+  {
+   "id": "9tWbgeMU9LY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to LEVEL your LAWN / Tool for Sand Soil / Peat Top Dressing",
+   "dur": "6:43",
+   "meta": [
+    "1.2M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "8y ago"
+  },
+  {
+   "id": "RlM0fxJCg9g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Kill Hornets with Pressure Washer & Soap",
+   "dur": "7:10",
+   "meta": [
+    "75K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 75000,
+   "age": "8y ago"
+  },
+  {
+   "id": "_b6p0fkWhCY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "#1 Problem & Quick Fix with Central Air Conditioning Not Cooling",
+   "dur": "8:53",
+   "meta": [
+    "4.3M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 4300000,
+   "age": "8y ago"
+  },
+  {
+   "id": "p_VvQBxgu0A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Low Water Pressure/Flow Kitchen Faucet - Easy Fix",
+   "dur": "4:31",
+   "meta": [
+    "546K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 546000,
+   "age": "8y ago"
+  },
+  {
+   "id": "atPvvDDE4OM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix Flickering Lights in Your House - Blinking - Flashing",
+   "dur": "4:32",
+   "meta": [
+    "865K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 865000,
+   "age": "8y ago"
+  },
+  {
+   "id": "zHfIqAiUM-s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Honda Generator Running in Hurricane LIVE for 5 days on Backup Power EU7000is",
+   "dur": "1:44",
+   "meta": [
+    "76K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 76000,
+   "age": "8y ago"
+  },
+  {
+   "id": "5GbXgEYw5TE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Oil Heat 🔥 Boilers - How it works - Understand the Basics",
+   "dur": "22:18",
+   "meta": [
+    "820K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 820000,
+   "age": "8y ago"
+  },
+  {
+   "id": "YVPpruxt4yM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Verizon Fios Battery Replacement Free - Stop The Beeping Battery",
+   "dur": "2:40",
+   "meta": [
+    "111K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 111000,
+   "age": "8y ago"
+  },
+  {
+   "id": "AH4H9mpwhnY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Low Water Pressure - Well Pump Problems? Check This First",
+   "dur": "7:50",
+   "meta": [
+    "2.1M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "8y ago"
+  },
+  {
+   "id": "AE_Arl_Dsd4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Wash Your Dog without the Stress 🐶Best Tricks I Found",
+   "dur": "4:41",
+   "meta": [
+    "132K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 132000,
+   "age": "8y ago"
+  },
+  {
+   "id": "OGvpMGWBxf0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a New Door in an Existing Room over Drywall",
+   "dur": "6:39",
+   "meta": [
+    "210K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 210000,
+   "age": "8y ago"
+  },
+  {
+   "id": "KtrmHkJmZ88",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a Car Battery",
+   "dur": "5:23",
+   "meta": [
+    "65K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 65000,
+   "age": "8y ago"
+  },
+  {
+   "id": "L-cTL7JJr8E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix Stuck Bathroom Water Toilet Shutoff Valve? Repair without Replacing it- SECRET FIX",
+   "dur": "3:21",
+   "meta": [
+    "1M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "8y ago"
+  },
+  {
+   "id": "yCZqfnlBYW8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT",
+   "dur": "5:18",
+   "meta": [
+    "470K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 470000,
+   "age": "8y ago"
+  },
+  {
+   "id": "xuswKBmauI4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "No Heat? How to Replace & Troubleshoot a Taco Zone Valve",
+   "dur": "3:26",
+   "meta": [
+    "136K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 136000,
+   "age": "8y ago"
+  },
+  {
+   "id": "j7QChedMD9U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Honda Generator Oil Change - Honda EU7000 How To",
+   "dur": "11:05",
+   "meta": [
+    "118K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 118000,
+   "age": "8y ago"
+  },
+  {
+   "id": "1CD1-uhxiNg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "$10,000 Walk In Bathtub for $300? Install it Yourself, I did!",
+   "dur": "7:52",
+   "meta": [
+    "233K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 233000,
+   "age": "8y ago"
+  },
+  {
+   "id": "Rv2O5Eg8hR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to change a spark plug on a Honda generator",
+   "dur": "11:52",
+   "meta": [
+    "30K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 30000,
+   "age": "8y ago"
+  },
+  {
+   "id": "q_MjMtF2e3U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Best Oil Filter Wrench Ever Made - Facom",
+   "dur": "6:03",
+   "meta": [
+    "84K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 84000,
+   "age": "8y ago"
+  },
+  {
+   "id": "flpbqJu2sT8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a Circulator Pump on a Boiler",
+   "dur": "23:20",
+   "meta": [
+    "236K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 236000,
+   "age": "8y ago"
+  },
+  {
+   "id": "KwfAEGZiE2I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Store & Stabilize Gasoline for Super Long Periods of Time",
+   "dur": "5:24",
+   "meta": [
+    "313K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 313000,
+   "age": "8y ago"
+  },
+  {
+   "id": "_KCUVtXJCrI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Honda Generator EU7000is Full Review - Best Home Backup Generator 2020",
+   "dur": "9:34",
+   "meta": [
+    "653K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 653000,
+   "age": "8y ago"
+  },
+  {
+   "id": "R5lfB2G8fnQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace Hot Water Tank Pressure Relief Valve - T&P",
+   "dur": "17:44",
+   "meta": [
+    "126K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 126000,
+   "age": "8y ago"
+  },
+  {
+   "id": "X4TZoFIsE2w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Well Water Pressure, Pumps & Tanks - How It Works",
+   "dur": "15:27",
+   "meta": [
+    "1.5M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "8y ago"
+  },
+  {
+   "id": "c0mrR1djyPw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Replace a Leaking Pressure Relief Valve on Well Water",
+   "dur": "12:20",
+   "meta": [
+    "145K",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 145000,
+   "age": "8y ago"
+  },
+  {
+   "id": "KZL7tt3culs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "World's ONLY Factory Built GLASS ENGINE",
+   "dur": "1:09",
+   "meta": [
+    "61K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 61000,
+   "age": "11y ago"
+  }
+ ]
+}

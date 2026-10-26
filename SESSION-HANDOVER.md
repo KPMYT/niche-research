@@ -2,7 +2,7 @@
 
 The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this file, then `RESEARCH-BRIEF.md` and `README.md`, and carries on from its section's "Next actions". Each chat rewrites only its own section.
 
-**Last updated:** 2026-10-26, by the HVAC research chat (branch `claude/adoring-galileo-wqloxp`), at its handover.
+**Last updated:** 2026-10-26: HVAC section by the HVAC research chat (branch `claude/adoring-galileo-wqloxp`) at its handover; electrical section by the electrical research chat (branch `claude/zealous-ptolemy-lxtx6t`). Other sections as the setup chat left them on 2026-10-23.
 
 ---
 
@@ -39,13 +39,15 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 
 ## Electrical and fire prevention research chat
 
-- **Owns:** `studies/electrical/`.
-- **Status:** not started.
-- **Next actions:**
-  1. Read `CLAUDE.md`, `RESEARCH-BRIEF.md`, `findings/2026-10-22-hvac-and-electrical.md`, and Frederick's baseline in `script-system/studies/home-diy/frederick-baseline-2026-10/`.
-  2. Show the operator the round 1 plan, then run the rounds.
-  3. Include the presenter-background evidence (electrician, lineman, firefighter, inspector, none) for the open decision.
-  4. Report the findings, go back and forth, then write `CONCLUSIONS.md`.
+- **Owns:** `studies/electrical/`. Last branch: `claude/zealous-ptolemy-lxtx6t` (merged into `main` 2026-10-26 at handover).
+- **Status (2026-10-26):** all six research rounds done and checked (checkers A-H; every fix in `studies/electrical/log.md`). **The operator has not read the findings yet** ("i have read none of this yet"). Everything they need is in **`studies/electrical/REPORT-2026-10-26.md`**: what was done, the findings in plain words with tables, and 4 questions.
+- **Next chat, start here:**
+  1. Read `CLAUDE.md`, this section, then `studies/electrical/REPORT-2026-10-26.md` (and `log.md` for detail if needed).
+  2. Walk the operator through the report in short messages: the topics table, the title shapes, who presents, thumbnails (page: https://claude.ai/artifact/4ZPp2yNMNRvQccsNo3yyet, private), then the 4 questions (1 electrical-first with fire as payoff; 2 Frederick's background, suggested a retired electrical inspector; 3 the AI-persona risk; 4 long-form only). Answer their questions from the files; don't re-run research unless they ask.
+  3. Record their answers in `studies/electrical/log.md`, then write `studies/electrical/CONCLUSIONS.md` (deliverable 9: what to make, emotions and villains, titles and thumbnails, gaps, how to stand apart, what the scripting pack should take).
+- **Deliverables:** `channels.md`/`.csv`, `new-channels.md`, `subniches.md`, `emotions.md`, `thumbnails/thumbnail-styles.html`, `recent-winners.md`, `top-100.md`/`.csv`, `keyword-sweep.md`, `formats.md`; `studies/electrical/README.md` maps every file. They're built by scripts in `studies/electrical/data/tools/` (`build_docs.py`, `build_channels.py`, `build_thumb_page.py`); re-run them after any data fix.
+- **Operator decisions so far:** (2026-10-26) run rounds straight through with a check after each, stop only for real decisions. (2026-10-24) narrow scope: core electrical and fire prevention; not winter blackouts (maybe later, for the stopped generator channel Jack Redfield), not seniors' home safety; no money framing; Frederick's old channel isn't a guide ("full pivot"); the tiny fire inspector/marshal field "could mean we have a gap". (2026-10-23) 5-minute rule, under-5:00 hits in `short-reference.md`; Frederick's channel in the census as "ours"; find new channels.
+- **Method notes for anyone re-running:** YouTube search's "upload date" sort no longer sorts and there's no "oldest" search sort (date windows used; see `data/tools/yt.py`). NexLev's batch tool has no monthly views; 30-day views come from `get_daily_analytics`, impossible values blanked. Search-based multiples run high (compare topics, not absolutes). Only some emotion labels are robust (`labels.md`). Helpers can't write `.md` files; the main session saves their reports.
 
 ---
 

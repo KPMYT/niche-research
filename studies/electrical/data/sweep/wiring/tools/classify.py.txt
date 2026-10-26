@@ -1,0 +1,29 @@
+import json,glob,os,re,collections,sys
+R="/home/user/niche-research/studies/electrical/data/sweep/wiring/raw"
+S="/tmp/claude-0/-home-user/bd54f07e-8fa6-5773-8636-91dde80d17df/scratchpad"
+seen={};hits=collections.Counter();first={};srcs=collections.defaultdict(list)
+for f in sorted(glob.glob(R+"/*.json"), key=os.path.getmtime):
+    base=os.path.basename(f)[:-5]; slug,sort=base.split("__")
+    for rank,v in enumerate([x for x in json.load(open(f)) if x.get("type")=="VIDEO" and x.get("id")],1):
+        hits[v["id"]]+=1; srcs[v["id"]].append((slug,sort,rank))
+        if v["id"] not in seen: seen[v["id"]]=v
+T=lambda v:(v.get("title") or "")
+OUT=[r"\bcar\b",r"\bcars\b",r"truck",r"stereo",r"\bamp\b",r"headlight",r"spark plug",r"alternator",r"race car",r"hotrod",r"motorcycle",r"\bboat",r"\bmarine\b",r"\brv\b",r"trailer",r"jeep",r"kubota",r"tractor",
+     r"plumb",r"\bpex\b",r"teflon",r"pipe",r"toilet",r"faucet",r"water heater",r"hvac",r"furnace",r"air condition",r"\bac unit",r"thermostat",r"solar",r"renewable",r"ethernet",r"\bcat[5-7]",r"rj45",r"wifi",r"phone",r"android",r"iphone",r"laptop",r"charging port",
+     r"official music",r"music video",r"reaction",r"trump",r"breaking:",r"podcast",r"show #",r"drywall anchor",r"screw hole",r"angle grinder",r"guitar",r"pedal",r"arduino",r"raspberry",r"\bpcb\b",r"\bdrone",r"keyboard",r"\bmouse\b",r"dryer not heating",r"dishwasher",r"bathroom design",r"kill switch",r"review //",r"cooler motor",r"\bups\b",r"inverter",r"tagalog",r"paano",r"guruji",r"hindi",r"\bbijli",r"connnection",r"\bko\b",r"\bkaise",r"\bkare\b",r"\bkya\b",r"urdu",r"bangla",r"tamil",r"telugu",r"malayalam",r"kannada",r"marathi"]
+IN=[r"outlet",r"receptacle",r"switch",r"gfci",r"gfi\b",r"afci",r"arc fault",r"ground fault",r"wire nut",r"wirenut",r"wago",r"lever nut",r"crimp",r"solder",r"electrical tape",r"splic",r"wire connect",r"connect(ing)? wires",r"electrical",r"electrician",r"wiring",r"\bwire[sd]?\b",r"breaker",r"panel",r"circuit",r"\bvolt",r"\bamps?\b",r"neutral",r"ground",r"romex",r"conduit",r"junction box",r"electrical box",r"light fixture",r"ceiling (fan|light)",r"\bled\b",r"bulb",r"dimmer",r"extension cord",r"power strip",r"surge",r"multimeter",r"tester",r"\bplug",r"backstab",r"push.?in",r"shock",r"electrocut",r"aluminum wir",r"knob and tube",r"generator",r"240v",r"220v",r"120v",r"smoke (alarm|detector)",r"carbon monoxide",r"fire",r"socket",r"electricity",r"short circuit",r"tripping",r"keeps tripping"]
+rows=[]
+for vid,v in seen.items():
+    t=T(v).lower()
+    nonascii=sum(1 for c in T(v) if ord(c)>0x2FF and not (0x2000<=ord(c)<=0x2BFF) and not (0x1F000<=ord(c)<=0x1FFFF) and ord(c) not in (0xFE0F,))
+    o=[p for p in OUT if re.search(p,t)]
+    i=[p for p in IN if re.search(p,t)]
+    status="in" if (i and not o and nonascii==0) else ("check" if i else "out")
+    if nonascii>0: status="out-lang"
+    elif o and i: status="check-out"
+    rows.append((status,vid,v,o,i))
+json.dump({"seen":seen,"hits":hits,"srcs":srcs},open(S+"/agg.json","w"))
+c=collections.Counter(r[0] for r in rows);print(c)
+with open(S+"/cls.tsv","w") as f:
+    for st,vid,v,o,i in sorted(rows,key=lambda r:(r[0],-(r[2].get("views") or 0))):
+        f.write(f'{st}\t{vid}\t{v.get("views")}\t{v.get("dur")}\t{v.get("age")}\t{hits[vid]}\t{v.get("channel")}\t{T(v)}\t{",".join(o)}\n')

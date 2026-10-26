@@ -1,0 +1,401 @@
+{
+ "channel": "나이스한씨",
+ "id": "UC2bJ--1Av5twFomuC77o3UA",
+ "handle": "http://www.youtube.com/@nice-han",
+ "description": "안녕하세요, **세상을 움직이는 기술을 재밌게 풀어내는 ‘나이스한씨’**입니다.\n신기한 과학 현상부터 전기와 기계의 작동 원리, 일상을 바꾸는 최신 기술까지.\n“왜 그럴까?”, “어떻게 움직일까?”라는 궁금증을 쉽고 흥미로운 영상으로 풀어봅니다.\n■ 신기한 과학 — 눈앞의 현상에 숨겨진 뜻밖의 원리\n■ 재밌는 공학 — 전기·기계·장치가 움직이는 이유\n■ 최신 기술 — 새로운 기술의 원리와 실제 쓰임새\n■ 생활 속 기술 — 매일 사용하는 물건부터 현장의 설비까지  \n어렵게 느껴졌던 기술도, 알고 보면 재미있는 이야기가 됩니다.\n호기심이 생기는 순간, 나이스한씨와 함께 알아보세요!\n문의: hann1978@naver.com\n#나이스한씨 #과학 #공학 #전기 #기계 #최신기술 #생활과학\n\n",
+ "subs": "20.3K subscribers",
+ "videos_count": "110 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "VCKvN3H576k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Everything You Need to Know About Electrical Rooms | From Power Outage to Restoration",
+   "dur": "8:54",
+   "meta": [
+    "5.3K",
+    "20h ago"
+   ],
+   "channel_id": null,
+   "views": 5300,
+   "age": "20h ago"
+  },
+  {
+   "id": "iFxfe2s5nS8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AI 기업들은 왜 원전 전기를 미리 계약할까?",
+   "dur": "8:27",
+   "meta": [
+    "681",
+    "1d ago"
+   ],
+   "channel_id": null,
+   "views": 681,
+   "age": "1d ago"
+  },
+  {
+   "id": "-2Hr7c934h4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "District Heating: Master It in One Video｜From Piping to Valve Internals",
+   "dur": "10:57",
+   "meta": [
+    "7.3K",
+    "2d ago"
+   ],
+   "channel_id": null,
+   "views": 7300,
+   "age": "2d ago"
+  },
+  {
+   "id": "TXQw-fcEocs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Only Some Sprinklers Work Even When They're the Same? | Alarm Valve vs. Pre-action Valve",
+   "dur": "9:31",
+   "meta": [
+    "2.1K",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 2100,
+   "age": "3d ago"
+  },
+  {
+   "id": "cQ7euBflPfE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are All-Solid-State Batteries Still So Difficult? | Challenges the Future of Batteries Must S...",
+   "dur": "8:21",
+   "meta": [
+    "868",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 868,
+   "age": "4d ago"
+  },
+  {
+   "id": "SkHOVN5G1wc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Batteries Store Electricity? | What Happens Inside While Charging",
+   "dur": "8:10",
+   "meta": [
+    "1.3K",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "5d ago"
+  },
+  {
+   "id": "W_Yz0gXJ4aM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why are both AA and AAA batteries 1.5V? | The Principle of Batteries",
+   "dur": "10:03",
+   "meta": [
+    "1.7K",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "7d ago"
+  },
+  {
+   "id": "W7PP4yJwCX4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why am I still getting shocked with a ground connection? What you miss if you only trust groundin...",
+   "dur": "8:38",
+   "meta": [
+    "5.5K",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 5500,
+   "age": "8d ago"
+  },
+  {
+   "id": "9c8Pgiyt_SU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why is there an extra ground wire when electricity only needs two?",
+   "dur": "5:17",
+   "meta": [
+    "2.4K",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 2400,
+   "age": "10d ago"
+  },
+  {
+   "id": "oviIZpBTaH4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Where Does Current Leak? Why Your Appliances Give You a Shock #GroundFault #CircuitBreaker #Elect...",
+   "dur": "8:02",
+   "meta": [
+    "2.1K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2100,
+   "age": "2w ago"
+  },
+  {
+   "id": "X9IWpo94BKI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does Solar Power Flow to the Grid? | The Principles of Inverters and Grid Connection #SolarPo...",
+   "dur": "11:21",
+   "meta": [
+    "20K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "2w ago"
+  },
+  {
+   "id": "DxQ9-nu8His",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "신축아파트 입주 시작, 관리실이 챙겨야 할 8가지",
+   "dur": "6:24",
+   "meta": [
+    "1.8K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 1800,
+   "age": "2w ago"
+  },
+  {
+   "id": "R_yWa8mCJvM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "It's not a pressure tank | Complete guide to how expansion air separators work in mechanical room...",
+   "dur": "7:23",
+   "meta": [
+    "14K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "3w ago"
+  },
+  {
+   "id": "XEgHxBZEYaQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What’s the Difference Between Voltage, Current, and Power? | Easy Electricity Basics Part 1 #Elec...",
+   "dur": "12:30",
+   "meta": [
+    "3.4K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 3400,
+   "age": "4w ago"
+  },
+  {
+   "id": "29Jz3ojDp-o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Is the voltage really 0V between a bird's feet on a power line? | Why they don't get electrocuted",
+   "dur": "10:30",
+   "meta": [
+    "4.9K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 4900,
+   "age": "1mo ago"
+  },
+  {
+   "id": "-ZUsNZCMgNo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "수도꼭지를 잠가도 온수는 왜 계속 돌까? | 아파트 급탕 순환펌프 원리",
+   "dur": "9:24",
+   "meta": [
+    "2.7K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 2700,
+   "age": "1mo ago"
+  },
+  {
+   "id": "qTP0811_Fx0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "아파트 옥상에 물탱크·기계실·태양광이 있는 이유 | 실제 옥상 둘러보기",
+   "dur": "6:50",
+   "meta": [
+    "3K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 3000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "GLLpkJfs3ys",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Where does the current go after returning through the neutral wire? #electricity #neutralwire #cu...",
+   "dur": "11:28",
+   "meta": [
+    "30K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 30000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "wTebLnqphXs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "표시등 하나 안 봤을 뿐인데… 화재수신기에서 실제로 벌어진 일  #화재수신기 #소방설비 #시설관리",
+   "dur": "19:59",
+   "meta": [
+    "7.2K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 7200,
+   "age": "2mo ago"
+  },
+  {
+   "id": "swidU_Fj3IM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Equipment burning while the breaker is fine — The trap of a broken neutral wire #BrokenNeutralWir...",
+   "dur": "8:11",
+   "meta": [
+    "5.7K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 5700,
+   "age": "2mo ago"
+  },
+  {
+   "id": "VGNscbAQ05o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "소방펌프를 일부러 죽을 만큼 괴롭히는 이유  #소방펌프 #성능시험 #소방설비 #시설관리 #체절운전 #소방점검 #소방시설",
+   "dur": "7:47",
+   "meta": [
+    "2.3K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 2300,
+   "age": "2mo ago"
+  },
+  {
+   "id": "5DCpgp-xts0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why the Breaker Stops Tripping When You Swap the Wires During a Ground Fault #ELB #BreakerNotTrip...",
+   "dur": "8:38",
+   "meta": [
+    "49K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 49000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "47B3UbWWxZw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Loop Coil Inspection Methods | Diagnosing Vehicle Detectors with Testers and Meggers #VehicleDete...",
+   "dur": "12:04",
+   "meta": [
+    "15K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "MnUOfqg8L18",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Pump Room: Things You Passed By Every Day Without Knowing #FirePumpRoom #FacilityManagement ...",
+   "dur": "10:41",
+   "meta": [
+    "32K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 32000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "OXv7QyrwqSY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Just Because the Voltage Detector Doesn't Beep Doesn't Mean It's Safe | How to Use Hioki Non-Cont...",
+   "dur": "7:05",
+   "meta": [
+    "20K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "cE9Wg3e6O74",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What You Should Never Do When a Circuit Breaker Trips #WhenCircuitBreakerTrips #PowerOutage #GFCI...",
+   "dur": "8:02",
+   "meta": [
+    "12K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "M8DZv-Sr6v4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Pre-action Valve False Alarm — Complete Guide to Recovery After Water Discharge #PreActionValve #...",
+   "dur": "7:04",
+   "meta": [
+    "37K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 37000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "_plSLSVwYLU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "사진 한 장 때문에 여소장 욕을 했습니다 #여소장 #시설관리 #관리소장 #아파트관리 #관리사무소 #시설관리취업 #시설관리자 #현장이야기 #편견 #기전기사",
+   "dur": "9:30",
+   "meta": [
+    "6.9K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 6900,
+   "age": "4mo ago"
+  },
+  {
+   "id": "Bs1p1l8oS8g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "전기 만질 때, 혹시 '이거' 알고 작업하시나요? #감전 #감전예방 #전기안전 #누전차단기 #시설관리 #시설관리사 #전기작업 #감전원리 #중성선 #절연화 #전기기사",
+   "dur": "12:26",
+   "meta": [
+    "3.6K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 3600,
+   "age": "4mo ago"
+  },
+  {
+   "id": "pn9AIwW1BEI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "20 years in facility management, and I ended up becoming the person I hated the most #FacilityMan...",
+   "dur": "13:54",
+   "meta": [
+    "6K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 6000,
+   "age": "4mo ago"
+  }
+ ]
+}

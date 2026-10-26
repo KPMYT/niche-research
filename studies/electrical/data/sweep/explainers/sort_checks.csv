@@ -1,0 +1,8 @@
+sort,check,passed,total,share,reading
+views,adjacent pairs in descending view order,2022,2351,86%,"mostly descending, some out of order (as the loader header says)"
+views_year,adjacent pairs descending,1103,1519,73%,roughly descending
+views_year,results aged 1 year or less (relative age text),1556,1569,99%,filter works; a few older videos leak in
+month,results aged 31 days or less,1036,1048,99%,"filter works; 12 older videos leaked (e.g. RimstarOrg zLW_7TPf310, 9y)"
+views_long,adjacent pairs descending,84,95,88%,mostly descending
+views_long,results 20:00 or longer,100,100,100%,filter works
+views (long phrases),pages returned,,,,"long exact phrases return very few results on views sort: e.g. 'retired electrician outlet mistakes' views = 2 results; 4 keyword/sorts returned 0 (how much current can kill you views_year; retired utility worker electric bill views and views_year; why is one prong bigger than the other views_year), retried, still 0"

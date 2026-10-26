@@ -1,0 +1,37 @@
+{
+ "channel": "Helena Zucco",
+ "id": "UC7_sF8noBquy59Nx9TiM0Ug",
+ "handle": "http://www.youtube.com/@HelenaZucco-q9n",
+ "description": "",
+ "subs": null,
+ "videos_count": "2 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "zw4eFiI78Uw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 Things a Firefighter Would NEVER Have In His Own Home",
+   "dur": "10:42",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "pUH5jDQZEjA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "my tired feet near the window",
+   "dur": "3:04",
+   "meta": [
+    "6",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "1mo ago"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+# Title rules and manual scope calls used for channel-list/channels.csv (2026-10-24). Copied from the helper's scratch scripts for traceability.
+
+######## cls.py
+import re
+IN = [
+ r"\bwir(e|es|ing)\b", r"electric(al|ity)?\b", r"electricians?\b.*(never|mistake|hate|warn|reveal|explain|home|house|wir|fix|trick|secret|test|react|fail|outlet|panel|breaker|plug)", r"(never|mistake|warn|things|habits?|signs?).*electricians?\b", r"\boutlets?\b", r"receptacle", r"light switch", r"\bswitch(es)?\b.*\b(wir|light|dimmer|outlet|3[- ]way|three[- ]way)", r"\bdimmer",
+ r"\bgfci?s?\b", r"\bafci", r"\bbreakers?\b", r"\bcircuits?\b", r"(electrical|breaker|fuse|service|main|zinsco|federal pacific|fpe|load center)\s*(panel|box)", r"federal pacific", r"pushmatic", r"sub ?panels?", r"ground bar", r"\b(wall|electrical|plug|double|single|uk|usb|outdoor|kitchen|bathroom) sockets?\b", r"\bsockets?\b.*(wir|install|replace|fix|outlet)", r"(clean\w*|dirt\w*|clog\w*|lint).*\bvents?\b", r"\bvents?\b.*(clean|lint|fire|clog)", r"consumer unit", r"\brcds?\b", r"\bmcbs?\b", r"fuse ?(box|board)", r"zinsco", r"\bfpe\b",
+ r"alumin(i)?um wir", r"knob[- ]and[- ]tube", r"extension cords?", r"power strips?", r"\bsurges?\b", r"surge protect", r"\bled\b.*(bulb|light|lamp|strip)", r"light ?bulbs?", r"\bbulbs?\b", r"ceiling fans?",
+ r"lithium.*(fire|explod|danger|charg|swell|safety|never|mistake|burn|warn|overnight)", r"(fire|explod|danger|charg|swell|safety|never|mistake|burn|warn|overnight).*lithium", r"\bchargers?\b", r"power banks?.*(fire|explod|danger|charg|swell|safety|never|mistake|burn|warn|overnight|plane|flight)", r"(fire|explod|danger|swell|safety|never|mistake|burn|warn).*power banks?", r"batter(y|ies).*(fire|explod|burn|swell|danger|overnight)", r"(fire|explod|burn|swell|danger|overnight).*batter(y|ies)", r"space heaters?", r"multimeter", r"\btesters?\b", r"\bvolt(s|age)?\b", r"\bamps?\b", r"\bamperage", r"\bwatts?\b", r"wattage",
+ r"(electric|power|energy|electricity) bill", r"smoke (alarm|detector)", r"(co|carbon monoxide) (alarm|detector)", r"dryer vent", r"\blint\b", r"grease fire", r"kitchen fire", r"fire extinguisher", r"escape plan",
+ r"(christmas|holiday) lights", r"house ?fires?", r"fire hazard", r"(start|starting|cause|causing|causes|started)\w* (a )?(house )?fires?", r"catch(es|ing)? (on )?fire", r"fire risk", r"smell\w* (something )?burning|burning smell", r"bedroom door", r"(survive|escape) a (house )?fire", r"fire (escape|alarm|investigat)", r"firefighters?\b.*(never|home|house|fire|plug|things|mistake|warn|senior|unplug|habit|beg|check|keep|store|charg)", r"(never|things|mistakes?|habits?|warn).*firefighters?\b", r"fire (safety|marshal|inspector|chief|prevention)",
+ r"plugged in", r"\bunplug", r"\bplugs?\b", r"\bneutral\b", r"\bground(ing|ed)?\b.*\bwire", r"\b(120|240|220|110|230)\s?v\b", r"junction box", r"\bwago", r"wire nuts?", r"\bconduit", r"\bromex", r"electrocut", r"\b(electric(al)?|get|getting|got) shock(ed)?\b", r"\bshocked by\b", r"\bsparks?\b", r"\barc(ing)?\b", r"\b(50|60) ?hz\b", r"\bshock hazard", r"\bfuses?\b", r"solder\w* (wires?|joints?)", r"wires?\b.*\bsolder", r"\bpower cords?\b", r"\b(power|extension|electrical|appliance|charging|charger|lamp|heater|cheap) cords?\b",
+ r"backfeed", r"inlet box", r"transfer switch", r"interlock", r"generator.*(carbon monoxide|\bco\b|safe|danger|mistake|never|kill|backfeed|cord|wrong|deadly|garage|indoors?)", r"(carbon monoxide|\bco\b poison|safe|danger|mistake|never|kill|deadly).*generator",
+ r"\bmeter\b", r"\blights?\b.*(wir|install|flicker|fixture)", r"flicker", r"light fixture", r"\bfixtures?\b", r"\btransformer", r"\bpower lines?\b", r"lineman", r"electric (car|vehicle)s?.*charg", r"ev charg", r"\bnec\b", r"ohm", r"current\b.*(electric|ac|dc)", r"\bac vs dc\b|\bdc vs ac\b", r"electric blanket", r"heating pad", r"appliances?.*(fire|plug|unplug|electric|energy|power)", r"vampire (power|energy|load)", r"phantom (power|load)", r"standby power",
+]
+OUT = [
+ r"blackout", r"drywall anchor|wall plug repair", r"taser|stun gun|tesla coil|marx generator|\blasers?\b|microwave transformer|million volt", r"backup power|home backup|whole[- ]home (generator|backup)|power station|\bups\b|electric start|chainsaw", r"(don.?t|doesn.?t|no) need (electric|lithium|power)", r"heating sources", r"\bhurricane", r"best power banks?", r"without (electric|power)", r"no electricity", r"free (electricity|power|energy|heat)", r"(earth|sand|gravel|salt ?water|foil) battery", r"\bamish\b", r"hillbilly", r"off[- ]grid", r"windmill|wind turbine|wind box", r"never (pay|paid)", r"generates? (free|electricity|power|unlimited)", r"heats? (any|your|my|the|a|one) (home|room|house|greenhouse|garage|cabin)", r"\bcool(s|ing)?\b.*without", r"unlimited", r"headlights?|trailer wiring|ignition|lawn (tractor|mower)|\bmowers?\b|camper|\bvan\b|\brv\b|motorcycle|sprinter|\bgm\b|chevy|\bford\b|jeep|\bboats?\b|marine|golf cart|\bcdi\b|alternator|\bsuvs?\b", r"\bpcb\b|arduino|electronics\b|flyback|\bcrt\b|\bdac\b|tattoo|plasma|tesla coil|proteus", r"generator (brands?|buying|shopping|sizing|size|review)|generators (experts|home depot|you should|to buy|worth)|best generators?|\bbuy(ing)?\b.*generators?|generators?\b.*\bbuy\b|parallel kit|predator \d+|champion \d+|\d+ ?watt (inverter )?generator", r"wire wrap|jewel|wire brush|cup brush|\bsnoo\b|wheelchair", r"never buy (new )?batter", r"\bcareer|apprentice|day in the life|van tour|\bibew\b|\bunion\b|\bsalary|\bjobs?\b|interview", r"\boutages?\b", r"power (is |goes |went )?out\b", r"ice storm", r"\bstorms?\b", r"power outage", r"(without|no) power", r"grid (down|collapse|fail)", r"\bsolar\b", r"power station", r"ecoflow", r"jackery", r"bluetti", r"anker solix", r"\bdelta pro\b", r"best (portable )?generator", r"generator review", r"inverter generator",
+ r"prepp(er|ers|ing)", r"\bshtf\b", r"survival", r"free energy", r"\bhvac\b", r"furnace", r"heat pump", r"air condition", r"\bac unit", r"\ba/c\b", r"thermostat", r"plumb", r"water heater", r"toilet", r"\bdrain", r"\bpipes?\b", r"burglar", r"break[- ]?in", r"intruder", r"home security", r"security camera", r"\blocks?\b", r"\bheat (your|a) (home|house|room)\b.*(without|no)", r"stay warm", r"\bcar\b", r"\btruck\b",
+]
+INR=[re.compile(p,re.I) for p in IN]; OUTR=[re.compile(p,re.I) for p in OUT]
+STRONG=[re.compile(p,re.I) for p in [r"backfeed", r"carbon monoxide", r"transfer switch", r"interlock", r"space heater", r"extension cord", r"house ?fire", r"\bgfci", r"smoke (alarm|detector)", r"electrocut", r"fire hazard", r"electrical panel", r"power strip", r"surge protector", r"lithium"]]
+STRIP=re.compile(r"electric (suvs?|trikes?|mountain bikes?|dirt bikes?|wheelchairs?|farm|buses|adventure|tank|(wall mount )?fireplaces?|kettles?|bikes?|cars?|vehicles?|motorcycles?|scooters?|trucks?|guitars?|toothbrush\w*|boats?|bass|skateboards?)|e-?bikes?|spark plugs?|spinal cord|guitar amps?|(tulip|flower|garlic|daffodil|plant) bulbs?|e-? ?bikes?|circuit (training|workout|board)|transformers (one|movie|toys?)|\\| wired\\b", re.I)
+EBIKE=re.compile(r"(e-? ?bikes?|electric (bikes?|scooters?|cars?|vehicles?)|mobility scooters?).*(batter|charg|fire|explod|burn|danger)|(batter|charg|fire|explod|burn|danger).*(e-? ?bikes?|electric (bikes?|scooters?)|mobility scooters?)", re.I)
+def scope_title(t):
+    t=t or ""
+    if EBIKE.search(t): return "in"
+    t=STRIP.sub(" ", t)
+    i=any(r.search(t) for r in INR); o=any(r.search(t) for r in OUTR)
+    if i and not o: return "in"
+    if i and o: return "in" if any(r.search(t) for r in STRONG) and not re.search(r"solar|power station|ecoflow|jackery|bluetti|prepp|plumb|hvac|furnace|heat pump|air condition|water heater|burglar|security", t, re.I) else "out"
+    return "out"
+def secs(d):
+    if not d: return None
+    p=[int(x) for x in d.split(":")]
+    s=0
+    for x in p: s=s*60+x
+    return s
+NONLATIN=re.compile(r"[Ѐ-ӿ؀-ۿऀ-ॿ฀-๿぀-ヿ一-鿿가-힯֐-׿ঀ-৿਀-෿]")
+HING=re.compile(r"\b(tarika|tarike|kaise|karne|karen|kare|kya|aur|mein|bijli|wala|wali|sahi|galat|banaye|banane|lagaye|lagane|jodne|sikhe|asaan|bilkul|hindi|urdu|ghar ki)\b", re.I)
+FOREIGN=re.compile(r"\b(de|del|un|y|en|como|para|el|los|las|una|con|qué|que|die|der|das|und|mit|ist|nicht|você|não|pour|avec|les|est|dans|wie|eine|cómo|instalação|elétrica|eléctrica|tomada|enchufe|steckdose|kabel|strom|elektriker|ka|ki|hai|kaise|kare|bijli|wiring kaise|आ|di|della|il|per|jak|się|na|ve|bir|nasıl|cara|dan|yang)\b", re.I)
+def nonenglish(t):
+    t=t or ""
+    if NONLATIN.search(t): return True
+    if HING.search(t): return True
+    return len(FOREIGN.findall(t))>=2
+
+######## assign.py
+import json,csv,collections
+S=json.load(open('/tmp/claude-0/-home-user/bd54f07e-8fa6-5773-8636-91dde80d17df/scratchpad/work/stats.json'))
+def auto(s):
+    if s['n_vid']==0: return 'out','no videos on Videos tab (loader returned none)'
+    if s['n_nonen']>s['n_vid']/2: return 'out','non-English (most titles on the page)'
+    n,l=s['n_in'],s['n_long_en']
+    if l==0: return 'out','no English long-form videos on the page'
+    sh=n/l
+    if sh>=0.5: return 'core',''
+    bv=s['best_views'] or 0
+    if n>=2 and sh>=0.2: return 'partial','share'
+    if n>=2 and bv>=100000: return 'partial','hit on general channel'
+    if n==1 and bv>=500000: return 'partial','single in-scope hit on general channel'
+    return 'out','in-scope titles rare'
+if __name__=='__main__':
+    c=collections.Counter(); 
+    for s in S: c[auto(s)[0]]+=1
+    print(c)
+
+######## overrides.py
+# Manual scope calls (my reading of the channel's titles), keyed by the last 6 characters of the channel ID.
+OUT = {
+ 'uRtCGg':'electronics hobby (homemade inverters, transistor circuits), not home electrical',
+ 's-SL-w':'local electrician business; mostly Generac standby-generator sales and setup clips',
+ 'eOdxWQ':'seniors money / outage tips; the one matching title is a senior-discounts list',
+ 'LqbCmA':'off-grid solar and inverter batteries',
+ 'bHxHpQ':'marine (boat) electrical',
+ 'C7oYEA':'off-grid solar / DIY battery packs',
+ 'kkOtcw':'mobile solar (Victron) for vans and RVs',
+ 'Pd-Upw':'camper-van electrical',
+ 'rym9Rg':'van and RV electrical',
+ '5-taNg':'firefighter rescue stories, not prevention',
+ 'jW0twQ':'firefighter news and firehouse life, not prevention',
+ 'NEU6iw':'firefighter life, not prevention',
+ 'nVaiQw':'seniors / women living alone security',
+ 't--Sjg':'outage and generator-use channel (storm survival)',
+ 'u-8viQ':'non-English (Hinglish titles)',
+ '2Sapzg':'non-English (Tagalog) and industrial motor control',
+ 'ZfFHvw':'HVAC (thermostat C-wire)',
+ '3kcprA':'HVAC (thermostat and heat-system wiring)',
+ 'y0nEmA':'scrap-metal wire stripping',
+ 'UnCQuQ':'scrap-metal wire stripping',
+ 'z1pR4A':'baby-bassinet (SNOO) repair',
+ 'hu_x3Q':'e-bike builds',
+ '62d4ow':'truck accessories',
+ 'Eud4IQ':'motorcycle CDI / small-engine electronics',
+ 'HVmYog':'electronics history (TV/radio parts)',
+ 'RMhW2A':'electric cars and vehicles',
+ '4-RCoQ':'electric vehicles and energy tech',
+ 'mlzCyA':'electric vehicles (mopeds, boats)',
+ 'WLSqig':'backup power / battery-runs-your-home hacks',
+ 'vSY_UA':'"free energy" / electric-bill trick hacks',
+ 't9NhmQ':'"free energy" / Amish off-grid hacks',
+ 'wUWCNA':'"free energy" / Amish off-grid hacks',
+ 'T_g8qQ':'"free energy" / Amish off-grid hacks',
+ 'DK07yQ':'"free energy" (earth/gravel batteries)',
+ 'ioBY5A':'"free energy" (earth battery) / Amish off-grid',
+ 'frJTbQ':'"free energy" (earth battery)',
+ '_aZ2Eg':'"free energy" / battery-making hacks',
+ 'QJJ_Vw':'"free energy" / cooling without electricity',
+ 'zVZiXw':'off-grid (sand battery, generators)',
+ 'WQFnqQ':'survival / heat without power',
+ 'DLRPWQ':'survival / heat without power',
+ 'dCSQBA':'electric-fireplace retailer',
+ 'qjrEyQ':'seniors mobility products (electric wheelchairs, trikes)',
+ '2EPr5g':'non-English (Filipino architecture)',
+ 'V6ryqg':'Japanese local news',
+ 'PJqeMg':'phone reviews (non-English)',
+ 'juLUZQ':'home-renovation TV',
+ '3WQ3sw':'home-renovation TV',
+ 'W4_WTw':'weather news',
+ 'O-fUdA':'personal finance',
+ 'pNP5-Q':'career talk',
+ 'hE_J-w':'audio gear',
+ 'U_JydQ':'e-bike reviews',
+ '6DeluA':'electronics (power-supply circuits)',
+ 'Cp4ZLw':'electronics repair (non-US, mixed language)',
+ 'IqDaFg':'electronics soldering',
+ 'Dr Chris':'',
+}
+CORE = {}
+PARTIAL = {}
+NONEN = {'cw9P5A':'Spanish (Argentina)','Bkx1GQ':'Russian','Q_OAxQ':'Russian','MLRxGA':'Korean','77o3UA':'Korean','-jzsmA':'Italian',
+ 'lXWkVg':'French','1vr6Kw':'German','BRZYag':'Spanish (Spain)','036B1g':'Portuguese (Brazil)','qgUjkQ':'Telugu (India)'}
+for k,v in NONEN.items():
+    OUT[k] = f'non-English channel ({v}; description in that language; titles shown in English are YouTube translations for an en-US page load)'
+OUT.update({
+ 'EdflzQ':'electronics hobby (one LiPo danger video)', 'MQPKdw':'electronics hobby', 'eteQPA':'electronics / radio', 'A_8z3Q':'battery stunts',
+ 'Bealpw':'automotive lighting', 'xf-4yw':'police/fire bodycam news', 'X1iI-A':'electrical-industry promo (NECA/IBEW)', 'zGHQCg':'energy-tech news',
+ 'g_p0Ng':'tool tests (no in-scope electrical topic)', 'YNqZOQ':'small-engine / generator repair', '8fwt6g':'solar and power stations',
+ 'rTJF9g':'power-station and backup-power reviews', 'hh8XZg':'China vlog (one e-bike fire video)',
+})
+OUT.update({'4xe1-A':'storm / grid-outage lineman persona', 'RSp-EQ':'hydroelectric engineering', 'Paq1Vw':'off-grid solar batteries',
+ 'F5W5vQ':'industrial controls (PLC/VFD)'})

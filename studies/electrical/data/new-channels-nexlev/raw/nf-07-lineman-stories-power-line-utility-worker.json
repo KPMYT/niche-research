@@ -1,0 +1,2908 @@
+{
+ "niche": "lineman stories power line utility worker",
+ "confidence": 0.69,
+ "channels": [
+  {
+   "ytChannelId": "UCr9iCr0odsB6IQ_37ULOrUA",
+   "title": "Kilowatt Nation",
+   "description": "How America got electricity \u2014 and who paid for it.\n\nKilowatt Nation tells the story of the American power grid through the people who built it, the money and deals that shaped it, and the nights it failed. Rural electrification and the farm cooperatives that strung their own lines. The utility empires, the men who ran them, and the bargains that decided who owns the wire outside your house. The great blackouts \u2014 1965, New York in 1977, the Northeast in 2003, Texas in 2021 \u2014 reconstructed minute by minute from official reports, archival photographs and the accounts of those on shift.\n\nEvery episode is a long-form documentary on American electrical infrastructure and industrial history: power plants, dams, transmission lines, substations and the companies behind them, from the first city systems of the 1880s to the grid we depend on now. Sourced from public archives and government investigations, told for anyone who has worked in this industry \u2014 or lost power because of it.",
+   "username": "KilowattNation",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/Kpke1PsIgtEaohDu4pBjjzV1ZbtS-6AM5bh6PISkGB5akE_NIhtFZOg8AUnJEW7iHwpHtz2iEw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-09-08",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "human",
+   "outlierScore": 0,
+   "tags": [
+    "engineering",
+    "infrastructure",
+    "history",
+    "science"
+   ],
+   "googleTrendsKeyword": "electricity",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1750,
+    "monthlyRevenue": 1000.57,
+    "monthlyViews": 229409,
+    "totalViews": 228802,
+    "totalVideos": 25,
+    "avgViewsPerVideo": 13664.71,
+    "medianViewsPerVideo": 2000,
+    "avgVideoLength": 1366.35,
+    "uploadsPerWeek": 3,
+    "firstVideoDate": "2026-09-20",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7.2,
+     "total": 4.3615
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "NGtn3dYwMeM",
+     "video_title": "What Actually Moves Through a 500,000-Volt Power Line?",
+     "video_view_count": 106000,
+     "video_upload_date": "2026-09-29T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NGtn3dYwMeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIPxy1Tqp__4nAN6pvOP6jHi2nzg&usqp=CBQ",
+     "length_text": "20:17"
+    },
+    {
+     "video_id": "vMrxKkT7M78",
+     "video_title": "What Actually Happens Under a 500,000-Volt Power Line?",
+     "video_view_count": 48000,
+     "video_upload_date": "2026-10-12T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vMrxKkT7M78/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfFKcxcidOyFWVyHAq4AEef3Nmcg&usqp=CBQ",
+     "length_text": "17:07"
+    },
+    {
+     "video_id": "gN04BAaeACU",
+     "video_title": "What Actually Happens Inside a 500,000-Volt Substation?",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-10-07T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/gN04BAaeACU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX_sipCZL67INZNId5fqm1_sMT4w&usqp=CBQ",
+     "length_text": "18:25"
+    },
+    {
+     "video_id": "rZuEHbBrQQQ",
+     "video_title": "You'll Finally Understand the Transformer on Your Power Pole",
+     "video_view_count": 23000,
+     "video_upload_date": "2026-10-18T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rZuEHbBrQQQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAM8pNndAGL5IhocxBT0sBQAtw4Q&usqp=CBQ",
+     "length_text": "21:24"
+    },
+    {
+     "video_id": "1B2YoNcFI8A",
+     "video_title": "What Actually Happens When the Whole Grid Slows Down?",
+     "video_view_count": 5000,
+     "video_upload_date": "2026-10-14T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1B2YoNcFI8A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3yqfdxQFhmSkzKzYlgoml4nudRg&usqp=CBQ",
+     "length_text": "18:18"
+    }
+   ],
+   "score": 0.7285933494567871,
+   "createdAt": "2026-10-11T04:22:38.716920",
+   "updatedAt": "2026-10-20T00:04:42.186950"
+  },
+  {
+   "ytChannelId": "UClpBI_QHhMq2_LcMMwmr6Og",
+   "title": "Walt Brennan",
+   "description": "My name is Walt Brennan. Thirty-two years I pulled wire and read meters for the same utility that mails you the bill.\n\nI've been inside more walls than I can count, and I've stood in enough burned-out bedrooms to know most of them started with a three-dollar part nobody looked at.\n\nThis channel is what I saw in those walls. Plain talk, real numbers, no upsell. What it costs at the store, what it costs if you leave it, and the one question to ask before anybody sells you a new panel.\n\nTell me what year your house was built. I read every comment.",
+   "username": "Walt-Brennan",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/uOkOTaNeKALePRs9jLlxrVoN304ohIqSoYaUI0NXmsyfWBnU_h7VGVcoujEY4oOBTOjmDecU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2017-01-12",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": null,
+   "outlierScore": 0.56,
+   "tags": [
+    "engineering",
+    "do it yourself",
+    "education",
+    "healthcare industry"
+   ],
+   "googleTrendsKeyword": "home electrical safety",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 1570,
+    "monthlyRevenue": 1283.62,
+    "monthlyViews": 215383,
+    "totalViews": 188856,
+    "totalVideos": 24,
+    "avgViewsPerVideo": 7840.71,
+    "medianViewsPerVideo": 2300,
+    "avgVideoLength": 1372.29,
+    "uploadsPerWeek": 4.5,
+    "firstVideoDate": "2026-09-20",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 7.2,
+     "total": 5.9597
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "p7x4nvpCoDg",
+     "video_title": "STOP Using Power Strips Like This   Retired Utility Man Explains",
+     "video_view_count": 74000,
+     "video_upload_date": "2026-10-06T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/p7x4nvpCoDg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC63w0i-yWMtZNU-kGYBQ2irI2Nyg",
+     "length_text": "21:14"
+    },
+    {
+     "video_id": "JsJc9JbpfvA",
+     "video_title": "The 5 Outlet Habits That Start House Fires Years Later",
+     "video_view_count": 28000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JsJc9JbpfvA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGL_oNO3soWDql6ZAJvzonHSmb3w",
+     "length_text": "19:17"
+    },
+    {
+     "video_id": "xj2iE_Je-vk",
+     "video_title": "The Only 3 Things in Your House That Need a Surge Protector And the One Box That Covers",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-10-08T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xj2iE_Je-vk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPt9cg46JrKq5XMNKoJmKs28jgvA",
+     "length_text": "24:27"
+    },
+    {
+     "video_id": "JXA5_znDL6E",
+     "video_title": "STOP Running Your Dryer Like This \u2014 Retired Utility Man Explains",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-10-15T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JXA5_znDL6E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ7p8E_sObegSmuaKngt0aJVDqYA",
+     "length_text": "23:33"
+    },
+    {
+     "video_id": "JgHUTjV9KSY",
+     "video_title": "The 89 Cent Outlet Is the One That Burns What to Ask For Instead",
+     "video_view_count": 11000,
+     "video_upload_date": "2026-10-09T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JgHUTjV9KSY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF8NArZhi85aPxGAbdlfoBrT4NtQ",
+     "length_text": "23:05"
+    }
+   ],
+   "score": 0.7147850394248962,
+   "createdAt": "2026-09-21T16:13:33.687164",
+   "updatedAt": "2026-10-20T00:13:07.715512"
+  },
+  {
+   "ytChannelId": "UCs7H-GVoYk7kX3_bALyvVUQ",
+   "title": "Forgotten Blue Collar America",
+   "description": "This is the America that built the country with its hands. Steel mills, rail yards, auto plants, coal mines, shipyards. Men who punched a clock at 6 a.m., carried a lunch pail, and came home with grease under their fingernails and pride in their work.\n\nThat world is gone now. The factories are silent. The whistles don't blow anymore. The foremen, the unwritten rules, the lunch pail customs, the brotherhood of the shop floor. Most of it vanished within a single generation, and nobody wrote it down.\n\nWe bring it back. Every video uncovers the forgotten rules, lost rituals, and vanished traditions of blue-collar American workplaces from the 1920s through the 1970s.\n\nSubscribe and help us keep the memory of blue collar America alive before the last man who lived it is gone",
+   "username": "ForgottenBlueCollarAmerica",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/QGAG0vU1E9BgRd4KsufMiaY4CspeXwtGnQmxrlco1ugwqh1A93LvYtAkZ-umk1nWLZsXPcxoQw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-05-26",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "history",
+    "society",
+    "lifestyle",
+    "educational"
+   ],
+   "googleTrendsKeyword": "history",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 379,
+    "monthlyRevenue": 0,
+    "monthlyViews": 1633,
+    "totalViews": 73089,
+    "totalVideos": 17,
+    "avgViewsPerVideo": 4232.82,
+    "medianViewsPerVideo": 831,
+    "avgVideoLength": 1392.41,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-06-19",
+    "lastVideoDate": "2026-07-19",
+    "rpm": {
+     "base": 7,
+     "total": 2.6352
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "MgceIdX8Ors",
+     "video_title": "The UNSPOKEN Rules Every 1950s Truck Driver Followed",
+     "video_view_count": 26000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/MgceIdX8Ors/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmI8fhMSwKeqLzh5zF5-FXNQ4yOA",
+     "length_text": "21:59"
+    },
+    {
+     "video_id": "vlvcyAQasdk",
+     "video_title": "The UNSPOKEN Rules Every 1960s Railroad Man Followed on the Line",
+     "video_view_count": 19000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vlvcyAQasdk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHeJhMrszXiDVaxgXmVlMviup_Sg",
+     "length_text": "24:08"
+    },
+    {
+     "video_id": "xVbokNLPKvw",
+     "video_title": "25 FORGOTTEN Rail Yard Jobs American Men Did by Hand Before Machines Took Over",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xVbokNLPKvw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQZt3rpK4YhXN68wNQuyIyKIr2MQ",
+     "length_text": "21:37"
+    },
+    {
+     "video_id": "UUFcqCZQ9Hs",
+     "video_title": "The UNSPOKEN Rules Every 1950s Factory Worker Followed",
+     "video_view_count": 4000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UUFcqCZQ9Hs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANPm1z6pAhWGk8ND1wBfsVWJv8sw",
+     "length_text": "24:30"
+    },
+    {
+     "video_id": "i3GtJx_sdNc",
+     "video_title": "The UNSPOKEN Rules Every 1962 American Train Telegraph Operator Followed at the Lonely Station",
+     "video_view_count": 1800,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/i3GtJx_sdNc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1JNDA7prfX9UrVaqF5Zis248lbQ",
+     "length_text": "27:14"
+    }
+   ],
+   "score": 0.7018769383430481,
+   "createdAt": "2026-07-11T06:17:11.886142",
+   "updatedAt": "2026-10-19T19:52:13.351600"
+  },
+  {
+   "ytChannelId": "UCpe0aWn20VOnj9s1CR-vb7Q",
+   "title": "Prepared Dale",
+   "description": "Running on your own power without getting ripped off. Generators, batteries and solar. What's built to last, what's built to sell, and what quietly quits when you need it.",
+   "username": "PreparedDale",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/nJtZlqVKUOxCcgF9h-o9I_tIQO8Iq_hrZupl-gLBw3bfym1waDaKlR9MDs7ipB1q5TC_zewnBuI=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-08-04",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": "human",
+   "outlierScore": 0.5,
+   "tags": [
+    "engineering",
+    "automotive business",
+    "small business",
+    "energy industry"
+   ],
+   "googleTrendsKeyword": "generator",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 11,
+    "name": "commentary"
+   },
+   "stats": {
+    "subscribers": 1910,
+    "monthlyRevenue": 444.56,
+    "monthlyViews": 81429,
+    "totalViews": 257242,
+    "totalVideos": 45,
+    "avgViewsPerVideo": 5667.93,
+    "medianViewsPerVideo": 1200,
+    "avgVideoLength": 1350.11,
+    "uploadsPerWeek": 4.75,
+    "firstVideoDate": "2026-08-20",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 5.4595
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "aeMwTKYH9iU",
+     "video_title": "7 CHEAP Power Stations That HUMILIATE Jackery \u2014 #2 Ran a Fridge OVERNIGHT (For Under $300)",
+     "video_view_count": 64000,
+     "video_upload_date": "2026-08-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/aeMwTKYH9iU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDVJlP-E6PctEWFQdY5Inf4wc-S_A",
+     "length_text": "21:33"
+    },
+    {
+     "video_id": "2Wgot042lSg",
+     "video_title": "9 Backup Power Upgrades Off-Grid Homes Never Waste Money On \u2014 That Americans Buy Every Blackout",
+     "video_view_count": 45000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2Wgot042lSg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB8tlD3-bEUBDT0_IbuHcTH5-2Dvw",
+     "length_text": "22:59"
+    },
+    {
+     "video_id": "1AttlSNhEsY",
+     "video_title": "13 Unsafe Backup Power Items Americans Should AVOID Every Outage \u2014 Electrician Advice",
+     "video_view_count": 22000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1AttlSNhEsY/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDU580aKQAY-a53rO3BcfvfWnxX3g",
+     "length_text": "19:43"
+    },
+    {
+     "video_id": "xHXMPUQ1Src",
+     "video_title": "Your Power Station Will Die If You Don't Do These 5 Things Before October",
+     "video_view_count": 19000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xHXMPUQ1Src/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB4KJjv5uXKzGxWH_kBMimaqMs7ig",
+     "length_text": "19:03"
+    },
+    {
+     "video_id": "5halI-3f1TA",
+     "video_title": "Your Whole Blackout Setup Will Die If You Don't Do These 6 Things Before Winter",
+     "video_view_count": 14000,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/5halI-3f1TA/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB7-7N1mvmbvs-1YLEkKOMR4jnzmw",
+     "length_text": "26:13"
+    }
+   ],
+   "score": 0.699491024017334,
+   "createdAt": "2026-10-14T10:19:47.968624",
+   "updatedAt": "2026-10-20T00:09:07.708623"
+  },
+  {
+   "ytChannelId": "UCBogoQPQkNCewQzVXX1iI-A",
+   "title": "ElectricTV",
+   "description": "Electric TV is a jointly funded online video platform by NECA and the IBEW where we produce short video features on the work of local NECA contractors and IBEW craftsmen and women. At ETV, we're looking to showcase stories that include NECA & IBEW working together to create the best electrical teams in the nation. \n\nThe videos featured on the ElectricTV YouTube channel demonstrate the value of using a team that delivers quality products at fair prices and offers commitment, a high standard of craftsmanship\u2014no matter the type or size of job. \n\nThe training arm of Powering America is the electrical training ALLIANCE, which has assisted more than 350,000 apprentices achieve journeyman status through local affiliate programs. Electrical apprenticeships combine college-level learning\u2014and credits\u2014with on-the-job training and provides a chance to earn money while training.",
+   "username": "ElectricTVonline",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nzpTPigY4I_wjrqTnOV-uE3KWDiu4SGV4DeWorc2ulunA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2012-02-07",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 15.59,
+   "tags": [
+    "engineering",
+    "infrastructure",
+    "tech",
+    "business"
+   ],
+   "googleTrendsKeyword": "Electrical Industry",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 7680,
+    "monthlyRevenue": 0,
+    "monthlyViews": 109503,
+    "totalViews": 52282292,
+    "totalVideos": 443,
+    "avgViewsPerVideo": 122409.94,
+    "medianViewsPerVideo": 54000,
+    "avgVideoLength": 225.28,
+    "uploadsPerWeek": 1.75,
+    "firstVideoDate": "2012-10-19",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 6.8,
+     "total": 3.3611
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "HplAcFouUBg",
+     "video_title": "Workforce Development: The IBEW Wants You",
+     "video_view_count": 1300000,
+     "video_upload_date": "2019-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HplAcFouUBg/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCvreFahKtmzmVmy6PJo_BvqAnaPg",
+     "length_text": "0:26"
+    },
+    {
+     "video_id": "jIwjuTByROg",
+     "video_title": "A Prosperous Future for Green Energy - Powered by the NECA / IBEW Powering America Team",
+     "video_view_count": 942000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jIwjuTByROg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDIRzA0tjxwZjf9KHuR9kTjB-4jSA",
+     "length_text": "4:11"
+    },
+    {
+     "video_id": "22iJYqixG14",
+     "video_title": "Powering the Digital Age: The NECA/IBEW Team Behind Meta\u2019s Huntsville Data Center",
+     "video_view_count": 939000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/22iJYqixG14/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTtyTRcvoiSo08bqolE1C8JrlaqQ",
+     "length_text": "5:01"
+    },
+    {
+     "video_id": "2phVoqxa5jg",
+     "video_title": "Helping Iowa State Students Find a Fulfilling Career With The Electrical Industry",
+     "video_view_count": 914000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2phVoqxa5jg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBO9J523skff8TJPflFsX4t22PsEg",
+     "length_text": "3:37"
+    },
+    {
+     "video_id": "9iC6AenhOBI",
+     "video_title": "JFK Modernization Project Takes Off with the help of NECA & IBEW",
+     "video_view_count": 880000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/9iC6AenhOBI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVtAZQu_9ozWmew6Wj8jIcDLMGUw",
+     "length_text": "3:46"
+    }
+   ],
+   "score": 0.6994431018829346,
+   "createdAt": "2025-02-07T14:42:25.011821",
+   "updatedAt": "2026-10-19T15:05:06.206838"
+  },
+  {
+   "ytChannelId": "UCo7Ae1yNG-qICNH4H7cx48g",
+   "title": "The Working Man's Code",
+   "description": "Welcome to The Working Man's Code, a fully owned media property. All content is original and produced exclusively by our team. We explore the unwritten rules, trade secrets, hard-earned wisdom, and forgotten skills of classic American blue-collar workers\u2014from factory floors and steel mills to railroads, coal mines, and long-haul trucking.\n\nOur Production Process:\nWe handle every step of the creative cycle in-house:\n\nResearch & Scripting: In-depth historical research into industrial archives, trade union history, and blue-collar oral histories for 100% original scripts.\n\nVoiceover & Audio: Recorded in-house by the channel owner in a grounded, authentic, and respectful tone.\n\nVisual Editing: Professional suites (Premiere/After Effects) combining archival photographs, historical film clips, and custom graphics into immersive documentary breakdowns.\n\nLicensed Assets: All third-party assets are fully licensed.\n\nInquiries: nostalgicoperations@gmail.com",
+   "username": "TheWorkingMansCode",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/q38mtY9TBLAfys87RdcbnQ7AExy-bf08svVs60_a2jWVpjBSnBmii8joVZzVnxeWSEGGX0wY=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-03",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.24,
+   "tags": [
+    "history",
+    "society",
+    "lifestyle",
+    "documentary"
+   ],
+   "googleTrendsKeyword": "working men",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 2750,
+    "monthlyRevenue": 997.24,
+    "monthlyViews": 209324,
+    "totalViews": 861683,
+    "totalVideos": 38,
+    "avgViewsPerVideo": 23214.08,
+    "medianViewsPerVideo": 10300,
+    "avgVideoLength": 1818.21,
+    "uploadsPerWeek": 3.75,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7,
+     "total": 4.7641
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "QTBN4UR7t24",
+     "video_title": "25 Unspoken Rules Every 1960s Construction Worker Followed That Would Get You Fired Today",
+     "video_view_count": 119000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QTBN4UR7t24/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALiwOZwVAeW4btIvPikqbd0WUc1A",
+     "length_text": "28:32"
+    },
+    {
+     "video_id": "Bkft1e4gJ10",
+     "video_title": "25 Unspoken Rules Every 1950s Factory Man Followed That Would Get You Fired Today",
+     "video_view_count": 80000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Bkft1e4gJ10/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlbm3qErRrXvnnTn80D44S3yKCXg",
+     "length_text": "32:23"
+    },
+    {
+     "video_id": "pzobHe-6ZXM",
+     "video_title": "20 Ways Old-School Foremen Tested New Workers That Would Never Be Allowed Today",
+     "video_view_count": 75000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pzobHe-6ZXM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArZBQZvEJG96aHmqeyYSg9LVFZyQ",
+     "length_text": "24:52"
+    },
+    {
+     "video_id": "fX4I00LUcNI",
+     "video_title": "25 Tricks Old-School Truckers Used Before GPS That Modern Drivers Can't Imagine",
+     "video_view_count": 64000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/fX4I00LUcNI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADTAcU6q8FNfhCUXnY5VnfE6bpMg",
+     "length_text": "32:27"
+    },
+    {
+     "video_id": "r0Sn6VyNbk8",
+     "video_title": "25 \"Illegal\" Shortcuts Old Railroad Men Used That Kept America's Trains Running",
+     "video_view_count": 62000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/r0Sn6VyNbk8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEPRmYU0QNTFVbM7OgWe2n6kkREw",
+     "length_text": "31:18"
+    }
+   ],
+   "score": 0.6955050230026245,
+   "createdAt": "2026-08-28T04:11:57.201448",
+   "updatedAt": "2026-10-19T20:30:31.634848"
+  },
+  {
+   "ytChannelId": "UCpKL--5lRTZSSvU4uPy7jbA",
+   "title": "lexi abreu",
+   "description": "NY | Commercial & Residential Electrician",
+   "username": "lextheelectrician",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/QN2BLDZ12CwGTOZ_hFmCkzYwKNHjzpuZ2k9LNs5Qal4NksrPh1Mwc3ZlFX7QmpNllnmlpNT8uw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2022-03-23",
+   "isMonetizationEnabled": false,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": true,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.42,
+   "tags": [
+    "do it yourself",
+    "autos",
+    "urban living",
+    "lifestyle"
+   ],
+   "googleTrendsKeyword": "Electrician",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 211000,
+    "monthlyRevenue": 0,
+    "monthlyViews": 315582,
+    "totalViews": 50354822,
+    "totalVideos": 365,
+    "avgViewsPerVideo": 46551.4,
+    "medianViewsPerVideo": 24000,
+    "avgVideoLength": 565.63,
+    "uploadsPerWeek": 0.25,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-09-28",
+    "rpm": {
+     "base": 1.8,
+     "total": 2.7267
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "OV-utRY4A04",
+     "video_title": "FULL BURNT PANEL CHANGE \ud83e\udee1",
+     "video_view_count": 321000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OV-utRY4A04/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATV0p64xrKs9WlDG3CUkPEq3-mfw",
+     "length_text": "13:54"
+    },
+    {
+     "video_id": "MB6p3dHoGsw",
+     "video_title": "Troubleshooting 480v Light poles",
+     "video_view_count": 272000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/MB6p3dHoGsw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDHTTgQitZkccRZsRPpJOfLhIoStw",
+     "length_text": "2:57"
+    },
+    {
+     "video_id": "2nWBAwwUKJM",
+     "video_title": "Full Outdoor Kitchen Wiring",
+     "video_view_count": 269000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2nWBAwwUKJM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC37ttFd4HS-9tjajLZExh4fgBxOg",
+     "length_text": "7:33"
+    },
+    {
+     "video_id": "yvQcpjjYkPc",
+     "video_title": "24kw generac generator install",
+     "video_view_count": 233000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yvQcpjjYkPc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDawAeN7WoOr64pp2QG1IU0JEcnPQ",
+     "length_text": "10:56"
+    },
+    {
+     "video_id": "HbZdgJMhX34",
+     "video_title": "Full Saturday Day in the Life",
+     "video_view_count": 168000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HbZdgJMhX34/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLASGv7cTGBUAfeovOAz3PDa_R8tkA",
+     "length_text": "23:00"
+    }
+   ],
+   "score": 0.6929056644439697,
+   "createdAt": "2023-08-18T21:08:36.322120",
+   "updatedAt": "2026-10-19T07:27:51.703243"
+  },
+  {
+   "ytChannelId": "UCjX31R55NQ5LjI3XG8cnuzQ",
+   "title": "Wow IT HAPPENED",
+   "description": "",
+   "username": "wowithappened",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/AaQ76fZ94s1ZYjBo3iUVLF2TQeQUwnS-aHy-VjRNIJv3zMIDh5K1fs1i4zi0xpkDi588RtgR=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2021-07-16",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "low",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2.79,
+   "tags": [
+    "drama",
+    "storytelling",
+    "humor & comedy",
+    "workplace humor"
+   ],
+   "googleTrendsKeyword": "Workplace Drama",
+   "category": {
+    "id": 9,
+    "name": "theatre"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 7630,
+    "monthlyRevenue": 0,
+    "monthlyViews": 264,
+    "totalViews": 3601226,
+    "totalVideos": 335,
+    "avgViewsPerVideo": 10503.05,
+    "medianViewsPerVideo": 9500,
+    "avgVideoLength": 806.21,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 2.3,
+     "total": 4.5018
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "GdiMxWp-Upg",
+     "video_title": "New Boss Forgot Only I Know Work Instructions & Fired Me. He Needs 3 People To Replace Me Alone r/MC",
+     "video_view_count": 39000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/GdiMxWp-Upg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdUgzPdQuI2WwWZOExZG8YZvPsGQ",
+     "length_text": "13:42"
+    },
+    {
+     "video_id": "2lHzKHeccd0",
+     "video_title": "Boss Fired Me While I Was at a Doctor\u2019s Office & Demands Company Property! I Have Big Surprise! r/PR",
+     "video_view_count": 37000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2lHzKHeccd0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiOAIPBo2BmEiJ3hz8m3jaCO1mEw",
+     "length_text": "13:18"
+    },
+    {
+     "video_id": "z_yABOo5s1o",
+     "video_title": "New Assistant Manager Forgot What Role I Was Hired For & CHANGES my Schedule! Well Ask The Boss r/MC",
+     "video_view_count": 35000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/z_yABOo5s1o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3s_JJG0l1llyVqK4arYxrefoinw",
+     "length_text": "13:49"
+    },
+    {
+     "video_id": "hBkLtjJ0xmY",
+     "video_title": "Boss Fired Me! He Forgot I Am The Only Engineer In Country Who Can FIX a Very High-End Machine! r/EP",
+     "video_view_count": 28000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/hBkLtjJ0xmY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFTz9TRXJPauvtKRe6N5AvuAFWxw",
+     "length_text": "12:43"
+    },
+    {
+     "video_id": "NRzhUuVI5dk",
+     "video_title": "New Boss Threatens to Delete my Code ! I Am The Only IT Guy Who Can Solve His IT Problem ! r/MC",
+     "video_view_count": 27000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NRzhUuVI5dk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZMVBCNrMcJIDHrdh1RDIjN3ggOA",
+     "length_text": "13:19"
+    }
+   ],
+   "score": 0.691817045211792,
+   "createdAt": "2023-03-29T23:07:35.946402",
+   "updatedAt": "2026-10-19T06:49:44.254983"
+  },
+  {
+   "ytChannelId": "UCeNajNG0TOtPY5TuRfHwt-A",
+   "title": "Steel & Sweat",
+   "description": "America wasn't built in boardrooms. It was built in the dark, inside furnaces, under 40-ton machines, by men who knew the odds weren't in their favor.\nSteel & Sweat tells the stories of the machines, the industries, and the workers that forged the United States into the most powerful industrial nation on Earth \u2014 and the brutal price paid to get there.\nFrom the smoking blast furnaces of Pittsburgh to the death-trap logging camps of Michigan. From the 3,000-horsepower boiler monsters that turned factories into time bombs to the steam hammers that rattled men's teeth from a block away. These machines were engineering marvels. They were also killing machines.\nEvery video is a deep dive into a forgotten corner of American industrial history \u2014 told with the detail, drama, and respect these stories deserve.",
+   "username": "SteelAndSweatTV",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/0F0xewSFfjaH6MaOp_D7DHU7LJGgEn5pGHbEswIXl0mRz30UGT1VehaDnZt6u_7uwIcD0dJQGbE=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2025-10-15",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.28,
+   "tags": [
+    "history",
+    "engineering",
+    "culture",
+    "technology"
+   ],
+   "googleTrendsKeyword": "industry",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 2760,
+    "monthlyRevenue": 470.02,
+    "monthlyViews": 246961,
+    "totalViews": 500210,
+    "totalVideos": 95,
+    "avgViewsPerVideo": 5233.04,
+    "medianViewsPerVideo": 1000,
+    "avgVideoLength": 1410.95,
+    "uploadsPerWeek": 3.5,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7,
+     "total": 1.9032
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "sxpvFmH9UsY",
+     "video_title": "50-Ton Gold Dredges Are Still Sitting in California's Rivers \u2014 Abandoned Where They Stopped",
+     "video_view_count": 170000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/sxpvFmH9UsY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgjIpeHUBhjg6gQg4KgB&rs=AOn4CLCVrbRm3n7nFkKkcBCEsc8t690-fA&usqp=CBU",
+     "length_text": "20:55"
+    },
+    {
+     "video_id": "Wmf4M0BOx2c",
+     "video_title": "The Deadliest Light Nobody Feared : America's First Arc Furnace",
+     "video_view_count": 59000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Wmf4M0BOx2c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgiY-unNBhjg6gQg4KgB&rs=AOn4CLD9Wi3djYZjc5IT3UNt67sYbWrMSw&usqp=CBU",
+     "length_text": "24:37"
+    },
+    {
+     "video_id": "VJ0ISfeuCv8",
+     "video_title": "The Deadliest Machine Nobody Feared : The Bessemer Converter",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/VJ0ISfeuCv8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgif2vzMBhjg6gQg4KgB&rs=AOn4CLCv-aZk-8JwWYRytEPuqAetqB8JOg&usqp=CBU",
+     "length_text": "22:05"
+    },
+    {
+     "video_id": "my4xm7jEHhM",
+     "video_title": "The Deadliest Spinning Giant Nobody Feared : 56 Ton Flywheel",
+     "video_view_count": 27000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/my4xm7jEHhM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgiM6fvMBhjg6gQg4KgB&rs=AOn4CLDT_tvtojXyCqAjbsGvVA9wuPmt0A&usqp=CBU",
+     "length_text": "23:09"
+    },
+    {
+     "video_id": "jDMihHnG02A",
+     "video_title": "The Snow Sheds: 37 Miles of Wooden Tunnels Built to Stop Trains Being Buried in the Sierra",
+     "video_view_count": 25000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jDMihHnG02A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBqLzl_8DDgi63erUBhjg6gQg4KgB&rs=AOn4CLALg3vYttCyoaXA91qI9f_AXs_L_A&usqp=CBU",
+     "length_text": "21:36"
+    }
+   ],
+   "score": 0.6912367343902588,
+   "createdAt": "2026-04-10T21:09:53.641740",
+   "updatedAt": "2026-10-19T18:59:23.567094"
+  },
+  {
+   "ytChannelId": "UCm0a5Pv8kgZ3krvyCM6TNww",
+   "title": "Power & Heart Stories",
+   "description": "Power & Heart Stories is a storytelling platform where strength meets emotion. Our stories bring together powerful characters, deep feelings, and life-changing moments that touch the heart and inspire the soul. From billionaire dramas to emotional family journeys, every story is crafted to show that true power isn\u2019t just about wealth or status\u2014it\u2019s about love, courage, sacrifice, and humanity.\n\nDive into a world filled with intense emotions, unexpected twists, and unforgettable lessons. Whether it\u2019s a story of revenge, redemption, heartbreak, or hope, Power & Heart Stories will keep you hooked from beginning to end.\n\n\u2728 Where power speaks\u2026 and the heart answers.",
+   "username": "Nachtgeheimnisse-q9r",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ijEwJVKgRN9HZEh-_IZ6GId36ebE8KxlAtQtcF327JpdfIHIKN7Z4vuRIMIy1BLUaiB8VFFGJg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-06-14",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_images",
+   "editingVoice": "ai",
+   "outlierScore": 0.6,
+   "tags": [
+    "stories",
+    "drama",
+    "business",
+    "investing"
+   ],
+   "googleTrendsKeyword": "revenge story",
+   "category": {
+    "id": 294,
+    "name": "life stories"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 1900,
+    "monthlyRevenue": 289.91,
+    "monthlyViews": 128448,
+    "totalViews": 1048750,
+    "totalVideos": 124,
+    "avgViewsPerVideo": 9564.8,
+    "medianViewsPerVideo": 2100,
+    "avgVideoLength": 287.1,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-07-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 5,
+     "total": 2.257
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "tqfITCJ1UN0",
+     "video_title": "CEO Ordered a Single Dad's Locker Opened in Front of Everyone\u2014Then One Discovery Changed Everything",
+     "video_view_count": 179000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/tqfITCJ1UN0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX15im5v6fMAowwPgqX5xTuHyQcw",
+     "length_text": "4:50"
+    },
+    {
+     "video_id": "mY54Fdi11wA",
+     "video_title": "She Fired a Single Dad to Celebrate Her Power \u2014 Then the CEO Asked One Question That Changed Everyth",
+     "video_view_count": 124000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mY54Fdi11wA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ZALlMVKqoLpX5wnrFlj67cl6VQ",
+     "length_text": "4:58"
+    },
+    {
+     "video_id": "Ac_dp_2mtOQ",
+     "video_title": "CEO Mocked a Single Dad as \u201cPoor\u201d \u2014 Minutes Later, He Destroyed Her $200 Million Deal",
+     "video_view_count": 72000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Ac_dp_2mtOQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2MnDu-NEU8rCTa3wbi1DW-RGH4w",
+     "length_text": "4:48"
+    },
+    {
+     "video_id": "fKto0klr7Ik",
+     "video_title": "CEO Fired a Single Dad's Daughter on Her First Day \u2014 Minutes Later, the Board Revealed She Owned the",
+     "video_view_count": 71000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/fKto0klr7Ik/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKwPQf-jz_YA3Og6hDzL2ExPZLvA",
+     "length_text": "4:41"
+    },
+    {
+     "video_id": "CnWcJfZLGYI",
+     "video_title": "Manager Called Security on a Quiet Single Dad \u2014 Then Discovered He Owned the Entire Company!",
+     "video_view_count": 41000,
+     "video_upload_date": "2026-08-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/CnWcJfZLGYI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC97rY4mw_Q6U80LWeGaLh-rvsY-w",
+     "length_text": "4:40"
+    }
+   ],
+   "score": 0.6905243992805481,
+   "createdAt": "2026-09-30T18:07:41.113833",
+   "updatedAt": "2026-10-19T22:32:42.761665"
+  },
+  {
+   "ytChannelId": "UCPNqLjD2By2yknBICAogyWw",
+   "title": "Plumb Hero",
+   "description": "A Plumbers Journey\nTucker Jay \nSharing my love for plumbing, tools, the trades and life",
+   "username": "PlumbHero",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/fj90eb6pgD3w13CW61XTW9_ZACVgTs7nilWawq1mGTYwb8atONotDcn9NqqIjr0Ca5OKKDyn=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2023-09-07",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.09,
+   "tags": [
+    "home improvement",
+    "DIY",
+    "tutorials",
+    "lifestyle"
+   ],
+   "googleTrendsKeyword": "Plumbing",
+   "category": {
+    "id": 148,
+    "name": "self improvement"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 313000,
+    "monthlyRevenue": 11033.94,
+    "monthlyViews": 4875585,
+    "totalViews": 368347599,
+    "totalVideos": 423,
+    "avgViewsPerVideo": 49907.69,
+    "medianViewsPerVideo": 6200,
+    "avgVideoLength": 207.46,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 3.9,
+     "total": 2.2631
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "gg0j4JD0Te0",
+     "video_title": "How to Replace A Corroded Tub Spout (Extremely Easy)",
+     "video_view_count": 528000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/gg0j4JD0Te0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCylYVZqoPvo1QEGRJUmD2cXqebLw",
+     "length_text": "5:13"
+    },
+    {
+     "video_id": "TThKjo7Gg8s",
+     "video_title": "Replacing a 3 Handle Shower Valve and Tub Spout",
+     "video_view_count": 270000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/TThKjo7Gg8s/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqIhhI-5xcsWaa6XLLjw1D66C93Q",
+     "length_text": "8:14"
+    },
+    {
+     "video_id": "qsYWtX5JwrQ",
+     "video_title": "How To Fix Sewer Smell In Laundry Closet",
+     "video_view_count": 243000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qsYWtX5JwrQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzvKJ-tLt-nLtb2aLbCgjz7Ay2mQ",
+     "length_text": "4:05"
+    },
+    {
+     "video_id": "deHLHGbxBdY",
+     "video_title": "Unclogging Sewer Line on Thanksgiving!",
+     "video_view_count": 228000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/deHLHGbxBdY/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4AbYIgAKAD4oCDAgAEAEYciBGKDQwDw==&rs=AOn4CLA-32SPMslm4pL6kzM3bj757w6eqg",
+     "length_text": "2:07"
+    },
+    {
+     "video_id": "uQUaotCOdUo",
+     "video_title": "This Water Main Broke From Roots | Water Main Replacement",
+     "video_view_count": 172000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/uQUaotCOdUo/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnnntk-zFUNiMSH9dHUuGPdPQ0ZQ",
+     "length_text": "3:10"
+    }
+   ],
+   "score": 0.6896283626556396,
+   "createdAt": "2024-06-06T08:07:16.975116",
+   "updatedAt": "2026-10-19T10:27:24.072873"
+  },
+  {
+   "ytChannelId": "UCtFTxxvmL_t_52MSdw7mPBA",
+   "title": "Engineer Revenge",
+   "description": "",
+   "username": "love\u59d7\u59d7",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/RFUNt__dYi4KYbyZaMwjEvXnJ5FQ9FB4ELDKRUjBdd9YqksRdLXB1LR7piDymshTeDOhCUwC=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-09-06",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "mixed",
+   "editingVoice": "ai",
+   "outlierScore": 1.51,
+   "tags": [
+    "business",
+    "small business",
+    "life stories",
+    "reality tv"
+   ],
+   "googleTrendsKeyword": "corporate drama",
+   "category": {
+    "id": 53,
+    "name": "business"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 2050,
+    "monthlyRevenue": 1001.29,
+    "monthlyViews": 462383,
+    "totalViews": 530785,
+    "totalVideos": 38,
+    "avgViewsPerVideo": 14430.19,
+    "medianViewsPerVideo": 6400,
+    "avgVideoLength": 4095.62,
+    "uploadsPerWeek": 5.5,
+    "firstVideoDate": "2026-09-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 13,
+     "total": 2.1655
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "X9Nrr1-qhi4",
+     "video_title": "They Gave the Promotion to the Boss\u2019s Brother\u2014So I Clocked Out at 5 and Let the Plant Learn My Value",
+     "video_view_count": 68000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/X9Nrr1-qhi4/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDB6YfhYgf238uxSDWQD9TRx8JAJQ",
+     "length_text": "48:59"
+    },
+    {
+     "video_id": "xWRTAIoiYnM",
+     "video_title": "My $240K Salary Was Halved. I Agreed\u2014Then Took a $720K Offer. HR Called That Night.",
+     "video_view_count": 58000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xWRTAIoiYnM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAyVYgQpwHLWKU8JZNmm65Jtx1bpg",
+     "length_text": "45:05"
+    },
+    {
+     "video_id": "rxyryQAljqU",
+     "video_title": "My Name Hit the Layoff List. I Left in 20 Minutes\u2014Then Their Biggest Project Started Falling Apart",
+     "video_view_count": 55000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rxyryQAljqU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD0wAt2q_emM34SGeBmwrEb3-bAnQ",
+     "length_text": "47:44"
+    },
+    {
+     "video_id": "bd4L03MyBTM",
+     "video_title": "My CEO Wife Fired Me in Front of the Board\u2014So I Canceled 29 Contracts Keeping Her Family Afloat",
+     "video_view_count": 40000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bd4L03MyBTM/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDcH_6-6bmX0-BgHixDbJmb-yCNYw",
+     "length_text": "47:00"
+    },
+    {
+     "video_id": "aRY_iDHmoqg",
+     "video_title": "Fired on a Business Trip, I Calmly Bought a Ticket Home. Then My Boss Called: \u201cWho Told You to Leave",
+     "video_view_count": 35000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/aRY_iDHmoqg/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCAsv1cc1iEaLf3vjvrka7wv5EXZQ",
+     "length_text": "1:32:11"
+    }
+   ],
+   "score": 0.6889640688896179,
+   "createdAt": "2026-10-02T23:28:36.918423",
+   "updatedAt": "2026-10-19T23:24:33.003375"
+  },
+  {
+   "ytChannelId": "UCQJKvRkL6U4Xk5PM0R1GQKg",
+   "title": "Old Man Storyteller",
+   "description": "Old Veteran Stories brings you gripping tales of quiet heroes hiding in plain sight. Old soldiers, farmers, and everyday Americans with classified pasts, forgotten call signs, and legendary service records \u2014 walking through everyday life unnoticed, until someone makes the mistake of underestimating them.\n\nEvery story on this channel is originally written, creatively directed, and carefully edited by a real person. We use AI tools to assist with visuals and production, but the scripts, storytelling choices, narrative structure, and editorial direction are entirely human-driven. Each video is uniquely crafted \u2014 no templates, no mass production, no recycled content. AI disclosure is made per YouTube's guidelines on every upload.\n\nAll stories are fictional, created for entertainment and inspiration. Any resemblance to real people or events is coincidental.\n\nSubscribe for more stories about amazing people with pure hearts!",
+   "username": "OldManStoryteller",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/N4llAaKrXzXdgnWiPQUWQlCjVfMb8xHfo-fXzCN-KNBIIxA-6ntcdg9lKfXBAl9U6dWEQVbiGg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-09-12",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.26,
+   "tags": [
+    "drama",
+    "history",
+    "military",
+    "myths and folktales"
+   ],
+   "googleTrendsKeyword": "Drama",
+   "category": {
+    "id": 9,
+    "name": "theatre"
+   },
+   "format": {
+    "id": 18,
+    "name": "drama"
+   },
+   "stats": {
+    "subscribers": 3460,
+    "monthlyRevenue": 4.99,
+    "monthlyViews": 1392,
+    "totalViews": 761294,
+    "totalVideos": 180,
+    "avgViewsPerVideo": 4174.08,
+    "medianViewsPerVideo": 889,
+    "avgVideoLength": 1246.3,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 3.6,
+     "total": 3.5868
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "PPLncVdQUiY",
+     "video_title": "Combat K9 Refused All Commands \u2014 Until Old Woman Veteran Spoke One Word",
+     "video_view_count": 95000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PPLncVdQUiY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARLm3G0W_Lb2B8hgaak5Fg4sp-SQ",
+     "length_text": "22:47"
+    },
+    {
+     "video_id": "PnIG5lSLFnY",
+     "video_title": "Officers Demanded Old Man's Call Sign \u2014 After He Said 'Phoenix One', The Whole Room Saluted Him",
+     "video_view_count": 87000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PnIG5lSLFnY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnniD-bbItPmdwT2TwxkA269fCsg",
+     "length_text": "17:28"
+    },
+    {
+     "video_id": "Wzg_qn3fqtQ",
+     "video_title": "SEAL Sniper Refused All Treatment \u2014 Until Nurse Whispered His Call Sign and He Went Silent",
+     "video_view_count": 85000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Wzg_qn3fqtQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtW85IJeqilKmxUyWQxRLqtbkhZw",
+     "length_text": "17:19"
+    },
+    {
+     "video_id": "fWRanHf-QYM",
+     "video_title": "General Asked Single SEAL Dad If He Ever Served As Joke \u2014 The Answer Made Him Apologize Immediately",
+     "video_view_count": 66000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/fWRanHf-QYM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbPTOONTyqiZz4E2zcQxUW5igBkA",
+     "length_text": "17:02"
+    },
+    {
+     "video_id": "V6Fl-6v2PsQ",
+     "video_title": "SEAL Refused Every Treatment and Protected His Dog \u2014 Until His K9 Saluted the New Nurse",
+     "video_view_count": 47000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/V6Fl-6v2PsQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKfpTrTPgCxBPwNUj7TTnQhNzZOg",
+     "length_text": "20:27"
+    }
+   ],
+   "score": 0.6870712041854858,
+   "createdAt": "2026-03-02T18:18:52.738039",
+   "updatedAt": "2026-10-19T18:37:48.085095"
+  },
+  {
+   "ytChannelId": "UCzDvYjtRgZ4mGuPGMioBY5A",
+   "title": "Amos Miller",
+   "description": "Hello, I\u2019m Amos Miller, a 67-year-old Amish farmer living in rural Pennsylvania.\n\nPeople outside our community often consider my family \u201cbackward\u201d because we use very little technology. I don\u2019t want them to keep misunderstanding us or assuming that we live this way because we are poor or don\u2019t know how to use modern technology.\n\nThrough this channel, I will spend the rest of my life showing that we choose not to depend on these technologies\u2014not because we don\u2019t understand how to use them. And perhaps, by watching my videos and applying these methods to your everyday life, you may save quite a bit of money along the way.\n\nTopics include food storage and preservation, frugal cooking, pantry systems, gardening, cleaning, home maintenance, seasonal living, and practical household skills. \n\nOld Ways. Real Monthly Savings.",
+   "username": "AmosMiller-q9l",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/IwtP7_QzDxU8JkqRsJM0OVImi8Wb8daEVgosFEDqLfkvEPPTLVhIKmzZMe9dxNXY-pR5PQD8IA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-07-30",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.82,
+   "tags": [
+    "do it yourself",
+    "engineering",
+    "rural living",
+    "small business"
+   ],
+   "googleTrendsKeyword": "off grid power",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 1620,
+    "monthlyRevenue": 458.31,
+    "monthlyViews": 187220,
+    "totalViews": 216595,
+    "totalVideos": 21,
+    "avgViewsPerVideo": 10560.14,
+    "medianViewsPerVideo": 2700,
+    "avgVideoLength": 1234.52,
+    "uploadsPerWeek": 2.5,
+    "firstVideoDate": "2026-09-21",
+    "lastVideoDate": "2026-10-20",
+    "rpm": {
+     "base": 3,
+     "total": 2.448
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "eyQAz6o2oxE",
+     "video_title": "SKIP the $10,000 POWERWALL \u2014 This $79 COSTCO BATTERY Can Power Your Whole House",
+     "video_view_count": 86000,
+     "video_upload_date": "2026-09-30T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/eyQAz6o2oxE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYg-_D7_Wb1xhnYrYG8N1ZGgkAqw",
+     "length_text": "21:32"
+    },
+    {
+     "video_id": "rIXiu_RkyBo",
+     "video_title": "SKIP the $3,000 POWER STATION - This $119 WALMART BATTERY Gets Your Family Through a Blackout",
+     "video_view_count": 45000,
+     "video_upload_date": "2026-10-07T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rIXiu_RkyBo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAdzH_9TKXE-9-YPNI1Mhk-du7evg",
+     "length_text": "23:19"
+    },
+    {
+     "video_id": "vUJwJ5K4xIc",
+     "video_title": "SKIP the $4,000 GENERATOR \u2014 This $60 HOMEMADE ALTERNATOR Can Power Your Cabin FOREVER",
+     "video_view_count": 18000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vUJwJ5K4xIc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCq5pUwzpt6Bje5mYMWrAOi21uR3A",
+     "length_text": "20:47"
+    },
+    {
+     "video_id": "Txh-IDifWoU",
+     "video_title": "STOP Buying $5,000 GENERATORS - This $60 AUTOZONE ALTERNATOR Powers a Whole Cabin All Winter",
+     "video_view_count": 16000,
+     "video_upload_date": "2026-10-10T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Txh-IDifWoU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLym0deADEE07ra2lj-IMgJBz-jw",
+     "length_text": "22:11"
+    },
+    {
+     "video_id": "b4OVHjUDFSY",
+     "video_title": "Why Don't SENIORS Try This $10 BUCKET OF SALT That Heats a Room All Winter \u2014 NO POWER?",
+     "video_view_count": 11000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/b4OVHjUDFSY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjn41VlH4j6x6XssT0Xh5xnfOhuQ",
+     "length_text": "22:09"
+    }
+   ],
+   "score": 0.6862952709197998,
+   "createdAt": "2026-10-21T16:22:18.122127",
+   "updatedAt": "2026-10-21T16:22:19.368517"
+  },
+  {
+   "ytChannelId": "UCGq_RFaHsaKOqmmEVWBNQzQ",
+   "title": "Jack Redfield",
+   "description": "I\u2019ve been around generators longer than most people have been dealing with power outages. Growing up in rural Tennessee, losing electricity wasn\u2019t an inconvenience \u2014 it was just part of life. By the time I was 16, I had rebuilt my first generator from a salvage yard find, and from that moment on, I was hooked.\n\nAfter 30 years in the power equipment industry \u2014 starting out selling generators at a local hardware store and eventually consulting for emergency preparedness companies \u2014 I decided it was time to take everything I\u2019ve learned and bring it to YouTube.\n\nMy motto? \u201cWhen the lights go out, you\u2019ll be glad you watched.\u201d",
+   "username": "JackRedfieldGenerators",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/EWb8yJCYBCBWOT5RQ0lNDx-pbnGdVmdue5NOP6VghDN5Gyr9ITZ-HPFNJXEl8ufJ5a8GPXLPhA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-02-24",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.32,
+   "tags": [
+    "engineering",
+    "do it yourself",
+    "automotive business",
+    "tech gadgets"
+   ],
+   "googleTrendsKeyword": "generator",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 4130,
+    "monthlyRevenue": 132.54,
+    "monthlyViews": 41308,
+    "totalViews": 297953,
+    "totalVideos": 50,
+    "avgViewsPerVideo": 5942.82,
+    "medianViewsPerVideo": 1200,
+    "avgVideoLength": 1089.84,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-06-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 3.2086
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "lVSqi7Tk2K0",
+     "video_title": "12v vs  24v Which Is The RIGHT Choice For Your Solar System",
+     "video_view_count": 185000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lVSqi7Tk2K0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqIuTG8dhk2LAwVvQl6xUNgDv1SA",
+     "length_text": "17:47"
+    },
+    {
+     "video_id": "D-mJvYQPJj0",
+     "video_title": "How to Test a Spark Plug The EASY Way (In 60 Seconds)",
+     "video_view_count": 26000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/D-mJvYQPJj0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXzUrmHixrhHB-AVnnrwybUm6teQ",
+     "length_text": "16:21"
+    },
+    {
+     "video_id": "0yuaTUN6ink",
+     "video_title": "How to Build a COMPLETE Solar System | The Easiest DIY Setup",
+     "video_view_count": 9400,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/0yuaTUN6ink/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLClEUgCJ2S3yZewDMfghQIh1S6Lvw",
+     "length_text": "17:48"
+    },
+    {
+     "video_id": "rKT9yWOHB-o",
+     "video_title": "How to Size Your Solar System The RIGHT Way",
+     "video_view_count": 7300,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rKT9yWOHB-o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXW_hmy7GKEWiQyZf-6oOLiqBN-Q",
+     "length_text": "18:28"
+    },
+    {
+     "video_id": "8ldieIYrq9k",
+     "video_title": "How to Fix a Generator With NO POWER - Step-by-Step Guide",
+     "video_view_count": 6600,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8ldieIYrq9k/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwXlu5MYFS_6b5wYyj2HoMpTek-Q",
+     "length_text": "15:31"
+    }
+   ],
+   "score": 0.6860347986221313,
+   "createdAt": "2026-10-02T02:11:52.070379",
+   "updatedAt": "2026-10-19T23:06:40.514774"
+  },
+  {
+   "ytChannelId": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "title": "ElectroTest",
+   "description": "ElectroTest: I'm an electrician and have worked for several companies (design, installation, and maintenance). Now, I work for myself as an entrepreneur. At each site, I have to  equipment and cables. Of course, there are regulatory documents and standarts, but in contentious situations, my test setup helps me. It allows me to make reliable and cost-effective decisions, which also increases the safety of electrical networks. On this channel, I will post videos testing wires, cables, circuit breakers, connections and other electrical equipment. Subscribe, and I hope you\u2019ll find it interesting!",
+   "username": "ElectroTest_1",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/K8E2sWsU_OUKiaEAPJ7cWOLgXWoK3FClqudUc3XfIdC9O2LroRDVdnRKgOZjuaaH-3LBO6Kw7g=s160-c-k-c0x00ffffff-no-rj",
+   "location": "DE",
+   "channelCreationDate": "2024-07-17",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.58,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "do it yourself",
+    "education"
+   ],
+   "googleTrendsKeyword": "Electrical Testing",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 42200,
+    "monthlyRevenue": 1255.55,
+    "monthlyViews": 494779,
+    "totalViews": 8423371,
+    "totalVideos": 84,
+    "avgViewsPerVideo": 114864.91,
+    "medianViewsPerVideo": 5900,
+    "avgVideoLength": 441.93,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.5376
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "Ej13yGyhFSk",
+     "video_title": "Test MCB 16A. ETI, SE, Hager, ABB, CHINT",
+     "video_view_count": 1800000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Ej13yGyhFSk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDT8HZhL7W27AvHBKnyrdiLIXNLUA",
+     "length_text": "5:37"
+    },
+    {
+     "video_id": "XPIM_xbMC8I",
+     "video_title": "Who Fails First? Electrician\u2019s Legend: Thin vs Thick Wire in Parallel",
+     "video_view_count": 1700000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/XPIM_xbMC8I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcDBGRYtYoV2RnN901J3dW65KlGg",
+     "length_text": "5:59"
+    },
+    {
+     "video_id": "f3LE9RHZEeU",
+     "video_title": "Original Wago or Copy? Current Test Wago 222",
+     "video_view_count": 1000000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/f3LE9RHZEeU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD01zUE7ZZPD62oMbh_kvcXA8rBxA",
+     "length_text": "6:29"
+    },
+    {
+     "video_id": "2hPfWA9iVoI",
+     "video_title": "1,5 vs 2,5 mm2 Wire in series Load test",
+     "video_view_count": 569000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2hPfWA9iVoI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-H40sUNY5ESLu-56NrrRE1Kg85Q",
+     "length_text": "10:12"
+    },
+    {
+     "video_id": "pNxglA9lhv8",
+     "video_title": "Solid vs Flexible stranded wire | Current test",
+     "video_view_count": 424000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pNxglA9lhv8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDmbJRRQzDzfXHPR7BAfLYeOZh_Q",
+     "length_text": "10:04"
+    }
+   ],
+   "score": 0.6848344802856445,
+   "createdAt": "2025-05-17T12:14:14.838181",
+   "updatedAt": "2026-10-19T17:16:05.435818"
+  },
+  {
+   "ytChannelId": "UCWO5CLl0gMmQoA1DVu8gPxQ",
+   "title": "NGITE.",
+   "description": "All NFL Stories.",
+   "username": "NGITE.",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/3oHTMxWg_IhGG1jLK1drHIIcl2r59M5jEBWCodew936VsamnOWPhD1M3P6ApXsRwTYMi7loEXeA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2024-01-22",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2.84,
+   "tags": [
+    "american football",
+    "sports",
+    "internet culture",
+    "athlete stories"
+   ],
+   "googleTrendsKeyword": "NFL",
+   "category": {
+    "id": 238,
+    "name": "american football"
+   },
+   "format": {
+    "id": 11,
+    "name": "commentary"
+   },
+   "stats": {
+    "subscribers": 6640,
+    "monthlyRevenue": 0,
+    "monthlyViews": 313803,
+    "totalViews": 6508762,
+    "totalVideos": 83,
+    "avgViewsPerVideo": 70795.7,
+    "medianViewsPerVideo": 9650,
+    "avgVideoLength": 685.24,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-01-19",
+    "lastVideoDate": "2026-08-19",
+    "rpm": {
+     "base": 4.5,
+     "total": 2.8609
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "m220WRnGck8",
+     "video_title": "\u201cDick Butkus: The NFL\u2019s Most Feared Linebacker\u201d",
+     "video_view_count": 672000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/m220WRnGck8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCC63E6T7Om-3Y9IFWX5bIDOIgJsQ",
+     "length_text": "9:53"
+    },
+    {
+     "video_id": "n_wM6g0Trp0",
+     "video_title": "\u201cWelcome to the NFL\u201d \u2014 The Moments Players Never Forget\"",
+     "video_view_count": 585000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/n_wM6g0Trp0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLArb2NwLhLgCkGYiKJfMZaoMpoKEA",
+     "length_text": "12:39"
+    },
+    {
+     "video_id": "42oQNN99kX4",
+     "video_title": "NFL Legends Reveal Their Brutal \u201cWelcome to the NFL\u201d Moments.",
+     "video_view_count": 306000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/42oQNN99kX4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNVCepgxF1_UhI9kRHOKWksGJZBg",
+     "length_text": "8:58"
+    },
+    {
+     "video_id": "yp4q4kVIhBs",
+     "video_title": "\u201cNFL Legends on Bo Jackson Greatness\"",
+     "video_view_count": 244000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yp4q4kVIhBs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCLKM1kBIFckPj0hnX23ELPPEv01g",
+     "length_text": "9:58"
+    },
+    {
+     "video_id": "iyIhqckx-Ys",
+     "video_title": "BUILT TO BREAK: NFL Legends on the Hardest Hits They Ever Took.",
+     "video_view_count": 217000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/iyIhqckx-Ys/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAw002jchfYImjvRNmx3fY778LHVQ",
+     "length_text": "7:50"
+    }
+   ],
+   "score": 0.6845563054084778,
+   "createdAt": "2025-12-28T06:37:04.560163",
+   "updatedAt": "2026-10-19T18:17:52.148308"
+  },
+  {
+   "ytChannelId": "UCJ-Nbpw-1m-Y9R1wpioKN4Q",
+   "title": "Builder Archive",
+   "description": "Every tool in your bag has a story behind it. Builder Archive is where those stories get told.\nWe dig into the companies that built the modern trades. The family workshops that turned into billion-dollar empires. The stubborn engineers who refused to cut corners. The brands electricians, welders, and builders have trusted for generations, and the reasons they earned that trust in the first place.\nFrom a hammer forged out of a single bar of steel to a German pliers maker that out-engineered the entire American market, these are the histories most people never hear. The feuds, the gambles, the quiet decisions made decades ago that still shape what you reach for on the job today.\nNew videos every few days. If you work with your hands, or just love knowing how great things get made, you're in the right place.\nSubscribe and settle in.",
+   "username": "BuilderArchive",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/9LU7At9DDq9nTsbbu43jIsogqto7Mtj5TuT6Q8HdmxzkkMhNnSVGjokiMJLDwWb-buFUmv4PI20=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-05-15",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.25,
+   "tags": [
+    "business",
+    "history",
+    "engineering",
+    "design"
+   ],
+   "googleTrendsKeyword": "tools",
+   "category": {
+    "id": 53,
+    "name": "business"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 2110,
+    "monthlyRevenue": 0,
+    "monthlyViews": 1384,
+    "totalViews": 107856,
+    "totalVideos": 16,
+    "avgViewsPerVideo": 6638.06,
+    "medianViewsPerVideo": 837.5,
+    "avgVideoLength": 1414.19,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-05-19",
+    "lastVideoDate": "2026-06-19",
+    "rpm": {
+     "base": 9.4,
+     "total": 4.5689
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "v0ca5qrrpb0",
+     "video_title": "Lincoln Electric The $4 Billion Welding Empire That Quietly Conquered Every Factory Floor",
+     "video_view_count": 53000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/v0ca5qrrpb0/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvMY&rs=AOn4CLC9yloyltT68WtnwvF2_SsR9nGs-A",
+     "length_text": "25:12"
+    },
+    {
+     "video_id": "QYh6kEtf7Do",
+     "video_title": "The Fascinating Story of Estwing, The Rockford Hammer Forged From a Single Bar of Steel",
+     "video_view_count": 31000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QYh6kEtf7Do/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvMY&rs=AOn4CLBgZnWqHE0mjqaMK-gRaYF6jvfRDg",
+     "length_text": "23:47"
+    },
+    {
+     "video_id": "hzX7TXt9Azs",
+     "video_title": "Knipex The German Pliers Cult That Outclassed Every American Toolmaker",
+     "video_view_count": 5800,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/hzX7TXt9Azs/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvMY&rs=AOn4CLDIkyZTXrqrx93kPNPT7GAFYNT0TA",
+     "length_text": "22:22"
+    },
+    {
+     "video_id": "h_XrKK8Rcl0",
+     "video_title": "The Rise and Fall of Disston, America's Saw Empire That Forgot How To Make Saws",
+     "video_view_count": 3800,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/h_XrKK8Rcl0/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvMY&rs=AOn4CLAn-KCEqcIUfJ-hsl9XtN1FUQmqig",
+     "length_text": "23:30"
+    },
+    {
+     "video_id": "NXOkJ8plyHI",
+     "video_title": "Why Are DeWalt And Milwaukee Tools So Different?",
+     "video_view_count": 3600,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NXOkJ8plyHI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvMY&rs=AOn4CLAWGPFCtNQuv7yl9I_BEDnWsBFNsw",
+     "length_text": "21:28"
+    }
+   ],
+   "score": 0.6845343112945557,
+   "createdAt": "2026-06-02T13:17:39.980912",
+   "updatedAt": "2026-10-19T19:29:28.209080"
+  },
+  {
+   "ytChannelId": "UCa8ArYAIJ1OPOYwAOfYmn0g",
+   "title": "Whispers Behind the Scrubs",
+   "description": "",
+   "username": "WhispersBehindtheScrubs",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/V015T7p_V14SM6FU7ooDwMhFoaJ3P9LnHJoSi4bv-DR-RZpeGXn_vmScX6F6hwTIfgcQe3KwAhY=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-14",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "life stories",
+    "healthcare industry",
+    "military",
+    "stories"
+   ],
+   "googleTrendsKeyword": "nurse stories",
+   "category": {
+    "id": 294,
+    "name": "life stories"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 371,
+    "monthlyRevenue": 0,
+    "monthlyViews": 48170,
+    "totalViews": 91185,
+    "totalVideos": 9,
+    "avgViewsPerVideo": 10306.89,
+    "medianViewsPerVideo": 211,
+    "avgVideoLength": 8274.67,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-08-20",
+    "lastVideoDate": "2026-09-20",
+    "rpm": {
+     "base": 9,
+     "total": 11.9987
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "24gfN1g3oPA",
+     "video_title": "CAPTAIN Struck a NURSE in Public \u2014 10 Minutes Later, GENERALS Arrived and Ended His Career",
+     "video_view_count": 87000,
+     "video_upload_date": "2026-08-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/24gfN1g3oPA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhKU9Q-05jSMOxOXRVz7ZfPcloCg&usqp=CBQ",
+     "length_text": "2:58:41"
+    },
+    {
+     "video_id": "FizAlNdxPgA",
+     "video_title": "CAPTAIN Slapped a NURSE in Public \u2014 Then Her MAJOR Rank Ended His Career in Minutes",
+     "video_view_count": 3500,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/FizAlNdxPgA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDb8ok_EYy0pOUZmcZYhkE_s2YU9Q&usqp=CBQ",
+     "length_text": "1:56:53"
+    },
+    {
+     "video_id": "Ts1ep8Tje08",
+     "video_title": "\u201cI\u2019M JUST A NURSE,\u201d She Said \u2014 Then 6 SEALs Saluted and Called Her COMMANDER",
+     "video_view_count": 1100,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Ts1ep8Tje08/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDH4bcXcV0lnftysG5MaJv6Q0mVAA&usqp=CBQ",
+     "length_text": "2:27:39"
+    },
+    {
+     "video_id": "0hU2_jHH370",
+     "video_title": "\u201cJUST A CIVILIAN NURSE\u201d \u2014 Then the COLONEL Ordered, \u201cLET HER TAKE OVER\u201d",
+     "video_view_count": 529,
+     "video_upload_date": "2026-08-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/0hU2_jHH370/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwfbXKCoYtCYezx5Fqzuv17AvhyQ&usqp=CBQ",
+     "length_text": "1:58:31"
+    },
+    {
+     "video_id": "UcVzh67MEfQ",
+     "video_title": "NURSE Fired After Saving a NAVY SEAL \u2014 24 Hours Later, Her Life Changed Forever",
+     "video_view_count": 211,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/UcVzh67MEfQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqSW9n9Coq88-sWCmgKgfZ_YgJZg&usqp=CBQ",
+     "length_text": "2:28:38"
+    }
+   ],
+   "score": 0.6837347745895386,
+   "createdAt": "2026-10-15T08:30:41.954127",
+   "updatedAt": "2026-10-20T00:12:22.990327"
+  },
+  {
+   "ytChannelId": "UCaUk8RbZdrlHwoBRilptJEQ",
+   "title": "Construction Fan",
+   "description": "Thanks you for coming to the channel Construction Fan\ud83d\ude0d\ud83e\udd29\ud83e\udd29",
+   "username": "Constructionfan_dt",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/CVM-8BfVq97tRfjN1eCXNJHJ3n1LykjpQxFqA3_y10TrNjXwXjCich4QeSQpCTFTElbiUq7HZnw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2024-05-10",
+   "isMonetizationEnabled": true,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.63,
+   "tags": [
+    "engineering",
+    "humor & comedy",
+    "recreation",
+    "vlogs"
+   ],
+   "googleTrendsKeyword": "Construction",
+   "category": {
+    "id": 164,
+    "name": "humor & comedy"
+   },
+   "format": {
+    "id": 4,
+    "name": "compilation"
+   },
+   "stats": {
+    "subscribers": 181000,
+    "monthlyRevenue": 7144.42,
+    "monthlyViews": 1801871,
+    "totalViews": 158255411,
+    "totalVideos": 296,
+    "avgViewsPerVideo": 213181.18,
+    "medianViewsPerVideo": 22000,
+    "avgVideoLength": 842.85,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-03-19",
+    "rpm": {
+     "base": 1.5,
+     "total": 3.965
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "7Op0GXZoIFk",
+     "video_title": "The perfect employee: Outstanding qualities #construction #constructionworker #constructionengineer",
+     "video_view_count": 3000000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/7Op0GXZoIFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQUT6F4aNkjGrRr7zhser4R7mxAg",
+     "length_text": "10:51"
+    },
+    {
+     "video_id": "AYqebISzJLM",
+     "video_title": "Watching this video will help you work more efficiently \ud83e\udd29 #constructionwork #smartwork #construction",
+     "video_view_count": 2300000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/AYqebISzJLM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAoAKigIMCAAQARh_IBYoEzAP&rs=AOn4CLDcVaP92IPBGHwtobLS8yKNWqfHdA",
+     "length_text": "12:36"
+    },
+    {
+     "video_id": "fvoJYcpBGuA",
+     "video_title": "Great job keep it up \ud83e\udd29 #constructionwork #constructionworker #construction #constructionengineer",
+     "video_view_count": 1900000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/fvoJYcpBGuA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ffQNSG5X5JOHBMGLx5tkp4pQqg",
+     "length_text": "18:16"
+    },
+    {
+     "video_id": "JiR9FeUTd6g",
+     "video_title": "They worked very hard but were unlucky \ud83d\ude30 #respect #construction #constructionworker #safety #danger",
+     "video_view_count": 1600000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JiR9FeUTd6g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGzwmLLX6eLzdXjMxHkP7YRvD1jA",
+     "length_text": "10:25"
+    },
+    {
+     "video_id": "_R1C16vRGu8",
+     "video_title": "These jobs can help workers earn high incomes, but do you know how scary they are? \ud83d\ude30 #construction",
+     "video_view_count": 1200000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_R1C16vRGu8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeUvVF_enSQqn2hzEOK8n7X0T8aA",
+     "length_text": "27:17"
+    }
+   ],
+   "score": 0.6824129819869995,
+   "createdAt": "2024-10-10T07:57:02.834465",
+   "updatedAt": "2026-10-19T11:15:14.653790"
+  },
+  {
+   "ytChannelId": "UC96kW-18Lrv0MHBja5bkdXw",
+   "title": "Steel & Sacrifice",
+   "description": "",
+   "username": "SteelAndSacrifice1",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/DS3wteiCa6eX2Azbn33onzLxC9_LlvEHy2dXNlyDWHVq6qLK4DGE9HQK3bJ613PT9JUp_kTU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2014-06-08",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.38,
+   "tags": [
+    "history",
+    "engineering",
+    "documentary",
+    "anomalies and alternative science"
+   ],
+   "googleTrendsKeyword": "industrial disasters",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 8370,
+    "monthlyRevenue": 313.58,
+    "monthlyViews": 127243,
+    "totalViews": 1190664,
+    "totalVideos": 105,
+    "avgViewsPerVideo": 6899.7,
+    "medianViewsPerVideo": 3300,
+    "avgVideoLength": 2195.72,
+    "uploadsPerWeek": 3.25,
+    "firstVideoDate": "2026-06-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7,
+     "total": 2.4644
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "8dPTbsULvuc",
+     "video_title": "The 3-Inch Shell Press: Black Powder Charge That Killed 133 Workers in 4 Seconds At Eddystone",
+     "video_view_count": 140000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8dPTbsULvuc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgn376Dq2VzwgDj13OIMRfxrcFZg",
+     "length_text": "23:55"
+    },
+    {
+     "video_id": "MYz6f-JIO54",
+     "video_title": "The Napalm Mixing Tank: Liquid Fire That Killed 40 Workers at Pine Bluff Arsenal",
+     "video_view_count": 122000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/MYz6f-JIO54/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4Q3kyDdxYRnBctYav_UzTnDSaHQ",
+     "length_text": "43:00"
+    },
+    {
+     "video_id": "kVFHwnSJr7Q",
+     "video_title": "The 2,300-Ton Ammonium Nitrate Ship: Explosion That Killed 581 Workers at Texas City",
+     "video_view_count": 70000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kVFHwnSJr7Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZowmN84Ggzq7q_Z_ZJZGn5QUJRA",
+     "length_text": "38:36"
+    },
+    {
+     "video_id": "m29KZwLHJlg",
+     "video_title": "The 36,000-Pound Wire Drum: Cable Snap That Killed 27 Workers Building the Brooklyn Bridge",
+     "video_view_count": 67000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/m29KZwLHJlg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHB8oCZ_AjW6u4DVyKT9R2AaUfew",
+     "length_text": "37:51"
+    },
+    {
+     "video_id": "l8nwNpoKPAY",
+     "video_title": "120 Workers Died Rolling Sherman Tank Armor \u2014 Inside Chrysler's Detroit Inferno",
+     "video_view_count": 63000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/l8nwNpoKPAY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRCKu9YMsJB3mLLXV7TKFmsJ_SWw",
+     "length_text": "38:02"
+    }
+   ],
+   "score": 0.6817417144775391,
+   "createdAt": "2026-04-12T14:20:31.610837",
+   "updatedAt": "2026-10-19T19:00:34.304973"
+  },
+  {
+   "ytChannelId": "UC8J0R4dntUluquN1MiyYKcQ",
+   "title": "Masterflow Plumbing",
+   "description": "My name is Tony and i have been a licensed master plumber in Michigan for over 30 years. America is headed towards a severe skilled trade worker shortage in the next 10 years, so i have decided to try to give back to my community by sharing some useful tips and tricks for the plumbing trade.",
+   "username": "masterflowplumbing9812",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/y-H-Cdt7JuqUa39GHRWexbvzgCvw0RWvGqnwgEdx1qrCEIP71ISE8E05ieL-4l6UGeYESejc=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2022-06-17",
+   "isMonetizationEnabled": true,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.2,
+   "tags": [
+    "do it yourself",
+    "crafts",
+    "lifestyle",
+    "tech"
+   ],
+   "googleTrendsKeyword": "Plumbing",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 15900,
+    "monthlyRevenue": 54.4,
+    "monthlyViews": 44594,
+    "totalViews": 4390858,
+    "totalVideos": 81,
+    "avgViewsPerVideo": 33168.33,
+    "medianViewsPerVideo": 12000,
+    "avgVideoLength": 624.98,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-02-19",
+    "rpm": {
+     "base": 1.8,
+     "total": 1.22
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "_Tp2716FYd0",
+     "video_title": "Compression Fitting 101: Everything You Need to Know",
+     "video_view_count": 331000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_Tp2716FYd0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDhsizQWgPPuFmH7so3F0PkSkcJg",
+     "length_text": "6:06"
+    },
+    {
+     "video_id": "JMt9ry8RfDk",
+     "video_title": "How To Tighten Gas Pipe 101 - A Quick and Easy Guide",
+     "video_view_count": 171000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JMt9ry8RfDk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo8pgkGGiGWJXSfpE0bQzljac04A",
+     "length_text": "6:40"
+    },
+    {
+     "video_id": "20qLvHMaQAk",
+     "video_title": "How To Correctly Wrap Teflon Tape",
+     "video_view_count": 166000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/20qLvHMaQAk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFi2NZ4Slt9lzC7WcMbls7vohz2A",
+     "length_text": "5:40"
+    },
+    {
+     "video_id": "lcqck5E6ens",
+     "video_title": "Everything You Need To Know About Supply Lines",
+     "video_view_count": 129000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lcqck5E6ens/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJZqkpO70aNk66QkXTSr8uJXdIig",
+     "length_text": "10:24"
+    },
+    {
+     "video_id": "yjDwlSIUc8U",
+     "video_title": "How To Use Shark Bite Fittings: The Best Tips and Advice!",
+     "video_view_count": 83000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yjDwlSIUc8U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRMRXzoYFU8yWHadkrdIIsz41rLw",
+     "length_text": "11:35"
+    }
+   ],
+   "score": 0.6813832521438599,
+   "createdAt": "2023-08-19T11:17:29.944202",
+   "updatedAt": "2026-10-19T07:52:59.385851"
+  },
+  {
+   "ytChannelId": "UCnOW3Q-L-NG-wV1CWRA0bag",
+   "title": "The Electric Brit",
+   "description": "Geordie Electrical Engineer with a passion for learning and teaching. I'm sharing insights into the UK National Infrastructure and Energy System, as well as the history and theory behind it all to hopefully inspire the next generation of Engineers, and to give the curious among us something to watch on an evening.",
+   "username": "TheElectricBrit",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/-lB8B4FqlK4DtLxDf6A7kLRUsSW9osAB2WuZOz1hx9cq4wFLHYEcsFDUtxfZrLMhHsL_W9pr9zU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2024-06-04",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.3,
+   "tags": [
+    "engineering",
+    "tech",
+    "education",
+    "renewable energy"
+   ],
+   "googleTrendsKeyword": "Power Grid",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 24200,
+    "monthlyRevenue": 57.1,
+    "monthlyViews": 25165,
+    "totalViews": 1054828,
+    "totalVideos": 33,
+    "avgViewsPerVideo": 48404.76,
+    "medianViewsPerVideo": 34000,
+    "avgVideoLength": 1279.76,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.2692
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "DK8mw07DcPQ",
+     "video_title": "How a 0.2Hz Wave Took Down Two Countries\u2019 Power Grids",
+     "video_view_count": 180000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/DK8mw07DcPQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcV59zkfrxTXwRv_d_eJQerr9N9A",
+     "length_text": "29:35"
+    },
+    {
+     "video_id": "BhzPjGiBjMk",
+     "video_title": "Everything about HVDC - Explained by an Engineer - Introduction",
+     "video_view_count": 160000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/BhzPjGiBjMk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVbCazE9NlDZsPn_PE2Lr4CHTgVg",
+     "length_text": "43:56"
+    },
+    {
+     "video_id": "22T9-oknmLM",
+     "video_title": "How to Restart the Grid after total collapse",
+     "video_view_count": 153000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/22T9-oknmLM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxZXjImv0ri9iHS6j7lOfum1bwtg",
+     "length_text": "24:02"
+    },
+    {
+     "video_id": "_Ypsc8iruc8",
+     "video_title": "Why the Electricity Board Hid a WW1 Tank",
+     "video_view_count": 78000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_Ypsc8iruc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBiriO2CIQBKrHF9oC4F2i3UvwbFg",
+     "length_text": "3:25"
+    },
+    {
+     "video_id": "pyrtqRxJt90",
+     "video_title": "Why Transformers Fail (and How to Prevent It)",
+     "video_view_count": 68000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pyrtqRxJt90/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAo_JlPevX_HmC2v7jPNly0rPdd5Q",
+     "length_text": "12:30"
+    }
+   ],
+   "score": 0.6812598705291748,
+   "createdAt": "2025-06-18T18:14:53.671698",
+   "updatedAt": "2026-10-19T17:20:46.191001"
+  },
+  {
+   "ytChannelId": "UCE2KbK1NN2e62wd1yv7hV3Q",
+   "title": "Carl's Dragline Service",
+   "description": "",
+   "username": "CarlsDraglineServiceYouTube",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/qnv_-HCGM7nzsbazkaei1Wom8mdOU8fvDYlsZQgdWFbMnV4MeCp5aOvL3Zg0i81O2AMdvr_Jcg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2025-11-07",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.26,
+   "tags": [
+    "agriculture",
+    "engineering",
+    "infrastructure",
+    "documentary"
+   ],
+   "googleTrendsKeyword": "Dragline",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 4400,
+    "monthlyRevenue": 15.28,
+    "monthlyViews": 6327,
+    "totalViews": 1275284,
+    "totalVideos": 80,
+    "avgViewsPerVideo": 31516.33,
+    "medianViewsPerVideo": 4300,
+    "avgVideoLength": 600.58,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-12-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.4156
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ghWeSH2HHF8",
+     "video_title": "Manitowoc 4600 Water Recovery Explained: Full Recovery Breakdown | Carl's Dragline Service",
+     "video_view_count": 541000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ghWeSH2HHF8/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhDIGUoZDAP&rs=AOn4CLBKi8azsKD9gLkHfQU6Ya8Ts_7R5A",
+     "length_text": "10:53"
+    },
+    {
+     "video_id": "lUUIaN8mPmM",
+     "video_title": "Epic Manitowoc 4600 Water Recovery | Carl's Dragline Service",
+     "video_view_count": 148000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lUUIaN8mPmM/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARglIGUoTTAP&rs=AOn4CLCdR6VtmGPVbobdADoKVc85-7fF_Q",
+     "length_text": "6:26"
+    },
+    {
+     "video_id": "Josx7J5-VqY",
+     "video_title": "Transporting The Manitowoc 4600 | Carl's Dragline Service",
+     "video_view_count": 80000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Josx7J5-VqY/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoVTAP&rs=AOn4CLDbKa5j1N2F-2vRvGSP1l3MA8QFXA",
+     "length_text": "27:33"
+    },
+    {
+     "video_id": "dLj7Mr7f1N0",
+     "video_title": "Inside The Manitowoc 4600: Experienced Operator Narration | Carl's Dragline Service",
+     "video_view_count": 56000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dLj7Mr7f1N0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhCIFgoZTAP&rs=AOn4CLBfpz41snjK77qOajtt3RI5Q42UpQ",
+     "length_text": "8:51"
+    },
+    {
+     "video_id": "2UJ5jILXseM",
+     "video_title": "Opening Up A New Pit | Carl's Dragline Service",
+     "video_view_count": 51000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2UJ5jILXseM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASAqoOIVCtV1jJmByWVjPyb9SctQ",
+     "length_text": "18:33"
+    }
+   ],
+   "score": 0.6809374094009399,
+   "createdAt": "2026-03-19T04:05:43.747336",
+   "updatedAt": "2026-10-19T18:46:14.464160"
+  },
+  {
+   "ytChannelId": "UC_1mTFFOILw1MiFeA82a5uQ",
+   "title": "Hank Lanndry",
+   "description": "",
+   "username": "HankLanndry",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/S6llPflQKseZVo8YvINYohQ57QgFkFh1HicgzwpLSJsphTJcySMcJ9hKMT2flz2CMNbtU-tl=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-13",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_avatar",
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "rural living",
+    "diy",
+    "prepping",
+    "home improvement"
+   ],
+   "googleTrendsKeyword": "off grid living",
+   "category": {
+    "id": 147,
+    "name": "rural living"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 197,
+    "monthlyRevenue": 0,
+    "monthlyViews": 30539,
+    "totalViews": 52286,
+    "totalVideos": 31,
+    "avgViewsPerVideo": 1636.32,
+    "medianViewsPerVideo": 415,
+    "avgVideoLength": 1060.26,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2026-08-22",
+    "lastVideoDate": "2026-10-08",
+    "rpm": {
+     "base": 2.9,
+     "total": 2.3973
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "vvaeathXG8E",
+     "video_title": "This Alaskan Bush Man\u2019s $10 Bucket of Salt Heats His Cabin All Winter \u2014 Zero Electricity, Zero Gas",
+     "video_view_count": 16000,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vvaeathXG8E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdka1GKvnizwyvKx6xnEqL5pgxFg",
+     "length_text": "13:35"
+    },
+    {
+     "video_id": "XCzIoW1cZE8",
+     "video_title": "11 Survival Supplies an Alaskan Man Buys at Walmart \u2014 All Under $5",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/XCzIoW1cZE8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9c_6pJJC9TvvI4zJYh1LVxhIo7g",
+     "length_text": "27:08"
+    },
+    {
+     "video_id": "L6nlW0faJx0",
+     "video_title": "How One Alaskan Bush Man\u2019s Forgotten Wood Heater Burns 90% Less Wood and Heats His Home for 24 Hours",
+     "video_view_count": 8600,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/L6nlW0faJx0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOytT9U0ZHzYESxGYot2TvJouy7A",
+     "length_text": "17:01"
+    },
+    {
+     "video_id": "2ow9P-C6KNo",
+     "video_title": "How One Alaskan Bush Man Built a $340 SALT BATTERY That Powers His Cabin for 20 Years",
+     "video_view_count": 1700,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2ow9P-C6KNo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJdko-4trPYDFZQaT6TxAxlIeD-Q",
+     "length_text": "19:21"
+    },
+    {
+     "video_id": "tR5s30I_ROk",
+     "video_title": "How One Alaskan Bush Man Built a HEAT BATTERY That Keeps His Cabin Warm After the Fire Goes Out",
+     "video_view_count": 1000,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/tR5s30I_ROk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxh39pFLh5iJjoJZko_s3M9rjF3Q",
+     "length_text": "14:51"
+    }
+   ],
+   "score": 0.6807723641395569,
+   "createdAt": "2026-10-14T14:54:55.196203",
+   "updatedAt": "2026-10-14T14:54:55.196203"
+  },
+  {
+   "ytChannelId": "UCpE8ewKilO-4dnZnn0aZ4zg",
+   "title": "Gridiron Glory",
+   "description": "Welcome to Gridiron Glory, your ultimate destination for in-depth stories on the biggest stars of the NFL. We go beyond the game, bringing you compelling narratives, player journeys, and a behind-the-scenes look at the lives of your favorite football heroes. Subscribe now to get your weekly dose of Gridiron Glory and never miss a story!",
+   "username": "GridironGlory-p4l",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/bpx5gCVA70ykNaoby4qaPgjdOVwd4fs7uDJyHilJrg_zhkktPsfbZ31Uw2SYKqCoGelgz3Y3Zg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2025-08-14",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "american football",
+    "sports",
+    "life stories",
+    "documentary"
+   ],
+   "googleTrendsKeyword": "nfl",
+   "category": {
+    "id": 238,
+    "name": "american football"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 247,
+    "monthlyRevenue": 0,
+    "monthlyViews": 586,
+    "totalViews": 90971,
+    "totalVideos": 23,
+    "avgViewsPerVideo": 3889.91,
+    "medianViewsPerVideo": 359,
+    "avgVideoLength": 1331.57,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-20",
+    "lastVideoDate": "2025-10-20",
+    "rpm": {
+     "base": 7.2,
+     "total": 4.4896
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "EdKRL59G8WI",
+     "video_title": "At 87, Jim Brown Reveals The Toughest Players He Has Faced",
+     "video_view_count": 57000,
+     "video_upload_date": "2025-10-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/EdKRL59G8WI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2WS3S6WgWswfLg-pNMQMvmDSZwA",
+     "length_text": "21:21"
+    },
+    {
+     "video_id": "nsyeMsKbuDg",
+     "video_title": "At 66, Lawrence Taylor Reveals The Toughest Players He Has Faced",
+     "video_view_count": 19000,
+     "video_upload_date": "2025-10-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/nsyeMsKbuDg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc78Dt9HrVhoPM1oC0KgPEpEy3eQ",
+     "length_text": "15:03"
+    },
+    {
+     "video_id": "dPQ_FmvhkTo",
+     "video_title": "At 67, Joe Montana Reveals The Toughest Players He Has Faced",
+     "video_view_count": 3300,
+     "video_upload_date": "2025-10-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dPQ_FmvhkTo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv4crCoGszYKHl5N-GgFAl5XBzhA",
+     "length_text": "21:29"
+    },
+    {
+     "video_id": "M5hQHpxXjWw",
+     "video_title": "At 46, Tom Brady Reveals The Toughest Players He Has Faced",
+     "video_view_count": 2300,
+     "video_upload_date": "2025-10-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/M5hQHpxXjWw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF8-_xUQU9ZY3weedOnYwhoEq-cQ",
+     "length_text": "20:02"
+    },
+    {
+     "video_id": "hVhIpVVGl8k",
+     "video_title": "The Heartbreaking Tragedy Of Earl Campbell, How He Lives Is Sad...",
+     "video_view_count": 1200,
+     "video_upload_date": "2025-10-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/hVhIpVVGl8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnrHcP6rsI9hyQwiIOTAn2q3P97A",
+     "length_text": "17:38"
+    }
+   ],
+   "score": 0.6806026697158813,
+   "createdAt": "2026-10-17T16:42:47.603848",
+   "updatedAt": "2026-10-20T00:22:27.190644"
+  },
+  {
+   "ytChannelId": "UCU4MrOmalNBJHAK69q6ue9w",
+   "title": "Waterline Stories",
+   "description": "Welcome to Waterline Disasters!\n\nThe flagship of the Waterline network. Dive into history's most devastating disasters. Every disaster has a story worth telling. \n\nMy name's Paul. I'm your storyteller, a diving instructor and yacht master who has spent decades beneath the waves and on the open seas.\n\nAll our content is created by us. We try to create the best experience through our animation and editing. \n\n\"The sea never forgets. Every disaster teaches us something. Every story deserves to be told.\"\n\nSubscribe to our Waterline Network:\nWaterline Disasters for catastrophic events \nWaterline Salvage for marvel salvage operations\nWaterline Chronicles for investigative documentaries\n\n\ud83d\udd17 Connect with us:\ncontact@waterlinestories.com\n\nSpotify: \nhttps://creators.spotify.com/pod/profile/waterlinestories/\n\nWe encourage you to share our Videos, \nPlease be advised that any unofficial translations or editing of our work in any medium will be considered a breach of our intellectual property rights.",
+   "username": "waterline-disasters",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/VT8K7DfTQY38TtCm58QyUUsIdeMNlw6yfFCb7gVf2KxlLgPPO2hHZiuM2hWHPphWOchZZfNxUg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "DE",
+   "channelCreationDate": "2018-06-17",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 5.91,
+   "tags": [
+    "history",
+    "documentary",
+    "science",
+    "engineering"
+   ],
+   "googleTrendsKeyword": "shipwrecks",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 279000,
+    "monthlyRevenue": 6281.95,
+    "monthlyViews": 2542783,
+    "totalViews": 61736601,
+    "totalVideos": 128,
+    "avgViewsPerVideo": 554493.55,
+    "medianViewsPerVideo": 336000,
+    "avgVideoLength": 1346.08,
+    "uploadsPerWeek": 2.75,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7,
+     "total": 2.4705
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "dcvLUZ2TQF4",
+     "video_title": "This Wave Killed All 84 Men!!",
+     "video_view_count": 8500000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dcvLUZ2TQF4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqQk2tby0uTllDiPJjGR7GYnR07g",
+     "length_text": "15:21"
+    },
+    {
+     "video_id": "xY6jx-4JPdo",
+     "video_title": "167 Men Died From Reasonable Decisions: Piper Alpha",
+     "video_view_count": 3700000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xY6jx-4JPdo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD45kjsSM9T1A9p3ehYv_S-Ob7nFw",
+     "length_text": "15:05"
+    },
+    {
+     "video_id": "OMgP0ueYvfA",
+     "video_title": "This Chemical Killed 118 Men!",
+     "video_view_count": 2200000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OMgP0ueYvfA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1u2EeQTzOM9XIsy_pe7--3fbWqg",
+     "length_text": "33:27"
+    },
+    {
+     "video_id": "KJZmnVe6us8",
+     "video_title": "This 100 Year Storm Shouldn't EXIST!",
+     "video_view_count": 2200000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KJZmnVe6us8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApXeMZep2yumRrcz9aYirLxhNnvw",
+     "length_text": "24:43"
+    },
+    {
+     "video_id": "39AmZbgDgH8",
+     "video_title": "Diver Survived 40 Minutes Without Oxygen: Chris Lemons",
+     "video_view_count": 2100000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/39AmZbgDgH8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkxTFMgx6xAFmMg4tBX3Ymxw8Zkw",
+     "length_text": "14:28"
+    }
+   ],
+   "score": 0.6804758906364441,
+   "createdAt": "2023-03-27T20:29:04.993729",
+   "updatedAt": "2026-10-19T06:23:16.410862"
+  },
+  {
+   "ytChannelId": "UCKThWP_K1gbDvDINufHGm2A",
+   "title": "From Desk to Power",
+   "description": "Welcome to From Desk to Power \u2014 where overlooked employees rise, toxic bosses fall, and ordinary people turn workplace setbacks into powerful comebacks.\nHere, you\u2019ll find gripping English audio stories about office politics, unfair firings, stolen credit, toxic managers, corporate betrayal, career struggles, and unexpected paths to success.\nOur characters may be ignored, humiliated, demoted, replaced, or pushed aside \u2014 but they never stay down for long. From forgotten desks to positions of influence, every journey reveals the ambition, resilience, and determination hidden behind the office walls.\nExpect workplace drama, emotional conflict, shocking twists, satisfying revenge, and career turnarounds that prove one thing:\nNever underestimate the person starting from the bottom.\nSubscribe to From Desk to Power for new workplace stories, corporate drama, career comebacks, and unforgettable transformations.\nNew stories regularly.",
+   "username": "FromDesktoPower",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/x99EQGHVcX05gyq11Lg9OjDCUuN4NX5AkDfOYLhzGtCbtXiPiFCFPjlZpBgu7f2HuqV0ohbH=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-27",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "ai_images",
+   "editingVoice": "ai",
+   "outlierScore": 1.56,
+   "tags": [
+    "business",
+    "self improvement",
+    "stories",
+    "major companies"
+   ],
+   "googleTrendsKeyword": "business stories",
+   "category": {
+    "id": 53,
+    "name": "business"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 2420,
+    "monthlyRevenue": 530,
+    "monthlyViews": 261703,
+    "totalViews": 447098,
+    "totalVideos": 33,
+    "avgViewsPerVideo": 13707.88,
+    "medianViewsPerVideo": 2200,
+    "avgVideoLength": 5392.67,
+    "uploadsPerWeek": 8,
+    "firstVideoDate": "2026-09-21",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 13,
+     "total": 2.0252
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "e2mnYTF1gi8",
+     "video_title": "I Ate at My Own Hotel. The Menu Added Up to $175, but the Bill Came to $988. \u201cGet Your Manager.\u201d",
+     "video_view_count": 203000,
+     "video_upload_date": "2026-09-28T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/e2mnYTF1gi8/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCk_CR0sX3StS1M_WNl0mLMqn2PeQ",
+     "length_text": "58:12"
+    },
+    {
+     "video_id": "2fXlCCodk5w",
+     "video_title": "I Got a $165 Bonus, So I Did Only My Job for a Month. Then the Chairman Asked, \u201cWhat About the $210M",
+     "video_view_count": 62000,
+     "video_upload_date": "2026-10-05T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2fXlCCodk5w/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAHPjRgIG5PPKjLsLZRiYOw69xwkA",
+     "length_text": "1:02:37"
+    },
+    {
+     "video_id": "vJLU2d8eTGs",
+     "video_title": "I Worked Seven Years for $83,000 a Year While My Boss\u2019s Nephew Started at $800,000\u2014On Renewal Day",
+     "video_view_count": 48000,
+     "video_upload_date": "2026-09-21T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vJLU2d8eTGs/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLAQJLRUUm6kZ2o_NUUyDQOuDi2cng",
+     "length_text": "56:21"
+    },
+    {
+     "video_id": "futmeBRbaLo",
+     "video_title": "I Took My Car to My Own Dealership. A Simple Oil Change Cost $88,000\u2014\u201cGet the Manager!\u201d",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-10-09T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/futmeBRbaLo/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCTmEMgvWQkuYWC7CANhOM2o0h3KA",
+     "length_text": "1:42:01"
+    },
+    {
+     "video_id": "aD_1mLndjtY",
+     "video_title": "I Gave My Ride to a Pregnant Client in a Storm, Arrived 11 Minutes Late, and Got Fired\u2014 \u201cWait!\u201d",
+     "video_view_count": 18000,
+     "video_upload_date": "2026-10-11T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/aD_1mLndjtY/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDFa7Vsu9Ad0ELHvIU9zJmc3x9t6A",
+     "length_text": "1:51:09"
+    }
+   ],
+   "score": 0.680020809173584,
+   "createdAt": "2026-09-18T17:13:22.167565",
+   "updatedAt": "2026-10-19T21:36:44.162951"
+  },
+  {
+   "ytChannelId": "UCVRIqhcRHgrVnDO-SMkHbbA",
+   "title": "Iron & Engine",
+   "description": "The machines that built America. Engineering stories from the industrial age \u2014 the giants of iron, steam, and steel that changed everything. New videos every week.",
+   "username": "IRONANDENGINE",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ndAbHTvbXqGOc2AwlwuYJ_rP9r6hFCe0GJJHL5IfSl3bjzyA3BcLwar9oUtgt1L3gl0efFUi0Zk=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-03-14",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": true,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.47,
+   "tags": [
+    "history",
+    "engineering",
+    "science",
+    "future & discoveries"
+   ],
+   "googleTrendsKeyword": "industrial",
+   "category": {
+    "id": 187,
+    "name": "history"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1570,
+    "monthlyRevenue": 7.24,
+    "monthlyViews": 3317,
+    "totalViews": 301272,
+    "totalVideos": 43,
+    "avgViewsPerVideo": 6871.6,
+    "medianViewsPerVideo": 1600,
+    "avgVideoLength": 1627.56,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-04-19",
+    "lastVideoDate": "2026-07-19",
+    "rpm": {
+     "base": 7,
+     "total": 2.1838
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ie_Iw7RDzaQ",
+     "video_title": "The Steam Engine That Ran 23 Years \u2014 Without Stopping",
+     "video_view_count": 46000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ie_Iw7RDzaQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9Un03SbYjrdK30wfK0EvTWH5QlA",
+     "length_text": "24:41"
+    },
+    {
+     "video_id": "VWrXHlir-zc",
+     "video_title": "The Westinghouse Cathedral That Ran 50,000 Horsepower \u2014 And Beat Edison",
+     "video_view_count": 40000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/VWrXHlir-zc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDYQjpcGVyxRGPNt6rN2xNRJ9FuYQ",
+     "length_text": "27:51"
+    },
+    {
+     "video_id": "9y6Kx0_nyH8",
+     "video_title": "The Keokuk Dam Ran 112 Years \u2014 On a River Nobody Believed Could Work",
+     "video_view_count": 33000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/9y6Kx0_nyH8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0aCVUjuSUH6HDeHSfU_29KGqMYQ",
+     "length_text": "27:36"
+    },
+    {
+     "video_id": "P_QS4_j2D0Q",
+     "video_title": "The Westinghouse Dynamo That Ran the Sierra \u2014 for 50 Years",
+     "video_view_count": 32000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/P_QS4_j2D0Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBkdoZTsH8yh9LWo1lZSF8S4z6DhA",
+     "length_text": "30:46"
+    },
+    {
+     "video_id": "9wDS9g1clYA",
+     "video_title": "The Mechanicville Power Station Built in 1897 \u2014 The Generators Never Stopped",
+     "video_view_count": 25000,
+     "video_upload_date": "2026-07-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/9wDS9g1clYA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCG9cjRDz8E9CJ4lEwFV9XcdosSvw",
+     "length_text": "25:12"
+    }
+   ],
+   "score": 0.6796552538871765,
+   "createdAt": "2026-05-17T22:02:18.273081",
+   "updatedAt": "2026-10-19T19:21:14.688280"
+  },
+  {
+   "ytChannelId": "UCwQWkIRcRBbRGFBnv6XcV5w",
+   "title": "FamilyTales",
+   "description": "\ud83d\udcd6 Welcome to FamilyTales - where every story uncovers a hidden truth.\n\nDive into emotional stories about family conflict, betrayal, hidden secrets, difficult relationships, and unexpected twists. Each tale is created to entertain, inspire, and show how one decision can change everything - because every choice has consequences.\n\n\ud83d\udd14 Subscribe to FamilyTales for new stories every day.\n\n\u26a0\ufe0f Disclaimer: All stories on this channel are fictional and created for entertainment purposes only.",
+   "username": "FamilyTales-l7e",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ZOs9rdBLoCJGugXw8TWTmibb5rjXtYNVQPo55szsJsx9spWNP_qpDXMtUv18bIyG4S0CMshE=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2026-08-17",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "stock_footage_voiceover",
+   "editingVoice": "ai",
+   "outlierScore": 0.65,
+   "tags": [
+    "reddit stories",
+    "family",
+    "drama",
+    "stories"
+   ],
+   "googleTrendsKeyword": "reddit stories",
+   "category": {
+    "id": 270,
+    "name": "reddit stories"
+   },
+   "format": {
+    "id": 21,
+    "name": "stories"
+   },
+   "stats": {
+    "subscribers": 2130,
+    "monthlyRevenue": 0,
+    "monthlyViews": 514615,
+    "totalViews": 1237410,
+    "totalVideos": 165,
+    "avgViewsPerVideo": 7488.75,
+    "medianViewsPerVideo": 2700,
+    "avgVideoLength": 3717.65,
+    "uploadsPerWeek": 2,
+    "firstVideoDate": "2026-08-19",
+    "lastVideoDate": "2026-10-05",
+    "rpm": {
+     "base": 9,
+     "total": 10.919
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "dQDOtJDaRpk",
+     "video_title": "My Dad Called Me \u201cJust a Mechanic\u201d at Dinner \u2014 Then a Collector Asked Who Restored His $2M Car",
+     "video_view_count": 213000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dQDOtJDaRpk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3rO86_YjN4LBRbSEJOEE1lkzrng",
+     "length_text": "58:32"
+    },
+    {
+     "video_id": "OyEPgYBdvm8",
+     "video_title": "My New VP Fired Me in Front of 500 Employees\u2014Then Asked What I Actually Did",
+     "video_view_count": 95000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OyEPgYBdvm8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCX7o0xoMAFvAoBX0x4kPC2qI-Pyw",
+     "length_text": "1:01:17"
+    },
+    {
+     "video_id": "AaG4iCNXUqo",
+     "video_title": "My Parents Turned My 18th Birthday Into My Brother\u2019s Party\u2014So I Walked Out For Good",
+     "video_view_count": 51000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/AaG4iCNXUqo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUiykus5suOsNlU4KPzAYdr5ezAA",
+     "length_text": "1:03:14"
+    },
+    {
+     "video_id": "D3ZGgizSgMI",
+     "video_title": "I Built Dad's Company, He Gave My CFO Job to My Sister \u2014 So I Quit at 9 AM",
+     "video_view_count": 50000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/D3ZGgizSgMI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCWaBUfLXOEBZh2J4s37dCJpNh3_w",
+     "length_text": "1:06:40"
+    },
+    {
+     "video_id": "bI9hBq12Fn4",
+     "video_title": "My Dad Put My Brother in Charge of the Shop\u2014Then Asked Me to Fix the Equipment After I Resigned",
+     "video_view_count": 48000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bI9hBq12Fn4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBO-6aOhdFMVDxqQGWz2dQnMSpNZw",
+     "length_text": "1:03:02"
+    }
+   ],
+   "score": 0.678998589515686,
+   "createdAt": "2026-10-01T15:00:43.546151",
+   "updatedAt": "2026-10-19T23:00:26.430601"
+  }
+ ],
+ "topicTags": [
+  "engineering",
+  "history",
+  "do it yourself",
+  "lifestyle",
+  "business",
+  "documentary",
+  "drama",
+  "stories",
+  "infrastructure",
+  "science"
+ ],
+ "totalResults": 30,
+ "hasMore": true,
+ "page": 1,
+ "limit": 30,
+ "filters": {
+  "query": "lineman stories power line utility worker",
+  "limit": 30,
+  "page": 1,
+  "minScore": 0.5
+ }
+}

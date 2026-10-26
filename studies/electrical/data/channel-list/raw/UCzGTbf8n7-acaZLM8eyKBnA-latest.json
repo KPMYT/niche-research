@@ -1,0 +1,50 @@
+{
+ "channel": "jkelectrix",
+ "id": "UCzGTbf8n7-acaZLM8eyKBnA",
+ "handle": "http://www.youtube.com/@jkelectrix80266",
+ "description": "Electrical education",
+ "subs": "294 subscribers",
+ "videos_count": "3 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "m_AMnxkuUlo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Code talk, knob and tube, split bus panel",
+   "dur": "10:10",
+   "meta": [
+    "1.5K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "3y ago"
+  },
+  {
+   "id": "20JpqlmYw6c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Residential code talk pt 2",
+   "dur": "10:42",
+   "meta": [
+    "3.1K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3100,
+   "age": "3y ago"
+  },
+  {
+   "id": "DOvBZUT_iuE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Residential code talk pt1",
+   "dur": "15:26",
+   "meta": [
+    "23K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 23000,
+   "age": "3y ago"
+  }
+ ]
+}

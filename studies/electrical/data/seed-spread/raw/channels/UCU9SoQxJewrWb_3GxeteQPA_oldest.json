@@ -1,0 +1,401 @@
+{
+ "channel": "Mr Carlson's Lab",
+ "id": "UCU9SoQxJewrWb_3GxeteQPA",
+ "handle": "http://www.youtube.com/@MrCarlsonsLab",
+ "description": "Electronic \"how to's,\"  and random project descriptions.",
+ "subs": "546K subscribers",
+ "videos_count": "332 videos",
+ "sort": "oldest",
+ "videos": [
+  {
+   "id": "iYJWq3SAsH4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Nixie Tube Frequency Counter Modification Video #1",
+   "dur": "11:42",
+   "meta": [
+    "34K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 34000,
+   "age": "12y ago"
+  },
+  {
+   "id": "nfVoNCyN6TM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Black Box gets my modified car through Emissions Test \"AirCare\"",
+   "dur": "23:23",
+   "meta": [
+    "117K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 117000,
+   "age": "12y ago"
+  },
+  {
+   "id": "7A_NqNyvaBM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "View my personal electronics lab",
+   "dur": "7:37",
+   "meta": [
+    "304K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 304000,
+   "age": "12y ago"
+  },
+  {
+   "id": "BvbNBZX6kNE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tektronix type 555 oscilloscope, over 100 tubes inside!",
+   "dur": "25:12",
+   "meta": [
+    "250K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 250000,
+   "age": "12y ago"
+  },
+  {
+   "id": "I1gfUNh5PJQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "\"TDR\" or Time Domain Reflectometer, build and use this circuit.",
+   "dur": "20:05",
+   "meta": [
+    "248K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 248000,
+   "age": "12y ago"
+  },
+  {
+   "id": "l58qUNVJna0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Determining Velocity Factor of coaxial cable.",
+   "dur": "4:05",
+   "meta": [
+    "20K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "12y ago"
+  },
+  {
+   "id": "lIZTpP113_c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding DTF or Distance To Fault, using a TDR",
+   "dur": "12:53",
+   "meta": [
+    "37K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 37000,
+   "age": "12y ago"
+  },
+  {
+   "id": "-eAnz5rT4SU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Determining Coax Impedance with a TDR",
+   "dur": "6:14",
+   "meta": [
+    "20K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "12y ago"
+  },
+  {
+   "id": "nHHWYYZdN0A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "TDR with different Oscilloscopes.",
+   "dur": "10:00",
+   "meta": [
+    "46K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 46000,
+   "age": "12y ago"
+  },
+  {
+   "id": "KGcoOETCaEQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transistor Identification and Testing made easy.",
+   "dur": "8:29",
+   "meta": [
+    "543K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 543000,
+   "age": "12y ago"
+  },
+  {
+   "id": "qqmegXoB7lA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Intro to Mr Carlson's Lab",
+   "dur": "0:26",
+   "meta": [
+    "470K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 470000,
+   "age": "12y ago"
+  },
+  {
+   "id": "mjF0S-ctXfg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing a Relay",
+   "dur": "3:41",
+   "meta": [
+    "29K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 29000,
+   "age": "12y ago"
+  },
+  {
+   "id": "yy8NS2zejhQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Circuit Board Faults hiding in plain sight.",
+   "dur": "4:50",
+   "meta": [
+    "62K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 62000,
+   "age": "12y ago"
+  },
+  {
+   "id": "Ja_cb_gfDDk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Husky Compressor Repair and Modification",
+   "dur": "56:34",
+   "meta": [
+    "159K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 159000,
+   "age": "12y ago"
+  },
+  {
+   "id": "v3Jv2_pQ86o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to use a Curve Tracer to determine Transistor gain",
+   "dur": "5:59",
+   "meta": [
+    "21K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "12y ago"
+  },
+  {
+   "id": "4dasj7PbF2k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Curve Tracer, determine DC static Current gain of a Transistor or hFE",
+   "dur": "9:58",
+   "meta": [
+    "16K",
+    "12y ago"
+   ],
+   "channel_id": null,
+   "views": 16000,
+   "age": "12y ago"
+  },
+  {
+   "id": "QDqwSZ3HUqk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Mastercraft 052-0726-0 also #52-0726-0 Smart Multimeter Review",
+   "dur": "15:04",
+   "meta": [
+    "33K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 33000,
+   "age": "11y ago"
+  },
+  {
+   "id": "crJdGfAmSs4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Repairing and aligning an antique radio, Stromberg Carlson 240",
+   "dur": "1:05:08",
+   "meta": [
+    "225K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 225000,
+   "age": "11y ago"
+  },
+  {
+   "id": "xMPMctaIRQE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Stromberg Carlson 240 Modification Video",
+   "dur": "10:35",
+   "meta": [
+    "24K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 24000,
+   "age": "11y ago"
+  },
+  {
+   "id": "kmiiM-Mv1s4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Listen to SSB or single sideband on your old AM radio",
+   "dur": "5:36",
+   "meta": [
+    "35K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 35000,
+   "age": "11y ago"
+  },
+  {
+   "id": "AuQQNmCwwqQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Philco Ford Car Radio Repair and Alignment",
+   "dur": "34:37",
+   "meta": [
+    "101K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 101000,
+   "age": "11y ago"
+  },
+  {
+   "id": "51mjt9nFoeA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Big Dim Bulb Tester with Variac and Isolation Transformer",
+   "dur": "18:11",
+   "meta": [
+    "159K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 159000,
+   "age": "11y ago"
+  },
+  {
+   "id": "gO7RkSnuGys",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AKAI AM-2950 Amplifier LED Modification",
+   "dur": "31:20",
+   "meta": [
+    "115K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 115000,
+   "age": "11y ago"
+  },
+  {
+   "id": "j-viaPm5duA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Doing Math with Fire",
+   "dur": "13:46",
+   "meta": [
+    "20K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "11y ago"
+  },
+  {
+   "id": "fGP8W5Y9JZs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fender DeVille Amplifier, Repair and Bias Set Procedure",
+   "dur": "35:07",
+   "meta": [
+    "157K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 157000,
+   "age": "11y ago"
+  },
+  {
+   "id": "J31nVC0ms0w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Tube Radio Restoration, Hammarlund HQ-120",
+   "dur": "2:37:22",
+   "meta": [
+    "1.5M",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "11y ago"
+  },
+  {
+   "id": "e6v6elT26_o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Find hiding radio stations with a, PCA-2T-200 Panadaptor",
+   "dur": "37:04",
+   "meta": [
+    "155K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 155000,
+   "age": "11y ago"
+  },
+  {
+   "id": "lGlQA3GCYw4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "ICOM IC-751A Reference Frequency Oscillator Alignment",
+   "dur": "9:56",
+   "meta": [
+    "36K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 36000,
+   "age": "11y ago"
+  },
+  {
+   "id": "Omo3XvhsKd0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yaesu FT-1000MP Repair and Modification",
+   "dur": "2:03:19",
+   "meta": [
+    "4.2M",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 4200000,
+   "age": "11y ago"
+  },
+  {
+   "id": "V9VDY0fiO7k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yaesu FT-900 Repair",
+   "dur": "22:34",
+   "meta": [
+    "100K",
+    "11y ago"
+   ],
+   "channel_id": null,
+   "views": 100000,
+   "age": "11y ago"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "channel": "ConstructScope",
+ "id": "UCx1dPGBUcDAv2zRJ8vO-tTA",
+ "handle": "http://www.youtube.com/@ConstructScope",
+ "description": "See how the built world really works.",
+ "subs": "5 subscribers",
+ "videos_count": "4 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "E7tXokyDVcE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Your Circuit Breaker Keeps Tripping (and What B16 Means)",
+   "dur": "5:01",
+   "meta": [
+    "5",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "3d ago"
+  },
+  {
+   "id": "RAiAzujpVf0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Electricity Gets Into Your House. From Power Plant to Plug",
+   "dur": "5:01",
+   "meta": [
+    "387",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 387,
+   "age": "3w ago"
+  },
+  {
+   "id": "3I5BHkIo0Xk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Microwave Ovens Work (Why the Plate Stays Cool)",
+   "dur": "5:01",
+   "meta": [
+    "134",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 134,
+   "age": "1mo ago"
+  },
+  {
+   "id": "SIxWShsZMMI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Induction Cooktops Work",
+   "dur": "5:01",
+   "meta": [
+    "43",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 43,
+   "age": "2mo ago"
+  }
+ ]
+}

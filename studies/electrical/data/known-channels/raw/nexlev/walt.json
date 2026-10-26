@@ -1,0 +1,100 @@
+{
+ "pulled": "2026-10-23",
+ "note": "Transcribed from the NexLev MCP responses of 2026-10-23 (descriptions dropped where identical to the YT about page in ../yt/*-latest.json). Niche-finder records are NexLev's stored profile, last updated by NexLev on the date in updatedAt.",
+ "get_channel_analytics": {
+  "channelId": "UClpBI_QHhMq2_LcMMwmr6Og",
+  "subscriberCount": 1640,
+  "viewCount": 198553,
+  "videoCount": 26,
+  "joinedDate": "2017-01-12",
+  "country": "United States",
+  "links": [],
+  "avgVideoLength": "22:56",
+  "hasShorts": false,
+  "lastVideoUploadDate": "9 hours ago",
+  "categories": [
+   "Education",
+   "Do It Yourself",
+   "Construction",
+   "Engineering"
+  ]
+ },
+ "search_niche_finder_channels": {
+  "query": "retired utility man electrical safety outlets power strips house fires",
+  "isMonetizationEnabled": true,
+  "isFaceless": true,
+  "isAiChannel": false,
+  "quality": "mid",
+  "editingStyle": "ai_avatar",
+  "editingVoice": null,
+  "outlierScore": 0.56,
+  "channelCreationDate": "2017-01-12",
+  "stats": {
+   "subscribers": 1570,
+   "monthlyRevenue": 1283.62,
+   "monthlyViews": 215383,
+   "totalViews": 188856,
+   "totalVideos": 24,
+   "avgViewsPerVideo": 7840.71,
+   "medianViewsPerVideo": 2300,
+   "uploadsPerWeek": 4.5,
+   "firstVideoDate": "2026-09-20",
+   "lastVideoDate": "2026-10-17",
+   "rpm": {
+    "base": 7.2,
+    "total": 5.9597
+   }
+  },
+  "updatedAt": "2026-10-20T00:13:07",
+  "lastUploadedVideos": [
+   [
+    "p7x4nvpCoDg",
+    "STOP Using Power Strips Like This   Retired Utility Man Explains",
+    74000
+   ],
+   [
+    "JsJc9JbpfvA",
+    "The 5 Outlet Habits That Start House Fires Years Later",
+    28000
+   ],
+   [
+    "xj2iE_Je-vk",
+    "The Only 3 Things in Your House That Need a Surge Protector And the One Box That Covers",
+    13000
+   ],
+   [
+    "JXA5_znDL6E",
+    "STOP Running Your Dryer Like This — Retired Utility Man Explains",
+    13000
+   ],
+   [
+    "JgHUTjV9KSY",
+    "The 89 Cent Outlet Is the One That Burns What to Ask For Instead",
+    11000
+   ]
+  ]
+ },
+ "get_batch_channel_metrics_v2": {
+  "isMonetized": true,
+  "rpm": 10.32,
+  "avgViewsPerVideo": 7444,
+  "avgVideoLength": 22.9,
+  "category": "diy",
+  "format": "tutorial",
+  "hasShorts": false,
+  "isFaceless": false,
+  "countryTop": "United States",
+  "confidence": 0.99,
+  "jobId": "e064956d-2d13-4b7e-b173-ed3885997f1a",
+  "timestamp": "2026-10-23T03:31:44Z"
+ },
+ "check_faceless_channel": {
+  "isFaceless": false,
+  "confidence": 0.99,
+  "primaryCategory": "diy",
+  "format": "tutorial",
+  "googleTrendsKeyword": "home wiring",
+  "cached": true,
+  "timestamp": "2026-10-23T03:32Z"
+ }
+}

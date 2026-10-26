@@ -1,0 +1,401 @@
+{
+ "channel": "Electromagnetic Videos",
+ "id": "UCV2-Qbq9o0EOQWPLAWkVH2w",
+ "handle": "http://www.youtube.com/@ElectromagneticVideos",
+ "description": " I’m Dr. Peter Jones, a licensed Professional Engineer. My career has spanned working on Space Shuttle TV cameras and rubidium atomic clocks to holding patents for internet multimedia transmission and more. On this channel, we bridge the gap between theory and hands-on reality. My goal is to provide deep technical insight without the jargon or math that often hides the beauty of physics and engineering.\n\nElectromagnetic Videos is my excuse to explore experiments I’ve always wanted to do. We’ve measured the speed of light, demonstrated quantum weirdness with polarized sunglasses, visited VLF submarine stations, and even burned up household wires to find their true current limits.\n\n\"Electromagnetic\" is a play on words: it covers anything connected to electricity and magnetism (which is almost everything) and reflects the formal theories I loved so much as a student. If you value insight over hype, I hope you'll subscribe and join me in looking at these fascinating things!",
+ "subs": "42.9K subscribers",
+ "videos_count": "107 videos",
+ "sort": "oldest",
+ "videos": [
+  {
+   "id": "YER0421hfjU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Introduction to Electromagnetic Videos.",
+   "dur": "0:59",
+   "meta": [
+    "1.8K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1800,
+   "age": "4y ago"
+  },
+  {
+   "id": "pWkJqw8S6CY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "My Vintage Iconoscope TV Camera Tube.",
+   "dur": "6:48",
+   "meta": [
+    "39K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 39000,
+   "age": "4y ago"
+  },
+  {
+   "id": "3KI_xbhpr3c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Remote Control for my 4HP Air Compressor (Part 1)",
+   "dur": "1:22:58",
+   "meta": [
+    "779",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 779,
+   "age": "4y ago"
+  },
+  {
+   "id": "2x8UHRRMTes",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Remote Control for my 4HP Air Compressor (Part 2)",
+   "dur": "29:40",
+   "meta": [
+    "298",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 298,
+   "age": "4y ago"
+  },
+  {
+   "id": "b4G3O2QRwbI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Whats inside a vintage Dynastat DS 120 Static Eliminator?",
+   "dur": "33:35",
+   "meta": [
+    "432",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 432,
+   "age": "4y ago"
+  },
+  {
+   "id": "1CJSdn0j10A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "High Voltage Flyback Generator Part 1 (the generator and experiments)",
+   "dur": "16:41",
+   "meta": [
+    "1.1K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "4y ago"
+  },
+  {
+   "id": "ybvdK5B6dso",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "High Voltage Flyback Generator Part 2 (current measurement and circuit discussion)",
+   "dur": "29:22",
+   "meta": [
+    "685",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 685,
+   "age": "4y ago"
+  },
+  {
+   "id": "xCWNpdStdlk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside an RT-LAMP Test kit",
+   "dur": "24:32",
+   "meta": [
+    "439",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 439,
+   "age": "4y ago"
+  },
+  {
+   "id": "q9r4_uiNjrk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside a 20 year old HD Satellite Receiver",
+   "dur": "34:34",
+   "meta": [
+    "1.7K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "4y ago"
+  },
+  {
+   "id": "cBgZVZvLJBs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Making Portable GFCI Outlet with and without ground",
+   "dur": "39:37",
+   "meta": [
+    "4.6K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 4600,
+   "age": "4y ago"
+  },
+  {
+   "id": "olq9wdeNS4c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Isolation Transformers and  GFCI Outlets",
+   "dur": "16:39",
+   "meta": [
+    "4.1K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 4100,
+   "age": "4y ago"
+  },
+  {
+   "id": "z3iHIkC32A8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Vibrating Reed Frequency Meter (and Spectrum Analyzer)",
+   "dur": "11:54",
+   "meta": [
+    "1.3K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "4y ago"
+  },
+  {
+   "id": "NlBEUTfIxuA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Computers mimic a  Vintage Vibrating Reed Frequency Meter",
+   "dur": "22:07",
+   "meta": [
+    "458",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 458,
+   "age": "4y ago"
+  },
+  {
+   "id": "Jvw8flaKB4A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The FFT and how to use it",
+   "dur": "38:53",
+   "meta": [
+    "801",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 801,
+   "age": "4y ago"
+  },
+  {
+   "id": "YQSh0ba-BWc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fourier Transforms and Negative Frequencies",
+   "dur": "32:35",
+   "meta": [
+    "1.1K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "4y ago"
+  },
+  {
+   "id": "ZhCvTCeGvMc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lets Build a Dead Man's Switch",
+   "dur": "1:22:40",
+   "meta": [
+    "4.9K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 4900,
+   "age": "4y ago"
+  },
+  {
+   "id": "zK3aXApLPRI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Quicktest QT1 : A great tool for electrical testing.",
+   "dur": "4:40",
+   "meta": [
+    "2K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Br9dQiSisYg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When a Light Bulb is better than a Fuse",
+   "dur": "11:38",
+   "meta": [
+    "97K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 97000,
+   "age": "4y ago"
+  },
+  {
+   "id": "zg82ET7EgQY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Comparing Two Vintage Movie Cameras I've Actually Used",
+   "dur": "28:00",
+   "meta": [
+    "1.9K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1900,
+   "age": "4y ago"
+  },
+  {
+   "id": "sW715ovSItw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Vintage 8mm Movie Projectors I Used Long Ago",
+   "dur": "27:11",
+   "meta": [
+    "3.6K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3600,
+   "age": "4y ago"
+  },
+  {
+   "id": "5ABYhvwU9No",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "A vintage Bell and Howell Filmosound 1540 16mm Projector",
+   "dur": "24:41",
+   "meta": [
+    "21K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "4y ago"
+  },
+  {
+   "id": "B0gVgvsG-XY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Yikes! Don't use this Chinese-made Outlet!",
+   "dur": "12:06",
+   "meta": [
+    "24K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 24000,
+   "age": "4y ago"
+  },
+  {
+   "id": "JQJMvBtKt40",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "240 Amps through a Lamp Cord.",
+   "dur": "0:35",
+   "meta": [
+    "2.8K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 2800,
+   "age": "4y ago"
+  },
+  {
+   "id": "k0g2LinZWyA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lets try overloading some extension cords.",
+   "dur": "29:52",
+   "meta": [
+    "37K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 37000,
+   "age": "4y ago"
+  },
+  {
+   "id": "QccOg_J1Xhw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How many Amps to burn up 14/2 electrical wiring?",
+   "dur": "11:45",
+   "meta": [
+    "683K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 683000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Y-2LmKlQW2A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "270 Amps through Wire-Nuts aka Marr Connectors",
+   "dur": "5:51",
+   "meta": [
+    "3.8K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 3800,
+   "age": "4y ago"
+  },
+  {
+   "id": "fhXtXVBvSfg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Testing an Eaton Bolt on Type Circuit Breaker",
+   "dur": "7:59",
+   "meta": [
+    "11K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "4y ago"
+  },
+  {
+   "id": "cMVnOZCGljc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Connectors: Which is the Weakest Link",
+   "dur": "16:56",
+   "meta": [
+    "43K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "4y ago"
+  },
+  {
+   "id": "Df7bAEdIILI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Overcurrent +14/2 + Fiberglass in a 2x4 Wall",
+   "dur": "16:16",
+   "meta": [
+    "12K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "4y ago"
+  },
+  {
+   "id": "lFdSXTKsKwA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Spray Foam and Overheated Wire",
+   "dur": "18:47",
+   "meta": [
+    "12K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "4y ago"
+  }
+ ]
+}

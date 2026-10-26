@@ -1,0 +1,1012 @@
+{
+ "channel": "Modern-Day Edison",
+ "id": "UCCRkSQuy74rHjM2OczpGjrw",
+ "handle": "http://www.youtube.com/@TheModernDayEdison",
+ "description": "Modern-Day Edison is dedicated to helping students master Electrical Engineering through simple explanations, practical examples, and real-world applications. Whether you're preparing for diploma exams, industry jobs, or an ETO career in the Merchant Navy, this channel is built for you.\n\"From Classroom Circuits to Shipboard Systems.\n",
+ "subs": "5.08K subscribers",
+ "videos_count": "106 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "egm30Z4BYoM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does the Neutral Wire Actually Do | Electrical Engineering Explained",
+   "dur": "8:02",
+   "meta": [
+    "520K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 520000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "sB33RdVyZ9E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "MOSFET vs IGBT: Which One to Use and Why? (Power Electronics Explained)",
+   "dur": "6:15",
+   "meta": [
+    "138K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 138000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "Do5tRfgzaX0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Core Type vs Shell Type Transformer Explained: Differences & Comparison",
+   "dur": "7:31",
+   "meta": [
+    "12K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "H88eLhXzbmM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inverter Explained: DC to AC Converter | Power Electronics Basics",
+   "dur": "6:49",
+   "meta": [
+    "1.6K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "1mo ago"
+  },
+  {
+   "id": "E0vdgl-FpXI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Transformers Work: The Physics, Math, and Core Design Explained",
+   "dur": "7:01",
+   "meta": [
+    "1.5K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1mo ago"
+  },
+  {
+   "id": "iF1TVxT5SM4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformer on No Load Explained: Phasor Diagram, Core Loss & No-Load Current",
+   "dur": "5:34",
+   "meta": [
+    "1.5K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1mo ago"
+  },
+  {
+   "id": "1kXNXmKzxag",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Three-Phase Transformers Actually Work (Star vs Delta & Vector Groups Explained)",
+   "dur": "7:40",
+   "meta": [
+    "1.4K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "4w ago"
+  },
+  {
+   "id": "QcepeEbm3Zo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Power Electronics? | Explained Simply",
+   "dur": "5:36",
+   "meta": [
+    "1.3K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "1mo ago"
+  },
+  {
+   "id": "pV3vFwF3JZI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Solar Panels Actually Work: The Physics Behind Photovoltaics",
+   "dur": "9:11",
+   "meta": [
+    "1.2K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "3w ago"
+  },
+  {
+   "id": "dBeygwvvfIw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ship Electrical Systems: Power Electronics Basics Every ETO Must Know",
+   "dur": "6:05",
+   "meta": [
+    "1.2K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "1mo ago"
+  },
+  {
+   "id": "M-5kqZsE7q0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor vs Generator | What's Actually the Difference?",
+   "dur": "3:58",
+   "meta": [
+    "1K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "JsddwZlZ7u4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Actually Happens During an Electric Shock? |Electrical Engineering Explained",
+   "dur": "5:59",
+   "meta": [
+    "1K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "2_3M6giK4U4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why EV Charging Melts Household Outlets (The Engineering Truth)",
+   "dur": "9:27",
+   "meta": [
+    "1K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "4w ago"
+  },
+  {
+   "id": "VlA5CgLP7zI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Generator vs Alternator | What's the Difference?",
+   "dur": "4:33",
+   "meta": [
+    "1K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "y0-GHdV5gFQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Motor vs AC Motor — Which One Is Better?",
+   "dur": "6:57",
+   "meta": [
+    "996",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 996,
+   "age": "2mo ago"
+  },
+  {
+   "id": "f2ZmYtcw1tQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Commutation in DC Machines: Why Brushes Spark & How to Fix It",
+   "dur": "8:55",
+   "meta": [
+    "986",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 986,
+   "age": "3w ago"
+  },
+  {
+   "id": "RLTEhLzZ9Nw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Torque is ACTUALLY Produced in an Induction Motor (Torque-Slip Curve Explained)",
+   "dur": "8:46",
+   "meta": [
+    "895",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 895,
+   "age": "9d ago"
+  },
+  {
+   "id": "qqjale9B1-I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Common Transformer Faults: Internal Failures, Physics & Protection Explained",
+   "dur": "7:42",
+   "meta": [
+    "894",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 894,
+   "age": "4w ago"
+  },
+  {
+   "id": "YZDutCMsTXI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Ships Used Mercury In Navigation Gyroscopes",
+   "dur": "6:42",
+   "meta": [
+    "855",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 855,
+   "age": "1mo ago"
+  },
+  {
+   "id": "skB-8bjDrbQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Introduction to Chopper DC DC Converter",
+   "dur": "6:16",
+   "meta": [
+    "833",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 833,
+   "age": "1mo ago"
+  },
+  {
+   "id": "igYU7-cEng8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 Power Semiconductor Devices You Need to Know",
+   "dur": "6:38",
+   "meta": [
+    "821",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 821,
+   "age": "1mo ago"
+  },
+  {
+   "id": "EklsuLbltew",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why DC Motors Need a Starter (The Physics of Back EMF)",
+   "dur": "8:36",
+   "meta": [
+    "808",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 808,
+   "age": "3w ago"
+  },
+  {
+   "id": "A5bDvWZN9pQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC_Generators__Characteristics,_Circuits,_and_Shipboard_Applications",
+   "dur": "10:32",
+   "meta": [
+    "767",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 767,
+   "age": "3w ago"
+  },
+  {
+   "id": "pIJZiCEhfxc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Squirrel Cage vs Slip Ring Induction Motor: The Engineering Truth",
+   "dur": "6:11",
+   "meta": [
+    "719",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 719,
+   "age": "2w ago"
+  },
+  {
+   "id": "iQLYFin0Nwc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is It Called an Induction Motor? (The Physics Explained)",
+   "dur": "6:22",
+   "meta": [
+    "718",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 718,
+   "age": "2w ago"
+  },
+  {
+   "id": "2ozWqsAPLyo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Transformers Work Under Load: MMF Balance & Phasor Diagrams Explained",
+   "dur": "4:17",
+   "meta": [
+    "709",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 709,
+   "age": "1mo ago"
+  },
+  {
+   "id": "8mFRQL1QuEs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 3-Point Starters Fail at High Speed: The 4-Point Starter Solution",
+   "dur": "7:38",
+   "meta": [
+    "685",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 685,
+   "age": "3w ago"
+  },
+  {
+   "id": "-xEDEwG0HGg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside an Induction Motor: Complete Construction & Working Explained",
+   "dur": "7:59",
+   "meta": [
+    "673",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 673,
+   "age": "2w ago"
+  },
+  {
+   "id": "JVgEtGtOimI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Rotor Frequency Drops to 2 Hz Inside an Induction Motor",
+   "dur": "5:55",
+   "meta": [
+    "665",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 665,
+   "age": "10d ago"
+  },
+  {
+   "id": "meIPSgw5U84",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Actually IS Electricity? (Atoms, Energy, or Chemical Reaction?",
+   "dur": "5:44",
+   "meta": [
+    "632",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 632,
+   "age": "1mo ago"
+  },
+  {
+   "id": "8FgYfVyTqrs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How DC Motors & Generators Are Built: Inside Every Component",
+   "dur": "6:17",
+   "meta": [
+    "628",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 628,
+   "age": "3w ago"
+  },
+  {
+   "id": "3rkOSNnwgQQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformer Cooling Methods Explained: ONAN, ONAF, OFAF & Marine Systems",
+   "dur": "5:35",
+   "meta": [
+    "613",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 613,
+   "age": "4w ago"
+  },
+  {
+   "id": "eVlNhOX332o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How an Induction Motor ACTUALLY Works (Why It Can Never Reach Synchronous Speed)",
+   "dur": "9:31",
+   "meta": [
+    "602",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 602,
+   "age": "2w ago"
+  },
+  {
+   "id": "O3UNadWtZcQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Physics of Slip: How Induction Motors Actually Produce Torque",
+   "dur": "8:06",
+   "meta": [
+    "584",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 584,
+   "age": "11d ago"
+  },
+  {
+   "id": "_Brqkc9o4yA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why AC Motors Have a Speed Limit: Synchronous Speed Explained",
+   "dur": "7:13",
+   "meta": [
+    "562",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 562,
+   "age": "12d ago"
+  },
+  {
+   "id": "rZSibJYHIAY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Capacitor Filter Explained | How to Smooth Pulsating DC",
+   "dur": "5:08",
+   "meta": [
+    "570",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 570,
+   "age": "1mo ago"
+  },
+  {
+   "id": "XfgNPMS6g4s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Motor Starting Current Is So High (And Why It Doesn't Blow Instantly)",
+   "dur": "7:09",
+   "meta": [
+    "557",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 557,
+   "age": "8d ago"
+  },
+  {
+   "id": "AnCpF6Ig47U",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Auto Transformer Starter Explained: Working Principle, Circuit Diagram & Korndorfer Method",
+   "dur": "4:47",
+   "meta": [
+    "548",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 548,
+   "age": "3d ago"
+  },
+  {
+   "id": "t8gU1yG8hl0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AC VOLTAGE CONTROLLER — Same AC, Controlled Power",
+   "dur": "5:03",
+   "meta": [
+    "544",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 544,
+   "age": "1mo ago"
+  },
+  {
+   "id": "F-OU13h7DW8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Rotating Magnetic Field Explained: How AC Motors Actually Work",
+   "dur": "8:53",
+   "meta": [
+    "539",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 539,
+   "age": "13d ago"
+  },
+  {
+   "id": "TaMcmcA8NTw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Single Phase vs Three Phase  What's the Difference ?",
+   "dur": "4:30",
+   "meta": [
+    "538",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 538,
+   "age": "2mo ago"
+  },
+  {
+   "id": "z8p03C9kSfQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "SCR Working Principle for Beginners | Power Electronics Fundamentals",
+   "dur": "5:36",
+   "meta": [
+    "528",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 528,
+   "age": "1mo ago"
+  },
+  {
+   "id": "O5tTH6_DXFo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Controlled Rectifier Explained — How SCRs Control DC Voltage  Power Electronics",
+   "dur": "4:36",
+   "meta": [
+    "515",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 515,
+   "age": "1mo ago"
+  },
+  {
+   "id": "MVWzu5Oy-U0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformer Losses and Efficiency Explained: Core vs Copper Losses",
+   "dur": "7:27",
+   "meta": [
+    "514",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 514,
+   "age": "4w ago"
+  },
+  {
+   "id": "-_p1yKzdsn0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Short Circuits Happen ?",
+   "dur": "5:44",
+   "meta": [
+    "507",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 507,
+   "age": "2mo ago"
+  },
+  {
+   "id": "G7PB-f13KsA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Losses Work in DC Machines (Motor & Generator Power Flow Explained)",
+   "dur": "7:00",
+   "meta": [
+    "485",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 485,
+   "age": "3w ago"
+  },
+  {
+   "id": "0aDBzsreUB4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What is Ripple Factor? Half-Wave vs Full-Wave Rectifier Comparison Explained",
+   "dur": "5:37",
+   "meta": [
+    "453",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 453,
+   "age": "1mo ago"
+  },
+  {
+   "id": "uc9U7w2LC8M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 4.44? The Secret Math Behind Transformer Voltage Derivation | Modern-day Edison",
+   "dur": "6:03",
+   "meta": [
+    "438",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 438,
+   "age": "1mo ago"
+  },
+  {
+   "id": "L4bl14dI-to",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DOL Starter Working Principle: Power & Control Circuit Step-by-Step",
+   "dur": "7:42",
+   "meta": [
+    "401",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 401,
+   "age": "6d ago"
+  },
+  {
+   "id": "ntrDvLxrLKU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Starting Current Drops by 66%: Star Delta Starter Engineering Breakdown",
+   "dur": "9:38",
+   "meta": [
+    "404",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 404,
+   "age": "5d ago"
+  },
+  {
+   "id": "yi4I7qnl1fI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Transformer Protection Explained: Differential, Buchholz & Inrush Current",
+   "dur": "7:31",
+   "meta": [
+    "392",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 392,
+   "age": "4w ago"
+  },
+  {
+   "id": "M0LKb5srrvQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does an Alternator Generate Electricity? | Explained Simply",
+   "dur": "6:21",
+   "meta": [
+    "386",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 386,
+   "age": "2mo ago"
+  },
+  {
+   "id": "npR8ci-cqKE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Smartphone Batteries Work: The Engineering Behind Li-ion & Fast Charging",
+   "dur": "5:27",
+   "meta": [
+    "377",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 377,
+   "age": "13d ago"
+  },
+  {
+   "id": "oz7Ll99WuC0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Bridge Rectifier Explained | How 4 Diodes Convert AC to DC",
+   "dur": "4:14",
+   "meta": [
+    "357",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 357,
+   "age": "1mo ago"
+  },
+  {
+   "id": "kYQM8rDbgA4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a Diode Work? | Forward & Reverse Bias Explained",
+   "dur": "4:42",
+   "meta": [
+    "345",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 345,
+   "age": "1mo ago"
+  },
+  {
+   "id": "PDoUUsPYg1s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Motor Applications: Why Wrong Motor Selection Destroys Equipment",
+   "dur": "6:10",
+   "meta": [
+    "335",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 335,
+   "age": "2w ago"
+  },
+  {
+   "id": "e8sIcQPWwa8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a Transformer Work | Working Principle Explained",
+   "dur": "4:58",
+   "meta": [
+    "326",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 326,
+   "age": "2mo ago"
+  },
+  {
+   "id": "stgQpZeh3uI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How a Rotor Resistance Starter Works (And Why Cage Motors Can't Use It)",
+   "dur": "6:51",
+   "meta": [
+    "330",
+    "2d ago"
+   ],
+   "channel_id": null,
+   "views": 330,
+   "age": "2d ago"
+  },
+  {
+   "id": "a3PDWm6CxBk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside a DC Motor How It Actually Works ?",
+   "dur": "5:19",
+   "meta": [
+    "288",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 288,
+   "age": "2mo ago"
+  },
+  {
+   "id": "rLkZFKn81Jw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a Synchronous Motor Work? | Explained Simply",
+   "dur": "5:19",
+   "meta": [
+    "280",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 280,
+   "age": "2mo ago"
+  },
+  {
+   "id": "qwN4RTDhfpE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Every Home Needs an Earth Wire",
+   "dur": "7:42",
+   "meta": [
+    "252",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 252,
+   "age": "2mo ago"
+  },
+  {
+   "id": "SEQkmPqHOPI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does an MCB Actually Work ?",
+   "dur": "5:14",
+   "meta": [
+    "253",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 253,
+   "age": "2mo ago"
+  },
+  {
+   "id": "9T2XBaP5P5s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a 3-Phase Induction Motor Work? | Explained Simply",
+   "dur": "5:05",
+   "meta": [
+    "252",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 252,
+   "age": "2mo ago"
+  },
+  {
+   "id": "Ll24lYxjlh0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WHY DON'T BIRDS GET ELECTRIC SHOCK? |11000 VOLTS... STILL SAFE?",
+   "dur": "8:32",
+   "meta": [
+    "209",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 209,
+   "age": "2mo ago"
+  },
+  {
+   "id": "08JoH9QG7aE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Induction Motor Speed Control Actually Works (V/f, Poles & Rotor Control)",
+   "dur": "10:36",
+   "meta": [
+    "202",
+    "1d ago"
+   ],
+   "channel_id": null,
+   "views": 202,
+   "age": "1d ago"
+  },
+  {
+   "id": "sf3aSGLszwk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Industries Prefer Induction Motors",
+   "dur": "7:50",
+   "meta": [
+    "198",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 198,
+   "age": "2mo ago"
+  },
+  {
+   "id": "jaIhey9j2Eo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Electricity Actually Works | Voltage, Current & Ohm's Law Explained",
+   "dur": "4:19",
+   "meta": [
+    "171",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 171,
+   "age": "2mo ago"
+  },
+  {
+   "id": "iP-PncaxN9k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Full-Wave Rectifier Explained | How Both AC Half-Cycles Are Used",
+   "dur": "5:31",
+   "meta": [
+    "162",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 162,
+   "age": "1mo ago"
+  },
+  {
+   "id": "aw6Vb36RsWk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Half-Wave Rectifier Explained | How AC Becomes DC",
+   "dur": "5:25",
+   "meta": [
+    "150",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 150,
+   "age": "1mo ago"
+  },
+  {
+   "id": "vW_wJiG8lEA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Series vs Parallel Circuits Explained | Electrical Engineering for Beginners",
+   "dur": "4:37",
+   "meta": [
+    "134",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 134,
+   "age": "2mo ago"
+  },
+  {
+   "id": "ci4qLnUPncU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fuse vs MCB | Which One Is Better?",
+   "dur": "5:51",
+   "meta": [
+    "121",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 121,
+   "age": "2mo ago"
+  },
+  {
+   "id": "9-Uxkg5pPBo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Secret Behind High Voltage Power Transmission",
+   "dur": "4:30",
+   "meta": [
+    "108",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 108,
+   "age": "2mo ago"
+  },
+  {
+   "id": "WPMB4iPGiaA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AC vs DC Explained  Why Homes Use AC & Batteries Use DC",
+   "dur": "10:53",
+   "meta": [
+    "98",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 98,
+   "age": "2mo ago"
+  },
+  {
+   "id": "sUDU-MbVlJo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Power & Energy Explained | Complete Beginner Guide",
+   "dur": "7:50",
+   "meta": [
+    "96",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 96,
+   "age": "2mo ago"
+  },
+  {
+   "id": "LPoiFpEoKKw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens If You Connect DC to a Transformer?",
+   "dur": "6:55",
+   "meta": [
+    "93",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 93,
+   "age": "2mo ago"
+  },
+  {
+   "id": "p1l10yf3vaE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Kirchhoff's Laws Explained | KCL & KVL Made Easy for Beginners",
+   "dur": "8:10",
+   "meta": [
+    "54",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 54,
+   "age": "2mo ago"
+  },
+  {
+   "id": "eVzU4G5CdVc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why VFDs Never Change Frequency Alone | The Science of V/f Control",
+   "dur": "5:14",
+   "meta": [
+    "16",
+    "2h ago"
+   ],
+   "channel_id": null,
+   "views": 16,
+   "age": "2h ago"
+  }
+ ]
+}

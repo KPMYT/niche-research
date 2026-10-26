@@ -1,0 +1,2908 @@
+{
+ "niche": "faceless electrical safety channel",
+ "confidence": 0.69,
+ "channels": [
+  {
+   "ytChannelId": "UCpOJZSocCYp9ufh9qF5W5vQ",
+   "title": "Cursed Controls",
+   "description": "Not your typical electrical channel. If you like Industrial maintenance, PLC\u2019s, VFD\u2019s, or motor controls this is the place for you. Also check out my over the top residential wiring. This channel is not meant to teach you how to be an electrician, and definitely not meant to teach you how to be safe. It\u2019s just a glimpse into how my brain works. Do not try this stuff at home!\n\nFollow me on:\n\nYouTube \n\nhttps://youtube.com/@cursed_controls?si=xngSSzy6hkPy28tg\n\nInstagram\n\nhttps://www.instagram.com/cursed_controls?igsh=a3g2anFpZjJ4czQy&utm_source=qr\n\nFacebook \n\nhttps://www.facebook.com/share/19FNVZUj6A/?mibextid=wwXIfr\n\nTikTok \n\nhttps://www.tiktok.com/@cursed_controls?_r=1&_t=ZP-97xBl0sPJvi",
+   "username": "Cursed_Controls",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/WC29l65Tz-q1coQMcVI-byFLomGfZczIsj68DeezN7nOnQ8mukvp7Aj7Bxd2tPK3uaM8WQxa=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2024-11-07",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.38,
+   "tags": [
+    "tech",
+    "engineering",
+    "do it yourself",
+    "education"
+   ],
+   "googleTrendsKeyword": "PLC",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 378000,
+    "monthlyRevenue": 26821.52,
+    "monthlyViews": 17946818,
+    "totalViews": 125065895,
+    "totalVideos": 105,
+    "avgViewsPerVideo": 294823.53,
+    "medianViewsPerVideo": 230500,
+    "avgVideoLength": 922.65,
+    "uploadsPerWeek": 0.25,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-09-28",
+    "rpm": {
+     "base": 7.2,
+     "total": 1.4945
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "XgYMrySNl2Q",
+     "video_title": "How I wired my house.",
+     "video_view_count": 1300000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/XgYMrySNl2Q/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4I_42QvQYY4OoEIOCoAQ==&rs=AOn4CLAxiFog-ZzKArm-9a4l6g3rO9I8tg&usqp=CBU",
+     "length_text": "22:30"
+    },
+    {
+     "video_id": "E_nnWOwc-EI",
+     "video_title": "Grounding Issues",
+     "video_view_count": 741000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/E_nnWOwc-EI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4Iv5akyQYY4OoEIOCoAQ==&rs=AOn4CLCXaw7o-BFm5Kc9WIJEsiyxOeL1IQ&usqp=CBU",
+     "length_text": "9:40"
+    },
+    {
+     "video_id": "zzO3kIbHQGk",
+     "video_title": "Everything That Can Go Wrong With A VFD",
+     "video_view_count": 735000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/zzO3kIbHQGk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4IsceKzwYY4OoEIOCoAQ==&rs=AOn4CLCmN3xIk3QMdlaYPblPHK1oNNnJ4w&usqp=CBU",
+     "length_text": "15:59"
+    },
+    {
+     "video_id": "q1acKmEeShY",
+     "video_title": "Installing a Soft Start",
+     "video_view_count": 439000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/q1acKmEeShY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4Ixsj6xAYY4OoEIOCoAQ==&rs=AOn4CLCAISWmUJtz5BKlPgnmJ90Hq0FGRA&usqp=CBU",
+     "length_text": "17:10"
+    },
+    {
+     "video_id": "6O5Lpm2iE44",
+     "video_title": "Fixing the Poop Screw",
+     "video_view_count": 399000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/6O5Lpm2iE44/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAGi85f_Aw4IgZHtyQYY4OoEIOCoAQ==&rs=AOn4CLCjEzibs9jtXr_itJnl5QtcCKb3Cg&usqp=CBU",
+     "length_text": "6:56"
+    }
+   ],
+   "score": 0.7178247570991516,
+   "createdAt": "2025-05-05T00:08:35.173446",
+   "updatedAt": "2026-10-19T17:12:57.737953"
+  },
+  {
+   "ytChannelId": "UCqZUswoAI9E9iFcTeS7L6gw",
+   "title": "ElectroTest",
+   "description": "ElectroTest: I'm an electrician and have worked for several companies (design, installation, and maintenance). Now, I work for myself as an entrepreneur. At each site, I have to  equipment and cables. Of course, there are regulatory documents and standarts, but in contentious situations, my test setup helps me. It allows me to make reliable and cost-effective decisions, which also increases the safety of electrical networks. On this channel, I will post videos testing wires, cables, circuit breakers, connections and other electrical equipment. Subscribe, and I hope you\u2019ll find it interesting!",
+   "username": "ElectroTest_1",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/K8E2sWsU_OUKiaEAPJ7cWOLgXWoK3FClqudUc3XfIdC9O2LroRDVdnRKgOZjuaaH-3LBO6Kw7g=s160-c-k-c0x00ffffff-no-rj",
+   "location": "DE",
+   "channelCreationDate": "2024-07-17",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.58,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "do it yourself",
+    "education"
+   ],
+   "googleTrendsKeyword": "Electrical Testing",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 42200,
+    "monthlyRevenue": 1255.55,
+    "monthlyViews": 494779,
+    "totalViews": 8423371,
+    "totalVideos": 84,
+    "avgViewsPerVideo": 114864.91,
+    "medianViewsPerVideo": 5900,
+    "avgVideoLength": 441.93,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.5376
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "Ej13yGyhFSk",
+     "video_title": "Test MCB 16A. ETI, SE, Hager, ABB, CHINT",
+     "video_view_count": 1800000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Ej13yGyhFSk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDT8HZhL7W27AvHBKnyrdiLIXNLUA",
+     "length_text": "5:37"
+    },
+    {
+     "video_id": "XPIM_xbMC8I",
+     "video_title": "Who Fails First? Electrician\u2019s Legend: Thin vs Thick Wire in Parallel",
+     "video_view_count": 1700000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/XPIM_xbMC8I/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcDBGRYtYoV2RnN901J3dW65KlGg",
+     "length_text": "5:59"
+    },
+    {
+     "video_id": "f3LE9RHZEeU",
+     "video_title": "Original Wago or Copy? Current Test Wago 222",
+     "video_view_count": 1000000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/f3LE9RHZEeU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD01zUE7ZZPD62oMbh_kvcXA8rBxA",
+     "length_text": "6:29"
+    },
+    {
+     "video_id": "2hPfWA9iVoI",
+     "video_title": "1,5 vs 2,5 mm2 Wire in series Load test",
+     "video_view_count": 569000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2hPfWA9iVoI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA-H40sUNY5ESLu-56NrrRE1Kg85Q",
+     "length_text": "10:12"
+    },
+    {
+     "video_id": "pNxglA9lhv8",
+     "video_title": "Solid vs Flexible stranded wire | Current test",
+     "video_view_count": 424000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pNxglA9lhv8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDmbJRRQzDzfXHPR7BAfLYeOZh_Q",
+     "length_text": "10:04"
+    }
+   ],
+   "score": 0.7151525616645813,
+   "createdAt": "2025-05-17T12:14:14.838181",
+   "updatedAt": "2026-10-19T17:16:05.435818"
+  },
+  {
+   "ytChannelId": "UCHhiS7OziiRgZ7wmZM4GKsw",
+   "title": "SHOCKPROOF LIVING",
+   "description": "ShockProof Living exposes hidden electrical and fire dangers inside everyday homes. From damaged outlets and overloaded wiring to common appliance mistakes, our mission is simple: protect families and prevent home disasters before they happen.\n\nEvery week we break down real safety risks, warning signs, and practical prevention tips that every homeowner, renter, and DIY enthusiast should know. One small spark can change everything \u2014 awareness is your first line of defense.\n\nSubscribe for weekly videos on:\n\u26a1 Electrical safety\n\ud83d\udd25 Home fire prevention\n\ud83c\udfe0 Hidden household hazards\n\ud83d\udd0c Wiring, outlets, and everyday appliances\n\nProtect what matters most.",
+   "username": "SHOCKPROOFLIVING",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/CDd_olDx3UiUoVGnYa_eJBvV3-E8tjBcRC1IWbCw1jJIpLWsytFIFPTGlT_t2zUfduqeDwdHIA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-12-07",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "do it yourself",
+    "crafts",
+    "engineering",
+    "home improvement"
+   ],
+   "googleTrendsKeyword": "home improvement",
+   "category": {
+    "id": 180,
+    "name": "do it yourself"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 604,
+    "monthlyRevenue": 0,
+    "monthlyViews": 32730,
+    "totalViews": 185086,
+    "totalVideos": 45,
+    "avgViewsPerVideo": 5364.91,
+    "medianViewsPerVideo": 853.5,
+    "avgVideoLength": 444.91,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-12-19",
+    "lastVideoDate": "2026-07-19",
+    "rpm": {
+     "base": 1.8,
+     "total": 2.9402
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "Lk1aHR4a4vE",
+     "video_title": "GFCI Outlet Won\u2019t Reset? FIX IT in 5 Minutes (Step-by-Step)",
+     "video_view_count": 64000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Lk1aHR4a4vE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBnEa0Jn5HfSb6MWEQEPtbRl5WQ2w",
+     "length_text": "8:04"
+    },
+    {
+     "video_id": "SXxs0LwXPLY",
+     "video_title": "How to Replace a GFCI Outlet Safely (Avoid These Mistakes!)",
+     "video_view_count": 57000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/SXxs0LwXPLY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2v8LM2ymtN1URCrmZL-d-4z9gBA",
+     "length_text": "14:17"
+    },
+    {
+     "video_id": "JLXIgPq2eYU",
+     "video_title": "Why Your Circuit Breaker Won\u2019t Reset (\u26a0\ufe0f Don\u2019t Force It!)",
+     "video_view_count": 14000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JLXIgPq2eYU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBzXxc2Ipww5NJMX8dzisWd3--DSA",
+     "length_text": "12:51"
+    },
+    {
+     "video_id": "w3JceddSkJU",
+     "video_title": "How to Replace a Light Switch With a Dimmer (Safe DIY Step-by-Step)",
+     "video_view_count": 8300,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/w3JceddSkJU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAx3rsWJA03WGo1syt4Hwml1E9_Aw",
+     "length_text": "19:12"
+    },
+    {
+     "video_id": "pEA6W5CE1Eo",
+     "video_title": "The ONLY Non-Metallic Cable Splice You Can Legally Hide Inside Walls",
+     "video_view_count": 3800,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pEA6W5CE1Eo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDOif8HTzmPhTsXHVvh0j7kvubiHw",
+     "length_text": "7:04"
+    }
+   ],
+   "score": 0.711952805519104,
+   "createdAt": "2026-07-29T07:39:31.949812",
+   "updatedAt": "2026-10-19T20:05:09.800931"
+  },
+  {
+   "ytChannelId": "UCpZ1AQDdJ5moZwFlCSzFvRQ",
+   "title": "Remote Electrician",
+   "description": "I'm not a licensed electrician. This channel shares how-to's and tips that may help DIY homeowners \u2014 not for beginners.\n\nDisclaimer: Electrical work can cause injury, fire, or property damage if done wrong. This content is for informational purposes only and isn't professional advice. In many areas homeowners are legally allowed to do their own electrical work, but rules, permit requirements, and licensing laws vary by location \u2014 it's on you to check and follow your local codes before starting any project. Always turn off power at the breaker, test before you touch, and if you're unsure at any point, hire a licensed electrician. By watching or following this channel, you accept full responsibility for any electrical work you perform, and I'm not liable for any injury, loss, or damage that results.",
+   "username": "remoteelectrician",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/t2PfOI5e8yZ5yEyYcETbFLl8IaQ9LTaUtgP3ww7Jdp_CNXM-PlRNRX3oBG5Mi2VnRscFDePH=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2022-09-18",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 4.71,
+   "tags": [
+    "engineering",
+    "home improvement",
+    "educational",
+    "tech"
+   ],
+   "googleTrendsKeyword": "Electrician",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 7750,
+    "monthlyRevenue": 335.62,
+    "monthlyViews": 142909,
+    "totalViews": 3378738,
+    "totalVideos": 57,
+    "avgViewsPerVideo": 58075.89,
+    "medianViewsPerVideo": 17000,
+    "avgVideoLength": 326.98,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2023-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.3485
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "lUAaVwSjk3M",
+     "video_title": "How to Change Electrical Outlet As a Beginner",
+     "video_view_count": 479000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lUAaVwSjk3M/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB9HtWNh5kCP3K6DOvGKQP94csFg",
+     "length_text": "5:21"
+    },
+    {
+     "video_id": "-ckZDjywVPA",
+     "video_title": "How to Install GFCI Outlet (4 Wires)",
+     "video_view_count": 315000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-ckZDjywVPA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnl5h5byAbHInKLBTVjroTr1LF5w",
+     "length_text": "8:19"
+    },
+    {
+     "video_id": "o82wv4cEIJk",
+     "video_title": "GFCI Outlet Not Working \ud83e\udd37\u200d\u2642\ufe0f Can't Reset It",
+     "video_view_count": 305000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/o82wv4cEIJk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJKVXN--s__PzueXg3gYJTTKW2yQ",
+     "length_text": "6:11"
+    },
+    {
+     "video_id": "Rix5A8ku10g",
+     "video_title": "Outlets Lights Not Working but Breaker is ON",
+     "video_view_count": 303000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Rix5A8ku10g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAmdQBYNWQWMFWrvuqeCdj84HA-Q",
+     "length_text": "10:06"
+    },
+    {
+     "video_id": "8i0GJ6-cG8k",
+     "video_title": "How to Change Out a Light Switch Like a Pro!",
+     "video_view_count": 232000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/8i0GJ6-cG8k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqkGHTe_25AzShCFY4aSuhno48SA",
+     "length_text": "3:04"
+    }
+   ],
+   "score": 0.7062164545059204,
+   "createdAt": "2023-11-11T06:48:44.956594",
+   "updatedAt": "2026-10-19T08:54:39.789264"
+  },
+  {
+   "ytChannelId": "UCvObaOPoaXH45uGUhDbGHxg",
+   "title": "Electro Academy",
+   "description": "Welcome to The Electro Academy.!\n\nThis channel is designed primarily for students of Electrical Engineering and Electrotechnology, helping you master the concepts that often cause confusion. \nComplex topics are explained in a simple, clear, and engaging way, making learning easier and more enjoyable.\n\nBut it\u2019s not just for students\u2014professionals working in the field, as well as those looking to update or expand their knowledge, will also find great value here.\n\nWe invite you to support our channel by becoming a Sponsor or Patron. \nYour contributions will help us continue creating high-quality, educational content. \nSimply click the link on this page to \"Become a Patron.\"\n\nYour support is greatly appreciated.! \nStay with us, and enjoy expertly explained theoretical videos made just for you.",
+   "username": "ElectroAcademyEA",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/AKJ7WL7DhlAtu3jDlhjQ3iUotr32VVrkfJ-AOa4-cJ8p75Mfh6PjZG31giHHobpmA6TFFi_yjZQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "LK",
+   "channelCreationDate": "2021-05-10",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.6,
+   "tags": [
+    "engineering",
+    "tech & gadgets",
+    "education",
+    "science"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 43700,
+    "monthlyRevenue": 0,
+    "monthlyViews": 98642,
+    "totalViews": 3303903,
+    "totalVideos": 57,
+    "avgViewsPerVideo": 58194.53,
+    "medianViewsPerVideo": 16000,
+    "avgVideoLength": 492.76,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2021-10-19",
+    "lastVideoDate": "2026-05-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.2444
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "WKh5D4jTwKQ",
+     "video_title": "ATS panel wiring / Automatic Changeover Switch for Generator / Automatic Transfer Switch",
+     "video_view_count": 604000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WKh5D4jTwKQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6116cU-yXXHwWyLmttKZY_IjHNA",
+     "length_text": "10:02"
+    },
+    {
+     "video_id": "nyH-ewbzf9c",
+     "video_title": "How to Run a 3-Phase Motor on Single-Phase Supply / 250K+ View Tutorial",
+     "video_view_count": 300000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/nyH-ewbzf9c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrHqwmkbt7A5Zlb4d4uRLOBUIzeA",
+     "length_text": "7:21"
+    },
+    {
+     "video_id": "d2UC56t0Ux4",
+     "video_title": "\u26a1 Surge Protection Device (SPD) | Working Principle & Installation Explained",
+     "video_view_count": 252000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/d2UC56t0Ux4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEWS2TxhQuHC5GtsjZkMeYEyUArg",
+     "length_text": "10:57"
+    },
+    {
+     "video_id": "82kSAOOcouA",
+     "video_title": "How ATS Starts Your Generator Automatically (No Manual Switching!)",
+     "video_view_count": 195000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/82kSAOOcouA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoGSF4vxD7w_G7lUAVyw55jb1rIA",
+     "length_text": "14:57"
+    },
+    {
+     "video_id": "WnQh-J0rRYg",
+     "video_title": "Single phase Induction Motor / Capacitor start capacitor run motor / Best video for you to learn.!\ud83d\ude0d\ud83d\udcaa",
+     "video_view_count": 162000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/WnQh-J0rRYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaHtLyOWQLwcHSB8lX-QlVONR_wA",
+     "length_text": "7:52"
+    }
+   ],
+   "score": 0.7043803930282593,
+   "createdAt": "2023-08-19T08:29:31.901313",
+   "updatedAt": "2026-10-19T07:50:43.129263"
+  },
+  {
+   "ytChannelId": "UC59xAr7pRzJVtSZkfKBCHhg",
+   "title": "Electrical Projects [CreativeLab]",
+   "description": "YouTube channel about DIY Electronics. Here you can find DIY Electrical Projects like levitation, High voltage, and a lot of other interesting and original projects. The main idea of the channel is to make short, not boring videos. Subscribe and see for yourself!",
+   "username": "ElectricalPro",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nXuaCebPi8RjzINYxrETo1-K9WQerCEIndpQMoSs0BfQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2014-06-18",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.14,
+   "tags": [
+    "tech",
+    "engineering",
+    "do it yourself",
+    "diy projects"
+   ],
+   "googleTrendsKeyword": "Electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 113000,
+    "monthlyRevenue": 90.05,
+    "monthlyViews": 35744,
+    "totalViews": 12861497,
+    "totalVideos": 63,
+    "avgViewsPerVideo": 232074.07,
+    "medianViewsPerVideo": 40000,
+    "avgVideoLength": 280.41,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2014-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.5193
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "MKiITEsOwRA",
+     "video_title": "Cheap Wi-Fi IP Surveillance Camera (Very little DIY needed)",
+     "video_view_count": 3700000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/MKiITEsOwRA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQDE0Q9-TMBSA5eJ19LE-hMmn3VQ",
+     "length_text": "7:01"
+    },
+    {
+     "video_id": "XtSHCPakVC8",
+     "video_title": "Automatic ON and OFF Light Switch | Simple DIY Project",
+     "video_view_count": 1400000,
+     "video_upload_date": "2017-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/XtSHCPakVC8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaohCOQV38nTZ2tQUybZh3YmlBVg",
+     "length_text": "5:02"
+    },
+    {
+     "video_id": "2DckxcYoEEw",
+     "video_title": "How to charge Samsung Galaxy S3 or S4 with Broken charging port / Another way of charging \u2714",
+     "video_view_count": 1000000,
+     "video_upload_date": "2016-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2DckxcYoEEw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5FIw-2aJoKlvmXLv7qMzpte5iMw",
+     "length_text": "2:06"
+    },
+    {
+     "video_id": "rT9-HUzUqhQ",
+     "video_title": "Thermoelectric Cooler - Device That Makes Ice and Electricity",
+     "video_view_count": 1000000,
+     "video_upload_date": "2019-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rT9-HUzUqhQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXTnb--CouC_k5FzAocu-toj1aQA",
+     "length_text": "5:50"
+    },
+    {
+     "video_id": "NLcB8EmJ_fc",
+     "video_title": "What Happens If You Cut Wires in HDMI Cable?",
+     "video_view_count": 851000,
+     "video_upload_date": "2019-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NLcB8EmJ_fc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvL2sTmOVn3Jnnj3BotDlJLHMSYQ",
+     "length_text": "8:04"
+    }
+   ],
+   "score": 0.7039251327514648,
+   "createdAt": "2025-02-19T19:13:47.345641",
+   "updatedAt": "2026-10-19T16:02:59.623801"
+  },
+  {
+   "ytChannelId": "UCoFT_ax13fFTm7pfReHU2yA",
+   "title": "S.E.P",
+   "description": "Welcome To My Channel: Simple Electronic Projects\nIn this channel, we build simple electronic projects\nStep-by-step training of projects that anyone can do even without expertise\nThank you very much for choosing this channel for training\nI hope I have entertained you or taught you a little about electronics",
+   "username": "Simple.E.P",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/mFFz7_wj0dPtY8uoDjoJc9sCDS1S77-H7Y1_Z53i5Ifv-kbsz4h3LrjGxh8HKQatclpBhB13GEc=s160-c-k-c0x00ffffff-no-rj",
+   "location": "GB",
+   "channelCreationDate": "2023-09-26",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.15,
+   "tags": [
+    "do it yourself",
+    "engineering",
+    "tech",
+    "lifestyle"
+   ],
+   "googleTrendsKeyword": "Electronics",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 14600,
+    "monthlyRevenue": 0,
+    "monthlyViews": 10242,
+    "totalViews": 2507446,
+    "totalVideos": 42,
+    "avgViewsPerVideo": 63114.04,
+    "medianViewsPerVideo": 1450,
+    "avgVideoLength": 358.57,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2023-10-19",
+    "lastVideoDate": "2024-10-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.3241
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "vKbb6hWrv0c",
+     "video_title": "Home Made LED and Diode Tester Auto Voltage / Simple and Useful",
+     "video_view_count": 1400000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vKbb6hWrv0c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcaYp8JBps-IH-jI9AWEMb6cwLPg",
+     "length_text": "6:25"
+    },
+    {
+     "video_id": "pRUvi_BHe3o",
+     "video_title": "TOP 10 ELECTRONIC PROJECTS USING BC547 TRANSISTOR",
+     "video_view_count": 272000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pRUvi_BHe3o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQpI6sIsevrVAd8OPqb31ew6upiQ",
+     "length_text": "31:31"
+    },
+    {
+     "video_id": "mb2qPIeX9r8",
+     "video_title": "LED Heart Beating Effect Using IC NE555",
+     "video_view_count": 29000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mb2qPIeX9r8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH_yYaM7fIjPlZeeW5ix3t_UZA-Q",
+     "length_text": "5:38"
+    },
+    {
+     "video_id": "4ETdi7Z2Bb8",
+     "video_title": "LED Police Flasher Circuit using Transistor / Without IC",
+     "video_view_count": 11000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/4ETdi7Z2Bb8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO61rqHLauthMR6VFs8jMMmS8_dA",
+     "length_text": "6:55"
+    },
+    {
+     "video_id": "jTKWaJ_tG9E",
+     "video_title": "LED Flasher Like FBI Police Light Using NE555 Timer IC",
+     "video_view_count": 8600,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jTKWaJ_tG9E/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw6bIHTLbJmVynUZglA1B8XVKKIg",
+     "length_text": "4:47"
+    }
+   ],
+   "score": 0.703095018863678,
+   "createdAt": "2023-10-31T20:49:18.090996",
+   "updatedAt": "2026-10-19T08:47:09.917837"
+  },
+  {
+   "ytChannelId": "UCWTfMsDoO0Rr6g-FP4kyX7A",
+   "title": "EL Tronic",
+   "description": "Welcome to my YouTube Channel..\n\nHere I share Single Phase & 3 Phase Wiring Diagrams, Motor Control Circuits, Electronic & Arduino Projects, Power Electronic Designs, Pneumatic & Automation Circuits, Sensor Projects, and even New Invention Ideas.\n\nMy main goal is to help you understand every circuit clearly, simply, and practically, so you can learn, build, and create with confidence.\u2764\ufe0f",
+   "username": "ELTronic3",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kA2ogV8BZ_XuL7PFlo42Yyx2nXOL2Z9k1HPYJhjdDjSA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "LK",
+   "channelCreationDate": "2021-02-03",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.24,
+   "tags": [
+    "engineering",
+    "education",
+    "tech gadgets",
+    "do it yourself"
+   ],
+   "googleTrendsKeyword": "Electrical Engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 21300,
+    "monthlyRevenue": 59.35,
+    "monthlyViews": 27797,
+    "totalViews": 2367348,
+    "totalVideos": 161,
+    "avgViewsPerVideo": 15371.85,
+    "medianViewsPerVideo": 2400,
+    "avgVideoLength": 284.77,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2021-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.135
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "BRf1j4KcWow",
+     "video_title": "Automatic Changeover Switch for Generator / ATS for Single phase Wiring / ATS  System for generator",
+     "video_view_count": 213000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/BRf1j4KcWow/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYF7OKBvfRuhyow6aOgek5l1zr2A",
+     "length_text": "8:21"
+    },
+    {
+     "video_id": "1Pybm_kScJE",
+     "video_title": "Double Capacitor Motor Connection | Capacitor Start Capacitor Running Motor | single phase motor",
+     "video_view_count": 184000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1Pybm_kScJE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF2g92d7M6OIcl8KsEDEwG1naXtA",
+     "length_text": "5:03"
+    },
+    {
+     "video_id": "c5T9Zmy9tRw",
+     "video_title": "Staircase Lighting System with Motion Sensor | PIR Motion Sensor How to wiring | Motion Detector",
+     "video_view_count": 141000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/c5T9Zmy9tRw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqiNWsnIa2-8bJbVUbjrk1zhPVFg",
+     "length_text": "2:11"
+    },
+    {
+     "video_id": "NUvxBtBFimo",
+     "video_title": "Relay Holding Circuit | Relay Latching Circuit Wiring | How to hold relay using push button switch",
+     "video_view_count": 139000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NUvxBtBFimo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqdTeUf0IdtlPq80RZobZ8Z3H6cA",
+     "length_text": "2:58"
+    },
+    {
+     "video_id": "dtEfO_b3YjU",
+     "video_title": "Temperature Controller Wiring Connection with Thermocouple Sensor and RTD Sensor",
+     "video_view_count": 137000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dtEfO_b3YjU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC3_4QF3E9R03zYkAyKfR6WBpBcQ",
+     "length_text": "4:16"
+    }
+   ],
+   "score": 0.7025992274284363,
+   "createdAt": "2025-02-07T09:22:20.132406",
+   "updatedAt": "2026-10-19T14:46:16.662982"
+  },
+  {
+   "ytChannelId": "UCPz9akaMbffvxELBRlemUjA",
+   "title": "Cory Mac",
+   "description": "Electrical Engineer, Tool Addict, Traveller \n\nwww.oyelectrical.co.uk",
+   "username": "corymac",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/TWrO-QYlY6Ng58oZfLbK84qubdICqMy8-6ZRJqYD9y9NjRzmuHe7wHZxjhnHlZe_JOQmVfkr=s160-c-k-c0x00ffffff-no-rj",
+   "location": "GB",
+   "channelCreationDate": "2022-07-07",
+   "isMonetizationEnabled": true,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2,
+   "tags": [
+    "automotive business",
+    "tech gadgets",
+    "diy",
+    "engineering"
+   ],
+   "googleTrendsKeyword": "Electrical Engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 195000,
+    "monthlyRevenue": 1539.83,
+    "monthlyViews": 578969,
+    "totalViews": 11021188,
+    "totalVideos": 103,
+    "avgViewsPerVideo": 123962.5,
+    "medianViewsPerVideo": 70500,
+    "avgVideoLength": 1558.38,
+    "uploadsPerWeek": 0.25,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-10-06",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.6596
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "_gGJTTvFSxI",
+     "video_title": "Why Every Electrician is Worried about THIS",
+     "video_view_count": 2000000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_gGJTTvFSxI/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA9COJx84sxXxCqc-8OSj2R5vs3jA",
+     "length_text": "20:42"
+    },
+    {
+     "video_id": "CZklvC0a9RE",
+     "video_title": "The Samoan Electrical NIGHTMARE ",
+     "video_view_count": 939000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/CZklvC0a9RE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBze3wOE0wo5B-jPxVLCei9CQslxg",
+     "length_text": "24:46"
+    },
+    {
+     "video_id": "bOkQEFi55oU",
+     "video_title": "\u00a30 Electricity Bills - I Built a Solar Pergola... Can it Power My WHOLE House?",
+     "video_view_count": 608000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bOkQEFi55oU/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC9dc9HI6RG0VHd_txvZyRIm6dsDg",
+     "length_text": "29:07"
+    },
+    {
+     "video_id": "Y-VaKTC8P1s",
+     "video_title": "African Electrics, ALMOST what you'd expect | \u00d8Y52",
+     "video_view_count": 246000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Y-VaKTC8P1s/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDP3wIAT9NSBX0BLy7d3O3VGZswsw",
+     "length_text": "11:12"
+    },
+    {
+     "video_id": "C0RxlvLHm3Y",
+     "video_title": "Hacking an EV Battery From a \u00a390,000 Car -  DIY Vehicle to Grid | \u00d8Y44",
+     "video_view_count": 236000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/C0RxlvLHm3Y/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAcHYt5XYK_-2KBIn4c5o1PcmQ88Q",
+     "length_text": "36:24"
+    }
+   ],
+   "score": 0.7013214230537415,
+   "createdAt": "2023-03-27T19:46:53.291207",
+   "updatedAt": "2026-10-19T06:21:10.553231"
+  },
+  {
+   "ytChannelId": "UCOdCK83F8AXxW5XMEUkXtrA",
+   "title": "Allen Safety LLC",
+   "description": "Since 2001 Allen Safety has been recognized as a leading OSHA & regulatory safety expert in manufacturing within the U.S. as well as globally.  This channel gives a fresh take on how safety can be ethically responsible, used as an employee engagement tool, and a means to increase efficiencies and profitability simultaneously.  Through this approach our team has been working to drive workplace injuries to zero since 2001.  \nPlease note: All videos on this channel are intended for educational purposes.  Solutions offered are not designed to take the place of an attorney or medical professional, and should not be taken as legal or medical advice. Please consult a professional as applicable to navigate specific circumstances.  Videos may show employees performing jobs inside of meat and poultry production facilities.  These visuals may not be suitable for all audiences.  Activities shown should not be attempted without proper training & equipment.  Viewer discretion is advised.",
+   "username": "allensafetyllc",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/p1-PHsLjZN6hujv1I79g1q9-SNrwDTMjzHRPigAWOvZtlrVGhZbmMHXPPfH8puFnzdskfxjietA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2020-05-03",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.85,
+   "tags": [
+    "online business",
+    "health",
+    "society",
+    "business"
+   ],
+   "googleTrendsKeyword": "Safety Training",
+   "category": {
+    "id": 53,
+    "name": "business"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 510000,
+    "monthlyRevenue": 192.62,
+    "monthlyViews": 128889,
+    "totalViews": 22079128,
+    "totalVideos": 389,
+    "avgViewsPerVideo": 197177.63,
+    "medianViewsPerVideo": 102000,
+    "avgVideoLength": 847.31,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2020-10-19",
+    "lastVideoDate": "2026-08-19",
+    "rpm": {
+     "base": 9.4,
+     "total": 1.4945
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "-ilRq6sliU8",
+     "video_title": "Is Sanitation Really The Most Dangerous Shift?",
+     "video_view_count": 2000000,
+     "video_upload_date": "2026-01-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/-ilRq6sliU8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXrFr7-t2-03R59hYBysbh9Dt4dg",
+     "length_text": "16:30"
+    },
+    {
+     "video_id": "PwidY6UgFWY",
+     "video_title": "Ammonia Refrigeration & PSM Trends Reshaping the Industry  #nh3 #r717 #ammonia #psm #safety",
+     "video_view_count": 1700000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PwidY6UgFWY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnmb3bV71EUC4m7QkchQrUt7ps4w",
+     "length_text": "15:20"
+    },
+    {
+     "video_id": "_KQ3KV3XCgE",
+     "video_title": "Eye Injuries When Eye Protection Is Required: How?",
+     "video_view_count": 1700000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_KQ3KV3XCgE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPzDJXgfpfvz83ffNN5WWG7zaKgQ",
+     "length_text": "14:56"
+    },
+    {
+     "video_id": "rTnEwQatSxw",
+     "video_title": "3 Reasons LOTO Fails In The Field",
+     "video_view_count": 1700000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rTnEwQatSxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArvbuy48aqCgvTHSLY-Vd6jlsUnQ",
+     "length_text": "15:13"
+    },
+    {
+     "video_id": "hRw4W-py6xY",
+     "video_title": "Hearing Conservation: Top 3 Ways Hearing Shifts Can Happen",
+     "video_view_count": 897000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/hRw4W-py6xY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjSvovZmTV1BCFvSO_E-ndr8Bd8Q",
+     "length_text": "11:45"
+    }
+   ],
+   "score": 0.7007240056991577,
+   "createdAt": "2025-03-23T18:12:43.327338",
+   "updatedAt": "2026-10-19T17:05:16.698923"
+  },
+  {
+   "ytChannelId": "UCgxX-K8r74tR9Yo6cOop3tQ",
+   "title": "Wired Wonders",
+   "description": "\u26a1 Welcome to our channel, where we explore the fascinating world of electricity!\n\n \u26a1 Whether you're an aspiring electrician, a student, or simply curious about electrical systems, we offer insightful content designed to educate and inspire. \n\n\ud83d\udca1 From basic principles to advanced applications, we break down complex topics into easy-to-understand lessons. \n\n\ud83d\udd0c Join us for tutorials, tips, and in-depth explanations that will help you master the concepts of electricity. Stay connected and power up your knowledge! \u2699\ufe0f",
+   "username": "WiredWonders-y3v",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/mkooPaIPN1oyMUzMrfeaP9nhPWQzEqoctCW-Nni1hS0EjtjHtErTFa2pFpNAEqJ-lEaL2G1kwgM=s160-c-k-c0x00ffffff-no-rj",
+   "location": "VN",
+   "channelCreationDate": "2024-10-24",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.76,
+   "tags": [
+    "engineering",
+    "tech",
+    "science",
+    "space & exploration"
+   ],
+   "googleTrendsKeyword": "Electricity",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 1710,
+    "monthlyRevenue": 87.17,
+    "monthlyViews": 38728,
+    "totalViews": 359705,
+    "totalVideos": 10,
+    "avgViewsPerVideo": 35840,
+    "medianViewsPerVideo": 12950,
+    "avgVideoLength": 982.1,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.2509
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "Pz1gIIEKMEQ",
+     "video_title": "High Voltage Electrical Failures: Dare to Watch the Shocking Truth?",
+     "video_view_count": 208000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Pz1gIIEKMEQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWsjtanwTtvfidaKthaBNvMgXDtg",
+     "length_text": "27:15"
+    },
+    {
+     "video_id": "OW6SDKPBmCk",
+     "video_title": "Shocking High-Voltage Disaster: Transformers Explode in Fiery Chaos!",
+     "video_view_count": 64000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OW6SDKPBmCk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7iwbq6bt2_UjyRtcz6cPtDR6w4A",
+     "length_text": "26:44"
+    },
+    {
+     "video_id": "AT5sXn-4VIg",
+     "video_title": "Shocking Secrets Behind High-Voltage Insulators! \u26a1\ufe0f\ud83d\udd0d",
+     "video_view_count": 22000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/AT5sXn-4VIg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfKBkFFhA1T_nR77PydtscR2Fp7Q",
+     "length_text": "17:38"
+    },
+    {
+     "video_id": "iVHKWpI_3QY",
+     "video_title": "High Voltage Fuse Arc EXPLOSIONS You Won't Believe!",
+     "video_view_count": 20000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/iVHKWpI_3QY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhWdn6G9F8dRqt6vNuYvoIKNOezQ",
+     "length_text": "15:03"
+    },
+    {
+     "video_id": "bCxOBbWzerk",
+     "video_title": "SHOCKING High Voltage Accidents You Need to See to Believe!",
+     "video_view_count": 16000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bCxOBbWzerk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK5kE3Z7aIflydrQhP7j88cHOTNQ",
+     "length_text": "15:25"
+    }
+   ],
+   "score": 0.6983782052993774,
+   "createdAt": "2025-12-18T00:48:20.810342",
+   "updatedAt": "2026-10-19T18:16:08.177181"
+  },
+  {
+   "ytChannelId": "UCp2G6vKUBGOopg48alGVm5Q",
+   "title": "Cskirt",
+   "description": "Welcome to my channel where I primarily do experiments with electronics and high voltage.\nYTCskirt@gmail.com",
+   "username": "Cskirt",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/3QeAEL1Ogj3GMHoMBFu2a5zkiQBuGZN6ynD3WjDV2aGtiwstegB4Fp5t8Uo4qe5pM4McYk2T=s160-c-k-c0x00ffffff-no-rj",
+   "location": "SE",
+   "channelCreationDate": "2020-01-19",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": true,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 13.86,
+   "tags": [
+    "tech",
+    "engineering",
+    "science",
+    "DIY"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 100000,
+    "monthlyRevenue": 3884.18,
+    "monthlyViews": 1819288,
+    "totalViews": 57929957,
+    "totalVideos": 96,
+    "avgViewsPerVideo": 426023.26,
+    "medianViewsPerVideo": 294000,
+    "avgVideoLength": 492.3,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2023-10-19",
+    "lastVideoDate": "2026-05-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.135
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "RWis9VHmKXw",
+     "video_title": "Overvolting DC-Motors of different sizes. With RPM measurement",
+     "video_view_count": 2300000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/RWis9VHmKXw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxZNFM4IaLNYEO1h0FO3sUa5RZZQ",
+     "length_text": "5:21"
+    },
+    {
+     "video_id": "35sH-fWzaW4",
+     "video_title": "Overvolting AC Motors (brushed). With RPM measurment.",
+     "video_view_count": 1500000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/35sH-fWzaW4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPn3uzUorgUv6DCfRoV_dtkhSuFQ",
+     "length_text": "8:49"
+    },
+    {
+     "video_id": "Wx5HOQuP7Xk",
+     "video_title": "Blowing up BIG capacitors!",
+     "video_view_count": 1100000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Wx5HOQuP7Xk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLoeA_Egi6S-ZwF5OHuK9LYvMcvQ",
+     "length_text": "3:44"
+    },
+    {
+     "video_id": "pIr2AL1hhaU",
+     "video_title": "Overvolting toys! #18 All Furbies must die!",
+     "video_view_count": 913000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pIr2AL1hhaU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDy2yjfkJIU3btvmhzDcER1-VoYw",
+     "length_text": "7:14"
+    },
+    {
+     "video_id": "y_orCRIMA9s",
+     "video_title": "Brushless motors overvoltage. 120V E-scooter & RC motors",
+     "video_view_count": 880000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/y_orCRIMA9s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyJ5oHdqezf0CkFo0j6ZZe0O11fw",
+     "length_text": "11:06"
+    }
+   ],
+   "score": 0.6974044442176819,
+   "createdAt": "2023-08-19T04:32:27.261699",
+   "updatedAt": "2026-10-19T07:47:02.795579"
+  },
+  {
+   "ytChannelId": "UCQDbegCLsCyys6B5QEnaR8w",
+   "title": "ElectroShark",
+   "description": "Welcome to ElectroShark \u26a1\ud83e\udd88\n\nElectrical wiring, DIY projects, experiments, and documentary-style videos about electricity, technology, and the systems that power our world.\n\nFrom switches, sockets, and wiring methods to electrical mistakes, tools, unusual experiments, and fascinating stories from the world of electricity \u2014 ElectroShark makes complex topics simple, visual, and interesting.\n\n\ud83d\udccd Based in the Czech Republic, Europe \ud83c\udde8\ud83c\uddff\ud83c\uddea\ud83c\uddfa\n\u26a1 Electrical \u2022 DIY \u2022 Experiments \u2022 Documentaries\n\ud83c\udf0d Content for an international audience\n\nNew videos regularly.\n\n\ud83d\udce9 Business & collaborations:\nelectroshark85@gmail.com\n \nSubscribe and discover the world of electricity with ElectroShark! \u26a1",
+   "username": "ElectroShark_1",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/NBkRU_9YGRcdoYsAL3cYssRLi8AqaOViDZnLJNmJaTfG0GjOdp_KBYdckH5t0fRnpIDtuhzI=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2026-05-09",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": "live_action_faceless",
+   "editingVoice": "none",
+   "outlierScore": 0,
+   "tags": [
+    "engineering",
+    "do it yourself",
+    "tutorial",
+    "tech gadgets"
+   ],
+   "googleTrendsKeyword": "electrical wiring",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 591,
+    "monthlyRevenue": 0,
+    "monthlyViews": 10803,
+    "totalViews": 335143,
+    "totalVideos": 92,
+    "avgViewsPerVideo": 5607.75,
+    "medianViewsPerVideo": 1350,
+    "avgVideoLength": 194.95,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2026-05-20",
+    "lastVideoDate": "2026-10-06",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.9646
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "mTJ00CMVito",
+     "video_title": "How to Wire a Double Light Switch | Step-by-Step Guide",
+     "video_view_count": 54000,
+     "video_upload_date": "2026-08-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mTJ00CMVito/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj5OqV7Sb5miaTmuDmyVpE7Z0wSw",
+     "length_text": "2:05"
+    },
+    {
+     "video_id": "gwFfycRs48k",
+     "video_title": "How to Wire a Double Switch and Socket in One Box (Step-by-Step)",
+     "video_view_count": 22000,
+     "video_upload_date": "2026-08-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/gwFfycRs48k/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwDkck9CYD8DfLaQ2rVtcmUfWIXQ",
+     "length_text": "2:42"
+    },
+    {
+     "video_id": "_XtgErWwVk8",
+     "video_title": "How to Wire a Two-Way Light Switch | One Light, Two Switches",
+     "video_view_count": 11000,
+     "video_upload_date": "2026-08-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_XtgErWwVk8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwX-uDCE5RsGkRUSJOs5hoWXt3xw",
+     "length_text": "1:51"
+    },
+    {
+     "video_id": "PqDyo7chmPk",
+     "video_title": "5 Home Wiring Basics Everyone Should Know",
+     "video_view_count": 6500,
+     "video_upload_date": "2026-09-22T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PqDyo7chmPk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKON3rlT0Rk-8jSsQu3U78c3zAcQ",
+     "length_text": "6:11"
+    },
+    {
+     "video_id": "3BLJLfuIEQM",
+     "video_title": "How to Wire a Switch and Socket in One Box",
+     "video_view_count": 3600,
+     "video_upload_date": "2026-09-20T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/3BLJLfuIEQM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbVw0y9JLadE6GgrpBFkydluipNA",
+     "length_text": "2:12"
+    }
+   ],
+   "score": 0.6945276260375977,
+   "createdAt": "2026-10-09T05:56:30.833910",
+   "updatedAt": "2026-10-20T00:03:43.878568"
+  },
+  {
+   "ytChannelId": "UCQJwil0aNMCERB-eL1GJUOQ",
+   "title": "Safe-Design\u2122",
+   "description": "Sharing the hidden engineering and global designs that protect people every day, built for curious minds who love to learn how safety really works.\n\nhttps://www.youtube.com/channel/UCQJwil0aNMCERB-eL1GJUOQ\nYalmard@icloud.com",
+   "username": "Safe-DesignTM",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/im2d8PSbUKLaHE_ytb8FGOX5qj2ff1yI3wMgRfuJLgpwkfP8E3xNKaZGyNIMOu8Mj3CQslNSvFU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-08-21",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.2,
+   "tags": [
+    "engineering",
+    "autos",
+    "lifestyle",
+    "recreation"
+   ],
+   "googleTrendsKeyword": "trucking",
+   "category": {
+    "id": 159,
+    "name": "autos"
+   },
+   "format": {
+    "id": 1,
+    "name": "documentary"
+   },
+   "stats": {
+    "subscribers": 2980,
+    "monthlyRevenue": 58.72,
+    "monthlyViews": 24937,
+    "totalViews": 994515,
+    "totalVideos": 21,
+    "avgViewsPerVideo": 47160.86,
+    "medianViewsPerVideo": 742,
+    "avgVideoLength": 1123.48,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2026-03-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.2,
+     "total": 2.3546
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "BoOf8z1qV3o",
+     "video_title": "TV / Bed / Shower / Potty / Cooktop / Sink / Fridge",
+     "video_view_count": 710000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/BoOf8z1qV3o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbbsfm0s_4V_8PAfD8XO-g6xEDNA",
+     "length_text": "29:22"
+    },
+    {
+     "video_id": "QVEYuDsQHOY",
+     "video_title": "Why the World's Biggest Truck Only Failed in America",
+     "video_view_count": 204000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QVEYuDsQHOY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJoyYqc0fAVZL6IkE5sVcmXDWWbA",
+     "length_text": "23:10"
+    },
+    {
+     "video_id": "bWYF16m8yBQ",
+     "video_title": "Every Best Of Sleeper Trucks Out There Explained",
+     "video_view_count": 24000,
+     "video_upload_date": "2026-06-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/bWYF16m8yBQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0iACqeNfVgIU5DeS3c6L7FInilw",
+     "length_text": "25:27"
+    },
+    {
+     "video_id": "PXhtSXY_p3I",
+     "video_title": "2 Drivers / Chinatown NYC, FDNY Tiller 100' Hook and Ladder",
+     "video_view_count": 24000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PXhtSXY_p3I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBjOGMzyesB2joWH5aX4-w5cptfw",
+     "length_text": "20:52"
+    },
+    {
+     "video_id": "xs9t3XjD2Lo",
+     "video_title": "Every Type of Road Trailer Explained",
+     "video_view_count": 13000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xs9t3XjD2Lo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQUMXjAoyQcb5kli4U3tJ8IIxbBw",
+     "length_text": "22:04"
+    }
+   ],
+   "score": 0.6929569840431213,
+   "createdAt": "2026-07-05T12:43:24.867195",
+   "updatedAt": "2026-10-19T19:48:14.930256"
+  },
+  {
+   "ytChannelId": "UCTNuhu8hVtRNecQgJMceSeA",
+   "title": "SL Engineering Academy",
+   "description": "Hey, welcome to SL Engineering Academy. \n\nThis is a free online electrical engineering learning youtube channel for students, engineers, and like-minded people. We hope to share engineering tips and tricks through short, simplified tutorial videos.\n\nThanks for visiting and make sure to subscribe and join with us.",
+   "username": "slengineeringacademy2234",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_n3nqSiwjM7cao2ZAbKT2sB33F2h5RJ2xaW7q1Jeu-Ojg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2020-06-27",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 2.02,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "education",
+    "diy"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 216000,
+    "monthlyRevenue": 817.65,
+    "monthlyViews": 138186,
+    "totalViews": 16255078,
+    "totalVideos": 63,
+    "avgViewsPerVideo": 260040.98,
+    "medianViewsPerVideo": 115000,
+    "avgVideoLength": 266.23,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2020-10-19",
+    "lastVideoDate": "2026-04-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 5.917
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "ea1FSB3F2Bw",
+     "video_title": "Star-Delta Starter Complete Wiring for 3 Phase Motor / Star-Delta Control Connection / Explained",
+     "video_view_count": 1800000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ea1FSB3F2Bw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATCIKbOfGSo7P5ASPOrLthln7x2g",
+     "length_text": "7:33"
+    },
+    {
+     "video_id": "PnlVNb2I524",
+     "video_title": "Automatic Changeover Switch for Generator / Automatic Transfer Switch / ATS  (With Circuit Diagram)",
+     "video_view_count": 1700000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/PnlVNb2I524/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNgzikFueyg7vICkCTalpjT7c7Ug",
+     "length_text": "6:33"
+    },
+    {
+     "video_id": "GFyYjqweLz4",
+     "video_title": "Single Phase House Wiring Diagram / Energy Meter / Single Phase DB Wiring",
+     "video_view_count": 1600000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/GFyYjqweLz4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKXhBHd5Ytwf8x513ZfjJxcvkBMw",
+     "length_text": "4:55"
+    },
+    {
+     "video_id": "srxGewy_hLU",
+     "video_title": "Complete Electrical House Wiring / Single Phase Full House Wiring Diagram /- Part 1",
+     "video_view_count": 1500000,
+     "video_upload_date": "2020-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/srxGewy_hLU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMx2N0K3apjbqt1Fve8c48VK-uZw",
+     "length_text": "4:46"
+    },
+    {
+     "video_id": "71Kij6DZ2vU",
+     "video_title": "Automatic Transfer Switch (ATS) Changeover for 3 Phase / Three Phase ATS Wiring Diagram / Explained",
+     "video_view_count": 1000000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/71Kij6DZ2vU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZlAIgm8iNROEQdYD-q0UzNFj6NQ",
+     "length_text": "8:12"
+    }
+   ],
+   "score": 0.6920169591903687,
+   "createdAt": "2025-02-07T09:37:01.395416",
+   "updatedAt": "2026-10-19T14:47:36.944878"
+  },
+  {
+   "ytChannelId": "UCys6lg-XNkGnJFZZRx83Xkw",
+   "title": "StaySafe",
+   "description": "Welcome to Stay Safe.\n\nEvery accident has a lesson. Our job is to find it.\n\nThis channel breaks down real footage of industrial and construction accidents to show you the chain of events that leads to disaster. From crane collapses to machine failures, we analyze what went wrong, moment by moment, so you can learn from the mistakes of others.\n\nWe don't just show what happened; we show you the safety measures and protocols that could have prevented it. This channel is for every worker on the front lines who understands that safety is not a matter of luck\u2014it's a matter of knowledge.\n\nJoin our mission to ensure everyone gets home safe. Subscribe now.",
+   "username": "staysafe02",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/FoT0tt1jHFEJqqNCKSYaJg7WbaFbrz0d-hl3-k0XLJAy7DJRqIRldKoKlseD-lZ45Zsbl55BRg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2025-09-20",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.82,
+   "tags": [
+    "engineering",
+    "education",
+    "workplace",
+    "anomalies and alternative science"
+   ],
+   "googleTrendsKeyword": "Safety",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 7540,
+    "monthlyRevenue": 1142.5,
+    "monthlyViews": 410734,
+    "totalViews": 3104070,
+    "totalVideos": 116,
+    "avgViewsPerVideo": 26528.78,
+    "medianViewsPerVideo": 13000,
+    "avgVideoLength": 988.88,
+    "uploadsPerWeek": 2,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-10-18",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.7816
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "mNu_bEb4y2Q",
+     "video_title": "ROTATING MACHINE ACCIDENT PT.5",
+     "video_view_count": 682000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/mNu_bEb4y2Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAArfFAwiOYL6QslpdFBXbmWMd5vA",
+     "length_text": "5:19"
+    },
+    {
+     "video_id": "N6Lm2sP3POQ",
+     "video_title": "ROTATING MACHINE ACCIDENT PT.4",
+     "video_view_count": 144000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/N6Lm2sP3POQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5n2xMPsre7b7qKuUitsxaOXjRIA",
+     "length_text": "5:38"
+    },
+    {
+     "video_id": "lIRrXfNwSIU",
+     "video_title": "He Leaned Over The Active Machine.",
+     "video_view_count": 114000,
+     "video_upload_date": "2026-05-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/lIRrXfNwSIU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWk7zIlaqE8llRz8vuph47Hkl2mA",
+     "length_text": "1:15:40"
+    },
+    {
+     "video_id": "Z1OFH8D5ZIE",
+     "video_title": "He Stood Too Close To The Truck... Then This Happened!",
+     "video_view_count": 110000,
+     "video_upload_date": "2025-12-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Z1OFH8D5ZIE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcMePoX4ro5UG2IZ4uKuTE2iUdzA",
+     "length_text": "8:03"
+    },
+    {
+     "video_id": "E9wGiRxsRF0",
+     "video_title": "He Reached Near The Track Machinery.",
+     "video_view_count": 95000,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/E9wGiRxsRF0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc_zaQ1ZizpiAzBHX9wd6tTOQoWw",
+     "length_text": "28:11"
+    }
+   ],
+   "score": 0.6912060976028442,
+   "createdAt": "2025-11-08T21:47:22.204361",
+   "updatedAt": "2026-10-19T17:58:34.039696"
+  },
+  {
+   "ytChannelId": "UCf105qXflZm_eNf5y6TRngQ",
+   "title": "Tech Knowlogy",
+   "description": "This channel is about electrical engineering how to do basic thing.",
+   "username": "TechKnowlogyhub",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_k1I_6Py7RHSm-nHmgFyWxlLIAgx3Rc9S0MZRul6a3u5TU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2009-11-20",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.15,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "alternative energy",
+    "education"
+   ],
+   "googleTrendsKeyword": "electrical engineering",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 9890,
+    "monthlyRevenue": 0,
+    "monthlyViews": 10212,
+    "totalViews": 1493382,
+    "totalVideos": 97,
+    "avgViewsPerVideo": 16141,
+    "medianViewsPerVideo": 582,
+    "avgVideoLength": 345.81,
+    "uploadsPerWeek": 1,
+    "firstVideoDate": "2016-10-19",
+    "lastVideoDate": "2026-10-05",
+    "rpm": {
+     "base": 6.8,
+     "total": 1.2993
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "l53NrBvlorQ",
+     "video_title": "Electrical Substation visit. Inside an Electrical Substation.",
+     "video_view_count": 232000,
+     "video_upload_date": "2017-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/l53NrBvlorQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoUzAP&rs=AOn4CLC9I66C8vzijKaYQIrB5DatFDBMXA",
+     "length_text": "5:56"
+    },
+    {
+     "video_id": "myK3y0u1KaE",
+     "video_title": "ABB VACUUM CIRCUIT BREAKER VD4.",
+     "video_view_count": 220000,
+     "video_upload_date": "2016-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/myK3y0u1KaE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhcIFwoXDAP&rs=AOn4CLDNMZsyF1xnYhYdiZ9PNehl4JOjwA",
+     "length_text": "2:37"
+    },
+    {
+     "video_id": "jiFyJpS2_Xw",
+     "video_title": "ABB REF615 relay configuration(CT ratio)",
+     "video_view_count": 105000,
+     "video_upload_date": "2016-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jiFyJpS2_Xw/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoWTAP&rs=AOn4CLAfOY8tvhSmYLZMC42p7GRSws3jdA",
+     "length_text": "1:13"
+    },
+    {
+     "video_id": "ns7FrGHBAFw",
+     "video_title": "Electrical Substation: Basics.",
+     "video_view_count": 101000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ns7FrGHBAFw/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhZIF8oZTAP&rs=AOn4CLBxK_HugKWR1PbP5yJt1KGNwACNFg",
+     "length_text": "8:01"
+    },
+    {
+     "video_id": "kcNehq3hu6A",
+     "video_title": "Power System Harmonics: What it is, Why it Matters, and How to Tackle it",
+     "video_view_count": 79000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kcNehq3hu6A/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQiwhXIp49oZeGq4hS2uis2KO7SQ",
+     "length_text": "2:55"
+    }
+   ],
+   "score": 0.6900382041931152,
+   "createdAt": "2025-02-07T23:24:05.401232",
+   "updatedAt": "2026-10-19T15:25:23.624067"
+  },
+  {
+   "ytChannelId": "UCpE88bD21IXdjM53_dSHgvQ",
+   "title": "Max ELECTRONICS",
+   "description": "On this Channel you will find some awesome projects you can do with electronics, random experiments, and some interesting hacks you can do, ranging from simple DIY to complex repairs and modifications.\nLearn electronics tricksand  creative things you could do with lighting.",
+   "username": "MaxELECTRONICS",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mq-NZg8N0ZTeUHnwzArbomNRmyBSDxy-MO12cNxJ8cgw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "AU",
+   "channelCreationDate": "2020-10-11",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.21,
+   "tags": [
+    "tech",
+    "diy",
+    "engineering",
+    "tutorial"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 11100,
+    "monthlyRevenue": 59.96,
+    "monthlyViews": 20780,
+    "totalViews": 1551181,
+    "totalVideos": 121,
+    "avgViewsPerVideo": 13007.49,
+    "medianViewsPerVideo": 2100,
+    "avgVideoLength": 1118.78,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2020-10-19",
+    "lastVideoDate": "2026-07-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.8853
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "IfhOYhjXLDg",
+     "video_title": "High Quality DIY PCB Boards at Home, Step by Step detailed Instructions (PLUS SMD SOLDERING)",
+     "video_view_count": 308000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/IfhOYhjXLDg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxKVmTsPugm_bnA7oe1CWNFvrqkw",
+     "length_text": "45:41"
+    },
+    {
+     "video_id": "uLlBSU-QFq4",
+     "video_title": "Pioneer VSX-521 AV Receiver 'NO Audio' Repair",
+     "video_view_count": 145000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/uLlBSU-QFq4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTmrG-4p58Q3ThO0M0aK5fySxh3Q",
+     "length_text": "30:15"
+    },
+    {
+     "video_id": "cTfuaNqfPKI",
+     "video_title": "BGA Reballing at Home Explained, How to. Tips And Tricks.",
+     "video_view_count": 145000,
+     "video_upload_date": "2021-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/cTfuaNqfPKI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS4Bu5mkPnGLJ3p4yv5NBnAyk3sA",
+     "length_text": "29:56"
+    },
+    {
+     "video_id": "RAlhIJsZsmM",
+     "video_title": "How to Make Your Steering wheel control work with any radio without converter box!",
+     "video_view_count": 117000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/RAlhIJsZsmM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp84nBCEqQ4gcnZClrfBgthOc-Ig",
+     "length_text": "21:33"
+    },
+    {
+     "video_id": "OalxQ7L2bQo",
+     "video_title": "Generic Touch Screen Car Stereo Review 7010B 7012B 7018B",
+     "video_view_count": 102000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/OalxQ7L2bQo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkuv0IOAglzatV5yngCpHr1GC8Cg",
+     "length_text": "24:09"
+    }
+   ],
+   "score": 0.6896076202392578,
+   "createdAt": "2025-02-21T01:13:14.866117",
+   "updatedAt": "2026-10-19T16:34:33.413572"
+  },
+  {
+   "ytChannelId": "UC51ATLxoST0adWo5xdbfhAA",
+   "title": "Electronic Wizard",
+   "description": "If you are looking for basic & advanced lessons on electronics using simple experiments, this channel is for you! :)",
+   "username": "elewizard",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/BZlLAm3voPhs4P2XJ46WZKDVsk9OHLGx_gY8IsblGJV2qzQLMuWxAZ2ESTryCHeqY5R-9qtznA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "GB",
+   "channelCreationDate": "2023-08-01",
+   "isMonetizationEnabled": true,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.76,
+   "tags": [
+    "tech",
+    "tutorial",
+    "engineering",
+    "diy"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 60300,
+    "monthlyRevenue": 253.13,
+    "monthlyViews": 102463,
+    "totalViews": 3119254,
+    "totalVideos": 85,
+    "avgViewsPerVideo": 38732.91,
+    "medianViewsPerVideo": 16000,
+    "avgVideoLength": 1151.03,
+    "uploadsPerWeek": 0.5,
+    "firstVideoDate": "2023-10-19",
+    "lastVideoDate": "2026-10-15",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.4705
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "zg_Ejf_LyjI",
+     "video_title": "10 awesome application of capacitors in circuits",
+     "video_view_count": 515000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/zg_Ejf_LyjI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdo_K5kB2s3j6jxBqgeCcNHuMFUw",
+     "length_text": "29:01"
+    },
+    {
+     "video_id": "TrFzYEsJ0_Y",
+     "video_title": "Why you should avoid using charger modules!",
+     "video_view_count": 263000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/TrFzYEsJ0_Y/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhMj0dmKTAvSlabPustXeB1gY7Hg",
+     "length_text": "16:44"
+    },
+    {
+     "video_id": "yPwYNUDkkZs",
+     "video_title": "8 awesome application of diodes in circuits.",
+     "video_view_count": 230000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yPwYNUDkkZs/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPpxW3Qc3VpVNRIA6gMgEEYh8sqQ",
+     "length_text": "19:50"
+    },
+    {
+     "video_id": "rwvJU7aJmJo",
+     "video_title": "7 awesome applications of transistors in circuits",
+     "video_view_count": 155000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/rwvJU7aJmJo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJFo2dfOE4dEYMee-MOy8yoBy7hA",
+     "length_text": "27:12"
+    },
+    {
+     "video_id": "ju9oKliIl2o",
+     "video_title": "Inductors: making high voltage from low voltage",
+     "video_view_count": 149000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ju9oKliIl2o/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZ6K3nW64rgjYtwuqy0VjNP5gnUg",
+     "length_text": "10:51"
+    }
+   ],
+   "score": 0.6881007552146912,
+   "createdAt": "2023-09-13T18:32:48.386610",
+   "updatedAt": "2026-10-19T08:19:25.923347"
+  },
+  {
+   "ytChannelId": "UC1R1FrJabzzZlNGoh4XuQeg",
+   "title": "Elec X",
+   "description": "\u26a1 DIY Electronics | \ud83d\udd27 Repairs & Builds | \ud83c\udfa8 Creative Tech  \nLearn \u2022 Build \u2022 Repair \u2022 Explore  \n\ud83d\udd14 Subscribe & join the Elec X community!",
+   "username": "Elec_X",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/rpFMoGx1zWXlXS_CiVL0rIE_4pHeiDxJXQ0VKku6zB6pyBveTZYDISpZmlMIVKcvYawbCLBShA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2025-07-29",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0,
+   "tags": [
+    "technology",
+    "tech gadgets",
+    "do it yourself",
+    "engineering"
+   ],
+   "googleTrendsKeyword": "Electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 973,
+    "monthlyRevenue": 0,
+    "monthlyViews": 281,
+    "totalViews": 752957,
+    "totalVideos": 24,
+    "avgViewsPerVideo": 22194.4,
+    "medianViewsPerVideo": 265,
+    "avgVideoLength": 184,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 4.1297
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "T2dvMu__JEk",
+     "video_title": "Test Capacitors Without Removing Them \u2013 Quick Multimeter Trick!",
+     "video_view_count": 109000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/T2dvMu__JEk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1qzAGudUC9O4mlWVbzsEzb3Etvg&usqp=CBQ",
+     "length_text": "1:51"
+    },
+    {
+     "video_id": "cfuqTSMP83c",
+     "video_title": "How to Tell if an IC is Burnt Using a Multimeter?",
+     "video_view_count": 1300,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/cfuqTSMP83c/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHEpMoZQsYfg3RetuBFctntFxo1w&usqp=CBQ",
+     "length_text": "1:51"
+    },
+    {
+     "video_id": "pf24r4e3kIc",
+     "video_title": "What Is This Extra Digit For\u2753\ufe0f",
+     "video_view_count": 265,
+     "video_upload_date": "2026-09-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pf24r4e3kIc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDqCfA307JsIqaMxvnPBzVsffZKQ&usqp=CBQ",
+     "length_text": "0:46"
+    },
+    {
+     "video_id": "iG51XOIOII0",
+     "video_title": "Detect Invisible Signals \u2013 Simple Electric Field Detector Build",
+     "video_view_count": 219,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/iG51XOIOII0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCTsVEglN-vq9sBKivt326FvjMLA&usqp=CBQ",
+     "length_text": "6:05"
+    },
+    {
+     "video_id": "GJHHOsW6V5Y",
+     "video_title": "Removing Rust and Repairing an Old Remote",
+     "video_view_count": 188,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/GJHHOsW6V5Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn0wBEGs-ZdKxTosvlmIH6tYXQlw&usqp=CBQ",
+     "length_text": "4:47"
+    }
+   ],
+   "score": 0.6875723600387573,
+   "createdAt": "2026-02-20T22:59:26.027386",
+   "updatedAt": "2026-10-19T18:32:42.702985"
+  },
+  {
+   "ytChannelId": "UCYe4iM1r5fH5kM-eSKIUSFw",
+   "title": "The Circuit Archive",
+   "description": "Please check out my new channel, https://www.youtube.com/@TheDesignGraveyard with new videos about electronics and micro-controllers every 2 weeks!\n\nI stop posting new videos on this channel and may move some videos to my new channel after correction & re-mastering.",
+   "username": "circuitarchive193",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/mT9rRUelhF4YAUpZM6XJofHKtoQkifgrjRU8zovcwv9I-eVARENbFxhrOJZBliCqNU5e6AU_Bg=s160-c-k-c0x00ffffff-no-rj",
+   "location": "NL",
+   "channelCreationDate": "2018-01-24",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.72,
+   "tags": [
+    "computer",
+    "do it yourself",
+    "educational",
+    "tech"
+   ],
+   "googleTrendsKeyword": "Arduino",
+   "category": {
+    "id": 131,
+    "name": "computers"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 22500,
+    "monthlyRevenue": 4.2,
+    "monthlyViews": 1669,
+    "totalViews": 2014863,
+    "totalVideos": 37,
+    "avgViewsPerVideo": 52417.03,
+    "medianViewsPerVideo": 6500,
+    "avgVideoLength": 595.57,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2018-10-19",
+    "lastVideoDate": "2025-10-19",
+    "rpm": {
+     "base": 4.6,
+     "total": 2.5193
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "3FGNw28xBr0",
+     "video_title": "KiCAD 7 PCB Layout in 5 steps",
+     "video_view_count": 1000000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/3FGNw28xBr0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4QbN0HODrEGHIV0lp9IMCbLvlNQ",
+     "length_text": "13:16"
+    },
+    {
+     "video_id": "wv4uAz8FV2w",
+     "video_title": "3 Simple MOSFET Drive Circuits",
+     "video_view_count": 184000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/wv4uAz8FV2w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUEUW9loDnyDgnNyOmolHbkKZ53A",
+     "length_text": "12:55"
+    },
+    {
+     "video_id": "AuBZ1W80c9s",
+     "video_title": "KiCAD 7 Autorouter \u2013 Simple Fast Prototyping",
+     "video_view_count": 148000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/AuBZ1W80c9s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEEMeBl1p1u9KjG2CMKVd9eimtTw",
+     "length_text": "10:50"
+    },
+    {
+     "video_id": "Yw6L5w4TDxw",
+     "video_title": "Dirty one transistor blink circuit",
+     "video_view_count": 116000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Yw6L5w4TDxw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvv7eCaQ05bVZAuFj3cKbuYWs7nw",
+     "length_text": "5:57"
+    },
+    {
+     "video_id": "M5lETaqI9JM",
+     "video_title": "3 High Side MOSFET Drive Circuits",
+     "video_view_count": 78000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/M5lETaqI9JM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAg-DP4s88xXQ2-is9RV92hl0v-g",
+     "length_text": "18:21"
+    }
+   ],
+   "score": 0.6860998868942261,
+   "createdAt": "2025-02-05T19:08:19.229253",
+   "updatedAt": "2026-10-19T13:51:06.604760"
+  },
+  {
+   "ytChannelId": "UCOKaz2ANwu6UtgFiC7pyfGA",
+   "title": "Astro Electric",
+   "description": "Welcome to my youtube channel,This channel is all about making Awesome Electronics projects,Repairing,Tutorials,DIY projects etc.\nSubscribe to my channel and I will reward you with Awesome Electronics Contents.",
+   "username": "Astroelectric1",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/YxCpCcIIEYoXP7tH_kPRuWLz0371C62tPkqhFrp5jVJZMUmfql6v_SFeCUHeGKcm19M3B0a7og=s160-c-k-c0x00ffffff-no-rj",
+   "location": "NG",
+   "channelCreationDate": "2021-07-12",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.23,
+   "tags": [
+    "tech",
+    "engineering",
+    "do it yourself",
+    "education"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 60800,
+    "monthlyRevenue": 2191.9,
+    "monthlyViews": 683133,
+    "totalViews": 10155775,
+    "totalVideos": 556,
+    "avgViewsPerVideo": 19496.71,
+    "medianViewsPerVideo": 5200,
+    "avgVideoLength": 1291.15,
+    "uploadsPerWeek": 3.25,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2026-10-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 3.2086
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "kJkTUbbn7us",
+     "video_title": "Top 4 Adjustable Voltage Regulator Circuits Anyone Can Make in 2025",
+     "video_view_count": 664000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kJkTUbbn7us/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_5qGoImm21hGXqecqgDibjjg3Jw",
+     "length_text": "38:06"
+    },
+    {
+     "video_id": "vdKSMM4I-B4",
+     "video_title": "How To Make 220V to 12V 60A Battery Charger | Full Bridge Rectifier Circuit",
+     "video_view_count": 474000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/vdKSMM4I-B4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwcxv6z4WTmRrGvEbfpLJhRK_ocw",
+     "length_text": "7:55"
+    },
+    {
+     "video_id": "5YgteeQq2f0",
+     "video_title": "How To Make Adjustable Voltage Regulator Using IGBT | Transistor Voltage Controller Circuit",
+     "video_view_count": 352000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/5YgteeQq2f0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhV6z7LL2zoSI1Km0xAzWF5emDLQ",
+     "length_text": "9:12"
+    },
+    {
+     "video_id": "_gJI4cdv7mM",
+     "video_title": "Make Universal Components Tester Using BC547 | All Components Tester",
+     "video_view_count": 351000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_gJI4cdv7mM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFcM68PeN0UNvD12jwJDDmT62PFg",
+     "length_text": "8:07"
+    },
+    {
+     "video_id": "KkAakh_cyQE",
+     "video_title": "Top 4 Useful  Projects for Electronics Repairers",
+     "video_view_count": 336000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KkAakh_cyQE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwUghtjANcwSP152tR7i9m8u2gzA",
+     "length_text": "40:00"
+    }
+   ],
+   "score": 0.6844212412834167,
+   "createdAt": "2025-03-22T08:54:25.349124",
+   "updatedAt": "2026-10-19T17:00:08.592411"
+  },
+  {
+   "ytChannelId": "UCnOW3Q-L-NG-wV1CWRA0bag",
+   "title": "The Electric Brit",
+   "description": "Geordie Electrical Engineer with a passion for learning and teaching. I'm sharing insights into the UK National Infrastructure and Energy System, as well as the history and theory behind it all to hopefully inspire the next generation of Engineers, and to give the curious among us something to watch on an evening.",
+   "username": "TheElectricBrit",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/-lB8B4FqlK4DtLxDf6A7kLRUsSW9osAB2WuZOz1hx9cq4wFLHYEcsFDUtxfZrLMhHsL_W9pr9zU=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2024-06-04",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "high",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 3.3,
+   "tags": [
+    "engineering",
+    "tech",
+    "education",
+    "renewable energy"
+   ],
+   "googleTrendsKeyword": "Power Grid",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 16,
+    "name": "educational"
+   },
+   "stats": {
+    "subscribers": 24200,
+    "monthlyRevenue": 57.1,
+    "monthlyViews": 25165,
+    "totalViews": 1054828,
+    "totalVideos": 33,
+    "avgViewsPerVideo": 48404.76,
+    "medianViewsPerVideo": 34000,
+    "avgVideoLength": 1279.76,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-09-19",
+    "rpm": {
+     "base": 7.2,
+     "total": 2.2692
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "DK8mw07DcPQ",
+     "video_title": "How a 0.2Hz Wave Took Down Two Countries\u2019 Power Grids",
+     "video_view_count": 180000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/DK8mw07DcPQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcV59zkfrxTXwRv_d_eJQerr9N9A",
+     "length_text": "29:35"
+    },
+    {
+     "video_id": "BhzPjGiBjMk",
+     "video_title": "Everything about HVDC - Explained by an Engineer - Introduction",
+     "video_view_count": 160000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/BhzPjGiBjMk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVbCazE9NlDZsPn_PE2Lr4CHTgVg",
+     "length_text": "43:56"
+    },
+    {
+     "video_id": "22T9-oknmLM",
+     "video_title": "How to Restart the Grid after total collapse",
+     "video_view_count": 153000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/22T9-oknmLM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxZXjImv0ri9iHS6j7lOfum1bwtg",
+     "length_text": "24:02"
+    },
+    {
+     "video_id": "_Ypsc8iruc8",
+     "video_title": "Why the Electricity Board Hid a WW1 Tank",
+     "video_view_count": 78000,
+     "video_upload_date": "2026-03-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_Ypsc8iruc8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBiriO2CIQBKrHF9oC4F2i3UvwbFg",
+     "length_text": "3:25"
+    },
+    {
+     "video_id": "pyrtqRxJt90",
+     "video_title": "Why Transformers Fail (and How to Prevent It)",
+     "video_view_count": 68000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/pyrtqRxJt90/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAo_JlPevX_HmC2v7jPNly0rPdd5Q",
+     "length_text": "12:30"
+    }
+   ],
+   "score": 0.684122622013092,
+   "createdAt": "2025-06-18T18:14:53.671698",
+   "updatedAt": "2026-10-19T17:20:46.191001"
+  },
+  {
+   "ytChannelId": "UC9S22cvxtNnP1E_k6J96LKA",
+   "title": "Safety Insights",
+   "description": "Safety Alarm is your ultimate destination for the most shocking industrial incidents caught on camera! From heart-stopping excavator fails to mind-blowing workshop disasters, we bring you the latest updates and in-depth analysis of major events happening across construction sites, factories, and industrial facilities worldwide.\n\n Educational Fair Use: Construction site footage, excavator fails, and industrial incidents used under Section 107 for safety awareness.\n\n All rights holders can contact safetychannal@gmail.com for immediate removal.\n\nDon't miss the action! Subscribe to Safety Alarm and explore the exciting world where every second counts. New industrial incidents daily - because safety never sleeps!",
+   "username": "RealSafetyInsights",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/_FtvFssU96LZ2g8MN9tc4wjuh8eklQhyI-eoA9U9c_RjUslEWwYEiDquam-DP_pZmXgPZ5vpaw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2025-09-26",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": "reused_footage",
+   "editingVoice": "human",
+   "outlierScore": 0.2,
+   "tags": [
+    "disaster and accidents",
+    "aviation",
+    "dashcam footage",
+    "investigative documentaries"
+   ],
+   "googleTrendsKeyword": "industrial accidents",
+   "category": {
+    "id": 97,
+    "name": "disaster and accidents"
+   },
+   "format": {
+    "id": 4,
+    "name": "compilation"
+   },
+   "stats": {
+    "subscribers": 2250,
+    "monthlyRevenue": 7.68,
+    "monthlyViews": 6265,
+    "totalViews": 843716,
+    "totalVideos": 135,
+    "avgViewsPerVideo": 6193.56,
+    "medianViewsPerVideo": 681,
+    "avgVideoLength": 904.99,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2025-10-19",
+    "lastVideoDate": "2026-06-19",
+    "rpm": {
+     "base": 6.6,
+     "total": 1.2261
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "qOpk0v6tSyc",
+     "video_title": "One Routine Job\u2026 Turned Into a Big Accident",
+     "video_view_count": 339000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qOpk0v6tSyc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0UHCsDKV8mznHV-nXOEoPpOslCw",
+     "length_text": "9:57"
+    },
+    {
+     "video_id": "yHssRbPPi_4",
+     "video_title": "Top Industrial Incidents Caught on Camera 2025",
+     "video_view_count": 135000,
+     "video_upload_date": "2026-02-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/yHssRbPPi_4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJPZbO5VB1_wt9kdjSs2xc0aW_wA",
+     "length_text": "33:20"
+    },
+    {
+     "video_id": "Fc3m-WCks20",
+     "video_title": "He Tried to Be Hero\u2026 Then This Happened",
+     "video_view_count": 121000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Fc3m-WCks20/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA8XoKVwSmZI5GBa7mV7z23kPn5BA",
+     "length_text": "8:17"
+    },
+    {
+     "video_id": "KzYzRloNl_M",
+     "video_title": "20 Most Dangerous Excavator Operator Fails Compilation | Total Idiots at Work 2025",
+     "video_view_count": 24000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/KzYzRloNl_M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqj-SqPk1CweoAMDAu3BCpEeHHZw",
+     "length_text": "9:06"
+    },
+    {
+     "video_id": "34EojxoE7_s",
+     "video_title": "Worker Thinks He's Stronger Than Machine...",
+     "video_view_count": 15000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/34EojxoE7_s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkGfRlYmhZJVGNbrPjYeRsw3_Iuw",
+     "length_text": "8:06"
+    }
+   ],
+   "score": 0.6838611364364624,
+   "createdAt": "2026-09-21T08:44:42.868509",
+   "updatedAt": "2026-10-19T21:46:31.682735"
+  },
+  {
+   "ytChannelId": "UC2V9xU8fELr-1vSQe3jDFYA",
+   "title": "Electronic ideas",
+   "description": "Electronic ideas\nHello Friends Welcome To My Channel \" Electronic ideas\" \nI Have Made Videos About Electric Hand Tools Using Creative Ways DIY Projects, HomeMade Projects DC Motar Things At Home & Much More Things\nHere is the place to make unique products for life.\nYou won't find joy anywhere but this place.\nSupport me reach 1.000.000 subscribers.\nPLEASE SUBSCRIBE TO SUPPORT THE CHANNEL !!!! THANK YOU SO MUCH",
+   "username": "Electronicideas",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/NAxOWKiwfGllyg5oF9iRoJ9nwO67f9aLITCMMA6ijZxbHvBsB9_cOkfWtMRbSPA5DHP0dxipIQ=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2022-07-18",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.06,
+   "tags": [
+    "tech",
+    "engineering",
+    "do it yourself",
+    "inventions"
+   ],
+   "googleTrendsKeyword": "electronics",
+   "category": {
+    "id": 197,
+    "name": "tech"
+   },
+   "format": {
+    "id": 24,
+    "name": "diy"
+   },
+   "stats": {
+    "subscribers": 513000,
+    "monthlyRevenue": 230.84,
+    "monthlyViews": 98291,
+    "totalViews": 153307422,
+    "totalVideos": 120,
+    "avgViewsPerVideo": 94904.29,
+    "medianViewsPerVideo": 7100,
+    "avgVideoLength": 496.47,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2022-10-19",
+    "lastVideoDate": "2025-11-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.3485
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "E5yms0kVHaU",
+     "video_title": "I turn car dynamo into a eternal generator | Electronic ideas",
+     "video_view_count": 2200000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/E5yms0kVHaU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxDyF3dvDk4_v9iIFQyvMBH5_HCg",
+     "length_text": "12:03"
+    },
+    {
+     "video_id": "83HLch02W3I",
+     "video_title": "How To Convert Energy from a Magnetic Field to Electricity | Free Energy | Electronic Ideas",
+     "video_view_count": 1100000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/83HLch02W3I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApZd2sYXgnoTdEzI9jnQ7QixDgYQ",
+     "length_text": "4:33"
+    },
+    {
+     "video_id": "Q_tkENmQ0EE",
+     "video_title": "Unveiling the Secrets How I Created an Eternal Generator At Home",
+     "video_view_count": 352000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Q_tkENmQ0EE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfD4L_6EXNIE10RoZvVMEMDAJRwQ",
+     "length_text": "14:42"
+    },
+    {
+     "video_id": "qjbfm4U4nYg",
+     "video_title": "Discover the Secret to Unlocking Free Internet Access! | Free Unlimited Internet",
+     "video_view_count": 305000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/qjbfm4U4nYg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGw2kKx2nBBP7SBKchuf_w9Gim3Q",
+     "length_text": "12:19"
+    },
+    {
+     "video_id": "XM_91YfMhJM",
+     "video_title": "I turn fridge compressor into tire pump | Electronic ideas",
+     "video_view_count": 291000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/XM_91YfMhJM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnaifIoeYPlzi1FWSRVQjswU3w0Q",
+     "length_text": "4:46"
+    }
+   ],
+   "score": 0.683525800704956,
+   "createdAt": "2023-03-28T19:42:55.174778",
+   "updatedAt": "2026-10-19T06:42:00.834587"
+  },
+  {
+   "ytChannelId": "UCfu2DFMqsUgyCLKyjJiu2gw",
+   "title": "World Of Electronics Technology",
+   "description": "\u00a9 Copyright by \"hoanghamedia.com\" \u261e Do not Reup\n\u2709 For business inquiries:\nWebsite: \nhoanghamedia.com\nhttps://blogsangtao.com\nContact:\ncontact@hoanghamedia.com\ncontact@blogsangtao.com\ninfo@hoanghamedia.com\nmajacikel23@gmail.com\nFacebook\nhttps://www.facebook.com/GardenElectricDIY\nhttps://www.facebook.com/diybalconygarden\nhttps://www.facebook.com/greatdiyidea\nhttps://www.facebook.com/hoang.nguyenvan1990\nhttps://www.tiktok.com/@lindauvcwbb",
+   "username": "WorldOfElectronicsTechnology",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/VETJRMxIR7R4q10ed9JsefhYtWqdUK5gyga1gRkvHthsTj1Is7L6eVsMh-cK14TI4BDnQ48INUc=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2024-06-09",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.3,
+   "tags": [
+    "tech gadgets",
+    "do it yourself",
+    "engineering",
+    "science exploration"
+   ],
+   "googleTrendsKeyword": "Electronics",
+   "category": {
+    "id": 198,
+    "name": "tech gadgets"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 18900,
+    "monthlyRevenue": 215.27,
+    "monthlyViews": 99129,
+    "totalViews": 2615329,
+    "totalVideos": 179,
+    "avgViewsPerVideo": 14386.21,
+    "medianViewsPerVideo": 3100,
+    "avgVideoLength": 1738.83,
+    "uploadsPerWeek": 1.25,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-10-13",
+    "rpm": {
+     "base": 9.3,
+     "total": 2.1716
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "dwPvexVLq5I",
+     "video_title": "Awesome Free Perpetual Generator Idea I Created",
+     "video_view_count": 822000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/dwPvexVLq5I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARQA0_UqhlNZuSl5CsOB85QhwhFg",
+     "length_text": "19:08"
+    },
+    {
+     "video_id": "2LpUjeU646w",
+     "video_title": "YOU Won't Believe This DIY Free Generator Is Homemade!",
+     "video_view_count": 259000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/2LpUjeU646w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSRr9yQmqEWgu-mSuf5EZT1P1ciA",
+     "length_text": "32:37"
+    },
+    {
+     "video_id": "kgNNeVvxzNo",
+     "video_title": "Turn Fan Motor Into Powerful PERMANENT Generator",
+     "video_view_count": 152000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/kgNNeVvxzNo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0g4eYivS_xdiOWkZjuNMiuhlhKw",
+     "length_text": "39:11"
+    },
+    {
+     "video_id": "b8LNPCV2-kM",
+     "video_title": "Free Perpetual Generator Idea \u2013 Breakthrough Innovation Without Fuel!",
+     "video_view_count": 149000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/b8LNPCV2-kM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqhlZ1u67RjNC9vGt6q_cxB6ESCQ",
+     "length_text": "30:40"
+    },
+    {
+     "video_id": "Nbk9gm4nkeM",
+     "video_title": "Making a POWERFUL Free Generator at Home! (2024)",
+     "video_view_count": 107000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Nbk9gm4nkeM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT3SG3Ds7MAnQNLLwVK5tyymw0Bg",
+     "length_text": "17:06"
+    }
+   ],
+   "score": 0.6831332445144653,
+   "createdAt": "2024-08-11T16:42:34.402820",
+   "updatedAt": "2026-10-19T11:02:57.014581"
+  },
+  {
+   "ytChannelId": "UCbJoWHdZwOb4cvEmjlHD_bQ",
+   "title": "Creative prodigy",
+   "description": "Welcome to my DIY channel Creative prodigy,\nI will show you inventions and science experiments every week, Subscribe to the channel so you don\u2019t miss out.\n\nRe-upload video is strictly forbidden in any form i will report to YouTube with out notice.\n\nWarning: have fun but always remember to be safe, anything you try is at your own risk, thank you...",
+   "username": "Creative_prodigy_101",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/A1Amh2lFD6PxRxQYMNl1XexiszcePHq5DvTBC3ktNM2djBZMOu95FWiO3YcVnwreJqRe9RcTzz8=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2021-04-30",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.52,
+   "tags": [
+    "engineering",
+    "tech gadgets",
+    "do it yourself",
+    "educational"
+   ],
+   "googleTrendsKeyword": "DIY Electronics",
+   "category": {
+    "id": 196,
+    "name": "engineering"
+   },
+   "format": {
+    "id": 7,
+    "name": "tutorial"
+   },
+   "stats": {
+    "subscribers": 96100,
+    "monthlyRevenue": 754.88,
+    "monthlyViews": 365049,
+    "totalViews": 16271354,
+    "totalVideos": 286,
+    "avgViewsPerVideo": 56590.21,
+    "medianViewsPerVideo": 11000,
+    "avgVideoLength": 727.35,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2021-10-19",
+    "lastVideoDate": "2026-08-19",
+    "rpm": {
+     "base": 6.8,
+     "total": 2.0679
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "oAgzSW8Ifwo",
+     "video_title": "inverter 12v to 220 2500w, Creative prodigy #156",
+     "video_view_count": 904000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/oAgzSW8Ifwo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMCdV6VfSooJheS1Z8eKZJ4FkwQw",
+     "length_text": "12:39"
+    },
+    {
+     "video_id": "_6EvgSQVjXo",
+     "video_title": "How to make a simple inverter 1700W, Microwave transformer, creative prodigy #98",
+     "video_view_count": 884000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_6EvgSQVjXo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF_YDamQJFN4DzzEfQzNtnXD065A",
+     "length_text": "8:03"
+    },
+    {
+     "video_id": "X-VhgXaTPt8",
+     "video_title": "inverter 12v to 220 2500w, D718 - 2N3055  Creative prodigy #155",
+     "video_view_count": 761000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/X-VhgXaTPt8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2YveUAWtN3N91a5jQ_Qc5lpidBw",
+     "length_text": "15:07"
+    },
+    {
+     "video_id": "QWQ6vRzvCZc",
+     "video_title": "How to make a simple inverter 7500W, 12 to 220v IRF 3205, creative prodigy #24",
+     "video_view_count": 751000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/QWQ6vRzvCZc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZQXkT0-YbKixFMdLVelgHateWAg",
+     "length_text": "13:42"
+    },
+    {
+     "video_id": "R-3E8JkH6F4",
+     "video_title": "How to make a simple inverter 3000W, Microwave transformer, creative prodigy #27",
+     "video_view_count": 607000,
+     "video_upload_date": "2022-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/R-3E8JkH6F4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB033hF-bh5MjpI4Hfj9tYSV2oRlA",
+     "length_text": "15:00"
+    }
+   ],
+   "score": 0.6830046772956848,
+   "createdAt": "2023-08-19T02:35:38.956425",
+   "updatedAt": "2026-10-19T07:42:27.865054"
+  },
+  {
+   "ytChannelId": "UCaUk8RbZdrlHwoBRilptJEQ",
+   "title": "Construction Fan",
+   "description": "Thanks you for coming to the channel Construction Fan\ud83d\ude0d\ud83e\udd29\ud83e\udd29",
+   "username": "Constructionfan_dt",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/CVM-8BfVq97tRfjN1eCXNJHJ3n1LykjpQxFqA3_y10TrNjXwXjCich4QeSQpCTFTElbiUq7HZnw=s160-c-k-c0x00ffffff-no-rj",
+   "location": "",
+   "channelCreationDate": "2024-05-10",
+   "isMonetizationEnabled": true,
+   "isFaceless": false,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 0.63,
+   "tags": [
+    "engineering",
+    "humor & comedy",
+    "recreation",
+    "vlogs"
+   ],
+   "googleTrendsKeyword": "Construction",
+   "category": {
+    "id": 164,
+    "name": "humor & comedy"
+   },
+   "format": {
+    "id": 4,
+    "name": "compilation"
+   },
+   "stats": {
+    "subscribers": 181000,
+    "monthlyRevenue": 7144.42,
+    "monthlyViews": 1801871,
+    "totalViews": 158255411,
+    "totalVideos": 296,
+    "avgViewsPerVideo": 213181.18,
+    "medianViewsPerVideo": 22000,
+    "avgVideoLength": 842.85,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-03-19",
+    "rpm": {
+     "base": 1.5,
+     "total": 3.965
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "7Op0GXZoIFk",
+     "video_title": "The perfect employee: Outstanding qualities #construction #constructionworker #constructionengineer",
+     "video_view_count": 3000000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/7Op0GXZoIFk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQUT6F4aNkjGrRr7zhser4R7mxAg",
+     "length_text": "10:51"
+    },
+    {
+     "video_id": "AYqebISzJLM",
+     "video_title": "Watching this video will help you work more efficiently \ud83e\udd29 #constructionwork #smartwork #construction",
+     "video_view_count": 2300000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/AYqebISzJLM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAoAKigIMCAAQARh_IBYoEzAP&rs=AOn4CLDcVaP92IPBGHwtobLS8yKNWqfHdA",
+     "length_text": "12:36"
+    },
+    {
+     "video_id": "fvoJYcpBGuA",
+     "video_title": "Great job keep it up \ud83e\udd29 #constructionwork #constructionworker #construction #constructionengineer",
+     "video_view_count": 1900000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/fvoJYcpBGuA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-ffQNSG5X5JOHBMGLx5tkp4pQqg",
+     "length_text": "18:16"
+    },
+    {
+     "video_id": "JiR9FeUTd6g",
+     "video_title": "They worked very hard but were unlucky \ud83d\ude30 #respect #construction #constructionworker #safety #danger",
+     "video_view_count": 1600000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/JiR9FeUTd6g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGzwmLLX6eLzdXjMxHkP7YRvD1jA",
+     "length_text": "10:25"
+    },
+    {
+     "video_id": "_R1C16vRGu8",
+     "video_title": "These jobs can help workers earn high incomes, but do you know how scary they are? \ud83d\ude30 #construction",
+     "video_view_count": 1200000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/_R1C16vRGu8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeUvVF_enSQqn2hzEOK8n7X0T8aA",
+     "length_text": "27:17"
+    }
+   ],
+   "score": 0.6829999685287476,
+   "createdAt": "2024-10-10T07:57:02.834465",
+   "updatedAt": "2026-10-19T11:15:14.653790"
+  },
+  {
+   "ytChannelId": "UCQZkWBdIi24VkVjgd5znSkQ",
+   "title": "MOSFET",
+   "description": "Keeping you up to date with technological change.",
+   "username": "MOSFETnet",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/YuTkmoLdxZZYg61EYSim_DXL7ncH9W8WoosgyOPGodFJAlEws-eKwxPBLZKjlWX-HFA1JTjvJA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "GB",
+   "channelCreationDate": "2023-02-26",
+   "isMonetizationEnabled": false,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": false,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.5,
+   "tags": [
+    "tech gadgets",
+    "artificial intelligence",
+    "engineering",
+    "space exploration"
+   ],
+   "googleTrendsKeyword": "technology",
+   "category": {
+    "id": 198,
+    "name": "tech gadgets"
+   },
+   "format": {
+    "id": 3,
+    "name": "news"
+   },
+   "stats": {
+    "subscribers": 42400,
+    "monthlyRevenue": 0,
+    "monthlyViews": 172,
+    "totalViews": 1155434,
+    "totalVideos": 37,
+    "avgViewsPerVideo": 30808.11,
+    "medianViewsPerVideo": 15000,
+    "avgVideoLength": 425.89,
+    "uploadsPerWeek": 0,
+    "firstVideoDate": "2023-10-19",
+    "lastVideoDate": "2024-10-19",
+    "rpm": {
+     "base": 7,
+     "total": 1.7629
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "MXOJeKFZsSk",
+     "video_title": "Breakthrough 3D Printer Uses Strange Goo",
+     "video_view_count": 302000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/MXOJeKFZsSk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3hBo-YZZBBGGS_ZtxJlERPunVpQ",
+     "length_text": "5:23"
+    },
+    {
+     "video_id": "NQMF9I5mu9w",
+     "video_title": "Computer Vision Breakthrough, Full Color ePaper Displays, Text-to-Audio AI + More | MOSFET Weekly",
+     "video_view_count": 217000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/NQMF9I5mu9w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBA7JryG8oenepEB6dGe9C5dLyYUA",
+     "length_text": "10:25"
+    },
+    {
+     "video_id": "jV4ZCWk9bo8",
+     "video_title": "2024: The Year of Humanoid Robots? (+ More Tech News)",
+     "video_view_count": 84000,
+     "video_upload_date": "2024-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/jV4ZCWk9bo8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAHwX2SqxHEkMrRWheNh5hF53zVaA",
+     "length_text": "5:12"
+    },
+    {
+     "video_id": "eehHHxPaYa4",
+     "video_title": "Cheap Thermal Imaging Breakthrough (+ More News)",
+     "video_view_count": 37000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/eehHHxPaYa4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAdxhG6YzR4KHe4JsN4UbW9_UUIQw",
+     "length_text": "4:21"
+    },
+    {
+     "video_id": "xLfnJF1E9YQ",
+     "video_title": "This Exoskeleton Makes You Stronger & Faster (+ More tech news)",
+     "video_view_count": 29000,
+     "video_upload_date": "2023-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/xLfnJF1E9YQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBdLfRlwslYvtfoh8xT3et1IXt3BQ",
+     "length_text": "6:51"
+    }
+   ],
+   "score": 0.6828557848930359,
+   "createdAt": "2023-04-13T08:28:39.550730",
+   "updatedAt": "2026-10-19T06:54:22.398058"
+  },
+  {
+   "ytChannelId": "UCDNUP-owz3S83kPjEZ0ES0A",
+   "title": "TechFun",
+   "description": "Welcome to TechFun \u2014 a channel dedicated to high-voltage experiments, electrical engineering, and creative science entertainment.\nHere, we push everyday objects and electric toys to their limits using DC power supplies, voltage overloads, and controlled high-energy reactions.\nOur goal is to demonstrate the real effects of electricity, current, and resistance through dramatic, visually striking experiments \u2014 combining science, humor, and engineering curiosity.\n\nEach video is filmed in a controlled environment using professional equipment and safety precautions.\nExpect sparks, fire, motion, and unexpected reactions \u2014 all performed safely for the purpose of education and entertainment.\n\n\u26a0\ufe0f Safety Notice:\nAll experiments are performed by professionals in controlled conditions.\nThis content is not made for children and targets a general audience interested in science, technology, engineering, and high-voltage demonstrations.\nDo not attempt to recreate any actions shown in the videos.",
+   "username": "TechFun2024",
+   "thumbnailUrl": "https://yt3.googleusercontent.com/b2vqHJv2IuWBCdgxPHiYPheUFrOvft95BOZpT1XyO3_qX00ClrHCRbIAUnA4Gqn765LObRc7UA=s160-c-k-c0x00ffffff-no-rj",
+   "location": "US",
+   "channelCreationDate": "2024-09-23",
+   "isMonetizationEnabled": true,
+   "isFaceless": true,
+   "isAiChannel": false,
+   "hasKidsContent": true,
+   "isShortsOnly": false,
+   "quality": "mid",
+   "channelLanguage": "en",
+   "editingStyle": null,
+   "editingVoice": null,
+   "outlierScore": 1.43,
+   "tags": [
+    "experiments",
+    "science",
+    "tech gadgets",
+    "do it yourself"
+   ],
+   "googleTrendsKeyword": "Experiments",
+   "category": {
+    "id": 198,
+    "name": "tech gadgets"
+   },
+   "format": {
+    "id": 14,
+    "name": "challenge videos"
+   },
+   "stats": {
+    "subscribers": 90200,
+    "monthlyRevenue": 2015.84,
+    "monthlyViews": 709152,
+    "totalViews": 20209476,
+    "totalVideos": 157,
+    "avgViewsPerVideo": 127452.23,
+    "medianViewsPerVideo": 30000,
+    "avgVideoLength": 698.4,
+    "uploadsPerWeek": 0.25,
+    "firstVideoDate": "2024-10-19",
+    "lastVideoDate": "2026-10-17",
+    "rpm": {
+     "base": 7,
+     "total": 2.8426
+    }
+   },
+   "lastUploadedVideos": [
+    {
+     "video_id": "Tr3lWrd4OQE",
+     "video_title": "Craziest High-Voltage Experiment Compilation\u26a0\ufe0f What Happens When You Apply TOO MUCH POWER to a Toy?",
+     "video_view_count": 2900000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/Tr3lWrd4OQE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAC0ibkqQFrgqS-kdwnNOxMfqIpGw",
+     "length_text": "15:23"
+    },
+    {
+     "video_id": "1LylA0oJRbw",
+     "video_title": "Craziest High-Voltage Experiment Compilation\u26a0\ufe0f What Happens When You Apply TOO MUCH POWER to a Toy?",
+     "video_view_count": 2200000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/1LylA0oJRbw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGKfnc8hWbBzBHAjwDHUy4fAkjiw",
+     "length_text": "18:36"
+    },
+    {
+     "video_id": "TUjfwvaHoCw",
+     "video_title": "Craziest High-Voltage Experiments #11 Electric Toys VS DC Power Supply \u26a0\ufe0f DANGEROUS \u26a0\ufe0f(Compilation)",
+     "video_view_count": 1300000,
+     "video_upload_date": "2025-11-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/TUjfwvaHoCw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1pW37HmKHE9lFFV6tpxExjVJBIQ",
+     "length_text": "17:17"
+    },
+    {
+     "video_id": "ex9ftGWjfuU",
+     "video_title": "This Cute Money Box BURSTS INTO FLAMES When You Save Too Much! High Voltage Experiments Compilation",
+     "video_view_count": 1100000,
+     "video_upload_date": "2025-10-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/ex9ftGWjfuU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi3bTvJMRgPC5MkteMPEIqXzwqhQ",
+     "length_text": "21:27"
+    },
+    {
+     "video_id": "HaYehUnL1aw",
+     "video_title": "Craziest High-Voltage Experiment Compilation\u26a0\ufe0f What Happens When You Apply TOO MUCH POWER to a Toy?",
+     "video_view_count": 980000,
+     "video_upload_date": "2026-04-19T00:00:00Z",
+     "video_thumbnail_url": "https://i.ytimg.com/vi/HaYehUnL1aw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVmd1ti6OUysBkIm0UCMoQmFI4EQ",
+     "length_text": "14:52"
+    }
+   ],
+   "score": 0.6827986240386963,
+   "createdAt": "2025-01-04T00:49:10.098912",
+   "updatedAt": "2026-10-19T12:14:33.285329"
+  }
+ ],
+ "topicTags": [
+  "engineering",
+  "do it yourself",
+  "tech",
+  "tech gadgets",
+  "education",
+  "science",
+  "diy",
+  "educational",
+  "tutorial",
+  "home improvement"
+ ],
+ "totalResults": 30,
+ "hasMore": true,
+ "page": 1,
+ "limit": 30,
+ "filters": {
+  "query": "faceless electrical safety channel",
+  "limit": 30,
+  "page": 1,
+  "minScore": 0.5
+ }
+}

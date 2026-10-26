@@ -1,0 +1,102 @@
+{
+ "pulled": "2026-10-23",
+ "note": "Transcribed from the NexLev MCP responses of 2026-10-23 (descriptions dropped where identical to the YT about page in ../yt/*-latest.json). Niche-finder records are NexLev's stored profile, last updated by NexLev on the date in updatedAt.",
+ "get_channel_analytics": {
+  "channelId": "UCRKwB8DarX5_lykpnh8BolQ",
+  "subscriberCount": 1820,
+  "viewCount": 352232,
+  "videoCount": 31,
+  "joinedDate": "2026-02-21",
+  "country": "France",
+  "links": [],
+  "avgVideoLength": "11:47",
+  "hasShorts": false,
+  "lastVideoUploadDate": "5 months ago",
+  "categories": [
+   "Do It Yourself",
+   "Construction",
+   "Retail Business",
+   "Personal Finance"
+  ],
+  "description": ""
+ },
+ "search_niche_finder_channels": {
+  "query": "electric bill panel upgrade loophole smart homeowners buying decisions",
+  "isMonetizationEnabled": true,
+  "isFaceless": true,
+  "isAiChannel": false,
+  "quality": "mid",
+  "editingStyle": "stock_footage_voiceover",
+  "editingVoice": "ai",
+  "outlierScore": 0.1,
+  "channelCreationDate": "2026-02-21",
+  "location": "FR",
+  "stats": {
+   "subscribers": 1800,
+   "monthlyRevenue": 89.91,
+   "monthlyViews": 22712,
+   "totalViews": 349718,
+   "totalVideos": 31,
+   "avgViewsPerVideo": 11250.77,
+   "medianViewsPerVideo": 344,
+   "uploadsPerWeek": 0,
+   "firstVideoDate": "2026-03-19",
+   "lastVideoDate": "2026-05-19",
+   "rpm": {
+    "base": 1.8,
+    "total": 3.9589
+   }
+  },
+  "updatedAt": "2026-10-19T23:08:48",
+  "lastUploadedVideos": [
+   [
+    "ySzrVsvwuBs",
+    "How Smart Homeowners Are Cutting Their Electric Bill in Half (The Panel Upgrade Loophole)",
+    282000
+   ],
+   [
+    "mH1nkv_Vj0I",
+    "The Only 7 Tool Brands Built to Last a Lifetime (The \"Grandfather's Garage\" List)",
+    25000
+   ],
+   [
+    "H_PitCUQEeU",
+    "7 Things That Get Better The Longer You Own Them (Buy It For Life)",
+    17000
+   ],
+   [
+    "j5mmiDQF1hc",
+    "Why Plumbers and Electricians Never Buy Anything at Home Depot",
+    8400
+   ],
+   [
+    "yaY6E4pp-XI",
+    "The Only 7 “Dumb” Appliances Left (The “No Chip” List)",
+    3000
+   ]
+  ]
+ },
+ "get_batch_channel_metrics_v2": {
+  "isMonetized": true,
+  "rpm": 4.66,
+  "avgViewsPerVideo": 11387,
+  "avgVideoLength": 11.8,
+  "category": "do it yourself",
+  "format": "documentary",
+  "hasShorts": false,
+  "isFaceless": true,
+  "countryTop": "France",
+  "confidence": 0.99,
+  "jobId": "e064956d-2d13-4b7e-b173-ed3885997f1a",
+  "timestamp": "2026-10-23T03:31:44Z"
+ },
+ "check_faceless_channel": {
+  "isFaceless": true,
+  "confidence": 0.99,
+  "primaryCategory": "do it yourself",
+  "format": "documentary",
+  "googleTrendsKeyword": "home improvement",
+  "cached": true,
+  "timestamp": "2026-10-23T03:32Z"
+ }
+}

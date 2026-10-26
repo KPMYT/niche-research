@@ -1,0 +1,921 @@
+{
+ "channel": "Syracuse Time and Alarm",
+ "id": "UC7l6tTG3kxG01W3nm_Y_rzQ",
+ "handle": "http://www.youtube.com/@Syrtime",
+ "description": "Welcome to Syracuse Time & Alarm’s Channel!\n\nSyracuse Time & Alarm Co., Inc. takes pride in understanding your needs and create systems that meet your highly specialized demands. Allow our sales engineers to help you design the solution and our factory certified technicians will install, configure and certify a solution to meet your specifications.\n\nOur product lines include fire alarm and security systems, access control, intercoms, professional sound systems, time management and clock systems.\n\nThe tech portion of our channel specializes in fire alarm system operation, programming, troubleshooting, and technician training with a focus on Notifier and Gamewell-FCI panels.\n\nOur videos cover real-world testing methods using tools like oscilloscopes and digital multimeters to diagnose faults.\n\nWhether you’re a fire alarm technician, systems engineer, inspector, or facility maintenance professional, this channel gives you hands-on training and diagnostic techniques.\n#firealarm\n",
+ "subs": "2.17K subscribers",
+ "videos_count": "142 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "93qhudUx1SA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CLSS Fire Alarm Database Update",
+   "dur": "5:17",
+   "meta": [
+    "243",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 243,
+   "age": "9d ago"
+  },
+  {
+   "id": "PfEknA0n3Io",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Troubleshooting a GW FCI Fire Alarm Network",
+   "dur": "4:44",
+   "meta": [
+    "370",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 370,
+   "age": "1mo ago"
+  },
+  {
+   "id": "t2XxUpfb4Fw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier HS-NCM High-Speed Network Setup | Step-by-Step Configuration & Troubleshooting",
+   "dur": "21:30",
+   "meta": [
+    "530",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 530,
+   "age": "2mo ago"
+  },
+  {
+   "id": "qKzI2MvK2oU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "N16 Fire Alarm Owner Training",
+   "dur": "23:05",
+   "meta": [
+    "816",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 816,
+   "age": "3mo ago"
+  },
+  {
+   "id": "mBSYHhydAnI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Customer Training Notifier N16 Inspire Series",
+   "dur": "22:01",
+   "meta": [
+    "1.5K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "4mo ago"
+  },
+  {
+   "id": "EPqQaut_Hb8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Troubleshoot a Ground Fault on a Fire Alarm NAC Circuit",
+   "dur": "12:33",
+   "meta": [
+    "2.7K",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 2700,
+   "age": "4mo ago"
+  },
+  {
+   "id": "yFhZFkPLLuc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Networking GW FCI",
+   "dur": "5:31",
+   "meta": [
+    "426",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 426,
+   "age": "5mo ago"
+  },
+  {
+   "id": "b4Dbkblxnkc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "NFPA 72 Fire Alarm Battery Testing - Secondary Power",
+   "dur": "4:12",
+   "meta": [
+    "829",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 829,
+   "age": "6mo ago"
+  },
+  {
+   "id": "4mClRNOH0TI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Troubleshooting a Fire Alarm Output Module Short",
+   "dur": "2:37",
+   "meta": [
+    "725",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 725,
+   "age": "7mo ago"
+  },
+  {
+   "id": "odpZO4MtoIg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm SLC Not Communicating? Full Diagnostic & Fix (Gamewell‑FCI)",
+   "dur": "5:31",
+   "meta": [
+    "1.1K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "7mo ago"
+  },
+  {
+   "id": "2Mscw4QOd_0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Serial Port Fixed 🔧",
+   "dur": "1:08",
+   "meta": [
+    "256",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 256,
+   "age": "1y ago"
+  },
+  {
+   "id": "5AFxLFd4NdY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Upload & Download with VeriFire Tools - Notifier Fire Alarm Panel Tutorial",
+   "dur": "4:47",
+   "meta": [
+    "11K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "1y ago"
+  },
+  {
+   "id": "lMgIM1kQk1Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔥 7100 Fire Alarm Panel Replacement | Convert to GW-FCI S3 Using CAMWorks",
+   "dur": "1:17",
+   "meta": [
+    "503",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 503,
+   "age": "1y ago"
+  },
+  {
+   "id": "hybdceQ5fHc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Program Multi-Criteria Fire Detectors | Smoke, CO & Heat Sensor Setup Explained",
+   "dur": "4:12",
+   "meta": [
+    "1.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "1y ago"
+  },
+  {
+   "id": "Npo5QdqcX6c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Supervision Explained: Troubleshooting IDC & NAC Circuits with Voltage Readings",
+   "dur": "9:00",
+   "meta": [
+    "1.9K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1900,
+   "age": "1y ago"
+  },
+  {
+   "id": "jKV19gfQIdI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Troubleshooting Fire Alarm SLC: Oscilloscope & Multimeter Analysis of Resistance & Capacitance",
+   "dur": "5:02",
+   "meta": [
+    "1.2K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "1y ago"
+  },
+  {
+   "id": "AQJupzMUg4I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔧 Troubleshooting Fire Alarm SLCs with an Oscilloscope | Diagnose Communication Issues Like a Pro",
+   "dur": "4:55",
+   "meta": [
+    "1.1K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "1y ago"
+  },
+  {
+   "id": "TEWlcijX2Bo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside System Sensor's Fire Detection Tech 🔥",
+   "dur": "2:11",
+   "meta": [
+    "826",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 826,
+   "age": "1y ago"
+  },
+  {
+   "id": "LaJnm1ZWAHg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "👷  How to Use Function Buttons on Notifier 50X & 100X Fire Alarm Panels (Fire-Lite ES-50X / ES-200X)",
+   "dur": "2:12",
+   "meta": [
+    "2.7K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2700,
+   "age": "1y ago"
+  },
+  {
+   "id": "n52pZrBfZ0M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "✅   How to Replace a Smoke Detector with a Heat Detector on a Notifier 3030 Fire Panel",
+   "dur": "9:24",
+   "meta": [
+    "1.4K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "1y ago"
+  },
+  {
+   "id": "iL9iV8ZRBK8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Voice alarm programming made easy in CAMWorks  🔊",
+   "dur": "3:55",
+   "meta": [
+    "587",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 587,
+   "age": "1y ago"
+  },
+  {
+   "id": "WiA62TaFjeg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Complete Guide to Boolean Logic in Gamewell-FCI CAMWorks | Fire Alarm Programming Explained",
+   "dur": "20:26",
+   "meta": [
+    "1.9K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1900,
+   "age": "1y ago"
+  },
+  {
+   "id": "UwvLY6O91y0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "System Sensor Thermal Detectors",
+   "dur": "0:54",
+   "meta": [
+    "82",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 82,
+   "age": "1y ago"
+  },
+  {
+   "id": "vWiRv7DfHjY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Elevator Recall Programming in VeriFire Tools 🖥️",
+   "dur": "3:56",
+   "meta": [
+    "1.5K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1y ago"
+  },
+  {
+   "id": "bSuInffIP_w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Elevator Recall Programming in CAMWorks 🖥️",
+   "dur": "4:39",
+   "meta": [
+    "869",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 869,
+   "age": "1y ago"
+  },
+  {
+   "id": "Jzn3SqJYPvc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Elevator Recall & Fire Alarm Interface Explained 🔥🚒",
+   "dur": "5:59",
+   "meta": [
+    "5.9K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 5900,
+   "age": "1y ago"
+  },
+  {
+   "id": "o_iDuE2jAis",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Connect a Laptop to a Notifier 320, 640, or 3030 Fire Alarm Panel via Serial Port 🖥️",
+   "dur": "3:21",
+   "meta": [
+    "7.9K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 7900,
+   "age": "1y ago"
+  },
+  {
+   "id": "P1cVC7mnl-A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Connect a Laptop to a Gamewell-FCI E3/S3 Fire Alarm Panel via Serial Port 🖥️",
+   "dur": "4:33",
+   "meta": [
+    "2.4K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2400,
+   "age": "1y ago"
+  },
+  {
+   "id": "oKW4ckjBrfA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Put a Gamewell-FCI E3 Fire Alarm Panel in Walk Test Mode | Step-by-Step Guide 🚶",
+   "dur": "1:37",
+   "meta": [
+    "2K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2000,
+   "age": "1y ago"
+  },
+  {
+   "id": "jKmAGCjjRwA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Meter falling blooper while making a training video",
+   "dur": "0:07",
+   "meta": [
+    "157",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 157,
+   "age": "1y ago"
+  },
+  {
+   "id": "2smqNP1Hlqg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "⚠️ Troubleshooting Fire Alarm SLC Issues",
+   "dur": "20:02",
+   "meta": [
+    "16K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 16000,
+   "age": "1y ago"
+  },
+  {
+   "id": "Acd1vGDIAVU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "⚠️ Troubleshooting a ground fault on a fire alarm system",
+   "dur": "13:06",
+   "meta": [
+    "43K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "1y ago"
+  },
+  {
+   "id": "p0lm8XNfMZI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 320 & 640 | Lamp Test & Firmware Version Display Demo 🔍",
+   "dur": "0:49",
+   "meta": [
+    "1.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "1y ago"
+  },
+  {
+   "id": "BbXvPXWPA44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 320 and 640 reading the multiple event display",
+   "dur": "1:20",
+   "meta": [
+    "887",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 887,
+   "age": "1y ago"
+  },
+  {
+   "id": "CSdOGKhYePQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 320 and 640 how to read point status",
+   "dur": "2:40",
+   "meta": [
+    "1.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1300,
+   "age": "1y ago"
+  },
+  {
+   "id": "acjpQ3_ITvI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 320 and 640 disable/enable point",
+   "dur": "2:46",
+   "meta": [
+    "5K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 5000,
+   "age": "1y ago"
+  },
+  {
+   "id": "uY28QC-mXt8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 320 and 640 time & date setting",
+   "dur": "1:46",
+   "meta": [
+    "1.6K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "1y ago"
+  },
+  {
+   "id": "HSEQoM03vXQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 320 and 640 walk test mode",
+   "dur": "0:59",
+   "meta": [
+    "1.6K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "1y ago"
+  },
+  {
+   "id": "oQhTCOob87Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X walktest mode",
+   "dur": "2:00",
+   "meta": [
+    "1.1K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "1y ago"
+  },
+  {
+   "id": "EXuL2AWaglg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Set the Time on a FireWarden Notifier Panel (Step-by-Step Guide)",
+   "dur": "1:41",
+   "meta": [
+    "913",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 913,
+   "age": "1y ago"
+  },
+  {
+   "id": "4qdvqvsMQ2Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X firmware version",
+   "dur": "0:25",
+   "meta": [
+    "572",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 572,
+   "age": "1y ago"
+  },
+  {
+   "id": "H8u61fQKqJU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X supervisory condition",
+   "dur": "1:20",
+   "meta": [
+    "405",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 405,
+   "age": "1y ago"
+  },
+  {
+   "id": "_0-SdIZJSf8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier 50X Fire Panel | How to View Multiple Events (Alarms, Troubles, and Circuit Faults) 🔍",
+   "dur": "1:08",
+   "meta": [
+    "393",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 393,
+   "age": "1y ago"
+  },
+  {
+   "id": "ra5Syp-YzBg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X firmware version",
+   "dur": "0:25",
+   "meta": [
+    "475",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 475,
+   "age": "1y ago"
+  },
+  {
+   "id": "gWWOgyWufDU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X event history log",
+   "dur": "1:05",
+   "meta": [
+    "645",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 645,
+   "age": "1y ago"
+  },
+  {
+   "id": "QAo-3MTIBsg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X disable point  🔧",
+   "dur": "2:08",
+   "meta": [
+    "1.1K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "1y ago"
+  },
+  {
+   "id": "vcSWjkisJDE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier FireWarden 50X alarm condition 🔥",
+   "dur": "1:17",
+   "meta": [
+    "357",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 357,
+   "age": "1y ago"
+  },
+  {
+   "id": "ljMM5OO26fQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 3030 walktest mode",
+   "dur": "2:36",
+   "meta": [
+    "3.8K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 3800,
+   "age": "1y ago"
+  },
+  {
+   "id": "nBtCGG_IH04",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier Onyx 3030 time & date 📅",
+   "dur": "1:34",
+   "meta": [
+    "888",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 888,
+   "age": "1y ago"
+  },
+  {
+   "id": "ymisj1m8gwU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier 3030 Fire Alarm System: Read & Reset Smoke Detector on SLC Loop",
+   "dur": "2:14",
+   "meta": [
+    "2.3K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2300,
+   "age": "1y ago"
+  },
+  {
+   "id": "_sL0iLOg8hM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notifier 3030: Navigating Fire Alarm Panel Events Step-by-Step ⚠️",
+   "dur": "2:59",
+   "meta": [
+    "4.2K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 4200,
+   "age": "1y ago"
+  },
+  {
+   "id": "fbg2PphHaEI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔧 What the \"Lamp Test\" Really Does on a Notifier 3030 Fire Alarm Panel | Hidden Functions Explained!",
+   "dur": "1:55",
+   "meta": [
+    "882",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 882,
+   "age": "1y ago"
+  },
+  {
+   "id": "9he37vpzaM4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to View Event History on a Notifier 3030 Fire Alarm Panel | Step-by-Step Tutorial 🔍",
+   "dur": "2:42",
+   "meta": [
+    "1.5K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1y ago"
+  },
+  {
+   "id": "3GkBy6usmno",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Disable and Reenable a Detector on a Notifier 3030 Fire Alarm Panel (Step-by-Step Guide) 🚨",
+   "dur": "4:15",
+   "meta": [
+    "5.4K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 5400,
+   "age": "1y ago"
+  },
+  {
+   "id": "YgkQAyBiFtA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Enter Walk Test Mode on Gamewell-FCI S3 Fire Alarm System (Step-by-Step Guide) 🚶",
+   "dur": "0:45",
+   "meta": [
+    "1.5K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1y ago"
+  },
+  {
+   "id": "Oyuc9x1ekD0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Set Date & Time on Gamewell-FCI S3 Fire Alarm Panel | Step-by-Step Tutorial  🕒📅",
+   "dur": "0:50",
+   "meta": [
+    "589",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 589,
+   "age": "1y ago"
+  },
+  {
+   "id": "2fSnK8a4zIY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Supervisory vs. Trouble Conditions | What They Mean & How to Respond ⚠️",
+   "dur": "1:45",
+   "meta": [
+    "1K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "1y ago"
+  },
+  {
+   "id": "gS3H9X_idOk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "GW-FCI S3 Hazard Alert: Understanding Activation & Handling ⚠️",
+   "dur": "0:36",
+   "meta": [
+    "214",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 214,
+   "age": "1y ago"
+  },
+  {
+   "id": "Fj5QsI7DJJE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to View the Event History Log on Gamewell-FCI S3 Fire Alarm System | Step-by-Step Tutorial 🔍",
+   "dur": "0:58",
+   "meta": [
+    "315",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 315,
+   "age": "1y ago"
+  },
+  {
+   "id": "WRHSBe8CWKY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Syracuse Time & Alarm TV ad.",
+   "dur": "0:30",
+   "meta": [
+    "116",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 116,
+   "age": "1y ago"
+  },
+  {
+   "id": "JKKQKuTBn_o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Disable & Re-Enable a Point on a GW-FCI E3 Fire Alarm Panel | Step-by-Step Tutorial 🛠️",
+   "dur": "3:06",
+   "meta": [
+    "1.2K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1200,
+   "age": "1y ago"
+  },
+  {
+   "id": "ryHL61SlD0M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Disable a Point on Gamewell FCI S3 Fire Alarm System | Step-by-Step Tutorial 🔥",
+   "dur": "1:55",
+   "meta": [
+    "1.8K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1800,
+   "age": "1y ago"
+  },
+  {
+   "id": "nqyImaKbTPY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔥 Gamewell-FCI S3 Fire Alarm System Demo | Alarm, Silence, and Reset Explained",
+   "dur": "2:03",
+   "meta": [
+    "1.5K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1y ago"
+  },
+  {
+   "id": "zW9lhJ69Tkw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "✅ How to Set Date & Time on Gamewell FCI E3 Fire Alarm Panel | Step-by-Step Tutorial",
+   "dur": "0:47",
+   "meta": [
+    "228",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 228,
+   "age": "1y ago"
+  },
+  {
+   "id": "Z89y58QgKBE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to View the Event Log on Gamewell-FCI E3 Fire Alarm Panel (Step-by-Step Guide) 🔍",
+   "dur": "1:28",
+   "meta": [
+    "444",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 444,
+   "age": "1y ago"
+  },
+  {
+   "id": "6dgMkNPqZ1o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔧 How to Disable & Enable a Device on the GW-FCI E3 Fire Alarm Panel | Step-by-Step Guide",
+   "dur": "3:06",
+   "meta": [
+    "1.5K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1500,
+   "age": "1y ago"
+  },
+  {
+   "id": "Udda0Iyskvc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Gamewell-FCI E3 System: Understanding Supervisory & Trouble Conditions (Alarm Panel Tutorial) ⚠️",
+   "dur": "2:13",
+   "meta": [
+    "1.1K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "1y ago"
+  },
+  {
+   "id": "j73WQibQyLQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔥 Gamewell-FCI E3 Fire Alarm System | Alarm Handling & Reset Demo 🔥",
+   "dur": "2:17",
+   "meta": [
+    "1.7K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "1y ago"
+  },
+  {
+   "id": "mdQJ7ueSgCY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "STA Carbon Monoxide Testing",
+   "dur": "0:30",
+   "meta": [
+    "121",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 121,
+   "age": "1y ago"
+  },
+  {
+   "id": "sPLN1g9Ax54",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Carbon Monoxide Poisoning: Hidden Dangers, Symptoms & How to Stay Safe",
+   "dur": "9:57",
+   "meta": [
+    "811",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 811,
+   "age": "1y ago"
+  }
+ ]
+}

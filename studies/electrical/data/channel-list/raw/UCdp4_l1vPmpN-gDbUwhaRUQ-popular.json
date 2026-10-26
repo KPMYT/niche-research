@@ -1,0 +1,401 @@
+{
+ "channel": "Branch Education",
+ "id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+ "handle": "http://www.youtube.com/@BranchEducation",
+ "description": "How do Microchips work?  How does your smartphone camera work?  How does Bluetooth work?  At Branch Education, we dive deep into the science, engineering, and technology in our modern world using 3D animation and incredibly detailed models. \n\nFounder of Branch Education: Theodore J Tablante\n\nWant to support in-depth engineering and technology education? Support us on Patreon:  http://www.patreon.com/brancheducation\n\nModeling is done in Blender 4.2.3 LTS Eevee and Cycles Render Engine, Adobe Premiere, and Reaper",
+ "subs": "2.77M subscribers",
+ "videos_count": "69 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "dX9CGRZwD-w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How are Microchips Made? 🖥️🛠️ CPU Manufacturing Process Steps",
+   "dur": "27:48",
+   "meta": [
+    "11M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 11000000,
+   "age": "2y ago"
+  },
+  {
+   "id": "1I1vxu5qIUM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does Bluetooth Work?",
+   "dur": "21:35",
+   "meta": [
+    "10M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 10000000,
+   "age": "5y ago"
+  },
+  {
+   "id": "qs2QcycggWU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does Starlink Satellite Internet Work?📡☄🖥",
+   "dur": "28:09",
+   "meta": [
+    "9.8M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 9800000,
+   "age": "4y ago"
+  },
+  {
+   "id": "h9Z4oGN89MU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Graphics Cards Work?  Exploring GPU Architecture",
+   "dur": "28:30",
+   "meta": [
+    "7.7M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 7700000,
+   "age": "2y ago"
+  },
+  {
+   "id": "5Mh3o886qpg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do SSDs Work? | How does your Smartphone store data? |  Insanely Complex Nanoscopic Structures!",
+   "dur": "17:55",
+   "meta": [
+    "6.3M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 6300000,
+   "age": "6y ago"
+  },
+  {
+   "id": "7J7X7aZvMXQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does Computer Memory Work? 💻🛠",
+   "dur": "35:33",
+   "meta": [
+    "5.4M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 5400000,
+   "age": "3y ago"
+  },
+  {
+   "id": "C8YtdC8mxTU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Video Game Graphics Work?",
+   "dur": "21:00",
+   "meta": [
+    "5.4M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 5400000,
+   "age": "2y ago"
+  },
+  {
+   "id": "SAaESb4wTCM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does a Mouse know when you move it?  ||  How Does a Computer Mouse Work?",
+   "dur": "12:04",
+   "meta": [
+    "5.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 5300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "9DnnxvS6BBQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Electron Microscopes Work? 🔬🛠🔬 Taking Pictures of Atoms",
+   "dur": "19:54",
+   "meta": [
+    "4.8M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 4800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "Kv1Hiv3ox8I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How are Images Compressed?  [46MB ↘↘ 4.07MB] JPEG In Depth",
+   "dur": "18:47",
+   "meta": [
+    "4.1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 4100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "cFvh7qM6LdA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Touchscreens Work?",
+   "dur": "8:36",
+   "meta": [
+    "4M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 4000000,
+   "age": "7y ago"
+  },
+  {
+   "id": "d86ws7mQYIg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does Computer Hardware Work?  💻🛠🔬  [3D Animated Teardown]",
+   "dur": "17:13",
+   "meta": [
+    "3.9M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3900000,
+   "age": "3y ago"
+  },
+  {
+   "id": "wtdnatmVdIg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Hard Disk Drives Work?  💻💿🛠",
+   "dur": "15:16",
+   "meta": [
+    "3.2M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "3y ago"
+  },
+  {
+   "id": "16zrEPOsIcI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Engineering that Runs the Digital World 🛠️⚙️💻 How do CPUs Work?",
+   "dur": "36:23",
+   "meta": [
+    "3.2M",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 3200000,
+   "age": "11mo ago"
+  },
+  {
+   "id": "_Pqfjer8-O4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Transistors Build into a CPU?  🖥️🤔  How do Transistors Work? 🖥️🤔",
+   "dur": "26:45",
+   "meta": [
+    "2.5M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2500000,
+   "age": "1y ago"
+  },
+  {
+   "id": "B2482h_TNwg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The $200M Machine that Prints Microchips:  The EUV Photolithography System",
+   "dur": "38:31",
+   "meta": [
+    "2.3M",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 2300000,
+   "age": "1y ago"
+  },
+  {
+   "id": "NKfW8ijmRQ4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Smartphone CPUs Work?  ||  Inside the System on a Chip",
+   "dur": "24:56",
+   "meta": [
+    "2.1M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 2100000,
+   "age": "5y ago"
+  },
+  {
+   "id": "h-NM1xSSzHQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Computer Keyboards Work? 🤔⌨⌨🛠",
+   "dur": "11:09",
+   "meta": [
+    "1.8M",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 1800000,
+   "age": "3y ago"
+  },
+  {
+   "id": "gfOD-Qpl6eg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Technology Size Comparison  🤯🤯  3D Animation",
+   "dur": "3:52",
+   "meta": [
+    "1.6M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1600000,
+   "age": "4y ago"
+  },
+  {
+   "id": "B7Dopv6kzJA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does a camera work?",
+   "dur": "14:20",
+   "meta": [
+    "1.5M",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "8y ago"
+  },
+  {
+   "id": "iOlehM5kNSk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How does Ray Tracing Work in Video Games and Movies?",
+   "dur": "29:22",
+   "meta": [
+    "1.5M",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "2y ago"
+  },
+  {
+   "id": "Z2LgmIGE2nI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What are PCBs? || How do PCBs Work?",
+   "dur": "10:27",
+   "meta": [
+    "1.5M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "6y ago"
+  },
+  {
+   "id": "G5McJw4KkG8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Lithium-ion Batteries Work?",
+   "dur": "9:30",
+   "meta": [
+    "1.5M",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 1500000,
+   "age": "7y ago"
+  },
+  {
+   "id": "9kM3mnxrMMM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do microSD Cards Store 2 TB in such a TINY space?",
+   "dur": "6:07",
+   "meta": [
+    "1.4M",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1400000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "_ZKNOKHpqE4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Engineering Inside Wireless Earbuds || How do Wireless Earbuds and Audio Codecs Work?",
+   "dur": "17:41",
+   "meta": [
+    "1.3M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1300000,
+   "age": "5y ago"
+  },
+  {
+   "id": "VIi04uD8LtY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Do Noise Canceling Headphones Work?",
+   "dur": "6:12",
+   "meta": [
+    "1.2M",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 1200000,
+   "age": "5y ago"
+  },
+  {
+   "id": "X6wJE-4BLM0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why are Smoke Detectors Radioactive?  And How do Smoke Detectors Work?",
+   "dur": "18:59",
+   "meta": [
+    "1.1M",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "fCS8jGc3log",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What's Inside a Smartphone?",
+   "dur": "3:34",
+   "meta": [
+    "965K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 965000,
+   "age": "7y ago"
+  },
+  {
+   "id": "aa6YISbAJEA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Incredible Evolution of Computers",
+   "dur": "33:39",
+   "meta": [
+    "877K",
+    "8mo ago"
+   ],
+   "channel_id": null,
+   "views": 877000,
+   "age": "8mo ago"
+  },
+  {
+   "id": "xnClSss50pI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How do Steam Engines Work?",
+   "dur": "9:36",
+   "meta": [
+    "853K",
+    "7y ago"
+   ],
+   "channel_id": null,
+   "views": 853000,
+   "age": "7y ago"
+  }
+ ]
+}

@@ -1,0 +1,1181 @@
+{
+ "channel": "Study Circuit",
+ "id": "UCpHWNthd0jxKL7lyi9Qnyvg",
+ "handle": "http://www.youtube.com/@StudyCircuitON",
+ "description": "Welcome to Study Circuit! Daily electrical study videos in plain language for Ontario 309A and Master Electrician exam candidates. We break down code traps, motor control, calculations, and instrumentation to help you study with confidence. For education only — this channel is not instructions for DIY live electrical work. Always follow applicable codes and work only within your qualifications and supervision.",
+ "subs": "24 subscribers",
+ "videos_count": "237 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "DaPBGzJCWZs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Right to Refuse: Two Stages to the Inspector",
+   "dur": "5:50",
+   "meta": [
+    "4",
+    "1h ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "1h ago"
+  },
+  {
+   "id": "LHXMVetjIdc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Week Per Year, Capped at Eight: The Notice Ladder",
+   "dur": "5:59",
+   "meta": [
+    "3",
+    "2h ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2h ago"
+  },
+  {
+   "id": "Hd6qZr0bL9M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The 1,000-Volt Kit: Insulated Tools, Blankets, and Covers",
+   "dur": "4:45",
+   "meta": [
+    "2",
+    "2h ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2h ago"
+  },
+  {
+   "id": "VTZ9AoCICBE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Raceways and Wiring Methods: Picking the Right System",
+   "dur": "4:21",
+   "meta": [
+    "4",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "4d ago"
+  },
+  {
+   "id": "gQ41iHyo8rU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Controller Hands Its Orders to Another: Cascade Control in Plain Numbers",
+   "dur": "5:56",
+   "meta": [
+    "0",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "4d ago"
+  },
+  {
+   "id": "bY9TZRORrDA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Find Rule 26-722 in 90 Seconds - How Far Can a Cord Reach to a Receptacle?",
+   "dur": "5:23",
+   "meta": [
+    "4",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "4d ago"
+  },
+  {
+   "id": "-1hUX1FOzB0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Label Assumes Maintenance: Equipment Condition and the Arc Flash Math",
+   "dur": "5:19",
+   "meta": [
+    "2",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "4d ago"
+  },
+  {
+   "id": "atfarkVpjIU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "When It Goes Wrong: Shock Response and Rescue",
+   "dur": "4:55",
+   "meta": [
+    "2",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "4d ago"
+  },
+  {
+   "id": "M-p_UuFWrwk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notification Appliances: Audible vs Visible, and Why Synchronization Matters",
+   "dur": "4:47",
+   "meta": [
+    "4",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "4d ago"
+  },
+  {
+   "id": "PWRkjBK3O9Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Industrial Control for Electricians: Sensors, PLCs, PID, Drives & Motion",
+   "dur": "3:27:58",
+   "meta": [
+    "8",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 8,
+   "age": "5d ago"
+  },
+  {
+   "id": "L_HUsRmB2mY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Generation: How the Grid Makes Its Power",
+   "dur": "1:00:27",
+   "meta": [
+    "5",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "6d ago"
+  },
+  {
+   "id": "DOGFsNJXIxM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Prime Movers: The Machines That Spin the Generators",
+   "dur": "1:00:13",
+   "meta": [
+    "3",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "6d ago"
+  },
+  {
+   "id": "VldpgN5uRLA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Charge That Waits: Stored Energy and Capacitors",
+   "dur": "4:58",
+   "meta": [
+    "4",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "6d ago"
+  },
+  {
+   "id": "V86-e1GL9KE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Power Electronics: Switches, Converters, and Drives",
+   "dur": "59:26",
+   "meta": [
+    "7",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "6d ago"
+  },
+  {
+   "id": "SV66gHp03Fc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Three Ways to Fuse a Capacitor Bank",
+   "dur": "7:04",
+   "meta": [
+    "4",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "6d ago"
+  },
+  {
+   "id": "azO-rvMgK3k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Know Your Gloves: Classes, Protectors, and the Air Test",
+   "dur": "5:12",
+   "meta": [
+    "6",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "6d ago"
+  },
+  {
+   "id": "nVpixZLn7GU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Grounded Is Not the Same as Safe: Temporary Protective Grounding",
+   "dur": "5:16",
+   "meta": [
+    "5",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "6d ago"
+  },
+  {
+   "id": "9LNzdfWilt8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Paid in 28, Passed Down in 7: The Prompt Payment Clock",
+   "dur": "5:50",
+   "meta": [
+    "6",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "6d ago"
+  },
+  {
+   "id": "PVOTxl7ElaA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Big Resistor Takes the Big Share: The Series Divider Method",
+   "dur": "8:34",
+   "meta": [
+    "4",
+    "6d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "6d ago"
+  },
+  {
+   "id": "x7JBJyL0QU8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electricity and Motor Control, From First Principles to Full Systems PT 2",
+   "dur": "2:09:54",
+   "meta": [
+    "4",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "7d ago"
+  },
+  {
+   "id": "lEIRKbNGWF0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electricity and Motor Control, From First Principles to Full Systems",
+   "dur": "2:09:54",
+   "meta": [
+    "6",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "7d ago"
+  },
+  {
+   "id": "ye8vNd73Z5o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Services and Demand: How a Load Calculation Flows",
+   "dur": "4:59",
+   "meta": [
+    "0",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "7d ago"
+  },
+  {
+   "id": "EiUyb7ZYcKE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Lines for Shock: Limited and Restricted",
+   "dur": "4:55",
+   "meta": [
+    "2",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "7d ago"
+  },
+  {
+   "id": "CkkIjbKjD2M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Read the Difference: How a U-Tube Manometer Turns Inches Into Pressure",
+   "dur": "5:28",
+   "meta": [
+    "5",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "7d ago"
+  },
+  {
+   "id": "XxfT3hpapeE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Energized Work: The Permit Comes Before the PPE",
+   "dur": "5:03",
+   "meta": [
+    "9",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 9,
+   "age": "7d ago"
+  },
+  {
+   "id": "J5wB1YF9FOU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Arc Flash in Plain Numbers: Read the Label, Match the Rating",
+   "dur": "5:09",
+   "meta": [
+    "5",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "7d ago"
+  },
+  {
+   "id": "RNocU9Y0GSs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Bosses, One Valve: Override Control in Plain Numbers",
+   "dur": "5:04",
+   "meta": [
+    "3",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "7d ago"
+  },
+  {
+   "id": "zQQ29MZQawY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Kirchhoff's Two Rules: The Node Balances, the Loop Adds to Zero",
+   "dur": "5:24",
+   "meta": [
+    "1",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "7d ago"
+  },
+  {
+   "id": "GVHZHSahjkU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fire Alarm Systems: Verification vs Inspection",
+   "dur": "3:40",
+   "meta": [
+    "8",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 8,
+   "age": "8d ago"
+  },
+  {
+   "id": "LasU-RubUlY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "WHMIS: The Review Comes Every Year",
+   "dur": "5:26",
+   "meta": [
+    "1",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "8d ago"
+  },
+  {
+   "id": "79PjhG-oj9E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Who Can Take Out the Permit?",
+   "dur": "5:36",
+   "meta": [
+    "2",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "8d ago"
+  },
+  {
+   "id": "8WflyuV4eiU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Severance Is Not Notice",
+   "dur": "5:17",
+   "meta": [
+    "0",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "8d ago"
+  },
+  {
+   "id": "qlTC0XnnCes",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Vacation Pay: 4% Is Only the Start",
+   "dur": "5:14",
+   "meta": [
+    "1",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "8d ago"
+  },
+  {
+   "id": "xuBdJcrIzLw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "An Electrically Safe Work Condition, Step by Step",
+   "dur": "5:01",
+   "meta": [
+    "1",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "8d ago"
+  },
+  {
+   "id": "w25TXSILtfA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Notice of Project: The $50,000 Line",
+   "dur": "5:25",
+   "meta": [
+    "0",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "8d ago"
+  },
+  {
+   "id": "w-aQQ7Two14",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Confined Spaces: No Permit, No Entry",
+   "dur": "5:40",
+   "meta": [
+    "1",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "8d ago"
+  },
+  {
+   "id": "7iy3A2DXH4I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Lien Clock: 60 Days From the Trigger",
+   "dur": "5:29",
+   "meta": [
+    "2",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "8d ago"
+  },
+  {
+   "id": "EmLYK66mJw8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Exam Day: What's Allowed in the Room",
+   "dur": "5:22",
+   "meta": [
+    "0",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "8d ago"
+  },
+  {
+   "id": "bslLBjfSb1s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Manual Stations, and Where People Expect to Find Them",
+   "dur": "4:39",
+   "meta": [
+    "2",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "8d ago"
+  },
+  {
+   "id": "I5ulWF4aFu0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Jogging a Motor Without Latching It: The Seal-In You Deliberately Break",
+   "dur": "5:33",
+   "meta": [
+    "5",
+    "8d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "8d ago"
+  },
+  {
+   "id": "qOkUIS9eHb0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "PID Control in Plain Motion: What P, I, and D Each Do",
+   "dur": "3:51",
+   "meta": [
+    "7",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "9d ago"
+  },
+  {
+   "id": "nxYAg6mOfdM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Spot the Violation: The Garage Panel With Four Hidden Traps",
+   "dur": "5:16",
+   "meta": [
+    "3",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "9d ago"
+  },
+  {
+   "id": "VlSWPr5F0T8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Rule 4-006: The Lug Picks Your Column",
+   "dur": "11:43",
+   "meta": [
+    "7",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "9d ago"
+  },
+  {
+   "id": "5dAO1dF5kIo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Lockout and the Safe-Work Sequence (Live-Dead-Live)",
+   "dur": "3:54",
+   "meta": [
+    "5",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "10d ago"
+  },
+  {
+   "id": "-3berH8ZeqQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fail Open or Fail Closed? The 442A Control Valve Trap",
+   "dur": "5:42",
+   "meta": [
+    "12",
+    "10d ago"
+   ],
+   "channel_id": null,
+   "views": 12,
+   "age": "10d ago"
+  },
+  {
+   "id": "jKkwDhJXUOw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "GFCI vs GFPE and Where Each Belongs",
+   "dur": "4:59",
+   "meta": [
+    "3",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "11d ago"
+  },
+  {
+   "id": "nY8_R9pfMck",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Motor, One Loop: From Service to Setpoint",
+   "dur": "10:06",
+   "meta": [
+    "2",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "11d ago"
+  },
+  {
+   "id": "04uA-Dgt_jU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two Doors, One Motor: Starts in Parallel, Stops in Series",
+   "dur": "5:56",
+   "meta": [
+    "1",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "11d ago"
+  },
+  {
+   "id": "WJVkZVx_mig",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Find Rule 8-304 in 90 Seconds - How Many Outlets on One Circuit?",
+   "dur": "5:27",
+   "meta": [
+    "5",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "11d ago"
+  },
+  {
+   "id": "TEBaHHa7XAc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Smoke vs Heat Detection: What Each One Actually Senses",
+   "dur": "4:45",
+   "meta": [
+    "3",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "12d ago"
+  },
+  {
+   "id": "rEX9b_OGWRk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Sensors at Work: Limit, Proximity, Photoelectric",
+   "dur": "4:35",
+   "meta": [
+    "6",
+    "12d ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "12d ago"
+  },
+  {
+   "id": "YlfWEqj-QAw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Reduced-Voltage Starters Compared: Wye-Delta, Autotransformer, Soft Start, VFD",
+   "dur": "5:07",
+   "meta": [
+    "2",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "13d ago"
+  },
+  {
+   "id": "MkLNQk7SuP0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Slip, Torque, and Why Voltage Sag Kills Torque",
+   "dur": "4:32",
+   "meta": [
+    "13",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 13,
+   "age": "13d ago"
+  },
+  {
+   "id": "3gPOn-2krr4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Two-Wire Versus Three-Wire: The Restart Trap",
+   "dur": "10:52",
+   "meta": [
+    "2",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "13d ago"
+  },
+  {
+   "id": "z1EbNOQmhuA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Critical Injury: What Counts, What Doesn't",
+   "dur": "5:26",
+   "meta": [
+    "0",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "13d ago"
+  },
+  {
+   "id": "G8kvw6b4HZc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Overtime Starts at 44, Not 40",
+   "dur": "5:09",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "kVajRpjcbo0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "You Passed the Exam. Now the 12-Month Clock Starts",
+   "dur": "5:11",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "FwX9sXvbF44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "First Aid on Site: The Rules Climb With Your Head Count",
+   "dur": "5:22",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "Dxx0Arw3Gyg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Quoted $8,000? You Can't Bill $10,000: The 10% Estimate Rule",
+   "dur": "5:01",
+   "meta": [
+    "2",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "13d ago"
+  },
+  {
+   "id": "RIOjNIAvXdY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Markup Is Not Margin: The $500 Pricing Mistake",
+   "dur": "5:40",
+   "meta": [
+    "3",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "13d ago"
+  },
+  {
+   "id": "d8MTxzwML7M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Your Only Master Electrician Just Quit: The 5-Day Clock",
+   "dur": "5:33",
+   "meta": [
+    "0",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "13d ago"
+  },
+  {
+   "id": "xr6jABCQCU0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Markup Is Not Margin: The Estimating Trap That Quietly Eats Your Profit",
+   "dur": "5:26",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "MfIUW0q_Sdw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Open It Wrong, Lose the Protection: Maintenance in Classified Areas",
+   "dur": "5:31",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "EFH9gAWimiQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Spray Areas: Where the Classified Zone Ends",
+   "dur": "5:45",
+   "meta": [
+    "0",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "13d ago"
+  },
+  {
+   "id": "_0qwP44MSFI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ventilation Changes Everything",
+   "dur": "6:14",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "n7K9nv2t964",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Static Spark: Bonding During Liquid Transfer",
+   "dur": "5:33",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "D9JOJDahDNg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fuel, Pits and Low Air: Classifying a Repair Garage",
+   "dur": "5:41",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "wByiWUmTRZE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Read the Mark: Decoding Equipment for a Classified Area",
+   "dur": "5:58",
+   "meta": [
+    "4",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "13d ago"
+  },
+  {
+   "id": "QMQgrthFKbc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Dust Is Fuel: Zones 20, 21 and 22",
+   "dur": "5:47",
+   "meta": [
+    "3",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "13d ago"
+  },
+  {
+   "id": "7LOu6w8VK2w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Wiring Methods That Survive the Zone",
+   "dur": "5:39",
+   "meta": [
+    "2",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "13d ago"
+  },
+  {
+   "id": "7lZjZxsVkho",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Seals That Stop the Flame",
+   "dur": "5:56",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "g-Cu28i5vE0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Protection Techniques, Matched Step by Step",
+   "dur": "5:46",
+   "meta": [
+    "1",
+    "13d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "13d ago"
+  },
+  {
+   "id": "RsLfFY5Ep3M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Welcome to Study Circuit",
+   "dur": "1:28",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "B0ERqWAOS4s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Hazardous Locations, Decoded Step by Step",
+   "dur": "5:49",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "n73rLMolulA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Heating Load, Calculated Step by Step",
+   "dur": "5:05",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "JVe2nSn2Je0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Fault Current, Calculated Step by Step",
+   "dur": "5:09",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "A896L6mq8rQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Circuit, Calculated Step by Step",
+   "dur": "6:15",
+   "meta": [
+    "1",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "2w ago"
+  },
+  {
+   "id": "cB0-sY9DfpY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "One Pair, Whole Crew: How Fieldbus Replaced the Loop",
+   "dur": "6:17",
+   "meta": [
+    "5",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 5,
+   "age": "2w ago"
+  },
+  {
+   "id": "t09OME_JF44",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ampacity, Corrected Step by Step",
+   "dur": "5:59",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "6gLn0rRzV2A",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Box Fill, Calculated Step by Step",
+   "dur": "5:47",
+   "meta": [
+    "10",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 10,
+   "age": "2w ago"
+  },
+  {
+   "id": "7QWi4YMAvCM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Test That Can Kill a Transmitter: Insulation Resistance, Plainly",
+   "dur": "6:17",
+   "meta": [
+    "4",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "2w ago"
+  },
+  {
+   "id": "l5bp5l9q69g",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "32 Millimetres: Cable Protection in the Wall",
+   "dur": "6:50",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "lKAX8OEFClw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Down and Across: Buried and Overhead Runs",
+   "dur": "4:33",
+   "meta": [
+    "2",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 2,
+   "age": "2w ago"
+  },
+  {
+   "id": "X8KEFCcG19M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Read the Jacket: NMD90, AC90, Teck90",
+   "dur": "3:29",
+   "meta": [
+    "7",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 7,
+   "age": "2w ago"
+  },
+  {
+   "id": "8MF92voJiBs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Conduit Fill: The Area Budget",
+   "dur": "3:55",
+   "meta": [
+    "6",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 6,
+   "age": "2w ago"
+  },
+  {
+   "id": "uPiGsdUpnas",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Pick the Path: Raceway or Cable?",
+   "dur": "4:01",
+   "meta": [
+    "1",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "2w ago"
+  },
+  {
+   "id": "3HwpQCz6ivo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Decoding the Motor Nameplate: Code Letters, Service Factor, and Starting Current",
+   "dur": "6:09",
+   "meta": [
+    "3",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 3,
+   "age": "2w ago"
+  },
+  {
+   "id": "rGMoKWCwny4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Voltage Drop, Calculated Step by Step",
+   "dur": "5:39",
+   "meta": [
+    "4",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 4,
+   "age": "2w ago"
+  },
+  {
+   "id": "MfYhazd5aAQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "20 Workers on Site? You Need a Safety Committee",
+   "dur": "5:23",
+   "meta": [
+    "0",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "2w ago"
+  },
+  {
+   "id": "rWPUNNKmtlY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Ungrounded Systems Explained",
+   "dur": "4:59",
+   "meta": [
+    "26",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 26,
+   "age": "2w ago"
+  }
+ ]
+}

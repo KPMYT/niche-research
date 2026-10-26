@@ -1,0 +1,388 @@
+{
+ "channel": "CTR Electronics",
+ "id": "UCIkhDEQb-fy4lMDUf8jMAQQ",
+ "handle": "http://www.youtube.com/@CTRElectronics",
+ "description": "Since 2006 Cross The Road Electronics (CTR) has been a leading provider of embedded solutions for control systems including robotics, diver propulsion vehicles (DPVs), motor control & outdoor propulsion.\nA trailblazer in solutions supporting robotics teams worldwide, CTR is set apart by its in-house design, assembly, & testing of its branded products. Their flagship product is the Talon FX Motor Controller, a brushless motor custom designed for the FIRST Robotics Competition. CTR's expansion into lawn mower propulsion systems leverages their proficiency in motor control.\nCTR’s expertise lies in designing, developing & manufacturing hardware, software components & communication protocols to create unique, durable & cost-effective solutions.\n",
+ "subs": "343 subscribers",
+ "videos_count": "52 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "t-zb7j4ikHM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Use Wago Connectors | Quick Wiring Tips & Best Practices for Robotics and Electrical Projects",
+   "dur": "4:45",
+   "meta": [
+    "50K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 50000,
+   "age": "9y ago"
+  },
+  {
+   "id": "m4wU_hA4cHM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CTR Electronics Expert Guide | Talon FXS™ Deep Dive with Dalton Smith",
+   "dur": "22:49",
+   "meta": [
+    "18K",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 18000,
+   "age": "1y ago"
+  },
+  {
+   "id": "3g9qQTNsCpk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CTR Electronics Expert Guide | CANdle™ Deep Dive with Dalton Smith",
+   "dur": "13:14",
+   "meta": [
+    "15K",
+    "7mo ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "7mo ago"
+  },
+  {
+   "id": "i7vmyFTNm-s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔍 SRX Mag Encoder Overview & Magnet Distance Setup Tips | FRC Robotics Sensor Tutorial",
+   "dur": "7:12",
+   "meta": [
+    "8.3K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 8300,
+   "age": "9y ago"
+  },
+  {
+   "id": "ZKmu8T21nfs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "⚙️ Talon Tach: Contactless Limit Switch & Tachometer for Talon SRX | FRC Robotics Sensor Integration",
+   "dur": "5:14",
+   "meta": [
+    "4.2K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 4200,
+   "age": "9y ago"
+  },
+  {
+   "id": "2xw_8bHx_SI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔌 How to Crimp Ferrules Like a Pro | Robotics Wiring Tips & Tools Tutorial",
+   "dur": "4:52",
+   "meta": [
+    "3.8K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 3800,
+   "age": "9y ago"
+  },
+  {
+   "id": "woXTM9joZmw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "💡 What Is the CANifier? CAN-to-IO Converter with RGB LED Control for FRC Robots | CTR Electronics",
+   "dur": "3:03",
+   "meta": [
+    "3.2K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 3200,
+   "age": "9y ago"
+  },
+  {
+   "id": "4sdu8IoG37Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🔧 How to Solder to Encoder & Analog Breakout SMT Pads | FRC Robotics Soldering Tutorial",
+   "dur": "10:59",
+   "meta": [
+    "2.5K",
+    "9y ago"
+   ],
+   "channel_id": null,
+   "views": 2500,
+   "age": "9y ago"
+  },
+  {
+   "id": "NduiZguMwMg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🤖 Self-Balancing Two-Wheel Robot Controlled by Wireless Gamepad | CTR Electronics Demo",
+   "dur": "1:50",
+   "meta": [
+    "976",
+    "8y ago"
+   ],
+   "channel_id": null,
+   "views": 976,
+   "age": "8y ago"
+  },
+  {
+   "id": "ivj1022UIJk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Eliminate The Jitter- Basic to Advanced PID Tuning",
+   "dur": "45:59",
+   "meta": [
+    "930",
+    "5mo ago"
+   ],
+   "channel_id": null,
+   "views": 930,
+   "age": "5mo ago"
+  },
+  {
+   "id": "upF4BZHAyns",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CTR Electronics Expert Guide | Minion™ motor with Dalton Smith",
+   "dur": "3:21",
+   "meta": [
+    "520",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 520,
+   "age": "1y ago"
+  },
+  {
+   "id": "m3moDLYhKPI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "CTR Electronics Expert Guide | CANRange™ Deep Dive with Dalton Smith",
+   "dur": "11:10",
+   "meta": [
+    "512",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 512,
+   "age": "10mo ago"
+  },
+  {
+   "id": "wh7205JO5BQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside the 2025 FIRST Championship | Swerve for FRC Teams",
+   "dur": "22:10",
+   "meta": [
+    "448",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 448,
+   "age": "1y ago"
+  },
+  {
+   "id": "OT24p4X-J0o",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside the 2025 FIRST Championship | CANdi™ for FRC Teams",
+   "dur": "7:45",
+   "meta": [
+    "425",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 425,
+   "age": "1y ago"
+  },
+  {
+   "id": "IjNJrNoyiuI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside the 2025 FIRST Championship | CANrange for FRC Teams",
+   "dur": "6:20",
+   "meta": [
+    "236",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 236,
+   "age": "1y ago"
+  },
+  {
+   "id": "GwNQcF2_-gM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 2611 Jacktown Vectors | Across the Road: Where brilliant teams build bold bots",
+   "dur": "3:32",
+   "meta": [
+    "176",
+    "6mo ago"
+   ],
+   "channel_id": null,
+   "views": 176,
+   "age": "6mo ago"
+  },
+  {
+   "id": "PLcoT3uZ3Lw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside the 2025 FIRST Championship | Minion Motor for FRC Teams",
+   "dur": "2:08",
+   "meta": [
+    "171",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 171,
+   "age": "1y ago"
+  },
+  {
+   "id": "BUhpv7vXXzo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 3539 Byting Bulldogs | Across the Road: Where brilliant teams build bold bots",
+   "dur": "4:31",
+   "meta": [
+    "165",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 165,
+   "age": "1y ago"
+  },
+  {
+   "id": "X1whPxtd_Xc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "🎃 We Want CANdi! Simplify Your Robot Wiring with CANdi | FRC Robotics #Tech #robotics #firstrobotics",
+   "dur": "0:13",
+   "meta": [
+    "149",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 149,
+   "age": "1y ago"
+  },
+  {
+   "id": "fdmx5waD_aI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 6517 So-Kno Robo! | Across the Road: Where brilliant teams build bold bots",
+   "dur": "4:20",
+   "meta": [
+    "144",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 144,
+   "age": "1y ago"
+  },
+  {
+   "id": "q1gvmX6IHe0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Inside the 2025 FIRST Championship | Talon FXS for FRC Teams",
+   "dur": "2:38",
+   "meta": [
+    "126",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 126,
+   "age": "1y ago"
+  },
+  {
+   "id": "jnY1UBNSS-w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "😂 What Didn’t Make the Cut? Bloopers & Ideas That Almost Were | Behind the Scenes at CTR Electronics",
+   "dur": "0:31",
+   "meta": [
+    "117",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 117,
+   "age": "2y ago"
+  },
+  {
+   "id": "RDIGvB20_4k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Kraken Live QA with CTR Electronics",
+   "dur": "0:14",
+   "meta": [
+    "100",
+    "1y ago"
+   ],
+   "channel_id": null,
+   "views": 100,
+   "age": "1y ago"
+  },
+  {
+   "id": "XNKGto5m0wo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 3767 TC Titans | Across the Road: Where brilliant teams build bold bots",
+   "dur": "4:10",
+   "meta": [
+    "97",
+    "11mo ago"
+   ],
+   "channel_id": null,
+   "views": 97,
+   "age": "11mo ago"
+  },
+  {
+   "id": "DIZYFTY5OD8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Teams Love CTR Electronics | Quality Robotics Hardware & Expert Support",
+   "dur": "0:11",
+   "meta": [
+    "96",
+    "2y ago"
+   ],
+   "channel_id": null,
+   "views": 96,
+   "age": "2y ago"
+  },
+  {
+   "id": "_6fjAmsPvxU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 51 Wings of Fire | Across the Road: Where brilliant teams build bold bots",
+   "dur": "3:02",
+   "meta": [
+    "95",
+    "4mo ago"
+   ],
+   "channel_id": null,
+   "views": 95,
+   "age": "4mo ago"
+  },
+  {
+   "id": "ROeMwTaiQas",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 3175 Calypdos | Across the Road: Where brilliant teams build bold bots",
+   "dur": "4:21",
+   "meta": [
+    "87",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 87,
+   "age": "10mo ago"
+  },
+  {
+   "id": "6Ijpx1Eot0I",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 8280 K9.0 Robotics | Across the Road: Where brilliant teams build bold bots",
+   "dur": "4:44",
+   "meta": [
+    "77",
+    "10mo ago"
+   ],
+   "channel_id": null,
+   "views": 77,
+   "age": "10mo ago"
+  },
+  {
+   "id": "GyYj40eWFNE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Team 2337 EngiNERDs | Across the Road: Where brilliant teams build bold bots",
+   "dur": "2:18",
+   "meta": [
+    "65",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 65,
+   "age": "3mo ago"
+  }
+ ]
+}

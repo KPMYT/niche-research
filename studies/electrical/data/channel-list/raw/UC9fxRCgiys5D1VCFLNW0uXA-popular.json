@@ -1,0 +1,401 @@
+{
+ "channel": "Sparky Channel",
+ "id": "UC9fxRCgiys5D1VCFLNW0uXA",
+ "handle": "http://www.youtube.com/@SparkyChannel",
+ "description": "",
+ "subs": "252K subscribers",
+ "videos_count": "637 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "cOFKnAGOPg4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Wire a 3-Way Switch System",
+   "dur": "16:28",
+   "meta": [
+    "4.2M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 4200000,
+   "age": "6y ago"
+  },
+  {
+   "id": "o1T3-4TOv1w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Box Offsets, 3 Point Saddle Bend, Parallel EMT Bends and Concentric 90° Stubs all in One Conduit",
+   "dur": "15:37",
+   "meta": [
+    "1.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "16KObgI44UE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "2 Prong Receptacle Circuit Replaced by GFCI and Grounded Receptacles per 2020 NEC",
+   "dur": "21:01",
+   "meta": [
+    "1.1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1100000,
+   "age": "6y ago"
+  },
+  {
+   "id": "PBJepa_n2ds",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "IDEAL National Championship 2019 Pro Finals: Service Entrance Cable, Torque, Panels and Breakers",
+   "dur": "1:07:47",
+   "meta": [
+    "1M",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 1000000,
+   "age": "6y ago"
+  },
+  {
+   "id": "p_8ZWtuo7KE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Wire a 4-Way Switch System",
+   "dur": "20:58",
+   "meta": [
+    "896K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 896000,
+   "age": "6y ago"
+  },
+  {
+   "id": "pL8dNYmDF7Y",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix an Open Ground",
+   "dur": "13:05",
+   "meta": [
+    "702K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 702000,
+   "age": "6y ago"
+  },
+  {
+   "id": "CoFGJvxZg8s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EMT Bending: How To Make a 3 Point Saddle Bend Without Charts or Apps",
+   "dur": "8:30",
+   "meta": [
+    "675K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 675000,
+   "age": "6y ago"
+  },
+  {
+   "id": "UJka4Z5LemY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "IDEAL National Championship Pro 2nd Round Parallel EMT Bends",
+   "dur": "33:57",
+   "meta": [
+    "669K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 669000,
+   "age": "6y ago"
+  },
+  {
+   "id": "3F7OvytMmho",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Put Bath Fan and Light on Separate Switches Instead of on One Switch",
+   "dur": "18:01",
+   "meta": [
+    "655K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 655000,
+   "age": "5y ago"
+  },
+  {
+   "id": "NinC6Vk3dlU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Delta Kitchen Faucet Leak Repair (Single Handle)",
+   "dur": "8:56",
+   "meta": [
+    "618K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 618000,
+   "age": "5y ago"
+  },
+  {
+   "id": "8o0jxGYYFXo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DeWalt Quickload™ Trimmer Head Replacement and How to Load New Line Quickload™ Style!",
+   "dur": "5:36",
+   "meta": [
+    "506K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 506000,
+   "age": "6y ago"
+  },
+  {
+   "id": "EGgQGiUvcCU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Fix an Open Neutral Receptacle When the Problem is Upstream in the Circuit",
+   "dur": "9:08",
+   "meta": [
+    "500K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 500000,
+   "age": "6y ago"
+  },
+  {
+   "id": "-KM9crpIU8Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Separate Switches for Bath Fan and Light from Single Switch in a 1960's House",
+   "dur": "15:57",
+   "meta": [
+    "461K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 461000,
+   "age": "6y ago"
+  },
+  {
+   "id": "HfYcvvA7R5M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Reload a DeWalt Quickload™ Spool for a DeWalt String Trimmer",
+   "dur": "4:24",
+   "meta": [
+    "457K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 457000,
+   "age": "6y ago"
+  },
+  {
+   "id": "-0zqSWEryOE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Shall I Use a 15A or a 20A Receptacle on a 20A Circuit? + 2020 NEC 210.21(B)(1) and 210.21(B)(3)",
+   "dur": "8:25",
+   "meta": [
+    "440K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 440000,
+   "age": "6y ago"
+  },
+  {
+   "id": "tVqqF-j0l74",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Install a Combination Switch and Receptacle",
+   "dur": "10:05",
+   "meta": [
+    "412K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 412000,
+   "age": "6y ago"
+  },
+  {
+   "id": "l3G3FlwX0Pk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Clean a Main Line Drain",
+   "dur": "12:01",
+   "meta": [
+    "391K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 391000,
+   "age": "6y ago"
+  },
+  {
+   "id": "yjGH0Fy5lb8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Which Wire is the Hot and Which is the Neutral in an Old House? How to Tell and Stay Safe!",
+   "dur": "6:02",
+   "meta": [
+    "385K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 385000,
+   "age": "5y ago"
+  },
+  {
+   "id": "A2t2EH3IhlE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Add a Receptacle to a Lighting Circuit",
+   "dur": "17:10",
+   "meta": [
+    "370K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 370000,
+   "age": "6y ago"
+  },
+  {
+   "id": "QW88vh55RUw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Replace an Old Badger Disposal with a New One Fast!",
+   "dur": "8:16",
+   "meta": [
+    "359K",
+    "3y ago"
+   ],
+   "channel_id": null,
+   "views": 359000,
+   "age": "3y ago"
+  },
+  {
+   "id": "pWOLGzPo6vM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "EMT Conduit Bending: Four Point Saddle Bend with Multipliers, Shrink + No Charts or Apps",
+   "dur": "12:56",
+   "meta": [
+    "341K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 341000,
+   "age": "6y ago"
+  },
+  {
+   "id": "OyXnEd1auCk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Watch a Pro Wire a 20A GFCI and 20A Receptacle, Any Code Violations?",
+   "dur": "9:24",
+   "meta": [
+    "334K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 334000,
+   "age": "4y ago"
+  },
+  {
+   "id": "xMPxhYpeiHs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Trace an Open Circuit Caused by Broken Wires",
+   "dur": "5:01",
+   "meta": [
+    "333K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 333000,
+   "age": "4y ago"
+  },
+  {
+   "id": "n9EJHbAQujE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How to Troubleshoot and Repair Lighting Problems",
+   "dur": "6:00",
+   "meta": [
+    "317K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 317000,
+   "age": "5y ago"
+  },
+  {
+   "id": "FxaJ3MtwVpU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Replacing a Vintage 1960 Switch and Grounding the New Switch",
+   "dur": "9:15",
+   "meta": [
+    "309K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 309000,
+   "age": "6y ago"
+  },
+  {
+   "id": "W6rpuuN1Hig",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Fix an \"Open Hot\" Receptacle",
+   "dur": "5:49",
+   "meta": [
+    "286K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 286000,
+   "age": "6y ago"
+  },
+  {
+   "id": "gF4AR20llN0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Which is Correct?",
+   "dur": "2:28",
+   "meta": [
+    "284K",
+    "4y ago"
+   ],
+   "channel_id": null,
+   "views": 284000,
+   "age": "4y ago"
+  },
+  {
+   "id": "NdXwRUhfBHA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Delta Single Handle Shower Valve Leak Repair 13/14 Series",
+   "dur": "4:50",
+   "meta": [
+    "268K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 268000,
+   "age": "5y ago"
+  },
+  {
+   "id": "EGyXhV0p-4w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How To Fix a 3-Way Switch System",
+   "dur": "14:46",
+   "meta": [
+    "263K",
+    "6y ago"
+   ],
+   "channel_id": null,
+   "views": 263000,
+   "age": "6y ago"
+  },
+  {
+   "id": "ORwBKqiKHHY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Kidde Hardwired Smoke and Carbon Monoxide Detector with Battery Backup and Voice Alarm  Installation",
+   "dur": "6:47",
+   "meta": [
+    "243K",
+    "5y ago"
+   ],
+   "channel_id": null,
+   "views": 243000,
+   "age": "5y ago"
+  }
+ ]
+}

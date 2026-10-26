@@ -1,0 +1,50 @@
+{
+ "channel": "Simplified Guy",
+ "id": "UCJLhrXZ4c5qiXDTEugowejA",
+ "handle": "http://www.youtube.com/@The-SimplifiedGuy",
+ "description": "I explain everyday things plainly:)\n",
+ "subs": null,
+ "videos_count": "3 videos",
+ "sort": "latest",
+ "videos": [
+  {
+   "id": "8zEbhAeXri4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Are the Rocks Under Train Tracks Actually For?(Explained in 10 Minutes)",
+   "dur": "10:05",
+   "meta": [
+    "0",
+    "11h ago"
+   ],
+   "channel_id": null,
+   "views": 0,
+   "age": "11h ago"
+  },
+  {
+   "id": "Zq30a6X0ADM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Ships Are Painted Red Below the Waterline? (Explained in 13 Minutes)",
+   "dur": "13:16",
+   "meta": [
+    "1",
+    "1d ago"
+   ],
+   "channel_id": null,
+   "views": 1,
+   "age": "1d ago"
+  },
+  {
+   "id": "xPkJ0Vkgprs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Electric Plugs Have Holes? (Explained in 5 Minutes)",
+   "dur": "5:11",
+   "meta": [
+    "77",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 77,
+   "age": "3d ago"
+  }
+ ]
+}

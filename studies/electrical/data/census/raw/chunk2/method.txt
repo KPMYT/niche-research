@@ -1,0 +1,10 @@
+Census chunk2 method (2026-10-26)
+- about/<id>.json: direct load of youtube.com/channel/<id>/about (aboutChannelViewModel): description, subs, views, video count, joined, country, links. Script: scratchpad c2about.py. Same fields NexLev youtube_channel_about returns (2 spot checks match: nexlev/crosscheck_about_vs_direct.txt).
+- loader/<id>_{popular,latest,oldest}.json: yt.py channel (3 pages popular/latest, 1 page oldest). _latest_deep.json for 3 heavy uploaders (20 or 15 pages). Channels with no Popular/Oldest sort on the page (few videos): the Latest list was used and sorted by views.
+- loader/first_upload_exact_dates.json: yt.py video on the oldest Videos-tab upload for channels whose oldest upload is under 2 years old.
+- loader/top3_exact_views.json: yt.py video on every top-3 video (exact views and date).
+- nexlev/batch_v2.csv: get_batch_channel_metrics_v2 (10 jobs; 4 batches of 10 timed out and were re-run as batches of 5). This tool returns RPM, avg views, monetized, faceless, category, country; it does NOT return subs, total views, monthly views, earnings, outlier score or join date.
+- nexlev/nicheFinder_records_from_2026-10-24_pulls.csv: the 11 chunk channels found in the study's earlier NexLev niche-finder pulls (data/new-channels-nexlev/raw), which carry monthly views, monthly revenue and outlier score.
+- thumbs/: 3 thumbnails per channel (Popular top 2 long-form + newest upload), viewed as contact sheets.
+- In-scope share: my reading of the Popular-30 long-form titles against the narrow scope (EV charging, solar, power stations, generator buying/engine repair, HVAC, plumbing, trade-career/exam content not counted).
+- Scope rule used: core = 50%+ of Popular-30 long-form in scope; partial = 10-49%, or under 10% with an in-scope video of 100K+ views; out = the rest or clearly a different audience (reason in notes).

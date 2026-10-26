@@ -1,0 +1,843 @@
+{
+ "channel": "Zenthral Code",
+ "id": "UC-ZIYEO2M5ooPNNOqoW-QiQ",
+ "handle": "http://www.youtube.com/@ZenthralCode",
+ "description": "Physics Graduate explaining electricity, engineering and technology through simple visual education.\n\nExplore simple visual explanations of:\n🔌 Power Systems & Three-Phase Electricity\n⚙️ Transformers & Electrical Machines\n🌀 Motors, Generators & Industrial Systems\n💡 Electronics & Basic Circuits\n🔬 Applied Physics Behind Electrical Technology\n\n\nWe break down complex electrical engineering concepts step by step for students, engineers, technicians, and curious minds.\n\n📧 For any queries contact me at: 𝐳𝐞𝐧𝐭𝐡𝐫𝐚𝐥𝐜𝐨𝐝𝐞@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦\n   \n",
+ "subs": "24.6K subscribers",
+ "videos_count": "353 videos",
+ "sort": "popular",
+ "videos": [
+  {
+   "id": "2zFnPI-cMYM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 3-Phase Motors Have 6 Terminals but Only 3 Supply Wires?",
+   "dur": "11:02",
+   "meta": [
+    "281K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 281000,
+   "age": "2w ago"
+  },
+  {
+   "id": "GUF0eRC5ZrQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does Europe Use 50 Hz Instead of 60 Hz?",
+   "dur": "10:06",
+   "meta": [
+    "188K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 188000,
+   "age": "3w ago"
+  },
+  {
+   "id": "3QVAuoydeD0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Stranded Wire vs Solid Wire: Which One Is Better?",
+   "dur": "12:38",
+   "meta": [
+    "163K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 163000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "bdJfkIWDmD0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Neutral Wire Complete Guide: The Hidden Danger Most People Ignore",
+   "dur": "16:07",
+   "meta": [
+    "162K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 162000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "_F896X42owE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is the North American Power Grid 60 Hz?",
+   "dur": "9:36",
+   "meta": [
+    "149K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 149000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "6CmVSLnPDLk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is the Neutral Wire Sometimes Thinner Than Phase Wires?",
+   "dur": "15:52",
+   "meta": [
+    "94K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 94000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "wuV2u6b_D7k",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Single Phase Motors Can’t Start Without a Capacitor?",
+   "dur": "16:00",
+   "meta": [
+    "85K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 85000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "QYsNlJl7Oj4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Some Countries Connect Neutral to Earth and Others Keep Them Separate?",
+   "dur": "10:25",
+   "meta": [
+    "80K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 80000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "cB3G3OEd_as",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why America Uses 120V while Europe Uses 230V?",
+   "dur": "11:40",
+   "meta": [
+    "76K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 76000,
+   "age": "2w ago"
+  },
+  {
+   "id": "eD6PiCddaCg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Three Phase Power Complete Course Everything You Need To Know",
+   "dur": "19:31",
+   "meta": [
+    "65K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 65000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "ft9Dc2M4Wsk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why √3 Appears in Every 3 Phase Formula?",
+   "dur": "9:57",
+   "meta": [
+    "56K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 56000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "Zh3dRDWgRVc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Load and Distance Determine the Correct Wire Size?",
+   "dur": "13:45",
+   "meta": [
+    "43K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 43000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "VK-DTzqPzeU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why a 1,000 kVA Generator May Deliver Only 800 kW?",
+   "dur": "9:14",
+   "meta": [
+    "21K",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 21000,
+   "age": "2w ago"
+  },
+  {
+   "id": "qgReqtXZAZk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Synchronous Motor Complete Guide : How It Works and Why It Matters",
+   "dur": "17:12",
+   "meta": [
+    "20K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "n1ppn4z5_vk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Insane Journey of Electricity to Your Home",
+   "dur": "13:23",
+   "meta": [
+    "20K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "oYrNmI13mmg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Are Overhead Power Lines Bare but House Wires Insulated?",
+   "dur": "10:25",
+   "meta": [
+    "20K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 20000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "PrJ6nKInxRk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Power Grids Use 3 Phases Instead of 2, 4, or 6?",
+   "dur": "10:59",
+   "meta": [
+    "15K",
+    "11d ago"
+   ],
+   "channel_id": null,
+   "views": 15000,
+   "age": "11d ago"
+  },
+  {
+   "id": "lhDmpwsC6Aw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why is 0.85 Power Factor Used as the Standard?",
+   "dur": "12:30",
+   "meta": [
+    "14K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "duCZNjEEF9w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Happens If You Run a 50 Hz Motor on 60 Hz?",
+   "dur": "10:11",
+   "meta": [
+    "14K",
+    "7d ago"
+   ],
+   "channel_id": null,
+   "views": 14000,
+   "age": "7d ago"
+  },
+  {
+   "id": "oiPmhukCEOM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Your Home Use Single Phase or Three Phase?",
+   "dur": "14:53",
+   "meta": [
+    "12K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "92GpZjfKXas",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Induction Motors are Rated 1750 RPM Instead of 1800?",
+   "dur": "12:38",
+   "meta": [
+    "12K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 12000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "MtZtn2w7KHg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why High-Voltage Cables Are Built With So Many Layers?",
+   "dur": "11:12",
+   "meta": [
+    "11K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 11000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "_GHjRuo883s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is Aluminum Wire Thicker Than Copper for the Same Load?",
+   "dur": "10:38",
+   "meta": [
+    "10K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 10000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "EmZPPLaB6Mc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "DC Motor Complete Guide : How It Works, Components, Types and Troubleshooting",
+   "dur": "15:23",
+   "meta": [
+    "10K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 10000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "GJDL-PhfTyQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Capacitor Banks Fix Power Factor? | Complete Guide",
+   "dur": "15:29",
+   "meta": [
+    "9.4K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 9400,
+   "age": "2mo ago"
+  },
+  {
+   "id": "oe1UsTNbMuA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Air Conditioners Usually Need Thicker Wire?",
+   "dur": "10:39",
+   "meta": [
+    "9K",
+    "4w ago"
+   ],
+   "channel_id": null,
+   "views": 9000,
+   "age": "4w ago"
+  },
+  {
+   "id": "JMirGVCAF7s",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Transformers Use kVA? (It's Not Just Tradition)",
+   "dur": "13:08",
+   "meta": [
+    "7.8K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 7800,
+   "age": "2mo ago"
+  },
+  {
+   "id": "duRcyA5Q09Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "9 Three Phase Calculations Every Electrician Must Know",
+   "dur": "14:59",
+   "meta": [
+    "7.6K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 7600,
+   "age": "2mo ago"
+  },
+  {
+   "id": "alE7JQJ-vEE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The 4 Types of Generators You Need to Know for Off-Grid Power",
+   "dur": "11:05",
+   "meta": [
+    "6.6K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 6600,
+   "age": "2mo ago"
+  },
+  {
+   "id": "Okw3C7OswA8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Motor Starting Guide : DOL vs Star-Delta vs Soft Starter vs VFD",
+   "dur": "15:07",
+   "meta": [
+    "6K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 6000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "3hZoOroVCEw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Complete Guide to Electrical Wiring : Live, Neutral, Earth & Ground Explained",
+   "dur": "16:37",
+   "meta": [
+    "5.7K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 5700,
+   "age": "2mo ago"
+  },
+  {
+   "id": "grffvmCzqcw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 3-Phase Is 400V in Europe but 480V or 208V in America?",
+   "dur": "11:22",
+   "meta": [
+    "5.2K",
+    "1d ago"
+   ],
+   "channel_id": null,
+   "views": 5200,
+   "age": "1d ago"
+  },
+  {
+   "id": "9V6U62TsAIk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "AC vs DC: Which One Is Better?",
+   "dur": "10:37",
+   "meta": [
+    "5.1K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 5100,
+   "age": "1mo ago"
+  },
+  {
+   "id": "RGHt_rvO6XY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is Japan’s Power Grid Split Between 50 Hz and 60 Hz?",
+   "dur": "9:36",
+   "meta": [
+    "5.1K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 5100,
+   "age": "3w ago"
+  },
+  {
+   "id": "Vo8OKPXU2vA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does a Circuit Breaker Take So Long to Trip?",
+   "dur": "10:04",
+   "meta": [
+    "4.9K",
+    "3w ago"
+   ],
+   "channel_id": null,
+   "views": 4900,
+   "age": "3w ago"
+  },
+  {
+   "id": "RRuPfyImGPo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Neutral Can Carry More Current Than Any Phase. Here’s Why",
+   "dur": "11:42",
+   "meta": [
+    "4.8K",
+    "4d ago"
+   ],
+   "channel_id": null,
+   "views": 4800,
+   "age": "4d ago"
+  },
+  {
+   "id": "AxILLqorr-w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Wire Colors Around the World: The Same Color Can Mean the Opposite",
+   "dur": "9:45",
+   "meta": [
+    "4.8K",
+    "9d ago"
+   ],
+   "channel_id": null,
+   "views": 4800,
+   "age": "9d ago"
+  },
+  {
+   "id": "u9gZ9jN4Yxw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Power Factor Can Never Be Greater Than 1?",
+   "dur": "14:37",
+   "meta": [
+    "4.3K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 4300,
+   "age": "2mo ago"
+  },
+  {
+   "id": "kSOaR6rULxc",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Can a Single-Core AC Cable Overheat Steel Armor?",
+   "dur": "10:46",
+   "meta": [
+    "4.2K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 4200,
+   "age": "1mo ago"
+  },
+  {
+   "id": "PbuIoyGr1bM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "6 Important Transformer Calculations Every Engineer Needs",
+   "dur": "18:19",
+   "meta": [
+    "4.1K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 4100,
+   "age": "2mo ago"
+  },
+  {
+   "id": "b-Tr5jfvrAg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "World Power Plugs Explained: Why Countries Use Different Designs?",
+   "dur": "12:25",
+   "meta": [
+    "4K",
+    "5d ago"
+   ],
+   "channel_id": null,
+   "views": 4000,
+   "age": "5d ago"
+  },
+  {
+   "id": "Nn6eCGn-IVk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Line Voltage and Phase Voltage?",
+   "dur": "7:54",
+   "meta": [
+    "4K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 4000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "EHwOlSiSYBk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Mysterious 0.707: Why This Number Haunts Every Engineer",
+   "dur": "14:32",
+   "meta": [
+    "3.3K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 3300,
+   "age": "2mo ago"
+  },
+  {
+   "id": "hUeEm5ksJv8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does Swapping Two Wires Reverse a Motor?",
+   "dur": "11:00",
+   "meta": [
+    "3.3K",
+    "3d ago"
+   ],
+   "channel_id": null,
+   "views": 3300,
+   "age": "3d ago"
+  },
+  {
+   "id": "1DXVVAOPTw0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Overhead Conductors Use Aluminum Around a Steel Core?",
+   "dur": "10:36",
+   "meta": [
+    "2.8K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 2800,
+   "age": "1mo ago"
+  },
+  {
+   "id": "-Ce9mGVCBTs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Transformer Works Complete Course | Everything You Need To Know",
+   "dur": "22:51",
+   "meta": [
+    "2.6K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 2600,
+   "age": "2mo ago"
+  },
+  {
+   "id": "HhZuaZVsjPg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Complete Electric Motor Types Roadmap: Explained",
+   "dur": "15:14",
+   "meta": [
+    "2.3K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 2300,
+   "age": "1mo ago"
+  },
+  {
+   "id": "I8jxxXQcglg",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "UPS vs Inverter vs Generator: Which One Does a Building Actually Need?",
+   "dur": "9:59",
+   "meta": [
+    "2.2K",
+    "1mo ago"
+   ],
+   "channel_id": null,
+   "views": 2200,
+   "age": "1mo ago"
+  },
+  {
+   "id": "MTyp08KHIho",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "10 Electrical Myths You Think Are True (But Are Deadly!)",
+   "dur": "17:25",
+   "meta": [
+    "2K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 2000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "fYAbb08bdR8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Induction Motor Complete Guide: Tesla’s Perfect Machine",
+   "dur": "17:55",
+   "meta": [
+    "1.7K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1700,
+   "age": "2mo ago"
+  },
+  {
+   "id": "oySaviJdCco",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Step Up vs Step Down Transformers: Which One is Right for You?",
+   "dur": "15:00",
+   "meta": [
+    "1.6K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1600,
+   "age": "2mo ago"
+  },
+  {
+   "id": "j9gOkYQfdyQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "4 Real 3-Phase Problems Solved: WYE, Delta, Motor & Power Calculations",
+   "dur": "8:26",
+   "meta": [
+    "1.4K",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 1400,
+   "age": "2mo ago"
+  },
+  {
+   "id": "PqjvGM2fSy0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Real-Life 3-Phase Problems: WYE Voltage Calculations (Project 1 & 2)",
+   "dur": "6:46",
+   "meta": [
+    "1.1K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "3mo ago"
+  },
+  {
+   "id": "naE7FPzDoqs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Does a Generator Create 3 Phase Power?",
+   "dur": "1:39",
+   "meta": [
+    "1.1K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 1100,
+   "age": "3mo ago"
+  },
+  {
+   "id": "-e240MMtf_Q",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Three Phase Power: Complete Guide from Basics to Advanced",
+   "dur": "2:05",
+   "meta": [
+    "1K",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 1000,
+   "age": "3mo ago"
+  },
+  {
+   "id": "s9P37PjwILQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Does 3 Phase Have 120 Degree Phase Difference?",
+   "dur": "2:01",
+   "meta": [
+    "822",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 822,
+   "age": "3mo ago"
+  },
+  {
+   "id": "A7aMb8ClZEo",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Who Actually Sets Electrical Standards and Codes?",
+   "dur": "10:53",
+   "meta": [
+    "740",
+    "2w ago"
+   ],
+   "channel_id": null,
+   "views": 740,
+   "age": "2w ago"
+  },
+  {
+   "id": "KP0yTpOURt0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Three Phase Power?",
+   "dur": "1:33",
+   "meta": [
+    "721",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 721,
+   "age": "3mo ago"
+  },
+  {
+   "id": "2MIcIIh7jqM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Is 3-Phase Power Generated?",
+   "dur": "1:41",
+   "meta": [
+    "632",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 632,
+   "age": "3mo ago"
+  },
+  {
+   "id": "SMSbci_DkIU",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why 3-Phase Power Is Constant but Single Phase Pulsates?",
+   "dur": "5:38",
+   "meta": [
+    "594",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 594,
+   "age": "3mo ago"
+  },
+  {
+   "id": "1E2GlRtmSNk",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Three Phase Power Is More Efficient Than Single Phase?",
+   "dur": "9:07",
+   "meta": [
+    "594",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 594,
+   "age": "3mo ago"
+  },
+  {
+   "id": "2Bp3NaSNJF4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What You Don't Know About Electricity: The Hidden History",
+   "dur": "10:50",
+   "meta": [
+    "451",
+    "2mo ago"
+   ],
+   "channel_id": null,
+   "views": 451,
+   "age": "2mo ago"
+  },
+  {
+   "id": "yAnmdm6DeLI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Single Phase Power & Why It Cannot Run Large Motors?",
+   "dur": "1:33",
+   "meta": [
+    "431",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 431,
+   "age": "3mo ago"
+  },
+  {
+   "id": "ME7iDTNsXm8",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Is Phase Difference in 3 Phase Power?",
+   "dur": "1:43",
+   "meta": [
+    "374",
+    "3mo ago"
+   ],
+   "channel_id": null,
+   "views": 374,
+   "age": "3mo ago"
+  }
+ ]
+}

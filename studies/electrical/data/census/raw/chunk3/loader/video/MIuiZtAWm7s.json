@@ -1,0 +1,290 @@
+{
+ "id": "MIuiZtAWm7s",
+ "title": "How Electricity Actually Flows (What's Really Moving in a Wire)",
+ "channel": "The Apprentice's Guide",
+ "channel_id": "UCMXN-53SCPpYxmYSvFOjz2g",
+ "views": 70166,
+ "date": "Aug 20, 2026",
+ "up_next": [
+  {
+   "id": "pnK_OEpissI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Series vs Parallel Circuits Explained — Why One Dead Bulb Kills Everything",
+   "dur": "14:02",
+   "meta": [
+    "The Apprentice's Guide",
+    "11K",
+    "1mo ago"
+   ],
+   "channel_id": "UCMXN-53SCPpYxmYSvFOjz2g",
+   "views": 11000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "iL5lBGfEUyA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Volts, Amps & Watts Explained — and Which One Can Kill You",
+   "dur": "25:01",
+   "meta": [
+    "Weirdward Bound",
+    "9.1K",
+    "1d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 9100,
+   "age": "1d ago"
+  },
+  {
+   "id": "3MqNVS3SGJE",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Antenna Existed Decades Before Radio — So What Was It Actually For?",
+   "dur": "26:19",
+   "meta": [
+    "Weirdward Bound",
+    "125K",
+    "2w ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 125000,
+   "age": "2w ago"
+  },
+  {
+   "id": "ffO4xVOU1oI",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Volts, Amps & Watts Explained — and Which One Kills You",
+   "dur": "13:00",
+   "meta": [
+    "The Apprentice's Guide",
+    "841K",
+    "1mo ago"
+   ],
+   "channel_id": "UCMXN-53SCPpYxmYSvFOjz2g",
+   "views": 841000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "A7v3ccpMG6w",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "You'll Finally Understand Where Grounded Electricity Goes",
+   "dur": "19:56",
+   "meta": [
+    "Kilowatt Nation",
+    "146K",
+    "5d ago"
+   ],
+   "channel_id": "UCr9iCr0odsB6IQ_37ULOrUA",
+   "views": 146000,
+   "age": "5d ago"
+  },
+  {
+   "id": "f3S_7BbUR50",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "You'll Finally Understand What Happens When a Neutral Wire Fails",
+   "dur": "20:27",
+   "meta": [
+    "Kilowatt Nation",
+    "20K",
+    "2d ago"
+   ],
+   "channel_id": "UCr9iCr0odsB6IQ_37ULOrUA",
+   "views": 20000,
+   "age": "2d ago"
+  },
+  {
+   "id": "RGcyBe7fSY4",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Why Do Electrical Plugs Have Holes in the Prongs?",
+   "dur": "25:13",
+   "meta": [
+    "Weirdward Bound",
+    "144K",
+    "7d ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 144000,
+   "age": "7d ago"
+  },
+  {
+   "id": "YXyxeb3kfQs",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "I Had a Loose Neutral Connection! Here's How I Found It",
+   "dur": "40:39",
+   "meta": [
+    "Smarter Sparky",
+    "211K",
+    "2mo ago"
+   ],
+   "channel_id": "UC9TkzHC0J8SmHKpgnRxE5JA",
+   "views": 211000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "CYTcH_MhA3c",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Starting Electronics in 2026? Here's What you Actually Need!",
+   "dur": "18:14",
+   "meta": [
+    "ToP Projects Compilation",
+    "657K",
+    "1mo ago"
+   ],
+   "channel_id": "UCakdd02jzfgmsXVsKbsKXfw",
+   "views": 657000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "nYuVSG89vg0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Basics Made Easy",
+   "dur": "48:49",
+   "meta": [
+    "CaptiveAire",
+    "1.1M",
+    "4y ago"
+   ],
+   "channel_id": "UCt0ArHe_-CKAr1So3IEwmsA",
+   "views": 1100000,
+   "age": "4y ago"
+  },
+  {
+   "id": "4u83B3lAqmY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Does Current Flow on the Neutral?",
+   "dur": "23:03",
+   "meta": [
+    "Electrician U",
+    "1.3M",
+    "4y ago"
+   ],
+   "channel_id": "UCB3jUEyCLRbCw7QED0vnXYg",
+   "views": 1300000,
+   "age": "4y ago"
+  },
+  {
+   "id": "-sIzYjagX28",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Solid VS. Stranded Wire — Why Do Electricians Use Both?",
+   "dur": "25:56",
+   "meta": [
+    "Weirdward Bound",
+    "170K",
+    "3w ago"
+   ],
+   "channel_id": "UCuJxFxVuj4s_MmupOMmDqCQ",
+   "views": 170000,
+   "age": "3w ago"
+  },
+  {
+   "id": "KYI7zjYRj-M",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "How Inverters Turn Battery Power into AC",
+   "dur": "17:01",
+   "meta": [
+    "Prof MAD",
+    "479K",
+    "1mo ago"
+   ],
+   "channel_id": "UCIHwyz8ISMolEPSy6VDf-kw",
+   "views": 479000,
+   "age": "1mo ago"
+  },
+  {
+   "id": "yBHdCsVRle0",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Live, Neutral and Ground explained - Home electricity basics",
+   "dur": "8:55",
+   "meta": [
+    "The Wiring Guide ",
+    "1M",
+    "5mo ago"
+   ],
+   "channel_id": "UC7oeG08Bo3TwbMTZ8fA8qjA",
+   "views": 1000000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "OJ051s1cw1E",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Understanding Basic Home Electrical ",
+   "dur": "32:52",
+   "meta": [
+    "TX Tool Crib",
+    "135K",
+    "5mo ago"
+   ],
+   "channel_id": "UCOFxJWxZQE0A2rPNeImjrZw",
+   "views": 135000,
+   "age": "5mo ago"
+  },
+  {
+   "id": "bHIhgxav9LY",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "The Biggest Misconception About Electricity",
+   "dur": "14:48",
+   "meta": [
+    "Veritasium",
+    "28M",
+    "4y ago"
+   ],
+   "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "views": 28000000,
+   "age": "4y ago"
+  },
+  {
+   "id": "bsdt310LESw",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Electrical Basics Class",
+   "dur": "1:14:22",
+   "meta": [
+    "HVAC School",
+    "896K",
+    "4y ago"
+   ],
+   "channel_id": "UCdLlUhD9LUGm0-NTYDASPFA",
+   "views": 896000,
+   "age": "4y ago"
+  },
+  {
+   "id": "5KQBgmvRHnA",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Resistor vs Capacitor vs Inductor — Why They Behave So Differently ?",
+   "dur": "15:01",
+   "meta": [
+    "Prof MAD",
+    "276K",
+    "3w ago"
+   ],
+   "channel_id": "UCIHwyz8ISMolEPSy6VDf-kw",
+   "views": 276000,
+   "age": "3w ago"
+  },
+  {
+   "id": "egm30Z4BYoM",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "What Does the Neutral Wire Actually Do | Electrical Engineering Explained",
+   "dur": "8:02",
+   "meta": [
+    "Modern-Day Edison",
+    "520K",
+    "2mo ago"
+   ],
+   "channel_id": "UCCRkSQuy74rHjM2OczpGjrw",
+   "views": 520000,
+   "age": "2mo ago"
+  },
+  {
+   "id": "LOFpw6uyYjQ",
+   "type": "LOCKUP_CONTENT_TYPE_VIDEO",
+   "title": "Half Your House Went Dark. The Dark Half Is Still Live.",
+   "dur": "18:14",
+   "meta": [
+    "The Apprentice's Guide",
+    "1.6K",
+    "1mo ago"
+   ],
+   "channel_id": "UCMXN-53SCPpYxmYSvFOjz2g",
+   "views": 1600,
+   "age": "1mo ago"
+  }
+ ]
+}

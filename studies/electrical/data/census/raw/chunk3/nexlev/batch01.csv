@@ -1,0 +1,12 @@
+# NexLev get_batch_channel_metrics_v2 job 066ca337-fd29-487c-a11c-600af17ac323, timestamp 2026-10-26T06:49:22.653Z (converted from batch01.json)
+channelId,isMonetized,rpm,avgViewsPerVideo,avgVideoLength_min,category,format,hasShorts,isFaceless,countryTop,confidence
+UCw1V3VC3xAzL66X4VwqaKlg,true,3.09,536307,11.4,do it yourself,tutorial,true,false,United States,0.96
+UC5v2qbyUuzohCNWwYLhgBpA,true,2.55,104096,6.2,do it yourself,tutorial,true,true,Morocco,0.98
+UCobJuNZM0teTrd2YLnDUTzA,true,0.7,3619838,5.7,do it yourself,tutorial,true,true,,0.98
+UCKGkjQogWhWfMDzK50ewqOQ,true,,977589,11.1,engineering,tutorial,true,true,United States,0.99
+UC4JLjBBedLqXjBF7u09lFyQ,true,3.57,532359,12.5,do it yourself,tutorial,true,false,United States,0.92
+UCjG94SagJZoyPggcBhUdFCA,true,3.53,304367,33.4,do it yourself,tutorial,true,false,,0.95
+UCUR9YNrJWDo21TE5Fq3bqYA,true,2.16,28673,6.4,tutorial,tutorial,true,true,Pakistan,0.98
+UC-Z9UcrgFzJIg49LtJFc_kg,true,7.27,139836,17.9,engineering,tutorial,true,false,United States,0.98
+UCQDNbE3hRniI6sc_emLLdQQ,true,,471859,7.1,automotive business,tutorial,true,true,United States,0.98
+UCL81H9jdKzuzCfqxV4fBVAA,true,3.92,99458,7.1,do it yourself,tutorial,true,false,Canada,0.98

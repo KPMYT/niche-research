@@ -1,0 +1,418 @@
+{
+"source": "NexLev get_similar_videos",
+"seed": "ta0CvuSGQgY",
+"pulled": "2026-10-23",
+"note": "compact extract from saved tool result",
+"columns": [
+"videoId",
+"title",
+"channelTitle",
+"channelId",
+"viewCount",
+"lengthText",
+"publishedTimeText",
+"similarity_score"
+],
+"videos": [
+[
+"s6OGF66IskI",
+"How to Replace a Circuit Breaker | Quick and Simple Step-by-Step Process",
+"Top Homeowner",
+"UC1g_fWbHh4hNezpbOO8bsgA",
+1113513,
+"4:47",
+"4 years ago",
+88
+],
+[
+"YUfVsCYIoBs",
+"How To Replace a Circuit Breaker (in 2 minutes)",
+"Circuit Breaker Wholesale",
+"UCikGTC5O_yU9IsTpQnffa5g",
+94335,
+"2:14",
+"9 years ago",
+88
+],
+[
+"KFhm73RE8Pk",
+"How to Install a New Circuit Breaker",
+"Family Handyman",
+"UCyFmmBgEIeZKthkgA9UwvJQ",
+1795018,
+"2:50",
+"7 years ago",
+84
+],
+[
+"OW6OYaPbuUU",
+"How To Replace a Circuit Breaker | The Home Depot with @thisoldhouse",
+"The Home Depot",
+"UCfB9yx0y0dUwQ0lpjH8R4gA",
+344617,
+"4:41",
+"4 years ago",
+82
+],
+[
+"pdL_6Fj4etU",
+"How to Add a Circuit Breaker to an Electrical Panel | Electricity",
+"SIKANA English",
+"UCVCJ4qLnnBNxVB8pb65MdjQ",
+266556,
+"3:19",
+"9 years ago",
+82
+],
+[
+"zpIIYWhCFgo",
+"How To Add a New Circuit Breaker to a Main or Sub Panel",
+"Benjamin Sahlstrom",
+"UC-Z9UcrgFzJIg49LtJFc_kg",
+1394808,
+"19:23",
+"5 years ago",
+82
+],
+[
+"C_apLBwU8Lk",
+"How To Do A Residential Electrical Panel Change",
+"Electron",
+"UCGtiVOckuC6fl3OItpRzGEw",
+281134,
+"4:23",
+"10 years ago",
+82
+],
+[
+"zgHog_qZzxw",
+"How To ADD a Circuit Breaker to your Electric Panel",
+"How To Fix It Workshop",
+"UC5490urcp6h7QYhrOtLkmQg",
+14268,
+"5:42",
+"3 years ago",
+80
+],
+[
+"mYJTFMqJFS4",
+"How to Install a Breaker In Your Panel | LIVE!",
+"Home RenoVision DIY",
+"UCnorhjQR4zJkT7AVNhu395Q",
+673062,
+"16:48",
+"5 years ago",
+79
+],
+[
+"A_iAIjg7Af8",
+"How to Safely Replace a Circuit Breaker",
+"Home Rapid Repair ",
+"UCloyA5KxoM63MtH4SQxnkLQ",
+30989,
+"7:03",
+"2 years ago",
+78
+],
+[
+"eSt5cAYGeS4",
+"Switching Out a Breaker: Cutler - Hammer Electrical Panel",
+"Your Local Ice Man",
+"UCS3ySpMV0daDlJc7gekQfOw",
+32874,
+"7:40",
+"4 years ago",
+78
+],
+[
+"_62x_lahG1w",
+"How to Replace an Electrical Panel",
+"lexi abreu",
+"UCpKL--5lRTZSSvU4uPy7jbA",
+140988,
+"14:29",
+"2 years ago",
+78
+],
+[
+"hEDto-bnHKw",
+"How To Wire A Main Electrical Panel - Start To Finish! NEATLY And VERY DETAILED",
+"The Excellent Laborer",
+"UCUJXaEduMHGB3Iap3DusmAA",
+4191570,
+"43:50",
+"4 years ago",
+76
+],
+[
+"Z6DNPkW47Og",
+"How to Fit a Circuit Breaker (MCB RCBO) to a Busbar. Wylex No Miss Busbar Connection & Quick Release",
+"GSH Electrical",
+"UCgtbE9w_d-u2AvPp3WBlPfQ",
+262951,
+"2:58",
+"5 years ago",
+74
+],
+[
+"z1GhnuaAJKw",
+"RCD Keeps Tripping! How to Reset RCD Circuit Breaker & Restore Power",
+"Excel Electricians LTD",
+"UCQabZyTHOKp9IFLA9qT08Pw",
+186151,
+"2:02",
+"3 years ago",
+72
+],
+[
+"BG9I-PokSdI",
+"How To Replace Or Move A Circuit Breaker",
+"Everyday Home Repairs",
+"UCw1V3VC3xAzL66X4VwqaKlg",
+329232,
+"8:19",
+"3 years ago",
+72
+],
+[
+"t2de7A2d3gE",
+"Electrician Explains How Circuit Breakers And Electrical Panels Work",
+"Electrician U",
+"UCB3jUEyCLRbCw7QED0vnXYg",
+304639,
+"6:33",
+"8 years ago",
+72
+],
+[
+"etc_2QsK7LI",
+"What to do if your oven trips the circuit breaker?",
+"Small Openings",
+"UCgsWOln_3t2cBQmlRZmX4pg",
+63646,
+"2:07",
+"2 years ago",
+69
+],
+[
+"6jpN-8JrisM",
+"How to wire an electrical panel ⚡️",
+"Karly the Sparky",
+"UCEKpFsXxdgr6rFz6GS_rvZw",
+445893,
+"5:08",
+"1 year ago",
+69
+],
+[
+"nRFc6jX3rNU",
+"How to Replace Home MCB | Broken Miniature Circuit Breaker Replacement DIY",
+"TonaziTube",
+"UCSwbmhtDybG3pV2QUzV8nBw",
+221153,
+"6:22",
+"5 years ago",
+68
+],
+[
+"17CEZXZ5m-E",
+"Corroded Electrical Panel Repair or Replace Options",
+"BESA Research",
+"UChW1-MEgWf0viaY1h0HQvag",
+612,
+"13:31",
+"10 months ago",
+68
+],
+[
+"KbO-4k6IaUs",
+"How to Upgrade an Electrical Panel to 200-Amp Service (Part 2) | This Old House",
+"This Old House",
+"UCUtWNBWbFL9We-cdXkiAuJA",
+2227660,
+"4:34",
+"12 years ago",
+67
+],
+[
+"iNE3txnyjLk",
+"WORST MISTAKE Homeowners make upgrading a 15AMP to 20AMP Circuit Breaker",
+"Silver Cymbal",
+"UC67dKTEwpAhKv2oYDATwR8g",
+518736,
+"3:30",
+"4 years ago",
+65
+],
+[
+"UBERduCp3Wo",
+"Main electrical panel explained - Load center - service panel",
+"The Engineering Mindset",
+"UCk0fGHsCEzGig-rSzkfCjMw",
+1497851,
+"10:19",
+"5 years ago",
+64
+],
+[
+"NF4zxBAuRoI",
+"10 Common Mistakes DIYers Make In Circuit Breaker Boxes",
+"LRN2DIY",
+"UCPKAKrjoMz7POptCloy7AIQ",
+3761910,
+"13:55",
+"3 years ago",
+63
+],
+[
+"gDozp7t7A0Y",
+"Electrical Panel Upgrade | EASY 200 AMP Main Panel Replacement | FULL TUTORIAL By MASTER ELECTRICIAN",
+"Landers Electric",
+"UCiLCdi-PK8AwHCz9f9-mDBw",
+520777,
+"10:54",
+"2 years ago",
+63
+],
+[
+"-nBDlutORiQ",
+"Electrical Panel Replacement/Install",
+"Appalachian DIY",
+"UCRU52oliubM2se7DQHv5aeA",
+228265,
+"16:00",
+"5 years ago",
+63
+],
+[
+"v2KMRpTE_Vw",
+"Replacing My Whole Electrical Panel",
+"Electric Pro Academy",
+"UCEi84kmtGymUAjhVK6fxOzQ",
+162366,
+"52:09",
+"4 years ago",
+62
+],
+[
+"8HiZWY6Cgww",
+"Important Things To Know Before Upgrading Your Electrical Panel",
+"Flannel Guy DIY",
+"UC-gmqGa0TFBUkzOrfMnBGUQ",
+5522,
+"4:32",
+"1 year ago",
+60
+],
+[
+"EWbYwcIZwJ4",
+"How to Replace your RV Breaker Made EASY with RecPro in 15 Minutes!",
+"RecPro",
+"UC7ctC1jeV92eSFIV8moKBSA",
+498518,
+"3:49",
+"2 years ago",
+58
+],
+[
+"bGZVILwbyLo",
+"Circuit Breaker and Electrical Panel Basics",
+"Everyday Home Repairs",
+"UCw1V3VC3xAzL66X4VwqaKlg",
+687269,
+"12:25",
+"5 years ago",
+58
+],
+[
+"NretZMKOeQk",
+"How to Label a Circuit Breaker | Ask This Old House",
+"This Old House",
+"UCUtWNBWbFL9We-cdXkiAuJA",
+129570,
+"3:54",
+"2 years ago",
+58
+],
+[
+"UxXtfFfMzRA",
+"If Your Circuit Breaker Makes a Buzzing Sound 🔥 Fix It Quick!",
+"Silver Cymbal",
+"UC67dKTEwpAhKv2oYDATwR8g",
+307322,
+"5:32",
+"3 years ago",
+57
+],
+[
+"Q7_3LMNhkZA",
+"Upgrading Your Electrical Panel to 400 Amps | Cost Breakdown",
+"Electrician U",
+"UCB3jUEyCLRbCw7QED0vnXYg",
+108934,
+"20:43",
+"9 months ago",
+56
+],
+[
+"Z2iGUm1x87Y",
+"Electrical Panel Upgrade Minneapolis MN | Is Your Panel Ready?",
+"Edison Electric | Minneapolis Electricians",
+"UCC6EyggGFvxjRomldl9nxwQ",
+1,
+"0:31",
+"8 hours ago",
+55
+],
+[
+"p2j0ZiCbDSU",
+"Most DIYers Miss This CRITICAL Detail Installing Circuit Breakers!",
+"How To Home",
+"UCpb-xu6Oun_d41RjztUgFWA",
+546298,
+"14:41",
+"1 year ago",
+52
+],
+[
+"PXM9roHXa3I",
+"Your Electrical Panel Is Failing You (And You Don't Know It)",
+"The Rustic Handyman",
+"UC4u-dIqDqeDLNa7EBSGl4ew",
+627,
+"9:02",
+"2 months ago",
+51
+],
+[
+"CZylBCMmKR8",
+"How To Replace a Circuit Breaker - All You Need To Know",
+"Word of Advice TV",
+"UCekKmUEJxBRx5tI1tUyHOqA",
+417110,
+"13:54",
+"3 years ago",
+48
+],
+[
+null,
+"Electric Panel Full? Try This Simple Fix",
+null,
+null,
+null,
+null,
+null,
+45
+],
+[
+"jKAPpxK5T2E",
+"How to Replace / Change a Circuit Breaker in your Electrical Panel",
+"Bill Newberry Second",
+"UCvac7c_XwhBarF5ZnJanBsA",
+1042837,
+"5:38",
+"10 years ago",
+42
+]
+]
+}
