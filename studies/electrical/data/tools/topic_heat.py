@@ -150,7 +150,7 @@ if __name__ == "__main__":
     ideas = list(csv.DictReader(open(os.path.join(S, "ideation", "extra-topics.csv" if extra else "round-1-ideas.csv"))))
     only = set(int(x) for x in args)
     if only: ideas = [i for i in ideas if int(i["n"]) in only]
-    with ThreadPoolExecutor(6) as ex: res = list(ex.map(one, ideas))
+    with ThreadPoolExecutor(int(os.environ.get("HEAT_THREADS", "6"))) as ex: res = list(ex.map(one, ideas))
     res.sort(key=lambda r: r["n"])
     p = os.path.join(S, "ideation", "extra-topics-heat.csv" if extra else "round-1-heat.csv")
     old = {int(r["n"]): r for r in csv.DictReader(open(p))} if os.path.exists(p) and only else {}

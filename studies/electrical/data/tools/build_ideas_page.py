@@ -23,6 +23,23 @@ def fmtv(v):
     v = int(float(v)); return f"{v/1e6:.1f}M" if v >= 1e6 else (f"{v/1e3:.0f}K" if v >= 1e3 else str(v))
 
 rows = list(csv.DictReader(open(os.path.join(S, "ideation", "round-1-ideas.csv"))))
+HEAT = {r["n"]: r for r in csv.DictReader(open(os.path.join(S, "ideation", "topic-heat.csv")))}  # clean_heat.py
+
+def when(d):
+    try:
+        y, m, dd = d.split("-"); return f"{['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][int(m)-1]} {int(dd)}, {y}"
+    except Exception: return d
+
+def heatblock(h):
+    if not h: return ""
+    hk = h["heat"].split(",")[0].lower()
+    part = " <span class='partial'>(partial count)</span>" if h["partial"] else ""
+    bestline = (f"Best: “{E(h['last12_best_title'])}”, {E(h['last12_best_channel'])}, {fmtv(h['last12_best_views'] or 0)} ({E(h['last12_best_age'])})"
+                if h["last12_best_title"] else "No on-topic upload found in the last 12 months.")
+    return (f'<div class="heat heat-{hk}"><span class="hlabel">{E(h["heat"])}</span>{part}'
+            f'<span class="hnums">Since the source: <b>{h["since_total"]}</b> uploads ({h["since_same_channel"]} same channel, {h["since_other_channels"]} others). '
+            f'Last 12 months: <b>{h["last12_uploads"]}</b>, typically <b>{fmtv(h["last12_typical_views"] or 0)}</b>, {h["last12_over_100k"]} over 100K. Last 90 days: <b>{h["last90_uploads"]}</b>.</span>'
+            f'<span class="hbest">{bestline}</span></div>')
 groups = []
 for r in rows:
     if not groups or groups[-1][0] != r["group"]: groups.append((r["group"], []))
@@ -39,13 +56,15 @@ for g, L in groups:
   <div class="main">
     <h3>{E(r["our_title"])}</h3>
     <div class="chips"><span class="words">{E(r["thumb_text"])}</span><span class="look look-{r["thumb_look"].lower()}">{E(LOOK.get(r["thumb_look"], r["thumb_look"]))}</span></div>
+    {heatblock(HEAT.get(r["n"]))}
     <dl><div><dt>Format</dt><dd>{E(r["format"])}</dd></div><div><dt>Emotion</dt><dd>{E(r["emotion"])}</dd></div>{vil}<div><dt>What we improve</dt><dd>{E(r["what_we_improve"])}</dd></div></dl>
   </div>
   <a class="src" href="https://www.youtube.com/watch?v={E(r["source_id"])}" target="_blank" rel="noopener">
     <img loading="lazy" src="{img(r["source_id"])}" alt="{E(r["source_title"])}">
     <span class="srclabel">Based on</span>
     <span class="srct">{E(r["source_title"])}</span>
-    <span class="srcm"><b>{fmtv(r["source_views"])}</b> · {E(r["source_channel"])}</span>
+    <span class="srcm"><b>{fmtv(HEAT[r["n"]]["source_views_now"] if r["n"] in HEAT and HEAT[r["n"]]["source_views_now"] else r["source_views"])}</b> · {E(r["source_channel"])}</span>
+    <span class="srcm">Posted {E(when(HEAT[r["n"]]["source_date"])) if r["n"] in HEAT else "?"}</span>
   </a>
 </article>'''
     body += "</div></section>"
@@ -58,11 +77,11 @@ page = f"""<title>Electrical Ideas Round 1</title>
 /* Layout: a numbered list of idea rows; our title leads on the left, the source video it improves on sits on the right. Blueprint blue for structure, safety yellow only for thumbnail words. */
 :root {{
   --bg: #f6f7f9; --panel: #ffffff; --fg: #17202b; --muted: #5a6573; --rule: #d9dee5;
-  --accent: #1f5fae; --accent-soft: #e3edf9; --point: #8a4b00; --point-soft: #fbeedd; --hl: #ffd400; --hl-fg: #17202b;
+  --accent: #1f5fae; --accent-soft: #e3edf9; --point: #8a4b00; --point-soft: #fbeedd; --hl: #ffd400; --hl-fg: #17202b; --hot: #c0361f; --warm: #a8670a;
   --display: "Barlow Condensed", "Arial Narrow", sans-serif; --body: "Source Sans 3", system-ui, sans-serif; --mono: "IBM Plex Mono", ui-monospace, monospace;
 }}
-@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --bg: #0f141b; --panel: #171e27; --fg: #e6ebf1; --muted: #9aa6b4; --rule: #2a3440; --accent: #6ea8ef; --accent-soft: #1a2a40; --point: #f0b46a; --point-soft: #34260f; color-scheme: dark }} }}
-:root[data-theme="dark"] {{ --bg: #0f141b; --panel: #171e27; --fg: #e6ebf1; --muted: #9aa6b4; --rule: #2a3440; --accent: #6ea8ef; --accent-soft: #1a2a40; --point: #f0b46a; --point-soft: #34260f; color-scheme: dark }}
+@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --bg: #0f141b; --panel: #171e27; --fg: #e6ebf1; --muted: #9aa6b4; --rule: #2a3440; --accent: #6ea8ef; --accent-soft: #1a2a40; --point: #f0b46a; --point-soft: #34260f; --hot: #ff7a5c; --warm: #e8a94a; color-scheme: dark }} }}
+:root[data-theme="dark"] {{ --bg: #0f141b; --panel: #171e27; --fg: #e6ebf1; --muted: #9aa6b4; --rule: #2a3440; --accent: #6ea8ef; --accent-soft: #1a2a40; --point: #f0b46a; --point-soft: #34260f; --hot: #ff7a5c; --warm: #e8a94a; color-scheme: dark }}
 body {{ background: var(--bg); color: var(--fg); font: 16px/1.5 var(--body); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 28px 64px }}
 .wrap {{ max-width: 1100px; margin: 0 auto; display: grid; gap: 36px }}
 .read {{ max-width: 70ch; display: grid; gap: 12px }}
@@ -90,6 +109,11 @@ dd {{ margin: 0; font-size: .95rem }}
 .srclabel {{ font: 500 .7rem var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted) }}
 .srct {{ font-size: .9rem; line-height: 1.3 }}
 .srcm {{ font-size: .85rem; color: var(--muted) }} .srcm b {{ font: 500 .95rem var(--mono); color: var(--fg) }}
+.heat {{ display: grid; gap: 4px; padding: 10px 12px; border-left: 4px solid var(--hc); background: var(--bg); font-size: .9rem }}
+.hlabel {{ font: 700 1rem var(--display); text-transform: uppercase; letter-spacing: .03em; color: var(--hc) }}
+.heat-hot {{ --hc: var(--hot) }} .heat-warm {{ --hc: var(--warm) }} .heat-quiet {{ --hc: var(--accent) }} .heat-cold {{ --hc: var(--muted) }}
+.hbest {{ color: var(--muted); font-size: .85rem }} .partial {{ font: 500 .72rem var(--mono); color: var(--muted) }}
+.legend {{ display: grid; gap: 4px; font-size: .92rem }} .legend b {{ font-family: var(--display); text-transform: uppercase; letter-spacing: .03em }}
 .src:hover .srct {{ text-decoration: underline }}
 a:focus-visible {{ outline: 2px solid var(--accent); outline-offset: 2px }}
 @media (max-width: 760px) {{ .idea {{ grid-template-columns: auto minmax(0, 1fr) }} .src {{ grid-column: 1 / -1 }} dl div {{ grid-template-columns: 1fr; gap: 0 }} }}
@@ -99,6 +123,8 @@ a:focus-visible {{ outline: 2px solid var(--accent); outline-offset: 2px }}
   <div class="eyebrow">Electrical · ideation round 1 · 2026-10-26</div>
   <h1>Ideas, round 1</h1>
   <p>{len(rows)} ideas, each built on a proven video from this niche in the formats and topics you chose. Each one shows our title, the thumbnail words, which of your two looks it uses, and the video it improves on, with its views. Pick by number: “keep 1, 4, 10” or “drop 7”.</p>
+  <div class="legend"><p><b>Topic heat</b> counts long-form uploads on the same topic found in YouTube search and on the source channel (2026-10-26), each title checked by a helper as really on topic. Search shows a sample, so counts are a floor; “partial count” means some page loads failed for that topic.</p>
+  <p><b>Hot</b>: a 100K+ upload in the last 12 months and new uploads typically 1,000+. <b>Hot, few uploads</b>: 5 or fewer new uploads, typically 10,000+. <b>Warm</b>: one of the two. <b>Quiet</b>: 5 or fewer new uploads, smaller views (open but untested). <b>Cold</b>: many new uploads, none over 100K, typically under 1,000.</p></div>
   <p>The plan is channel-neutral. The two generator ideas (7 and 31) suit Jack Redfield best.</p>
 </header>
 {body}
