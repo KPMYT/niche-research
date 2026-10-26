@@ -151,3 +151,132 @@ The tier hand fixes, the types and the floor-1,000 lists hold up. The weak spot 
 3. AwesomeFramers: make the `D_CONFIRM` reason ("HVAC 2 of 30") match the hand read (3/30), or move it to X. This is minor.
 4. RetroFoamofMichigan type4: mark it "on camera / faceless (low)" or look at more thumbnails. More broadly, "on camera (low)" on a company channel that rests on 1 of 3 or 4 thumbnails should say so in the round 7 report.
 5. Round 7 report: list the 50%-exactly A calls (Sam, OffGrid Secrets), the 5-title A (brother Q) and the A-vs-D tech channels (World of HVAC, Forever Tech English) as borderline.
+
+## Hand read (2026-10-26)
+
+Round 6 fixer, 2026-10-26. This replaces the title rule in the "well above" test of `new-channels.md` (recommended fix 1 above; fix 2, `BlHC-momweM`, is covered on the new-channels side). Scripts were run with `python3 -I`. Web searches: 0. No new exact (`/next`) pulls were needed. Nothing was committed. Files written: `data/raw/new-channels-handread-2026-10-26.csv` (new), `data/tools/new_channels_build.py` (edited), this section, and the build's own outputs `data/raw/new-channels-2026-10-26.csv` and `data/raw/new-channels-exact-2026-10-26.json`. The exact JSON is byte-identical: its build inputs were rebuilt from the JSON itself, and an unchanged re-run first reproduced both outputs exactly. **`new-channels.md` is not edited.** Its summary lines below are drafted for the main session to apply.
+
+### What was read
+
+There are **103 channels** and **6,807 long-form titles** (all of each channel's titles in `census-videos-2026-10-26.csv`). 6,662 of them are since the start. The other 145 are pre-start titles of 4 pivot or restart channels, read but not used. The 103 channels are:
+
+- the 60 well above;
+- every other channel scoring 2.4 or more (0.8x the threshold of 3): 18 channels, the 11 that the 20% rule already dropped plus 7 that fail the score rule;
+- every other new channel with an HVAC view share of 10-30%: 25 channels, all scoring under 2.4, so they can't become well above.
+
+Each title is marked in scope y / n by `round4/LABEL-GUIDE.md`. I read every title in a listing that showed the round 4 label or the census rule beside it, and I changed the mark wherever my reading differed. The `source` column records where each mark came from:
+
+| Source | Titles |
+|---|---:|
+| round 4 label, kept | 2,125 |
+| my reading where round 4 said y | 160 |
+| my reading where round 4 said n | 1 |
+| my reading where round 4 has no label or said "?" | 4,521 |
+
+Result: 2,484 y, 4,323 n. These are readings.
+
+**How I drew the lines** (round 4 guide, README scope decisions and the drops in `top_review.py`):
+
+- **Out:**
+  - power, solar, batteries, wind, alternators and "free electricity", including "propane tank stores solar" and "earth battery grid", even where round 4 said y;
+  - electric-bill gadgets: device, wire, copper, sticker, plug and reactive-power titles, as `40zFRH-mb-o` and `JJDOg6Zmtk8` in `top_review.py`;
+  - utility-bill news;
+  - water purification, water heaters and hot water;
+  - cooking stoves and gas-cylinder replacement, and craft "free energy" stoves with no heat word, as `iaCr4VfomMA`;
+  - firewood handling: woodpile and woodshed hazards, splitting, hauling, chainsaws and axes;
+  - outdoor, car, tent, soldier-gear and body warmth;
+  - mould-cleaning tricks;
+  - insulation and windows with no heat, cooling or bill word;
+  - garages, barns, greenhouses and coops;
+  - commercial and trade-only titles;
+  - Spanish titles (not English).
+- **In:**
+  - home heating and cooling tricks, home designs sold on heating or cooling cost ("cools for $0");
+  - stoves, chimneys and burn time;
+  - firewood bought or stored for burning;
+  - outage heat, and bed-warming "with no heat";
+  - damp, humidity, condensation and ventilation;
+  - bill-cutting tricks and habits with no named device. This keeps WiseMoney's "$8 Trick Cuts Your Electricity Bill in Half" (round 4 y, kept in `top_review.py`);
+  - residential service-call titles on HVAC tech channels.
+
+### Build change
+
+`new_channels_build.py` now reads the hand-read file (`HANDREAD`). For a channel in the file:
+
+- its HVAC view share, best HVAC video and takeoff "HVAC" column come from the hand read;
+- the hand read replaces `HVAC_SHARE_HAND`, whose 8 channels are all in the file;
+- the 20% rule is unchanged.
+
+Other channels keep the census rule. Ranking, score and the top 25 are unchanged. New CSV columns are `best_hvac_video_source`, `hvac_lf_since_start_hand` and `hvac_lf_views_since_start_hand`. The rule-based `hvac_view_share` is kept, and `hvac_view_share_hand` now holds the hand share.
+
+### Results
+
+**Well above: 60 → 58** (A 32, B 10, C 16; C was 18). The score rule still passes 71. The 20% rule now drops 13 (was 11).
+
+| # | Channel | Share before → after | Why |
+|---:|---|---|---|
+| 18 | **The Passive House Files** (C) | 27.4% → 15.6%: **drops** | Round 4 labelled 4 power-storage titles y. I read them n, as the guide says (batteries or solar for the bill): "STOP Buying $10,000 Home Batteries. Fill This $150 PROPANE TANK With Solar Power..." (315K), "This $90 PROPANE TANK Stores SOLAR Power For 30 YEARS" (290K), "...Bury This 12-CELL EARTH BATTERY GRID..." (236K) and "This $600 SEPTIC TANK Holds 16 Powerwalls of Energy" (115K). |
+| 45 | **Grain & Gravity** (C) | 32.7% → 2.3%: **drops** | Plug-in battery and plug-in solar bill titles are out. Best HVAC video is now "This $3 HOME DEPOT OUTLET Heats Your Whole House..." (20K). |
+| 11 | Historia Prime | 29.4% → 24.0%: stays | The water filter is out. "Vikings Beat Winter Without Fire — The Ancient Floor Hack..." (338K), "The Overnight Warmth Rule..." (146K) and "Salt + Aluminum Foil = Free Heat Forever" (84K) are in. |
+| 71 | WiseMoney | 28.9% → 23.2%: stays | Rests on "This $8 Trick Cuts Your Electricity Bill in Half" (332K). Without it the share is 9.6%. |
+| 2 | Elias Yoder | 20.6% → 20.4%: stays | Rests on "The $4 Amish Fix for a Deadly Hot House" (1.9M). Without it the share is 10.6%. |
+
+- **Entered: none.** The highest of the 13 dropped channels is Silas Mercer at 15.7% (17% before). The "Woodpile Dangers" copy and "Firewood Myth" titles are out.
+- **Other borderline passes** (share; share without the single biggest HVAC title): Ray Sutter 25.4% (8.5%), Frugal Frannie 26.8% (10.1%), Caleb Greer 27.8% (4.5%), Patina 26.3% (7.1%), Survival Blueprint 27.4% (0.3%), Sylvie Mercer 30.5% (22.0%).
+
+**The checks asked for:**
+
+- **Eli Forgotten Ways:** best HVAC video is now "Why Did We Stop Using Ammonia To Cool Our Homes?" (87K). Share 39.7% → 61.5%.
+- **TheUnknownMarks:** best HVAC video is now "This $4 Can of Crisco Heats a Room for 45 Days — Zero Electricity, Zero Gas" (74K). Share 42.2% → 98.4%.
+- **"5 Woodpile Dangers..." (`BlHC-momweM`) no longer counts,** which agrees with `top_review.py`:
+  - Harlan Sawyer's share is now 60.9% (78.1% before);
+  - his best HVAC video is now "5 Woods That Set Chimneys on Fire..." (133K; chimney fires from stove burning are in);
+  - takeoff 15.1 is HVAC "no" and 15.2 is HVAC "yes".
+
+**Other best-HVAC changes:**
+
+- Hidden Systems: "The $12 Norwegian Stove That Heats a House for 18 Hours on One Log" (347K).
+- Elias Mercer: "Old-Timers Never Heated the House When the Power Died..." (160K).
+- Backyard Low Tech: "A Box Fan in Your Attic Hatch Moves More Air Than Your AC Does" (89K).
+- Builds With Eli Yoder: "Stop Running Your AC This Summer. Build This $40 Underground Pipe..." (727K). This replaces the alternator video; the share is 45.2%, down from 75.9%.
+- Forgotten Materials: "Americans Forgot This Old Wood Stove Trick..." (120K). This replaces the splitting video; the share is 58.7%, down from 95.0%.
+
+**Takeoff "HVAC" column: 39 → 42 of the 75 top-25 takeoff videos.**
+
+- Now HVAC:
+  - Why Am I Green, "EMERGENCY HEAT, Light & Cooking for 4 Months? Crisco Candle" (1.3M);
+  - JustintimeHVAC's two service-call videos;
+  - Passive House Technology's 1,000-gallon heat tank;
+  - Harlan Sawyer 15.2.
+- Now not HVAC: Historia Prime 11.1 (the water filter) and Harlan Sawyer 15.1.
+
+**Top 25 lane split** (the top 25 is by score, so it is unchanged):
+
+| Lane | All 25 | Well above |
+|---|---:|---:|
+| off-grid | 11 | 7 |
+| outage | 5 | 4 |
+| HVAC repair | 4 | 4 |
+| brand verdicts | 1 | 1 |
+| other (3 mixed, 1 bills) | 4 | 3 |
+
+19 of the top 25 are well above (was 20). Of the 58 well above: off-grid 26 (was 28), HVAC repair 13, outage 12, bills 4, mixed 2, brand verdicts 1.
+
+### Drafted summary lines for `new-channels.md` (not applied)
+
+- "**58 of them are "well above" the median new channel of their tier** (A 32, B 10, C 16; definition below). 71 pass the score rule, but 13 of those have under 20% of their views on HVAC titles and are not counted (fix 4.1; round 6 hand read of every title of 103 channels, `data/raw/new-channels-handread-2026-10-26.csv`)."
+- "Of the top 25, 11 are off-grid / old-ways / free-heat channels, 5 outage and winter-prep channels, 4 HVAC repair channels, 1 brand-verdict channel (HVAC Exposed), 1 frugal-bills channel and 3 mixed. ... 6 of the top 25 rank on score but are not well above, because under 20% of their views are on HVAC titles: Passive House Technology (#7), Elias Homestead (#13), Silas Mercer (#14), Forgotten American Survival (#17), The Passive House Files (#18) and Walter's Tool Talk (#22)."
+- Lanes table, "well above" column: off-grid 26, HVAC repair 13, outage 12, bills 4, mixed 2, brand verdicts 1 (58).
+- Takeoff formats: "42 of the 75 takeoff videos have HVAC titles (hand read; 39 by the rule)".
+- The "Biggest by HVAC-title views" bullet uses the rule. By the hand read: Unknowns Lab 101 18.4M, Why Am I Green 8.2M, Wild Line 7.8M, Eli Yoder Secrets 6.6M, Ray Dutton's Garage 6.4M, Elias Yoder 4.0M.
+- The dropped table moves The Passive House Files and Grain & Gravity in. The Hidden Systems and Elias Mercer best-HVAC cells change. Harlan Sawyer's takeoff 15.1 and 15.2 HVAC cells change.
+
+### Cautions
+
+- Every mark is my reading. Under working rule 3 a second helper should re-check a sample of the hand-read file before this goes to the operator, especially:
+  - the 160 round 4 y labels I overrode;
+  - WiseMoney's $8 trick;
+  - Elias Yoder's Hot House video.
+- The bill line (trick y / device n) and the firewood line (burning y / handling n) are judgment calls.
+- Moving either line would change WiseMoney, and possibly Historia Prime and Forgotten Materials, but no other well-above call.
+- Spanish titles are out by the guide. That keeps Repara Fácil USA at 83%, where the earlier check estimated about 95% with them counted.

@@ -8,6 +8,7 @@ Reads (all pulled 2026-10-26 unless noted):
   data/raw/census-sells-2026-10-26.csv      what each channel sells
   data/raw/census-types-{A,B,C}-2026-10-26.csv  types, if present (else the census CSV's carried type)
   data/raw/channels-master-about-2026-10-24.json  About text (persona name / background readings)
+  data/raw/new-channels-handread-2026-10-26.csv   round 6 hand read of every long-form title of 103 channels (y / n)
 
 Usage:
   python3 -I new_channels_build.py select <ids_out.txt>      rank, pick top 25, write video IDs for exact pulls
@@ -67,6 +68,26 @@ HVAC_SHARE_HAND = {
 # read by hand, nothing to add or remove (all still under 20%): Forgotten American Survival (blackout meals and kits),
 # Walter's Tool Talk (frozen pipes, out), SafeMind (outdoor cold survival, car heat), Walt Brandt (water heaters, out),
 # The Sensei's Home (food cold / generators not for warmth), Forgotten Appalachian Skills (winter-storm lore).
+#
+# Round 6 hand read (round 6 fixer, 2026-10-26; replaces the title rule for the channels it covers): every long-form
+# title of 103 channels (the 60 well above, every channel scoring 2.4+ = 0.8x the score threshold, every channel with an
+# HVAC view share of 10-30%) marked in scope y / n by round4/LABEL-GUIDE.md, in data/raw/new-channels-handread-2026-10-26.csv
+# (round 4 hand labels reused where the title has one and agrees; every row says its source). For a channel in that file
+# the hand read decides the HVAC view share (it replaces HVAC_SHARE_HAND above), the best HVAC video and the takeoff
+# videos' HVAC column; the 20% rule is unchanged. Channels not in the file keep the census rule (is_hvac). Readings.
+HANDREAD_PATH = os.path.join(RAW, "new-channels-handread-2026-10-26.csv")
+HANDREAD = collections.defaultdict(dict)
+if os.path.exists(HANDREAD_PATH):
+    for _h in csv.DictReader(open(HANDREAD_PATH)):
+        assert _h["in_scope"] in ("y", "n"), _h
+        HANDREAD[_h["channel_id"]][_h["video_id"]] = _h["in_scope"]
+
+
+def in_scope(cid, v):
+    """HVAC title or not: the round 6 hand read where the channel has one, else the census rule."""
+    if cid in HANDREAD:
+        return HANDREAD[cid][v["video_id"]] == "y"
+    return v["is_hvac"] == "yes"
 
 csv.field_size_limit(10**9)
 ch = {r["channel_id"]: r for r in csv.DictReader(open(os.path.join(RAW, "census-channels-2026-10-26.csv")))}
@@ -166,12 +187,19 @@ def metrics(r, start):
     best = max(since, key=lambda v: num(v["views_tab"])) if since else None
     hv = [v for v in since if v["is_hvac"] == "yes"]
     hbest = max(hv, key=lambda v: num(v["views_tab"])) if hv else None
+    # round 6 hand read (where the channel has one): HVAC titles and the best HVAC video by hand
+    cid = r["channel_id"]
+    hh = [v for v in since if in_scope(cid, v)] if cid in HANDREAD else None
+    hhbest = (max(hh, key=lambda v: num(v["views_tab"])) if hh else None) if hh is not None else hbest
     d0 = date.fromisoformat(start) if start else None
     months = max(((PULL - d0).days / 30.44) if d0 else 0, 0.5)
     return dict(since=since, lf_since=len(since), lf_views_since=tot, views_90d=v90,
                 best_views=num(best["views_tab"]) if best else 0, best=best,
                 hvac_lf_since=len(hv), hvac_views_since=sum(num(v["views_tab"]) for v in hv),
-                hvac_best=hbest, months=months, pace=len(since) / months, subs=num(r["subs"]))
+                hvac_best_rule=hbest, hvac_best=hhbest,
+                hvac_lf_since_hand=len(hh) if hh is not None else None,
+                hvac_views_since_hand=sum(num(v["views_tab"]) for v in hh) if hh is not None else None,
+                months=months, pace=len(since) / months, subs=num(r["subs"]))
 
 
 # ---- 1. the new set
@@ -205,7 +233,15 @@ for r in NEW:
     m_ = r["_m"]
     r["_hvac_share"] = (m_["hvac_views_since"] / m_["lf_views_since"]) if m_["lf_views_since"] else 0.0
     r["_hvac_share_hand"], r["_hvac_share_hand_note"] = None, ""
-    if r["channel_id"] in HVAC_SHARE_HAND:
+    if r["channel_id"] in HANDREAD:
+        byid = {v["video_id"]: v for v in m_["since"]}
+        added = sum(1 for i, v in byid.items() if in_scope(r["channel_id"], v) and v["is_hvac"] != "yes")
+        removed = sum(1 for i, v in byid.items() if not in_scope(r["channel_id"], v) and v["is_hvac"] == "yes")
+        r["_hvac_share_hand"] = m_["hvac_views_since_hand"] / m_["lf_views_since"] if m_["lf_views_since"] else 0.0
+        r["_hvac_share_hand_note"] = (f"round 6 hand read of all {len(byid)} long-form titles since the start "
+                                      f"({m_['hvac_lf_since_hand']} in scope; +{added} / -{removed} vs the rule; "
+                                      f"hand share {r['_hvac_share_hand']:.3f})")
+    elif r["channel_id"] in HVAC_SHARE_HAND:
         add, rem, note = HVAC_SHARE_HAND[r["channel_id"]]
         byt = {v["title"]: v for v in m_["since"]}
         miss = [t for t in add + rem if t not in byt]
@@ -365,6 +401,9 @@ def build(exact_path, copies_path, copy_list_path=None):
                "best_hvac_video_id": m["hvac_best"]["video_id"] if m["hvac_best"] else "",
                "best_hvac_video_title": m["hvac_best"]["title"] if m["hvac_best"] else "",
                "best_hvac_video_views_tab": num(m["hvac_best"]["views_tab"]) if m["hvac_best"] else "",
+               "best_hvac_video_source": ("round 6 hand read" if r["channel_id"] in HANDREAD else "census rule (is_hvac)"),
+               "hvac_lf_since_start_hand": m["hvac_lf_since_hand"] if m["hvac_lf_since_hand"] is not None else "",
+               "hvac_lf_views_since_start_hand": m["hvac_views_since_hand"] if m["hvac_views_since_hand"] is not None else "",
                "lf_per_month_since_start": round(m["pace"], 1), "uploads_90d_census": r["uploads_90d"],
                "ratio_lf_views": round(r["_ratio"]["lf_views_since"], 2), "ratio_views_90d": round(r["_ratio"]["views_90d"], 2),
                "ratio_subs": round(r["_ratio"]["subs"], 2), "ratio_best": round(r["_ratio"]["best_views"], 2),
@@ -386,7 +425,7 @@ def build(exact_path, copies_path, copy_list_path=None):
                 row[f"takeoff{k}_views_exact"] = e["views"]; row[f"takeoff{k}_date_exact"] = e["date"]
                 row[f"takeoff{k}_template"] = tmpl(e["title"])
                 row[f"takeoff{k}_hidden_truth_hook"] = "yes" if re.search(HOOK_RX, e["title"].lower()) else "no"
-                row[f"takeoff{k}_hvac"] = since[e["id"]]["is_hvac"]
+                row[f"takeoff{k}_hvac"] = "yes" if in_scope(r["channel_id"], since[e["id"]]) else "no"
             seq, complete = order_list(r["channel_id"])
             seq_ids = [x["id"] for x in seq]
             hits = sorted([e for e in pulled if (e["views"] or 0) >= HIT], key=lambda e: (e["date"], seq_ids.index(e["id"]) if e["id"] in seq_ids else 0))

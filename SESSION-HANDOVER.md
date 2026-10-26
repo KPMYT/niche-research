@@ -24,10 +24,11 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 ## HVAC research chat
 
 - **Owns:** `studies/hvac/`. Branch `claude/adoring-galileo-wqloxp`.
-- **Status (2026-10-24):** rounds 1 (seeds) and 2 (spread) done and checked; round 2 reported to the operator (`studies/hvac/round2/round2-report.md`). Operator decisions so far are in `studies/hvac/README.md` (among them: NexLev RPM is not used; off-grid heat is its own sub-niche; E19 comfort and E20 new-gadget wonder added).
+- **Status (2026-10-26):** rounds 1-6 done and checked; the round 7 report is `studies/hvac/round7-report.md` (deliverables 1-8 in `studies/hvac/`, the thumbnail page at https://claude.ai/artifact/NmxFR6D24eSFyQ9hSpB8Vz). Operator decisions are in `studies/hvac/README.md` (NexLev RPM not used; run rounds without stopping; off-grid heat its own sub-niche; E19 and E20 added; four default calls listed in the report for the operator to confirm).
 - **Next actions:**
-  1. Get the operator's answers on the round 2 questions, then run round 3: pull every tier A-D channel's own Videos tab, re-tier with the rule in `round2/check-master.md`, then the census, the top 100, recent winners and the sub-niche map.
-  2. Rounds 4-7 as in `RESEARCH-BRIEF.md` section 4, then `CONCLUSIONS.md` after the back and forth.
+  1. The back and forth with the operator on the report, then write `studies/hvac/CONCLUSIONS.md` (deliverable 9).
+  2. Confirm the default calls in the report section 4; add the four proposed sub-niche codes to `labels.md` only on the operator's yes.
+  3. Then, on the operator's call, the ideation skill, base ideation plan and thumbnail plan.
 - **For the electrical chat (passed on via the operator):** logged-out YouTube search translates foreign titles into English, so check English on the original title (oEmbed); Weirdward Bound's electrical explainers sit beside almost every Silver Cymbal HVAC video.
 
 ## Electrical and fire prevention research chat

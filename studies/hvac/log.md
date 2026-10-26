@@ -69,3 +69,8 @@
 - **Round 3 fixes applied (2026-10-26, fixer helper; log in `round3/check-round3.md`):** tiers A/B/C/D/X 221/224/123/223/330 -> 254/188/109/213/357 (16 D decisions, 62 hand fixes from reading 328 channels' titles, e.g. Xavier_HVAC D->A, The Archive of Builds C->A, Earl Knows How C->A; DIY mr.T A->C; RECENT-DRIFT flags 4). Types: the brief's four types for every row, with a separate `company` column (brand / contractor / no): tier A 107 on camera, 86 faceless, 61 faceless persona. Sells: shorteners and "no affiliate links" handled (affiliate 532 -> 498). New channels: "well above" now needs a 20%+ HVAC view share: 72 -> 60. Recent winners: 2 videos dropped; lists with a 1,000-view baseline floor added; capped baselines marked.
 - **Round 4 tables rebuilt (2026-10-26):** `round4_build.py` now takes each video's current tier and type from the census, and the harmonized labels are written to `labels-all-2026-10-26.csv`.
 - **Fixer check (2026-10-26):** `round6/check-fixes.md`: hand-fix tiers 0/25 wrong, D decisions 0/16, types 1/15, floor-1,000 recent lists 0/8 (and rebuilt exactly). Weak spot: `new-channels.md`'s title rule for the HVAC share and "best HVAC video" (2/10 wrong picks; 3 channels outside the sample probably not "well above"). A helper is hand-reading those channels' titles and re-running the build.
+- **New channels hand read (2026-10-26):** 103 channels' 6,807 long-form titles read by hand (`data/raw/new-channels-handread-2026-10-26.csv`); `new_channels_build.py` uses it; well above 60 -> 58 (The Passive House Files and Grain & Gravity out); best HVAC videos corrected. Note added at the top of `new-channels.md`.
+
+## Round 7: report (2026-10-26)
+
+- `round7-report.md` written and reported to the operator.
