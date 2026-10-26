@@ -20,6 +20,11 @@ def num(x):
         return None
 
 
+def clean(t):
+    """Labels quoted some titles with a markdown-escaped bar ("\\|"); show the plain character."""
+    return (t or "").replace("\\|", "|").replace("\\", "")
+
+
 def small(vid):
     p = os.path.join(TH, "img", vid + ".jpg")
     if not os.path.exists(p):
@@ -42,8 +47,8 @@ def main():
         sets = []
         for s in r["list"].split(";"):
             sets.append({"top100": "top100", "recent-12m": "r12", "recent-90d": "r90"}.get(s.strip(), s.strip()))
-        vids[r["video_id"]] = {"id": r["video_id"], "t": r["title"], "c": r["channel"], "v": num(r["views"]),
-                               "m": num(r["multiple"]), "g": r["style_group"], "w": r["text_words"], "d": r["upload_date"],
+        vids[r["video_id"]] = {"id": r["video_id"], "t": clean(r["title"]), "c": r["channel"], "v": num(r["views"]),
+                               "m": num(r["multiple"]), "g": r["style_group"], "w": clean(r["text_words"]), "d": r["upload_date"],
                                "rank": r["rank"], "sets": sets, "look": r["overall_look"], "person": r["person"]}
     personas = defaultdict(list)
     chan_meta = {}
@@ -52,8 +57,8 @@ def main():
             continue
         v = vids.get(r["video_id"])
         if not v:
-            v = {"id": r["video_id"], "t": r["title"], "c": r["channel"], "v": num(r["views"]), "m": num(r["multiple"]),
-                 "g": r["style_group"], "w": r["text_words"], "d": "", "rank": "", "sets": [], "look": r["overall_look"],
+            v = {"id": r["video_id"], "t": clean(r["title"]), "c": r["channel"], "v": num(r["views"]), "m": num(r["multiple"]),
+                 "g": r["style_group"], "w": clean(r["text_words"]), "d": "", "rank": "", "sets": [], "look": r["overall_look"],
                  "person": r["person"]}
             vids[r["video_id"]] = v
         if "ch5" not in v["sets"]:

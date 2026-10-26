@@ -168,7 +168,7 @@ def hvac_title(title):
     c = STRIP.sub(" ", t)
     # fix 1.2 (2026-10-26): survival-test lengths ("24 Hours Without Electricity") and the kettle / pot stove crafts
     # ("Generate Heat With a Kettle Full of Holes") were dropped by round 2's sleep-sound / kitchen excludes.
-    c = re.sub(r"\b(24|36|48|72) ?hours?\b", " ", c)
+    c = re.sub(r"\b(24|36|48|72)[- ]?hours?\b", " ", c)
     if re.search(r"\bgenerat\w* (free |more )?heat\b", c):
         c = re.sub(r"\bkettles?\b", " ", c)
     if re.search(r"\bgta\b", c) and GTA_CANADA.search(c):
@@ -209,7 +209,16 @@ LANES = OrderedDict([
     # census addition (2026-10-26), a lane TAG only (not used in the C test): DIY stove-building and "free energy"
     # craft channels (cement / gas-cylinder / barrel stoves), which the HVAC rule counts as off-grid heat.
     ("diy-stove-craft", r"\bcement\b|\bfree energy\b|\bgas cylinders?\b|\b(build|built|make|made|making)\b.{0,40}"
-                        r"\b(stoves?|heaters?)\b|\brocket stoves?\b|\bbarrel\b|\bcopper pipe\b"),
+                        r"\b(stoves?|heaters?)\b|\brocket stoves?\b|\bbarrel\b|\bcopper pipe\b|"
+                        # fix 1.3 (fixer, 2026-10-26): the DIY mr.T style of heat craft ("Generate Heat With a Kettle
+                        # Full of Holes", "Use A Basin To Generate Heat", "3-In-1 Mini Heater", "A Bold Idea Using
+                        # Bricks"), from check-round3.md part 1 row 8 and fix 1.3.
+                        # Narrowed after reading: "3-in-1 heater", "DIY stove" and "bucket ... heat" also tagged 5
+                        # faceless persona trick channels (Earl Sizemore, Earl Appalachia, Wes Tucker Prepping,
+                        # TheUnknownMarks, Hidden life Hacks), which are Roger's kind of competitor, so they were dropped.
+                        r"\bgenerat\w* (\w+ )?heat\b|\b(bold|crazy|genius|brilliant|million[- ]dollar) idea\b|"
+                        r"\bdon'?t throw (it |them |this |your [\w ]{0,20})?(away|out)\b|"
+                        r"\b(kettle|basin|pot|pan)\b.{0,25}\b(full of|riddled with) holes\b"),
 ])
 C_TEST_LANES = [k for k in LANES if k != "diy-stove-craft"]
 LANES_RX = {k: re.compile(v) for k, v in LANES.items()}
@@ -720,9 +729,34 @@ D_CONFIRM = {
     'UCZMrx-G84K5PIynOtA47pAw': ('D', 'engineering / HVAC training (India)'),  # Zebra Learnings
     'UCu67ms6tiDFP4GZ0GoCJ2og': ('D', 'manufacturer (Zero Breeze)'),  # ZERO BREEZE
     'UCR0EfsRZIwA5TVDaQbTqwEQ': ('D', 'power-plant / industrial engineering education'),  # شادى غازى
+    # Round 3 fix 1.1 (fixer, 2026-10-26; check-round3.md "Recommended fixes" 1.1): the 16 channels that were D
+    # automatically on "About trade words; stored D" alone, each re-read by hand (About text + latest 30 long-form titles).
+    'UC27gYyNxiJqlECQJVak8fZQ': ('D', "facilities-management training (MEP / technician interview prep, chillers, AHUs) for students and professionals"),  # Facilities Management Channel - Dubai
+    'UC517nXjqMelgOTxrNbdi2Eg': ('contractor', "residential HVAC technician and installer (Georgia) posting his service calls ('Blower Motor Replacement | After Hours Emergency Call'); not trade-facing (checker part 1 row 24; main session: tier A, contractor flag)"),  # Xavier_HVAC
+    'UC9NWScbhyEUwelzPzG5Yusw': ('D', "industry show for HVAC and building-science pros (About: 'industry leading experts... industry news'; load-calc software, AHR, tool load-outs)"),  # The HVAC Grapevine
+    'UCFAMFDf_DrRSPLciMk9vRwg': ('D', "25-year-old HVAC business owner's trade vlog (vacuum-pump and work-light reviews, AHR Expo); About: 'insight for others interested in the trade'"),  # Hall's HVAC
+    'UCIgwmAZ3giU5QVV882LdacA': ('D', 'trade-careers channel across all trades (HVAC 2 of 30 titles)'),  # Zach of All Trades
+    'UCItXgo_xQhTFQfEMphmzPwA': ('contractor', "UK boiler, heat-pump and solar installer selling fixed-price installs to homeowners ('The UK's trusted boiler and solar installers'); homeowner titles"),  # Heatable
+    'UCKDkGhLRlzs1bV1tmeokcNQ': ('D', 'light-commercial HVACR contractor: tool reviews, business podcast, commercial calls (trade-facing)'),  # Adrian Garcia
+    'UCM9ofY098XFqp-cCzVKhEyA': ('D', 'journeyman technician: commercial rooftop / VFD diagnostics and electronics lab (trade-facing)'),  # hackfreehvac
+    'UCPoqanqHbWlBnZPrKggS34A': ('D', 'home-construction magazine brand (framing, flashing, trade podcast) for builders and hands-on homeowners'),  # Fine Homebuilding
+    'UCQR_Uz97ziLRLPVRQf-h_dw': ('not D', "individual service technician's job vlogs (GA/SC), like HVAC AO and DC HVAC; About not addressed to the trade"),  # AB HVAC
+    'UCaYbcSdrP6--46GP31AnuQQ': ('D', "AC-technician training in Hindi ('For New Technicians', interview questions, package units)"),  # cooling points
+    'UCf8QP2xfi8EcZEnjnGJ6gPA': ('D', 'trade-competition broadcasts (Elite Trades Championship Series)'),  # ServiceTitan Elite Trades Championship Series
+    'UCfQzkksn2r4dBMEZO0L2jlw': ('D', 'engineering education for HVAC engineers and students (HAP tutorials, district cooling, fire fighting)'),  # AMJ Engineering
+    'UCiDg_Mo6aJAOEnlGI4iilQw': ('D', 'framing / construction education for builders (HVAC 2 of 30 titles)'),  # AwesomeFramers
+    'UCk0fGHsCEzGig-rSzkfCjMw': ('not D', 'general-audience engineering explainer channel (mostly electrical); not a company, school or trade-facing channel'),  # The Engineering Mindset
+    'UClP0FR0dv5nSCAHqxQb-KQg': ('D', 'sales and business podcast for home-service contractors (CertainPath)'),  # The Successful Contractor | by CertainPath
 }
-# Clear-error fixes found by the hand-check (channel id -> (tier, reason)). Logged in channels.md.
+# Clear-error fixes found by the hand-check (channel id -> (tier, reason[, extra flags])). Logged in channels.md.
+# Round 3 fixes 1.1-1.3 (fixer, 2026-10-26): every entry below is the fixer's own reading of the channel's latest 30
+# long-form titles (the HVAC count is mine, counted by hand), recorded in data/raw/census-handread-2026-10-26.csv.
 HAND_FIXES = {}
+HAND_FIXES_FILE = os.path.join(RAW, "census-handread-2026-10-26.csv")
+if os.path.exists(HAND_FIXES_FILE):
+    for _r in csv.DictReader(open(HAND_FIXES_FILE, encoding="utf-8")):
+        if _r.get("hand_fix_tier"):
+            HAND_FIXES[_r["channel_id"]] = (_r["hand_fix_tier"], _r["reason"], [f for f in _r.get("extra_flags", "").split(";") if f])
 
 
 # ---------------------------------------------------------------------------------------------------------------
@@ -858,18 +892,28 @@ def build_channel(d, mrow, about, ctype):
             why += f"; top 10 HVAC {h_top10}/{len(top10)}"
     if tier == "A" and len(new10) >= 10 and h_new10 <= 2:
         flags.append("DRIFT")
+    # Round 3 fix 1.4 (2026-10-26): RECENT-DRIFT = a tier A channel whose newest 5 long-form are all non-HVAC
+    # (Hank Cole: 5 car-AC videos in a row). A flag only; the tier is unchanged.
+    new5 = lat_long[:5]
+    recent_drift = len(new5) == 5 and not any(v["hvac"] for v in new5)
     if cid in HAND_FIXES:
+        rule_tier = tier
         tier, fx = HAND_FIXES[cid][0], HAND_FIXES[cid][1]
-        why += f"; HAND FIX: {fx}"
+        why += f"; HAND FIX ({rule_tier}->{tier}): {fx}"
         flags.append("HAND-FIX")
+        for f_ in (HAND_FIXES[cid][2] if len(HAND_FIXES[cid]) > 2 else []):
+            if f_ not in flags:
+                flags.append(f_)
     if lane_tags and tier == "A":
         why += "; lane " + "/".join(lane_tags)
     # Main session, 2026-10-26: DIY stove-building and "free energy" craft channels are not Roger's competitors;
     # keep them visible in the off-grid lane (C), not A. To be confirmed by the operator in the round 7 report.
-    if tier == "A" and "diy-stove-craft" in lane_tags:
+    if tier == "A" and "diy-stove-craft" in lane_tags and cid not in HAND_FIXES:
         tier = "C"
         why += "; moved A->C: diy-stove-craft (main session default 2026-10-26)"
         flags.append("STOVE-CRAFT")
+    if tier == "A" and recent_drift:
+        flags.append("RECENT-DRIFT")
     # --- baseline (labels.md section 6), from the Latest list only (an unbiased recent window)
     l12 = [v for v in lat_long if within(v["age"][1], v["age"][2], 365) and v["views"] is not None]
     capped = (not latest_complete) and oldest_latest_age is not None and within(oldest_latest_age[1], oldest_latest_age[2], 365)
@@ -951,6 +995,7 @@ def build_channel(d, mrow, about, ctype):
         ("link", f"https://www.youtube.com/channel/{cid}"),
         ("hvac_latest30", f"{h_s}/{n_s}"), ("hvac_share_latest30", "" if share is None else round(share, 3)),
         ("hvac_share_basis", basis), ("hvac_newest10", f"{h_new10}/{len(new10)}"),
+        ("hvac_newest5", f"{sum(1 for v in new5 if v['hvac'])}/{len(new5)}"),
         ("hvac_top10", f"{h_top10}/{len(top10)}"), ("top10_basis", top10_basis),
         ("lane_word_titles_latest30", f"{lane_hits}/{n_s}"), ("lane_tags", ";".join(lane_tags)),
         ("trade_word_titles_latest30", f"{trade_hits}/{n_s}"), ("d_flags", ";".join(d_basis)), ("d_decision", d_note),

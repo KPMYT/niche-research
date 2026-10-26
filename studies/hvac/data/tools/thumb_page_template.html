@@ -1,3 +1,4 @@
+<meta charset="utf-8">
 <title>HVAC Thumbnail Atlas</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -65,6 +66,8 @@ button.chip:focus-visible { outline: 2px solid var(--cool); outline-offset: 2px;
 .chan .name { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
 .chan .name small { font-family: var(--mono); font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 .note { color: var(--muted); font-size: 13px; max-width: 80ch; }
+.narrow { display: none; }
+@media (max-width: 640px) { .narrow { display: block; } }
 .empty { color: var(--muted); font-size: 13px; }
 @media (prefers-reduced-motion: no-preference) { .card a.thumb img { transition: transform .2s ease; } .card a.thumb:hover img { transform: scale(1.04); } }
 </style>
@@ -78,6 +81,7 @@ button.chip:focus-visible { outline: 2px solid var(--cool); outline-offset: 2px;
 
   <section aria-labelledby="sum">
     <h2 id="sum">Which styles go with the biggest videos</h2>
+    <p class="note narrow">On a phone, swipe the table sideways to see every column.</p>
     <p class="note">The top-10, top-25 and top-100 columns count the all-time top 100 by views. A style's median views mix all four lists, so compare it within a list using the filter below. The all-time list leans on real photos because most of it is years old; the recent lists lean on AI images.</p>
     <div class="tablebox"><table id="sumtable"><thead><tr>
       <th>Style group</th><th>Thumbnails</th><th>Median views</th><th>Top 10</th><th>Top 25</th><th>Top 100</th><th>Last 12 months</th><th>Last 90 days</th><th>Channel top 5</th>

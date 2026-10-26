@@ -15,7 +15,7 @@ Writes:
 Views are the Videos-tab figures (rounded) and dates approximate; the multiple is views / that channel's baseline
 (census, labels.md section 6). Only scope_ok = y rows are counted. Labels are readings.
 Usage: python3 -I round4_build.py"""
-import csv, json, os, statistics
+import csv, json, os, re, statistics
 from collections import Counter, defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -30,7 +30,8 @@ EMO = {"E1": "fear of the big bill", "E2": "resentment of the service call", "E3
        "E13": "pride in self-reliance", "E14": "relief and reassurance", "E15": "nostalgia and inherited wisdom",
        "E16": "protectiveness", "E17": "safety fear", "E18": "rule-curiosity and mild defiance", "E19": "comfort",
        "E20": "new-gadget wonder"}
-MIN_N = 15
+MIN_N = 50  # round 6 check: ranking needs 50+ videos (was 15)
+MIN_BASE = 100  # round 6 check: multiples only for channels whose baseline is 100+ views
 
 
 def fnum(x):
@@ -109,24 +110,29 @@ def calibration(calib):
     return out, summary
 
 
+def baseline(r):
+    v, m = num(r["views"]), num(r["multiple"])
+    return v / m if v and m else None
+
+
 def stats(rows):
-    m = [num(r["multiple"]) for r in rows if num(r["multiple"]) is not None]
+    """Median multiple and share at 2x+ use only videos whose channel baseline is MIN_BASE+ views (a 2-view baseline
+    turns one video into 47,000x). top3 = share of the rows from the 3 channels with the most rows."""
+    m = [num(r["multiple"]) for r in rows if num(r["multiple"]) is not None and (baseline(r) or 0) >= MIN_BASE]
     v = [num(r["views"]) for r in rows if num(r["views"]) is not None]
-    return {"n": len(rows), "channels": len({r["channel_id"] for r in rows}),
+    cc = Counter(r["channel_id"] for r in rows)
+    return {"n": len(rows), "channels": len(cc),
             "med_views": statistics.median(v) if v else None,
-            "med_mult": statistics.median(m) if m else None,
-            "share2x": (sum(1 for x in m if x >= 2) / len(m)) if m else None}
+            "med_mult": statistics.median(m) if m else None, "n_mult": len(m),
+            "share2x": (sum(1 for x in m if x >= 2) / len(m)) if m else None,
+            "top3": (sum(c for _, c in cc.most_common(3)) / len(rows)) if rows else None}
 
 
 def cells(s):
     mm = "n/a" if s["med_mult"] is None else f"{s['med_mult']:.2f}x"
     sh = "n/a" if s["share2x"] is None else f"{100 * s['share2x']:.0f}%"
-    return f"{s['n']:,} | {s['channels']:,} | {fnum(s['med_views'])} | {mm} | {sh}"
-
-
-def baseline(r):
-    v, m = num(r["views"]), num(r["multiple"])
-    return v / m if v and m else None
+    t3 = "n/a" if s.get("top3") is None else f"{100 * s['top3']:.0f}%"
+    return f"{s['n']:,} | {s['channels']:,} | {t3} | {fnum(s['med_views'])} | {mm} | {sh}"
 
 
 def examples(rows, k=3, min_views=1000, min_base=500):
@@ -146,21 +152,52 @@ def biggest(rows, k=5):
 
 
 def table(groups, title_col, recent_only=False):
-    L = [f"| {title_col} | Videos | Channels | Median views | Median multiple | Share at 2x+ |", "|---|---:|---:|---:|---:|---:|"]
+    L = [f"| {title_col} | Videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ |", "|---|---:|---:|---:|---:|---:|---:|"]
     small = []
     items = []
     for k, rows in groups.items():
         rr = [r for r in rows if (r["last12m"] in ("yes", "1", "True", "true")) or not recent_only]
         if not rr: continue
         s = stats(rr)
+        if k == "adjacent":
+            small.append((k + " (not counted: labels.md)", s)); continue
         (items if s["n"] >= MIN_N else small).append((k, s))
     items.sort(key=lambda x: -(x[1]["med_mult"] or 0))
     for k, s in items:
         L.append(f"| {k} | {cells(s)} |")
     if small:
         L.append("")
-        L.append(f"Not ranked (fewer than {MIN_N} videos): " + "; ".join(f"{k} ({s['n']})" for k, s in sorted(small, key=lambda x: -x[1]['n'])))
+        L.append(f"Not ranked (fewer than {MIN_N} videos, or not counted): " + "; ".join(
+            f"{k} ({s['n']}, {'n/a' if s['med_mult'] is None else format(s['med_mult'], '.2f') + 'x'})" for k, s in sorted(small, key=lambda x: -x[1]['n'])))
     return L
+
+
+HEATWORD = re.compile(r"\b(heat\w*|warm\w*|winter|room|house|home|cold|freez\w*|furnace|fireplace|radiator|bills?)\b", re.I)
+STOVEBUILD = re.compile(r"\b(stoves?|burners?|heaters?)\b", re.I)
+CRAFT = re.compile(r"\b(cement|concrete|bricks?|clay|mud|gas cylinders?|barrel|cans?|pot)\b", re.I)
+TOPLIST = re.compile(r"\b(top \d+|\d+ best|best \d+|\d+ (most )?(reliable|worst)|brands? worth|worth buying)\b", re.I)
+
+
+def harmonize(rows):
+    """Round 6 check found two labeller habits that differ by batch; one rule for all batches (logged in the summary):
+    1. a DIY stove/burner build with a craft word and no heat word in the title is set to scope '?' (most batches
+       read these as cooking or craft stoves; two batches counted them in);
+    2. a 'Top N / N best' list labelled only-x goes to the brand-verdict sub-niche (batch 2 filed these under the
+       equipment). The original reading is kept in note."""
+    n1 = n2 = 0
+    for r in rows:
+        t = r.get("title") or ""
+        if r["scope_ok"] in ("y", "?", "n") and STOVEBUILD.search(t) and CRAFT.search(t) and not HEATWORD.search(t) \
+                and r["subniche"] in ("offgrid-heat", "") and r["scope_ok"] != "?":
+            r["note"] = (r.get("note") or "") + f" [harmonized: scope {r['scope_ok']} -> ?]"
+            r["scope_ok"] = "?"; n1 += 1
+        if r["scope_ok"] == "y" and r["format"] == "only-x" and TOPLIST.search(t) and r["subniche"] not in ("brand-verdict",):
+            r["note"] = (r.get("note") or "") + f" [harmonized: sub-niche {r['subniche']} -> brand-verdict]"
+            r["subniche"] = "brand-verdict"; n2 += 1
+    HARMONIZED.update({"stove_builds_to_unsure": n1, "top_lists_to_brand_verdict": n2})
+
+
+HARMONIZED = {}
 
 
 def main():
@@ -187,6 +224,7 @@ def main():
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     json.dump({"agreement": cal_sum, "titles": cal}, open(os.path.join(R4, "calibration-2026-10-26.json"), "w"), indent=1)
 
+    harmonize(rows)
     ins = [r for r in rows if r["scope_ok"] == "y"]
     rec = [r for r in ins if r["last12m"] in ("yes", "1", "True", "true")]
     scope = Counter(r["scope_ok"] for r in rows)
@@ -217,12 +255,12 @@ def main():
          "**Read the last-12-months columns first.** The multiple compares a video's lifetime views with its channel's "
          "recent typical video, so old videos (years of views) score high whatever their emotion; within the last 12 months "
          "that age effect is much smaller.\n",
-         "| Emotion | Last 12 months: videos | Channels | Median views | Median multiple | Share at 2x+ | All time: videos / median multiple | Best examples (by multiple; 1K+ views, channel baseline 500+) |",
-         "|---|---:|---:|---:|---:|---:|---|---|"]
+         "| Emotion | Last 12 months: videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ | All time: videos / median multiple | Best examples (by multiple; 1K+ views, channel baseline 500+) |",
+         "|---|---:|---:|---:|---:|---:|---:|---|---|"]
     rec_ids = {r["video_id"] for r in rec}
     for e in sorted(by_emo, key=lambda e: -(stats([r for r in by_emo[e] if r["video_id"] in rec_ids] or [{"multiple": None, "views": None, "channel_id": ""}])["med_mult"] or 0)):
         s = stats(by_emo[e]); rr = [r for r in by_emo[e] if r["video_id"] in rec_ids]
-        s12 = stats(rr) if rr else {"n": 0, "channels": 0, "med_views": None, "med_mult": None, "share2x": None}
+        s12 = stats(rr) if rr else {"n": 0, "channels": 0, "med_views": None, "med_mult": None, "share2x": None, "top3": None}
         ma = "n/a" if s["med_mult"] is None else f"{s['med_mult']:.2f}x"
         L.append(f"| {e} {EMO.get(e, '')} | {cells(s12)} | {s['n']:,} / {ma} | {examples(rr or by_emo[e])} |")
     L.append("")
@@ -306,7 +344,13 @@ def main():
     open(os.path.join(STUDY, "formats.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- summary
-    L = ["# Round 4 labels: summary\n", head, "## Calibration (40 titles, every labeller)\n",
+    L = ["# Round 4 labels: summary\n", head,
+         f"**Round 6 changes (2026-10-26, after `round6/check-labels.md`):** ranking needs {MIN_N}+ videos; 'adjacent' is listed but not ranked; "
+         f"median multiples and 2x shares use only channels whose baseline is {MIN_BASE}+ views; a top-3-channels share column shows concentration; "
+         f"two labeller habits harmonized by rule: {HARMONIZED.get('stove_builds_to_unsure', 0)} craft stove builds with no heat word set to '?', "
+         f"{HARMONIZED.get('top_lists_to_brand_verdict', 0)} 'Top N / N best' lists moved to brand-verdict. The blind re-label of 200 titles "
+         "agreed 88% on scope, 90% sub-niche, 88% format, 95% villain, 68% first emotion (77% where both gave one).\n",
+         "## Calibration (40 titles, every labeller)\n",
          "| Field | Average share agreeing with the majority |", "|---|---:|"]
     for f, v in cal_sum.items():
         L.append(f"| {f} | {v:.0%} |")
