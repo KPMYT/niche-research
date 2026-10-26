@@ -113,3 +113,9 @@ Fixed by the main session:
 ## Round 4 (2026-10-26): emotions, villains, formats
 
 Labelling set (`data/labels/to-label-*.csv`, 1,007 videos): the top 100, both recent lists, and per sub-niche the top 30 by views plus 10 random from the rest (to show the typical video, not just winners). Three labellers by sub-niche group (A wiring and panels 338; B cords and devices 407; C explainers and fire 262), working from the full plumbing emotion definitions; title plus thumbnail for the top 100 and recent winners, title only for the rest. Each also writes per-sub-niche emotion and villain summaries. A checker will re-label a sample blind.
+
+**Round 4 labels landed (2026-10-26):** groups A (338), B (407), C (262) in `data/labels/` (reports saved by the main session). Group C proposed N1 nuisance irritation, N2 how-it-works curiosity, N3 spectacle and thrill; the main session passed them to A and B for consistency (A re-coded 98 rows; B used them and added N4 comeuppance, 2 rows). All four and the round 2 formats are now defined in `labels.md`. Checker F launched: 90 rows (30 per group) re-labelled blind, then compared.
+
+## Round 5 (2026-10-26): thumbnails
+
+`data/census/census-all.csv` (the three chunks merged: 298 rows; core 136, partial 148, out 14). Thumbnail set: the top 100 and both recent lists (about 180) and the top 5 long-form of 50 main channels (`data/labels/thumb-channels.csv`: the 30 biggest core channels by subs, the 10 biggest new core channels, ours, and the main homeowner and persona channels: How To Home, Everyday Home Repairs, Silver Cymbal, LRN2DIY, Technology Connections, Practical Engineering, The Engineering Mindset, The DIY Guy, Weirdward Bound, Home Hazard; Walt Brennan and Roy Dalton were already in). Two labellers: face, expression, subject, exact text, word count, colours, arrows, circles, before/after, red/green marks, fire, numbers, background, look, style group. Output `thumbnails/labels-*.csv`; the page comes next.
