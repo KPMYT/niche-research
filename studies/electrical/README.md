@@ -14,6 +14,7 @@ For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding el
 | `new-channels.md` | 2. New channels taking off. |
 | `subniches.md` | 3. The sub-niche map. |
 | `emotions.md` | 4. Emotions in each sub-niche (with how far to trust each emotion). |
+| `ideation/` | Ideation built on the conclusions: round 1 (34 ideas, CSV and page). Its own `README.md` maps the files. |
 | `CONCLUSIONS.md` | 9. The conclusions and strategy, after the operator's walkthrough (2026-10-26): topics in three tiers, formats, emotions and villains, titles and thumbnails, gaps, how to stand apart, what the scripting pack should take. Channel-neutral (channel pinned). |
 | `thumbnails/thumbnail-text.html` | The words on the 82 recent winners' thumbnails by text type, plus the operator's two looks (character + explainer board; a person reacting or pointing) and close-ups with no character (2026-10-26; published privately: https://claude.ai/artifact/DU5qu4MruAiEVR5B2eY4Rg). Built by `data/tools/build_text_page.py` from `data/thumb-text/recent-thumb-text.csv` (text types and lane are readings; `blind-check.csv` is the second helper's blind sort, 65 of 73 agree). |
 | `thumbnails/thumbnail-styles.html` | 5. Thumbnail styles, shown visually (published privately: https://claude.ai/artifact/4ZPp2yNMNRvQccsNo3yyet). Labels: `thumbnails/labels-*.csv`; images: `thumbnails/images/`. |
