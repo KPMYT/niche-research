@@ -1,0 +1,585 @@
+{
+ "key": "UCNQnKDvsBAstabkzA6tVt-g",
+ "channel": "fixmyownac",
+ "id": "UCNQnKDvsBAstabkzA6tVt-g",
+ "subs": "6.71K subscribers",
+ "videos": "14 videos",
+ "pulled": "2026-10-26T06:55:49.295315+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Wvg4F6ca84I",
+    "title": "Air Conditioner Disconnect Installation - How to Change a Disconnect",
+    "meta": [
+     "510K",
+     "14y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 510000
+   },
+   {
+    "id": "YQ24dphDySs",
+    "title": "Condensate Safety Switch - How to Install a Condensate Safety Switch",
+    "meta": [
+     "55K",
+     "14y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 55000
+   },
+   {
+    "id": "WHCgdMHKMHk",
+    "title": "AC Run Capacitor - How to Change a Run Capacitor",
+    "meta": [
+     "25K",
+     "14y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "NPYyYaduUss",
+    "title": "Indoor Fan Motor Wiring - How to Change an Indoor Fan Motor",
+    "meta": [
+     "7.9K",
+     "14y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 7900
+   },
+   {
+    "id": "9vaWw38-OgY",
+    "title": "Air Conditioner Thermostat Wiring - How to Change a Thermostat",
+    "meta": [
+     "9.1K",
+     "14y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 9100
+   },
+   {
+    "id": "LIXHicBGMsw",
+    "title": "Air Conditioner Transformer - How to Wire a Transformer",
+    "meta": [
+     "379K",
+     "14y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 379000
+   },
+   {
+    "id": "RN76QvuvP1Y",
+    "title": "Air Conditioner Contactor - How to Change a Contactor",
+    "meta": [
+     "5.2K",
+     "14y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 5200
+   },
+   {
+    "id": "keM6kCfOsY8",
+    "title": "Fix Your Own AC - How to Change a Contactor",
+    "meta": [
+     "355K",
+     "14y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 355000
+   },
+   {
+    "id": "SW6OZW-lMmE",
+    "title": "Fix Your Own Air Conditioning - How to Change an Indoor Fan Motor",
+    "meta": [
+     "92K",
+     "14y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 92000
+   },
+   {
+    "id": "BGrhvAQg91w",
+    "title": "Repair My Own Air Conditioner - Wiring a Transformer",
+    "meta": [
+     "87K",
+     "14y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 87000
+   },
+   {
+    "id": "JVP-oYkRYCk",
+    "title": "Welcome to Fix My Own AC.com",
+    "meta": [
+     "4.3K",
+     "14y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 4300
+   },
+   {
+    "id": "JKMBto0ZVJk",
+    "title": "Fix My Own Air Conditioner - How to Clean an Indoor Coil",
+    "meta": [
+     "454K",
+     "14y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 454000
+   },
+   {
+    "id": "DUBV4SEKH3M",
+    "title": "Fix My Own AC - How to Change a Thermostat",
+    "meta": [
+     "307K",
+     "14y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 307000
+   },
+   {
+    "id": "xj5EIJitfuA",
+    "title": "Fix My Own AC - How to Change a Run Capacitor",
+    "meta": [
+     "469K",
+     "14y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 469000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Wvg4F6ca84I",
+    "title": "Air Conditioner Disconnect Installation - How to Change a Disconnect",
+    "meta": [
+     "510K",
+     "14y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 510000
+   },
+   {
+    "id": "YQ24dphDySs",
+    "title": "Condensate Safety Switch - How to Install a Condensate Safety Switch",
+    "meta": [
+     "55K",
+     "14y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 55000
+   },
+   {
+    "id": "WHCgdMHKMHk",
+    "title": "AC Run Capacitor - How to Change a Run Capacitor",
+    "meta": [
+     "25K",
+     "14y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "NPYyYaduUss",
+    "title": "Indoor Fan Motor Wiring - How to Change an Indoor Fan Motor",
+    "meta": [
+     "7.9K",
+     "14y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 7900
+   },
+   {
+    "id": "9vaWw38-OgY",
+    "title": "Air Conditioner Thermostat Wiring - How to Change a Thermostat",
+    "meta": [
+     "9.1K",
+     "14y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 9100
+   },
+   {
+    "id": "LIXHicBGMsw",
+    "title": "Air Conditioner Transformer - How to Wire a Transformer",
+    "meta": [
+     "379K",
+     "14y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 379000
+   },
+   {
+    "id": "RN76QvuvP1Y",
+    "title": "Air Conditioner Contactor - How to Change a Contactor",
+    "meta": [
+     "5.2K",
+     "14y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 5200
+   },
+   {
+    "id": "keM6kCfOsY8",
+    "title": "Fix Your Own AC - How to Change a Contactor",
+    "meta": [
+     "355K",
+     "14y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 355000
+   },
+   {
+    "id": "SW6OZW-lMmE",
+    "title": "Fix Your Own Air Conditioning - How to Change an Indoor Fan Motor",
+    "meta": [
+     "92K",
+     "14y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 92000
+   },
+   {
+    "id": "BGrhvAQg91w",
+    "title": "Repair My Own Air Conditioner - Wiring a Transformer",
+    "meta": [
+     "87K",
+     "14y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 87000
+   },
+   {
+    "id": "JVP-oYkRYCk",
+    "title": "Welcome to Fix My Own AC.com",
+    "meta": [
+     "4.3K",
+     "14y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 4300
+   },
+   {
+    "id": "JKMBto0ZVJk",
+    "title": "Fix My Own Air Conditioner - How to Clean an Indoor Coil",
+    "meta": [
+     "454K",
+     "14y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 454000
+   },
+   {
+    "id": "DUBV4SEKH3M",
+    "title": "Fix My Own AC - How to Change a Thermostat",
+    "meta": [
+     "307K",
+     "14y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 307000
+   },
+   {
+    "id": "xj5EIJitfuA",
+    "title": "Fix My Own AC - How to Change a Run Capacitor",
+    "meta": [
+     "469K",
+     "14y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 469000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "Wvg4F6ca84I",
+    "title": "Air Conditioner Disconnect Installation - How to Change a Disconnect",
+    "meta": [
+     "510K",
+     "14y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 510000
+   },
+   {
+    "id": "xj5EIJitfuA",
+    "title": "Fix My Own AC - How to Change a Run Capacitor",
+    "meta": [
+     "469K",
+     "14y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 469000
+   },
+   {
+    "id": "JKMBto0ZVJk",
+    "title": "Fix My Own Air Conditioner - How to Clean an Indoor Coil",
+    "meta": [
+     "454K",
+     "14y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 454000
+   },
+   {
+    "id": "LIXHicBGMsw",
+    "title": "Air Conditioner Transformer - How to Wire a Transformer",
+    "meta": [
+     "379K",
+     "14y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 379000
+   },
+   {
+    "id": "keM6kCfOsY8",
+    "title": "Fix Your Own AC - How to Change a Contactor",
+    "meta": [
+     "355K",
+     "14y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 355000
+   },
+   {
+    "id": "DUBV4SEKH3M",
+    "title": "Fix My Own AC - How to Change a Thermostat",
+    "meta": [
+     "307K",
+     "14y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 307000
+   },
+   {
+    "id": "SW6OZW-lMmE",
+    "title": "Fix Your Own Air Conditioning - How to Change an Indoor Fan Motor",
+    "meta": [
+     "92K",
+     "14y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 92000
+   },
+   {
+    "id": "BGrhvAQg91w",
+    "title": "Repair My Own Air Conditioner - Wiring a Transformer",
+    "meta": [
+     "87K",
+     "14y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 87000
+   },
+   {
+    "id": "YQ24dphDySs",
+    "title": "Condensate Safety Switch - How to Install a Condensate Safety Switch",
+    "meta": [
+     "55K",
+     "14y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 55000
+   },
+   {
+    "id": "WHCgdMHKMHk",
+    "title": "AC Run Capacitor - How to Change a Run Capacitor",
+    "meta": [
+     "25K",
+     "14y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "9vaWw38-OgY",
+    "title": "Air Conditioner Thermostat Wiring - How to Change a Thermostat",
+    "meta": [
+     "9.1K",
+     "14y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 9100
+   },
+   {
+    "id": "NPYyYaduUss",
+    "title": "Indoor Fan Motor Wiring - How to Change an Indoor Fan Motor",
+    "meta": [
+     "7.9K",
+     "14y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 7900
+   },
+   {
+    "id": "RN76QvuvP1Y",
+    "title": "Air Conditioner Contactor - How to Change a Contactor",
+    "meta": [
+     "5.2K",
+     "14y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 5200
+   },
+   {
+    "id": "JVP-oYkRYCk",
+    "title": "Welcome to Fix My Own AC.com",
+    "meta": [
+     "4.3K",
+     "14y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 4300
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "xj5EIJitfuA",
+    "title": "Fix My Own AC - How to Change a Run Capacitor",
+    "meta": [
+     "469K",
+     "14y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 469000
+   },
+   {
+    "id": "DUBV4SEKH3M",
+    "title": "Fix My Own AC - How to Change a Thermostat",
+    "meta": [
+     "307K",
+     "14y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 307000
+   },
+   {
+    "id": "JKMBto0ZVJk",
+    "title": "Fix My Own Air Conditioner - How to Clean an Indoor Coil",
+    "meta": [
+     "454K",
+     "14y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 454000
+   },
+   {
+    "id": "JVP-oYkRYCk",
+    "title": "Welcome to Fix My Own AC.com",
+    "meta": [
+     "4.3K",
+     "14y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 4300
+   },
+   {
+    "id": "BGrhvAQg91w",
+    "title": "Repair My Own Air Conditioner - Wiring a Transformer",
+    "meta": [
+     "87K",
+     "14y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 87000
+   },
+   {
+    "id": "SW6OZW-lMmE",
+    "title": "Fix Your Own Air Conditioning - How to Change an Indoor Fan Motor",
+    "meta": [
+     "92K",
+     "14y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 92000
+   },
+   {
+    "id": "keM6kCfOsY8",
+    "title": "Fix Your Own AC - How to Change a Contactor",
+    "meta": [
+     "355K",
+     "14y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 355000
+   },
+   {
+    "id": "RN76QvuvP1Y",
+    "title": "Air Conditioner Contactor - How to Change a Contactor",
+    "meta": [
+     "5.2K",
+     "14y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 5200
+   },
+   {
+    "id": "LIXHicBGMsw",
+    "title": "Air Conditioner Transformer - How to Wire a Transformer",
+    "meta": [
+     "379K",
+     "14y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 379000
+   },
+   {
+    "id": "9vaWw38-OgY",
+    "title": "Air Conditioner Thermostat Wiring - How to Change a Thermostat",
+    "meta": [
+     "9.1K",
+     "14y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 9100
+   },
+   {
+    "id": "NPYyYaduUss",
+    "title": "Indoor Fan Motor Wiring - How to Change an Indoor Fan Motor",
+    "meta": [
+     "7.9K",
+     "14y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 7900
+   },
+   {
+    "id": "WHCgdMHKMHk",
+    "title": "AC Run Capacitor - How to Change a Run Capacitor",
+    "meta": [
+     "25K",
+     "14y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "YQ24dphDySs",
+    "title": "Condensate Safety Switch - How to Install a Condensate Safety Switch",
+    "meta": [
+     "55K",
+     "14y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 55000
+   },
+   {
+    "id": "Wvg4F6ca84I",
+    "title": "Air Conditioner Disconnect Installation - How to Change a Disconnect",
+    "meta": [
+     "510K",
+     "14y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 510000
+   }
+  ]
+ }
+}

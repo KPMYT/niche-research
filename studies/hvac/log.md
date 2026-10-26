@@ -33,3 +33,4 @@
 
 - **Operator, 2026-10-26:** run the rounds without stopping and check after each one (see `README.md`). The two round 2 questions taken at the recommended defaults, to confirm in the round 7 report.
 - **Channel pull running:** `data/tools/census_pull.py` runs `yt_allsorts.py` (Latest, Popular, Oldest; up to 4 pages each) for all 1,122 tier A-D channels into `data/raw/census-2026-10-26/`. `yt_allsorts.py` patched: channels with a "Members only" chip put the sorts in a dropdown, which it now reads.
+- **Channel pull complete (2026-10-26):** 1,122 of 1,122 tier A-D channels (11 retried); 38 had no Popular sort (few videos). Raw files `data/raw/census-2026-10-26/<channel ID>.json` (66 MB).

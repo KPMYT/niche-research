@@ -1,0 +1,3933 @@
+{
+ "key": "UCxzAJacWR8mwOcUbplo9U-A",
+ "channel": "Jersey Mike HVAC",
+ "id": "UCxzAJacWR8mwOcUbplo9U-A",
+ "subs": "55.7K subscribers",
+ "videos": "131 videos",
+ "pulled": "2026-10-26T07:08:51.035356+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "rmnagrt96Yw",
+    "title": "Heat Pump Refrigeration Cycle for Beginners + 4 Rules That Never Change",
+    "meta": [
+     "2.9K",
+     "9h ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 2900
+   },
+   {
+    "id": "6Y5i171p0pQ",
+    "title": "How Can Refrigerant Absorb AND Release Heat Without Changing Temp?",
+    "meta": [
+     "5.5K",
+     "1d ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 5500
+   },
+   {
+    "id": "rK8OxthS_JU",
+    "title": "The Refrigeration Cycle Controls, Changing Conditions & Diagnostics",
+    "meta": [
+     "19K",
+     "7d ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 19000
+   },
+   {
+    "id": "WQyTbd6ed8M",
+    "title": "The Refrigeration Cycle Put Plainly for Diagnostics",
+    "meta": [
+     "73K",
+     "2w ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 73000
+   },
+   {
+    "id": "GbxfykOlXsQ",
+    "title": "Disconnecting Hoses from an AC system",
+    "meta": [
+     "8.1K",
+     "3mo ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 8100
+   },
+   {
+    "id": "YK13wkSIBxs",
+    "title": "Most People Aren't Built For The Trades",
+    "meta": [
+     "77K",
+     "3mo ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 77000
+   },
+   {
+    "id": "wvz1cU9Y7AQ",
+    "title": "I Tracked Every Watt: The Truth About Mini Split Performance",
+    "meta": [
+     "Jersey Mike HVAC",
+     "and ACiQ",
+     "23K",
+     "7mo ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 23000
+   },
+   {
+    "id": "URK6sSMSj8s",
+    "title": "What A Secondary Heat Exchanger Looks Like & How It Works",
+    "meta": [
+     "3.3K",
+     "8mo ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 3300
+   },
+   {
+    "id": "NJao147mGL0",
+    "title": "Heat Pump Vent Temperature Doesn't Tell the Whole Story",
+    "meta": [
+     "3.3K",
+     "9mo ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 3300
+   },
+   {
+    "id": "XvqTomPHogg",
+    "title": "Tackling Pressure Switch Confusion | Service Call Breakdown",
+    "meta": [
+     "14K",
+     "9mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 14000
+   },
+   {
+    "id": "hGULYwx6TMA",
+    "title": "Heat Pump Winter Charging: Don\u2019t Chase Pressures!",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 4800
+   },
+   {
+    "id": "ixXMlBamd0Y",
+    "title": "3 Rare HVAC Interview Moves to Get Hired Immediately (No Experience)",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 4800
+   },
+   {
+    "id": "VKF207AKWm8",
+    "title": "Aluminum + Copper: Watch This Splice Cook",
+    "meta": [
+     "4.9K",
+     "9mo ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 4900
+   },
+   {
+    "id": "kJcUgyi3rzw",
+    "title": "How Multiple Pressure Switches Work (And What They Reveal)",
+    "meta": [
+     "10K",
+     "10mo ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 10000
+   },
+   {
+    "id": "wbKu_wkHsAM",
+    "title": "Furnace Won\u2019t Start: Anatomy of a Service Call",
+    "meta": [
+     "11K",
+     "10mo ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 11000
+   },
+   {
+    "id": "4ERgdc_RRBE",
+    "title": "Thermostat Terminals Fully Explained",
+    "meta": [
+     "14K",
+     "10mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 14000
+   },
+   {
+    "id": "0UP0Kj-52Zg",
+    "title": "HVAC Control Board Logic \u2013 Series, Parallel & Sequence",
+    "meta": [
+     "7.8K",
+     "10mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 7800
+   },
+   {
+    "id": "k9hcY465mKs",
+    "title": "Gen Z vs Boomer in the Trades: The Blue-Collar Civil War",
+    "meta": [
+     "5K",
+     "11mo ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 5000
+   },
+   {
+    "id": "D7dM5TR4pD0",
+    "title": "Are Trade Schools Broken?",
+    "meta": [
+     "256K",
+     "11mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 256000
+   },
+   {
+    "id": "iyw_0JmJTvM",
+    "title": "Furnace won\u2019t stay lit? Easy Fix DIY Videos ALWAYS Skip",
+    "meta": [
+     "29K",
+     "11mo ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 29000
+   },
+   {
+    "id": "3mlX4wktmaQ",
+    "title": "Why AC/Heat Systems Don't Care About Square Feet",
+    "meta": [
+     "2K",
+     "11mo ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 2000
+   },
+   {
+    "id": "jh38zkeHB9I",
+    "title": "Live AC Simulator (Interactive & Free)",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "--cBhNH5FiA",
+    "title": "I Say No to 99% of Free Tools... But Not These",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 2100
+   },
+   {
+    "id": "_ROyPJ4Y3SA",
+    "title": "How To Clock a Gas Meter",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 5000
+   },
+   {
+    "id": "sssOcepW0S0",
+    "title": "Silent DIY Mistakes That Create HVAC Time Bombs",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 8600
+   },
+   {
+    "id": "sFIIc1Ymcl0",
+    "title": "How To Test Start A Genteq ECM Motor Without an ECM Tester",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "1:26",
+    "views_tab": 10000
+   },
+   {
+    "id": "PnhcFCz4PvA",
+    "title": "Variable Speed ECM Motors: Wiring, Control & Diagnostics",
+    "meta": [
+     "35K",
+     "1y ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 35000
+   },
+   {
+    "id": "HnSnuqS9-eE",
+    "title": "The Ugly Truth About Motor Efficiency in HVAC",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 22000
+   },
+   {
+    "id": "--G-npPjX2Y",
+    "title": "4 Wires, 1 Boiler: How Zone Valves Really Work",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 14000
+   },
+   {
+    "id": "ZLIhm8M3gOw",
+    "title": "Seeing Static Pressure in Ductwork (Fog Test)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 4600
+   }
+  ],
+  "Latest": [
+   {
+    "id": "rmnagrt96Yw",
+    "title": "Heat Pump Refrigeration Cycle for Beginners + 4 Rules That Never Change",
+    "meta": [
+     "2.9K",
+     "9h ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 2900
+   },
+   {
+    "id": "6Y5i171p0pQ",
+    "title": "How Can Refrigerant Absorb AND Release Heat Without Changing Temp?",
+    "meta": [
+     "5.5K",
+     "1d ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 5500
+   },
+   {
+    "id": "rK8OxthS_JU",
+    "title": "The Refrigeration Cycle Controls, Changing Conditions & Diagnostics",
+    "meta": [
+     "19K",
+     "7d ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 19000
+   },
+   {
+    "id": "WQyTbd6ed8M",
+    "title": "The Refrigeration Cycle Put Plainly for Diagnostics",
+    "meta": [
+     "73K",
+     "2w ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 73000
+   },
+   {
+    "id": "GbxfykOlXsQ",
+    "title": "Disconnecting Hoses from an AC system",
+    "meta": [
+     "8.1K",
+     "3mo ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 8100
+   },
+   {
+    "id": "YK13wkSIBxs",
+    "title": "Most People Aren't Built For The Trades",
+    "meta": [
+     "77K",
+     "3mo ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 77000
+   },
+   {
+    "id": "wvz1cU9Y7AQ",
+    "title": "I Tracked Every Watt: The Truth About Mini Split Performance",
+    "meta": [
+     "Jersey Mike HVAC",
+     "and ACiQ",
+     "23K",
+     "7mo ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 23000
+   },
+   {
+    "id": "URK6sSMSj8s",
+    "title": "What A Secondary Heat Exchanger Looks Like & How It Works",
+    "meta": [
+     "3.3K",
+     "8mo ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 3300
+   },
+   {
+    "id": "NJao147mGL0",
+    "title": "Heat Pump Vent Temperature Doesn't Tell the Whole Story",
+    "meta": [
+     "3.3K",
+     "9mo ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 3300
+   },
+   {
+    "id": "XvqTomPHogg",
+    "title": "Tackling Pressure Switch Confusion | Service Call Breakdown",
+    "meta": [
+     "14K",
+     "9mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 14000
+   },
+   {
+    "id": "hGULYwx6TMA",
+    "title": "Heat Pump Winter Charging: Don\u2019t Chase Pressures!",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 4800
+   },
+   {
+    "id": "ixXMlBamd0Y",
+    "title": "3 Rare HVAC Interview Moves to Get Hired Immediately (No Experience)",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 4800
+   },
+   {
+    "id": "VKF207AKWm8",
+    "title": "Aluminum + Copper: Watch This Splice Cook",
+    "meta": [
+     "4.9K",
+     "9mo ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 4900
+   },
+   {
+    "id": "kJcUgyi3rzw",
+    "title": "How Multiple Pressure Switches Work (And What They Reveal)",
+    "meta": [
+     "10K",
+     "10mo ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 10000
+   },
+   {
+    "id": "wbKu_wkHsAM",
+    "title": "Furnace Won\u2019t Start: Anatomy of a Service Call",
+    "meta": [
+     "11K",
+     "10mo ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 11000
+   },
+   {
+    "id": "4ERgdc_RRBE",
+    "title": "Thermostat Terminals Fully Explained",
+    "meta": [
+     "14K",
+     "10mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 14000
+   },
+   {
+    "id": "0UP0Kj-52Zg",
+    "title": "HVAC Control Board Logic \u2013 Series, Parallel & Sequence",
+    "meta": [
+     "7.8K",
+     "10mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 7800
+   },
+   {
+    "id": "k9hcY465mKs",
+    "title": "Gen Z vs Boomer in the Trades: The Blue-Collar Civil War",
+    "meta": [
+     "5K",
+     "11mo ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 5000
+   },
+   {
+    "id": "D7dM5TR4pD0",
+    "title": "Are Trade Schools Broken?",
+    "meta": [
+     "256K",
+     "11mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 256000
+   },
+   {
+    "id": "iyw_0JmJTvM",
+    "title": "Furnace won\u2019t stay lit? Easy Fix DIY Videos ALWAYS Skip",
+    "meta": [
+     "29K",
+     "11mo ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 29000
+   },
+   {
+    "id": "3mlX4wktmaQ",
+    "title": "Why AC/Heat Systems Don't Care About Square Feet",
+    "meta": [
+     "2K",
+     "11mo ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 2000
+   },
+   {
+    "id": "jh38zkeHB9I",
+    "title": "Live AC Simulator (Interactive & Free)",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "--cBhNH5FiA",
+    "title": "I Say No to 99% of Free Tools... But Not These",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 2100
+   },
+   {
+    "id": "_ROyPJ4Y3SA",
+    "title": "How To Clock a Gas Meter",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 5000
+   },
+   {
+    "id": "sssOcepW0S0",
+    "title": "Silent DIY Mistakes That Create HVAC Time Bombs",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 8600
+   },
+   {
+    "id": "sFIIc1Ymcl0",
+    "title": "How To Test Start A Genteq ECM Motor Without an ECM Tester",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "1:26",
+    "views_tab": 10000
+   },
+   {
+    "id": "PnhcFCz4PvA",
+    "title": "Variable Speed ECM Motors: Wiring, Control & Diagnostics",
+    "meta": [
+     "35K",
+     "1y ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 35000
+   },
+   {
+    "id": "HnSnuqS9-eE",
+    "title": "The Ugly Truth About Motor Efficiency in HVAC",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 22000
+   },
+   {
+    "id": "--G-npPjX2Y",
+    "title": "4 Wires, 1 Boiler: How Zone Valves Really Work",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 14000
+   },
+   {
+    "id": "ZLIhm8M3gOw",
+    "title": "Seeing Static Pressure in Ductwork (Fog Test)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 4600
+   },
+   {
+    "id": "jiseKgQOT2I",
+    "title": "Your AC Fan Makes a Mini Tornado",
+    "meta": [
+     "340K",
+     "1y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 340000
+   },
+   {
+    "id": "ylv2dMB51Z0",
+    "title": "I Built a Miniature Duct System to Show What Ruins Airflow",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 19000
+   },
+   {
+    "id": "G-QCKfQA530",
+    "title": "Static Pressure: What It Is, Why It Matters, and How to Read It",
+    "meta": [
+     "79K",
+     "1y ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 79000
+   },
+   {
+    "id": "B39am8Bk7xY",
+    "title": "How To Make Every Room Comfortable With Better Airflow",
+    "meta": [
+     "187K",
+     "1y ago"
+    ],
+    "dur": "18:22",
+    "views_tab": 187000
+   },
+   {
+    "id": "SYQxYiuOa7c",
+    "title": "Does This Mini Split Really Bring In Fresh Air? (CO\u2082 + PM2.5 Test)",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 4200
+   },
+   {
+    "id": "eV2swvmSoHU",
+    "title": "A Mini Split That Brings in Fresh Air | Full Install",
+    "meta": [
+     "108K",
+     "1y ago"
+    ],
+    "dur": "38:39",
+    "views_tab": 108000
+   },
+   {
+    "id": "7e4EymfCDK8",
+    "title": "I Tested YouTube\u2019s Coil Cleaning Advice \u2013 Lazy vs Pro",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "JT6QOrnsxC8",
+    "title": "The Superheat Lesson NOBODY Teaches",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 32000
+   },
+   {
+    "id": "MmKZ4zXyhq4",
+    "title": "Learn How to Fix Water Heaters In 18 Minutes",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "18:00",
+    "views_tab": 7400
+   },
+   {
+    "id": "1NgLy3KHwos",
+    "title": "Avoiding TXV Confusion & Misdiagnosis",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 21000
+   },
+   {
+    "id": "tFH9fsfDtvc",
+    "title": "What Happens to Pressures When a Blower Motor Fails?",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 5000
+   },
+   {
+    "id": "so0oj5py5ZI",
+    "title": "When HVAC Pressures Go Crazy: Dirty Condenser Coils",
+    "meta": [
+     "37K",
+     "1y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 37000
+   },
+   {
+    "id": "TPBmmMpMebg",
+    "title": "What Does Subcooling Tell Us About AC Systems?",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 19000
+   },
+   {
+    "id": "dSJrZ0_tISc",
+    "title": "HVAC Diagnostics: What Does Superheat Tell Us?",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 58000
+   },
+   {
+    "id": "IhxK_RumL38",
+    "title": "What does a capacitor ACTUALLY DO?",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 21000
+   },
+   {
+    "id": "TNNnLnfLPeo",
+    "title": "Compressors: A Look Inside HVAC\u2019s Most Important Part",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 7400
+   },
+   {
+    "id": "wfv4zp1hod4",
+    "title": "HVAC Compressor Troubleshooting for Beginners",
+    "meta": [
+     "9.1K",
+     "1y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 9100
+   },
+   {
+    "id": "b5oduvEjO4E",
+    "title": "How To Use HVAC Schematics In Troubleshooting",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 14000
+   },
+   {
+    "id": "pSB6WgIdwoM",
+    "title": "What Happens When Each Part Of Your AC System FAILS?",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 20000
+   },
+   {
+    "id": "dlOhIcPifik",
+    "title": "Frozen AC Lines? It's NOT Always a Refrigerant Leak",
+    "meta": [
+     "217K",
+     "1y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 217000
+   },
+   {
+    "id": "IRKyV9g2cBw",
+    "title": "Learn HVAC Diagnostics: 3 Tools That Make Techs GOOD",
+    "meta": [
+     "9.3K",
+     "1y ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 9300
+   },
+   {
+    "id": "jwLxQmBYEB8",
+    "title": "Learn HVAC Diagnostics: End Confusing Readings",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 14000
+   },
+   {
+    "id": "YwLw85XjKeQ",
+    "title": "New Refrigerant. New Rules. New Control Wiring...",
+    "meta": [
+     "36K",
+     "1y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 36000
+   },
+   {
+    "id": "4ZdagGy5TQ4",
+    "title": "Learn HVAC Diagnostics on Your Own: 03",
+    "meta": [
+     "5.3K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 5300
+   },
+   {
+    "id": "0wW4khmvNOo",
+    "title": "Series vs Parallel in Real HVAC Troubleshooting",
+    "meta": [
+     "7.1K",
+     "1y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 7100
+   },
+   {
+    "id": "RKMQk2WOwAY",
+    "title": "Learn HVAC Diagnostics: Starter Blueprint",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 16000
+   },
+   {
+    "id": "3k0xPVKu3_Y",
+    "title": "Full Beginner Tutorial on Pressure Switch Testing",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "wo1lauAL8cg",
+    "title": "No C Wire? This Smart Thermostat Trick Changes Everything",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "18:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "oT2OZMuRiJU",
+    "title": "HVAC Thermostat Color Code Videos Are Often Wrong",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 6700
+   },
+   {
+    "id": "rf3sAh0rRoc",
+    "title": "What Is Voltage and Why Does It Create Current?",
+    "meta": [
+     "6.2K",
+     "1y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 6200
+   },
+   {
+    "id": "lVlmGXOtOsw",
+    "title": "Introducing The Magnetocaloric Heat Pump",
+    "meta": [
+     "43K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 43000
+   },
+   {
+    "id": "xLgWEjdoKZY",
+    "title": "A Simple Demo of Ohms Law (And Why it Matters)",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "Iqn26nRqZ7U",
+    "title": "How To: Manual Swaging Tool + Giveaway (IWISS)",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "er43vMSzmSU",
+    "title": "HVAC Low Voltage Control Wiring for Total Beginners",
+    "meta": [
+     "195K",
+     "1y ago"
+    ],
+    "dur": "13:09",
+    "views_tab": 195000
+   },
+   {
+    "id": "gB6H31Ndrlg",
+    "title": "How Transformers Help Find Low Voltage HVAC Shorts",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 12000
+   },
+   {
+    "id": "buvi6lJpaJY",
+    "title": "The Ohms / Voltage Relationship on a Multimeter",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "10:30",
+    "views_tab": 17000
+   },
+   {
+    "id": "AoM8mqNLY_s",
+    "title": "What Most Beginners Don't Learn About Multimeters (But Should)",
+    "meta": [
+     "98K",
+     "1y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 98000
+   },
+   {
+    "id": "GGzyj-N6Y8U",
+    "title": "How/When To Add Dedicated Power For Smart Tstats",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "20:53",
+    "views_tab": 15000
+   },
+   {
+    "id": "5_nGB0qtJrY",
+    "title": "PSC Motor Breakdown (Permanent Split Capacitor)",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 14000
+   },
+   {
+    "id": "kmMXiVEBMMA",
+    "title": "Mini Split Circuits / Schematics For Beginners",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 11000
+   },
+   {
+    "id": "OXL1l-1YQb0",
+    "title": "HVAC Design: Building Our Own Zoning System",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "17:51",
+    "views_tab": 9300
+   },
+   {
+    "id": "0ofbJmibjCU",
+    "title": "Building & Reading HVAC Schematics (Piece by Piece)",
+    "meta": [
+     "33K",
+     "2y ago"
+    ],
+    "dur": "25:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "ofaY0HNK5Yo",
+    "title": "How To Pull & Clean A Dirty Furnace Squirrel Cage",
+    "meta": [
+     "7K",
+     "2y ago"
+    ],
+    "dur": "17:46",
+    "views_tab": 7000
+   },
+   {
+    "id": "V6eqnz2MZpk",
+    "title": "Use Schematics To Understand Multimeter Readings & Test Points",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "xwF_iSkYX7w",
+    "title": "Using A Multimeter With HVAC Schematics",
+    "meta": [
+     "146K",
+     "2y ago"
+    ],
+    "dur": "31:30",
+    "views_tab": 146000
+   },
+   {
+    "id": "G4jlpVbE1I4",
+    "title": "How To Use Diagrams to Learn, Diagnose & Earn More",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 67000
+   },
+   {
+    "id": "zh_8KEdGRlY",
+    "title": "How To Wire a Mini Split Safety Switch",
+    "meta": [
+     "25K",
+     "2y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 25000
+   },
+   {
+    "id": "o2n2K0KOHdE",
+    "title": "Thermal signs your AC system is failing",
+    "meta": [
+     "2.8K",
+     "2y ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 2800
+   },
+   {
+    "id": "GS1_7R04WCo",
+    "title": "In The Field: Setting Blower Speed w/Static Pressure",
+    "meta": [
+     "4.5K",
+     "2y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 4500
+   },
+   {
+    "id": "WEi79QZhDqI",
+    "title": "How To: Professional AC Drain Line Assembly (Residential)",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 20000
+   },
+   {
+    "id": "nvuoYNzlWmg",
+    "title": "2 Stage Heat Pump Wiring",
+    "meta": [
+     "69K",
+     "2y ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 69000
+   },
+   {
+    "id": "HQArxNRxirQ",
+    "title": "Intro to Troubleshooting Central Air Conditioning",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 27000
+   },
+   {
+    "id": "JzV22cr0ze8",
+    "title": "How To Test If You Have A Bad Home Thermostat",
+    "meta": [
+     "82K",
+     "2y ago"
+    ],
+    "dur": "15:15",
+    "views_tab": 82000
+   },
+   {
+    "id": "7JZWoZVGmHA",
+    "title": "Avoid HVAC Related WATER DAMAGE (wiring safety switches)",
+    "meta": [
+     "29K",
+     "2y ago"
+    ],
+    "dur": "11:33",
+    "views_tab": 29000
+   },
+   {
+    "id": "V3PeA2ZIw-k",
+    "title": "Steam Circuit, Sequence & Diagnostics (Spark Ignition boiler)",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 18000
+   },
+   {
+    "id": "XlwcHw-9B9c",
+    "title": "Steam Boiler Schematic in Motion (Standing Pilot)",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 34000
+   },
+   {
+    "id": "F88Y9NkvtQw",
+    "title": "Heat Pump Electrical Sequences Explained \u2013 Fix It with the Schematic",
+    "meta": [
+     "142K",
+     "2y ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 142000
+   },
+   {
+    "id": "VtC25cV1mU0",
+    "title": "How Power Moves Through An AC System Schematic",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 67000
+   },
+   {
+    "id": "J6my_tjqB1c",
+    "title": "How To Replace A Boiler Thermocouple",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 50000
+   },
+   {
+    "id": "_kP_kw1Np3E",
+    "title": "Solve Dozens of Furnace Problems With This Process",
+    "meta": [
+     "37K",
+     "2y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 37000
+   },
+   {
+    "id": "mcfxOxr-Nvg",
+    "title": "HVAC Relays (For Beginners)",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 84000
+   },
+   {
+    "id": "_D3gdCO8XBg",
+    "title": "3 Critical Steps To Perfect Soldering",
+    "meta": [
+     "6.9K",
+     "2y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 6900
+   },
+   {
+    "id": "zHdrPuuba0s",
+    "title": "Combi Boiler Piping Explained",
+    "meta": [
+     "83K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 83000
+   },
+   {
+    "id": "QgxhqGuUfVY",
+    "title": "Triple Aquastat Basics",
+    "meta": [
+     "41K",
+     "2y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 41000
+   },
+   {
+    "id": "9kVQpeNezL0",
+    "title": "Unlocking the Mystery of Zone Valve Wiring",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 18000
+   },
+   {
+    "id": "3nSh9JjLfnk",
+    "title": "Zone Panel Wiring for Beginners",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 35000
+   },
+   {
+    "id": "gBJzVV7fm_M",
+    "title": "Defrost Control Boards (Heat Pump Wiring Basics)",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 48000
+   },
+   {
+    "id": "_38t-RPiDwI",
+    "title": "Heat Pump Wiring Basics (Universal Principles)",
+    "meta": [
+     "99K",
+     "3y ago"
+    ],
+    "dur": "15:45",
+    "views_tab": 99000
+   },
+   {
+    "id": "AMUU3EQ3qLs",
+    "title": "Heat Pump Thermostat O, B, and C Terminal Variations Explained",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 71000
+   },
+   {
+    "id": "e0no4SeDOgU",
+    "title": "Electric Heat Strips (Wiring For Beginners)",
+    "meta": [
+     "127K",
+     "3y ago"
+    ],
+    "dur": "13:49",
+    "views_tab": 127000
+   },
+   {
+    "id": "MI_YGxJ1pjY",
+    "title": "Air Handler Wiring for Beginners (Fan Relays & PSC motors)",
+    "meta": [
+     "262K",
+     "3y ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 262000
+   },
+   {
+    "id": "VG7ygGg6xvg",
+    "title": "Adding R410A Refrigerant To AC (subcool method w/TXV)",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 38000
+   },
+   {
+    "id": "1j_Dsl9GFLc",
+    "title": "Thermostat Wiring at Control Boards",
+    "meta": [
+     "262K",
+     "3y ago"
+    ],
+    "dur": "14:53",
+    "views_tab": 262000
+   },
+   {
+    "id": "7zdzgKAYJCU",
+    "title": "HVAC Diagnostics: Furnace Wiring (Breaker to Flame)",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "8:36",
+    "views_tab": 5100
+   },
+   {
+    "id": "U1Ng2k13bWM",
+    "title": "STOP depending on wire colors to learn HVAC wiring",
+    "meta": [
+     "7.5K",
+     "3y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 7500
+   },
+   {
+    "id": "Rnly4IB69MY",
+    "title": "How RIB Relays Work & What They Can Do",
+    "meta": [
+     "98K",
+     "3y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 98000
+   },
+   {
+    "id": "iKNo8utiW8U",
+    "title": "Zoning Boilers with Nest Thermostats: Low Power & WIFI Problems",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 30000
+   },
+   {
+    "id": "oWjHUBVWWpk",
+    "title": "How To Wire A Nest Power Connector to a Taco Zone Valve",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "d5IbRTZQW1U",
+    "title": "90%+ Furnace Install (Start to finish)",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "39:12",
+    "views_tab": 53000
+   },
+   {
+    "id": "p2mwySGbyuY",
+    "title": "Zone Valve Wiring In 5 Easy Steps (1 Minute Version)",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "1:15",
+    "views_tab": 17000
+   },
+   {
+    "id": "1FshjG6bmXE",
+    "title": "DIY Nest Power Connector Wiring To Zone Valve (1 minute version)",
+    "meta": [
+     "39K",
+     "3y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 39000
+   },
+   {
+    "id": "XVs0k1aaza4",
+    "title": "How To Wire A Nest Power Connector to a Honeywell Zone Valve",
+    "meta": [
+     "73K",
+     "3y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 73000
+   },
+   {
+    "id": "1o88SE0nUVA",
+    "title": "Steam Boiler Wiring for Beginners",
+    "meta": [
+     "62K",
+     "3y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 62000
+   },
+   {
+    "id": "bSeZqs8n_8M",
+    "title": "Low Water Cut Offs & Water Feeders (Steam Boilers)",
+    "meta": [
+     "46K",
+     "3y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 46000
+   },
+   {
+    "id": "F4OdgpqKkzw",
+    "title": "Purging Air From A Boiler System (Residential)",
+    "meta": [
+     "189K",
+     "3y ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 189000
+   },
+   {
+    "id": "FQ5LVt1DYOc",
+    "title": "How to wire a boiler low water cutoff (McDonnell & Miller)",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "eB8TCjX541M",
+    "title": "Boiler Wiring for Beginners \u2013 Full Walkthrough of a Real System (Honeywell L8148E + Zone Valves)",
+    "meta": [
+     "97K",
+     "3y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 97000
+   },
+   {
+    "id": "kn73V0BnSq4",
+    "title": "TACO Zone Valves For Beginners (wiring, operation, diagnostics)",
+    "meta": [
+     "93K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 93000
+   },
+   {
+    "id": "nyBbZ_AlLd4",
+    "title": "How To Wire A Boiler / Furnace Shut Off Switch",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 23000
+   },
+   {
+    "id": "h7X-epLHmkA",
+    "title": "Zone Valve Wiring In 5 Easy Steps",
+    "meta": [
+     "74K",
+     "4y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 74000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "qTqlr8y7USo",
+    "title": "HVAC Low voltage control wiring (Basics For Beginners)",
+    "meta": [
+     "352K",
+     "5y ago"
+    ],
+    "dur": "11:27",
+    "views_tab": 352000
+   },
+   {
+    "id": "jiseKgQOT2I",
+    "title": "Your AC Fan Makes a Mini Tornado",
+    "meta": [
+     "340K",
+     "1y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 340000
+   },
+   {
+    "id": "MI_YGxJ1pjY",
+    "title": "Air Handler Wiring for Beginners (Fan Relays & PSC motors)",
+    "meta": [
+     "262K",
+     "3y ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 262000
+   },
+   {
+    "id": "1j_Dsl9GFLc",
+    "title": "Thermostat Wiring at Control Boards",
+    "meta": [
+     "262K",
+     "3y ago"
+    ],
+    "dur": "14:53",
+    "views_tab": 262000
+   },
+   {
+    "id": "D7dM5TR4pD0",
+    "title": "Are Trade Schools Broken?",
+    "meta": [
+     "256K",
+     "11mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 256000
+   },
+   {
+    "id": "dlOhIcPifik",
+    "title": "Frozen AC Lines? It's NOT Always a Refrigerant Leak",
+    "meta": [
+     "217K",
+     "1y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 217000
+   },
+   {
+    "id": "er43vMSzmSU",
+    "title": "HVAC Low Voltage Control Wiring for Total Beginners",
+    "meta": [
+     "195K",
+     "1y ago"
+    ],
+    "dur": "13:09",
+    "views_tab": 195000
+   },
+   {
+    "id": "F4OdgpqKkzw",
+    "title": "Purging Air From A Boiler System (Residential)",
+    "meta": [
+     "189K",
+     "3y ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 189000
+   },
+   {
+    "id": "B39am8Bk7xY",
+    "title": "How To Make Every Room Comfortable With Better Airflow",
+    "meta": [
+     "187K",
+     "1y ago"
+    ],
+    "dur": "18:22",
+    "views_tab": 187000
+   },
+   {
+    "id": "jQklHi-nrYA",
+    "title": "Zone Valve Wiring For Beginners (Honeywell demonstration)",
+    "meta": [
+     "180K",
+     "4y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 180000
+   },
+   {
+    "id": "XtUO_A7aodQ",
+    "title": "How a 4-Wire Zone Valve Works (Wiring Diagram for Beginners)",
+    "meta": [
+     "160K",
+     "4y ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 160000
+   },
+   {
+    "id": "xwF_iSkYX7w",
+    "title": "Using A Multimeter With HVAC Schematics",
+    "meta": [
+     "146K",
+     "2y ago"
+    ],
+    "dur": "31:30",
+    "views_tab": 146000
+   },
+   {
+    "id": "F88Y9NkvtQw",
+    "title": "Heat Pump Electrical Sequences Explained \u2013 Fix It with the Schematic",
+    "meta": [
+     "142K",
+     "2y ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 142000
+   },
+   {
+    "id": "e0no4SeDOgU",
+    "title": "Electric Heat Strips (Wiring For Beginners)",
+    "meta": [
+     "127K",
+     "3y ago"
+    ],
+    "dur": "13:49",
+    "views_tab": 127000
+   },
+   {
+    "id": "eV2swvmSoHU",
+    "title": "A Mini Split That Brings in Fresh Air | Full Install",
+    "meta": [
+     "108K",
+     "1y ago"
+    ],
+    "dur": "38:39",
+    "views_tab": 108000
+   },
+   {
+    "id": "vrEgaGGD2XY",
+    "title": "Thermostat Jumper Wire Between Rh & Rc Terminals",
+    "meta": [
+     "104K",
+     "4y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 104000
+   },
+   {
+    "id": "_38t-RPiDwI",
+    "title": "Heat Pump Wiring Basics (Universal Principles)",
+    "meta": [
+     "99K",
+     "3y ago"
+    ],
+    "dur": "15:45",
+    "views_tab": 99000
+   },
+   {
+    "id": "AoM8mqNLY_s",
+    "title": "What Most Beginners Don't Learn About Multimeters (But Should)",
+    "meta": [
+     "98K",
+     "1y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 98000
+   },
+   {
+    "id": "Rnly4IB69MY",
+    "title": "How RIB Relays Work & What They Can Do",
+    "meta": [
+     "98K",
+     "3y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 98000
+   },
+   {
+    "id": "eB8TCjX541M",
+    "title": "Boiler Wiring for Beginners \u2013 Full Walkthrough of a Real System (Honeywell L8148E + Zone Valves)",
+    "meta": [
+     "97K",
+     "3y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 97000
+   },
+   {
+    "id": "kn73V0BnSq4",
+    "title": "TACO Zone Valves For Beginners (wiring, operation, diagnostics)",
+    "meta": [
+     "93K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 93000
+   },
+   {
+    "id": "mcfxOxr-Nvg",
+    "title": "HVAC Relays (For Beginners)",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 84000
+   },
+   {
+    "id": "zHdrPuuba0s",
+    "title": "Combi Boiler Piping Explained",
+    "meta": [
+     "83K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 83000
+   },
+   {
+    "id": "JzV22cr0ze8",
+    "title": "How To Test If You Have A Bad Home Thermostat",
+    "meta": [
+     "82K",
+     "2y ago"
+    ],
+    "dur": "15:15",
+    "views_tab": 82000
+   },
+   {
+    "id": "G-QCKfQA530",
+    "title": "Static Pressure: What It Is, Why It Matters, and How to Read It",
+    "meta": [
+     "79K",
+     "1y ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 79000
+   },
+   {
+    "id": "YK13wkSIBxs",
+    "title": "Most People Aren't Built For The Trades",
+    "meta": [
+     "77K",
+     "3mo ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 77000
+   },
+   {
+    "id": "h7X-epLHmkA",
+    "title": "Zone Valve Wiring In 5 Easy Steps",
+    "meta": [
+     "74K",
+     "4y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 74000
+   },
+   {
+    "id": "XVs0k1aaza4",
+    "title": "How To Wire A Nest Power Connector to a Honeywell Zone Valve",
+    "meta": [
+     "73K",
+     "3y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 73000
+   },
+   {
+    "id": "WQyTbd6ed8M",
+    "title": "The Refrigeration Cycle Put Plainly for Diagnostics",
+    "meta": [
+     "73K",
+     "2w ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 73000
+   },
+   {
+    "id": "AMUU3EQ3qLs",
+    "title": "Heat Pump Thermostat O, B, and C Terminal Variations Explained",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 71000
+   },
+   {
+    "id": "nvuoYNzlWmg",
+    "title": "2 Stage Heat Pump Wiring",
+    "meta": [
+     "69K",
+     "2y ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 69000
+   },
+   {
+    "id": "G4jlpVbE1I4",
+    "title": "How To Use Diagrams to Learn, Diagnose & Earn More",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 67000
+   },
+   {
+    "id": "VtC25cV1mU0",
+    "title": "How Power Moves Through An AC System Schematic",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 67000
+   },
+   {
+    "id": "1o88SE0nUVA",
+    "title": "Steam Boiler Wiring for Beginners",
+    "meta": [
+     "62K",
+     "3y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 62000
+   },
+   {
+    "id": "dSJrZ0_tISc",
+    "title": "HVAC Diagnostics: What Does Superheat Tell Us?",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 58000
+   },
+   {
+    "id": "d5IbRTZQW1U",
+    "title": "90%+ Furnace Install (Start to finish)",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "39:12",
+    "views_tab": 53000
+   },
+   {
+    "id": "J6my_tjqB1c",
+    "title": "How To Replace A Boiler Thermocouple",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 50000
+   },
+   {
+    "id": "gBJzVV7fm_M",
+    "title": "Defrost Control Boards (Heat Pump Wiring Basics)",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 48000
+   },
+   {
+    "id": "bSeZqs8n_8M",
+    "title": "Low Water Cut Offs & Water Feeders (Steam Boilers)",
+    "meta": [
+     "46K",
+     "3y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 46000
+   },
+   {
+    "id": "lVlmGXOtOsw",
+    "title": "Introducing The Magnetocaloric Heat Pump",
+    "meta": [
+     "43K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 43000
+   },
+   {
+    "id": "QgxhqGuUfVY",
+    "title": "Triple Aquastat Basics",
+    "meta": [
+     "41K",
+     "2y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 41000
+   },
+   {
+    "id": "V6eqnz2MZpk",
+    "title": "Use Schematics To Understand Multimeter Readings & Test Points",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "1FshjG6bmXE",
+    "title": "DIY Nest Power Connector Wiring To Zone Valve (1 minute version)",
+    "meta": [
+     "39K",
+     "3y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 39000
+   },
+   {
+    "id": "VG7ygGg6xvg",
+    "title": "Adding R410A Refrigerant To AC (subcool method w/TXV)",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 38000
+   },
+   {
+    "id": "_kP_kw1Np3E",
+    "title": "Solve Dozens of Furnace Problems With This Process",
+    "meta": [
+     "37K",
+     "2y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 37000
+   },
+   {
+    "id": "so0oj5py5ZI",
+    "title": "When HVAC Pressures Go Crazy: Dirty Condenser Coils",
+    "meta": [
+     "37K",
+     "1y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 37000
+   },
+   {
+    "id": "YwLw85XjKeQ",
+    "title": "New Refrigerant. New Rules. New Control Wiring...",
+    "meta": [
+     "36K",
+     "1y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 36000
+   },
+   {
+    "id": "PnhcFCz4PvA",
+    "title": "Variable Speed ECM Motors: Wiring, Control & Diagnostics",
+    "meta": [
+     "35K",
+     "1y ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 35000
+   },
+   {
+    "id": "3nSh9JjLfnk",
+    "title": "Zone Panel Wiring for Beginners",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 35000
+   },
+   {
+    "id": "XlwcHw-9B9c",
+    "title": "Steam Boiler Schematic in Motion (Standing Pilot)",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 34000
+   },
+   {
+    "id": "0ofbJmibjCU",
+    "title": "Building & Reading HVAC Schematics (Piece by Piece)",
+    "meta": [
+     "33K",
+     "2y ago"
+    ],
+    "dur": "25:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "oWjHUBVWWpk",
+    "title": "How To Wire A Nest Power Connector to a Taco Zone Valve",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "JT6QOrnsxC8",
+    "title": "The Superheat Lesson NOBODY Teaches",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 32000
+   },
+   {
+    "id": "iKNo8utiW8U",
+    "title": "Zoning Boilers with Nest Thermostats: Low Power & WIFI Problems",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 30000
+   },
+   {
+    "id": "7JZWoZVGmHA",
+    "title": "Avoid HVAC Related WATER DAMAGE (wiring safety switches)",
+    "meta": [
+     "29K",
+     "2y ago"
+    ],
+    "dur": "11:33",
+    "views_tab": 29000
+   },
+   {
+    "id": "iyw_0JmJTvM",
+    "title": "Furnace won\u2019t stay lit? Easy Fix DIY Videos ALWAYS Skip",
+    "meta": [
+     "29K",
+     "11mo ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 29000
+   },
+   {
+    "id": "HQArxNRxirQ",
+    "title": "Intro to Troubleshooting Central Air Conditioning",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 27000
+   },
+   {
+    "id": "wo1lauAL8cg",
+    "title": "No C Wire? This Smart Thermostat Trick Changes Everything",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "18:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "zh_8KEdGRlY",
+    "title": "How To Wire a Mini Split Safety Switch",
+    "meta": [
+     "25K",
+     "2y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 25000
+   },
+   {
+    "id": "FQ5LVt1DYOc",
+    "title": "How to wire a boiler low water cutoff (McDonnell & Miller)",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "nyBbZ_AlLd4",
+    "title": "How To Wire A Boiler / Furnace Shut Off Switch",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 23000
+   },
+   {
+    "id": "wvz1cU9Y7AQ",
+    "title": "I Tracked Every Watt: The Truth About Mini Split Performance",
+    "meta": [
+     "Jersey Mike HVAC",
+     "and ACiQ",
+     "23K",
+     "7mo ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 23000
+   },
+   {
+    "id": "HnSnuqS9-eE",
+    "title": "The Ugly Truth About Motor Efficiency in HVAC",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 22000
+   },
+   {
+    "id": "1NgLy3KHwos",
+    "title": "Avoiding TXV Confusion & Misdiagnosis",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 21000
+   },
+   {
+    "id": "IhxK_RumL38",
+    "title": "What does a capacitor ACTUALLY DO?",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 21000
+   },
+   {
+    "id": "WEi79QZhDqI",
+    "title": "How To: Professional AC Drain Line Assembly (Residential)",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 20000
+   },
+   {
+    "id": "pSB6WgIdwoM",
+    "title": "What Happens When Each Part Of Your AC System FAILS?",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 20000
+   },
+   {
+    "id": "ylv2dMB51Z0",
+    "title": "I Built a Miniature Duct System to Show What Ruins Airflow",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 19000
+   },
+   {
+    "id": "TPBmmMpMebg",
+    "title": "What Does Subcooling Tell Us About AC Systems?",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 19000
+   },
+   {
+    "id": "rK8OxthS_JU",
+    "title": "The Refrigeration Cycle Controls, Changing Conditions & Diagnostics",
+    "meta": [
+     "19K",
+     "7d ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 19000
+   },
+   {
+    "id": "V3PeA2ZIw-k",
+    "title": "Steam Circuit, Sequence & Diagnostics (Spark Ignition boiler)",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 18000
+   },
+   {
+    "id": "9kVQpeNezL0",
+    "title": "Unlocking the Mystery of Zone Valve Wiring",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 18000
+   },
+   {
+    "id": "buvi6lJpaJY",
+    "title": "The Ohms / Voltage Relationship on a Multimeter",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "10:30",
+    "views_tab": 17000
+   },
+   {
+    "id": "p2mwySGbyuY",
+    "title": "Zone Valve Wiring In 5 Easy Steps (1 Minute Version)",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "1:15",
+    "views_tab": 17000
+   },
+   {
+    "id": "dJ8wIvT1su8",
+    "title": "Heat Rise Test / Gas Valve Adjustment",
+    "meta": [
+     "17K",
+     "4y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 17000
+   },
+   {
+    "id": "RKMQk2WOwAY",
+    "title": "Learn HVAC Diagnostics: Starter Blueprint",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 16000
+   },
+   {
+    "id": "GGzyj-N6Y8U",
+    "title": "How/When To Add Dedicated Power For Smart Tstats",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "20:53",
+    "views_tab": 15000
+   },
+   {
+    "id": "b5oduvEjO4E",
+    "title": "How To Use HVAC Schematics In Troubleshooting",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 14000
+   },
+   {
+    "id": "XvqTomPHogg",
+    "title": "Tackling Pressure Switch Confusion | Service Call Breakdown",
+    "meta": [
+     "14K",
+     "9mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 14000
+   },
+   {
+    "id": "5_nGB0qtJrY",
+    "title": "PSC Motor Breakdown (Permanent Split Capacitor)",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 14000
+   },
+   {
+    "id": "4ERgdc_RRBE",
+    "title": "Thermostat Terminals Fully Explained",
+    "meta": [
+     "14K",
+     "10mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 14000
+   },
+   {
+    "id": "jwLxQmBYEB8",
+    "title": "Learn HVAC Diagnostics: End Confusing Readings",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 14000
+   },
+   {
+    "id": "--G-npPjX2Y",
+    "title": "4 Wires, 1 Boiler: How Zone Valves Really Work",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 14000
+   },
+   {
+    "id": "3k0xPVKu3_Y",
+    "title": "Full Beginner Tutorial on Pressure Switch Testing",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "gB6H31Ndrlg",
+    "title": "How Transformers Help Find Low Voltage HVAC Shorts",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 12000
+   },
+   {
+    "id": "xLgWEjdoKZY",
+    "title": "A Simple Demo of Ohms Law (And Why it Matters)",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "kmMXiVEBMMA",
+    "title": "Mini Split Circuits / Schematics For Beginners",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 11000
+   },
+   {
+    "id": "wbKu_wkHsAM",
+    "title": "Furnace Won\u2019t Start: Anatomy of a Service Call",
+    "meta": [
+     "11K",
+     "10mo ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 11000
+   },
+   {
+    "id": "sFIIc1Ymcl0",
+    "title": "How To Test Start A Genteq ECM Motor Without an ECM Tester",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "1:26",
+    "views_tab": 10000
+   },
+   {
+    "id": "kJcUgyi3rzw",
+    "title": "How Multiple Pressure Switches Work (And What They Reveal)",
+    "meta": [
+     "10K",
+     "10mo ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 10000
+   },
+   {
+    "id": "OXL1l-1YQb0",
+    "title": "HVAC Design: Building Our Own Zoning System",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "17:51",
+    "views_tab": 9300
+   },
+   {
+    "id": "IRKyV9g2cBw",
+    "title": "Learn HVAC Diagnostics: 3 Tools That Make Techs GOOD",
+    "meta": [
+     "9.3K",
+     "1y ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 9300
+   },
+   {
+    "id": "wfv4zp1hod4",
+    "title": "HVAC Compressor Troubleshooting for Beginners",
+    "meta": [
+     "9.1K",
+     "1y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 9100
+   },
+   {
+    "id": "sssOcepW0S0",
+    "title": "Silent DIY Mistakes That Create HVAC Time Bombs",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 8600
+   },
+   {
+    "id": "GbxfykOlXsQ",
+    "title": "Disconnecting Hoses from an AC system",
+    "meta": [
+     "8.1K",
+     "3mo ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 8100
+   },
+   {
+    "id": "0UP0Kj-52Zg",
+    "title": "HVAC Control Board Logic \u2013 Series, Parallel & Sequence",
+    "meta": [
+     "7.8K",
+     "10mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 7800
+   },
+   {
+    "id": "U1Ng2k13bWM",
+    "title": "STOP depending on wire colors to learn HVAC wiring",
+    "meta": [
+     "7.5K",
+     "3y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 7500
+   },
+   {
+    "id": "MmKZ4zXyhq4",
+    "title": "Learn How to Fix Water Heaters In 18 Minutes",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "18:00",
+    "views_tab": 7400
+   },
+   {
+    "id": "TNNnLnfLPeo",
+    "title": "Compressors: A Look Inside HVAC\u2019s Most Important Part",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 7400
+   },
+   {
+    "id": "0wW4khmvNOo",
+    "title": "Series vs Parallel in Real HVAC Troubleshooting",
+    "meta": [
+     "7.1K",
+     "1y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 7100
+   },
+   {
+    "id": "ofaY0HNK5Yo",
+    "title": "How To Pull & Clean A Dirty Furnace Squirrel Cage",
+    "meta": [
+     "7K",
+     "2y ago"
+    ],
+    "dur": "17:46",
+    "views_tab": 7000
+   },
+   {
+    "id": "_D3gdCO8XBg",
+    "title": "3 Critical Steps To Perfect Soldering",
+    "meta": [
+     "6.9K",
+     "2y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 6900
+   },
+   {
+    "id": "oT2OZMuRiJU",
+    "title": "HVAC Thermostat Color Code Videos Are Often Wrong",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 6700
+   },
+   {
+    "id": "7e4EymfCDK8",
+    "title": "I Tested YouTube\u2019s Coil Cleaning Advice \u2013 Lazy vs Pro",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "jh38zkeHB9I",
+    "title": "Live AC Simulator (Interactive & Free)",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "rf3sAh0rRoc",
+    "title": "What Is Voltage and Why Does It Create Current?",
+    "meta": [
+     "6.2K",
+     "1y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 6200
+   },
+   {
+    "id": "6Y5i171p0pQ",
+    "title": "How Can Refrigerant Absorb AND Release Heat Without Changing Temp?",
+    "meta": [
+     "5.5K",
+     "1d ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 5500
+   },
+   {
+    "id": "4ZdagGy5TQ4",
+    "title": "Learn HVAC Diagnostics on Your Own: 03",
+    "meta": [
+     "5.3K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 5300
+   },
+   {
+    "id": "7zdzgKAYJCU",
+    "title": "HVAC Diagnostics: Furnace Wiring (Breaker to Flame)",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "8:36",
+    "views_tab": 5100
+   },
+   {
+    "id": "_ROyPJ4Y3SA",
+    "title": "How To Clock a Gas Meter",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 5000
+   },
+   {
+    "id": "tFH9fsfDtvc",
+    "title": "What Happens to Pressures When a Blower Motor Fails?",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 5000
+   },
+   {
+    "id": "k9hcY465mKs",
+    "title": "Gen Z vs Boomer in the Trades: The Blue-Collar Civil War",
+    "meta": [
+     "5K",
+     "11mo ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 5000
+   },
+   {
+    "id": "VKF207AKWm8",
+    "title": "Aluminum + Copper: Watch This Splice Cook",
+    "meta": [
+     "4.9K",
+     "9mo ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 4900
+   },
+   {
+    "id": "ixXMlBamd0Y",
+    "title": "3 Rare HVAC Interview Moves to Get Hired Immediately (No Experience)",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 4800
+   },
+   {
+    "id": "hGULYwx6TMA",
+    "title": "Heat Pump Winter Charging: Don\u2019t Chase Pressures!",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 4800
+   },
+   {
+    "id": "ZLIhm8M3gOw",
+    "title": "Seeing Static Pressure in Ductwork (Fog Test)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 4600
+   },
+   {
+    "id": "GS1_7R04WCo",
+    "title": "In The Field: Setting Blower Speed w/Static Pressure",
+    "meta": [
+     "4.5K",
+     "2y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 4500
+   },
+   {
+    "id": "SYQxYiuOa7c",
+    "title": "Does This Mini Split Really Bring In Fresh Air? (CO\u2082 + PM2.5 Test)",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 4200
+   },
+   {
+    "id": "URK6sSMSj8s",
+    "title": "What A Secondary Heat Exchanger Looks Like & How It Works",
+    "meta": [
+     "3.3K",
+     "8mo ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 3300
+   },
+   {
+    "id": "NJao147mGL0",
+    "title": "Heat Pump Vent Temperature Doesn't Tell the Whole Story",
+    "meta": [
+     "3.3K",
+     "9mo ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 3300
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "qTqlr8y7USo",
+    "title": "HVAC Low voltage control wiring (Basics For Beginners)",
+    "meta": [
+     "352K",
+     "5y ago"
+    ],
+    "dur": "11:27",
+    "views_tab": 352000
+   },
+   {
+    "id": "XtUO_A7aodQ",
+    "title": "How a 4-Wire Zone Valve Works (Wiring Diagram for Beginners)",
+    "meta": [
+     "160K",
+     "4y ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 160000
+   },
+   {
+    "id": "vrEgaGGD2XY",
+    "title": "Thermostat Jumper Wire Between Rh & Rc Terminals",
+    "meta": [
+     "104K",
+     "4y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 104000
+   },
+   {
+    "id": "jQklHi-nrYA",
+    "title": "Zone Valve Wiring For Beginners (Honeywell demonstration)",
+    "meta": [
+     "180K",
+     "4y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 180000
+   },
+   {
+    "id": "dJ8wIvT1su8",
+    "title": "Heat Rise Test / Gas Valve Adjustment",
+    "meta": [
+     "17K",
+     "4y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 17000
+   },
+   {
+    "id": "h7X-epLHmkA",
+    "title": "Zone Valve Wiring In 5 Easy Steps",
+    "meta": [
+     "74K",
+     "4y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 74000
+   },
+   {
+    "id": "nyBbZ_AlLd4",
+    "title": "How To Wire A Boiler / Furnace Shut Off Switch",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 23000
+   },
+   {
+    "id": "kn73V0BnSq4",
+    "title": "TACO Zone Valves For Beginners (wiring, operation, diagnostics)",
+    "meta": [
+     "93K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 93000
+   },
+   {
+    "id": "eB8TCjX541M",
+    "title": "Boiler Wiring for Beginners \u2013 Full Walkthrough of a Real System (Honeywell L8148E + Zone Valves)",
+    "meta": [
+     "97K",
+     "3y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 97000
+   },
+   {
+    "id": "FQ5LVt1DYOc",
+    "title": "How to wire a boiler low water cutoff (McDonnell & Miller)",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "F4OdgpqKkzw",
+    "title": "Purging Air From A Boiler System (Residential)",
+    "meta": [
+     "189K",
+     "3y ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 189000
+   },
+   {
+    "id": "bSeZqs8n_8M",
+    "title": "Low Water Cut Offs & Water Feeders (Steam Boilers)",
+    "meta": [
+     "46K",
+     "3y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 46000
+   },
+   {
+    "id": "1o88SE0nUVA",
+    "title": "Steam Boiler Wiring for Beginners",
+    "meta": [
+     "62K",
+     "3y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 62000
+   },
+   {
+    "id": "XVs0k1aaza4",
+    "title": "How To Wire A Nest Power Connector to a Honeywell Zone Valve",
+    "meta": [
+     "73K",
+     "3y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 73000
+   },
+   {
+    "id": "1FshjG6bmXE",
+    "title": "DIY Nest Power Connector Wiring To Zone Valve (1 minute version)",
+    "meta": [
+     "39K",
+     "3y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 39000
+   },
+   {
+    "id": "p2mwySGbyuY",
+    "title": "Zone Valve Wiring In 5 Easy Steps (1 Minute Version)",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "1:15",
+    "views_tab": 17000
+   },
+   {
+    "id": "d5IbRTZQW1U",
+    "title": "90%+ Furnace Install (Start to finish)",
+    "meta": [
+     "53K",
+     "3y ago"
+    ],
+    "dur": "39:12",
+    "views_tab": 53000
+   },
+   {
+    "id": "oWjHUBVWWpk",
+    "title": "How To Wire A Nest Power Connector to a Taco Zone Valve",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "iKNo8utiW8U",
+    "title": "Zoning Boilers with Nest Thermostats: Low Power & WIFI Problems",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 30000
+   },
+   {
+    "id": "Rnly4IB69MY",
+    "title": "How RIB Relays Work & What They Can Do",
+    "meta": [
+     "98K",
+     "3y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 98000
+   },
+   {
+    "id": "U1Ng2k13bWM",
+    "title": "STOP depending on wire colors to learn HVAC wiring",
+    "meta": [
+     "7.5K",
+     "3y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 7500
+   },
+   {
+    "id": "7zdzgKAYJCU",
+    "title": "HVAC Diagnostics: Furnace Wiring (Breaker to Flame)",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "8:36",
+    "views_tab": 5100
+   },
+   {
+    "id": "1j_Dsl9GFLc",
+    "title": "Thermostat Wiring at Control Boards",
+    "meta": [
+     "262K",
+     "3y ago"
+    ],
+    "dur": "14:53",
+    "views_tab": 262000
+   },
+   {
+    "id": "VG7ygGg6xvg",
+    "title": "Adding R410A Refrigerant To AC (subcool method w/TXV)",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 38000
+   },
+   {
+    "id": "MI_YGxJ1pjY",
+    "title": "Air Handler Wiring for Beginners (Fan Relays & PSC motors)",
+    "meta": [
+     "262K",
+     "3y ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 262000
+   },
+   {
+    "id": "e0no4SeDOgU",
+    "title": "Electric Heat Strips (Wiring For Beginners)",
+    "meta": [
+     "127K",
+     "3y ago"
+    ],
+    "dur": "13:49",
+    "views_tab": 127000
+   },
+   {
+    "id": "AMUU3EQ3qLs",
+    "title": "Heat Pump Thermostat O, B, and C Terminal Variations Explained",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 71000
+   },
+   {
+    "id": "_38t-RPiDwI",
+    "title": "Heat Pump Wiring Basics (Universal Principles)",
+    "meta": [
+     "99K",
+     "3y ago"
+    ],
+    "dur": "15:45",
+    "views_tab": 99000
+   },
+   {
+    "id": "gBJzVV7fm_M",
+    "title": "Defrost Control Boards (Heat Pump Wiring Basics)",
+    "meta": [
+     "48K",
+     "3y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 48000
+   },
+   {
+    "id": "3nSh9JjLfnk",
+    "title": "Zone Panel Wiring for Beginners",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 35000
+   },
+   {
+    "id": "9kVQpeNezL0",
+    "title": "Unlocking the Mystery of Zone Valve Wiring",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 18000
+   },
+   {
+    "id": "QgxhqGuUfVY",
+    "title": "Triple Aquastat Basics",
+    "meta": [
+     "41K",
+     "2y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 41000
+   },
+   {
+    "id": "zHdrPuuba0s",
+    "title": "Combi Boiler Piping Explained",
+    "meta": [
+     "83K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 83000
+   },
+   {
+    "id": "_D3gdCO8XBg",
+    "title": "3 Critical Steps To Perfect Soldering",
+    "meta": [
+     "6.9K",
+     "2y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 6900
+   },
+   {
+    "id": "mcfxOxr-Nvg",
+    "title": "HVAC Relays (For Beginners)",
+    "meta": [
+     "84K",
+     "2y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 84000
+   },
+   {
+    "id": "_kP_kw1Np3E",
+    "title": "Solve Dozens of Furnace Problems With This Process",
+    "meta": [
+     "37K",
+     "2y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 37000
+   },
+   {
+    "id": "J6my_tjqB1c",
+    "title": "How To Replace A Boiler Thermocouple",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 50000
+   },
+   {
+    "id": "VtC25cV1mU0",
+    "title": "How Power Moves Through An AC System Schematic",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 67000
+   },
+   {
+    "id": "F88Y9NkvtQw",
+    "title": "Heat Pump Electrical Sequences Explained \u2013 Fix It with the Schematic",
+    "meta": [
+     "142K",
+     "2y ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 142000
+   },
+   {
+    "id": "XlwcHw-9B9c",
+    "title": "Steam Boiler Schematic in Motion (Standing Pilot)",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 34000
+   },
+   {
+    "id": "V3PeA2ZIw-k",
+    "title": "Steam Circuit, Sequence & Diagnostics (Spark Ignition boiler)",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 18000
+   },
+   {
+    "id": "7JZWoZVGmHA",
+    "title": "Avoid HVAC Related WATER DAMAGE (wiring safety switches)",
+    "meta": [
+     "29K",
+     "2y ago"
+    ],
+    "dur": "11:33",
+    "views_tab": 29000
+   },
+   {
+    "id": "JzV22cr0ze8",
+    "title": "How To Test If You Have A Bad Home Thermostat",
+    "meta": [
+     "82K",
+     "2y ago"
+    ],
+    "dur": "15:15",
+    "views_tab": 82000
+   },
+   {
+    "id": "HQArxNRxirQ",
+    "title": "Intro to Troubleshooting Central Air Conditioning",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 27000
+   },
+   {
+    "id": "nvuoYNzlWmg",
+    "title": "2 Stage Heat Pump Wiring",
+    "meta": [
+     "69K",
+     "2y ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 69000
+   },
+   {
+    "id": "WEi79QZhDqI",
+    "title": "How To: Professional AC Drain Line Assembly (Residential)",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 20000
+   },
+   {
+    "id": "GS1_7R04WCo",
+    "title": "In The Field: Setting Blower Speed w/Static Pressure",
+    "meta": [
+     "4.5K",
+     "2y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 4500
+   },
+   {
+    "id": "o2n2K0KOHdE",
+    "title": "Thermal signs your AC system is failing",
+    "meta": [
+     "2.8K",
+     "2y ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 2800
+   },
+   {
+    "id": "zh_8KEdGRlY",
+    "title": "How To Wire a Mini Split Safety Switch",
+    "meta": [
+     "25K",
+     "2y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 25000
+   },
+   {
+    "id": "G4jlpVbE1I4",
+    "title": "How To Use Diagrams to Learn, Diagnose & Earn More",
+    "meta": [
+     "67K",
+     "2y ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 67000
+   },
+   {
+    "id": "xwF_iSkYX7w",
+    "title": "Using A Multimeter With HVAC Schematics",
+    "meta": [
+     "146K",
+     "2y ago"
+    ],
+    "dur": "31:30",
+    "views_tab": 146000
+   },
+   {
+    "id": "V6eqnz2MZpk",
+    "title": "Use Schematics To Understand Multimeter Readings & Test Points",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "ofaY0HNK5Yo",
+    "title": "How To Pull & Clean A Dirty Furnace Squirrel Cage",
+    "meta": [
+     "7K",
+     "2y ago"
+    ],
+    "dur": "17:46",
+    "views_tab": 7000
+   },
+   {
+    "id": "0ofbJmibjCU",
+    "title": "Building & Reading HVAC Schematics (Piece by Piece)",
+    "meta": [
+     "33K",
+     "2y ago"
+    ],
+    "dur": "25:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "OXL1l-1YQb0",
+    "title": "HVAC Design: Building Our Own Zoning System",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "17:51",
+    "views_tab": 9300
+   },
+   {
+    "id": "kmMXiVEBMMA",
+    "title": "Mini Split Circuits / Schematics For Beginners",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 11000
+   },
+   {
+    "id": "5_nGB0qtJrY",
+    "title": "PSC Motor Breakdown (Permanent Split Capacitor)",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 14000
+   },
+   {
+    "id": "GGzyj-N6Y8U",
+    "title": "How/When To Add Dedicated Power For Smart Tstats",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "20:53",
+    "views_tab": 15000
+   },
+   {
+    "id": "AoM8mqNLY_s",
+    "title": "What Most Beginners Don't Learn About Multimeters (But Should)",
+    "meta": [
+     "98K",
+     "1y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 98000
+   },
+   {
+    "id": "buvi6lJpaJY",
+    "title": "The Ohms / Voltage Relationship on a Multimeter",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "10:30",
+    "views_tab": 17000
+   },
+   {
+    "id": "gB6H31Ndrlg",
+    "title": "How Transformers Help Find Low Voltage HVAC Shorts",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 12000
+   },
+   {
+    "id": "er43vMSzmSU",
+    "title": "HVAC Low Voltage Control Wiring for Total Beginners",
+    "meta": [
+     "195K",
+     "1y ago"
+    ],
+    "dur": "13:09",
+    "views_tab": 195000
+   },
+   {
+    "id": "Iqn26nRqZ7U",
+    "title": "How To: Manual Swaging Tool + Giveaway (IWISS)",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "xLgWEjdoKZY",
+    "title": "A Simple Demo of Ohms Law (And Why it Matters)",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "lVlmGXOtOsw",
+    "title": "Introducing The Magnetocaloric Heat Pump",
+    "meta": [
+     "43K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 43000
+   },
+   {
+    "id": "rf3sAh0rRoc",
+    "title": "What Is Voltage and Why Does It Create Current?",
+    "meta": [
+     "6.2K",
+     "1y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 6200
+   },
+   {
+    "id": "oT2OZMuRiJU",
+    "title": "HVAC Thermostat Color Code Videos Are Often Wrong",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 6700
+   },
+   {
+    "id": "wo1lauAL8cg",
+    "title": "No C Wire? This Smart Thermostat Trick Changes Everything",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "18:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "3k0xPVKu3_Y",
+    "title": "Full Beginner Tutorial on Pressure Switch Testing",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "RKMQk2WOwAY",
+    "title": "Learn HVAC Diagnostics: Starter Blueprint",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 16000
+   },
+   {
+    "id": "0wW4khmvNOo",
+    "title": "Series vs Parallel in Real HVAC Troubleshooting",
+    "meta": [
+     "7.1K",
+     "1y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 7100
+   },
+   {
+    "id": "4ZdagGy5TQ4",
+    "title": "Learn HVAC Diagnostics on Your Own: 03",
+    "meta": [
+     "5.3K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 5300
+   },
+   {
+    "id": "YwLw85XjKeQ",
+    "title": "New Refrigerant. New Rules. New Control Wiring...",
+    "meta": [
+     "36K",
+     "1y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 36000
+   },
+   {
+    "id": "jwLxQmBYEB8",
+    "title": "Learn HVAC Diagnostics: End Confusing Readings",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 14000
+   },
+   {
+    "id": "IRKyV9g2cBw",
+    "title": "Learn HVAC Diagnostics: 3 Tools That Make Techs GOOD",
+    "meta": [
+     "9.3K",
+     "1y ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 9300
+   },
+   {
+    "id": "dlOhIcPifik",
+    "title": "Frozen AC Lines? It's NOT Always a Refrigerant Leak",
+    "meta": [
+     "217K",
+     "1y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 217000
+   },
+   {
+    "id": "pSB6WgIdwoM",
+    "title": "What Happens When Each Part Of Your AC System FAILS?",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 20000
+   },
+   {
+    "id": "b5oduvEjO4E",
+    "title": "How To Use HVAC Schematics In Troubleshooting",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 14000
+   },
+   {
+    "id": "wfv4zp1hod4",
+    "title": "HVAC Compressor Troubleshooting for Beginners",
+    "meta": [
+     "9.1K",
+     "1y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 9100
+   },
+   {
+    "id": "TNNnLnfLPeo",
+    "title": "Compressors: A Look Inside HVAC\u2019s Most Important Part",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 7400
+   },
+   {
+    "id": "IhxK_RumL38",
+    "title": "What does a capacitor ACTUALLY DO?",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 21000
+   },
+   {
+    "id": "dSJrZ0_tISc",
+    "title": "HVAC Diagnostics: What Does Superheat Tell Us?",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 58000
+   },
+   {
+    "id": "TPBmmMpMebg",
+    "title": "What Does Subcooling Tell Us About AC Systems?",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 19000
+   },
+   {
+    "id": "so0oj5py5ZI",
+    "title": "When HVAC Pressures Go Crazy: Dirty Condenser Coils",
+    "meta": [
+     "37K",
+     "1y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 37000
+   },
+   {
+    "id": "tFH9fsfDtvc",
+    "title": "What Happens to Pressures When a Blower Motor Fails?",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 5000
+   },
+   {
+    "id": "1NgLy3KHwos",
+    "title": "Avoiding TXV Confusion & Misdiagnosis",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 21000
+   },
+   {
+    "id": "MmKZ4zXyhq4",
+    "title": "Learn How to Fix Water Heaters In 18 Minutes",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "18:00",
+    "views_tab": 7400
+   },
+   {
+    "id": "JT6QOrnsxC8",
+    "title": "The Superheat Lesson NOBODY Teaches",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 32000
+   },
+   {
+    "id": "7e4EymfCDK8",
+    "title": "I Tested YouTube\u2019s Coil Cleaning Advice \u2013 Lazy vs Pro",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "eV2swvmSoHU",
+    "title": "A Mini Split That Brings in Fresh Air | Full Install",
+    "meta": [
+     "108K",
+     "1y ago"
+    ],
+    "dur": "38:39",
+    "views_tab": 108000
+   },
+   {
+    "id": "SYQxYiuOa7c",
+    "title": "Does This Mini Split Really Bring In Fresh Air? (CO\u2082 + PM2.5 Test)",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 4200
+   },
+   {
+    "id": "B39am8Bk7xY",
+    "title": "How To Make Every Room Comfortable With Better Airflow",
+    "meta": [
+     "187K",
+     "1y ago"
+    ],
+    "dur": "18:22",
+    "views_tab": 187000
+   },
+   {
+    "id": "G-QCKfQA530",
+    "title": "Static Pressure: What It Is, Why It Matters, and How to Read It",
+    "meta": [
+     "79K",
+     "1y ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 79000
+   },
+   {
+    "id": "ylv2dMB51Z0",
+    "title": "I Built a Miniature Duct System to Show What Ruins Airflow",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 19000
+   },
+   {
+    "id": "jiseKgQOT2I",
+    "title": "Your AC Fan Makes a Mini Tornado",
+    "meta": [
+     "340K",
+     "1y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 340000
+   },
+   {
+    "id": "ZLIhm8M3gOw",
+    "title": "Seeing Static Pressure in Ductwork (Fog Test)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 4600
+   },
+   {
+    "id": "--G-npPjX2Y",
+    "title": "4 Wires, 1 Boiler: How Zone Valves Really Work",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 14000
+   },
+   {
+    "id": "HnSnuqS9-eE",
+    "title": "The Ugly Truth About Motor Efficiency in HVAC",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 22000
+   },
+   {
+    "id": "PnhcFCz4PvA",
+    "title": "Variable Speed ECM Motors: Wiring, Control & Diagnostics",
+    "meta": [
+     "35K",
+     "1y ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 35000
+   },
+   {
+    "id": "sFIIc1Ymcl0",
+    "title": "How To Test Start A Genteq ECM Motor Without an ECM Tester",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "1:26",
+    "views_tab": 10000
+   },
+   {
+    "id": "sssOcepW0S0",
+    "title": "Silent DIY Mistakes That Create HVAC Time Bombs",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 8600
+   },
+   {
+    "id": "_ROyPJ4Y3SA",
+    "title": "How To Clock a Gas Meter",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 5000
+   },
+   {
+    "id": "--cBhNH5FiA",
+    "title": "I Say No to 99% of Free Tools... But Not These",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 2100
+   },
+   {
+    "id": "jh38zkeHB9I",
+    "title": "Live AC Simulator (Interactive & Free)",
+    "meta": [
+     "6.4K",
+     "1y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 6400
+   },
+   {
+    "id": "3mlX4wktmaQ",
+    "title": "Why AC/Heat Systems Don't Care About Square Feet",
+    "meta": [
+     "2K",
+     "11mo ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 2000
+   },
+   {
+    "id": "iyw_0JmJTvM",
+    "title": "Furnace won\u2019t stay lit? Easy Fix DIY Videos ALWAYS Skip",
+    "meta": [
+     "29K",
+     "11mo ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 29000
+   },
+   {
+    "id": "D7dM5TR4pD0",
+    "title": "Are Trade Schools Broken?",
+    "meta": [
+     "256K",
+     "11mo ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 256000
+   },
+   {
+    "id": "k9hcY465mKs",
+    "title": "Gen Z vs Boomer in the Trades: The Blue-Collar Civil War",
+    "meta": [
+     "5K",
+     "11mo ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 5000
+   },
+   {
+    "id": "0UP0Kj-52Zg",
+    "title": "HVAC Control Board Logic \u2013 Series, Parallel & Sequence",
+    "meta": [
+     "7.8K",
+     "10mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 7800
+   },
+   {
+    "id": "4ERgdc_RRBE",
+    "title": "Thermostat Terminals Fully Explained",
+    "meta": [
+     "14K",
+     "10mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 14000
+   },
+   {
+    "id": "wbKu_wkHsAM",
+    "title": "Furnace Won\u2019t Start: Anatomy of a Service Call",
+    "meta": [
+     "11K",
+     "10mo ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 11000
+   },
+   {
+    "id": "kJcUgyi3rzw",
+    "title": "How Multiple Pressure Switches Work (And What They Reveal)",
+    "meta": [
+     "10K",
+     "10mo ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 10000
+   },
+   {
+    "id": "VKF207AKWm8",
+    "title": "Aluminum + Copper: Watch This Splice Cook",
+    "meta": [
+     "4.9K",
+     "9mo ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 4900
+   },
+   {
+    "id": "ixXMlBamd0Y",
+    "title": "3 Rare HVAC Interview Moves to Get Hired Immediately (No Experience)",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 4800
+   },
+   {
+    "id": "hGULYwx6TMA",
+    "title": "Heat Pump Winter Charging: Don\u2019t Chase Pressures!",
+    "meta": [
+     "4.8K",
+     "9mo ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 4800
+   },
+   {
+    "id": "XvqTomPHogg",
+    "title": "Tackling Pressure Switch Confusion | Service Call Breakdown",
+    "meta": [
+     "14K",
+     "9mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 14000
+   },
+   {
+    "id": "NJao147mGL0",
+    "title": "Heat Pump Vent Temperature Doesn't Tell the Whole Story",
+    "meta": [
+     "3.3K",
+     "9mo ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 3300
+   },
+   {
+    "id": "URK6sSMSj8s",
+    "title": "What A Secondary Heat Exchanger Looks Like & How It Works",
+    "meta": [
+     "3.3K",
+     "8mo ago"
+    ],
+    "dur": "2:36",
+    "views_tab": 3300
+   },
+   {
+    "id": "wvz1cU9Y7AQ",
+    "title": "I Tracked Every Watt: The Truth About Mini Split Performance",
+    "meta": [
+     "Jersey Mike HVAC",
+     "and ACiQ",
+     "23K",
+     "7mo ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 23000
+   },
+   {
+    "id": "YK13wkSIBxs",
+    "title": "Most People Aren't Built For The Trades",
+    "meta": [
+     "77K",
+     "3mo ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 77000
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "key": "UC9cDwLvkUpIxCkgk5cznhGQ",
+ "channel": "True Blue Heating & Cooling",
+ "id": "UC9cDwLvkUpIxCkgk5cznhGQ",
+ "subs": "927 subscribers",
+ "videos": "3 videos",
+ "pulled": "2026-10-26T06:51:16.271137+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "dxVMUaedALE",
+    "title": "OPERATION COOLDOWN",
+    "meta": [
+     "92",
+     "1y ago"
+    ],
+    "dur": "0:31",
+    "views_tab": 92
+   },
+   {
+    "id": "hQaQ-aOVij0",
+    "title": "HVAC Pressure Switch Opened or Closed",
+    "meta": [
+     "572K",
+     "8y ago"
+    ],
+    "dur": "6:57",
+    "views_tab": 572000
+   },
+   {
+    "id": "2GuWIUe5KqA",
+    "title": "HVAC Flame Sensor Diagnosis and Cleaning Tutorial",
+    "meta": [
+     "5.5K",
+     "8y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 5500
+   }
+  ],
+  "Latest": null,
+  "Popular": null,
+  "Oldest": null
+ }
+}

@@ -1,0 +1,545 @@
+{
+ "key": "UC6EW0tYE0Vthw-Xjz0-2BOA",
+ "channel": "Ray",
+ "id": "UC6EW0tYE0Vthw-Xjz0-2BOA",
+ "subs": "309 subscribers",
+ "videos": "13 videos",
+ "pulled": "2026-10-26T06:49:39.384133+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "ylDFl6AIhpQ",
+    "title": "The $8 Earth Battery Is Going Viral (Here's How Much Power It Makes)",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 1800
+   },
+   {
+    "id": "lUGmZi8FlGc",
+    "title": "Skip The $4,000 Generator (This $60 Alternator Does It)",
+    "meta": [
+     "1.6K",
+     "1mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 1600
+   },
+   {
+    "id": "kDDyCC_H9ls",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "244",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 244
+   },
+   {
+    "id": "VeitSkQT9WU",
+    "title": "The $30 AC Filter Is Destroying Your HVAC System",
+    "meta": [
+     "154",
+     "1mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 154
+   },
+   {
+    "id": "aOFenWraey0",
+    "title": "5 Thermostat Habits That Wear Out Your AC Years Early",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:37",
+    "views_tab": 2000
+   },
+   {
+    "id": "YQU_qd3Elt0",
+    "title": "5 Energy Bill Mistakes Utility Companies Hope You Keep Making",
+    "meta": [
+     "245",
+     "1mo ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 245
+   },
+   {
+    "id": "74ZXFtrxK9c",
+    "title": "This $200 Salt Battery Lasts 30 Years. Why Is It Hidden?",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "23:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "poybqL_TF9Q",
+    "title": "STOP Buying $5,000 Home Batteries. Grab This $79 Walmart One",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "Qu5YNGYkMHw",
+    "title": "The Fuel Cell America Will Not Let You Buy",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 1300
+   },
+   {
+    "id": "bz61wpXECdE",
+    "title": "Is It Illegal To Go Off Grid? A Lineman Reads The Rules",
+    "meta": [
+     "589",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 589
+   },
+   {
+    "id": "pxeYcbuNa78",
+    "title": "STOP Replacing Dead Lithium. The $5 BATTERY That Lasts 100 YEARS",
+    "meta": [
+     "422",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 422
+   },
+   {
+    "id": "fkzq5hnKKEE",
+    "title": "Never Buy a Generator Again \u2014 You Already Own One in Your Driveway",
+    "meta": [
+     "2.5K",
+     "1mo ago"
+    ],
+    "dur": "21:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "MlrIAWIDI3Q",
+    "title": "The REAL Reason It's Illegal to Fully Unplug From the Grid \u2014 a 35-Year Lineman Tells the Truth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 23000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "ylDFl6AIhpQ",
+    "title": "The $8 Earth Battery Is Going Viral (Here's How Much Power It Makes)",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 1800
+   },
+   {
+    "id": "lUGmZi8FlGc",
+    "title": "Skip The $4,000 Generator (This $60 Alternator Does It)",
+    "meta": [
+     "1.6K",
+     "1mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 1600
+   },
+   {
+    "id": "kDDyCC_H9ls",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "244",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 244
+   },
+   {
+    "id": "VeitSkQT9WU",
+    "title": "The $30 AC Filter Is Destroying Your HVAC System",
+    "meta": [
+     "154",
+     "1mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 154
+   },
+   {
+    "id": "aOFenWraey0",
+    "title": "5 Thermostat Habits That Wear Out Your AC Years Early",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:37",
+    "views_tab": 2000
+   },
+   {
+    "id": "YQU_qd3Elt0",
+    "title": "5 Energy Bill Mistakes Utility Companies Hope You Keep Making",
+    "meta": [
+     "245",
+     "1mo ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 245
+   },
+   {
+    "id": "74ZXFtrxK9c",
+    "title": "This $200 Salt Battery Lasts 30 Years. Why Is It Hidden?",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "23:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "poybqL_TF9Q",
+    "title": "STOP Buying $5,000 Home Batteries. Grab This $79 Walmart One",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "Qu5YNGYkMHw",
+    "title": "The Fuel Cell America Will Not Let You Buy",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 1300
+   },
+   {
+    "id": "bz61wpXECdE",
+    "title": "Is It Illegal To Go Off Grid? A Lineman Reads The Rules",
+    "meta": [
+     "589",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 589
+   },
+   {
+    "id": "pxeYcbuNa78",
+    "title": "STOP Replacing Dead Lithium. The $5 BATTERY That Lasts 100 YEARS",
+    "meta": [
+     "422",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 422
+   },
+   {
+    "id": "fkzq5hnKKEE",
+    "title": "Never Buy a Generator Again \u2014 You Already Own One in Your Driveway",
+    "meta": [
+     "2.5K",
+     "1mo ago"
+    ],
+    "dur": "21:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "MlrIAWIDI3Q",
+    "title": "The REAL Reason It's Illegal to Fully Unplug From the Grid \u2014 a 35-Year Lineman Tells the Truth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 23000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "MlrIAWIDI3Q",
+    "title": "The REAL Reason It's Illegal to Fully Unplug From the Grid \u2014 a 35-Year Lineman Tells the Truth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 23000
+   },
+   {
+    "id": "poybqL_TF9Q",
+    "title": "STOP Buying $5,000 Home Batteries. Grab This $79 Walmart One",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "fkzq5hnKKEE",
+    "title": "Never Buy a Generator Again \u2014 You Already Own One in Your Driveway",
+    "meta": [
+     "2.5K",
+     "1mo ago"
+    ],
+    "dur": "21:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "aOFenWraey0",
+    "title": "5 Thermostat Habits That Wear Out Your AC Years Early",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:37",
+    "views_tab": 2000
+   },
+   {
+    "id": "ylDFl6AIhpQ",
+    "title": "The $8 Earth Battery Is Going Viral (Here's How Much Power It Makes)",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 1800
+   },
+   {
+    "id": "lUGmZi8FlGc",
+    "title": "Skip The $4,000 Generator (This $60 Alternator Does It)",
+    "meta": [
+     "1.6K",
+     "1mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 1600
+   },
+   {
+    "id": "74ZXFtrxK9c",
+    "title": "This $200 Salt Battery Lasts 30 Years. Why Is It Hidden?",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "23:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "Qu5YNGYkMHw",
+    "title": "The Fuel Cell America Will Not Let You Buy",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 1300
+   },
+   {
+    "id": "bz61wpXECdE",
+    "title": "Is It Illegal To Go Off Grid? A Lineman Reads The Rules",
+    "meta": [
+     "589",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 589
+   },
+   {
+    "id": "pxeYcbuNa78",
+    "title": "STOP Replacing Dead Lithium. The $5 BATTERY That Lasts 100 YEARS",
+    "meta": [
+     "422",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 422
+   },
+   {
+    "id": "YQU_qd3Elt0",
+    "title": "5 Energy Bill Mistakes Utility Companies Hope You Keep Making",
+    "meta": [
+     "245",
+     "1mo ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 245
+   },
+   {
+    "id": "kDDyCC_H9ls",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "244",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 244
+   },
+   {
+    "id": "VeitSkQT9WU",
+    "title": "The $30 AC Filter Is Destroying Your HVAC System",
+    "meta": [
+     "154",
+     "1mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 154
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "MlrIAWIDI3Q",
+    "title": "The REAL Reason It's Illegal to Fully Unplug From the Grid \u2014 a 35-Year Lineman Tells the Truth",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 23000
+   },
+   {
+    "id": "fkzq5hnKKEE",
+    "title": "Never Buy a Generator Again \u2014 You Already Own One in Your Driveway",
+    "meta": [
+     "2.5K",
+     "1mo ago"
+    ],
+    "dur": "21:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "pxeYcbuNa78",
+    "title": "STOP Replacing Dead Lithium. The $5 BATTERY That Lasts 100 YEARS",
+    "meta": [
+     "422",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 422
+   },
+   {
+    "id": "bz61wpXECdE",
+    "title": "Is It Illegal To Go Off Grid? A Lineman Reads The Rules",
+    "meta": [
+     "589",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 589
+   },
+   {
+    "id": "Qu5YNGYkMHw",
+    "title": "The Fuel Cell America Will Not Let You Buy",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 1300
+   },
+   {
+    "id": "poybqL_TF9Q",
+    "title": "STOP Buying $5,000 Home Batteries. Grab This $79 Walmart One",
+    "meta": [
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "74ZXFtrxK9c",
+    "title": "This $200 Salt Battery Lasts 30 Years. Why Is It Hidden?",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "23:22",
+    "views_tab": 1400
+   },
+   {
+    "id": "YQU_qd3Elt0",
+    "title": "5 Energy Bill Mistakes Utility Companies Hope You Keep Making",
+    "meta": [
+     "245",
+     "1mo ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 245
+   },
+   {
+    "id": "aOFenWraey0",
+    "title": "5 Thermostat Habits That Wear Out Your AC Years Early",
+    "meta": [
+     "2K",
+     "1mo ago"
+    ],
+    "dur": "15:37",
+    "views_tab": 2000
+   },
+   {
+    "id": "VeitSkQT9WU",
+    "title": "The $30 AC Filter Is Destroying Your HVAC System",
+    "meta": [
+     "154",
+     "1mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 154
+   },
+   {
+    "id": "kDDyCC_H9ls",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "244",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 244
+   },
+   {
+    "id": "lUGmZi8FlGc",
+    "title": "Skip The $4,000 Generator (This $60 Alternator Does It)",
+    "meta": [
+     "1.6K",
+     "1mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 1600
+   },
+   {
+    "id": "ylDFl6AIhpQ",
+    "title": "The $8 Earth Battery Is Going Viral (Here's How Much Power It Makes)",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 1800
+   }
+  ]
+ }
+}

@@ -1,0 +1,505 @@
+{
+ "key": "UCxWrRNDmljcpHAsUxUJ_tMg",
+ "channel": "Off-Grid Blueprint",
+ "id": "UCxWrRNDmljcpHAsUxUJ_tMg",
+ "subs": "58 subscribers",
+ "videos": "12 videos",
+ "pulled": "2026-10-26T07:06:47.150378+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "PCZK6rKx6AQ",
+    "title": "Inside The $1,600 Micro Dome Home America Refuses To Build",
+    "meta": [
+     "8",
+     "3d ago"
+    ],
+    "dur": "22:40",
+    "views_tab": 8
+   },
+   {
+    "id": "RYawEVPMlZ8",
+    "title": "5 Ingenious Ways to Heat Your Home Without Electricity",
+    "meta": [
+     "9",
+     "7d ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 9
+   },
+   {
+    "id": "g7efQH_31X0",
+    "title": "This Courtyard Home Heats AND Cools for $0, So Why Did They BAN It?",
+    "meta": [
+     "13",
+     "7d ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 13
+   },
+   {
+    "id": "BEGYuE6BnNg",
+    "title": "This Machine Creates Off-Grid Water FOREVER: Home Water Is Changing",
+    "meta": [
+     "14",
+     "11d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 14
+   },
+   {
+    "id": "4_YCz1JzNaA",
+    "title": "This $5,000 Dome House Stays 70\u00b0F Year-Round. Why Is It Banned in Suburbia?",
+    "meta": [
+     "277",
+     "2w ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 277
+   },
+   {
+    "id": "BkmakjW24Lc",
+    "title": "Why Did We Stop Using This 100 Year Old Cooling System?",
+    "meta": [
+     "10",
+     "2w ago"
+    ],
+    "dur": "21:07",
+    "views_tab": 10
+   },
+   {
+    "id": "kH9h89SejL4",
+    "title": "This Home Cost $0 to heat, survives EF5 Tornadoes and Wildfires. Why Aren't We Using It?",
+    "meta": [
+     "131",
+     "2w ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 131
+   },
+   {
+    "id": "_2jcMcMtXss",
+    "title": "This Angled Home Warms For $0 FOREVER, Why Is It ILLEGAL?",
+    "meta": [
+     "516",
+     "1mo ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 516
+   },
+   {
+    "id": "P8zc7WTbpeQ",
+    "title": "This U Shape Home Cools For $0, Why Is It ILLEGAL?",
+    "meta": [
+     "3K",
+     "1mo ago"
+    ],
+    "dur": "25:16",
+    "views_tab": 3000
+   },
+   {
+    "id": "TZYwX5PGQMo",
+    "title": "This Stone Home Costs $3000 and Lasts For Ever, Why Is It Ilegal In Europe?",
+    "meta": [
+     "451",
+     "1mo ago"
+    ],
+    "dur": "23:12",
+    "views_tab": 451
+   },
+   {
+    "id": "jMteHPTI52U",
+    "title": "This Micro Dome Home Costs $1600 And Cools For $0, Why Did They BAN It?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 11000
+   },
+   {
+    "id": "IBNU_ht_bBw",
+    "title": "This Steel Arc Home Survives EVERY Nature Disaster, Why Is It Illegal?",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "30:31",
+    "views_tab": 1100
+   }
+  ],
+  "Latest": [
+   {
+    "id": "PCZK6rKx6AQ",
+    "title": "Inside The $1,600 Micro Dome Home America Refuses To Build",
+    "meta": [
+     "8",
+     "3d ago"
+    ],
+    "dur": "22:40",
+    "views_tab": 8
+   },
+   {
+    "id": "RYawEVPMlZ8",
+    "title": "5 Ingenious Ways to Heat Your Home Without Electricity",
+    "meta": [
+     "9",
+     "7d ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 9
+   },
+   {
+    "id": "g7efQH_31X0",
+    "title": "This Courtyard Home Heats AND Cools for $0, So Why Did They BAN It?",
+    "meta": [
+     "13",
+     "7d ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 13
+   },
+   {
+    "id": "BEGYuE6BnNg",
+    "title": "This Machine Creates Off-Grid Water FOREVER: Home Water Is Changing",
+    "meta": [
+     "14",
+     "11d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 14
+   },
+   {
+    "id": "4_YCz1JzNaA",
+    "title": "This $5,000 Dome House Stays 70\u00b0F Year-Round. Why Is It Banned in Suburbia?",
+    "meta": [
+     "277",
+     "2w ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 277
+   },
+   {
+    "id": "BkmakjW24Lc",
+    "title": "Why Did We Stop Using This 100 Year Old Cooling System?",
+    "meta": [
+     "10",
+     "2w ago"
+    ],
+    "dur": "21:07",
+    "views_tab": 10
+   },
+   {
+    "id": "kH9h89SejL4",
+    "title": "This Home Cost $0 to heat, survives EF5 Tornadoes and Wildfires. Why Aren't We Using It?",
+    "meta": [
+     "131",
+     "2w ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 131
+   },
+   {
+    "id": "_2jcMcMtXss",
+    "title": "This Angled Home Warms For $0 FOREVER, Why Is It ILLEGAL?",
+    "meta": [
+     "516",
+     "1mo ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 516
+   },
+   {
+    "id": "P8zc7WTbpeQ",
+    "title": "This U Shape Home Cools For $0, Why Is It ILLEGAL?",
+    "meta": [
+     "3K",
+     "1mo ago"
+    ],
+    "dur": "25:16",
+    "views_tab": 3000
+   },
+   {
+    "id": "TZYwX5PGQMo",
+    "title": "This Stone Home Costs $3000 and Lasts For Ever, Why Is It Ilegal In Europe?",
+    "meta": [
+     "451",
+     "1mo ago"
+    ],
+    "dur": "23:12",
+    "views_tab": 451
+   },
+   {
+    "id": "jMteHPTI52U",
+    "title": "This Micro Dome Home Costs $1600 And Cools For $0, Why Did They BAN It?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 11000
+   },
+   {
+    "id": "IBNU_ht_bBw",
+    "title": "This Steel Arc Home Survives EVERY Nature Disaster, Why Is It Illegal?",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "30:31",
+    "views_tab": 1100
+   }
+  ],
+  "Popular": [
+   {
+    "id": "jMteHPTI52U",
+    "title": "This Micro Dome Home Costs $1600 And Cools For $0, Why Did They BAN It?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 11000
+   },
+   {
+    "id": "P8zc7WTbpeQ",
+    "title": "This U Shape Home Cools For $0, Why Is It ILLEGAL?",
+    "meta": [
+     "3K",
+     "1mo ago"
+    ],
+    "dur": "25:16",
+    "views_tab": 3000
+   },
+   {
+    "id": "IBNU_ht_bBw",
+    "title": "This Steel Arc Home Survives EVERY Nature Disaster, Why Is It Illegal?",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "30:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "_2jcMcMtXss",
+    "title": "This Angled Home Warms For $0 FOREVER, Why Is It ILLEGAL?",
+    "meta": [
+     "516",
+     "1mo ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 516
+   },
+   {
+    "id": "TZYwX5PGQMo",
+    "title": "This Stone Home Costs $3000 and Lasts For Ever, Why Is It Ilegal In Europe?",
+    "meta": [
+     "451",
+     "1mo ago"
+    ],
+    "dur": "23:12",
+    "views_tab": 451
+   },
+   {
+    "id": "4_YCz1JzNaA",
+    "title": "This $5,000 Dome House Stays 70\u00b0F Year-Round. Why Is It Banned in Suburbia?",
+    "meta": [
+     "277",
+     "2w ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 277
+   },
+   {
+    "id": "kH9h89SejL4",
+    "title": "This Home Cost $0 to heat, survives EF5 Tornadoes and Wildfires. Why Aren't We Using It?",
+    "meta": [
+     "131",
+     "2w ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 131
+   },
+   {
+    "id": "BEGYuE6BnNg",
+    "title": "This Machine Creates Off-Grid Water FOREVER: Home Water Is Changing",
+    "meta": [
+     "14",
+     "11d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 14
+   },
+   {
+    "id": "g7efQH_31X0",
+    "title": "This Courtyard Home Heats AND Cools for $0, So Why Did They BAN It?",
+    "meta": [
+     "13",
+     "7d ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 13
+   },
+   {
+    "id": "BkmakjW24Lc",
+    "title": "Why Did We Stop Using This 100 Year Old Cooling System?",
+    "meta": [
+     "10",
+     "2w ago"
+    ],
+    "dur": "21:07",
+    "views_tab": 10
+   },
+   {
+    "id": "RYawEVPMlZ8",
+    "title": "5 Ingenious Ways to Heat Your Home Without Electricity",
+    "meta": [
+     "9",
+     "7d ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 9
+   },
+   {
+    "id": "PCZK6rKx6AQ",
+    "title": "Inside The $1,600 Micro Dome Home America Refuses To Build",
+    "meta": [
+     "8",
+     "3d ago"
+    ],
+    "dur": "22:40",
+    "views_tab": 8
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "IBNU_ht_bBw",
+    "title": "This Steel Arc Home Survives EVERY Nature Disaster, Why Is It Illegal?",
+    "meta": [
+     "1.1K",
+     "1mo ago"
+    ],
+    "dur": "30:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "jMteHPTI52U",
+    "title": "This Micro Dome Home Costs $1600 And Cools For $0, Why Did They BAN It?",
+    "meta": [
+     "11K",
+     "1mo ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 11000
+   },
+   {
+    "id": "TZYwX5PGQMo",
+    "title": "This Stone Home Costs $3000 and Lasts For Ever, Why Is It Ilegal In Europe?",
+    "meta": [
+     "451",
+     "1mo ago"
+    ],
+    "dur": "23:12",
+    "views_tab": 451
+   },
+   {
+    "id": "P8zc7WTbpeQ",
+    "title": "This U Shape Home Cools For $0, Why Is It ILLEGAL?",
+    "meta": [
+     "3K",
+     "1mo ago"
+    ],
+    "dur": "25:16",
+    "views_tab": 3000
+   },
+   {
+    "id": "_2jcMcMtXss",
+    "title": "This Angled Home Warms For $0 FOREVER, Why Is It ILLEGAL?",
+    "meta": [
+     "516",
+     "1mo ago"
+    ],
+    "dur": "25:07",
+    "views_tab": 516
+   },
+   {
+    "id": "kH9h89SejL4",
+    "title": "This Home Cost $0 to heat, survives EF5 Tornadoes and Wildfires. Why Aren't We Using It?",
+    "meta": [
+     "131",
+     "2w ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 131
+   },
+   {
+    "id": "BkmakjW24Lc",
+    "title": "Why Did We Stop Using This 100 Year Old Cooling System?",
+    "meta": [
+     "10",
+     "2w ago"
+    ],
+    "dur": "21:07",
+    "views_tab": 10
+   },
+   {
+    "id": "4_YCz1JzNaA",
+    "title": "This $5,000 Dome House Stays 70\u00b0F Year-Round. Why Is It Banned in Suburbia?",
+    "meta": [
+     "277",
+     "2w ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 277
+   },
+   {
+    "id": "BEGYuE6BnNg",
+    "title": "This Machine Creates Off-Grid Water FOREVER: Home Water Is Changing",
+    "meta": [
+     "14",
+     "11d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 14
+   },
+   {
+    "id": "g7efQH_31X0",
+    "title": "This Courtyard Home Heats AND Cools for $0, So Why Did They BAN It?",
+    "meta": [
+     "13",
+     "7d ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 13
+   },
+   {
+    "id": "RYawEVPMlZ8",
+    "title": "5 Ingenious Ways to Heat Your Home Without Electricity",
+    "meta": [
+     "9",
+     "7d ago"
+    ],
+    "dur": "14:35",
+    "views_tab": 9
+   },
+   {
+    "id": "PCZK6rKx6AQ",
+    "title": "Inside The $1,600 Micro Dome Home America Refuses To Build",
+    "meta": [
+     "8",
+     "3d ago"
+    ],
+    "dur": "22:40",
+    "views_tab": 8
+   }
+  ]
+ }
+}

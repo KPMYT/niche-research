@@ -1,0 +1,665 @@
+{
+ "key": "UCgiAu709SKq9GOQICPzffgQ",
+ "channel": "Walter Northwood",
+ "id": "UCgiAu709SKq9GOQICPzffgQ",
+ "subs": "287 subscribers",
+ "videos": "16 videos",
+ "pulled": "2026-10-26T07:02:31.444083+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "MZMhGL96QUs",
+    "title": "How Old Farm Families Slept in Bedrooms That FROZE Solid",
+    "meta": [
+     "999",
+     "1mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 999
+   },
+   {
+    "id": "24USvCLcHKI",
+    "title": "The $1 Brick Farm Families Slept With ALL Winter",
+    "meta": [
+     "560",
+     "1mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 560
+   },
+   {
+    "id": "4TwrbtaGUDo",
+    "title": "The Basement Trick That CUTS Heating Bills in Half",
+    "meta": [
+     "960",
+     "1mo ago"
+    ],
+    "dur": "9:21",
+    "views_tab": 960
+   },
+   {
+    "id": "hocJjT33Lc8",
+    "title": "Before You Buy Radiant Barrier \u2014 The $180 Attic Truth",
+    "meta": [
+     "947",
+     "2mo ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 947
+   },
+   {
+    "id": "jYrKPXvH_l8",
+    "title": "The $0 Shed Heater Farm Families Made Out of Trash",
+    "meta": [
+     "44K",
+     "2mo ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 44000
+   },
+   {
+    "id": "GeNcqqHw2Ug",
+    "title": "The $10,000 Anvil: Are You Sitting on a Goldmine?",
+    "meta": [
+     "698",
+     "2mo ago"
+    ],
+    "dur": "16:52",
+    "views_tab": 698
+   },
+   {
+    "id": "at2K5z9YJ-M",
+    "title": "The Forgotten Ice House: 0$ Refrigeration That Actually Worked",
+    "meta": [
+     "213",
+     "2mo ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 213
+   },
+   {
+    "id": "Hwp1HXGpZpk",
+    "title": "How to Spot $10,000+ Cast Iron Barn Finds",
+    "meta": [
+     "683",
+     "2mo ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 683
+   },
+   {
+    "id": "ZqqYDBo4Doo",
+    "title": "Dirt Is The World\u2019s Best Air Conditioner \u2014 If You Don't Make This Mistake",
+    "meta": [
+     "300",
+     "2mo ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 300
+   },
+   {
+    "id": "Zq9plTk8we4",
+    "title": "Log Walls vs Drywall: Which Regulates Temperature Better?",
+    "meta": [
+     "211",
+     "2mo ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 211
+   },
+   {
+    "id": "jlj866WXAaI",
+    "title": "Why Your Wood Stove is Failing You (It\u2019s Not the Stove)",
+    "meta": [
+     "451",
+     "2mo ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 451
+   },
+   {
+    "id": "jAf423chbN8",
+    "title": "Why Exterminators Hate This $14 Powder: The Forgotten Secret to a Bug-Free Home",
+    "meta": [
+     "131",
+     "2mo ago"
+    ],
+    "dur": "9:30",
+    "views_tab": 131
+   },
+   {
+    "id": "Hlos16Pnkl4",
+    "title": "Don't Replace Your Windows! The Forgotten Trick for Better Insulation",
+    "meta": [
+     "248",
+     "2mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 248
+   },
+   {
+    "id": "dcWrBA8EIDA",
+    "title": "The Attic Trick That Cuts Heating Bills in Half",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 2600
+   },
+   {
+    "id": "GF6jKxfJGwU",
+    "title": "Cheap Add-Ons That DOUBLE Your Wood Stove's Heat Without Burning More Wood",
+    "meta": [
+     "278",
+     "2mo ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 278
+   },
+   {
+    "id": "b9YfGr2a2Hg",
+    "title": "Drafty House? Here\u2019s How Old Farmhouses Solved It",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 182
+   }
+  ],
+  "Latest": [
+   {
+    "id": "MZMhGL96QUs",
+    "title": "How Old Farm Families Slept in Bedrooms That FROZE Solid",
+    "meta": [
+     "999",
+     "1mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 999
+   },
+   {
+    "id": "24USvCLcHKI",
+    "title": "The $1 Brick Farm Families Slept With ALL Winter",
+    "meta": [
+     "560",
+     "1mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 560
+   },
+   {
+    "id": "4TwrbtaGUDo",
+    "title": "The Basement Trick That CUTS Heating Bills in Half",
+    "meta": [
+     "960",
+     "1mo ago"
+    ],
+    "dur": "9:21",
+    "views_tab": 960
+   },
+   {
+    "id": "hocJjT33Lc8",
+    "title": "Before You Buy Radiant Barrier \u2014 The $180 Attic Truth",
+    "meta": [
+     "947",
+     "2mo ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 947
+   },
+   {
+    "id": "jYrKPXvH_l8",
+    "title": "The $0 Shed Heater Farm Families Made Out of Trash",
+    "meta": [
+     "44K",
+     "2mo ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 44000
+   },
+   {
+    "id": "GeNcqqHw2Ug",
+    "title": "The $10,000 Anvil: Are You Sitting on a Goldmine?",
+    "meta": [
+     "698",
+     "2mo ago"
+    ],
+    "dur": "16:52",
+    "views_tab": 698
+   },
+   {
+    "id": "at2K5z9YJ-M",
+    "title": "The Forgotten Ice House: 0$ Refrigeration That Actually Worked",
+    "meta": [
+     "213",
+     "2mo ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 213
+   },
+   {
+    "id": "Hwp1HXGpZpk",
+    "title": "How to Spot $10,000+ Cast Iron Barn Finds",
+    "meta": [
+     "683",
+     "2mo ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 683
+   },
+   {
+    "id": "ZqqYDBo4Doo",
+    "title": "Dirt Is The World\u2019s Best Air Conditioner \u2014 If You Don't Make This Mistake",
+    "meta": [
+     "300",
+     "2mo ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 300
+   },
+   {
+    "id": "Zq9plTk8we4",
+    "title": "Log Walls vs Drywall: Which Regulates Temperature Better?",
+    "meta": [
+     "211",
+     "2mo ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 211
+   },
+   {
+    "id": "jlj866WXAaI",
+    "title": "Why Your Wood Stove is Failing You (It\u2019s Not the Stove)",
+    "meta": [
+     "451",
+     "2mo ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 451
+   },
+   {
+    "id": "jAf423chbN8",
+    "title": "Why Exterminators Hate This $14 Powder: The Forgotten Secret to a Bug-Free Home",
+    "meta": [
+     "131",
+     "2mo ago"
+    ],
+    "dur": "9:30",
+    "views_tab": 131
+   },
+   {
+    "id": "Hlos16Pnkl4",
+    "title": "Don't Replace Your Windows! The Forgotten Trick for Better Insulation",
+    "meta": [
+     "248",
+     "2mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 248
+   },
+   {
+    "id": "dcWrBA8EIDA",
+    "title": "The Attic Trick That Cuts Heating Bills in Half",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 2600
+   },
+   {
+    "id": "GF6jKxfJGwU",
+    "title": "Cheap Add-Ons That DOUBLE Your Wood Stove's Heat Without Burning More Wood",
+    "meta": [
+     "278",
+     "2mo ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 278
+   },
+   {
+    "id": "b9YfGr2a2Hg",
+    "title": "Drafty House? Here\u2019s How Old Farmhouses Solved It",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 182
+   }
+  ],
+  "Popular": [
+   {
+    "id": "jYrKPXvH_l8",
+    "title": "The $0 Shed Heater Farm Families Made Out of Trash",
+    "meta": [
+     "44K",
+     "2mo ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 44000
+   },
+   {
+    "id": "dcWrBA8EIDA",
+    "title": "The Attic Trick That Cuts Heating Bills in Half",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 2600
+   },
+   {
+    "id": "MZMhGL96QUs",
+    "title": "How Old Farm Families Slept in Bedrooms That FROZE Solid",
+    "meta": [
+     "999",
+     "1mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 999
+   },
+   {
+    "id": "4TwrbtaGUDo",
+    "title": "The Basement Trick That CUTS Heating Bills in Half",
+    "meta": [
+     "960",
+     "1mo ago"
+    ],
+    "dur": "9:21",
+    "views_tab": 960
+   },
+   {
+    "id": "hocJjT33Lc8",
+    "title": "Before You Buy Radiant Barrier \u2014 The $180 Attic Truth",
+    "meta": [
+     "947",
+     "2mo ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 947
+   },
+   {
+    "id": "GeNcqqHw2Ug",
+    "title": "The $10,000 Anvil: Are You Sitting on a Goldmine?",
+    "meta": [
+     "698",
+     "2mo ago"
+    ],
+    "dur": "16:52",
+    "views_tab": 698
+   },
+   {
+    "id": "Hwp1HXGpZpk",
+    "title": "How to Spot $10,000+ Cast Iron Barn Finds",
+    "meta": [
+     "683",
+     "2mo ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 683
+   },
+   {
+    "id": "24USvCLcHKI",
+    "title": "The $1 Brick Farm Families Slept With ALL Winter",
+    "meta": [
+     "560",
+     "1mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 560
+   },
+   {
+    "id": "jlj866WXAaI",
+    "title": "Why Your Wood Stove is Failing You (It\u2019s Not the Stove)",
+    "meta": [
+     "451",
+     "2mo ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 451
+   },
+   {
+    "id": "ZqqYDBo4Doo",
+    "title": "Dirt Is The World\u2019s Best Air Conditioner \u2014 If You Don't Make This Mistake",
+    "meta": [
+     "300",
+     "2mo ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 300
+   },
+   {
+    "id": "GF6jKxfJGwU",
+    "title": "Cheap Add-Ons That DOUBLE Your Wood Stove's Heat Without Burning More Wood",
+    "meta": [
+     "278",
+     "2mo ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 278
+   },
+   {
+    "id": "Hlos16Pnkl4",
+    "title": "Don't Replace Your Windows! The Forgotten Trick for Better Insulation",
+    "meta": [
+     "248",
+     "2mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 248
+   },
+   {
+    "id": "at2K5z9YJ-M",
+    "title": "The Forgotten Ice House: 0$ Refrigeration That Actually Worked",
+    "meta": [
+     "213",
+     "2mo ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 213
+   },
+   {
+    "id": "Zq9plTk8we4",
+    "title": "Log Walls vs Drywall: Which Regulates Temperature Better?",
+    "meta": [
+     "211",
+     "2mo ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 211
+   },
+   {
+    "id": "b9YfGr2a2Hg",
+    "title": "Drafty House? Here\u2019s How Old Farmhouses Solved It",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 182
+   },
+   {
+    "id": "jAf423chbN8",
+    "title": "Why Exterminators Hate This $14 Powder: The Forgotten Secret to a Bug-Free Home",
+    "meta": [
+     "131",
+     "2mo ago"
+    ],
+    "dur": "9:30",
+    "views_tab": 131
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "b9YfGr2a2Hg",
+    "title": "Drafty House? Here\u2019s How Old Farmhouses Solved It",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 182
+   },
+   {
+    "id": "GF6jKxfJGwU",
+    "title": "Cheap Add-Ons That DOUBLE Your Wood Stove's Heat Without Burning More Wood",
+    "meta": [
+     "278",
+     "2mo ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 278
+   },
+   {
+    "id": "dcWrBA8EIDA",
+    "title": "The Attic Trick That Cuts Heating Bills in Half",
+    "meta": [
+     "2.6K",
+     "2mo ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 2600
+   },
+   {
+    "id": "Hlos16Pnkl4",
+    "title": "Don't Replace Your Windows! The Forgotten Trick for Better Insulation",
+    "meta": [
+     "248",
+     "2mo ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 248
+   },
+   {
+    "id": "jAf423chbN8",
+    "title": "Why Exterminators Hate This $14 Powder: The Forgotten Secret to a Bug-Free Home",
+    "meta": [
+     "131",
+     "2mo ago"
+    ],
+    "dur": "9:30",
+    "views_tab": 131
+   },
+   {
+    "id": "jlj866WXAaI",
+    "title": "Why Your Wood Stove is Failing You (It\u2019s Not the Stove)",
+    "meta": [
+     "451",
+     "2mo ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 451
+   },
+   {
+    "id": "Zq9plTk8we4",
+    "title": "Log Walls vs Drywall: Which Regulates Temperature Better?",
+    "meta": [
+     "211",
+     "2mo ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 211
+   },
+   {
+    "id": "ZqqYDBo4Doo",
+    "title": "Dirt Is The World\u2019s Best Air Conditioner \u2014 If You Don't Make This Mistake",
+    "meta": [
+     "300",
+     "2mo ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 300
+   },
+   {
+    "id": "Hwp1HXGpZpk",
+    "title": "How to Spot $10,000+ Cast Iron Barn Finds",
+    "meta": [
+     "683",
+     "2mo ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 683
+   },
+   {
+    "id": "at2K5z9YJ-M",
+    "title": "The Forgotten Ice House: 0$ Refrigeration That Actually Worked",
+    "meta": [
+     "213",
+     "2mo ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 213
+   },
+   {
+    "id": "GeNcqqHw2Ug",
+    "title": "The $10,000 Anvil: Are You Sitting on a Goldmine?",
+    "meta": [
+     "698",
+     "2mo ago"
+    ],
+    "dur": "16:52",
+    "views_tab": 698
+   },
+   {
+    "id": "jYrKPXvH_l8",
+    "title": "The $0 Shed Heater Farm Families Made Out of Trash",
+    "meta": [
+     "44K",
+     "2mo ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 44000
+   },
+   {
+    "id": "hocJjT33Lc8",
+    "title": "Before You Buy Radiant Barrier \u2014 The $180 Attic Truth",
+    "meta": [
+     "947",
+     "2mo ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 947
+   },
+   {
+    "id": "4TwrbtaGUDo",
+    "title": "The Basement Trick That CUTS Heating Bills in Half",
+    "meta": [
+     "960",
+     "1mo ago"
+    ],
+    "dur": "9:21",
+    "views_tab": 960
+   },
+   {
+    "id": "24USvCLcHKI",
+    "title": "The $1 Brick Farm Families Slept With ALL Winter",
+    "meta": [
+     "560",
+     "1mo ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 560
+   },
+   {
+    "id": "MZMhGL96QUs",
+    "title": "How Old Farm Families Slept in Bedrooms That FROZE Solid",
+    "meta": [
+     "999",
+     "1mo ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 999
+   }
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "key": "UCGFOhDShl9eHClzJ7YOwNJA",
+ "channel": "Michaels HVAC Service",
+ "id": "UCGFOhDShl9eHClzJ7YOwNJA",
+ "subs": null,
+ "videos": "3 videos",
+ "pulled": "2026-10-26T06:53:40.514134+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "DX0nJb25Nl4",
+    "title": "Antique ac ",
+    "meta": [
+     "0",
+     "3w ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 0
+   },
+   {
+    "id": "mjo2tzg7HDo",
+    "title": "Getting This Oil Furnace Ready for the Fall",
+    "meta": [
+     "52",
+     "3w ago"
+    ],
+    "dur": "15:46",
+    "views_tab": 52
+   },
+   {
+    "id": "fDhU-fzNuCs",
+    "title": "Why I Do What I Do: My HVAC Company Introduction",
+    "meta": [
+     "5",
+     "4w ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 5
+   }
+  ],
+  "Latest": null,
+  "Popular": null,
+  "Oldest": null
+ }
+}

@@ -1,0 +1,585 @@
+{
+ "key": "UCyR7PAs_HsVbReKOxUpU1Kg",
+ "channel": "Dean Explains",
+ "id": "UCyR7PAs_HsVbReKOxUpU1Kg",
+ "subs": "23 subscribers",
+ "videos": "14 videos",
+ "pulled": "2026-10-26T07:07:27.658048+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "rl0ZliIXTcs",
+    "title": "$800 Generator vs $2,500 Power Station vs $13,000 Powerwall: Which One Survives a 3-Day Blackout?",
+    "meta": [
+     "621",
+     "4d ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 621
+   },
+   {
+    "id": "MnyHm8Mzpbk",
+    "title": "The Plug-In Surge/Energy Monitor That Finds $50/Month in Phantom Power Draw",
+    "meta": [
+     "157",
+     "6d ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 157
+   },
+   {
+    "id": "Y6_3jqpK0pY",
+    "title": "This Plug-In Space Heater Trick Heats One Room for Pennies Instead of Central Heat",
+    "meta": [
+     "137",
+     "9d ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 137
+   },
+   {
+    "id": "XhZXgsVG5Dw",
+    "title": "This $150 Water Wall Stores 10 kWh of Heat (No Electricity)",
+    "meta": [
+     "102",
+     "11d ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 102
+   },
+   {
+    "id": "VrST0b87Kmw",
+    "title": "How a $20 Sensor Saves $2,000, The Hidden Cost of a Broken Freezer",
+    "meta": [
+     "30",
+     "13d ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 30
+   },
+   {
+    "id": "ufXtmqyhRks",
+    "title": "This $100 Plug-In Induction Cooktop Cuts Kitchen Energy Costs 50% Over Gas or Electric Coil",
+    "meta": [
+     "149",
+     "2w ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 149
+   },
+   {
+    "id": "reRxixi4IsY",
+    "title": "The Plug-In Battery You Charge at Work For Free \u2014 Then Power Your House With at Night",
+    "meta": [
+     "630",
+     "2w ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 630
+   },
+   {
+    "id": "PyUegtfe38g",
+    "title": "DON'T Buy TESLA Powerwalls! This $1,500 EDISON Battery Outlasts $10,000 Batteries",
+    "meta": [
+     "1.7K",
+     "2w ago"
+    ],
+    "dur": "16:02",
+    "views_tab": 1700
+   },
+   {
+    "id": "X_jkXpdqq28",
+    "title": "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "meta": [
+     "72",
+     "3w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 72
+   },
+   {
+    "id": "OQCMaEDwqLo",
+    "title": "The Plug-In Water Heater Timer That Cuts Standby Losses By Half",
+    "meta": [
+     "66",
+     "3w ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 66
+   },
+   {
+    "id": "Yq3qJ7_ZGl0",
+    "title": "The $2,500 Tank Thats Stores 10x More Energy Than a $10,000 Powerwall",
+    "meta": [
+     "362",
+     "3w ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 362
+   },
+   {
+    "id": "UCY4wePUkdc",
+    "title": "This $200 Plug-In Solar Generator Beats a $4,000 Whole-Home Backup System",
+    "meta": [
+     "391",
+     "1mo ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 391
+   },
+   {
+    "id": "KqiSFv059gg",
+    "title": "The Plug-In EV Charger Trick That Also Powers Your House in a Blackout",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 110
+   },
+   {
+    "id": "VHljkRvnlF8",
+    "title": "This $150 Plug-In Heat Pump Cuts Your AC Bill 40% \u2014 Why Isn't It in Every Home?",
+    "meta": [
+     "428",
+     "1mo ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 428
+   }
+  ],
+  "Latest": [
+   {
+    "id": "rl0ZliIXTcs",
+    "title": "$800 Generator vs $2,500 Power Station vs $13,000 Powerwall: Which One Survives a 3-Day Blackout?",
+    "meta": [
+     "621",
+     "4d ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 621
+   },
+   {
+    "id": "MnyHm8Mzpbk",
+    "title": "The Plug-In Surge/Energy Monitor That Finds $50/Month in Phantom Power Draw",
+    "meta": [
+     "157",
+     "6d ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 157
+   },
+   {
+    "id": "Y6_3jqpK0pY",
+    "title": "This Plug-In Space Heater Trick Heats One Room for Pennies Instead of Central Heat",
+    "meta": [
+     "137",
+     "9d ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 137
+   },
+   {
+    "id": "XhZXgsVG5Dw",
+    "title": "This $150 Water Wall Stores 10 kWh of Heat (No Electricity)",
+    "meta": [
+     "102",
+     "11d ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 102
+   },
+   {
+    "id": "VrST0b87Kmw",
+    "title": "How a $20 Sensor Saves $2,000, The Hidden Cost of a Broken Freezer",
+    "meta": [
+     "30",
+     "13d ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 30
+   },
+   {
+    "id": "ufXtmqyhRks",
+    "title": "This $100 Plug-In Induction Cooktop Cuts Kitchen Energy Costs 50% Over Gas or Electric Coil",
+    "meta": [
+     "149",
+     "2w ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 149
+   },
+   {
+    "id": "reRxixi4IsY",
+    "title": "The Plug-In Battery You Charge at Work For Free \u2014 Then Power Your House With at Night",
+    "meta": [
+     "630",
+     "2w ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 630
+   },
+   {
+    "id": "PyUegtfe38g",
+    "title": "DON'T Buy TESLA Powerwalls! This $1,500 EDISON Battery Outlasts $10,000 Batteries",
+    "meta": [
+     "1.7K",
+     "2w ago"
+    ],
+    "dur": "16:02",
+    "views_tab": 1700
+   },
+   {
+    "id": "X_jkXpdqq28",
+    "title": "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "meta": [
+     "72",
+     "3w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 72
+   },
+   {
+    "id": "OQCMaEDwqLo",
+    "title": "The Plug-In Water Heater Timer That Cuts Standby Losses By Half",
+    "meta": [
+     "66",
+     "3w ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 66
+   },
+   {
+    "id": "Yq3qJ7_ZGl0",
+    "title": "The $2,500 Tank Thats Stores 10x More Energy Than a $10,000 Powerwall",
+    "meta": [
+     "362",
+     "3w ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 362
+   },
+   {
+    "id": "UCY4wePUkdc",
+    "title": "This $200 Plug-In Solar Generator Beats a $4,000 Whole-Home Backup System",
+    "meta": [
+     "391",
+     "1mo ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 391
+   },
+   {
+    "id": "KqiSFv059gg",
+    "title": "The Plug-In EV Charger Trick That Also Powers Your House in a Blackout",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 110
+   },
+   {
+    "id": "VHljkRvnlF8",
+    "title": "This $150 Plug-In Heat Pump Cuts Your AC Bill 40% \u2014 Why Isn't It in Every Home?",
+    "meta": [
+     "428",
+     "1mo ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 428
+   }
+  ],
+  "Popular": [
+   {
+    "id": "PyUegtfe38g",
+    "title": "DON'T Buy TESLA Powerwalls! This $1,500 EDISON Battery Outlasts $10,000 Batteries",
+    "meta": [
+     "1.7K",
+     "2w ago"
+    ],
+    "dur": "16:02",
+    "views_tab": 1700
+   },
+   {
+    "id": "reRxixi4IsY",
+    "title": "The Plug-In Battery You Charge at Work For Free \u2014 Then Power Your House With at Night",
+    "meta": [
+     "630",
+     "2w ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 630
+   },
+   {
+    "id": "rl0ZliIXTcs",
+    "title": "$800 Generator vs $2,500 Power Station vs $13,000 Powerwall: Which One Survives a 3-Day Blackout?",
+    "meta": [
+     "621",
+     "4d ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 621
+   },
+   {
+    "id": "VHljkRvnlF8",
+    "title": "This $150 Plug-In Heat Pump Cuts Your AC Bill 40% \u2014 Why Isn't It in Every Home?",
+    "meta": [
+     "428",
+     "1mo ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 428
+   },
+   {
+    "id": "UCY4wePUkdc",
+    "title": "This $200 Plug-In Solar Generator Beats a $4,000 Whole-Home Backup System",
+    "meta": [
+     "391",
+     "1mo ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 391
+   },
+   {
+    "id": "Yq3qJ7_ZGl0",
+    "title": "The $2,500 Tank Thats Stores 10x More Energy Than a $10,000 Powerwall",
+    "meta": [
+     "362",
+     "3w ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 362
+   },
+   {
+    "id": "MnyHm8Mzpbk",
+    "title": "The Plug-In Surge/Energy Monitor That Finds $50/Month in Phantom Power Draw",
+    "meta": [
+     "157",
+     "6d ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 157
+   },
+   {
+    "id": "ufXtmqyhRks",
+    "title": "This $100 Plug-In Induction Cooktop Cuts Kitchen Energy Costs 50% Over Gas or Electric Coil",
+    "meta": [
+     "149",
+     "2w ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 149
+   },
+   {
+    "id": "Y6_3jqpK0pY",
+    "title": "This Plug-In Space Heater Trick Heats One Room for Pennies Instead of Central Heat",
+    "meta": [
+     "137",
+     "9d ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 137
+   },
+   {
+    "id": "KqiSFv059gg",
+    "title": "The Plug-In EV Charger Trick That Also Powers Your House in a Blackout",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 110
+   },
+   {
+    "id": "XhZXgsVG5Dw",
+    "title": "This $150 Water Wall Stores 10 kWh of Heat (No Electricity)",
+    "meta": [
+     "102",
+     "11d ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 102
+   },
+   {
+    "id": "X_jkXpdqq28",
+    "title": "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "meta": [
+     "72",
+     "3w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 72
+   },
+   {
+    "id": "OQCMaEDwqLo",
+    "title": "The Plug-In Water Heater Timer That Cuts Standby Losses By Half",
+    "meta": [
+     "66",
+     "3w ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 66
+   },
+   {
+    "id": "VrST0b87Kmw",
+    "title": "How a $20 Sensor Saves $2,000, The Hidden Cost of a Broken Freezer",
+    "meta": [
+     "30",
+     "13d ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 30
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "VHljkRvnlF8",
+    "title": "This $150 Plug-In Heat Pump Cuts Your AC Bill 40% \u2014 Why Isn't It in Every Home?",
+    "meta": [
+     "428",
+     "1mo ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 428
+   },
+   {
+    "id": "KqiSFv059gg",
+    "title": "The Plug-In EV Charger Trick That Also Powers Your House in a Blackout",
+    "meta": [
+     "110",
+     "1mo ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 110
+   },
+   {
+    "id": "UCY4wePUkdc",
+    "title": "This $200 Plug-In Solar Generator Beats a $4,000 Whole-Home Backup System",
+    "meta": [
+     "391",
+     "1mo ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 391
+   },
+   {
+    "id": "Yq3qJ7_ZGl0",
+    "title": "The $2,500 Tank Thats Stores 10x More Energy Than a $10,000 Powerwall",
+    "meta": [
+     "362",
+     "3w ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 362
+   },
+   {
+    "id": "OQCMaEDwqLo",
+    "title": "The Plug-In Water Heater Timer That Cuts Standby Losses By Half",
+    "meta": [
+     "66",
+     "3w ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 66
+   },
+   {
+    "id": "X_jkXpdqq28",
+    "title": "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "meta": [
+     "73",
+     "3w ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 73
+   },
+   {
+    "id": "PyUegtfe38g",
+    "title": "DON'T Buy TESLA Powerwalls! This $1,500 EDISON Battery Outlasts $10,000 Batteries",
+    "meta": [
+     "1.7K",
+     "2w ago"
+    ],
+    "dur": "16:02",
+    "views_tab": 1700
+   },
+   {
+    "id": "reRxixi4IsY",
+    "title": "The Plug-In Battery You Charge at Work For Free \u2014 Then Power Your House With at Night",
+    "meta": [
+     "630",
+     "2w ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 630
+   },
+   {
+    "id": "ufXtmqyhRks",
+    "title": "This $100 Plug-In Induction Cooktop Cuts Kitchen Energy Costs 50% Over Gas or Electric Coil",
+    "meta": [
+     "149",
+     "2w ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 149
+   },
+   {
+    "id": "VrST0b87Kmw",
+    "title": "How a $20 Sensor Saves $2,000, The Hidden Cost of a Broken Freezer",
+    "meta": [
+     "30",
+     "13d ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 30
+   },
+   {
+    "id": "XhZXgsVG5Dw",
+    "title": "This $150 Water Wall Stores 10 kWh of Heat (No Electricity)",
+    "meta": [
+     "102",
+     "11d ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 102
+   },
+   {
+    "id": "Y6_3jqpK0pY",
+    "title": "This Plug-In Space Heater Trick Heats One Room for Pennies Instead of Central Heat",
+    "meta": [
+     "137",
+     "9d ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 137
+   },
+   {
+    "id": "MnyHm8Mzpbk",
+    "title": "The Plug-In Surge/Energy Monitor That Finds $50/Month in Phantom Power Draw",
+    "meta": [
+     "157",
+     "6d ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 157
+   },
+   {
+    "id": "rl0ZliIXTcs",
+    "title": "$800 Generator vs $2,500 Power Station vs $13,000 Powerwall: Which One Survives a 3-Day Blackout?",
+    "meta": [
+     "621",
+     "4d ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 621
+   }
+  ]
+ }
+}

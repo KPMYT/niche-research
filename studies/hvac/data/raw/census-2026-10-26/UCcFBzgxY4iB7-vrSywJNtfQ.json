@@ -1,0 +1,3929 @@
+{
+ "key": "UCcFBzgxY4iB7-vrSywJNtfQ",
+ "channel": "MR Post Frame",
+ "id": "UCcFBzgxY4iB7-vrSywJNtfQ",
+ "subs": "453K subscribers",
+ "videos": "982 videos",
+ "pulled": "2026-10-26T07:01:44.887570+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "TvX0XuoJN5Y",
+    "title": "We Sold Our Barndominium\u2026 Now We\u2019re Building This",
+    "meta": [
+     "23K",
+     "1d ago"
+    ],
+    "dur": "29:14",
+    "views_tab": 23000
+   },
+   {
+    "id": "8JNxDjJnXFI",
+    "title": "This Remodel Only Made Sense Because I Did It Myself",
+    "meta": [
+     "8.5K",
+     "2w ago"
+    ],
+    "dur": "29:45",
+    "views_tab": 8500
+   },
+   {
+    "id": "KYAAiuzVr7I",
+    "title": "I Finally Finished Transforming Our Backyard - Here's What It Cost",
+    "meta": [
+     "9.5K",
+     "1mo ago"
+    ],
+    "dur": "18:16",
+    "views_tab": 9500
+   },
+   {
+    "id": "8_BiKTvS3Lw",
+    "title": "DIY Cable Railing Completely Changed My Deck",
+    "meta": [
+     "12K",
+     "1mo ago"
+    ],
+    "dur": "26:28",
+    "views_tab": 12000
+   },
+   {
+    "id": "Jt2qkyAzFH4",
+    "title": "What It REALLY Cost to Finish My Basement Myself",
+    "meta": [
+     "38K",
+     "1mo ago"
+    ],
+    "dur": "16:44",
+    "views_tab": 38000
+   },
+   {
+    "id": "ivOm06I5uJ4",
+    "title": "I Finished My Entire Basement Myself \u2014 Full Reveal",
+    "meta": [
+     "5.9K",
+     "2mo ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 5900
+   },
+   {
+    "id": "X16ZHRyOUNI",
+    "title": "Must Have Deck Add-On",
+    "meta": [
+     "4.8K",
+     "2mo ago"
+    ],
+    "dur": "16:25",
+    "views_tab": 4800
+   },
+   {
+    "id": "v2cH8w-gh28",
+    "title": "Which Barndominium Would You Build? (Incredible Designs)",
+    "meta": [
+     "23K",
+     "3mo ago"
+    ],
+    "dur": "38:41",
+    "views_tab": 23000
+   },
+   {
+    "id": "2ATxIhJqOSk",
+    "title": "Pouring This DIY Patio Didn't Go As Planned",
+    "meta": [
+     "5.5K",
+     "3mo ago"
+    ],
+    "dur": "18:55",
+    "views_tab": 5500
+   },
+   {
+    "id": "8qinP9fNS_Y",
+    "title": "This Deck Was Worse Than I Thought",
+    "meta": [
+     "7.2K",
+     "3mo ago"
+    ],
+    "dur": "19:50",
+    "views_tab": 7200
+   },
+   {
+    "id": "ygBlrali-jk",
+    "title": "Why I Installed a Radon Mitigation System Without a Radon Test",
+    "meta": [
+     "9.8K",
+     "4mo ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 9800
+   },
+   {
+    "id": "Mp_9NQonllo",
+    "title": "This Basement Upgrade Could Save Thousands",
+    "meta": [
+     "6.2K",
+     "4mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 6200
+   },
+   {
+    "id": "2YhKdDRyEGs",
+    "title": "The Basement Transformation Is Finally Taking Shape",
+    "meta": [
+     "6.6K",
+     "4mo ago"
+    ],
+    "dur": "36:55",
+    "views_tab": 6600
+   },
+   {
+    "id": "yBuCxwerqrw",
+    "title": "What It REALLY Cost to Build My Basement Bathroom",
+    "meta": [
+     "5.3K",
+     "4mo ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 5300
+   },
+   {
+    "id": "pQH8rlttUag",
+    "title": "I\u2019ve Installed Tile, Flexstone & Fiberglass Showers\u2026 Here\u2019s My Honest Take",
+    "meta": [
+     "123K",
+     "5mo ago"
+    ],
+    "dur": "10:06",
+    "views_tab": 123000
+   },
+   {
+    "id": "EaMfCZRdjgA",
+    "title": "I Had One Day to Finish My Basement Rough-In\u2026 Before Inspection",
+    "meta": [
+     "4.2K",
+     "5mo ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 4200
+   },
+   {
+    "id": "7dnsGlohfaI",
+    "title": "This Basement Crack Was Leaking\u2026 Here\u2019s What Actually Fixed It",
+    "meta": [
+     "5.2K",
+     "5mo ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 5200
+   },
+   {
+    "id": "8cg3IdYkTgM",
+    "title": "Our Upstairs Was Always Too Hot\u2026 This Fixed It",
+    "meta": [
+     "3.5K",
+     "5mo ago"
+    ],
+    "dur": "16:30",
+    "views_tab": 3500
+   },
+   {
+    "id": "w3y8Q8qqcfQ",
+    "title": " Installing HVAC in My Basement\u2026 This Was Way Harder Than I Expected",
+    "meta": [
+     "4.5K",
+     "6mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 4500
+   },
+   {
+    "id": "4RkwC4x9czs",
+    "title": "I Found a Leak After Framing My Basement\u2026 This Isn\u2019t Good",
+    "meta": [
+     "7.8K",
+     "6mo ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 7800
+   },
+   {
+    "id": "fSlSsEesKK4",
+    "title": "Installing a Ceiling Fan in a Vaulted Living Room (Worth It?)",
+    "meta": [
+     "6.5K",
+     "6mo ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 6500
+   },
+   {
+    "id": "xntQYqHMxPU",
+    "title": "eufy S4 Solar Camera Review \u2013 Can You Trust a Solar Security Camera?",
+    "meta": [
+     "10K",
+     "6mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 10000
+   },
+   {
+    "id": "BVqdy2lhEMc",
+    "title": "We\u2019re Finally Finishing the Basement (Full Plan & Start)",
+    "meta": [
+     "5.1K",
+     "6mo ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 5100
+   },
+   {
+    "id": "xX2Kw-ogVaw",
+    "title": "This Garage Cost WAY More Than I Expected\u2026",
+    "meta": [
+     "15K",
+     "7mo ago"
+    ],
+    "dur": "23:47",
+    "views_tab": 15000
+   },
+   {
+    "id": "gbg0NGe3hkA",
+    "title": "2 Weeks to Finish This Remodel and Move In",
+    "meta": [
+     "5.5K",
+     "7mo ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 5500
+   },
+   {
+    "id": "qjBhYyQ0wPQ",
+    "title": "$4200 Stone Fireplace Upgrade\u2026 Was It Worth It?",
+    "meta": [
+     "MR Post Frame",
+     "and Westlake Royal Building Products",
+     "8.3K",
+     "7mo ago"
+    ],
+    "dur": "28:00",
+    "views_tab": 8300
+   },
+   {
+    "id": "TY1aDYz9xWQ",
+    "title": "FlexStone vs Tile Shower \u2013 Is Tile Worth It Anymore?",
+    "meta": [
+     "510K",
+     "8mo ago"
+    ],
+    "dur": "19:18",
+    "views_tab": 510000
+   },
+   {
+    "id": "IH7lkCtJNKE",
+    "title": "\u201cThe One Upgrade That Finally Fixes Bifold Doors\u201d",
+    "meta": [
+     "104K",
+     "8mo ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 104000
+   },
+   {
+    "id": "oohdWSSlG9E",
+    "title": "\u201cClosetMaid Modular Closet Install: 3 Things I Wish I Knew First\u201d",
+    "meta": [
+     "10K",
+     "8mo ago"
+    ],
+    "dur": "27:54",
+    "views_tab": 10000
+   },
+   {
+    "id": "XeNMDy7CVnA",
+    "title": "Cleaning Out a Blocked Gas Fireplace & Prepping for Versetta Stone - Whole House Remodel!",
+    "meta": [
+     "4.1K",
+     "8mo ago"
+    ],
+    "dur": "19:21",
+    "views_tab": 4100
+   }
+  ],
+  "Latest": [
+   {
+    "id": "TvX0XuoJN5Y",
+    "title": "We Sold Our Barndominium\u2026 Now We\u2019re Building This",
+    "meta": [
+     "23K",
+     "1d ago"
+    ],
+    "dur": "29:14",
+    "views_tab": 23000
+   },
+   {
+    "id": "8JNxDjJnXFI",
+    "title": "This Remodel Only Made Sense Because I Did It Myself",
+    "meta": [
+     "8.5K",
+     "2w ago"
+    ],
+    "dur": "29:45",
+    "views_tab": 8500
+   },
+   {
+    "id": "KYAAiuzVr7I",
+    "title": "I Finally Finished Transforming Our Backyard - Here's What It Cost",
+    "meta": [
+     "9.5K",
+     "1mo ago"
+    ],
+    "dur": "18:16",
+    "views_tab": 9500
+   },
+   {
+    "id": "8_BiKTvS3Lw",
+    "title": "DIY Cable Railing Completely Changed My Deck",
+    "meta": [
+     "12K",
+     "1mo ago"
+    ],
+    "dur": "26:28",
+    "views_tab": 12000
+   },
+   {
+    "id": "Jt2qkyAzFH4",
+    "title": "What It REALLY Cost to Finish My Basement Myself",
+    "meta": [
+     "38K",
+     "1mo ago"
+    ],
+    "dur": "16:44",
+    "views_tab": 38000
+   },
+   {
+    "id": "ivOm06I5uJ4",
+    "title": "I Finished My Entire Basement Myself \u2014 Full Reveal",
+    "meta": [
+     "5.9K",
+     "2mo ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 5900
+   },
+   {
+    "id": "X16ZHRyOUNI",
+    "title": "Must Have Deck Add-On",
+    "meta": [
+     "4.8K",
+     "2mo ago"
+    ],
+    "dur": "16:25",
+    "views_tab": 4800
+   },
+   {
+    "id": "v2cH8w-gh28",
+    "title": "Which Barndominium Would You Build? (Incredible Designs)",
+    "meta": [
+     "23K",
+     "3mo ago"
+    ],
+    "dur": "38:41",
+    "views_tab": 23000
+   },
+   {
+    "id": "2ATxIhJqOSk",
+    "title": "Pouring This DIY Patio Didn't Go As Planned",
+    "meta": [
+     "5.5K",
+     "3mo ago"
+    ],
+    "dur": "18:55",
+    "views_tab": 5500
+   },
+   {
+    "id": "8qinP9fNS_Y",
+    "title": "This Deck Was Worse Than I Thought",
+    "meta": [
+     "7.2K",
+     "3mo ago"
+    ],
+    "dur": "19:50",
+    "views_tab": 7200
+   },
+   {
+    "id": "ygBlrali-jk",
+    "title": "Why I Installed a Radon Mitigation System Without a Radon Test",
+    "meta": [
+     "9.8K",
+     "4mo ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 9800
+   },
+   {
+    "id": "Mp_9NQonllo",
+    "title": "This Basement Upgrade Could Save Thousands",
+    "meta": [
+     "6.2K",
+     "4mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 6200
+   },
+   {
+    "id": "2YhKdDRyEGs",
+    "title": "The Basement Transformation Is Finally Taking Shape",
+    "meta": [
+     "6.6K",
+     "4mo ago"
+    ],
+    "dur": "36:55",
+    "views_tab": 6600
+   },
+   {
+    "id": "yBuCxwerqrw",
+    "title": "What It REALLY Cost to Build My Basement Bathroom",
+    "meta": [
+     "5.3K",
+     "4mo ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 5300
+   },
+   {
+    "id": "pQH8rlttUag",
+    "title": "I\u2019ve Installed Tile, Flexstone & Fiberglass Showers\u2026 Here\u2019s My Honest Take",
+    "meta": [
+     "123K",
+     "5mo ago"
+    ],
+    "dur": "10:06",
+    "views_tab": 123000
+   },
+   {
+    "id": "EaMfCZRdjgA",
+    "title": "I Had One Day to Finish My Basement Rough-In\u2026 Before Inspection",
+    "meta": [
+     "4.2K",
+     "5mo ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 4200
+   },
+   {
+    "id": "7dnsGlohfaI",
+    "title": "This Basement Crack Was Leaking\u2026 Here\u2019s What Actually Fixed It",
+    "meta": [
+     "5.2K",
+     "5mo ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 5200
+   },
+   {
+    "id": "8cg3IdYkTgM",
+    "title": "Our Upstairs Was Always Too Hot\u2026 This Fixed It",
+    "meta": [
+     "3.5K",
+     "5mo ago"
+    ],
+    "dur": "16:30",
+    "views_tab": 3500
+   },
+   {
+    "id": "w3y8Q8qqcfQ",
+    "title": " Installing HVAC in My Basement\u2026 This Was Way Harder Than I Expected",
+    "meta": [
+     "4.5K",
+     "6mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 4500
+   },
+   {
+    "id": "4RkwC4x9czs",
+    "title": "I Found a Leak After Framing My Basement\u2026 This Isn\u2019t Good",
+    "meta": [
+     "7.8K",
+     "6mo ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 7800
+   },
+   {
+    "id": "fSlSsEesKK4",
+    "title": "Installing a Ceiling Fan in a Vaulted Living Room (Worth It?)",
+    "meta": [
+     "6.5K",
+     "6mo ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 6500
+   },
+   {
+    "id": "xntQYqHMxPU",
+    "title": "eufy S4 Solar Camera Review \u2013 Can You Trust a Solar Security Camera?",
+    "meta": [
+     "10K",
+     "6mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 10000
+   },
+   {
+    "id": "BVqdy2lhEMc",
+    "title": "We\u2019re Finally Finishing the Basement (Full Plan & Start)",
+    "meta": [
+     "5.1K",
+     "6mo ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 5100
+   },
+   {
+    "id": "xX2Kw-ogVaw",
+    "title": "This Garage Cost WAY More Than I Expected\u2026",
+    "meta": [
+     "15K",
+     "7mo ago"
+    ],
+    "dur": "23:47",
+    "views_tab": 15000
+   },
+   {
+    "id": "gbg0NGe3hkA",
+    "title": "2 Weeks to Finish This Remodel and Move In",
+    "meta": [
+     "5.5K",
+     "7mo ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 5500
+   },
+   {
+    "id": "qjBhYyQ0wPQ",
+    "title": "$4200 Stone Fireplace Upgrade\u2026 Was It Worth It?",
+    "meta": [
+     "MR Post Frame",
+     "and Westlake Royal Building Products",
+     "8.3K",
+     "7mo ago"
+    ],
+    "dur": "28:00",
+    "views_tab": 8300
+   },
+   {
+    "id": "TY1aDYz9xWQ",
+    "title": "FlexStone vs Tile Shower \u2013 Is Tile Worth It Anymore?",
+    "meta": [
+     "510K",
+     "8mo ago"
+    ],
+    "dur": "19:18",
+    "views_tab": 510000
+   },
+   {
+    "id": "IH7lkCtJNKE",
+    "title": "\u201cThe One Upgrade That Finally Fixes Bifold Doors\u201d",
+    "meta": [
+     "104K",
+     "8mo ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 104000
+   },
+   {
+    "id": "oohdWSSlG9E",
+    "title": "\u201cClosetMaid Modular Closet Install: 3 Things I Wish I Knew First\u201d",
+    "meta": [
+     "10K",
+     "8mo ago"
+    ],
+    "dur": "27:54",
+    "views_tab": 10000
+   },
+   {
+    "id": "XeNMDy7CVnA",
+    "title": "Cleaning Out a Blocked Gas Fireplace & Prepping for Versetta Stone - Whole House Remodel!",
+    "meta": [
+     "4.1K",
+     "8mo ago"
+    ],
+    "dur": "19:21",
+    "views_tab": 4100
+   },
+   {
+    "id": "BIM6cG3aTOE",
+    "title": "This DIY Garage Makeover Changed Everything | Trusscore Wall System",
+    "meta": [
+     "7.6K",
+     "9mo ago"
+    ],
+    "dur": "44:08",
+    "views_tab": 7600
+   },
+   {
+    "id": "qjJSUaRrWIE",
+    "title": "Installing or Replacing a Toilet - Things You Need to Know - DIY Whole House Remodel!",
+    "meta": [
+     "3.6K",
+     "9mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 3600
+   },
+   {
+    "id": "xMP9qHqo5Xg",
+    "title": "This is a Ton of Work - DIY Kitchen Renovation!",
+    "meta": [
+     "5K",
+     "9mo ago"
+    ],
+    "dur": "40:54",
+    "views_tab": 5000
+   },
+   {
+    "id": "cz_57qIJ1jY",
+    "title": "I Installed Cabinets After LVP!  Here is How - Bathroom Base Cabinets!",
+    "meta": [
+     "7.2K",
+     "9mo ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 7200
+   },
+   {
+    "id": "BjEBUdFUj5Q",
+    "title": "Venting a Bathroom - Which vent should I use?",
+    "meta": [
+     "23K",
+     "10mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 23000
+   },
+   {
+    "id": "TGBmZPDKUBk",
+    "title": "Do it Yourself and Save!  Lights, Switches, and Outlets! Whole House Renovation!",
+    "meta": [
+     "4.2K",
+     "10mo ago"
+    ],
+    "dur": "34:31",
+    "views_tab": 4200
+   },
+   {
+    "id": "12grFgRFvz0",
+    "title": "Save Thousands and Paint Your Own House!",
+    "meta": [
+     "4.2K",
+     "10mo ago"
+    ],
+    "dur": "33:00",
+    "views_tab": 4200
+   },
+   {
+    "id": "Nj6WPXOTFso",
+    "title": "Whole House Renovation - Finally to Trim and Paint Prep!",
+    "meta": [
+     "3.7K",
+     "10mo ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 3700
+   },
+   {
+    "id": "desW3m7p_Mk",
+    "title": "3 Ways to Install an Interior Door - One is Definitely Easier for the DIY'er!",
+    "meta": [
+     "4.2K",
+     "10mo ago"
+    ],
+    "dur": "32:46",
+    "views_tab": 4200
+   },
+   {
+    "id": "1DfF4B4suBA",
+    "title": "Super Easy DIY Install - LVP that looks like Real Wood! Day 26-29 of Remodeling a House!",
+    "meta": [
+     "5.3K",
+     "11mo ago"
+    ],
+    "dur": "46:36",
+    "views_tab": 5300
+   },
+   {
+    "id": "tRzd04xM8U8",
+    "title": "Roofing and Siding - 4 Reasons to Use Metal!",
+    "meta": [
+     "4.1K",
+     "11mo ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 4100
+   },
+   {
+    "id": "vSl_AFahlAA",
+    "title": "Replacing a Double Vinyl Window - Day 25 of DIY Whole House Remodel!",
+    "meta": [
+     "5.3K",
+     "11mo ago"
+    ],
+    "dur": "25:37",
+    "views_tab": 5300
+   },
+   {
+    "id": "tfC9_b-CdN8",
+    "title": "Sliding Door Replacement Snowballs! Its Never Easy - Days 21-22",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "41:14",
+    "views_tab": 4600
+   },
+   {
+    "id": "xjF7c5yf15k",
+    "title": "Replacing an Exterior Door - Problems You Will Have - DIY How To!",
+    "meta": [
+     "9.4K",
+     "1y ago"
+    ],
+    "dur": "39:32",
+    "views_tab": 9400
+   },
+   {
+    "id": "EVt_H0ZcKT0",
+    "title": "Window Replacement - Should I Remove Siding?",
+    "meta": [
+     "107K",
+     "1y ago"
+    ],
+    "dur": "33:35",
+    "views_tab": 107000
+   },
+   {
+    "id": "TqujFlRiNYU",
+    "title": "Blue Collar Cop Builds $1,000,000 Barndominium!  And Now it is For Sale?",
+    "meta": [
+     "40K",
+     "1y ago"
+    ],
+    "dur": "16:16",
+    "views_tab": 40000
+   },
+   {
+    "id": "f7lbdREDCaI",
+    "title": "How to Seal Can Lights with GREAT STUFF's Wide Spray!",
+    "meta": [
+     "4.1K",
+     "1y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 4100
+   },
+   {
+    "id": "BLgt_elrxqo",
+    "title": "Installing an Ispring Whole House Water Filtration System - WGB32B - CPB - Day 15 and 16",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "35:54",
+    "views_tab": 21000
+   },
+   {
+    "id": "5ASVKAAJTWo",
+    "title": "A Frog Fried my MR Cool Mini-split!",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "20:37",
+    "views_tab": 4500
+   },
+   {
+    "id": "toNniM9OT2I",
+    "title": "Installing Mechanicals - Day 14",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "25:34",
+    "views_tab": 4200
+   },
+   {
+    "id": "TeSusHnPqQ0",
+    "title": "Final Details before Inspection and Water Heater Install Prep - Day 13",
+    "meta": [
+     "5.1K",
+     "1y ago"
+    ],
+    "dur": "32:01",
+    "views_tab": 5100
+   },
+   {
+    "id": "QLkz5yMa9ts",
+    "title": "Replacing Our Front Door!   23 Days Left To be Ready to Sell!",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "18:46",
+    "views_tab": 5000
+   },
+   {
+    "id": "IS1yKk7xSdg",
+    "title": "Building a Custom Vent Hood - Count Down Is On -28 Days To be Ready!",
+    "meta": [
+     "4.7K",
+     "1y ago"
+    ],
+    "dur": "30:00",
+    "views_tab": 4700
+   },
+   {
+    "id": "39Y6MH_t1Ms",
+    "title": "30 Days To Finish Our Barndominium! I'm not sure we can make it!  Installing tile!",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "14:47",
+    "views_tab": 5900
+   },
+   {
+    "id": "5kV-eKJNsvQ",
+    "title": "Why I'm Replacing Copper with Pex  - Remodeling a House - Day 11 and 12",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "33:11",
+    "views_tab": 5900
+   },
+   {
+    "id": "wwVdfRTUT6w",
+    "title": "Installing Tubs  - Remodeling a House - Day 10",
+    "meta": [
+     "4.3K",
+     "1y ago"
+    ],
+    "dur": "28:38",
+    "views_tab": 4300
+   },
+   {
+    "id": "XyS-qnlAyyc",
+    "title": "Paint Sprayer has saved me over $100K! Remodeling a House - Day 8 and 9",
+    "meta": [
+     "6.9K",
+     "1y ago"
+    ],
+    "dur": "38:30",
+    "views_tab": 6900
+   },
+   {
+    "id": "qW_rTxs6K6Y",
+    "title": "Remodeling a House - Day 7 - I made a mistake and got SHOCKED! Relocating switches!",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "30:09",
+    "views_tab": 4500
+   },
+   {
+    "id": "PMUBYiBt428",
+    "title": "Remodeling a House - Day 6 - The Wall is Coming Down!",
+    "meta": [
+     "5.2K",
+     "1y ago"
+    ],
+    "dur": "22:24",
+    "views_tab": 5200
+   },
+   {
+    "id": "Qvgrw4_4qzY",
+    "title": "Remodeling a House - Day 5 - Replacing Rotted Subfloor and Bottom Plates!",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "25:42",
+    "views_tab": 5900
+   },
+   {
+    "id": "ldbyfqVJ1-0",
+    "title": "Remodeling a House - Day 4 - I'm Making Progress!",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "14:59",
+    "views_tab": 4600
+   },
+   {
+    "id": "k_3EHMwlfG8",
+    "title": "Remodeling a House - Day 3 - I Found Black Mold!",
+    "meta": [
+     "5.1K",
+     "1y ago"
+    ],
+    "dur": "28:26",
+    "views_tab": 5100
+   },
+   {
+    "id": "-lfQsAXewgA",
+    "title": "Remodeling a House - Day 2 - Carpet is my Enemy!",
+    "meta": [
+     "4.4K",
+     "1y ago"
+    ],
+    "dur": "15:00",
+    "views_tab": 4400
+   },
+   {
+    "id": "C9WIGq56WQI",
+    "title": "Demo Day on this Fixer Upper...We Found Mice",
+    "meta": [
+     "6.3K",
+     "1y ago"
+    ],
+    "dur": "20:28",
+    "views_tab": 6300
+   },
+   {
+    "id": "d8F7lTmacO8",
+    "title": "GiRAFFE Tools Ultraflow Pressure Washer Saves the Day!  Painting My Conex Boxes!",
+    "meta": [
+     "5.5K",
+     "1y ago"
+    ],
+    "dur": "16:06",
+    "views_tab": 5500
+   },
+   {
+    "id": "UD7iya-_iOM",
+    "title": "Why We Keep Buying Run-Down Houses (Full Tour)",
+    "meta": [
+     "8.2K",
+     "1y ago"
+    ],
+    "dur": "25:27",
+    "views_tab": 8200
+   },
+   {
+    "id": "sgjQfMsz3V8",
+    "title": "Getting Stuff done! We are Really Going to Move!",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 5000
+   },
+   {
+    "id": "ex3hTsQx0IY",
+    "title": "Challenges are Coming my way -  Cleaning up the new property!",
+    "meta": [
+     "7.3K",
+     "1y ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 7300
+   },
+   {
+    "id": "Fm7FUwPmBBg",
+    "title": "Is This The Best Home Security System? - eufy - POE BULLET PTZ - LOCAL AI - CROSS CAMERA TRACKING!",
+    "meta": [
+     "9K",
+     "1y ago"
+    ],
+    "dur": "13:48",
+    "views_tab": 9000
+   },
+   {
+    "id": "W1wL025gVJc",
+    "title": "Hunting Cabin Rebuild - Ep 4 - Radiant Heat System Install - Part 2 with  BlueRidge Company!",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "25:04",
+    "views_tab": 4600
+   },
+   {
+    "id": "Y7Ys4TD-bMQ",
+    "title": "We Bought an Abandoned Motocross Track! Tour of our New Property!",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "23:46",
+    "views_tab": 12000
+   },
+   {
+    "id": "J4IN7T8Iius",
+    "title": "Hunting Cabin Rebuild - Ep 4 - Radiant Heat System Install - Part 1 with  Blue Ridge Company!",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "25:31",
+    "views_tab": 5900
+   },
+   {
+    "id": "o5raAeVd3Uc",
+    "title": "Buying Land instead of a Pool!  Time to get things done! Timber Rattlesnake shows up!",
+    "meta": [
+     "6.8K",
+     "1y ago"
+    ],
+    "dur": "14:49",
+    "views_tab": 6800
+   },
+   {
+    "id": "8EIC2WaduIE",
+    "title": "Thinking about SELLING our Self Built Barndominium!",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 12000
+   },
+   {
+    "id": "9lbeXVzHPuo",
+    "title": "How to Install a Kitchen Sink Faucet and Trap!",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "12:37",
+    "views_tab": 2600
+   },
+   {
+    "id": "xAmTW-BQk6E",
+    "title": "See What 6 Different Barndominiums Cost AND Plans!",
+    "meta": [
+     "8.9K",
+     "1y ago"
+    ],
+    "dur": "2:57:01",
+    "views_tab": 8900
+   },
+   {
+    "id": "vErt1plGLYs",
+    "title": "How to Enhance your Cabinets with Cabinet Lighting! LED Strip lights + Hardware install!",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "19:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "G2vRGdaTehk",
+    "title": "Hunting Cabin Rebuild - Ep3 - MR COOL 36K Multi-zone - How to install a MR Cool Mini Split!",
+    "meta": [
+     "9.7K",
+     "1y ago"
+    ],
+    "dur": "30:34",
+    "views_tab": 9700
+   },
+   {
+    "id": "O61r7JY5auE",
+    "title": "Hunting Cabin Rebuild - Ep2 - I'm Taking the Roof Off! - Interior framing + Roof Repairs",
+    "meta": [
+     "5.2K",
+     "1y ago"
+    ],
+    "dur": "17:24",
+    "views_tab": 5200
+   },
+   {
+    "id": "Ql_LCcUhNlo",
+    "title": "Hunting Cabin Rebuild - Will I ever finish this?",
+    "meta": [
+     "5.4K",
+     "1y ago"
+    ],
+    "dur": "18:40",
+    "views_tab": 5400
+   },
+   {
+    "id": "GGxrQlHXSxE",
+    "title": "MAD COUNTY BUILD - Finally adding more CABINETS to our Barndominium! - DIY - Part 1",
+    "meta": [
+     "5.5K",
+     "1y ago"
+    ],
+    "dur": "15:12",
+    "views_tab": 5500
+   },
+   {
+    "id": "xBO4lrLOsmc",
+    "title": "Ultimate Storm Shelter | Safe Room - DIY Installation - EF5 Certified - Ironclad Shelter Solutions",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "21:03",
+    "views_tab": 14000
+   },
+   {
+    "id": "i688Fs7_-IA",
+    "title": "The Unsponsored Truth About Spray Foam - Watch this before Choosing your Insulation!",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "33:08",
+    "views_tab": 12000
+   },
+   {
+    "id": "xBGPdBBv6Hw",
+    "title": "BUCKET BUNKER - The Ultimate Attachment Storage & Transportation Solution!",
+    "meta": [
+     "6.3K",
+     "1y ago"
+    ],
+    "dur": "13:23",
+    "views_tab": 6300
+   },
+   {
+    "id": "P45dEbCsyw0",
+    "title": "Reclaiming our Garage + Giraffe Tools Pressure Washer Install - Garage Makeover and Cleanup!",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "23:51",
+    "views_tab": 11000
+   },
+   {
+    "id": "txwNBt-jxYI",
+    "title": "24'X48' DIY Garage Cost To Build",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "23:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "_VFe0hOxGe0",
+    "title": "24'x48' Post Frame Garage - Finishing the Interior | Ep 13",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 21000
+   },
+   {
+    "id": "0H_7ZAfnq7A",
+    "title": "24'x48' Post Frame Garage - Finishing the Metal | Ep12",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 6700
+   },
+   {
+    "id": "RK7UYWwyrkE",
+    "title": "2100sf Ranch Barndominium Cost To Build",
+    "meta": [
+     "56K",
+     "1y ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 56000
+   },
+   {
+    "id": "2k4J5judZ6w",
+    "title": "How Much Does a Barndominium Really Cost - \"Pro Vs Self Builder\"",
+    "meta": [
+     "1.4M",
+     "1y ago"
+    ],
+    "dur": "52:11",
+    "views_tab": 1400000
+   },
+   {
+    "id": "r8aPPV9ppiU",
+    "title": "The Perfect Ceiling Fan for your Barndominium!   3 Reasons + How to Install!",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 6100
+   },
+   {
+    "id": "LR9YTMWNV94",
+    "title": "Epic Barndominium Tour: Inside the Stunning Solo Barndo Build - Final Walkthrough!",
+    "meta": [
+     "38K",
+     "1y ago"
+    ],
+    "dur": "19:54",
+    "views_tab": 38000
+   },
+   {
+    "id": "Yb_CQKr4qJQ",
+    "title": "Solo Barndo Build: DIY Your Barndominium | How to Frame the Interior - Part 2 | Ep28",
+    "meta": [
+     "28K",
+     "1y ago"
+    ],
+    "dur": "17:15",
+    "views_tab": 28000
+   },
+   {
+    "id": "wVa5WeP76vI",
+    "title": "Solo Barndo Build: DIY Your Barndominium | How to Frame the Interior - Part 1 | Ep27",
+    "meta": [
+     "77K",
+     "1y ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 77000
+   },
+   {
+    "id": "5LpOsC578DY",
+    "title": "Solo Barndo Build: DIY Your Barnodminium | How long did this Take? Finishing the Structure | Ep26",
+    "meta": [
+     "7.9K",
+     "1y ago"
+    ],
+    "dur": "20:06",
+    "views_tab": 7900
+   },
+   {
+    "id": "4tT-fHGW3Ns",
+    "title": "24'x48' Post Frame Garage | EP 11 - How Great Stuff's \"Wide Spray\" can help you seal up your shop!",
+    "meta": [
+     "8.2K",
+     "1y ago"
+    ],
+    "dur": "13:59",
+    "views_tab": 8200
+   },
+   {
+    "id": "svYwpgdOY0o",
+    "title": "HF96V Thermal Imager - Is it Worth Having? -  How Hot is your Wood Stove? - Self Building a Barndo!",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "10:58",
+    "views_tab": 2000
+   },
+   {
+    "id": "WEcvpMB-vRI",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Metal & Trims - Garage door & Eyebrow | Ep25",
+    "meta": [
+     "7.9K",
+     "1y ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 7900
+   },
+   {
+    "id": "zOux2TsVK-Q",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Metal and Trims Under Porch | Ep24",
+    "meta": [
+     "5.7K",
+     "1y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 5700
+   },
+   {
+    "id": "fSiG82qMBKc",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Gable End Metal and Trims Above a Porch | Ep23",
+    "meta": [
+     "6.2K",
+     "1y ago"
+    ],
+    "dur": "15:15",
+    "views_tab": 6200
+   },
+   {
+    "id": "jFRdXFn_t7A",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Installing Doors | Ep22",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 5000
+   },
+   {
+    "id": "F64q2BxkGRE",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Sidewall Metal + Porch OSB and Underlayment | Ep21",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "20:26",
+    "views_tab": 6700
+   },
+   {
+    "id": "CaKJvjhbtVo",
+    "title": "Solo Barndo Build: DIY Your Barndominium | How to Frame an Eyebrow | Ep20",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 10000
+   },
+   {
+    "id": "xhso0067YOQ",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Tips for Installing Metal | Ep19",
+    "meta": [
+     "7.1K",
+     "1y ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 7100
+   },
+   {
+    "id": "7lH_iLg3YkY",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Framing - Awesome wrap around Porch | Ep18",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "21:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "Fb-aj60O5C8",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Porch Posts and Beams - Awesome wrap around Porch | Ep17",
+    "meta": [
+     "8.7K",
+     "2y ago"
+    ],
+    "dur": "24:00",
+    "views_tab": 8700
+   },
+   {
+    "id": "kPekaG6DDv8",
+    "title": "DIY DEER BLIND ON WHEELS - GRAVITY WAGON TO HUNTING BLIND",
+    "meta": [
+     "40K",
+     "2y ago"
+    ],
+    "dur": "29:15",
+    "views_tab": 40000
+   },
+   {
+    "id": "an7_5zMK1fw",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Prepping Posts for Porch + Installing Windows | Ep16",
+    "meta": [
+     "6.6K",
+     "2y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 6600
+   },
+   {
+    "id": "EPOt5Em8GWI",
+    "title": "24'x48' Post Frame Garage  - Hitz Halter Underslab Insulation | Ep10",
+    "meta": [
+     "7.3K",
+     "2y ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 7300
+   },
+   {
+    "id": "I9CBCH6AFRQ",
+    "title": "Ultimate Barndominium Shop Tour: A Dream Workshop You Have to See!",
+    "meta": [
+     "6.9K",
+     "2y ago"
+    ],
+    "dur": "22:06",
+    "views_tab": 6900
+   },
+   {
+    "id": "XfjuiAeOYzI",
+    "title": "24'x48' Post Frame Garage - House Wrap/Windows/Concrete Prep | Ep 9",
+    "meta": [
+     "5.3K",
+     "2y ago"
+    ],
+    "dur": "21:56",
+    "views_tab": 5300
+   },
+   {
+    "id": "rK3NPxKfgMA",
+    "title": "SELF BUILDING IN THE MOUNTAINS OF MONTANA!",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "44:40",
+    "views_tab": 12000
+   },
+   {
+    "id": "lwD-RCxtrnM",
+    "title": "MY CAMERA MAN LEFT AND THE MAD COUNTY BUILD IS A MESS!",
+    "meta": [
+     "6.4K",
+     "2y ago"
+    ],
+    "dur": "13:09",
+    "views_tab": 6400
+   },
+   {
+    "id": "eSUYaTAj7qs",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Snow Bars + Trims | Ep 15",
+    "meta": [
+     "4.7K",
+     "2y ago"
+    ],
+    "dur": "23:47",
+    "views_tab": 4700
+   },
+   {
+    "id": "gH0RqtHP0aU",
+    "title": "Tub On Concrete Floor | Is Self Building Worth It? | Ep32",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "15:28",
+    "views_tab": 10000
+   },
+   {
+    "id": "b85ISZLnEUI",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Roof Trims | Ep 14",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 4600
+   },
+   {
+    "id": "IY6uRC1bUfY",
+    "title": "Interior Framing Pt 3 | Interior Walls 1st + 2nd Level | Is Self Building Worth It? | Ep31",
+    "meta": [
+     "5.9K",
+     "2y ago"
+    ],
+    "dur": "17:57",
+    "views_tab": 5900
+   },
+   {
+    "id": "DJYwcjeypL4",
+    "title": "Solo Barndo Build: DIY Your Barndominium | Roof Metal | Ep 13",
+    "meta": [
+     "5.7K",
+     "2y ago"
+    ],
+    "dur": "20:08",
+    "views_tab": 5700
+   },
+   {
+    "id": "sE3qyrBLTSM",
+    "title": "Interior Framing Pt 2 | Ext Walls + Post + Beam | Is Self Building Worth It? | Ep30",
+    "meta": [
+     "7.1K",
+     "2y ago"
+    ],
+    "dur": "26:11",
+    "views_tab": 7100
+   },
+   {
+    "id": "ulgmm8RPPvo",
+    "title": "Solo Barndo Build: DIY Your Barndominium | My Favorite Trim | Ep 12",
+    "meta": [
+     "6.3K",
+     "2y ago"
+    ],
+    "dur": "11:28",
+    "views_tab": 6300
+   }
+  ],
+  "Popular": [
+   {
+    "id": "tzDW34SpwAg",
+    "title": "EPIC FULL TIMELAPSE | Self Building a Barndominium!",
+    "meta": [
+     "2.8M",
+     "6y ago"
+    ],
+    "dur": "34:20",
+    "views_tab": 2800000
+   },
+   {
+    "id": "-pHVXLzZs50",
+    "title": "Septic System Installation & Manufactured Home Hookup",
+    "meta": [
+     "1.8M",
+     "5y ago"
+    ],
+    "dur": "18:51",
+    "views_tab": 1800000
+   },
+   {
+    "id": "sHdxdLbEqHk",
+    "title": "All Black Barndominium Cost Breakdown and Timelapse",
+    "meta": [
+     "1.8M",
+     "4y ago"
+    ],
+    "dur": "16:55",
+    "views_tab": 1800000
+   },
+   {
+    "id": "Ur5Y7R3c3EQ",
+    "title": "Turn-Key Ranch Barndominium Cost Breakdown | Remington Plan",
+    "meta": [
+     "1.8M",
+     "4y ago"
+    ],
+    "dur": "23:52",
+    "views_tab": 1800000
+   },
+   {
+    "id": "KtrZSxKqIek",
+    "title": "Garage Material Cost + Labor + Full Timelapse | 30' x 40' x 9'",
+    "meta": [
+     "1.6M",
+     "3y ago"
+    ],
+    "dur": "16:49",
+    "views_tab": 1600000
+   },
+   {
+    "id": "2k4J5judZ6w",
+    "title": "How Much Does a Barndominium Really Cost - \"Pro Vs Self Builder\"",
+    "meta": [
+     "1.4M",
+     "1y ago"
+    ],
+    "dur": "52:11",
+    "views_tab": 1400000
+   },
+   {
+    "id": "JvUOujyy9cA",
+    "title": "How Much Does it Cost? - Barndominium Material Cost + Full Timelapse | Frontier Fields",
+    "meta": [
+     "1.3M",
+     "3y ago"
+    ],
+    "dur": "32:27",
+    "views_tab": 1300000
+   },
+   {
+    "id": "K0qe3RyO4hg",
+    "title": "$57 Per Square Foot Barndominum Cost Breakdown | Mad County",
+    "meta": [
+     "1.3M",
+     "3y ago"
+    ],
+    "dur": "36:48",
+    "views_tab": 1300000
+   },
+   {
+    "id": "eOaI6ysWBAk",
+    "title": "Barndominium Real Cost With DIY General Contracting | Holliwell",
+    "meta": [
+     "886K",
+     "2y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 886000
+   },
+   {
+    "id": "Qbf6r3CL8Fg",
+    "title": "Installing a Septic System Ep13",
+    "meta": [
+     "672K",
+     "6y ago"
+    ],
+    "dur": "20:21",
+    "views_tab": 672000
+   },
+   {
+    "id": "gDLg_pmQZhI",
+    "title": "OG Self-Built Barndominium Cost Breakdown | Mad County",
+    "meta": [
+     "624K",
+     "6y ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 624000
+   },
+   {
+    "id": "QfsoOYSss-8",
+    "title": "Mobile Home Skirting: Effective Rodent Proofing Tips & Installation",
+    "meta": [
+     "623K",
+     "5y ago"
+    ],
+    "dur": "21:28",
+    "views_tab": 623000
+   },
+   {
+    "id": "4HPyrREX4rY",
+    "title": "Tankless Water Heater Install | Existing Home",
+    "meta": [
+     "602K",
+     "5y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 602000
+   },
+   {
+    "id": "BKab0Q2RYv0",
+    "title": "Interior Framing Part 5 | Floor Joist + Subfloor",
+    "meta": [
+     "547K",
+     "6y ago"
+    ],
+    "dur": "21:19",
+    "views_tab": 547000
+   },
+   {
+    "id": "TY1aDYz9xWQ",
+    "title": "FlexStone vs Tile Shower \u2013 Is Tile Worth It Anymore?",
+    "meta": [
+     "510K",
+     "8mo ago"
+    ],
+    "dur": "19:18",
+    "views_tab": 510000
+   },
+   {
+    "id": "bxrA8uyZ7Hk",
+    "title": "Replacing a Window on a Brick House | How To",
+    "meta": [
+     "499K",
+     "7y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 499000
+   },
+   {
+    "id": "5r4DLjYwTvI",
+    "title": "Small Concrete Slab Project | Less than $200!",
+    "meta": [
+     "458K",
+     "6y ago"
+    ],
+    "dur": "13:51",
+    "views_tab": 458000
+   },
+   {
+    "id": "3wS_b5qzVJk",
+    "title": "Concrete Slab Preparation | Plumbing Ep12.2 Part 2/3",
+    "meta": [
+     "340K",
+     "7y ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 340000
+   },
+   {
+    "id": "poxmuAeKN1w",
+    "title": "Wood Stove Chimney Install- Metal Roof",
+    "meta": [
+     "296K",
+     "5y ago"
+    ],
+    "dur": "26:33",
+    "views_tab": 296000
+   },
+   {
+    "id": "gBAtaiXlqkY",
+    "title": "Garage Interior | Steel Walls",
+    "meta": [
+     "288K",
+     "6y ago"
+    ],
+    "dur": "25:16",
+    "views_tab": 288000
+   },
+   {
+    "id": "omCLm9k-r5s",
+    "title": "One Piece Tub Shower Install on Concrete Slab",
+    "meta": [
+     "274K",
+     "6y ago"
+    ],
+    "dur": "15:47",
+    "views_tab": 274000
+   },
+   {
+    "id": "6ePWjHG757s",
+    "title": "Post Frame Construction Pros + Cons",
+    "meta": [
+     "266K",
+     "6y ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 266000
+   },
+   {
+    "id": "QL9udBHlxCE",
+    "title": "Tools & Equipment Used for Clearing Land",
+    "meta": [
+     "257K",
+     "7y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 257000
+   },
+   {
+    "id": "MLZsEhP5ntk",
+    "title": "Inside a 2,300 sq ft Two-Story Barndominium | Tour the Lakeside",
+    "meta": [
+     "251K",
+     "2y ago"
+    ],
+    "dur": "13:08",
+    "views_tab": 251000
+   },
+   {
+    "id": "84jqTJl0Sl4",
+    "title": "Barndominium Tour / Walk-through | Mad County Build",
+    "meta": [
+     "248K",
+     "3y ago"
+    ],
+    "dur": "34:20",
+    "views_tab": 248000
+   },
+   {
+    "id": "ZaZztK7F0xo",
+    "title": "Interior Framing Part 6 | Second Floor 1",
+    "meta": [
+     "232K",
+     "6y ago"
+    ],
+    "dur": "18:28",
+    "views_tab": 232000
+   },
+   {
+    "id": "ADe-i5zl8n0",
+    "title": "Interior Framing Part 7 | Second Floor 2",
+    "meta": [
+     "215K",
+     "6y ago"
+    ],
+    "dur": "19:36",
+    "views_tab": 215000
+   },
+   {
+    "id": "7RKOImlZMNw",
+    "title": "How To Sturdy Up a Fiberglass Tub Shower Using Spray Foam",
+    "meta": [
+     "213K",
+     "5y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 213000
+   },
+   {
+    "id": "noSUHf9poGI",
+    "title": "Intex Above Ground Pool Setup",
+    "meta": [
+     "203K",
+     "5y ago"
+    ],
+    "dur": "13:05",
+    "views_tab": 203000
+   },
+   {
+    "id": "kPh0V87i7GU",
+    "title": "Tub/Shower Plumbing | When a Floor Joist Is in the Way",
+    "meta": [
+     "195K",
+     "6y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 195000
+   },
+   {
+    "id": "KMDVMDxSYC8",
+    "title": "Interior Framing Part 4 | Main Floor Walls",
+    "meta": [
+     "190K",
+     "6y ago"
+    ],
+    "dur": "20:42",
+    "views_tab": 190000
+   },
+   {
+    "id": "a7ULK9Cmutg",
+    "title": "FINANCING Your BARNDOMINIUM | Loan For Your Barndominium",
+    "meta": [
+     "186K",
+     "3y ago"
+    ],
+    "dur": "16:06",
+    "views_tab": 186000
+   },
+   {
+    "id": "zULNadtmyss",
+    "title": "Concrete Slab Preparation | Radiant In Floor Heat Pt 3/3 | Mad County Build Ep12.3",
+    "meta": [
+     "182K",
+     "7y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 182000
+   },
+   {
+    "id": "KbbYP9jS4Lg",
+    "title": "3,000 sq ft Two-Story Dream Barndominium Tour",
+    "meta": [
+     "181K",
+     "2y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 181000
+   },
+   {
+    "id": "JQMaIkDHFOg",
+    "title": "Insulation Options For Your Barndominium | Full Price Breakdown + Comparison",
+    "meta": [
+     "172K",
+     "3y ago"
+    ],
+    "dur": "25:49",
+    "views_tab": 172000
+   },
+   {
+    "id": "IWN3JXFuAs0",
+    "title": "Installing a Furnace and Ac Unit - Part 1",
+    "meta": [
+     "168K",
+     "5y ago"
+    ],
+    "dur": "19:51",
+    "views_tab": 168000
+   },
+   {
+    "id": "AFzB8LTFHPc",
+    "title": "Interior Framing Part 3 | Main Floor Posts and Headers",
+    "meta": [
+     "166K",
+     "6y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 166000
+   },
+   {
+    "id": "r12bNjjNmqs",
+    "title": "Post Frame Home Interior Framing | TIMELAPSE",
+    "meta": [
+     "161K",
+     "6y ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 161000
+   },
+   {
+    "id": "Jwba8_jBXwM",
+    "title": "Lay Out + Square a Structure | Mad County Barndominium Ep4",
+    "meta": [
+     "156K",
+     "7y ago"
+    ],
+    "dur": "17:15",
+    "views_tab": 156000
+   },
+   {
+    "id": "eZ7YdNME8Kc",
+    "title": "Tub + Shower Faucet Install",
+    "meta": [
+     "156K",
+     "5y ago"
+    ],
+    "dur": "23:08",
+    "views_tab": 156000
+   },
+   {
+    "id": "_hCIRNtfCSs",
+    "title": "Interior Framing Part 1 | Garage Bonus Room/Attic",
+    "meta": [
+     "148K",
+     "6y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 148000
+   },
+   {
+    "id": "IAeE_2a-618",
+    "title": "DIY Garage Door Installation with High Lift Kit | Part 1",
+    "meta": [
+     "145K",
+     "6y ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 145000
+   },
+   {
+    "id": "G1sb_CJ0p5U",
+    "title": "Installing an Exterior Door | How To",
+    "meta": [
+     "144K",
+     "6y ago"
+    ],
+    "dur": "12:20",
+    "views_tab": 144000
+   },
+   {
+    "id": "PofqGnXqHpk",
+    "title": "Viega Manabloc Install",
+    "meta": [
+     "143K",
+     "6y ago"
+    ],
+    "dur": "16:42",
+    "views_tab": 143000
+   },
+   {
+    "id": "wEGVHGU3Plo",
+    "title": "Interior Framing Part 2 | Outer Walls + Ceiling",
+    "meta": [
+     "139K",
+     "6y ago"
+    ],
+    "dur": "17:39",
+    "views_tab": 139000
+   },
+   {
+    "id": "CcOPNJDvpuo",
+    "title": "How Strong Are Wet Set Brackets? | Piers + Brackets | Cost Breakdown | MAD County Standard | Ep 3",
+    "meta": [
+     "134K",
+     "3y ago"
+    ],
+    "dur": "17:05",
+    "views_tab": 134000
+   },
+   {
+    "id": "sPjQr5iiQq8",
+    "title": "Barndominium Underground Plumbing  | Full Cost Breakdown | MAD County Standard | Ep 7",
+    "meta": [
+     "123K",
+     "3y ago"
+    ],
+    "dur": "21:28",
+    "views_tab": 123000
+   },
+   {
+    "id": "pQH8rlttUag",
+    "title": "I\u2019ve Installed Tile, Flexstone & Fiberglass Showers\u2026 Here\u2019s My Honest Take",
+    "meta": [
+     "123K",
+     "5mo ago"
+    ],
+    "dur": "10:06",
+    "views_tab": 123000
+   },
+   {
+    "id": "JxfbQyhNnZo",
+    "title": "Rat Guard Trim - Corner + End Finishes",
+    "meta": [
+     "123K",
+     "4y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 123000
+   },
+   {
+    "id": "o0Gib81y7UM",
+    "title": "Ox Box Washer Hookup | Laundry Room",
+    "meta": [
+     "121K",
+     "6y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 121000
+   },
+   {
+    "id": "PrMqNkVXSOg",
+    "title": "Framing In the Storm Shelter Ep16.1 Part 1/2",
+    "meta": [
+     "121K",
+     "6y ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 121000
+   },
+   {
+    "id": "2UcufIexo4k",
+    "title": "30 x 40 Post Frame Garage | Framing | Ep 2",
+    "meta": [
+     "115K",
+     "4y ago"
+    ],
+    "dur": "30:28",
+    "views_tab": 115000
+   },
+   {
+    "id": "8VmbNR_xdTw",
+    "title": "Building a Post Frame Home | In-Floor Radiant Heat | Remington | Ep 10",
+    "meta": [
+     "114K",
+     "4y ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 114000
+   },
+   {
+    "id": "L4I_HaNRF-U",
+    "title": "Radiant Heat Cost + Overview Part 5/5 | MAD County Build",
+    "meta": [
+     "114K",
+     "2y ago"
+    ],
+    "dur": "26:37",
+    "views_tab": 114000
+   },
+   {
+    "id": "986oiv3Gv00",
+    "title": "Installing Exterior Door | Step by Step | DIY How To",
+    "meta": [
+     "110K",
+     "3y ago"
+    ],
+    "dur": "21:42",
+    "views_tab": 110000
+   },
+   {
+    "id": "bm1xAzEdAPM",
+    "title": "Installing a Pocket Door Frame Over Concrete & Wood",
+    "meta": [
+     "110K",
+     "6y ago"
+    ],
+    "dur": "18:34",
+    "views_tab": 110000
+   },
+   {
+    "id": "EVt_H0ZcKT0",
+    "title": "Window Replacement - Should I Remove Siding?",
+    "meta": [
+     "107K",
+     "1y ago"
+    ],
+    "dur": "33:35",
+    "views_tab": 107000
+   },
+   {
+    "id": "OBmi-gdGg6Q",
+    "title": "Strong BARNDOMINIUM FOUNDATION Bracket | 36'x80'x19 Barndo Build | Ep2",
+    "meta": [
+     "105K",
+     "3y ago"
+    ],
+    "dur": "23:26",
+    "views_tab": 105000
+   },
+   {
+    "id": "IH7lkCtJNKE",
+    "title": "\u201cThe One Upgrade That Finally Fixes Bifold Doors\u201d",
+    "meta": [
+     "104K",
+     "8mo ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 104000
+   },
+   {
+    "id": "8rYMK-vRYWU",
+    "title": "DIY Garage Door Install | Springs | Part 2",
+    "meta": [
+     "104K",
+     "6y ago"
+    ],
+    "dur": "21:01",
+    "views_tab": 104000
+   },
+   {
+    "id": "N51EYbB5Yos",
+    "title": "30 x 40 Garage | Installing a Metal Ceiling | Ep4",
+    "meta": [
+     "103K",
+     "4y ago"
+    ],
+    "dur": "10:12",
+    "views_tab": 103000
+   },
+   {
+    "id": "xoRifCLNvVw",
+    "title": "In-Floor Radiant Heat Controls Install + Cost Breakdown | One Zone System",
+    "meta": [
+     "103K",
+     "3y ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 103000
+   },
+   {
+    "id": "swCz8hxd1-8",
+    "title": "Septic System Install | Complete Cost Breakdown",
+    "meta": [
+     "102K",
+     "4y ago"
+    ],
+    "dur": "20:05",
+    "views_tab": 102000
+   },
+   {
+    "id": "vrjRwYGS2KI",
+    "title": "2PSI LP Residential Gas System",
+    "meta": [
+     "102K",
+     "6y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 102000
+   },
+   {
+    "id": "7t1jRb3dFv0",
+    "title": "The Barndo Build | Day 26: J-Trim Around Windows + West Side Metal  | Ep 17",
+    "meta": [
+     "101K",
+     "4y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 101000
+   },
+   {
+    "id": "qwW7aKu4hnU",
+    "title": "30 x 40 Post Frame Garage | Layout + Footings | Ep1",
+    "meta": [
+     "100K",
+     "4y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 100000
+   },
+   {
+    "id": "RHOgGZh6MKU",
+    "title": "The BARNDOMINIUM BUILD Process | Introduction",
+    "meta": [
+     "97K",
+     "3y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 97000
+   },
+   {
+    "id": "rhJp1BnArp8",
+    "title": "Framing In the Storm Shelter Ep16.2 Part 2/2",
+    "meta": [
+     "95K",
+     "6y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 95000
+   },
+   {
+    "id": "p4jLAAIP97w",
+    "title": "DIY Shiplap Ceiling | Living Room + Loft",
+    "meta": [
+     "93K",
+     "5y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 93000
+   },
+   {
+    "id": "wVZxD7vwDU0",
+    "title": "Garage Interior | Steel Ceiling",
+    "meta": [
+     "92K",
+     "6y ago"
+    ],
+    "dur": "21:12",
+    "views_tab": 92000
+   },
+   {
+    "id": "U6WKv-vykvQ",
+    "title": "OG Self-Built Barndominium Cost Breakdown | Part 2",
+    "meta": [
+     "92K",
+     "5y ago"
+    ],
+    "dur": "18:32",
+    "views_tab": 92000
+   },
+   {
+    "id": "XLi8T6CQVrE",
+    "title": "Ceiling Fan Install | Hunter Fan Company",
+    "meta": [
+     "90K",
+     "5y ago"
+    ],
+    "dur": "15:38",
+    "views_tab": 90000
+   },
+   {
+    "id": "NpPXcKoJNV4",
+    "title": "Penny Tile Installation + Grout | Post Frame Home Bathroom",
+    "meta": [
+     "89K",
+     "5y ago"
+    ],
+    "dur": "17:00",
+    "views_tab": 89000
+   },
+   {
+    "id": "VR7F1Ibzjks",
+    "title": "Building Stairs | Making the Stair Stringer",
+    "meta": [
+     "88K",
+     "6y ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 88000
+   },
+   {
+    "id": "vr5n_rE4nLI",
+    "title": "DIY Concrete Hearth for Basement Fireplace",
+    "meta": [
+     "87K",
+     "6y ago"
+    ],
+    "dur": "5:23",
+    "views_tab": 87000
+   },
+   {
+    "id": "1ufWzmQKxMA",
+    "title": "Bobcat S250 Lift + Tilt Repair",
+    "meta": [
+     "85K",
+     "6y ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 85000
+   },
+   {
+    "id": "Oi0i9runCm4",
+    "title": "Tour This Barndominium | 1700 sq ft Ranch | The Remington",
+    "meta": [
+     "85K",
+     "3y ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 85000
+   },
+   {
+    "id": "2Os_OPkrlyg",
+    "title": "Cost of a Pier Foundation | Barndominum Pier Foundation Step by Step | Tools + Supplies",
+    "meta": [
+     "79K",
+     "2y ago"
+    ],
+    "dur": "30:04",
+    "views_tab": 79000
+   },
+   {
+    "id": "xHxzBpNGfGU",
+    "title": "DIY Chainsaw Mill - Part 2",
+    "meta": [
+     "78K",
+     "5y ago"
+    ],
+    "dur": "21:25",
+    "views_tab": 78000
+   },
+   {
+    "id": "wVa5WeP76vI",
+    "title": "Solo Barndo Build: DIY Your Barndominium | How to Frame the Interior - Part 1 | Ep27",
+    "meta": [
+     "77K",
+     "1y ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 77000
+   },
+   {
+    "id": "hM4V0kpx_94",
+    "title": "Post Frame Interior | Bookshelf Girts",
+    "meta": [
+     "77K",
+     "6y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 77000
+   },
+   {
+    "id": "ycz1Zap464A",
+    "title": "Gas Manifold | Electrical Update",
+    "meta": [
+     "77K",
+     "6y ago"
+    ],
+    "dur": "18:59",
+    "views_tab": 77000
+   },
+   {
+    "id": "DUz05Sipo6Q",
+    "title": "Rough-In Plumbing | Post Frame Home Construction",
+    "meta": [
+     "74K",
+     "6y ago"
+    ],
+    "dur": "21:47",
+    "views_tab": 74000
+   },
+   {
+    "id": "JLKFPyq1VJ8",
+    "title": "Soffit Vent Installation",
+    "meta": [
+     "74K",
+     "6y ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 74000
+   },
+   {
+    "id": "dyTcYZ28Dd4",
+    "title": "Building a Post Frame Home | ICF Frost Wall for Post Frame Home | Ep3",
+    "meta": [
+     "73K",
+     "4y ago"
+    ],
+    "dur": "28:16",
+    "views_tab": 73000
+   },
+   {
+    "id": "82CzGTLL0p0",
+    "title": "Installing a Water Line for a Manufactured Home: From the Road to Your Home",
+    "meta": [
+     "72K",
+     "5y ago"
+    ],
+    "dur": "14:59",
+    "views_tab": 72000
+   },
+   {
+    "id": "hTk8oiKzYa0",
+    "title": "Post Frame Barndominum Exterior Wall Framing Part 1 | Mad County Barndominium Ep 9",
+    "meta": [
+     "71K",
+     "7y ago"
+    ],
+    "dur": "16:41",
+    "views_tab": 71000
+   },
+   {
+    "id": "L3gCfHl3mk4",
+    "title": "Electrical in a Post Frame House | Rough In | Part 1",
+    "meta": [
+     "70K",
+     "6y ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 70000
+   },
+   {
+    "id": "gmkhho4r__4",
+    "title": "Post Frame Home Metal Exterior Install Ep17.2 Part 2/5",
+    "meta": [
+     "68K",
+     "6y ago"
+    ],
+    "dur": "24:42",
+    "views_tab": 68000
+   },
+   {
+    "id": "4qs5Y7Uv6Vw",
+    "title": "Mad County Build | The Slide",
+    "meta": [
+     "67K",
+     "4y ago"
+    ],
+    "dur": "22:12",
+    "views_tab": 67000
+   },
+   {
+    "id": "O9aIdKkk0KE",
+    "title": "Snow Bars on a Metal Roof",
+    "meta": [
+     "67K",
+     "5y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 67000
+   },
+   {
+    "id": "_h-yyFPdxlY",
+    "title": "Post Frame Home -  Ceiling Vapor Barrier Explained!",
+    "meta": [
+     "67K",
+     "5y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 67000
+   },
+   {
+    "id": "CSmGar4D_LE",
+    "title": "Clearing Land | Mad County Barndominium Ep1",
+    "meta": [
+     "66K",
+     "7y ago"
+    ],
+    "dur": "6:30",
+    "views_tab": 66000
+   },
+   {
+    "id": "uNgCZvOyYUc",
+    "title": "Pier Footing Foundation w/Wet Set Brackets | Mad County Barndominum Ep 8",
+    "meta": [
+     "66K",
+     "7y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 66000
+   },
+   {
+    "id": "BugOTjrrNhw",
+    "title": "PROPER Under Slab PLUMBING | Is $elf Building Worth It? | Ep 14",
+    "meta": [
+     "64K",
+     "2y ago"
+    ],
+    "dur": "35:54",
+    "views_tab": 64000
+   },
+   {
+    "id": "AVBLGpHX2jA",
+    "title": "Post Frame Interior Slab + Porch Concrete Pour Ep14",
+    "meta": [
+     "64K",
+     "6y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 64000
+   },
+   {
+    "id": "-WKlsaSHNBA",
+    "title": "64 x 48 Post Frame Barn Removal + Why I Think Posts Should be OUT of the Ground!",
+    "meta": [
+     "63K",
+     "5y ago"
+    ],
+    "dur": "17:47",
+    "views_tab": 63000
+   },
+   {
+    "id": "OHnAghM7RV4",
+    "title": "Kwikset Install + Review (Vancouver Handleset, Smartcode 916 Electronic Deadbolt)",
+    "meta": [
+     "62K",
+     "6y ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 62000
+   },
+   {
+    "id": "6YdvE0vwYaI",
+    "title": "Whitewash Pine Shiplap Ceiling | DIY",
+    "meta": [
+     "61K",
+     "5y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 61000
+   },
+   {
+    "id": "0nSFzCk2_t4",
+    "title": "Kitchen Cabinet Install | CabinetDirect.com",
+    "meta": [
+     "61K",
+     "5y ago"
+    ],
+    "dur": "31:51",
+    "views_tab": 61000
+   },
+   {
+    "id": "ELCNM7ROGDg",
+    "title": "Installing a Furnace and AC unit - Part 2",
+    "meta": [
+     "60K",
+     "5y ago"
+    ],
+    "dur": "20:26",
+    "views_tab": 60000
+   },
+   {
+    "id": "oe2jlgu8OsQ",
+    "title": "Concrete Epoxy Floors | Mad County Build",
+    "meta": [
+     "60K",
+     "5y ago"
+    ],
+    "dur": "20:06",
+    "views_tab": 60000
+   },
+   {
+    "id": "a40SYkyEX-c",
+    "title": "Using Versetta Stone Around Our Front Door | Post Frame Porch",
+    "meta": [
+     "59K",
+     "5y ago"
+    ],
+    "dur": "20:16",
+    "views_tab": 59000
+   },
+   {
+    "id": "p-dQYL9lsNo",
+    "title": "Perfect Below Grade Insulation | Hitz Halter | Insulation + In-Floor Heat Install",
+    "meta": [
+     "58K",
+     "3y ago"
+    ],
+    "dur": "29:33",
+    "views_tab": 58000
+   },
+   {
+    "id": "IPc8STpX5kc",
+    "title": "MRCOOL DIY Multi-Zone Mini Split | System Install | Ep 2",
+    "meta": [
+     "57K",
+     "3y ago"
+    ],
+    "dur": "30:45",
+    "views_tab": 57000
+   },
+   {
+    "id": "nqH4quETStk",
+    "title": "Post Frame Exterior Metal Part 3 | Trimming Out Windows + Tips",
+    "meta": [
+     "56K",
+     "6y ago"
+    ],
+    "dur": "21:54",
+    "views_tab": 56000
+   },
+   {
+    "id": "7tOY6a2VcFc",
+    "title": "Canning Kitchen + Storm Shelter Update",
+    "meta": [
+     "56K",
+     "6y ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 56000
+   },
+   {
+    "id": "RK7UYWwyrkE",
+    "title": "2100sf Ranch Barndominium Cost To Build",
+    "meta": [
+     "56K",
+     "1y ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 56000
+   },
+   {
+    "id": "DLZuylmPu5o",
+    "title": "30 x 40 Garage | Trim + Metal + Windows | Ep3",
+    "meta": [
+     "55K",
+     "4y ago"
+    ],
+    "dur": "25:25",
+    "views_tab": 55000
+   },
+   {
+    "id": "-l75UJsMd1Q",
+    "title": "Watch This Before You Insulate Your Home! | What Caused the Moisture Issue",
+    "meta": [
+     "54K",
+     "5y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 54000
+   },
+   {
+    "id": "1nyS7oNJsMc",
+    "title": "Drywall Is Up! | Part 2",
+    "meta": [
+     "53K",
+     "5y ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 53000
+   },
+   {
+    "id": "y5kEn1gfWlk",
+    "title": "Building a House | Tools You'll Need",
+    "meta": [
+     "53K",
+     "6y ago"
+    ],
+    "dur": "21:58",
+    "views_tab": 53000
+   },
+   {
+    "id": "qf7fq3Ob8YA",
+    "title": "Barndominium Frost Protection + Sheathing  | Full Cost Breakdown | MAD County Standard | Ep 6",
+    "meta": [
+     "52K",
+     "3y ago"
+    ],
+    "dur": "16:42",
+    "views_tab": 52000
+   },
+   {
+    "id": "p_OBhza4Dw0",
+    "title": "Damaged Roof + Garage Trim | How I Fixed It By Myself",
+    "meta": [
+     "52K",
+     "6y ago"
+    ],
+    "dur": "18:42",
+    "views_tab": 52000
+   },
+   {
+    "id": "if3eypJUnYg",
+    "title": "Post Frame Wrap Around Porch Ep15.3 Part 3/4",
+    "meta": [
+     "51K",
+     "6y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 51000
+   },
+   {
+    "id": "M8KWgz44WWU",
+    "title": "Post Frame Wrap Around Porch Ep15.2 Part 2/4",
+    "meta": [
+     "51K",
+     "6y ago"
+    ],
+    "dur": "20:10",
+    "views_tab": 51000
+   },
+   {
+    "id": "2ayTglGLoHg",
+    "title": "Sealing Concrete + Filling Relief Cuts",
+    "meta": [
+     "50K",
+     "6y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 50000
+   },
+   {
+    "id": "VRoMoy5aNdA",
+    "title": "Cost Breakdown: Post and Beam Porch for a Barndominium",
+    "meta": [
+     "50K",
+     "6y ago"
+    ],
+    "dur": "12:43",
+    "views_tab": 50000
+   },
+   {
+    "id": "WIiKQSJW0HE",
+    "title": "Radiant Heat Install | Manifolds | Part 1",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "17:48",
+    "views_tab": 50000
+   },
+   {
+    "id": "vMqVlCj6FTU",
+    "title": "Why We Risked Everything | The Story of Marshall Remodel",
+    "meta": [
+     "50K",
+     "5y ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 50000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "-_CCQNUP6RU",
+    "title": "City House: Crown Molding & Trim Wrap Up",
+    "meta": [
+     "3.3K",
+     "7y ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 3300
+   },
+   {
+    "id": "bxrA8uyZ7Hk",
+    "title": "Replacing a Window on a Brick House | How To",
+    "meta": [
+     "499K",
+     "7y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 499000
+   },
+   {
+    "id": "K3MoFSigsrU",
+    "title": "City House Construction Update",
+    "meta": [
+     "3.9K",
+     "7y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 3900
+   },
+   {
+    "id": "CSmGar4D_LE",
+    "title": "Clearing Land | Mad County Barndominium Ep1",
+    "meta": [
+     "66K",
+     "7y ago"
+    ],
+    "dur": "6:30",
+    "views_tab": 66000
+   },
+   {
+    "id": "1BesvGoFaN8",
+    "title": "Mowing + Burning | Mad County Barndominium Ep3",
+    "meta": [
+     "27K",
+     "7y ago"
+    ],
+    "dur": "6:44",
+    "views_tab": 27000
+   },
+   {
+    "id": "QL9udBHlxCE",
+    "title": "Tools & Equipment Used for Clearing Land",
+    "meta": [
+     "257K",
+     "7y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 257000
+   },
+   {
+    "id": "Jwba8_jBXwM",
+    "title": "Lay Out + Square a Structure | Mad County Barndominium Ep4",
+    "meta": [
+     "156K",
+     "7y ago"
+    ],
+    "dur": "17:15",
+    "views_tab": 156000
+   },
+   {
+    "id": "FIAOleKqYCE",
+    "title": "Storm Shelter Part 1 | Mad County Barndominium Ep 5",
+    "meta": [
+     "37K",
+     "7y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 37000
+   },
+   {
+    "id": "Ts2w1lCJbRs",
+    "title": "Storm Shelter Part 2 | Mad County Barndominium Ep 6",
+    "meta": [
+     "47K",
+     "7y ago"
+    ],
+    "dur": "16:26",
+    "views_tab": 47000
+   },
+   {
+    "id": "Ykr_VL15AkM",
+    "title": "How to Build a Retaining Wall | Mad County Barndominum Ep 7",
+    "meta": [
+     "41K",
+     "7y ago"
+    ],
+    "dur": "13:36",
+    "views_tab": 41000
+   },
+   {
+    "id": "uNgCZvOyYUc",
+    "title": "Pier Footing Foundation w/Wet Set Brackets | Mad County Barndominum Ep 8",
+    "meta": [
+     "66K",
+     "7y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 66000
+   },
+   {
+    "id": "hTk8oiKzYa0",
+    "title": "Post Frame Barndominum Exterior Wall Framing Part 1 | Mad County Barndominium Ep 9",
+    "meta": [
+     "71K",
+     "7y ago"
+    ],
+    "dur": "16:41",
+    "views_tab": 71000
+   },
+   {
+    "id": "UhOoiRtOkoM",
+    "title": "Post Frame Barndominium Exterior Wall Framing Part 2 | Mad County Barndominum Ep 10",
+    "meta": [
+     "41K",
+     "7y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 41000
+   },
+   {
+    "id": "ByE7JgZHK-E",
+    "title": "Metal Roof + Trim | Post Frame Home Ep9.1 Part 1/2",
+    "meta": [
+     "26K",
+     "7y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 26000
+   },
+   {
+    "id": "jg5MpsLaZ1Q",
+    "title": "Metal Roof + Trim | Post Frame Home Ep9.2 Part 2/2",
+    "meta": [
+     "28K",
+     "7y ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 28000
+   },
+   {
+    "id": "XX3gu9i26pg",
+    "title": "Framing in Windows | Post Frame Home Build Ep9.3 Part 3/3",
+    "meta": [
+     "39K",
+     "7y ago"
+    ],
+    "dur": "16:21",
+    "views_tab": 39000
+   },
+   {
+    "id": "7WZAXFBUQaI",
+    "title": "Installing Windows on a Post Frame Home Ep10",
+    "meta": [
+     "24K",
+     "7y ago"
+    ],
+    "dur": "10:03",
+    "views_tab": 24000
+   },
+   {
+    "id": "DG2sDUNrEao",
+    "title": "Post Frame Garage Framing, Mistakes, + How I Fixed Them Ep11.1 Part 1/2",
+    "meta": [
+     "32K",
+     "7y ago"
+    ],
+    "dur": "13:18",
+    "views_tab": 32000
+   },
+   {
+    "id": "nt6ljaNSmdA",
+    "title": "Post Frame Garage Framing Ep11.2 Part 2/2",
+    "meta": [
+     "26K",
+     "7y ago"
+    ],
+    "dur": "10:19",
+    "views_tab": 26000
+   },
+   {
+    "id": "yiK_CjqfM10",
+    "title": "Concrete Slab Preparation Ep12.1 Part 1/3",
+    "meta": [
+     "33K",
+     "7y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 33000
+   },
+   {
+    "id": "3wS_b5qzVJk",
+    "title": "Concrete Slab Preparation | Plumbing Ep12.2 Part 2/3",
+    "meta": [
+     "340K",
+     "7y ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 340000
+   },
+   {
+    "id": "zULNadtmyss",
+    "title": "Concrete Slab Preparation | Radiant In Floor Heat Pt 3/3 | Mad County Build Ep12.3",
+    "meta": [
+     "182K",
+     "7y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 182000
+   },
+   {
+    "id": "Qbf6r3CL8Fg",
+    "title": "Installing a Septic System Ep13",
+    "meta": [
+     "672K",
+     "6y ago"
+    ],
+    "dur": "20:21",
+    "views_tab": 672000
+   },
+   {
+    "id": "AVBLGpHX2jA",
+    "title": "Post Frame Interior Slab + Porch Concrete Pour Ep14",
+    "meta": [
+     "64K",
+     "6y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 64000
+   },
+   {
+    "id": "lK-L_vOH9Ng",
+    "title": "Post Frame Home Build Update",
+    "meta": [
+     "20K",
+     "6y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 20000
+   },
+   {
+    "id": "gDLg_pmQZhI",
+    "title": "OG Self-Built Barndominium Cost Breakdown | Mad County",
+    "meta": [
+     "624K",
+     "6y ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 624000
+   },
+   {
+    "id": "dmCztEdagbg",
+    "title": "Post Frame Wrap Around Porch Ep15.1 Part 1/4",
+    "meta": [
+     "48K",
+     "6y ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 48000
+   },
+   {
+    "id": "M8KWgz44WWU",
+    "title": "Post Frame Wrap Around Porch Ep15.2 Part 2/4",
+    "meta": [
+     "51K",
+     "6y ago"
+    ],
+    "dur": "20:10",
+    "views_tab": 51000
+   },
+   {
+    "id": "if3eypJUnYg",
+    "title": "Post Frame Wrap Around Porch Ep15.3 Part 3/4",
+    "meta": [
+     "51K",
+     "6y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 51000
+   },
+   {
+    "id": "VRoMoy5aNdA",
+    "title": "Cost Breakdown: Post and Beam Porch for a Barndominium",
+    "meta": [
+     "50K",
+     "6y ago"
+    ],
+    "dur": "12:43",
+    "views_tab": 50000
+   },
+   {
+    "id": "PrMqNkVXSOg",
+    "title": "Framing In the Storm Shelter Ep16.1 Part 1/2",
+    "meta": [
+     "121K",
+     "6y ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 121000
+   },
+   {
+    "id": "rhJp1BnArp8",
+    "title": "Framing In the Storm Shelter Ep16.2 Part 2/2",
+    "meta": [
+     "95K",
+     "6y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 95000
+   },
+   {
+    "id": "dVIhJe1NizM",
+    "title": "Post Frame Home Metal Exterior Install Ep17.1 Part 1/5",
+    "meta": [
+     "26K",
+     "6y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 26000
+   },
+   {
+    "id": "G1sb_CJ0p5U",
+    "title": "Installing an Exterior Door | How To",
+    "meta": [
+     "144K",
+     "6y ago"
+    ],
+    "dur": "12:20",
+    "views_tab": 144000
+   },
+   {
+    "id": "gmkhho4r__4",
+    "title": "Post Frame Home Metal Exterior Install Ep17.2 Part 2/5",
+    "meta": [
+     "68K",
+     "6y ago"
+    ],
+    "dur": "24:42",
+    "views_tab": 68000
+   },
+   {
+    "id": "kEZ2bCx49rI",
+    "title": "Laying Out Walls | Stabila LAR 350 Laser Level",
+    "meta": [
+     "34K",
+     "6y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 34000
+   },
+   {
+    "id": "OHnAghM7RV4",
+    "title": "Kwikset Install + Review (Vancouver Handleset, Smartcode 916 Electronic Deadbolt)",
+    "meta": [
+     "62K",
+     "6y ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 62000
+   },
+   {
+    "id": "nqH4quETStk",
+    "title": "Post Frame Exterior Metal Part 3 | Trimming Out Windows + Tips",
+    "meta": [
+     "56K",
+     "6y ago"
+    ],
+    "dur": "21:54",
+    "views_tab": 56000
+   },
+   {
+    "id": "Y-xthtKZaDs",
+    "title": "Bobcat S250 Block Heater Install",
+    "meta": [
+     "20K",
+     "6y ago"
+    ],
+    "dur": "11:25",
+    "views_tab": 20000
+   },
+   {
+    "id": "7HDw6jMiT9c",
+    "title": "Post Frame Steel Install | Trim + Porch + Corners | Pt 4",
+    "meta": [
+     "25K",
+     "6y ago"
+    ],
+    "dur": "14:34",
+    "views_tab": 25000
+   },
+   {
+    "id": "6ePWjHG757s",
+    "title": "Post Frame Construction Pros + Cons",
+    "meta": [
+     "266K",
+     "6y ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 266000
+   },
+   {
+    "id": "CzXqXAOhHLI",
+    "title": "Post Frame Steel Install | Final Tips | Pt 5",
+    "meta": [
+     "49K",
+     "6y ago"
+    ],
+    "dur": "23:16",
+    "views_tab": 49000
+   },
+   {
+    "id": "hM4V0kpx_94",
+    "title": "Post Frame Interior | Bookshelf Girts",
+    "meta": [
+     "77K",
+     "6y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 77000
+   },
+   {
+    "id": "rV-JgQRAOZ8",
+    "title": "Final Preparations Before Insulating Exterior Walls",
+    "meta": [
+     "35K",
+     "6y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 35000
+   },
+   {
+    "id": "2MHcJ8pSSQM",
+    "title": "Recommendations When Building a Post Frame Home",
+    "meta": [
+     "23K",
+     "6y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 23000
+   },
+   {
+    "id": "tzDW34SpwAg",
+    "title": "EPIC FULL TIMELAPSE | Self Building a Barndominium!",
+    "meta": [
+     "2.8M",
+     "6y ago"
+    ],
+    "dur": "34:20",
+    "views_tab": 2800000
+   },
+   {
+    "id": "_hCIRNtfCSs",
+    "title": "Interior Framing Part 1 | Garage Bonus Room/Attic",
+    "meta": [
+     "148K",
+     "6y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 148000
+   },
+   {
+    "id": "y5kEn1gfWlk",
+    "title": "Building a House | Tools You'll Need",
+    "meta": [
+     "53K",
+     "6y ago"
+    ],
+    "dur": "21:58",
+    "views_tab": 53000
+   },
+   {
+    "id": "wEGVHGU3Plo",
+    "title": "Interior Framing Part 2 | Outer Walls + Ceiling",
+    "meta": [
+     "139K",
+     "6y ago"
+    ],
+    "dur": "17:39",
+    "views_tab": 139000
+   },
+   {
+    "id": "AFzB8LTFHPc",
+    "title": "Interior Framing Part 3 | Main Floor Posts and Headers",
+    "meta": [
+     "166K",
+     "6y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 166000
+   },
+   {
+    "id": "KMDVMDxSYC8",
+    "title": "Interior Framing Part 4 | Main Floor Walls",
+    "meta": [
+     "190K",
+     "6y ago"
+    ],
+    "dur": "20:42",
+    "views_tab": 190000
+   },
+   {
+    "id": "omCLm9k-r5s",
+    "title": "One Piece Tub Shower Install on Concrete Slab",
+    "meta": [
+     "274K",
+     "6y ago"
+    ],
+    "dur": "15:47",
+    "views_tab": 274000
+   },
+   {
+    "id": "VR7F1Ibzjks",
+    "title": "Building Stairs | Making the Stair Stringer",
+    "meta": [
+     "88K",
+     "6y ago"
+    ],
+    "dur": "16:27",
+    "views_tab": 88000
+   },
+   {
+    "id": "BKab0Q2RYv0",
+    "title": "Interior Framing Part 5 | Floor Joist + Subfloor",
+    "meta": [
+     "547K",
+     "6y ago"
+    ],
+    "dur": "21:19",
+    "views_tab": 547000
+   },
+   {
+    "id": "wVZxD7vwDU0",
+    "title": "Garage Interior | Steel Ceiling",
+    "meta": [
+     "92K",
+     "6y ago"
+    ],
+    "dur": "21:12",
+    "views_tab": 92000
+   },
+   {
+    "id": "gBAtaiXlqkY",
+    "title": "Garage Interior | Steel Walls",
+    "meta": [
+     "288K",
+     "6y ago"
+    ],
+    "dur": "25:16",
+    "views_tab": 288000
+   },
+   {
+    "id": "IAeE_2a-618",
+    "title": "DIY Garage Door Installation with High Lift Kit | Part 1",
+    "meta": [
+     "145K",
+     "6y ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 145000
+   },
+   {
+    "id": "8rYMK-vRYWU",
+    "title": "DIY Garage Door Install | Springs | Part 2",
+    "meta": [
+     "104K",
+     "6y ago"
+    ],
+    "dur": "21:01",
+    "views_tab": 104000
+   },
+   {
+    "id": "RKnG8AUKLXA",
+    "title": "DIY Garage Door Install | Hardware | Part 3",
+    "meta": [
+     "48K",
+     "6y ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 48000
+   },
+   {
+    "id": "9cMi0_YnMrs",
+    "title": "Mechanicals + Garage Electrical Tour | Post Frame New Build",
+    "meta": [
+     "43K",
+     "6y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 43000
+   },
+   {
+    "id": "ZaZztK7F0xo",
+    "title": "Interior Framing Part 6 | Second Floor 1",
+    "meta": [
+     "232K",
+     "6y ago"
+    ],
+    "dur": "18:28",
+    "views_tab": 232000
+   },
+   {
+    "id": "ADe-i5zl8n0",
+    "title": "Interior Framing Part 7 | Second Floor 2",
+    "meta": [
+     "215K",
+     "6y ago"
+    ],
+    "dur": "19:36",
+    "views_tab": 215000
+   },
+   {
+    "id": "bm1xAzEdAPM",
+    "title": "Installing a Pocket Door Frame Over Concrete & Wood",
+    "meta": [
+     "110K",
+     "6y ago"
+    ],
+    "dur": "18:34",
+    "views_tab": 110000
+   },
+   {
+    "id": "FLz98Qt2-zk",
+    "title": "Post Frame Porch Ceiling Framing",
+    "meta": [
+     "45K",
+     "6y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 45000
+   },
+   {
+    "id": "L3gCfHl3mk4",
+    "title": "Electrical in a Post Frame House | Rough In | Part 1",
+    "meta": [
+     "70K",
+     "6y ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 70000
+   },
+   {
+    "id": "2ayTglGLoHg",
+    "title": "Sealing Concrete + Filling Relief Cuts",
+    "meta": [
+     "50K",
+     "6y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 50000
+   },
+   {
+    "id": "r12bNjjNmqs",
+    "title": "Post Frame Home Interior Framing | TIMELAPSE",
+    "meta": [
+     "161K",
+     "6y ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 161000
+   },
+   {
+    "id": "q9pbBuawre8",
+    "title": "New Build Electrical | Problems, Fixes, Update | Part 2",
+    "meta": [
+     "47K",
+     "6y ago"
+    ],
+    "dur": "15:53",
+    "views_tab": 47000
+   },
+   {
+    "id": "fNIJ-NqO53E",
+    "title": "There's Going To Be a Slide in Our House! | Post Frame Build Update",
+    "meta": [
+     "42K",
+     "6y ago"
+    ],
+    "dur": "7:22",
+    "views_tab": 42000
+   },
+   {
+    "id": "dFO4KpC8dfk",
+    "title": "Gutter Prep | Post Frame House with 18' Sidewalls",
+    "meta": [
+     "31K",
+     "6y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 31000
+   },
+   {
+    "id": "5Kvj32qRuwo",
+    "title": "Basement Window Install",
+    "meta": [
+     "40K",
+     "6y ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 40000
+   },
+   {
+    "id": "ycz1Zap464A",
+    "title": "Gas Manifold | Electrical Update",
+    "meta": [
+     "77K",
+     "6y ago"
+    ],
+    "dur": "18:59",
+    "views_tab": 77000
+   },
+   {
+    "id": "PofqGnXqHpk",
+    "title": "Viega Manabloc Install",
+    "meta": [
+     "143K",
+     "6y ago"
+    ],
+    "dur": "16:42",
+    "views_tab": 143000
+   },
+   {
+    "id": "7tOY6a2VcFc",
+    "title": "Canning Kitchen + Storm Shelter Update",
+    "meta": [
+     "56K",
+     "6y ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 56000
+   },
+   {
+    "id": "vrjRwYGS2KI",
+    "title": "2PSI LP Residential Gas System",
+    "meta": [
+     "102K",
+     "6y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 102000
+   },
+   {
+    "id": "ebo6huHoHTA",
+    "title": "Prime Lights LED Shop Lighting",
+    "meta": [
+     "21K",
+     "6y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 21000
+   },
+   {
+    "id": "ebrTdnHKcsk",
+    "title": "Quick + Easy Garage Shelving for Organization",
+    "meta": [
+     "30K",
+     "6y ago"
+    ],
+    "dur": "9:54",
+    "views_tab": 30000
+   },
+   {
+    "id": "PKzH6v8cCyE",
+    "title": "Acreage Lawn Project | Preparation w/@Ryan Knorr Lawn Care | Pt1",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 28000
+   },
+   {
+    "id": "1ufWzmQKxMA",
+    "title": "Bobcat S250 Lift + Tilt Repair",
+    "meta": [
+     "85K",
+     "6y ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 85000
+   },
+   {
+    "id": "p_OBhza4Dw0",
+    "title": "Damaged Roof + Garage Trim | How I Fixed It By Myself",
+    "meta": [
+     "52K",
+     "6y ago"
+    ],
+    "dur": "18:42",
+    "views_tab": 52000
+   },
+   {
+    "id": "jJ9AoJe3wtE",
+    "title": "Acreage Lawn Project | Seeding the Yard w/@Ryan Knorr Lawn Care | Pt 2",
+    "meta": [
+     "31K",
+     "6y ago"
+    ],
+    "dur": "18:38",
+    "views_tab": 31000
+   },
+   {
+    "id": "sbZlnrM4Dcc",
+    "title": "Acreage Lawn Project | Grass is Growing! | Pt3",
+    "meta": [
+     "20K",
+     "6y ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 20000
+   },
+   {
+    "id": "DUz05Sipo6Q",
+    "title": "Rough-In Plumbing | Post Frame Home Construction",
+    "meta": [
+     "74K",
+     "6y ago"
+    ],
+    "dur": "21:47",
+    "views_tab": 74000
+   },
+   {
+    "id": "kPh0V87i7GU",
+    "title": "Tub/Shower Plumbing | When a Floor Joist Is in the Way",
+    "meta": [
+     "195K",
+     "6y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 195000
+   },
+   {
+    "id": "o0Gib81y7UM",
+    "title": "Ox Box Washer Hookup | Laundry Room",
+    "meta": [
+     "121K",
+     "6y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 121000
+   },
+   {
+    "id": "OQ59Xj-LJxQ",
+    "title": "Wood Stove Preparation | What Should We Do?",
+    "meta": [
+     "39K",
+     "6y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 39000
+   },
+   {
+    "id": "JyIDVG750FI",
+    "title": "How To Flash a Pipe On a Steel Roof | Pipe Boot",
+    "meta": [
+     "22K",
+     "6y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 22000
+   },
+   {
+    "id": "U_rIIbFFn7E",
+    "title": "Acreage Lawn Project | One month after seeding | Pt4",
+    "meta": [
+     "27K",
+     "6y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 27000
+   },
+   {
+    "id": "aT_udqPrHx4",
+    "title": "Gravel | Ep2",
+    "meta": [
+     "29K",
+     "6y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 29000
+   },
+   {
+    "id": "aY8-EF4_lxU",
+    "title": "Duct Work on a 2-Story Barndominium | Part 1",
+    "meta": [
+     "38K",
+     "6y ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 38000
+   },
+   {
+    "id": "vr5n_rE4nLI",
+    "title": "DIY Concrete Hearth for Basement Fireplace",
+    "meta": [
+     "87K",
+     "6y ago"
+    ],
+    "dur": "5:23",
+    "views_tab": 87000
+   },
+   {
+    "id": "hEwYh_Ec160",
+    "title": "Duct Work + Tools You Need | Part 2",
+    "meta": [
+     "21K",
+     "6y ago"
+    ],
+    "dur": "19:37",
+    "views_tab": 21000
+   },
+   {
+    "id": "5r4DLjYwTvI",
+    "title": "Small Concrete Slab Project | Less than $200!",
+    "meta": [
+     "458K",
+     "6y ago"
+    ],
+    "dur": "13:51",
+    "views_tab": 458000
+   },
+   {
+    "id": "qwr2F09j3bc",
+    "title": "Deck Addition",
+    "meta": [
+     "36K",
+     "6y ago"
+    ],
+    "dur": "9:40",
+    "views_tab": 36000
+   },
+   {
+    "id": "JLKFPyq1VJ8",
+    "title": "Soffit Vent Installation",
+    "meta": [
+     "74K",
+     "6y ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 74000
+   },
+   {
+    "id": "_h-yyFPdxlY",
+    "title": "Post Frame Home -  Ceiling Vapor Barrier Explained!",
+    "meta": [
+     "67K",
+     "5y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 67000
+   },
+   {
+    "id": "r1iodJMwOB8",
+    "title": "Update - yard and house exterior",
+    "meta": [
+     "27K",
+     "5y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 27000
+   },
+   {
+    "id": "U6WKv-vykvQ",
+    "title": "OG Self-Built Barndominium Cost Breakdown | Part 2",
+    "meta": [
+     "92K",
+     "5y ago"
+    ],
+    "dur": "18:32",
+    "views_tab": 92000
+   },
+   {
+    "id": "p4jLAAIP97w",
+    "title": "DIY Shiplap Ceiling | Living Room + Loft",
+    "meta": [
+     "93K",
+     "5y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 93000
+   },
+   {
+    "id": "7RKOImlZMNw",
+    "title": "How To Sturdy Up a Fiberglass Tub Shower Using Spray Foam",
+    "meta": [
+     "213K",
+     "5y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 213000
+   },
+   {
+    "id": "9AtorQQkq_4",
+    "title": "Will We Ever Get to Drywall? | Walk Through",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 45000
+   },
+   {
+    "id": "eZ7YdNME8Kc",
+    "title": "Tub + Shower Faucet Install",
+    "meta": [
+     "156K",
+     "5y ago"
+    ],
+    "dur": "23:08",
+    "views_tab": 156000
+   },
+   {
+    "id": "Ms84r6x82tQ",
+    "title": "We Live In The Garage!",
+    "meta": [
+     "48K",
+     "5y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 48000
+   },
+   {
+    "id": "t6Cc-HManfk",
+    "title": "House Tour | Build Update",
+    "meta": [
+     "28K",
+     "5y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 28000
+   },
+   {
+    "id": "XVrPnU1-Fp0",
+    "title": "Ready For Drywall | Post Frame Barndominium",
+    "meta": [
+     "40K",
+     "5y ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 40000
+   },
+   {
+    "id": "4HPyrREX4rY",
+    "title": "Tankless Water Heater Install | Existing Home",
+    "meta": [
+     "602K",
+     "5y ago"
+    ],
+    "dur": "21:50",
+    "views_tab": 602000
+   },
+   {
+    "id": "SHvdLxMDDwo",
+    "title": "Drywall Is Here! | How the Professionals Deliver It | Part 1",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 42000
+   },
+   {
+    "id": "1nyS7oNJsMc",
+    "title": "Drywall Is Up! | Part 2",
+    "meta": [
+     "53K",
+     "5y ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 53000
+   },
+   {
+    "id": "spkJ62dM1aI",
+    "title": "Post Frame Home Attic Duct Work | Insulation",
+    "meta": [
+     "36K",
+     "5y ago"
+    ],
+    "dur": "16:36",
+    "views_tab": 36000
+   },
+   {
+    "id": "0kpvCPbSwbg",
+    "title": "Should I Use Snow Stops, Snow Breakers or Nothing?",
+    "meta": [
+     "26K",
+     "5y ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 26000
+   },
+   {
+    "id": "-1EET61qIRM",
+    "title": "DIY Water Hole Project | Increasing Wildlife Activity",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 15000
+   },
+   {
+    "id": "_Rv94tRingE",
+    "title": "Kitchen Cabinet Design Reveal | CabinetDirect.com",
+    "meta": [
+     "14K",
+     "5y ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 14000
+   },
+   {
+    "id": "FY-g070FU50",
+    "title": "Mad County Build Floor Plans | Study Set",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "3:41",
+    "views_tab": 23000
+   },
+   {
+    "id": "C2LveKCyRuk",
+    "title": "We're Tearing Out the Walls of Our New House",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 45000
+   },
+   {
+    "id": "OJeRFDC7blE",
+    "title": "Installing the Cedar Ceiling on Our Post Frame Wrap Around Porch",
+    "meta": [
+     "26K",
+     "5y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 26000
+   },
+   {
+    "id": "a40SYkyEX-c",
+    "title": "Using Versetta Stone Around Our Front Door | Post Frame Porch",
+    "meta": [
+     "59K",
+     "5y ago"
+    ],
+    "dur": "20:16",
+    "views_tab": 59000
+   },
+   {
+    "id": "-l75UJsMd1Q",
+    "title": "Watch This Before You Insulate Your Home! | What Caused the Moisture Issue",
+    "meta": [
+     "54K",
+     "5y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 54000
+   },
+   {
+    "id": "EeSj3YTa3Xk",
+    "title": "Hanging a Light Above Our Front Door | Post Frame Porch Finishes",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "9:45",
+    "views_tab": 21000
+   },
+   {
+    "id": "eiLV4rArIEc",
+    "title": "Concrete Pad + Sidewalk | 56x25 Driveway",
+    "meta": [
+     "42K",
+     "5y ago"
+    ],
+    "dur": "11:33",
+    "views_tab": 42000
+   },
+   {
+    "id": "ojFF1cUc1SI",
+    "title": "Concrete Control Joints | Relief Cuts",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 41000
+   }
+  ]
+ }
+}

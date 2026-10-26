@@ -1,0 +1,3925 @@
+{
+ "key": "UCoXVJcgdZninmc0lXeBJGCw",
+ "channel": "Shorty HVAC",
+ "id": "UCoXVJcgdZninmc0lXeBJGCw",
+ "subs": "2.85K subscribers",
+ "videos": "202 videos",
+ "pulled": "2026-10-26T07:04:23.807507+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Qtjc3IgJofc",
+    "title": "Old Lennox AC at the Lake Of The Ozarks ",
+    "meta": [
+     "283",
+     "5mo ago"
+    ],
+    "dur": "9:54",
+    "views_tab": 283
+   },
+   {
+    "id": "a-eXEPpVfyY",
+    "title": "Broken Legs Recovery Day #???",
+    "meta": [
+     "249",
+     "6mo ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 249
+   },
+   {
+    "id": "ZNBCoz0exf4",
+    "title": "Recovering From TWO Broken Legs (The Aftermath) ",
+    "meta": [
+     "369",
+     "6mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 369
+   },
+   {
+    "id": "SGmP7ISsGUo",
+    "title": "I Broke BOTH Of My LEGS.. No More HVAC? ",
+    "meta": [
+     "920",
+     "8mo ago"
+    ],
+    "dur": "14:51",
+    "views_tab": 920
+   },
+   {
+    "id": "NExBPAzzOi4",
+    "title": "Amana Central AC Replacement on the Lake | HVAC VLOG",
+    "meta": [
+     "592",
+     "1y ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 592
+   },
+   {
+    "id": "KIL8WPalplo",
+    "title": "\u201cEMERGENCY\u201d HVAC Service Calls",
+    "meta": [
+     "429",
+     "1y ago"
+    ],
+    "dur": "22:01",
+    "views_tab": 429
+   },
+   {
+    "id": "xGCgS8y6ri4",
+    "title": "Re-installing an R-22 Central AC.. in 2025 | Union VS Non-Union | HVAC VLOG",
+    "meta": [
+     "484",
+     "1y ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 484
+   },
+   {
+    "id": "ncgUwKjnD7g",
+    "title": "D.O.A Condenser Update + New Install Apprentice",
+    "meta": [
+     "925",
+     "1y ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 925
+   },
+   {
+    "id": "nwBA7gSITDg",
+    "title": "HVAC Install followed by Service Calls | R32 Compressor D.O.A?",
+    "meta": [
+     "4.8K",
+     "1y ago"
+    ],
+    "dur": "17:47",
+    "views_tab": 4800
+   },
+   {
+    "id": "rGhFLmv3IeY",
+    "title": "R32 Coil Doesn\u2019t Fit & She Has NO AC | THIS HAD TO BE DONE",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 2500
+   },
+   {
+    "id": "UPyVWMTf2jg",
+    "title": "TWO Mini-Splits, ONE Server Room",
+    "meta": [
+     "696",
+     "1y ago"
+    ],
+    "dur": "27:05",
+    "views_tab": 696
+   },
+   {
+    "id": "Y0YRKNLun6A",
+    "title": "HVAC HACK Installs the WRONG Equipment\u2026",
+    "meta": [
+     "399",
+     "1y ago"
+    ],
+    "dur": "21:17",
+    "views_tab": 399
+   },
+   {
+    "id": "eVH9Z1y94i4",
+    "title": "HVAC ASMR: Do you really have to go below 500 microns?",
+    "meta": [
+     "343",
+     "1y ago"
+    ],
+    "dur": "22:01",
+    "views_tab": 343
+   },
+   {
+    "id": "TTV9GoGz8rc",
+    "title": "R-454B Bosch Heat Pump Install on an OLD Furnace",
+    "meta": [
+     "771",
+     "1y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 771
+   },
+   {
+    "id": "N9NCM9gtxNA",
+    "title": "Full R32 System Install in ONE DAY",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 2800
+   },
+   {
+    "id": "6o_5y4Evo8c",
+    "title": "Dragonfly A2L Integration Kit  |  Can you BRAZE on A2L Systems? (Braze vs Press)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 4600
+   },
+   {
+    "id": "5NOTQAjrErA",
+    "title": "DiversiTech Duct Fan Install  |  \u201cThat\u2019s ANOTHER Crawlspace UNDER that one\u201d",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 1100
+   },
+   {
+    "id": "bCW8wmjBnPI",
+    "title": "Some Unusual HVAC Service Calls",
+    "meta": [
+     "446",
+     "1y ago"
+    ],
+    "dur": "23:53",
+    "views_tab": 446
+   },
+   {
+    "id": "MBfOEmqNoDE",
+    "title": "A2L Integration Kit Install (R-454B)",
+    "meta": [
+     "3.4K",
+     "1y ago"
+    ],
+    "dur": "27:31",
+    "views_tab": 3400
+   },
+   {
+    "id": "xlsN-5gQzAo",
+    "title": "A2L rules are here but the refrigerant is NOT?",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "40:41",
+    "views_tab": 1100
+   },
+   {
+    "id": "IwHqKBxTWIc",
+    "title": "Installing a Mini-Split by MYSELF (2nd floor)",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "36:23",
+    "views_tab": 1900
+   },
+   {
+    "id": "kmuF-ctN6bA",
+    "title": "HVAC LIFE: AC SEASON IS HERE",
+    "meta": [
+     "423",
+     "1y ago"
+    ],
+    "dur": "29:05",
+    "views_tab": 423
+   },
+   {
+    "id": "1Fd_aC50g_U",
+    "title": "My Collar\u2019s BLUE\u2026 |  HVAC Tech Vlog",
+    "meta": [
+     "366",
+     "1y ago"
+    ],
+    "dur": "1:01:01",
+    "views_tab": 366
+   },
+   {
+    "id": "KIouAhaHoKo",
+    "title": "Do HVAC they said, it\u2019s FUN they said\u2026",
+    "meta": [
+     "541",
+     "1y ago"
+    ],
+    "dur": "48:06",
+    "views_tab": 541
+   },
+   {
+    "id": "0lTwYfoWZ7E",
+    "title": "POV: HVAC INSTALLER",
+    "meta": [
+     "410",
+     "1y ago"
+    ],
+    "dur": "41:55",
+    "views_tab": 410
+   },
+   {
+    "id": "xaEZr8ZC3jw",
+    "title": "HVAC: Installs vs Service Calls",
+    "meta": [
+     "291",
+     "1y ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 291
+   },
+   {
+    "id": "Zn0dB5mc1I0",
+    "title": "Being the BEST HVAC Tech I can be\u2026",
+    "meta": [
+     "372",
+     "1y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 372
+   },
+   {
+    "id": "E6dgXSNecc0",
+    "title": "HVAC Service Call (AC Repair)",
+    "meta": [
+     "282",
+     "1y ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 282
+   },
+   {
+    "id": "7nP2bF8ha5M",
+    "title": "R-22 in 2025?",
+    "meta": [
+     "186",
+     "1y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 186
+   },
+   {
+    "id": "us6AZrA9IJo",
+    "title": "HVAC Life: After Hours",
+    "meta": [
+     "157",
+     "1y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 157
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Qtjc3IgJofc",
+    "title": "Old Lennox AC at the Lake Of The Ozarks ",
+    "meta": [
+     "283",
+     "5mo ago"
+    ],
+    "dur": "9:54",
+    "views_tab": 283
+   },
+   {
+    "id": "a-eXEPpVfyY",
+    "title": "Broken Legs Recovery Day #???",
+    "meta": [
+     "249",
+     "6mo ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 249
+   },
+   {
+    "id": "ZNBCoz0exf4",
+    "title": "Recovering From TWO Broken Legs (The Aftermath) ",
+    "meta": [
+     "369",
+     "6mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 369
+   },
+   {
+    "id": "SGmP7ISsGUo",
+    "title": "I Broke BOTH Of My LEGS.. No More HVAC? ",
+    "meta": [
+     "920",
+     "8mo ago"
+    ],
+    "dur": "14:51",
+    "views_tab": 920
+   },
+   {
+    "id": "NExBPAzzOi4",
+    "title": "Amana Central AC Replacement on the Lake | HVAC VLOG",
+    "meta": [
+     "592",
+     "1y ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 592
+   },
+   {
+    "id": "KIL8WPalplo",
+    "title": "\u201cEMERGENCY\u201d HVAC Service Calls",
+    "meta": [
+     "429",
+     "1y ago"
+    ],
+    "dur": "22:01",
+    "views_tab": 429
+   },
+   {
+    "id": "xGCgS8y6ri4",
+    "title": "Re-installing an R-22 Central AC.. in 2025 | Union VS Non-Union | HVAC VLOG",
+    "meta": [
+     "484",
+     "1y ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 484
+   },
+   {
+    "id": "ncgUwKjnD7g",
+    "title": "D.O.A Condenser Update + New Install Apprentice",
+    "meta": [
+     "925",
+     "1y ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 925
+   },
+   {
+    "id": "nwBA7gSITDg",
+    "title": "HVAC Install followed by Service Calls | R32 Compressor D.O.A?",
+    "meta": [
+     "4.8K",
+     "1y ago"
+    ],
+    "dur": "17:47",
+    "views_tab": 4800
+   },
+   {
+    "id": "rGhFLmv3IeY",
+    "title": "R32 Coil Doesn\u2019t Fit & She Has NO AC | THIS HAD TO BE DONE",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 2500
+   },
+   {
+    "id": "UPyVWMTf2jg",
+    "title": "TWO Mini-Splits, ONE Server Room",
+    "meta": [
+     "696",
+     "1y ago"
+    ],
+    "dur": "27:05",
+    "views_tab": 696
+   },
+   {
+    "id": "Y0YRKNLun6A",
+    "title": "HVAC HACK Installs the WRONG Equipment\u2026",
+    "meta": [
+     "399",
+     "1y ago"
+    ],
+    "dur": "21:17",
+    "views_tab": 399
+   },
+   {
+    "id": "eVH9Z1y94i4",
+    "title": "HVAC ASMR: Do you really have to go below 500 microns?",
+    "meta": [
+     "343",
+     "1y ago"
+    ],
+    "dur": "22:01",
+    "views_tab": 343
+   },
+   {
+    "id": "TTV9GoGz8rc",
+    "title": "R-454B Bosch Heat Pump Install on an OLD Furnace",
+    "meta": [
+     "771",
+     "1y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 771
+   },
+   {
+    "id": "N9NCM9gtxNA",
+    "title": "Full R32 System Install in ONE DAY",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 2800
+   },
+   {
+    "id": "6o_5y4Evo8c",
+    "title": "Dragonfly A2L Integration Kit  |  Can you BRAZE on A2L Systems? (Braze vs Press)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 4600
+   },
+   {
+    "id": "5NOTQAjrErA",
+    "title": "DiversiTech Duct Fan Install  |  \u201cThat\u2019s ANOTHER Crawlspace UNDER that one\u201d",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 1100
+   },
+   {
+    "id": "bCW8wmjBnPI",
+    "title": "Some Unusual HVAC Service Calls",
+    "meta": [
+     "446",
+     "1y ago"
+    ],
+    "dur": "23:53",
+    "views_tab": 446
+   },
+   {
+    "id": "MBfOEmqNoDE",
+    "title": "A2L Integration Kit Install (R-454B)",
+    "meta": [
+     "3.4K",
+     "1y ago"
+    ],
+    "dur": "27:31",
+    "views_tab": 3400
+   },
+   {
+    "id": "xlsN-5gQzAo",
+    "title": "A2L rules are here but the refrigerant is NOT?",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "40:41",
+    "views_tab": 1100
+   },
+   {
+    "id": "IwHqKBxTWIc",
+    "title": "Installing a Mini-Split by MYSELF (2nd floor)",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "36:23",
+    "views_tab": 1900
+   },
+   {
+    "id": "kmuF-ctN6bA",
+    "title": "HVAC LIFE: AC SEASON IS HERE",
+    "meta": [
+     "423",
+     "1y ago"
+    ],
+    "dur": "29:05",
+    "views_tab": 423
+   },
+   {
+    "id": "1Fd_aC50g_U",
+    "title": "My Collar\u2019s BLUE\u2026 |  HVAC Tech Vlog",
+    "meta": [
+     "366",
+     "1y ago"
+    ],
+    "dur": "1:01:01",
+    "views_tab": 366
+   },
+   {
+    "id": "KIouAhaHoKo",
+    "title": "Do HVAC they said, it\u2019s FUN they said\u2026",
+    "meta": [
+     "541",
+     "1y ago"
+    ],
+    "dur": "48:06",
+    "views_tab": 541
+   },
+   {
+    "id": "0lTwYfoWZ7E",
+    "title": "POV: HVAC INSTALLER",
+    "meta": [
+     "410",
+     "1y ago"
+    ],
+    "dur": "41:55",
+    "views_tab": 410
+   },
+   {
+    "id": "xaEZr8ZC3jw",
+    "title": "HVAC: Installs vs Service Calls",
+    "meta": [
+     "291",
+     "1y ago"
+    ],
+    "dur": "17:11",
+    "views_tab": 291
+   },
+   {
+    "id": "Zn0dB5mc1I0",
+    "title": "Being the BEST HVAC Tech I can be\u2026",
+    "meta": [
+     "372",
+     "1y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 372
+   },
+   {
+    "id": "E6dgXSNecc0",
+    "title": "HVAC Service Call (AC Repair)",
+    "meta": [
+     "282",
+     "1y ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 282
+   },
+   {
+    "id": "7nP2bF8ha5M",
+    "title": "R-22 in 2025?",
+    "meta": [
+     "186",
+     "1y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 186
+   },
+   {
+    "id": "us6AZrA9IJo",
+    "title": "HVAC Life: After Hours",
+    "meta": [
+     "157",
+     "1y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 157
+   },
+   {
+    "id": "nQ8RaFttkLA",
+    "title": "HVAC VLOG: Everyday Is A Good Day (Furnace Install)",
+    "meta": [
+     "262",
+     "1y ago"
+    ],
+    "dur": "17:02",
+    "views_tab": 262
+   },
+   {
+    "id": "6jfXDs3QsbE",
+    "title": "Day in the Life of a 26 Year Old HVAC Installer",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 1700
+   },
+   {
+    "id": "12bZXaFX8ws",
+    "title": "Day in the Life of a 26 Year Old Pipefitter",
+    "meta": [
+     "356",
+     "1y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 356
+   },
+   {
+    "id": "T1XNt2E7e0U",
+    "title": "Day in the Life of a 26 Year Old Plumber",
+    "meta": [
+     "384",
+     "1y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 384
+   },
+   {
+    "id": "m4LliJkuf_U",
+    "title": "Day in the Life of a 26 Year Old HVAC Tech",
+    "meta": [
+     "708",
+     "1y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 708
+   },
+   {
+    "id": "_J6rwKdYeWk",
+    "title": "Is HVAC-R Trade School Needed?",
+    "meta": [
+     "315",
+     "1y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 315
+   },
+   {
+    "id": "jCJVKXRdqY8",
+    "title": "How I Installed AC In A Crawlspace (Residential AC Install)",
+    "meta": [
+     "451",
+     "1y ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 451
+   },
+   {
+    "id": "wJp5Nf-ymXY",
+    "title": "Installing \u201cAir-Bear\u201d Filter Cabinet w/ New Furnace",
+    "meta": [
+     "504",
+     "1y ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 504
+   },
+   {
+    "id": "p3PIks1Kr6I",
+    "title": "HVAC Rooftop Unit Replacement In 2025 (Commercial HVAC) + Addressing The Comments",
+    "meta": [
+     "268",
+     "1y ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 268
+   },
+   {
+    "id": "IOvBZ4ygAcs",
+    "title": "Addressing YouTube Drama + Another Perfect HVAC Installation",
+    "meta": [
+     "576",
+     "1y ago"
+    ],
+    "dur": "15:34",
+    "views_tab": 576
+   },
+   {
+    "id": "EHwDFreT-7c",
+    "title": "Sheet Metal Is A LOST ART",
+    "meta": [
+     "227",
+     "1y ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 227
+   },
+   {
+    "id": "OtDwxauTfP8",
+    "title": "Fixing Major Ductwork Issues",
+    "meta": [
+     "182",
+     "1y ago"
+    ],
+    "dur": "9:26",
+    "views_tab": 182
+   },
+   {
+    "id": "ngcOLLTy364",
+    "title": "HVAC Tech Plays ELECTRICIAN",
+    "meta": [
+     "186",
+     "1y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 186
+   },
+   {
+    "id": "2tyCyPgyNb0",
+    "title": "Everything Needs MOVED OVER\u2026",
+    "meta": [
+     "149",
+     "1y ago"
+    ],
+    "dur": "11:06",
+    "views_tab": 149
+   },
+   {
+    "id": "Azn6sfreSF8",
+    "title": "This Is Why Everyone HATES Mondays",
+    "meta": [
+     "322",
+     "1y ago"
+    ],
+    "dur": "13:36",
+    "views_tab": 322
+   },
+   {
+    "id": "CMuY0aqr89Y",
+    "title": "Installing a Mini-Split in a TOUGH SPOT",
+    "meta": [
+     "174",
+     "1y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 174
+   },
+   {
+    "id": "bodr-GqRcCM",
+    "title": "This Furnace & AC Install Looks AMAZING",
+    "meta": [
+     "395",
+     "1y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 395
+   },
+   {
+    "id": "A0qtMpHU9dY",
+    "title": "The UGLY Side of HVAC, That Nobody Talks About\u2026",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 1000
+   },
+   {
+    "id": "d9pG9qnTHsI",
+    "title": "HVAC: Learning New Things Every Day (Sharing What I\u2019ve Learned)",
+    "meta": [
+     "418",
+     "1y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 418
+   },
+   {
+    "id": "OQxAIQrxY1I",
+    "title": "HVAC Vlog: Leave it to the PROFESSIONALS!",
+    "meta": [
+     "820",
+     "1y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 820
+   },
+   {
+    "id": "vt6TwrjCPw4",
+    "title": "A2L Refrigerants Are HERE! (R-32 System Install)",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "13:01",
+    "views_tab": 5900
+   },
+   {
+    "id": "CHT5JRo-s3o",
+    "title": "HVAC Service Call: A Furnace Revival \ud83e\udea6\ud83d\udcc8 (TOO EASY)",
+    "meta": [
+     "640",
+     "1y ago"
+    ],
+    "dur": "30:22",
+    "views_tab": 640
+   },
+   {
+    "id": "_M7fnoYVIXo",
+    "title": "New HVAC Van! + Are \u201cSide Discharge\u201d Condensers The New Thing?",
+    "meta": [
+     "811",
+     "1y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 811
+   },
+   {
+    "id": "19mWu3HrEBY",
+    "title": "I\u2019m BACK! (HVAC Installer Vlog)",
+    "meta": [
+     "645",
+     "1y ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 645
+   },
+   {
+    "id": "rFAQTAnM0H4",
+    "title": "HVAC Vlog: \u201cFurnace & Air\u201d",
+    "meta": [
+     "416",
+     "2y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 416
+   },
+   {
+    "id": "LA7o6Du16CI",
+    "title": "Furnace Install followed by \u201cNo Heat\u201d Service Calls",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "21:25",
+    "views_tab": 1300
+   },
+   {
+    "id": "DjkgfVYxogA",
+    "title": "HVAC Installer Van Setup",
+    "meta": [
+     "841",
+     "2y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 841
+   },
+   {
+    "id": "IT3sbaZmB5c",
+    "title": "Is Ductwork EASY? (Relocating A Furnace & Installing Ductwork)",
+    "meta": [
+     "354",
+     "2y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 354
+   },
+   {
+    "id": "FS0b2t5_Ebg",
+    "title": "2024 HVAC Van SETUP! (Rough Draft)",
+    "meta": [
+     "918",
+     "2y ago"
+    ],
+    "dur": "21:16",
+    "views_tab": 918
+   },
+   {
+    "id": "cl2iAdptnac",
+    "title": "New HVAC Van + A BUSY Friday",
+    "meta": [
+     "902",
+     "2y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 902
+   },
+   {
+    "id": "OPlxOI7OKYU",
+    "title": "HVAC Life: Furnaces & 4-Wheelers",
+    "meta": [
+     "237",
+     "2y ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 237
+   },
+   {
+    "id": "zCRDRdA1LDg",
+    "title": "BIG HVAC Job At The YMCA",
+    "meta": [
+     "445",
+     "2y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 445
+   },
+   {
+    "id": "QX4kbk-Iwzg",
+    "title": "Is HVAC Easy? (Downflow Furnace Install)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 1400
+   },
+   {
+    "id": "h4i9iL54JXw",
+    "title": "HVAC Toolbag Loadout (Veto Pro Pac Review) + Gym Session",
+    "meta": [
+     "925",
+     "2y ago"
+    ],
+    "dur": "38:34",
+    "views_tab": 925
+   },
+   {
+    "id": "33qTKvvqZkY",
+    "title": "This House Almost BURNED DOWN, So We Replaced The Entire HVAC System \u2705",
+    "meta": [
+     "530",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 530
+   },
+   {
+    "id": "UH-x2mUuJnM",
+    "title": "HVAC On A FRIDAY!? \ud83d\ude09",
+    "meta": [
+     "530",
+     "2y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 530
+   },
+   {
+    "id": "H6fpadEQnOE",
+    "title": "Ductwork & Re-Installing A Condenser (HVAC Vlog)",
+    "meta": [
+     "290",
+     "2y ago"
+    ],
+    "dur": "9:03",
+    "views_tab": 290
+   },
+   {
+    "id": "LTtVCNEMwNE",
+    "title": "Day In The Life: HVAC Installer/Technician (Full Residential HVAC Install)",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 2000
+   },
+   {
+    "id": "Ues1svlwjJc",
+    "title": "Downflow Furance & Central AC Install (Residential HVAC)",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "14:22",
+    "views_tab": 1600
+   },
+   {
+    "id": "3iXiLgYaoDE",
+    "title": "A Full HVAC Install, In ONE Day (Complete Lennox System)",
+    "meta": [
+     "975",
+     "2y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 975
+   },
+   {
+    "id": "kV2_KtZHhio",
+    "title": "HVAC Life: GAS PIPE DAY (Lightwork)",
+    "meta": [
+     "533",
+     "2y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 533
+   },
+   {
+    "id": "GP_NKhNHyQo",
+    "title": "HVAC Vlog: How I Deal With The STRESS (Am I BURNT Out?)",
+    "meta": [
+     "529",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 529
+   },
+   {
+    "id": "wcQ64lfw5jY",
+    "title": "HVAC Tech Surprised With Plumbing Call (HELP!)",
+    "meta": [
+     "378",
+     "2y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 378
+   },
+   {
+    "id": "85smqh9ZcBs",
+    "title": "How To: Be The \u201cNew\u201d Guy In HVAC (LENNOX Full Install)",
+    "meta": [
+     "824",
+     "2y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 824
+   },
+   {
+    "id": "cTR6OEvsUiA",
+    "title": "I Switched Companies! (HUGE UPGRADE)",
+    "meta": [
+     "729",
+     "2y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 729
+   },
+   {
+    "id": "LP4s2KWb468",
+    "title": "HVAC Service Call: Should I Even Charge $$$ For This?!",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "18:55",
+    "views_tab": 1300
+   },
+   {
+    "id": "Cmo-yhBELDQ",
+    "title": "HVAC Life: Your Typical Monday (Sh*t Show!)",
+    "meta": [
+     "849",
+     "2y ago"
+    ],
+    "dur": "12:41",
+    "views_tab": 849
+   },
+   {
+    "id": "DmBMCqTu3mM",
+    "title": "A Full HVAC Install, In The Middle Of NOWHERE!",
+    "meta": [
+     "848",
+     "2y ago"
+    ],
+    "dur": "20:52",
+    "views_tab": 848
+   },
+   {
+    "id": "nxt6PqOzdv0",
+    "title": "I\u2019m Back\u2026 Installing AC For My Old Boss + Another AC Install",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "12:58",
+    "views_tab": 1300
+   },
+   {
+    "id": "EejstU80kbk",
+    "title": "Making HVAC Great Again\u2026",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 1000
+   },
+   {
+    "id": "cPwYBdTsww0",
+    "title": "I Got PROMOTED! HVAC Talk + Attic Central AC Install",
+    "meta": [
+     "3K",
+     "2y ago"
+    ],
+    "dur": "23:41",
+    "views_tab": 3000
+   },
+   {
+    "id": "4Y5uiun7ijc",
+    "title": "HVAC Life: Getting Things Done!",
+    "meta": [
+     "488",
+     "2y ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 488
+   },
+   {
+    "id": "ChX7s-HmzRM",
+    "title": "Bosch Mini-Split Install (Heat Pump) & Adressing The HATERS",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "shpY0foSF2Y",
+    "title": "HVAC Install Tool Bag Loadout",
+    "meta": [
+     "25K",
+     "2y ago"
+    ],
+    "dur": "24:22",
+    "views_tab": 25000
+   },
+   {
+    "id": "YHLuS5NClZE",
+    "title": "HVAC Paid For It: NEW Audio System In Work Van + NEW Personal Truck",
+    "meta": [
+     "776",
+     "2y ago"
+    ],
+    "dur": "14:28",
+    "views_tab": 776
+   },
+   {
+    "id": "egZHa0-j0u4",
+    "title": "Central AC Install, In The CRAWLSPACE!",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 1100
+   },
+   {
+    "id": "x39kuqj7QDU",
+    "title": "AC Compressor BURNT Up & Here\u2019s How To Deal With It",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "21:04",
+    "views_tab": 1800
+   },
+   {
+    "id": "tzrS4LN_NaI",
+    "title": "Traveling 90 Miles To Install A Condenser / HVAC Vlog",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "23:24",
+    "views_tab": 1100
+   },
+   {
+    "id": "vG_UePCP3Ec",
+    "title": "Is HVAC Easy? My HONEST Opinion",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "31:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "16t4DbEqOlE",
+    "title": "Moving A Furnace.. FOUR INCHES UP! (What Would You Do?)",
+    "meta": [
+     "431",
+     "2y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 431
+   },
+   {
+    "id": "Cqs0tDZckhA",
+    "title": "HVAC Service Life: Blower Motor On Pizza Hut, Then Residential Service Calls",
+    "meta": [
+     "690",
+     "2y ago"
+    ],
+    "dur": "29:23",
+    "views_tab": 690
+   },
+   {
+    "id": "qxMEk4ImF1I",
+    "title": "How To Become An HVAC Technician (Where To Get Started)",
+    "meta": [
+     "754",
+     "2y ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 754
+   },
+   {
+    "id": "Zhy95kgRXZY",
+    "title": "HVAC Paid For It (Is Being An HVAC Tech Worth It?)",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 1200
+   },
+   {
+    "id": "XOM1gJU-K7Q",
+    "title": "What It\u2019s Like To Be An HVAC Installer (Installing ALL NEW Carrier System)",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "17:01",
+    "views_tab": 1000
+   },
+   {
+    "id": "tBX2RIYyAgM",
+    "title": "HVAC Service Calls & Commercial HVAC Install, ALL In ONE Day!",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "17:28",
+    "views_tab": 2400
+   },
+   {
+    "id": "FgyRDb8ddIw",
+    "title": "HVAC Install Gone Wrong, Homeowner Left With A 90\u00b0 House\u2026",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 2900
+   },
+   {
+    "id": "Uk1FGhvqSNo",
+    "title": "HVAC Rooftop Unit Replacement (Daikin RTU Install)",
+    "meta": [
+     "2.5K",
+     "2y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 2500
+   },
+   {
+    "id": "sWymhKeiqsE",
+    "title": "Preparing For RTU Replacement, Are Daikin RTU\u2019S Any Good?? / HVAC Vlog",
+    "meta": [
+     "325",
+     "2y ago"
+    ],
+    "dur": "10:08",
+    "views_tab": 325
+   },
+   {
+    "id": "uTF-4gu36hs",
+    "title": "Emergency HVAC Service Calls (Cha-Ching!)",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "LZSjcffaiLk",
+    "title": "HVAC Life: TWO Installs + Service Calls In ONE DAY",
+    "meta": [
+     "967",
+     "2y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 967
+   },
+   {
+    "id": "Nvo191uHH18",
+    "title": "Day One Of A Full HVAC Install: Get The AC Going TODAY!!",
+    "meta": [
+     "647",
+     "2y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 647
+   },
+   {
+    "id": "zjalSD-YbN4",
+    "title": "Being An HVAC Tech Is TOO EASY + Is Carrier OVERRATED?",
+    "meta": [
+     "995",
+     "2y ago"
+    ],
+    "dur": "15:25",
+    "views_tab": 995
+   },
+   {
+    "id": "2qXudprEPto",
+    "title": "Central AC Installation (Carrier Retrofit) DONE In FOUR HOURS",
+    "meta": [
+     "597",
+     "2y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 597
+   },
+   {
+    "id": "rsDOzgvwuCo",
+    "title": "Attic Fan Install: Thinking INSIDE The Box\u2026 \u201cIt\u2019s The Wrong Fan\u2026 Can You Make It Work?\u201d",
+    "meta": [
+     "339",
+     "2y ago"
+    ],
+    "dur": "9:02",
+    "views_tab": 339
+   },
+   {
+    "id": "J2gYXG6sPks",
+    "title": "Homeowner ATTEMPTS To Install A Mini-Split, I Had To Take Over! (Samsung Mini-Split)",
+    "meta": [
+     "390",
+     "2y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 390
+   },
+   {
+    "id": "p5_CWjAxHF0",
+    "title": "How I Deal With CALLBACKS In The HVAC Trade",
+    "meta": [
+     "373",
+     "2y ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 373
+   },
+   {
+    "id": "8qQsziDx8Mk",
+    "title": "HVAC Is The BEST Trade: We Do It ALL!",
+    "meta": [
+     "193",
+     "2y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 193
+   },
+   {
+    "id": "F0n0LcP97ac",
+    "title": "Central AC Maintenance, Is It Even Important?",
+    "meta": [
+     "431",
+     "2y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 431
+   },
+   {
+    "id": "GT3ww7Prd60",
+    "title": "HVAC Tech (ME) Attempts Plumbing (EPIC FAIL)",
+    "meta": [
+     "284",
+     "2y ago"
+    ],
+    "dur": "13:49",
+    "views_tab": 284
+   },
+   {
+    "id": "yHtHTFO-qwk",
+    "title": "Wall Furnace Install (Could ANYONE Do This?) HVAC VLOG",
+    "meta": [
+     "400",
+     "2y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 400
+   },
+   {
+    "id": "L_EyoG1AX9s",
+    "title": "HVAC ATTIC HORRORS: Central AC Install (BRUTAL)",
+    "meta": [
+     "909",
+     "2y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 909
+   },
+   {
+    "id": "e4x0QDI0RGk",
+    "title": "How I Relocated A Central AC  /  HVAC TECH",
+    "meta": [
+     "375",
+     "2y ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 375
+   },
+   {
+    "id": "9Sec3Vskarw",
+    "title": "HVAC Van Setup / Tour (Utilizing Milwaukee Pack-outs)",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "24:41",
+    "views_tab": 17000
+   },
+   {
+    "id": "T0lDITZ-7ok",
+    "title": "Central AC Install\u2026 In The RAIN!",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "XQeU1TT9m4c",
+    "title": "A FULL HVAC Install, In ONE Day! (Rewarded With A Service Call After)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 1400
+   },
+   {
+    "id": "sNgEhODa6us",
+    "title": "HVAC Ride Along: Service Calls (Is Residential HVAC EASY?)",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "9:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "upQp92wH7x8",
+    "title": "This Homeowner Has NEVER Had AC In Their Home\u2026 Until Today! / HVAC Vlog",
+    "meta": [
+     "941",
+     "2y ago"
+    ],
+    "dur": "17:02",
+    "views_tab": 941
+   },
+   {
+    "id": "IQJGSLQnBpQ",
+    "title": "What It\u2019s Like To Be An HVAC TECH In 2024 (Installs & Service Calls)",
+    "meta": [
+     "5.3K",
+     "2y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 5300
+   },
+   {
+    "id": "jOpbel_WahI",
+    "title": "HVAC Install: RTU Replacement (Who Needs A Crane?!)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 1400
+   },
+   {
+    "id": "lyPwj9xST1Q",
+    "title": "Bosch Heat Pump Install, ON THE LAKE / Twin Bosch\u2019s!",
+    "meta": [
+     "466",
+     "2y ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 466
+   }
+  ],
+  "Popular": [
+   {
+    "id": "PgBqmA-VKWQ",
+    "title": "HVAC Life: Getting PAID To Do.. NOTHING?",
+    "meta": [
+     "31K",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 31000
+   },
+   {
+    "id": "shpY0foSF2Y",
+    "title": "HVAC Install Tool Bag Loadout",
+    "meta": [
+     "25K",
+     "2y ago"
+    ],
+    "dur": "24:22",
+    "views_tab": 25000
+   },
+   {
+    "id": "Y0OED0lN9QY",
+    "title": "How To Be A Good HVAC Apprentice In 2023",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 23000
+   },
+   {
+    "id": "9Sec3Vskarw",
+    "title": "HVAC Van Setup / Tour (Utilizing Milwaukee Pack-outs)",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "24:41",
+    "views_tab": 17000
+   },
+   {
+    "id": "eAwr8Zj-G_g",
+    "title": "Ductless Mini-Split Install, And Connecting It To Wi-Fi",
+    "meta": [
+     "16K",
+     "3y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 16000
+   },
+   {
+    "id": "SyZ2HYKhLXw",
+    "title": "How To: Install Registers & Register Boots (HVAC Ductwork)",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 15000
+   },
+   {
+    "id": "Z1LUZug148g",
+    "title": "A Day In The Life: HVAC Installer",
+    "meta": [
+     "8.2K",
+     "3y ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 8200
+   },
+   {
+    "id": "2T7TYeQlsPo",
+    "title": "How I Installed An HVAC Condensing Unit Alone",
+    "meta": [
+     "6.1K",
+     "3y ago"
+    ],
+    "dur": "14:54",
+    "views_tab": 6100
+   },
+   {
+    "id": "wyOqCs48fdo",
+    "title": "Carrier Downflow Furnace Installation At A Day Care",
+    "meta": [
+     "5.9K",
+     "2y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 5900
+   },
+   {
+    "id": "vt6TwrjCPw4",
+    "title": "A2L Refrigerants Are HERE! (R-32 System Install)",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "13:01",
+    "views_tab": 5900
+   },
+   {
+    "id": "IQJGSLQnBpQ",
+    "title": "What It\u2019s Like To Be An HVAC TECH In 2024 (Installs & Service Calls)",
+    "meta": [
+     "5.3K",
+     "2y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 5300
+   },
+   {
+    "id": "dMZAeidt6Wc",
+    "title": "They Should Pay For My Medical Bills. HVAC Vlog",
+    "meta": [
+     "4.8K",
+     "3y ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 4800
+   },
+   {
+    "id": "nwBA7gSITDg",
+    "title": "HVAC Install followed by Service Calls | R32 Compressor D.O.A?",
+    "meta": [
+     "4.8K",
+     "1y ago"
+    ],
+    "dur": "17:47",
+    "views_tab": 4800
+   },
+   {
+    "id": "6o_5y4Evo8c",
+    "title": "Dragonfly A2L Integration Kit  |  Can you BRAZE on A2L Systems? (Braze vs Press)",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "27:18",
+    "views_tab": 4600
+   },
+   {
+    "id": "MBfOEmqNoDE",
+    "title": "A2L Integration Kit Install (R-454B)",
+    "meta": [
+     "3.4K",
+     "1y ago"
+    ],
+    "dur": "27:31",
+    "views_tab": 3400
+   },
+   {
+    "id": "Cym3gvCoZ9E",
+    "title": "HVAC: Dealing With \u201cHelicopter\u201d Customers\u2026",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 3200
+   },
+   {
+    "id": "cPwYBdTsww0",
+    "title": "I Got PROMOTED! HVAC Talk + Attic Central AC Install",
+    "meta": [
+     "3K",
+     "2y ago"
+    ],
+    "dur": "23:41",
+    "views_tab": 3000
+   },
+   {
+    "id": "3B_46JOgN4U",
+    "title": "Installing A Carrier Condenser & Evaporator Coil (Central AC Install)",
+    "meta": [
+     "3K",
+     "3y ago"
+    ],
+    "dur": "10:03",
+    "views_tab": 3000
+   },
+   {
+    "id": "FgyRDb8ddIw",
+    "title": "HVAC Install Gone Wrong, Homeowner Left With A 90\u00b0 House\u2026",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 2900
+   },
+   {
+    "id": "N9NCM9gtxNA",
+    "title": "Full R32 System Install in ONE DAY",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 2800
+   },
+   {
+    "id": "Uk1FGhvqSNo",
+    "title": "HVAC Rooftop Unit Replacement (Daikin RTU Install)",
+    "meta": [
+     "2.5K",
+     "2y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 2500
+   },
+   {
+    "id": "rGhFLmv3IeY",
+    "title": "R32 Coil Doesn\u2019t Fit & She Has NO AC | THIS HAD TO BE DONE",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 2500
+   },
+   {
+    "id": "tBX2RIYyAgM",
+    "title": "HVAC Service Calls & Commercial HVAC Install, ALL In ONE Day!",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "17:28",
+    "views_tab": 2400
+   },
+   {
+    "id": "QhHizI52TiU",
+    "title": "Day In The Life of an HVAC Tech + New Van Setup (Utilizing Milwaukee Packouts)",
+    "meta": [
+     "2.3K",
+     "3y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 2300
+   },
+   {
+    "id": "3f97Adz5Qt0",
+    "title": "Day In The Life: HVAC Service Tech",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 2200
+   },
+   {
+    "id": "LTtVCNEMwNE",
+    "title": "Day In The Life: HVAC Installer/Technician (Full Residential HVAC Install)",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 2000
+   },
+   {
+    "id": "IwHqKBxTWIc",
+    "title": "Installing a Mini-Split by MYSELF (2nd floor)",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "36:23",
+    "views_tab": 1900
+   },
+   {
+    "id": "sNgEhODa6us",
+    "title": "HVAC Ride Along: Service Calls (Is Residential HVAC EASY?)",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "9:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "x39kuqj7QDU",
+    "title": "AC Compressor BURNT Up & Here\u2019s How To Deal With It",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "21:04",
+    "views_tab": 1800
+   },
+   {
+    "id": "i58ajr7EgTY",
+    "title": "Slumlord CHEAPS OUT On HVAC System",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 1800
+   },
+   {
+    "id": "ChX7s-HmzRM",
+    "title": "Bosch Mini-Split Install (Heat Pump) & Adressing The HATERS",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "6jfXDs3QsbE",
+    "title": "Day in the Life of a 26 Year Old HVAC Installer",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 1700
+   },
+   {
+    "id": "C8ynFVs3JAc",
+    "title": "Being An HVAC Apprentice For The Day",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 1700
+   },
+   {
+    "id": "Ues1svlwjJc",
+    "title": "Downflow Furance & Central AC Install (Residential HVAC)",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "14:22",
+    "views_tab": 1600
+   },
+   {
+    "id": "wiBtASUYVy8",
+    "title": "The House Caught On FIRE! They Have To Replace The Entire HVAC System.",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 1600
+   },
+   {
+    "id": "XQeU1TT9m4c",
+    "title": "A FULL HVAC Install, In ONE Day! (Rewarded With A Service Call After)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 1400
+   },
+   {
+    "id": "41d6S6NL9-Q",
+    "title": "Installing a Carrier Furnace, Keeping The Existing R-22 AC System",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 1400
+   },
+   {
+    "id": "QX4kbk-Iwzg",
+    "title": "Is HVAC Easy? (Downflow Furnace Install)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 1400
+   },
+   {
+    "id": "jOpbel_WahI",
+    "title": "HVAC Install: RTU Replacement (Who Needs A Crane?!)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 1400
+   },
+   {
+    "id": "LA7o6Du16CI",
+    "title": "Furnace Install followed by \u201cNo Heat\u201d Service Calls",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "21:25",
+    "views_tab": 1300
+   },
+   {
+    "id": "__WjOA3Geqk",
+    "title": "Here\u2019s Why It\u2019s Important To Use Proper Brazing Techniques",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 1300
+   },
+   {
+    "id": "nxt6PqOzdv0",
+    "title": "I\u2019m Back\u2026 Installing AC For My Old Boss + Another AC Install",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "12:58",
+    "views_tab": 1300
+   },
+   {
+    "id": "LP4s2KWb468",
+    "title": "HVAC Service Call: Should I Even Charge $$$ For This?!",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "18:55",
+    "views_tab": 1300
+   },
+   {
+    "id": "Zhy95kgRXZY",
+    "title": "HVAC Paid For It (Is Being An HVAC Tech Worth It?)",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 1200
+   },
+   {
+    "id": "y306JcyK2bw",
+    "title": "Commercial Refrigeration Vs Residential HVAC",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 1200
+   },
+   {
+    "id": "vG_UePCP3Ec",
+    "title": "Is HVAC Easy? My HONEST Opinion",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "31:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "tzrS4LN_NaI",
+    "title": "Traveling 90 Miles To Install A Condenser / HVAC Vlog",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "23:24",
+    "views_tab": 1100
+   },
+   {
+    "id": "egZHa0-j0u4",
+    "title": "Central AC Install, In The CRAWLSPACE!",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 1100
+   },
+   {
+    "id": "uTF-4gu36hs",
+    "title": "Emergency HVAC Service Calls (Cha-Ching!)",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "6QgBrLmEQS4",
+    "title": "COMBINING Two Furnaces To Work As ONE (HVAC Twinning Kit Install)",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "6:08",
+    "views_tab": 1100
+   },
+   {
+    "id": "xlsN-5gQzAo",
+    "title": "A2L rules are here but the refrigerant is NOT?",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "40:41",
+    "views_tab": 1100
+   },
+   {
+    "id": "5NOTQAjrErA",
+    "title": "DiversiTech Duct Fan Install  |  \u201cThat\u2019s ANOTHER Crawlspace UNDER that one\u201d",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 1100
+   },
+   {
+    "id": "EejstU80kbk",
+    "title": "Making HVAC Great Again\u2026",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 1000
+   },
+   {
+    "id": "XOM1gJU-K7Q",
+    "title": "What It\u2019s Like To Be An HVAC Installer (Installing ALL NEW Carrier System)",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "17:01",
+    "views_tab": 1000
+   },
+   {
+    "id": "oulHMwJ1kPg",
+    "title": "Installing Gas Pipe Into A Residential Home (HVAC Vlog)",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 1000
+   },
+   {
+    "id": "A0qtMpHU9dY",
+    "title": "The UGLY Side of HVAC, That Nobody Talks About\u2026",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 1000
+   },
+   {
+    "id": "T0lDITZ-7ok",
+    "title": "Central AC Install\u2026 In The RAIN!",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "zjalSD-YbN4",
+    "title": "Being An HVAC Tech Is TOO EASY + Is Carrier OVERRATED?",
+    "meta": [
+     "995",
+     "2y ago"
+    ],
+    "dur": "15:25",
+    "views_tab": 995
+   },
+   {
+    "id": "3iXiLgYaoDE",
+    "title": "A Full HVAC Install, In ONE Day (Complete Lennox System)",
+    "meta": [
+     "975",
+     "2y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 975
+   },
+   {
+    "id": "LZSjcffaiLk",
+    "title": "HVAC Life: TWO Installs + Service Calls In ONE DAY",
+    "meta": [
+     "967",
+     "2y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 967
+   },
+   {
+    "id": "jk5L9Xfbsew",
+    "title": "Twinning Luxaire Furnaces + Moving Mini-Splits\u2026 On The 5TH FLOOR! (HVAC VLOG)",
+    "meta": [
+     "943",
+     "2y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 943
+   },
+   {
+    "id": "aWcmoOx48e8",
+    "title": "Coil & Condenser Install (Done RIGHT)",
+    "meta": [
+     "942",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 942
+   },
+   {
+    "id": "upQp92wH7x8",
+    "title": "This Homeowner Has NEVER Had AC In Their Home\u2026 Until Today! / HVAC Vlog",
+    "meta": [
+     "941",
+     "2y ago"
+    ],
+    "dur": "17:02",
+    "views_tab": 941
+   },
+   {
+    "id": "ncgUwKjnD7g",
+    "title": "D.O.A Condenser Update + New Install Apprentice",
+    "meta": [
+     "925",
+     "1y ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 925
+   },
+   {
+    "id": "h4i9iL54JXw",
+    "title": "HVAC Toolbag Loadout (Veto Pro Pac Review) + Gym Session",
+    "meta": [
+     "925",
+     "2y ago"
+    ],
+    "dur": "38:34",
+    "views_tab": 925
+   },
+   {
+    "id": "SGmP7ISsGUo",
+    "title": "I Broke BOTH Of My LEGS.. No More HVAC? ",
+    "meta": [
+     "920",
+     "8mo ago"
+    ],
+    "dur": "14:51",
+    "views_tab": 920
+   },
+   {
+    "id": "FS0b2t5_Ebg",
+    "title": "2024 HVAC Van SETUP! (Rough Draft)",
+    "meta": [
+     "918",
+     "2y ago"
+    ],
+    "dur": "21:16",
+    "views_tab": 918
+   },
+   {
+    "id": "L_EyoG1AX9s",
+    "title": "HVAC ATTIC HORRORS: Central AC Install (BRUTAL)",
+    "meta": [
+     "909",
+     "2y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 909
+   },
+   {
+    "id": "Zh5BtlXWTIM",
+    "title": "Installing An HVAC Condenser\u2026 The Right Way.",
+    "meta": [
+     "905",
+     "3y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 905
+   },
+   {
+    "id": "cl2iAdptnac",
+    "title": "New HVAC Van + A BUSY Friday",
+    "meta": [
+     "902",
+     "2y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 902
+   },
+   {
+    "id": "Cmo-yhBELDQ",
+    "title": "HVAC Life: Your Typical Monday (Sh*t Show!)",
+    "meta": [
+     "849",
+     "2y ago"
+    ],
+    "dur": "12:41",
+    "views_tab": 849
+   },
+   {
+    "id": "DmBMCqTu3mM",
+    "title": "A Full HVAC Install, In The Middle Of NOWHERE!",
+    "meta": [
+     "848",
+     "2y ago"
+    ],
+    "dur": "20:52",
+    "views_tab": 848
+   },
+   {
+    "id": "DjkgfVYxogA",
+    "title": "HVAC Installer Van Setup",
+    "meta": [
+     "841",
+     "2y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 841
+   },
+   {
+    "id": "85smqh9ZcBs",
+    "title": "How To: Be The \u201cNew\u201d Guy In HVAC (LENNOX Full Install)",
+    "meta": [
+     "824",
+     "2y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 824
+   },
+   {
+    "id": "OQxAIQrxY1I",
+    "title": "HVAC Vlog: Leave it to the PROFESSIONALS!",
+    "meta": [
+     "820",
+     "1y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 820
+   },
+   {
+    "id": "l5Sp9yn02ts",
+    "title": "HVAC Adventures: \u201cNope, Take It Down & DO IT RIGHT!\u201d + Doing A Full Install Solo (Kinda)",
+    "meta": [
+     "813",
+     "2y ago"
+    ],
+    "dur": "8:37",
+    "views_tab": 813
+   },
+   {
+    "id": "_M7fnoYVIXo",
+    "title": "New HVAC Van! + Are \u201cSide Discharge\u201d Condensers The New Thing?",
+    "meta": [
+     "811",
+     "1y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 811
+   },
+   {
+    "id": "3MP-SadXsb8",
+    "title": "HVAC Residential Install Part 1: \u201cIt\u2019s Not THAT Wet Down There\u201d",
+    "meta": [
+     "788",
+     "3y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 788
+   },
+   {
+    "id": "YHLuS5NClZE",
+    "title": "HVAC Paid For It: NEW Audio System In Work Van + NEW Personal Truck",
+    "meta": [
+     "776",
+     "2y ago"
+    ],
+    "dur": "14:28",
+    "views_tab": 776
+   },
+   {
+    "id": "TTV9GoGz8rc",
+    "title": "R-454B Bosch Heat Pump Install on an OLD Furnace",
+    "meta": [
+     "771",
+     "1y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 771
+   },
+   {
+    "id": "qxMEk4ImF1I",
+    "title": "How To Become An HVAC Technician (Where To Get Started)",
+    "meta": [
+     "754",
+     "2y ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 754
+   },
+   {
+    "id": "-lV6qxzzJnk",
+    "title": "Flushing Lineset With RX-11 Flush Kit & Using Navac Cordless Power Flaring Tool",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 753
+   },
+   {
+    "id": "cTR6OEvsUiA",
+    "title": "I Switched Companies! (HUGE UPGRADE)",
+    "meta": [
+     "729",
+     "2y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 729
+   },
+   {
+    "id": "gXf6nHvWzrs",
+    "title": "Installing An Air Conditioner\u2026 IN 8\u00b0 WEATHER",
+    "meta": [
+     "711",
+     "2y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 711
+   },
+   {
+    "id": "m4LliJkuf_U",
+    "title": "Day in the Life of a 26 Year Old HVAC Tech",
+    "meta": [
+     "708",
+     "1y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 708
+   },
+   {
+    "id": "PT_bpWquRII",
+    "title": "A Day In The Life: HVAC Installer (Demo Day)",
+    "meta": [
+     "698",
+     "2y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 698
+   },
+   {
+    "id": "UPyVWMTf2jg",
+    "title": "TWO Mini-Splits, ONE Server Room",
+    "meta": [
+     "696",
+     "1y ago"
+    ],
+    "dur": "27:05",
+    "views_tab": 696
+   },
+   {
+    "id": "Cqs0tDZckhA",
+    "title": "HVAC Service Life: Blower Motor On Pizza Hut, Then Residential Service Calls",
+    "meta": [
+     "690",
+     "2y ago"
+    ],
+    "dur": "29:23",
+    "views_tab": 690
+   },
+   {
+    "id": "4EZ9YeDnx9g",
+    "title": "New Construction HVAC Install (& AC Start Up)",
+    "meta": [
+     "688",
+     "2y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 688
+   },
+   {
+    "id": "AXJqLXCPhG8",
+    "title": "The COLD Is Coming! Time For Furnace Maintenance.",
+    "meta": [
+     "658",
+     "3y ago"
+    ],
+    "dur": "9:50",
+    "views_tab": 658
+   },
+   {
+    "id": "Nvo191uHH18",
+    "title": "Day One Of A Full HVAC Install: Get The AC Going TODAY!!",
+    "meta": [
+     "647",
+     "2y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 647
+   },
+   {
+    "id": "19mWu3HrEBY",
+    "title": "I\u2019m BACK! (HVAC Installer Vlog)",
+    "meta": [
+     "645",
+     "1y ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 645
+   },
+   {
+    "id": "CHT5JRo-s3o",
+    "title": "HVAC Service Call: A Furnace Revival \ud83e\udea6\ud83d\udcc8 (TOO EASY)",
+    "meta": [
+     "640",
+     "1y ago"
+    ],
+    "dur": "30:22",
+    "views_tab": 640
+   },
+   {
+    "id": "ZR2vBZI19lY",
+    "title": "The Church Needs An Entirely Different HVAC Setup.. Furnace, AC and Ductwork Installation",
+    "meta": [
+     "623",
+     "2y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 623
+   },
+   {
+    "id": "SWRhBOg91uo",
+    "title": "A Day In The Life: HVAC Installer/Technician",
+    "meta": [
+     "621",
+     "3y ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 621
+   },
+   {
+    "id": "2qXudprEPto",
+    "title": "Central AC Installation (Carrier Retrofit) DONE In FOUR HOURS",
+    "meta": [
+     "597",
+     "2y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 597
+   },
+   {
+    "id": "NExBPAzzOi4",
+    "title": "Amana Central AC Replacement on the Lake | HVAC VLOG",
+    "meta": [
+     "592",
+     "1y ago"
+    ],
+    "dur": "15:08",
+    "views_tab": 592
+   },
+   {
+    "id": "TeY0DQSnUDc",
+    "title": "A Furnace Installation GONE WRONG (Was This Genius Or HACKERY?!)",
+    "meta": [
+     "588",
+     "3y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 588
+   },
+   {
+    "id": "IOvBZ4ygAcs",
+    "title": "Addressing YouTube Drama + Another Perfect HVAC Installation",
+    "meta": [
+     "576",
+     "1y ago"
+    ],
+    "dur": "15:34",
+    "views_tab": 576
+   },
+   {
+    "id": "lr8ShcxOl6U",
+    "title": "Walk-In Cooler Not Working, Head Pressure Control EXPLODED! (Commercial Refrigeration)",
+    "meta": [
+     "573",
+     "3y ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 573
+   },
+   {
+    "id": "TFy1KdQ1VN8",
+    "title": "Installing A Miniature Furnace! (HVAC Vlog)",
+    "meta": [
+     "565",
+     "2y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 565
+   },
+   {
+    "id": "QYkDIHj4--s",
+    "title": "Electric Baseboard Heater Installation (The COLD Is Coming!)",
+    "meta": [
+     "545",
+     "3y ago"
+    ],
+    "dur": "7:08",
+    "views_tab": 545
+   },
+   {
+    "id": "KIouAhaHoKo",
+    "title": "Do HVAC they said, it\u2019s FUN they said\u2026",
+    "meta": [
+     "541",
+     "1y ago"
+    ],
+    "dur": "48:06",
+    "views_tab": 541
+   },
+   {
+    "id": "kV2_KtZHhio",
+    "title": "HVAC Life: GAS PIPE DAY (Lightwork)",
+    "meta": [
+     "533",
+     "2y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 533
+   },
+   {
+    "id": "UH-x2mUuJnM",
+    "title": "HVAC On A FRIDAY!? \ud83d\ude09",
+    "meta": [
+     "530",
+     "2y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 530
+   },
+   {
+    "id": "GP_NKhNHyQo",
+    "title": "HVAC Vlog: How I Deal With The STRESS (Am I BURNT Out?)",
+    "meta": [
+     "529",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 529
+   },
+   {
+    "id": "33qTKvvqZkY",
+    "title": "This House Almost BURNED DOWN, So We Replaced The Entire HVAC System \u2705",
+    "meta": [
+     "530",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 530
+   },
+   {
+    "id": "g2rsLv2olA8",
+    "title": "The House Is Falling Apart, Let\u2019s Put A Furnace In It!",
+    "meta": [
+     "524",
+     "3y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 524
+   },
+   {
+    "id": "wJp5Nf-ymXY",
+    "title": "Installing \u201cAir-Bear\u201d Filter Cabinet w/ New Furnace",
+    "meta": [
+     "504",
+     "1y ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 504
+   },
+   {
+    "id": "H1gcsnm6aXY",
+    "title": "Making Sheet Metal \u201cTransition\u201d Using Hand Tools (Installing An Air Bear Filter Cabinet)",
+    "meta": [
+     "488",
+     "2y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 488
+   },
+   {
+    "id": "4Y5uiun7ijc",
+    "title": "HVAC Life: Getting Things Done!",
+    "meta": [
+     "488",
+     "2y ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 488
+   },
+   {
+    "id": "xGCgS8y6ri4",
+    "title": "Re-installing an R-22 Central AC.. in 2025 | Union VS Non-Union | HVAC VLOG",
+    "meta": [
+     "484",
+     "1y ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 484
+   },
+   {
+    "id": "lyPwj9xST1Q",
+    "title": "Bosch Heat Pump Install, ON THE LAKE / Twin Bosch\u2019s!",
+    "meta": [
+     "466",
+     "2y ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 466
+   },
+   {
+    "id": "R9vtoIes4x0",
+    "title": "HVAC Residential Install Part 2: 80% Furnace",
+    "meta": [
+     "466",
+     "3y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 466
+   },
+   {
+    "id": "jCJVKXRdqY8",
+    "title": "How I Installed AC In A Crawlspace (Residential AC Install)",
+    "meta": [
+     "451",
+     "1y ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 451
+   },
+   {
+    "id": "bCW8wmjBnPI",
+    "title": "Some Unusual HVAC Service Calls",
+    "meta": [
+     "446",
+     "1y ago"
+    ],
+    "dur": "23:53",
+    "views_tab": 446
+   },
+   {
+    "id": "zCRDRdA1LDg",
+    "title": "BIG HVAC Job At The YMCA",
+    "meta": [
+     "445",
+     "2y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 445
+   },
+   {
+    "id": "Rp1Oz9pBdOo",
+    "title": "HVAC Vlog: Flex Friday",
+    "meta": [
+     "439",
+     "3y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 439
+   },
+   {
+    "id": "F0n0LcP97ac",
+    "title": "Central AC Maintenance, Is It Even Important?",
+    "meta": [
+     "431",
+     "2y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 431
+   },
+   {
+    "id": "16t4DbEqOlE",
+    "title": "Moving A Furnace.. FOUR INCHES UP! (What Would You Do?)",
+    "meta": [
+     "431",
+     "2y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 431
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "3MP-SadXsb8",
+    "title": "HVAC Residential Install Part 1: \u201cIt\u2019s Not THAT Wet Down There\u201d",
+    "meta": [
+     "788",
+     "3y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 788
+   },
+   {
+    "id": "R9vtoIes4x0",
+    "title": "HVAC Residential Install Part 2: 80% Furnace",
+    "meta": [
+     "466",
+     "3y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 466
+   },
+   {
+    "id": "3f97Adz5Qt0",
+    "title": "Day In The Life: HVAC Service Tech",
+    "meta": [
+     "2.2K",
+     "3y ago"
+    ],
+    "dur": "11:32",
+    "views_tab": 2200
+   },
+   {
+    "id": "2T7TYeQlsPo",
+    "title": "How I Installed An HVAC Condensing Unit Alone",
+    "meta": [
+     "6.1K",
+     "3y ago"
+    ],
+    "dur": "14:54",
+    "views_tab": 6100
+   },
+   {
+    "id": "i58ajr7EgTY",
+    "title": "Slumlord CHEAPS OUT On HVAC System",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 1800
+   },
+   {
+    "id": "PgBqmA-VKWQ",
+    "title": "HVAC Life: Getting PAID To Do.. NOTHING?",
+    "meta": [
+     "31K",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 31000
+   },
+   {
+    "id": "dMZAeidt6Wc",
+    "title": "They Should Pay For My Medical Bills. HVAC Vlog",
+    "meta": [
+     "4.8K",
+     "3y ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 4800
+   },
+   {
+    "id": "C8ynFVs3JAc",
+    "title": "Being An HVAC Apprentice For The Day",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 1700
+   },
+   {
+    "id": "Y0OED0lN9QY",
+    "title": "How To Be A Good HVAC Apprentice In 2023",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 23000
+   },
+   {
+    "id": "Rp1Oz9pBdOo",
+    "title": "HVAC Vlog: Flex Friday",
+    "meta": [
+     "439",
+     "3y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 439
+   },
+   {
+    "id": "g2rsLv2olA8",
+    "title": "The House Is Falling Apart, Let\u2019s Put A Furnace In It!",
+    "meta": [
+     "524",
+     "3y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 524
+   },
+   {
+    "id": "SyZ2HYKhLXw",
+    "title": "How To: Install Registers & Register Boots (HVAC Ductwork)",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 15000
+   },
+   {
+    "id": "3B_46JOgN4U",
+    "title": "Installing A Carrier Condenser & Evaporator Coil (Central AC Install)",
+    "meta": [
+     "3K",
+     "3y ago"
+    ],
+    "dur": "10:03",
+    "views_tab": 3000
+   },
+   {
+    "id": "41d6S6NL9-Q",
+    "title": "Installing a Carrier Furnace, Keeping The Existing R-22 AC System",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 1400
+   },
+   {
+    "id": "Z1LUZug148g",
+    "title": "A Day In The Life: HVAC Installer",
+    "meta": [
+     "8.2K",
+     "3y ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 8200
+   },
+   {
+    "id": "wiBtASUYVy8",
+    "title": "The House Caught On FIRE! They Have To Replace The Entire HVAC System.",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 1600
+   },
+   {
+    "id": "eAwr8Zj-G_g",
+    "title": "Ductless Mini-Split Install, And Connecting It To Wi-Fi",
+    "meta": [
+     "16K",
+     "3y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 16000
+   },
+   {
+    "id": "Zh5BtlXWTIM",
+    "title": "Installing An HVAC Condenser\u2026 The Right Way.",
+    "meta": [
+     "905",
+     "3y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 905
+   },
+   {
+    "id": "__WjOA3Geqk",
+    "title": "Here\u2019s Why It\u2019s Important To Use Proper Brazing Techniques",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 1300
+   },
+   {
+    "id": "AXJqLXCPhG8",
+    "title": "The COLD Is Coming! Time For Furnace Maintenance.",
+    "meta": [
+     "658",
+     "3y ago"
+    ],
+    "dur": "9:50",
+    "views_tab": 658
+   },
+   {
+    "id": "lr8ShcxOl6U",
+    "title": "Walk-In Cooler Not Working, Head Pressure Control EXPLODED! (Commercial Refrigeration)",
+    "meta": [
+     "573",
+     "3y ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 573
+   },
+   {
+    "id": "QhHizI52TiU",
+    "title": "Day In The Life of an HVAC Tech + New Van Setup (Utilizing Milwaukee Packouts)",
+    "meta": [
+     "2.3K",
+     "3y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 2300
+   },
+   {
+    "id": "QYkDIHj4--s",
+    "title": "Electric Baseboard Heater Installation (The COLD Is Coming!)",
+    "meta": [
+     "545",
+     "3y ago"
+    ],
+    "dur": "7:08",
+    "views_tab": 545
+   },
+   {
+    "id": "y306JcyK2bw",
+    "title": "Commercial Refrigeration Vs Residential HVAC",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 1200
+   },
+   {
+    "id": "oulHMwJ1kPg",
+    "title": "Installing Gas Pipe Into A Residential Home (HVAC Vlog)",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 1000
+   },
+   {
+    "id": "TeY0DQSnUDc",
+    "title": "A Furnace Installation GONE WRONG (Was This Genius Or HACKERY?!)",
+    "meta": [
+     "588",
+     "3y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 588
+   },
+   {
+    "id": "SWRhBOg91uo",
+    "title": "A Day In The Life: HVAC Installer/Technician",
+    "meta": [
+     "621",
+     "3y ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 621
+   },
+   {
+    "id": "yGtDcFSQe6A",
+    "title": "Hanging Ductwork In An Attic & Admitting My Mistakes\u2026",
+    "meta": [
+     "337",
+     "3y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 337
+   },
+   {
+    "id": "jk5L9Xfbsew",
+    "title": "Twinning Luxaire Furnaces + Moving Mini-Splits\u2026 On The 5TH FLOOR! (HVAC VLOG)",
+    "meta": [
+     "943",
+     "2y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 943
+   },
+   {
+    "id": "6QgBrLmEQS4",
+    "title": "COMBINING Two Furnaces To Work As ONE (HVAC Twinning Kit Install)",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "6:08",
+    "views_tab": 1100
+   },
+   {
+    "id": "H1gcsnm6aXY",
+    "title": "Making Sheet Metal \u201cTransition\u201d Using Hand Tools (Installing An Air Bear Filter Cabinet)",
+    "meta": [
+     "488",
+     "2y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 488
+   },
+   {
+    "id": "wyOqCs48fdo",
+    "title": "Carrier Downflow Furnace Installation At A Day Care",
+    "meta": [
+     "5.9K",
+     "2y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 5900
+   },
+   {
+    "id": "gXf6nHvWzrs",
+    "title": "Installing An Air Conditioner\u2026 IN 8\u00b0 WEATHER",
+    "meta": [
+     "711",
+     "2y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 711
+   },
+   {
+    "id": "TFy1KdQ1VN8",
+    "title": "Installing A Miniature Furnace! (HVAC Vlog)",
+    "meta": [
+     "565",
+     "2y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 565
+   },
+   {
+    "id": "Cym3gvCoZ9E",
+    "title": "HVAC: Dealing With \u201cHelicopter\u201d Customers\u2026",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 3200
+   },
+   {
+    "id": "-lV6qxzzJnk",
+    "title": "Flushing Lineset With RX-11 Flush Kit & Using Navac Cordless Power Flaring Tool",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 753
+   },
+   {
+    "id": "PT_bpWquRII",
+    "title": "A Day In The Life: HVAC Installer (Demo Day)",
+    "meta": [
+     "698",
+     "2y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 698
+   },
+   {
+    "id": "f1z4wZj4izE",
+    "title": "HVAC Vlog: I LOVE HVAC \ud83e\udd19\ud83c\udffd",
+    "meta": [
+     "305",
+     "2y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 305
+   },
+   {
+    "id": "ZR2vBZI19lY",
+    "title": "The Church Needs An Entirely Different HVAC Setup.. Furnace, AC and Ductwork Installation",
+    "meta": [
+     "623",
+     "2y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 623
+   },
+   {
+    "id": "JgLQDqD9NiQ",
+    "title": "Another Day, Another HVAC Install",
+    "meta": [
+     "319",
+     "2y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 319
+   },
+   {
+    "id": "aWcmoOx48e8",
+    "title": "Coil & Condenser Install (Done RIGHT)",
+    "meta": [
+     "942",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 942
+   },
+   {
+    "id": "j-m011nNxOQ",
+    "title": "The BEST Way To Install An AC System",
+    "meta": [
+     "309",
+     "2y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 309
+   },
+   {
+    "id": "4EZ9YeDnx9g",
+    "title": "New Construction HVAC Install (& AC Start Up)",
+    "meta": [
+     "688",
+     "2y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 688
+   },
+   {
+    "id": "l5Sp9yn02ts",
+    "title": "HVAC Adventures: \u201cNope, Take It Down & DO IT RIGHT!\u201d + Doing A Full Install Solo (Kinda)",
+    "meta": [
+     "813",
+     "2y ago"
+    ],
+    "dur": "8:37",
+    "views_tab": 813
+   },
+   {
+    "id": "cyd3w2ClTMQ",
+    "title": "HVAC 101: Sheet Metal Tips",
+    "meta": [
+     "407",
+     "2y ago"
+    ],
+    "dur": "7:13",
+    "views_tab": 407
+   },
+   {
+    "id": "lyPwj9xST1Q",
+    "title": "Bosch Heat Pump Install, ON THE LAKE / Twin Bosch\u2019s!",
+    "meta": [
+     "466",
+     "2y ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 466
+   },
+   {
+    "id": "jOpbel_WahI",
+    "title": "HVAC Install: RTU Replacement (Who Needs A Crane?!)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "4:16",
+    "views_tab": 1400
+   },
+   {
+    "id": "IQJGSLQnBpQ",
+    "title": "What It\u2019s Like To Be An HVAC TECH In 2024 (Installs & Service Calls)",
+    "meta": [
+     "5.3K",
+     "2y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 5300
+   },
+   {
+    "id": "upQp92wH7x8",
+    "title": "This Homeowner Has NEVER Had AC In Their Home\u2026 Until Today! / HVAC Vlog",
+    "meta": [
+     "941",
+     "2y ago"
+    ],
+    "dur": "17:02",
+    "views_tab": 941
+   },
+   {
+    "id": "sNgEhODa6us",
+    "title": "HVAC Ride Along: Service Calls (Is Residential HVAC EASY?)",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "9:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "XQeU1TT9m4c",
+    "title": "A FULL HVAC Install, In ONE Day! (Rewarded With A Service Call After)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "13:04",
+    "views_tab": 1400
+   },
+   {
+    "id": "T0lDITZ-7ok",
+    "title": "Central AC Install\u2026 In The RAIN!",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "9Sec3Vskarw",
+    "title": "HVAC Van Setup / Tour (Utilizing Milwaukee Pack-outs)",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "24:41",
+    "views_tab": 17000
+   },
+   {
+    "id": "e4x0QDI0RGk",
+    "title": "How I Relocated A Central AC  /  HVAC TECH",
+    "meta": [
+     "375",
+     "2y ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 375
+   },
+   {
+    "id": "L_EyoG1AX9s",
+    "title": "HVAC ATTIC HORRORS: Central AC Install (BRUTAL)",
+    "meta": [
+     "909",
+     "2y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 909
+   },
+   {
+    "id": "yHtHTFO-qwk",
+    "title": "Wall Furnace Install (Could ANYONE Do This?) HVAC VLOG",
+    "meta": [
+     "400",
+     "2y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 400
+   },
+   {
+    "id": "GT3ww7Prd60",
+    "title": "HVAC Tech (ME) Attempts Plumbing (EPIC FAIL)",
+    "meta": [
+     "284",
+     "2y ago"
+    ],
+    "dur": "13:49",
+    "views_tab": 284
+   },
+   {
+    "id": "F0n0LcP97ac",
+    "title": "Central AC Maintenance, Is It Even Important?",
+    "meta": [
+     "431",
+     "2y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 431
+   },
+   {
+    "id": "8qQsziDx8Mk",
+    "title": "HVAC Is The BEST Trade: We Do It ALL!",
+    "meta": [
+     "193",
+     "2y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 193
+   },
+   {
+    "id": "p5_CWjAxHF0",
+    "title": "How I Deal With CALLBACKS In The HVAC Trade",
+    "meta": [
+     "373",
+     "2y ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 373
+   },
+   {
+    "id": "J2gYXG6sPks",
+    "title": "Homeowner ATTEMPTS To Install A Mini-Split, I Had To Take Over! (Samsung Mini-Split)",
+    "meta": [
+     "390",
+     "2y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 390
+   },
+   {
+    "id": "rsDOzgvwuCo",
+    "title": "Attic Fan Install: Thinking INSIDE The Box\u2026 \u201cIt\u2019s The Wrong Fan\u2026 Can You Make It Work?\u201d",
+    "meta": [
+     "339",
+     "2y ago"
+    ],
+    "dur": "9:02",
+    "views_tab": 339
+   },
+   {
+    "id": "2qXudprEPto",
+    "title": "Central AC Installation (Carrier Retrofit) DONE In FOUR HOURS",
+    "meta": [
+     "597",
+     "2y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 597
+   },
+   {
+    "id": "zjalSD-YbN4",
+    "title": "Being An HVAC Tech Is TOO EASY + Is Carrier OVERRATED?",
+    "meta": [
+     "995",
+     "2y ago"
+    ],
+    "dur": "15:25",
+    "views_tab": 995
+   },
+   {
+    "id": "Nvo191uHH18",
+    "title": "Day One Of A Full HVAC Install: Get The AC Going TODAY!!",
+    "meta": [
+     "647",
+     "2y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 647
+   },
+   {
+    "id": "LZSjcffaiLk",
+    "title": "HVAC Life: TWO Installs + Service Calls In ONE DAY",
+    "meta": [
+     "967",
+     "2y ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 967
+   },
+   {
+    "id": "uTF-4gu36hs",
+    "title": "Emergency HVAC Service Calls (Cha-Ching!)",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "sWymhKeiqsE",
+    "title": "Preparing For RTU Replacement, Are Daikin RTU\u2019S Any Good?? / HVAC Vlog",
+    "meta": [
+     "325",
+     "2y ago"
+    ],
+    "dur": "10:08",
+    "views_tab": 325
+   },
+   {
+    "id": "Uk1FGhvqSNo",
+    "title": "HVAC Rooftop Unit Replacement (Daikin RTU Install)",
+    "meta": [
+     "2.5K",
+     "2y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 2500
+   },
+   {
+    "id": "FgyRDb8ddIw",
+    "title": "HVAC Install Gone Wrong, Homeowner Left With A 90\u00b0 House\u2026",
+    "meta": [
+     "2.9K",
+     "2y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 2900
+   },
+   {
+    "id": "tBX2RIYyAgM",
+    "title": "HVAC Service Calls & Commercial HVAC Install, ALL In ONE Day!",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "17:28",
+    "views_tab": 2400
+   },
+   {
+    "id": "XOM1gJU-K7Q",
+    "title": "What It\u2019s Like To Be An HVAC Installer (Installing ALL NEW Carrier System)",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "17:01",
+    "views_tab": 1000
+   },
+   {
+    "id": "Zhy95kgRXZY",
+    "title": "HVAC Paid For It (Is Being An HVAC Tech Worth It?)",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 1200
+   },
+   {
+    "id": "qxMEk4ImF1I",
+    "title": "How To Become An HVAC Technician (Where To Get Started)",
+    "meta": [
+     "754",
+     "2y ago"
+    ],
+    "dur": "23:13",
+    "views_tab": 754
+   },
+   {
+    "id": "Cqs0tDZckhA",
+    "title": "HVAC Service Life: Blower Motor On Pizza Hut, Then Residential Service Calls",
+    "meta": [
+     "690",
+     "2y ago"
+    ],
+    "dur": "29:23",
+    "views_tab": 690
+   },
+   {
+    "id": "16t4DbEqOlE",
+    "title": "Moving A Furnace.. FOUR INCHES UP! (What Would You Do?)",
+    "meta": [
+     "431",
+     "2y ago"
+    ],
+    "dur": "30:47",
+    "views_tab": 431
+   },
+   {
+    "id": "vG_UePCP3Ec",
+    "title": "Is HVAC Easy? My HONEST Opinion",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "31:00",
+    "views_tab": 1100
+   },
+   {
+    "id": "tzrS4LN_NaI",
+    "title": "Traveling 90 Miles To Install A Condenser / HVAC Vlog",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "23:24",
+    "views_tab": 1100
+   },
+   {
+    "id": "x39kuqj7QDU",
+    "title": "AC Compressor BURNT Up & Here\u2019s How To Deal With It",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "21:04",
+    "views_tab": 1800
+   },
+   {
+    "id": "egZHa0-j0u4",
+    "title": "Central AC Install, In The CRAWLSPACE!",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 1100
+   },
+   {
+    "id": "YHLuS5NClZE",
+    "title": "HVAC Paid For It: NEW Audio System In Work Van + NEW Personal Truck",
+    "meta": [
+     "776",
+     "2y ago"
+    ],
+    "dur": "14:28",
+    "views_tab": 776
+   },
+   {
+    "id": "shpY0foSF2Y",
+    "title": "HVAC Install Tool Bag Loadout",
+    "meta": [
+     "25K",
+     "2y ago"
+    ],
+    "dur": "24:22",
+    "views_tab": 25000
+   },
+   {
+    "id": "ChX7s-HmzRM",
+    "title": "Bosch Mini-Split Install (Heat Pump) & Adressing The HATERS",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "4Y5uiun7ijc",
+    "title": "HVAC Life: Getting Things Done!",
+    "meta": [
+     "488",
+     "2y ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 488
+   },
+   {
+    "id": "cPwYBdTsww0",
+    "title": "I Got PROMOTED! HVAC Talk + Attic Central AC Install",
+    "meta": [
+     "3K",
+     "2y ago"
+    ],
+    "dur": "23:41",
+    "views_tab": 3000
+   },
+   {
+    "id": "EejstU80kbk",
+    "title": "Making HVAC Great Again\u2026",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 1000
+   },
+   {
+    "id": "nxt6PqOzdv0",
+    "title": "I\u2019m Back\u2026 Installing AC For My Old Boss + Another AC Install",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "12:58",
+    "views_tab": 1300
+   },
+   {
+    "id": "DmBMCqTu3mM",
+    "title": "A Full HVAC Install, In The Middle Of NOWHERE!",
+    "meta": [
+     "848",
+     "2y ago"
+    ],
+    "dur": "20:52",
+    "views_tab": 848
+   },
+   {
+    "id": "Cmo-yhBELDQ",
+    "title": "HVAC Life: Your Typical Monday (Sh*t Show!)",
+    "meta": [
+     "849",
+     "2y ago"
+    ],
+    "dur": "12:41",
+    "views_tab": 849
+   },
+   {
+    "id": "LP4s2KWb468",
+    "title": "HVAC Service Call: Should I Even Charge $$$ For This?!",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "18:55",
+    "views_tab": 1300
+   },
+   {
+    "id": "cTR6OEvsUiA",
+    "title": "I Switched Companies! (HUGE UPGRADE)",
+    "meta": [
+     "729",
+     "2y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 729
+   },
+   {
+    "id": "85smqh9ZcBs",
+    "title": "How To: Be The \u201cNew\u201d Guy In HVAC (LENNOX Full Install)",
+    "meta": [
+     "824",
+     "2y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 824
+   },
+   {
+    "id": "wcQ64lfw5jY",
+    "title": "HVAC Tech Surprised With Plumbing Call (HELP!)",
+    "meta": [
+     "378",
+     "2y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 378
+   },
+   {
+    "id": "GP_NKhNHyQo",
+    "title": "HVAC Vlog: How I Deal With The STRESS (Am I BURNT Out?)",
+    "meta": [
+     "529",
+     "2y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 529
+   },
+   {
+    "id": "kV2_KtZHhio",
+    "title": "HVAC Life: GAS PIPE DAY (Lightwork)",
+    "meta": [
+     "533",
+     "2y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 533
+   },
+   {
+    "id": "3iXiLgYaoDE",
+    "title": "A Full HVAC Install, In ONE Day (Complete Lennox System)",
+    "meta": [
+     "975",
+     "2y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 975
+   },
+   {
+    "id": "Ues1svlwjJc",
+    "title": "Downflow Furance & Central AC Install (Residential HVAC)",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "14:22",
+    "views_tab": 1600
+   },
+   {
+    "id": "LTtVCNEMwNE",
+    "title": "Day In The Life: HVAC Installer/Technician (Full Residential HVAC Install)",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 2000
+   },
+   {
+    "id": "H6fpadEQnOE",
+    "title": "Ductwork & Re-Installing A Condenser (HVAC Vlog)",
+    "meta": [
+     "290",
+     "2y ago"
+    ],
+    "dur": "9:03",
+    "views_tab": 290
+   },
+   {
+    "id": "UH-x2mUuJnM",
+    "title": "HVAC On A FRIDAY!? \ud83d\ude09",
+    "meta": [
+     "530",
+     "2y ago"
+    ],
+    "dur": "10:16",
+    "views_tab": 530
+   },
+   {
+    "id": "33qTKvvqZkY",
+    "title": "This House Almost BURNED DOWN, So We Replaced The Entire HVAC System \u2705",
+    "meta": [
+     "530",
+     "2y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 530
+   },
+   {
+    "id": "h4i9iL54JXw",
+    "title": "HVAC Toolbag Loadout (Veto Pro Pac Review) + Gym Session",
+    "meta": [
+     "925",
+     "2y ago"
+    ],
+    "dur": "38:34",
+    "views_tab": 925
+   },
+   {
+    "id": "QX4kbk-Iwzg",
+    "title": "Is HVAC Easy? (Downflow Furnace Install)",
+    "meta": [
+     "1.4K",
+     "2y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 1400
+   },
+   {
+    "id": "zCRDRdA1LDg",
+    "title": "BIG HVAC Job At The YMCA",
+    "meta": [
+     "445",
+     "2y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 445
+   },
+   {
+    "id": "OPlxOI7OKYU",
+    "title": "HVAC Life: Furnaces & 4-Wheelers",
+    "meta": [
+     "237",
+     "2y ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 237
+   },
+   {
+    "id": "cl2iAdptnac",
+    "title": "New HVAC Van + A BUSY Friday",
+    "meta": [
+     "902",
+     "2y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 902
+   },
+   {
+    "id": "FS0b2t5_Ebg",
+    "title": "2024 HVAC Van SETUP! (Rough Draft)",
+    "meta": [
+     "918",
+     "2y ago"
+    ],
+    "dur": "21:16",
+    "views_tab": 918
+   },
+   {
+    "id": "IT3sbaZmB5c",
+    "title": "Is Ductwork EASY? (Relocating A Furnace & Installing Ductwork)",
+    "meta": [
+     "354",
+     "2y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 354
+   },
+   {
+    "id": "DjkgfVYxogA",
+    "title": "HVAC Installer Van Setup",
+    "meta": [
+     "841",
+     "2y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 841
+   },
+   {
+    "id": "LA7o6Du16CI",
+    "title": "Furnace Install followed by \u201cNo Heat\u201d Service Calls",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "21:25",
+    "views_tab": 1300
+   },
+   {
+    "id": "rFAQTAnM0H4",
+    "title": "HVAC Vlog: \u201cFurnace & Air\u201d",
+    "meta": [
+     "416",
+     "2y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 416
+   },
+   {
+    "id": "19mWu3HrEBY",
+    "title": "I\u2019m BACK! (HVAC Installer Vlog)",
+    "meta": [
+     "645",
+     "1y ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 645
+   },
+   {
+    "id": "_M7fnoYVIXo",
+    "title": "New HVAC Van! + Are \u201cSide Discharge\u201d Condensers The New Thing?",
+    "meta": [
+     "811",
+     "1y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 811
+   },
+   {
+    "id": "CHT5JRo-s3o",
+    "title": "HVAC Service Call: A Furnace Revival \ud83e\udea6\ud83d\udcc8 (TOO EASY)",
+    "meta": [
+     "640",
+     "1y ago"
+    ],
+    "dur": "30:22",
+    "views_tab": 640
+   },
+   {
+    "id": "vt6TwrjCPw4",
+    "title": "A2L Refrigerants Are HERE! (R-32 System Install)",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "13:01",
+    "views_tab": 5900
+   },
+   {
+    "id": "OQxAIQrxY1I",
+    "title": "HVAC Vlog: Leave it to the PROFESSIONALS!",
+    "meta": [
+     "820",
+     "1y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 820
+   },
+   {
+    "id": "d9pG9qnTHsI",
+    "title": "HVAC: Learning New Things Every Day (Sharing What I\u2019ve Learned)",
+    "meta": [
+     "418",
+     "1y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 418
+   },
+   {
+    "id": "A0qtMpHU9dY",
+    "title": "The UGLY Side of HVAC, That Nobody Talks About\u2026",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "16:40",
+    "views_tab": 1000
+   },
+   {
+    "id": "bodr-GqRcCM",
+    "title": "This Furnace & AC Install Looks AMAZING",
+    "meta": [
+     "395",
+     "1y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 395
+   },
+   {
+    "id": "CMuY0aqr89Y",
+    "title": "Installing a Mini-Split in a TOUGH SPOT",
+    "meta": [
+     "174",
+     "1y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 174
+   }
+  ]
+ }
+}

@@ -1,0 +1,585 @@
+{
+ "key": "UCh0wHs5x3TBC74Kubo91Obg",
+ "channel": "Dale Prosser",
+ "id": "UCh0wHs5x3TBC74Kubo91Obg",
+ "subs": "9 subscribers",
+ "videos": "14 videos",
+ "pulled": "2026-10-26T07:02:38.222385+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Qv-aFsAhZc8",
+    "title": "Before You Shut Your AC Down This Fall, Do This (Or Pay for It Next Spring)",
+    "meta": [
+     "131",
+     "13d ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 131
+   },
+   {
+    "id": "s9nQ-kcmbL4",
+    "title": "The Free Form That Quietly Halves Your Furnace Warranty",
+    "meta": [
+     "10",
+     "1mo ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 10
+   },
+   {
+    "id": "6AwT1-_q_0Q",
+    "title": "The Hidden Attic Insulation Mistake Destroying Your AC System's Efficiency",
+    "meta": [
+     "104",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 104
+   },
+   {
+    "id": "HtarBQmUlmU",
+    "title": "What Can a $1,500 Power Station REALLY Power? (You'll Be Surprised)",
+    "meta": [
+     "153",
+     "2mo ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 153
+   },
+   {
+    "id": "c4qXrKQPKGA",
+    "title": "I Fixed the WORST Problem With Portable AC Units!",
+    "meta": [
+     "29",
+     "2mo ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 29
+   },
+   {
+    "id": "OpSfzlc2GDs",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "35",
+     "2mo ago"
+    ],
+    "dur": "19:38",
+    "views_tab": 35
+   },
+   {
+    "id": "hejD6FuRMzs",
+    "title": "Keep Your Family Warm During A Power Outage By Installing This $5 Part",
+    "meta": [
+     "58",
+     "2mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 58
+   },
+   {
+    "id": "5RlJa_-CRQo",
+    "title": "Furnace Flame Sensor: The $10 Part They Bill You $350 For",
+    "meta": [
+     "132",
+     "2mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 132
+   },
+   {
+    "id": "faKT3X3C8eM",
+    "title": "5 Winter Thermostat Habits That Wear Out Your Furnace",
+    "meta": [
+     "46",
+     "2mo ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 46
+   },
+   {
+    "id": "nTHWqa13_yQ",
+    "title": "This SECRET AC Trick is Only Known by 1% of HVAC Technicans (USE THEM NOW)",
+    "meta": [
+     "30",
+     "2mo ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 30
+   },
+   {
+    "id": "LqVfjsplHq0",
+    "title": "How To Clean Your AC and Coils Like the Pros Do | WILL Make Air Blow Colder",
+    "meta": [
+     "9",
+     "2mo ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 9
+   },
+   {
+    "id": "bs2H7k8woMg",
+    "title": "You Can Recharge Your Home A/C Like A Car??  Colder Air in 6 Minutes!",
+    "meta": [
+     "71",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 71
+   },
+   {
+    "id": "3Q0wuvvqfvg",
+    "title": "Stop Cleaning Your A/C Coils The Hard Way! Do This To Get Colder Air From Your Vents.",
+    "meta": [
+     "135",
+     "2mo ago"
+    ],
+    "dur": "14:16",
+    "views_tab": 135
+   },
+   {
+    "id": "i6tP4CUk-TQ",
+    "title": "My Adhesive tape are here",
+    "meta": [
+     "6",
+     "2mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 6
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Qv-aFsAhZc8",
+    "title": "Before You Shut Your AC Down This Fall, Do This (Or Pay for It Next Spring)",
+    "meta": [
+     "131",
+     "13d ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 131
+   },
+   {
+    "id": "s9nQ-kcmbL4",
+    "title": "The Free Form That Quietly Halves Your Furnace Warranty",
+    "meta": [
+     "10",
+     "1mo ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 10
+   },
+   {
+    "id": "6AwT1-_q_0Q",
+    "title": "The Hidden Attic Insulation Mistake Destroying Your AC System's Efficiency",
+    "meta": [
+     "104",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 104
+   },
+   {
+    "id": "HtarBQmUlmU",
+    "title": "What Can a $1,500 Power Station REALLY Power? (You'll Be Surprised)",
+    "meta": [
+     "153",
+     "2mo ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 153
+   },
+   {
+    "id": "c4qXrKQPKGA",
+    "title": "I Fixed the WORST Problem With Portable AC Units!",
+    "meta": [
+     "29",
+     "2mo ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 29
+   },
+   {
+    "id": "OpSfzlc2GDs",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "35",
+     "2mo ago"
+    ],
+    "dur": "19:38",
+    "views_tab": 35
+   },
+   {
+    "id": "hejD6FuRMzs",
+    "title": "Keep Your Family Warm During A Power Outage By Installing This $5 Part",
+    "meta": [
+     "58",
+     "2mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 58
+   },
+   {
+    "id": "5RlJa_-CRQo",
+    "title": "Furnace Flame Sensor: The $10 Part They Bill You $350 For",
+    "meta": [
+     "132",
+     "2mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 132
+   },
+   {
+    "id": "faKT3X3C8eM",
+    "title": "5 Winter Thermostat Habits That Wear Out Your Furnace",
+    "meta": [
+     "46",
+     "2mo ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 46
+   },
+   {
+    "id": "nTHWqa13_yQ",
+    "title": "This SECRET AC Trick is Only Known by 1% of HVAC Technicans (USE THEM NOW)",
+    "meta": [
+     "30",
+     "2mo ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 30
+   },
+   {
+    "id": "LqVfjsplHq0",
+    "title": "How To Clean Your AC and Coils Like the Pros Do | WILL Make Air Blow Colder",
+    "meta": [
+     "9",
+     "2mo ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 9
+   },
+   {
+    "id": "bs2H7k8woMg",
+    "title": "You Can Recharge Your Home A/C Like A Car??  Colder Air in 6 Minutes!",
+    "meta": [
+     "71",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 71
+   },
+   {
+    "id": "3Q0wuvvqfvg",
+    "title": "Stop Cleaning Your A/C Coils The Hard Way! Do This To Get Colder Air From Your Vents.",
+    "meta": [
+     "135",
+     "2mo ago"
+    ],
+    "dur": "14:16",
+    "views_tab": 135
+   },
+   {
+    "id": "i6tP4CUk-TQ",
+    "title": "My Adhesive tape are here",
+    "meta": [
+     "6",
+     "2mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 6
+   }
+  ],
+  "Popular": [
+   {
+    "id": "HtarBQmUlmU",
+    "title": "What Can a $1,500 Power Station REALLY Power? (You'll Be Surprised)",
+    "meta": [
+     "153",
+     "2mo ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 153
+   },
+   {
+    "id": "5RlJa_-CRQo",
+    "title": "Furnace Flame Sensor: The $10 Part They Bill You $350 For",
+    "meta": [
+     "132",
+     "2mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 132
+   },
+   {
+    "id": "3Q0wuvvqfvg",
+    "title": "Stop Cleaning Your A/C Coils The Hard Way! Do This To Get Colder Air From Your Vents.",
+    "meta": [
+     "135",
+     "2mo ago"
+    ],
+    "dur": "14:16",
+    "views_tab": 135
+   },
+   {
+    "id": "Qv-aFsAhZc8",
+    "title": "Before You Shut Your AC Down This Fall, Do This (Or Pay for It Next Spring)",
+    "meta": [
+     "131",
+     "13d ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 131
+   },
+   {
+    "id": "6AwT1-_q_0Q",
+    "title": "The Hidden Attic Insulation Mistake Destroying Your AC System's Efficiency",
+    "meta": [
+     "104",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 104
+   },
+   {
+    "id": "bs2H7k8woMg",
+    "title": "You Can Recharge Your Home A/C Like A Car??  Colder Air in 6 Minutes!",
+    "meta": [
+     "71",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 71
+   },
+   {
+    "id": "hejD6FuRMzs",
+    "title": "Keep Your Family Warm During A Power Outage By Installing This $5 Part",
+    "meta": [
+     "58",
+     "2mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 58
+   },
+   {
+    "id": "faKT3X3C8eM",
+    "title": "5 Winter Thermostat Habits That Wear Out Your Furnace",
+    "meta": [
+     "46",
+     "2mo ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 46
+   },
+   {
+    "id": "OpSfzlc2GDs",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "35",
+     "2mo ago"
+    ],
+    "dur": "19:38",
+    "views_tab": 35
+   },
+   {
+    "id": "nTHWqa13_yQ",
+    "title": "This SECRET AC Trick is Only Known by 1% of HVAC Technicans (USE THEM NOW)",
+    "meta": [
+     "30",
+     "2mo ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 30
+   },
+   {
+    "id": "c4qXrKQPKGA",
+    "title": "I Fixed the WORST Problem With Portable AC Units!",
+    "meta": [
+     "29",
+     "2mo ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 29
+   },
+   {
+    "id": "s9nQ-kcmbL4",
+    "title": "The Free Form That Quietly Halves Your Furnace Warranty",
+    "meta": [
+     "10",
+     "1mo ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 10
+   },
+   {
+    "id": "LqVfjsplHq0",
+    "title": "How To Clean Your AC and Coils Like the Pros Do | WILL Make Air Blow Colder",
+    "meta": [
+     "9",
+     "2mo ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 9
+   },
+   {
+    "id": "i6tP4CUk-TQ",
+    "title": "My Adhesive tape are here",
+    "meta": [
+     "6",
+     "2mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 6
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "i6tP4CUk-TQ",
+    "title": "My Adhesive tape are here",
+    "meta": [
+     "6",
+     "2mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 6
+   },
+   {
+    "id": "3Q0wuvvqfvg",
+    "title": "Stop Cleaning Your A/C Coils The Hard Way! Do This To Get Colder Air From Your Vents.",
+    "meta": [
+     "135",
+     "2mo ago"
+    ],
+    "dur": "14:16",
+    "views_tab": 135
+   },
+   {
+    "id": "bs2H7k8woMg",
+    "title": "You Can Recharge Your Home A/C Like A Car??  Colder Air in 6 Minutes!",
+    "meta": [
+     "71",
+     "2mo ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 71
+   },
+   {
+    "id": "LqVfjsplHq0",
+    "title": "How To Clean Your AC and Coils Like the Pros Do | WILL Make Air Blow Colder",
+    "meta": [
+     "9",
+     "2mo ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 9
+   },
+   {
+    "id": "nTHWqa13_yQ",
+    "title": "This SECRET AC Trick is Only Known by 1% of HVAC Technicans (USE THEM NOW)",
+    "meta": [
+     "30",
+     "2mo ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 30
+   },
+   {
+    "id": "faKT3X3C8eM",
+    "title": "5 Winter Thermostat Habits That Wear Out Your Furnace",
+    "meta": [
+     "46",
+     "2mo ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 46
+   },
+   {
+    "id": "5RlJa_-CRQo",
+    "title": "Furnace Flame Sensor: The $10 Part They Bill You $350 For",
+    "meta": [
+     "132",
+     "2mo ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 132
+   },
+   {
+    "id": "hejD6FuRMzs",
+    "title": "Keep Your Family Warm During A Power Outage By Installing This $5 Part",
+    "meta": [
+     "58",
+     "2mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 58
+   },
+   {
+    "id": "OpSfzlc2GDs",
+    "title": "5 AC Mistakes HVAC Companies Hope You Keep Making",
+    "meta": [
+     "35",
+     "2mo ago"
+    ],
+    "dur": "19:38",
+    "views_tab": 35
+   },
+   {
+    "id": "c4qXrKQPKGA",
+    "title": "I Fixed the WORST Problem With Portable AC Units!",
+    "meta": [
+     "29",
+     "2mo ago"
+    ],
+    "dur": "16:38",
+    "views_tab": 29
+   },
+   {
+    "id": "HtarBQmUlmU",
+    "title": "What Can a $1,500 Power Station REALLY Power? (You'll Be Surprised)",
+    "meta": [
+     "153",
+     "2mo ago"
+    ],
+    "dur": "17:41",
+    "views_tab": 153
+   },
+   {
+    "id": "6AwT1-_q_0Q",
+    "title": "The Hidden Attic Insulation Mistake Destroying Your AC System's Efficiency",
+    "meta": [
+     "104",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 104
+   },
+   {
+    "id": "s9nQ-kcmbL4",
+    "title": "The Free Form That Quietly Halves Your Furnace Warranty",
+    "meta": [
+     "10",
+     "1mo ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 10
+   },
+   {
+    "id": "Qv-aFsAhZc8",
+    "title": "Before You Shut Your AC Down This Fall, Do This (Or Pay for It Next Spring)",
+    "meta": [
+     "131",
+     "13d ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 131
+   }
+  ]
+ }
+}

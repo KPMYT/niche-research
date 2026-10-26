@@ -1,0 +1,425 @@
+{
+ "key": "UCe_gTYzfmQ4BEx0SWFeFwNw",
+ "channel": "Forgotten American Homes",
+ "id": "UCe_gTYzfmQ4BEx0SWFeFwNw",
+ "subs": "89 subscribers",
+ "videos": "10 videos",
+ "pulled": "2026-10-26T07:01:16.281365+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "d0q6yx5RafM",
+    "title": "How Farmers Built Bank Barns That Stayed Warm At -20\u00b0F Without A Heater",
+    "meta": [
+     "197",
+     "2d ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 197
+   },
+   {
+    "id": "wXE96h767mk",
+    "title": "20 Old-Barn Tricks That Make Treated Lumber Look Like a Scam",
+    "meta": [
+     "164",
+     "4d ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 164
+   },
+   {
+    "id": "oRB55SyQBM4",
+    "title": "20 Forgotten Barn Tricks That Used Manure Heat to Warm the Animals",
+    "meta": [
+     "622",
+     "6d ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 622
+   },
+   {
+    "id": "iovRyGGz5mI",
+    "title": "20 Forgotten Barn Tricks That Kept Hens Laying All Winter Without an Electric Light",
+    "meta": [
+     "590",
+     "10d ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 590
+   },
+   {
+    "id": "RgwH7ve6wHs",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Water From Freezing Without Electricity",
+    "meta": [
+     "3K",
+     "2w ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 3000
+   },
+   {
+    "id": "t8b-_FA8WUU",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Warm Before Heat Lamps",
+    "meta": [
+     "7.3K",
+     "2w ago"
+    ],
+    "dur": "26:25",
+    "views_tab": 7300
+   },
+   {
+    "id": "Yt6JfvLREPU",
+    "title": "How People Slept Warm in Freezing Old Houses Before Central Heating",
+    "meta": [
+     "878",
+     "3w ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 878
+   },
+   {
+    "id": "v6wCbyRa05o",
+    "title": "20 Forgotten Tricks That Kept Old Homes' Pipes From Bursting All Winter",
+    "meta": [
+     "773",
+     "3w ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 773
+   },
+   {
+    "id": "AzKWBGcwVX8",
+    "title": "20 Forgotten Old-House Features That Kept Working Through a Winter Blackout",
+    "meta": [
+     "631",
+     "1mo ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 631
+   },
+   {
+    "id": "y1GsOqKBcg0",
+    "title": "20 \"Poor Man\" Heating Tricks That Make $10,000 Furnaces Look Like a Scam",
+    "meta": [
+     "427",
+     "1mo ago"
+    ],
+    "dur": "30:16",
+    "views_tab": 427
+   }
+  ],
+  "Latest": [
+   {
+    "id": "d0q6yx5RafM",
+    "title": "How Farmers Built Bank Barns That Stayed Warm At -20\u00b0F Without A Heater",
+    "meta": [
+     "197",
+     "2d ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 197
+   },
+   {
+    "id": "wXE96h767mk",
+    "title": "20 Old-Barn Tricks That Make Treated Lumber Look Like a Scam",
+    "meta": [
+     "164",
+     "4d ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 164
+   },
+   {
+    "id": "oRB55SyQBM4",
+    "title": "20 Forgotten Barn Tricks That Used Manure Heat to Warm the Animals",
+    "meta": [
+     "622",
+     "6d ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 622
+   },
+   {
+    "id": "iovRyGGz5mI",
+    "title": "20 Forgotten Barn Tricks That Kept Hens Laying All Winter Without an Electric Light",
+    "meta": [
+     "590",
+     "10d ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 590
+   },
+   {
+    "id": "RgwH7ve6wHs",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Water From Freezing Without Electricity",
+    "meta": [
+     "3K",
+     "2w ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 3000
+   },
+   {
+    "id": "t8b-_FA8WUU",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Warm Before Heat Lamps",
+    "meta": [
+     "7.3K",
+     "2w ago"
+    ],
+    "dur": "26:25",
+    "views_tab": 7300
+   },
+   {
+    "id": "Yt6JfvLREPU",
+    "title": "How People Slept Warm in Freezing Old Houses Before Central Heating",
+    "meta": [
+     "878",
+     "3w ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 878
+   },
+   {
+    "id": "v6wCbyRa05o",
+    "title": "20 Forgotten Tricks That Kept Old Homes' Pipes From Bursting All Winter",
+    "meta": [
+     "773",
+     "3w ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 773
+   },
+   {
+    "id": "AzKWBGcwVX8",
+    "title": "20 Forgotten Old-House Features That Kept Working Through a Winter Blackout",
+    "meta": [
+     "631",
+     "1mo ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 631
+   },
+   {
+    "id": "y1GsOqKBcg0",
+    "title": "20 \"Poor Man\" Heating Tricks That Make $10,000 Furnaces Look Like a Scam",
+    "meta": [
+     "427",
+     "1mo ago"
+    ],
+    "dur": "30:16",
+    "views_tab": 427
+   }
+  ],
+  "Popular": [
+   {
+    "id": "t8b-_FA8WUU",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Warm Before Heat Lamps",
+    "meta": [
+     "7.3K",
+     "2w ago"
+    ],
+    "dur": "26:25",
+    "views_tab": 7300
+   },
+   {
+    "id": "RgwH7ve6wHs",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Water From Freezing Without Electricity",
+    "meta": [
+     "3K",
+     "2w ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 3000
+   },
+   {
+    "id": "Yt6JfvLREPU",
+    "title": "How People Slept Warm in Freezing Old Houses Before Central Heating",
+    "meta": [
+     "878",
+     "3w ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 878
+   },
+   {
+    "id": "v6wCbyRa05o",
+    "title": "20 Forgotten Tricks That Kept Old Homes' Pipes From Bursting All Winter",
+    "meta": [
+     "773",
+     "3w ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 773
+   },
+   {
+    "id": "AzKWBGcwVX8",
+    "title": "20 Forgotten Old-House Features That Kept Working Through a Winter Blackout",
+    "meta": [
+     "631",
+     "1mo ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 631
+   },
+   {
+    "id": "oRB55SyQBM4",
+    "title": "20 Forgotten Barn Tricks That Used Manure Heat to Warm the Animals",
+    "meta": [
+     "622",
+     "6d ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 622
+   },
+   {
+    "id": "iovRyGGz5mI",
+    "title": "20 Forgotten Barn Tricks That Kept Hens Laying All Winter Without an Electric Light",
+    "meta": [
+     "590",
+     "10d ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 590
+   },
+   {
+    "id": "y1GsOqKBcg0",
+    "title": "20 \"Poor Man\" Heating Tricks That Make $10,000 Furnaces Look Like a Scam",
+    "meta": [
+     "427",
+     "1mo ago"
+    ],
+    "dur": "30:16",
+    "views_tab": 427
+   },
+   {
+    "id": "d0q6yx5RafM",
+    "title": "How Farmers Built Bank Barns That Stayed Warm At -20\u00b0F Without A Heater",
+    "meta": [
+     "197",
+     "2d ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 197
+   },
+   {
+    "id": "wXE96h767mk",
+    "title": "20 Old-Barn Tricks That Make Treated Lumber Look Like a Scam",
+    "meta": [
+     "164",
+     "4d ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 164
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "y1GsOqKBcg0",
+    "title": "20 \"Poor Man\" Heating Tricks That Make $10,000 Furnaces Look Like a Scam",
+    "meta": [
+     "427",
+     "1mo ago"
+    ],
+    "dur": "30:16",
+    "views_tab": 427
+   },
+   {
+    "id": "AzKWBGcwVX8",
+    "title": "20 Forgotten Old-House Features That Kept Working Through a Winter Blackout",
+    "meta": [
+     "631",
+     "1mo ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 631
+   },
+   {
+    "id": "v6wCbyRa05o",
+    "title": "20 Forgotten Tricks That Kept Old Homes' Pipes From Bursting All Winter",
+    "meta": [
+     "773",
+     "3w ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 773
+   },
+   {
+    "id": "Yt6JfvLREPU",
+    "title": "How People Slept Warm in Freezing Old Houses Before Central Heating",
+    "meta": [
+     "878",
+     "3w ago"
+    ],
+    "dur": "21:48",
+    "views_tab": 878
+   },
+   {
+    "id": "t8b-_FA8WUU",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Warm Before Heat Lamps",
+    "meta": [
+     "7.3K",
+     "2w ago"
+    ],
+    "dur": "26:25",
+    "views_tab": 7300
+   },
+   {
+    "id": "RgwH7ve6wHs",
+    "title": "20 Forgotten Barn Tricks That Kept Livestock Water From Freezing Without Electricity",
+    "meta": [
+     "3K",
+     "2w ago"
+    ],
+    "dur": "25:18",
+    "views_tab": 3000
+   },
+   {
+    "id": "iovRyGGz5mI",
+    "title": "20 Forgotten Barn Tricks That Kept Hens Laying All Winter Without an Electric Light",
+    "meta": [
+     "590",
+     "10d ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 590
+   },
+   {
+    "id": "oRB55SyQBM4",
+    "title": "20 Forgotten Barn Tricks That Used Manure Heat to Warm the Animals",
+    "meta": [
+     "622",
+     "6d ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 622
+   },
+   {
+    "id": "wXE96h767mk",
+    "title": "20 Old-Barn Tricks That Make Treated Lumber Look Like a Scam",
+    "meta": [
+     "164",
+     "4d ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 164
+   },
+   {
+    "id": "d0q6yx5RafM",
+    "title": "How Farmers Built Bank Barns That Stayed Warm At -20\u00b0F Without A Heater",
+    "meta": [
+     "197",
+     "2d ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 197
+   }
+  ]
+ }
+}

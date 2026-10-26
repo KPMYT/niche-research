@@ -1,0 +1,385 @@
+{
+ "key": "UCrMC4iG9qnvyAvOG3okKb0g",
+ "channel": "Old House Walt",
+ "id": "UCrMC4iG9qnvyAvOG3okKb0g",
+ "subs": null,
+ "videos": "9 videos",
+ "pulled": "2026-10-26T07:07:02.041517+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "hQFui8ktWSs",
+    "title": "Home Inspector: 7 Smells in Your House Never to Ignore",
+    "meta": [
+     "39",
+     "1d ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 39
+   },
+   {
+    "id": "h_U19wQIpOg",
+    "title": "Power Out in Winter? Don't Do These 7 Things",
+    "meta": [
+     "52",
+     "2d ago"
+    ],
+    "dur": "19:04",
+    "views_tab": 52
+   },
+   {
+    "id": "n3aEKT3Hb1I",
+    "title": "Is Your Sump Pump Ready? The 10-Minute Winter Test",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 4
+   },
+   {
+    "id": "HjNmvzqQUis",
+    "title": "If You're Over 65, Check These 10 Things Before Winter",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "19:55",
+    "views_tab": 30
+   },
+   {
+    "id": "HmrKI9BCO1M",
+    "title": "Never Tested for Radon? Winter Is the Time to Do It",
+    "meta": [
+     "6",
+     "5d ago"
+    ],
+    "dur": "20:27",
+    "views_tab": 6
+   },
+   {
+    "id": "H5P2SHC3Y8g",
+    "title": "Drafty Old House? It's Probably Not the Windows",
+    "meta": [
+     "12",
+     "6d ago"
+    ],
+    "dur": "20:18",
+    "views_tab": 12
+   },
+   {
+    "id": "QUwKk1XnqmI",
+    "title": "Wet Basement? Check These 5 Things Outside First",
+    "meta": [
+     "259",
+     "7d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 259
+   },
+   {
+    "id": "iT1-gsVYl1M",
+    "title": "7 Contractor Tricks I Watched Work on Seniors for 38 Years",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 3
+   },
+   {
+    "id": "HMGt0mxTLOo",
+    "title": "Before the First Freeze: The 7 Pipes That Burst First",
+    "meta": [
+     "16",
+     "8d ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 16
+   }
+  ],
+  "Latest": [
+   {
+    "id": "hQFui8ktWSs",
+    "title": "Home Inspector: 7 Smells in Your House Never to Ignore",
+    "meta": [
+     "39",
+     "1d ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 39
+   },
+   {
+    "id": "h_U19wQIpOg",
+    "title": "Power Out in Winter? Don't Do These 7 Things",
+    "meta": [
+     "52",
+     "2d ago"
+    ],
+    "dur": "19:04",
+    "views_tab": 52
+   },
+   {
+    "id": "n3aEKT3Hb1I",
+    "title": "Is Your Sump Pump Ready? The 10-Minute Winter Test",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 4
+   },
+   {
+    "id": "HjNmvzqQUis",
+    "title": "If You're Over 65, Check These 10 Things Before Winter",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "19:55",
+    "views_tab": 30
+   },
+   {
+    "id": "HmrKI9BCO1M",
+    "title": "Never Tested for Radon? Winter Is the Time to Do It",
+    "meta": [
+     "6",
+     "5d ago"
+    ],
+    "dur": "20:27",
+    "views_tab": 6
+   },
+   {
+    "id": "H5P2SHC3Y8g",
+    "title": "Drafty Old House? It's Probably Not the Windows",
+    "meta": [
+     "12",
+     "6d ago"
+    ],
+    "dur": "20:18",
+    "views_tab": 12
+   },
+   {
+    "id": "QUwKk1XnqmI",
+    "title": "Wet Basement? Check These 5 Things Outside First",
+    "meta": [
+     "259",
+     "7d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 259
+   },
+   {
+    "id": "iT1-gsVYl1M",
+    "title": "7 Contractor Tricks I Watched Work on Seniors for 38 Years",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 3
+   },
+   {
+    "id": "HMGt0mxTLOo",
+    "title": "Before the First Freeze: The 7 Pipes That Burst First",
+    "meta": [
+     "16",
+     "8d ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 16
+   }
+  ],
+  "Popular": [
+   {
+    "id": "QUwKk1XnqmI",
+    "title": "Wet Basement? Check These 5 Things Outside First",
+    "meta": [
+     "259",
+     "7d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 259
+   },
+   {
+    "id": "h_U19wQIpOg",
+    "title": "Power Out in Winter? Don't Do These 7 Things",
+    "meta": [
+     "52",
+     "2d ago"
+    ],
+    "dur": "19:04",
+    "views_tab": 52
+   },
+   {
+    "id": "hQFui8ktWSs",
+    "title": "Home Inspector: 7 Smells in Your House Never to Ignore",
+    "meta": [
+     "39",
+     "1d ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 39
+   },
+   {
+    "id": "HjNmvzqQUis",
+    "title": "If You're Over 65, Check These 10 Things Before Winter",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "19:55",
+    "views_tab": 30
+   },
+   {
+    "id": "HMGt0mxTLOo",
+    "title": "Before the First Freeze: The 7 Pipes That Burst First",
+    "meta": [
+     "16",
+     "8d ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 16
+   },
+   {
+    "id": "H5P2SHC3Y8g",
+    "title": "Drafty Old House? It's Probably Not the Windows",
+    "meta": [
+     "12",
+     "6d ago"
+    ],
+    "dur": "20:18",
+    "views_tab": 12
+   },
+   {
+    "id": "HmrKI9BCO1M",
+    "title": "Never Tested for Radon? Winter Is the Time to Do It",
+    "meta": [
+     "6",
+     "5d ago"
+    ],
+    "dur": "20:27",
+    "views_tab": 6
+   },
+   {
+    "id": "n3aEKT3Hb1I",
+    "title": "Is Your Sump Pump Ready? The 10-Minute Winter Test",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 4
+   },
+   {
+    "id": "iT1-gsVYl1M",
+    "title": "7 Contractor Tricks I Watched Work on Seniors for 38 Years",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 3
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "HMGt0mxTLOo",
+    "title": "Before the First Freeze: The 7 Pipes That Burst First",
+    "meta": [
+     "16",
+     "8d ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 16
+   },
+   {
+    "id": "iT1-gsVYl1M",
+    "title": "7 Contractor Tricks I Watched Work on Seniors for 38 Years",
+    "meta": [
+     "3",
+     "8d ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 3
+   },
+   {
+    "id": "QUwKk1XnqmI",
+    "title": "Wet Basement? Check These 5 Things Outside First",
+    "meta": [
+     "259",
+     "7d ago"
+    ],
+    "dur": "19:46",
+    "views_tab": 259
+   },
+   {
+    "id": "H5P2SHC3Y8g",
+    "title": "Drafty Old House? It's Probably Not the Windows",
+    "meta": [
+     "12",
+     "6d ago"
+    ],
+    "dur": "20:18",
+    "views_tab": 12
+   },
+   {
+    "id": "HmrKI9BCO1M",
+    "title": "Never Tested for Radon? Winter Is the Time to Do It",
+    "meta": [
+     "6",
+     "5d ago"
+    ],
+    "dur": "20:27",
+    "views_tab": 6
+   },
+   {
+    "id": "HjNmvzqQUis",
+    "title": "If You're Over 65, Check These 10 Things Before Winter",
+    "meta": [
+     "30",
+     "5d ago"
+    ],
+    "dur": "19:55",
+    "views_tab": 30
+   },
+   {
+    "id": "n3aEKT3Hb1I",
+    "title": "Is Your Sump Pump Ready? The 10-Minute Winter Test",
+    "meta": [
+     "4",
+     "4d ago"
+    ],
+    "dur": "19:35",
+    "views_tab": 4
+   },
+   {
+    "id": "h_U19wQIpOg",
+    "title": "Power Out in Winter? Don't Do These 7 Things",
+    "meta": [
+     "52",
+     "2d ago"
+    ],
+    "dur": "19:04",
+    "views_tab": 52
+   },
+   {
+    "id": "hQFui8ktWSs",
+    "title": "Home Inspector: 7 Smells in Your House Never to Ignore",
+    "meta": [
+     "39",
+     "1d ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 39
+   }
+  ]
+ }
+}

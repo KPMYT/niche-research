@@ -1,0 +1,3925 @@
+{
+ "key": "UCsXTVYa8FRFHUcfm7R8EXyQ",
+ "channel": "Slipstream",
+ "id": "UCsXTVYa8FRFHUcfm7R8EXyQ",
+ "subs": "9.48K subscribers",
+ "videos": "353 videos",
+ "pulled": "2026-10-26T07:05:52.803554+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "LrjSNXo19Sk",
+    "title": "I Installed a Heat Pump, Now What?",
+    "meta": [
+     "107",
+     "10mo ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 107
+   },
+   {
+    "id": "_AbyMUzGUFA",
+    "title": "I'm Ready to Get a Heat Pump. What Do I Need to Get Started?",
+    "meta": [
+     "86",
+     "10mo ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 86
+   },
+   {
+    "id": "KAocbxeFaiE",
+    "title": "Is Your Home Ready for a Heat Pump?",
+    "meta": [
+     "136",
+     "10mo ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 136
+   },
+   {
+    "id": "YEKnC3hhdC4",
+    "title": "Sketchbox Teacher Training Overview: Lesson 1 - Introduction to Building Models",
+    "meta": [
+     "251",
+     "11mo ago"
+    ],
+    "dur": "18:38",
+    "views_tab": 251
+   },
+   {
+    "id": "AY3tljsImuU",
+    "title": "Sketchbox Teacher Training Overview: Lesson 2 - Energy Codes and Measures",
+    "meta": [
+     "88",
+     "11mo ago"
+    ],
+    "dur": "13:54",
+    "views_tab": 88
+   },
+   {
+    "id": "7tNbfkOBB6s",
+    "title": "Sketchbox Teacher Training Overview: Lesson 3 - Schedules",
+    "meta": [
+     "34",
+     "11mo ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 34
+   },
+   {
+    "id": "YLwPSESI9QM",
+    "title": "Sketchbox Teacher Training Overview: Lesson 4 - Carbon Emissions",
+    "meta": [
+     "37",
+     "11mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 37
+   },
+   {
+    "id": "vRDXskfg4Bg",
+    "title": "Webinar: Advancing Building Performance Standards: The Role of Utility Attribution",
+    "meta": [
+     "126",
+     "1y ago"
+    ],
+    "dur": "1:00:00",
+    "views_tab": 126
+   },
+   {
+    "id": "-9K2YLb8fZI",
+    "title": "ESTCP 5 1 Introduction to DesignLights Consortium",
+    "meta": [
+     "26",
+     "1y ago"
+    ],
+    "dur": "20:55",
+    "views_tab": 26
+   },
+   {
+    "id": "ozcE81hJM7c",
+    "title": "Energy Recovery Wheels in Air Handling Units",
+    "meta": [
+     "803",
+     "1y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 803
+   },
+   {
+    "id": "8cfuO7Eo2N8",
+    "title": "Webinar: Findings from the US Department of Energy's Commercial Energy Code Field Study",
+    "meta": [
+     "139",
+     "1y ago"
+    ],
+    "dur": "54:41",
+    "views_tab": 139
+   },
+   {
+    "id": "RNBHSbt207g",
+    "title": "Combustion Analyzer Usage for Condensing Boilers",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "18:07",
+    "views_tab": 2200
+   },
+   {
+    "id": "2ADHKV5nQGU",
+    "title": "A2L Refrigerant - Leak Detection",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "7:44",
+    "views_tab": 14000
+   },
+   {
+    "id": "MffAs84FeSY",
+    "title": "A2L Refrigerant - Overview",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 26000
+   },
+   {
+    "id": "AulZVqXhWng",
+    "title": "Load Shifting and Peak Shaving",
+    "meta": [
+     "644",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 644
+   },
+   {
+    "id": "l72UJe1NV48",
+    "title": "Economizer Controller Series: Siemens Advanced Setup",
+    "meta": [
+     "4.1K",
+     "2y ago"
+    ],
+    "dur": "11:17",
+    "views_tab": 4100
+   },
+   {
+    "id": "I1mxRCr_2y0",
+    "title": "Economizer Controller Series: Siemens Basic Setup",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 11000
+   },
+   {
+    "id": "BJgpN7bSmgY",
+    "title": "Economizer Controller Series: Honeywell JADE Advanced Setup",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1600
+   },
+   {
+    "id": "dZUwEfqmDoM",
+    "title": "Economizer Controller Series: Honeywell JADE Basic Setup",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 5600
+   },
+   {
+    "id": "tBal08IMiJU",
+    "title": "VAV Systems Basics",
+    "meta": [
+     "3.1K",
+     "2y ago"
+    ],
+    "dur": "9:53",
+    "views_tab": 3100
+   },
+   {
+    "id": "pF2B03kXCmE",
+    "title": "Commercial Heat Pumps",
+    "meta": [
+     "3.7K",
+     "2y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 3700
+   },
+   {
+    "id": "hN8QXYkOEhI",
+    "title": "ESTCP 6.1 Cybersecurity Overview for Lighting Controls",
+    "meta": [
+     "76",
+     "2y ago"
+    ],
+    "dur": "21:08",
+    "views_tab": 76
+   },
+   {
+    "id": "6j1g8fJfLgg",
+    "title": "ESTCP 5.1 Introduction to DesignLights Consortium",
+    "meta": [
+     "91",
+     "2y ago"
+    ],
+    "dur": "18:32",
+    "views_tab": 91
+   },
+   {
+    "id": "NBk3y2sHN98",
+    "title": "ESTCP 4.3 Lighting Controls Savings Estimation",
+    "meta": [
+     "99",
+     "2y ago"
+    ],
+    "dur": "11:57",
+    "views_tab": 99
+   },
+   {
+    "id": "p8pa1TNOD7g",
+    "title": "ESTCP 4.2 Standalone and Networked Controls",
+    "meta": [
+     "95",
+     "2y ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 95
+   },
+   {
+    "id": "WD6wrHcL-uM",
+    "title": "ESTCP 4.1 Wired and Wireless",
+    "meta": [
+     "94",
+     "2y ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 94
+   },
+   {
+    "id": "Ox-FoaJA_w8",
+    "title": "ESTCP 3.4 HVAC Integration",
+    "meta": [
+     "279",
+     "2y ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 279
+   },
+   {
+    "id": "9bDH2fCZqSc",
+    "title": "ESTCP 3.3 Occupancy and Vacancy",
+    "meta": [
+     "114",
+     "2y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 114
+   },
+   {
+    "id": "NXp2mwTYI6M",
+    "title": "ESTCP 3.2 Daylight Controls",
+    "meta": [
+     "261",
+     "2y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 261
+   },
+   {
+    "id": "flJ-NeZKods",
+    "title": "ESTCP 3.1 Task Tuning",
+    "meta": [
+     "77",
+     "2y ago"
+    ],
+    "dur": "9:02",
+    "views_tab": 77
+   }
+  ],
+  "Latest": [
+   {
+    "id": "LrjSNXo19Sk",
+    "title": "I Installed a Heat Pump, Now What?",
+    "meta": [
+     "107",
+     "10mo ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 107
+   },
+   {
+    "id": "_AbyMUzGUFA",
+    "title": "I'm Ready to Get a Heat Pump. What Do I Need to Get Started?",
+    "meta": [
+     "86",
+     "10mo ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 86
+   },
+   {
+    "id": "KAocbxeFaiE",
+    "title": "Is Your Home Ready for a Heat Pump?",
+    "meta": [
+     "136",
+     "10mo ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 136
+   },
+   {
+    "id": "YEKnC3hhdC4",
+    "title": "Sketchbox Teacher Training Overview: Lesson 1 - Introduction to Building Models",
+    "meta": [
+     "251",
+     "11mo ago"
+    ],
+    "dur": "18:38",
+    "views_tab": 251
+   },
+   {
+    "id": "AY3tljsImuU",
+    "title": "Sketchbox Teacher Training Overview: Lesson 2 - Energy Codes and Measures",
+    "meta": [
+     "88",
+     "11mo ago"
+    ],
+    "dur": "13:54",
+    "views_tab": 88
+   },
+   {
+    "id": "7tNbfkOBB6s",
+    "title": "Sketchbox Teacher Training Overview: Lesson 3 - Schedules",
+    "meta": [
+     "34",
+     "11mo ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 34
+   },
+   {
+    "id": "YLwPSESI9QM",
+    "title": "Sketchbox Teacher Training Overview: Lesson 4 - Carbon Emissions",
+    "meta": [
+     "37",
+     "11mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 37
+   },
+   {
+    "id": "vRDXskfg4Bg",
+    "title": "Webinar: Advancing Building Performance Standards: The Role of Utility Attribution",
+    "meta": [
+     "126",
+     "1y ago"
+    ],
+    "dur": "1:00:00",
+    "views_tab": 126
+   },
+   {
+    "id": "-9K2YLb8fZI",
+    "title": "ESTCP 5 1 Introduction to DesignLights Consortium",
+    "meta": [
+     "26",
+     "1y ago"
+    ],
+    "dur": "20:55",
+    "views_tab": 26
+   },
+   {
+    "id": "ozcE81hJM7c",
+    "title": "Energy Recovery Wheels in Air Handling Units",
+    "meta": [
+     "803",
+     "1y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 803
+   },
+   {
+    "id": "8cfuO7Eo2N8",
+    "title": "Webinar: Findings from the US Department of Energy's Commercial Energy Code Field Study",
+    "meta": [
+     "139",
+     "1y ago"
+    ],
+    "dur": "54:41",
+    "views_tab": 139
+   },
+   {
+    "id": "RNBHSbt207g",
+    "title": "Combustion Analyzer Usage for Condensing Boilers",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "18:07",
+    "views_tab": 2200
+   },
+   {
+    "id": "2ADHKV5nQGU",
+    "title": "A2L Refrigerant - Leak Detection",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "7:44",
+    "views_tab": 14000
+   },
+   {
+    "id": "MffAs84FeSY",
+    "title": "A2L Refrigerant - Overview",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 26000
+   },
+   {
+    "id": "AulZVqXhWng",
+    "title": "Load Shifting and Peak Shaving",
+    "meta": [
+     "644",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 644
+   },
+   {
+    "id": "l72UJe1NV48",
+    "title": "Economizer Controller Series: Siemens Advanced Setup",
+    "meta": [
+     "4.1K",
+     "2y ago"
+    ],
+    "dur": "11:17",
+    "views_tab": 4100
+   },
+   {
+    "id": "I1mxRCr_2y0",
+    "title": "Economizer Controller Series: Siemens Basic Setup",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 11000
+   },
+   {
+    "id": "BJgpN7bSmgY",
+    "title": "Economizer Controller Series: Honeywell JADE Advanced Setup",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1600
+   },
+   {
+    "id": "dZUwEfqmDoM",
+    "title": "Economizer Controller Series: Honeywell JADE Basic Setup",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 5600
+   },
+   {
+    "id": "tBal08IMiJU",
+    "title": "VAV Systems Basics",
+    "meta": [
+     "3.1K",
+     "2y ago"
+    ],
+    "dur": "9:53",
+    "views_tab": 3100
+   },
+   {
+    "id": "pF2B03kXCmE",
+    "title": "Commercial Heat Pumps",
+    "meta": [
+     "3.7K",
+     "2y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 3700
+   },
+   {
+    "id": "hN8QXYkOEhI",
+    "title": "ESTCP 6.1 Cybersecurity Overview for Lighting Controls",
+    "meta": [
+     "76",
+     "2y ago"
+    ],
+    "dur": "21:08",
+    "views_tab": 76
+   },
+   {
+    "id": "6j1g8fJfLgg",
+    "title": "ESTCP 5.1 Introduction to DesignLights Consortium",
+    "meta": [
+     "91",
+     "2y ago"
+    ],
+    "dur": "18:32",
+    "views_tab": 91
+   },
+   {
+    "id": "NBk3y2sHN98",
+    "title": "ESTCP 4.3 Lighting Controls Savings Estimation",
+    "meta": [
+     "99",
+     "2y ago"
+    ],
+    "dur": "11:57",
+    "views_tab": 99
+   },
+   {
+    "id": "p8pa1TNOD7g",
+    "title": "ESTCP 4.2 Standalone and Networked Controls",
+    "meta": [
+     "95",
+     "2y ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 95
+   },
+   {
+    "id": "WD6wrHcL-uM",
+    "title": "ESTCP 4.1 Wired and Wireless",
+    "meta": [
+     "94",
+     "2y ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 94
+   },
+   {
+    "id": "Ox-FoaJA_w8",
+    "title": "ESTCP 3.4 HVAC Integration",
+    "meta": [
+     "279",
+     "2y ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 279
+   },
+   {
+    "id": "9bDH2fCZqSc",
+    "title": "ESTCP 3.3 Occupancy and Vacancy",
+    "meta": [
+     "114",
+     "2y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 114
+   },
+   {
+    "id": "NXp2mwTYI6M",
+    "title": "ESTCP 3.2 Daylight Controls",
+    "meta": [
+     "261",
+     "2y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 261
+   },
+   {
+    "id": "flJ-NeZKods",
+    "title": "ESTCP 3.1 Task Tuning",
+    "meta": [
+     "77",
+     "2y ago"
+    ],
+    "dur": "9:02",
+    "views_tab": 77
+   },
+   {
+    "id": "tpxRxklF4Cw",
+    "title": "ESTCP 2.3 Luminaire Level Lighting Controls",
+    "meta": [
+     "99",
+     "2y ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 99
+   },
+   {
+    "id": "koStrpPnOR8",
+    "title": "ESTCP 2.2 Code Required Lighting Controls Strategies",
+    "meta": [
+     "127",
+     "2y ago"
+    ],
+    "dur": "15:42",
+    "views_tab": 127
+   },
+   {
+    "id": "F-vfXHC04ck",
+    "title": "ESTCP 2.1 Lighting Control System Basics",
+    "meta": [
+     "409",
+     "2y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 409
+   },
+   {
+    "id": "F44YeIMwxQg",
+    "title": "ESTCP 1.4  Lighting Technology Energy Solutions LiTES",
+    "meta": [
+     "83",
+     "2y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 83
+   },
+   {
+    "id": "3RZdE2KqqUc",
+    "title": "ESTCP 1.3 Intelligent Building Management with Holistic Digital Lighting",
+    "meta": [
+     "132",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 132
+   },
+   {
+    "id": "4hH8ZZWZ03o",
+    "title": "ESTCP 1.2 Validating the Digital Lumens Lighting Control Platform",
+    "meta": [
+     "185",
+     "2y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 185
+   },
+   {
+    "id": "zFcwzMWM9W4",
+    "title": "ESTCP 1.1 Cree SmartCast Lighting Retrofit Demonstration",
+    "meta": [
+     "322",
+     "2y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 322
+   },
+   {
+    "id": "58O9bLo8Q6k",
+    "title": "Rockford Area Habitat for Humanity Embraces Clean Energy from the Ground Up",
+    "meta": [
+     "133",
+     "2y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 133
+   },
+   {
+    "id": "unEYQAuZdAE",
+    "title": "Empowering Your Energy - A Guide to an Energy Efficient Home",
+    "meta": [
+     "92",
+     "2y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 92
+   },
+   {
+    "id": "5B8bCr84UQg",
+    "title": "Empowering Your Energy - A Guide to Electric Vehicles",
+    "meta": [
+     "79",
+     "2y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 79
+   },
+   {
+    "id": "RyfEutGltLY",
+    "title": "RTU / AHU Belt Tension & Alignment",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 4600
+   },
+   {
+    "id": "IJJvI5KQWSQ",
+    "title": "What are plug-in heat pump water heaters?",
+    "meta": [
+     "281",
+     "2y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 281
+   },
+   {
+    "id": "JnXY3pRnAvs",
+    "title": "Hydronic System Series:  Sizing Replacement Boilers using the EDR Method",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 2600
+   },
+   {
+    "id": "PKq61guA5TU",
+    "title": "Hydronic System Series: Expansion Tanks",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 5600
+   },
+   {
+    "id": "9at8oBypb10",
+    "title": "Hydronic System Series: Air Separators",
+    "meta": [
+     "9.9K",
+     "2y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 9900
+   },
+   {
+    "id": "OkOyHm8ccRg",
+    "title": "Hydronic System Series: Component Overview",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 3900
+   },
+   {
+    "id": "RCwxiJo_ImA",
+    "title": "Thermostat Wiring Series: Troubleshooting",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "S26xDh7ngxs",
+    "title": "Thermostat Wiring Series: Wiring a Heat Pump",
+    "meta": [
+     "94K",
+     "2y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 94000
+   },
+   {
+    "id": "MEJCz0-WyGQ",
+    "title": "Thermostat Wiring Series: Wiring a Gas RTU",
+    "meta": [
+     "4K",
+     "2y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 4000
+   },
+   {
+    "id": "kIt_sY_WRmk",
+    "title": "The Slipstream Song",
+    "meta": [
+     "655",
+     "3y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 655
+   },
+   {
+    "id": "NL9oh22haTs",
+    "title": "Carbon Reporting 101",
+    "meta": [
+     "178",
+     "3y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 178
+   },
+   {
+    "id": "QNWcwyb1b6Q",
+    "title": "Garver Feed Mill: Convergence Party (May 3, 2023)",
+    "meta": [
+     "321",
+     "3y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 321
+   },
+   {
+    "id": "DbNnCzwQXuU",
+    "title": "Retrofit Reality Check Webinar Recording",
+    "meta": [
+     "123",
+     "3y ago"
+    ],
+    "dur": "1:00:40",
+    "views_tab": 123
+   },
+   {
+    "id": "MuCbLIrKbZQ",
+    "title": "Clean Energy Conversations: Ben Austin and Julia Pooler",
+    "meta": [
+     "90",
+     "3y ago"
+    ],
+    "dur": "26:13",
+    "views_tab": 90
+   },
+   {
+    "id": "hXYeG1VkNv8",
+    "title": "Clean Energy Conversations: Rachel Wagner",
+    "meta": [
+     "235",
+     "3y ago"
+    ],
+    "dur": "37:33",
+    "views_tab": 235
+   },
+   {
+    "id": "5LT1Go65OjA",
+    "title": "Microgrids 101",
+    "meta": [
+     "282",
+     "3y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 282
+   },
+   {
+    "id": "rD3mvVBtwiY",
+    "title": "Variable Refrigerant Flow 101",
+    "meta": [
+     "185",
+     "3y ago"
+    ],
+    "dur": "0:39",
+    "views_tab": 185
+   },
+   {
+    "id": "wrZp_R-xw0M",
+    "title": "Refrigerated Thermal Energy Storage 101",
+    "meta": [
+     "607",
+     "3y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 607
+   },
+   {
+    "id": "CsQZeJCqNTM",
+    "title": "Home Sweet (All-Electric) Home",
+    "meta": [
+     "427",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 427
+   },
+   {
+    "id": "MpAc8TPDaUI",
+    "title": "Meet Velocity GO - a forward thinking energy finance tool",
+    "meta": [
+     "8.6K",
+     "3y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 8600
+   },
+   {
+    "id": "71p8Nj1DPgk",
+    "title": "Sketchbox Testimonials",
+    "meta": [
+     "238",
+     "3y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 238
+   },
+   {
+    "id": "0E-W-41vDsg",
+    "title": "Energy Teams",
+    "meta": [
+     "60",
+     "3y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 60
+   },
+   {
+    "id": "BrYg5vqAKH0",
+    "title": "Energy Assessments",
+    "meta": [
+     "88",
+     "3y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 88
+   },
+   {
+    "id": "JFCwBni9PTs",
+    "title": "Data Logging",
+    "meta": [
+     "67",
+     "3y ago"
+    ],
+    "dur": "2:37",
+    "views_tab": 67
+   },
+   {
+    "id": "MRLPHrA3dmo",
+    "title": "Benchmarking",
+    "meta": [
+     "90",
+     "3y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 90
+   },
+   {
+    "id": "BemiknR2L0k",
+    "title": "Energy Efficiency Services Overview",
+    "meta": [
+     "224",
+     "3y ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 224
+   },
+   {
+    "id": "W2s23q5c7nc",
+    "title": "Silver Spring Foods: A Case Study",
+    "meta": [
+     "159",
+     "3y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 159
+   },
+   {
+    "id": "5bc0rFfpi7w",
+    "title": "DMC Sustainability Series: Sketchbox Webinar with Ben Heymer",
+    "meta": [
+     "1.1K",
+     "3y ago"
+    ],
+    "dur": "53:10",
+    "views_tab": 1100
+   },
+   {
+    "id": "jtfPZuBE4Ww",
+    "title": "Lessons on Listening Episode 7:  Advice from the community to advance energy equity",
+    "meta": [
+     "40",
+     "3y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 40
+   },
+   {
+    "id": "IIeqHIU57uk",
+    "title": "Lessons on Listening Episode 6: How utility pilot programs can serve community needs",
+    "meta": [
+     "27",
+     "3y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 27
+   },
+   {
+    "id": "gveAlm--JAQ",
+    "title": "Lessons on Listening Episode 5: What program administrators should learn from community members",
+    "meta": [
+     "31",
+     "3y ago"
+    ],
+    "dur": "4:45",
+    "views_tab": 31
+   },
+   {
+    "id": "Aos3BGW-PKc",
+    "title": "Lessons on Listening Episode 4: Workforce Development in Action",
+    "meta": [
+     "47",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 47
+   },
+   {
+    "id": "IUffuU6La-E",
+    "title": "Lessons on Listening Episode 3: What a real BIT aid thinks of the BIT program",
+    "meta": [
+     "49",
+     "3y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 49
+   },
+   {
+    "id": "2sXaMwl-R5w",
+    "title": "Lessons on Listening Episode 1: What a former BIT Aide wanted (and got) from utility pilot program",
+    "meta": [
+     "111",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 111
+   },
+   {
+    "id": "FiJK_VQSvCo",
+    "title": "Lessons on Listening Episode 2:  How COVID-19 changed utility pilot programs",
+    "meta": [
+     "45",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 45
+   },
+   {
+    "id": "_qWyin2sMzE",
+    "title": "What Is Energy Engineering?",
+    "meta": [
+     "302",
+     "4y ago"
+    ],
+    "dur": "30:39",
+    "views_tab": 302
+   },
+   {
+    "id": "RNo-UVD6Zeo",
+    "title": "HVAC Careers",
+    "meta": [
+     "1.1K",
+     "4y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 1100
+   },
+   {
+    "id": "F8dRupH33Jc",
+    "title": "Welcome to Sketchbox: Your Trusted Energy Modeling Tool",
+    "meta": [
+     "4.4K",
+     "4y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 4400
+   },
+   {
+    "id": "mERYwILABNc",
+    "title": "Electrification: The Push for Environmental Justice",
+    "meta": [
+     "187",
+     "4y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 187
+   },
+   {
+    "id": "HOxUFPVvEyU",
+    "title": "Climate and Equitable Jobs Act: Transportation Equity and Workforce Development",
+    "meta": [
+     "89",
+     "4y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 89
+   },
+   {
+    "id": "sNQrw7qXaas",
+    "title": "JitneyEV: Accelerating Mobility Solutions",
+    "meta": [
+     "106",
+     "4y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 106
+   },
+   {
+    "id": "zAPaFyySW1c",
+    "title": "Preventative Maintenance Strategies for Plumbing Systems",
+    "meta": [
+     "4.3K",
+     "4y ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 4300
+   },
+   {
+    "id": "kKfFOKcTj3U",
+    "title": "Preventative Maintenance Strategies for HVAC Systems",
+    "meta": [
+     "8.2K",
+     "4y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 8200
+   },
+   {
+    "id": "xuvM0FP72gM",
+    "title": "Top 5 Preventative Maintenance Strategies for Your Building Automation System",
+    "meta": [
+     "4.5K",
+     "4y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 4500
+   },
+   {
+    "id": "0_5yu6SPQUU",
+    "title": "Top 5 Preventative Maintenance Strategies for Equipment with Standalone Controls",
+    "meta": [
+     "2K",
+     "4y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 2000
+   },
+   {
+    "id": "44CJ-2__e88",
+    "title": "Sketchbox Case Study: Part Three",
+    "meta": [
+     "241",
+     "4y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 241
+   },
+   {
+    "id": "yOBY-_QWybA",
+    "title": "Sketchbox Tutorial: Project",
+    "meta": [
+     "383",
+     "4y ago"
+    ],
+    "dur": "2:54",
+    "views_tab": 383
+   },
+   {
+    "id": "lPd0uzi2W_M",
+    "title": "Sketchbox Case Study: Part One",
+    "meta": [
+     "314",
+     "4y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 314
+   },
+   {
+    "id": "dBy8xBVag0w",
+    "title": "Sketchbox Tutorial: Results",
+    "meta": [
+     "239",
+     "4y ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 239
+   },
+   {
+    "id": "YUJjSywL92U",
+    "title": "Sketchbox Tutorial: Baseline",
+    "meta": [
+     "218",
+     "4y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 218
+   },
+   {
+    "id": "N_S3ovFhKos",
+    "title": "Sketchbox Case Study: Part Two",
+    "meta": [
+     "191",
+     "4y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 191
+   },
+   {
+    "id": "MGIocMgxHQ8",
+    "title": "Sketchbox Tutorial: Schedules",
+    "meta": [
+     "234",
+     "4y ago"
+    ],
+    "dur": "2:15",
+    "views_tab": 234
+   },
+   {
+    "id": "D7yE5_mHLSw",
+    "title": "Sketchbox Tutorial: Design",
+    "meta": [
+     "394",
+     "4y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 394
+   },
+   {
+    "id": "4Ki23GDcXAY",
+    "title": "Sketchbox Tutorial: Measures",
+    "meta": [
+     "309",
+     "4y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 309
+   },
+   {
+    "id": "3sGjePQeSh0",
+    "title": "Sketchbox Tutorial: Overview",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "JgvFCGnAxFc",
+    "title": "Indoor Air Quality 101 for Commercial Buildings",
+    "meta": [
+     "6.6K",
+     "4y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 6600
+   },
+   {
+    "id": "Rsm9kUd2aCI",
+    "title": "Ventilation 101 for Small and Mid-Size Commercial Buildings",
+    "meta": [
+     "7.8K",
+     "4y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 7800
+   },
+   {
+    "id": "rUkb9dr3dDg",
+    "title": "Bronzeville: Community of the Future",
+    "meta": [
+     "1.3K",
+     "4y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 1300
+   },
+   {
+    "id": "SJ6EBwmcTl8",
+    "title": "Accelerating Careers in Electric Vehicles",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 1400
+   },
+   {
+    "id": "7lfSwzdUthI",
+    "title": "Residential All-Electric New Home Construction and Major Renovation",
+    "meta": [
+     "231",
+     "4y ago"
+    ],
+    "dur": "2:54",
+    "views_tab": 231
+   },
+   {
+    "id": "_htwg4_rj5s",
+    "title": "Weatherization Stories from the Field | Episode 3: In the Dark",
+    "meta": [
+     "96",
+     "4y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 96
+   },
+   {
+    "id": "n44BqbIZ-4M",
+    "title": "Weatherization Stories from the Field | Episode 1: The Birds",
+    "meta": [
+     "171",
+     "4y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 171
+   },
+   {
+    "id": "IJizvxAIbE8",
+    "title": "Weatherization Stories from the Field | Episode 2: The Door and the Floor",
+    "meta": [
+     "121",
+     "4y ago"
+    ],
+    "dur": "4:54",
+    "views_tab": 121
+   },
+   {
+    "id": "2Y6zev6Bpnc",
+    "title": "Weatherization: It's for the People",
+    "meta": [
+     "94",
+     "4y ago"
+    ],
+    "dur": "2:37",
+    "views_tab": 94
+   },
+   {
+    "id": "-JiQidkqtJ4",
+    "title": "ESTCP Advanced Controls Training Catalog: Navigation Tutorial",
+    "meta": [
+     "425",
+     "4y ago"
+    ],
+    "dur": "7:23",
+    "views_tab": 425
+   },
+   {
+    "id": "ngUCsjYMtvU",
+    "title": "Variable Volume Multizone (MZ-VV) Field Demonstration",
+    "meta": [
+     "930",
+     "4y ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 930
+   },
+   {
+    "id": "7FpPZZyb6_w",
+    "title": "Scalable Deployment of Advanced Building Energy Management Systems (aBEMS)",
+    "meta": [
+     "645",
+     "4y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 645
+   },
+   {
+    "id": "mA2J4xgfl3c",
+    "title": "Tiered Trim and Respond (TTR) Field Demonstration",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 1500
+   },
+   {
+    "id": "LM2ig9c4TkU",
+    "title": "Energy Performance Monitoring and Optimization (EPMO) Field Demonstration",
+    "meta": [
+     "673",
+     "4y ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 673
+   },
+   {
+    "id": "qTCL3JYp8Ok",
+    "title": "How Smart Buildings Work",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "13:57",
+    "views_tab": 3000
+   },
+   {
+    "id": "TreQI-l6dN0",
+    "title": "Building Energy Modeling 101",
+    "meta": [
+     "9.5K",
+     "4y ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 9500
+   },
+   {
+    "id": "8qqOkuGNyo4",
+    "title": "ASHRAE Guideline 36: What It Covers",
+    "meta": [
+     "2.8K",
+     "4y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 2800
+   },
+   {
+    "id": "d5poRDnv9II",
+    "title": "ASHRAE Guideline 36: Overview, Benefits, and Field Demonstration",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "21:33",
+    "views_tab": 2600
+   },
+   {
+    "id": "m8jilFPb24M",
+    "title": "How Demand-Controlled Ventilation Saves Energy",
+    "meta": [
+     "3.4K",
+     "4y ago"
+    ],
+    "dur": "17:30",
+    "views_tab": 3400
+   },
+   {
+    "id": "MRJofs3IAXQ",
+    "title": "Introduction to Economizers",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 10000
+   },
+   {
+    "id": "KGcHY1Mp3bs",
+    "title": "AHU Supply Air Temperature and Pressure Resets",
+    "meta": [
+     "14K",
+     "4y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 14000
+   },
+   {
+    "id": "SHfQ2T-Pq5w",
+    "title": "Optimal Scheduling in Building Integrated Energy Systems",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 2600
+   },
+   {
+    "id": "ivPoGJJtw7M",
+    "title": "Low-Effort Measures That Save Energy",
+    "meta": [
+     "4.2K",
+     "4y ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 4200
+   },
+   {
+    "id": "q8L9r9xveUA",
+    "title": "Basics of HVAC Controls - Control Loops and Sequences",
+    "meta": [
+     "59K",
+     "4y ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 59000
+   },
+   {
+    "id": "0u9L6SRE5Ec",
+    "title": "Basics of HVAC Controls - Components",
+    "meta": [
+     "55K",
+     "4y ago"
+    ],
+    "dur": "18:21",
+    "views_tab": 55000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "fQYhxgwu_hY",
+    "title": "Energy Tips for Manufactured or Mobile Homes: Duct Sealing",
+    "meta": [
+     "131K",
+     "5y ago"
+    ],
+    "dur": "8:00",
+    "views_tab": 131000
+   },
+   {
+    "id": "TMgElmg_sbg",
+    "title": "Measuring airflow for residential forced-air systems for HVAC professionals",
+    "meta": [
+     "124K",
+     "9y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 124000
+   },
+   {
+    "id": "S26xDh7ngxs",
+    "title": "Thermostat Wiring Series: Wiring a Heat Pump",
+    "meta": [
+     "94K",
+     "2y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 94000
+   },
+   {
+    "id": "4TKSCJw543o",
+    "title": "How a Packaged Rooftop Unit Works",
+    "meta": [
+     "73K",
+     "4y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 73000
+   },
+   {
+    "id": "mQi40A9uIaE",
+    "title": "Intro to Building Automation System Architecture",
+    "meta": [
+     "64K",
+     "4y ago"
+    ],
+    "dur": "11:27",
+    "views_tab": 64000
+   },
+   {
+    "id": "q8L9r9xveUA",
+    "title": "Basics of HVAC Controls - Control Loops and Sequences",
+    "meta": [
+     "59K",
+     "4y ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 59000
+   },
+   {
+    "id": "0u9L6SRE5Ec",
+    "title": "Basics of HVAC Controls - Components",
+    "meta": [
+     "55K",
+     "4y ago"
+    ],
+    "dur": "18:21",
+    "views_tab": 55000
+   },
+   {
+    "id": "GeZWHtT4D4Y",
+    "title": "Weatherization: Attic Air Sealing",
+    "meta": [
+     "46K",
+     "11y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 46000
+   },
+   {
+    "id": "3yOC0lUebyQ",
+    "title": "How to Clean a Packaged RTU Condenser Coil",
+    "meta": [
+     "39K",
+     "4y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 39000
+   },
+   {
+    "id": "JqqOM9nzz-A",
+    "title": "Understanding your electric bill: what's a demand charge?",
+    "meta": [
+     "30K",
+     "10y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 30000
+   },
+   {
+    "id": "RCwxiJo_ImA",
+    "title": "Thermostat Wiring Series: Troubleshooting",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "MffAs84FeSY",
+    "title": "A2L Refrigerant - Overview",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 26000
+   },
+   {
+    "id": "U_dG1VE6lc4",
+    "title": "eQUEST introduction: the design development wizard",
+    "meta": [
+     "25K",
+     "8y ago"
+    ],
+    "dur": "3:41:01",
+    "views_tab": 25000
+   },
+   {
+    "id": "hqCBBsFeRMc",
+    "title": "What Is an Economizer for a Packaged RTU?",
+    "meta": [
+     "22K",
+     "4y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 22000
+   },
+   {
+    "id": "fQVWPwttKag",
+    "title": "How to Clean a Packaged RTU Evaporator Coil",
+    "meta": [
+     "20K",
+     "4y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 20000
+   },
+   {
+    "id": "thxSnfO9yzw",
+    "title": "How to Test Amp Draws on a Packaged RTU",
+    "meta": [
+     "17K",
+     "4y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 17000
+   },
+   {
+    "id": "KGcHY1Mp3bs",
+    "title": "AHU Supply Air Temperature and Pressure Resets",
+    "meta": [
+     "14K",
+     "4y ago"
+    ],
+    "dur": "16:13",
+    "views_tab": 14000
+   },
+   {
+    "id": "2ADHKV5nQGU",
+    "title": "A2L Refrigerant - Leak Detection",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "7:44",
+    "views_tab": 14000
+   },
+   {
+    "id": "HvN3Oj5NChM",
+    "title": "Advanced Building Control Protocols and Frameworks",
+    "meta": [
+     "12K",
+     "4y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 12000
+   },
+   {
+    "id": "I1mxRCr_2y0",
+    "title": "Economizer Controller Series: Siemens Basic Setup",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 11000
+   },
+   {
+    "id": "MRJofs3IAXQ",
+    "title": "Introduction to Economizers",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 10000
+   },
+   {
+    "id": "6yhVIg_4Eno",
+    "title": "Packaged RTU Filter Maintenance",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 10000
+   },
+   {
+    "id": "9at8oBypb10",
+    "title": "Hydronic System Series: Air Separators",
+    "meta": [
+     "9.9K",
+     "2y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 9900
+   },
+   {
+    "id": "TreQI-l6dN0",
+    "title": "Building Energy Modeling 101",
+    "meta": [
+     "9.5K",
+     "4y ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 9500
+   },
+   {
+    "id": "vCSAjgVUplA",
+    "title": "Basic building science: a study of air, heat and moisture movement",
+    "meta": [
+     "9.2K",
+     "9y ago"
+    ],
+    "dur": "1:23:37",
+    "views_tab": 9200
+   },
+   {
+    "id": "MpAc8TPDaUI",
+    "title": "Meet Velocity GO - a forward thinking energy finance tool",
+    "meta": [
+     "8.6K",
+     "3y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 8600
+   },
+   {
+    "id": "kKfFOKcTj3U",
+    "title": "Preventative Maintenance Strategies for HVAC Systems",
+    "meta": [
+     "8.2K",
+     "4y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 8200
+   },
+   {
+    "id": "Rwg2sQMEYCQ",
+    "title": "Energy Tips for Manufactured or Mobile Homes: DIY Energy Efficiency Measures",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "11:31",
+    "views_tab": 7900
+   },
+   {
+    "id": "Rsm9kUd2aCI",
+    "title": "Ventilation 101 for Small and Mid-Size Commercial Buildings",
+    "meta": [
+     "7.8K",
+     "4y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 7800
+   },
+   {
+    "id": "JgvFCGnAxFc",
+    "title": "Indoor Air Quality 101 for Commercial Buildings",
+    "meta": [
+     "6.6K",
+     "4y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 6600
+   },
+   {
+    "id": "-ACSUmYWHsQ",
+    "title": "Back of the Envelope Calculator: Tutorial",
+    "meta": [
+     "6.5K",
+     "9y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 6500
+   },
+   {
+    "id": "dZUwEfqmDoM",
+    "title": "Economizer Controller Series: Honeywell JADE Basic Setup",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 5600
+   },
+   {
+    "id": "PKq61guA5TU",
+    "title": "Hydronic System Series: Expansion Tanks",
+    "meta": [
+     "5.6K",
+     "2y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 5600
+   },
+   {
+    "id": "dWZpTlrCMQY",
+    "title": "How to Clean a Packaged RTU Condensate Trap",
+    "meta": [
+     "5.4K",
+     "4y ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 5400
+   },
+   {
+    "id": "CBhcH2LSViM",
+    "title": "How to Test Temperature Drops on a Packaged RTU",
+    "meta": [
+     "4.9K",
+     "4y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 4900
+   },
+   {
+    "id": "RyfEutGltLY",
+    "title": "RTU / AHU Belt Tension & Alignment",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 4600
+   },
+   {
+    "id": "3a7OPl7KoVg",
+    "title": "Exhaust Fan Flow Assessment",
+    "meta": [
+     "4.5K",
+     "4y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 4500
+   },
+   {
+    "id": "xuvM0FP72gM",
+    "title": "Top 5 Preventative Maintenance Strategies for Your Building Automation System",
+    "meta": [
+     "4.5K",
+     "4y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 4500
+   },
+   {
+    "id": "F8dRupH33Jc",
+    "title": "Welcome to Sketchbox: Your Trusted Energy Modeling Tool",
+    "meta": [
+     "4.4K",
+     "4y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 4400
+   },
+   {
+    "id": "mBfuOHfQ5Sw",
+    "title": "Why Slipstream?",
+    "meta": [
+     "4.3K",
+     "6y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 4300
+   },
+   {
+    "id": "daX1_ZpQGrs",
+    "title": "Sealing Vents in Your Manufactured Home",
+    "meta": [
+     "4.3K",
+     "4y ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 4300
+   },
+   {
+    "id": "zAPaFyySW1c",
+    "title": "Preventative Maintenance Strategies for Plumbing Systems",
+    "meta": [
+     "4.3K",
+     "4y ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 4300
+   },
+   {
+    "id": "ivPoGJJtw7M",
+    "title": "Low-Effort Measures That Save Energy",
+    "meta": [
+     "4.2K",
+     "4y ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 4200
+   },
+   {
+    "id": "l72UJe1NV48",
+    "title": "Economizer Controller Series: Siemens Advanced Setup",
+    "meta": [
+     "4.1K",
+     "2y ago"
+    ],
+    "dur": "11:17",
+    "views_tab": 4100
+   },
+   {
+    "id": "MEJCz0-WyGQ",
+    "title": "Thermostat Wiring Series: Wiring a Gas RTU",
+    "meta": [
+     "4K",
+     "2y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 4000
+   },
+   {
+    "id": "OkOyHm8ccRg",
+    "title": "Hydronic System Series: Component Overview",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 3900
+   },
+   {
+    "id": "pF2B03kXCmE",
+    "title": "Commercial Heat Pumps",
+    "meta": [
+     "3.7K",
+     "2y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 3700
+   },
+   {
+    "id": "m8jilFPb24M",
+    "title": "How Demand-Controlled Ventilation Saves Energy",
+    "meta": [
+     "3.4K",
+     "4y ago"
+    ],
+    "dur": "17:30",
+    "views_tab": 3400
+   },
+   {
+    "id": "dKBpMVOOpYo",
+    "title": "Module 3: Case study: whole-building LCA",
+    "meta": [
+     "3.2K",
+     "5y ago"
+    ],
+    "dur": "54:06",
+    "views_tab": 3200
+   },
+   {
+    "id": "vRGlDVyJdoM",
+    "title": "HyGCHP Tutorial",
+    "meta": [
+     "3.2K",
+     "10y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 3200
+   },
+   {
+    "id": "tBal08IMiJU",
+    "title": "VAV Systems Basics",
+    "meta": [
+     "3.1K",
+     "2y ago"
+    ],
+    "dur": "9:53",
+    "views_tab": 3100
+   },
+   {
+    "id": "qTCL3JYp8Ok",
+    "title": "How Smart Buildings Work",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "13:57",
+    "views_tab": 3000
+   },
+   {
+    "id": "QAhHtwiu2C8",
+    "title": "Energy Finance Solutions: The financial services division of Slipstream",
+    "meta": [
+     "2.9K",
+     "6y ago"
+    ],
+    "dur": "1:16",
+    "views_tab": 2900
+   },
+   {
+    "id": "8qqOkuGNyo4",
+    "title": "ASHRAE Guideline 36: What It Covers",
+    "meta": [
+     "2.8K",
+     "4y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 2800
+   },
+   {
+    "id": "ER_Tv2oE2_o",
+    "title": "Meister Cheese: A Case Study",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "13:14",
+    "views_tab": 2600
+   },
+   {
+    "id": "JnXY3pRnAvs",
+    "title": "Hydronic System Series:  Sizing Replacement Boilers using the EDR Method",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 2600
+   },
+   {
+    "id": "SHfQ2T-Pq5w",
+    "title": "Optimal Scheduling in Building Integrated Energy Systems",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 2600
+   },
+   {
+    "id": "d5poRDnv9II",
+    "title": "ASHRAE Guideline 36: Overview, Benefits, and Field Demonstration",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "21:33",
+    "views_tab": 2600
+   },
+   {
+    "id": "QV_j_6jwTyg",
+    "title": "Back of the Envelope Calculator Tutorial",
+    "meta": [
+     "2.3K",
+     "10y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 2300
+   },
+   {
+    "id": "AmJOHHTd3pQ",
+    "title": "Weatherization: Crawl Spaces",
+    "meta": [
+     "2.3K",
+     "11y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 2300
+   },
+   {
+    "id": "C5ZXMSIbAoQ",
+    "title": "Iterative daylight modeling using Rhino, AGi32 and Adobe Creative Suite",
+    "meta": [
+     "2.3K",
+     "11y ago"
+    ],
+    "dur": "5:57",
+    "views_tab": 2300
+   },
+   {
+    "id": "RNBHSbt207g",
+    "title": "Combustion Analyzer Usage for Condensing Boilers",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "18:07",
+    "views_tab": 2200
+   },
+   {
+    "id": "4LPr8r0ABac",
+    "title": "Energy management information systems",
+    "meta": [
+     "2.2K",
+     "8y ago"
+    ],
+    "dur": "27:35",
+    "views_tab": 2200
+   },
+   {
+    "id": "metbD3ap8XU",
+    "title": "Solar Energy Careers",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 2100
+   },
+   {
+    "id": "LarVvnKv0rU",
+    "title": "Industrial refrigeration: compressor efficiency and sequencing",
+    "meta": [
+     "2K",
+     "8y ago"
+    ],
+    "dur": "16:59",
+    "views_tab": 2000
+   },
+   {
+    "id": "sfNOURCp41E",
+    "title": "Psychrometrics: Dew point for dummies",
+    "meta": [
+     "2K",
+     "8y ago"
+    ],
+    "dur": "1:21:42",
+    "views_tab": 2000
+   },
+   {
+    "id": "0_5yu6SPQUU",
+    "title": "Top 5 Preventative Maintenance Strategies for Equipment with Standalone Controls",
+    "meta": [
+     "2K",
+     "4y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 2000
+   },
+   {
+    "id": "XOk08NwZxV8",
+    "title": "Boilers: thermodynamics and combustion | 1. The heart of the system",
+    "meta": [
+     "1.7K",
+     "5y ago"
+    ],
+    "dur": "15:09",
+    "views_tab": 1700
+   },
+   {
+    "id": "9361uvr03FQ",
+    "title": "Maximize your building automation system (BAS) | Part 1: Utilize BAS to troubleshoot in real-time",
+    "meta": [
+     "1.7K",
+     "6y ago"
+    ],
+    "dur": "1:09:15",
+    "views_tab": 1700
+   },
+   {
+    "id": "BJgpN7bSmgY",
+    "title": "Economizer Controller Series: Honeywell JADE Advanced Setup",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1600
+   },
+   {
+    "id": "8iwwRq0du4A",
+    "title": "ASHRAE Position Document on Airborne Infectious Diseases",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 1500
+   },
+   {
+    "id": "mA2J4xgfl3c",
+    "title": "Tiered Trim and Respond (TTR) Field Demonstration",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 1500
+   },
+   {
+    "id": "SJ6EBwmcTl8",
+    "title": "Accelerating Careers in Electric Vehicles",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 1400
+   },
+   {
+    "id": "sTjWvim89GI",
+    "title": "Industrial refrigeration: evaporator operation and defrost",
+    "meta": [
+     "1.3K",
+     "8y ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 1300
+   },
+   {
+    "id": "rUkb9dr3dDg",
+    "title": "Bronzeville: Community of the Future",
+    "meta": [
+     "1.3K",
+     "4y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 1300
+   },
+   {
+    "id": "LasuOdbZffA",
+    "title": "Clean Energy Careers in Hydropower",
+    "meta": [
+     "1.2K",
+     "4y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 1200
+   },
+   {
+    "id": "eMNkCq2IEkI",
+    "title": "Energy Tips for Manufactured or Mobile Homes: Direct Install Energy Efficiency Measures",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "10:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "5bc0rFfpi7w",
+    "title": "DMC Sustainability Series: Sketchbox Webinar with Ben Heymer",
+    "meta": [
+     "1.1K",
+     "3y ago"
+    ],
+    "dur": "53:10",
+    "views_tab": 1100
+   },
+   {
+    "id": "UZi9qw28IB4",
+    "title": "Electric Services Delivery",
+    "meta": [
+     "1.1K",
+     "11y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 1100
+   },
+   {
+    "id": "RNo-UVD6Zeo",
+    "title": "HVAC Careers",
+    "meta": [
+     "1.1K",
+     "4y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 1100
+   },
+   {
+    "id": "yhLVTYlyHuY",
+    "title": "Introducing Seventhwave",
+    "meta": [
+     "1.1K",
+     "11y ago"
+    ],
+    "dur": "1:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "3sGjePQeSh0",
+    "title": "Sketchbox Tutorial: Overview",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "XCXrsGDAEek",
+    "title": "EUI Analyzer: Tutorial",
+    "meta": [
+     "1K",
+     "9y ago"
+    ],
+    "dur": "17:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "s6TWMlFACPE",
+    "title": "Boilers: thermodynamics and combustion | 3. Noxious emissions",
+    "meta": [
+     "1K",
+     "5y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "BgYV2s7aBg8",
+    "title": "Milwaukee Energy Efficiency",
+    "meta": [
+     "968",
+     "4y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 968
+   },
+   {
+    "id": "ngUCsjYMtvU",
+    "title": "Variable Volume Multizone (MZ-VV) Field Demonstration",
+    "meta": [
+     "930",
+     "4y ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 930
+   },
+   {
+    "id": "QmCE5lO0tW4",
+    "title": "Wisconsin Clean Energy Careers Overview: Leading the Way with Policy",
+    "meta": [
+     "928",
+     "5y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 928
+   },
+   {
+    "id": "ozcE81hJM7c",
+    "title": "Energy Recovery Wheels in Air Handling Units",
+    "meta": [
+     "803",
+     "1y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 803
+   },
+   {
+    "id": "rO5Lh0AnNQw",
+    "title": "Boilers: thermodynamics and combustion | 4. Combustion efficiency and emissions",
+    "meta": [
+     "790",
+     "5y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 790
+   },
+   {
+    "id": "WxUAUOfJBqA",
+    "title": "Furnace diagnostic testing (part 1 - gas furnaces)",
+    "meta": [
+     "754",
+     "5y ago"
+    ],
+    "dur": "36:20",
+    "views_tab": 754
+   },
+   {
+    "id": "W5jvNSUlUMA",
+    "title": "Introducing Green Veterans",
+    "meta": [
+     "755",
+     "9y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 755
+   },
+   {
+    "id": "-Sy9ZqWxSGo",
+    "title": "Combustion Safety Made Simple:  Drafting or Spillage?",
+    "meta": [
+     "749",
+     "4y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 749
+   },
+   {
+    "id": "UmZCHFGCDEk",
+    "title": "Meet Jacqueline, Xavier's Ecoconcierge",
+    "meta": [
+     "740",
+     "9y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 740
+   },
+   {
+    "id": "wNmJtUuR0ck",
+    "title": "Saranya Gunasingh | Climate change and energy performance",
+    "meta": [
+     "695",
+     "10y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 695
+   },
+   {
+    "id": "iz7OoPSSvpM",
+    "title": "Dynamic ventilation reset strategies",
+    "meta": [
+     "686",
+     "5y ago"
+    ],
+    "dur": "1:16:24",
+    "views_tab": 686
+   },
+   {
+    "id": "LM2ig9c4TkU",
+    "title": "Energy Performance Monitoring and Optimization (EPMO) Field Demonstration",
+    "meta": [
+     "673",
+     "4y ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 673
+   },
+   {
+    "id": "9GesIqd57YM",
+    "title": "BIT: Building sustainability starts here",
+    "meta": [
+     "663",
+     "8y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 663
+   },
+   {
+    "id": "kIt_sY_WRmk",
+    "title": "The Slipstream Song",
+    "meta": [
+     "655",
+     "3y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 655
+   },
+   {
+    "id": "YR8wwc8Ws7o",
+    "title": "Utility Careers Featuring an Electric Superintendent and a Lineworker",
+    "meta": [
+     "648",
+     "5y ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 648
+   },
+   {
+    "id": "7FpPZZyb6_w",
+    "title": "Scalable Deployment of Advanced Building Energy Management Systems (aBEMS)",
+    "meta": [
+     "645",
+     "4y ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 645
+   },
+   {
+    "id": "AulZVqXhWng",
+    "title": "Load Shifting and Peak Shaving",
+    "meta": [
+     "644",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 644
+   },
+   {
+    "id": "surUZ79eWEM",
+    "title": "Easy-to-obtain data provides valuable insights",
+    "meta": [
+     "611",
+     "10y ago"
+    ],
+    "dur": "10:42",
+    "views_tab": 611
+   },
+   {
+    "id": "NbyvDzM7uu4",
+    "title": "Dense-pack sidewall insulation",
+    "meta": [
+     "611",
+     "5y ago"
+    ],
+    "dur": "1:17:12",
+    "views_tab": 611
+   },
+   {
+    "id": "wrZp_R-xw0M",
+    "title": "Refrigerated Thermal Energy Storage 101",
+    "meta": [
+     "607",
+     "3y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 607
+   },
+   {
+    "id": "HFXR0Y_hPU0",
+    "title": "Airtight envelopes- from the Heart of a Building documentary series",
+    "meta": [
+     "578",
+     "6y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 578
+   },
+   {
+    "id": "kf_4cWT_PZs",
+    "title": "Emerging Tech Solutions: Integrated Controls",
+    "meta": [
+     "540",
+     "4y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 540
+   },
+   {
+    "id": "-I6xHiBcBsc",
+    "title": "How to get top performance from your furnace, air conditioner or heat pump",
+    "meta": [
+     "537",
+     "9y ago"
+    ],
+    "dur": "24:35",
+    "views_tab": 537
+   },
+   {
+    "id": "n-ryCNI71SM",
+    "title": "Careful / covered by Turbulence",
+    "meta": [
+     "527",
+     "6y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 527
+   },
+   {
+    "id": "O0ycP5MF0XM",
+    "title": "Steve Kihm | Considering risk and investor value in energy efficiency business models",
+    "meta": [
+     "500",
+     "10y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 500
+   },
+   {
+    "id": "6Q1Q5vmarsM",
+    "title": "Integrating Lighting and HVAC Controls for Deeper Energy Savings",
+    "meta": [
+     "483",
+     "4y ago"
+    ],
+    "dur": "33:27",
+    "views_tab": 483
+   },
+   {
+    "id": "-V_rv6VXzus",
+    "title": "Scott Hackel | Reduction of commercial plug loads",
+    "meta": [
+     "435",
+     "10y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 435
+   },
+   {
+    "id": "vcMilsIrFRM",
+    "title": "Bayview's Redevelopment: Net Zero for All",
+    "meta": [
+     "427",
+     "5y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 427
+   },
+   {
+    "id": "CsQZeJCqNTM",
+    "title": "Home Sweet (All-Electric) Home",
+    "meta": [
+     "427",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 427
+   },
+   {
+    "id": "-JiQidkqtJ4",
+    "title": "ESTCP Advanced Controls Training Catalog: Navigation Tutorial",
+    "meta": [
+     "425",
+     "4y ago"
+    ],
+    "dur": "7:23",
+    "views_tab": 425
+   },
+   {
+    "id": "vtZSb2gPQvY",
+    "title": "Furnace diagnostic testing (part 2 - oil furnaces)",
+    "meta": [
+     "421",
+     "5y ago"
+    ],
+    "dur": "30:17",
+    "views_tab": 421
+   },
+   {
+    "id": "F-vfXHC04ck",
+    "title": "ESTCP 2.1 Lighting Control System Basics",
+    "meta": [
+     "409",
+     "2y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 409
+   },
+   {
+    "id": "4EHUilAUlDo",
+    "title": "Demand response through advanced lighting controls",
+    "meta": [
+     "403",
+     "10y ago"
+    ],
+    "dur": "19:05",
+    "views_tab": 403
+   },
+   {
+    "id": "D7yE5_mHLSw",
+    "title": "Sketchbox Tutorial: Design",
+    "meta": [
+     "394",
+     "4y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 394
+   },
+   {
+    "id": "NJrnHpvHw5o",
+    "title": "Commercial rooftop units in Minnesota: Characteristics and energy performance",
+    "meta": [
+     "393",
+     "9y ago"
+    ],
+    "dur": "55:16",
+    "views_tab": 393
+   },
+   {
+    "id": "3sAS5724mKk",
+    "title": "J ON THE STREET | Jacqueline Freidel, Xavier's Ecoconcierge",
+    "meta": [
+     "388",
+     "9y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 388
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "yhLVTYlyHuY",
+    "title": "Introducing Seventhwave",
+    "meta": [
+     "1.1K",
+     "11y ago"
+    ],
+    "dur": "1:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "C5ZXMSIbAoQ",
+    "title": "Iterative daylight modeling using Rhino, AGi32 and Adobe Creative Suite",
+    "meta": [
+     "2.3K",
+     "11y ago"
+    ],
+    "dur": "5:57",
+    "views_tab": 2300
+   },
+   {
+    "id": "ybh98RcT6qg",
+    "title": "Better Buildings: Better Business Conference Promo",
+    "meta": [
+     "40",
+     "11y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 40
+   },
+   {
+    "id": "GeZWHtT4D4Y",
+    "title": "Weatherization: Attic Air Sealing",
+    "meta": [
+     "46K",
+     "11y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 46000
+   },
+   {
+    "id": "AmJOHHTd3pQ",
+    "title": "Weatherization: Crawl Spaces",
+    "meta": [
+     "2.3K",
+     "11y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 2300
+   },
+   {
+    "id": "WtSraCzM4os",
+    "title": "Plug-in hybrid research project",
+    "meta": [
+     "19",
+     "11y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 19
+   },
+   {
+    "id": "UZi9qw28IB4",
+    "title": "Electric Services Delivery",
+    "meta": [
+     "1.1K",
+     "11y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 1100
+   },
+   {
+    "id": "wriHnfpfQ-Q",
+    "title": "Webinar Clip:  Daylight Control and Performance Specifications - LEDs and More",
+    "meta": [
+     "25",
+     "11y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 25
+   },
+   {
+    "id": "mAsMronKClw",
+    "title": "Scouting for residential electricity savings",
+    "meta": [
+     "48",
+     "11y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 48
+   },
+   {
+    "id": "giqUpYcHBro",
+    "title": "Interview with Rick Fedrizzi, USGBC: How buildings use energy",
+    "meta": [
+     "73",
+     "10y ago"
+    ],
+    "dur": "2:37",
+    "views_tab": 73
+   },
+   {
+    "id": "HRG-RCxPyCQ",
+    "title": "Interview with Rick Fedrizzi, USGBC: Making the business case",
+    "meta": [
+     "42",
+     "10y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 42
+   },
+   {
+    "id": "6QeRpAydriA",
+    "title": "Interview with Rick Fedrizzi, USGBC: Reaching vulnerable populations",
+    "meta": [
+     "26",
+     "10y ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 26
+   },
+   {
+    "id": "vuWEj3PS5Zc",
+    "title": "Interview with Rick Fedrizzi, USGBC: A personal journey",
+    "meta": [
+     "12",
+     "10y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 12
+   },
+   {
+    "id": "kz6zbYqmoDs",
+    "title": "Interview with Rick Fedrizzi, USGBC: Advice for aspiring wavemakers",
+    "meta": [
+     "33",
+     "10y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 33
+   },
+   {
+    "id": "S6F6mVMBm0w",
+    "title": "Interview with Rick Fedrizzi, USGBC: The new normal",
+    "meta": [
+     "49",
+     "10y ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 49
+   },
+   {
+    "id": "oVbiT5a0iR8",
+    "title": "Wavemakers: Rebecca Stanfield, SolarCity",
+    "meta": [
+     "184",
+     "10y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 184
+   },
+   {
+    "id": "QV_j_6jwTyg",
+    "title": "Back of the Envelope Calculator Tutorial",
+    "meta": [
+     "2.3K",
+     "10y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 2300
+   },
+   {
+    "id": "D4eXq3xbwjw",
+    "title": "Interview with Rick Fedrizzi, USGBC: Leaving a legacy",
+    "meta": [
+     "177",
+     "10y ago"
+    ],
+    "dur": "7:23",
+    "views_tab": 177
+   },
+   {
+    "id": "kGDB2tDNHjs",
+    "title": "Webinar clip: Mastering infrared thermography",
+    "meta": [
+     "59",
+     "10y ago"
+    ],
+    "dur": "1:59",
+    "views_tab": 59
+   },
+   {
+    "id": "fbND03OoZA0",
+    "title": "About the Food Service Technology Center",
+    "meta": [
+     "142",
+     "10y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 142
+   },
+   {
+    "id": "surUZ79eWEM",
+    "title": "Easy-to-obtain data provides valuable insights",
+    "meta": [
+     "611",
+     "10y ago"
+    ],
+    "dur": "10:42",
+    "views_tab": 611
+   },
+   {
+    "id": "jGupaQdUMeU",
+    "title": "Site visits reveal familiar attitudes and obstacles",
+    "meta": [
+     "280",
+     "10y ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 280
+   },
+   {
+    "id": "Ymw80_qaZtg",
+    "title": "New and market-ready technologies for commercial and industrial settings",
+    "meta": [
+     "152",
+     "10y ago"
+    ],
+    "dur": "51:08",
+    "views_tab": 152
+   },
+   {
+    "id": "GqjHf_eQpCI",
+    "title": "Slight program adjustments are the answer",
+    "meta": [
+     "283",
+     "10y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 283
+   },
+   {
+    "id": "JqqOM9nzz-A",
+    "title": "Understanding your electric bill: what's a demand charge?",
+    "meta": [
+     "30K",
+     "10y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 30000
+   },
+   {
+    "id": "vRGlDVyJdoM",
+    "title": "HyGCHP Tutorial",
+    "meta": [
+     "3.2K",
+     "10y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 3200
+   },
+   {
+    "id": "nnaR5HoWwWI",
+    "title": "Our rich media revolution",
+    "meta": [
+     "36",
+     "10y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 36
+   },
+   {
+    "id": "-sMHy-ZO3x0",
+    "title": "Our return on investment with Mediasite",
+    "meta": [
+     "59",
+     "10y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 59
+   },
+   {
+    "id": "NQ2zEBk8NLw",
+    "title": "Vision and sustainable strategies",
+    "meta": [
+     "63",
+     "10y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 63
+   },
+   {
+    "id": "565436fpV8Q",
+    "title": "\u201cMini\u201d BECC Conference (December 4, 2014)",
+    "meta": [
+     "8",
+     "10y ago"
+    ],
+    "dur": "55:53",
+    "views_tab": 8
+   },
+   {
+    "id": "CE97whc7tyo",
+    "title": "Behavior change for water sustainability (June 4, 2015)",
+    "meta": [
+     "40",
+     "10y ago"
+    ],
+    "dur": "1:04:52",
+    "views_tab": 40
+   },
+   {
+    "id": "pZ8GavARb-8",
+    "title": "Evaluating and measuring behavior (July 30, 2014)",
+    "meta": [
+     "132",
+     "10y ago"
+    ],
+    "dur": "40:07",
+    "views_tab": 132
+   },
+   {
+    "id": "7wuC-ULYwA8",
+    "title": "\"Shorts\" (May 7, 2015)",
+    "meta": [
+     "12",
+     "10y ago"
+    ],
+    "dur": "22:09",
+    "views_tab": 12
+   },
+   {
+    "id": "WJVPvxom3wc",
+    "title": "Behavior-related research (March 5, 2015)",
+    "meta": [
+     "17",
+     "10y ago"
+    ],
+    "dur": "55:58",
+    "views_tab": 17
+   },
+   {
+    "id": "fAJhkctvnfQ",
+    "title": "\"Shorts\" (October 2, 2014)",
+    "meta": [
+     "10",
+     "10y ago"
+    ],
+    "dur": "55:56",
+    "views_tab": 10
+   },
+   {
+    "id": "ULtaXA_Ck2o",
+    "title": "How can behavioral insights unlock savings in a new rate paradigm? (November 6, 2014)",
+    "meta": [
+     "9",
+     "10y ago"
+    ],
+    "dur": "1:04:26",
+    "views_tab": 9
+   },
+   {
+    "id": "3I4y5iUlo-E",
+    "title": "Introduction to building energy data and disclosure (November 5, 2015)",
+    "meta": [
+     "117",
+     "10y ago"
+    ],
+    "dur": "1:02:43",
+    "views_tab": 117
+   },
+   {
+    "id": "qydb5A66-a0",
+    "title": "B4 Testimonials",
+    "meta": [
+     "33",
+     "10y ago"
+    ],
+    "dur": "1:37",
+    "views_tab": 33
+   },
+   {
+    "id": "O0ycP5MF0XM",
+    "title": "Steve Kihm | Considering risk and investor value in energy efficiency business models",
+    "meta": [
+     "500",
+     "10y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 500
+   },
+   {
+    "id": "-V_rv6VXzus",
+    "title": "Scott Hackel | Reduction of commercial plug loads",
+    "meta": [
+     "435",
+     "10y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 435
+   },
+   {
+    "id": "wNmJtUuR0ck",
+    "title": "Saranya Gunasingh | Climate change and energy performance",
+    "meta": [
+     "695",
+     "10y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 695
+   },
+   {
+    "id": "2fdcO63fq7w",
+    "title": "Adam McMillen | Accelerate Performance",
+    "meta": [
+     "377",
+     "10y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 377
+   },
+   {
+    "id": "ufFaYyraXQk",
+    "title": "MODULE 1 PREVIEW | LEED V4: Life cycle assessment in practice",
+    "meta": [
+     "299",
+     "10y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 299
+   },
+   {
+    "id": "NwTtr0ytZis",
+    "title": "MODULE 2 PREVIEW | LEED V4: Life cycle assessment in practice",
+    "meta": [
+     "121",
+     "10y ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 121
+   },
+   {
+    "id": "HEXo9HarIig",
+    "title": "MODULE 3 PREVIEW | LEED V4: Life cycle assessment in practice",
+    "meta": [
+     "165",
+     "10y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 165
+   },
+   {
+    "id": "4EHUilAUlDo",
+    "title": "Demand response through advanced lighting controls",
+    "meta": [
+     "403",
+     "10y ago"
+    ],
+    "dur": "19:05",
+    "views_tab": 403
+   },
+   {
+    "id": "PT6usqP1XqU",
+    "title": "Effective action: the basics of energy program design",
+    "meta": [
+     "54",
+     "10y ago"
+    ],
+    "dur": "55:52",
+    "views_tab": 54
+   },
+   {
+    "id": "r2Ow5w7sk2w",
+    "title": "Assessing your impact: evaluating the effectiveness of community energy initiatives",
+    "meta": [
+     "113",
+     "10y ago"
+    ],
+    "dur": "42:17",
+    "views_tab": 113
+   },
+   {
+    "id": "-_yll1ylI6U",
+    "title": "Green jobs: connecting supply and demand",
+    "meta": [
+     "57",
+     "10y ago"
+    ],
+    "dur": "1:02:27",
+    "views_tab": 57
+   },
+   {
+    "id": "xS_nzq-ZUyw",
+    "title": "Examining window retrofit options",
+    "meta": [
+     "58",
+     "9y ago"
+    ],
+    "dur": "1:23:42",
+    "views_tab": 58
+   },
+   {
+    "id": "vCSAjgVUplA",
+    "title": "Basic building science: a study of air, heat and moisture movement",
+    "meta": [
+     "9.2K",
+     "9y ago"
+    ],
+    "dur": "1:23:37",
+    "views_tab": 9200
+   },
+   {
+    "id": "JDXCtBpkEP4",
+    "title": "Midwest energy codes and policy: reaching full potential",
+    "meta": [
+     "47",
+     "9y ago"
+    ],
+    "dur": "1:17:47",
+    "views_tab": 47
+   },
+   {
+    "id": "NUrmewT6Axc",
+    "title": "Peter Yost's B4 2017 Promo",
+    "meta": [
+     "357",
+     "9y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 357
+   },
+   {
+    "id": "ouyiNd1so44",
+    "title": "Meet Jacqueline, Xavier's Ecoconcierge",
+    "meta": [
+     "77",
+     "9y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 77
+   },
+   {
+    "id": "UmZCHFGCDEk",
+    "title": "Meet Jacqueline, Xavier's Ecoconcierge",
+    "meta": [
+     "740",
+     "9y ago"
+    ],
+    "dur": "1:49",
+    "views_tab": 740
+   },
+   {
+    "id": "l15iVHfh1FA",
+    "title": "Holiday Greetings from Seventhwave",
+    "meta": [
+     "331",
+     "9y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 331
+   },
+   {
+    "id": "iH1ESSWPX7k",
+    "title": "Midwest Energy Survey: tracking household perceptions and actions",
+    "meta": [
+     "43",
+     "9y ago"
+    ],
+    "dur": "28:31",
+    "views_tab": 43
+   },
+   {
+    "id": "PjW_w-I2aLA",
+    "title": "Better Buildings: Better Business Conference 2017 | GENERAL SESSION",
+    "meta": [
+     "96",
+     "9y ago"
+    ],
+    "dur": "1:14:14",
+    "views_tab": 96
+   },
+   {
+    "id": "NJrnHpvHw5o",
+    "title": "Commercial rooftop units in Minnesota: Characteristics and energy performance",
+    "meta": [
+     "393",
+     "9y ago"
+    ],
+    "dur": "55:16",
+    "views_tab": 393
+   },
+   {
+    "id": "Pbq5KyDUTsU",
+    "title": "Building a Green Veterans network",
+    "meta": [
+     "271",
+     "9y ago"
+    ],
+    "dur": "19:40",
+    "views_tab": 271
+   },
+   {
+    "id": "e1KpDr49R90",
+    "title": "RESEARCH RESULTS: Improving installation/maintenance practices",
+    "meta": [
+     "359",
+     "9y ago"
+    ],
+    "dur": "8:09",
+    "views_tab": 359
+   },
+   {
+    "id": "TMgElmg_sbg",
+    "title": "Measuring airflow for residential forced-air systems for HVAC professionals",
+    "meta": [
+     "124K",
+     "9y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 124000
+   },
+   {
+    "id": "-I6xHiBcBsc",
+    "title": "How to get top performance from your furnace, air conditioner or heat pump",
+    "meta": [
+     "537",
+     "9y ago"
+    ],
+    "dur": "24:35",
+    "views_tab": 537
+   },
+   {
+    "id": "W5jvNSUlUMA",
+    "title": "Introducing Green Veterans",
+    "meta": [
+     "755",
+     "9y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 755
+   },
+   {
+    "id": "6UWeVCFxdsY",
+    "title": "The financial effects of energy efficiency on utilities: a closer look at decoupling",
+    "meta": [
+     "281",
+     "9y ago"
+    ],
+    "dur": "1:20:34",
+    "views_tab": 281
+   },
+   {
+    "id": "vmrAfypzRIc",
+    "title": "Bill Angell, Instructor: Radon control options for new home construction",
+    "meta": [
+     "162",
+     "9y ago"
+    ],
+    "dur": "0:49",
+    "views_tab": 162
+   },
+   {
+    "id": "-ACSUmYWHsQ",
+    "title": "Back of the Envelope Calculator: Tutorial",
+    "meta": [
+     "6.5K",
+     "9y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 6500
+   },
+   {
+    "id": "XCXrsGDAEek",
+    "title": "EUI Analyzer: Tutorial",
+    "meta": [
+     "1K",
+     "9y ago"
+    ],
+    "dur": "17:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "3sAS5724mKk",
+    "title": "J ON THE STREET | Jacqueline Freidel, Xavier's Ecoconcierge",
+    "meta": [
+     "388",
+     "9y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 388
+   },
+   {
+    "id": "CEsz_EJyTe4",
+    "title": "Michael Anschel's B4 2018 Promo",
+    "meta": [
+     "242",
+     "8y ago"
+    ],
+    "dur": "1:32",
+    "views_tab": 242
+   },
+   {
+    "id": "6fk-4sVkOvQ",
+    "title": "Scouting for residential electrical savings (aka the Minnesota plug load study)",
+    "meta": [
+     "50",
+     "8y ago"
+    ],
+    "dur": "1:14:05",
+    "views_tab": 50
+   },
+   {
+    "id": "MppUBM30Qts",
+    "title": "Joe Nagan | Psychrometrics: dew point for dummies",
+    "meta": [
+     "326",
+     "8y ago"
+    ],
+    "dur": "1:21:42",
+    "views_tab": 326
+   },
+   {
+    "id": "82vv4l4df7A",
+    "title": "BIT Building how-to series: Night walks",
+    "meta": [
+     "207",
+     "8y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 207
+   },
+   {
+    "id": "sfNOURCp41E",
+    "title": "Psychrometrics: Dew point for dummies",
+    "meta": [
+     "2K",
+     "8y ago"
+    ],
+    "dur": "1:21:42",
+    "views_tab": 2000
+   },
+   {
+    "id": "wX0ozmwOW8Y",
+    "title": "WPPI Energy's Request for Proposals for Energy Efficiency Program",
+    "meta": [
+     "67",
+     "8y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 67
+   },
+   {
+    "id": "YJ7ThUOOzbY",
+    "title": "WPPI Energy's New Construction Design Assistance program",
+    "meta": [
+     "116",
+     "8y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 116
+   },
+   {
+    "id": "5ieyfs9SO3o",
+    "title": "Climate impact and building resilience strategies",
+    "meta": [
+     "97",
+     "8y ago"
+    ],
+    "dur": "46:18",
+    "views_tab": 97
+   },
+   {
+    "id": "U_dG1VE6lc4",
+    "title": "eQUEST introduction: the design development wizard",
+    "meta": [
+     "25K",
+     "8y ago"
+    ],
+    "dur": "3:41:01",
+    "views_tab": 25000
+   },
+   {
+    "id": "3ydaD1QdNJs",
+    "title": "Industrial refrigeration: optimizing condenser performance",
+    "meta": [
+     "360",
+     "8y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 360
+   },
+   {
+    "id": "LarVvnKv0rU",
+    "title": "Industrial refrigeration: compressor efficiency and sequencing",
+    "meta": [
+     "2K",
+     "8y ago"
+    ],
+    "dur": "16:59",
+    "views_tab": 2000
+   },
+   {
+    "id": "sTjWvim89GI",
+    "title": "Industrial refrigeration: evaporator operation and defrost",
+    "meta": [
+     "1.3K",
+     "8y ago"
+    ],
+    "dur": "19:25",
+    "views_tab": 1300
+   },
+   {
+    "id": "4LPr8r0ABac",
+    "title": "Energy management information systems",
+    "meta": [
+     "2.2K",
+     "8y ago"
+    ],
+    "dur": "27:35",
+    "views_tab": 2200
+   },
+   {
+    "id": "0UUYaP4omNM",
+    "title": "Electric vehicle event testimonials",
+    "meta": [
+     "102",
+     "8y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 102
+   },
+   {
+    "id": "9GesIqd57YM",
+    "title": "BIT: Building sustainability starts here",
+    "meta": [
+     "663",
+     "8y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 663
+   },
+   {
+    "id": "0eN2zCsk-xU",
+    "title": "Manufactured Homes Energy Efficiency Program",
+    "meta": [
+     "230",
+     "7y ago"
+    ],
+    "dur": "0:56",
+    "views_tab": 230
+   },
+   {
+    "id": "1u2s7WOrdZc",
+    "title": "Farewell to George Edgar",
+    "meta": [
+     "122",
+     "7y ago"
+    ],
+    "dur": "10:35",
+    "views_tab": 122
+   },
+   {
+    "id": "QAhHtwiu2C8",
+    "title": "Energy Finance Solutions: The financial services division of Slipstream",
+    "meta": [
+     "2.9K",
+     "6y ago"
+    ],
+    "dur": "1:16",
+    "views_tab": 2900
+   },
+   {
+    "id": "TJGIBPLjlMs",
+    "title": "Daylighting Fundamentals with Scott Schuetter and Tate Walker",
+    "meta": [
+     "126",
+     "6y ago"
+    ],
+    "dur": "1:19:21",
+    "views_tab": 126
+   },
+   {
+    "id": "8iwwRq0du4A",
+    "title": "ASHRAE Position Document on Airborne Infectious Diseases",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 1500
+   },
+   {
+    "id": "VX4NEfJpYwU",
+    "title": "Real performance in real buildings",
+    "meta": [
+     "146",
+     "6y ago"
+    ],
+    "dur": "1:06:59",
+    "views_tab": 146
+   },
+   {
+    "id": "n-ryCNI71SM",
+    "title": "Careful / covered by Turbulence",
+    "meta": [
+     "527",
+     "6y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 527
+   },
+   {
+    "id": "9361uvr03FQ",
+    "title": "Maximize your building automation system (BAS) | Part 1: Utilize BAS to troubleshoot in real-time",
+    "meta": [
+     "1.7K",
+     "6y ago"
+    ],
+    "dur": "1:09:15",
+    "views_tab": 1700
+   },
+   {
+    "id": "F4nSGC60BvY",
+    "title": "Commercial lighting programs: What does the future hold?",
+    "meta": [
+     "178",
+     "6y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 178
+   },
+   {
+    "id": "0Y_y44T4VfI",
+    "title": "Welcome to Slipstream's Training and Technical Assistance Services",
+    "meta": [
+     "192",
+     "6y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 192
+   },
+   {
+    "id": "mBfuOHfQ5Sw",
+    "title": "Why Slipstream?",
+    "meta": [
+     "4.3K",
+     "6y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 4300
+   },
+   {
+    "id": "FIE0In7hTt4",
+    "title": "Lighting Retrofit Demonstration",
+    "meta": [
+     "310",
+     "6y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 310
+   },
+   {
+    "id": "AO2dGdEU1qo",
+    "title": "Lighting Retrofit Demonstration: Poster Presentation",
+    "meta": [
+     "102",
+     "6y ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 102
+   },
+   {
+    "id": "tFniui_yoao",
+    "title": "Improve your commercial light levels and save on cost",
+    "meta": [
+     "50",
+     "6y ago"
+    ],
+    "dur": "58:20",
+    "views_tab": 50
+   },
+   {
+    "id": "Yut0X9VFIHk",
+    "title": "Capture energy savings in new commercial construction",
+    "meta": [
+     "130",
+     "6y ago"
+    ],
+    "dur": "58:01",
+    "views_tab": 130
+   },
+   {
+    "id": "Yy5Cu0lhtwg",
+    "title": "Energy savings opportunities in new and renovated Minnesota homes",
+    "meta": [
+     "89",
+     "6y ago"
+    ],
+    "dur": "1:05:05",
+    "views_tab": 89
+   },
+   {
+    "id": "oXSJ0HWw4Gw",
+    "title": "Manufactured homes: move the market toward energy efficiency",
+    "meta": [
+     "70",
+     "6y ago"
+    ],
+    "dur": "58:32",
+    "views_tab": 70
+   },
+   {
+    "id": "71gBsqiF9zc",
+    "title": "Building as a System- from the Heart of a Building documentary series",
+    "meta": [
+     "130",
+     "6y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 130
+   },
+   {
+    "id": "HFXR0Y_hPU0",
+    "title": "Airtight envelopes- from the Heart of a Building documentary series",
+    "meta": [
+     "578",
+     "6y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 578
+   },
+   {
+    "id": "CEeMBwr_9r8",
+    "title": "U Values- from the Heart of a Building documentary series",
+    "meta": [
+     "232",
+     "6y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 232
+   },
+   {
+    "id": "G7kuT0R-AFU",
+    "title": "Ground source heat pumps- from the Heart of a Building documentary series",
+    "meta": [
+     "83",
+     "6y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 83
+   },
+   {
+    "id": "RxxhQ7LSrqs",
+    "title": "Smart membranes and vapor transfer- from the Heart of a Building documentary series",
+    "meta": [
+     "77",
+     "6y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 77
+   },
+   {
+    "id": "em3cQUkU5WI",
+    "title": "Load shifting: the market potential for carbon and energy savings",
+    "meta": [
+     "233",
+     "5y ago"
+    ],
+    "dur": "1:00:07",
+    "views_tab": 233
+   },
+   {
+    "id": "3BsgxWlMAvk",
+    "title": "Happy Holidays from Turbulence",
+    "meta": [
+     "190",
+     "5y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 190
+   },
+   {
+    "id": "KfjUDyq5FY4",
+    "title": "Welcome to Slipstream's Learning Portal",
+    "meta": [
+     "181",
+     "5y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 181
+   },
+   {
+    "id": "fQYhxgwu_hY",
+    "title": "Energy Tips for Manufactured or Mobile Homes: Duct Sealing",
+    "meta": [
+     "131K",
+     "5y ago"
+    ],
+    "dur": "8:00",
+    "views_tab": 131000
+   },
+   {
+    "id": "Rwg2sQMEYCQ",
+    "title": "Energy Tips for Manufactured or Mobile Homes: DIY Energy Efficiency Measures",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "11:31",
+    "views_tab": 7900
+   },
+   {
+    "id": "eMNkCq2IEkI",
+    "title": "Energy Tips for Manufactured or Mobile Homes: Direct Install Energy Efficiency Measures",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "10:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "olA3AvA7SaE",
+    "title": "Illinois Energy Efficiency Small Business and Multi-Family Loan Program",
+    "meta": [
+     "330",
+     "5y ago"
+    ],
+    "dur": "6:41",
+    "views_tab": 330
+   },
+   {
+    "id": "naL0XFjddNs",
+    "title": "Electric Avenue",
+    "meta": [
+     "285",
+     "5y ago"
+    ],
+    "dur": "3:29",
+    "views_tab": 285
+   },
+   {
+    "id": "Bt7irM7xwSw",
+    "title": "Pursuit of net zero energy: the Walgreens experience",
+    "meta": [
+     "149",
+     "5y ago"
+    ],
+    "dur": "1:21:11",
+    "views_tab": 149
+   },
+   {
+    "id": "wJD5RR7rZjk",
+    "title": "Solar options for affordable housing developers",
+    "meta": [
+     "43",
+     "5y ago"
+    ],
+    "dur": "1:26:22",
+    "views_tab": 43
+   },
+   {
+    "id": "QmCE5lO0tW4",
+    "title": "Wisconsin Clean Energy Careers Overview: Leading the Way with Policy",
+    "meta": [
+     "928",
+     "5y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 928
+   },
+   {
+    "id": "rwYNXm4GT5A",
+    "title": "Our House",
+    "meta": [
+     "195",
+     "5y ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 195
+   },
+   {
+    "id": "metbD3ap8XU",
+    "title": "Solar Energy Careers",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 2100
+   },
+   {
+    "id": "YR8wwc8Ws7o",
+    "title": "Utility Careers Featuring an Electric Superintendent and a Lineworker",
+    "meta": [
+     "648",
+     "5y ago"
+    ],
+    "dur": "5:25",
+    "views_tab": 648
+   }
+  ]
+ }
+}

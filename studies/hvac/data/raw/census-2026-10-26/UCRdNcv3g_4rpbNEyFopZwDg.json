@@ -1,0 +1,3925 @@
+{
+ "key": "UCRdNcv3g_4rpbNEyFopZwDg",
+ "channel": "HVACTIME",
+ "id": "UCRdNcv3g_4rpbNEyFopZwDg",
+ "subs": "60.7K subscribers",
+ "videos": "892 videos",
+ "pulled": "2026-10-26T06:57:16.592850+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "tAlRtldYCwY",
+    "title": "Screw Compressor Noise: What Most Techs Blame On Bearings",
+    "meta": [
+     "936",
+     "5d ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 936
+   },
+   {
+    "id": "zCMK2i_J4YY",
+    "title": "Chiller Startup: The Pulldown Setting Most Techs Overlook",
+    "meta": [
+     "1.1K",
+     "8d ago"
+    ],
+    "dur": "15:59",
+    "views_tab": 1100
+   },
+   {
+    "id": "56Iu1NUpdJE",
+    "title": "The Centrifugal Rebuild Shop I Flew to Louisiana to Show Techs",
+    "meta": [
+     "1.6K",
+     "10d ago"
+    ],
+    "dur": "25:40",
+    "views_tab": 1600
+   },
+   {
+    "id": "wNQi27xJZfA",
+    "title": "IGBT Module: The Three Separate Circuits Most Techs Overlook",
+    "meta": [
+     "1K",
+     "12d ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "sNoaW1vfFYI",
+    "title": "Chiller Drive Electronics: The VFD Manuals Most Techs Overlook",
+    "meta": [
+     "897",
+     "2w ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 897
+   },
+   {
+    "id": "HZoaVC8hmew",
+    "title": "Turbocor Bearing Faults: Why Good Compressors Get Condemned",
+    "meta": [
+     "870",
+     "2w ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 870
+   },
+   {
+    "id": "iC4URaB4z7A",
+    "title": "Good SCR vs Weak SCR: What the Diode Test Actually Shows",
+    "meta": [
+     "1.2K",
+     "3w ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 1200
+   },
+   {
+    "id": "St4ZL1Cex3c",
+    "title": "SCR Testing: The Floating Nut Mistake Most Techs Make",
+    "meta": [
+     "1.7K",
+     "3w ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 1700
+   },
+   {
+    "id": "42DMUFUf0PM",
+    "title": "How Chiller Drive SCRs Work and What Destroys Them",
+    "meta": [
+     "1.5K",
+     "3w ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 1500
+   },
+   {
+    "id": "lZzTcJSf6IY",
+    "title": "Fluke vs Fieldpiece vs UEI: Ohms Output Voltage Explained",
+    "meta": [
+     "1.2K",
+     "4w ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 1200
+   },
+   {
+    "id": "Nx2OH6-0ud0",
+    "title": "Continuity vs Ohms: What Trade School Got Wrong",
+    "meta": [
+     "1.9K",
+     "1mo ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 1900
+   },
+   {
+    "id": "vxPT-JFmnmw",
+    "title": "How to Test a Bleed Resistor Without a False Reading",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 1200
+   },
+   {
+    "id": "ExDSqkpYbPs",
+    "title": "The Centrifugal Trainer I Had Built for HVAC Techs",
+    "meta": [
+     "3.6K",
+     "1mo ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 3600
+   },
+   {
+    "id": "CZ36tosgPw0",
+    "title": "Low Water Flow on a York YCIV: Why Discharge Superheat Drops",
+    "meta": [
+     "936",
+     "1mo ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 936
+   },
+   {
+    "id": "ZsBfkbrC6n8",
+    "title": "Head Pressure vs Actual Pressure: The Loop Math Chiller Techs Skip",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 1000
+   },
+   {
+    "id": "U6HyL8aZn7M",
+    "title": "Cold Weather Chiller Recovery: The Subcooler Mistake Most Techs Make",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 1000
+   },
+   {
+    "id": "32zSTr6qQJc",
+    "title": "Why You Lose Vacuum Every Time You Move the Valve Stem",
+    "meta": [
+     "853",
+     "1mo ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 853
+   },
+   {
+    "id": "nATq-CAqoUk",
+    "title": "Chiller Oil Pump Won't Shut Off: What Most Techs Blame On Software",
+    "meta": [
+     "870",
+     "1mo ago"
+    ],
+    "dur": "8:52",
+    "views_tab": 870
+   },
+   {
+    "id": "-mNoVg4lgW8",
+    "title": "How Turbocor Magnetic Bearings Work and What Destroys Them",
+    "meta": [
+     "1.6K",
+     "1mo ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 1600
+   },
+   {
+    "id": "7ZsN2Zf3nlk",
+    "title": "The Chiller Oil Check Most Techs Get Wrong",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 1000
+   },
+   {
+    "id": "JgkCy1cKMRg",
+    "title": "Why York Doesn't Push Small Tonnage Chillers",
+    "meta": [
+     "555",
+     "2mo ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 555
+   },
+   {
+    "id": "SFxHg5XvY_g",
+    "title": "Chiller Sequence of Operation: From Start Signal to Full Shutdown",
+    "meta": [
+     "1.7K",
+     "2mo ago"
+    ],
+    "dur": "11:17",
+    "views_tab": 1700
+   },
+   {
+    "id": "GU9GmrHAoEs",
+    "title": "RTHD Phase Loss Alarm: What Most Techs Overlook",
+    "meta": [
+     "585",
+     "2mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 585
+   },
+   {
+    "id": "RuFSb0P5uAc",
+    "title": "York Chiller Subcooler Seal Loss | Why Condenser Level Is the Real Problem",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 1000
+   },
+   {
+    "id": "2w58AZJxvqE",
+    "title": "Chiller Carryover: What Discharge Superheat Is Really Telling You",
+    "meta": [
+     "647",
+     "2mo ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 647
+   },
+   {
+    "id": "aBKlmCFoJVY",
+    "title": "Most Techs Get Cold Traps Wrong. Here's How Chiller Dehydration Actually Works.",
+    "meta": [
+     "512",
+     "2mo ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 512
+   },
+   {
+    "id": "JMtribWR4PA",
+    "title": "Completed My Water Pump Collection E.5 Chiller Academy Vlog ",
+    "meta": [
+     "357",
+     "2mo ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 357
+   },
+   {
+    "id": "IuMV_iCSiM4",
+    "title": "Telling The World! E.4 Chiller Academy Vlog",
+    "meta": [
+     "289",
+     "2mo ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 289
+   },
+   {
+    "id": "mXXTyPT6CGc",
+    "title": "Hands On Chiller Service Training - August 2026",
+    "meta": [
+     "494K",
+     "3mo ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 494000
+   },
+   {
+    "id": "Ajqqm7i4nzY",
+    "title": "Picking Chiller Compressors - E.3 Chiller Training Center",
+    "meta": [
+     "1.6K",
+     "3mo ago"
+    ],
+    "dur": "14:38",
+    "views_tab": 1600
+   }
+  ],
+  "Latest": [
+   {
+    "id": "tAlRtldYCwY",
+    "title": "Screw Compressor Noise: What Most Techs Blame On Bearings",
+    "meta": [
+     "936",
+     "5d ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 936
+   },
+   {
+    "id": "zCMK2i_J4YY",
+    "title": "Chiller Startup: The Pulldown Setting Most Techs Overlook",
+    "meta": [
+     "1.1K",
+     "8d ago"
+    ],
+    "dur": "15:59",
+    "views_tab": 1100
+   },
+   {
+    "id": "56Iu1NUpdJE",
+    "title": "The Centrifugal Rebuild Shop I Flew to Louisiana to Show Techs",
+    "meta": [
+     "1.6K",
+     "10d ago"
+    ],
+    "dur": "25:40",
+    "views_tab": 1600
+   },
+   {
+    "id": "wNQi27xJZfA",
+    "title": "IGBT Module: The Three Separate Circuits Most Techs Overlook",
+    "meta": [
+     "1K",
+     "12d ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 1000
+   },
+   {
+    "id": "sNoaW1vfFYI",
+    "title": "Chiller Drive Electronics: The VFD Manuals Most Techs Overlook",
+    "meta": [
+     "897",
+     "2w ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 897
+   },
+   {
+    "id": "HZoaVC8hmew",
+    "title": "Turbocor Bearing Faults: Why Good Compressors Get Condemned",
+    "meta": [
+     "870",
+     "2w ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 870
+   },
+   {
+    "id": "iC4URaB4z7A",
+    "title": "Good SCR vs Weak SCR: What the Diode Test Actually Shows",
+    "meta": [
+     "1.2K",
+     "3w ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 1200
+   },
+   {
+    "id": "St4ZL1Cex3c",
+    "title": "SCR Testing: The Floating Nut Mistake Most Techs Make",
+    "meta": [
+     "1.7K",
+     "3w ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 1700
+   },
+   {
+    "id": "42DMUFUf0PM",
+    "title": "How Chiller Drive SCRs Work and What Destroys Them",
+    "meta": [
+     "1.5K",
+     "3w ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 1500
+   },
+   {
+    "id": "lZzTcJSf6IY",
+    "title": "Fluke vs Fieldpiece vs UEI: Ohms Output Voltage Explained",
+    "meta": [
+     "1.2K",
+     "4w ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 1200
+   },
+   {
+    "id": "Nx2OH6-0ud0",
+    "title": "Continuity vs Ohms: What Trade School Got Wrong",
+    "meta": [
+     "1.9K",
+     "1mo ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 1900
+   },
+   {
+    "id": "vxPT-JFmnmw",
+    "title": "How to Test a Bleed Resistor Without a False Reading",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 1200
+   },
+   {
+    "id": "ExDSqkpYbPs",
+    "title": "The Centrifugal Trainer I Had Built for HVAC Techs",
+    "meta": [
+     "3.6K",
+     "1mo ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 3600
+   },
+   {
+    "id": "CZ36tosgPw0",
+    "title": "Low Water Flow on a York YCIV: Why Discharge Superheat Drops",
+    "meta": [
+     "936",
+     "1mo ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 936
+   },
+   {
+    "id": "ZsBfkbrC6n8",
+    "title": "Head Pressure vs Actual Pressure: The Loop Math Chiller Techs Skip",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 1000
+   },
+   {
+    "id": "U6HyL8aZn7M",
+    "title": "Cold Weather Chiller Recovery: The Subcooler Mistake Most Techs Make",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 1000
+   },
+   {
+    "id": "32zSTr6qQJc",
+    "title": "Why You Lose Vacuum Every Time You Move the Valve Stem",
+    "meta": [
+     "853",
+     "1mo ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 853
+   },
+   {
+    "id": "nATq-CAqoUk",
+    "title": "Chiller Oil Pump Won't Shut Off: What Most Techs Blame On Software",
+    "meta": [
+     "870",
+     "1mo ago"
+    ],
+    "dur": "8:52",
+    "views_tab": 870
+   },
+   {
+    "id": "-mNoVg4lgW8",
+    "title": "How Turbocor Magnetic Bearings Work and What Destroys Them",
+    "meta": [
+     "1.6K",
+     "1mo ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 1600
+   },
+   {
+    "id": "7ZsN2Zf3nlk",
+    "title": "The Chiller Oil Check Most Techs Get Wrong",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 1000
+   },
+   {
+    "id": "JgkCy1cKMRg",
+    "title": "Why York Doesn't Push Small Tonnage Chillers",
+    "meta": [
+     "555",
+     "2mo ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 555
+   },
+   {
+    "id": "SFxHg5XvY_g",
+    "title": "Chiller Sequence of Operation: From Start Signal to Full Shutdown",
+    "meta": [
+     "1.7K",
+     "2mo ago"
+    ],
+    "dur": "11:17",
+    "views_tab": 1700
+   },
+   {
+    "id": "GU9GmrHAoEs",
+    "title": "RTHD Phase Loss Alarm: What Most Techs Overlook",
+    "meta": [
+     "585",
+     "2mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 585
+   },
+   {
+    "id": "RuFSb0P5uAc",
+    "title": "York Chiller Subcooler Seal Loss | Why Condenser Level Is the Real Problem",
+    "meta": [
+     "1K",
+     "2mo ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 1000
+   },
+   {
+    "id": "2w58AZJxvqE",
+    "title": "Chiller Carryover: What Discharge Superheat Is Really Telling You",
+    "meta": [
+     "647",
+     "2mo ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 647
+   },
+   {
+    "id": "aBKlmCFoJVY",
+    "title": "Most Techs Get Cold Traps Wrong. Here's How Chiller Dehydration Actually Works.",
+    "meta": [
+     "512",
+     "2mo ago"
+    ],
+    "dur": "7:29",
+    "views_tab": 512
+   },
+   {
+    "id": "JMtribWR4PA",
+    "title": "Completed My Water Pump Collection E.5 Chiller Academy Vlog ",
+    "meta": [
+     "357",
+     "2mo ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 357
+   },
+   {
+    "id": "IuMV_iCSiM4",
+    "title": "Telling The World! E.4 Chiller Academy Vlog",
+    "meta": [
+     "289",
+     "2mo ago"
+    ],
+    "dur": "3:09",
+    "views_tab": 289
+   },
+   {
+    "id": "mXXTyPT6CGc",
+    "title": "Hands On Chiller Service Training - August 2026",
+    "meta": [
+     "494K",
+     "3mo ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 494000
+   },
+   {
+    "id": "Ajqqm7i4nzY",
+    "title": "Picking Chiller Compressors - E.3 Chiller Training Center",
+    "meta": [
+     "1.6K",
+     "3mo ago"
+    ],
+    "dur": "14:38",
+    "views_tab": 1600
+   },
+   {
+    "id": "9yS0GcS6H54",
+    "title": "Chiller Training Center Buildout E.2",
+    "meta": [
+     "484",
+     "3mo ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 484
+   },
+   {
+    "id": "ZnVS0UXRIHk",
+    "title": "Chiller Training Center Build Out E.1",
+    "meta": [
+     "718",
+     "4mo ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 718
+   },
+   {
+    "id": "o9Fhx_RR504",
+    "title": "Hands On Chiller Training Houston BTS",
+    "meta": [
+     "1.1K",
+     "5mo ago"
+    ],
+    "dur": "16:12",
+    "views_tab": 1100
+   },
+   {
+    "id": "F-R6xg5LJ-A",
+    "title": "York Shorted SCR Setting Explained",
+    "meta": [
+     "922",
+     "5mo ago"
+    ],
+    "dur": "7:23",
+    "views_tab": 922
+   },
+   {
+    "id": "6y5kYV97J1A",
+    "title": "Fieldpiece LT17A vs Fluke: The Honest Truth After 10 Years",
+    "meta": [
+     "1.5K",
+     "6mo ago"
+    ],
+    "dur": "13:35",
+    "views_tab": 1500
+   },
+   {
+    "id": "CUMeSolhUuE",
+    "title": "Things Are HAPPENING ",
+    "meta": [
+     "682",
+     "6mo ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 682
+   },
+   {
+    "id": "zIbMQ26UXLg",
+    "title": "Getting Chiller Trailer Loaded @NAVAC",
+    "meta": [
+     "388",
+     "7mo ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 388
+   },
+   {
+    "id": "LtEBUuYarnA",
+    "title": "High Cond Approach w/ Clean Tubes & Good GPM on YK",
+    "meta": [
+     "1.5K",
+     "11mo ago"
+    ],
+    "dur": "7:44",
+    "views_tab": 1500
+   },
+   {
+    "id": "Ztth43TIE1w",
+    "title": "How long a YK Shaft Seal takes Explained",
+    "meta": [
+     "889",
+     "11mo ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 889
+   },
+   {
+    "id": "LeQl4lEQcr4",
+    "title": "How to find Chiller Accounts Near You, Explained",
+    "meta": [
+     "1.2K",
+     "11mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 1200
+   },
+   {
+    "id": "WaqtYUsptcQ",
+    "title": "Trane CV Chiller Economizer Explained",
+    "meta": [
+     "5.5K",
+     "1y ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 5500
+   },
+   {
+    "id": "0bUvhF_7I-c",
+    "title": "Chiller Purge Modes: Adaptive vs Auto vs On",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 1000
+   },
+   {
+    "id": "5Jd3Mrozgro",
+    "title": "Screw Compressor Loading, Unloading, & Bypassing Explained",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 11000
+   },
+   {
+    "id": "aR3KrJrRXSk",
+    "title": "How Chillers are Affected by Plant Optimization",
+    "meta": [
+     "548",
+     "1y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 548
+   },
+   {
+    "id": "mpslkxCSKno",
+    "title": "YK PRV 100% Full Open Explained",
+    "meta": [
+     "974",
+     "1y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 974
+   },
+   {
+    "id": "WtMrMkx9cv0",
+    "title": "Chiller Low Evaporator Flow Explained",
+    "meta": [
+     "2.9K",
+     "1y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 2900
+   },
+   {
+    "id": "6pB_idXYPAc",
+    "title": "Foaming sightglass on reciprocating compressor Explained",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 2600
+   },
+   {
+    "id": "V-huRDrsDyc",
+    "title": "Trane Low Pressure Chiller Oil Change Explained",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 2200
+   },
+   {
+    "id": "uFicuJ0LatU",
+    "title": "How Dew Point affects Cooling Towers Explained",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 1300
+   },
+   {
+    "id": "Fz7X0CP_Bqo",
+    "title": "Chillers with Falling Film Evaporators Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "12:54",
+    "views_tab": 1400
+   },
+   {
+    "id": "iO_1W6PmNKY",
+    "title": "Explained how 800lb at 50psi WON'T Freeze Evaporator while Charging?",
+    "meta": [
+     "728",
+     "1y ago"
+    ],
+    "dur": "3:03",
+    "views_tab": 728
+   },
+   {
+    "id": "YCZ2iuUkxps",
+    "title": "VGD & VSD in Part Loads Explained",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 1300
+   },
+   {
+    "id": "2d4RyYKk3_g",
+    "title": "Chilled Water Expansion Tanks Explained",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 8600
+   },
+   {
+    "id": "f2DyshAmwiA",
+    "title": "YVAA Suction Limiting but Valve only 38% on Chiller",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 1300
+   },
+   {
+    "id": "pwbQDyYuog0",
+    "title": "IGBT & Inverters Failures Explained",
+    "meta": [
+     "4.1K",
+     "1y ago"
+    ],
+    "dur": "11:51",
+    "views_tab": 4100
+   },
+   {
+    "id": "1eAxz69OhEM",
+    "title": "RTAA Chiller Female & Male Unloaders Explained",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 1600
+   },
+   {
+    "id": "wB991LIMgng",
+    "title": "Thermal Imagers for HVAC tech Explained",
+    "meta": [
+     "750",
+     "1y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 750
+   },
+   {
+    "id": "FO5C5YspOXs",
+    "title": "Correct Chiller Evaporator Pressure Explained",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "4:53",
+    "views_tab": 2500
+   },
+   {
+    "id": "Zx6Nq0Y8AIM",
+    "title": "Why it is called Approach with Chillers Explained",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "epLxlPBglks",
+    "title": "Chiller Plant Economizers Explained",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 1800
+   },
+   {
+    "id": "bekuILyirnI",
+    "title": "Trane CVH Chiller has High Head & Surging Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 1100
+   },
+   {
+    "id": "FIDJ8XR3kXU",
+    "title": "Confirm if YK Chiller is Overcharged Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 1100
+   },
+   {
+    "id": "WxXUSnVmm1s",
+    "title": "Charging Chiller Vapor FIRST Then LIQUID Explained",
+    "meta": [
+     "3.4K",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 3400
+   },
+   {
+    "id": "RNbrUfBm2IA",
+    "title": "How Small HVAC Business can Start in Chillers Explained",
+    "meta": [
+     "969",
+     "1y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 969
+   },
+   {
+    "id": "I3kJTWooSxI",
+    "title": "How Residential HVAC Tech can Learn Chillers",
+    "meta": [
+     "2.7K",
+     "1y ago"
+    ],
+    "dur": "13:55",
+    "views_tab": 2700
+   },
+   {
+    "id": "xWXrByOnMyE",
+    "title": "Putting Ice in Cooling Tower Explained",
+    "meta": [
+     "841",
+     "1y ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 841
+   },
+   {
+    "id": "ECLRVZ6viW0",
+    "title": "Using High Condenser Water Setpoints Explained",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "13:12",
+    "views_tab": 2200
+   },
+   {
+    "id": "mrpvqhCnZlI",
+    "title": "Centrifugal Recovery Process Explained",
+    "meta": [
+     "771",
+     "1y ago"
+    ],
+    "dur": "8:37",
+    "views_tab": 771
+   },
+   {
+    "id": "95NHPkz8ET8",
+    "title": "P/P on YK Chillers Explained",
+    "meta": [
+     "727",
+     "1y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 727
+   },
+   {
+    "id": "XqSJFp6_Fik",
+    "title": "Manage Humidity Issues with Chillers Explained",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 1700
+   },
+   {
+    "id": "Z4gREi-cqAk",
+    "title": "More DP mean More GPM on Chillers Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 1400
+   },
+   {
+    "id": "n5Gz7iRvOdU",
+    "title": "YK Oil Return Solenoid Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 1100
+   },
+   {
+    "id": "Dy1GHgY8hEo",
+    "title": "How to Tell if Condenser is Oil Logged Explained",
+    "meta": [
+     "3K",
+     "1y ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 3000
+   },
+   {
+    "id": "jPiImV9PL-U",
+    "title": "Get Turbocor SMT & No Power Explained",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 1000
+   },
+   {
+    "id": "etolnMnbK5I",
+    "title": "Advancing from Screws to Centrifugal Explained",
+    "meta": [
+     "703",
+     "1y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 703
+   },
+   {
+    "id": "WP20r0DkGmk",
+    "title": "Service Trane Chillers WITHOUT TU Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 1100
+   },
+   {
+    "id": "Ixo-q9xSt_M",
+    "title": "YK Chillers Surge Regularly Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 1400
+   },
+   {
+    "id": "ElAA02QLWqk",
+    "title": "Trane TU for Chiller Techs Explained",
+    "meta": [
+     "566",
+     "1y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 566
+   },
+   {
+    "id": "maOHzLTjXu0",
+    "title": "How Cooling Towers & Chillers Differ Explained",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 2600
+   },
+   {
+    "id": "KQQQn7xnNUk",
+    "title": "Solid State Starters Explained",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 1500
+   },
+   {
+    "id": "5tekSaSolzo",
+    "title": "Using Saturation Temps in Chillers Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 1100
+   },
+   {
+    "id": "dl1cP54e7N8",
+    "title": "Get Compressor Oil Out of Clothes Explained",
+    "meta": [
+     "456",
+     "1y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 456
+   },
+   {
+    "id": "TeQZnuFYveU",
+    "title": "Why No Field Video's as a Chiller Tech?",
+    "meta": [
+     "546",
+     "1y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 546
+   },
+   {
+    "id": "v2eCw2sOX0s",
+    "title": "Cooling Towers Legionaries",
+    "meta": [
+     "809",
+     "1y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 809
+   },
+   {
+    "id": "syQZmX59ocw",
+    "title": "How Much Glycol % Change Approach Explained",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 1200
+   },
+   {
+    "id": "7f0XP0voyCA",
+    "title": "Chiller VFD/VSD Issues Explained",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 1400
+   },
+   {
+    "id": "zOJoIEHaJ-c",
+    "title": "Compression Ratio = Surge in Centrifugal Chillers",
+    "meta": [
+     "585",
+     "1y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 585
+   },
+   {
+    "id": "tSoS4bJIhm0",
+    "title": "How to Startup a Chiller Explained",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 2200
+   },
+   {
+    "id": "AOw0H7JRaqs",
+    "title": "Flushing Chiller Closed Loop Best Practices Explained",
+    "meta": [
+     "3K",
+     "1y ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 3000
+   },
+   {
+    "id": "Jo0SGyRBgvY",
+    "title": "GPM is Lost When DP is lowered Explained",
+    "meta": [
+     "979",
+     "1y ago"
+    ],
+    "dur": "7:44",
+    "views_tab": 979
+   },
+   {
+    "id": "a7MGe8WRo7E",
+    "title": "Plugged Chiller Tubes is Too Many Explained",
+    "meta": [
+     "974",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 974
+   },
+   {
+    "id": "Rn8fZN834z0",
+    "title": "10F Evap TD & 45% RLA in Chiller Explained",
+    "meta": [
+     "935",
+     "1y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 935
+   },
+   {
+    "id": "oVXS2LuoHyU",
+    "title": "Water Pressure in Chillers Explained",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "18:00",
+    "views_tab": 7400
+   },
+   {
+    "id": "wPum7hpMgNI",
+    "title": "Remove Bearing Shield for Motor Explained",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "8:38",
+    "views_tab": 1300
+   },
+   {
+    "id": "BgSoS8oX7dc",
+    "title": "Turbocor Surge Explained",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "8:20",
+    "views_tab": 1800
+   },
+   {
+    "id": "IfV6-ijY1kI",
+    "title": "Trane Chiller Gas Pump Explained",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "12:50",
+    "views_tab": 2800
+   },
+   {
+    "id": "2E1sp3Xq4_8",
+    "title": "Screw Chiller Migrating Oil Explained",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "10:27",
+    "views_tab": 1700
+   },
+   {
+    "id": "pB2ycns6Yws",
+    "title": "Oil Float on Refrigerant Explained",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 1000
+   },
+   {
+    "id": "8RiLExVQybc",
+    "title": "Change Compressor Oil in Low Ambient Explained",
+    "meta": [
+     "975",
+     "1y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 975
+   },
+   {
+    "id": "tKHCzdwHLIM",
+    "title": "Separate Water in Chiller Refrigerant Explained",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "13:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "b3GaOiL-FEA",
+    "title": "How to Test Chiller Sensors with Meter Explained",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 3600
+   },
+   {
+    "id": "q6Xm_Tt1Y4k",
+    "title": "Check Screw capacity control Explained",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "13:18",
+    "views_tab": 1300
+   },
+   {
+    "id": "gYPHmnfQChQ",
+    "title": "Troubleshoot YVAA Low Pressure Limit",
+    "meta": [
+     "3.3K",
+     "1y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 3300
+   },
+   {
+    "id": "nzsqHOH8WUM",
+    "title": "What Causes Chiller Tube Failure?",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 1200
+   },
+   {
+    "id": "geV3ASjfiLs",
+    "title": "The Chiller Service Training Program",
+    "meta": [
+     "497",
+     "1y ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 497
+   },
+   {
+    "id": "VxxjkuVep9A",
+    "title": "What Factors Trigger a Chiller Overhaul?",
+    "meta": [
+     "790",
+     "1y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 790
+   },
+   {
+    "id": "B1TevhpM1-A",
+    "title": "Whats Cost For Overhaul vs New Chiller?",
+    "meta": [
+     "928",
+     "1y ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 928
+   },
+   {
+    "id": "Pf6Y4r4s_so",
+    "title": "Eliminate Chiller Service Mistakes",
+    "meta": [
+     "363",
+     "1y ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 363
+   },
+   {
+    "id": "Mm98u-gpQ8Q",
+    "title": "Explain How Thrust Bearing Proximity Probe Works",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 2200
+   },
+   {
+    "id": "ux8DLx6xHvI",
+    "title": "Explain Trane TU in Simple Words",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "7:33",
+    "views_tab": 1900
+   },
+   {
+    "id": "qiNytVogkQo",
+    "title": "What's Procedure Replacing PRV VGD Actuators?",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 1700
+   },
+   {
+    "id": "hLsRn7L6tBA",
+    "title": "What is Function of Micro & I/O Boards?",
+    "meta": [
+     "805",
+     "1y ago"
+    ],
+    "dur": "4:43",
+    "views_tab": 805
+   },
+   {
+    "id": "mjkgq-Soe30",
+    "title": "The Unspoken Senior Chiller Tech Practices",
+    "meta": [
+     "711",
+     "1y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 711
+   },
+   {
+    "id": "CrtNB41naC0",
+    "title": "Do I use the CPS Subcooler for Chiller Recovery?",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 2800
+   },
+   {
+    "id": "neibVaxPfIQ",
+    "title": "Will Braze Plate Recovery Subcoolers Calcify?",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 1000
+   },
+   {
+    "id": "UnLjr91jhtg",
+    "title": "The Chiller Service Standard Development",
+    "meta": [
+     "412",
+     "1y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 412
+   },
+   {
+    "id": "34csrGODojM",
+    "title": "Separate Oil from Ref in Chiller Recovery?",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 2000
+   },
+   {
+    "id": "o9O0NaX07NQ",
+    "title": "Save Refrigerant From Acidic Burnout Oil?",
+    "meta": [
+     "949",
+     "1y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 949
+   },
+   {
+    "id": "kxU1UBpyRXI",
+    "title": "Replace or Reuse Recovered Compressor Oil?",
+    "meta": [
+     "629",
+     "1y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 629
+   },
+   {
+    "id": "fu74cSCUBq4",
+    "title": "Can I Resolder Fusible Plugs in Chillers?",
+    "meta": [
+     "527",
+     "1y ago"
+    ],
+    "dur": "2:05",
+    "views_tab": 527
+   }
+  ],
+  "Popular": [
+   {
+    "id": "-nTBvOF9UHc",
+    "title": "HVAC Service Tech Chiller Training",
+    "meta": [
+     "2.4M",
+     "2y ago"
+    ],
+    "dur": "1:12",
+    "views_tab": 2400000
+   },
+   {
+    "id": "mXXTyPT6CGc",
+    "title": "Hands On Chiller Service Training - August 2026",
+    "meta": [
+     "494K",
+     "3mo ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 494000
+   },
+   {
+    "id": "flAMZUK3f18",
+    "title": "YK Overview Centrifugal Chiller York HVAC Training",
+    "meta": [
+     "259K",
+     "4y ago"
+    ],
+    "dur": "27:47",
+    "views_tab": 259000
+   },
+   {
+    "id": "f0tKsDjWgT8",
+    "title": "Cooling Tower PM Basic's HVAC Training for HVAC Technician",
+    "meta": [
+     "205K",
+     "5y ago"
+    ],
+    "dur": "34:57",
+    "views_tab": 205000
+   },
+   {
+    "id": "TJEzF0K2y2U",
+    "title": "Tripping Low Pressure York Air Cooled Chiller Down",
+    "meta": [
+     "115K",
+     "5y ago"
+    ],
+    "dur": "26:01",
+    "views_tab": 115000
+   },
+   {
+    "id": "CxO_yLgoHCI",
+    "title": "Advanced Modern Electrical Troubleshooting for HVAC Technician",
+    "meta": [
+     "109K",
+     "4y ago"
+    ],
+    "dur": "1:38:52",
+    "views_tab": 109000
+   },
+   {
+    "id": "qp3lFqpGO_g",
+    "title": "Brazing Training for HVAC Technician",
+    "meta": [
+     "109K",
+     "4y ago"
+    ],
+    "dur": "35:45",
+    "views_tab": 109000
+   },
+   {
+    "id": "t4ZONIAzZck",
+    "title": "Is HVAC HARD - HVAC Technician",
+    "meta": [
+     "109K",
+     "6y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 109000
+   },
+   {
+    "id": "9OIMqqSC9i8",
+    "title": "HVAC Chiller Approach Explained",
+    "meta": [
+     "73K",
+     "5y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 73000
+   },
+   {
+    "id": "lt8EJocCTCo",
+    "title": "Trane Chiller Centrifugal Refrigeration Cycle",
+    "meta": [
+     "72K",
+     "5y ago"
+    ],
+    "dur": "43:22",
+    "views_tab": 72000
+   },
+   {
+    "id": "j8i9nJppe8c",
+    "title": "Trane Chiller Surging THEN ELECTRICAL Main TRIPS",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "19:02",
+    "views_tab": 66000
+   },
+   {
+    "id": "UmNVXCZeOwo",
+    "title": "Trane Chiller HVAC Centrifugal Overview - HVAC Training Videos",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "27:49",
+    "views_tab": 66000
+   },
+   {
+    "id": "g4asy8yaTBw",
+    "title": "Stop Struggling & Master Chillers",
+    "meta": [
+     "65K",
+     "2y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 65000
+   },
+   {
+    "id": "ZqhDQPnZ5jk",
+    "title": "Cooling Tower Setpoint For Chiller",
+    "meta": [
+     "52K",
+     "5y ago"
+    ],
+    "dur": "19:24",
+    "views_tab": 52000
+   },
+   {
+    "id": "uBag1ftMb3U",
+    "title": "BMS I/O Input & Output Training for HVAC Technician",
+    "meta": [
+     "51K",
+     "4y ago"
+    ],
+    "dur": "1:17:33",
+    "views_tab": 51000
+   },
+   {
+    "id": "zjEzAGC0PJY",
+    "title": "Prepared for Interview Questions for Tech 1 & Apprentices as HVAC Technician",
+    "meta": [
+     "48K",
+     "4y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 48000
+   },
+   {
+    "id": "oNSTeLXRKHo",
+    "title": "Chiller Shaft Seal Repair on York YK Centrifugal",
+    "meta": [
+     "47K",
+     "4y ago"
+    ],
+    "dur": "15:50",
+    "views_tab": 47000
+   },
+   {
+    "id": "l0DT7FmGVPk",
+    "title": "Major Chiller Leak Repairs On Screw Compressor Trane Air Cooled Chiller",
+    "meta": [
+     "46K",
+     "5y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 46000
+   },
+   {
+    "id": "1umyaCMwLkQ",
+    "title": "How To Use Megger & Meg Motors",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 45000
+   },
+   {
+    "id": "UM3crqBna9U",
+    "title": "York Chiller Refrigeration Cycle - YCIV & YVAA AC",
+    "meta": [
+     "43K",
+     "5y ago"
+    ],
+    "dur": "30:38",
+    "views_tab": 43000
+   },
+   {
+    "id": "oRGx5NGHCSE",
+    "title": "HVAC Leak Detectors",
+    "meta": [
+     "41K",
+     "4y ago"
+    ],
+    "dur": "10:39",
+    "views_tab": 41000
+   },
+   {
+    "id": "x_Tw2Pf4htA",
+    "title": "Chiller Don't Have To Be Hard",
+    "meta": [
+     "41K",
+     "2y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 41000
+   },
+   {
+    "id": "l6SjrRM71Oo",
+    "title": "This is a BAD day as a Chiller tech...",
+    "meta": [
+     "39K",
+     "3y ago"
+    ],
+    "dur": "21:27",
+    "views_tab": 39000
+   },
+   {
+    "id": "wkInX5jQgOs",
+    "title": "Binding Sensors Trane Chiller HVAC Training for HVAC Technician",
+    "meta": [
+     "39K",
+     "6y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 39000
+   },
+   {
+    "id": "7AnVrdmRQJs",
+    "title": "Trane Chiller Compressor Unloader Stuck - HVAC Technician",
+    "meta": [
+     "34K",
+     "6y ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 34000
+   },
+   {
+    "id": "B_j3yp3QHZw",
+    "title": "This is THE COMPRESSOR emergency.........",
+    "meta": [
+     "33K",
+     "4y ago"
+    ],
+    "dur": "21:31",
+    "views_tab": 33000
+   },
+   {
+    "id": "_vxjs0L0TBg",
+    "title": "How Trane Screw Chillers Loaders Work Chiller Training",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 33000
+   },
+   {
+    "id": "_EGZFkkJ7Sc",
+    "title": "Chiller VSD Replacement York YCIV Air Cooled Chiller",
+    "meta": [
+     "32K",
+     "6y ago"
+    ],
+    "dur": "42:38",
+    "views_tab": 32000
+   },
+   {
+    "id": "D8togHhttbM",
+    "title": "Studying As HVAC Technician - HVAC Training Videos",
+    "meta": [
+     "32K",
+     "5y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 32000
+   },
+   {
+    "id": "SbUYEIiABX4",
+    "title": "Oil System YK York Chiller",
+    "meta": [
+     "32K",
+     "3y ago"
+    ],
+    "dur": "16:54",
+    "views_tab": 32000
+   },
+   {
+    "id": "ZY3rqGNfehg",
+    "title": "Trane Chiller Controller Bad Then Chilled Water Pumps",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "38:54",
+    "views_tab": 31000
+   },
+   {
+    "id": "kqdIAc27zZI",
+    "title": "VSD IGBT Change York Air Cooled Chiller HVAC Training for HVAC Technician",
+    "meta": [
+     "29K",
+     "4y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 29000
+   },
+   {
+    "id": "tQlHIcqa_cg",
+    "title": "EXV Takes Out Chiller on Trane Air Cooled Chiller",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 29000
+   },
+   {
+    "id": "9FGDdtLGCHY",
+    "title": "Low Oil Troubleshoot RTAA Chiller",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 29000
+   },
+   {
+    "id": "e_qtiXRFYBE",
+    "title": "HVAC Chiller Refrigerant Recovery Procedure",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 29000
+   },
+   {
+    "id": "MyieTpzr0M0",
+    "title": "How to Change Motor Bearings for Electric Motor",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 28000
+   },
+   {
+    "id": "DQrtax63_gI",
+    "title": "First 5 Steps to Troubleshoot Chillers",
+    "meta": [
+     "28K",
+     "2y ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 28000
+   },
+   {
+    "id": "ELLVSQ3GowE",
+    "title": "Chiller Surging During Centrifugal Chiller PM",
+    "meta": [
+     "27K",
+     "4y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 27000
+   },
+   {
+    "id": "wxc1gUA9KXs",
+    "title": "How Screw Chillers control Load",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 27000
+   },
+   {
+    "id": "RZV06qx4FyU",
+    "title": "Carrier Chiller 30GX - HVAC Training",
+    "meta": [
+     "26K",
+     "7y ago"
+    ],
+    "dur": "41:17",
+    "views_tab": 26000
+   },
+   {
+    "id": "2C0371PUZBM",
+    "title": "This LOST 1300lb of refrigerant in Chiller",
+    "meta": [
+     "24K",
+     "3y ago"
+    ],
+    "dur": "21:13",
+    "views_tab": 24000
+   },
+   {
+    "id": "Kq_wIkLbIEc",
+    "title": "System Crash takes out Chiller",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "20:25",
+    "views_tab": 23000
+   },
+   {
+    "id": "OFFsChXdfKk",
+    "title": "Prepping Chiller for Startup",
+    "meta": [
+     "23K",
+     "3y ago"
+    ],
+    "dur": "19:01",
+    "views_tab": 23000
+   },
+   {
+    "id": "JrSALtR4Gw0",
+    "title": "Bad Oil Sensor Tripping York Air Cooled Chiller HVAC",
+    "meta": [
+     "22K",
+     "4y ago"
+    ],
+    "dur": "18:52",
+    "views_tab": 22000
+   },
+   {
+    "id": "occ1OuKLk8Y",
+    "title": "Trane Chiller Unloader Rebuild - HVAC School",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 21000
+   },
+   {
+    "id": "gQ4EvTnEHEE",
+    "title": "Will NAVAC Pumps compete in Commercial HVAC?",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "30:00",
+    "views_tab": 21000
+   },
+   {
+    "id": "IRiZdJqnxjw",
+    "title": "This is not good for the Compressor!",
+    "meta": [
+     "20K",
+     "4y ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 20000
+   },
+   {
+    "id": "76HG4ooMvUE",
+    "title": "Push-Pull Chiller Recovery & Charging Chiller Training",
+    "meta": [
+     "20K",
+     "3y ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 20000
+   },
+   {
+    "id": "Dwae3qvowfo",
+    "title": "Startup On Centrifugal Chiller After Overhaul by HVAC Technician",
+    "meta": [
+     "20K",
+     "5y ago"
+    ],
+    "dur": "19:40",
+    "views_tab": 20000
+   },
+   {
+    "id": "yqXdsmBGeag",
+    "title": "Know Hot Gas Bypass? Advanced Refrigeration 2022 Part 1",
+    "meta": [
+     "20K",
+     "4y ago"
+    ],
+    "dur": "39:45",
+    "views_tab": 20000
+   },
+   {
+    "id": "tnwPFPuLUcQ",
+    "title": "YK Chiller Operations Course: Chiller Academy",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "0:55",
+    "views_tab": 19000
+   },
+   {
+    "id": "yLmVSn2y2Ec",
+    "title": "Chiller had high SUPERHEAT cause of this",
+    "meta": [
+     "18K",
+     "3y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 18000
+   },
+   {
+    "id": "Z0-ny_eJ_Ys",
+    "title": "Tiny Part caused BIG chiller problem",
+    "meta": [
+     "18K",
+     "4y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 18000
+   },
+   {
+    "id": "Cerqdx2tRtI",
+    "title": "Chiller tripping LOW SUCTION Trane RTAA",
+    "meta": [
+     "18K",
+     "3y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 18000
+   },
+   {
+    "id": "UJfsOnTA484",
+    "title": "Trane Chiller Compressor Teardown Part 1",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 18000
+   },
+   {
+    "id": "MczJJhhM9jc",
+    "title": "CVH Purge Unit Troubleshoot for Trane Chiller",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 17000
+   },
+   {
+    "id": "MZTTul4Htyo",
+    "title": "Dirty to \"CLEAN\" Cooling Tower",
+    "meta": [
+     "16K",
+     "5y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 16000
+   },
+   {
+    "id": "BzQ954Rv-xY",
+    "title": "ABB VFD Wiring Fixed",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 15000
+   },
+   {
+    "id": "lFdi0CSlPZA",
+    "title": "Chiller Down Tripping Low Pressure York Air Cooled Chiller",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "22:19",
+    "views_tab": 15000
+   },
+   {
+    "id": "rspIgBGFpt4",
+    "title": "Refrigeration Cycle Part 1 - HVAC Training",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "33:03",
+    "views_tab": 15000
+   },
+   {
+    "id": "GHqJ81o6pK4",
+    "title": "Chiller Down On Flow Alarm Carrier A200",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 15000
+   },
+   {
+    "id": "9ZgDWhUncd0",
+    "title": "Air Cooled Chiller Changeout Carrier XV Screw",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "11:21",
+    "views_tab": 15000
+   },
+   {
+    "id": "P1rWl_-QfXs",
+    "title": "Chiller LON Board Install on New Trane Air Cooled Chiller CGAM",
+    "meta": [
+     "14K",
+     "4y ago"
+    ],
+    "dur": "14:08",
+    "views_tab": 14000
+   },
+   {
+    "id": "UJHazXvRlAY",
+    "title": "York Chiller AC Leak Repairs Sight Glasses",
+    "meta": [
+     "14K",
+     "5y ago"
+    ],
+    "dur": "29:10",
+    "views_tab": 14000
+   },
+   {
+    "id": "5RAr9aw_c4w",
+    "title": "What is a Chiller Economizer",
+    "meta": [
+     "14K",
+     "2y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 14000
+   },
+   {
+    "id": "Gkyt7Km0HnY",
+    "title": "Problems kept coming with chiller",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 13000
+   },
+   {
+    "id": "Vgxm4KYaWy0",
+    "title": "Magnetic Bearing Chiller Down",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "7:44",
+    "views_tab": 13000
+   },
+   {
+    "id": "HtgvM2ghBy0",
+    "title": "Trane Chiller Circuit Lockout - HVAC Training Videos",
+    "meta": [
+     "13K",
+     "5y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 13000
+   },
+   {
+    "id": "sdb9J8j7_eQ",
+    "title": "Compressor VFD repair on chiller",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 13000
+   },
+   {
+    "id": "9BnjTFD2ca8",
+    "title": "PRV Sensor Fix for York YK Chiller",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 12000
+   },
+   {
+    "id": "1ede40NmW_4",
+    "title": "Why does Discharge Superheat Matter?",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "12:27",
+    "views_tab": 12000
+   },
+   {
+    "id": "yJNfVJkH_Lc",
+    "title": "HVAC Training: What is DDC",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "18:54",
+    "views_tab": 12000
+   },
+   {
+    "id": "vFsCT3QoWkE",
+    "title": "This charging method worked on Chiller",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "38:33",
+    "views_tab": 12000
+   },
+   {
+    "id": "eNxrk-LBtoU",
+    "title": "Old McQuay Chiller Starter Issues...",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "12:31",
+    "views_tab": 12000
+   },
+   {
+    "id": "H3NIN4SzgC8",
+    "title": "HVAC EDC plus New VETO Tool Bag",
+    "meta": [
+     "12K",
+     "4y ago"
+    ],
+    "dur": "34:08",
+    "views_tab": 12000
+   },
+   {
+    "id": "lTIYo26VFKA",
+    "title": "Know how Makeup water Works?",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 11000
+   },
+   {
+    "id": "sC32k-oK510",
+    "title": "Setting YK Level Sensor York Chiller",
+    "meta": [
+     "11K",
+     "3y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 11000
+   },
+   {
+    "id": "Kwdjk0S49x4",
+    "title": "TXV Troubleshooting & Repair",
+    "meta": [
+     "11K",
+     "6y ago"
+    ],
+    "dur": "28:48",
+    "views_tab": 11000
+   },
+   {
+    "id": "lAVUEC8Ts3U",
+    "title": "Trane Chiller Down for Controls Short",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 11000
+   },
+   {
+    "id": "rTSdXDGT_CU",
+    "title": "Trane CVHF Chiller Excessive Pumpout",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 11000
+   },
+   {
+    "id": "HlAfSsx4Mp4",
+    "title": "I Messed up chiller board",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 11000
+   },
+   {
+    "id": "5Jd3Mrozgro",
+    "title": "Screw Compressor Loading, Unloading, & Bypassing Explained",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 11000
+   },
+   {
+    "id": "NPtIICHfe4Y",
+    "title": "Can I STILL do this? Tech Burnout...",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "7:30",
+    "views_tab": 10000
+   },
+   {
+    "id": "Bqw9BwbT8x4",
+    "title": "Building Management System Networking BMS HVAC Training For HVAC Technician",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "1:13:13",
+    "views_tab": 10000
+   },
+   {
+    "id": "WFuZC_dHeGs",
+    "title": "Carrier Chiller Down Tripping Breaker",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 10000
+   },
+   {
+    "id": "4e9HAbvnhI8",
+    "title": "This chiller needed some adjustments...",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "10:10",
+    "views_tab": 10000
+   },
+   {
+    "id": "aePJZ9OeAzY",
+    "title": "HVAC Training: Board Troubleshooting",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "17:59",
+    "views_tab": 10000
+   },
+   {
+    "id": "eaziFrdBYiQ",
+    "title": "Carrier Chiller Down & Automation Issue",
+    "meta": [
+     "9.9K",
+     "5y ago"
+    ],
+    "dur": "15:50",
+    "views_tab": 9900
+   },
+   {
+    "id": "wTIbnBkq1vo",
+    "title": "Chillers Moisture Issue",
+    "meta": [
+     "9.8K",
+     "3y ago"
+    ],
+    "dur": "10:27",
+    "views_tab": 9800
+   },
+   {
+    "id": "paUskfmzKzc",
+    "title": "Data Center Overheating with CHILLER DOWN",
+    "meta": [
+     "9.7K",
+     "4y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 9700
+   },
+   {
+    "id": "7MU3KynLyLI",
+    "title": "YK IGBT Test Procedure: Chiller Training",
+    "meta": [
+     "9.7K",
+     "2y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 9700
+   },
+   {
+    "id": "UxOKW5VQZwQ",
+    "title": "CVH Startup Issues Trane Chiller",
+    "meta": [
+     "9.7K",
+     "3y ago"
+    ],
+    "dur": "7:23",
+    "views_tab": 9700
+   },
+   {
+    "id": "H3_V__DCMJM",
+    "title": "Pneumatic AC Not Working - HVAC Technician",
+    "meta": [
+     "9.7K",
+     "5y ago"
+    ],
+    "dur": "15:20",
+    "views_tab": 9700
+   },
+   {
+    "id": "4vI634K_kGY",
+    "title": "Carrier Chiller EXV Repair",
+    "meta": [
+     "9.5K",
+     "6y ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 9500
+   },
+   {
+    "id": "fdzAJyCeSVs",
+    "title": "This will FINALLY settle the Debate!",
+    "meta": [
+     "9.4K",
+     "3y ago"
+    ],
+    "dur": "19:14",
+    "views_tab": 9400
+   },
+   {
+    "id": "pYdxCBD0ezY",
+    "title": "What is Surge in Centrifugal Compressor",
+    "meta": [
+     "9.4K",
+     "2y ago"
+    ],
+    "dur": "9:43",
+    "views_tab": 9400
+   },
+   {
+    "id": "irrm4NeGSj4",
+    "title": "DX vs Flooded: Chiller Evaporator Types",
+    "meta": [
+     "9.2K",
+     "2y ago"
+    ],
+    "dur": "10:12",
+    "views_tab": 9200
+   },
+   {
+    "id": "MfMsRLQNvnE",
+    "title": "Chiller Refrigerant Leak Stress Fracture - YCIV York Chiller",
+    "meta": [
+     "9.1K",
+     "3y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 9100
+   },
+   {
+    "id": "jqD_jUSlFag",
+    "title": "Magnetic Bearings in Chillers",
+    "meta": [
+     "8.8K",
+     "2y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 8800
+   },
+   {
+    "id": "2d4RyYKk3_g",
+    "title": "Chilled Water Expansion Tanks Explained",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 8600
+   },
+   {
+    "id": "Ry7lfAZcB5g",
+    "title": "VRV 4 E5 Error Code",
+    "meta": [
+     "8.2K",
+     "7y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 8200
+   },
+   {
+    "id": "-Zi1QXSd2Ho",
+    "title": "This was causing Hanbell issues",
+    "meta": [
+     "8K",
+     "3y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 8000
+   },
+   {
+    "id": "tYKSLX9UQvg",
+    "title": "Centrifugal compressor seal for YK York",
+    "meta": [
+     "8K",
+     "4y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 8000
+   },
+   {
+    "id": "hs1oiJNb9n8",
+    "title": "Trane CVHE Chiller Teardown Part 2",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 7900
+   },
+   {
+    "id": "HSdVpLWg1Yc",
+    "title": "Chiller VFD Troubleshoot",
+    "meta": [
+     "7.9K",
+     "4y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 7900
+   },
+   {
+    "id": "G_fpAdm6rIo",
+    "title": "Ever seen this in trade school?",
+    "meta": [
+     "7.8K",
+     "4y ago"
+    ],
+    "dur": "24:01",
+    "views_tab": 7800
+   },
+   {
+    "id": "Iqf65BDEIqA",
+    "title": "Senior Chiller Tech think like This",
+    "meta": [
+     "7.8K",
+     "3y ago"
+    ],
+    "dur": "7:13",
+    "views_tab": 7800
+   },
+   {
+    "id": "EcsIiG27qv8",
+    "title": "Know High VS Low Pressure Chillers - Chiller Academy",
+    "meta": [
+     "7.7K",
+     "2y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 7700
+   },
+   {
+    "id": "gAkuZwmYyu4",
+    "title": "Wise Words from Apprentices",
+    "meta": [
+     "7.5K",
+     "5y ago"
+    ],
+    "dur": "7:37",
+    "views_tab": 7500
+   },
+   {
+    "id": "oVXS2LuoHyU",
+    "title": "Water Pressure in Chillers Explained",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "18:00",
+    "views_tab": 7400
+   },
+   {
+    "id": "kkiBgOzySHc",
+    "title": "Explain Purge Unit in Simple Words, Uses in Recovery",
+    "meta": [
+     "7.4K",
+     "1y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 7400
+   },
+   {
+    "id": "UVoTlitNitk",
+    "title": "Bad Design Caused Chiller Oil Line Repair on York Air Cooled Chiller",
+    "meta": [
+     "7.4K",
+     "4y ago"
+    ],
+    "dur": "22:13",
+    "views_tab": 7400
+   },
+   {
+    "id": "TBQ30L979kQ",
+    "title": "HVAC CHILLER TECH TRUCK",
+    "meta": [
+     "7.4K",
+     "4y ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 7400
+   },
+   {
+    "id": "9J89Exyd1i0",
+    "title": "Understand Condenser Approach with Chillers",
+    "meta": [
+     "7.3K",
+     "2y ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 7300
+   },
+   {
+    "id": "8l73LJ-I_pI",
+    "title": "YK Chiller Troubleshooting Guide",
+    "meta": [
+     "7.1K",
+     "2y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 7100
+   },
+   {
+    "id": "TxsC3doU_1w",
+    "title": "HVAC Electric Motors Training",
+    "meta": [
+     "7K",
+     "5y ago"
+    ],
+    "dur": "55:00",
+    "views_tab": 7000
+   },
+   {
+    "id": "BgWhV5j1UB0",
+    "title": "Stopping King Valve Leaks on AC",
+    "meta": [
+     "6.9K",
+     "5y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 6900
+   },
+   {
+    "id": "jcIUPF-qEpM",
+    "title": "How to START as Chiller Tech",
+    "meta": [
+     "6.8K",
+     "2y ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 6800
+   },
+   {
+    "id": "eLB-PjcVVuY",
+    "title": "Chiller Tech Pay per $$Hr",
+    "meta": [
+     "6.7K",
+     "2y ago"
+    ],
+    "dur": "9:56",
+    "views_tab": 6700
+   },
+   {
+    "id": "IRRaOmuSXiY",
+    "title": "YK Surge Troubleshooting: Chiller Training",
+    "meta": [
+     "6.6K",
+     "2y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 6600
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "RZV06qx4FyU",
+    "title": "Carrier Chiller 30GX - HVAC Training",
+    "meta": [
+     "26K",
+     "7y ago"
+    ],
+    "dur": "41:17",
+    "views_tab": 26000
+   },
+   {
+    "id": "Ry7lfAZcB5g",
+    "title": "VRV 4 E5 Error Code",
+    "meta": [
+     "8.2K",
+     "7y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 8200
+   },
+   {
+    "id": "Kwdjk0S49x4",
+    "title": "TXV Troubleshooting & Repair",
+    "meta": [
+     "11K",
+     "6y ago"
+    ],
+    "dur": "28:48",
+    "views_tab": 11000
+   },
+   {
+    "id": "leKmAfb0zf4",
+    "title": "Life Of HVAC Technician E1",
+    "meta": [
+     "955",
+     "6y ago"
+    ],
+    "dur": "47:01",
+    "views_tab": 955
+   },
+   {
+    "id": "ziDQg6xyYvM",
+    "title": "Life of HVAC Technician E2",
+    "meta": [
+     "1K",
+     "6y ago"
+    ],
+    "dur": "32:52",
+    "views_tab": 1000
+   },
+   {
+    "id": "YpE0HevqWmQ",
+    "title": "Life of HVAC Technician E3",
+    "meta": [
+     "362",
+     "6y ago"
+    ],
+    "dur": "21:55",
+    "views_tab": 362
+   },
+   {
+    "id": "UjWaH1bN23c",
+    "title": "Life of HVAC Technician E4",
+    "meta": [
+     "610",
+     "6y ago"
+    ],
+    "dur": "15:43",
+    "views_tab": 610
+   },
+   {
+    "id": "diLvdCl1mi8",
+    "title": "Life of HVAC Technician E5",
+    "meta": [
+     "309",
+     "6y ago"
+    ],
+    "dur": "9:48",
+    "views_tab": 309
+   },
+   {
+    "id": "SmVejoKXzHA",
+    "title": "Life of HVAC Technician E6",
+    "meta": [
+     "236",
+     "6y ago"
+    ],
+    "dur": "9:47",
+    "views_tab": 236
+   },
+   {
+    "id": "4vI634K_kGY",
+    "title": "Carrier Chiller EXV Repair",
+    "meta": [
+     "9.5K",
+     "6y ago"
+    ],
+    "dur": "5:19",
+    "views_tab": 9500
+   },
+   {
+    "id": "YgTDxjWLLYc",
+    "title": "Life of HVAC Technician E7",
+    "meta": [
+     "475",
+     "6y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 475
+   },
+   {
+    "id": "9VYvza2iNV0",
+    "title": "HVAC Training: Loop Chemical Testing",
+    "meta": [
+     "1.7K",
+     "6y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1700
+   },
+   {
+    "id": "bFkBygYAWig",
+    "title": "Chiller Down & Building Management System Issues (BMS) Life Of HVAC Technician E8",
+    "meta": [
+     "865",
+     "6y ago"
+    ],
+    "dur": "10:38",
+    "views_tab": 865
+   },
+   {
+    "id": "jAivkYphOj0",
+    "title": "Life of HVAC Technician E9",
+    "meta": [
+     "169",
+     "6y ago"
+    ],
+    "dur": "13:22",
+    "views_tab": 169
+   },
+   {
+    "id": "wkInX5jQgOs",
+    "title": "Binding Sensors Trane Chiller HVAC Training for HVAC Technician",
+    "meta": [
+     "39K",
+     "6y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 39000
+   },
+   {
+    "id": "2N3lUAIU8u0",
+    "title": "Life of HVAC Technician E10",
+    "meta": [
+     "339",
+     "6y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 339
+   },
+   {
+    "id": "LAH8LUZjWSQ",
+    "title": "Cooling Tower Balancing",
+    "meta": [
+     "6.3K",
+     "6y ago"
+    ],
+    "dur": "31:54",
+    "views_tab": 6300
+   },
+   {
+    "id": "y0Z5Vpca9FM",
+    "title": "HVAC Training: Motor Diagnostic",
+    "meta": [
+     "451",
+     "6y ago"
+    ],
+    "dur": "18:45",
+    "views_tab": 451
+   },
+   {
+    "id": "zDEN3hB-iqs",
+    "title": "Life of HVAC Technician E11",
+    "meta": [
+     "139",
+     "6y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 139
+   },
+   {
+    "id": "8Fs4vY_K6eY",
+    "title": "How To Fix Leaking Service Valve Stem",
+    "meta": [
+     "5.4K",
+     "6y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 5400
+   },
+   {
+    "id": "_EGZFkkJ7Sc",
+    "title": "Chiller VSD Replacement York YCIV Air Cooled Chiller",
+    "meta": [
+     "32K",
+     "6y ago"
+    ],
+    "dur": "42:38",
+    "views_tab": 32000
+   },
+   {
+    "id": "FUvOihyg3rs",
+    "title": "Life of HVAC Technician E12",
+    "meta": [
+     "183",
+     "6y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 183
+   },
+   {
+    "id": "l_ClQYgWqEk",
+    "title": "Chiller Starter Rebuild",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 1500
+   },
+   {
+    "id": "MyieTpzr0M0",
+    "title": "How to Change Motor Bearings for Electric Motor",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 28000
+   },
+   {
+    "id": "pDGc-ZGh2lw",
+    "title": "Life of HVAC Technician E13",
+    "meta": [
+     "217",
+     "6y ago"
+    ],
+    "dur": "12:46",
+    "views_tab": 217
+   },
+   {
+    "id": "u6GG6O26hf8",
+    "title": "Life of HVAC Technician E14",
+    "meta": [
+     "742",
+     "6y ago"
+    ],
+    "dur": "28:05",
+    "views_tab": 742
+   },
+   {
+    "id": "44xDCGSkW50",
+    "title": "Air Conditioner AHU HVAC Tips - HVAC Training Videos",
+    "meta": [
+     "4.1K",
+     "6y ago"
+    ],
+    "dur": "27:45",
+    "views_tab": 4100
+   },
+   {
+    "id": "t4ZONIAzZck",
+    "title": "Is HVAC HARD - HVAC Technician",
+    "meta": [
+     "109K",
+     "6y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 109000
+   },
+   {
+    "id": "qecHCEnSF50",
+    "title": "HVAC Training: TXV Troubleshooting",
+    "meta": [
+     "1K",
+     "6y ago"
+    ],
+    "dur": "1:11:15",
+    "views_tab": 1000
+   },
+   {
+    "id": "qORrNtYF7Qs",
+    "title": "Is HVAC Training Important??",
+    "meta": [
+     "180",
+     "6y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 180
+   },
+   {
+    "id": "q15mPEMa8To",
+    "title": "Chiller Motor Short on York Air Cooled Chiller",
+    "meta": [
+     "1.4K",
+     "6y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 1400
+   },
+   {
+    "id": "fxKWF-_bscI",
+    "title": "HVAC Training: Using Ohm's",
+    "meta": [
+     "497",
+     "6y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 497
+   },
+   {
+    "id": "AZOoSHRhihU",
+    "title": "Dear Lisa",
+    "meta": [
+     "226",
+     "6y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 226
+   },
+   {
+    "id": "sQ0owKcKQLQ",
+    "title": "HVAC Training: Fuses",
+    "meta": [
+     "1.3K",
+     "6y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1300
+   },
+   {
+    "id": "7AnVrdmRQJs",
+    "title": "Trane Chiller Compressor Unloader Stuck - HVAC Technician",
+    "meta": [
+     "34K",
+     "6y ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 34000
+   },
+   {
+    "id": "fnGRPxUhBDw",
+    "title": "ComfortLink Schedule",
+    "meta": [
+     "3.8K",
+     "6y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 3800
+   },
+   {
+    "id": "FQ99K3Ru1sM",
+    "title": "COVID vs HVAC",
+    "meta": [
+     "140",
+     "6y ago"
+    ],
+    "dur": "8:57",
+    "views_tab": 140
+   },
+   {
+    "id": "1ilRD2ngt60",
+    "title": "Low Pressure Recovery Trane Centrifugal Chiller",
+    "meta": [
+     "6.1K",
+     "6y ago"
+    ],
+    "dur": "8:36",
+    "views_tab": 6100
+   },
+   {
+    "id": "rM-Lli19AFs",
+    "title": "Trane CVHE Chiller Oil Valve",
+    "meta": [
+     "4.5K",
+     "6y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 4500
+   },
+   {
+    "id": "gzqyPNqOHCI",
+    "title": "Trane CVHE Chiller Oil Regulator Part 2",
+    "meta": [
+     "2.5K",
+     "6y ago"
+    ],
+    "dur": "7:30",
+    "views_tab": 2500
+   },
+   {
+    "id": "c2SAIQoYq2I",
+    "title": "Trane CVHE Chiller Tail Bearing Failure",
+    "meta": [
+     "3.1K",
+     "6y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 3100
+   },
+   {
+    "id": "GPVKtfK7I4I",
+    "title": "Trane CVHE Chiller Leaks",
+    "meta": [
+     "2.7K",
+     "6y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 2700
+   },
+   {
+    "id": "ljHY_hEq4mg",
+    "title": "Air In The Lines",
+    "meta": [
+     "300",
+     "6y ago"
+    ],
+    "dur": "5:41",
+    "views_tab": 300
+   },
+   {
+    "id": "KKcAquwFUsk",
+    "title": "Trane RTAA Chiller Automation Problems",
+    "meta": [
+     "2.4K",
+     "5y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 2400
+   },
+   {
+    "id": "MZTTul4Htyo",
+    "title": "Dirty to \"CLEAN\" Cooling Tower",
+    "meta": [
+     "16K",
+     "5y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 16000
+   },
+   {
+    "id": "6ABC95NkTps",
+    "title": "Trane RTAA Chiller BAD Unloader coil",
+    "meta": [
+     "3.5K",
+     "5y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 3500
+   },
+   {
+    "id": "BgWhV5j1UB0",
+    "title": "Stopping King Valve Leaks on AC",
+    "meta": [
+     "6.9K",
+     "5y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 6900
+   },
+   {
+    "id": "UJfsOnTA484",
+    "title": "Trane Chiller Compressor Teardown Part 1",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 18000
+   },
+   {
+    "id": "CdNa1UBk0Ik",
+    "title": "Is HVAC Worth It",
+    "meta": [
+     "3.8K",
+     "5y ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 3800
+   },
+   {
+    "id": "hs1oiJNb9n8",
+    "title": "Trane CVHE Chiller Teardown Part 2",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 7900
+   },
+   {
+    "id": "kBUwjMx8t1A",
+    "title": "Ohming Scroll Compressor Wrong",
+    "meta": [
+     "5.5K",
+     "5y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 5500
+   },
+   {
+    "id": "-ADjHE_WXS0",
+    "title": "Trane CVHE Chiller Teardown Part 3",
+    "meta": [
+     "3.7K",
+     "5y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 3700
+   },
+   {
+    "id": "AoLhCPq0Tnw",
+    "title": "York YS Chiller Bad Sensors",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 2700
+   },
+   {
+    "id": "HC1SWV3uxXM",
+    "title": "Trane CVHE to York YK Chiller Change Out",
+    "meta": [
+     "1.1K",
+     "5y ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 1100
+   },
+   {
+    "id": "JLiF3g0XPmo",
+    "title": "What are Triac for HVAC Techs?",
+    "meta": [
+     "1.8K",
+     "5y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 1800
+   },
+   {
+    "id": "occ1OuKLk8Y",
+    "title": "Trane Chiller Unloader Rebuild - HVAC School",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 21000
+   },
+   {
+    "id": "8Fzd8zbhbDo",
+    "title": "Trane Chiller Leak Repair, RTAA",
+    "meta": [
+     "5.6K",
+     "5y ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 5600
+   },
+   {
+    "id": "rGal98Z3KnQ",
+    "title": "Chiller Repair Vacuum & High Pressure Alarm Trane RTAA Air Cooled Chiller",
+    "meta": [
+     "4.6K",
+     "5y ago"
+    ],
+    "dur": "8:31",
+    "views_tab": 4600
+   },
+   {
+    "id": "xICShHAEWUM",
+    "title": "Bad Mistake on Vacuum After Chiller Repairs Trane RTAA Air Cooled Chiller",
+    "meta": [
+     "3.3K",
+     "5y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 3300
+   },
+   {
+    "id": "rTSdXDGT_CU",
+    "title": "Trane CVHF Chiller Excessive Pumpout",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "14:05",
+    "views_tab": 11000
+   },
+   {
+    "id": "2iaSh9sUJR8",
+    "title": "HVAC Vlog: TJC (Tyler Junior College)",
+    "meta": [
+     "495",
+     "5y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 495
+   },
+   {
+    "id": "juUnJA7rpSI",
+    "title": "Trane CVHF Chiller Excessive Pumpout Day 2",
+    "meta": [
+     "2.7K",
+     "5y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 2700
+   },
+   {
+    "id": "u0m-0Kq5YFM",
+    "title": "HVAC Interview: Curtis Durham",
+    "meta": [
+     "705",
+     "5y ago"
+    ],
+    "dur": "15:19",
+    "views_tab": 705
+   },
+   {
+    "id": "mNNvg6tHlTE",
+    "title": "York YK Chiller Install Final Update",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "1:44",
+    "views_tab": 1200
+   },
+   {
+    "id": "5rG88nhcHXM",
+    "title": "Trane CVHF Chiller Leak Repairs Update & Vacuum",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 2100
+   },
+   {
+    "id": "uIiy2sspEjI",
+    "title": "HVAC Training: Motor Frame",
+    "meta": [
+     "1K",
+     "5y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 1000
+   },
+   {
+    "id": "KcDVNefpyT0",
+    "title": "Trane CVHE Centrifugal Chiller Charging",
+    "meta": [
+     "5.2K",
+     "5y ago"
+    ],
+    "dur": "2:35",
+    "views_tab": 5200
+   },
+   {
+    "id": "ULhXlwcVkf8",
+    "title": "Chiller Training: Chiller PumpOut",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 2100
+   },
+   {
+    "id": "De0sgGVS5kc",
+    "title": "HVAC Service Truck",
+    "meta": [
+     "914",
+     "5y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 914
+   },
+   {
+    "id": "Vx8xEc6WVH8",
+    "title": "How to PM a VFD with Bypass",
+    "meta": [
+     "4.5K",
+     "5y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 4500
+   },
+   {
+    "id": "0EpdbFUrMCw",
+    "title": "Taking Next Steps As HVAC Apprentice - 60ish with HT",
+    "meta": [
+     "168",
+     "5y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 168
+   },
+   {
+    "id": "imQpD9En3JA",
+    "title": "HVAC Welding AC Service Van",
+    "meta": [
+     "461",
+     "5y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 461
+   },
+   {
+    "id": "mj8GoOo6jRc",
+    "title": "HVAC Training: Electrolysis",
+    "meta": [
+     "265",
+     "5y ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 265
+   },
+   {
+    "id": "YI4jX1Qr2Ds",
+    "title": "Cooling Tower Prep Before Freeze",
+    "meta": [
+     "1.6K",
+     "5y ago"
+    ],
+    "dur": "14:42",
+    "views_tab": 1600
+   },
+   {
+    "id": "kJSlgjaFeaA",
+    "title": "HVAC Training: Crankcase Heaters",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 1200
+   },
+   {
+    "id": "620jIHnNPvE",
+    "title": "Is HVAC Family Friendly",
+    "meta": [
+     "240",
+     "5y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 240
+   },
+   {
+    "id": "f0tKsDjWgT8",
+    "title": "Cooling Tower PM Basic's HVAC Training for HVAC Technician",
+    "meta": [
+     "205K",
+     "5y ago"
+    ],
+    "dur": "34:57",
+    "views_tab": 205000
+   },
+   {
+    "id": "xS3F0KGO51E",
+    "title": "HVAC Interview: Donald Addington",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "11:12",
+    "views_tab": 1300
+   },
+   {
+    "id": "uMy6_PaK46g",
+    "title": "HVAC Training: Line Filters",
+    "meta": [
+     "295",
+     "5y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 295
+   },
+   {
+    "id": "jvpv9ynTb4o",
+    "title": "Chiller Tubes froze causing Major Failure",
+    "meta": [
+     "1.1K",
+     "5y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 1100
+   },
+   {
+    "id": "DSsRND2RZ6Q",
+    "title": "Found Their Crack",
+    "meta": [
+     "1K",
+     "5y ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "pnIL7p0ifts",
+    "title": "Chiller Down Water In Refrigerant! Carrier Air Cooled Chiller",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 2100
+   },
+   {
+    "id": "-HN4g0i5M0c",
+    "title": "Buying Amazon Tools as HVAC Tech",
+    "meta": [
+     "1.9K",
+     "5y ago"
+    ],
+    "dur": "4:05",
+    "views_tab": 1900
+   },
+   {
+    "id": "Yqn0CFzS-Vw",
+    "title": "HVAC Training: Water Pressures",
+    "meta": [
+     "4.8K",
+     "5y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 4800
+   },
+   {
+    "id": "gAkuZwmYyu4",
+    "title": "Wise Words from Apprentices",
+    "meta": [
+     "7.5K",
+     "5y ago"
+    ],
+    "dur": "7:37",
+    "views_tab": 7500
+   },
+   {
+    "id": "UmNVXCZeOwo",
+    "title": "Trane Chiller HVAC Centrifugal Overview - HVAC Training Videos",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "27:49",
+    "views_tab": 66000
+   },
+   {
+    "id": "ByDEpdoescM",
+    "title": "HVAC Training: Calibrating Water Gauges",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "1:31",
+    "views_tab": 1200
+   },
+   {
+    "id": "lTIYo26VFKA",
+    "title": "Know how Makeup water Works?",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 11000
+   },
+   {
+    "id": "o1ImSvnNk7I",
+    "title": "HVAC Vlog: Trane CVHF PM",
+    "meta": [
+     "1.7K",
+     "5y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 1700
+   },
+   {
+    "id": "1umyaCMwLkQ",
+    "title": "How To Use Megger & Meg Motors",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 45000
+   },
+   {
+    "id": "_0ygYZbS874",
+    "title": "Trane Chiller Overheating",
+    "meta": [
+     "1.4K",
+     "5y ago"
+    ],
+    "dur": "1:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "D8togHhttbM",
+    "title": "Studying As HVAC Technician - HVAC Training Videos",
+    "meta": [
+     "32K",
+     "5y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 32000
+   },
+   {
+    "id": "Oh-C-SsEU5g",
+    "title": "Trane Chiller Centrifugal Overhaul",
+    "meta": [
+     "4.6K",
+     "5y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 4600
+   },
+   {
+    "id": "HtgvM2ghBy0",
+    "title": "Trane Chiller Circuit Lockout - HVAC Training Videos",
+    "meta": [
+     "13K",
+     "5y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 13000
+   },
+   {
+    "id": "JDz91CTj4QI",
+    "title": "Refrigeration Cycle Part 2 - HVAC Training",
+    "meta": [
+     "3.9K",
+     "5y ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 3900
+   },
+   {
+    "id": "rspIgBGFpt4",
+    "title": "Refrigeration Cycle Part 1 - HVAC Training",
+    "meta": [
+     "15K",
+     "5y ago"
+    ],
+    "dur": "33:03",
+    "views_tab": 15000
+   },
+   {
+    "id": "6zzAMZkZYdI",
+    "title": "Trane Chiller & Daikin Service Calls",
+    "meta": [
+     "3.2K",
+     "5y ago"
+    ],
+    "dur": "10:58",
+    "views_tab": 3200
+   },
+   {
+    "id": "H3_V__DCMJM",
+    "title": "Pneumatic AC Not Working - HVAC Technician",
+    "meta": [
+     "9.7K",
+     "5y ago"
+    ],
+    "dur": "15:20",
+    "views_tab": 9700
+   },
+   {
+    "id": "_wiOZ-qgTn4",
+    "title": "HVAC Training: Hydronic AC Part 1",
+    "meta": [
+     "3.1K",
+     "5y ago"
+    ],
+    "dur": "48:21",
+    "views_tab": 3100
+   },
+   {
+    "id": "UM3crqBna9U",
+    "title": "York Chiller Refrigeration Cycle - YCIV & YVAA AC",
+    "meta": [
+     "43K",
+     "5y ago"
+    ],
+    "dur": "30:38",
+    "views_tab": 43000
+   },
+   {
+    "id": "eaziFrdBYiQ",
+    "title": "Carrier Chiller Down & Automation Issue",
+    "meta": [
+     "9.9K",
+     "5y ago"
+    ],
+    "dur": "15:50",
+    "views_tab": 9900
+   },
+   {
+    "id": "UJHazXvRlAY",
+    "title": "York Chiller AC Leak Repairs Sight Glasses",
+    "meta": [
+     "14K",
+     "5y ago"
+    ],
+    "dur": "29:10",
+    "views_tab": 14000
+   },
+   {
+    "id": "lt8EJocCTCo",
+    "title": "Trane Chiller Centrifugal Refrigeration Cycle",
+    "meta": [
+     "72K",
+     "5y ago"
+    ],
+    "dur": "43:22",
+    "views_tab": 72000
+   },
+   {
+    "id": "lAVUEC8Ts3U",
+    "title": "Trane Chiller Down for Controls Short",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 11000
+   },
+   {
+    "id": "0yur50jlRlM",
+    "title": "Chiller Follow Up and Call To Action",
+    "meta": [
+     "2.3K",
+     "5y ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 2300
+   },
+   {
+    "id": "j8i9nJppe8c",
+    "title": "Trane Chiller Surging THEN ELECTRICAL Main TRIPS",
+    "meta": [
+     "66K",
+     "5y ago"
+    ],
+    "dur": "19:02",
+    "views_tab": 66000
+   },
+   {
+    "id": "kq-UfNLyrv8",
+    "title": "York Chiller Question About VSD",
+    "meta": [
+     "4.3K",
+     "5y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 4300
+   },
+   {
+    "id": "ZqhDQPnZ5jk",
+    "title": "Cooling Tower Setpoint For Chiller",
+    "meta": [
+     "52K",
+     "5y ago"
+    ],
+    "dur": "19:24",
+    "views_tab": 52000
+   },
+   {
+    "id": "Kq_wIkLbIEc",
+    "title": "System Crash takes out Chiller",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "20:25",
+    "views_tab": 23000
+   },
+   {
+    "id": "9OIMqqSC9i8",
+    "title": "HVAC Chiller Approach Explained",
+    "meta": [
+     "73K",
+     "5y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 73000
+   },
+   {
+    "id": "TxsC3doU_1w",
+    "title": "HVAC Electric Motors Training",
+    "meta": [
+     "7K",
+     "5y ago"
+    ],
+    "dur": "55:00",
+    "views_tab": 7000
+   },
+   {
+    "id": "ZY3rqGNfehg",
+    "title": "Trane Chiller Controller Bad Then Chilled Water Pumps",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "38:54",
+    "views_tab": 31000
+   },
+   {
+    "id": "WFuZC_dHeGs",
+    "title": "Carrier Chiller Down Tripping Breaker",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "8:13",
+    "views_tab": 10000
+   },
+   {
+    "id": "e_qtiXRFYBE",
+    "title": "HVAC Chiller Refrigerant Recovery Procedure",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "8:32",
+    "views_tab": 29000
+   },
+   {
+    "id": "LyvXkigV-_s",
+    "title": "York Chiller Down from Rat's and Wiring Harness",
+    "meta": [
+     "6.6K",
+     "5y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 6600
+   },
+   {
+    "id": "ME8TODXFFZc",
+    "title": "AC AHU Not Keeping Up In Zones",
+    "meta": [
+     "5.7K",
+     "5y ago"
+    ],
+    "dur": "13:37",
+    "views_tab": 5700
+   },
+   {
+    "id": "tQlHIcqa_cg",
+    "title": "EXV Takes Out Chiller on Trane Air Cooled Chiller",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 29000
+   },
+   {
+    "id": "xqgfiLS8WZY",
+    "title": "Psychometric's in Refrigeration & Air Conditioning HVAC Training For HVAC Technician",
+    "meta": [
+     "4.3K",
+     "5y ago"
+    ],
+    "dur": "35:43",
+    "views_tab": 4300
+   },
+   {
+    "id": "TJEzF0K2y2U",
+    "title": "Tripping Low Pressure York Air Cooled Chiller Down",
+    "meta": [
+     "115K",
+     "5y ago"
+    ],
+    "dur": "26:01",
+    "views_tab": 115000
+   },
+   {
+    "id": "Dwae3qvowfo",
+    "title": "Startup On Centrifugal Chiller After Overhaul by HVAC Technician",
+    "meta": [
+     "20K",
+     "5y ago"
+    ],
+    "dur": "19:40",
+    "views_tab": 20000
+   }
+  ]
+ }
+}
