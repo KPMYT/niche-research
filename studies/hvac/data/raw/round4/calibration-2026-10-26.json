@@ -1,0 +1,3200 @@
+{
+ "agreement": {
+  "scope_ok": 0.985,
+  "subniche": 0.935,
+  "format": 0.945,
+  "villain": 0.98,
+  "e1": 0.89,
+  "top_emotion_present": 0.95
+ },
+ "titles": {
+  "jhxxEcKGVhg": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 7; $$$",
+     "batch": 1
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 7; 2026",
+     "batch": 2
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "pellet stoves; Top 7",
+     "batch": 6
+    },
+    {
+     "video_id": "jhxxEcKGVhg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "only-x",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 7",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "brand-verdict",
+   "majority_format": "only-x",
+   "majority_villain": "none",
+   "majority_e1": "E1",
+   "emotions_by_votes": [
+    [
+     "E1",
+     5
+    ],
+    [
+     "E19",
+     2
+    ]
+   ]
+  },
+  "Q0V4b9r8bFY": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 2
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "Q0V4b9r8bFY",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "furnace",
+   "majority_format": "plain",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "quCLH92i8c8": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "E2",
+     "villain": "hvac-company",
+     "note": "$12 fix",
+     "batch": 1
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "E2",
+     "villain": "hvac-company",
+     "note": "$12 fix",
+     "batch": 2
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E2",
+     "e3": "E10",
+     "villain": "hvac-company",
+     "note": "$12 fix",
+     "batch": 6
+    },
+    {
+     "video_id": "quCLH92i8c8",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "E2",
+     "villain": "hvac-company",
+     "note": "$12 fix",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "ac-central",
+   "majority_format": "secret",
+   "majority_villain": "hvac-company",
+   "majority_e1": "E1",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E1",
+     5
+    ],
+    [
+     "E2",
+     4
+    ]
+   ]
+  },
+  "vOwkaI8WJCQ": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E19",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6",
+     "batch": 1
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "ac-portable",
+     "format": "only-x",
+     "e1": "E20",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6; quiet",
+     "batch": 2
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E20",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "ac-portable",
+     "format": "only-x",
+     "e1": "E20",
+     "e2": "E19",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6",
+     "batch": 6
+    },
+    {
+     "video_id": "vOwkaI8WJCQ",
+     "scope_ok": "y",
+     "subniche": "ac-portable",
+     "format": "only-x",
+     "e1": "E19",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 6",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "ac-portable",
+   "majority_format": "only-x",
+   "majority_villain": "none",
+   "majority_e1": "E20",
+   "emotions_by_votes": [
+    [
+     "E19",
+     5
+    ],
+    [
+     "E20",
+     5
+    ]
+   ]
+  },
+  "pfPvU90liFc": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "E10",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "furnace types",
+     "batch": 2
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "pfPvU90liFc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "furnace",
+   "majority_format": "explainer",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": [
+    [
+     "E10",
+     1
+    ]
+   ]
+  },
+  "P3z4nGRZ51c": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E1",
+     "e3": "E10",
+     "villain": "last-owner",
+     "note": "pre-1960; builders stopped; $800",
+     "batch": 1
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E1",
+     "e3": "E10",
+     "villain": "last-owner",
+     "note": "pre-1960 homes; $800",
+     "batch": 2
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E1",
+     "e3": "E10",
+     "villain": "last-owner",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E15",
+     "e3": "E1",
+     "villain": "last-owner",
+     "note": "old ways; $800",
+     "batch": 6
+    },
+    {
+     "video_id": "P3z4nGRZ51c",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E1",
+     "villain": "last-owner",
+     "note": "builders; $800",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "energy-bill",
+   "majority_format": "secret",
+   "majority_villain": "last-owner",
+   "majority_e1": "E15",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E15",
+     5
+    ],
+    [
+     "E1",
+     5
+    ]
+   ]
+  },
+  "QFieA3UVQDA": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E6",
+     "e3": "E10",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 2
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "QFieA3UVQDA",
+     "scope_ok": "y",
+     "subniche": "energy-bill",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "energy-bill",
+   "majority_format": "explainer",
+   "majority_villain": "none",
+   "majority_e1": "E1",
+   "emotions_by_votes": [
+    [
+     "E1",
+     5
+    ],
+    [
+     "E10",
+     4
+    ],
+    [
+     "E6",
+     2
+    ]
+   ]
+  },
+  "hdn1itZ6y1E": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 2
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "hdn1itZ6y1E",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "furnace",
+   "majority_format": "plain",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "JVaFBTNu29w": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "E8",
+     "villain": "none",
+     "note": "7 nights",
+     "batch": 1
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E19",
+     "e3": "E10",
+     "villain": "none",
+     "note": "7 nights trial",
+     "batch": 2
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "7 nights",
+     "batch": 6
+    },
+    {
+     "video_id": "JVaFBTNu29w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "test",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "7 nights",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "test",
+   "majority_villain": "none",
+   "majority_e1": "E13",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E13",
+     5
+    ],
+    [
+     "E8",
+     1
+    ],
+    [
+     "E19",
+     1
+    ]
+   ]
+  },
+  "j0AP_PNCi7s": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
+     "e2": "E1",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "2026",
+     "batch": 2
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
+     "e2": "E1",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "j0AP_PNCi7s",
+     "scope_ok": "y",
+     "subniche": "brand-verdict",
+     "format": "only-x",
+     "e1": "E3",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "brand-verdict",
+   "majority_format": "only-x",
+   "majority_villain": "maker-shelf",
+   "majority_e1": "E3",
+   "emotions_by_votes": [
+    [
+     "E3",
+     5
+    ],
+    [
+     "E1",
+     2
+    ]
+   ]
+  },
+  "txErJ_QNV88": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "high pressure switch",
+     "batch": 2
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "txErJ_QNV88",
+     "scope_ok": "y",
+     "subniche": "parts",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "parts",
+   "majority_format": "how-to",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "bDXDHSSgi8Y": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "tuna can heater",
+     "batch": 1
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "tin-can stove",
+     "batch": 2
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "tuna-can stove",
+     "batch": 6
+    },
+    {
+     "video_id": "bDXDHSSgi8Y",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "tin can stove",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "cheap-hack",
+   "majority_villain": "none",
+   "majority_e1": "E13",
+   "emotions_by_votes": [
+    [
+     "E13",
+     5
+    ],
+    [
+     "E5",
+     3
+    ],
+    [
+     "E10",
+     2
+    ]
+   ]
+  },
+  "xCERCRTmNYI": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "free heat",
+     "batch": 1
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E1",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "free heat; briquettes",
+     "batch": 2
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E1",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "free heat",
+     "batch": 6
+    },
+    {
+     "video_id": "xCERCRTmNYI",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "free heat",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "cheap-hack",
+   "majority_villain": "none",
+   "majority_e1": "E13",
+   "emotions_by_votes": [
+    [
+     "E1",
+     5
+    ],
+    [
+     "E13",
+     5
+    ]
+   ]
+  },
+  "XKG-87_o6rM": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 2
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "XKG-87_o6rM",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "ac-central",
+   "majority_format": "symptom-fix",
+   "majority_villain": "none",
+   "majority_e1": "E4",
+   "emotions_by_votes": [
+    [
+     "E4",
+     5
+    ]
+   ]
+  },
+  "MmE_d9l52s4": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 2
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "MmE_d9l52s4",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "ac-central",
+   "majority_format": "symptom-fix",
+   "majority_villain": "none",
+   "majority_e1": "E5",
+   "emotions_by_votes": [
+    [
+     "E5",
+     5
+    ],
+    [
+     "E6",
+     2
+    ],
+    [
+     "E10",
+     2
+    ]
+   ]
+  },
+  "0R6fu4BesXE": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "survival stove",
+     "batch": 1
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "no gas no firewood",
+     "batch": 2
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "survival build",
+     "batch": 6
+    },
+    {
+     "video_id": "0R6fu4BesXE",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "install-diy",
+   "majority_villain": "none",
+   "majority_e1": "E13",
+   "emotions_by_votes": [
+    [
+     "E5",
+     5
+    ],
+    [
+     "E13",
+     5
+    ]
+   ]
+  },
+  "O1dkKgxs0v4": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "buy-replace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "buy-replace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "high-efficiency furnace cost",
+     "batch": 2
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "O1dkKgxs0v4",
+     "scope_ok": "y",
+     "subniche": "buy-replace",
+     "format": "explainer",
+     "e1": "E1",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "furnace cost",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "buy-replace",
+   "majority_format": "explainer",
+   "majority_villain": "none",
+   "majority_e1": "E1",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E1",
+     5
+    ]
+   ]
+  },
+  "WYABJzHTAwU": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "outdoor brick stove",
+     "batch": 1
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "outdoor brick stove (garden/cooking)",
+     "batch": 2
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "outdoor stove",
+     "batch": 5
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "outdoor brick stove (garden)",
+     "batch": 6
+    },
+    {
+     "video_id": "WYABJzHTAwU",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "outdoor stove build",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "n",
+   "majority_subniche": "",
+   "majority_format": "",
+   "majority_villain": "",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "3Jonl_TLkpE": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 2
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E14",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "3Jonl_TLkpE",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "furnace",
+   "majority_format": "symptom-fix",
+   "majority_villain": "none",
+   "majority_e1": "E5",
+   "emotions_by_votes": [
+    [
+     "E5",
+     5
+    ],
+    [
+     "E14",
+     5
+    ]
+   ]
+  },
+  "SJtRZKARF9w": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E20",
+     "e2": "E13",
+     "e3": "E5",
+     "villain": "none",
+     "note": "no gas no electricity",
+     "batch": 1
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "no gas no electricity",
+     "batch": 2
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E20",
+     "e2": "E10",
+     "e3": "E13",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "SJtRZKARF9w",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E5",
+     "e2": "E20",
+     "e3": "E13",
+     "villain": "none",
+     "note": "trick",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "cheap-hack",
+   "majority_villain": "none",
+   "majority_e1": "E20",
+   "emotions_by_votes": [
+    [
+     "E13",
+     5
+    ],
+    [
+     "E20",
+     3
+    ],
+    [
+     "E10",
+     3
+    ],
+    [
+     "E5",
+     2
+    ]
+   ]
+  },
+  "zrlTMcnxZ-U": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "brick stove, maybe outdoor cooking",
+     "batch": 1
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "brick wood stove, maybe cooking",
+     "batch": 2
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "brick stove; may be cooking",
+     "batch": 6
+    },
+    {
+     "video_id": "zrlTMcnxZ-U",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "install-diy",
+     "e1": "E13",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "brick stove, maybe outdoor",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "?",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "install-diy",
+   "majority_villain": "none",
+   "majority_e1": "E13",
+   "emotions_by_votes": [
+    [
+     "E13",
+     5
+    ]
+   ]
+  },
+  "EDppOSUlrTo": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E16",
+     "e2": "E5",
+     "e3": "E13",
+     "villain": "none",
+     "note": "$35 DIY purifier",
+     "batch": 1
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E5",
+     "e2": "E13",
+     "e3": "E16",
+     "villain": "none",
+     "note": "$35 DIY purifier",
+     "batch": 2
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E16",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E17",
+     "e2": "E16",
+     "e3": "E5",
+     "villain": "none",
+     "note": "$35 DIY purifier",
+     "batch": 6
+    },
+    {
+     "video_id": "EDppOSUlrTo",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "cheap-hack",
+     "e1": "E16",
+     "e2": "E5",
+     "e3": "E13",
+     "villain": "none",
+     "note": "$35",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "humidity-air",
+   "majority_format": "cheap-hack",
+   "majority_villain": "none",
+   "majority_e1": "E16",
+   "emotions_by_votes": [
+    [
+     "E16",
+     5
+    ],
+    [
+     "E5",
+     4
+    ],
+    [
+     "E13",
+     4
+    ],
+    [
+     "E17",
+     1
+    ]
+   ]
+  },
+  "iuKo9HhxqIg": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "free tin-can stove",
+     "batch": 1
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "tin cans; free",
+     "batch": 2
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "free",
+     "batch": 6
+    },
+    {
+     "video_id": "iuKo9HhxqIg",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "cheap-hack",
+     "e1": "E13",
+     "e2": "E20",
+     "e3": "",
+     "villain": "none",
+     "note": "free",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "cheap-hack",
+   "majority_villain": "none",
+   "majority_e1": "E13",
+   "emotions_by_votes": [
+    [
+     "E13",
+     5
+    ],
+    [
+     "E20",
+     3
+    ],
+    [
+     "E10",
+     1
+    ],
+    [
+     "E1",
+     1
+    ]
+   ]
+  },
+  "KYC3-ljtCyg": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E2",
+     "e3": "",
+     "villain": "none",
+     "note": "steam; $50K",
+     "batch": 1
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E2",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "steam conversion; $50K",
+     "batch": 2
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E2",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E1",
+     "e2": "E2",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$50K",
+     "batch": 6
+    },
+    {
+     "video_id": "KYC3-ljtCyg",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "story",
+     "e1": "E2",
+     "e2": "E1",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$50K",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "boiler-oldheat",
+   "majority_format": "story",
+   "majority_villain": "hvac-company",
+   "majority_e1": "E1",
+   "emotions_by_votes": [
+    [
+     "E2",
+     5
+    ],
+    [
+     "E1",
+     5
+    ]
+   ]
+  },
+  "kSqQwqUhahA": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "E19",
+     "villain": "hvac-company",
+     "note": "$16 ridge vent",
+     "batch": 1
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "E19",
+     "villain": "hvac-company",
+     "note": "$16 ridge vent",
+     "batch": 2
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$16",
+     "batch": 6
+    },
+    {
+     "video_id": "kSqQwqUhahA",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "",
+     "villain": "hvac-company",
+     "note": "$16",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "drafts-insulation",
+   "majority_format": "secret",
+   "majority_villain": "hvac-company",
+   "majority_e1": "E10",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E1",
+     5
+    ],
+    [
+     "E19",
+     2
+    ]
+   ]
+  },
+  "liSJbMyOiYQ": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "explainer",
+     "e1": "E3",
+     "e2": "E10",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "plain",
+     "e1": "E10",
+     "e2": "E3",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "worst design",
+     "batch": 2
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "explainer",
+     "e1": "E3",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "explainer",
+     "e1": "E10",
+     "e2": "E3",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "liSJbMyOiYQ",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "explainer",
+     "e1": "E3",
+     "e2": "",
+     "e3": "",
+     "villain": "maker-shelf",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "hvac-general",
+   "majority_format": "explainer",
+   "majority_villain": "maker-shelf",
+   "majority_e1": "E3",
+   "emotions_by_votes": [
+    [
+     "E3",
+     5
+    ],
+    [
+     "E10",
+     3
+    ]
+   ]
+  },
+  "uRXw28QRrDI": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "uRXw28QRrDI",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "mindfulness, not HVAC",
+     "batch": 1
+    },
+    {
+     "video_id": "uRXw28QRrDI",
+     "scope_ok": "?",
+     "subniche": "heat-pump",
+     "format": "story",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "reflective vignette",
+     "batch": 2
+    },
+    {
+     "video_id": "uRXw28QRrDI",
+     "scope_ok": "?",
+     "subniche": "heat-pump",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "uRXw28QRrDI",
+     "scope_ok": "?",
+     "subniche": "heat-pump",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "uRXw28QRrDI",
+     "scope_ok": "?",
+     "subniche": "heat-pump",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "?",
+   "majority_subniche": "heat-pump",
+   "majority_format": "plain",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "5XdIjZEgIXQ": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "insulation and humidity",
+     "batch": 2
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "5XdIjZEgIXQ",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "explainer",
+     "e1": "E4",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "humidity-air",
+   "majority_format": "explainer",
+   "majority_villain": "none",
+   "majority_e1": "E4",
+   "emotions_by_votes": [
+    [
+     "E4",
+     5
+    ],
+    [
+     "E10",
+     2
+    ]
+   ]
+  },
+  "31b5t8N1ThQ": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "E20",
+     "villain": "none",
+     "note": "ethanol heater",
+     "batch": 1
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "ethanol heater",
+     "batch": 2
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "31b5t8N1ThQ",
+     "scope_ok": "y",
+     "subniche": "offgrid-heat",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E13",
+     "e3": "",
+     "villain": "none",
+     "note": "ethanol heater",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "secret",
+   "majority_villain": "none",
+   "majority_e1": "E10",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E13",
+     5
+    ],
+    [
+     "E20",
+     1
+    ]
+   ]
+  },
+  "vjHmIE6urJ0": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E10",
+     "e3": "E14",
+     "villain": "none",
+     "note": "7 reasons",
+     "batch": 1
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "7 reasons; frozen coil",
+     "batch": 2
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E14",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "7 reasons",
+     "batch": 6
+    },
+    {
+     "video_id": "vjHmIE6urJ0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "symptom-fix",
+     "e1": "E6",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "7 reasons",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "ac-central",
+   "majority_format": "symptom-fix",
+   "majority_villain": "none",
+   "majority_e1": "E6",
+   "emotions_by_votes": [
+    [
+     "E10",
+     4
+    ],
+    [
+     "E6",
+     4
+    ],
+    [
+     "E14",
+     3
+    ]
+   ]
+  },
+  "HY800HGwVMc": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "York",
+     "batch": 2
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "HY800HGwVMc",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "furnace",
+   "majority_format": "symptom-fix",
+   "majority_villain": "none",
+   "majority_e1": "E5",
+   "emotions_by_votes": [
+    [
+     "E5",
+     5
+    ]
+   ]
+  },
+  "lofL4-yHePo": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Mitsubishi 3-zone rough-in",
+     "batch": 2
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "lofL4-yHePo",
+     "scope_ok": "y",
+     "subniche": "mini-split",
+     "format": "install-diy",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "mini-split",
+   "majority_format": "install-diy",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "cVNEVSeEvFE": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "weatherization trade training",
+     "batch": 1
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "weatherization trade training (blower door)",
+     "batch": 2
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "?",
+     "subniche": "drafts-insulation",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "n",
+     "subniche": "",
+     "format": "",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "",
+     "note": "trade training (blower door)",
+     "batch": 6
+    },
+    {
+     "video_id": "cVNEVSeEvFE",
+     "scope_ok": "y",
+     "subniche": "drafts-insulation",
+     "format": "explainer",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "blower door",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "n",
+   "majority_subniche": "",
+   "majority_format": "",
+   "majority_villain": "",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "U7imuv6W7hA": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "sight glass",
+     "batch": 2
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "U7imuv6W7hA",
+     "scope_ok": "y",
+     "subniche": "boiler-oldheat",
+     "format": "how-to",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "boiler-oldheat",
+   "majority_format": "how-to",
+   "majority_villain": "none",
+   "majority_e1": "",
+   "emotions_by_votes": []
+  },
+  "gwTvbez1A9I": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E19",
+     "e3": "E1",
+     "villain": "utility",
+     "note": "$3; forget",
+     "batch": 1
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E19",
+     "e3": "E1",
+     "villain": "utility",
+     "note": "$3; Big Electric",
+     "batch": 2
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E19",
+     "e3": "E1",
+     "villain": "utility",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "humidity-air",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E1",
+     "e3": "E19",
+     "villain": "utility",
+     "note": "$3",
+     "batch": 6
+    },
+    {
+     "video_id": "gwTvbez1A9I",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "secret",
+     "e1": "E10",
+     "e2": "E19",
+     "e3": "E1",
+     "villain": "utility",
+     "note": "$3",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "humidity-air",
+   "majority_format": "secret",
+   "majority_villain": "utility",
+   "majority_e1": "E10",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E1",
+     5
+    ],
+    [
+     "E19",
+     5
+    ]
+   ]
+  },
+  "1htdAcoctKo": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Octopus Cosy",
+     "batch": 1
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Octopus Cosy 6; running costs; UK",
+     "batch": 2
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Octopus Cosy",
+     "batch": 6
+    },
+    {
+     "video_id": "1htdAcoctKo",
+     "scope_ok": "y",
+     "subniche": "heat-pump",
+     "format": "review",
+     "e1": "E1",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Octopus Cosy",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "heat-pump",
+   "majority_format": "review",
+   "majority_villain": "none",
+   "majority_e1": "E1",
+   "emotions_by_votes": [
+    [
+     "E1",
+     5
+    ]
+   ]
+  },
+  "aIGlgSw4Wu0": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "neglected systems",
+     "batch": 2
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "aIGlgSw4Wu0",
+     "scope_ok": "y",
+     "subniche": "ac-central",
+     "format": "story",
+     "e1": "E4",
+     "e2": "E1",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "ac-central",
+   "majority_format": "story",
+   "majority_villain": "none",
+   "majority_e1": "E4",
+   "emotions_by_votes": [
+    [
+     "E4",
+     5
+    ],
+    [
+     "E1",
+     4
+    ],
+    [
+     "E5",
+     1
+    ]
+   ]
+  },
+  "LecZcZs7A5g": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "only-x",
+     "e1": "E20",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4; cement stoves",
+     "batch": 1
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "explainer",
+     "e1": "E10",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4 wood stoves; cement-stove channel, maybe cooking",
+     "batch": 2
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "brand-verdict",
+     "format": "plain",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "only-x",
+     "e1": "E20",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4",
+     "batch": 6
+    },
+    {
+     "video_id": "LecZcZs7A5g",
+     "scope_ok": "?",
+     "subniche": "offgrid-heat",
+     "format": "only-x",
+     "e1": "",
+     "e2": "",
+     "e3": "",
+     "villain": "none",
+     "note": "Top 4",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "?",
+   "majority_subniche": "offgrid-heat",
+   "majority_format": "only-x",
+   "majority_villain": "none",
+   "majority_e1": "E20",
+   "emotions_by_votes": [
+    [
+     "E20",
+     2
+    ],
+    [
+     "E10",
+     1
+    ]
+   ]
+  },
+  "fAMi6tAsAas": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E10",
+     "e3": "E6",
+     "villain": "none",
+     "note": "",
+     "batch": 1
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E6",
+     "e3": "",
+     "villain": "none",
+     "note": "no heat call",
+     "batch": 2
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "hvac-general",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E5",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E5",
+     "e2": "E10",
+     "e3": "",
+     "villain": "none",
+     "note": "",
+     "batch": 6
+    },
+    {
+     "video_id": "fAMi6tAsAas",
+     "scope_ok": "y",
+     "subniche": "furnace",
+     "format": "symptom-fix",
+     "e1": "E10",
+     "e2": "E6",
+     "e3": "E5",
+     "villain": "none",
+     "note": "",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "furnace",
+   "majority_format": "symptom-fix",
+   "majority_villain": "none",
+   "majority_e1": "E10",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E5",
+     4
+    ],
+    [
+     "E6",
+     3
+    ]
+   ]
+  },
+  "eVjxRosE3MU": {
+   "labellers": 5,
+   "readings": [
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E19",
+     "villain": "none",
+     "note": "20 forgotten tricks",
+     "batch": 1
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E19",
+     "e3": "E10",
+     "villain": "none",
+     "note": "20 forgotten tricks",
+     "batch": 2
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E19",
+     "villain": "none",
+     "note": "",
+     "batch": 5
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E19",
+     "villain": "none",
+     "note": "Top 20; forgotten",
+     "batch": 6
+    },
+    {
+     "video_id": "eVjxRosE3MU",
+     "scope_ok": "y",
+     "subniche": "cooling-no-ac",
+     "format": "secret",
+     "e1": "E15",
+     "e2": "E10",
+     "e3": "E19",
+     "villain": "none",
+     "note": "20; forgotten",
+     "batch": 8
+    }
+   ],
+   "majority_scope_ok": "y",
+   "majority_subniche": "cooling-no-ac",
+   "majority_format": "secret",
+   "majority_villain": "none",
+   "majority_e1": "E15",
+   "emotions_by_votes": [
+    [
+     "E10",
+     5
+    ],
+    [
+     "E15",
+     5
+    ],
+    [
+     "E19",
+     5
+    ]
+   ]
+  }
+ }
+}
