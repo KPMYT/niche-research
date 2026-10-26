@@ -87,4 +87,17 @@ Counted videos are long-form: 5:00 or more, in English, no Shorts. Videos under 
 | explainer | format **NEW** | explains how something works, no mistake or test framing ("Volts, Amps & Watts Explained", "Why Do Electric Plugs Have Holes?") | 2026-10-23: helpers 1 and 3 needed it |
 | recalls | sub-niche **NEW** | product recalls and "yours might still be plugged in" | 2026-10-23: helper 4 (Frederick channel) |
 
+| N1 nuisance irritation | emotion **NEW** | a household annoyance the viewer wants stopped now (the chirp, the false alarm, the wobble, "keeps tripping"); not danger; where the title says a fix failed, E6 first | 2026-10-26, round 4 (group C) |
+| N2 how-it-works curiosity | emotion **NEW** | wanting to understand a system ("explained", "how X works", "basics", "types of") with no secret or "real reason" angle; E10 stays for "actually", "the real reason", "not what you think", everyday "why" | 2026-10-26, round 4 (group C) |
+| N3 spectacle and thrill | emotion **NEW** | watching something burn, spark or explode for entertainment (tests, torture tests, near-misses on camera) | 2026-10-26, round 4 (group C) |
+| N4 comeuppance | emotion **NEW** | the pleasure of seeing someone get what they deserve (2 rows only) | 2026-10-26, round 4 (group B) |
+| problem-fix | format **NEW** | "X not working / keeps tripping? here's why" | 2026-10-24, round 2 |
+| inspection-walk | format **NEW** | a real inspection or walkthrough by an inspector or electrician (also written inspection-walkthrough) | 2026-10-24, round 2 |
+| never-list | format **NEW** | "N things a firefighter / electrician would NEVER…" (also written insider-never) | 2026-10-24, round 2 |
+| danger-warning | format **NEW** | "this panel / wire is dangerous / banned / uninsurable", no mistake framing | 2026-10-24, round 2 |
+| job-vlog | format **NEW** | a tradesperson's real job filmed (dryer vent cleans, service calls) | 2026-10-24, round 2 |
+| reaction | format **NEW** | "Electrician reacts to…" | 2026-10-24, round 2 |
+| best-list | format **NEW** | "Top 5 best X 2026" buying lists | 2026-10-24, round 2 |
+| the-x-way | format **NEW** | a tradition key: "(The Mexican Way)", "Amish", "Japanese" | 2026-10-24, round 2 |
+
 Helpers in round 1 wrote these as `other:review`, `other:explainer`, `other:recalls`; they mean the labels above.

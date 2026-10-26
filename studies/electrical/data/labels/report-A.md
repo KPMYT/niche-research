@@ -30,3 +30,7 @@ Overall: none 244, maker/shelf 30, own habit 24, last owner/flipper 17, insider 
 - Plain how-tos get E13 alone (no real hook), which inflates E13.
 - Videos for professionals (InterNACHI training, the EICR how-to): emotions weak.
 - Very low-view videos (28-375 views): title only.
+
+## Update after the shared codes (2026-10-26)
+
+The labeller re-coded file A to group C's N1, N2, N3 (98 of 338 rows changed emotion codes; villains and formats unchanged; no N4). N2 now covers "explained", "basics", "how X works", comparisons, teardowns and inspection training; E10 kept only for secrets, "nobody explains" and everyday "why" titles (E10 fell from 122 to 35). N3: real sparks, fire or overload-to-failure (14 videos, 9 first, median 802K). N1: "keeps tripping", a plug that won't stay in, a loose outlet (8). Where "keeps tripping" fits E6 too, E6 stays first (labels.md gives tripping as E6's example); rows 190, 202, 208, 210, 212, 301 can be flipped if group C put N1 first. Updated tables are in `labelled-A-summary.csv`; e.g. outlets and switches: E13 31/22, E9 8/5 (median 2.9M), N2 7/5, E6 5/5, E10 6/5, N1 2/2 ("Plug Won't Stay In Outlet" 2.5M).
