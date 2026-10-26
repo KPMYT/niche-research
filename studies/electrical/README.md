@@ -14,6 +14,7 @@ For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding el
 | `new-channels.md` | 2. New channels taking off. |
 | `subniches.md` | 3. The sub-niche map. |
 | `emotions.md` | 4. Emotions in each sub-niche (with how far to trust each emotion). |
+| `thumbnails/thumbnail-text.html` | The words on the 82 recent winners' thumbnails by text type, plus the operator's two looks (character + explainer board; a person reacting or pointing) and close-ups with no character (2026-10-26; published privately: https://claude.ai/artifact/DU5qu4MruAiEVR5B2eY4Rg). Built by `data/tools/build_text_page.py` from `data/thumb-text/recent-thumb-text.csv` (text types and lane are readings; `blind-check.csv` is the second helper's blind sort, 65 of 73 agree). |
 | `thumbnails/thumbnail-styles.html` | 5. Thumbnail styles, shown visually (published privately: https://claude.ai/artifact/4ZPp2yNMNRvQccsNo3yyet). Labels: `thumbnails/labels-*.csv`; images: `thumbnails/images/`. |
 | `recent-winners.md` | 6. What has worked recently (last 90 days, last 12 months, rising and falling). |
 | `top-100.md`, `top-100.csv` | 7. The top 100 of all time. |
@@ -32,7 +33,7 @@ For Frederick Barnes's new brand (electrical DIY, electrical safety, avoiding el
 | `short-reference.md` | Under-5:00 hits, listed but never counted. |
 | `thumbnails/report-*.md` | The two thumbnail labellers' reports; `thumbnails/labels-extra.csv` holds 4 thumbnails labelled by the main session after checker G. |
 | `.gitignore` | Keeps Python caches and editor temp files out of git. |
-| `data/tools/` | The scripts: `yt.py` (logged-out YouTube loader; notes on which sorts work), `merge_sweeps.py`, `channel_medians.py`, `subniche_map.py`, `top100_final.py`, `build_docs.py`, `build_channels.py`, `build_thumb_page.py`. The deliverables above are built by the last three; re-run them after any data fix. |
+| `data/tools/` | The scripts: `yt.py` (logged-out YouTube loader; notes on which sorts work), `merge_sweeps.py`, `channel_medians.py`, `subniche_map.py`, `top100_final.py`, `build_docs.py`, `build_channels.py`, `build_thumb_page.py`, `build_text_page.py`. The deliverables above are built by the last three; re-run them after any data fix. |
 | `data/silver-cymbal/` | Round 1: Silver Cymbal's full video list and the seed CSV. |
 | `data/known-channels/` | Round 1: the six known channels re-checked against the 2026-10-22 figures. |
 | `data/just-stop-fire/` | Round 1: Frederick Barnes's own channel (named "Frederick Barnes" on YouTube). |
