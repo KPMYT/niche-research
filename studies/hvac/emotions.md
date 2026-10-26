@@ -332,3 +332,26 @@ Last 12 months: 30 videos, median multiple 1.00x.
 | E1 fear of the big bill | 30 | 46% | 1.00 | 20 | 0.97 | "When 2p Gas Made Heat Pumps Pointless \| Now It Doesn't" (Mick Wall (Energy Stats UK), 11K, 5.5x, `hS9kq21VKcM`)<br>"#Heating#cheapest#  way to heat your home." (dereton33 Plumbing and heating, DIY and blogging., 7.9K, 4.0x, `V29wypcwZPA`) |
 | E10 insider curiosity | 6 | 9% | 2.01 | 3 | n/a | "Once You Understand THIS, You'll Stop Buying Gas Boilers!" (Everything Home, 12K, 3.1x, `aXy56CuwLxM`)<br>"Your Gas Boiler Has a DIRTY Secret... But Is My Heat Pump Better?" (Everything Home, 2.9K, 0.7x, `UKQ2h_4Kezc`) |
 
+## Faceless personas only (Roger's model), last 12 months
+
+The same measure on faceless-persona channels only (type from the census), the closest thing to Roger's own channel. Ranking needs 30+ videos here.
+
+| Emotion | Videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ |
+|---|---:|---:|---:|---:|---:|---:|
+| E3 distrust of the store shelf | 152 | 45 | 44% | 1.5K | 1.83x | 46% |
+| E13 pride in self-reliance | 185 | 58 | 21% | 1.6K | 1.53x | 41% |
+| E18 rule-curiosity and mild defiance | 49 | 23 | 43% | 2.5K | 1.39x | 34% |
+| E12 vindication and the myth-bust | 101 | 52 | 19% | 787 | 1.34x | 43% |
+| E10 insider curiosity | 328 | 73 | 18% | 1.0K | 1.33x | 38% |
+| E11 being let in | 55 | 29 | 31% | 927 | 1.23x | 42% |
+| E20 new-gadget wonder | 75 | 30 | 31% | 1.0K | 1.21x | 36% |
+| E19 comfort | 271 | 83 | 16% | 1.0K | 1.16x | 38% |
+| E15 nostalgia and inherited wisdom | 291 | 65 | 24% | 1.0K | 1.15x | 35% |
+| E1 fear of the big bill | 754 | 112 | 14% | 856 | 1.08x | 35% |
+| E2 resentment of the service call | 115 | 38 | 34% | 734 | 1.00x | 36% |
+| E5 emergency dread and urgency | 199 | 72 | 16% | 713 | 1.00x | 33% |
+| E4 dread of silent, hidden damage | 130 | 50 | 23% | 327 | 1.00x | 25% |
+| E17 safety fear | 45 | 28 | 27% | 515 | 0.94x | 29% |
+| E16 protectiveness | 56 | 39 | 18% | 722 | 0.76x | 29% |
+
+Not ranked (fewer than 30 videos, or not counted): E8 (28, 1.92x); E14 (27, 1.03x); E6 (20, 0.79x); E7 (6, 0.94x); E9 (1, 1.56x)

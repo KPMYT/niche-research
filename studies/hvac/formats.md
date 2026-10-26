@@ -131,3 +131,34 @@ Not ranked (fewer than 50 videos, or not counted): last-owner (31, 1.26x)
 | upsell | "The your heat exchanger is cracked so your furnace must be replaced scam" (grayfurnaceman, 299K, 260.0x, `X3Y-yA42UBk`)<br>"The $99 AC Tune-Up Scam: What They Do In 22 Minutes (And What They're Really Selling)" (HVAC Exposed, 65K, 36.1x, `dk1Kexym_T8`)<br>"The "It will pay for itself" gas furnace scam" (grayfurnaceman, 39K, 33.9x, `jH6ySAvwzas`) |
 | service-call | "Furnace wont start.  What to do before calling the repair man." (grayfurnaceman, 1.20M, 1043.5x, `yJxDc90hs4g`)<br>"If You Knew This, You Wouldn't Get an Air Conditioner Inspection" (Word of Advice TV, 196K, 15.1x, `JqNsEzb__qs`)<br>"HVAC Blower Motor Replacement DIY – Save $1,000+ in 1 Hour!" (Deanin' It Yourself, 36K, 14.4x, `EBk-MJ4sD2M`) |
 | last-owner | "THIS Is Why Your AC Runs All Day — And the $50 Fix Your House Was Built Without" (Old Ways Restored, 22K, 36.1x, `7ciNuwvmDfs`)<br>"10 WWII Cabin Heating Secrets — Why Did Modern Builders Forget These?" (Historia Prime, 306K, 27.8x, `lPZo_xlSYmI`)<br>"Medieval Builders Knew About LOG CABIN Heating That Modern Ones Forgot" (Medieval Wisdom, 152K, 23.2x, `CmEmlwUpmjQ`) |
+
+## Faceless personas only (Roger's model), last 12 months
+
+Ranking needs 30+ videos here.
+
+| Format | Videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ |
+|---|---:|---:|---:|---:|---:|---:|
+| only-x | 113 | 32 | 43% | 2.2K | 2.48x | 53% |
+| test | 46 | 22 | 39% | 2.8K | 1.97x | 49% |
+| secret | 364 | 74 | 19% | 1.2K | 1.30x | 36% |
+| myth | 89 | 46 | 24% | 754 | 1.17x | 42% |
+| cheap-hack | 362 | 82 | 19% | 1.0K | 1.14x | 37% |
+| how-to | 127 | 54 | 18% | 1.0K | 1.11x | 42% |
+| mistakes | 144 | 53 | 21% | 331 | 1.04x | 22% |
+| symptom-fix | 48 | 25 | 31% | 308 | 0.98x | 19% |
+| before-you | 108 | 49 | 19% | 452 | 0.94x | 32% |
+| explainer | 71 | 36 | 30% | 702 | 0.75x | 31% |
+
+Not ranked (fewer than 30 videos, or not counted): x-vs-y (25, 1.71x); install-diy (18, 1.17x); news-warning (18, 1.15x); review (13, 0.64x); story (12, 0.91x)
+
+| Villain | Videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ |
+|---|---:|---:|---:|---:|---:|---:|
+| maker-shelf | 108 | 38 | 39% | 1.9K | 1.62x | 44% |
+| hvac-company | 142 | 41 | 29% | 1.2K | 1.60x | 41% |
+| upsell | 38 | 20 | 39% | 1.5K | 1.27x | 36% |
+| insider | 37 | 21 | 35% | 515 | 1.22x | 38% |
+| none | 993 | 111 | 14% | 1.0K | 1.15x | 36% |
+| own-habit | 156 | 61 | 18% | 406 | 1.08x | 28% |
+| utility | 49 | 28 | 33% | 1.1K | 0.99x | 33% |
+
+Not ranked (fewer than 30 videos, or not counted): service-call (25, 0.83x); last-owner (10, 1.00x)

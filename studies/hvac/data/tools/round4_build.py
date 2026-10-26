@@ -151,7 +151,8 @@ def biggest(rows, k=5):
     return "<br>".join(f"\"{md(r['title'])[:90]}\" ({md(r['channel'])}, {fnum(r['views'])}, {num(r['multiple']) or 0:.1f}x, `{r['video_id']}`)" for r in rr) or "-"
 
 
-def table(groups, title_col, recent_only=False):
+def table(groups, title_col, recent_only=False, min_n=None, names=None):
+    min_n = min_n or MIN_N
     L = [f"| {title_col} | Videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ |", "|---|---:|---:|---:|---:|---:|---:|"]
     small = []
     items = []
@@ -161,13 +162,13 @@ def table(groups, title_col, recent_only=False):
         s = stats(rr)
         if k == "adjacent":
             small.append((k + " (not counted: labels.md)", s)); continue
-        (items if s["n"] >= MIN_N else small).append((k, s))
+        (items if s["n"] >= min_n else small).append((k, s))
     items.sort(key=lambda x: -(x[1]["med_mult"] or 0))
     for k, s in items:
-        L.append(f"| {k} | {cells(s)} |")
+        L.append(f"| {k}{(' ' + names.get(k, '')) if names else ''} | {cells(s)} |")
     if small:
         L.append("")
-        L.append(f"Not ranked (fewer than {MIN_N} videos, or not counted): " + "; ".join(
+        L.append(f"Not ranked (fewer than {min_n} videos, or not counted): " + "; ".join(
             f"{k} ({s['n']}, {'n/a' if s['med_mult'] is None else format(s['med_mult'], '.2f') + 'x'})" for k, s in sorted(small, key=lambda x: -x[1]['n'])))
     return L
 
@@ -301,6 +302,10 @@ def main():
             L.append(f"| {e} {EMO.get(e, '')} | {c:,} | {100 * c / len(rows_sn):.0f}% | "
                      f"{'n/a' if lift is None else f'{lift:.2f}'} | {len(rr12):,} | {'n/a' if lift12 is None else f'{lift12:.2f}'} | {examples(rr12 or rr, 2)} |")
         L.append("")
+    L += ["## Faceless personas only (Roger's model), last 12 months\n",
+          "The same measure on faceless-persona channels only (type from the census), the closest thing to Roger's own "
+          f"channel. Ranking needs 30+ videos here.\n"] + table(
+        {e: [r for r in by_emo[e] if r.get("type") == "faceless persona"] for e in by_emo}, "Emotion", True, min_n=30, names=EMO)
     open(os.path.join(STUDY, "emotions.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- subniches.md (deliverable 3, rebuilt)
@@ -329,6 +334,8 @@ def main():
     for sn in sorted(by_sn, key=lambda k: -len(by_sn[k])):
         tc = Counter(r["channel"] for r in by_sn[sn]).most_common(3)
         L.append(f"| {sn} | " + "; ".join(f"{md(c)} ({n})" for c, n in tc) + f" | {biggest(by_sn[sn])} |")
+    L += ["", "## Faceless personas only (Roger's model), last 12 months\n", "Ranking needs 30+ videos here.\n"] + table(
+        {k: [r for r in v if r.get("type") == "faceless persona"] for k, v in by_sn.items()}, "Sub-niche", True, min_n=30)
     open(os.path.join(STUDY, "subniches.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- formats.md (formats and villains)
@@ -351,6 +358,9 @@ def main():
     L += ["", "## Villain examples (by multiple, 1K+ views)\n", "| Villain | Examples |", "|---|---|"]
     for k in sorted(by_vil, key=lambda k: -len(by_vil[k])):
         L.append(f"| {k} | {examples(by_vil[k])} |")
+    L += ["", "## Faceless personas only (Roger's model), last 12 months\n", "Ranking needs 30+ videos here.\n"] + table(
+        {k: [r for r in v if r.get("type") == "faceless persona"] for k, v in by_fmt.items()}, "Format", True, min_n=30)
+    L += [""] + table({k: [r for r in v if r.get("type") == "faceless persona"] for k, v in by_vil.items()}, "Villain", True, min_n=30)
     open(os.path.join(STUDY, "formats.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
     # ---- summary

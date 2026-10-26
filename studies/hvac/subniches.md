@@ -150,3 +150,26 @@ Not ranked (fewer than 50 videos, or not counted): adjacent (not counted: labels
 | scam-upsell | Ray Dutton's Garage (8); Air Plus Montreal (6); HVAC Exposed (6) | "Air Duct Cleaning Scam Exposed!" (Pleasant Green, 3.42M, 3.8x, `J_FMXc7F_bM`)<br>"Beware of HVAC Scams!!" (Fowler Heating & Cooling, 712K, 2218.1x, `TWbeNfVOKWo`)<br>"Beware Of Duct  Cleaning Scams" (AAAHeatingCooling, 646K, 1176.7x, `gebcbG5P-0Y`)<br>"Too Many Homeowners Fall For This HVAC Scam" (The DIY HVAC Guy, 600K, 14.5x, `G28gDPLDgRw`)<br>"Don’t Get Ripped Off! How To Avoid The AC Capacitor Scam And Save $500" (How To Home, 559K, 2.8x, `JGO93EgXWSI`) |
 | ac-portable | Consumer Analysis (10); Fer's Reviews (8); The Last Honest Influencer (6) | "Portable Air Conditioners - Why you shouldn't like them" (Technology Connections, 10.00M, 5.4x, `_-mBeYC2KGc`)<br>"(1 YEAR REVIEW) black & decker “portable air conditioner” 12000 btu" (Live Free, 3.70M, 10755.8x, `RJQyCq9R6Cs`)<br>"How to Install a Portable AC Unit in a Window (Step-by-Step)" (HowToWith GEO, 822K, 685.0x, `ovyHVr0DNW4`)<br>"10 Ways to Vent a Portable Air Conditioner" (Word of Advice TV, 556K, 42.8x, `EjQH6H_31ME`)<br>"This Tiny Portable AC can Keep Anyone COOL - 14,000 BTU Dreo - Single Hose Trigger Warning" (Silver Cymbal, 528K, 6.6x, `NsPBamTmOPM`) |
 | fuel-choice | The Thought Provocateur (6); Everything Electric TECH (4); Heat Geek (4) | "Fueling Our Off Grid Property with Coal & Heating Oil" (Simple Living Alaska, 741K, 1.8x, `JKX9T7EZGTc`)<br>"Hydrogen Boilers, Heat Pumps & The Future of Heating" (Skill Builder, 493K, 10.1x, `4uNKPDREa-Q`)<br>"HERSCHEL Infrared Heating - The Smart Route to Net Zero Heating" (Everything Electric TECH, 238K, 6.0x, `zSzYSfkwrts`)<br>"Heat Pump Vs. Furnace - Which is BETTER?" (Atlas AC, 212K, 11.2x, `OAok8omYqSY`)<br>"Ditching a Heat Pump for In-Plaster Infrared Heating?!" (Everything Electric TECH, 210K, 5.3x, `aPJ9VNKCWsk`) |
+
+## Faceless personas only (Roger's model), last 12 months
+
+Ranking needs 30+ videos here.
+
+| Sub-niche | Videos | Channels | Top 3 channels' share | Median views | Median multiple | Share at 2x+ |
+|---|---:|---:|---:|---:|---:|---:|
+| brand-verdict | 82 | 14 | 57% | 2.1K | 3.38x | 56% |
+| ac-central | 134 | 30 | 28% | 938 | 1.52x | 40% |
+| offgrid-heat | 313 | 66 | 20% | 1.9K | 1.50x | 42% |
+| drafts-insulation | 132 | 60 | 20% | 822 | 1.33x | 39% |
+| thermostat | 53 | 37 | 23% | 406 | 1.32x | 35% |
+| filter | 33 | 25 | 27% | 357 | 1.25x | 36% |
+| cooling-no-ac | 149 | 38 | 26% | 1.2K | 1.15x | 38% |
+| humidity-air | 37 | 25 | 24% | 1.8K | 1.02x | 29% |
+| outage-heat | 162 | 55 | 20% | 846 | 0.97x | 32% |
+| hvac-general | 70 | 34 | 36% | 432 | 0.95x | 25% |
+| seasonal-maint | 71 | 44 | 18% | 548 | 0.95x | 33% |
+| scam-upsell | 39 | 14 | 49% | 1.2K | 0.94x | 28% |
+| energy-bill | 107 | 60 | 21% | 356 | 0.85x | 21% |
+| furnace | 50 | 26 | 36% | 470 | 0.80x | 25% |
+
+Not ranked (fewer than 30 videos, or not counted): adjacent (not counted: labels.md) (27, 1.24x); ducts-vents (21, 1.33x); buy-replace (17, 1.27x); heat-pump (17, 0.52x); ac-portable (10, 1.17x); parts (9, 2.44x); mini-split (8, 0.95x); boiler-oldheat (7, 0.83x); fuel-choice (5, 0.38x); noise-smell-error (3, 1.27x); ac-window (2, 11.15x)
