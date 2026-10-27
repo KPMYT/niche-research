@@ -24,5 +24,6 @@ Ideation built on this study (`../CONCLUSIONS.md`). Channel-neutral while the ch
 | `titles-50-v2.csv` | The 50 titles rebuilt on proven topics and proven formats (version 1 kept as `titles-50.csv`). |
 | `round-2.html` | Round 2: the kept round-1 ideas (1, 2, 7, 12, 14, 29, 30, 31, 33), the Silver Cymbal copies and the 50 v2 titles, each with topic proof and heat (published privately: https://claude.ai/artifact/Mxf5cotJEuSLjDFnWAtdL9). Built by `../data/tools/build_round2_page.py`. |
 | `initial-ideas.csv`, `initial-ideas.html` | The operator's 17 initial ideas (round 2 picks: A all 9, B 3 6 7 10 11, C 2 12 15) with reference, heat and thumbnail advice (published privately: https://claude.ai/artifact/QnG8dP83G7LZ84rpat3Qek). Built by `../data/tools/build_initial_page.py`. |
+| `thumb-instructions.csv`, `thumb-instructions.xlsx` | Short thumbnail instructions for the 17 (operator-approved advice; A1 per the operator: the reference with its 2 arrows, only the text and character changed, logo removed), with links to each reference video and thumbnail, and a style reference for A30, C2 and C12. Built by `../data/tools/build_thumb_instructions.py`. |
 
 Not yet: the operator's picks, the ideation skill, the base ideation plan and the thumbnail plan (on the operator's call).
