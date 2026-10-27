@@ -6,7 +6,7 @@ Each plan ends with a **SEED** line for the `thumbnails` skill (with `CHANNEL: R
 
 | # | Title | Layout · Roger | Hero / scene | Text | Device · link |
 |---|---|---|---|---|---|
-| 1 | The 9 Thermostat Habits That Wear Out Your Furnace Years Early | Beside · left third, pointing, serious | a big wall thermostat reading 80, finger-width up arrow pressed | red band: STOP DOING THIS | red circle on the 80 · complete |
+| 1 | The 9 Thermostat Habits That Wear Out Your Furnace Years Early | Beside · left third, pointing, serious | a big wall thermostat reading 80, finger-width up arrow pressed | red band: WEARING IT OUT (STOP DOING THIS is Ray's) | red circle on the 80 · complete |
 | 2 | Do These 9 Things Before the First Cold Snap (Or Pay for It All Winter) | Held · centred, holding a filthy grey filter across his chest | open furnace behind, frost on the basement window | red band: BEFORE IT FREEZES | none · raise (deadline) |
 | 3 | The $5 Filter That Protects Your Furnace Better Than the $30 One (Here's Why) | Framed by a pair · centred, a filter in each hand, knowing half-smile | purple-and-black "premium" filter left, plain white pleated right | $30 over the left, $5 over the right | none · prove |
 | 4 | 11 Furnace Mistakes HVAC Companies Hope You Keep Making | Beside · right third, pointing, knowing | clogged filter jammed in the furnace slot, boxes against the cabinet | red band: THEY LOVE THIS | red arrow on the filter · raise (who profits) |
@@ -29,7 +29,7 @@ Each plan ends with a **SEED** line for the `thumbnails` skill (with `CHANNEL: R
 
 ## SEED lines
 
-1. SEED: Roger beside a thermostat reading 80, pointing · beside layout, red band STOP DOING THIS, red circle on the 80 · pattern #20
+1. SEED: Roger beside a thermostat reading 80, pointing · beside layout, red band WEARING IT OUT, red circle on the 80 · pattern #20
 2. SEED: Roger holding a filthy filter across his chest, frost on the basement window · held layout, red band BEFORE IT FREEZES · pattern #21
 3. SEED: Roger holding the purple $30 filter and the white $5 filter · framed by a pair, $30 / $5 labels · pattern #28
 4. SEED: Roger pointing at a clogged filter jammed in the furnace · beside, red band THEY LOVE THIS, red arrow · pattern #20
