@@ -35,7 +35,7 @@ From the hand labels, faceless personas, last 12 months (`emotions.md`, `formats
 
 **Titles.** Formats by median multiple, faceless personas: "the only X worth buying" 2.48x, test or ranked verdict 1.97x, secret / "they don't tell you" 1.30x; weakest: explainer 0.75x, symptom fix 0.98x, mistakes 1.04x. On the operator's own channels the engine now is substance × fixture (F23, F24, F49, F7); F1 NEVER lists, F3 SECRETS and F9 mistakes are flat there (0.46-0.59x) though Ray's mistakes and habits titles still win in HVAC. **Batch 1 mixes both on purpose** (4 Ray remakes, 6 own formats, 6 real-person topics), so November's views decide which engine HVAC follows. Copying Ray's exact templates doesn't work for others (115 titles on 51 channels, median 450 views); his method does: take a proven outlier, push it to a bigger list or its inverse, add the season, rerun a winner within days.
 
-**Thumbnails** (operator: "later"; the plan is pending, see §7). The persona house style is an AI older man + 2-5 bold words + a red arrow (81 of the main channels' top-5 thumbnails). The biggest videos often have no headline text. Ray's look (grey-haired man, navy shirt, "RAY" patch) has been copied by 9 channels and none is well above its tier, so Roger should not take it. **Proposal:** Roger the Pipe Guy's own look, moved into a furnace room or beside the outdoor unit. Page: HVAC Thumbnail Atlas, https://claude.ai/artifact/NmxFR6D24eSFyQ9hSpB8Vz.
+**Thumbnails** (operator, 2026-10-27: "roger the hvac guy shows a person. it follows ray dutton style mixed with rogers"). The persona house style is an AI older man + 2-5 bold words + a red arrow (81 of the main channels' top-5 thumbnails); the biggest videos often have no headline text. Roger takes Ray's build (an older tradesman pointing at the part, white caps on a red band, a red arrow) mixed with Roger the Pipe Guy's (the pour, the household agent, BEFORE/AFTER, the NOT-X negation), with Roger's own character and outfit, never Ray's face or navy "RAY" shirt (9 channels copy Ray's identity and none is well above its tier). Pack: `ideation/hvac-ideation/references/niche-packs.md`; plans: `studies/hvac/ideation/batch1-thumbnail-plans.md`. Page: HVAC Thumbnail Atlas, https://claude.ai/artifact/NmxFR6D24eSFyQ9hSpB8Vz.
 
 ## 4. Gaps
 
@@ -49,7 +49,7 @@ From the hand labels, faceless personas, last 12 months (`emotions.md`, `formats
 Ray is a polished version of HVAC Mike (same look and e-book pitch, 20 days earlier), takes titles from small faceless exposé channels (HVAC Exposed above all) and wins mainly with his own reruns. Roger stands apart by:
 
 1. **His own engine:** the substance × fixture formats Ray doesn't use, plus brand verdicts, which Ray has never made.
-2. **His own look and name:** Roger the Pipe Guy's persona, not Ray's navy shirt.
+2. **His own character and name:** Ray's thumbnail build, but Roger's own face and outfit, mixed with Roger the Pipe Guy's pour and before/after shots.
 3. **Distribution Ray doesn't have:** a collab credit with Roger the Pipe Guy (76.9K subs), if the operator says yes. Every big Mark and Vintage hit since July carried it.
 4. **Trust:** fact-checked briefs with real prices and safety lines. Ray's claims aren't checked; Roger's honesty is the moat, as in plumbing.
 5. **Taking Ray's thinking, not his titles:** outliers, inverses, bigger lists, the season, fast reruns.
@@ -70,7 +70,7 @@ For the scripting chat in `KPMYT/script-system` that builds the HVAC niche pack 
 
 ## 7. Open items
 
-1. Thumbnails: Roger the Pipe Guy's look in an HVAC setting (proposed, §3); the `thumbnails` skill needs a Roger the HVAC Guy file (a skill change, so the operator's yes first).
+1. Thumbnails: the Roger character image and his HVAC outfit; the `thumbnails` skill needs the Roger the HVAC Guy files (drafted in `ideation/thumbnails-upload/`; a skill change, so the operator's yes first).
 2. Collab credit with Roger the Pipe Guy: yes or no.
 3. The five filing calls in `round7-report.md` §4 (contractors, outage channels, stove channels, channel types, four sub-niche codes): suggested yes to all; none changes batch 1.
 4. Later: an e-book (Ray's "The HVAC Survival Guide" is $27; 26 of 66 persona channels sell one); the HVAC ideation skill once the first uploads have view data; batch 2 for December with a brand verdict.

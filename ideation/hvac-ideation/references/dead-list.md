@@ -4,7 +4,7 @@ A dead entry suppresses default generation only; an explicit operator request al
 
 | Entry | Scope | Dated | Evidence | Re-test after | Note |
 |---|---|---|---|---|---|
-| Ray Dutton's exact templates and his thumbnail look, copied word for word | packaging | 2026-10-26 | 115 copycat titles on 51 channels, median 450 views; 9 look-alike channels, none well above its tier | 2027-04 | Take his method (bigger list, inverse, season, fast rerun), not his wording. Not a dead topic. |
+| Ray Dutton's exact title templates copied word for word, and his identity on thumbnails (his face, navy "RAY" shirt) | packaging | 2026-10-26 | 115 copycat titles on 51 channels, median 450 views; 9 look-alike channels, none well above its tier | 2027-04 | Take his method and his thumbnail build (operator 2026-10-27), with Roger's own character. Not a dead topic. |
 | Plain explainers ("how X works") | format expression | 2026-10-26 | explainer median 0.75x for HVAC personas (71) | 2027-04 | Re-attack with F10, F21 or F32. |
 | Old-house heat as a lane | topic | 2026-10-24 | 2 videos past 100k in a year on matched keywords against AC's 72; the big ones British | 2027-10 | Single titles fine if packaged as drafts or the bill. |
 | Craft and off-grid stove builds | topic, footage | 2026-10-26 | the lane is led by real-footage build channels; a faceless channel can't show the build | — | The knowledge angle (what's safe, what works) stays open. |
