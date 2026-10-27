@@ -2,7 +2,7 @@
 
 - **Niche:** HVAC — read `niches/hvac.md` first.
 - **Presence:** face on thumbnails (talking-head rules) — the videos are faceless voiceover; the thumbnails show the Roger character (operator, 2026-10-27: "roger the hvac guy shows a person. it follows ray dutton style mixed with rogers").
-- **Status:** DRAFT (endorsed-pending), 2026-10-27.
+- **Status:** Approved by the operator 2026-10-27 ("yes yes goof for these skill files additions").
 
 ---
 

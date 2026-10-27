@@ -6,7 +6,7 @@ Read this before the channel file. The channel file is more specific and wins wh
 
 ## Status
 
-**DRAFT (2026-10-27)** — built from the HVAC study's 471 labelled thumbnails (niche-research `studies/hvac/round5/`) and Roger the Pipe Guy's pack. Endorsed-pending.
+**Approved by the operator 2026-10-27 ("yes yes goof for these skill files additions")**, built 2026-10-27 from the HVAC study's 471 labelled thumbnails (niche-research `studies/hvac/round5/`) and Roger the Pipe Guy's pack.
 
 ## Niche notes
 

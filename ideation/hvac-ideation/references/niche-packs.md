@@ -2,7 +2,7 @@
 
 The `thumbnails` skill loads the named channel's pack as standing context. The upload-ready versions of this pack (a niche file, a channel file and the index line) are in `niche-research/ideation/thumbnails-upload/`; they go into the thumbnails skill only after the operator's yes.
 
-**Status: DRAFT (2026-10-27), built from the HVAC study's 471 labelled thumbnails** (`niche-research/studies/hvac/round5/`, the HVAC Thumbnail Atlas https://claude.ai/artifact/NmxFR6D24eSFyQ9hSpB8Vz) and Roger the Pipe Guy's pack ("same as rogers pipe guy in most aspects", operator 2026-10-27).
+**Status: Approved by the operator 2026-10-27 ("yes yes goof for these skill files additions"); built 2026-10-27 from the HVAC study's 471 labelled thumbnails** (`niche-research/studies/hvac/round5/`, the HVAC Thumbnail Atlas https://claude.ai/artifact/NmxFR6D24eSFyQ9hSpB8Vz) and Roger the Pipe Guy's pack ("same as rogers pipe guy in most aspects", operator 2026-10-27).
 
 ## What the HVAC thumbnail data says (readings, 2026-10-26)
 
@@ -15,7 +15,7 @@ The `thumbnails` skill loads the named channel's pack as standing context. The u
 ## Roger the HVAC Guy
 
 - **Operator decision (2026-10-27):** "roger the hvac guy shows a person. it follows ray dutton style mixed with rogers". The thumbnails show the Roger character; the videos stay faceless voiceover.
-- **Presence on thumbnails:** face (talking-head rules in the thumbnails skill): the Roger character is in every thumbnail unless the operator says otherwise. The character image is attached in Nanobanana as Image 1 and locked in one line; it is described only if no image is attached. **Open:** whether this is the same Roger character as Roger the Pipe Guy's face thumbnails (his channel file says keep one character on every face use), and his HVAC outfit.
+- **Presence on thumbnails:** face (talking-head rules in the thumbnails skill): the Roger character is in every thumbnail unless the operator says otherwise. The character image is attached in Nanobanana as Image 1 and locked in one line; it is described only if no image is attached. His look and outfit are designed by the operator's thumbnail artist (operator, 2026-10-27: "it will be done by the thumb artist").
 - **Ray Dutton's build (take it):** an older tradesman, chest-up, square to camera, pointing at the part; the part big and bright; white caps on a solid red band for a 2-5 word warning; one curved red arrow onto the detail when it adds a landing point.
 - **Ray Dutton's identity (don't take it):** his face, the navy work shirt with a "RAY" name patch, his exact wording. Roger's own outfit, colour and patch (if any) stay his.
 - **Roger the Pipe Guy's mix-ins:** the pour or action shot on the hero (vinegar into the trap, slime gushing out), the household agent held up, the BEFORE/AFTER split for cheap-fix-vs-quote titles, the expected-answer negation in text (NOT **BLEACH**), zero-text frames when the image says it all, 4 words or fewer.

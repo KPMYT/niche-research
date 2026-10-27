@@ -58,7 +58,7 @@ Canonical source for the HVAC column of core `scoreboard.md` (once the operator 
 
 - **In:** heating (furnaces, heat pumps, boilers lightly, space heaters, fireplaces and wood stoves when about heating the home), cooling (central, window, portable, mini-split, fans, shade), filters and air quality, humidity, thermostats, ducts and vents, condensate drains, the heating and cooling bill, drafts and insulation **when the title is about heat, cooling or the bill**, outage heat (generators only when about keeping the house warm).
 - **Out:** generator and power-station product reviews; solar-only content; craft and off-grid stove builds (footage-bound); water heaters (plumbing's lane — they stay with Mark Silverbridge and Roger the Pipe Guy); dryer vents (plumbing probe lane).
-- **Overlap to settle:** Werner Finkbeiner's probe lane in `plumbing-ideation` includes HVAC and energy topics; now that HVAC has its own skill, those probes stay on Werner's German lens only (see `../core-proposals.md`).
+- **Werner Finkbeiner's HVAC probes:** Werner was stopped on 2026-10-22 ("werner is killed. dead channel now"), so plain and German-lens HVAC topics alike belong to Roger the HVAC Guy. His two HVAC probes stay in `reference-titles.md` as data. Removing his lane from `plumbing-ideation` waits for the operator's yes.
 
 ## 4. Price list for briefs (starting point)
 

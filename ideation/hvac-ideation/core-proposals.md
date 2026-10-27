@@ -1,4 +1,6 @@
-# Proposed changes to ideation-core and plumbing-ideation (pending the operator's yes)
+# Proposed changes to ideation-core and plumbing-ideation
+
+**Operator, 2026-10-27: "yes yes goof for these skill files additions".** Applied 2026-10-27: 1-5 in `KPMYT/script-system` `ideation/ideation-core/`; 7 and 8 as upload packages (`ideation/thumbnails-upload/thumbnails.skill`, `ideation/hvac-ideation.skill`). **Change 6 held:** Werner Finkbeiner was stopped on 2026-10-22 ("werner is killed. dead channel now", script-system `HANDOFF.md`), so a line routing his HVAC probes is moot; removing his HVAC lane is a separate cleanup that waits for the operator's yes.
 
 These are the core and sibling-skill edits a new niche needs (core `launch-playbook.md` §4). None is made yet: `ideation-core` and `plumbing-ideation` live in `KPMYT/script-system/ideation/` and in the installed skills, and the working rule is no skill change without the operator's explicit yes to that specific change. Each line is shown exactly as it would go in.
 
