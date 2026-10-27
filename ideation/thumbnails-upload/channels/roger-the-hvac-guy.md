@@ -6,7 +6,7 @@
 
 ---
 
-- **Character:** the Roger character, attached in Nanobanana as Image 1 (locked in one line). A 45-year tradesman, "same as rogers pipe guy in most aspects". Open: whether it is the same character as Roger the Pipe Guy's face thumbnails, and his HVAC outfit. Never Ray Dutton's face, navy work shirt or "RAY" name patch.
+- **Character:** the Roger character, attached in Nanobanana as Image 1 (locked in one line). A 45-year tradesman, "same as rogers pipe guy in most aspects". His look and outfit are designed by the operator's thumbnail artist (operator, 2026-10-27: "it will be done by the thumb artist"); use the artist's Roger once set, the same every time. Never Ray Dutton's face, navy work shirt or "RAY" name patch.
 - **Ray's build (use it):** Roger chest-up on a side third, square to camera, pointing at the part; the part big and brighter than his face; white caps on a solid red band for a 2-5 word warning (sanctioned for this channel); one curved red arrow onto the detail when it adds a landing point.
 - **Roger the Pipe Guy's mix-ins:** the pour or action on the hero; the household agent held up; BEFORE/AFTER split for cheap-fix-vs-quote titles (Roger at one edge beside the split); the expected-answer negation (NOT **BLEACH**); zero text when the image says it all.
 - **Layouts to rotate:** beside · held (bottle or filter tilted at chest height) · close-up · macro detail (Roger in a top corner looking at the detail) · line-up · doing the job. Never the same layout twice in a row.
