@@ -5,8 +5,8 @@ from data import REFNAME, ITEMS
 TH, OUT, MD = sys.argv[1:4]
 e = html.escape
 RULES = [
- "<b>Roger is in every thumbnail.</b> Use the Roger character image, the same face every time.",
- "<b>Not Ray.</b> Never Ray Dutton's face, his navy work shirt or his \"RAY\" name patch. Roger's shirt: <b>[to confirm]</b>.",
+ "<b>Roger is in every thumbnail.</b> His look and outfit are yours to design. Once he's set, use the same Roger every time.",
+ "<b>Not Ray.</b> Never Ray Dutton's face, his navy work shirt or his \"RAY\" name patch.",
  "<b>One main thing</b> in the picture, big and the brightest thing in the frame (brighter than Roger's face).",
  "<b>Text:</b> white capitals with a black outline, or white capitals on a solid red band (like Ray's). 4 words or fewer. Never cover Roger's face or hands.",
  "<b>One red arrow or one red circle</b>, never both. No check marks or X marks. No zoom circles or magnifier bubbles.",

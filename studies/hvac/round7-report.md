@@ -63,6 +63,8 @@ Across all channel types the pattern is similar: tests (1.52x) and "the only X" 
 
 ## 4. Calls taken by default, for the operator to confirm
 
+**Confirmed by the operator, 2026-10-27: "4 yes"** (all five calls stand as written).
+
 1. Contractor channels that teach homeowners count as competitors (tier A, marked "contractor").
 2. Outage or off-grid channels whose videos are mostly HVAC count as tier A, with their lane noted.
 3. DIY stove-building craft channels (cement and barrel stoves) moved from A to the off-grid lane (C), and kept out of the top 100 where they're cooking or craft stoves.

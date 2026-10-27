@@ -2,8 +2,8 @@
 
 ## Rules for every thumbnail
 
-- **Roger is in every thumbnail.** Use the Roger character image, the same face every time.
-- **Not Ray.** Never Ray Dutton's face, his navy work shirt or his "RAY" name patch. Roger's shirt: **[to confirm]**.
+- **Roger is in every thumbnail.** His look and outfit are yours to design. Once he's set, use the same Roger every time.
+- **Not Ray.** Never Ray Dutton's face, his navy work shirt or his "RAY" name patch.
 - **One main thing** in the picture, big and the brightest thing in the frame (brighter than Roger's face).
 - **Text:** white capitals with a black outline, or white capitals on a solid red band (like Ray's). 4 words or fewer. Never cover Roger's face or hands.
 - **One red arrow or one red circle**, never both. No check marks or X marks. No zoom circles or magnifier bubbles.

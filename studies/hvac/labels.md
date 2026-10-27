@@ -148,6 +148,10 @@ From the topic list in `RESEARCH-BRIEF.md` section 1, refined. One per video: th
 | alternative and supplemental heat (off-grid heat) | Pellet and wood stoves, diesel heaters, space heaters, and the "free heat" / "forgotten trick" heat videos (candle and rocket heaters, earth tunnels, salt buckets). Mapped as its own sub-niche (operator, 2026-10-24). Space-heater safety is also the electrical study's. |
 | brand verdicts | Which brands or models to buy or avoid, across a category. |
 | buying and replacing a system (NEW, approved by the operator 2026-10-24) | Quotes, sizing, repair or replace, contractor choice, replacement costs. Added under "anything else the search turns up"; none in the seeds so far. |
+| scams and upsells (NEW, approved by the operator 2026-10-27) | The title is about being ripped off or sold more than you need, across equipment (code `scam-upsell`). |
+| cooling without AC (NEW, approved by the operator 2026-10-27) | Cooling tricks, DIY and evaporative coolers, fans, when no air conditioner is the subject (code `cooling-no-ac`). |
+| noises, smells and error codes (NEW, approved by the operator 2026-10-27) | A noise, a smell or an error code is the subject, not the equipment (code `noise-smell-error`). |
+| general HVAC (NEW, approved by the operator 2026-10-27) | About heating and cooling in general, with no equipment named (code `hvac-general`). |
 | adjacent or out of scope | Water heaters (plumbing), frozen pipes (plumbing), solar, cars. Recorded as "adjacent: ..." or "out of scope: ..." so they can be seen but not counted. |
 
 ---

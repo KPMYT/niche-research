@@ -19,7 +19,7 @@ For the round 4 labelling helpers. The full definitions are in `../labels.md` (s
 
 `ac-central`, `ac-window`, `ac-portable`, `mini-split`, `heat-pump`, `furnace`, `boiler-oldheat` (boilers, radiators, steam, baseboard, oil burners), `fuel-choice`, `thermostat`, `filter`, `ducts-vents`, `parts` (capacitors, contactors etc.), `seasonal-maint`, `energy-bill`, `drafts-insulation`, `humidity-air` (dehumidifiers, humidifiers, mould, purifiers, ventilation), `outage-heat` (warm or cool with no power), `offgrid-heat` (wood/pellet stoves, diesel heaters, space heaters, "free heat" tricks), `brand-verdict`, `buy-replace` (quotes, sizing, repair or replace, cost, contractor choice), `scam-upsell` (the title is about being ripped off), `cooling-no-ac` (cooling tricks, DIY coolers, evaporative coolers, fans), `noise-smell-error` (noises, smells, error codes as the subject), `hvac-general` (no equipment named), `adjacent` (water heaters, frozen pipes, solar, generators not about heat).
 
-Proposed codes not yet in `labels.md` (to put to the operator): `scam-upsell`, `cooling-no-ac`, `noise-smell-error`, `hvac-general`.
+Proposed codes not yet in `labels.md` (to put to the operator): `scam-upsell`, `cooling-no-ac`, `noise-smell-error`, `hvac-general`. **Update 2026-10-27:** the operator said yes; all four are now in `labels.md`.
 
 ## Format codes (first match, in this order)
 
