@@ -1,0 +1,3925 @@
+{
+ "key": "UCNXmHUxNpoa_DiC54VxkJjg",
+ "channel": "HVAC 2.0",
+ "id": "UCNXmHUxNpoa_DiC54VxkJjg",
+ "subs": "928 subscribers",
+ "videos": "310 videos",
+ "pulled": "2026-10-26T06:56:02.908341+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "o0LWK5x93Jw",
+    "title": "Debrief Andre's first sale using HVAC20 Free Quote Process",
+    "meta": [
+     "27",
+     "5mo ago"
+    ],
+    "dur": "45:51",
+    "views_tab": 27
+   },
+   {
+    "id": "_WnYUZ5vexk",
+    "title": "Brainstorming Likely Load, Free Quote, and lean to green sizing logic",
+    "meta": [
+     "22",
+     "1y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 22
+   },
+   {
+    "id": "Tv-ONZNMz1g",
+    "title": "FSD is getting really good. Fair to say its a bad idea to buy a new car that can never drive itself.",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 24
+   },
+   {
+    "id": "B3hDSb19kHw",
+    "title": "Ronnie is going to start training people on HVAC20",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 27
+   },
+   {
+    "id": "cMmdhZpyaEA",
+    "title": "HVAC20 Likely Load Range helps homeowners pick the right size equipment for their situation",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 15
+   },
+   {
+    "id": "GFlq0oK6d6o",
+    "title": "Customers love the HVAC20 Free Quote Process. Nobody else is teaching them what they need to know!",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 9
+   },
+   {
+    "id": "keQR7yw9dTg",
+    "title": "HVAC20 Comfort Consult was the first HVAC sales process we built into software",
+    "meta": [
+     "22",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 22
+   },
+   {
+    "id": "wyFK3zbzLQs",
+    "title": "EDS Load Calc vs EDS Auditor - if load calc accuracy matters to you",
+    "meta": [
+     "14",
+     "1y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 14
+   },
+   {
+    "id": "Iemh5H-WrHo",
+    "title": "Ronnie moved his system from the basement to his encapsulated attic and the result blew his mind ...",
+    "meta": [
+     "20",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 20
+   },
+   {
+    "id": "gXiNGeO6Opk",
+    "title": "Ronnie's company downsized it's default size match in PriceBook because of HVAC20 Likely Load Range",
+    "meta": [
+     "17",
+     "1y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 17
+   },
+   {
+    "id": "lhDiOGxejqU",
+    "title": "When you've tested enough ductwork, you build fairly accurate intuition about capacity",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "0:55",
+    "views_tab": 9
+   },
+   {
+    "id": "LY5Be8xdeAc",
+    "title": "Educating Homeowner about oversizing to duct capacity",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 15
+   },
+   {
+    "id": "QXCjLRyGAIQ",
+    "title": "Likely Load Range expresses uncertainty of a load calc where many inputs are guesses",
+    "meta": [
+     "19",
+     "1y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 19
+   },
+   {
+    "id": "ZHRANbiDpOs",
+    "title": "Oversized AC Units in Rental Units - 2t unit delivering .75t",
+    "meta": [
+     "70",
+     "1y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 70
+   },
+   {
+    "id": "hGnaV0cLMQ4",
+    "title": "REVENUE PER LEAD $4k minimum expectation",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 50
+   },
+   {
+    "id": "3eh3CFdG7ew",
+    "title": "Eric discussing how HVAC20 software will track Revenue Per Lead June 2025",
+    "meta": [
+     "18",
+     "1y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 18
+   },
+   {
+    "id": "Z2Y7MAr-5B8",
+    "title": "HVAC20 software pricing",
+    "meta": [
+     "34",
+     "1y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 34
+   },
+   {
+    "id": "r5benWPHhXk",
+    "title": "Following the HVAC20 Free Quote Process in software",
+    "meta": [
+     "33",
+     "1y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 33
+   },
+   {
+    "id": "FkJxYW7uCdg",
+    "title": "The truth about filter change monitoring  Are they really accurate?",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 21
+   },
+   {
+    "id": "cBdSCgZLcXg",
+    "title": "The One Question That Sets The Direction of an HVAC Sale",
+    "meta": [
+     "31",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 31
+   },
+   {
+    "id": "_fRUfW7M_hA",
+    "title": "Friday's with Eric - privilege of last to bid - Sandler \"No Maybes\"",
+    "meta": [
+     "37",
+     "1y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 37
+   },
+   {
+    "id": "QabG07EGNyQ",
+    "title": "REEDIE is liking and improving his request to \"Have The Privilege To Be Last To Bid\" approach",
+    "meta": [
+     "56",
+     "1y ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 56
+   },
+   {
+    "id": "1nXIHQdRF2g",
+    "title": "Tanner Dickerson HVAC20 - Cybertruck is the best service truck ever!",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 1700
+   },
+   {
+    "id": "UKbaBpPrvdY",
+    "title": "HVAC 2 0 Comfort Consult Overview",
+    "meta": [
+     "170",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 170
+   },
+   {
+    "id": "f6vrxA9CNQQ",
+    "title": "Eric showing decision grid fixed and discussion or reordering the report",
+    "meta": [
+     "39",
+     "2y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 39
+   },
+   {
+    "id": "snbNpKqx6hc",
+    "title": "HVAC20 Selling Software, Measurements section, Creating Likely Load Range",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "7:59",
+    "views_tab": 43
+   },
+   {
+    "id": "PkwFsYWLHIU",
+    "title": "Austin and Tanner discuss how Free Quote process may shift Comfort Consult to the back burner",
+    "meta": [
+     "29",
+     "2y ago"
+    ],
+    "dur": "34:14",
+    "views_tab": 29
+   },
+   {
+    "id": "6_qoe5DVLrg",
+    "title": "HVAC20 CC Avoids Blame! AUSTIN shares his 1 year revisit for humidity issues",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 26
+   },
+   {
+    "id": "nfShgEduJFg",
+    "title": "HVAC20 Monday Meeting Shorts Sizing for worst case and most common case.",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 37
+   },
+   {
+    "id": "fHKZ-xdppUs",
+    "title": "HVAC20 Short - Tanner/Reedie Budget Role Play",
+    "meta": [
+     "21",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 21
+   }
+  ],
+  "Latest": [
+   {
+    "id": "o0LWK5x93Jw",
+    "title": "Debrief Andre's first sale using HVAC20 Free Quote Process",
+    "meta": [
+     "27",
+     "5mo ago"
+    ],
+    "dur": "45:51",
+    "views_tab": 27
+   },
+   {
+    "id": "_WnYUZ5vexk",
+    "title": "Brainstorming Likely Load, Free Quote, and lean to green sizing logic",
+    "meta": [
+     "22",
+     "1y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 22
+   },
+   {
+    "id": "Tv-ONZNMz1g",
+    "title": "FSD is getting really good. Fair to say its a bad idea to buy a new car that can never drive itself.",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 24
+   },
+   {
+    "id": "B3hDSb19kHw",
+    "title": "Ronnie is going to start training people on HVAC20",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 27
+   },
+   {
+    "id": "cMmdhZpyaEA",
+    "title": "HVAC20 Likely Load Range helps homeowners pick the right size equipment for their situation",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 15
+   },
+   {
+    "id": "GFlq0oK6d6o",
+    "title": "Customers love the HVAC20 Free Quote Process. Nobody else is teaching them what they need to know!",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 9
+   },
+   {
+    "id": "keQR7yw9dTg",
+    "title": "HVAC20 Comfort Consult was the first HVAC sales process we built into software",
+    "meta": [
+     "22",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 22
+   },
+   {
+    "id": "wyFK3zbzLQs",
+    "title": "EDS Load Calc vs EDS Auditor - if load calc accuracy matters to you",
+    "meta": [
+     "14",
+     "1y ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 14
+   },
+   {
+    "id": "Iemh5H-WrHo",
+    "title": "Ronnie moved his system from the basement to his encapsulated attic and the result blew his mind ...",
+    "meta": [
+     "20",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 20
+   },
+   {
+    "id": "gXiNGeO6Opk",
+    "title": "Ronnie's company downsized it's default size match in PriceBook because of HVAC20 Likely Load Range",
+    "meta": [
+     "17",
+     "1y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 17
+   },
+   {
+    "id": "lhDiOGxejqU",
+    "title": "When you've tested enough ductwork, you build fairly accurate intuition about capacity",
+    "meta": [
+     "9",
+     "1y ago"
+    ],
+    "dur": "0:55",
+    "views_tab": 9
+   },
+   {
+    "id": "LY5Be8xdeAc",
+    "title": "Educating Homeowner about oversizing to duct capacity",
+    "meta": [
+     "15",
+     "1y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 15
+   },
+   {
+    "id": "QXCjLRyGAIQ",
+    "title": "Likely Load Range expresses uncertainty of a load calc where many inputs are guesses",
+    "meta": [
+     "19",
+     "1y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 19
+   },
+   {
+    "id": "ZHRANbiDpOs",
+    "title": "Oversized AC Units in Rental Units - 2t unit delivering .75t",
+    "meta": [
+     "70",
+     "1y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 70
+   },
+   {
+    "id": "hGnaV0cLMQ4",
+    "title": "REVENUE PER LEAD $4k minimum expectation",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 50
+   },
+   {
+    "id": "3eh3CFdG7ew",
+    "title": "Eric discussing how HVAC20 software will track Revenue Per Lead June 2025",
+    "meta": [
+     "18",
+     "1y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 18
+   },
+   {
+    "id": "Z2Y7MAr-5B8",
+    "title": "HVAC20 software pricing",
+    "meta": [
+     "34",
+     "1y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 34
+   },
+   {
+    "id": "r5benWPHhXk",
+    "title": "Following the HVAC20 Free Quote Process in software",
+    "meta": [
+     "33",
+     "1y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 33
+   },
+   {
+    "id": "FkJxYW7uCdg",
+    "title": "The truth about filter change monitoring  Are they really accurate?",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 21
+   },
+   {
+    "id": "cBdSCgZLcXg",
+    "title": "The One Question That Sets The Direction of an HVAC Sale",
+    "meta": [
+     "31",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 31
+   },
+   {
+    "id": "_fRUfW7M_hA",
+    "title": "Friday's with Eric - privilege of last to bid - Sandler \"No Maybes\"",
+    "meta": [
+     "37",
+     "1y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 37
+   },
+   {
+    "id": "QabG07EGNyQ",
+    "title": "REEDIE is liking and improving his request to \"Have The Privilege To Be Last To Bid\" approach",
+    "meta": [
+     "56",
+     "1y ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 56
+   },
+   {
+    "id": "1nXIHQdRF2g",
+    "title": "Tanner Dickerson HVAC20 - Cybertruck is the best service truck ever!",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 1700
+   },
+   {
+    "id": "UKbaBpPrvdY",
+    "title": "HVAC 2 0 Comfort Consult Overview",
+    "meta": [
+     "170",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 170
+   },
+   {
+    "id": "f6vrxA9CNQQ",
+    "title": "Eric showing decision grid fixed and discussion or reordering the report",
+    "meta": [
+     "39",
+     "2y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 39
+   },
+   {
+    "id": "snbNpKqx6hc",
+    "title": "HVAC20 Selling Software, Measurements section, Creating Likely Load Range",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "7:59",
+    "views_tab": 43
+   },
+   {
+    "id": "PkwFsYWLHIU",
+    "title": "Austin and Tanner discuss how Free Quote process may shift Comfort Consult to the back burner",
+    "meta": [
+     "29",
+     "2y ago"
+    ],
+    "dur": "34:14",
+    "views_tab": 29
+   },
+   {
+    "id": "6_qoe5DVLrg",
+    "title": "HVAC20 CC Avoids Blame! AUSTIN shares his 1 year revisit for humidity issues",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 26
+   },
+   {
+    "id": "nfShgEduJFg",
+    "title": "HVAC20 Monday Meeting Shorts Sizing for worst case and most common case.",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 37
+   },
+   {
+    "id": "fHKZ-xdppUs",
+    "title": "HVAC20 Short - Tanner/Reedie Budget Role Play",
+    "meta": [
+     "21",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 21
+   },
+   {
+    "id": "5BTWNpZSGPM",
+    "title": "HVAC20 Monday Meeting 1 Improving Process and Report",
+    "meta": [
+     "16",
+     "2y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 16
+   },
+   {
+    "id": "JPgv1i1oPLg",
+    "title": "4 29 24 Shorts FREE QUOTE needs major improvement still....",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 26
+   },
+   {
+    "id": "IvdekaXNw6A",
+    "title": "Ethical HVAC Sales Processes - RONNIE and crew talk about how \"Duct Analysis\" can easily be misused",
+    "meta": [
+     "66",
+     "2y ago"
+    ],
+    "dur": "20:33",
+    "views_tab": 66
+   },
+   {
+    "id": "OB7ANXYM_wE",
+    "title": "4 29 24 Shorts - Ronnie discusses HVAC20 at his company and his record month",
+    "meta": [
+     "33",
+     "2y ago"
+    ],
+    "dur": "35:48",
+    "views_tab": 33
+   },
+   {
+    "id": "DTwEA0DtQdU",
+    "title": "4 29 24 Shorts -  Ken's thoughts on meetings he missed",
+    "meta": [
+     "9",
+     "2y ago"
+    ],
+    "dur": "15:15",
+    "views_tab": 9
+   },
+   {
+    "id": "2iyxYx0JeGU",
+    "title": "4 29 24 shorts - Reedie stories from last Monday Night",
+    "meta": [
+     "15",
+     "2y ago"
+    ],
+    "dur": "1:09:36",
+    "views_tab": 15
+   },
+   {
+    "id": "u4_7FUbN4jg",
+    "title": "Austin Inman fights being hero on free quotes",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "27:51",
+    "views_tab": 43
+   },
+   {
+    "id": "i1LvAgmMjcE",
+    "title": "Cody Sweat from Saginaw, very first meeting",
+    "meta": [
+     "49",
+     "2y ago"
+    ],
+    "dur": "1:40:49",
+    "views_tab": 49
+   },
+   {
+    "id": "2T-1R2eN-O8",
+    "title": "Ben: \"If you're not using it yet, start using the free quote process\"",
+    "meta": [
+     "35",
+     "2y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 35
+   },
+   {
+    "id": "JWNEMdm41CM",
+    "title": "Ben Baptist talks about his path to HVAC20",
+    "meta": [
+     "69",
+     "2y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 69
+   },
+   {
+    "id": "9RbdIIu8Mxw",
+    "title": "A taste of Free Quote in HVAC 2.0 - if you feel like you are selling you are doing it wrong",
+    "meta": [
+     "229",
+     "2y ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 229
+   },
+   {
+    "id": "J73l2j0sJlQ",
+    "title": "HVAC20 FQP avoids creating pissed off clients - Awesome Austin debrief",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "30:06",
+    "views_tab": 37
+   },
+   {
+    "id": "2o8xfSrO2is",
+    "title": "Tim Naugher HVAC20 Debrief 2024",
+    "meta": [
+     "59",
+     "2y ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 59
+   },
+   {
+    "id": "KSc5yXaGSI4",
+    "title": "Austin on GOOD TECHNICIAN T/O SETUP VS POOR TECH T/O SETUP",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 30
+   },
+   {
+    "id": "x-XxtW3sxK4",
+    "title": "$26k Job! Austin EXCITED about success with HVAC20 Free Quote Process!",
+    "meta": [
+     "48",
+     "2y ago"
+    ],
+    "dur": "28:39",
+    "views_tab": 48
+   },
+   {
+    "id": "WMPvumsme9s",
+    "title": "JASON FINALLY LOOSES A SALE!!",
+    "meta": [
+     "35",
+     "2y ago"
+    ],
+    "dur": "23:36",
+    "views_tab": 35
+   },
+   {
+    "id": "ADCxmml_nS4",
+    "title": "Jon Esquival HVAC20 Debrief 2024",
+    "meta": [
+     "80",
+     "2y ago"
+    ],
+    "dur": "45:22",
+    "views_tab": 80
+   },
+   {
+    "id": "0OqiuQUUQYI",
+    "title": "Tanner Dickerson HVAC20 debrief 2024",
+    "meta": [
+     "83",
+     "2y ago"
+    ],
+    "dur": "34:05",
+    "views_tab": 83
+   },
+   {
+    "id": "lIthfdqs5bo",
+    "title": "Jason visit 1/13/24, ANOTHER furnace sale!",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "27:41",
+    "views_tab": 43
+   },
+   {
+    "id": "5gTV6nR96YM",
+    "title": "Jason - Getting comfortable with HVAC20 Free Quote takes 1-2 hours onboarding, then 2 visits",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 56
+   },
+   {
+    "id": "NVEdluFpgP4",
+    "title": "ARE ALL HVAC SALESPEOPLE GROSSLY UNPROFESSIONAL? Jason C Debrief 1/6/2024",
+    "meta": [
+     "119",
+     "2y ago"
+    ],
+    "dur": "45:05",
+    "views_tab": 119
+   },
+   {
+    "id": "UhshzQv0u8g",
+    "title": "Jason Debrief 1/5/24",
+    "meta": [
+     "27",
+     "2y ago"
+    ],
+    "dur": "30:43",
+    "views_tab": 27
+   },
+   {
+    "id": "J4G1_Z1MbAg",
+    "title": "Eric and Ted discuss FQP",
+    "meta": [
+     "25",
+     "2y ago"
+    ],
+    "dur": "30:15",
+    "views_tab": 25
+   },
+   {
+    "id": "WlrIQAD7GLE",
+    "title": "Jason Cecil Sells TWO on New Years Eve!!!",
+    "meta": [
+     "61",
+     "2y ago"
+    ],
+    "dur": "44:36",
+    "views_tab": 61
+   },
+   {
+    "id": "VmwhMMtJV-U",
+    "title": "Jason's 6th HVAC20 Free Quote debrief 12/30/23",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "39:31",
+    "views_tab": 56
+   },
+   {
+    "id": "umJFOiauyVo",
+    "title": "Jason's 5th Free Quote is a complicated one!",
+    "meta": [
+     "47",
+     "2y ago"
+    ],
+    "dur": "1:03:09",
+    "views_tab": 47
+   },
+   {
+    "id": "W28xRr0cjzc",
+    "title": "Reedie HVAC20 Free Quote debrief 12/22/23",
+    "meta": [
+     "42",
+     "2y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 42
+   },
+   {
+    "id": "vPcIsYVHxh4",
+    "title": "Jason's 3rd HVAC20 FQ Process lead, debrief (Update: job sold)",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "26:31",
+    "views_tab": 36
+   },
+   {
+    "id": "Wzgwk5YnUqc",
+    "title": "Plan A or Plan B  The HVAC 2 0 Comfort Consult",
+    "meta": [
+     "104",
+     "2y ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 104
+   },
+   {
+    "id": "3fcGUgNDdYw",
+    "title": "Home Comfort 101 Part 1",
+    "meta": [
+     "95",
+     "2y ago"
+    ],
+    "dur": "1:06:09",
+    "views_tab": 95
+   },
+   {
+    "id": "o8uV5q3yN6o",
+    "title": "Jason is 2 for two with the HVAC20 Free Quote Process, $10k today",
+    "meta": [
+     "52",
+     "2y ago"
+    ],
+    "dur": "36:57",
+    "views_tab": 52
+   },
+   {
+    "id": "E_mua9Mg7sI",
+    "title": "Jason's First HVAC20 Free Quote - client selects $19k Evolution Hybrid!",
+    "meta": [
+     "104",
+     "2y ago"
+    ],
+    "dur": "44:27",
+    "views_tab": 104
+   },
+   {
+    "id": "pCg-4hMSFaA",
+    "title": "Free Quote Role Play with newbies Jason T & Jason C (edited)",
+    "meta": [
+     "53",
+     "2y ago"
+    ],
+    "dur": "1:26:45",
+    "views_tab": 53
+   },
+   {
+    "id": "fw9zTsLsErc",
+    "title": "Ken Dean's view on value of having a repeatable SALES PROCESS, riff w hvac20 tribe minute 5",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 36
+   },
+   {
+    "id": "Uzxn4Z3WY7Y",
+    "title": "HVAC20 Monday Meeting Shorts - Getting started with Kajabi",
+    "meta": [
+     "93",
+     "2y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 93
+   },
+   {
+    "id": "NpyCDMKT3Io",
+    "title": "Are you enjoying your job? HVAC20 Process makes for better contractor/client relationships",
+    "meta": [
+     "68",
+     "2y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 68
+   },
+   {
+    "id": "_KrjZGFGurY",
+    "title": "Repair Not Replace - the Private Equity problem",
+    "meta": [
+     "185",
+     "3y ago"
+    ],
+    "dur": "21:11",
+    "views_tab": 185
+   },
+   {
+    "id": "qjBO_HEQVr4",
+    "title": "Load Ranges Not Calcs end of 10/23/23 HVAC20 live",
+    "meta": [
+     "128",
+     "3y ago"
+    ],
+    "dur": "20:09",
+    "views_tab": 128
+   },
+   {
+    "id": "aDu0uemF4Do",
+    "title": "Open Mat   Reedie Riff on using RANGES",
+    "meta": [
+     "114",
+     "3y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 114
+   },
+   {
+    "id": "ffwDatnMRSY",
+    "title": "Austin's First Free HVAC20 Quote experience",
+    "meta": [
+     "81",
+     "3y ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 81
+   },
+   {
+    "id": "CvIEaFTZnVM",
+    "title": "ROLEPLAY: Free Quote in Indiana short",
+    "meta": [
+     "103",
+     "3y ago"
+    ],
+    "dur": "19:27",
+    "views_tab": 103
+   },
+   {
+    "id": "3gK9BiBtQ3k",
+    "title": "Nate interviews Austin about HVAC20 Technical Sales Process",
+    "meta": [
+     "233",
+     "3y ago"
+    ],
+    "dur": "39:04",
+    "views_tab": 233
+   },
+   {
+    "id": "2JnK6JfJ7-E",
+    "title": "Abhi interviews RONNIE about HVAC20 Technical Sales Process",
+    "meta": [
+     "345",
+     "3y ago"
+    ],
+    "dur": "37:46",
+    "views_tab": 345
+   },
+   {
+    "id": "_qhENzI4QZo",
+    "title": "Warranty Reserve and Likely Load Range - without measured infiltration give load range.",
+    "meta": [
+     "34",
+     "3y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 34
+   },
+   {
+    "id": "4JFFF_XRcuk",
+    "title": "HVAC20 sells heat pumps - and likely load range will help",
+    "meta": [
+     "38",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 38
+   },
+   {
+    "id": "jre8JcSnBM4",
+    "title": "Like for Like replacement specification on free quote",
+    "meta": [
+     "23",
+     "3y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 23
+   },
+   {
+    "id": "ABxyaRGneRk",
+    "title": "HVAC20 Ethics - 1st responsibility is to provide educational tools",
+    "meta": [
+     "36",
+     "3y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 36
+   },
+   {
+    "id": "tWYtcgTZPiQ",
+    "title": "Comfort Quiz saves Williams $30k on Warranty Job",
+    "meta": [
+     "39",
+     "3y ago"
+    ],
+    "dur": "2:07",
+    "views_tab": 39
+   },
+   {
+    "id": "JBL5PFI41Ew",
+    "title": "Jeff's & Ted riff on some of the \"What Is HVAC20\" slides he presented to his Sales Manager 5/26/23",
+    "meta": [
+     "97",
+     "3y ago"
+    ],
+    "dur": "34:15",
+    "views_tab": 97
+   },
+   {
+    "id": "1T72TadzoqE",
+    "title": "Dehumidification:  Multiple Tipping Points Are Pushing Us Towards A Public Health Disaster",
+    "meta": [
+     "131",
+     "3y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 131
+   },
+   {
+    "id": "u3YWpWEif0k",
+    "title": "Dehumidification Challenges and Policy, The Short Version",
+    "meta": [
+     "250",
+     "3y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 250
+   },
+   {
+    "id": "LANXKqEOkt8",
+    "title": "Sensible Heat Ratio Comparison of 1.5 ton Carrier 38MURA and 1.5 ton Daikin Fit",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "DcW88mXRLpE",
+    "title": "Boots on the ground dehumidification experience with electrifications",
+    "meta": [
+     "56",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 56
+   },
+   {
+    "id": "kTschxDi9ew",
+    "title": "Sensible Heat Ratio Explanation",
+    "meta": [
+     "570",
+     "3y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 570
+   },
+   {
+    "id": "UC1n2qhYTS4",
+    "title": "Unintended Consequences   Will Regulations Make Us Sick  The IRA, SEER Ratings, and Dehumidification",
+    "meta": [
+     "377",
+     "3y ago"
+    ],
+    "dur": "1:26:43",
+    "views_tab": 377
+   },
+   {
+    "id": "fe0j_lQdNCY",
+    "title": "IRA Incentives   Reedie's Client",
+    "meta": [
+     "117",
+     "3y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 117
+   },
+   {
+    "id": "yDG_86fsuu4",
+    "title": "Challenges with Climate Focused Clients",
+    "meta": [
+     "114",
+     "3y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 114
+   },
+   {
+    "id": "RzJSWxarwjk",
+    "title": "Key Takeaways for HVAC Contractors -  IRA Heat Pump Incentives",
+    "meta": [
+     "239",
+     "3y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 239
+   },
+   {
+    "id": "KBf8M6LSVhs",
+    "title": "IRA Heat Pump Tax Incentives - What HVAC Contractors Really Need to Know (Abridged)",
+    "meta": [
+     "385",
+     "3y ago"
+    ],
+    "dur": "1:12:27",
+    "views_tab": 385
+   },
+   {
+    "id": "sJYvWbOLKZw",
+    "title": "Jon Esquivel On CPP, CC, and free quote",
+    "meta": [
+     "78",
+     "3y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 78
+   },
+   {
+    "id": "bkj8N8Yy27E",
+    "title": "Copy of 4 Questions Quiz/Free Quote Role Play and Q&A",
+    "meta": [
+     "44",
+     "3y ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 44
+   },
+   {
+    "id": "EwgX0Ear4xI",
+    "title": "Jeff Howard HVAC20 software building client, showing free quote in",
+    "meta": [
+     "85",
+     "3y ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 85
+   },
+   {
+    "id": "IgvuI8JNdks",
+    "title": "HVAC 2.0 Process Overview",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "17:37",
+    "views_tab": 1000
+   },
+   {
+    "id": "PSouN-qSjos",
+    "title": "Electrification Case Study Webinar with Client Peter Andexlinger  Retrotec and Nate Adams",
+    "meta": [
+     "83",
+     "3y ago"
+    ],
+    "dur": "1:19:18",
+    "views_tab": 83
+   },
+   {
+    "id": "EYWk_sJQH1Y",
+    "title": "Everything you need to know about HVAC, you know from your car  The 6 Functions of HVAC",
+    "meta": [
+     "60",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 60
+   },
+   {
+    "id": "KK8w8dsZ_fo",
+    "title": "Finding a Contractor   Electrify Everything Course Part 7",
+    "meta": [
+     "45",
+     "3y ago"
+    ],
+    "dur": "36:29",
+    "views_tab": 45
+   },
+   {
+    "id": "BFFukQIag8o",
+    "title": "Advanced HVAC Chapter Summary",
+    "meta": [
+     "41",
+     "3y ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 41
+   },
+   {
+    "id": "nlzFaGjogx4",
+    "title": "Bell Cliff   How to destroy scale in residential decarbonization #electrifyeverything",
+    "meta": [
+     "29",
+     "3y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 29
+   },
+   {
+    "id": "UjbMRlQBpJc",
+    "title": "Free Quote Overview",
+    "meta": [
+     "131",
+     "3y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 131
+   },
+   {
+    "id": "GYbhFbY8vzU",
+    "title": "6 Functions of HVAC - Everything you need to know about HVAC you know from your car",
+    "meta": [
+     "920",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 920
+   },
+   {
+    "id": "xVotAwm6kDc",
+    "title": "One Weird Thing Killing Furnaces and ACs - Duct Pressure",
+    "meta": [
+     "869",
+     "3y ago"
+    ],
+    "dur": "1:34",
+    "views_tab": 869
+   },
+   {
+    "id": "CTBM0_ObeVY",
+    "title": "Adam & Abhi   Case study 4",
+    "meta": [
+     "20",
+     "3y ago"
+    ],
+    "dur": "47:24",
+    "views_tab": 20
+   },
+   {
+    "id": "FjICOblZDo0",
+    "title": "HVAC20 Free Quote first draft role play",
+    "meta": [
+     "21",
+     "3y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 21
+   },
+   {
+    "id": "yvOQVJ57xqg",
+    "title": "HVAC20 Gross Sales impact spreadsheet",
+    "meta": [
+     "23",
+     "3y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 23
+   },
+   {
+    "id": "ZLOmk7PmdEc",
+    "title": "Reedie edit of 2 9 21, best listened to at 1 25 speed",
+    "meta": [
+     "16",
+     "3y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 16
+   },
+   {
+    "id": "5EdwVQWX9Vg",
+    "title": "Ronny Killed it last month",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 22
+   },
+   {
+    "id": "Wr1h6wwv81M",
+    "title": "Spanner 1",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "47:50",
+    "views_tab": 22
+   },
+   {
+    "id": "lvNECehH1Fc",
+    "title": "Spanners 2   church of kitchen table",
+    "meta": [
+     "17",
+     "3y ago"
+    ],
+    "dur": "59:00",
+    "views_tab": 17
+   },
+   {
+    "id": "OfU6BygW-YI",
+    "title": "Spanners 3 & 4",
+    "meta": [
+     "21",
+     "3y ago"
+    ],
+    "dur": "1:42:27",
+    "views_tab": 21
+   },
+   {
+    "id": "6X1O7O3aQl0",
+    "title": "Spanners 5 & 6",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "1:44:32",
+    "views_tab": 22
+   },
+   {
+    "id": "zj8Ssxpxi5o",
+    "title": "Spanners 7",
+    "meta": [
+     "34",
+     "3y ago"
+    ],
+    "dur": "1:32:36",
+    "views_tab": 34
+   },
+   {
+    "id": "c4HvJNqSECs",
+    "title": "Minnesota Disaggregation and Load Calc",
+    "meta": [
+     "132",
+     "3y ago"
+    ],
+    "dur": "29:59",
+    "views_tab": 132
+   },
+   {
+    "id": "c1bs5UiaauM",
+    "title": "How to Find a Blower Door  - HVAC 2.0",
+    "meta": [
+     "378",
+     "4y ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 378
+   },
+   {
+    "id": "WVx9ysJUWds",
+    "title": "HVAC 2.0 Intro to Load Calculations",
+    "meta": [
+     "920",
+     "4y ago"
+    ],
+    "dur": "55:59",
+    "views_tab": 920
+   },
+   {
+    "id": "n67djElBN2c",
+    "title": "Ryan Kerr - HVAC 2.0 Testimonial 5",
+    "meta": [
+     "106",
+     "5y ago"
+    ],
+    "dur": "22:43",
+    "views_tab": 106
+   },
+   {
+    "id": "xa2Y6avmPFw",
+    "title": "A-Team Adam - HVAC 2.0 Testimonial 4",
+    "meta": [
+     "252",
+     "5y ago"
+    ],
+    "dur": "28:23",
+    "views_tab": 252
+   },
+   {
+    "id": "2EGGpTbzdNc",
+    "title": "Sweet Spot Thinking - Homeowner Education - HVAC 2 0",
+    "meta": [
+     "194",
+     "5y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 194
+   },
+   {
+    "id": "BT4ZMLO1HoY",
+    "title": "Sweet Spot Thinking - Whole Home Diagnostics HVAC 2.0",
+    "meta": [
+     "266",
+     "5y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 266
+   },
+   {
+    "id": "RwZ7a8k6Fzk",
+    "title": "HVAC 2 0 Testimonial 3 - Tanner Dickerson",
+    "meta": [
+     "121",
+     "5y ago"
+    ],
+    "dur": "33:04",
+    "views_tab": 121
+   },
+   {
+    "id": "zbKe-H2avCg",
+    "title": "HVAC 2.0 Comfort Consult - What is it and is it right for you?",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 1300
+   }
+  ],
+  "Popular": [
+   {
+    "id": "RTB1Butj3Tg",
+    "title": "BAD ASS HVAC",
+    "meta": [
+     "4.1K",
+     "6y ago"
+    ],
+    "dur": "1:17:53",
+    "views_tab": 4100
+   },
+   {
+    "id": "1nXIHQdRF2g",
+    "title": "Tanner Dickerson HVAC20 - Cybertruck is the best service truck ever!",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 1700
+   },
+   {
+    "id": "zbKe-H2avCg",
+    "title": "HVAC 2.0 Comfort Consult - What is it and is it right for you?",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 1300
+   },
+   {
+    "id": "5DraWBpkRQ4",
+    "title": "Load Calculation Demonstration with EDS Auditor",
+    "meta": [
+     "1.2K",
+     "7y ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 1200
+   },
+   {
+    "id": "Kx2L5qQZwrQ",
+    "title": "HVAC 2 0 Live Training   Creating a Report with Silas Hoeppner",
+    "meta": [
+     "1.1K",
+     "6y ago"
+    ],
+    "dur": "1:57:38",
+    "views_tab": 1100
+   },
+   {
+    "id": "LANXKqEOkt8",
+    "title": "Sensible Heat Ratio Comparison of 1.5 ton Carrier 38MURA and 1.5 ton Daikin Fit",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "IgvuI8JNdks",
+    "title": "HVAC 2.0 Process Overview",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "17:37",
+    "views_tab": 1000
+   },
+   {
+    "id": "WVx9ysJUWds",
+    "title": "HVAC 2.0 Intro to Load Calculations",
+    "meta": [
+     "920",
+     "4y ago"
+    ],
+    "dur": "55:59",
+    "views_tab": 920
+   },
+   {
+    "id": "GYbhFbY8vzU",
+    "title": "6 Functions of HVAC - Everything you need to know about HVAC you know from your car",
+    "meta": [
+     "920",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 920
+   },
+   {
+    "id": "xVotAwm6kDc",
+    "title": "One Weird Thing Killing Furnaces and ACs - Duct Pressure",
+    "meta": [
+     "869",
+     "3y ago"
+    ],
+    "dur": "1:34",
+    "views_tab": 869
+   },
+   {
+    "id": "VLU1u0p0rfs",
+    "title": "Ty Branaman's Texas Blackout Experience",
+    "meta": [
+     "660",
+     "5y ago"
+    ],
+    "dur": "39:52",
+    "views_tab": 660
+   },
+   {
+    "id": "YWhwXlUwTxk",
+    "title": "Home Performance 2.0 Vision Casting Webinar with Nate Adams of HP 2.0 and Sam Myers of Retrotec",
+    "meta": [
+     "643",
+     "7y ago"
+    ],
+    "dur": "1:12:30",
+    "views_tab": 643
+   },
+   {
+    "id": "kTschxDi9ew",
+    "title": "Sensible Heat Ratio Explanation",
+    "meta": [
+     "570",
+     "3y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 570
+   },
+   {
+    "id": "XvkXSw9SQSY",
+    "title": "Case Study of Advanced Project Using HVAC 2.0 Process",
+    "meta": [
+     "429",
+     "5y ago"
+    ],
+    "dur": "46:34",
+    "views_tab": 429
+   },
+   {
+    "id": "KBf8M6LSVhs",
+    "title": "IRA Heat Pump Tax Incentives - What HVAC Contractors Really Need to Know (Abridged)",
+    "meta": [
+     "385",
+     "3y ago"
+    ],
+    "dur": "1:12:27",
+    "views_tab": 385
+   },
+   {
+    "id": "24YlrnKzeZ0",
+    "title": "Using Energy Use to Back Into a Load Calculation",
+    "meta": [
+     "381",
+     "5y ago"
+    ],
+    "dur": "13:10",
+    "views_tab": 381
+   },
+   {
+    "id": "c1bs5UiaauM",
+    "title": "How to Find a Blower Door  - HVAC 2.0",
+    "meta": [
+     "378",
+     "4y ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 378
+   },
+   {
+    "id": "UC1n2qhYTS4",
+    "title": "Unintended Consequences   Will Regulations Make Us Sick  The IRA, SEER Ratings, and Dehumidification",
+    "meta": [
+     "377",
+     "3y ago"
+    ],
+    "dur": "1:26:43",
+    "views_tab": 377
+   },
+   {
+    "id": "3BR5mrVUmDw",
+    "title": "HVAC 2.0 Testimonial 1: Reedie Ward",
+    "meta": [
+     "349",
+     "5y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 349
+   },
+   {
+    "id": "2JnK6JfJ7-E",
+    "title": "Abhi interviews RONNIE about HVAC20 Technical Sales Process",
+    "meta": [
+     "345",
+     "3y ago"
+    ],
+    "dur": "37:46",
+    "views_tab": 345
+   },
+   {
+    "id": "EjQFsjDcJgQ",
+    "title": "Comparing EDS Auditor and Load Calculator",
+    "meta": [
+     "326",
+     "5y ago"
+    ],
+    "dur": "1:36:17",
+    "views_tab": 326
+   },
+   {
+    "id": "BT4ZMLO1HoY",
+    "title": "Sweet Spot Thinking - Whole Home Diagnostics HVAC 2.0",
+    "meta": [
+     "266",
+     "5y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 266
+   },
+   {
+    "id": "xa2Y6avmPFw",
+    "title": "A-Team Adam - HVAC 2.0 Testimonial 4",
+    "meta": [
+     "252",
+     "5y ago"
+    ],
+    "dur": "28:23",
+    "views_tab": 252
+   },
+   {
+    "id": "u3YWpWEif0k",
+    "title": "Dehumidification Challenges and Policy, The Short Version",
+    "meta": [
+     "250",
+     "3y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 250
+   },
+   {
+    "id": "9eEysGwLZBs",
+    "title": "Chautaqua - How blue collar mindset will drive electrification.",
+    "meta": [
+     "250",
+     "5y ago"
+    ],
+    "dur": "56:32",
+    "views_tab": 250
+   },
+   {
+    "id": "RzJSWxarwjk",
+    "title": "Key Takeaways for HVAC Contractors -  IRA Heat Pump Incentives",
+    "meta": [
+     "239",
+     "3y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 239
+   },
+   {
+    "id": "3gK9BiBtQ3k",
+    "title": "Nate interviews Austin about HVAC20 Technical Sales Process",
+    "meta": [
+     "233",
+     "3y ago"
+    ],
+    "dur": "39:04",
+    "views_tab": 233
+   },
+   {
+    "id": "9RbdIIu8Mxw",
+    "title": "A taste of Free Quote in HVAC 2.0 - if you feel like you are selling you are doing it wrong",
+    "meta": [
+     "229",
+     "2y ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 229
+   },
+   {
+    "id": "8jUQU8iYkpI",
+    "title": "Electrify Everything Bay Area Event 11-16-20",
+    "meta": [
+     "208",
+     "5y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 208
+   },
+   {
+    "id": "2EGGpTbzdNc",
+    "title": "Sweet Spot Thinking - Homeowner Education - HVAC 2 0",
+    "meta": [
+     "194",
+     "5y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 194
+   },
+   {
+    "id": "_KrjZGFGurY",
+    "title": "Repair Not Replace - the Private Equity problem",
+    "meta": [
+     "185",
+     "3y ago"
+    ],
+    "dur": "21:11",
+    "views_tab": 185
+   },
+   {
+    "id": "UKbaBpPrvdY",
+    "title": "HVAC 2 0 Comfort Consult Overview",
+    "meta": [
+     "170",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 170
+   },
+   {
+    "id": "B81mW6GlzsQ",
+    "title": "HVAC 2.0 Testimonial 2: Jeff Howard",
+    "meta": [
+     "145",
+     "5y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 145
+   },
+   {
+    "id": "c4HvJNqSECs",
+    "title": "Minnesota Disaggregation and Load Calc",
+    "meta": [
+     "132",
+     "3y ago"
+    ],
+    "dur": "29:59",
+    "views_tab": 132
+   },
+   {
+    "id": "UjbMRlQBpJc",
+    "title": "Free Quote Overview",
+    "meta": [
+     "131",
+     "3y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 131
+   },
+   {
+    "id": "1T72TadzoqE",
+    "title": "Dehumidification:  Multiple Tipping Points Are Pushing Us Towards A Public Health Disaster",
+    "meta": [
+     "131",
+     "3y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 131
+   },
+   {
+    "id": "qjBO_HEQVr4",
+    "title": "Load Ranges Not Calcs end of 10/23/23 HVAC20 live",
+    "meta": [
+     "128",
+     "3y ago"
+    ],
+    "dur": "20:09",
+    "views_tab": 128
+   },
+   {
+    "id": "RwZ7a8k6Fzk",
+    "title": "HVAC 2 0 Testimonial 3 - Tanner Dickerson",
+    "meta": [
+     "121",
+     "5y ago"
+    ],
+    "dur": "33:04",
+    "views_tab": 121
+   },
+   {
+    "id": "NVEdluFpgP4",
+    "title": "ARE ALL HVAC SALESPEOPLE GROSSLY UNPROFESSIONAL? Jason C Debrief 1/6/2024",
+    "meta": [
+     "119",
+     "2y ago"
+    ],
+    "dur": "45:05",
+    "views_tab": 119
+   },
+   {
+    "id": "fe0j_lQdNCY",
+    "title": "IRA Incentives   Reedie's Client",
+    "meta": [
+     "117",
+     "3y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 117
+   },
+   {
+    "id": "yDG_86fsuu4",
+    "title": "Challenges with Climate Focused Clients",
+    "meta": [
+     "114",
+     "3y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 114
+   },
+   {
+    "id": "aDu0uemF4Do",
+    "title": "Open Mat   Reedie Riff on using RANGES",
+    "meta": [
+     "114",
+     "3y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 114
+   },
+   {
+    "id": "n67djElBN2c",
+    "title": "Ryan Kerr - HVAC 2.0 Testimonial 5",
+    "meta": [
+     "106",
+     "5y ago"
+    ],
+    "dur": "22:43",
+    "views_tab": 106
+   },
+   {
+    "id": "Wzgwk5YnUqc",
+    "title": "Plan A or Plan B  The HVAC 2 0 Comfort Consult",
+    "meta": [
+     "104",
+     "2y ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 104
+   },
+   {
+    "id": "E_mua9Mg7sI",
+    "title": "Jason's First HVAC20 Free Quote - client selects $19k Evolution Hybrid!",
+    "meta": [
+     "104",
+     "2y ago"
+    ],
+    "dur": "44:27",
+    "views_tab": 104
+   },
+   {
+    "id": "CvIEaFTZnVM",
+    "title": "ROLEPLAY: Free Quote in Indiana short",
+    "meta": [
+     "103",
+     "3y ago"
+    ],
+    "dur": "19:27",
+    "views_tab": 103
+   },
+   {
+    "id": "JBL5PFI41Ew",
+    "title": "Jeff's & Ted riff on some of the \"What Is HVAC20\" slides he presented to his Sales Manager 5/26/23",
+    "meta": [
+     "97",
+     "3y ago"
+    ],
+    "dur": "34:15",
+    "views_tab": 97
+   },
+   {
+    "id": "3fcGUgNDdYw",
+    "title": "Home Comfort 101 Part 1",
+    "meta": [
+     "95",
+     "2y ago"
+    ],
+    "dur": "1:06:09",
+    "views_tab": 95
+   },
+   {
+    "id": "Uzxn4Z3WY7Y",
+    "title": "HVAC20 Monday Meeting Shorts - Getting started with Kajabi",
+    "meta": [
+     "93",
+     "2y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 93
+   },
+   {
+    "id": "EwgX0Ear4xI",
+    "title": "Jeff Howard HVAC20 software building client, showing free quote in",
+    "meta": [
+     "85",
+     "3y ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 85
+   },
+   {
+    "id": "PSouN-qSjos",
+    "title": "Electrification Case Study Webinar with Client Peter Andexlinger  Retrotec and Nate Adams",
+    "meta": [
+     "83",
+     "3y ago"
+    ],
+    "dur": "1:19:18",
+    "views_tab": 83
+   },
+   {
+    "id": "0OqiuQUUQYI",
+    "title": "Tanner Dickerson HVAC20 debrief 2024",
+    "meta": [
+     "83",
+     "2y ago"
+    ],
+    "dur": "34:05",
+    "views_tab": 83
+   },
+   {
+    "id": "ffwDatnMRSY",
+    "title": "Austin's First Free HVAC20 Quote experience",
+    "meta": [
+     "81",
+     "3y ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 81
+   },
+   {
+    "id": "ADCxmml_nS4",
+    "title": "Jon Esquival HVAC20 Debrief 2024",
+    "meta": [
+     "80",
+     "2y ago"
+    ],
+    "dur": "45:22",
+    "views_tab": 80
+   },
+   {
+    "id": "sJYvWbOLKZw",
+    "title": "Jon Esquivel On CPP, CC, and free quote",
+    "meta": [
+     "78",
+     "3y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 78
+   },
+   {
+    "id": "ZHRANbiDpOs",
+    "title": "Oversized AC Units in Rental Units - 2t unit delivering .75t",
+    "meta": [
+     "70",
+     "1y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 70
+   },
+   {
+    "id": "JWNEMdm41CM",
+    "title": "Ben Baptist talks about his path to HVAC20",
+    "meta": [
+     "69",
+     "2y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 69
+   },
+   {
+    "id": "NpyCDMKT3Io",
+    "title": "Are you enjoying your job? HVAC20 Process makes for better contractor/client relationships",
+    "meta": [
+     "68",
+     "2y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 68
+   },
+   {
+    "id": "IvdekaXNw6A",
+    "title": "Ethical HVAC Sales Processes - RONNIE and crew talk about how \"Duct Analysis\" can easily be misused",
+    "meta": [
+     "66",
+     "2y ago"
+    ],
+    "dur": "20:33",
+    "views_tab": 66
+   },
+   {
+    "id": "WlrIQAD7GLE",
+    "title": "Jason Cecil Sells TWO on New Years Eve!!!",
+    "meta": [
+     "61",
+     "2y ago"
+    ],
+    "dur": "44:36",
+    "views_tab": 61
+   },
+   {
+    "id": "EYWk_sJQH1Y",
+    "title": "Everything you need to know about HVAC, you know from your car  The 6 Functions of HVAC",
+    "meta": [
+     "60",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 60
+   },
+   {
+    "id": "2o8xfSrO2is",
+    "title": "Tim Naugher HVAC20 Debrief 2024",
+    "meta": [
+     "59",
+     "2y ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 59
+   },
+   {
+    "id": "VmwhMMtJV-U",
+    "title": "Jason's 6th HVAC20 Free Quote debrief 12/30/23",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "39:31",
+    "views_tab": 56
+   },
+   {
+    "id": "QabG07EGNyQ",
+    "title": "REEDIE is liking and improving his request to \"Have The Privilege To Be Last To Bid\" approach",
+    "meta": [
+     "56",
+     "1y ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 56
+   },
+   {
+    "id": "DcW88mXRLpE",
+    "title": "Boots on the ground dehumidification experience with electrifications",
+    "meta": [
+     "56",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 56
+   },
+   {
+    "id": "5gTV6nR96YM",
+    "title": "Jason - Getting comfortable with HVAC20 Free Quote takes 1-2 hours onboarding, then 2 visits",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 56
+   },
+   {
+    "id": "pCg-4hMSFaA",
+    "title": "Free Quote Role Play with newbies Jason T & Jason C (edited)",
+    "meta": [
+     "53",
+     "2y ago"
+    ],
+    "dur": "1:26:45",
+    "views_tab": 53
+   },
+   {
+    "id": "o8uV5q3yN6o",
+    "title": "Jason is 2 for two with the HVAC20 Free Quote Process, $10k today",
+    "meta": [
+     "52",
+     "2y ago"
+    ],
+    "dur": "36:57",
+    "views_tab": 52
+   },
+   {
+    "id": "hGnaV0cLMQ4",
+    "title": "REVENUE PER LEAD $4k minimum expectation",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 50
+   },
+   {
+    "id": "i1LvAgmMjcE",
+    "title": "Cody Sweat from Saginaw, very first meeting",
+    "meta": [
+     "49",
+     "2y ago"
+    ],
+    "dur": "1:40:49",
+    "views_tab": 49
+   },
+   {
+    "id": "x-XxtW3sxK4",
+    "title": "$26k Job! Austin EXCITED about success with HVAC20 Free Quote Process!",
+    "meta": [
+     "48",
+     "2y ago"
+    ],
+    "dur": "28:39",
+    "views_tab": 48
+   },
+   {
+    "id": "umJFOiauyVo",
+    "title": "Jason's 5th Free Quote is a complicated one!",
+    "meta": [
+     "47",
+     "2y ago"
+    ],
+    "dur": "1:03:09",
+    "views_tab": 47
+   },
+   {
+    "id": "KK8w8dsZ_fo",
+    "title": "Finding a Contractor   Electrify Everything Course Part 7",
+    "meta": [
+     "45",
+     "3y ago"
+    ],
+    "dur": "36:29",
+    "views_tab": 45
+   },
+   {
+    "id": "bkj8N8Yy27E",
+    "title": "Copy of 4 Questions Quiz/Free Quote Role Play and Q&A",
+    "meta": [
+     "44",
+     "3y ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 44
+   },
+   {
+    "id": "u4_7FUbN4jg",
+    "title": "Austin Inman fights being hero on free quotes",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "27:51",
+    "views_tab": 43
+   },
+   {
+    "id": "snbNpKqx6hc",
+    "title": "HVAC20 Selling Software, Measurements section, Creating Likely Load Range",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "7:59",
+    "views_tab": 43
+   },
+   {
+    "id": "lIthfdqs5bo",
+    "title": "Jason visit 1/13/24, ANOTHER furnace sale!",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "27:41",
+    "views_tab": 43
+   },
+   {
+    "id": "W28xRr0cjzc",
+    "title": "Reedie HVAC20 Free Quote debrief 12/22/23",
+    "meta": [
+     "42",
+     "2y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 42
+   },
+   {
+    "id": "BFFukQIag8o",
+    "title": "Advanced HVAC Chapter Summary",
+    "meta": [
+     "41",
+     "3y ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 41
+   },
+   {
+    "id": "tWYtcgTZPiQ",
+    "title": "Comfort Quiz saves Williams $30k on Warranty Job",
+    "meta": [
+     "39",
+     "3y ago"
+    ],
+    "dur": "2:07",
+    "views_tab": 39
+   },
+   {
+    "id": "f6vrxA9CNQQ",
+    "title": "Eric showing decision grid fixed and discussion or reordering the report",
+    "meta": [
+     "39",
+     "2y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 39
+   },
+   {
+    "id": "4JFFF_XRcuk",
+    "title": "HVAC20 sells heat pumps - and likely load range will help",
+    "meta": [
+     "38",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 38
+   },
+   {
+    "id": "nfShgEduJFg",
+    "title": "HVAC20 Monday Meeting Shorts Sizing for worst case and most common case.",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 37
+   },
+   {
+    "id": "_fRUfW7M_hA",
+    "title": "Friday's with Eric - privilege of last to bid - Sandler \"No Maybes\"",
+    "meta": [
+     "37",
+     "1y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 37
+   },
+   {
+    "id": "J73l2j0sJlQ",
+    "title": "HVAC20 FQP avoids creating pissed off clients - Awesome Austin debrief",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "30:06",
+    "views_tab": 37
+   },
+   {
+    "id": "vPcIsYVHxh4",
+    "title": "Jason's 3rd HVAC20 FQ Process lead, debrief (Update: job sold)",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "26:31",
+    "views_tab": 36
+   },
+   {
+    "id": "fw9zTsLsErc",
+    "title": "Ken Dean's view on value of having a repeatable SALES PROCESS, riff w hvac20 tribe minute 5",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 36
+   },
+   {
+    "id": "ABxyaRGneRk",
+    "title": "HVAC20 Ethics - 1st responsibility is to provide educational tools",
+    "meta": [
+     "36",
+     "3y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 36
+   },
+   {
+    "id": "WMPvumsme9s",
+    "title": "JASON FINALLY LOOSES A SALE!!",
+    "meta": [
+     "35",
+     "2y ago"
+    ],
+    "dur": "23:36",
+    "views_tab": 35
+   },
+   {
+    "id": "2T-1R2eN-O8",
+    "title": "Ben: \"If you're not using it yet, start using the free quote process\"",
+    "meta": [
+     "35",
+     "2y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 35
+   },
+   {
+    "id": "zj8Ssxpxi5o",
+    "title": "Spanners 7",
+    "meta": [
+     "34",
+     "3y ago"
+    ],
+    "dur": "1:32:36",
+    "views_tab": 34
+   },
+   {
+    "id": "_qhENzI4QZo",
+    "title": "Warranty Reserve and Likely Load Range - without measured infiltration give load range.",
+    "meta": [
+     "34",
+     "3y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 34
+   },
+   {
+    "id": "Z2Y7MAr-5B8",
+    "title": "HVAC20 software pricing",
+    "meta": [
+     "34",
+     "1y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 34
+   },
+   {
+    "id": "r5benWPHhXk",
+    "title": "Following the HVAC20 Free Quote Process in software",
+    "meta": [
+     "33",
+     "1y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 33
+   },
+   {
+    "id": "OB7ANXYM_wE",
+    "title": "4 29 24 Shorts - Ronnie discusses HVAC20 at his company and his record month",
+    "meta": [
+     "33",
+     "2y ago"
+    ],
+    "dur": "35:48",
+    "views_tab": 33
+   },
+   {
+    "id": "cBdSCgZLcXg",
+    "title": "The One Question That Sets The Direction of an HVAC Sale",
+    "meta": [
+     "31",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 31
+   },
+   {
+    "id": "KSc5yXaGSI4",
+    "title": "Austin on GOOD TECHNICIAN T/O SETUP VS POOR TECH T/O SETUP",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 30
+   },
+   {
+    "id": "nlzFaGjogx4",
+    "title": "Bell Cliff   How to destroy scale in residential decarbonization #electrifyeverything",
+    "meta": [
+     "29",
+     "3y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 29
+   },
+   {
+    "id": "PkwFsYWLHIU",
+    "title": "Austin and Tanner discuss how Free Quote process may shift Comfort Consult to the back burner",
+    "meta": [
+     "29",
+     "2y ago"
+    ],
+    "dur": "34:14",
+    "views_tab": 29
+   },
+   {
+    "id": "o0LWK5x93Jw",
+    "title": "Debrief Andre's first sale using HVAC20 Free Quote Process",
+    "meta": [
+     "27",
+     "5mo ago"
+    ],
+    "dur": "45:51",
+    "views_tab": 27
+   },
+   {
+    "id": "UhshzQv0u8g",
+    "title": "Jason Debrief 1/5/24",
+    "meta": [
+     "27",
+     "2y ago"
+    ],
+    "dur": "30:43",
+    "views_tab": 27
+   },
+   {
+    "id": "B3hDSb19kHw",
+    "title": "Ronnie is going to start training people on HVAC20",
+    "meta": [
+     "27",
+     "1y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 27
+   },
+   {
+    "id": "JPgv1i1oPLg",
+    "title": "4 29 24 Shorts FREE QUOTE needs major improvement still....",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 26
+   },
+   {
+    "id": "6_qoe5DVLrg",
+    "title": "HVAC20 CC Avoids Blame! AUSTIN shares his 1 year revisit for humidity issues",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 26
+   },
+   {
+    "id": "J4G1_Z1MbAg",
+    "title": "Eric and Ted discuss FQP",
+    "meta": [
+     "25",
+     "2y ago"
+    ],
+    "dur": "30:15",
+    "views_tab": 25
+   },
+   {
+    "id": "Tv-ONZNMz1g",
+    "title": "FSD is getting really good. Fair to say its a bad idea to buy a new car that can never drive itself.",
+    "meta": [
+     "24",
+     "1y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 24
+   },
+   {
+    "id": "yvOQVJ57xqg",
+    "title": "HVAC20 Gross Sales impact spreadsheet",
+    "meta": [
+     "23",
+     "3y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 23
+   },
+   {
+    "id": "jre8JcSnBM4",
+    "title": "Like for Like replacement specification on free quote",
+    "meta": [
+     "23",
+     "3y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 23
+   },
+   {
+    "id": "keQR7yw9dTg",
+    "title": "HVAC20 Comfort Consult was the first HVAC sales process we built into software",
+    "meta": [
+     "22",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 22
+   },
+   {
+    "id": "_WnYUZ5vexk",
+    "title": "Brainstorming Likely Load, Free Quote, and lean to green sizing logic",
+    "meta": [
+     "22",
+     "1y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 22
+   },
+   {
+    "id": "Wr1h6wwv81M",
+    "title": "Spanner 1",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "47:50",
+    "views_tab": 22
+   },
+   {
+    "id": "6X1O7O3aQl0",
+    "title": "Spanners 5 & 6",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "1:44:32",
+    "views_tab": 22
+   },
+   {
+    "id": "5EdwVQWX9Vg",
+    "title": "Ronny Killed it last month",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 22
+   },
+   {
+    "id": "fHKZ-xdppUs",
+    "title": "HVAC20 Short - Tanner/Reedie Budget Role Play",
+    "meta": [
+     "21",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 21
+   },
+   {
+    "id": "OfU6BygW-YI",
+    "title": "Spanners 3 & 4",
+    "meta": [
+     "21",
+     "3y ago"
+    ],
+    "dur": "1:42:27",
+    "views_tab": 21
+   },
+   {
+    "id": "FkJxYW7uCdg",
+    "title": "The truth about filter change monitoring  Are they really accurate?",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 21
+   },
+   {
+    "id": "FjICOblZDo0",
+    "title": "HVAC20 Free Quote first draft role play",
+    "meta": [
+     "21",
+     "3y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 21
+   },
+   {
+    "id": "Iemh5H-WrHo",
+    "title": "Ronnie moved his system from the basement to his encapsulated attic and the result blew his mind ...",
+    "meta": [
+     "20",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 20
+   },
+   {
+    "id": "CTBM0_ObeVY",
+    "title": "Adam & Abhi   Case study 4",
+    "meta": [
+     "20",
+     "3y ago"
+    ],
+    "dur": "47:24",
+    "views_tab": 20
+   },
+   {
+    "id": "QXCjLRyGAIQ",
+    "title": "Likely Load Range expresses uncertainty of a load calc where many inputs are guesses",
+    "meta": [
+     "19",
+     "1y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 19
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "YWhwXlUwTxk",
+    "title": "Home Performance 2.0 Vision Casting Webinar with Nate Adams of HP 2.0 and Sam Myers of Retrotec",
+    "meta": [
+     "643",
+     "7y ago"
+    ],
+    "dur": "1:12:30",
+    "views_tab": 643
+   },
+   {
+    "id": "5DraWBpkRQ4",
+    "title": "Load Calculation Demonstration with EDS Auditor",
+    "meta": [
+     "1.2K",
+     "7y ago"
+    ],
+    "dur": "20:47",
+    "views_tab": 1200
+   },
+   {
+    "id": "RTB1Butj3Tg",
+    "title": "BAD ASS HVAC",
+    "meta": [
+     "4.1K",
+     "6y ago"
+    ],
+    "dur": "1:17:53",
+    "views_tab": 4100
+   },
+   {
+    "id": "Kx2L5qQZwrQ",
+    "title": "HVAC 2 0 Live Training   Creating a Report with Silas Hoeppner",
+    "meta": [
+     "1.1K",
+     "6y ago"
+    ],
+    "dur": "1:57:38",
+    "views_tab": 1100
+   },
+   {
+    "id": "8jUQU8iYkpI",
+    "title": "Electrify Everything Bay Area Event 11-16-20",
+    "meta": [
+     "208",
+     "5y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 208
+   },
+   {
+    "id": "24YlrnKzeZ0",
+    "title": "Using Energy Use to Back Into a Load Calculation",
+    "meta": [
+     "381",
+     "5y ago"
+    ],
+    "dur": "13:10",
+    "views_tab": 381
+   },
+   {
+    "id": "VLU1u0p0rfs",
+    "title": "Ty Branaman's Texas Blackout Experience",
+    "meta": [
+     "660",
+     "5y ago"
+    ],
+    "dur": "39:52",
+    "views_tab": 660
+   },
+   {
+    "id": "9eEysGwLZBs",
+    "title": "Chautaqua - How blue collar mindset will drive electrification.",
+    "meta": [
+     "250",
+     "5y ago"
+    ],
+    "dur": "56:32",
+    "views_tab": 250
+   },
+   {
+    "id": "3BR5mrVUmDw",
+    "title": "HVAC 2.0 Testimonial 1: Reedie Ward",
+    "meta": [
+     "349",
+     "5y ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 349
+   },
+   {
+    "id": "B81mW6GlzsQ",
+    "title": "HVAC 2.0 Testimonial 2: Jeff Howard",
+    "meta": [
+     "145",
+     "5y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 145
+   },
+   {
+    "id": "EjQFsjDcJgQ",
+    "title": "Comparing EDS Auditor and Load Calculator",
+    "meta": [
+     "326",
+     "5y ago"
+    ],
+    "dur": "1:36:17",
+    "views_tab": 326
+   },
+   {
+    "id": "XvkXSw9SQSY",
+    "title": "Case Study of Advanced Project Using HVAC 2.0 Process",
+    "meta": [
+     "429",
+     "5y ago"
+    ],
+    "dur": "46:34",
+    "views_tab": 429
+   },
+   {
+    "id": "zbKe-H2avCg",
+    "title": "HVAC 2.0 Comfort Consult - What is it and is it right for you?",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 1300
+   },
+   {
+    "id": "RwZ7a8k6Fzk",
+    "title": "HVAC 2 0 Testimonial 3 - Tanner Dickerson",
+    "meta": [
+     "121",
+     "5y ago"
+    ],
+    "dur": "33:04",
+    "views_tab": 121
+   },
+   {
+    "id": "BT4ZMLO1HoY",
+    "title": "Sweet Spot Thinking - Whole Home Diagnostics HVAC 2.0",
+    "meta": [
+     "266",
+     "5y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 266
+   },
+   {
+    "id": "2EGGpTbzdNc",
+    "title": "Sweet Spot Thinking - Homeowner Education - HVAC 2 0",
+    "meta": [
+     "194",
+     "5y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 194
+   },
+   {
+    "id": "xa2Y6avmPFw",
+    "title": "A-Team Adam - HVAC 2.0 Testimonial 4",
+    "meta": [
+     "252",
+     "5y ago"
+    ],
+    "dur": "28:23",
+    "views_tab": 252
+   },
+   {
+    "id": "n67djElBN2c",
+    "title": "Ryan Kerr - HVAC 2.0 Testimonial 5",
+    "meta": [
+     "106",
+     "5y ago"
+    ],
+    "dur": "22:43",
+    "views_tab": 106
+   },
+   {
+    "id": "WVx9ysJUWds",
+    "title": "HVAC 2.0 Intro to Load Calculations",
+    "meta": [
+     "920",
+     "4y ago"
+    ],
+    "dur": "55:59",
+    "views_tab": 920
+   },
+   {
+    "id": "c1bs5UiaauM",
+    "title": "How to Find a Blower Door  - HVAC 2.0",
+    "meta": [
+     "378",
+     "4y ago"
+    ],
+    "dur": "17:40",
+    "views_tab": 378
+   },
+   {
+    "id": "c4HvJNqSECs",
+    "title": "Minnesota Disaggregation and Load Calc",
+    "meta": [
+     "132",
+     "3y ago"
+    ],
+    "dur": "29:59",
+    "views_tab": 132
+   },
+   {
+    "id": "zj8Ssxpxi5o",
+    "title": "Spanners 7",
+    "meta": [
+     "34",
+     "3y ago"
+    ],
+    "dur": "1:32:36",
+    "views_tab": 34
+   },
+   {
+    "id": "6X1O7O3aQl0",
+    "title": "Spanners 5 & 6",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "1:44:32",
+    "views_tab": 22
+   },
+   {
+    "id": "OfU6BygW-YI",
+    "title": "Spanners 3 & 4",
+    "meta": [
+     "21",
+     "3y ago"
+    ],
+    "dur": "1:42:27",
+    "views_tab": 21
+   },
+   {
+    "id": "lvNECehH1Fc",
+    "title": "Spanners 2   church of kitchen table",
+    "meta": [
+     "17",
+     "3y ago"
+    ],
+    "dur": "59:00",
+    "views_tab": 17
+   },
+   {
+    "id": "Wr1h6wwv81M",
+    "title": "Spanner 1",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "47:50",
+    "views_tab": 22
+   },
+   {
+    "id": "5EdwVQWX9Vg",
+    "title": "Ronny Killed it last month",
+    "meta": [
+     "22",
+     "3y ago"
+    ],
+    "dur": "3:38",
+    "views_tab": 22
+   },
+   {
+    "id": "ZLOmk7PmdEc",
+    "title": "Reedie edit of 2 9 21, best listened to at 1 25 speed",
+    "meta": [
+     "16",
+     "3y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 16
+   },
+   {
+    "id": "yvOQVJ57xqg",
+    "title": "HVAC20 Gross Sales impact spreadsheet",
+    "meta": [
+     "23",
+     "3y ago"
+    ],
+    "dur": "10:56",
+    "views_tab": 23
+   },
+   {
+    "id": "FjICOblZDo0",
+    "title": "HVAC20 Free Quote first draft role play",
+    "meta": [
+     "21",
+     "3y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 21
+   },
+   {
+    "id": "CTBM0_ObeVY",
+    "title": "Adam & Abhi   Case study 4",
+    "meta": [
+     "20",
+     "3y ago"
+    ],
+    "dur": "47:24",
+    "views_tab": 20
+   },
+   {
+    "id": "xVotAwm6kDc",
+    "title": "One Weird Thing Killing Furnaces and ACs - Duct Pressure",
+    "meta": [
+     "869",
+     "3y ago"
+    ],
+    "dur": "1:34",
+    "views_tab": 869
+   },
+   {
+    "id": "GYbhFbY8vzU",
+    "title": "6 Functions of HVAC - Everything you need to know about HVAC you know from your car",
+    "meta": [
+     "920",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 920
+   },
+   {
+    "id": "UjbMRlQBpJc",
+    "title": "Free Quote Overview",
+    "meta": [
+     "131",
+     "3y ago"
+    ],
+    "dur": "1:50",
+    "views_tab": 131
+   },
+   {
+    "id": "nlzFaGjogx4",
+    "title": "Bell Cliff   How to destroy scale in residential decarbonization #electrifyeverything",
+    "meta": [
+     "29",
+     "3y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 29
+   },
+   {
+    "id": "BFFukQIag8o",
+    "title": "Advanced HVAC Chapter Summary",
+    "meta": [
+     "41",
+     "3y ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 41
+   },
+   {
+    "id": "KK8w8dsZ_fo",
+    "title": "Finding a Contractor   Electrify Everything Course Part 7",
+    "meta": [
+     "45",
+     "3y ago"
+    ],
+    "dur": "36:29",
+    "views_tab": 45
+   },
+   {
+    "id": "EYWk_sJQH1Y",
+    "title": "Everything you need to know about HVAC, you know from your car  The 6 Functions of HVAC",
+    "meta": [
+     "60",
+     "3y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 60
+   },
+   {
+    "id": "PSouN-qSjos",
+    "title": "Electrification Case Study Webinar with Client Peter Andexlinger  Retrotec and Nate Adams",
+    "meta": [
+     "83",
+     "3y ago"
+    ],
+    "dur": "1:19:18",
+    "views_tab": 83
+   },
+   {
+    "id": "IgvuI8JNdks",
+    "title": "HVAC 2.0 Process Overview",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "17:37",
+    "views_tab": 1000
+   },
+   {
+    "id": "EwgX0Ear4xI",
+    "title": "Jeff Howard HVAC20 software building client, showing free quote in",
+    "meta": [
+     "85",
+     "3y ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 85
+   },
+   {
+    "id": "bkj8N8Yy27E",
+    "title": "Copy of 4 Questions Quiz/Free Quote Role Play and Q&A",
+    "meta": [
+     "44",
+     "3y ago"
+    ],
+    "dur": "24:23",
+    "views_tab": 44
+   },
+   {
+    "id": "sJYvWbOLKZw",
+    "title": "Jon Esquivel On CPP, CC, and free quote",
+    "meta": [
+     "78",
+     "3y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 78
+   },
+   {
+    "id": "KBf8M6LSVhs",
+    "title": "IRA Heat Pump Tax Incentives - What HVAC Contractors Really Need to Know (Abridged)",
+    "meta": [
+     "385",
+     "3y ago"
+    ],
+    "dur": "1:12:27",
+    "views_tab": 385
+   },
+   {
+    "id": "RzJSWxarwjk",
+    "title": "Key Takeaways for HVAC Contractors -  IRA Heat Pump Incentives",
+    "meta": [
+     "239",
+     "3y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 239
+   },
+   {
+    "id": "yDG_86fsuu4",
+    "title": "Challenges with Climate Focused Clients",
+    "meta": [
+     "114",
+     "3y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 114
+   },
+   {
+    "id": "fe0j_lQdNCY",
+    "title": "IRA Incentives   Reedie's Client",
+    "meta": [
+     "117",
+     "3y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 117
+   },
+   {
+    "id": "UC1n2qhYTS4",
+    "title": "Unintended Consequences   Will Regulations Make Us Sick  The IRA, SEER Ratings, and Dehumidification",
+    "meta": [
+     "377",
+     "3y ago"
+    ],
+    "dur": "1:26:43",
+    "views_tab": 377
+   },
+   {
+    "id": "kTschxDi9ew",
+    "title": "Sensible Heat Ratio Explanation",
+    "meta": [
+     "570",
+     "3y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 570
+   },
+   {
+    "id": "DcW88mXRLpE",
+    "title": "Boots on the ground dehumidification experience with electrifications",
+    "meta": [
+     "56",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 56
+   },
+   {
+    "id": "LANXKqEOkt8",
+    "title": "Sensible Heat Ratio Comparison of 1.5 ton Carrier 38MURA and 1.5 ton Daikin Fit",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "u3YWpWEif0k",
+    "title": "Dehumidification Challenges and Policy, The Short Version",
+    "meta": [
+     "250",
+     "3y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 250
+   },
+   {
+    "id": "1T72TadzoqE",
+    "title": "Dehumidification:  Multiple Tipping Points Are Pushing Us Towards A Public Health Disaster",
+    "meta": [
+     "131",
+     "3y ago"
+    ],
+    "dur": "1:41",
+    "views_tab": 131
+   },
+   {
+    "id": "JBL5PFI41Ew",
+    "title": "Jeff's & Ted riff on some of the \"What Is HVAC20\" slides he presented to his Sales Manager 5/26/23",
+    "meta": [
+     "97",
+     "3y ago"
+    ],
+    "dur": "34:15",
+    "views_tab": 97
+   },
+   {
+    "id": "tWYtcgTZPiQ",
+    "title": "Comfort Quiz saves Williams $30k on Warranty Job",
+    "meta": [
+     "39",
+     "3y ago"
+    ],
+    "dur": "2:07",
+    "views_tab": 39
+   },
+   {
+    "id": "ABxyaRGneRk",
+    "title": "HVAC20 Ethics - 1st responsibility is to provide educational tools",
+    "meta": [
+     "36",
+     "3y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 36
+   },
+   {
+    "id": "jre8JcSnBM4",
+    "title": "Like for Like replacement specification on free quote",
+    "meta": [
+     "23",
+     "3y ago"
+    ],
+    "dur": "1:36",
+    "views_tab": 23
+   },
+   {
+    "id": "4JFFF_XRcuk",
+    "title": "HVAC20 sells heat pumps - and likely load range will help",
+    "meta": [
+     "38",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 38
+   },
+   {
+    "id": "_qhENzI4QZo",
+    "title": "Warranty Reserve and Likely Load Range - without measured infiltration give load range.",
+    "meta": [
+     "34",
+     "3y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 34
+   },
+   {
+    "id": "2JnK6JfJ7-E",
+    "title": "Abhi interviews RONNIE about HVAC20 Technical Sales Process",
+    "meta": [
+     "345",
+     "3y ago"
+    ],
+    "dur": "37:46",
+    "views_tab": 345
+   },
+   {
+    "id": "3gK9BiBtQ3k",
+    "title": "Nate interviews Austin about HVAC20 Technical Sales Process",
+    "meta": [
+     "233",
+     "3y ago"
+    ],
+    "dur": "39:04",
+    "views_tab": 233
+   },
+   {
+    "id": "CvIEaFTZnVM",
+    "title": "ROLEPLAY: Free Quote in Indiana short",
+    "meta": [
+     "103",
+     "3y ago"
+    ],
+    "dur": "19:27",
+    "views_tab": 103
+   },
+   {
+    "id": "ffwDatnMRSY",
+    "title": "Austin's First Free HVAC20 Quote experience",
+    "meta": [
+     "81",
+     "3y ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 81
+   },
+   {
+    "id": "aDu0uemF4Do",
+    "title": "Open Mat   Reedie Riff on using RANGES",
+    "meta": [
+     "114",
+     "3y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 114
+   },
+   {
+    "id": "qjBO_HEQVr4",
+    "title": "Load Ranges Not Calcs end of 10/23/23 HVAC20 live",
+    "meta": [
+     "128",
+     "3y ago"
+    ],
+    "dur": "20:09",
+    "views_tab": 128
+   },
+   {
+    "id": "_KrjZGFGurY",
+    "title": "Repair Not Replace - the Private Equity problem",
+    "meta": [
+     "185",
+     "3y ago"
+    ],
+    "dur": "21:11",
+    "views_tab": 185
+   },
+   {
+    "id": "NpyCDMKT3Io",
+    "title": "Are you enjoying your job? HVAC20 Process makes for better contractor/client relationships",
+    "meta": [
+     "68",
+     "2y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 68
+   },
+   {
+    "id": "Uzxn4Z3WY7Y",
+    "title": "HVAC20 Monday Meeting Shorts - Getting started with Kajabi",
+    "meta": [
+     "93",
+     "2y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 93
+   },
+   {
+    "id": "fw9zTsLsErc",
+    "title": "Ken Dean's view on value of having a repeatable SALES PROCESS, riff w hvac20 tribe minute 5",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 36
+   },
+   {
+    "id": "pCg-4hMSFaA",
+    "title": "Free Quote Role Play with newbies Jason T & Jason C (edited)",
+    "meta": [
+     "53",
+     "2y ago"
+    ],
+    "dur": "1:26:45",
+    "views_tab": 53
+   },
+   {
+    "id": "E_mua9Mg7sI",
+    "title": "Jason's First HVAC20 Free Quote - client selects $19k Evolution Hybrid!",
+    "meta": [
+     "104",
+     "2y ago"
+    ],
+    "dur": "44:27",
+    "views_tab": 104
+   },
+   {
+    "id": "o8uV5q3yN6o",
+    "title": "Jason is 2 for two with the HVAC20 Free Quote Process, $10k today",
+    "meta": [
+     "52",
+     "2y ago"
+    ],
+    "dur": "36:57",
+    "views_tab": 52
+   },
+   {
+    "id": "3fcGUgNDdYw",
+    "title": "Home Comfort 101 Part 1",
+    "meta": [
+     "95",
+     "2y ago"
+    ],
+    "dur": "1:06:09",
+    "views_tab": 95
+   },
+   {
+    "id": "Wzgwk5YnUqc",
+    "title": "Plan A or Plan B  The HVAC 2 0 Comfort Consult",
+    "meta": [
+     "104",
+     "2y ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 104
+   },
+   {
+    "id": "vPcIsYVHxh4",
+    "title": "Jason's 3rd HVAC20 FQ Process lead, debrief (Update: job sold)",
+    "meta": [
+     "36",
+     "2y ago"
+    ],
+    "dur": "26:31",
+    "views_tab": 36
+   },
+   {
+    "id": "W28xRr0cjzc",
+    "title": "Reedie HVAC20 Free Quote debrief 12/22/23",
+    "meta": [
+     "42",
+     "2y ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 42
+   },
+   {
+    "id": "umJFOiauyVo",
+    "title": "Jason's 5th Free Quote is a complicated one!",
+    "meta": [
+     "47",
+     "2y ago"
+    ],
+    "dur": "1:03:09",
+    "views_tab": 47
+   },
+   {
+    "id": "VmwhMMtJV-U",
+    "title": "Jason's 6th HVAC20 Free Quote debrief 12/30/23",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "39:31",
+    "views_tab": 56
+   },
+   {
+    "id": "WlrIQAD7GLE",
+    "title": "Jason Cecil Sells TWO on New Years Eve!!!",
+    "meta": [
+     "61",
+     "2y ago"
+    ],
+    "dur": "44:36",
+    "views_tab": 61
+   },
+   {
+    "id": "J4G1_Z1MbAg",
+    "title": "Eric and Ted discuss FQP",
+    "meta": [
+     "25",
+     "2y ago"
+    ],
+    "dur": "30:15",
+    "views_tab": 25
+   },
+   {
+    "id": "UhshzQv0u8g",
+    "title": "Jason Debrief 1/5/24",
+    "meta": [
+     "27",
+     "2y ago"
+    ],
+    "dur": "30:43",
+    "views_tab": 27
+   },
+   {
+    "id": "NVEdluFpgP4",
+    "title": "ARE ALL HVAC SALESPEOPLE GROSSLY UNPROFESSIONAL? Jason C Debrief 1/6/2024",
+    "meta": [
+     "119",
+     "2y ago"
+    ],
+    "dur": "45:05",
+    "views_tab": 119
+   },
+   {
+    "id": "5gTV6nR96YM",
+    "title": "Jason - Getting comfortable with HVAC20 Free Quote takes 1-2 hours onboarding, then 2 visits",
+    "meta": [
+     "56",
+     "2y ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 56
+   },
+   {
+    "id": "lIthfdqs5bo",
+    "title": "Jason visit 1/13/24, ANOTHER furnace sale!",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "27:41",
+    "views_tab": 43
+   },
+   {
+    "id": "0OqiuQUUQYI",
+    "title": "Tanner Dickerson HVAC20 debrief 2024",
+    "meta": [
+     "83",
+     "2y ago"
+    ],
+    "dur": "34:05",
+    "views_tab": 83
+   },
+   {
+    "id": "ADCxmml_nS4",
+    "title": "Jon Esquival HVAC20 Debrief 2024",
+    "meta": [
+     "80",
+     "2y ago"
+    ],
+    "dur": "45:22",
+    "views_tab": 80
+   },
+   {
+    "id": "WMPvumsme9s",
+    "title": "JASON FINALLY LOOSES A SALE!!",
+    "meta": [
+     "35",
+     "2y ago"
+    ],
+    "dur": "23:36",
+    "views_tab": 35
+   },
+   {
+    "id": "x-XxtW3sxK4",
+    "title": "$26k Job! Austin EXCITED about success with HVAC20 Free Quote Process!",
+    "meta": [
+     "48",
+     "2y ago"
+    ],
+    "dur": "28:39",
+    "views_tab": 48
+   },
+   {
+    "id": "KSc5yXaGSI4",
+    "title": "Austin on GOOD TECHNICIAN T/O SETUP VS POOR TECH T/O SETUP",
+    "meta": [
+     "30",
+     "2y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 30
+   },
+   {
+    "id": "2o8xfSrO2is",
+    "title": "Tim Naugher HVAC20 Debrief 2024",
+    "meta": [
+     "59",
+     "2y ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 59
+   },
+   {
+    "id": "J73l2j0sJlQ",
+    "title": "HVAC20 FQP avoids creating pissed off clients - Awesome Austin debrief",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "30:06",
+    "views_tab": 37
+   },
+   {
+    "id": "9RbdIIu8Mxw",
+    "title": "A taste of Free Quote in HVAC 2.0 - if you feel like you are selling you are doing it wrong",
+    "meta": [
+     "229",
+     "2y ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 229
+   },
+   {
+    "id": "JWNEMdm41CM",
+    "title": "Ben Baptist talks about his path to HVAC20",
+    "meta": [
+     "69",
+     "2y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 69
+   },
+   {
+    "id": "2T-1R2eN-O8",
+    "title": "Ben: \"If you're not using it yet, start using the free quote process\"",
+    "meta": [
+     "35",
+     "2y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 35
+   },
+   {
+    "id": "i1LvAgmMjcE",
+    "title": "Cody Sweat from Saginaw, very first meeting",
+    "meta": [
+     "49",
+     "2y ago"
+    ],
+    "dur": "1:40:49",
+    "views_tab": 49
+   },
+   {
+    "id": "u4_7FUbN4jg",
+    "title": "Austin Inman fights being hero on free quotes",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "27:51",
+    "views_tab": 43
+   },
+   {
+    "id": "2iyxYx0JeGU",
+    "title": "4 29 24 shorts - Reedie stories from last Monday Night",
+    "meta": [
+     "15",
+     "2y ago"
+    ],
+    "dur": "1:09:36",
+    "views_tab": 15
+   },
+   {
+    "id": "DTwEA0DtQdU",
+    "title": "4 29 24 Shorts -  Ken's thoughts on meetings he missed",
+    "meta": [
+     "9",
+     "2y ago"
+    ],
+    "dur": "15:15",
+    "views_tab": 9
+   },
+   {
+    "id": "OB7ANXYM_wE",
+    "title": "4 29 24 Shorts - Ronnie discusses HVAC20 at his company and his record month",
+    "meta": [
+     "33",
+     "2y ago"
+    ],
+    "dur": "35:48",
+    "views_tab": 33
+   },
+   {
+    "id": "IvdekaXNw6A",
+    "title": "Ethical HVAC Sales Processes - RONNIE and crew talk about how \"Duct Analysis\" can easily be misused",
+    "meta": [
+     "66",
+     "2y ago"
+    ],
+    "dur": "20:33",
+    "views_tab": 66
+   },
+   {
+    "id": "JPgv1i1oPLg",
+    "title": "4 29 24 Shorts FREE QUOTE needs major improvement still....",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 26
+   },
+   {
+    "id": "5BTWNpZSGPM",
+    "title": "HVAC20 Monday Meeting 1 Improving Process and Report",
+    "meta": [
+     "16",
+     "2y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 16
+   },
+   {
+    "id": "fHKZ-xdppUs",
+    "title": "HVAC20 Short - Tanner/Reedie Budget Role Play",
+    "meta": [
+     "21",
+     "2y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 21
+   },
+   {
+    "id": "nfShgEduJFg",
+    "title": "HVAC20 Monday Meeting Shorts Sizing for worst case and most common case.",
+    "meta": [
+     "37",
+     "2y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 37
+   },
+   {
+    "id": "6_qoe5DVLrg",
+    "title": "HVAC20 CC Avoids Blame! AUSTIN shares his 1 year revisit for humidity issues",
+    "meta": [
+     "26",
+     "2y ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 26
+   },
+   {
+    "id": "PkwFsYWLHIU",
+    "title": "Austin and Tanner discuss how Free Quote process may shift Comfort Consult to the back burner",
+    "meta": [
+     "29",
+     "2y ago"
+    ],
+    "dur": "34:14",
+    "views_tab": 29
+   },
+   {
+    "id": "snbNpKqx6hc",
+    "title": "HVAC20 Selling Software, Measurements section, Creating Likely Load Range",
+    "meta": [
+     "43",
+     "2y ago"
+    ],
+    "dur": "7:59",
+    "views_tab": 43
+   },
+   {
+    "id": "f6vrxA9CNQQ",
+    "title": "Eric showing decision grid fixed and discussion or reordering the report",
+    "meta": [
+     "39",
+     "2y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 39
+   },
+   {
+    "id": "UKbaBpPrvdY",
+    "title": "HVAC 2 0 Comfort Consult Overview",
+    "meta": [
+     "170",
+     "1y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 170
+   },
+   {
+    "id": "1nXIHQdRF2g",
+    "title": "Tanner Dickerson HVAC20 - Cybertruck is the best service truck ever!",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 1700
+   },
+   {
+    "id": "QabG07EGNyQ",
+    "title": "REEDIE is liking and improving his request to \"Have The Privilege To Be Last To Bid\" approach",
+    "meta": [
+     "56",
+     "1y ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 56
+   },
+   {
+    "id": "_fRUfW7M_hA",
+    "title": "Friday's with Eric - privilege of last to bid - Sandler \"No Maybes\"",
+    "meta": [
+     "37",
+     "1y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 37
+   },
+   {
+    "id": "cBdSCgZLcXg",
+    "title": "The One Question That Sets The Direction of an HVAC Sale",
+    "meta": [
+     "31",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 31
+   },
+   {
+    "id": "FkJxYW7uCdg",
+    "title": "The truth about filter change monitoring  Are they really accurate?",
+    "meta": [
+     "21",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 21
+   },
+   {
+    "id": "r5benWPHhXk",
+    "title": "Following the HVAC20 Free Quote Process in software",
+    "meta": [
+     "33",
+     "1y ago"
+    ],
+    "dur": "8:07",
+    "views_tab": 33
+   },
+   {
+    "id": "Z2Y7MAr-5B8",
+    "title": "HVAC20 software pricing",
+    "meta": [
+     "34",
+     "1y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 34
+   },
+   {
+    "id": "3eh3CFdG7ew",
+    "title": "Eric discussing how HVAC20 software will track Revenue Per Lead June 2025",
+    "meta": [
+     "18",
+     "1y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 18
+   },
+   {
+    "id": "hGnaV0cLMQ4",
+    "title": "REVENUE PER LEAD $4k minimum expectation",
+    "meta": [
+     "50",
+     "1y ago"
+    ],
+    "dur": "54:11",
+    "views_tab": 50
+   },
+   {
+    "id": "ZHRANbiDpOs",
+    "title": "Oversized AC Units in Rental Units - 2t unit delivering .75t",
+    "meta": [
+     "70",
+     "1y ago"
+    ],
+    "dur": "3:16",
+    "views_tab": 70
+   },
+   {
+    "id": "QXCjLRyGAIQ",
+    "title": "Likely Load Range expresses uncertainty of a load calc where many inputs are guesses",
+    "meta": [
+     "19",
+     "1y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 19
+   }
+  ]
+ }
+}

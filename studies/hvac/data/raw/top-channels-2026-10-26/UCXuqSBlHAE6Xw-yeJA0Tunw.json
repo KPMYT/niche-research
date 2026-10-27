@@ -1,0 +1,3931 @@
+{
+ "key": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+ "channel": "Linus Tech Tips",
+ "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+ "subs": "16.9M subscribers",
+ "videos": null,
+ "pulled": "2026-10-26T08:14:03.520033+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "DN953UW8iJ8",
+    "title": "dbrand Forced me to Review the iPhone 18 Pro",
+    "meta": [
+     "1M",
+     "1d ago"
+    ],
+    "dur": "15:51",
+    "views_tab": 1000000
+   },
+   {
+    "id": "FH5SoaRx2TA",
+    "title": "There\u2019s a Secret (Better) Netflix for Millionaires",
+    "meta": [
+     "4M",
+     "3d ago"
+    ],
+    "dur": "17:59",
+    "views_tab": 4000000
+   },
+   {
+    "id": "LGA4ZFr-hfo",
+    "title": "Hard Drives are Expensive...What if I Compress my Windows folder instead?",
+    "meta": [
+     "1.1M",
+     "5d ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "U-QiUAMda7Y",
+    "title": "This video was pain and suffering - Tech House",
+    "meta": [
+     "1.5M",
+     "6d ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 1500000
+   },
+   {
+    "id": "aV81SqB6HQg",
+    "title": "NVIDIA Tried to Tell me How to Benchmark RTX Spark",
+    "meta": [
+     "1.6M",
+     "9d ago"
+    ],
+    "dur": "13:40",
+    "views_tab": 1600000
+   },
+   {
+    "id": "sjuisARFWn8",
+    "title": "My First 15 Minutes with RTX Spark",
+    "meta": [
+     "1.3M",
+     "10d ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 1300000
+   },
+   {
+    "id": "Ndzz-YWvtkg",
+    "title": "This Upgrade Proved I'm Weak - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "1.8M",
+     "11d ago"
+    ],
+    "dur": "31:41",
+    "views_tab": 1800000
+   },
+   {
+    "id": "TD74a5g5rp0",
+    "title": "Everything Apple announced in under 10 mins - Welcome Home 2026",
+    "meta": [
+     "1.1M",
+     "12d ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1100000
+   },
+   {
+    "id": "_2i-dhRl9wo",
+    "title": "This is an Official Sony Product",
+    "meta": [
+     "2.5M",
+     "13d ago"
+    ],
+    "dur": "18:16",
+    "views_tab": 2500000
+   },
+   {
+    "id": "fr0WIIZxvx0",
+    "title": "Pros Try Fake AI Photoshop",
+    "meta": [
+     "3.1M",
+     "2w ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 3100000
+   },
+   {
+    "id": "LttGyjX-QxE",
+    "title": "Finishing What we Started Seven Years Ago",
+    "meta": [
+     "Linus Tech Tips",
+     "and Zip Tie Tuning",
+     "2.1M",
+     "2w ago"
+    ],
+    "dur": "31:21",
+    "views_tab": 2100000
+   },
+   {
+    "id": "t28bEMboL9Y",
+    "title": "The All COSTCO Gaming Setup",
+    "meta": [
+     "2.6M",
+     "2w ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 2600000
+   },
+   {
+    "id": "ijFSEb2W6_8",
+    "title": "I\u2019ve Wanted This Robot for 10 Years",
+    "meta": [
+     "1.8M",
+     "3w ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 1800000
+   },
+   {
+    "id": "79s8O7Cipl0",
+    "title": "Don\u2019t Buy a \"Pro\" Controller. Do This Instead",
+    "meta": [
+     "2.2M",
+     "3w ago"
+    ],
+    "dur": "30:11",
+    "views_tab": 2200000
+   },
+   {
+    "id": "1H20xp8Brnc",
+    "title": "I Have Strong Feelings About Air Conditioning in the Tech House",
+    "meta": [
+     "1.9M",
+     "3w ago"
+    ],
+    "dur": "21:04",
+    "views_tab": 1900000
+   },
+   {
+    "id": "y1hZ3EalPQU",
+    "title": "I Found these Computers in a Ditch\u2026",
+    "meta": [
+     "2.2M",
+     "3w ago"
+    ],
+    "dur": "27:05",
+    "views_tab": 2200000
+   },
+   {
+    "id": "1gxnANAbLuE",
+    "title": "The ALL RAZER Gaming Setup",
+    "meta": [
+     "2.1M",
+     "4w ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 2100000
+   },
+   {
+    "id": "DLOQOUWmRpI",
+    "title": "The Apple Product I Still Fanboy Over - AirPods 5 Review",
+    "meta": [
+     "1.4M",
+     "1mo ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 1400000
+   },
+   {
+    "id": "XM04mbymDsE",
+    "title": "The Most Permanent Tech Upgrade of All Time - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "3.1M",
+     "1mo ago"
+    ],
+    "dur": "29:20",
+    "views_tab": 3100000
+   },
+   {
+    "id": "GaX0frxNwfQ",
+    "title": "This NAS is a Local AI smart home hub",
+    "meta": [
+     "1.7M",
+     "1mo ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 1700000
+   },
+   {
+    "id": "qgLaCZyKv_8",
+    "title": "I Tried All The Best (and Worst) Doorbells",
+    "meta": [
+     "1.7M",
+     "1mo ago"
+    ],
+    "dur": "17:23",
+    "views_tab": 1700000
+   },
+   {
+    "id": "zg-rMHEqg-4",
+    "title": "My Son Needs a New Laptop",
+    "meta": [
+     "4.8M",
+     "1mo ago"
+    ],
+    "dur": "19:57",
+    "views_tab": 4800000
+   },
+   {
+    "id": "3xngArcFpek",
+    "title": "I Promise you this is NOT Stupid",
+    "meta": [
+     "2.3M",
+     "1mo ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 2300000
+   },
+   {
+    "id": "3PGKMwgjla0",
+    "title": "Steam Frame Review - This Changes Everything",
+    "meta": [
+     "5.3M",
+     "1mo ago"
+    ],
+    "dur": "23:46",
+    "views_tab": 5300000
+   },
+   {
+    "id": "i_nj_vkD03g",
+    "title": "The Steam-Cooled STEAM Machine",
+    "meta": [
+     "1.9M",
+     "1mo ago"
+    ],
+    "dur": "25:42",
+    "views_tab": 1900000
+   },
+   {
+    "id": "pvSdeU13hKc",
+    "title": "This GPU can be Hacked to Unlock Secret Memory ",
+    "meta": [
+     "1.4M",
+     "1mo ago"
+    ],
+    "dur": "19:02",
+    "views_tab": 1400000
+   },
+   {
+    "id": "VfQdPRyqQW4",
+    "title": "I Cooled my PC with a SLUSHIE MACHINE",
+    "meta": [
+     "1.8M",
+     "1mo ago"
+    ],
+    "dur": "24:15",
+    "views_tab": 1800000
+   },
+   {
+    "id": "sL6OWsT47zc",
+    "title": "Apple just Copied Microsoft\u2019s Worst Idea - iPhone Duo, Airpods 5, iPhone 18 Pro & More",
+    "meta": [
+     "4.2M",
+     "1mo ago"
+    ],
+    "dur": "18:20",
+    "views_tab": 4200000
+   },
+   {
+    "id": "2KztkwBYD68",
+    "title": "Why are people spending $1,000 for old iPods",
+    "meta": [
+     "3.1M",
+     "1mo ago"
+    ],
+    "dur": "15:19",
+    "views_tab": 3100000
+   },
+   {
+    "id": "nZwdIPg7N3A",
+    "title": "We Should Have Hired Someone to do this\u2026",
+    "meta": [
+     "2.1M",
+     "1mo ago"
+    ],
+    "dur": "21:44",
+    "views_tab": 2100000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "DN953UW8iJ8",
+    "title": "dbrand Forced me to Review the iPhone 18 Pro",
+    "meta": [
+     "1M",
+     "1d ago"
+    ],
+    "dur": "15:51",
+    "views_tab": 1000000
+   },
+   {
+    "id": "FH5SoaRx2TA",
+    "title": "There\u2019s a Secret (Better) Netflix for Millionaires",
+    "meta": [
+     "4M",
+     "3d ago"
+    ],
+    "dur": "17:59",
+    "views_tab": 4000000
+   },
+   {
+    "id": "LGA4ZFr-hfo",
+    "title": "Hard Drives are Expensive...What if I Compress my Windows folder instead?",
+    "meta": [
+     "1.1M",
+     "5d ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "U-QiUAMda7Y",
+    "title": "This video was pain and suffering - Tech House",
+    "meta": [
+     "1.5M",
+     "6d ago"
+    ],
+    "dur": "23:49",
+    "views_tab": 1500000
+   },
+   {
+    "id": "aV81SqB6HQg",
+    "title": "NVIDIA Tried to Tell me How to Benchmark RTX Spark",
+    "meta": [
+     "1.6M",
+     "9d ago"
+    ],
+    "dur": "13:40",
+    "views_tab": 1600000
+   },
+   {
+    "id": "sjuisARFWn8",
+    "title": "My First 15 Minutes with RTX Spark",
+    "meta": [
+     "1.3M",
+     "10d ago"
+    ],
+    "dur": "14:36",
+    "views_tab": 1300000
+   },
+   {
+    "id": "Ndzz-YWvtkg",
+    "title": "This Upgrade Proved I'm Weak - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "1.8M",
+     "11d ago"
+    ],
+    "dur": "31:41",
+    "views_tab": 1800000
+   },
+   {
+    "id": "TD74a5g5rp0",
+    "title": "Everything Apple announced in under 10 mins - Welcome Home 2026",
+    "meta": [
+     "1.1M",
+     "12d ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1100000
+   },
+   {
+    "id": "_2i-dhRl9wo",
+    "title": "This is an Official Sony Product",
+    "meta": [
+     "2.5M",
+     "13d ago"
+    ],
+    "dur": "18:16",
+    "views_tab": 2500000
+   },
+   {
+    "id": "fr0WIIZxvx0",
+    "title": "Pros Try Fake AI Photoshop",
+    "meta": [
+     "3.1M",
+     "2w ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 3100000
+   },
+   {
+    "id": "LttGyjX-QxE",
+    "title": "Finishing What we Started Seven Years Ago",
+    "meta": [
+     "Linus Tech Tips",
+     "and Zip Tie Tuning",
+     "2.1M",
+     "2w ago"
+    ],
+    "dur": "31:21",
+    "views_tab": 2100000
+   },
+   {
+    "id": "t28bEMboL9Y",
+    "title": "The All COSTCO Gaming Setup",
+    "meta": [
+     "2.6M",
+     "2w ago"
+    ],
+    "dur": "25:38",
+    "views_tab": 2600000
+   },
+   {
+    "id": "ijFSEb2W6_8",
+    "title": "I\u2019ve Wanted This Robot for 10 Years",
+    "meta": [
+     "1.8M",
+     "3w ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 1800000
+   },
+   {
+    "id": "79s8O7Cipl0",
+    "title": "Don\u2019t Buy a \"Pro\" Controller. Do This Instead",
+    "meta": [
+     "2.2M",
+     "3w ago"
+    ],
+    "dur": "30:11",
+    "views_tab": 2200000
+   },
+   {
+    "id": "1H20xp8Brnc",
+    "title": "I Have Strong Feelings About Air Conditioning in the Tech House",
+    "meta": [
+     "1.9M",
+     "3w ago"
+    ],
+    "dur": "21:04",
+    "views_tab": 1900000
+   },
+   {
+    "id": "y1hZ3EalPQU",
+    "title": "I Found these Computers in a Ditch\u2026",
+    "meta": [
+     "2.2M",
+     "3w ago"
+    ],
+    "dur": "27:05",
+    "views_tab": 2200000
+   },
+   {
+    "id": "1gxnANAbLuE",
+    "title": "The ALL RAZER Gaming Setup",
+    "meta": [
+     "2.1M",
+     "4w ago"
+    ],
+    "dur": "25:29",
+    "views_tab": 2100000
+   },
+   {
+    "id": "DLOQOUWmRpI",
+    "title": "The Apple Product I Still Fanboy Over - AirPods 5 Review",
+    "meta": [
+     "1.4M",
+     "1mo ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 1400000
+   },
+   {
+    "id": "XM04mbymDsE",
+    "title": "The Most Permanent Tech Upgrade of All Time - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "3.1M",
+     "1mo ago"
+    ],
+    "dur": "29:20",
+    "views_tab": 3100000
+   },
+   {
+    "id": "GaX0frxNwfQ",
+    "title": "This NAS is a Local AI smart home hub",
+    "meta": [
+     "1.7M",
+     "1mo ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 1700000
+   },
+   {
+    "id": "qgLaCZyKv_8",
+    "title": "I Tried All The Best (and Worst) Doorbells",
+    "meta": [
+     "1.7M",
+     "1mo ago"
+    ],
+    "dur": "17:23",
+    "views_tab": 1700000
+   },
+   {
+    "id": "zg-rMHEqg-4",
+    "title": "My Son Needs a New Laptop",
+    "meta": [
+     "4.8M",
+     "1mo ago"
+    ],
+    "dur": "19:57",
+    "views_tab": 4800000
+   },
+   {
+    "id": "3xngArcFpek",
+    "title": "I Promise you this is NOT Stupid",
+    "meta": [
+     "2.3M",
+     "1mo ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 2300000
+   },
+   {
+    "id": "3PGKMwgjla0",
+    "title": "Steam Frame Review - This Changes Everything",
+    "meta": [
+     "5.3M",
+     "1mo ago"
+    ],
+    "dur": "23:46",
+    "views_tab": 5300000
+   },
+   {
+    "id": "i_nj_vkD03g",
+    "title": "The Steam-Cooled STEAM Machine",
+    "meta": [
+     "1.9M",
+     "1mo ago"
+    ],
+    "dur": "25:42",
+    "views_tab": 1900000
+   },
+   {
+    "id": "pvSdeU13hKc",
+    "title": "This GPU can be Hacked to Unlock Secret Memory ",
+    "meta": [
+     "1.4M",
+     "1mo ago"
+    ],
+    "dur": "19:02",
+    "views_tab": 1400000
+   },
+   {
+    "id": "VfQdPRyqQW4",
+    "title": "I Cooled my PC with a SLUSHIE MACHINE",
+    "meta": [
+     "1.8M",
+     "1mo ago"
+    ],
+    "dur": "24:15",
+    "views_tab": 1800000
+   },
+   {
+    "id": "sL6OWsT47zc",
+    "title": "Apple just Copied Microsoft\u2019s Worst Idea - iPhone Duo, Airpods 5, iPhone 18 Pro & More",
+    "meta": [
+     "4.2M",
+     "1mo ago"
+    ],
+    "dur": "18:20",
+    "views_tab": 4200000
+   },
+   {
+    "id": "2KztkwBYD68",
+    "title": "Why are people spending $1,000 for old iPods",
+    "meta": [
+     "3.1M",
+     "1mo ago"
+    ],
+    "dur": "15:19",
+    "views_tab": 3100000
+   },
+   {
+    "id": "nZwdIPg7N3A",
+    "title": "We Should Have Hired Someone to do this\u2026",
+    "meta": [
+     "2.1M",
+     "1mo ago"
+    ],
+    "dur": "21:44",
+    "views_tab": 2100000
+   },
+   {
+    "id": "lmLh29LE2W4",
+    "title": "The Best Value Gaming PC I\u2019ve Ever Seen",
+    "meta": [
+     "1.8M",
+     "1mo ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 1800000
+   },
+   {
+    "id": "X8sgBpmdCT8",
+    "title": "We Built the BEST PC",
+    "meta": [
+     "4.5M",
+     "1mo ago"
+    ],
+    "dur": "13:43",
+    "views_tab": 4500000
+   },
+   {
+    "id": "fX-g6XNrkiA",
+    "title": "DLSS 5 is NOT What We Expected",
+    "meta": [
+     "4.2M",
+     "1mo ago"
+    ],
+    "dur": "18:58",
+    "views_tab": 4200000
+   },
+   {
+    "id": "LYMvJW5rYME",
+    "title": "I Built a Fake Home Theater in the Tech House\u2026",
+    "meta": [
+     "1.3M",
+     "1mo ago"
+    ],
+    "dur": "17:09",
+    "views_tab": 1300000
+   },
+   {
+    "id": "yFJDP7OinRM",
+    "title": "My Wife Needs a Phone, and I\u2019m NOT Gonna Mess it Up This Time",
+    "meta": [
+     "4.1M",
+     "1mo ago"
+    ],
+    "dur": "21:46",
+    "views_tab": 4099999
+   },
+   {
+    "id": "oeqUHEp4sYM",
+    "title": "How to Stop Smart TV Spying",
+    "meta": [
+     "1.2M",
+     "1mo ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 1200000
+   },
+   {
+    "id": "H4BKUbtCmp0",
+    "title": "How do you upgrade a lifelong Tech??? - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "2.1M",
+     "2mo ago"
+    ],
+    "dur": "30:00",
+    "views_tab": 2100000
+   },
+   {
+    "id": "ZWCAXHNOIcA",
+    "title": "Your Next Budget PC Upgrade is...Custom Watercooling??",
+    "meta": [
+     "778K",
+     "2mo ago"
+    ],
+    "dur": "24:04",
+    "views_tab": 778000
+   },
+   {
+    "id": "DXK-F0SjC_E",
+    "title": "I put the NEWEST CPU in the OLDEST Motherboard",
+    "meta": [
+     "1.6M",
+     "2mo ago"
+    ],
+    "dur": "13:48",
+    "views_tab": 1600000
+   },
+   {
+    "id": "36oL-7C_qR4",
+    "title": "There\u2019s NO Excuse Not To Try Linux!",
+    "meta": [
+     "964K",
+     "2mo ago"
+    ],
+    "dur": "18:00",
+    "views_tab": 964000
+   },
+   {
+    "id": "AHP423JqiLc",
+    "title": "$5 vs $500 Guitar Hero Controller!",
+    "meta": [
+     "405K",
+     "2mo ago"
+    ],
+    "dur": "23:44",
+    "views_tab": 405000
+   },
+   {
+    "id": "MQeJYEN_lrg",
+    "title": "This DIY Datacenter is NUTS - Hetzner Tour",
+    "meta": [
+     "1.8M",
+     "2mo ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 1800000
+   },
+   {
+    "id": "ea3EvwkW_28",
+    "title": "The Greatest Graphics Card of All Time.",
+    "meta": [
+     "931K",
+     "2mo ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 931000
+   },
+   {
+    "id": "J261Rg0LTDA",
+    "title": "\"Pro\" phones are stupid - Pixel 11 Announcement",
+    "meta": [
+     "758K",
+     "2mo ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 758000
+   },
+   {
+    "id": "rbQtX_thQtQ",
+    "title": "It Shouldn\u2019t be this Hard to Buy A Printer\u2026",
+    "meta": [
+     "2.4M",
+     "2mo ago"
+    ],
+    "dur": "19:39",
+    "views_tab": 2400000
+   },
+   {
+    "id": "NWoT1ZVd1Lo",
+    "title": "Her phone died, so I'm making her fix it",
+    "meta": [
+     "1.4M",
+     "2mo ago"
+    ],
+    "dur": "18:16",
+    "views_tab": 1400000
+   },
+   {
+    "id": "XiSMWonFuQQ",
+    "title": "Rating Every Version of Windows",
+    "meta": [
+     "1.1M",
+     "2mo ago"
+    ],
+    "dur": "28:58",
+    "views_tab": 1100000
+   },
+   {
+    "id": "ijUCl9w95vg",
+    "title": "Youtuber Products Tier List",
+    "meta": [
+     "903K",
+     "2mo ago"
+    ],
+    "dur": "22:38",
+    "views_tab": 903000
+   },
+   {
+    "id": "1oIyk13JwQM",
+    "title": "Does Linux use less RAM?",
+    "meta": [
+     "1.1M",
+     "2mo ago"
+    ],
+    "dur": "13:48",
+    "views_tab": 1100000
+   },
+   {
+    "id": "t6MAZW-joCo",
+    "title": "I Followed ChatGPT\u2019s PC Build Guide (2026)",
+    "meta": [
+     "2.4M",
+     "2mo ago"
+    ],
+    "dur": "35:07",
+    "views_tab": 2400000
+   },
+   {
+    "id": "L0ViytO-560",
+    "title": "The Tech House Needs a Workshop\u2026",
+    "meta": [
+     "840K",
+     "2mo ago"
+    ],
+    "dur": "21:26",
+    "views_tab": 840000
+   },
+   {
+    "id": "sd4v2N7HUyk",
+    "title": "This Obsoleted Every 3D Printer I Own",
+    "meta": [
+     "1.1M",
+     "2mo ago"
+    ],
+    "dur": "13:08",
+    "views_tab": 1100000
+   },
+   {
+    "id": "JQb9eGeclQw",
+    "title": "I Could Cry Over the Framework Pro 13",
+    "meta": [
+     "1.4M",
+     "2mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 1400000
+   },
+   {
+    "id": "GJdyoJcZsuo",
+    "title": "He Thought His Internet was OK... IT'S NOT!",
+    "meta": [
+     "1.3M",
+     "2mo ago"
+    ],
+    "dur": "22:51",
+    "views_tab": 1300000
+   },
+   {
+    "id": "CjIwXfw8ffU",
+    "title": "It Took Me 6 Years to Make This - Forever* Sock",
+    "meta": [
+     "454K",
+     "3mo ago"
+    ],
+    "dur": "11:37",
+    "views_tab": 454000
+   },
+   {
+    "id": "Hfovjw7Ts_U",
+    "title": "If My Product Fails I Give Away $1,000 - Open Sauce 2026",
+    "meta": [
+     "845K",
+     "3mo ago"
+    ],
+    "dur": "24:18",
+    "views_tab": 845000
+   },
+   {
+    "id": "5fXAELrljqs",
+    "title": "Valve Accidentally Made the Best Desktop PC I\u2019ve Ever Used",
+    "meta": [
+     "2.7M",
+     "3mo ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 2700000
+   },
+   {
+    "id": "QAA7b1Av0jM",
+    "title": "This Upgrade is Dangerous - AMD $5,000 Ultimate Tech Upgrade",
+    "meta": [
+     "1.1M",
+     "3mo ago"
+    ],
+    "dur": "25:35",
+    "views_tab": 1100000
+   },
+   {
+    "id": "zIgmgMLZrrc",
+    "title": "True 4k Gaming PC (2026) - Classic LTT Build Guide",
+    "meta": [
+     "1M",
+     "3mo ago"
+    ],
+    "dur": "20:06",
+    "views_tab": 1000000
+   },
+   {
+    "id": "qZ7OjpjGVGs",
+    "title": "It\u2019s Time to Commit to Linux\u2026But which one?",
+    "meta": [
+     "1.2M",
+     "3mo ago"
+    ],
+    "dur": "9:41",
+    "views_tab": 1200000
+   },
+   {
+    "id": "nt4eQU7MG9c",
+    "title": "My biggest Home Theater Upgrade is NOT Expensive",
+    "meta": [
+     "1.3M",
+     "3mo ago"
+    ],
+    "dur": "24:50",
+    "views_tab": 1300000
+   },
+   {
+    "id": "aAOgZ6cjrio",
+    "title": "The GOD-KING of TVs - Sony TrueRGB 115\u201d",
+    "meta": [
+     "1.5M",
+     "3mo ago"
+    ],
+    "dur": "22:38",
+    "views_tab": 1500000
+   },
+   {
+    "id": "b2vI8IjSWxY",
+    "title": "Which OS opens MORE Chrome Tabs? (1.5TB RAM)",
+    "meta": [
+     "1M",
+     "3mo ago"
+    ],
+    "dur": "22:36",
+    "views_tab": 1000000
+   },
+   {
+    "id": "X6Cbt3Ro6u8",
+    "title": "I Needed Some Professional Help - Film Scanning with Brandon Lee",
+    "meta": [
+     "Linus Tech Tips",
+     "and Brandon Y Lee",
+     "545K",
+     "3mo ago"
+    ],
+    "dur": "18:05",
+    "views_tab": 545000
+   },
+   {
+    "id": "5xN7ndof4Xc",
+    "title": "Why Is Everyone Buying This $200 TV?",
+    "meta": [
+     "2M",
+     "3mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 2000000
+   },
+   {
+    "id": "Z1zDUDvOezo",
+    "title": "I IMMEDIATELY Broke this Hyper-Realistic Gaming Sim",
+    "meta": [
+     "1M",
+     "3mo ago"
+    ],
+    "dur": "15:42",
+    "views_tab": 1000000
+   },
+   {
+    "id": "S82W3hWDvZA",
+    "title": "I Hate These...",
+    "meta": [
+     "1.5M",
+     "3mo ago"
+    ],
+    "dur": "24:41",
+    "views_tab": 1500000
+   },
+   {
+    "id": "VEaI8OUcMvM",
+    "title": "The 1000 FPS Gaming PC",
+    "meta": [
+     "2.4M",
+     "3mo ago"
+    ],
+    "dur": "20:06",
+    "views_tab": 2400000
+   },
+   {
+    "id": "AQZl-78pnEQ",
+    "title": "Tech House Cabling Ended Up Being a HARD Choice",
+    "meta": [
+     "1.9M",
+     "3mo ago"
+    ],
+    "dur": "23:53",
+    "views_tab": 1900000
+   },
+   {
+    "id": "NLI-Z9Xt4Hg",
+    "title": "$1000 vs $5000 Laptop - Snapdragon Edition",
+    "meta": [
+     "562K",
+     "3mo ago"
+    ],
+    "dur": "18:09",
+    "views_tab": 562000
+   },
+   {
+    "id": "9Pt1uZPL4Ew",
+    "title": "My Wife Needs a New Laptop",
+    "meta": [
+     "2.5M",
+     "3mo ago"
+    ],
+    "dur": "23:57",
+    "views_tab": 2500000
+   },
+   {
+    "id": "Ro6RIKgs2mw",
+    "title": "4 Tech Experts Debate PC Questions!",
+    "meta": [
+     "698K",
+     "3mo ago"
+    ],
+    "dur": "24:34",
+    "views_tab": 698000
+   },
+   {
+    "id": "2jMOVVNf2i8",
+    "title": "Stretching $5000 dollars to the limit - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "1.2M",
+     "4mo ago"
+    ],
+    "dur": "25:11",
+    "views_tab": 1200000
+   },
+   {
+    "id": "bda1GHblwis",
+    "title": "Working a Full Day in a Random Asian Tech Mall",
+    "meta": [
+     "2.5M",
+     "4mo ago"
+    ],
+    "dur": "29:11",
+    "views_tab": 2500000
+   },
+   {
+    "id": "zvaO4DPM1ZM",
+    "title": "Building a PC to BEAT the STEAM Machine!",
+    "meta": [
+     "2.2M",
+     "4mo ago"
+    ],
+    "dur": "17:43",
+    "views_tab": 2200000
+   },
+   {
+    "id": "6tI1SoMj5vg",
+    "title": "Even Valve is Disappointed - Steam Machine Review",
+    "meta": [
+     "3.9M",
+     "4mo ago"
+    ],
+    "dur": "19:38",
+    "views_tab": 3900000
+   },
+   {
+    "id": "eIqa3XQIbvk",
+    "title": "He Built the Fastest Pre-Built PC on the Planet",
+    "meta": [
+     "755K",
+     "4mo ago"
+    ],
+    "dur": "23:56",
+    "views_tab": 755000
+   },
+   {
+    "id": "ZORciJStjdU",
+    "title": "I can securely erase this computer from anywhere!",
+    "meta": [
+     "463K",
+     "4mo ago"
+    ],
+    "dur": "12:50",
+    "views_tab": 463000
+   },
+   {
+    "id": "umaKDHNmfG8",
+    "title": "I Bought a Movie Theater Projector\u2026 Turns Out They\u2019re SUPER Dangerous",
+    "meta": [
+     "2.5M",
+     "4mo ago"
+    ],
+    "dur": "24:45",
+    "views_tab": 2500000
+   },
+   {
+    "id": "kBApcOdpiKc",
+    "title": "Meeting pods are a ripoff, so I built my own.  Buy or DIY?",
+    "meta": [
+     "1.3M",
+     "4mo ago"
+    ],
+    "dur": "24:02",
+    "views_tab": 1300000
+   },
+   {
+    "id": "cZ-saJoTl3M",
+    "title": "Gaming on Windows Just Changed Forever",
+    "meta": [
+     "2M",
+     "4mo ago"
+    ],
+    "dur": "19:23",
+    "views_tab": 2000000
+   },
+   {
+    "id": "JAPMSoM6U7w",
+    "title": "$2 vs $200,000 Projector",
+    "meta": [
+     "2.7M",
+     "4mo ago"
+    ],
+    "dur": "28:32",
+    "views_tab": 2700000
+   },
+   {
+    "id": "6FoAOhbeo5Y",
+    "title": "I Found Free Money in the Tech House",
+    "meta": [
+     "858K",
+     "4mo ago"
+    ],
+    "dur": "20:27",
+    "views_tab": 858000
+   },
+   {
+    "id": "8KQFgWdiudo",
+    "title": "I Don't Think I Can Go Back To Windows...",
+    "meta": [
+     "3.5M",
+     "4mo ago"
+    ],
+    "dur": "28:54",
+    "views_tab": 3500000
+   },
+   {
+    "id": "ydAqOAL2Bec",
+    "title": "Apple was LATE on AI\u2026 It was Worth the Wait - WWDC '26",
+    "meta": [
+     "734K",
+     "4mo ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 734000
+   },
+   {
+    "id": "fJduAvm70Ds",
+    "title": "I Visited the Cradle of the Internet",
+    "meta": [
+     "1.1M",
+     "4mo ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 1100000
+   },
+   {
+    "id": "3Y7PVHpa-_w",
+    "title": "The Biggest Test Bench I\u2019ve Ever Seen",
+    "meta": [
+     "495K",
+     "4mo ago"
+    ],
+    "dur": "11:15",
+    "views_tab": 495000
+   },
+   {
+    "id": "ryZ7vCKBmoA",
+    "title": "Noctua Says THIS is Thermal Paste",
+    "meta": [
+     "661K",
+     "4mo ago"
+    ],
+    "dur": "10:21",
+    "views_tab": 661000
+   },
+   {
+    "id": "Q9FiuoXzEEA",
+    "title": "This Perfectly Silent Fan Took 300 Years to Make",
+    "meta": [
+     "853K",
+     "4mo ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 853000
+   },
+   {
+    "id": "W5BMk-ErRno",
+    "title": "The PC-book Neo is HERE from Intel (Also New Gaming Handhelds)",
+    "meta": [
+     "765K",
+     "4mo ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 765000
+   },
+   {
+    "id": "OXneUrL3Fe0",
+    "title": "NVIDIA Just Slapped Apple Silicon - RTX Spark",
+    "meta": [
+     "1.4M",
+     "4mo ago"
+    ],
+    "dur": "14:27",
+    "views_tab": 1400000
+   },
+   {
+    "id": "Xek5fRWjOtg",
+    "title": "Every Little Thing is BETTER - ASUS ROG XBOX Ally X20 Anniversary Announcement",
+    "meta": [
+     "551K",
+     "4mo ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 551000
+   },
+   {
+    "id": "QuksuOPRbvI",
+    "title": "Who has the Worst Monitor at Linus Tech Tips?",
+    "meta": [
+     "1.2M",
+     "4mo ago"
+    ],
+    "dur": "19:15",
+    "views_tab": 1200000
+   },
+   {
+    "id": "bNpmB1heEF0",
+    "title": "Linux is Easy, right?",
+    "meta": [
+     "1.1M",
+     "4mo ago"
+    ],
+    "dur": "27:16",
+    "views_tab": 1100000
+   },
+   {
+    "id": "Cc95H86NdDc",
+    "title": "I tried building a PC in the 3rd person.",
+    "meta": [
+     "772K",
+     "4mo ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 772000
+   },
+   {
+    "id": "JgN-P60vFC8",
+    "title": "I Let Open Source AI Drive Me to Work",
+    "meta": [
+     "1.1M",
+     "4mo ago"
+    ],
+    "dur": "23:19",
+    "views_tab": 1100000
+   },
+   {
+    "id": "mpDanDwd7x0",
+    "title": "This Laptop feels like Cheating",
+    "meta": [
+     "672K",
+     "5mo ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 672000
+   },
+   {
+    "id": "2T8x5antlnc",
+    "title": "The Internet was WRONG: Trump Phone is \"Shipping\"",
+    "meta": [
+     "1.1M",
+     "5mo ago"
+    ],
+    "dur": "14:08",
+    "views_tab": 1100000
+   },
+   {
+    "id": "eLP3ag0YpyA",
+    "title": "Google\u2019s Most-Hated Announcement Ever",
+    "meta": [
+     "1.3M",
+     "5mo ago"
+    ],
+    "dur": "18:01",
+    "views_tab": 1300000
+   },
+   {
+    "id": "cHocYnA_JVY",
+    "title": "This $5000 PC From Just Four Years Ago SUCKS",
+    "meta": [
+     "2.2M",
+     "5mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 2200000
+   },
+   {
+    "id": "z7K4J7_IHns",
+    "title": "We Ripped Up the Tech House Backyard",
+    "meta": [
+     "765K",
+     "5mo ago"
+    ],
+    "dur": "15:43",
+    "views_tab": 765000
+   },
+   {
+    "id": "6XQJBcO6Sfg",
+    "title": "Fixing My Employee\u2019s House For a Day - The Setup Doctor",
+    "meta": [
+     "1.3M",
+     "5mo ago"
+    ],
+    "dur": "22:46",
+    "views_tab": 1300000
+   },
+   {
+    "id": "DYFoun7w0VA",
+    "title": "Android 17 is Scaring Me",
+    "meta": [
+     "1.4M",
+     "5mo ago"
+    ],
+    "dur": "13:20",
+    "views_tab": 1400000
+   },
+   {
+    "id": "QK02VOGWEv0",
+    "title": "My Linux Curse is NOT Over... But It's Getting BETTER - Pt.2 Linux 30 Day Challenge 2026",
+    "meta": [
+     "1.1M",
+     "5mo ago"
+    ],
+    "dur": "18:57",
+    "views_tab": 1100000
+   },
+   {
+    "id": "6RdlEm1Mv98",
+    "title": "A Joyful Upgrade - AMD $5000 Ultimate Tech Upgrade",
+    "meta": [
+     "1M",
+     "5mo ago"
+    ],
+    "dur": "24:05",
+    "views_tab": 1000000
+   },
+   {
+    "id": "p59TuLQkl6A",
+    "title": "We Automated our Tech Lawn",
+    "meta": [
+     "694K",
+     "5mo ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 694000
+   },
+   {
+    "id": "M8fk9h3gsAs",
+    "title": "My Wife Wanted a DDR Pad...",
+    "meta": [
+     "718K",
+     "5mo ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 718000
+   },
+   {
+    "id": "1wEDXpc5m6A",
+    "title": "This Should Be Illegal...",
+    "meta": [
+     "958K",
+     "5mo ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 958000
+   },
+   {
+    "id": "LJh72_O4pXE",
+    "title": "I bought a TV with NO 'Smart' Features...",
+    "meta": [
+     "3.4M",
+     "5mo ago"
+    ],
+    "dur": "17:24",
+    "views_tab": 3400000
+   },
+   {
+    "id": "be2uWv2qSTM",
+    "title": "Typing on a display is TERRIBLE... right?",
+    "meta": [
+     "703K",
+     "5mo ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 703000
+   },
+   {
+    "id": "WbFGK-tjiEY",
+    "title": "Amazon is Disabling Old Kindles... Buy One of These Instead",
+    "meta": [
+     "991K",
+     "5mo ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 991000
+   },
+   {
+    "id": "Qx-WaWLiT48",
+    "title": "This Gaming Chair Might be Illegal",
+    "meta": [
+     "1.1M",
+     "5mo ago"
+    ],
+    "dur": "23:23",
+    "views_tab": 1100000
+   },
+   {
+    "id": "koZcaQHNBPI",
+    "title": "The PS5's Price went Up so I Built a PC that Beats it",
+    "meta": [
+     "1.8M",
+     "5mo ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 1800000
+   },
+   {
+    "id": "MpJB7LTs5_s",
+    "title": "The Steam Controller is Here",
+    "meta": [
+     "2.4M",
+     "5mo ago"
+    ],
+    "dur": "19:33",
+    "views_tab": 2400000
+   },
+   {
+    "id": "Tpem0BwFOP0",
+    "title": "The Year of Windows Humiliation",
+    "meta": [
+     "1.5M",
+     "5mo ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 1500000
+   },
+   {
+    "id": "DCemIF_bMoA",
+    "title": "What *I* Think Tim Cook's Legacy Is...",
+    "meta": [
+     "951K",
+     "6mo ago"
+    ],
+    "dur": "14:26",
+    "views_tab": 951000
+   },
+   {
+    "id": "x26A28DoT-w",
+    "title": "Was I Wrong About the Macbook Neo?",
+    "meta": [
+     "2.9M",
+     "6mo ago"
+    ],
+    "dur": "18:11",
+    "views_tab": 2900000
+   },
+   {
+    "id": "BfRCEeRiLI4",
+    "title": "It's Overpriced and I'm EXCITED - Ryzen 9 9950X3D2 Dual Edition Review",
+    "meta": [
+     "903K",
+     "6mo ago"
+    ],
+    "dur": "13:10",
+    "views_tab": 903000
+   },
+   {
+    "id": "5c1sGzZnuiU",
+    "title": "I Should Have Invested MORE - Framework 13 Pro Announcement & More",
+    "meta": [
+     "1.7M",
+     "6mo ago"
+    ],
+    "dur": "23:21",
+    "views_tab": 1700000
+   },
+   {
+    "id": "7eTt3P_NPr4",
+    "title": "The Highest PC Build EVER - World Record",
+    "meta": [
+     "805K",
+     "6mo ago"
+    ],
+    "dur": "22:01",
+    "views_tab": 805000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "eQ_8F4nzyiw",
+    "title": "Building a PC... using only Wish.com",
+    "meta": [
+     "23M",
+     "7y ago"
+    ],
+    "dur": "20:44",
+    "views_tab": 23000000
+   },
+   {
+    "id": "kqnvrjgyEMc",
+    "title": "Faster Internet for FREE in 30 seconds - No... Seriously",
+    "meta": [
+     "16M",
+     "8y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 16000000
+   },
+   {
+    "id": "sZs4NDC4yrI",
+    "title": "Building a PC CHEAPER in CHINA?! feat. Strange Parts",
+    "meta": [
+     "15M",
+     "8y ago"
+    ],
+    "dur": "24:41",
+    "views_tab": 15000000
+   },
+   {
+    "id": "VWHlPH23P-w",
+    "title": "Are Walmart Gaming PCs actually THAT bad?",
+    "meta": [
+     "15M",
+     "7y ago"
+    ],
+    "dur": "17:10",
+    "views_tab": 15000000
+   },
+   {
+    "id": "BL4DCEp7blY",
+    "title": "How to build a PC, the last guide you'll ever need!",
+    "meta": [
+     "13M",
+     "4y ago"
+    ],
+    "dur": "1:42:05",
+    "views_tab": 13000000
+   },
+   {
+    "id": "M8NFhjj0bUk",
+    "title": "My most painful PC Build... -  ROG Rig Reboot 2019",
+    "meta": [
+     "13M",
+     "6y ago"
+    ],
+    "dur": "28:21",
+    "views_tab": 13000000
+   },
+   {
+    "id": "7CZq5SkIiu0",
+    "title": "Who has the Best PC at LTT??",
+    "meta": [
+     "13M",
+     "7y ago"
+    ],
+    "dur": "19:16",
+    "views_tab": 13000000
+   },
+   {
+    "id": "3dEfc9LL9bQ",
+    "title": "Building a $500 AMD Gaming PC",
+    "meta": [
+     "12M",
+     "6y ago"
+    ],
+    "dur": "1:14:01",
+    "views_tab": 12000000
+   },
+   {
+    "id": "v7MYOpFONCU",
+    "title": "First Person View PC BUILD Guide! (POV)",
+    "meta": [
+     "12M",
+     "6y ago"
+    ],
+    "dur": "40:28",
+    "views_tab": 12000000
+   },
+   {
+    "id": "4AnyhHl3_tE",
+    "title": "Almost EVERYONE is Wasting Money on Dash Cams.",
+    "meta": [
+     "12M",
+     "4y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 12000000
+   },
+   {
+    "id": "nDTeSb0TzbQ",
+    "title": "Arctic Hobby Land Rider 503 RC Firetruck Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "12M",
+     "14y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 12000000
+   },
+   {
+    "id": "7iwgyzX-76g",
+    "title": "How many Chrome tabs can you open with 2TB RAM?",
+    "meta": [
+     "11M",
+     "6y ago"
+    ],
+    "dur": "12:51",
+    "views_tab": 11000000
+   },
+   {
+    "id": "zyUqg2FBO-I",
+    "title": "I Bought a $5000 PC in a Random Asian Tech Mall",
+    "meta": [
+     "11M",
+     "2y ago"
+    ],
+    "dur": "22:12",
+    "views_tab": 11000000
+   },
+   {
+    "id": "M3bezYerYxQ",
+    "title": "Why Does Linus Pirate Windows??",
+    "meta": [
+     "11M",
+     "8y ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 11000000
+   },
+   {
+    "id": "9-NU7yOSElE",
+    "title": "Apple REFUSED to Fix our iMac Pro",
+    "meta": [
+     "11M",
+     "8y ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 11000000
+   },
+   {
+    "id": "J6Ga4wciA2k",
+    "title": "THIS Wish.com Gaming PC is WORSE!",
+    "meta": [
+     "11M",
+     "4y ago"
+    ],
+    "dur": "24:55",
+    "views_tab": 11000000
+   },
+   {
+    "id": "Toft6fMvByA",
+    "title": "GAMING at 16K RESOLUTION?? \u2013 HOLY $H!T",
+    "meta": [
+     "11M",
+     "9y ago"
+    ],
+    "dur": "16:00",
+    "views_tab": 11000000
+   },
+   {
+    "id": "OX31kZbAXsA",
+    "title": "Does High FPS make you a better gamer? Ft. Shroud - FINAL ANSWER",
+    "meta": [
+     "10M",
+     "6y ago"
+    ],
+    "dur": "36:12",
+    "views_tab": 10000000
+   },
+   {
+    "id": "zBAxiQi2nPc",
+    "title": "NVIDIA REFUSED To Send Us This - NVIDIA A100",
+    "meta": [
+     "10M",
+     "4y ago"
+    ],
+    "dur": "22:18",
+    "views_tab": 10000000
+   },
+   {
+    "id": "so4FwjfQ7YI",
+    "title": "Upgrading Our WORST Gaming Rigs",
+    "meta": [
+     "10M",
+     "8y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 10000000
+   },
+   {
+    "id": "gIEGN5rV2JY",
+    "title": "Scammed on ebay... Testing the 56 CORE system!",
+    "meta": [
+     "10M",
+     "8y ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 10000000
+   },
+   {
+    "id": "2X-ZayiWAKo",
+    "title": "Dennis WASTED His Money - Intel $5,000 Extreme Tech Upgrade",
+    "meta": [
+     "10M",
+     "5y ago"
+    ],
+    "dur": "23:52",
+    "views_tab": 10000000
+   },
+   {
+    "id": "gH_c4sGDrPg",
+    "title": "Building A $10,000 PC for ROBLOX",
+    "meta": [
+     "10M",
+     "5y ago"
+    ],
+    "dur": "17:03",
+    "views_tab": 10000000
+   },
+   {
+    "id": "wNo7qoLRtkQ",
+    "title": "How bad is this $5000 PC from 10 years ago?",
+    "meta": [
+     "10M",
+     "7y ago"
+    ],
+    "dur": "19:57",
+    "views_tab": 10000000
+   },
+   {
+    "id": "G2VxwFEA8xM",
+    "title": "This is the CLEANEST Setup.",
+    "meta": [
+     "10M",
+     "7y ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 10000000
+   },
+   {
+    "id": "AHR80l7od2Q",
+    "title": "Building a $100,000 PC for Minecraft",
+    "meta": [
+     "10M",
+     "3y ago"
+    ],
+    "dur": "19:09",
+    "views_tab": 10000000
+   },
+   {
+    "id": "sCfmM71NOTo",
+    "title": "The FASTEST gaming PC money can buy",
+    "meta": [
+     "10M",
+     "7y ago"
+    ],
+    "dur": "21:15",
+    "views_tab": 10000000
+   },
+   {
+    "id": "V0JuW6x8lsw",
+    "title": "The All AliExpress PC",
+    "meta": [
+     "10M",
+     "6y ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 10000000
+   },
+   {
+    "id": "Ngy9TIbREJE",
+    "title": "I can't believe how much I paid for this...",
+    "meta": [
+     "10M",
+     "6y ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 10000000
+   },
+   {
+    "id": "aB5xGd6hZmQ",
+    "title": "Only 2 People in the WORLD Have This TV - TCL X11G Max QD",
+    "meta": [
+     "10M",
+     "2y ago"
+    ],
+    "dur": "24:28",
+    "views_tab": 10000000
+   },
+   {
+    "id": "Kpnd4OVf7oo",
+    "title": "The World's Ugliest Keyboard",
+    "meta": [
+     "10M",
+     "9y ago"
+    ],
+    "dur": "9:37",
+    "views_tab": 10000000
+   },
+   {
+    "id": "4IFexZ5apzw",
+    "title": "The ALL-AMAZON BASICS Gaming Battlestation!",
+    "meta": [
+     "9.9M",
+     "7y ago"
+    ],
+    "dur": "18:43",
+    "views_tab": 9900000
+   },
+   {
+    "id": "hNWz9o6CSyM",
+    "title": "EXPOSING MKBHD'S FAKE VIDEOS (Studio Tour)",
+    "meta": [
+     "9.9M",
+     "9y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 9900000
+   },
+   {
+    "id": "tFmb5h1lN-w",
+    "title": "Our Smallest Gaming PC Build EVER! - Velkase Velka 3",
+    "meta": [
+     "9.7M",
+     "7y ago"
+    ],
+    "dur": "22:16",
+    "views_tab": 9700000
+   },
+   {
+    "id": "05K5glVCwis",
+    "title": "Trying TikTok Computer Hacks...",
+    "meta": [
+     "9.6M",
+     "5y ago"
+    ],
+    "dur": "15:28",
+    "views_tab": 9600000
+   },
+   {
+    "id": "23vjWtUpItk",
+    "title": "Why you shouldn't water cool your PC",
+    "meta": [
+     "9.6M",
+     "7y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 9600000
+   },
+   {
+    "id": "mfv0V1SxbNA",
+    "title": "Building the PERFECT Linux PC with Linus Torvalds",
+    "meta": [
+     "9.4M",
+     "10mo ago"
+    ],
+    "dur": "53:44",
+    "views_tab": 9400000
+   },
+   {
+    "id": "gSrnXgAmK8k",
+    "title": "All of our data is GONE!",
+    "meta": [
+     "9.3M",
+     "10y ago"
+    ],
+    "dur": "22:58",
+    "views_tab": 9300000
+   },
+   {
+    "id": "qXUJSCZiU48",
+    "title": "The All-ROG Gaming PC!",
+    "meta": [
+     "9.2M",
+     "7y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 9200000
+   },
+   {
+    "id": "OcUv-TzVWUc",
+    "title": "They SAID this would be EASY... - Gaming at 8K 60fps",
+    "meta": [
+     "9.2M",
+     "7y ago"
+    ],
+    "dur": "19:51",
+    "views_tab": 9200000
+   },
+   {
+    "id": "n3XTZde8ZvQ",
+    "title": "How Bad is This $10,000 PC from 10 Years Ago??",
+    "meta": [
+     "9M",
+     "2y ago"
+    ],
+    "dur": "22:00",
+    "views_tab": 9000000
+   },
+   {
+    "id": "KPgmeNstLa8",
+    "title": "Roasting Your WORST Setups - 2021",
+    "meta": [
+     "8.9M",
+     "5y ago"
+    ],
+    "dur": "18:48",
+    "views_tab": 8900000
+   },
+   {
+    "id": "tqbnjgbtDl0",
+    "title": "Double or Triple Your Internet Speed - This Method Actually Works!",
+    "meta": [
+     "8.8M",
+     "10y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 8800000
+   },
+   {
+    "id": "IZeOmEy-tE8",
+    "title": "Water Cooling\u2026 Using only Wish.com",
+    "meta": [
+     "8.6M",
+     "4y ago"
+    ],
+    "dur": "28:20",
+    "views_tab": 8600000
+   },
+   {
+    "id": "5WJak0Y7X80",
+    "title": "Tommy Hilfiger are Filthy Scammers",
+    "meta": [
+     "8.5M",
+     "3y ago"
+    ],
+    "dur": "28:55",
+    "views_tab": 8500000
+   },
+   {
+    "id": "PUIxyLRnzDc",
+    "title": "Cheap AliExpress Graphics Cards - SCAM???",
+    "meta": [
+     "8.3M",
+     "8y ago"
+    ],
+    "dur": "10:01",
+    "views_tab": 8300000
+   },
+   {
+    "id": "N6jF1dxN6eQ",
+    "title": "We FAILED as husbands... - Wife PC Build-Off",
+    "meta": [
+     "8.2M",
+     "6y ago"
+    ],
+    "dur": "30:05",
+    "views_tab": 8199999
+   },
+   {
+    "id": "60OkanvToFI",
+    "title": "UNBOXING A QUANTUM COMPUTER! \u2013 Holy $H!T Ep 19",
+    "meta": [
+     "8.1M",
+     "9y ago"
+    ],
+    "dur": "11:58",
+    "views_tab": 8100000
+   },
+   {
+    "id": "QsdqfcCx5C8",
+    "title": "The WEIRDEST PC Parts we Found on AliExpress - 2019",
+    "meta": [
+     "8.1M",
+     "7y ago"
+    ],
+    "dur": "19:28",
+    "views_tab": 8100000
+   },
+   {
+    "id": "Qa0jZnrQrIA",
+    "title": "The Fastest Gaming PC is now AMD!",
+    "meta": [
+     "8.1M",
+     "5y ago"
+    ],
+    "dur": "17:09",
+    "views_tab": 8100000
+   },
+   {
+    "id": "vorkmWa7He8",
+    "title": "We Stole Tampons from the Cashier-less Amazon Go Store",
+    "meta": [
+     "8.1M",
+     "8y ago"
+    ],
+    "dur": "13:08",
+    "views_tab": 8100000
+   },
+   {
+    "id": "dBiqFNNfudA",
+    "title": "EXPOSING DEADMAU5's STUDIO - *SPOILER* He's a huge Geek!",
+    "meta": [
+     "8.1M",
+     "9y ago"
+    ],
+    "dur": "10:52",
+    "views_tab": 8100000
+   },
+   {
+    "id": "QOhLlvNlI20",
+    "title": "Amazon... more like SCAMazon - Fake SSDs",
+    "meta": [
+     "8.1M",
+     "3y ago"
+    ],
+    "dur": "19:06",
+    "views_tab": 8100000
+   },
+   {
+    "id": "LnxSTShwDdQ",
+    "title": "A $400 Keyboard with NO ACTUAL Keys!",
+    "meta": [
+     "7.9M",
+     "9y ago"
+    ],
+    "dur": "7:21",
+    "views_tab": 7900000
+   },
+   {
+    "id": "HDDLTwS4zgs",
+    "title": "$69 Gaming PC",
+    "meta": [
+     "7.9M",
+     "9y ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 7900000
+   },
+   {
+    "id": "EdwDvz47lNw",
+    "title": "Fixing the Unfixable iMac Pro with Louis Rossmann!",
+    "meta": [
+     "7.7M",
+     "8y ago"
+    ],
+    "dur": "25:49",
+    "views_tab": 7700000
+   },
+   {
+    "id": "Zgy5fX-VPCs",
+    "title": "$1,000 HDMI Cable!? - Useless Tech Over $100 Ep. 1",
+    "meta": [
+     "7.7M",
+     "10y ago"
+    ],
+    "dur": "9:39",
+    "views_tab": 7700000
+   },
+   {
+    "id": "8N5wssPlSdE",
+    "title": "The Jankiest EXTREME Gaming Setup - Intel $5,000 Extreme Tech Upgrade",
+    "meta": [
+     "7.7M",
+     "5y ago"
+    ],
+    "dur": "29:54",
+    "views_tab": 7700000
+   },
+   {
+    "id": "gYFZ4HYTsZI",
+    "title": "Building a PC\u2026 Using Only the Top Result on Amazon",
+    "meta": [
+     "7.7M",
+     "2y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 7700000
+   },
+   {
+    "id": "JjYUZ6Ct1ws",
+    "title": "Compensator 4 - How to Waste $30,000 on a Gaming PC",
+    "meta": [
+     "7.6M",
+     "2y ago"
+    ],
+    "dur": "35:41",
+    "views_tab": 7600000
+   },
+   {
+    "id": "JBwMDfMfSNU",
+    "title": "PewDiePie! - We built you a gaming PC!",
+    "meta": [
+     "7.6M",
+     "6y ago"
+    ],
+    "dur": "26:48",
+    "views_tab": 7600000
+   },
+   {
+    "id": "KyoXLbfpZfg",
+    "title": "$2000 Gaming PC - Classic LTT Build Guide (2026)",
+    "meta": [
+     "7.6M",
+     "9mo ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 7600000
+   },
+   {
+    "id": "ShtiJ8Y2alE",
+    "title": "The PRACTICAL Tech Transformation - Intel $5,000 Extreme Tech Upgrade",
+    "meta": [
+     "7.6M",
+     "5y ago"
+    ],
+    "dur": "27:36",
+    "views_tab": 7600000
+   },
+   {
+    "id": "75L8Hrb49A4",
+    "title": "Cheap vs. Expensive Gaming!?",
+    "meta": [
+     "7.6M",
+     "7y ago"
+    ],
+    "dur": "21:27",
+    "views_tab": 7600000
+   },
+   {
+    "id": "Rv1Ecz0J8vk",
+    "title": "Don't Waste your Money - $30 vs $10,000 Racing Setup",
+    "meta": [
+     "7.5M",
+     "2y ago"
+    ],
+    "dur": "30:37",
+    "views_tab": 7500000
+   },
+   {
+    "id": "GrConlnQd4g",
+    "title": "This $7000 Card Does WHAT?? \u2013 Holy $H!T",
+    "meta": [
+     "7.5M",
+     "9y ago"
+    ],
+    "dur": "12:34",
+    "views_tab": 7500000
+   },
+   {
+    "id": "wUVWuH9RDGQ",
+    "title": "This. was. CHAOS. - AMD $5,000 Ultimate Tech Upgrade",
+    "meta": [
+     "7.5M",
+     "3y ago"
+    ],
+    "dur": "33:57",
+    "views_tab": 7500000
+   },
+   {
+    "id": "t03rmc-prJo",
+    "title": "This PC took 600 HOURS to Build!",
+    "meta": [
+     "7.5M",
+     "4y ago"
+    ],
+    "dur": "25:05",
+    "views_tab": 7500000
+   },
+   {
+    "id": "mXBzBFxe00o",
+    "title": "We Bought EVERYTHING in this Mom & Pop Computer Store",
+    "meta": [
+     "7.5M",
+     "3y ago"
+    ],
+    "dur": "34:24",
+    "views_tab": 7500000
+   },
+   {
+    "id": "Hwkbj26BQxM",
+    "title": "This costs way less than you'd think",
+    "meta": [
+     "7.4M",
+     "7y ago"
+    ],
+    "dur": "8:41",
+    "views_tab": 7400000
+   },
+   {
+    "id": "AkK_n5Q8M38",
+    "title": "We Built the CHEAPEST PC on Amazon!",
+    "meta": [
+     "7.4M",
+     "7y ago"
+    ],
+    "dur": "16:56",
+    "views_tab": 7400000
+   },
+   {
+    "id": "hkfbg-sHwDo",
+    "title": "Compensator 3 - The INSANE Zero Compromises Build is Back!",
+    "meta": [
+     "7.4M",
+     "6y ago"
+    ],
+    "dur": "20:37",
+    "views_tab": 7400000
+   },
+   {
+    "id": "GDyL2tPyXFA",
+    "title": "Put a Desktop GPU in a LAPTOP\u2026 The CHEAP WAY!",
+    "meta": [
+     "7.3M",
+     "8y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 7300000
+   },
+   {
+    "id": "Z07ZNsWGC80",
+    "title": "xQc Broke his Computer AGAIN... so I Got on a Plane",
+    "meta": [
+     "7.3M",
+     "3y ago"
+    ],
+    "dur": "26:05",
+    "views_tab": 7300000
+   },
+   {
+    "id": "M30fAvrpj18",
+    "title": "The ULTIMATE RGB PC Build Guide!",
+    "meta": [
+     "7.2M",
+     "9y ago"
+    ],
+    "dur": "20:45",
+    "views_tab": 7200000
+   },
+   {
+    "id": "oPOhKULOL4o",
+    "title": "I bought a TRANSPARENT TV for $7000 :*(",
+    "meta": [
+     "7.2M",
+     "6y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 7200000
+   },
+   {
+    "id": "yGXaAWbzl5A",
+    "title": "My Channel Was Deleted Last Night",
+    "meta": [
+     "7.2M",
+     "3y ago"
+    ],
+    "dur": "15:00",
+    "views_tab": 7200000
+   },
+   {
+    "id": "hiLlNzxDfAg",
+    "title": "This guy has a PROBLEM - Tech Hoarders",
+    "meta": [
+     "7.1M",
+     "6y ago"
+    ],
+    "dur": "20:38",
+    "views_tab": 7100000
+   },
+   {
+    "id": "zcLbSCinX3U",
+    "title": "Don't give Apple your MONEY - Mac Pro Upgrade Adventure",
+    "meta": [
+     "7.1M",
+     "6y ago"
+    ],
+    "dur": "21:28",
+    "views_tab": 7100000
+   },
+   {
+    "id": "5rwYjRzLHHI",
+    "title": "I Sold Her this $5000 Gaming PC for $20!",
+    "meta": [
+     "7M",
+     "6y ago"
+    ],
+    "dur": "17:43",
+    "views_tab": 7000000
+   },
+   {
+    "id": "VHByReaiJ4o",
+    "title": "Roasting OUR worst setups!",
+    "meta": [
+     "7M",
+     "4y ago"
+    ],
+    "dur": "31:14",
+    "views_tab": 7000000
+   },
+   {
+    "id": "D_Yt4vSZKVk",
+    "title": "Does RAM speed REALLY matter?",
+    "meta": [
+     "7M",
+     "9y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 7000000
+   },
+   {
+    "id": "gCnJjWRf5dk",
+    "title": "The Prettiest Gaming Setup - Intel $5,000 Extreme Tech Upgrade",
+    "meta": [
+     "7M",
+     "4y ago"
+    ],
+    "dur": "24:32",
+    "views_tab": 7000000
+   },
+   {
+    "id": "nLIp4wd0oXs",
+    "title": "This Makes Hacking TOO Easy - Flipper Zero",
+    "meta": [
+     "7M",
+     "3y ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 7000000
+   },
+   {
+    "id": "ATnpEOo3GJA",
+    "title": "Apple won't like this... - Run MacOS on ANY PC",
+    "meta": [
+     "7M",
+     "7y ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 7000000
+   },
+   {
+    "id": "0vuzqunync8",
+    "title": "I'm Stepping Down..",
+    "meta": [
+     "7M",
+     "3y ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 7000000
+   },
+   {
+    "id": "a1sU82JmY1s",
+    "title": "iJustine\u2019s Unbelievably NERDY Studio House \u2013 EXPOSED!",
+    "meta": [
+     "6.9M",
+     "8y ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 6900000
+   },
+   {
+    "id": "56MgVgnRBSs",
+    "title": "This is a GAMING PC!?!?!",
+    "meta": [
+     "6.9M",
+     "6y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 6900000
+   },
+   {
+    "id": "yh2XYkRwtBQ",
+    "title": "We FIXED a DEAD CPU!!",
+    "meta": [
+     "6.9M",
+     "6y ago"
+    ],
+    "dur": "21:54",
+    "views_tab": 6900000
+   },
+   {
+    "id": "nXkgbmr3dRA",
+    "title": "Can static KILL your PC? (ft. Electroboom)",
+    "meta": [
+     "6.9M",
+     "5y ago"
+    ],
+    "dur": "20:57",
+    "views_tab": 6900000
+   },
+   {
+    "id": "zPmqbtKwtgw",
+    "title": "Your Old PC is Your New Server",
+    "meta": [
+     "6.8M",
+     "4y ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 6800000
+   },
+   {
+    "id": "5Jp9kZNlb-Q",
+    "title": "Gaming on a 25 YEAR OLD Laptop!!",
+    "meta": [
+     "6.8M",
+     "7y ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 6800000
+   },
+   {
+    "id": "U7KpyWoJnfQ",
+    "title": "Riley's SICK Minimalist Setup - Intel $5,000 Extreme Tech Upgrade",
+    "meta": [
+     "6.8M",
+     "6y ago"
+    ],
+    "dur": "22:09",
+    "views_tab": 6800000
+   },
+   {
+    "id": "ZjJUVsmjIj4",
+    "title": "What is it like to work for Linus? - Honest Answers Ep. 4",
+    "meta": [
+     "6.7M",
+     "9y ago"
+    ],
+    "dur": "11:06",
+    "views_tab": 6700000
+   },
+   {
+    "id": "dXqfEFX1veY",
+    "title": "Who Would be Stupid Enough to Buy a $1000 Game Console on Aliexpress?",
+    "meta": [
+     "6.7M",
+     "3y ago"
+    ],
+    "dur": "17:36",
+    "views_tab": 6700000
+   },
+   {
+    "id": "9bWA3BNx3A0",
+    "title": "We FINISHED the $100,000 PC! - 6 Editors 1 CPU Pt. 6",
+    "meta": [
+     "6.7M",
+     "7y ago"
+    ],
+    "dur": "16:59",
+    "views_tab": 6700000
+   },
+   {
+    "id": "thc9iLZf0HQ",
+    "title": "Mac vs PC - ROLE REVERSAL feat. iJustine",
+    "meta": [
+     "6.7M",
+     "8y ago"
+    ],
+    "dur": "16:37",
+    "views_tab": 6700000
+   },
+   {
+    "id": "bA0uJWny4-g",
+    "title": "We THOUGHT this $40,000 PC would break records...",
+    "meta": [
+     "6.7M",
+     "8y ago"
+    ],
+    "dur": "14:47",
+    "views_tab": 6700000
+   },
+   {
+    "id": "ftC0XIQGKhc",
+    "title": "Arctic Hobby Land Rider 507 RC Excavator Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "6.6M",
+     "14y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 6600000
+   },
+   {
+    "id": "I37U52gMFGA",
+    "title": "The ULTIMATE Sleeper PC Build",
+    "meta": [
+     "6.6M",
+     "9y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 6600000
+   },
+   {
+    "id": "211Vdi4oC9o",
+    "title": "Gaming at 8K Resolution?!?!? - HOLY $H!T Ep. 12",
+    "meta": [
+     "6.5M",
+     "10y ago"
+    ],
+    "dur": "19:19",
+    "views_tab": 6500000
+   },
+   {
+    "id": "IA9LlfQ9X-Q",
+    "title": "I Bought EVERY Tech Ad I Saw for a MONTH",
+    "meta": [
+     "6.5M",
+     "2y ago"
+    ],
+    "dur": "26:25",
+    "views_tab": 6500000
+   },
+   {
+    "id": "x1JA24KCAjE",
+    "title": "$300 Budget Gaming PC Challenge - Scrapyard Wars Episode 1a",
+    "meta": [
+     "6.5M",
+     "11y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 6500000
+   },
+   {
+    "id": "AOdp09SYhCc",
+    "title": "This Is So Embarrassing! - Building a PC with My Sister",
+    "meta": [
+     "6.5M",
+     "4y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 6500000
+   },
+   {
+    "id": "y-eIhBThlrY",
+    "title": "Mac vs PC Video Editing Showdown ft. iJustine!!",
+    "meta": [
+     "6.5M",
+     "6y ago"
+    ],
+    "dur": "25:22",
+    "views_tab": 6500000
+   },
+   {
+    "id": "SElZABp5M3U",
+    "title": "I tried Steam Deck early and it's AWESOME!",
+    "meta": [
+     "6.5M",
+     "5y ago"
+    ],
+    "dur": "24:53",
+    "views_tab": 6500000
+   },
+   {
+    "id": "l_IHSRPVqwQ",
+    "title": "The $32,000 Mac Pro Killer",
+    "meta": [
+     "6.5M",
+     "6y ago"
+    ],
+    "dur": "18:14",
+    "views_tab": 6500000
+   },
+   {
+    "id": "s1fxZ-VWs2U",
+    "title": "How to Build a PC, the last guide you\u2019ll ever need! (2024 Update)",
+    "meta": [
+     "6.5M",
+     "2y ago"
+    ],
+    "dur": "1:54:49",
+    "views_tab": 6500000
+   },
+   {
+    "id": "4eSADWuZskk",
+    "title": "We got the Kick-Proof TV from China!",
+    "meta": [
+     "6.4M",
+     "6y ago"
+    ],
+    "dur": "11:49",
+    "views_tab": 6400000
+   },
+   {
+    "id": "3i0XCn3HhNo",
+    "title": "My Laptop DIED - Time to Pick a New One!",
+    "meta": [
+     "6.4M",
+     "7y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 6400000
+   },
+   {
+    "id": "3wtKZCHH7l0",
+    "title": "We made the SLOWEST BRAND NEW PC!",
+    "meta": [
+     "6.4M",
+     "6y ago"
+    ],
+    "dur": "15:06",
+    "views_tab": 6400000
+   },
+   {
+    "id": "USr4vZpYkD0",
+    "title": "$500 PC TEAM BATTLE - Scrapyard Wars Season 5 - Ep1",
+    "meta": [
+     "6.4M",
+     "9y ago"
+    ],
+    "dur": "46:07",
+    "views_tab": 6400000
+   },
+   {
+    "id": "blU_2wIMT4U",
+    "title": "The God of Computer Fans",
+    "meta": [
+     "6.4M",
+     "4y ago"
+    ],
+    "dur": "20:03",
+    "views_tab": 6400000
+   },
+   {
+    "id": "q45jxjne3BU",
+    "title": "They left this in my driveway - Cluvens Scorpion Gaming Cockpit Review",
+    "meta": [
+     "6.3M",
+     "2y ago"
+    ],
+    "dur": "17:54",
+    "views_tab": 6300000
+   },
+   {
+    "id": "qI2vmqANYcE",
+    "title": "Project Zero Cables - The Cleanest Desk Setup EVER",
+    "meta": [
+     "6.3M",
+     "6y ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 6300000
+   },
+   {
+    "id": "T3KjeNHF8Y0",
+    "title": "I Have 2 Weeks to File a Dispute for this Scam TV",
+    "meta": [
+     "6.3M",
+     "1y ago"
+    ],
+    "dur": "25:35",
+    "views_tab": 6300000
+   },
+   {
+    "id": "1ugJ1BJx0HE",
+    "title": "The SCAM of Wireless ESD Straps - Feat. ElectroBOOM",
+    "meta": [
+     "6.3M",
+     "3y ago"
+    ],
+    "dur": "29:23",
+    "views_tab": 6300000
+   },
+   {
+    "id": "_ffH3LROFZY",
+    "title": "The WORST PCs Linus Tech Tips Ever Built",
+    "meta": [
+     "6.3M",
+     "3y ago"
+    ],
+    "dur": "30:52",
+    "views_tab": 6300000
+   },
+   {
+    "id": "gk1eKPRLaJA",
+    "title": "Downloading Games at 10 GIGABIT?",
+    "meta": [
+     "6.2M",
+     "8y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 6200000
+   },
+   {
+    "id": "i1dGQiNfCAc",
+    "title": "RTX 3090 SLI - We Tried so Hard to Love It",
+    "meta": [
+     "6.2M",
+     "6y ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 6200000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "zGJSFTaFJbQ",
+    "title": "Undisclosed AMD Processor at 3.6GHz (Linus Tech Tips #1)",
+    "meta": [
+     "1.2M",
+     "17y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 1200000
+   },
+   {
+    "id": "An6Ek5u4RKM",
+    "title": "Asus Rampage 2 Extreme Motherboard (Linus Tech Tips #2)",
+    "meta": [
+     "303K",
+     "17y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 303000
+   },
+   {
+    "id": "5bEcaoyoJsI",
+    "title": "eVGA X58 Motherboard Overview (Linus Tech Tips #3)",
+    "meta": [
+     "129K",
+     "17y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 129000
+   },
+   {
+    "id": "DhsMaaEJs3E",
+    "title": "Lenovo Ideapad S10 Netbook Unboxing and Overview",
+    "meta": [
+     "349K",
+     "17y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 349000
+   },
+   {
+    "id": "4WhPcUdbfg8",
+    "title": "Personal Grooming with a USB Shaver (Linus Tech Tips #5)",
+    "meta": [
+     "195K",
+     "17y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 195000
+   },
+   {
+    "id": "zTNYWnIlPfw",
+    "title": "Samsung Digital Photo Frames - SPF-71E, SPF-105P (Linus Tech Tips #6)",
+    "meta": [
+     "141K",
+     "17y ago"
+    ],
+    "dur": "9:51",
+    "views_tab": 141000
+   },
+   {
+    "id": "-ln9FEZAaSk",
+    "title": "nVidia GEFORCE 3D Vision LCD Glasses Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "71K",
+     "17y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 71000
+   },
+   {
+    "id": "rwJyQvUL5JQ",
+    "title": "Intel Bobble Head Pen Holder - The Coolest Swag Ever (Linus Tech Tips Video Blog)",
+    "meta": [
+     "51K",
+     "17y ago"
+    ],
+    "dur": "0:25",
+    "views_tab": 51000
+   },
+   {
+    "id": "maElOCaUgXY",
+    "title": "MSI P55-GD65 P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "60K",
+     "17y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 60000
+   },
+   {
+    "id": "otH7kpjK7xs",
+    "title": "MSI P55-GD65 Base Clock Button Adjustment Linus Tech Tips",
+    "meta": [
+     "20K",
+     "17y ago"
+    ],
+    "dur": "0:55",
+    "views_tab": 20000
+   },
+   {
+    "id": "M7uZo4teY9I",
+    "title": "Acer Aspire Revo Ion Atom 330 Nettop Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "44K",
+     "17y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 44000
+   },
+   {
+    "id": "lwn3hyX1Ppo",
+    "title": "Gigabyte P55-UD4P P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "62K",
+     "17y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 62000
+   },
+   {
+    "id": "dEgqczaWAGg",
+    "title": "MSI P55-CD53 P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "32K",
+     "17y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 32000
+   },
+   {
+    "id": "cd9cp6U_YRM",
+    "title": "MSI P55-GD80 P55 LGA1156 Core i5 Motherboard Unboxing  Linus Tech Tips",
+    "meta": [
+     "26K",
+     "17y ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 26000
+   },
+   {
+    "id": "xZceNJAW7AU",
+    "title": "Lian Li PC-Q07B mITX aluminum PC Case Unboxing Linus Tech Tips",
+    "meta": [
+     "86K",
+     "17y ago"
+    ],
+    "dur": "3:27",
+    "views_tab": 86000
+   },
+   {
+    "id": "XCubjMtsuR8",
+    "title": "Picquic Screwdriver Dash 7, Multique, and Teeny Turner Hands On Linus Tech Tips",
+    "meta": [
+     "34K",
+     "17y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 34000
+   },
+   {
+    "id": "mJW5TIOfBqg",
+    "title": "Gigabyte P55M-UD4 P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "27K",
+     "17y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 27000
+   },
+   {
+    "id": "BeZUYFOKRSY",
+    "title": "Gigabyte P55-UD6 P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "30K",
+     "17y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 30000
+   },
+   {
+    "id": "6Cy79E2rWmE",
+    "title": "Gigabyte P55M-UD2 P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "25K",
+     "17y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 25000
+   },
+   {
+    "id": "W6BdcgrQGC4",
+    "title": "Gigabyte P55-UD5 P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "19K",
+     "17y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 19000
+   },
+   {
+    "id": "LPKm7IYSMFc",
+    "title": "Corsair 8GB 1600MHz C9 DDR3 Dual Channel Memory Kit Linus Tech Tips",
+    "meta": [
+     "38K",
+     "17y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 38000
+   },
+   {
+    "id": "GQq4edqvPa8",
+    "title": "Noctua NF-P12-1300 silent fan 120MM Linus Tech Tips",
+    "meta": [
+     "137K",
+     "17y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 137000
+   },
+   {
+    "id": "i-DibPLO3Rc",
+    "title": "Sans Digital TR4M-B eSATA 4 Bay Hard Drive Enclosure Linus Tech Tips",
+    "meta": [
+     "21K",
+     "17y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 21000
+   },
+   {
+    "id": "ltgO8ELCILg",
+    "title": "Western Digital Caviar Black 1TB Dual Processor SATA Hard Drive Unboxing Linus Tech Tips",
+    "meta": [
+     "50K",
+     "17y ago"
+    ],
+    "dur": "1:02",
+    "views_tab": 50000
+   },
+   {
+    "id": "rrzKosuWry4",
+    "title": "Noctua NH-U12P SE2 Core i5/i7 CPU Heatpipe Cooler Unboxing Linus Tech Tips",
+    "meta": [
+     "90K",
+     "17y ago"
+    ],
+    "dur": "3:45",
+    "views_tab": 90000
+   },
+   {
+    "id": "j0t7FwFTVyU",
+    "title": "Intel LGA1156 One Minute or Less Linus Tech Tips",
+    "meta": [
+     "59K",
+     "17y ago"
+    ],
+    "dur": "0:56",
+    "views_tab": 59000
+   },
+   {
+    "id": "N_tHuI0oHg0",
+    "title": "Gigabyte P55-UD3R P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "24K",
+     "17y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 24000
+   },
+   {
+    "id": "L8-T-u0xAf4",
+    "title": "eVGA P55 FTW LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "34K",
+     "17y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 34000
+   },
+   {
+    "id": "wlNSlUlzuGA",
+    "title": "Sanyo Eneloop AA Batteries & Charger Unboxing Linus Tech Tips",
+    "meta": [
+     "61K",
+     "17y ago"
+    ],
+    "dur": "1:45",
+    "views_tab": 61000
+   },
+   {
+    "id": "ctFxUU6zgL8",
+    "title": "ASUS P7P55D LE P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "37K",
+     "17y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 37000
+   },
+   {
+    "id": "mGq_vyWudyo",
+    "title": "eVGA P55 SLI LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "15K",
+     "17y ago"
+    ],
+    "dur": "3:28",
+    "views_tab": 15000
+   },
+   {
+    "id": "II_m5c_HMa0",
+    "title": "Corsair Dominator GT Core i5 P55 Dual Channel DDR3 Memory Unboxing",
+    "meta": [
+     "36K",
+     "17y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 36000
+   },
+   {
+    "id": "dzsrK7MA4b8",
+    "title": "Corsair H50 Hydro Series CPU Water Cooler Unboxing Linus Tech Tips",
+    "meta": [
+     "105K",
+     "17y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 105000
+   },
+   {
+    "id": "ZxtVg01sP5s",
+    "title": "ASUS Maximus III Formula P55 SLI LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "70K",
+     "17y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 70000
+   },
+   {
+    "id": "bA6NCKBcJ6U",
+    "title": "Intel Core i5 750 Quad Core LGA1156 Processor Unboxing Linus Tech Tips",
+    "meta": [
+     "74K",
+     "17y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 74000
+   },
+   {
+    "id": "RAL-T9u3bmc",
+    "title": "Arctic Cooling Freezer 7 Pro Rev.2 CPU Heatsink Cooler Unboxing Linus Tech Tips",
+    "meta": [
+     "183K",
+     "17y ago"
+    ],
+    "dur": "2:07",
+    "views_tab": 183000
+   },
+   {
+    "id": "jeXJhSEwFxs",
+    "title": "XFX Power Supply 850W Black Edition Modular SLI Unboxing Linus",
+    "meta": [
+     "27K",
+     "17y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 27000
+   },
+   {
+    "id": "tGvGs4jvTvA",
+    "title": "ASUS P7P55D Pro P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "67K",
+     "17y ago"
+    ],
+    "dur": "2:32",
+    "views_tab": 67000
+   },
+   {
+    "id": "XOa1AK663yw",
+    "title": "ASUS P7P55D P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "29K",
+     "17y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 29000
+   },
+   {
+    "id": "xsb6NZfw8Zg",
+    "title": "ASUS P7P55D EVO P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "27K",
+     "17y ago"
+    ],
+    "dur": "2:55",
+    "views_tab": 27000
+   },
+   {
+    "id": "Hp1kt8JLIcI",
+    "title": "ASUS P7P55D Deluxe P55 LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "62K",
+     "17y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 62000
+   },
+   {
+    "id": "ALZWOfFdyXA",
+    "title": "My Personal Rig",
+    "meta": [
+     "252K",
+     "17y ago"
+    ],
+    "dur": "0:15",
+    "views_tab": 252000
+   },
+   {
+    "id": "xSYWFwwnRHc",
+    "title": "Steelseries 4HD Gaming Mouse Pad & XAI Laser Gaming Mouse Unboxing Linus Tech Tips",
+    "meta": [
+     "86K",
+     "17y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 86000
+   },
+   {
+    "id": "uysjDM4P_4U",
+    "title": "eVGA P55 LE LGA1156 Core i5 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "10K",
+     "17y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 10000
+   },
+   {
+    "id": "pIEvh8cPjCE",
+    "title": "Radeon HD 5870 1GB ATI Video Card XFX Unboxing Linus Tech Tips",
+    "meta": [
+     "185K",
+     "17y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 185000
+   },
+   {
+    "id": "qIk38idHrOw",
+    "title": "Madcatz Street Fighter IV Tournament Edition Fightstick Unboxing Linus Tech Tips",
+    "meta": [
+     "30K",
+     "17y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 30000
+   },
+   {
+    "id": "RZAkCoaq384",
+    "title": "ATI Eyefinity Setup Guide",
+    "meta": [
+     "202K",
+     "17y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 202000
+   },
+   {
+    "id": "gPF6x6B0gfY",
+    "title": "Logitech G19 Gaming Keyboard Unboxing Linus Tech Tips",
+    "meta": [
+     "132K",
+     "17y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 132000
+   },
+   {
+    "id": "GGbz-EHF2zM",
+    "title": "Intel X25-M G2 80GB Postville SSD Solid State Drive Unboxing Linus Tech Tips",
+    "meta": [
+     "51K",
+     "17y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 51000
+   },
+   {
+    "id": "1n5gRekRdKw",
+    "title": "Corsair HX650 Professional Modular Power Supply Unboxing Linus Tech Tips",
+    "meta": [
+     "96K",
+     "17y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 96000
+   },
+   {
+    "id": "5leWZNVCD8E",
+    "title": "Razer Naga MMO Gaming Mouse Unboxing Linus Tech Tips",
+    "meta": [
+     "125K",
+     "17y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 125000
+   },
+   {
+    "id": "pKIYFjB7a0U",
+    "title": "ASUS O!Play Network Media Player Unboxing Linus Tech Tips",
+    "meta": [
+     "31K",
+     "17y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 31000
+   },
+   {
+    "id": "lswqO-2ZMMM",
+    "title": "Kicker EB141 Ear Bud Earphones Unboxing Linus Tech Tips",
+    "meta": [
+     "19K",
+     "17y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 19000
+   },
+   {
+    "id": "UeCRptViUkw",
+    "title": "AMD Phenom II 965 Black Edition Quad Core Processor Unboxing Linus Tech Tips",
+    "meta": [
+     "232K",
+     "17y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 232000
+   },
+   {
+    "id": "kJDl2Bcse18",
+    "title": "AuzenTech X-FI Hometheater HD Sound Card Unboxing Linus Tech Tips",
+    "meta": [
+     "37K",
+     "17y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 37000
+   },
+   {
+    "id": "90HJL_GSBGc",
+    "title": "Radeon HD 5850 1GB ATI Video Card XFX Unboxing Linus Tech Tips",
+    "meta": [
+     "87K",
+     "17y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 87000
+   },
+   {
+    "id": "gn673zKz0_c",
+    "title": "Radeon HD 5870 vs 5850 Length Specs Comparsion Linus Tech Tips",
+    "meta": [
+     "60K",
+     "17y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 60000
+   },
+   {
+    "id": "9fw6NzFwaaY",
+    "title": "Radeon HD 5850 1GB ATI Video Card Gigabyte Unboxing Linus Tech Tips",
+    "meta": [
+     "115K",
+     "17y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 115000
+   },
+   {
+    "id": "dH9KKIFP7Zo",
+    "title": "Samsung SMX-F30 Camcorder Unboxing Linus Tech Tips",
+    "meta": [
+     "40K",
+     "17y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 40000
+   },
+   {
+    "id": "CC-d0iHOWY8",
+    "title": "Antec Spot Cool Computer Fan Unboxing Linus Tech Tips",
+    "meta": [
+     "20K",
+     "17y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 20000
+   },
+   {
+    "id": "vzcvQqP0buk",
+    "title": "WD TV Live HD Network Media Player from Western Digital Unboxing Linus Tech Tips",
+    "meta": [
+     "164K",
+     "17y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 164000
+   },
+   {
+    "id": "gQM4vAE2gaY",
+    "title": "Kodak EasyShare M1093 IS Digital Camera Unboxing Linus Tech Tips",
+    "meta": [
+     "10K",
+     "17y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 10000
+   },
+   {
+    "id": "UcHwDPkt5qQ",
+    "title": "Antec Earthwatts 650W 80+ Power Supply Unboxing Linus Tech Tips",
+    "meta": [
+     "21K",
+     "17y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 21000
+   },
+   {
+    "id": "-JobNojPQtE",
+    "title": "Radeon HD 5770 1GB ATI Video Card XFX Unboxing Linus Tech Tips",
+    "meta": [
+     "236K",
+     "17y ago"
+    ],
+    "dur": "3:19",
+    "views_tab": 236000
+   },
+   {
+    "id": "rx5yxfG9s40",
+    "title": "Radeon HD 5750 1GB ATI Video Card XFX Unboxing Linus Tech Tips",
+    "meta": [
+     "195K",
+     "17y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 195000
+   },
+   {
+    "id": "NGytUXZK0Zs",
+    "title": "Patriot Box Office Media Player Unboxing Linus Tech Tips",
+    "meta": [
+     "71K",
+     "17y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 71000
+   },
+   {
+    "id": "MeRxKFAk8UY",
+    "title": "Windows 7 Home Premium Unboxing Linus Tech Tips",
+    "meta": [
+     "95K",
+     "17y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 95000
+   },
+   {
+    "id": "KEa5F51Mku0",
+    "title": "Steelseries Merc Stealth Gaming Keyboard Unboxing Linus Tech Tips",
+    "meta": [
+     "69K",
+     "17y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 69000
+   },
+   {
+    "id": "WWZ1zOfo_rQ",
+    "title": "Corsair Dream PC Showcase Linus Tech Tips",
+    "meta": [
+     "308K",
+     "17y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 308000
+   },
+   {
+    "id": "Ouz_SQk3-jY",
+    "title": "Retro-bit Retrogen Sega Genesis Handheld Unboxing Linus Tech Tips",
+    "meta": [
+     "50K",
+     "17y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 50000
+   },
+   {
+    "id": "zM_laBSbReM",
+    "title": "Retro-bit Retrogen Gameplay Video Linus Tech Tips",
+    "meta": [
+     "34K",
+     "17y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 34000
+   },
+   {
+    "id": "B50rDVbxn_A",
+    "title": "Corsair HX1000 Modular Power Supply Unboxing Linus Tech Tips",
+    "meta": [
+     "28K",
+     "17y ago"
+    ],
+    "dur": "4:54",
+    "views_tab": 28000
+   },
+   {
+    "id": "mbkNS_jp044",
+    "title": "Prolimatech Megahalems CPU Heatsink Unboxing Linus Tech Tips",
+    "meta": [
+     "22K",
+     "17y ago"
+    ],
+    "dur": "3:40",
+    "views_tab": 22000
+   },
+   {
+    "id": "gN8_5lTLGu4",
+    "title": "Microsoft Wireless Xbox 360 PC Game Controller Unboxing Linus Tech Tips",
+    "meta": [
+     "67K",
+     "17y ago"
+    ],
+    "dur": "3:07",
+    "views_tab": 67000
+   },
+   {
+    "id": "N8a05X2sM0E",
+    "title": "Microsoft Lifecam Cinema WebCam Unboxing Linus Tech Tips",
+    "meta": [
+     "24K",
+     "17y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 24000
+   },
+   {
+    "id": "xg0luIxBWPo",
+    "title": "Yate Loon D12SL-12 120mm Computer Fan Unboxing Linus Tech Tips",
+    "meta": [
+     "17K",
+     "16y ago"
+    ],
+    "dur": "1:34",
+    "views_tab": 17000
+   },
+   {
+    "id": "YbVu_w9xsxk",
+    "title": "Windows 7 Professional Upgrade Unboxing Linus Tech Tips",
+    "meta": [
+     "47K",
+     "16y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 47000
+   },
+   {
+    "id": "vcGYLKBAw9c",
+    "title": "Intel Core i7 Extreme 975 Unboxing Linus Tech Tips",
+    "meta": [
+     "34K",
+     "16y ago"
+    ],
+    "dur": "2:37",
+    "views_tab": 34000
+   },
+   {
+    "id": "gzylYAuwxtA",
+    "title": "Popcorn Hour C-200 Networked Media Tank Unboxing Linus Tech Tips",
+    "meta": [
+     "29K",
+     "16y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 29000
+   },
+   {
+    "id": "XT80ewIiIVk",
+    "title": "Popcorn Hour C-200 Internal Components & Features Linus Tech Tips",
+    "meta": [
+     "24K",
+     "16y ago"
+    ],
+    "dur": "1:45",
+    "views_tab": 24000
+   },
+   {
+    "id": "T0j75mK3BWM",
+    "title": "G.Skill Ripjaws DDR3 RAM Unboxing Linus Tech Tips",
+    "meta": [
+     "55K",
+     "16y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 55000
+   },
+   {
+    "id": "rU-mLZSt1Qs",
+    "title": "Windows 7 Downgrade Tutorial Linus Tech Tips",
+    "meta": [
+     "59K",
+     "16y ago"
+    ],
+    "dur": "1:19",
+    "views_tab": 59000
+   },
+   {
+    "id": "SABwCuscHRY",
+    "title": "Seagate FreeAgent Theater+ Network Media Player Unboxing Linus Tech Tips",
+    "meta": [
+     "13K",
+     "16y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 13000
+   },
+   {
+    "id": "j1CkN6emiwI",
+    "title": "nGear Retractable Travel Cable Kit Unboxing Linus Tech Tips",
+    "meta": [
+     "6.9K",
+     "16y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 6900
+   },
+   {
+    "id": "mT3X6NGe49E",
+    "title": "Samsung 2233RZ 3D 120Hz 22\" LCD Monitor Unboxing Linus Tech Tips",
+    "meta": [
+     "85K",
+     "16y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 85000
+   },
+   {
+    "id": "FNDw15Dv8Sg",
+    "title": "Visiontek Killer Xeno Pro Gaming Network Card Unboxing Linus Tech Tips",
+    "meta": [
+     "30K",
+     "16y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 30000
+   },
+   {
+    "id": "0ncHHEYw05A",
+    "title": "ASUS Sabertooth 55i TUF P55 Motherboard Unboxing Linus Tech Tips",
+    "meta": [
+     "33K",
+     "16y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 33000
+   },
+   {
+    "id": "c9hdAEHqgkA",
+    "title": "OCZ Special Ops DDR3 RAM Dual Channel Kit Unboxing Linus Tech Tips",
+    "meta": [
+     "11K",
+     "16y ago"
+    ],
+    "dur": "1:24",
+    "views_tab": 11000
+   },
+   {
+    "id": "rXKGn5lrJYM",
+    "title": "Western Digital WD Green 1TB Energy Efficient SATA Hard Drive Unboxing Linus Tech Tips",
+    "meta": [
+     "43K",
+     "16y ago"
+    ],
+    "dur": "1:17",
+    "views_tab": 43000
+   },
+   {
+    "id": "JISEsBcddPE",
+    "title": "OCZ Vertex SSD 60GB Solid State Drive Unboxing Linus Tech Tips",
+    "meta": [
+     "22K",
+     "16y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 22000
+   },
+   {
+    "id": "phDbyj5seSA",
+    "title": "OCZ Z-Series 1000W 80 Plus Gold Modular Power Supply Unboxing Linus Tech Tips",
+    "meta": [
+     "22K",
+     "16y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 22000
+   },
+   {
+    "id": "jRovyKw9wHQ",
+    "title": "Frozen Q PC Mods Liquid Fusion T-Virus Water Cooling Reservoir Unboxing Linus Tech Tips",
+    "meta": [
+     "80K",
+     "16y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 80000
+   },
+   {
+    "id": "fLFn4Z9Cerc",
+    "title": "Zowie Gear Hammer Gaming Headset and G-TF Cloth Mouse Pad Unboxing Linus Tech Tips",
+    "meta": [
+     "28K",
+     "16y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 28000
+   },
+   {
+    "id": "sAn7wxj6hhU",
+    "title": "A quick look at a build I'm working on including the T-Virus Reservoir Linus Tech Tips",
+    "meta": [
+     "194K",
+     "16y ago"
+    ],
+    "dur": "0:54",
+    "views_tab": 194000
+   },
+   {
+    "id": "4Lm_Mm7zdw8",
+    "title": "Swiftech MCR320 Stack Water Cooling Radiator Unboxing Linus Tech Tips",
+    "meta": [
+     "28K",
+     "16y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 28000
+   },
+   {
+    "id": "xbdvPNAYFBA",
+    "title": "Silverstone Strider 1500W Fully Modular Power Supply First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "29K",
+     "16y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 29000
+   },
+   {
+    "id": "fKR90YD4idM",
+    "title": "Antec CP-850 CPX Modular Power Supply First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "13K",
+     "16y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 13000
+   },
+   {
+    "id": "58XqLfBx7WE",
+    "title": "Corsair TX750 Power Supply First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "37K",
+     "16y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 37000
+   },
+   {
+    "id": "Y-ZavHhZgGM",
+    "title": "Razer Mako 2.1 Gaming Speaker System First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "72K",
+     "16y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 72000
+   },
+   {
+    "id": "Yv9JpqtkRI8",
+    "title": "Thermaltake BlacX Black Widow USB to SATA Hard Drive Dock First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "23K",
+     "16y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "zcf9bG8nwQQ",
+    "title": "Steelseries Siberia V2 PC Gaming Headset First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "374K",
+     "16y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 374000
+   },
+   {
+    "id": "hBodcvX00lA",
+    "title": "Imogen Studio Mister Robot-O Head Tracking Webcam Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "7.6K",
+     "16y ago"
+    ],
+    "dur": "2:35",
+    "views_tab": 7600
+   },
+   {
+    "id": "kjjnN8W3zI4",
+    "title": "ATI Radeon HD 5970 Video Card First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "50K",
+     "16y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 50000
+   },
+   {
+    "id": "AA0kWQeoKas",
+    "title": "ATI Radeon HD 5970 Video Card Installation in Corsair Obsidian 800D Linus Tech Tips",
+    "meta": [
+     "166K",
+     "16y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 166000
+   },
+   {
+    "id": "nYwdZUe0K7M",
+    "title": "Imogen Studio Mister Robot-O & Seedonk Application iPhone Webcam Monitoring Linus Tech Tips",
+    "meta": [
+     "11K",
+     "16y ago"
+    ],
+    "dur": "0:57",
+    "views_tab": 11000
+   },
+   {
+    "id": "G5YjzZEIk_M",
+    "title": "Steelseries WoW Mouse Unboxing & Comparison with Razer Naga MMO Mouse Linus Tech Tips",
+    "meta": [
+     "78K",
+     "16y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 78000
+   },
+   {
+    "id": "1qxzJZIX3Tc",
+    "title": "Puretrak Talent Ultra Thick Cloth Mouse Pad Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "18K",
+     "16y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 18000
+   },
+   {
+    "id": "SuCZhFgbRUI",
+    "title": "Steelseries 5H V2 USB Gaming Headset Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "69K",
+     "16y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 69000
+   },
+   {
+    "id": "iF5oti-bSuY",
+    "title": "Intel Turbo Boost Explanation & Windows Gadget Linus Tech Tips",
+    "meta": [
+     "88K",
+     "16y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 88000
+   },
+   {
+    "id": "lGCGguhRgug",
+    "title": "G.Skill Eco Series DDR3 Dual Channel RAM Memory Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "36K",
+     "16y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 36000
+   },
+   {
+    "id": "UgxbdSJaefQ",
+    "title": "Gigabyte X58A-UD7 Core i7 X58 SLI Motherboard Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "37K",
+     "16y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 37000
+   },
+   {
+    "id": "MHXEGcwFOOM",
+    "title": "Noctua NH-D14 140mm Tower Heatpipe Cooler Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "301K",
+     "16y ago"
+    ],
+    "dur": "4:45",
+    "views_tab": 301000
+   },
+   {
+    "id": "HAEIq1uf7Xg",
+    "title": "Gigabyte P55A-UD4P Core i5 P55 SLI Motherboard Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "23K",
+     "16y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 23000
+   },
+   {
+    "id": "esRGiQVxFHU",
+    "title": "Snow Ramp Wipe Out My Little Brother Hits Our Ramp on the Wagon Linus Tech Tips",
+    "meta": [
+     "15K",
+     "16y ago"
+    ],
+    "dur": "0:21",
+    "views_tab": 15000
+   },
+   {
+    "id": "OE2QM56t6D0",
+    "title": "Cooler Master HAF 922 Case Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "116K",
+     "16y ago"
+    ],
+    "dur": "6:57",
+    "views_tab": 116000
+   },
+   {
+    "id": "klSxJQG7Zyw",
+    "title": "Noctua NH-C12P SE14 140mm Fan Heatpipe CPU Heatsink Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "72K",
+     "16y ago"
+    ],
+    "dur": "4:08",
+    "views_tab": 72000
+   },
+   {
+    "id": "dD_0FFONe80",
+    "title": "Logitech G110 Gaming Keyboard First Look & Unboxing Linus Tech Tips",
+    "meta": [
+     "181K",
+     "16y ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 181000
+   },
+   {
+    "id": "hiG-TDgOURw",
+    "title": "Gigabyte P55A-UD4P P55 Core i5 SLI motherboard Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "7K",
+     "16y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 7000
+   },
+   {
+    "id": "RUGQ2YIKRkY",
+    "title": "Gigabyte P55A-UD3 P55 Core i5 LGA1156 Motherboard Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "53K",
+     "16y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 53000
+   },
+   {
+    "id": "pqNsRQqieps",
+    "title": "Primochill Typhoon III Water Cooling Reservoir and Pump Top Unboxing & First Look Linus Tech Tips",
+    "meta": [
+     "18K",
+     "16y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 18000
+   }
+  ]
+ }
+}

@@ -1,0 +1,41 @@
+n,channel_id,name,old_tier,hvac_latest30_before_fixes,hvac_latest30,rule_tier_before_fixes,rule_tier_after_fixes,my_tier,agree_before,agree_after,note
+1,UCsnKFNRChikWLQHzk1XxZ-w,Accelerated HVAC Success,D,20/30,20/30,D,D,D,yes,yes,HVAC-business podcast for contractors (trade)
+2,UCf3_eIEHRwKH7UlpULkPz-w,DoItYourselfDad,B,0/30,0/30,X,X,X,yes,yes,gadget / e-bike reviews now; old cooler and garage-AC hits in its top 10 (LEGACY)
+3,UCBB6HsvyQ3awb3BBqyZLPBQ,Subcool HVAC,D,19/30,19/30,D,D,D,yes,yes,commercial chiller / RTU service (trade)
+4,UCjYun1PcC1l0Kq0x4h0mBFg,An American Homestead,C,0/30,0/30,X,X,X,yes,yes,homestead / politics talk
+5,UCA5BxqNslvqgVl61NvRTLjQ,Nicolas Raimo,C,5/30,5/30,C,C,C,yes,yes,EV / solar / UK energy-tariff channel with a heat-pump share (energy lane)
+6,UCvQxGD5oNn5N6Hd6Zfvhb4w,Forgotten Materials ,C,22/30,22/30,A,A,A,yes,yes,"wood-stove and firewood tricks, off-grid / old-ways lane"
+7,UCeY3Ky1Kp_TSf3O8bVer1lQ,Radiantec,D,4/10,4/10,D,D,D,yes,yes,radiant-heat company
+8,UC54lqvok1lVN6NUeL_PErfg,Secret Sparks,C,7/30,7/30,B,B,C,no,no,Tesla / space / energy-myth mill; its HVAC titles are bill-saving device myth-busts (energy-hack lane the word list does not catch); rule B kept
+9,UCGSVwDfDPODIZ4MptL8pAQw,NOBOX7,C,6/30,6/30,B,B,C,no,no,"waste-oil burner / foundry hobby; HVAC titles are oil-burner heat; lane words 7/30 after the waste-oil fix, under the 30% bar; rule B kept"
+10,UC5knbXUbhA0MAGcQNM1SkKA,Halden Row,C,2/12,2/12,B,B,X,no,no,"food-history channel with 2 old-heating titles; LOW-N pooling (2/12) lifts it to B, the small-n problem check-master.md saw with Live Free; rule kept"
+11,UCDWlhWMW8Ji0rwlBwL8fpQw,Home Comfort Guy,A,14/30,20/30,B,A,A,no,yes,"home-performance contractor: attic, air sealing, blower door, bath fans; rule missed bath / exhaust fans and air-sealing words (fixed)"
+12,UC9uAexMxluUzXjJtxQ2ysHA,Airspool,D,22/30,22/30,D,D,D,yes,yes,solar mini-split product company
+13,UCPvS_V1ATa30d3W9wgmTLPA,Backwoods Ingenuity ,B,6/30,6/30,B,B,B,yes,yes,general home DIY with pellet-stove and baseboard-heater videos
+14,UCE_98I9-o_axbL0-tBHLAiQ,Broken Branch DIY,B,2/9,2/9,B,B,B,yes,yes,"general DIY, 2 of 9 HVAC"
+15,UC-z5astuAc_sg_ea_nhOCZg,Is It Worth It,B,2/30,2/30,X,X,X,yes,yes,general home repair; HVAC only drafts / weather-seal
+16,UCMvzPcAmmdFJr6Yk-2v0k-w,alpinehomeair,D,6/10,6/10,D,D,D,yes,yes,retailer
+17,UCE5lQKOyYXz6J6UgZQn2ptw,HVAC SIMPLIFIED,D,25/30,25/30,D,D,D,yes,yes,HVAC design training for engineers
+18,UCt47_v_207fZOLrHhwXpIdA,Coil Exposed,A,25/30,25/30,A,A,A,yes,yes,consumer-advocate HVAC channel
+19,UCmbfoqcQNElm8fEb4BnKzCw,Simply Tinker,B,0/30,0/30,X,X,X,yes,yes,trucks / construction
+20,UCbfabs2Hc-r4RkerOSKFZ5g,Top Pick 3,C,2/30,2/30,X,X,X,yes,yes,gift-guide product mill
+21,UC1AwKqpTXaI28FLNZxb5n1w,Mark T the Handyman ,B,7/30,7/30,B,B,B,yes,yes,"handyman: pool heaters, mowers, some AC / furnace"
+22,UCHN7pq3IboX6lTsWTTDPICg,Survival Labs,C,17/30,17/30,A,A,A,yes,yes,"free heat / cooling tricks, off-grid lane"
+23,UC3e787WHXGb-BF9O9Z_H70g,DIY DDS,A,9/30,9/30,B,B,B,yes,yes,general repairs with boiler and AC videos
+24,UCPKAKrjoMz7POptCloy7AIQ,LRN2DIY,B,2/30,4/30,X,B,B,no,yes,"general DIY; rule missed ""A/C Units"" and ""keep my garage at 70°F"" (fixed)"
+25,UCCV1dswcqEbtNjqIKo7fv_Q,Indy Farm Life,B,2/30,2/30,X,X,X,yes,yes,ponds; old heater hits in its top 10 (LEGACY)
+26,UCiF9Qw4CmLuBqWFGanj1KIA,Nick Nicoloudis,D,2/30,2/30,X,X,X,yes,yes,appliance / coffee-machine repair
+27,UCWGn3bkhut23-X6DEJsyEpw,Midea America,D,9/14,9/14,D,D,D,yes,yes,manufacturer
+28,UCB78N_DpnGKKSuwBknTN9CA,Tool Junkie,C,10/30,11/30,B,C,C,no,yes,"""7 Best ... 2026"" product-list mill heavy on heaters; lane list only had ""Top 5 Best"" (fixed)"
+29,UCik3JUx29XhSgEWKv7MUv8w,Renewable Heating Hub,C,20/30,20/30,A,A,A,yes,yes,UK heat-pump homeowner community
+30,UCJYXqMeVdMG6m_b1a9cyCFA,Secret Cooling Systems,C,20/25,21/25,A,A,A,yes,yes,homeowner cooling tricks
+31,UC5rpEgl1KskEYLFN3gZxMiw,Emmett Boone Prepping,C,2/30,2/30,X,X,X,yes,yes,prepper stockpiling; 2 winter-warmth titles
+32,UCL3_8mlFDtcVCZ-JatBEJKw,Saving Savers,C,7/30,7/30,B,C,C,no,yes,"""Grandma's / Grandpa's ... tricks for seniors living alone"" with winter-heat hacks (old-ways / frugal lane; grandma, grandpa, ""cost pennies"" added)"
+33,UChl59OZM7DCZ0ep9y9W_LWg,Homeowner DIY,A,2/30,2/30,X,X,X,yes,yes,car / plumbing / roofing
+34,UCALzk-a1dRNEx3cBm0votNQ,The Review Guy,C,10/30,10/30,C,C,C,yes,yes,"""Top 5 Best"" product lists with heating products"
+35,UCf0mHkUi_xiAdb97QnecFAA,Magic Touch: Fire & Air,D,25/30,25/30,A,A,A,yes,yes,Phoenix HVAC and fireplace contractor (contractor)
+36,UCsdjQ9GmaSwm4LADVGy-f9g,Mikey Pipes HVAC Training,D,20/30,20/30,D,D,D,yes,yes,HVAC training
+37,UCZM2vsQp6xH1qmDCp8Ucwzg,RomanUrsuHack,C,5/30,5/30,B,B,C,no,no,craft / recycling hack channel with homemade-AC and free-heat hacks; no lane words in its titles; rule B kept
+38,UCiyRVRCzEtxbZmJMRzI8KCA,Vern Holt | Home Repair,A,5/6,5/6,A,A,A,yes,yes,"persona channel, 5 of 6 HVAC (LOW-N)"
+39,UCt0ArHe_-CKAr1So3IEwmsA,CaptiveAire,D,12/30,12/30,D,D,D,yes,yes,commercial kitchen-ventilation manufacturer
+40,UClvneKYETPOEMkJPpJmvkUw,Mark Jenkins,A,1/30,1/30,X,X,X,yes,yes,car repair and gadget reviews (round 2 checker: X)

@@ -1,0 +1,585 @@
+{
+ "key": "UCzSJ-nC8_A1RqPGRzcZL8wA",
+ "channel": "Pat's DIY Insider",
+ "id": "UCzSJ-nC8_A1RqPGRzcZL8wA",
+ "subs": "27 subscribers",
+ "videos": "14 videos",
+ "pulled": "2026-10-26T07:07:16.766046+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "bQ2OWbVjLEY",
+    "title": "The $10 Smart Thermostat Hack HVAC Techs Secretly Use",
+    "meta": [
+     "18",
+     "3d ago"
+    ],
+    "dur": "8:52",
+    "views_tab": 18
+   },
+   {
+    "id": "Q5G8CCWxxPc",
+    "title": "Stop Buying New Appliances(3 Parts That Break On Purpose)",
+    "meta": [
+     "21",
+     "5d ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 21
+   },
+   {
+    "id": "9OZG4BIctko",
+    "title": "The 60 Second Appliance Reset That Fixes 90% of Failures",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 112
+   },
+   {
+    "id": "IsrMcF4U-v0",
+    "title": "Fix a Humming Garbage Disposal FAST (FREE Fix)",
+    "meta": [
+     "413",
+     "2w ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 413
+   },
+   {
+    "id": "Uqk8ctjKxr0",
+    "title": "The 5 Minute Washer Fix Techs Charge $250 to Do(Drain Pump Reset)",
+    "meta": [
+     "393",
+     "2w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 393
+   },
+   {
+    "id": "okqMBcLZpKY",
+    "title": "No Hot Water? Try This 3 Minute Fix Before Calling a Plumber",
+    "meta": [
+     "2.1K",
+     "3w ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "SbNSVdcq3hA",
+    "title": "Stop Wasting Money Cooling Your Attic",
+    "meta": [
+     "281",
+     "3w ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 281
+   },
+   {
+    "id": "8gpz6nYsfHM",
+    "title": "5 Home Repairs You Should NEVER Pay a Professional For",
+    "meta": [
+     "39",
+     "3w ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 39
+   },
+   {
+    "id": "y7QMrpkXTw8",
+    "title": "Why Your Dishwasher Leaves Dishes Dirty (And How to Fix It)",
+    "meta": [
+     "249",
+     "4w ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 249
+   },
+   {
+    "id": "mgMVYA5HB-A",
+    "title": "Before Calling an HVAC Tech, Check This $10 Part",
+    "meta": [
+     "181",
+     "1mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 181
+   },
+   {
+    "id": "0TonY7Jhi2k",
+    "title": "90% of Homeowners Make These 5 Costly HVAC Mistakes",
+    "meta": [
+     "130",
+     "1mo ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 130
+   },
+   {
+    "id": "vUvsVo_gaDA",
+    "title": "Do THIS to Your Furnace Before Winter (Or Pay $300 Later)",
+    "meta": [
+     "595",
+     "1mo ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 595
+   },
+   {
+    "id": "aEDQ4fGm1Kc",
+    "title": "Stop Doing This Before You RUIN Your Refrigerator!",
+    "meta": [
+     "297",
+     "1mo ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 297
+   },
+   {
+    "id": "qfLZjs1VhUM",
+    "title": "Repairmen Hate This $15 Dryer Fix (Don't Get Scammed)",
+    "meta": [
+     "1.9K",
+     "1mo ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 1900
+   }
+  ],
+  "Latest": [
+   {
+    "id": "bQ2OWbVjLEY",
+    "title": "The $10 Smart Thermostat Hack HVAC Techs Secretly Use",
+    "meta": [
+     "18",
+     "3d ago"
+    ],
+    "dur": "8:52",
+    "views_tab": 18
+   },
+   {
+    "id": "Q5G8CCWxxPc",
+    "title": "Stop Buying New Appliances(3 Parts That Break On Purpose)",
+    "meta": [
+     "21",
+     "5d ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 21
+   },
+   {
+    "id": "9OZG4BIctko",
+    "title": "The 60 Second Appliance Reset That Fixes 90% of Failures",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 112
+   },
+   {
+    "id": "IsrMcF4U-v0",
+    "title": "Fix a Humming Garbage Disposal FAST (FREE Fix)",
+    "meta": [
+     "413",
+     "2w ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 413
+   },
+   {
+    "id": "Uqk8ctjKxr0",
+    "title": "The 5 Minute Washer Fix Techs Charge $250 to Do(Drain Pump Reset)",
+    "meta": [
+     "393",
+     "2w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 393
+   },
+   {
+    "id": "okqMBcLZpKY",
+    "title": "No Hot Water? Try This 3 Minute Fix Before Calling a Plumber",
+    "meta": [
+     "2.1K",
+     "3w ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "SbNSVdcq3hA",
+    "title": "Stop Wasting Money Cooling Your Attic",
+    "meta": [
+     "281",
+     "3w ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 281
+   },
+   {
+    "id": "8gpz6nYsfHM",
+    "title": "5 Home Repairs You Should NEVER Pay a Professional For",
+    "meta": [
+     "39",
+     "3w ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 39
+   },
+   {
+    "id": "y7QMrpkXTw8",
+    "title": "Why Your Dishwasher Leaves Dishes Dirty (And How to Fix It)",
+    "meta": [
+     "249",
+     "4w ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 249
+   },
+   {
+    "id": "mgMVYA5HB-A",
+    "title": "Before Calling an HVAC Tech, Check This $10 Part",
+    "meta": [
+     "181",
+     "1mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 181
+   },
+   {
+    "id": "0TonY7Jhi2k",
+    "title": "90% of Homeowners Make These 5 Costly HVAC Mistakes",
+    "meta": [
+     "130",
+     "1mo ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 130
+   },
+   {
+    "id": "vUvsVo_gaDA",
+    "title": "Do THIS to Your Furnace Before Winter (Or Pay $300 Later)",
+    "meta": [
+     "595",
+     "1mo ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 595
+   },
+   {
+    "id": "aEDQ4fGm1Kc",
+    "title": "Stop Doing This Before You RUIN Your Refrigerator!",
+    "meta": [
+     "297",
+     "1mo ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 297
+   },
+   {
+    "id": "qfLZjs1VhUM",
+    "title": "Repairmen Hate This $15 Dryer Fix (Don't Get Scammed)",
+    "meta": [
+     "1.9K",
+     "1mo ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 1900
+   }
+  ],
+  "Popular": [
+   {
+    "id": "okqMBcLZpKY",
+    "title": "No Hot Water? Try This 3 Minute Fix Before Calling a Plumber",
+    "meta": [
+     "2.1K",
+     "3w ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "qfLZjs1VhUM",
+    "title": "Repairmen Hate This $15 Dryer Fix (Don't Get Scammed)",
+    "meta": [
+     "1.9K",
+     "1mo ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 1900
+   },
+   {
+    "id": "vUvsVo_gaDA",
+    "title": "Do THIS to Your Furnace Before Winter (Or Pay $300 Later)",
+    "meta": [
+     "595",
+     "1mo ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 595
+   },
+   {
+    "id": "IsrMcF4U-v0",
+    "title": "Fix a Humming Garbage Disposal FAST (FREE Fix)",
+    "meta": [
+     "413",
+     "2w ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 413
+   },
+   {
+    "id": "Uqk8ctjKxr0",
+    "title": "The 5 Minute Washer Fix Techs Charge $250 to Do(Drain Pump Reset)",
+    "meta": [
+     "393",
+     "2w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 393
+   },
+   {
+    "id": "aEDQ4fGm1Kc",
+    "title": "Stop Doing This Before You RUIN Your Refrigerator!",
+    "meta": [
+     "297",
+     "1mo ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 297
+   },
+   {
+    "id": "SbNSVdcq3hA",
+    "title": "Stop Wasting Money Cooling Your Attic",
+    "meta": [
+     "281",
+     "3w ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 281
+   },
+   {
+    "id": "y7QMrpkXTw8",
+    "title": "Why Your Dishwasher Leaves Dishes Dirty (And How to Fix It)",
+    "meta": [
+     "249",
+     "4w ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 249
+   },
+   {
+    "id": "mgMVYA5HB-A",
+    "title": "Before Calling an HVAC Tech, Check This $10 Part",
+    "meta": [
+     "181",
+     "1mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 181
+   },
+   {
+    "id": "0TonY7Jhi2k",
+    "title": "90% of Homeowners Make These 5 Costly HVAC Mistakes",
+    "meta": [
+     "130",
+     "1mo ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 130
+   },
+   {
+    "id": "9OZG4BIctko",
+    "title": "The 60 Second Appliance Reset That Fixes 90% of Failures",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 112
+   },
+   {
+    "id": "8gpz6nYsfHM",
+    "title": "5 Home Repairs You Should NEVER Pay a Professional For",
+    "meta": [
+     "39",
+     "3w ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 39
+   },
+   {
+    "id": "Q5G8CCWxxPc",
+    "title": "Stop Buying New Appliances(3 Parts That Break On Purpose)",
+    "meta": [
+     "21",
+     "5d ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 21
+   },
+   {
+    "id": "bQ2OWbVjLEY",
+    "title": "The $10 Smart Thermostat Hack HVAC Techs Secretly Use",
+    "meta": [
+     "18",
+     "3d ago"
+    ],
+    "dur": "8:52",
+    "views_tab": 18
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "qfLZjs1VhUM",
+    "title": "Repairmen Hate This $15 Dryer Fix (Don't Get Scammed)",
+    "meta": [
+     "1.9K",
+     "1mo ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 1900
+   },
+   {
+    "id": "aEDQ4fGm1Kc",
+    "title": "Stop Doing This Before You RUIN Your Refrigerator!",
+    "meta": [
+     "297",
+     "1mo ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 297
+   },
+   {
+    "id": "vUvsVo_gaDA",
+    "title": "Do THIS to Your Furnace Before Winter (Or Pay $300 Later)",
+    "meta": [
+     "595",
+     "1mo ago"
+    ],
+    "dur": "9:31",
+    "views_tab": 595
+   },
+   {
+    "id": "0TonY7Jhi2k",
+    "title": "90% of Homeowners Make These 5 Costly HVAC Mistakes",
+    "meta": [
+     "130",
+     "1mo ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 130
+   },
+   {
+    "id": "mgMVYA5HB-A",
+    "title": "Before Calling an HVAC Tech, Check This $10 Part",
+    "meta": [
+     "181",
+     "1mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 181
+   },
+   {
+    "id": "y7QMrpkXTw8",
+    "title": "Why Your Dishwasher Leaves Dishes Dirty (And How to Fix It)",
+    "meta": [
+     "249",
+     "4w ago"
+    ],
+    "dur": "8:42",
+    "views_tab": 249
+   },
+   {
+    "id": "8gpz6nYsfHM",
+    "title": "5 Home Repairs You Should NEVER Pay a Professional For",
+    "meta": [
+     "39",
+     "3w ago"
+    ],
+    "dur": "9:00",
+    "views_tab": 39
+   },
+   {
+    "id": "SbNSVdcq3hA",
+    "title": "Stop Wasting Money Cooling Your Attic",
+    "meta": [
+     "281",
+     "3w ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 281
+   },
+   {
+    "id": "okqMBcLZpKY",
+    "title": "No Hot Water? Try This 3 Minute Fix Before Calling a Plumber",
+    "meta": [
+     "2.1K",
+     "3w ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 2100
+   },
+   {
+    "id": "Uqk8ctjKxr0",
+    "title": "The 5 Minute Washer Fix Techs Charge $250 to Do(Drain Pump Reset)",
+    "meta": [
+     "393",
+     "2w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 393
+   },
+   {
+    "id": "IsrMcF4U-v0",
+    "title": "Fix a Humming Garbage Disposal FAST (FREE Fix)",
+    "meta": [
+     "413",
+     "2w ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 413
+   },
+   {
+    "id": "9OZG4BIctko",
+    "title": "The 60 Second Appliance Reset That Fixes 90% of Failures",
+    "meta": [
+     "112",
+     "2w ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 112
+   },
+   {
+    "id": "Q5G8CCWxxPc",
+    "title": "Stop Buying New Appliances(3 Parts That Break On Purpose)",
+    "meta": [
+     "21",
+     "5d ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 21
+   },
+   {
+    "id": "bQ2OWbVjLEY",
+    "title": "The $10 Smart Thermostat Hack HVAC Techs Secretly Use",
+    "meta": [
+     "18",
+     "3d ago"
+    ],
+    "dur": "8:52",
+    "views_tab": 18
+   }
+  ]
+ }
+}

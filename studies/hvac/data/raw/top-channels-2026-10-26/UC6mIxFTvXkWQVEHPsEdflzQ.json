@@ -1,0 +1,3925 @@
+{
+ "key": "UC6mIxFTvXkWQVEHPsEdflzQ",
+ "channel": "GreatScott!",
+ "id": "UC6mIxFTvXkWQVEHPsEdflzQ",
+ "subs": "2.17M subscribers",
+ "videos": "590 videos",
+ "pulled": "2026-10-26T08:14:23.423152+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "wiTGuvSBNP4",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 21)",
+    "meta": [
+     "209K",
+     "16h ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 209000
+   },
+   {
+    "id": "jfjyx1GvrJk",
+    "title": "Forget Thermal Paste! This Cooling Trick Is Much Better",
+    "meta": [
+     "413K",
+     "2w ago"
+    ],
+    "dur": "11:45",
+    "views_tab": 413000
+   },
+   {
+    "id": "uDfdo2zfs88",
+    "title": "Can My DIY AI Beat a Flagship AI? (in a Real Project)",
+    "meta": [
+     "369K",
+     "4w ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 369000
+   },
+   {
+    "id": "ZQ62gajj54Y",
+    "title": "I Found the Secret to Long Range WiFi!",
+    "meta": [
+     "849K",
+     "1mo ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 849000
+   },
+   {
+    "id": "aKSIhqiKjm4",
+    "title": "Apparently You Can Hack an Air Conditioner! (+30% Power)",
+    "meta": [
+     "395K",
+     "1mo ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 395000
+   },
+   {
+    "id": "nnZVXshJH4c",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (SPECIAL Part 20)",
+    "meta": [
+     "622K",
+     "2mo ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 622000
+   },
+   {
+    "id": "eYx7uxJ802I",
+    "title": "Why You Can\u2019t Copy a Car Key (I tried)",
+    "meta": [
+     "185K",
+     "2mo ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 185000
+   },
+   {
+    "id": "1k6PlKaNI-c",
+    "title": "I tried Super Useful Future Tech! (That you can use Today)",
+    "meta": [
+     "250K",
+     "3mo ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 250000
+   },
+   {
+    "id": "zkjdM56bA2M",
+    "title": "Stop Trusting Breadboards! Here\u2019s Why!",
+    "meta": [
+     "135K",
+     "3mo ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 135000
+   },
+   {
+    "id": "y0UkxnTC1p4",
+    "title": "GPS Has a HUGE Problem\u2026 That We Can Fix? (RTK GPS)",
+    "meta": [
+     "169K",
+     "4mo ago"
+    ],
+    "dur": "11:58",
+    "views_tab": 169000
+   },
+   {
+    "id": "6rlUO5NoYO0",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 19)",
+    "meta": [
+     "510K",
+     "4mo ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 510000
+   },
+   {
+    "id": "Q_5bna_cyBw",
+    "title": "I Found the Secret to WiFi Antennas! EB#68",
+    "meta": [
+     "359K",
+     "5mo ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 359000
+   },
+   {
+    "id": "JsgUMEC-wpc",
+    "title": "I Upgraded my Friend's House for CHEAP! (KNX Vs Shelly)",
+    "meta": [
+     "161K",
+     "5mo ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 161000
+   },
+   {
+    "id": "-fSjLF4u4kE",
+    "title": "This Forgotten Transistor is Making a Comeback?! (JFET) EB#67",
+    "meta": [
+     "186K",
+     "5mo ago"
+    ],
+    "dur": "10:08",
+    "views_tab": 186000
+   },
+   {
+    "id": "xZImObVqPxY",
+    "title": "This Weird Motor saved me 3500\u20ac! (DIY Roller Shutter)",
+    "meta": [
+     "216K",
+     "6mo ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 216000
+   },
+   {
+    "id": "cwU7pMmqieQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 18)",
+    "meta": [
+     "302K",
+     "6mo ago"
+    ],
+    "dur": "12:35",
+    "views_tab": 302000
+   },
+   {
+    "id": "Xda1chrQ4yQ",
+    "title": "This Finally Fixed My Stair Lights! (Radar)",
+    "meta": [
+     "178K",
+     "7mo ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 178000
+   },
+   {
+    "id": "PKXFP40N1t4",
+    "title": "Is THIS the Battery of the Future? (Weldless)",
+    "meta": [
+     "153K",
+     "7mo ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 153000
+   },
+   {
+    "id": "n5KC1TlKKwQ",
+    "title": "Stopping a WiFi Jammer and Other Radiation Is Easy?",
+    "meta": [
+     "131K",
+     "8mo ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 131000
+   },
+   {
+    "id": "RhFO9KdI2Mc",
+    "title": "Finally! A Home Upgrade That Makes Sense (E-Ink Display)",
+    "meta": [
+     "300K",
+     "8mo ago"
+    ],
+    "dur": "11:25",
+    "views_tab": 300000
+   },
+   {
+    "id": "R17IPmIz0fU",
+    "title": "No More Videos for a While (Channel Update 2025)",
+    "meta": [
+     "136K",
+     "9mo ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 136000
+   },
+   {
+    "id": "zT0CvQKSKVQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 17)",
+    "meta": [
+     "588K",
+     "10mo ago"
+    ],
+    "dur": "15:17",
+    "views_tab": 588000
+   },
+   {
+    "id": "nC0o99nN2D0",
+    "title": "No WiFi? No Problem! Long-Range is Finally Easy?!",
+    "meta": [
+     "427K",
+     "10mo ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 427000
+   },
+   {
+    "id": "YzfEdZtpABI",
+    "title": "The Amazing Secret in every Battery! (Fuel Gauge) EB#66",
+    "meta": [
+     "192K",
+     "11mo ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 192000
+   },
+   {
+    "id": "ajKES2dd5BM",
+    "title": "This Board knows Where You Are! (UWB) EB#65",
+    "meta": [
+     "169K",
+     "11mo ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 169000
+   },
+   {
+    "id": "lsW8Q_ECXOE",
+    "title": "From Meh to WOW - With 1 \"Tiny\" Hack!",
+    "meta": [
+     "203K",
+     "1y ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 203000
+   },
+   {
+    "id": "VyqljSodp6k",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 16)",
+    "meta": [
+     "459K",
+     "1y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 459000
+   },
+   {
+    "id": "l3d8uFKsJiY",
+    "title": "The Harsh Truth about FPGAs (You Should Avoid Them?!)",
+    "meta": [
+     "454K",
+     "1y ago"
+    ],
+    "dur": "11:38",
+    "views_tab": 454000
+   },
+   {
+    "id": "_R7HFDz1AdU",
+    "title": "The Most Handy Gadget can be done...Cheaper?! (DIY or Buy)",
+    "meta": [
+     "197K",
+     "1y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 197000
+   },
+   {
+    "id": "D86an4uN7FE",
+    "title": "I tried Super Useful Future Tech! (That you can use Today)",
+    "meta": [
+     "349K",
+     "1y ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 349000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "wiTGuvSBNP4",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 21)",
+    "meta": [
+     "209K",
+     "16h ago"
+    ],
+    "dur": "14:04",
+    "views_tab": 209000
+   },
+   {
+    "id": "jfjyx1GvrJk",
+    "title": "Forget Thermal Paste! This Cooling Trick Is Much Better",
+    "meta": [
+     "413K",
+     "2w ago"
+    ],
+    "dur": "11:45",
+    "views_tab": 413000
+   },
+   {
+    "id": "uDfdo2zfs88",
+    "title": "Can My DIY AI Beat a Flagship AI? (in a Real Project)",
+    "meta": [
+     "369K",
+     "4w ago"
+    ],
+    "dur": "13:45",
+    "views_tab": 369000
+   },
+   {
+    "id": "ZQ62gajj54Y",
+    "title": "I Found the Secret to Long Range WiFi!",
+    "meta": [
+     "849K",
+     "1mo ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 849000
+   },
+   {
+    "id": "aKSIhqiKjm4",
+    "title": "Apparently You Can Hack an Air Conditioner! (+30% Power)",
+    "meta": [
+     "395K",
+     "1mo ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 395000
+   },
+   {
+    "id": "nnZVXshJH4c",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (SPECIAL Part 20)",
+    "meta": [
+     "622K",
+     "2mo ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 622000
+   },
+   {
+    "id": "eYx7uxJ802I",
+    "title": "Why You Can\u2019t Copy a Car Key (I tried)",
+    "meta": [
+     "185K",
+     "2mo ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 185000
+   },
+   {
+    "id": "1k6PlKaNI-c",
+    "title": "I tried Super Useful Future Tech! (That you can use Today)",
+    "meta": [
+     "250K",
+     "3mo ago"
+    ],
+    "dur": "13:24",
+    "views_tab": 250000
+   },
+   {
+    "id": "zkjdM56bA2M",
+    "title": "Stop Trusting Breadboards! Here\u2019s Why!",
+    "meta": [
+     "135K",
+     "3mo ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 135000
+   },
+   {
+    "id": "y0UkxnTC1p4",
+    "title": "GPS Has a HUGE Problem\u2026 That We Can Fix? (RTK GPS)",
+    "meta": [
+     "169K",
+     "4mo ago"
+    ],
+    "dur": "11:58",
+    "views_tab": 169000
+   },
+   {
+    "id": "6rlUO5NoYO0",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 19)",
+    "meta": [
+     "510K",
+     "4mo ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 510000
+   },
+   {
+    "id": "Q_5bna_cyBw",
+    "title": "I Found the Secret to WiFi Antennas! EB#68",
+    "meta": [
+     "359K",
+     "5mo ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 359000
+   },
+   {
+    "id": "JsgUMEC-wpc",
+    "title": "I Upgraded my Friend's House for CHEAP! (KNX Vs Shelly)",
+    "meta": [
+     "161K",
+     "5mo ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 161000
+   },
+   {
+    "id": "-fSjLF4u4kE",
+    "title": "This Forgotten Transistor is Making a Comeback?! (JFET) EB#67",
+    "meta": [
+     "186K",
+     "5mo ago"
+    ],
+    "dur": "10:08",
+    "views_tab": 186000
+   },
+   {
+    "id": "xZImObVqPxY",
+    "title": "This Weird Motor saved me 3500\u20ac! (DIY Roller Shutter)",
+    "meta": [
+     "216K",
+     "6mo ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 216000
+   },
+   {
+    "id": "cwU7pMmqieQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 18)",
+    "meta": [
+     "302K",
+     "6mo ago"
+    ],
+    "dur": "12:35",
+    "views_tab": 302000
+   },
+   {
+    "id": "Xda1chrQ4yQ",
+    "title": "This Finally Fixed My Stair Lights! (Radar)",
+    "meta": [
+     "178K",
+     "7mo ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 178000
+   },
+   {
+    "id": "PKXFP40N1t4",
+    "title": "Is THIS the Battery of the Future? (Weldless)",
+    "meta": [
+     "153K",
+     "7mo ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 153000
+   },
+   {
+    "id": "n5KC1TlKKwQ",
+    "title": "Stopping a WiFi Jammer and Other Radiation Is Easy?",
+    "meta": [
+     "131K",
+     "8mo ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 131000
+   },
+   {
+    "id": "RhFO9KdI2Mc",
+    "title": "Finally! A Home Upgrade That Makes Sense (E-Ink Display)",
+    "meta": [
+     "300K",
+     "8mo ago"
+    ],
+    "dur": "11:25",
+    "views_tab": 300000
+   },
+   {
+    "id": "R17IPmIz0fU",
+    "title": "No More Videos for a While (Channel Update 2025)",
+    "meta": [
+     "136K",
+     "9mo ago"
+    ],
+    "dur": "26:26",
+    "views_tab": 136000
+   },
+   {
+    "id": "zT0CvQKSKVQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 17)",
+    "meta": [
+     "588K",
+     "10mo ago"
+    ],
+    "dur": "15:17",
+    "views_tab": 588000
+   },
+   {
+    "id": "nC0o99nN2D0",
+    "title": "No WiFi? No Problem! Long-Range is Finally Easy?!",
+    "meta": [
+     "427K",
+     "10mo ago"
+    ],
+    "dur": "10:49",
+    "views_tab": 427000
+   },
+   {
+    "id": "YzfEdZtpABI",
+    "title": "The Amazing Secret in every Battery! (Fuel Gauge) EB#66",
+    "meta": [
+     "192K",
+     "11mo ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 192000
+   },
+   {
+    "id": "ajKES2dd5BM",
+    "title": "This Board knows Where You Are! (UWB) EB#65",
+    "meta": [
+     "169K",
+     "11mo ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 169000
+   },
+   {
+    "id": "lsW8Q_ECXOE",
+    "title": "From Meh to WOW - With 1 \"Tiny\" Hack!",
+    "meta": [
+     "203K",
+     "1y ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 203000
+   },
+   {
+    "id": "VyqljSodp6k",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 16)",
+    "meta": [
+     "459K",
+     "1y ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 459000
+   },
+   {
+    "id": "l3d8uFKsJiY",
+    "title": "The Harsh Truth about FPGAs (You Should Avoid Them?!)",
+    "meta": [
+     "454K",
+     "1y ago"
+    ],
+    "dur": "11:38",
+    "views_tab": 454000
+   },
+   {
+    "id": "_R7HFDz1AdU",
+    "title": "The Most Handy Gadget can be done...Cheaper?! (DIY or Buy)",
+    "meta": [
+     "197K",
+     "1y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 197000
+   },
+   {
+    "id": "D86an4uN7FE",
+    "title": "I tried Super Useful Future Tech! (That you can use Today)",
+    "meta": [
+     "349K",
+     "1y ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 349000
+   },
+   {
+    "id": "LOIVrVVYBfA",
+    "title": "Is it IMPOSSIBLE to make the Ultimate USB-C Cable? (Shielding) EB#64",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 202000
+   },
+   {
+    "id": "Jj6VQgw1ZvM",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 15)",
+    "meta": [
+     "809K",
+     "1y ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 809000
+   },
+   {
+    "id": "cmRGhoF_ZEM",
+    "title": "The Most Important Motor for our Electrical Future?! (PMSM) EB#63",
+    "meta": [
+     "976K",
+     "1y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 976000
+   },
+   {
+    "id": "4UTzerFjycg",
+    "title": "Forget Alexa! \u2014 This is MUCH Better?! (Command EVERYTHING)",
+    "meta": [
+     "166K",
+     "1y ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 166000
+   },
+   {
+    "id": "ZikvlsVDiQY",
+    "title": "Your USB-C Cable STILL Sucks \u2014 I Built a Better One? (DIY or Buy)",
+    "meta": [
+     "585K",
+     "1y ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 585000
+   },
+   {
+    "id": "kzuOezZ_quI",
+    "title": "Cheapest Inverter + Premium Parts = Surprising Results!",
+    "meta": [
+     "260K",
+     "1y ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 260000
+   },
+   {
+    "id": "28ZtAfzxvo8",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 14)",
+    "meta": [
+     "452K",
+     "1y ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 452000
+   },
+   {
+    "id": "sCJoAe9tJw4",
+    "title": "I tried Busting 4 Weird Electronics Myths!",
+    "meta": [
+     "200K",
+     "1y ago"
+    ],
+    "dur": "13:36",
+    "views_tab": 200000
+   },
+   {
+    "id": "Y6ZND7Ed70k",
+    "title": "Not a Microcontroller!...This is Better?! (PLC) EB#62",
+    "meta": [
+     "480K",
+     "1y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 480000
+   },
+   {
+    "id": "ocj9UobGSa4",
+    "title": "Your Cheap Projector has 1 BIG Problem?!",
+    "meta": [
+     "251K",
+     "1y ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 251000
+   },
+   {
+    "id": "kcmpGbR6xZc",
+    "title": "USB-C Just got Even Better! (PPS)",
+    "meta": [
+     "632K",
+     "1y ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 632000
+   },
+   {
+    "id": "bvLeIsqz1zc",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13)",
+    "meta": [
+     "888K",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 888000
+   },
+   {
+    "id": "7er194F4erE",
+    "title": "My Wind Generator Was Useless....Until NOW! (MPPT)",
+    "meta": [
+     "506K",
+     "1y ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 506000
+   },
+   {
+    "id": "6Ej2rrm9xfY",
+    "title": "Every Home needs this Upgrade! (Ceiling Speaker)",
+    "meta": [
+     "249K",
+     "1y ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 249000
+   },
+   {
+    "id": "niqtYxXy6KQ",
+    "title": "Forget WiFi AGAIN! This Wireless Method is WAY Better? (Zigbee)",
+    "meta": [
+     "440K",
+     "1y ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 440000
+   },
+   {
+    "id": "B8ss4KqcuXU",
+    "title": "The Coolest Speakers are TOO PRICEY? Let's Change that! (DIY or Buy)",
+    "meta": [
+     "603K",
+     "1y ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 603000
+   },
+   {
+    "id": "netFl8pcwP8",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 12)",
+    "meta": [
+     "713K",
+     "1y ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 713000
+   },
+   {
+    "id": "yOUz4l5Svyo",
+    "title": "I tried to Power my Home with Heat Generators! (Worth it?)",
+    "meta": [
+     "555K",
+     "1y ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 555000
+   },
+   {
+    "id": "ncu1Ep2Um2A",
+    "title": "The World's Simplest Audio Amp just got BETTER?! (MOSFET Amp) EB#61",
+    "meta": [
+     "309K",
+     "1y ago"
+    ],
+    "dur": "13:50",
+    "views_tab": 309000
+   },
+   {
+    "id": "Q-1jHNS1qwc",
+    "title": "Your Drill has 1 BIG Problem?! (That we can \"Hack\")",
+    "meta": [
+     "173K",
+     "1y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 173000
+   },
+   {
+    "id": "Dujx3L1Evw8",
+    "title": "Every Home needs this Upgrade! (Night-Time Stairs)",
+    "meta": [
+     "517K",
+     "2y ago"
+    ],
+    "dur": "13:03",
+    "views_tab": 517000
+   },
+   {
+    "id": "pSFExYlX_SU",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 11)",
+    "meta": [
+     "1.3M",
+     "2y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 1300000
+   },
+   {
+    "id": "2mNpYOYL7Ss",
+    "title": "Is This the NEW GOLDEN Standard for Communication? (I3C) EB#60",
+    "meta": [
+     "333K",
+     "2y ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 333000
+   },
+   {
+    "id": "AsQ8I53SKPc",
+    "title": "I tried the 3 Cheapest Arduino Alternatives! (That you Suggested)",
+    "meta": [
+     "420K",
+     "2y ago"
+    ],
+    "dur": "13:21",
+    "views_tab": 420000
+   },
+   {
+    "id": "oiB1Sm_f48w",
+    "title": "I tried to Power my Home with Wind Generators! (Worth it?)",
+    "meta": [
+     "1.8M",
+     "2y ago"
+    ],
+    "dur": "12:59",
+    "views_tab": 1800000
+   },
+   {
+    "id": "YgbrG_72a3A",
+    "title": "Are my Circuits ILLEGAL to use?! (EMC Testing)",
+    "meta": [
+     "346K",
+     "2y ago"
+    ],
+    "dur": "10:42",
+    "views_tab": 346000
+   },
+   {
+    "id": "BcUzuwP-WPI",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (SPECIAL Part 10)",
+    "meta": [
+     "1.1M",
+     "2y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 1100000
+   },
+   {
+    "id": "NUBv1RQaIX4",
+    "title": "I tried Future Technology! (that you can use TODAY)",
+    "meta": [
+     "302K",
+     "2y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 302000
+   },
+   {
+    "id": "5T2DXo7TNHQ",
+    "title": "Exposing the FAKEST Phone Jammer & Booster (I found on YouTube)!",
+    "meta": [
+     "164K",
+     "2y ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 164000
+   },
+   {
+    "id": "jriRW4rGQp4",
+    "title": "This Happens when all Buy Options Suck! Water Level Sensor (DIY or Buy)",
+    "meta": [
+     "379K",
+     "2y ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 379000
+   },
+   {
+    "id": "FntUPnPGfM8",
+    "title": "Every Home needs this Upgrade! (Control EVERYTHING)",
+    "meta": [
+     "1M",
+     "2y ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 1000000
+   },
+   {
+    "id": "gE_FuQuaKc0",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 9)",
+    "meta": [
+     "1.4M",
+     "2y ago"
+    ],
+    "dur": "15:00",
+    "views_tab": 1400000
+   },
+   {
+    "id": "sLW_r0OVyok",
+    "title": "Forget WiFi! This Wireless Method is WAY Better? (ESP-NOW)",
+    "meta": [
+     "1M",
+     "2y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 1000000
+   },
+   {
+    "id": "MzxBBXpgwrE",
+    "title": "This $0.70 Component SAVES your Circuit?! (Surge Protection) EB#59",
+    "meta": [
+     "328K",
+     "2y ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 328000
+   },
+   {
+    "id": "5TFPrBQNWok",
+    "title": "I tried to Revolutionize LED Lights!.....And FAILED?",
+    "meta": [
+     "248K",
+     "2y ago"
+    ],
+    "dur": "14:01",
+    "views_tab": 248000
+   },
+   {
+    "id": "s6zcI1GrkK4",
+    "title": "\"Salt\" Batteries are FINALLY Here?! Sooo should you use them?",
+    "meta": [
+     "701K",
+     "2y ago"
+    ],
+    "dur": "12:29",
+    "views_tab": 701000
+   },
+   {
+    "id": "9IFSPqSr6t8",
+    "title": "I tried the Cheapest Arduino Alternative (that Nobody heard of)",
+    "meta": [
+     "733K",
+     "2y ago"
+    ],
+    "dur": "13:31",
+    "views_tab": 733000
+   },
+   {
+    "id": "SG0eWf_Cbw0",
+    "title": "I tried finding Hidden Gems on AliExpress & got NASA Technology?! (Part 8)",
+    "meta": [
+     "1.1M",
+     "2y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 1100000
+   },
+   {
+    "id": "d3IH8zwUVYU",
+    "title": "This Component solves \"All\" Motor Problems?! (Motor Encoder) EB#58",
+    "meta": [
+     "678K",
+     "2y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 678000
+   },
+   {
+    "id": "XAcW4c5qIMc",
+    "title": "How TINY Can I go? The BEST Power Board is here!",
+    "meta": [
+     "328K",
+     "2y ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 328000
+   },
+   {
+    "id": "ty5JueA1wRc",
+    "title": "Your Powerbank has 1 BIG Problem! (That we can \"Hack\")",
+    "meta": [
+     "400K",
+     "2y ago"
+    ],
+    "dur": "12:13",
+    "views_tab": 400000
+   },
+   {
+    "id": "Eh6KNVfC4YE",
+    "title": "I am now a TikTok Star?! A Recap of 2023",
+    "meta": [
+     "47K",
+     "2y ago"
+    ],
+    "dur": "28:46",
+    "views_tab": 47000
+   },
+   {
+    "id": "KV8U1cCo7UA",
+    "title": "I tried OVERPOWERING my WiFi!",
+    "meta": [
+     "272K",
+     "2y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 272000
+   },
+   {
+    "id": "yj3DhasbTfE",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 7)",
+    "meta": [
+     "873K",
+     "2y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 873000
+   },
+   {
+    "id": "cNPIL7rhKUw",
+    "title": "Ground is MORE IMPORTANT than you think! EB#57",
+    "meta": [
+     "289K",
+     "2y ago"
+    ],
+    "dur": "10:45",
+    "views_tab": 289000
+   },
+   {
+    "id": "f-mWmhh7i0U",
+    "title": "The Best Battery Enclosure looks like this?! (Self-Heating)",
+    "meta": [
+     "179K",
+     "2y ago"
+    ],
+    "dur": "10:58",
+    "views_tab": 179000
+   },
+   {
+    "id": "TpnBQ9bW4K8",
+    "title": "I tried 4 Future Tech Boards! (That can do Awesome Things)",
+    "meta": [
+     "314K",
+     "2y ago"
+    ],
+    "dur": "14:39",
+    "views_tab": 314000
+   },
+   {
+    "id": "FtztBE1Zwu8",
+    "title": "Your Door NEEDS this Upgrade! DIY $40 Fingerprint Lock!",
+    "meta": [
+     "255K",
+     "3y ago"
+    ],
+    "dur": "10:28",
+    "views_tab": 255000
+   },
+   {
+    "id": "eIUuXEZtcsw",
+    "title": "These 3 Cent Components are actually USEFUL?! (Color Ring Inductor) EB#56",
+    "meta": [
+     "316K",
+     "3y ago"
+    ],
+    "dur": "10:53",
+    "views_tab": 316000
+   },
+   {
+    "id": "IhnJra0XD4E",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 6)",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 1000000
+   },
+   {
+    "id": "KEru5cODA-M",
+    "title": "Pushing a \"legal\" Mini Solar System to its LIMIT!",
+    "meta": [
+     "299K",
+     "3y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 299000
+   },
+   {
+    "id": "4wAqO5RtuPo",
+    "title": "German Creates the PERFECT Workshop/Lab?!.....And So Can You!",
+    "meta": [
+     "257K",
+     "3y ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 257000
+   },
+   {
+    "id": "iMn2yVoEqPs",
+    "title": "Don't Fast Charge your Phone before Watching this Video!",
+    "meta": [
+     "587K",
+     "3y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 587000
+   },
+   {
+    "id": "3gmxv7AgOMw",
+    "title": "Finally a Capacitor that can REPLACE a Battery?!",
+    "meta": [
+     "519K",
+     "3y ago"
+    ],
+    "dur": "10:55",
+    "views_tab": 519000
+   },
+   {
+    "id": "czz16DFYbxI",
+    "title": "My Last Chance to OVERPOWER my Vacuum! (Homemade Turbine V2)",
+    "meta": [
+     "538K",
+     "3y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 538000
+   },
+   {
+    "id": "SbIISdLQQKo",
+    "title": "The Most Underrated Tool? (DIY or Buy) Ultrasonic Cleaner!",
+    "meta": [
+     "761K",
+     "3y ago"
+    ],
+    "dur": "12:23",
+    "views_tab": 761000
+   },
+   {
+    "id": "8hKpQvw1nNw",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 5)",
+    "meta": [
+     "1.3M",
+     "3y ago"
+    ],
+    "dur": "14:11",
+    "views_tab": 1300000
+   },
+   {
+    "id": "YNqGA-U0_MA",
+    "title": "I tried OVERPOWERING my Vacuum! (Homemade Turbine)",
+    "meta": [
+     "2.1M",
+     "3y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 2100000
+   },
+   {
+    "id": "6bicunweBAQ",
+    "title": "With Just $0.50 Components I turned Garbage Products into GOLD!",
+    "meta": [
+     "734K",
+     "3y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 734000
+   },
+   {
+    "id": "OWEU1eR3Tyw",
+    "title": "Using the 4G Network to Save my Friends Treasures!",
+    "meta": [
+     "374K",
+     "3y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 374000
+   },
+   {
+    "id": "yUMbE_TQrQs",
+    "title": "Exposing the FAKEST Project....and making it REAL?!",
+    "meta": [
+     "1.1M",
+     "3y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 1100000
+   },
+   {
+    "id": "NjNOGm3sCOQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 4)",
+    "meta": [
+     "906K",
+     "3y ago"
+    ],
+    "dur": "13:23",
+    "views_tab": 906000
+   },
+   {
+    "id": "U5cqrrhq9TA",
+    "title": "The Most Important Circuit for our Electrical Future?! (PFC) EB#55",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "11:26",
+    "views_tab": 1000000
+   },
+   {
+    "id": "2SWj49ugr3A",
+    "title": "Hacking my Robot Vacuum to add ONE MISSING Feature!",
+    "meta": [
+     "279K",
+     "3y ago"
+    ],
+    "dur": "11:16",
+    "views_tab": 279000
+   },
+   {
+    "id": "gm_3yxdFfd8",
+    "title": "I followed a YouTube \"Battery Hack\" and Wasted 30 Days! (Desulfator)",
+    "meta": [
+     "337K",
+     "3y ago"
+    ],
+    "dur": "11:21",
+    "views_tab": 337000
+   },
+   {
+    "id": "sF0KOVWj9p8",
+    "title": "The Best Protection for your Circuit is NOT a Fuse!.....but a Resettable Fuse? EB#54",
+    "meta": [
+     "1.1M",
+     "3y ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 1100000
+   },
+   {
+    "id": "1dKLF2Ma8nQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN AGAIN!",
+    "meta": [
+     "1.1M",
+     "3y ago"
+    ],
+    "dur": "13:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "mbLQPuLR0Rs",
+    "title": "I Spent 20\u20ac at a Flea Market and made Something AMAZING! (Internet Radio)",
+    "meta": [
+     "215K",
+     "3y ago"
+    ],
+    "dur": "12:19",
+    "views_tab": 215000
+   },
+   {
+    "id": "JPZVLmU0MYI",
+    "title": "\"A Machine PERFECT for Making PCBs at Home\" Is what they said!",
+    "meta": [
+     "581K",
+     "3y ago"
+    ],
+    "dur": "12:29",
+    "views_tab": 581000
+   },
+   {
+    "id": "OwOPIj7qX88",
+    "title": "Clickbait Really is Unreasonably Effective! A Recap of 2022",
+    "meta": [
+     "95K",
+     "3y ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 95000
+   },
+   {
+    "id": "suOimZ4gmQg",
+    "title": "A Viewer Remade my Old Project! So is it any Good?",
+    "meta": [
+     "287K",
+     "3y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 287000
+   },
+   {
+    "id": "7sGN0-YsiYw",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN!",
+    "meta": [
+     "1.6M",
+     "3y ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 1600000
+   },
+   {
+    "id": "wsJONukJlLI",
+    "title": "Germans do the PERFECT Electrical Wiring! (Garage Build)",
+    "meta": [
+     "537K",
+     "3y ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 537000
+   },
+   {
+    "id": "vKJWwBXRPuI",
+    "title": "Your USB-C Cable probably SUCKS! Sooo is that Bad?",
+    "meta": [
+     "789K",
+     "3y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 789000
+   },
+   {
+    "id": "_WI9Nwqvplo",
+    "title": "My Power Bank Rivals Commercial Ones?! Super Fast! (DIY or Buy)",
+    "meta": [
+     "866K",
+     "3y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 866000
+   },
+   {
+    "id": "7f8SliNGeDM",
+    "title": "I \"Solved\" Samsungs Swelling Battery Problem! (Batteryless Phone)",
+    "meta": [
+     "557K",
+     "3y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 557000
+   },
+   {
+    "id": "nIB3kWqqAzE",
+    "title": "The Dark Secret of Smart Sockets and How I Fixed it! (DIY or Buy)",
+    "meta": [
+     "359K",
+     "4y ago"
+    ],
+    "dur": "12:10",
+    "views_tab": 359000
+   },
+   {
+    "id": "fUdlfc1nJcY",
+    "title": "I tried finding Hidden Gems on Aliexpress!",
+    "meta": [
+     "2M",
+     "4y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 2000000
+   },
+   {
+    "id": "DeSDjjicGWY",
+    "title": "The Idiot's Guide to Making a DIY Drone! (I am the Idiot)",
+    "meta": [
+     "611K",
+     "4y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 611000
+   },
+   {
+    "id": "SykfLBLP3xI",
+    "title": "I followed a YouTube Electronics Video and Regret it! (Debunking a 500k video)",
+    "meta": [
+     "1M",
+     "4y ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 1000000
+   },
+   {
+    "id": "BNK92ep8DhY",
+    "title": "Every Shower needs this Upgrade! (Online Water Tracker)",
+    "meta": [
+     "290K",
+     "4y ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 290000
+   },
+   {
+    "id": "LyztbYNB0Eg",
+    "title": "I tried Wireless Video but ended up building a WiFi Jammer (A Fail Story)",
+    "meta": [
+     "364K",
+     "4y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 364000
+   },
+   {
+    "id": "F0o1C7nEgw0",
+    "title": "The Raspberry Pi Pico WAS Overrated! But that changed!",
+    "meta": [
+     "692K",
+     "4y ago"
+    ],
+    "dur": "10:18",
+    "views_tab": 692000
+   },
+   {
+    "id": "y1ROEogHF7A",
+    "title": "Mechanical  Switches are Obsolete?! Switch to a Latch Circuit! EB#53",
+    "meta": [
+     "794K",
+     "4y ago"
+    ],
+    "dur": "10:36",
+    "views_tab": 794000
+   },
+   {
+    "id": "VApJ_oaZAk0",
+    "title": "Is it Time to Replace your Batteries? Here is how you can find out!",
+    "meta": [
+     "206K",
+     "4y ago"
+    ],
+    "dur": "11:21",
+    "views_tab": 206000
+   },
+   {
+    "id": "XOcA7ijtlCY",
+    "title": "The Most Versatile Voltage Converter you never heard of! The (S)EPIC Converter",
+    "meta": [
+     "385K",
+     "4y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 385000
+   },
+   {
+    "id": "ZrkAWSemDC8",
+    "title": "Every Apartment needs this Upgrade! (WhatsApp/Telegram Notifications)",
+    "meta": [
+     "1.7M",
+     "4y ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 1700000
+   },
+   {
+    "id": "W_hIVtcx6CA",
+    "title": "Your Components are probably FAKE! Soooo is that BAD?",
+    "meta": [
+     "700K",
+     "4y ago"
+    ],
+    "dur": "9:32",
+    "views_tab": 700000
+   },
+   {
+    "id": "KKK-gFkBHbE",
+    "title": "Should we use Treadmills to Generate Electricity? (Experiment)",
+    "meta": [
+     "193K",
+     "4y ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 193000
+   },
+   {
+    "id": "S0j4xOuRzD4",
+    "title": "The End of the Full Bridge Rectifier? (Sorry ElectroBOOM) Active Rectifier is here!",
+    "meta": [
+     "1.9M",
+     "4y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 1900000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "fQXBNkaB1tU",
+    "title": "HACKED!: Microwave Transformer becomes a High Current Transformer",
+    "meta": [
+     "7.1M",
+     "10y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 7100000
+   },
+   {
+    "id": "g4tO0kBOzqk",
+    "title": "Free Energy BS! || Magnet PC Fan, Bedini Motor",
+    "meta": [
+     "5.9M",
+     "9y ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 5900000
+   },
+   {
+    "id": "tp_VI6ujKHE",
+    "title": "Using a car alternator with a bike to power my home? How much energy can I produce?!",
+    "meta": [
+     "5.7M",
+     "5y ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 5700000
+   },
+   {
+    "id": "NrQWxc4nv7E",
+    "title": "Make your own Boombox",
+    "meta": [
+     "5.3M",
+     "10y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 5300000
+   },
+   {
+    "id": "AwcQsbgy7AY",
+    "title": "HACKED!: Laser Diode from DVD Burner || Constant Current Source",
+    "meta": [
+     "3.9M",
+     "11y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 3900000
+   },
+   {
+    "id": "osfgkFyq7lA",
+    "title": "How dangerous are LiPo batteries? || Overcharge, Overdischarge, Short Circuit",
+    "meta": [
+     "3.8M",
+     "10y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 3800000
+   },
+   {
+    "id": "_v5Hg2zfLjs",
+    "title": "How does Induction Heating Work? || DIY Induction Heater Circuit",
+    "meta": [
+     "3.6M",
+     "9y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 3600000
+   },
+   {
+    "id": "Nb78wF1Tkwc",
+    "title": "What is worth desoldering from old electronics? || DIY Fume Extractor",
+    "meta": [
+     "3.2M",
+     "11y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 3200000
+   },
+   {
+    "id": "VxMV6wGS3NY",
+    "title": "How to Solder properly || Through-hole (THT) & Surface-mount (SMD)",
+    "meta": [
+     "3M",
+     "9y ago"
+    ],
+    "dur": "11:08",
+    "views_tab": 3000000
+   },
+   {
+    "id": "oGTXczCV30A",
+    "title": "Make your own Low Budget Bluetooth Music System || OpAmp",
+    "meta": [
+     "2.9M",
+     "11y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 2900000
+   },
+   {
+    "id": "6_3gK83bePQ",
+    "title": "100W Solar panel || DIY or Buy",
+    "meta": [
+     "2.6M",
+     "8y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 2600000
+   },
+   {
+    "id": "_6QIutZfsFs",
+    "title": "DIY Solar Tracker || How much solar energy can it save?",
+    "meta": [
+     "2.4M",
+     "8y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 2400000
+   },
+   {
+    "id": "bkqoKWP4Oy4",
+    "title": "Electronic Basics #24: Stepper Motors and how to use them",
+    "meta": [
+     "2.3M",
+     "10y ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 2300000
+   },
+   {
+    "id": "6SOXMDb4cjI",
+    "title": "How to reuse the old LCD Screen of your broken Laptop",
+    "meta": [
+     "2.3M",
+     "12y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 2300000
+   },
+   {
+    "id": "b2sBhDxmPmA",
+    "title": "EBike Battery Pack || DIY or Buy || Electric Bike Conversion (Part 2)",
+    "meta": [
+     "2.2M",
+     "8y ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 2200000
+   },
+   {
+    "id": "wI-KYRdmx-E",
+    "title": "Build your own Variable Lab Bench Power Supply",
+    "meta": [
+     "2.2M",
+     "11y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 2200000
+   },
+   {
+    "id": "zgjo36-jaFY",
+    "title": "What Wire Connector is the Best? Settling a Debate! Wire Nut VS Wago",
+    "meta": [
+     "2.1M",
+     "4y ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 2100000
+   },
+   {
+    "id": "YNqGA-U0_MA",
+    "title": "I tried OVERPOWERING my Vacuum! (Homemade Turbine)",
+    "meta": [
+     "2.1M",
+     "3y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 2100000
+   },
+   {
+    "id": "jq7cqmDtZDc",
+    "title": "Supercapacitor Joule Thief",
+    "meta": [
+     "2.1M",
+     "10y ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 2100000
+   },
+   {
+    "id": "fUdlfc1nJcY",
+    "title": "I tried finding Hidden Gems on Aliexpress!",
+    "meta": [
+     "2M",
+     "4y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 2000000
+   },
+   {
+    "id": "35YuILUlfGs",
+    "title": "From Idea to Schematic to PCB - How to do it easily!",
+    "meta": [
+     "1.9M",
+     "8y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 1900000
+   },
+   {
+    "id": "PMU9TQUDhow",
+    "title": "Make your own Coilgun",
+    "meta": [
+     "1.9M",
+     "10y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 1900000
+   },
+   {
+    "id": "S0j4xOuRzD4",
+    "title": "The End of the Full Bridge Rectifier? (Sorry ElectroBOOM) Active Rectifier is here!",
+    "meta": [
+     "1.9M",
+     "4y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 1900000
+   },
+   {
+    "id": "Bw2p-Dmn48U",
+    "title": "Stay warm this winter: CPU Hand Warmer",
+    "meta": [
+     "1.8M",
+     "11y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 1800000
+   },
+   {
+    "id": "W9IHEqlGG1s",
+    "title": "Make your own ESC || BLDC Motor Driver (Part 1)",
+    "meta": [
+     "1.8M",
+     "9y ago"
+    ],
+    "dur": "9:52",
+    "views_tab": 1800000
+   },
+   {
+    "id": "oiB1Sm_f48w",
+    "title": "I tried to Power my Home with Wind Generators! (Worth it?)",
+    "meta": [
+     "1.8M",
+     "2y ago"
+    ],
+    "dur": "12:59",
+    "views_tab": 1800000
+   },
+   {
+    "id": "_MtN_s4tVK0",
+    "title": "DIY Raspberry Pi Zero Handheld Game Console (Part 1)",
+    "meta": [
+     "1.8M",
+     "10y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 1800000
+   },
+   {
+    "id": "ZAqNKaX3LQ0",
+    "title": "How to add WiFi Control to any project || ESP32 Beginner's Guide",
+    "meta": [
+     "1.8M",
+     "9y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 1800000
+   },
+   {
+    "id": "h8ycmroFQSs",
+    "title": "How to Waterproof Electronics || Nail Polish, Silicone, Potting Compound",
+    "meta": [
+     "1.8M",
+     "8y ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 1800000
+   },
+   {
+    "id": "ZrkAWSemDC8",
+    "title": "Every Apartment needs this Upgrade! (WhatsApp/Telegram Notifications)",
+    "meta": [
+     "1.7M",
+     "4y ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 1700000
+   },
+   {
+    "id": "9QZkCQSHnko",
+    "title": "5$ Arduino WiFi Module!? ESP8266 mini Tutorial/Review",
+    "meta": [
+     "1.7M",
+     "11y ago"
+    ],
+    "dur": "5:41",
+    "views_tab": 1700000
+   },
+   {
+    "id": "rT-1gvkFj60",
+    "title": "BMS (Battery Management System) || DIY or Buy || Properly protecting Li-Ion/Li-Po Battery Packs",
+    "meta": [
+     "1.7M",
+     "7y ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 1700000
+   },
+   {
+    "id": "8u4izLA-SCo",
+    "title": "You can now PRINT PCBs! Creating a homemade PCB with the Voltera V-One PCB Printer!",
+    "meta": [
+     "1.7M",
+     "5y ago"
+    ],
+    "dur": "12:23",
+    "views_tab": 1700000
+   },
+   {
+    "id": "bhWTfATkg6w",
+    "title": "DIY Raspberry Pi Zero Handheld Game Console (Part 2)",
+    "meta": [
+     "1.6M",
+     "9y ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 1600000
+   },
+   {
+    "id": "Ze2fC6w9r7M",
+    "title": "DIY Portable Mini Monitor - Part 1",
+    "meta": [
+     "1.6M",
+     "11y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 1600000
+   },
+   {
+    "id": "7sGN0-YsiYw",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN!",
+    "meta": [
+     "1.6M",
+     "3y ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 1600000
+   },
+   {
+    "id": "kJXRyWQgOY4",
+    "title": "Testing LCBs (Lithium Ceramic Batteries) || The Future of Battery Technology?",
+    "meta": [
+     "1.6M",
+     "8y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 1600000
+   },
+   {
+    "id": "KXRmdDAWHMg",
+    "title": "Chinese Power Saver - Does it actually save power?",
+    "meta": [
+     "1.6M",
+     "10y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 1600000
+   },
+   {
+    "id": "CeStrH-5Llo",
+    "title": "Make your own GPS SMS Security Tracking System",
+    "meta": [
+     "1.5M",
+     "9y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 1500000
+   },
+   {
+    "id": "OwAZqJ4wpJg",
+    "title": "Here is why USB Type-C is AWESOME and how you can use Power Delivery for your electronics!",
+    "meta": [
+     "1.5M",
+     "6y ago"
+    ],
+    "dur": "9:29",
+    "views_tab": 1500000
+   },
+   {
+    "id": "86kVe5lm7xE",
+    "title": "Make your own Simple & Cheap Portable Bluetooth Speaker",
+    "meta": [
+     "1.5M",
+     "9y ago"
+    ],
+    "dur": "7:13",
+    "views_tab": 1500000
+   },
+   {
+    "id": "tjCJ3MlFt7g",
+    "title": "HACKED!: Using an HDD Motor as a Rotary Encoder?!",
+    "meta": [
+     "1.5M",
+     "8y ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 1500000
+   },
+   {
+    "id": "rXuWnwSYC5Y",
+    "title": "RFID Locks are way too easy to \"Hack\"! Let me show you!",
+    "meta": [
+     "1.4M",
+     "4y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 1400000
+   },
+   {
+    "id": "hwhqn4BmC2I",
+    "title": "Make your own Li-Ion Battery Pack",
+    "meta": [
+     "1.4M",
+     "9y ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 1400000
+   },
+   {
+    "id": "UvH49nzpJts",
+    "title": "DIY Soldering Station",
+    "meta": [
+     "1.4M",
+     "9y ago"
+    ],
+    "dur": "9:45",
+    "views_tab": 1400000
+   },
+   {
+    "id": "ZQjazsiyr8s",
+    "title": "DIY Laptop PowerBank (battery pack to charge your laptop on the go)",
+    "meta": [
+     "1.4M",
+     "7y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 1400000
+   },
+   {
+    "id": "gE_FuQuaKc0",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 9)",
+    "meta": [
+     "1.4M",
+     "2y ago"
+    ],
+    "dur": "15:00",
+    "views_tab": 1400000
+   },
+   {
+    "id": "RxRJW09A_XA",
+    "title": "Electronic Basics #28: IGBT and when to use them",
+    "meta": [
+     "1.4M",
+     "9y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1400000
+   },
+   {
+    "id": "lWFiKMSB_4M",
+    "title": "Electronic Basics #33: Strain Gauge/Load Cell and how to use them to measure weight",
+    "meta": [
+     "1.4M",
+     "8y ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 1400000
+   },
+   {
+    "id": "pSFExYlX_SU",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 11)",
+    "meta": [
+     "1.3M",
+     "2y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 1300000
+   },
+   {
+    "id": "kdrP9WbJIb8",
+    "title": "Electronic Basics #12: Coils / Inductors (Part 1)",
+    "meta": [
+     "1.3M",
+     "11y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 1300000
+   },
+   {
+    "id": "dYnplx_DVHs",
+    "title": "What is worth salvaging from an old smartphone?",
+    "meta": [
+     "1.3M",
+     "7y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 1300000
+   },
+   {
+    "id": "2UtL2uAYCUA",
+    "title": "Solid State Relay || DIY or Buy",
+    "meta": [
+     "1.3M",
+     "8y ago"
+    ],
+    "dur": "10:21",
+    "views_tab": 1300000
+   },
+   {
+    "id": "8hKpQvw1nNw",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 5)",
+    "meta": [
+     "1.3M",
+     "3y ago"
+    ],
+    "dur": "14:11",
+    "views_tab": 1300000
+   },
+   {
+    "id": "57carjNxI9A",
+    "title": "HACKED!: Old Fan becomes a POV Display",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 1300000
+   },
+   {
+    "id": "RqyhvlMKt14",
+    "title": "Make your own FM Radio - Part 1",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 1300000
+   },
+   {
+    "id": "KajdWOlCt0s",
+    "title": "Microscopes for SMD Soldering || $15 VS $45 VS $189",
+    "meta": [
+     "1.2M",
+     "8y ago"
+    ],
+    "dur": "8:24",
+    "views_tab": 1200000
+   },
+   {
+    "id": "LbTyEratSTI",
+    "title": "Make your own Tesla Coil (Part 1) || Slayer Exciter Circuit",
+    "meta": [
+     "1.2M",
+     "9y ago"
+    ],
+    "dur": "10:12",
+    "views_tab": 1200000
+   },
+   {
+    "id": "h_F3J4vyzNk",
+    "title": "Build your own Crude FM Radio || FM,AM Tutorial",
+    "meta": [
+     "1.2M",
+     "10y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 1200000
+   },
+   {
+    "id": "3dQjIeYoIdM",
+    "title": "DIY Class D Audio Amplifier",
+    "meta": [
+     "1.2M",
+     "9y ago"
+    ],
+    "dur": "7:59",
+    "views_tab": 1200000
+   },
+   {
+    "id": "aKhPj7uFD0Y",
+    "title": "Ultrasonic Mist Maker || DIY or Buy",
+    "meta": [
+     "1.2M",
+     "9y ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 1200000
+   },
+   {
+    "id": "x19kwG-wJRI",
+    "title": "DIY Oscilloscope Kit (20$) VS Regular DS Oscilloscope (400$)",
+    "meta": [
+     "1.2M",
+     "10y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 1200000
+   },
+   {
+    "id": "AdNVg1MWc8c",
+    "title": "Is 3D Printing a motor possible? (Experiment)",
+    "meta": [
+     "1.2M",
+     "7y ago"
+    ],
+    "dur": "10:21",
+    "views_tab": 1200000
+   },
+   {
+    "id": "SVLGHB2IxxU",
+    "title": "How to make a Softstarter and why it is sometimes mandatory to use!",
+    "meta": [
+     "1.2M",
+     "7y ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 1200000
+   },
+   {
+    "id": "cJ_vDA7xsGs",
+    "title": "Which Motor Type is the Best Generator? || DC, BLDC or Stepper? (Experiment)",
+    "meta": [
+     "1.2M",
+     "8y ago"
+    ],
+    "dur": "9:57",
+    "views_tab": 1200000
+   },
+   {
+    "id": "pxNLTRl36HQ",
+    "title": "Power Bank: 22400mAh VS Solar 50000mAh",
+    "meta": [
+     "1.2M",
+     "11y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1200000
+   },
+   {
+    "id": "kEttqWJrdww",
+    "title": "Solar Battery Charger (LiPo/Li-Ion) || DIY or Buy",
+    "meta": [
+     "1.2M",
+     "7y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 1200000
+   },
+   {
+    "id": "UjG2QGOC4aA",
+    "title": "HACKED!: Old laptop battery becomes a Power bank",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 1100000
+   },
+   {
+    "id": "BtLwoNJ6klE",
+    "title": "Arduino Basics 101: Hardware Overview, Fundamental Code Commands",
+    "meta": [
+     "1.1M",
+     "9y ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 1100000
+   },
+   {
+    "id": "wyKStRyez5Y",
+    "title": "Launchpad || DIY or Buy || Keyboard Matrix & MIDI Tutorial",
+    "meta": [
+     "1.1M",
+     "7y ago"
+    ],
+    "dur": "12:43",
+    "views_tab": 1100000
+   },
+   {
+    "id": "BcUzuwP-WPI",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (SPECIAL Part 10)",
+    "meta": [
+     "1.1M",
+     "2y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 1100000
+   },
+   {
+    "id": "yUMbE_TQrQs",
+    "title": "Exposing the FAKEST Project....and making it REAL?!",
+    "meta": [
+     "1.1M",
+     "3y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 1100000
+   },
+   {
+    "id": "UteZJ_7C4Mg",
+    "title": "Electronic Basics #18: DC & Brushless DC Motor + ESC",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "6:44",
+    "views_tab": 1100000
+   },
+   {
+    "id": "9-p22NllgPk",
+    "title": "Make your own Crude Projector",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "5TVNdMqVZpk",
+    "title": "Battery Spot Welder (CD Welder) || DIY or Buy",
+    "meta": [
+     "1.1M",
+     "8y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 1100000
+   },
+   {
+    "id": "D_QBlFIQk-o",
+    "title": "Make your own 10x10 LED Matrix",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 1100000
+   },
+   {
+    "id": "kqCV-HGJc6A",
+    "title": "Electronic Basics #21: OpAmp (Operational Amplifier)",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "SG0eWf_Cbw0",
+    "title": "I tried finding Hidden Gems on AliExpress & got NASA Technology?! (Part 8)",
+    "meta": [
+     "1.1M",
+     "2y ago"
+    ],
+    "dur": "14:41",
+    "views_tab": 1100000
+   },
+   {
+    "id": "sF0KOVWj9p8",
+    "title": "The Best Protection for your Circuit is NOT a Fuse!.....but a Resettable Fuse? EB#54",
+    "meta": [
+     "1.1M",
+     "3y ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 1100000
+   },
+   {
+    "id": "EaZuKRSvwdo",
+    "title": "Easy & Powerful Arduino Alternative? STM32 Beginner's Guide",
+    "meta": [
+     "1.1M",
+     "8y ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 1100000
+   },
+   {
+    "id": "SIo_Gv7K7Fo",
+    "title": "How to create a simple Touchscreen GUI || Arduino LCD & Touchscreen Tutorial",
+    "meta": [
+     "1.1M",
+     "8y ago"
+    ],
+    "dur": "10:47",
+    "views_tab": 1100000
+   },
+   {
+    "id": "o4_NeqlJgOs",
+    "title": "Electronic Basics #23: Transistor (MOSFET) as a Switch",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 1100000
+   },
+   {
+    "id": "1dKLF2Ma8nQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN AGAIN!",
+    "meta": [
+     "1.1M",
+     "3y ago"
+    ],
+    "dur": "13:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "Dn2PFebi2ww",
+    "title": "Does it suck? Chinese DIY Pure Sine Wave Inverter || Sinusoidal PWM (SPWM) Tutorial",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 1000000
+   },
+   {
+    "id": "ObgmVNV1Kfg",
+    "title": "Make your own Retro Nixie Clock with an RTC!",
+    "meta": [
+     "1M",
+     "6y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 1000000
+   },
+   {
+    "id": "rZq2v7two1s",
+    "title": "Make your own LED Battery Level Indicator",
+    "meta": [
+     "1M",
+     "8y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 1000000
+   },
+   {
+    "id": "pGLUsQozT94",
+    "title": "Electronics & Water? What could possibly go wrong?",
+    "meta": [
+     "1M",
+     "8y ago"
+    ],
+    "dur": "8:29",
+    "views_tab": 1000000
+   },
+   {
+    "id": "oeNAhP-GIjo",
+    "title": "HACKED!: ATX Power Supply with Variable Output Voltage?",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 1000000
+   },
+   {
+    "id": "IhnJra0XD4E",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 6)",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 1000000
+   },
+   {
+    "id": "lrugreN2K4w",
+    "title": "Make your own Power Meter/Logger",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 1000000
+   },
+   {
+    "id": "SykfLBLP3xI",
+    "title": "I followed a YouTube Electronics Video and Regret it! (Debunking a 500k video)",
+    "meta": [
+     "1M",
+     "4y ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 1000000
+   },
+   {
+    "id": "SK0p1PFiXI4",
+    "title": "HACKED!: CCFL Inverter becomes an Arc Lighter?",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 1000000
+   },
+   {
+    "id": "8swJ_Bnsgl4",
+    "title": "Here is why MOSFET drivers are sometimes essential! || MOSFET Driver Part 1 (Driver, Bootstrapping)",
+    "meta": [
+     "1M",
+     "5y ago"
+    ],
+    "dur": "13:52",
+    "views_tab": 1000000
+   },
+   {
+    "id": "FntUPnPGfM8",
+    "title": "Every Home needs this Upgrade! (Control EVERYTHING)",
+    "meta": [
+     "1M",
+     "2y ago"
+    ],
+    "dur": "11:14",
+    "views_tab": 1000000
+   },
+   {
+    "id": "U5cqrrhq9TA",
+    "title": "The Most Important Circuit for our Electrical Future?! (PFC) EB#55",
+    "meta": [
+     "1M",
+     "3y ago"
+    ],
+    "dur": "11:26",
+    "views_tab": 1000000
+   },
+   {
+    "id": "QarizoUnRfk",
+    "title": "The Best way to Solder? Hot Plate to the rescue! (DIY or Buy)",
+    "meta": [
+     "1M",
+     "4y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1000000
+   },
+   {
+    "id": "m8rK9gU30v4",
+    "title": "DIY Buck Converter || How to step down DC voltage efficiently",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 1000000
+   },
+   {
+    "id": "1Kp_yWY2tdU",
+    "title": "DIY Cooler (Part 1) || Peltier Module",
+    "meta": [
+     "1M",
+     "11y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 1000000
+   },
+   {
+    "id": "sLW_r0OVyok",
+    "title": "Forget WiFi! This Wireless Method is WAY Better? (ESP-NOW)",
+    "meta": [
+     "1M",
+     "2y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 1000000
+   },
+   {
+    "id": "mzPb9QLJu8k",
+    "title": "How safe is contactless payment? || How does RFID & NFC work? || EB#40",
+    "meta": [
+     "1M",
+     "7y ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 1000000
+   },
+   {
+    "id": "eYVOdlK15Og",
+    "title": "Electronic Basics #17: Oscillators || RC, LC, Crystal",
+    "meta": [
+     "992K",
+     "10y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 992000
+   },
+   {
+    "id": "J8atdmEqZsc",
+    "title": "Electronic Basics #25: Servos and how to use them",
+    "meta": [
+     "989K",
+     "10y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 989000
+   },
+   {
+    "id": "cmRGhoF_ZEM",
+    "title": "The Most Important Motor for our Electrical Future?! (PMSM) EB#63",
+    "meta": [
+     "976K",
+     "1y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 976000
+   },
+   {
+    "id": "ewkj875qUmk",
+    "title": "Make your own \"Powerwall\" (Big LiFePO4 Battery Pack!)",
+    "meta": [
+     "957K",
+     "7y ago"
+    ],
+    "dur": "10:53",
+    "views_tab": 957000
+   },
+   {
+    "id": "fLaexx-NMj8",
+    "title": "Electronic Basics #26: 555 Timer IC",
+    "meta": [
+     "957K",
+     "9y ago"
+    ],
+    "dur": "7:30",
+    "views_tab": 957000
+   },
+   {
+    "id": "ts-JqEVzvDo",
+    "title": "Voice-over Microphone || DIY or Buy",
+    "meta": [
+     "917K",
+     "8y ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 917000
+   },
+   {
+    "id": "oaMJR1gpKD0",
+    "title": "HACKED!: Portable DVD Player",
+    "meta": [
+     "911K",
+     "12y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 911000
+   },
+   {
+    "id": "fOacM-syXGI",
+    "title": "Exposing a FAKE Thermoelectric Generator and building a REAL one!",
+    "meta": [
+     "908K",
+     "6y ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 908000
+   },
+   {
+    "id": "7Tk5ghH_U2s",
+    "title": "What is the best Reverse Voltage Protection Circuit? || Repairing a Lab Bench Power Supply",
+    "meta": [
+     "906K",
+     "8y ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 906000
+   },
+   {
+    "id": "NjNOGm3sCOQ",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 4)",
+    "meta": [
+     "906K",
+     "3y ago"
+    ],
+    "dur": "13:23",
+    "views_tab": 906000
+   },
+   {
+    "id": "AMiXme4bMUk",
+    "title": "Peristaltic Pump || DIY or Buy",
+    "meta": [
+     "900K",
+     "8y ago"
+    ],
+    "dur": "8:25",
+    "views_tab": 900000
+   },
+   {
+    "id": "STwYJr3AHRU",
+    "title": "HACKED!: Powerbank gets a Fast Charge Feature",
+    "meta": [
+     "897K",
+     "8y ago"
+    ],
+    "dur": "7:39",
+    "views_tab": 897000
+   },
+   {
+    "id": "XlON0Uj2Zk0",
+    "title": "New Supercapacitors will replace Batteries? Stress Testing LICs (Lithium-Ion Capacitors)",
+    "meta": [
+     "894K",
+     "4y ago"
+    ],
+    "dur": "9:23",
+    "views_tab": 894000
+   },
+   {
+    "id": "bvLeIsqz1zc",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 13)",
+    "meta": [
+     "888K",
+     "1y ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 888000
+   },
+   {
+    "id": "yj3DhasbTfE",
+    "title": "I tried finding Hidden Gems on AliExpress AGAIN! (Part 7)",
+    "meta": [
+     "873K",
+     "2y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 873000
+   },
+   {
+    "id": "_WI9Nwqvplo",
+    "title": "My Power Bank Rivals Commercial Ones?! Super Fast! (DIY or Buy)",
+    "meta": [
+     "866K",
+     "3y ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 866000
+   },
+   {
+    "id": "otQGdPLyF3w",
+    "title": "Electronic Basics #14: Capacitors",
+    "meta": [
+     "860K",
+     "11y ago"
+    ],
+    "dur": "6:44",
+    "views_tab": 860000
+   },
+   {
+    "id": "ZQ62gajj54Y",
+    "title": "I Found the Secret to Long Range WiFi!",
+    "meta": [
+     "849K",
+     "1mo ago"
+    ],
+    "dur": "11:40",
+    "views_tab": 849000
+   },
+   {
+    "id": "938dTRrwrYc",
+    "title": "Mini Wind Turbine || DIY or Buy",
+    "meta": [
+     "847K",
+     "6y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 847000
+   },
+   {
+    "id": "QnUhjnbZ0T8",
+    "title": "DIY Boost Converter || How to step up DC voltage efficiently",
+    "meta": [
+     "845K",
+     "10y ago"
+    ],
+    "dur": "5:41",
+    "views_tab": 845000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "InrQvtUuS2w",
+    "title": "How to build your own LED Color Organ || Arduino || MSGEQ7",
+    "meta": [
+     "209K",
+     "13y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 209000
+   },
+   {
+    "id": "zjvZVBa6UX0",
+    "title": "Charge your phone with a car battery (6V-24V) || Voltage regulator",
+    "meta": [
+     "324K",
+     "13y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 324000
+   },
+   {
+    "id": "OJt5Y_0y2Qo",
+    "title": "Horrifying electronic Jack-o'-lantern || Arduino || Distance Sensor",
+    "meta": [
+     "21K",
+     "12y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 21000
+   },
+   {
+    "id": "rPyrQSo2c1I",
+    "title": "LED Cube 8x8x8 Program Demo",
+    "meta": [
+     "43K",
+     "12y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 43000
+   },
+   {
+    "id": "CBah3vz5b-U",
+    "title": "Electronic Basics #1: The Multimeter",
+    "meta": [
+     "499K",
+     "12y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 499000
+   },
+   {
+    "id": "Ya9RpvQyww4",
+    "title": "3D LED Christmas tree",
+    "meta": [
+     "90K",
+     "12y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 90000
+   },
+   {
+    "id": "8xLF2TtYUdk",
+    "title": "Charge your phone with AA batteries!?",
+    "meta": [
+     "182K",
+     "12y ago"
+    ],
+    "dur": "3:11",
+    "views_tab": 182000
+   },
+   {
+    "id": "jQ3JHknsM4o",
+    "title": "Electronic Basics #2: Dimming all kinds of LEDs!?",
+    "meta": [
+     "389K",
+     "12y ago"
+    ],
+    "dur": "4:24",
+    "views_tab": 389000
+   },
+   {
+    "id": "9LjfkjwMqXI",
+    "title": "Electronic Basics #3: Programming an Attiny+Homemade Arduino Shield",
+    "meta": [
+     "701K",
+     "12y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 701000
+   },
+   {
+    "id": "x3KAXjnP06o",
+    "title": "Electronic Basics #4: Arduino+Bluetooth+Android=Awesome",
+    "meta": [
+     "715K",
+     "12y ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 715000
+   },
+   {
+    "id": "QoGnOoTICGY",
+    "title": "DIY Lab Bench Power Supply",
+    "meta": [
+     "667K",
+     "12y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 667000
+   },
+   {
+    "id": "EnM3p2TmWXc",
+    "title": "Build your own RGB LED Cube Part 1: the cube and case",
+    "meta": [
+     "338K",
+     "12y ago"
+    ],
+    "dur": "6:40",
+    "views_tab": 338000
+   },
+   {
+    "id": "uQMUPhyoXoE",
+    "title": "Electronic Basics #5: How to Multiplex",
+    "meta": [
+     "601K",
+     "12y ago"
+    ],
+    "dur": "4:54",
+    "views_tab": 601000
+   },
+   {
+    "id": "VkP48yrtdVo",
+    "title": "Build your own RGB LED Cube Part 2: the electronics",
+    "meta": [
+     "209K",
+     "12y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 209000
+   },
+   {
+    "id": "6SOXMDb4cjI",
+    "title": "How to reuse the old LCD Screen of your broken Laptop",
+    "meta": [
+     "2.3M",
+     "12y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 2300000
+   },
+   {
+    "id": "XY_09deCmlo",
+    "title": "Build your own RGB LED Cube Part 3: optimisation and animations",
+    "meta": [
+     "128K",
+     "12y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 128000
+   },
+   {
+    "id": "J3DYgzRvLT8",
+    "title": "Electronic Basics #6: Standalone Arduino Circuit",
+    "meta": [
+     "559K",
+     "12y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 559000
+   },
+   {
+    "id": "a6D6H6SLa_c",
+    "title": "Electronic Basics #7: 7 Segment Display",
+    "meta": [
+     "405K",
+     "12y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 405000
+   },
+   {
+    "id": "-swETkSPyYM",
+    "title": "Stay cool this summer: PC Fan Mod",
+    "meta": [
+     "767K",
+     "12y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 767000
+   },
+   {
+    "id": "xXs8Cxw4e2k",
+    "title": "Simple Basement Security System",
+    "meta": [
+     "273K",
+     "12y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 273000
+   },
+   {
+    "id": "90g6RpvXBYY",
+    "title": "PWM VS Potentiometer! When to use which technique?",
+    "meta": [
+     "466K",
+     "12y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 466000
+   },
+   {
+    "id": "hlhrS4_Y278",
+    "title": "Moped Mod:Turn Signals+Under Body Light+Brake Light",
+    "meta": [
+     "42K",
+     "12y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 42000
+   },
+   {
+    "id": "hdYEvDbW6FY",
+    "title": "Banana Pi VS Raspberry Pi",
+    "meta": [
+     "381K",
+     "12y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 381000
+   },
+   {
+    "id": "oaMJR1gpKD0",
+    "title": "HACKED!: Portable DVD Player",
+    "meta": [
+     "911K",
+     "12y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 911000
+   },
+   {
+    "id": "YJgX9Na4rWw",
+    "title": "Homemade PCB Etching (through hole parts) - Part 1",
+    "meta": [
+     "267K",
+     "12y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 267000
+   },
+   {
+    "id": "6uInan-TjiA",
+    "title": "Homemade PCB Etching (through hole parts) - Part 2",
+    "meta": [
+     "272K",
+     "12y ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 272000
+   },
+   {
+    "id": "Qlayua3yjuE",
+    "title": "Electronic Basics #8: Everything about LEDs and current limiting resistors",
+    "meta": [
+     "366K",
+     "12y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 366000
+   },
+   {
+    "id": "46WSCihjoRI",
+    "title": "Electronic Basics #9: Diodes & Bridge Rectifiers",
+    "meta": [
+     "403K",
+     "12y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 403000
+   },
+   {
+    "id": "cL8FHz-TOzQ",
+    "title": "Basic/Advanced Tools & Materials for Electronics",
+    "meta": [
+     "549K",
+     "12y ago"
+    ],
+    "dur": "7:12",
+    "views_tab": 549000
+   },
+   {
+    "id": "S6QAYTmUWOQ",
+    "title": "HACKED!: Flickering Light Bulb for Halloween",
+    "meta": [
+     "124K",
+     "12y ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 124000
+   },
+   {
+    "id": "oGTXczCV30A",
+    "title": "Make your own Low Budget Bluetooth Music System || OpAmp",
+    "meta": [
+     "2.9M",
+     "11y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 2900000
+   },
+   {
+    "id": "9QZkCQSHnko",
+    "title": "5$ Arduino WiFi Module!? ESP8266 mini Tutorial/Review",
+    "meta": [
+     "1.7M",
+     "11y ago"
+    ],
+    "dur": "5:41",
+    "views_tab": 1700000
+   },
+   {
+    "id": "np6yp-cN6iE",
+    "title": "HACKED!: Looping Louie on steroids",
+    "meta": [
+     "233K",
+     "11y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 233000
+   },
+   {
+    "id": "Y2OPnrgb0pY",
+    "title": "Electronic Basics #10: Digital to Analog Converter (DAC)",
+    "meta": [
+     "606K",
+     "11y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 606000
+   },
+   {
+    "id": "_NEK5YwKGKk",
+    "title": "Make your own LED Bar - Part 1 (matrix frame,bar construction,WS2812B lighting system)",
+    "meta": [
+     "199K",
+     "11y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 199000
+   },
+   {
+    "id": "FOZIPIqhvwI",
+    "title": "Make your own LED Bar - Part 2 (better light diffusion, backplate construction)",
+    "meta": [
+     "143K",
+     "11y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 143000
+   },
+   {
+    "id": "bNNWbm681AI",
+    "title": "Li-Ion battery short circuit,overcharge,undervoltage EXPERIMENT",
+    "meta": [
+     "540K",
+     "11y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 540000
+   },
+   {
+    "id": "ftdJ0R_5NZk",
+    "title": "Control your LEDs with your TV remote?! || Arduino IR Tutorial",
+    "meta": [
+     "748K",
+     "11y ago"
+    ],
+    "dur": "7:31",
+    "views_tab": 748000
+   },
+   {
+    "id": "Bw2p-Dmn48U",
+    "title": "Stay warm this winter: CPU Hand Warmer",
+    "meta": [
+     "1.8M",
+     "11y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 1800000
+   },
+   {
+    "id": "8pFcZ-ijrDY",
+    "title": "Make your own 15x10 RGB LED Matrix - Part 1",
+    "meta": [
+     "232K",
+     "11y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 232000
+   },
+   {
+    "id": "LJQ2KS1CJjg",
+    "title": "Make your own 15x10 RGB LED Matrix - Part 2",
+    "meta": [
+     "275K",
+     "11y ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 275000
+   },
+   {
+    "id": "gZNA3k7g42k",
+    "title": "Raspberry Pi 2 VS Orange Pi VS Banana Pro",
+    "meta": [
+     "390K",
+     "11y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 390000
+   },
+   {
+    "id": "4jc93BTGSmc",
+    "title": "Make your own 15x10 RGB LED Matrix - Part 3 || Glediator support with Raspberry Pi 2/ Banana Pro",
+    "meta": [
+     "193K",
+     "11y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 193000
+   },
+   {
+    "id": "gVGD-f8SQSI",
+    "title": "Electronic Basics #11: Sending SMS with Arduino || TC 35 GSM Module",
+    "meta": [
+     "381K",
+     "11y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 381000
+   },
+   {
+    "id": "8uBcywBUTkw",
+    "title": "Li-Ion Capacity Test || DIY constant current load",
+    "meta": [
+     "662K",
+     "11y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 662000
+   },
+   {
+    "id": "pvHIV0bNRe4",
+    "title": "DIY Motion Detection SMS Alarm System",
+    "meta": [
+     "363K",
+     "11y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 363000
+   },
+   {
+    "id": "wI-KYRdmx-E",
+    "title": "Build your own Variable Lab Bench Power Supply",
+    "meta": [
+     "2.2M",
+     "11y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 2200000
+   },
+   {
+    "id": "pxNLTRl36HQ",
+    "title": "Power Bank: 22400mAh VS Solar 50000mAh",
+    "meta": [
+     "1.2M",
+     "11y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1200000
+   },
+   {
+    "id": "kdrP9WbJIb8",
+    "title": "Electronic Basics #12: Coils / Inductors (Part 1)",
+    "meta": [
+     "1.3M",
+     "11y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 1300000
+   },
+   {
+    "id": "OramJZmoekA",
+    "title": "Make your own LED Lighting Panels",
+    "meta": [
+     "512K",
+     "11y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 512000
+   },
+   {
+    "id": "XCnI6ZOYKes",
+    "title": "Electronic Basics #13: Coils / Inductors (Part 2) || Reactance",
+    "meta": [
+     "495K",
+     "11y ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 495000
+   },
+   {
+    "id": "AwcQsbgy7AY",
+    "title": "HACKED!: Laser Diode from DVD Burner || Constant Current Source",
+    "meta": [
+     "3.9M",
+     "11y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 3900000
+   },
+   {
+    "id": "id90y5fkirE",
+    "title": "3D Printing Beginners Guide (Hardware) - 380$ DIY RepRap Prusa I3",
+    "meta": [
+     "509K",
+     "11y ago"
+    ],
+    "dur": "7:04",
+    "views_tab": 509000
+   },
+   {
+    "id": "Ze2fC6w9r7M",
+    "title": "DIY Portable Mini Monitor - Part 1",
+    "meta": [
+     "1.6M",
+     "11y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 1600000
+   },
+   {
+    "id": "ZnMMmfxceug",
+    "title": "DIY Portable Mini Monitor - Part 2",
+    "meta": [
+     "672K",
+     "11y ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 672000
+   },
+   {
+    "id": "LdeftXVQMeo",
+    "title": "The Future of GreatScott! || Patreon",
+    "meta": [
+     "102K",
+     "11y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 102000
+   },
+   {
+    "id": "Nb78wF1Tkwc",
+    "title": "What is worth desoldering from old electronics? || DIY Fume Extractor",
+    "meta": [
+     "3.2M",
+     "11y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 3200000
+   },
+   {
+    "id": "W4EG9Ikv4gw",
+    "title": "DIY Arduino LED Color Organ 2.0",
+    "meta": [
+     "167K",
+     "11y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 167000
+   },
+   {
+    "id": "otQGdPLyF3w",
+    "title": "Electronic Basics #14: Capacitors",
+    "meta": [
+     "860K",
+     "11y ago"
+    ],
+    "dur": "6:44",
+    "views_tab": 860000
+   },
+   {
+    "id": "cz3DEP2LC_w",
+    "title": "HACKED!: Transformer as a Speaker?!",
+    "meta": [
+     "572K",
+     "11y ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 572000
+   },
+   {
+    "id": "vyuzImO9nQs",
+    "title": "X-Carve DIY CNC Machine Review",
+    "meta": [
+     "224K",
+     "11y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 224000
+   },
+   {
+    "id": "7Ao6KD8f9J4",
+    "title": "Turn your lights on with clapping?! || Arduino Clap Circuit",
+    "meta": [
+     "541K",
+     "11y ago"
+    ],
+    "dur": "6:41",
+    "views_tab": 541000
+   },
+   {
+    "id": "-BIA35hdo-8",
+    "title": "GreatFAQ! || German videos?-Getting started with electronics?-Electrical safety?",
+    "meta": [
+     "72K",
+     "11y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 72000
+   },
+   {
+    "id": "ScZfuQxoI_s",
+    "title": "Make your own Remote Bluetooth Firework Igniter",
+    "meta": [
+     "309K",
+     "11y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 309000
+   },
+   {
+    "id": "1U4fep_qAeo",
+    "title": "Electronic Basics #15: Temperature Measurement (Part 1) || NTC, PT100, Wheatstone Bridge",
+    "meta": [
+     "366K",
+     "11y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 366000
+   },
+   {
+    "id": "Nzy914jLU_w",
+    "title": "Raspberry Pi 2 VS Orange Pi 2 VS BPi-M2",
+    "meta": [
+     "318K",
+     "11y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 318000
+   },
+   {
+    "id": "1Kp_yWY2tdU",
+    "title": "DIY Cooler (Part 1) || Peltier Module",
+    "meta": [
+     "1M",
+     "11y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 1000000
+   },
+   {
+    "id": "BHFI9nGY8Qs",
+    "title": "DIY Cooler (Part 2) || Peltier Module",
+    "meta": [
+     "664K",
+     "11y ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 664000
+   },
+   {
+    "id": "7w5I-KbJ1Sg",
+    "title": "Electronic Basics #16: Resistors",
+    "meta": [
+     "440K",
+     "11y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 440000
+   },
+   {
+    "id": "jX1GaPgSheI",
+    "title": "Make your own SIMPLE 5x5x5 RGB LED Cube (Part 1)",
+    "meta": [
+     "770K",
+     "11y ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 770000
+   },
+   {
+    "id": "R-arZ31-zJo",
+    "title": "Make your own SIMPLE 5x5x5 RGB LED Cube (Part 2)",
+    "meta": [
+     "365K",
+     "10y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 365000
+   },
+   {
+    "id": "trmxzUVT2eE",
+    "title": "AC VS DC - Pain Test (Experiment)",
+    "meta": [
+     "455K",
+     "10y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 455000
+   },
+   {
+    "id": "tXfMg8y1Fs4",
+    "title": "How to make a Huge Light Up LED Sign",
+    "meta": [
+     "202K",
+     "10y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 202000
+   },
+   {
+    "id": "eYVOdlK15Og",
+    "title": "Electronic Basics #17: Oscillators || RC, LC, Crystal",
+    "meta": [
+     "992K",
+     "10y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 992000
+   },
+   {
+    "id": "h_F3J4vyzNk",
+    "title": "Build your own Crude FM Radio || FM,AM Tutorial",
+    "meta": [
+     "1.2M",
+     "10y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 1200000
+   },
+   {
+    "id": "xdhVs0Oc2yA",
+    "title": "Roseapple Pi Review! Another Raspberry Pi like computer?!",
+    "meta": [
+     "242K",
+     "10y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 242000
+   },
+   {
+    "id": "xpdpDo-gR3Q",
+    "title": "DIY 7-Segment Internet Display (Part 1)",
+    "meta": [
+     "176K",
+     "10y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 176000
+   },
+   {
+    "id": "-B5vGQqgoNQ",
+    "title": "DIY 7-Segment Internet Display (Part 2)",
+    "meta": [
+     "173K",
+     "10y ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 173000
+   },
+   {
+    "id": "4_ImE0sRnfM",
+    "title": "Make your own Electric Motorized Longboard (Part 1) - the longboard itself",
+    "meta": [
+     "548K",
+     "10y ago"
+    ],
+    "dur": "4:24",
+    "views_tab": 548000
+   },
+   {
+    "id": "N83c8PjmLcw",
+    "title": "Make your own Electric Motorized Longboard (Part 2) - the mechanical build",
+    "meta": [
+     "425K",
+     "10y ago"
+    ],
+    "dur": "9:16",
+    "views_tab": 425000
+   },
+   {
+    "id": "zaTskMjpXtA",
+    "title": "Make your own Electric Motorized Longboard (Part 3) - the wiring & remote control",
+    "meta": [
+     "433K",
+     "10y ago"
+    ],
+    "dur": "9:15",
+    "views_tab": 433000
+   },
+   {
+    "id": "UteZJ_7C4Mg",
+    "title": "Electronic Basics #18: DC & Brushless DC Motor + ESC",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "6:44",
+    "views_tab": 1100000
+   },
+   {
+    "id": "UjG2QGOC4aA",
+    "title": "HACKED!: Old laptop battery becomes a Power bank",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "5:22",
+    "views_tab": 1100000
+   },
+   {
+    "id": "x19kwG-wJRI",
+    "title": "DIY Oscilloscope Kit (20$) VS Regular DS Oscilloscope (400$)",
+    "meta": [
+     "1.2M",
+     "10y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 1200000
+   },
+   {
+    "id": "0Xo0oKr8Thc",
+    "title": "Q&A || New 3D printer?  - What's your real name? -  Where do you buy your parts?",
+    "meta": [
+     "86K",
+     "10y ago"
+    ],
+    "dur": "5:51",
+    "views_tab": 86000
+   },
+   {
+    "id": "VjOGB6U_amY",
+    "title": "3D Printing Beginners Guide (Hardware) - 400$ DIY Delta 3D Printer kit",
+    "meta": [
+     "373K",
+     "10y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 373000
+   },
+   {
+    "id": "_fgWQ3TIhyE",
+    "title": "Electronic Basics #19: I2C and how to use it",
+    "meta": [
+     "462K",
+     "10y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 462000
+   },
+   {
+    "id": "RqyhvlMKt14",
+    "title": "Make your own FM Radio - Part 1",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 1300000
+   },
+   {
+    "id": "UtYbd89kVgY",
+    "title": "Make your own FM Radio - Part 2",
+    "meta": [
+     "382K",
+     "10y ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 382000
+   },
+   {
+    "id": "osfgkFyq7lA",
+    "title": "How dangerous are LiPo batteries? || Overcharge, Overdischarge, Short Circuit",
+    "meta": [
+     "3.8M",
+     "10y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 3800000
+   },
+   {
+    "id": "57carjNxI9A",
+    "title": "HACKED!: Old Fan becomes a POV Display",
+    "meta": [
+     "1.3M",
+     "10y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 1300000
+   },
+   {
+    "id": "Ijm2q8J4biM",
+    "title": "Wirelessly control your 3D Printer - OctoPrint Tutorial - 3D Printing Beginners Guide (Software)",
+    "meta": [
+     "213K",
+     "10y ago"
+    ],
+    "dur": "5:52",
+    "views_tab": 213000
+   },
+   {
+    "id": "4N1uLth1o9o",
+    "title": "Electronic Basics #20: Thyristor, Triac || Phase Angle Control",
+    "meta": [
+     "512K",
+     "10y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 512000
+   },
+   {
+    "id": "9-p22NllgPk",
+    "title": "Make your own Crude Projector",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "AD772QQZ0Gc",
+    "title": "HACKED!: PS3 Blu-Ray Laser Diode || Simplest Constant Current Source",
+    "meta": [
+     "592K",
+     "10y ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 592000
+   },
+   {
+    "id": "GNjTLt1_wDM",
+    "title": "Q&A&C #1 || Workshop tour, Unreachable projects, X-Carve PCB milling",
+    "meta": [
+     "84K",
+     "10y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 84000
+   },
+   {
+    "id": "m8rK9gU30v4",
+    "title": "DIY Buck Converter || How to step down DC voltage efficiently",
+    "meta": [
+     "1M",
+     "10y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 1000000
+   },
+   {
+    "id": "Jyrpx9rEGMI",
+    "title": "Make your own LED Sign VU Meter",
+    "meta": [
+     "627K",
+     "10y ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 627000
+   },
+   {
+    "id": "QnUhjnbZ0T8",
+    "title": "DIY Boost Converter || How to step up DC voltage efficiently",
+    "meta": [
+     "845K",
+     "10y ago"
+    ],
+    "dur": "5:41",
+    "views_tab": 845000
+   },
+   {
+    "id": "SpKK6o4ffts",
+    "title": "EasyEDA - Free Schematic & PCB Design + Simulation Software Review",
+    "meta": [
+     "339K",
+     "10y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 339000
+   },
+   {
+    "id": "kqCV-HGJc6A",
+    "title": "Electronic Basics #21: OpAmp (Operational Amplifier)",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 1100000
+   },
+   {
+    "id": "NrQWxc4nv7E",
+    "title": "Make your own Boombox",
+    "meta": [
+     "5.3M",
+     "10y ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 5300000
+   },
+   {
+    "id": "GqVvFGTAy1A",
+    "title": "Q&A&C #2|| Favourite YouTuber, Quadcopter Project, Travel Ambitions",
+    "meta": [
+     "63K",
+     "10y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 63000
+   },
+   {
+    "id": "11Kr6W6jSdg",
+    "title": "Fix It!: Brand-New Defective Logitech Speaker",
+    "meta": [
+     "351K",
+     "10y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 351000
+   },
+   {
+    "id": "fQXBNkaB1tU",
+    "title": "HACKED!: Microwave Transformer becomes a High Current Transformer",
+    "meta": [
+     "7.1M",
+     "10y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 7100000
+   },
+   {
+    "id": "D_QBlFIQk-o",
+    "title": "Make your own 10x10 LED Matrix",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 1100000
+   },
+   {
+    "id": "WRm2oUw4owE",
+    "title": "Electronic Basics #22: Transistor (BJT) as a Switch",
+    "meta": [
+     "800K",
+     "10y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 800000
+   },
+   {
+    "id": "Qhh8S68Kfzo",
+    "title": "Q&A&C #3 || German Comments? Can I buy one if you make it? More Fix It! videos?",
+    "meta": [
+     "77K",
+     "10y ago"
+    ],
+    "dur": "4:42",
+    "views_tab": 77000
+   },
+   {
+    "id": "jq7cqmDtZDc",
+    "title": "Supercapacitor Joule Thief",
+    "meta": [
+     "2.1M",
+     "10y ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 2100000
+   },
+   {
+    "id": "ttwsMwG_Gco",
+    "title": "Make your own Crude Shaking Torch (Emergency Flashlight)",
+    "meta": [
+     "546K",
+     "10y ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 546000
+   },
+   {
+    "id": "o4_NeqlJgOs",
+    "title": "Electronic Basics #23: Transistor (MOSFET) as a Switch",
+    "meta": [
+     "1.1M",
+     "10y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 1100000
+   },
+   {
+    "id": "XUY0-doBx1U",
+    "title": "HACKED!: Speaker System gets an IR Remote",
+    "meta": [
+     "454K",
+     "10y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 454000
+   },
+   {
+    "id": "k6gdC3PTTQQ",
+    "title": "Q&A&C #4 || Only Arduino Compatible? My own SBC? What Soldering Iron do you use?",
+    "meta": [
+     "58K",
+     "10y ago"
+    ],
+    "dur": "4:36",
+    "views_tab": 58000
+   },
+   {
+    "id": "PMU9TQUDhow",
+    "title": "Make your own Coilgun",
+    "meta": [
+     "1.9M",
+     "10y ago"
+    ],
+    "dur": "7:10",
+    "views_tab": 1900000
+   },
+   {
+    "id": "o6_UYb6I4x4",
+    "title": "How to Easily create Animations for your LED Matrix",
+    "meta": [
+     "322K",
+     "10y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 322000
+   },
+   {
+    "id": "lzXMImK_wyM",
+    "title": "Arduino VS Common IC (Without Programming) || Creating Arduino equivalent circuit",
+    "meta": [
+     "305K",
+     "10y ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 305000
+   },
+   {
+    "id": "KXRmdDAWHMg",
+    "title": "Chinese Power Saver - Does it actually save power?",
+    "meta": [
+     "1.6M",
+     "10y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 1600000
+   },
+   {
+    "id": "2n3viPBmx-E",
+    "title": "Make your own Motorized Camera Slider (Part 1) - the mechanical build",
+    "meta": [
+     "150K",
+     "10y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 150000
+   },
+   {
+    "id": "bkqoKWP4Oy4",
+    "title": "Electronic Basics #24: Stepper Motors and how to use them",
+    "meta": [
+     "2.3M",
+     "10y ago"
+    ],
+    "dur": "6:47",
+    "views_tab": 2300000
+   },
+   {
+    "id": "XtpOl8FpkB8",
+    "title": "Make your own Motorized Camera Slider (Part 2) - the electronics",
+    "meta": [
+     "193K",
+     "10y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 193000
+   }
+  ]
+ }
+}

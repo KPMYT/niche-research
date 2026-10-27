@@ -1,0 +1,497 @@
+{
+ "key": "UC37vQwUqB1Qu190HQLWqq4w",
+ "channel": "Eli's Plain Heat",
+ "id": "UC37vQwUqB1Qu190HQLWqq4w",
+ "subs": "68 subscribers",
+ "videos": "10 videos",
+ "pulled": "2026-10-26T06:48:31.081764+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "C27JlXNaAUE",
+    "title": "This $5 Candle-Powered Heater Keeps My Room Warm All Winter",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "530",
+     "20h ago"
+    ],
+    "dur": "22:11",
+    "views_tab": 530
+   },
+   {
+    "id": "U1M3ZCbCl_A",
+    "title": "I Heat My Whole Home for $5 a Winter. No Furnace, No Space Heater, No Gas",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "566",
+     "1d ago"
+    ],
+    "dur": "22:47",
+    "views_tab": 566
+   },
+   {
+    "id": "oe3gDXELg38",
+    "title": "I STOPPED Buying Space Heaters - These $1 Dollar Tree Items Keep Me Warm When My Furnace Dies",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.3K",
+     "2d ago"
+    ],
+    "dur": "23:19",
+    "views_tab": 2300
+   },
+   {
+    "id": "MEulSI6GpXw",
+    "title": "10 Ways I Stay Warm ALL WINTER When the Power Dies (We Never Heat the Whole House)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "755",
+     "3d ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 755
+   },
+   {
+    "id": "WUAtbOOhg20",
+    "title": "I Tested Window Film, Bubble Wrap & Thermal Curtains in My Home for Winter \u2014 Not Even Close",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.5K",
+     "4d ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 2500
+   },
+   {
+    "id": "MlpLz3gDqVk",
+    "title": "I Tested a Trash Bag in My Toilet Before an Ice Storm, Watch What Happened (9 More Dollar Tree Buys)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.7K",
+     "5d ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "EVQXRYJOcUA",
+    "title": "9 Ways I Keep My Bed Warm All Winter With No Heat (The Cold Comes From Underneath)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "27K",
+     "6d ago"
+    ],
+    "dur": "23:07",
+    "views_tab": 27000
+   },
+   {
+    "id": "z_EXPy8eIMQ",
+    "title": "Why 99% of Generators Fail in a Winter Storm (And What I Use Instead)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.1K",
+     "7d ago"
+    ],
+    "dur": "22:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "qSy0joZuhoo",
+    "title": "Before You Turn On Your Heat This Fall, Do This Amish Check (Or Pay For It All Winter)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.3K",
+     "8d ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1300
+   },
+   {
+    "id": "UnPZYvnhhqw",
+    "title": "slow moment",
+    "meta": [
+     "89",
+     "13d ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 89
+   }
+  ],
+  "Latest": [
+   {
+    "id": "C27JlXNaAUE",
+    "title": "This $5 Candle-Powered Heater Keeps My Room Warm All Winter",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "530",
+     "20h ago"
+    ],
+    "dur": "22:11",
+    "views_tab": 530
+   },
+   {
+    "id": "U1M3ZCbCl_A",
+    "title": "I Heat My Whole Home for $5 a Winter. No Furnace, No Space Heater, No Gas",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "566",
+     "1d ago"
+    ],
+    "dur": "22:47",
+    "views_tab": 566
+   },
+   {
+    "id": "oe3gDXELg38",
+    "title": "I STOPPED Buying Space Heaters - These $1 Dollar Tree Items Keep Me Warm When My Furnace Dies",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.3K",
+     "2d ago"
+    ],
+    "dur": "23:19",
+    "views_tab": 2300
+   },
+   {
+    "id": "MEulSI6GpXw",
+    "title": "10 Ways I Stay Warm ALL WINTER When the Power Dies (We Never Heat the Whole House)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "755",
+     "3d ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 755
+   },
+   {
+    "id": "WUAtbOOhg20",
+    "title": "I Tested Window Film, Bubble Wrap & Thermal Curtains in My Home for Winter \u2014 Not Even Close",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.5K",
+     "4d ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 2500
+   },
+   {
+    "id": "MlpLz3gDqVk",
+    "title": "I Tested a Trash Bag in My Toilet Before an Ice Storm, Watch What Happened (9 More Dollar Tree Buys)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.7K",
+     "5d ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "EVQXRYJOcUA",
+    "title": "9 Ways I Keep My Bed Warm All Winter With No Heat (The Cold Comes From Underneath)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "27K",
+     "6d ago"
+    ],
+    "dur": "23:07",
+    "views_tab": 27000
+   },
+   {
+    "id": "z_EXPy8eIMQ",
+    "title": "Why 99% of Generators Fail in a Winter Storm (And What I Use Instead)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.1K",
+     "7d ago"
+    ],
+    "dur": "22:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "qSy0joZuhoo",
+    "title": "Before You Turn On Your Heat This Fall, Do This Amish Check (Or Pay For It All Winter)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.3K",
+     "8d ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1300
+   },
+   {
+    "id": "UnPZYvnhhqw",
+    "title": "slow moment",
+    "meta": [
+     "89",
+     "13d ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 89
+   }
+  ],
+  "Popular": [
+   {
+    "id": "EVQXRYJOcUA",
+    "title": "9 Ways I Keep My Bed Warm All Winter With No Heat (The Cold Comes From Underneath)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "27K",
+     "6d ago"
+    ],
+    "dur": "23:07",
+    "views_tab": 27000
+   },
+   {
+    "id": "WUAtbOOhg20",
+    "title": "I Tested Window Film, Bubble Wrap & Thermal Curtains in My Home for Winter \u2014 Not Even Close",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.5K",
+     "4d ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 2500
+   },
+   {
+    "id": "oe3gDXELg38",
+    "title": "I STOPPED Buying Space Heaters - These $1 Dollar Tree Items Keep Me Warm When My Furnace Dies",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.3K",
+     "2d ago"
+    ],
+    "dur": "23:19",
+    "views_tab": 2300
+   },
+   {
+    "id": "MlpLz3gDqVk",
+    "title": "I Tested a Trash Bag in My Toilet Before an Ice Storm, Watch What Happened (9 More Dollar Tree Buys)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.7K",
+     "5d ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "qSy0joZuhoo",
+    "title": "Before You Turn On Your Heat This Fall, Do This Amish Check (Or Pay For It All Winter)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.3K",
+     "8d ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1300
+   },
+   {
+    "id": "z_EXPy8eIMQ",
+    "title": "Why 99% of Generators Fail in a Winter Storm (And What I Use Instead)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.1K",
+     "7d ago"
+    ],
+    "dur": "22:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "MEulSI6GpXw",
+    "title": "10 Ways I Stay Warm ALL WINTER When the Power Dies (We Never Heat the Whole House)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "755",
+     "3d ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 755
+   },
+   {
+    "id": "U1M3ZCbCl_A",
+    "title": "I Heat My Whole Home for $5 a Winter. No Furnace, No Space Heater, No Gas",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "566",
+     "1d ago"
+    ],
+    "dur": "22:47",
+    "views_tab": 566
+   },
+   {
+    "id": "C27JlXNaAUE",
+    "title": "This $5 Candle-Powered Heater Keeps My Room Warm All Winter",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "530",
+     "20h ago"
+    ],
+    "dur": "22:11",
+    "views_tab": 530
+   },
+   {
+    "id": "UnPZYvnhhqw",
+    "title": "slow moment",
+    "meta": [
+     "89",
+     "13d ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 89
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "UnPZYvnhhqw",
+    "title": "slow moment",
+    "meta": [
+     "89",
+     "13d ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 89
+   },
+   {
+    "id": "qSy0joZuhoo",
+    "title": "Before You Turn On Your Heat This Fall, Do This Amish Check (Or Pay For It All Winter)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.3K",
+     "8d ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1300
+   },
+   {
+    "id": "z_EXPy8eIMQ",
+    "title": "Why 99% of Generators Fail in a Winter Storm (And What I Use Instead)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.1K",
+     "7d ago"
+    ],
+    "dur": "22:31",
+    "views_tab": 1100
+   },
+   {
+    "id": "EVQXRYJOcUA",
+    "title": "9 Ways I Keep My Bed Warm All Winter With No Heat (The Cold Comes From Underneath)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "27K",
+     "6d ago"
+    ],
+    "dur": "23:07",
+    "views_tab": 27000
+   },
+   {
+    "id": "MlpLz3gDqVk",
+    "title": "I Tested a Trash Bag in My Toilet Before an Ice Storm, Watch What Happened (9 More Dollar Tree Buys)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "1.7K",
+     "5d ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 1700
+   },
+   {
+    "id": "WUAtbOOhg20",
+    "title": "I Tested Window Film, Bubble Wrap & Thermal Curtains in My Home for Winter \u2014 Not Even Close",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.5K",
+     "4d ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 2500
+   },
+   {
+    "id": "MEulSI6GpXw",
+    "title": "10 Ways I Stay Warm ALL WINTER When the Power Dies (We Never Heat the Whole House)",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "755",
+     "3d ago"
+    ],
+    "dur": "23:01",
+    "views_tab": 755
+   },
+   {
+    "id": "oe3gDXELg38",
+    "title": "I STOPPED Buying Space Heaters - These $1 Dollar Tree Items Keep Me Warm When My Furnace Dies",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "2.3K",
+     "2d ago"
+    ],
+    "dur": "23:19",
+    "views_tab": 2300
+   },
+   {
+    "id": "U1M3ZCbCl_A",
+    "title": "I Heat My Whole Home for $5 a Winter. No Furnace, No Space Heater, No Gas",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "566",
+     "1d ago"
+    ],
+    "dur": "22:47",
+    "views_tab": 566
+   },
+   {
+    "id": "C27JlXNaAUE",
+    "title": "This $5 Candle-Powered Heater Keeps My Room Warm All Winter",
+    "meta": [
+     "Eli's Plain Heat",
+     "and 4 more",
+     "530",
+     "20h ago"
+    ],
+    "dur": "22:11",
+    "views_tab": 530
+   }
+  ]
+ }
+}

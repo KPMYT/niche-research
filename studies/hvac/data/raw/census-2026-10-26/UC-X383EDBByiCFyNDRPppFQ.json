@@ -1,0 +1,425 @@
+{
+ "key": "UC-X383EDBByiCFyNDRPppFQ",
+ "channel": "Dan Carters Workshop",
+ "id": "UC-X383EDBByiCFyNDRPppFQ",
+ "subs": "7 subscribers",
+ "videos": "10 videos",
+ "pulled": "2026-10-26T06:47:12.224079+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "PfiJvu6lH94",
+    "title": "5 Plumbing Mistakes Water Companies Hope You Keep Making",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 3
+   },
+   {
+    "id": "phd8B1Yx6cg",
+    "title": "Toilet Won't Flush? Check These 3 Things Before You Pay $300 for a 5 Minute Fix",
+    "meta": [
+     "113",
+     "5d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 113
+   },
+   {
+    "id": "KRLhKE7BRAY",
+    "title": "Installing A New Sink! What You Actually Need vs What They'll Sell You",
+    "meta": [
+     "46",
+     "9d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 46
+   },
+   {
+    "id": "Asr5sGcrO8M",
+    "title": "5 Things Repairmen Say to Trick You Into a New $5,000 Water Heater!",
+    "meta": [
+     "162",
+     "11d ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 162
+   },
+   {
+    "id": "0-M33V_-rKY",
+    "title": "AC wont turn on? Check these 3 things before you pay $450 for a 5  minute fix",
+    "meta": [
+     "195",
+     "2w ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 195
+   },
+   {
+    "id": "HOsRw0208ns",
+    "title": "No Hot Water? Check These 3 Things Before Paying $500 for a 5 Minute Fix",
+    "meta": [
+     "217",
+     "2w ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 217
+   },
+   {
+    "id": "5u3EqesiwIY",
+    "title": "5 Thermostat Habits that wear your AC out years early.",
+    "meta": [
+     "249",
+     "3w ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 249
+   },
+   {
+    "id": "xfQ0JW6n_8s",
+    "title": "5 Energy Bill Mistakes utility companies hope you keep making!",
+    "meta": [
+     "206",
+     "3w ago"
+    ],
+    "dur": "14:23",
+    "views_tab": 206
+   },
+   {
+    "id": "DTu9_QvQQoU",
+    "title": "5 Plumbing Habits That Destroy Your Pipes Years Early",
+    "meta": [
+     "289",
+     "1mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 289
+   },
+   {
+    "id": "VMm5HJB-6V0",
+    "title": "5 Water Bill Traps Your Utility Company Won\u2019t Tell You About",
+    "meta": [
+     "38",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 38
+   }
+  ],
+  "Latest": [
+   {
+    "id": "PfiJvu6lH94",
+    "title": "5 Plumbing Mistakes Water Companies Hope You Keep Making",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 3
+   },
+   {
+    "id": "phd8B1Yx6cg",
+    "title": "Toilet Won't Flush? Check These 3 Things Before You Pay $300 for a 5 Minute Fix",
+    "meta": [
+     "113",
+     "5d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 113
+   },
+   {
+    "id": "KRLhKE7BRAY",
+    "title": "Installing A New Sink! What You Actually Need vs What They'll Sell You",
+    "meta": [
+     "46",
+     "9d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 46
+   },
+   {
+    "id": "Asr5sGcrO8M",
+    "title": "5 Things Repairmen Say to Trick You Into a New $5,000 Water Heater!",
+    "meta": [
+     "162",
+     "11d ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 162
+   },
+   {
+    "id": "0-M33V_-rKY",
+    "title": "AC wont turn on? Check these 3 things before you pay $450 for a 5  minute fix",
+    "meta": [
+     "195",
+     "2w ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 195
+   },
+   {
+    "id": "HOsRw0208ns",
+    "title": "No Hot Water? Check These 3 Things Before Paying $500 for a 5 Minute Fix",
+    "meta": [
+     "217",
+     "2w ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 217
+   },
+   {
+    "id": "5u3EqesiwIY",
+    "title": "5 Thermostat Habits that wear your AC out years early.",
+    "meta": [
+     "249",
+     "3w ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 249
+   },
+   {
+    "id": "xfQ0JW6n_8s",
+    "title": "5 Energy Bill Mistakes utility companies hope you keep making!",
+    "meta": [
+     "206",
+     "3w ago"
+    ],
+    "dur": "14:23",
+    "views_tab": 206
+   },
+   {
+    "id": "DTu9_QvQQoU",
+    "title": "5 Plumbing Habits That Destroy Your Pipes Years Early",
+    "meta": [
+     "289",
+     "1mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 289
+   },
+   {
+    "id": "VMm5HJB-6V0",
+    "title": "5 Water Bill Traps Your Utility Company Won\u2019t Tell You About",
+    "meta": [
+     "38",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 38
+   }
+  ],
+  "Popular": [
+   {
+    "id": "DTu9_QvQQoU",
+    "title": "5 Plumbing Habits That Destroy Your Pipes Years Early",
+    "meta": [
+     "289",
+     "1mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 289
+   },
+   {
+    "id": "5u3EqesiwIY",
+    "title": "5 Thermostat Habits that wear your AC out years early.",
+    "meta": [
+     "249",
+     "3w ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 249
+   },
+   {
+    "id": "HOsRw0208ns",
+    "title": "No Hot Water? Check These 3 Things Before Paying $500 for a 5 Minute Fix",
+    "meta": [
+     "217",
+     "2w ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 217
+   },
+   {
+    "id": "xfQ0JW6n_8s",
+    "title": "5 Energy Bill Mistakes utility companies hope you keep making!",
+    "meta": [
+     "207",
+     "3w ago"
+    ],
+    "dur": "14:23",
+    "views_tab": 207
+   },
+   {
+    "id": "0-M33V_-rKY",
+    "title": "AC wont turn on? Check these 3 things before you pay $450 for a 5  minute fix",
+    "meta": [
+     "195",
+     "2w ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 195
+   },
+   {
+    "id": "Asr5sGcrO8M",
+    "title": "5 Things Repairmen Say to Trick You Into a New $5,000 Water Heater!",
+    "meta": [
+     "161",
+     "11d ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 161
+   },
+   {
+    "id": "phd8B1Yx6cg",
+    "title": "Toilet Won't Flush? Check These 3 Things Before You Pay $300 for a 5 Minute Fix",
+    "meta": [
+     "114",
+     "5d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 114
+   },
+   {
+    "id": "KRLhKE7BRAY",
+    "title": "Installing A New Sink! What You Actually Need vs What They'll Sell You",
+    "meta": [
+     "46",
+     "9d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 46
+   },
+   {
+    "id": "VMm5HJB-6V0",
+    "title": "5 Water Bill Traps Your Utility Company Won\u2019t Tell You About",
+    "meta": [
+     "38",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 38
+   },
+   {
+    "id": "PfiJvu6lH94",
+    "title": "5 Plumbing Mistakes Water Companies Hope You Keep Making",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 3
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "VMm5HJB-6V0",
+    "title": "5 Water Bill Traps Your Utility Company Won\u2019t Tell You About",
+    "meta": [
+     "38",
+     "1mo ago"
+    ],
+    "dur": "14:46",
+    "views_tab": 38
+   },
+   {
+    "id": "DTu9_QvQQoU",
+    "title": "5 Plumbing Habits That Destroy Your Pipes Years Early",
+    "meta": [
+     "289",
+     "1mo ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 289
+   },
+   {
+    "id": "xfQ0JW6n_8s",
+    "title": "5 Energy Bill Mistakes utility companies hope you keep making!",
+    "meta": [
+     "206",
+     "3w ago"
+    ],
+    "dur": "14:23",
+    "views_tab": 206
+   },
+   {
+    "id": "5u3EqesiwIY",
+    "title": "5 Thermostat Habits that wear your AC out years early.",
+    "meta": [
+     "249",
+     "3w ago"
+    ],
+    "dur": "14:45",
+    "views_tab": 249
+   },
+   {
+    "id": "HOsRw0208ns",
+    "title": "No Hot Water? Check These 3 Things Before Paying $500 for a 5 Minute Fix",
+    "meta": [
+     "217",
+     "2w ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 217
+   },
+   {
+    "id": "0-M33V_-rKY",
+    "title": "AC wont turn on? Check these 3 things before you pay $450 for a 5  minute fix",
+    "meta": [
+     "195",
+     "2w ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 195
+   },
+   {
+    "id": "Asr5sGcrO8M",
+    "title": "5 Things Repairmen Say to Trick You Into a New $5,000 Water Heater!",
+    "meta": [
+     "162",
+     "11d ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 162
+   },
+   {
+    "id": "KRLhKE7BRAY",
+    "title": "Installing A New Sink! What You Actually Need vs What They'll Sell You",
+    "meta": [
+     "46",
+     "9d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 46
+   },
+   {
+    "id": "phd8B1Yx6cg",
+    "title": "Toilet Won't Flush? Check These 3 Things Before You Pay $300 for a 5 Minute Fix",
+    "meta": [
+     "113",
+     "5d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 113
+   },
+   {
+    "id": "PfiJvu6lH94",
+    "title": "5 Plumbing Mistakes Water Companies Hope You Keep Making",
+    "meta": [
+     "3",
+     "3d ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 3
+   }
+  ]
+ }
+}

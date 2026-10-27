@@ -1,0 +1,585 @@
+{
+ "key": "UCuUIbw0cEPRHXK8Hjyp43Zw",
+ "channel": "Nixon The Appliance Guy",
+ "id": "UCuUIbw0cEPRHXK8Hjyp43Zw",
+ "subs": "1.94K subscribers",
+ "videos": "14 videos",
+ "pulled": "2026-10-26T07:06:06.810533+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "g6HpNL84s7k",
+    "title": "One Company Secretly Makes Half the Washer Brands You Trust (The Brand Name Lie)",
+    "meta": [
+     "5.6K",
+     "1mo ago"
+    ],
+    "dur": "30:14",
+    "views_tab": 5600
+   },
+   {
+    "id": "d2TKpzl_W-k",
+    "title": "The Washing Machine Brands I Refuse to Repair (And the 2 That Never Break)",
+    "meta": [
+     "814",
+     "1mo ago"
+    ],
+    "dur": "35:28",
+    "views_tab": 814
+   },
+   {
+    "id": "8agCj58kA8c",
+    "title": "AVOID These Dryer Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "35:46",
+    "views_tab": 1300
+   },
+   {
+    "id": "165UKmTnCAk",
+    "title": "7 Washing Machines That Will FAIL You in 2 Years (The \"Disposable\" List)",
+    "meta": [
+     "889",
+     "1mo ago"
+    ],
+    "dur": "29:40",
+    "views_tab": 889
+   },
+   {
+    "id": "gNYpUtrC_CE",
+    "title": "The Only 3 Washer Brands Worth Buying in 2026 (And One to NEVER Buy)",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "31:14",
+    "views_tab": 20000
+   },
+   {
+    "id": "Lwl1agIsydc",
+    "title": "Why 90% of New Washing Machines Are Garbage (The Factory Secret)",
+    "meta": [
+     "343",
+     "1mo ago"
+    ],
+    "dur": "29:56",
+    "views_tab": 343
+   },
+   {
+    "id": "vBHrT6DDP88",
+    "title": "AVOID These TVs in 2026 \u2014 Every Buyer Must See This Warning First",
+    "meta": [
+     "2K",
+     "2mo ago"
+    ],
+    "dur": "34:58",
+    "views_tab": 2000
+   },
+   {
+    "id": "EL79aw8Pl3o",
+    "title": "Appliances Made to BREAK \u2014 And What to Buy That's Built to LAST",
+    "meta": [
+     "580",
+     "2mo ago"
+    ],
+    "dur": "34:41",
+    "views_tab": 580
+   },
+   {
+    "id": "DIBzo3cxoX0",
+    "title": "I Don't Fix Refrigerators. These Are the Only 2 I'd Buy.",
+    "meta": [
+     "1.7K",
+     "2mo ago"
+    ],
+    "dur": "36:04",
+    "views_tab": 1700
+   },
+   {
+    "id": "i61815HsBIw",
+    "title": "What's the BEST Refrigerator to Buy in 2026? The Truth Will SURPRISE You",
+    "meta": [
+     "4.7K",
+     "2mo ago"
+    ],
+    "dur": "29:54",
+    "views_tab": 4700
+   },
+   {
+    "id": "hmKWsd2QAGs",
+    "title": "I've Repaired Hundreds of Washers \u2014 These Are the Only 4 I'd Actually Buy",
+    "meta": [
+     "137K",
+     "2mo ago"
+    ],
+    "dur": "30:07",
+    "views_tab": 137000
+   },
+   {
+    "id": "stbe2dL1wrI",
+    "title": "AVOID These Washing Machine Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "17K",
+     "2mo ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "5IBgPM8aKNo",
+    "title": "Taking a walk with my dog \u200b\u200band his backpack",
+    "meta": [
+     "92",
+     "8mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 92
+   },
+   {
+    "id": "EBpQw2gdJfs",
+    "title": "exploring ancient ruins with my friends",
+    "meta": [
+     "15",
+     "8mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 15
+   }
+  ],
+  "Latest": [
+   {
+    "id": "g6HpNL84s7k",
+    "title": "One Company Secretly Makes Half the Washer Brands You Trust (The Brand Name Lie)",
+    "meta": [
+     "5.6K",
+     "1mo ago"
+    ],
+    "dur": "30:14",
+    "views_tab": 5600
+   },
+   {
+    "id": "d2TKpzl_W-k",
+    "title": "The Washing Machine Brands I Refuse to Repair (And the 2 That Never Break)",
+    "meta": [
+     "814",
+     "1mo ago"
+    ],
+    "dur": "35:28",
+    "views_tab": 814
+   },
+   {
+    "id": "8agCj58kA8c",
+    "title": "AVOID These Dryer Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "35:46",
+    "views_tab": 1300
+   },
+   {
+    "id": "165UKmTnCAk",
+    "title": "7 Washing Machines That Will FAIL You in 2 Years (The \"Disposable\" List)",
+    "meta": [
+     "889",
+     "1mo ago"
+    ],
+    "dur": "29:40",
+    "views_tab": 889
+   },
+   {
+    "id": "gNYpUtrC_CE",
+    "title": "The Only 3 Washer Brands Worth Buying in 2026 (And One to NEVER Buy)",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "31:14",
+    "views_tab": 20000
+   },
+   {
+    "id": "Lwl1agIsydc",
+    "title": "Why 90% of New Washing Machines Are Garbage (The Factory Secret)",
+    "meta": [
+     "343",
+     "1mo ago"
+    ],
+    "dur": "29:56",
+    "views_tab": 343
+   },
+   {
+    "id": "vBHrT6DDP88",
+    "title": "AVOID These TVs in 2026 \u2014 Every Buyer Must See This Warning First",
+    "meta": [
+     "2K",
+     "2mo ago"
+    ],
+    "dur": "34:58",
+    "views_tab": 2000
+   },
+   {
+    "id": "EL79aw8Pl3o",
+    "title": "Appliances Made to BREAK \u2014 And What to Buy That's Built to LAST",
+    "meta": [
+     "580",
+     "2mo ago"
+    ],
+    "dur": "34:41",
+    "views_tab": 580
+   },
+   {
+    "id": "DIBzo3cxoX0",
+    "title": "I Don't Fix Refrigerators. These Are the Only 2 I'd Buy.",
+    "meta": [
+     "1.7K",
+     "2mo ago"
+    ],
+    "dur": "36:04",
+    "views_tab": 1700
+   },
+   {
+    "id": "i61815HsBIw",
+    "title": "What's the BEST Refrigerator to Buy in 2026? The Truth Will SURPRISE You",
+    "meta": [
+     "4.7K",
+     "2mo ago"
+    ],
+    "dur": "29:54",
+    "views_tab": 4700
+   },
+   {
+    "id": "hmKWsd2QAGs",
+    "title": "I've Repaired Hundreds of Washers \u2014 These Are the Only 4 I'd Actually Buy",
+    "meta": [
+     "137K",
+     "2mo ago"
+    ],
+    "dur": "30:07",
+    "views_tab": 137000
+   },
+   {
+    "id": "stbe2dL1wrI",
+    "title": "AVOID These Washing Machine Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "17K",
+     "2mo ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "5IBgPM8aKNo",
+    "title": "Taking a walk with my dog \u200b\u200band his backpack",
+    "meta": [
+     "92",
+     "8mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 92
+   },
+   {
+    "id": "EBpQw2gdJfs",
+    "title": "exploring ancient ruins with my friends",
+    "meta": [
+     "15",
+     "8mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 15
+   }
+  ],
+  "Popular": [
+   {
+    "id": "hmKWsd2QAGs",
+    "title": "I've Repaired Hundreds of Washers \u2014 These Are the Only 4 I'd Actually Buy",
+    "meta": [
+     "137K",
+     "2mo ago"
+    ],
+    "dur": "30:07",
+    "views_tab": 137000
+   },
+   {
+    "id": "gNYpUtrC_CE",
+    "title": "The Only 3 Washer Brands Worth Buying in 2026 (And One to NEVER Buy)",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "31:14",
+    "views_tab": 20000
+   },
+   {
+    "id": "stbe2dL1wrI",
+    "title": "AVOID These Washing Machine Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "17K",
+     "2mo ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "g6HpNL84s7k",
+    "title": "One Company Secretly Makes Half the Washer Brands You Trust (The Brand Name Lie)",
+    "meta": [
+     "5.6K",
+     "1mo ago"
+    ],
+    "dur": "30:14",
+    "views_tab": 5600
+   },
+   {
+    "id": "i61815HsBIw",
+    "title": "What's the BEST Refrigerator to Buy in 2026? The Truth Will SURPRISE You",
+    "meta": [
+     "4.7K",
+     "2mo ago"
+    ],
+    "dur": "29:54",
+    "views_tab": 4700
+   },
+   {
+    "id": "vBHrT6DDP88",
+    "title": "AVOID These TVs in 2026 \u2014 Every Buyer Must See This Warning First",
+    "meta": [
+     "2K",
+     "2mo ago"
+    ],
+    "dur": "34:58",
+    "views_tab": 2000
+   },
+   {
+    "id": "DIBzo3cxoX0",
+    "title": "I Don't Fix Refrigerators. These Are the Only 2 I'd Buy.",
+    "meta": [
+     "1.7K",
+     "2mo ago"
+    ],
+    "dur": "36:04",
+    "views_tab": 1700
+   },
+   {
+    "id": "8agCj58kA8c",
+    "title": "AVOID These Dryer Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "35:46",
+    "views_tab": 1300
+   },
+   {
+    "id": "165UKmTnCAk",
+    "title": "7 Washing Machines That Will FAIL You in 2 Years (The \"Disposable\" List)",
+    "meta": [
+     "889",
+     "1mo ago"
+    ],
+    "dur": "29:40",
+    "views_tab": 889
+   },
+   {
+    "id": "d2TKpzl_W-k",
+    "title": "The Washing Machine Brands I Refuse to Repair (And the 2 That Never Break)",
+    "meta": [
+     "814",
+     "1mo ago"
+    ],
+    "dur": "35:28",
+    "views_tab": 814
+   },
+   {
+    "id": "EL79aw8Pl3o",
+    "title": "Appliances Made to BREAK \u2014 And What to Buy That's Built to LAST",
+    "meta": [
+     "580",
+     "2mo ago"
+    ],
+    "dur": "34:41",
+    "views_tab": 580
+   },
+   {
+    "id": "Lwl1agIsydc",
+    "title": "Why 90% of New Washing Machines Are Garbage (The Factory Secret)",
+    "meta": [
+     "343",
+     "1mo ago"
+    ],
+    "dur": "29:56",
+    "views_tab": 343
+   },
+   {
+    "id": "5IBgPM8aKNo",
+    "title": "Taking a walk with my dog \u200b\u200band his backpack",
+    "meta": [
+     "92",
+     "8mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 92
+   },
+   {
+    "id": "EBpQw2gdJfs",
+    "title": "exploring ancient ruins with my friends",
+    "meta": [
+     "15",
+     "8mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 15
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "EBpQw2gdJfs",
+    "title": "exploring ancient ruins with my friends",
+    "meta": [
+     "15",
+     "8mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 15
+   },
+   {
+    "id": "5IBgPM8aKNo",
+    "title": "Taking a walk with my dog \u200b\u200band his backpack",
+    "meta": [
+     "92",
+     "8mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 92
+   },
+   {
+    "id": "stbe2dL1wrI",
+    "title": "AVOID These Washing Machine Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "17K",
+     "2mo ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "hmKWsd2QAGs",
+    "title": "I've Repaired Hundreds of Washers \u2014 These Are the Only 4 I'd Actually Buy",
+    "meta": [
+     "137K",
+     "2mo ago"
+    ],
+    "dur": "30:07",
+    "views_tab": 137000
+   },
+   {
+    "id": "i61815HsBIw",
+    "title": "What's the BEST Refrigerator to Buy in 2026? The Truth Will SURPRISE You",
+    "meta": [
+     "4.7K",
+     "2mo ago"
+    ],
+    "dur": "29:54",
+    "views_tab": 4700
+   },
+   {
+    "id": "DIBzo3cxoX0",
+    "title": "I Don't Fix Refrigerators. These Are the Only 2 I'd Buy.",
+    "meta": [
+     "1.7K",
+     "2mo ago"
+    ],
+    "dur": "36:04",
+    "views_tab": 1700
+   },
+   {
+    "id": "EL79aw8Pl3o",
+    "title": "Appliances Made to BREAK \u2014 And What to Buy That's Built to LAST",
+    "meta": [
+     "580",
+     "2mo ago"
+    ],
+    "dur": "34:41",
+    "views_tab": 580
+   },
+   {
+    "id": "vBHrT6DDP88",
+    "title": "AVOID These TVs in 2026 \u2014 Every Buyer Must See This Warning First",
+    "meta": [
+     "2K",
+     "2mo ago"
+    ],
+    "dur": "34:58",
+    "views_tab": 2000
+   },
+   {
+    "id": "Lwl1agIsydc",
+    "title": "Why 90% of New Washing Machines Are Garbage (The Factory Secret)",
+    "meta": [
+     "343",
+     "1mo ago"
+    ],
+    "dur": "29:56",
+    "views_tab": 343
+   },
+   {
+    "id": "gNYpUtrC_CE",
+    "title": "The Only 3 Washer Brands Worth Buying in 2026 (And One to NEVER Buy)",
+    "meta": [
+     "20K",
+     "1mo ago"
+    ],
+    "dur": "31:14",
+    "views_tab": 20000
+   },
+   {
+    "id": "165UKmTnCAk",
+    "title": "7 Washing Machines That Will FAIL You in 2 Years (The \"Disposable\" List)",
+    "meta": [
+     "889",
+     "1mo ago"
+    ],
+    "dur": "29:40",
+    "views_tab": 889
+   },
+   {
+    "id": "8agCj58kA8c",
+    "title": "AVOID These Dryer Brands in 2026 \u2014 12 Brands Ranked Worst to Best",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "35:46",
+    "views_tab": 1300
+   },
+   {
+    "id": "d2TKpzl_W-k",
+    "title": "The Washing Machine Brands I Refuse to Repair (And the 2 That Never Break)",
+    "meta": [
+     "814",
+     "1mo ago"
+    ],
+    "dur": "35:28",
+    "views_tab": 814
+   },
+   {
+    "id": "g6HpNL84s7k",
+    "title": "One Company Secretly Makes Half the Washer Brands You Trust (The Brand Name Lie)",
+    "meta": [
+     "5.6K",
+     "1mo ago"
+    ],
+    "dur": "30:14",
+    "views_tab": 5600
+   }
+  ]
+ }
+}

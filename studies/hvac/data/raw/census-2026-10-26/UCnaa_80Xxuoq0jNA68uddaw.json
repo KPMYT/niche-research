@@ -1,0 +1,3925 @@
+{
+ "key": "UCnaa_80Xxuoq0jNA68uddaw",
+ "channel": "Missouri Wind and Solar",
+ "id": "UCnaa_80Xxuoq0jNA68uddaw",
+ "subs": "171K subscribers",
+ "videos": "528 videos",
+ "pulled": "2026-10-26T07:04:15.075471+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "6InjelIjW18",
+    "title": "Aims Solar Generator",
+    "meta": [
+     "847",
+     "2w ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 847
+   },
+   {
+    "id": "Rt4BeN1FOr0",
+    "title": "Keep your inverter safe by doing this!",
+    "meta": [
+     "1.3K",
+     "3w ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 1300
+   },
+   {
+    "id": "1rm5qPM6sQs",
+    "title": "Solar panel angle adjustment done the right way!",
+    "meta": [
+     "1.2K",
+     "3w ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 1200
+   },
+   {
+    "id": "56SmIETQCiA",
+    "title": "Power Meter",
+    "meta": [
+     "688",
+     "1mo ago"
+    ],
+    "dur": "1:43",
+    "views_tab": 688
+   },
+   {
+    "id": "IedVIiHoIgw",
+    "title": "Resistors- why and when",
+    "meta": [
+     "995",
+     "1mo ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 995
+   },
+   {
+    "id": "fg1zSA9tYe4",
+    "title": "Diversion controllers and lithium batteries",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 1300
+   },
+   {
+    "id": "4UiE1iUSs6U",
+    "title": "Water falling",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 1000
+   },
+   {
+    "id": "3NZpg9N2MJc",
+    "title": "State of charge",
+    "meta": [
+     "777",
+     "1mo ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 777
+   },
+   {
+    "id": "shsjdiIT_ts",
+    "title": "Getting started with your Victron Charge Controller",
+    "meta": [
+     "687",
+     "1mo ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 687
+   },
+   {
+    "id": "mycdFCxa7Zg",
+    "title": "Balcony Solar",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 1200
+   },
+   {
+    "id": "tOZgeSAKDms",
+    "title": "MPPT State of Charge",
+    "meta": [
+     "374",
+     "2mo ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 374
+   },
+   {
+    "id": "c9cai7HJjuw",
+    "title": "Bulk style diversion controller",
+    "meta": [
+     "504",
+     "2mo ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 504
+   },
+   {
+    "id": "Zf3xOmzsyJg",
+    "title": "PWM controllers",
+    "meta": [
+     "428",
+     "2mo ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 428
+   },
+   {
+    "id": "m8tDEm98J5A",
+    "title": "500th Video",
+    "meta": [
+     "304",
+     "2mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 304
+   },
+   {
+    "id": "wUelxyWgJEw",
+    "title": "Adding in your fuse",
+    "meta": [
+     "311",
+     "2mo ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 311
+   },
+   {
+    "id": "bQSz-ZlepkM",
+    "title": "Adding a Disconnect",
+    "meta": [
+     "317",
+     "2mo ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 317
+   },
+   {
+    "id": "9s8U33cPda0",
+    "title": "Implementing your inverter into your battery bank",
+    "meta": [
+     "671",
+     "2mo ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 671
+   },
+   {
+    "id": "5whe5HM28JY",
+    "title": "Battery Series VS Parallel",
+    "meta": [
+     "268",
+     "2mo ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 268
+   },
+   {
+    "id": "sgXk7FitKN8",
+    "title": "Lithium combiner",
+    "meta": [
+     "339",
+     "2mo ago"
+    ],
+    "dur": "0:31",
+    "views_tab": 339
+   },
+   {
+    "id": "IupKwxhHElM",
+    "title": "Pre-made cables and custom cables",
+    "meta": [
+     "163",
+     "2mo ago"
+    ],
+    "dur": "0:57",
+    "views_tab": 163
+   },
+   {
+    "id": "2pTjGdTpB7o",
+    "title": "Don't Forget about your pond.",
+    "meta": [
+     "228",
+     "2mo ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 228
+   },
+   {
+    "id": "3z_eU3r4NO0",
+    "title": "Explaining the numbers",
+    "meta": [
+     "310",
+     "3mo ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 310
+   },
+   {
+    "id": "Uo1rxYDWxP8",
+    "title": "Midnitepowerflo 16 sale!",
+    "meta": [
+     "278",
+     "3mo ago"
+    ],
+    "dur": "0:32",
+    "views_tab": 278
+   },
+   {
+    "id": "8fmHVkFts3U",
+    "title": "East or West what's best?",
+    "meta": [
+     "201",
+     "3mo ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 201
+   },
+   {
+    "id": "r78qGeq88vk",
+    "title": "Midnite breakers",
+    "meta": [
+     "284",
+     "3mo ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 284
+   },
+   {
+    "id": "o0VowW0hkG0",
+    "title": "Sol-Ark 12k New VS Old",
+    "meta": [
+     "915",
+     "4mo ago"
+    ],
+    "dur": "0:55",
+    "views_tab": 915
+   },
+   {
+    "id": "YA3DDcvFFQE",
+    "title": "Skymax 5k Parallel Setup.",
+    "meta": [
+     "467",
+     "5mo ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 467
+   },
+   {
+    "id": "cBIRmdxjKtU",
+    "title": "Aeration with the new Suntaqe! ",
+    "meta": [
+     "365",
+     "5mo ago"
+    ],
+    "dur": "0:36",
+    "views_tab": 365
+   },
+   {
+    "id": "mcubpn82fmU",
+    "title": "New VRD Setup",
+    "meta": [
+     "481",
+     "7mo ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 481
+   },
+   {
+    "id": "L87mrDOzaVQ",
+    "title": "How to Program a 12/24 volt DC Timer",
+    "meta": [
+     "497",
+     "7mo ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 497
+   }
+  ],
+  "Latest": [
+   {
+    "id": "6InjelIjW18",
+    "title": "Aims Solar Generator",
+    "meta": [
+     "847",
+     "2w ago"
+    ],
+    "dur": "2:33",
+    "views_tab": 847
+   },
+   {
+    "id": "Rt4BeN1FOr0",
+    "title": "Keep your inverter safe by doing this!",
+    "meta": [
+     "1.3K",
+     "3w ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 1300
+   },
+   {
+    "id": "1rm5qPM6sQs",
+    "title": "Solar panel angle adjustment done the right way!",
+    "meta": [
+     "1.2K",
+     "3w ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 1200
+   },
+   {
+    "id": "56SmIETQCiA",
+    "title": "Power Meter",
+    "meta": [
+     "688",
+     "1mo ago"
+    ],
+    "dur": "1:43",
+    "views_tab": 688
+   },
+   {
+    "id": "IedVIiHoIgw",
+    "title": "Resistors- why and when",
+    "meta": [
+     "995",
+     "1mo ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 995
+   },
+   {
+    "id": "fg1zSA9tYe4",
+    "title": "Diversion controllers and lithium batteries",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 1300
+   },
+   {
+    "id": "4UiE1iUSs6U",
+    "title": "Water falling",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 1000
+   },
+   {
+    "id": "3NZpg9N2MJc",
+    "title": "State of charge",
+    "meta": [
+     "777",
+     "1mo ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 777
+   },
+   {
+    "id": "shsjdiIT_ts",
+    "title": "Getting started with your Victron Charge Controller",
+    "meta": [
+     "687",
+     "1mo ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 687
+   },
+   {
+    "id": "mycdFCxa7Zg",
+    "title": "Balcony Solar",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 1200
+   },
+   {
+    "id": "tOZgeSAKDms",
+    "title": "MPPT State of Charge",
+    "meta": [
+     "374",
+     "2mo ago"
+    ],
+    "dur": "3:08",
+    "views_tab": 374
+   },
+   {
+    "id": "c9cai7HJjuw",
+    "title": "Bulk style diversion controller",
+    "meta": [
+     "504",
+     "2mo ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 504
+   },
+   {
+    "id": "Zf3xOmzsyJg",
+    "title": "PWM controllers",
+    "meta": [
+     "428",
+     "2mo ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 428
+   },
+   {
+    "id": "m8tDEm98J5A",
+    "title": "500th Video",
+    "meta": [
+     "304",
+     "2mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 304
+   },
+   {
+    "id": "wUelxyWgJEw",
+    "title": "Adding in your fuse",
+    "meta": [
+     "311",
+     "2mo ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 311
+   },
+   {
+    "id": "bQSz-ZlepkM",
+    "title": "Adding a Disconnect",
+    "meta": [
+     "317",
+     "2mo ago"
+    ],
+    "dur": "2:56",
+    "views_tab": 317
+   },
+   {
+    "id": "9s8U33cPda0",
+    "title": "Implementing your inverter into your battery bank",
+    "meta": [
+     "671",
+     "2mo ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 671
+   },
+   {
+    "id": "5whe5HM28JY",
+    "title": "Battery Series VS Parallel",
+    "meta": [
+     "268",
+     "2mo ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 268
+   },
+   {
+    "id": "sgXk7FitKN8",
+    "title": "Lithium combiner",
+    "meta": [
+     "339",
+     "2mo ago"
+    ],
+    "dur": "0:31",
+    "views_tab": 339
+   },
+   {
+    "id": "IupKwxhHElM",
+    "title": "Pre-made cables and custom cables",
+    "meta": [
+     "163",
+     "2mo ago"
+    ],
+    "dur": "0:57",
+    "views_tab": 163
+   },
+   {
+    "id": "2pTjGdTpB7o",
+    "title": "Don't Forget about your pond.",
+    "meta": [
+     "228",
+     "2mo ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 228
+   },
+   {
+    "id": "3z_eU3r4NO0",
+    "title": "Explaining the numbers",
+    "meta": [
+     "310",
+     "3mo ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 310
+   },
+   {
+    "id": "Uo1rxYDWxP8",
+    "title": "Midnitepowerflo 16 sale!",
+    "meta": [
+     "278",
+     "3mo ago"
+    ],
+    "dur": "0:32",
+    "views_tab": 278
+   },
+   {
+    "id": "8fmHVkFts3U",
+    "title": "East or West what's best?",
+    "meta": [
+     "201",
+     "3mo ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 201
+   },
+   {
+    "id": "r78qGeq88vk",
+    "title": "Midnite breakers",
+    "meta": [
+     "284",
+     "3mo ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 284
+   },
+   {
+    "id": "o0VowW0hkG0",
+    "title": "Sol-Ark 12k New VS Old",
+    "meta": [
+     "915",
+     "4mo ago"
+    ],
+    "dur": "0:55",
+    "views_tab": 915
+   },
+   {
+    "id": "YA3DDcvFFQE",
+    "title": "Skymax 5k Parallel Setup.",
+    "meta": [
+     "467",
+     "5mo ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 467
+   },
+   {
+    "id": "cBIRmdxjKtU",
+    "title": "Aeration with the new Suntaqe! ",
+    "meta": [
+     "365",
+     "5mo ago"
+    ],
+    "dur": "0:36",
+    "views_tab": 365
+   },
+   {
+    "id": "mcubpn82fmU",
+    "title": "New VRD Setup",
+    "meta": [
+     "481",
+     "7mo ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 481
+   },
+   {
+    "id": "L87mrDOzaVQ",
+    "title": "How to Program a 12/24 volt DC Timer",
+    "meta": [
+     "497",
+     "7mo ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 497
+   },
+   {
+    "id": "_nS_DJaBEaQ",
+    "title": "What is an Off-Grid system?",
+    "meta": [
+     "314",
+     "8mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 314
+   },
+   {
+    "id": "iR1UnZ0rc1s",
+    "title": "What is a hybrid system?",
+    "meta": [
+     "535",
+     "8mo ago"
+    ],
+    "dur": "1:29",
+    "views_tab": 535
+   },
+   {
+    "id": "oQ4JPLK44aI",
+    "title": "What is a grid tie system?",
+    "meta": [
+     "430",
+     "8mo ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 430
+   },
+   {
+    "id": "OrQts0xnfW4",
+    "title": "Missouri Wind and Solar's Goals for the DIY community.",
+    "meta": [
+     "306",
+     "8mo ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 306
+   },
+   {
+    "id": "nPIUl-goBuc",
+    "title": "Sizing a small system",
+    "meta": [
+     "543",
+     "9mo ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 543
+   },
+   {
+    "id": "qulxPk_Tbqs",
+    "title": "Solar system sizing! Things you have to know!",
+    "meta": [
+     "1K",
+     "11mo ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 1000
+   },
+   {
+    "id": "VRSh8ZtH9Fk",
+    "title": "How to properly install mc4 connectors on 8 gauge cable! ",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 2200
+   },
+   {
+    "id": "T7zW9yMn7xE",
+    "title": "PODCAST - Cable Sizing and How It Impacts Your Alternative Energy Installation (2017 12 13)",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "33:09",
+    "views_tab": 1600
+   },
+   {
+    "id": "wyDV0kXlFgE",
+    "title": "PODCAST - \ud83c\udf2c\ufe0f\u26a1 New Wind & Solar Classes + Should Your Home Run on DC Power?",
+    "meta": [
+     "667",
+     "1y ago"
+    ],
+    "dur": "29:18",
+    "views_tab": 667
+   },
+   {
+    "id": "1SbCV8qI00E",
+    "title": "PODCAST - Battery Voltage Issues in Solar Systems (originally broadcast 2021)",
+    "meta": [
+     "380",
+     "1y ago"
+    ],
+    "dur": "17:17",
+    "views_tab": 380
+   },
+   {
+    "id": "0lbnX7jshaw",
+    "title": "PODCAST - Lightning & Solar: Protect Your Energy Investments (originally broadcast 2021)",
+    "meta": [
+     "224",
+     "1y ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 224
+   },
+   {
+    "id": "EIqMvCqA_LA",
+    "title": "PODCAST - Why Now is the Time to Invest in Wind & Solar (originally broadcast 2021)",
+    "meta": [
+     "312",
+     "1y ago"
+    ],
+    "dur": "23:18",
+    "views_tab": 312
+   },
+   {
+    "id": "_R8f0EVJ7mc",
+    "title": "PODCAST - Solar Pool Heating Myths Debunked! (originally broadcast 2021)",
+    "meta": [
+     "238",
+     "1y ago"
+    ],
+    "dur": "17:20",
+    "views_tab": 238
+   },
+   {
+    "id": "So97RasVBWQ",
+    "title": "PODCAST - Renewable Energy Maintenance Tips with Wes & David (originally broadcast 2021)",
+    "meta": [
+     "226",
+     "1y ago"
+    ],
+    "dur": "19:05",
+    "views_tab": 226
+   },
+   {
+    "id": "5yg1fIeLOAI",
+    "title": "PODCAST - Wind Turbine Towers: Expert Tips from Missouri Wind and Solar (originally broadcast 2021)",
+    "meta": [
+     "345",
+     "1y ago"
+    ],
+    "dur": "23:40",
+    "views_tab": 345
+   },
+   {
+    "id": "5lqIcPh-N4o",
+    "title": "PODCAST - Renewable Energy & TV Fame with Missouri Wind and Solar (originally broadcast 2021)",
+    "meta": [
+     "199",
+     "1y ago"
+    ],
+    "dur": "15:52",
+    "views_tab": 199
+   },
+   {
+    "id": "zVgOsTXslY8",
+    "title": "PODCAST - Battery Basics with Missouri Wind & Solar (originally broadcast 2021)",
+    "meta": [
+     "283",
+     "1y ago"
+    ],
+    "dur": "17:08",
+    "views_tab": 283
+   },
+   {
+    "id": "NigY6ViHuuo",
+    "title": "PODCAST - Battery Woes & Waterfalling Fixes (originally broadcast 2021)",
+    "meta": [
+     "174",
+     "1y ago"
+    ],
+    "dur": "17:19",
+    "views_tab": 174
+   },
+   {
+    "id": "Jq5IdJVqotU",
+    "title": "PODCAST - Battery Basics: Car vs. Deep Cycle for Solar (originally broadcast 2021)",
+    "meta": [
+     "329",
+     "1y ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 329
+   },
+   {
+    "id": "vAvB3O5vqfQ",
+    "title": "PODCAST - Exploring Hertz & Ohms in Solar Energy (originally broadcast 2021)",
+    "meta": [
+     "210",
+     "1y ago"
+    ],
+    "dur": "18:51",
+    "views_tab": 210
+   },
+   {
+    "id": "hKgP1uTSDso",
+    "title": "PODCAST - Winterizing Your Solar & Pond Systems (originally broadcast 2021)",
+    "meta": [
+     "178",
+     "1y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 178
+   },
+   {
+    "id": "Fd8ODVTTUKQ",
+    "title": "PODCAST - Solar Storms & EMPs: Protecting Your Energy (originally broadcast 2021)",
+    "meta": [
+     "236",
+     "1y ago"
+    ],
+    "dur": "19:24",
+    "views_tab": 236
+   },
+   {
+    "id": "ciYUd9Bu-aM",
+    "title": "PODCAST - Surviving CMEs & EMPs: Protect Your Solar Setup (originally broadcast 2021)",
+    "meta": [
+     "266",
+     "1y ago"
+    ],
+    "dur": "25:37",
+    "views_tab": 266
+   },
+   {
+    "id": "Yx9LRCoNNCQ",
+    "title": "PODCAST - Hydro Power Unveiled: Sustainable Energy Secrets (originally broadcast 2021)",
+    "meta": [
+     "265",
+     "1y ago"
+    ],
+    "dur": "22:29",
+    "views_tab": 265
+   },
+   {
+    "id": "MVcPPI87yG0",
+    "title": "PODCAST - Debunking Myths About Wind & Solar Power (originally broadcast 2021)",
+    "meta": [
+     "290",
+     "1y ago"
+    ],
+    "dur": "21:24",
+    "views_tab": 290
+   },
+   {
+    "id": "qNzdHfxnDF8",
+    "title": "PODCAST - Debunking Alternative Energy Myths (originally broadcast 2021)",
+    "meta": [
+     "275",
+     "1y ago"
+    ],
+    "dur": "25:50",
+    "views_tab": 275
+   },
+   {
+    "id": "8Z1eDssFiVU",
+    "title": "PODCAST - Lithium Battery Secrets Revealed! (originally broadcast 2021)",
+    "meta": [
+     "205",
+     "1y ago"
+    ],
+    "dur": "27:14",
+    "views_tab": 205
+   },
+   {
+    "id": "2VC4b-imWO0",
+    "title": "PODCAST - Wind & Solar Energy:3-PAL Controller Insights (originally broadcast 2022)",
+    "meta": [
+     "116",
+     "1y ago"
+    ],
+    "dur": "12:52",
+    "views_tab": 116
+   },
+   {
+    "id": "sLtYY16OQEY",
+    "title": "PODCAST - Exploring Ferrite Cores for Solar Energy Protection (originally broadcast 2022)",
+    "meta": [
+     "442",
+     "1y ago"
+    ],
+    "dur": "24:24",
+    "views_tab": 442
+   },
+   {
+    "id": "zwJCLdyZWnQ",
+    "title": "PODCAST - Off-Grid Living: Wes Shank\u2019s Solar-Powered Home (originally broadcast 2022)",
+    "meta": [
+     "298",
+     "1y ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 298
+   },
+   {
+    "id": "JPCoCSvtob4",
+    "title": "PODCAST - Living Off-Grid: Powering with Solar and Outback Systems (originally broadcast 2022)",
+    "meta": [
+     "270",
+     "1y ago"
+    ],
+    "dur": "26:27",
+    "views_tab": 270
+   },
+   {
+    "id": "oBaZP_VJ8L8",
+    "title": "PODCAST - Powering Off-Grid: Dive into DIY Lithium Batteries (originally broadcast 2022)",
+    "meta": [
+     "291",
+     "1y ago"
+    ],
+    "dur": "36:50",
+    "views_tab": 291
+   },
+   {
+    "id": "16JU5samuXY",
+    "title": "Energy Independence: DIY Solar & Wind Power",
+    "meta": [
+     "573",
+     "1y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 573
+   },
+   {
+    "id": "lTZNmZR5CI4",
+    "title": "PODCAST - Unpacking 12V, 24V, & 48V Systems for Wind and Solar Energy (originally broadcast 2020)",
+    "meta": [
+     "361",
+     "1y ago"
+    ],
+    "dur": "36:32",
+    "views_tab": 361
+   },
+   {
+    "id": "MLwUEnDMGgw",
+    "title": "DIY Home Power Solutions with Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "0:31",
+    "views_tab": 11000
+   },
+   {
+    "id": "17nK7lPZGwU",
+    "title": "PODCAST - California's NEM 3.0: Why Compliant Batteries Are a Must (originally broadcast 2023)",
+    "meta": [
+     "217",
+     "1y ago"
+    ],
+    "dur": "20:12",
+    "views_tab": 217
+   },
+   {
+    "id": "7eT9vO59eU8",
+    "title": "PODCAST - Peukert\u2019s Law: Maximize Your Solar Battery Efficiency (originally broadcast 2023)",
+    "meta": [
+     "297",
+     "1y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 297
+   },
+   {
+    "id": "vPVMMqkemoE",
+    "title": "PODCAST - Why Wind Turbines Are Essential for Off-Grid Solar Systems 2023 01 24",
+    "meta": [
+     "302",
+     "1y ago"
+    ],
+    "dur": "13:48",
+    "views_tab": 302
+   },
+   {
+    "id": "tdrkZliMpKg",
+    "title": "PODCAST - California\u2019s NEM 3.0: The Battery Rush Begins (originally broadcast 2023)",
+    "meta": [
+     "297",
+     "1y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 297
+   },
+   {
+    "id": "XpwfpC_vrGU",
+    "title": "PODCAST - Why Car Batteries Fail in Solar Systems (originally broadcast 2023)",
+    "meta": [
+     "306",
+     "1y ago"
+    ],
+    "dur": "11:36",
+    "views_tab": 306
+   },
+   {
+    "id": "2SKPKV5xUuI",
+    "title": "PODCAST - Winter Energy Demands: Powering Your Off-Grid System (originally broadcast 2023)",
+    "meta": [
+     "332",
+     "1y ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 332
+   },
+   {
+    "id": "Sq7t1trbZ2Y",
+    "title": "PODCAST - High vs. Low Frequency Inverters: What\u2019s the Difference? 2022 12 27",
+    "meta": [
+     "490",
+     "1y ago"
+    ],
+    "dur": "19:34",
+    "views_tab": 490
+   },
+   {
+    "id": "5Oh8tCPTP2s",
+    "title": "PODCAST - Unlocking Solar Efficiency: Bypass Diodes Explained 26 2 4 25 Done",
+    "meta": [
+     "298",
+     "1y ago"
+    ],
+    "dur": "13:07",
+    "views_tab": 298
+   },
+   {
+    "id": "08DavXxEgww",
+    "title": "PODCAST - What Is A \"Reman\" Panel 2023 04 25",
+    "meta": [
+     "158",
+     "1y ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 158
+   },
+   {
+    "id": "2BNn0jDgSXE",
+    "title": "PODCAST - Alternative Energy Trends: Solar Panels, Batteries, and the DIY Revolution (2022 05 25)",
+    "meta": [
+     "254",
+     "1y ago"
+    ],
+    "dur": "18:21",
+    "views_tab": 254
+   },
+   {
+    "id": "VbJmWoUQwCs",
+    "title": "PODCAST - What are the differences between hybrid and grid tied? (2022 12 14)",
+    "meta": [
+     "337",
+     "1y ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 337
+   },
+   {
+    "id": "v9wYcx5CR2U",
+    "title": "PODCAST - If Lithium Batteries Are So Great, Why Would I Consider Something Else? (2022 08 31)",
+    "meta": [
+     "304",
+     "1y ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 304
+   },
+   {
+    "id": "o24aivq57Mk",
+    "title": "PODCAST - Can I Sneak By With An Undersized System? (2022 08 24)",
+    "meta": [
+     "198",
+     "1y ago"
+    ],
+    "dur": "17:13",
+    "views_tab": 198
+   },
+   {
+    "id": "03uyMiks3yY",
+    "title": "PODCAST - Why Do Batteries Sleep And How Do You Wake Them Up? 2022 12 21",
+    "meta": [
+     "241",
+     "1y ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 241
+   },
+   {
+    "id": "t6vYEcY9OiM",
+    "title": "PODCAST - Is Sol-Ark Right For Me? (2022 08 17)",
+    "meta": [
+     "161",
+     "1y ago"
+    ],
+    "dur": "14:03",
+    "views_tab": 161
+   },
+   {
+    "id": "0xuSjmlOzLU",
+    "title": "PODCAST - Should You Update Your Solar Inverter and Batteries? 28 2 4 25 Done",
+    "meta": [
+     "112",
+     "1y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 112
+   },
+   {
+    "id": "U6w2k6lNqqw",
+    "title": "How To Make MC4 Connections",
+    "meta": [
+     "4.9K",
+     "1y ago"
+    ],
+    "dur": "5:27",
+    "views_tab": 4900
+   },
+   {
+    "id": "0UmsjhYdx38",
+    "title": "PODCAST - What Should You Know About Bi-Facial Solar Panels",
+    "meta": [
+     "258",
+     "1y ago"
+    ],
+    "dur": "16:52",
+    "views_tab": 258
+   },
+   {
+    "id": "jsWX9T6CVBQ",
+    "title": "PODCAST - All-in-One vs. Modular Solar Systems: Which is Best for You?",
+    "meta": [
+     "331",
+     "1y ago"
+    ],
+    "dur": "20:18",
+    "views_tab": 331
+   },
+   {
+    "id": "0U3G2WzXw6U",
+    "title": "PODCAST - What Is A Rectifier? (2022 05 18)",
+    "meta": [
+     "192",
+     "1y ago"
+    ],
+    "dur": "11:18",
+    "views_tab": 192
+   },
+   {
+    "id": "JqRKyJQtHmE",
+    "title": "PODCAST - What Does Efficiency Mean In Alternative Energy? (2022 05 11)",
+    "meta": [
+     "160",
+     "1y ago"
+    ],
+    "dur": "14:19",
+    "views_tab": 160
+   },
+   {
+    "id": "18RzDSstr0Y",
+    "title": "PODCAST - A Chat With Sol-Ark: An Interview with Mark Crinella  (2023 03 15)",
+    "meta": [
+     "170",
+     "1y ago"
+    ],
+    "dur": "26:52",
+    "views_tab": 170
+   },
+   {
+    "id": "8Ijm61znS3U",
+    "title": "PODCAST - A Chat With Fortress Power (2023 03 22)",
+    "meta": [
+     "149",
+     "1y ago"
+    ],
+    "dur": "33:05",
+    "views_tab": 149
+   },
+   {
+    "id": "zkiPbTmd6W0",
+    "title": "PODCAST - Why Would I Oversize My Production? (05/09/2023)",
+    "meta": [
+     "282",
+     "1y ago"
+    ],
+    "dur": "13:30",
+    "views_tab": 282
+   },
+   {
+    "id": "eVW9vY8SbU0",
+    "title": "PODCAST - What Is Peak Shaving And How Does It Impact Your Bill? (2023 05 02)",
+    "meta": [
+     "246",
+     "1y ago"
+    ],
+    "dur": "13:23",
+    "views_tab": 246
+   },
+   {
+    "id": "sxb5ZjXvHTc",
+    "title": "PODCAST - Are Lithium-Ion Batteries Everything They\u2019re Cracked Up To Be? (2023 02 28)",
+    "meta": [
+     "548",
+     "1y ago"
+    ],
+    "dur": "18:58",
+    "views_tab": 548
+   },
+   {
+    "id": "zC4xq5bCHbE",
+    "title": "PODCAST - What Do I Need To Take Into Consideration When Adding To My System? (2023 02 06)",
+    "meta": [
+     "301",
+     "1y ago"
+    ],
+    "dur": "18:44",
+    "views_tab": 301
+   },
+   {
+    "id": "FVCmTUvVVJY",
+    "title": "PODCAST - It\u2019s Not About The Amperage! (2023 04 18)",
+    "meta": [
+     "235",
+     "1y ago"
+    ],
+    "dur": "20:48",
+    "views_tab": 235
+   },
+   {
+    "id": "FZ-bCeZ2gpQ",
+    "title": "PODCAST - What Is The Difference Between a 12, 24 and 48 Volt Wind Turbine? (2023 05 22)",
+    "meta": [
+     "1.2K",
+     "1y ago"
+    ],
+    "dur": "18:32",
+    "views_tab": 1200
+   },
+   {
+    "id": "H7RxVMvrdXE",
+    "title": "PODCAST - Learn About Our Soon To Be Released, Low-Cost Inverter (2023 06 05)",
+    "meta": [
+     "189",
+     "1y ago"
+    ],
+    "dur": "17:25",
+    "views_tab": 189
+   },
+   {
+    "id": "NWXNH-M6qcU",
+    "title": "PODCAST - How Does My Battery Technology Handle Cold Weather? (2023 02 21)",
+    "meta": [
+     "267",
+     "1y ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 267
+   },
+   {
+    "id": "zBK2LE0tZjc",
+    "title": "Pond Aeration",
+    "meta": [
+     "278",
+     "1y ago"
+    ],
+    "dur": "33:32",
+    "views_tab": 278
+   },
+   {
+    "id": "XmF2jdSDZBg",
+    "title": "Pytes 48V 100AH 5.12kWh LiFePO4 Server Rack Battery | Missouri Wind and Solar",
+    "meta": [
+     "8.5K",
+     "3y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 8500
+   },
+   {
+    "id": "6h73o5OXcvk",
+    "title": "Sol-Ark 15K In Parallel In Action",
+    "meta": [
+     "8.8K",
+     "3y ago"
+    ],
+    "dur": "4:35",
+    "views_tab": 8800
+   },
+   {
+    "id": "Z5BfUFL-Q5w",
+    "title": "What Smartphone Apps Are Available For My Wind and Solar System?",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 1300
+   },
+   {
+    "id": "oc5siH2um_o",
+    "title": "Can you have power without having to have batteries?",
+    "meta": [
+     "3.2K",
+     "3y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 3200
+   },
+   {
+    "id": "axbGGVJKAco",
+    "title": "What are the differences in solar panel sizes?",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "4:43",
+    "views_tab": 17000
+   },
+   {
+    "id": "T6UapRvqj2Q",
+    "title": "What is the difference between low and high frequency inverters?",
+    "meta": [
+     "2.6K",
+     "3y ago"
+    ],
+    "dur": "19:34",
+    "views_tab": 2600
+   },
+   {
+    "id": "Y49GpDRxiyU",
+    "title": "How Sol-Ark Is Impacting The Alternative Energy Market",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 5100
+   },
+   {
+    "id": "6VxTMYPbQz8",
+    "title": "What are the different types of battery technology?",
+    "meta": [
+     "2.1K",
+     "3y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 2100
+   },
+   {
+    "id": "ezjo5TREE14",
+    "title": "What should my alternative energy system cost?",
+    "meta": [
+     "1.9K",
+     "4y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 1900
+   },
+   {
+    "id": "s1p5_nTy3w4",
+    "title": "How can you pay for your alternative energy system?",
+    "meta": [
+     "1.2K",
+     "4y ago"
+    ],
+    "dur": "6:16",
+    "views_tab": 1200
+   },
+   {
+    "id": "IWJ22XD00RE",
+    "title": "Some Confusing Feedback From The Homesteading Expo",
+    "meta": [
+     "1.3K",
+     "4y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 1300
+   },
+   {
+    "id": "ZKmJSHJo2Rc",
+    "title": "What Are The Basics Of Solar And How Is It Scalable?",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 1500
+   },
+   {
+    "id": "Dh7tgMzX-lk",
+    "title": "How Do Wind Turbines Fit Into My Alternative Energy Plan?",
+    "meta": [
+     "4.4K",
+     "4y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 4400
+   },
+   {
+    "id": "gX76f6DPT64",
+    "title": "Will A Grid-Tied System Work For You?",
+    "meta": [
+     "1.7K",
+     "4y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 1700
+   },
+   {
+    "id": "oNBuFAPqfPo",
+    "title": "Check Out What's Happening!!",
+    "meta": [
+     "1.3K",
+     "4y ago"
+    ],
+    "dur": "5:41",
+    "views_tab": 1300
+   },
+   {
+    "id": "wzFRWya9JS4",
+    "title": "Where does Missouri Wind and Solar ship?",
+    "meta": [
+     "1.6K",
+     "4y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 1600
+   },
+   {
+    "id": "dZ2_wBdPO04",
+    "title": "How does Missouri Wind and Solar support their systems?",
+    "meta": [
+     "2.5K",
+     "4y ago"
+    ],
+    "dur": "2:14",
+    "views_tab": 2500
+   },
+   {
+    "id": "NEg7573kJ8g",
+    "title": "Are solar panels getting tougher to get?",
+    "meta": [
+     "1.7K",
+     "4y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 1700
+   },
+   {
+    "id": "suspiZCWx2g",
+    "title": "What Does An Off Grid, Earth Berm Home Look Like - Solar",
+    "meta": [
+     "2.1K",
+     "4y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 2100
+   },
+   {
+    "id": "vmAKM4mqePA",
+    "title": "What Does An Off Grid, Earth Berm Home Look Like - Wind",
+    "meta": [
+     "1.9K",
+     "4y ago"
+    ],
+    "dur": "3:56",
+    "views_tab": 1900
+   },
+   {
+    "id": "sBzu8vtDrbY",
+    "title": "What Does An Off Grid, Earth Berm Home Look Like - Mechanical Room",
+    "meta": [
+     "2K",
+     "4y ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 2000
+   },
+   {
+    "id": "6bT2rT-Y1_E",
+    "title": "What Does An Off Grid, Earth Berm Home Look Like?",
+    "meta": [
+     "4.8K",
+     "4y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 4800
+   },
+   {
+    "id": "v4pONGjMpIg",
+    "title": "How do electric vehicles (EVs) figure into my alternative energy plan?",
+    "meta": [
+     "1.3K",
+     "4y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 1300
+   }
+  ],
+  "Popular": [
+   {
+    "id": "7WC-gGb0YNY",
+    "title": "Cut Electric Bill in Half | Central Air Conditioner Cool n Save | Missouri Wind and Solar",
+    "meta": [
+     "5.8M",
+     "9y ago"
+    ],
+    "dur": "8:58",
+    "views_tab": 5800000
+   },
+   {
+    "id": "mTBy3oIOgKg",
+    "title": "DIY How to Cut Electric Bill in Half: Part 3 Clothes Dryer Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "5M",
+     "11y ago"
+    ],
+    "dur": "11:28",
+    "views_tab": 5000000
+   },
+   {
+    "id": "opP13e-TvHM",
+    "title": "Micro Wind Turbines for the Beginner: How To Part 1 | Missouri Wind and Solar",
+    "meta": [
+     "1.9M",
+     "13y ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 1900000
+   },
+   {
+    "id": "KzIY4g6s1Dw",
+    "title": "DIY How to Cut Electric Bill in Half: Part 1 Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "1.8M",
+     "13y ago"
+    ],
+    "dur": "28:34",
+    "views_tab": 1800000
+   },
+   {
+    "id": "2Sfo-hjDb0o",
+    "title": "How to Heat & Cool Home for Free | Missouri Wind & Solar",
+    "meta": [
+     "1.7M",
+     "10y ago"
+    ],
+    "dur": "23:58",
+    "views_tab": 1700000
+   },
+   {
+    "id": "Ar16u9GqPQs",
+    "title": "DIY How to Cut Electric Bill in Half: Part 5 Air Conditioning Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "1.3M",
+     "13y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1300000
+   },
+   {
+    "id": "EyxWu2RVQYo",
+    "title": "Solar Panels for the Beginner How To: Part 1 DIY Simple Instructions | Missouri Wind and Solar",
+    "meta": [
+     "1.3M",
+     "13y ago"
+    ],
+    "dur": "18:40",
+    "views_tab": 1300000
+   },
+   {
+    "id": "iGCMwsDYmAw",
+    "title": "DC Water Heater Element Solar Hot Water: Make Free Heat | Missouri Wind and Solar",
+    "meta": [
+     "531K",
+     "12y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 531000
+   },
+   {
+    "id": "o4O7P9LElM8",
+    "title": "DIY How to Cut Electric Bill in Half: Part 2 Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "517K",
+     "12y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 517000
+   },
+   {
+    "id": "7v2JcXYDLpo",
+    "title": "Micro Wind Turbines- Are They Worth it? (Off Grid Solar) | Missouri Wind and Solar",
+    "meta": [
+     "398K",
+     "7y ago"
+    ],
+    "dur": "13:42",
+    "views_tab": 398000
+   },
+   {
+    "id": "Fw1UYXyzpLA",
+    "title": "How to Build a Permanent Magnet Alternator PMA | Missouri Wind and Solar",
+    "meta": [
+     "376K",
+     "13y ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 376000
+   },
+   {
+    "id": "S93wbGlzsJg",
+    "title": "Sun Grid Tie Inverter Plug and Play Install | Missouri Wind and Solar",
+    "meta": [
+     "308K",
+     "12y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 308000
+   },
+   {
+    "id": "USR2qCCVH74",
+    "title": "Solar Panels For The Beginner How To: Part 2 DIY Simple Instructions | Missouri Wind and Solar",
+    "meta": [
+     "237K",
+     "13y ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 237000
+   },
+   {
+    "id": "roT0PppSePU",
+    "title": "MRCOOL DIY Mini Split for Off Grid Living: Are They Worth it? | Missouri Wind and Solar",
+    "meta": [
+     "228K",
+     "7y ago"
+    ],
+    "dur": "23:32",
+    "views_tab": 228000
+   },
+   {
+    "id": "Ouls4O2HJFk",
+    "title": "Solar Panel Install to SkyMax Grid Tie Inverter DIY How To | Missouri Wind and Solar",
+    "meta": [
+     "217K",
+     "12y ago"
+    ],
+    "dur": "12:27",
+    "views_tab": 217000
+   },
+   {
+    "id": "UoorRPeoC0s",
+    "title": "Wind Turbine SkyMax\u2122 Pegasus 1500 Watt Install | Missouri Wind and Solar",
+    "meta": [
+     "203K",
+     "12y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 203000
+   },
+   {
+    "id": "BG-vQZMhWcs",
+    "title": "How to Build a Portable Solar Hot Water Heater | Missouri Wind and Solar",
+    "meta": [
+     "184K",
+     "10y ago"
+    ],
+    "dur": "16:03",
+    "views_tab": 184000
+   },
+   {
+    "id": "_RA6SSnuYDE",
+    "title": "Solar Panel Micro Grid Tie Inverter Plugs into Wall Outlet DIY | Missouri Wind and Solar",
+    "meta": [
+     "173K",
+     "13y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 173000
+   },
+   {
+    "id": "2k5XaPImhK0",
+    "title": "Solar Time Tracker | Missouri Wind and Solar",
+    "meta": [
+     "157K",
+     "10y ago"
+    ],
+    "dur": "13:56",
+    "views_tab": 157000
+   },
+   {
+    "id": "KvbsxZX4waI",
+    "title": "Solar Panels for the Beginner How To: Part 3 DIY | Missouri Wind and Solar",
+    "meta": [
+     "156K",
+     "12y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 156000
+   },
+   {
+    "id": "PwedoZZHadY",
+    "title": "Free Electricity? Over Unity? Amplidyne? Does it Work | Missouri Wind and Solar",
+    "meta": [
+     "150K",
+     "12y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 150000
+   },
+   {
+    "id": "HixObD6bans",
+    "title": "Where to Install a Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "145K",
+     "11y ago"
+    ],
+    "dur": "24:48",
+    "views_tab": 145000
+   },
+   {
+    "id": "KAr6_Ir_hP4",
+    "title": "Wind Turbine Freedom II PMG Permanent Magnet Generator Latest on Market | Missouri Wind and Solar",
+    "meta": [
+     "142K",
+     "12y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 142000
+   },
+   {
+    "id": "qEwkryKsZvQ",
+    "title": "Wind Turbine Grid Tie Inverter: How to Install | Missouri Wind and Solar",
+    "meta": [
+     "126K",
+     "12y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 126000
+   },
+   {
+    "id": "4JSZSZR0qTU",
+    "title": "Solar Pond Aeration No Batteries Suntaqe PWB Controller | Missouri Wind and Solar",
+    "meta": [
+     "123K",
+     "12y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 123000
+   },
+   {
+    "id": "sNwU3_EVSDs",
+    "title": "DIY Batteries for Beginners How to | Missouri Wind and Solar",
+    "meta": [
+     "120K",
+     "11y ago"
+    ],
+    "dur": "12:05",
+    "views_tab": 120000
+   },
+   {
+    "id": "7TkZ6eLhlGo",
+    "title": "How to Hook a Wind Turbine and Solar to Battery | Missouri Wind and Solar",
+    "meta": [
+     "119K",
+     "13y ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 119000
+   },
+   {
+    "id": "rTgWefUkdbA",
+    "title": "DIY How to Cut Electric Bill in Half: Part 4 Water Saving Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "109K",
+     "11y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 109000
+   },
+   {
+    "id": "jFjgpIcq5tY",
+    "title": "Free Energy Bicycle Generator Make Free Electricity | Missouri Wind and Solar",
+    "meta": [
+     "109K",
+     "10y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 109000
+   },
+   {
+    "id": "5waI39z0EEY",
+    "title": "Solar Panel Broken and Blocking Diodes How To Fix Repair | Missouri Wind and Solar",
+    "meta": [
+     "101K",
+     "12y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 101000
+   },
+   {
+    "id": "-mB-2twWRDI",
+    "title": "DIY: How to Build a 200 Watt Solar Panel Kit | Missouri Wind and Solar",
+    "meta": [
+     "97K",
+     "13y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 97000
+   },
+   {
+    "id": "xQ8kvHj_JSs",
+    "title": "Wind Turbine PMG New Permanent Magnet Generator | Missouri Wind and Solar",
+    "meta": [
+     "96K",
+     "12y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 96000
+   },
+   {
+    "id": "OKXj0p2gc1g",
+    "title": "6000W Solar Inverter Charger for On/Off Grid Living Split Phase 120/240V | Missouri Wind and Solar",
+    "meta": [
+     "96K",
+     "13y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 96000
+   },
+   {
+    "id": "YZKaZfEZHro",
+    "title": "How to Plug in Grid Tie Inverter to Solar Panels PV: Turn Meter Backwards | Missouri Wind and Solar",
+    "meta": [
+     "91K",
+     "13y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 91000
+   },
+   {
+    "id": "xf131Rl5AAM",
+    "title": "Solar Panels for the Beginner Part 6 Harbor Freight | Missouri Wind and Solar",
+    "meta": [
+     "82K",
+     "10y ago"
+    ],
+    "dur": "14:59",
+    "views_tab": 82000
+   },
+   {
+    "id": "kZ1BzbzdrGY",
+    "title": "Solar Panel Pond Aeration No Battery Using Suntaqe System: Part 2 | Missouri Wind and Solar",
+    "meta": [
+     "80K",
+     "12y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 80000
+   },
+   {
+    "id": "MMk0J6CcaGM",
+    "title": "Solar Panels for the Beginner How To: Part 4 DIY | Missouri Wind and Solar",
+    "meta": [
+     "77K",
+     "12y ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 77000
+   },
+   {
+    "id": "N3AbqmMrk7k",
+    "title": "Cheap Wind Turbines - Are They a Scam? | Missouri Wind and Solar",
+    "meta": [
+     "77K",
+     "6y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 77000
+   },
+   {
+    "id": "40W1Jx3mjU4",
+    "title": "DC Freezer Refrigerator | Missouri Wind and Solar",
+    "meta": [
+     "77K",
+     "10y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 77000
+   },
+   {
+    "id": "m4Q1-XMoKHY",
+    "title": "Wind Turbine Assembly Freedom and Freedom ll PMG Galvanized | Missouri Wind and Solar",
+    "meta": [
+     "76K",
+     "12y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 76000
+   },
+   {
+    "id": "FeVjAdBG5Z4",
+    "title": "Save Electricity Use 4' LED Light Tubes by Hyperikon | Missouri Wind and Solar",
+    "meta": [
+     "74K",
+     "10y ago"
+    ],
+    "dur": "9:58",
+    "views_tab": 74000
+   },
+   {
+    "id": "jHMPZAlWmc8",
+    "title": "SkyMax\u2122 Wind Turbine Roof Mount for Residential Roof Tops | Missouri Wind and Solar",
+    "meta": [
+     "74K",
+     "12y ago"
+    ],
+    "dur": "10:21",
+    "views_tab": 74000
+   },
+   {
+    "id": "7xtxo7aJmnA",
+    "title": "New Pond Aeration Kit with Solar Panel | Missouri Wind and Solar",
+    "meta": [
+     "72K",
+     "11y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 72000
+   },
+   {
+    "id": "MEIt-OscGsU",
+    "title": "Axial Flux Wind Turbine Install with Midnite Classic 150 | Missouri Wind and Solar",
+    "meta": [
+     "72K",
+     "12y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 72000
+   },
+   {
+    "id": "M6ir1Jfkz4U",
+    "title": "How to Desulfate a Lead Acid Battery PulseTech | Missouri Wind and Solar",
+    "meta": [
+     "71K",
+     "10y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 71000
+   },
+   {
+    "id": "sAi9xQ0-e0k",
+    "title": "Solar Charge Controllers for the Beginner DIY How To | Missouri Wind and Solar",
+    "meta": [
+     "70K",
+     "9y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 70000
+   },
+   {
+    "id": "aoSVUXBEO28",
+    "title": "Pond Water Aeration: How To Build a Solar Battery Box | Missouri Wind and Solar",
+    "meta": [
+     "68K",
+     "12y ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 68000
+   },
+   {
+    "id": "wbhoWduNVpw",
+    "title": "Wind Turbine Solar Panel LED Digital Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "67K",
+     "12y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 67000
+   },
+   {
+    "id": "2z_097mW0l0",
+    "title": "Wind Turbine Divert Dump Load Resistors | Missouri Wind and Solar",
+    "meta": [
+     "67K",
+     "13y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 67000
+   },
+   {
+    "id": "BFsxNh-xl2A",
+    "title": "Solar Panels for the Beginner: How To Part 5 DIY | Missouri Wind and Solar",
+    "meta": [
+     "65K",
+     "12y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 65000
+   },
+   {
+    "id": "rL7vBaP3jfA",
+    "title": "DIY Dryer Lint Bucket Free Heat | Missouri Wind and Solar",
+    "meta": [
+     "61K",
+     "10y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 61000
+   },
+   {
+    "id": "TT-FmSgqNTI",
+    "title": "All In One Digital Charge Controller Board | Missouri Wind and Solar",
+    "meta": [
+     "61K",
+     "9y ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 61000
+   },
+   {
+    "id": "S3Nd3LS0t1Q",
+    "title": "DIY How to Cut Electric Bill in Half: Part 6 Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "60K",
+     "10y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 60000
+   },
+   {
+    "id": "ZBxHxMz_Gq4",
+    "title": "Solar and Wind Turbine Charge Controller: What Will it Run? | Missouri Wind and Solar",
+    "meta": [
+     "60K",
+     "13y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 60000
+   },
+   {
+    "id": "K63CGTkiVNs",
+    "title": "DC to AC Inverter Fuse and Cable Sizing | Missouri Wind and Solar",
+    "meta": [
+     "56K",
+     "9y ago"
+    ],
+    "dur": "6:46",
+    "views_tab": 56000
+   },
+   {
+    "id": "GaBiGC0r8XE",
+    "title": "General Freedom ll PMG Wind Turbine Output | Missouri Wind and Solar",
+    "meta": [
+     "55K",
+     "12y ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 55000
+   },
+   {
+    "id": "KgKnyGXBqUI",
+    "title": "Solar Panel Top of Pole PV Mount | Missouri Wind and Solar",
+    "meta": [
+     "54K",
+     "11y ago"
+    ],
+    "dur": "6:35",
+    "views_tab": 54000
+   },
+   {
+    "id": "M-l1vAAmsl0",
+    "title": "How to Build Portable Solar Battery Charger for Aliner Ranger, Boat or RV | Missouri Wind and Solar",
+    "meta": [
+     "52K",
+     "8y ago"
+    ],
+    "dur": "30:48",
+    "views_tab": 52000
+   },
+   {
+    "id": "p2PxJRHaLuc",
+    "title": "New Freedom Wind Turbine Assembly | Missouri Wind and Solar",
+    "meta": [
+     "51K",
+     "12y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 51000
+   },
+   {
+    "id": "a2FMuWRcGzI",
+    "title": "Dual Freedom ll Hybrid Wind & Solar Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "51K",
+     "8y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 51000
+   },
+   {
+    "id": "R02wcHzxhmk",
+    "title": "DC Sunstar Freezers and Refrigerators | Missouri Wind and Solar",
+    "meta": [
+     "50K",
+     "9y ago"
+    ],
+    "dur": "4:32",
+    "views_tab": 50000
+   },
+   {
+    "id": "e75myVS3NCY",
+    "title": "Axial Flux Wind Turbine Using the Midnite Classic Air Boss | Missouri Wind and Solar",
+    "meta": [
+     "49K",
+     "12y ago"
+    ],
+    "dur": "10:42",
+    "views_tab": 49000
+   },
+   {
+    "id": "ouQ1t7bTLRI",
+    "title": "Solar Cooking: Review Sun Oven | Missouri Wind and Solar",
+    "meta": [
+     "48K",
+     "11y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 48000
+   },
+   {
+    "id": "Yb5aqhqMxxQ",
+    "title": "How to Build a Wind Turbine Tower: Part Two - 65' Gin Pole Tower | Missouri Wind and Solar",
+    "meta": [
+     "47K",
+     "13y ago"
+    ],
+    "dur": "15:17",
+    "views_tab": 47000
+   },
+   {
+    "id": "nErbQUE-y3E",
+    "title": "How To Build the Axial Flux Generator Air Boss Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "47K",
+     "12y ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 47000
+   },
+   {
+    "id": "uywKgJHNRng",
+    "title": "Wind Tunnel Disaster: 1st Wind Turbine in Part 9 | Missouri Wind and Solar",
+    "meta": [
+     "46K",
+     "11y ago"
+    ],
+    "dur": "8:29",
+    "views_tab": 46000
+   },
+   {
+    "id": "fBtOC941Er0",
+    "title": "DIY Solar Generator | Missouri Wind and Solar",
+    "meta": [
+     "45K",
+     "5y ago"
+    ],
+    "dur": "20:30",
+    "views_tab": 45000
+   },
+   {
+    "id": "ixWAhcE8cow",
+    "title": "How to Build a Wind Turbine Tower: Part One of Two - 65' Pole Tower | Missouri Wind and Solar",
+    "meta": [
+     "45K",
+     "13y ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 45000
+   },
+   {
+    "id": "0tkw_8-FU_Y",
+    "title": "DC Amp and Volt Meters: How to Use for Wind Turbines Solar Panels | Missouri Wind and Solar",
+    "meta": [
+     "43K",
+     "12y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 43000
+   },
+   {
+    "id": "vbn_AOlWHSE",
+    "title": "DIY How to Cut Electric Bill in Half: Part 7 Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "42K",
+     "10y ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 42000
+   },
+   {
+    "id": "TV4X6PzOFDo",
+    "title": "DC Water Heating Element Submersible | Missouri Wind and Solar",
+    "meta": [
+     "41K",
+     "11y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 41000
+   },
+   {
+    "id": "0cOP_n_Nljc",
+    "title": "12 24 Volt DC Heater for Wind Turbine and Solar Panels: Free Heat DIY | Missouri Wind and Solar",
+    "meta": [
+     "41K",
+     "13y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 41000
+   },
+   {
+    "id": "Mto7nBkRnMI",
+    "title": "1941 Watts from the Freedom ll Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "39K",
+     "10y ago"
+    ],
+    "dur": "19:57",
+    "views_tab": 39000
+   },
+   {
+    "id": "qcDToF2Fwfw",
+    "title": "Freedom ll PMG How to Install Rectifier DIY | Missouri Wind and Solar",
+    "meta": [
+     "39K",
+     "11y ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 39000
+   },
+   {
+    "id": "g595KFr9V0c",
+    "title": "Review Aims 12 Volt 2000 Watt Inverter | Missouri Wind and Solar",
+    "meta": [
+     "38K",
+     "12y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 38000
+   },
+   {
+    "id": "5quAJJLfbLA",
+    "title": "Missouri Wind and Solar DIY Hydro/Wind/Solar | Missouri Wind and Solar",
+    "meta": [
+     "37K",
+     "5y ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 37000
+   },
+   {
+    "id": "9oI2kB2nb40",
+    "title": "How to Install Wind Turbine Slip Ring | Missouri Wind and Solar",
+    "meta": [
+     "32K",
+     "11y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 32000
+   },
+   {
+    "id": "YgbLa5TUWDM",
+    "title": "Low Voltage Shutdown Relay for DC to AC Power Inverters | Missouri Wind and Solar",
+    "meta": [
+     "32K",
+     "8y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 32000
+   },
+   {
+    "id": "mSwh4cdc_Xc",
+    "title": "All in One Classic MPPT Board for Wind Turbines | Missouri Wind and Solar",
+    "meta": [
+     "29K",
+     "8y ago"
+    ],
+    "dur": "2:59",
+    "views_tab": 29000
+   },
+   {
+    "id": "bZJknaVh-Y8",
+    "title": "Wind Turbine Fail Freewheeling and Brake Switch | Missouri Wind and Solar",
+    "meta": [
+     "29K",
+     "8y ago"
+    ],
+    "dur": "29:51",
+    "views_tab": 29000
+   },
+   {
+    "id": "0SPDEJDW97I",
+    "title": "Pole Barn Steel How to Cut it Malco | Missouri Wind and Solar",
+    "meta": [
+     "28K",
+     "10y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 28000
+   },
+   {
+    "id": "3zVknqG9RU4",
+    "title": "Rejuvenating a Dead Battery Pulsetech Desulfator Charger | Missouri Wind and Solar",
+    "meta": [
+     "27K",
+     "7y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 27000
+   },
+   {
+    "id": "jXTayFPl6u4",
+    "title": "Review Suntaqe PWB Solar Controller | Missouri Wind and Solar",
+    "meta": [
+     "26K",
+     "12y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 26000
+   },
+   {
+    "id": "Yq-vGgdRtHo",
+    "title": "DC to AC Inverters, Grid Tie Inverters, Modified, Pure Sine: Differences | Missouri Wind and Solar",
+    "meta": [
+     "26K",
+     "12y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 26000
+   },
+   {
+    "id": "g7k67UXCaQE",
+    "title": "Wind Turbine Roof Mount System for Residential Home SkyMax\u2122 | Missouri Wind and Solar",
+    "meta": [
+     "25K",
+     "12y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 25000
+   },
+   {
+    "id": "aIgTA8dS0ro",
+    "title": "Midnite Classic Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "25K",
+     "11y ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 25000
+   },
+   {
+    "id": "fC_vK_eKxPA",
+    "title": "Solid State Solar Panel Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "25K",
+     "11y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 25000
+   },
+   {
+    "id": "DKktqyfZ0-0",
+    "title": "Eco Ranch in Terlingua, Texas | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "9y ago"
+    ],
+    "dur": "21:33",
+    "views_tab": 24000
+   },
+   {
+    "id": "ubVngD4hnMI",
+    "title": "Tracker Panels Installed Aims Grid Ties Installed | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "10y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 24000
+   },
+   {
+    "id": "k2Xa4DPMsBo",
+    "title": "Multifunction Jump Starter Lithium Battery Pack Prepping | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "11y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 24000
+   },
+   {
+    "id": "fr7V6l2DgQM",
+    "title": "Chinese Magnet Factory Visits: Permanent Magnet Alternator | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "13y ago"
+    ],
+    "dur": "2:28",
+    "views_tab": 24000
+   },
+   {
+    "id": "6pq2NgH5KNw",
+    "title": "DIY Grid Tie Inverter: How to Install an Outback Grid Tie Inverter | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "13y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 24000
+   },
+   {
+    "id": "9DPSSYJU1nY",
+    "title": "How to Build a Wind Turbine Tower Do It Yourself | Missouri Wind and Solar",
+    "meta": [
+     "23K",
+     "15y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 23000
+   },
+   {
+    "id": "GqzG6_3-DoY",
+    "title": "How to Remove Black Streaks and Wax RV Motor Home Cheap | Missouri Wind and Solar",
+    "meta": [
+     "23K",
+     "9y ago"
+    ],
+    "dur": "19:11",
+    "views_tab": 23000
+   },
+   {
+    "id": "Ie8M3e9ki6o",
+    "title": "DIY Hand Crank Wind Turbine Towers for Maintenance & Outback Power System | Missouri Wind and Solar",
+    "meta": [
+     "23K",
+     "13y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 23000
+   },
+   {
+    "id": "tZ7blvUkGTY",
+    "title": "Double Solar Panel Top of the Pole Mount DIY | Missouri Wind and Solar",
+    "meta": [
+     "22K",
+     "11y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 22000
+   },
+   {
+    "id": "UYI3Qkb4Vfg",
+    "title": "How to Build DIY Solar Fish Pond | Missouri Wind and Solar",
+    "meta": [
+     "22K",
+     "10y ago"
+    ],
+    "dur": "8:37",
+    "views_tab": 22000
+   },
+   {
+    "id": "ni46bgN3wL4",
+    "title": "Wind Turbine Brake Switch Install | Missouri Wind and Solar",
+    "meta": [
+     "22K",
+     "11y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 22000
+   },
+   {
+    "id": "jB5eu5yC0r8",
+    "title": "SkyMAX Vertical Axis VAWT Wind Turbine PMG | Missouri Wind and Solar",
+    "meta": [
+     "22K",
+     "7y ago"
+    ],
+    "dur": "2:51",
+    "views_tab": 22000
+   },
+   {
+    "id": "IoZJlh4P6Mc",
+    "title": "Economy Wind Turbine Solar Charge Controller 440 Amp 10,000 Watt | Missouri Wind and Solar",
+    "meta": [
+     "21K",
+     "13y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 21000
+   },
+   {
+    "id": "nIk8_ig63TA",
+    "title": "How to Cut AC Cooling Bill in Half: EcoBreeze 2 | Missouri Wind and Solar",
+    "meta": [
+     "21K",
+     "7y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 21000
+   },
+   {
+    "id": "l1qJbppSkvU",
+    "title": "Micro Grid Tie Inverter 250 Watt UL Approved | Missouri Wind and Solar",
+    "meta": [
+     "20K",
+     "10y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 20000
+   },
+   {
+    "id": "OXjfj6nlIsc",
+    "title": "Raptor Generation 5 Wind Turbine Blade | Missouri Wind and Solar",
+    "meta": [
+     "20K",
+     "11y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 20000
+   },
+   {
+    "id": "lr1q5wmNwCU",
+    "title": "DIY Wind Turbine Tilt Up Tower with Outback Grid Tie Inverter Off Grid | Missouri Wind and Solar",
+    "meta": [
+     "19K",
+     "12y ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 19000
+   },
+   {
+    "id": "3yd_cMjsyBo",
+    "title": "Freedom Single Wind Turbine Rectifier Install | Missouri Wind and Solar",
+    "meta": [
+     "18K",
+     "11y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 18000
+   },
+   {
+    "id": "xwM7ms7Ij7A",
+    "title": "NorthStar AGM Solar Battery | Missouri Wind and Solar",
+    "meta": [
+     "17K",
+     "7y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 17000
+   },
+   {
+    "id": "bt3YfJQrCAk",
+    "title": "A400 Wind Solar Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "17K",
+     "10y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 17000
+   },
+   {
+    "id": "_TM_UcPj7oI",
+    "title": "Freedom 3 Sealed PMG for Desert, Land or Sea | Missouri Wind and Solar",
+    "meta": [
+     "17K",
+     "7y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 17000
+   },
+   {
+    "id": "axbGGVJKAco",
+    "title": "What are the differences in solar panel sizes?",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "4:43",
+    "views_tab": 17000
+   },
+   {
+    "id": "TB0WwUfuDDo",
+    "title": "How to Refurbish a Permanent Magnet Alternator and Check Rectifier Diode | Missouri Wind and Solar",
+    "meta": [
+     "17K",
+     "13y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "M2ml3hRLnRI",
+    "title": "Cut Your Electric Bill - Clothes Dryer | Missouri Wind and Solar",
+    "meta": [
+     "16K",
+     "5y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 16000
+   },
+   {
+    "id": "RCHhHCjMTLE",
+    "title": "Installs Genesis Wind Turbine Axial Flux | Missouri Wind and Solar",
+    "meta": [
+     "16K",
+     "11y ago"
+    ],
+    "dur": "8:36",
+    "views_tab": 16000
+   },
+   {
+    "id": "vTwVyjzPRR4",
+    "title": "DIY: New Basic Wind Turbine Amp Reading | Missouri Wind and Solar",
+    "meta": [
+     "16K",
+     "13y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 16000
+   },
+   {
+    "id": "jWCYLnPp8BA",
+    "title": "Quick Tip Tuesday - How to Cut Electric Bill | Missouri Wind and Solar",
+    "meta": [
+     "16K",
+     "7y ago"
+    ],
+    "dur": "4:24",
+    "views_tab": 16000
+   },
+   {
+    "id": "j4VQnKpMyaE",
+    "title": "Raptor Generation 4 Blade Factory Wind Turbine Blades | Missouri Wind and Solar",
+    "meta": [
+     "15K",
+     "13y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 15000
+   },
+   {
+    "id": "2gIgbC0x-lA",
+    "title": "How to Build a 3 Phase Permanent Magnet Alternator | Missouri Wind and Solar",
+    "meta": [
+     "15K",
+     "13y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 15000
+   },
+   {
+    "id": "Toxqt6fhqTI",
+    "title": "Reviews Outback Grid Tie Inverter Battery Bank Off Grid | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "12y ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "nuQBD4wMb_s",
+    "title": "Gudcraft Aleko Wind Turbine v. the SkyMaxWind\u2122 Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "12y ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "QA1u6W_lWCs",
+    "title": "Marine Micro Wind Turbine Generator PMG | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "8y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "mcBZrIHjSDg",
+    "title": "Freedom ll Wind Turbine 2039 Watts | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "9y ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 14000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "ytTsbKQgNfo",
+    "title": "AWESOME - Camouflaged Wind Turbine DIY How To | Missouri Wind and Solar",
+    "meta": [
+     "4.8K",
+     "15y ago"
+    ],
+    "dur": "1:57",
+    "views_tab": 4800
+   },
+   {
+    "id": "9DPSSYJU1nY",
+    "title": "How to Build a Wind Turbine Tower Do It Yourself | Missouri Wind and Solar",
+    "meta": [
+     "23K",
+     "15y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 23000
+   },
+   {
+    "id": "OuPP55wY2Qw",
+    "title": "Cable Crimping & Terminals for Wind and Solar | Missouri Wind and Solar",
+    "meta": [
+     "10K",
+     "13y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "2z_097mW0l0",
+    "title": "Wind Turbine Divert Dump Load Resistors | Missouri Wind and Solar",
+    "meta": [
+     "67K",
+     "13y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 67000
+   },
+   {
+    "id": "bD6neBMso_s",
+    "title": "General Raider Rebel Wind Turbines Big Amps | Missouri Wind and Solar",
+    "meta": [
+     "9.5K",
+     "13y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 9500
+   },
+   {
+    "id": "xjtwBu6QDOQ",
+    "title": "Free Electricity with Exercise Bike DIY: How to Build | Missouri Wind and Solar",
+    "meta": [
+     "4K",
+     "13y ago"
+    ],
+    "dur": "8:30",
+    "views_tab": 4000
+   },
+   {
+    "id": "HP3aAa_w2S4",
+    "title": "Falcon Wind Turbine Blades: Made in the USA | Missouri Wind and Solar",
+    "meta": [
+     "8.4K",
+     "13y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 8400
+   },
+   {
+    "id": "-mB-2twWRDI",
+    "title": "DIY: How to Build a 200 Watt Solar Panel Kit | Missouri Wind and Solar",
+    "meta": [
+     "97K",
+     "13y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 97000
+   },
+   {
+    "id": "vTwVyjzPRR4",
+    "title": "DIY: New Basic Wind Turbine Amp Reading | Missouri Wind and Solar",
+    "meta": [
+     "16K",
+     "13y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 16000
+   },
+   {
+    "id": "hltRMXcw4k0",
+    "title": "Where NOT to Install a Wind Turbine Generator | Missouri Wind and Solar",
+    "meta": [
+     "13K",
+     "13y ago"
+    ],
+    "dur": "18:51",
+    "views_tab": 13000
+   },
+   {
+    "id": "ZBxHxMz_Gq4",
+    "title": "Solar and Wind Turbine Charge Controller: What Will it Run? | Missouri Wind and Solar",
+    "meta": [
+     "60K",
+     "13y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 60000
+   },
+   {
+    "id": "omNqiJeI_Pk",
+    "title": "How to Paint a Wind Turbine Camouflage | Missouri Wind and Solar",
+    "meta": [
+     "1K",
+     "13y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 1000
+   },
+   {
+    "id": "j4VQnKpMyaE",
+    "title": "Raptor Generation 4 Blade Factory Wind Turbine Blades | Missouri Wind and Solar",
+    "meta": [
+     "15K",
+     "13y ago"
+    ],
+    "dur": "9:24",
+    "views_tab": 15000
+   },
+   {
+    "id": "M42dJrJ_Etw",
+    "title": "New Falcon Mach 4 Wind Turbine Blades: Made in the USA | Missouri Wind and Solar",
+    "meta": [
+     "6.5K",
+     "13y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 6500
+   },
+   {
+    "id": "6pq2NgH5KNw",
+    "title": "DIY Grid Tie Inverter: How to Install an Outback Grid Tie Inverter | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "13y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 24000
+   },
+   {
+    "id": "yEVpyVSskBU",
+    "title": "Review of Falcon Mach 3 Wind Turbine Blades DIY | Missouri Wind and Solar",
+    "meta": [
+     "4.6K",
+     "13y ago"
+    ],
+    "dur": "3:44",
+    "views_tab": 4600
+   },
+   {
+    "id": "7TkZ6eLhlGo",
+    "title": "How to Hook a Wind Turbine and Solar to Battery | Missouri Wind and Solar",
+    "meta": [
+     "119K",
+     "13y ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 119000
+   },
+   {
+    "id": "Fw1UYXyzpLA",
+    "title": "How to Build a Permanent Magnet Alternator PMA | Missouri Wind and Solar",
+    "meta": [
+     "376K",
+     "13y ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 376000
+   },
+   {
+    "id": "NyFk2GhpWxc",
+    "title": "Rebel Wind Turbine Generator in Wyoming Producing 60 Amps 1600 Watts | Missouri Wind and Solar",
+    "meta": [
+     "5.6K",
+     "13y ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 5600
+   },
+   {
+    "id": "YZKaZfEZHro",
+    "title": "How to Plug in Grid Tie Inverter to Solar Panels PV: Turn Meter Backwards | Missouri Wind and Solar",
+    "meta": [
+     "91K",
+     "13y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 91000
+   },
+   {
+    "id": "1Vdk430-ryU",
+    "title": "Dual PMA Power Output | Missouri Wind and Solar",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 12000
+   },
+   {
+    "id": "IoZJlh4P6Mc",
+    "title": "Economy Wind Turbine Solar Charge Controller 440 Amp 10,000 Watt | Missouri Wind and Solar",
+    "meta": [
+     "21K",
+     "13y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 21000
+   },
+   {
+    "id": "0cOP_n_Nljc",
+    "title": "12 24 Volt DC Heater for Wind Turbine and Solar Panels: Free Heat DIY | Missouri Wind and Solar",
+    "meta": [
+     "41K",
+     "13y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 41000
+   },
+   {
+    "id": "fRBJUaMoOV4",
+    "title": "Economy Charge Controller Board for Wind Turbine Solar Panels: DIY Build | Missouri Wind and Solar",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 12000
+   },
+   {
+    "id": "4wbHtgNx7VU",
+    "title": "PVC Wind Turbine Blades Explode: Review | Missouri Wind and Solar",
+    "meta": [
+     "7.8K",
+     "13y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 7800
+   },
+   {
+    "id": "ow3rdxqVr78",
+    "title": "Customer Testimonial on General Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "13y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 11000
+   },
+   {
+    "id": "Ar16u9GqPQs",
+    "title": "DIY How to Cut Electric Bill in Half: Part 5 Air Conditioning Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "1.3M",
+     "13y ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 1300000
+   },
+   {
+    "id": "fr7V6l2DgQM",
+    "title": "Chinese Magnet Factory Visits: Permanent Magnet Alternator | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "13y ago"
+    ],
+    "dur": "2:28",
+    "views_tab": 24000
+   },
+   {
+    "id": "2_zBEGBnFdo",
+    "title": "Hornet Wind Turbine Trying to Break the Raptor G4 Wind Turbine Blades | Missouri Wind and Solar",
+    "meta": [
+     "2K",
+     "13y ago"
+    ],
+    "dur": "7:25",
+    "views_tab": 2000
+   },
+   {
+    "id": "2gIgbC0x-lA",
+    "title": "How to Build a 3 Phase Permanent Magnet Alternator | Missouri Wind and Solar",
+    "meta": [
+     "15K",
+     "13y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 15000
+   },
+   {
+    "id": "r7UbvUw5ryk",
+    "title": "Safe v. Dangerous Wind Turbine Blade Hubs | Missouri Wind and Solar",
+    "meta": [
+     "4.4K",
+     "13y ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 4400
+   },
+   {
+    "id": "TB0WwUfuDDo",
+    "title": "How to Refurbish a Permanent Magnet Alternator and Check Rectifier Diode | Missouri Wind and Solar",
+    "meta": [
+     "17K",
+     "13y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 17000
+   },
+   {
+    "id": "xoFyekKJI3s",
+    "title": "FREE Wind Turbine GIVEAWAY from Missouri Wind and Solar GI JOE Retaliation | Missouri Wind and Solar",
+    "meta": [
+     "13K",
+     "13y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 13000
+   },
+   {
+    "id": "Ie8M3e9ki6o",
+    "title": "DIY Hand Crank Wind Turbine Towers for Maintenance & Outback Power System | Missouri Wind and Solar",
+    "meta": [
+     "23K",
+     "13y ago"
+    ],
+    "dur": "7:57",
+    "views_tab": 23000
+   },
+   {
+    "id": "wCkPMSI2Wjw",
+    "title": "How to Assemble a Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "13y ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 11000
+   },
+   {
+    "id": "Nice_PZB-SE",
+    "title": "Raptor Generation 4 Wind Turbine Blade vs 12 Gauge Shotgun | Missouri Wind and Solar",
+    "meta": [
+     "1.3K",
+     "13y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 1300
+   },
+   {
+    "id": "eBWodLgeHKo",
+    "title": "Review Made in China Wind Turbines: Rusted Out | Missouri Wind and Solar",
+    "meta": [
+     "12K",
+     "13y ago"
+    ],
+    "dur": "16:01",
+    "views_tab": 12000
+   },
+   {
+    "id": "KzIY4g6s1Dw",
+    "title": "DIY How to Cut Electric Bill in Half: Part 1 Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "1.8M",
+     "13y ago"
+    ],
+    "dur": "28:34",
+    "views_tab": 1800000
+   },
+   {
+    "id": "_RA6SSnuYDE",
+    "title": "Solar Panel Micro Grid Tie Inverter Plugs into Wall Outlet DIY | Missouri Wind and Solar",
+    "meta": [
+     "173K",
+     "13y ago"
+    ],
+    "dur": "5:38",
+    "views_tab": 173000
+   },
+   {
+    "id": "2elScPoA-mk",
+    "title": "New Stars and Stripes Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "13y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 11000
+   },
+   {
+    "id": "ixWAhcE8cow",
+    "title": "How to Build a Wind Turbine Tower: Part One of Two - 65' Pole Tower | Missouri Wind and Solar",
+    "meta": [
+     "45K",
+     "13y ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 45000
+   },
+   {
+    "id": "Yb5aqhqMxxQ",
+    "title": "How to Build a Wind Turbine Tower: Part Two - 65' Gin Pole Tower | Missouri Wind and Solar",
+    "meta": [
+     "47K",
+     "13y ago"
+    ],
+    "dur": "15:17",
+    "views_tab": 47000
+   },
+   {
+    "id": "6nd3Rpp3Lqg",
+    "title": "FREE Solar Panel Giveaway Contest | Missouri Wind and Solar",
+    "meta": [
+     "6.3K",
+     "13y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 6300
+   },
+   {
+    "id": "LbvQ0XZH5I8",
+    "title": "How to Assemble the SkyMax Wind Turbine 400, 600 and 1000 Watt | Missouri Wind and Solar",
+    "meta": [
+     "9.6K",
+     "13y ago"
+    ],
+    "dur": "9:46",
+    "views_tab": 9600
+   },
+   {
+    "id": "8ndNHIxVIiM",
+    "title": "SkyMax Wind 600 Wind Turbine Test | Missouri Wind and Solar",
+    "meta": [
+     "5.5K",
+     "13y ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 5500
+   },
+   {
+    "id": "EyxWu2RVQYo",
+    "title": "Solar Panels for the Beginner How To: Part 1 DIY Simple Instructions | Missouri Wind and Solar",
+    "meta": [
+     "1.3M",
+     "13y ago"
+    ],
+    "dur": "18:40",
+    "views_tab": 1300000
+   },
+   {
+    "id": "USR2qCCVH74",
+    "title": "Solar Panels For The Beginner How To: Part 2 DIY Simple Instructions | Missouri Wind and Solar",
+    "meta": [
+     "237K",
+     "13y ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 237000
+   },
+   {
+    "id": "jFy5XxsqXFU",
+    "title": "SkyMax Wind 600 Watt Residential Wind Turbine Generator: High Amp Output | Missouri Wind and Solar",
+    "meta": [
+     "5.8K",
+     "13y ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 5800
+   },
+   {
+    "id": "opP13e-TvHM",
+    "title": "Micro Wind Turbines for the Beginner: How To Part 1 | Missouri Wind and Solar",
+    "meta": [
+     "1.9M",
+     "13y ago"
+    ],
+    "dur": "30:40",
+    "views_tab": 1900000
+   },
+   {
+    "id": "1rwSQCXU_IQ",
+    "title": "Missouri Rebel 800 Watt Wind Turbine Heating Water: Free Solar Hot Water | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "13y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 11000
+   },
+   {
+    "id": "sff1dluIZRw",
+    "title": "Must See: Rare Wooden Wind Mills | Missouri Wind and Solar",
+    "meta": [
+     "1.5K",
+     "13y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 1500
+   },
+   {
+    "id": "VlXw2MPfeik",
+    "title": "FREE Wind Turbine SkyMaxwind\u2122 400 Wind Turbine Giveaway Contest HYE | Missouri Wind and Solar",
+    "meta": [
+     "10K",
+     "13y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 10000
+   },
+   {
+    "id": "OKXj0p2gc1g",
+    "title": "6000W Solar Inverter Charger for On/Off Grid Living Split Phase 120/240V | Missouri Wind and Solar",
+    "meta": [
+     "96K",
+     "13y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 96000
+   },
+   {
+    "id": "xQ8kvHj_JSs",
+    "title": "Wind Turbine PMG New Permanent Magnet Generator | Missouri Wind and Solar",
+    "meta": [
+     "96K",
+     "12y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 96000
+   },
+   {
+    "id": "UoorRPeoC0s",
+    "title": "Wind Turbine SkyMax\u2122 Pegasus 1500 Watt Install | Missouri Wind and Solar",
+    "meta": [
+     "203K",
+     "12y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 203000
+   },
+   {
+    "id": "Payco-Lb_-c",
+    "title": "SkyMaxWind\u2122 Turbine Giveaway Contest Winner is ElitePreacher | Missouri Wind and Solar",
+    "meta": [
+     "987",
+     "12y ago"
+    ],
+    "dur": "1:58",
+    "views_tab": 987
+   },
+   {
+    "id": "BFsxNh-xl2A",
+    "title": "Solar Panels for the Beginner: How To Part 5 DIY | Missouri Wind and Solar",
+    "meta": [
+     "65K",
+     "12y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 65000
+   },
+   {
+    "id": "nuQBD4wMb_s",
+    "title": "Gudcraft Aleko Wind Turbine v. the SkyMaxWind\u2122 Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "12y ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "lr1q5wmNwCU",
+    "title": "DIY Wind Turbine Tilt Up Tower with Outback Grid Tie Inverter Off Grid | Missouri Wind and Solar",
+    "meta": [
+     "19K",
+     "12y ago"
+    ],
+    "dur": "9:11",
+    "views_tab": 19000
+   },
+   {
+    "id": "KAr6_Ir_hP4",
+    "title": "Wind Turbine Freedom II PMG Permanent Magnet Generator Latest on Market | Missouri Wind and Solar",
+    "meta": [
+     "142K",
+     "12y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 142000
+   },
+   {
+    "id": "YnOJFQc3Ics",
+    "title": "Wind Turbine Freedom PMG Test One 12 Volt 7 Raptor Generation 4\u2122 Blades | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "12y ago"
+    ],
+    "dur": "9:32",
+    "views_tab": 11000
+   },
+   {
+    "id": "mlI1qK4pFaA",
+    "title": "FREE Wind Turbine and Solar Panel Giveaway Contest #4 | Missouri Wind and Solar",
+    "meta": [
+     "8.2K",
+     "12y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 8200
+   },
+   {
+    "id": "g7k67UXCaQE",
+    "title": "Wind Turbine Roof Mount System for Residential Home SkyMax\u2122 | Missouri Wind and Solar",
+    "meta": [
+     "25K",
+     "12y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 25000
+   },
+   {
+    "id": "KvbsxZX4waI",
+    "title": "Solar Panels for the Beginner How To: Part 3 DIY | Missouri Wind and Solar",
+    "meta": [
+     "156K",
+     "12y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 156000
+   },
+   {
+    "id": "MMk0J6CcaGM",
+    "title": "Solar Panels for the Beginner How To: Part 4 DIY | Missouri Wind and Solar",
+    "meta": [
+     "77K",
+     "12y ago"
+    ],
+    "dur": "3:22",
+    "views_tab": 77000
+   },
+   {
+    "id": "o4O7P9LElM8",
+    "title": "DIY How to Cut Electric Bill in Half: Part 2 Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "517K",
+     "12y ago"
+    ],
+    "dur": "17:34",
+    "views_tab": 517000
+   },
+   {
+    "id": "TDXtC0BCz2E",
+    "title": "Solar Pop Can Heater Install: Free Heat from Sun to Reduce Heating Bill | Missouri Wind and Solar",
+    "meta": [
+     "12K",
+     "12y ago"
+    ],
+    "dur": "8:49",
+    "views_tab": 12000
+   },
+   {
+    "id": "p2PxJRHaLuc",
+    "title": "New Freedom Wind Turbine Assembly | Missouri Wind and Solar",
+    "meta": [
+     "51K",
+     "12y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 51000
+   },
+   {
+    "id": "Ow01R-KwpxI",
+    "title": "Wind Turbine Solar Panel Giveaway Contest #5 | Missouri Wind and Solar",
+    "meta": [
+     "9.2K",
+     "12y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 9200
+   },
+   {
+    "id": "jHMPZAlWmc8",
+    "title": "SkyMax\u2122 Wind Turbine Roof Mount for Residential Roof Tops | Missouri Wind and Solar",
+    "meta": [
+     "74K",
+     "12y ago"
+    ],
+    "dur": "10:21",
+    "views_tab": 74000
+   },
+   {
+    "id": "qEwkryKsZvQ",
+    "title": "Wind Turbine Grid Tie Inverter: How to Install | Missouri Wind and Solar",
+    "meta": [
+     "126K",
+     "12y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 126000
+   },
+   {
+    "id": "hjKTIjKQPpU",
+    "title": "10,000 Subscribers 2/10/14 | Missouri Wind and Solar",
+    "meta": [
+     "5.9K",
+     "12y ago"
+    ],
+    "dur": "23:07",
+    "views_tab": 5900
+   },
+   {
+    "id": "-D0ZJHt7ifg",
+    "title": "Welcome to My DIY Wind and Solar Channel | Missouri Wind and Solar",
+    "meta": [
+     "10K",
+     "12y ago"
+    ],
+    "dur": "2:53",
+    "views_tab": 10000
+   },
+   {
+    "id": "PwedoZZHadY",
+    "title": "Free Electricity? Over Unity? Amplidyne? Does it Work | Missouri Wind and Solar",
+    "meta": [
+     "150K",
+     "12y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 150000
+   },
+   {
+    "id": "Ouls4O2HJFk",
+    "title": "Solar Panel Install to SkyMax Grid Tie Inverter DIY How To | Missouri Wind and Solar",
+    "meta": [
+     "217K",
+     "12y ago"
+    ],
+    "dur": "12:27",
+    "views_tab": 217000
+   },
+   {
+    "id": "lSzH2H23BD0",
+    "title": "Free Wind Turbine Solar Panel Giveaway Contest #6 | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "12y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 11000
+   },
+   {
+    "id": "5waI39z0EEY",
+    "title": "Solar Panel Broken and Blocking Diodes How To Fix Repair | Missouri Wind and Solar",
+    "meta": [
+     "101K",
+     "12y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 101000
+   },
+   {
+    "id": "S93wbGlzsJg",
+    "title": "Sun Grid Tie Inverter Plug and Play Install | Missouri Wind and Solar",
+    "meta": [
+     "308K",
+     "12y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 308000
+   },
+   {
+    "id": "m4Q1-XMoKHY",
+    "title": "Wind Turbine Assembly Freedom and Freedom ll PMG Galvanized | Missouri Wind and Solar",
+    "meta": [
+     "76K",
+     "12y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 76000
+   },
+   {
+    "id": "aoSVUXBEO28",
+    "title": "Pond Water Aeration: How To Build a Solar Battery Box | Missouri Wind and Solar",
+    "meta": [
+     "68K",
+     "12y ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 68000
+   },
+   {
+    "id": "YUX5UkER2VQ",
+    "title": "Free Wind Turbine Solar Panel Giveaway Contest #7 | Missouri Wind and Solar",
+    "meta": [
+     "6.3K",
+     "12y ago"
+    ],
+    "dur": "2:39",
+    "views_tab": 6300
+   },
+   {
+    "id": "GaBiGC0r8XE",
+    "title": "General Freedom ll PMG Wind Turbine Output | Missouri Wind and Solar",
+    "meta": [
+     "55K",
+     "12y ago"
+    ],
+    "dur": "10:40",
+    "views_tab": 55000
+   },
+   {
+    "id": "MEIt-OscGsU",
+    "title": "Axial Flux Wind Turbine Install with Midnite Classic 150 | Missouri Wind and Solar",
+    "meta": [
+     "72K",
+     "12y ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 72000
+   },
+   {
+    "id": "e75myVS3NCY",
+    "title": "Axial Flux Wind Turbine Using the Midnite Classic Air Boss | Missouri Wind and Solar",
+    "meta": [
+     "49K",
+     "12y ago"
+    ],
+    "dur": "10:42",
+    "views_tab": 49000
+   },
+   {
+    "id": "4JSZSZR0qTU",
+    "title": "Solar Pond Aeration No Batteries Suntaqe PWB Controller | Missouri Wind and Solar",
+    "meta": [
+     "123K",
+     "12y ago"
+    ],
+    "dur": "7:06",
+    "views_tab": 123000
+   },
+   {
+    "id": "nErbQUE-y3E",
+    "title": "How To Build the Axial Flux Generator Air Boss Wind Turbine | Missouri Wind and Solar",
+    "meta": [
+     "47K",
+     "12y ago"
+    ],
+    "dur": "19:12",
+    "views_tab": 47000
+   },
+   {
+    "id": "kZ1BzbzdrGY",
+    "title": "Solar Panel Pond Aeration No Battery Using Suntaqe System: Part 2 | Missouri Wind and Solar",
+    "meta": [
+     "80K",
+     "12y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 80000
+   },
+   {
+    "id": "Yq-vGgdRtHo",
+    "title": "DC to AC Inverters, Grid Tie Inverters, Modified, Pure Sine: Differences | Missouri Wind and Solar",
+    "meta": [
+     "26K",
+     "12y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 26000
+   },
+   {
+    "id": "0tkw_8-FU_Y",
+    "title": "DC Amp and Volt Meters: How to Use for Wind Turbines Solar Panels | Missouri Wind and Solar",
+    "meta": [
+     "43K",
+     "12y ago"
+    ],
+    "dur": "10:11",
+    "views_tab": 43000
+   },
+   {
+    "id": "kGlaQ_d6vt4",
+    "title": "Wind Turbine Truck Test on Raptor Generation 4 Blades 2011 | Missouri Wind and Solar",
+    "meta": [
+     "5.9K",
+     "12y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 5900
+   },
+   {
+    "id": "P3c49WbYCgw",
+    "title": "Free Wind Turbine Solar Panel Free Giveaway Contest #8 | Missouri Wind and Solar",
+    "meta": [
+     "8.6K",
+     "12y ago"
+    ],
+    "dur": "1:59",
+    "views_tab": 8600
+   },
+   {
+    "id": "Toxqt6fhqTI",
+    "title": "Reviews Outback Grid Tie Inverter Battery Bank Off Grid | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "12y ago"
+    ],
+    "dur": "16:09",
+    "views_tab": 14000
+   },
+   {
+    "id": "iGCMwsDYmAw",
+    "title": "DC Water Heater Element Solar Hot Water: Make Free Heat | Missouri Wind and Solar",
+    "meta": [
+     "531K",
+     "12y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 531000
+   },
+   {
+    "id": "wbhoWduNVpw",
+    "title": "Wind Turbine Solar Panel LED Digital Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "67K",
+     "12y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 67000
+   },
+   {
+    "id": "g595KFr9V0c",
+    "title": "Review Aims 12 Volt 2000 Watt Inverter | Missouri Wind and Solar",
+    "meta": [
+     "38K",
+     "12y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 38000
+   },
+   {
+    "id": "jXTayFPl6u4",
+    "title": "Review Suntaqe PWB Solar Controller | Missouri Wind and Solar",
+    "meta": [
+     "26K",
+     "12y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 26000
+   },
+   {
+    "id": "LtnN_z2LOS8",
+    "title": "Review Suntaqe PWB Portable Power Stand RV Boat | Missouri Wind and Solar",
+    "meta": [
+     "11K",
+     "12y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 11000
+   },
+   {
+    "id": "PpXcDfTlmJo",
+    "title": "Review Suntaqe for RV Camping Motorhome | Missouri Wind and Solar",
+    "meta": [
+     "5.8K",
+     "12y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 5800
+   },
+   {
+    "id": "FPU1q2w_H6I",
+    "title": "Wind Turbine Solar Panel Giveaway Contest #9 | Missouri Wind and Solar",
+    "meta": [
+     "6.3K",
+     "11y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 6300
+   },
+   {
+    "id": "wOMsSrUyn5g",
+    "title": "Wind Turbine Blade Newest Generation 5 | Missouri Wind and Solar",
+    "meta": [
+     "13K",
+     "11y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 13000
+   },
+   {
+    "id": "mTBy3oIOgKg",
+    "title": "DIY How to Cut Electric Bill in Half: Part 3 Clothes Dryer Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "5M",
+     "11y ago"
+    ],
+    "dur": "11:28",
+    "views_tab": 5000000
+   },
+   {
+    "id": "rTgWefUkdbA",
+    "title": "DIY How to Cut Electric Bill in Half: Part 4 Water Saving Free Ideas | Missouri Wind and Solar",
+    "meta": [
+     "109K",
+     "11y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 109000
+   },
+   {
+    "id": "yTsKXyKeMRA",
+    "title": "Helios Solar Works Visits February 2015 | Missouri Wind and Solar",
+    "meta": [
+     "4K",
+     "11y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 4000
+   },
+   {
+    "id": "mFAvGkkyS4g",
+    "title": "Freedom Wind Turbine Above the Arctic Circle | Missouri Wind and Solar",
+    "meta": [
+     "3.3K",
+     "11y ago"
+    ],
+    "dur": "2:01",
+    "views_tab": 3300
+   },
+   {
+    "id": "fC_vK_eKxPA",
+    "title": "Solid State Solar Panel Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "25K",
+     "11y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 25000
+   },
+   {
+    "id": "OXjfj6nlIsc",
+    "title": "Raptor Generation 5 Wind Turbine Blade | Missouri Wind and Solar",
+    "meta": [
+     "20K",
+     "11y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 20000
+   },
+   {
+    "id": "vQc9ghQIN7Y",
+    "title": "Wind Turbine Giveaway Contest #10 | Missouri Wind and Solar",
+    "meta": [
+     "6.7K",
+     "11y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 6700
+   },
+   {
+    "id": "k2Xa4DPMsBo",
+    "title": "Multifunction Jump Starter Lithium Battery Pack Prepping | Missouri Wind and Solar",
+    "meta": [
+     "24K",
+     "11y ago"
+    ],
+    "dur": "11:00",
+    "views_tab": 24000
+   },
+   {
+    "id": "mpfCYJftjyM",
+    "title": "Freedom II PMG Wind Turbine 750 to 1053 Watt Output with G5 Blades | Missouri Wind and Solar",
+    "meta": [
+     "6.6K",
+     "11y ago"
+    ],
+    "dur": "24:30",
+    "views_tab": 6600
+   },
+   {
+    "id": "KgKnyGXBqUI",
+    "title": "Solar Panel Top of Pole PV Mount | Missouri Wind and Solar",
+    "meta": [
+     "54K",
+     "11y ago"
+    ],
+    "dur": "6:35",
+    "views_tab": 54000
+   },
+   {
+    "id": "-Nfg1c1xthI",
+    "title": "Solar Pond Aeration and Suntaqe Batteryless Controller: Baby Geese | Missouri Wind and Solar",
+    "meta": [
+     "2.5K",
+     "11y ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 2500
+   },
+   {
+    "id": "zDAalWjIyXc",
+    "title": "Foldable Solar Panel Review and the Bicycle Ride Across America | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "11y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 14000
+   },
+   {
+    "id": "baJ6y_ENqy8",
+    "title": "Wind Tunnel Motor Air Boat Swamp Tours New Orleans | Missouri Wind and Solar",
+    "meta": [
+     "13K",
+     "11y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 13000
+   },
+   {
+    "id": "aIgTA8dS0ro",
+    "title": "Midnite Classic Charge Controller | Missouri Wind and Solar",
+    "meta": [
+     "25K",
+     "11y ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 25000
+   },
+   {
+    "id": "ouQ1t7bTLRI",
+    "title": "Solar Cooking: Review Sun Oven | Missouri Wind and Solar",
+    "meta": [
+     "48K",
+     "11y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 48000
+   },
+   {
+    "id": "2qdHmaziM08",
+    "title": "Air Boat Motor for our Wind Tunnel Build | Missouri Wind and Solar",
+    "meta": [
+     "9.2K",
+     "11y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 9200
+   },
+   {
+    "id": "y1kcGJBg7W8",
+    "title": "Wind Tunnel Construction Begins Part 1 | Missouri Wind and Solar",
+    "meta": [
+     "9.4K",
+     "11y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 9400
+   },
+   {
+    "id": "7xtxo7aJmnA",
+    "title": "New Pond Aeration Kit with Solar Panel | Missouri Wind and Solar",
+    "meta": [
+     "72K",
+     "11y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 72000
+   },
+   {
+    "id": "1Eqis-nPzss",
+    "title": "New Wind Turbine Yaw Bearing | Missouri Wind and Solar",
+    "meta": [
+     "14K",
+     "11y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 14000
+   },
+   {
+    "id": "nr803Odk3Zk",
+    "title": "Install DC Led Floodlights | Missouri Wind and Solar",
+    "meta": [
+     "3.1K",
+     "11y ago"
+    ],
+    "dur": "4:44",
+    "views_tab": 3100
+   }
+  ]
+ }
+}

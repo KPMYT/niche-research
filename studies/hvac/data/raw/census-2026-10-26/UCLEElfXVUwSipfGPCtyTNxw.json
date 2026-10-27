@@ -1,0 +1,455 @@
+{
+ "key": "UCLEElfXVUwSipfGPCtyTNxw",
+ "channel": "Walt's Workshop",
+ "id": "UCLEElfXVUwSipfGPCtyTNxw",
+ "subs": null,
+ "videos": "11 videos",
+ "pulled": "2026-10-26T06:55:04.434756+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "VcDhKlVyZbw",
+    "title": "STOP Buying $200 Insulation \u2014 This $5 Bubble Wrap Trick Works!",
+    "meta": [
+     "2",
+     "3d ago"
+    ],
+    "dur": "16:34",
+    "views_tab": 2
+   },
+   {
+    "id": "2sPRu0c7pfo",
+    "title": "STOP Buying New Car Batteries \u2014 This $8 Blanket Trick Saves Yours",
+    "meta": [
+     "3",
+     "4d ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 3
+   },
+   {
+    "id": "CviitCneXhE",
+    "title": "Why Your Furnace Filter Is Costing You $200 \u2014 The $5 Fix",
+    "meta": [
+     "0",
+     "5d ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 0
+   },
+   {
+    "id": "zztzspV0wbQ",
+    "title": "STOP Heating Your Garage With a Space Heater \u2014 This $15 Sand Battery Runs 12 Hours",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 33
+   },
+   {
+    "id": "BbIHXHe31F4",
+    "title": "STOP Losing Heat Through Your Windows \u2014 This $3 Plastic Trick Adds an Extra Pane of Glass",
+    "meta": [
+     "5",
+     "7d ago"
+    ],
+    "dur": "17:13",
+    "views_tab": 5
+   },
+   {
+    "id": "p9D5k8UyiTQ",
+    "title": "STOP Paying to Heat Your Attic \u2014 This $9 Door Draft Stopper Trick",
+    "meta": [
+     "5",
+     "8d ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 5
+   },
+   {
+    "id": "BS_3O4fGJRA",
+    "title": "STOP Buying Fire Starters \u2014 Dryer Lint and Vaseline Beat Them All",
+    "meta": [
+     "1",
+     "10d ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 1
+   },
+   {
+    "id": "FllsHYw4nKs",
+    "title": "STOP Heating Your Walls \u2014 This $0 Foil Trick Doubles Your Radiator Heat",
+    "meta": [
+     "15",
+     "10d ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 15
+   },
+   {
+    "id": "_yCXqnFGKq8",
+    "title": "STOP Paying for Hot Water \u2014 This $12 Black Hose Gives You FREE Hot Water",
+    "meta": [
+     "5",
+     "11d ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 5
+   },
+   {
+    "id": "GKVY3SR0-24",
+    "title": "STOP Buying Space Heaters \u2014 2 Clay Pots + Candles Heat Your Room for $15",
+    "meta": [
+     "7",
+     "12d ago"
+    ],
+    "dur": "14:11",
+    "views_tab": 7
+   },
+   {
+    "id": "7DEC1CA31L8",
+    "title": "Don't Buy a $500 Space Heater \u2014 Try This $25 Oil Lamp Instead",
+    "meta": [
+     "27",
+     "13d ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 27
+   }
+  ],
+  "Latest": [
+   {
+    "id": "VcDhKlVyZbw",
+    "title": "STOP Buying $200 Insulation \u2014 This $5 Bubble Wrap Trick Works!",
+    "meta": [
+     "2",
+     "3d ago"
+    ],
+    "dur": "16:34",
+    "views_tab": 2
+   },
+   {
+    "id": "2sPRu0c7pfo",
+    "title": "STOP Buying New Car Batteries \u2014 This $8 Blanket Trick Saves Yours",
+    "meta": [
+     "3",
+     "4d ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 3
+   },
+   {
+    "id": "CviitCneXhE",
+    "title": "Why Your Furnace Filter Is Costing You $200 \u2014 The $5 Fix",
+    "meta": [
+     "0",
+     "5d ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 0
+   },
+   {
+    "id": "zztzspV0wbQ",
+    "title": "STOP Heating Your Garage With a Space Heater \u2014 This $15 Sand Battery Runs 12 Hours",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 33
+   },
+   {
+    "id": "BbIHXHe31F4",
+    "title": "STOP Losing Heat Through Your Windows \u2014 This $3 Plastic Trick Adds an Extra Pane of Glass",
+    "meta": [
+     "5",
+     "7d ago"
+    ],
+    "dur": "17:13",
+    "views_tab": 5
+   },
+   {
+    "id": "p9D5k8UyiTQ",
+    "title": "STOP Paying to Heat Your Attic \u2014 This $9 Door Draft Stopper Trick",
+    "meta": [
+     "5",
+     "8d ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 5
+   },
+   {
+    "id": "BS_3O4fGJRA",
+    "title": "STOP Buying Fire Starters \u2014 Dryer Lint and Vaseline Beat Them All",
+    "meta": [
+     "1",
+     "10d ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 1
+   },
+   {
+    "id": "FllsHYw4nKs",
+    "title": "STOP Heating Your Walls \u2014 This $0 Foil Trick Doubles Your Radiator Heat",
+    "meta": [
+     "15",
+     "10d ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 15
+   },
+   {
+    "id": "_yCXqnFGKq8",
+    "title": "STOP Paying for Hot Water \u2014 This $12 Black Hose Gives You FREE Hot Water",
+    "meta": [
+     "5",
+     "11d ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 5
+   },
+   {
+    "id": "GKVY3SR0-24",
+    "title": "STOP Buying Space Heaters \u2014 2 Clay Pots + Candles Heat Your Room for $15",
+    "meta": [
+     "7",
+     "12d ago"
+    ],
+    "dur": "14:11",
+    "views_tab": 7
+   },
+   {
+    "id": "7DEC1CA31L8",
+    "title": "Don't Buy a $500 Space Heater \u2014 Try This $25 Oil Lamp Instead",
+    "meta": [
+     "27",
+     "13d ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 27
+   }
+  ],
+  "Popular": [
+   {
+    "id": "zztzspV0wbQ",
+    "title": "STOP Heating Your Garage With a Space Heater \u2014 This $15 Sand Battery Runs 12 Hours",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 33
+   },
+   {
+    "id": "7DEC1CA31L8",
+    "title": "Don't Buy a $500 Space Heater \u2014 Try This $25 Oil Lamp Instead",
+    "meta": [
+     "27",
+     "13d ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 27
+   },
+   {
+    "id": "FllsHYw4nKs",
+    "title": "STOP Heating Your Walls \u2014 This $0 Foil Trick Doubles Your Radiator Heat",
+    "meta": [
+     "15",
+     "10d ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 15
+   },
+   {
+    "id": "_yCXqnFGKq8",
+    "title": "STOP Paying for Hot Water \u2014 This $12 Black Hose Gives You FREE Hot Water",
+    "meta": [
+     "5",
+     "11d ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 5
+   },
+   {
+    "id": "GKVY3SR0-24",
+    "title": "STOP Buying Space Heaters \u2014 2 Clay Pots + Candles Heat Your Room for $15",
+    "meta": [
+     "7",
+     "12d ago"
+    ],
+    "dur": "14:11",
+    "views_tab": 7
+   },
+   {
+    "id": "BbIHXHe31F4",
+    "title": "STOP Losing Heat Through Your Windows \u2014 This $3 Plastic Trick Adds an Extra Pane of Glass",
+    "meta": [
+     "5",
+     "7d ago"
+    ],
+    "dur": "17:13",
+    "views_tab": 5
+   },
+   {
+    "id": "p9D5k8UyiTQ",
+    "title": "STOP Paying to Heat Your Attic \u2014 This $9 Door Draft Stopper Trick",
+    "meta": [
+     "5",
+     "8d ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 5
+   },
+   {
+    "id": "2sPRu0c7pfo",
+    "title": "STOP Buying New Car Batteries \u2014 This $8 Blanket Trick Saves Yours",
+    "meta": [
+     "3",
+     "4d ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 3
+   },
+   {
+    "id": "VcDhKlVyZbw",
+    "title": "STOP Buying $200 Insulation \u2014 This $5 Bubble Wrap Trick Works!",
+    "meta": [
+     "2",
+     "3d ago"
+    ],
+    "dur": "16:34",
+    "views_tab": 2
+   },
+   {
+    "id": "BS_3O4fGJRA",
+    "title": "STOP Buying Fire Starters \u2014 Dryer Lint and Vaseline Beat Them All",
+    "meta": [
+     "1",
+     "10d ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 1
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "7DEC1CA31L8",
+    "title": "Don't Buy a $500 Space Heater \u2014 Try This $25 Oil Lamp Instead",
+    "meta": [
+     "27",
+     "13d ago"
+    ],
+    "dur": "16:20",
+    "views_tab": 27
+   },
+   {
+    "id": "GKVY3SR0-24",
+    "title": "STOP Buying Space Heaters \u2014 2 Clay Pots + Candles Heat Your Room for $15",
+    "meta": [
+     "7",
+     "12d ago"
+    ],
+    "dur": "14:11",
+    "views_tab": 7
+   },
+   {
+    "id": "_yCXqnFGKq8",
+    "title": "STOP Paying for Hot Water \u2014 This $12 Black Hose Gives You FREE Hot Water",
+    "meta": [
+     "5",
+     "11d ago"
+    ],
+    "dur": "18:35",
+    "views_tab": 5
+   },
+   {
+    "id": "FllsHYw4nKs",
+    "title": "STOP Heating Your Walls \u2014 This $0 Foil Trick Doubles Your Radiator Heat",
+    "meta": [
+     "15",
+     "10d ago"
+    ],
+    "dur": "12:00",
+    "views_tab": 15
+   },
+   {
+    "id": "BS_3O4fGJRA",
+    "title": "STOP Buying Fire Starters \u2014 Dryer Lint and Vaseline Beat Them All",
+    "meta": [
+     "1",
+     "10d ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 1
+   },
+   {
+    "id": "p9D5k8UyiTQ",
+    "title": "STOP Paying to Heat Your Attic \u2014 This $9 Door Draft Stopper Trick",
+    "meta": [
+     "5",
+     "8d ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 5
+   },
+   {
+    "id": "BbIHXHe31F4",
+    "title": "STOP Losing Heat Through Your Windows \u2014 This $3 Plastic Trick Adds an Extra Pane of Glass",
+    "meta": [
+     "5",
+     "7d ago"
+    ],
+    "dur": "17:13",
+    "views_tab": 5
+   },
+   {
+    "id": "zztzspV0wbQ",
+    "title": "STOP Heating Your Garage With a Space Heater \u2014 This $15 Sand Battery Runs 12 Hours",
+    "meta": [
+     "33",
+     "6d ago"
+    ],
+    "dur": "16:22",
+    "views_tab": 33
+   },
+   {
+    "id": "CviitCneXhE",
+    "title": "Why Your Furnace Filter Is Costing You $200 \u2014 The $5 Fix",
+    "meta": [
+     "0",
+     "5d ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 0
+   },
+   {
+    "id": "2sPRu0c7pfo",
+    "title": "STOP Buying New Car Batteries \u2014 This $8 Blanket Trick Saves Yours",
+    "meta": [
+     "3",
+     "4d ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 3
+   },
+   {
+    "id": "VcDhKlVyZbw",
+    "title": "STOP Buying $200 Insulation \u2014 This $5 Bubble Wrap Trick Works!",
+    "meta": [
+     "2",
+     "3d ago"
+    ],
+    "dur": "16:34",
+    "views_tab": 2
+   }
+  ]
+ }
+}

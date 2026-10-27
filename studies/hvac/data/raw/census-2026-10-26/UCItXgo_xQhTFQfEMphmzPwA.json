@@ -1,0 +1,3945 @@
+{
+ "key": "UCItXgo_xQhTFQfEMphmzPwA",
+ "channel": "Heatable",
+ "id": "UCItXgo_xQhTFQfEMphmzPwA",
+ "subs": "29K subscribers",
+ "videos": "341 videos",
+ "pulled": "2026-10-26T06:54:48.711012+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "uMxDIyNv3Ak",
+    "title": "I Was Forced To Buy A Heat Pump",
+    "meta": [
+     "23K",
+     "3d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 23000
+   },
+   {
+    "id": "_yPj13FpeNo",
+    "title": "A UK Solar Tax is COMING - Should You Be Concerned?",
+    "meta": [
+     "188K",
+     "12d ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 188000
+   },
+   {
+    "id": "8Uuk0ZY7L9k",
+    "title": "I Built a Boiler From Scratch to See How It Actually Works",
+    "meta": [
+     "6.1K",
+     "2w ago"
+    ],
+    "dur": "16:17",
+    "views_tab": 6100
+   },
+   {
+    "id": "uW57h6GqN4A",
+    "title": "This Heat Pump Comes With Free Air Con (But there\u2019s a catch\u2026)",
+    "meta": [
+     "76K",
+     "3w ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 76000
+   },
+   {
+    "id": "xeIdB-Xu1sM",
+    "title": "We Just Cut the Interest on Solar by More Than Half",
+    "meta": [
+     "16K",
+     "1mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 16000
+   },
+   {
+    "id": "DnpLv_hvvHM",
+    "title": "This Product Could Solve Solar's Biggest Issue",
+    "meta": [
+     "27K",
+     "1mo ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 27000
+   },
+   {
+    "id": "-LMbCdAITV4",
+    "title": "Power Cuts Could Destroy This \u00a35M Car Collection",
+    "meta": [
+     "Heatable",
+     "and Tomi Auto",
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "22:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "WfXTAcRNPzk",
+    "title": "This New Heat Pump Could Finish Boilers",
+    "meta": [
+     "264K",
+     "1mo ago"
+    ],
+    "dur": "17:23",
+    "views_tab": 264000
+   },
+   {
+    "id": "a2bM0JluVZ4",
+    "title": "Testing the Tado X AI Thermostat - Can It REALLY Save You Money?",
+    "meta": [
+     "17K",
+     "1mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 17000
+   },
+   {
+    "id": "OHJ8oMl40Kg",
+    "title": "I Thought Plug-In Solar Was Too Good To Be True...",
+    "meta": [
+     "45K",
+     "2mo ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 45000
+   },
+   {
+    "id": "04AHt3Tpwlc",
+    "title": "This Solar Install Was A Disaster - Can I Fix It?",
+    "meta": [
+     "13K",
+     "2mo ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 13000
+   },
+   {
+    "id": "zgeB8CX6TyI",
+    "title": "Cheap vs Expensive Solar Panels - What\u2019s the Real Difference?",
+    "meta": [
+     "41K",
+     "2mo ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 41000
+   },
+   {
+    "id": "6CyvJuCzYSs",
+    "title": "Battery Manufacturers DON\u2019T Want You To Know This...",
+    "meta": [
+     "26K",
+     "2mo ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 26000
+   },
+   {
+    "id": "oZXHAcVK5Is",
+    "title": "Andy Burnham is Dropping Energy Prices (But It Will Cost You More)",
+    "meta": [
+     "8.3K",
+     "3mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 8300
+   },
+   {
+    "id": "5sURITqieJw",
+    "title": "This House Was Getting Paid \u00a33700 a Year For Energy",
+    "meta": [
+     "56K",
+     "3mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 56000
+   },
+   {
+    "id": "3ocipjwJuCU",
+    "title": "\u00a33 Billion Solar Grants for UK Homeowners (and You Probably Qualify)",
+    "meta": [
+     "54K",
+     "3mo ago"
+    ],
+    "dur": "22:13",
+    "views_tab": 54000
+   },
+   {
+    "id": "wWPwT84xTRI",
+    "title": "Sigenergy's NEW Products Blew My Mind...",
+    "meta": [
+     "38K",
+     "3mo ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 38000
+   },
+   {
+    "id": "dPEh9hJ1tjE",
+    "title": "Solar Tax Incoming for UK Homeowners",
+    "meta": [
+     "51K",
+     "4mo ago"
+    ],
+    "dur": "15:23",
+    "views_tab": 51000
+   },
+   {
+    "id": "0cnQ5LWwgNg",
+    "title": "This Small Change Gained Them 37% on Their Solar Setup!",
+    "meta": [
+     "14K",
+     "4mo ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "q2Yauf8S_Ac",
+    "title": "This AC Unit Does Everything for Half the Price",
+    "meta": [
+     "39K",
+     "4mo ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 39000
+   },
+   {
+    "id": "8yRUNkODmEA",
+    "title": "What Solar Salespeople Don\u2019t Tell You About Batteries",
+    "meta": [
+     "9.8K",
+     "4mo ago"
+    ],
+    "dur": "20:42",
+    "views_tab": 9800
+   },
+   {
+    "id": "9cfhSgnJDRI",
+    "title": "Home Energy Costs Are CHANGING: Will You Win or Lose?",
+    "meta": [
+     "31K",
+     "4mo ago"
+    ],
+    "dur": "18:27",
+    "views_tab": 31000
+   },
+   {
+    "id": "eygIgLBdrF0",
+    "title": "Is This The Future of AC? (Samsung Windfree S2)",
+    "meta": [
+     "270K",
+     "5mo ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 270000
+   },
+   {
+    "id": "58syFyq7H1A",
+    "title": "Heat Pumps Need One Thing to BEAT Gas Boilers (Most Homes Don't Have It)",
+    "meta": [
+     "80K",
+     "5mo ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 80000
+   },
+   {
+    "id": "wqlLlUmiEZA",
+    "title": "12 Mistakes Solar Owners Make That LOSE Them Money",
+    "meta": [
+     "61K",
+     "5mo ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 61000
+   },
+   {
+    "id": "hrKRlnOkudo",
+    "title": "This Solar Panel is Taking Over! The NEW Longi HiMO X10 Solar Panel Review",
+    "meta": [
+     "27K",
+     "5mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "WLQsEE27_VQ",
+    "title": "We Investigated Sigenergy\u2019s Inverter Problems - What\u2019s Going On?",
+    "meta": [
+     "88K",
+     "6mo ago"
+    ],
+    "dur": "21:14",
+    "views_tab": 88000
+   },
+   {
+    "id": "a-VUC-6XlcM",
+    "title": "Here\u2019s Why Solar Could Become Unaffordable",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 13000
+   },
+   {
+    "id": "y0oD2gVAMTw",
+    "title": "Plug In Solar is Here\u2026 But Does It Actually Work?",
+    "meta": [
+     "240K",
+     "6mo ago"
+    ],
+    "dur": "13:36",
+    "views_tab": 240000
+   },
+   {
+    "id": "sfWiRnPWPIY",
+    "title": "They Spent Nearly \u00a3100k for \u00a30 Energy Bills\u2026 Is This the Future?",
+    "meta": [
+     "22K",
+     "6mo ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 22000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "uMxDIyNv3Ak",
+    "title": "I Was Forced To Buy A Heat Pump",
+    "meta": [
+     "23K",
+     "3d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 23000
+   },
+   {
+    "id": "_yPj13FpeNo",
+    "title": "A UK Solar Tax is COMING - Should You Be Concerned?",
+    "meta": [
+     "188K",
+     "12d ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 188000
+   },
+   {
+    "id": "8Uuk0ZY7L9k",
+    "title": "I Built a Boiler From Scratch to See How It Actually Works",
+    "meta": [
+     "6.1K",
+     "2w ago"
+    ],
+    "dur": "16:17",
+    "views_tab": 6100
+   },
+   {
+    "id": "uW57h6GqN4A",
+    "title": "This Heat Pump Comes With Free Air Con (But there\u2019s a catch\u2026)",
+    "meta": [
+     "76K",
+     "3w ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 76000
+   },
+   {
+    "id": "xeIdB-Xu1sM",
+    "title": "We Just Cut the Interest on Solar by More Than Half",
+    "meta": [
+     "16K",
+     "1mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 16000
+   },
+   {
+    "id": "DnpLv_hvvHM",
+    "title": "This Product Could Solve Solar's Biggest Issue",
+    "meta": [
+     "27K",
+     "1mo ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 27000
+   },
+   {
+    "id": "-LMbCdAITV4",
+    "title": "Power Cuts Could Destroy This \u00a35M Car Collection",
+    "meta": [
+     "Heatable",
+     "and Tomi Auto",
+     "10K",
+     "1mo ago"
+    ],
+    "dur": "22:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "WfXTAcRNPzk",
+    "title": "This New Heat Pump Could Finish Boilers",
+    "meta": [
+     "264K",
+     "1mo ago"
+    ],
+    "dur": "17:23",
+    "views_tab": 264000
+   },
+   {
+    "id": "a2bM0JluVZ4",
+    "title": "Testing the Tado X AI Thermostat - Can It REALLY Save You Money?",
+    "meta": [
+     "17K",
+     "1mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 17000
+   },
+   {
+    "id": "OHJ8oMl40Kg",
+    "title": "I Thought Plug-In Solar Was Too Good To Be True...",
+    "meta": [
+     "45K",
+     "2mo ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 45000
+   },
+   {
+    "id": "04AHt3Tpwlc",
+    "title": "This Solar Install Was A Disaster - Can I Fix It?",
+    "meta": [
+     "13K",
+     "2mo ago"
+    ],
+    "dur": "18:10",
+    "views_tab": 13000
+   },
+   {
+    "id": "zgeB8CX6TyI",
+    "title": "Cheap vs Expensive Solar Panels - What\u2019s the Real Difference?",
+    "meta": [
+     "41K",
+     "2mo ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 41000
+   },
+   {
+    "id": "6CyvJuCzYSs",
+    "title": "Battery Manufacturers DON\u2019T Want You To Know This...",
+    "meta": [
+     "26K",
+     "2mo ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 26000
+   },
+   {
+    "id": "oZXHAcVK5Is",
+    "title": "Andy Burnham is Dropping Energy Prices (But It Will Cost You More)",
+    "meta": [
+     "8.3K",
+     "3mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 8300
+   },
+   {
+    "id": "5sURITqieJw",
+    "title": "This House Was Getting Paid \u00a33700 a Year For Energy",
+    "meta": [
+     "56K",
+     "3mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 56000
+   },
+   {
+    "id": "3ocipjwJuCU",
+    "title": "\u00a33 Billion Solar Grants for UK Homeowners (and You Probably Qualify)",
+    "meta": [
+     "54K",
+     "3mo ago"
+    ],
+    "dur": "22:13",
+    "views_tab": 54000
+   },
+   {
+    "id": "wWPwT84xTRI",
+    "title": "Sigenergy's NEW Products Blew My Mind...",
+    "meta": [
+     "38K",
+     "3mo ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 38000
+   },
+   {
+    "id": "dPEh9hJ1tjE",
+    "title": "Solar Tax Incoming for UK Homeowners",
+    "meta": [
+     "51K",
+     "4mo ago"
+    ],
+    "dur": "15:23",
+    "views_tab": 51000
+   },
+   {
+    "id": "0cnQ5LWwgNg",
+    "title": "This Small Change Gained Them 37% on Their Solar Setup!",
+    "meta": [
+     "14K",
+     "4mo ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "q2Yauf8S_Ac",
+    "title": "This AC Unit Does Everything for Half the Price",
+    "meta": [
+     "39K",
+     "4mo ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 39000
+   },
+   {
+    "id": "8yRUNkODmEA",
+    "title": "What Solar Salespeople Don\u2019t Tell You About Batteries",
+    "meta": [
+     "9.8K",
+     "4mo ago"
+    ],
+    "dur": "20:42",
+    "views_tab": 9800
+   },
+   {
+    "id": "9cfhSgnJDRI",
+    "title": "Home Energy Costs Are CHANGING: Will You Win or Lose?",
+    "meta": [
+     "31K",
+     "4mo ago"
+    ],
+    "dur": "18:27",
+    "views_tab": 31000
+   },
+   {
+    "id": "eygIgLBdrF0",
+    "title": "Is This The Future of AC? (Samsung Windfree S2)",
+    "meta": [
+     "270K",
+     "5mo ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 270000
+   },
+   {
+    "id": "58syFyq7H1A",
+    "title": "Heat Pumps Need One Thing to BEAT Gas Boilers (Most Homes Don't Have It)",
+    "meta": [
+     "80K",
+     "5mo ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 80000
+   },
+   {
+    "id": "wqlLlUmiEZA",
+    "title": "12 Mistakes Solar Owners Make That LOSE Them Money",
+    "meta": [
+     "61K",
+     "5mo ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 61000
+   },
+   {
+    "id": "hrKRlnOkudo",
+    "title": "This Solar Panel is Taking Over! The NEW Longi HiMO X10 Solar Panel Review",
+    "meta": [
+     "27K",
+     "5mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "WLQsEE27_VQ",
+    "title": "We Investigated Sigenergy\u2019s Inverter Problems - What\u2019s Going On?",
+    "meta": [
+     "88K",
+     "6mo ago"
+    ],
+    "dur": "21:14",
+    "views_tab": 88000
+   },
+   {
+    "id": "a-VUC-6XlcM",
+    "title": "Here\u2019s Why Solar Could Become Unaffordable",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 13000
+   },
+   {
+    "id": "y0oD2gVAMTw",
+    "title": "Plug In Solar is Here\u2026 But Does It Actually Work?",
+    "meta": [
+     "240K",
+     "6mo ago"
+    ],
+    "dur": "13:36",
+    "views_tab": 240000
+   },
+   {
+    "id": "sfWiRnPWPIY",
+    "title": "They Spent Nearly \u00a3100k for \u00a30 Energy Bills\u2026 Is This the Future?",
+    "meta": [
+     "22K",
+     "6mo ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 22000
+   },
+   {
+    "id": "KBwlRndl_l0",
+    "title": "Don\u2019t Buy an EV Charger Until You Watch This",
+    "meta": [
+     "Heatable",
+     "and Efficient Alex",
+     "25K",
+     "6mo ago"
+    ],
+    "dur": "16:05",
+    "views_tab": 25000
+   },
+   {
+    "id": "MtDxaMsMBCA",
+    "title": "Are Chinese Solar Batteries Taking Over?",
+    "meta": [
+     "18K",
+     "7mo ago"
+    ],
+    "dur": "20:29",
+    "views_tab": 18000
+   },
+   {
+    "id": "urReHw0tx5k",
+    "title": "This Battery Boiler Could Replace Gas!",
+    "meta": [
+     "76K",
+     "7mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 76000
+   },
+   {
+    "id": "66y4OehwdeM",
+    "title": "They Told Us Their Battery Will Change EVERYTHING",
+    "meta": [
+     "Heatable",
+     "and Gary Does Solar \u2600\ufe0f ",
+     "16K",
+     "7mo ago"
+    ],
+    "dur": "20:39",
+    "views_tab": 16000
+   },
+   {
+    "id": "WPZGJmpAFTY",
+    "title": "Tesla Powerwall 3 vs Sigenergy - Which is Best in 2026?",
+    "meta": [
+     "77K",
+     "7mo ago"
+    ],
+    "dur": "21:33",
+    "views_tab": 77000
+   },
+   {
+    "id": "Y44VttZ79zI",
+    "title": "You Might Be Losing Money With Octopus Solar!",
+    "meta": [
+     "12K",
+     "8mo ago"
+    ],
+    "dur": "11:45",
+    "views_tab": 12000
+   },
+   {
+    "id": "q8TXcv6_1GM",
+    "title": "Don't Make This Boiler Mistake (1,000 Homeowners Regret It)",
+    "meta": [
+     "3.4K",
+     "8mo ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 3400
+   },
+   {
+    "id": "eJqsmPgpp4A",
+    "title": "We Got a Call From a Customer (He Was NOT Happy!)",
+    "meta": [
+     "26K",
+     "8mo ago"
+    ],
+    "dur": "20:10",
+    "views_tab": 26000
+   },
+   {
+    "id": "CG5sGwwnurw",
+    "title": "Here's How the NEW Solar Grants Work | Warm Homes",
+    "meta": [
+     "29K",
+     "8mo ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 29000
+   },
+   {
+    "id": "h2OeOe2JIbA",
+    "title": "Top 5 BEST Solar Batteries For 2026",
+    "meta": [
+     "Heatable",
+     "and Sigenergy",
+     "96K",
+     "8mo ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 96000
+   },
+   {
+    "id": "Rw6uRaIu0aw",
+    "title": "Your Solar Battery Is Useless in A Powercut: Here\u2019s WHY",
+    "meta": [
+     "22K",
+     "9mo ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 22000
+   },
+   {
+    "id": "cjeD43rrGf8",
+    "title": "Solar Battery Prices are About To Soar | Here\u2019s Why!",
+    "meta": [
+     "14K",
+     "9mo ago"
+    ],
+    "dur": "9:52",
+    "views_tab": 14000
+   },
+   {
+    "id": "tART6S1w1VM",
+    "title": "NEW Boiler Tax Goes Live | BAD News For Homeowners?",
+    "meta": [
+     "32K",
+     "9mo ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 32000
+   },
+   {
+    "id": "Bxu0mcgSLvs",
+    "title": "Gary Does Solar Rates Our Solar Install",
+    "meta": [
+     "Heatable",
+     "and Gary Does Solar \u2600\ufe0f ",
+     "22K",
+     "9mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 22000
+   },
+   {
+    "id": "eq6W76Ar5_s",
+    "title": "Solar Scams UK | How To NOT Get Caught Out",
+    "meta": [
+     "3.1K",
+     "9mo ago"
+    ],
+    "dur": "11:25",
+    "views_tab": 3100
+   },
+   {
+    "id": "NxeEWu9_hA4",
+    "title": "The Reality of Selling \"BORING\" Products",
+    "meta": [
+     "36K",
+     "10mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 36000
+   },
+   {
+    "id": "G29qaR3Ky00",
+    "title": "Can You Heat Your Home Without a Boiler or a Heat Pump?",
+    "meta": [
+     "94K",
+     "10mo ago"
+    ],
+    "dur": "14:50",
+    "views_tab": 94000
+   },
+   {
+    "id": "CEQrk-kNdYY",
+    "title": "Think You Know About Sigenergy Sigenstor? Think Again",
+    "meta": [
+     "23K",
+     "10mo ago"
+    ],
+    "dur": "8:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "S4MGj3XE8Is",
+    "title": "Which Solar Battery Size Is Best For You?",
+    "meta": [
+     "47K",
+     "11mo ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 47000
+   },
+   {
+    "id": "YOTbp2lNRP8",
+    "title": "Think You Know About Tesla PW3's? Think Again.",
+    "meta": [
+     "12K",
+     "11mo ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 12000
+   },
+   {
+    "id": "Q24NLTQaZIg",
+    "title": "Why Did SigEnergy Pull This From Market?",
+    "meta": [
+     "30K",
+     "11mo ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 30000
+   },
+   {
+    "id": "HrzQ09XhBzM",
+    "title": "People are getting TIRED of this...",
+    "meta": [
+     "3.4K",
+     "11mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 3400
+   },
+   {
+    "id": "Wiy_bBWuixU",
+    "title": "Don't Make a MISTAKE... Buying a Boiler in 2025",
+    "meta": [
+     "12K",
+     "11mo ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 12000
+   },
+   {
+    "id": "bnuBU82nUpI",
+    "title": "Where is the Solar Industry Heading? Solar & Storage 2025",
+    "meta": [
+     "8.6K",
+     "11mo ago"
+    ],
+    "dur": "28:39",
+    "views_tab": 8600
+   },
+   {
+    "id": "zTx1C-piAIk",
+    "title": "Can You Really Make Money With Just a Battery?",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "22:19",
+    "views_tab": 12000
+   },
+   {
+    "id": "ktfw9Buo14g",
+    "title": "NEW Alpha Batteries Hit The Market | REVIEW",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "16:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "tFpCmIxtI3Y",
+    "title": "How Fast Can Solar Pay For Itself? Calculating ROI",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "13:43",
+    "views_tab": 6700
+   },
+   {
+    "id": "_L1D0qM6tXU",
+    "title": "Who\u2019s Tony? SigEnergy Launch BTS + Our 10K Subscriber Win! \ud83c\udf89",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 2000
+   },
+   {
+    "id": "GE5X5jO-_Jo",
+    "title": "Back at Hednesford. We found the battery problem.",
+    "meta": [
+     "6.3K",
+     "1y ago"
+    ],
+    "dur": "43:10",
+    "views_tab": 6300
+   },
+   {
+    "id": "L6I3pUFyXpU",
+    "title": "Why Do So Many Solar Companies Go Bust?",
+    "meta": [
+     "3.1K",
+     "1y ago"
+    ],
+    "dur": "18:30",
+    "views_tab": 3100
+   },
+   {
+    "id": "Jwg5gTr6Grw",
+    "title": "Top 5 Combi Boilers | 2026",
+    "meta": [
+     "70K",
+     "1y ago"
+    ],
+    "dur": "21:11",
+    "views_tab": 70000
+   },
+   {
+    "id": "tokmYvoxWE8",
+    "title": "Installing an Even BIGGER Battery system to SAVE The Grid",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "33:09",
+    "views_tab": 11000
+   },
+   {
+    "id": "QygWoHcFuwA",
+    "title": "Don't WASTE MONEY on Your Solar Inverter",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "12:45",
+    "views_tab": 19000
+   },
+   {
+    "id": "bkrr4i0PruU",
+    "title": "Are Sigenergy Misleading Their Customers? NEW Battery Update",
+    "meta": [
+     "92K",
+     "1y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 92000
+   },
+   {
+    "id": "J_JhL62KpUQ",
+    "title": "This Customer Saved HOW MUCH with NEW REA Fusion R Solar Panels?",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "29:46",
+    "views_tab": 11000
+   },
+   {
+    "id": "dyyJ41_4cco",
+    "title": "Can you get a UK grant for Air Con (AC)?",
+    "meta": [
+     "45K",
+     "1y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 45000
+   },
+   {
+    "id": "vI60_zXknzw",
+    "title": "How Can You Make Money with Tesla's NEW Scheme?",
+    "meta": [
+     "6.6K",
+     "1y ago"
+    ],
+    "dur": "10:51",
+    "views_tab": 6600
+   },
+   {
+    "id": "09L6pgQP95k",
+    "title": "Sigenergy Showed Us Why Tesla Should Be Worried...",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "33:23",
+    "views_tab": 21000
+   },
+   {
+    "id": "8iAUqpq5CuA",
+    "title": "What Are The Best Solar Panels in 2026? Full Review & Update",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 20000
+   },
+   {
+    "id": "ijyJZFYGxUA",
+    "title": "REA's NEW Fusion R Solar Panel BEATS AIKO In Latest Study?",
+    "meta": [
+     "9.3K",
+     "1y ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 9300
+   },
+   {
+    "id": "aao3hwv9Pyw",
+    "title": "This CHURCH Needed Extra Power, So We Merged TWO INVERTERS",
+    "meta": [
+     "2.2K",
+     "1y ago"
+    ],
+    "dur": "27:51",
+    "views_tab": 2200
+   },
+   {
+    "id": "qr2RVIWpjZw",
+    "title": "Bosch 3000i Climate AC Review: The Future of Cooling?",
+    "meta": [
+     "151K",
+     "1y ago"
+    ],
+    "dur": "18:45",
+    "views_tab": 151000
+   },
+   {
+    "id": "L0XEU5H9YVM",
+    "title": "The Government Will Soon Take Control of Your Renewable Tech?",
+    "meta": [
+     "4.1K",
+     "1y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 4100
+   },
+   {
+    "id": "JnJdqPjN-os",
+    "title": "We SAVED this \u00a31.5M Eco Home\u2026 And It Got Us Cancelled",
+    "meta": [
+     "7.2K",
+     "1y ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 7200
+   },
+   {
+    "id": "wQ2iVZuOyZ0",
+    "title": "Why Is This 'Eco House' Paying \u00a31000 a Month for Heat?",
+    "meta": [
+     "9.6K",
+     "1y ago"
+    ],
+    "dur": "31:12",
+    "views_tab": 9600
+   },
+   {
+    "id": "RrXh9Cg0RV4",
+    "title": "The REALITY of \"Portable\" EV Chargers | EVDANCE 3-Pin Review",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "20:59",
+    "views_tab": 16000
+   },
+   {
+    "id": "OPVv4q7cimA",
+    "title": "The UK government just spent \u00a350M to TURN OFF THE SUN",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "11:17",
+    "views_tab": 1500
+   },
+   {
+    "id": "WDYJMUtlbrE",
+    "title": "Customer PAINTS HIS ROOF WHITE to BOOST Solar Efficiency",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "14:14",
+    "views_tab": 10000
+   },
+   {
+    "id": "XviWIJ7FqBg",
+    "title": "How Much Can You Save Going Green? Costs & Data Revealed",
+    "meta": [
+     "5.9K",
+     "1y ago"
+    ],
+    "dur": "23:24",
+    "views_tab": 5900
+   },
+   {
+    "id": "_7ihitVLjuQ",
+    "title": "Why Did We Dig This Giant Trench For Solar Power?",
+    "meta": [
+     "623",
+     "1y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 623
+   },
+   {
+    "id": "SU-wtU5qpro",
+    "title": "Sigenergy SigenStor Review | Tesla Should Be AFRAID!",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "25:33",
+    "views_tab": 42000
+   },
+   {
+    "id": "OVI1WJuv3ow",
+    "title": "The Boiler Tax Update You NEED To Know...",
+    "meta": [
+     "23K",
+     "1y ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "mMpmQk1H2wo",
+    "title": "Hypervolt Home 3 Pro Review with NEW updates",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 27000
+   },
+   {
+    "id": "M_cithl_nNw",
+    "title": "Thinking About DIY Solar? Watch THIS First.. ft Stus Reviews",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "30:25",
+    "views_tab": 4000
+   },
+   {
+    "id": "XyUl0Bwpz0I",
+    "title": "Solar and Battery Grants | Government support and FREE Cash?",
+    "meta": [
+     "8.8K",
+     "1y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 8800
+   },
+   {
+    "id": "9TJc25DZXdc",
+    "title": "Tesla Powerwall Gateway - Is It Really Needed?",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 26000
+   },
+   {
+    "id": "UPvz9XrR84Q",
+    "title": "Will This Battery Storage Hub REALLY Generate Passive Income?",
+    "meta": [
+     "3.5K",
+     "1y ago"
+    ],
+    "dur": "11:42",
+    "views_tab": 3500
+   },
+   {
+    "id": "nKmcm1H_8qY",
+    "title": "The REALITY of Installing Solar Panels on a Slate Roof...",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 20000
+   },
+   {
+    "id": "N-cRxknDels",
+    "title": "NEW Viessmann Vitodens 025W Combi Boiler Review",
+    "meta": [
+     "8.4K",
+     "1y ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 8400
+   },
+   {
+    "id": "nISn3x9hcl8",
+    "title": "Did Hednesford FC risk it all with THIS solar project?",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "25:36",
+    "views_tab": 13000
+   },
+   {
+    "id": "pmk_n8aJUPQ",
+    "title": "Tesla Powerwall 3 Just Got MASSIVE Battery Upgrade! | NEW Update",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "CEjnmX5jAF0",
+    "title": "Europe's FIRST H50 Battery Installation | Hednesford Town FC",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "28:18",
+    "views_tab": 13000
+   },
+   {
+    "id": "Xgv55D4ghDk",
+    "title": "We LOST \u00a315k on this solar job... So What Happened?",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 10000
+   },
+   {
+    "id": "YGk_819oMaQ",
+    "title": "Is a NORTH-facing Roof Good for Solar Panels? Data REVEALED",
+    "meta": [
+     "6.5K",
+     "1y ago"
+    ],
+    "dur": "17:32",
+    "views_tab": 6500
+   },
+   {
+    "id": "6jLbJL9QiEs",
+    "title": "Tado V3+ Thermostat Instructions",
+    "meta": [
+     "8.4K",
+     "1y ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 8400
+   },
+   {
+    "id": "Hyg4GIAAwpM",
+    "title": "Our MASSIVE Solar Install went COMPLETELY WRONG",
+    "meta": [
+     "4.8K",
+     "1y ago"
+    ],
+    "dur": "29:53",
+    "views_tab": 4800
+   },
+   {
+    "id": "6FJywv2pVVw",
+    "title": "2024 Best Solar Installations | The GOOD and BAD",
+    "meta": [
+     "1.3K",
+     "1y ago"
+    ],
+    "dur": "3:05:27",
+    "views_tab": 1300
+   },
+   {
+    "id": "tiqmuC423Uo",
+    "title": "Which Coupling Type is BEST for Alpha G3 Batteries?",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "18:20",
+    "views_tab": 8600
+   },
+   {
+    "id": "tiSY8PAajVY",
+    "title": "How long does it ACTUALLY take to replace your boiler?",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 1800
+   },
+   {
+    "id": "GRgtPzVt3VM",
+    "title": "Expanding a Tesla Powerwall 2 Before the Deadline?",
+    "meta": [
+     "4.6K",
+     "1y ago"
+    ],
+    "dur": "6:23",
+    "views_tab": 4600
+   },
+   {
+    "id": "uQ63ivozPAA",
+    "title": "EARN CASH from Wind Turbines? | Heatable Hub EXPLAINED",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 2300
+   },
+   {
+    "id": "VyDyBeJvoMc",
+    "title": "Honeywell T3R Thermostat Instructions",
+    "meta": [
+     "59K",
+     "1y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 59000
+   },
+   {
+    "id": "thtcD-cCjME",
+    "title": "Is this Alpha battery BETTER than Tesla's Powerwall 3?",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "16:58",
+    "views_tab": 27000
+   },
+   {
+    "id": "5C4_2_qjhXc",
+    "title": "Is This Compact Boiler the BEST for Your Home? Glow-Worm Review",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "14:31",
+    "views_tab": 10000
+   },
+   {
+    "id": "2PRHnxdRezA",
+    "title": "Frozen Boiler Condensate Pipe FIXED in Minutes | How to Guide",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 16000
+   },
+   {
+    "id": "4QgtwvWjl6E",
+    "title": "Upgrading a Battery Storage set up | UK Solar Install",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "23:22",
+    "views_tab": 6700
+   },
+   {
+    "id": "mwultFYm1EE",
+    "title": "Revealing the BEST and WORST of the Alpha EV Charger | Full Review",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 2400
+   },
+   {
+    "id": "Xla2YjMS-gM",
+    "title": "What's the Best Budget Boiler of 2025?",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "25:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "3wzsXkSKQdA",
+    "title": "Boost Your Boiler Efficiency NOW and SAVE Money!",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "13:54",
+    "views_tab": 1800
+   },
+   {
+    "id": "o5Zhaf4sL1U",
+    "title": "How Does SOLAR ENERGY Power Your Home?",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 11000
+   },
+   {
+    "id": "ocvVJl1MTB4",
+    "title": "How much does a new boiler cost in 2025?",
+    "meta": [
+     "4.4K",
+     "1y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 4400
+   },
+   {
+    "id": "jFZUyhdrqXs",
+    "title": "Is AC or DC Coupling the BEST for Your Tesla Powerwall 3?",
+    "meta": [
+     "7.1K",
+     "2y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 7100
+   },
+   {
+    "id": "N2fvvf-h-oE",
+    "title": "Boiler Pressure TOO LOW | How to Increase Water Pressure DIY Guide",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 44000
+   },
+   {
+    "id": "BpZY1t9GeYk",
+    "title": "Is THIS The Best Boiler Yet? Worcester Bosch 8000+ Review",
+    "meta": [
+     "37K",
+     "2y ago"
+    ],
+    "dur": "17:48",
+    "views_tab": 37000
+   },
+   {
+    "id": "7Kj73aJ-JKE",
+    "title": "Is Servicing Your Boiler REALLY Worth the Cost?",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 753
+   },
+   {
+    "id": "kHBKwiIDH5g",
+    "title": "HUGE Solar ACM Installation UK | Behind the Scenes",
+    "meta": [
+     "3.5K",
+     "2y ago"
+    ],
+    "dur": "28:27",
+    "views_tab": 3500
+   },
+   {
+    "id": "4ubbf4118YY",
+    "title": "Boiler Pressure TOO High | How to Reduce Water Pressure DIY Guide",
+    "meta": [
+     "113K",
+     "2y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 113000
+   },
+   {
+    "id": "L8SlPn07BHo",
+    "title": "Netzero App Review | Tesla Powerwall Integration - Is it Worth It?",
+    "meta": [
+     "14K",
+     "2y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "pszCuCLOdK4",
+    "title": "THIS is the World's Most Powerful ACM | REA ACM Review",
+    "meta": [
+     "8.4K",
+     "2y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 8400
+   },
+   {
+    "id": "kmPLlrh-nPE",
+    "title": "Fixing Boiler Issues: 10 Common Problems & Easy Solutions",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 36000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "XrZFYhFOtfc",
+    "title": "Adrian met Heatable online, and fell in love.",
+    "meta": [
+     "3.5M",
+     "3y ago"
+    ],
+    "dur": "1:14",
+    "views_tab": 3500000
+   },
+   {
+    "id": "1UmJpyoonEI",
+    "title": "How To Top Up Your Boiler Pressure | QUICK Home Fix",
+    "meta": [
+     "341K",
+     "5y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 341000
+   },
+   {
+    "id": "YoccWxLQims",
+    "title": "Center Programmable Room Thermostat Instructions | Step By Step Guide",
+    "meta": [
+     "329K",
+     "3y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 329000
+   },
+   {
+    "id": "NPMejXV_4hE",
+    "title": "Hive Smart Thermostat Instructions | Step By Step Guide",
+    "meta": [
+     "301K",
+     "3y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 301000
+   },
+   {
+    "id": "XICUbnDaUYU",
+    "title": "ESI Programmable Room Thermostat Instructions | Step By Step Guide",
+    "meta": [
+     "276K",
+     "3y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 276000
+   },
+   {
+    "id": "eygIgLBdrF0",
+    "title": "Is This The Future of AC? (Samsung Windfree S2)",
+    "meta": [
+     "270K",
+     "5mo ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 270000
+   },
+   {
+    "id": "WfXTAcRNPzk",
+    "title": "This New Heat Pump Could Finish Boilers",
+    "meta": [
+     "264K",
+     "1mo ago"
+    ],
+    "dur": "17:23",
+    "views_tab": 264000
+   },
+   {
+    "id": "y0oD2gVAMTw",
+    "title": "Plug In Solar is Here\u2026 But Does It Actually Work?",
+    "meta": [
+     "240K",
+     "6mo ago"
+    ],
+    "dur": "13:36",
+    "views_tab": 240000
+   },
+   {
+    "id": "DWWezfAhQlo",
+    "title": "EPH Programmable Room Thermostat Instructions - Combi Pack 4",
+    "meta": [
+     "239K",
+     "3y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 239000
+   },
+   {
+    "id": "uUtYsGyyWRo",
+    "title": "Phil loved Heatable's unique and simple solar tool",
+    "meta": [
+     "206K",
+     "3y ago"
+    ],
+    "dur": "1:08",
+    "views_tab": 206000
+   },
+   {
+    "id": "U5L1aUSM-D0",
+    "title": "Are these the best combi boilers? | Our 2024 Review",
+    "meta": [
+     "197K",
+     "2y ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 197000
+   },
+   {
+    "id": "_yPj13FpeNo",
+    "title": "A UK Solar Tax is COMING - Should You Be Concerned?",
+    "meta": [
+     "188K",
+     "12d ago"
+    ],
+    "dur": "13:33",
+    "views_tab": 188000
+   },
+   {
+    "id": "qr2RVIWpjZw",
+    "title": "Bosch 3000i Climate AC Review: The Future of Cooling?",
+    "meta": [
+     "151K",
+     "1y ago"
+    ],
+    "dur": "18:45",
+    "views_tab": 151000
+   },
+   {
+    "id": "4ubbf4118YY",
+    "title": "Boiler Pressure TOO High | How to Reduce Water Pressure DIY Guide",
+    "meta": [
+     "113K",
+     "2y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 113000
+   },
+   {
+    "id": "h2OeOe2JIbA",
+    "title": "Top 5 BEST Solar Batteries For 2026",
+    "meta": [
+     "Heatable",
+     "and Sigenergy",
+     "96K",
+     "8mo ago"
+    ],
+    "dur": "19:03",
+    "views_tab": 96000
+   },
+   {
+    "id": "DwaThkp0ve4",
+    "title": "Viessmann Vitodens 100 Review - Updated 2021 Model",
+    "meta": [
+     "94K",
+     "5y ago"
+    ],
+    "dur": "11:58",
+    "views_tab": 94000
+   },
+   {
+    "id": "G29qaR3Ky00",
+    "title": "Can You Heat Your Home Without a Boiler or a Heat Pump?",
+    "meta": [
+     "94K",
+     "10mo ago"
+    ],
+    "dur": "14:50",
+    "views_tab": 94000
+   },
+   {
+    "id": "bkrr4i0PruU",
+    "title": "Are Sigenergy Misleading Their Customers? NEW Battery Update",
+    "meta": [
+     "92K",
+     "1y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 92000
+   },
+   {
+    "id": "qk0W9asifak",
+    "title": "Win A Free Viessmann Boiler | Competition",
+    "meta": [
+     "90K",
+     "5y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 90000
+   },
+   {
+    "id": "WLQsEE27_VQ",
+    "title": "We Investigated Sigenergy\u2019s Inverter Problems - What\u2019s Going On?",
+    "meta": [
+     "88K",
+     "6mo ago"
+    ],
+    "dur": "21:14",
+    "views_tab": 88000
+   },
+   {
+    "id": "9GLHP_fm-vU",
+    "title": "Air Source Heat Pump Installation & Set-up UK Case Study",
+    "meta": [
+     "86K",
+     "3y ago"
+    ],
+    "dur": "29:50",
+    "views_tab": 86000
+   },
+   {
+    "id": "58syFyq7H1A",
+    "title": "Heat Pumps Need One Thing to BEAT Gas Boilers (Most Homes Don't Have It)",
+    "meta": [
+     "80K",
+     "5mo ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 80000
+   },
+   {
+    "id": "WPZGJmpAFTY",
+    "title": "Tesla Powerwall 3 vs Sigenergy - Which is Best in 2026?",
+    "meta": [
+     "77K",
+     "7mo ago"
+    ],
+    "dur": "21:33",
+    "views_tab": 77000
+   },
+   {
+    "id": "urReHw0tx5k",
+    "title": "This Battery Boiler Could Replace Gas!",
+    "meta": [
+     "76K",
+     "7mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 76000
+   },
+   {
+    "id": "uW57h6GqN4A",
+    "title": "This Heat Pump Comes With Free Air Con (But there\u2019s a catch\u2026)",
+    "meta": [
+     "76K",
+     "3w ago"
+    ],
+    "dur": "15:16",
+    "views_tab": 76000
+   },
+   {
+    "id": "Jwg5gTr6Grw",
+    "title": "Top 5 Combi Boilers | 2026",
+    "meta": [
+     "70K",
+     "1y ago"
+    ],
+    "dur": "21:11",
+    "views_tab": 70000
+   },
+   {
+    "id": "q3UgY0z9PrM",
+    "title": "5 Things We Wish We Knew Before Getting Solar With Allen Hart",
+    "meta": [
+     "70K",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 70000
+   },
+   {
+    "id": "Q-IKISP6Qqw",
+    "title": "Worcester Bosch 4000 Boiler Review | Plumbers Verdict",
+    "meta": [
+     "69K",
+     "3y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 69000
+   },
+   {
+    "id": "1Sq5lKDDcKk",
+    "title": "How To Save Money On Your Energy Bills | Money Saving Tips",
+    "meta": [
+     "62K",
+     "5y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 62000
+   },
+   {
+    "id": "70_iSRBtakM",
+    "title": "Worcester Bosch 4000 Boiler Review",
+    "meta": [
+     "61K",
+     "5y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 61000
+   },
+   {
+    "id": "wqlLlUmiEZA",
+    "title": "12 Mistakes Solar Owners Make That LOSE Them Money",
+    "meta": [
+     "61K",
+     "5mo ago"
+    ],
+    "dur": "21:57",
+    "views_tab": 61000
+   },
+   {
+    "id": "JxW7jJRdPJE",
+    "title": "Best Smart Thermostats | Top Four",
+    "meta": [
+     "61K",
+     "5y ago"
+    ],
+    "dur": "15:39",
+    "views_tab": 61000
+   },
+   {
+    "id": "VyDyBeJvoMc",
+    "title": "Honeywell T3R Thermostat Instructions",
+    "meta": [
+     "59K",
+     "1y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 59000
+   },
+   {
+    "id": "5sURITqieJw",
+    "title": "This House Was Getting Paid \u00a33700 a Year For Energy",
+    "meta": [
+     "56K",
+     "3mo ago"
+    ],
+    "dur": "17:04",
+    "views_tab": 56000
+   },
+   {
+    "id": "3ocipjwJuCU",
+    "title": "\u00a33 Billion Solar Grants for UK Homeowners (and You Probably Qualify)",
+    "meta": [
+     "54K",
+     "3mo ago"
+    ],
+    "dur": "22:13",
+    "views_tab": 54000
+   },
+   {
+    "id": "zYMYzpPTnG4",
+    "title": "Tesla Powerwall 3 Review | The Future of Home Battery Storage?",
+    "meta": [
+     "53K",
+     "2y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 53000
+   },
+   {
+    "id": "dPEh9hJ1tjE",
+    "title": "Solar Tax Incoming for UK Homeowners",
+    "meta": [
+     "51K",
+     "4mo ago"
+    ],
+    "dur": "15:23",
+    "views_tab": 51000
+   },
+   {
+    "id": "S4MGj3XE8Is",
+    "title": "Which Solar Battery Size Is Best For You?",
+    "meta": [
+     "47K",
+     "11mo ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 47000
+   },
+   {
+    "id": "H4ssa8b7eBw",
+    "title": "Heatable Is Officially a Which? Trusted Trader",
+    "meta": [
+     "46K",
+     "4y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 46000
+   },
+   {
+    "id": "dyyJ41_4cco",
+    "title": "Can you get a UK grant for Air Con (AC)?",
+    "meta": [
+     "45K",
+     "1y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 45000
+   },
+   {
+    "id": "OHJ8oMl40Kg",
+    "title": "I Thought Plug-In Solar Was Too Good To Be True...",
+    "meta": [
+     "45K",
+     "2mo ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 45000
+   },
+   {
+    "id": "o_EfleTQj9o",
+    "title": "What size boiler do I need? | Boiler Size Calculator UK",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 44000
+   },
+   {
+    "id": "qtgwSwsP8e0",
+    "title": "How To Bleed a Radiator",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 44000
+   },
+   {
+    "id": "N2fvvf-h-oE",
+    "title": "Boiler Pressure TOO LOW | How to Increase Water Pressure DIY Guide",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 44000
+   },
+   {
+    "id": "SU-wtU5qpro",
+    "title": "Sigenergy SigenStor Review | Tesla Should Be AFRAID!",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "25:33",
+    "views_tab": 42000
+   },
+   {
+    "id": "zgeB8CX6TyI",
+    "title": "Cheap vs Expensive Solar Panels - What\u2019s the Real Difference?",
+    "meta": [
+     "41K",
+     "2mo ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 41000
+   },
+   {
+    "id": "BLV68siRpJA",
+    "title": "Best Combi Boilers | Top Five UK",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 41000
+   },
+   {
+    "id": "TmdauYqgHQM",
+    "title": "Tesla Powerwall 3 Installation: From Start to Finish",
+    "meta": [
+     "41K",
+     "2y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 41000
+   },
+   {
+    "id": "h_PBYiV-ujY",
+    "title": "Worcester Bosch or Viessmann | Worcester Bosch 8000 Vs Viessmann 100",
+    "meta": [
+     "39K",
+     "5y ago"
+    ],
+    "dur": "12:37",
+    "views_tab": 39000
+   },
+   {
+    "id": "q2Yauf8S_Ac",
+    "title": "This AC Unit Does Everything for Half the Price",
+    "meta": [
+     "39K",
+     "4mo ago"
+    ],
+    "dur": "13:06",
+    "views_tab": 39000
+   },
+   {
+    "id": "wWPwT84xTRI",
+    "title": "Sigenergy's NEW Products Blew My Mind...",
+    "meta": [
+     "38K",
+     "3mo ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 38000
+   },
+   {
+    "id": "BpZY1t9GeYk",
+    "title": "Is THIS The Best Boiler Yet? Worcester Bosch 8000+ Review",
+    "meta": [
+     "37K",
+     "2y ago"
+    ],
+    "dur": "17:48",
+    "views_tab": 37000
+   },
+   {
+    "id": "kmPLlrh-nPE",
+    "title": "Fixing Boiler Issues: 10 Common Problems & Easy Solutions",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 36000
+   },
+   {
+    "id": "NxeEWu9_hA4",
+    "title": "The Reality of Selling \"BORING\" Products",
+    "meta": [
+     "36K",
+     "10mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 36000
+   },
+   {
+    "id": "hSsH-lNickg",
+    "title": "What Is A Combi Boiler?",
+    "meta": [
+     "34K",
+     "5y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 34000
+   },
+   {
+    "id": "tART6S1w1VM",
+    "title": "NEW Boiler Tax Goes Live | BAD News For Homeowners?",
+    "meta": [
+     "32K",
+     "9mo ago"
+    ],
+    "dur": "11:07",
+    "views_tab": 32000
+   },
+   {
+    "id": "gkrvZAbIXPs",
+    "title": "Vaillant ecoTEC Plus Review (Latest Model)",
+    "meta": [
+     "32K",
+     "3y ago"
+    ],
+    "dur": "16:33",
+    "views_tab": 32000
+   },
+   {
+    "id": "i9QCqnztlbc",
+    "title": "Should I Buy A Combi Boiler Or A System Boiler?",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 31000
+   },
+   {
+    "id": "-8xfA67m6B0",
+    "title": "Worcester Bosch 2000 Review",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 31000
+   },
+   {
+    "id": "9cfhSgnJDRI",
+    "title": "Home Energy Costs Are CHANGING: Will You Win or Lose?",
+    "meta": [
+     "31K",
+     "4mo ago"
+    ],
+    "dur": "18:27",
+    "views_tab": 31000
+   },
+   {
+    "id": "sy-KURGK3jY",
+    "title": "Worcester CDI Compact | Boiler REVIEW",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 31000
+   },
+   {
+    "id": "Q24NLTQaZIg",
+    "title": "Why Did SigEnergy Pull This From Market?",
+    "meta": [
+     "30K",
+     "11mo ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 30000
+   },
+   {
+    "id": "_CjhX9OIoH0",
+    "title": "The Difference Between The Viessmann Vitodens 100 & Viessmann 050 Combi Boiler | Review | 2021",
+    "meta": [
+     "29K",
+     "4y ago"
+    ],
+    "dur": "11:35",
+    "views_tab": 29000
+   },
+   {
+    "id": "CG5sGwwnurw",
+    "title": "Here's How the NEW Solar Grants Work | Warm Homes",
+    "meta": [
+     "29K",
+     "8mo ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 29000
+   },
+   {
+    "id": "1IwRIsw9-xs",
+    "title": "The Future Of Solar PV Is Here | AC VS Traditional DC Solar Panel System",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 29000
+   },
+   {
+    "id": "3EhSPuvt8Mg",
+    "title": "Worcester Bosch 8000 and Worcester Bosch Greenstar i | Boiler Review",
+    "meta": [
+     "28K",
+     "5y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 28000
+   },
+   {
+    "id": "hrKRlnOkudo",
+    "title": "This Solar Panel is Taking Over! The NEW Longi HiMO X10 Solar Panel Review",
+    "meta": [
+     "27K",
+     "5mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "lcOR_E0Fzsw",
+    "title": "Best Solar Batteries (UK) - Are These The Top Five?",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 27000
+   },
+   {
+    "id": "DnpLv_hvvHM",
+    "title": "This Product Could Solve Solar's Biggest Issue",
+    "meta": [
+     "27K",
+     "1mo ago"
+    ],
+    "dur": "15:18",
+    "views_tab": 27000
+   },
+   {
+    "id": "Vjc_D81RYRw",
+    "title": "How much do solar panels REALLY save you? UK Case Study",
+    "meta": [
+     "27K",
+     "3y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 27000
+   },
+   {
+    "id": "thtcD-cCjME",
+    "title": "Is this Alpha battery BETTER than Tesla's Powerwall 3?",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "16:58",
+    "views_tab": 27000
+   },
+   {
+    "id": "mMpmQk1H2wo",
+    "title": "Hypervolt Home 3 Pro Review with NEW updates",
+    "meta": [
+     "27K",
+     "1y ago"
+    ],
+    "dur": "16:08",
+    "views_tab": 27000
+   },
+   {
+    "id": "6CyvJuCzYSs",
+    "title": "Battery Manufacturers DON\u2019T Want You To Know This...",
+    "meta": [
+     "26K",
+     "2mo ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 26000
+   },
+   {
+    "id": "eJqsmPgpp4A",
+    "title": "We Got a Call From a Customer (He Was NOT Happy!)",
+    "meta": [
+     "26K",
+     "8mo ago"
+    ],
+    "dur": "20:10",
+    "views_tab": 26000
+   },
+   {
+    "id": "9TJc25DZXdc",
+    "title": "Tesla Powerwall Gateway - Is It Really Needed?",
+    "meta": [
+     "26K",
+     "1y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 26000
+   },
+   {
+    "id": "Xla2YjMS-gM",
+    "title": "What's the Best Budget Boiler of 2025?",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "25:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "KBwlRndl_l0",
+    "title": "Don\u2019t Buy an EV Charger Until You Watch This",
+    "meta": [
+     "Heatable",
+     "and Efficient Alex",
+     "25K",
+     "6mo ago"
+    ],
+    "dur": "16:05",
+    "views_tab": 25000
+   },
+   {
+    "id": "anJySspBl_A",
+    "title": "Solar Panel (PV) Installation (Including Battery Storage) With Allen Hart",
+    "meta": [
+     "25K",
+     "4y ago"
+    ],
+    "dur": "32:23",
+    "views_tab": 25000
+   },
+   {
+    "id": "4A2DvhdXdjM",
+    "title": "Ideal Logic Plus Boiler Review",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 24000
+   },
+   {
+    "id": "6XdpfKME0BA",
+    "title": "Heatable - #MakeBoilersSexy",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "0:21",
+    "views_tab": 24000
+   },
+   {
+    "id": "oBdFK3Ev5Po",
+    "title": "Which Is The Best Worcester Boiler? Worcester Bosch 2000 vs Worcester Bosch 4000 vs Worcester 8000",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "11:25",
+    "views_tab": 24000
+   },
+   {
+    "id": "4SqP2y-zZV0",
+    "title": "Should I Repair Or Replace My Boiler",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 23000
+   },
+   {
+    "id": "HTHeQJQE4Gg",
+    "title": "Viessmann Vitodens 111-W Storage Combi Boiler Review | Viessmann Review | Updated 2021 Model",
+    "meta": [
+     "23K",
+     "4y ago"
+    ],
+    "dur": "14:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "OVI1WJuv3ow",
+    "title": "The Boiler Tax Update You NEED To Know...",
+    "meta": [
+     "23K",
+     "1y ago"
+    ],
+    "dur": "12:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "hHKXqH2dWgM",
+    "title": "How do solar panels perform in winter? Real world RESULTS!",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 23000
+   },
+   {
+    "id": "CEQrk-kNdYY",
+    "title": "Think You Know About Sigenergy Sigenstor? Think Again",
+    "meta": [
+     "23K",
+     "10mo ago"
+    ],
+    "dur": "8:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "uMxDIyNv3Ak",
+    "title": "I Was Forced To Buy A Heat Pump",
+    "meta": [
+     "23K",
+     "3d ago"
+    ],
+    "dur": "13:38",
+    "views_tab": 23000
+   },
+   {
+    "id": "t-jI4YBn0QQ",
+    "title": "Viessmann Vitodens 050-W Combi Boiler Review",
+    "meta": [
+     "23K",
+     "7y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 23000
+   },
+   {
+    "id": "Rw6uRaIu0aw",
+    "title": "Your Solar Battery Is Useless in A Powercut: Here\u2019s WHY",
+    "meta": [
+     "22K",
+     "9mo ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 22000
+   },
+   {
+    "id": "Bxu0mcgSLvs",
+    "title": "Gary Does Solar Rates Our Solar Install",
+    "meta": [
+     "Heatable",
+     "and Gary Does Solar \u2600\ufe0f ",
+     "22K",
+     "9mo ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 22000
+   },
+   {
+    "id": "sfWiRnPWPIY",
+    "title": "They Spent Nearly \u00a3100k for \u00a30 Energy Bills\u2026 Is This the Future?",
+    "meta": [
+     "22K",
+     "6mo ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 22000
+   },
+   {
+    "id": "cEwVaA9CuKY",
+    "title": "IS THIS THE BEST REGULAR BOILER ON THE MARKET? | Worcester Bosch Greenstar Ri Regular Boiler Review",
+    "meta": [
+     "21K",
+     "4y ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 21000
+   },
+   {
+    "id": "09L6pgQP95k",
+    "title": "Sigenergy Showed Us Why Tesla Should Be Worried...",
+    "meta": [
+     "21K",
+     "1y ago"
+    ],
+    "dur": "33:23",
+    "views_tab": 21000
+   },
+   {
+    "id": "8iAUqpq5CuA",
+    "title": "What Are The Best Solar Panels in 2026? Full Review & Update",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "22:21",
+    "views_tab": 20000
+   },
+   {
+    "id": "nKmcm1H_8qY",
+    "title": "The REALITY of Installing Solar Panels on a Slate Roof...",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 20000
+   },
+   {
+    "id": "ktfw9Buo14g",
+    "title": "NEW Alpha Batteries Hit The Market | REVIEW",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "16:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "coR1WN8r7Q0",
+    "title": "How Much Does A New Boiler Cost? | How Much Can You Save From Buying A New Boiler?",
+    "meta": [
+     "19K",
+     "5y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 19000
+   },
+   {
+    "id": "QygWoHcFuwA",
+    "title": "Don't WASTE MONEY on Your Solar Inverter",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "12:45",
+    "views_tab": 19000
+   },
+   {
+    "id": "yUbz0Mjd8P4",
+    "title": "Enphase Microinverters IQ7 vs IQ8s | Which is BETTER?",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 19000
+   },
+   {
+    "id": "JzYQglckCvo",
+    "title": "Standard vs Bifacial Solar Panels: Is the extra cost WORTH it?",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "14:16",
+    "views_tab": 19000
+   },
+   {
+    "id": "ZGAcxy2j5OU",
+    "title": "These Are The Top 5 Most Common Boiler Problems In The UK",
+    "meta": [
+     "18K",
+     "3y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 18000
+   },
+   {
+    "id": "uh3DeQFJFQQ",
+    "title": "Viessmann Vitodens 100-W Combi Boiler Review | BEST Boiler?",
+    "meta": [
+     "18K",
+     "7y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 18000
+   },
+   {
+    "id": "MtDxaMsMBCA",
+    "title": "Are Chinese Solar Batteries Taking Over?",
+    "meta": [
+     "18K",
+     "7mo ago"
+    ],
+    "dur": "20:29",
+    "views_tab": 18000
+   },
+   {
+    "id": "a2bM0JluVZ4",
+    "title": "Testing the Tado X AI Thermostat - Can It REALLY Save You Money?",
+    "meta": [
+     "17K",
+     "1mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 17000
+   },
+   {
+    "id": "EO5Qml9Jngk",
+    "title": "365 Day Solar Generation: How Solar can perform in Winter (UK)",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "19:50",
+    "views_tab": 17000
+   },
+   {
+    "id": "66y4OehwdeM",
+    "title": "They Told Us Their Battery Will Change EVERYTHING",
+    "meta": [
+     "Heatable",
+     "and Gary Does Solar \u2600\ufe0f ",
+     "16K",
+     "7mo ago"
+    ],
+    "dur": "20:39",
+    "views_tab": 16000
+   },
+   {
+    "id": "GzpEMCELC5I",
+    "title": "Everything You Need To Know - Enphase Micro Inverter Review",
+    "meta": [
+     "16K",
+     "3y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 16000
+   },
+   {
+    "id": "2PRHnxdRezA",
+    "title": "Frozen Boiler Condensate Pipe FIXED in Minutes | How to Guide",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "2:23",
+    "views_tab": 16000
+   },
+   {
+    "id": "xeIdB-Xu1sM",
+    "title": "We Just Cut the Interest on Solar by More Than Half",
+    "meta": [
+     "16K",
+     "1mo ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 16000
+   },
+   {
+    "id": "pmk_n8aJUPQ",
+    "title": "Tesla Powerwall 3 Just Got MASSIVE Battery Upgrade! | NEW Update",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "deWE0dFbufE",
+    "title": "How To Become A Gas Engineer - Top Tips - Allen Hart",
+    "meta": [
+     "16K",
+     "4y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 16000
+   },
+   {
+    "id": "RrXh9Cg0RV4",
+    "title": "The REALITY of \"Portable\" EV Chargers | EVDANCE 3-Pin Review",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "20:59",
+    "views_tab": 16000
+   },
+   {
+    "id": "cjeD43rrGf8",
+    "title": "Solar Battery Prices are About To Soar | Here\u2019s Why!",
+    "meta": [
+     "14K",
+     "9mo ago"
+    ],
+    "dur": "9:52",
+    "views_tab": 14000
+   },
+   {
+    "id": "Lm9KpsOVDlE",
+    "title": "Alpha E-Tec Hybrid Heat Pump Boiler System Review",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "16:21",
+    "views_tab": 14000
+   },
+   {
+    "id": "0cnQ5LWwgNg",
+    "title": "This Small Change Gained Them 37% on Their Solar Setup!",
+    "meta": [
+     "14K",
+     "4mo ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 14000
+   },
+   {
+    "id": "AmMN4I56SBM",
+    "title": "Worcester Bosch 8000 Combi Boiler Review | Worcester Bosch Review | 2021 Review",
+    "meta": [
+     "14K",
+     "4y ago"
+    ],
+    "dur": "12:31",
+    "views_tab": 14000
+   },
+   {
+    "id": "L8SlPn07BHo",
+    "title": "Netzero App Review | Tesla Powerwall Integration - Is it Worth It?",
+    "meta": [
+     "14K",
+     "2y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "CEjnmX5jAF0",
+    "title": "Europe's FIRST H50 Battery Installation | Hednesford Town FC",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "28:18",
+    "views_tab": 13000
+   },
+   {
+    "id": "a-VUC-6XlcM",
+    "title": "Here\u2019s Why Solar Could Become Unaffordable",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "11:47",
+    "views_tab": 13000
+   },
+   {
+    "id": "nISn3x9hcl8",
+    "title": "Did Hednesford FC risk it all with THIS solar project?",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "25:36",
+    "views_tab": 13000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "t-jI4YBn0QQ",
+    "title": "Viessmann Vitodens 050-W Combi Boiler Review",
+    "meta": [
+     "23K",
+     "7y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 23000
+   },
+   {
+    "id": "uh3DeQFJFQQ",
+    "title": "Viessmann Vitodens 100-W Combi Boiler Review | BEST Boiler?",
+    "meta": [
+     "18K",
+     "7y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 18000
+   },
+   {
+    "id": "fCcHRlpWAQM",
+    "title": "Boiler Finance: What is Buy Now, Pay Later?",
+    "meta": [
+     "600",
+     "7y ago"
+    ],
+    "dur": "1:31",
+    "views_tab": 600
+   },
+   {
+    "id": "68YA5MgkFbk",
+    "title": "What is a Boiler Filter?",
+    "meta": [
+     "6.3K",
+     "6y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 6300
+   },
+   {
+    "id": "aNbivptLm5E",
+    "title": "Alpha E-Tec Combi Boiler Review",
+    "meta": [
+     "8.6K",
+     "6y ago"
+    ],
+    "dur": "2:00",
+    "views_tab": 8600
+   },
+   {
+    "id": "_kKgQUE3NvU",
+    "title": "How does Heatable Work?",
+    "meta": [
+     "3K",
+     "6y ago"
+    ],
+    "dur": "2:51",
+    "views_tab": 3000
+   },
+   {
+    "id": "6XdpfKME0BA",
+    "title": "Heatable - #MakeBoilersSexy",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "0:21",
+    "views_tab": 24000
+   },
+   {
+    "id": "2PriTvl572c",
+    "title": "Heatable Review - Larry From Pembrokeshire",
+    "meta": [
+     "11K",
+     "5y ago"
+    ],
+    "dur": "0:46",
+    "views_tab": 11000
+   },
+   {
+    "id": "3EhSPuvt8Mg",
+    "title": "Worcester Bosch 8000 and Worcester Bosch Greenstar i | Boiler Review",
+    "meta": [
+     "28K",
+     "5y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 28000
+   },
+   {
+    "id": "sy-KURGK3jY",
+    "title": "Worcester CDI Compact | Boiler REVIEW",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 31000
+   },
+   {
+    "id": "o_EfleTQj9o",
+    "title": "What size boiler do I need? | Boiler Size Calculator UK",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 44000
+   },
+   {
+    "id": "BLV68siRpJA",
+    "title": "Best Combi Boilers | Top Five UK",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "6:50",
+    "views_tab": 41000
+   },
+   {
+    "id": "SZnDHrB_ORQ",
+    "title": "Heatable Review: Darren from Chatham",
+    "meta": [
+     "1.7K",
+     "5y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 1700
+   },
+   {
+    "id": "1UmJpyoonEI",
+    "title": "How To Top Up Your Boiler Pressure | QUICK Home Fix",
+    "meta": [
+     "341K",
+     "5y ago"
+    ],
+    "dur": "2:18",
+    "views_tab": 341000
+   },
+   {
+    "id": "qtgwSwsP8e0",
+    "title": "How To Bleed a Radiator",
+    "meta": [
+     "44K",
+     "5y ago"
+    ],
+    "dur": "3:10",
+    "views_tab": 44000
+   },
+   {
+    "id": "JxW7jJRdPJE",
+    "title": "Best Smart Thermostats | Top Four",
+    "meta": [
+     "61K",
+     "5y ago"
+    ],
+    "dur": "15:39",
+    "views_tab": 61000
+   },
+   {
+    "id": "4SqP2y-zZV0",
+    "title": "Should I Repair Or Replace My Boiler",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 23000
+   },
+   {
+    "id": "-8xfA67m6B0",
+    "title": "Worcester Bosch 2000 Review",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 31000
+   },
+   {
+    "id": "hSsH-lNickg",
+    "title": "What Is A Combi Boiler?",
+    "meta": [
+     "34K",
+     "5y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 34000
+   },
+   {
+    "id": "DwaThkp0ve4",
+    "title": "Viessmann Vitodens 100 Review - Updated 2021 Model",
+    "meta": [
+     "94K",
+     "5y ago"
+    ],
+    "dur": "11:58",
+    "views_tab": 94000
+   },
+   {
+    "id": "coR1WN8r7Q0",
+    "title": "How Much Does A New Boiler Cost? | How Much Can You Save From Buying A New Boiler?",
+    "meta": [
+     "19K",
+     "5y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 19000
+   },
+   {
+    "id": "4A2DvhdXdjM",
+    "title": "Ideal Logic Plus Boiler Review",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "9:01",
+    "views_tab": 24000
+   },
+   {
+    "id": "1Sq5lKDDcKk",
+    "title": "How To Save Money On Your Energy Bills | Money Saving Tips",
+    "meta": [
+     "62K",
+     "5y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 62000
+   },
+   {
+    "id": "4bRqF8cQ_h8",
+    "title": "What Is A Scale Reducer? Adey MagnaScale",
+    "meta": [
+     "3.7K",
+     "5y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 3700
+   },
+   {
+    "id": "EQZOgNGgZ9Q",
+    "title": "What Is A Boiler Warranty?",
+    "meta": [
+     "1K",
+     "5y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "qk0W9asifak",
+    "title": "Win A Free Viessmann Boiler | Competition",
+    "meta": [
+     "90K",
+     "5y ago"
+    ],
+    "dur": "5:01",
+    "views_tab": 90000
+   },
+   {
+    "id": "70_iSRBtakM",
+    "title": "Worcester Bosch 4000 Boiler Review",
+    "meta": [
+     "61K",
+     "5y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 61000
+   },
+   {
+    "id": "oBdFK3Ev5Po",
+    "title": "Which Is The Best Worcester Boiler? Worcester Bosch 2000 vs Worcester Bosch 4000 vs Worcester 8000",
+    "meta": [
+     "24K",
+     "5y ago"
+    ],
+    "dur": "11:25",
+    "views_tab": 24000
+   },
+   {
+    "id": "l6c5PsqVqwI",
+    "title": "Heatable - Video Outtakes",
+    "meta": [
+     "115",
+     "5y ago"
+    ],
+    "dur": "7:19",
+    "views_tab": 115
+   },
+   {
+    "id": "h2kqrXM9DXc",
+    "title": "Alpha Boiler Review | Alpha E-Tec",
+    "meta": [
+     "12K",
+     "5y ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 12000
+   },
+   {
+    "id": "h_PBYiV-ujY",
+    "title": "Worcester Bosch or Viessmann | Worcester Bosch 8000 Vs Viessmann 100",
+    "meta": [
+     "39K",
+     "5y ago"
+    ],
+    "dur": "12:37",
+    "views_tab": 39000
+   },
+   {
+    "id": "oyLU157eNLE",
+    "title": "What\u2019s Included With Your Boiler Installation | Boiler Installation With Heatable",
+    "meta": [
+     "12K",
+     "5y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 12000
+   },
+   {
+    "id": "i9QCqnztlbc",
+    "title": "Should I Buy A Combi Boiler Or A System Boiler?",
+    "meta": [
+     "31K",
+     "5y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 31000
+   },
+   {
+    "id": "HtDYd1yhPMk",
+    "title": "Heatable | On Record | Liv Broadhurst | Customer Service Manager",
+    "meta": [
+     "585",
+     "5y ago"
+    ],
+    "dur": "2:45",
+    "views_tab": 585
+   },
+   {
+    "id": "L10Ii0bpXqs",
+    "title": "Viessmann Vitodens 050 Combi Boiler Review | Viessmann Review | Updated 2021 Model",
+    "meta": [
+     "12K",
+     "4y ago"
+    ],
+    "dur": "11:50",
+    "views_tab": 12000
+   },
+   {
+    "id": "AmMN4I56SBM",
+    "title": "Worcester Bosch 8000 Combi Boiler Review | Worcester Bosch Review | 2021 Review",
+    "meta": [
+     "14K",
+     "4y ago"
+    ],
+    "dur": "12:31",
+    "views_tab": 14000
+   },
+   {
+    "id": "qQCdG_XGP60",
+    "title": "Heatable | On Record | Jon & Rob | Customer Service Legends",
+    "meta": [
+     "349",
+     "4y ago"
+    ],
+    "dur": "9:32",
+    "views_tab": 349
+   },
+   {
+    "id": "HTHeQJQE4Gg",
+    "title": "Viessmann Vitodens 111-W Storage Combi Boiler Review | Viessmann Review | Updated 2021 Model",
+    "meta": [
+     "23K",
+     "4y ago"
+    ],
+    "dur": "14:12",
+    "views_tab": 23000
+   },
+   {
+    "id": "w3R8RUqosPU",
+    "title": "Heatable | We Bought A Building | Behind The Scenes",
+    "meta": [
+     "151",
+     "4y ago"
+    ],
+    "dur": "0:31",
+    "views_tab": 151
+   },
+   {
+    "id": "2UosLg_BS-A",
+    "title": "Viessmann Vitodens 050 Boiler Review | Viessmann Vitodens 050 Installation | Heatable & Allen Hart",
+    "meta": [
+     "8.1K",
+     "4y ago"
+    ],
+    "dur": "26:17",
+    "views_tab": 8100
+   },
+   {
+    "id": "_CjhX9OIoH0",
+    "title": "The Difference Between The Viessmann Vitodens 100 & Viessmann 050 Combi Boiler | Review | 2021",
+    "meta": [
+     "29K",
+     "4y ago"
+    ],
+    "dur": "11:35",
+    "views_tab": 29000
+   },
+   {
+    "id": "3JAPrCgB7Ao",
+    "title": "Types Of Boilers And Heating Systems | Combi Boilers, System Boilers & Regular Boilers",
+    "meta": [
+     "7K",
+     "4y ago"
+    ],
+    "dur": "9:14",
+    "views_tab": 7000
+   },
+   {
+    "id": "LH3z-5zPAPk",
+    "title": "Alpha E-Tec Plus Boiler Review | Alpha E-Tec Plus Installation | Heatable & Allen Hart",
+    "meta": [
+     "9.4K",
+     "4y ago"
+    ],
+    "dur": "22:13",
+    "views_tab": 9400
+   },
+   {
+    "id": "cEwVaA9CuKY",
+    "title": "IS THIS THE BEST REGULAR BOILER ON THE MARKET? | Worcester Bosch Greenstar Ri Regular Boiler Review",
+    "meta": [
+     "21K",
+     "4y ago"
+    ],
+    "dur": "10:32",
+    "views_tab": 21000
+   },
+   {
+    "id": "nZd7kWV6V0Q",
+    "title": "Heatable Stories | Allen Hart",
+    "meta": [
+     "938",
+     "4y ago"
+    ],
+    "dur": "1:07:26",
+    "views_tab": 938
+   },
+   {
+    "id": "Ui0omvwnXn4",
+    "title": "Heatable | On Record | Josh Gomes | Customer Service Specialist",
+    "meta": [
+     "207",
+     "4y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 207
+   },
+   {
+    "id": "2BZecnmwBIY",
+    "title": "Boiler Flow Temperature - Learn How Changing This Boiler Setting Could Save You Big Money",
+    "meta": [
+     "7.7K",
+     "4y ago"
+    ],
+    "dur": "2:11",
+    "views_tab": 7700
+   },
+   {
+    "id": "H4ssa8b7eBw",
+    "title": "Heatable Is Officially a Which? Trusted Trader",
+    "meta": [
+     "46K",
+     "4y ago"
+    ],
+    "dur": "3:52",
+    "views_tab": 46000
+   },
+   {
+    "id": "1UMEOiMnZfU",
+    "title": "How do smart thermostats save you money on your heating bills?",
+    "meta": [
+     "899",
+     "4y ago"
+    ],
+    "dur": "2:14",
+    "views_tab": 899
+   },
+   {
+    "id": "Nt1VB3amZZA",
+    "title": "How To Clean A Magnetic Boiler Filter (Adey Magnaclean)",
+    "meta": [
+     "725",
+     "4y ago"
+    ],
+    "dur": "6:30",
+    "views_tab": 725
+   },
+   {
+    "id": "anJySspBl_A",
+    "title": "Solar Panel (PV) Installation (Including Battery Storage) With Allen Hart",
+    "meta": [
+     "25K",
+     "4y ago"
+    ],
+    "dur": "32:23",
+    "views_tab": 25000
+   },
+   {
+    "id": "deWE0dFbufE",
+    "title": "How To Become A Gas Engineer - Top Tips - Allen Hart",
+    "meta": [
+     "16K",
+     "4y ago"
+    ],
+    "dur": "1:48",
+    "views_tab": 16000
+   },
+   {
+    "id": "vyuEEPZN8oE",
+    "title": "Magnetic Boiler Filters - How do they work and why do you need one for your central heating system?",
+    "meta": [
+     "1.1K",
+     "4y ago"
+    ],
+    "dur": "1:53",
+    "views_tab": 1100
+   },
+   {
+    "id": "q4Rpg8al9nM",
+    "title": "Are Your Energy Bills High? Save Money On Your Bills With A New Boiler | Energy Savings Calculator",
+    "meta": [
+     "227",
+     "4y ago"
+    ],
+    "dur": "0:58",
+    "views_tab": 227
+   },
+   {
+    "id": "ENKZgXiZloc",
+    "title": "5 Things A Gas Engineer Can't Live Without | Must Haves For A Gas Engineer | Allen Hart",
+    "meta": [
+     "1.9K",
+     "4y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 1900
+   },
+   {
+    "id": "PJNoAitGB0E",
+    "title": "Heatable & Allen Hart | Discussing Industry Myths & The Latest Updates | Boilers, Solar PV & More",
+    "meta": [
+     "1.5K",
+     "4y ago"
+    ],
+    "dur": "43:05",
+    "views_tab": 1500
+   },
+   {
+    "id": "7K9hoIkdSU4",
+    "title": "Hydrogen Boilers Explained - Future of Domestic Heating in the UK?",
+    "meta": [
+     "4K",
+     "4y ago"
+    ],
+    "dur": "23:20",
+    "views_tab": 4000
+   },
+   {
+    "id": "n7u9hKi3p5U",
+    "title": "Wokingham Food Bank | Charity Boiler Installation",
+    "meta": [
+     "226",
+     "4y ago"
+    ],
+    "dur": "3:53",
+    "views_tab": 226
+   },
+   {
+    "id": "Q-IKISP6Qqw",
+    "title": "Worcester Bosch 4000 Boiler Review | Plumbers Verdict",
+    "meta": [
+     "69K",
+     "3y ago"
+    ],
+    "dur": "22:02",
+    "views_tab": 69000
+   },
+   {
+    "id": "vRhDcBMtboA",
+    "title": "Hybrid Systems and The Future of Heating | Visit to Immergas (Alpha) Boilers",
+    "meta": [
+     "781",
+     "3y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 781
+   },
+   {
+    "id": "Vjc_D81RYRw",
+    "title": "How much do solar panels REALLY save you? UK Case Study",
+    "meta": [
+     "27K",
+     "3y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 27000
+   },
+   {
+    "id": "DWWezfAhQlo",
+    "title": "EPH Programmable Room Thermostat Instructions - Combi Pack 4",
+    "meta": [
+     "239K",
+     "3y ago"
+    ],
+    "dur": "5:14",
+    "views_tab": 239000
+   },
+   {
+    "id": "NPMejXV_4hE",
+    "title": "Hive Smart Thermostat Instructions | Step By Step Guide",
+    "meta": [
+     "301K",
+     "3y ago"
+    ],
+    "dur": "10:46",
+    "views_tab": 301000
+   },
+   {
+    "id": "XICUbnDaUYU",
+    "title": "ESI Programmable Room Thermostat Instructions | Step By Step Guide",
+    "meta": [
+     "276K",
+     "3y ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 276000
+   },
+   {
+    "id": "YoccWxLQims",
+    "title": "Center Programmable Room Thermostat Instructions | Step By Step Guide",
+    "meta": [
+     "329K",
+     "3y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 329000
+   },
+   {
+    "id": "FMwJikDdauI",
+    "title": "Heatable x Allen Hart | 2023 Announcement",
+    "meta": [
+     "562",
+     "3y ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 562
+   },
+   {
+    "id": "Lm9KpsOVDlE",
+    "title": "Alpha E-Tec Hybrid Heat Pump Boiler System Review",
+    "meta": [
+     "14K",
+     "3y ago"
+    ],
+    "dur": "16:21",
+    "views_tab": 14000
+   },
+   {
+    "id": "9GLHP_fm-vU",
+    "title": "Air Source Heat Pump Installation & Set-up UK Case Study",
+    "meta": [
+     "86K",
+     "3y ago"
+    ],
+    "dur": "29:50",
+    "views_tab": 86000
+   },
+   {
+    "id": "mFSgNei1gBo",
+    "title": "We teach Allen Hart about Hybrids | Will this replace a traditional air source heat pump?",
+    "meta": [
+     "9.8K",
+     "3y ago"
+    ],
+    "dur": "34:08",
+    "views_tab": 9800
+   },
+   {
+    "id": "IlRXurRS6QY",
+    "title": "Learn How To Balance Your Radiators",
+    "meta": [
+     "8.2K",
+     "3y ago"
+    ],
+    "dur": "1:38",
+    "views_tab": 8200
+   },
+   {
+    "id": "wek-M9HwXTk",
+    "title": "Is This The Future Of Heating? Worcester Bosch Give Us The Lowdown On Hybrids",
+    "meta": [
+     "7.6K",
+     "3y ago"
+    ],
+    "dur": "1:54",
+    "views_tab": 7600
+   },
+   {
+    "id": "eKanVJXPhWc",
+    "title": "Learn How To Bleed A Radiator",
+    "meta": [
+     "975",
+     "3y ago"
+    ],
+    "dur": "1:12",
+    "views_tab": 975
+   },
+   {
+    "id": "wU7uya_KyB8",
+    "title": "Have Alpha Revolutionised The Heating Industry?",
+    "meta": [
+     "723",
+     "3y ago"
+    ],
+    "dur": "3:13",
+    "views_tab": 723
+   },
+   {
+    "id": "ZGAcxy2j5OU",
+    "title": "These Are The Top 5 Most Common Boiler Problems In The UK",
+    "meta": [
+     "18K",
+     "3y ago"
+    ],
+    "dur": "1:56",
+    "views_tab": 18000
+   },
+   {
+    "id": "pFzs_YI_k1A",
+    "title": "Is This The Best App Out There For Heating Engineers?",
+    "meta": [
+     "526",
+     "3y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 526
+   },
+   {
+    "id": "ENBfl02xOo0",
+    "title": "We catch up with Allen Hart about all things solar PV in 2023",
+    "meta": [
+     "1.9K",
+     "3y ago"
+    ],
+    "dur": "30:38",
+    "views_tab": 1900
+   },
+   {
+    "id": "q3UgY0z9PrM",
+    "title": "5 Things We Wish We Knew Before Getting Solar With Allen Hart",
+    "meta": [
+     "70K",
+     "3y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 70000
+   },
+   {
+    "id": "XrZFYhFOtfc",
+    "title": "Adrian met Heatable online, and fell in love.",
+    "meta": [
+     "3.5M",
+     "3y ago"
+    ],
+    "dur": "1:14",
+    "views_tab": 3500000
+   },
+   {
+    "id": "Kb6pgP-JLlY",
+    "title": "Is This The UK's Best Solar Panel? | Solar Panel Review | UK Exclusive",
+    "meta": [
+     "7.7K",
+     "3y ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 7700
+   },
+   {
+    "id": "GzpEMCELC5I",
+    "title": "Everything You Need To Know - Enphase Micro Inverter Review",
+    "meta": [
+     "16K",
+     "3y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 16000
+   },
+   {
+    "id": "uUtYsGyyWRo",
+    "title": "Phil loved Heatable's unique and simple solar tool",
+    "meta": [
+     "206K",
+     "3y ago"
+    ],
+    "dur": "1:08",
+    "views_tab": 206000
+   },
+   {
+    "id": "1IwRIsw9-xs",
+    "title": "The Future Of Solar PV Is Here | AC VS Traditional DC Solar Panel System",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 29000
+   },
+   {
+    "id": "gkrvZAbIXPs",
+    "title": "Vaillant ecoTEC Plus Review (Latest Model)",
+    "meta": [
+     "32K",
+     "3y ago"
+    ],
+    "dur": "16:33",
+    "views_tab": 32000
+   },
+   {
+    "id": "mj6ZmIZP4hw",
+    "title": "What Happened When We Fitted The Wrong Solar Panel? \ud83d\ude31",
+    "meta": [
+     "6.8K",
+     "3y ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 6800
+   },
+   {
+    "id": "vxmRIYbkzPY",
+    "title": "Worcester Bosch 1000 Review | Brand New For 2023!",
+    "meta": [
+     "9.8K",
+     "3y ago"
+    ],
+    "dur": "10:27",
+    "views_tab": 9800
+   },
+   {
+    "id": "gMAWuI2dB4k",
+    "title": "Best Solar Panels (UK) | Are These The Top Five?",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "14:15",
+    "views_tab": 12000
+   },
+   {
+    "id": "lcOR_E0Fzsw",
+    "title": "Best Solar Batteries (UK) - Are These The Top Five?",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "15:55",
+    "views_tab": 27000
+   },
+   {
+    "id": "U5L1aUSM-D0",
+    "title": "Are these the best combi boilers? | Our 2024 Review",
+    "meta": [
+     "197K",
+     "2y ago"
+    ],
+    "dur": "20:22",
+    "views_tab": 197000
+   },
+   {
+    "id": "rKY1x3oNJwI",
+    "title": "Solar Panel Case Study UK - Our BIGGEST installation to date",
+    "meta": [
+     "7.1K",
+     "2y ago"
+    ],
+    "dur": "23:58",
+    "views_tab": 7100
+   },
+   {
+    "id": "0oJ92_Yrmo0",
+    "title": "The Sustainable Energy Revolution : UK Interview with Leading Australian Solar Installer",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "30:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "v7NB7on56-Y",
+    "title": "An Air Source Heat Pump Installation Like You've Never Seen Before (UK Case Study)",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "18:34",
+    "views_tab": 12000
+   },
+   {
+    "id": "EO5Qml9Jngk",
+    "title": "365 Day Solar Generation: How Solar can perform in Winter (UK)",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "19:50",
+    "views_tab": 17000
+   },
+   {
+    "id": "m8jZubYRX5E",
+    "title": "Solar Installers get a SHOCK at an Installation",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 3900
+   },
+   {
+    "id": "1fXl8J0ySVc",
+    "title": "Home Battery to Solar: Is it worth the Money?",
+    "meta": [
+     "6K",
+     "2y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 6000
+   },
+   {
+    "id": "hHKXqH2dWgM",
+    "title": "How do solar panels perform in winter? Real world RESULTS!",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "26:22",
+    "views_tab": 23000
+   },
+   {
+    "id": "iv9oaN4t5uk",
+    "title": "440W Bifacial Panels + Hybrid Inverter: Game Changing Energy Solution?",
+    "meta": [
+     "7.3K",
+     "2y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 7300
+   },
+   {
+    "id": "Y48YLDcbkTo",
+    "title": "Tesla Powerwall 2 Review: 2024 Update",
+    "meta": [
+     "4.5K",
+     "2y ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 4500
+   },
+   {
+    "id": "kyiEXNg5Z4U",
+    "title": "Air Source Heat Pump Installation | The Data Revealed (UK Case Study)",
+    "meta": [
+     "5.8K",
+     "2y ago"
+    ],
+    "dur": "17:57",
+    "views_tab": 5800
+   },
+   {
+    "id": "DC52oVZdF94",
+    "title": "Giv Energy All in One Battery: Worth the hype?",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 10000
+   },
+   {
+    "id": "a-1UrPGDpAg",
+    "title": "Installing a boiler in LESS than 24 hours",
+    "meta": [
+     "615",
+     "2y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 615
+   },
+   {
+    "id": "zYMYzpPTnG4",
+    "title": "Tesla Powerwall 3 Review | The Future of Home Battery Storage?",
+    "meta": [
+     "53K",
+     "2y ago"
+    ],
+    "dur": "17:53",
+    "views_tab": 53000
+   },
+   {
+    "id": "JzYQglckCvo",
+    "title": "Standard vs Bifacial Solar Panels: Is the extra cost WORTH it?",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "14:16",
+    "views_tab": 19000
+   },
+   {
+    "id": "yUbz0Mjd8P4",
+    "title": "Enphase Microinverters IQ7 vs IQ8s | Which is BETTER?",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 19000
+   },
+   {
+    "id": "RR-Nj-CiQGc",
+    "title": "Debunking Solar Panel Myths and Misconceptions in 2025",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "18:02",
+    "views_tab": 2300
+   },
+   {
+    "id": "TmdauYqgHQM",
+    "title": "Tesla Powerwall 3 Installation: From Start to Finish",
+    "meta": [
+     "41K",
+     "2y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 41000
+   },
+   {
+    "id": "kmPLlrh-nPE",
+    "title": "Fixing Boiler Issues: 10 Common Problems & Easy Solutions",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 36000
+   },
+   {
+    "id": "pszCuCLOdK4",
+    "title": "THIS is the World's Most Powerful ACM | REA ACM Review",
+    "meta": [
+     "8.4K",
+     "2y ago"
+    ],
+    "dur": "9:06",
+    "views_tab": 8400
+   },
+   {
+    "id": "L8SlPn07BHo",
+    "title": "Netzero App Review | Tesla Powerwall Integration - Is it Worth It?",
+    "meta": [
+     "14K",
+     "2y ago"
+    ],
+    "dur": "10:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "4ubbf4118YY",
+    "title": "Boiler Pressure TOO High | How to Reduce Water Pressure DIY Guide",
+    "meta": [
+     "113K",
+     "2y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 113000
+   },
+   {
+    "id": "kHBKwiIDH5g",
+    "title": "HUGE Solar ACM Installation UK | Behind the Scenes",
+    "meta": [
+     "3.5K",
+     "2y ago"
+    ],
+    "dur": "28:27",
+    "views_tab": 3500
+   },
+   {
+    "id": "7Kj73aJ-JKE",
+    "title": "Is Servicing Your Boiler REALLY Worth the Cost?",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "10:00",
+    "views_tab": 753
+   },
+   {
+    "id": "BpZY1t9GeYk",
+    "title": "Is THIS The Best Boiler Yet? Worcester Bosch 8000+ Review",
+    "meta": [
+     "37K",
+     "2y ago"
+    ],
+    "dur": "17:48",
+    "views_tab": 37000
+   },
+   {
+    "id": "N2fvvf-h-oE",
+    "title": "Boiler Pressure TOO LOW | How to Increase Water Pressure DIY Guide",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 44000
+   },
+   {
+    "id": "jFZUyhdrqXs",
+    "title": "Is AC or DC Coupling the BEST for Your Tesla Powerwall 3?",
+    "meta": [
+     "7.1K",
+     "2y ago"
+    ],
+    "dur": "8:28",
+    "views_tab": 7100
+   },
+   {
+    "id": "ocvVJl1MTB4",
+    "title": "How much does a new boiler cost in 2025?",
+    "meta": [
+     "4.4K",
+     "1y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 4400
+   },
+   {
+    "id": "o5Zhaf4sL1U",
+    "title": "How Does SOLAR ENERGY Power Your Home?",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 11000
+   },
+   {
+    "id": "3wzsXkSKQdA",
+    "title": "Boost Your Boiler Efficiency NOW and SAVE Money!",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "13:54",
+    "views_tab": 1800
+   },
+   {
+    "id": "Xla2YjMS-gM",
+    "title": "What's the Best Budget Boiler of 2025?",
+    "meta": [
+     "25K",
+     "1y ago"
+    ],
+    "dur": "25:37",
+    "views_tab": 25000
+   },
+   {
+    "id": "mwultFYm1EE",
+    "title": "Revealing the BEST and WORST of the Alpha EV Charger | Full Review",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "3:43",
+    "views_tab": 2400
+   },
+   {
+    "id": "4QgtwvWjl6E",
+    "title": "Upgrading a Battery Storage set up | UK Solar Install",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "23:22",
+    "views_tab": 6700
+   }
+  ]
+ }
+}

@@ -1,0 +1,3925 @@
+{
+ "key": "UCtXVIqkc3iBk0bV5gvcNWgw",
+ "channel": "The Handyman",
+ "id": "UCtXVIqkc3iBk0bV5gvcNWgw",
+ "subs": "533K subscribers",
+ "videos": "764 videos",
+ "pulled": "2026-10-26T07:06:08.270765+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "zsWjbGbgZMg",
+    "title": "Luxury Cargo Trailer: Full Bathroom Plumbing & Flooring",
+    "meta": [
+     "14K",
+     "11d ago"
+    ],
+    "dur": "13:00",
+    "views_tab": 14000
+   },
+   {
+    "id": "ao6Ol7lyZSo",
+    "title": "Personal Flock eufy E50 (Caught Them On Camera)",
+    "meta": [
+     "19K",
+     "2w ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 19000
+   },
+   {
+    "id": "C5VJtNFmTvE",
+    "title": "Why I Charged $2,000 for 2 Steps",
+    "meta": [
+     "35K",
+     "3w ago"
+    ],
+    "dur": "15:19",
+    "views_tab": 35000
+   },
+   {
+    "id": "jCEc4gtd56w",
+    "title": "The New Way to Install Mini Splits in 2026 (Step-by-Step)",
+    "meta": [
+     "108K",
+     "1mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 108000
+   },
+   {
+    "id": "3SJdp1VkRmw",
+    "title": "Handyman vs Plumber: The $300/hr Difference",
+    "meta": [
+     "104K",
+     "1mo ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 104000
+   },
+   {
+    "id": "z-poS6YjrV0",
+    "title": "The \"Pro\" Secret to a $1,000 Mudroom Makeover",
+    "meta": [
+     "17K",
+     "1mo ago"
+    ],
+    "dur": "30:44",
+    "views_tab": 17000
+   },
+   {
+    "id": "_SJh_O42_2w",
+    "title": "Cargo Trailer Conversion Easy Window and Water Heater Installation",
+    "meta": [
+     "6.6K",
+     "2mo ago"
+    ],
+    "dur": "14:08",
+    "views_tab": 6600
+   },
+   {
+    "id": "-ne2aLEiAbM",
+    "title": "The Next Generation Of Smart Home Innovation with eufy",
+    "meta": [
+     "2.9K",
+     "2mo ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 2900
+   },
+   {
+    "id": "RrZ9FUx1Htc",
+    "title": "The \"Expensive\" Wall Secret Nobody Shows You",
+    "meta": [
+     "10K",
+     "2mo ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 10000
+   },
+   {
+    "id": "udcrsY7Rfjo",
+    "title": "Stop Struggling with Drywall: Do This Instead",
+    "meta": [
+     "13K",
+     "3mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 13000
+   },
+   {
+    "id": "0iwh9ZHsUPU",
+    "title": "Luxury Cargo Trailer: Working Shower and AC",
+    "meta": [
+     "7.4K",
+     "3mo ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 7400
+   },
+   {
+    "id": "rCtRgIT6VlA",
+    "title": "I Built a $20,000 Concrete Patio (Rich People Only)",
+    "meta": [
+     "10K",
+     "4mo ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 10000
+   },
+   {
+    "id": "micJLsnwdpI",
+    "title": "Finally, An Affordable Robot Mower That Actually Works |  Mower LiDAX Ultra 2000",
+    "meta": [
+     "3.7K",
+     "4mo ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 3700
+   },
+   {
+    "id": "hXNyZG_gYRI",
+    "title": "Building A Luxury Camper Off-Grid! (Anker SOLIX Prime Day & Anker SOLIX Deals)",
+    "meta": [
+     "4.4K",
+     "4mo ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 4400
+   },
+   {
+    "id": "gOV59kgdml8",
+    "title": "Installing a 30 Foot Gutter SOLO (Save $500+)",
+    "meta": [
+     "9.6K",
+     "4mo ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 9600
+   },
+   {
+    "id": "IrMQ97XFvyw",
+    "title": "Luxury Cargo Trailer Conversion: Framing and Installing Windows",
+    "meta": [
+     "12K",
+     "4mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 12000
+   },
+   {
+    "id": "vtIWENI-0GY",
+    "title": "Finally, a Robot Mower That Trims the Edges. (ECOVACS GOAT A3000)",
+    "meta": [
+     "3.5K",
+     "4mo ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 3500
+   },
+   {
+    "id": "XsLvCBg-T44",
+    "title": "Perfect Concrete Starts Here: Subbase Prep",
+    "meta": [
+     "8.9K",
+     "4mo ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 8900
+   },
+   {
+    "id": "sOC169YQk34",
+    "title": "Why I Don't Use Flashing on Siding (Pro Installation)",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "19:20",
+    "views_tab": 18000
+   },
+   {
+    "id": "A9w0FGSif38",
+    "title": "How to Seal a Low Slope Roof So It NEVER Leaks",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "17:56",
+    "views_tab": 18000
+   },
+   {
+    "id": "wjfwzmI4dD0",
+    "title": "Framing Rescue: How to Use Warped Lumber Without Sacrificing Integrity",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "19:23",
+    "views_tab": 13000
+   },
+   {
+    "id": "z_BYcYi2z1Q",
+    "title": "Framing a 600 Sq Ft Outdoor Living Space SOLO",
+    "meta": [
+     "17K",
+     "6mo ago"
+    ],
+    "dur": "17:43",
+    "views_tab": 17000
+   },
+   {
+    "id": "DK9M6lYKk0U",
+    "title": "Installing a 28ft Beam BY MYSELF (Massive Patio Roof Build)",
+    "meta": [
+     "22K",
+     "6mo ago"
+    ],
+    "dur": "17:36",
+    "views_tab": 22000
+   },
+   {
+    "id": "ofyG-S6HV3Q",
+    "title": "The End of Yard Work? Testing the New Mova Lidax Ultra 3000",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 13000
+   },
+   {
+    "id": "RJOMqL4Gz8E",
+    "title": "Installing Deep Concrete Caissons for a Massive 28ft Patio Roof",
+    "meta": [
+     "9.4K",
+     "6mo ago"
+    ],
+    "dur": "13:11",
+    "views_tab": 9400
+   },
+   {
+    "id": "JG0_k3QbdsU",
+    "title": "This Must Be Done Before Pouring Concrete",
+    "meta": [
+     "9.7K",
+     "6mo ago"
+    ],
+    "dur": "24:22",
+    "views_tab": 9700
+   },
+   {
+    "id": "mxFP0Ll3r4o",
+    "title": "Testing the First GPT-Powered Smart Lock.",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 13000
+   },
+   {
+    "id": "yqpmPfCbtLA",
+    "title": "Why I Charge $20/sq ft for This Simple Ceiling",
+    "meta": [
+     "12K",
+     "7mo ago"
+    ],
+    "dur": "21:47",
+    "views_tab": 12000
+   },
+   {
+    "id": "3B9u5KoPVnU",
+    "title": "Attaching Ledger Board To The Addition",
+    "meta": [
+     "16K",
+     "7mo ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 16000
+   },
+   {
+    "id": "epDQ-6fmO1c",
+    "title": "Watch This Pool Robot Replace Manual Cleaning Effortlessly",
+    "meta": [
+     "3.5K",
+     "7mo ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 3500
+   }
+  ],
+  "Latest": [
+   {
+    "id": "zsWjbGbgZMg",
+    "title": "Luxury Cargo Trailer: Full Bathroom Plumbing & Flooring",
+    "meta": [
+     "14K",
+     "11d ago"
+    ],
+    "dur": "13:00",
+    "views_tab": 14000
+   },
+   {
+    "id": "ao6Ol7lyZSo",
+    "title": "Personal Flock eufy E50 (Caught Them On Camera)",
+    "meta": [
+     "19K",
+     "2w ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 19000
+   },
+   {
+    "id": "C5VJtNFmTvE",
+    "title": "Why I Charged $2,000 for 2 Steps",
+    "meta": [
+     "35K",
+     "3w ago"
+    ],
+    "dur": "15:19",
+    "views_tab": 35000
+   },
+   {
+    "id": "jCEc4gtd56w",
+    "title": "The New Way to Install Mini Splits in 2026 (Step-by-Step)",
+    "meta": [
+     "108K",
+     "1mo ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 108000
+   },
+   {
+    "id": "3SJdp1VkRmw",
+    "title": "Handyman vs Plumber: The $300/hr Difference",
+    "meta": [
+     "104K",
+     "1mo ago"
+    ],
+    "dur": "14:44",
+    "views_tab": 104000
+   },
+   {
+    "id": "z-poS6YjrV0",
+    "title": "The \"Pro\" Secret to a $1,000 Mudroom Makeover",
+    "meta": [
+     "17K",
+     "1mo ago"
+    ],
+    "dur": "30:44",
+    "views_tab": 17000
+   },
+   {
+    "id": "_SJh_O42_2w",
+    "title": "Cargo Trailer Conversion Easy Window and Water Heater Installation",
+    "meta": [
+     "6.6K",
+     "2mo ago"
+    ],
+    "dur": "14:08",
+    "views_tab": 6600
+   },
+   {
+    "id": "-ne2aLEiAbM",
+    "title": "The Next Generation Of Smart Home Innovation with eufy",
+    "meta": [
+     "2.9K",
+     "2mo ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 2900
+   },
+   {
+    "id": "RrZ9FUx1Htc",
+    "title": "The \"Expensive\" Wall Secret Nobody Shows You",
+    "meta": [
+     "10K",
+     "2mo ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 10000
+   },
+   {
+    "id": "udcrsY7Rfjo",
+    "title": "Stop Struggling with Drywall: Do This Instead",
+    "meta": [
+     "13K",
+     "3mo ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 13000
+   },
+   {
+    "id": "0iwh9ZHsUPU",
+    "title": "Luxury Cargo Trailer: Working Shower and AC",
+    "meta": [
+     "7.4K",
+     "3mo ago"
+    ],
+    "dur": "26:59",
+    "views_tab": 7400
+   },
+   {
+    "id": "rCtRgIT6VlA",
+    "title": "I Built a $20,000 Concrete Patio (Rich People Only)",
+    "meta": [
+     "10K",
+     "4mo ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 10000
+   },
+   {
+    "id": "micJLsnwdpI",
+    "title": "Finally, An Affordable Robot Mower That Actually Works |  Mower LiDAX Ultra 2000",
+    "meta": [
+     "3.7K",
+     "4mo ago"
+    ],
+    "dur": "7:56",
+    "views_tab": 3700
+   },
+   {
+    "id": "hXNyZG_gYRI",
+    "title": "Building A Luxury Camper Off-Grid! (Anker SOLIX Prime Day & Anker SOLIX Deals)",
+    "meta": [
+     "4.4K",
+     "4mo ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 4400
+   },
+   {
+    "id": "gOV59kgdml8",
+    "title": "Installing a 30 Foot Gutter SOLO (Save $500+)",
+    "meta": [
+     "9.6K",
+     "4mo ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 9600
+   },
+   {
+    "id": "IrMQ97XFvyw",
+    "title": "Luxury Cargo Trailer Conversion: Framing and Installing Windows",
+    "meta": [
+     "12K",
+     "4mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 12000
+   },
+   {
+    "id": "vtIWENI-0GY",
+    "title": "Finally, a Robot Mower That Trims the Edges. (ECOVACS GOAT A3000)",
+    "meta": [
+     "3.5K",
+     "4mo ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 3500
+   },
+   {
+    "id": "XsLvCBg-T44",
+    "title": "Perfect Concrete Starts Here: Subbase Prep",
+    "meta": [
+     "8.9K",
+     "4mo ago"
+    ],
+    "dur": "22:30",
+    "views_tab": 8900
+   },
+   {
+    "id": "sOC169YQk34",
+    "title": "Why I Don't Use Flashing on Siding (Pro Installation)",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "19:20",
+    "views_tab": 18000
+   },
+   {
+    "id": "A9w0FGSif38",
+    "title": "How to Seal a Low Slope Roof So It NEVER Leaks",
+    "meta": [
+     "18K",
+     "5mo ago"
+    ],
+    "dur": "17:56",
+    "views_tab": 18000
+   },
+   {
+    "id": "wjfwzmI4dD0",
+    "title": "Framing Rescue: How to Use Warped Lumber Without Sacrificing Integrity",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "19:23",
+    "views_tab": 13000
+   },
+   {
+    "id": "z_BYcYi2z1Q",
+    "title": "Framing a 600 Sq Ft Outdoor Living Space SOLO",
+    "meta": [
+     "17K",
+     "6mo ago"
+    ],
+    "dur": "17:43",
+    "views_tab": 17000
+   },
+   {
+    "id": "DK9M6lYKk0U",
+    "title": "Installing a 28ft Beam BY MYSELF (Massive Patio Roof Build)",
+    "meta": [
+     "22K",
+     "6mo ago"
+    ],
+    "dur": "17:36",
+    "views_tab": 22000
+   },
+   {
+    "id": "ofyG-S6HV3Q",
+    "title": "The End of Yard Work? Testing the New Mova Lidax Ultra 3000",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 13000
+   },
+   {
+    "id": "RJOMqL4Gz8E",
+    "title": "Installing Deep Concrete Caissons for a Massive 28ft Patio Roof",
+    "meta": [
+     "9.4K",
+     "6mo ago"
+    ],
+    "dur": "13:11",
+    "views_tab": 9400
+   },
+   {
+    "id": "JG0_k3QbdsU",
+    "title": "This Must Be Done Before Pouring Concrete",
+    "meta": [
+     "9.7K",
+     "6mo ago"
+    ],
+    "dur": "24:22",
+    "views_tab": 9700
+   },
+   {
+    "id": "mxFP0Ll3r4o",
+    "title": "Testing the First GPT-Powered Smart Lock.",
+    "meta": [
+     "13K",
+     "6mo ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 13000
+   },
+   {
+    "id": "yqpmPfCbtLA",
+    "title": "Why I Charge $20/sq ft for This Simple Ceiling",
+    "meta": [
+     "12K",
+     "7mo ago"
+    ],
+    "dur": "21:47",
+    "views_tab": 12000
+   },
+   {
+    "id": "3B9u5KoPVnU",
+    "title": "Attaching Ledger Board To The Addition",
+    "meta": [
+     "16K",
+     "7mo ago"
+    ],
+    "dur": "14:07",
+    "views_tab": 16000
+   },
+   {
+    "id": "epDQ-6fmO1c",
+    "title": "Watch This Pool Robot Replace Manual Cleaning Effortlessly",
+    "meta": [
+     "3.5K",
+     "7mo ago"
+    ],
+    "dur": "7:51",
+    "views_tab": 3500
+   },
+   {
+    "id": "jOqZuOM_p3A",
+    "title": "This Framing Was illegal So I Had To Fix It",
+    "meta": [
+     "29K",
+     "8mo ago"
+    ],
+    "dur": "20:51",
+    "views_tab": 29000
+   },
+   {
+    "id": "DHEmlDSSCJg",
+    "title": "Is Zip System Better Than Housewrap? (Roof & Wall Sheathing)",
+    "meta": [
+     "20K",
+     "8mo ago"
+    ],
+    "dur": "12:51",
+    "views_tab": 20000
+   },
+   {
+    "id": "8h8hdNBxt6o",
+    "title": "One Bad Cut Ruins Everything. (Home Addition Rafters)",
+    "meta": [
+     "13K",
+     "8mo ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 13000
+   },
+   {
+    "id": "n9C77m0eJKg",
+    "title": "Framing a Wall ALONE: Will It Hold? (Home Addition Framing)",
+    "meta": [
+     "13K",
+     "8mo ago"
+    ],
+    "dur": "13:44",
+    "views_tab": 13000
+   },
+   {
+    "id": "WBvHbPiIg2Q",
+    "title": "DON\u2019T Mess This Up! Framing the Addition Subfloor (Sill Plates to Decking)",
+    "meta": [
+     "18K",
+     "8mo ago"
+    ],
+    "dur": "26:05",
+    "views_tab": 18000
+   },
+   {
+    "id": "5ALPhHCSIGQ",
+    "title": "DIY Foundation Complete Failure !!?? | THE HANDYMAN |",
+    "meta": [
+     "16K",
+     "9mo ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 16000
+   },
+   {
+    "id": "lZIT2zT4Y1A",
+    "title": "They Arrested Him | In My Backyard | Handyman Security Update |",
+    "meta": [
+     "13K",
+     "9mo ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 13000
+   },
+   {
+    "id": "H0wFcx4SRzU",
+    "title": "Pouring A Foundation With Bags Of Concrete | Will It Work???",
+    "meta": [
+     "10K",
+     "9mo ago"
+    ],
+    "dur": "15:06",
+    "views_tab": 10000
+   },
+   {
+    "id": "hUutP8BdeAk",
+    "title": "Foundation Footer | No Cement Truck | Building an Addition Ep4",
+    "meta": [
+     "10K",
+     "9mo ago"
+    ],
+    "dur": "12:07",
+    "views_tab": 10000
+   },
+   {
+    "id": "lc9LK67Llug",
+    "title": "Foundation Excavation | Building an Addition Ep3",
+    "meta": [
+     "10K",
+     "9mo ago"
+    ],
+    "dur": "12:37",
+    "views_tab": 10000
+   },
+   {
+    "id": "WRGL-wHfpMA",
+    "title": "The most Expensive Toilet I have Ever Installed  The Horow T38P",
+    "meta": [
+     "54K",
+     "10mo ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 54000
+   },
+   {
+    "id": "gLYo31eGR8E",
+    "title": "Removing 10,000 Pounds Of Concrete | Building an Addition Ep2.",
+    "meta": [
+     "14K",
+     "10mo ago"
+    ],
+    "dur": "16:14",
+    "views_tab": 14000
+   },
+   {
+    "id": "VGkI1mduoF0",
+    "title": "Massive Deck Removal | Building an Addition Ep1.",
+    "meta": [
+     "14K",
+     "10mo ago"
+    ],
+    "dur": "17:22",
+    "views_tab": 14000
+   },
+   {
+    "id": "G5OQFKvRRv8",
+    "title": "My Work Is Not To Code | Now I Have To Fix It",
+    "meta": [
+     "10K",
+     "10mo ago"
+    ],
+    "dur": "11:29",
+    "views_tab": 10000
+   },
+   {
+    "id": "2OnpRYDB1iw",
+    "title": "Upgrading My Workshop With A New Tool.",
+    "meta": [
+     "6.6K",
+     "10mo ago"
+    ],
+    "dur": "8:05",
+    "views_tab": 6600
+   },
+   {
+    "id": "dv61Anj21cU",
+    "title": "Emergency Plumbing Repair | They Called A Handyman And NOT A Plumber",
+    "meta": [
+     "10K",
+     "10mo ago"
+    ],
+    "dur": "12:18",
+    "views_tab": 10000
+   },
+   {
+    "id": "WYNSifRIX7k",
+    "title": "Don't Make This Electrical Mistake | Its a Fire Hazard",
+    "meta": [
+     "38K",
+     "11mo ago"
+    ],
+    "dur": "16:28",
+    "views_tab": 38000
+   },
+   {
+    "id": "WGVH4R3EXxg",
+    "title": "DIY 15'x40' Concrete Driveway With No Forms",
+    "meta": [
+     "11K",
+     "11mo ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 11000
+   },
+   {
+    "id": "MaMtspDJUSw",
+    "title": "15'x40' DIY Concrete Driveway",
+    "meta": [
+     "13K",
+     "11mo ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 13000
+   },
+   {
+    "id": "g3hiyp3cbis",
+    "title": "How to Install a Mini Split (Step-By-Step) | Don't Make This Mistake",
+    "meta": [
+     "18K",
+     "11mo ago"
+    ],
+    "dur": "16:50",
+    "views_tab": 18000
+   },
+   {
+    "id": "_Sjq2t_Vch8",
+    "title": "DIY Mini Split Electrical Circuit Step by Step",
+    "meta": [
+     "13K",
+     "11mo ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 13000
+   },
+   {
+    "id": "veatfzELxJw",
+    "title": "Stranded With The Dump Trailer Stuck Up | The Anker SOLIX C2000 Gen 2 Saved The Day",
+    "meta": [
+     "4.9K",
+     "11mo ago"
+    ],
+    "dur": "8:05",
+    "views_tab": 4900
+   },
+   {
+    "id": "_MA5CT_7HSk",
+    "title": "Destroyed Harbor Freight Winch | Trying To Move A Building",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "23:38",
+    "views_tab": 12000
+   },
+   {
+    "id": "xRN6WWC009U",
+    "title": "I Have To Move A Building By Myself To The Dump | We Don't Recycle in These Parts",
+    "meta": [
+     "75K",
+     "1y ago"
+    ],
+    "dur": "18:22",
+    "views_tab": 75000
+   },
+   {
+    "id": "o5FUFSx-cqY",
+    "title": "Homeless Proof Gate Lock and Latch",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "20:45",
+    "views_tab": 42000
+   },
+   {
+    "id": "Kqh0rL22Hs8",
+    "title": "I Build A Huge Gate | They Said It Wouldn't Work .....",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 13000
+   },
+   {
+    "id": "yrTl34HhzVw",
+    "title": "Building A Massive 16 Foot Rolling Gate | It Had To Be Engineered",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 16000
+   },
+   {
+    "id": "3fBc_pHRhxk",
+    "title": "I Tried to Mix and Pour Concrete By Myself | I should Have listened To Them",
+    "meta": [
+     "24K",
+     "1y ago"
+    ],
+    "dur": "21:08",
+    "views_tab": 24000
+   },
+   {
+    "id": "iPyBO90nKDA",
+    "title": "Most Handymen Can't Do This Job |  Pros Only",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 13000
+   },
+   {
+    "id": "4W1jIZzeEUE",
+    "title": "Fixing Another Handyman's Bad Work | THE HANDYMAN",
+    "meta": [
+     "57K",
+     "1y ago"
+    ],
+    "dur": "14:50",
+    "views_tab": 57000
+   },
+   {
+    "id": "ftVsg0xm8GE",
+    "title": "Handyman Fence Gate | Doing It all Wrong To Make More Money",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 10000
+   },
+   {
+    "id": "cBya6YBnMEE",
+    "title": "The eufy Cameras Around My Workshop Revealed a Scary Truth | I Need To Move ASAP",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "7:35",
+    "views_tab": 58000
+   },
+   {
+    "id": "FTRz1QmkxsU",
+    "title": "Fence Building Master Class | EASY $175 Per Hour | THE HANDYMAN",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "18:24",
+    "views_tab": 17000
+   },
+   {
+    "id": "U7eQiKV3rKI",
+    "title": "How I Survive Working In 100 Degree Heat | I keep Passing Out !!!",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "9:05",
+    "views_tab": 11000
+   },
+   {
+    "id": "mzHWQDl_e1k",
+    "title": "This Has Been The Hardest Handyman Job This Year | Broken Back | THE HANDYMAN |",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "12:54",
+    "views_tab": 32000
+   },
+   {
+    "id": "NaY74h9mDZw",
+    "title": "Bathroom Remodel All the Finial Details",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 10000
+   },
+   {
+    "id": "WB0fcNHnvRY",
+    "title": "Building a Million $$$ Living Room Start to Finish",
+    "meta": [
+     "8.7K",
+     "1y ago"
+    ],
+    "dur": "20:07",
+    "views_tab": 8700
+   },
+   {
+    "id": "214M9fLIIKk",
+    "title": "Don't Buy a Robot Lawnmower Without Watching This Video First | Real World Expectations",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "9:04",
+    "views_tab": 13000
+   },
+   {
+    "id": "nKIuM-mNSR4",
+    "title": "Customer Told Me To Rip Them Out and Start Over | Not Good |",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "15:22",
+    "views_tab": 14000
+   },
+   {
+    "id": "o3oIqkemegU",
+    "title": "Expensive Mistakes | Will My Cabinet Building Business Survive ?",
+    "meta": [
+     "8.5K",
+     "1y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 8500
+   },
+   {
+    "id": "ZeRWSzy4MLg",
+    "title": "The Secret to High-End Built-Ins: Workshop Edition",
+    "meta": [
+     "7.6K",
+     "1y ago"
+    ],
+    "dur": "9:50",
+    "views_tab": 7600
+   },
+   {
+    "id": "RbJdD9RDy8M",
+    "title": "I Built Their Dream Fireplace Mantel (and mounted a HUGE TV!)",
+    "meta": [
+     "7.7K",
+     "1y ago"
+    ],
+    "dur": "10:23",
+    "views_tab": 7700
+   },
+   {
+    "id": "ncp2q_8vCyc",
+    "title": "Is THIS the End of Professional Lawn Care? (Goat A2500 Review)",
+    "meta": [
+     "6.7K",
+     "1y ago"
+    ],
+    "dur": "7:04",
+    "views_tab": 6700
+   },
+   {
+    "id": "_OnDe816wtw",
+    "title": "Custom Fireplace Accent Wall Build",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "18:30",
+    "views_tab": 16000
+   },
+   {
+    "id": "t8b5askECm0",
+    "title": "Handyman Tool Trailer Rebuild",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "10:39",
+    "views_tab": 20000
+   },
+   {
+    "id": "ojuIrShMsak",
+    "title": "$2500 Home Depot Vanity! Can This Handyman Make It Look Good?",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "13:28",
+    "views_tab": 15000
+   },
+   {
+    "id": "VHfRqnnsTJ0",
+    "title": "eufy Smart Lock Installation in 5 MINUTES?! You HAVE to See This!",
+    "meta": [
+     "31K",
+     "1y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 31000
+   },
+   {
+    "id": "kqrGd-XQPGU",
+    "title": "STOP! Don't Remodel Your Bathroom Until You See This Vinyl Plank Hack!",
+    "meta": [
+     "33K",
+     "1y ago"
+    ],
+    "dur": "28:11",
+    "views_tab": 33000
+   },
+   {
+    "id": "DLHCyXECIdA",
+    "title": "I Let This Robot Loose In My Pool | And What Happened Next SHOCKED Me! (Beatbot AquaSense 2 Ultra)",
+    "meta": [
+     "439K",
+     "1y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 439000
+   },
+   {
+    "id": "nUupegn7aR0",
+    "title": "DIY Spray Foam Insulation: The Harsh Reality (It's Harder Than You Think!)",
+    "meta": [
+     "18K",
+     "1y ago"
+    ],
+    "dur": "12:10",
+    "views_tab": 18000
+   },
+   {
+    "id": "sC9RGvgt1Xw",
+    "title": "This Is Why You NEVER Use Spray Foam Insulation | Use this instead",
+    "meta": [
+     "80K",
+     "1y ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 80000
+   },
+   {
+    "id": "dD7Rk95IiCo",
+    "title": "The Grand Finale! Custom Cabinet Assembly & Install REVEAL!",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "21:18",
+    "views_tab": 12000
+   },
+   {
+    "id": "KYT-lHvOoIY",
+    "title": "Cabinet Building GAME CHANGER: Pro Secrets That Will BLOW YOUR MIND!",
+    "meta": [
+     "18K",
+     "1y ago"
+    ],
+    "dur": "11:59",
+    "views_tab": 18000
+   },
+   {
+    "id": "dguh9SXtqIE",
+    "title": "This Tool CHANGED Cabinet Assembly FOREVER! (So Easy!)",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 16000
+   },
+   {
+    "id": "U_xmuAEVw-Y",
+    "title": "From Plywood Sheets to STUNNING Cabinets (Using Basic Tools) Ep. 2",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "14:50",
+    "views_tab": 14000
+   },
+   {
+    "id": "oRoWt59Aw1A",
+    "title": "You WON'T BELIEVE how EASY it is to Build CUSTOM Cabinets Ep 1",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "18:50",
+    "views_tab": 20000
+   },
+   {
+    "id": "EmU4IPawfBU",
+    "title": "Can A Handyman Install Hardwood Floors??",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "18:44",
+    "views_tab": 13000
+   },
+   {
+    "id": "06l86IS2MQ0",
+    "title": "You Can't Buy Or Sell A House Without Doing This",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "17:38",
+    "views_tab": 13000
+   },
+   {
+    "id": "r1LRk4o0-E8",
+    "title": "Finished My Most Difficult Project | How Much Did I Charge For It? |",
+    "meta": [
+     "20K",
+     "1y ago"
+    ],
+    "dur": "19:01",
+    "views_tab": 20000
+   },
+   {
+    "id": "e-e7nV3XNqM",
+    "title": "I Wasted So Much Time On This | LOSING MONEY | THE HANDYMAN",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "18:05",
+    "views_tab": 10000
+   },
+   {
+    "id": "sMhkdx_qvK4",
+    "title": "Could You Fix This Problem? | THE HANDYMAN |",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "16:18",
+    "views_tab": 12000
+   },
+   {
+    "id": "iOZx2cVEC6E",
+    "title": "Expensive Mistake Installing Tile For A Customer | THE HANDYMAN |",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "16:43",
+    "views_tab": 16000
+   },
+   {
+    "id": "BwFf8u3FRsQ",
+    "title": "I Caught Them Racing | Anona Aurora Security Camera | THE HANDYMAN |",
+    "meta": [
+     "7.6K",
+     "1y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 7600
+   },
+   {
+    "id": "-Y7EkSwA97c",
+    "title": "They Told Me Not To Do It Like This | THE HANDYMAN |",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "18:53",
+    "views_tab": 15000
+   },
+   {
+    "id": "8oWfIiVXuLI",
+    "title": "Game Changing Tool | Painting The Most Expensive Walls | THE HANDYMAN |",
+    "meta": [
+     "51K",
+     "1y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 51000
+   },
+   {
+    "id": "LAYhpFIJluA",
+    "title": "Only The Rich Can Afford This In Their Homes | THE HANDYMAN",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "14:38",
+    "views_tab": 19000
+   },
+   {
+    "id": "U1Nta4_TPew",
+    "title": "Garage Heater | Easy Install | Easy Money |",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "6:39",
+    "views_tab": 17000
+   },
+   {
+    "id": "Y6f4M4ytEMc",
+    "title": "Only Pros Should Do This Type Of Work | THE HANDYMAN |",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "17:20",
+    "views_tab": 18000
+   },
+   {
+    "id": "Z9d3QMle-uc",
+    "title": "YouTube Troll Harassing Me | Caught On EufyCam S3 Pro | THE HANDYMAN |",
+    "meta": [
+     "9.8K",
+     "2y ago"
+    ],
+    "dur": "8:58",
+    "views_tab": 9800
+   },
+   {
+    "id": "d22bi7WEEJw",
+    "title": "The Worst Part Of A Remodel | Paid The Least | THE HANDYMAN |",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "17:16",
+    "views_tab": 18000
+   },
+   {
+    "id": "99ZOVUgJn1U",
+    "title": "Installing Drywall Takes NO Skill | So Easy A Handyman Can Do It | THE HANDYMAN |",
+    "meta": [
+     "16K",
+     "2y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 16000
+   },
+   {
+    "id": "NsgIl_0Qz9Y",
+    "title": "Installing Waterdrop G3P800 To Refrigerator | Step By Step  | THE HANDYMAN |",
+    "meta": [
+     "152K",
+     "2y ago"
+    ],
+    "dur": "14:38",
+    "views_tab": 152000
+   },
+   {
+    "id": "D9rbruLb2qs",
+    "title": "Saving This House From A Guaranteed Flood | Bonus $300/Hr Handyman Job | THE HANDYMAN |",
+    "meta": [
+     "11K",
+     "2y ago"
+    ],
+    "dur": "10:52",
+    "views_tab": 11000
+   },
+   {
+    "id": "vam0nXtDHP4",
+    "title": "These Pipes Are Going To freeze And Flood This House | I Need Your Help | THE HANDYMAN |",
+    "meta": [
+     "16K",
+     "2y ago"
+    ],
+    "dur": "17:39",
+    "views_tab": 16000
+   },
+   {
+    "id": "OI7zbzNmuAU",
+    "title": "Mini Split AC Poisoning My Tenants | Shocking Amount Of MOLD | THE HANDYMAN |",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "11:06",
+    "views_tab": 34000
+   },
+   {
+    "id": "haQkzVeqCNY",
+    "title": "What is a Titan 5 And Is it Contractor Grade | THE HANDYMAN |",
+    "meta": [
+     "8K",
+     "2y ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 8000
+   },
+   {
+    "id": "d-v99nK-V-0",
+    "title": "Basement Bedroom Framing | I Need Help | THE HANDYMAN |",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "16:32",
+    "views_tab": 18000
+   },
+   {
+    "id": "rYbOwMLRQ4U",
+    "title": "Trying To Install New Windows In a Foundation Wall | Did I Do It Right? | THE HANDYMAN |",
+    "meta": [
+     "21K",
+     "2y ago"
+    ],
+    "dur": "14:48",
+    "views_tab": 21000
+   },
+   {
+    "id": "fmuCB6OH1Zg",
+    "title": "Watch This Video Before Buying A Battery Power Lawn Mower | THE HANDYMAN |",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 12000
+   },
+   {
+    "id": "8vZNDVApwEU",
+    "title": "1950s Basement Remodel | Dangerous Electricity Found In Walls | THE HANDYMAN |",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "19:44",
+    "views_tab": 23000
+   },
+   {
+    "id": "VyF1tSUtm6I",
+    "title": "My Side Business Is Taking Over | Full Days Work For $3,000 Step By Step | THE HANDYMAN |",
+    "meta": [
+     "138K",
+     "2y ago"
+    ],
+    "dur": "18:27",
+    "views_tab": 138000
+   },
+   {
+    "id": "D-5mtlGLWvI",
+    "title": "1950s Basement Remodel | Day 1 | THE HANDYMAN |",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "19:01",
+    "views_tab": 19000
+   },
+   {
+    "id": "Cr7SRLNEBjU",
+    "title": "LICENSED Drywaller | Step By Step Wall Repair Instructions | Tricks You Don't Know | THE HANDYMAN",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 20000
+   },
+   {
+    "id": "o6D7vejfG3A",
+    "title": "$3,000 Air Conditioning Repair | Handyman Does It In 30 Minutes | THE HANDYMAN |",
+    "meta": [
+     "24K",
+     "2y ago"
+    ],
+    "dur": "9:44",
+    "views_tab": 24000
+   },
+   {
+    "id": "xotE8CIBq64",
+    "title": "Emergency Handyman Job | Same Day Service | Pays 10X | THE HANDYMAN |",
+    "meta": [
+     "49K",
+     "2y ago"
+    ],
+    "dur": "13:26",
+    "views_tab": 49000
+   },
+   {
+    "id": "f7z3HGi2XaE",
+    "title": "THIS CHANGES EVERYTHING | THE HANDYMAN |",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 20000
+   },
+   {
+    "id": "HD2w7J11zyw",
+    "title": "Restoring A 1977 Tub | Saving Thousands Of Dollars | Dwil vs Rust-oleum Tub Paint | THE HANDYMAN |",
+    "meta": [
+     "24K",
+     "2y ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 24000
+   },
+   {
+    "id": "zJu6lPBGaFY",
+    "title": "This Is Why Your AC Isn't Cooling Your House | THE HANDYMAN |",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "10:41",
+    "views_tab": 19000
+   },
+   {
+    "id": "c9VivD3h6J0",
+    "title": "Exposing The HVAC Industry | They are Stealing From You | THE HANDYMANA |",
+    "meta": [
+     "28K",
+     "2y ago"
+    ],
+    "dur": "16:16",
+    "views_tab": 28000
+   },
+   {
+    "id": "d43HSbPqOmA",
+    "title": "Handyman Tries To Install HVAC Line Sets | THE HANDYMAN |",
+    "meta": [
+     "21K",
+     "2y ago"
+    ],
+    "dur": "14:18",
+    "views_tab": 21000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "rve3dqBEWpo",
+    "title": "Handyman Easily Makes $1,000 Per Day | Easy Money | What He does | THE HANDYMAN |",
+    "meta": [
+     "5.6M",
+     "6y ago"
+    ],
+    "dur": "17:52",
+    "views_tab": 5600000
+   },
+   {
+    "id": "kPwVN1QDgDs",
+    "title": "Carpet to Hardwood stairs | The Handyman |",
+    "meta": [
+     "2.2M",
+     "10y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 2200000
+   },
+   {
+    "id": "6Xjox43DpcE",
+    "title": "DIY addition.  How to build a room addition to your home on a budget.",
+    "meta": [
+     "1.9M",
+     "10y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 1900000
+   },
+   {
+    "id": "BQNvl98qWxw",
+    "title": "How To Pour Concrete That Will NEVER Crack | THE HANDYMAN |",
+    "meta": [
+     "1.8M",
+     "7y ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 1800000
+   },
+   {
+    "id": "5VVf9HQMIaM",
+    "title": "The Truth About Vinyl Plank Flooring 1 | THE HANDYMAN |",
+    "meta": [
+     "1.7M",
+     "7y ago"
+    ],
+    "dur": "12:27",
+    "views_tab": 1700000
+   },
+   {
+    "id": "7_96zlHDDFw",
+    "title": "Easy Fix For Dishwasher That Wont Drain | THE HANDYMAN",
+    "meta": [
+     "1.6M",
+     "7y ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 1600000
+   },
+   {
+    "id": "yQO9OKhUeB0",
+    "title": "Don't Paint Your Cabinets? | THE HANDYMAN |",
+    "meta": [
+     "1.4M",
+     "7y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 1400000
+   },
+   {
+    "id": "DtpspySL-kY",
+    "title": "How to Paint Cabinets for a Factory Finish (2025 Pro Guide)",
+    "meta": [
+     "1.4M",
+     "5y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 1400000
+   },
+   {
+    "id": "lmSykSOb2mc",
+    "title": "Small Bathroom Remodel Start To Finish | THE HANDYMAN",
+    "meta": [
+     "1.4M",
+     "9y ago"
+    ],
+    "dur": "12:50",
+    "views_tab": 1400000
+   },
+   {
+    "id": "751czwpEsfU",
+    "title": "Handyman Makes $1000 in One Day | How He Does it | THE HANDYMAN |",
+    "meta": [
+     "1.1M",
+     "8y ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 1100000
+   },
+   {
+    "id": "WJAa4qEH44s",
+    "title": "Repairing Rotten Fascia On A House | THE HANDYMAN",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 1000000
+   },
+   {
+    "id": "yEiJcsofbWw",
+    "title": "The Lowe's Appliance SCAM You Need To Know About | THE HANDYMAN |",
+    "meta": [
+     "948K",
+     "7y ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 948000
+   },
+   {
+    "id": "UCfZykJhGf8",
+    "title": "Why You Should NEVER Buy A Fix And Flip House | THE HANDYMAN |",
+    "meta": [
+     "910K",
+     "8y ago"
+    ],
+    "dur": "21:36",
+    "views_tab": 910000
+   },
+   {
+    "id": "9MyhPzm5-nI",
+    "title": "Home Owners Make $11,000 Mistake | Major Damage To Their Home | THE HANDYMAN |",
+    "meta": [
+     "882K",
+     "7y ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 882000
+   },
+   {
+    "id": "eDS5X0lTFBs",
+    "title": "Renters Kicked A Hole In The Wall | I Fix It Step By Step | THE HANDYMAN|",
+    "meta": [
+     "800K",
+     "5y ago"
+    ],
+    "dur": "14:00",
+    "views_tab": 800000
+   },
+   {
+    "id": "IfXb-lsAN-k",
+    "title": "How To Install Power And HDMI Wires In The Wall For a Flat Screen TV | THEHANDYMAN |",
+    "meta": [
+     "787K",
+     "5y ago"
+    ],
+    "dur": "12:09",
+    "views_tab": 787000
+   },
+   {
+    "id": "Uka4og1pCo0",
+    "title": "How To Install A Storm Door In 30 Minutes | THE HANDYMAN |",
+    "meta": [
+     "741K",
+     "7y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 741000
+   },
+   {
+    "id": "kgxJtgITQqU",
+    "title": "$2,000 In One Day As A Handyman | What He Does | THE HANDYMAN |",
+    "meta": [
+     "667K",
+     "4y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 667000
+   },
+   {
+    "id": "fq2qIBHxJpM",
+    "title": "Handyman Makes $1,200 Per Day Resetting GFI Outlets For Millennials | THE HANDYMAN |",
+    "meta": [
+     "661K",
+     "6y ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 661000
+   },
+   {
+    "id": "CQxFdmpRyo8",
+    "title": "The Easiest Way To Mount A TV To A Wall | THE HANDYMAN |",
+    "meta": [
+     "659K",
+     "6y ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 659000
+   },
+   {
+    "id": "TyxLEus4P-E",
+    "title": "Affordable HVLP Paint Sprayer That Actually Works | THE HANDYMAN |",
+    "meta": [
+     "657K",
+     "8y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 657000
+   },
+   {
+    "id": "DZL5K44zZL4",
+    "title": "Rotten Post Repair | THE HANDYMAN",
+    "meta": [
+     "645K",
+     "7y ago"
+    ],
+    "dur": "13:48",
+    "views_tab": 645000
+   },
+   {
+    "id": "OTYCvTooSOQ",
+    "title": "Interior LED Lighting 101 | THE HANDYMAN |",
+    "meta": [
+     "623K",
+     "8y ago"
+    ],
+    "dur": "9:17",
+    "views_tab": 623000
+   },
+   {
+    "id": "1EslXq5nsO8",
+    "title": "Handyman Vs Licensed Electrician | Handyman Wins Every Time | THE HANDYMAN |",
+    "meta": [
+     "618K",
+     "6y ago"
+    ],
+    "dur": "11:03",
+    "views_tab": 618000
+   },
+   {
+    "id": "jDHaLmeSlVc",
+    "title": "How To Fix Your Tub Stopper In 5 Minutes $250 Repair | THE HANDYMAN |",
+    "meta": [
+     "608K",
+     "3y ago"
+    ],
+    "dur": "13:29",
+    "views_tab": 608000
+   },
+   {
+    "id": "Z4nctqVod-g",
+    "title": "How To Fix A Roof Leak | THE HANDYMAN |",
+    "meta": [
+     "605K",
+     "7y ago"
+    ],
+    "dur": "11:53",
+    "views_tab": 605000
+   },
+   {
+    "id": "XwllC7LLjqo",
+    "title": "How To Build a Long Privacy Fence | THE HANDYMAN |",
+    "meta": [
+     "596K",
+     "9y ago"
+    ],
+    "dur": "14:03",
+    "views_tab": 596000
+   },
+   {
+    "id": "GaBGjsnX9Pk",
+    "title": "Wire Nuts Vs Push In Electrical Connections | THE TRUTH | THE HANDYMAN |",
+    "meta": [
+     "595K",
+     "6y ago"
+    ],
+    "dur": "14:52",
+    "views_tab": 595000
+   },
+   {
+    "id": "yoqskvoqBKU",
+    "title": "HOW TO REPLACE A HOT WATER HEATER IN 30 MIN | THE HANDYMAN",
+    "meta": [
+     "560K",
+     "9y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 560000
+   },
+   {
+    "id": "NIgrzsg6R8U",
+    "title": "They Couldn't Sell Their House Because Of This | Don't Let It Happen To You | THE HANDYMAN |",
+    "meta": [
+     "553K",
+     "5y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 553000
+   },
+   {
+    "id": "08bnj5JNb5M",
+    "title": "How To Fix Floor Squeaks In Old Houses | THE HANDYMAN |",
+    "meta": [
+     "545K",
+     "6y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 545000
+   },
+   {
+    "id": "dTnzyEwhrZk",
+    "title": "Handyman Makes $1,250 In 5 Hours | Easy Money | What I do | THE HANDYMAN |",
+    "meta": [
+     "534K",
+     "5y ago"
+    ],
+    "dur": "12:49",
+    "views_tab": 534000
+   },
+   {
+    "id": "SkZQQc7PXEQ",
+    "title": "How To Fix A Roof Leak With Flex Seal | THE HANDYMAN |",
+    "meta": [
+     "502K",
+     "6y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 502000
+   },
+   {
+    "id": "848XzSFkZdw",
+    "title": "How To Frame A Wall and Install A Door | THE HANDYMAN |",
+    "meta": [
+     "492K",
+     "6y ago"
+    ],
+    "dur": "9:09",
+    "views_tab": 492000
+   },
+   {
+    "id": "xOWq5eACpws",
+    "title": "$100,000 Remodel Start To Finish | THE HANDYMAN |",
+    "meta": [
+     "474K",
+     "7y ago"
+    ],
+    "dur": "23:31",
+    "views_tab": 474000
+   },
+   {
+    "id": "bug-t4igLag",
+    "title": "How To Get A Perfect Paint Job On Your Kitchen Cabinets | THE HANDYMAN |",
+    "meta": [
+     "464K",
+     "7y ago"
+    ],
+    "dur": "14:56",
+    "views_tab": 464000
+   },
+   {
+    "id": "cXXA18nl2QI",
+    "title": "How I Get Handyman Jobs",
+    "meta": [
+     "455K",
+     "8y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 455000
+   },
+   {
+    "id": "V0IKClAGKS8",
+    "title": "The Handyman Gets Called In to Fix 3 Million Dollar house | THE HANDYMAN |",
+    "meta": [
+     "451K",
+     "8y ago"
+    ],
+    "dur": "17:07",
+    "views_tab": 451000
+   },
+   {
+    "id": "DLHCyXECIdA",
+    "title": "I Let This Robot Loose In My Pool | And What Happened Next SHOCKED Me! (Beatbot AquaSense 2 Ultra)",
+    "meta": [
+     "439K",
+     "1y ago"
+    ],
+    "dur": "7:40",
+    "views_tab": 439000
+   },
+   {
+    "id": "3-QUUnwiW-A",
+    "title": "The Best Gate Latch For Your Fence And How To Install It | THE HANDYMAN |",
+    "meta": [
+     "425K",
+     "7y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 425000
+   },
+   {
+    "id": "CHaa3Eq9-eA",
+    "title": "How To Replace A Bathroom Vanity | The Handyman |",
+    "meta": [
+     "418K",
+     "8y ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 418000
+   },
+   {
+    "id": "WO6M1dUimyc",
+    "title": "The Impossible Doorway Build | They Said It Couldn't Be Done | THE HANDYMAN |",
+    "meta": [
+     "412K",
+     "5y ago"
+    ],
+    "dur": "18:38",
+    "views_tab": 412000
+   },
+   {
+    "id": "G2rPqtKuOSE",
+    "title": "How To Repair a Water Damaged Ceiling | THE HANDYMAN |",
+    "meta": [
+     "411K",
+     "9y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 411000
+   },
+   {
+    "id": "cJdullbVfZ4",
+    "title": "Doorbell Camera Installer Makes $1,200 Per Day | Easy Money | THE HANDYMAN |",
+    "meta": [
+     "399K",
+     "5y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 399000
+   },
+   {
+    "id": "C4Rh0yNRKKs",
+    "title": "Tough Day As A Handyman | Its That Time Of Year | THE HANDYMAN |",
+    "meta": [
+     "396K",
+     "2y ago"
+    ],
+    "dur": "11:09",
+    "views_tab": 396000
+   },
+   {
+    "id": "D-xp6ZgYXok",
+    "title": "Does The Walabot Work?  Lets Test It Out | THE HANDYMAN |",
+    "meta": [
+     "395K",
+     "7y ago"
+    ],
+    "dur": "10:57",
+    "views_tab": 395000
+   },
+   {
+    "id": "nYpNK0FIjmg",
+    "title": "How To Layout Tile So That It's Perfect Every Time | THE HANDYMAN |",
+    "meta": [
+     "391K",
+     "6y ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 391000
+   },
+   {
+    "id": "8m6lMztqBCE",
+    "title": "Replacing Soffit And Fascia On Huge House | THE HANDYMAN |",
+    "meta": [
+     "381K",
+     "8y ago"
+    ],
+    "dur": "16:23",
+    "views_tab": 381000
+   },
+   {
+    "id": "EW_4KCMYx-o",
+    "title": "How To Install Perfect Base Cabinets | THE HANDYMAN |",
+    "meta": [
+     "378K",
+     "7y ago"
+    ],
+    "dur": "13:34",
+    "views_tab": 378000
+   },
+   {
+    "id": "j2mC9CP5LdY",
+    "title": "How To Install A New Front Door In 30 Minutes | THE HANDYMAN |",
+    "meta": [
+     "374K",
+     "7y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 374000
+   },
+   {
+    "id": "GxyblihGDGw",
+    "title": "3 Steps To Get Perfect Grout On Your Floor Tile | THE HANDYMAN |",
+    "meta": [
+     "371K",
+     "6y ago"
+    ],
+    "dur": "14:24",
+    "views_tab": 371000
+   },
+   {
+    "id": "VKWchTUZ2Gc",
+    "title": "DIY | SECRET HIDDEN ROOM | THE HANDYMAN",
+    "meta": [
+     "360K",
+     "9y ago"
+    ],
+    "dur": "11:35",
+    "views_tab": 360000
+   },
+   {
+    "id": "8IaOC0Yzv7A",
+    "title": "Full Day Of Handyman Work | Easy $1,500 | THE HANDYMAN |",
+    "meta": [
+     "346K",
+     "2y ago"
+    ],
+    "dur": "19:18",
+    "views_tab": 346000
+   },
+   {
+    "id": "qqsV8nuwWrI",
+    "title": "How to Install More Electric Outlets In Your Home | THE HANDYMAN",
+    "meta": [
+     "345K",
+     "9y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 345000
+   },
+   {
+    "id": "YIO7dMJuSKk",
+    "title": "How To Replace Your Old Windows The Easy Way | THE HANDYMAN |",
+    "meta": [
+     "343K",
+     "7y ago"
+    ],
+    "dur": "18:38",
+    "views_tab": 343000
+   },
+   {
+    "id": "LpxX7v9VdSo",
+    "title": "Dangerous Framing Fixed By A Handyman | It Should Have Collapsed | The Handyman |",
+    "meta": [
+     "342K",
+     "4y ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 342000
+   },
+   {
+    "id": "_0tieOe--V0",
+    "title": "Must Have Tools To Install Cabinets | THE HANDYMAN |",
+    "meta": [
+     "331K",
+     "7y ago"
+    ],
+    "dur": "13:50",
+    "views_tab": 331000
+   },
+   {
+    "id": "SYsfwjKJAK8",
+    "title": "How To Replace Damaged Siding | THE HANDYMAN",
+    "meta": [
+     "326K",
+     "7y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 326000
+   },
+   {
+    "id": "umHj89RD-Ds",
+    "title": "The Barn Door Fad is a Huge Problem | THE HANDYMAN |",
+    "meta": [
+     "315K",
+     "8y ago"
+    ],
+    "dur": "12:06",
+    "views_tab": 315000
+   },
+   {
+    "id": "KVylzHgfMRY",
+    "title": "The Impossible 1 Day Project | THE HANDYMAN |",
+    "meta": [
+     "309K",
+     "8y ago"
+    ],
+    "dur": "25:27",
+    "views_tab": 309000
+   },
+   {
+    "id": "e3zfXvATea0",
+    "title": "Toilet Install Gone Wrong | What Failed | THE HANDYMAN |",
+    "meta": [
+     "303K",
+     "4y ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 303000
+   },
+   {
+    "id": "4_LH4q6Vs3I",
+    "title": "A Handyman Can Fix Anything | THE HANDYMAN |",
+    "meta": [
+     "301K",
+     "8y ago"
+    ],
+    "dur": "26:07",
+    "views_tab": 301000
+   },
+   {
+    "id": "7R9Cs1q9GGU",
+    "title": "Handyman To The Elderly | Installing Ceiling Fans and Faucets | How Much to Charge | THE HANDYMAN |",
+    "meta": [
+     "297K",
+     "8y ago"
+    ],
+    "dur": "18:12",
+    "views_tab": 297000
+   },
+   {
+    "id": "YLDBy1Sa-Hc",
+    "title": "Building A Fence For Rich People | THE HANDYMAN",
+    "meta": [
+     "297K",
+     "9y ago"
+    ],
+    "dur": "7:11",
+    "views_tab": 297000
+   },
+   {
+    "id": "6cLINGkF5Yk",
+    "title": "How To Fix Air Gaps On Your Garage Door",
+    "meta": [
+     "289K",
+     "7y ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 289000
+   },
+   {
+    "id": "6lwnG-kVQT8",
+    "title": "What Caused $11,000 In Damage To Their Home? Big Mistake | THE HANDYMAN |",
+    "meta": [
+     "284K",
+     "7y ago"
+    ],
+    "dur": "12:45",
+    "views_tab": 284000
+   },
+   {
+    "id": "eo7ar2RNYc8",
+    "title": "Cost To Install A Ceiling Fan Inplace Of A Light Fixture | Step By Step Instructions | THE HANDYMAN",
+    "meta": [
+     "280K",
+     "6y ago"
+    ],
+    "dur": "13:25",
+    "views_tab": 280000
+   },
+   {
+    "id": "l-0q7pHp7i0",
+    "title": "Customers Are Very Upset On The Massive Kitchen Reno | THE HANDYMAN |",
+    "meta": [
+     "271K",
+     "6y ago"
+    ],
+    "dur": "19:26",
+    "views_tab": 271000
+   },
+   {
+    "id": "9dTxO8JC92c",
+    "title": "$ Handyman Jobs That Pay Good Money $ | THE HANDYMAN |",
+    "meta": [
+     "270K",
+     "9y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 270000
+   },
+   {
+    "id": "uOo-pebzTrY",
+    "title": "$20,000 Bathroom Remodel Start To Finish | THE HANDYMAN |",
+    "meta": [
+     "262K",
+     "8y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 262000
+   },
+   {
+    "id": "M4SzrhFfbbU",
+    "title": "How To Hang A Wall Of Mirrors | THE HANDYMAN |",
+    "meta": [
+     "251K",
+     "9y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 251000
+   },
+   {
+    "id": "Kejm1F_AwUU",
+    "title": "How to Remodel a Bathroom for $6,500 (Pro Tips to Save $10k)",
+    "meta": [
+     "250K",
+     "3y ago"
+    ],
+    "dur": "17:06",
+    "views_tab": 250000
+   },
+   {
+    "id": "a4In8g5aLvs",
+    "title": "Fixing A Sagging Gate And Replacing A Fence Post | THE HANDYMAN |",
+    "meta": [
+     "247K",
+     "9y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 247000
+   },
+   {
+    "id": "KEGfZiHlV4M",
+    "title": "How to Remove track lights And Replace With Modern Down Lights | THE HANDYMAN |",
+    "meta": [
+     "246K",
+     "7y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 246000
+   },
+   {
+    "id": "43S5fRw-Xe8",
+    "title": "How To Install Baseboard The Easy Way | THE HANDYMAN |",
+    "meta": [
+     "244K",
+     "7y ago"
+    ],
+    "dur": "17:56",
+    "views_tab": 244000
+   },
+   {
+    "id": "JAc2yc60ny0",
+    "title": "What To Do When Your Water Pipes Freeze | THE HANDYMAN |",
+    "meta": [
+     "242K",
+     "5y ago"
+    ],
+    "dur": "8:16",
+    "views_tab": 242000
+   },
+   {
+    "id": "YO3xsLv11w4",
+    "title": "How To Repair Mold Damaged Walls | THE HANDYMAN |",
+    "meta": [
+     "242K",
+     "7y ago"
+    ],
+    "dur": "15:59",
+    "views_tab": 242000
+   },
+   {
+    "id": "iQmoOMxJUtA",
+    "title": "How to Refinish Old Hardwood Floors By Yourself | THE HANDYMAN",
+    "meta": [
+     "241K",
+     "9y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 241000
+   },
+   {
+    "id": "F1RooWpDH9U",
+    "title": "How To Build a Bathroom In Your Basement Start to Finish | THE HANDYMAN |",
+    "meta": [
+     "240K",
+     "10y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 240000
+   },
+   {
+    "id": "gAQHqyVYwvk",
+    "title": "Handyman Charges $245 Per Hour To Work In Protester Occupied Zones |  THE HANDYMAN |",
+    "meta": [
+     "238K",
+     "6y ago"
+    ],
+    "dur": "9:49",
+    "views_tab": 238000
+   },
+   {
+    "id": "6FYibOk9bf0",
+    "title": "How To Install Upper Kitchen Cabinets By Yourself | THE HANDYMAN  |",
+    "meta": [
+     "234K",
+     "7y ago"
+    ],
+    "dur": "12:30",
+    "views_tab": 234000
+   },
+   {
+    "id": "f6zmK_PPymY",
+    "title": "How The Pros Finish A Wood Floor | THE HANDYMAN |",
+    "meta": [
+     "230K",
+     "6y ago"
+    ],
+    "dur": "23:39",
+    "views_tab": 230000
+   },
+   {
+    "id": "JVDx_M0U3GA",
+    "title": "Homeowner Grade VS Contractor Grade Tools | What Should You Buy | THE HANDYMAN |",
+    "meta": [
+     "229K",
+     "7y ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 229000
+   },
+   {
+    "id": "qqznZlQPBt4",
+    "title": "DIY | HOW TO INSTALL WATER LINE TO REFRIGERATOR | THE HANDYMAN",
+    "meta": [
+     "227K",
+     "9y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 227000
+   },
+   {
+    "id": "bmkL2wdRfHI",
+    "title": "The Law Says This Is How To Anchor A Swing Set | THE HANDYMAN |",
+    "meta": [
+     "227K",
+     "7y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 227000
+   },
+   {
+    "id": "ECk0Ezs5OI0",
+    "title": "Harbor Freight Tools For Pros | THE HANDYMAN",
+    "meta": [
+     "224K",
+     "9y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 224000
+   },
+   {
+    "id": "jtawx9Dt46E",
+    "title": "How To Install A Mini Split AC The Right Way | Save $2,000 | THE HANDYMAN |",
+    "meta": [
+     "220K",
+     "4y ago"
+    ],
+    "dur": "23:07",
+    "views_tab": 220000
+   },
+   {
+    "id": "jjXSN9zorfo",
+    "title": "How To Replace Garage Door Rollers And Not Die | THE HANDYMAN |",
+    "meta": [
+     "217K",
+     "6y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 217000
+   },
+   {
+    "id": "Ek0ROYOgQL8",
+    "title": "Welding Work That Pays Good Money | THE HANDYMAN |",
+    "meta": [
+     "212K",
+     "8y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 212000
+   },
+   {
+    "id": "rLZYZpBgwjY",
+    "title": "How to build the nicest fence in the neighborhood.",
+    "meta": [
+     "210K",
+     "10y ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 210000
+   },
+   {
+    "id": "iL4kcBWSvgY",
+    "title": "Affordable Workshop Air Filtration  It Could Save Your Life | THE HANDYMAN |",
+    "meta": [
+     "207K",
+     "8y ago"
+    ],
+    "dur": "13:02",
+    "views_tab": 207000
+   },
+   {
+    "id": "IqRlnWfNrpc",
+    "title": "Ceiling Fans Are Trashy You Must Remove Them Now | THE HANDYMAN |",
+    "meta": [
+     "206K",
+     "8y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 206000
+   },
+   {
+    "id": "P8jn96Pg3v8",
+    "title": "Handyman Makes $500 Installing Toilet Paper Holder For Rich People | THE HANDYMAN |",
+    "meta": [
+     "204K",
+     "6y ago"
+    ],
+    "dur": "12:33",
+    "views_tab": 204000
+   },
+   {
+    "id": "VuoFWtCHMQk",
+    "title": "How To Repair A Burned Hardwood Floor | THE HANDYMAN |",
+    "meta": [
+     "203K",
+     "8y ago"
+    ],
+    "dur": "10:44",
+    "views_tab": 203000
+   },
+   {
+    "id": "ImqcleyYZZk",
+    "title": "How To Install Storm Doors Like A Pro | THE HANDYMAN |",
+    "meta": [
+     "202K",
+     "9y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 202000
+   },
+   {
+    "id": "erN-NddvubE",
+    "title": "How To Repair Damaged Siding | THE HANDYMAN",
+    "meta": [
+     "201K",
+     "7y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 201000
+   },
+   {
+    "id": "9d8NJZBGgCQ",
+    "title": "How To Fix A Plaster Wall | THE HANDYMAN |",
+    "meta": [
+     "199K",
+     "8y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 199000
+   },
+   {
+    "id": "vi8x8fIcH2k",
+    "title": "Craziest Bathroom I Ever Built | Framing The Raised Floor And Plumbing | THE HANDYMAN |",
+    "meta": [
+     "198K",
+     "5y ago"
+    ],
+    "dur": "10:17",
+    "views_tab": 198000
+   },
+   {
+    "id": "bNp9N_UYsIU",
+    "title": "The Fastest Way To Paint A Room | Pro Painter For 20 Years | THE HANDYMAN |",
+    "meta": [
+     "196K",
+     "4y ago"
+    ],
+    "dur": "15:09",
+    "views_tab": 196000
+   },
+   {
+    "id": "42roh4hrMIk",
+    "title": "The Truth About Home Cell Phone Signal Boosters | THE HANDYMAN |",
+    "meta": [
+     "196K",
+     "6y ago"
+    ],
+    "dur": "14:50",
+    "views_tab": 196000
+   },
+   {
+    "id": "bJ-0VUPbLmE",
+    "title": "Handyman Fixes Mystery  Electrical Problems | THE HANDYMAN |",
+    "meta": [
+     "190K",
+     "6y ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 190000
+   },
+   {
+    "id": "QKNjxRBseVo",
+    "title": "Vinyl Plank Flooring Tips and Tricks | THE HANDYMAN |",
+    "meta": [
+     "189K",
+     "7y ago"
+    ],
+    "dur": "12:44",
+    "views_tab": 189000
+   },
+   {
+    "id": "9nomS4uSndQ",
+    "title": "Black Mold Was Growing In Their Walls | Here's Why | THE HANDYMAN |",
+    "meta": [
+     "184K",
+     "7y ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 184000
+   },
+   {
+    "id": "hYdKbgwJGbQ",
+    "title": "They Are Forcing Us To Use These | Heat Pump Or Mini Split Full Install | THE HANDYMAN |",
+    "meta": [
+     "183K",
+     "3y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 183000
+   },
+   {
+    "id": "Vp9QTfH_-LY",
+    "title": "Build Cabinets Like A Pro | THE HANDYMAN |",
+    "meta": [
+     "182K",
+     "7y ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 182000
+   },
+   {
+    "id": "LrW_MpgUH5w",
+    "title": "How To Replace A broken Hose Spigot | The Handyman |",
+    "meta": [
+     "181K",
+     "6y ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 181000
+   },
+   {
+    "id": "Gc5j6JlIRn8",
+    "title": "Extreme Garage Makeover | Home Edition | THE HANDYMAN |",
+    "meta": [
+     "181K",
+     "5y ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 181000
+   },
+   {
+    "id": "hukaV3Mh0C8",
+    "title": "How To Be A Handyman And Not Go To Jail Episode 2 | THE HANDYMAN |",
+    "meta": [
+     "178K",
+     "8y ago"
+    ],
+    "dur": "16:07",
+    "views_tab": 178000
+   },
+   {
+    "id": "M3lzXO9H1zQ",
+    "title": "How To Repair Holes In Your Hardwood Floor | THE HANDYMAN |",
+    "meta": [
+     "177K",
+     "6y ago"
+    ],
+    "dur": "21:02",
+    "views_tab": 177000
+   },
+   {
+    "id": "KztnOksM3Ak",
+    "title": "Orange Peel Texture For Ceilings | THE HANDYMAN |",
+    "meta": [
+     "177K",
+     "4y ago"
+    ],
+    "dur": "9:48",
+    "views_tab": 177000
+   },
+   {
+    "id": "xVYngi5DdC0",
+    "title": "How To Install Tile Over Concrete The Right Way | Part 1 | THE HANDYMAN |",
+    "meta": [
+     "176K",
+     "6y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 176000
+   },
+   {
+    "id": "JKsc4BbfUHs",
+    "title": "How To Restore Damaged Oak Floors | THE HANDYMAN |",
+    "meta": [
+     "175K",
+     "6y ago"
+    ],
+    "dur": "23:30",
+    "views_tab": 175000
+   },
+   {
+    "id": "7cZ5z8UBfQk",
+    "title": "Handyman Makes $250,000 Fixing Toilets | THE HANDYMAN |",
+    "meta": [
+     "174K",
+     "7y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 174000
+   },
+   {
+    "id": "ytKmLJpZCXQ",
+    "title": "Fixing Home Owners $11,000 Mistake | THE HANDYMAN |",
+    "meta": [
+     "174K",
+     "7y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 174000
+   },
+   {
+    "id": "xcn7PqUHYrI",
+    "title": "DIY | HOW TO REMODEL A SMALL BATHROOM | THE HANDYMAN | part 1",
+    "meta": [
+     "173K",
+     "9y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 173000
+   },
+   {
+    "id": "JxAg2amjG34",
+    "title": "How To Install Light Fixtures On High Ceilings | Very Dangerous | THE HANDYMAN |",
+    "meta": [
+     "172K",
+     "7y ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 172000
+   },
+   {
+    "id": "cu_AZsKz7Jk",
+    "title": "Replacing Soffit And Fascia On Huge House # 2| THE HANDYMAN |",
+    "meta": [
+     "171K",
+     "8y ago"
+    ],
+    "dur": "17:33",
+    "views_tab": 171000
+   },
+   {
+    "id": "agm4xGgH0mU",
+    "title": "How To Install LED Recessed Lighting | THE HANDYMAN",
+    "meta": [
+     "170K",
+     "7y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 170000
+   },
+   {
+    "id": "tmxBHJv5s-c",
+    "title": "DIY | HOW TO REPLACE UGLY INTERIOR DOORS | THE HANDYMAN",
+    "meta": [
+     "169K",
+     "9y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 169000
+   },
+   {
+    "id": "w8YWfpHpql8",
+    "title": "How To Be A Handyman Episode 1| THE HANDYMAN |",
+    "meta": [
+     "167K",
+     "8y ago"
+    ],
+    "dur": "10:31",
+    "views_tab": 167000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "hmEMEss1t6g",
+    "title": "Converting a shed into a welding workshop and man cave office Part 1",
+    "meta": [
+     "15K",
+     "11y ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 15000
+   },
+   {
+    "id": "NiwUmGROwDM",
+    "title": "Converting a shed into a welding workshop and man cave office part 2",
+    "meta": [
+     "11K",
+     "11y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 11000
+   },
+   {
+    "id": "xPhKF3bikWY",
+    "title": "Re configuring a built in fire place/entertainment center",
+    "meta": [
+     "10K",
+     "11y ago"
+    ],
+    "dur": "2:54",
+    "views_tab": 10000
+   },
+   {
+    "id": "-Vgk97bDSZU",
+    "title": "Dangers of welding next to acetone!!!  Fire in the workshop.",
+    "meta": [
+     "3.8K",
+     "11y ago"
+    ],
+    "dur": "7:14",
+    "views_tab": 3800
+   },
+   {
+    "id": "ZEeuPWGyHz8",
+    "title": "First time welding with a spool gun SG100 with Lincoln weld pak 140",
+    "meta": [
+     "51K",
+     "11y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 51000
+   },
+   {
+    "id": "XWUMMSZVr6E",
+    "title": "DIY front door install. Home Depot",
+    "meta": [
+     "49K",
+     "11y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 49000
+   },
+   {
+    "id": "4WgSxLatOSM",
+    "title": "How to build an aluminum skateboard | Longboard | Tig Welding",
+    "meta": [
+     "7.1K",
+     "10y ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 7100
+   },
+   {
+    "id": "6Xjox43DpcE",
+    "title": "DIY addition.  How to build a room addition to your home on a budget.",
+    "meta": [
+     "1.9M",
+     "10y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 1900000
+   },
+   {
+    "id": "943XUNd0hKU",
+    "title": "DIY Wood Deck for $150",
+    "meta": [
+     "14K",
+     "10y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 14000
+   },
+   {
+    "id": "Zanlmm84fmk",
+    "title": "Tool trailer setup | Review and walk through | The Handyman",
+    "meta": [
+     "129K",
+     "10y ago"
+    ],
+    "dur": "11:26",
+    "views_tab": 129000
+   },
+   {
+    "id": "WM-dnLzXPMk",
+    "title": "How to fix a brick wall | 100 year old brick wall | The Handyman",
+    "meta": [
+     "137K",
+     "10y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 137000
+   },
+   {
+    "id": "F1RooWpDH9U",
+    "title": "How To Build a Bathroom In Your Basement Start to Finish | THE HANDYMAN |",
+    "meta": [
+     "240K",
+     "10y ago"
+    ],
+    "dur": "13:13",
+    "views_tab": 240000
+   },
+   {
+    "id": "IvgoEj9_gh4",
+    "title": "How to install glass french doors into a curved wall | The Handyman",
+    "meta": [
+     "21K",
+     "10y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 21000
+   },
+   {
+    "id": "R6ATi6fMT6I",
+    "title": "DIY Pintrest Bathroom Makeover with live edge counter top",
+    "meta": [
+     "77K",
+     "10y ago"
+    ],
+    "dur": "12:34",
+    "views_tab": 77000
+   },
+   {
+    "id": "ALRVfulxyp0",
+    "title": "How to fix your broken air compressor | testing my handyman skills | Porter Cable Compressor",
+    "meta": [
+     "5.1K",
+     "10y ago"
+    ],
+    "dur": "5:32",
+    "views_tab": 5100
+   },
+   {
+    "id": "kPwVN1QDgDs",
+    "title": "Carpet to Hardwood stairs | The Handyman |",
+    "meta": [
+     "2.2M",
+     "10y ago"
+    ],
+    "dur": "9:59",
+    "views_tab": 2200000
+   },
+   {
+    "id": "0KlrgdGe7zo",
+    "title": "Tiled shower install gone wrong! Leaking through the ceiling below.",
+    "meta": [
+     "108K",
+     "10y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 108000
+   },
+   {
+    "id": "hYJn3seFb1Q",
+    "title": "How to replace door lock on Dodge Ram 1500  2002-2008",
+    "meta": [
+     "72K",
+     "10y ago"
+    ],
+    "dur": "10:37",
+    "views_tab": 72000
+   },
+   {
+    "id": "_im9xh8gWg8",
+    "title": "How to Demolish a kitchen and a bathroom.",
+    "meta": [
+     "16K",
+     "10y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 16000
+   },
+   {
+    "id": "rLZYZpBgwjY",
+    "title": "How to build the nicest fence in the neighborhood.",
+    "meta": [
+     "210K",
+     "10y ago"
+    ],
+    "dur": "9:33",
+    "views_tab": 210000
+   },
+   {
+    "id": "0_Aitk8nHIU",
+    "title": "HOW TO MAKE $270 PER HOUR AS A HANDYMAN",
+    "meta": [
+     "39K",
+     "10y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 39000
+   },
+   {
+    "id": "xcn7PqUHYrI",
+    "title": "DIY | HOW TO REMODEL A SMALL BATHROOM | THE HANDYMAN | part 1",
+    "meta": [
+     "173K",
+     "9y ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 173000
+   },
+   {
+    "id": "Bu7HSBx7SgE",
+    "title": "DIY | HOW TO REMODEL A SMALL BATHROOM | THE HANDYMAN | PART 2",
+    "meta": [
+     "67K",
+     "9y ago"
+    ],
+    "dur": "8:48",
+    "views_tab": 67000
+   },
+   {
+    "id": "GbRNs1Ujkcs",
+    "title": "DIY | HOW TO REMODEL A SMALL BATHROOM | THE HANDYMAN | PART3 FINISHED",
+    "meta": [
+     "56K",
+     "9y ago"
+    ],
+    "dur": "7:49",
+    "views_tab": 56000
+   },
+   {
+    "id": "IXL4o8elWsQ",
+    "title": "HOW A SWAMP COOLER COOLS YOUR HOUSE | THE HANDYMAN",
+    "meta": [
+     "48K",
+     "9y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 48000
+   },
+   {
+    "id": "tmxBHJv5s-c",
+    "title": "DIY | HOW TO REPLACE UGLY INTERIOR DOORS | THE HANDYMAN",
+    "meta": [
+     "169K",
+     "9y ago"
+    ],
+    "dur": "10:24",
+    "views_tab": 169000
+   },
+   {
+    "id": "JP-4dArI9XE",
+    "title": "DIY | SMALL KITCHEN REMODEL ON A BUDGET PART 1 | THE HANDYMAN",
+    "meta": [
+     "120K",
+     "9y ago"
+    ],
+    "dur": "10:20",
+    "views_tab": 120000
+   },
+   {
+    "id": "KHhsZJMSDb4",
+    "title": "DIY | SMALL KITCHEN REMODEL ON A BUDGET PART 2 | THE HANDYMAN",
+    "meta": [
+     "65K",
+     "9y ago"
+    ],
+    "dur": "9:15",
+    "views_tab": 65000
+   },
+   {
+    "id": "3xFh2AvUEUY",
+    "title": "DIY | SMALL KITCHEN REMODEL ON A BUDGET PART 3 | THE HANDYMAN",
+    "meta": [
+     "51K",
+     "9y ago"
+    ],
+    "dur": "8:14",
+    "views_tab": 51000
+   },
+   {
+    "id": "qqznZlQPBt4",
+    "title": "DIY | HOW TO INSTALL WATER LINE TO REFRIGERATOR | THE HANDYMAN",
+    "meta": [
+     "227K",
+     "9y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 227000
+   },
+   {
+    "id": "kHYdvARjZc8",
+    "title": "Very Loud Microwave Fixed | THE HANDYMAN",
+    "meta": [
+     "45K",
+     "9y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 45000
+   },
+   {
+    "id": "AILAyW__Vh4",
+    "title": "DIY | HOW TO REPLACE A HOT WATER HEATER | THE HANDYMAN",
+    "meta": [
+     "103K",
+     "9y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 103000
+   },
+   {
+    "id": "XP7PVahh2Pc",
+    "title": "DIY | ADDING A 5TH BEDROOM TO A 4 BEDROOM HOUSE | THE HANDYMAN",
+    "meta": [
+     "145K",
+     "9y ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 145000
+   },
+   {
+    "id": "Z4Sk2NL-QAA",
+    "title": "DIY | ADDING A 5TH BEDROOM TO A 4 BEDROOM HOUSE PART 2 | THE HANDYMAN",
+    "meta": [
+     "73K",
+     "9y ago"
+    ],
+    "dur": "9:19",
+    "views_tab": 73000
+   },
+   {
+    "id": "DLQcZUMM9sc",
+    "title": "I'M going to Electrocute MYSELF  | THE HANDYMAN",
+    "meta": [
+     "27K",
+     "9y ago"
+    ],
+    "dur": "8:54",
+    "views_tab": 27000
+   },
+   {
+    "id": "gkh5JISR2M4",
+    "title": "FIXING A \"FIX AND FLIP\" | THE HANDYMAN",
+    "meta": [
+     "133K",
+     "9y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 133000
+   },
+   {
+    "id": "yoqskvoqBKU",
+    "title": "HOW TO REPLACE A HOT WATER HEATER IN 30 MIN | THE HANDYMAN",
+    "meta": [
+     "560K",
+     "9y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 560000
+   },
+   {
+    "id": "Zw_kbn4H4uo",
+    "title": "HOW TO REPAIR ANTIQUE SHOWER FAUCET | THE HANDYMAN",
+    "meta": [
+     "136K",
+     "9y ago"
+    ],
+    "dur": "15:24",
+    "views_tab": 136000
+   },
+   {
+    "id": "jOGDVS0P5vk",
+    "title": "DIY | DANCE FLOOR IN YOUR BASEMENT | THE HANDYMAN",
+    "meta": [
+     "47K",
+     "9y ago"
+    ],
+    "dur": "17:00",
+    "views_tab": 47000
+   },
+   {
+    "id": "LG0wnORqdg0",
+    "title": "Homemade Mudroom Cabinets with bench #1 | THE HANDYMAN",
+    "meta": [
+     "24K",
+     "9y ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 24000
+   },
+   {
+    "id": "IuKMH8hyD58",
+    "title": "How to build cabinets | THE HANDYMAN",
+    "meta": [
+     "50K",
+     "9y ago"
+    ],
+    "dur": "12:08",
+    "views_tab": 50000
+   },
+   {
+    "id": "_r_3FnjCb_U",
+    "title": "Frozen water pipe BURST inside home | THE HANDYMAN",
+    "meta": [
+     "110K",
+     "9y ago"
+    ],
+    "dur": "12:04",
+    "views_tab": 110000
+   },
+   {
+    "id": "VKWchTUZ2Gc",
+    "title": "DIY | SECRET HIDDEN ROOM | THE HANDYMAN",
+    "meta": [
+     "360K",
+     "9y ago"
+    ],
+    "dur": "11:35",
+    "views_tab": 360000
+   },
+   {
+    "id": "NNGiCWFR8LQ",
+    "title": "Steaming Hot Water Out of Your Hose!! | THE HANDYMAN",
+    "meta": [
+     "62K",
+     "9y ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 62000
+   },
+   {
+    "id": "5zkkhb1-xPI",
+    "title": "How To Build A Bathroom #1 | THE HANDYMAN",
+    "meta": [
+     "153K",
+     "9y ago"
+    ],
+    "dur": "10:39",
+    "views_tab": 153000
+   },
+   {
+    "id": "-ko1nlrHilQ",
+    "title": "How To Build A Bathroom #2 | THE HANDYMAN",
+    "meta": [
+     "69K",
+     "9y ago"
+    ],
+    "dur": "10:03",
+    "views_tab": 69000
+   },
+   {
+    "id": "dyZ6p2thy4Q",
+    "title": "How to Build A Bathroom #3 | THE HANDYMAN",
+    "meta": [
+     "50K",
+     "9y ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 50000
+   },
+   {
+    "id": "HkmKn3BKr8o",
+    "title": "When Poo Flows Up Hill | THE HANDYMAN",
+    "meta": [
+     "64K",
+     "9y ago"
+    ],
+    "dur": "9:18",
+    "views_tab": 64000
+   },
+   {
+    "id": "vSv9c5vptcs",
+    "title": "DIY | HOW TO REMOVE POPCORN CEILING | THE HANDYMAN",
+    "meta": [
+     "50K",
+     "9y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 50000
+   },
+   {
+    "id": "fgqn8-d_FKU",
+    "title": "How to Build a Man Shower | THE HANDYMAN",
+    "meta": [
+     "55K",
+     "9y ago"
+    ],
+    "dur": "11:20",
+    "views_tab": 55000
+   },
+   {
+    "id": "Qro6pCyvCiE",
+    "title": "How to Build a Man Shower FINISHED | THE HANDYMAN",
+    "meta": [
+     "80K",
+     "9y ago"
+    ],
+    "dur": "12:17",
+    "views_tab": 80000
+   },
+   {
+    "id": "RA0QGwfiPqc",
+    "title": "Cutting Concrete Pavers With Cheap Tile Saw",
+    "meta": [
+     "45K",
+     "9y ago"
+    ],
+    "dur": "0:33",
+    "views_tab": 45000
+   },
+   {
+    "id": "iQmoOMxJUtA",
+    "title": "How to Refinish Old Hardwood Floors By Yourself | THE HANDYMAN",
+    "meta": [
+     "241K",
+     "9y ago"
+    ],
+    "dur": "11:34",
+    "views_tab": 241000
+   },
+   {
+    "id": "RNEeRAp7JSQ",
+    "title": "Installing a Home Depot Screen Door | THE HANDYMAN",
+    "meta": [
+     "145K",
+     "9y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 145000
+   },
+   {
+    "id": "YLDBy1Sa-Hc",
+    "title": "Building A Fence For Rich People | THE HANDYMAN",
+    "meta": [
+     "297K",
+     "9y ago"
+    ],
+    "dur": "7:11",
+    "views_tab": 297000
+   },
+   {
+    "id": "qqsV8nuwWrI",
+    "title": "How to Install More Electric Outlets In Your Home | THE HANDYMAN",
+    "meta": [
+     "345K",
+     "9y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 345000
+   },
+   {
+    "id": "CcqGsUqrsUA",
+    "title": "How To Clean And Seal A Cedar Pergola | THE HANDYMAN",
+    "meta": [
+     "100K",
+     "9y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 100000
+   },
+   {
+    "id": "b5Tt8skXyUs",
+    "title": "Chandelier Falls out of Ceiling | THE HANDYMAN |",
+    "meta": [
+     "24K",
+     "9y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 24000
+   },
+   {
+    "id": "GQOUl5tOiUM",
+    "title": "How To Replace Motion Sensor On Outdoor Light | THE HANDYMAN |",
+    "meta": [
+     "59K",
+     "9y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 59000
+   },
+   {
+    "id": "XwllC7LLjqo",
+    "title": "How To Build a Long Privacy Fence | THE HANDYMAN |",
+    "meta": [
+     "596K",
+     "9y ago"
+    ],
+    "dur": "14:03",
+    "views_tab": 596000
+   },
+   {
+    "id": "lC-YT0lsetk",
+    "title": "How To Re-Grout Ugly Old Shower | THE HANDYMAN |",
+    "meta": [
+     "56K",
+     "9y ago"
+    ],
+    "dur": "5:57",
+    "views_tab": 56000
+   },
+   {
+    "id": "ImqcleyYZZk",
+    "title": "How To Install Storm Doors Like A Pro | THE HANDYMAN |",
+    "meta": [
+     "202K",
+     "9y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 202000
+   },
+   {
+    "id": "gyPXnxn7RaE",
+    "title": "DIY | Awesome Rolling Work Bench | THE HANDYMAN",
+    "meta": [
+     "20K",
+     "9y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 20000
+   },
+   {
+    "id": "C9kyUH-HH3o",
+    "title": "New Way To Remove Wallpaper | THE HANDYMAN |",
+    "meta": [
+     "26K",
+     "9y ago"
+    ],
+    "dur": "13:21",
+    "views_tab": 26000
+   },
+   {
+    "id": "nxmgGpElsyk",
+    "title": "How to Glue PVC Pipe | THE HANDYMAN |",
+    "meta": [
+     "7.6K",
+     "9y ago"
+    ],
+    "dur": "4:32",
+    "views_tab": 7600
+   },
+   {
+    "id": "cjqweez72EI",
+    "title": "How to Fix A Chain Drive Garage Opener | THE HANDYMAN |",
+    "meta": [
+     "22K",
+     "9y ago"
+    ],
+    "dur": "10:02",
+    "views_tab": 22000
+   },
+   {
+    "id": "6Qy-YEEGeFQ",
+    "title": "How To Repair A Crack In Your Ceiling | THE HANDYMAN |",
+    "meta": [
+     "15K",
+     "9y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 15000
+   },
+   {
+    "id": "kcpXOYJuyXM",
+    "title": "How To Install Home Depot Allure Flooring | THE HANDYMAN",
+    "meta": [
+     "31K",
+     "9y ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 31000
+   },
+   {
+    "id": "GwLUHUG6mxU",
+    "title": "Shop Tour And Workbench Upgrades | THE HANDYMAN",
+    "meta": [
+     "9.4K",
+     "9y ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 9400
+   },
+   {
+    "id": "lmSykSOb2mc",
+    "title": "Small Bathroom Remodel Start To Finish | THE HANDYMAN",
+    "meta": [
+     "1.4M",
+     "9y ago"
+    ],
+    "dur": "12:50",
+    "views_tab": 1400000
+   },
+   {
+    "id": "Ilyxs2BRBMM",
+    "title": "Restoring The Front Of An Old House On A Budget | THE HANDYMAN |",
+    "meta": [
+     "20K",
+     "9y ago"
+    ],
+    "dur": "5:23",
+    "views_tab": 20000
+   },
+   {
+    "id": "IlDx5cBswc8",
+    "title": "Converting Antique Dresser To Bathroom Vanity | THE HANDYMAN |",
+    "meta": [
+     "84K",
+     "9y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 84000
+   },
+   {
+    "id": "9dTxO8JC92c",
+    "title": "$ Handyman Jobs That Pay Good Money $ | THE HANDYMAN |",
+    "meta": [
+     "270K",
+     "9y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 270000
+   },
+   {
+    "id": "G2rPqtKuOSE",
+    "title": "How To Repair a Water Damaged Ceiling | THE HANDYMAN |",
+    "meta": [
+     "411K",
+     "9y ago"
+    ],
+    "dur": "11:13",
+    "views_tab": 411000
+   },
+   {
+    "id": "a4In8g5aLvs",
+    "title": "Fixing A Sagging Gate And Replacing A Fence Post | THE HANDYMAN |",
+    "meta": [
+     "247K",
+     "9y ago"
+    ],
+    "dur": "7:50",
+    "views_tab": 247000
+   },
+   {
+    "id": "oSVv86VO8Q0",
+    "title": "custom skylight",
+    "meta": [
+     "5.2K",
+     "9y ago"
+    ],
+    "dur": "1:11",
+    "views_tab": 5200
+   },
+   {
+    "id": "zKx5-WD09cE",
+    "title": "Handyman Makes $300 Per Hour Installing Toilet Seats And Door Knobs | THE HANDYMAN |",
+    "meta": [
+     "149K",
+     "9y ago"
+    ],
+    "dur": "7:54",
+    "views_tab": 149000
+   },
+   {
+    "id": "WJAa4qEH44s",
+    "title": "Repairing Rotten Fascia On A House | THE HANDYMAN",
+    "meta": [
+     "1M",
+     "9y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 1000000
+   },
+   {
+    "id": "QdDbe2AjsiE",
+    "title": "How To Install Edge Banding On Plywood | THE HANDYMAN",
+    "meta": [
+     "10K",
+     "9y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 10000
+   },
+   {
+    "id": "4RqzQPftHVc",
+    "title": "How To Patch Drywall",
+    "meta": [
+     "29K",
+     "9y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 29000
+   },
+   {
+    "id": "tCEmDUY3svc",
+    "title": "Dangerous Electrical Problem That Can Kill You | THE HANDYMAN |",
+    "meta": [
+     "128K",
+     "9y ago"
+    ],
+    "dur": "12:10",
+    "views_tab": 128000
+   },
+   {
+    "id": "ECk0Ezs5OI0",
+    "title": "Harbor Freight Tools For Pros | THE HANDYMAN",
+    "meta": [
+     "224K",
+     "9y ago"
+    ],
+    "dur": "11:44",
+    "views_tab": 224000
+   },
+   {
+    "id": "_RYWnZa6GMA",
+    "title": "Custom Table Saw Infeed System | THE HANDYMAN |",
+    "meta": [
+     "10K",
+     "9y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 10000
+   },
+   {
+    "id": "SeajZpS0NFg",
+    "title": "How To Build Kitchen Cabinets PT.1 | THE HANDYMAN |",
+    "meta": [
+     "28K",
+     "9y ago"
+    ],
+    "dur": "10:33",
+    "views_tab": 28000
+   },
+   {
+    "id": "O1vEPwBxUUU",
+    "title": "How To Build Kitchen Cabinets PT.2 | THE HANDYMAN |",
+    "meta": [
+     "15K",
+     "9y ago"
+    ],
+    "dur": "5:27",
+    "views_tab": 15000
+   },
+   {
+    "id": "JqZ-6X2AWHQ",
+    "title": "How To Build A Kitchen Pantry PT.3 | THE HANDYMAN |",
+    "meta": [
+     "16K",
+     "9y ago"
+    ],
+    "dur": "15:46",
+    "views_tab": 16000
+   },
+   {
+    "id": "Ry-tmKQHN6c",
+    "title": "How To Build A Kitchen Pantry PT.4 | THE HANDYMAN |",
+    "meta": [
+     "44K",
+     "9y ago"
+    ],
+    "dur": "14:25",
+    "views_tab": 44000
+   },
+   {
+    "id": "xrTl-9zstzI",
+    "title": "Drywall Mud Explained | THE HANDYMAN |",
+    "meta": [
+     "68K",
+     "9y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 68000
+   },
+   {
+    "id": "sIWl0JbtlE4",
+    "title": "Drywall Tape Explained | THE HANDYMAN |",
+    "meta": [
+     "46K",
+     "9y ago"
+    ],
+    "dur": "7:17",
+    "views_tab": 46000
+   },
+   {
+    "id": "rUzTAvc3pQI",
+    "title": "How To Add Electric Circuits To Your Garage | THE HANDYMAN |",
+    "meta": [
+     "42K",
+     "9y ago"
+    ],
+    "dur": "13:50",
+    "views_tab": 42000
+   },
+   {
+    "id": "1SXuM3Z6BmY",
+    "title": "Installing a $500 Door Knocker On a $3000 Door | THE HANDYMAN |",
+    "meta": [
+     "45K",
+     "9y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 45000
+   },
+   {
+    "id": "M4SzrhFfbbU",
+    "title": "How To Hang A Wall Of Mirrors | THE HANDYMAN |",
+    "meta": [
+     "251K",
+     "9y ago"
+    ],
+    "dur": "6:29",
+    "views_tab": 251000
+   },
+   {
+    "id": "TyxLEus4P-E",
+    "title": "Affordable HVLP Paint Sprayer That Actually Works | THE HANDYMAN |",
+    "meta": [
+     "657K",
+     "8y ago"
+    ],
+    "dur": "12:14",
+    "views_tab": 657000
+   },
+   {
+    "id": "cXXA18nl2QI",
+    "title": "How I Get Handyman Jobs",
+    "meta": [
+     "455K",
+     "8y ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 455000
+   },
+   {
+    "id": "CHaa3Eq9-eA",
+    "title": "How To Replace A Bathroom Vanity | The Handyman |",
+    "meta": [
+     "418K",
+     "8y ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 418000
+   },
+   {
+    "id": "0gUtZW34ZnQ",
+    "title": "Stanley Fat Max Tool Vest Review | THE HANDYMAN |",
+    "meta": [
+     "68K",
+     "8y ago"
+    ],
+    "dur": "8:35",
+    "views_tab": 68000
+   },
+   {
+    "id": "9d8NJZBGgCQ",
+    "title": "How To Fix A Plaster Wall | THE HANDYMAN |",
+    "meta": [
+     "199K",
+     "8y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 199000
+   },
+   {
+    "id": "GMZCpI99qa4",
+    "title": "Handyman Makes $150K A Year | THE HANDYMAN |",
+    "meta": [
+     "61K",
+     "8y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 61000
+   },
+   {
+    "id": "CpG5T4RJt2s",
+    "title": "How To Install an Over The Range Microwave | THE HANDYMAN |",
+    "meta": [
+     "42K",
+     "8y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 42000
+   },
+   {
+    "id": "Ek0ROYOgQL8",
+    "title": "Welding Work That Pays Good Money | THE HANDYMAN |",
+    "meta": [
+     "212K",
+     "8y ago"
+    ],
+    "dur": "10:04",
+    "views_tab": 212000
+   },
+   {
+    "id": "lK73e0ONNWI",
+    "title": "How To Spray Lacquer The Easy Way | THE HANDYMAN |",
+    "meta": [
+     "88K",
+     "8y ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 88000
+   },
+   {
+    "id": "kofPGsmARxE",
+    "title": "How To Heat Your Garage Workshop 1 | THE HANDYMAN |",
+    "meta": [
+     "83K",
+     "8y ago"
+    ],
+    "dur": "13:09",
+    "views_tab": 83000
+   },
+   {
+    "id": "epGu7NBrkeQ",
+    "title": "How To Heat Your Garage Workshop 2 | THE HANDYMAN |",
+    "meta": [
+     "19K",
+     "8y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 19000
+   },
+   {
+    "id": "q6L4Hd8EEYI",
+    "title": "Tool Vest VS. Tool Belt | THE HANDYMAN |",
+    "meta": [
+     "54K",
+     "8y ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 54000
+   },
+   {
+    "id": "8m6lMztqBCE",
+    "title": "Replacing Soffit And Fascia On Huge House | THE HANDYMAN |",
+    "meta": [
+     "381K",
+     "8y ago"
+    ],
+    "dur": "16:23",
+    "views_tab": 381000
+   },
+   {
+    "id": "e5d4ljC3oiM",
+    "title": "Question And Answer With THE HANDYMAN",
+    "meta": [
+     "16K",
+     "8y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 16000
+   },
+   {
+    "id": "cu_AZsKz7Jk",
+    "title": "Replacing Soffit And Fascia On Huge House # 2| THE HANDYMAN |",
+    "meta": [
+     "171K",
+     "8y ago"
+    ],
+    "dur": "17:33",
+    "views_tab": 171000
+   },
+   {
+    "id": "8TWKpoT0Cjw",
+    "title": "Indoor Outdoor Dog Kennel With Camera | THE Handyman |",
+    "meta": [
+     "79K",
+     "8y ago"
+    ],
+    "dur": "13:53",
+    "views_tab": 79000
+   },
+   {
+    "id": "IiH6LhyySmQ",
+    "title": "Replacing Soffit And Fascia On Huge House # 3 | THE HANDYMAN |",
+    "meta": [
+     "122K",
+     "8y ago"
+    ],
+    "dur": "22:33",
+    "views_tab": 122000
+   },
+   {
+    "id": "le0gmN2XgU4",
+    "title": "How To Heat Your Garage With a Wood Stove | THE HANDYMAN",
+    "meta": [
+     "82K",
+     "8y ago"
+    ],
+    "dur": "15:02",
+    "views_tab": 82000
+   },
+   {
+    "id": "TY7BvIaa5ak",
+    "title": "Handyman To The Rich And Famous | THE HANDYMAN",
+    "meta": [
+     "23K",
+     "8y ago"
+    ],
+    "dur": "11:22",
+    "views_tab": 23000
+   },
+   {
+    "id": "xYigeX3hJLE",
+    "title": "How To Install A Weather Proof Outlet On A Brick House | THE HANDYMAN",
+    "meta": [
+     "105K",
+     "8y ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 105000
+   },
+   {
+    "id": "1LWDb5zEZAw",
+    "title": "Home Improvement Without Any Tools | THE HANDYMAN",
+    "meta": [
+     "11K",
+     "8y ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 11000
+   },
+   {
+    "id": "d4Pbot_hesk",
+    "title": "Here Is My Wood | Etsy Gas Pipe Shelves | THE HANDYMAN |",
+    "meta": [
+     "8.1K",
+     "8y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 8100
+   },
+   {
+    "id": "Ccher5dhQGA",
+    "title": "How To Clean Your HVLP Finsh Max Extra | THE HANDYMAN |",
+    "meta": [
+     "19K",
+     "8y ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 19000
+   },
+   {
+    "id": "9TKSNqnvstc",
+    "title": "New Years Eve Emergency Service Call | THE HANDYMAN |",
+    "meta": [
+     "32K",
+     "8y ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 32000
+   },
+   {
+    "id": "yhNH5s0RfiU",
+    "title": "How To Install A Door Knob And Deadbolt | THE HANDYMAN |",
+    "meta": [
+     "54K",
+     "8y ago"
+    ],
+    "dur": "10:17",
+    "views_tab": 54000
+   },
+   {
+    "id": "fWo4zcx51Xg",
+    "title": "How To Make A Weathered Wood Bed 1 | THE HANDYMAN |",
+    "meta": [
+     "12K",
+     "8y ago"
+    ],
+    "dur": "16:44",
+    "views_tab": 12000
+   },
+   {
+    "id": "zybtDUAnIP4",
+    "title": "How to Make A Weathered Wood Bed 2 | THE HANDYMAN |",
+    "meta": [
+     "10K",
+     "8y ago"
+    ],
+    "dur": "15:41",
+    "views_tab": 10000
+   },
+   {
+    "id": "nFDXePedPyU",
+    "title": "How To Make A Weathered Wood Bed 3 | THE HANDYMAN",
+    "meta": [
+     "11K",
+     "8y ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 11000
+   }
+  ]
+ }
+}

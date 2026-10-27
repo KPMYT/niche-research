@@ -1,0 +1,1675 @@
+{
+ "key": "UC0dZcV01OIUkGURb9ot4iOw",
+ "channel": "ServiceTechSonny",
+ "id": "UC0dZcV01OIUkGURb9ot4iOw",
+ "subs": "3.82K subscribers",
+ "videos": "108 videos",
+ "pulled": "2026-10-26T06:47:44.464901+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 2,
+  "Popular": 2,
+  "Oldest": 2
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "XcSVBeq47gE",
+    "title": "Late Night On-Call | Low Voltage Troubleshooting \ud83e\uddd0\ud83e\udef1\ud83c\udffd\u200d\ud83e\udef2\ud83c\udffe",
+    "meta": [
+     "512",
+     "13d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 512
+   },
+   {
+    "id": "KNn9D68bPsU",
+    "title": "A Service call out of this World - Whole House Fan Down | #ServiceTechSonny #HVAC ",
+    "meta": [
+     "197",
+     "1mo ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 197
+   },
+   {
+    "id": "xebTg5nd8mM",
+    "title": "When a Plumbing Leak finds the HVAC System \ud83d\udca7\ud83d\ude33\ud83d\ude37\ud83d\udc49\ud83c\udffd",
+    "meta": [
+     "291",
+     "1mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 291
+   },
+   {
+    "id": "rsag4NkPpDA",
+    "title": "\ud83d\udd25Bosch Inverter Board Replacement | Burnt board | Tech Support & Tool Bag Review",
+    "meta": [
+     "737",
+     "3mo ago"
+    ],
+    "dur": "41:37",
+    "views_tab": 737
+   },
+   {
+    "id": "zdqPNCdVvKE",
+    "title": "Second Opinion Call | Following the basics pays off | #HVAC ",
+    "meta": [
+     "348",
+     "4mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 348
+   },
+   {
+    "id": "qs4GT62LD4Y",
+    "title": "No Heat - Old Flame Sensor Tricks + Goodman 90% Fix | Full Diagnostic #HVAC ",
+    "meta": [
+     "1.1K",
+     "7mo ago"
+    ],
+    "dur": "28:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "BED3pymPsAE",
+    "title": "This Mini-Split Had No Tech Support\u2026 So I Used ChatGPT",
+    "meta": [
+     "1.4K",
+     "8mo ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "jOoPZNn0hqg",
+    "title": "Champion 90% Furnace No Heat | Complete Diagnostic",
+    "meta": [
+     "1.8K",
+     "9mo ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 1800
+   },
+   {
+    "id": "Hx7ouiFBcj8",
+    "title": "Lennox RTU Service Call | No Heat Troubleshooting From Start to Finish #hvac",
+    "meta": [
+     "2.4K",
+     "10mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 2400
+   },
+   {
+    "id": "1xDgRKSxg48",
+    "title": "Troubleshooting No-Airflow: Failed ECM + Major Heat Exchanger Damage #HVAC",
+    "meta": [
+     "582",
+     "10mo ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 582
+   },
+   {
+    "id": "cN0l2-a5Qm4",
+    "title": "No Heat on a Lennox - Is it the board, the blower or both? #HVAC ",
+    "meta": [
+     "7.8K",
+     "11mo ago"
+    ],
+    "dur": "32:55",
+    "views_tab": 7800
+   },
+   {
+    "id": "-F4VaTo0G1E",
+    "title": "No Heat Service Call - Trane gas pack problems #HVAC ",
+    "meta": [
+     "2.6K",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 2600
+   },
+   {
+    "id": "b1Ujd776CPo",
+    "title": "No Heat Service Call Full Diagnostic and Repair - #HVAC ",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "28:55",
+    "views_tab": 42000
+   },
+   {
+    "id": "LsdIOJMzM78",
+    "title": "Replacing Carrier Package Unit Evap Coil on Roof #HVAC ",
+    "meta": [
+     "705",
+     "1y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 705
+   },
+   {
+    "id": "-OKYqA1eK7g",
+    "title": "Retrofitting Reciprocating Compressor with new Copeland Scroll using R407C #HVAC ",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "42:16",
+    "views_tab": 4500
+   },
+   {
+    "id": "WZXl_mSAEQU",
+    "title": "Rescue Select Pro Universal X-13 Motor Replacement on Lennox System ",
+    "meta": [
+     "991",
+     "1y ago"
+    ],
+    "dur": "7:28",
+    "views_tab": 991
+   },
+   {
+    "id": "qFqtV2K0g6k",
+    "title": "Repairing leak on Aluminum Lineset | Lennox System Part 3 ",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "50:46",
+    "views_tab": 1800
+   },
+   {
+    "id": "xxXpghQ99iI",
+    "title": "Locating leak on Lennox System Part 2 | 3 Methods to finding a refrigerant leak #HVAC",
+    "meta": [
+     "531",
+     "1y ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 531
+   },
+   {
+    "id": "WsyLCq2lmbM",
+    "title": "Full Diagnostic Testing and Repair on X-13 Blower Motor #HVAC",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 1600
+   },
+   {
+    "id": "hoFtw6oso1A",
+    "title": "No AC Service Call - Lennox System Part 1 |  #HVAC",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "SlaBsnW3E74",
+    "title": "Walkthrough TXV Replacement  | Comprehensive Start to Finish Repair with Testing",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "46:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "pkzNMFh7iBA",
+    "title": "Fieldpiece JobLink Report Tutorial - Recording live data in real time",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1400
+   },
+   {
+    "id": "90E-f04ivKo",
+    "title": "Down flow Evaporator Coil change out - Retrofitting inside closet #HVAC",
+    "meta": [
+     "2.9K",
+     "1y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 2900
+   },
+   {
+    "id": "46Yk2RMHWTc",
+    "title": "No AC Service Call - Full Diagnostic - Tests and Tips! #HVAC",
+    "meta": [
+     "54K",
+     "1y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 54000
+   },
+   {
+    "id": "zgJLwCefJ_k",
+    "title": "Quick Diagnostic on faulty furnace pressure switch - Another way to skin a cat. #hvac #heat #service",
+    "meta": [
+     "853",
+     "1y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 853
+   },
+   {
+    "id": "CK2IoskdNdA",
+    "title": "No Heat - Mitsubishi Ducted AirHandler not keeping up. Finding and fixing a leak",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "18:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "VqZHzIy20lw",
+    "title": "Gas Package unit Evaporator Coil replacement start to finish",
+    "meta": [
+     "3.8K",
+     "1y ago"
+    ],
+    "dur": "38:43",
+    "views_tab": 3800
+   },
+   {
+    "id": "X4qHkFkwdUY",
+    "title": "No Heat - Full Diagnostic on 2 Stage Gas Valve",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "17:26",
+    "views_tab": 11000
+   },
+   {
+    "id": "dfmmjVN-7Aw",
+    "title": "No Heat service call - Gas Furnace nearly catches fire! Full Diagnostic",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 11000
+   },
+   {
+    "id": "F7MVD2ubYvU",
+    "title": "Evaporator Coil retrofit - Start to finish installation inside garage",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 3900
+   }
+  ],
+  "Latest": [
+   {
+    "id": "XcSVBeq47gE",
+    "title": "Late Night On-Call | Low Voltage Troubleshooting \ud83e\uddd0\ud83e\udef1\ud83c\udffd\u200d\ud83e\udef2\ud83c\udffe",
+    "meta": [
+     "512",
+     "13d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 512
+   },
+   {
+    "id": "KNn9D68bPsU",
+    "title": "A Service call out of this World - Whole House Fan Down | #ServiceTechSonny #HVAC ",
+    "meta": [
+     "197",
+     "1mo ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 197
+   },
+   {
+    "id": "xebTg5nd8mM",
+    "title": "When a Plumbing Leak finds the HVAC System \ud83d\udca7\ud83d\ude33\ud83d\ude37\ud83d\udc49\ud83c\udffd",
+    "meta": [
+     "291",
+     "1mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 291
+   },
+   {
+    "id": "rsag4NkPpDA",
+    "title": "\ud83d\udd25Bosch Inverter Board Replacement | Burnt board | Tech Support & Tool Bag Review",
+    "meta": [
+     "737",
+     "3mo ago"
+    ],
+    "dur": "41:37",
+    "views_tab": 737
+   },
+   {
+    "id": "zdqPNCdVvKE",
+    "title": "Second Opinion Call | Following the basics pays off | #HVAC ",
+    "meta": [
+     "348",
+     "4mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 348
+   },
+   {
+    "id": "qs4GT62LD4Y",
+    "title": "No Heat - Old Flame Sensor Tricks + Goodman 90% Fix | Full Diagnostic #HVAC ",
+    "meta": [
+     "1.1K",
+     "7mo ago"
+    ],
+    "dur": "28:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "BED3pymPsAE",
+    "title": "This Mini-Split Had No Tech Support\u2026 So I Used ChatGPT",
+    "meta": [
+     "1.4K",
+     "8mo ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "jOoPZNn0hqg",
+    "title": "Champion 90% Furnace No Heat | Complete Diagnostic",
+    "meta": [
+     "1.8K",
+     "9mo ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 1800
+   },
+   {
+    "id": "Hx7ouiFBcj8",
+    "title": "Lennox RTU Service Call | No Heat Troubleshooting From Start to Finish #hvac",
+    "meta": [
+     "2.4K",
+     "10mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 2400
+   },
+   {
+    "id": "1xDgRKSxg48",
+    "title": "Troubleshooting No-Airflow: Failed ECM + Major Heat Exchanger Damage #HVAC",
+    "meta": [
+     "582",
+     "10mo ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 582
+   },
+   {
+    "id": "cN0l2-a5Qm4",
+    "title": "No Heat on a Lennox - Is it the board, the blower or both? #HVAC ",
+    "meta": [
+     "7.8K",
+     "11mo ago"
+    ],
+    "dur": "32:55",
+    "views_tab": 7800
+   },
+   {
+    "id": "-F4VaTo0G1E",
+    "title": "No Heat Service Call - Trane gas pack problems #HVAC ",
+    "meta": [
+     "2.6K",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 2600
+   },
+   {
+    "id": "b1Ujd776CPo",
+    "title": "No Heat Service Call Full Diagnostic and Repair - #HVAC ",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "28:55",
+    "views_tab": 42000
+   },
+   {
+    "id": "LsdIOJMzM78",
+    "title": "Replacing Carrier Package Unit Evap Coil on Roof #HVAC ",
+    "meta": [
+     "705",
+     "1y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 705
+   },
+   {
+    "id": "-OKYqA1eK7g",
+    "title": "Retrofitting Reciprocating Compressor with new Copeland Scroll using R407C #HVAC ",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "42:16",
+    "views_tab": 4500
+   },
+   {
+    "id": "WZXl_mSAEQU",
+    "title": "Rescue Select Pro Universal X-13 Motor Replacement on Lennox System ",
+    "meta": [
+     "991",
+     "1y ago"
+    ],
+    "dur": "7:28",
+    "views_tab": 991
+   },
+   {
+    "id": "qFqtV2K0g6k",
+    "title": "Repairing leak on Aluminum Lineset | Lennox System Part 3 ",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "50:46",
+    "views_tab": 1800
+   },
+   {
+    "id": "xxXpghQ99iI",
+    "title": "Locating leak on Lennox System Part 2 | 3 Methods to finding a refrigerant leak #HVAC",
+    "meta": [
+     "531",
+     "1y ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 531
+   },
+   {
+    "id": "WsyLCq2lmbM",
+    "title": "Full Diagnostic Testing and Repair on X-13 Blower Motor #HVAC",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 1600
+   },
+   {
+    "id": "hoFtw6oso1A",
+    "title": "No AC Service Call - Lennox System Part 1 |  #HVAC",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "SlaBsnW3E74",
+    "title": "Walkthrough TXV Replacement  | Comprehensive Start to Finish Repair with Testing",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "46:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "pkzNMFh7iBA",
+    "title": "Fieldpiece JobLink Report Tutorial - Recording live data in real time",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1400
+   },
+   {
+    "id": "90E-f04ivKo",
+    "title": "Down flow Evaporator Coil change out - Retrofitting inside closet #HVAC",
+    "meta": [
+     "2.9K",
+     "1y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 2900
+   },
+   {
+    "id": "46Yk2RMHWTc",
+    "title": "No AC Service Call - Full Diagnostic - Tests and Tips! #HVAC",
+    "meta": [
+     "54K",
+     "1y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 54000
+   },
+   {
+    "id": "zgJLwCefJ_k",
+    "title": "Quick Diagnostic on faulty furnace pressure switch - Another way to skin a cat. #hvac #heat #service",
+    "meta": [
+     "853",
+     "1y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 853
+   },
+   {
+    "id": "CK2IoskdNdA",
+    "title": "No Heat - Mitsubishi Ducted AirHandler not keeping up. Finding and fixing a leak",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "18:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "VqZHzIy20lw",
+    "title": "Gas Package unit Evaporator Coil replacement start to finish",
+    "meta": [
+     "3.8K",
+     "1y ago"
+    ],
+    "dur": "38:43",
+    "views_tab": 3800
+   },
+   {
+    "id": "X4qHkFkwdUY",
+    "title": "No Heat - Full Diagnostic on 2 Stage Gas Valve",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "17:26",
+    "views_tab": 11000
+   },
+   {
+    "id": "dfmmjVN-7Aw",
+    "title": "No Heat service call - Gas Furnace nearly catches fire! Full Diagnostic",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 11000
+   },
+   {
+    "id": "F7MVD2ubYvU",
+    "title": "Evaporator Coil retrofit - Start to finish installation inside garage",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 3900
+   },
+   {
+    "id": "omOt7yPHiVQ",
+    "title": "Carrier Inverter Service Call - New install with major issues!",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "8:58",
+    "views_tab": 1700
+   },
+   {
+    "id": "PQaO0iE5tcE",
+    "title": "Inducer Motor running during cooling mode!! - Troubleshooting Gas package unit circuits",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 3200
+   },
+   {
+    "id": "7PgiVLg5KvQ",
+    "title": "Compressor and TXV replacement - unit less than 10 years old\u2026 this was preventable! #hvac",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "36:24",
+    "views_tab": 2400
+   },
+   {
+    "id": "bnYlpa4wMuo",
+    "title": "Condenser Fan Motor Replacement - Quick tricks for a nice smooth repair..",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1800
+   },
+   {
+    "id": "8bFb80WVm8U",
+    "title": "Contactors burnin up! - Add this to your Transformers",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 1600
+   },
+   {
+    "id": "bLlxpnLKA08",
+    "title": "Evap Coil change out Start to Finish - Aluminum ADP Coil leaks at 2 years in - #HVAC",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "31:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "2Ezlko0-kfA",
+    "title": "Aqua Chill - Residential water cooled condensing unit.. What could go wrong?!?",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 1700
+   },
+   {
+    "id": "tCmNsk6kBOs",
+    "title": "Bryant Package Unit INFESTED!! Something was living in here..",
+    "meta": [
+     "835",
+     "2y ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 835
+   },
+   {
+    "id": "deX3L3Sdukk",
+    "title": "New Heat Exchanger Installed \ud83d\udd25Teardown and Rebuild \ud83d\udd25 Last one of the season!",
+    "meta": [
+     "441",
+     "2y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 441
+   },
+   {
+    "id": "upsGGOn79x8",
+    "title": "Heat Exchanger Replacement - Huge Crack Trips Rollout Switch - Owners Saved!",
+    "meta": [
+     "713",
+     "2y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 713
+   },
+   {
+    "id": "SXs0P2LJzLw",
+    "title": "Propane Kit installed on Natural Gas Furnace! #hvac #hvactraining #heat #trane #repair",
+    "meta": [
+     "959",
+     "2y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 959
+   },
+   {
+    "id": "HdKqmFe2gDI",
+    "title": "Honeywell HZ322 Zone Board Installation - Replacing single stage controls with 2 stage",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 23000
+   },
+   {
+    "id": "zaWbtVb7RLU",
+    "title": "Hardstart Kit blew up!!! Duel Fuel Trane package unit",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 1200
+   },
+   {
+    "id": "v6K6ezXBMAU",
+    "title": "Mitsubishi City Multi Rebuild Due to catastrophic failure!",
+    "meta": [
+     "442",
+     "2y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 442
+   },
+   {
+    "id": "MkTFcr8fVoQ",
+    "title": "ComfortAire mini split by MARS - Failed compressor discharge temp sensor! I MADE A MISTAKE",
+    "meta": [
+     "988",
+     "2y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 988
+   }
+  ],
+  "Popular": [
+   {
+    "id": "46Yk2RMHWTc",
+    "title": "No AC Service Call - Full Diagnostic - Tests and Tips! #HVAC",
+    "meta": [
+     "54K",
+     "1y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 54000
+   },
+   {
+    "id": "b1Ujd776CPo",
+    "title": "No Heat Service Call Full Diagnostic and Repair - #HVAC ",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "28:55",
+    "views_tab": 42000
+   },
+   {
+    "id": "HdKqmFe2gDI",
+    "title": "Honeywell HZ322 Zone Board Installation - Replacing single stage controls with 2 stage",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 23000
+   },
+   {
+    "id": "SlaBsnW3E74",
+    "title": "Walkthrough TXV Replacement  | Comprehensive Start to Finish Repair with Testing",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "46:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "dfmmjVN-7Aw",
+    "title": "No Heat service call - Gas Furnace nearly catches fire! Full Diagnostic",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 11000
+   },
+   {
+    "id": "X4qHkFkwdUY",
+    "title": "No Heat - Full Diagnostic on 2 Stage Gas Valve",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "17:26",
+    "views_tab": 11000
+   },
+   {
+    "id": "cN0l2-a5Qm4",
+    "title": "No Heat on a Lennox - Is it the board, the blower or both? #HVAC ",
+    "meta": [
+     "7.8K",
+     "11mo ago"
+    ],
+    "dur": "32:55",
+    "views_tab": 7800
+   },
+   {
+    "id": "-OKYqA1eK7g",
+    "title": "Retrofitting Reciprocating Compressor with new Copeland Scroll using R407C #HVAC ",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "42:16",
+    "views_tab": 4500
+   },
+   {
+    "id": "F7MVD2ubYvU",
+    "title": "Evaporator Coil retrofit - Start to finish installation inside garage",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 3900
+   },
+   {
+    "id": "VqZHzIy20lw",
+    "title": "Gas Package unit Evaporator Coil replacement start to finish",
+    "meta": [
+     "3.8K",
+     "1y ago"
+    ],
+    "dur": "38:43",
+    "views_tab": 3800
+   },
+   {
+    "id": "PQaO0iE5tcE",
+    "title": "Inducer Motor running during cooling mode!! - Troubleshooting Gas package unit circuits",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 3200
+   },
+   {
+    "id": "90E-f04ivKo",
+    "title": "Down flow Evaporator Coil change out - Retrofitting inside closet #HVAC",
+    "meta": [
+     "2.9K",
+     "1y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 2900
+   },
+   {
+    "id": "-F4VaTo0G1E",
+    "title": "No Heat Service Call - Trane gas pack problems #HVAC ",
+    "meta": [
+     "2.6K",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 2600
+   },
+   {
+    "id": "Hx7ouiFBcj8",
+    "title": "Lennox RTU Service Call | No Heat Troubleshooting From Start to Finish #hvac",
+    "meta": [
+     "2.4K",
+     "10mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 2400
+   },
+   {
+    "id": "7PgiVLg5KvQ",
+    "title": "Compressor and TXV replacement - unit less than 10 years old\u2026 this was preventable! #hvac",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "36:24",
+    "views_tab": 2400
+   },
+   {
+    "id": "qFqtV2K0g6k",
+    "title": "Repairing leak on Aluminum Lineset | Lennox System Part 3 ",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "50:46",
+    "views_tab": 1800
+   },
+   {
+    "id": "bnYlpa4wMuo",
+    "title": "Condenser Fan Motor Replacement - Quick tricks for a nice smooth repair..",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1800
+   },
+   {
+    "id": "jOoPZNn0hqg",
+    "title": "Champion 90% Furnace No Heat | Complete Diagnostic",
+    "meta": [
+     "1.8K",
+     "9mo ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 1800
+   },
+   {
+    "id": "omOt7yPHiVQ",
+    "title": "Carrier Inverter Service Call - New install with major issues!",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "8:58",
+    "views_tab": 1700
+   },
+   {
+    "id": "2Ezlko0-kfA",
+    "title": "Aqua Chill - Residential water cooled condensing unit.. What could go wrong?!?",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 1700
+   },
+   {
+    "id": "WsyLCq2lmbM",
+    "title": "Full Diagnostic Testing and Repair on X-13 Blower Motor #HVAC",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 1600
+   },
+   {
+    "id": "8bFb80WVm8U",
+    "title": "Contactors burnin up! - Add this to your Transformers",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 1600
+   },
+   {
+    "id": "BED3pymPsAE",
+    "title": "This Mini-Split Had No Tech Support\u2026 So I Used ChatGPT",
+    "meta": [
+     "1.4K",
+     "8mo ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "pkzNMFh7iBA",
+    "title": "Fieldpiece JobLink Report Tutorial - Recording live data in real time",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1400
+   },
+   {
+    "id": "zaWbtVb7RLU",
+    "title": "Hardstart Kit blew up!!! Duel Fuel Trane package unit",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 1200
+   },
+   {
+    "id": "bLlxpnLKA08",
+    "title": "Evap Coil change out Start to Finish - Aluminum ADP Coil leaks at 2 years in - #HVAC",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "31:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "qs4GT62LD4Y",
+    "title": "No Heat - Old Flame Sensor Tricks + Goodman 90% Fix | Full Diagnostic #HVAC ",
+    "meta": [
+     "1.1K",
+     "7mo ago"
+    ],
+    "dur": "28:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "CK2IoskdNdA",
+    "title": "No Heat - Mitsubishi Ducted AirHandler not keeping up. Finding and fixing a leak",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "18:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "hoFtw6oso1A",
+    "title": "No AC Service Call - Lennox System Part 1 |  #HVAC",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "WZXl_mSAEQU",
+    "title": "Rescue Select Pro Universal X-13 Motor Replacement on Lennox System ",
+    "meta": [
+     "991",
+     "1y ago"
+    ],
+    "dur": "7:28",
+    "views_tab": 991
+   },
+   {
+    "id": "MkTFcr8fVoQ",
+    "title": "ComfortAire mini split by MARS - Failed compressor discharge temp sensor! I MADE A MISTAKE",
+    "meta": [
+     "988",
+     "2y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 988
+   },
+   {
+    "id": "SXs0P2LJzLw",
+    "title": "Propane Kit installed on Natural Gas Furnace! #hvac #hvactraining #heat #trane #repair",
+    "meta": [
+     "959",
+     "2y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 959
+   },
+   {
+    "id": "zgJLwCefJ_k",
+    "title": "Quick Diagnostic on faulty furnace pressure switch - Another way to skin a cat. #hvac #heat #service",
+    "meta": [
+     "853",
+     "1y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 853
+   },
+   {
+    "id": "tCmNsk6kBOs",
+    "title": "Bryant Package Unit INFESTED!! Something was living in here..",
+    "meta": [
+     "835",
+     "2y ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 835
+   },
+   {
+    "id": "rsag4NkPpDA",
+    "title": "\ud83d\udd25Bosch Inverter Board Replacement | Burnt board | Tech Support & Tool Bag Review",
+    "meta": [
+     "737",
+     "3mo ago"
+    ],
+    "dur": "41:37",
+    "views_tab": 737
+   },
+   {
+    "id": "upsGGOn79x8",
+    "title": "Heat Exchanger Replacement - Huge Crack Trips Rollout Switch - Owners Saved!",
+    "meta": [
+     "713",
+     "2y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 713
+   },
+   {
+    "id": "LsdIOJMzM78",
+    "title": "Replacing Carrier Package Unit Evap Coil on Roof #HVAC ",
+    "meta": [
+     "705",
+     "1y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 705
+   },
+   {
+    "id": "1xDgRKSxg48",
+    "title": "Troubleshooting No-Airflow: Failed ECM + Major Heat Exchanger Damage #HVAC",
+    "meta": [
+     "582",
+     "10mo ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 582
+   },
+   {
+    "id": "xxXpghQ99iI",
+    "title": "Locating leak on Lennox System Part 2 | 3 Methods to finding a refrigerant leak #HVAC",
+    "meta": [
+     "531",
+     "1y ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 531
+   },
+   {
+    "id": "XcSVBeq47gE",
+    "title": "Late Night On-Call | Low Voltage Troubleshooting \ud83e\uddd0\ud83e\udef1\ud83c\udffd\u200d\ud83e\udef2\ud83c\udffe",
+    "meta": [
+     "512",
+     "13d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 512
+   },
+   {
+    "id": "v6K6ezXBMAU",
+    "title": "Mitsubishi City Multi Rebuild Due to catastrophic failure!",
+    "meta": [
+     "442",
+     "2y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 442
+   },
+   {
+    "id": "deX3L3Sdukk",
+    "title": "New Heat Exchanger Installed \ud83d\udd25Teardown and Rebuild \ud83d\udd25 Last one of the season!",
+    "meta": [
+     "441",
+     "2y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 441
+   },
+   {
+    "id": "zdqPNCdVvKE",
+    "title": "Second Opinion Call | Following the basics pays off | #HVAC ",
+    "meta": [
+     "348",
+     "4mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 348
+   },
+   {
+    "id": "xebTg5nd8mM",
+    "title": "When a Plumbing Leak finds the HVAC System \ud83d\udca7\ud83d\ude33\ud83d\ude37\ud83d\udc49\ud83c\udffd",
+    "meta": [
+     "291",
+     "1mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 291
+   },
+   {
+    "id": "KNn9D68bPsU",
+    "title": "A Service call out of this World - Whole House Fan Down | #ServiceTechSonny #HVAC ",
+    "meta": [
+     "197",
+     "1mo ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 197
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "MkTFcr8fVoQ",
+    "title": "ComfortAire mini split by MARS - Failed compressor discharge temp sensor! I MADE A MISTAKE",
+    "meta": [
+     "988",
+     "2y ago"
+    ],
+    "dur": "3:37",
+    "views_tab": 988
+   },
+   {
+    "id": "v6K6ezXBMAU",
+    "title": "Mitsubishi City Multi Rebuild Due to catastrophic failure!",
+    "meta": [
+     "442",
+     "2y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 442
+   },
+   {
+    "id": "zaWbtVb7RLU",
+    "title": "Hardstart Kit blew up!!! Duel Fuel Trane package unit",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "6:12",
+    "views_tab": 1200
+   },
+   {
+    "id": "HdKqmFe2gDI",
+    "title": "Honeywell HZ322 Zone Board Installation - Replacing single stage controls with 2 stage",
+    "meta": [
+     "23K",
+     "2y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 23000
+   },
+   {
+    "id": "SXs0P2LJzLw",
+    "title": "Propane Kit installed on Natural Gas Furnace! #hvac #hvactraining #heat #trane #repair",
+    "meta": [
+     "959",
+     "2y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 959
+   },
+   {
+    "id": "upsGGOn79x8",
+    "title": "Heat Exchanger Replacement - Huge Crack Trips Rollout Switch - Owners Saved!",
+    "meta": [
+     "713",
+     "2y ago"
+    ],
+    "dur": "12:26",
+    "views_tab": 713
+   },
+   {
+    "id": "deX3L3Sdukk",
+    "title": "New Heat Exchanger Installed \ud83d\udd25Teardown and Rebuild \ud83d\udd25 Last one of the season!",
+    "meta": [
+     "441",
+     "2y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 441
+   },
+   {
+    "id": "tCmNsk6kBOs",
+    "title": "Bryant Package Unit INFESTED!! Something was living in here..",
+    "meta": [
+     "835",
+     "2y ago"
+    ],
+    "dur": "17:21",
+    "views_tab": 835
+   },
+   {
+    "id": "2Ezlko0-kfA",
+    "title": "Aqua Chill - Residential water cooled condensing unit.. What could go wrong?!?",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "10:22",
+    "views_tab": 1700
+   },
+   {
+    "id": "bLlxpnLKA08",
+    "title": "Evap Coil change out Start to Finish - Aluminum ADP Coil leaks at 2 years in - #HVAC",
+    "meta": [
+     "1.2K",
+     "2y ago"
+    ],
+    "dur": "31:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "8bFb80WVm8U",
+    "title": "Contactors burnin up! - Add this to your Transformers",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "3:02",
+    "views_tab": 1600
+   },
+   {
+    "id": "bnYlpa4wMuo",
+    "title": "Condenser Fan Motor Replacement - Quick tricks for a nice smooth repair..",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1800
+   },
+   {
+    "id": "7PgiVLg5KvQ",
+    "title": "Compressor and TXV replacement - unit less than 10 years old\u2026 this was preventable! #hvac",
+    "meta": [
+     "2.4K",
+     "2y ago"
+    ],
+    "dur": "36:24",
+    "views_tab": 2400
+   },
+   {
+    "id": "PQaO0iE5tcE",
+    "title": "Inducer Motor running during cooling mode!! - Troubleshooting Gas package unit circuits",
+    "meta": [
+     "3.2K",
+     "2y ago"
+    ],
+    "dur": "15:32",
+    "views_tab": 3200
+   },
+   {
+    "id": "omOt7yPHiVQ",
+    "title": "Carrier Inverter Service Call - New install with major issues!",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "8:58",
+    "views_tab": 1700
+   },
+   {
+    "id": "F7MVD2ubYvU",
+    "title": "Evaporator Coil retrofit - Start to finish installation inside garage",
+    "meta": [
+     "3.9K",
+     "2y ago"
+    ],
+    "dur": "22:45",
+    "views_tab": 3900
+   },
+   {
+    "id": "dfmmjVN-7Aw",
+    "title": "No Heat service call - Gas Furnace nearly catches fire! Full Diagnostic",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "11:04",
+    "views_tab": 11000
+   },
+   {
+    "id": "X4qHkFkwdUY",
+    "title": "No Heat - Full Diagnostic on 2 Stage Gas Valve",
+    "meta": [
+     "11K",
+     "1y ago"
+    ],
+    "dur": "17:26",
+    "views_tab": 11000
+   },
+   {
+    "id": "VqZHzIy20lw",
+    "title": "Gas Package unit Evaporator Coil replacement start to finish",
+    "meta": [
+     "3.8K",
+     "1y ago"
+    ],
+    "dur": "38:43",
+    "views_tab": 3800
+   },
+   {
+    "id": "CK2IoskdNdA",
+    "title": "No Heat - Mitsubishi Ducted AirHandler not keeping up. Finding and fixing a leak",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "18:29",
+    "views_tab": 1000
+   },
+   {
+    "id": "zgJLwCefJ_k",
+    "title": "Quick Diagnostic on faulty furnace pressure switch - Another way to skin a cat. #hvac #heat #service",
+    "meta": [
+     "853",
+     "1y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 853
+   },
+   {
+    "id": "46Yk2RMHWTc",
+    "title": "No AC Service Call - Full Diagnostic - Tests and Tips! #HVAC",
+    "meta": [
+     "54K",
+     "1y ago"
+    ],
+    "dur": "15:11",
+    "views_tab": 54000
+   },
+   {
+    "id": "90E-f04ivKo",
+    "title": "Down flow Evaporator Coil change out - Retrofitting inside closet #HVAC",
+    "meta": [
+     "2.9K",
+     "1y ago"
+    ],
+    "dur": "12:32",
+    "views_tab": 2900
+   },
+   {
+    "id": "pkzNMFh7iBA",
+    "title": "Fieldpiece JobLink Report Tutorial - Recording live data in real time",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "21:10",
+    "views_tab": 1400
+   },
+   {
+    "id": "SlaBsnW3E74",
+    "title": "Walkthrough TXV Replacement  | Comprehensive Start to Finish Repair with Testing",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "46:41",
+    "views_tab": 12000
+   },
+   {
+    "id": "hoFtw6oso1A",
+    "title": "No AC Service Call - Lennox System Part 1 |  #HVAC",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "17:27",
+    "views_tab": 1000
+   },
+   {
+    "id": "WsyLCq2lmbM",
+    "title": "Full Diagnostic Testing and Repair on X-13 Blower Motor #HVAC",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 1600
+   },
+   {
+    "id": "xxXpghQ99iI",
+    "title": "Locating leak on Lennox System Part 2 | 3 Methods to finding a refrigerant leak #HVAC",
+    "meta": [
+     "531",
+     "1y ago"
+    ],
+    "dur": "18:33",
+    "views_tab": 531
+   },
+   {
+    "id": "qFqtV2K0g6k",
+    "title": "Repairing leak on Aluminum Lineset | Lennox System Part 3 ",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "50:46",
+    "views_tab": 1800
+   },
+   {
+    "id": "WZXl_mSAEQU",
+    "title": "Rescue Select Pro Universal X-13 Motor Replacement on Lennox System ",
+    "meta": [
+     "991",
+     "1y ago"
+    ],
+    "dur": "7:28",
+    "views_tab": 991
+   },
+   {
+    "id": "-OKYqA1eK7g",
+    "title": "Retrofitting Reciprocating Compressor with new Copeland Scroll using R407C #HVAC ",
+    "meta": [
+     "4.5K",
+     "1y ago"
+    ],
+    "dur": "42:16",
+    "views_tab": 4500
+   },
+   {
+    "id": "LsdIOJMzM78",
+    "title": "Replacing Carrier Package Unit Evap Coil on Roof #HVAC ",
+    "meta": [
+     "705",
+     "1y ago"
+    ],
+    "dur": "10:34",
+    "views_tab": 705
+   },
+   {
+    "id": "b1Ujd776CPo",
+    "title": "No Heat Service Call Full Diagnostic and Repair - #HVAC ",
+    "meta": [
+     "42K",
+     "1y ago"
+    ],
+    "dur": "28:55",
+    "views_tab": 42000
+   },
+   {
+    "id": "-F4VaTo0G1E",
+    "title": "No Heat Service Call - Trane gas pack problems #HVAC ",
+    "meta": [
+     "2.6K",
+     "11mo ago"
+    ],
+    "dur": "22:05",
+    "views_tab": 2600
+   },
+   {
+    "id": "cN0l2-a5Qm4",
+    "title": "No Heat on a Lennox - Is it the board, the blower or both? #HVAC ",
+    "meta": [
+     "7.8K",
+     "11mo ago"
+    ],
+    "dur": "32:55",
+    "views_tab": 7800
+   },
+   {
+    "id": "1xDgRKSxg48",
+    "title": "Troubleshooting No-Airflow: Failed ECM + Major Heat Exchanger Damage #HVAC",
+    "meta": [
+     "582",
+     "10mo ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 582
+   },
+   {
+    "id": "Hx7ouiFBcj8",
+    "title": "Lennox RTU Service Call | No Heat Troubleshooting From Start to Finish #hvac",
+    "meta": [
+     "2.4K",
+     "10mo ago"
+    ],
+    "dur": "16:53",
+    "views_tab": 2400
+   },
+   {
+    "id": "jOoPZNn0hqg",
+    "title": "Champion 90% Furnace No Heat | Complete Diagnostic",
+    "meta": [
+     "1.8K",
+     "9mo ago"
+    ],
+    "dur": "17:35",
+    "views_tab": 1800
+   },
+   {
+    "id": "BED3pymPsAE",
+    "title": "This Mini-Split Had No Tech Support\u2026 So I Used ChatGPT",
+    "meta": [
+     "1.4K",
+     "8mo ago"
+    ],
+    "dur": "18:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "qs4GT62LD4Y",
+    "title": "No Heat - Old Flame Sensor Tricks + Goodman 90% Fix | Full Diagnostic #HVAC ",
+    "meta": [
+     "1.1K",
+     "7mo ago"
+    ],
+    "dur": "28:44",
+    "views_tab": 1100
+   },
+   {
+    "id": "zdqPNCdVvKE",
+    "title": "Second Opinion Call | Following the basics pays off | #HVAC ",
+    "meta": [
+     "348",
+     "4mo ago"
+    ],
+    "dur": "17:49",
+    "views_tab": 348
+   },
+   {
+    "id": "rsag4NkPpDA",
+    "title": "\ud83d\udd25Bosch Inverter Board Replacement | Burnt board | Tech Support & Tool Bag Review",
+    "meta": [
+     "737",
+     "3mo ago"
+    ],
+    "dur": "41:37",
+    "views_tab": 737
+   },
+   {
+    "id": "xebTg5nd8mM",
+    "title": "When a Plumbing Leak finds the HVAC System \ud83d\udca7\ud83d\ude33\ud83d\ude37\ud83d\udc49\ud83c\udffd",
+    "meta": [
+     "291",
+     "1mo ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 291
+   },
+   {
+    "id": "KNn9D68bPsU",
+    "title": "A Service call out of this World - Whole House Fan Down | #ServiceTechSonny #HVAC ",
+    "meta": [
+     "197",
+     "1mo ago"
+    ],
+    "dur": "11:30",
+    "views_tab": 197
+   },
+   {
+    "id": "XcSVBeq47gE",
+    "title": "Late Night On-Call | Low Voltage Troubleshooting \ud83e\uddd0\ud83e\udef1\ud83c\udffd\u200d\ud83e\udef2\ud83c\udffe",
+    "meta": [
+     "512",
+     "13d ago"
+    ],
+    "dur": "17:31",
+    "views_tab": 512
+   }
+  ]
+ }
+}

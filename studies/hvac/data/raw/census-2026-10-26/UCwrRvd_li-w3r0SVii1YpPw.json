@@ -1,0 +1,465 @@
+{
+ "key": "UCwrRvd_li-w3r0SVii1YpPw",
+ "channel": "Mick's Air Con",
+ "id": "UCwrRvd_li-w3r0SVii1YpPw",
+ "subs": "44 subscribers",
+ "videos": "11 videos",
+ "pulled": "2026-10-26T07:08:31.451614+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "Q0SKjfF8OWI",
+    "title": "Before You Turn On Your Air Con This Summer, Do These 7 Things",
+    "meta": [
+     "423",
+     "1mo ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 423
+   },
+   {
+    "id": "tBuc6KDjcGM",
+    "title": "Split System vs Ducted Air Conditioning \u2014 What a Technician Would Install",
+    "meta": [
+     "3.8K",
+     "2mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 3800
+   },
+   {
+    "id": "_Q9ysUaI7oM",
+    "title": "Never Clean Your Split System Like This \u2014 You Could Ruin It",
+    "meta": [
+     "7.1K",
+     "2mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 7100
+   },
+   {
+    "id": "G7K7KAMKKZw",
+    "title": "8 Signs Your Air Conditioner Won\u2019t Survive the First Hot Week",
+    "meta": [
+     "194",
+     "2mo ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 194
+   },
+   {
+    "id": "M9PIYo8s5jI",
+    "title": "The $20 Part Behind Some of the Most Expensive Air Con Callouts",
+    "meta": [
+     "339",
+     "2mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 339
+   },
+   {
+    "id": "M8BKNrumqVA",
+    "title": "Why Your Home Still Feels Cold With the Heater Running",
+    "meta": [
+     "102",
+     "2mo ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 102
+   },
+   {
+    "id": "9nJVfp8-cMU",
+    "title": "The Best Temperature for Reverse Cycle Heating \u2014 Most Homes Get It Wrong",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 182
+   },
+   {
+    "id": "C4Wvd5hSeXY",
+    "title": "5 Air Con Mistakes Technicians Hope You Keep Making",
+    "meta": [
+     "89",
+     "2mo ago"
+    ],
+    "dur": "19:49",
+    "views_tab": 89
+   },
+   {
+    "id": "lI4Ufz-aAPw",
+    "title": "Why Your Heater Blows Cold Air \u2014 The Simple Cause Most People Miss",
+    "meta": [
+     "180",
+     "2mo ago"
+    ],
+    "dur": "15:53",
+    "views_tab": 180
+   },
+   {
+    "id": "9ihvc-u8fco",
+    "title": "7 Reverse Cycle Mistakes Sending Your Power Bill Through the Roof",
+    "meta": [
+     "175",
+     "2mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 175
+   },
+   {
+    "id": "SzK3AAu6X2E",
+    "title": "Walking in the Philippine Countryside",
+    "meta": [
+     "42",
+     "10mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 42
+   }
+  ],
+  "Latest": [
+   {
+    "id": "Q0SKjfF8OWI",
+    "title": "Before You Turn On Your Air Con This Summer, Do These 7 Things",
+    "meta": [
+     "423",
+     "1mo ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 423
+   },
+   {
+    "id": "tBuc6KDjcGM",
+    "title": "Split System vs Ducted Air Conditioning \u2014 What a Technician Would Install",
+    "meta": [
+     "3.8K",
+     "2mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 3800
+   },
+   {
+    "id": "_Q9ysUaI7oM",
+    "title": "Never Clean Your Split System Like This \u2014 You Could Ruin It",
+    "meta": [
+     "7.1K",
+     "2mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 7100
+   },
+   {
+    "id": "G7K7KAMKKZw",
+    "title": "8 Signs Your Air Conditioner Won\u2019t Survive the First Hot Week",
+    "meta": [
+     "194",
+     "2mo ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 194
+   },
+   {
+    "id": "M9PIYo8s5jI",
+    "title": "The $20 Part Behind Some of the Most Expensive Air Con Callouts",
+    "meta": [
+     "339",
+     "2mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 339
+   },
+   {
+    "id": "M8BKNrumqVA",
+    "title": "Why Your Home Still Feels Cold With the Heater Running",
+    "meta": [
+     "103",
+     "2mo ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 103
+   },
+   {
+    "id": "9nJVfp8-cMU",
+    "title": "The Best Temperature for Reverse Cycle Heating \u2014 Most Homes Get It Wrong",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 182
+   },
+   {
+    "id": "C4Wvd5hSeXY",
+    "title": "5 Air Con Mistakes Technicians Hope You Keep Making",
+    "meta": [
+     "89",
+     "2mo ago"
+    ],
+    "dur": "19:49",
+    "views_tab": 89
+   },
+   {
+    "id": "lI4Ufz-aAPw",
+    "title": "Why Your Heater Blows Cold Air \u2014 The Simple Cause Most People Miss",
+    "meta": [
+     "180",
+     "2mo ago"
+    ],
+    "dur": "15:53",
+    "views_tab": 180
+   },
+   {
+    "id": "9ihvc-u8fco",
+    "title": "7 Reverse Cycle Mistakes Sending Your Power Bill Through the Roof",
+    "meta": [
+     "175",
+     "2mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 175
+   },
+   {
+    "id": "SzK3AAu6X2E",
+    "title": "Walking in the Philippine Countryside",
+    "meta": [
+     "42",
+     "10mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 42
+   }
+  ],
+  "Popular": [
+   {
+    "id": "_Q9ysUaI7oM",
+    "title": "Never Clean Your Split System Like This \u2014 You Could Ruin It",
+    "meta": [
+     "7.1K",
+     "2mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 7100
+   },
+   {
+    "id": "tBuc6KDjcGM",
+    "title": "Split System vs Ducted Air Conditioning \u2014 What a Technician Would Install",
+    "meta": [
+     "3.8K",
+     "2mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 3800
+   },
+   {
+    "id": "Q0SKjfF8OWI",
+    "title": "Before You Turn On Your Air Con This Summer, Do These 7 Things",
+    "meta": [
+     "423",
+     "1mo ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 423
+   },
+   {
+    "id": "M9PIYo8s5jI",
+    "title": "The $20 Part Behind Some of the Most Expensive Air Con Callouts",
+    "meta": [
+     "339",
+     "2mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 339
+   },
+   {
+    "id": "G7K7KAMKKZw",
+    "title": "8 Signs Your Air Conditioner Won\u2019t Survive the First Hot Week",
+    "meta": [
+     "194",
+     "2mo ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 194
+   },
+   {
+    "id": "9nJVfp8-cMU",
+    "title": "The Best Temperature for Reverse Cycle Heating \u2014 Most Homes Get It Wrong",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 182
+   },
+   {
+    "id": "lI4Ufz-aAPw",
+    "title": "Why Your Heater Blows Cold Air \u2014 The Simple Cause Most People Miss",
+    "meta": [
+     "180",
+     "2mo ago"
+    ],
+    "dur": "15:53",
+    "views_tab": 180
+   },
+   {
+    "id": "9ihvc-u8fco",
+    "title": "7 Reverse Cycle Mistakes Sending Your Power Bill Through the Roof",
+    "meta": [
+     "175",
+     "2mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 175
+   },
+   {
+    "id": "M8BKNrumqVA",
+    "title": "Why Your Home Still Feels Cold With the Heater Running",
+    "meta": [
+     "103",
+     "2mo ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 103
+   },
+   {
+    "id": "C4Wvd5hSeXY",
+    "title": "5 Air Con Mistakes Technicians Hope You Keep Making",
+    "meta": [
+     "89",
+     "2mo ago"
+    ],
+    "dur": "19:49",
+    "views_tab": 89
+   },
+   {
+    "id": "SzK3AAu6X2E",
+    "title": "Walking in the Philippine Countryside",
+    "meta": [
+     "42",
+     "10mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 42
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "SzK3AAu6X2E",
+    "title": "Walking in the Philippine Countryside",
+    "meta": [
+     "42",
+     "10mo ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 42
+   },
+   {
+    "id": "9ihvc-u8fco",
+    "title": "7 Reverse Cycle Mistakes Sending Your Power Bill Through the Roof",
+    "meta": [
+     "175",
+     "2mo ago"
+    ],
+    "dur": "19:07",
+    "views_tab": 175
+   },
+   {
+    "id": "lI4Ufz-aAPw",
+    "title": "Why Your Heater Blows Cold Air \u2014 The Simple Cause Most People Miss",
+    "meta": [
+     "180",
+     "2mo ago"
+    ],
+    "dur": "15:53",
+    "views_tab": 180
+   },
+   {
+    "id": "C4Wvd5hSeXY",
+    "title": "5 Air Con Mistakes Technicians Hope You Keep Making",
+    "meta": [
+     "89",
+     "2mo ago"
+    ],
+    "dur": "19:49",
+    "views_tab": 89
+   },
+   {
+    "id": "9nJVfp8-cMU",
+    "title": "The Best Temperature for Reverse Cycle Heating \u2014 Most Homes Get It Wrong",
+    "meta": [
+     "182",
+     "2mo ago"
+    ],
+    "dur": "15:07",
+    "views_tab": 182
+   },
+   {
+    "id": "M8BKNrumqVA",
+    "title": "Why Your Home Still Feels Cold With the Heater Running",
+    "meta": [
+     "103",
+     "2mo ago"
+    ],
+    "dur": "15:14",
+    "views_tab": 103
+   },
+   {
+    "id": "M9PIYo8s5jI",
+    "title": "The $20 Part Behind Some of the Most Expensive Air Con Callouts",
+    "meta": [
+     "339",
+     "2mo ago"
+    ],
+    "dur": "15:29",
+    "views_tab": 339
+   },
+   {
+    "id": "G7K7KAMKKZw",
+    "title": "8 Signs Your Air Conditioner Won\u2019t Survive the First Hot Week",
+    "meta": [
+     "194",
+     "2mo ago"
+    ],
+    "dur": "15:26",
+    "views_tab": 194
+   },
+   {
+    "id": "_Q9ysUaI7oM",
+    "title": "Never Clean Your Split System Like This \u2014 You Could Ruin It",
+    "meta": [
+     "7.1K",
+     "2mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 7100
+   },
+   {
+    "id": "tBuc6KDjcGM",
+    "title": "Split System vs Ducted Air Conditioning \u2014 What a Technician Would Install",
+    "meta": [
+     "3.8K",
+     "2mo ago"
+    ],
+    "dur": "15:10",
+    "views_tab": 3800
+   },
+   {
+    "id": "Q0SKjfF8OWI",
+    "title": "Before You Turn On Your Air Con This Summer, Do These 7 Things",
+    "meta": [
+     "423",
+     "1mo ago"
+    ],
+    "dur": "15:40",
+    "views_tab": 423
+   }
+  ]
+ }
+}

@@ -1,0 +1,3925 @@
+{
+ "key": "UCDD5Nf06Rw4aHGoHPi__yIw",
+ "channel": "eMotors Direct",
+ "id": "UCDD5Nf06Rw4aHGoHPi__yIw",
+ "subs": "16K subscribers",
+ "videos": "221 videos",
+ "pulled": "2026-10-26T06:52:51.777290+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "2rmarZBOf4c",
+    "title": "Constant Torque vs. Variable Torque: What You Need to Know for VFD Selection",
+    "meta": [
+     "2.7K",
+     "1y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 2700
+   },
+   {
+    "id": "TUBiSAbkZdI",
+    "title": "What Is Electric Motor Frame Size? | NEMA Frame Letters Explained | 145T vs 143T Comparison",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 4200
+   },
+   {
+    "id": "11udLU1UR54",
+    "title": "Can Bad Motor Mounts Cause Vibration? | 7 Causes of Electric Motor Vibration Explained",
+    "meta": [
+     "3.9K",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 3900
+   },
+   {
+    "id": "IRND1v7OZl4",
+    "title": "Soft Starter vs VFD: Which Motor Controller Is Right for You",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "FfHfm_6k5iA",
+    "title": "How to Wire a 3-Phase Motor (230V & 460V) | Step-by-Step",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 22000
+   },
+   {
+    "id": "3KQrz6ZzRJ0",
+    "title": "Electric Motor Repair vs. Replacement: Which Option Saves You More?",
+    "meta": [
+     "170K",
+     "1y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 170000
+   },
+   {
+    "id": "49saNHp-yfE",
+    "title": "Canada\u2019s Go-To Source for VFDs | Fast, Expert Support at eMotors Direct",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 58000
+   },
+   {
+    "id": "_dDfmsQDwBQ",
+    "title": "How to Find a Motor Replacement \u2013 Step-by-Step Guide Using Nameplate or Catalogue Number",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 202000
+   },
+   {
+    "id": "0xjOFZqEHtg",
+    "title": "WEG W01 Motors: General-Purpose Electric Motor for Commercial Use",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 5000
+   },
+   {
+    "id": "RjYl27F0dno",
+    "title": "How to Return or Exchange a Motor at eMotors Direct | Step-by-Step Warranty & Returns Guide",
+    "meta": [
+     "162",
+     "1y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 162
+   },
+   {
+    "id": "rZqU7KdCjwk",
+    "title": "Motor Flange & C-Face Modifications | Avoid Downtime with Custom Solution (How-To Motor Mods Part 1)",
+    "meta": [
+     "951",
+     "1y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 951
+   },
+   {
+    "id": "HQLXTrsu1qU",
+    "title": "Thermistors, RTDs & Motor Thermostats Explained | Prevent Overheating & Downtime (Motor Mods Part 2)",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 3700
+   },
+   {
+    "id": "qEbZ2aTt6bI",
+    "title": "Stop Bearing Failure Before It Starts | Shaft Current Protection for VFD Motors (Motor Mods Part 4)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 1000
+   },
+   {
+    "id": "08A2y_0Y8Uo",
+    "title": "Eura Drive E600 VFD Quick Start Guide | Setup, Parameter Configuration | Sensorless Vector Control",
+    "meta": [
+     "731",
+     "1y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 731
+   },
+   {
+    "id": "78_g_YIfnpY",
+    "title": "Eura Drives E2100 VFD Quick Start Guide | Setup, Parameter Configuration & Motor Control",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 1900
+   },
+   {
+    "id": "Ni-oliC8RGc",
+    "title": "EP66 VFD Quick Start Guide | Eura Drives Setup for Harsh Environments | NEMA 4X, IP66, Washdown VFD",
+    "meta": [
+     "385",
+     "1y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 385
+   },
+   {
+    "id": "517ioiQbxUc",
+    "title": "Eura Drives EM30 VFD Setup Guide | NEMA 4X, Washdown & Torque Compensation",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 1100
+   },
+   {
+    "id": "47Kie-hlXqM",
+    "title": "Can You Mount an Electric Motor Vertically? 4 Critical Modifications to Know (Motor Mod Part 6)",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 2100
+   },
+   {
+    "id": "eBGzkd4RoFg",
+    "title": "Motor Shaft Modifications Explained | Custom Shafts, Stub Shafts & Encoders (Motor Mods Part 5)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 1000
+   },
+   {
+    "id": "TQ2wEKLxLjc",
+    "title": "What's the Difference Between Roller Bearings & Ball Bearings? (Motor Mods Part 3)",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 3200
+   },
+   {
+    "id": "9Fz3I6gLUok",
+    "title": "WEG CFW500 VFD | Available at eMotors Direct",
+    "meta": [
+     "562",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 562
+   },
+   {
+    "id": "YORC5VBWy2Y",
+    "title": "WEG W22 Severe Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 1700
+   },
+   {
+    "id": "0Qh6A_zM3i4",
+    "title": "WEG Severe-Duty Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "570",
+     "1y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 570
+   },
+   {
+    "id": "ZxcIRiPJvRI",
+    "title": "Browning Helical Gearing | Inline Gear Reducer Sizing in Minutes (Step by Step Guide)",
+    "meta": [
+     "34K",
+     "1y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 34000
+   },
+   {
+    "id": "g07g4w-N9IE",
+    "title": "How Does a Magnetic Motor Starter Work | WEG PESW Overview",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 6100
+   },
+   {
+    "id": "M8BouUpunp8",
+    "title": "AC Motor Speed Control Made Easy with KB Electronics VFDs | eMotors Direct",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 1900
+   },
+   {
+    "id": "oro9HoCuB48",
+    "title": "KB Electronics DC Motor Speed Control | Available at eMotors Direct",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 1000
+   },
+   {
+    "id": "urJwaMLNTr4",
+    "title": "Baldor Explosion Proof Motors | Class 1 Division 1 Hazardous Location Motors",
+    "meta": [
+     "23K",
+     "1y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 23000
+   },
+   {
+    "id": "-tR1KFI_mJM",
+    "title": "Brook Crompton Farm Duty Motors | Reliable Solutions for Farmers",
+    "meta": [
+     "594",
+     "1y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 594
+   },
+   {
+    "id": "uxp-oo6HZc4",
+    "title": "Brook Crompton Aftermarket HVAC Motors | OEM Replacement Motors for Furnaces and Air Conditioners",
+    "meta": [
+     "355",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 355
+   }
+  ],
+  "Latest": [
+   {
+    "id": "2rmarZBOf4c",
+    "title": "Constant Torque vs. Variable Torque: What You Need to Know for VFD Selection",
+    "meta": [
+     "2.7K",
+     "1y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 2700
+   },
+   {
+    "id": "TUBiSAbkZdI",
+    "title": "What Is Electric Motor Frame Size? | NEMA Frame Letters Explained | 145T vs 143T Comparison",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 4200
+   },
+   {
+    "id": "11udLU1UR54",
+    "title": "Can Bad Motor Mounts Cause Vibration? | 7 Causes of Electric Motor Vibration Explained",
+    "meta": [
+     "3.9K",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 3900
+   },
+   {
+    "id": "IRND1v7OZl4",
+    "title": "Soft Starter vs VFD: Which Motor Controller Is Right for You",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "FfHfm_6k5iA",
+    "title": "How to Wire a 3-Phase Motor (230V & 460V) | Step-by-Step",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 22000
+   },
+   {
+    "id": "3KQrz6ZzRJ0",
+    "title": "Electric Motor Repair vs. Replacement: Which Option Saves You More?",
+    "meta": [
+     "170K",
+     "1y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 170000
+   },
+   {
+    "id": "49saNHp-yfE",
+    "title": "Canada\u2019s Go-To Source for VFDs | Fast, Expert Support at eMotors Direct",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 58000
+   },
+   {
+    "id": "_dDfmsQDwBQ",
+    "title": "How to Find a Motor Replacement \u2013 Step-by-Step Guide Using Nameplate or Catalogue Number",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 202000
+   },
+   {
+    "id": "0xjOFZqEHtg",
+    "title": "WEG W01 Motors: General-Purpose Electric Motor for Commercial Use",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 5000
+   },
+   {
+    "id": "RjYl27F0dno",
+    "title": "How to Return or Exchange a Motor at eMotors Direct | Step-by-Step Warranty & Returns Guide",
+    "meta": [
+     "162",
+     "1y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 162
+   },
+   {
+    "id": "rZqU7KdCjwk",
+    "title": "Motor Flange & C-Face Modifications | Avoid Downtime with Custom Solution (How-To Motor Mods Part 1)",
+    "meta": [
+     "951",
+     "1y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 951
+   },
+   {
+    "id": "HQLXTrsu1qU",
+    "title": "Thermistors, RTDs & Motor Thermostats Explained | Prevent Overheating & Downtime (Motor Mods Part 2)",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 3700
+   },
+   {
+    "id": "qEbZ2aTt6bI",
+    "title": "Stop Bearing Failure Before It Starts | Shaft Current Protection for VFD Motors (Motor Mods Part 4)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 1000
+   },
+   {
+    "id": "08A2y_0Y8Uo",
+    "title": "Eura Drive E600 VFD Quick Start Guide | Setup, Parameter Configuration | Sensorless Vector Control",
+    "meta": [
+     "731",
+     "1y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 731
+   },
+   {
+    "id": "78_g_YIfnpY",
+    "title": "Eura Drives E2100 VFD Quick Start Guide | Setup, Parameter Configuration & Motor Control",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 1900
+   },
+   {
+    "id": "Ni-oliC8RGc",
+    "title": "EP66 VFD Quick Start Guide | Eura Drives Setup for Harsh Environments | NEMA 4X, IP66, Washdown VFD",
+    "meta": [
+     "385",
+     "1y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 385
+   },
+   {
+    "id": "517ioiQbxUc",
+    "title": "Eura Drives EM30 VFD Setup Guide | NEMA 4X, Washdown & Torque Compensation",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 1100
+   },
+   {
+    "id": "47Kie-hlXqM",
+    "title": "Can You Mount an Electric Motor Vertically? 4 Critical Modifications to Know (Motor Mod Part 6)",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 2100
+   },
+   {
+    "id": "eBGzkd4RoFg",
+    "title": "Motor Shaft Modifications Explained | Custom Shafts, Stub Shafts & Encoders (Motor Mods Part 5)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 1000
+   },
+   {
+    "id": "TQ2wEKLxLjc",
+    "title": "What's the Difference Between Roller Bearings & Ball Bearings? (Motor Mods Part 3)",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 3200
+   },
+   {
+    "id": "9Fz3I6gLUok",
+    "title": "WEG CFW500 VFD | Available at eMotors Direct",
+    "meta": [
+     "562",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 562
+   },
+   {
+    "id": "YORC5VBWy2Y",
+    "title": "WEG W22 Severe Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 1700
+   },
+   {
+    "id": "0Qh6A_zM3i4",
+    "title": "WEG Severe-Duty Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "570",
+     "1y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 570
+   },
+   {
+    "id": "ZxcIRiPJvRI",
+    "title": "Browning Helical Gearing | Inline Gear Reducer Sizing in Minutes (Step by Step Guide)",
+    "meta": [
+     "34K",
+     "1y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 34000
+   },
+   {
+    "id": "g07g4w-N9IE",
+    "title": "How Does a Magnetic Motor Starter Work | WEG PESW Overview",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 6100
+   },
+   {
+    "id": "M8BouUpunp8",
+    "title": "AC Motor Speed Control Made Easy with KB Electronics VFDs | eMotors Direct",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 1900
+   },
+   {
+    "id": "oro9HoCuB48",
+    "title": "KB Electronics DC Motor Speed Control | Available at eMotors Direct",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 1000
+   },
+   {
+    "id": "urJwaMLNTr4",
+    "title": "Baldor Explosion Proof Motors | Class 1 Division 1 Hazardous Location Motors",
+    "meta": [
+     "23K",
+     "1y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 23000
+   },
+   {
+    "id": "-tR1KFI_mJM",
+    "title": "Brook Crompton Farm Duty Motors | Reliable Solutions for Farmers",
+    "meta": [
+     "594",
+     "1y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 594
+   },
+   {
+    "id": "uxp-oo6HZc4",
+    "title": "Brook Crompton Aftermarket HVAC Motors | OEM Replacement Motors for Furnaces and Air Conditioners",
+    "meta": [
+     "355",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 355
+   },
+   {
+    "id": "dbsAzNQANt0",
+    "title": "Baldor Washdown Motors | Stainless Steel Electric Motors",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 6100
+   },
+   {
+    "id": "kuDIAVrvo5w",
+    "title": "Baldor Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 15000
+   },
+   {
+    "id": "K_93ZSuNeYE",
+    "title": "Baldor IEEE 841 Motors | Available at eMotors Direct",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 19000
+   },
+   {
+    "id": "-TXzPNEclSY",
+    "title": "Baldor Farm Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "8K",
+     "1y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 8000
+   },
+   {
+    "id": "8Wm42Hn9n5Q",
+    "title": "Brook Crompton General Purpose Motors | Available at eMotors Direct",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 8600
+   },
+   {
+    "id": "NgrpYYsMXRg",
+    "title": "Resolve VFD Fault Codes | Step By Step Troubleshooting",
+    "meta": [
+     "38K",
+     "2y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 38000
+   },
+   {
+    "id": "fC21cX294uY",
+    "title": "A510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "5.5K",
+     "2y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 5500
+   },
+   {
+    "id": "_JIKdhRbcVM",
+    "title": "F510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "5K",
+     "2y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 5000
+   },
+   {
+    "id": "5pNKS5wZejU",
+    "title": "E510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 9000
+   },
+   {
+    "id": "tunsTLq-mQQ",
+    "title": "Happy International Puppy Day from eMotors Direct!",
+    "meta": [
+     "107",
+     "2y ago"
+    ],
+    "dur": "0:12",
+    "views_tab": 107
+   },
+   {
+    "id": "Kfju4Rq4HpI",
+    "title": "Electric Motor Capacitors | Available at eMotors Direct",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "0:48",
+    "views_tab": 753
+   },
+   {
+    "id": "6w1J5xa87Is",
+    "title": "Mobil Polyrex\u2122 EM Motor Grease | Available at eMotors Direct",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 2100
+   },
+   {
+    "id": "7TYM-zHDtBs",
+    "title": "How to Calculate Motor Efficiency | Formula & Savings Guide",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 1100
+   },
+   {
+    "id": "MyFaFsoM8BA",
+    "title": "Introduction to VFD Troubleshooting | Where to Start?",
+    "meta": [
+     "46K",
+     "2y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 46000
+   },
+   {
+    "id": "MU64-Jp-hgQ",
+    "title": "How to Lubricate Electric Motor Bearings (Part 2)",
+    "meta": [
+     "8.1K",
+     "2y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 8100
+   },
+   {
+    "id": "Ys8VSkISgfY",
+    "title": "Lafert Electric Motors | IEC Metric Motors",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 1300
+   },
+   {
+    "id": "skEaxx5YJbI",
+    "title": "Can you run a 3 phase motor on single-phase power? (Yes! Learn How)",
+    "meta": [
+     "56K",
+     "2y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 56000
+   },
+   {
+    "id": "cTMHdAzxtb0",
+    "title": "How to Replace a Furnace Blower Motor | Every Step Explained",
+    "meta": [
+     "46K",
+     "2y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 46000
+   },
+   {
+    "id": "sF7YfmpmEqQ",
+    "title": "How to Test a Furnace Blower Motor | Easy Guide",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 44000
+   },
+   {
+    "id": "FA2mu8cWoTw",
+    "title": "NEMA vs IEC Motors: Frame Sizes, Standards, and Replacement",
+    "meta": [
+     "9.8K",
+     "2y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 9800
+   },
+   {
+    "id": "pAXWsVXX47U",
+    "title": "VFD Minimum Speeds: How Slow Can You Safely Run Your Motor",
+    "meta": [
+     "6.5K",
+     "2y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 6500
+   },
+   {
+    "id": "5NwB7FwIoJo",
+    "title": "IEEE 841 Electric Motors",
+    "meta": [
+     "752",
+     "2y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 752
+   },
+   {
+    "id": "_bAB6qNCKVA",
+    "title": "Electric Motor Gear Ratio Calculator",
+    "meta": [
+     "356",
+     "2y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 356
+   },
+   {
+    "id": "30F3gU-GpKk",
+    "title": "Comment remplacer un condensateur de moteur",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 18000
+   },
+   {
+    "id": "-o4v2_8_xTA",
+    "title": "What is the Service Factor of a Motor?",
+    "meta": [
+     "7.5K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 7500
+   },
+   {
+    "id": "yZS1uOhMYbM",
+    "title": "Comment changer la direction d\u2019un moteur CC",
+    "meta": [
+     "851",
+     "2y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 851
+   },
+   {
+    "id": "7SyeodSfUug",
+    "title": "Why Your Electric Motor is Overheating",
+    "meta": [
+     "15K",
+     "2y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 15000
+   },
+   {
+    "id": "3Vd-mHAuyyI",
+    "title": "Comment remplacer les roulements d\u2019un moteur \u00e9lectrique",
+    "meta": [
+     "9.1K",
+     "2y ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 9100
+   },
+   {
+    "id": "fssr8scY1Is",
+    "title": "Electric Motor Maintenance Checklist",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 19000
+   },
+   {
+    "id": "bFmgSq_v6d4",
+    "title": "PODCAST: Motor Trends in 2024",
+    "meta": [
+     "76",
+     "2y ago"
+    ],
+    "dur": "15:33",
+    "views_tab": 76
+   },
+   {
+    "id": "R7hpQia0WXc",
+    "title": "Your Electric Motor Troubleshooting Guide",
+    "meta": [
+     "68K",
+     "2y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 68000
+   },
+   {
+    "id": "olqO0cRvPeI",
+    "title": "Prevent VFD Induced Motor Bearing Damage | AEGIS Bearing Protection",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "4:45",
+    "views_tab": 4600
+   },
+   {
+    "id": "19zIZ7sTEhQ",
+    "title": "How to Test Single-Phase Motor Windings",
+    "meta": [
+     "211K",
+     "2y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 211000
+   },
+   {
+    "id": "jtHr8amBik0",
+    "title": "The Right Motor, Right Away",
+    "meta": [
+     "76K",
+     "2y ago"
+    ],
+    "dur": "0:35",
+    "views_tab": 76000
+   },
+   {
+    "id": "DRz6zxXtDCg",
+    "title": "Where to Buy Electric Motors in Canada",
+    "meta": [
+     "1.5M",
+     "2y ago"
+    ],
+    "dur": "0:23",
+    "views_tab": 1500000
+   },
+   {
+    "id": "ieexZrGzM0M",
+    "title": "What is a Farm Duty Motor?",
+    "meta": [
+     "2.7K",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "FyWsZuXn56o",
+    "title": "What is an Explosion Proof Motor?",
+    "meta": [
+     "6.8K",
+     "2y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 6800
+   },
+   {
+    "id": "yzIWp7uC0Do",
+    "title": "Comment Dimensionner un VFD Pour un Moteur Triphas\u00e9",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 1100
+   },
+   {
+    "id": "w72qqilEtKY",
+    "title": "Comment V\u00e9rifier les Balais des Moteurs CC",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 4600
+   },
+   {
+    "id": "8BhxVJsPTqw",
+    "title": "Qu'est-ce Qui Cause la Surcharge du Moteur",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "jTaSiIXC1vA",
+    "title": "Quels Types De Moteurs Peuvent \u00catre Utilis\u00e9s Avec Des VFDs?",
+    "meta": [
+     "702",
+     "2y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 702
+   },
+   {
+    "id": "zczCPKCr26U",
+    "title": "Cost of Electricity in Canada - How To Optimize Your Manufacturing Plant",
+    "meta": [
+     "218",
+     "2y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 218
+   },
+   {
+    "id": "0PzHWu3RFtk",
+    "title": "How to Read a NEMA Motor Nameplate",
+    "meta": [
+     "2.8K",
+     "2y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 2800
+   },
+   {
+    "id": "sijwH2YTFVQ",
+    "title": "How to Size an Electric Motor Gearbox/Gear Reducer",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 10000
+   },
+   {
+    "id": "wvXdllvrKXc",
+    "title": "Sourcing Farm Duty Motors - Impact Farming | Part 3",
+    "meta": [
+     "91",
+     "3y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 91
+   },
+   {
+    "id": "E0hGk1AbZ1E",
+    "title": "Preventing Motor Overload on the Farm - Impact Farming | Part 2",
+    "meta": [
+     "126",
+     "3y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 126
+   },
+   {
+    "id": "sl_rKKZ_Egk",
+    "title": "Getting the Most Out of Your Farm Duty Motor - Impact Farming | Part 1",
+    "meta": [
+     "155",
+     "3y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 155
+   },
+   {
+    "id": "W16vCHvNbMY",
+    "title": "IP Ratings for Motors",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 1400
+   },
+   {
+    "id": "vxj0votEi6o",
+    "title": "How to Pick an Electric Motor Enclosure",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "4:55",
+    "views_tab": 2900
+   },
+   {
+    "id": "D5Vr4aWhPNk",
+    "title": "How DC Motors Work",
+    "meta": [
+     "3.6K",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 3600
+   },
+   {
+    "id": "1jFAgg6rRjY",
+    "title": "How Does an AC Motor Work?",
+    "meta": [
+     "22K",
+     "3y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "3zVyW4_FwBc",
+    "title": "How to Replace a Motor Capacitor",
+    "meta": [
+     "63K",
+     "3y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 63000
+   },
+   {
+    "id": "R3Q1Q5cCD3M",
+    "title": "How Does a Shaded Pole Motor Work? | Part 5 - HVAC Know It All",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 1200
+   },
+   {
+    "id": "93AJqCIW-DQ",
+    "title": "How Does a CSIR Motor Work? | Part 4 - HVAC Know It All",
+    "meta": [
+     "981",
+     "3y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 981
+   },
+   {
+    "id": "uisrpJRZVVc",
+    "title": "How Do ECM Motors Work? | Part 3 - HVAC Know It All",
+    "meta": [
+     "5.2K",
+     "3y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 5200
+   },
+   {
+    "id": "1b28ayi5Tck",
+    "title": "What is a PSC Motor | Part 2 - HVAC Know It All",
+    "meta": [
+     "2.3K",
+     "3y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 2300
+   },
+   {
+    "id": "d0I8NZXgR4A",
+    "title": "Welcome to Our YouTube Channel",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 179000
+   },
+   {
+    "id": "PDV5Gyki78U",
+    "title": "HVAC Know It All x eMotors Direct | Part 1 - HVAC Motor Series",
+    "meta": [
+     "294",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 294
+   },
+   {
+    "id": "h4iINr3aiRQ",
+    "title": "What Does IEEE 841 Mean?",
+    "meta": [
+     "372",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 372
+   },
+   {
+    "id": "Ac0lOTJI5ow",
+    "title": "How to Spec a Browning Inline Gear Reducer",
+    "meta": [
+     "806",
+     "3y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 806
+   },
+   {
+    "id": "jG9XGuVan-o",
+    "title": "How to Size an Overload Device for a Motor",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 25000
+   },
+   {
+    "id": "iIO2KOS8xYE",
+    "title": "CKOM Interview: How eMotors Partners With Farmers in Saskatchewan",
+    "meta": [
+     "177",
+     "3y ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 177
+   },
+   {
+    "id": "9AW7_ynwQZs",
+    "title": "What Causes Motor Overload?",
+    "meta": [
+     "50K",
+     "3y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 50000
+   },
+   {
+    "id": "PjeDqPBp0RA",
+    "title": "How to Grease your Electric Motor Bearings",
+    "meta": [
+     "79K",
+     "3y ago"
+    ],
+    "dur": "7:12",
+    "views_tab": 79000
+   },
+   {
+    "id": "YJisju9bulo",
+    "title": "Electric Motors for Hazardous Locations",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 1400
+   },
+   {
+    "id": "UtK6sft-zSw",
+    "title": "L510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "b9xF8EyQDQY",
+    "title": "How to Replace Electric Motor Bearings",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "8:18",
+    "views_tab": 80000
+   },
+   {
+    "id": "VIJa_M-qJcQ",
+    "title": "Where to Buy a Furnace Blower Motor",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 1200
+   },
+   {
+    "id": "PnPJ4TdgixM",
+    "title": "Washdown Motors - Stainless Steel vs Epoxy Painted",
+    "meta": [
+     "571",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 571
+   },
+   {
+    "id": "K7BVc7XkKRU",
+    "title": "Cross Reference Motor Guide for Discontinued Motors",
+    "meta": [
+     "649",
+     "3y ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 649
+   },
+   {
+    "id": "DISDRmipn6g",
+    "title": "How to Change Direction of a DC Motor",
+    "meta": [
+     "28K",
+     "3y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 28000
+   },
+   {
+    "id": "4rpJN_iSt34",
+    "title": "How to Check Carbon Brushes on DC Motors",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 138000
+   },
+   {
+    "id": "UWsy-O-0XfM",
+    "title": "What is a VFD?",
+    "meta": [
+     "9.1K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 9100
+   },
+   {
+    "id": "gFYKKFOrLN8",
+    "title": "How to Size a VFD for 3 Phase Motors",
+    "meta": [
+     "69K",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 69000
+   },
+   {
+    "id": "jIbQx7RCCw8",
+    "title": "What Types of Motors Can Be Used with VFDs?",
+    "meta": [
+     "171K",
+     "3y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 171000
+   },
+   {
+    "id": "zpMcYeqIofk",
+    "title": "Locate Motor Manufacturer Drawings, Wiring Diagrams, and Technical Specifications",
+    "meta": [
+     "614",
+     "3y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 614
+   },
+   {
+    "id": "xUIFexKL0n4",
+    "title": "Finding A Variable Frequency Drive Replacement",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 1300
+   },
+   {
+    "id": "aP6DhXy0IEA",
+    "title": "Trouver votre moteur avec le num\u00e9ro de catalogue | eMotors Direct",
+    "meta": [
+     "496",
+     "3y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 496
+   },
+   {
+    "id": "4RazeV1kxvU",
+    "title": "The Electric Motor Supplier of Canada's Maintenance Managers | eMotors Direct",
+    "meta": [
+     "147",
+     "4y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 147
+   },
+   {
+    "id": "J4rFBAZ6KTE",
+    "title": "The Electric Motor Supplier of Canada's Motor Shops | eMotors Direct",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "3:30",
+    "views_tab": 15000
+   },
+   {
+    "id": "VwDDm_9XveU",
+    "title": "The Electric Motor Supplier of Canada's Industrial Contractors | eMotors Direct",
+    "meta": [
+     "78K",
+     "4y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 78000
+   },
+   {
+    "id": "8A-fGdT5Ci0",
+    "title": "The Electric Motor Supplier of Canada's HVAC Professionals | eMotors Direct",
+    "meta": [
+     "191",
+     "5y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 191
+   },
+   {
+    "id": "i7RusWMyfLA",
+    "title": "What to do if Your Motor Doesn't Have a Nameplate",
+    "meta": [
+     "5.7K",
+     "5y ago"
+    ],
+    "dur": "0:24",
+    "views_tab": 5700
+   },
+   {
+    "id": "yX-T-2cuP88",
+    "title": "How to Find Bearing Replacements for Your Motor",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "0:32",
+    "views_tab": 2600
+   },
+   {
+    "id": "t-lGpPqm-Ho",
+    "title": "How to Catch Aftermarket Modifications on Your Nameplate",
+    "meta": [
+     "214",
+     "5y ago"
+    ],
+    "dur": "0:39",
+    "views_tab": 214
+   },
+   {
+    "id": "rM0kkpQLGtU",
+    "title": "How to Use the Nameplate to Cross-Reference Your Motor",
+    "meta": [
+     "678",
+     "5y ago"
+    ],
+    "dur": "0:41",
+    "views_tab": 678
+   },
+   {
+    "id": "VBDdgl44CAI",
+    "title": "How to Find the Catalogue Number on Your Motor Nameplate",
+    "meta": [
+     "593",
+     "5y ago"
+    ],
+    "dur": "0:36",
+    "views_tab": 593
+   },
+   {
+    "id": "eXPirKQ-VNc",
+    "title": "Why We Ask For a Picture of Your Nameplate",
+    "meta": [
+     "552",
+     "5y ago"
+    ],
+    "dur": "0:44",
+    "views_tab": 552
+   },
+   {
+    "id": "55GCcgPWlpQ",
+    "title": "How to Read a Motor Nameplate",
+    "meta": [
+     "3.7K",
+     "5y ago"
+    ],
+    "dur": "0:46",
+    "views_tab": 3700
+   },
+   {
+    "id": "zxGr7tojTpk",
+    "title": "The Electric Motor Supplier of Canada's Food Manufacturers | eMotors Direct",
+    "meta": [
+     "3.4K",
+     "5y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 3400
+   }
+  ],
+  "Popular": [
+   {
+    "id": "DRz6zxXtDCg",
+    "title": "Where to Buy Electric Motors in Canada",
+    "meta": [
+     "1.5M",
+     "2y ago"
+    ],
+    "dur": "0:23",
+    "views_tab": 1500000
+   },
+   {
+    "id": "19zIZ7sTEhQ",
+    "title": "How to Test Single-Phase Motor Windings",
+    "meta": [
+     "211K",
+     "2y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 211000
+   },
+   {
+    "id": "_dDfmsQDwBQ",
+    "title": "How to Find a Motor Replacement \u2013 Step-by-Step Guide Using Nameplate or Catalogue Number",
+    "meta": [
+     "202K",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 202000
+   },
+   {
+    "id": "d0I8NZXgR4A",
+    "title": "Welcome to Our YouTube Channel",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 179000
+   },
+   {
+    "id": "jIbQx7RCCw8",
+    "title": "What Types of Motors Can Be Used with VFDs?",
+    "meta": [
+     "171K",
+     "3y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 171000
+   },
+   {
+    "id": "3KQrz6ZzRJ0",
+    "title": "Electric Motor Repair vs. Replacement: Which Option Saves You More?",
+    "meta": [
+     "170K",
+     "1y ago"
+    ],
+    "dur": "2:24",
+    "views_tab": 170000
+   },
+   {
+    "id": "4rpJN_iSt34",
+    "title": "How to Check Carbon Brushes on DC Motors",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 138000
+   },
+   {
+    "id": "b9xF8EyQDQY",
+    "title": "How to Replace Electric Motor Bearings",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "8:18",
+    "views_tab": 80000
+   },
+   {
+    "id": "PjeDqPBp0RA",
+    "title": "How to Grease your Electric Motor Bearings",
+    "meta": [
+     "79K",
+     "3y ago"
+    ],
+    "dur": "7:12",
+    "views_tab": 79000
+   },
+   {
+    "id": "VwDDm_9XveU",
+    "title": "The Electric Motor Supplier of Canada's Industrial Contractors | eMotors Direct",
+    "meta": [
+     "78K",
+     "4y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 78000
+   },
+   {
+    "id": "jtHr8amBik0",
+    "title": "The Right Motor, Right Away",
+    "meta": [
+     "76K",
+     "2y ago"
+    ],
+    "dur": "0:35",
+    "views_tab": 76000
+   },
+   {
+    "id": "gFYKKFOrLN8",
+    "title": "How to Size a VFD for 3 Phase Motors",
+    "meta": [
+     "69K",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 69000
+   },
+   {
+    "id": "R7hpQia0WXc",
+    "title": "Your Electric Motor Troubleshooting Guide",
+    "meta": [
+     "68K",
+     "2y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 68000
+   },
+   {
+    "id": "3zVyW4_FwBc",
+    "title": "How to Replace a Motor Capacitor",
+    "meta": [
+     "63K",
+     "3y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 63000
+   },
+   {
+    "id": "49saNHp-yfE",
+    "title": "Canada\u2019s Go-To Source for VFDs | Fast, Expert Support at eMotors Direct",
+    "meta": [
+     "58K",
+     "1y ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 58000
+   },
+   {
+    "id": "skEaxx5YJbI",
+    "title": "Can you run a 3 phase motor on single-phase power? (Yes! Learn How)",
+    "meta": [
+     "56K",
+     "2y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 56000
+   },
+   {
+    "id": "9AW7_ynwQZs",
+    "title": "What Causes Motor Overload?",
+    "meta": [
+     "50K",
+     "3y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 50000
+   },
+   {
+    "id": "cTMHdAzxtb0",
+    "title": "How to Replace a Furnace Blower Motor | Every Step Explained",
+    "meta": [
+     "46K",
+     "2y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 46000
+   },
+   {
+    "id": "MyFaFsoM8BA",
+    "title": "Introduction to VFD Troubleshooting | Where to Start?",
+    "meta": [
+     "46K",
+     "2y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 46000
+   },
+   {
+    "id": "sF7YfmpmEqQ",
+    "title": "How to Test a Furnace Blower Motor | Easy Guide",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 44000
+   },
+   {
+    "id": "NgrpYYsMXRg",
+    "title": "Resolve VFD Fault Codes | Step By Step Troubleshooting",
+    "meta": [
+     "38K",
+     "2y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 38000
+   },
+   {
+    "id": "ZxcIRiPJvRI",
+    "title": "Browning Helical Gearing | Inline Gear Reducer Sizing in Minutes (Step by Step Guide)",
+    "meta": [
+     "34K",
+     "1y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 34000
+   },
+   {
+    "id": "DISDRmipn6g",
+    "title": "How to Change Direction of a DC Motor",
+    "meta": [
+     "28K",
+     "3y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 28000
+   },
+   {
+    "id": "jG9XGuVan-o",
+    "title": "How to Size an Overload Device for a Motor",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 25000
+   },
+   {
+    "id": "urJwaMLNTr4",
+    "title": "Baldor Explosion Proof Motors | Class 1 Division 1 Hazardous Location Motors",
+    "meta": [
+     "23K",
+     "1y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 23000
+   },
+   {
+    "id": "1jFAgg6rRjY",
+    "title": "How Does an AC Motor Work?",
+    "meta": [
+     "22K",
+     "3y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "FfHfm_6k5iA",
+    "title": "How to Wire a 3-Phase Motor (230V & 460V) | Step-by-Step",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 22000
+   },
+   {
+    "id": "K_93ZSuNeYE",
+    "title": "Baldor IEEE 841 Motors | Available at eMotors Direct",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 19000
+   },
+   {
+    "id": "fssr8scY1Is",
+    "title": "Electric Motor Maintenance Checklist",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 19000
+   },
+   {
+    "id": "30F3gU-GpKk",
+    "title": "Comment remplacer un condensateur de moteur",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 18000
+   },
+   {
+    "id": "UtK6sft-zSw",
+    "title": "L510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "J4rFBAZ6KTE",
+    "title": "The Electric Motor Supplier of Canada's Motor Shops | eMotors Direct",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "3:30",
+    "views_tab": 15000
+   },
+   {
+    "id": "kuDIAVrvo5w",
+    "title": "Baldor Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 15000
+   },
+   {
+    "id": "7SyeodSfUug",
+    "title": "Why Your Electric Motor is Overheating",
+    "meta": [
+     "15K",
+     "2y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 15000
+   },
+   {
+    "id": "sijwH2YTFVQ",
+    "title": "How to Size an Electric Motor Gearbox/Gear Reducer",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 10000
+   },
+   {
+    "id": "FA2mu8cWoTw",
+    "title": "NEMA vs IEC Motors: Frame Sizes, Standards, and Replacement",
+    "meta": [
+     "9.8K",
+     "2y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 9800
+   },
+   {
+    "id": "3Vd-mHAuyyI",
+    "title": "Comment remplacer les roulements d\u2019un moteur \u00e9lectrique",
+    "meta": [
+     "9.1K",
+     "2y ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 9100
+   },
+   {
+    "id": "UWsy-O-0XfM",
+    "title": "What is a VFD?",
+    "meta": [
+     "9.1K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 9100
+   },
+   {
+    "id": "5pNKS5wZejU",
+    "title": "E510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 9000
+   },
+   {
+    "id": "8Wm42Hn9n5Q",
+    "title": "Brook Crompton General Purpose Motors | Available at eMotors Direct",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 8600
+   },
+   {
+    "id": "eWLX79xJIi8",
+    "title": "Who We Are - An Introduction to eMotors Direct | eMotors Direct",
+    "meta": [
+     "8.2K",
+     "5y ago"
+    ],
+    "dur": "1:12",
+    "views_tab": 8200
+   },
+   {
+    "id": "MU64-Jp-hgQ",
+    "title": "How to Lubricate Electric Motor Bearings (Part 2)",
+    "meta": [
+     "8.1K",
+     "2y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 8100
+   },
+   {
+    "id": "-TXzPNEclSY",
+    "title": "Baldor Farm Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "8K",
+     "1y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 8000
+   },
+   {
+    "id": "-o4v2_8_xTA",
+    "title": "What is the Service Factor of a Motor?",
+    "meta": [
+     "7.5K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 7500
+   },
+   {
+    "id": "FyWsZuXn56o",
+    "title": "What is an Explosion Proof Motor?",
+    "meta": [
+     "6.8K",
+     "2y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 6800
+   },
+   {
+    "id": "pAXWsVXX47U",
+    "title": "VFD Minimum Speeds: How Slow Can You Safely Run Your Motor",
+    "meta": [
+     "6.5K",
+     "2y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 6500
+   },
+   {
+    "id": "g07g4w-N9IE",
+    "title": "How Does a Magnetic Motor Starter Work | WEG PESW Overview",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 6100
+   },
+   {
+    "id": "dbsAzNQANt0",
+    "title": "Baldor Washdown Motors | Stainless Steel Electric Motors",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 6100
+   },
+   {
+    "id": "i7RusWMyfLA",
+    "title": "What to do if Your Motor Doesn't Have a Nameplate",
+    "meta": [
+     "5.7K",
+     "5y ago"
+    ],
+    "dur": "0:24",
+    "views_tab": 5700
+   },
+   {
+    "id": "fC21cX294uY",
+    "title": "A510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "5.5K",
+     "2y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 5500
+   },
+   {
+    "id": "uisrpJRZVVc",
+    "title": "How Do ECM Motors Work? | Part 3 - HVAC Know It All",
+    "meta": [
+     "5.2K",
+     "3y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 5200
+   },
+   {
+    "id": "0xjOFZqEHtg",
+    "title": "WEG W01 Motors: General-Purpose Electric Motor for Commercial Use",
+    "meta": [
+     "5K",
+     "1y ago"
+    ],
+    "dur": "1:40",
+    "views_tab": 5000
+   },
+   {
+    "id": "_JIKdhRbcVM",
+    "title": "F510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "5K",
+     "2y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 5000
+   },
+   {
+    "id": "w72qqilEtKY",
+    "title": "Comment V\u00e9rifier les Balais des Moteurs CC",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 4600
+   },
+   {
+    "id": "olqO0cRvPeI",
+    "title": "Prevent VFD Induced Motor Bearing Damage | AEGIS Bearing Protection",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "4:45",
+    "views_tab": 4600
+   },
+   {
+    "id": "TUBiSAbkZdI",
+    "title": "What Is Electric Motor Frame Size? | NEMA Frame Letters Explained | 145T vs 143T Comparison",
+    "meta": [
+     "4.2K",
+     "1y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 4200
+   },
+   {
+    "id": "11udLU1UR54",
+    "title": "Can Bad Motor Mounts Cause Vibration? | 7 Causes of Electric Motor Vibration Explained",
+    "meta": [
+     "3.9K",
+     "1y ago"
+    ],
+    "dur": "3:12",
+    "views_tab": 3900
+   },
+   {
+    "id": "55GCcgPWlpQ",
+    "title": "How to Read a Motor Nameplate",
+    "meta": [
+     "3.7K",
+     "5y ago"
+    ],
+    "dur": "0:46",
+    "views_tab": 3700
+   },
+   {
+    "id": "HQLXTrsu1qU",
+    "title": "Thermistors, RTDs & Motor Thermostats Explained | Prevent Overheating & Downtime (Motor Mods Part 2)",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 3700
+   },
+   {
+    "id": "IRND1v7OZl4",
+    "title": "Soft Starter vs VFD: Which Motor Controller Is Right for You",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 3600
+   },
+   {
+    "id": "D5Vr4aWhPNk",
+    "title": "How DC Motors Work",
+    "meta": [
+     "3.6K",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 3600
+   },
+   {
+    "id": "zxGr7tojTpk",
+    "title": "The Electric Motor Supplier of Canada's Food Manufacturers | eMotors Direct",
+    "meta": [
+     "3.4K",
+     "5y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 3400
+   },
+   {
+    "id": "TQ2wEKLxLjc",
+    "title": "What's the Difference Between Roller Bearings & Ball Bearings? (Motor Mods Part 3)",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 3200
+   },
+   {
+    "id": "vxj0votEi6o",
+    "title": "How to Pick an Electric Motor Enclosure",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "4:55",
+    "views_tab": 2900
+   },
+   {
+    "id": "0PzHWu3RFtk",
+    "title": "How to Read a NEMA Motor Nameplate",
+    "meta": [
+     "2.8K",
+     "2y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 2800
+   },
+   {
+    "id": "2rmarZBOf4c",
+    "title": "Constant Torque vs. Variable Torque: What You Need to Know for VFD Selection",
+    "meta": [
+     "2.7K",
+     "1y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 2700
+   },
+   {
+    "id": "ieexZrGzM0M",
+    "title": "What is a Farm Duty Motor?",
+    "meta": [
+     "2.7K",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "yX-T-2cuP88",
+    "title": "How to Find Bearing Replacements for Your Motor",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "0:32",
+    "views_tab": 2600
+   },
+   {
+    "id": "1b28ayi5Tck",
+    "title": "What is a PSC Motor | Part 2 - HVAC Know It All",
+    "meta": [
+     "2.3K",
+     "3y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 2300
+   },
+   {
+    "id": "8BhxVJsPTqw",
+    "title": "Qu'est-ce Qui Cause la Surcharge du Moteur",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "47Kie-hlXqM",
+    "title": "Can You Mount an Electric Motor Vertically? 4 Critical Modifications to Know (Motor Mod Part 6)",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 2100
+   },
+   {
+    "id": "6w1J5xa87Is",
+    "title": "Mobil Polyrex\u2122 EM Motor Grease | Available at eMotors Direct",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 2100
+   },
+   {
+    "id": "78_g_YIfnpY",
+    "title": "Eura Drives E2100 VFD Quick Start Guide | Setup, Parameter Configuration & Motor Control",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 1900
+   },
+   {
+    "id": "M8BouUpunp8",
+    "title": "AC Motor Speed Control Made Easy with KB Electronics VFDs | eMotors Direct",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 1900
+   },
+   {
+    "id": "YORC5VBWy2Y",
+    "title": "WEG W22 Severe Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 1700
+   },
+   {
+    "id": "W16vCHvNbMY",
+    "title": "IP Ratings for Motors",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 1400
+   },
+   {
+    "id": "YJisju9bulo",
+    "title": "Electric Motors for Hazardous Locations",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 1400
+   },
+   {
+    "id": "xUIFexKL0n4",
+    "title": "Finding A Variable Frequency Drive Replacement",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 1300
+   },
+   {
+    "id": "Ys8VSkISgfY",
+    "title": "Lafert Electric Motors | IEC Metric Motors",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 1300
+   },
+   {
+    "id": "VIJa_M-qJcQ",
+    "title": "Where to Buy a Furnace Blower Motor",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 1200
+   },
+   {
+    "id": "R3Q1Q5cCD3M",
+    "title": "How Does a Shaded Pole Motor Work? | Part 5 - HVAC Know It All",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 1200
+   },
+   {
+    "id": "517ioiQbxUc",
+    "title": "Eura Drives EM30 VFD Setup Guide | NEMA 4X, Washdown & Torque Compensation",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 1100
+   },
+   {
+    "id": "yzIWp7uC0Do",
+    "title": "Comment Dimensionner un VFD Pour un Moteur Triphas\u00e9",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 1100
+   },
+   {
+    "id": "7TYM-zHDtBs",
+    "title": "How to Calculate Motor Efficiency | Formula & Savings Guide",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 1100
+   },
+   {
+    "id": "eBGzkd4RoFg",
+    "title": "Motor Shaft Modifications Explained | Custom Shafts, Stub Shafts & Encoders (Motor Mods Part 5)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 1000
+   },
+   {
+    "id": "qEbZ2aTt6bI",
+    "title": "Stop Bearing Failure Before It Starts | Shaft Current Protection for VFD Motors (Motor Mods Part 4)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 1000
+   },
+   {
+    "id": "oro9HoCuB48",
+    "title": "KB Electronics DC Motor Speed Control | Available at eMotors Direct",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 1000
+   },
+   {
+    "id": "93AJqCIW-DQ",
+    "title": "How Does a CSIR Motor Work? | Part 4 - HVAC Know It All",
+    "meta": [
+     "981",
+     "3y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 981
+   },
+   {
+    "id": "rZqU7KdCjwk",
+    "title": "Motor Flange & C-Face Modifications | Avoid Downtime with Custom Solution (How-To Motor Mods Part 1)",
+    "meta": [
+     "951",
+     "1y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 951
+   },
+   {
+    "id": "yZS1uOhMYbM",
+    "title": "Comment changer la direction d\u2019un moteur CC",
+    "meta": [
+     "851",
+     "2y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 851
+   },
+   {
+    "id": "Ac0lOTJI5ow",
+    "title": "How to Spec a Browning Inline Gear Reducer",
+    "meta": [
+     "806",
+     "3y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 806
+   },
+   {
+    "id": "Kfju4Rq4HpI",
+    "title": "Electric Motor Capacitors | Available at eMotors Direct",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "0:48",
+    "views_tab": 753
+   },
+   {
+    "id": "5NwB7FwIoJo",
+    "title": "IEEE 841 Electric Motors",
+    "meta": [
+     "752",
+     "2y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 752
+   },
+   {
+    "id": "08A2y_0Y8Uo",
+    "title": "Eura Drive E600 VFD Quick Start Guide | Setup, Parameter Configuration | Sensorless Vector Control",
+    "meta": [
+     "731",
+     "1y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 731
+   },
+   {
+    "id": "jTaSiIXC1vA",
+    "title": "Quels Types De Moteurs Peuvent \u00catre Utilis\u00e9s Avec Des VFDs?",
+    "meta": [
+     "702",
+     "2y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 702
+   },
+   {
+    "id": "rM0kkpQLGtU",
+    "title": "How to Use the Nameplate to Cross-Reference Your Motor",
+    "meta": [
+     "678",
+     "5y ago"
+    ],
+    "dur": "0:41",
+    "views_tab": 678
+   },
+   {
+    "id": "K7BVc7XkKRU",
+    "title": "Cross Reference Motor Guide for Discontinued Motors",
+    "meta": [
+     "649",
+     "3y ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 649
+   },
+   {
+    "id": "zpMcYeqIofk",
+    "title": "Locate Motor Manufacturer Drawings, Wiring Diagrams, and Technical Specifications",
+    "meta": [
+     "614",
+     "3y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 614
+   },
+   {
+    "id": "-tR1KFI_mJM",
+    "title": "Brook Crompton Farm Duty Motors | Reliable Solutions for Farmers",
+    "meta": [
+     "594",
+     "1y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 594
+   },
+   {
+    "id": "VBDdgl44CAI",
+    "title": "How to Find the Catalogue Number on Your Motor Nameplate",
+    "meta": [
+     "593",
+     "5y ago"
+    ],
+    "dur": "0:36",
+    "views_tab": 593
+   },
+   {
+    "id": "PnPJ4TdgixM",
+    "title": "Washdown Motors - Stainless Steel vs Epoxy Painted",
+    "meta": [
+     "571",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 571
+   },
+   {
+    "id": "0Qh6A_zM3i4",
+    "title": "WEG Severe-Duty Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "570",
+     "1y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 570
+   },
+   {
+    "id": "9Fz3I6gLUok",
+    "title": "WEG CFW500 VFD | Available at eMotors Direct",
+    "meta": [
+     "562",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 562
+   },
+   {
+    "id": "eXPirKQ-VNc",
+    "title": "Why We Ask For a Picture of Your Nameplate",
+    "meta": [
+     "552",
+     "5y ago"
+    ],
+    "dur": "0:44",
+    "views_tab": 552
+   },
+   {
+    "id": "aP6DhXy0IEA",
+    "title": "Trouver votre moteur avec le num\u00e9ro de catalogue | eMotors Direct",
+    "meta": [
+     "496",
+     "3y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 496
+   },
+   {
+    "id": "Ni-oliC8RGc",
+    "title": "EP66 VFD Quick Start Guide | Eura Drives Setup for Harsh Environments | NEMA 4X, IP66, Washdown VFD",
+    "meta": [
+     "385",
+     "1y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 385
+   },
+   {
+    "id": "h4iINr3aiRQ",
+    "title": "What Does IEEE 841 Mean?",
+    "meta": [
+     "372",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 372
+   },
+   {
+    "id": "29N4PcT2bB8",
+    "title": "Building a Custom Gear Box on eMotorsDirect.ca | eMotors Direct",
+    "meta": [
+     "358",
+     "5y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 358
+   },
+   {
+    "id": "_bAB6qNCKVA",
+    "title": "Electric Motor Gear Ratio Calculator",
+    "meta": [
+     "356",
+     "2y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 356
+   },
+   {
+    "id": "uxp-oo6HZc4",
+    "title": "Brook Crompton Aftermarket HVAC Motors | OEM Replacement Motors for Furnaces and Air Conditioners",
+    "meta": [
+     "355",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 355
+   },
+   {
+    "id": "PDV5Gyki78U",
+    "title": "HVAC Know It All x eMotors Direct | Part 1 - HVAC Motor Series",
+    "meta": [
+     "294",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 294
+   },
+   {
+    "id": "zczCPKCr26U",
+    "title": "Cost of Electricity in Canada - How To Optimize Your Manufacturing Plant",
+    "meta": [
+     "218",
+     "2y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 218
+   },
+   {
+    "id": "t-lGpPqm-Ho",
+    "title": "How to Catch Aftermarket Modifications on Your Nameplate",
+    "meta": [
+     "214",
+     "5y ago"
+    ],
+    "dur": "0:39",
+    "views_tab": 214
+   },
+   {
+    "id": "8A-fGdT5Ci0",
+    "title": "The Electric Motor Supplier of Canada's HVAC Professionals | eMotors Direct",
+    "meta": [
+     "191",
+     "5y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 191
+   },
+   {
+    "id": "iIO2KOS8xYE",
+    "title": "CKOM Interview: How eMotors Partners With Farmers in Saskatchewan",
+    "meta": [
+     "177",
+     "3y ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 177
+   },
+   {
+    "id": "eOFhPOj_9ks",
+    "title": "How To Create Your Account on eMotorsDirect.ca | eMotors Direct",
+    "meta": [
+     "175",
+     "5y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 175
+   },
+   {
+    "id": "W1sOntxY_Qw",
+    "title": "How to Check Out On eMotorsDirect.ca | eMotors Direct",
+    "meta": [
+     "164",
+     "5y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 164
+   },
+   {
+    "id": "RjYl27F0dno",
+    "title": "How to Return or Exchange a Motor at eMotors Direct | Step-by-Step Warranty & Returns Guide",
+    "meta": [
+     "162",
+     "1y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 162
+   },
+   {
+    "id": "sl_rKKZ_Egk",
+    "title": "Getting the Most Out of Your Farm Duty Motor - Impact Farming | Part 1",
+    "meta": [
+     "155",
+     "3y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 155
+   },
+   {
+    "id": "wkA1_3ey-aQ",
+    "title": "Revolutionizing Canada's Electric Motor Supply Chain | eMotors Direct",
+    "meta": [
+     "153",
+     "5y ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 153
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "eWLX79xJIi8",
+    "title": "Who We Are - An Introduction to eMotors Direct | eMotors Direct",
+    "meta": [
+     "8.2K",
+     "5y ago"
+    ],
+    "dur": "1:12",
+    "views_tab": 8200
+   },
+   {
+    "id": "29N4PcT2bB8",
+    "title": "Building a Custom Gear Box on eMotorsDirect.ca | eMotors Direct",
+    "meta": [
+     "358",
+     "5y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 358
+   },
+   {
+    "id": "Dri4tA4GsI8",
+    "title": "Canada's Best Industrial Motor Supplier for Maintenance | eMotors Direct",
+    "meta": [
+     "58",
+     "5y ago"
+    ],
+    "dur": "0:08",
+    "views_tab": 58
+   },
+   {
+    "id": "hSlUxV7BqPA",
+    "title": "Canada's Best Industrial Motor Supplier for Aggregate | eMotors Direct",
+    "meta": [
+     "59",
+     "5y ago"
+    ],
+    "dur": "0:08",
+    "views_tab": 59
+   },
+   {
+    "id": "QTdM7JZo1aI",
+    "title": "Canada's Best Industrial Motor Supplier | eMotors Direct",
+    "meta": [
+     "74",
+     "5y ago"
+    ],
+    "dur": "0:07",
+    "views_tab": 74
+   },
+   {
+    "id": "eOFhPOj_9ks",
+    "title": "How To Create Your Account on eMotorsDirect.ca | eMotors Direct",
+    "meta": [
+     "175",
+     "5y ago"
+    ],
+    "dur": "1:22",
+    "views_tab": 175
+   },
+   {
+    "id": "wkA1_3ey-aQ",
+    "title": "Revolutionizing Canada's Electric Motor Supply Chain | eMotors Direct",
+    "meta": [
+     "153",
+     "5y ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 153
+   },
+   {
+    "id": "W1sOntxY_Qw",
+    "title": "How to Check Out On eMotorsDirect.ca | eMotors Direct",
+    "meta": [
+     "164",
+     "5y ago"
+    ],
+    "dur": "1:52",
+    "views_tab": 164
+   },
+   {
+    "id": "8hBC2BE-bvE",
+    "title": "The Future for Purchasing Industrial Motors and Parts | eMotors Direct",
+    "meta": [
+     "146",
+     "5y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 146
+   },
+   {
+    "id": "Q52QtYcgtQU",
+    "title": "Join Our Loyalty Rewards Program | eMotors Direct",
+    "meta": [
+     "141",
+     "5y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 141
+   },
+   {
+    "id": "zxGr7tojTpk",
+    "title": "The Electric Motor Supplier of Canada's Food Manufacturers | eMotors Direct",
+    "meta": [
+     "3.4K",
+     "5y ago"
+    ],
+    "dur": "2:46",
+    "views_tab": 3400
+   },
+   {
+    "id": "55GCcgPWlpQ",
+    "title": "How to Read a Motor Nameplate",
+    "meta": [
+     "3.7K",
+     "5y ago"
+    ],
+    "dur": "0:46",
+    "views_tab": 3700
+   },
+   {
+    "id": "eXPirKQ-VNc",
+    "title": "Why We Ask For a Picture of Your Nameplate",
+    "meta": [
+     "552",
+     "5y ago"
+    ],
+    "dur": "0:44",
+    "views_tab": 552
+   },
+   {
+    "id": "VBDdgl44CAI",
+    "title": "How to Find the Catalogue Number on Your Motor Nameplate",
+    "meta": [
+     "593",
+     "5y ago"
+    ],
+    "dur": "0:36",
+    "views_tab": 593
+   },
+   {
+    "id": "rM0kkpQLGtU",
+    "title": "How to Use the Nameplate to Cross-Reference Your Motor",
+    "meta": [
+     "678",
+     "5y ago"
+    ],
+    "dur": "0:41",
+    "views_tab": 678
+   },
+   {
+    "id": "t-lGpPqm-Ho",
+    "title": "How to Catch Aftermarket Modifications on Your Nameplate",
+    "meta": [
+     "214",
+     "5y ago"
+    ],
+    "dur": "0:39",
+    "views_tab": 214
+   },
+   {
+    "id": "yX-T-2cuP88",
+    "title": "How to Find Bearing Replacements for Your Motor",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "0:32",
+    "views_tab": 2600
+   },
+   {
+    "id": "i7RusWMyfLA",
+    "title": "What to do if Your Motor Doesn't Have a Nameplate",
+    "meta": [
+     "5.7K",
+     "5y ago"
+    ],
+    "dur": "0:24",
+    "views_tab": 5700
+   },
+   {
+    "id": "8A-fGdT5Ci0",
+    "title": "The Electric Motor Supplier of Canada's HVAC Professionals | eMotors Direct",
+    "meta": [
+     "191",
+     "5y ago"
+    ],
+    "dur": "2:58",
+    "views_tab": 191
+   },
+   {
+    "id": "VwDDm_9XveU",
+    "title": "The Electric Motor Supplier of Canada's Industrial Contractors | eMotors Direct",
+    "meta": [
+     "78K",
+     "4y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 78000
+   },
+   {
+    "id": "J4rFBAZ6KTE",
+    "title": "The Electric Motor Supplier of Canada's Motor Shops | eMotors Direct",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "3:30",
+    "views_tab": 15000
+   },
+   {
+    "id": "4RazeV1kxvU",
+    "title": "The Electric Motor Supplier of Canada's Maintenance Managers | eMotors Direct",
+    "meta": [
+     "147",
+     "4y ago"
+    ],
+    "dur": "3:20",
+    "views_tab": 147
+   },
+   {
+    "id": "aP6DhXy0IEA",
+    "title": "Trouver votre moteur avec le num\u00e9ro de catalogue | eMotors Direct",
+    "meta": [
+     "496",
+     "3y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 496
+   },
+   {
+    "id": "xUIFexKL0n4",
+    "title": "Finding A Variable Frequency Drive Replacement",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "1:35",
+    "views_tab": 1300
+   },
+   {
+    "id": "zpMcYeqIofk",
+    "title": "Locate Motor Manufacturer Drawings, Wiring Diagrams, and Technical Specifications",
+    "meta": [
+     "614",
+     "3y ago"
+    ],
+    "dur": "1:33",
+    "views_tab": 614
+   },
+   {
+    "id": "jIbQx7RCCw8",
+    "title": "What Types of Motors Can Be Used with VFDs?",
+    "meta": [
+     "171K",
+     "3y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 171000
+   },
+   {
+    "id": "gFYKKFOrLN8",
+    "title": "How to Size a VFD for 3 Phase Motors",
+    "meta": [
+     "69K",
+     "3y ago"
+    ],
+    "dur": "7:01",
+    "views_tab": 69000
+   },
+   {
+    "id": "UWsy-O-0XfM",
+    "title": "What is a VFD?",
+    "meta": [
+     "9.1K",
+     "3y ago"
+    ],
+    "dur": "4:48",
+    "views_tab": 9100
+   },
+   {
+    "id": "4rpJN_iSt34",
+    "title": "How to Check Carbon Brushes on DC Motors",
+    "meta": [
+     "138K",
+     "3y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 138000
+   },
+   {
+    "id": "DISDRmipn6g",
+    "title": "How to Change Direction of a DC Motor",
+    "meta": [
+     "28K",
+     "3y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 28000
+   },
+   {
+    "id": "K7BVc7XkKRU",
+    "title": "Cross Reference Motor Guide for Discontinued Motors",
+    "meta": [
+     "649",
+     "3y ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 649
+   },
+   {
+    "id": "PnPJ4TdgixM",
+    "title": "Washdown Motors - Stainless Steel vs Epoxy Painted",
+    "meta": [
+     "571",
+     "3y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 571
+   },
+   {
+    "id": "VIJa_M-qJcQ",
+    "title": "Where to Buy a Furnace Blower Motor",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 1200
+   },
+   {
+    "id": "b9xF8EyQDQY",
+    "title": "How to Replace Electric Motor Bearings",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "8:18",
+    "views_tab": 80000
+   },
+   {
+    "id": "UtK6sft-zSw",
+    "title": "L510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "15K",
+     "3y ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 15000
+   },
+   {
+    "id": "YJisju9bulo",
+    "title": "Electric Motors for Hazardous Locations",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 1400
+   },
+   {
+    "id": "PjeDqPBp0RA",
+    "title": "How to Grease your Electric Motor Bearings",
+    "meta": [
+     "79K",
+     "3y ago"
+    ],
+    "dur": "7:12",
+    "views_tab": 79000
+   },
+   {
+    "id": "9AW7_ynwQZs",
+    "title": "What Causes Motor Overload?",
+    "meta": [
+     "50K",
+     "3y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 50000
+   },
+   {
+    "id": "iIO2KOS8xYE",
+    "title": "CKOM Interview: How eMotors Partners With Farmers in Saskatchewan",
+    "meta": [
+     "177",
+     "3y ago"
+    ],
+    "dur": "6:48",
+    "views_tab": 177
+   },
+   {
+    "id": "jG9XGuVan-o",
+    "title": "How to Size an Overload Device for a Motor",
+    "meta": [
+     "25K",
+     "3y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 25000
+   },
+   {
+    "id": "Ac0lOTJI5ow",
+    "title": "How to Spec a Browning Inline Gear Reducer",
+    "meta": [
+     "806",
+     "3y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 806
+   },
+   {
+    "id": "h4iINr3aiRQ",
+    "title": "What Does IEEE 841 Mean?",
+    "meta": [
+     "372",
+     "3y ago"
+    ],
+    "dur": "2:40",
+    "views_tab": 372
+   },
+   {
+    "id": "PDV5Gyki78U",
+    "title": "HVAC Know It All x eMotors Direct | Part 1 - HVAC Motor Series",
+    "meta": [
+     "294",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 294
+   },
+   {
+    "id": "d0I8NZXgR4A",
+    "title": "Welcome to Our YouTube Channel",
+    "meta": [
+     "179K",
+     "3y ago"
+    ],
+    "dur": "1:01",
+    "views_tab": 179000
+   },
+   {
+    "id": "1b28ayi5Tck",
+    "title": "What is a PSC Motor | Part 2 - HVAC Know It All",
+    "meta": [
+     "2.3K",
+     "3y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 2300
+   },
+   {
+    "id": "uisrpJRZVVc",
+    "title": "How Do ECM Motors Work? | Part 3 - HVAC Know It All",
+    "meta": [
+     "5.2K",
+     "3y ago"
+    ],
+    "dur": "11:05",
+    "views_tab": 5200
+   },
+   {
+    "id": "93AJqCIW-DQ",
+    "title": "How Does a CSIR Motor Work? | Part 4 - HVAC Know It All",
+    "meta": [
+     "981",
+     "3y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 981
+   },
+   {
+    "id": "R3Q1Q5cCD3M",
+    "title": "How Does a Shaded Pole Motor Work? | Part 5 - HVAC Know It All",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 1200
+   },
+   {
+    "id": "3zVyW4_FwBc",
+    "title": "How to Replace a Motor Capacitor",
+    "meta": [
+     "63K",
+     "3y ago"
+    ],
+    "dur": "6:11",
+    "views_tab": 63000
+   },
+   {
+    "id": "1jFAgg6rRjY",
+    "title": "How Does an AC Motor Work?",
+    "meta": [
+     "22K",
+     "3y ago"
+    ],
+    "dur": "4:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "D5Vr4aWhPNk",
+    "title": "How DC Motors Work",
+    "meta": [
+     "3.6K",
+     "3y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 3600
+   },
+   {
+    "id": "vxj0votEi6o",
+    "title": "How to Pick an Electric Motor Enclosure",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "4:55",
+    "views_tab": 2900
+   },
+   {
+    "id": "W16vCHvNbMY",
+    "title": "IP Ratings for Motors",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "3:59",
+    "views_tab": 1400
+   },
+   {
+    "id": "sl_rKKZ_Egk",
+    "title": "Getting the Most Out of Your Farm Duty Motor - Impact Farming | Part 1",
+    "meta": [
+     "155",
+     "3y ago"
+    ],
+    "dur": "10:09",
+    "views_tab": 155
+   },
+   {
+    "id": "E0hGk1AbZ1E",
+    "title": "Preventing Motor Overload on the Farm - Impact Farming | Part 2",
+    "meta": [
+     "126",
+     "3y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 126
+   },
+   {
+    "id": "wvXdllvrKXc",
+    "title": "Sourcing Farm Duty Motors - Impact Farming | Part 3",
+    "meta": [
+     "91",
+     "3y ago"
+    ],
+    "dur": "8:17",
+    "views_tab": 91
+   },
+   {
+    "id": "sijwH2YTFVQ",
+    "title": "How to Size an Electric Motor Gearbox/Gear Reducer",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 10000
+   },
+   {
+    "id": "0PzHWu3RFtk",
+    "title": "How to Read a NEMA Motor Nameplate",
+    "meta": [
+     "2.8K",
+     "2y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 2800
+   },
+   {
+    "id": "zczCPKCr26U",
+    "title": "Cost of Electricity in Canada - How To Optimize Your Manufacturing Plant",
+    "meta": [
+     "218",
+     "2y ago"
+    ],
+    "dur": "20:11",
+    "views_tab": 218
+   },
+   {
+    "id": "jTaSiIXC1vA",
+    "title": "Quels Types De Moteurs Peuvent \u00catre Utilis\u00e9s Avec Des VFDs?",
+    "meta": [
+     "702",
+     "2y ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 702
+   },
+   {
+    "id": "8BhxVJsPTqw",
+    "title": "Qu'est-ce Qui Cause la Surcharge du Moteur",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "w72qqilEtKY",
+    "title": "Comment V\u00e9rifier les Balais des Moteurs CC",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "5:28",
+    "views_tab": 4600
+   },
+   {
+    "id": "yzIWp7uC0Do",
+    "title": "Comment Dimensionner un VFD Pour un Moteur Triphas\u00e9",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 1100
+   },
+   {
+    "id": "FyWsZuXn56o",
+    "title": "What is an Explosion Proof Motor?",
+    "meta": [
+     "6.8K",
+     "2y ago"
+    ],
+    "dur": "5:48",
+    "views_tab": 6800
+   },
+   {
+    "id": "ieexZrGzM0M",
+    "title": "What is a Farm Duty Motor?",
+    "meta": [
+     "2.7K",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 2700
+   },
+   {
+    "id": "DRz6zxXtDCg",
+    "title": "Where to Buy Electric Motors in Canada",
+    "meta": [
+     "1.5M",
+     "2y ago"
+    ],
+    "dur": "0:23",
+    "views_tab": 1500000
+   },
+   {
+    "id": "jtHr8amBik0",
+    "title": "The Right Motor, Right Away",
+    "meta": [
+     "76K",
+     "2y ago"
+    ],
+    "dur": "0:35",
+    "views_tab": 76000
+   },
+   {
+    "id": "19zIZ7sTEhQ",
+    "title": "How to Test Single-Phase Motor Windings",
+    "meta": [
+     "211K",
+     "2y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 211000
+   },
+   {
+    "id": "olqO0cRvPeI",
+    "title": "Prevent VFD Induced Motor Bearing Damage | AEGIS Bearing Protection",
+    "meta": [
+     "4.6K",
+     "2y ago"
+    ],
+    "dur": "4:45",
+    "views_tab": 4600
+   },
+   {
+    "id": "R7hpQia0WXc",
+    "title": "Your Electric Motor Troubleshooting Guide",
+    "meta": [
+     "68K",
+     "2y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 68000
+   },
+   {
+    "id": "bFmgSq_v6d4",
+    "title": "PODCAST: Motor Trends in 2024",
+    "meta": [
+     "76",
+     "2y ago"
+    ],
+    "dur": "15:33",
+    "views_tab": 76
+   },
+   {
+    "id": "fssr8scY1Is",
+    "title": "Electric Motor Maintenance Checklist",
+    "meta": [
+     "19K",
+     "2y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 19000
+   },
+   {
+    "id": "3Vd-mHAuyyI",
+    "title": "Comment remplacer les roulements d\u2019un moteur \u00e9lectrique",
+    "meta": [
+     "9.1K",
+     "2y ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 9100
+   },
+   {
+    "id": "7SyeodSfUug",
+    "title": "Why Your Electric Motor is Overheating",
+    "meta": [
+     "15K",
+     "2y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 15000
+   },
+   {
+    "id": "yZS1uOhMYbM",
+    "title": "Comment changer la direction d\u2019un moteur CC",
+    "meta": [
+     "851",
+     "2y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 851
+   },
+   {
+    "id": "-o4v2_8_xTA",
+    "title": "What is the Service Factor of a Motor?",
+    "meta": [
+     "7.5K",
+     "2y ago"
+    ],
+    "dur": "3:39",
+    "views_tab": 7500
+   },
+   {
+    "id": "30F3gU-GpKk",
+    "title": "Comment remplacer un condensateur de moteur",
+    "meta": [
+     "18K",
+     "2y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 18000
+   },
+   {
+    "id": "_bAB6qNCKVA",
+    "title": "Electric Motor Gear Ratio Calculator",
+    "meta": [
+     "356",
+     "2y ago"
+    ],
+    "dur": "0:34",
+    "views_tab": 356
+   },
+   {
+    "id": "5NwB7FwIoJo",
+    "title": "IEEE 841 Electric Motors",
+    "meta": [
+     "752",
+     "2y ago"
+    ],
+    "dur": "4:26",
+    "views_tab": 752
+   },
+   {
+    "id": "pAXWsVXX47U",
+    "title": "VFD Minimum Speeds: How Slow Can You Safely Run Your Motor",
+    "meta": [
+     "6.5K",
+     "2y ago"
+    ],
+    "dur": "3:06",
+    "views_tab": 6500
+   },
+   {
+    "id": "FA2mu8cWoTw",
+    "title": "NEMA vs IEC Motors: Frame Sizes, Standards, and Replacement",
+    "meta": [
+     "9.8K",
+     "2y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 9800
+   },
+   {
+    "id": "sF7YfmpmEqQ",
+    "title": "How to Test a Furnace Blower Motor | Easy Guide",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 44000
+   },
+   {
+    "id": "cTMHdAzxtb0",
+    "title": "How to Replace a Furnace Blower Motor | Every Step Explained",
+    "meta": [
+     "46K",
+     "2y ago"
+    ],
+    "dur": "7:36",
+    "views_tab": 46000
+   },
+   {
+    "id": "skEaxx5YJbI",
+    "title": "Can you run a 3 phase motor on single-phase power? (Yes! Learn How)",
+    "meta": [
+     "56K",
+     "2y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 56000
+   },
+   {
+    "id": "Ys8VSkISgfY",
+    "title": "Lafert Electric Motors | IEC Metric Motors",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 1300
+   },
+   {
+    "id": "MU64-Jp-hgQ",
+    "title": "How to Lubricate Electric Motor Bearings (Part 2)",
+    "meta": [
+     "8.1K",
+     "2y ago"
+    ],
+    "dur": "1:47",
+    "views_tab": 8100
+   },
+   {
+    "id": "MyFaFsoM8BA",
+    "title": "Introduction to VFD Troubleshooting | Where to Start?",
+    "meta": [
+     "46K",
+     "2y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 46000
+   },
+   {
+    "id": "7TYM-zHDtBs",
+    "title": "How to Calculate Motor Efficiency | Formula & Savings Guide",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 1100
+   },
+   {
+    "id": "6w1J5xa87Is",
+    "title": "Mobil Polyrex\u2122 EM Motor Grease | Available at eMotors Direct",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "0:37",
+    "views_tab": 2100
+   },
+   {
+    "id": "Kfju4Rq4HpI",
+    "title": "Electric Motor Capacitors | Available at eMotors Direct",
+    "meta": [
+     "753",
+     "2y ago"
+    ],
+    "dur": "0:48",
+    "views_tab": 753
+   },
+   {
+    "id": "tunsTLq-mQQ",
+    "title": "Happy International Puppy Day from eMotors Direct!",
+    "meta": [
+     "107",
+     "2y ago"
+    ],
+    "dur": "0:12",
+    "views_tab": 107
+   },
+   {
+    "id": "5pNKS5wZejU",
+    "title": "E510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "8:27",
+    "views_tab": 9000
+   },
+   {
+    "id": "_JIKdhRbcVM",
+    "title": "F510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "5K",
+     "2y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 5000
+   },
+   {
+    "id": "fC21cX294uY",
+    "title": "A510 TECO Westinghouse VFD | Quick Start Guide",
+    "meta": [
+     "5.5K",
+     "2y ago"
+    ],
+    "dur": "8:50",
+    "views_tab": 5500
+   },
+   {
+    "id": "NgrpYYsMXRg",
+    "title": "Resolve VFD Fault Codes | Step By Step Troubleshooting",
+    "meta": [
+     "38K",
+     "2y ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 38000
+   },
+   {
+    "id": "8Wm42Hn9n5Q",
+    "title": "Brook Crompton General Purpose Motors | Available at eMotors Direct",
+    "meta": [
+     "8.6K",
+     "1y ago"
+    ],
+    "dur": "2:12",
+    "views_tab": 8600
+   },
+   {
+    "id": "-TXzPNEclSY",
+    "title": "Baldor Farm Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "8K",
+     "1y ago"
+    ],
+    "dur": "1:30",
+    "views_tab": 8000
+   },
+   {
+    "id": "K_93ZSuNeYE",
+    "title": "Baldor IEEE 841 Motors | Available at eMotors Direct",
+    "meta": [
+     "19K",
+     "1y ago"
+    ],
+    "dur": "2:13",
+    "views_tab": 19000
+   },
+   {
+    "id": "kuDIAVrvo5w",
+    "title": "Baldor Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "15K",
+     "1y ago"
+    ],
+    "dur": "1:51",
+    "views_tab": 15000
+   },
+   {
+    "id": "dbsAzNQANt0",
+    "title": "Baldor Washdown Motors | Stainless Steel Electric Motors",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:29",
+    "views_tab": 6100
+   },
+   {
+    "id": "uxp-oo6HZc4",
+    "title": "Brook Crompton Aftermarket HVAC Motors | OEM Replacement Motors for Furnaces and Air Conditioners",
+    "meta": [
+     "355",
+     "1y ago"
+    ],
+    "dur": "2:04",
+    "views_tab": 355
+   },
+   {
+    "id": "-tR1KFI_mJM",
+    "title": "Brook Crompton Farm Duty Motors | Reliable Solutions for Farmers",
+    "meta": [
+     "594",
+     "1y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 594
+   },
+   {
+    "id": "urJwaMLNTr4",
+    "title": "Baldor Explosion Proof Motors | Class 1 Division 1 Hazardous Location Motors",
+    "meta": [
+     "23K",
+     "1y ago"
+    ],
+    "dur": "2:02",
+    "views_tab": 23000
+   },
+   {
+    "id": "oro9HoCuB48",
+    "title": "KB Electronics DC Motor Speed Control | Available at eMotors Direct",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:20",
+    "views_tab": 1000
+   },
+   {
+    "id": "M8BouUpunp8",
+    "title": "AC Motor Speed Control Made Easy with KB Electronics VFDs | eMotors Direct",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "1:42",
+    "views_tab": 1900
+   },
+   {
+    "id": "g07g4w-N9IE",
+    "title": "How Does a Magnetic Motor Starter Work | WEG PESW Overview",
+    "meta": [
+     "6.1K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 6100
+   },
+   {
+    "id": "ZxcIRiPJvRI",
+    "title": "Browning Helical Gearing | Inline Gear Reducer Sizing in Minutes (Step by Step Guide)",
+    "meta": [
+     "34K",
+     "1y ago"
+    ],
+    "dur": "2:38",
+    "views_tab": 34000
+   },
+   {
+    "id": "0Qh6A_zM3i4",
+    "title": "WEG Severe-Duty Close-Coupled Pump Motors | Available at eMotors Direct",
+    "meta": [
+     "570",
+     "1y ago"
+    ],
+    "dur": "2:42",
+    "views_tab": 570
+   },
+   {
+    "id": "YORC5VBWy2Y",
+    "title": "WEG W22 Severe Duty Motors | Available at eMotors Direct",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "2:16",
+    "views_tab": 1700
+   },
+   {
+    "id": "9Fz3I6gLUok",
+    "title": "WEG CFW500 VFD | Available at eMotors Direct",
+    "meta": [
+     "562",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 562
+   },
+   {
+    "id": "TQ2wEKLxLjc",
+    "title": "What's the Difference Between Roller Bearings & Ball Bearings? (Motor Mods Part 3)",
+    "meta": [
+     "3.2K",
+     "1y ago"
+    ],
+    "dur": "2:50",
+    "views_tab": 3200
+   },
+   {
+    "id": "eBGzkd4RoFg",
+    "title": "Motor Shaft Modifications Explained | Custom Shafts, Stub Shafts & Encoders (Motor Mods Part 5)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "2:25",
+    "views_tab": 1000
+   },
+   {
+    "id": "47Kie-hlXqM",
+    "title": "Can You Mount an Electric Motor Vertically? 4 Critical Modifications to Know (Motor Mod Part 6)",
+    "meta": [
+     "2.1K",
+     "1y ago"
+    ],
+    "dur": "2:49",
+    "views_tab": 2100
+   },
+   {
+    "id": "517ioiQbxUc",
+    "title": "Eura Drives EM30 VFD Setup Guide | NEMA 4X, Washdown & Torque Compensation",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:13",
+    "views_tab": 1100
+   },
+   {
+    "id": "Ni-oliC8RGc",
+    "title": "EP66 VFD Quick Start Guide | Eura Drives Setup for Harsh Environments | NEMA 4X, IP66, Washdown VFD",
+    "meta": [
+     "385",
+     "1y ago"
+    ],
+    "dur": "4:39",
+    "views_tab": 385
+   },
+   {
+    "id": "78_g_YIfnpY",
+    "title": "Eura Drives E2100 VFD Quick Start Guide | Setup, Parameter Configuration & Motor Control",
+    "meta": [
+     "1.9K",
+     "1y ago"
+    ],
+    "dur": "4:01",
+    "views_tab": 1900
+   },
+   {
+    "id": "08A2y_0Y8Uo",
+    "title": "Eura Drive E600 VFD Quick Start Guide | Setup, Parameter Configuration | Sensorless Vector Control",
+    "meta": [
+     "731",
+     "1y ago"
+    ],
+    "dur": "3:58",
+    "views_tab": 731
+   },
+   {
+    "id": "qEbZ2aTt6bI",
+    "title": "Stop Bearing Failure Before It Starts | Shaft Current Protection for VFD Motors (Motor Mods Part 4)",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "3:21",
+    "views_tab": 1000
+   },
+   {
+    "id": "HQLXTrsu1qU",
+    "title": "Thermistors, RTDs & Motor Thermostats Explained | Prevent Overheating & Downtime (Motor Mods Part 2)",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 3700
+   },
+   {
+    "id": "rZqU7KdCjwk",
+    "title": "Motor Flange & C-Face Modifications | Avoid Downtime with Custom Solution (How-To Motor Mods Part 1)",
+    "meta": [
+     "951",
+     "1y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 951
+   }
+  ]
+ }
+}

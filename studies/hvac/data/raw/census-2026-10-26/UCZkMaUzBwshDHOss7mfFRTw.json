@@ -1,0 +1,59 @@
+{
+ "key": "UCZkMaUzBwshDHOss7mfFRTw",
+ "channel": "Hvac Nerd",
+ "id": "UCZkMaUzBwshDHOss7mfFRTw",
+ "subs": "235 subscribers",
+ "videos": "4 videos",
+ "pulled": "2026-10-26T07:00:12.900905+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "1_beaKmVaec",
+    "title": "Hvacr fails #3",
+    "meta": [
+     "6.8K",
+     "4y ago"
+    ],
+    "dur": "9:03",
+    "views_tab": 6800
+   },
+   {
+    "id": "ftaIxGGzSsY",
+    "title": "Hvac Fails #2",
+    "meta": [
+     "6.8K",
+     "5y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 6800
+   },
+   {
+    "id": "rrXtkm1LCis",
+    "title": "HVAC Fails #1",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "8:33",
+    "views_tab": 10000
+   },
+   {
+    "id": "UOr8jl40YYw",
+    "title": "Hvac Fails",
+    "meta": [
+     "36K",
+     "6y ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 36000
+   }
+  ],
+  "Latest": null,
+  "Popular": null,
+  "Oldest": null
+ }
+}

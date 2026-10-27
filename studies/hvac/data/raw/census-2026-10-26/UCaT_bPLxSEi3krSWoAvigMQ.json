@@ -1,0 +1,465 @@
+{
+ "key": "UCaT_bPLxSEi3krSWoAvigMQ",
+ "channel": "Nick Salermo",
+ "id": "UCaT_bPLxSEi3krSWoAvigMQ",
+ "subs": "668 subscribers",
+ "videos": "11 videos",
+ "pulled": "2026-10-26T07:00:44.232349+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "AQ53YH82fCI",
+    "title": "Before You Waterproof Your Basement, Check Where Your Roof Water Goes",
+    "meta": [
+     "255",
+     "1mo ago"
+    ],
+    "dur": "17:38",
+    "views_tab": 255
+   },
+   {
+    "id": "Mm-ti6n0pWw",
+    "title": "Your Premium Air Filter Can Damage Your HVAC System",
+    "meta": [
+     "209",
+     "1mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 209
+   },
+   {
+    "id": "XnKhbhFZ6nQ",
+    "title": "5 Thermostat Habits That Kill the $10 Part Your AC Depends On",
+    "meta": [
+     "258",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 258
+   },
+   {
+    "id": "dCdBBGeBOGo",
+    "title": "Why Your Water Heater Dies in Year 7 (The $19 Rod Nobody Mentions)",
+    "meta": [
+     "284",
+     "2mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 284
+   },
+   {
+    "id": "OnnqrCiFv4A",
+    "title": "9 Things HVAC Techs Don't Want You to Know About HYDROGEN PEROXIDE (#6 Stops the Ceiling Leak)",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "25:34",
+    "views_tab": 1200
+   },
+   {
+    "id": "kTocpBuvVzU",
+    "title": "11 Things Plumbers Don't Want You to Know About a $4 Jug of Vinegar (#4 Saves $1,600)",
+    "meta": [
+     "565",
+     "2mo ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 565
+   },
+   {
+    "id": "xekyyrqwmAU",
+    "title": "7 AC Mistakes HVAC Companies Hope You Keep Making (#5 Costs $340)",
+    "meta": [
+     "9.6K",
+     "2mo ago"
+    ],
+    "dur": "25:02",
+    "views_tab": 9600
+   },
+   {
+    "id": "ibjWTB-kgmw",
+    "title": "We Achieved 10 DEGREES Cooler Air With This And Bills Lower!",
+    "meta": [
+     "8.8K",
+     "2mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 8800
+   },
+   {
+    "id": "uQsYoR0lRLY",
+    "title": "Hydraulic Ram Pump! (Moves Water Uphill Forever With No Power). A 200-Year-Old Secret.",
+    "meta": [
+     "9.4K",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 9400
+   },
+   {
+    "id": "isMyt_hwVqc",
+    "title": "Free Water Forever! Off-Grid System for Under $14 (No Rain, No Well, No Power)",
+    "meta": [
+     "7.6K",
+     "2mo ago"
+    ],
+    "dur": "24:38",
+    "views_tab": 7600
+   },
+   {
+    "id": "opmpe86GyDs",
+    "title": "Stop Paying Your Water Bill. Build This $25 Rain System in One Afternoon",
+    "meta": [
+     "853",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 853
+   }
+  ],
+  "Latest": [
+   {
+    "id": "AQ53YH82fCI",
+    "title": "Before You Waterproof Your Basement, Check Where Your Roof Water Goes",
+    "meta": [
+     "255",
+     "1mo ago"
+    ],
+    "dur": "17:38",
+    "views_tab": 255
+   },
+   {
+    "id": "Mm-ti6n0pWw",
+    "title": "Your Premium Air Filter Can Damage Your HVAC System",
+    "meta": [
+     "209",
+     "1mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 209
+   },
+   {
+    "id": "XnKhbhFZ6nQ",
+    "title": "5 Thermostat Habits That Kill the $10 Part Your AC Depends On",
+    "meta": [
+     "258",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 258
+   },
+   {
+    "id": "dCdBBGeBOGo",
+    "title": "Why Your Water Heater Dies in Year 7 (The $19 Rod Nobody Mentions)",
+    "meta": [
+     "284",
+     "2mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 284
+   },
+   {
+    "id": "OnnqrCiFv4A",
+    "title": "9 Things HVAC Techs Don't Want You to Know About HYDROGEN PEROXIDE (#6 Stops the Ceiling Leak)",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "25:34",
+    "views_tab": 1200
+   },
+   {
+    "id": "kTocpBuvVzU",
+    "title": "11 Things Plumbers Don't Want You to Know About a $4 Jug of Vinegar (#4 Saves $1,600)",
+    "meta": [
+     "565",
+     "2mo ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 565
+   },
+   {
+    "id": "xekyyrqwmAU",
+    "title": "7 AC Mistakes HVAC Companies Hope You Keep Making (#5 Costs $340)",
+    "meta": [
+     "9.6K",
+     "2mo ago"
+    ],
+    "dur": "25:02",
+    "views_tab": 9600
+   },
+   {
+    "id": "ibjWTB-kgmw",
+    "title": "We Achieved 10 DEGREES Cooler Air With This And Bills Lower!",
+    "meta": [
+     "8.8K",
+     "2mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 8800
+   },
+   {
+    "id": "uQsYoR0lRLY",
+    "title": "Hydraulic Ram Pump! (Moves Water Uphill Forever With No Power). A 200-Year-Old Secret.",
+    "meta": [
+     "9.4K",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 9400
+   },
+   {
+    "id": "isMyt_hwVqc",
+    "title": "Free Water Forever! Off-Grid System for Under $14 (No Rain, No Well, No Power)",
+    "meta": [
+     "7.6K",
+     "2mo ago"
+    ],
+    "dur": "24:38",
+    "views_tab": 7600
+   },
+   {
+    "id": "opmpe86GyDs",
+    "title": "Stop Paying Your Water Bill. Build This $25 Rain System in One Afternoon",
+    "meta": [
+     "853",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 853
+   }
+  ],
+  "Popular": [
+   {
+    "id": "xekyyrqwmAU",
+    "title": "7 AC Mistakes HVAC Companies Hope You Keep Making (#5 Costs $340)",
+    "meta": [
+     "9.6K",
+     "2mo ago"
+    ],
+    "dur": "25:02",
+    "views_tab": 9600
+   },
+   {
+    "id": "uQsYoR0lRLY",
+    "title": "Hydraulic Ram Pump! (Moves Water Uphill Forever With No Power). A 200-Year-Old Secret.",
+    "meta": [
+     "9.4K",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 9400
+   },
+   {
+    "id": "ibjWTB-kgmw",
+    "title": "We Achieved 10 DEGREES Cooler Air With This And Bills Lower!",
+    "meta": [
+     "8.8K",
+     "2mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 8800
+   },
+   {
+    "id": "isMyt_hwVqc",
+    "title": "Free Water Forever! Off-Grid System for Under $14 (No Rain, No Well, No Power)",
+    "meta": [
+     "7.6K",
+     "2mo ago"
+    ],
+    "dur": "24:38",
+    "views_tab": 7600
+   },
+   {
+    "id": "OnnqrCiFv4A",
+    "title": "9 Things HVAC Techs Don't Want You to Know About HYDROGEN PEROXIDE (#6 Stops the Ceiling Leak)",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "25:34",
+    "views_tab": 1200
+   },
+   {
+    "id": "opmpe86GyDs",
+    "title": "Stop Paying Your Water Bill. Build This $25 Rain System in One Afternoon",
+    "meta": [
+     "853",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 853
+   },
+   {
+    "id": "kTocpBuvVzU",
+    "title": "11 Things Plumbers Don't Want You to Know About a $4 Jug of Vinegar (#4 Saves $1,600)",
+    "meta": [
+     "565",
+     "2mo ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 565
+   },
+   {
+    "id": "dCdBBGeBOGo",
+    "title": "Why Your Water Heater Dies in Year 7 (The $19 Rod Nobody Mentions)",
+    "meta": [
+     "284",
+     "2mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 284
+   },
+   {
+    "id": "XnKhbhFZ6nQ",
+    "title": "5 Thermostat Habits That Kill the $10 Part Your AC Depends On",
+    "meta": [
+     "258",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 258
+   },
+   {
+    "id": "AQ53YH82fCI",
+    "title": "Before You Waterproof Your Basement, Check Where Your Roof Water Goes",
+    "meta": [
+     "255",
+     "1mo ago"
+    ],
+    "dur": "17:38",
+    "views_tab": 255
+   },
+   {
+    "id": "Mm-ti6n0pWw",
+    "title": "Your Premium Air Filter Can Damage Your HVAC System",
+    "meta": [
+     "209",
+     "1mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 209
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "opmpe86GyDs",
+    "title": "Stop Paying Your Water Bill. Build This $25 Rain System in One Afternoon",
+    "meta": [
+     "853",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 853
+   },
+   {
+    "id": "isMyt_hwVqc",
+    "title": "Free Water Forever! Off-Grid System for Under $14 (No Rain, No Well, No Power)",
+    "meta": [
+     "7.6K",
+     "2mo ago"
+    ],
+    "dur": "24:38",
+    "views_tab": 7600
+   },
+   {
+    "id": "uQsYoR0lRLY",
+    "title": "Hydraulic Ram Pump! (Moves Water Uphill Forever With No Power). A 200-Year-Old Secret.",
+    "meta": [
+     "9.4K",
+     "2mo ago"
+    ],
+    "dur": "24:44",
+    "views_tab": 9400
+   },
+   {
+    "id": "ibjWTB-kgmw",
+    "title": "We Achieved 10 DEGREES Cooler Air With This And Bills Lower!",
+    "meta": [
+     "8.8K",
+     "2mo ago"
+    ],
+    "dur": "24:56",
+    "views_tab": 8800
+   },
+   {
+    "id": "xekyyrqwmAU",
+    "title": "7 AC Mistakes HVAC Companies Hope You Keep Making (#5 Costs $340)",
+    "meta": [
+     "9.6K",
+     "2mo ago"
+    ],
+    "dur": "25:02",
+    "views_tab": 9600
+   },
+   {
+    "id": "kTocpBuvVzU",
+    "title": "11 Things Plumbers Don't Want You to Know About a $4 Jug of Vinegar (#4 Saves $1,600)",
+    "meta": [
+     "565",
+     "2mo ago"
+    ],
+    "dur": "24:20",
+    "views_tab": 565
+   },
+   {
+    "id": "OnnqrCiFv4A",
+    "title": "9 Things HVAC Techs Don't Want You to Know About HYDROGEN PEROXIDE (#6 Stops the Ceiling Leak)",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "25:34",
+    "views_tab": 1200
+   },
+   {
+    "id": "dCdBBGeBOGo",
+    "title": "Why Your Water Heater Dies in Year 7 (The $19 Rod Nobody Mentions)",
+    "meta": [
+     "284",
+     "2mo ago"
+    ],
+    "dur": "25:03",
+    "views_tab": 284
+   },
+   {
+    "id": "XnKhbhFZ6nQ",
+    "title": "5 Thermostat Habits That Kill the $10 Part Your AC Depends On",
+    "meta": [
+     "258",
+     "1mo ago"
+    ],
+    "dur": "24:58",
+    "views_tab": 258
+   },
+   {
+    "id": "Mm-ti6n0pWw",
+    "title": "Your Premium Air Filter Can Damage Your HVAC System",
+    "meta": [
+     "209",
+     "1mo ago"
+    ],
+    "dur": "19:47",
+    "views_tab": 209
+   },
+   {
+    "id": "AQ53YH82fCI",
+    "title": "Before You Waterproof Your Basement, Check Where Your Roof Water Goes",
+    "meta": [
+     "255",
+     "1mo ago"
+    ],
+    "dur": "17:38",
+    "views_tab": 255
+   }
+  ]
+ }
+}

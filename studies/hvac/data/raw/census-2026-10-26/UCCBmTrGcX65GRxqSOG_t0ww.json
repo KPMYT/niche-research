@@ -1,0 +1,1452 @@
+{
+ "key": "UCCBmTrGcX65GRxqSOG_t0ww",
+ "channel": "Building Systems Academy",
+ "id": "UCCBmTrGcX65GRxqSOG_t0ww",
+ "subs": "2.32K subscribers",
+ "videos": "58 videos",
+ "pulled": "2026-10-26T06:52:15.656306+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 2,
+  "Popular": 2,
+  "Oldest": 2
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "aDhLuPZQWrI",
+    "title": "HVAC Controllers Explained \ud83e\udde0 How HVAC Systems Make Control Decisions",
+    "meta": [
+     "161",
+     "16h ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 161
+   },
+   {
+    "id": "1H1NyhfGcoA",
+    "title": "HVAC Actuators Explained \u2699\ufe0f How Valves & Dampers Move",
+    "meta": [
+     "Premieres 10/28/26, 3:00\u202fPM"
+    ],
+    "dur": null,
+    "views_tab": null
+   },
+   {
+    "id": "Eh-GzMC83FY",
+    "title": "HVAC Sensors Explained \ud83c\udf21\ufe0f How Buildings Measure Temperature, Humidity & Pressure",
+    "meta": [
+     "203",
+     "2d ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 203
+   },
+   {
+    "id": "FhraK_EPa8Y",
+    "title": "HVAC Controls Explained \ud83c\udf21\ufe0f How Heating & Cooling Stay on Target",
+    "meta": [
+     "189",
+     "4d ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 189
+   },
+   {
+    "id": "DasZpx8kePU",
+    "title": "Building Automation Systems Explained \ud83c\udfe2 How BAS Controls Buildings.",
+    "meta": [
+     "389",
+     "7d ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 389
+   },
+   {
+    "id": "PrdT-BSX1EQ",
+    "title": "How a Commercial HVAC System Works \ud83c\udfe2 Heating, Cooling & Airflow Explained",
+    "meta": [
+     "717",
+     "11d ago"
+    ],
+    "dur": "12:04",
+    "views_tab": 717
+   },
+   {
+    "id": "M17kdVn0sac",
+    "title": "Expansion Tanks Explained \ud83d\udca7 How HVAC Systems Manage Water Expansion & Pressure",
+    "meta": [
+     "960",
+     "2w ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 960
+   },
+   {
+    "id": "Bj-dbtHbuZ4",
+    "title": "Boilers Explained \ud83d\udd25 How Commercial Buildings Make Hot Water & Steam",
+    "meta": [
+     "529",
+     "2w ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 529
+   },
+   {
+    "id": "ZzcqFrdkyJk",
+    "title": "Steam Systems Explained \ud83d\udd25 How Steam Heats Commercial Buildings",
+    "meta": [
+     "442",
+     "2w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 442
+   },
+   {
+    "id": "TPxe0001OMQ",
+    "title": "Primary & Secondary Pumping Explained \ud83d\udca7 How Chilled Water Reaches Every Zone",
+    "meta": [
+     "670",
+     "3w ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 670
+   },
+   {
+    "id": "NRgA63lxeT4",
+    "title": "Absorption Chillers Explained \ud83d\udd25 How Heat Produces Cooling",
+    "meta": [
+     "599",
+     "3w ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 599
+   },
+   {
+    "id": "Ah2hNpSS6EI",
+    "title": "Condenser Water Systems Explained \ud83d\udca7 How Chillers & Cooling Towers Reject Heat",
+    "meta": [
+     "808",
+     "3w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 808
+   },
+   {
+    "id": "G9hvWorpe9Y",
+    "title": "Chilled Water Systems Explained \u2744\ufe0f How Chillers, Pumps & Coils Cool Buildings",
+    "meta": [
+     "1.4K",
+     "4w ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 1400
+   },
+   {
+    "id": "q1HXoSsyoE8",
+    "title": "TXV vs. EEV: Why Commercial HVAC Is Going Digital",
+    "meta": [
+     "346",
+     "4w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 346
+   },
+   {
+    "id": "G-A3kHYX6O0",
+    "title": "Variable Frequency Drives Explained \u26a1 How VFDs Control HVAC Fans & Pumps",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 1400
+   },
+   {
+    "id": "81C91T7SpD0",
+    "title": "Ductwork & Air Distribution Explained \ud83c\udf2c\ufe0f How HVAC Air Reaches Every Room",
+    "meta": [
+     "876",
+     "1mo ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 876
+   },
+   {
+    "id": "4wrjR3OM4hk",
+    "title": "Air Filters Explained \ud83c\udf2c\ufe0f MERV Ratings, HEPA & HVAC Airflow",
+    "meta": [
+     "436",
+     "1mo ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 436
+   },
+   {
+    "id": "QERqfYRvhdY",
+    "title": "Indoor Air Quality & Climate Control Explained \ud83c\udf2c\ufe0f How Commercial HVAC Manages Comfort",
+    "meta": [
+     "365",
+     "1mo ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 365
+   },
+   {
+    "id": "RqzOt-etSec",
+    "title": "Humidity Explained \ud83d\udca7 How HVAC Controls Moisture, Comfort & Indoor Air Quality",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "10:59",
+    "views_tab": 1300
+   },
+   {
+    "id": "GJ_iluVjF_g",
+    "title": "Psychrometrics Explained \ud83c\udf21\ufe0f How to Read a Psychrometrics Chart for HVAC",
+    "meta": [
+     "431",
+     "1mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 431
+   },
+   {
+    "id": "-0yW6kZPd8A",
+    "title": "Refrigerants Explained \u2744\ufe0f \ud83c\udf21\ufe0f",
+    "meta": [
+     "5.2K",
+     "1mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5200
+   },
+   {
+    "id": "V7WlhzcIzcM",
+    "title": "Heat Pumps Explained \ud83d\udd25\u2744\ufe0f How They Heat and Cool Buildings",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "dPa22flmp4k",
+    "title": "Heating Coils Explained: How HVAC Systems Heat and Reheat Air",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "17:29",
+    "views_tab": 1200
+   },
+   {
+    "id": "4YH0d9xuoS4",
+    "title": "Cooling Coils Explained: How HVAC Systems Cool and Dehumidify Air",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "TlEwQIAHbpM",
+    "title": "VAV Boxes Explained: How They Control Airflow and Temperature in Buildings",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 7800
+   },
+   {
+    "id": "tQUoQrS4Y9w",
+    "title": "Fan Coil Units Explained: How FCUs Heat and Cool Individual Spaces",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "12:03",
+    "views_tab": 1200
+   },
+   {
+    "id": "SEqhc0O3Rbw",
+    "title": "Air Handling Units Explained: How AHUs Heat, Cool, Filter & Move Air",
+    "meta": [
+     "4.6K",
+     "2mo ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 4600
+   },
+   {
+    "id": "kmoV6M99dIU",
+    "title": "\u26a1 MOTORS EXPLAINED: How Electric Motors Power HVAC Systems! \ud83d\udd27\ud83d\udca8",
+    "meta": [
+     "2.3K",
+     "2mo ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "3C1G9yC0Pws",
+    "title": "Welcome to Building Systems Academy | Learn How Buildings Work",
+    "meta": [
+     "689",
+     "2mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 689
+   },
+   {
+    "id": "pmasvNUiQKw",
+    "title": "\ud83c\udfe2\ud83d\udca8 COOLING TOWERS EXPLAINED: How Buildings Get Rid of Heat! \ud83d\udca7\u2744\ufe0f",
+    "meta": [
+     "7.3K",
+     "2mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 7300
+   }
+  ],
+  "Latest": [
+   {
+    "id": "aDhLuPZQWrI",
+    "title": "HVAC Controllers Explained \ud83e\udde0 How HVAC Systems Make Control Decisions",
+    "meta": [
+     "161",
+     "16h ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 161
+   },
+   {
+    "id": "1H1NyhfGcoA",
+    "title": "HVAC Actuators Explained \u2699\ufe0f How Valves & Dampers Move",
+    "meta": [
+     "Premieres 10/28/26, 3:00\u202fPM"
+    ],
+    "dur": null,
+    "views_tab": null
+   },
+   {
+    "id": "Eh-GzMC83FY",
+    "title": "HVAC Sensors Explained \ud83c\udf21\ufe0f How Buildings Measure Temperature, Humidity & Pressure",
+    "meta": [
+     "203",
+     "2d ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 203
+   },
+   {
+    "id": "FhraK_EPa8Y",
+    "title": "HVAC Controls Explained \ud83c\udf21\ufe0f How Heating & Cooling Stay on Target",
+    "meta": [
+     "189",
+     "4d ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 189
+   },
+   {
+    "id": "DasZpx8kePU",
+    "title": "Building Automation Systems Explained \ud83c\udfe2 How BAS Controls Buildings.",
+    "meta": [
+     "389",
+     "7d ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 389
+   },
+   {
+    "id": "PrdT-BSX1EQ",
+    "title": "How a Commercial HVAC System Works \ud83c\udfe2 Heating, Cooling & Airflow Explained",
+    "meta": [
+     "717",
+     "11d ago"
+    ],
+    "dur": "12:04",
+    "views_tab": 717
+   },
+   {
+    "id": "M17kdVn0sac",
+    "title": "Expansion Tanks Explained \ud83d\udca7 How HVAC Systems Manage Water Expansion & Pressure",
+    "meta": [
+     "960",
+     "2w ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 960
+   },
+   {
+    "id": "Bj-dbtHbuZ4",
+    "title": "Boilers Explained \ud83d\udd25 How Commercial Buildings Make Hot Water & Steam",
+    "meta": [
+     "529",
+     "2w ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 529
+   },
+   {
+    "id": "ZzcqFrdkyJk",
+    "title": "Steam Systems Explained \ud83d\udd25 How Steam Heats Commercial Buildings",
+    "meta": [
+     "442",
+     "2w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 442
+   },
+   {
+    "id": "TPxe0001OMQ",
+    "title": "Primary & Secondary Pumping Explained \ud83d\udca7 How Chilled Water Reaches Every Zone",
+    "meta": [
+     "670",
+     "3w ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 670
+   },
+   {
+    "id": "NRgA63lxeT4",
+    "title": "Absorption Chillers Explained \ud83d\udd25 How Heat Produces Cooling",
+    "meta": [
+     "599",
+     "3w ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 599
+   },
+   {
+    "id": "Ah2hNpSS6EI",
+    "title": "Condenser Water Systems Explained \ud83d\udca7 How Chillers & Cooling Towers Reject Heat",
+    "meta": [
+     "808",
+     "3w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 808
+   },
+   {
+    "id": "G9hvWorpe9Y",
+    "title": "Chilled Water Systems Explained \u2744\ufe0f How Chillers, Pumps & Coils Cool Buildings",
+    "meta": [
+     "1.4K",
+     "4w ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 1400
+   },
+   {
+    "id": "q1HXoSsyoE8",
+    "title": "TXV vs. EEV: Why Commercial HVAC Is Going Digital",
+    "meta": [
+     "346",
+     "4w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 346
+   },
+   {
+    "id": "G-A3kHYX6O0",
+    "title": "Variable Frequency Drives Explained \u26a1 How VFDs Control HVAC Fans & Pumps",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 1400
+   },
+   {
+    "id": "81C91T7SpD0",
+    "title": "Ductwork & Air Distribution Explained \ud83c\udf2c\ufe0f How HVAC Air Reaches Every Room",
+    "meta": [
+     "876",
+     "1mo ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 876
+   },
+   {
+    "id": "4wrjR3OM4hk",
+    "title": "Air Filters Explained \ud83c\udf2c\ufe0f MERV Ratings, HEPA & HVAC Airflow",
+    "meta": [
+     "436",
+     "1mo ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 436
+   },
+   {
+    "id": "QERqfYRvhdY",
+    "title": "Indoor Air Quality & Climate Control Explained \ud83c\udf2c\ufe0f How Commercial HVAC Manages Comfort",
+    "meta": [
+     "365",
+     "1mo ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 365
+   },
+   {
+    "id": "RqzOt-etSec",
+    "title": "Humidity Explained \ud83d\udca7 How HVAC Controls Moisture, Comfort & Indoor Air Quality",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "10:59",
+    "views_tab": 1300
+   },
+   {
+    "id": "GJ_iluVjF_g",
+    "title": "Psychrometrics Explained \ud83c\udf21\ufe0f How to Read a Psychrometrics Chart for HVAC",
+    "meta": [
+     "431",
+     "1mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 431
+   },
+   {
+    "id": "-0yW6kZPd8A",
+    "title": "Refrigerants Explained \u2744\ufe0f \ud83c\udf21\ufe0f",
+    "meta": [
+     "5.2K",
+     "1mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5200
+   },
+   {
+    "id": "V7WlhzcIzcM",
+    "title": "Heat Pumps Explained \ud83d\udd25\u2744\ufe0f How They Heat and Cool Buildings",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "dPa22flmp4k",
+    "title": "Heating Coils Explained: How HVAC Systems Heat and Reheat Air",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "17:29",
+    "views_tab": 1200
+   },
+   {
+    "id": "4YH0d9xuoS4",
+    "title": "Cooling Coils Explained: How HVAC Systems Cool and Dehumidify Air",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "TlEwQIAHbpM",
+    "title": "VAV Boxes Explained: How They Control Airflow and Temperature in Buildings",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 7800
+   },
+   {
+    "id": "tQUoQrS4Y9w",
+    "title": "Fan Coil Units Explained: How FCUs Heat and Cool Individual Spaces",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "12:03",
+    "views_tab": 1200
+   },
+   {
+    "id": "SEqhc0O3Rbw",
+    "title": "Air Handling Units Explained: How AHUs Heat, Cool, Filter & Move Air",
+    "meta": [
+     "4.6K",
+     "2mo ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 4600
+   },
+   {
+    "id": "kmoV6M99dIU",
+    "title": "\u26a1 MOTORS EXPLAINED: How Electric Motors Power HVAC Systems! \ud83d\udd27\ud83d\udca8",
+    "meta": [
+     "2.3K",
+     "2mo ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "3C1G9yC0Pws",
+    "title": "Welcome to Building Systems Academy | Learn How Buildings Work",
+    "meta": [
+     "689",
+     "2mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 689
+   },
+   {
+    "id": "pmasvNUiQKw",
+    "title": "\ud83c\udfe2\ud83d\udca8 COOLING TOWERS EXPLAINED: How Buildings Get Rid of Heat! \ud83d\udca7\u2744\ufe0f",
+    "meta": [
+     "7.3K",
+     "2mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 7300
+   },
+   {
+    "id": "A4aJMjTaAkY",
+    "title": "\u2744\ufe0f Chillers Explained: How Commercial Buildings Stay Cool with Chilled Water! \ud83c\udfe2\u2699\ufe0f",
+    "meta": [
+     "29K",
+     "2mo ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 29000
+   },
+   {
+    "id": "8AzDSTxKLUk",
+    "title": "\u2699\ufe0f Expansion Valves Explained: How Refrigerant Is Controlled in Every AC System! \u2744\ufe0f\ud83c\udf21\ufe0f",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 23000
+   },
+   {
+    "id": "5Hpklfmd5DI",
+    "title": "\u2744\ufe0f Evaporators Explained: How Your AC Absorbs Heat & Creates Cold Air! \ud83c\udf2c\ufe0f\u2699\ufe0f",
+    "meta": [
+     "6.4K",
+     "2mo ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 6400
+   },
+   {
+    "id": "-ZdjVN6jacE",
+    "title": "\ud83d\udca7\u2699\ufe0f Pumps Explained: How HVAC Pumps Move Water Through Buildings! \ud83c\udfe2",
+    "meta": [
+     "1.5K",
+     "2mo ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 1500
+   },
+   {
+    "id": "oRC4JWwWw5k",
+    "title": "\u2744\ufe0f\ud83d\udd25 Condensers Explained \ufffc: How HVAC Condensers Remove Heat & Keep Your AC Running! \ud83c\udf2c\ufe0f\u2699\ufe0f",
+    "meta": [
+     "3K",
+     "2mo ago"
+    ],
+    "dur": "9:38",
+    "views_tab": 3000
+   },
+   {
+    "id": "YlH77hAckak",
+    "title": "\u2699\ufe0f Compressors Explained: The Heart of the Refrigeration System \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "1.9K",
+     "2mo ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1900
+   },
+   {
+    "id": "Y6ps1uo33Xo",
+    "title": "\u2744\ufe0f How Air Conditioners Work: The Refrigeration Cycle Explained",
+    "meta": [
+     "11K",
+     "3mo ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 11000
+   },
+   {
+    "id": "AYo622DX6jI",
+    "title": "\u2744\ufe0f\ud83d\udd27 How Air Conditioning Actually Works | AC System Explained in 5 Minutes \ud83c\udfe2\u2699\ufe0f",
+    "meta": [
+     "4K",
+     "3mo ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 4000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "A4aJMjTaAkY",
+    "title": "\u2744\ufe0f Chillers Explained: How Commercial Buildings Stay Cool with Chilled Water! \ud83c\udfe2\u2699\ufe0f",
+    "meta": [
+     "29K",
+     "2mo ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 29000
+   },
+   {
+    "id": "8AzDSTxKLUk",
+    "title": "\u2699\ufe0f Expansion Valves Explained: How Refrigerant Is Controlled in Every AC System! \u2744\ufe0f\ud83c\udf21\ufe0f",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 23000
+   },
+   {
+    "id": "Y6ps1uo33Xo",
+    "title": "\u2744\ufe0f How Air Conditioners Work: The Refrigeration Cycle Explained",
+    "meta": [
+     "11K",
+     "3mo ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 11000
+   },
+   {
+    "id": "TlEwQIAHbpM",
+    "title": "VAV Boxes Explained: How They Control Airflow and Temperature in Buildings",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 7800
+   },
+   {
+    "id": "pmasvNUiQKw",
+    "title": "\ud83c\udfe2\ud83d\udca8 COOLING TOWERS EXPLAINED: How Buildings Get Rid of Heat! \ud83d\udca7\u2744\ufe0f",
+    "meta": [
+     "7.3K",
+     "2mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 7300
+   },
+   {
+    "id": "5Hpklfmd5DI",
+    "title": "\u2744\ufe0f Evaporators Explained: How Your AC Absorbs Heat & Creates Cold Air! \ud83c\udf2c\ufe0f\u2699\ufe0f",
+    "meta": [
+     "6.4K",
+     "2mo ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 6400
+   },
+   {
+    "id": "-0yW6kZPd8A",
+    "title": "Refrigerants Explained \u2744\ufe0f \ud83c\udf21\ufe0f",
+    "meta": [
+     "5.2K",
+     "1mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5200
+   },
+   {
+    "id": "SEqhc0O3Rbw",
+    "title": "Air Handling Units Explained: How AHUs Heat, Cool, Filter & Move Air",
+    "meta": [
+     "4.6K",
+     "2mo ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 4600
+   },
+   {
+    "id": "AYo622DX6jI",
+    "title": "\u2744\ufe0f\ud83d\udd27 How Air Conditioning Actually Works | AC System Explained in 5 Minutes \ud83c\udfe2\u2699\ufe0f",
+    "meta": [
+     "4K",
+     "3mo ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 4000
+   },
+   {
+    "id": "oRC4JWwWw5k",
+    "title": "\u2744\ufe0f\ud83d\udd25 Condensers Explained \ufffc: How HVAC Condensers Remove Heat & Keep Your AC Running! \ud83c\udf2c\ufe0f\u2699\ufe0f",
+    "meta": [
+     "3K",
+     "2mo ago"
+    ],
+    "dur": "9:38",
+    "views_tab": 3000
+   },
+   {
+    "id": "kmoV6M99dIU",
+    "title": "\u26a1 MOTORS EXPLAINED: How Electric Motors Power HVAC Systems! \ud83d\udd27\ud83d\udca8",
+    "meta": [
+     "2.3K",
+     "2mo ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "YlH77hAckak",
+    "title": "\u2699\ufe0f Compressors Explained: The Heart of the Refrigeration System \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "1.9K",
+     "2mo ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1900
+   },
+   {
+    "id": "V7WlhzcIzcM",
+    "title": "Heat Pumps Explained \ud83d\udd25\u2744\ufe0f How They Heat and Cool Buildings",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "-ZdjVN6jacE",
+    "title": "\ud83d\udca7\u2699\ufe0f Pumps Explained: How HVAC Pumps Move Water Through Buildings! \ud83c\udfe2",
+    "meta": [
+     "1.5K",
+     "2mo ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 1500
+   },
+   {
+    "id": "4YH0d9xuoS4",
+    "title": "Cooling Coils Explained: How HVAC Systems Cool and Dehumidify Air",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "G9hvWorpe9Y",
+    "title": "Chilled Water Systems Explained \u2744\ufe0f How Chillers, Pumps & Coils Cool Buildings",
+    "meta": [
+     "1.4K",
+     "4w ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 1400
+   },
+   {
+    "id": "G-A3kHYX6O0",
+    "title": "Variable Frequency Drives Explained \u26a1 How VFDs Control HVAC Fans & Pumps",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 1400
+   },
+   {
+    "id": "RqzOt-etSec",
+    "title": "Humidity Explained \ud83d\udca7 How HVAC Controls Moisture, Comfort & Indoor Air Quality",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "10:59",
+    "views_tab": 1300
+   },
+   {
+    "id": "tQUoQrS4Y9w",
+    "title": "Fan Coil Units Explained: How FCUs Heat and Cool Individual Spaces",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "12:03",
+    "views_tab": 1200
+   },
+   {
+    "id": "dPa22flmp4k",
+    "title": "Heating Coils Explained: How HVAC Systems Heat and Reheat Air",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "17:29",
+    "views_tab": 1200
+   },
+   {
+    "id": "M17kdVn0sac",
+    "title": "Expansion Tanks Explained \ud83d\udca7 How HVAC Systems Manage Water Expansion & Pressure",
+    "meta": [
+     "960",
+     "2w ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 960
+   },
+   {
+    "id": "81C91T7SpD0",
+    "title": "Ductwork & Air Distribution Explained \ud83c\udf2c\ufe0f How HVAC Air Reaches Every Room",
+    "meta": [
+     "876",
+     "1mo ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 876
+   },
+   {
+    "id": "Ah2hNpSS6EI",
+    "title": "Condenser Water Systems Explained \ud83d\udca7 How Chillers & Cooling Towers Reject Heat",
+    "meta": [
+     "808",
+     "3w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 808
+   },
+   {
+    "id": "PrdT-BSX1EQ",
+    "title": "How a Commercial HVAC System Works \ud83c\udfe2 Heating, Cooling & Airflow Explained",
+    "meta": [
+     "717",
+     "11d ago"
+    ],
+    "dur": "12:04",
+    "views_tab": 717
+   },
+   {
+    "id": "3C1G9yC0Pws",
+    "title": "Welcome to Building Systems Academy | Learn How Buildings Work",
+    "meta": [
+     "689",
+     "2mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 689
+   },
+   {
+    "id": "TPxe0001OMQ",
+    "title": "Primary & Secondary Pumping Explained \ud83d\udca7 How Chilled Water Reaches Every Zone",
+    "meta": [
+     "670",
+     "3w ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 670
+   },
+   {
+    "id": "NRgA63lxeT4",
+    "title": "Absorption Chillers Explained \ud83d\udd25 How Heat Produces Cooling",
+    "meta": [
+     "601",
+     "3w ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 601
+   },
+   {
+    "id": "Bj-dbtHbuZ4",
+    "title": "Boilers Explained \ud83d\udd25 How Commercial Buildings Make Hot Water & Steam",
+    "meta": [
+     "529",
+     "2w ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 529
+   },
+   {
+    "id": "ZzcqFrdkyJk",
+    "title": "Steam Systems Explained \ud83d\udd25 How Steam Heats Commercial Buildings",
+    "meta": [
+     "442",
+     "2w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 442
+   },
+   {
+    "id": "4wrjR3OM4hk",
+    "title": "Air Filters Explained \ud83c\udf2c\ufe0f MERV Ratings, HEPA & HVAC Airflow",
+    "meta": [
+     "436",
+     "1mo ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 436
+   },
+   {
+    "id": "GJ_iluVjF_g",
+    "title": "Psychrometrics Explained \ud83c\udf21\ufe0f How to Read a Psychrometrics Chart for HVAC",
+    "meta": [
+     "431",
+     "1mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 431
+   },
+   {
+    "id": "DasZpx8kePU",
+    "title": "Building Automation Systems Explained \ud83c\udfe2 How BAS Controls Buildings.",
+    "meta": [
+     "389",
+     "7d ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 389
+   },
+   {
+    "id": "QERqfYRvhdY",
+    "title": "Indoor Air Quality & Climate Control Explained \ud83c\udf2c\ufe0f How Commercial HVAC Manages Comfort",
+    "meta": [
+     "365",
+     "1mo ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 365
+   },
+   {
+    "id": "q1HXoSsyoE8",
+    "title": "TXV vs. EEV: Why Commercial HVAC Is Going Digital",
+    "meta": [
+     "346",
+     "4w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 346
+   },
+   {
+    "id": "Eh-GzMC83FY",
+    "title": "HVAC Sensors Explained \ud83c\udf21\ufe0f How Buildings Measure Temperature, Humidity & Pressure",
+    "meta": [
+     "203",
+     "2d ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 203
+   },
+   {
+    "id": "FhraK_EPa8Y",
+    "title": "HVAC Controls Explained \ud83c\udf21\ufe0f How Heating & Cooling Stay on Target",
+    "meta": [
+     "189",
+     "4d ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 189
+   },
+   {
+    "id": "aDhLuPZQWrI",
+    "title": "HVAC Controllers Explained \ud83e\udde0 How HVAC Systems Make Control Decisions",
+    "meta": [
+     "161",
+     "16h ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 161
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "AYo622DX6jI",
+    "title": "\u2744\ufe0f\ud83d\udd27 How Air Conditioning Actually Works | AC System Explained in 5 Minutes \ud83c\udfe2\u2699\ufe0f",
+    "meta": [
+     "4K",
+     "3mo ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 4000
+   },
+   {
+    "id": "Y6ps1uo33Xo",
+    "title": "\u2744\ufe0f How Air Conditioners Work: The Refrigeration Cycle Explained",
+    "meta": [
+     "11K",
+     "3mo ago"
+    ],
+    "dur": "8:21",
+    "views_tab": 11000
+   },
+   {
+    "id": "YlH77hAckak",
+    "title": "\u2699\ufe0f Compressors Explained: The Heart of the Refrigeration System \u2744\ufe0f\ud83d\udd25",
+    "meta": [
+     "1.9K",
+     "2mo ago"
+    ],
+    "dur": "8:15",
+    "views_tab": 1900
+   },
+   {
+    "id": "oRC4JWwWw5k",
+    "title": "\u2744\ufe0f\ud83d\udd25 Condensers Explained \ufffc: How HVAC Condensers Remove Heat & Keep Your AC Running! \ud83c\udf2c\ufe0f\u2699\ufe0f",
+    "meta": [
+     "3K",
+     "2mo ago"
+    ],
+    "dur": "9:38",
+    "views_tab": 3000
+   },
+   {
+    "id": "-ZdjVN6jacE",
+    "title": "\ud83d\udca7\u2699\ufe0f Pumps Explained: How HVAC Pumps Move Water Through Buildings! \ud83c\udfe2",
+    "meta": [
+     "1.5K",
+     "2mo ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 1500
+   },
+   {
+    "id": "5Hpklfmd5DI",
+    "title": "\u2744\ufe0f Evaporators Explained: How Your AC Absorbs Heat & Creates Cold Air! \ud83c\udf2c\ufe0f\u2699\ufe0f",
+    "meta": [
+     "6.4K",
+     "2mo ago"
+    ],
+    "dur": "10:29",
+    "views_tab": 6400
+   },
+   {
+    "id": "8AzDSTxKLUk",
+    "title": "\u2699\ufe0f Expansion Valves Explained: How Refrigerant Is Controlled in Every AC System! \u2744\ufe0f\ud83c\udf21\ufe0f",
+    "meta": [
+     "23K",
+     "2mo ago"
+    ],
+    "dur": "10:13",
+    "views_tab": 23000
+   },
+   {
+    "id": "A4aJMjTaAkY",
+    "title": "\u2744\ufe0f Chillers Explained: How Commercial Buildings Stay Cool with Chilled Water! \ud83c\udfe2\u2699\ufe0f",
+    "meta": [
+     "29K",
+     "2mo ago"
+    ],
+    "dur": "10:54",
+    "views_tab": 29000
+   },
+   {
+    "id": "pmasvNUiQKw",
+    "title": "\ud83c\udfe2\ud83d\udca8 COOLING TOWERS EXPLAINED: How Buildings Get Rid of Heat! \ud83d\udca7\u2744\ufe0f",
+    "meta": [
+     "7.3K",
+     "2mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 7300
+   },
+   {
+    "id": "3C1G9yC0Pws",
+    "title": "Welcome to Building Systems Academy | Learn How Buildings Work",
+    "meta": [
+     "689",
+     "2mo ago"
+    ],
+    "dur": "1:09",
+    "views_tab": 689
+   },
+   {
+    "id": "kmoV6M99dIU",
+    "title": "\u26a1 MOTORS EXPLAINED: How Electric Motors Power HVAC Systems! \ud83d\udd27\ud83d\udca8",
+    "meta": [
+     "2.3K",
+     "2mo ago"
+    ],
+    "dur": "11:56",
+    "views_tab": 2300
+   },
+   {
+    "id": "SEqhc0O3Rbw",
+    "title": "Air Handling Units Explained: How AHUs Heat, Cool, Filter & Move Air",
+    "meta": [
+     "4.6K",
+     "2mo ago"
+    ],
+    "dur": "14:30",
+    "views_tab": 4600
+   },
+   {
+    "id": "tQUoQrS4Y9w",
+    "title": "Fan Coil Units Explained: How FCUs Heat and Cool Individual Spaces",
+    "meta": [
+     "1.2K",
+     "2mo ago"
+    ],
+    "dur": "12:03",
+    "views_tab": 1200
+   },
+   {
+    "id": "TlEwQIAHbpM",
+    "title": "VAV Boxes Explained: How They Control Airflow and Temperature in Buildings",
+    "meta": [
+     "7.8K",
+     "1mo ago"
+    ],
+    "dur": "13:47",
+    "views_tab": 7800
+   },
+   {
+    "id": "4YH0d9xuoS4",
+    "title": "Cooling Coils Explained: How HVAC Systems Cool and Dehumidify Air",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "15:58",
+    "views_tab": 1400
+   },
+   {
+    "id": "dPa22flmp4k",
+    "title": "Heating Coils Explained: How HVAC Systems Heat and Reheat Air",
+    "meta": [
+     "1.2K",
+     "1mo ago"
+    ],
+    "dur": "17:29",
+    "views_tab": 1200
+   },
+   {
+    "id": "V7WlhzcIzcM",
+    "title": "Heat Pumps Explained \ud83d\udd25\u2744\ufe0f How They Heat and Cool Buildings",
+    "meta": [
+     "1.8K",
+     "1mo ago"
+    ],
+    "dur": "14:40",
+    "views_tab": 1800
+   },
+   {
+    "id": "-0yW6kZPd8A",
+    "title": "Refrigerants Explained \u2744\ufe0f \ud83c\udf21\ufe0f",
+    "meta": [
+     "5.2K",
+     "1mo ago"
+    ],
+    "dur": "14:17",
+    "views_tab": 5200
+   },
+   {
+    "id": "GJ_iluVjF_g",
+    "title": "Psychrometrics Explained \ud83c\udf21\ufe0f How to Read a Psychrometrics Chart for HVAC",
+    "meta": [
+     "431",
+     "1mo ago"
+    ],
+    "dur": "10:05",
+    "views_tab": 431
+   },
+   {
+    "id": "RqzOt-etSec",
+    "title": "Humidity Explained \ud83d\udca7 How HVAC Controls Moisture, Comfort & Indoor Air Quality",
+    "meta": [
+     "1.3K",
+     "1mo ago"
+    ],
+    "dur": "10:59",
+    "views_tab": 1300
+   },
+   {
+    "id": "QERqfYRvhdY",
+    "title": "Indoor Air Quality & Climate Control Explained \ud83c\udf2c\ufe0f How Commercial HVAC Manages Comfort",
+    "meta": [
+     "365",
+     "1mo ago"
+    ],
+    "dur": "12:47",
+    "views_tab": 365
+   },
+   {
+    "id": "4wrjR3OM4hk",
+    "title": "Air Filters Explained \ud83c\udf2c\ufe0f MERV Ratings, HEPA & HVAC Airflow",
+    "meta": [
+     "436",
+     "1mo ago"
+    ],
+    "dur": "9:20",
+    "views_tab": 436
+   },
+   {
+    "id": "81C91T7SpD0",
+    "title": "Ductwork & Air Distribution Explained \ud83c\udf2c\ufe0f How HVAC Air Reaches Every Room",
+    "meta": [
+     "876",
+     "1mo ago"
+    ],
+    "dur": "9:22",
+    "views_tab": 876
+   },
+   {
+    "id": "G-A3kHYX6O0",
+    "title": "Variable Frequency Drives Explained \u26a1 How VFDs Control HVAC Fans & Pumps",
+    "meta": [
+     "1.4K",
+     "1mo ago"
+    ],
+    "dur": "11:24",
+    "views_tab": 1400
+   },
+   {
+    "id": "q1HXoSsyoE8",
+    "title": "TXV vs. EEV: Why Commercial HVAC Is Going Digital",
+    "meta": [
+     "346",
+     "4w ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 346
+   },
+   {
+    "id": "G9hvWorpe9Y",
+    "title": "Chilled Water Systems Explained \u2744\ufe0f How Chillers, Pumps & Coils Cool Buildings",
+    "meta": [
+     "1.4K",
+     "4w ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 1400
+   },
+   {
+    "id": "Ah2hNpSS6EI",
+    "title": "Condenser Water Systems Explained \ud83d\udca7 How Chillers & Cooling Towers Reject Heat",
+    "meta": [
+     "808",
+     "3w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 808
+   },
+   {
+    "id": "NRgA63lxeT4",
+    "title": "Absorption Chillers Explained \ud83d\udd25 How Heat Produces Cooling",
+    "meta": [
+     "601",
+     "3w ago"
+    ],
+    "dur": "14:09",
+    "views_tab": 601
+   },
+   {
+    "id": "TPxe0001OMQ",
+    "title": "Primary & Secondary Pumping Explained \ud83d\udca7 How Chilled Water Reaches Every Zone",
+    "meta": [
+     "670",
+     "3w ago"
+    ],
+    "dur": "11:39",
+    "views_tab": 670
+   },
+   {
+    "id": "ZzcqFrdkyJk",
+    "title": "Steam Systems Explained \ud83d\udd25 How Steam Heats Commercial Buildings",
+    "meta": [
+     "442",
+     "2w ago"
+    ],
+    "dur": "11:10",
+    "views_tab": 442
+   },
+   {
+    "id": "Bj-dbtHbuZ4",
+    "title": "Boilers Explained \ud83d\udd25 How Commercial Buildings Make Hot Water & Steam",
+    "meta": [
+     "529",
+     "2w ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 529
+   },
+   {
+    "id": "M17kdVn0sac",
+    "title": "Expansion Tanks Explained \ud83d\udca7 How HVAC Systems Manage Water Expansion & Pressure",
+    "meta": [
+     "960",
+     "2w ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 960
+   },
+   {
+    "id": "PrdT-BSX1EQ",
+    "title": "How a Commercial HVAC System Works \ud83c\udfe2 Heating, Cooling & Airflow Explained",
+    "meta": [
+     "717",
+     "11d ago"
+    ],
+    "dur": "12:04",
+    "views_tab": 717
+   },
+   {
+    "id": "DasZpx8kePU",
+    "title": "Building Automation Systems Explained \ud83c\udfe2 How BAS Controls Buildings.",
+    "meta": [
+     "389",
+     "7d ago"
+    ],
+    "dur": "12:11",
+    "views_tab": 389
+   },
+   {
+    "id": "FhraK_EPa8Y",
+    "title": "HVAC Controls Explained \ud83c\udf21\ufe0f How Heating & Cooling Stay on Target",
+    "meta": [
+     "189",
+     "4d ago"
+    ],
+    "dur": "12:02",
+    "views_tab": 189
+   },
+   {
+    "id": "Eh-GzMC83FY",
+    "title": "HVAC Sensors Explained \ud83c\udf21\ufe0f How Buildings Measure Temperature, Humidity & Pressure",
+    "meta": [
+     "203",
+     "2d ago"
+    ],
+    "dur": "12:25",
+    "views_tab": 203
+   },
+   {
+    "id": "1H1NyhfGcoA",
+    "title": "HVAC Actuators Explained \u2699\ufe0f How Valves & Dampers Move",
+    "meta": [
+     "Premieres 10/28/26, 3:00\u202fPM"
+    ],
+    "dur": null,
+    "views_tab": null
+   },
+   {
+    "id": "aDhLuPZQWrI",
+    "title": "HVAC Controllers Explained \ud83e\udde0 How HVAC Systems Make Control Decisions",
+    "meta": [
+     "161",
+     "16h ago"
+    ],
+    "dur": "12:15",
+    "views_tab": 161
+   }
+  ]
+ }
+}

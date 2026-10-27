@@ -1,0 +1,4859 @@
+{
+ "checker": "round 2 checker (independent re-check), 2026-10-24",
+ "pulled": "2026-10-24 08:20-08:40 UTC (timestamps per record where the tool gives one)",
+ "sources": {
+  "innertube_next": "studies/hvac/data/tools/vid_next_batch.py",
+  "oembed": "https://www.youtube.com/oembed",
+  "nexlev": "mcp NexLev youtube_video_details (lengthSeconds, publishDate, viewCount)",
+  "about": "studies/hvac/data/tools/about_batch.py",
+  "tabs": "studies/hvac/data/tools/yt_allsorts.py",
+  "search": "search() from studies/hvac/data/tools/sweep_round2.py via tools/check_round2_search.py"
+ },
+ "sampling": {
+  "nexlev_channels": "random.seed(24); random.sample(164 table rows of 'The new channels, sorted by subscribers', 12)",
+  "old_house_heat": "random.seed(24); random.sample(79 video rows in sections 3-5 (53 with IDs + 26 faceless-table rows), 10)",
+  "old_house_heat_keywords": "random.seed(24); random.sample(sorted 48 keywords, 2)",
+  "sweep_videos": "random.seed(24); random.sample(rows of sweep-videos-2026-10-24.csv in file order, 20)",
+  "sweep_keywords": "random.seed(24); random.sample(150 PRIORITY keywords in file order, 4), one per sort",
+  "sweep_table_rows": "random.seed(124); sorted(random.sample(range(1,151),5))",
+  "formats": "random.seed(26); random.sample(rows of sweep-videos-2026-10-24.csv in file order, 60); tagged blind before reading stored tags"
+ },
+ "sweep_videos": [
+  {
+   "row": 1,
+   "id": "lHEf_gY9ifU",
+   "csv": {
+    "id": "lHEf_gY9ifU",
+    "title": "HVAC Millionaire: Huntington Beach Interview Series #1",
+    "channel": "HVACmillionaire",
+    "channelId": "UCvqYNMZq4c2sTztlX7ZqeNg",
+    "handle": "/@hvacmillionaire",
+    "views": "488",
+    "age_text": "3y ago",
+    "approx_upload_date": "2023-10-25",
+    "length_s": "691",
+    "live_replay": "",
+    "format_rule": "plain topic/other",
+    "keywords": "hvac millionaire",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "6",
+    "best_relevance_rank": "6",
+    "topics": "hvac-general",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "lHEf_gY9ifU",
+    "pulled": "2026-10-24T08:23:40.826731+00:00",
+    "source": "innertube /next videoId=lHEf_gY9ifU",
+    "title": "HVAC Millionaire: Huntington Beach Interview Series #1",
+    "views_text": "488 views",
+    "date_text": "Feb 13, 2023",
+    "owner": "HVACmillionaire",
+    "views": 488,
+    "date": "2023-02-13"
+   },
+   "nexlev": {
+    "lengthSeconds": 690,
+    "publishDate": "2023-02-13",
+    "viewCount": 488
+   },
+   "oembed": [
+    "200",
+    "HVAC Millionaire: Huntington Beach Interview Series #1",
+    "HVACmillionaire"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 2,
+   "id": "13iswBoGYKY",
+   "csv": {
+    "id": "13iswBoGYKY",
+    "title": "Part 2 - Vapor Barrier Bubble Foil Insulation Is JUNK For Metal Buildings - A BETTER Vapor Barrier.",
+    "channel": "BlueTex Insulation",
+    "channelId": "UCG0fCH41CLhviCwgBgfkwIw",
+    "handle": "/@BlueTexInsulation",
+    "views": "36183",
+    "age_text": "2y ago",
+    "approx_upload_date": "2024-10-24",
+    "length_s": "371",
+    "live_replay": "",
+    "format_rule": "plain topic/other",
+    "keywords": "insulation for metal buildings ; insulation metal building ; insulation moisture barrier",
+    "n_keywords": "3",
+    "sorts": "relevance",
+    "best_rank": "10",
+    "best_relevance_rank": "10",
+    "topics": "insulation",
+    "above_search_median": "no",
+    "searches_above": "1",
+    "searches_counted": "3",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "13iswBoGYKY",
+    "pulled": "2026-10-24T08:23:40.827186+00:00",
+    "source": "innertube /next videoId=13iswBoGYKY",
+    "title": "Part 2 - Vapor Barrier Bubble Foil Insulation Is JUNK For Metal Buildings - A BETTER Vapor Barrier.",
+    "views_text": "36,183 views",
+    "date_text": "Oct 29, 2023",
+    "owner": "BlueTex Insulation",
+    "views": 36183,
+    "date": "2023-10-29"
+   },
+   "nexlev": {
+    "lengthSeconds": 370,
+    "publishDate": "2023-10-29",
+    "viewCount": 36183
+   },
+   "oembed": [
+    "200",
+    "Part 2 - Vapor Barrier Bubble Foil Insulation Is JUNK For Metal Buildings - A BETTER Vapor Barrier.",
+    "BlueTex Insulation"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 3,
+   "id": "RJpw3rlKkP8",
+   "csv": {
+    "id": "RJpw3rlKkP8",
+    "title": "No Cool Call. Outdoor Unit Keeps Tripping the Breaker EP99",
+    "channel": "Nighthawk HVAC",
+    "channelId": "UC7fmaDG-Q4ZLKSCmIkgMVWA",
+    "handle": "/@NighthawkHVAC",
+    "views": "5429",
+    "age_text": "4y ago",
+    "approx_upload_date": "2022-10-24",
+    "length_s": "549",
+    "live_replay": "",
+    "format_rule": "symptom-fix",
+    "keywords": "furnace keeps tripping breaker ; heat pump breaker keeps tripping",
+    "n_keywords": "2",
+    "sorts": "relevance",
+    "best_rank": "17",
+    "best_relevance_rank": "17",
+    "topics": "parts",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "2",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "RJpw3rlKkP8",
+    "pulled": "2026-10-24T08:23:40.828187+00:00",
+    "source": "innertube /next videoId=RJpw3rlKkP8",
+    "title": "No Cool Call. Outdoor Unit Keeps Tripping the Breaker EP99",
+    "views_text": "5,430 views",
+    "date_text": "Sep 18, 2022",
+    "owner": "Nighthawk HVAC",
+    "views": 5430,
+    "date": "2022-09-18"
+   },
+   "nexlev": {
+    "lengthSeconds": 548,
+    "publishDate": "2022-09-18",
+    "viewCount": 5430
+   },
+   "oembed": [
+    "200",
+    "No Cool Call. Outdoor Unit Keeps Tripping the Breaker EP99",
+    "Nighthawk HVAC"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.018
+  },
+  {
+   "row": 4,
+   "id": "mxEGafgwjQw",
+   "csv": {
+    "id": "mxEGafgwjQw",
+    "title": "How to Install Google Nest Thermostat Step - By - Step Guide",
+    "channel": "Tech Talk",
+    "channelId": "UCQvSmlSWBjAAV-sgEb0wXhA",
+    "handle": "/@TechTalkvideo",
+    "views": "193905",
+    "age_text": "5y ago",
+    "approx_upload_date": "2021-10-24",
+    "length_s": "869",
+    "live_replay": "",
+    "format_rule": "install/DIY project",
+    "keywords": "nest thermostat ; nest thermostat setup",
+    "n_keywords": "2",
+    "sorts": "relevance",
+    "best_rank": "15",
+    "best_relevance_rank": "15",
+    "topics": "thermostat",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "2",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "mxEGafgwjQw",
+    "pulled": "2026-10-24T08:23:40.828586+00:00",
+    "source": "innertube /next videoId=mxEGafgwjQw",
+    "title": "How to Install Google Nest Thermostat Step - By - Step Guide",
+    "views_text": "193,906 views",
+    "date_text": "Sep 14, 2021",
+    "owner": "Tech Talk",
+    "views": 193906,
+    "date": "2021-09-14"
+   },
+   "nexlev": {
+    "lengthSeconds": 868,
+    "publishDate": "2021-09-14",
+    "viewCount": 193914
+   },
+   "oembed": [
+    "200",
+    "How to Install Google Nest Thermostat Step - By - Step Guide",
+    "Tech Talk"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.001
+  },
+  {
+   "row": 5,
+   "id": "9IxovryIb4E",
+   "csv": {
+    "id": "9IxovryIb4E",
+    "title": "Watch This BEFORE You Buy A Melting Furnace!",
+    "channel": "Lakehousebeach",
+    "channelId": "UCmj_j5lKGyrY3Q1DVx3YmVQ",
+    "handle": "/@LHBpours",
+    "views": "137235",
+    "age_text": "2y ago",
+    "approx_upload_date": "2024-10-24",
+    "length_s": "929",
+    "live_replay": "",
+    "format_rule": "before you do X",
+    "keywords": "cheap electric furnace ; cheap furnace ; cheapest furnace ; electric furnace ; furnace ; furnace cost ; furnace home ; furnace tips ; furnace tips and tricks ; furnace type ; furnace vs ; new furnace ; oil furnace vs electric furnace ; oil furnace vs propane furnace",
+    "n_keywords": "14",
+    "sorts": "relevance",
+    "best_rank": "1",
+    "best_relevance_rank": "1",
+    "topics": "electric-heat ; furnace ; oil-furnace ; replacement-cost",
+    "above_search_median": "yes",
+    "searches_above": "10",
+    "searches_counted": "14",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "9IxovryIb4E",
+    "pulled": "2026-10-24T08:23:40.829108+00:00",
+    "source": "innertube /next videoId=9IxovryIb4E",
+    "title": "Watch This BEFORE You Buy A Melting Furnace!",
+    "views_text": "137,246 views",
+    "date_text": "Premiered Nov 14, 2023",
+    "owner": "Lakehousebeach",
+    "views": 137246,
+    "date": "2023-11-14"
+   },
+   "nexlev": {
+    "lengthSeconds": 928,
+    "publishDate": "2023-11-14",
+    "viewCount": 137233
+   },
+   "oembed": [
+    "200",
+    "Watch This BEFORE You Buy A Melting Furnace!",
+    "Lakehousebeach"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.008
+  },
+  {
+   "row": 6,
+   "id": "TtjddFyfM4M",
+   "csv": {
+    "id": "TtjddFyfM4M",
+    "title": "HOW TO FIRE UP & USE YOUR WOOD COOK-STOVE - HOMESTEADING FAMILY",
+    "channel": "Homesteading Family",
+    "channelId": "UCu99W5TTPAucVN83TYQtCqQ",
+    "handle": "/@HomesteadingFamily",
+    "views": "224563",
+    "age_text": "6y ago",
+    "approx_upload_date": "2020-10-24",
+    "length_s": "1084",
+    "live_replay": "",
+    "format_rule": "how-to",
+    "keywords": "how to use wood stove ; wood burning stove tutorial",
+    "n_keywords": "2",
+    "sorts": "relevance",
+    "best_rank": "10",
+    "best_relevance_rank": "10",
+    "topics": "wood-stove",
+    "above_search_median": "no",
+    "searches_above": "1",
+    "searches_counted": "2",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "TtjddFyfM4M",
+    "pulled": "2026-10-24T08:23:40.832462+00:00",
+    "source": "innertube /next videoId=TtjddFyfM4M",
+    "title": "HOW TO FIRE UP & USE YOUR WOOD COOK-STOVE - HOMESTEADING FAMILY",
+    "views_text": "224,553 views",
+    "date_text": "Feb 15, 2020",
+    "owner": "Homesteading Family",
+    "views": 224553,
+    "date": "2020-02-15"
+   },
+   "nexlev": {
+    "lengthSeconds": 1084,
+    "publishDate": "2020-02-15",
+    "viewCount": 224564
+   },
+   "oembed": [
+    "200",
+    "HOW TO FIRE UP & USE YOUR WOOD COOK-STOVE - HOMESTEADING FAMILY",
+    "Homesteading Family"
+   ],
+   "date_ok": true,
+   "views_diff_pct": -0.004
+  },
+  {
+   "row": 7,
+   "id": "eA6YAOX1WOM",
+   "csv": {
+    "id": "eA6YAOX1WOM",
+    "title": "Toyota/Lexus V6 thermostat replacement. (3MZ-FE engine)",
+    "channel": "Helping Hand Auto Repair",
+    "channelId": "UCN7JJFh8QS323Q__3Fp30uw",
+    "handle": "/@HelpingHandAutoRepair",
+    "views": "172028",
+    "age_text": "6y ago",
+    "approx_upload_date": "2020-10-24",
+    "length_s": "1748",
+    "live_replay": "",
+    "format_rule": "how-to",
+    "keywords": "thermostat lexus is250",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "13",
+    "best_relevance_rank": "13",
+    "topics": "thermostat",
+    "above_search_median": "yes",
+    "searches_above": "1",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "eA6YAOX1WOM",
+    "pulled": "2026-10-24T08:23:41.607099+00:00",
+    "source": "innertube /next videoId=eA6YAOX1WOM",
+    "title": "Toyota/Lexus V6 thermostat replacement. (3MZ-FE engine)",
+    "views_text": "172,032 views",
+    "date_text": "Jun 13, 2020",
+    "owner": "Helping Hand Auto Repair",
+    "views": 172032,
+    "date": "2020-06-13"
+   },
+   "nexlev": {
+    "lengthSeconds": 1747,
+    "publishDate": "2020-06-13",
+    "viewCount": 172032
+   },
+   "oembed": [
+    "200",
+    "Toyota/Lexus V6 thermostat replacement. (3MZ-FE engine)",
+    "Helping Hand Auto Repair"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.002
+  },
+  {
+   "row": 8,
+   "id": "I-EFnAeYMzs",
+   "csv": {
+    "id": "I-EFnAeYMzs",
+    "title": "How to change the oil filter on your boiler or furnace",
+    "channel": "askmediy",
+    "channelId": "UCMqBEHMJkdsyICgJ6BkgLHQ",
+    "handle": "/@askmediy",
+    "views": "220076",
+    "age_text": "18y ago",
+    "approx_upload_date": "2008-10-24",
+    "length_s": "605",
+    "live_replay": "",
+    "format_rule": "how-to",
+    "keywords": "boiler vs furnace ; how to change oil furnace filter ; how to clean oil furnace filter ; how to replace oil furnace ; how to replace oil furnace filter",
+    "n_keywords": "5",
+    "sorts": "relevance ; views",
+    "best_rank": "7",
+    "best_relevance_rank": "9",
+    "topics": "boiler-steam ; filters ; oil-furnace",
+    "above_search_median": "yes",
+    "searches_above": "5",
+    "searches_counted": "5",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "I-EFnAeYMzs",
+    "pulled": "2026-10-24T08:23:41.680396+00:00",
+    "source": "innertube /next videoId=I-EFnAeYMzs",
+    "title": "How to change the oil filter on your boiler or furnace",
+    "views_text": "220,076 views",
+    "date_text": "Feb 4, 2008",
+    "owner": "askmediy",
+    "views": 220076,
+    "date": "2008-02-04"
+   },
+   "nexlev": {
+    "lengthSeconds": 605,
+    "publishDate": "2008-02-04",
+    "viewCount": 220076
+   },
+   "oembed": [
+    "200",
+    "How to change the oil filter on your boiler or furnace",
+    "askmediy"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 9,
+   "id": "iMyniW0gJcQ",
+   "csv": {
+    "id": "iMyniW0gJcQ",
+    "title": "बिजली विभाग ने मेरे साथ किया धोखा । Wrong electricity bill problem solution । Wrong Electricity Bill",
+    "channel": "INFORMATION TYAGI",
+    "channelId": "UCwD9p2imFqlA8yzzmgo3zsg",
+    "handle": "/@informationtyagi",
+    "views": "1312",
+    "age_text": "7mo ago",
+    "approx_upload_date": "2026-03-25",
+    "length_s": "418",
+    "live_replay": "",
+    "format_rule": "symptom-fix",
+    "keywords": "electricity bill problems and solutions",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "16",
+    "best_relevance_rank": "16",
+    "topics": "energy-bill",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "iMyniW0gJcQ",
+    "pulled": "2026-10-24T08:23:41.803160+00:00",
+    "source": "innertube /next videoId=iMyniW0gJcQ",
+    "title": "बिजली विभाग ने मेरे साथ किया धोखा । Wrong electricity bill problem solution । Wrong Electricity Bill",
+    "views_text": "1,312 views",
+    "date_text": "Mar 14, 2026",
+    "owner": "INFORMATION TYAGI",
+    "views": 1312,
+    "date": "2026-03-14"
+   },
+   "nexlev": {
+    "lengthSeconds": 417,
+    "publishDate": "2026-03-14",
+    "viewCount": 1312
+   },
+   "oembed": [
+    "200",
+    "बिजली विभाग ने मेरे साथ किया धोखा । Wrong electricity bill problem solution । Wrong Electricity Bill",
+    "INFORMATION TYAGI"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 10,
+   "id": "2mL_P0nDoIk",
+   "csv": {
+    "id": "2mL_P0nDoIk",
+    "title": "HVAC: The Effects Of Saltwater On the Condenser",
+    "channel": "Up and Coming HVAC Johnnie",
+    "channelId": "UC9Vz9VAm9_DxiEhJsqwvckw",
+    "handle": "/@hvacjohnnie",
+    "views": "1046",
+    "age_text": "7y ago",
+    "approx_upload_date": "2019-10-25",
+    "length_s": "533",
+    "live_replay": "",
+    "format_rule": "plain topic/other",
+    "keywords": "hvac kombat",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "14",
+    "best_relevance_rank": "14",
+    "topics": "hvac-general",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "2mL_P0nDoIk",
+    "pulled": "2026-10-24T08:23:41.817658+00:00",
+    "source": "innertube /next videoId=2mL_P0nDoIk",
+    "title": "HVAC: The Effects Of Saltwater On the Condenser",
+    "views_text": "1,046 views",
+    "date_text": "Apr 7, 2019",
+    "owner": "Up and Coming HVAC Johnnie",
+    "views": 1046,
+    "date": "2019-04-07"
+   },
+   "nexlev": {
+    "lengthSeconds": 533,
+    "publishDate": "2019-04-07",
+    "viewCount": 1046
+   },
+   "oembed": [
+    "200",
+    "HVAC: The Effects Of Saltwater On the Condenser",
+    "Up and Coming HVAC Johnnie"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 11,
+   "id": "daQ72uxjvLE",
+   "csv": {
+    "id": "daQ72uxjvLE",
+    "title": "There's a Fifth Filter In Your Car Nobody Talks About — And It's Slowly Killing Your Engine",
+    "channel": "Tom's Garage",
+    "channelId": "UCRhYN699E1YcgvOWUxpZA8A",
+    "handle": "/@tomsgarage11",
+    "views": "557999",
+    "age_text": "2mo ago",
+    "approx_upload_date": "2026-08-25",
+    "length_s": "916",
+    "live_replay": "",
+    "format_rule": "Y doesn't want you to know",
+    "keywords": "air filter",
+    "n_keywords": "1",
+    "sorts": "year",
+    "best_rank": "15",
+    "best_relevance_rank": "",
+    "topics": "filters",
+    "above_search_median": "yes",
+    "searches_above": "1",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "daQ72uxjvLE",
+    "pulled": "2026-10-24T08:23:41.922996+00:00",
+    "source": "innertube /next videoId=daQ72uxjvLE",
+    "title": "There's a Fifth Filter In Your Car Nobody Talks About — And It's Slowly Killing Your Engine",
+    "views_text": "558,650 views",
+    "date_text": "Aug 19, 2026",
+    "owner": "Tom's Garage",
+    "views": 558650,
+    "date": "2026-08-19"
+   },
+   "nexlev": {
+    "lengthSeconds": 916,
+    "publishDate": "2026-08-19",
+    "viewCount": 558650
+   },
+   "oembed": [
+    "200",
+    "There's a Fifth Filter In Your Car Nobody Talks About — And It's Slowly Killing Your Engine",
+    "Tom's Garage"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.117
+  },
+  {
+   "row": 12,
+   "id": "USaEYuyM60o",
+   "csv": {
+    "id": "USaEYuyM60o",
+    "title": "Bajaj Room Heater Vs Local(Ordinary) Room Heater | Full Comparison",
+    "channel": "Electro Expert",
+    "channelId": "UCHUDrgmCZzc0crdrCW9dung",
+    "handle": "/@ElectroExpert",
+    "views": "586",
+    "age_text": "3y ago",
+    "approx_upload_date": "2023-10-25",
+    "length_s": "336",
+    "live_replay": "",
+    "format_rule": "X vs Y",
+    "keywords": "how to clean bajaj room heater",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "18",
+    "best_relevance_rank": "18",
+    "topics": "space-heater",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "USaEYuyM60o",
+    "pulled": "2026-10-24T08:23:42.004448+00:00",
+    "source": "innertube /next videoId=USaEYuyM60o",
+    "title": "Bajaj Room Heater Vs Local(Ordinary) Room Heater | Full Comparison",
+    "views_text": "586 views",
+    "date_text": "Premiered Nov 25, 2022",
+    "owner": "Electro Expert",
+    "views": 586,
+    "date": "2022-11-25"
+   },
+   "nexlev": {
+    "lengthSeconds": 336,
+    "publishDate": "2022-11-25",
+    "viewCount": 586
+   },
+   "oembed": [
+    "200",
+    "Bajaj Room Heater Vs Local(Ordinary) Room Heater | Full Comparison",
+    "Electro Expert"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 13,
+   "id": "X_jkXpdqq28",
+   "csv": {
+    "id": "X_jkXpdqq28",
+    "title": "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "channel": "Dean Explains",
+    "channelId": "UCyR7PAs_HsVbReKOxUpU1Kg",
+    "handle": "/@DeanExplains-l6z",
+    "views": "70",
+    "age_text": "3w ago",
+    "approx_upload_date": "2026-10-03",
+    "length_s": "527",
+    "live_replay": "",
+    "format_rule": "X vs Y",
+    "keywords": "before and after dehumidifier",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "13",
+    "best_relevance_rank": "13",
+    "topics": "humidity",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "X_jkXpdqq28",
+    "pulled": "2026-10-24T08:23:42.329675+00:00",
+    "source": "innertube /next videoId=X_jkXpdqq28",
+    "title": "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "views_text": "70 views",
+    "date_text": "Oct 2, 2026",
+    "owner": "Dean Explains",
+    "views": 70,
+    "date": "2026-10-02"
+   },
+   "nexlev": {
+    "lengthSeconds": 527,
+    "publishDate": "2026-10-02",
+    "viewCount": 70
+   },
+   "oembed": [
+    "200",
+    "This Plug-In Dehumidifier Setup Stops Mold Growth Cheaper Than Any Contractor Fix",
+    "Dean Explains"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 14,
+   "id": "hhhTytyvWuM",
+   "csv": {
+    "id": "hhhTytyvWuM",
+    "title": "2018 F150 Cabin Air Filter Install",
+    "channel": "Smackey's Garage",
+    "channelId": "UCJ12Z3lGXAPfXyUHFUo6z8w",
+    "handle": "/@SmackeysGarage",
+    "views": "264092",
+    "age_text": "4y ago",
+    "approx_upload_date": "2022-10-24",
+    "length_s": "339",
+    "live_replay": "",
+    "format_rule": "install/DIY project",
+    "keywords": "air filter cabin",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "15",
+    "best_relevance_rank": "15",
+    "topics": "filters",
+    "above_search_median": "yes",
+    "searches_above": "1",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "hhhTytyvWuM",
+    "pulled": "2026-10-24T08:23:42.474638+00:00",
+    "source": "innertube /next videoId=hhhTytyvWuM",
+    "title": "2018 F150 Cabin Air Filter Install",
+    "views_text": "264,113 views",
+    "date_text": "Oct 6, 2022",
+    "owner": "Smackey's Garage",
+    "views": 264113,
+    "date": "2022-10-06"
+   },
+   "nexlev": {
+    "lengthSeconds": 338,
+    "publishDate": "2022-10-06",
+    "viewCount": 264113
+   },
+   "oembed": [
+    "200",
+    "2018 F150 Cabin Air Filter Install",
+    "Smackey's Garage"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.008
+  },
+  {
+   "row": 15,
+   "id": "DIKEN4GWMfY",
+   "csv": {
+    "id": "DIKEN4GWMfY",
+    "title": "The WORST Home Warranty Companies in 2025",
+    "channel": "HomeMembership",
+    "channelId": "UCzQF3o8DR0OZgjbxtcV3MAw",
+    "handle": "/@HomeMembership",
+    "views": "578",
+    "age_text": "1y ago",
+    "approx_upload_date": "2025-10-24",
+    "length_s": "344",
+    "live_replay": "",
+    "format_rule": "the only X",
+    "keywords": "home warranty company reviews",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "11",
+    "best_relevance_rank": "11",
+    "topics": "home-warranty",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "DIKEN4GWMfY",
+    "pulled": "2026-10-24T08:23:42.543696+00:00",
+    "source": "innertube /next videoId=DIKEN4GWMfY",
+    "title": "The WORST Home Warranty Companies in 2025",
+    "views_text": "578 views",
+    "date_text": "May 29, 2025",
+    "owner": "HomeMembership",
+    "views": 578,
+    "date": "2025-05-29"
+   },
+   "nexlev": {
+    "lengthSeconds": 343,
+    "publishDate": "2025-05-29",
+    "viewCount": 578
+   },
+   "oembed": [
+    "200",
+    "The WORST Home Warranty Companies in 2025",
+    "HomeMembership"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 16,
+   "id": "_s1ysfr4VX8",
+   "csv": {
+    "id": "_s1ysfr4VX8",
+    "title": "How to Replace Thermostat with Housing Assembly 2011-2023 Dodge Charger (3.6L V6)",
+    "channel": "TRQ",
+    "channelId": "UCWCdsftsTqYMO7cA_5Sc-yA",
+    "handle": "/@TRQ",
+    "views": "80162",
+    "age_text": "1y ago",
+    "approx_upload_date": "2025-10-24",
+    "length_s": "630",
+    "live_replay": "",
+    "format_rule": "how-to",
+    "keywords": "thermostat assembly ; thermostat gasket replacement ; thermostat replacement chrysler 300",
+    "n_keywords": "3",
+    "sorts": "relevance",
+    "best_rank": "9",
+    "best_relevance_rank": "9",
+    "topics": "thermostat",
+    "above_search_median": "yes",
+    "searches_above": "2",
+    "searches_counted": "3",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "_s1ysfr4VX8",
+    "pulled": "2026-10-24T08:23:42.554782+00:00",
+    "source": "innertube /next videoId=_s1ysfr4VX8",
+    "title": "How to Replace Thermostat with Housing Assembly 2011-2023 Dodge Charger (3.6L V6)",
+    "views_text": "80,140 views",
+    "date_text": "Apr 1, 2025",
+    "owner": "TRQ",
+    "views": 80140,
+    "date": "2025-04-01"
+   },
+   "nexlev": {
+    "lengthSeconds": 629,
+    "publishDate": "2025-04-01",
+    "viewCount": 80171
+   },
+   "oembed": [
+    "200",
+    "How to Replace Thermostat with Housing Assembly 2011-2023 Dodge Charger (3.6L V6)",
+    "TRQ"
+   ],
+   "date_ok": true,
+   "views_diff_pct": -0.027
+  },
+  {
+   "row": 17,
+   "id": "rzxBcRbVu_o",
+   "csv": {
+    "id": "rzxBcRbVu_o",
+    "title": "How to Disable Windows Error Reporting Without Causing Problems | Fix Wermgr.exe Application Error",
+    "channel": "Izoate",
+    "channelId": "UCn2HLz4x5LleilEKuK4-ivQ",
+    "handle": "/@Izoate",
+    "views": "339",
+    "age_text": "1y ago",
+    "approx_upload_date": "2025-10-24",
+    "length_s": "346",
+    "live_replay": "",
+    "format_rule": "symptom-fix",
+    "keywords": "windows problem reporting in task manager",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "15",
+    "best_relevance_rank": "15",
+    "topics": "windows",
+    "above_search_median": "",
+    "searches_above": "0",
+    "searches_counted": "0",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "rzxBcRbVu_o",
+    "pulled": "2026-10-24T08:23:42.690229+00:00",
+    "source": "innertube /next videoId=rzxBcRbVu_o",
+    "title": "How to Disable Windows Error Reporting Without Causing Problems | Fix Wermgr.exe Application Error",
+    "views_text": "339 views",
+    "date_text": "Mar 4, 2025",
+    "owner": "Izoate",
+    "views": 339,
+    "date": "2025-03-04"
+   },
+   "nexlev": {
+    "lengthSeconds": 345,
+    "publishDate": "2025-03-04",
+    "viewCount": 339
+   },
+   "oembed": [
+    "200",
+    "How to Disable Windows Error Reporting Without Causing Problems | Fix Wermgr.exe Application Error",
+    "Izoate"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 18,
+   "id": "tWmOd0l0EFI",
+   "csv": {
+    "id": "tWmOd0l0EFI",
+    "title": "Home Weatherproofing 101: Draft-Proof Your House in One Weekend (Save on Energy Bills)",
+    "channel": "Healthy Wealthy Life Hack Picks",
+    "channelId": "UCtEZdShBmMsq858MVXRfsfg",
+    "handle": "/@healthywealthylifepicks",
+    "views": "33",
+    "age_text": "2w ago",
+    "approx_upload_date": "2026-10-10",
+    "length_s": "452",
+    "live_replay": "",
+    "format_rule": "cheap hack",
+    "keywords": "find draft in house",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "5",
+    "best_relevance_rank": "5",
+    "topics": "drafts",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "tWmOd0l0EFI",
+    "pulled": "2026-10-24T08:23:42.829541+00:00",
+    "source": "innertube /next videoId=tWmOd0l0EFI",
+    "title": "Home Weatherproofing 101: Draft-Proof Your House in One Weekend (Save on Energy Bills)",
+    "views_text": "33 views",
+    "date_text": "Oct 7, 2026",
+    "owner": "Healthy Wealthy Life Hack Picks",
+    "views": 33,
+    "date": "2026-10-07"
+   },
+   "nexlev": {
+    "lengthSeconds": 452,
+    "publishDate": "2026-10-07",
+    "viewCount": 33
+   },
+   "oembed": [
+    "200",
+    "Home Weatherproofing 101: Draft-Proof Your House in One Weekend (Save on Energy Bills)",
+    "Healthy Wealthy Life Hack Picks"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.0
+  },
+  {
+   "row": 19,
+   "id": "-Xt46GrPSAY",
+   "csv": {
+    "id": "-Xt46GrPSAY",
+    "title": "FURNACE CREEK - The Hottest Town On Earth - Why Do 136 People Live Here?",
+    "channel": "From Here to There",
+    "channelId": "UCgqyNLmmKcNczCwxzyQv0zg",
+    "handle": "/@FromHeretoThere",
+    "views": "4566268",
+    "age_text": "2y ago",
+    "approx_upload_date": "2024-10-24",
+    "length_s": "3935",
+    "live_replay": "",
+    "format_rule": "explainer",
+    "keywords": "furnace ; furnace creek ; furnace creek death valley",
+    "n_keywords": "3",
+    "sorts": "relevance ; views",
+    "best_rank": "1",
+    "best_relevance_rank": "1",
+    "topics": "furnace",
+    "above_search_median": "yes",
+    "searches_above": "2",
+    "searches_counted": "3",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "-Xt46GrPSAY",
+    "pulled": "2026-10-24T08:23:42.981299+00:00",
+    "source": "innertube /next videoId=-Xt46GrPSAY",
+    "title": "FURNACE CREEK - The Hottest Town On Earth - Why Do 136 People Live Here?",
+    "views_text": "4,566,317 views",
+    "date_text": "Jul 29, 2024",
+    "owner": "From Here to There",
+    "views": 4566317,
+    "date": "2024-07-29"
+   },
+   "nexlev": {
+    "lengthSeconds": 3934,
+    "publishDate": "2024-07-29",
+    "viewCount": 4566312
+   },
+   "oembed": [
+    "200",
+    "FURNACE CREEK - The Hottest Town On Earth - Why Do 136 People Live Here?",
+    "From Here to There"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.001
+  },
+  {
+   "row": 20,
+   "id": "kX5oymrQFBc",
+   "csv": {
+    "id": "kX5oymrQFBc",
+    "title": "This Outdated AC Finally Failed — Here’s the New R 454B Upgrade | HVAC",
+    "channel": "Tri-Delta Mechanical",
+    "channelId": "UCmugyt2W3uJNsSdFQ-sIZog",
+    "handle": "/@HVACTDM",
+    "views": "22453",
+    "age_text": "1y ago",
+    "approx_upload_date": "2025-10-24",
+    "length_s": "1262",
+    "live_replay": "",
+    "format_rule": "symptom-fix",
+    "keywords": "hvac install fails",
+    "n_keywords": "1",
+    "sorts": "relevance",
+    "best_rank": "6",
+    "best_relevance_rank": "6",
+    "topics": "hvac-general",
+    "above_search_median": "no",
+    "searches_above": "0",
+    "searches_counted": "1",
+    "new_channel": "NEW",
+    "hvac_word_in_title": "yes",
+    "original_title_checked": "yes",
+    "search_page_title": ""
+   },
+   "next": {
+    "id": "kX5oymrQFBc",
+    "pulled": "2026-10-24T08:23:43.100762+00:00",
+    "source": "innertube /next videoId=kX5oymrQFBc",
+    "title": "This Outdated AC Finally Failed — Here’s the New R 454B Upgrade | HVAC",
+    "views_text": "22,458 views",
+    "date_text": "Jul 20, 2025",
+    "owner": "Tri-Delta Mechanical",
+    "views": 22458,
+    "date": "2025-07-20"
+   },
+   "nexlev": {
+    "lengthSeconds": 1262,
+    "publishDate": "2025-07-20",
+    "viewCount": 22458
+   },
+   "oembed": [
+    "200",
+    "This Outdated AC Finally Failed — Here’s the New R 454B Upgrade | HVAC",
+    "Tri-Delta Mechanical"
+   ],
+   "date_ok": true,
+   "views_diff_pct": 0.022
+  }
+ ],
+ "sweep_search_reruns": [
+  {
+   "keyword": "mini split mistakes",
+   "sort": "relevance",
+   "pulled": "2026-10-24T08:25:34Z",
+   "stored_pulled": "2026-10-24T07:06:17Z",
+   "stored_n": 22,
+   "new_n": 22,
+   "overlap_all": 21,
+   "overlap_top10": 9,
+   "stored_long": 11,
+   "new_long": 12,
+   "overlap_long": 11,
+   "stored_top5": [
+    [
+     "D_2T5H7CFmA",
+     "Top 5 Mini Split Installation Mistakes - Don't Do This!",
+     "133,288 views"
+    ],
+    [
+     "yAZWWhNd5bg",
+     "1 BIG MISTAKE All DUCTLESS Owners Make!",
+     "125,130 views"
+    ],
+    [
+     "5dCCntGj1wM",
+     "DIY Mini Split Install: 3 Regrets After 1 Year of Use",
+     "2,387,613 views"
+    ],
+    [
+     "5VR7i5rkrGo",
+     "TOP 5 CAUSES of Mini Split Heat Pump FAILURE!",
+     "154,737 views"
+    ],
+    [
+     "34QjsRAfyHQ",
+     "Avoid This Crucial Mini Split Mistake",
+     "2,364 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "D_2T5H7CFmA",
+     "Top 5 Mini Split Installation Mistakes - Don't Do This!",
+     "133,389 views"
+    ],
+    [
+     "yAZWWhNd5bg",
+     "1 BIG MISTAKE All DUCTLESS Owners Make!",
+     "125,130 views"
+    ],
+    [
+     "5dCCntGj1wM",
+     "DIY Mini Split Install: 3 Regrets After 1 Year of Use",
+     "2,387,802 views"
+    ],
+    [
+     "b67w0gEqHe8",
+     "Mini Split - 3 Things I Wish I Knew Before Installing",
+     "1,526,472 views"
+    ],
+    [
+     "34QjsRAfyHQ",
+     "Avoid This Crucial Mini Split Mistake",
+     "2,364 views"
+    ]
+   ]
+  },
+  {
+   "keyword": "wood stove mistakes",
+   "sort": "views",
+   "pulled": "2026-10-24T08:25:36Z",
+   "stored_pulled": "2026-10-24T07:12:18Z",
+   "stored_n": 21,
+   "new_n": 21,
+   "overlap_all": 21,
+   "overlap_top10": 10,
+   "stored_long": 19,
+   "new_long": 19,
+   "overlap_long": 19,
+   "stored_top5": [
+    [
+     "-jeP1d8PC1I",
+     "7 FATAL Wiring Mistakes Most DIYers Don't Know They Are Making | Most Are Guilty of 3",
+     "12,129,104 views"
+    ],
+    [
+     "1vuLggcLDLg",
+     "Dangers of Essential Oils: Top 10 Essential Oil Mistakes to Avoid | Dr. Josh Axe",
+     "3,525,901 views"
+    ],
+    [
+     "cOnvsU0Q-eg",
+     "This Grouting Mistake will Ruin Your Tile Job",
+     "2,576,994 views"
+    ],
+    [
+     "-D1LjSa_n-M",
+     "Architect's TOP 10 Kitchen Design Mistakes (& How to Fix Them)",
+     "1,998,421 views"
+    ],
+    [
+     "YJhuCeyj1uo",
+     "7 Mistakes to Avoid When Converting a Shed into a House",
+     "1,656,394 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "-jeP1d8PC1I",
+     "7 FATAL Wiring Mistakes Most DIYers Don't Know They Are Making | Most Are Guilty of 3",
+     "12,129,478 views"
+    ],
+    [
+     "1vuLggcLDLg",
+     "Dangers of Essential Oils: Top 10 Essential Oil Mistakes to Avoid | Dr. Josh Axe",
+     "3,525,901 views"
+    ],
+    [
+     "cOnvsU0Q-eg",
+     "This Grouting Mistake will Ruin Your Tile Job",
+     "2,577,056 views"
+    ],
+    [
+     "-D1LjSa_n-M",
+     "Architect's TOP 10 Kitchen Design Mistakes (& How to Fix Them)",
+     "1,998,543 views"
+    ],
+    [
+     "YJhuCeyj1uo",
+     "7 Mistakes to Avoid When Converting a Shed into a House",
+     "1,656,392 views"
+    ]
+   ]
+  },
+  {
+   "keyword": "heating bill",
+   "sort": "year",
+   "pulled": "2026-10-24T08:25:38Z",
+   "stored_pulled": "2026-10-24T07:00:08Z",
+   "stored_n": 20,
+   "new_n": 20,
+   "overlap_all": 20,
+   "overlap_top10": 10,
+   "stored_long": 17,
+   "new_long": 17,
+   "overlap_long": 17,
+   "stored_top5": [
+    [
+     "hqqoo1IgIrU",
+     "Upfront Heating & Air Conditioning - SNL",
+     "6,798,226 views"
+    ],
+    [
+     "gQjotD-B0OU",
+     "Genius AC Upgrade That Makes Air Colder And Bills Lower!",
+     "1,769,523 views"
+    ],
+    [
+     "7B4sl1P_YHs",
+     "Just press 'this button' on your boiler! Say goodbye to skyrocketing winter heating bills | Boile...",
+     "1,276,585 views"
+    ],
+    [
+     "iqRiqWQq7W8",
+     "The Amish $50 System That Heats Any Home Forever  —  They Have Never Paid an Energy Bill",
+     "814,329 views"
+    ],
+    [
+     "szGrEX6tQbU",
+     "This $300 Sand Battery Heats Your Entire Home All Winter — No Gas, No Grid, No Bill",
+     "698,284 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "hqqoo1IgIrU",
+     "Upfront Heating & Air Conditioning - SNL",
+     "6,802,065 views"
+    ],
+    [
+     "gQjotD-B0OU",
+     "Genius AC Upgrade That Makes Air Colder And Bills Lower!",
+     "1,769,523 views"
+    ],
+    [
+     "7B4sl1P_YHs",
+     "Just press 'this button' on your boiler! Say goodbye to skyrocketing winter heating bills | Boile...",
+     "1,277,841 views"
+    ],
+    [
+     "iqRiqWQq7W8",
+     "The Amish $50 System That Heats Any Home Forever  —  They Have Never Paid an Energy Bill",
+     "814,380 views"
+    ],
+    [
+     "szGrEX6tQbU",
+     "This $300 Sand Battery Heats Your Entire Home All Winter — No Gas, No Grid, No Bill",
+     "698,284 views"
+    ]
+   ]
+  },
+  {
+   "keyword": "ac filter destroying",
+   "sort": "month",
+   "pulled": "2026-10-24T08:25:40Z",
+   "stored_pulled": "2026-10-24T07:01:19Z",
+   "stored_n": 2,
+   "new_n": 0,
+   "overlap_all": 0,
+   "overlap_top10": 0,
+   "stored_long": 2,
+   "new_long": 0,
+   "overlap_long": 0,
+   "stored_top5": [
+    [
+     "MoB-obRdbro",
+     "The $30 Filter Is Destroying Your Furnace (Here's Why)",
+     "6,493 views"
+    ],
+    [
+     "WbZMKw_LddU",
+     "The $30 Furnace Filter Is Destroying Your Heating System (Here's Why)",
+     "617 views"
+    ]
+   ],
+   "new_top5": []
+  },
+  {
+   "keyword": "ac filter destroying",
+   "sort": "month",
+   "pulled": "2026-10-24T08:25:49Z",
+   "stored_pulled": "2026-10-24T07:01:19Z",
+   "stored_n": 2,
+   "new_n": 2,
+   "overlap_all": 2,
+   "overlap_top10": 2,
+   "stored_long": 2,
+   "new_long": 2,
+   "overlap_long": 2,
+   "stored_top5": [
+    [
+     "MoB-obRdbro",
+     "The $30 Filter Is Destroying Your Furnace (Here's Why)",
+     "6,493 views"
+    ],
+    [
+     "WbZMKw_LddU",
+     "The $30 Furnace Filter Is Destroying Your Heating System (Here's Why)",
+     "617 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "MoB-obRdbro",
+     "The $30 Filter Is Destroying Your Furnace (Here's Why)",
+     "6,493 views"
+    ],
+    [
+     "WbZMKw_LddU",
+     "The $30 Furnace Filter Is Destroying Your Heating System (Here's Why)",
+     "617 views"
+    ]
+   ]
+  },
+  {
+   "keyword": "heating bill",
+   "sort": "month",
+   "pulled": "2026-10-24T08:25:51Z",
+   "stored_pulled": "2026-10-24T07:00:10Z",
+   "stored_n": 20,
+   "new_n": 20,
+   "overlap_all": 20,
+   "overlap_top10": 10,
+   "stored_long": 17,
+   "new_long": 17,
+   "overlap_long": 17,
+   "stored_top5": [
+    [
+     "hqqoo1IgIrU",
+     "Upfront Heating & Air Conditioning - SNL",
+     "6,798,226 views"
+    ],
+    [
+     "wonMXWuCSIk",
+     "Why I Went Back To 1970s Winter Heating Habits At 52 (And Saved Hundreds)",
+     "485,101 views"
+    ],
+    [
+     "BswcO9EqbHo",
+     "Why does my heating bill go up by 42% when the upstairs neighbor turns off their boiler?",
+     "220,395 views"
+    ],
+    [
+     "71oGtYtEhaM",
+     "25 Cheap Grandma’s Winter Survival Tricks for Seniors Living Alone",
+     "164,660 views"
+    ],
+    [
+     "ondYEKFrdrY",
+     "I Heat My Whole House for $5 a Winter. No Furnace, No Space Heater, No Gas",
+     "106,735 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "hqqoo1IgIrU",
+     "Upfront Heating & Air Conditioning - SNL",
+     "6,802,065 views"
+    ],
+    [
+     "wonMXWuCSIk",
+     "Why I Went Back To 1970s Winter Heating Habits At 52 (And Saved Hundreds)",
+     "485,913 views"
+    ],
+    [
+     "BswcO9EqbHo",
+     "Why does my heating bill go up by 42% when the upstairs neighbor turns off their boiler?",
+     "220,505 views"
+    ],
+    [
+     "71oGtYtEhaM",
+     "25 Cheap Grandma’s Winter Survival Tricks for Seniors Living Alone",
+     "164,755 views"
+    ],
+    [
+     "ondYEKFrdrY",
+     "I Heat My Whole House for $5 a Winter. No Furnace, No Space Heater, No Gas",
+     "107,896 views"
+    ]
+   ]
+  }
+ ],
+ "formats_handtag": [
+  {
+   "row": "1",
+   "id": "sKs4mmMsgck",
+   "title": "I INSTALLED ZIP SYSTEM INSULATED SHEATHING: It's a Game Changer",
+   "stored": "install/DIY project",
+   "checker": "install/DIY project",
+   "note": "close: review (\"game changer\")",
+   "agree": true
+  },
+  {
+   "row": "2",
+   "id": "qa3YnWhzPsw",
+   "title": "#288 Raspberry Pi 4 Coolers: Which one is best? (Quickie)",
+   "stored": "test",
+   "checker": "the only X",
+   "note": "\"which one is best\"",
+   "agree": false
+  },
+  {
+   "row": "3",
+   "id": "XfcFTVEUvpg",
+   "title": "I Tested Every Auction Draft Strategy (Here's What Wins)",
+   "stored": "test",
+   "checker": "test",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "4",
+   "id": "yhWfXqmhmzQ",
+   "title": "Ultimate HVAC Service/Install Van Tour!!",
+   "stored": "install/DIY project",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "5",
+   "id": "ndZHpxiPVuU",
+   "title": "No Heat ⚡️Electric Furnace. Replacing Heater Kit!",
+   "stored": "symptom-fix",
+   "checker": "symptom-fix",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "6",
+   "id": "ctcNkuYbumg",
+   "title": "Robinson R22 Preflight: Tips from Robinson’s Chief Pilot",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "close: other",
+   "agree": true
+  },
+  {
+   "row": "7",
+   "id": "fGH7l8r3vKo",
+   "title": "UK Warm Homes Plan Explained: Heat Pump Costs, Grants & Real Savings in 2026",
+   "stored": "explainer",
+   "checker": "news-warning",
+   "note": "grants/plan; close: explainer",
+   "agree": false
+  },
+  {
+   "row": "8",
+   "id": "Pt5qRltu8MI",
+   "title": "THE LOUDEST TRIO IN MM2 😂 (Funny Moments)",
+   "stored": "plain topic/other",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "9",
+   "id": "i6lebY2bNC0",
+   "title": "Don’t throw away your old fan stator – it’s perfect for this project!",
+   "stored": "plain topic/other",
+   "checker": "cheap hack",
+   "note": "close: before you do X",
+   "agree": false
+  },
+  {
+   "row": "10",
+   "id": "jz4hbU7nPcQ",
+   "title": "ECOPOOLTECH Ultra Inverter Pool Heat Pump Review – Heating & Cooling, Best Pool Heater 2026?",
+   "stored": "the only X",
+   "checker": "the only X",
+   "note": "\"Best Pool Heater 2026?\" before review",
+   "agree": true
+  },
+  {
+   "row": "11",
+   "id": "6niKkbt_KfA",
+   "title": "Iceland-Waterfalls,Rivers,Streams,Geothermal phenomena,sand storm,Primordial landscapes,seals-part 3",
+   "stored": "plain topic/other",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "12",
+   "id": "bulasTEc11s",
+   "title": "Carrier Vs Goodman: The Brutal Truth About AC!",
+   "stored": "X vs Y",
+   "checker": "X vs Y",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "13",
+   "id": "UVWzoZg0T1w",
+   "title": "McCarthy, GOP Reps slam Biden's executive orders on oil and gas",
+   "stored": "plain topic/other",
+   "checker": "news-warning",
+   "note": "close: other",
+   "agree": false
+  },
+  {
+   "row": "14",
+   "id": "n1jzBh7vsUk",
+   "title": "Yahama Mt 15 v2 radiator guard installation 🔥🔥",
+   "stored": "install/DIY project",
+   "checker": "install/DIY project",
+   "note": "close: how-to",
+   "agree": true
+  },
+  {
+   "row": "15",
+   "id": "gz9hvCHvo4Y",
+   "title": "TBP Converting | 3M Attaching Insulation",
+   "stored": "install/DIY project",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "16",
+   "id": "aM8xtcn5wnE",
+   "title": "Bring Me The Horizon live @ Furnace Fest Birmingham, AL 10/11/26 (Partial Set)",
+   "stored": "plain topic/other",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "17",
+   "id": "5abHgZp11C4",
+   "title": "Insulating Timber Floors In An Old House",
+   "stored": "how-to",
+   "checker": "install/DIY project",
+   "note": "close: how-to",
+   "agree": false
+  },
+  {
+   "row": "18",
+   "id": "b3PHcHfqEsQ",
+   "title": "Chimney Pipe Installation for Wood Stove through roof",
+   "stored": "install/DIY project",
+   "checker": "install/DIY project",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "19",
+   "id": "JpBImUDzw5E",
+   "title": "AC Noises Respira Shimmer Reverb + Tremolo || Demo",
+   "stored": "symptom-fix",
+   "checker": "review",
+   "note": "demo of one product",
+   "agree": false
+  },
+  {
+   "row": "20",
+   "id": "weHjQ_Y6594",
+   "title": "Common Causes of a Cycling Well Pump",
+   "stored": "plain topic/other",
+   "checker": "symptom-fix",
+   "note": "close: explainer",
+   "agree": false
+  },
+  {
+   "row": "21",
+   "id": "Map8n_rc0-A",
+   "title": "Motorcycle Tech Tips: Replacing Radiators and Coolant",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "22",
+   "id": "0fxiSvSsDVQ",
+   "title": "Portable AC vs Window AC – Which Cools Better? – Full Side-by-Side Test",
+   "stored": "test",
+   "checker": "test",
+   "note": "side-by-side test; rule 1 before vs",
+   "agree": true
+  },
+  {
+   "row": "23",
+   "id": "JLbuShjUiwo",
+   "title": "How Much CO2 is Healthy in my Home? Carbon Dioxide Targets Planned and Proven",
+   "stored": "explainer",
+   "checker": "explainer",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "24",
+   "id": "hNZm2dTDnSE",
+   "title": "HVAC OVERTIME #290",
+   "stored": "plain topic/other",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "25",
+   "id": "QhXMKA9hli0",
+   "title": "Best Air Cooler Buying Guide 2026⚡ Save Money, Get Better Cooling!",
+   "stored": "the only X",
+   "checker": "the only X",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "26",
+   "id": "4_FYrDuVyhI",
+   "title": "I Tested 20+ Fans: Why The Dreo 712S Is My New Favorite!",
+   "stored": "test",
+   "checker": "test",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "27",
+   "id": "Hpn8wekIOK0",
+   "title": "🌧️ 2 Days Solo Camping in Heavy Rain with My Dog | Cozy Tent, Wood Stove & Fishing ASMR",
+   "stored": "plain topic/other",
+   "checker": "story",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "28",
+   "id": "Ny4-YOAz2Eg",
+   "title": "Watch This Before You Buy a Home Warranty",
+   "stored": "before you do X",
+   "checker": "before you do X",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "29",
+   "id": "DslCH4b0ibA",
+   "title": "DIY Convection Woodstove (Plans Available)",
+   "stored": "how-to",
+   "checker": "install/DIY project",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "30",
+   "id": "z0vWv2Jwn3A",
+   "title": "2004 Honda Element/CRV Thermostat Replacement",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "31",
+   "id": "hxnfRiq23Zg",
+   "title": "HVAC HACK SCAM IN MY AREA TAKING ADVANTAGE OF OLDER COUPLE EXPOSED",
+   "stored": "Y doesn't want you to know",
+   "checker": "Y doesn't want you to know",
+   "note": "close: story",
+   "agree": true
+  },
+  {
+   "row": "32",
+   "id": "gfD1l4lOEQs",
+   "title": "This Is How I Troubleshoot with Confidence After 16 Years in HVAC",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "33",
+   "id": "qutUW83hLUQ",
+   "title": "How to Remove Daikin MiniSplit Blower Wheel",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "34",
+   "id": "yzzzir74fQw",
+   "title": "New Home, Old Boiler. £5/Day WASTED",
+   "stored": "plain topic/other",
+   "checker": "story",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "35",
+   "id": "WGk9RgmoqJA",
+   "title": "Buying a Laundromat? The Gas Bill Shows What the Dryers Really Make",
+   "stored": "plain topic/other",
+   "checker": "explainer",
+   "note": "low confidence",
+   "agree": false
+  },
+  {
+   "row": "36",
+   "id": "CBSUCMyvZ0g",
+   "title": "The Truth about Home Warranty Companies - Contractor's Perspective",
+   "stored": "Y doesn't want you to know",
+   "checker": "Y doesn't want you to know",
+   "note": "\"the truth about\"",
+   "agree": true
+  },
+  {
+   "row": "37",
+   "id": "J4bKiv0uiE4",
+   "title": "How to use - Philips EVO home mechanical ventilation",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "38",
+   "id": "oKgDiJoV94I",
+   "title": "5 HVAC Installation Mistakes!",
+   "stored": "mistakes",
+   "checker": "mistakes",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "39",
+   "id": "BFpRbYMdxBw",
+   "title": "Air conditioner capacitor troubleshooting and replacement.",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "close: symptom-fix",
+   "agree": true
+  },
+  {
+   "row": "40",
+   "id": "Ylgb8FFMgd4",
+   "title": "Electric generator (A.C. & D.C.) | Magnetic effects of current | Khan Academy",
+   "stored": "plain topic/other",
+   "checker": "explainer",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "41",
+   "id": "Yb2D4QkIKFU",
+   "title": "Hot vs Cold Secret Room Under the Bed! 24 Hours Challenge!",
+   "stored": "X vs Y",
+   "checker": "test",
+   "note": "24 hours challenge; rule 1 before vs",
+   "agree": false
+  },
+  {
+   "row": "42",
+   "id": "wPVdGDiGRf0",
+   "title": "Is There a \"Wemby Stopper\" In the 2026 NBA Draft? | The Hoops HQ Show with Seth Davis and Andy Katz",
+   "stored": "explainer",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "43",
+   "id": "gcUj_hyhHI0",
+   "title": "DIY Air Duct Cleaning Tools, part 5 - Aggressive Wire Brush for Drills - To Clean Out Stuck-On Dirt",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "44",
+   "id": "wDTJ8bVcx84",
+   "title": "Big HVAC Brands Don’t Want You To See This ACiQ Install",
+   "stored": "install/DIY project",
+   "checker": "Y doesn't want you to know",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "45",
+   "id": "megF-PvJgfY",
+   "title": "3 DIY Spray Foam Skull Pumpkins (Last One Got Weird)",
+   "stored": "how-to",
+   "checker": "install/DIY project",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "46",
+   "id": "D01GZX1QuoQ",
+   "title": "How to Get Spray-Quality Baseboards With a Brush",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "47",
+   "id": "9RF4YFBzPCI",
+   "title": "Florida HVAC Exam Preparation - Business And Finance Exam || Adam FUSE MAN",
+   "stored": "plain topic/other",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "48",
+   "id": "GoThAlOvSts",
+   "title": "Thermostat Wiring to a Furnace and AC Unit!  Color Code, How it Works, Diagram!",
+   "stored": "how-to",
+   "checker": "explainer",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "49",
+   "id": "NrFcYZ2xnBY",
+   "title": "Snatch It! Quickly change a thermostatic radiator valve - TRV. No need to drain your system!",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "close: cheap hack",
+   "agree": true
+  },
+  {
+   "row": "50",
+   "id": "0Is5SY3x3x0",
+   "title": "How to Clean an Oven FAST with NO Harsh Chemicals",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "51",
+   "id": "AFfdctC4oJg",
+   "title": "How Much Does a Ductless Mini Split Cost in 2025?",
+   "stored": "explainer",
+   "checker": "explainer",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "52",
+   "id": "sU9pR7Y_gXs",
+   "title": "Full Review Lasko Motion X Portable Room Heater   COSTCO",
+   "stored": "review",
+   "checker": "review",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "53",
+   "id": "CuKvxlyr5ow",
+   "title": "YAMAHA R1 RN12 Air Filter Replacement",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "54",
+   "id": "Tk1sAmQFsdI",
+   "title": "How I Repaired My Refrigerant Leak and Recharge AC On My 2000 F-150",
+   "stored": "symptom-fix",
+   "checker": "symptom-fix",
+   "note": "close: how-to",
+   "agree": true
+  },
+  {
+   "row": "55",
+   "id": "yjEEdKlZn0g",
+   "title": "Difference Between Faced and Unfaced Insulation & How To Install It (Phillips Vision: Episode - 136)",
+   "stored": "install/DIY project",
+   "checker": "X vs Y",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "56",
+   "id": "VF33p73KEgs",
+   "title": "How To: Replace The Thermostat And Reseal The Housing On A 2002-2009 Lexus GX470",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "57",
+   "id": "jXKA1kprp_c",
+   "title": "Top 50 HVAC Design Engineer Interview Questions and Professional Answers for 2026",
+   "stored": "explainer",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "58",
+   "id": "5s2ZTU6BZNE",
+   "title": "How to do a Quick Blower Wheel Cleaning",
+   "stored": "how-to",
+   "checker": "how-to",
+   "note": "",
+   "agree": true
+  },
+  {
+   "row": "59",
+   "id": "ERnMte2ZJQY",
+   "title": "How Long Will The JACKERY EXPLORER 1500 PRO Power My Furnace? Lets Find Out",
+   "stored": "explainer",
+   "checker": "test",
+   "note": "",
+   "agree": false
+  },
+  {
+   "row": "60",
+   "id": "m0WHl2pUQwQ",
+   "title": "HVAC Insights with Doug Widenmann: Daikin's Journey to the Top",
+   "stored": "plain topic/other",
+   "checker": "plain topic/other",
+   "note": "",
+   "agree": true
+  }
+ ],
+ "oldheat_videos": {
+  "0vNHIvf8zzE": {
+   "next": {
+    "id": "0vNHIvf8zzE",
+    "pulled": "2026-10-24T08:27:18.933510+00:00",
+    "source": "innertube /next videoId=0vNHIvf8zzE",
+    "title": "No Heat! Burnham Boiler Pilot Won’t Stay Lit — Watch Mikey Pipes & Derek Diagnose and Fix It LIVE",
+    "views_text": "24,286 views",
+    "date_text": "Nov 6, 2025",
+    "owner": "Mikey Pipes - Pipe Doctor Plumbing & Heating & Air",
+    "views": 24286,
+    "date": "2025-11-06"
+   },
+   "oembed": "No Heat! Burnham Boiler Pilot Won’t Stay Lit — Watch Mikey Pipes & Derek Diagnose and Fix It LIVE | Mikey Pipes - Pipe Doctor Plumbing & Heating & Air | https://www.youtube.com/@PipeDoctor",
+   "nexlev_lengthSeconds": 1391
+  },
+  "RZOnKKmE1V8": {
+   "next": {
+    "id": "RZOnKKmE1V8",
+    "pulled": "2026-10-24T08:27:18.933999+00:00",
+    "source": "innertube /next videoId=RZOnKKmE1V8",
+    "title": "Before Fans, This Octopus Furnace Heated a House by Itself",
+    "views_text": "48 views",
+    "date_text": "Sep 25, 2026",
+    "owner": "Halden Row",
+    "views": 48,
+    "date": "2026-09-25"
+   },
+   "oembed": "Before Fans, This Octopus Furnace Heated a House by Itself | Halden Row | https://www.youtube.com/@HaldenRow",
+   "nexlev_lengthSeconds": 888
+  },
+  "HNnUO3-fj8Q": {
+   "next": {
+    "id": "HNnUO3-fj8Q",
+    "pulled": "2026-10-24T08:27:18.935223+00:00",
+    "source": "innertube /next videoId=HNnUO3-fj8Q",
+    "title": "How to Replace a Steam Radiator | Ask This Old House",
+    "views_text": "536,526 views",
+    "date_text": "Nov 5, 2017",
+    "owner": "This Old House",
+    "views": 536526,
+    "date": "2017-11-05"
+   },
+   "oembed": "How to Replace a Steam Radiator | Ask This Old House | This Old House | https://www.youtube.com/@thisoldhouse",
+   "nexlev_lengthSeconds": 510
+  },
+  "Y-8EWK1Moh0": {
+   "next": {
+    "id": "Y-8EWK1Moh0",
+    "pulled": "2026-10-24T08:27:18.936101+00:00",
+    "source": "innertube /next videoId=Y-8EWK1Moh0",
+    "title": "Hydronics System Components",
+    "views_text": "447,548 views",
+    "date_text": "Feb 28, 2018",
+    "owner": "Tec Tube",
+    "views": 447548,
+    "date": "2018-02-28"
+   },
+   "oembed": "Hydronics System Components | Tec Tube | https://www.youtube.com/@TECTubefilms",
+   "nexlev_lengthSeconds": 750
+  },
+  "es478xgCHEw": {
+   "next": {
+    "id": "es478xgCHEw",
+    "pulled": "2026-10-24T08:27:18.937264+00:00",
+    "source": "innertube /next videoId=es478xgCHEw",
+    "title": "How to Repair a Leaking Boiler Relief Valve Easy DIY",
+    "views_text": "624,604 views",
+    "date_text": "Jun 10, 2016",
+    "owner": "DIYeasycrafts",
+    "views": 624604,
+    "date": "2016-06-10"
+   },
+   "oembed": "How to Repair a Leaking Boiler Relief Valve Easy DIY | DIYeasycrafts | https://www.youtube.com/@DIYeasycrafts",
+   "nexlev_lengthSeconds": 423
+  },
+  "yCZqfnlBYW8": {
+   "next": {
+    "id": "yCZqfnlBYW8",
+    "pulled": "2026-10-24T08:27:18.937917+00:00",
+    "source": "innertube /next videoId=yCZqfnlBYW8",
+    "title": "Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT",
+    "views_text": "470,690 views",
+    "date_text": "Dec 31, 2017",
+    "owner": "Silver Cymbal",
+    "views": 470690,
+    "date": "2017-12-31"
+   },
+   "oembed": "Fix & Repair Stuck Circulator Pump Before Replacing NO HEAT | Silver Cymbal | https://www.youtube.com/@SilverCymbal",
+   "nexlev_lengthSeconds": 318
+  },
+  "FllsHYw4nKs": {
+   "next": {
+    "id": "FllsHYw4nKs",
+    "pulled": "2026-10-24T08:27:19.942322+00:00",
+    "source": "innertube /next videoId=FllsHYw4nKs",
+    "title": "STOP Heating Your Walls — This $0 Foil Trick Doubles Your Radiator Heat",
+    "views_text": "11 views",
+    "date_text": "Oct 15, 2026",
+    "owner": "Walt's Workshop",
+    "views": 11,
+    "date": "2026-10-15"
+   },
+   "oembed": "STOP Heating Your Walls — This $0 Foil Trick Doubles Your Radiator Heat | Walt's Workshop | https://www.youtube.com/@WaltsWorkshopDIY",
+   "nexlev_lengthSeconds": 720
+  },
+  "voS7Url50M4": {
+   "next": {
+    "id": "voS7Url50M4",
+    "pulled": "2026-10-24T08:27:19.942903+00:00",
+    "source": "innertube /next videoId=voS7Url50M4",
+    "title": "Remove Air from your Boiler and Heating System | How To",
+    "views_text": "1,153,872 views",
+    "date_text": "Jan 12, 2019",
+    "owner": "Fix It With Zim",
+    "views": 1153872,
+    "date": "2019-01-12"
+   },
+   "oembed": "Remove Air from your Boiler and Heating System | How To | Fix It With Zim | https://www.youtube.com/@fixitwithzim",
+   "nexlev_lengthSeconds": 984
+  },
+  "LyHy2En9iF0": {
+   "next": {
+    "id": "LyHy2En9iF0",
+    "pulled": "2026-10-24T08:27:19.967167+00:00",
+    "source": "innertube /next videoId=LyHy2En9iF0",
+    "title": "Troubleshoot the oil furnace part 3.  Fire comes on but shuts down.",
+    "views_text": "760,465 views",
+    "date_text": "Nov 25, 2013",
+    "owner": "grayfurnaceman",
+    "views": 760465,
+    "date": "2013-11-25"
+   },
+   "oembed": "Troubleshoot the oil furnace part 3.  Fire comes on but shuts down. | grayfurnaceman | https://www.youtube.com/@grayfurnaceman",
+   "nexlev_lengthSeconds": 515
+  },
+  "WfXTAcRNPzk": {
+   "next": {
+    "id": "WfXTAcRNPzk",
+    "pulled": "2026-10-24T08:27:19.973686+00:00",
+    "source": "innertube /next videoId=WfXTAcRNPzk",
+    "title": "This New Heat Pump Could Finish Boilers",
+    "views_text": "260,519 views",
+    "date_text": "Sep 3, 2026",
+    "owner": "Heatable",
+    "views": 260519,
+    "date": "2026-09-03"
+   },
+   "oembed": "This New Heat Pump Could Finish Boilers | Heatable | https://www.youtube.com/@Heatable",
+   "nexlev_lengthSeconds": 1042
+  }
+ },
+ "oldheat_grayfurnaceman_dates": {
+  "cog7MaShR7M": {
+   "id": "cog7MaShR7M",
+   "pulled": "2026-10-24T08:27:33.765117+00:00",
+   "source": "innertube /next videoId=cog7MaShR7M",
+   "title": "Troubleshoot the oil furnace part 1. Burner won't start.",
+   "views_text": "1,043,538 views",
+   "date_text": "Nov 23, 2013",
+   "owner": "grayfurnaceman",
+   "views": 1043538,
+   "date": "2013-11-23"
+  },
+  "TfPnLUz1Vh4": {
+   "id": "TfPnLUz1Vh4",
+   "pulled": "2026-10-24T08:27:33.765637+00:00",
+   "source": "innertube /next videoId=TfPnLUz1Vh4",
+   "title": "Oil furnace troubleshoot part 2 No flame",
+   "views_text": "1,012,940 views",
+   "date_text": "Nov 24, 2013",
+   "owner": "grayfurnaceman",
+   "views": 1012940,
+   "date": "2013-11-24"
+  }
+ },
+ "oldheat_search_reruns": [
+  {
+   "keyword": "steam radiator not getting hot",
+   "sort": "relevance",
+   "pulled": "2026-10-24T08:28:35Z",
+   "stored_pulled": "2026-10-24T06:58:48Z",
+   "stored_n": 21,
+   "new_n": 21,
+   "overlap_all": 12,
+   "overlap_top10": 7,
+   "stored_long": 13,
+   "new_long": 14,
+   "overlap_long": 7,
+   "stored_top5": [
+    [
+     "9Bgq0Bhf1kI",
+     "No Heat in Steam Radiator Troubleshooting | Valve Sizing, Pipe Pitch, & More",
+     "30,501 views"
+    ],
+    [
+     "jC3sbirGGAI",
+     "Steam Heating Systems Basics  hvacr",
+     "621,207 views"
+    ],
+    [
+     "UmfKzbsQxKE",
+     "Radiator NOT Heating Up? Expert DIY Fixes",
+     "1,246,905 views"
+    ],
+    [
+     "aNUi_8jlBrs",
+     "Radiator Not Getting Hot? Try This First...",
+     "46,571 views"
+    ],
+    [
+     "YJK3I3eKvSs",
+     "Steam Radiator Not Working",
+     "153,319 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "9Bgq0Bhf1kI",
+     "No Heat in Steam Radiator Troubleshooting | Valve Sizing, Pipe Pitch, & More",
+     "30,508 views"
+    ],
+    [
+     "aNUi_8jlBrs",
+     "Radiator Not Getting Hot? Try This First...",
+     "46,574 views"
+    ],
+    [
+     "YJK3I3eKvSs",
+     "Steam Radiator Not Working",
+     "153,320 views"
+    ],
+    [
+     "7I8HfJp_YWE",
+     "OLD CASTIRON RADIATOR BOILER JOB NOT HEATING PROPERLY",
+     "65,559 views"
+    ],
+    [
+     "-S63pXuF_Mk",
+     "Varivalve Single Pipe Steam Radiator Vent - It Vents Too Much, It's Likely To Spit & Fail Open",
+     "13,861 views"
+    ]
+   ]
+  },
+  {
+   "keyword": "hot water baseboard heat",
+   "sort": "views",
+   "pulled": "2026-10-24T08:28:37Z",
+   "stored_pulled": "2026-10-24T07:02:07Z",
+   "stored_n": 20,
+   "new_n": 20,
+   "overlap_all": 20,
+   "overlap_top10": 10,
+   "stored_long": 14,
+   "new_long": 14,
+   "overlap_long": 14,
+   "stored_top5": [
+    [
+     "SrC3wms8pQ8",
+     "How Amish Heat Their Living Room Without Gas/Electricity",
+     "2,533,993 views"
+    ],
+    [
+     "z80WspC4Nmg",
+     "How To Remove Air From Your Heating System",
+     "2,050,577 views"
+    ],
+    [
+     "wG-CqFr6FLM",
+     "How to remove the air from your boiler / heater",
+     "1,625,468 views"
+    ],
+    [
+     "899T2ShPfHo",
+     "Tankless Water Heater 3 Things to Know",
+     "1,364,946 views"
+    ],
+    [
+     "UmfKzbsQxKE",
+     "Radiator NOT Heating Up? Expert DIY Fixes",
+     "1,246,905 views"
+    ]
+   ],
+   "new_top5": [
+    [
+     "SrC3wms8pQ8",
+     "How Amish Heat Their Living Room Without Gas/Electricity",
+     "2,533,993 views"
+    ],
+    [
+     "z80WspC4Nmg",
+     "How To Remove Air From Your Heating System",
+     "2,050,616 views"
+    ],
+    [
+     "wG-CqFr6FLM",
+     "How to remove the air from your boiler / heater",
+     "1,625,468 views"
+    ],
+    [
+     "899T2ShPfHo",
+     "Tankless Water Heater 3 Things to Know",
+     "1,364,946 views"
+    ],
+    [
+     "UmfKzbsQxKE",
+     "Radiator NOT Heating Up? Expert DIY Fixes",
+     "1,246,959 views"
+    ]
+   ]
+  }
+ ],
+ "oldheat_multiple_boiler_room_detective": {
+  "channel": "Boiler Room Detective",
+  "id": "UCBcvJZZwIKcm6i0UsBX2LBA",
+  "subs": "3.18K subscribers",
+  "pulled": "2026-10-24T08:29:22.749595+00:00",
+  "latest_n": 180,
+  "last12_longform_n": 38,
+  "median": 478,
+  "video": "3RT5IGboBCM",
+  "views_tab": 44000,
+  "multiple": 92.05,
+  "latest_rows": [
+   {
+    "id": "K_77lszmowY",
+    "title": "Hydronic Boiler Heats Up Before You're Done Testing? Try This!",
+    "meta": [
+     "96",
+     "22h ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 96
+   },
+   {
+    "id": "TzbQSRgaVKo",
+    "title": "Boiler Is Hot but Building Is Cold? Here's What to Check!",
+    "meta": [
+     "414",
+     "7d ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 414
+   },
+   {
+    "id": "fMgpIX1YWR0",
+    "title": "Why we still use steam",
+    "meta": [
+     "392",
+     "2w ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 392
+   },
+   {
+    "id": "HlBFEFtk4e4",
+    "title": "The Battle for Air: Chimney vs Exhaust Fan",
+    "meta": [
+     "827",
+     "3w ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 827
+   },
+   {
+    "id": "6DvfXh26Uzo",
+    "title": "Hydronic boiler won't start? Check these 7 things first.",
+    "meta": [
+     "676",
+     "4w ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 676
+   },
+   {
+    "id": "56oBYJctTEg",
+    "title": "Why your boiler keeps losing pressure",
+    "meta": [
+     "663",
+     "1mo ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 663
+   },
+   {
+    "id": "OPfLxHvX7RE",
+    "title": "Should I drain the boiler in the summer?",
+    "meta": [
+     "692",
+     "1mo ago"
+    ],
+    "dur": "4:51",
+    "views_tab": 692
+   },
+   {
+    "id": "pmuMLa-roMo",
+    "title": "Should I replace the steam system with forced air?",
+    "meta": [
+     "783",
+     "1mo ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 783
+   },
+   {
+    "id": "ZjiXP8kkCRU",
+    "title": "What caused this on a boiler flue?",
+    "meta": [
+     "1K",
+     "1mo ago"
+    ],
+    "dur": "3:54",
+    "views_tab": 1000
+   },
+   {
+    "id": "FiOd0w0hA1M",
+    "title": "Cleaning a dirty burner blower wheel",
+    "meta": [
+     "555",
+     "2mo ago"
+    ],
+    "dur": "5:27",
+    "views_tab": 555
+   },
+   {
+    "id": "ZRPnOthFu9Q",
+    "title": "Why do boilers soot?",
+    "meta": [
+     "433",
+     "2mo ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 433
+   },
+   {
+    "id": "DjmwZp86wTo",
+    "title": "Why is the stack temperature so high?",
+    "meta": [
+     "362",
+     "2mo ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 362
+   },
+   {
+    "id": "A7jTuze1UcE",
+    "title": "Remembering Binyomin",
+    "meta": [
+     "162",
+     "2mo ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 162
+   },
+   {
+    "id": "ffxhK89KU5o",
+    "title": "What Happens When Steam Pipe Insulation Is Removed? It's Worse Than You Think",
+    "meta": [
+     "430",
+     "2mo ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 430
+   },
+   {
+    "id": "5deHfmrCJNU",
+    "title": "The Most Dangerous Thing in a Boiler Room Isn’t the Boiler. It's Hearing it's Grandfathered in",
+    "meta": [
+     "324",
+     "3mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 324
+   },
+   {
+    "id": "7t9kXJEhvE0",
+    "title": "The 5 second challenge  Can you find the steam problems?",
+    "meta": [
+     "366",
+     "3mo ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 366
+   },
+   {
+    "id": "JsNy6Cnfx_o",
+    "title": "Why Carbon Monoxide Is So Dangerous",
+    "meta": [
+     "198",
+     "3mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 198
+   },
+   {
+    "id": "ieprHrOc2Uk",
+    "title": "Can Gas Train Vents Be Combined? The Dangerous Mistake Most Techs Make",
+    "meta": [
+     "196",
+     "4mo ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 196
+   },
+   {
+    "id": "IQt-9cbW5Yo",
+    "title": "The 20 second challenge: What's wrong with the boiler?",
+    "meta": [
+     "416",
+     "4mo ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 416
+   },
+   {
+    "id": "UFiI8cerjzs",
+    "title": "The Hidden Hydronic Problem NobodyChecks: Water Velocity",
+    "meta": [
+     "373",
+     "4mo ago"
+    ],
+    "dur": "6:58",
+    "views_tab": 373
+   },
+   {
+    "id": "ujzihMilo8M",
+    "title": "The Boiler Room Hero  Scott Galto",
+    "meta": [
+     "568",
+     "4mo ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 568
+   },
+   {
+    "id": "KloCApIEsdg",
+    "title": "8 Steam rules every tech  should know",
+    "meta": [
+     "525",
+     "5mo ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 525
+   },
+   {
+    "id": "faJr7EOGvIE",
+    "title": "Steam Boiler Replacement: Don't Make These Expensive Mistakes",
+    "meta": [
+     "457",
+     "5mo ago"
+    ],
+    "dur": "6:46",
+    "views_tab": 457
+   },
+   {
+    "id": "UcKdGlx1MFY",
+    "title": "Why your boiler is already failing. Top 5 installation mistakes",
+    "meta": [
+     "145",
+     "5mo ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 145
+   },
+   {
+    "id": "N27uW7dAeIU",
+    "title": "Troubleshooting a Friday Afternoon Boiler Service Call Without a Diagram",
+    "meta": [
+     "301",
+     "5mo ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 301
+   },
+   {
+    "id": "nAymjF8jwIA",
+    "title": "HeatingHelp.com, my go to site for heating system answers",
+    "meta": [
+     "41",
+     "5mo ago"
+    ],
+    "dur": "0:18",
+    "views_tab": 41
+   },
+   {
+    "id": "CnQ4tz5VYSM",
+    "title": "Why is the boiler room so cold? Unintended consequences of updating boilers",
+    "meta": [
+     "294",
+     "5mo ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 294
+   },
+   {
+    "id": "snasrQVB8sA",
+    "title": "Why is the boiler moaning?",
+    "meta": [
+     "69",
+     "6mo ago"
+    ],
+    "dur": "0:27",
+    "views_tab": 69
+   },
+   {
+    "id": "lnWnTMbzhaY",
+    "title": "The case of the stuck flow switch",
+    "meta": [
+     "394",
+     "6mo ago"
+    ],
+    "dur": "4:58",
+    "views_tab": 394
+   },
+   {
+    "id": "6lM0HYBKJow",
+    "title": "Probe Type Low Water Cutoff LWCO Maintenance",
+    "meta": [
+     "983",
+     "6mo ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 983
+   },
+   {
+    "id": "9S1JfMw5wgE",
+    "title": "Low Water Cutoff Maintenance Float Type LWCO Teardown & Blowdown Steam Boiler Safety",
+    "meta": [
+     "527",
+     "6mo ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 527
+   },
+   {
+    "id": "80M3vuE4O4o",
+    "title": "Boiler Room Detective The Fatal Venting Error in Room 225",
+    "meta": [
+     "420",
+     "6mo ago"
+    ],
+    "dur": "4:15",
+    "views_tab": 420
+   },
+   {
+    "id": "6gQUTAzKUSM",
+    "title": "Reusing the Old Chimney When Replacing a Boiler? Dangerous Mistake!",
+    "meta": [
+     "598",
+     "7mo ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 598
+   },
+   {
+    "id": "7oEhVRfF4GQ",
+    "title": "Boiler Room Dangers: That Smell Could Save Your Life or Warn you of  Disaster",
+    "meta": [
+     "421",
+     "7mo ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 421
+   },
+   {
+    "id": "44eR4IaQPZU",
+    "title": "Boiler Safety Upgrade: Installing a Second Pressure Control in Series",
+    "meta": [
+     "365",
+     "7mo ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 365
+   },
+   {
+    "id": "em8EoZa1WWM",
+    "title": "Boiler Gas Train Preventive Maintenance – What Most Techs Miss",
+    "meta": [
+     "344",
+     "7mo ago"
+    ],
+    "dur": "5:29",
+    "views_tab": 344
+   },
+   {
+    "id": "gkU54RaT8dc",
+    "title": "The Steam Trap Isn’t Too Small — You’re Looking at the Wrong Problem!",
+    "meta": [
+     "287",
+     "8mo ago"
+    ],
+    "dur": "6:01",
+    "views_tab": 287
+   },
+   {
+    "id": "VrjMbS5NNk4",
+    "title": "Why is a steam burn so much worse than a hot water?",
+    "meta": [
+     "432",
+     "8mo ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 432
+   },
+   {
+    "id": "8-R0LgSrD9I",
+    "title": "The Case of the Short-Cycling Boiler – Causes, Damage & Fixes",
+    "meta": [
+     "1.5K",
+     "8mo ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 1500
+   },
+   {
+    "id": "B0I6yMbx810",
+    "title": "Don't buy that actuator just yet! The 2-Wire Boiler Killer That Cost Almost $700",
+    "meta": [
+     "265",
+     "8mo ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 265
+   },
+   {
+    "id": "zLsN_bo_LoQ",
+    "title": "Where to REALLY Install Barometric Dampers on Multiple Boilers (Avoid These Deadly Mistakes!)",
+    "meta": [
+     "1K",
+     "9mo ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 1000
+   },
+   {
+    "id": "lpcO3Qb_k-Q",
+    "title": "That Pesky O₂ Molecule – How Oxygen Finds Its Way Back Into a Steam Boiler",
+    "meta": [
+     "309",
+     "9mo ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 309
+   },
+   {
+    "id": "rUYzfaGO2hI",
+    "title": "🔥 Why Raising Steam Boiler Pressure Is a HUGE Mistake (Costs You Money & Causes Banging!)",
+    "meta": [
+     "763",
+     "9mo ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 763
+   },
+   {
+    "id": "hVgQiLbD3JY",
+    "title": "Boiler PRVs",
+    "meta": [
+     "479",
+     "9mo ago"
+    ],
+    "dur": "6:04",
+    "views_tab": 479
+   },
+   {
+    "id": "y2CefOf7MdQ",
+    "title": "Steam Drip Legs: The Unsung Heroes That Stop Water Hammer and Save Your Steam System!",
+    "meta": [
+     "705",
+     "9mo ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 705
+   },
+   {
+    "id": "7awLlcjJjX4",
+    "title": "How Steam Heating Systems Breathe Just Like You Do – The Secret to Troubleshooting",
+    "meta": [
+     "477",
+     "10mo ago"
+    ],
+    "dur": "5:58",
+    "views_tab": 477
+   },
+   {
+    "id": "dr7sU9SrIds",
+    "title": "Why steam heat worked in morning but didnt after. Understanding air vent drop away pressure",
+    "meta": [
+     "1.1K",
+     "10mo ago"
+    ],
+    "dur": "7:25",
+    "views_tab": 1100
+   },
+   {
+    "id": "AeaIW1n2xm8",
+    "title": "What the Heck is CO Air Free (COAF) and Why Should You Care? | Boiler Room Detective 🔍",
+    "meta": [
+     "396",
+     "10mo ago"
+    ],
+    "dur": "6:49",
+    "views_tab": 396
+   },
+   {
+    "id": "-CAOb94tKgM",
+    "title": "Debunking steam heating myths",
+    "meta": [
+     "286",
+     "10mo ago"
+    ],
+    "dur": "7:15",
+    "views_tab": 286
+   },
+   {
+    "id": "9zQS6mmfBYE",
+    "title": "#1 boiler killer you're NOT testing (Low pH will destroy your boiler fast",
+    "meta": [
+     "944",
+     "11mo ago"
+    ],
+    "dur": "6:42",
+    "views_tab": 944
+   },
+   {
+    "id": "8ldTb_FbR24",
+    "title": "Unraveling Intermittent Boiler Flame Failures: The Ultimate Troubleshooting Guide for Technicians",
+    "meta": [
+     "1.6K",
+     "11mo ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 1600
+   },
+   {
+    "id": "KcdiTpyloPg",
+    "title": "Why is the top radiator cold?",
+    "meta": [
+     "398",
+     "11mo ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 398
+   },
+   {
+    "id": "zK1qIEril-0",
+    "title": "Why your radiators arent heating right",
+    "meta": [
+     "492",
+     "11mo ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 492
+   },
+   {
+    "id": "ZM8RopljrG0",
+    "title": "Why Your Classroom Unit Ventilator Blows Cold Air and Why Thats Normal",
+    "meta": [
+     "969",
+     "11mo ago"
+    ],
+    "dur": "5:03",
+    "views_tab": 969
+   },
+   {
+    "id": "SlU7a2BU9fo",
+    "title": "The First Five Minutes in a Boiler Room Can Tell You Everything",
+    "meta": [
+     "659",
+     "1y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 659
+   },
+   {
+    "id": "hSF2iQI2dFY",
+    "title": "Top 10 Steam Heating Problems & How to Fix Them!",
+    "meta": [
+     "4K",
+     "1y ago"
+    ],
+    "dur": "8:53",
+    "views_tab": 4000
+   },
+   {
+    "id": "GB6WXxVTkn4",
+    "title": "Top Ten Hydronic Issues and Fixes",
+    "meta": [
+     "1.7K",
+     "1y ago"
+    ],
+    "dur": "6:45",
+    "views_tab": 1700
+   },
+   {
+    "id": "gxCjXNUNIhw",
+    "title": "Uncovering the Dirty Truth About Sooted Boilers",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 1600
+   },
+   {
+    "id": "zrtnzRQRVSU",
+    "title": "Understanding Gas Boiler Burners: Firing Types & Turndown Ratios Explained",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 1000
+   },
+   {
+    "id": "fY8AEoUXtCQ",
+    "title": "The Battle Inside Your Boiler: Air vs Steam",
+    "meta": [
+     "382",
+     "1y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 382
+   },
+   {
+    "id": "jce2WMZXAA4",
+    "title": "Why you must flush hydronic piping before installing a boiler",
+    "meta": [
+     "656",
+     "1y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 656
+   },
+   {
+    "id": "CKiqRhrraJI",
+    "title": "15 boiler room noises you should never ignore",
+    "meta": [
+     "8.3K",
+     "1y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 8300
+   },
+   {
+    "id": "nJ_Ky6mLbuE",
+    "title": "Always assume the old steam boiler was installed wrong",
+    "meta": [
+     "220",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 220
+   },
+   {
+    "id": "t1LQCqTs7ss",
+    "title": "Hydronic Boiler Scale: Causes Dangers Prevention",
+    "meta": [
+     "473",
+     "1y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 473
+   },
+   {
+    "id": "UVgUOkPqh0E",
+    "title": "How does a steam boiler work",
+    "meta": [
+     "2.8K",
+     "1y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 2800
+   },
+   {
+    "id": "cVeVCVKhOL0",
+    "title": "The Glycol Myth Why Your Pipes Might Freeze Anyway!  Boiler Room Detective",
+    "meta": [
+     "995",
+     "1y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 995
+   },
+   {
+    "id": "I2FHX3gY3Yo",
+    "title": "Why is my radiator cold?",
+    "meta": [
+     "700",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 700
+   },
+   {
+    "id": "f5nJV1SY1Vg",
+    "title": "Master Steam Trap Mistake",
+    "meta": [
+     "475",
+     "1y ago"
+    ],
+    "dur": "4:14",
+    "views_tab": 475
+   },
+   {
+    "id": "Rqg6tn_H4w0",
+    "title": "Firetube vs Watertube Boilers Explained: Which One Is Better for Steam Heating?",
+    "meta": [
+     "3.1K",
+     "1y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 3100
+   },
+   {
+    "id": "pEwrkd7rQSk",
+    "title": "How to Prevent 33% of all Boiler Accidents with One Simple Test",
+    "meta": [
+     "157",
+     "1y ago"
+    ],
+    "dur": "2:08",
+    "views_tab": 157
+   },
+   {
+    "id": "Y8mqDqN0ZAI",
+    "title": "Using Thermal Cameras to Find Problems - A review of the Thermal Master P2 Pro camera",
+    "meta": [
+     "222",
+     "1y ago"
+    ],
+    "dur": "2:22",
+    "views_tab": 222
+   },
+   {
+    "id": "3uvu_d3bst8",
+    "title": "My Boiler Relief Valve is Leaking",
+    "meta": [
+     "5.8K",
+     "1y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 5800
+   },
+   {
+    "id": "QD7zfDerg-U",
+    "title": "How Steam Traps Work: Thermostatic and F&T Explained",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 1100
+   },
+   {
+    "id": "S3RjU3_2_OM",
+    "title": "Boiler Room Dangers - Steam Piping",
+    "meta": [
+     "282",
+     "1y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 282
+   },
+   {
+    "id": "BKmUoWc5pCs",
+    "title": "Why is my Hydronic Boiler short cycling?",
+    "meta": [
+     "3.6K",
+     "1y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 3600
+   },
+   {
+    "id": "x-MCpzNkrPE",
+    "title": "My steam boiler is short cycling",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "4:00",
+    "views_tab": 2500
+   },
+   {
+    "id": "nPuOQe4Se4Y",
+    "title": "How to Estimate Water Volume in a Hydronic System",
+    "meta": [
+     "859",
+     "1y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 859
+   },
+   {
+    "id": "aiR6pJanydU",
+    "title": "What is boiler draft?",
+    "meta": [
+     "715",
+     "1y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 715
+   },
+   {
+    "id": "72ycC_ALCDA",
+    "title": "Are boiler rooms dangerous?",
+    "meta": [
+     "307",
+     "1y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 307
+   },
+   {
+    "id": "zAiG3XWPXnk",
+    "title": "How water velocity affects hydronic systems",
+    "meta": [
+     "489",
+     "1y ago"
+    ],
+    "dur": "6:37",
+    "views_tab": 489
+   },
+   {
+    "id": "mwhYlXjLCbk",
+    "title": "Boiler failure mystery solved using the pump curve",
+    "meta": [
+     "427",
+     "1y ago"
+    ],
+    "dur": "6:46",
+    "views_tab": 427
+   },
+   {
+    "id": "mSbpPwHDFwk",
+    "title": "Boiler feed mistakes & sizing",
+    "meta": [
+     "785",
+     "1y ago"
+    ],
+    "dur": "7:43",
+    "views_tab": 785
+   },
+   {
+    "id": "t8x61mJBe60",
+    "title": "Boiler flame signals",
+    "meta": [
+     "825",
+     "1y ago"
+    ],
+    "dur": "6:10",
+    "views_tab": 825
+   },
+   {
+    "id": "i9bePVMsdHM",
+    "title": "Benefits & dangers of boiler refractory",
+    "meta": [
+     "1.6K",
+     "1y ago"
+    ],
+    "dur": "7:53",
+    "views_tab": 1600
+   },
+   {
+    "id": "lLb5vQKMsdE",
+    "title": "Understanding the Combustion Process",
+    "meta": [
+     "1.5K",
+     "1y ago"
+    ],
+    "dur": "6:59",
+    "views_tab": 1500
+   },
+   {
+    "id": "EFN5a7eE9kQ",
+    "title": "How does steam get to the radiator",
+    "meta": [
+     "715",
+     "1y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 715
+   },
+   {
+    "id": "vykHzOVSB24",
+    "title": "What are these things & what do they do?",
+    "meta": [
+     "1.8K",
+     "1y ago"
+    ],
+    "dur": "4:56",
+    "views_tab": 1800
+   },
+   {
+    "id": "2dTaIwtjmLs",
+    "title": "Venting Air from a Hydronic Heating System—The Easy Way!",
+    "meta": [
+     "4.4K",
+     "1y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 4400
+   },
+   {
+    "id": "GWb6ahW5QIE",
+    "title": "Why is the boiler feed tank flooding every morning",
+    "meta": [
+     "746",
+     "1y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 746
+   },
+   {
+    "id": "OjtIG6-nMIg",
+    "title": "What is a pigtail and what does it do",
+    "meta": [
+     "3.7K",
+     "1y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 3700
+   },
+   {
+    "id": "Hb8Mc2LUTcc",
+    "title": "Case of discolored boiler jacket",
+    "meta": [
+     "366",
+     "1y ago"
+    ],
+    "dur": "4:04",
+    "views_tab": 366
+   },
+   {
+    "id": "Lvff5DL9EHY",
+    "title": "The frozen pipe in the warm boiler room",
+    "meta": [
+     "457",
+     "1y ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 457
+   },
+   {
+    "id": "-xvuaDkxVaQ",
+    "title": "Time Delay Relay case",
+    "meta": [
+     "511",
+     "1y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 511
+   },
+   {
+    "id": "Er_13wzGseo",
+    "title": "Troubleshooting back flow preventers with Hot Rod",
+    "meta": [
+     "561",
+     "1y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 561
+   },
+   {
+    "id": "G-lzA1i1N2s",
+    "title": "How does a hydronic reset control work?",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 1000
+   },
+   {
+    "id": "cPIPMTizqkU",
+    "title": "The case of the frozen gas meter",
+    "meta": [
+     "720",
+     "1y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 720
+   },
+   {
+    "id": "vTGKeZXIuFI",
+    "title": "Chasing DOLLARS",
+    "meta": [
+     "212",
+     "1y ago"
+    ],
+    "dur": "4:57",
+    "views_tab": 212
+   },
+   {
+    "id": "FhCZOTG5OeY",
+    "title": "Understanding boiler wiring schematics",
+    "meta": [
+     "5.1K",
+     "1y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 5100
+   },
+   {
+    "id": "2wlc22-HZwM",
+    "title": "Case of the Upside Down Control Panel",
+    "meta": [
+     "431",
+     "1y ago"
+    ],
+    "dur": "5:56",
+    "views_tab": 431
+   },
+   {
+    "id": "tys4o-zvMBs",
+    "title": "Mastering Steam Systems",
+    "meta": [
+     "603",
+     "1y ago"
+    ],
+    "dur": "1:13:33",
+    "views_tab": 603
+   },
+   {
+    "id": "h5okr3NVPCo",
+    "title": "Why boilers are still great",
+    "meta": [
+     "544",
+     "1y ago"
+    ],
+    "dur": "8:40",
+    "views_tab": 544
+   },
+   {
+    "id": "PMyblZ0dqsc",
+    "title": "Hydronic boiler room dangers",
+    "meta": [
+     "365",
+     "1y ago"
+    ],
+    "dur": "6:05",
+    "views_tab": 365
+   },
+   {
+    "id": "pYgfg-SnLRc",
+    "title": "Steam Boiler Room Dangers",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 1000
+   },
+   {
+    "id": "CCfJaBG9eyU",
+    "title": "Boiler room emergency door switches",
+    "meta": [
+     "1K",
+     "1y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 1000
+   },
+   {
+    "id": "SScF3HmFxQ4",
+    "title": "Boiler gas pressure switches",
+    "meta": [
+     "2K",
+     "1y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 2000
+   },
+   {
+    "id": "rjmYhOQESsY",
+    "title": "Hydronic boiler wiring - Finding the problem",
+    "meta": [
+     "809",
+     "1y ago"
+    ],
+    "dur": "5:04",
+    "views_tab": 809
+   },
+   {
+    "id": "H9BR_atUMWA",
+    "title": "Why is the compression tank flooding",
+    "meta": [
+     "419",
+     "2y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 419
+   },
+   {
+    "id": "vMcW8v8bT5U",
+    "title": "How does the boiler fill valve work?",
+    "meta": [
+     "12K",
+     "2y ago"
+    ],
+    "dur": "6:52",
+    "views_tab": 12000
+   },
+   {
+    "id": "c-AN6-5wkK8",
+    "title": "Understanding the PTA Gauge",
+    "meta": [
+     "4.3K",
+     "2y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 4300
+   },
+   {
+    "id": "MHk5D77wadY",
+    "title": "Gauge glass maintenance",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "7:42",
+    "views_tab": 2600
+   },
+   {
+    "id": "HzkRBscsadY",
+    "title": "2 things you never do on a Friday afternoon",
+    "meta": [
+     "352",
+     "2y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 352
+   },
+   {
+    "id": "DHbFBxVWXhU",
+    "title": "Case of the air bound hydronic system",
+    "meta": [
+     "566",
+     "2y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 566
+   },
+   {
+    "id": "yOgjCRsCVHc",
+    "title": "Case of the broken vacuum breakers",
+    "meta": [
+     "429",
+     "2y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 429
+   },
+   {
+    "id": "Mw8-hkcNTEg",
+    "title": "How air temperature affects combustion",
+    "meta": [
+     "706",
+     "2y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 706
+   },
+   {
+    "id": "9Gbpewq9amI",
+    "title": "Case for dry steam",
+    "meta": [
+     "367",
+     "2y ago"
+    ],
+    "dur": "6:23",
+    "views_tab": 367
+   },
+   {
+    "id": "AHak5LidrUY",
+    "title": "Common hydronic boiler installation mistakes",
+    "meta": [
+     "589",
+     "2y ago"
+    ],
+    "dur": "7:21",
+    "views_tab": 589
+   },
+   {
+    "id": "XphDWWMF9sE",
+    "title": "Common mistakes made when installing  low pressure steam boilers",
+    "meta": [
+     "483",
+     "2y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 483
+   },
+   {
+    "id": "I7CkJFsEPyM",
+    "title": "Case of the cold offices",
+    "meta": [
+     "193",
+     "2y ago"
+    ],
+    "dur": "5:53",
+    "views_tab": 193
+   },
+   {
+    "id": "LUIT_9RQwu8",
+    "title": "Case of why the boiler isn't firing",
+    "meta": [
+     "362",
+     "2y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 362
+   },
+   {
+    "id": "7nTv4FnwXOQ",
+    "title": "Case of why door switches save lives",
+    "meta": [
+     "327",
+     "2y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 327
+   },
+   {
+    "id": "WwivqHYZ-rw",
+    "title": "Case of why the 7 year old boiler leaked",
+    "meta": [
+     "227",
+     "2y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 227
+   },
+   {
+    "id": "CWYKfwXhZao",
+    "title": "How an intermittent flame failure averted a catastrophe",
+    "meta": [
+     "749",
+     "2y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 749
+   },
+   {
+    "id": "iz2XHC0r3IY",
+    "title": "The difference between space heating and a brewery steam system",
+    "meta": [
+     "326",
+     "2y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 326
+   },
+   {
+    "id": "m4eLMs6cyfA",
+    "title": "Case of the no heating brew kettle",
+    "meta": [
+     "172",
+     "2y ago"
+    ],
+    "dur": "4:21",
+    "views_tab": 172
+   },
+   {
+    "id": "J3aQdtJ0fyo",
+    "title": "Case of why are the pipes banging",
+    "meta": [
+     "1.7K",
+     "2y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 1700
+   },
+   {
+    "id": "shArhgtNYKU",
+    "title": "Case of inadvertent law suit",
+    "meta": [
+     "208",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 208
+   },
+   {
+    "id": "XWytAArfxIY",
+    "title": "Common boiler feed system mistakes",
+    "meta": [
+     "980",
+     "2y ago"
+    ],
+    "dur": "7:38",
+    "views_tab": 980
+   },
+   {
+    "id": "SPpFOcSGLP4",
+    "title": "Difference between condensate and boiler feed tank",
+    "meta": [
+     "2K",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 2000
+   },
+   {
+    "id": "ptKB_rN7vWw",
+    "title": "Case of the random no heat calls at night",
+    "meta": [
+     "302",
+     "2y ago"
+    ],
+    "dur": "3:51",
+    "views_tab": 302
+   },
+   {
+    "id": "561mpzkScc0",
+    "title": "Case of why the boiler failed",
+    "meta": [
+     "329",
+     "2y ago"
+    ],
+    "dur": "4:24",
+    "views_tab": 329
+   },
+   {
+    "id": "ukd-SrOHqqA",
+    "title": "Case of the intermittent steam vent",
+    "meta": [
+     "282",
+     "2y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 282
+   },
+   {
+    "id": "9HynvMU4jO8",
+    "title": "Case of how air got into the piping",
+    "meta": [
+     "640",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 640
+   },
+   {
+    "id": "USNWlcN7ctA",
+    "title": "Case of the moving no heat call",
+    "meta": [
+     "402",
+     "2y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 402
+   },
+   {
+    "id": "uWGbbCpVGdY",
+    "title": "Case of the costly carryover",
+    "meta": [
+     "441",
+     "2y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 441
+   },
+   {
+    "id": "HCEOMo2rQVY",
+    "title": "Case of the time the boiler exploded with Ray inside",
+    "meta": [
+     "784",
+     "2y ago"
+    ],
+    "dur": "5:50",
+    "views_tab": 784
+   },
+   {
+    "id": "Zm6s7Sdzt3Q",
+    "title": "Case of the steam filled boiler room",
+    "meta": [
+     "535",
+     "2y ago"
+    ],
+    "dur": "4:27",
+    "views_tab": 535
+   },
+   {
+    "id": "GKrN4LucNEg",
+    "title": "Case of the time Ray was escorted off the job",
+    "meta": [
+     "401",
+     "2y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 401
+   },
+   {
+    "id": "KBW0cpa8OBw",
+    "title": "Case of the intermittent flame failures",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "6:20",
+    "views_tab": 1300
+   },
+   {
+    "id": "58-gPMCuU4M",
+    "title": "Case of the lowered steam pressure",
+    "meta": [
+     "519",
+     "2y ago"
+    ],
+    "dur": "4:52",
+    "views_tab": 519
+   },
+   {
+    "id": "L17GJVvjAOw",
+    "title": "Case of the boiler that failed on low water",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 1000
+   },
+   {
+    "id": "wkWfIk5zixU",
+    "title": "Case of the hydronic system with 3 way valve",
+    "meta": [
+     "1.8K",
+     "2y ago"
+    ],
+    "dur": "4:37",
+    "views_tab": 1800
+   },
+   {
+    "id": "zS2RvBQCWxI",
+    "title": "Case of the lost heat call",
+    "meta": [
+     "404",
+     "2y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 404
+   },
+   {
+    "id": "Ty6UfzToebc",
+    "title": "Case of the hybrid steam system",
+    "meta": [
+     "633",
+     "2y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 633
+   },
+   {
+    "id": "rbDkIIBhOJE",
+    "title": "Case of the tardy two pipe system",
+    "meta": [
+     "420",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 420
+   },
+   {
+    "id": "Bl2s6IzbUEU",
+    "title": "Case of the dangerous boiler room",
+    "meta": [
+     "847",
+     "2y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 847
+   },
+   {
+    "id": "9YJIFDuzw3Y",
+    "title": "Case of the cold apartment",
+    "meta": [
+     "778",
+     "2y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 778
+   },
+   {
+    "id": "2SXjXObnhOs",
+    "title": "Case of the cold radiator",
+    "meta": [
+     "510",
+     "2y ago"
+    ],
+    "dur": "3:49",
+    "views_tab": 510
+   },
+   {
+    "id": "tSkqAaW799E",
+    "title": "Case of the backward flow",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 2600
+   },
+   {
+    "id": "HgpD6xVPuQo",
+    "title": "Case of the tripped auxiliary low water cutoff",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "4:41",
+    "views_tab": 1600
+   },
+   {
+    "id": "Bn9wCCs8ZE8",
+    "title": "Case of the non heating steam system",
+    "meta": [
+     "430",
+     "2y ago"
+    ],
+    "dur": "4:13",
+    "views_tab": 430
+   },
+   {
+    "id": "SzVLUDJ4IRc",
+    "title": "Case for a hybrid boiler system",
+    "meta": [
+     "436",
+     "2y ago"
+    ],
+    "dur": "7:18",
+    "views_tab": 436
+   },
+   {
+    "id": "CnO3uM4Ms9g",
+    "title": "Case for 11 psi in breweries",
+    "meta": [
+     "760",
+     "2y ago"
+    ],
+    "dur": "6:21",
+    "views_tab": 760
+   },
+   {
+    "id": "dQaG6RLZ8wk",
+    "title": "Case of the banging steam pipes",
+    "meta": [
+     "2.1K",
+     "2y ago"
+    ],
+    "dur": "3:46",
+    "views_tab": 2100
+   },
+   {
+    "id": "BaxgX9uuF80",
+    "title": "The case of Ray versus the A Dimension",
+    "meta": [
+     "976",
+     "2y ago"
+    ],
+    "dur": "4:50",
+    "views_tab": 976
+   },
+   {
+    "id": "ocCir0YuWjw",
+    "title": "Case of the flooded steam boiler",
+    "meta": [
+     "1K",
+     "2y ago"
+    ],
+    "dur": "4:28",
+    "views_tab": 1000
+   },
+   {
+    "id": "dF2fx3URG_w",
+    "title": "Case of the damaged drain pipe",
+    "meta": [
+     "527",
+     "2y ago"
+    ],
+    "dur": "4:46",
+    "views_tab": 527
+   },
+   {
+    "id": "7hn3ZgWi2u0",
+    "title": "Case of the boiler descaler",
+    "meta": [
+     "2.3K",
+     "2y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 2300
+   },
+   {
+    "id": "vmn6d8QINac",
+    "title": "Case of the warped burner head",
+    "meta": [
+     "668",
+     "3y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 668
+   },
+   {
+    "id": "gMJqKNco-kk",
+    "title": "Detective Tools   How many boilers?",
+    "meta": [
+     "539",
+     "3y ago"
+    ],
+    "dur": "3:48",
+    "views_tab": 539
+   },
+   {
+    "id": "Mp7xAufRomo",
+    "title": "Detective Tools   What is this and what does it do?",
+    "meta": [
+     "628",
+     "3y ago"
+    ],
+    "dur": "3:18",
+    "views_tab": 628
+   },
+   {
+    "id": "yjUI3i04fP0",
+    "title": "Detective Tools   Adjusting a PA404 steam pressure control",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 13000
+   },
+   {
+    "id": "k3mYsafRIBU",
+    "title": "Case of the slippery  boiler room or Ray's first service call in a pet food rendering plant",
+    "meta": [
+     "486",
+     "3y ago"
+    ],
+    "dur": "3:42",
+    "views_tab": 486
+   },
+   {
+    "id": "Yz4vt9z9DxM",
+    "title": "Case of the boiler that wasn't a boiler",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 1200
+   },
+   {
+    "id": "O0aaxxW7fnM",
+    "title": "Case of the missed Christmas party or My first sooted boiler",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "6:26",
+    "views_tab": 1400
+   },
+   {
+    "id": "Q2FSjoLrWKg",
+    "title": "Case of the jumped safety controls",
+    "meta": [
+     "499",
+     "3y ago"
+    ],
+    "dur": "4:40",
+    "views_tab": 499
+   },
+   {
+    "id": "3RT5IGboBCM",
+    "title": "How to set & adjust steam boiler pressure controls",
+    "meta": [
+     "44K",
+     "3y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 44000
+   },
+   {
+    "id": "_CqcPC0hqUQ",
+    "title": "Case of the upset custodian",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "3:33",
+    "views_tab": 1000
+   },
+   {
+    "id": "SBypNhXDIJI",
+    "title": "Testing a steam pop safety valve",
+    "meta": [
+     "4.7K",
+     "3y ago"
+    ],
+    "dur": "3:57",
+    "views_tab": 4700
+   },
+   {
+    "id": "wI85alqimlI",
+    "title": "Case of no boiler maintenance",
+    "meta": [
+     "445",
+     "3y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 445
+   },
+   {
+    "id": "eGYHEY8mDek",
+    "title": "Why CSD1 code is a win win for the owner and the service company",
+    "meta": [
+     "538",
+     "3y ago"
+    ],
+    "dur": "3:17",
+    "views_tab": 538
+   },
+   {
+    "id": "VuzXvoZFAZ4",
+    "title": "Case of the boiler room flood alarm",
+    "meta": [
+     "728",
+     "3y ago"
+    ],
+    "dur": "3:36",
+    "views_tab": 728
+   },
+   {
+    "id": "WWcY2VZ6E_8",
+    "title": "Case of the counterfeit thermostat",
+    "meta": [
+     "369",
+     "3y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 369
+   },
+   {
+    "id": "7BfXcOTNgGw",
+    "title": "Detective Tools: Designing a steam system for a brewery",
+    "meta": [
+     "774",
+     "3y ago"
+    ],
+    "dur": "18:36",
+    "views_tab": 774
+   },
+   {
+    "id": "bmiVMv568tA",
+    "title": "Case of the failed makeup air fan",
+    "meta": [
+     "382",
+     "3y ago"
+    ],
+    "dur": "5:18",
+    "views_tab": 382
+   },
+   {
+    "id": "4sMCtC-RyL4",
+    "title": "Detective Tools   Replacing a steam boiler",
+    "meta": [
+     "747",
+     "3y ago"
+    ],
+    "dur": "14:29",
+    "views_tab": 747
+   },
+   {
+    "id": "YIMBJ78cWyI",
+    "title": "Detective Tools   Troubleshooting Hydronics",
+    "meta": [
+     "753",
+     "3y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 753
+   },
+   {
+    "id": "3GfQKxglZso",
+    "title": "Case of the high gas costs",
+    "meta": [
+     "626",
+     "3y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 626
+   },
+   {
+    "id": "ceSfgRt0jPc",
+    "title": "Detective Tools The case for 2 psi",
+    "meta": [
+     "743",
+     "3y ago"
+    ],
+    "dur": "6:55",
+    "views_tab": 743
+   },
+   {
+    "id": "CvRxCrPwFWI",
+    "title": "Case of the tripped limit controls",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 2500
+   },
+   {
+    "id": "U4I7HGlKOJs",
+    "title": "Detective Tools Hydronic Boiler Safety Controls",
+    "meta": [
+     "406",
+     "3y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 406
+   }
+  ]
+ },
+ "nexlev_channels": {
+  "about": {
+   "UCRmPv4sdRiPqyWXqPDVWNKg": {
+    "TITLE": "HVAC Technician Sales Secrets | http://www.youtube.com/@hvactechsecrets",
+    "DESC": "HVAC Technician Sales Secrets is a sales and business growth channel for HVAC companies. Scott Sylvan Bell is a business growth and exit strategy expert who builds sales systems that increase revenue and enterprise value.  This channel includes over 1,200 HVAC sales training videos on communication, objections, memberships, and tech-set leads. These systems have helped real HVAC companies create p",
+    "subscriberCountText": "2.24K subscribers",
+    "viewCountText": "207,833 views",
+    "videoCountText": "1,258 videos",
+    "joinedDateText": "Joined Nov 12, 2022",
+    "country": "United States"
+   },
+   "UCunyH0ECKaODq7PMSmtTI9w": {
+    "TITLE": "Homeowner Money | http://www.youtube.com/@HomeownerMoney",
+    "DESC": "Owning a home can get expensive fast. Homeowner Money helps you understand repairs, maintenance, hidden problems and costly mistakes before they drain your wallet.  We break down what home repairs really cost, warning signs you should never ignore, when to repair versus replace, common contractor mistakes, maintenance that can prevent major expenses, and the financial decisions every homeowner sho",
+    "subscriberCountText": "14 subscribers",
+    "viewCountText": "9,351 views",
+    "videoCountText": "104 videos",
+    "joinedDateText": "Joined Sep 23, 2026",
+    "country": "United States"
+   },
+   "UCCfVNgkRrgMzNPrb8nOKigA": {
+    "TITLE": "OnemanHVAC | http://www.youtube.com/@Onemanhvac",
+    "DESC": "Hello guys My name is Rolando! Im a 32 year old HVAC business owner in Georgia.This channel was made to show how my daily HVAC life is running service calls, doing  installations, and maintenance. Whether it’s doing rough in installs/change outs to doing residential service work, Il get footage of it. REAL raw footage if troubleshooting, mistakes and problem solving in the HVAC field.    If your l",
+    "subscriberCountText": "12.5K subscribers",
+    "viewCountText": "2,037,938 views",
+    "videoCountText": "515 videos",
+    "joinedDateText": "Joined Feb 24, 2023",
+    "country": "United States"
+   },
+   "UC_CwREV-kbR5br6lKc55A8w": {
+    "TITLE": "Tactical Psychology | http://www.youtube.com/@TheTacticalPsychology",
+    "DESC": "Tactical Psychology provides practical, research-led guidance for household emergencies—before power, water, heating, cooling, sanitation, or communication systems stop working. We cover grid failures, extended blackouts, emergency water storage, sanitation, affordable preparedness supplies, household backup systems, and calm decision-making under pressure. Each video turns a complex emergency pro",
+    "subscriberCountText": "9.55K subscribers",
+    "viewCountText": "257,052 views",
+    "videoCountText": "8 videos",
+    "joinedDateText": "Joined Nov 28, 2025",
+    "country": "Canada"
+   },
+   "UCxT6jy59i_38H3Zy04VXzbg": {
+    "TITLE": "Tim & Kat's Green Walk | http://www.youtube.com/@TimAndKatsGreenWalk",
+    "DESC": "We are Tim and Kat and we live on the edge of the Cotswolds in the beautiful English countryside.  Join us on our journey to make our home and lives more sustainable as we add solar panels, battery storage, and other technologies to our house.  Plus we'll be covering our experiences as first time EV owners, and we are also experimenting with replacing some consumable products with more environment",
+    "subscriberCountText": "15.9K subscribers",
+    "viewCountText": "2,232,997 views",
+    "videoCountText": "181 videos",
+    "joinedDateText": "Joined Jul 31, 2022",
+    "country": "United Kingdom"
+   },
+   "UCg8siJ7AyKyCyNJiWvSY_UA": {
+    "TITLE": "Lost Methods Archive | http://www.youtube.com/@LostMethodsArchive",
+    "DESC": "Lost Methods Archive explores forgotten household knowledge, ancient cleaning methods, old-school repair techniques, natural pest control, traditional food preservation, off-grid systems, survival knowledge, and engineering ideas that were left behind or buried over time. This channel dives into cheap home hacks, prepper methods, practical science, low-cost solutions, self-sufficiency tips, and ti",
+    "subscriberCountText": "11.6K subscribers",
+    "viewCountText": "440,819 views",
+    "videoCountText": "110 videos",
+    "joinedDateText": "Joined Mar 20, 2026",
+    "country": "United States"
+   },
+   "UCSbqV46NJaeIkQAoQmDv8Jw": {
+    "TITLE": "HVAC Tech Knowledgy | http://www.youtube.com/@HVACTechKnowledgy",
+    "DESC": "Welcome to the HVAC Tech Knowledgy YouTube channel. I post videos of HVAC service calls, HVAC troubleshooting and HVAC knowledge for beginner and seasoned technicians.  Find out why Jobber is the best CRM in the HVAC industry click the link for a free demo today!  https://go.getjobber.com/hvactechknowledgy  Be sure to subscribe for HVAC tips, tricks, tool/product reviews and discussions!",
+    "subscriberCountText": "15.6K subscribers",
+    "viewCountText": "2,974,690 views",
+    "videoCountText": "381 videos",
+    "joinedDateText": "Joined Mar 25, 2021",
+    "country": "United States"
+   },
+   "UCKDkGhLRlzs1bV1tmeokcNQ": {
+    "TITLE": "Adrian Garcia | http://www.youtube.com/@ReliableHVACR",
+    "DESC": "HVACR Contractor from South Texas. I'm Adrian, owner of Reliable Kitchen Services and celebrating 20 years in business. I just wanted to show some work from a light commercial technician, a little of the business side and tools of course! I also have my weekly podcast to talk from all different people in all trades, make sure to check out Reliable Trades Podcast on all platforms!  ~ EMAIL business",
+    "subscriberCountText": "30.4K subscribers",
+    "viewCountText": "5,026,567 views",
+    "videoCountText": "1,202 videos",
+    "joinedDateText": "Joined Sep 28, 2011",
+    "country": "United States"
+   },
+   "UCWhFqsrrNfGWQnXSAVEAaZg": {
+    "TITLE": "HVAC Training 101 | http://www.youtube.com/@HVACTraining101",
+    "DESC": "🎥 Welcome to the official YouTube Channel of HVAC Training 101 🎥  A little bit about me, my name is Bob and I am a retired HVAC tech from Washington state. ➡️ I am currently retired and no longer do much with HVAC, however, I feel like I have a lot of knowledge in the subject and I wanted to create a website where I could talk about what I've learned and help upcoming HVAC techs. From product revi",
+    "subscriberCountText": "17.1K subscribers",
+    "viewCountText": "6,682,860 views",
+    "videoCountText": "302 videos",
+    "joinedDateText": "Joined Dec 27, 2019",
+    "country": "United States"
+   },
+   "UCWM8W1bB5cLCVEXfGF0_vMg": {
+    "TITLE": "HVAC Service Technician Talk | http://www.youtube.com/@HVACServiceTechnicianTalk",
+    "DESC": "I have been a HVAC service Technician for 21 years. I have a strong background with multiple brands in the industry throughout my years in the trade. I am very experienced with the install, diagnoses, maintenance and repair of all makes and models of residential and commercial equipment. One thing I have learned in the trade is you can learn something new just about everyday. I have started the pa",
+    "subscriberCountText": "5.09K subscribers",
+    "viewCountText": "1,521,568 views",
+    "videoCountText": "215 videos",
+    "joinedDateText": "Joined Jan 7, 2019",
+    "country": "United States"
+   },
+   "UC5Pnrxqqg4BLTsfsUzWw5Pw": {
+    "TITLE": "HVACR VIDEOS | http://www.youtube.com/@HVACRVIDEOS",
+    "DESC": "Hello my name is Chris and I will be posting videos about the cool stuff I see out in the field of HVACR. A little bit about my self, I've been involved in the trade for over 20 years and I will tell you right now that I do not know it all, this trade is constantly evolving and new technology is coming out every day.  I am based out of Southern California and I mainly work in restaurants.  If you",
+    "subscriberCountText": "210K subscribers",
+    "viewCountText": "67,629,736 views",
+    "videoCountText": "1,269 videos",
+    "joinedDateText": "Joined Nov 16, 2017",
+    "country": "United States"
+   },
+   "UCJox5gru6jh_N65CnJ0JAfQ": {
+    "TITLE": "Ivan’s Survival Journal | http://www.youtube.com/@IvansSurvivalJournal",
+    "DESC": "",
+    "subscriberCountText": "1.05K subscribers",
+    "viewCountText": "451,457 views",
+    "videoCountText": "14 videos",
+    "joinedDateText": "Joined Sep 13, 2026",
+    "country": "United States"
+   }
+  },
+  "example_next": [
+   {
+    "id": "ngIQgDaz8n8",
+    "pulled": "2026-10-24T08:31:22.294816+00:00",
+    "source": "innertube /next videoId=ngIQgDaz8n8",
+    "title": "Is HVAC A Good Career - Is A Job In HVAC Worth It To Start In Today",
+    "views_text": "7,232 views",
+    "date_text": "Jul 8, 2024",
+    "owner": "HVAC Technician Sales Secrets",
+    "views": 7232,
+    "date": "2024-07-08"
+   },
+   {
+    "id": "2ZCcGhN9VuU",
+    "pulled": "2026-10-24T08:31:22.295646+00:00",
+    "source": "innertube /next videoId=2ZCcGhN9VuU",
+    "title": "Repair or Replace Your 15-Year-Old AC? Do This Math First",
+    "views_text": "221 views",
+    "date_text": "Sep 27, 2026",
+    "owner": "Homeowner Money",
+    "views": 221,
+    "date": "2026-09-27"
+   },
+   {
+    "id": "7FC32AxZuPs",
+    "pulled": "2026-10-24T08:31:22.296545+00:00",
+    "source": "innertube /next videoId=7FC32AxZuPs",
+    "title": "MY HVAC Sunday running 5 no cool calls ",
+    "views_text": "69,641 views",
+    "date_text": "Jun 14, 2026",
+    "owner": "OnemanHVAC",
+    "views": 69641,
+    "date": "2026-06-14"
+   },
+   {
+    "id": "aPyqmS_eqRk",
+    "pulled": "2026-10-24T08:31:22.296935+00:00",
+    "source": "innertube /next videoId=aPyqmS_eqRk",
+    "title": "Stop Heating the Air — Do This Instead (Physics)",
+    "views_text": "167,903 views",
+    "date_text": "Jan 25, 2026",
+    "owner": "Tactical Psychology",
+    "views": 167903,
+    "date": "2026-01-25"
+   },
+   {
+    "id": "PIgrN9uJfHY",
+    "pulled": "2026-10-24T08:31:22.297222+00:00",
+    "source": "innertube /next videoId=PIgrN9uJfHY",
+    "title": "A tour of our air-to-air heat pump system - heating AND cooling",
+    "views_text": "62,464 views",
+    "date_text": "Dec 3, 2022",
+    "owner": "Tim & Kat's Green Walk",
+    "views": 62464,
+    "date": "2022-12-03"
+   },
+   {
+    "id": "40zFRH-mb-o",
+    "pulled": "2026-10-24T08:31:22.297603+00:00",
+    "source": "innertube /next videoId=40zFRH-mb-o",
+    "title": "This $3 Copper Trick KILLS Your Electric Bill FOREVER — Why Did Power Monopolies Bury This in 1887?",
+    "views_text": "258,783 views",
+    "date_text": "Apr 18, 2026",
+    "owner": "Lost Methods Archive",
+    "views": 258783,
+    "date": "2026-04-18"
+   },
+   {
+    "id": "MPoPFT13MAY",
+    "pulled": "2026-10-24T08:31:22.856597+00:00",
+    "source": "innertube /next videoId=MPoPFT13MAY",
+    "title": "I wasn't going to let this nasty drain beat me!!  How to backwash a clogged AC condensate drain line",
+    "views_text": "124,236 views",
+    "date_text": "Aug 2, 2021",
+    "owner": "HVAC Tech Knowledgy",
+    "views": 124236,
+    "date": "2021-08-02"
+   },
+   {
+    "id": "wLrB8I0At5A",
+    "pulled": "2026-10-24T08:31:22.999622+00:00",
+    "source": "innertube /next videoId=wLrB8I0At5A",
+    "title": "VETO Super Store Exclusive | SP-MD Blackout First Look (FINAL)",
+    "views_text": "12,405 views",
+    "date_text": "Aug 15, 2026",
+    "owner": "Adrian Garcia",
+    "views": 12405,
+    "date": "2026-08-15"
+   },
+   {
+    "id": "ozdPRdhYlb0",
+    "pulled": "2026-10-24T08:31:23.194869+00:00",
+    "source": "innertube /next videoId=ozdPRdhYlb0",
+    "title": "How To Recharge a Window Air Conditioner ⚡ | HVAC Training 101",
+    "views_text": "326,761 views",
+    "date_text": "Apr 25, 2021",
+    "owner": "HVAC Training 101",
+    "views": 326761,
+    "date": "2021-04-25"
+   },
+   {
+    "id": "21OpzMkQhlY",
+    "pulled": "2026-10-24T08:31:23.234321+00:00",
+    "source": "innertube /next videoId=21OpzMkQhlY",
+    "title": "Is my Thermostat Broken? How to use Honeywell Pro4000 Thermostat",
+    "views_text": "48,564 views",
+    "date_text": "Aug 13, 2019",
+    "owner": "HVAC Service Technician Talk",
+    "views": 48564,
+    "date": "2019-08-13"
+   },
+   {
+    "id": "bP3GwusUtok",
+    "pulled": "2026-10-24T08:31:23.281038+00:00",
+    "source": "innertube /next videoId=bP3GwusUtok",
+    "title": "THE AC KEEPS TRIPPING THE BREAKER",
+    "views_text": "533,741 views",
+    "date_text": "Sep 24, 2020",
+    "owner": "HVACR VIDEOS",
+    "views": 533741,
+    "date": "2020-09-24"
+   },
+   {
+    "id": "aYPqvixhvXg",
+    "pulled": "2026-10-24T08:31:23.335156+00:00",
+    "source": "innertube /next videoId=aYPqvixhvXg",
+    "title": "I Tested 12 Ways to Insulate a Window — Only 3 Were Worth It",
+    "views_text": "217,851 views",
+    "date_text": "Oct 19, 2026",
+    "owner": "Want to watch this again later?",
+    "views": 217851,
+    "date": "2026-10-19"
+   }
+  ],
+  "thumbnails_viewed": {
+   "UCRmPv4sdRiPqyWXqPDVWNKg": [
+    "HVAC Technician Sales Secrets",
+    [
+     "PO_6V1KGrjE",
+     "a_F2X3Nt3zY",
+     "-0CR8gkgGMY",
+     "jbC-YAwIv70",
+     "ngIQgDaz8n8"
+    ],
+    [
+     [
+      "PO_6V1KGrjE",
+      "Why Your HVAC Turn Over Sales Training Matters Over Time",
+      [
+       "56",
+       "2d ago"
+      ]
+     ],
+     [
+      "a_F2X3Nt3zY",
+      "Can Cursing Cost HVAC Technicians Sales? Why I Don’t Curse In Videos",
+      [
+       "119",
+       "11d ago"
+      ]
+     ],
+     [
+      "-0CR8gkgGMY",
+      "How To Avoid A Sales Slump By Understanding Almost Deals",
+      [
+       "64",
+       "2w ago"
+      ]
+     ],
+     [
+      "jbC-YAwIv70",
+      "How To Work Through Client Supplied Parts As A HVAC Technician",
+      [
+       "114",
+       "2w ago"
+      ]
+     ]
+    ]
+   ],
+   "UCunyH0ECKaODq7PMSmtTI9w": [
+    "Homeowner Money",
+    [
+     "VAwMQja1Jts",
+     "SW1sXiu9bGs",
+     "slm6KkstAgY",
+     "usTdNnPdCFg",
+     "2ZCcGhN9VuU"
+    ],
+    [
+     [
+      "VAwMQja1Jts",
+      "Space Heater Electricity Cost: What It Really Costs Per Hour and Month",
+      [
+       "23",
+       "19h ago"
+      ]
+     ],
+     [
+      "SW1sXiu9bGs",
+      "Why Is My House So Cold? Check These 7 Hidden Heat Leaks",
+      [
+       "43",
+       "3d ago"
+      ]
+     ],
+     [
+      "slm6KkstAgY",
+      "No Water During a Freeze? Check These 7 Things Before a Pipe Bursts",
+      [
+       "62",
+       "4d ago"
+      ]
+     ],
+     [
+      "usTdNnPdCFg",
+      "Your Thermostat Could Be Raising Your Heating Bill — Check These 5 Settings",
+      [
+       "15",
+       "5d ago"
+      ]
+     ]
+    ]
+   ],
+   "UCCfVNgkRrgMzNPrb8nOKigA": [
+    "OnemanHVAC",
+    [
+     "3HCHIZqpEbw",
+     "7pEwcWa4_SA",
+     "YdCxpOU9PrE",
+     "sLoOycA7JUM",
+     "7FC32AxZuPs"
+    ],
+    [
+     [
+      "3HCHIZqpEbw",
+      "Outdoor unit didn’t want to stop cooling #hvac #bluecollar #hvaccontractor",
+      [
+       "3.8K",
+       "2d ago"
+      ]
+     ],
+     [
+      "7pEwcWa4_SA",
+      "Start of the season HVAC no heat calls in Atlanta #hvac #bluecollar #hvaccontractor",
+      [
+       "4.6K",
+       "3d ago"
+      ]
+     ],
+     [
+      "YdCxpOU9PrE",
+      "My first no heat call of fall 2026! #hvac #bluecollar #hvaccontractor",
+      [
+       "12K",
+       "4d ago"
+      ]
+     ],
+     [
+      "sLoOycA7JUM",
+      "My hvac Thursday running calls #hvac #hvaccontractor #bluecollar",
+      [
+       "4.9K",
+       "7d ago"
+      ]
+     ]
+    ]
+   ],
+   "UC_CwREV-kbR5br6lKc55A8w": [
+    "Tactical Psychology",
+    [
+     "4sJmXHrjxNQ",
+     "nv6Q_WOMGV8",
+     "R_XvIRkZd1M",
+     "2sFstlCruks",
+     "aPyqmS_eqRk"
+    ],
+    [
+     [
+      "4sJmXHrjxNQ",
+      "The 2 Public Spaces with Unmatched Survival Assets (What Parks Don't Give You)",
+      [
+       "109",
+       "19h ago"
+      ]
+     ],
+     [
+      "nv6Q_WOMGV8",
+      "The 3-Stage Gravity Filter the Amish Use to Purify Pond Water",
+      [
+       "651",
+       "3d ago"
+      ]
+     ],
+     [
+      "R_XvIRkZd1M",
+      "The 9 Commercial Buildings to Target for Safe Water (Still Full Long After Supermarkets Are Looted)",
+      [
+       "630",
+       "12d ago"
+      ]
+     ],
+     [
+      "2sFstlCruks",
+      "The 8 Household Spots Looters Strip First (And Where to Mask Your Assets Instead)",
+      [
+       "228",
+       "3w ago"
+      ]
+     ]
+    ]
+   ],
+   "UCxT6jy59i_38H3Zy04VXzbg": [
+    "Tim & Kat's Green Walk",
+    [
+     "r8ToqcA5Zc8",
+     "FzU7bwbaIUM",
+     "o1sRgyotvgs",
+     "NoU078--dKw",
+     "PIgrN9uJfHY"
+    ],
+    [
+     [
+      "r8ToqcA5Zc8",
+      "Is Cosy Octopus really that bad?",
+      [
+       "70",
+       "24 min ago"
+      ]
+     ],
+     [
+      "FzU7bwbaIUM",
+      "Feeling Smug - can the Smug Bug save you money?",
+      [
+       "13K",
+       "4w ago"
+      ]
+     ],
+     [
+      "o1sRgyotvgs",
+      "Solar clipping - case study",
+      [
+       "7.3K",
+       "1mo ago"
+      ]
+     ],
+     [
+      "NoU078--dKw",
+      "Solar rule #1 - fill your roof",
+      [
+       "12K",
+       "1mo ago"
+      ]
+     ]
+    ]
+   ],
+   "UCg8siJ7AyKyCyNJiWvSY_UA": [
+    "Lost Methods Archive",
+    [
+     "XZTEEroqzYQ",
+     "293KmTfcZdA",
+     "meKPVx-3RCo",
+     "5f2KfaiBk7s",
+     "40zFRH-mb-o"
+    ],
+    [
+     [
+      "XZTEEroqzYQ",
+      "A Simple Indoor Rock Stack Cuts Winter Heating Bills By 17% — The Hidden Secret Of Amish Builders",
+      [
+       "899",
+       "2mo ago"
+      ]
+     ],
+     [
+      "293KmTfcZdA",
+      "How Ordinary People Buy Their Own Land With Little Money (No Bank Needed)",
+      [
+       "164",
+       "2mo ago"
+      ]
+     ],
+     [
+      "meKPVx-3RCo",
+      "The $2 Amish Fly Trap: Get Rid of Every Fly in Your Home Naturally",
+      [
+       "518",
+       "2mo ago"
+      ]
+     ],
+     [
+      "5f2KfaiBk7s",
+      "STOP Replacing Dead Lithium Batteries: Build This $5 Iron-Air Battery That Lasts Forever",
+      [
+       "3.6K",
+       "2mo ago"
+      ]
+     ]
+    ]
+   ],
+   "UCSbqV46NJaeIkQAoQmDv8Jw": [
+    "HVAC Tech Knowledgy",
+    [
+     "KBNqeUgxOOs",
+     "uy0DxGgNxns",
+     "N3WafcOOObo",
+     "W0zE2fSRZFY",
+     "MPoPFT13MAY"
+    ],
+    [
+     [
+      "KBNqeUgxOOs",
+      "Dirty Blower Wheel and Duct Work Isuses #hvac",
+      [
+       "272",
+       "11d ago"
+      ]
+     ],
+     [
+      "uy0DxGgNxns",
+      "    ECM Motor or Control Board? How to Tell What’s Actually Bad",
+      [
+       "1.1K",
+       "1mo ago"
+      ]
+     ],
+     [
+      "N3WafcOOObo",
+      "The HVAC App That Changed How I Diagnose Systems",
+      [
+       "6.1K",
+       "1mo ago"
+      ]
+     ],
+     [
+      "W0zE2fSRZFY",
+      "Veto MB5B vs Tech Pac Which HVAC Tool Bag Is Better",
+      [
+       "1.7K",
+       "1mo ago"
+      ]
+     ]
+    ]
+   ],
+   "UCKDkGhLRlzs1bV1tmeokcNQ": [
+    "Adrian Garcia",
+    [
+     "mZdrShM7aoo",
+     "25krU2a8BNk",
+     "mSgOnn1s2xI",
+     "CtAwmhqHdjU",
+     "wLrB8I0At5A"
+    ],
+    [
+     [
+      "mZdrShM7aoo",
+      "Business Boundaries w/ David Davori (Part 2) | S4E15",
+      [
+       "90",
+       "1d ago"
+      ]
+     ],
+     [
+      "25krU2a8BNk",
+      "Best Apps for HVAC Business Owners in 2026 (What a 7-Person Shop Actually Uses)",
+      [
+       "1.7K",
+       "6d ago"
+      ]
+     ],
+     [
+      "mSgOnn1s2xI",
+      "What is Veto EVO? And do you actually NEED it",
+      [
+       "3.6K",
+       "13d ago"
+      ]
+     ],
+     [
+      "CtAwmhqHdjU",
+      "Is This The Best Refrigerant Recovery Machine? (Full Breakdown)",
+      [
+       "2.1K",
+       "2w ago"
+      ]
+     ]
+    ]
+   ],
+   "UCWhFqsrrNfGWQnXSAVEAaZg": [
+    "HVAC Training 101",
+    [
+     "jDaNIK4Ad2Q",
+     "CeTkRLHUzjc",
+     "EbZf-oWh4dU",
+     "5F9IP5oFqWc",
+     "ozdPRdhYlb0"
+    ],
+    [
+     [
+      "jDaNIK4Ad2Q",
+      "How Do Air Purifiers Work (Beginner's Guide) ⚙️ | HVAC Training 101",
+      [
+       "1.3K",
+       "4y ago"
+      ]
+     ],
+     [
+      "CeTkRLHUzjc",
+      "Air Purifier Vs Humidifier 🌫: Full Comparison | HVAC Training 101",
+      [
+       "5K",
+       "4y ago"
+      ]
+     ],
+     [
+      "EbZf-oWh4dU",
+      "Best 6000 BTU Air Conditioners 🌬️: Top Options Reviewed | HVAC Training 101",
+      [
+       "6.5K",
+       "4y ago"
+      ]
+     ],
+     [
+      "5F9IP5oFqWc",
+      "Best AC Surge Protectors 🔌: Top Options Reviewed | HVAC Training 101",
+      [
+       "4.6K",
+       "4y ago"
+      ]
+     ]
+    ]
+   ],
+   "UCWM8W1bB5cLCVEXfGF0_vMg": [
+    "HVAC Service Technician Talk",
+    [
+     "H-CQlah11Go",
+     "BgfmlaoScaU",
+     "nN_-qw1lTKI",
+     "y6MZhak0BnQ",
+     "21OpzMkQhlY"
+    ],
+    [
+     [
+      "H-CQlah11Go",
+      "Troubleshooting Carrier HVAC Package Unit",
+      [
+       "544",
+       "9mo ago"
+      ]
+     ],
+     [
+      "BgfmlaoScaU",
+      "What Does My Barometric Relief Damper Do?",
+      [
+       "3K",
+       "2y ago"
+      ]
+     ],
+     [
+      "nN_-qw1lTKI",
+      "Troubleshooting Trane Heat Pump Package Unit",
+      [
+       "1.1K",
+       "2y ago"
+      ]
+     ],
+     [
+      "y6MZhak0BnQ",
+      "Turbo 200 Capacitor Review and Install",
+      [
+       "4.3K",
+       "2y ago"
+      ]
+     ]
+    ]
+   ],
+   "UC5Pnrxqqg4BLTsfsUzWw5Pw": [
+    "HVACR VIDEOS",
+    [
+     "gNZKp5gCPms",
+     "JBKWt-9w_Tc",
+     "uhJ0PAaokR8",
+     "7uGHL-7Vg10",
+     "bP3GwusUtok"
+    ],
+    [
+     [
+      "gNZKp5gCPms",
+      "THIS UNIT STILL HAS A PROBLEM",
+      [
+       "39K",
+       "5d ago"
+      ]
+     ],
+     [
+      "JBKWt-9w_Tc",
+      "THAT DOESN'T SOUND RIGHT",
+      [
+       "46K",
+       "12d ago"
+      ]
+     ],
+     [
+      "uhJ0PAaokR8",
+      "IT'S TIME FOR A CHANGE",
+      [
+       "55K",
+       "3w ago"
+      ]
+     ],
+     [
+      "7uGHL-7Vg10",
+      "THE ENTIRE COOLER IS TEMPING HIGH",
+      [
+       "38K",
+       "1mo ago"
+      ]
+     ]
+    ]
+   ],
+   "UCJox5gru6jh_N65CnJ0JAfQ": [
+    "Ivan’s Survival Journal",
+    [
+     "dIYGDOiDIr0",
+     "aYPqvixhvXg",
+     "SjaGsvbrwV8",
+     "utXEmRRSMEg"
+    ],
+    [
+     [
+      "dIYGDOiDIr0",
+      "I Tested the 11 Foods That 'Never Expire' — Only 7 Really Don't",
+      [
+       "124",
+       "7h ago"
+      ]
+     ],
+     [
+      "aYPqvixhvXg",
+      "I Tested 12 Ways to Insulate a Window — Only 3 Were Worth It",
+      [
+       "217K",
+       "4d ago"
+      ]
+     ],
+     [
+      "SjaGsvbrwV8",
+      "The RIGHT Way to Store Water for Long-Term Emergencies !",
+      [
+       "406",
+       "10d ago"
+      ]
+     ],
+     [
+      "utXEmRRSMEg",
+      "I Tested a Military MRE, a Civilian MRE & a $3 Homemade MRE — Not Even Close",
+      [
+       "226",
+       "11d ago"
+      ]
+     ]
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,611 @@
+{
+ "key": "UCk0fGHsCEzGig-rSzkfCjMw",
+ "channel": "The Engineering Mindset",
+ "id": "UCk0fGHsCEzGig-rSzkfCjMw",
+ "subs": "4.49M subscribers",
+ "videos": "318 videos",
+ "latest": [
+  {
+   "id": "je0BsLY5nZw",
+   "title": "How a CPU Turns 1s and 0s Into Everything You See",
+   "meta": [
+    "355K",
+    "2w ago"
+   ],
+   "dur": "15:05",
+   "views": 355000
+  },
+  {
+   "id": "EElZjxhQxHs",
+   "title": "Why 3 Phase Power Is So Much Better",
+   "meta": [
+    "363K",
+    "1mo ago"
+   ],
+   "dur": "15:16",
+   "views": 363000
+  },
+  {
+   "id": "NDnjMjFDCe8",
+   "title": "The Truth About Three-Phase Power: Why It Became the Standard",
+   "meta": [
+    "181K",
+    "2mo ago"
+   ],
+   "dur": "20:07",
+   "views": 181000
+  },
+  {
+   "id": "DKYguNg1vmk",
+   "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+   "meta": [
+    "736K",
+    "4mo ago"
+   ],
+   "dur": "14:39",
+   "views": 736000
+  },
+  {
+   "id": "9pvNuptmzyQ",
+   "title": "The 1.25V Trick That Gives You Any Voltage You Want",
+   "meta": [
+    "360K",
+    "4mo ago"
+   ],
+   "dur": "27:44",
+   "views": 360000
+  },
+  {
+   "id": "TUno2IT-KZY",
+   "title": "Why RCDs Fail: The Hidden Danger in Your Consumer Unit",
+   "meta": [
+    "275K",
+    "7mo ago"
+   ],
+   "dur": "17:18",
+   "views": 275000
+  },
+  {
+   "id": "Sh9aZ2uemk0",
+   "title": "Why This Circuit Works When It Shouldn\u2019t",
+   "meta": [
+    "921K",
+    "9mo ago"
+   ],
+   "dur": "20:47",
+   "views": 921000
+  },
+  {
+   "id": "DGKTzl9CTXo",
+   "title": "The Strange Discovery That Made Computers Possible",
+   "meta": [
+    "354K",
+    "10mo ago"
+   ],
+   "dur": "17:35",
+   "views": 354000
+  },
+  {
+   "id": "mTiHK3fGmTU",
+   "title": "My first video was SO BAD!",
+   "meta": [
+    "51K",
+    "1y ago"
+   ],
+   "dur": "20:00",
+   "views": 51000
+  },
+  {
+   "id": "LaY47Qrfs0c",
+   "title": "How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)",
+   "meta": [
+    "843K",
+    "1y ago"
+   ],
+   "dur": "35:07",
+   "views": 843000
+  },
+  {
+   "id": "NIrKOVZrqnU",
+   "title": "Power Factor Explained \u2013 Your Electricity Bill Money Drain (Reactive Power)",
+   "meta": [
+    "1.1M",
+    "1y ago"
+   ],
+   "dur": "16:19",
+   "views": 1100000
+  },
+  {
+   "id": "3KePcASD0NQ",
+   "title": "How Electricity Works - for visual learners",
+   "meta": [
+    "4.4M",
+    "1y ago"
+   ],
+   "dur": "18:35",
+   "views": 4400000
+  },
+  {
+   "id": "Qi0ynSQw-wc",
+   "title": "I Touched a Hot Wire to Ground\u2026 Here\u2019s What Happened",
+   "meta": [
+    "639K",
+    "2y ago"
+   ],
+   "dur": "12:54",
+   "views": 639000
+  },
+  {
+   "id": "c9gm_NL7KyE",
+   "title": "How 3 Phase Power works: why 3 phases?",
+   "meta": [
+    "5.2M",
+    "2y ago"
+   ],
+   "dur": "14:41",
+   "views": 5200000
+  },
+  {
+   "id": "J3kKNNizARc",
+   "title": "Clamp Meter Skills That Make You Look Like a Pro",
+   "meta": [
+    "1.2M",
+    "2y ago"
+   ],
+   "dur": "24:52",
+   "views": 1200000
+  },
+  {
+   "id": "u0SsejDCVkU",
+   "title": "How 3 Phase Transformers Work \u2013 why we need them",
+   "meta": [
+    "2.2M",
+    "2y ago"
+   ],
+   "dur": "24:24",
+   "views": 2200000
+  },
+  {
+   "id": "gqEu9t8HwW0",
+   "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+   "meta": [
+    "2.9M",
+    "2y ago"
+   ],
+   "dur": "18:23",
+   "views": 2900000
+  },
+  {
+   "id": "AwRJsze_9m4",
+   "title": "MOSFET Explained - How MOSFET Works",
+   "meta": [
+    "3.4M",
+    "2y ago"
+   ],
+   "dur": "20:14",
+   "views": 3400000
+  },
+  {
+   "id": "Xb-MZMoUtcQ",
+   "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
+   "meta": [
+    "971K",
+    "2y ago"
+   ],
+   "dur": "18:12",
+   "views": 971000
+  },
+  {
+   "id": "e_4ITFCQvts",
+   "title": "Scroll Compressor Exposed: Understanding Its Mechanical Magic",
+   "meta": [
+    "370K",
+    "2y ago"
+   ],
+   "dur": "14:39",
+   "views": 370000
+  },
+  {
+   "id": "Hf875eOVrVI",
+   "title": "How Wind Turbines Really Work: The Hidden Secrets",
+   "meta": [
+    "1.8M",
+    "2y ago"
+   ],
+   "dur": "22:03",
+   "views": 1800000
+  },
+  {
+   "id": "Yxt72aDjFgY",
+   "title": "Generate Electricity - How Solar Panels Work!",
+   "meta": [
+    "2.5M",
+    "3y ago"
+   ],
+   "dur": "22:35",
+   "views": 2500000
+  },
+  {
+   "id": "NUSNa-7Hecw",
+   "title": "Sub Panels Explained - Why are neutral and ground separated?",
+   "meta": [
+    "2.8M",
+    "3y ago"
+   ],
+   "dur": "16:22",
+   "views": 2800000
+  },
+  {
+   "id": "Zv9Q7ih48Uc",
+   "title": "This Circuit works without electricity",
+   "meta": [
+    "249K",
+    "3y ago"
+   ],
+   "dur": "14:14",
+   "views": 249000
+  },
+  {
+   "id": "O8M2z2hIbag",
+   "title": "How LED Works - Unravel the Mysteries of How LEDs Work!",
+   "meta": [
+    "1.5M",
+    "3y ago"
+   ],
+   "dur": "19:06",
+   "views": 1500000
+  },
+  {
+   "id": "DYcLFHgVCn0",
+   "title": "How Resistor Work - Unravel the Mysteries of How Resistors Work!",
+   "meta": [
+    "5.7M",
+    "3y ago"
+   ],
+   "dur": "28:23",
+   "views": 5700000
+  },
+  {
+   "id": "FOh0iesTvx0",
+   "title": "Why electric heating is the smart choice",
+   "meta": [
+    "155K",
+    "3y ago"
+   ],
+   "dur": "9:51",
+   "views": 155000
+  },
+  {
+   "id": "4lAyzRxsbDc",
+   "title": "How to use a multimeter like a pro! The Ultimate guide",
+   "meta": [
+    "3.5M",
+    "3y ago"
+   ],
+   "dur": "28:43",
+   "views": 3500000
+  },
+  {
+   "id": "avm9vN09C0k",
+   "title": "Ultrasonic Flow Meter Basics",
+   "meta": [
+    "119K",
+    "3y ago"
+   ],
+   "dur": "1:16",
+   "views": 119000
+  },
+  {
+   "id": "9VQqky7s3xQ",
+   "title": "Stepper Motor - What's inside?",
+   "meta": [
+    "90K",
+    "3y ago"
+   ],
+   "dur": "3:35",
+   "views": 90000
+  }
+ ],
+ "popular": [
+  {
+   "id": "je0BsLY5nZw",
+   "title": "How a CPU Turns 1s and 0s Into Everything You See",
+   "meta": [
+    "355K",
+    "2w ago"
+   ],
+   "dur": "15:05",
+   "views": 355000
+  },
+  {
+   "id": "EElZjxhQxHs",
+   "title": "Why 3 Phase Power Is So Much Better",
+   "meta": [
+    "363K",
+    "1mo ago"
+   ],
+   "dur": "15:16",
+   "views": 363000
+  },
+  {
+   "id": "NDnjMjFDCe8",
+   "title": "The Truth About Three-Phase Power: Why It Became the Standard",
+   "meta": [
+    "181K",
+    "2mo ago"
+   ],
+   "dur": "20:07",
+   "views": 181000
+  },
+  {
+   "id": "DKYguNg1vmk",
+   "title": "MOSFET vs Transistor vs Relay: Most People Get This Wrong",
+   "meta": [
+    "736K",
+    "4mo ago"
+   ],
+   "dur": "14:39",
+   "views": 736000
+  },
+  {
+   "id": "9pvNuptmzyQ",
+   "title": "The 1.25V Trick That Gives You Any Voltage You Want",
+   "meta": [
+    "360K",
+    "4mo ago"
+   ],
+   "dur": "27:44",
+   "views": 360000
+  },
+  {
+   "id": "TUno2IT-KZY",
+   "title": "Why RCDs Fail: The Hidden Danger in Your Consumer Unit",
+   "meta": [
+    "275K",
+    "7mo ago"
+   ],
+   "dur": "17:18",
+   "views": 275000
+  },
+  {
+   "id": "Sh9aZ2uemk0",
+   "title": "Why This Circuit Works When It Shouldn\u2019t",
+   "meta": [
+    "921K",
+    "9mo ago"
+   ],
+   "dur": "20:47",
+   "views": 921000
+  },
+  {
+   "id": "DGKTzl9CTXo",
+   "title": "The Strange Discovery That Made Computers Possible",
+   "meta": [
+    "354K",
+    "10mo ago"
+   ],
+   "dur": "17:35",
+   "views": 354000
+  },
+  {
+   "id": "mTiHK3fGmTU",
+   "title": "My first video was SO BAD!",
+   "meta": [
+    "51K",
+    "1y ago"
+   ],
+   "dur": "20:00",
+   "views": 51000
+  },
+  {
+   "id": "LaY47Qrfs0c",
+   "title": "How to ACTUALLY Use an Oscilloscope (Beginner-Friendly Guide!)",
+   "meta": [
+    "843K",
+    "1y ago"
+   ],
+   "dur": "35:07",
+   "views": 843000
+  },
+  {
+   "id": "NIrKOVZrqnU",
+   "title": "Power Factor Explained \u2013 Your Electricity Bill Money Drain (Reactive Power)",
+   "meta": [
+    "1.1M",
+    "1y ago"
+   ],
+   "dur": "16:19",
+   "views": 1100000
+  },
+  {
+   "id": "3KePcASD0NQ",
+   "title": "How Electricity Works - for visual learners",
+   "meta": [
+    "4.4M",
+    "1y ago"
+   ],
+   "dur": "18:35",
+   "views": 4400000
+  },
+  {
+   "id": "Qi0ynSQw-wc",
+   "title": "I Touched a Hot Wire to Ground\u2026 Here\u2019s What Happened",
+   "meta": [
+    "639K",
+    "2y ago"
+   ],
+   "dur": "12:54",
+   "views": 639000
+  },
+  {
+   "id": "c9gm_NL7KyE",
+   "title": "How 3 Phase Power works: why 3 phases?",
+   "meta": [
+    "5.2M",
+    "2y ago"
+   ],
+   "dur": "14:41",
+   "views": 5200000
+  },
+  {
+   "id": "J3kKNNizARc",
+   "title": "Clamp Meter Skills That Make You Look Like a Pro",
+   "meta": [
+    "1.2M",
+    "2y ago"
+   ],
+   "dur": "24:52",
+   "views": 1200000
+  },
+  {
+   "id": "u0SsejDCVkU",
+   "title": "How 3 Phase Transformers Work \u2013 why we need them",
+   "meta": [
+    "2.2M",
+    "2y ago"
+   ],
+   "dur": "24:24",
+   "views": 2200000
+  },
+  {
+   "id": "gqEu9t8HwW0",
+   "title": "Why Circuit Breakers DON'T Protect People (electric shocks)",
+   "meta": [
+    "2.9M",
+    "2y ago"
+   ],
+   "dur": "18:23",
+   "views": 2900000
+  },
+  {
+   "id": "AwRJsze_9m4",
+   "title": "MOSFET Explained - How MOSFET Works",
+   "meta": [
+    "3.4M",
+    "2y ago"
+   ],
+   "dur": "20:14",
+   "views": 3400000
+  },
+  {
+   "id": "Xb-MZMoUtcQ",
+   "title": "How Potentiometer Works - Unravel the Mysteries of How potentiometers Work!",
+   "meta": [
+    "971K",
+    "2y ago"
+   ],
+   "dur": "18:12",
+   "views": 971000
+  },
+  {
+   "id": "e_4ITFCQvts",
+   "title": "Scroll Compressor Exposed: Understanding Its Mechanical Magic",
+   "meta": [
+    "370K",
+    "2y ago"
+   ],
+   "dur": "14:39",
+   "views": 370000
+  },
+  {
+   "id": "Hf875eOVrVI",
+   "title": "How Wind Turbines Really Work: The Hidden Secrets",
+   "meta": [
+    "1.8M",
+    "2y ago"
+   ],
+   "dur": "22:03",
+   "views": 1800000
+  },
+  {
+   "id": "Yxt72aDjFgY",
+   "title": "Generate Electricity - How Solar Panels Work!",
+   "meta": [
+    "2.5M",
+    "3y ago"
+   ],
+   "dur": "22:35",
+   "views": 2500000
+  },
+  {
+   "id": "NUSNa-7Hecw",
+   "title": "Sub Panels Explained - Why are neutral and ground separated?",
+   "meta": [
+    "2.8M",
+    "3y ago"
+   ],
+   "dur": "16:22",
+   "views": 2800000
+  },
+  {
+   "id": "Zv9Q7ih48Uc",
+   "title": "This Circuit works without electricity",
+   "meta": [
+    "249K",
+    "3y ago"
+   ],
+   "dur": "14:14",
+   "views": 249000
+  },
+  {
+   "id": "O8M2z2hIbag",
+   "title": "How LED Works - Unravel the Mysteries of How LEDs Work!",
+   "meta": [
+    "1.5M",
+    "3y ago"
+   ],
+   "dur": "19:06",
+   "views": 1500000
+  },
+  {
+   "id": "DYcLFHgVCn0",
+   "title": "How Resistor Work - Unravel the Mysteries of How Resistors Work!",
+   "meta": [
+    "5.7M",
+    "3y ago"
+   ],
+   "dur": "28:23",
+   "views": 5700000
+  },
+  {
+   "id": "FOh0iesTvx0",
+   "title": "Why electric heating is the smart choice",
+   "meta": [
+    "155K",
+    "3y ago"
+   ],
+   "dur": "9:51",
+   "views": 155000
+  },
+  {
+   "id": "4lAyzRxsbDc",
+   "title": "How to use a multimeter like a pro! The Ultimate guide",
+   "meta": [
+    "3.5M",
+    "3y ago"
+   ],
+   "dur": "28:43",
+   "views": 3500000
+  },
+  {
+   "id": "avm9vN09C0k",
+   "title": "Ultrasonic Flow Meter Basics",
+   "meta": [
+    "119K",
+    "3y ago"
+   ],
+   "dur": "1:16",
+   "views": 119000
+  },
+  {
+   "id": "9VQqky7s3xQ",
+   "title": "Stepper Motor - What's inside?",
+   "meta": [
+    "90K",
+    "3y ago"
+   ],
+   "dur": "3:35",
+   "views": 90000
+  }
+ ]
+}

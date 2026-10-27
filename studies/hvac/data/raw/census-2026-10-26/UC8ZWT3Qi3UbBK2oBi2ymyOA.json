@@ -1,0 +1,3925 @@
+{
+ "key": "UC8ZWT3Qi3UbBK2oBi2ymyOA",
+ "channel": "Insight Control System",
+ "id": "UC8ZWT3Qi3UbBK2oBi2ymyOA",
+ "subs": "17.8K subscribers",
+ "videos": "334 videos",
+ "pulled": "2026-10-26T06:50:55.098172+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "6IiD6byHT7o",
+    "title": "Johnson Controls Metasys M4 Critical Environment Equipment Controller Overview & Technical Data",
+    "meta": [
+     "549",
+     "2w ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 549
+   },
+   {
+    "id": "ihmVOQmSkiI",
+    "title": "Honeywell Trend 963 Graphics Reconfiguration & Timeout Fix | Plant Graphics Setup Tutorial\ud83d\udd27",
+    "meta": [
+     "535",
+     "4w ago"
+    ],
+    "dur": "11:48",
+    "views_tab": 535
+   },
+   {
+    "id": "juc4OPY2FJs",
+    "title": "Trend 963 vs IQVISION | Software Animation Page Quick Overview | Honeywell Trend BMS",
+    "meta": [
+     "422",
+     "1mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 422
+   },
+   {
+    "id": "osaRFzLesUg",
+    "title": "Honeywell CIPer Model 50 Plant Controller \u2013 Technical Specifications & Updated Field Overview",
+    "meta": [
+     "673",
+     "1mo ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 673
+   },
+   {
+    "id": "TNdX6_YHAsg",
+    "title": "TREND IQ4E + IQ4 8DO + IQ3 Xcite 4AO | I/O Module Interconnection \ud83d\udd27",
+    "meta": [
+     "339",
+     "1mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 339
+   },
+   {
+    "id": "TRhxXobFo8c",
+    "title": "SAUTER modu240 Local Control Panel & EYR 203 Controller | Humidification Control System\ud83d\udd27\ud83d\udca7",
+    "meta": [
+     "247",
+     "1mo ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 247
+   },
+   {
+    "id": "Ej89zBUi8eQ",
+    "title": "Belimo GM24A-SR Damper Actuator Installation | Fresh Air, Return Air & Exhaust Air Dampers",
+    "meta": [
+     "462",
+     "1mo ago"
+    ],
+    "dur": "1:45",
+    "views_tab": 462
+   },
+   {
+    "id": "3sjnW6lG6qs",
+    "title": "TREND IQ3 Xcite + IQ4 I/O Module Wiring & Interconnection | Quick Setup",
+    "meta": [
+     "333",
+     "1mo ago"
+    ],
+    "dur": "1:23",
+    "views_tab": 333
+   },
+   {
+    "id": "VMZBChSbdPs",
+    "title": "TREND IQ4E & IQE3 Xcite Interconnectors, Terminators & Cable Adapters",
+    "meta": [
+     "199",
+     "1mo ago"
+    ],
+    "dur": "1:07",
+    "views_tab": 199
+   },
+   {
+    "id": "sOzabV9Qrx0",
+    "title": "Humidification Plant Water Pump & Spray System \ud83d\udca7 | Industrial Humidification",
+    "meta": [
+     "369",
+     "1mo ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 369
+   },
+   {
+    "id": "1uVbLD6H0jU",
+    "title": "Short Rigid Interconnector for IQ4E & IQ4/IO Modules",
+    "meta": [
+     "264",
+     "1mo ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 264
+   },
+   {
+    "id": "9WjZiLlg7-g",
+    "title": "TREND Differential Pressure Switch for Air Conditioning & Ventilation Systems",
+    "meta": [
+     "264",
+     "1mo ago"
+    ],
+    "dur": "1:11",
+    "views_tab": 264
+   },
+   {
+    "id": "g8cl9S6YEy0",
+    "title": "Honeywell N1024 Non-Spring Return Direct-Coupled Damper Actuator Quick Overview",
+    "meta": [
+     "524",
+     "1mo ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 524
+   },
+   {
+    "id": "h2lerY4Ki-0",
+    "title": "Honeywell MS8209F Series Fast Acting Fire & Smoke Damper Actuator",
+    "meta": [
+     "681",
+     "1mo ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 681
+   },
+   {
+    "id": "hoaLV9pam3c",
+    "title": "Belimo EV24A-SR-TPC Modulating Globe Valve Actuator Quick overview",
+    "meta": [
+     "445",
+     "1mo ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 445
+   },
+   {
+    "id": "IpYEvT_KNIE",
+    "title": "Honeywell MSXX20 Spring Return Actuator & TREND IQE3 Xcite Controller | Quick Connection Overview",
+    "meta": [
+     "330",
+     "1mo ago"
+    ],
+    "dur": "0:56",
+    "views_tab": 330
+   },
+   {
+    "id": "0tD9hUvT0nA",
+    "title": "Beck 984M DP Transmitter Wiring & Programming | Setup, Pressure Measurement & Errors",
+    "meta": [
+     "1.3K",
+     "2mo ago"
+    ],
+    "dur": "7:22",
+    "views_tab": 1300
+   },
+   {
+    "id": "XANbiGFZRK4",
+    "title": "Schneider Electric SpaceLogic SCD2 Series Air Quality Sensor | Overview & Technical Specifications",
+    "meta": [
+     "230",
+     "2mo ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 230
+   },
+   {
+    "id": "O9gW2zgBTGg",
+    "title": "Delta Controls O3 Hub Multi Sensor | Complete Overview & Technical Specifications\ud83d\udcda",
+    "meta": [
+     "186",
+     "3mo ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 186
+   },
+   {
+    "id": "LdVVVE4lwss",
+    "title": "Honeywell Spyder Model 7 VAV Controller Overview and Technical Specifications | \ud83d\udcda Complete Guide",
+    "meta": [
+     "545",
+     "4mo ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 545
+   },
+   {
+    "id": "0IhGRZdY3dE",
+    "title": "Belimo GM24A-SR vs GM24-SR.1B\u2699\ufe0f| Complete Damper Actuator Comparison",
+    "meta": [
+     "753",
+     "5mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 753
+   },
+   {
+    "id": "wL-656Pr9C8",
+    "title": "SAUTER modulo 6 System Explained | Complete Building Automation System Overview",
+    "meta": [
+     "565",
+     "5mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 565
+   },
+   {
+    "id": "FAisXKTNXkg",
+    "title": "How to Change Damper Control from AUTO to MANUAL Mode in IQ4E Controller \ud83d\udd27 | Step-by-Step Guide",
+    "meta": [
+     "234",
+     "5mo ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 234
+   },
+   {
+    "id": "Sg_Eshj4yKA",
+    "title": "Yaskawa A1000 AC Drive Explained\ud83d\udcda| Full Specifications, Setup & Working Guide",
+    "meta": [
+     "1.5K",
+     "5mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 1500
+   },
+   {
+    "id": "8Tn3Djaea5U",
+    "title": "How to Calibrate RH & Temperature Sensors in Trend IQ Controllers \ud83d\udd27 | Offset Setting Explained",
+    "meta": [
+     "465",
+     "6mo ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 465
+   },
+   {
+    "id": "CEDyuqtMhNc",
+    "title": "Belimo New GM24SR Damper Actuator Explained \ud83d\udd27 | Full Specs, Features & Working (2026 Guide)",
+    "meta": [
+     "1.5K",
+     "6mo ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 1500
+   },
+   {
+    "id": "_Jv652MI6Jw",
+    "title": "Siemens Climatix POL648.10/RTU Controller Overview & Technical Specifications | Guide Part-1",
+    "meta": [
+     "2.5K",
+     "7mo ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 2500
+   },
+   {
+    "id": "mnhkQzoiU88",
+    "title": "Trend IQVISION BMS Supervisor Software Training | Configuration & Design Basics | Full Tutorial",
+    "meta": [
+     "3.8K",
+     "7mo ago"
+    ],
+    "dur": "28:03",
+    "views_tab": 3800
+   },
+   {
+    "id": "Xvg1dlboSGY",
+    "title": "Trend IQ4E Controller Time Schedule Configuration \u2013 Complete Step-by-Step Technical Tutorial",
+    "meta": [
+     "518",
+     "8mo ago"
+    ],
+    "dur": "5:23",
+    "views_tab": 518
+   },
+   {
+    "id": "w-2bdMo6ZTI",
+    "title": "Trend IQVISION BMS Software Training | \ud83c\udfac Configuration & Design Basics | Part-1 Full Tutorial",
+    "meta": [
+     "1.6K",
+     "8mo ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 1600
+   }
+  ],
+  "Latest": [
+   {
+    "id": "6IiD6byHT7o",
+    "title": "Johnson Controls Metasys M4 Critical Environment Equipment Controller Overview & Technical Data",
+    "meta": [
+     "549",
+     "2w ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 549
+   },
+   {
+    "id": "ihmVOQmSkiI",
+    "title": "Honeywell Trend 963 Graphics Reconfiguration & Timeout Fix | Plant Graphics Setup Tutorial\ud83d\udd27",
+    "meta": [
+     "535",
+     "4w ago"
+    ],
+    "dur": "11:48",
+    "views_tab": 535
+   },
+   {
+    "id": "juc4OPY2FJs",
+    "title": "Trend 963 vs IQVISION | Software Animation Page Quick Overview | Honeywell Trend BMS",
+    "meta": [
+     "422",
+     "1mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 422
+   },
+   {
+    "id": "osaRFzLesUg",
+    "title": "Honeywell CIPer Model 50 Plant Controller \u2013 Technical Specifications & Updated Field Overview",
+    "meta": [
+     "673",
+     "1mo ago"
+    ],
+    "dur": "8:08",
+    "views_tab": 673
+   },
+   {
+    "id": "TNdX6_YHAsg",
+    "title": "TREND IQ4E + IQ4 8DO + IQ3 Xcite 4AO | I/O Module Interconnection \ud83d\udd27",
+    "meta": [
+     "339",
+     "1mo ago"
+    ],
+    "dur": "2:03",
+    "views_tab": 339
+   },
+   {
+    "id": "TRhxXobFo8c",
+    "title": "SAUTER modu240 Local Control Panel & EYR 203 Controller | Humidification Control System\ud83d\udd27\ud83d\udca7",
+    "meta": [
+     "247",
+     "1mo ago"
+    ],
+    "dur": "2:06",
+    "views_tab": 247
+   },
+   {
+    "id": "Ej89zBUi8eQ",
+    "title": "Belimo GM24A-SR Damper Actuator Installation | Fresh Air, Return Air & Exhaust Air Dampers",
+    "meta": [
+     "462",
+     "1mo ago"
+    ],
+    "dur": "1:45",
+    "views_tab": 462
+   },
+   {
+    "id": "3sjnW6lG6qs",
+    "title": "TREND IQ3 Xcite + IQ4 I/O Module Wiring & Interconnection | Quick Setup",
+    "meta": [
+     "333",
+     "1mo ago"
+    ],
+    "dur": "1:23",
+    "views_tab": 333
+   },
+   {
+    "id": "VMZBChSbdPs",
+    "title": "TREND IQ4E & IQE3 Xcite Interconnectors, Terminators & Cable Adapters",
+    "meta": [
+     "199",
+     "1mo ago"
+    ],
+    "dur": "1:07",
+    "views_tab": 199
+   },
+   {
+    "id": "sOzabV9Qrx0",
+    "title": "Humidification Plant Water Pump & Spray System \ud83d\udca7 | Industrial Humidification",
+    "meta": [
+     "369",
+     "1mo ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 369
+   },
+   {
+    "id": "1uVbLD6H0jU",
+    "title": "Short Rigid Interconnector for IQ4E & IQ4/IO Modules",
+    "meta": [
+     "264",
+     "1mo ago"
+    ],
+    "dur": "1:00",
+    "views_tab": 264
+   },
+   {
+    "id": "9WjZiLlg7-g",
+    "title": "TREND Differential Pressure Switch for Air Conditioning & Ventilation Systems",
+    "meta": [
+     "264",
+     "1mo ago"
+    ],
+    "dur": "1:11",
+    "views_tab": 264
+   },
+   {
+    "id": "g8cl9S6YEy0",
+    "title": "Honeywell N1024 Non-Spring Return Direct-Coupled Damper Actuator Quick Overview",
+    "meta": [
+     "524",
+     "1mo ago"
+    ],
+    "dur": "1:06",
+    "views_tab": 524
+   },
+   {
+    "id": "h2lerY4Ki-0",
+    "title": "Honeywell MS8209F Series Fast Acting Fire & Smoke Damper Actuator",
+    "meta": [
+     "681",
+     "1mo ago"
+    ],
+    "dur": "1:03",
+    "views_tab": 681
+   },
+   {
+    "id": "hoaLV9pam3c",
+    "title": "Belimo EV24A-SR-TPC Modulating Globe Valve Actuator Quick overview",
+    "meta": [
+     "445",
+     "1mo ago"
+    ],
+    "dur": "1:04",
+    "views_tab": 445
+   },
+   {
+    "id": "IpYEvT_KNIE",
+    "title": "Honeywell MSXX20 Spring Return Actuator & TREND IQE3 Xcite Controller | Quick Connection Overview",
+    "meta": [
+     "330",
+     "1mo ago"
+    ],
+    "dur": "0:56",
+    "views_tab": 330
+   },
+   {
+    "id": "0tD9hUvT0nA",
+    "title": "Beck 984M DP Transmitter Wiring & Programming | Setup, Pressure Measurement & Errors",
+    "meta": [
+     "1.3K",
+     "2mo ago"
+    ],
+    "dur": "7:22",
+    "views_tab": 1300
+   },
+   {
+    "id": "XANbiGFZRK4",
+    "title": "Schneider Electric SpaceLogic SCD2 Series Air Quality Sensor | Overview & Technical Specifications",
+    "meta": [
+     "230",
+     "2mo ago"
+    ],
+    "dur": "8:02",
+    "views_tab": 230
+   },
+   {
+    "id": "O9gW2zgBTGg",
+    "title": "Delta Controls O3 Hub Multi Sensor | Complete Overview & Technical Specifications\ud83d\udcda",
+    "meta": [
+     "186",
+     "3mo ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 186
+   },
+   {
+    "id": "LdVVVE4lwss",
+    "title": "Honeywell Spyder Model 7 VAV Controller Overview and Technical Specifications | \ud83d\udcda Complete Guide",
+    "meta": [
+     "545",
+     "4mo ago"
+    ],
+    "dur": "8:43",
+    "views_tab": 545
+   },
+   {
+    "id": "0IhGRZdY3dE",
+    "title": "Belimo GM24A-SR vs GM24-SR.1B\u2699\ufe0f| Complete Damper Actuator Comparison",
+    "meta": [
+     "753",
+     "5mo ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 753
+   },
+   {
+    "id": "wL-656Pr9C8",
+    "title": "SAUTER modulo 6 System Explained | Complete Building Automation System Overview",
+    "meta": [
+     "565",
+     "5mo ago"
+    ],
+    "dur": "5:44",
+    "views_tab": 565
+   },
+   {
+    "id": "FAisXKTNXkg",
+    "title": "How to Change Damper Control from AUTO to MANUAL Mode in IQ4E Controller \ud83d\udd27 | Step-by-Step Guide",
+    "meta": [
+     "234",
+     "5mo ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 234
+   },
+   {
+    "id": "Sg_Eshj4yKA",
+    "title": "Yaskawa A1000 AC Drive Explained\ud83d\udcda| Full Specifications, Setup & Working Guide",
+    "meta": [
+     "1.5K",
+     "5mo ago"
+    ],
+    "dur": "9:34",
+    "views_tab": 1500
+   },
+   {
+    "id": "8Tn3Djaea5U",
+    "title": "How to Calibrate RH & Temperature Sensors in Trend IQ Controllers \ud83d\udd27 | Offset Setting Explained",
+    "meta": [
+     "465",
+     "6mo ago"
+    ],
+    "dur": "2:31",
+    "views_tab": 465
+   },
+   {
+    "id": "CEDyuqtMhNc",
+    "title": "Belimo New GM24SR Damper Actuator Explained \ud83d\udd27 | Full Specs, Features & Working (2026 Guide)",
+    "meta": [
+     "1.5K",
+     "6mo ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 1500
+   },
+   {
+    "id": "_Jv652MI6Jw",
+    "title": "Siemens Climatix POL648.10/RTU Controller Overview & Technical Specifications | Guide Part-1",
+    "meta": [
+     "2.5K",
+     "7mo ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 2500
+   },
+   {
+    "id": "mnhkQzoiU88",
+    "title": "Trend IQVISION BMS Supervisor Software Training | Configuration & Design Basics | Full Tutorial",
+    "meta": [
+     "3.8K",
+     "7mo ago"
+    ],
+    "dur": "28:03",
+    "views_tab": 3800
+   },
+   {
+    "id": "Xvg1dlboSGY",
+    "title": "Trend IQ4E Controller Time Schedule Configuration \u2013 Complete Step-by-Step Technical Tutorial",
+    "meta": [
+     "518",
+     "8mo ago"
+    ],
+    "dur": "5:23",
+    "views_tab": 518
+   },
+   {
+    "id": "w-2bdMo6ZTI",
+    "title": "Trend IQVISION BMS Software Training | \ud83c\udfac Configuration & Design Basics | Part-1 Full Tutorial",
+    "meta": [
+     "1.6K",
+     "8mo ago"
+    ],
+    "dur": "18:17",
+    "views_tab": 1600
+   },
+   {
+    "id": "GaTT4RdHDuQ",
+    "title": "How to Choose the Right Actuator for HVAC Applications\ud83d\udccb| Step-by-Step Selection Guide\ud83d\udcda",
+    "meta": [
+     "1.1K",
+     "9mo ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 1100
+   },
+   {
+    "id": "Tf_RvxPfueU",
+    "title": "Trend IQ4 8UIO & 4UIO Expansion Modules | \ud83d\udca1Features, Wiring, LEDs & Full Technical Specifications\ud83d\udee0\ufe0f",
+    "meta": [
+     "433",
+     "10mo ago"
+    ],
+    "dur": "8:09",
+    "views_tab": 433
+   },
+   {
+    "id": "DGerH_f50fM",
+    "title": "Honeywell Advanced Controller HMI Touch Panel Explained | Full Overview, Specifications & Features\ud83d\udd25",
+    "meta": [
+     "1.1K",
+     "11mo ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 1100
+   },
+   {
+    "id": "X9ZimuwO4A8",
+    "title": "Beck 984M Series Differential Pressure Transmitter \u23f2\ufe0f | Complete Technical Specifications (Part-1)",
+    "meta": [
+     "977",
+     "1y ago"
+    ],
+    "dur": "7:25",
+    "views_tab": 977
+   },
+   {
+    "id": "Ca4K9CoIU1U",
+    "title": "Belimo NR24A-SR Modulating Rotary Valve Actuator | Full Overview & Technical Specs\ud83d\udd27",
+    "meta": [
+     "6.5K",
+     "1y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 6500
+   },
+   {
+    "id": "m0spaADvrLc",
+    "title": "Danfoss FC 360 VFD Setup for Automatic Water Pump Control with PLC \ud83c\udf0a\u26a1 | Wiring + Parameters",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "6:57",
+    "views_tab": 12000
+   },
+   {
+    "id": "djUhCARqsjs",
+    "title": "Phoenix Contact CATAN C1 EN Controller \ud83d\udd0d Full Overview + Technical Specifications Explained!",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "8:06",
+    "views_tab": 1100
+   },
+   {
+    "id": "VbDEZ95a6MM",
+    "title": "Trend 963 User Lockout Solved\ud83d\udd10  | Fix \"User is Locked Out, Contact System Administrator\" Error",
+    "meta": [
+     "922",
+     "1y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 922
+   },
+   {
+    "id": "le20Q9FHuXs",
+    "title": "How to Install & License Trend IQSET Software Tool | Full Step-by-Step Guide \ud83d\udd27\ud83d\udda5\ufe0f",
+    "meta": [
+     "3.8K",
+     "1y ago"
+    ],
+    "dur": "8:11",
+    "views_tab": 3800
+   },
+   {
+    "id": "g4-MVeU3sUg",
+    "title": "Siemens Climatix Project Studio Automation Tool\ud83d\udcbb | Overview & Technical Guide for BAS Professionals",
+    "meta": [
+     "2.3K",
+     "1y ago"
+    ],
+    "dur": "7:26",
+    "views_tab": 2300
+   },
+   {
+    "id": "m6Lm-xh2rLU",
+    "title": "Method Statement for CRAC Unit Installation, Testing & Commissioning | Step-by-Step HVAC Guide",
+    "meta": [
+     "2.5K",
+     "1y ago"
+    ],
+    "dur": "9:10",
+    "views_tab": 2500
+   },
+   {
+    "id": "Q9VWn8KlmrQ",
+    "title": "L&T NX 2000+ VFD Drive \u2013 Complete Overview & Technical Specifications\ud83d\udd25",
+    "meta": [
+     "2.6K",
+     "1y ago"
+    ],
+    "dur": "8:26",
+    "views_tab": 2600
+   },
+   {
+    "id": "Qv-JdJy_pgM",
+    "title": "Delta Controls RED5-EDGE-V440 VAV Controller | Full Overview, Features & Specs",
+    "meta": [
+     "1.1K",
+     "1y ago"
+    ],
+    "dur": "7:37",
+    "views_tab": 1100
+   },
+   {
+    "id": "rxf5vhZlG3Y",
+    "title": "Belimo ARB24-IP Non-Fail-Safe IoT Valve Actuator \ud83c\udf0d | Complete Overview & Technical Specs \ud83d\udd27",
+    "meta": [
+     "1.4K",
+     "1y ago"
+    ],
+    "dur": "8:12",
+    "views_tab": 1400
+   },
+   {
+    "id": "RN4BpfYstek",
+    "title": "Siemens Climatix S400 HVAC Controller Overview | Features, Installation & Technical Specs\ud83d\udd25\u2744\ufe0f",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "8:46",
+    "views_tab": 2400
+   },
+   {
+    "id": "n4iz9GRNZ6w",
+    "title": "Honeywell MSXX20 Series Spring Return Actuator | Overview & Technical Data (Part 1)\ud83d\udcd6",
+    "meta": [
+     "2.4K",
+     "1y ago"
+    ],
+    "dur": "7:00",
+    "views_tab": 2400
+   },
+   {
+    "id": "WTb6R7lZz6I",
+    "title": "Rotronic DT722 Humidity & Temperature Transmitter \ud83c\udf21\ufe0f | Complete Overview & Technical Details \ud83c\udf0d",
+    "meta": [
+     "484",
+     "1y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 484
+   },
+   {
+    "id": "nj75v0BqsB4",
+    "title": "Trend Differential Pressure Switch /  User-Adjustable /  Air Handling Systems",
+    "meta": [
+     "8.3K",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 8300
+   },
+   {
+    "id": "TGdguLsi0n8",
+    "title": "Honeywell HSH-D Series Duct Temperature and Relative Humidity Sensor",
+    "meta": [
+     "2.5K",
+     "2y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 2500
+   },
+   {
+    "id": "qKiycget8e4",
+    "title": "Honeywell TC300 Commercial Thermostat | Full Overview & Technical Specifications",
+    "meta": [
+     "1.9K",
+     "2y ago"
+    ],
+    "dur": "8:23",
+    "views_tab": 1900
+   },
+   {
+    "id": "UuUdetC_zt8",
+    "title": "Delta Controls Red5 EDGE-1146 Controller | Overview, Features & Technical Specifications",
+    "meta": [
+     "3.4K",
+     "2y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 3400
+   },
+   {
+    "id": "t2KR3GE63MY",
+    "title": "How to Launch & Configure Trend Module Discovery Wizard \ud83d\udcbb | IQVISION Tutorial Part-2",
+    "meta": [
+     "3.3K",
+     "2y ago"
+    ],
+    "dur": "8:22",
+    "views_tab": 3300
+   },
+   {
+    "id": "T9xZM3lqsJQ",
+    "title": "Siemens QMX1.M34H Room Unit: Overview & Technical Specifications | Smart HVAC Control",
+    "meta": [
+     "1.6K",
+     "2y ago"
+    ],
+    "dur": "6:02",
+    "views_tab": 1600
+   },
+   {
+    "id": "IwCCO1KJbqg",
+    "title": "Belimo EV24A-SR-TPC Modulating Globe Valve Actuator for 2-way and 3-way Globe Valves",
+    "meta": [
+     "6.8K",
+     "2y ago"
+    ],
+    "dur": "7:19",
+    "views_tab": 6800
+   },
+   {
+    "id": "L9XVU_1Gcxc",
+    "title": "Schneider Electric SpaceLogic AS-B Controller | 24 IO Points Automation Server Explained",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 4200
+   },
+   {
+    "id": "30IH6bAOQRw",
+    "title": "Honeywell MS82 Series Fire & Smoke Damper Actuator | Overview, Specs & Installation Guide",
+    "meta": [
+     "6K",
+     "2y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 6000
+   },
+   {
+    "id": "j0KKYbd9HKY",
+    "title": "Belimo 22UTH-110X  Outdoor Sensor with Weather and Radiated Heat Shield | Technical Specs\ud83c\udf21\ufe0f",
+    "meta": [
+     "294",
+     "2y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 294
+   },
+   {
+    "id": "gOhH88qbbig",
+    "title": "Siemens Indoor Air Quality Multi-Sensor \ud83c\udf0d | Smart IAQ Monitoring & Technical Overview",
+    "meta": [
+     "1.1K",
+     "2y ago"
+    ],
+    "dur": "6:30",
+    "views_tab": 1100
+   },
+   {
+    "id": "rmyMwMsrFfY",
+    "title": "VFD for HVAC Systems \ud83d\udee0\ufe0f | Working Principle & Application Explained Clearly \ud83d\udca8",
+    "meta": [
+     "4K",
+     "2y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 4000
+   },
+   {
+    "id": "75v4oN12ycU",
+    "title": "Honeywell ComfortPoint Open CPO-PC500 Plant Controller / Honeywell Building Automation",
+    "meta": [
+     "4.4K",
+     "2y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 4400
+   },
+   {
+    "id": "V8bA_5ruxfU",
+    "title": "ABB Low-Voltage VFD Drive Series Overview \ud83d\udd0b | Ideal for Building & Industrial Use",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 2600
+   },
+   {
+    "id": "Hj1t4LDYbbY",
+    "title": "Belimo Gas Monitoring Device \ud83d\udd0d | Full Overview & Technical Specifications for Smart Buildings\ud83c\udf10",
+    "meta": [
+     "1.3K",
+     "2y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 1300
+   },
+   {
+    "id": "3f55YiSa-xQ",
+    "title": "Siemens SINAMICS G120 VFD | Intelligent Operator Panel (IOP) Types & Specifications",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 4200
+   },
+   {
+    "id": "mQbJX9wOkx0",
+    "title": "Danfoss Low Voltage VFD Drive Series | VLT 2800 Technical Details & Use Cases (Part-1)\u2699\ufe0f",
+    "meta": [
+     "1.5K",
+     "2y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 1500
+   },
+   {
+    "id": "3FCTedmLqD4",
+    "title": "Belimo CM230 Non Fail-Safe Actuator | Full Technical Overview & Specifications \ud83c\udf0d\ud83d\udd27",
+    "meta": [
+     "5.6K",
+     "3y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 5600
+   },
+   {
+    "id": "WUhwCKjmxQg",
+    "title": "Honeywell N1024 Non Spring Return Direct Coupled Damper Actuator | Full Technical Specs\ud83d\udcd6",
+    "meta": [
+     "6.5K",
+     "3y ago"
+    ],
+    "dur": "8:05",
+    "views_tab": 6500
+   },
+   {
+    "id": "qQNqQkX3d5M",
+    "title": "WAGO Compact Controller 100 Overview & Technical Details \ud83d\udd0d\u2699\ufe0f",
+    "meta": [
+     "6.1K",
+     "3y ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 6100
+   },
+   {
+    "id": "W4rwR1VAS7I",
+    "title": "Siemens RDD510 Heat/Cool Room Thermostat: Overview & Technical Data | HVAC Control Made Simple",
+    "meta": [
+     "7.8K",
+     "3y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 7800
+   },
+   {
+    "id": "z2Tslyw0zio",
+    "title": "Belimo EXT-KA-SE100 Indoor Smart Air Quality Sensor | Full Overview & Technical Data Explained",
+    "meta": [
+     "404",
+     "3y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 404
+   },
+   {
+    "id": "J4jwNUfCV7Q",
+    "title": "How to Launch IQVISION & Create First Platform and Station \ud83d\udcbb | IQVISION Tutorial Part-1",
+    "meta": [
+     "5.3K",
+     "3y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 5300
+   },
+   {
+    "id": "iDUYrfpzEf8",
+    "title": "Siemens KNX Touch Control TC5: Multi-Functional Room Unit Overview & Technical Data",
+    "meta": [
+     "2.6K",
+     "3y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 2600
+   },
+   {
+    "id": "O3OGhSOC_AQ",
+    "title": "WAGO DC to DC Converter Connector | Complete Technical Overview & Specifications \ud83d\udd0c\u26a1",
+    "meta": [
+     "789",
+     "3y ago"
+    ],
+    "dur": "2:47",
+    "views_tab": 789
+   },
+   {
+    "id": "sRApFD82WRc",
+    "title": "TREND IQ5 CONTROLLER / Honeywell Building Technologies / Building Energy Management System",
+    "meta": [
+     "5.5K",
+     "3y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 5500
+   },
+   {
+    "id": "RG5uQsyEBZk",
+    "title": "Belimo 22PDP-185 Differential Pressure Sensor \ud83c\udf0a | Technical Overview for HVAC & Water Systems",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 1600
+   },
+   {
+    "id": "nPKeia2L3ME",
+    "title": "Honeywell Optimizer Unitary BACnet Controller | Overview & Technical Specifications\ud83d\udcd6",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 12000
+   },
+   {
+    "id": "HQx2vpEcGjY",
+    "title": "PLC Ladder Logic Basics: AND & OR Gates in Siemens LOGO! Soft Comfort",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "7:30",
+    "views_tab": 1200
+   },
+   {
+    "id": "4phja77joOQ",
+    "title": "TREND IQ4 Hand-Off-Auto Control Input Output Expansion Module / Building Automation System",
+    "meta": [
+     "793",
+     "3y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 793
+   },
+   {
+    "id": "iRyk_L-C57I",
+    "title": "Danfoss VLT Micro Drive FC 51 Nameplate Details Explained \ud83d\udd0d | Complete Guide \ud83d\udcda",
+    "meta": [
+     "3.5K",
+     "3y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 3500
+   },
+   {
+    "id": "AjgTrniCCoo",
+    "title": "Siemens QFA41xx Room Humidity & Temperature Sensors\ud83c\udf21\ufe0f\ud83d\udca7 | Overview & Technical Specs \u2699\ufe0f",
+    "meta": [
+     "1.8K",
+     "3y ago"
+    ],
+    "dur": "8:05",
+    "views_tab": 1800
+   },
+   {
+    "id": "kKYJm4P9Dkc",
+    "title": "Belimo TF24-S Rotary Fail-Safe Damper Actuator Overview | Technical Specifications Explained",
+    "meta": [
+     "3.7K",
+     "3y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 3700
+   },
+   {
+    "id": "PubLIUCvYcQ",
+    "title": "TREND IQVISION Supervisor Software Installation / #hvac / #niagara / #honeywell / #TRENDCONTROL",
+    "meta": [
+     "3.8K",
+     "3y ago"
+    ],
+    "dur": "9:43",
+    "views_tab": 3800
+   },
+   {
+    "id": "SQuTTSHDlVM",
+    "title": "Belimo TF24 24V Rotary Fail-Safe Damper Actuator \u2013 Complete Overview & Technical Specifications!",
+    "meta": [
+     "3K",
+     "3y ago"
+    ],
+    "dur": "4:29",
+    "views_tab": 3000
+   },
+   {
+    "id": "6qSK1HPNH3I",
+    "title": "Trend HT/D Duct Humidity & Temperature Sensor | Technical Overview & Features \ud83c\udf21\ufe0f",
+    "meta": [
+     "2K",
+     "3y ago"
+    ],
+    "dur": "8:04",
+    "views_tab": 2000
+   },
+   {
+    "id": "OVLAmrMe3g8",
+    "title": "#Trend IO Bus Interface Connectors / #bms / #hvac / #honeywell / #IQ4Emodule / #IQ3xcite",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 1200
+   },
+   {
+    "id": "7Dh3MpOgdw8",
+    "title": "Siemens GEB141.1E Rotary Air Damper Actuator | Overview & Technical Specifications",
+    "meta": [
+     "6.2K",
+     "3y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 6200
+   },
+   {
+    "id": "rpCBpmZ5z2s",
+    "title": "Trend IO Module Bus Interconnectors Explained | Complete Technical Breakdown (Part 1)",
+    "meta": [
+     "1.6K",
+     "3y ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 1600
+   },
+   {
+    "id": "3ofLiYwsLf8",
+    "title": "Siemens PXC7 Automation Station Controller | Overview & Technical Specifications",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 13000
+   },
+   {
+    "id": "oDPfZuuhtxw",
+    "title": "#Belimo Non Fail Safe Damper Actuator Types / #hvac / Insight Control System",
+    "meta": [
+     "1.7K",
+     "3y ago"
+    ],
+    "dur": "5:24",
+    "views_tab": 1700
+   },
+   {
+    "id": "wZ03lsfS21k",
+    "title": "Belimo BEN 24 Smoke Damper Actuator | Overview & Technical Specifications",
+    "meta": [
+     "2.3K",
+     "3y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 2300
+   },
+   {
+    "id": "G_9LGvIwDaU",
+    "title": "Belimo BEN230 Smoke Control Damper Actuator | Overview & Complete Technical Specifications",
+    "meta": [
+     "2.8K",
+     "3y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 2800
+   },
+   {
+    "id": "v80YN3Bb0xk",
+    "title": "TREND 916 Mobile Display Software / #honeywell / Windows Pocket PC / #hmi / #Trendcontrols",
+    "meta": [
+     "1.3K",
+     "3y ago"
+    ],
+    "dur": "6:17",
+    "views_tab": 1300
+   },
+   {
+    "id": "GgkQ9jw4qFg",
+    "title": "Siemens DXR2.M10PL Compact Actuator Room Automation Station | Overview & Technical Data",
+    "meta": [
+     "5.4K",
+     "3y ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 5400
+   },
+   {
+    "id": "AML6ymo0AFg",
+    "title": "Belimo FSAFB24-SR Fail-Safe Spring Return Damper Actuator | Technical Specifications",
+    "meta": [
+     "5K",
+     "4y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 5000
+   },
+   {
+    "id": "pbyjUC78nuU",
+    "title": "Belimo FSAFB 24-SR-S Fail-Safe Spring Return Damper Actuator | Technical Guide for HVAC",
+    "meta": [
+     "9.9K",
+     "4y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 9900
+   },
+   {
+    "id": "ClJE8U6hL-Y",
+    "title": "TREND IQSET Programming Software Overview | Features, Specifications & Tools",
+    "meta": [
+     "8.8K",
+     "4y ago"
+    ],
+    "dur": "7:14",
+    "views_tab": 8800
+   },
+   {
+    "id": "6Bl-kGMVBuM",
+    "title": "How to Install an Air Handling Unit (AHU) \ud83d\udea7| Complete Method Statement Guide\ud83d\udccb",
+    "meta": [
+     "9.9K",
+     "4y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 9900
+   },
+   {
+    "id": "Z3qi3hBLDlA",
+    "title": "Siemens PXG3.W100-2 BACnet/IP Web Interface | Overview, Features & Installation Guide",
+    "meta": [
+     "2.7K",
+     "4y ago"
+    ],
+    "dur": "5:12",
+    "views_tab": 2700
+   },
+   {
+    "id": "n-R1IQm5BD8",
+    "title": "Belimo P\u201122RTM\u20111900D\u20111 Room Unit Overview & Tech Specs! \ud83d\udee0\ufe0f",
+    "meta": [
+     "4.9K",
+     "4y ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 4900
+   },
+   {
+    "id": "CBAkTv_K-dY",
+    "title": "Belimo LMQ24A Modulating Damper Actuator | Complete Overview & Technical Data",
+    "meta": [
+     "6.4K",
+     "4y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 6400
+   },
+   {
+    "id": "2BQunmmA1Nk",
+    "title": "How to Safely Install Chilled Water Pumps: Step-by-Step Method Statement \ud83d\udee0\ufe0f",
+    "meta": [
+     "3.8K",
+     "4y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 3800
+   },
+   {
+    "id": "bYjs7R0637M",
+    "title": "Belimo SMQ 24A-SR Modulating Damper Actuator | Complete Overview & Technical Data",
+    "meta": [
+     "6.7K",
+     "4y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 6700
+   },
+   {
+    "id": "QFnVxHhzrrQ",
+    "title": "Siemens RWG Universal Controller \u2013 Full Technical Specs & Features Overview",
+    "meta": [
+     "2.6K",
+     "4y ago"
+    ],
+    "dur": "6:15",
+    "views_tab": 2600
+   },
+   {
+    "id": "HDwYLs2cFIg",
+    "title": "Belimo TRF24-SR Modulating Rotary Actuator | Fail-Safe Ball Valve Technical Specifications",
+    "meta": [
+     "3K",
+     "4y ago"
+    ],
+    "dur": "4:59",
+    "views_tab": 3000
+   },
+   {
+    "id": "-1S0qU5EDwY",
+    "title": "Siemens RDJ 100RF/SET Wireless Room Thermostat: Overview & Technical Data | Smart HVAC Control",
+    "meta": [
+     "24K",
+     "4y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 24000
+   },
+   {
+    "id": "f-Uwq9ojfEI",
+    "title": "Belimo Frost Monitor 20DTS-1P / Water and Air Heaters / Air Conditioning",
+    "meta": [
+     "156",
+     "4y ago"
+    ],
+    "dur": "5:36",
+    "views_tab": 156
+   },
+   {
+    "id": "GTw4X7zDNFo",
+    "title": "Siemens RDG 20KN & RDG 26KN Series: KNX Thermostats Overview & Technical Data | Smart HVAC Solutions",
+    "meta": [
+     "7.6K",
+     "4y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 7600
+   },
+   {
+    "id": "g-g0DnNnTr0",
+    "title": "Method Statement for Installing HVAC Fan | Step-by-Step Guide \ud83d\udee0\ufe0f",
+    "meta": [
+     "1.7K",
+     "4y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 1700
+   },
+   {
+    "id": "BgQW0AZDW0E",
+    "title": "Siemens RDF 300.02 Thermostat | Parameter Settings & Technical Data Explained",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 10000
+   },
+   {
+    "id": "2NgXpAhoGgo",
+    "title": "Siemens PXC4.E16 Automation Station | Complete Technical Overview & I/O Details \u2699\ufe0f",
+    "meta": [
+     "8.4K",
+     "4y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 8400
+   },
+   {
+    "id": "m8fffuPvitI",
+    "title": "Schneider Altivar ATV310 VFD Fault Codes Explained | Causes & Remedies (Part 1)",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 13000
+   },
+   {
+    "id": "RlRF8qxQISk",
+    "title": "Danfoss EKE 400 Evaporator PLC Controller Overview & Technical Details \ud83c\udf21\ufe0f",
+    "meta": [
+     "3.5K",
+     "4y ago"
+    ],
+    "dur": "7:46",
+    "views_tab": 3500
+   },
+   {
+    "id": "J5OuYjxQrCs",
+    "title": "TREND IQ4 IO MODULE / #TREND #IQ4 8DI Expansion IO Module",
+    "meta": [
+     "1.2K",
+     "4y ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 1200
+   },
+   {
+    "id": "JgHQqU-DNo8",
+    "title": "Belimo 22UTH-11 Outdoor Humidity & Temperature Sensor Overview \ud83c\udf26\ufe0f Technical Specifications Explained",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 1000
+   },
+   {
+    "id": "QsrCFCGqTSc",
+    "title": "Fan Coil Unit (FCU) Installation Method Statement | Step-by-Step Guide \ud83d\udee0\ufe0f\ud83d\udccb",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 15000
+   },
+   {
+    "id": "a4RhrK7aAa0",
+    "title": "Trend IQX-12 Controller & I/O Module | Complete Overview, Technical Specifications & Features",
+    "meta": [
+     "1.3K",
+     "4y ago"
+    ],
+    "dur": "9:55",
+    "views_tab": 1300
+   },
+   {
+    "id": "ZLkj3FBZKxA",
+    "title": "Chilled Water System Installation, Testing & Insulation \u2744\ufe0f| Complete Method Statement \ud83d\udee0\ufe0f\ud83c\udf0d",
+    "meta": [
+     "7.9K",
+     "4y ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 7900
+   },
+   {
+    "id": "QV6l48ZRhHk",
+    "title": "Honeywell Air Quality Monitor | Full Overview & Technical Specifications\ud83c\udf0d",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 1400
+   },
+   {
+    "id": "MJtHQQRwQUs",
+    "title": "Spiral Round Duct Installation & Insulation | Complete Guide with Accessories \ud83d\udee0\ufe0f\ud83d\udce6",
+    "meta": [
+     "30K",
+     "4y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 30000
+   },
+   {
+    "id": "_2o_089Vq40",
+    "title": "HVAC Duct work Installation Methods & Statements | Complete Guide with Accessories \ud83c\udf2c\ufe0f\ud83d\udcd0",
+    "meta": [
+     "77K",
+     "4y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 77000
+   },
+   {
+    "id": "QORNfC9l_wQ",
+    "title": "Trend BMS Display Devices Explained | IQVIEW8, IQVIEW4, WMB & BEMS | Part-3",
+    "meta": [
+     "3.2K",
+     "4y ago"
+    ],
+    "dur": "5:33",
+    "views_tab": 3200
+   }
+  ],
+  "Popular": [
+   {
+    "id": "GaDO-w0_EEk",
+    "title": "Siemens RDF 310.2 MM Thermostat | Full Operation Guide & Setup Tutorial",
+    "meta": [
+     "143K",
+     "6y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 143000
+   },
+   {
+    "id": "8wd4hiTrKmU",
+    "title": "Danfoss VLT Micro Drive FC-51 Parameter Settings \u2013 Complete Guide! \ud83d\udd29",
+    "meta": [
+     "136K",
+     "4y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 136000
+   },
+   {
+    "id": "AswKtiZNoqw",
+    "title": "Siemens RDG400KN Thermostat | Complete Operating Instructions & Setup Guide",
+    "meta": [
+     "107K",
+     "6y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 107000
+   },
+   {
+    "id": "WLSEuN-c53M",
+    "title": "Belimo GM24A-SR Modulating Damper Actuator \ud83d\udd25 Full Working Principle & Technical Data\u26a1",
+    "meta": [
+     "94K",
+     "5y ago"
+    ],
+    "dur": "12:36",
+    "views_tab": 94000
+   },
+   {
+    "id": "1j39f2dcGtU",
+    "title": "Siemens Room Thermostats Overview",
+    "meta": [
+     "89K",
+     "7y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 89000
+   },
+   {
+    "id": "_2o_089Vq40",
+    "title": "HVAC Duct work Installation Methods & Statements | Complete Guide with Accessories \ud83c\udf2c\ufe0f\ud83d\udcd0",
+    "meta": [
+     "77K",
+     "4y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 77000
+   },
+   {
+    "id": "d-aP54s9OVA",
+    "title": "Siemens RDF 300.02 Thermostat | Complete Parameter Setting Guide",
+    "meta": [
+     "73K",
+     "6y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 73000
+   },
+   {
+    "id": "-wmb2miW4S8",
+    "title": "How to Design a DOL Starter Circuit Using QElectro Tech Software | Step-by-Step Tutorial",
+    "meta": [
+     "64K",
+     "5y ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 64000
+   },
+   {
+    "id": "fLnVzVPClII",
+    "title": "Siemens V20 VFD Drive Fault Codes Explained | Causes & Remedies | Part 1",
+    "meta": [
+     "51K",
+     "5y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 51000
+   },
+   {
+    "id": "b-PHUdrIc58",
+    "title": "QElectro Tech Tutorial & Review | Best Free Circuit Design & Schematic Software for Engineers!",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 41000
+   },
+   {
+    "id": "W40Q1ofaexI",
+    "title": "Siemens SINAMICS V20 Inverter Commissioning | Manual/Auto Mode, Potentiometer & Parameter Setup",
+    "meta": [
+     "41K",
+     "6y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 41000
+   },
+   {
+    "id": "vjbju79E5y0",
+    "title": "Siemens RDH 100 Room Thermostat: Technical Specifications & Features Explained | HVAC Essentials",
+    "meta": [
+     "39K",
+     "5y ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 39000
+   },
+   {
+    "id": "FTalblhJhnc",
+    "title": "Danfoss FC 51 Microdrive Alarms, Errors & Warnings Explained \ud83d\udd27\u26a0\ufe0f",
+    "meta": [
+     "39K",
+     "4y ago"
+    ],
+    "dur": "6:55",
+    "views_tab": 39000
+   },
+   {
+    "id": "O_bdA_OacpM",
+    "title": "Danfoss FC 51 VLT Microdrive | Full Technical Specs & Parameter Settings \ud83d\udd27",
+    "meta": [
+     "37K",
+     "4y ago"
+    ],
+    "dur": "11:55",
+    "views_tab": 37000
+   },
+   {
+    "id": "FSW5vVIeYUM",
+    "title": "How to Set Basic Motor Parameters in Siemens SINAMICS V20 VFD Part-1\ud83d\udee0\ufe0f| Step-by-Step Setup",
+    "meta": [
+     "34K",
+     "7y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 34000
+   },
+   {
+    "id": "uSHKssAW8lw",
+    "title": "Siemens RDH10RF SET Thermostat: Wireless Room Temperature Control | Technical Specification",
+    "meta": [
+     "34K",
+     "6y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 34000
+   },
+   {
+    "id": "XYVZHvH_66U",
+    "title": "Siemens QFM2171 Duct Sensor\ud83d\udca7\ud83c\udf21\ufe0f | Technical Data, Wiring & Live Demo with RWD Controller \u26a1",
+    "meta": [
+     "31K",
+     "6y ago"
+    ],
+    "dur": "7:14",
+    "views_tab": 31000
+   },
+   {
+    "id": "MJtHQQRwQUs",
+    "title": "Spiral Round Duct Installation & Insulation | Complete Guide with Accessories \ud83d\udee0\ufe0f\ud83d\udce6",
+    "meta": [
+     "30K",
+     "4y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 30000
+   },
+   {
+    "id": "k5jj8V8MyQc",
+    "title": "How to Create a Simple VFD Power Diagram Using QElectro Tech Software | Step-by-Step Tutorial",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 29000
+   },
+   {
+    "id": "L95SGMmP-DY",
+    "title": "Siemens RDF 310.2 MM Thermostat Control Parameters | Important Control Parameters Operation",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "3:56",
+    "views_tab": 28000
+   },
+   {
+    "id": "pCFd4OWagfg",
+    "title": "Siemens V20 Inverter Parameter Settings | Hand Mode & Potentiometer Adjustment Tutorial",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 28000
+   },
+   {
+    "id": "oqLb-RHB_0w",
+    "title": "How Building Management Systems (BMS) Work | Complete Overview \u2699\ufe0f",
+    "meta": [
+     "27K",
+     "5y ago"
+    ],
+    "dur": "5:27",
+    "views_tab": 27000
+   },
+   {
+    "id": "yZxHmbh0fOY",
+    "title": "Siemens GNP191.1E Damper Actuator FULL Operation! \ud83c\udf0d Wiring, Setup & Real Demo \ud83d\ude32",
+    "meta": [
+     "25K",
+     "6y ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 25000
+   },
+   {
+    "id": "vc0F_Il2Bps",
+    "title": "EAPL ST-6M1 Sequential Timer | Wiring & Programming Tutorial for 6 Channels \ud83e\udde0\ud83d\udd27",
+    "meta": [
+     "25K",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 25000
+   },
+   {
+    "id": "-1S0qU5EDwY",
+    "title": "Siemens RDJ 100RF/SET Wireless Room Thermostat: Overview & Technical Data | Smart HVAC Control",
+    "meta": [
+     "24K",
+     "4y ago"
+    ],
+    "dur": "7:47",
+    "views_tab": 24000
+   },
+   {
+    "id": "n9LTeJQJcsw",
+    "title": "Siemens PXC Controller 22E.D Full Operation /  APOGEE Automation System",
+    "meta": [
+     "24K",
+     "6y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 24000
+   },
+   {
+    "id": "zYje-q5ud2A",
+    "title": "Siemens REV13 Room Temperature Controller: Overview & Key Features | HVAC Essentials",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "FCREFd75h7U",
+    "title": "Siemens Micro Master 440 VFD Drive | Fault Codes, Causes & Remedies Part-1",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "11:01",
+    "views_tab": 21000
+   },
+   {
+    "id": "lF5kuBPab2Y",
+    "title": "Danfoss VLT 6000 HVAC VFD Drive | Basic Parameter Settings Guide \u2699\ufe0f",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 21000
+   },
+   {
+    "id": "ry7FJ1UGje8",
+    "title": "Siemens RAA31 Room Thermostat: Technical Data & Features Explained | HVAC Essentials",
+    "meta": [
+     "20K",
+     "6y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 20000
+   },
+   {
+    "id": "BWLRW7Mv2Ss",
+    "title": "Belimo NFA-S2 230V AC Spring Return Actuator | Full Technical Specifications Guide",
+    "meta": [
+     "19K",
+     "4y ago"
+    ],
+    "dur": "7:24",
+    "views_tab": 19000
+   },
+   {
+    "id": "RABb7NXho-s",
+    "title": "Siemens QBM81-5 Differential Pressure Switch | Technical Details, Wiring & Live Demo \ud83c\udf2c\ufe0f",
+    "meta": [
+     "19K",
+     "6y ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 19000
+   },
+   {
+    "id": "Uxe5RLO0qgU",
+    "title": "Honeywell N2024 Non-Spring Return Damper Actuator | Specs, Installation & Features Explained",
+    "meta": [
+     "19K",
+     "5y ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 19000
+   },
+   {
+    "id": "gETtH73ODXI",
+    "title": "Siemens RDE100.0 RF Thermostat Overview | Technical details",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "9:26",
+    "views_tab": 18000
+   },
+   {
+    "id": "VmgsQtwTTr8",
+    "title": "Danfoss FC301/302 VFD Alarms & Warnings \ud83d\udea8 | Troubleshooting Guide Part-1 \u2699\ufe0f",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "6:13",
+    "views_tab": 18000
+   },
+   {
+    "id": "ePqp9toOdf8",
+    "title": "Siemens RDD10.0 Room Temperature Controller: Overview & Key Features | HVAC Made Simple",
+    "meta": [
+     "17K",
+     "5y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 17000
+   },
+   {
+    "id": "hn2gJvq3fRw",
+    "title": "Danfoss VFD Drive LCP Simulator Tool Overview \ud83d\udd27 | Full Walkthrough for Beginners",
+    "meta": [
+     "16K",
+     "4y ago"
+    ],
+    "dur": "9:28",
+    "views_tab": 16000
+   },
+   {
+    "id": "dYbZ6CYAtwk",
+    "title": "Danfoss VLT FC-301/302 VFD Drive Basics Parameter Settings Part-1",
+    "meta": [
+     "16K",
+     "5y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "QsrCFCGqTSc",
+    "title": "Fan Coil Unit (FCU) Installation Method Statement | Step-by-Step Guide \ud83d\udee0\ufe0f\ud83d\udccb",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "4:19",
+    "views_tab": 15000
+   },
+   {
+    "id": "3ofLiYwsLf8",
+    "title": "Siemens PXC7 Automation Station Controller | Overview & Technical Specifications",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "6:56",
+    "views_tab": 13000
+   },
+   {
+    "id": "FV1aRfYsWZw",
+    "title": "Honeywell IQVISION Supervisory Software Explained | SCADA & BMS System Overview",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "10:06",
+    "views_tab": 13000
+   },
+   {
+    "id": "4uQ7h8AwF1g",
+    "title": "#Temperature Sensors Installation Methods",
+    "meta": [
+     "13K",
+     "5y ago"
+    ],
+    "dur": "9:27",
+    "views_tab": 13000
+   },
+   {
+    "id": "Bbes7GISpYo",
+    "title": "Siemens PXM20 Operator Unit Full Operation & Live Demo for Building Automation",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 13000
+   },
+   {
+    "id": "3BjRoV_UWj0",
+    "title": "OFF DELAY TIMER Logic Function using Siemens Logo Software / #logicgates / #siemens",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 13000
+   },
+   {
+    "id": "m8fffuPvitI",
+    "title": "Schneider Altivar ATV310 VFD Fault Codes Explained | Causes & Remedies (Part 1)",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "6:34",
+    "views_tab": 13000
+   },
+   {
+    "id": "m0spaADvrLc",
+    "title": "Danfoss FC 360 VFD Setup for Automatic Water Pump Control with PLC \ud83c\udf0a\u26a1 | Wiring + Parameters",
+    "meta": [
+     "12K",
+     "1y ago"
+    ],
+    "dur": "6:57",
+    "views_tab": 12000
+   },
+   {
+    "id": "g6iFi3i2HX8",
+    "title": "TREND IQ4E Controller \ud83d\udd0d | Complete Technical Specifications, Wiring & Setup Guide! \ud83c\udf0d",
+    "meta": [
+     "12K",
+     "5y ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 12000
+   },
+   {
+    "id": "nPKeia2L3ME",
+    "title": "Honeywell Optimizer Unitary BACnet Controller | Overview & Technical Specifications\ud83d\udcd6",
+    "meta": [
+     "12K",
+     "3y ago"
+    ],
+    "dur": "8:01",
+    "views_tab": 12000
+   },
+   {
+    "id": "K-mSbscMeAk",
+    "title": "Honeywell Smart WiFi 9000 Color Touchscreen Thermostat | Specs, Features, Installation & Setup Guide",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "8:39",
+    "views_tab": 11000
+   },
+   {
+    "id": "u3p-I5DrmXM",
+    "title": "Siemens PXC Controller Series Part 1",
+    "meta": [
+     "11K",
+     "7y ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 11000
+   },
+   {
+    "id": "lL2dl9oqu1E",
+    "title": "Siemens MVI421.20/2 Zone Valve & Actuator | Full Operation with Live Demo",
+    "meta": [
+     "11K",
+     "6y ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 11000
+   },
+   {
+    "id": "FsdX0BWIOuE",
+    "title": "Siemens RWD 82 Controller Review & Parameter Settings | Setup, Features & Performance",
+    "meta": [
+     "11K",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 11000
+   },
+   {
+    "id": "SrKC9jAGNPU",
+    "title": "Danfoss FC301/302 VFD Alarms & Warnings\ud83d\udea8 | Troubleshooting Guide Part-2 \u26a0\ufe0f",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "7:02",
+    "views_tab": 11000
+   },
+   {
+    "id": "nUJfKXH6-NQ",
+    "title": "Siemens PXG3.W100-1 & W200-1 BACnet/IP Web Interface: Wiring + Live Demo! \ud83c\udf10",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 10000
+   },
+   {
+    "id": "5ou169c04uc",
+    "title": "Humidification Plant Automation Explained | Step-by-Step Process with Sensors, PLC & HMI \ud83d\udca7\ud83e\udd16",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 10000
+   },
+   {
+    "id": "hnlM-KoM62A",
+    "title": "Siemens Simatic PLC Module S7-1200 and S7-1500 Controller",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "6:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "VIigLoXgSGc",
+    "title": "Siemens Climatix C600 Controllers for Heating Ventilation Air Conditioning Systems",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 10000
+   },
+   {
+    "id": "qkY2IBfNqMI",
+    "title": "Pressure Sensors Installation Method / Differential pressure / Pressure Tubes / Damping Coil",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 10000
+   },
+   {
+    "id": "BgQW0AZDW0E",
+    "title": "Siemens RDF 300.02 Thermostat | Parameter Settings & Technical Data Explained",
+    "meta": [
+     "10K",
+     "4y ago"
+    ],
+    "dur": "4:33",
+    "views_tab": 10000
+   },
+   {
+    "id": "6Bl-kGMVBuM",
+    "title": "How to Install an Air Handling Unit (AHU) \ud83d\udea7| Complete Method Statement Guide\ud83d\udccb",
+    "meta": [
+     "9.9K",
+     "4y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 9900
+   },
+   {
+    "id": "4VhPTdaraYo",
+    "title": "How Chiller System Works | Complete Working Principle Explained \u2744\ufe0f\u2699\ufe0f",
+    "meta": [
+     "9.9K",
+     "5y ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 9900
+   },
+   {
+    "id": "pbyjUC78nuU",
+    "title": "Belimo FSAFB 24-SR-S Fail-Safe Spring Return Damper Actuator | Technical Guide for HVAC",
+    "meta": [
+     "9.9K",
+     "4y ago"
+    ],
+    "dur": "6:22",
+    "views_tab": 9900
+   },
+   {
+    "id": "ojq00X2xShs",
+    "title": "Trend Controllers Overview | Trend Network Structure & BMS Infrastructure | Part-1",
+    "meta": [
+     "9.2K",
+     "4y ago"
+    ],
+    "dur": "10:07",
+    "views_tab": 9200
+   },
+   {
+    "id": "ClJE8U6hL-Y",
+    "title": "TREND IQSET Programming Software Overview | Features, Specifications & Tools",
+    "meta": [
+     "8.8K",
+     "4y ago"
+    ],
+    "dur": "7:14",
+    "views_tab": 8800
+   },
+   {
+    "id": "Jt0f_DMIcL0",
+    "title": "Honeywell H7080B Series Temperature & Humidity Duct Sensor | Full Specifications & Features",
+    "meta": [
+     "8.6K",
+     "4y ago"
+    ],
+    "dur": "11:41",
+    "views_tab": 8600
+   },
+   {
+    "id": "hFPm7sinA90",
+    "title": "Siemens V20 VFD Drive Fault Codes Explained | Causes & Remedies | Part -2",
+    "meta": [
+     "8.5K",
+     "5y ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 8500
+   },
+   {
+    "id": "wpv-ym2MVlo",
+    "title": "EAPL ST-6M1 Sequential Timer | Full Programming Guide with Live Demo \ud83d\udca1",
+    "meta": [
+     "8.5K",
+     "5y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 8500
+   },
+   {
+    "id": "2NgXpAhoGgo",
+    "title": "Siemens PXC4.E16 Automation Station | Complete Technical Overview & I/O Details \u2699\ufe0f",
+    "meta": [
+     "8.4K",
+     "4y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 8400
+   },
+   {
+    "id": "nj75v0BqsB4",
+    "title": "Trend Differential Pressure Switch /  User-Adjustable /  Air Handling Systems",
+    "meta": [
+     "8.3K",
+     "2y ago"
+    ],
+    "dur": "4:07",
+    "views_tab": 8300
+   },
+   {
+    "id": "ZLkj3FBZKxA",
+    "title": "Chilled Water System Installation, Testing & Insulation \u2744\ufe0f| Complete Method Statement \ud83d\udee0\ufe0f\ud83c\udf0d",
+    "meta": [
+     "7.9K",
+     "4y ago"
+    ],
+    "dur": "7:27",
+    "views_tab": 7900
+   },
+   {
+    "id": "rtE1c8qRuUQ",
+    "title": "Classification of Boilers Explained \ud83d\udd25 | Types, Pressure, Fuel & Applications \ud83c\udf0d | Boiler Basics",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 7900
+   },
+   {
+    "id": "7D9VDCDfoII",
+    "title": "How Hygrometers Work \ud83c\udf21\ufe0f | Measure Relative Humidity & Temperature with Formulas (Analog & Digital)",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 7900
+   },
+   {
+    "id": "W4rwR1VAS7I",
+    "title": "Siemens RDD510 Heat/Cool Room Thermostat: Overview & Technical Data | HVAC Control Made Simple",
+    "meta": [
+     "7.8K",
+     "3y ago"
+    ],
+    "dur": "5:46",
+    "views_tab": 7800
+   },
+   {
+    "id": "GTw4X7zDNFo",
+    "title": "Siemens RDG 20KN & RDG 26KN Series: KNX Thermostats Overview & Technical Data | Smart HVAC Solutions",
+    "meta": [
+     "7.6K",
+     "4y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 7600
+   },
+   {
+    "id": "HY5fNyY5Dv0",
+    "title": "#Siemens PLC Hardware Overview / Programmable Logic Controller",
+    "meta": [
+     "7.5K",
+     "5y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 7500
+   },
+   {
+    "id": "x5ZqDdg0C8U",
+    "title": "Siemens Micro Master 430 VFD | Overview & Basic Setup Part-2",
+    "meta": [
+     "7.3K",
+     "6y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 7300
+   },
+   {
+    "id": "gc0ghPqLXJc",
+    "title": "Siemens RDS110 Smart Thermostat \u2013 Technical Specs & Features for HVAC Pros",
+    "meta": [
+     "7.2K",
+     "6y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 7200
+   },
+   {
+    "id": "5WN3F03YKPQ",
+    "title": "Siemens QAM2112.040 Duct Temperature Sensor | Technical Specifications & Live Demo",
+    "meta": [
+     "7K",
+     "6y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 7000
+   },
+   {
+    "id": "g2bBomRYfmM",
+    "title": "Siemens QFM2160 Duct Sensor Wiring & Live Demo\ud83c\udf21\ufe0f| Connect with Siemens RWD Controller\ud83d\udd27",
+    "meta": [
+     "6.8K",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 6800
+   },
+   {
+    "id": "IwCCO1KJbqg",
+    "title": "Belimo EV24A-SR-TPC Modulating Globe Valve Actuator for 2-way and 3-way Globe Valves",
+    "meta": [
+     "6.8K",
+     "2y ago"
+    ],
+    "dur": "7:19",
+    "views_tab": 6800
+   },
+   {
+    "id": "bYjs7R0637M",
+    "title": "Belimo SMQ 24A-SR Modulating Damper Actuator | Complete Overview & Technical Data",
+    "meta": [
+     "6.7K",
+     "4y ago"
+    ],
+    "dur": "5:39",
+    "views_tab": 6700
+   },
+   {
+    "id": "qvnB7BJdiX0",
+    "title": "Siemens S7-300 & S7-400 PLCs Explained | Complete SIMATIC Modular PLC Overview \ud83e\udde0",
+    "meta": [
+     "6.5K",
+     "5y ago"
+    ],
+    "dur": "4:10",
+    "views_tab": 6500
+   },
+   {
+    "id": "WUhwCKjmxQg",
+    "title": "Honeywell N1024 Non Spring Return Direct Coupled Damper Actuator | Full Technical Specs\ud83d\udcd6",
+    "meta": [
+     "6.5K",
+     "3y ago"
+    ],
+    "dur": "8:05",
+    "views_tab": 6500
+   },
+   {
+    "id": "Ca4K9CoIU1U",
+    "title": "Belimo NR24A-SR Modulating Rotary Valve Actuator | Full Overview & Technical Specs\ud83d\udd27",
+    "meta": [
+     "6.5K",
+     "1y ago"
+    ],
+    "dur": "5:26",
+    "views_tab": 6500
+   },
+   {
+    "id": "IwgqbA-3yRE",
+    "title": "Siemens Differential Pressure Switch | General Specifications Explained",
+    "meta": [
+     "6.4K",
+     "7y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 6400
+   },
+   {
+    "id": "CBAkTv_K-dY",
+    "title": "Belimo LMQ24A Modulating Damper Actuator | Complete Overview & Technical Data",
+    "meta": [
+     "6.4K",
+     "4y ago"
+    ],
+    "dur": "5:07",
+    "views_tab": 6400
+   },
+   {
+    "id": "7Dh3MpOgdw8",
+    "title": "Siemens GEB141.1E Rotary Air Damper Actuator | Overview & Technical Specifications",
+    "meta": [
+     "6.2K",
+     "3y ago"
+    ],
+    "dur": "7:16",
+    "views_tab": 6200
+   },
+   {
+    "id": "qQNqQkX3d5M",
+    "title": "WAGO Compact Controller 100 Overview & Technical Details \ud83d\udd0d\u2699\ufe0f",
+    "meta": [
+     "6.1K",
+     "3y ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 6100
+   },
+   {
+    "id": "30IH6bAOQRw",
+    "title": "Honeywell MS82 Series Fire & Smoke Damper Actuator | Overview, Specs & Installation Guide",
+    "meta": [
+     "6K",
+     "2y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 6000
+   },
+   {
+    "id": "m9Pqf7hl1Dk",
+    "title": "Memory Types of Siemens PLC/ Programmable Logic Controller / #insightcontrolsystem",
+    "meta": [
+     "6K",
+     "5y ago"
+    ],
+    "dur": "3:56",
+    "views_tab": 6000
+   },
+   {
+    "id": "Smwb5MLRyrU",
+    "title": "Honeywell TC500A-N Commercial Thermostat | Full Overview & Technical Specs",
+    "meta": [
+     "5.9K",
+     "4y ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 5900
+   },
+   {
+    "id": "glTMUrFA_HY",
+    "title": "Siemens V20 VFD Drive Fault Codes Explained | Causes & Remedies | Part -3",
+    "meta": [
+     "5.9K",
+     "5y ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 5900
+   },
+   {
+    "id": "3FCTedmLqD4",
+    "title": "Belimo CM230 Non Fail-Safe Actuator | Full Technical Overview & Specifications \ud83c\udf0d\ud83d\udd27",
+    "meta": [
+     "5.6K",
+     "3y ago"
+    ],
+    "dur": "5:10",
+    "views_tab": 5600
+   },
+   {
+    "id": "sRApFD82WRc",
+    "title": "TREND IQ5 CONTROLLER / Honeywell Building Technologies / Building Energy Management System",
+    "meta": [
+     "5.5K",
+     "3y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 5500
+   },
+   {
+    "id": "GgkQ9jw4qFg",
+    "title": "Siemens DXR2.M10PL Compact Actuator Room Automation Station | Overview & Technical Data",
+    "meta": [
+     "5.4K",
+     "3y ago"
+    ],
+    "dur": "8:44",
+    "views_tab": 5400
+   },
+   {
+    "id": "J4jwNUfCV7Q",
+    "title": "How to Launch IQVISION & Create First Platform and Station \ud83d\udcbb | IQVISION Tutorial Part-1",
+    "meta": [
+     "5.3K",
+     "3y ago"
+    ],
+    "dur": "6:07",
+    "views_tab": 5300
+   },
+   {
+    "id": "bRg9D6sFf7E",
+    "title": "Siemens S7 PLC I/O Modules & Power Supply Overview | Analog Input, Output, Status LEDs Explained",
+    "meta": [
+     "5.3K",
+     "5y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 5300
+   },
+   {
+    "id": "XTxjnRtcHqg",
+    "title": "Profibus vs Profinet vs Ethernet \u2013 What\u2019s the Difference in Siemens Systems? \ud83e\udd16\ud83c\udf10",
+    "meta": [
+     "5K",
+     "5y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 5000
+   },
+   {
+    "id": "SoKw_K5futg",
+    "title": "PLC Communication and Network Cables / #siemens",
+    "meta": [
+     "5K",
+     "5y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 5000
+   },
+   {
+    "id": "AML6ymo0AFg",
+    "title": "Belimo FSAFB24-SR Fail-Safe Spring Return Damper Actuator | Technical Specifications",
+    "meta": [
+     "5K",
+     "4y ago"
+    ],
+    "dur": "5:34",
+    "views_tab": 5000
+   },
+   {
+    "id": "gh7R0AbrArA",
+    "title": "#SIEMENS PXM 30.E HMI Touch Display Panel overview / #HMI / #BACnet",
+    "meta": [
+     "4.9K",
+     "4y ago"
+    ],
+    "dur": "8:55",
+    "views_tab": 4900
+   },
+   {
+    "id": "n-R1IQm5BD8",
+    "title": "Belimo P\u201122RTM\u20111900D\u20111 Room Unit Overview & Tech Specs! \ud83d\udee0\ufe0f",
+    "meta": [
+     "4.9K",
+     "4y ago"
+    ],
+    "dur": "5:54",
+    "views_tab": 4900
+   },
+   {
+    "id": "g-XfoK-Og5c",
+    "title": "How PLC'S Works / SIEMENS PLC PROGRAMMING",
+    "meta": [
+     "4.8K",
+     "6y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 4800
+   },
+   {
+    "id": "FBblL48SPi0",
+    "title": "Siemens Micro Master 430 VFD | Overview & Basic Setup Part-1",
+    "meta": [
+     "4.8K",
+     "6y ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 4800
+   },
+   {
+    "id": "Nt-FCDkV1ZQ",
+    "title": "Siemens PXC Controller Series Part-2",
+    "meta": [
+     "4.8K",
+     "7y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 4800
+   },
+   {
+    "id": "HrJWfl-9TmA",
+    "title": "TREND IQ3 XCITE96 PLC Controller Basic Operations / Trend Control Systems",
+    "meta": [
+     "4.5K",
+     "5y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 4500
+   },
+   {
+    "id": "75v4oN12ycU",
+    "title": "Honeywell ComfortPoint Open CPO-PC500 Plant Controller / Honeywell Building Automation",
+    "meta": [
+     "4.4K",
+     "2y ago"
+    ],
+    "dur": "7:48",
+    "views_tab": 4400
+   },
+   {
+    "id": "7241y3VdbyA",
+    "title": "Siemens GSD 321.1A Air Damper Actuator | Full Operation & Connection Demonstration",
+    "meta": [
+     "4.4K",
+     "6y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 4400
+   },
+   {
+    "id": "ivfKoPpn2IM",
+    "title": "Siemens Terminal Box Controller / APOGEE Automation System / #hvac",
+    "meta": [
+     "4.4K",
+     "6y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 4400
+   },
+   {
+    "id": "bNvFYrAijPE",
+    "title": "Honeywell NX VFD Drive Fault Codes & Troubleshooting Guide | Fix Common Issues Fast!",
+    "meta": [
+     "4.3K",
+     "5y ago"
+    ],
+    "dur": "10:14",
+    "views_tab": 4300
+   },
+   {
+    "id": "G4WcJkjn4Ws",
+    "title": "Siemens Touch Panel PXM-40",
+    "meta": [
+     "4.3K",
+     "7y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 4300
+   },
+   {
+    "id": "2n610QO76Jw",
+    "title": "Humidity Duct Sensors Installation Method / Air Velocity Sensor",
+    "meta": [
+     "4.2K",
+     "5y ago"
+    ],
+    "dur": "5:47",
+    "views_tab": 4200
+   },
+   {
+    "id": "3f55YiSa-xQ",
+    "title": "Siemens SINAMICS G120 VFD | Intelligent Operator Panel (IOP) Types & Specifications",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "7:05",
+    "views_tab": 4200
+   },
+   {
+    "id": "L9XVU_1Gcxc",
+    "title": "Schneider Electric SpaceLogic AS-B Controller | 24 IO Points Automation Server Explained",
+    "meta": [
+     "4.2K",
+     "2y ago"
+    ],
+    "dur": "5:59",
+    "views_tab": 4200
+   },
+   {
+    "id": "fmSWWl7_4Tg",
+    "title": "Siemens SyncoTM 700 Controller Operation and Commissioning Part-1",
+    "meta": [
+     "4.1K",
+     "6y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 4100
+   },
+   {
+    "id": "DIbrehRhez8",
+    "title": "Trend Network Structure & Infrastructure Explained | Trend BMS Part-2",
+    "meta": [
+     "4.1K",
+     "4y ago"
+    ],
+    "dur": "8:10",
+    "views_tab": 4100
+   },
+   {
+    "id": "nykBRr61MHA",
+    "title": "TREND 8DO IO Module Complete Operation Part 1 / #TRENDCONTROLSYSTEM",
+    "meta": [
+     "4K",
+     "5y ago"
+    ],
+    "dur": "16:21",
+    "views_tab": 4000
+   },
+   {
+    "id": "rmyMwMsrFfY",
+    "title": "VFD for HVAC Systems \ud83d\udee0\ufe0f | Working Principle & Application Explained Clearly \ud83d\udca8",
+    "meta": [
+     "4K",
+     "2y ago"
+    ],
+    "dur": "5:05",
+    "views_tab": 4000
+   },
+   {
+    "id": "czOcR24ZRjE",
+    "title": "Siemens RWD Controllers",
+    "meta": [
+     "3.9K",
+     "7y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 3900
+   },
+   {
+    "id": "hnZWgpmxDCQ",
+    "title": "Siemens V20 Inverter Motor Control Parameter Setting | Important Parameter Setting",
+    "meta": [
+     "3.8K",
+     "6y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 3800
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "czOcR24ZRjE",
+    "title": "Siemens RWD Controllers",
+    "meta": [
+     "3.9K",
+     "7y ago"
+    ],
+    "dur": "2:44",
+    "views_tab": 3900
+   },
+   {
+    "id": "IwgqbA-3yRE",
+    "title": "Siemens Differential Pressure Switch | General Specifications Explained",
+    "meta": [
+     "6.4K",
+     "7y ago"
+    ],
+    "dur": "2:26",
+    "views_tab": 6400
+   },
+   {
+    "id": "1-k0jao7F9g",
+    "title": "Siemens BACnet routers designed to bridge diverse building automation networks",
+    "meta": [
+     "2.6K",
+     "7y ago"
+    ],
+    "dur": "3:30",
+    "views_tab": 2600
+   },
+   {
+    "id": "1j39f2dcGtU",
+    "title": "Siemens Room Thermostats Overview",
+    "meta": [
+     "89K",
+     "7y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 89000
+   },
+   {
+    "id": "oKRUar1K1JE",
+    "title": "Siemens Compact Room Automation Stations",
+    "meta": [
+     "1K",
+     "7y ago"
+    ],
+    "dur": "2:52",
+    "views_tab": 1000
+   },
+   {
+    "id": "u3p-I5DrmXM",
+    "title": "Siemens PXC Controller Series Part 1",
+    "meta": [
+     "11K",
+     "7y ago"
+    ],
+    "dur": "3:31",
+    "views_tab": 11000
+   },
+   {
+    "id": "Nt-FCDkV1ZQ",
+    "title": "Siemens PXC Controller Series Part-2",
+    "meta": [
+     "4.8K",
+     "7y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 4800
+   },
+   {
+    "id": "7jv4USGwVj0",
+    "title": "Siemens PXG3 W100 BACnet Web Interface Technical Details",
+    "meta": [
+     "2.6K",
+     "7y ago"
+    ],
+    "dur": "4:02",
+    "views_tab": 2600
+   },
+   {
+    "id": "G4WcJkjn4Ws",
+    "title": "Siemens Touch Panel PXM-40",
+    "meta": [
+     "4.3K",
+     "7y ago"
+    ],
+    "dur": "6:54",
+    "views_tab": 4300
+   },
+   {
+    "id": "FSW5vVIeYUM",
+    "title": "How to Set Basic Motor Parameters in Siemens SINAMICS V20 VFD Part-1\ud83d\udee0\ufe0f| Step-by-Step Setup",
+    "meta": [
+     "34K",
+     "7y ago"
+    ],
+    "dur": "3:24",
+    "views_tab": 34000
+   },
+   {
+    "id": "osHfhPru6Dc",
+    "title": "Siemens Desigo Setup (Web)",
+    "meta": [
+     "2.3K",
+     "6y ago"
+    ],
+    "dur": "5:21",
+    "views_tab": 2300
+   },
+   {
+    "id": "JdvjSpv4X9s",
+    "title": "How to Create Graphic Pages in Siemens PXG Web Interface | Desigo Web Tutorial \ud83d\udcbb",
+    "meta": [
+     "3K",
+     "6y ago"
+    ],
+    "dur": "21:51",
+    "views_tab": 3000
+   },
+   {
+    "id": "FBblL48SPi0",
+    "title": "Siemens Micro Master 430 VFD | Overview & Basic Setup Part-1",
+    "meta": [
+     "4.8K",
+     "6y ago"
+    ],
+    "dur": "4:47",
+    "views_tab": 4800
+   },
+   {
+    "id": "x5ZqDdg0C8U",
+    "title": "Siemens Micro Master 430 VFD | Overview & Basic Setup Part-2",
+    "meta": [
+     "7.3K",
+     "6y ago"
+    ],
+    "dur": "6:38",
+    "views_tab": 7300
+   },
+   {
+    "id": "F89WH3xN0-8",
+    "title": "#Siemens Web Interface Desigo-cc Part-2",
+    "meta": [
+     "2.3K",
+     "6y ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 2300
+   },
+   {
+    "id": "HIMc-3On82Q",
+    "title": "#Siemens Web Interface Desigo-cc Part-3 / #insightcontrolsystem",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "6:53",
+    "views_tab": 1500
+   },
+   {
+    "id": "GaDO-w0_EEk",
+    "title": "Siemens RDF 310.2 MM Thermostat | Full Operation Guide & Setup Tutorial",
+    "meta": [
+     "143K",
+     "6y ago"
+    ],
+    "dur": "5:17",
+    "views_tab": 143000
+   },
+   {
+    "id": "S5tr5OX4aVY",
+    "title": "Siemens PXM20 Display Part-1 / #siemens / #insightcontrolsystem",
+    "meta": [
+     "3K",
+     "6y ago"
+    ],
+    "dur": "5:11",
+    "views_tab": 3000
+   },
+   {
+    "id": "batBtvYdBvs",
+    "title": "Siemens PXM-20 HMI Display Part-2 / #insightcontrolsystem",
+    "meta": [
+     "2.6K",
+     "6y ago"
+    ],
+    "dur": "6:08",
+    "views_tab": 2600
+   },
+   {
+    "id": "Bbes7GISpYo",
+    "title": "Siemens PXM20 Operator Unit Full Operation & Live Demo for Building Automation",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "7:32",
+    "views_tab": 13000
+   },
+   {
+    "id": "d-aP54s9OVA",
+    "title": "Siemens RDF 300.02 Thermostat | Complete Parameter Setting Guide",
+    "meta": [
+     "73K",
+     "6y ago"
+    ],
+    "dur": "4:31",
+    "views_tab": 73000
+   },
+   {
+    "id": "zpDOeTbXB14",
+    "title": "Siemens RWD32S Software Tool Operating Instructions",
+    "meta": [
+     "959",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 959
+   },
+   {
+    "id": "qDM1S5OmTk0",
+    "title": "How to change Scheduler & Trends in Siemens Web Interface Part 4...",
+    "meta": [
+     "796",
+     "6y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 796
+   },
+   {
+    "id": "tkAEAGscg8A",
+    "title": "Siemens Automation station compact model PXC52",
+    "meta": [
+     "1.1K",
+     "6y ago"
+    ],
+    "dur": "5:49",
+    "views_tab": 1100
+   },
+   {
+    "id": "J1TI0cE41QI",
+    "title": "Network Errors & Solutions For Siemens PX Devices / #insightcontrolsystem",
+    "meta": [
+     "325",
+     "6y ago"
+    ],
+    "dur": "3:05",
+    "views_tab": 325
+   },
+   {
+    "id": "pUM_whOfAdQ",
+    "title": "Siemens Triac module TXM1-8T",
+    "meta": [
+     "2.5K",
+     "6y ago"
+    ],
+    "dur": "4:03",
+    "views_tab": 2500
+   },
+   {
+    "id": "AswKtiZNoqw",
+    "title": "Siemens RDG400KN Thermostat | Complete Operating Instructions & Setup Guide",
+    "meta": [
+     "107K",
+     "6y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 107000
+   },
+   {
+    "id": "10GmPG_Jesk",
+    "title": "Siemens DESIGO V4 Lon Integration Part 1",
+    "meta": [
+     "1.2K",
+     "6y ago"
+    ],
+    "dur": "4:20",
+    "views_tab": 1200
+   },
+   {
+    "id": "fImoCLryCxo",
+    "title": "Siemens DESIGO V4 Lon Integration Part 2",
+    "meta": [
+     "541",
+     "6y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 541
+   },
+   {
+    "id": "5XWf_RrnI5w",
+    "title": "DESIGO V4 Lon Integration Xworks Plus Part-4",
+    "meta": [
+     "3K",
+     "6y ago"
+    ],
+    "dur": "2:34",
+    "views_tab": 3000
+   },
+   {
+    "id": "0UA_e7VQ8NI",
+    "title": "DESIGO V4 Lon Integration Point Configurator Part 5",
+    "meta": [
+     "575",
+     "6y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 575
+   },
+   {
+    "id": "n1J0JnuyQNE",
+    "title": "DESIGO V4 Lon Integration Network Configurator Part- 6",
+    "meta": [
+     "445",
+     "6y ago"
+    ],
+    "dur": "2:10",
+    "views_tab": 445
+   },
+   {
+    "id": "L95SGMmP-DY",
+    "title": "Siemens RDF 310.2 MM Thermostat Control Parameters | Important Control Parameters Operation",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "3:56",
+    "views_tab": 28000
+   },
+   {
+    "id": "W40Q1ofaexI",
+    "title": "Siemens SINAMICS V20 Inverter Commissioning | Manual/Auto Mode, Potentiometer & Parameter Setup",
+    "meta": [
+     "41K",
+     "6y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 41000
+   },
+   {
+    "id": "pCFd4OWagfg",
+    "title": "Siemens V20 Inverter Parameter Settings | Hand Mode & Potentiometer Adjustment Tutorial",
+    "meta": [
+     "28K",
+     "6y ago"
+    ],
+    "dur": "6:09",
+    "views_tab": 28000
+   },
+   {
+    "id": "fmSWWl7_4Tg",
+    "title": "Siemens SyncoTM 700 Controller Operation and Commissioning Part-1",
+    "meta": [
+     "4.1K",
+     "6y ago"
+    ],
+    "dur": "3:50",
+    "views_tab": 4100
+   },
+   {
+    "id": "agZDHvn8yxg",
+    "title": "Siemens SyncoTM 700 Controller Commissioning and Communication",
+    "meta": [
+     "3.2K",
+     "6y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 3200
+   },
+   {
+    "id": "nOO8uwVseM0",
+    "title": "Siemens 3.0 MW Direct Drive Wind Turbine Overview",
+    "meta": [
+     "1.7K",
+     "6y ago"
+    ],
+    "dur": "4:06",
+    "views_tab": 1700
+   },
+   {
+    "id": "hnZWgpmxDCQ",
+    "title": "Siemens V20 Inverter Motor Control Parameter Setting | Important Parameter Setting",
+    "meta": [
+     "3.8K",
+     "6y ago"
+    ],
+    "dur": "2:27",
+    "views_tab": 3800
+   },
+   {
+    "id": "ivfKoPpn2IM",
+    "title": "Siemens Terminal Box Controller / APOGEE Automation System / #hvac",
+    "meta": [
+     "4.4K",
+     "6y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 4400
+   },
+   {
+    "id": "FsdX0BWIOuE",
+    "title": "Siemens RWD 82 Controller Review & Parameter Settings | Setup, Features & Performance",
+    "meta": [
+     "11K",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 11000
+   },
+   {
+    "id": "ChzS52Bcbyw",
+    "title": "Siemens V20 Inverter Installation \ud83d\udee0\ufe0f | Electrical Wiring Guide + Fuse & Terminal Setup",
+    "meta": [
+     "2.4K",
+     "6y ago"
+    ],
+    "dur": "5:00",
+    "views_tab": 2400
+   },
+   {
+    "id": "pqPXI7ttXK8",
+    "title": "Siemens Sensors Installation Guide\ud83d\udee0\ufe0f  | Step-by-Step Instructions \u26a1\ud83c\udf0d",
+    "meta": [
+     "3.4K",
+     "6y ago"
+    ],
+    "dur": "3:15",
+    "views_tab": 3400
+   },
+   {
+    "id": "E3PvAvqJJ6s",
+    "title": "How to Download Recorded Data's and how to change Time Interval in Siemens Scada System",
+    "meta": [
+     "661",
+     "6y ago"
+    ],
+    "dur": "4:54",
+    "views_tab": 661
+   },
+   {
+    "id": "n9LTeJQJcsw",
+    "title": "Siemens PXC Controller 22E.D Full Operation /  APOGEE Automation System",
+    "meta": [
+     "24K",
+     "6y ago"
+    ],
+    "dur": "5:35",
+    "views_tab": 24000
+   },
+   {
+    "id": "mUUbiFLH-WI",
+    "title": "Siemens BACnet Actuating Terminal Equipment Controller",
+    "meta": [
+     "1.6K",
+     "6y ago"
+    ],
+    "dur": "3:26",
+    "views_tab": 1600
+   },
+   {
+    "id": "oO_WE7eMZQw",
+    "title": "How Export and Import File in Siemens Scada System / #siemens",
+    "meta": [
+     "3.1K",
+     "6y ago"
+    ],
+    "dur": "3:34",
+    "views_tab": 3100
+   },
+   {
+    "id": "g2bBomRYfmM",
+    "title": "Siemens QFM2160 Duct Sensor Wiring & Live Demo\ud83c\udf21\ufe0f| Connect with Siemens RWD Controller\ud83d\udd27",
+    "meta": [
+     "6.8K",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 6800
+   },
+   {
+    "id": "oA5Cc89CGnk",
+    "title": "Siemens QAM Series Duct Temperature Sensors\ud83c\udf21\ufe0f | Full Technical Details \ud83d\udccf\u2699\ufe0f",
+    "meta": [
+     "3.8K",
+     "6y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 3800
+   },
+   {
+    "id": "nUJfKXH6-NQ",
+    "title": "Siemens PXG3.W100-1 & W200-1 BACnet/IP Web Interface: Wiring + Live Demo! \ud83c\udf10",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "5:45",
+    "views_tab": 10000
+   },
+   {
+    "id": "yZxHmbh0fOY",
+    "title": "Siemens GNP191.1E Damper Actuator FULL Operation! \ud83c\udf0d Wiring, Setup & Real Demo \ud83d\ude32",
+    "meta": [
+     "25K",
+     "6y ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 25000
+   },
+   {
+    "id": "VruqtEK0yQM",
+    "title": "Siemens QFA1001 Room Hygrostat: Full Operation & Setup Guide | HVAC Control Made Easy",
+    "meta": [
+     "1.6K",
+     "6y ago"
+    ],
+    "dur": "3:55",
+    "views_tab": 1600
+   },
+   {
+    "id": "lL2dl9oqu1E",
+    "title": "Siemens MVI421.20/2 Zone Valve & Actuator | Full Operation with Live Demo",
+    "meta": [
+     "11K",
+     "6y ago"
+    ],
+    "dur": "4:38",
+    "views_tab": 11000
+   },
+   {
+    "id": "uSHKssAW8lw",
+    "title": "Siemens RDH10RF SET Thermostat: Wireless Room Temperature Control | Technical Specification",
+    "meta": [
+     "34K",
+     "6y ago"
+    ],
+    "dur": "5:16",
+    "views_tab": 34000
+   },
+   {
+    "id": "f_Vfa7Z2eIw",
+    "title": "Siemens QVM62.1 Air Velocity Sensor \ud83d\udca8 | Technical Data & Wiring Guide \u26a1\ud83e\uddf0",
+    "meta": [
+     "2.1K",
+     "6y ago"
+    ],
+    "dur": "5:31",
+    "views_tab": 2100
+   },
+   {
+    "id": "RABb7NXho-s",
+    "title": "Siemens QBM81-5 Differential Pressure Switch | Technical Details, Wiring & Live Demo \ud83c\udf2c\ufe0f",
+    "meta": [
+     "19K",
+     "6y ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 19000
+   },
+   {
+    "id": "XYVZHvH_66U",
+    "title": "Siemens QFM2171 Duct Sensor\ud83d\udca7\ud83c\udf21\ufe0f | Technical Data, Wiring & Live Demo with RWD Controller \u26a1",
+    "meta": [
+     "31K",
+     "6y ago"
+    ],
+    "dur": "7:14",
+    "views_tab": 31000
+   },
+   {
+    "id": "5WN3F03YKPQ",
+    "title": "Siemens QAM2112.040 Duct Temperature Sensor | Technical Specifications & Live Demo",
+    "meta": [
+     "7K",
+     "6y ago"
+    ],
+    "dur": "6:00",
+    "views_tab": 7000
+   },
+   {
+    "id": "gc0ghPqLXJc",
+    "title": "Siemens RDS110 Smart Thermostat \u2013 Technical Specs & Features for HVAC Pros",
+    "meta": [
+     "7.2K",
+     "6y ago"
+    ],
+    "dur": "5:06",
+    "views_tab": 7200
+   },
+   {
+    "id": "5ou169c04uc",
+    "title": "Humidification Plant Automation Explained | Step-by-Step Process with Sensors, PLC & HMI \ud83d\udca7\ud83e\udd16",
+    "meta": [
+     "10K",
+     "6y ago"
+    ],
+    "dur": "7:03",
+    "views_tab": 10000
+   },
+   {
+    "id": "ry7FJ1UGje8",
+    "title": "Siemens RAA31 Room Thermostat: Technical Data & Features Explained | HVAC Essentials",
+    "meta": [
+     "20K",
+     "6y ago"
+    ],
+    "dur": "3:35",
+    "views_tab": 20000
+   },
+   {
+    "id": "GtfTrgElIlI",
+    "title": "AND Logic Gate Logic in PLC Program using Siemens LOGO Software",
+    "meta": [
+     "2.2K",
+     "6y ago"
+    ],
+    "dur": "6:41",
+    "views_tab": 2200
+   },
+   {
+    "id": "TE8HCzuHMDE",
+    "title": "OR Logic Gate Logic in PLC Program using Siemens LOGO Software",
+    "meta": [
+     "1.5K",
+     "6y ago"
+    ],
+    "dur": "6:31",
+    "views_tab": 1500
+   },
+   {
+    "id": "OYGhA7zE4zs",
+    "title": "NAND Logic Gate PLC Program using Siemens LOGO Software",
+    "meta": [
+     "947",
+     "6y ago"
+    ],
+    "dur": "5:55",
+    "views_tab": 947
+   },
+   {
+    "id": "z_QUrHVLOCA",
+    "title": "NOR Gate Logic Gates PLC Program using Siemens LOGO Software",
+    "meta": [
+     "1.1K",
+     "6y ago"
+    ],
+    "dur": "5:37",
+    "views_tab": 1100
+   },
+   {
+    "id": "-kVb-4mRqPg",
+    "title": "EX-OR Gate Logic in PLC Program using Siemens LOGO Software",
+    "meta": [
+     "950",
+     "6y ago"
+    ],
+    "dur": "5:43",
+    "views_tab": 950
+   },
+   {
+    "id": "PUy6SnLcvXU",
+    "title": "EX-NOR Gate Logic in PLC Program using Siemens LOGO Software",
+    "meta": [
+     "429",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 429
+   },
+   {
+    "id": "4M-oC0YThGc",
+    "title": "NOT Logic Gates PLC Program using Siemens LOGO Software",
+    "meta": [
+     "1.4K",
+     "6y ago"
+    ],
+    "dur": "4:17",
+    "views_tab": 1400
+   },
+   {
+    "id": "YF-JTK-rs48",
+    "title": "Multiplexer logic using PLC Siemens Logo Software",
+    "meta": [
+     "2.7K",
+     "6y ago"
+    ],
+    "dur": "7:45",
+    "views_tab": 2700
+   },
+   {
+    "id": "V_Qbx7KI6ts",
+    "title": "ON DELAY TIMER Using Siemens LOGO Software",
+    "meta": [
+     "3.5K",
+     "6y ago"
+    ],
+    "dur": "4:22",
+    "views_tab": 3500
+   },
+   {
+    "id": "zqQCKVTt23M",
+    "title": "Siemens SITRANS LR100\ud83c\udf0d | Compact 80GHz Radar Level Measurement Explained! \ud83d\udccf\u26a1",
+    "meta": [
+     "1.8K",
+     "6y ago"
+    ],
+    "dur": "4:23",
+    "views_tab": 1800
+   },
+   {
+    "id": "3BjRoV_UWj0",
+    "title": "OFF DELAY TIMER Logic Function using Siemens Logo Software / #logicgates / #siemens",
+    "meta": [
+     "13K",
+     "6y ago"
+    ],
+    "dur": "4:25",
+    "views_tab": 13000
+   },
+   {
+    "id": "idrNOZYPseU",
+    "title": "PLC Program for Humidification Process \ud83d\udca7 | Siemens LOGO! Tutorial for HVAC & Building Automation",
+    "meta": [
+     "2.2K",
+     "6y ago"
+    ],
+    "dur": "12:01",
+    "views_tab": 2200
+   },
+   {
+    "id": "PrVLyo-ztJA",
+    "title": "Siemens RDY2000BN BACnet Thermostat: Technical Overview & Key Features | HVAC Professionals Guide",
+    "meta": [
+     "1.6K",
+     "6y ago"
+    ],
+    "dur": "4:49",
+    "views_tab": 1600
+   },
+   {
+    "id": "7241y3VdbyA",
+    "title": "Siemens GSD 321.1A Air Damper Actuator | Full Operation & Connection Demonstration",
+    "meta": [
+     "4.4K",
+     "6y ago"
+    ],
+    "dur": "7:41",
+    "views_tab": 4400
+   },
+   {
+    "id": "uF2hb7Fo1Ic",
+    "title": "Humidity & Temperature Indicator | Wiring Connection & Full Operation Guide",
+    "meta": [
+     "421",
+     "6y ago"
+    ],
+    "dur": "6:14",
+    "views_tab": 421
+   },
+   {
+    "id": "H-UqoWxUdeQ",
+    "title": "Tea Industry Fermentation Process / Automation Project / Silver OAK Tea Factory",
+    "meta": [
+     "912",
+     "6y ago"
+    ],
+    "dur": "3:14",
+    "views_tab": 912
+   },
+   {
+    "id": "si085U6IpZw",
+    "title": "Siemens PXM10 Operator Unit \ud83d\udda5\ufe0f | Complete Technical Data, Operation & Live Demo \ud83c\udf0d\ud83d\udd27",
+    "meta": [
+     "3.2K",
+     "6y ago"
+    ],
+    "dur": "7:55",
+    "views_tab": 3200
+   },
+   {
+    "id": "m4-3L1YaGEo",
+    "title": "SIEMENS PLC PROGRAMMING BASIC lesson / #insightcontrolsystem",
+    "meta": [
+     "1.1K",
+     "6y ago"
+    ],
+    "dur": "4:18",
+    "views_tab": 1100
+   },
+   {
+    "id": "GRakn5_U-PQ",
+    "title": "How to Calibrate & Set Alarms on a Humidity & Temperature Indicator",
+    "meta": [
+     "427",
+     "6y ago"
+    ],
+    "dur": "3:07",
+    "views_tab": 427
+   },
+   {
+    "id": "g-XfoK-Og5c",
+    "title": "How PLC'S Works / SIEMENS PLC PROGRAMMING",
+    "meta": [
+     "4.8K",
+     "6y ago"
+    ],
+    "dur": "4:12",
+    "views_tab": 4800
+   },
+   {
+    "id": "vc0F_Il2Bps",
+    "title": "EAPL ST-6M1 Sequential Timer | Wiring & Programming Tutorial for 6 Channels \ud83e\udde0\ud83d\udd27",
+    "meta": [
+     "25K",
+     "6y ago"
+    ],
+    "dur": "5:20",
+    "views_tab": 25000
+   },
+   {
+    "id": "64Z3_o0so7s",
+    "title": "Rententive ON Delay Timer Function using Siemens LOGO Software / logic functions",
+    "meta": [
+     "688",
+     "6y ago"
+    ],
+    "dur": "5:30",
+    "views_tab": 688
+   },
+   {
+    "id": "wpv-ym2MVlo",
+    "title": "EAPL ST-6M1 Sequential Timer | Full Programming Guide with Live Demo \ud83d\udca1",
+    "meta": [
+     "8.5K",
+     "5y ago"
+    ],
+    "dur": "7:20",
+    "views_tab": 8500
+   },
+   {
+    "id": "dYbZ6CYAtwk",
+    "title": "Danfoss VLT FC-301/302 VFD Drive Basics Parameter Settings Part-1",
+    "meta": [
+     "16K",
+     "5y ago"
+    ],
+    "dur": "3:01",
+    "views_tab": 16000
+   },
+   {
+    "id": "2KQfHeHm-Ag",
+    "title": "Danfoss VLT FC-301/302 VFD Drive General Parameter Settings Part-2 \ud83c\udf0d",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "3:47",
+    "views_tab": 2100
+   },
+   {
+    "id": "2X_b0k9QKGI",
+    "title": "Danfoss VLT FC-301/302 VFD Drive Advanced Parameter Settings Part-3 \ud83d\udd0d",
+    "meta": [
+     "2.1K",
+     "5y ago"
+    ],
+    "dur": "4:11",
+    "views_tab": 2100
+   },
+   {
+    "id": "Na2iGD8mgj0",
+    "title": "TEA Factory Process Siemens Automation / Tea Industry",
+    "meta": [
+     "417",
+     "5y ago"
+    ],
+    "dur": "7:34",
+    "views_tab": 417
+   },
+   {
+    "id": "xlaJbOLgnw8",
+    "title": "Danfoss FC-301/302 VFD Parameter Settings Part 4 \ud83d\udd27 | Limits, Warnings & Digital I/O Explained",
+    "meta": [
+     "3.6K",
+     "5y ago"
+    ],
+    "dur": "5:02",
+    "views_tab": 3600
+   },
+   {
+    "id": "oOhDTZCu8F0",
+    "title": "Ductable Air Conditioner Automation System for Lab  / Fan Coil Unit / Siemens RWD Controller",
+    "meta": [
+     "376",
+     "5y ago"
+    ],
+    "dur": "6:18",
+    "views_tab": 376
+   },
+   {
+    "id": "lF5kuBPab2Y",
+    "title": "Danfoss VLT 6000 HVAC VFD Drive | Basic Parameter Settings Guide \u2699\ufe0f",
+    "meta": [
+     "21K",
+     "5y ago"
+    ],
+    "dur": "5:09",
+    "views_tab": 21000
+   },
+   {
+    "id": "SpG-da_j_Xw",
+    "title": "Convert 24V AC to 10V DC | Signal Conversion Kit for Damper Actuator Control \ud83d\udd27\ud83d\udca1",
+    "meta": [
+     "1.5K",
+     "5y ago"
+    ],
+    "dur": "3:23",
+    "views_tab": 1500
+   },
+   {
+    "id": "-wmb2miW4S8",
+    "title": "How to Design a DOL Starter Circuit Using QElectro Tech Software | Step-by-Step Tutorial",
+    "meta": [
+     "64K",
+     "5y ago"
+    ],
+    "dur": "15:05",
+    "views_tab": 64000
+   },
+   {
+    "id": "AD0Y_g2EXdk",
+    "title": "Logic Gates Function using Siemens Simatic Manager Software",
+    "meta": [
+     "1.3K",
+     "5y ago"
+    ],
+    "dur": "20:36",
+    "views_tab": 1300
+   },
+   {
+    "id": "uwB089693no",
+    "title": "#Siemens PLC Central Processing Unit #CPU / #insightcontrolsystem",
+    "meta": [
+     "1.4K",
+     "5y ago"
+    ],
+    "dur": "4:34",
+    "views_tab": 1400
+   },
+   {
+    "id": "HY5fNyY5Dv0",
+    "title": "#Siemens PLC Hardware Overview / Programmable Logic Controller",
+    "meta": [
+     "7.5K",
+     "5y ago"
+    ],
+    "dur": "4:09",
+    "views_tab": 7500
+   },
+   {
+    "id": "VIigLoXgSGc",
+    "title": "Siemens Climatix C600 Controllers for Heating Ventilation Air Conditioning Systems",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "6:25",
+    "views_tab": 10000
+   },
+   {
+    "id": "SoKw_K5futg",
+    "title": "PLC Communication and Network Cables / #siemens",
+    "meta": [
+     "5K",
+     "5y ago"
+    ],
+    "dur": "6:28",
+    "views_tab": 5000
+   },
+   {
+    "id": "bRg9D6sFf7E",
+    "title": "Siemens S7 PLC I/O Modules & Power Supply Overview | Analog Input, Output, Status LEDs Explained",
+    "meta": [
+     "5.3K",
+     "5y ago"
+    ],
+    "dur": "5:08",
+    "views_tab": 5300
+   },
+   {
+    "id": "Ec0oZdK_hqE",
+    "title": "#Siemens Totally Integrated Automation Portal / #TIA",
+    "meta": [
+     "2.6K",
+     "5y ago"
+    ],
+    "dur": "6:36",
+    "views_tab": 2600
+   },
+   {
+    "id": "zYje-q5ud2A",
+    "title": "Siemens REV13 Room Temperature Controller: Overview & Key Features | HVAC Essentials",
+    "meta": [
+     "23K",
+     "5y ago"
+    ],
+    "dur": "6:33",
+    "views_tab": 23000
+   },
+   {
+    "id": "k5jj8V8MyQc",
+    "title": "How to Create a Simple VFD Power Diagram Using QElectro Tech Software | Step-by-Step Tutorial",
+    "meta": [
+     "29K",
+     "5y ago"
+    ],
+    "dur": "15:31",
+    "views_tab": 29000
+   },
+   {
+    "id": "hnlM-KoM62A",
+    "title": "Siemens Simatic PLC Module S7-1200 and S7-1500 Controller",
+    "meta": [
+     "10K",
+     "5y ago"
+    ],
+    "dur": "6:16",
+    "views_tab": 10000
+   },
+   {
+    "id": "m9Pqf7hl1Dk",
+    "title": "Memory Types of Siemens PLC/ Programmable Logic Controller / #insightcontrolsystem",
+    "meta": [
+     "6K",
+     "5y ago"
+    ],
+    "dur": "3:56",
+    "views_tab": 6000
+   },
+   {
+    "id": "gETtH73ODXI",
+    "title": "Siemens RDE100.0 RF Thermostat Overview | Technical details",
+    "meta": [
+     "18K",
+     "5y ago"
+    ],
+    "dur": "9:26",
+    "views_tab": 18000
+   },
+   {
+    "id": "b-PHUdrIc58",
+    "title": "QElectro Tech Tutorial & Review | Best Free Circuit Design & Schematic Software for Engineers!",
+    "meta": [
+     "41K",
+     "5y ago"
+    ],
+    "dur": "12:53",
+    "views_tab": 41000
+   },
+   {
+    "id": "ePqp9toOdf8",
+    "title": "Siemens RDD10.0 Room Temperature Controller: Overview & Key Features | HVAC Made Simple",
+    "meta": [
+     "17K",
+     "5y ago"
+    ],
+    "dur": "7:07",
+    "views_tab": 17000
+   },
+   {
+    "id": "hghyDpwEVu0",
+    "title": "Siemens Weather Station Sensor Overview \ud83c\udf26\ufe0f | Complete Guide for Building Automation Systems",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "8:59",
+    "views_tab": 1200
+   },
+   {
+    "id": "vjbju79E5y0",
+    "title": "Siemens RDH 100 Room Thermostat: Technical Specifications & Features Explained | HVAC Essentials",
+    "meta": [
+     "39K",
+     "5y ago"
+    ],
+    "dur": "8:45",
+    "views_tab": 39000
+   },
+   {
+    "id": "rtE1c8qRuUQ",
+    "title": "Classification of Boilers Explained \ud83d\udd25 | Types, Pressure, Fuel & Applications \ud83c\udf0d | Boiler Basics",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "2:30",
+    "views_tab": 7900
+   },
+   {
+    "id": "UdwaAm9bjeM",
+    "title": "Heat Load Calculation & Analysis for Humidification Plant \ud83c\udf0d | Step-by-Step HVAC Guide",
+    "meta": [
+     "2K",
+     "5y ago"
+    ],
+    "dur": "6:32",
+    "views_tab": 2000
+   },
+   {
+    "id": "XTxjnRtcHqg",
+    "title": "Profibus vs Profinet vs Ethernet \u2013 What\u2019s the Difference in Siemens Systems? \ud83e\udd16\ud83c\udf10",
+    "meta": [
+     "5K",
+     "5y ago"
+    ],
+    "dur": "10:48",
+    "views_tab": 5000
+   },
+   {
+    "id": "7D9VDCDfoII",
+    "title": "How Hygrometers Work \ud83c\udf21\ufe0f | Measure Relative Humidity & Temperature with Formulas (Analog & Digital)",
+    "meta": [
+     "7.9K",
+     "5y ago"
+    ],
+    "dur": "8:34",
+    "views_tab": 7900
+   },
+   {
+    "id": "fLnVzVPClII",
+    "title": "Siemens V20 VFD Drive Fault Codes Explained | Causes & Remedies | Part 1",
+    "meta": [
+     "51K",
+     "5y ago"
+    ],
+    "dur": "6:51",
+    "views_tab": 51000
+   },
+   {
+    "id": "glTMUrFA_HY",
+    "title": "Siemens V20 VFD Drive Fault Codes Explained | Causes & Remedies | Part -3",
+    "meta": [
+     "5.9K",
+     "5y ago"
+    ],
+    "dur": "6:19",
+    "views_tab": 5900
+   },
+   {
+    "id": "nx_9LsuCcZE",
+    "title": "Understanding BACnet Objects, Property Codes & Units | Essential Guide for BAS Professionals \ud83c\udf10\ud83d\udee0\ufe0f",
+    "meta": [
+     "808",
+     "5y ago"
+    ],
+    "dur": "9:35",
+    "views_tab": 808
+   },
+   {
+    "id": "hFPm7sinA90",
+    "title": "Siemens V20 VFD Drive Fault Codes Explained | Causes & Remedies | Part -2",
+    "meta": [
+     "8.5K",
+     "5y ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 8500
+   },
+   {
+    "id": "SPS0PxUjrmU",
+    "title": "TREND Single Relay Module for Voltage and Current / Honeywell SRMV Relay / Building Automation",
+    "meta": [
+     "1.2K",
+     "5y ago"
+    ],
+    "dur": "5:42",
+    "views_tab": 1200
+   },
+   {
+    "id": "afbgFJyHKq0",
+    "title": "#Voltage to current driver module 24v ac and dc Relay / #TrendRelay / #2VID",
+    "meta": [
+     "847",
+     "5y ago"
+    ],
+    "dur": "5:40",
+    "views_tab": 847
+   },
+   {
+    "id": "HrJWfl-9TmA",
+    "title": "TREND IQ3 XCITE96 PLC Controller Basic Operations / Trend Control Systems",
+    "meta": [
+     "4.5K",
+     "5y ago"
+    ],
+    "dur": "10:26",
+    "views_tab": 4500
+   }
+  ]
+ }
+}

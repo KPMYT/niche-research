@@ -1,0 +1,505 @@
+{
+ "key": "UCN6vSgbZ3JEEaH6h8MnugeA",
+ "channel": "Pete's Shed",
+ "id": "UCN6vSgbZ3JEEaH6h8MnugeA",
+ "subs": "5.44K subscribers",
+ "videos": "15 videos",
+ "pulled": "2026-10-26T06:55:47.513086+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "tKxohVB509U",
+    "title": "(A Brief) History of Modern Electricity | Podcast Video for the classroom.",
+    "meta": [
+     "177",
+     "1y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 177
+   },
+   {
+    "id": "oIDcs6RmIKg",
+    "title": "Giant Buzzer Game - Wiring",
+    "meta": [
+     "117",
+     "1y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 117
+   },
+   {
+    "id": "p2b61yh4F58",
+    "title": "How to Diagnose a Faulty Zone Valve \u2013 STEP by STEP !",
+    "meta": [
+     "24K",
+     "1y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 24000
+   },
+   {
+    "id": "-fu-5DeZ1k0",
+    "title": "How To Wire A Zone Valve",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 10000
+   },
+   {
+    "id": "lJptmsCykYc",
+    "title": "Zone Valve ... A basic explanation.",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 29000
+   },
+   {
+    "id": "Tc-6V0qcVSU",
+    "title": "Compression Joint Test... It Might Be TOO Tight !",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "mSwBW4IyBDg",
+    "title": "How do we get free energy from wind power?",
+    "meta": [
+     "922",
+     "4y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 922
+   },
+   {
+    "id": "HaoppjRyGA0",
+    "title": "Did you know this about your gas hob?",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 1000
+   },
+   {
+    "id": "ZYgmEZMiSBk",
+    "title": "Make it a magnet!",
+    "meta": [
+     "855",
+     "4y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 855
+   },
+   {
+    "id": "2IMagopeks8",
+    "title": "Flame Through A Gauze? ...",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 1400
+   },
+   {
+    "id": "Tvu6GykDxfI",
+    "title": "Making A Giant Buzzer Game!!!",
+    "meta": [
+     "17K",
+     "7y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 17000
+   },
+   {
+    "id": "ac1Aw7w-clg",
+    "title": "Making A Hot Wire Foam Cutter!",
+    "meta": [
+     "819",
+     "7y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 819
+   }
+  ],
+  "Latest": [
+   {
+    "id": "tKxohVB509U",
+    "title": "(A Brief) History of Modern Electricity | Podcast Video for the classroom.",
+    "meta": [
+     "177",
+     "1y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 177
+   },
+   {
+    "id": "oIDcs6RmIKg",
+    "title": "Giant Buzzer Game - Wiring",
+    "meta": [
+     "117",
+     "1y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 117
+   },
+   {
+    "id": "p2b61yh4F58",
+    "title": "How to Diagnose a Faulty Zone Valve \u2013 STEP by STEP !",
+    "meta": [
+     "24K",
+     "1y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 24000
+   },
+   {
+    "id": "-fu-5DeZ1k0",
+    "title": "How To Wire A Zone Valve",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 10000
+   },
+   {
+    "id": "lJptmsCykYc",
+    "title": "Zone Valve ... A basic explanation.",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 29000
+   },
+   {
+    "id": "Tc-6V0qcVSU",
+    "title": "Compression Joint Test... It Might Be TOO Tight !",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "mSwBW4IyBDg",
+    "title": "How do we get free energy from wind power?",
+    "meta": [
+     "922",
+     "4y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 922
+   },
+   {
+    "id": "HaoppjRyGA0",
+    "title": "Did you know this about your gas hob?",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 1000
+   },
+   {
+    "id": "ZYgmEZMiSBk",
+    "title": "Make it a magnet!",
+    "meta": [
+     "855",
+     "4y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 855
+   },
+   {
+    "id": "2IMagopeks8",
+    "title": "Flame Through A Gauze? ...",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 1400
+   },
+   {
+    "id": "Tvu6GykDxfI",
+    "title": "Making A Giant Buzzer Game!!!",
+    "meta": [
+     "17K",
+     "7y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 17000
+   },
+   {
+    "id": "ac1Aw7w-clg",
+    "title": "Making A Hot Wire Foam Cutter!",
+    "meta": [
+     "819",
+     "7y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 819
+   }
+  ],
+  "Popular": [
+   {
+    "id": "lJptmsCykYc",
+    "title": "Zone Valve ... A basic explanation.",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 29000
+   },
+   {
+    "id": "p2b61yh4F58",
+    "title": "How to Diagnose a Faulty Zone Valve \u2013 STEP by STEP !",
+    "meta": [
+     "24K",
+     "1y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 24000
+   },
+   {
+    "id": "Tvu6GykDxfI",
+    "title": "Making A Giant Buzzer Game!!!",
+    "meta": [
+     "17K",
+     "7y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 17000
+   },
+   {
+    "id": "-fu-5DeZ1k0",
+    "title": "How To Wire A Zone Valve",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 10000
+   },
+   {
+    "id": "Tc-6V0qcVSU",
+    "title": "Compression Joint Test... It Might Be TOO Tight !",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "2IMagopeks8",
+    "title": "Flame Through A Gauze? ...",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 1400
+   },
+   {
+    "id": "HaoppjRyGA0",
+    "title": "Did you know this about your gas hob?",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 1000
+   },
+   {
+    "id": "mSwBW4IyBDg",
+    "title": "How do we get free energy from wind power?",
+    "meta": [
+     "922",
+     "4y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 922
+   },
+   {
+    "id": "ZYgmEZMiSBk",
+    "title": "Make it a magnet!",
+    "meta": [
+     "855",
+     "4y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 855
+   },
+   {
+    "id": "ac1Aw7w-clg",
+    "title": "Making A Hot Wire Foam Cutter!",
+    "meta": [
+     "819",
+     "7y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 819
+   },
+   {
+    "id": "tKxohVB509U",
+    "title": "(A Brief) History of Modern Electricity | Podcast Video for the classroom.",
+    "meta": [
+     "177",
+     "1y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 177
+   },
+   {
+    "id": "oIDcs6RmIKg",
+    "title": "Giant Buzzer Game - Wiring",
+    "meta": [
+     "117",
+     "1y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 117
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "ac1Aw7w-clg",
+    "title": "Making A Hot Wire Foam Cutter!",
+    "meta": [
+     "819",
+     "7y ago"
+    ],
+    "dur": "14:02",
+    "views_tab": 819
+   },
+   {
+    "id": "Tvu6GykDxfI",
+    "title": "Making A Giant Buzzer Game!!!",
+    "meta": [
+     "17K",
+     "7y ago"
+    ],
+    "dur": "12:21",
+    "views_tab": 17000
+   },
+   {
+    "id": "2IMagopeks8",
+    "title": "Flame Through A Gauze? ...",
+    "meta": [
+     "1.4K",
+     "4y ago"
+    ],
+    "dur": "3:25",
+    "views_tab": 1400
+   },
+   {
+    "id": "ZYgmEZMiSBk",
+    "title": "Make it a magnet!",
+    "meta": [
+     "855",
+     "4y ago"
+    ],
+    "dur": "1:21",
+    "views_tab": 855
+   },
+   {
+    "id": "HaoppjRyGA0",
+    "title": "Did you know this about your gas hob?",
+    "meta": [
+     "1K",
+     "4y ago"
+    ],
+    "dur": "1:46",
+    "views_tab": 1000
+   },
+   {
+    "id": "mSwBW4IyBDg",
+    "title": "How do we get free energy from wind power?",
+    "meta": [
+     "922",
+     "4y ago"
+    ],
+    "dur": "6:24",
+    "views_tab": 922
+   },
+   {
+    "id": "Tc-6V0qcVSU",
+    "title": "Compression Joint Test... It Might Be TOO Tight !",
+    "meta": [
+     "1.4K",
+     "3y ago"
+    ],
+    "dur": "8:03",
+    "views_tab": 1400
+   },
+   {
+    "id": "lJptmsCykYc",
+    "title": "Zone Valve ... A basic explanation.",
+    "meta": [
+     "29K",
+     "3y ago"
+    ],
+    "dur": "2:17",
+    "views_tab": 29000
+   },
+   {
+    "id": "-fu-5DeZ1k0",
+    "title": "How To Wire A Zone Valve",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "7:09",
+    "views_tab": 10000
+   },
+   {
+    "id": "p2b61yh4F58",
+    "title": "How to Diagnose a Faulty Zone Valve \u2013 STEP by STEP !",
+    "meta": [
+     "24K",
+     "1y ago"
+    ],
+    "dur": "5:15",
+    "views_tab": 24000
+   },
+   {
+    "id": "oIDcs6RmIKg",
+    "title": "Giant Buzzer Game - Wiring",
+    "meta": [
+     "117",
+     "1y ago"
+    ],
+    "dur": "3:00",
+    "views_tab": 117
+   },
+   {
+    "id": "tKxohVB509U",
+    "title": "(A Brief) History of Modern Electricity | Podcast Video for the classroom.",
+    "meta": [
+     "177",
+     "1y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 177
+   }
+  ]
+ }
+}

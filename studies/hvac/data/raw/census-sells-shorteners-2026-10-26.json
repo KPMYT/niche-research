@@ -1,0 +1,4438 @@
+{
+ "pulled": "2026-10-26",
+ "by": "round 3 fixer (curl redirect hops, logged out, no page bodies)",
+ "note": "final = the last Location seen; a 200 on the first hop means the shortener did not redirect",
+ "links": {
+  "http://bit.ly/-winter-magic": {
+   "url": "http://bit.ly/-winter-magic",
+   "final": "https://www.audiolibrary.com.co/roa-music/winter-magic",
+   "final_host": "audiolibrary.com.co",
+   "hops": [
+    {
+     "url": "http://bit.ly/-winter-magic",
+     "status": "301",
+     "location": "https://www.audiolibrary.com.co/roa-music/winter-magic"
+    }
+   ]
+  },
+  "http://bit.ly/18lEmLG": {
+   "url": "http://bit.ly/18lEmLG",
+   "final": "http://www.quadrafire.com/Owner-Resources.aspx",
+   "final_host": "quadrafire.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/18lEmLG",
+     "status": "301",
+     "location": "http://www.quadrafire.com/Owner-Resources.aspx"
+    }
+   ]
+  },
+  "http://bit.ly/1HmTBBx": {
+   "url": "http://bit.ly/1HmTBBx",
+   "final": "https://www.youtube.com/user/mrfixit?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/1HmTBBx",
+     "status": "301",
+     "location": "https://www.youtube.com/user/mrfixit?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/1PVGkoy": {
+   "url": "http://bit.ly/1PVGkoy",
+   "final": "https://www.youtube.com/user/thegadgetshow?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/1PVGkoy",
+     "status": "301",
+     "location": "https://www.youtube.com/user/thegadgetshow?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/1PtWJEd": {
+   "url": "http://bit.ly/1PtWJEd",
+   "final": "http://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/1PtWJEd",
+     "status": "301",
+     "location": "http://www.youtube.com/channel/UChKlSK39lLg8eZHIX0iVzLA?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/1ZSraq4": {
+   "url": "http://bit.ly/1ZSraq4",
+   "final": "https://www.facebook.com/sharer/sharer.php?u=http://handydad.tv/ikea-hack-platform-bed-diy/",
+   "final_host": "facebook.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/1ZSraq4",
+     "status": "301",
+     "location": "https://www.facebook.com/sharer/sharer.php?u=http://handydad.tv/ikea-hack-platform-bed-diy/"
+    }
+   ]
+  },
+  "http://bit.ly/1bdMQ7J": {
+   "url": "http://bit.ly/1bdMQ7J",
+   "final": "http://www.harmanstoves.com/Owner-Resources.aspx",
+   "final_host": "harmanstoves.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/1bdMQ7J",
+     "status": "301",
+     "location": "http://www.harmanstoves.com/Owner-Resources.aspx"
+    }
+   ]
+  },
+  "http://bit.ly/1blLmvD": {
+   "url": "http://bit.ly/1blLmvD",
+   "final": "http://www.youtube.com/subscription_center?add_user=lowes",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/1blLmvD",
+     "status": "301",
+     "location": "http://www.youtube.com/subscription_center?add_user=lowes"
+    }
+   ]
+  },
+  "http://bit.ly/2ABrSUL": {
+   "url": "http://bit.ly/2ABrSUL",
+   "final": "https://www.youtube.com/channel/UCwmXHahFSti0E9jgax6px3Q",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2ABrSUL",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCwmXHahFSti0E9jgax6px3Q"
+    }
+   ]
+  },
+  "http://bit.ly/2BceDH5": {
+   "url": "http://bit.ly/2BceDH5",
+   "final": "https://www.worcester-bosch.co.uk/products/boilers/find-a-new-boiler?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-FindABoiler&utm_term=YouTube-Links-FindABoiler&utm_content=YouTube-Links-FindABoiler",
+   "final_host": "worcester-bosch.co.uk",
+   "hops": [
+    {
+     "url": "http://bit.ly/2BceDH5",
+     "status": "301",
+     "location": "https://www.worcester-bosch.co.uk/products/boilers/find-a-new-boiler?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-FindABoiler&utm_term=YouTube-Links-FindABoiler&utm_content=YouTube-Links-FindABoiler"
+    }
+   ]
+  },
+  "http://bit.ly/2Dndu5A": {
+   "url": "http://bit.ly/2Dndu5A",
+   "final": "https://www.worcester-bosch.co.uk/support/troubleshooting?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-Troubleshooting&utm_term=YouTube-Links-Troubleshooting&utm_content=YouTube-Links-Troubleshooting",
+   "final_host": "worcester-bosch.co.uk",
+   "hops": [
+    {
+     "url": "http://bit.ly/2Dndu5A",
+     "status": "301",
+     "location": "https://www.worcester-bosch.co.uk/support/troubleshooting?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-Troubleshooting&utm_term=YouTube-Links-Troubleshooting&utm_content=YouTube-Links-Troubleshooting"
+    }
+   ]
+  },
+  "http://bit.ly/2FCrBpk": {
+   "url": "http://bit.ly/2FCrBpk",
+   "final": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSdaMe-QIMjm-ZcfX8mdjY1srdCeJUg2m-IwjSWPKoRhzW5bWos35RGQ-YMR4iZA-iWB68wKegptex/pubhtml",
+   "final_host": "docs.google.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2FCrBpk",
+     "status": "301",
+     "location": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRSdaMe-QIMjm-ZcfX8mdjY1srdCeJUg2m-IwjSWPKoRhzW5bWos35RGQ-YMR4iZA-iWB68wKegptex/pubhtml"
+    }
+   ]
+  },
+  "http://bit.ly/2FOLkhg": {
+   "url": "http://bit.ly/2FOLkhg",
+   "final": "https://www.worcester-bosch.co.uk/how-to-buy/?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-Homepage&utm_term=YouTube-Links-Homepage&utm_content=YouTube-Links-Homepage",
+   "final_host": "worcester-bosch.co.uk",
+   "hops": [
+    {
+     "url": "http://bit.ly/2FOLkhg",
+     "status": "301",
+     "location": "https://www.worcester-bosch.co.uk/how-to-buy/?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-Homepage&utm_term=YouTube-Links-Homepage&utm_content=YouTube-Links-Homepage"
+    }
+   ]
+  },
+  "http://bit.ly/2Oco8MV": {
+   "url": "http://bit.ly/2Oco8MV",
+   "final": "https://nextdoor.com/pages/fuse-appliance-repair/recommend/",
+   "final_host": "nextdoor.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2Oco8MV",
+     "status": "301",
+     "location": "https://nextdoor.com/pages/fuse-appliance-repair/recommend/"
+    }
+   ]
+  },
+  "http://bit.ly/2PoXSBw": {
+   "url": "http://bit.ly/2PoXSBw",
+   "final": "https://isotunes.com/RRB10",
+   "final_host": "isotunes.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2PoXSBw",
+     "status": "301",
+     "location": "https://isotunes.com/RRB10"
+    }
+   ]
+  },
+  "http://bit.ly/2Ru4Es8": {
+   "url": "http://bit.ly/2Ru4Es8",
+   "final": "https://isotunes.com/FTBT",
+   "final_host": "isotunes.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2Ru4Es8",
+     "status": "301",
+     "location": "https://isotunes.com/FTBT"
+    }
+   ]
+  },
+  "http://bit.ly/2SPSrvi": {
+   "url": "http://bit.ly/2SPSrvi",
+   "final": "https://app.workiz.com/sign/?referrer=Powlas+Enterprises&ref_id=180",
+   "final_host": "app.workiz.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2SPSrvi",
+     "status": "301",
+     "location": "https://app.workiz.com/sign/?referrer=Powlas+Enterprises&ref_id=180"
+    }
+   ]
+  },
+  "http://bit.ly/2Sih4Ux": {
+   "url": "http://bit.ly/2Sih4Ux",
+   "final": "https://liquidrubberusa.com/?gclid=EAIaIQobChMI9Mq6rtWI5wIVYh6tBh3IaAS2EAAYASAAEgK9APD_BwE&utm_source=youtube&utm_medium=mrbuildit",
+   "final_host": "liquidrubberusa.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2Sih4Ux",
+     "status": "301",
+     "location": "https://liquidrubberusa.com/?gclid=EAIaIQobChMI9Mq6rtWI5wIVYh6tBh3IaAS2EAAYASAAEgK9APD_BwE&utm_source=youtube&utm_medium=mrbuildit"
+    }
+   ]
+  },
+  "http://bit.ly/2StuScu": {
+   "url": "http://bit.ly/2StuScu",
+   "final": "https://nicejob.co/fuse-appliance-repair/invite",
+   "final_host": "nicejob.co",
+   "hops": [
+    {
+     "url": "http://bit.ly/2StuScu",
+     "status": "301",
+     "location": "https://nicejob.co/fuse-appliance-repair/invite"
+    }
+   ]
+  },
+  "http://bit.ly/2UlRQ59": {
+   "url": "http://bit.ly/2UlRQ59",
+   "final": "https://michaelpowlas.us13.list-manage.com/subscribe?u=8f4c2cdef19b8fd101b238828&id=4276db21ac",
+   "final_host": "michaelpowlas.us13.list-manage.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2UlRQ59",
+     "status": "301",
+     "location": "https://michaelpowlas.us13.list-manage.com/subscribe?u=8f4c2cdef19b8fd101b238828&id=4276db21ac"
+    }
+   ]
+  },
+  "http://bit.ly/2Vh0zpS": {
+   "url": "http://bit.ly/2Vh0zpS",
+   "final": "https://www.bluehost.com/?utm_source=www.bluehost.com&utm_medium=affiliate&utm_campaign=affiliate-link_mikepowlas_notype",
+   "final_host": "bluehost.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2Vh0zpS",
+     "status": "301",
+     "location": "https://www.bluehost.com/?utm_source=www.bluehost.com&utm_medium=affiliate&utm_campaign=affiliate-link_mikepowlas_notype"
+    }
+   ]
+  },
+  "http://bit.ly/2W7mvUJ": {
+   "url": "http://bit.ly/2W7mvUJ",
+   "final": "https://www.ebates.com/referral/default.do",
+   "final_host": "ebates.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2W7mvUJ",
+     "status": "301",
+     "location": "https://www.ebates.com/referral/default.do"
+    }
+   ]
+  },
+  "http://bit.ly/2ZMobJk": {
+   "url": "http://bit.ly/2ZMobJk",
+   "final": "https://www.youtube.com/channel/UCD4-I2Coq6Ke9IGH3brMiUw/featured",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2ZMobJk",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCD4-I2Coq6Ke9IGH3brMiUw/featured"
+    }
+   ]
+  },
+  "http://bit.ly/2btWfQR": {
+   "url": "http://bit.ly/2btWfQR",
+   "final": "https://www.youtube.com/channel/UCMIjEnXruVHtvgSVf6TgfUg?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2btWfQR",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCMIjEnXruVHtvgSVf6TgfUg?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/2ia3GfT": {
+   "url": "http://bit.ly/2ia3GfT",
+   "final": "http://www.harmanstoves.com/Browse/Stoves/Pellet-Stoves.aspx",
+   "final_host": "harmanstoves.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2ia3GfT",
+     "status": "301",
+     "location": "http://www.harmanstoves.com/Browse/Stoves/Pellet-Stoves.aspx"
+    }
+   ]
+  },
+  "http://bit.ly/2kEDBXD": {
+   "url": "http://bit.ly/2kEDBXD",
+   "final": "https://www.youtube.com/user/myvideoisonutube/playlists",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2kEDBXD",
+     "status": "301",
+     "location": "https://www.youtube.com/user/myvideoisonutube/playlists"
+    }
+   ]
+  },
+  "http://bit.ly/2lq13KO": {
+   "url": "http://bit.ly/2lq13KO",
+   "final": "https://hostilehare.com/?rfsn=1290681.b5c7f7",
+   "final_host": "hostilehare.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2lq13KO",
+     "status": "301",
+     "location": "https://hostilehare.com/?rfsn=1290681.b5c7f7"
+    }
+   ]
+  },
+  "http://bit.ly/2mH3TeC": {
+   "url": "http://bit.ly/2mH3TeC",
+   "final": "https://www.worcester-bosch.co.uk/support?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-ContactUs&utm_term=YouTube-Links-ContactUs&utm_content=YouTube-Links-ContactUs",
+   "final_host": "worcester-bosch.co.uk",
+   "hops": [
+    {
+     "url": "http://bit.ly/2mH3TeC",
+     "status": "301",
+     "location": "https://www.worcester-bosch.co.uk/support?utm_source=YouTube&utm_medium=social&utm_campaign=YouTube-Links-ContactUs&utm_term=YouTube-Links-ContactUs&utm_content=YouTube-Links-ContactUs"
+    }
+   ]
+  },
+  "http://bit.ly/2nR62Zr": {
+   "url": "http://bit.ly/2nR62Zr",
+   "final": "https://streamyard.com/?pal=5736413093953536",
+   "final_host": "streamyard.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2nR62Zr",
+     "status": "301",
+     "location": "https://streamyard.com/?pal=5736413093953536"
+    }
+   ]
+  },
+  "http://bit.ly/2oQFXtU": {
+   "url": "http://bit.ly/2oQFXtU",
+   "final": "https://www.chimebank.com/r/mikepowlas/",
+   "final_host": "chimebank.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2oQFXtU",
+     "status": "301",
+     "location": "https://www.chimebank.com/r/mikepowlas/"
+    }
+   ]
+  },
+  "http://bit.ly/2q2oe3G": {
+   "url": "http://bit.ly/2q2oe3G",
+   "final": "https://buffer.com/",
+   "final_host": "buffer.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2q2oe3G",
+     "status": "301",
+     "location": "https://buffer.com/"
+    }
+   ]
+  },
+  "http://bit.ly/2qkOnY9": {
+   "url": "http://bit.ly/2qkOnY9",
+   "final": "https://instagram.com/fuseappliancerepair",
+   "final_host": "instagram.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2qkOnY9",
+     "status": "301",
+     "location": "https://instagram.com/fuseappliancerepair"
+    }
+   ]
+  },
+  "http://bit.ly/2uFkWp6": {
+   "url": "http://bit.ly/2uFkWp6",
+   "final": "https://www.youtube.com/playlist?list=PLLkAgl7_UY3XZpLhCA4d56sj5qfd3lKAb",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2uFkWp6",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PLLkAgl7_UY3XZpLhCA4d56sj5qfd3lKAb"
+    }
+   ]
+  },
+  "http://bit.ly/2vSoEw2": {
+   "url": "http://bit.ly/2vSoEw2",
+   "final": "https://www.youtube.com/playlist?list=PL8eqcjvgrQ4WvKZAla7SZqGQ_NqAv0cNY",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2vSoEw2",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PL8eqcjvgrQ4WvKZAla7SZqGQ_NqAv0cNY"
+    }
+   ]
+  },
+  "http://bit.ly/2wFMciB": {
+   "url": "http://bit.ly/2wFMciB",
+   "final": "https://manychat.com/l2/eastcoastyoutubers",
+   "final_host": "manychat.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2wFMciB",
+     "status": "301",
+     "location": "https://manychat.com/l2/eastcoastyoutubers"
+    }
+   ]
+  },
+  "http://bit.ly/2yCeGxs": {
+   "url": "http://bit.ly/2yCeGxs",
+   "final": "https://www.yelp.com/biz/fuse-hvac-and-appliance-repair-san-jose",
+   "final_host": "yelp.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2yCeGxs",
+     "status": "301",
+     "location": "https://www.yelp.com/biz/fuse-hvac-and-appliance-repair-san-jose"
+    }
+   ]
+  },
+  "http://bit.ly/2zOTRyO": {
+   "url": "http://bit.ly/2zOTRyO",
+   "final": "https://teespring.com/stores/mike-powlas-merch-store",
+   "final_host": "teespring.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/2zOTRyO",
+     "status": "301",
+     "location": "https://teespring.com/stores/mike-powlas-merch-store"
+    }
+   ]
+  },
+  "http://bit.ly/3EulO02": {
+   "url": "http://bit.ly/3EulO02",
+   "final": "https://www.youtube.com/@reedssmarthome?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/3EulO02",
+     "status": "301",
+     "location": "https://www.youtube.com/@reedssmarthome?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/3csybvv": {
+   "url": "http://bit.ly/3csybvv",
+   "final": "https://www.youtube.com/channel/UCZaYoLQ0m9IbM7rCBhIutSQ",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/3csybvv",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCZaYoLQ0m9IbM7rCBhIutSQ"
+    }
+   ]
+  },
+  "http://bit.ly/415RV0d": {
+   "url": "http://bit.ly/415RV0d",
+   "final": "https://www.fuseservice.com/?se_campaign=YouTube&se_action=eyJ0eXBlIjoic2Utc2hvdy1tb2RhbCJ9&utm_source=youtube&utm_medium=video&utm_campaign=YouTube",
+   "final_host": "fuseservice.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/415RV0d",
+     "status": "301",
+     "location": "https://www.fuseservice.com/?se_campaign=YouTube&se_action=eyJ0eXBlIjoic2Utc2hvdy1tb2RhbCJ9&utm_source=youtube&utm_medium=video&utm_campaign=YouTube"
+    }
+   ]
+  },
+  "http://bit.ly/4nMwP2E": {
+   "url": "http://bit.ly/4nMwP2E",
+   "final": "http://www.mechanicalpeexamprep.com/critical-systems-engineering/",
+   "final_host": "mechanicalpeexamprep.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/4nMwP2E",
+     "status": "301",
+     "location": "http://www.mechanicalpeexamprep.com/critical-systems-engineering/"
+    }
+   ]
+  },
+  "http://bit.ly/AskTOHIG": {
+   "url": "http://bit.ly/AskTOHIG",
+   "final": "https://www.instagram.com/asktoh/",
+   "final_host": "instagram.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/AskTOHIG",
+     "status": "301",
+     "location": "https://www.instagram.com/asktoh/"
+    }
+   ]
+  },
+  "http://bit.ly/AskTOHTwitter": {
+   "url": "http://bit.ly/AskTOHTwitter",
+   "final": "https://twitter.com/asktoh",
+   "final_host": "twitter.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/AskTOHTwitter",
+     "status": "301",
+     "location": "https://twitter.com/asktoh"
+    }
+   ]
+  },
+  "http://bit.ly/BLRfacebook": {
+   "url": "http://bit.ly/BLRfacebook",
+   "final": "https://www.facebook.com/baileylineroad/?eid=ARAFYTLHfz2E5n_g3iayo2s-mztnhOcWViq8rystK6LtJNY1L-uQco-IV5OVV93Af4Vx1mxKDoDAvLGl&timeline_context_item_type=intro_card_work&timeline_context_item_source=539772237&fref=tag",
+   "final_host": "facebook.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/BLRfacebook",
+     "status": "301",
+     "location": "https://www.facebook.com/baileylineroad/?eid=ARAFYTLHfz2E5n_g3iayo2s-mztnhOcWViq8rystK6LtJNY1L-uQco-IV5OVV93Af4Vx1mxKDoDAvLGl&timeline_context_item_type=intro_card_work&timeline_context_item_source=539772237&fref=tag"
+    }
+   ]
+  },
+  "http://bit.ly/BuildItYourselfMerch": {
+   "url": "http://bit.ly/BuildItYourselfMerch",
+   "final": "https://www.bonfire.com/store/crafted-workshop-merch-store/",
+   "final_host": "bonfire.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/BuildItYourselfMerch",
+     "status": "301",
+     "location": "https://www.bonfire.com/store/crafted-workshop-merch-store/"
+    }
+   ]
+  },
+  "http://bit.ly/CaseStudiesEnergySmart": {
+   "url": "http://bit.ly/CaseStudiesEnergySmart",
+   "final": "http://energysmartohio.com/case-studies/",
+   "final_host": "energysmartohio.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/CaseStudiesEnergySmart",
+     "status": "301",
+     "location": "http://energysmartohio.com/case-studies/"
+    }
+   ]
+  },
+  "http://bit.ly/DG_AutoShows": {
+   "url": "http://bit.ly/DG_AutoShows",
+   "final": "https://www.youtube.com/watch?v=HzUdXReYdMw&index=4&list=PLYbEYVyB_NH8cosippKDOToM6Y3C1WtUL",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/DG_AutoShows",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=HzUdXReYdMw&index=4&list=PLYbEYVyB_NH8cosippKDOToM6Y3C1WtUL"
+    }
+   ]
+  },
+  "http://bit.ly/DG_EngineSwaps": {
+   "url": "http://bit.ly/DG_EngineSwaps",
+   "final": "https://www.youtube.com/watch?v=c5hsZIogtHE&t=0s&list=PLYbEYVyB_NH_GQFOOYTwvcAN1aW5GSpZE&index=127",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/DG_EngineSwaps",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=c5hsZIogtHE&t=0s&list=PLYbEYVyB_NH_GQFOOYTwvcAN1aW5GSpZE&index=127"
+    }
+   ]
+  },
+  "http://bit.ly/DG_HowTos": {
+   "url": "http://bit.ly/DG_HowTos",
+   "final": "https://www.youtube.com/watch?v=lbZuUn_nqnc&list=PLYbEYVyB_NH_Lufl7aRT1ICBrRLvwjex1&index=71",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/DG_HowTos",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=lbZuUn_nqnc&list=PLYbEYVyB_NH_Lufl7aRT1ICBrRLvwjex1&index=71"
+    }
+   ]
+  },
+  "http://bit.ly/DG_QuickTips": {
+   "url": "http://bit.ly/DG_QuickTips",
+   "final": "https://www.youtube.com/watch?v=5nRm4EMjN0s&index=25&list=PLYbEYVyB_NH9k3Opb7wQ-WX6tAw9vTk8K",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/DG_QuickTips",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=5nRm4EMjN0s&index=25&list=PLYbEYVyB_NH9k3Opb7wQ-WX6tAw9vTk8K"
+    }
+   ]
+  },
+  "http://bit.ly/DG_Reviews": {
+   "url": "http://bit.ly/DG_Reviews",
+   "final": "https://www.youtube.com/watch?v=wyydrhP7nLI&list=PLYbEYVyB_NH8s01waiBIpoWjB2z-4MeU7index%3D17",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/DG_Reviews",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=wyydrhP7nLI&list=PLYbEYVyB_NH8s01waiBIpoWjB2z-4MeU7index%3D17"
+    }
+   ]
+  },
+  "http://bit.ly/DuctPressure": {
+   "url": "http://bit.ly/DuctPressure",
+   "final": "https://www.youtube.com/watch?v=rEa8IYs9mlo",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/DuctPressure",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=rEa8IYs9mlo"
+    }
+   ]
+  },
+  "http://bit.ly/FTBT-tools": {
+   "url": "http://bit.ly/FTBT-tools",
+   "final": "https://fixthisbuildthat.com/tools",
+   "final_host": "fixthisbuildthat.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/FTBT-tools",
+     "status": "301",
+     "location": "https://fixthisbuildthat.com/tools"
+    }
+   ]
+  },
+  "http://bit.ly/FTBT-youtube": {
+   "url": "http://bit.ly/FTBT-youtube",
+   "final": "https://www.youtube.com/c/fixthisbuildthat?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/FTBT-youtube",
+     "status": "301",
+     "location": "https://www.youtube.com/c/fixthisbuildthat?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/FixerStore": {
+   "url": "http://bit.ly/FixerStore",
+   "final": "https://www.amazon.com/shop/thefixer",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/FixerStore",
+     "status": "301",
+     "location": "https://www.amazon.com/shop/thefixer"
+    }
+   ]
+  },
+  "http://bit.ly/HVACContractorsChapters": {
+   "url": "http://bit.ly/HVACContractorsChapters",
+   "final": "http://www.natethehousewhisperer.com/hvaccontractorschapters.html",
+   "final_host": "natethehousewhisperer.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/HVACContractorsChapters",
+     "status": "301",
+     "location": "http://www.natethehousewhisperer.com/hvaccontractorschapters.html"
+    }
+   ]
+  },
+  "http://bit.ly/LIF-MERCH": {
+   "url": "http://bit.ly/LIF-MERCH",
+   "final": "https://teespring.com/stores/life-in-farmland",
+   "final_host": "teespring.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/LIF-MERCH",
+     "status": "301",
+     "location": "https://teespring.com/stores/life-in-farmland"
+    }
+   ]
+  },
+  "http://bit.ly/Lif-Feedback": {
+   "url": "http://bit.ly/Lif-Feedback",
+   "final": "https://docs.google.com/forms/d/e/1FAIpQLSea4L_VJByUrXK2v6CwHu8_jFyaq1KxNm8x0sLUIJ6G4Bs2Ow/viewform",
+   "final_host": "docs.google.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/Lif-Feedback",
+     "status": "301",
+     "location": "https://docs.google.com/forms/d/e/1FAIpQLSea4L_VJByUrXK2v6CwHu8_jFyaq1KxNm8x0sLUIJ6G4Bs2Ow/viewform"
+    }
+   ]
+  },
+  "http://bit.ly/MountaineerFastBar": {
+   "url": "http://bit.ly/MountaineerFastBar",
+   "final": "http://maytagstorebc.com/loading?n2022=MountaineerFastBar",
+   "final_host": "maytagstorebc.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/MountaineerFastBar",
+     "status": "301",
+     "location": "http://maytagstorebc.com/loading?n2022=MountaineerFastBar"
+    }
+   ]
+  },
+  "http://bit.ly/MountaineerN4L": {
+   "url": "http://bit.ly/MountaineerN4L",
+   "final": "https://www.kqzyfj.com/click-100322957-13892741",
+   "final_host": "kqzyfj.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/MountaineerN4L",
+     "status": "301",
+     "location": "https://www.kqzyfj.com/click-100322957-13892741"
+    }
+   ]
+  },
+  "http://bit.ly/MountaineerProlon": {
+   "url": "http://bit.ly/MountaineerProlon",
+   "final": "https://www.kqzyfj.com/click-100322957-13891824",
+   "final_host": "kqzyfj.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/MountaineerProlon",
+     "status": "301",
+     "location": "https://www.kqzyfj.com/click-100322957-13891824"
+    }
+   ]
+  },
+  "http://bit.ly/MoutaineerFastBar": {
+   "url": "http://bit.ly/MoutaineerFastBar",
+   "final": "https://www.kqzyfj.com/click-100322957-14345138",
+   "final_host": "kqzyfj.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/MoutaineerFastBar",
+     "status": "301",
+     "location": "https://www.kqzyfj.com/click-100322957-14345138"
+    }
+   ]
+  },
+  "http://bit.ly/MyBestDIY\u200b": {
+   "url": "http://bit.ly/MyBestDIY\u200b",
+   "final": "https://www.youtube.com/channel/UCk2Oi0gykpdWgOMORu3TCjA",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/MyBestDIY\u200b",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCk2Oi0gykpdWgOMORu3TCjA"
+    }
+   ]
+  },
+  "http://bit.ly/SubToMartinJohnsonHD": {
+   "url": "http://bit.ly/SubToMartinJohnsonHD",
+   "final": "http://www.youtube.com/user/RidingJava?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/SubToMartinJohnsonHD",
+     "status": "301",
+     "location": "http://www.youtube.com/user/RidingJava?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/SubscribeHVACTraining": {
+   "url": "http://bit.ly/SubscribeHVACTraining",
+   "final": "https://www.youtube.com/channel/UC_wC1rbMeYAv0qQUj6YmFcw?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/SubscribeHVACTraining",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UC_wC1rbMeYAv0qQUj6YmFcw?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/SubscribeTWB": {
+   "url": "http://bit.ly/SubscribeTWB",
+   "final": "https://www.youtube.com/c/techwithbrett?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/SubscribeTWB",
+     "status": "301",
+     "location": "https://www.youtube.com/c/techwithbrett?sub_confirmation=1"
+    }
+   ]
+  },
+  "http://bit.ly/SubscribeThisOldHouse": {
+   "url": "http://bit.ly/SubscribeThisOldHouse",
+   "final": "http://www.youtube.com/subscription_center?add_user=thisoldhouse",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/SubscribeThisOldHouse",
+     "status": "301",
+     "location": "http://www.youtube.com/subscription_center?add_user=thisoldhouse"
+    }
+   ]
+  },
+  "http://bit.ly/TheComingMoldExplosion": {
+   "url": "http://bit.ly/TheComingMoldExplosion",
+   "final": "https://www.youtube.com/watch?v=HJAimauVHB0&feature=youtu.be",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/TheComingMoldExplosion",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=HJAimauVHB0&feature=youtu.be"
+    }
+   ]
+  },
+  "http://bit.ly/ThisOldHouseFB": {
+   "url": "http://bit.ly/ThisOldHouseFB",
+   "final": "https://www.facebook.com/ThisOldHouse",
+   "final_host": "facebook.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/ThisOldHouseFB",
+     "status": "301",
+     "location": "https://www.facebook.com/ThisOldHouse"
+    }
+   ]
+  },
+  "http://bit.ly/ThisOldHouseIG": {
+   "url": "http://bit.ly/ThisOldHouseIG",
+   "final": "http://instagram.com/thisoldhouse",
+   "final_host": "instagram.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/ThisOldHouseIG",
+     "status": "301",
+     "location": "http://instagram.com/thisoldhouse"
+    }
+   ]
+  },
+  "http://bit.ly/ThisOldHousePinterest": {
+   "url": "http://bit.ly/ThisOldHousePinterest",
+   "final": "http://www.pinterest.com/thisoldhouse/",
+   "final_host": "pinterest.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/ThisOldHousePinterest",
+     "status": "301",
+     "location": "http://www.pinterest.com/thisoldhouse/"
+    }
+   ]
+  },
+  "http://bit.ly/ThisOldHouseTumblr": {
+   "url": "http://bit.ly/ThisOldHouseTumblr",
+   "final": "http://thisoldhouse.tumblr.com/",
+   "final_host": "thisoldhouse.tumblr.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/ThisOldHouseTumblr",
+     "status": "301",
+     "location": "http://thisoldhouse.tumblr.com/"
+    }
+   ]
+  },
+  "http://bit.ly/ThisOldHouseTwitter": {
+   "url": "http://bit.ly/ThisOldHouseTwitter",
+   "final": "https://twitter.com/thisoldhouse",
+   "final_host": "twitter.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/ThisOldHouseTwitter",
+     "status": "301",
+     "location": "https://twitter.com/thisoldhouse"
+    }
+   ]
+  },
+  "http://bit.ly/ThisOldHouseWebsite": {
+   "url": "http://bit.ly/ThisOldHouseWebsite",
+   "final": "https://www.thisoldhouse.com/",
+   "final_host": "thisoldhouse.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/ThisOldHouseWebsite",
+     "status": "301",
+     "location": "https://www.thisoldhouse.com/"
+    }
+   ]
+  },
+  "http://bit.ly/TopToolList": {
+   "url": "http://bit.ly/TopToolList",
+   "final": "https://www.amazon.com/ideas/amzn1.account.AEHUM5U2PRYBFT2GZZIN7LRVM5CQ/O8SY55MIQDD6/ref=as_li_ss_tl?ref=idea_cp_vl_ov_d&linkCode=ll2&tag=rrbuildings09-20&linkId=3dbfd90cc0c27827e6b6923b77bed4c0&language=en_US&_encoding=UTF8&tag=rrbuildings09-20&linkCode=ur2&linkId=1543009de112a5e1a916134d42e70ae6&camp=1789&creative=9325",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/TopToolList",
+     "status": "301",
+     "location": "https://www.amazon.com/ideas/amzn1.account.AEHUM5U2PRYBFT2GZZIN7LRVM5CQ/O8SY55MIQDD6/ref=as_li_ss_tl?ref=idea_cp_vl_ov_d&linkCode=ll2&tag=rrbuildings09-20&linkId=3dbfd90cc0c27827e6b6923b77bed4c0&language=en_US&_encoding=UTF8&tag=rrbuildings09-20&linkCode=ur2&linkId=1543009de112a5e1a916134d42e70ae6&camp=1789&creative=9325"
+    }
+   ]
+  },
+  "http://bit.ly/UndecidedAO": {
+   "url": "http://bit.ly/UndecidedAO",
+   "final": "http://www.abstractocean.com/?aff=undecided",
+   "final_host": "abstractocean.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/UndecidedAO",
+     "status": "301",
+     "location": "http://www.abstractocean.com/?aff=undecided"
+    }
+   ]
+  },
+  "http://bit.ly/UndecidedAmazon": {
+   "url": "http://bit.ly/UndecidedAmazon",
+   "final": "https://www.amazon.com/shop/undecidedwithmattferrell",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/UndecidedAmazon",
+     "status": "301",
+     "location": "https://www.amazon.com/shop/undecidedwithmattferrell"
+    }
+   ]
+  },
+  "http://bit.ly/UndecidedJeda": {
+   "url": "http://bit.ly/UndecidedJeda",
+   "final": "https://getjeda.com/ref/21/",
+   "final_host": "getjeda.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/UndecidedJeda",
+     "status": "301",
+     "location": "https://getjeda.com/ref/21/"
+    }
+   ]
+  },
+  "http://bit.ly/howathermostatworks": {
+   "url": "http://bit.ly/howathermostatworks",
+   "final": "https://www.youtube.com/playlist?list=PLSbucda6GRZHu7t6D3tXvXhGyCvK6euiT",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/howathermostatworks",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PLSbucda6GRZHu7t6D3tXvXhGyCvK6euiT"
+    }
+   ]
+  },
+  "http://bit.ly/interplaylearninghvac": {
+   "url": "http://bit.ly/interplaylearninghvac",
+   "final": "https://www.interplaylearning.com/hvac-team-training",
+   "final_host": "interplaylearning.com",
+   "hops": [
+    {
+     "url": "http://bit.ly/interplaylearninghvac",
+     "status": "301",
+     "location": "https://www.interplaylearning.com/hvac-team-training"
+    }
+   ]
+  },
+  "http://goo.gl/3cjvt": {
+   "url": "http://goo.gl/3cjvt",
+   "final": "http://www.amazon.com/mn/search/?_encoding=UTF8&tag=iesuck-20&linkCode=ur2&camp=1789&creative=390957&field-keywords=digital+multimeter+capacitance&url=search-alias%3Daps&sprefix=digital+multimeter+capa,aps,176#/ref=sr_nr_p_85_0?rh=i:aps,k:digital%20multimeter%20capacitance,p_85:1",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "http://goo.gl/3cjvt",
+     "status": "301",
+     "location": "https://goo.gl/3cjvt"
+    },
+    {
+     "url": "https://goo.gl/3cjvt",
+     "status": "302",
+     "location": "http://www.amazon.com/mn/search/?_encoding=UTF8&tag=iesuck-20&linkCode=ur2&camp=1789&creative=390957&field-keywords=digital+multimeter+capacitance&url=search-alias%3Daps&sprefix=digital+multimeter+capa,aps,176#/ref=sr_nr_p_85_0?rh=i:aps,k:digital%20multimeter%20capacitance,p_85:1"
+    }
+   ]
+  },
+  "http://goo.gl/9SKSI": {
+   "url": "http://goo.gl/9SKSI",
+   "final": "http://www.amazon.com/s/?_encoding=UTF8&tag=iesuck-20&linkCode=ur2&camp=1789&creative=390957&rh=i:aps,k:furnace+thermocouple&field-keywords=furnace+thermocouple&url=search-alias%3Daps",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "http://goo.gl/9SKSI",
+     "status": "301",
+     "location": "https://goo.gl/9SKSI"
+    },
+    {
+     "url": "https://goo.gl/9SKSI",
+     "status": "302",
+     "location": "http://www.amazon.com/s/?_encoding=UTF8&tag=iesuck-20&linkCode=ur2&camp=1789&creative=390957&rh=i:aps,k:furnace+thermocouple&field-keywords=furnace+thermocouple&url=search-alias%3Daps"
+    }
+   ]
+  },
+  "http://goo.gl/P2kv1N": {
+   "url": "http://goo.gl/P2kv1N",
+   "final": "http://www.amazon.com/gp/product/B008OG7XDO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008OG7XDO&linkCode=as2&tag=wwwyoutub00ca-20&linkId=5YLSSUMPPYO6PWGL",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "http://goo.gl/P2kv1N",
+     "status": "301",
+     "location": "https://goo.gl/P2kv1N"
+    },
+    {
+     "url": "https://goo.gl/P2kv1N",
+     "status": "302",
+     "location": "http://www.amazon.com/gp/product/B008OG7XDO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008OG7XDO&linkCode=as2&tag=wwwyoutub00ca-20&linkId=5YLSSUMPPYO6PWGL"
+    }
+   ]
+  },
+  "https://bit.ly/15-off-multimeters": {
+   "url": "https://bit.ly/15-off-multimeters",
+   "final": "https://kaiweets.com/?sca_ref=4969440.sKh2aRN1gq&sca_source=YMMT",
+   "final_host": "kaiweets.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/15-off-multimeters",
+     "status": "301",
+     "location": "https://kaiweets.com/?sca_ref=4969440.sKh2aRN1gq&sca_source=YMMT"
+    }
+   ]
+  },
+  "https://bit.ly/20-Preps": {
+   "url": "https://bit.ly/20-Preps",
+   "final": "https://www.dropbox.com/scl/fi/thbr2k9bpvpb8kbpfb6w4/20-Preps.pdf?rlkey=sqs9dd5nn9ll335emtdw5oz5a&st=n2j46e0m&dl=0",
+   "final_host": "dropbox.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/20-Preps",
+     "status": "301",
+     "location": "https://www.dropbox.com/scl/fi/thbr2k9bpvpb8kbpfb6w4/20-Preps.pdf?rlkey=sqs9dd5nn9ll335emtdw5oz5a&st=n2j46e0m&dl=0"
+    }
+   ]
+  },
+  "https://bit.ly/2AVDc11": {
+   "url": "https://bit.ly/2AVDc11",
+   "final": "https://rstyle.me/+wPmQw8RUm-NNN2FYgZbZSQ",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2AVDc11",
+     "status": "301",
+     "location": "https://rstyle.me/+wPmQw8RUm-NNN2FYgZbZSQ"
+    }
+   ]
+  },
+  "https://bit.ly/2BC12M6": {
+   "url": "https://bit.ly/2BC12M6",
+   "final": "http://www.anrdoezrs.net/click-8944594-13101169",
+   "final_host": "anrdoezrs.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/2BC12M6",
+     "status": "301",
+     "location": "http://www.anrdoezrs.net/click-8944594-13101169"
+    }
+   ]
+  },
+  "https://bit.ly/2BC12M6\u200b": {
+   "url": "https://bit.ly/2BC12M6\u200b",
+   "final": "http://www.anrdoezrs.net/click-8944594-13101169",
+   "final_host": "anrdoezrs.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/2BC12M6\u200b",
+     "status": "301",
+     "location": "http://www.anrdoezrs.net/click-8944594-13101169"
+    }
+   ]
+  },
+  "https://bit.ly/2BiLSyC": {
+   "url": "https://bit.ly/2BiLSyC",
+   "final": "https://www.youtube.com/playlist?list=PLyBa0yFBQO7Mc6sAZOMd-xujGuorZAs--",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2BiLSyC",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PLyBa0yFBQO7Mc6sAZOMd-xujGuorZAs--"
+    }
+   ]
+  },
+  "https://bit.ly/2COi2P0": {
+   "url": "https://bit.ly/2COi2P0",
+   "final": "http://banggood.com/?utm_campaign=3391019_Flashdeal&utm_content=2635&p=U627203391019201512Z",
+   "final_host": "banggood.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2COi2P0",
+     "status": "301",
+     "location": "http://banggood.com/?utm_campaign=3391019_Flashdeal&utm_content=2635&p=U627203391019201512Z"
+    }
+   ]
+  },
+  "https://bit.ly/2EVDuFg": {
+   "url": "https://bit.ly/2EVDuFg",
+   "final": "https://www.youtube.com/playlist?list=PL8KslM65UwggM6D1uoiZN7ZAwL1e50hGt",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2EVDuFg",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PL8KslM65UwggM6D1uoiZN7ZAwL1e50hGt"
+    }
+   ]
+  },
+  "https://bit.ly/2GPiYbH": {
+   "url": "https://bit.ly/2GPiYbH",
+   "final": "https://access.thisoldhouse.com/p155?utm_source=scm-you&utm_medium=dig-dsp&utm_term=pck&utm_content=T005-tohins-00--000&utm_campaign=p155-pcb-bth-1000-07-000-000-p155-pcb-bth-9600-07-tee",
+   "final_host": "access.thisoldhouse.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2GPiYbH",
+     "status": "301",
+     "location": "https://access.thisoldhouse.com/p155?utm_source=scm-you&utm_medium=dig-dsp&utm_term=pck&utm_content=T005-tohins-00--000&utm_campaign=p155-pcb-bth-1000-07-000-000-p155-pcb-bth-9600-07-tee"
+    }
+   ]
+  },
+  "https://bit.ly/2Gq3g5n": {
+   "url": "https://bit.ly/2Gq3g5n",
+   "final": "https://www.shareasale.com/r.cfm?b=40&u=1929359&m=47",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Gq3g5n",
+     "status": "301",
+     "location": "https://www.shareasale.com/r.cfm?b=40&u=1929359&m=47"
+    }
+   ]
+  },
+  "https://bit.ly/2Gq3g5n\u200b": {
+   "url": "https://bit.ly/2Gq3g5n\u200b",
+   "final": "https://www.shareasale.com/r.cfm?b=40&u=1929359&m=47",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Gq3g5n\u200b",
+     "status": "301",
+     "location": "https://www.shareasale.com/r.cfm?b=40&u=1929359&m=47"
+    }
+   ]
+  },
+  "https://bit.ly/2GrAGAQ": {
+   "url": "https://bit.ly/2GrAGAQ",
+   "final": "https://www.shareasale.com/r.cfm?b=478961&u=1929359&m=47174",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2GrAGAQ",
+     "status": "301",
+     "location": "https://www.shareasale.com/r.cfm?b=478961&u=1929359&m=47174"
+    }
+   ]
+  },
+  "https://bit.ly/2HBu9oq": {
+   "url": "https://bit.ly/2HBu9oq",
+   "final": "https://www.banggood.com/Flashdeals.html?utm_campaign=3391019_Flashdeal&utm_content=2635&p=U627203391019201512Z",
+   "final_host": "banggood.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2HBu9oq",
+     "status": "301",
+     "location": "https://www.banggood.com/Flashdeals.html?utm_campaign=3391019_Flashdeal&utm_content=2635&p=U627203391019201512Z"
+    }
+   ]
+  },
+  "https://bit.ly/2JXJs9a": {
+   "url": "https://bit.ly/2JXJs9a",
+   "final": "https://www.behr.com/consumer/products/floor-coatings-sealers-and-prep/porch-and-patio-floor-paints/behr-premium-porch-and-patio-floor-paint-low-lustre",
+   "final_host": "behr.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2JXJs9a",
+     "status": "301",
+     "location": "https://www.behr.com/consumer/products/floor-coatings-sealers-and-prep/porch-and-patio-floor-paints/behr-premium-porch-and-patio-floor-paint-low-lustre"
+    }
+   ]
+  },
+  "https://bit.ly/2JYu8vW": {
+   "url": "https://bit.ly/2JYu8vW",
+   "final": "https://www.animatron.com/wave?tap_a=19272-291192&tap_s=314473-b0eb48",
+   "final_host": "animatron.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2JYu8vW",
+     "status": "301",
+     "location": "https://www.animatron.com/wave?tap_a=19272-291192&tap_s=314473-b0eb48"
+    }
+   ]
+  },
+  "https://bit.ly/2L2H54Q": {
+   "url": "https://bit.ly/2L2H54Q",
+   "final": "https://www.youtube.com/playlist?list=PL8KslM65UwgixOMsdGVjuwhUwLz3fhoXD",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2L2H54Q",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PL8KslM65UwgixOMsdGVjuwhUwLz3fhoXD"
+    }
+   ]
+  },
+  "https://bit.ly/2M4XXXi": {
+   "url": "https://bit.ly/2M4XXXi",
+   "final": "http://www.pinterest.com/Dirtpatcheaven/",
+   "final_host": "pinterest.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2M4XXXi",
+     "status": "301",
+     "location": "http://www.pinterest.com/Dirtpatcheaven/"
+    }
+   ]
+  },
+  "https://bit.ly/2MHiM0q": {
+   "url": "https://bit.ly/2MHiM0q",
+   "final": "https://www.bonfire.com/get-dirty-1/",
+   "final_host": "bonfire.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2MHiM0q",
+     "status": "301",
+     "location": "https://www.bonfire.com/get-dirty-1/"
+    }
+   ]
+  },
+  "https://bit.ly/2N7ZEp9": {
+   "url": "https://bit.ly/2N7ZEp9",
+   "final": "https://www.shareasale.com/r.cfm?b=659059&u=1929359&m=55818",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2N7ZEp9",
+     "status": "301",
+     "location": "https://www.shareasale.com/r.cfm?b=659059&u=1929359&m=55818"
+    }
+   ]
+  },
+  "https://bit.ly/2N7uYVb": {
+   "url": "https://bit.ly/2N7uYVb",
+   "final": "https://www.shareasale.com/r.cfm?b=302497&u=1929359&m=32431",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2N7uYVb",
+     "status": "301",
+     "location": "https://www.shareasale.com/r.cfm?b=302497&u=1929359&m=32431"
+    }
+   ]
+  },
+  "https://bit.ly/2Nlktjy": {
+   "url": "https://bit.ly/2Nlktjy",
+   "final": "http://www.dirtpatcheaven.com/",
+   "final_host": "dirtpatcheaven.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Nlktjy",
+     "status": "301",
+     "location": "http://www.dirtpatcheaven.com/"
+    }
+   ]
+  },
+  "https://bit.ly/2OkU9oz": {
+   "url": "https://bit.ly/2OkU9oz",
+   "final": "https://rstyle.me/+nHY8y6LYClg6deeIz_HU3g",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2OkU9oz",
+     "status": "301",
+     "location": "https://rstyle.me/+nHY8y6LYClg6deeIz_HU3g"
+    }
+   ]
+  },
+  "https://bit.ly/2OleWsb": {
+   "url": "https://bit.ly/2OleWsb",
+   "final": "https://rstyle.me/+lTFp7Znk0_dR2mtFRP1xwQ",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2OleWsb",
+     "status": "301",
+     "location": "https://rstyle.me/+lTFp7Znk0_dR2mtFRP1xwQ"
+    }
+   ]
+  },
+  "https://bit.ly/2OmGxcE": {
+   "url": "https://bit.ly/2OmGxcE",
+   "final": "https://rstyle.me/+xJtgeJhlX9qgpLuzKDxgkQ",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2OmGxcE",
+     "status": "301",
+     "location": "https://rstyle.me/+xJtgeJhlX9qgpLuzKDxgkQ"
+    }
+   ]
+  },
+  "https://bit.ly/2OrzT4x": {
+   "url": "https://bit.ly/2OrzT4x",
+   "final": "https://rstyle.me/+f_cRAlf1-ThB9CbHGRmuXw",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2OrzT4x",
+     "status": "301",
+     "location": "https://rstyle.me/+f_cRAlf1-ThB9CbHGRmuXw"
+    }
+   ]
+  },
+  "https://bit.ly/2RI5dvY": {
+   "url": "https://bit.ly/2RI5dvY",
+   "final": "https://www.youtube.com/playlist?list=PL8KslM65UwgihAL9rMupPbCrXjtFEIMlc",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2RI5dvY",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PL8KslM65UwgihAL9rMupPbCrXjtFEIMlc"
+    }
+   ]
+  },
+  "https://bit.ly/2RN83jC": {
+   "url": "https://bit.ly/2RN83jC",
+   "final": "https://www.youtube.com/playlist?list=PL8KslM65UwgiJsM1zXHXkc9CBi9pYrWAx",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2RN83jC",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PL8KslM65UwgiJsM1zXHXkc9CBi9pYrWAx"
+    }
+   ]
+  },
+  "https://bit.ly/2RgE44u\u200b": {
+   "url": "https://bit.ly/2RgE44u\u200b",
+   "final": "http://fbuy.me/lbGLT",
+   "final_host": "fbuy.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2RgE44u\u200b",
+     "status": "301",
+     "location": "http://fbuy.me/lbGLT"
+    }
+   ]
+  },
+  "https://bit.ly/2Sj1yHL": {
+   "url": "https://bit.ly/2Sj1yHL",
+   "final": "https://www.dpbolvw.net/click-8944594-13520643",
+   "final_host": "dpbolvw.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Sj1yHL",
+     "status": "301",
+     "location": "https://www.dpbolvw.net/click-8944594-13520643"
+    }
+   ]
+  },
+  "https://bit.ly/2Sj1yHL\u200b": {
+   "url": "https://bit.ly/2Sj1yHL\u200b",
+   "final": "https://www.dpbolvw.net/click-8944594-13520643",
+   "final_host": "dpbolvw.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Sj1yHL\u200b",
+     "status": "301",
+     "location": "https://www.dpbolvw.net/click-8944594-13520643"
+    }
+   ]
+  },
+  "https://bit.ly/2T3USuy": {
+   "url": "https://bit.ly/2T3USuy",
+   "final": "https://baileylineroad.com/sign-make-saturday-mornings-better/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2T3USuy",
+     "status": "301",
+     "location": "https://baileylineroad.com/sign-make-saturday-mornings-better/"
+    }
+   ]
+  },
+  "https://bit.ly/2TPRhkF": {
+   "url": "https://bit.ly/2TPRhkF",
+   "final": "https://torguard.net/aff.php?aff=4622",
+   "final_host": "torguard.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/2TPRhkF",
+     "status": "301",
+     "location": "https://torguard.net/aff.php?aff=4622"
+    }
+   ]
+  },
+  "https://bit.ly/2TPRhkF\u200b": {
+   "url": "https://bit.ly/2TPRhkF\u200b",
+   "final": "https://torguard.net/aff.php?aff=4622",
+   "final_host": "torguard.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/2TPRhkF\u200b",
+     "status": "301",
+     "location": "https://torguard.net/aff.php?aff=4622"
+    }
+   ]
+  },
+  "https://bit.ly/2TSp1hm": {
+   "url": "https://bit.ly/2TSp1hm",
+   "final": "http://www.kqzyfj.com/click-8944594-12973597",
+   "final_host": "kqzyfj.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2TSp1hm",
+     "status": "301",
+     "location": "http://www.kqzyfj.com/click-8944594-12973597"
+    }
+   ]
+  },
+  "https://bit.ly/2Tma2kP": {
+   "url": "https://bit.ly/2Tma2kP",
+   "final": "https://youtube.com/playlist?list=PL8eqcjvgrQ4V3e_WSnZcyGS_6FrSUK_4q",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Tma2kP",
+     "status": "301",
+     "location": "https://youtube.com/playlist?list=PL8eqcjvgrQ4V3e_WSnZcyGS_6FrSUK_4q"
+    }
+   ]
+  },
+  "https://bit.ly/2UZEpIK": {
+   "url": "https://bit.ly/2UZEpIK",
+   "final": "https://www.shareasale.com/r.cfm?b=965472&u=1929359&m=69944",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2UZEpIK",
+     "status": "301",
+     "location": "https://www.shareasale.com/r.cfm?b=965472&u=1929359&m=69944"
+    }
+   ]
+  },
+  "https://bit.ly/2UZNJ2k": {
+   "url": "https://bit.ly/2UZNJ2k",
+   "final": "https://www.goalzero.com/shop/kits/goal-zero-yeti-3000-lithium-power-station-boulder-200-briefcase-solar-kit/",
+   "final_host": "goalzero.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2UZNJ2k",
+     "status": "301",
+     "location": "https://www.goalzero.com/shop/kits/goal-zero-yeti-3000-lithium-power-station-boulder-200-briefcase-solar-kit/"
+    }
+   ]
+  },
+  "https://bit.ly/2VUaUOJ": {
+   "url": "https://bit.ly/2VUaUOJ",
+   "final": "https://www.youtube.com/channel/UC5OdB-sGz9atv-tJINwWOTg",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2VUaUOJ",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UC5OdB-sGz9atv-tJINwWOTg"
+    }
+   ]
+  },
+  "https://bit.ly/2Vmps4a": {
+   "url": "https://bit.ly/2Vmps4a",
+   "final": "https://www.thumbtack.com/pro/referral/3hve301n0",
+   "final_host": "thumbtack.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2Vmps4a",
+     "status": "301",
+     "location": "https://www.thumbtack.com/pro/referral/3hve301n0"
+    }
+   ]
+  },
+  "https://bit.ly/2X7bUhl": {
+   "url": "https://bit.ly/2X7bUhl",
+   "final": "https://shareasale.com/u.cfm?d=563314&m=45938&u=1929359&afftrack=",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2X7bUhl",
+     "status": "301",
+     "location": "https://shareasale.com/u.cfm?d=563314&m=45938&u=1929359&afftrack="
+    }
+   ]
+  },
+  "https://bit.ly/2X7bUhl\u200b": {
+   "url": "https://bit.ly/2X7bUhl\u200b",
+   "final": "https://shareasale.com/u.cfm?d=563314&m=45938&u=1929359&afftrack=",
+   "final_host": "shareasale.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2X7bUhl\u200b",
+     "status": "301",
+     "location": "https://shareasale.com/u.cfm?d=563314&m=45938&u=1929359&afftrack="
+    }
+   ]
+  },
+  "https://bit.ly/2ZpUSLw": {
+   "url": "https://bit.ly/2ZpUSLw",
+   "final": "https://rstyle.me/+S3PykZ7jRqSyeLUC5P-SqA",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/2ZpUSLw",
+     "status": "301",
+     "location": "https://rstyle.me/+S3PykZ7jRqSyeLUC5P-SqA"
+    }
+   ]
+  },
+  "https://bit.ly/2ZtdTuJ": {
+   "url": "https://bit.ly/2ZtdTuJ",
+   "final": "https://techsmith.pxf.io/c/1414502/481530/5161",
+   "final_host": "techsmith.pxf.io",
+   "hops": [
+    {
+     "url": "https://bit.ly/2ZtdTuJ",
+     "status": "301",
+     "location": "https://techsmith.pxf.io/c/1414502/481530/5161"
+    }
+   ]
+  },
+  "https://bit.ly/2ZtdTuJ\u200b": {
+   "url": "https://bit.ly/2ZtdTuJ\u200b",
+   "final": "https://techsmith.pxf.io/c/1414502/481530/5161",
+   "final_host": "techsmith.pxf.io",
+   "hops": [
+    {
+     "url": "https://bit.ly/2ZtdTuJ\u200b",
+     "status": "301",
+     "location": "https://techsmith.pxf.io/c/1414502/481530/5161"
+    }
+   ]
+  },
+  "https://bit.ly/2rpnUcm": {
+   "url": "https://bit.ly/2rpnUcm",
+   "final": "https://www.youtube.com/playlist?list=PL8KslM65Uwgh79wJdAqzrg-2cmhNU2de9",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2rpnUcm",
+     "status": "301",
+     "location": "https://www.youtube.com/playlist?list=PL8KslM65Uwgh79wJdAqzrg-2cmhNU2de9"
+    }
+   ]
+  },
+  "https://bit.ly/2uhGAzC\u200b": {
+   "url": "https://bit.ly/2uhGAzC\u200b",
+   "final": "https://tello.com/account/register?_referral=P3JD2QBF",
+   "final_host": "tello.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2uhGAzC\u200b",
+     "status": "301",
+     "location": "https://tello.com/account/register?_referral=P3JD2QBF"
+    }
+   ]
+  },
+  "https://bit.ly/2w0CU6A": {
+   "url": "https://bit.ly/2w0CU6A",
+   "final": "https://fbuy.io/c86r9xaz",
+   "final_host": "fbuy.io",
+   "hops": [
+    {
+     "url": "https://bit.ly/2w0CU6A",
+     "status": "301",
+     "location": "https://fbuy.io/c86r9xaz"
+    }
+   ]
+  },
+  "https://bit.ly/2w0CU6A\u200b": {
+   "url": "https://bit.ly/2w0CU6A\u200b",
+   "final": "https://fbuy.io/c86r9xaz",
+   "final_host": "fbuy.io",
+   "hops": [
+    {
+     "url": "https://bit.ly/2w0CU6A\u200b",
+     "status": "301",
+     "location": "https://fbuy.io/c86r9xaz"
+    }
+   ]
+  },
+  "https://bit.ly/2x0qE6p": {
+   "url": "https://bit.ly/2x0qE6p",
+   "final": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EVXRLHFFVJ63C&source=url",
+   "final_host": "paypal.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2x0qE6p",
+     "status": "301",
+     "location": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EVXRLHFFVJ63C&source=url"
+    }
+   ]
+  },
+  "https://bit.ly/2y5B44S": {
+   "url": "https://bit.ly/2y5B44S",
+   "final": "https://www.harborfreight.com/10-piece-4-1-2-half-inch-grinding-and-cutting-wheel-assortment-47572.html",
+   "final_host": "harborfreight.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/2y5B44S",
+     "status": "301",
+     "location": "https://www.harborfreight.com/10-piece-4-1-2-half-inch-grinding-and-cutting-wheel-assortment-47572.html"
+    }
+   ]
+  },
+  "https://bit.ly/306ALEM": {
+   "url": "https://bit.ly/306ALEM",
+   "final": "https://www.coinbase.com/join/dymock_s",
+   "final_host": "coinbase.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/306ALEM",
+     "status": "301",
+     "location": "https://www.coinbase.com/join/dymock_s"
+    }
+   ]
+  },
+  "https://bit.ly/3AilT4v": {
+   "url": "https://bit.ly/3AilT4v",
+   "final": "https://www.mobvoi.com/pages/ticwatchpro3ultra?referral_code=XYZDBO&utm_source=Youtube&utm_medium=Referral&utm_campaign=Mountaineer+Outdoor,+Ticwatch+Pro+3+Ultra",
+   "final_host": "mobvoi.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3AilT4v",
+     "status": "301",
+     "location": "https://www.mobvoi.com/pages/ticwatchpro3ultra?referral_code=XYZDBO&utm_source=Youtube&utm_medium=Referral&utm_campaign=Mountaineer+Outdoor,+Ticwatch+Pro+3+Ultra"
+    }
+   ]
+  },
+  "https://bit.ly/3BB0sOp": {
+   "url": "https://bit.ly/3BB0sOp",
+   "final": "https://goto.walmart.com/c/2974236/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https://www.walmart.com",
+   "final_host": "goto.walmart.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3BB0sOp",
+     "status": "301",
+     "location": "https://goto.walmart.com/c/2974236/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https://www.walmart.com"
+    }
+   ]
+  },
+  "https://bit.ly/3BxIejB": {
+   "url": "https://bit.ly/3BxIejB",
+   "final": "https://mechanicalpeexamprep.thinkific.com/courses/critical-systems-engineering",
+   "final_host": "mechanicalpeexamprep.thinkific.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3BxIejB",
+     "status": "301",
+     "location": "https://mechanicalpeexamprep.thinkific.com/courses/critical-systems-engineering"
+    }
+   ]
+  },
+  "https://bit.ly/3DlD62p": {
+   "url": "https://bit.ly/3DlD62p",
+   "final": "https://www.youtube.com/watch?v=j5BmKOnCLAg",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3DlD62p",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=j5BmKOnCLAg"
+    }
+   ]
+  },
+  "https://bit.ly/3Dn5BwR": {
+   "url": "https://bit.ly/3Dn5BwR",
+   "final": "https://www.youtube.com/watch?v=MbVQ02Kyqo8&t=5s",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3Dn5BwR",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=MbVQ02Kyqo8&t=5s"
+    }
+   ]
+  },
+  "https://bit.ly/3FGaOkM": {
+   "url": "https://bit.ly/3FGaOkM",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#11_NOCO_Boost_Plus_Jump_Starter",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3FGaOkM",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#11_NOCO_Boost_Plus_Jump_Starter"
+    }
+   ]
+  },
+  "https://bit.ly/3FIGshv": {
+   "url": "https://bit.ly/3FIGshv",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#27_Crampbuster_Throttle_Assist",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3FIGshv",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#27_Crampbuster_Throttle_Assist"
+    }
+   ]
+  },
+  "https://bit.ly/3FrUgsT": {
+   "url": "https://bit.ly/3FrUgsT",
+   "final": "http://youtube.com/channel/UCjhLH2htPeIBs8NBDxEynrQ?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3FrUgsT",
+     "status": "301",
+     "location": "http://youtube.com/channel/UCjhLH2htPeIBs8NBDxEynrQ?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://bit.ly/3HEiV1I": {
+   "url": "https://bit.ly/3HEiV1I",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#8_TomTom_Rider_550_GPS",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3HEiV1I",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#8_TomTom_Rider_550_GPS"
+    }
+   ]
+  },
+  "https://bit.ly/3HkDfW3": {
+   "url": "https://bit.ly/3HkDfW3",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#21_CruzTOOLS_RoadTech_Tool_Kit",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3HkDfW3",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#21_CruzTOOLS_RoadTech_Tool_Kit"
+    }
+   ]
+  },
+  "https://bit.ly/3J21zXL": {
+   "url": "https://bit.ly/3J21zXL",
+   "final": "https://www.youtube.com/channel/UCmFkUrOFd_FaASmI9HysA3g?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3J21zXL",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCmFkUrOFd_FaASmI9HysA3g?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://bit.ly/3L1c1FK": {
+   "url": "https://bit.ly/3L1c1FK",
+   "final": "https://www.yelp.com/biz/fuse-hvac-refrigeration-electrical-and-plumbing-san-jose-6",
+   "final_host": "yelp.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3L1c1FK",
+     "status": "301",
+     "location": "https://www.yelp.com/biz/fuse-hvac-refrigeration-electrical-and-plumbing-san-jose-6"
+    }
+   ]
+  },
+  "https://bit.ly/3PkilH7": {
+   "url": "https://bit.ly/3PkilH7",
+   "final": "https://www.mechanicalpeexamprep.com/fe-mechanical-exam-prep-course/",
+   "final_host": "mechanicalpeexamprep.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3PkilH7",
+     "status": "301",
+     "location": "https://www.mechanicalpeexamprep.com/fe-mechanical-exam-prep-course/"
+    }
+   ]
+  },
+  "https://bit.ly/3Rir6pV": {
+   "url": "https://bit.ly/3Rir6pV",
+   "final": "https://www.screwfix.com/p/skil-sr1u7471aa-125mm-electric-random-orbit-sander-220-240v/141aj",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3Rir6pV",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-sr1u7471aa-125mm-electric-random-orbit-sander-220-240v/141aj"
+    }
+   ]
+  },
+  "https://bit.ly/3RjiHm8": {
+   "url": "https://bit.ly/3RjiHm8",
+   "final": "https://www.screwfix.com/p/skil-mf1e3650cb-20v-li-ion-pwrcore-20-brushless-cordless-multi-tool-bare/477kn",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3RjiHm8",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-mf1e3650cb-20v-li-ion-pwrcore-20-brushless-cordless-multi-tool-bare/477kn"
+    }
+   ]
+  },
+  "https://bit.ly/3T67Mt0": {
+   "url": "https://bit.ly/3T67Mt0",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#26_Tirox_Snapjack_Portable_Jack",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3T67Mt0",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#26_Tirox_Snapjack_Portable_Jack"
+    }
+   ]
+  },
+  "https://bit.ly/3T682bs": {
+   "url": "https://bit.ly/3T682bs",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#2_Cardo_Packtalk_Edge_Intercom",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3T682bs",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#2_Cardo_Packtalk_Edge_Intercom"
+    }
+   ]
+  },
+  "https://bit.ly/3T6avCP": {
+   "url": "https://bit.ly/3T6avCP",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#15_Dango_Gripper_Mount",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3T6avCP",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#15_Dango_Gripper_Mount"
+    }
+   ]
+  },
+  "https://bit.ly/3TDsDrR": {
+   "url": "https://bit.ly/3TDsDrR",
+   "final": "https://app.openquote.net/company/artisanelectrics?utm_source=youtube&utm_medium=video&utm_campaign=eleven-energy&utm_term=sodium-battery",
+   "final_host": "app.openquote.net",
+   "hops": [
+    {
+     "url": "https://bit.ly/3TDsDrR",
+     "status": "301",
+     "location": "https://app.openquote.net/company/artisanelectrics?utm_source=youtube&utm_medium=video&utm_campaign=eleven-energy&utm_term=sodium-battery"
+    }
+   ]
+  },
+  "https://bit.ly/3TrasF6": {
+   "url": "https://bit.ly/3TrasF6",
+   "final": "https://www.toolnation.com/skil-va1e3980fa-cordless-planer-20v-xp-pro-series-brushless-excl-batteries-and-charger-in-bag.html",
+   "final_host": "toolnation.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3TrasF6",
+     "status": "301",
+     "location": "https://www.toolnation.com/skil-va1e3980fa-cordless-planer-20v-xp-pro-series-brushless-excl-batteries-and-charger-in-bag.html"
+    }
+   ]
+  },
+  "https://bit.ly/3U0SSsp": {
+   "url": "https://bit.ly/3U0SSsp",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#1_Philips_Norelco_2400_Series_Electric_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3U0SSsp",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#1_Philips_Norelco_2400_Series_Electric_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/3U2pJgs": {
+   "url": "https://bit.ly/3U2pJgs",
+   "final": "https://www.kickstarter.com/projects/ugreen/ugreen-homeagent-a-living-local-intelligence-for-your-home?ref=cee3hg&utm_source=youtube&utm_medium=kol&utm_campaign=uskolytSmartHomeSolver",
+   "final_host": "kickstarter.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3U2pJgs",
+     "status": "301",
+     "location": "https://www.kickstarter.com/projects/ugreen/ugreen-homeagent-a-living-local-intelligence-for-your-home?ref=cee3hg&utm_source=youtube&utm_medium=kol&utm_campaign=uskolytSmartHomeSolver"
+    }
+   ]
+  },
+  "https://bit.ly/3UePiLf": {
+   "url": "https://bit.ly/3UePiLf",
+   "final": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-evo-safety-goggles-single-lens",
+   "final_host": "startsafety.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/3UePiLf",
+     "status": "301",
+     "location": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-evo-safety-goggles-single-lens"
+    }
+   ]
+  },
+  "https://bit.ly/3VFKteb": {
+   "url": "https://bit.ly/3VFKteb",
+   "final": "https://iheat.co.uk/solar?utm_source=youtube&utm_medium=video&utm_campaign=Top+5+Battery+Only+Setups&utm_id=o3EJ98Rt0L8&utm_term=October-2026",
+   "final_host": "iheat.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/3VFKteb",
+     "status": "301",
+     "location": "https://iheat.co.uk/solar?utm_source=youtube&utm_medium=video&utm_campaign=Top+5+Battery+Only+Setups&utm_id=o3EJ98Rt0L8&utm_term=October-2026"
+    }
+   ]
+  },
+  "https://bit.ly/3VHLq5G": {
+   "url": "https://bit.ly/3VHLq5G",
+   "final": "https://us.store.tapo.com/products/smart-centralhub-tapo-h500?utm_source=ytb&utm_medium=influencer&utm_campaign=snowstead",
+   "final_host": "us.store.tapo.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3VHLq5G",
+     "status": "301",
+     "location": "https://us.store.tapo.com/products/smart-centralhub-tapo-h500?utm_source=ytb&utm_medium=influencer&utm_campaign=snowstead"
+    }
+   ]
+  },
+  "https://bit.ly/3VMPU8r": {
+   "url": "https://bit.ly/3VMPU8r",
+   "final": "https://mechanicalpeexamprep.thinkific.com/courses/daily-insights",
+   "final_host": "mechanicalpeexamprep.thinkific.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3VMPU8r",
+     "status": "301",
+     "location": "https://mechanicalpeexamprep.thinkific.com/courses/daily-insights"
+    }
+   ]
+  },
+  "https://bit.ly/3WcFMJ4": {
+   "url": "https://bit.ly/3WcFMJ4",
+   "final": "https://www.amazon.com/X-Sense-Wireless-Interconnected-Combination-Transmission/dp/B09T38V2SW?maas=maas_adg_4DCD25A6E484401F849353AE6D9236BE_afap_abs&ref_=aa_maas&tag=maas&th=1",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3WcFMJ4",
+     "status": "301",
+     "location": "https://www.amazon.com/X-Sense-Wireless-Interconnected-Combination-Transmission/dp/B09T38V2SW?maas=maas_adg_4DCD25A6E484401F849353AE6D9236BE_afap_abs&ref_=aa_maas&tag=maas&th=1"
+    }
+   ]
+  },
+  "https://bit.ly/3WjsQOA": {
+   "url": "https://bit.ly/3WjsQOA",
+   "final": "https://fuseservice.com/?spdirect=ls66vhrt8g",
+   "final_host": "fuseservice.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3WjsQOA",
+     "status": "301",
+     "location": "https://fuseservice.com/?spdirect=ls66vhrt8g"
+    }
+   ]
+  },
+  "https://bit.ly/3ZMdpAo": {
+   "url": "https://bit.ly/3ZMdpAo",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#29_Anker_21W_Dual_USB_Solar_Charger",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3ZMdpAo",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#29_Anker_21W_Dual_USB_Solar_Charger"
+    }
+   ]
+  },
+  "https://bit.ly/3ZPl1lA": {
+   "url": "https://bit.ly/3ZPl1lA",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#20_Stop_Go_Tire_Plugger_Kit",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3ZPl1lA",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#20_Stop_Go_Tire_Plugger_Kit"
+    }
+   ]
+  },
+  "https://bit.ly/3ZXvv2U": {
+   "url": "https://bit.ly/3ZXvv2U",
+   "final": "https://www.hungryroot.com/?promo=TUBE&b=641&utm_source=tylertube&utm_medium=influencer&utm_campaign=veritone-youtube",
+   "final_host": "hungryroot.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3ZXvv2U",
+     "status": "301",
+     "location": "https://www.hungryroot.com/?promo=TUBE&b=641&utm_source=tylertube&utm_medium=influencer&utm_campaign=veritone-youtube"
+    }
+   ]
+  },
+  "https://bit.ly/3Zc5P1W": {
+   "url": "https://bit.ly/3Zc5P1W",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#13_Savior_Heated_Gloves",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3Zc5P1W",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#13_Savior_Heated_Gloves"
+    }
+   ]
+  },
+  "https://bit.ly/3ZzCAmR": {
+   "url": "https://bit.ly/3ZzCAmR",
+   "final": "https://www.ecobee.com/citizen/how-a-smart-thermostat-can-provide-peace-of-mind-to-aging-adults?utm_source=organic_youtube&utm_medium=social&utm_campaign=bbcfilm&utm_id=bbcfilm&utm_content=blog2423",
+   "final_host": "ecobee.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3ZzCAmR",
+     "status": "301",
+     "location": "https://www.ecobee.com/citizen/how-a-smart-thermostat-can-provide-peace-of-mind-to-aging-adults?utm_source=organic_youtube&utm_medium=social&utm_campaign=bbcfilm&utm_id=bbcfilm&utm_content=blog2423"
+    }
+   ]
+  },
+  "https://bit.ly/3c3Gw7S": {
+   "url": "https://bit.ly/3c3Gw7S",
+   "final": "https://self.inc/refer/12360117",
+   "final_host": "self.inc",
+   "hops": [
+    {
+     "url": "https://bit.ly/3c3Gw7S",
+     "status": "301",
+     "location": "https://self.inc/refer/12360117"
+    }
+   ]
+  },
+  "https://bit.ly/3c3Gw7S\u200b": {
+   "url": "https://bit.ly/3c3Gw7S\u200b",
+   "final": "https://self.inc/refer/12360117",
+   "final_host": "self.inc",
+   "hops": [
+    {
+     "url": "https://bit.ly/3c3Gw7S\u200b",
+     "status": "301",
+     "location": "https://self.inc/refer/12360117"
+    }
+   ]
+  },
+  "https://bit.ly/3du8kof": {
+   "url": "https://bit.ly/3du8kof",
+   "final": "https://youtu.be/pCFsroLfTaI",
+   "final_host": "youtu.be",
+   "hops": [
+    {
+     "url": "https://bit.ly/3du8kof",
+     "status": "301",
+     "location": "https://youtu.be/pCFsroLfTaI"
+    }
+   ]
+  },
+  "https://bit.ly/3eFr2gJ": {
+   "url": "https://bit.ly/3eFr2gJ",
+   "final": "https://www.knaufinsulation.com.au/resources/literature/references/birdsville?utm_source=youtube&utm_medium=video&utm_campaign=case+study",
+   "final_host": "knaufinsulation.com.au",
+   "hops": [
+    {
+     "url": "https://bit.ly/3eFr2gJ",
+     "status": "301",
+     "location": "https://www.knaufinsulation.com.au/resources/literature/references/birdsville?utm_source=youtube&utm_medium=video&utm_campaign=case+study"
+    }
+   ]
+  },
+  "https://bit.ly/3gVvIdM": {
+   "url": "https://bit.ly/3gVvIdM",
+   "final": "https://rstyle.me/+xaduRy4xleOFpItLfK76SQ",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/3gVvIdM",
+     "status": "301",
+     "location": "https://rstyle.me/+xaduRy4xleOFpItLfK76SQ"
+    }
+   ]
+  },
+  "https://bit.ly/3gY1ZB0": {
+   "url": "https://bit.ly/3gY1ZB0",
+   "final": "https://rstyle.me/+71ToShrjDsvCFsT2-CkCnw",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/3gY1ZB0",
+     "status": "301",
+     "location": "https://rstyle.me/+71ToShrjDsvCFsT2-CkCnw"
+    }
+   ]
+  },
+  "https://bit.ly/3gfe5YL": {
+   "url": "https://bit.ly/3gfe5YL",
+   "final": "https://www.youtube.com/channel/UC4v2tQ8GqP0RbmAzhp4IFkQ",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3gfe5YL",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UC4v2tQ8GqP0RbmAzhp4IFkQ"
+    }
+   ]
+  },
+  "https://bit.ly/3hBOdaf": {
+   "url": "https://bit.ly/3hBOdaf",
+   "final": "https://youtube.com/playlist?list=PL8eqcjvgrQ4WVN33EysG_DklxXhHVUv06",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3hBOdaf",
+     "status": "301",
+     "location": "https://youtube.com/playlist?list=PL8eqcjvgrQ4WVN33EysG_DklxXhHVUv06"
+    }
+   ]
+  },
+  "https://bit.ly/3joO1dZ": {
+   "url": "https://bit.ly/3joO1dZ",
+   "final": "https://www.youtube.com/c/SmartHomeSolver?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3joO1dZ",
+     "status": "301",
+     "location": "https://www.youtube.com/c/SmartHomeSolver?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://bit.ly/3k6qQWv": {
+   "url": "https://bit.ly/3k6qQWv",
+   "final": "https://www.youtube.com/watch?v=TBvTNj3vq5k&list=PLMCvRxq4QdccLFEd53JSsRaGNk18nGeMF",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3k6qQWv",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=TBvTNj3vq5k&list=PLMCvRxq4QdccLFEd53JSsRaGNk18nGeMF"
+    }
+   ]
+  },
+  "https://bit.ly/3lAWqwo": {
+   "url": "https://bit.ly/3lAWqwo",
+   "final": "https://www.eblofficial.com/collections/solar-panels/products/100w-portable-solar-panels",
+   "final_host": "eblofficial.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3lAWqwo",
+     "status": "301",
+     "location": "https://www.eblofficial.com/collections/solar-panels/products/100w-portable-solar-panels"
+    }
+   ]
+  },
+  "https://bit.ly/3qCwWiW": {
+   "url": "https://bit.ly/3qCwWiW",
+   "final": "https://www.epidemicsound.com/referral/se8go0/",
+   "final_host": "epidemicsound.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3qCwWiW",
+     "status": "301",
+     "location": "https://www.epidemicsound.com/referral/se8go0/"
+    }
+   ]
+  },
+  "https://bit.ly/3srOlgK": {
+   "url": "https://bit.ly/3srOlgK",
+   "final": "https://bit.ly/3srOlgK",
+   "final_host": "bit.ly",
+   "hops": [
+    {
+     "url": "https://bit.ly/3srOlgK",
+     "status": "410",
+     "location": ""
+    }
+   ]
+  },
+  "https://bit.ly/3u7C6Zg": {
+   "url": "https://bit.ly/3u7C6Zg",
+   "final": "https://www.jdoqocy.com/click-100564306-11555947?url=https://www.northerntool.com/",
+   "final_host": "jdoqocy.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3u7C6Zg",
+     "status": "301",
+     "location": "https://www.jdoqocy.com/click-100564306-11555947?url=https://www.northerntool.com/"
+    }
+   ]
+  },
+  "https://bit.ly/3vMga6S": {
+   "url": "https://bit.ly/3vMga6S",
+   "final": "https://www.patreon.com/Forevertech",
+   "final_host": "patreon.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3vMga6S",
+     "status": "301",
+     "location": "https://www.patreon.com/Forevertech"
+    }
+   ]
+  },
+  "https://bit.ly/3vNT7s3": {
+   "url": "https://bit.ly/3vNT7s3",
+   "final": "https://www.youtube.com/channel/UCSIClXw_5lT1buMo2BM6q7g?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3vNT7s3",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCSIClXw_5lT1buMo2BM6q7g?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://bit.ly/3wrAt7A": {
+   "url": "https://bit.ly/3wrAt7A",
+   "final": "https://sendfox.com/AliDymock/c/x0lry9/next-week",
+   "final_host": "sendfox.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3wrAt7A",
+     "status": "301",
+     "location": "https://sendfox.com/AliDymock/c/x0lry9/next-week"
+    }
+   ]
+  },
+  "https://bit.ly/3xWhVwZ": {
+   "url": "https://bit.ly/3xWhVwZ",
+   "final": "https://www.cityprepping.com/getstarted/",
+   "final_host": "cityprepping.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3xWhVwZ",
+     "status": "301",
+     "location": "https://www.cityprepping.com/getstarted/"
+    }
+   ]
+  },
+  "https://bit.ly/3xZhWlY": {
+   "url": "https://bit.ly/3xZhWlY",
+   "final": "https://cityprepping.com/the-preppers-roadmap",
+   "final_host": "cityprepping.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3xZhWlY",
+     "status": "301",
+     "location": "https://cityprepping.com/the-preppers-roadmap"
+    }
+   ]
+  },
+  "https://bit.ly/3xuQ3zb": {
+   "url": "https://bit.ly/3xuQ3zb",
+   "final": "https://www.buymeacoffee.com/charliediyte",
+   "final_host": "buymeacoffee.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/3xuQ3zb",
+     "status": "301",
+     "location": "https://www.buymeacoffee.com/charliediyte"
+    }
+   ]
+  },
+  "https://bit.ly/400rfzR": {
+   "url": "https://bit.ly/400rfzR",
+   "final": "https://www.youtube.com/watch?v=mb5p55ruXeM&t=289s",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/400rfzR",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=mb5p55ruXeM&t=289s"
+    }
+   ]
+  },
+  "https://bit.ly/41jCEub": {
+   "url": "https://bit.ly/41jCEub",
+   "final": "https://rstyle.me/+gxyb2xjlxTpizlhY4PLezA",
+   "final_host": "rstyle.me",
+   "hops": [
+    {
+     "url": "https://bit.ly/41jCEub",
+     "status": "301",
+     "location": "https://rstyle.me/+gxyb2xjlxTpizlhY4PLezA"
+    }
+   ]
+  },
+  "https://bit.ly/41lF2ia": {
+   "url": "https://bit.ly/41lF2ia",
+   "final": "https://www.zerobreeze.com/",
+   "final_host": "zerobreeze.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/41lF2ia",
+     "status": "301",
+     "location": "https://www.zerobreeze.com/"
+    }
+   ]
+  },
+  "https://bit.ly/42EoHrx": {
+   "url": "https://bit.ly/42EoHrx",
+   "final": "https://www.youtube.com/@TipsClever",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/42EoHrx",
+     "status": "301",
+     "location": "https://www.youtube.com/@TipsClever"
+    }
+   ]
+  },
+  "https://bit.ly/43HkdAw": {
+   "url": "https://bit.ly/43HkdAw",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#1_Alpinestars_Tech-Air_5_Airbag_Vest",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/43HkdAw",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#1_Alpinestars_Tech-Air_5_Airbag_Vest"
+    }
+   ]
+  },
+  "https://bit.ly/43J5chB": {
+   "url": "https://bit.ly/43J5chB",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#4_Monimoto_9_GPS_Tracker",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/43J5chB",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#4_Monimoto_9_GPS_Tracker"
+    }
+   ]
+  },
+  "https://bit.ly/43PMR2A": {
+   "url": "https://bit.ly/43PMR2A",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#14_Quad_Lock_Motorcycle_Phone_Mount",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/43PMR2A",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#14_Quad_Lock_Motorcycle_Phone_Mount"
+    }
+   ]
+  },
+  "https://bit.ly/44296U8": {
+   "url": "https://bit.ly/44296U8",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#19_Battery_Tender_Junior_Charger",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/44296U8",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#19_Battery_Tender_Junior_Charger"
+    }
+   ]
+  },
+  "https://bit.ly/453GLhf": {
+   "url": "https://bit.ly/453GLhf",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#9_Beeline_Moto_Navigation_Device",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/453GLhf",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#9_Beeline_Moto_Navigation_Device"
+    }
+   ]
+  },
+  "https://bit.ly/458mbw9": {
+   "url": "https://bit.ly/458mbw9",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#5_INNOVV_K5_Dashcam",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/458mbw9",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#5_INNOVV_K5_Dashcam"
+    }
+   ]
+  },
+  "https://bit.ly/459YLXg": {
+   "url": "https://bit.ly/459YLXg",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#3_GoPro_HERO12_Black_Camera",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/459YLXg",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#3_GoPro_HERO12_Black_Camera"
+    }
+   ]
+  },
+  "https://bit.ly/45FnhzH": {
+   "url": "https://bit.ly/45FnhzH",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#25_BOSS_Audio_Bluetooth_Speakers",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/45FnhzH",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#25_BOSS_Audio_Bluetooth_Speakers"
+    }
+   ]
+  },
+  "https://bit.ly/464MS2j": {
+   "url": "https://bit.ly/464MS2j",
+   "final": "https://www.screwfix.com/p/skil-sd1e3225ca-20v-li-ion-pwrcore-20-brushless-cordless-impact-driver-bare/686kg",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/464MS2j",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-sd1e3225ca-20v-li-ion-pwrcore-20-brushless-cordless-impact-driver-bare/686kg"
+    }
+   ]
+  },
+  "https://bit.ly/478aBB5": {
+   "url": "https://bit.ly/478aBB5",
+   "final": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/atg-maxiflex-elite-34-274",
+   "final_host": "startsafety.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/478aBB5",
+     "status": "301",
+     "location": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/atg-maxiflex-elite-34-274"
+    }
+   ]
+  },
+  "https://bit.ly/47EnZx3": {
+   "url": "https://bit.ly/47EnZx3",
+   "final": "https://on.ltk.com/+wb9gFn82XBM45-Mp2mzIxw",
+   "final_host": "on.ltk.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/47EnZx3",
+     "status": "301",
+     "location": "https://on.ltk.com/+wb9gFn82XBM45-Mp2mzIxw"
+    }
+   ]
+  },
+  "https://bit.ly/47F1o3u": {
+   "url": "https://bit.ly/47F1o3u",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#2_Remington_F5_Power_Series_Foil_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/47F1o3u",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#2_Remington_F5_Power_Series_Foil_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/47aO4Eu": {
+   "url": "https://bit.ly/47aO4Eu",
+   "final": "https://us.ecoflow.com/pages/black-friday?linkId=HVACR_25BFCM_black_friday_2025_youtube&affluencerId=HVACR_25BFCM&aff=813&utm_source=youtube&utm_medium=kol&utm_campaign=black_friday_2025&utm_content=hvacrsurvival",
+   "final_host": "us.ecoflow.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/47aO4Eu",
+     "status": "301",
+     "location": "https://us.ecoflow.com/pages/black-friday?linkId=HVACR_25BFCM_black_friday_2025_youtube&affluencerId=HVACR_25BFCM&aff=813&utm_source=youtube&utm_medium=kol&utm_campaign=black_friday_2025&utm_content=hvacrsurvival"
+    }
+   ]
+  },
+  "https://bit.ly/48kgRWJ": {
+   "url": "https://bit.ly/48kgRWJ",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#8_Braun_Series_9_PRO_Electric_Shaver_9660CCPS",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/48kgRWJ",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#8_Braun_Series_9_PRO_Electric_Shaver_9660CCPS"
+    }
+   ]
+  },
+  "https://bit.ly/49GoPJT": {
+   "url": "https://bit.ly/49GoPJT",
+   "final": "https://www.youtube.com/watch?v=yCoJA3oUq1I&t=3s",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/49GoPJT",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=yCoJA3oUq1I&t=3s"
+    }
+   ]
+  },
+  "https://bit.ly/49N8ao6": {
+   "url": "https://bit.ly/49N8ao6",
+   "final": "https://www.youtube.com/watch?v=_UnTc1RY-l8&t=638s",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/49N8ao6",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=_UnTc1RY-l8&t=638s"
+    }
+   ]
+  },
+  "https://bit.ly/4AVM0Nn": {
+   "url": "https://bit.ly/4AVM0Nn",
+   "final": "https://www.ironmongerydirect.co.uk/product/metal-shelf-support-7mm-diameter-polished-brass-pack-of-50-430569?mm_rf=mm_cb1a1f3dd61b4809ae8e",
+   "final_host": "ironmongerydirect.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4AVM0Nn",
+     "status": "301",
+     "location": "https://www.ironmongerydirect.co.uk/product/metal-shelf-support-7mm-diameter-polished-brass-pack-of-50-430569?mm_rf=mm_cb1a1f3dd61b4809ae8e"
+    }
+   ]
+  },
+  "https://bit.ly/4B0ZIP7": {
+   "url": "https://bit.ly/4B0ZIP7",
+   "final": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-sonis-compact-head-band-ear-defenders-grey-orange",
+   "final_host": "startsafety.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4B0ZIP7",
+     "status": "301",
+     "location": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-sonis-compact-head-band-ear-defenders-grey-orange"
+    }
+   ]
+  },
+  "https://bit.ly/4B8DZEX": {
+   "url": "https://bit.ly/4B8DZEX",
+   "final": "https://www.lowes.com/pl/The-weekender-season-9-episode-7/2710620242472?cm_mmc=vc-_-c-_-prd-_-mdv-_-yt-_-mn-_-per-_-twe-_-907-_-mrch_bckt",
+   "final_host": "lowes.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4B8DZEX",
+     "status": "301",
+     "location": "https://www.lowes.com/pl/The-weekender-season-9-episode-7/2710620242472?cm_mmc=vc-_-c-_-prd-_-mdv-_-yt-_-mn-_-per-_-twe-_-907-_-mrch_bckt"
+    }
+   ]
+  },
+  "https://bit.ly/4BB1kQ7": {
+   "url": "https://bit.ly/4BB1kQ7",
+   "final": "https://heatable.co.uk/heat-pumps?utm_source=YouTube&utm_medium=Organic&utm_campaign=mr-ev-install",
+   "final_host": "heatable.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4BB1kQ7",
+     "status": "301",
+     "location": "https://heatable.co.uk/heat-pumps?utm_source=YouTube&utm_medium=Organic&utm_campaign=mr-ev-install"
+    }
+   ]
+  },
+  "https://bit.ly/4Bez0To": {
+   "url": "https://bit.ly/4Bez0To",
+   "final": "https://www.toolnation.com/skil-va1e1860aa-router-machine-55mm-1400w.html",
+   "final_host": "toolnation.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4Bez0To",
+     "status": "301",
+     "location": "https://www.toolnation.com/skil-va1e1860aa-router-machine-55mm-1400w.html"
+    }
+   ]
+  },
+  "https://bit.ly/4BmYL43": {
+   "url": "https://bit.ly/4BmYL43",
+   "final": "https://www.fergusonhome.com/baldwin-6001-000/s272724?srsltid=AfmBOoojzmxWh8FE-BKriy2-mYWN_GPwc44ECUX2a4_Ko5wIiMPtwuZA",
+   "final_host": "fergusonhome.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4BmYL43",
+     "status": "301",
+     "location": "https://www.fergusonhome.com/baldwin-6001-000/s272724?srsltid=AfmBOoojzmxWh8FE-BKriy2-mYWN_GPwc44ECUX2a4_Ko5wIiMPtwuZA"
+    }
+   ]
+  },
+  "https://bit.ly/4a4bL1l": {
+   "url": "https://bit.ly/4a4bL1l",
+   "final": "https://iheat.co.uk/solar?utm_source=youtube&utm_medium=video&utm_campaign=Duracell+Rick+Home+Install&utm_id=GnZIHwdO--0&utm_term=January+2026",
+   "final_host": "iheat.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4a4bL1l",
+     "status": "301",
+     "location": "https://iheat.co.uk/solar?utm_source=youtube&utm_medium=video&utm_campaign=Duracell+Rick+Home+Install&utm_id=GnZIHwdO--0&utm_term=January+2026"
+    }
+   ]
+  },
+  "https://bit.ly/4b0wLaZ": {
+   "url": "https://bit.ly/4b0wLaZ",
+   "final": "https://mycertainpath.com/book-a-call/?utm_source=Book_a_Call&utm_medium=YouTube&utm_campaign=TSC+Podcast&utm_id=The+Successful+Contractor+Podcast&utm_term=2026&utm_content=YT+Book+Call",
+   "final_host": "mycertainpath.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4b0wLaZ",
+     "status": "301",
+     "location": "https://mycertainpath.com/book-a-call/?utm_source=Book_a_Call&utm_medium=YouTube&utm_campaign=TSC+Podcast&utm_id=The+Successful+Contractor+Podcast&utm_term=2026&utm_content=YT+Book+Call"
+    }
+   ]
+  },
+  "https://bit.ly/4b5r23v": {
+   "url": "https://bit.ly/4b5r23v",
+   "final": "https://www.screwfix.com/p/skil-sw1e3571ca-184mm-20v-li-ion-pwrcore-20-brushless-cordless-circular-saw-bare/475kn",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4b5r23v",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-sw1e3571ca-184mm-20v-li-ion-pwrcore-20-brushless-cordless-circular-saw-bare/475kn"
+    }
+   ]
+  },
+  "https://bit.ly/4bDvkPJ": {
+   "url": "https://bit.ly/4bDvkPJ",
+   "final": "https://www.screwfix.com/p/skil-cd1e3085ca-20v-li-ion-pwrcore-20-brushless-cordless-hammer-drill-bare/312kn",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4bDvkPJ",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-cd1e3085ca-20v-li-ion-pwrcore-20-brushless-cordless-hammer-drill-bare/312kn"
+    }
+   ]
+  },
+  "https://bit.ly/4bEbFPV": {
+   "url": "https://bit.ly/4bEbFPV",
+   "final": "https://www.factor75.com/pages/meal-delivery?version=influencer&c=FOOTPRINTHEROFB50&mealsize=1-8&utm_source=YouTube~Veritone&utm_medium=Influencer&utm_campaign=28bad965-d260-4d58-8d95-c92a54504794&discount_comm_id=cb29ead0-524f-4300-a211-ce6ce4edf4fc&utm_content=actandreact_influencer_vlogging",
+   "final_host": "factor75.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4bEbFPV",
+     "status": "301",
+     "location": "https://www.factor75.com/pages/meal-delivery?version=influencer&c=FOOTPRINTHEROFB50&mealsize=1-8&utm_source=YouTube~Veritone&utm_medium=Influencer&utm_campaign=28bad965-d260-4d58-8d95-c92a54504794&discount_comm_id=cb29ead0-524f-4300-a211-ce6ce4edf4fc&utm_content=actandreact_influencer_vlogging"
+    }
+   ]
+  },
+  "https://bit.ly/4bRgm5X": {
+   "url": "https://bit.ly/4bRgm5X",
+   "final": "https://heatable.co.uk/new-boilers?utm_source=YouTube&utm_medium=Organic+&utm_campaign=Center_Thermostat",
+   "final_host": "heatable.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4bRgm5X",
+     "status": "301",
+     "location": "https://heatable.co.uk/new-boilers?utm_source=YouTube&utm_medium=Organic+&utm_campaign=Center_Thermostat"
+    }
+   ]
+  },
+  "https://bit.ly/4dLNtuJ": {
+   "url": "https://bit.ly/4dLNtuJ",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#10_FOBO_Bike_2_TPMS",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4dLNtuJ",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#10_FOBO_Bike_2_TPMS"
+    }
+   ]
+  },
+  "https://bit.ly/4dNkXIR": {
+   "url": "https://bit.ly/4dNkXIR",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#18_PARKVISION_Rearview_Camera",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4dNkXIR",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#18_PARKVISION_Rearview_Camera"
+    }
+   ]
+  },
+  "https://bit.ly/4dNs2ZZ": {
+   "url": "https://bit.ly/4dNs2ZZ",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#23_EarPeace_Moto_Earplugs",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4dNs2ZZ",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#23_EarPeace_Moto_Earplugs"
+    }
+   ]
+  },
+  "https://bit.ly/4dOhSsi": {
+   "url": "https://bit.ly/4dOhSsi",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#22_Plugfones_Earplug-Earbuds",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4dOhSsi",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#22_Plugfones_Earplug-Earbuds"
+    }
+   ]
+  },
+  "https://bit.ly/4dS5uYe": {
+   "url": "https://bit.ly/4dS5uYe",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#17_OPT7_Aura_LED_Accent_Kit",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4dS5uYe",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#17_OPT7_Aura_LED_Accent_Kit"
+    }
+   ]
+  },
+  "https://bit.ly/4dUoPGM": {
+   "url": "https://bit.ly/4dUoPGM",
+   "final": "https://www.swifence.com/4-1-2-x-1-1-2-trident-steel-post-replacement-for-w.html?id=104067739&quantity=1",
+   "final_host": "swifence.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4dUoPGM",
+     "status": "301",
+     "location": "https://www.swifence.com/4-1-2-x-1-1-2-trident-steel-post-replacement-for-w.html?id=104067739&quantity=1"
+    }
+   ]
+  },
+  "https://bit.ly/4eFnhC1": {
+   "url": "https://bit.ly/4eFnhC1",
+   "final": "https://www.buzzsprout.com/twilio/text_messages/1198388/open_sms",
+   "final_host": "buzzsprout.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4eFnhC1",
+     "status": "301",
+     "location": "https://www.buzzsprout.com/twilio/text_messages/1198388/open_sms"
+    }
+   ]
+  },
+  "https://bit.ly/4ePGSRr": {
+   "url": "https://bit.ly/4ePGSRr",
+   "final": "https://on.ltk.com/+Pg3JeAqhPhnLDji90ZsGRg",
+   "final_host": "on.ltk.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4ePGSRr",
+     "status": "301",
+     "location": "https://on.ltk.com/+Pg3JeAqhPhnLDji90ZsGRg"
+    }
+   ]
+  },
+  "https://bit.ly/4eb2Xaz": {
+   "url": "https://bit.ly/4eb2Xaz",
+   "final": "https://www.screwfix.com/p/skil-bc1u3111aa-20v-4-0ah-li-ion-pwrcore-20-battery-charger-kit/403kg",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4eb2Xaz",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-bc1u3111aa-20v-4-0ah-li-ion-pwrcore-20-battery-charger-kit/403kg"
+    }
+   ]
+  },
+  "https://bit.ly/4ek3GJt": {
+   "url": "https://bit.ly/4ek3GJt",
+   "final": "https://www.toolnation.com/skil-bt1e3590ca-cordless-crosscut-saw-20v-216mm-excl-batteries-and-charger.html",
+   "final_host": "toolnation.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4ek3GJt",
+     "status": "301",
+     "location": "https://www.toolnation.com/skil-bt1e3590ca-cordless-crosscut-saw-20v-216mm-excl-batteries-and-charger.html"
+    }
+   ]
+  },
+  "https://bit.ly/4esi95x": {
+   "url": "https://bit.ly/4esi95x",
+   "final": "https://youtu.be/idIaLjkM09A",
+   "final_host": "youtu.be",
+   "hops": [
+    {
+     "url": "https://bit.ly/4esi95x",
+     "status": "301",
+     "location": "https://youtu.be/idIaLjkM09A"
+    }
+   ]
+  },
+  "https://bit.ly/4exYYY2": {
+   "url": "https://bit.ly/4exYYY2",
+   "final": "https://www.youtube.com/channel/UCSJdtteJDmHKgjJ5cT2fz7w",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4exYYY2",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCSJdtteJDmHKgjJ5cT2fz7w"
+    }
+   ]
+  },
+  "https://bit.ly/4fvO6Kd": {
+   "url": "https://bit.ly/4fvO6Kd",
+   "final": "https://www.screwfix.com/p/skil-br1e3107aa-20v-2-0ah-li-ion-pwrcore-20-battery/384kg",
+   "final_host": "screwfix.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4fvO6Kd",
+     "status": "301",
+     "location": "https://www.screwfix.com/p/skil-br1e3107aa-20v-2-0ah-li-ion-pwrcore-20-battery/384kg"
+    }
+   ]
+  },
+  "https://bit.ly/4gHLVlu": {
+   "url": "https://bit.ly/4gHLVlu",
+   "final": "https://www.mechanicalpeexamprep.com/hvac-and-refrigeration-full-access-bundle/",
+   "final_host": "mechanicalpeexamprep.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4gHLVlu",
+     "status": "301",
+     "location": "https://www.mechanicalpeexamprep.com/hvac-and-refrigeration-full-access-bundle/"
+    }
+   ]
+  },
+  "https://bit.ly/4gV8HGL": {
+   "url": "https://bit.ly/4gV8HGL",
+   "final": "https://www.mechanicalpeexamprep.com/category/blog/",
+   "final_host": "mechanicalpeexamprep.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4gV8HGL",
+     "status": "301",
+     "location": "https://www.mechanicalpeexamprep.com/category/blog/"
+    }
+   ]
+  },
+  "https://bit.ly/4hIXH2s": {
+   "url": "https://bit.ly/4hIXH2s",
+   "final": "https://www.ironmongerydirect.co.uk/product/shelf-support-socket-polished-brass-pack-of-50-251909",
+   "final_host": "ironmongerydirect.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4hIXH2s",
+     "status": "301",
+     "location": "https://www.ironmongerydirect.co.uk/product/shelf-support-socket-polished-brass-pack-of-50-251909"
+    }
+   ]
+  },
+  "https://bit.ly/4hR0m9b": {
+   "url": "https://bit.ly/4hR0m9b",
+   "final": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-force8-half-mask-with-presstocheck-p3-filters",
+   "final_host": "startsafety.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4hR0m9b",
+     "status": "301",
+     "location": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-force8-half-mask-with-presstocheck-p3-filters"
+    }
+   ]
+  },
+  "https://bit.ly/4hVMnyJ": {
+   "url": "https://bit.ly/4hVMnyJ",
+   "final": "https://www.baldwinhardwaredirect.com/baldwin-6552-baltimore-entrance-mortise-handleset/?searchid=452249&search_query=6552",
+   "final_host": "baldwinhardwaredirect.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4hVMnyJ",
+     "status": "301",
+     "location": "https://www.baldwinhardwaredirect.com/baldwin-6552-baltimore-entrance-mortise-handleset/?searchid=452249&search_query=6552"
+    }
+   ]
+  },
+  "https://bit.ly/4iDuV3G": {
+   "url": "https://bit.ly/4iDuV3G",
+   "final": "https://on.ltk.com/+VVd90sWZ9LVQypW0qKgzoA",
+   "final_host": "on.ltk.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4iDuV3G",
+     "status": "301",
+     "location": "https://on.ltk.com/+VVd90sWZ9LVQypW0qKgzoA"
+    }
+   ]
+  },
+  "https://bit.ly/4iFXAWl": {
+   "url": "https://bit.ly/4iFXAWl",
+   "final": "https://www.ecoflow.com/us/ecoflow-titan-series?linkId=SilverCymbal_titan_W_titan_youtube&affluencerId=SilverCymbal_titan_W&aff=37&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=silvercymbal",
+   "final_host": "ecoflow.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4iFXAWl",
+     "status": "301",
+     "location": "https://www.ecoflow.com/us/ecoflow-titan-series?linkId=SilverCymbal_titan_W_titan_youtube&affluencerId=SilverCymbal_titan_W&aff=37&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=silvercymbal"
+    }
+   ]
+  },
+  "https://bit.ly/4iJQKwm": {
+   "url": "https://bit.ly/4iJQKwm",
+   "final": "https://www.mechanicalpeexamprep.com/thermal-and-fluids-systems-full-access-bundle/",
+   "final_host": "mechanicalpeexamprep.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4iJQKwm",
+     "status": "301",
+     "location": "https://www.mechanicalpeexamprep.com/thermal-and-fluids-systems-full-access-bundle/"
+    }
+   ]
+  },
+  "https://bit.ly/4iYbxwy": {
+   "url": "https://bit.ly/4iYbxwy",
+   "final": "https://open.spotify.com/show/412sk12LFtiTkkbLT9ndyt",
+   "final_host": "open.spotify.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4iYbxwy",
+     "status": "301",
+     "location": "https://open.spotify.com/show/412sk12LFtiTkkbLT9ndyt"
+    }
+   ]
+  },
+  "https://bit.ly/4jBBOzY": {
+   "url": "https://bit.ly/4jBBOzY",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#7_Garmin_inReach_Mini_2",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4jBBOzY",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#7_Garmin_inReach_Mini_2"
+    }
+   ]
+  },
+  "https://bit.ly/4jCRaUN": {
+   "url": "https://bit.ly/4jCRaUN",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#30_Sena_Prism_Tube_Heads-Up_Display",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4jCRaUN",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#30_Sena_Prism_Tube_Heads-Up_Display"
+    }
+   ]
+  },
+  "https://bit.ly/4jtsJtm": {
+   "url": "https://bit.ly/4jtsJtm",
+   "final": "https://degeorgeplumbing.com/",
+   "final_host": "degeorgeplumbing.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4jtsJtm",
+     "status": "301",
+     "location": "https://degeorgeplumbing.com/"
+    }
+   ]
+  },
+  "https://bit.ly/4jwjJD5": {
+   "url": "https://bit.ly/4jwjJD5",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#6_Garmin_zumo_XT_GPS",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4jwjJD5",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#6_Garmin_zumo_XT_GPS"
+    }
+   ]
+  },
+  "https://bit.ly/4ktViHU": {
+   "url": "https://bit.ly/4ktViHU",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#24_Dango_Design_Helmet_LED_Light",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4ktViHU",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#24_Dango_Design_Helmet_LED_Light"
+    }
+   ]
+  },
+  "https://bit.ly/4kxeBjI": {
+   "url": "https://bit.ly/4kxeBjI",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#12_Oxford_Heaterz_Heated_Grips",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4kxeBjI",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#12_Oxford_Heaterz_Heated_Grips"
+    }
+   ]
+  },
+  "https://bit.ly/4mMSFm2": {
+   "url": "https://bit.ly/4mMSFm2",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#16_MTSEEEN_Helmet_Brake_Light",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4mMSFm2",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#16_MTSEEEN_Helmet_Brake_Light"
+    }
+   ]
+  },
+  "https://bit.ly/4mRAJXy": {
+   "url": "https://bit.ly/4mRAJXy",
+   "final": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#28_Apple_AirTag",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4mRAJXy",
+     "status": "301",
+     "location": "https://consumer-picked.com/30-must-have-motorcycle-gadgets/#28_Apple_AirTag"
+    }
+   ]
+  },
+  "https://bit.ly/4pVSmqI": {
+   "url": "https://bit.ly/4pVSmqI",
+   "final": "https://us.ecoflow.com/products/delta-pro-ultra-x?linkId=HVACRSurvival_DPUX_dpux_youtube&affluencerId=HVACRSurvival_DPUX&aff=813&utm_source=youtube&utm_medium=kol&utm_campaign=dpux&utm_content=hvacrsurvival",
+   "final_host": "us.ecoflow.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4pVSmqI",
+     "status": "301",
+     "location": "https://us.ecoflow.com/products/delta-pro-ultra-x?linkId=HVACRSurvival_DPUX_dpux_youtube&affluencerId=HVACRSurvival_DPUX&aff=813&utm_source=youtube&utm_medium=kol&utm_campaign=dpux&utm_content=hvacrsurvival"
+    }
+   ]
+  },
+  "https://bit.ly/4rUcRFr": {
+   "url": "https://bit.ly/4rUcRFr",
+   "final": "https://www.amazon.co.uk/dp/B0G436S5JP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1",
+   "final_host": "amazon.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4rUcRFr",
+     "status": "301",
+     "location": "https://www.amazon.co.uk/dp/B0G436S5JP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1"
+    }
+   ]
+  },
+  "https://bit.ly/4rr7ZHT": {
+   "url": "https://bit.ly/4rr7ZHT",
+   "final": "https://www.ecoflow.com/us/ecoflow-titan-series?linkId=TKCL_titan_W_titan_youtube&affluencerId=TKCL_titan_W&aff=593&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=thekelley'scountrylife",
+   "final_host": "ecoflow.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4rr7ZHT",
+     "status": "301",
+     "location": "https://www.ecoflow.com/us/ecoflow-titan-series?linkId=TKCL_titan_W_titan_youtube&affluencerId=TKCL_titan_W&aff=593&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=thekelley'scountrylife"
+    }
+   ]
+  },
+  "https://bit.ly/4s4w8UI": {
+   "url": "https://bit.ly/4s4w8UI",
+   "final": "https://www.x-sense.com/products/sc07-w-wireless-interconnected-combination-smoke-and-carbon-monoxide-detector?_pos=1&_sid=dada4c04b&_ss=r&variant=43019827282160&utm_source=youtube&utm_medium=influencer&utm_campaign=US_video_SC07-W_Halloween_20261016-20261031_minutemansolar&utm_creative_format=video",
+   "final_host": "x-sense.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4s4w8UI",
+     "status": "301",
+     "location": "https://www.x-sense.com/products/sc07-w-wireless-interconnected-combination-smoke-and-carbon-monoxide-detector?_pos=1&_sid=dada4c04b&_ss=r&variant=43019827282160&utm_source=youtube&utm_medium=influencer&utm_campaign=US_video_SC07-W_Halloween_20261016-20261031_minutemansolar&utm_creative_format=video"
+    }
+   ]
+  },
+  "https://bit.ly/4sGwX6c": {
+   "url": "https://bit.ly/4sGwX6c",
+   "final": "https://rrbtools.com/products/rr-tool-belt?utm_source=social&utm_medium=organicyoutube&utm_campaign=rrbtools",
+   "final_host": "rrbtools.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4sGwX6c",
+     "status": "301",
+     "location": "https://rrbtools.com/products/rr-tool-belt?utm_source=social&utm_medium=organicyoutube&utm_campaign=rrbtools"
+    }
+   ]
+  },
+  "https://bit.ly/4xrmVI5": {
+   "url": "https://bit.ly/4xrmVI5",
+   "final": "https://www.youtube.com/watch?v=exKey0ltbGY&t=42s",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4xrmVI5",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=exKey0ltbGY&t=42s"
+    }
+   ]
+  },
+  "https://bit.ly/4xvtZUd": {
+   "url": "https://bit.ly/4xvtZUd",
+   "final": "https://www.youtube.com/watch?v=hbrhW4SBpYE",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4xvtZUd",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=hbrhW4SBpYE"
+    }
+   ]
+  },
+  "https://bit.ly/4xzmzhF": {
+   "url": "https://bit.ly/4xzmzhF",
+   "final": "https://us.store.tapo.com/products/tapo-c675d-kit?utm_source=ytb&utm_medium=influencer&utm_campaign=snowstead",
+   "final_host": "us.store.tapo.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4xzmzhF",
+     "status": "301",
+     "location": "https://us.store.tapo.com/products/tapo-c675d-kit?utm_source=ytb&utm_medium=influencer&utm_campaign=snowstead"
+    }
+   ]
+  },
+  "https://bit.ly/4yDUTZK": {
+   "url": "https://bit.ly/4yDUTZK",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#4_Philips_Norelco_7200_Electric_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4yDUTZK",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#4_Philips_Norelco_7200_Electric_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/4yEXh2c": {
+   "url": "https://bit.ly/4yEXh2c",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#5_Panasonic_ARC5_Electric_Razor_for_Men_5-Blade_Wet_Dry_Electric_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4yEXh2c",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#5_Panasonic_ARC5_Electric_Razor_for_Men_5-Blade_Wet_Dry_Electric_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/4yKdyTE": {
+   "url": "https://bit.ly/4yKdyTE",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#3_Braun_Series_5_Electric_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4yKdyTE",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#3_Braun_Series_5_Electric_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/4yd5bkf": {
+   "url": "https://bit.ly/4yd5bkf",
+   "final": "https://us.ecoflow.com/collections/new-release?linkId=SilverCymbal_titan_titan_youtube&affluencerId=SilverCymbal_titan&aff=37&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=silvercymbal",
+   "final_host": "us.ecoflow.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4yd5bkf",
+     "status": "301",
+     "location": "https://us.ecoflow.com/collections/new-release?linkId=SilverCymbal_titan_titan_youtube&affluencerId=SilverCymbal_titan&aff=37&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=silvercymbal"
+    }
+   ]
+  },
+  "https://bit.ly/4yjct4U": {
+   "url": "https://bit.ly/4yjct4U",
+   "final": "https://uk.dreo.com/pages/heater-series?utm_campaign=IPMS90&utm_source=KOL_Youtube&utm_medium=Conversion&utm_content=Dedicated_Review&utm_term=Lords Electrical",
+   "final_host": "uk.dreo.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4yjct4U",
+     "status": "301",
+     "location": "https://uk.dreo.com/pages/heater-series?utm_campaign=IPMS90&utm_source=KOL_Youtube&utm_medium=Conversion&utm_content=Dedicated_Review&utm_term=Lords Electrical"
+    }
+   ]
+  },
+  "https://bit.ly/4yvMj01": {
+   "url": "https://bit.ly/4yvMj01",
+   "final": "https://us.ecoflow.com/collections/new-release?linkId=TKCL_titan_titan_youtube&affluencerId=TKCL_titan&aff=593&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=thekelley'scountrylife",
+   "final_host": "us.ecoflow.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4yvMj01",
+     "status": "301",
+     "location": "https://us.ecoflow.com/collections/new-release?linkId=TKCL_titan_titan_youtube&affluencerId=TKCL_titan&aff=593&utm_source=youtube&utm_medium=kol&utm_campaign=titan&utm_content=thekelley'scountrylife"
+    }
+   ]
+  },
+  "https://bit.ly/4zQa03d": {
+   "url": "https://bit.ly/4zQa03d",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#6_Philips_Norelco_i9000_Electric_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4zQa03d",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#6_Philips_Norelco_i9000_Electric_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/4zTz35u": {
+   "url": "https://bit.ly/4zTz35u",
+   "final": "https://consumer-picked.com/best-electric-shavers-2026/#7_Philips_Norelco_i9000_Prestige_Ultra_Electric_Shaver",
+   "final_host": "consumer-picked.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/4zTz35u",
+     "status": "301",
+     "location": "https://consumer-picked.com/best-electric-shavers-2026/#7_Philips_Norelco_i9000_Prestige_Ultra_Electric_Shaver"
+    }
+   ]
+  },
+  "https://bit.ly/4ztEs35": {
+   "url": "https://bit.ly/4ztEs35",
+   "final": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-presstocheck-p3-dust-filters-2-pack",
+   "final_host": "startsafety.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/4ztEs35",
+     "status": "301",
+     "location": "https://startsafety.uk/discount/CHARLIEDIY?redirect=/products/jsp-presstocheck-p3-dust-filters-2-pack"
+    }
+   ]
+  },
+  "https://bit.ly/AreteOne12L": {
+   "url": "https://bit.ly/AreteOne12L",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-12l-arete-one-dehumidifier-and-air-purifier-white-areteone12l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/AreteOne12L",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-12l-arete-one-dehumidifier-and-air-purifier-white-areteone12l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/AreteOne20L": {
+   "url": "https://bit.ly/AreteOne20L",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-20l-arete-one-dehumidifier-and-air-purifier-white-areteone20l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifer",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/AreteOne20L",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-20l-arete-one-dehumidifier-and-air-purifier-white-areteone20l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifer"
+    }
+   ]
+  },
+  "https://bit.ly/AreteOne25L": {
+   "url": "https://bit.ly/AreteOne25L",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-25l-arete-one-dehumidifier-and-air-purifier-white-areteone25l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/AreteOne25L",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-25l-arete-one-dehumidifier-and-air-purifier-white-areteone25l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/AreteTwo12L": {
+   "url": "https://bit.ly/AreteTwo12L",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-arete-two-12l-dehumidifier-aretetwo12l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/AreteTwo12L",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-arete-two-12l-dehumidifier-aretetwo12l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/AreteTwo20L": {
+   "url": "https://bit.ly/AreteTwo20L",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-arete-two-20l-dehumidifier-aretetwo20l?utm_source=YouTube&utm_medium=Video&utm_campaign=https://www.youtube.com/watch%3Fv%3D6YCa0OhanFw&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/AreteTwo20L",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-arete-two-20l-dehumidifier-aretetwo20l?utm_source=YouTube&utm_medium=Video&utm_campaign=https://www.youtube.com/watch%3Fv%3D6YCa0OhanFw&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/AreteTwo25L": {
+   "url": "https://bit.ly/AreteTwo25L",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-arete-two-25l-dehumidifier-aretetwo25l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/AreteTwo25L",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-arete-two-25l-dehumidifier-aretetwo25l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/CasticoShowerKit": {
+   "url": "https://bit.ly/CasticoShowerKit",
+   "final": "https://www.homedepot.com/b/Bath-Showers-Shower-Stalls-Kits/N-5yc1vZbza7/Ntk-elasticplus/Ntt-castico?Ntx=mode+matchpartialmax&NCNI-5=&visNavSearch=castico&utm_source=youtube&utm_medium=video&utm_campaign=miiler+kit",
+   "final_host": "homedepot.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/CasticoShowerKit",
+     "status": "301",
+     "location": "https://www.homedepot.com/b/Bath-Showers-Shower-Stalls-Kits/N-5yc1vZbza7/Ntk-elasticplus/Ntt-castico?Ntx=mode+matchpartialmax&NCNI-5=&visNavSearch=castico&utm_source=youtube&utm_medium=video&utm_campaign=miiler+kit"
+    }
+   ]
+  },
+  "https://bit.ly/EnviroEmpressIgniter": {
+   "url": "https://bit.ly/EnviroEmpressIgniter",
+   "final": "https://pellethead.com/product/pellethead-replacement-enviro-vistaflame-400-watt-igniter-starter-element/?sld=2",
+   "final_host": "pellethead.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/EnviroEmpressIgniter",
+     "status": "301",
+     "location": "https://pellethead.com/product/pellethead-replacement-enviro-vistaflame-400-watt-igniter-starter-element/?sld=2"
+    }
+   ]
+  },
+  "https://bit.ly/GreenhillYT": {
+   "url": "https://bit.ly/GreenhillYT",
+   "final": "https://www.youtube.com/channel/UCkmEk3ldK7uJ1OvdLKwGrxg?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/GreenhillYT",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCkmEk3ldK7uJ1OvdLKwGrxg?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://bit.ly/HVAC6Functions": {
+   "url": "https://bit.ly/HVAC6Functions",
+   "final": "https://www.youtube.com/watch?v=O0rWBkBeW4Y",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/HVAC6Functions",
+     "status": "301",
+     "location": "https://www.youtube.com/watch?v=O0rWBkBeW4Y"
+    }
+   ]
+  },
+  "https://bit.ly/JoinProbeLem": {
+   "url": "https://bit.ly/JoinProbeLem",
+   "final": "https://www.youtube.com/channel/UCfsNbViu-G8TnbteFo8RCxQ/join",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/JoinProbeLem",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCfsNbViu-G8TnbteFo8RCxQ/join"
+    }
+   ]
+  },
+  "https://bit.ly/MH_email": {
+   "url": "https://bit.ly/MH_email",
+   "final": "https://mechanical-hub.com/enewsletter/",
+   "final_host": "mechanical-hub.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/MH_email",
+     "status": "301",
+     "location": "https://mechanical-hub.com/enewsletter/"
+    }
+   ]
+  },
+  "https://bit.ly/Meaco-Arete-12L-HEPA-Pack": {
+   "url": "https://bit.ly/Meaco-Arete-12L-HEPA-Pack",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-arete-one-h13-12l-hepa-filter-meahepah13-12l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/Meaco-Arete-12L-HEPA-Pack",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-arete-one-h13-12l-hepa-filter-meahepah13-12l?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/Meaco-Arete-20L-25L-HEPA-Pack": {
+   "url": "https://bit.ly/Meaco-Arete-20L-25L-HEPA-Pack",
+   "final": "https://www.airconcentre.co.uk/products/meacodry-arete-one-h13-hepa-filter-meahepah13?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier",
+   "final_host": "airconcentre.co.uk",
+   "hops": [
+    {
+     "url": "https://bit.ly/Meaco-Arete-20L-25L-HEPA-Pack",
+     "status": "301",
+     "location": "https://www.airconcentre.co.uk/products/meacodry-arete-one-h13-hepa-filter-meahepah13?utm_source=YouTube&utm_medium=Video&utm_campaign=Meaco+Arete+One+vs+Two:+Dehumidifier+SHOWDOWN!&utm_term=Meaco&utm_content=Dehumidifier"
+    }
+   ]
+  },
+  "https://bit.ly/PortablePowerStationsGuide": {
+   "url": "https://bit.ly/PortablePowerStationsGuide",
+   "final": "https://docs.google.com/spreadsheets/d/1jVvSFPihDJFzrf7gKAcd1Cn5L8e4X__Ac81D32ANB2s/edit?usp=sharing",
+   "final_host": "docs.google.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/PortablePowerStationsGuide",
+     "status": "301",
+     "location": "https://docs.google.com/spreadsheets/d/1jVvSFPihDJFzrf7gKAcd1Cn5L8e4X__Ac81D32ANB2s/edit?usp=sharing"
+    }
+   ]
+  },
+  "https://bit.ly/PowerQueen-SmitHVAC": {
+   "url": "https://bit.ly/PowerQueen-SmitHVAC",
+   "final": "https://ca.ipowerqueen.com/?ref=SmitHVAC&utm_source=YT&utm_medium=goaffpro&utm_campaign=SmitHVAC&utm_content=Naomi",
+   "final_host": "ca.ipowerqueen.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/PowerQueen-SmitHVAC",
+     "status": "301",
+     "location": "https://ca.ipowerqueen.com/?ref=SmitHVAC&utm_source=YT&utm_medium=goaffpro&utm_campaign=SmitHVAC&utm_content=Naomi"
+    }
+   ]
+  },
+  "https://bit.ly/SubscribeToTheFixer": {
+   "url": "https://bit.ly/SubscribeToTheFixer",
+   "final": "https://youtube.com/channel/UCZ32JAyPXVY2f3g2VxekBjA?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/SubscribeToTheFixer",
+     "status": "301",
+     "location": "https://youtube.com/channel/UCZ32JAyPXVY2f3g2VxekBjA?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://bit.ly/TUP-Altoids-21": {
+   "url": "https://bit.ly/TUP-Altoids-21",
+   "final": "https://www.dropbox.com/scl/fi/7gg48j7vzjs02ydvy10ve/Urban-Altoids-EDC-Tin-2.1.pdf?rlkey=bq32kw1onwbev8daqeq3r3rvj&st=dlkjgl8g&dl=0",
+   "final_host": "dropbox.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/TUP-Altoids-21",
+     "status": "301",
+     "location": "https://www.dropbox.com/scl/fi/7gg48j7vzjs02ydvy10ve/Urban-Altoids-EDC-Tin-2.1.pdf?rlkey=bq32kw1onwbev8daqeq3r3rvj&st=dlkjgl8g&dl=0"
+    }
+   ]
+  },
+  "https://bit.ly/Timmy10": {
+   "url": "https://bit.ly/Timmy10",
+   "final": "https://isotunes.com/TIMMY15",
+   "final_host": "isotunes.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/Timmy10",
+     "status": "301",
+     "location": "https://isotunes.com/TIMMY15"
+    }
+   ]
+  },
+  "https://bit.ly/WilkerDos": {
+   "url": "https://bit.ly/WilkerDos",
+   "final": "https://isotunes.com/APRIL",
+   "final_host": "isotunes.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/WilkerDos",
+     "status": "301",
+     "location": "https://isotunes.com/APRIL"
+    }
+   ]
+  },
+  "https://bit.ly/certainpath": {
+   "url": "https://bit.ly/certainpath",
+   "final": "https://mycertainpath.com/book-a-call/?utm_source=Book_a_Call&utm_medium=YouTube&utm_campaign=TSC+Podcast&utm_id=The+Successful+Contractor+Podcast&utm_term=2026&utm_content=YT+Book+Call",
+   "final_host": "mycertainpath.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/certainpath",
+     "status": "301",
+     "location": "https://mycertainpath.com/book-a-call/?utm_source=Book_a_Call&utm_medium=YouTube&utm_campaign=TSC+Podcast&utm_id=The+Successful+Contractor+Podcast&utm_term=2026&utm_content=YT+Book+Call"
+    }
+   ]
+  },
+  "https://bit.ly/deckstain": {
+   "url": "https://bit.ly/deckstain",
+   "final": "https://baileylineroad.com/deck-stain/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/deckstain",
+     "status": "301",
+     "location": "https://baileylineroad.com/deck-stain/"
+    }
+   ]
+  },
+  "https://bit.ly/exterioradhesives": {
+   "url": "https://bit.ly/exterioradhesives",
+   "final": "https://baileylineroad.com/exterior-adhesives-choosing-the-right-outdoor-glue/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/exterioradhesives",
+     "status": "301",
+     "location": "https://baileylineroad.com/exterior-adhesives-choosing-the-right-outdoor-glue/"
+    }
+   ]
+  },
+  "https://bit.ly/hoophouseplans": {
+   "url": "https://bit.ly/hoophouseplans",
+   "final": "https://baileylineroad.com/diy-hoop-house-plans/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/hoophouseplans",
+     "status": "301",
+     "location": "https://baileylineroad.com/diy-hoop-house-plans/"
+    }
+   ]
+  },
+  "https://bit.ly/imaginary-love": {
+   "url": "https://bit.ly/imaginary-love",
+   "final": "https://www.audiolibrary.com.co/inossi/imaginary-love",
+   "final_host": "audiolibrary.com.co",
+   "hops": [
+    {
+     "url": "https://bit.ly/imaginary-love",
+     "status": "301",
+     "location": "https://www.audiolibrary.com.co/inossi/imaginary-love"
+    }
+   ]
+  },
+  "https://bit.ly/jumpstartyourwoodworking": {
+   "url": "https://bit.ly/jumpstartyourwoodworking",
+   "final": "https://www.craftedacademy.com/jumpstart-your-woodworking-beginners",
+   "final_host": "craftedacademy.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/jumpstartyourwoodworking",
+     "status": "301",
+     "location": "https://www.craftedacademy.com/jumpstart-your-woodworking-beginners"
+    }
+   ]
+  },
+  "https://bit.ly/powerbuffing": {
+   "url": "https://bit.ly/powerbuffing",
+   "final": "https://baileylineroad.com/flawlessly-finish-wood-with-correct-sanding-power-tool/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/powerbuffing",
+     "status": "301",
+     "location": "https://baileylineroad.com/flawlessly-finish-wood-with-correct-sanding-power-tool/"
+    }
+   ]
+  },
+  "https://bit.ly/pumpinstallation": {
+   "url": "https://bit.ly/pumpinstallation",
+   "final": "https://baileylineroad.com/the-right-way-to-install-a-submersible-pump-in-your-water-well/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/pumpinstallation",
+     "status": "301",
+     "location": "https://baileylineroad.com/the-right-way-to-install-a-submersible-pump-in-your-water-well/"
+    }
+   ]
+  },
+  "https://bit.ly/roa-fresh-time": {
+   "url": "https://bit.ly/roa-fresh-time",
+   "final": "https://www.audiolibrary.com.co/roa-music/fresh-time",
+   "final_host": "audiolibrary.com.co",
+   "hops": [
+    {
+     "url": "https://bit.ly/roa-fresh-time",
+     "status": "301",
+     "location": "https://www.audiolibrary.com.co/roa-music/fresh-time"
+    }
+   ]
+  },
+  "https://bit.ly/steps-roa": {
+   "url": "https://bit.ly/steps-roa",
+   "final": "https://www.audiolibrary.com.co/roa-music/steps",
+   "final_host": "audiolibrary.com.co",
+   "hops": [
+    {
+     "url": "https://bit.ly/steps-roa",
+     "status": "301",
+     "location": "https://www.audiolibrary.com.co/roa-music/steps"
+    }
+   ]
+  },
+  "https://bit.ly/tablebuilding": {
+   "url": "https://bit.ly/tablebuilding",
+   "final": "https://baileylineroad.com/building-a-table-tricks-for-building-a-great-tabletop/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/tablebuilding",
+     "status": "301",
+     "location": "https://baileylineroad.com/building-a-table-tricks-for-building-a-great-tabletop/"
+    }
+   ]
+  },
+  "https://bit.ly/tup-newsletter-join": {
+   "url": "https://bit.ly/tup-newsletter-join",
+   "final": "https://the-urban-prepper.kit.com/e5fb2698c5",
+   "final_host": "the-urban-prepper.kit.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/tup-newsletter-join",
+     "status": "301",
+     "location": "https://the-urban-prepper.kit.com/e5fb2698c5"
+    }
+   ]
+  },
+  "https://bit.ly/wheelchairrampplans": {
+   "url": "https://bit.ly/wheelchairrampplans",
+   "final": "https://baileylineroad.com/wheelchair-ramp-building-plans/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/wheelchairrampplans",
+     "status": "301",
+     "location": "https://baileylineroad.com/wheelchair-ramp-building-plans/"
+    }
+   ]
+  },
+  "https://bit.ly/wooddrying": {
+   "url": "https://bit.ly/wooddrying",
+   "final": "https://baileylineroad.com/4-wood-drying-tips-for-woodworking-projects/",
+   "final_host": "baileylineroad.com",
+   "hops": [
+    {
+     "url": "https://bit.ly/wooddrying",
+     "status": "301",
+     "location": "https://baileylineroad.com/4-wood-drying-tips-for-woodworking-projects/"
+    }
+   ]
+  },
+  "https://goo.gl/14DHQV": {
+   "url": "https://goo.gl/14DHQV",
+   "final": "https://www.youtube.com/watch?v=k_HZOnqc0X8",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/14DHQV",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=k_HZOnqc0X8"
+    }
+   ]
+  },
+  "https://goo.gl/1A242o": {
+   "url": "https://goo.gl/1A242o",
+   "final": "https://www.youtube.com/watch?v=9LfOFwd1oSk&index=1&list=PL2F8185C47DFDAF14",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/1A242o",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=9LfOFwd1oSk&index=1&list=PL2F8185C47DFDAF14"
+    }
+   ]
+  },
+  "https://goo.gl/1m56i5": {
+   "url": "https://goo.gl/1m56i5",
+   "final": "https://www.youtube.com/channel/UCqe1yTIkHEFx17lmI1zvttA?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/1m56i5",
+     "status": "302",
+     "location": "https://www.youtube.com/channel/UCqe1yTIkHEFx17lmI1zvttA?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://goo.gl/2Trdac": {
+   "url": "https://goo.gl/2Trdac",
+   "final": "https://www.youtube.com/user/inlitemedia?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/2Trdac",
+     "status": "302",
+     "location": "https://www.youtube.com/user/inlitemedia?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://goo.gl/2dKqJh": {
+   "url": "https://goo.gl/2dKqJh",
+   "final": "https://www.youtube.com/watch?v=Pd42v8GCnug",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/2dKqJh",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=Pd42v8GCnug"
+    }
+   ]
+  },
+  "https://goo.gl/6fUBds": {
+   "url": "https://goo.gl/6fUBds",
+   "final": "https://www.youtube.com/watch?v=Dylb_QGBX2E",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/6fUBds",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=Dylb_QGBX2E"
+    }
+   ]
+  },
+  "https://goo.gl/8Jqekb": {
+   "url": "https://goo.gl/8Jqekb",
+   "final": "https://www.youtube.com/watch?v=GKonJ3NDL3M&list=PL7C13E1E5E7015CA5&index=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/8Jqekb",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=GKonJ3NDL3M&list=PL7C13E1E5E7015CA5&index=1"
+    }
+   ]
+  },
+  "https://goo.gl/8nac4a": {
+   "url": "https://goo.gl/8nac4a",
+   "final": "https://www.amazon.com/gp/product/B0001LVC6Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=widos09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0001LVC6Y&linkId=172bbbd5cd0b999e875ef2a52f246194",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/8nac4a",
+     "status": "302",
+     "location": "https://www.amazon.com/gp/product/B0001LVC6Y/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=widos09-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0001LVC6Y&linkId=172bbbd5cd0b999e875ef2a52f246194"
+    }
+   ]
+  },
+  "https://goo.gl/CdCsbL": {
+   "url": "https://goo.gl/CdCsbL",
+   "final": "https://www.youtube.com/watch?v=gTlQRBVgEKQ&list=PLPFoLYPJFvKB0AAyxUVkYybhXLkOrhye_&index=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/CdCsbL",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=gTlQRBVgEKQ&list=PLPFoLYPJFvKB0AAyxUVkYybhXLkOrhye_&index=1"
+    }
+   ]
+  },
+  "https://goo.gl/H4Nvob": {
+   "url": "https://goo.gl/H4Nvob",
+   "final": "https://www.youtube.com/channel/UC5Pnrxqqg4BLTsfsUzWw5Pw?sub_confirmation=1&via=tb",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/H4Nvob",
+     "status": "302",
+     "location": "https://www.youtube.com/channel/UC5Pnrxqqg4BLTsfsUzWw5Pw?sub_confirmation=1&via=tb"
+    }
+   ]
+  },
+  "https://goo.gl/HFaCkE": {
+   "url": "https://goo.gl/HFaCkE",
+   "final": "https://www.youtube.com/watch?v=GKonJ3NDL3M&index=1&list=PLPFoLYPJFvKCaKRcMDse7_e2wAnJHxeDB",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/HFaCkE",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=GKonJ3NDL3M&index=1&list=PLPFoLYPJFvKCaKRcMDse7_e2wAnJHxeDB"
+    }
+   ]
+  },
+  "https://goo.gl/KiI1cX": {
+   "url": "https://goo.gl/KiI1cX",
+   "final": "https://www.facebook.com/modernbuildsdiy/",
+   "final_host": "facebook.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/KiI1cX",
+     "status": "302",
+     "location": "https://www.facebook.com/modernbuildsdiy/"
+    }
+   ]
+  },
+  "https://goo.gl/LkMxiW": {
+   "url": "https://goo.gl/LkMxiW",
+   "final": "https://goo.gl/LkMxiW",
+   "final_host": "goo.gl",
+   "hops": [
+    {
+     "url": "https://goo.gl/LkMxiW",
+     "status": "404",
+     "location": ""
+    }
+   ]
+  },
+  "https://goo.gl/QGFC4Q": {
+   "url": "https://goo.gl/QGFC4Q",
+   "final": "https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1422899139880&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=diynils-20&linkId=dcae98dbc9243f98ce97190bb119641c",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/QGFC4Q",
+     "status": "302",
+     "location": "https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1422899139880&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=diynils-20&linkId=dcae98dbc9243f98ce97190bb119641c"
+    }
+   ]
+  },
+  "https://goo.gl/Sa2uzr": {
+   "url": "https://goo.gl/Sa2uzr",
+   "final": "http://www.youtube.com/channel/UCG3f-rWcSIo2RwbMBi54NmQ?sub_confirmation=1",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/Sa2uzr",
+     "status": "302",
+     "location": "http://www.youtube.com/channel/UCG3f-rWcSIo2RwbMBi54NmQ?sub_confirmation=1"
+    }
+   ]
+  },
+  "https://goo.gl/SqVGDw": {
+   "url": "https://goo.gl/SqVGDw",
+   "final": "https://www.youtube.com/playlist?list=PLmQ5wJnkAIoIDKEy-YqHozUmzjcgHA_Ka",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/SqVGDw",
+     "status": "302",
+     "location": "https://www.youtube.com/playlist?list=PLmQ5wJnkAIoIDKEy-YqHozUmzjcgHA_Ka"
+    }
+   ]
+  },
+  "https://goo.gl/UO4pSZ": {
+   "url": "https://goo.gl/UO4pSZ",
+   "final": "https://docs.google.com/forms/d/1gv4PqVhOSO3IzymQ4AKhg7KB2urXXso2YYfOkmbhYvE/viewform",
+   "final_host": "docs.google.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/UO4pSZ",
+     "status": "302",
+     "location": "https://docs.google.com/forms/d/1gv4PqVhOSO3IzymQ4AKhg7KB2urXXso2YYfOkmbhYvE/viewform"
+    }
+   ]
+  },
+  "https://goo.gl/UgEpJs": {
+   "url": "https://goo.gl/UgEpJs",
+   "final": "https://www.instagram.com/modernbuilds/",
+   "final_host": "instagram.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/UgEpJs",
+     "status": "302",
+     "location": "https://www.instagram.com/modernbuilds/"
+    }
+   ]
+  },
+  "https://goo.gl/V5gcNJ": {
+   "url": "https://goo.gl/V5gcNJ",
+   "final": "https://www.youtube.com/channel/UC-hTi9atsD6wAl2s46LpAVw?sub_confirmation=1&via=tb",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/V5gcNJ",
+     "status": "302",
+     "location": "https://www.youtube.com/channel/UC-hTi9atsD6wAl2s46LpAVw?sub_confirmation=1&via=tb"
+    }
+   ]
+  },
+  "https://goo.gl/VKFmgO": {
+   "url": "https://goo.gl/VKFmgO",
+   "final": "https://www.wilkerdos.com/2016/11/building-an-outdoor-staircase/",
+   "final_host": "wilkerdos.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/VKFmgO",
+     "status": "302",
+     "location": "https://www.wilkerdos.com/2016/11/building-an-outdoor-staircase/"
+    }
+   ]
+  },
+  "https://goo.gl/ZG6sF6": {
+   "url": "https://goo.gl/ZG6sF6",
+   "final": "https://www.youtube.com/watch?v=22HJrujcwMM",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/ZG6sF6",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=22HJrujcwMM"
+    }
+   ]
+  },
+  "https://goo.gl/axfG6b": {
+   "url": "https://goo.gl/axfG6b",
+   "final": "https://www.thelogox.com/",
+   "final_host": "thelogox.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/axfG6b",
+     "status": "302",
+     "location": "https://www.thelogox.com/"
+    }
+   ]
+  },
+  "https://goo.gl/dn1cGy": {
+   "url": "https://goo.gl/dn1cGy",
+   "final": "https://www.youtube.com/watch?v=ISumbi1hmu0",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/dn1cGy",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=ISumbi1hmu0"
+    }
+   ]
+  },
+  "https://goo.gl/efevj7": {
+   "url": "https://goo.gl/efevj7",
+   "final": "https://www.youtube.com/watch?v=1WlHXnKnyHQ&index=2&list=PLvPsmg7J35ZjZU5nDPTFMe39dzSJy3mzv",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/efevj7",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=1WlHXnKnyHQ&index=2&list=PLvPsmg7J35ZjZU5nDPTFMe39dzSJy3mzv"
+    }
+   ]
+  },
+  "https://goo.gl/h9MbMw": {
+   "url": "https://goo.gl/h9MbMw",
+   "final": "https://www.facebook.com/Gerrys-waste-oil-burner-551730264943811/",
+   "final_host": "facebook.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/h9MbMw",
+     "status": "302",
+     "location": "https://www.facebook.com/Gerrys-waste-oil-burner-551730264943811/"
+    }
+   ]
+  },
+  "https://goo.gl/kutJZF": {
+   "url": "https://goo.gl/kutJZF",
+   "final": "http://www.amazon.com/gp/product/B005X6SD4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005X6SD4G&linkCode=as2&tag=widos09-20&linkId=INZVDAJ4UQHP7PFC",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/kutJZF",
+     "status": "302",
+     "location": "http://www.amazon.com/gp/product/B005X6SD4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005X6SD4G&linkCode=as2&tag=widos09-20&linkId=INZVDAJ4UQHP7PFC"
+    }
+   ]
+  },
+  "https://goo.gl/maps/RKZ6iV46K4QsLdir6?entry=yt": {
+   "url": "https://goo.gl/maps/RKZ6iV46K4QsLdir6?entry=yt",
+   "final": "https://www.google.com/maps/place/Fireplaces+By+Cameron/@49.7001018,-124.9859177,15z/data=!4m6!3m5!1s0x5488131fadd3b49b:0xf49bedee00bf5a36!8m2!3d49.7001018!4d-124.9859177!16s%2Fg%2F11stk2tz07?entry=tts&shorturl=1",
+   "final_host": "google.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/maps/RKZ6iV46K4QsLdir6?entry=yt",
+     "status": "302",
+     "location": "https://www.google.com/maps/place/Fireplaces+By+Cameron/@49.7001018,-124.9859177,15z/data=!4m6!3m5!1s0x5488131fadd3b49b:0xf49bedee00bf5a36!8m2!3d49.7001018!4d-124.9859177!16s%2Fg%2F11stk2tz07?entry=tts&shorturl=1"
+    }
+   ]
+  },
+  "https://goo.gl/ncGajY": {
+   "url": "https://goo.gl/ncGajY",
+   "final": "https://www.amazon.com/tryprimefree?ref_=assoc_tag_ph_1427739975520&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=easttexahome-20&linkId=1c27fe543ac9b52464b91595ebda9ed1",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/ncGajY",
+     "status": "302",
+     "location": "https://www.amazon.com/tryprimefree?ref_=assoc_tag_ph_1427739975520&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=easttexahome-20&linkId=1c27fe543ac9b52464b91595ebda9ed1"
+    }
+   ]
+  },
+  "https://goo.gl/nmLAT9": {
+   "url": "https://goo.gl/nmLAT9",
+   "final": "https://www.youtube.com/playlist?list=PLmQ5wJnkAIoImeXUNv9YfEZsQ1OYRpOHN",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/nmLAT9",
+     "status": "302",
+     "location": "https://www.youtube.com/playlist?list=PLmQ5wJnkAIoImeXUNv9YfEZsQ1OYRpOHN"
+    }
+   ]
+  },
+  "https://goo.gl/pgDSS8": {
+   "url": "https://goo.gl/pgDSS8",
+   "final": "https://www.youtube.com/subscription_center?add_user=modernbuildsdiy",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/pgDSS8",
+     "status": "302",
+     "location": "https://www.youtube.com/subscription_center?add_user=modernbuildsdiy"
+    }
+   ]
+  },
+  "https://goo.gl/qVZvyB": {
+   "url": "https://goo.gl/qVZvyB",
+   "final": "https://www.youtube.com/watch?v=1GEvnJecjIw",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/qVZvyB",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=1GEvnJecjIw"
+    }
+   ]
+  },
+  "https://goo.gl/qbYwKq": {
+   "url": "https://goo.gl/qbYwKq",
+   "final": "https://www.youtube.com/channel/UClKwG58nP4XxNdnozKfySkQ",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/qbYwKq",
+     "status": "302",
+     "location": "https://www.youtube.com/channel/UClKwG58nP4XxNdnozKfySkQ"
+    }
+   ]
+  },
+  "https://goo.gl/rQKRfv": {
+   "url": "https://goo.gl/rQKRfv",
+   "final": "https://www.youtube.com/watch?v=ktsZ1lgP3jg&list=PLPFoLYPJFvKCGYMpD8tIyK4n6DKUhZs4f",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/rQKRfv",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=ktsZ1lgP3jg&list=PLPFoLYPJFvKCGYMpD8tIyK4n6DKUhZs4f"
+    }
+   ]
+  },
+  "https://goo.gl/sb7TC8": {
+   "url": "https://goo.gl/sb7TC8",
+   "final": "https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=ad0afb-20&keywords=replacement+whirlpool+dishwasher+part&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=46b374569e7a638888c2008e1f6e7caa",
+   "final_host": "amazon.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/sb7TC8",
+     "status": "302",
+     "location": "https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=ad0afb-20&keywords=replacement+whirlpool+dishwasher+part&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=46b374569e7a638888c2008e1f6e7caa"
+    }
+   ]
+  },
+  "https://goo.gl/tbpjks": {
+   "url": "https://goo.gl/tbpjks",
+   "final": "https://goo.gl/tbpjks",
+   "final_host": "goo.gl",
+   "hops": [
+    {
+     "url": "https://goo.gl/tbpjks",
+     "status": "404",
+     "location": ""
+    }
+   ]
+  },
+  "https://goo.gl/umwmHm": {
+   "url": "https://goo.gl/umwmHm",
+   "final": "https://www.youtube.com/watch?v=0-l-1Bhq7pY&index=1&list=PLvPsmg7J35ZjaZ3MWSIZ3hxyGbKJ1_D_X",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/umwmHm",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=0-l-1Bhq7pY&index=1&list=PLvPsmg7J35ZjaZ3MWSIZ3hxyGbKJ1_D_X"
+    }
+   ]
+  },
+  "https://goo.gl/wE8amv": {
+   "url": "https://goo.gl/wE8amv",
+   "final": "https://www.youtube.com/watch?v=-Bm05MstHAw&index=16&list=PLvPsmg7J35ZhjC6na1uNjl7RSe1q_7nLP",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/wE8amv",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=-Bm05MstHAw&index=16&list=PLvPsmg7J35ZhjC6na1uNjl7RSe1q_7nLP"
+    }
+   ]
+  },
+  "https://goo.gl/wXASY9": {
+   "url": "https://goo.gl/wXASY9",
+   "final": "https://www.youtube.com/watch?v=Nosafu1G7oc&index=1&list=PLPFoLYPJFvKBuQ1PPYT7P711IOhVRv5z4",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://goo.gl/wXASY9",
+     "status": "302",
+     "location": "https://www.youtube.com/watch?v=Nosafu1G7oc&index=1&list=PLPFoLYPJFvKBuQ1PPYT7P711IOhVRv5z4"
+    }
+   ]
+  },
+  "https://rb.gy/0tip1e": {
+   "url": "https://rb.gy/0tip1e",
+   "final": "https://rb.gy/0tip1e",
+   "final_host": "rb.gy",
+   "hops": [
+    {
+     "url": "https://rb.gy/0tip1e",
+     "status": "403",
+     "location": ""
+    }
+   ]
+  },
+  "https://rb.gy/bu7krq": {
+   "url": "https://rb.gy/bu7krq",
+   "final": "https://rb.gy/bu7krq",
+   "final_host": "rb.gy",
+   "hops": [
+    {
+     "url": "https://rb.gy/bu7krq",
+     "status": "403",
+     "location": ""
+    }
+   ]
+  },
+  "https://shorturl.at/OlC7P": {
+   "url": "https://shorturl.at/OlC7P",
+   "final": "https://shorturl.at/OlC7P",
+   "final_host": "shorturl.at",
+   "hops": [
+    {
+     "url": "https://shorturl.at/OlC7P",
+     "status": "403",
+     "location": ""
+    }
+   ]
+  },
+  "https://shorturl.at/PYPda": {
+   "url": "https://shorturl.at/PYPda",
+   "final": "https://shorturl.at/PYPda",
+   "final_host": "shorturl.at",
+   "hops": [
+    {
+     "url": "https://shorturl.at/PYPda",
+     "status": "403",
+     "location": ""
+    }
+   ]
+  },
+  "https://shorturl.at/re1sg": {
+   "url": "https://shorturl.at/re1sg",
+   "final": "https://shorturl.at/re1sg",
+   "final_host": "shorturl.at",
+   "hops": [
+    {
+     "url": "https://shorturl.at/re1sg",
+     "status": "403",
+     "location": ""
+    }
+   ]
+  },
+  "https://tinyurl.com/29tkm39r": {
+   "url": "https://tinyurl.com/29tkm39r",
+   "final": "https://audiolibrary.com.co/declan-dp/lagoon",
+   "final_host": "audiolibrary.com.co",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/29tkm39r",
+     "status": "301",
+     "location": "https://audiolibrary.com.co/declan-dp/lagoon"
+    }
+   ]
+  },
+  "https://tinyurl.com/2x7exbnb": {
+   "url": "https://tinyurl.com/2x7exbnb",
+   "final": "https://teslaunch.net/products/real-carbon-fiber-mirror-cover-for-tesla-model-3-2018-2022?variant=43082349969631&sca_ref=12344075.iwaFqi26zi&sca_source=Mirror%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion",
+   "final_host": "teslaunch.net",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/2x7exbnb",
+     "status": "301",
+     "location": "https://teslaunch.net/products/real-carbon-fiber-mirror-cover-for-tesla-model-3-2018-2022?variant=43082349969631&sca_ref=12344075.iwaFqi26zi&sca_source=Mirror%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion"
+    }
+   ]
+  },
+  "https://tinyurl.com/3fpc8zdc": {
+   "url": "https://tinyurl.com/3fpc8zdc",
+   "final": "https://teslaunch.net/products/model-3-fog-light-canards-eyelids-1-pair-2018-2022?variant=43082291413215&sca_ref=12344075.iwaFqi26zi&sca_source=Fog%20Light%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion",
+   "final_host": "teslaunch.net",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/3fpc8zdc",
+     "status": "301",
+     "location": "https://teslaunch.net/products/model-3-fog-light-canards-eyelids-1-pair-2018-2022?variant=43082291413215&sca_ref=12344075.iwaFqi26zi&sca_source=Fog%20Light%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion"
+    }
+   ]
+  },
+  "https://tinyurl.com/4by9dv56": {
+   "url": "https://tinyurl.com/4by9dv56",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fus.mova.tech%2Fproducts%2Fmova-v50-ultra-complete-robot-vacuum%3Futm_source%3DGoogle%26utm_medium%3DCPC%26utm_campaign%3Dlink%26utm_id%3DBFCM%26gad_source%3D1%26gad_campaignid%3D23240895487%26gbraid%3D0AAAAA-Zov-xTN0_wtnsI5l4rcgdkEOF1E&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/4by9dv56",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fus.mova.tech%2Fproducts%2Fmova-v50-ultra-complete-robot-vacuum%3Futm_source%3DGoogle%26utm_medium%3DCPC%26utm_campaign%3Dlink%26utm_id%3DBFCM%26gad_source%3D1%26gad_campaignid%3D23240895487%26gbraid%3D0AAAAA-Zov-xTN0_wtnsI5l4rcgdkEOF1E&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  },
+  "https://tinyurl.com/4kjkat5z": {
+   "url": "https://tinyurl.com/4kjkat5z",
+   "final": "https://teslaunch.net/products/tesla-model-3-chrome-delete-kit-10-pcs-2017-2022?variant=43082270998751&sca_ref=12344075.iwaFqi26zi&sca_source=Chrome%20Delete%20Kit&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion",
+   "final_host": "teslaunch.net",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/4kjkat5z",
+     "status": "301",
+     "location": "https://teslaunch.net/products/tesla-model-3-chrome-delete-kit-10-pcs-2017-2022?variant=43082270998751&sca_ref=12344075.iwaFqi26zi&sca_source=Chrome%20Delete%20Kit&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion"
+    }
+   ]
+  },
+  "https://tinyurl.com/4x46bjht": {
+   "url": "https://tinyurl.com/4x46bjht",
+   "final": "https://youtu.be/pZbDKxMcR_E",
+   "final_host": "youtu.be",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/4x46bjht",
+     "status": "301",
+     "location": "https://youtu.be/pZbDKxMcR_E"
+    }
+   ]
+  },
+  "https://tinyurl.com/5cuabbw7": {
+   "url": "https://tinyurl.com/5cuabbw7",
+   "final": "https://youtube.com/channel/UCvBgMdcTRvagUX-gxXNMKkw",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/5cuabbw7",
+     "status": "301",
+     "location": "https://youtube.com/channel/UCvBgMdcTRvagUX-gxXNMKkw"
+    }
+   ]
+  },
+  "https://tinyurl.com/5dstjk4t": {
+   "url": "https://tinyurl.com/5dstjk4t",
+   "final": "https://teslaunch.net/products/real-carbon-fiber-door-handle-cover-for-tesla-model-3-y-2018-2022?variant=43082390798559&sca_ref=12344075.iwaFqi26zi&sca_source=Door%20Handle%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion",
+   "final_host": "teslaunch.net",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/5dstjk4t",
+     "status": "301",
+     "location": "https://teslaunch.net/products/real-carbon-fiber-door-handle-cover-for-tesla-model-3-y-2018-2022?variant=43082390798559&sca_ref=12344075.iwaFqi26zi&sca_source=Door%20Handle%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion"
+    }
+   ]
+  },
+  "https://tinyurl.com/9vzp2a2b": {
+   "url": "https://tinyurl.com/9vzp2a2b",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.dreametech.com%2Fproducts%2Fx50-ultra-robot-vacuum&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/9vzp2a2b",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.dreametech.com%2Fproducts%2Fx50-ultra-robot-vacuum&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  },
+  "https://tinyurl.com/DronePilotCourse": {
+   "url": "https://tinyurl.com/DronePilotCourse",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fsso.teachable.com%2Fsecure%2F245841%2Fcheckout%2F1320802%2Fbundle-remote-pilot-plus-maneuvers%3Faffcode%3D245841_0eauthdo%26coupon_code%3DFRAMERS100&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/DronePilotCourse",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fsso.teachable.com%2Fsecure%2F245841%2Fcheckout%2F1320802%2Fbundle-remote-pilot-plus-maneuvers%3Faffcode%3D245841_0eauthdo%26coupon_code%3DFRAMERS100&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  },
+  "https://tinyurl.com/HVACplaybook": {
+   "url": "https://tinyurl.com/HVACplaybook",
+   "final": "https://rhoedczar.gumroad.com/l/hvaclicenseplaybook",
+   "final_host": "rhoedczar.gumroad.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/HVACplaybook",
+     "status": "301",
+     "location": "https://rhoedczar.gumroad.com/l/hvaclicenseplaybook"
+    }
+   ]
+  },
+  "https://tinyurl.com/MyFavoriteTools": {
+   "url": "https://tinyurl.com/MyFavoriteTools",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.acmetools.com%2Fawesome-framers%2F%3Firclickid%3DWOkyPCUpexycRJTWoBRDj34cUkpSzu1oEyyq180%26irgwc%3D1%26afsrc%3D1%26utm_campaign%3DAwesome%2BFramers%2BLLC%26utm_channel%3DAffiliates%26utm_source%3Dimpact%26utm_medium%3Daffiliate&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/MyFavoriteTools",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.acmetools.com%2Fawesome-framers%2F%3Firclickid%3DWOkyPCUpexycRJTWoBRDj34cUkpSzu1oEyyq180%26irgwc%3D1%26afsrc%3D1%26utm_campaign%3DAwesome%2BFramers%2BLLC%26utm_channel%3DAffiliates%26utm_source%3Dimpact%26utm_medium%3Daffiliate&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  },
+  "https://tinyurl.com/NECcheatsheet": {
+   "url": "https://tinyurl.com/NECcheatsheet",
+   "final": "https://rhoedczar.gumroad.com/l/xubdkv",
+   "final_host": "rhoedczar.gumroad.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/NECcheatsheet",
+     "status": "301",
+     "location": "https://rhoedczar.gumroad.com/l/xubdkv"
+    }
+   ]
+  },
+  "https://tinyurl.com/Plumberplaybook": {
+   "url": "https://tinyurl.com/Plumberplaybook",
+   "final": "https://rhoedczar.gumroad.com/l/qttkvn",
+   "final_host": "rhoedczar.gumroad.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/Plumberplaybook",
+     "status": "301",
+     "location": "https://rhoedczar.gumroad.com/l/qttkvn"
+    }
+   ]
+  },
+  "https://tinyurl.com/Plumbingplaybook": {
+   "url": "https://tinyurl.com/Plumbingplaybook",
+   "final": "https://tinyurl.com/Plumbingplaybook",
+   "final_host": "tinyurl.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/Plumbingplaybook",
+     "status": "404",
+     "location": ""
+    }
+   ]
+  },
+  "https://tinyurl.com/WoodButcherHD": {
+   "url": "https://tinyurl.com/WoodButcherHD",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fnicksboots.com%2Fproducts%2Fwood-butcher%3Fsrsltid%3DAfmBOorYZVaipIw4xSB4zWoO7qz7qgYCnXoukZMyE2vmICmwZ6PCv2xX%26_has_apo%3Dtrue%26Boot%2BLength%3D4.0%26Boot%2BWidth%3DA%26Leather%3DLimited%2BRun%2B-%2BPacific%2BCXL%26Pull%2BLoop%3DYes%26Top%2BStyle%3DPadded%26Toe%2BStructure%3DSoft%26Outsole%3DNicks%2BWedge-%2BWhite%26Edge%2BTreatment%3DBeeswax%26Sole%2BStitching%3DStandard%2B-%2BWhite%26False%2BTongue%3DDress%26Laces%3DLeather%26Toe%2BStyle%3DMoc%2BToe&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/WoodButcherHD",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fnicksboots.com%2Fproducts%2Fwood-butcher%3Fsrsltid%3DAfmBOorYZVaipIw4xSB4zWoO7qz7qgYCnXoukZMyE2vmICmwZ6PCv2xX%26_has_apo%3Dtrue%26Boot%2BLength%3D4.0%26Boot%2BWidth%3DA%26Leather%3DLimited%2BRun%2B-%2BPacific%2BCXL%26Pull%2BLoop%3DYes%26Top%2BStyle%3DPadded%26Toe%2BStructure%3DSoft%26Outsole%3DNicks%2BWedge-%2BWhite%26Edge%2BTreatment%3DBeeswax%26Sole%2BStitching%3DStandard%2B-%2BWhite%26False%2BTongue%3DDress%26Laces%3DLeather%26Toe%2BStyle%3DMoc%2BToe&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  },
+  "https://tinyurl.com/bdf6a6ky": {
+   "url": "https://tinyurl.com/bdf6a6ky",
+   "final": "https://planetsafelubricants.com/?ref=olKcXpRivSzEIM",
+   "final_host": "planetsafelubricants.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/bdf6a6ky",
+     "status": "301",
+     "location": "https://planetsafelubricants.com/?ref=olKcXpRivSzEIM"
+    }
+   ]
+  },
+  "https://tinyurl.com/cdlcompletekit2026": {
+   "url": "https://tinyurl.com/cdlcompletekit2026",
+   "final": "https://rhoedczar.gumroad.com/l/azczlf",
+   "final_host": "rhoedczar.gumroad.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/cdlcompletekit2026",
+     "status": "301",
+     "location": "https://rhoedczar.gumroad.com/l/azczlf"
+    }
+   ]
+  },
+  "https://tinyurl.com/f7234fy9": {
+   "url": "https://tinyurl.com/f7234fy9",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmrshamashergy%2F&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/f7234fy9",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmrshamashergy%2F&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  },
+  "https://tinyurl.com/hbm6a99j": {
+   "url": "https://tinyurl.com/hbm6a99j",
+   "final": "https://www.youtube.com/channel/UCeABzVJrPaRay_4ADhrAMsQ",
+   "final_host": "youtube.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/hbm6a99j",
+     "status": "301",
+     "location": "https://www.youtube.com/channel/UCeABzVJrPaRay_4ADhrAMsQ"
+    }
+   ]
+  },
+  "https://tinyurl.com/mr34t6j5": {
+   "url": "https://tinyurl.com/mr34t6j5",
+   "final": "https://teslaunch.net/products/real-carbon-fiber-turn-signal-cover-for-model-s-3-x-y-1-pair-2016-2022?variant=44279443652831&sca_ref=12344075.iwaFqi26zi&sca_source=Turn%20Signal%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion",
+   "final_host": "teslaunch.net",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/mr34t6j5",
+     "status": "301",
+     "location": "https://teslaunch.net/products/real-carbon-fiber-turn-signal-cover-for-model-s-3-x-y-1-pair-2016-2022?variant=44279443652831&sca_ref=12344075.iwaFqi26zi&sca_source=Turn%20Signal%20Cover&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion"
+    }
+   ]
+  },
+  "https://tinyurl.com/nxne9fh5": {
+   "url": "https://tinyurl.com/nxne9fh5",
+   "final": "https://www.humsienk.com/products/48v-628ah-32kwh-home-battery-backup?ref=unpluggedtexan",
+   "final_host": "humsienk.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/nxne9fh5",
+     "status": "301",
+     "location": "https://www.humsienk.com/products/48v-628ah-32kwh-home-battery-backup?ref=unpluggedtexan"
+    }
+   ]
+  },
+  "https://tinyurl.com/primerundown": {
+   "url": "https://tinyurl.com/primerundown",
+   "final": "https://primerundownvault.lovable.app/",
+   "final_host": "primerundownvault.lovable.app",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/primerundown",
+     "status": "301",
+     "location": "https://primerundownvault.lovable.app/"
+    }
+   ]
+  },
+  "https://tinyurl.com/uysr3dbd": {
+   "url": "https://tinyurl.com/uysr3dbd",
+   "final": "https://teslaunch.net/?sca_ref=12344075.iwaFqi26zi&sca_source=Teslaunch&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion",
+   "final_host": "teslaunch.net",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/uysr3dbd",
+     "status": "301",
+     "location": "https://teslaunch.net/?sca_ref=12344075.iwaFqi26zi&sca_source=Teslaunch&utm_source=social&utm_medium=promotion&utm_campaign=socialpromotion"
+    }
+   ]
+  },
+  "https://tinyurl.com/yhfw8ckp": {
+   "url": "https://tinyurl.com/yhfw8ckp",
+   "final": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-5000-plus%3Futm_source%3Daffiliatly%26utm_medium%3Daffiliate%26utm_campaign%3Daffiliatelyus%26aff%3D3048&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false",
+   "final_host": "redirect.viglink.com",
+   "hops": [
+    {
+     "url": "https://tinyurl.com/yhfw8ckp",
+     "status": "302",
+     "location": "https://redirect.viglink.com/?u=https%3A%2F%2Fwww.jackery.com%2Fproducts%2Fjackery-solar-generator-5000-plus%3Futm_source%3Daffiliatly%26utm_medium%3Daffiliate%26utm_campaign%3Daffiliatelyus%26aff%3D3048&key=a7e37b5f6ff1de9cb410158b1013e54a&prodOvrd=RAC&opt=false"
+    }
+   ]
+  }
+ }
+}

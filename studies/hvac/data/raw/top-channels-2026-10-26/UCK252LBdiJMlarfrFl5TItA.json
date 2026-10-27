@@ -1,0 +1,3925 @@
+{
+ "key": "UCK252LBdiJMlarfrFl5TItA",
+ "channel": "Retro Tech Dad",
+ "id": "UCK252LBdiJMlarfrFl5TItA",
+ "subs": "102K subscribers",
+ "videos": "183 videos",
+ "pulled": "2026-10-26T08:15:21.343458+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 4,
+  "Popular": 4,
+  "Oldest": 4
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "csTO9i-FOiY",
+    "title": "Xbox Ally X20 - This Might Be My Favorite PC Handheld",
+    "meta": [
+     "36K",
+     "10d ago"
+    ],
+    "dur": "21:35",
+    "views_tab": 36000
+   },
+   {
+    "id": "JylCQi6E2ss",
+    "title": "There\u2019s Another Small Android Tablet to Consider",
+    "meta": [
+     "18K",
+     "1mo ago"
+    ],
+    "dur": "19:52",
+    "views_tab": 18000
+   },
+   {
+    "id": "INaGsnRR400",
+    "title": "Awesome \u201cNEW\u201d Game Boy Advance Games (Unreleased, Homebrew & More!)",
+    "meta": [
+     "21K",
+     "1mo ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 21000
+   },
+   {
+    "id": "C6rhahzZku8",
+    "title": "The Z Fold 8 Might Be My Favorite Android Gaming Device",
+    "meta": [
+     "161K",
+     "1mo ago"
+    ],
+    "dur": "18:51",
+    "views_tab": 161000
+   },
+   {
+    "id": "3PN7WsKp_RQ",
+    "title": "This $150 PC Still Kicks Butt",
+    "meta": [
+     "279K",
+     "2mo ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 279000
+   },
+   {
+    "id": "-muXuH_tsBM",
+    "title": "XBOX Emulation on Android is Getting REALLY Good",
+    "meta": [
+     "67K",
+     "2mo ago"
+    ],
+    "dur": "28:13",
+    "views_tab": 67000
+   },
+   {
+    "id": "hNTHxsBZDMM",
+    "title": "The Retroid Pocket NOVA is Out of This World",
+    "meta": [
+     "116K",
+     "2mo ago"
+    ],
+    "dur": "31:58",
+    "views_tab": 116000
+   },
+   {
+    "id": "Qcp414wCM78",
+    "title": "These Android Games ROCK on the Anbernic RG Rotate",
+    "meta": [
+     "9.5K",
+     "3mo ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 9500
+   },
+   {
+    "id": "h_OlV_ZtAJQ",
+    "title": "This 9\u201d OLED Gaming Tablet Is So Close to Perfect",
+    "meta": [
+     "47K",
+     "3mo ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 47000
+   },
+   {
+    "id": "Qm2sQyqUkUw",
+    "title": "This CHEAP Walmart PC Shouldn\u2019t Be Able To Do This",
+    "meta": [
+     "20K",
+     "3mo ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 20000
+   },
+   {
+    "id": "n-bB7_RQa30",
+    "title": "This $135 Gaming Laptop Proves Old Hardware Still Has Value",
+    "meta": [
+     "84K",
+     "3mo ago"
+    ],
+    "dur": "22:51",
+    "views_tab": 84000
+   },
+   {
+    "id": "ikl5z2HgMSM",
+    "title": "Walmart\u2019s GIANT Android Tablet Has No Business Being This Feature Packed",
+    "meta": [
+     "155K",
+     "3mo ago"
+    ],
+    "dur": "20:05",
+    "views_tab": 155000
+   },
+   {
+    "id": "x2KNsNwa8M0",
+    "title": "This Laptop is an Absolute Powerhouse (MSI Katana 15 HX)",
+    "meta": [
+     "25K",
+     "4mo ago"
+    ],
+    "dur": "17:22",
+    "views_tab": 25000
+   },
+   {
+    "id": "FMCDMgnOjjw",
+    "title": "This Laptop Costs Less Than a Big Mac Meal",
+    "meta": [
+     "52K",
+     "4mo ago"
+    ],
+    "dur": "13:05",
+    "views_tab": 52000
+   },
+   {
+    "id": "8z3hqM-Cgfk",
+    "title": "The \ud835\ude49\ud835\ude40\ud835\ude52 Just Get A Steam Deck, Bro.",
+    "meta": [
+     "29K",
+     "4mo ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 29000
+   },
+   {
+    "id": "arkQunFex0g",
+    "title": "The Small & Budget Android Tablet Back ONN Top",
+    "meta": [
+     "94K",
+     "4mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 94000
+   },
+   {
+    "id": "oeddsfXzxfY",
+    "title": "The $80 Surface That\u2019s Weirdly Interesting",
+    "meta": [
+     "28K",
+     "5mo ago"
+    ],
+    "dur": "17:08",
+    "views_tab": 28000
+   },
+   {
+    "id": "D0-1tQ63jVs",
+    "title": "I Bought Walmart\u2019s Cheapest Windows Laptop (So You Don\u2019t Have To)",
+    "meta": [
+     "129K",
+     "5mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 129000
+   },
+   {
+    "id": "klYCTppC3Uo",
+    "title": "The PS5 Is a Steam Machine Now... and it's Insane",
+    "meta": [
+     "152K",
+     "5mo ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 152000
+   },
+   {
+    "id": "pH5jXXXzf84",
+    "title": "The 90s Windows Laptop That Fits in One Hand",
+    "meta": [
+     "5.9K",
+     "5mo ago"
+    ],
+    "dur": "13:46",
+    "views_tab": 5900
+   },
+   {
+    "id": "uLQIXIcn1x0",
+    "title": "This $68 Fujitsu Windows Tablet Is Weirdly Awesome",
+    "meta": [
+     "123K",
+     "6mo ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 123000
+   },
+   {
+    "id": "T45UAjFlqhk",
+    "title": "Don\u2019t Sleep on Old High-End Laptops: $150 Razer Blade 14 (2016)",
+    "meta": [
+     "138K",
+     "6mo ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 138000
+   },
+   {
+    "id": "3q128f1zzbw",
+    "title": "iPlay 80 Mini Ultra - 8.8\" Tablet with 5G! // In-Depth Review (Gaming, Emulation & More)",
+    "meta": [
+     "20K",
+     "6mo ago"
+    ],
+    "dur": "28:40",
+    "views_tab": 20000
+   },
+   {
+    "id": "r0gWWVnJC_I",
+    "title": "MacBook Neo // PC Gaming, Emulation, & More!",
+    "meta": [
+     "79K",
+     "7mo ago"
+    ],
+    "dur": "22:29",
+    "views_tab": 79000
+   },
+   {
+    "id": "Xn1cRI8SokI",
+    "title": "\ud83d\udcf2GREAT Indie Games On Android with Controller Support // 10 Games Worth Playing for Retro Handhelds!",
+    "meta": [
+     "14K",
+     "7mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 14000
+   },
+   {
+    "id": "foinaXkwFvw",
+    "title": "\ud83d\ude4cTRIFORCE with Dolphin on ANDROID! // Setup Guide, Settings, & Gameplay!",
+    "meta": [
+     "28K",
+     "8mo ago"
+    ],
+    "dur": "14:32",
+    "views_tab": 28000
+   },
+   {
+    "id": "EhunUQxCv94",
+    "title": "DELISTED PC Games with GAMEHUB on Android Handhelds // 10 Great Games you CAN\u2019T BUY Anymore \ud83d\ude41",
+    "meta": [
+     "15K",
+     "8mo ago"
+    ],
+    "dur": "28:29",
+    "views_tab": 15000
+   },
+   {
+    "id": "7vZqMIX6O3o",
+    "title": "Retroid Pocket 6 // In-Depth Review - Benchmarks, Teardown, Emulation, PC Gaming & More!",
+    "meta": [
+     "108K",
+     "8mo ago"
+    ],
+    "dur": "41:12",
+    "views_tab": 108000
+   },
+   {
+    "id": "6Bw4WXBkVMs",
+    "title": "PC GAMING on ODIN 3 & 2, Thor, Retroid Pocket 5, G2, Flip 2 // Setup Guide, Comparisons & Gameplay",
+    "meta": [
+     "57K",
+     "9mo ago"
+    ],
+    "dur": "41:27",
+    "views_tab": 57000
+   },
+   {
+    "id": "xGGD6TTu3D8",
+    "title": "3\ufe0f\u20e33DS Emulation with Azahar - RG DS // Setup Guide, Install, & Games Showcase!",
+    "meta": [
+     "75K",
+     "10mo ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 75000
+   }
+  ],
+  "Latest": [
+   {
+    "id": "csTO9i-FOiY",
+    "title": "Xbox Ally X20 - This Might Be My Favorite PC Handheld",
+    "meta": [
+     "36K",
+     "10d ago"
+    ],
+    "dur": "21:35",
+    "views_tab": 36000
+   },
+   {
+    "id": "JylCQi6E2ss",
+    "title": "There\u2019s Another Small Android Tablet to Consider",
+    "meta": [
+     "18K",
+     "1mo ago"
+    ],
+    "dur": "19:52",
+    "views_tab": 18000
+   },
+   {
+    "id": "INaGsnRR400",
+    "title": "Awesome \u201cNEW\u201d Game Boy Advance Games (Unreleased, Homebrew & More!)",
+    "meta": [
+     "21K",
+     "1mo ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 21000
+   },
+   {
+    "id": "C6rhahzZku8",
+    "title": "The Z Fold 8 Might Be My Favorite Android Gaming Device",
+    "meta": [
+     "161K",
+     "1mo ago"
+    ],
+    "dur": "18:51",
+    "views_tab": 161000
+   },
+   {
+    "id": "3PN7WsKp_RQ",
+    "title": "This $150 PC Still Kicks Butt",
+    "meta": [
+     "279K",
+     "2mo ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 279000
+   },
+   {
+    "id": "-muXuH_tsBM",
+    "title": "XBOX Emulation on Android is Getting REALLY Good",
+    "meta": [
+     "67K",
+     "2mo ago"
+    ],
+    "dur": "28:13",
+    "views_tab": 67000
+   },
+   {
+    "id": "hNTHxsBZDMM",
+    "title": "The Retroid Pocket NOVA is Out of This World",
+    "meta": [
+     "116K",
+     "2mo ago"
+    ],
+    "dur": "31:58",
+    "views_tab": 116000
+   },
+   {
+    "id": "Qcp414wCM78",
+    "title": "These Android Games ROCK on the Anbernic RG Rotate",
+    "meta": [
+     "9.5K",
+     "3mo ago"
+    ],
+    "dur": "8:47",
+    "views_tab": 9500
+   },
+   {
+    "id": "h_OlV_ZtAJQ",
+    "title": "This 9\u201d OLED Gaming Tablet Is So Close to Perfect",
+    "meta": [
+     "47K",
+     "3mo ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 47000
+   },
+   {
+    "id": "Qm2sQyqUkUw",
+    "title": "This CHEAP Walmart PC Shouldn\u2019t Be Able To Do This",
+    "meta": [
+     "20K",
+     "3mo ago"
+    ],
+    "dur": "15:57",
+    "views_tab": 20000
+   },
+   {
+    "id": "n-bB7_RQa30",
+    "title": "This $135 Gaming Laptop Proves Old Hardware Still Has Value",
+    "meta": [
+     "84K",
+     "3mo ago"
+    ],
+    "dur": "22:51",
+    "views_tab": 84000
+   },
+   {
+    "id": "ikl5z2HgMSM",
+    "title": "Walmart\u2019s GIANT Android Tablet Has No Business Being This Feature Packed",
+    "meta": [
+     "155K",
+     "3mo ago"
+    ],
+    "dur": "20:05",
+    "views_tab": 155000
+   },
+   {
+    "id": "x2KNsNwa8M0",
+    "title": "This Laptop is an Absolute Powerhouse (MSI Katana 15 HX)",
+    "meta": [
+     "25K",
+     "4mo ago"
+    ],
+    "dur": "17:22",
+    "views_tab": 25000
+   },
+   {
+    "id": "FMCDMgnOjjw",
+    "title": "This Laptop Costs Less Than a Big Mac Meal",
+    "meta": [
+     "52K",
+     "4mo ago"
+    ],
+    "dur": "13:05",
+    "views_tab": 52000
+   },
+   {
+    "id": "8z3hqM-Cgfk",
+    "title": "The \ud835\ude49\ud835\ude40\ud835\ude52 Just Get A Steam Deck, Bro.",
+    "meta": [
+     "29K",
+     "4mo ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 29000
+   },
+   {
+    "id": "arkQunFex0g",
+    "title": "The Small & Budget Android Tablet Back ONN Top",
+    "meta": [
+     "94K",
+     "4mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 94000
+   },
+   {
+    "id": "oeddsfXzxfY",
+    "title": "The $80 Surface That\u2019s Weirdly Interesting",
+    "meta": [
+     "28K",
+     "5mo ago"
+    ],
+    "dur": "17:08",
+    "views_tab": 28000
+   },
+   {
+    "id": "D0-1tQ63jVs",
+    "title": "I Bought Walmart\u2019s Cheapest Windows Laptop (So You Don\u2019t Have To)",
+    "meta": [
+     "129K",
+     "5mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 129000
+   },
+   {
+    "id": "klYCTppC3Uo",
+    "title": "The PS5 Is a Steam Machine Now... and it's Insane",
+    "meta": [
+     "152K",
+     "5mo ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 152000
+   },
+   {
+    "id": "pH5jXXXzf84",
+    "title": "The 90s Windows Laptop That Fits in One Hand",
+    "meta": [
+     "5.9K",
+     "5mo ago"
+    ],
+    "dur": "13:46",
+    "views_tab": 5900
+   },
+   {
+    "id": "uLQIXIcn1x0",
+    "title": "This $68 Fujitsu Windows Tablet Is Weirdly Awesome",
+    "meta": [
+     "123K",
+     "6mo ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 123000
+   },
+   {
+    "id": "T45UAjFlqhk",
+    "title": "Don\u2019t Sleep on Old High-End Laptops: $150 Razer Blade 14 (2016)",
+    "meta": [
+     "138K",
+     "6mo ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 138000
+   },
+   {
+    "id": "3q128f1zzbw",
+    "title": "iPlay 80 Mini Ultra - 8.8\" Tablet with 5G! // In-Depth Review (Gaming, Emulation & More)",
+    "meta": [
+     "20K",
+     "6mo ago"
+    ],
+    "dur": "28:40",
+    "views_tab": 20000
+   },
+   {
+    "id": "r0gWWVnJC_I",
+    "title": "MacBook Neo // PC Gaming, Emulation, & More!",
+    "meta": [
+     "79K",
+     "7mo ago"
+    ],
+    "dur": "22:29",
+    "views_tab": 79000
+   },
+   {
+    "id": "Xn1cRI8SokI",
+    "title": "\ud83d\udcf2GREAT Indie Games On Android with Controller Support // 10 Games Worth Playing for Retro Handhelds!",
+    "meta": [
+     "14K",
+     "7mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 14000
+   },
+   {
+    "id": "foinaXkwFvw",
+    "title": "\ud83d\ude4cTRIFORCE with Dolphin on ANDROID! // Setup Guide, Settings, & Gameplay!",
+    "meta": [
+     "28K",
+     "8mo ago"
+    ],
+    "dur": "14:32",
+    "views_tab": 28000
+   },
+   {
+    "id": "EhunUQxCv94",
+    "title": "DELISTED PC Games with GAMEHUB on Android Handhelds // 10 Great Games you CAN\u2019T BUY Anymore \ud83d\ude41",
+    "meta": [
+     "15K",
+     "8mo ago"
+    ],
+    "dur": "28:29",
+    "views_tab": 15000
+   },
+   {
+    "id": "7vZqMIX6O3o",
+    "title": "Retroid Pocket 6 // In-Depth Review - Benchmarks, Teardown, Emulation, PC Gaming & More!",
+    "meta": [
+     "108K",
+     "8mo ago"
+    ],
+    "dur": "41:12",
+    "views_tab": 108000
+   },
+   {
+    "id": "6Bw4WXBkVMs",
+    "title": "PC GAMING on ODIN 3 & 2, Thor, Retroid Pocket 5, G2, Flip 2 // Setup Guide, Comparisons & Gameplay",
+    "meta": [
+     "57K",
+     "9mo ago"
+    ],
+    "dur": "41:27",
+    "views_tab": 57000
+   },
+   {
+    "id": "xGGD6TTu3D8",
+    "title": "3\ufe0f\u20e33DS Emulation with Azahar - RG DS // Setup Guide, Install, & Games Showcase!",
+    "meta": [
+     "75K",
+     "10mo ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 75000
+   },
+   {
+    "id": "NHu7llKrLWo",
+    "title": "ODIN 3 - The \u201cElite\u201d Handheld // In-Depth Review (Android & PC Gaming, Emulation, Teardown & More)",
+    "meta": [
+     "67K",
+     "10mo ago"
+    ],
+    "dur": "46:14",
+    "views_tab": 67000
+   },
+   {
+    "id": "XE1ZUlQGL8s",
+    "title": "REDMAGIC 11 Pro - LIQUID COOLED 8 Elite Gen 5 // In-Depth Review - Android, PC Gaming & Emulation!",
+    "meta": [
+     "153K",
+     "11mo ago"
+    ],
+    "dur": "32:25",
+    "views_tab": 153000
+   },
+   {
+    "id": "WVGXk_b1ox8",
+    "title": "ROG XBOX ALLY X \\\\ A VERY In-Depth Review - Benchmarks, Teardown, PC Gaming, Emulation & More!",
+    "meta": [
+     "45K",
+     "11mo ago"
+    ],
+    "dur": "41:40",
+    "views_tab": 45000
+   },
+   {
+    "id": "pg9GceF7no4",
+    "title": "ASUS ROG XBOX ALLY // In-Depth Review \u2013 Benchmarks, Teardown, PC Gaming, Emulation & More!",
+    "meta": [
+     "101K",
+     "1y ago"
+    ],
+    "dur": "42:13",
+    "views_tab": 101000
+   },
+   {
+    "id": "DUaxJlqvlWo",
+    "title": "Vita Emulation on Anbernic RG476H, RG556, & More! // Vita3K \u2013 Setup Guide, Settings & Games Showcase",
+    "meta": [
+     "17K",
+     "1y ago"
+    ],
+    "dur": "36:04",
+    "views_tab": 17000
+   },
+   {
+    "id": "z-muP2lR_B0",
+    "title": "PLAYSTATION 3 on ANDROID // Snapdragon 8 Elite \u2013 Setup Guide & Games Showcase",
+    "meta": [
+     "201K",
+     "1y ago"
+    ],
+    "dur": "50:16",
+    "views_tab": 201000
+   },
+   {
+    "id": "BXUdRecUSxk",
+    "title": "2\ufe0f\u20e3PLAYSTATION 2 Emulation on a BUDGET // MANGMI Air X - Settings, Guide, & 50+ Game Showcase!",
+    "meta": [
+     "76K",
+     "1y ago"
+    ],
+    "dur": "47:35",
+    "views_tab": 76000
+   },
+   {
+    "id": "rIUjLkXKBgU",
+    "title": "AWESOME PSP Emulation for $90 // Mangmi Air X - Showcase + Settings",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "26:41",
+    "views_tab": 32000
+   },
+   {
+    "id": "0MAXGUi56Aw",
+    "title": "Switch Emulation on Anbernic RG477M // Dimensity 8300 \u2013 Eden Setup Guide & Gameplay Showcase!",
+    "meta": [
+     "55K",
+     "1y ago"
+    ],
+    "dur": "38:36",
+    "views_tab": 55000
+   },
+   {
+    "id": "o2kg4Cr7ZQY",
+    "title": "Lenovo Legion Y700 Gen 4 + G9 Controller // STILL the KING of Compact Tablets? Gaming & Emulation",
+    "meta": [
+     "110K",
+     "1y ago"
+    ],
+    "dur": "30:45",
+    "views_tab": 110000
+   },
+   {
+    "id": "rnsNVPfQ2xw",
+    "title": "GAMECUBE Emulation on RG34XXSP & H700 Handhelds // muOS Pixie \u2013 Setup Guide & Games Showcase",
+    "meta": [
+     "47K",
+     "1y ago"
+    ],
+    "dur": "29:44",
+    "views_tab": 47000
+   },
+   {
+    "id": "fXShYHPdPeE",
+    "title": "REDMAGIC Astra - 9\" OLED Tablet // Android Gaming, Emulation, & More!",
+    "meta": [
+     "190K",
+     "1y ago"
+    ],
+    "dur": "29:41",
+    "views_tab": 190000
+   },
+   {
+    "id": "ZrVpgHyN6g4",
+    "title": "Premium Android Games That Make Sense on the Anbernic RG Slide!",
+    "meta": [
+     "16K",
+     "1y ago"
+    ],
+    "dur": "12:39",
+    "views_tab": 16000
+   },
+   {
+    "id": "uZQCOw7IOFM",
+    "title": "PlayStation 3 with UNISOC T820 (feat. Anbernic RG Slide) Setup, Tips, & Gameplay Showcase!",
+    "meta": [
+     "33K",
+     "1y ago"
+    ],
+    "dur": "23:24",
+    "views_tab": 33000
+   },
+   {
+    "id": "aIMjBIBk8fQ",
+    "title": "8.4\" Budget Tablet Contender // HEADWOLF FPAD7 - Gaming, Emulation & More!",
+    "meta": [
+     "14K",
+     "1y ago"
+    ],
+    "dur": "30:57",
+    "views_tab": 14000
+   },
+   {
+    "id": "0aAyQnTQe3k",
+    "title": "REDMAGIC 10S Pro - SUPERCHARGED Return // In-Depth Review - Gaming, Emulation & More!",
+    "meta": [
+     "36K",
+     "1y ago"
+    ],
+    "dur": "34:32",
+    "views_tab": 36000
+   },
+   {
+    "id": "GCjbqrcf9F0",
+    "title": "PLAYSTATION 3 on Anbernic RG557 (Dimensity 8300) // RPCSX Android \u2013 Setup Guide & Gameplay Showcase!",
+    "meta": [
+     "93K",
+     "1y ago"
+    ],
+    "dur": "36:07",
+    "views_tab": 93000
+   },
+   {
+    "id": "KGbWI_eXhr4",
+    "title": "Switch Emulation with Retroid Pocket Classic & Sudachi // 30 Games Showcase, Settings, & Tips!",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "28:58",
+    "views_tab": 22000
+   },
+   {
+    "id": "y0oiKy6Tjl0",
+    "title": "REDMAGIC 10 Air \u2013 LIGHT. THIN. POWERFUL // In-Depth Review \u2013 Gaming, Emulation & More",
+    "meta": [
+     "30K",
+     "1y ago"
+    ],
+    "dur": "29:28",
+    "views_tab": 30000
+   },
+   {
+    "id": "GmwnR37apsA",
+    "title": "iPlay 70 Mini Ultra \u2013 8.8\u201d ULTRA Power, LOW Price Tablet! Benchmarks, Gaming & Emulation",
+    "meta": [
+     "57K",
+     "1y ago"
+    ],
+    "dur": "32:41",
+    "views_tab": 57000
+   },
+   {
+    "id": "-raegMXZO-c",
+    "title": "ABXYLUTE One PRO // Streaming Handheld RETURNS - An Early Look (Android Gaming, Emulation, & More)",
+    "meta": [
+     "10K",
+     "1y ago"
+    ],
+    "dur": "23:46",
+    "views_tab": 10000
+   },
+   {
+    "id": "7lvwB6M5N-c",
+    "title": "PC Gaming & Emulation Performance - Intel's Twin Lake N150 with LPDDR5 feat. GMKTec G2 Plus",
+    "meta": [
+     "98K",
+     "1y ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 98000
+   },
+   {
+    "id": "tAxG8yA_jCI",
+    "title": "Legion Go S and Bazzite - A Much Better Combo?",
+    "meta": [
+     "13K",
+     "1y ago"
+    ],
+    "dur": "8:19",
+    "views_tab": 13000
+   },
+   {
+    "id": "U4vklgtPigc",
+    "title": "MSI Claw 7 AI+ A2VM // In-Depth Review - Benchmarks, Teardown, PC Gaming, Emulation & More!",
+    "meta": [
+     "66K",
+     "1y ago"
+    ],
+    "dur": "42:50",
+    "views_tab": 66000
+   },
+   {
+    "id": "Ib1y-W8CLrc",
+    "title": "WINLATOR on Odin 2 Portal (and Mini) // Setup Guide, Tips & Gameplay Showcase",
+    "meta": [
+     "74K",
+     "1y ago"
+    ],
+    "dur": "46:17",
+    "views_tab": 74000
+   },
+   {
+    "id": "QwMzobPhWlQ",
+    "title": "ODIN 2 PORTAL // Return of the King \u2013 An Early & In-Depth Preview // Teardown, Emulation, & More!",
+    "meta": [
+     "56K",
+     "1y ago"
+    ],
+    "dur": "30:29",
+    "views_tab": 56000
+   },
+   {
+    "id": "YbWagCVF2G0",
+    "title": "PLAYSTATION 3 ON Retroid Pocket 5 and Mini! RPCS3 with ROCKNIX // Setup Guide & Gameplay Showcase!",
+    "meta": [
+     "165K",
+     "1y ago"
+    ],
+    "dur": "37:42",
+    "views_tab": 165000
+   },
+   {
+    "id": "kJXMZXTwd6E",
+    "title": "Anbernic RG34XX \u2013 Modern Gameboy Advance // In-Depth Review \u2013 Teardown, Emulation, & More!",
+    "meta": [
+     "33K",
+     "1y ago"
+    ],
+    "dur": "35:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "Ntt93zk94Eg",
+    "title": "WINLATOR on Retroid Pocket 5 (and Mini) // Guide, Tips, & Gameplay Showcase",
+    "meta": [
+     "84K",
+     "1y ago"
+    ],
+    "dur": "21:22",
+    "views_tab": 84000
+   },
+   {
+    "id": "XOwdPeaDWus",
+    "title": "REDMAGIC 10 Pro - MOST Powerful Android Phone // In-Depth Review - Gaming, Emulation & More!",
+    "meta": [
+     "142K",
+     "1y ago"
+    ],
+    "dur": "33:44",
+    "views_tab": 142000
+   },
+   {
+    "id": "BopLqKADRhY",
+    "title": "Switch Emulation with Retroid Pocket 5 // Sudachi Emulator // Setup Guide, Tips, & 30 Game Showcase!",
+    "meta": [
+     "170K",
+     "1y ago"
+    ],
+    "dur": "40:34",
+    "views_tab": 170000
+   },
+   {
+    "id": "9KoitFPSk3g",
+    "title": "Retroid Pocket 5 // In-Depth Review // Benchmarks, Teardown, Emulation & More!",
+    "meta": [
+     "128K",
+     "1y ago"
+    ],
+    "dur": "52:23",
+    "views_tab": 128000
+   },
+   {
+    "id": "m9BZlqctRow",
+    "title": "WINLATOR on Retroid Pocket Mini (and 5) // PC Gaming on a MINI Handheld - Setup Guide & Showcase",
+    "meta": [
+     "82K",
+     "1y ago"
+    ],
+    "dur": "32:58",
+    "views_tab": 82000
+   },
+   {
+    "id": "_pgszR247uA",
+    "title": "8\" Budget Tablet Returns! ALLDOCUBE iPlay60 Mini TURBO - Snapdragon 6 Gen 1 // Gaming & Emulation!",
+    "meta": [
+     "64K",
+     "2y ago"
+    ],
+    "dur": "29:59",
+    "views_tab": 64000
+   },
+   {
+    "id": "EhTD_gaxBBU",
+    "title": "Switch Emulation with Retroid Pocket MINI // Snapdragon 865 // Setup Guide, Tips & 25+ Game Showcase",
+    "meta": [
+     "33K",
+     "2y ago"
+    ],
+    "dur": "37:04",
+    "views_tab": 33000
+   },
+   {
+    "id": "63sxT8r66rg",
+    "title": "\ud83d\udcf2 AWESOME Premium Android Games on Retroid Pocket Mini // 10 Games Worth Playing!",
+    "meta": [
+     "22K",
+     "2y ago"
+    ],
+    "dur": "15:49",
+    "views_tab": 22000
+   },
+   {
+    "id": "HJS6H9ulUic",
+    "title": "2\ufe0f\u20e3PlayStation 2 EMULATION // Retroid Pocket MINI & 5 // Settings, Tips & 50+ Game Showcase!",
+    "meta": [
+     "38K",
+     "2y ago"
+    ],
+    "dur": "51:03",
+    "views_tab": 38000
+   },
+   {
+    "id": "JRWp8-jAeQw",
+    "title": "Retroid Pocket MINI // In-Depth Review // Benchmarks, Teardown, Android Gaming, Emulation & More!",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "46:23",
+    "views_tab": 50000
+   },
+   {
+    "id": "Cj_-U8aEZTQ",
+    "title": "REDMAGIC Nova - MOST POWERFUL Gaming Tablet // In-Depth Review // Android Gaming, Emulation & More",
+    "meta": [
+     "104K",
+     "2y ago"
+    ],
+    "dur": "34:13",
+    "views_tab": 104000
+   },
+   {
+    "id": "f7ntYf2WnhM",
+    "title": "3\ufe0f\u20e3ULTIMATE PlayStation 3 Emulation // RPCS3 \u2013 ROG ALLY X - 100 GAMES // Setup Guide, Tips, Gameplay",
+    "meta": [
+     "71K",
+     "2y ago"
+    ],
+    "dur": "1:56:05",
+    "views_tab": 71000
+   },
+   {
+    "id": "G1laeuy2Y2Y",
+    "title": "Anbernic RG40XXV - In-Depth Look // Going Vertical, Again - Unboxing, Teardown, Emulation, and More!",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "26:04",
+    "views_tab": 36000
+   },
+   {
+    "id": "wyKMXYzq7cE",
+    "title": "CMF Phone 1 by Nothing - The Fun $199 Budget Android Phone // Benchmarks, Gaming & Emulation",
+    "meta": [
+     "48K",
+     "2y ago"
+    ],
+    "dur": "28:24",
+    "views_tab": 48000
+   },
+   {
+    "id": "9K4nY1gqjHw",
+    "title": "ONEPLUS PAD 2 \u2013 FIRST Snapdragon 8 Gen 3 TABLET // Unboxing, Benchmarks, Android Gaming & Emulation",
+    "meta": [
+     "125K",
+     "2y ago"
+    ],
+    "dur": "31:23",
+    "views_tab": 125000
+   },
+   {
+    "id": "-MMrg9cuKtU",
+    "title": "MagicX XU Mini M // A NEW CHALLENGER ARRIVES // In-Depth Look \u2013 Unboxing, Teardown, Emulation & More",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "32:14",
+    "views_tab": 10000
+   },
+   {
+    "id": "jTZrWzKWyx0",
+    "title": "PC Gaming on Snapdragon X Elite & Surface Pro 11 // 40 PC Games Showcase, Settings, & Tips!",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "36:48",
+    "views_tab": 34000
+   },
+   {
+    "id": "Z59vvl4lc5s",
+    "title": "PC Gaming & Emulation - Snapdragon X Elite // An Early Look at the Surface Pro 11 // Windows on ARM",
+    "meta": [
+     "57K",
+     "2y ago"
+    ],
+    "dur": "15:50",
+    "views_tab": 57000
+   },
+   {
+    "id": "fGY4aHvIdJ0",
+    "title": "AYN Odin 2 Mini // A VERY In-Depth Review / SMALLER. BRIGHTER. STILL THE BEST (Teardown & Emulation)",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "51:08",
+    "views_tab": 44000
+   },
+   {
+    "id": "eQZnbv5zc3w",
+    "title": "Switch Emulation with Sudachi (Anbernic RG556 - Unisoc T820) Setup Guide, Tips, & 30+ Game Showcase",
+    "meta": [
+     "101K",
+     "2y ago"
+    ],
+    "dur": "34:13",
+    "views_tab": 101000
+   },
+   {
+    "id": "wh1dAlD0KY8",
+    "title": "Powkiddy RGB20SX // In-Depth Review - Unboxing, Teardown, Emulation, Pico 8",
+    "meta": [
+     "7K",
+     "2y ago"
+    ],
+    "dur": "34:38",
+    "views_tab": 7000
+   },
+   {
+    "id": "crsxUQNaL4I",
+    "title": "PlayStation Portable Emulation NOW on iPhone & iPad! PPSSPP Emulator - Setup Guide, Showcase & More",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 26000
+   },
+   {
+    "id": "iXHDbC_MiUk",
+    "title": "Anbernic RG35XX SP // A VERY In-Depth Look at the Gameboy Advance SP for a New Generation",
+    "meta": [
+     "75K",
+     "2y ago"
+    ],
+    "dur": "49:21",
+    "views_tab": 75000
+   },
+   {
+    "id": "9BiCEczybac",
+    "title": "Nintendo 64 Rom Hacks // Awesome \u201cNew\u201d Experiences for Retro Handhelds",
+    "meta": [
+     "22K",
+     "2y ago"
+    ],
+    "dur": "24:05",
+    "views_tab": 22000
+   },
+   {
+    "id": "D9peKCqMFmQ",
+    "title": "Anbernic RG28XX | In-Depth Review // Unboxing, Teardown, Emulation, and more!",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "40:19",
+    "views_tab": 20000
+   },
+   {
+    "id": "0xM-lGIOfmY",
+    "title": "ScummVM \u2013 NOW on the Apple App Store! (iPhone, iPad, iOS) Setup Guide, Cloud Sync & Showcase",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "22:41",
+    "views_tab": 13000
+   },
+   {
+    "id": "rlmjyfm8wRE",
+    "title": "10 Great PREMIUM Touchscreen Games // Android & Apple Tablets/Phones/Handhelds",
+    "meta": [
+     "4.7K",
+     "2y ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 4700
+   },
+   {
+    "id": "0rx-ExnJo5Q",
+    "title": "DELTA Emulator - Emulation is BACK on the Apple App Store (iPhone, iPad, iOS) Setup Guide & Showcase",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 34000
+   },
+   {
+    "id": "1QnUw-Spg-8",
+    "title": "ATARI 400 Mini // An In-Depth Review // 8-Bit Computing Returns! Unboxing, Teardown, Games, & more!",
+    "meta": [
+     "4K",
+     "2y ago"
+    ],
+    "dur": "23:35",
+    "views_tab": 4000
+   },
+   {
+    "id": "aYLmopqa4E8",
+    "title": "Great Budget 8\u201d Android Tablet! ALLDOCUBE iPlay50 Mini Pro NFE // Helio G99 \u2013 Gaming & Emulation",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "23:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "OeklpRyrvx8",
+    "title": "Switch Emulation | Ryujinx - Apple M3 (MacBook Air Base) Setup Guide, Tips, 30+ Game Showcase!",
+    "meta": [
+     "141K",
+     "2y ago"
+    ],
+    "dur": "34:37",
+    "views_tab": 141000
+   },
+   {
+    "id": "VpdYX_zg0ls",
+    "title": "What HAPPENED?!?! MSI Claw 155H vs 135H vs ROG Ally Z1 & Z1 Extreme // Benchmarks & PC Gaming",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "18:30",
+    "views_tab": 35000
+   },
+   {
+    "id": "yYl_9k3BPPU",
+    "title": "MSI Claw \u2013 Core Ultra 5 135H // In-Depth Review // Benchmarks, Teardown, PC Games, Emulation",
+    "meta": [
+     "72K",
+     "2y ago"
+    ],
+    "dur": "50:57",
+    "views_tab": 72000
+   },
+   {
+    "id": "VJKFqB8r3qk",
+    "title": "When AMD & Intel Were Friends // Hades Canyon NUC Retrospective // PC Gaming and Emulation",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 9000
+   },
+   {
+    "id": "3cATthFZQGE",
+    "title": "Minisforum EM780 // Ryzen 7840U \u2013 Phenomenal Power, Itty Bitty Living Space! // Gaming & Emulation!",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "31:13",
+    "views_tab": 13000
+   },
+   {
+    "id": "r0JJiiKfwGY",
+    "title": "OneXPlayer X1 // The Return of Intel - Core Ultra 7 155H // Benchmarks, Emulation, PC Gaming & More!",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "48:55",
+    "views_tab": 35000
+   },
+   {
+    "id": "A64dhSDEGCI",
+    "title": "Switch Emulation with Yuzu // Retroid Pocket 4 Pro | Dimensity 1100 // Guide & 50+ Game Showcase!",
+    "meta": [
+     "133K",
+     "2y ago"
+    ],
+    "dur": "40:31",
+    "views_tab": 133000
+   },
+   {
+    "id": "V7CMizEOT-0",
+    "title": "$30 Hidden Gem? Lenovo ThinkSmart View - Business to Gaming // Emulation, Media Player & More!",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "18:44",
+    "views_tab": 36000
+   },
+   {
+    "id": "4S9sv2v8usY",
+    "title": "Retroid Pocket 4 PRO \u2013 THE IN-DEPTH REVIEW // Unboxing, Teardown, Emulation, Viewer Requests!",
+    "meta": [
+     "88K",
+     "2y ago"
+    ],
+    "dur": "46:43",
+    "views_tab": 88000
+   },
+   {
+    "id": "Zg3BzpfEQPQ",
+    "title": "\ud83d\udfeaMASSIVE GameCube Emulation on the Raspberry Pi 5 // Android 14 Install // Dolphin Setup & 50 Games!",
+    "meta": [
+     "43K",
+     "2y ago"
+    ],
+    "dur": "42:10",
+    "views_tab": 43000
+   },
+   {
+    "id": "sRS4BUDdV8g",
+    "title": "GPD Win Mini // In-Depth Review // Ryzen 7840U Goes MINI - Unboxing, Teardown, PC Gaming, Emulation",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "41:08",
+    "views_tab": 34000
+   },
+   {
+    "id": "VNnGzhjU5-U",
+    "title": "Retroid Pocket 4 Pro // An Early Look at the latest from Retroid (Overview, Benchmarks, Emulation)",
+    "meta": [
+     "89K",
+     "2y ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 89000
+   },
+   {
+    "id": "p-ImmHf9oOw",
+    "title": "Raspberry Pi 5 // In-Depth Look // Tiny but Mighty \u2013 Pi gets MORE POWER! Gaming, Emulation, & More",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "20:54",
+    "views_tab": 17000
+   },
+   {
+    "id": "1dYgYpVadmg",
+    "title": "\ud83c\udf84\ud83c\udf85 10 Great Christmas/Holiday Games to Play on Your Retro Handhelds \ud83c\udf85\ud83c\udf84 // Miyoo Mini, RG35XX & more!",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 2600
+   },
+   {
+    "id": "z0pK2I49JrE",
+    "title": "Switch Emulation with YUZU // Retroid Pocket 3+, Flip, and other T618 Devices // Guide and Showcase",
+    "meta": [
+     "45K",
+     "2y ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 45000
+   },
+   {
+    "id": "gAdlXPAcDcY",
+    "title": "The GRANDFATHER of Emulation Handhelds - Gamepark GP32 (Retrospective Ep. 3)",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "17:16",
+    "views_tab": 9300
+   },
+   {
+    "id": "ObUFuyxCDSk",
+    "title": "Anbernic RG ARC // In-Depth Review // RK3566 GOES 6 BUTTON \u2013 Unboxing, Teardown, Emulation + more!",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "41:33",
+    "views_tab": 27000
+   },
+   {
+    "id": "Sy7HKQHI-NE",
+    "title": "AYN Odin 2 | An In-Depth Review // Unboxing, Teardown, Emulation, Android Gaming and more!",
+    "meta": [
+     "63K",
+     "2y ago"
+    ],
+    "dur": "51:02",
+    "views_tab": 63000
+   },
+   {
+    "id": "Pp9wfW5fU6Y",
+    "title": "Powkiddy RGB30 // In-depth Review // Now My Favorite Way to Play Gameboy & PICO-8!",
+    "meta": [
+     "32K",
+     "2y ago"
+    ],
+    "dur": "31:52",
+    "views_tab": 32000
+   },
+   {
+    "id": "bVGMSCmXh2U",
+    "title": "Meta Quest 3 | In-Depth Review // Unboxing, Emulation, VR, MR and Android Gaming!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "31:22",
+    "views_tab": 41000
+   },
+   {
+    "id": "6Dl115OZ764",
+    "title": "Is the TikTok famous Powkiddy RGB20S still a good value in 2023? // @TEMU Find",
+    "meta": [
+     "8.7K",
+     "3y ago"
+    ],
+    "dur": "7:39",
+    "views_tab": 8700
+   },
+   {
+    "id": "KbUckT2VlIk",
+    "title": "Is Intel a Good Mini PC Option for Gaming? // AceMagic AD15 Review // PC Gaming, Indies, & Emulation",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "22:48",
+    "views_tab": 2500
+   },
+   {
+    "id": "DE7tTRJxBbk",
+    "title": "MORE Switch Emulation (YUZU) // Snapdragon 8 Gen 2 | Odin2 | RedMagic 8 Pro // Settings & Showcase!",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "30:17",
+    "views_tab": 71000
+   },
+   {
+    "id": "9pjVl1Q7UIk",
+    "title": "MyArcade Street Fighter II Nano Arcade Player Pro | Quick Look // Unboxing & Gameplay",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "10:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "DtH_g50KbEQ",
+    "title": "Retroid Pocket 2S | An In-Depth Review // Pocket 2 gets SERIOUS upgrades!",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "40:02",
+    "views_tab": 33000
+   },
+   {
+    "id": "6kj8YTBrfd4",
+    "title": "Anbernic RG405V | An In-Depth Look // T618 GOES CHONKY and VERTICAL (Unboxing, Teardown, Emulation)",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "33:00",
+    "views_tab": 65000
+   },
+   {
+    "id": "1De0rFj9I4g",
+    "title": "The BLACK Edition Powkiddy X55 // An In-Depth Look + Shoulder Button FIX!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "31:46",
+    "views_tab": 41000
+   },
+   {
+    "id": "HECHhndwU0E",
+    "title": "Xenia vs RPCS3 // Playstation vs Xbox \u2013 Which emulator does it better? (ASUS ROG Ally)",
+    "meta": [
+     "24K",
+     "3y ago"
+    ],
+    "dur": "35:13",
+    "views_tab": 24000
+   },
+   {
+    "id": "otFVNK5cIHo",
+    "title": "ONEXFLY - Compact Powerhouse! (Ryzen 7 7840U) An In-Depth Look",
+    "meta": [
+     "47K",
+     "3y ago"
+    ],
+    "dur": "36:20",
+    "views_tab": 47000
+   },
+   {
+    "id": "RxcmVsJSRhA",
+    "title": "Pimax Portal // In-Depth Review - The 4K VR Hybrid Android Handheld (Emulation & Teardown!)",
+    "meta": [
+     "9.8K",
+     "3y ago"
+    ],
+    "dur": "42:56",
+    "views_tab": 9800
+   },
+   {
+    "id": "w_7bV--4uDQ",
+    "title": "Gaming POWER in a MINI PC! AMD Ryzen 9 6900HX - Ace Magician AM08 Pro Review (PC Gaming & Emulation)",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "24:51",
+    "views_tab": 80000
+   },
+   {
+    "id": "hO6LJ41ERG8",
+    "title": "Checking in with AMD Ryzen 7 6800U \u2013 Can it handle 2023 games? \u2013 20+ Games Tested on the GPD Win4",
+    "meta": [
+     "45K",
+     "3y ago"
+    ],
+    "dur": "20:58",
+    "views_tab": 45000
+   }
+  ],
+  "Popular": [
+   {
+    "id": "3PN7WsKp_RQ",
+    "title": "This $150 PC Still Kicks Butt",
+    "meta": [
+     "279K",
+     "2mo ago"
+    ],
+    "dur": "16:45",
+    "views_tab": 279000
+   },
+   {
+    "id": "MPripzrWakQ",
+    "title": "3\ufe0f\u20e3MASSIVE Playstation 3 Emulation | RPCS3 - 50 Games Tested ASUS ROG Ally - Setup | Tips | Gameplay",
+    "meta": [
+     "239K",
+     "3y ago"
+    ],
+    "dur": "44:30",
+    "views_tab": 239000
+   },
+   {
+    "id": "z-muP2lR_B0",
+    "title": "PLAYSTATION 3 on ANDROID // Snapdragon 8 Elite \u2013 Setup Guide & Games Showcase",
+    "meta": [
+     "201K",
+     "1y ago"
+    ],
+    "dur": "50:16",
+    "views_tab": 201000
+   },
+   {
+    "id": "fXShYHPdPeE",
+    "title": "REDMAGIC Astra - 9\" OLED Tablet // Android Gaming, Emulation, & More!",
+    "meta": [
+     "190K",
+     "1y ago"
+    ],
+    "dur": "29:41",
+    "views_tab": 190000
+   },
+   {
+    "id": "deLIUng_goQ",
+    "title": "Switch Emulation (Skyline) on Snapdragon 8 Gen 2 | RedMagic 8 Pro | Settings, Tips, Gameplay!",
+    "meta": [
+     "176K",
+     "3y ago"
+    ],
+    "dur": "19:42",
+    "views_tab": 176000
+   },
+   {
+    "id": "BopLqKADRhY",
+    "title": "Switch Emulation with Retroid Pocket 5 // Sudachi Emulator // Setup Guide, Tips, & 30 Game Showcase!",
+    "meta": [
+     "170K",
+     "1y ago"
+    ],
+    "dur": "40:34",
+    "views_tab": 170000
+   },
+   {
+    "id": "YbWagCVF2G0",
+    "title": "PLAYSTATION 3 ON Retroid Pocket 5 and Mini! RPCS3 with ROCKNIX // Setup Guide & Gameplay Showcase!",
+    "meta": [
+     "165K",
+     "1y ago"
+    ],
+    "dur": "37:42",
+    "views_tab": 165000
+   },
+   {
+    "id": "C6rhahzZku8",
+    "title": "The Z Fold 8 Might Be My Favorite Android Gaming Device",
+    "meta": [
+     "161K",
+     "1mo ago"
+    ],
+    "dur": "18:51",
+    "views_tab": 161000
+   },
+   {
+    "id": "ikl5z2HgMSM",
+    "title": "Walmart\u2019s GIANT Android Tablet Has No Business Being This Feature Packed",
+    "meta": [
+     "155K",
+     "3mo ago"
+    ],
+    "dur": "20:05",
+    "views_tab": 155000
+   },
+   {
+    "id": "q1Cm6kqssWI",
+    "title": "The Ultimate DS/3DS Console and more? | Surface Duo | Showcase and Setup/Tips Guide (Citra, Drastic)",
+    "meta": [
+     "154K",
+     "3y ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 154000
+   },
+   {
+    "id": "XE1ZUlQGL8s",
+    "title": "REDMAGIC 11 Pro - LIQUID COOLED 8 Elite Gen 5 // In-Depth Review - Android, PC Gaming & Emulation!",
+    "meta": [
+     "153K",
+     "11mo ago"
+    ],
+    "dur": "32:25",
+    "views_tab": 153000
+   },
+   {
+    "id": "klYCTppC3Uo",
+    "title": "The PS5 Is a Steam Machine Now... and it's Insane",
+    "meta": [
+     "152K",
+     "5mo ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 152000
+   },
+   {
+    "id": "XOwdPeaDWus",
+    "title": "REDMAGIC 10 Pro - MOST Powerful Android Phone // In-Depth Review - Gaming, Emulation & More!",
+    "meta": [
+     "142K",
+     "1y ago"
+    ],
+    "dur": "33:44",
+    "views_tab": 142000
+   },
+   {
+    "id": "OeklpRyrvx8",
+    "title": "Switch Emulation | Ryujinx - Apple M3 (MacBook Air Base) Setup Guide, Tips, 30+ Game Showcase!",
+    "meta": [
+     "141K",
+     "2y ago"
+    ],
+    "dur": "34:37",
+    "views_tab": 141000
+   },
+   {
+    "id": "T45UAjFlqhk",
+    "title": "Don\u2019t Sleep on Old High-End Laptops: $150 Razer Blade 14 (2016)",
+    "meta": [
+     "138K",
+     "6mo ago"
+    ],
+    "dur": "16:39",
+    "views_tab": 138000
+   },
+   {
+    "id": "SfgEfF8hiLg",
+    "title": "Switch Emulation (YUZU) on Snapdragon 8 Gen 2 | RedMagic 8 Pro | Settings, Tips, Gameplay Showcase!",
+    "meta": [
+     "134K",
+     "3y ago"
+    ],
+    "dur": "20:08",
+    "views_tab": 134000
+   },
+   {
+    "id": "A64dhSDEGCI",
+    "title": "Switch Emulation with Yuzu // Retroid Pocket 4 Pro | Dimensity 1100 // Guide & 50+ Game Showcase!",
+    "meta": [
+     "133K",
+     "2y ago"
+    ],
+    "dur": "40:31",
+    "views_tab": 133000
+   },
+   {
+    "id": "D0-1tQ63jVs",
+    "title": "I Bought Walmart\u2019s Cheapest Windows Laptop (So You Don\u2019t Have To)",
+    "meta": [
+     "129K",
+     "5mo ago"
+    ],
+    "dur": "15:27",
+    "views_tab": 129000
+   },
+   {
+    "id": "9KoitFPSk3g",
+    "title": "Retroid Pocket 5 // In-Depth Review // Benchmarks, Teardown, Emulation & More!",
+    "meta": [
+     "128K",
+     "1y ago"
+    ],
+    "dur": "52:23",
+    "views_tab": 128000
+   },
+   {
+    "id": "9K4nY1gqjHw",
+    "title": "ONEPLUS PAD 2 \u2013 FIRST Snapdragon 8 Gen 3 TABLET // Unboxing, Benchmarks, Android Gaming & Emulation",
+    "meta": [
+     "125K",
+     "2y ago"
+    ],
+    "dur": "31:23",
+    "views_tab": 125000
+   },
+   {
+    "id": "uLQIXIcn1x0",
+    "title": "This $68 Fujitsu Windows Tablet Is Weirdly Awesome",
+    "meta": [
+     "123K",
+     "6mo ago"
+    ],
+    "dur": "17:50",
+    "views_tab": 123000
+   },
+   {
+    "id": "hNTHxsBZDMM",
+    "title": "The Retroid Pocket NOVA is Out of This World",
+    "meta": [
+     "116K",
+     "2mo ago"
+    ],
+    "dur": "31:58",
+    "views_tab": 116000
+   },
+   {
+    "id": "o2kg4Cr7ZQY",
+    "title": "Lenovo Legion Y700 Gen 4 + G9 Controller // STILL the KING of Compact Tablets? Gaming & Emulation",
+    "meta": [
+     "110K",
+     "1y ago"
+    ],
+    "dur": "30:45",
+    "views_tab": 110000
+   },
+   {
+    "id": "Jy-HlXPEIsI",
+    "title": "$19 Emulation Box? ONN. Google TV (2ND Gen - 2023) Android Gaming | Streaming | PSP | DC | PS1 | N64",
+    "meta": [
+     "108K",
+     "3y ago"
+    ],
+    "dur": "27:35",
+    "views_tab": 108000
+   },
+   {
+    "id": "7vZqMIX6O3o",
+    "title": "Retroid Pocket 6 // In-Depth Review - Benchmarks, Teardown, Emulation, PC Gaming & More!",
+    "meta": [
+     "108K",
+     "8mo ago"
+    ],
+    "dur": "41:12",
+    "views_tab": 108000
+   },
+   {
+    "id": "Cj_-U8aEZTQ",
+    "title": "REDMAGIC Nova - MOST POWERFUL Gaming Tablet // In-Depth Review // Android Gaming, Emulation & More",
+    "meta": [
+     "104K",
+     "2y ago"
+    ],
+    "dur": "34:13",
+    "views_tab": 104000
+   },
+   {
+    "id": "eQZnbv5zc3w",
+    "title": "Switch Emulation with Sudachi (Anbernic RG556 - Unisoc T820) Setup Guide, Tips, & 30+ Game Showcase",
+    "meta": [
+     "101K",
+     "2y ago"
+    ],
+    "dur": "34:13",
+    "views_tab": 101000
+   },
+   {
+    "id": "pg9GceF7no4",
+    "title": "ASUS ROG XBOX ALLY // In-Depth Review \u2013 Benchmarks, Teardown, PC Gaming, Emulation & More!",
+    "meta": [
+     "101K",
+     "1y ago"
+    ],
+    "dur": "42:13",
+    "views_tab": 101000
+   },
+   {
+    "id": "HbafRt4yUqc",
+    "title": "\u274eMASSIVE Xbox 360 Emulation | Xenia Canary - 50 Games Tested ASUS ROG Ally - Setup | Tips | Gameplay",
+    "meta": [
+     "100K",
+     "3y ago"
+    ],
+    "dur": "47:43",
+    "views_tab": 100000
+   },
+   {
+    "id": "7lvwB6M5N-c",
+    "title": "PC Gaming & Emulation Performance - Intel's Twin Lake N150 with LPDDR5 feat. GMKTec G2 Plus",
+    "meta": [
+     "98K",
+     "1y ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 98000
+   },
+   {
+    "id": "arkQunFex0g",
+    "title": "The Small & Budget Android Tablet Back ONN Top",
+    "meta": [
+     "94K",
+     "4mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 94000
+   },
+   {
+    "id": "GCjbqrcf9F0",
+    "title": "PLAYSTATION 3 on Anbernic RG557 (Dimensity 8300) // RPCSX Android \u2013 Setup Guide & Gameplay Showcase!",
+    "meta": [
+     "93K",
+     "1y ago"
+    ],
+    "dur": "36:07",
+    "views_tab": 93000
+   },
+   {
+    "id": "VNnGzhjU5-U",
+    "title": "Retroid Pocket 4 Pro // An Early Look at the latest from Retroid (Overview, Benchmarks, Emulation)",
+    "meta": [
+     "89K",
+     "2y ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 89000
+   },
+   {
+    "id": "4S9sv2v8usY",
+    "title": "Retroid Pocket 4 PRO \u2013 THE IN-DEPTH REVIEW // Unboxing, Teardown, Emulation, Viewer Requests!",
+    "meta": [
+     "88K",
+     "2y ago"
+    ],
+    "dur": "46:43",
+    "views_tab": 88000
+   },
+   {
+    "id": "n-bB7_RQa30",
+    "title": "This $135 Gaming Laptop Proves Old Hardware Still Has Value",
+    "meta": [
+     "84K",
+     "3mo ago"
+    ],
+    "dur": "22:51",
+    "views_tab": 84000
+   },
+   {
+    "id": "Ntt93zk94Eg",
+    "title": "WINLATOR on Retroid Pocket 5 (and Mini) // Guide, Tips, & Gameplay Showcase",
+    "meta": [
+     "84K",
+     "1y ago"
+    ],
+    "dur": "21:22",
+    "views_tab": 84000
+   },
+   {
+    "id": "m9BZlqctRow",
+    "title": "WINLATOR on Retroid Pocket Mini (and 5) // PC Gaming on a MINI Handheld - Setup Guide & Showcase",
+    "meta": [
+     "82K",
+     "1y ago"
+    ],
+    "dur": "32:58",
+    "views_tab": 82000
+   },
+   {
+    "id": "w_7bV--4uDQ",
+    "title": "Gaming POWER in a MINI PC! AMD Ryzen 9 6900HX - Ace Magician AM08 Pro Review (PC Gaming & Emulation)",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "24:51",
+    "views_tab": 80000
+   },
+   {
+    "id": "VzEnyTwWPn0",
+    "title": "RedMagic 8 Pro | In-Depth Look - Unboxing, Teardown, Emulation, Android Games",
+    "meta": [
+     "79K",
+     "3y ago"
+    ],
+    "dur": "39:10",
+    "views_tab": 79000
+   },
+   {
+    "id": "r0gWWVnJC_I",
+    "title": "MacBook Neo // PC Gaming, Emulation, & More!",
+    "meta": [
+     "79K",
+     "7mo ago"
+    ],
+    "dur": "22:29",
+    "views_tab": 79000
+   },
+   {
+    "id": "BXUdRecUSxk",
+    "title": "2\ufe0f\u20e3PLAYSTATION 2 Emulation on a BUDGET // MANGMI Air X - Settings, Guide, & 50+ Game Showcase!",
+    "meta": [
+     "76K",
+     "1y ago"
+    ],
+    "dur": "47:35",
+    "views_tab": 76000
+   },
+   {
+    "id": "iXHDbC_MiUk",
+    "title": "Anbernic RG35XX SP // A VERY In-Depth Look at the Gameboy Advance SP for a New Generation",
+    "meta": [
+     "75K",
+     "2y ago"
+    ],
+    "dur": "49:21",
+    "views_tab": 75000
+   },
+   {
+    "id": "xGGD6TTu3D8",
+    "title": "3\ufe0f\u20e33DS Emulation with Azahar - RG DS // Setup Guide, Install, & Games Showcase!",
+    "meta": [
+     "75K",
+     "10mo ago"
+    ],
+    "dur": "26:12",
+    "views_tab": 75000
+   },
+   {
+    "id": "Ib1y-W8CLrc",
+    "title": "WINLATOR on Odin 2 Portal (and Mini) // Setup Guide, Tips & Gameplay Showcase",
+    "meta": [
+     "74K",
+     "1y ago"
+    ],
+    "dur": "46:17",
+    "views_tab": 74000
+   },
+   {
+    "id": "yYl_9k3BPPU",
+    "title": "MSI Claw \u2013 Core Ultra 5 135H // In-Depth Review // Benchmarks, Teardown, PC Games, Emulation",
+    "meta": [
+     "72K",
+     "2y ago"
+    ],
+    "dur": "50:57",
+    "views_tab": 72000
+   },
+   {
+    "id": "f7ntYf2WnhM",
+    "title": "3\ufe0f\u20e3ULTIMATE PlayStation 3 Emulation // RPCS3 \u2013 ROG ALLY X - 100 GAMES // Setup Guide, Tips, Gameplay",
+    "meta": [
+     "71K",
+     "2y ago"
+    ],
+    "dur": "1:56:05",
+    "views_tab": 71000
+   },
+   {
+    "id": "DE7tTRJxBbk",
+    "title": "MORE Switch Emulation (YUZU) // Snapdragon 8 Gen 2 | Odin2 | RedMagic 8 Pro // Settings & Showcase!",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "30:17",
+    "views_tab": 71000
+   },
+   {
+    "id": "-muXuH_tsBM",
+    "title": "XBOX Emulation on Android is Getting REALLY Good",
+    "meta": [
+     "67K",
+     "2mo ago"
+    ],
+    "dur": "28:13",
+    "views_tab": 67000
+   },
+   {
+    "id": "NHu7llKrLWo",
+    "title": "ODIN 3 - The \u201cElite\u201d Handheld // In-Depth Review (Android & PC Gaming, Emulation, Teardown & More)",
+    "meta": [
+     "67K",
+     "10mo ago"
+    ],
+    "dur": "46:14",
+    "views_tab": 67000
+   },
+   {
+    "id": "RXwxz6vWGhs",
+    "title": "ROG Ally | An In-Depth Look (Ryzen Z1 Extreme) Unboxing, Teardown, PC Gaming, Emulation, Testing",
+    "meta": [
+     "66K",
+     "3y ago"
+    ],
+    "dur": "46:34",
+    "views_tab": 66000
+   },
+   {
+    "id": "U4vklgtPigc",
+    "title": "MSI Claw 7 AI+ A2VM // In-Depth Review - Benchmarks, Teardown, PC Gaming, Emulation & More!",
+    "meta": [
+     "66K",
+     "1y ago"
+    ],
+    "dur": "42:50",
+    "views_tab": 66000
+   },
+   {
+    "id": "6kj8YTBrfd4",
+    "title": "Anbernic RG405V | An In-Depth Look // T618 GOES CHONKY and VERTICAL (Unboxing, Teardown, Emulation)",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "33:00",
+    "views_tab": 65000
+   },
+   {
+    "id": "chY3z77p8mQ",
+    "title": "Anbernic RG405M - An In Depth Look - \"The Premium,  All-Metal T618\" (Unboxing, Teardown, Gameplay)",
+    "meta": [
+     "64K",
+     "3y ago"
+    ],
+    "dur": "41:13",
+    "views_tab": 64000
+   },
+   {
+    "id": "_pgszR247uA",
+    "title": "8\" Budget Tablet Returns! ALLDOCUBE iPlay60 Mini TURBO - Snapdragon 6 Gen 1 // Gaming & Emulation!",
+    "meta": [
+     "64K",
+     "2y ago"
+    ],
+    "dur": "29:59",
+    "views_tab": 64000
+   },
+   {
+    "id": "Sy7HKQHI-NE",
+    "title": "AYN Odin 2 | An In-Depth Review // Unboxing, Teardown, Emulation, Android Gaming and more!",
+    "meta": [
+     "63K",
+     "2y ago"
+    ],
+    "dur": "51:02",
+    "views_tab": 63000
+   },
+   {
+    "id": "6Bw4WXBkVMs",
+    "title": "PC GAMING on ODIN 3 & 2, Thor, Retroid Pocket 5, G2, Flip 2 // Setup Guide, Comparisons & Gameplay",
+    "meta": [
+     "57K",
+     "9mo ago"
+    ],
+    "dur": "41:27",
+    "views_tab": 57000
+   },
+   {
+    "id": "GmwnR37apsA",
+    "title": "iPlay 70 Mini Ultra \u2013 8.8\u201d ULTRA Power, LOW Price Tablet! Benchmarks, Gaming & Emulation",
+    "meta": [
+     "57K",
+     "1y ago"
+    ],
+    "dur": "32:41",
+    "views_tab": 57000
+   },
+   {
+    "id": "Z59vvl4lc5s",
+    "title": "PC Gaming & Emulation - Snapdragon X Elite // An Early Look at the Surface Pro 11 // Windows on ARM",
+    "meta": [
+     "57K",
+     "2y ago"
+    ],
+    "dur": "15:50",
+    "views_tab": 57000
+   },
+   {
+    "id": "QwMzobPhWlQ",
+    "title": "ODIN 2 PORTAL // Return of the King \u2013 An Early & In-Depth Preview // Teardown, Emulation, & More!",
+    "meta": [
+     "56K",
+     "1y ago"
+    ],
+    "dur": "30:29",
+    "views_tab": 56000
+   },
+   {
+    "id": "vMJKEG3CV-k",
+    "title": "GammaOS for Anbernic RG505! Custom Firmware for Anbernic's T618 Handhelds - Setup Guide and Overview",
+    "meta": [
+     "56K",
+     "3y ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 56000
+   },
+   {
+    "id": "0MAXGUi56Aw",
+    "title": "Switch Emulation on Anbernic RG477M // Dimensity 8300 \u2013 Eden Setup Guide & Gameplay Showcase!",
+    "meta": [
+     "55K",
+     "1y ago"
+    ],
+    "dur": "38:36",
+    "views_tab": 55000
+   },
+   {
+    "id": "FMCDMgnOjjw",
+    "title": "This Laptop Costs Less Than a Big Mac Meal",
+    "meta": [
+     "52K",
+     "4mo ago"
+    ],
+    "dur": "13:05",
+    "views_tab": 52000
+   },
+   {
+    "id": "JRWp8-jAeQw",
+    "title": "Retroid Pocket MINI // In-Depth Review // Benchmarks, Teardown, Android Gaming, Emulation & More!",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "46:23",
+    "views_tab": 50000
+   },
+   {
+    "id": "wyKMXYzq7cE",
+    "title": "CMF Phone 1 by Nothing - The Fun $199 Budget Android Phone // Benchmarks, Gaming & Emulation",
+    "meta": [
+     "48K",
+     "2y ago"
+    ],
+    "dur": "28:24",
+    "views_tab": 48000
+   },
+   {
+    "id": "rnsNVPfQ2xw",
+    "title": "GAMECUBE Emulation on RG34XXSP & H700 Handhelds // muOS Pixie \u2013 Setup Guide & Games Showcase",
+    "meta": [
+     "47K",
+     "1y ago"
+    ],
+    "dur": "29:44",
+    "views_tab": 47000
+   },
+   {
+    "id": "otFVNK5cIHo",
+    "title": "ONEXFLY - Compact Powerhouse! (Ryzen 7 7840U) An In-Depth Look",
+    "meta": [
+     "47K",
+     "3y ago"
+    ],
+    "dur": "36:20",
+    "views_tab": 47000
+   },
+   {
+    "id": "h_OlV_ZtAJQ",
+    "title": "This 9\u201d OLED Gaming Tablet Is So Close to Perfect",
+    "meta": [
+     "47K",
+     "3mo ago"
+    ],
+    "dur": "23:34",
+    "views_tab": 47000
+   },
+   {
+    "id": "hO6LJ41ERG8",
+    "title": "Checking in with AMD Ryzen 7 6800U \u2013 Can it handle 2023 games? \u2013 20+ Games Tested on the GPD Win4",
+    "meta": [
+     "45K",
+     "3y ago"
+    ],
+    "dur": "20:58",
+    "views_tab": 45000
+   },
+   {
+    "id": "WVGXk_b1ox8",
+    "title": "ROG XBOX ALLY X \\\\ A VERY In-Depth Review - Benchmarks, Teardown, PC Gaming, Emulation & More!",
+    "meta": [
+     "45K",
+     "11mo ago"
+    ],
+    "dur": "41:40",
+    "views_tab": 45000
+   },
+   {
+    "id": "z0pK2I49JrE",
+    "title": "Switch Emulation with YUZU // Retroid Pocket 3+, Flip, and other T618 Devices // Guide and Showcase",
+    "meta": [
+     "45K",
+     "2y ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 45000
+   },
+   {
+    "id": "fGY4aHvIdJ0",
+    "title": "AYN Odin 2 Mini // A VERY In-Depth Review / SMALLER. BRIGHTER. STILL THE BEST (Teardown & Emulation)",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "51:08",
+    "views_tab": 44000
+   },
+   {
+    "id": "Zg3BzpfEQPQ",
+    "title": "\ud83d\udfeaMASSIVE GameCube Emulation on the Raspberry Pi 5 // Android 14 Install // Dolphin Setup & 50 Games!",
+    "meta": [
+     "43K",
+     "2y ago"
+    ],
+    "dur": "42:10",
+    "views_tab": 43000
+   },
+   {
+    "id": "2MH6_j49Z_g",
+    "title": "Razer Edge | An In-Depth Look | Unboxing, Teardown, Android Gaming, Emulation, Streaming + GIVEAWAY!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "37:37",
+    "views_tab": 41000
+   },
+   {
+    "id": "1De0rFj9I4g",
+    "title": "The BLACK Edition Powkiddy X55 // An In-Depth Look + Shoulder Button FIX!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "31:46",
+    "views_tab": 41000
+   },
+   {
+    "id": "bVGMSCmXh2U",
+    "title": "Meta Quest 3 | In-Depth Review // Unboxing, Emulation, VR, MR and Android Gaming!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "31:22",
+    "views_tab": 41000
+   },
+   {
+    "id": "iwDEOvm25Bs",
+    "title": "More Android Games on Retroid Pocket 3+| Anbernic RG505| X18S Save MONEY, Say NO to Nintendo e-Shop!",
+    "meta": [
+     "40K",
+     "3y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 40000
+   },
+   {
+    "id": "aYLmopqa4E8",
+    "title": "Great Budget 8\u201d Android Tablet! ALLDOCUBE iPlay50 Mini Pro NFE // Helio G99 \u2013 Gaming & Emulation",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "23:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "HJS6H9ulUic",
+    "title": "2\ufe0f\u20e3PlayStation 2 EMULATION // Retroid Pocket MINI & 5 // Settings, Tips & 50+ Game Showcase!",
+    "meta": [
+     "38K",
+     "2y ago"
+    ],
+    "dur": "51:03",
+    "views_tab": 38000
+   },
+   {
+    "id": "ibK1vr0dTo4",
+    "title": "Switch Emulation (Skyline) Retroid Pocket 3+ | Anbernic RG505 | Powkiddy X18S | Guide and Showcase",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "12:45",
+    "views_tab": 38000
+   },
+   {
+    "id": "zD2PCQJjk_w",
+    "title": "GPD Win 4 | An In-Depth Look: Unboxing, Teardown, PC Gaming, Emulation, Testing",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "40:08",
+    "views_tab": 38000
+   },
+   {
+    "id": "U6oyu8pZ1FE",
+    "title": "Logitech G Cloud - 4 Months Later... New Update - Controller Mapping, Teardown, D-Pad Fix?",
+    "meta": [
+     "37K",
+     "3y ago"
+    ],
+    "dur": "13:41",
+    "views_tab": 37000
+   },
+   {
+    "id": "z6Ss1vTnaLc",
+    "title": "Powkiddy X28 | An In-Depth Look - The 5.5\u201d T618 Handheld  (Unboxing, Teardown, Gameplay)",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "31:01",
+    "views_tab": 36000
+   },
+   {
+    "id": "0aAyQnTQe3k",
+    "title": "REDMAGIC 10S Pro - SUPERCHARGED Return // In-Depth Review - Gaming, Emulation & More!",
+    "meta": [
+     "36K",
+     "1y ago"
+    ],
+    "dur": "34:32",
+    "views_tab": 36000
+   },
+   {
+    "id": "csTO9i-FOiY",
+    "title": "Xbox Ally X20 - This Might Be My Favorite PC Handheld",
+    "meta": [
+     "36K",
+     "10d ago"
+    ],
+    "dur": "21:35",
+    "views_tab": 36000
+   },
+   {
+    "id": "V7CMizEOT-0",
+    "title": "$30 Hidden Gem? Lenovo ThinkSmart View - Business to Gaming // Emulation, Media Player & More!",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "18:44",
+    "views_tab": 36000
+   },
+   {
+    "id": "G1laeuy2Y2Y",
+    "title": "Anbernic RG40XXV - In-Depth Look // Going Vertical, Again - Unboxing, Teardown, Emulation, and More!",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "26:04",
+    "views_tab": 36000
+   },
+   {
+    "id": "tDP0B3jHYtk",
+    "title": "Playstation 2 Emulation (AetherSX2) Logitech G CLOUD | MASSIVE 50 Games Showcase - Settings/Gameplay",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "34:40",
+    "views_tab": 36000
+   },
+   {
+    "id": "VpdYX_zg0ls",
+    "title": "What HAPPENED?!?! MSI Claw 155H vs 135H vs ROG Ally Z1 & Z1 Extreme // Benchmarks & PC Gaming",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "18:30",
+    "views_tab": 35000
+   },
+   {
+    "id": "r0JJiiKfwGY",
+    "title": "OneXPlayer X1 // The Return of Intel - Core Ultra 7 155H // Benchmarks, Emulation, PC Gaming & More!",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "48:55",
+    "views_tab": 35000
+   },
+   {
+    "id": "0rx-ExnJo5Q",
+    "title": "DELTA Emulator - Emulation is BACK on the Apple App Store (iPhone, iPad, iOS) Setup Guide & Showcase",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 34000
+   },
+   {
+    "id": "in-Z2C_BprE",
+    "title": "AMD Athlon Gold 7220U | Mendocino Surprising Low TDP Performance | 25 PC Games Showcase Radeon 610M",
+    "meta": [
+     "34K",
+     "3y ago"
+    ],
+    "dur": "25:01",
+    "views_tab": 34000
+   },
+   {
+    "id": "sRS4BUDdV8g",
+    "title": "GPD Win Mini // In-Depth Review // Ryzen 7840U Goes MINI - Unboxing, Teardown, PC Gaming, Emulation",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "41:08",
+    "views_tab": 34000
+   },
+   {
+    "id": "jTZrWzKWyx0",
+    "title": "PC Gaming on Snapdragon X Elite & Surface Pro 11 // 40 PC Games Showcase, Settings, & Tips!",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "36:48",
+    "views_tab": 34000
+   },
+   {
+    "id": "DtH_g50KbEQ",
+    "title": "Retroid Pocket 2S | An In-Depth Review // Pocket 2 gets SERIOUS upgrades!",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "40:02",
+    "views_tab": 33000
+   },
+   {
+    "id": "EhTD_gaxBBU",
+    "title": "Switch Emulation with Retroid Pocket MINI // Snapdragon 865 // Setup Guide, Tips & 25+ Game Showcase",
+    "meta": [
+     "33K",
+     "2y ago"
+    ],
+    "dur": "37:04",
+    "views_tab": 33000
+   },
+   {
+    "id": "uZQCOw7IOFM",
+    "title": "PlayStation 3 with UNISOC T820 (feat. Anbernic RG Slide) Setup, Tips, & Gameplay Showcase!",
+    "meta": [
+     "33K",
+     "1y ago"
+    ],
+    "dur": "23:24",
+    "views_tab": 33000
+   },
+   {
+    "id": "kJXMZXTwd6E",
+    "title": "Anbernic RG34XX \u2013 Modern Gameboy Advance // In-Depth Review \u2013 Teardown, Emulation, & More!",
+    "meta": [
+     "33K",
+     "1y ago"
+    ],
+    "dur": "35:48",
+    "views_tab": 33000
+   },
+   {
+    "id": "LIW_NJRcU0U",
+    "title": "\ud83c\udfae Retroid Pocket 3 Plus | \"Deja Review\" - Return of the Great | Unboxing, Emulation, Android Gaming!",
+    "meta": [
+     "32K",
+     "3y ago"
+    ],
+    "dur": "36:03",
+    "views_tab": 32000
+   },
+   {
+    "id": "rIUjLkXKBgU",
+    "title": "AWESOME PSP Emulation for $90 // Mangmi Air X - Showcase + Settings",
+    "meta": [
+     "32K",
+     "1y ago"
+    ],
+    "dur": "26:41",
+    "views_tab": 32000
+   },
+   {
+    "id": "Pp9wfW5fU6Y",
+    "title": "Powkiddy RGB30 // In-depth Review // Now My Favorite Way to Play Gameboy & PICO-8!",
+    "meta": [
+     "32K",
+     "2y ago"
+    ],
+    "dur": "31:52",
+    "views_tab": 32000
+   },
+   {
+    "id": "y0oiKy6Tjl0",
+    "title": "REDMAGIC 10 Air \u2013 LIGHT. THIN. POWERFUL // In-Depth Review \u2013 Gaming, Emulation & More",
+    "meta": [
+     "30K",
+     "1y ago"
+    ],
+    "dur": "29:28",
+    "views_tab": 30000
+   },
+   {
+    "id": "Jjh-9Ey2p2o",
+    "title": "Second Chance? - Anbernic RG505 | Life After Custom Firmware (GammaOS)",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 30000
+   },
+   {
+    "id": "9sPxqGEv-Po",
+    "title": "More Nintendo Switch Emulation (Skyline) on T618 | Retroid Pocket 3+, Anbernic RG505, Powkiddy X18S",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 30000
+   },
+   {
+    "id": "8z3hqM-Cgfk",
+    "title": "The \ud835\ude49\ud835\ude40\ud835\ude52 Just Get A Steam Deck, Bro.",
+    "meta": [
+     "29K",
+     "4mo ago"
+    ],
+    "dur": "9:07",
+    "views_tab": 29000
+   },
+   {
+    "id": "oETIgcnUtT0",
+    "title": "\ud83d\udcf2 Android Fan Games and Unofficial Ports on the Retroid Pocket 3 (2+) |  RETROID POCKET 3 GIVEAWAY!",
+    "meta": [
+     "29K",
+     "4y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 29000
+   },
+   {
+    "id": "PAOwkqmuacE",
+    "title": "GPD Win Max 2 | In-Depth Look | Ryzen 6800U The Real Deal? | Unboxing, PC Gaming, Emulation, Testing",
+    "meta": [
+     "28K",
+     "3y ago"
+    ],
+    "dur": "37:52",
+    "views_tab": 28000
+   },
+   {
+    "id": "oeddsfXzxfY",
+    "title": "The $80 Surface That\u2019s Weirdly Interesting",
+    "meta": [
+     "28K",
+     "5mo ago"
+    ],
+    "dur": "17:08",
+    "views_tab": 28000
+   },
+   {
+    "id": "foinaXkwFvw",
+    "title": "\ud83d\ude4cTRIFORCE with Dolphin on ANDROID! // Setup Guide, Settings, & Gameplay!",
+    "meta": [
+     "28K",
+     "8mo ago"
+    ],
+    "dur": "14:32",
+    "views_tab": 28000
+   },
+   {
+    "id": "ObUFuyxCDSk",
+    "title": "Anbernic RG ARC // In-Depth Review // RK3566 GOES 6 BUTTON \u2013 Unboxing, Teardown, Emulation + more!",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "41:33",
+    "views_tab": 27000
+   },
+   {
+    "id": "crsxUQNaL4I",
+    "title": "PlayStation Portable Emulation NOW on iPhone & iPad! PPSSPP Emulator - Setup Guide, Showcase & More",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 26000
+   },
+   {
+    "id": "Z0iOV1MyL4E",
+    "title": "MASSIVE Playstation 2 Emulation | Batocera (PCSX2) Over 50 Games Tested Anbernic Win600 Athlon 3050e",
+    "meta": [
+     "25K",
+     "4y ago"
+    ],
+    "dur": "31:40",
+    "views_tab": 25000
+   },
+   {
+    "id": "x2KNsNwa8M0",
+    "title": "This Laptop is an Absolute Powerhouse (MSI Katana 15 HX)",
+    "meta": [
+     "25K",
+     "4mo ago"
+    ],
+    "dur": "17:22",
+    "views_tab": 25000
+   },
+   {
+    "id": "HECHhndwU0E",
+    "title": "Xenia vs RPCS3 // Playstation vs Xbox \u2013 Which emulator does it better? (ASUS ROG Ally)",
+    "meta": [
+     "24K",
+     "3y ago"
+    ],
+    "dur": "35:13",
+    "views_tab": 24000
+   },
+   {
+    "id": "rbMAPaymEdw",
+    "title": "Logitech G Cloud Android Handheld | In-Depth Look | Unboxing, Streaming, Emulation, Native Gaming",
+    "meta": [
+     "24K",
+     "3y ago"
+    ],
+    "dur": "27:09",
+    "views_tab": 24000
+   },
+   {
+    "id": "9BiCEczybac",
+    "title": "Nintendo 64 Rom Hacks // Awesome \u201cNew\u201d Experiences for Retro Handhelds",
+    "meta": [
+     "22K",
+     "2y ago"
+    ],
+    "dur": "24:05",
+    "views_tab": 22000
+   },
+   {
+    "id": "63sxT8r66rg",
+    "title": "\ud83d\udcf2 AWESOME Premium Android Games on Retroid Pocket Mini // 10 Games Worth Playing!",
+    "meta": [
+     "22K",
+     "2y ago"
+    ],
+    "dur": "15:49",
+    "views_tab": 22000
+   },
+   {
+    "id": "kYNwJJl1SdM",
+    "title": "Customize Miyoo Mini With Me + Teardown, Grip Case, and GIVEAWAY!",
+    "meta": [
+     "22K",
+     "3y ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "KGbWI_eXhr4",
+    "title": "Switch Emulation with Retroid Pocket Classic & Sudachi // 30 Games Showcase, Settings, & Tips!",
+    "meta": [
+     "22K",
+     "1y ago"
+    ],
+    "dur": "28:58",
+    "views_tab": 22000
+   },
+   {
+    "id": "bkJWml18rWY",
+    "title": "AMD Mendocino | Athlon Gold 7220U | Preview of AYN Loki Mini? | Benchmarks, Emulation, PC Gaming",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "38:57",
+    "views_tab": 21000
+   },
+   {
+    "id": "INaGsnRR400",
+    "title": "Awesome \u201cNEW\u201d Game Boy Advance Games (Unreleased, Homebrew & More!)",
+    "meta": [
+     "21K",
+     "1mo ago"
+    ],
+    "dur": "14:43",
+    "views_tab": 21000
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "Uev4jQm8Cxg",
+    "title": "Anbernic Win600 - 10 Games on PC (2014 or earlier) Showcase",
+    "meta": [
+     "6.4K",
+     "4y ago"
+    ],
+    "dur": "12:40",
+    "views_tab": 6400
+   },
+   {
+    "id": "Ro93xblfX2Y",
+    "title": "Anbernic Win600 - Xbox Gamepass for PC Showcase (10 Games)",
+    "meta": [
+     "6.5K",
+     "4y ago"
+    ],
+    "dur": "15:21",
+    "views_tab": 6500
+   },
+   {
+    "id": "Ub0gMpo0HwY",
+    "title": "2022 PC Game Releases - Anbernic Win600 (Testing Games)",
+    "meta": [
+     "7.6K",
+     "4y ago"
+    ],
+    "dur": "9:41",
+    "views_tab": 7600
+   },
+   {
+    "id": "tVUP_CxrNUk",
+    "title": "EA Play for PC (10 Games Showcase) on Anbernic Win600 Athlon Silver 3050e",
+    "meta": [
+     "12K",
+     "4y ago"
+    ],
+    "dur": "13:20",
+    "views_tab": 12000
+   },
+   {
+    "id": "wR7MjjIVEc0",
+    "title": "Looking at Wii U Emulation in Batocera | CEMU | Surprising Results? - Anbernic Win600 - Athlon 3050e",
+    "meta": [
+     "15K",
+     "4y ago"
+    ],
+    "dur": "19:00",
+    "views_tab": 15000
+   },
+   {
+    "id": "Z0iOV1MyL4E",
+    "title": "MASSIVE Playstation 2 Emulation | Batocera (PCSX2) Over 50 Games Tested Anbernic Win600 Athlon 3050e",
+    "meta": [
+     "25K",
+     "4y ago"
+    ],
+    "dur": "31:40",
+    "views_tab": 25000
+   },
+   {
+    "id": "DxHqdRZQNi0",
+    "title": "GPD XP PLUS - In-Depth Look at an Android Modular BEAST (Unboxing, Emulation, Testing) PS2 Wii 3DS",
+    "meta": [
+     "9.6K",
+     "4y ago"
+    ],
+    "dur": "30:05",
+    "views_tab": 9600
+   },
+   {
+    "id": "jtKid1Q6a14",
+    "title": "Useful ACCESSORIES & MODS for On-The-Go WIN600 Gaming | Case, Controllers, Power, Dock, RAM, SSD |",
+    "meta": [
+     "6.9K",
+     "4y ago"
+    ],
+    "dur": "6:06",
+    "views_tab": 6900
+   },
+   {
+    "id": "rI9HrodDwVE",
+    "title": "\u274eOG XBOX Emulation | Batocera (XEMU) 30 Games Tested - Exclusives | HALO on Anbernic Win600 3050e",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "21:00",
+    "views_tab": 11000
+   },
+   {
+    "id": "nye7ZpBeb2o",
+    "title": "\ud83d\udcbb10 MORE PC GAMES (2014 and earlier) Showcase | Anbernic Win600 Athlon 3050e",
+    "meta": [
+     "4K",
+     "4y ago"
+    ],
+    "dur": "13:58",
+    "views_tab": 4000
+   },
+   {
+    "id": "kMnw8kK8Zro",
+    "title": "An early look at JELOS on the Anbernic WIN600 | Emulation Frontend | Should Batocera be Jealous?",
+    "meta": [
+     "5.4K",
+     "4y ago"
+    ],
+    "dur": "6:27",
+    "views_tab": 5400
+   },
+   {
+    "id": "knxsm_6jGKY",
+    "title": "\ud83c\udfae Retroid Pocket 3 | In-Depth Look at the Follow-Up to the 2+ | Unboxing, Emulation, Tests | Android",
+    "meta": [
+     "11K",
+     "4y ago"
+    ],
+    "dur": "23:19",
+    "views_tab": 11000
+   },
+   {
+    "id": "45P9OOhUFMs",
+    "title": "MASSIVE Playstation 2 Emulation | AetherSX2 - Testing 50 of the BEST Selling PS2 Games | GPD XP Plus",
+    "meta": [
+     "8.2K",
+     "4y ago"
+    ],
+    "dur": "38:54",
+    "views_tab": 8200
+   },
+   {
+    "id": "3pF35sbs8bY",
+    "title": "$79 Helio P60 - What the Miyoo P60 Could Bring to the Table? Emulation | Android Gaming | PS2/PSP/GC",
+    "meta": [
+     "6.5K",
+     "4y ago"
+    ],
+    "dur": "13:27",
+    "views_tab": 6500
+   },
+   {
+    "id": "Ba_cU3xgBiQ",
+    "title": "\ud83d\udcf2 10 Premium Android Games Worth Checking Out for the Retroid Pocket 3 (and 2+) | Google Play Pass",
+    "meta": [
+     "20K",
+     "4y ago"
+    ],
+    "dur": "13:02",
+    "views_tab": 20000
+   },
+   {
+    "id": "dUpxniXiFts",
+    "title": "Playstation 3 on Win600 | Is it possible? | Exploring 10 Games in RPCS3 | Batocera | Anbernic Win600",
+    "meta": [
+     "18K",
+     "4y ago"
+    ],
+    "dur": "13:07",
+    "views_tab": 18000
+   },
+   {
+    "id": "uPSk9JqylGo",
+    "title": "Playstation 2 on Retroid Pocket 3 and 2+ | Exploring the Possibilities - 25 Playable PS2 Games!",
+    "meta": [
+     "12K",
+     "4y ago"
+    ],
+    "dur": "19:39",
+    "views_tab": 12000
+   },
+   {
+    "id": "2w8j8t75UI0",
+    "title": "More Android Games on RP3 | No Switch? No problem. Switch Games on Android \u2013 Avoid the NINTENDO TAX!",
+    "meta": [
+     "13K",
+     "4y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 13000
+   },
+   {
+    "id": "oETIgcnUtT0",
+    "title": "\ud83d\udcf2 Android Fan Games and Unofficial Ports on the Retroid Pocket 3 (2+) |  RETROID POCKET 3 GIVEAWAY!",
+    "meta": [
+     "29K",
+     "4y ago"
+    ],
+    "dur": "11:52",
+    "views_tab": 29000
+   },
+   {
+    "id": "rbMAPaymEdw",
+    "title": "Logitech G Cloud Android Handheld | In-Depth Look | Unboxing, Streaming, Emulation, Native Gaming",
+    "meta": [
+     "24K",
+     "3y ago"
+    ],
+    "dur": "27:09",
+    "views_tab": 24000
+   },
+   {
+    "id": "GPA97osgWMo",
+    "title": "\ud83c\udf83\ud83d\udc7b 8 SPOOKY Games for 8 SPOOKY Handhelds | Halloween Special | Steam Deck, Switch, Win600, Retroid",
+    "meta": [
+     "1K",
+     "3y ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 1000
+   },
+   {
+    "id": "QP7bqRbKeuE",
+    "title": "PSP Emulation | Logitech G Cloud Handheld | The Super Playstation Portable? Top 25 Metacritic Games",
+    "meta": [
+     "18K",
+     "3y ago"
+    ],
+    "dur": "25:26",
+    "views_tab": 18000
+   },
+   {
+    "id": "8-3ck9PaK4Q",
+    "title": "15 Overlooked & Forgotten Games on Playstation 2 | Steam Deck | Exploring PCSX2 Emulation | EmuDeck",
+    "meta": [
+     "3.3K",
+     "3y ago"
+    ],
+    "dur": "17:23",
+    "views_tab": 3300
+   },
+   {
+    "id": "UEe7DSBTr68",
+    "title": "2022 PC Game New Releases - REVISITED | Anbernic Win600 (10 Games Tested)",
+    "meta": [
+     "5K",
+     "3y ago"
+    ],
+    "dur": "13:59",
+    "views_tab": 5000
+   },
+   {
+    "id": "azzaP9yhzxo",
+    "title": "Is the Xbox Series S Still The Best Value In Gaming? Emulation | Streaming | Game Pass | Remote Play",
+    "meta": [
+     "2.9K",
+     "3y ago"
+    ],
+    "dur": "11:02",
+    "views_tab": 2900
+   },
+   {
+    "id": "PAOwkqmuacE",
+    "title": "GPD Win Max 2 | In-Depth Look | Ryzen 6800U The Real Deal? | Unboxing, PC Gaming, Emulation, Testing",
+    "meta": [
+     "28K",
+     "3y ago"
+    ],
+    "dur": "37:52",
+    "views_tab": 28000
+   },
+   {
+    "id": "LIW_NJRcU0U",
+    "title": "\ud83c\udfae Retroid Pocket 3 Plus | \"Deja Review\" - Return of the Great | Unboxing, Emulation, Android Gaming!",
+    "meta": [
+     "32K",
+     "3y ago"
+    ],
+    "dur": "36:03",
+    "views_tab": 32000
+   },
+   {
+    "id": "ibK1vr0dTo4",
+    "title": "Switch Emulation (Skyline) Retroid Pocket 3+ | Anbernic RG505 | Powkiddy X18S | Guide and Showcase",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "12:45",
+    "views_tab": 38000
+   },
+   {
+    "id": "iwDEOvm25Bs",
+    "title": "More Android Games on Retroid Pocket 3+| Anbernic RG505| X18S Save MONEY, Say NO to Nintendo e-Shop!",
+    "meta": [
+     "40K",
+     "3y ago"
+    ],
+    "dur": "15:01",
+    "views_tab": 40000
+   },
+   {
+    "id": "ds8uKXpI25I",
+    "title": "Evercade EXP | An In-Depth Look (Unboxing, Gameplay, and Teardown!)",
+    "meta": [
+     "6.7K",
+     "3y ago"
+    ],
+    "dur": "42:19",
+    "views_tab": 6700
+   },
+   {
+    "id": "kYNwJJl1SdM",
+    "title": "Customize Miyoo Mini With Me + Teardown, Grip Case, and GIVEAWAY!",
+    "meta": [
+     "22K",
+     "3y ago"
+    ],
+    "dur": "15:30",
+    "views_tab": 22000
+   },
+   {
+    "id": "bkJWml18rWY",
+    "title": "AMD Mendocino | Athlon Gold 7220U | Preview of AYN Loki Mini? | Benchmarks, Emulation, PC Gaming",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "38:57",
+    "views_tab": 21000
+   },
+   {
+    "id": "in-Z2C_BprE",
+    "title": "AMD Athlon Gold 7220U | Mendocino Surprising Low TDP Performance | 25 PC Games Showcase Radeon 610M",
+    "meta": [
+     "34K",
+     "3y ago"
+    ],
+    "dur": "25:01",
+    "views_tab": 34000
+   },
+   {
+    "id": "VGDsCsZo-QE",
+    "title": "\ud83d\udcf2Android Games NOT on Switch & Worth Checking Out | Anbernic RG505, Retroid Pocket 3, AYN Odin, X18S",
+    "meta": [
+     "13K",
+     "3y ago"
+    ],
+    "dur": "13:57",
+    "views_tab": 13000
+   },
+   {
+    "id": "ShrwhnernbM",
+    "title": "The Razer Phone 2... Still a Gaming Beast?",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "12:59",
+    "views_tab": 10000
+   },
+   {
+    "id": "2MH6_j49Z_g",
+    "title": "Razer Edge | An In-Depth Look | Unboxing, Teardown, Android Gaming, Emulation, Streaming + GIVEAWAY!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "37:37",
+    "views_tab": 41000
+   },
+   {
+    "id": "_1qqT131t_E",
+    "title": "Android Games Exclusively on Amazon App Store | 15 Games NOT on Google Play | Retroid Pocket 3+ Odin",
+    "meta": [
+     "9.6K",
+     "3y ago"
+    ],
+    "dur": "15:03",
+    "views_tab": 9600
+   },
+   {
+    "id": "U6oyu8pZ1FE",
+    "title": "Logitech G Cloud - 4 Months Later... New Update - Controller Mapping, Teardown, D-Pad Fix?",
+    "meta": [
+     "37K",
+     "3y ago"
+    ],
+    "dur": "13:41",
+    "views_tab": 37000
+   },
+   {
+    "id": "em-7C4JktHs",
+    "title": "\ud83d\udd79Indie Heroes 2 for Evercade | Cart #28 | Gameplay for all 12 games!",
+    "meta": [
+     "566",
+     "3y ago"
+    ],
+    "dur": "11:46",
+    "views_tab": 566
+   },
+   {
+    "id": "VzEnyTwWPn0",
+    "title": "RedMagic 8 Pro | In-Depth Look - Unboxing, Teardown, Emulation, Android Games",
+    "meta": [
+     "79K",
+     "3y ago"
+    ],
+    "dur": "39:10",
+    "views_tab": 79000
+   },
+   {
+    "id": "745JsOgfkNE",
+    "title": "\u2601\ud83c\udfae ABXYLUTE Cloud Handheld - An Early Look | Game Pass, GeForce Now, Moonlight, PS5 Remote Play",
+    "meta": [
+     "8.5K",
+     "3y ago"
+    ],
+    "dur": "8:51",
+    "views_tab": 8500
+   },
+   {
+    "id": "9sPxqGEv-Po",
+    "title": "More Nintendo Switch Emulation (Skyline) on T618 | Retroid Pocket 3+, Anbernic RG505, Powkiddy X18S",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "9:13",
+    "views_tab": 30000
+   },
+   {
+    "id": "jqfT_CP8Y5s",
+    "title": "\ud83d\udcfa\ud83c\udfae JXD S7800b - Android Gaming Handheld | Retrospective Series (Episode 2)",
+    "meta": [
+     "9.2K",
+     "3y ago"
+    ],
+    "dur": "12:22",
+    "views_tab": 9200
+   },
+   {
+    "id": "chY3z77p8mQ",
+    "title": "Anbernic RG405M - An In Depth Look - \"The Premium,  All-Metal T618\" (Unboxing, Teardown, Gameplay)",
+    "meta": [
+     "64K",
+     "3y ago"
+    ],
+    "dur": "41:13",
+    "views_tab": 64000
+   },
+   {
+    "id": "ccivw_bR39o",
+    "title": "ABXYLUTE Handheld - An In-depth Look - \"Budget Cloud?\" (Unboxing, Teardown, Emulation, Gameplay)",
+    "meta": [
+     "20K",
+     "3y ago"
+    ],
+    "dur": "40:31",
+    "views_tab": 20000
+   },
+   {
+    "id": "4q53KYDdfUQ",
+    "title": "\ud83d\udc40\ud83d\udc40\ud83d\ude32A Game Changer Handheld! - 500 in 1 Games with a \"cool\" twist",
+    "meta": [
+     "1.2K",
+     "3y ago"
+    ],
+    "dur": "7:21",
+    "views_tab": 1200
+   },
+   {
+    "id": "deLIUng_goQ",
+    "title": "Switch Emulation (Skyline) on Snapdragon 8 Gen 2 | RedMagic 8 Pro | Settings, Tips, Gameplay!",
+    "meta": [
+     "176K",
+     "3y ago"
+    ],
+    "dur": "19:42",
+    "views_tab": 176000
+   },
+   {
+    "id": "gRNlo9CVbv0",
+    "title": "Helio G99 - What the KT-R1 Could Bring to the Table? Benchmarks/Emulation/Android Games | PS2-GC-Wii",
+    "meta": [
+     "20K",
+     "3y ago"
+    ],
+    "dur": "17:00",
+    "views_tab": 20000
+   },
+   {
+    "id": "tDP0B3jHYtk",
+    "title": "Playstation 2 Emulation (AetherSX2) Logitech G CLOUD | MASSIVE 50 Games Showcase - Settings/Gameplay",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "34:40",
+    "views_tab": 36000
+   },
+   {
+    "id": "2dUEGj2GAuA",
+    "title": "Powkiddy RK2023 | An In-Depth Look - \"A Budget RK3566 Handheld?\" (Unboxing, Teardown, Gameplay)",
+    "meta": [
+     "11K",
+     "3y ago"
+    ],
+    "dur": "31:59",
+    "views_tab": 11000
+   },
+   {
+    "id": "IQv04fPKCEA",
+    "title": "ABXYLUTE Follow-Up | DVT2 Engineering Model \u2013 D-Pad FIXED?",
+    "meta": [
+     "5.1K",
+     "3y ago"
+    ],
+    "dur": "10:25",
+    "views_tab": 5100
+   },
+   {
+    "id": "Jy-HlXPEIsI",
+    "title": "$19 Emulation Box? ONN. Google TV (2ND Gen - 2023) Android Gaming | Streaming | PSP | DC | PS1 | N64",
+    "meta": [
+     "108K",
+     "3y ago"
+    ],
+    "dur": "27:35",
+    "views_tab": 108000
+   },
+   {
+    "id": "q1Cm6kqssWI",
+    "title": "The Ultimate DS/3DS Console and more? | Surface Duo | Showcase and Setup/Tips Guide (Citra, Drastic)",
+    "meta": [
+     "154K",
+     "3y ago"
+    ],
+    "dur": "25:13",
+    "views_tab": 154000
+   },
+   {
+    "id": "PdE9vNRRjUI",
+    "title": "Custom Firmware Has Arrived! GammaOS CFW (v1) - Overview and Setup Guide | Anbernic RG405M",
+    "meta": [
+     "21K",
+     "3y ago"
+    ],
+    "dur": "9:05",
+    "views_tab": 21000
+   },
+   {
+    "id": "z6Ss1vTnaLc",
+    "title": "Powkiddy X28 | An In-Depth Look - The 5.5\u201d T618 Handheld  (Unboxing, Teardown, Gameplay)",
+    "meta": [
+     "36K",
+     "3y ago"
+    ],
+    "dur": "31:01",
+    "views_tab": 36000
+   },
+   {
+    "id": "SfgEfF8hiLg",
+    "title": "Switch Emulation (YUZU) on Snapdragon 8 Gen 2 | RedMagic 8 Pro | Settings, Tips, Gameplay Showcase!",
+    "meta": [
+     "134K",
+     "3y ago"
+    ],
+    "dur": "20:08",
+    "views_tab": 134000
+   },
+   {
+    "id": "3Ocwuk3DB_0",
+    "title": "\ud83d\udcf2 Premium Android Games on Retroid Pocket, Odin, and other Android Handhelds! | Google Play Store",
+    "meta": [
+     "17K",
+     "3y ago"
+    ],
+    "dur": "11:23",
+    "views_tab": 17000
+   },
+   {
+    "id": "RXwxz6vWGhs",
+    "title": "ROG Ally | An In-Depth Look (Ryzen Z1 Extreme) Unboxing, Teardown, PC Gaming, Emulation, Testing",
+    "meta": [
+     "66K",
+     "3y ago"
+    ],
+    "dur": "46:34",
+    "views_tab": 66000
+   },
+   {
+    "id": "vMJKEG3CV-k",
+    "title": "GammaOS for Anbernic RG505! Custom Firmware for Anbernic's T618 Handhelds - Setup Guide and Overview",
+    "meta": [
+     "56K",
+     "3y ago"
+    ],
+    "dur": "10:15",
+    "views_tab": 56000
+   },
+   {
+    "id": "zD2PCQJjk_w",
+    "title": "GPD Win 4 | An In-Depth Look: Unboxing, Teardown, PC Gaming, Emulation, Testing",
+    "meta": [
+     "38K",
+     "3y ago"
+    ],
+    "dur": "40:08",
+    "views_tab": 38000
+   },
+   {
+    "id": "Jjh-9Ey2p2o",
+    "title": "Second Chance? - Anbernic RG505 | Life After Custom Firmware (GammaOS)",
+    "meta": [
+     "30K",
+     "3y ago"
+    ],
+    "dur": "9:08",
+    "views_tab": 30000
+   },
+   {
+    "id": "MPripzrWakQ",
+    "title": "3\ufe0f\u20e3MASSIVE Playstation 3 Emulation | RPCS3 - 50 Games Tested ASUS ROG Ally - Setup | Tips | Gameplay",
+    "meta": [
+     "239K",
+     "3y ago"
+    ],
+    "dur": "44:30",
+    "views_tab": 239000
+   },
+   {
+    "id": "HbafRt4yUqc",
+    "title": "\u274eMASSIVE Xbox 360 Emulation | Xenia Canary - 50 Games Tested ASUS ROG Ally - Setup | Tips | Gameplay",
+    "meta": [
+     "100K",
+     "3y ago"
+    ],
+    "dur": "47:43",
+    "views_tab": 100000
+   },
+   {
+    "id": "hO6LJ41ERG8",
+    "title": "Checking in with AMD Ryzen 7 6800U \u2013 Can it handle 2023 games? \u2013 20+ Games Tested on the GPD Win4",
+    "meta": [
+     "45K",
+     "3y ago"
+    ],
+    "dur": "20:58",
+    "views_tab": 45000
+   },
+   {
+    "id": "w_7bV--4uDQ",
+    "title": "Gaming POWER in a MINI PC! AMD Ryzen 9 6900HX - Ace Magician AM08 Pro Review (PC Gaming & Emulation)",
+    "meta": [
+     "80K",
+     "3y ago"
+    ],
+    "dur": "24:51",
+    "views_tab": 80000
+   },
+   {
+    "id": "RxcmVsJSRhA",
+    "title": "Pimax Portal // In-Depth Review - The 4K VR Hybrid Android Handheld (Emulation & Teardown!)",
+    "meta": [
+     "9.8K",
+     "3y ago"
+    ],
+    "dur": "42:56",
+    "views_tab": 9800
+   },
+   {
+    "id": "otFVNK5cIHo",
+    "title": "ONEXFLY - Compact Powerhouse! (Ryzen 7 7840U) An In-Depth Look",
+    "meta": [
+     "47K",
+     "3y ago"
+    ],
+    "dur": "36:20",
+    "views_tab": 47000
+   },
+   {
+    "id": "HECHhndwU0E",
+    "title": "Xenia vs RPCS3 // Playstation vs Xbox \u2013 Which emulator does it better? (ASUS ROG Ally)",
+    "meta": [
+     "24K",
+     "3y ago"
+    ],
+    "dur": "35:13",
+    "views_tab": 24000
+   },
+   {
+    "id": "1De0rFj9I4g",
+    "title": "The BLACK Edition Powkiddy X55 // An In-Depth Look + Shoulder Button FIX!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "31:46",
+    "views_tab": 41000
+   },
+   {
+    "id": "6kj8YTBrfd4",
+    "title": "Anbernic RG405V | An In-Depth Look // T618 GOES CHONKY and VERTICAL (Unboxing, Teardown, Emulation)",
+    "meta": [
+     "65K",
+     "3y ago"
+    ],
+    "dur": "33:00",
+    "views_tab": 65000
+   },
+   {
+    "id": "DtH_g50KbEQ",
+    "title": "Retroid Pocket 2S | An In-Depth Review // Pocket 2 gets SERIOUS upgrades!",
+    "meta": [
+     "33K",
+     "3y ago"
+    ],
+    "dur": "40:02",
+    "views_tab": 33000
+   },
+   {
+    "id": "9pjVl1Q7UIk",
+    "title": "MyArcade Street Fighter II Nano Arcade Player Pro | Quick Look // Unboxing & Gameplay",
+    "meta": [
+     "10K",
+     "3y ago"
+    ],
+    "dur": "10:36",
+    "views_tab": 10000
+   },
+   {
+    "id": "DE7tTRJxBbk",
+    "title": "MORE Switch Emulation (YUZU) // Snapdragon 8 Gen 2 | Odin2 | RedMagic 8 Pro // Settings & Showcase!",
+    "meta": [
+     "71K",
+     "3y ago"
+    ],
+    "dur": "30:17",
+    "views_tab": 71000
+   },
+   {
+    "id": "KbUckT2VlIk",
+    "title": "Is Intel a Good Mini PC Option for Gaming? // AceMagic AD15 Review // PC Gaming, Indies, & Emulation",
+    "meta": [
+     "2.5K",
+     "3y ago"
+    ],
+    "dur": "22:48",
+    "views_tab": 2500
+   },
+   {
+    "id": "6Dl115OZ764",
+    "title": "Is the TikTok famous Powkiddy RGB20S still a good value in 2023? // @TEMU Find",
+    "meta": [
+     "8.7K",
+     "3y ago"
+    ],
+    "dur": "7:39",
+    "views_tab": 8700
+   },
+   {
+    "id": "bVGMSCmXh2U",
+    "title": "Meta Quest 3 | In-Depth Review // Unboxing, Emulation, VR, MR and Android Gaming!",
+    "meta": [
+     "41K",
+     "3y ago"
+    ],
+    "dur": "31:22",
+    "views_tab": 41000
+   },
+   {
+    "id": "Pp9wfW5fU6Y",
+    "title": "Powkiddy RGB30 // In-depth Review // Now My Favorite Way to Play Gameboy & PICO-8!",
+    "meta": [
+     "32K",
+     "2y ago"
+    ],
+    "dur": "31:52",
+    "views_tab": 32000
+   },
+   {
+    "id": "Sy7HKQHI-NE",
+    "title": "AYN Odin 2 | An In-Depth Review // Unboxing, Teardown, Emulation, Android Gaming and more!",
+    "meta": [
+     "63K",
+     "2y ago"
+    ],
+    "dur": "51:02",
+    "views_tab": 63000
+   },
+   {
+    "id": "ObUFuyxCDSk",
+    "title": "Anbernic RG ARC // In-Depth Review // RK3566 GOES 6 BUTTON \u2013 Unboxing, Teardown, Emulation + more!",
+    "meta": [
+     "27K",
+     "2y ago"
+    ],
+    "dur": "41:33",
+    "views_tab": 27000
+   },
+   {
+    "id": "gAdlXPAcDcY",
+    "title": "The GRANDFATHER of Emulation Handhelds - Gamepark GP32 (Retrospective Ep. 3)",
+    "meta": [
+     "9.3K",
+     "2y ago"
+    ],
+    "dur": "17:16",
+    "views_tab": 9300
+   },
+   {
+    "id": "z0pK2I49JrE",
+    "title": "Switch Emulation with YUZU // Retroid Pocket 3+, Flip, and other T618 Devices // Guide and Showcase",
+    "meta": [
+     "45K",
+     "2y ago"
+    ],
+    "dur": "15:56",
+    "views_tab": 45000
+   },
+   {
+    "id": "1dYgYpVadmg",
+    "title": "\ud83c\udf84\ud83c\udf85 10 Great Christmas/Holiday Games to Play on Your Retro Handhelds \ud83c\udf85\ud83c\udf84 // Miyoo Mini, RG35XX & more!",
+    "meta": [
+     "2.6K",
+     "2y ago"
+    ],
+    "dur": "11:11",
+    "views_tab": 2600
+   },
+   {
+    "id": "p-ImmHf9oOw",
+    "title": "Raspberry Pi 5 // In-Depth Look // Tiny but Mighty \u2013 Pi gets MORE POWER! Gaming, Emulation, & More",
+    "meta": [
+     "17K",
+     "2y ago"
+    ],
+    "dur": "20:54",
+    "views_tab": 17000
+   },
+   {
+    "id": "VNnGzhjU5-U",
+    "title": "Retroid Pocket 4 Pro // An Early Look at the latest from Retroid (Overview, Benchmarks, Emulation)",
+    "meta": [
+     "89K",
+     "2y ago"
+    ],
+    "dur": "21:40",
+    "views_tab": 89000
+   },
+   {
+    "id": "sRS4BUDdV8g",
+    "title": "GPD Win Mini // In-Depth Review // Ryzen 7840U Goes MINI - Unboxing, Teardown, PC Gaming, Emulation",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "41:08",
+    "views_tab": 34000
+   },
+   {
+    "id": "Zg3BzpfEQPQ",
+    "title": "\ud83d\udfeaMASSIVE GameCube Emulation on the Raspberry Pi 5 // Android 14 Install // Dolphin Setup & 50 Games!",
+    "meta": [
+     "43K",
+     "2y ago"
+    ],
+    "dur": "42:10",
+    "views_tab": 43000
+   },
+   {
+    "id": "4S9sv2v8usY",
+    "title": "Retroid Pocket 4 PRO \u2013 THE IN-DEPTH REVIEW // Unboxing, Teardown, Emulation, Viewer Requests!",
+    "meta": [
+     "88K",
+     "2y ago"
+    ],
+    "dur": "46:43",
+    "views_tab": 88000
+   },
+   {
+    "id": "V7CMizEOT-0",
+    "title": "$30 Hidden Gem? Lenovo ThinkSmart View - Business to Gaming // Emulation, Media Player & More!",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "18:44",
+    "views_tab": 36000
+   },
+   {
+    "id": "A64dhSDEGCI",
+    "title": "Switch Emulation with Yuzu // Retroid Pocket 4 Pro | Dimensity 1100 // Guide & 50+ Game Showcase!",
+    "meta": [
+     "133K",
+     "2y ago"
+    ],
+    "dur": "40:31",
+    "views_tab": 133000
+   },
+   {
+    "id": "r0JJiiKfwGY",
+    "title": "OneXPlayer X1 // The Return of Intel - Core Ultra 7 155H // Benchmarks, Emulation, PC Gaming & More!",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "48:55",
+    "views_tab": 35000
+   },
+   {
+    "id": "3cATthFZQGE",
+    "title": "Minisforum EM780 // Ryzen 7840U \u2013 Phenomenal Power, Itty Bitty Living Space! // Gaming & Emulation!",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "31:13",
+    "views_tab": 13000
+   },
+   {
+    "id": "VJKFqB8r3qk",
+    "title": "When AMD & Intel Were Friends // Hades Canyon NUC Retrospective // PC Gaming and Emulation",
+    "meta": [
+     "9K",
+     "2y ago"
+    ],
+    "dur": "23:06",
+    "views_tab": 9000
+   },
+   {
+    "id": "yYl_9k3BPPU",
+    "title": "MSI Claw \u2013 Core Ultra 5 135H // In-Depth Review // Benchmarks, Teardown, PC Games, Emulation",
+    "meta": [
+     "72K",
+     "2y ago"
+    ],
+    "dur": "50:57",
+    "views_tab": 72000
+   },
+   {
+    "id": "VpdYX_zg0ls",
+    "title": "What HAPPENED?!?! MSI Claw 155H vs 135H vs ROG Ally Z1 & Z1 Extreme // Benchmarks & PC Gaming",
+    "meta": [
+     "35K",
+     "2y ago"
+    ],
+    "dur": "18:30",
+    "views_tab": 35000
+   },
+   {
+    "id": "OeklpRyrvx8",
+    "title": "Switch Emulation | Ryujinx - Apple M3 (MacBook Air Base) Setup Guide, Tips, 30+ Game Showcase!",
+    "meta": [
+     "141K",
+     "2y ago"
+    ],
+    "dur": "34:37",
+    "views_tab": 141000
+   },
+   {
+    "id": "aYLmopqa4E8",
+    "title": "Great Budget 8\u201d Android Tablet! ALLDOCUBE iPlay50 Mini Pro NFE // Helio G99 \u2013 Gaming & Emulation",
+    "meta": [
+     "39K",
+     "2y ago"
+    ],
+    "dur": "23:38",
+    "views_tab": 39000
+   },
+   {
+    "id": "1QnUw-Spg-8",
+    "title": "ATARI 400 Mini // An In-Depth Review // 8-Bit Computing Returns! Unboxing, Teardown, Games, & more!",
+    "meta": [
+     "4K",
+     "2y ago"
+    ],
+    "dur": "23:35",
+    "views_tab": 4000
+   },
+   {
+    "id": "0rx-ExnJo5Q",
+    "title": "DELTA Emulator - Emulation is BACK on the Apple App Store (iPhone, iPad, iOS) Setup Guide & Showcase",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 34000
+   },
+   {
+    "id": "rlmjyfm8wRE",
+    "title": "10 Great PREMIUM Touchscreen Games // Android & Apple Tablets/Phones/Handhelds",
+    "meta": [
+     "4.7K",
+     "2y ago"
+    ],
+    "dur": "12:57",
+    "views_tab": 4700
+   },
+   {
+    "id": "0xM-lGIOfmY",
+    "title": "ScummVM \u2013 NOW on the Apple App Store! (iPhone, iPad, iOS) Setup Guide, Cloud Sync & Showcase",
+    "meta": [
+     "13K",
+     "2y ago"
+    ],
+    "dur": "22:41",
+    "views_tab": 13000
+   },
+   {
+    "id": "D9peKCqMFmQ",
+    "title": "Anbernic RG28XX | In-Depth Review // Unboxing, Teardown, Emulation, and more!",
+    "meta": [
+     "20K",
+     "2y ago"
+    ],
+    "dur": "40:19",
+    "views_tab": 20000
+   },
+   {
+    "id": "9BiCEczybac",
+    "title": "Nintendo 64 Rom Hacks // Awesome \u201cNew\u201d Experiences for Retro Handhelds",
+    "meta": [
+     "22K",
+     "2y ago"
+    ],
+    "dur": "24:05",
+    "views_tab": 22000
+   },
+   {
+    "id": "iXHDbC_MiUk",
+    "title": "Anbernic RG35XX SP // A VERY In-Depth Look at the Gameboy Advance SP for a New Generation",
+    "meta": [
+     "75K",
+     "2y ago"
+    ],
+    "dur": "49:21",
+    "views_tab": 75000
+   },
+   {
+    "id": "crsxUQNaL4I",
+    "title": "PlayStation Portable Emulation NOW on iPhone & iPad! PPSSPP Emulator - Setup Guide, Showcase & More",
+    "meta": [
+     "26K",
+     "2y ago"
+    ],
+    "dur": "23:42",
+    "views_tab": 26000
+   },
+   {
+    "id": "wh1dAlD0KY8",
+    "title": "Powkiddy RGB20SX // In-Depth Review - Unboxing, Teardown, Emulation, Pico 8",
+    "meta": [
+     "7K",
+     "2y ago"
+    ],
+    "dur": "34:38",
+    "views_tab": 7000
+   },
+   {
+    "id": "eQZnbv5zc3w",
+    "title": "Switch Emulation with Sudachi (Anbernic RG556 - Unisoc T820) Setup Guide, Tips, & 30+ Game Showcase",
+    "meta": [
+     "101K",
+     "2y ago"
+    ],
+    "dur": "34:13",
+    "views_tab": 101000
+   },
+   {
+    "id": "fGY4aHvIdJ0",
+    "title": "AYN Odin 2 Mini // A VERY In-Depth Review / SMALLER. BRIGHTER. STILL THE BEST (Teardown & Emulation)",
+    "meta": [
+     "44K",
+     "2y ago"
+    ],
+    "dur": "51:08",
+    "views_tab": 44000
+   },
+   {
+    "id": "Z59vvl4lc5s",
+    "title": "PC Gaming & Emulation - Snapdragon X Elite // An Early Look at the Surface Pro 11 // Windows on ARM",
+    "meta": [
+     "57K",
+     "2y ago"
+    ],
+    "dur": "15:50",
+    "views_tab": 57000
+   },
+   {
+    "id": "jTZrWzKWyx0",
+    "title": "PC Gaming on Snapdragon X Elite & Surface Pro 11 // 40 PC Games Showcase, Settings, & Tips!",
+    "meta": [
+     "34K",
+     "2y ago"
+    ],
+    "dur": "36:48",
+    "views_tab": 34000
+   },
+   {
+    "id": "-MMrg9cuKtU",
+    "title": "MagicX XU Mini M // A NEW CHALLENGER ARRIVES // In-Depth Look \u2013 Unboxing, Teardown, Emulation & More",
+    "meta": [
+     "10K",
+     "2y ago"
+    ],
+    "dur": "32:14",
+    "views_tab": 10000
+   },
+   {
+    "id": "9K4nY1gqjHw",
+    "title": "ONEPLUS PAD 2 \u2013 FIRST Snapdragon 8 Gen 3 TABLET // Unboxing, Benchmarks, Android Gaming & Emulation",
+    "meta": [
+     "125K",
+     "2y ago"
+    ],
+    "dur": "31:23",
+    "views_tab": 125000
+   },
+   {
+    "id": "wyKMXYzq7cE",
+    "title": "CMF Phone 1 by Nothing - The Fun $199 Budget Android Phone // Benchmarks, Gaming & Emulation",
+    "meta": [
+     "48K",
+     "2y ago"
+    ],
+    "dur": "28:24",
+    "views_tab": 48000
+   },
+   {
+    "id": "G1laeuy2Y2Y",
+    "title": "Anbernic RG40XXV - In-Depth Look // Going Vertical, Again - Unboxing, Teardown, Emulation, and More!",
+    "meta": [
+     "36K",
+     "2y ago"
+    ],
+    "dur": "26:04",
+    "views_tab": 36000
+   },
+   {
+    "id": "f7ntYf2WnhM",
+    "title": "3\ufe0f\u20e3ULTIMATE PlayStation 3 Emulation // RPCS3 \u2013 ROG ALLY X - 100 GAMES // Setup Guide, Tips, Gameplay",
+    "meta": [
+     "71K",
+     "2y ago"
+    ],
+    "dur": "1:56:05",
+    "views_tab": 71000
+   },
+   {
+    "id": "Cj_-U8aEZTQ",
+    "title": "REDMAGIC Nova - MOST POWERFUL Gaming Tablet // In-Depth Review // Android Gaming, Emulation & More",
+    "meta": [
+     "104K",
+     "2y ago"
+    ],
+    "dur": "34:13",
+    "views_tab": 104000
+   },
+   {
+    "id": "JRWp8-jAeQw",
+    "title": "Retroid Pocket MINI // In-Depth Review // Benchmarks, Teardown, Android Gaming, Emulation & More!",
+    "meta": [
+     "50K",
+     "2y ago"
+    ],
+    "dur": "46:23",
+    "views_tab": 50000
+   },
+   {
+    "id": "HJS6H9ulUic",
+    "title": "2\ufe0f\u20e3PlayStation 2 EMULATION // Retroid Pocket MINI & 5 // Settings, Tips & 50+ Game Showcase!",
+    "meta": [
+     "38K",
+     "2y ago"
+    ],
+    "dur": "51:03",
+    "views_tab": 38000
+   },
+   {
+    "id": "63sxT8r66rg",
+    "title": "\ud83d\udcf2 AWESOME Premium Android Games on Retroid Pocket Mini // 10 Games Worth Playing!",
+    "meta": [
+     "22K",
+     "2y ago"
+    ],
+    "dur": "15:49",
+    "views_tab": 22000
+   },
+   {
+    "id": "EhTD_gaxBBU",
+    "title": "Switch Emulation with Retroid Pocket MINI // Snapdragon 865 // Setup Guide, Tips & 25+ Game Showcase",
+    "meta": [
+     "33K",
+     "2y ago"
+    ],
+    "dur": "37:04",
+    "views_tab": 33000
+   },
+   {
+    "id": "_pgszR247uA",
+    "title": "8\" Budget Tablet Returns! ALLDOCUBE iPlay60 Mini TURBO - Snapdragon 6 Gen 1 // Gaming & Emulation!",
+    "meta": [
+     "64K",
+     "2y ago"
+    ],
+    "dur": "29:59",
+    "views_tab": 64000
+   }
+  ]
+ }
+}

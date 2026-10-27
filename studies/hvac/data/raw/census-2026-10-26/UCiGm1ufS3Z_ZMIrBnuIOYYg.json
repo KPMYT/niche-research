@@ -1,0 +1,545 @@
+{
+ "key": "UCiGm1ufS3Z_ZMIrBnuIOYYg",
+ "channel": "Built to DIY",
+ "id": "UCiGm1ufS3Z_ZMIrBnuIOYYg",
+ "subs": "103 subscribers",
+ "videos": "13 videos",
+ "pulled": "2026-10-26T07:03:42.814552+00:00",
+ "source": "YouTube channel Videos tab, logged-out curl + innertube /browse continuations",
+ "pages": {
+  "Latest_initialpage": 2,
+  "Latest": 1,
+  "Popular": 1,
+  "Oldest": 1
+ },
+ "sorts": {
+  "Latest_initialpage": [
+   {
+    "id": "IQ6bSjAK1Ks",
+    "title": "Contractor Reveals 5 CHEAP Fall Attic Fixes That Beat a $4,000 Insulation Job",
+    "meta": [
+     "139",
+     "2d ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 139
+   },
+   {
+    "id": "8xeAd1kk7zY",
+    "title": "NEVER Replace a Drafty Door Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "254",
+     "5d ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 254
+   },
+   {
+    "id": "zNM7tSd9-EU",
+    "title": "NEVER Insulate a Rim Joist With Fiberglass Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "716",
+     "10d ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 716
+   },
+   {
+    "id": "listlmlwIdc",
+    "title": "Turn a $12 Roll of Foam Tape Into a $2,000 Airtight Window \u2014 Old Contractor\u2019s Method",
+    "meta": [
+     "288",
+     "13d ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 288
+   },
+   {
+    "id": "7S5Ghs_nD_c",
+    "title": "Stop Buying $838 Spray Foam Kits at Home Depot (Get This $30 Foam Board Instead)",
+    "meta": [
+     "681",
+     "2w ago"
+    ],
+    "dur": "15:46",
+    "views_tab": 681
+   },
+   {
+    "id": "1zObRqqDwFQ",
+    "title": "Contractor Reveals 7 CHEAP Winter Window Fixes That Beat $8,000 Replacement Windows",
+    "meta": [
+     "6.5K",
+     "2w ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 6500
+   },
+   {
+    "id": "dRAUr3NOvxU",
+    "title": "The $5,000 Spray Foam Job Won\u2019t Fix This $50 Problem (Here\u2019s Why)",
+    "meta": [
+     "674",
+     "3w ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 674
+   },
+   {
+    "id": "rXQ2IA3lNWo",
+    "title": "Contractor Reveals 3 Insulations That Are WAY Better Than Spray Foam",
+    "meta": [
+     "4.4K",
+     "3w ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 4400
+   },
+   {
+    "id": "AvFYzE1IQx0",
+    "title": "Veteran Contractor Reveals 7 CHEAP Winter Fixes That Beat a $3,000 Insulation Job",
+    "meta": [
+     "3.9K",
+     "1mo ago"
+    ],
+    "dur": "16:43",
+    "views_tab": 3900
+   },
+   {
+    "id": "0nQ8o9GE3Aw",
+    "title": "Veteran Contractor: My Secret to Sealing a Garage Door Tight as a Fridge",
+    "meta": [
+     "1.5K",
+     "1mo ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "F_erWkFtBME",
+    "title": "Turn a $12 Roll of Foam Into a $2,000 Window Job \u2014 Old Contractor's Method",
+    "meta": [
+     "5.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 5300
+   },
+   {
+    "id": "3CMtlx2g6m8",
+    "title": "STOP Buying a Backup Generator \u2014 This Contractor Setup Runs Your House for Half the Price",
+    "meta": [
+     "797",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 797
+   },
+   {
+    "id": "GzD6TlMZDHA",
+    "title": "NEVER Spray Foam Your Attic Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 2400
+   }
+  ],
+  "Latest": [
+   {
+    "id": "IQ6bSjAK1Ks",
+    "title": "Contractor Reveals 5 CHEAP Fall Attic Fixes That Beat a $4,000 Insulation Job",
+    "meta": [
+     "139",
+     "2d ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 139
+   },
+   {
+    "id": "8xeAd1kk7zY",
+    "title": "NEVER Replace a Drafty Door Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "254",
+     "5d ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 254
+   },
+   {
+    "id": "zNM7tSd9-EU",
+    "title": "NEVER Insulate a Rim Joist With Fiberglass Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "716",
+     "10d ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 716
+   },
+   {
+    "id": "listlmlwIdc",
+    "title": "Turn a $12 Roll of Foam Tape Into a $2,000 Airtight Window \u2014 Old Contractor\u2019s Method",
+    "meta": [
+     "288",
+     "13d ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 288
+   },
+   {
+    "id": "7S5Ghs_nD_c",
+    "title": "Stop Buying $838 Spray Foam Kits at Home Depot (Get This $30 Foam Board Instead)",
+    "meta": [
+     "681",
+     "2w ago"
+    ],
+    "dur": "15:46",
+    "views_tab": 681
+   },
+   {
+    "id": "1zObRqqDwFQ",
+    "title": "Contractor Reveals 7 CHEAP Winter Window Fixes That Beat $8,000 Replacement Windows",
+    "meta": [
+     "6.5K",
+     "2w ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 6500
+   },
+   {
+    "id": "dRAUr3NOvxU",
+    "title": "The $5,000 Spray Foam Job Won\u2019t Fix This $50 Problem (Here\u2019s Why)",
+    "meta": [
+     "674",
+     "3w ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 674
+   },
+   {
+    "id": "rXQ2IA3lNWo",
+    "title": "Contractor Reveals 3 Insulations That Are WAY Better Than Spray Foam",
+    "meta": [
+     "4.4K",
+     "3w ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 4400
+   },
+   {
+    "id": "AvFYzE1IQx0",
+    "title": "Veteran Contractor Reveals 7 CHEAP Winter Fixes That Beat a $3,000 Insulation Job",
+    "meta": [
+     "3.9K",
+     "1mo ago"
+    ],
+    "dur": "16:43",
+    "views_tab": 3900
+   },
+   {
+    "id": "0nQ8o9GE3Aw",
+    "title": "Veteran Contractor: My Secret to Sealing a Garage Door Tight as a Fridge",
+    "meta": [
+     "1.5K",
+     "1mo ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "F_erWkFtBME",
+    "title": "Turn a $12 Roll of Foam Into a $2,000 Window Job \u2014 Old Contractor's Method",
+    "meta": [
+     "5.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 5300
+   },
+   {
+    "id": "3CMtlx2g6m8",
+    "title": "STOP Buying a Backup Generator \u2014 This Contractor Setup Runs Your House for Half the Price",
+    "meta": [
+     "797",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 797
+   },
+   {
+    "id": "GzD6TlMZDHA",
+    "title": "NEVER Spray Foam Your Attic Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 2400
+   }
+  ],
+  "Popular": [
+   {
+    "id": "1zObRqqDwFQ",
+    "title": "Contractor Reveals 7 CHEAP Winter Window Fixes That Beat $8,000 Replacement Windows",
+    "meta": [
+     "6.5K",
+     "2w ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 6500
+   },
+   {
+    "id": "F_erWkFtBME",
+    "title": "Turn a $12 Roll of Foam Into a $2,000 Window Job \u2014 Old Contractor's Method",
+    "meta": [
+     "5.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 5300
+   },
+   {
+    "id": "rXQ2IA3lNWo",
+    "title": "Contractor Reveals 3 Insulations That Are WAY Better Than Spray Foam",
+    "meta": [
+     "4.4K",
+     "3w ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 4400
+   },
+   {
+    "id": "AvFYzE1IQx0",
+    "title": "Veteran Contractor Reveals 7 CHEAP Winter Fixes That Beat a $3,000 Insulation Job",
+    "meta": [
+     "3.9K",
+     "1mo ago"
+    ],
+    "dur": "16:43",
+    "views_tab": 3900
+   },
+   {
+    "id": "GzD6TlMZDHA",
+    "title": "NEVER Spray Foam Your Attic Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 2400
+   },
+   {
+    "id": "0nQ8o9GE3Aw",
+    "title": "Veteran Contractor: My Secret to Sealing a Garage Door Tight as a Fridge",
+    "meta": [
+     "1.5K",
+     "1mo ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "3CMtlx2g6m8",
+    "title": "STOP Buying a Backup Generator \u2014 This Contractor Setup Runs Your House for Half the Price",
+    "meta": [
+     "797",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 797
+   },
+   {
+    "id": "zNM7tSd9-EU",
+    "title": "NEVER Insulate a Rim Joist With Fiberglass Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "716",
+     "10d ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 716
+   },
+   {
+    "id": "7S5Ghs_nD_c",
+    "title": "Stop Buying $838 Spray Foam Kits at Home Depot (Get This $30 Foam Board Instead)",
+    "meta": [
+     "681",
+     "2w ago"
+    ],
+    "dur": "15:46",
+    "views_tab": 681
+   },
+   {
+    "id": "dRAUr3NOvxU",
+    "title": "The $5,000 Spray Foam Job Won\u2019t Fix This $50 Problem (Here\u2019s Why)",
+    "meta": [
+     "674",
+     "3w ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 674
+   },
+   {
+    "id": "listlmlwIdc",
+    "title": "Turn a $12 Roll of Foam Tape Into a $2,000 Airtight Window \u2014 Old Contractor\u2019s Method",
+    "meta": [
+     "288",
+     "13d ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 288
+   },
+   {
+    "id": "8xeAd1kk7zY",
+    "title": "NEVER Replace a Drafty Door Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "254",
+     "5d ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 254
+   },
+   {
+    "id": "IQ6bSjAK1Ks",
+    "title": "Contractor Reveals 5 CHEAP Fall Attic Fixes That Beat a $4,000 Insulation Job",
+    "meta": [
+     "139",
+     "2d ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 139
+   }
+  ],
+  "Oldest": [
+   {
+    "id": "GzD6TlMZDHA",
+    "title": "NEVER Spray Foam Your Attic Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "2.4K",
+     "1mo ago"
+    ],
+    "dur": "15:54",
+    "views_tab": 2400
+   },
+   {
+    "id": "3CMtlx2g6m8",
+    "title": "STOP Buying a Backup Generator \u2014 This Contractor Setup Runs Your House for Half the Price",
+    "meta": [
+     "797",
+     "1mo ago"
+    ],
+    "dur": "15:48",
+    "views_tab": 797
+   },
+   {
+    "id": "F_erWkFtBME",
+    "title": "Turn a $12 Roll of Foam Into a $2,000 Window Job \u2014 Old Contractor's Method",
+    "meta": [
+     "5.3K",
+     "1mo ago"
+    ],
+    "dur": "14:33",
+    "views_tab": 5300
+   },
+   {
+    "id": "0nQ8o9GE3Aw",
+    "title": "Veteran Contractor: My Secret to Sealing a Garage Door Tight as a Fridge",
+    "meta": [
+     "1.5K",
+     "1mo ago"
+    ],
+    "dur": "14:13",
+    "views_tab": 1500
+   },
+   {
+    "id": "AvFYzE1IQx0",
+    "title": "Veteran Contractor Reveals 7 CHEAP Winter Fixes That Beat a $3,000 Insulation Job",
+    "meta": [
+     "3.9K",
+     "1mo ago"
+    ],
+    "dur": "16:43",
+    "views_tab": 3900
+   },
+   {
+    "id": "rXQ2IA3lNWo",
+    "title": "Contractor Reveals 3 Insulations That Are WAY Better Than Spray Foam",
+    "meta": [
+     "4.4K",
+     "3w ago"
+    ],
+    "dur": "17:58",
+    "views_tab": 4400
+   },
+   {
+    "id": "dRAUr3NOvxU",
+    "title": "The $5,000 Spray Foam Job Won\u2019t Fix This $50 Problem (Here\u2019s Why)",
+    "meta": [
+     "674",
+     "3w ago"
+    ],
+    "dur": "14:21",
+    "views_tab": 674
+   },
+   {
+    "id": "1zObRqqDwFQ",
+    "title": "Contractor Reveals 7 CHEAP Winter Window Fixes That Beat $8,000 Replacement Windows",
+    "meta": [
+     "6.5K",
+     "2w ago"
+    ],
+    "dur": "15:04",
+    "views_tab": 6500
+   },
+   {
+    "id": "7S5Ghs_nD_c",
+    "title": "Stop Buying $838 Spray Foam Kits at Home Depot (Get This $30 Foam Board Instead)",
+    "meta": [
+     "681",
+     "2w ago"
+    ],
+    "dur": "15:46",
+    "views_tab": 681
+   },
+   {
+    "id": "listlmlwIdc",
+    "title": "Turn a $12 Roll of Foam Tape Into a $2,000 Airtight Window \u2014 Old Contractor\u2019s Method",
+    "meta": [
+     "288",
+     "13d ago"
+    ],
+    "dur": "13:17",
+    "views_tab": 288
+   },
+   {
+    "id": "zNM7tSd9-EU",
+    "title": "NEVER Insulate a Rim Joist With Fiberglass Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "716",
+     "10d ago"
+    ],
+    "dur": "15:44",
+    "views_tab": 716
+   },
+   {
+    "id": "8xeAd1kk7zY",
+    "title": "NEVER Replace a Drafty Door Again \u2014 Try This Old Contractor Trick",
+    "meta": [
+     "254",
+     "5d ago"
+    ],
+    "dur": "14:37",
+    "views_tab": 254
+   },
+   {
+    "id": "IQ6bSjAK1Ks",
+    "title": "Contractor Reveals 5 CHEAP Fall Attic Fixes That Beat a $4,000 Insulation Job",
+    "meta": [
+     "139",
+     "2d ago"
+    ],
+    "dur": "14:10",
+    "views_tab": 139
+   }
+  ]
+ }
+}
