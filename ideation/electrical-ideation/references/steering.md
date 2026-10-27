@@ -5,7 +5,7 @@ Canonical source for the electrical column of core `scoreboard.md` once the oper
 Evidence base: the electrical study in the niche-research repository, `studies/electrical/` (`CONCLUSIONS.md`, 2026-10-26, and `ideation/`). Every figure below comes from there.
 
 ## Table of contents
-1. The channel (pinned) and its two candidate lanes
+1. The channel: Frederick Barnes (Jack Redfield pinned as a second lane)
 2. Standing decisions (all channels in this niche)
 3. Base ideation plan
 4. Format steering
@@ -13,14 +13,14 @@ Evidence base: the electrical study in the niche-research repository, `studies/e
 
 ---
 
-## 1. The channel (pinned)
+## 1. The channel
 
-The operator has not chosen the channel: "we can test on both realistically. maybe we test 2 different lanes at once? lets put a pin in that for now" (2026-10-26). **Ask which channel before generating** (same rule as plumbing). The ideas are channel-neutral until then.
+**Frederick Barnes is the channel** (operator, 2026-10-27: "we will do frederick for this"; a retired electrician, 35 years; talking head; no book for now, a very short subscribe CTA). Jack Redfield stays pinned as a possible second lane. Earlier (2026-10-26): "we can test on both realistically. maybe we test 2 different lanes at once? lets put a pin in that for now" (2026-10-26). Generate for Frederick unless the operator names Jack.
 
 | | Frederick Barnes | Jack Redfield |
 |---|---|---|
 | Channel today | 1,350 subscribers, about 449K views, 23 long-form videos since 2026-09-21; 97.7% of views on one fire video; descriptions say he is a fictional AI character | 4,230 subscribers, 308,684 views, 50 videos, joined 2026-02-24; one video carries it (12v vs 24v solar, 193K, about 63%); no upload for about 5 months |
-| Persona | Open. Background "a bit unspoken... when necessary, retired electrition" (operator, 2026-10-26) | A 30-year power-equipment man from rural Tennessee (solar, generators, small engines) |
+| Persona | A retired electrician, 35 years (operator, 2026-10-27). Background "a bit unspoken... when necessary, retired electrition" (operator, 2026-10-26) | A 30-year power-equipment man from rural Tennessee (solar, generators, small engines) |
 | Fits | Everyday electrical fixes and explainers | The same, plus generator safety (transfer switches, interlocks, backfeed): the bridge to his old audience ("Transfer Switch vs. Interlock Kit" got 5.1K) |
 | Book | Changes from *Prevent The Burning* (2026-10-23); new title not set | Not found |
 
@@ -54,7 +54,7 @@ The operator has not chosen the channel: "we can test on both realistically. may
 
 ## 4. Format steering
 
-The full table, with evidence for every row, is in `examples-by-format.md` §1 (format steering table). Summary: how-to, "why does X keep doing Y", explainer, X vs Y and mistakes lists are `proven` under the operator's bar; "this is dangerous" is a stake inside other formats, not a format of its own; NEVER lists, real inspections, real stories and filmed tests are `excluded` by operator call.
+The full table, with evidence for every row, is in `examples-by-format.md` §1 (format steering table). Summary: how-to, "why does X keep doing Y", X vs Y and mistakes lists are `proven` under the operator's bar; the explainer shapes (P13, P5, P9, P12) clear the bar but stay `candidate` until the operator gives them F-numbers; "this is dangerous" is a stake inside other formats, not a format of its own; NEVER lists, real inspections, real stories and filmed tests are `excluded` by operator call.
 
 ## 5. Topic boundaries
 

@@ -44,7 +44,7 @@ Topics never cross niches (core `filing-rule.md`). Evidence is the electrical st
 | 103 | Identify and label circuits in the panel | 1 (0) | "Identify Circuit Breakers when Panel is No…" (Apartment Maintenance Pro, real, 1.1M) | Cold | 13 / 341 |
 | 104 | Sunken / loose outlet in the wall * | 3 (1) | "How To Fix Sunken Outlet – 2 Easy Options" (Everyday Home Repairs, real, 2.3M) | Cold | 6 / 765 |
 | 105 | LED flicker and dimmer strobing * | 1 (1) | "Dimming LED lamps with ordinary dimmers." (bigclivedotcom, faceless, 306K) | Cold | 13 / 534 |
-| 106 | Junction box mistakes | 4 (0) | "The BIGGEST Mistakes DIYers Don't Know The…" (How To Home, real, 2.4M) | Quiet | 3 / 394 |
+| 106 | Junction box mistakes | 4 (0) | "The BIGGEST Mistakes DIYers Don't Know They Are Making When Installing Metal Electrical Bo…" (How To Home, real, 2.4M) | Quiet | 3 / 394 |
 | 108 | 3-way switches | 12 (7) | "The Best 3 Way Switch Explanation Ever!" (Terry Peterman, real, 4.4M) | Cold | 72 / 830 |
 | 110 | Running power to a shed or garage | 8 (2) | "How to Run Underground Power to a Shed – A…" (This Old House, real, 3.3M) | Warm | 58 / 626 |
 | 111 | Generator bonded vs floating neutral | 2 (2) | "The Generator Mistake Everyone Makes!" (Backyard Maine, faceless, 1.1M) | Warm | 24 / 1,110 |
@@ -53,7 +53,7 @@ Topics never cross niches (core `filing-rule.md`). Evidence is the electrical st
 
 **Notes on the proofs (readings):**
 - 13 shares its top proof with 9; its own faceless proof is "Microwave Keeps Tripping Breaker? Here's WHY!" (Sam, 742K).
-- 4, 14 and 15 lean on Indian channels with English titles (`log.md`); for 15, the slow-fan capacitor fix. US fit is a reading.
+- 4 and 15 lean on Indian channels with English titles (`log.md`); for 15, the slow-fan capacitor fix. 14's top proofs (Royal Electric Gyan, Electric Guruji) look the same (reading). US fit is a reading.
 - 26's top proof is a fire burn test: fire as the stakes, explained, never tested.
 - 101: a closer fit than the top proof is "Physics and History of Why USA uses 120 volts and not 220 volts" (Kathy Loves Physics, real, 2.5M).
 - 102: the top proof is a product ranking; the topic's source, "The Light Bulbs You Need to Get Rid of Immediately (New Research)" (Neal K. Shah, real, 1.09M, 2026-09-13), also clears the bar.
@@ -99,6 +99,8 @@ Titles confirmed by the operator 2026-10-26; briefs 2026-10-27 (`ideation/initia
 | Cable, no topic row | B10: The #1 DIY Electrical Mistake - Can You Run Romex in Conduit? | Silver Cymbal copy |
 
 Overlaps: A2/C2 and A12/C12 (different thumbnails needed), A31/B11 (close).
+
+Format lines are as recorded in `ideation/initial-ideas.csv`, set before the operator reworded five titles. A2 now reads as a how-to (F11) and A12 as "The REAL Reason" (F21's word) rather than a symptom question (reading).
 
 ## 4. Mapped, not yet produced (future batches draw here first)
 

@@ -36,7 +36,7 @@ Proven and instructive titles per cluster, with views, channel (type), date and 
 - 99% of People Connect Wires WRONG , Do This Instead! ⚡ — 10,778,916 · Handcraft (faceless, unnarrated) · 2026-04-18 [T100]. The biggest recent title in the niche; its shape (P1) transfers.
 - Millions of Electricians Will Be Amazed by This Quick and Safe Wiring Method — 6,898,597 · Inventor J (faceless, unnarrated) · 2026-09-10 [T100].
 - BIGGEST Mistakes DIYers Make When Connecting Wires Together — 3,652,915 · How To Home (real) · 2022-04-23 [T100]. The narrated proof.
-- What Wire Connector is the Best? Settling a Debate! Wire Nut VS Wago — 2,182,514 · GreatScott! (real) · 2022-02-13 [T100]. Myth-busting a debate viewers already argue about.
+- What Wire Connector is the Best? Settling a Debate! Wire Nut VS Wago — 2,182,835 · GreatScott! (real) · 2022-02-13 [TP]. Myth-busting a debate viewers already argue about.
 
 **GFCI / AFCI** (195 / 9.5K / 8; none in the top 100)
 - How to Wire a GFCI Outlet - What's Line vs Load? — 2,041,284 · Top Homeowner (real) · 5y ago [SW]. The confusing terminal is the topic.
@@ -136,7 +136,7 @@ Operator (2026-10-26): "the silver cymbal can be a copy paste of his most popula
 | 14 | Homeowners are Destroying Generators Skipping 1 Step During a Power Outage | 1,695,017 | 2025-01-28 | 4:07 | F9 | generator care, near the edge of scope |
 | 15 | STOP Connecting Stranded Wire Like an Animal - Do it LIKE A PRO! | 1,600,837 | 2021-04-24 | 3:39 | F33 | |
 | 16 | Sneaky Reason LED Bulbs are Dying Faster than Advertised | 1,332,557 | 2024-11-11 | 3:29 | F10 | cheap-product villain |
-| 17 | Cheap & Easy Way to Connect a Generator to Your House - Legal Too! | 1,205,397 | 2023-12-21 | 8:19 | F12 | same topic as round-1 #7 |
+| 17 | Cheap & Easy Way to Connect a Generator to Your House - Legal Too! | 1,205,397 | 2023-12-21 | 8:19 | F12 | same topic as round-1 #7; drop "Cheap" (no money framing) |
 | 18 | What Happens When You Use a SUICIDE SHOWER HEAD in the US | 1,103,433 | 2022-10-30 | 6:31 | demo → explainer | shock as the stakes |
 | 19 | Most ILLEGAL CAMERA OUTLET you will never See | 1,098,898 | 2022-11-27 | 4:39 | F21 (loose) | hidden cameras: home security more than electrical |
 | 20 | How to Connect a Small Generator to Your House - Safe & Legal - Run Heat, Fridge & More! | 1,021,421 | 2018-11-13 | 4:18 | F11 | generator strand |

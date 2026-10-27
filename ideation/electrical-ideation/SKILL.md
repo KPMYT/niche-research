@@ -1,6 +1,6 @@
 ---
 name: "electrical-ideation"
-description: YouTube ideation for the operator's home-electrical channel: a quiet-insider AI persona (Frederick Barnes or Jack Redfield; channel still pinned, maybe both as two lanes) making everyday electrical fixes, "why does it keep doing that" videos and explainers for American homeowners, with fire and shock as the stakes, never the topic. Holds the steering, the proof rule (300K+ faceless / 1M+ real), proven topics with heat, proven formats, reference titles with views, audience levers and villains, the word bank, the thumbnail pack, the produced log and the dead list. Use it whenever the operator wants electrical, outlet, switch, GFCI, AFCI, breaker, panel, wiring, ceiling fan, light, LED, Wago, tester, EV charger, 240V, generator hookup, transfer switch, interlock or backfeed titles, ideas, reworks or briefs; names Frederick Barnes or Jack Redfield; mentions Silver Cymbal's electrical videos; or pastes screenshots of electrical DIY channels, even without the word "ideation".
+description: YouTube ideation for the operator's home-electrical channel: Frederick Barnes, a quiet-insider AI persona and retired electrician (Jack Redfield pinned as a possible second lane), making everyday electrical fixes, "why does it keep doing that" videos and explainers for American homeowners, with fire and shock as the stakes, never the topic. Holds the steering, the proof rule (300K+ faceless / 1M+ real), proven topics with heat, proven formats, reference titles with views, audience levers and villains, the word bank, the thumbnail pack, the produced log and the dead list. Use it whenever the operator wants electrical, outlet, switch, GFCI, AFCI, breaker, panel, wiring, ceiling fan, light, LED, Wago, tester, EV charger, 240V, generator hookup, transfer switch, interlock or backfeed titles, ideas, reworks or briefs; names Frederick Barnes or Jack Redfield; mentions Silver Cymbal's electrical videos; or pastes screenshots of electrical DIY channels, even without the word "ideation".
 ---
 
 # Electrical Ideation: niche overlay
@@ -22,10 +22,10 @@ Before doing anything, read from `ideation-core`'s `references/`:
 
 | Channel | Status | Notes |
 |---|---|---|
-| **Frederick Barnes** | pinned candidate | AI persona channel (since 2026-09-21; 1,350 subs, one fire video carries it). Background unspoken; a retired electrician when it has to be said. Book changing from *Prevent The Burning*, new title not set. |
-| **Jack Redfield** | pinned candidate | Stopped generator and solar channel (4,230 subs); a 30-year power-equipment man from rural Tennessee. Generator-safety ideas suit him. |
+| **Frederick Barnes** | the channel (operator, 2026-10-27: "we will do frederick for this") | AI persona, talking head (channel since 2026-09-21; 1,350 subs, one fire video carries it). Background mostly unspoken; a retired electrician, 35 years, when it has to be said. No book for now: the only CTA is a very short subscribe ask. |
+| **Jack Redfield** | pinned: possible second lane | Stopped generator and solar channel (4,230 subs); a 30-year power-equipment man from rural Tennessee. Generator-safety ideas suit him. |
 
-**No generation default: ask which channel first** (or "both lanes"). Ideas stay channel-neutral until the operator decides. Dials: AI persona presenter / mixed search and browse / quiet insider. Knowledge only: never a filmed test or a single-job transformation.
+**Generation default: Frederick Barnes.** Jack Redfield only when the operator names him. Dials: AI persona presenter / mixed search and browse / quiet insider. Knowledge only: never a filmed test or a single-job transformation.
 
 ## 3. Electrical-specific hard rules (add to core's; never relax core's)
 
@@ -35,7 +35,7 @@ Before doing anything, read from `ideation-core`'s `references/`:
 4. **Explain, never demonstrate.** Take the best test topics and explain the result; never claim the channel tested, burned or measured anything ("I tested" fails here even as a persona verdict).
 5. **Villains:** the last owner's or handyman's wiring, the cheap product, known problem panels (Federal Pacific, Zinsco) inside other topics. **Never electricians, inspectors or firefighters.**
 6. **Briefs:** core brief spec (facts only, one paragraph, no structural, editing, format or script direction), 200-300 words for greenlit titles, plus safety boundaries in every how-to: power off at the breaker and verified dead with a tester; panel interiors, service work and aluminum-wiring repairs are a licensed electrician's job; permits and local code ("the inspector has the final say"); generators outdoors at least 20 feet from doors, windows and vents (CPSC); never a male-to-male cord. Code citations only when verified (NEC 2023). Every brief is re-checked by a second helper against sources before the operator sees it.
-7. **Persona claims:** background mostly unspoken; no checkable claims (no counts of houses, no named employers, no licence numbers). Tenure only once the operator fixes it in the persona profile.
+7. **Persona claims:** background mostly unspoken; no checkable claims (no counts of houses, no named employers, no licence numbers). Tenure: 35 years (operator, 2026-10-27), one fixed number, said only where it does a job.
 8. **Long-form only** (8-17 minutes). No Shorts ideas.
 
 ## 4. Niche deltas to the core method
