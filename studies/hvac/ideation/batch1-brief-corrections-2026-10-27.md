@@ -42,7 +42,7 @@ The signed-off briefs (`batch1-briefs-2026-10-26.tsv`) are kept as they are. The
 | 16 | Why Buy a Generator? Your Car Can Keep Your Furnace Running in an Outage | (often $200-$500) | (the switch is about $100-$150, plus a few hundred dollars for the electrician; no checked installed figure) | C-research and C-verify: '$200-$500 installed' not confirmed; in words |
 | 16 | Why Buy a Generator? Your Car Can Keep Your Furnace Running in an Outage | at least 20 feet from doors, windows and vents (CPSC's distance for generators) | well away from the house (20 feet from doors, windows and vents is the CPSC and CDC distance for generators; there's no official distance for a car, so the script says it in words) | D-research flag 2: 20 feet is the generator distance; no official car distance |
 
-## Title notes (not changed; the operator's call)
+## Title notes (not changed: operator, 2026-10-27, "title always wins also")
 
 - **#3 "The $5 Filter ... Better Than the $30 One":** a pleated MERV 8 filter is about $6-$10 each in a multipack, and a 1-inch MERV 11-13 filter about $10-$25 (C-verify). So "$5" is the cheapest multipack deal and "$30" sits above the usual top. The script can say "under $10" and "$20 or more" for the two.
 - **#14 "The $12 Part Techs Charge $300 to Replace":** a flame sensor is $10-$30; a tech's visit is usually $100-$250, and $300 is the top, at night or on a weekend (A-research, A-verify). The script says "up to $300".

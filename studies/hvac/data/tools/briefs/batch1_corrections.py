@@ -100,7 +100,7 @@ md = ["# Batch 1 briefs: corrections from the price and facts research (2026-10-
       f"**{len(log)} corrections in {len({n for n, *_ in log})} briefs.**", "",
       "| # | Title | Before | After | Why (source) |", "|---|---|---|---|---|"]
 for n, t, o, nw, why, k in log: md.append(f"| {n} | {t} | {o} | {nw} | {why} |")
-md += ["", "## Title notes (not changed; the operator's call)", "",
+md += ["", "## Title notes (not changed: operator, 2026-10-27, \"title always wins also\")", "",
        "- **#3 \"The $5 Filter ... Better Than the $30 One\":** a pleated MERV 8 filter is about $6-$10 each in a multipack, and a 1-inch MERV 11-13 filter about $10-$25 (C-verify). So \"$5\" is the cheapest multipack deal and \"$30\" sits above the usual top. The script can say \"under $10\" and \"$20 or more\" for the two.",
        "- **#14 \"The $12 Part Techs Charge $300 to Replace\":** a flame sensor is $10-$30; a tech's visit is usually $100-$250, and $300 is the top, at night or on a weekend (A-research, A-verify). The script says \"up to $300\".",
        "", "Collect and describe only: the research is not edited to fit a conclusion (`CLAUDE.md`)."]
