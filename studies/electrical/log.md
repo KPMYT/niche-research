@@ -211,3 +211,7 @@ Recent winning formats: `ideation/recent-formats.csv`, 33 title formats (R1-R33)
 - A14: "Why Do LED Bulbs Glow After You Switch Them Off? (And When It's a Warning)" → "Why Do LED Bulbs Glow After You Switch Them Off? (WARNING)"
 - B3: "Why Do Electric Plugs Have Holes? Finally Answered" → "Why Exactly Do Electric Plugs Have Holes?"
 - B6: "3 Common Wiring Mistakes on Outlets & Switches - BEWARE of These" → "BEWARE of These 3 Common Wiring Mistakes on Outlets & Switches"
+
+## Handover (2026-10-27)
+
+The operator: "handover time". Rewrote the electrical section of `SESSION-HANDOVER.md` (status, what this chat did, next steps, every operator decision, method notes), then merged `main` into the branch (keeping both sides of shared files) and the branch into `main`.
