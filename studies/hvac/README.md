@@ -23,6 +23,12 @@ The research for the new channel Roger the HVAC Guy, following `RESEARCH-BRIEF.m
 - **Run the rounds without stopping:** "cant you do urself and check urself after aech round?" Rounds 3-6 run straight through, each checked by a second helper; the operator gets the full report at round 7. Only genuine operator calls stop the run.
 - Taken as the default, to be confirmed in the round 7 report (the operator didn't answer the two round 2 questions and asked to go on): contractor channels that teach homeowners count as competitors (tier A, marked "contractor"); outage or off-grid channels whose videos are mostly HVAC count as tier A, marked with their lane.
 
+## Operator decisions, 2026-10-26 and 2026-10-27
+
+- On the round 7 findings: copy Ray Dutton's thinking and his top outliers; keep the best and worst lists in mind; thumbnails and selling later.
+- Batch 1 (16 titles) greenlit for November uploads (`ideation/greenlit-log.md`).
+- **Roger the HVAC Guy's persona:** "45 years, same as rogers pipe guy in most aspects" (2026-10-27). Tenure 45, the same constant number as Roger the Pipe Guy.
+
 ## Files
 
 | Path | What it is |

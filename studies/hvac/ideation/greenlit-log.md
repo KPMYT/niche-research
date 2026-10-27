@@ -4,7 +4,7 @@ The HVAC version of the plumbing channels' `produced-log.md`: every title the op
 
 ## Batch 1: greenlit 2026-10-26, for upload through November 2026
 
-Picked from `2026-10-26-batch-1.md` (via `november-titles.html`). Briefs: `batch1-briefs-2026-10-26.xlsx` / `.tsv` (built by `data/tools/briefs/batch1_briefs.py`). Tenure "45" in title 9 is a placeholder until the operator fixes Roger the HVAC Guy's number.
+Picked from `2026-10-26-batch-1.md` (via `november-titles.html`). Briefs: `batch1-briefs-2026-10-26.xlsx` / `.tsv` (built by `data/tools/briefs/batch1_briefs.py`). Tenure: 45 years, fixed by the operator 2026-10-27 ("45 years, same as rogers pipe guy in most aspects").
 
 | # | Title | Format | Built from |
 |---|---|---|---|
