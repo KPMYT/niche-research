@@ -1,0 +1,13 @@
+# Proposed changes to ideation-core and plumbing-ideation (pending the operator's yes)
+
+These are the core and sibling-skill edits a new niche needs (core `launch-playbook.md` §4). None is made yet: `ideation-core` and `plumbing-ideation` live in `KPMYT/script-system/ideation/` and in the installed skills, and the working rule is no skill change without the operator's explicit yes to that specific change. Each line is shown exactly as it would go in.
+
+1. **`ideation-core/references/registry.md`** — add a niche line:
+   `hvac-ideation` · path `niche-research/ideation/hvac-ideation/` · channel: Roger the HVAC Guy (faceless / browse / veteran-tradesman; footage: compiled b-roll) · profile A · standing test-default channel: Roger the HVAC Guy (only channel).
+2. **`ideation-core/references/scoreboard.md`** — add an HVAC column, filled from `hvac-ideation/references/steering.md` §2 (proven: F4, F8 Ray expression, F9, F10, F13, F17, F19/F19b, F21, F27, F28, F29, F30, F31, F32, F50, product villain; inherited: F1, F2, F6, F7, F7b, F22, F23, F24, F49; produced in batch 1: F1, F2, F6, F7, F8, F9, F13c, F17, F22, F23, F24, F30, F49, product villain).
+3. **`ideation-core/references/kinship-map.md`** — Roger the HVAC Guy in the veteran-tradesman family, sibling of Roger the Pipe Guy ("same as rogers pipe guy in most aspects").
+4. **`ideation-core/SKILL.md`** "Which skill?" table and description — add `hvac-ideation` (HVAC, Roger the HVAC Guy), and "HVAC" to the portfolio list.
+5. **`ideation-core/references/format-bank-master.md`** — no new F-number. Add HVAC evidence lines: F8 gains Ray's "Before You [season action], Do This (Or Pay for It [later])" expression ("Before You Shut Your AC Down This Fall, Do This (Or Pay for It Next Spring)" · 1,229,494); F28 gains the HVAC brand-verdict evidence ("The Only 4 AC Brands Worth Buying in 2026 (Everyone Else Is Overcharging You)" · 672k); the product-villain candidate's evidence updated to 773,793 (Ray, 2026-10-26).
+6. **`plumbing-ideation/references/steering.md` §4 (Werner's probe lane)** — add one line: "HVAC now has its own skill (`hvac-ideation`, Roger the HVAC Guy). Werner's HVAC and energy probes stay as German-lens re-makes only; plain HVAC topics go to Roger the HVAC Guy."
+7. **`thumbnails` skill** — add `niches/hvac.md`, `channels/roger-the-hvac-guy.md` and the index line, from `niche-research/ideation/thumbnails-upload/`.
+8. **Installing `hvac-ideation`** as a skill (a `.skill` package like the others in `script-system/dist/`), once the operator is happy with it.
