@@ -1,0 +1,272 @@
+[
+ {
+  "key": "A29",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "NEC 406.4(D)(2) allows only a two-prong replacement, a GFCI receptacle marked 'No Equipment Ground', or a three-prong outlet fed from a GFCI...",
+    "status": "WRONG",
+    "why": "Misleading as written: the three options are right, but they apply only where no equipment grounding conductor is present; 406.4(D)(1) with 250.130(C) also lets a grounding conductor be added, after which a grounded three-prong receptacle is required. Fixed: 'unless a grounding conductor is added'.",
+    "source": "https://www.ecmweb.com/national-electrical-code/qa/article/20900802/stumped-by-the-code-nec-requirements-when-replacing-nongrounding-type-receptacles"
+   },
+   {
+    "claim": "Bootleg ground ... the NEC prohibits it (drafter's doubt: 250.142(B))",
+    "status": "OK",
+    "why": "Verified: 250.142(B) bars using the grounded (neutral) conductor to ground equipment on the load side of the service disconnect (with 250.30/250.32 exceptions not relevant to receptacles); 250.24(A)(5) is the companion rule. Number added.",
+    "source": "https://forums.mikeholt.com/threads/meter-enclosures-the-grounded-conductor.89367/latest"
+   },
+   {
+    "claim": "Aluminum branch wiring (homes wired roughly 1965-1973)",
+    "status": "WRONG",
+    "why": "CPSC Pub 516 (current text) says cables installed 'between 1965 and the mid 1970s' may be aluminum; 1965-1973 is an older shorthand. Fixed to CPSC's wording.",
+    "source": "https://www.cpsc.gov/s3fs-public/516.pdf"
+   },
+   {
+    "claim": "CPSC treats CO/ALR devices as only a partial fix",
+    "status": "OK",
+    "why": "CPSC: CO/ALR devices 'must be considered, at best, an incomplete repair'; reworded to CPSC's phrase. COPALUM and AlumiConn by a qualified electrician confirmed.",
+    "source": "https://www.cpsc.gov/s3fs-public/516.pdf"
+   },
+   {
+    "claim": "UL listing limits push-in terminals to 14 AWG solid copper on 15 A circuits; loop clockwise about three-quarters of a turn",
+    "status": "OK",
+    "why": "UL 498 guide info as quoted on Mike Holt; Leviton sheets say 'loop wires clockwise 3/4 turn'.",
+    "source": "https://forums.mikeholt.com/threads/ul-498-backstab-receptacles.41003/post-630172"
+   },
+   {
+    "claim": "Title: '7 Outlet Wiring Mistakes I Find in Almost Every Older House'",
+    "status": "SPEC",
+    "why": "Not a brief problem, but the title itself carries a persona claim ('I Find') and a frequency claim ('almost every') with no data behind it. The brief honestly says only 'faults recur'. Operator may want 'You'll Find' or 'Common in Older Houses'.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "Older houses collect years of owners' receptacle work, and seven faults recur. 1) Backstabbed connections: push-in holes grip the wire with a small spring contact that can loosen as the device heats and cools, causing heat and arcing; the UL listing limits push-in terminals to 14 AWG solid copper on 15 A circuits, and side screws or screw-clamp back-wire terminals grip more firmly. 2) Reversed polarity: black (hot) belongs on the brass screws, white (neutral) on the silver screws; reversed, the outlet still works but parts of plugged-in lamps and appliances meant to be neutral become live. A plug-in tester shows it. 3) A three-prong outlet on a two-wire circuit with no ground: unless a grounding conductor is added, NEC 406.4(D)(2) allows only a two-prong replacement, a GFCI receptacle marked 'No Equipment Ground', or a three-prong outlet fed from a GFCI and marked 'GFCI Protected' and 'No Equipment Ground'. 4) Bootleg ground: a jumper from neutral to the ground screw fools a three-light tester into reading correct, but puts current-carrying neutral on appliance metal, which becomes live if the neutral opens; NEC 250.142(B) prohibits it. 5) Two wires under one screw: terminals take one conductor unless identified for more; the fix is a pigtail. 6) Poor terminations: loops wrapped counterclockwise push out as the screw tightens; manufacturers specify about three-quarters of a turn clockwise, stripped to the device's strip gauge, with no insulation under the screw or extra bare copper. 7) Aluminum branch wiring (1965 to the mid-1970s, per CPSC) on devices not marked CO/ALR; CPSC calls CO/ALR devices at best an incomplete repair and recognizes COPALUM or AlumiConn repairs at every connection, done by a licensed electrician. Power goes off at the breaker and is verified dead before any receptacle is touched; local code may differ.",
+  "word_count": 297
+ },
+ {
+  "key": "B6",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "Leviton specifies about 5/8 inch for side wiring",
+    "status": "WRONG",
+    "why": "Leviton sheets differ by device: the 16351-SG sheet says strip 5/8 in, but the Leviton sheet the drafter cites (inspectapedia AC215/AC220) says 'Strip 3/4\" (Side wire)' and 1/2\" back wire. So the reference video's 3/4 inch is not wrong. Fixed to '5/8 to 3/4 inch for side wiring, by device'; the 'follow the strip gauge' rule stands.",
+    "source": "https://inspectapedia.com/electric/Duplex-receptacle-install-instructions-Leviton.pdf ; https://leviton.com/content/dam/leviton/commercial-industrial/product_documents/instruction_sheet/PK-A3292-10-02-0A-W.pdf"
+   },
+   {
+    "claim": "the white conductor used as a hot must be re-marked ... (NEC 200.7(C)(1))",
+    "status": "OK",
+    "why": "Correct, but incomplete on a point that is itself a common mistake: 200.7(C)(1) also says the re-identified white in a switch loop may be used only as the supply to the switch, not as the return to the light. Added. Also note (not added, word limit): since 2011, 404.2(C) generally requires a neutral at new switch locations, so a two-wire switch loop is an old-house condition, not new work.",
+    "source": "https://forums.mikeholt.com/threads/re-identification-of-white-conductor.62803"
+   },
+   {
+    "claim": "switch must interrupt the hot conductor, never the neutral (NEC 404.2(B))",
+    "status": "OK",
+    "why": "404.2(B): switches shall not disconnect the grounded conductor (exceptions for devices opening all conductors simultaneously).",
+    "source": "https://forums.mikeholt.com/threads/white-conductor.58988/page-2"
+   },
+   {
+    "claim": "On three-way switches, the darker 'common' screw takes the line or the load",
+    "status": "OK",
+    "why": "Standard device marking (dark/black common, brass travelers); not separately checked against a sheet, low risk.",
+    "source": ""
+   },
+   {
+    "claim": "The same three faults turn up on receptacles and on switches.",
+    "status": "SPEC",
+    "why": "Removed to make room under 300 words; it was framing, not a fact. Brief now 299 words.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "1) Wrong wire on the wrong terminal. On a receptacle, brass screws take the black (hot) wire, silver screws the white (neutral) and the green screw the bare or green ground; swapped, it still works but reverse polarity leaves the shell of a lamp socket or an appliance's internal parts live when switched off. A plug-in tester shows it. On a switch, the switch must interrupt the hot conductor, never the neutral (NEC 404.2(B)); a switch on the neutral leaves the fixture live while it is off. On a switch loop wired with two-wire cable, the white conductor used as a hot must be re-marked with tape or paint (black or red) at every termination and visible point, and may serve only as the supply to the switch, never the return (NEC 200.7(C)(1)). On three-way switches, the darker 'common' screw takes the line or the load, not a traveler. 2) The hook formed the wrong way. Terminal screws tighten clockwise, so the loop goes clockwise about three-quarters of a turn; wrapped the other way it is pushed out from under the screw. Strip length follows the gauge molded on the device (Leviton sheets give 5/8 to 3/4 inch for side wiring, by device): too much leaves bare copper that can touch the ground or the box, too little traps insulation under the screw and gives a poor, heating connection. 3) Backstabbing. Push-in holes hold the wire with a small spring contact that can loosen over time; on receptacles the UL listing limits them to 14 AWG solid copper on 15 A circuits. Screw-clamp back-wire terminals take solid or stranded wire, some two wires per terminal where the device is marked for it. Power is off at the breaker and verified dead with a tester first; local code may differ.",
+  "word_count": 299
+ },
+ {
+  "key": "A30",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "copper 14 AWG is protected at 15 A, 12 AWG at 20 A, 10 AWG at 30 A (NEC 240.4(D)); ... an upsized one lets it overheat",
+    "status": "WRONG",
+    "why": "Values verified, but stated as absolute it is misleading: 240.4(D) applies unless 240.4(E)-(G) permit otherwise, and 240.4(G) sends air-conditioner and motor circuits to Articles 430/440, where the nameplate's maximum breaker can legally exceed 240.4(D) (e.g. a 40 A breaker on 10 AWG to a condenser). A homeowner applying the brief would flag a legal install. Added the exception.",
+    "source": "https://forums.mikeholt.com/threads/understanding-the-nec-vol-1-2014-overcurrent-protection-and-article-440.125828/latest"
+   },
+   {
+    "claim": "8) Unlabelled or vague circuit directories (drafter's doubt: 408.4(A))",
+    "status": "OK",
+    "why": "Verified: 408.4(A) 'Circuit Directory or Circuit Identification' requires every circuit legibly identified with enough detail to tell it from all others, directory on the panel face or inside the door. Number added; US spelling 'Unlabeled'/'labeled'.",
+    "source": "https://www.ecmweb.com/national-electrical-code/article/20903390/circuit-directory-or-identification-requirements"
+   },
+   {
+    "claim": "CPSC's early-1980s investigation closed without a recall",
+    "status": "OK",
+    "why": "CPSC closed its two-year investigation in March 1983, no recall; its 2011 revision says closed without a safety determination. Reworded to '1983'.",
+    "source": "https://www.cpsc.gov/Newsroom/News-Releases/1983/Commission-Closes-Investigation-Of-FPE-Circuit-Breakers-And-Provides-Safety-Information-For-Consumers"
+   },
+   {
+    "claim": "Zinsco, whose breakers can fuse to the aluminum bus",
+    "status": "UNSUPPORTED",
+    "why": "Only inspector and contractor sources (many selling panel replacements); no manufacturer, CPSC or lab source found. Softened to 'inspectors report'.",
+    "source": "https://forum.nachi.org/t/zinsco-panels/49259"
+   },
+   {
+    "claim": "250.24(A)(5), 408.7, 408.41, 110.14(D) 'approved means'",
+    "status": "OK",
+    "why": "Consistent with the cited ECM/Mike Holt sources (110.14(D) 'approved means' is the 2023 wording).",
+    "source": "https://www.ecmag.com/magazine/articles/article-detail/codes-standards-article-110-general-requirements-electrical-installations-significant"
+   },
+   {
+    "claim": "so homeowner checks are visual and opening the panel is a licensed electrician's job",
+    "status": "SAFETY",
+    "why": "Safety boundary is right and kept; trimmed 'homeowner checks are visual' for length. Line-side conductors live with the main off is correct.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "Most faults appear only with the dead-front off, which exposes service conductors and lugs that stay live even with the main breaker off, so opening the panel is a licensed electrician's job. 1) Double-tapped breakers: two wires under a terminal made for one; a few breakers, such as some Square D models, are labeled for two. 2) Breaker too large for the wire: copper 14 AWG is protected at 15 A, 12 AWG at 20 A, 10 AWG at 30 A (NEC 240.4(D)); the breaker protects the wire, and an upsized one lets it overheat, though air-conditioner and motor circuits follow nameplate maximums (NEC 240.4(G)). 3) Wrong-brand breakers: the panel label lists approved breakers, plus any UL Classified breakers listed for that panel; others may seat poorly on the bus and arc. 4) Neutrals and grounds together in a subpanel: they bond only at the service disconnect (NEC 250.24(A)(5)); otherwise neutral current flows on ground wires and metal. 5) Open slots and knockouts: unused breaker openings must be closed with identified filler plates (NEC 408.7), and cables enter through clamps or bushings, not bare knockout edges. 6) Several neutrals under one terminal: each neutral needs its own terminal (NEC 408.41). 7) Missing or wrong cover screws: pointed sheet-metal or drywall screws can pierce wires behind the cover, unlike the maker's blunt screws. 8) Unlabeled or vague circuit directories (NEC 408.4(A)). 9) Over-stripped or loose conductors: bare copper outside a lug, or terminals below their labeled torque, which NEC 110.14(D) requires reaching by an approved means. 10) Known problem panels: Federal Pacific Stab-Lok, linked by independent testing to breakers that fail to trip (CPSC closed its 1983 investigation without a recall), and Zinsco, whose breakers inspectors report can fuse to the aluminum bus; both are routinely flagged. Local code may differ.",
+  "word_count": 300
+ },
+ {
+  "key": "A33",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "A breaker trips from an overload, a short circuit or a ground or arc fault",
+    "status": "WRONG",
+    "why": "Misleading: a standard thermal-magnetic breaker does not trip on a low-level ground fault or an arc fault; only GFCI/AFCI (or dual-function) breakers do. Fixed.",
+    "source": ""
+   },
+   {
+    "claim": "Homes wired roughly 1965-1973 may have aluminum branch wiring",
+    "status": "WRONG",
+    "why": "CPSC Pub 516 now says 1965 to the mid-1970s. Fixed.",
+    "source": "https://www.cpsc.gov/s3fs-public/516.pdf"
+   },
+   {
+    "claim": "14 AWG copper at 15 A, 12 AWG at 20 A (drafter's doubt: 240.4(D))",
+    "status": "OK",
+    "why": "Verified (240.4(D) small-conductor limits).",
+    "source": "https://forum.nachi.org/t/topic/191235"
+   },
+   {
+    "claim": "CPSC recommends testing every GFCI monthly",
+    "status": "OK",
+    "why": "CPSC releases (1988, 1997, 2000) say test monthly.",
+    "source": "https://www.cpsc.gov/Newsroom/News-Releases/2000/CPSC-and-NESF-Urge-Consumers-to-Plug-Into-Electrical-Safety"
+   },
+   {
+    "claim": "NEC 400.12 bars cords as a substitute for fixed wiring, run through walls, ceilings, doorways or windows, or fastened to surfaces",
+    "status": "OK",
+    "why": "Matches 400.12 uses not permitted (cited ECM Q&A).",
+    "source": "https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables"
+   },
+   {
+    "claim": "Nine everyday electrical basics.",
+    "status": "SPEC",
+    "why": "Framing sentence removed for word room; nine items still present (counted 1-9). Title says 'every homeowner wishes they'd learned sooner': opinion framing, fine.",
+    "source": ""
+   },
+   {
+    "claim": "a plug-in tester reveals open grounds and reversed polarity",
+    "status": "OK",
+    "why": "True; note for the writer (in A29 already) that it cannot detect a bootleg ground.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "1) The main shutoff is the main breaker in the panel, or a separate disconnect near the meter, and a legible panel directory saves time. 2) A breaker trips from an overload or a short circuit, and GFCI or AFCI breakers also from ground or arc faults; one reset is normal, repeated trips point to a fault or overload, and a breaker is never upsized, since it protects the wire (14 AWG copper at 15 A, 12 AWG at 20 A). 3) CPSC recommends testing every GFCI monthly: TEST should cut power to a plugged-in lamp and RESET restore it, and a 'dead' bathroom or garage outlet is often fed through a tripped GFCI elsewhere. 4) A non-contact voltage tester can miss voltage in armored or shielded cable, inside metal boxes or with a weak battery; it is checked on a known live outlet before and after, and silence never proves a wire is dead. 5) Warm, discolored, buzzing or burning-smelling outlets and switches, and flickering lights, point to loose connections or overloads that can arc and overheat. 6) Extension cords are temporary: NEC 400.12 bars cords as a substitute for fixed wiring, run through walls, ceilings, doorways or windows, or fastened to surfaces. 7) Wiring from 1965 to the mid-1970s may include aluminum branch circuits, which CPSC links to overheating connections; CPSC-recognized repairs (COPALUM, AlumiConn) are a licensed electrician's job. 8) A three-prong outlet doesn't prove a ground; a plug-in tester reveals open grounds and reversed polarity. 9) Good connections: wire loops go clockwise under screws, listed lever connectors accept mixed solid and stranded wire, splices stay inside boxes, and a damaged cord plug can be replaced with a listed plug wired brass-hot, silver-neutral, green-ground. Power is off at the breaker and verified dead before any work.",
+  "word_count": 298
+ },
+ {
+  "key": "B3",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "Early designs used indentations or holes that matched spring bumps in the receptacle so the plug engaged firmly.",
+    "status": "UNSUPPORTED",
+    "why": "Only popular sources (Mental Floss, HowStuffWorks) say Hubbell's blades had indents matching socket bumps; Hunker quotes the patent as calling them 'guide-holes'. No primary source for 'holes matched spring bumps'. Softened to 'Popular accounts say some early Hubbell blades had indentations matching small bumps in the socket.'",
+    "source": "https://www.mentalfloss.com/culture/design/why-do-electrical-plugs-have-holes-in-the-prongs ; https://www.hunker.com/1860691/why-electrical-plug-prongs-have-holes-purpose/"
+   },
+   {
+    "claim": "his 1912 patent turned them parallel (drafter's doubt: Silver Cymbal's 1913 'conflicts')",
+    "status": "WRONG",
+    "why": "Minor: the parallel-blade patent (US 1,064,833) was filed in 1912 and granted in 1913, so the reference's 1913 is the grant year, not a conflict. Fixed to 'filed 1912 and granted 1913'. 1904 tandem-blade patent (774,251) confirmed.",
+    "source": "https://www.jlconline.com/how-to/electrical/dawn-of-the-duplex-receptacle_o/"
+   },
+   {
+    "claim": "the hole sits forward of where the contacts touch on a fully inserted plug",
+    "status": "WRONG",
+    "why": "Ambiguous enough to be read backwards. Technology Connections (transcript 11:29-13:54): witness marks run past the hole, i.e. on full insertion the hole has gone past the contacts, deeper into the receptacle. Reworded.",
+    "source": "https://www.youtube.com/watch?v=udNXMAflbU8"
+   },
+   {
+    "claim": "Tamper-resistant receptacles, required in dwellings since the 2008 NEC (now 406.12)",
+    "status": "OK",
+    "why": "2008 NEC 406.11 first required listed TR 15/20 A 125 V receptacles in dwelling units; renumbered 406.12 later.",
+    "source": "https://www.ecmag.com/section/safety/plug-it"
+   },
+   {
+    "claim": "ground pin, longer than the blades so it connects first and disconnects last",
+    "status": "OK",
+    "why": "Ground pin is 1/8 in longer than the blades (NEMA connector summary of WD-6).",
+    "source": "https://en.wikipedia.org/wiki/NEMA_connector"
+   },
+   {
+    "claim": "In the code, '1' means two-wire non-grounding",
+    "status": "OK",
+    "why": "True but the voltage was left off for '1' while given for '5'; added '125 V' for parity.",
+    "source": "https://en.wikipedia.org/wiki/NEMA_connector"
+   },
+   {
+    "claim": "holes also take shipping seals and some lockout devices",
+    "status": "UNSUPPORTED",
+    "why": "Secondary sources only (HowStuffWorks, BGR); NEMA reportedly allows a locking use. Softened to 'can also take'.",
+    "source": "https://home.howstuffworks.com/two-flat-prong-plug-holes.htm"
+   }
+  ],
+  "corrected_brief": "US plug-blade holes date from the earliest plugs and survive mainly for manufacturing. Harvey Hubbell's 1904 separable plug patent used flat blades set in tandem; his parallel-blade patent, filed 1912 and granted 1913, set the layout behind today's NEMA 1-15 plug. Popular accounts say some early Hubbell blades had indentations matching small bumps in the socket. Modern receptacle contacts mostly grip the blade by spring pressure and friction, and on a fully inserted plug the hole has already slid past the contacts, deeper into the receptacle, which is why plugs without holes fit just as snugly. The NEMA dimension drawing states the hole is optional and intended for manufacturing purposes only, but if used must be located where shown. In the factory, alignment rods threaded through the holes hold the blades while the plug body is molded around them, and the holes can also take shipping seals and some lockout devices. Claims that the holes save metal or date from wartime rationing don't fit: holes predate World War II by decades and the metal saved is trivial. On a polarized two-prong (NEMA 1-15) plug the wider blade is neutral, so a lamp's screw shell and a switched appliance stay on the neutral side and the switch breaks the hot. A NEMA 5-15 plug adds a round or U-shaped ground pin, longer than the blades so it connects first and disconnects last; that pin also fixes the orientation, so the blades are often both narrow. In the code, '1' means 125 V two-wire non-grounding, '5' means 125 V grounding, and '15' is the amp rating. Tamper-resistant receptacles, required in dwellings since the 2008 NEC (now 406.12), have shutters that open only when both blades push at once. A receptacle that barely grips a plug has worn contacts that can overheat.",
+  "word_count": 299
+ },
+ {
+  "key": "A14",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "or a load capacitor such as Lutron's LUT-MLC, wired at the fixture",
+    "status": "WRONG",
+    "why": "Incomplete in a way that matters: Lutron's sheet (041-294) says the LUT-MLC is for switches controlling CFL/LED/fluorescent loads where no neutral is available, wired from the switched hot to neutral in the fixture or its junction box, one per switch. Distributors list it for Lutron controls; results with other brands vary. Fixed.",
+    "source": "https://assets.lutron.com/a/documents/041294.pdf"
+   },
+   {
+    "claim": "NEC 404.2(C) requires a neutral at most switch locations that control lighting",
+    "status": "WRONG",
+    "why": "It applies to new installations (2011 NEC on), not existing switch boxes, and has exceptions; as written a viewer could think their old no-neutral box violates code. Added 'new'.",
+    "source": "https://www.ecmweb.com/national-electrical-code/article/55125351/the-apprentice-s-guide-to-article-404"
+   },
+   {
+    "claim": "Glow with flicker, buzzing or warm devices points to a loose connection",
+    "status": "WRONG",
+    "why": "Flicker with LEDs is very often dimmer or driver incompatibility, not a loose connection; 'points to' overstates. Changed to 'Glow with buzzing or warm devices can point to'.",
+    "source": ""
+   },
+   {
+    "claim": "Pass & Seymour states its illuminated switches may make LED and CFL bulbs glow or flicker when off",
+    "status": "OK",
+    "why": "Manufacturer page cited by drafter; consistent with Mike Holt discussion.",
+    "source": "https://www.legrand.us/passandseymour/light-switches/toggle/660wslg.aspx"
+   },
+   {
+    "claim": "switch on the neutral ... socket and bulb base stay at 120 V while it is off",
+    "status": "OK",
+    "why": "Correct; this is the honest backing for 'WARNING'. 404.2(B) verified.",
+    "source": "https://forums.mikeholt.com/threads/white-conductor.58988/page-2"
+   },
+   {
+    "claim": "Title '(WARNING)'",
+    "status": "SPEC",
+    "why": "Backed only by the switched-neutral case; the glow itself is not shown to be a hazard in any source, and the brief says so implicitly. Operator should know the warning attaches to the cause, not the glow.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "An LED bulb glows faintly when off because a tiny current still reaches it, from four usual sources. 1) Capacitive coupling: the switch leg to the fixture often runs beside the always-hot conductor in the same cable, and the two act as a small capacitor. With the switch open, alternating current still couples across in microamps, and long runs and three-way travelers couple more. 2) Lighted switches pass a small current through the bulb to power their indicator when off; Pass & Seymour states its illuminated switches may make LED and CFL bulbs glow or flicker when off. 3) Dimmers and smart switches wired without a neutral draw standby current through the bulb; NEC 404.2(C) requires a neutral at most new switch locations that control lighting. 4) The dangerous case: a switch wired on the neutral instead of the hot, which NEC 404.2(B) forbids; the fixture, socket and bulb base stay at 120 V when off, a shock risk when a bulb is changed. Cheap LED bulbs often use a capacitive-dropper driver feeding long strings of series LEDs, which light on microamps, while incandescents need far more current, and bulbs with switching drivers need milliamps to start. Fixes: the switch moved to the hot conductor, by an electrician; a standard switch, or an LED-rated lighted switch, in place of an old lighted one; a smart switch that uses a neutral; dimmable LEDs from the dimmer maker's compatibility list; or a load capacitor such as Lutron's LUT-MLC, made for no-neutral switches on LED and CFL loads, wired from switched hot to neutral at the fixture. Glow with buzzing or warm devices can point to a loose connection, a job for a licensed electrician. Power is off at the breaker and verified dead before work; local code may differ.",
+  "word_count": 297
+ }
+]

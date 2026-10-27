@@ -1,0 +1,94 @@
+[
+ {
+  "key": "A7",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "the kit must be made or listed for that exact panel",
+    "status": "UNSUPPORTED",
+    "why": "The drafter's doubt is resolved: the 2023 NEC 702.5(A) text says transfer equipment 'shall be listed, designed, and installed so as to prevent the inadvertent interconnection of all sources of supply' ('listed' is new in 2023). 'Made or' is weaker than the code; changed to 'listed'. IAEI: interlock kits are treated as transfer equipment, evaluated under UL 67 with the panelboard.",
+    "source": "https://expertce.com/courses/electricians-guide-for-nec-2023/lessons/how-does-the-2023-nec-update-interconnection-and-transfer-equipment-requirements/ ; https://iaeimagazine.org/?p=14633"
+   },
+   {
+    "claim": "A meter-socket adapter between the meter and meter base, allowed only where the utility approves it",
+    "status": "UNSUPPORTED",
+    "why": "Missing the code rule: 2023 NEC 702.5(B) says transfer switches between the meter and meter enclosure 'shall be listed meter-mounted transfer switches and shall be approved.' Added 'listed as a meter-mounted transfer switch'. To stay under 300 words, two clauses were shortened: '(about 3,600 W, no 240 V loads such as well pumps)' became '(3,600 W, no 240 V loads)', and '; only those circuits get power' was dropped (already implied by 'pre-selected circuits'). Utility-approval wording is from the proof video only (no utility source), left as is.",
+    "source": "https://expertce.com/courses/electricians-guide-for-nec-2023/lessons/how-does-the-2023-nec-update-interconnection-and-transfer-equipment-requirements/"
+   }
+  ],
+  "notes_ok": "CPSC 20 ft rule verified verbatim in the 2017 CPSC alert ('OUTSIDE ONLY. Keep them at least 20 feet from doors, windows, and vents'; never in garages even with doors/windows open; battery or battery-backup CO alarms). L5-30/L14-30/50 A volt-amp figures are correct arithmetic. Bonded-neutral point matches Generac. ('CS6365' is strictly the 50 A plug's catalog number; the matching inlet is CS6375 - common shorthand for the configuration, not changed.)",
+  "corrected_brief": "A portable generator may feed house wiring only through transfer equipment that prevents the generator and the utility from supplying the panel at the same time (NEC 702.5). Three legal methods: 1) An interlock kit with a power inlet: an outdoor inlet box, whose recessed male prongs are dead until the generator runs, is wired to a two-pole breaker in the main panel, and a sliding plate on the panel cover lets the main breaker or the generator breaker be on, never both. Pros: every circuit in the panel is available. Cons: the owner manages load by switching breakers, and because NEC 702.5 requires transfer equipment to be listed, the kit must be listed for that exact panel; some inspectors accept only the panel maker's kit. 2) A manual transfer switch: a small separate panel feeding pre-selected circuits, each switched between utility and generator, so interconnection is blocked by design. 3) A meter-socket adapter between the meter and meter base, listed as a meter-mounted transfer switch and allowed only where the utility approves it. Inlets: L5-30 is 30 A at 120 V only (3,600 W, no 240 V loads); L14-30 is 30 A at 120/240 V (up to 7,200 W); 14-50 and CS6365 are 50 A at 120/240 V (up to 12,000 W). Inlet, cord and breaker all match the generator's outlet rating. With equipment that does not switch the neutral, a generator whose neutral is bonded to its frame adds a second neutral-to-ground bond, so the manual's bonded or floating status matters. CPSC: outdoors only, at least 20 feet from doors, windows and vents, never in a garage, with battery CO alarms inside. This is a permit job for a licensed electrician; local code may differ from the NEC and the inspector has the final say.",
+  "word_count": 297,
+  "original_word_count": 293
+ },
+ {
+  "key": "A31",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "state emergency agencies warn the generator and house wiring can be severely damaged, with overheating and fire risk",
+    "status": "WRONG",
+    "why": "Mis-attributed. The Maryland and New Jersey advisories say only that the generator and house wiring 'may be severely damaged'; neither mentions overheating or fire for this case. The fire consequence is supported by the CPSC March 2026 release (backfeeding can cause 'serious injury or death from electrocution or fire'), so the clause now cites that. To stay under 300 words, the meter sentence was shortened to 'The panel connects to the utility through the meter, which measures power and disconnects nothing.'",
+    "source": "https://news.maryland.gov/mdem/2011/08/28/portable-generators-and-electrocution-risk-from-backfeeding-power-lines/ ; https://nj.gov/dca/news/news/2012/approved/20121026.html ; https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-Consumers-to-Stop-Using-Male-to-Male-Extension-Cords-Secures-Delisting-Commitments-from-E-Commerce-Platforms"
+   },
+   {
+    "claim": "The generator also tries to supply the neighborhood's connected load, which can overload it",
+    "status": "UNSUPPORTED",
+    "why": "No primary source found; only forum electricians (who add that on a rural line it may not trip). It is sound physics and hedged with 'can', so left unchanged; operator should know it is a reading.",
+    "source": "https://www.tractorbynet.com/forums/goto/post?id=2543389"
+   }
+  ],
+  "notes_ok": "Verified: Eversource gives 120/240 V homes and a 7,200 V primary and says transformers 'don't care which way the power is flowing'; 7,200/240 = 30:1 is correct. CPSC 2017 alert wording on backfeeding (electrocution risk to utility workers and neighbors on the same transformer; bypasses some built-in household circuit protection) is verbatim. CPSC Release 26-363, 31 March 2026, exists and says the cords should never be used. NEC 702.5 interconnection rule confirmed for 2023. 20 ft rule verified. Title backing: honest as a recognised hazard; the brief does not claim a documented lineman death, which is correct (no confirmed case found).",
+  "corrected_brief": "The mistake is backfeeding: plugging a generator into a dryer outlet, range outlet or wall receptacle with a cord that has a male plug on both ends, so the generator powers the panel backwards through that outlet's breaker. The panel connects to the utility through the meter, which measures power and disconnects nothing. If the main breaker is on, or someone switches it back on, the generator's output travels out the service drop to the pole transformer. Transformers work in both directions: the one serving a home steps distribution voltage, commonly 7,200 volts on the primary, down to 120/240 volts, so 240 volts pushed into the secondary comes out on the primary at roughly 7,200 volts (a 30-to-1 ratio). That energizes a line a repair crew may believe is dead, plus every house on the same transformer, where a neighbor can touch a downed wire. CPSC states that backfeeding through a wall outlet is an electrocution risk to utility workers and neighbors served by the same transformer, and that it bypasses some built-in household circuit protection. The cord's free end carries live, exposed prongs. The generator also tries to supply the neighborhood's connected load, which can overload it, and when utility power returns with the generator still connected, state emergency agencies warn the generator and house wiring can be severely damaged, and CPSC says backfeeding can cause electrocution or fire. The NEC requires transfer equipment that prevents interconnecting the two sources (NEC 702.5), and CPSC warned in March 2026 that male-to-male cords should never be used. The safe alternatives: cords from the generator to individual appliances, an interlock kit with an inlet, or a transfer switch installed by a licensed electrician with a permit, and the generator outdoors at least 20 feet from doors, windows and vents.",
+  "word_count": 297,
+  "original_word_count": 299
+ },
+ {
+  "key": "B11",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "and generator and wiring damage, with fire risk, when utility power returns",
+    "status": "WRONG",
+    "why": "Same problem as A31: the state advisories behind this say only 'severely damaged', not fire. The fire consequence comes from the CPSC 2026 release about backfeeding in general, so it is now a separate item attributed to CPSC.",
+    "source": "https://news.maryland.gov/mdem/2011/08/28/portable-generators-and-electrocution-risk-from-backfeeding-power-lines/ ; https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-Consumers-to-Stop-Using-Male-to-Male-Extension-Cords-Secures-Delisting-Commitments-from-E-Commerce-Platforms"
+   }
+  ],
+  "notes_ok": "CPSC Release 26-363 (31 March 2026) confirmed: 'no legitimate household use' (Acting Chairman), never use under any circumstances, 'often used to supply power from a generator to a residential electrical system' (so 'typically' is fair), listings removed from Walmart, eBay and AliExpress, China-based sellers 'unresponsive to CPSC requests for a recall', short length means generators run too close to homes or in enclosed spaces (CO risk). Bypassing household circuit protection is CPSC verbatim. RV shore-power inlets are male inlets: OK. Title 'worst mistake' is a reading (stacked hazards), not a ranking; acceptable as framed.",
+  "corrected_brief": "Every legitimate cord follows one rule: the end that receives power has the male plug and the end that delivers power has a female connector, so live metal is always recessed. Wall receptacles are female for the same reason. A cord with a male plug on both ends, sold online as a \"double male\" cord and nicknamed the suicide cord, breaks that rule: once either end is plugged in, the prongs on the other end are live and exposed, and touching them means a shock or electrocution. In March 2026 CPSC told consumers to stop using male-to-male extension cords, stating they \"have no legitimate household use,\" should never be used under any circumstances, and are typically used for backfeeding; CPSC secured removal of listings on Walmart, eBay and AliExpress from China-based sellers who did not respond to recall requests, and noted their short length puts generators close to the house, raising carbon monoxide risk. Backfeeding through one is the worst electrical mistake because it stacks several hazards at once: live exposed prongs; generator power flowing out through the meter to the pole transformer, which steps it up to distribution voltage and endangers line crews and neighbors; CPSC's warning that it bypasses some built-in household circuit protection; a main breaker that someone forgets, or switches back on; generator and house wiring damage when utility power returns; and CPSC's warning of electrocution or fire. The legal ways all keep live metal recessed and make interconnection impossible: an outdoor power inlet (its male prongs are dead until the generator is connected, the same design as an RV's shore-power inlet) with a panel interlock kit, or a manual transfer switch (NEC 702.5), installed by a licensed electrician with a permit; or plain heavy-duty outdoor cords from the generator to individual appliances.",
+  "word_count": 297,
+  "original_word_count": 293
+ },
+ {
+  "key": "B7",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "a few brands are UL listed to 600 V, but for stranded wire only",
+    "status": "WRONG",
+    "why": "The cited McMaster product is not 'UL listed' and not 'stranded only': its solder heat-shrink butt splices are marked 'UL Recognized Component', 600 V, and rated 'Solid, Stranded' in the 24-22, 22-18, 16-14 and 8 AWG sizes; only the 12-10 size is stranded-only. A Recognized Component mark covers parts for factory-built equipment, not a field listing. Retail Gardner Bender solder/heat-shrink splices claim 'UL and CSA safety listings' at 600 V. Rewritten so it is true across brands without overclaiming either way.",
+    "source": "https://www.mcmaster.com/products/solder-sleeves/ ; https://www.truevalue.com/product/butt-splice-connector-heat-shrink-16-14-awg-5-pk/"
+   }
+  ],
+  "notes_ok": "NEC 110.14(B) (splicing devices identified for the use, or soldered after being made mechanically and electrically secure) and 250.8(B) (no connection devices that depend solely on solder) match the long-standing code text; the 2023 text was not read directly but the wording has not changed across editions. Wago 221 UL 600 V / 20 A / 24-12 AWG matches the Wago cut sheet. Butt-splice color code standard. Power-off and verify-dead present. Title: honest for vehicle, trailer and low-voltage work; the brief correctly says house wiring uses listed connectors instead.",
+  "corrected_brief": "Twisting wires together and wrapping them in tape is not an acceptable splice. Solder-seal connectors (also sold as hybrid or solderless connectors) are clear heat-shrink tubes with a low-temperature solder ring in the middle and a colored adhesive ring near each end; the color marks the wire gauge range, matched to the wire size. Use: strip a short length of insulation, push the bare ends in from each side so the strands overlap under the solder ring with the insulation under the colored rings, then heat with a heat gun until the tube shrinks, the solder melts and flows into the strands, and the adhesive seals both ends; let it cool before flexing. The result is sealed against moisture, which suits automotive, trailer, marine, landscape lighting and 24-volt sprinkler wiring. Limits: most kits are sold for those uses and carry no listing for building wiring; a UL Recognized Component mark on some is for parts inside factory-built equipment, not a building-wire listing, and house wiring is mostly solid 14 and 12 AWG. The NEC requires splices made with devices identified for the use, or soldered only after the wires are already mechanically and electrically secure (NEC 110.14(B)), and connections that depend solely on solder are not permitted on grounding conductors (NEC 250.8). Solder also stiffens stranded wire, creating a break point where it flexes. Other no-solder options: crimped butt splices, color-coded by gauge (red 22-18, blue 16-14, yellow 12-10), made with a ratcheting crimper and a tug test, with heat-shrink versions for wet spots. For 120 V house wiring inside boxes, use listed twist-on wire connectors, push-in connectors, or lever connectors such as Wago 221 (UL rated 600 V, 20 A, 24-12 AWG solid or stranded), with power off at the breaker and verified dead with a tester.",
+  "word_count": 298,
+  "original_word_count": 295
+ },
+ {
+  "key": "B10",
+  "verdict": "ok",
+  "issues": [
+   {
+    "claim": "NM is not permitted in wet or damp locations (NEC 334.12(B)(4))",
+    "status": "UNSUPPORTED",
+    "why": "Minor. Could not read the 2023 NFPA 70 text; every source found (ECM, Steel Tube Institute, Indiana code bulletins, Mike Holt) gives 334.12(B)(4) 'in wet or damp locations' for 2008-2020, and nothing indicates renumbering in 2023. Left as is; the rule itself is not in doubt.",
+    "source": "https://steeltubeinstitute.org/resources/outdoor-emt-installation/ ; https://www.ecmag.com/magazine/articles/article-detail/codes-standards-nm-cable-acceptable-wet-location"
+   }
+  ],
+  "notes_ok": "Verified: 2023 NEC 334.15(B) list (RMC, IMC, EMT, Schedule 80 PVC, RTRC -XW, other approved means) from EC&M, and the new 2023 sentence 'Conduit or tubing shall be provided with a bushing or adapter that provides protection from abrasion at the point the cable enters and exits the raceway' (ExpertCE). 300.5(B) and 300.9 (raceway interiors underground / in wet locations above grade are wet) and Chapter 9 Note 9 and Table 1 (53 percent for one conductor/cable) are standard. 'Can overfill 1/2-inch conduit' is true for some cases (e.g. 12-2 NM, about 0.41 in. major diameter = about 0.13 sq in, exceeds 53 percent of 1/2-inch Schedule 80 PVC, about 0.115 sq in; it fits 1/2-inch EMT). Title '#1 DIY mistake' is a reading, not a measured ranking; the brief pins the mistake down precisely.",
+  "corrected_brief": "NM cable (Romex is a brand name) is allowed inside conduit, and the NEC calls for it where the cable needs protection from physical damage: rigid metal conduit, IMC, EMT, Schedule 80 PVC, RTRC marked -XW or another approved means (NEC 334.15(B)), with a bushing or adapter where the cable enters and leaves the conduit. The mistake is running NM through conduit outdoors or underground, such as to a detached garage, shed, post light or outdoor receptacle. NM is not permitted in wet or damp locations (NEC 334.12(B)(4)); the inside of a raceway installed underground is a wet location (NEC 300.5(B)), and so is the inside of a raceway in a wet location above grade (NEC 300.9). Conduit does not keep water out: condensation and seepage collect inside it, and NM is not made for that. Conductors in those raceways must be listed for wet locations, such as individual THWN-2 conductors, or the run can use UF cable, which is rated for wet locations and direct burial. An attached garage is generally treated like the house, not as damp. Other problems with NM in conduit: a cable is treated as a single conductor for fill, sized by its widest dimension as a circle (Chapter 9, Note 9), and one cable may fill no more than 53 percent of the conduit (Chapter 9, Table 1), so a single flat cable can overfill 1/2-inch conduit; NM drags and jams at bends, so longer runs pull far easier as individual conductors; and stripping the sheath to pull the inner wires is not allowed, because those conductors are not marked as a standalone wire type. Several cables in one conduit need ampacity reduction for heat. Outdoor runs usually need a permit; local code may differ and the inspector has the final say.",
+  "word_count": 298,
+  "original_word_count": 298
+ }
+]

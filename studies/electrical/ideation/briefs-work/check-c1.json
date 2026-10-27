@@ -1,0 +1,194 @@
+[
+ {
+  "key": "A1",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "Kitchen countertop and bathroom circuits cannot feed outlets in other rooms",
+    "status": "WRONG",
+    "why": "Overstated for kitchens: the 20 A small-appliance circuits serve the kitchen, pantry, breakfast room and dining room, so they do feed outlets in other rooms (210.52(B)(1)-(2)). Bathroom receptacle circuits may serve several bathrooms but no other rooms (210.11(C)(3)). Reworded.",
+    "source": "https://forums.mikeholt.com/threads/small-appliance-branch-ckts-article-210.29114/post-29114"
+   },
+   {
+    "claim": "2) cut a drywall strip low enough for the trim to cover it;",
+    "status": "SAFETY",
+    "why": "The cut is made before the power is turned off (step 3), and an oscillating blade plunged deeper than the drywall can hit an existing cable in the stud bay. Added 'only drywall-deep'.",
+    "source": ""
+   },
+   {
+    "claim": "all grounds counted once (NEC 314.16)",
+    "status": "UNSUPPORTED",
+    "why": "True for a typical outlet box. Sources disagree on whether the 2020 'up to four EGCs count as one, 1/4 allowance each beyond' wording survives in 2023; the 2023 text quoted on Mike Holt reads 'one or more ... a single volume allowance'. No effect on a normal receptacle box, so left as is.",
+    "source": "https://forums.mikeholt.com/threads/314-16-box-fill.2586591"
+   },
+   {
+    "claim": "NM entering a metal box needs a clamp or connector, with the sheath at least 1/4 in. inside (NEC 314.17)",
+    "status": "OK",
+    "why": "Confirmed: the 1/4 in. sheath rule was extended to metal boxes in the 2017 NEC (314.17(B)); citing the section without a subsection is safe.",
+    "source": "https://forums.mikeholt.com/goto/post?id=2654361"
+   },
+   {
+    "claim": "Verified OK: 300.4(A)(1) 1-1/4 in./nail plate; 300.14 6 in./3 in.; 314.16 2.00/2.25 cu in., device counts double; AFCI on extensions (210.12, 6 ft / no-new-outlet exception); 210.8; 406.12; permit/inspector line",
+    "status": "OK",
+    "why": "Matches the code sources listed; no corrections needed.",
+    "source": "https://www.ecmweb.com/national-electrical-code/qa/article/21255990/code-qa-free-conductor-length-requirements"
+   }
+  ],
+  "corrected_brief": "Adding a receptacle to a finished wall without attic, basement or crawl-space access means taking power from an existing receptacle on the same wall and running cable sideways behind the baseboard, where the trim hides every drywall cut. Needed: trim puller, oscillating multi-tool, stud finder, extension drill bit, fish tape, voltage tester, NM cable the same size as the existing wire (14 AWG on a 15 A breaker, 12 AWG on a 20 A breaker), a cable connector, an old-work box, listed connectors and a tamper-resistant receptacle. Steps: 1) pull the baseboard and snip its nails from the back; 2) cut a drywall strip, only drywall-deep, low enough for the trim to cover it; 3) turn off the breaker and verify dead with a tester before opening the existing box; 4) drill through each stud, keeping the hole edge 1-1/4 in. from the stud face or adding a steel nail plate (NEC 300.4(A)(1)), since trim nails go into those studs; 5) fish the cable; NM entering a metal box needs a clamp or connector, with the sheath at least 1/4 in. inside (NEC 314.17); 6) leave 6 in. of free conductor, 3 in. past the box face (NEC 300.14); 7) check box fill: 2.00 cu in. per 14 AWG, 2.25 per 12 AWG, double for the receptacle, all grounds counted once (NEC 314.16); 8) pigtail the old receptacle and the new run together. Kitchen countertop circuits may serve only kitchen, pantry and dining areas, bathroom receptacle circuits only bathrooms, and a new outlet adds load to a circuit already in use. Extending a circuit generally brings in AFCI protection (NEC 210.12), GFCI where the location requires it (NEC 210.8) and tamper-resistant receptacles (NEC 406.12). Many jurisdictions require a permit, and the local inspector has the final say.",
+  "word_count": 297
+ },
+ {
+  "key": "A2",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "current code wording allows the spliced length to satisfy 300.14",
+    "status": "OK",
+    "why": "The drafter's doubt is resolved: EC&M says 300.14 'was modified in the 2023 NEC to clarify the 6 in. of free conductor required can be spliced or unspliced.' So it is the 2023 edition, not 2020.",
+    "source": "https://ecmweb.com/national-electrical-code/quizzes/article/21277442/code-quiz-splice-requirements"
+   },
+   {
+    "claim": "Aluminum branch wiring needs connectors made for it, such as the CPSC-recommended COPALUM crimp or the AlumiConn connector.",
+    "status": "SAFETY",
+    "why": "As written, this reads as a DIY step. CPSC's COPALUM repair is done by trained electricians, and the companion brief C2 already sends aluminum to an electrician. Added 'and is a licensed electrician's job'.",
+    "source": "https://www.cpsc.gov/s3fs-public/516.pdf"
+   },
+   {
+    "claim": "Verified OK: 300.14 measured from the sheath, 3 in. past an opening under 8 in.; 314.17 1/4 in.; Wago 221 24-12 AWG copper, 11 mm strip; no backstab to save length; no splices outside a box",
+    "status": "OK",
+    "why": "Matches EC&M, Mike Holt and Wago sources. Two small wording trims to stay at 300 words.",
+    "source": "https://www.wago.com/us/221-handling-instructions"
+   }
+  ],
+  "corrected_brief": "The NEC requires at least 6 in. of free conductor at every box where wires are spliced or connected to a device, measured from where the conductor leaves the cable sheath, and at least 3 in. sticking out past the opening of a box smaller than 8 in. (NEC 300.14). The cable sheath must also reach at least 1/4 in. inside the box (NEC 314.17). Older homes often have short wires because every device swap trims the end. With the breaker off and the box verified dead with a tester, there are three fixes. 1) Find slack: loosen the cable clamp and gently draw cable in without nicking insulation; a service loop may give an inch or two. 2) Replace the cable where reachable from an attic, basement or crawl space; cable stapled inside the wall will not pull. 3) Pigtail: splice a short length of new wire onto each conductor (hot, neutral and ground) so a full 6 in. reaches the device; current code wording allows the spliced length to satisfy 300.14. The pigtail must match the circuit wire: same gauge (12 AWG on 20 A, 14 AWG on 15 A) and copper to copper. Aluminum branch wiring needs connectors made for it, such as the CPSC-recommended COPALUM crimp or the AlumiConn connector, and is a licensed electrician's job. Connectors must be listed for the wire: Wago 221 lever connectors take 24-12 AWG copper, stripped 11 mm and pushed fully home; wire nuts follow the maker's size chart, with no bare copper below the skirt and a tug test. Never strip extra insulation to make a wire reach, stretch a wire tight to a terminal, use push-in backstab holes to save length, or splice outside a box. Brittle, scorched or cracked insulation is a job for a licensed electrician.",
+  "word_count": 300
+ },
+ {
+  "key": "C2",
+  "verdict": "ok",
+  "issues": [
+   {
+    "claim": "Push-in terminals are permitted only with 14 AWG solid copper",
+    "status": "OK",
+    "why": "IAEI's 2023 CMP-18 summary: '14 AWG solid type copper conductors are only allowed to be utilized with the push-in type terminals for receptacles' (it places the rule at 406.3). Not cited by number in the brief, which is fine.",
+    "source": "https://iaeimagazine.org/standards/significant-changes-to-the-2023-nec-by-cmp-18/"
+   },
+   {
+    "claim": "CPSC notes that a loose connection cannot carry much current without getting hot",
+    "status": "OK",
+    "why": "Verbatim in CPSC Publication 513: 'Loose-fitting plugs can cause overheating and fires. A loose connection cannot carry much current without getting hot.'",
+    "source": "https://www.cpsc.gov/s3fs-public/513.pdf"
+   },
+   {
+    "claim": "Title: 'The Short-Wire Mistake Everyone Makes'",
+    "status": "SPEC",
+    "why": "Title backing: 'everyone makes' is framing with no data behind it (the drafter flagged this too). The brief backs it with a real mechanism, not a statistic. No change to the brief; the operator may want to soften the title.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "The mistake is connecting the new receptacle or switch straight to wires that are too short instead of adding a pigtail. With only an inch or two of wire past the box face, the conductor is pulled tight to reach the terminal, and then the device is pushed back into the box. That folding puts steady strain on the terminal: a screw connection can work loose or end up with only part of a loop under the screw head, and the wire can bend sharply right at the cable clamp. People often strip extra insulation so the wire will reach, which leaves bare copper outside the terminal close to a metal box or the ground wire, or they use the push-in backstab holes because those need only a short straight end. Push-in terminals are permitted only with 14 AWG solid copper and depend on a small spring contact. The result in every case is a weak connection, and CPSC notes that a loose connection cannot carry much current without getting hot; heat at a terminal leads to arcing, melted insulation and fire risk inside the wall, often unnoticed until the outlet is warm or dead. The NEC sets the minimum: at least 6 in. of free conductor measured from where the wire leaves the cable sheath, and 3 in. past the opening of a box smaller than 8 in. (NEC 300.14). The right fix is a pigtail: with the breaker off and the box verified dead with a tester, splice a 6 in. or longer piece of the same gauge copper wire onto each conductor using a listed lever connector or wire nut, then connect the pigtail to the device's screw or clamp terminal. Brittle insulation or aluminum wire calls for a licensed electrician.",
+  "word_count": 294
+ },
+ {
+  "key": "A12",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "a new receptacle of the same rating, tamper-resistant where the NEC requires it in homes (NEC 406.4(D)(5), 406.12)",
+    "status": "SAFETY",
+    "why": "Leaves out the replacement GFCI rule: a replaced receptacle in a location that now needs GFCI (bathroom, kitchen, garage, outdoors and the like) must be GFCI protected (406.4(D)(3)). A DIYer following the brief could put back a plain receptacle by a sink. Added it.",
+    "source": "https://www.ecmweb.com/national-electrical-code/qa/article/20900771/code-qa-receptacle-replacement-rules"
+   },
+   {
+    "claim": "CPSC states that loose-fitting plugs can cause overheating and fires, and that a loose connection cannot carry much current without getting hot ... CPSC's answer is to have the outlet replaced",
+    "status": "OK",
+    "why": "Verbatim in CPSC 513 ('Do all electrical plugs fit snugly into all outlets? NO: Have the outlet replaced.').",
+    "source": "https://www.cpsc.gov/s3fs-public/513.pdf"
+   },
+   {
+    "claim": "Spreading the plug blades is not a fix.",
+    "status": "UNSUPPORTED",
+    "why": "This is reasoning (it hides the worn contact), not a sourced rule, as the drafter says; it is defensible. Left in.",
+    "source": ""
+   },
+   {
+    "claim": "Bent or thin plug blades from a cheap charger cause the same symptom",
+    "status": "OK",
+    "why": "Reasonable and true; reworded only to make room for the GFCI clause.",
+    "source": ""
+   }
+  ],
+  "corrected_brief": "A plug that won't stay in usually means the receptacle's contacts are worn out. Each slot holds a spring-formed brass contact that grips the plug blade; that grip is what keeps the plug in and what makes a tight, low-resistance electrical connection. Thousands of insertions, cords tugged at an angle and heat from high-draw loads such as vacuums, space heaters and hair dryers fatigue the metal until the contacts spread apart and no longer grip. Two-prong plugs fall out first because they have no ground pin to brace them, which is why worn outlets in hotels, kitchens and bathrooms are the familiar ones. Bent or thin plug blades, common on cheap chargers, cause the same symptom, so try the plug in another outlet first. The real problem is that the loose fit is a warning. A loose contact touches the blade over a smaller area, so resistance rises and the contact heats under load; CPSC states that loose-fitting plugs can cause overheating and fires, and that a loose connection cannot carry much current without getting hot. Heat further softens the spring metal, so the grip gets worse over time, and arcing can scorch the receptacle body. A half-pulled plug also leaves energized metal exposed to fingers. Signs: plugs that droop or drop out, a faceplate warm to the touch, brown or melted marks, crackling or buzzing, a burning smell, or power that cuts in and out when the cord moves. Spreading the plug blades is not a fix. CPSC's answer is to have the outlet replaced: breaker off, verified dead with a tester, and a new receptacle of the same rating, GFCI protected where the location now requires it and tamper-resistant where required (NEC 406.4(D)(3), 406.4(D)(5), 406.12). Scorched wires or a melted box call for a licensed electrician.",
+  "word_count": 298
+ },
+ {
+  "key": "C12",
+  "verdict": "fixed",
+  "issues": [
+   {
+    "claim": "A two-prong box with no ground wire takes a non-grounding receptacle or a GFCI marked \"No Equipment Ground,\" never a plain three-prong (NEC 406.4(D)(2))",
+    "status": "WRONG",
+    "why": "Incomplete in a way that misstates the rule. 406.4(D)(2)(c) also allows a three-prong (grounding-type) receptacle supplied through a GFCI (an upstream GFCI receptacle or GFCI breaker), marked 'GFCI Protected' and 'No Equipment Ground'. What is not allowed is an unprotected three-prong. Rewritten.",
+    "source": "https://www.ecmweb.com/national-electrical-code/qa/article/20900802/stumped-by-the-code-nec-requirements-when-replacing-nongrounding-type-receptacles"
+   },
+   {
+    "claim": "the NEC requires replacements in homes to be tamper-resistant (NEC 406.4(D)(5), 406.12)",
+    "status": "WRONG",
+    "why": "Slight overstatement: 406.12 has exceptions (receptacles over 5-1/2 ft high, part of a luminaire or appliance, single or duplex receptacles for appliances not easily moved), and 406.4(D)(5) exempts replacing a non-grounding receptacle with another non-grounding one. Changed to 'nearly all replacements'.",
+    "source": "https://www.ecmweb.com/national-electrical-code/qa/article/20900771/code-qa-receptacle-replacement-rules"
+   },
+   {
+    "claim": "note ... whether the brass tab between the screws is broken, which means a switched or split outlet",
+    "status": "SAFETY",
+    "why": "A split receptacle can be fed by two breakers (a multiwire or two-circuit outlet), so one breaker off can leave half of it live. Added 'possibly on two breakers, so verify both halves dead'.",
+    "source": ""
+   },
+   {
+    "claim": "Title: 'Your Plugs Will Never Fall Out Again'",
+    "status": "SPEC",
+    "why": "Title backing: 'never' overstates (the drafter flagged this too); a new receptacle also wears out over time. The brief backs 'won't fall out' with new, heavier contacts. No brief change; consider softening the title.",
+    "source": ""
+   },
+   {
+    "claim": "match the breaker and wire size",
+    "status": "SPEC",
+    "why": "Removed to make room for the fixes. The kept clause ('a 20 A receptacle ... needs a 20 A circuit') is correct; 'match' wrongly implied a 15 A receptacle can't go on a 20 A multi-outlet circuit. '(Leviton lists triple-wipe designs)' and some step wording were also trimmed for length.",
+    "source": ""
+   },
+   {
+    "claim": "Verified OK: 406.4(D)(3) GFCI, (D)(4) AFCI options, (D)(6) weather-resistant; GFCI location list; 20 A T-slot; backstab avoidance; TEST/RESET",
+    "status": "OK",
+    "why": "Matches EC&M, IAEI and St. Paul sources.",
+    "source": "https://iaeimagazine.org/standards/significant-changes-to-the-2023-nec-by-cmp-18/"
+   }
+  ],
+  "corrected_brief": "The fix is a new receptacle, and the choice matters. Grade: residential grade devices use lighter contacts; commercial and specification grade use heavier brass contacts and usually back-wire clamp terminals. Rating: a 15 A receptacle has two straight slots; a 20 A receptacle has a T-shaped neutral slot and needs a 20 A circuit. Tamper-resistant: the NEC requires nearly all replacements in homes to be tamper-resistant (NEC 406.4(D)(5), 406.12); shutters open only when both blades press together. Where GFCI protection is now required (bathrooms, kitchens, garages, outdoors, basements, laundry areas, near sinks), the replacement must be GFCI protected (NEC 406.4(D)(3)); where AFCI protection is now required, an AFCI receptacle (at it or upstream) or combination AFCI breaker must protect it (NEC 406.4(D)(4)); outdoors it must be weather-resistant (NEC 406.4(D)(6)). A box with no ground wire takes a non-grounding receptacle, a GFCI receptacle marked \"No Equipment Ground,\" or a three-prong receptacle fed through a GFCI and marked \"GFCI Protected\" and \"No Equipment Ground,\" never an unprotected three-prong (NEC 406.4(D)(2)). Steps: 1) turn off the breaker and verify dead with a tester; 2) note every wire and whether the brass tab between the screws is broken, which means a switched or split outlet, possibly on two breakers, so verify both halves dead, and break the tab on the new one; 3) strip in the stripper hole matching the gauge to avoid nicking copper; 4) hot to brass, neutral to silver, ground to green; loop clockwise under a screw with no insulation under the head, or insert straight into a clamp to the strip gauge; avoid push-in backstab holes; 5) tighten all screws, including unused ones; 6) fold wires in and mount (longer 6-32 screws for paneling); 7) restore power and check with a plug-in tester; press TEST and RESET on a GFCI.",
+  "word_count": 300
+ },
+ {
+  "key": "C15",
+  "verdict": "ok",
+  "issues": [
+   {
+    "claim": "Title: '(It's Not the Breaker)' versus item 2 'A GFCI, AFCI or dual-function breaker in the panel: a tripped handle often rests in the middle'",
+    "status": "SPEC",
+    "why": "Title backing: item 2 says the cause CAN be a breaker, one that looks on but has tripped. The facts are true and useful for safety, so they stay. But the title's 'not the breaker' is only true in the sense of 'not a breaker you can see tripped'. Operator call: keep item 2 and accept the tension, or retitle.",
+    "source": ""
+   },
+   {
+    "claim": "'Everyone makes' (title framing)",
+    "status": "SPEC",
+    "why": "No data ranks this mistake; it is framing only (the drafter flagged this). No change.",
+    "source": ""
+   },
+   {
+    "claim": "Verified OK: GFCI LOAD terminals protect downstream outlets; reset fails with no power, line/load reversed or end of life; 210.70(A)(1) exception for wall-switched receptacles outside kitchens and bathrooms; CPSC loose-connection quote; power-off and electrician lines",
+    "status": "OK",
+    "why": "Matches Leviton instructions, EC&M (210.70) and CPSC 513. The garage-GFCI-feeding-other-rooms point rests on HomeTips and forums, not code, but it is a well-known field layout. Fine as stated.",
+    "source": "https://www.cpsc.gov/s3fs-public/513.pdf"
+   }
+  ],
+  "corrected_brief": "The common mistake with a dead outlet is checking only the panel, seeing no tripped breaker, and deciding the outlet or wiring has failed. 1) A tripped GFCI receptacle in another spot: a GFCI wired through its LOAD terminals protects every ordinary receptacle downstream on the same circuit, and those downstream outlets have no buttons of their own. The GFCI can be in a different room: one bathroom's GFCI feeding another bathroom, or a garage, basement, kitchen or laundry GFCI feeding outdoor or other outlets. Downstream outlets may carry a \"GFCI Protected\" sticker. A GFCI will not reset if no power reaches it, if line and load wires are reversed, or if it has reached end of life. 2) A GFCI, AFCI or dual-function breaker in the panel: a tripped handle often rests in the middle, not fully off, and can look normal; reset by pushing it fully off, then on. 3) A switched receptacle: the NEC lets a wall switch control a receptacle, or half of one, in place of a switched ceiling light in rooms other than kitchens and bathrooms, so try every nearby switch. 4) A loose connection upstream: receptacles are usually chained, and a failed push-in (backstab) or loose screw at the last working outlet or the first dead one cuts power to everything beyond it; CPSC notes a loose connection heats up under load, so this is a fire risk, not just a nuisance. How to find it: map which outlets are dead, check each with a plug-in tester, reset every GFCI in bathrooms, kitchen, garage, outdoors, basement and laundry, check the panel for mid-position handles, and try switches. Opening boxes requires the breaker off and the box verified dead with a tester; scorched or melted parts call for a licensed electrician.",
+  "word_count": 297
+ }
+]
