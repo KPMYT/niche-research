@@ -39,15 +39,28 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 
 ## Electrical and fire prevention research chat
 
-- **Owns:** `studies/electrical/`. Last branch: `claude/zealous-ptolemy-lxtx6t` (merged into `main` 2026-10-26 at handover).
-- **Status (2026-10-26):** all six research rounds done and checked (checkers A-H; every fix in `studies/electrical/log.md`). **The operator has not read the findings yet** ("i have read none of this yet"). Everything they need is in **`studies/electrical/REPORT-2026-10-26.md`**: what was done, the findings in plain words with tables, and 4 questions.
+- **Owns:** `studies/electrical/`. Last branch: `claude/epic-maxwell-ty7jnr` (merged into `main` 2026-10-27 at handover).
+- **Status (2026-10-27):** research finished, conclusions written, first ideation done. **17 initial video ideas are confirmed** with titles, thumbnail words, reference videos and thumbnail advice: `studies/electrical/ideation/initial-ideas.csv` and the page https://claude.ai/artifact/QnG8dP83G7LZ84rpat3Qek (private). The channel is still pinned (see decisions).
+- **What this chat did (detail in `studies/electrical/log.md`, from "Walkthrough with the operator"):**
+  1. Walked the operator through `REPORT-2026-10-26.md`; recorded every answer. Corrected one report figure: inspection walkthroughs are 73 videos at typically 20K, not 39K.
+  2. Thumbnail text study of the 82 recent winners (`thumbnails/thumbnail-text.html`; page https://claude.ai/artifact/DU5qu4MruAiEVR5B2eY4Rg).
+  3. Wrote `CONCLUSIONS.md` (deliverable 9), channel-neutral.
+  4. Ideation in `studies/electrical/ideation/` (its `README.md` maps every file): round 1 (34 ideas), topic heat for 47 topics (`topic-heat.csv`, helper-checked), recent winning formats, the proof check under the operator's rule (`topic-proof.csv`, `proven-formats.csv`), Silver Cymbal's 1M+ electrical videos re-titled, 50 titles (v1 and v2), round 2, then the 17 initial ideas.
 - **Next chat, start here:**
-  1. Read `CLAUDE.md`, this section, then `studies/electrical/REPORT-2026-10-26.md` (and `log.md` for detail if needed).
-  2. Walk the operator through the report in short messages: the topics table, the title shapes, who presents, thumbnails (page: https://claude.ai/artifact/4ZPp2yNMNRvQccsNo3yyet, private), then the 4 questions (1 electrical-first with fire as payoff; 2 Frederick's background, suggested a retired electrical inspector; 3 the AI-persona risk; 4 long-form only). Answer their questions from the files; don't re-run research unless they ask.
-  3. Record their answers in `studies/electrical/log.md`, then write `studies/electrical/CONCLUSIONS.md` (deliverable 9: what to make, emotions and villains, titles and thumbnails, gaps, how to stand apart, what the scripting pack should take).
-- **Deliverables:** `channels.md`/`.csv`, `new-channels.md`, `subniches.md`, `emotions.md`, `thumbnails/thumbnail-styles.html`, `recent-winners.md`, `top-100.md`/`.csv`, `keyword-sweep.md`, `formats.md`; `studies/electrical/README.md` maps every file. They're built by scripts in `studies/electrical/data/tools/` (`build_docs.py`, `build_channels.py`, `build_thumb_page.py`); re-run them after any data fix.
-- **Operator decisions so far:** (2026-10-26) run rounds straight through with a check after each, stop only for real decisions. (2026-10-24) narrow scope: core electrical and fire prevention; not winter blackouts (maybe later, for the stopped generator channel Jack Redfield), not seniors' home safety; no money framing; Frederick's old channel isn't a guide ("full pivot"); the tiny fire inspector/marshal field "could mean we have a gap". (2026-10-23) 5-minute rule, under-5:00 hits in `short-reference.md`; Frederick's channel in the census as "ours"; find new channels.
-- **Method notes for anyone re-running:** YouTube search's "upload date" sort no longer sorts and there's no "oldest" search sort (date windows used; see `data/tools/yt.py`). NexLev's batch tool has no monthly views; 30-day views come from `get_daily_analytics`, impossible values blanked. Search-based multiples run high (compare topics, not absolutes). Only some emotion labels are robust (`labels.md`). Helpers can't write `.md` files; the main session saves their reports.
+  1. Read `CLAUDE.md`, this section, `studies/electrical/CONCLUSIONS.md`, `studies/electrical/ideation/README.md` and the end of `studies/electrical/log.md`.
+  2. Ask the operator which comes next: thumbnail prompts for the 17 (the `thumbnails` skill; each idea's look, words and advice are in `initial-ideas.csv`), the channel decision, or more ideas. Don't decide for them.
+  3. On the operator's yes: build the electrical ideation skill, base ideation plan and thumbnail plan here (`RESEARCH-BRIEF.md` step 4), modelled on `script-system/ideation/plumbing-ideation`; the scripting pack is a separate chat in `KPMYT/script-system` (`CONCLUSIONS.md` section 8 lists what it should take).
+- **Operator decisions (2026-10-26, quoted in `log.md`):**
+  - Lead with everyday electrical problems; fire is the stakes, never the topic ("we dont want any more fire type vids for now").
+  - Background mostly unspoken; a retired electrician when needed.
+  - Formats: how-to and "why does X keep doing Y" yes; take the test/demonstration topics but explain, never demonstrate; mistakes and "dangerous" work but are crowded; no real inspections or real stories; no "NEVER leave plugged in" lists for now; fire investigator not the lane. Also borrow viral formats from other personas; mainly "take and improve on the top vids in our chosen formats from our niche".
+  - Thumbnails: a character with a blue blueprint explainer board for education; otherwise a person reacting or pointing at the problem; may add the character to winning close-ups. Track thumbnail text on recent winners.
+  - Long-form only. No money framing (2026-10-24).
+  - **Proof rule:** a topic (and format) counts only with a video of 300K+ views on a faceless channel or 1M+ on a real one.
+  - Script-level emotion study (how scripts voice each emotion) deferred to the script SOP work.
+  - **Channel pinned:** Frederick Barnes or Jack Redfield (stopped generator channel, 4.2K subs), maybe both as two test lanes; "neither one has viewers". Generator ideas suit Jack.
+  - Picks: round 1 ideas 1, 2, 7, 12, 14, 29, 30, 31, 33; Silver Cymbal copies 3, 6, 7, 10, 11; 50-title v2 numbers 2, 12, 15. All 17 titles confirmed; five reworded by the operator.
+- **Method notes:** `data/tools/topic_heat.py` (search + channel pulls; some page loads fail under load, so run with few threads), `clean_heat.py`, `topic_proof.py` and the page builders (`build_ideas_page.py`, `build_titles_page.py`, `build_round2_page.py`, `build_initial_page.py`) rebuild everything from the CSVs. Keyword matching is noisy: helpers judged every matched title (about half were off topic). Search counts are a floor; 14 topics are marked "partial count" (the operator declined a re-run). Channel types outside the census come from NexLev `check_faceless_channel` (`ideation/channel-types.csv`).
 
 ---
 
