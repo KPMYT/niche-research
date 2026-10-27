@@ -7,7 +7,7 @@ This is the HVAC scripting chat: build Roger the HVAC Guy for the script writer.
 
 Read script-system's CLAUDE.md and SESSION-HANDOVER.md first, as usual.
 
-The research is done in KPMYT/niche-research, branch claude/loving-einstein-htwt5s (it will be merged into main at that chat's next handover; read it from the branch if main doesn't have it yet). Read, in this order:
+The research is done in KPMYT/niche-research (on main since the 2026-10-27 handover). Read, in this order:
 1. studies/hvac/CONCLUSIONS.md: what the channel makes, emotions and villains, and section 6, "What the scripting pack should take".
 2. studies/hvac/ray-dutton-sources.md: how the faceless leader builds his videos.
 3. studies/hvac/ideation/greenlit-log.md and batch1-briefs-2026-10-26.xlsx: the 16 titles and fact-checked briefs to script first, for November uploads.

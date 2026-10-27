@@ -2,7 +2,7 @@
 
 The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this file, then `RESEARCH-BRIEF.md` and `README.md`, and carries on from its section's "Next actions". Each chat rewrites only its own section.
 
-**Last updated:** 2026-10-27: HVAC section by the HVAC research chat (branch `claude/loving-einstein-htwt5s`) at its handover. 2026-10-26: HVAC section by the HVAC research chat (branch `claude/adoring-galileo-wqloxp`) at its handover; electrical section by the electrical research chat (branch `claude/zealous-ptolemy-lxtx6t`). Other sections as the setup chat left them on 2026-10-23.
+**Last updated:** 2026-10-27: HVAC section by the HVAC research chat (branch `claude/loving-einstein-htwt5s`) at its handover. Electrical section by the electrical research chat (branch `claude/zealous-ptolemy-lxtx6t`). Other sections as the setup chat left them on 2026-10-23.
 
 ---
 
