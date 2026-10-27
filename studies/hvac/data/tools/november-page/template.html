@@ -1,0 +1,118 @@
+<title>Roger HVAC November Titles</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* Layout: one reading column of title rows; each row carries its reference thumbnails; a sticky pick bar at the bottom. Workshop-tag feel: steel neutrals, one safety-orange accent. */
+:root{
+  --bg:#f4f5f6; --card:#ffffff; --fg:#1d2329; --muted:#5d6872; --line:#dde1e5;
+  --accent:#d9561a; --accent-soft:#fbe7dc; --ray:#2f5d8a; --ray-soft:#e2ecf6; --yours:#2e7d4f; --yours-soft:#e1f2e7; --comp:#7a5a12; --comp-soft:#f6edd6; --real:#5b4b8a; --real-soft:#ebe6f6;
+  --display:"Barlow Condensed","Arial Narrow",Arial,sans-serif; --body:"Source Sans 3","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#14181c; --card:#1c2227; --fg:#e8ecef; --muted:#9aa5ae; --line:#2c343b;
+  --accent:#f0773d; --accent-soft:#3a2418; --ray:#8db8e3; --ray-soft:#1d2c3b; --yours:#7fcf9d; --yours-soft:#18301f; --comp:#e0c27a; --comp-soft:#33291a; --real:#b9a8ee; --real-soft:#28233b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#14181c; --card:#1c2227; --fg:#e8ecef; --muted:#9aa5ae; --line:#2c343b;
+  --accent:#f0773d; --accent-soft:#3a2418; --ray:#8db8e3; --ray-soft:#1d2c3b; --yours:#7fcf9d; --yours-soft:#18301f; --comp:#e0c27a; --comp-soft:#33291a; --real:#b9a8ee; --real-soft:#28233b; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.4}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 120px}
+[hidden]{display:none!important}
+.eyebrow{font-family:var(--display);font-weight:600;font-size:16px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.top h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,6vw,44px);letter-spacing:.01em;margin:0;text-wrap:balance}
+.top p{color:var(--muted);margin:6px 0 0;max-width:65ch}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 6px}
+.filters button{font:600 14px var(--body);padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--fg);cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.filters button:focus-visible,.pick input:focus-visible,.bar button:focus-visible,.ref:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.gh{margin:30px 0 10px}
+.gh h2{font-family:var(--display);font-weight:700;font-size:26px;margin:0;text-transform:uppercase;letter-spacing:.03em}
+.gh p{margin:2px 0 0;color:var(--muted)}
+.cnt{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:600;margin-left:6px}
+.list{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.row{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;gap:10px}
+.row.on{border-color:var(--accent);box-shadow:inset 4px 0 0 var(--accent)}
+.pick{display:grid;grid-template-columns:22px 30px 1fr;gap:8px;align-items:start;cursor:pointer}
+.pick input{width:20px;height:20px;margin:2px 0 0;accent-color:var(--accent)}
+.no{font-family:var(--display);font-weight:600;font-size:18px;color:var(--muted);font-variant-numeric:tabular-nums;text-align:right}
+.title{font-weight:700;font-size:18px;line-height:1.3;min-width:0}
+.refs{display:flex;flex-wrap:wrap;gap:10px;padding-left:60px}
+.ref{display:flex;gap:10px;align-items:flex-start;text-decoration:none;color:inherit;flex:1 1 300px;min-width:0;max-width:440px;background:var(--bg);border-radius:6px;padding:6px}
+.ref img{width:160px;height:90px;object-fit:cover;border-radius:4px;flex:none}
+.rt{display:flex;flex-direction:column;gap:2px;min-width:0;font-size:13px}
+.views{font-family:var(--display);font-size:24px;line-height:1;font-variant-numeric:tabular-nums}
+.pill{align-self:flex-start;font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:999px}
+.k-Ray{color:var(--ray);background:var(--ray-soft)} .k-yours{color:var(--yours);background:var(--yours-soft)} .k-competitor{color:var(--comp);background:var(--comp-soft)} .k-realperson{color:var(--real);background:var(--real-soft)}
+.src{color:var(--fg);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ch{color:var(--muted)}
+.bar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);padding-block:12px calc(12px + env(safe-area-inset-bottom,0px));padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));z-index:5}
+.bar .in{max-width:980px;margin:0 auto;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.bar b{font-variant-numeric:tabular-nums}
+.bar .btns{display:flex;gap:8px;flex-wrap:wrap}
+.bar button{font:700 15px var(--body);padding:9px 14px;border-radius:6px;border:1px solid var(--accent);background:var(--accent);color:#fff;cursor:pointer}
+.bar button.ghost{background:transparent;color:var(--fg);border-color:var(--line)}
+#copyout{width:100%;max-width:980px;margin:8px auto 0;display:block;font:14px var(--body);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:8px}
+@media (max-width:560px){.refs{padding-left:0}.ref{flex-basis:100%}.ref img{width:128px;height:72px}.title{font-size:17px}}
+</style>
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Roger the HVAC Guy</div>
+    <h1>November titles</h1>
+    <p>%%TOTAL%% heating-season titles to pick from. Each one shows the video it was built from, with that video's views. Tick the ones you want, then copy them. Spring cooling titles are held back.</p>
+    <div class="legend"><span class="pill k-Ray">Ray Dutton</span><span class="pill k-yours">Your channel</span><span class="pill k-competitor">Competitor</span><span class="pill k-realperson">Real person</span></div>
+  </header>
+  <nav class="filters" aria-label="Show">
+    <button type="button" data-f="all" aria-pressed="true">All</button>
+    <button type="button" data-f="g0" aria-pressed="false">Ray remakes</button>
+    <button type="button" data-f="g1" aria-pressed="false">Your formats</button>
+    <button type="button" data-f="g2" aria-pressed="false">Brand lists and gaps</button>
+    <button type="button" data-f="g3" aria-pressed="false">Real-person hits</button>
+    <button type="button" data-f="picked" aria-pressed="false">Only my picks</button>
+  </nav>
+  %%BODY%%
+</div>
+<div class="bar"><div class="in"><span><b id="count">0</b> picked</span><span class="btns"><button type="button" class="ghost" id="clear">Clear</button><button type="button" id="copy">Copy picked titles</button></span></div><textarea id="copyout" rows="4" hidden readonly aria-label="Picked titles"></textarea></div>
+<script>
+(function(){
+  var KEY='roger-hvac-nov-picks';
+  var boxes=[].slice.call(document.querySelectorAll('.pick input'));
+  var saved=[];try{saved=JSON.parse(localStorage.getItem(KEY)||'[]')}catch(e){}
+  boxes.forEach(function(b){if(saved.indexOf(b.id)>-1)b.checked=true});
+  var filter='all';
+  function sync(){
+    var on=boxes.filter(function(b){return b.checked});
+    document.getElementById('count').textContent=on.length;
+    boxes.forEach(function(b){b.closest('.row').classList.toggle('on',b.checked)});
+    try{localStorage.setItem(KEY,JSON.stringify(on.map(function(b){return b.id})))}catch(e){}
+    apply();
+  }
+  function apply(){
+    document.querySelectorAll('.grp').forEach(function(g){
+      g.hidden = !(filter==='all'||filter==='picked'||filter===g.id);
+      var any=false;
+      g.querySelectorAll('.row').forEach(function(r){
+        var show = filter!=='picked' || r.querySelector('input').checked;
+        r.hidden=!show; if(show)any=true;
+      });
+      if(filter==='picked'&&!any)g.hidden=true;
+    });
+  }
+  boxes.forEach(function(b){b.addEventListener('change',sync)});
+  document.querySelectorAll('.filters button').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      filter=btn.dataset.f;
+      document.querySelectorAll('.filters button').forEach(function(x){x.setAttribute('aria-pressed',x===btn?'true':'false')});
+      apply();
+    });
+  });
+  document.getElementById('clear').addEventListener('click',function(){boxes.forEach(function(b){b.checked=false});sync()});
+  var btn=document.getElementById('copy'),out=document.getElementById('copyout');
+  btn.addEventListener('click',function(){
+    var text=boxes.filter(function(b){return b.checked}).map(function(b){return b.dataset.title}).join('\n');
+    if(!text){btn.textContent='Pick a title first';setTimeout(function(){btn.textContent='Copy picked titles'},1500);return}
+    function fallback(){out.hidden=false;out.value=text;out.focus();out.select();btn.textContent='Select and copy below'}
+    try{navigator.clipboard.writeText(text).then(function(){btn.textContent='Copied';setTimeout(function(){btn.textContent='Copy picked titles'},1500)},fallback)}catch(e){fallback()}
+  });
+  sync();
+})();
+</script>

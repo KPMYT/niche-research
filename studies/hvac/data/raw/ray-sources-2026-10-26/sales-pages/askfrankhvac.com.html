@@ -1,0 +1,662 @@
+<title>HVAC Exposed</title>
+<meta name="description" content="64 pages across three documents. Everything the industry banks on you not knowing, written down before you sign. $27, instant PDF, 7-day refund.">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/icon-32.png">
+<link rel="icon" type="image/png" sizes="512x512" href="/img/icon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/icon-180.png">
+<meta name="theme-color" content="#42171A">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="HVAC Exposed">
+<meta property="og:title" content="The HVAC Owner's Bible — HVAC Exposed">
+<meta property="og:description" content="They handed you a $15,000 quote and told you to sign tonight. Here is how to read that paper, line by line. 64 pages, three documents, $27.">
+<meta property="og:image" content="https://askfrankhvac.com/img/share.png">
+<meta property="og:image:width" content="1376">
+<meta property="og:image:height" content="768">
+<meta property="og:url" content="https://askfrankhvac.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The HVAC Owner's Bible — HVAC Exposed">
+<meta name="twitter:description" content="Everything the industry banks on you not knowing, written down before you sign. $27.">
+<meta name="twitter:image" content="https://askfrankhvac.com/img/share.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#F4F3F0;
+  --paper-2:#EAE8E3;
+  --ink:#15171A;
+  --ink-soft:#3A424A;
+  --steel:#55646E;
+  --rule:#CFCBC3;
+  --pen:#C0392B;
+  --pen-soft:#E8D5D2;
+  --label:#E3B23C;
+  --slab:#15171A;
+  --slab-text:#EDEBE6;
+  --slab-rule:#2E343A;
+
+  --display:"Archivo Black","Arial Black",system-ui,sans-serif;
+  --body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,monospace;
+
+  --wrap:1080px;
+  --prose:64ch;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#131517;
+    --paper-2:#1B1E21;
+    --ink:#ECEAE5;
+    --ink-soft:#B6BCC2;
+    --steel:#93A0A9;
+    --rule:#2F353A;
+    --pen:#E4645A;
+    --pen-soft:#3A2725;
+    --slab:#0C0E10;
+    --slab-text:#ECEAE5;
+    --slab-rule:#262B30;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#131517;
+  --paper-2:#1B1E21;
+  --ink:#ECEAE5;
+  --ink-soft:#B6BCC2;
+  --steel:#93A0A9;
+  --rule:#2F353A;
+  --pen:#E4645A;
+  --pen-soft:#3A2725;
+  --slab:#0C0E10;
+  --slab-text:#ECEAE5;
+  --slab-rule:#262B30;
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--body);
+  font-size:18px;
+  line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3{font-family:var(--display);font-weight:400;line-height:1.04;text-wrap:balance;margin:0;letter-spacing:-.01em}
+h1{font-size:clamp(2.3rem,6.2vw,4.1rem);text-transform:uppercase}
+h2{font-size:clamp(1.65rem,3.9vw,2.6rem);text-transform:uppercase}
+h3{font-size:1.12rem;text-transform:uppercase;letter-spacing:.02em}
+p{margin:0}
+a{color:inherit}
+img{display:block}
+
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 24px}
+.prose{max-width:var(--prose)}
+.stack{display:flex;flex-direction:column}
+.s8{gap:8px}.s12{gap:12px}.s16{gap:16px}.s24{gap:24px}.s32{gap:32px}.s40{gap:40px}
+
+section{padding:clamp(56px,8vw,104px) 0;border-top:1px solid var(--rule)}
+.slab{background:var(--slab);color:var(--slab-text);border-top:none}
+.slab .eyebrow{color:var(--label)}
+.slab .muted{color:#9AA6AE}
+
+.eyebrow{
+  font-family:var(--mono);font-size:.72rem;font-weight:600;
+  text-transform:uppercase;letter-spacing:.16em;color:var(--pen);
+}
+.muted{color:var(--steel);font-size:.95rem}
+.lead{font-size:clamp(1.05rem,2vw,1.22rem);color:var(--ink-soft)}
+
+/* ---- top bar ---- */
+.bar{background:var(--pen);color:#fff;font-family:var(--mono);font-size:.78rem;
+  letter-spacing:.08em;text-transform:uppercase;text-align:center;padding:9px 16px}
+.bar b{font-weight:600}
+header{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--rule)}
+.navrow{display:flex;align-items:center;justify-content:space-between;gap:16px;
+  max-width:var(--wrap);margin:0 auto;padding:13px 24px}
+.mark{font-family:var(--display);font-size:1.02rem;text-transform:uppercase;letter-spacing:.01em}
+.mark span{color:var(--pen)}
+.navlinks{display:none;gap:26px;font-size:.88rem;color:var(--steel);text-decoration:none}
+.navlinks a{text-decoration:none}
+.navlinks a:hover{color:var(--pen)}
+@media(min-width:880px){.navlinks{display:flex}}
+
+/* ---- buttons ---- */
+.btn{
+  display:inline-block;background:var(--pen);color:#fff;text-decoration:none;
+  font-family:var(--display);text-transform:uppercase;font-size:1rem;letter-spacing:.01em;
+  padding:17px 30px;border:2px solid var(--pen);text-align:center;
+}
+.btn:hover{background:transparent;color:var(--pen)}
+.btn.sm{padding:10px 18px;font-size:.82rem}
+.btn.big{font-size:clamp(1rem,2.4vw,1.3rem);padding:21px 38px}
+.btn:focus-visible,a:focus-visible{outline:3px solid var(--label);outline-offset:3px}
+
+/* ---- hero ---- */
+.hero{display:grid;gap:44px;align-items:start}
+@media(min-width:920px){.hero{grid-template-columns:1.12fr .88fr;gap:54px}}
+.hero h1 em{font-style:normal;color:var(--pen)}
+.trustline{font-family:var(--mono);font-size:.78rem;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--steel)}
+.coverbox{border:none;background:none;padding:0;display:flex;flex-direction:column;
+  gap:16px;align-items:center}
+.coverbox img{width:100%;height:auto;border:1px solid rgba(0,0,0,.10);
+  box-shadow:0 1px 2px rgba(0,0,0,.10), 0 10px 22px rgba(0,0,0,.13), 0 30px 60px rgba(0,0,0,.20)}
+.covercap{font-family:var(--mono);font-size:.68rem;font-weight:600;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--steel);text-align:center;line-height:1.7}
+.offergrid{display:grid;gap:44px;align-items:center}
+@media(min-width:900px){.offergrid{grid-template-columns:.82fr 1.18fr;gap:54px}}
+
+/* ---- problem list ---- */
+.symptoms{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+@media(min-width:760px){.symptoms{grid-template-columns:1fr 1fr}}
+.sym{background:var(--paper);padding:22px 24px}
+.sym b{display:block;font-weight:600;margin-bottom:5px}
+.sym p{color:var(--steel);font-size:.95rem;line-height:1.5}
+
+/* ---- THE QUOTE (centerpiece) ---- */
+.quote-doc{border:1px solid var(--rule);background:var(--paper);overflow-x:auto}
+.quote-head{background:var(--paper-2);border-bottom:1px solid var(--rule);
+  padding:16px 22px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  font-family:var(--mono);font-size:.76rem;text-transform:uppercase;letter-spacing:.08em;color:var(--steel)}
+table.q{width:100%;border-collapse:collapse;min-width:560px}
+table.q td{padding:13px 22px;border-bottom:1px solid var(--rule);vertical-align:top}
+table.q td.amt{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;
+  white-space:nowrap;font-weight:600}
+.item b{font-weight:500}
+.flag .item b{text-decoration:line-through;text-decoration-color:var(--pen);
+  text-decoration-thickness:2px;color:var(--steel)}
+.flag td.amt{color:var(--pen);text-decoration:line-through;
+  text-decoration-color:var(--pen);text-decoration-thickness:2px}
+.note{display:block;margin-top:5px;color:var(--pen);font-size:.86rem;line-height:1.45}
+.note::before{content:"↳ ";opacity:.7}
+tr.sum td{border-bottom:none;border-top:2px solid var(--ink);padding-top:16px;
+  font-family:var(--display);text-transform:uppercase;font-size:1rem}
+tr.sum td.amt{font-family:var(--mono);font-size:1.15rem}
+tr.pad td{background:var(--pen-soft);border-bottom:none}
+tr.pad td b{font-weight:600}
+tr.pad td.amt{color:var(--pen);font-size:1.15rem}
+
+/* ---- stack / price ---- */
+.stackbox{border:2px solid var(--ink);background:var(--paper)}
+.srow{display:flex;justify-content:space-between;gap:20px;padding:15px 24px;
+  border-bottom:1px solid var(--rule);align-items:baseline}
+.srow .n{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--steel)}
+.srow .t b{font-weight:600}
+.srow .t small{display:block;color:var(--steel);font-size:.87rem;line-height:1.45;margin-top:3px}
+.srow.tot{background:var(--paper-2);border-bottom:1px solid var(--rule)}
+.srow.tot .t,.srow.tot .n{font-family:var(--display);text-transform:uppercase;font-size:1rem}
+.srow.tot .n{text-decoration:line-through;text-decoration-color:var(--pen);text-decoration-thickness:2px}
+.pricebox{padding:30px 24px;text-align:center;display:flex;flex-direction:column;gap:15px;align-items:center}
+.bignum{font-family:var(--display);font-size:clamp(3.2rem,10vw,5rem);line-height:.9;color:var(--pen)}
+.bignum sup{font-size:.34em;vertical-align:super;margin-right:2px}
+
+/* ---- inside ---- */
+.chapters{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+@media(min-width:760px){.chapters{grid-template-columns:1fr 1fr}}
+.ch{background:var(--paper);padding:20px 22px}
+.ch b{display:block;font-weight:600;margin-bottom:4px}
+.ch p{color:var(--steel);font-size:.93rem;line-height:1.5}
+.ch.new{background:var(--paper-2)}
+.tagnew{font-family:var(--mono);font-size:.63rem;font-weight:600;letter-spacing:.12em;
+  text-transform:uppercase;color:#fff;background:var(--pen);padding:2px 7px;
+  margin-left:8px;vertical-align:2px}
+
+/* ---- voices ---- */
+.voices{display:grid;gap:22px}
+@media(min-width:820px){.voices{grid-template-columns:repeat(3,1fr)}}
+.voice{border-left:3px solid var(--pen);padding:4px 0 4px 20px}
+.voice p{font-size:1.02rem;line-height:1.5}
+.voice cite{display:block;margin-top:9px;font-style:normal;font-family:var(--mono);
+  font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:var(--steel)}
+
+.stats{display:flex;flex-wrap:wrap;gap:0;border:1px solid var(--slab-rule);margin-top:8px}
+.stat{flex:1 1 160px;padding:20px 22px;border-right:1px solid var(--slab-rule)}
+.stat:last-child{border-right:none}
+.stat b{display:block;font-family:var(--display);font-size:1.7rem;line-height:1}
+.stat span{font-family:var(--mono);font-size:.7rem;text-transform:uppercase;
+  letter-spacing:.1em;color:#9AA6AE;display:block;margin-top:7px}
+
+/* ---- about ---- */
+.about{display:grid;gap:32px}
+@media(min-width:860px){.about{grid-template-columns:.85fr 1.15fr;gap:44px;align-items:start}}
+.portrait{border:1px solid var(--rule);background:var(--paper-2);padding:12px}
+.portrait img{width:100%;height:340px;object-fit:cover;object-position:68% 28%}
+
+/* ---- guarantee ---- */
+.warranty{border:1px solid var(--rule);border-top:4px solid var(--label);
+  background:var(--paper-2);padding:clamp(26px,5vw,40px);
+  max-width:760px;margin:0 auto;text-align:center;display:flex;flex-direction:column;gap:14px}
+
+footer{border-top:1px solid var(--rule);padding:40px 0 56px;color:var(--steel);font-size:.86rem}
+footer .fine{max-width:74ch;line-height:1.6}
+
+/* ---- motion: enhancement only, every resting state is already correct ---- */
+header{transition:box-shadow .25s ease,padding .25s ease}
+header.scrolled{box-shadow:0 1px 0 var(--rule),0 8px 24px rgba(0,0,0,.07)}
+:root[data-theme="dark"] header.scrolled,
+html.dark header.scrolled{box-shadow:0 1px 0 var(--rule),0 8px 24px rgba(0,0,0,.4)}
+
+.btn{transition:background .18s ease,color .18s ease,transform .12s ease}
+.btn:active{transform:translateY(1px)}
+.sym,.ch{transition:background .2s ease}
+.sym:hover,.ch:hover{background:var(--paper-2)}
+
+/* red pen stroke over the padded lines */
+.flag .item b,.flag td.amt{position:relative;text-decoration:none;color:var(--steel)}
+.flag td.amt{color:var(--pen)}
+.flag .item b::after,.flag td.amt::after{
+  content:"";position:absolute;left:-2px;right:-2px;top:52%;height:2px;
+  background:var(--pen);transform-origin:left center;
+}
+.js .flag .item b::after,.js .flag td.amt::after{transform:scaleX(0)}
+.js .drawn .item b::after,.js .drawn td.amt::after{
+  transform:scaleX(1);transition:transform .42s cubic-bezier(.6,.02,.3,1);
+}
+.js .drawn .item b::after{transition-delay:.05s}
+.js .drawn td.amt::after{transition-delay:.16s}
+.js .flag .note{opacity:1;transform:none}
+.js .flag:not(.drawn) .note{opacity:0;transform:translateY(-3px)}
+.js .drawn .note{opacity:1;transform:none;transition:opacity .3s ease .3s,transform .3s ease .3s}
+
+/* hand-drawn circle around the price */
+.pricewrap{position:relative;display:inline-block;padding:14px 30px}
+.pencircle{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}
+.pencircle ellipse{
+  fill:none;stroke:var(--pen);stroke-width:3.2;stroke-linecap:round;
+  stroke-dasharray:520;stroke-dashoffset:0;
+}
+.js .pencircle ellipse{stroke-dashoffset:520}
+.js .drawn .pencircle ellipse{stroke-dashoffset:0;transition:stroke-dashoffset 1s cubic-bezier(.5,.05,.2,1) .15s}
+
+.stat b{font-variant-numeric:tabular-nums}
+
+/* Gumroad overlay button must not repaint our buttons */
+a.gumroad-button{background:var(--pen)!important;color:#fff!important;
+  border:2px solid var(--pen)!important;border-radius:0!important;
+  font-family:var(--display)!important;text-transform:uppercase!important;
+  box-shadow:none!important;height:auto!important;line-height:1.2!important;
+  background-image:none!important;text-decoration:none!important}
+a.gumroad-button:hover{background:transparent!important;color:var(--pen)!important}
+a.gumroad-button::after{display:none!important}
+a.gumroad-button .logo-full,
+a.gumroad-button .logo,
+a.gumroad-button svg{display:none!important}
+
+/* hero trust tiles */
+.tiles{display:flex;flex-wrap:wrap;border:1px solid var(--rule);margin-top:6px}
+.tile{flex:1 1 150px;padding:16px 20px;border-right:1px solid var(--rule)}
+.tile:last-child{border-right:none}
+.tile b{display:block;font-family:var(--display);font-size:1.45rem;line-height:1;
+  font-variant-numeric:tabular-nums}
+.tile span{display:block;margin-top:6px;font-family:var(--mono);font-size:.66rem;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--steel)}
+
+/* FAQ */
+.faq{display:grid;gap:0;border-top:1px solid var(--rule)}
+@media(min-width:820px){.faq{grid-template-columns:1fr 1fr;column-gap:48px}}
+.qa{border-bottom:1px solid var(--rule)}
+.qa summary{list-style:none;cursor:pointer;padding:20px 34px 20px 0;position:relative;
+  font-weight:600;font-size:1.02rem;line-height:1.4}
+.qa summary::-webkit-details-marker{display:none}
+.qa summary::after{content:"+";position:absolute;right:4px;top:18px;color:var(--pen);
+  font-family:var(--mono);font-size:1.35rem;line-height:1;transition:transform .2s ease}
+.qa[open] summary::after{transform:rotate(45deg)}
+.qa .ans{padding:0 34px 22px 0;color:var(--steel);font-size:.97rem;line-height:1.6}
+
+/* closing band */
+.closer{text-align:center;display:flex;flex-direction:column;align-items:center;gap:20px}
+.closer h2{max-width:18ch}
+
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important;animation:none!important}
+  .js .flag .item b::after,.js .flag td.amt::after{transform:scaleX(1)}
+  .js .flag:not(.drawn) .note{opacity:1;transform:none}
+  .js .pencircle ellipse{stroke-dashoffset:0}
+}
+</style>
+
+<div class="bar">Launch price · <b>$27</b> instead of $60 · instant PDF</div>
+
+<header>
+  <div class="navrow">
+    <div class="mark">HVAC&nbsp;<span>EXPOSED</span></div>
+    <nav class="navlinks">
+      <a href="#quote">The Quote</a>
+      <a href="#inside">What's Inside</a>
+      <a href="#price">The Price</a>
+    </nav>
+    <a class="btn sm gumroad-button" href="https://clearfieldpress.gumroad.com/l/bible?wanted=true">Get it · $27</a>
+  </div>
+</header>
+
+<section style="border-top:none">
+  <div class="wrap hero">
+    <div class="stack s24">
+      <p class="eyebrow">From the HVAC Exposed channel</p>
+      <h1>They handed you a <em>$15,000</em> quote and told you to sign tonight.</h1>
+      <p class="lead prose">You cannot argue with a number you cannot see inside. So they keep the number big and the paper thin. This is the book that cuts the paper open: who really built your system, what every line on that quote means, and which ones are padding.</p>
+      <div class="stack s16" style="align-items:flex-start">
+        <a class="btn big gumroad-button" href="https://clearfieldpress.gumroad.com/l/bible?wanted=true">Get the book · $27</a>
+        <p class="trustline">Instant PDF · Pay once, yours forever · 7-day refund</p>
+      </div>
+      <div class="tiles">
+        <div class="tile"><b>9,500+</b><span>Subscribers on the channel</span></div>
+        <div class="tile"><b>1.9M</b><span>Views and counting</span></div>
+        <div class="tile"><b>7 days</b><span>To get your money back</span></div>
+      </div>
+    </div>
+    <div class="coverbox">
+      <img src="img/cover.png" alt="The HVAC Owner's Bible, cover" width="1000" height="1400">
+      <p class="covercap">Field edition 2026<br>64 pages · 3 documents</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap stack s40">
+    <div class="stack s16 prose">
+      <p class="eyebrow">The problem</p>
+      <h2>The system breaks. Then the real work starts, and it is not on your equipment.</h2>
+      <p class="lead">If you own a house, you already know three of these by heart.</p>
+    </div>
+    <div class="symptoms">
+      <div class="sym"><b>It is 95 degrees and the AC just quit.</b><p>The first company to answer the phone knows you will pay anything to make it stop.</p></div>
+      <div class="sym"><b>"Your heat exchanger is cracked."</b><p>They red-tag the furnace in January and hand you a five-figure quote before you have finished your coffee.</p></div>
+      <div class="sym"><b>The $99 tune-up.</b><p>Somehow it becomes a bill for thousands and a system that "will not last the summer."</p></div>
+      <div class="sym"><b>"You are low on refrigerant again."</b><p>The same refill every single year, on a sealed system that should never lose any.</p></div>
+      <div class="sym"><b>"It is too old, you need the whole thing replaced."</b><p>A full replacement pitch for a part that costs less than $20.</p></div>
+      <div class="sym"><b>The financing tablet comes out.</b><p>Zero percent that quietly turns one number into a much larger one over 60 months.</p></div>
+      <div class="sym"><b>Your honest guy retired.</b><p>The one man you trusted is gone, and every name in the search results looks the same.</p></div>
+      <div class="sym"><b>Nobody will explain the paper.</b><p>You ask what a line means and you get a shrug, a deadline, and a pen.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="quote" class="slab">
+  <div class="wrap stack s40">
+    <div class="stack s16 prose">
+      <p class="eyebrow">Chapter five · the quote autopsy</p>
+      <h2>One real quote. Cut open line by line.</h2>
+      <p class="lead" style="color:#C3CBD1">This is the centerpiece of the book, and it is the reason people buy it. A quote is not a price. It is a sales document, built to be read fast and signed faster, with one big number at the bottom you cannot argue with because you cannot see inside it. Here is what is actually sitting inside one.</p>
+    </div>
+
+    <div class="quote-doc" style="background:#F4F3F0;color:#15171A;border-color:#CFCBC3">
+      <div class="quote-head" style="background:#EAE8E3;border-color:#CFCBC3">
+        <span>Residential system replacement · 3 ton</span>
+        <span>Signature requested same day</span>
+      </div>
+      <table class="q">
+        <tr>
+          <td class="item"><b>Condenser, coil and furnace, 3 ton system</b></td>
+          <td class="amt">$8,400</td>
+        </tr>
+        <tr class="flag">
+          <td class="item"><b>Required second evaporator coil</b>
+            <span class="note">A coil is already inside the line above. This bills you for the same part twice.</span></td>
+          <td class="amt">$1,150</td>
+        </tr>
+        <tr class="flag">
+          <td class="item"><b>New refrigerant line set</b>
+            <span class="note">The existing set was sound. The book shows you the two checks that prove it.</span></td>
+          <td class="amt">$900</td>
+        </tr>
+        <tr class="flag">
+          <td class="item"><b>Permit fee</b>
+            <span class="note">Your county publishes what it actually charges. Look it up before you sign.</span></td>
+          <td class="amt">$600</td>
+        </tr>
+        <tr class="flag">
+          <td class="item"><b>Shop fee and miscellaneous</b>
+            <span class="note">Never itemized, never explained, and it comes off the quote when you ask.</span></td>
+          <td class="amt">$450</td>
+        </tr>
+        <tr>
+          <td class="item"><b>Labor, 2 days, 2 men</b></td>
+          <td class="amt">$2,200</td>
+        </tr>
+        <tr>
+          <td class="item"><b>Thermostat</b></td>
+          <td class="amt">$900</td>
+        </tr>
+        <tr>
+          <td class="item"><b>Haul away and disposal</b></td>
+          <td class="amt">$300</td>
+        </tr>
+        <tr class="sum">
+          <td>Quoted total</td>
+          <td class="amt">$14,900</td>
+        </tr>
+        <tr class="pad">
+          <td><b>Padding found on four lines</b></td>
+          <td class="amt">$3,100</td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="stack s16 prose">
+      <p style="color:#C3CBD1">$3,100, sitting inside a number that looked solid. Not because anybody broke the law. Because the paper was built to be read fast, and nobody expected you to read it slow.</p>
+      <p style="font-family:var(--display);text-transform:uppercase;font-size:1.15rem;line-height:1.25">The book costs less than the smallest line on that quote.</p>
+      <p class="muted" style="color:#8C979E;font-size:.85rem">One example quote, reproduced from the book for illustration. Prices vary by region, equipment and installer. The book teaches you to read your own quote. It never tells you what a job "should" cost, because anyone who gives you a national number is guessing.</p>
+    </div>
+  </div>
+</section>
+
+<section id="price">
+  <div class="wrap stack s40">
+    <div class="stack s16 prose">
+      <p class="eyebrow">The offer</p>
+      <h2>3 documents. 1 price.</h2>
+      <p class="lead">Sold separately until now. From here they come as one download, because you need all three on the same night: the one that finds an honest crew, the one that reads the paper, and the one you hold in your hand at the kitchen table.</p>
+    </div>
+
+    <div class="offergrid">
+    <div class="coverbox">
+      <img src="img/cover.png" alt="The HVAC Owner's Bible" width="1000" height="1400">
+      <p class="covercap">Instant PDF · Any phone or computer</p>
+    </div>
+    <div class="stackbox">
+      <div class="srow"><div class="t"><b>The HVAC Owner's Bible</b><small>42 pages. 11 chapters and a plain-English glossary. The whole library.</small></div><div class="n">$34</div></div>
+      <div class="srow"><div class="t"><b>The Quote Defense Kit</b><small>21 pages. The quote autopsy in full, the 3 questions, the scam phrasebook. Built in.</small></div><div class="n">$17</div></div>
+      <div class="srow"><div class="t"><b>The Contractor Interrogation Card</b><small>1 page. Print it, hold it, ask it. What to say while he is still sitting at your table.</small></div><div class="n">$9</div></div>
+      <div class="srow tot"><div class="t">Bought separately</div><div class="n">$60</div></div>
+      <div class="pricebox">
+        <p class="eyebrow">Everything, today</p>
+        <div class="pricewrap">
+          <svg class="pencircle" viewBox="0 0 200 120" preserveAspectRatio="none" aria-hidden="true">
+            <ellipse cx="100" cy="60" rx="92" ry="52" transform="rotate(-2 100 60)"></ellipse>
+          </svg>
+          <div class="bignum"><sup>$</sup>27</div>
+        </div>
+        <a class="btn big gumroad-button" href="https://clearfieldpress.gumroad.com/l/bible?wanted=true">Get all three · $27</a>
+        <p class="trustline">Instant PDF · Works on any phone · 7-day refund</p>
+      </div>
+    </div>
+    </div>
+  </div>
+</section>
+
+<section id="inside">
+  <div class="wrap stack s40">
+    <div class="stack s16 prose">
+      <p class="eyebrow">What is inside</p>
+      <h2>11 chapters. 6 of them never ran on the channel.</h2>
+      <p class="lead">The videos tell you why the industry works the way it does. This tells you what to do about it while the paper is still on your table. The 6 marked below were written for the book and exist nowhere else.</p>
+    </div>
+    <div class="chapters">
+      <div class="ch new"><b>The Nameplate Decoder <span class="tagnew">new</span></b><p>Read the sticker on your own unit. Tonnage, age, builder grade versus the real thing, so nobody can tell you your three ton is a five ton.</p></div>
+      <div class="ch new"><b>The Quote Autopsy <span class="tagnew">new</span></b><p>A real quote cut open line by line, every dollar of padding flagged and explained. The full Quote Defense Kit, built in.</p></div>
+      <div class="ch new"><b>Find The Good Guys <span class="tagnew">new</span></b><p>The supply-house trick and the 3 questions that sort the honest contractor from the closer.</p></div>
+      <div class="ch new"><b>The Warranty Decoder <span class="tagnew">new</span></b><p>What the fine print actually says, what quietly voids it, and how to file a claim that gets paid.</p></div>
+      <div class="ch new"><b>The Money Map <span class="tagnew">new</span></b><p>Where rebate money actually lives now that the federal credit is gone, and how to find what applies to your address.</p></div>
+      <div class="ch new"><b>The Plain-English Glossary <span class="tagnew">new</span></b><p>Every piece of jargon they use to make you feel like the dumbest person in your own kitchen, translated.</p></div>
+      <div class="ch"><b>The Brand Decoder</b><p>Who actually owns your AC, and which "different" brands are the same box wearing a different price tag.</p></div>
+      <div class="ch"><b>The Lifetime List</b><p>The equipment worth buying, the lines to walk away from, and why the install beats the badge every time.</p></div>
+      <div class="ch"><b>Which System Is Right</b><p>Central, mini-split or heat pump, and the ductless option that gets quietly skipped because it cuts their ticket.</p></div>
+      <div class="ch"><b>The Thermostat Trap</b><p>The hidden setting aging your compressor, and the utility program that shuts your AC off on the hottest day on purpose.</p></div>
+      <div class="ch"><b>The Refrigerant Reality</b><p>The truth behind "your refrigerant is banned," so that line never works on you again.</p></div>
+      <div class="ch"><b>The 20-Year System</b><p>The handful of cheap, boring moves that make a system outlive the people who sold it to you.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="slab">
+  <div class="wrap stack s40">
+    <div class="stack s16 prose">
+      <p class="eyebrow">Who this was written for</p>
+      <h2>These are not reviews. They are the comments that made me write it.</h2>
+      <p class="lead" style="color:#C3CBD1">Thousands of comments came in under the videos, and the same two sentences kept coming back. If either one is yours, the book was written for you.</p>
+    </div>
+    <div class="voices">
+      <div class="voice"><p>"I've been quoted $15,000 for a new 2.5 ton."</p><cite>Comment · HVAC Exposed</cite></div>
+      <div class="voice"><p>"Got an $18,000 quote. The American Standard was $20,000."</p><cite>Comment · HVAC Exposed</cite></div>
+      <div class="voice"><p>"My honest guy retired. Haven't found another one I trust."</p><cite>Comment · HVAC Exposed</cite></div>
+    </div>
+    <div class="stats">
+      <div class="stat"><b data-to="9500" data-suffix="+">9,500+</b><span>Subscribers</span></div>
+      <div class="stat"><b data-to="1.9" data-dec="1" data-suffix="M">1.9M</b><span>Views on the channel</span></div>
+      <div class="stat"><b data-to="64">64</b><span>Pages across 3 documents</span></div>
+      <div class="stat"><b data-to="7" data-suffix=" days">7 days</b><span>To ask for your money back</span></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap about">
+    <div class="portrait">
+      <img src="img/frank.jpg" alt="Frank, HVAC Exposed" width="2752" height="1536">
+    </div>
+    <div class="stack s16">
+      <p class="eyebrow">Who is Frank</p>
+      <h2>I worked for the companies this book is about.</h2>
+      <p>I started out turning wrenches and finished managing mechanical jobs big enough to have their own paperwork. I sat in the Monday morning meetings where they taught us how to build a bill: what to condemn, what to bundle, how to make a $15 part sound like a dying system.</p>
+      <p>I left because I got tired of watching decent people overpay for poor work and thank us on the way out.</p>
+      <p>The channel exposes how the game is played. This book hands you the playbook, in order, so you have it on the night it matters instead of somewhere in a playlist.</p>
+      <p class="muted">No manufacturer, contractor or supply house pays this channel. Nothing here is sponsored.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="warranty">
+      <p class="eyebrow">The guarantee</p>
+      <h2>7 days to change your mind.</h2>
+      <p class="lead">Buy it, read it, take it to your next quote. If you want your money back inside 7 days, email me and you get it. No form to fill out, no reason to give, and you keep the files.</p>
+      <a class="btn big gumroad-button" href="https://clearfieldpress.gumroad.com/l/bible?wanted=true">Get all three · $27</a>
+      <p class="trustline">Instant PDF · Pay once, yours forever</p>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap stack s32">
+    <div class="stack s16 prose">
+      <p class="eyebrow">Before you buy</p>
+      <h2>Questions homeowners ask me.</h2>
+    </div>
+    <div class="faq">
+      <details class="qa"><summary>I am not handy at all. Is this over my head?</summary>
+        <div class="ans">No. Most of the book is about reading paper, not turning wrenches: what the sticker on your unit means, what a line on a quote means, which questions drop the price. The hands-on parts are filter, drain and thermostat level. If a job needs a licensed pro, the book says so and tells you what a fair scope looks like.</div></details>
+      <details class="qa"><summary>Does it cover furnaces too, or only air conditioning?</summary>
+        <div class="ans">Both, plus heat pumps and water heaters. The brand, quote, warranty and contractor chapters apply to whatever is in your basement. The seasonal chapters cover heating and cooling separately.</div></details>
+      <details class="qa"><summary>Will it tell me to do my own gas or electrical work?</summary>
+        <div class="ans">Never. Gas, combustion, refrigerant and high-voltage wiring are licensed work and the book is explicit about it. What it does is stop you paying $2,000 for the licensed work plus $3,000 of things nobody needed to touch.</div></details>
+      <details class="qa"><summary>How is this different from the free videos?</summary>
+        <div class="ans">The videos explain why the industry works the way it does. The book is the reference you open on the night a quote is on your table, organized so you can find the answer in a minute. Six of the 11 chapters were written for the book and never ran on the channel.</div></details>
+      <details class="qa"><summary>Does it tell me what a job should cost in my area?</summary>
+        <div class="ans">No, and be careful with anyone who claims to. Prices swing by region, equipment and installer, so a national number is a guess dressed up as a fact. What the book teaches is how to read your own quote, line by line, and see which lines do not belong.</div></details>
+      <details class="qa"><summary>How do I get it, and what if it is not for me?</summary>
+        <div class="ans">Checkout takes a minute and the files download immediately, on any phone or computer. If you want your money back inside 7 days, email me and you get it. No form, no reason needed, and you keep the files.</div></details>
+    </div>
+  </div>
+</section>
+
+<section class="slab">
+  <div class="wrap closer">
+    <p class="eyebrow">The whole thing</p>
+    <h2>Stop signing paper you cannot read.</h2>
+    <p class="lead" style="color:#C3CBD1;max-width:52ch">$27 once. Three documents, instant download, yours forever. 7 days to change your mind.</p>
+    <a class="btn big gumroad-button" href="https://clearfieldpress.gumroad.com/l/bible?wanted=true">Get all three · $27</a>
+    <p class="trustline" style="color:#8C979E">Instant PDF · Pay once · 7-day refund</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap stack s16">
+    <div class="mark">HVAC&nbsp;<span style="color:var(--pen)">EXPOSED</span></div>
+    <p class="fine" style="font-family:var(--mono);letter-spacing:.06em;text-transform:uppercase;font-size:.74rem">askfrankhvac.com &nbsp;·&nbsp; <a href="/cdn-cgi/l/email-protection#b3d5c1d2ddd8f3d2c0d8d5c1d2ddd8dbc5d2d09dd0dcde" style="color:var(--pen);text-decoration:none"><span class="__cf_email__" data-cfemail="a7c1d5c6c9cce7c6d4ccc1d5c6c9cccfd1c6c489c4c8ca">[email&#160;protected]</span></a></p>
+    <p class="fine">Homeowner education, not licensed contracting, legal or tax advice. Anything involving gas, combustion, refrigerant or high-voltage wiring is licensed work: hire it out. Field opinion, not factory talking points. No sponsor, no brand affiliation, no manufacturer training class behind it. Example figures are illustrative and vary by region, equipment and installer. Verify with a licensed professional for your own system before any repair or replacement decision.</p>
+    <p class="fine">© 2026 HVAC Exposed. Payments and delivery handled by Gumroad.</p>
+  </div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://gumroad.com/js/gumroad.js"></script>
+<script>
+(function(){
+  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  document.documentElement.classList.add('js');
+
+  // sticky header shadow
+  var hdr = document.querySelector('header');
+  var onScroll = function(){ hdr.classList.toggle('scrolled', window.scrollY > 8); };
+  onScroll(); addEventListener('scroll', onScroll, {passive:true});
+
+  // smooth anchors
+  document.querySelectorAll('a[href^="#"]').forEach(function(a){
+    a.addEventListener('click', function(e){
+      var t = document.querySelector(a.getAttribute('href'));
+      if(!t) return;
+      e.preventDefault();
+      t.scrollIntoView({behavior: reduce ? 'auto' : 'smooth', block:'start'});
+    });
+  });
+
+  if(!('IntersectionObserver' in window) || reduce){
+    document.querySelectorAll('.flag, .pricewrap').forEach(function(el){ el.classList.add('drawn'); });
+    return;
+  }
+
+  // red pen marks up the padded lines, one after another
+  var rows = [].slice.call(document.querySelectorAll('tr.flag'));
+  var rowObs = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){
+      if(!en.isIntersecting) return;
+      var i = rows.indexOf(en.target);
+      setTimeout(function(){ en.target.classList.add('drawn'); }, Math.max(0,i) * 170);
+      rowObs.unobserve(en.target);
+    });
+  }, {threshold:.55});
+  rows.forEach(function(r){ rowObs.observe(r); });
+
+  // circle around the price
+  var pw = document.querySelector('.pricewrap');
+  if(pw){
+    var pObs = new IntersectionObserver(function(e){
+      if(e[0].isIntersecting){ pw.classList.add('drawn'); pObs.disconnect(); }
+    }, {threshold:.6});
+    pObs.observe(pw);
+  }
+
+  // stat counters
+  var stats = document.querySelectorAll('.stat b[data-to]');
+  var sObs = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){
+      if(!en.isIntersecting) return;
+      var el = en.target, to = parseFloat(el.dataset.to),
+          dec = parseInt(el.dataset.dec || '0', 10),
+          suf = el.dataset.suffix || '', t0 = null, dur = 900;
+      var step = function(ts){
+        if(!t0) t0 = ts;
+        var p = Math.min((ts - t0) / dur, 1);
+        var e = 1 - Math.pow(1 - p, 3);
+        var v = to * e;
+        el.textContent = (dec ? v.toFixed(dec) : Math.round(v).toLocaleString('en-US')) + suf;
+        if(p < 1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+      sObs.unobserve(el);
+    });
+  }, {threshold:.8});
+  stats.forEach(function(s){ sObs.observe(s); });
+})();
+</script>

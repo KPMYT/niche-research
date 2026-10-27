@@ -1,0 +1,36 @@
+<title>Roger HVAC Thumbnail Brief</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* Layout: a single column of job cards for a thumbnail artist; each card = title, reference thumbnails, four labelled instructions. */
+:root{--bg:#f4f5f6;--card:#fff;--fg:#1d2329;--muted:#5d6872;--line:#dde1e5;--accent:#c8361f;--soft:#fbe7e3;
+--display:"Barlow Condensed","Arial Narrow",Arial,sans-serif;--body:"Source Sans 3","Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#14181c;--card:#1c2227;--fg:#e8ecef;--muted:#9aa5ae;--line:#2c343b;--accent:#f06a52;--soft:#3a201b;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#14181c;--card:#1c2227;--fg:#e8ecef;--muted:#9aa5ae;--line:#2c343b;--accent:#f06a52;--soft:#3a201b;color-scheme:dark}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.45}
+.wrap{max-width:920px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 60px;display:grid;gap:14px}
+.eyebrow{font-family:var(--display);font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--display);font-size:clamp(30px,6vw,42px);margin:0;text-wrap:balance}
+.rules{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px}
+.rules h2{font-family:var(--display);font-size:22px;margin:0 0 6px;text-transform:uppercase;letter-spacing:.03em}
+.rules ul{margin:0;padding-left:20px;display:grid;gap:4px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 18px;display:grid;gap:12px}
+.card h2{font-size:19px;margin:0;display:flex;gap:10px;align-items:baseline;line-height:1.3}
+.n{font-family:var(--display);font-size:26px;color:var(--accent);font-variant-numeric:tabular-nums;flex:none}
+.refs{display:flex;flex-wrap:wrap;gap:10px}
+.ref{display:flex;flex-direction:column;gap:6px;text-decoration:none;color:inherit;flex:0 1 320px;min-width:0;font-size:13px}
+.ref img{width:100%;max-width:320px;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:6px;border:1px solid var(--line)}
+.ref span{color:var(--muted)} .ref b{color:var(--fg)}
+.ref:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+dl{margin:0;display:grid;grid-template-columns:76px 1fr;gap:6px 12px}
+dt{font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding-top:2px}
+dd{margin:0;min-width:0}
+dd.txt{font-family:var(--display);font-weight:700;font-size:20px;color:var(--accent);background:var(--soft);padding:2px 8px;border-radius:4px;justify-self:start}
+@media (max-width:520px){dl{grid-template-columns:1fr}dt{padding-top:6px}}
+</style>
+<div class="wrap">
+<header><div class="eyebrow">Roger the HVAC Guy · batch 1</div><h1>Thumbnail brief</h1><p style="color:var(--muted);margin:6px 0 0">16 thumbnails. For each: the YouTube thumbnail(s) to take inspiration from (tap to open on YouTube), what to keep, what to change, the exact text, and what not to do.</p></header>
+<section class="rules"><h2>Rules for every thumbnail</h2><ul>%%RULES%%</ul></section>
+%%CARDS%%
+</div>
