@@ -666,7 +666,7 @@ For each: what it is, why it happens, how it feels (real quotes), what people tr
 - **Why:** Waterproof and long-wear formulas need oil and friction; rubbing breaks and pulls lashes [M] **Y14**, **S13**.
 - **How it feels:** "If i have to scrub my eyes to get it off that is a deal breaker" (@dfollmer1428). "whenever I take off waterproof mascara it always rips out my lashes and takes so long" (@josiejohnson_28). "how easily they remove is just as important to me as how they perform" (@Keeper_of_the_Hearth). Luxe: "Every lash left on a cotton pad feels personal when you already have fewer to spare" [M] **S2**.
 - **Tried and failed:** Waterproof + bi-phase remover; wipes (Dr Dray: wipes "require more rubbing" and cause "eyelash breakage", **Y13**).
-- **Luxe [R]:** "Warm water dissolves it cleanly" is the centre of the pitch. If true, it helps. Remember tubing can still need patience and warm water (Problem 4 in **Y6**, cold-water warning in **Y21c**).
+- **Luxe [R]:** "Warm water dissolves it cleanly" is the centre of the pitch. If true, it helps. Remember tubing can still need patience and warm water: Dominique needed soap and remover to get Tarte's tubing off (**Y6**), and cold water can pull lashes (**Y21c**).
 
 ### Problem 5: Sensitive, stinging, itchy, watering eyes
 - **What:** Eyes burn, water or itch, lids go red after mascara.
@@ -735,3 +735,263 @@ For each: what it is, why it happens, how it feels (real quotes), what people tr
 - **Luxe [R]:** Tubing is often the reason women come back: "For a lot of women past 50, this is the reason they start wearing mascara again after quitting in frustration" (**Y1**); "I never wore mascara because it always smeared. But I recently starred wearing tubing mascara and it makes a huge difference" (@ItzaMuMu). Luxe's whole pitch aims at this group.
 
 ---
+
+## 7. How this product compares
+
+### 7.1 The main alternatives, explained simply
+
+Prices are as found on the date and source given; they move. Amazon ratings come from asinsight.com reports, which estimate Amazon sales (month shown) [M] **S5**.
+
+| Product | Type | What it is, plainly | Price (source, date) | What's different from Luxe [R] |
+|---|---|---|---|---|
+| **Luxe Conditioning Peptide Mascara** | Says "lash-casting" (reads as tubing) + peptide | Over-50, sensitive-eye pitch; black only; no ingredient list | $39.95 brand site; £14.99 Amazon UK; US Amazon not found (**S1**, **S4**, 2026-10-31) | — |
+| **Thrive Causemetics Liquid Lash Extensions** | Tubing | The best-known tubing mascara; brown-black option; ophthalmologist-tested; full list published | $26 (**S7**, 2026-10-31); Amazon 4.4★ (4.1K–4.6K, Jul–Aug 2026) | Published list and lens testing; cheaper single tube; brown-black; "No. 1" for over-50s in two big lists (**Y1**, **Y2**) |
+| **Tarte Tartelette Tubing** (and XL "with Peptide") | Tubing (XL adds peptide) | Popular tubing; also in brown (**Y4**) | $28 Amazon, 4.4★ (4K), est. 100K units/month (asinsight Jul 2026) | Same idea plus a peptide; brown option; big seller |
+| **Clinique Lash Power** | Tubing | "true tubing… Fragrance-free. Ophthalmologist tested" | $28–35 (**Y1**) or about $25 (**Y2**); sources differ | Fragrance-free and lens-friendly by name; less volume |
+| **Blinc Mascara Amplified** | Tubing (the original) | Tubing since about 1995; black and dark brown | $26 Walmart (snippet, **S5**) | Brown; long track record |
+| **Maybelline Sky High (washable)** | Regular, slim flexible brush, "bamboo… fibers" | Viral drugstore favourite | $10.82, 4.5★ (187.9K) (asinsight Aug 2026) | A quarter of Luxe's site price; huge review base; regular formula |
+| **Essence Lash Princess** | Regular, fibre brush | The cheapest cult mascara | $4.97, 4.3★ (401.1K) | One-eighth of the price; Dominique: "wore exceptionally well… no flaking, no smudging" (**Y6**); some get itching (@JoyWinters-t4h) |
+| **L'Oréal Lash Paradise (washable)** | Regular | Soft wavy brush; "Ophthalmologist-tested… sensitive eyes and contact lens wearers" (**S8**) | $13.99 (**S8**) | Cheap, published list; regular formula |
+| **Grande GrandeMASCARA** | Regular wax + named peptide | "Condition while you coat!"; black, brown, waterproof | $25 (**S6**) | Names its peptide and list; brown; regular (not tubing) |
+| **PrimeLash "Mascara for Older Women"** | Not stated | The other over-50 mascara | $22.40–28, 4.0★ (25.4K–27K) (asinsight Jun–Aug 2026) | Same audience, big review base; some find it clumpy (**S5**) |
+| **Ilia Limitless Lash** | Regular, "clean" | Shea and beeswax; ophthalmologist-tested; Leaping Bunny (per **Y1**) | about $28–30 (**Y1**, **Y2**) | "Clean" positioning; published list |
+| **Lancôme Lash Idôle** | Regular | Lifting cone brush | $30 Amazon (asinsight Jul 2026); $40–45 counter (**Y1**) | Prestige brush; L'Oréal-owned |
+| **Bobbi Brown No Smudge** | Waterproof | "like a raincoat for your lashes" (**Y4**) | not found | For crying/swimming days; hard removal |
+| **MAC Magic Extension 5mm** | Fibre | Fibres for length | $28 (**Y6**) | Big length; fibres can shed; not for lenses |
+
+### 7.2 When to pick Luxe, and when something else [R]
+
+**Luxe could make sense if** (only after the operator's own test confirms it):
+- You want a tubing-style, warm-water-removal mascara **and** like the idea of "conditioning" in one tube.
+- You buy it at the Amazon price or the 2-for-1 deal, not $39.95 for one.
+- You have short, fine lashes, hooded or oily lids, and no known ingredient allergies.
+
+**Pick something else if:**
+- **You have known allergies or very reactive eyes** → choose a product with a published list you (or your doctor) can check: Clinique Lash Power, Thrive, Lash Paradise.
+- **You want brown or brown-black** → Thrive (brown-black), Tarte (brown), Blinc (dark brown), Grande (brown).
+- **Your eyes water a lot or you use drops all day** → tubing may break down; a waterproof for occasional days, or a regular formula, may last better.
+- **You're on a tight budget** → Essence ($4.97) and Sky High ($10.82) performed as well as a $44 Dior in a week-long test: "It's really hard to tell the difference between the $4 one and the $44 one" (**Y6**) [M].
+- **You want proof of eye-doctor testing** → Thrive and L'Oréal state it on their own pages (**S7**, **S8**).
+- **You want real lash growth** → that's a serum's job, not a mascara's (pack 4).
+
+---
+
+## 8. Questions viewers ask, with plain answers
+
+Each question comes from a real comment or search, shown in brackets. Answers are plain summaries of the sources; [R] marks my reading.
+
+1. **"What is tubing mascara?"** (the top search theme: "tubing mascara what is", **S19**) — A mascara that dries into tiny flexible sleeves around each lash. It doesn't smudge with oil and slides off with warm water. **Y3**, **S7**.
+2. **"Is Luxe mascara a tubing mascara?"** (search "luxe mascara waterproof conditioning peptide mascara", **S4**) — The brand describes "a light, flexible cast… a soft, flexible tube", which sounds like tubing, but it also says "Waterproof". There's no ingredient list to confirm. [R] Test it with warm water.
+3. **"What's in it?"** (Scam Advice video: "check the full ingredient list", **S5**) — Not published online. Check the box.
+4. **"Does a peptide mascara grow lashes?"** (@carolgarrett5650 on serums; Luxe FAQ "Does it actually help my lashes grow, or is that just marketing?") — No good evidence. Growth claims belong to serums and drugs. **S18**, **S5**.
+5. **"Will it sting my eyes?"** (Luxe FAQ; @AudriannaB-World-Peace) — It's sold as hypoallergenic and pH balanced, but "hypoallergenic" has no legal meaning (**S10**). Patch test; stop if it stings.
+6. **"Can I wear it with contact lenses?"** (Luxe FAQ; Rebecca, **Y5**) — The brand says yes; no test is published. Put lenses in before, take them out before removing it, avoid fibres. **S23**.
+7. **"How do I get tubing mascara off?"** (@Madilyn-sh5pd) — Warm water, a 30-second soak, then gentle downward strokes. Not cold water. **S7**, **Y21c**.
+8. **"Why won't it come off in little tubes like on TikTok?"** (Dominique, **Y6**) — Dry fingers aren't enough; it needs warm water. Some products sold as tubing don't really tube (**Y8**).
+9. **"Why does my mascara smudge under my eyes?"** (@danikafarnsworth5590) — Oil from lids and eye cream, tears, hooded lids and drooping lashes. Prime, keep creams off lashes, try tubing. **Y7**, **Y9**.
+10. **"Is waterproof mascara bad for older eyes?"** (@carolegriffith7198: "Waterproof seems to be a problem") — Not dangerous for occasional use, but harder to remove (rubbing, lash loss) and can clog oil glands with daily use. **Y14**.
+11. **"Do waterproof mascaras contain forever chemicals?"** (Face Value and Glow Audit videos) — A 2021 Notre Dame study found high fluorine (a sign of PFAS) in 47% of mascaras tested and in many waterproof ones (82% is quoted in press), mostly not on the label. It measured fluorine, not harm. **S20**.
+12. **"Should I put mascara on my bottom lashes?"** (@DianehiltzCanada) — Optional. Many artists use little or none after 40 because it casts shadows. If you do, dab lightly. **Y3**, **Y2**.
+13. **"How do I stop getting mascara on my eyelids?"** (@HurshRoad) — Mirror below you, look down, prime the lid, wipe extra off the wand. **Y9**, **Y18**.
+14. **"Should I curl before or after?"** (curler comments, **Y9c**) — Before, with a metal curler; after, only with a heated one. **Y2**, **Y18**.
+15. **"Will a curler pull my lashes out?"** (@SwampSagacity1014) — A good one fitted to your eye shape shouldn't; cheap ones can. A study found curlers didn't measurably change lash structure. **Y9**, **S14**.
+16. **"Is there a self-curling mascara?"** (@user-zk8ed4kd2b) — Curling formulas and curved brushes help (Lash Idôle, Telescopic Lift, Dior Overcurl, Charlotte Tilbury), but none replaces a curler on very straight lashes. **Y1**, **Y2**, **Y7**.
+17. **"How often should I replace mascara?"** (@vanessawilen2417: "we need to replace them every 3 months") — FDA: 2–4 months after purchase. Dr Dray: "about three months". **S9**, **Y12**.
+18. **"Why is my new mascara clumpy?"** (@Rachierooh) — Too much on the wand, residue on lashes, waiting too long between coats, or pumping. **Y7**, **Y9**.
+19. **"Is there a brown version?"** (@mlaiuppa) — Not for Luxe (black only). Brown tubing: Tarte, Blinc; brown-black: Thrive. **S1**, **Y4**, **Y10**, **Y2**.
+20. **"Is it cruelty-free?"** (@theasullivan4227, 17 likes) — The brand says so; no Leaping Bunny or PETA listing was found, so say "the brand says". **S5**.
+21. **"Does it work for hooded eyes?"** (@meowwaffles6040) — Tubing or smudge-resistant formulas help most, plus primer and technique. Untested for Luxe. **Y7**, **Y9**.
+22. **"I use eye drops all day. Which mascara?"** (@donkiml5805; @bethirwin7445) — Drops can break tubing. Gentle, fragrance-free, removed nightly; talk to your eye doctor. **Y15**.
+23. **"Can I use it with lash extensions?"** (Amazon title "Lash Extension Friendly") — The brand says so; oil-free formulas are the type that don't loosen glue. **Y10**.
+24. **"Can I use a lash serum with it?"** (@carolgarrett5650) — Yes, at different times: mascara by day, serum at night on a clean lash line. **Y20**, pack 4.
+25. **"Is drugstore as good as expensive?"** (@mireillefinch9276: "It's unlikely I'd ever spend $44 on mascara") — Often yes. Chemist: big brands "trickle down a lot of the same technology… to the more affordable options" (**Y8**); Dominique couldn't tell $4 from $44 (**Y6**).
+26. **"Is the 'conditioning' real or marketing?"** (Luxe FAQ wording) — The softening oils and panthenol may make lashes feel softer, like hair conditioner. "Heals" and "growth" are not supported. **S6**, **S18**.
+27. **"Why do I have to throw it out if it's still full?"** [R from **S9**] — Germs grow in the tube; in rare cases eye infections from cosmetics have caused blindness. **S9**.
+28. **"Can I put castor oil on my lashes instead?"** (Rebecca, **Y5**; Face Value suggests it at night, **Y1**) — Many do at night. There's no good evidence it grows lashes; keep it out of the eye and off lashes before mascara. [R]
+29. **"Does mascara make my lashes fall out?"** (@josiejohnson_28) — Wearing it isn't the main problem; frequent use is linked to more lash-surface cracking, and rough removal pulls lashes out. **S14**, **S13**.
+30. **"What does 'ophthalmologist-tested' mean?"** — Very little on its own: "could simply mean as they send me a product in the mail, give me a survey" (Dr Rupa, **Y15**).
+31. **"Is it waterproof?"** (Amazon CA snippet "water resistance"; Luxe page) — The brand says both "Waterproof" and "comes off with warm water". [R] It can't really be both; test it.
+32. **"How long does one tube last?"** — Size not found; replace every 2–4 months anyway (**S9**).
+
+---
+
+## 9. Myths and truths
+
+| Myth | Truth | Source |
+|---|---|---|
+| "A peptide mascara grows your lashes." | No mascara study shows growth. The nearest evidence is a serum trial with no comparison group. | **S18**, **S5** |
+| "Hypoallergenic means it can't irritate." | In the US the word has no legal definition. | **S10** |
+| "Ophthalmologist-tested means an eye doctor approved it." | It can mean as little as a mailed survey. | **Y15** |
+| "Waterproof is best for older eyes." | It holds curl and survives tears, but removal is harsh and daily use can clog oil glands. Fine occasionally. | **Y14**, **Y3** |
+| "Tubing never smudges." | Warm tears, eye drops, sweat and humidity can break it down. | comments (@Corrine919, @JoyWinters-t4h, @bethirwin7445); **Y3** |
+| "Tubing comes off with a finger swipe." | It needs warm water and a soak; cold water can pull lashes. | **S7**, **Y6**, **Y21c** |
+| "All 'tubing' mascaras are true tubing." | A chemist found one that just turned to "mush". | **Y8** |
+| "Pump the wand to get more product." | Pumping dries it out and causes clumps. | **S7**, **Y9**, **Y18** |
+| "Expensive mascara is better." | A $4.97 and a $10.82 mascara matched a $44 one in a week's test. | **Y6**, **Y8** |
+| "Lash curlers ruin lashes." | A study found no significant change in lash structure from curler use; mascara frequency mattered more. Clean the curler; avoid if allergic to nickel. | **S14**, **Y12** |
+| "You can add water to revive a dried tube." | It invites germs. Throw it out. | **S9** |
+| "Mascara lasts until it's empty." | Replace 2–4 months after purchase. | **S9** |
+| "Lashes go grey like hair." | Lashes grey only at a very advanced age and rarely go white. | **S13** |
+| "More coats = more volume." | Many tubing formulas don't build; extra coats make chunks. | **Y3** |
+| "Lower-lash mascara makes eyes bigger at any age." | Over 40 it often casts shadows and smudges. | **Y3**, **Y2** |
+| "Natural ingredients can't cause allergy." | Wax and plant extracts can. | **Y15** |
+| "Fibre mascara is a safe way to get length." | Fibres can fall into the eye and scratch the cornea. | **Y2** |
+| "Use a pin to separate lashes." | Never: risk of stabbing the eye. Use a comb or spoolie. | **Y12**, **Y18** |
+
+---
+
+## 10. The words viewers use
+
+Word for word from comments (handle, likes where given; sources in **S5** raw file unless marked **Y9c**, **Y17c**, **Y21c**) and from the brand's mirror-language (**S1**, **S2**).
+
+**Their phrases for the problem**
+- "raccoon eyes", "panda eyes", "sad panda eye", "racoon" (several)
+- "smudges by noon" (brand); "by lunchtime it has smudged into a gray shadow" (**Y2**)
+- "transferring onto the foundation under my eyes" (@teddyroon)
+- "crumble from your eyes around lunch time" (@unik428)
+- "black confetti… in your fine lines" (**S2**)
+- "four thick spikes" (**S1**); "spider legs" (**S2**); "spider eyes" (@jillgross6232); "Tammy Faye" (**Y3**)
+- "Bette Davis as Baby Jane look" (@phyllistallent4149, 57 likes)
+- "clownish" (@lindap.p.1337)
+- "invisible without mascara" (@nedamm5677)
+- "my lashline tucks up behind that immobile skin flap 'hood'" (@errrkt, **Y9c**)
+- "eyes like a hound dog" (@coltdaggabuzzbuzzify, **Y9c**)
+- "rips out my lashes" (@josiejohnson_28, **Y21c**); "it wouldnt rip off my eyelashes" (@haggartm, **Y21c**)
+- "the few lashes you have left" (**S2**)
+- "sick of the mess" (@loftonrudolph7586, 57 likes)
+- "messy to remove" (@patwagner9308)
+- "too wet" / "to wet" (@annkaminski9902)
+- "globs" (@Marlenabkk)
+- "itching and burning" (@JoyWinters-t4h)
+- "make my eyes water and hurt" (@AudriannaB-World-Peace)
+- "the bane of my existence" (@donkiml5805)
+
+**Their complaints about money and trust**
+- "I dread to think how much money I have spent trying to find the one" (@lornacartwright1341)
+- "I don't want to spend over $25 for mascara" (@vanessawilen2417, 190 likes)
+- "It's unlikely I'd ever spend $44 on mascara" (@mireillefinch9276, 25 likes)
+- "I have fallen for so many more expensive mascaras including tubing, and I always go back to the essence Princess mascara" (@kathystclair9485, 114 likes)
+- "you're a sucker for ads too, just like you" (Dominique on buying PrimeLash from an Instagram ad, **Y6**)
+
+**Their wishes**
+- "I'm looking for a good self curling mascara" (@user-zk8ed4kd2b)
+- "I want brown mascara, not black" (@mlaiuppa)
+- "how easily they remove is just as important to me as how they perform" (@Keeper_of_the_Hearth)
+- "If i have to scrub my eyes to get it off that is a deal breaker" (@dfollmer1428)
+- "It's important to me to only use cruelty free cosmetics" (@theasullivan4227)
+- "I am in my 60's and have been trying to find a better mascara" (@Kat0294)
+
+**Their praise words (for mascaras that worked)**
+- "game changer" (@lynnstocker2931, on tubing for "this oily gal")
+- "life saver for oily lids" (@apatheticowl3461, **Y21c**)
+- "comes off like a glove" (@NaamaRonen, **Y21c**)
+- "So easy to remove" (@Amy-bt2ti); "I don't lose any lashes with them"
+- "It washes off very easily" (@MmeO, 67)
+- "doesn't smear, flake, irritate and it comes off like a tube with just water" (@anitadrink5499, Blinc)
+- "makes me feel pretty" (@jamiebrennan5779, 64)
+- "I will never give up my mascara.EVER!" (@robiness5344, 125 likes)
+- "lash noodles" (Dominique, **Y6**); "little tubes like noodles" (**Y6**)
+
+**The brand's mirror-language (what the ad copies from them)** [M] **S1**, **S2**
+- "My eyelashes are different now"
+- "shorter, lighter, harder to find"
+- "It isn't your technique"
+- "Not one was built for YOU"
+- "panda eyes by 3 PM"
+- "the dark lash line quietly disappearing"
+- "Every lash left on a cotton pad feels personal"
+- "no nightly tug-of-war"
+- "Your lashes were never the problem. Your old mascara was." (almost the same line opens Glow Audit's video: "Your lashes are not the problem. The mascara is.", **Y2**)
+
+**Simple word bank** [R]: invisible lashes, bare eyes, tired eyes, raccoon eyes, panda eyes, smudge, flake, clump, spider, droop, hooded, crepey, scrub, tug, rip out, sting, burn, water, itch, warm water, slide off, noodles, tubes, lift, curl, separate, fan out, wispy, natural, soft black, brown-black, awake, open, pulled together, pretty, years younger.
+
+---
+
+## 11. Safety, and what you can and can't say on camera (short)
+
+**Safety** [M]
+- Patch-test new eye makeup; stop at stinging, itching, redness or swelling; see a doctor if it doesn't settle (**S9**, **Y15**).
+- Don't use eye makeup during an eye infection; throw out what you were using (**S9**).
+- After eye surgery, wait for the surgeon's OK [R].
+- Replace 2–4 months after opening; never add water or saliva; never share; no shop testers (**S9**).
+- Never apply in a moving car (**S9**).
+- No pins near the eye (**Y12**).
+- Contact lenses: in before makeup, out before removal (**S23**).
+- Remove it every night (**Y12**, **Y13**).
+- **Luxe's ingredient list is not published**: anyone with a known allergy, or worried about hidden prostaglandins (e.g. isopropyl cloprostenate, **Y15**), should read the box first.
+
+**Can't say on camera** (drug-type claims under FDA rules, **S11**)
+- "heals your lashes", "grows lashes", "fast growth", "regrows", "stops lash loss", "restores your 20-year-old lashes".
+- Don't present the brand's "clinical" numbers (100%, 98%, 97%, "2,844 women") or "dermatologist-approved" as fact; no study was found.
+- Don't say "hypoallergenic" or "safe for contacts" as a promise.
+
+**Can say**
+- "looks longer / fuller / darker", "separates", "didn't smudge on me after X hours", "came off with warm water in my test", "the brand says it contains conditioning peptides".
+
+---
+
+## 12. Sources
+
+All pulled or checked on **2026-10-31** unless another date is shown. Video view counts are from NexLev on 2026-10-31.
+
+**Luxe and Amazon**
+- **S1** Luxe US product page: https://luxecosmetics.us/products/conditioning-mascara (raw: `data/mascara/luxecosmetics-us-conditioning-mascara-2026-10-31.txt`; also the "waterproof" page https://luxecosmetics.us/products/luxe-waterproof-mascara and the AU page, raw files in the same folder)
+- **S2** Luxe advertorial "10 Reasons Why Women Over 50 Are Getting Their 20-Year-Old Lashes Back", https://luxe.com/pages/10-reasons-why-luxe-mascara ("Last Updated August 26, 2026"; raw: `data/mascara/luxe-com-advertorial-10-reasons-2026-10-31.txt`)
+- **S3** Luxe product images, 9 images from the Shopify feed of S1 (e.g. https://cdn.shopify.com/s/files/1/0651/7758/3874/files/LUXE_CONDITIONING_PEPTIDE_MASCARA_2_1.jpg), viewed 2026-10-31
+- **S4** Amazon US/UK/CA listings via search snippets only: https://www.amazon.com/Luxe-Cosmetics-Conditioning-Long-Lasting-Clump-Free/dp/B0GSXJCZ93 · https://www.amazon.co.uk/Cosmetics-Conditioning-Buildable-Long-Lasting-Clump-Free/dp/B0GSXJCZ93 · https://www.amazon.ca/Luxe-Cosmetics-Conditioning-Long-Lasting-Clump-Free/dp/B0GSXJCZ93 (raw: `data/mascara/websearch-snippets-2026-10-31.md`)
+- **S5** This study's earlier work: `01-mascara.md`, `SUMMARY.md` (section 7 corrections), `checks/01-mascara-check.md`, the comment file `data/mascara/nexlev-youtube-comments-2026-10-31.md` and the asinsight reports `data/mascara/asinsight-*.txt` (Jun–Aug 2026 data)
+
+**Rival brands**
+- **S6** Grande GrandeMASCARA: https://www.grandecosmetics.com/products/grandemascara (raw: `data/mascara/competitors/grandecosmetics.com-grandemascara-2026-10-31.txt`)
+- **S7** Thrive Causemetics Liquid Lash Extensions: https://thrivecausemetics.com/products/liquid-lash-extensions-mascara (raw: `data/mascara/competitors/thrivecausemetics.com-liquid-lash-extensions-mascara-2026-10-31.txt`)
+- **S8** L'Oréal Paris Voluminous Lash Paradise Washable, lorealparisusa.com product page (raw: `data/mascara/competitors/lorealparisusa-lash-paradise-2026-10-31.txt`)
+
+**Regulators and health bodies**
+- **S9** FDA, Eye Cosmetic Safety: https://www.fda.gov/cosmetics/cosmetic-products/eye-cosmetic-safety (content current as of 06/28/2022; raw: `data/mascara/science/`)
+- **S10** FDA, "Hypoallergenic" Cosmetics: https://www.fda.gov/cosmetics/cosmetics-labeling-claims/hypoallergenic-cosmetics
+- **S11** FDA, Is It a Cosmetic, a Drug, or Both?: https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap
+- **S23** UMass Memorial Health, Cosmetic Safety for Contact Lens Wearers: https://www.ummhealth.org/health-library/cosmetic-safety-for-contact-lens-wearers (no date on page)
+
+**Studies**
+- **S12** Glaser DA et al. *Dermatol Surg* 2014;40(11):1208-13, PMID 25347452
+- **S13** Aumond S, Bitton E. "The eyelash follicle features and anomalies: A review." *J Optom* 2018;11(4):211-222, PMID 30017866, full text PMC6147748 via https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6147748/fullTextXML
+- **S14** Fukami K et al. "Internal structure changes of eyelash induced by eye makeup." *J Cosmet Sci* 2014;65(4):217-24, PMID 25423741
+- **S15** Mimura T, Nakagomi R. *Clin Optom* 2025;17:73-82, PMID 40066296 (Alcon Japan grant)
+- **S16** Zirwas MJ. "Contact Dermatitis to Cosmetics." *Clin Rev Allergy Immunol* 2019, PMID 30421329
+- **S17** Imokhai PO et al. *Front Cell Infect Microbiol* 2026, PMID 42827448
+- **S18** Fernandez-Gonzalez P et al. *J Cosmet Dermatol* 2024, PMID 38572527
+- **S20** Whitehead HD et al. "Fluorinated Compounds in North American Cosmetics." *Environ Sci Technol Lett* 2021, doi 10.1021/acs.estlett.1c00240, as reported by https://www.newswise.com/articles/use-of-pfas-in-cosmetics-widespread-new-study-finds and https://phys.org/news/2021-06-cosmetics-toxic-chemicals.html (via web search; the paper itself was not loaded; the "82% of waterproof mascaras" figure is from press coverage and the videos Y1/Y2, not checked in the paper)
+
+**Trade and history**
+- **S19** Rachel Brown, "From Blinc To CoverGirl, Tubing Mascara Has Become Big Business, But Education Gaps Remain, Quilt AI Finds", Beauty Independent, 6 Feb 2026: https://www.beautyindependent.com/?p=182666
+- **S21** Mascara history, web-search summary of https://en.wikipedia.org/wiki/Mascara, https://www.lisaeldridge.com/blogs/articles/the-history-of-mascara, https://www.newbeauty.com/view/history-of-mascara, https://www.mentalfloss.com/article/68932/10-facts-about-mascara-help-you-lash-out (dates disagree, as shown in 1.4); plus **Y11**
+- **S22** Tubing history, web-search summary of https://www.beautyindependent.com/?p=182666, https://www.modernbeauty.com/shop/manufacturer/20-blinc.html, https://www.newswire.com/news/blinc-just-invented-the-perfect-mascara-21336185, https://sephora.com/product/blinc-mascara-P46017
+- **S24** Myristoyl pentapeptide-17, web-search summary of a supplier fact sheet https://makingcosmetics.com/on/demandware.static/-/Sites-makingcosmetics-master/default/dw34395b60/fact-sheets/fact-sheet-eye-lash-penta-peptide.pdf and ingredient databases (https://skinsort.com); no peer-reviewed eyelash trial found
+- **S25** Mascara formulation, web-search summary of https://www.specialchem.com/cosmetics/guide/mascara-formulation, https://ulprospector.ul.com/knowledge/wp-json/wp/v2/posts/7463, https://www.cosmeticsandtoiletries.com/formulating/category/color/premium-Viscosity-Dispersion-and-More-in-Mascara-226498721.html (SpecialChem page itself returned 403; not retried)
+
+**YouTube (transcripts and details via NexLev, 2026-10-31)**
+| Code | Video | Channel | Views | Who is speaking |
+|---|---|---|---|---|
+| **Y1** | xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid)" | Face Value | 118,402 | Faceless narrator; some strong claims (treat as a viewer-facing source, not science) |
+| **Y2** | K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid)" | Glow Audit | 49,895 | Faceless narrator quoting artists and doctors |
+| **Y3** | oDqUrZhtqsU "Mascara 101: Why You Smear" | Mature Makeup Masterclass | 8,175 | Michelle Spieler, professional makeup artist 25+ years |
+| **Y4** | xsQWIs5AWMg "If your Mascara Smudges: TRY THESE." | Glam Girl Gabi | 33,834 | Makeup artist (ex-bridal) |
+| **Y5** | WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60" | Rebecca Over 60 | 107,426 | Rebecca, 70 |
+| **Y6** | jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44" | Dominique Sachse | 256,216 | Over-50 creator, day-long wear tests |
+| **Y7** | mALJZ4f8lCc "The Best Mascaras For Over 40 That Don't Smudge By Midday" | Nina Ubhi | 12,973 | Makeup artist |
+| **Y8** | X4WoL8hdaXw "Cosmetic Chemist Guesses Cheap vs. Expensive Mascara" | Allure | 15,792 | Ramón Pagán, cosmetic chemist |
+| **Y9** | 0-DGxAoMB2A "HOODED EYES Mascara Tips – 8 Game Changers" | Mindful Midlife | 24,712 | Creator with hooded eyes; **Y9c** = its top comments |
+| **Y10** | MmXKuASO8WQ "EYES: Tubing Mascara - Amplified Volume" | blinc | 191,029 | Brand tutorial |
+| **Y11** | dnA3Cd5xG5A "How Maybelline Mascara Is Made" | Refinery29 | 2,259,520 | Factory video |
+| **Y12** | pFMDu5f5Q1M "Top 10 eye makeup mistakes" | Dr Dray | 78,399 | Dermatologist |
+| **Y13** | sc8nZ4tfAX8 "10 tips for EYE MAKEUP REMOVAL" | Dr Dray | 171,241 | Dermatologist |
+| **Y14** | YbNBilToxfk "Is Waterproof Eye Makeup Damaging? Eye Doctor Explains" | Dr. Rupa Wong | 4,451 | Board-certified ophthalmologist |
+| **Y15** | fz7KNnU55wo "Eyes Too Sensitive for Eye Makeup?" | Dr. Rupa Wong | 63,869 | Ophthalmologist |
+| **Y16** | KlLwunmqcZ0 "How I Remove Eye Makeup" | Dr. Rupa Wong | 78,167 | Ophthalmologist |
+| **Y17** | JyVjQjUl68E "THE LOWER MASCARA HACK THAT'S GENIUS" | Nikol Johnson | 1,807,784 | Makeup artist for mature women; **Y17c** = its top comments |
+| **Y18** | mpQJfwfJ6a8 "Eye Makeup Tips for Older Women - How to Apply Mascara" | Sixty and Me | 27,727 | Aran P, professional makeup artist |
+| **Y19** | Yw_jNPVu9Xw "THE SECRET MASCARA FOR WOMEN 70+" | Nikol Johnson | 93,301 | Makeup artist with a 74-year-old guest |
+| **Y20** | f4uAyWYG5dQ "luxe Cosmetics peptide conditioning mascara" (Short, 18 Oct 2026) | Cassi | 1,102 | Creator; reads as affiliate; transcript + AI visual check |
+| **Y21** | 9HKTu9e_ekY tubing-mascara Short | (see `01-mascara.md`) | 18,000,000 | **Y21c** = its top comments |
+
+Raw transcripts of Y1–Y20 were saved to the session scratchpad only (not to the repo), per the instruction to edit no other file.
