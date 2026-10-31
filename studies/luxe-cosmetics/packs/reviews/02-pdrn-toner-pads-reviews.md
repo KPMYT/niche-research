@@ -1,6 +1,6 @@
 # Reviews: Luxe PDRN Toner Pads (product 2), plus the same formula, rivals and toner pads in general
 
-Pulled 2026-10-31 by a review-collecting helper, following `packs/PACK-BRIEF.md` ("The reviews"). Raw pulls: `data/reviews/toner-pads/` (start with `sources-log-2026-10-31.md`). Earlier report reused: `02-pdrn-toner-pads.md` and `data/toner-pads/youtube-pulls-2026-10-31.md`.
+Pulled 2026-10-31 by a review-collecting helper, following `packs/PACK-BRIEF.md` ("The reviews"). A second pull later the same day (a finishing helper, after the check in `checks/packs/02-pdrn-toner-pads-pack-check.md`) added 52 more reviews and comments: R-111 to R-136 and C-085 to C-110. Raw pulls: `data/reviews/toner-pads/` (start with `sources-log-2026-10-31.md`); the second pull is in `data/reviews/toner-pads/round3-2026-10-31/`. Earlier report reused: `02-pdrn-toner-pads.md` and `data/toner-pads/youtube-pulls-2026-10-31.md`.
 
 **How to read this.** Every review is copied word for word (typos kept), with where it came from, the date, the stars or likes, and the reviewer's age or skin type when they gave it. **[M]** = measured (read off a page or file on 2026-10-31). **[R]** = my reading. Counts of themes are my reading [R]: each review was sorted by word-matching and then checked by eye, so treat them as close, not exact. YouTube dates are relative ("1 year ago") and are shown that way. The pages were loaded normally, once each; Amazon and Reddit were not loaded (bot checks), and no site's bot check was worked around, so each store gives only the reviews on its first page.
 
@@ -10,22 +10,23 @@ Pulled 2026-10-31 by a review-collecting helper, following `packs/PACK-BRIEF.md`
 |---|---|---|
 | L | The Luxe PDRN Toner Pads themselves | 7 |
 | A | Anua PDRN 100 Hyaluronic Acid Glow Pad: the same ingredient list as the Luxe pads (see `02-pdrn-toner-pads.md` section 1.4) | 73 |
-| R | Close rivals: other PDRN pads and hydrating gel or collagen pads (Medicube, Mediheal, VT, Biodance, Glow Recipe, Rejuran, Isntree, SNP, numbuzin) | 110 |
-| C | The category: other toner pads (mostly exfoliating ones) and PDRN skincare in general | 84 |
-| | **Total** | **274** (267 not counting the Luxe page's own testimonials) |
+| R | Close rivals: other PDRN pads and hydrating gel or collagen pads (Medicube, Mediheal, VT, Biodance, Glow Recipe, Rejuran, Isntree, SNP, numbuzin) | 136 |
+| C | The category: other toner pads (mostly exfoliating ones), PDRN skincare in general (serums, creams, injections) and Korean skincare in general | 110 |
+| | **Total** | **326** (319 not counting the Luxe page's own testimonials) |
 
 ## 1. What the reviews tell us, in plain English
 
-1. **No real customer reviews of the Luxe pads were found anywhere.** The only Luxe reviews are 7 testimonials printed on Luxe's own product page (section 4). They give ages from 42 to 63 and talk about dark spots and crepey neck skin. The same six names and purchase dates also appear on Luxe's eye-balm page (`data/brand/testimonial-duplication-check-2026-10-31.md`), so they are not counted as independent reviews. Amazon could not be loaded. [M]
-2. **The Anua pad, which has the same recipe, is well liked.** I read 73 Anua reviews. Of the 63 with stars: 48 gave 5 stars, 9 gave 4, 2 gave 3, 2 gave 2 and 2 gave 1. [M] The stores' own averages: Ulta 4.8 from 124 reviews, iHerb 4.7 from 127, Lookfantastic 4.68 from 44, Cult Beauty 4.67 from 18, Vitacost 4.6 from 20, Sephora Middle East 4.11 from 19, anua.us 4.9 from 15 [M, 2026-10-31]. Anua sells it for about $22 for 60 pads [M, Ulta and Vitacost]; Luxe sells its version for $59.95 [M, earlier report].
+1. **No real customer reviews of the Luxe pads were found anywhere.** The only Luxe reviews are 7 testimonials printed on Luxe's own product page (section 4). They give ages from 42 to 63 and talk about dark spots and crepey neck skin. These are testimonials the brand prints on its own page, not independent reviews, so they are kept apart from the counts. Amazon could not be loaded. [M]
+2. **The Anua pad, which has the same recipe, is well liked.** I read 73 Anua reviews. Of the 63 with stars: 48 gave 5 stars, 9 gave 4, 2 gave 3, 2 gave 2 and 2 gave 1. [M] The stores' own averages: Ulta 4.8 from 124 reviews, iHerb 4.7 from 127, Lookfantastic 4.68 from 44, Cult Beauty 4.67 from 18, Vitacost 4.6 from 20, Sephora Middle East 4.11 from 19, anua.us 4.9 from 15 [M, 2026-10-31]. The Anua pad has two prices, both measured 2026-10-31: **$23.00 for 60 pads on Anua's own US store** (anua.us product data, about $0.38 a pad) and **$22.00 for 60 at Ulta and Vitacost** (about $0.37 a pad) [M]. Luxe sells its version for $59.95 for 140 pads (about $0.43 a pad) [M, luxeresearchlab.com product data].
 3. **What people love is the water.** 38 of the 73 Anua reviews say "hydrating" or "moisturising", and 25 talk about glow (a fresh, shiny, healthy look). [M, word count] The pads come soaking wet, feel cool, and leave skin soft and plump straight away. Many say the effect is instant: "Right after, my skin felt hydrated, looked glowy".
 4. **Most people use them as a mini face mask, not a wipe.** 19 Anua reviews describe leaving a pad on the cheeks or forehead for 5 to 20 minutes. Some cut pads in half, keep them in the fridge, or put them on the neck and the backs of the hands. 12 say it makes makeup go on smoother.
 5. **The main complaints are about wetness and the jar.** The pads can feel too wet, sticky or "goopy"; a few say the product "pills" (rolls into crumbs under makeup or cream); the jar leaks when you open it or tip it; the jar is big; and the instructions (two-sided pad, leave on or wipe?) confuse people. [R]
 6. **Several say the glow does not last, or the PDRN is only a marketing word.** An over-40 reviewer: "the glow fades after a few hours. So, my verdict is save your money". Ingredient-reading YouTubers say the PDRN amount is tiny and the real work is done by the other ingredients (niacinamide, peptides, hyaluronic acid, glycerin). PDRN commenters in general are split: some swear by it, the most-liked ones say there is no proof it does much on the skin's surface. [R]
-7. **Bad reactions are rare but real.** Across all 267 independent reviews, 11 report a reaction. For the Anua pad: skin peeling, a rash with burning eyes, and an itchy hive-like rash that came back each time. [M, count]
+7. **Bad reactions are rare but real.** Across the 267 independent reviews of the first pull, 11 report a reaction; the 52 added later report none. For the Anua pad: skin peeling, a rash with burning eyes, and an itchy hive-like rash that came back each time. One of the 11 (C-054) is about a PDRN **injection** (swelling), not a skincare product, so 10 are about products put on the skin. [R: sorted by reading each review, not by a machine count]
 8. **Long-term results are reported by a few people, and they are about feel and fine lines, not dark spots.** For example "regular use maintains long term hydration of fine lines", "my fine lines less visible", and a nose scar "greatly reduced" in 2 to 3 weeks. None of the 73 Anua reviews mentions dark spots or pigment. The big promises on the Luxe page (dark spots fading, firmer neck) were not found in any independent Anua review. [R]
-9. **Few reviewers say their age, but the over-40s who do are mostly positive and calm.** 11 independent reviews give an age of 40+ or say "mature"/"ageing" skin. A 50-year-old: "my 50 year old skin feels amazing". A reviewer aged 51-55 with dry, sensitive skin: "super saturated with quality skin care ingredients that cool the skin". Two over-50 YouTubers testing other pads: results are "not overly dramatic, but noticeable" and "subtle can be exactly what 50 plus skin needs". On Glow Recipe's PDRN pads, 34 of the 113 reviewers who gave an age range were 45 or older (20 aged 45-54, 6 aged 55-64, 8 aged 65+) [M, glowrecipe.com Okendo data].
+9. **Few reviewers say their age, but the over-40s who do are mostly positive and calm.** 13 independent reviews give an age of 40+ or say "mature"/"ageing" skin. Two were added in the second pull: a creator turning 60 with "very sensitive skin" who leaves Medicube's PDRN pads on "until they barely feel moist anymore" (R-133), and a 62-year-old man with "dryish and thin mature skin" (C-109). A 50-year-old: "my 50 year old skin feels amazing". A reviewer aged 51-55 with dry, sensitive skin: "super saturated with quality skin care ingredients that cool the skin". Two over-50 YouTubers testing other pads: results are "not overly dramatic, but noticeable" and "subtle can be exactly what 50 plus skin needs". On Glow Recipe's PDRN pads, 34 of the 113 reviewers who gave an age range were 45 or older (20 aged 45-54, 6 aged 55-64, 8 aged 65+) [M, glowrecipe.com Okendo data].
 10. **Toner pads as a whole get a recurring "waste" complaint.** A dermatologist Short with 3.6 million views says toner pads are bad for the environment, and several commenters repeat it. Some people simply prefer a liquid toner or a sheet mask. [M]
+11. **The closest rival, Medicube's PDRN gel pad, is rated highly by its Vitacost buyers too** (4.85 from 52 reviews [M, Vitacost, 2026-10-31]). Its buyers praise the glow and the mask use, like Anua's, and one notes it "contains retinol" and is "not that gentle" for daily use on sensitive skin (R-121). Two longer creator tests of Biodance's collagen gel pads say the same thing in different words: the pads feel plump and hydrating, but the "firming" promise did not show ("I'm not seeing firmness or elasticity, so I don't think they're worth $20", R-134, after 3 weeks of use morning and night). [R]
 
 ## 2. The counts
 
@@ -33,20 +34,22 @@ Pulled 2026-10-31 by a review-collecting helper, following `packs/PACK-BRIEF.md`
 
 | Source | L | A | R | C | Total |
 |---|---|---|---|---|---|
-| Lookfantastic |  | 10 | 45 | 18 | 73 |
+| Lookfantastic |  | 10 | 45 | 19 | 74 |
 | Ulta |  | 7 | 32 | 32 | 71 |
-| YouTube: viewer comments |  | 4 | 17 | 30 | 51 |
-| Vitacost |  | 20 |  |  | 20 |
-| Cult Beauty |  | 10 | 3 |  | 13 |
+| YouTube: viewer comments |  | 4 | 17 | 44 | 65 |
+| Vitacost |  | 20 | 16 | 9 | 45 |
+| Cult Beauty |  | 10 | 9 |  | 19 |
 | Sephora Middle East |  | 10 |  |  | 10 |
-| YouTube: creator's own review (transcript) |  | 4 | 3 | 3 | 10 |
+| YouTube: creator's own review (transcript) |  | 4 | 7 | 5 | 16 |
 | luxeresearchlab.com (Luxe's own page) | 7 |  |  |  | 7 |
 | dodoskin |  | 1 | 5 | 1 | 7 |
 | glowrecipe.com (brand's own store) |  |  | 5 |  | 5 |
 | anua.us (Anua's own store) |  | 3 |  |  | 3 |
 | Lyko |  | 3 |  |  | 3 |
 | Song of Skin |  | 1 |  |  | 1 |
-| **Total** | 7 | 73 | 110 | 84 | 274 |
+| **Total** | 7 | 73 | 136 | 110 | 326 |
+
+The Vitacost column for R and C is new in the second pull (Medicube PDRN pad 16; Mediheal Vitamide pad 9).
 
 Plus 22 viewer **questions** from YouTube (section 7), not counted as reviews.
 
@@ -56,10 +59,10 @@ Plus 22 viewer **questions** from YouTube (section 7), not counted as reviews.
 |---|---|---|
 | Luxe PDRN Toner Pads | L | 7 |
 | Anua PDRN 100 Hyaluronic Acid Glow Pad | A | 73 |
-| Medicube PDRN Pink Collagen Toning Gel Toner Pad | R | 21 |
-| Mediheal Collagen Ampoule Pad | R | 17 |
-| Biodance Bio-Collagen Gel Toner Pads | R | 13 |
-| Mediheal Watermide Moisture Pad | R | 12 |
+| Medicube PDRN Pink Collagen Toning Gel Toner Pad | R | 39 |
+| Mediheal Collagen Ampoule Pad | R | 19 |
+| Biodance Bio-Collagen Gel Toner Pads | R | 15 |
+| Mediheal Watermide Moisture Pad | R | 15 |
 | Mediheal Retinol Collagen Lifting Pad | R | 7 |
 | Biodance Hydro Cera-nol Gel Toner Pads | R | 6 |
 | Glow Recipe PDRN+ Repair + Soothe Korean Toner Pads | R | 5 |
@@ -80,11 +83,13 @@ Plus 22 viewer **questions** from YouTube (section 7), not counted as reviews.
 | Mediheal pads (tea tree, madecassoside) | R | 1 |
 | Mediheal tea tree pads | R | 1 |
 | numbuzin No.3 toner pads | R | 1 |
-| PDRN skincare in general (serums, essences, creams; not pads) | C | 25 |
+| Mediheal collagen pad with retinol (name not said; 100 pads) | R | 1 |
+| PDRN skincare in general (serums, essences, creams, and 2 injection stories; not pads) | C | 38 |
 | Anua Heartleaf 77 Clear Pad (exfoliating pad, different formula) | C | 15 |
 | Medicube Zero Pore Pad Mild (exfoliating pad) | C | 10 |
 | Medicube Zero Pore Pad (exfoliating pad) | C | 7 |
-| Toner pads in general | C | 6 |
+| Mediheal Vitamide Brightening Pad (brightening pad, not PDRN) | C | 10 |
+| Toner pads in general | C | 7 |
 | Sungboon Editor Deep Collagen Retinol Power Boosting Pad | C | 5 |
 | Round Lab Birch Juice Moisturizing Pad | C | 5 |
 | belif Aqua Bomb PHA Exfoliating Toner Pads | C | 5 |
@@ -92,6 +97,8 @@ Plus 22 viewer **questions** from YouTube (section 7), not counted as reviews.
 | JiYu Toning Polish Pads (exfoliating pad) | C | 2 |
 | SKIN1004 Madagascar Centella Hyalu-Cica Jelly-Fit Ampoule Pads | C | 1 |
 | Mixsoon Collagen Toner Pad | C | 1 |
+| Torriden Balanceful Toner Pad | C | 1 |
+| Korean skincare in general (not pads) | C | 1 |
 
 ### 2.3 By theme [R]
 
@@ -99,16 +106,16 @@ One review can touch several themes, so the columns add up to more than the numb
 
 | Theme | A (Anua) | R (rivals) | C (category) | All | Shown in section |
 |---|---|---|---|---|---|
-| The problem it solved | 19 | 39 | 31 | 89 | 5.5 (42 printed there) |
-| Results, and how long they took | 17 | 27 | 20 | 64 | 5.4 (29 printed there) |
-| Texture and feel | 28 | 43 | 21 | 92 | 5.6 (30 printed there) |
-| How easy it is to use | 32 | 48 | 22 | 102 | 5.7 (23 printed there) |
-| Complaints and failures | 18 | 26 | 15 | 59 | 5.8 (45 printed there) |
+| The problem it solved | 19 | 46 | 39 | 104 | 5.5 (46 printed there) |
+| Results, and how long they took | 17 | 34 | 27 | 78 | 5.4 (37 printed there) |
+| Texture and feel | 28 | 55 | 34 | 117 | 5.6 (38 printed there) |
+| How easy it is to use | 32 | 60 | 25 | 117 | 5.7 (29 printed there) |
+| Complaints and failures | 18 | 33 | 27 | 78 | 5.8 (55 printed there) |
 | Side effects (bad reactions) | 3 | 4 | 4 | 11 | 5.1 (11 printed there) |
-| Price and value | 15 | 18 | 7 | 40 | 5.9 (8 printed there) |
-| Reviews from people over 40, 50 and 60 | 3 | 6 | 2 | 11 | 5.2 (11 printed there) |
-| Before-and-after stories | 6 | 11 | 10 | 27 | 5.3 (19 printed there) |
-| Short, general praise | | | | | 5.10 (49 printed there) |
+| Price and value | 15 | 23 | 14 | 52 | 5.9 (16 printed in full there; the other 36 are quoted in a table at the end of 5.9) |
+| Reviews from people over 40, 50 and 60 | 3 | 7 | 3 | 13 | 5.2 (13 printed there) |
+| Before-and-after stories | 6 | 13 | 11 | 30 | 5.3 (21 printed there) |
+| Short, general praise | | | | | 5.10 (53 printed there) |
 
 ### 2.4 What the Anua reviews mention most [M, word count over the 73 Anua reviews]
 
@@ -141,7 +148,9 @@ One review can touch several themes, so the columns add up to more than the numb
 | Tacky / sticky | The skin stays a little sticky after the liquid dries, like dried sugar water. |
 | Pilling | When you put cream or makeup on top, the layers roll into little crumbs or balls. |
 | Exfoliate | Remove the top layer of dead skin, with a rough cloth or a mild acid. The Anua pad is not an exfoliating pad (one reviewer: "not exfoliating whatsoever"). |
-| PHA | A very gentle acid used to exfoliate; the Luxe page lists one (maltobionic acid). |
+| AHA / BHA | Two kinds of exfoliating acid. AHA (glycolic or lactic acid) loosens the "glue" between dead skin cells; BHA (salicylic acid) gets into oily pores. Neither is in the Anua or Luxe pad. |
+| PHA | A very gentle acid used to exfoliate. The Luxe page says its pad has one (maltobionic acid), but **maltobionic acid is not in the ingredient list**, and nor is any other PHA. |
+| LHA | Another gentle exfoliating acid, a cousin of salicylic acid (C-085). |
 | Pores | The small openings in the skin, most visible on the nose and cheeks. |
 | Hyperpigmentation / dark spots | Patches of skin darker than the rest, from sun, age or old spots. |
 | PDRN / sodium DNA | Bits of DNA, usually from salmon, the trend ingredient of these pads. On the label it is called "sodium DNA". |
@@ -150,15 +159,30 @@ One review can touch several themes, so the columns add up to more than the numb
 | Hyaluronic acid | A water-holding ingredient that makes skin feel wetter. |
 | Rosacea / eczema | Long-lasting skin conditions with redness (rosacea) or itchy, dry patches (eczema). |
 | Breakout / comedones | Spots or pimples; "closed comedones" are small skin-coloured bumps (blocked pores). |
-| Purging | Spots some people get when starting a new product, which then settle down. |
+| Purging | A short spell of spots caused by acids or retinoids (strong vitamin A creams), which speed up how fast skin renews itself. It **can't happen with the Anua or Luxe pad**, because they contain neither. Spots from a pad like this are a reaction, not purging. |
 | T-zone / combination skin | The forehead, nose and chin (the T-zone) are oily while the cheeks are dry or normal. |
 | Skin barrier | The skin's outer protective layer. "Damaged barrier" means skin that stings and reacts easily. |
 | Retinol / tretinoin | Strong vitamin A creams for wrinkles and acne; they can irritate. |
 | Tweezers / tongs | The little plastic picker packed with most pad jars, so you don't touch the pads with your fingers. |
+| Ampoule | A small bottle of concentrated serum. Brands also use the word for the liquid in some pads ("Collagen Ampoule Pad"). |
+| Centella / cica / madecassoside | Centella asiatica is a soothing herb (also called tiger grass); "cica" is its nickname. Madecassoside is one of its calming parts. |
+| Glutathione | A natural antioxidant (a protector against damage from sun and pollution), sold in "brightening" products. |
+| Fatty alcohols | Waxy, non-drying ingredients (like cetyl alcohol) that thicken and soften creams. Not the drying kind of alcohol. One reviewer blames them for small bumps (C-025). |
+| Décolleté | The neck and upper chest. |
+| Holy grail / "Holigrail" | Reviewers' slang for "my favourite; I can't do without it". |
+| Hwahae | A Korean app that rates products and their ingredients. |
+| Comedogenic | Likely to block pores and cause spots (C-101). |
+| Botox / lip filler | Clinic injections: Botox relaxes muscles to soften lines; filler is a gel that plumps the lips. |
+| Red light therapy | A mask or lamp that shines red light on the face, sold for skin care (C-109's routine, R-133's routine). |
+| Skin booster / Rejuran | An injection meant to improve skin quality. Rejuran is the best-known salmon-DNA injection brand. |
+| Microneedling / laser | Clinic treatments: tiny needles, or a beam of light, make controlled small injuries so skin repairs itself. |
+| Dalton (Da) | A unit for how big a molecule is. "243 Da collagen" is a brand claim about a small piece of collagen (R-134, R-135). |
+| Booster Pro | A Medicube beauty gadget that is pressed over the skin (C-107). |
+| Incentivised review | A review written by someone who got the product free or got something in return. Marked as such where the store says so. |
 
 ## 4. The Luxe PDRN Toner Pads themselves (7)
 
-These are the only Luxe reviews found. They are printed on the product page itself; there is no review app on the page, so nobody can add or read other reviews there. The page also shows "Rated 4.86 (10,839 reviews)", and its hidden product data says 4.96 from 72 ratings [M, luxeresearchlab.com, 2026-10-31]; none of those reviews is shown. The same six names, ages and purchase dates appear on Luxe's eye-balm page, so they are not counted as independent reviews (one line, per the brief). Searches for the Luxe pads on YouTube, TikTok and the wider web found no other reviews (earlier report, `data/toner-pads/web-sources-log-2026-10-31.md`).
+These are the only Luxe reviews found. They are printed on the product page itself; there is no review app on the page, so nobody can add or read other reviews there. These are testimonials the brand prints on its own page, not independent reviews. Searches for the Luxe pads on YouTube, TikTok and the wider web found no other reviews (earlier report, `data/toner-pads/web-sources-log-2026-10-31.md`).
 
 **L-001** · *Luxe PDRN Toner Pads* · luxeresearchlab.com product page testimonial (brand's own site) · "Purchased on Feb 11th, 2026" · 5 stars shown on page · Margaret T., age 56 (as shown)
 > I eat well. I sleep. I drink my water. My skin never got the memo. Dark spots on my cheeks, crepey texture on my neck, and a dullness that no amount of concealer could fix. Started these pads six weeks ago. By week two the texture on my neck was noticeably smoother. By week four my husband asked what I'd changed. I hadn't told him anything. The spots on my cheeks are still fading but they're already lighter than they've been in years. First product that made me feel like something was actually happening.
@@ -240,7 +264,7 @@ Also about: complaint. Source: https://www.ulta.com/p/deep-collagen-retinol-powe
 > I had PDRN injected under my eyes and it did absolutely nothing beyond the temporary swelling. I appreciate your rational approach to everything so much!
 Also about: complaint. Source: https://www.youtube.com/watch?v=XC2OZDLpEJ0
 
-### 5.2 Reviews from people over 40, 50 and 60 (11 printed here; A 3, R 6, C 2)
+### 5.2 Reviews from people over 40, 50 and 60 (13 printed here; A 3, R 7, C 3)
 
 Few reviewers say their age. These are the ones who do (40 or older), or who call their skin "mature", "ageing" or "menopausal". The Luxe page testimonials, which all give ages, are in section 4 and not counted here. [R]
 
@@ -248,7 +272,7 @@ Few reviewers say their age. These are the ones who do (40 or older), or who cal
 > Anua gifted me these glow pads. I tested them at my vanity. They promise a glow from PDRN and hyaluronic acid. They come completely saturated. You can see how soaked they are, and they retail for only $22. Right after, my skin felt hydrated, looked glowy, but the glow fades after a few hours. So, my verdict is save your money because I actually like the Anua 77 plus pads better.
 Also about: complaint, results/timing, texture, price/value. Source: https://www.youtube.com/watch?v=DN2tlV9V5Y8
 
-**A-001** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · anua.us (Anua's own US store, Okendo widget) · 2026-06-09 · 5 stars; 1 helpful · Jennifer S.; How old are you?: 51-55; What are your skin concerns?: Sensitivity, Dryness, Redness, Texture; What is your skin type?: Dry · age/skin: age range 51-55
+**A-001** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · anua.us (Anua's own US store, Okendo widget) · 2026-06-09 · 5 stars; 1 helpful · Jennifer S. (incentivised: the review system marks it "isIncentivized", meaning she got something for reviewing); How old are you?: 51-55; What are your skin concerns?: Sensitivity, Dryness, Redness, Texture; What is your skin type?: Dry · age/skin: age range 51-55
 > Super hydrated skin. These pads are super saturated with quality skin care ingredients that cool the skin they are best placed in one area at a time and slid to another area until the whole face gets the product
 Also about: texture, ease of use. Source: https://anua.us/products/pdrn-100-hyaluronic-acid-glow-pad
 
@@ -280,6 +304,10 @@ Also about: problem. Source: https://www.lookfantastic.com/p/mediheal-collagen-a
 > MEDICUBE is the goat. I have mature skin/ fine line's, redness, hyperpigmentation and their products are all effective. They work. Haven't ever had a bad product from them.
 Also about: problem. Source: https://www.youtube.com/watch?v=mM5sSesCi4A
 
+**R-133** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad (she calls them "the PDRN collagen toning pads", in an all-Medicube routine)* · YouTube creator review (transcript), video GrTmbV8RTTk ("Let’s talk skin care. #genx #Over50Skin #medicubeskincare #medicube #over50") · ~9 months ago · 6,447 views · GenxGina66 (creator; says Medicube is not paying her, but links her shop) · age/skin: turning 60; very sensitive skin
+> I will be 60 October of this year. No, I do not have Botox. Yes, I have lip filler. ... I have very sensitive skin. ... These are the PDRN collagen toning pads. This part I don't do every day. For this, you can actually cut this in half, but I don't have any scissors handy, so I'm not going to. But, I put them right here. Just let your skin just drink it up. I leave these on until they barely feel moist anymore. ... You know, under eye is what we're all concerned about, except these crepey eyelids. What's up with that?
+Also about: ease of use, problem. Source: https://www.youtube.com/watch?v=GrTmbV8RTTk
+
 **C-084** · *JiYu Toning Polish Pads (exfoliating pad)* · YouTube creator review (transcript), video qrdD8iDQ3U4 ("Are Toner Pads Better Than Liquid Toner? Jiyu Brightening Pads for Mature Skin") · ~8 months ago · 88 views · Women 50+ Comfortably Confident (creator, over 50, sensitive skin; gifted) · age/skin: 50+
 > If you're over 50 and your skin looks a little dull, uneven, but you also have sensitive skin ... after using them consistently, I've noticed improvement in my overall tone, clarity, and brightness. Not overly dramatic, but noticeable. As our skin matures, we usually want glow without irritation. ... it feels hydrating, not stripping. There's no tightness. It leaves a light layer of moisture, but it's not sticky. ... My skin can react easily, and these haven't caused irritation for me. ... If you already use stronger exfoliants regularly, these may feel subtle, but subtle can be exactly what 50 plus skin needs. These aren't dramatic, they're supportive.
 Also about: before/after, results/timing, problem, texture. Source: https://www.youtube.com/watch?v=qrdD8iDQ3U4
@@ -288,7 +316,11 @@ Also about: before/after, results/timing, problem, texture. Source: https://www.
 > What I like right away is the texture. It gently exfoliates, but it's not harsh at all. I use these right after cleansing. They feel hydrating. They're not tight or drying like some pads can be. ... And you can even leave these on certain areas like a little treatment mask, which I've been doing where I need extra help. What I've noticed is my skin looks smoother, more hydrated, and a little bit more even overall ... These are perfect for those days that you don't feel like doing a whole routine. They're lightweight on the skin, no stickiness or heavy feeling at all.
 Also about: before/after, results/timing, problem, texture, ease of use. Source: https://www.youtube.com/watch?v=hgaMAUabvWw
 
-### 5.3 Before-and-after stories (19 printed here; A 5, R 9, C 5)
+**C-109** · *Korean skincare in general (not pads)* · YouTube comment, video iTFerpOh5oY ("A SIMPLE AM & PM Korean Skincare Routine that ACTUALLY Works for Mature Skin") · ~8 months ago · 9 likes · @DouglasMcfarlane-m2u · age/skin: 62, man; dryish, thin mature skin
+> I’m a 62 yr old man who started using Korean skincare during COVID. I work in healthcare and enjoy the self care and relaxation aspect of taking in care of my skin and general well being. For me this was crucial during COVID and has now become a major part of my post COVID life. I am lucky because my skin really responds to even the simplest routine but I’m a bit of a maximalist ☺️ and love trying new products. ... I have dryish and thin mature skin with fine lines etc associated with aging. Luckily I’ve never had acne and have no pigmentation and pore size small .. sometimes my skin does become a little red and a little irritated at the side of nose following use of strong exfoliating agents or if I cleanse to vigorously. I tend to dislike heavy sticky and occlusive products and prefer to layer lighter products. I’d love you you to review products that might be particularly suitable for mature men. ❤
+Also about: problem, texture. Source: https://www.youtube.com/watch?v=iTFerpOh5oY
+
+### 5.3 Before-and-after stories (21 printed here; A 5, R 10, C 6)
 
 Longer stories that say how the skin was before, how long they used the pads, and what changed. These are what the reviewers say. No photos or measurements were checked. [R]
 
@@ -348,6 +380,10 @@ Also about: results/timing. Source: https://www.glowrecipe.com/products/pdrn-rep
 > Bought these as another brand were out of stock but I’m a convert. I’ve been using them twice a day morning/night and really noticed a difference in texture and fullness of my face.
 Also about: results/timing, problem. Source: https://www.lookfantastic.com/p/mediheal-collagen-ampoule-pad-100-pads/17729502/
 
+**R-134** · *Biodance Bio-Collagen Gel Toner Pads* · YouTube creator review (transcript), video bl-nELE-670 ("Biodance Bio-Collagen 3 Week Test - This Is Real Life") · ~10 months ago · 1,575 views · This is Real Life With Sheri (creator; bought the products herself, affiliate links)
+> Next up on the list, we have the collagen gel toner pads. This is 60 pads and on the Biodance website, this sells for $26. ... I have a very enlarged nose pore. ... Immediately after I use that gel toner pad tonight, we're going to look at it again ... [first use] It's so weird because there really isn't a smell, but it does not feel like toner. Like to me, toner is like a, you know, almost like water. ... This is very like gel consistency. ... I still feel like the toner is still on my face. It has not dried down yet or absorbed. But do we notice anything with the pores? Cuz I don't notice anything instantly happening. ... Okay. I kind of maybe think it did. ... [after 3 weeks] obviously you can see I've been using them every morning and every night because it was full and now there's only this many left. ... I do have kind of a lovehate relationship with these. They're so ooey gooey with serum and whatever's in here that they are very slippery and normally when I wipe them across my face like it will slip out. So I found the best way is to really hold it with your thumb and all of your fingers on this side just try to swipe in like one motion ... these little collagen gel toner pads, that's 20 bucks for 60 pads. ... I do like a toner in like a pad sort of a form, but for me, these were just too slickery. They were hard to hold on to. And for 20 bucks for collagen gel toner pads that are infused with 243DA collagen for firm and elastic skin. I'm not seeing firmness or elasticity, so I don't think they're worth $20. ... after the first use of the pads, I was super excited cuz I was like, "Oh my god, these giant nose pores. I think they're getting refined." But like I said in a check-in, maybe you only get one refinement.
+Also about: results/timing, texture, ease of use, complaint, price/value, problem. Source: https://www.youtube.com/watch?v=bl-nELE-670
+
 **C-024** · *Anua Heartleaf 77 Clear Pad (exfoliating pad, different formula)* · Ulta, shown as "most helpful positive" review · not shown · not shown · not shown
 > The secret to Hydrated, Glass-Like Skin. After using the ANUA Heartleaf 77 Toner Pads every night for a week, I'm genuinely impressed by how they've transformed my skin. These pads balance soothing hydration and gentle exfoliation, making them a delightfully easy addition to my routine. What sets these apart is their versatility. The 70 generously soaked pads are perfect for my face, neck, and even elbows, leaving my skin feeling smoother and cared for. It's a little extra pampering that makes a big difference. From the very first use, I could feel the gentle exfoliation working to lift away dead skin cells without a hint of irritation. After seven days, my skin is noticeably softer, with rough patches smoothed out and my complexion looking more refined. Even my T-zone, which often feels oily, has improved—fewer blackheads, tighter pores, and an overall fresher feel. The star ingredient, 77% Heartleaf Extract, has been a breakthrough for my sensitive skin. It calms redness and irritation while delivering lightweight hydration that never feels greasy or heavy. The alcohol-free formula relieves anyone who worries about drying or stripping their skin. But these pads don't stop at exfoliation and hydration—they also provide antioxidant and anti-inflammatory benefits that support long-term skin health. Knowing that every swipe contributes to a calmer, healthier complexion makes them feel like a luxurious yet practical choice. If you're looking for an all-in-one skincare product that gently exfoliates, hydrates, and balances your skin, the ANUA Heartleaf 77 Toner Pads are worth trying. In just one week, I've seen my skin transform, and I'm excited to see if continued use will help me achieve that coveted glass-skin glow. ***This review was collected as part of a promotion ***
 Also about: results/timing, problem, texture, ease of use, price/value. Source: https://www.ulta.com/p/heartleaf-77-clear-pad-pimprod2048930
@@ -368,7 +404,11 @@ Also about: results/timing, problem, ease of use. Source: https://www.lookfantas
 > I have been using PRN for a couple of months now and I've noticed a significant positive difference in my skin, so I am a believer that this truly works!
 Also about: results/timing. Source: https://www.youtube.com/watch?v=XC2OZDLpEJ0
 
-### 5.4 Results, and how long they took (29 printed here; A 8, R 13, C 8)
+**C-097** · *PDRN in general (not pads): Rejuran injections, then a Rejuran serum* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~1 year ago · 34 likes · @Criticalbeauty411
+> This was so incredibly helpful thank you so much for doing this!!!!!! I tried the injections from Rejuran and then I bought the serum after. I have to admit I was incredibly disappointed with both. When I got the injections, I didn’t get the micro needling version, I got the deep injections so I had a good amount of swelling after the procedure.  This led me to believe that it was working, however, once the swelling went down my under eyes looked identical to how they did before. I took before and after photos and I even waited a few weeks to see if it just took that amount of time for my body to utilize the ingredients but alas, nothing happened then either. Due to the expense, I had absolutely no incentive to do them again. When I talked to a different Dr after the fact they told me they were really not surprised and that it wasn’t a modality they found valuable in their practice. The Serum I got was extremely pleasant to use, super hydrating I liked it for that, but I certainly didn’t see any noticeable results. I am super interested in trying the ginseng version though! ...
+Also about: complaint, price/value, results/timing. Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+### 5.4 Results, and how long they took (37 printed here; A 8, R 15, C 14)
 
 Reviews that say when they saw a change: right away, after a few days, after weeks. Most "right away" results are about feel (wetter, softer, glowy), not lasting change. [R]
 
@@ -380,7 +420,7 @@ Also about: problem, texture. Source: https://www.sephora.me/qa-en/p/pdrn-100-hy
 > I use this in the morning coming out of the shower and I let it sink into my skin as I eat breakfast It prepares my skin with a nice glow for the whole day. it makes my makeup radiant. Easy to use and it's a safe package that includes a little device that prevents you from touching the pads with your hands.
 Also about: ease of use. Source: https://www.vitacost.com/products/anua-pdrn-100-hyaluronic-acid-glow-pad-60-pads-155440
 
-**A-063** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · Lyko (Nordic retailer; Lyko's own English auto-translation from sv-SE) · 2026-06-18 · 5 stars; 1 reactions · henny27 (customer)
+**A-063** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · Lyko (Nordic retailer; Lyko's own English auto-translation from sv-SE) · 2026-06-18 · 5 stars; 1 reactions · henny27
 > BEST I’VE TRIED!. Absolutely amazing! So addictive! You really get deep hydration, and these incredible pads I take with me everywhere. I use them in the morning when I wake up, and as soon as I get home and have removed my makeup. A must-have at home.
 Source: https://lyko.com/en/k-beauty/k-beauty-skincare/face/essence/anua-pdrn-100-hyaluronic-acid-glow-pad-180ml
 
@@ -456,6 +496,14 @@ Also about: texture, price/value. Source: https://www.lookfantastic.com/p/biodan
 > Absolutely love these, massive results after just one week.
 Source: https://www.dodoskin.com/products/rejuran-derma-healer-pore-tightening-toner-pad-220ml-60-pads
 
+**R-116** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-25 · 5 stars · iHerb Customer
+> my first pdrn product. not sure if its the pdrn itself or other ingredients but first time i used it I literally had a glow!!!!! beautiful. amazing. the feeling is very nice too. after using a few times maybe the result is not as visible cause I got used to it? lol. packaging is great feeling is great skin loves it.
+Also about: texture. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-117** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-17 · 5 stars · iHerb Customer
+> Diminishes wrinkles while getting ready for the day. You can put these one and they hydrate and minimize appearance of wrinkles.
+Also about: problem, ease of use. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
 **C-050** · *SKIN1004 Madagascar Centella Hyalu-Cica Jelly-Fit Ampoule Pads* · Ulta · 2026-09-08 · 5 stars · seriouslysincerely (Seattle, WA)
 > Great for sensitive skin. My skin hates cream moisturizer; it makes me break out. So I was looking for non-cream products that would hydrate my skin and came across this. Purchased without knowing much about the brand or product but I'm glad I did. I use this when I need extra hydration in the morning or night. Doesn't break me out. It's calming and easy to use (comes with tongs to help remove esch pad). I don't use it daily so I still have plenty of pads left.
 Also about: ease of use. Source: https://www.ulta.com/p/madagascar-centella-hyalu-cica-jelly-fit-ampoule-pads-pimprod2056173
@@ -488,7 +536,31 @@ Also about: ease of use. Source: https://www.ulta.com/p/birch-juice-moisturizing
 > ...I started using a PDRN lotion and in 2 days I saw significant improvements in my eczema and sunburn.
 Also about: problem. Source: https://www.youtube.com/watch?v=XC2OZDLpEJ0
 
-### 5.5 The problem it solved (42 printed here; A 7, R 18, C 17)
+**C-089** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-01-30 · 3 stars · iHerb Customer
+> I used for a while it seemed to work and brightened up my skin well. Stopped using because I am pregnant now. Will definitely buy again later on. No strong scent quality packaging and I love the feeling of the pads as it exfoliates at the same time as brightens gently
+Also about: texture. Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-090** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-31 · 5 stars · iHerb Customer
+> Yes, it does brighten the skin. It has no noticeable scent, which I appreciate. With continued use, my skin looks more radiant and healthy. The pads are gentle and leave my skin feeling refreshed.
+Also about: texture. Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-096** · *PDRN skincare in general (not pads): Medicube PDRN Pink Collagen Capsule Cream* · YouTube creator review (transcript), video jI-e-Y3lZUM ("Viral Medicube PDRN Update - Great Hydration… But What About Firming?") · ~6 months ago · 6,612 views · Ageless Glow Chronicles (creator; channel for skin over 35)
+> I still have this cream. I still use it sometimes, but honestly, not that often. ... And it's the still the same reason, the stickiness. I'm in a humid climate, and even at night, it can feel uncomfortable. Hair sticking to the face, pillow feels like it's glued to my skin. But here is what I genuinely stand by. For hydration, plumpness, that dewy glass skin glow, this cream delivers. ... After 7 days, what I noticed was softer-looking skin, more hydration, more plumpness, a nicer glow. What I did not notice was some dramatic visible firming transformation, and honestly, I also wouldn't expect to see just in 7 days. Real structural changes in a skin takes months and not a week.
+Also about: complaint, texture. Source: https://www.youtube.com/watch?v=jI-e-Y3lZUM
+
+**C-098** · *PDRN skincare in general (not pads): VT PDRN Essence* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~1 year ago · 69 likes · @Forgiven4
+> I purchased VT PDRN Essence because of this video and I love it.  As soon as I put it on my skin I could feel the nourishment and although it felt like it was going to be greasy because of the moisture, my skin just drank it up and it wore so well all day.  I let my mother try it one night and when I woke up the next morning she handed it back and told me she ordered hers she loves it.  Thank you.
+Also about: texture. Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+**C-103** · *PDRN skincare in general (not pads): VT PDRN 100 essence (sample)* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~1 year ago · 31 likes · @morrigancrow9925
+> It's funny how your video just came at the rightest of moments! I just woke up after using my sample of the VT PDRN 100 I had and was like - okay, I think my skin might actually like that! I didn't really expect anything, since samples always can do so much. And I didn't join the PDRN hype, because there's so little research and I mostly am hesitant. But I really might get a bottle after seeing your comparison. ...
+Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+**C-107** · *PDRN skincare in general (not pads): Medicube PDRN Pink Collagen Capsule Cream* · YouTube comment, video YZZ5zK76BrE ("Viral Medicube PDRN 7 Days Later! The Truth About Salmon DNA Capsule Cream") · ~2 months ago · 1 like · @Monique-rose · age/skin: dry and sensitive
+> I’ve been using it at night only and pairing it with booster pro 2 booster mode level 2 for more than a week. I have dry and sensitive skin and result has been pretty good. Nothing comes out in the morning while washing my face with water only means its all absorbed I guess and my skin looks hydrated and radiant. Happy
+Also about: problem. Source: https://www.youtube.com/watch?v=YZZ5zK76BrE
+
+### 5.5 The problem it solved (46 printed here; A 7, R 20, C 19)
 
 Reviews that name the skin problem they bought the pads for: dryness, dullness, fine lines, pores, redness, dark spots and so on. [R]
 
@@ -592,6 +664,14 @@ Also about: texture. Source: https://www.lookfantastic.com/p/biodance-collagen-g
 > I use mediheal one, because my skin is acne prone so this really helps. ❤
 Source: https://www.youtube.com/watch?v=u0boHEpO6EQ
 
+**R-111** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-04 · 5 stars · iHerb Customer
+> PDRN is healing my acne scars that I've had for over 5 years!! I've tried everything including lasers
+Also about: before/after, results/timing. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-120** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-10 · 5 stars · iHerb Customer
+> This one is really good if you have acne problems! Great for sensitivity skin
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
 **C-027** · *Medicube Zero Pore Pad (exfoliating pad)* · Ulta · 2026-10-25 · 5 stars · Lilli (TX)
 > I would buy this product aain.. I've seen this ad about the zero pore pads from medicube everywhere, and it looked legit and seemed to work for everyone, so I decided to give it a shot and see if it would work for me as well. It was around twenty dollars, so I had really hoped it would be well worth the money I spent on it. One side of the pad helps with exfoliation, and the other side is softer and helps lift excess off. Ever since mine came in, I have loved it. It has helped my skin so much with texture and made my skin shine. The zero pore pads have truly transformed my skin after just a few uses; I noticed my pores have actually looked visibly smaller, and my skin feels smoother. It has a very lightweight texture, so it doesn't leave a greasy or heavy feeling afterwards. I think my expectations went through the roof. If I'm honest, I didn't have high hopes for the product. I thought it would be another thing I would buy to try to help my skin, and it would just fail me like all the other products I have bought. It did wonders for my skin, enough for me to want to repurchase another one once I finish my first container. I would truly and honestly recommend this for anyone who is struggling with larger pores and uneven texture like me. This product delivers great results and is definitely a gamechanger for my skincare routine. I would give this product 5 stars!
 Also about: texture, ease of use, price/value. Source: https://www.ulta.com/p/zero-pore-pad-pimprod2053434
@@ -660,7 +740,15 @@ Source: https://www.lookfantastic.com/p/anua-heartleaf-77-clearpad-160ml/1620162
 > I love PDRN skincare! My skin is super dry, and PDRN really helps keep it moisturized without any irritation.
 Source: https://www.youtube.com/watch?v=XC2OZDLpEJ0
 
-### 5.6 Texture and feel (30 printed here; A 11, R 11, C 8)
+**C-092** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-04-13 · 5 stars · iHerb Customer
+> Best thing ever for dark spots And its sooo much softer than the blue one!
+Also about: texture. Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-095** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Lookfantastic UK · 2026-06-21 · 4 stars · Fkay
+> Good if a normal vitamin c is to harsh for your skin
+Source: https://www.lookfantastic.com/p/mediheal-vitamide-brightening-pads-100-pads/17729500/
+
+### 5.6 Texture and feel (38 printed here; A 11, R 17, C 10)
 
 How the pads feel on the face: wet, cool, sticky, thin, gel-like, heavy or light. [R]
 
@@ -752,6 +840,30 @@ Source: https://www.lookfantastic.com/p/biodance-sea-kelp-gel-toner-pads-60-pads
 > Nice pads, feels refreshing and lovely on my skin.
 Source: https://www.lookfantastic.com/p/biodance-vita-niacinamide-gel-toner-pads-60-pads/17710624/
 
+**R-118** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-11 · 5 stars · iHerb Customer
+> Really generous supply of serum. Get a lovely glow after using the toner pads. Fresh face look and feel Feels great, absorbs quickly, mild scent
+Also about: results/timing. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-119** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-27 · 5 stars · iHerb Customer
+> It is so hydrated and long lasting. It is light weight and perfect for summer time.
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-127** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Cult Beauty · 2026-09-15 · 5 stars · Peta
+> I love these toner pads, my skin feels so hydrated and plumped after using them. Nice subtle smell, love that they come with tweezers to pick them up individually and they stick so well to your face
+Also about: ease of use. Source: https://www.cultbeauty.com/p/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70ea/17748312/
+
+**R-128** · *Mediheal Collagen Ampoule Pad* · Cult Beauty · 2026-09-27 · 4 stars · V
+> These are good, lovely to use as a mask, not as wet as the blue ones. Nourishing.
+Also about: ease of use. Source: https://www.cultbeauty.com/p/mediheal-collagen-ampoule-pad-100-pads/17729502/
+
+**R-130** · *Mediheal Watermide Moisture Pad* · Cult Beauty · 2026-05-24 · 5 stars · Jess
+> I’ve long been skeptical about using toner pads in my skincare routine, but this product converted me! I love how hydrating and refreshing they are and that they leave a lovely glow on the skin afterwards.
+Also about: results/timing. Source: https://www.cultbeauty.com/p/mediheal-watermide-moisturise-pad-100-pads/17729498/
+
+**R-135** · *Biodance Bio-Collagen Gel Toner Pads* · YouTube creator review (transcript), video 7nGU-XUbYlU ("Introducing the K-Edit Rating System — First Up: Viral Toner Pads") · ~3 months ago · 508 views · The K-Edit by Helen (creator; says she has over a decade in the beauty industry)
+> The product itself, it is a little bit bulky. It's not travel friendly. It does tend to leak. That can be an issue when you're traveling. ... Toner pads, I think they're a little bit too thin. I wish they were a little bit thicker. Solution wouldn't dry out as fast. ... These thin gel coated pads and they stick pretty well to the skin. ... There's very little to no fragrance. Good for daily use and it leaves the skin feeling pretty plump. For sensory, I would score it 3.8 just because I think it's has that little bit of a sticky feel. ... Even with their claim at 243 daltons, you can't actually use topical collagen from the outside in. ... I do believe that it does what it's intended to do. Even though the firming is temporary, it still does pretty well. ... Oh, it's about $26 for 60 toner pads. I think it's a fair price. So, the final verdict for the Biodance Gel Collagen Toner Pads is 4.0.
+Also about: complaint, price/value, ease of use. Source: https://www.youtube.com/watch?v=7nGU-XUbYlU
+
 **C-022** · *Anua Heartleaf 77 Clear Pad (exfoliating pad, different formula)* · Ulta · 2026-09-30 · 5 stars · Thanh (New York)
 > A refreshing pad for my daily routine. These pads feel gentle and refreshing on my skin. They are easy to swipe on and leave my skin feeling clean, soft, and hydrated without any uncomfortable tightness. I like using them when my skin needs a quick refresh.
 Also about: ease of use. Source: https://www.ulta.com/p/heartleaf-77-clear-pad-pimprod2048930
@@ -784,7 +896,15 @@ Also about: ease of use. Source: https://www.ulta.com/p/heartleaf-77-clear-pad-p
 > Only used once but made my skin feel really soft. Excited to see more results
 Source: https://www.lookfantastic.com/p/anua-heartleaf-77-clearpad-160ml/16201623/
 
-### 5.7 How easy it is to use (23 printed here; A 8, R 9, C 6)
+**C-091** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-14 · 5 stars · iHerb Customer
+> I used it and had so sensitivity issues. It’s gentle yet effective and good for everyday use. Will benefit for Clear skin and smooth if used frequently. Scent is delicate and not overpowering. Good for all ages. Package is sterilized and no concerns of bacteria
+Also about: problem. Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-104** · *PDRN skincare in general (not pads): Anua PDRN serum; Medicube PDRN line* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~9 months ago · 2 likes · @Farrahmoans
+> The Anua pdrn serum sinks into my skin like nothing else! I love it. I hated the medicube one though, it does nothing
+Also about: complaint. Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+### 5.7 How easy it is to use (29 printed here; A 8, R 13, C 8)
 
 How people actually use them: swipe or leave on as a mini mask, with the tweezers, in the fridge, before makeup. [R]
 
@@ -856,6 +976,22 @@ Source: https://www.lookfantastic.com/p/mediheal-watermide-moisturise-pad-100-pa
 > Easy to use and skin feels clean and supple after use
 Source: https://www.lookfantastic.com/p/mediheal-collagen-ampoule-pad-100-pads/17729502/
 
+**R-112** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-21 · 5 stars · iHerb Customer
+> I love this toner pads. It's easy to use. I just put two pads on my face evevry morning and let it soak. The scent is lovely but not too stong, pink colour is so appealing. After use, my skin is plumped and moisturized. It's good for sensitive skin as well.
+Also about: texture, problem. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-113** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-25 · 5 stars · iHerb Customer
+> I bought this product the first time on iherb. It is a very good product with a variety of use. It can be use as a mini mask, moisturizing toner and it's is very convenient to to use. It has a decent fragrance and it is not sticky or thick in texture. It can be use on sensitive skin too.
+Also about: texture. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-114** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-02 · 5 stars · iHerb Customer
+> Great alternative to separate liquid toner and pads. 2 in 1 concept: genius. Really generous supply of serum. Feels great, absorbs quickly, mild scent that dissipates.
+Also about: texture. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-115** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-12 · 5 stars · iHerb Customer
+> Either I wipe my face with 2-3 pads or simply apply them to my forehead and cheeks- I love yet another PDRN product. Since I regularly use PDRN products these toner pads are great!
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
 **C-080** · *Toner pads in general* · YouTube comment, video zizDIe5rs4s ("Brutally Rating Korean Toner Pads") · ~1 year ago · 1 like · @rosemary5005 (Sweden)
 > My favourite toner pads are probably (in no particular order): DermaPlan from The Saem - unfortunately though, I believe these have been discontinued 😢 ... Carrot Carotene, Calming Water Pad from SkinFood. Heart leaf Toner Pad from Abib (the big green jar). I've also had really nice pads from VT ... One I really really liked had hyaluronic acid and cica, plus there were some salicylic acid in there as well.
 Source: https://www.youtube.com/watch?v=zizDIe5rs4s
@@ -880,7 +1016,15 @@ Source: https://www.youtube.com/watch?v=PEpiVhBo_g8
 > Does this have the scratchy beads like the old aveeno or old gold container ROC pads? The exfoliating in those old pads were the best👍
 Source: https://www.youtube.com/watch?v=u0boHEpO6EQ
 
-### 5.8 Complaints and failures (45 printed here; A 14, R 20, C 11)
+**C-093** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-03-22 · 4 stars · iHerb Customer
+> There is a lot of product in each pad. Plus, the pads are fairly large, so you can place a few of them on your face as a mask or use one to tone and spread across it. I do the latter; it works well for me. The packaging is nice, and the other pads are equally nice.
+Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-106** · *PDRN skincare in general (not pads): Medicube PDRN Pink Collagen Capsule Cream* · YouTube comment, video YZZ5zK76BrE ("Viral Medicube PDRN 7 Days Later! The Truth About Salmon DNA Capsule Cream") · ~11 months ago · 33 likes · @nj-fw6px · age/skin: normal to dry, moderately sensitive
+> Hello, thanks for your honest review on this Medicube Salmon DNA PDRN Cream. My advice to all, who have normal to dry to very dry skin, but not too sensitive! Lightly wet or moisten your face with plain water, using a fine sprayer! Actually, before using any kind of moisturizer! Rather than applying  the moisturizer in a completely dry skin! I have tested using even the oiliest moisturizer, as I have normal/dry and moderately sensitive skin! Believe me! This Medicube cream can do wonders without any stickyness, if used on moistened face! It absorbs very well and works magic with it's claimed humectant properties, including softness and glow! Or without any sensitive skin issues!
+Also about: texture, problem. Source: https://www.youtube.com/watch?v=YZZ5zK76BrE
+
+### 5.8 Complaints and failures (55 printed here; A 14, R 24, C 17)
 
 Reviews that are 3 stars or lower, or that name a clear downside. The common ones: too wet or sticky, "pilling" (the product rolls into little crumbs when you put something on top), leaking jars, and "it didn't do much". [R]
 
@@ -889,7 +1033,7 @@ Reviews that are 3 stars or lower, or that name a clear downside. The common one
 Also about: before/after, results/timing, problem, texture, ease of use. Source: https://www.ulta.com/p/pdrn-100-hyaluronic-acid-glow-pad-pimprod2052157
 
 **A-068** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · YouTube creator review (transcript), video kS1WP6_g18k ("Are Anua PDRN Glow Pads Worth It? | Korean Toner Pads Review + Ingredient Truth") · not shown · 1,400 views · creator
-> For starters, I absolutely hate the packaging. The minute you open it, the serum it spills out everywhere and I absolutely hate that. Coming to the product, I absolutely love these. They stay on the skin for almost 15 to 20 minutes, so you can actually use them like mini sheet masks. ... technically, you're not getting any collagen or PDRN in the packaging. But surprisingly, why I really like these ones is because ... you will see niacinamide mentioned as a third ingredient ... it's very hydrating for your skin, very soothing and it evens out your skin tone. I would really appreciate if brands would market the hero ingredient rather than what's really trendy on social media.
+> For starters, I absolutely hate the packaging. The minute you open it, the serum it spills out everywhere and I absolutely hate that. Coming to the product, I absolutely love these. They stay on the skin for almost 15 to 20 minutes, so you can actually use them like mini sheet masks. ... technically, you're not getting any collagen or PDRN in the packaging. [she estimates PDRN at around 1%; the level Anua publishes is 100 ppm, which is 0.01%] But surprisingly, why I really like these ones is because ... you will see niacinamide mentioned as a third ingredient ... it's very hydrating for your skin, very soothing and it evens out your skin tone. I would really appreciate if brands would market the hero ingredient rather than what's really trendy on social media.
 Also about: ease of use. Source: https://www.youtube.com/watch?v=kS1WP6_g18k
 
 **A-036** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-13 · 5 stars · iHerb Customer
@@ -1020,6 +1164,22 @@ Source: https://www.lookfantastic.com/p/biodance-collagen-gel-toner-pads-60-pads
 > Looks the same to me
 Source: https://www.youtube.com/watch?v=2t9UeE4XZcs
 
+**R-121** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-19 · 5 stars · iHerb Customer
+> It contains retinol! It’s great for exfoliating but it’s not that gentle not the absolute best for daily use for sensitive skin maybe a few times a week it moisturizer
+Also about: problem, ease of use. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-122** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-03 · 4 stars · iHerb Customer
+> Was expected more in the package. The container is large but not much pad inside.
+Also about: price/value. Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-123** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-28 · 3 stars · iHerb Customer
+> Not that good as I thought.. didn’t do anything to my skin
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-124** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-06 · 3 stars · iHerb Customer
+> Was ok but not the best like other pads from their brand
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
 **C-031** · *Medicube Zero Pore Pad (exfoliating pad)* · Ulta, shown as "most helpful positive" review · not shown · not shown · not shown
 > No breakouts?!?. Ive been using these pore pads for about 2 months now (2-3x per week) and im pmeasantly surprised with results! For reference, my skincare routine is MINIMAL due to my skin being acne-prone and panicky when new ingredients are introduced. I use a fragrance free moisuizing bar soap for cleansing (yes I know thats terrible, but "cleansers" cause breakouts on me), these pore pads, and a ceramide moisturizer before bed (still searching for a good one for long term use itherwise I'd list it here). After 3 uses of these pore pads, me and my husband both noticed a reduction in the prominance of my nose blackheads. After 2 months, I still feel like the blackheads and pores are shrinking, albeit VERY slowly. This was not an overnight success so know that you should try it for a long period befoe making a judgement. One thing I wish Id realized before starting use was that it really does need a moisturizer to follow it. The first two times I used it I didnt follow with a moisturizer and it dried my skin WAY out. But after pausing use and moisturizing for the next few days I was able to restart using the pads (+ a moisturizer) without dryness. I am extremely prone to breakouts (one day of foundation and my clear skin is toast) and so my biggest concern was that this would break me out. It didnt. In fact, I've been using it to help clear breakouts caused by occasional makeup use. I do believe I'll be purchasing again.
 Also about: before/after, results/timing, problem, texture, ease of use. Source: https://www.ulta.com/p/zero-pore-pad-pimprod2053434
@@ -1064,7 +1224,31 @@ Source: https://www.youtube.com/watch?v=Jwz-9QXmDq4
 > Hard to say about this product, have been using for 4 weeks but I haven’t noticed any difference on my sking
 Also about: results/timing. Source: https://www.lookfantastic.com/p/anua-heartleaf-77-clearpad-160ml/16201623/
 
-### 5.9 Price and value (8 printed here; A 4, R 2, C 2)
+**C-094** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-02-28 · 3 stars · iHerb Customer
+> not something i would buy again. there are better products out there for brightening the skin.
+Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-099** · *PDRN in general (not pads): Rejuran skin-booster injections and topical PN* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~1 year ago · 19 likes · @mspak182 (says she works for one of the brands in the video)
+> As a person who has done rejuran skin booster at least 20 times in the past 3 years and as a person who works for one of the brands that you mention…. I swear everything is a scam. Now you can just pay money and request a factory to create a formula for you. Injectable PN is useless for ani aging, topical is also useless.. unless you use it literally as a regenerative treatment after your laser. It does speed up the recovery
+Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+**C-101** · *PDRN skincare in general (not pads): VT Cosmetics PDRN spray (she calls it "Glow Ampoule spray")* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~10 months ago · 3 likes · @AprilB12
+> Thank you for this informative video. I’m late to the PDRN Party but I got the VT Cosmetics Glow Ampoule spray. Some of the products you reviewed have Isopropyl Myristate as the second or third ingredient and it’s highly comedogenic. Can’t say I see much as far as an improvement in my skin but it doesn’t break me out so I’m happy. 😂 I guess the jury is still out for me. ❤
+Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+**C-102** · *PDRN skincare in general (not pads): VT PDRN serum* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~1 year ago · 6 likes · @Basticio
+> Alice this video is really useful. As of now I can’t decently buy a PDRN product because there is SO MUCH other active ingredients in those formulas that I’m like "Is PDRN actually doing anything". In the VT serum for example without it it’s already an excellent and very effective product so…. 😂
+Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+**C-105** · *PDRN skincare in general (not pads): Anua PDRN serum* · YouTube comment, video NDISNKCqxI4 ("VIRAL Korean Skincare Products from ANUA — Are They Worth It?") · ~1 year ago · 1 like · @zoeberry33
+> I used an entire bottle of the pdrn. While it felt good, I'm uncertain whether it actually did anything
+Source: https://www.youtube.com/watch?v=NDISNKCqxI4
+
+**C-108** · *PDRN skincare in general (not pads): Medicube PDRN Pink Collagen Capsule Cream* · YouTube comment, video YZZ5zK76BrE ("Viral Medicube PDRN 7 Days Later! The Truth About Salmon DNA Capsule Cream") · ~5 months ago · 13 likes · @StyledBeyond60 (the name suggests over 60; no age is stated)
+> Finally an honest review instead of overhyping the product 👏 The hydration looks amazing, but thank you for mentioning the stickiness too!
+Also about: texture. Source: https://www.youtube.com/watch?v=YZZ5zK76BrE
+
+### 5.9 Price and value (16 printed here; A 4, R 4, C 8)
 
 Mentions of price, value, buying again, or the jar lasting a long time. [R]
 
@@ -1092,6 +1276,14 @@ Source: https://www.lookfantastic.com/p/biodance-collagen-gel-toner-pads-60-pads
 > Thank you for the review. I am in Thailand right now and got them for half price from Watsons (30€ for 2 boxes). I am so happy I get to try them.
 Source: https://www.youtube.com/watch?v=J954o3uiHVk
 
+**R-129** · *Mediheal Collagen Ampoule Pad* · Cult Beauty · 2026-04-07 · 5 stars · Lyndsb
+> I bought these on boots and repurchased with Cult Beauty - I cannot be without these! I use them everyday. They are so refreshing and leave my skin looking so glowy and fresh. Highly recommended as an addition to anyone’s skincare routine.
+Also about: results/timing. Source: https://www.cultbeauty.com/p/mediheal-collagen-ampoule-pad-100-pads/17729502/
+
+**R-136** · *Mediheal collagen pad with retinol (she calls it "Mediheal's collagen firming pad", 100 pads; the exact product name is not said)* · YouTube creator review (transcript), video 7nGU-XUbYlU ("Introducing the K-Edit Rating System — First Up: Viral Toner Pads") · ~3 months ago · 508 views · The K-Edit by Helen (creator)
+> This is a toner pad version that includes 100 toner pads per container. So, the promise for this product is firmer skin, fewer lines, and more elasticity. ... I do like the bigger pads, but I don't like the texture of the pads as much. ... It has a light scent, which is pleasant. However, I can't give it too much points because this is a daily use product, and we don't really want products that are too fragrance loaded. ... The collagen here is a plant-derived collagen, which is vegan collagen, also known as the carrot collagen. It works by hydrating your skin, but it doesn't actually build the collagen. And the firming that comes from this product is really from the peptides and retinol. ... this product contains retinol, so it should be used at night and you should put SPF on the next morning. ... It's about $24 for 100 pads, which obviously you get the most bang for your buck. So, if you want no-fuss hydration and quantity is your priority, then this is a product that you can go for. ... So, the final verdict for Mediheal's collagen firming pad is 3.8.
+Also about: texture, complaint, ease of use. Source: https://www.youtube.com/watch?v=7nGU-XUbYlU
+
 **C-052** · *PDRN skincare in general (serums, essences, creams; not pads)* · YouTube comment, video XC2OZDLpEJ0 ("PDRN Skincare: The Science Behind the Hype") · not shown (earlier pull) · 541 likes · @1984musicman
 > Summary: No clinical data in support of this product, but she would repurchased as a quality moisturiser.
 Source: https://www.youtube.com/watch?v=XC2OZDLpEJ0
@@ -1100,7 +1292,31 @@ Source: https://www.youtube.com/watch?v=XC2OZDLpEJ0
 > Second purchase, give a really good glow to the skin and keep it clear. Wouldn't be without it now.
 Source: https://www.lookfantastic.com/p/medicube-zero-pore-pad-mild-70pcs/16858550/
 
-### 5.10 Short, general praise (49 printed here; A 10, R 18, C 21)
+**C-085** · *Torriden Balanceful Toner Pad (calming, gently exfoliating pad)* · YouTube creator review (transcript), video 7nGU-XUbYlU ("Introducing the K-Edit Rating System — First Up: Viral Toner Pads") · ~3 months ago · 508 views · The K-Edit by Helen (creator)
+> So, this is not a glow pad. It's a calming and clarifying pad. ... This toner pad has two sides, one that's embossed and the other that's smooth for dual functions. ... The main thing I don't like about this product packaging is that container itself is quite large. ... There's five types of centellas to calm your skin. There's gentle LHA and PHA acid to gently exfoliate your skin. Plus, there's panthenol and hyaluronic acid to moisturize your skin as well. ... because it is a gentle exfoliate, it's not necessarily the best for daily use, and I wouldn't use it every day, especially if you have sensitive skin. ... This product is about 20 to $26, and it has 60 large pads. I think it's a very fair price.
+Also about: problem, ease of use, complaint. Source: https://www.youtube.com/watch?v=7nGU-XUbYlU
+
+**C-086** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2025-12-26 · 4 stars · iHerb Customer
+> Scent is so refreshing and it’s nice and cool when you use it before your morning/night routine. Didn’t brighten my face but it did moisturise it. Each sheet is so thin that the package will last you a long time.
+Also about: texture, complaint. Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-087** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-04-23 · 3 stars · iHerb Customer
+> Good quality and good size, not really beneficial, its nice in the face and gentle and has a good scent and good amount of use but i have one concern its not really worth it
+Also about: complaint, texture. Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-088** · *Mediheal Vitamide Brightening Pad (brightening pad, not PDRN)* · Vitacost (reviews labelled "iHerb Customer") · 2026-03-17 · 5 stars · iHerb Customer
+> Excellent additive, liked the quality, liked the price and packaging, I advise you to buy!
+Source: https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620
+
+**C-100** · *PDRN skincare in general (not pads): Heveblue salmon PDRN cream* · YouTube comment, video wfZpcHv8Mo0 ("I Tried PDRN Products for 4 Months All to Tell You THIS?!") · ~1 year ago · 8 likes · @meganhickey6442 · age/skin: rosacea, combination skin
+> As someone with rosacea and a combo skin type, I LOVE the heveblue cream. I’m not sure the PDRN is doing anything but I love the formula - it’s so soothing, hydrating, helps a bit with redness and it doesn’t feel too heavy or clog my pores. I’m on my 2nd bottle and just ordered a 3rd one when it was on sale…I’ve only ever bought it on sale lol
+Also about: problem, texture. Source: https://www.youtube.com/watch?v=wfZpcHv8Mo0
+
+**C-110** · *Toner pads in general (comment under a Short about an Anua PDRN routine; the product is not named)* · YouTube comment, video 9eTanSpOMcc ("I Tested PDRN (Salmon DNA) Skincare for Anti-Aging! ANUA Routine for Sensitive Skin | K-Beauty") · ~9 months ago · not shown · @michellem7649
+> Cost a lot to use that many on a daily basis. Serum would be more cost effective. Would like to try them though and use 1 a day.
+Source: https://www.youtube.com/watch?v=9eTanSpOMcc
+
+### 5.10 Short, general praise (53 printed here; A 10, R 22, C 21)
 
 Short reviews that only say they love it, with no detail. Kept for the count. [R]
 
@@ -1215,6 +1431,22 @@ Source: https://www.lookfantastic.com/p/mediheal-collagen-ampoule-pad-100-pads/1
 **R-029** · *Biodance Hydro Cera-nol Gel Toner Pads* · Lookfantastic UK · 2026-06-27 · 5 stars · :))
 > Great product especially for oily skin types !!!!!
 Source: https://www.lookfantastic.com/p/biodance-cera-nol-gel-toner-pads-60-pads/17710628/
+
+**R-125** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-05-21 · 5 stars · iHerb Customer
+> Adding this to my nighttime routine was a bingo. There toner pads are amazing. Skin is so soft, glowie and nourished, . I am obsessed with these.
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-126** · *Medicube PDRN Pink Collagen Toning Gel Toner Pad* · Vitacost (reviews labelled "iHerb Customer") · 2026-06-21 · 5 stars · iHerb Customer
+> They feel amazing & my skin looks radiant after I use it !
+Source: https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376
+
+**R-131** · *Mediheal Watermide Moisture Pad* · Cult Beauty · 2026-10-05 · 5 stars · Aggy
+> My skin glows after this product. You can also use it as sheet mask.
+Source: https://www.cultbeauty.com/p/mediheal-watermide-moisturise-pad-100-pads/17729498/
+
+**R-132** · *Mediheal Watermide Moisture Pad* · Cult Beauty · 2026-09-27 · 5 stars · V
+> Love these, great to use as a mask, lovely and wet.
+Source: https://www.cultbeauty.com/p/mediheal-watermide-moisturise-pad-100-pads/17729498/
 
 **C-004** · *Anua Heartleaf 77 Clear Pad (exfoliating pad, different formula)* · Lookfantastic UK · 2026-04-02 · 5 stars · Hannah
 > Helped with small bumps! These have helped my skin tremendously, been trying to find a way for gentle exfoliation for a while and these are so soothing and I had no purging which for me is incredible considering my skin is so sensitive.

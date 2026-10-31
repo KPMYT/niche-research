@@ -2,7 +2,9 @@
 
 Product 1: **Luxe Conditioning Peptide Mascara** (Amazon B0GSXJCZ93; sold on luxe.com, which is the same shop as luxecosmetics.us, and on Luxe's UK, Australian and other country shops). This file is the "reviews" half of pack 1. The explainer half is `packs/01-mascara-pack.md`.
 
-Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cosmetics/data/reviews/mascara/`.
+Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cosmetics/data/reviews/mascara/`. The Amazon search-snippet figures have **unknown capture dates** (the search engine does not say when it read the page).
+
+**Finishing pass, 2026-10-31.** A second helper checked this file (`checks/packs/01-mascara-pack-check.md`). Its fixes are applied here: theme P6 re-counted, missing YouTube dates and likes filled from a NexLev re-pull, cut quotes marked with "…", more words explained, Luxe's UK shop-wide review feed searched, and Amazon review text from search snippets added. Total is now **287** (#1–#287).
 
 **Labels:** **[M]** = measured (copied from a page or feed, or counted by me from pulled data). **[R]** = my reading. "not found" = I looked and found nothing.
 
@@ -23,23 +25,57 @@ Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cos
 | Hooded eyes | When the skin above the eye folds down over the eyelid, often more with age, so there is little visible lid. |
 | Primer | A first coat put on before mascara to help it grip or add length. |
 | Holy grail | Beauty slang for "the best one I have ever found". |
+| Drugstore | Cheap brands sold in supermarkets and chemists (pharmacies), e.g. Maybelline, Essence, e.l.f. The opposite is "high end" or "prestige" (department-store brands). |
+| Review box (review widget) | The block of customer reviews at the bottom of a shop's product page. Judge.me and Yotpo are two companies that run these boxes for online shops; the reviews here were read from the same public data the box loads. |
+| Verified buyer | A mark the review box adds when it can match the review to a real order in that shop. "Not marked verified" means the box did not add that mark. |
+| Incentivised review | The reviewer got something (a free product, a discount, points) in return for the review. Some review boxes mark these. |
+| Lash extensions | Single fake lashes glued one by one onto your own lashes by a beautician. They last a few weeks. |
+| Lash lift | A home or salon treatment that curls your own lashes with a lotion, like a perm for lashes. Lasts weeks. Luxe's best-known product is a lash-lift kit. |
+| Lash tint | A dye that darkens your own lashes for a few weeks, so they show without mascara. |
+| Eye makeup remover | A liquid or oil made to dissolve eye makeup. "Oil-based" removers and cleansing oils or balms dissolve waterproof mascara. Micellar water is a water-like remover used on a cotton pad. |
+| Foundation | A skin-coloured cream or liquid spread over the face to even out the skin's colour. |
+| Primer (eyeshadow primer) | A thin base put on the eyelid first so makeup on top stays put and does not crease or smudge. |
+| Eyeliner | A pencil or liquid used to draw a line along the lash line. |
+| Menopause / hot flashes | The time, usually around 45–55, when a woman's periods stop. Hot flashes (hot flushes) are sudden waves of heat and sweating that often come with it. |
 
-**A note on the sources.** Amazon blocks automated page loads from this machine, so no Amazon review text was collected (only star averages from search snippets, in the round-1 report). Reddit is blocked too. When I tried to load PrimeLash's review feed (Stamped app), the permission system stopped the request. I did not retry it or try another way. Details are in section 6.
+**Words inside the quotes** (things reviewers mention without explaining):
+
+| Word in a quote | What it means |
+|---|---|
+| LLE | Short for Thrive's "Liquid Lash Extensions" mascara (#82 and others). |
+| Brynn, Crystal, Elena, Mulberry | Names of Thrive's mascara colours (Brynn = black, Crystal = brown-black; Elena and Mulberry are softer or coloured shades). |
+| Carmine | A red dye made from crushed insects. Some people react to it (#176). |
+| EWG | Environmental Working Group, a US group that rates cosmetic ingredients on its website. |
+| Spoolie | A clean, dry mascara-style brush used to comb lashes or brows. |
+| Upper blepharoplasty | Eyelid surgery that removes extra skin from the upper lid (#84). |
+| SM platform | Social media (Instagram, TikTok and so on). |
+| Wirecutter | A product-review website run by The New York Times (#111). |
+| Ipsy bag | A monthly subscription bag of beauty samples (#166). |
+| "Ulta's raincoat" | A clear waterproof top coat painted over mascara, sold by the US shop Ulta (#166). |
+| CSR | Customer service representative (#144). |
+| GF | Girlfriend (here, a female friend) (#94). |
+| Pink-Eye | Conjunctivitis, an eye infection that makes the eye look red or pink (#108). |
+| Formaldehyde | A preservative chemical some people are allergic to (#100). |
+| Volumizer | A mascara made to make lashes look thicker. |
+| Hypothyroidism | An underactive thyroid gland; it can thin the hair, brows and lashes. |
+| Caliray, Beaubble, DHC, Haus Labs, Tower 28, Trish McEvoy | Smaller mascara brands named by reviewers. |
+
+**A note on the sources.** Amazon blocks automated page loads from this machine, so Amazon pages were not loaded. Six web searches found only one line of Amazon review text (#287), plus star averages. Reddit is blocked too. When I tried to load PrimeLash's review feed (Stamped app), the permission system stopped the request. I did not retry it or try another way. Details are in section 6.
 
 ---
 
 ## 1. What the reviews tell us (simple English)
 
-1. **There is very little independent review text about the Luxe mascara itself.** Every Luxe review with words in it sits on Luxe's own shops: **80 reviews** [M]. Amazon shows only star averages: **4.0 stars from 73 ratings (UK)** and **3.6 stars from 93 ratings (Canada)**, from search snippets taken in round 1 (date of capture unknown) [M, snippet]. No YouTube video comment reviews the Luxe mascara: the one Luxe Short found (f4uAyWYG5dQ) has 2 comments, and neither is a review [M].
+1. **There is very little independent review text about the Luxe mascara itself.** Almost every Luxe review with words in it sits on Luxe's own shops: **80 reviews** [M]. Amazon shows mostly star averages: **4.0 stars from 73 ratings (UK)** and **3.6 stars from 93 ratings (Canada)**, from search snippets (date of capture unknown) [M, snippet]. The only Amazon review text found is one line: "A great mascara that does not clump and is a pretty color" (#287) [M, snippet]. Luxe's UK shop-wide review feed was searched too: it holds no mascara reviews (its reviews are of lash-lift kits, tints, serums and other products), but 29 of them talk about mascara (8 quoted here as #279–#286) [M]. No YouTube video comment reviews the Luxe mascara: the one Luxe Short found (f4uAyWYG5dQ) has 2 comments, and neither is a review [M].
 2. **What Luxe's own reviews say** (all 4 or 5 stars): it **stays put with no black smudges** (39 of 80 mention this), it makes **thin, short lashes look longer and fuller** (35), it **does not sting sensitive or watery eyes** (13 say so outright), it **survives water, heat, tears and sweat** (20: a funeral, a pool, a 110-degree day, hot flashes), and the **skinny wand** reaches the small corner lashes and suits shaky hands. Four reviews name a downside: it needs a proper makeup remover or effort to take off (2), the tube is small, and there is no navy colour [M].
-3. **How much weight to give the Luxe reviews:** only 1 of the 80 is marked "verified buyer" by the review app, and 73 of them were posted one to three days apart between 2025-08-26 and 2026-02-21, almost all in the same lower-case style [M]. [R] Treat them as the brand's own page text, not as checked buyer opinion. Most of them sit on the **waterproof** listing (78 of 80), so their praise for "waterproof" and "needs a remover" may not describe the warm-water conditioning version.
+3. **Where the Luxe reviews come from:** all 80 are from Luxe's own shop pages, and 78 of them sit on the **waterproof** listing [M]. So their praise for "waterproof" and "needs a remover" may describe the waterproof version, not the warm-water conditioning version [R]. They are also short: none is longer than 295 characters (about three lines; average 162) [M], so the long, story-style reviews in this file come from rival shops and YouTube.
 4. **Real buyer reviews are plentiful for the rivals, and they come from older women.** Thrive Liquid Lash Extensions has **50,508 reviews on its own site, average 4.46 stars** [M]. In the 1,000 five-star Thrive reviews pulled, **695 of the 968 that give an age are 55 or over (72%), and 423 are 65 or over (44%)** [M]. In 300 one-star Thrive reviews, 172 of 260 with an age are 55+ (66%) [M]. [R] The person who writes about tubing mascara is, most of the time, a woman over 55.
-5. **The number-one thing older women want is no smudging** (85 reviews mention it). They describe years of black marks under the eyes: "Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes" (#249, age 66). The tubing type is what fixes it for most of them.
+5. **The number-one thing older women want is no smudging** (86 reviews mention it). They describe years of black marks under the eyes: "Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes" (#249, age 66). The tubing type is what fixes it for most of them.
 6. **The second is easy removal without rubbing** (62 reviews). “With my older skin scrubbing is a big "no-no".” (#98). An eye nurse (140 likes) warns not to rub the eyes at all; the tubes come off with water (#197).
 7. **Third: sensitive, watery or dry eyes** (25 reviews describe the problem; 25 say a product did not irritate them). Many had stopped wearing mascara because of itching or tears, then found a tubing formula that did not sting (#92, #96).
 8. **What goes wrong (64 complaint reviews, almost all about rivals):** clumping when a second coat goes on after the first has dried; flaking after a few weeks as the tube dries out; lashes that **droop or lose their curl**; a look that is **too thin for very sparse lashes** ("it didn't work on my 67 year old lashes", #83); smearing in rain, tears or humidity; and, for some, hard removal. Side effects caused by the product are rare in this sample (5): lash breakage after sleeping in it, swollen lids, itching and burning, and bits getting into the eye during removal.
-9. **Women over 60 have extra problems** that younger reviewers never mention: hooded lids that catch the mascara, shaky or arthritic hands, poor close-up eyesight after cataract surgery, and lashes that are now grey, thin or gone. 15 reviews describe giving up mascara, or nearly giving up, before finding one that worked (or not).
-10. **Price matters.** 33 reviews talk about price. Thrive costs about $26 and many say a $5 to $12 drugstore tubing mascara (Essence, e.l.f., Milani, Maybelline Sky Tubes) works as well: "I don't want to spend over $25 for mascara especially when we need to replace them every 3 months" (#222, 190 likes).
+9. **Women over 60 have extra problems** that younger reviewers never mention: hooded lids (skin folding down over the eyelid) that catch the mascara, shaky or arthritic hands, poor close-up eyesight after cataract surgery (an operation to replace the clouded lens inside the eye), and lashes that are now grey, thin or gone. Hooded lids, hands and eyesight come up in 7 reviews (theme P6) [M]. 15 reviews describe giving up mascara, or nearly giving up, before finding one that worked (or not).
+10. **Price matters.** 34 reviews talk about price. Thrive costs about $26 and many say a $5 to $12 drugstore (cheap supermarket or chemist brand) tubing mascara (Essence, e.l.f., Milani, Maybelline Sky Tubes) works as well: "I don't want to spend over $25 for mascara especially when we need to replace them every 3 months" (#222, 190 likes).
 11. **"How long did it take?"** Mascara works the moment it goes on, so reviews never talk about weeks to see results. The time words are about **wear time** (all day, 12 hours, 15 hours, "7am to 9pm") and **tube life** (it dries out or starts to flake after 45 days to 2 or 3 months).
 12. **PrimeLash ("mascara for older women")**: only 2 YouTube comments and three passing mentions were found, because its review feed could not be loaded (section 6). Two of the mentions say it was dry or harder to remove than promised (#82, #178); one Luxe page review says Luxe was "better" (#45).
 
@@ -47,7 +83,7 @@ Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cos
 
 ## 2. What was collected
 
-**278 reviews and comments in total**, each quoted word for word in section 5 [M].
+**287 reviews and comments in total**, each quoted word for word in section 5 [M]. (278 in the first pass; #279–#287 added in the finishing pass.)
 
 ### 2a. By source
 
@@ -60,14 +96,16 @@ Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cos
 | Rival brands' own sites (Yotpo review widget): blincinc.com | 12 |
 | Rival brands' own sites (Yotpo review widget): grandecosmetics.com | 9 |
 | Rival brands' own sites (Yotpo review widget): tartecosmetics.com | 6 |
+| Luxe's UK shop, shop-wide review feed (Judge.me): reviews of Luxe lash-lift kits that talk about mascara (finishing pass) | 8 |
+| Amazon US, one line seen in a web-search snippet (finishing pass) | 1 |
 
 ### 2b. By exact product (in order of preference from the brief)
 
 | Product | Reviews | Of these, from women over 50 |
 |---|---|---|
-| Luxe Conditioning Peptide Mascara | 80 | 15 |
+| Luxe Conditioning Peptide Mascara | 81 | 15 |
 | Thrive Liquid Lash Extensions | 62 | 46 |
-| Category (mascara or tubing mascara in general) | 46 | 12 |
+| Category (mascara or tubing mascara in general) | 54 | 12 |
 | Maybelline Sky High / Sky Tubes | 18 | 2 |
 | Blinc Original Tubing | 13 | 1 |
 | Several brands compared in one comment | 13 | 0 |
@@ -80,7 +118,7 @@ Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cos
 | e.l.f. Lash Xtndr tubing | 2 | 0 |
 | L'Oréal (Double Extend, Voluminous, Lash Paradise, Telescopic) | 2 | 0 |
 
-"Several brands compared" = one comment that judges two or more brands side by side. "Category" = a comment about mascara or tubing mascara in general, with no single product named.
+"Several brands compared" = one comment that judges two or more brands side by side. "Category" = a comment about mascara or tubing mascara in general, with no single product named. The 8 UK-shop reviews (#279–#286) are reviews of Luxe's lash-lift kit, not of the mascara; they are counted as "Category" because what they say is about mascara in general.
 
 ### 2c. Star averages on each brand's own shop [M]
 
@@ -91,6 +129,7 @@ Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cos
 | Luxe, Australian shop, Conditioning listing | 2 (the same review twice) | not shown | 2 | 0 | 0 | 0 | 0 |
 | Luxe, Australian shop, Waterproof listing | 0 | | | | | | |
 | Luxe, UK shop, Waterproof listing (the UK shop sells no non-waterproof mascara) | 0 | | | | | | |
+| Luxe, UK shop, all products (shop-wide feed, finishing pass) | feed says 4,631; it served 911 rows (518 different reviews) before returning empty pages | not shown | 824 rows | 79 | 3 | 0 | 5 |
 | Luxe, luxecosmeticslashes.com | no review app on the page | | | | | | |
 | Luxe, luxeresearchlab.com, luxecosmetics.de, luxecosmetics.nl | the mascara is not sold there | | | | | | |
 | Thrive Liquid Lash Extensions (Yotpo) | 50,508 | 4.46 | 39,366 | 3,329 | 2,544 | 2,138 | 3,131 |
@@ -99,7 +138,7 @@ Everything here was pulled on **2026-10-31**. Raw pulls are in `studies/luxe-cos
 | Blinc Original Tubing (Yotpo) | 317 | 4.68 | 265 | 28 | 8 | 5 | 11 |
 | PrimeLash (Stamped) | page shows "14156" reviews | not loaded (section 6) | | | | | |
 
-Amazon (from round-1 search snippets, capture date unknown): Luxe B0GSXJCZ93 UK 4.0★ (73), Canada 3.6★ (93) [M, snippet].
+Amazon (from search snippets, capture date unknown): Luxe B0GSXJCZ93 UK 4.0★ (73), Canada 3.6★ (93); the waterproof listing B0G65JT2QJ: US 3.0★ (8), Canada 2.6★ (16) [M, snippet]. The UK shop-wide star counts above are of rows served, which include repeats [M].
 
 Two notes [M]: Thrive's and Tarte's review widgets list 5-star reviews first, so the 1,000 Thrive and 500 Tarte reviews pulled in default order are all (or almost all) 5-star. The 1-, 2- and 3-star Thrive reviews were pulled separately, with the widget's own star filter. Grande's widget marks 61 of its 993 reviews as incentivised (the reviewer got something in return) and Tarte's marks 158 of the 500 pulled.
 
@@ -118,7 +157,7 @@ Some rival shops ask reviewers to tick an age box. Counts are from the pulled re
 | Tarte, 500 in default order | 81 | 109 | 115 | 122 | 57 | 16 | **37%** |
 | Grande, all 993 (2017 to 2026) | 408 | 104 | 94 | 130 | 111 | 146 | **28%** |
 
-[R] Thrive is the mascara older women review most; Grande's reviewers are much younger. Of the 278 reviews quoted here, **94** are from women who give an age of 50 or more, tick 55+, or call themselves mature, older or menopausal.
+[R] Thrive is the mascara older women review most; Grande's reviewers are much younger. Of the 287 reviews quoted here, **94** are from women who give an age of 50 or more, tick 55+, or call themselves mature, older or menopausal.
 
 ---
 
@@ -128,42 +167,42 @@ Some rival shops ask reviewers to tick an age box. Counts are from the pulled re
 
 | Code | Theme | All | Luxe | Rivals | Category | Method |
 |---|---|---|---|---|---|---|
-| P1 | Smudging, "raccoon eyes" (black smudges under the eye), staying put | **85** | 39 | 38 | 8 | keyword |
+| P1 | Smudging, "raccoon eyes" (black smudges under the eye), staying put | **86** | 39 | 38 | 9 | keyword |
 | P2 | Taking it off: easy or hard | **62** | 3 | 47 | 12 | keyword |
 | P3 | Sensitive, watery or dry eyes; contact lenses | **25** | 9 | 13 | 3 | keyword |
-| P4 | Short, thin, sparse, pale or "invisible" lashes | **47** | 16 | 27 | 4 | keyword |
-| P5 | Curl: straight lashes, lashes that droop or lose their curl | **22** | 3 | 14 | 5 | keyword |
-| P6 | Hooded lids (skin folding down over the lid), shaky hands, poor eyesight | **11** | 4 | 5 | 2 | keyword |
-| T1 | Results: longer, fuller, darker, separated lashes | **102** | 35 | 61 | 6 | keyword |
+| P4 | Short, thin, sparse, pale or "invisible" lashes | **49** | 16 | 27 | 6 | keyword |
+| P5 | Curl: straight lashes, lashes that droop or lose their curl | **29** | 3 | 14 | 12 | keyword |
+| P6 | Hooded lids (skin folding down over the lid), shaky hands, poor eyesight | **7** | 4 | 1 | 2 | keyword, then hand-checked |
+| T1 | Results: longer, fuller, darker, separated lashes | **103** | 36 | 61 | 6 | keyword |
 | T2 | Time: how long it lasted on the face, or how long they have used it | **88** | 23 | 55 | 10 | keyword |
 | T3 | Texture and feel (wet, dry, light, heavy, stiff, soft) | **77** | 18 | 44 | 15 | keyword |
-| T4 | Ease of use: the wand (the little brush), applying coats | **58** | 15 | 38 | 5 | keyword |
+| T4 | Ease of use: the wand (the little brush), applying coats | **59** | 15 | 38 | 6 | keyword |
 | T5 | Complaints and failures | **64** | 4 | 58 | 2 | hand |
 | T6 | Side effects caused by the product reviewed | **5** | 0 | 5 | 0 | hand |
 | T6b | Says it did NOT irritate their eyes | **25** | 13 | 12 | 0 | hand |
 | T6c | Irritation from OTHER mascaras they used before | **13** | 2 | 9 | 2 | hand |
-| T7 | Price and value | **33** | 3 | 27 | 3 | keyword |
+| T7 | Price and value | **34** | 3 | 27 | 4 | keyword |
 | T8 | Water, heat, tears, sweat, swimming | **43** | 20 | 15 | 8 | keyword |
 | T9 | Colour (brown, blue, green, purple, "softer than black") | **27** | 3 | 23 | 1 | keyword |
-| T10 | Before-and-after stories (what life was like before this mascara) | **45** | 11 | 24 | 10 | keyword |
+| T10 | Before-and-after stories (what life was like before this mascara) | **50** | 11 | 24 | 15 | keyword |
 | T11 | From women over 50 (stated age, age box 55+, or says mature / older / menopause) | **94** | 15 | 67 | 12 | keyword + age box |
 | T12 | Gave up, or nearly gave up, wearing mascara | **15** | 2 | 6 | 7 | hand |
 
-### P1. Smudging, "raccoon eyes" (black smudges under the eye), staying put: 85 reviews
+### P1. Smudging, "raccoon eyes" (black smudges under the eye), staying put: 86 reviews
 
-Luxe 39 · rivals 38 · category 8. Counted by keyword.
+Luxe 39 · rivals 38 · category 9. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
 - **#95** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-16 · 5★ · age box: 65 or over: "I’m 68 yrs old. I’ve tried hundreds of different mascaras, that say waterproof, no flaking, no way. This mascara is a miracle worker. I can get through a whole day of work, with out having to check every hour if I have black smudges around my eyes. Another plus is, since I don’t have to constantly rub my under eyes, my eyes are less crepy , smooth and brighter looking. Thank you thrive ! Jodi , NY"
 - **#88** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-10 · 5★ · age box: 65 or over: "When I accidently ran out of my Thrive Mascara I had to go downtown to purchase one until my shipment arrived. UGH! I have hot eyes. I purchased a very expensive brand that was supposed to be smudge proof, water proof, etc etc proof. Well I looked like a raccoon by the end of my work day. Only thing this brand was proof of, is that I will not purchase it. I purchased another brand hoping I would get better results. …"
 - **#87** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-05 · 5★ · age box: 55-64: "I love this mascara! This is first time trying it and I'm very pleased with it! As an aging beauty (62), I've had trouble with mascara smudging after a couple hours of wear. This did not budge once I put it on. And, I love the applicator - my lashes are thinning with age and it's a great tool to get the most coverage! It does lengthen if you layer and the best part is how easy it is to remove at the end of the day. …"
-- **#249** Category (mascara or tubing mascara in general) · YouTube K72lJWqP_Co · not recorded in round-1 pull · likes not recorded · says age 66: "Im 66 and have small, dry, sensitive eyes. Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes or just creating a very dark shadow underneath"
+- **#249** Category (mascara or tubing mascara in general) · YouTube K72lJWqP_Co · YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull) · 0 likes · says age 66: "Im 66 and have small, dry, sensitive eyes. Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes or just creating a very dark shadow underneath …"
 - **#146** Blinc Original Tubing · blincinc.com (brand's own site) · 2016-08-30 · 5★ · age not stated: "No smudging. I have tried EVERY mascara sold in USA and Canada. drugstore to high end brands, all formulations, sealers and water proof blah blah. all have smudged or flaked on me leaving me dissapointed and poor, with raccoon eyes, EXCEPT this brand. it will NOT move until YOU take it off. and the removal of it is easy with any remover, oil or soap. just saturate and wipe off the tubes. You can even cry your eyes …"
 - **#64** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-09-15 · 5★ · age not stated: "i stopped wearing mascara because it always ended up under my eyes within an hour. i tried luxe premium last week and it stayed perfect through my 4 mile power walk. i actually have lashes again and they look so healthy."
 - **#183** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "2 months ago" (as of 2026-10-31) · 5 likes · age not stated: "I love that mascara, but fair warning, do not wear it when you think you might cry, ot runs everywhere, and starts coming off in cubes as well, otherwise I personally love it!"
 
-All reviews in this theme: #1, #2, #3, #4, #5, #7, #8, #9, #11, #12, #13, #14, #16, #17, #19, #21, #22, #25, #28, #32, #34, #36, #37, #39, #40, #41, #43, #46, #48, #53, #54, #56, #59, #64, #69, #72, #73, #79, #80, #84, #87, #88, #94, #95, #109, #114, #118, #121, #131, #133, #141, #143, #145, #146, #147, #148, #149, #151, #155, #159, #162, #163, #170, #182, #183, #196, #209, #210, #216, #218, #228, #235, #241, #243, #246, #249, #253, #254, #256, #257, #261, #262, #264, #265, #266
+All reviews in this theme: #1, #2, #3, #4, #5, #7, #8, #9, #11, #12, #13, #14, #16, #17, #19, #21, #22, #25, #28, #32, #34, #36, #37, #39, #40, #41, #43, #46, #48, #53, #54, #56, #59, #64, #69, #72, #73, #79, #80, #84, #87, #88, #94, #95, #109, #114, #118, #121, #131, #133, #141, #143, #145, #146, #147, #148, #149, #151, #155, #159, #162, #163, #170, #182, #183, #196, #209, #210, #216, #218, #228, #235, #241, #243, #246, #249, #253, #254, #256, #257, #261, #262, #264, #265, #266, #282
 
 ### P2. Taking it off: easy or hard: 62 reviews
 
@@ -177,8 +216,8 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#120** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-28 · 3★ · age box: 55-64: "It has very little to no flaking. But is extremely hard to remove. I can get my other mascara off with just my microfiber cloths and even easier with eye makeup remover liquids but this one comes off flaky and chunky and actually gets into my eye and sticks to my lower inner eyelids and causing me to have to pull on my skin around my eye multiple times to take it all off. I love that it doesn't make my eyes burn or …"
 - **#200** Category (mascara or tubing mascara in general) · YouTube 6IPLVHE19F0 · YouTube label "2 years ago" (as of 2026-10-31) · 166 likes · age not stated: "To remove tubing mascaras you simply need to wet the lashes for like 15 seconds then swipe down with a cotton pad or wash cloth. It’s the water which releases the hold on your lashes not rubbing around in circles."
 - **#197** Category (mascara or tubing mascara in general) · YouTube 6IPLVHE19F0 · YouTube label "1 year ago" (as of 2026-10-31) · 140 likes · age not stated: "Ophthalmic RN here. Please, DON’T rub your eyes as seen in this video! It can cause damage to the cornea. It is also unnecessary, as tubing mascaras are designed to come off with water."
-- **#256** Tarte Tartelette Tubing · YouTube xsQWIs5AWMg · not recorded in round-1 pull · likes not recorded · age not stated: "Tarte tubing mascara ... warm water would just smear it all over my face and I had to scrub it off."
-- **#225** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · not recorded in round-1 pull · 12 likes · age not stated: "When picking the BEST mascara i would take into account how well it wears but also how easy it is to remove. If i have to scrub my eyes to get it off that is a deal breaker"
+- **#256** Tarte Tartelette Tubing · YouTube xsQWIs5AWMg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 3 likes · age not stated: "Tarte tubing mascara ... warm water would just smear it all over my face and I had to scrub it off."
+- **#225** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · not found (comment not on the NexLev comment pages re-pulled 2026-10-31) · 12 likes · age not stated: "When picking the BEST mascara i would take into account how well it wears but also how easy it is to remove. If i have to scrub my eyes to get it off that is a deal breaker"
 
 All reviews in this theme: #40, #50, #56, #82, #83, #84, #87, #90, #91, #93, #97, #98, #99, #105, #108, #113, #115, #118, #120, #122, #131, #133, #136, #139, #141, #144, #146, #147, #149, #150, #152, #154, #159, #161, #162, #170, #172, #179, #182, #184, #189, #190, #191, #196, #197, #200, #202, #208, #213, #224, #225, #228, #232, #235, #237, #243, #256, #259, #264, #271, #274, #278
 
@@ -192,60 +231,61 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#81** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-07 · 5★ · age box: 55-64: "My entire life I have had to purchase mascara, put it on just to find out that I react to it. It’s a lot of money down the drain. My daughter came across your products over a decade ago and she said, Mom try my mascara. As a red hair freckle face with a reaction to everything, I was very skeptical. I put it on…. and it stayed without a reaction. In fact, I wore it all day. I was absolutely shocked. I had become so …"
 - **#96** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-15 · 5★ · age box: 65 or over: "This is undoubtedly the best mascara I’ve ever used. I have very sensitive skin where the eyelashes attach. I’ve tried so many different mascaras over the years but I would end up with irritated eyelids. I had quit even bothering to try using mascara. Now I wear mascara all day with no problem whatsoever. I am so pleased that I took a chance on this product. Highly recommend."
 - **#176** Thrive Liquid Lash Extensions · YouTube 33Bqpi6h37Y · YouTube label "1 year ago" (as of 2026-10-31) · 2 likes · age not stated: "my favorite mascara is Thrive. I have very sensitive eyes that react to carmine which is used in mascaras and other eye make up. Thrive does not have carmine. It is the only mascara that does not run! I love it and it is the only mascara I use."
-- **#257** Category (mascara or tubing mascara in general) · YouTube xsQWIs5AWMg · not recorded in round-1 pull · likes not recorded · age not stated: "Raccoon eyes have been the bane of my existence because I have significant chronic dry eye and have to use eye drops throughout the day."
-- **#228** Essence (Lash Princess and others) · YouTube jDRz2xUsHpg · not recorded in round-1 pull · likes not recorded · age not stated: "Essence looked great but caused an itching and burning every time I wore it, so had to stop. Many reviewers on Amazon had the same experience. ... Tubing mascaras come off with just warm water. ... if you have watery eyes, these may not be for you. Tears are warm so they cause the mascara to smear"
+- **#257** Category (mascara or tubing mascara in general) · YouTube xsQWIs5AWMg · YouTube label "1 year ago (edited)" (as of 2026-10-31, NexLev re-pull) · 1 like · age not stated: "Raccoon eyes have been the bane of my existence because I have significant chronic dry eye and have to use eye drops throughout the day."
+- **#228** Essence (Lash Princess and others) · YouTube jDRz2xUsHpg · not found (comment not on the NexLev comment pages re-pulled 2026-10-31) · likes not found · age not stated: "Essence looked great but caused an itching and burning every time I wore it, so had to stop. Many reviewers on Amazon had the same experience. ... Tubing mascaras come off with just warm water. ... if you have watery eyes, these may not be for you. Tears are warm so they cause the mascara to smear"
 - **#41** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-11-10 · 5★ · age not stated: "i have very watery eyes and i thought i just couldnt wear mascara anymore. luxe proved me wrong. it stays on perfectly no matter how much my eyes water. its a life saver."
 
 All reviews in this theme: #7, #15, #27, #34, #41, #48, #61, #68, #71, #92, #96, #100, #128, #133, #143, #150, #173, #176, #191, #228, #229, #249, #254, #257, #259
 
-### P4. Short, thin, sparse, pale or "invisible" lashes: 47 reviews
+### P4. Short, thin, sparse, pale or "invisible" lashes: 49 reviews
 
-Luxe 16 · rivals 27 · category 4. Counted by keyword.
+Luxe 16 · rivals 27 · category 6. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
 - **#83** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-09-26 · 5★ · age box: 65 or over: "I finally spent more than I ever do on mascara. I bought two tubes, one for me and one for my daughter. The colors are nice and her green looks pretty with her green eyes. Unfortunately, I am not getting the results I was expecting with my mine. I guess my lashes are just too old. After curling, and with two coats, my lashes were still flat and stuck together. I tried to curl again and the mascara came off at the …"
 - **#179** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "2 months ago" (as of 2026-10-31) · 12 likes · age not stated: "Oh my gosh, I think you just sold me on this. My mature lashes are almost non-existent, and I struggle to get mascara to show. And easy removal... man..."
 - **#93** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-18 · 5★ · age box: 65 or over: "I can’t say enough good things about this mascara! It has beautiful coverage and I love the way it makes my light lashes visible. This is my second order for myself and I’ve sent some to my daughters in Florida and New Mexico and they love it! Cleanup is a breeze! No more ruined wash cloths taking mascara off with soap or creams. The tubes come off so easy! Simple, warm wet cloth, wipe down, done, rinse your cloth. …"
-- **#223** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · not recorded in round-1 pull · 76 likes · says age 64: "Works good for my blonde, straight, thin lashes. At 64 years old, it makes me feel pretty."
-- **#244** Other named brands (Trish McEvoy, Tower 28, Hourglass, YSL, Clinique, Haus Labs, Rimmel, Victoria Beckham) · YouTube K72lJWqP_Co · not recorded in round-1 pull · 18 likes · age not stated: "I have blonde thin and straight lashes that are invisible without mascara. ... Clinique ... products used to irritate my eyes"
+- **#223** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 76 likes · says age 64: "Works good for my blonde, straight, thin lashes. At 64 years old, it makes me feel pretty."
+- **#244** Other named brands (Trish McEvoy, Tower 28, Hourglass, YSL, Clinique, Haus Labs, Rimmel, Victoria Beckham) · YouTube K72lJWqP_Co · YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull) · 18 likes · age not stated: "I have blonde thin and straight lashes that are invisible without mascara. ... Never tried Clinque [sic] as their products used to irritate my eyes …"
 - **#73** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-08-26 · 5★ · says age 64: "i am 64 and my lashes have thined out so much lately. I tried the prime stuff but this luxe brand is actually better for the price. it doesnt clump and i wore it to my grandsons graduation in the humidity and it didnt budge. very happy with the wand too its small enough to get the corner hairs."
 
-All reviews in this theme: #10, #20, #23, #26, #31, #38, #40, #42, #44, #55, #60, #63, #67, #68, #69, #73, #87, #92, #93, #105, #106, #108, #111, #113, #116, #117, #119, #132, #138, #139, #141, #145, #146, #149, #165, #179, #184, #187, #191, #209, #210, #218, #223, #229, #244, #246, #258
+All reviews in this theme: #10, #20, #23, #26, #31, #38, #40, #42, #44, #55, #60, #63, #67, #68, #69, #73, #87, #92, #93, #105, #106, #108, #111, #113, #116, #117, #119, #132, #138, #139, #141, #145, #146, #149, #165, #179, #184, #187, #191, #209, #210, #218, #223, #229, #244, #246, #258, #281, #285
 
-### P5. Curl: straight lashes, lashes that droop or lose their curl: 22 reviews
+### P5. Curl: straight lashes, lashes that droop or lose their curl: 29 reviews
 
-Luxe 3 · rivals 14 · category 5. Counted by keyword.
+Luxe 3 · rivals 14 · category 12. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
 - **#106** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-10 · 1★ · age box: 55-64: "I’ve read so many good reviews that I was excited to try this. Unfortunately, my experience was not good. My lashes are very straight but respond well to eyelash curler. With my usual cheap mascara the curl lasts all day. With this product, the curl immediately disappeared and it looked almost as though I was wearing nothing. I’ll bet that you can’t even tell from the pic which eye is wearing it. (It’s the left). …"
-- **#226** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · not recorded in round-1 pull · 34 likes · age not stated: "As I got older I found that curling didn't work any longer and no matter what brand of mascara I used, nothing helped my lashes and therefore, I didn't feel pulled together like I once did. ... I've been getting lash extensions for the past 4 months."
+- **#226** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 34 likes · age not stated: "As I got older I found that curling didn't work any longer and no matter what brand of mascara I used, nothing helped my lashes and therefore, I didn't feel pulled together like I once did. ... I've been getting lash extensions for the past 4 months."
 - **#188** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "1 month ago" (as of 2026-10-31) · 1 like · age not stated: "I love the fullness this mascara gives my lashes ,but sadly it makes my lashes droop forward."
 - **#193** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "2 months ago" (as of 2026-10-31) · 2 likes · age not stated: "Did your lashes fall at all? Mine will start off curled but will fall throughout the day."
-- **#247** Category (mascara or tubing mascara in general) · YouTube K72lJWqP_Co · not recorded in round-1 pull · 8 likes · age not stated: "Simple, go for waterproof. Anything not waterproof will wilt your freshly curled lashes quicker than you can say 'Flop '"
+- **#247** Category (mascara or tubing mascara in general) · YouTube K72lJWqP_Co · YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull) · 8 likes · age not stated: "Simple, go for waterproof. Anything not waterproof will wilt your freshly curled lashes quicker than you can say 'Flop '"
 - **#169** Thrive Liquid Lash Extensions · YouTube tXlNLaq0y6Q · YouTube label "6 years ago" (as of 2026-10-31) · 1 like · age not stated: "Wow! I’m glad you did this demo! My lashes ALWAYS go down after applying the mascara after curling. I’m happy you didn’t curl. ..."
 
-All reviews in this theme: #61, #67, #72, #83, #106, #113, #169, #171, #184, #185, #187, #188, #193, #206, #209, #223, #226, #233, #235, #244, #247, #258
+All reviews in this theme: #61, #67, #72, #83, #106, #113, #169, #171, #184, #185, #187, #188, #193, #206, #209, #223, #226, #233, #235, #244, #247, #258, #279, #280, #281, #283, #284, #285, #286
 
-### P6. Hooded lids (skin folding down over the lid), shaky hands, poor eyesight: 11 reviews
+### P6. Hooded lids (skin folding down over the lid), shaky hands, poor eyesight: 7 reviews
 
-Luxe 4 · rivals 5 · category 2. Counted by keyword.
+Luxe 4 · rivals 1 · category 2. Counted by keyword, then checked by hand in the finishing pass (2026-10-31). Removed as false hits: #112, #150, #171 and #191 (nothing about lids, hands or eyesight). Near misses, not counted: #55 ("hide behind my glasses"), #94 (smudging the inside of riding sunglasses) and #248 ("the lash line gets more swollen"). Counted: #121 ("I have puffy eyelids").
 
 Examples (word for word; "…" marks where a long review is cut):
 
-- **#273** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · not recorded in round-1 pull · 30 likes · age not stated: "I thought it made my hooded eyes look smaller and I really couldn't see my eyelashes anymore to apply it and got more on my eyelids than lashes."
-- **#276** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · not recorded in round-1 pull · 42 likes · age not stated: "When I had my cataract surgery, I bought a 10X mirror so I could see up close."
+- **#273** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull) · 30 likes · age not stated: "I thought it made my hooded eyes look smaller and I really couldn't see my eyelashes anymore to apply it and got more on my eyelids than lashes."
+- **#276** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull) · 42 likes · age not stated: "When I had my cataract surgery, I bought a 10X mirror so I could see up close. …"
 - **#66** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-09-09 · 4★ · age not stated: "the wand is very skinny which i love. it doesnt get mess on my eyelids like those big bushy brushes do. i struggle with shaky hands sometimes so the precision is really helpful for me."
 - **#121** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-04-19 · 3★ · age box: 65 or over: "I like that it is cruelty free, that's a big plus. I am looking for a new mascara as the one that I had been using for decades all of a sudden, the new tube that I bought, stung my eyes. Your brand was recommended by a friend and also a few on a SM platform. But, it smudges,. I need to constantly wipe away the smudges until hardly anything remains on my lashes. I have puffy eyelids, so that doesn't help."
-- **#248** Category (mascara or tubing mascara in general) · YouTube K72lJWqP_Co · not recorded in round-1 pull · 7 likes · age not stated: "When your eyes get older, the lash line gets more swollen BUT this brush practically eliminates clean up!"
-- **#191** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "1 month ago" (as of 2026-10-31) · 1 like · age not stated: "I agree with everything you’ve said. I can’t remember ever wearing a mascara that made my lashes look so good. I bought this about a month ago, and I love it! I have tiny little lashes and sensitive eyes. My eyelashes actually looked like eyelashes and I got compliments. It doesn’t clump on me and my lashes look defined. The wand worked really well for me too (I poke myself in the eye more often than not). But, I …"
+- **#53** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-10-11 · 5★ · age not stated: "i have hooded eyes and mascara usually transfers to my lids immediately. this stuff dries fast and doesnt move. i can blink as much as i want and it stays put. very happy with this purchase."
+- **#57** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-10-02 · 5★ · age not stated: "i still like to look my best. this mascara gives me just enough definition without looking overdone. it is very easy to apply even with my arthritis because the handle is easy to grip."
+- **#35** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-11-26 · 5★ · age not stated: "i have some trouble with my hands but the wand is very easy to handle. it goes on smooth and doesnt clump up. my lashes look long and separated. i am very happy with it."
 
-All reviews in this theme: #35, #53, #57, #66, #112, #121, #150, #171, #191, #273, #276
+All reviews in this theme: #35, #53, #57, #66, #121, #273, #276
 
-### T1. Results: longer, fuller, darker, separated lashes: 102 reviews
+### T1. Results: longer, fuller, darker, separated lashes: 103 reviews
 
-Luxe 35 · rivals 61 · category 6. Counted by keyword.
+Luxe 36 · rivals 61 · category 6. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
@@ -256,7 +296,7 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#127** Grande GrandeMASCARA · grandecosmetics.com (brand's own site) · 2024-03-18 · 5★ · age box: 45-54: "After buying all the mascaras on the planet, a client (I do skin care) saw that her eyelashes looked full, her eyes looked full of life, happy, I know her without mascara and obviously I saw the difference and she shared the secret I have time using GRANDE MASCARA “PEPTIDE CONDITIONING MASCARA” at 53 years old my eyes look alive, rejuvenated, my eyes do not look tired, yes… I am OBSESSED thanks to this incredible …"
 - **#187** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "1 month ago" (as of 2026-10-31) · 1 like · age not stated: "This is the incredible shrinking mascara. I put it on and it just disappeared. I put on more, same thing. Then my lashes which naturally curl straight upward drooped. I don't get how it could be that bad. I ended up with short clumpy lashes, at which point I just took it off. Will stick with Tarte tubing mascara or Caliray, great lashes everytime."
 
-All reviews in this theme: #4, #6, #10, #12, #14, #20, #22, #23, #26, #29, #30, #31, #32, #33, #35, #37, #38, #39, #40, #42, #45, #46, #47, #50, #52, #57, #58, #60, #62, #63, #64, #69, #70, #79, #80, #82, #83, #84, #85, #86, #87, #89, #91, #92, #97, #99, #100, #103, #105, #107, #109, #112, #113, #114, #117, #119, #122, #124, #125, #126, #127, #129, #132, #133, #135, #136, #137, #138, #139, #141, #142, #144, #146, #147, #150, #155, #156, #157, #162, #166, #172, #180, #184, #185, #188, #191, #196, #199, #202, #204, #206, #207, #209, #215, #218, #219, #220, #226, #235, #246, #249, #278
+All reviews in this theme: #4, #6, #10, #12, #14, #20, #22, #23, #26, #29, #30, #31, #32, #33, #35, #37, #38, #39, #40, #42, #45, #46, #47, #50, #52, #57, #58, #60, #62, #63, #64, #69, #70, #79, #80, #82, #83, #84, #85, #86, #87, #89, #91, #92, #97, #99, #100, #103, #105, #107, #109, #112, #113, #114, #117, #119, #122, #124, #125, #126, #127, #129, #132, #133, #135, #136, #137, #138, #139, #141, #142, #144, #146, #147, #150, #155, #156, #157, #162, #166, #172, #180, #184, #185, #188, #191, #196, #199, #202, #204, #206, #207, #209, #215, #218, #219, #220, #226, #235, #246, #249, #278, #287
 
 ### T2. Time: how long it lasted on the face, or how long they have used it: 88 reviews
 
@@ -265,8 +305,8 @@ Luxe 23 · rivals 55 · category 10. Counted by keyword.
 Examples (word for word; "…" marks where a long review is cut):
 
 - **#109** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-05-10 · 1★ · age box: 55-64: "The first application from the brand new tube was wonderful-my lashes looked great! But after the initial use, the mascara goes on clumpy and leaves flakes under my eyes after an hour or so. I am very careful to close the tube completely and not leave it exposed to foreign substances. It just didn't last longer than one use, and I would not buy again."
-- **#240** Tarte Tartelette Tubing · YouTube xTlSgFpsFpo · not recorded in round-1 pull · 11 likes · age not stated: "Tartalette is good in the beginning, but after a couple of months it dries or something ... start to crumble from your eyes around lunch time"
-- **#241** Other named brands (Trish McEvoy, Tower 28, Hourglass, YSL, Clinique, Haus Labs, Rimmel, Victoria Beckham) · YouTube xTlSgFpsFpo · not recorded in round-1 pull · 6 likes · age not stated: "Haus Labs one until about the 45 day mark and it just seems to change. It clumps and transfers after wearing it for a couple of hours."
+- **#240** Tarte Tartelette Tubing · YouTube xTlSgFpsFpo · YouTube label "6 months ago" (as of 2026-10-31, NexLev re-pull) · 11 likes · age not stated: "Tartalette is good in the beginning, but after a couple of months it dries or something ... start to crumble from your eyes around lunch time"
+- **#241** Other named brands (Trish McEvoy, Tower 28, Hourglass, YSL, Clinique, Haus Labs, Rimmel, Victoria Beckham) · YouTube xTlSgFpsFpo · YouTube label "6 months ago" (as of 2026-10-31, NexLev re-pull) · 6 likes · age not stated: "Haus Labs one until about the 45 day mark and it just seems to change. It clumps and transfers after wearing it for a couple of hours."
 - **#117** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-09-17 · 2★ · age box: 65 or over: "First, I am 76 years old. I have long lashes and use mascara everyday. When I tried the mascara for the first time I put on a thin layer. When it dried, my lashes were very stiff and hard. I used my little eyelash comb to separate my lashes. It flaked and lashes stayed stiff and hard. Of all the mascara I have used this was one of the worst. Disappointed and sorry that I won’t be using it again."
 - **#102** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-07-23 · 5★ · age box: 55-64: "It started out good. I have had it for approx 2 1/2 months. I do not use it everyday only bc I don’t put mascara on every day and the color. Today I went to out it on and the circular ring must have disconnected and it was so much mascara on the wand. I was unable to apply it. There was so much mascara looked like paint. I’m sure it doesn’t happen often. I probably just got lucky☹️"
 - **#94** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-24 · 5★ · age box: 55-64: "I came across this mascara by word of mouth. I was out with friends on a Harley ride and a GF saw me trying to wipe the inside of my sunglasses w my thumb. When we stopped she questioned if that was what I was doing and told me about Thrive. It is the only mascara I have worn that doesn’t wear off and smudge the inside of my ridding glasses!! I ride my own so seeing is important!! And so is mascara so the two mesh …"
@@ -280,7 +320,7 @@ Luxe 18 · rivals 44 · category 15. Counted by keyword.
 Examples (word for word; "…" marks where a long review is cut):
 
 - **#117** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-09-17 · 2★ · age box: 65 or over: "First, I am 76 years old. I have long lashes and use mascara everyday. When I tried the mascara for the first time I put on a thin layer. When it dried, my lashes were very stiff and hard. I used my little eyelash comb to separate my lashes. It flaked and lashes stayed stiff and hard. Of all the mascara I have used this was one of the worst. Disappointed and sorry that I won’t be using it again."
-- **#251** Thrive Liquid Lash Extensions · YouTube K72lJWqP_Co · not recorded in round-1 pull · likes not recorded · age not stated: "I don't like Thrive because it is to wet."
+- **#251** Thrive Liquid Lash Extensions · YouTube K72lJWqP_Co · YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull) · 2 likes · age not stated: "I don't like Thrive because it is to wet."
 - **#178** PrimeLash (Prime Prometics) · YouTube Wkupu0-DgQs · YouTube label "10 months ago" (as of 2026-10-31) · 2 likes · age not stated: "I did try it mid-last year, but I found the formula to be too dry. I tried a couple of different tubes with the same result and never went back. When I watch you apply, and from other videos I have seen, it seems to be a wet enough formula to deposit more mascara on the lashes than mine did."
 - **#161** Thrive Liquid Lash Extensions · YouTube tXlNLaq0y6Q · YouTube label "8 years ago" (as of 2026-10-31) · 29 likes · age not stated: "I have a love/hate relationship with this mascara. Some days it like looks amazing, and some days it makes all my lashes stick together. It never dries down completely. I do love how easy it easy to take off. It is very testy to apply."
 - **#166** Thrive Liquid Lash Extensions · YouTube tXlNLaq0y6Q · YouTube label "8 years ago" (as of 2026-10-31) · 8 likes · age not stated: "I got a mini Thrive mascara in my ipsy bag & it's THE BEST !!! I get long lashes! It's super light to wear & I like waterproof mascaras, but I just add ulta's raincoat and it works perfectly"
@@ -288,20 +328,20 @@ Examples (word for word; "…" marks where a long review is cut):
 
 All reviews in this theme: #29, #31, #35, #41, #43, #45, #50, #51, #53, #55, #56, #58, #61, #63, #67, #72, #78, #80, #83, #91, #93, #95, #97, #101, #102, #103, #111, #117, #120, #122, #123, #126, #128, #131, #133, #137, #139, #142, #143, #144, #146, #148, #149, #150, #152, #154, #155, #161, #162, #163, #164, #166, #173, #178, #185, #189, #194, #198, #199, #200, #203, #219, #222, #223, #224, #226, #228, #229, #236, #240, #246, #249, #251, #252, #257, #274, #278
 
-### T4. Ease of use: the wand (the little brush), applying coats: 58 reviews
+### T4. Ease of use: the wand (the little brush), applying coats: 59 reviews
 
-Luxe 15 · rivals 38 · category 5. Counted by keyword.
+Luxe 15 · rivals 38 · category 6. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
 - **#107** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-03-31 · 1★ · age box: 55-64: "Unfortunately this mascara doesn't work for me. You have to stroke it many times before getting any length. This causes clumps and flaking. And my lashes have a good length and I always receive compliments with other mascara. I did not order anything else because I've never ordered from this company. So it's not worth sending back. I tried it and i will not be ordering it again."
 - **#115** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-07-04 · 2★ · age box: 55-64: "I am on day three of using this mascara and still not impressed. I put it on just as instructed and I end up with one eye clumping. The first eye is okay, not as nice as the video example, but okay. I wait a minute then go to the other eye and I get clumps that I have to comb out. Which ends up removing a lot of the product. I’ve tried less time and more time between eyes and get the same results. I will not be …"
-- **#252** Thrive Liquid Lash Extensions · YouTube xsQWIs5AWMg · not recorded in round-1 pull · 12 likes · age not stated: "just keep applying while it's still wet. If it gets dry and then you add a coat it is more prone to clumping."
+- **#252** Thrive Liquid Lash Extensions · YouTube xsQWIs5AWMg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 12 likes · age not stated: "just keep applying while it's still wet. If it gets dry and then you add a coat it is more prone to clumping."
 - **#167** Thrive Liquid Lash Extensions · YouTube tXlNLaq0y6Q · YouTube label "7 years ago" (as of 2026-10-31) · 5 likes · age not stated: "Thrive says not to wiggle when you apply, just brush root to tip and comb out after."
 - **#164** Thrive Liquid Lash Extensions · YouTube tXlNLaq0y6Q · YouTube label "8 years ago" (as of 2026-10-31) · 9 likes · age not stated: "I bought this mascara last month , I agree I was not impressed with the brush but I do love the formula! Thank you for your honest review."
 - **#125** Grande GrandeMASCARA · grandecosmetics.com (brand's own site) · 2023-03-01 · 3★ · age box: 65+: "I love all of your Grande products so far. However, this was sent as a gift with a previous order, I find this mascara to be too thick and the brush too thick, making application difficult."
 
-All reviews in this theme: #6, #10, #20, #26, #31, #35, #38, #47, #55, #57, #60, #66, #70, #73, #80, #82, #83, #84, #85, #87, #100, #102, #103, #108, #109, #114, #116, #117, #123, #125, #126, #129, #132, #135, #136, #141, #142, #148, #149, #152, #157, #159, #161, #164, #167, #169, #172, #178, #191, #192, #199, #204, #212, #231, #239, #248, #252, #273
+All reviews in this theme: #6, #10, #20, #26, #31, #35, #38, #47, #55, #57, #60, #66, #70, #73, #80, #82, #83, #84, #85, #87, #100, #102, #103, #108, #109, #114, #116, #117, #123, #125, #126, #129, #132, #135, #136, #141, #142, #148, #149, #152, #157, #159, #161, #164, #167, #169, #172, #178, #191, #192, #199, #204, #212, #231, #239, #248, #252, #273, #284
 
 ### T5. Complaints and failures: 64 reviews
 
@@ -329,7 +369,7 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#113** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-05-16 · 2★ · age box: 55-64: "Broke my lashes off. At first I thought it was my imagination. I have naturally long lashes but wanted to “lift” my eyes up a bit. However, why would my lashes be suddenly shorter after using this product? Then I googled it and saw many people with the same experience. However those reviews never seemed to make it to Thrive Causemetic’s website. Hmm. I know it says to remove with warm water but WARNING if you go to …"
 - **#118** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-09-15 · 2★ · age box: 65 or over: "I really wanted to love this makeup. I have by eyeing for quite a while. I liked the way it went on and that it stayed on and came off easy when I wanted it to. Day 3, eyes began to itch. Day 4 swollen up like golf balls. Stopped using for a week then tried back one at a time. Same reaction. Not sure what is in them but it is the only time I have had such a severe reaction."
 - **#142** Blinc Original Tubing · blincinc.com (brand's own site) · 2022-08-26 · 1★ · age not stated: "Whereas years ago this used to be my go to mascara, I can no longer wear it. It barely coats the lashes, does not thicken or lengthen and now also irritates my eyes terribly. I threw it away. You have not only changed packaging, but formula as well."
-- **#228** Essence (Lash Princess and others) · YouTube jDRz2xUsHpg · not recorded in round-1 pull · likes not recorded · age not stated: "Essence looked great but caused an itching and burning every time I wore it, so had to stop. Many reviewers on Amazon had the same experience. ... Tubing mascaras come off with just warm water. ... if you have watery eyes, these may not be for you. Tears are warm so they cause the mascara to smear"
+- **#228** Essence (Lash Princess and others) · YouTube jDRz2xUsHpg · not found (comment not on the NexLev comment pages re-pulled 2026-10-31) · likes not found · age not stated: "Essence looked great but caused an itching and burning every time I wore it, so had to stop. Many reviewers on Amazon had the same experience. ... Tubing mascaras come off with just warm water. ... if you have watery eyes, these may not be for you. Tears are warm so they cause the mascara to smear"
 - **#120** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-28 · 3★ · age box: 55-64: "It has very little to no flaking. But is extremely hard to remove. I can get my other mascara off with just my microfiber cloths and even easier with eye makeup remover liquids but this one comes off flaky and chunky and actually gets into my eye and sticks to my lower inner eyelids and causing me to have to pull on my skin around my eye multiple times to take it all off. I love that it doesn't make my eyes burn or …"
 
 All reviews in this theme: #113, #118, #120, #142, #228
@@ -343,7 +383,7 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#85** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-21 · 5★ · age box: 65 or over: "I LOVE this mascara!! I had used the same mascara for probably 40 years and it had started irritating my eyes to the point that I usually just didn’t bother to put it on. I like the brush of the brand I used as much as anything I think. Anyway, I have tried others through the years but always went back with my old standby. A friend recommended your mascara to me. I loved the way it looked on her lashes so I decided …"
 - **#96** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-15 · 5★ · age box: 65 or over: "This is undoubtedly the best mascara I’ve ever used. I have very sensitive skin where the eyelashes attach. I’ve tried so many different mascaras over the years but I would end up with irritated eyelids. I had quit even bothering to try using mascara. Now I wear mascara all day with no problem whatsoever. I am so pleased that I took a chance on this product. Highly recommend."
 - **#143** Blinc Original Tubing · blincinc.com (brand's own site) · 2019-05-20 · 5★ · age not stated: "This stuff is seriously amazing! I have 3 serious issues when it comes to eye makeup: oily skin, sensitive eyes, and I live in a hot humid climate. No amount of waterproofing, priming, etc. was ever enough to stop me from looking like a red-eyed raccoon at the end of the work day (not cute at all). So, when I saw a YouTuber raving about Blinc, I figured I might as well try it since I'd already tried pretty much …"
-- **#259** Tarte Tartelette Tubing · YouTube xsQWIs5AWMg · not recorded in round-1 pull · likes not recorded · age not stated: "Tarte tubing mascara in brown ... very good for super sensitive eyes like mine. And it washed off with warm water as promised"
+- **#259** Tarte Tartelette Tubing · YouTube xsQWIs5AWMg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 0 likes · age not stated: "Tarte tubing mascara in brown ... very good for super sensitive eyes like mine. And it washed off with warm water as promised"
 - **#48** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-10-24 · 5★ · says age 50: "my eyes are super sensitive since i turned 50. most waterproof brands make them burn but luxe is so soothing. i forget im even wearing it. plus no more smudges under my eyes."
 
 All reviews in this theme: #7, #15, #19, #21, #27, #34, #41, #42, #48, #61, #65, #68, #71, #81, #85, #90, #92, #96, #100, #128, #143, #150, #176, #243, #259
@@ -358,25 +398,25 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#85** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-21 · 5★ · age box: 65 or over: "I LOVE this mascara!! I had used the same mascara for probably 40 years and it had started irritating my eyes to the point that I usually just didn’t bother to put it on. I like the brush of the brand I used as much as anything I think. Anyway, I have tried others through the years but always went back with my old standby. A friend recommended your mascara to me. I loved the way it looked on her lashes so I decided …"
 - **#121** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-04-19 · 3★ · age box: 65 or over: "I like that it is cruelty free, that's a big plus. I am looking for a new mascara as the one that I had been using for decades all of a sudden, the new tube that I bought, stung my eyes. Your brand was recommended by a friend and also a few on a SM platform. But, it smudges,. I need to constantly wipe away the smudges until hardly anything remains on my lashes. I have puffy eyelids, so that doesn't help."
 - **#176** Thrive Liquid Lash Extensions · YouTube 33Bqpi6h37Y · YouTube label "1 year ago" (as of 2026-10-31) · 2 likes · age not stated: "my favorite mascara is Thrive. I have very sensitive eyes that react to carmine which is used in mascaras and other eye make up. Thrive does not have carmine. It is the only mascara that does not run! I love it and it is the only mascara I use."
-- **#244** Other named brands (Trish McEvoy, Tower 28, Hourglass, YSL, Clinique, Haus Labs, Rimmel, Victoria Beckham) · YouTube K72lJWqP_Co · not recorded in round-1 pull · 18 likes · age not stated: "I have blonde thin and straight lashes that are invisible without mascara. ... Clinique ... products used to irritate my eyes"
+- **#244** Other named brands (Trish McEvoy, Tower 28, Hourglass, YSL, Clinique, Haus Labs, Rimmel, Victoria Beckham) · YouTube K72lJWqP_Co · YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull) · 18 likes · age not stated: "I have blonde thin and straight lashes that are invisible without mascara. ... Never tried Clinque [sic] as their products used to irritate my eyes …"
 
 All reviews in this theme: #48, #61, #81, #85, #90, #92, #96, #100, #121, #176, #229, #244, #277
 
-### T7. Price and value: 33 reviews
+### T7. Price and value: 34 reviews
 
-Luxe 3 · rivals 27 · category 3. Counted by keyword.
+Luxe 3 · rivals 27 · category 4. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
-- **#222** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · YouTube label "1 yr" ago (as of 2026-10-31) · 190 likes · age not stated: "I worked in cosmetics for 14 years ... I don't want to spend over $25 for mascara especially when we need to replace them every 3 months. ... if it dries up in 2 months, at least I didn't spend over $20."
+- **#222** Category (mascara or tubing mascara in general) · YouTube jDRz2xUsHpg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 190 likes · age not stated: "I worked in cosmetics for 14 years ... I don't want to spend over $25 for mascara especially when we need to replace them every 3 months. ... if it dries up in 2 months, at least I didn't spend over $20."
 - **#198** e.l.f. Lash Xtndr tubing · YouTube 6IPLVHE19F0 · YouTube label "2 years ago" (as of 2026-10-31) · 183 likes · age not stated: "Glad that the elf tubing mascara made it so high up on the list. I have a hard time paying for a high end mascara when it’s not 50% off 😅"
 - **#116** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-04-23 · 2★ · age box: 65 or over: "Was looking for a mascara that did all the things Thrive Lash Extensions promised. Thought something that cost more than double my old standby did must be totally awesome. But it wasn't. The color (Elena) is so subtle, you don't see the tint. And the brush leaves clumps. Although it spread relatively well, my lashes were clumpy, short and far less than stellar. Will not buy again. Back to Maybelline."
 - **#86** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-29 · 5★ · age box: 65 or over: "My daughter bought me my first tube. She said I needed to not use grocery store mascara anymore. I started to get compliments on my mascara. One time when I ran out, I bought comprable mascara from a department store. Not even near the same. Now I buy both Liquid Lash Volumizer Mascara and Liquid Lash Extender Mascara. Love them both. I wear the Voluminizer more as an everyday mascara & use the Extender mascara for …"
-- **#227** Essence (Lash Princess and others) · YouTube jDRz2xUsHpg · not recorded in round-1 pull · 114 likes · age not stated: "I have fallen for so many more expensive mascaras including tubing, and I always go back to the essence Princess mascara."
+- **#227** Essence (Lash Princess and others) · YouTube jDRz2xUsHpg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 114 likes · age not stated: "I have fallen for so many more expensive mascaras including tubing, and I always go back to the essence Princess mascara."
 - **#160** Several brands compared in one comment · YouTube ORjqxk2tkMs · YouTube label "2 years ago" (as of 2026-10-31) · 3 likes · age not stated: "I like Thrive a lot except the price. Bought the Milani and I like it just as much. Tried the new Elf tubing one and still like the Milani better. Thanks for the review!"
 - **#99** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-09-23 · 5★ · age box: 55-64: "I was so looking forward to getting my mascara but I have to tell you maybe it was the color but I wasn’t impressed with it for the amount of money it cost. I felt like I have used other mascaras that make my Lashes look longer. Def. Easy to take off so I did like that but again not for how much it costs. Therefore I will not be purchasing this product again."
 
-All reviews in this theme: #49, #62, #73, #81, #86, #88, #99, #106, #107, #110, #114, #116, #119, #122, #129, #133, #140, #141, #146, #150, #153, #155, #160, #195, #196, #201, #211, #219, #221, #222, #227, #230, #250
+All reviews in this theme: #49, #62, #73, #81, #86, #88, #99, #106, #107, #110, #114, #116, #119, #122, #129, #133, #140, #141, #146, #150, #153, #155, #160, #195, #196, #201, #211, #219, #221, #222, #227, #230, #250, #280
 
 ### T8. Water, heat, tears, sweat, swimming: 43 reviews
 
@@ -386,7 +426,7 @@ Examples (word for word; "…" marks where a long review is cut):
 
 - **#94** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-24 · 5★ · age box: 55-64: "I came across this mascara by word of mouth. I was out with friends on a Harley ride and a GF saw me trying to wipe the inside of my sunglasses w my thumb. When we stopped she questioned if that was what I was doing and told me about Thrive. It is the only mascara I have worn that doesn’t wear off and smudge the inside of my ridding glasses!! I ride my own so seeing is important!! And so is mascara so the two mesh …"
 - **#183** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "2 months ago" (as of 2026-10-31) · 5 likes · age not stated: "I love that mascara, but fair warning, do not wear it when you think you might cry, ot runs everywhere, and starts coming off in cubes as well, otherwise I personally love it!"
-- **#253** Category (mascara or tubing mascara in general) · YouTube xsQWIs5AWMg · not recorded in round-1 pull · 4 likes · age not stated: "Tubing mascaras smudge and run down my face from May-December in the heat and humidity of Florida."
+- **#253** Category (mascara or tubing mascara in general) · YouTube xsQWIs5AWMg · YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull) · 4 likes · age not stated: "Tubing mascaras smudge and run down my face from May-December in the heat and humidity of Florida."
 - **#91** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-08-01 · 5★ · age box: 65 or over: "Thrives tubing mascara goes on like a dream and lasts all day. It isn't water proof and if it gets wet it will smug a bit. Overall though, if you stay dry it looks great all day. It is super easy to take off with warm water. I also use a face wash but you don't need to. Once your face and eyes are wet, just gently pull the tubes off your lashes. It leaves your lashes totally clean. I think it works great and my …"
 - **#145** Blinc Original Tubing · blincinc.com (brand's own site) · 2020-04-02 · 5★ · age not stated: "I had facial paralysis on both sides of my face, leaving my eyes with constant twitches and tearing. I bought the black eyelash primer and original tubing mascara, ultra thin eyeliner. I have never written a makeup review but this trio earned my praise! After all day wear, even a nap, it looked exactly like when I applied this morning! I had smallclumps inside corner of my eyes that I just gently wiped away. But …"
 - **#65** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-09-11 · 5★ · age not stated: "sorry to be a downer but i wore this to my sisters funeral and cried my eyes out. not a single streak on my face. it really is waterproof. also doesnt irritate my eyes when they get red and swollen. truly grateful for this."
@@ -408,9 +448,9 @@ Examples (word for word; "…" marks where a long review is cut):
 
 All reviews in this theme: #37, #58, #68, #83, #92, #99, #100, #102, #103, #108, #111, #116, #119, #132, #135, #136, #139, #144, #148, #173, #182, #184, #205, #207, #214, #246, #259
 
-### T10. Before-and-after stories (what life was like before this mascara): 45 reviews
+### T10. Before-and-after stories (what life was like before this mascara): 50 reviews
 
-Luxe 11 · rivals 24 · category 10. Counted by keyword.
+Luxe 11 · rivals 24 · category 15. Counted by keyword.
 
 Examples (word for word; "…" marks where a long review is cut):
 
@@ -421,7 +461,7 @@ Examples (word for word; "…" marks where a long review is cut):
 - **#143** Blinc Original Tubing · blincinc.com (brand's own site) · 2019-05-20 · 5★ · age not stated: "This stuff is seriously amazing! I have 3 serious issues when it comes to eye makeup: oily skin, sensitive eyes, and I live in a hot humid climate. No amount of waterproofing, priming, etc. was ever enough to stop me from looking like a red-eyed raccoon at the end of the work day (not cute at all). So, when I saw a YouTuber raving about Blinc, I figured I might as well try it since I'd already tried pretty much …"
 - **#64** Luxe Conditioning Peptide Mascara · Luxe's own site · 2025-09-15 · 5★ · age not stated: "i stopped wearing mascara because it always ended up under my eyes within an hour. i tried luxe premium last week and it stayed perfect through my 4 mile power walk. i actually have lashes again and they look so healthy."
 
-All reviews in this theme: #9, #28, #41, #47, #48, #51, #55, #56, #63, #64, #67, #81, #83, #85, #86, #87, #93, #96, #100, #118, #121, #122, #124, #133, #142, #144, #155, #170, #178, #181, #196, #203, #204, #214, #221, #222, #224, #227, #238, #244, #249, #261, #272, #273, #278
+All reviews in this theme: #9, #28, #41, #47, #48, #51, #55, #56, #63, #64, #67, #81, #83, #85, #86, #87, #93, #96, #100, #118, #121, #122, #124, #133, #142, #144, #155, #170, #178, #181, #196, #203, #204, #214, #221, #222, #224, #227, #238, #244, #249, #261, #272, #273, #278, #279, #280, #281, #282, #283
 
 ### T11. From women over 50 (stated age, age box 55+, or says mature / older / menopause): 94 reviews
 
@@ -445,9 +485,9 @@ Luxe 2 · rivals 6 · category 7. Counted by hand.
 
 Examples (word for word; "…" marks where a long review is cut):
 
-- **#269** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · not recorded in round-1 pull · 57 likes · says age 69: "I am 69 and just recently decided to ditch masacra. Its a bit scary but I am sick of the mess!"
-- **#272** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · not recorded in round-1 pull · 39 likes · says age 69: "I am 69 and I have pretty much stopped wearing mascara."
-- **#278** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · not recorded in round-1 pull · likes not recorded · age not stated: "so happy to no longer feel the need to wear (and remove) mascara!"
+- **#269** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull) · 57 likes · says age 69: "I am 69 and just recently decided to ditch masacra. Its a bit scary but I am sick of the mess!"
+- **#272** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull) · 39 likes · says age 69: "I am 69 and I have pretty much stopped wearing mascara."
+- **#278** Category (mascara or tubing mascara in general) · YouTube WAR60jvd5jY · YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull) · 5 likes · age not stated: "so happy to no longer feel the need to wear (and remove) mascara! …"
 - **#92** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-09-20 · 5★ · age box: 65 or over: "I love this mascara. My eyes water frequently and itch a lot. Consequently, I couldn’t wear mascara. My friend told me about tubing mascara. I have absolutely no issues with this mascara. No watery or itchy eyes. Also, I’ve tried many products to make my lashes longer. Nothing worked. I now actually have visible lashes thanks to Thrive liquid lash extensions tubing mascara. And, I love the blue! Can’t wait to try …"
 - **#96** Thrive Liquid Lash Extensions · thrivecausemetics.com (brand's own site) · 2026-10-15 · 5★ · age box: 65 or over: "This is undoubtedly the best mascara I’ve ever used. I have very sensitive skin where the eyelashes attach. I’ve tried so many different mascaras over the years but I would end up with irritated eyelids. I had quit even bothering to try using mascara. Now I wear mascara all day with no problem whatsoever. I am so pleased that I took a chance on this product. Highly recommend."
 - **#192** Maybelline Sky High / Sky Tubes · YouTube P52cMKaQmII · YouTube label "2 months ago" (as of 2026-10-31) · 6 likes · age not stated: "I have not wore mascara in years. It was so complicated back in the day to apply. However your tutorial perked my interest Mel and so I'm excited to go for it."
@@ -459,7 +499,7 @@ All reviews in this theme: #41, #64, #81, #83, #85, #92, #96, #192, #226, #266, 
 
 ## 5. Every review, word for word
 
-Numbered #1 to #278. The number stays the same in every list above. Text is copied exactly, including spelling mistakes. "…" inside a YouTube comment marks where the round-1 helper had already cut it. Stars come from the shop; "likes" are YouTube likes. YouTube dates are YouTube's own relative label ("2 years ago") as shown on 2026-10-31.
+Numbered #1 to #287 (#279–#287 added in the finishing pass). The number stays the same in every list above. Text is copied exactly, including spelling mistakes. "…" inside a YouTube comment marks where the round-1 helper had already cut it. Stars come from the shop; "likes" are YouTube likes. YouTube dates are YouTube's own relative label ("2 years ago") as shown on 2026-10-31.
 
 ### 5.1 Luxe Conditioning Peptide Mascara (80)
 
@@ -1798,7 +1838,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **Reviewer:** Sandy W. (verified buyer)  
 **Age / type:** age box: 55-64 · Location: Florida; Skin Type: Combination  
 **Title:** Inferior product  
-**Themes:** P6, T1, T2, T11, T5
+**Themes:** T1, T2, T11, T5
 
 > I have loved the liquid lash extensions for the last 10 years and this tubing mascara just isn’t even close. It does not add any length of volume. I just spoke with a representative who said it will be back 1 May but I’m not quite so sure that that’s the truth unfortunately, I will have to switch to another product with another company.
 
@@ -2069,7 +2109,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#237**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "6 months ago (edited)" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 11 likes  
 **Reviewer:** @MmeO  
 **Age / type:** says age 67  
@@ -2080,7 +2120,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#238**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "6 months ago (edited)" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 6 likes  
 **Reviewer:** @toribern419  
 **Age / type:** says age 52  
@@ -2091,7 +2131,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#239**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "6 months ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 4 likes  
 **Reviewer:** @Marlenabkk  
 **Age / type:** age not stated  
@@ -2102,8 +2142,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#251**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 2 likes  
 **Reviewer:** @annkaminski9902  
 **Age / type:** age not stated  
 **Themes:** T3, T5
@@ -2113,7 +2153,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#252**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara (application tip)  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 12 likes  
 **Reviewer:** @CarolZone8A  
 **Age / type:** age not stated  
@@ -2124,8 +2164,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#255**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 2 likes  
 **Reviewer:** @VictoriaBC610  
 **Age / type:** age not stated  
 **Themes:** T2, T5
@@ -2135,8 +2175,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#265**  
 **Product:** Thrive Causemetics Liquid Lash Extensions Mascara  
 **Source:** YouTube comment on oDqUrZhtqsU "Mascara 101: Why You Smear (Mature Makeup Masterclass)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=oDqUrZhtqsU  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "3 years ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 0 likes  
 **Reviewer:** @NIKKIRHODES1212  
 **Age / type:** age not stated  
 **Themes:** P1, T8
@@ -2365,7 +2405,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#240**  
 **Product:** Tarte Tartelette Tubing Mascara  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "6 months ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 11 likes  
 **Reviewer:** @unik428  
 **Age / type:** age not stated  
@@ -2376,8 +2416,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#256**  
 **Product:** Tarte Tartelette Tubing Mascara  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 3 likes  
 **Reviewer:** @Ros5477  
 **Age / type:** age not stated  
 **Themes:** P1, P2, T5
@@ -2387,8 +2427,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#259**  
 **Product:** Tarte Tartelette Tubing Mascara  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 0 likes  
 **Reviewer:** @susanmcf1  
 **Age / type:** age not stated  
 **Themes:** P2, P3, T9, T6b
@@ -2537,15 +2577,15 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **Reviewer:** Lucy R. (verified buyer)  
 **Age / type:** age not stated  
 **Title:** Fantastic product!  
-**Themes:** P2, P3, P6, T1, T2, T3, T7, T6b
+**Themes:** P2, P3, T1, T2, T3, T7, T6b
 
 > I am not a makeup person and I love this mascara. I bought it for my wedding on the recommendation of a friend, and am a fan for life. With other eye mascaras my sensitive eyes would water or sting, and I have not noticed that with blinc. I also love how you don't have to scrub your eyes to get it off at the end of the day. The tubes are soft and flexible, so you don't get poked when you remove them, either! I like the natural, non-cakey look that stays all day but gives your lashes extra definition. The tube also lasts a long time and I think it is a good value. 10/10 would recommend.
 
 **#243**  
 **Product:** Blinc Original Tubing Mascara  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** not found (comment not on the NexLev comment pages re-pulled 2026-10-31)  
+**Stars / likes:** likes not found  
 **Reviewer:** @anitadrink5499  
 **Age / type:** age not stated  
 **Themes:** P1, P2, T2, T6b
@@ -2693,7 +2733,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **Stars / likes:** 1 like  
 **Reviewer:** @petat13  
 **Age / type:** age not stated  
-**Themes:** P2, P3, P4, P6, T1, T2, T4
+**Themes:** P2, P3, P4, T1, T2, T4
 
 > I agree with everything you’ve said.  I can’t remember ever wearing a mascara that made my lashes look so good. I bought this about a month ago,  and I love it!  I have tiny little lashes and sensitive eyes.  My eyelashes actually looked like eyelashes and I got compliments.   It doesn’t clump on me and my lashes look defined.  The wand worked really well for me too (I poke myself in the eye more often than not).   But, I did get some fallout after a very long day so watch for that.  Removal was also very easy. Definitely my current fave!
 
@@ -2834,7 +2874,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#221**  
 **Product:** Essence Lash Princess  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** YouTube label "1 yr" ago (as of 2026-10-31)  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 82 likes  
 **Reviewer:** @kimschott8032  
 **Age / type:** age not stated  
@@ -2845,7 +2885,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#227**  
 **Product:** Essence Lash Princess  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 114 likes  
 **Reviewer:** @kathystclair9485  
 **Age / type:** age not stated  
@@ -2856,8 +2896,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#228**  
 **Product:** Essence Lash Princess  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** not found (comment not on the NexLev comment pages re-pulled 2026-10-31)  
+**Stars / likes:** likes not found  
 **Reviewer:** @JoyWinters-t4h  
 **Age / type:** age not stated  
 **Themes:** P1, P2, P3, T3, T8, T5, T6
@@ -3000,7 +3040,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **Stars / likes:** 11 likes  
 **Reviewer:** @rcherry762  
 **Age / type:** age not stated  
-**Themes:** P5, P6
+**Themes:** P5
 
 > For tubing mascara, you should try Korean and Japanese brands. My favorite is the DHC mascara. My second favorite is Hourglass, though. Thrive made my eyelashes straight as pokers.
 
@@ -3119,7 +3159,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#235**  
 **Product:** Rimmel (mascara not named)  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** YouTube label "6 mo" ago (as of 2026-10-31)  
+**Date:** YouTube label "6 months ago (edited)" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 73 likes  
 **Reviewer:** @margieshelnutt9006  
 **Age / type:** says age 68  
@@ -3130,7 +3170,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#241**  
 **Product:** Haus Labs mascara  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "6 months ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 6 likes  
 **Reviewer:** @leonnahofer9138  
 **Age / type:** age not stated  
@@ -3141,19 +3181,19 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#244**  
 **Product:** Clinique mascara  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 18 likes  
 **Reviewer:** @nedamm5677  
 **Age / type:** age not stated  
 **Themes:** P4, P5, T10, T6c
 
-> I have blonde thin and straight lashes that are invisible without mascara. ... Clinique ... products used to irritate my eyes
+> I have blonde thin and straight lashes that are invisible without mascara. ... Never tried Clinque [sic] as their products used to irritate my eyes …
 
 **#254**  
 **Product:** Victoria Beckham Vast Lash  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 3 likes  
 **Reviewer:** @bethirwin7445  
 **Age / type:** age not stated  
 **Themes:** P1, P3, T5
@@ -3163,8 +3203,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#262**  
 **Product:** YSL mascara  
 **Source:** YouTube comment on mALJZ4f8lCc "The Best Mascaras For Over 40 That Don't Smudge By Midday (Nina Ubhi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=mALJZ4f8lCc  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 1 like  
 **Reviewer:** @mikaelamichael7456  
 **Age / type:** age not stated  
 **Themes:** P1, T5
@@ -3174,13 +3214,13 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#263**  
 **Product:** Hourglass mascara  
 **Source:** YouTube comment on mALJZ4f8lCc "The Best Mascaras For Over 40 That Don't Smudge By Midday (Nina Ubhi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=mALJZ4f8lCc  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 2 likes  
 **Reviewer:** @Rachierooh  
 **Age / type:** age not stated  
 **Themes:** T5
 
-> I bought the Hourglass on your recommendation and it is sooo clumpy!!
+> I bought the Hourglass on your recommendation and it is sooo clumpy!! …
 
 ### 5.14 Category (mascara or tubing mascara in general) (46)
 
@@ -3275,7 +3315,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#222**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** YouTube label "1 yr" ago (as of 2026-10-31)  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 190 likes  
 **Reviewer:** @vanessawilen2417  
 **Age / type:** age not stated  
@@ -3286,7 +3326,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#223**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 76 likes  
 **Reviewer:** @jamiebrennan5779  
 **Age / type:** says age 64  
@@ -3297,7 +3337,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#224**  
 **Product:** Category: tubing mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** not found (comment not on the NexLev comment pages re-pulled 2026-10-31)  
 **Stars / likes:** 12 likes  
 **Reviewer:** @Amy-bt2ti  
 **Age / type:** age not stated  
@@ -3308,7 +3348,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#225**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** not found (comment not on the NexLev comment pages re-pulled 2026-10-31)  
 **Stars / likes:** 12 likes  
 **Reviewer:** @dfollmer1428  
 **Age / type:** age not stated  
@@ -3319,7 +3359,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#226**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 34 likes  
 **Reviewer:** @elenapizzarello9344  
 **Age / type:** age not stated  
@@ -3330,7 +3370,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#229**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** not found (comment not on the NexLev comment pages re-pulled 2026-10-31)  
 **Stars / likes:** 5 likes  
 **Reviewer:** @AudriannaB-World-Peace  
 **Age / type:** age not stated  
@@ -3341,7 +3381,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#230**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 25 likes  
 **Reviewer:** @mireillefinch9276  
 **Age / type:** age not stated  
@@ -3352,7 +3392,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#231**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 21 likes  
 **Reviewer:** @BMc-hm2pb  
 **Age / type:** age not stated  
@@ -3363,7 +3403,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#232**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 9 likes  
 **Reviewer:** @Keeper_of_the_Hearth  
 **Age / type:** age not stated  
@@ -3374,8 +3414,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#233**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** not found (comment not on the NexLev comment pages re-pulled 2026-10-31)  
+**Stars / likes:** likes not found  
 **Reviewer:** @user-zk8ed4kd2b  
 **Age / type:** age not stated  
 **Themes:** P5
@@ -3385,8 +3425,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#234**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on jDRz2xUsHpg "7 Mascaras in 7 Days: From $4 to $44 (Dominique Sachse)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=jDRz2xUsHpg  
-**Date:** YouTube label "1 mo" ago (as of 2026-10-31)  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 month ago" (from the round-1 pull; not re-found on 2026-10-31)  
+**Stars / likes:** likes not found  
 **Reviewer:** @Kat0294  
 **Age / type:** says age 60  
 **Themes:** T11
@@ -3396,7 +3436,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#236**  
 **Product:** Category: tubing mascara in general  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "6 months ago (edited)" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 7 likes  
 **Reviewer:** @erinobrien8793  
 **Age / type:** age not stated  
@@ -3407,8 +3447,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#242**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on xTlSgFpsFpo "10 Best Mascaras For Aging Women (And 3 To Avoid) (Face Value)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xTlSgFpsFpo  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "5 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 1 like  
 **Reviewer:** @carolegriffith7198  
 **Age / type:** age not stated  
 **Themes:** T8, T11
@@ -3418,7 +3458,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#245**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "4 months ago (edited)" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 17 likes  
 **Reviewer:** @theasullivan4227  
 **Age / type:** age not stated  
@@ -3429,8 +3469,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#246**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 1 like  
 **Reviewer:** @mlaiuppa  
 **Age / type:** age not stated  
 **Themes:** P1, P4, T1, T2, T3, T8, T9
@@ -3440,7 +3480,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#247**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 8 likes  
 **Reviewer:** @DSmith-ix1xf  
 **Age / type:** age not stated  
@@ -3451,7 +3491,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#248**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 7 likes  
 **Reviewer:** @lrg613  
 **Age / type:** age not stated  
@@ -3462,19 +3502,19 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#249**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 0 likes  
 **Reviewer:** @teddyroon  
 **Age / type:** says age 66  
 **Themes:** P1, P3, T1, T2, T3, T10, T11
 
-> Im 66 and have small, dry, sensitive eyes. Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes or just creating a very dark shadow underneath
+> Im 66 and have small, dry, sensitive eyes. Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes or just creating a very dark shadow underneath …
 
 **#250**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on K72lJWqP_Co "9 Best Mascaras For Aging Women (And 3 To Avoid) (Glow Audit)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=K72lJWqP_Co  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "3 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 1 like  
 **Reviewer:** @lornacartwright1341  
 **Age / type:** age not stated  
 **Themes:** T7
@@ -3484,7 +3524,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#253**  
 **Product:** Category: tubing mascara in general  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 4 likes  
 **Reviewer:** @Corrine919  
 **Age / type:** age not stated  
@@ -3495,8 +3535,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#257**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 year ago (edited)" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 1 like  
 **Reviewer:** @donkiml5805  
 **Age / type:** age not stated  
 **Themes:** P1, P3, T3
@@ -3506,8 +3546,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#258**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 2 likes  
 **Reviewer:** @michelleyork7647  
 **Age / type:** age not stated  
 **Themes:** P4, P5
@@ -3517,7 +3557,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#260**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on xsQWIs5AWMg "If your Mascara Smudges: TRY THESE. (Glam Girl Gabi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=xsQWIs5AWMg  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "1 year ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 8 likes  
 **Reviewer:** @juStb4u  
 **Age / type:** age not stated  
@@ -3528,8 +3568,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#261**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on mALJZ4f8lCc "The Best Mascaras For Over 40 That Don't Smudge By Midday (Nina Ubhi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=mALJZ4f8lCc  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 2 likes  
 **Reviewer:** @danikafarnsworth5590  
 **Age / type:** says age 40  
 **Themes:** P1, T2, T10
@@ -3539,8 +3579,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#264**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on mALJZ4f8lCc "The Best Mascaras For Over 40 That Don't Smudge By Midday (Nina Ubhi)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=mALJZ4f8lCc  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "4 months ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 2 likes  
 **Reviewer:** @tsch-d1  
 **Age / type:** age not stated  
 **Themes:** P1, P2
@@ -3550,8 +3590,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#266**  
 **Product:** Category: tubing mascara in general  
 **Source:** YouTube comment on oDqUrZhtqsU "Mascara 101: Why You Smear (Mature Makeup Masterclass)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=oDqUrZhtqsU  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "3 years ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 1 like  
 **Reviewer:** @ItzaMuMu  
 **Age / type:** age not stated  
 **Themes:** P1, T12
@@ -3561,8 +3601,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#267**  
 **Product:** Category: tubing mascara in general  
 **Source:** YouTube comment on oDqUrZhtqsU "Mascara 101: Why You Smear (Mature Makeup Masterclass)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=oDqUrZhtqsU  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "3 years ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 0 likes  
 **Reviewer:** @lynnstocker2931  
 **Age / type:** age not stated  
 **Themes:** none
@@ -3572,7 +3612,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#268**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** YouTube label "2 yr" ago (as of 2026-10-31)  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 125 likes  
 **Reviewer:** @robiness5344  
 **Age / type:** age not stated  
@@ -3583,7 +3623,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#269**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 57 likes  
 **Reviewer:** @loftonrudolph7586  
 **Age / type:** says age 69  
@@ -3594,7 +3634,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#270**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 57 likes  
 **Reviewer:** @phyllistallent4149  
 **Age / type:** age not stated  
@@ -3605,7 +3645,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#271**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 44 likes  
 **Reviewer:** @rebeccaholley1544  
 **Age / type:** age not stated  
@@ -3616,7 +3656,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#272**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 39 likes  
 **Reviewer:** @jackielambes7208  
 **Age / type:** says age 69  
@@ -3627,7 +3667,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#273**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 30 likes  
 **Reviewer:** @Kim-ek7xy  
 **Age / type:** age not stated  
@@ -3638,7 +3678,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#274**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago (edited)" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 28 likes  
 **Reviewer:** @patwagner9308  
 **Age / type:** says age 76  
@@ -3649,7 +3689,7 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#275**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 30 likes  
 **Reviewer:** @lindap.p.1337  
 **Age / type:** says age 77  
@@ -3660,18 +3700,18 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#276**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 42 likes  
 **Reviewer:** @adriennekushner1968  
 **Age / type:** age not stated  
 **Themes:** P6
 
-> When I had my cataract surgery, I bought a 10X mirror so I could see up close.
+> When I had my cataract surgery, I bought a 10X mirror so I could see up close. …
 
 **#277**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
 **Stars / likes:** 20 likes  
 **Reviewer:** @veronicafullford1697  
 **Age / type:** age not stated  
@@ -3682,14 +3722,120 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 **#278**  
 **Product:** Category: mascara in general  
 **Source:** YouTube comment on WAR60jvd5jY "Why I Gave Up Wearing Mascara as a Woman Over 60 (Rebecca Over 60)" (pulled in round 1, raw: data/mascara/nexlev-youtube-comments-2026-10-31.md) · https://www.youtube.com/watch?v=WAR60jvd5jY  
-**Date:** not recorded in round-1 pull  
-**Stars / likes:** likes not recorded  
+**Date:** YouTube label "2 years ago" (as of 2026-10-31, NexLev re-pull)  
+**Stars / likes:** 5 likes  
 **Reviewer:** @sukapsc  
 **Age / type:** age not stated  
 **Themes:** P2, T1, T3, T10, T12
 
-> so happy to no longer feel the need to wear (and remove) mascara!
+> so happy to no longer feel the need to wear (and remove) mascara! …
 
+### 5.15 Category: mascara talk inside reviews of Luxe's lash-lift kit (Luxe UK shop) (8)
+
+Added in the finishing pass. Luxe's UK shop-wide review feed has no mascara reviews. These 8 are reviews of the lash-lift kit in which the writer describes her problems with mascara (straight lashes that won't hold a curl, smudging, curlers that break lashes). Raw: `judgeme-luxe-uk-shopwide-feed-2026-10-31.json`.
+
+**#279**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id 49b289ed-a223-4ef3-863b-f183ea94b216 · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2024-10-09  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Sarah M. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P5, T10
+
+> I so wish I had taken a before image! The kit was simple to use. I managed to do both eyes at the same time and I am super impressed with the results! Until now, the only mascara that kept a lift in my lashes was Mac Perm Me up, otherwise, my lashes would be straight soon after applying mascara, even after curling. I don't even need mascara on my top lashes after tinting them.
+
+**#280**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id ad6f7a30-c934-4eb4-922e-726e26cc3a79 · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2024-07-11  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Tilda (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P5, T7, T10
+
+> I have naturally very long eyelashes but they’re super straight and downwards facing with no curl whatsoever. Normally if I don’t wear loads of mascara I don’t even look like I have eyelashes! I’ve always been a sucker for spending heaps on different types of mascara going to get curled lashes but until trying this luxe lash lift I haven’t really seen results… but omg…! I don’t even think I did it correctly as I didn’t use the lash comb and didn’t trim the pads so missed half my lashes and let me say my lashes look the best they’ve ever looked! I got the free tint with it and they look like lash extensions no joke! I love them so much and will deffo be using this from now on! Just amazing! Instructions are clear, you get loads of everything for loads of applications and the results speak for themselves!
+
+**#281**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id 4ab928e7-53b9-4aff-a07c-1ab3cb857dad · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2024-05-30  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Katie J. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P4, P5, T10
+
+> Not being dramatic but this product has literally changed my life. I’d always dread using an eyelash curler and applying mascara to my short, straight lashes every morning. It was like a loosing battle!! Luxe allows me to roll out of bed and feel amazing. They last for WEEKS. Honestly best thing ever. I will keep repurchasing forever!!!! Cannot rate enough 🥰🥰🥰🥰🥰
+
+**#282**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id 892d5764-810b-4fe6-942f-05f6c99ce67c · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2024-01-31  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Heather H. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P1, T10
+
+> Never stop doing this product!! it will be "my go to now". I don't have to wear mascara now in the day and when I do, I don't get the previous smudging I was experiencing. I did not think it was going to work aswell as it did. I'm extremely impressed!
+
+**#283**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id 4b4592b1-8453-449b-a223-921bd40a5e1a · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2021-01-26  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Carina L. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P5, T10
+
+> The pads come off very easily at the edges and corners of the eyes. But once you've mastered that, the lashes are a dream 🥰 I had perfectly straight lashes and no tool or mascara could help. I had glued on lash bands and tufts, magnetic lashes and lash extensions and wasn't satisfied with anything because it was a lot of effort to apply or maintain. Here I have 4-6 weeks of great curved lashes and when they are tinted I don't even have to mascara! Brilliant!
+
+**#284**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id ac48c178-bed8-4d92-84bf-4027dc52b733 · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2021-01-26  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Daniela H. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P5, T4
+
+> I have such straight lashes, which bothers me so much and it usually takes me 20 minutes to lift them when I put mascara on. I can't believe I got lashes like this for so little money in the long run. I paid so much at the salon, oh god. I'm so insanely happy with the results :)
+
+**#285**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id fdb31def-6c01-42b8-a755-0987f8b5a63c · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2022-12-20  
+**Stars / likes:** 4★ (for the lash-lift kit)  
+**Reviewer:** Charlotte V. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P4, P5
+
+> My eyelashes are naturally short and sometimes broken off because of my eyelash curler. When I saw Luxe on tiktok I just wanted to try it and I am really very satisfied. The application is simple, it smells pleasant. I continued to use mascara and the effect still remains
+
+**#286**  
+**Product:** Category: mascara in general (the review itself is of **Luxe Lashlift Set**, Luxe's lash-lift kit, not of the mascara)  
+**Source:** Brand's own site: Luxe UK shop (luxe-cosmetics.uk), Judge.me shop-wide review feed, review id 0f0f3d9a-da50-4df6-b948-3383c0fad2cd · https://luxe-cosmetics.uk/products/lash-lift-kit  
+**Date:** 2025-01-06  
+**Stars / likes:** 5★ (for the lash-lift kit)  
+**Reviewer:** Fiza T. (marked verified buyer)  
+**Age / type:** age not stated  
+**Themes:** P5
+
+> Lashes are lifted and curled so nicely. Two pictures with mascara and one just without mascara. So impressed with how easy this kit is to use and how the mascara doesn’t make the lashes fall (usually they do). Not sure how long they last since I’ve only curled them 6 days ago but happy with this kit and have already ordered again!
+
+### 5.16 Luxe Conditioning Peptide Mascara: Amazon, from a search snippet (1)
+
+**#287**  
+**Product:** Luxe Cosmetics Conditioning Peptide Mascara (Amazon US listing B0HJ27TRDR, which carries the same title as B0GSXJCZ93)  
+**Source:** Amazon US, seen only in a web-search result summary (the Amazon page was not loaded) · https://us.amazon.com/Cosmetics-Conditioning-Buildable-Long-Lasting-Clump-Free/dp/B0HJ27TRDR · raw: `websearch-amazon-snippets-2026-10-31.md`  
+**Date:** not found (search engine's capture date unknown)  
+**Stars / likes:** not found  
+**Reviewer:** not found  
+**Age / type:** age not stated  
+**Themes:** T1
+
+> A great mascara that does not clump and is a pretty color
+
+(It is not clear whether this line is the review's title or its text. [M, snippet])
 
 ---
 
@@ -3697,7 +3843,8 @@ Numbered #1 to #278. The number stays the same in every list above. Text is copi
 
 | Source | What happened |
 |---|---|
-| Amazon (all countries) | Blocks automated loads. Not tried, as the brief says. Only the star averages from round-1 search snippets are used. |
+| Amazon (all countries) | Blocks automated loads. Not tried, as the brief says. Six web searches (finishing pass) found star averages and one line of review text (#287); nothing else. Capture dates unknown. |
+| Luxe UK shop-wide review feed (Judge.me) | Loaded normally, 25 reviews a page. The feed says 4,631 product reviews, but after page 37 (911 rows, 518 different reviews, 2021-01-26 to 2026-10-25) it returned empty pages. I stopped there; no retries, no other route. No row is a mascara review. 29 different reviews mention mascara; 8 are quoted (#279–#286). |
 | Reddit | Blocked (403). Not tried again. |
 | PrimeLash's own review feed (primeprometics.com, Stamped app, "14156" reviews) | The page itself loaded; the request for its review feed was **stopped by the permission system** before it ran. I did not retry or try another way. No PrimeLash shop reviews are in this file. |
 | e.l.f., Maybelline, Essence own-site reviews | e.l.f. uses Bazaarvoice and the Lash Xtndr page I guessed returned "not found"; maybelline.com and essence.eu are not Shopify shops. I did not go further, to stay within the no-workaround rule. These brands are covered by YouTube comments only. |
@@ -3728,4 +3875,10 @@ All pulled 2026-10-31.
 
 **The selection used in this file, with theme codes:** `selected-reviews-coded-2026-10-31.json` (one record per review, with its # number).
 
-**Still to do (house rule 3):** a second helper should re-check a sample of these quotes and counts against the raw files before they go to the operator.
+**Finishing pass (2026-10-31):**
+- `nexlev-youtube-comments-repull-2026-10-31.md`: NexLev re-pull of the round-1 videos, used for the dates and likes of #221–#278.
+- `judgeme-luxe-uk-shopwide-feed-2026-10-31.json`: Luxe UK shop-wide Judge.me feed, pages 1–37 (https://judge.me/reviews/all_reviews_js_based?url=luxe-cosmetics.uk&shop_domain=luxecosmetics-uk-ireland.myshopify.com&platform=shopify&page=N&per_page=25), used for #279–#286.
+- `websearch-amazon-snippets-2026-10-31.md`: the six web searches and what they returned, used for #287 and the Amazon star figures.
+- Note: `selected-reviews-coded-2026-10-31.json` was not edited. It still carries the old P6 code on #112, #150, #171 and #191, and it has no records for #279–#287.
+
+**Checked:** a second helper re-checked a sample of quotes and counts against the raw files on 2026-10-31 (`checks/packs/01-mascara-pack-check.md`); its fixes are applied in this version.
