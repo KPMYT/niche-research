@@ -161,52 +161,73 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 
 | Word | Plain meaning |
 |---|---|
+| **Acrylate allergy** | An allergy to acrylates, the plastic-like film-formers in some tightening creams and in nail gels and glues. |
 | **Active (ingredient)** | An ingredient that is meant to change the skin, not just moisturise it. |
 | **Adenosine** | A small molecule found in every cell of the body (it is part of the cell's energy system). In skincare it is an anti-wrinkle ingredient. See 2.3. |
+| **AHA (alpha hydroxy acid)** | A family of mild acids (glycolic, lactic) that loosen dead surface skin cells so they wash away. They can sting near the eyes. |
 | **Allergic contact dermatitis** | A rash caused by an allergy to something touching the skin. The eyelids are a common place for it. |
 | **Allergic shiners** | Dark, puffy under-eyes caused by allergies and congestion. |
 | **Argan oil** | An oil pressed from the nuts of the Moroccan argan tree. |
+| **Azelaic acid / kojic acid / tranexamic acid / alpha arbutin** | Skin-lightening ingredients that slow the making or spreading of brown pigment. They work slowly, over months. |
 | **Balm** | A solid or near-solid mix of waxes and oils, with little or no water. |
 | **Barrier (skin barrier)** | The outer layer of skin, which keeps water in and irritants out, like brick and mortar. |
 | **Bisabolol** | A soothing ingredient first found in chamomile flowers. |
 | **Blepharoplasty** | Eyelid surgery. A "lower bleph" removes or moves under-eye fat and sometimes skin. |
+| **BOGO** | "Buy one, get one free", a shop offer. |
+| **Botox** | An injection, given by a doctor or nurse, that relaxes a muscle for some months so the lines it makes soften. No cream does this. |
 | **Brightening** | Making skin look less dull or less brown. |
 | **Caffeine (in skincare)** | Narrows small blood vessels for a while, which reduces puffiness and redness a little. |
+| **Chemical peel** | An acid put on the skin in a clinic so the top layer peels off and fresh skin grows back. |
+| **CO2 laser / resurfacing** | A strong laser that burns away a very thin top layer of skin so new, smoother skin grows. "Resurfacing" means any treatment that does this. |
 | **Collagen** | The protein "scaffolding" that makes skin firm, like the springs in a mattress. |
 | **Colour corrector** | A peach, orange or pink makeup that cancels blue or purple before concealer. |
 | **Concealer** | Thick, skin-coloured makeup used to hide dark circles and spots. |
 | **Creasing (of concealer)** | Concealer collecting in lines when you smile, leaving visible streaks. |
 | **Crepey skin** | Thin skin with very fine, criss-cross wrinkles, like crepe paper. |
+| **Cross-linked** | Chemically tied together. Filler gel is hyaluronic acid cross-linked so it lasts months instead of a day. |
 | **Crow's feet** | Lines fanning out from the outer corner of the eye. |
+| **CT scan** | A 3-D X-ray picture of the inside of the body, here the skull. |
 | **Dark circles** | Any darkness under the eyes: brown, blue or purple, or a shadow. |
 | **Dehydration lines** | Very fine lines that appear when skin is short of water and fade when it is moisturised. |
 | **Dermatochalasis** | Loose, extra eyelid skin. |
 | **Dermatologist** | A skin doctor. |
 | **Dermis** | The thick middle layer of skin, which holds collagen and elastin. |
+| **Dummy (placebo) cream** | A cream with no active ingredient, used in a trial for comparison. |
+| **Eczema** | A long-lasting skin condition: dry, itchy, red, sometimes cracked skin. On the eyelids it often comes from allergies. |
 | **Elastin** | The protein that lets skin snap back after stretching, like elastic in a waistband. |
 | **Emollient** | An ingredient that softens and smooths skin. |
 | **Epidermis** | The thin top layer of skin. |
+| **Esters** | Lab-made oils, light and silky, used to make creams and sticks glide. |
+| **Esthetician / medical esthetician** | A trained skin-care specialist who does facials and skin treatments. A medical esthetician works alongside doctors. Neither is a doctor. |
 | **Festoons / malar bags** | Puffy swellings lower down, on the top of the cheekbone. |
 | **Filler (HA filler)** | A gel of hyaluronic acid injected by a doctor to fill a hollow. |
 | **Fine lines** | Shallow, thin wrinkles. |
 | **Fragrance-free** | No perfume added. (Unscented products can still contain masking scents. Fragrance-free is the better label.) |
 | **Functional cosmetic** | A Korean legal category. Products with approved ingredients can claim to whiten, fight wrinkles or protect from the sun. |
+| **Goblet cells** | Cells in the wet lining of the eye and inner lids that make the slippery mucus part of tears. |
 | **Humectant** | An ingredient that pulls water in, like a sponge. |
 | **Hyaluronic acid (HA) / sodium hyaluronate** | A sugar-based molecule that holds a lot of water. Sodium hyaluronate is its salt form, commonly used in creams. |
+| **Hydroquinone** | A strong skin-lightening cream, prescription-only in many countries. Doctors limit how long it is used. |
 | **Hyperpigmentation** | Extra brown pigment (melanin) in the skin. |
 | **INCI list** | The full ingredient list, written in standard names, in order from most to least. |
+| **kDa (kilodalton)** | A unit for the weight of large molecules: 1 kDa = 1,000 daltons. Small HA is about 50 kDa; anything over about 0.5 kDa (500 daltons) can't soak through skin. |
+| **LactMed** | A US National Library of Medicine database about medicines and herbs, written for breastfeeding mothers. Its chamomile page is used here. |
 | **Lid-cheek junction** | Where the lower lid meets the cheek. |
 | **Lower lash line** | The edge of the lower eyelid where the bottom lashes grow. |
 | **Meibomian glands** | Tiny oil glands in the lid rims that keep tears from drying out. |
 | **Melanin** | The brown pigment in skin. |
+| **Meta-analysis / pooled** | A study that adds up ("pools") the results of many earlier studies to get one overall answer. |
+| **Microneedling** | A clinic treatment with a pen of tiny needles that makes many small pricks, so the skin repairs and thickens a little. |
 | **Milia** | Tiny hard white bumps, like grains of sand under the skin. They are little cysts of trapped keratin (skin protein). |
 | **Mineral sunscreen** | Sunscreen that uses zinc oxide or titanium dioxide. It is usually gentler around the eyes. |
 | **Multi-balm** | A balm stick sold for many areas: eyes, lips, smile lines, neck. |
+| **Nano-fat** | Your own fat, filtered into a very fine liquid and injected to improve thin skin. |
 | **Niacinamide** | Vitamin B3. It helps the barrier, uneven pigment and redness. |
 | **Non-comedogenic** | Made so it won't block pores (a claim, not a guarantee). |
 | **Occlusive** | An ingredient that sits on top and seals water in. |
-| **Ophthalmologist** | A medical doctor who specialises in eyes and does eye surgery. |
 | **Oculoplastic surgeon** | An eye doctor who specialises in eyelid and eye-socket surgery. |
+| **Odds (in a study)** | How much more likely something is. "Odds 6×" means about six times as likely. |
+| **Ophthalmologist** | A medical doctor who specialises in eyes and does eye surgery. |
 | **Optometrist** | An eye-care professional who tests vision and treats many eye conditions, but is not a surgeon. |
 | **Orbital fat** | The fat cushion around the eyeball. |
 | **Orbital rim / orbital bone** | The bony edge of the eye socket. |
@@ -214,16 +235,29 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 | **PDRN (polydeoxyribonucleotide)** | Pieces of DNA, usually from salmon. It is injected in clinics. In creams it is a fashionable extra. |
 | **Peptides** | Short chains of amino acids (protein building blocks) used as messengers in anti-ageing creams. |
 | **Periorbital** | Around the eye. |
+| **Pigmentary demarcation lines** | A natural, sharp border between darker and lighter skin, common in deeper skin tones, sometimes under the eyes. |
 | **Pilling** | Product rolling into little balls on the skin when layered. |
+| **PMID** | A study's number in PubMed, the US National Library of Medicine's index of medical research. Look it up at pubmed.ncbi.nlm.nih.gov. |
+| **POH (periorbital hyperpigmentation)** | Doctors' name for brown darkness around the eyes. |
 | **PRP / PRF** | Platelet-rich plasma or fibrin. Your own blood is spun and injected to improve skin quality. |
 | **Puffiness** | Temporary swelling from fluid, usually worse in the morning. |
+| **Pulsed dye laser** | A laser whose light is soaked up by red blood, so it shrinks small visible blood vessels. |
+| **Radiofrequency** | A clinic device that heats the deeper skin to tighten it a little. |
+| **Randomised (trial)** | People are put into groups by chance, so the groups are fair to compare. |
 | **Retinoid / retinol / retinal / tretinoin** | The vitamin A family. They are the best-proven creams for lines, but can sting and dry the eyes. Tretinoin is prescription-only. |
-| **SOOF** | The fat pad where the eyelid meets the cheek. |
+| **Retinyl palmitate / polyethoxylated retinamide** | Two lab-made, gentler forms of vitamin A. |
+| **Rosacea** | A long-lasting skin condition with redness, flushing and sometimes bumps on the face. The skin stings easily. |
 | **Septum (orbital septum)** | The thin "wall" that holds eye fat in place. |
+| **Single-blind / double-blind** | In a single-blind trial the people testing don't know which product they have; in a double-blind trial the researchers don't know either. |
+| **SOOF** | The fat pad where the eyelid meets the cheek. |
+| **Spate** | A company that measures beauty searches on Google and reports which ones are rising. |
 | **SPF** | Sun protection factor: how well a sunscreen blocks the burning rays. |
 | **Syringoma** | A small, flat, harmless bump of a sweat gland. Common under the eyes. |
+| **Systematic review** | A study that gathers and weighs every earlier study on one question. |
+| **Tear film** | The thin layer of water, oil and mucus that covers the front of the eye. Dry eye is a poor tear film. |
 | **Tear trough** | The groove running from the inner corner of the eye down onto the cheek. |
 | **Tyndall effect** | A blue tint under the skin when filler is placed too shallow. |
+| **µm (micrometre)** | A thousandth of a millimetre. A sheet of printer paper is about 100 µm thick. |
 | **Vascular (dark circles)** | Darkness caused by visible blood vessels. |
 | **Vitamin E (tocopherol)** | A fat-soluble antioxidant that protects oils and skin from damage. |
 | **Waterline** | The wet inner rim of the eyelid, right against the eyeball. Never put balm here. |
@@ -244,7 +278,7 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 | Price on luxeresearchlab.com | $34.99 (marked down from $39.95), "BUY 2, GET 1 FREE"; a second listing at $34.95 | luxeresearchlab.com products.json [M] |
 | Price on Amazon | not found (Amazon not loaded) | — |
 | Size (grams or ounces) | **not found**. The shop records give weight 0. Look-alike Amazon listings say 0.38 oz (about 10.8 g). | shop JSON; earlier report [M] |
-| Price per gram | **not computable** without a size. For comparison, the Korean rival sticks cost about $2.10–2.68 a gram. | earlier report §5 [M] |
+| Price per gram | **not computable** without a size. For comparison, the Korean rival sticks cost about $2.10–2.68 a gram (earlier report §5), or up to about $2.78 a gram for KAHI at $24.99 / 9 g on vitacost.com (2026-10-31). | earlier report §5; vitacost.com [M] |
 | How long one lasts | Three different answers from the brand: "About 60-75 days with twice-daily use" (luxe.com); "Approximately 30-45 days with twice-daily use" (luxeresearchlab.com); "One tube lasts about 2–3 months" (Amazon bullet, via an affiliate). | brand pages; earlier report [M] |
 | Monthly cost the brand claims | "Cost per month $15" (luxe.com comparison chart) | luxe.com [M] |
 | Where it is made | not stated | earlier report [M] |
@@ -570,7 +604,7 @@ Note: the second Luxe shop says to put the balm "before moisturizer". Either wor
 | **Deep-set or hollow eyes** | Low benefit | The shadow is structural. |
 | **Contact-lens wearers** | Fine with care | Lenses in first; keep the balm off the lid edge. |
 | **Dry-eye sufferers** | Fine with care | Keep it well away from the lid edge. Retinol-free is a plus. |
-| **Tight budget** | Weak value | $35–40 with no stated size, against $19–24 Korean sticks with stated sizes, or a $10 tub of plain petrolatum or a $20 drugstore eye cream. |
+| **Tight budget** | Weak value | $35–40 with no stated size, against $19–25 Korean sticks with stated sizes, or a $10 tub of plain petrolatum or a $20 drugstore eye cream. |
 
 ### 5.2 How needs change with age, decade by decade [R, with sources in 5.3]
 
@@ -775,8 +809,8 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 - **Why it happens [M].** Expression plus collagen loss plus sun: "chronic creasing of the skin from expression throughout our lifetime coupled with age related decline in collagen, collagen loss due to well good oldfashioned sun" (Dr Dray, si9l1VZtzvQ). Poor sleep: "people who are sleep deprived have more prominent signs of photo aging and they have deeper wrinkles" (Dr Dray, a2Hot5ZsYU8).
 - **How it feels [M].** "62, no amount of collagen creams or fancy serums are going to make my skin bounce back to the skin of a 20 year old." (@K9que, 257 likes, hAc7jewvVWE). "I am 65, and no matter what I do, the fine and so fine lines show up." (@LindaLorge, 50 likes, MX95EGYDkkU).
 - **What people try, and why it fails [M quotes, R summary].**
-  - **Expensive eye creams.** "I've spent several hundred dollars on everything imaginable, and not one single thing has changed about my eyes." (@December074, 50, si9l1VZtzvQ). Moisture softens lines for hours, but most creams have no proven active at a useful strength.
-  - **Face retinol taken up to the eyes.** It works for some ("I've been using it for about 16 months now, and the area just keeps improving!", @TryMyMartini, 47, bQuVtFwFOA0) but dries and stings others ("I used to use a retinol undereye cream, and I felt I was going crazy because my eyes were getting so dry.", @ricky7111, XKROvYsp0QM).
+  - **Expensive eye creams.** "I've spent several hundred dollars on everything imaginable, and not one single thing has changed about my eyes." (@December074, aged 50, si9l1VZtzvQ). Moisture softens lines for hours, but most creams have no proven active at a useful strength.
+  - **Face retinol taken up to the eyes.** It works for some ("I've been using it for about 16 months now, and the area just keeps improving!", @TryMyMartini, aged 47, bQuVtFwFOA0) but dries and stings others ("I used to use a retinol undereye cream, and I felt I was going crazy because my eyes were getting so dry.", @ricky7111, XKROvYsp0QM).
   - **"Botox in a stick" balms.** "Definitely not "botox " in a stick" (iHerb review of the Dr.Melaxin stick, 2026-03-06). They moisturise; they do not relax the muscles that make crow's feet.
 - **What can fix it [M]:**
   - **Topical vitamin A**, which "probably is your best bet" (Dr Dray, a2Hot5ZsYU8). Use a gentle eye-strength version: "if you're using a retinol on your face it's ... very likely it's too strong for the thin skin of the eyelids". Dr Dray recommends fragrance-free retinol eye creams such as Neutrogena Rapid Wrinkle Repair eye and Avène's retinaldehyde eye cream.
@@ -906,9 +940,9 @@ Prices were pulled 2026-10-31 (sources: earlier report §5 and the pages named).
 | Alternative | What it is | Price [M] | What's different from Luxe [R unless marked] |
 |---|---|---|---|
 | **Medicube PDRN Pink Collagen Volume Multi Balm** | Korean stick, pink | $22 (was $26), medicube.us; 10 g (StyleKorean listing) | Full ingredient list published. Has PDRN (sodium DNA), adenosine, caffeine, peptides **and retinol, plus geranium, ylang-ylang, bergamot and rose oils** [M, INCI]. Stronger mix, more irritation risk, cheaper. |
-| **Dr.Melaxin Cemenrete Calcium Multi Balm** | Korean stick sold as "filler in a stick" | $19 / 9 g, drmelaxin.us | Full list published. Has adenosine and bisabolol too [M, INCI]. Cheaper per gram. Heavy "Botox" marketing drew criticism (James Welsh TybFB4gyKcg). |
-| **KAHI Wrinkle Bounce Multi Balm** | The original "pink stick" | $21–24 / 9 g (Vitacost, Sayweee) | The one that started the trend. Salmon complex and collagen (retailer text). |
-| **d'Alba Double Serum All In One Multi Balm Stick** | Korean stick | $21 / 10 g, dalba.com | Has a "signature aromatic floral citrus fragrance" [M, dalba.com]. Not for fragrance-sensitive eyes. |
+| **Dr.Melaxin Cemenrete Calcium Multi Balm** | Korean stick sold as "filler in a stick" | $19 / 9 g, drmelaxin.us | Full list published. Has adenosine and bisabolol too [M, INCI]. Cheaper per gram. iHerb shows 4.5/5 from 731 reviews (2026-10-31) [M]. |
+| **KAHI Wrinkle Bounce Multi Balm** | The original "pink stick" | $24.99 / 9 g (vitacost.com, pulled 2026-10-31) [M] | The one that started the trend. Salmon complex and collagen (retailer text). Vitacost page: 4.56/5 from 243 reviews [M]. KAHI also sells an Eye Balm stick, $24.80 / 9 g, 4.85/5 from 47 reviews (vitacost.com) [M]. |
+| **d'Alba Double Serum All In One Multi Balm Stick** | Korean stick | $21 / 10 g, dalba.com | Has a "signature aromatic floral citrus fragrance" [M, dalba.com]. Not for fragrance-sensitive eyes. iHerb shows 4.8/5 from 241 reviews [M]. |
 | **Plain petrolatum (Vaseline, Aquaphor)** | Pure occlusive | Not priced in this pull (drugstore staple) | Does the main job of a balm (sealing in water) for very little money. Dr Dray: "petroleum jelly does not cause milia" [M]. No actives. |
 | **Glycerin skin protectant gel (La Roche-Posay Cicaplast Gel, Prequel Skin Utility)** | Dermatologist-favoured barrier gel | price not found | Dr Dray's own night eye routine (si9l1VZtzvQ) [M]. |
 | **Fragrance-free face moisturiser (e.g. CeraVe Moisturizing Cream)** | Your normal cream, used round the eyes too | price not found | Dr Dray: "you do not need a dedicated moisturizing eye cream" (a2Hot5ZsYU8) [M]. |
@@ -940,7 +974,7 @@ Prices were pulled 2026-10-31 (sources: earlier report §5 and the pages named).
 
 ## 8. Questions viewers ask, with plain answers
 
-Taken from real comments and searches (sources in brackets), answered from the doctors and studies above. The answers are my reading [R], built on the sources cited.
+Taken from real comments (sources in brackets), answered from the doctors and studies above. The answers are my reading [R], built on the sources cited. A number like "#255" points to the full comment in the reviews part of this pack (`packs/reviews/03-under-eye-balm-reviews.md`). Where no viewer asked the question in so many words, it is marked **[R: my question]**: a question this audience is likely to have, added by me.
 
 | # | Question | Plain answer |
 |---|---|---|
@@ -949,36 +983,36 @@ Taken from real comments and searches (sources in brackets), answered from the d
 | 3 | "Do you wear it under sunscreen due to the retinol?" (Medicube video comment, HxsOvh5HVzQ) | Luxe says it has no retinol. You still wear sunscreen every morning, on top of the balm. |
 | 4 | "After a few months of using it, do you still recommend it?" (HxsOvh5HVzQ) | Judge it with photos in the same light at day 1, week 4 and week 8. Expect smoother, less dry skin, not new eyes. |
 | 5 | "Which are best for dark circles" (wgWdHoI9leI, 41 likes) | It depends on the type (section 6.0). Brown: sunscreen plus niacinamide or vitamin C. Blue: corrector, allergy care, lasers. Shadow: filler or lighting. |
-| 6 | Do I really need an eye cream? | No. Two dermatologists say your face moisturiser works (Dr Dray, Dr Sam Ellis). Eye products are mainly gentler and easier to apply. |
-| 7 | Is it safe for sensitive eyes? | It is sold as retinol-free and fragrance-free, which suits sensitive eyes. But no full ingredient list was found, so patch-test first. |
-| 8 | How long until I see results? | Smoother skin in minutes (it fades within hours). Possibly softer fine lines in 3–8 weeks. Never any change to bags or hollows. |
-| 9 | Can it replace filler or Botox? | No. It cannot add volume or relax muscles. |
-| 10 | Does collagen in a cream rebuild my collagen? | No. Collagen is too big to soak in (500-dalton rule). It moisturises. |
-| 11 | What is PDRN, and is it salmon sperm? | DNA fragments, usually from salmon milt. It is proven only as an injection. On the skin it is unproven beyond moisturising. |
-| 12 | Will it get rid of milia? | No. A dermatologist removes milia. If you're prone to them, use a thin layer. |
-| 13 | Can I use it on my upper eyelids? | You can use a tiny amount, but it may make eyeshadow slide and creep into the eye. It's mainly for under the eyes. |
-| 14 | Can I use it on my lips, smile lines or neck? | Yes. Multi-balms are made for that. Don't use the same stick on cold sores, then your eyes. |
-| 15 | Can I use it with my retinol? | Yes, at different times, or as a buffer underneath. Luxe says: "Use Luxe in the morning, your other actives at night." |
-| 16 | Can I use it with vitamin C or niacinamide serums? | Yes. Serum first, balm on top. (The old "never mix niacinamide and vitamin C" rule is widely repeated, but no dermatologist in this pull warned against it.) |
-| 17 | Why does my concealer still crease? | Everyone creases somewhere. Use less, only where it's dark, wait 5 minutes, wipe out the creases, and use little powder (Lisa Eldridge, Wayne Goss). |
-| 18 | Should I use my ring finger? | Yes. It's the weakest finger, so it presses least (Renée Rouleau). Tap, don't rub. |
-| 19 | How much should I use? | About a grain of rice per eye, or one light swipe per side. |
-| 20 | Is it OK with contact lenses? | Yes, if you put your lenses in first with clean hands and keep the balm off the lid rim. |
-| 21 | Can I use it after cataract or eyelid surgery? | Ask your surgeon first. Don't use it until the area has healed and you have the go-ahead. |
-| 22 | I have dry eye. Is it OK? | Retinol-free is better for dry eye. Keep it well below the lashes and ask your eye doctor. |
-| 23 | Do cucumbers, tea bags or frozen spoons work? | Their cold works, for a while. Cucumber "itself" isn't magic (Doctor Eye Health). Use cold, not frozen, spoons. |
-| 24 | Why are my bags worse in the morning? | Fluid settles while you lie flat. Raise your head and cut salt and alcohol at night (Dr Chua). |
-| 25 | Will drinking more water fix dark circles? | It may help dull-looking skin a little (Cleveland Clinic lists dehydration as a cause), but it won't fix genetic, vascular or structural circles. |
-| 26 | Will more sleep fix it? | Sleep helps fluid puffiness and skin repair (Dr Dray, Dr Chua). It doesn't remove fat bags or hollows: the Luxe page's own pitch is "If you sleep 7 hours and still look tired". |
-| 27 | Are my dark circles from my kidneys or liver? | Usually not. Swelling that is new, one-sided, painful or lasting needs a doctor, as it can be thyroid- or kidney-related (Doctorly; Cleveland Clinic). |
-| 28 | Is under-eye filler safe? | In a review of 2,556 people: 91% satisfied; about 1 in 5 had swelling or bruising; 0.9% had a blue tint. The right injector matters, and small amounts are best (Liu 2024; Dr Karam). |
-| 29 | Does lower-eyelid surgery leave a scar? | It can be done from inside the lid, with no outside scar (Dr Karam, Doctor Eye Health). |
-| 30 | Is it Korean? | It's sold as "Korean" and "Born in Korean Labs". The maker and country of manufacture were not found. |
-| 31 | How big is the stick? | Not stated anywhere we could find. Look-alike sticks are 0.38 oz (about 10.8 g). |
-| 32 | How long does one stick last? | The brand says 30–45 days (one shop), 60–75 days (the other) and 2–3 months (Amazon). Expect 1–3 months with twice-daily use. |
-| 33 | Why does it feel like lip balm? | Because a stick is mainly waxes and oils, like a lip balm. |
-| 34 | Can it make bags worse? | A balm won't create bags. Too much product on the lid rim can irritate and swell the eye [R]. |
-| 35 | My eyes sting after using it. What now? | Wash it off with cool water, stop using it, and see a pharmacist or doctor if it doesn't settle within a day. |
+| 6 | Do I really need an eye cream? ("A lot of face cream says, Avoid eye area, so yes you do need one", #343; "Regarding not needing an eye cream. Perhaps.", #177) | No. Two dermatologists say your face moisturiser works (Dr Dray, Dr Sam Ellis). Eye products are mainly gentler and easier to apply. |
+| 7 | Is it safe for sensitive eyes? ("I am very sensitive in my eye area and it gets irritated when used other eye creams", #287) | It is sold as retinol-free and fragrance-free, which suits sensitive eyes. But no full ingredient list was found, so patch-test first. |
+| 8 | How long until I see results? ("please show an update after a few weeks!", #41; "Have you noticed any long-term results?", #48) | Smoother skin in minutes (it fades within hours). Possibly softer fine lines in 3–8 weeks. Never any change to bags or hollows. |
+| 9 | Can it replace filler or Botox? ("I was banking on the “better than Botox” claim", #83) | No. It cannot add volume or relax muscles. |
+| 10 | Does collagen in a cream rebuild my collagen? (viewers argue it both ways: "collagen does not penetrate skin as a balm or cream", #283; "I think collagen is something you need to build from the inside", #365) | No. Collagen is too big to soak in (500-dalton rule). It moisturises. |
+| 11 | What is PDRN, and is it salmon sperm? ("How exactly was it discovered that salmon sperm is good for skin…?", #334, 5.7K likes) | DNA fragments, usually from salmon milt. It is proven only as an injection. On the skin it is unproven beyond moisturising. |
+| 12 | Will it get rid of milia? ("options for those who are milia prone", #200) | No. A dermatologist removes milia. If you're prone to them, use a thin layer. |
+| 13 | Can I use it on my upper eyelids? ("Could you please create a video on what to use for the upper eyelid skin?", #200; "Crepey UPPER eyelids, please!", #203) | You can use a tiny amount, but it may make eyeshadow slide and creep into the eye. It's mainly for under the eyes. |
+| 14 | Can I use it on my lips, smile lines or neck? ("Is it good for the neck too?", @samuelm.5752, icazcVh-fSE, in `data/reviews/eye-balm/youtube-rivals-comments-2026-10-31.md`) | Yes. Multi-balms are made for that. Don't use the same stick on cold sores, then your eyes. |
+| 15 | Can I use it with my retinol? ("cant you also use the sandwich method for your eye cream (moisturizer + renitol serum + moisturizer)", #317) | Yes, at different times, or as a buffer underneath. Luxe says: "Use Luxe in the morning, your other actives at night." |
+| 16 | Can I use it with vitamin C or niacinamide serums? ("can I layer some of these?", #342) | Yes. Serum first, balm on top. (The old "never mix niacinamide and vitamin C" rule is widely repeated, but no dermatologist in this pull warned against it.) |
+| 17 | Why does my concealer still crease? ("I really struggle with concealer settling in my fine lines. Im 56.", #294) | Everyone creases somewhere. Use less, only where it's dark, wait 5 minutes, wipe out the creases, and use little powder (Lisa Eldridge, Wayne Goss). |
+| 18 | Should I use my ring finger? ("U used ur fingers!  Doesnt it swell ur fingers up?", #45; "I hear you should not use your fingers", #33) | Yes. It's the weakest finger, so it presses least (Renée Rouleau). Tap, don't rub. |
+| 19 | How much should I use? ("And how much and how often can we use it daily?", #341) | About a grain of rice per eye, or one light swipe per side. |
+| 20 | Is it OK with contact lenses? [R: my question] | Yes, if you put your lenses in first with clean hands and keep the balm off the lid rim. |
+| 21 | Can I use it after cataract or eyelid surgery? [R: my question] | Ask your surgeon first. Don't use it until the area has healed and you have the go-ahead. |
+| 22 | I have dry eye. Is it OK? ("THANK YOU for mentioning how retinol may cause dry eye.", #235) | Retinol-free is better for dry eye. Keep it well below the lashes and ask your eye doctor. |
+| 23 | Do cucumbers, tea bags or frozen spoons work? ("Cucumbers actually reduce inflammation", #263; "I wouldn't use a " frozen spoon "", #256) | Their cold works, for a while. Cucumber "itself" isn't magic (Doctor Eye Health). Use cold, not frozen, spoons. |
+| 24 | Why are my bags worse in the morning? [R: my question, prompted by "When you're lying down, fluid builds up underneath your eyes", #255] | Fluid settles while you lie flat. Raise your head and cut salt and alcohol at night (Dr Chua). |
+| 25 | Will drinking more water fix dark circles? ("My dark circles are worse when I don't drink water", #124) | It may help dull-looking skin a little (Cleveland Clinic lists dehydration as a cause), but it won't fix genetic, vascular or structural circles. |
+| 26 | Will more sleep fix it? ("Nothing helps better than a good night sleep and a low sodium dinner", #112) | Sleep helps fluid puffiness and skin repair (Dr Dray, Dr Chua). It doesn't remove fat bags or hollows: the Luxe page's own pitch is "If you sleep 7 hours and still look tired". |
+| 27 | Are my dark circles from my kidneys or liver? [R: my question; a related comment says "Check your ferritin levels - can cause dark under eyes", #251] | Usually not. Swelling that is new, one-sided, painful or lasting needs a doctor, as it can be thyroid- or kidney-related (Doctorly; Cleveland Clinic). |
+| 28 | Is under-eye filler safe? ("besides fillers which I'm not interested in", #204) | In a review of 2,556 people: 91% satisfied; about 1 in 5 had swelling or bruising; 0.9% had a blue tint. The right injector matters, and small amounts are best (Liu 2024; Dr Karam). |
+| 29 | Does lower-eyelid surgery leave a scar? ("Lower eye bag surgery information would be great. Plus typical costs, down time, success rates", #222) | It can be done from inside the lid, with no outside scar (Dr Karam, Doctor Eye Health). |
+| 30 | Is it Korean? ("calling everything Korean/Korean-inspired even if its not", #92) | It's sold as "Korean" and "Born in Korean Labs". Where it is made: not stated. |
+| 31 | How big is the stick? ("How much product is there??", @mayda2060, BR1MBAYOjsU, in `data/reviews/eye-balm/round2-2026-10-31/youtube-comments-round2-2026-10-31.md`) | Not stated anywhere we could find. Look-alike sticks are 0.38 oz (about 10.8 g). |
+| 32 | How long does one stick last? ("It's used up too quickly-not a repeat purchase.", #107; "It barely lasted a week.", #438) | The brand says 30–45 days (one shop), 60–75 days (the other) and 2–3 months (Amazon). Expect 1–3 months with twice-daily use. |
+| 33 | Why does it feel like lip balm? ("It feels like chapstick!", #11; "So... like a vaselline?", #330) | Because a stick is mainly waxes and oils, like a lip balm. |
+| 34 | Can it make bags worse? ("It might become swollen and give unneeded eye bags.", #447; "Seems the more I do to reduce them the worse they get.", #286) | A balm won't create fat bags. But too much heavy product near the lid rim can irritate the eye and make it puffy for a while, and one buyer with "very pale thin skin" found a balm stick too heavy for that reason [R; #447]. |
+| 35 | My eyes sting after using it. What now? ("Did it burn anyone else's face", #35) | Wash it off with cool water, stop using it, and see a pharmacist or doctor if it doesn't settle within a day. |
 
 ---
 
@@ -1110,13 +1144,14 @@ All pulled 2026-10-31 unless another date is shown.
 | eA9YIs-49sc | Dark Under-Eyes After 60? Throw Out Your Concealer and Do This Instead! | Kim Sullins (35 years in beauty) | 151,978 |
 | DHz_sw_YMTI | How to Use the KAHI Multi Balm Stick | Product Reviews & Demos and Deanne Gustafson | 25,594 |
 
-Saved working copies of these transcripts are in the helper's scratchpad, `/tmp/claude-0/-home-user-niche-research/b5781892-4d1f-54af-adb3-1b967b21b5f7/scratchpad/eye/tx/` (not part of the repository).
+These transcripts are saved in the repository, one text file per video ID, in `data/eye-balm/pack-sources/tx/` (23 files: 18 of the videos above, plus QbvzKn9GG_w, QwhDR1M-YAk, R29v0gJe2FE, bQuVtFwFOA0 and edM2TAN_qfc). The Cassandra Bankson transcript (LmP5MWmL8cs) is in `data/eye-balm/youtube/transcript-LmP5MWmL8cs-plain.txt` instead. The transcripts for 74eZe8KsHsw (Doctorly) and hql6k88BKP8 (Doctor Eye Health) were missing at the check and were pulled again through NexLev and saved on 2026-10-31.
 
 ### 12.2 YouTube comments (NexLev `youtube_video_comments`, top-sorted)
 
-- hql6k88BKP8 (20 read)
+- hql6k88BKP8 (20 read; saved as `data/eye-balm/pack-sources/comments-hql6k88BKP8-2026-10-31.md` and `.json`, re-pulled 2026-10-31 because the first pull was not saved)
 - eA9YIs-49sc (20 read)
 - QbvzKn9GG_w, "Fix Your Crepey Under Eye Skin!", The Budget Dermatologist, 536,135 views (20 read)
+- Round-2 comment pulls for the reviews part (25 more videos) are in `data/reviews/eye-balm/round2-2026-10-31/`; this explainer quotes some of them by their review number.
 - Also reused: comments in `data/eye-balm/youtube/youtube-comments-2026-10-31.md`, `data/reviews/eye-balm/youtube-luxe-comments-2026-10-31.md` (review helper) and `05-brand-audience-and-selling-rules.md` §3.2 (video IDs mx6mhz5cqjU, vQ1wyKafvWI, T-qO5qhE82s, hAc7jewvVWE, tiRLNc6_A0E, wgWdHoI9leI, kih_Rb5JQYs, HxsOvh5HVzQ, TybFB4gyKcg, hVadCZUeLzg, eA_1gxIFJXk).
 
 ### 12.3 Studies (PubMed, via NCBI E-utilities; abstracts read 2026-10-31)
@@ -1153,7 +1188,10 @@ Saved working copies of these transcripts are in the helper's scratchpad, `/tmp/
   - Brincat 1987, PMID 3828252
 - Eyelid allergy: Dagi Glass 2025 (American Academy of Ophthalmology report), PMID 40119863
 
-Earlier abstracts (from the first report) are saved in `data/eye-balm/science/`. The new ones were read live and not saved in the repository.
+Where the abstracts are saved:
+- earlier abstracts (from the first report): `data/eye-balm/science/`;
+- most of this pack's abstracts: `data/eye-balm/pack-sources/pm/abs1.txt` and `abs2.txt` (with the search results beside them, `es-*.json`);
+- Chopra (26508650), Hwang (16432408), Brincat (3828252) and LactMed chamomile (30000867), missing at the check, were fetched again from PubMed on 2026-10-31 and saved in `data/eye-balm/pack-sources/pm/abs3.txt`.
 
 ### 12.4 Web pages
 
@@ -1169,15 +1207,16 @@ Earlier abstracts (from the first report) are saved in `data/eye-balm/science/`.
 - luxeresearchlab.com balm page: `data/brand/luxeresearchlab-product-luxe-korean-under-eye-balm-2026-10-31.html`; products JSON: `data/brand/luxeresearchlab-products-2026-10-31.json`
 - Pack images: `data/eye-balm/images/`
 - Rival ingredient lists: `data/eye-balm/rivals/page-medicube.us_pdrn-pink-collagen-volume-multi-balm-2026-10-31.html`, `.../page-drmelaxin.us_calcium-multi-balm-2026-10-31.html`, `.../dalba.com-products-2026-10-31.json`
+- Rival prices and ratings added in the finishing round: KAHI on vitacost.com (https://www.vitacost.com/products/kahi-multi-balm-0-31-oz-9-g-136978 and https://www.vitacost.com/products/kahi-eye-balm-9-g-136981); Dr.Melaxin and d'Alba ratings from the iHerb search page (https://www.iherb.com/search?kw=multi%20balm), all 2026-10-31. Recorded in `data/reviews/eye-balm/round2-2026-10-31/web/`.
 - Earlier reports: `03-under-eye-balm.md`, `02-pdrn-toner-pads.md`, `05-brand-audience-and-selling-rules.md`, `SUMMARY.md` (including the §7 corrections), `checks/03-under-eye-balm-check.md`
 
 ### 12.6 What was not found
 
-- The full ingredient list, the percentage of any ingredient, the stick's size, the maker, the country of manufacture.
+- The full ingredient list, the percentage of any ingredient, the stick's size.
 - The Amazon price, rating and reviews for B0GYK3T766 (Amazon not loaded).
 - What the balm smells like and what colour it is.
 - Prices for procedures (filler, surgery, lasers), apart from one viewer's quote.
 - A medical study linking rich eye creams to milia.
 - The official MFDS anti-wrinkle ingredient list, and the year adenosine was added.
 
-Web searches used by this helper: 5. WebFetch page loads: 5 (one worked; two returned 404, one 403, one with no article text). NexLev and PubMed calls aren't counted.
+Web searches used by the first helper: 5. WebFetch page loads: 5 (one worked; two returned 404, one 403, one with no article text). The finishing helper used 0 web searches; it used NexLev (2 transcripts, 26 comment pulls, 5 YouTube searches), one PubMed fetch and plain page loads of iHerb, Vitacost and Lookfantastic (listed in `data/reviews/eye-balm/round2-2026-10-31/web/web-sources-round2-2026-10-31.md`). NexLev and PubMed calls aren't counted.
