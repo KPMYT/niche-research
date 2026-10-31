@@ -47,3 +47,11 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 - **Your section here and your folder are yours.** Shared files get one row or line per change; when merging into `main`, keep both sides.
 - **The operator can't see your context use.** Hand over when they say so (`CLAUDE.md` rule 8).
 - **Ideation skills today live in `script-system/ideation/`** (`ideation-core`, `plumbing-ideation`, `woodworking-ideation`). The new ones will be built here, modelled on those. Ask the operator before moving or changing any existing one.
+
+---
+
+## Luxe Cosmetics product study chat (2026-10-31)
+
+- **Owns:** `studies/luxe-cosmetics/`. Branch `claude/serene-maxwell-0pcpm0`.
+- **Status:** round 1 running: five helpers (one per product, plus brand, audience and selling rules). Amazon blocks automated page loads from here; only the eyelash serum page loaded.
+- **Next actions:** check the helpers' reports with a second set of helpers, write `SUMMARY.md`, report to the operator.
