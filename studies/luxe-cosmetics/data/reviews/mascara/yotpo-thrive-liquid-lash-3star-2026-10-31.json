@@ -1,0 +1,3884 @@
+{
+ "source": "Yotpo public widget feed https://api-cdn.yotpo.com/v1/widget/hUybmk0F0IsnuhJwIJpFOXk1TMxmHA5uONZdkEEQ/products/10590155084/reviews.json?per_page=100&star=3",
+ "label": "Thrive Liquid Lash Extensions, 3-star only",
+ "pulled": "2026-10-31",
+ "bottomline": {
+  "total_review": 50508,
+  "average_score": 4.4584026,
+  "total_organic_reviews": 0,
+  "organic_average_score": 0.0,
+  "star_distribution": {
+   "1": 3131,
+   "2": 2138,
+   "3": 2544,
+   "4": 3329,
+   "5": 39366
+  },
+  "custom_fields_bottomline": {}
+ },
+ "count_pulled": 200,
+ "reviews": [
+  {
+   "id": 915943153,
+   "stars": 3,
+   "date": "2026-10-31T00:01:43.000Z",
+   "author": "Joi P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I hate the applicator",
+   "body": "The color is pretty I don't know if I'm a fan of the tubing if that's what makes it kind of flaky after I only worn it for like an hour I feel like things are getting in my eyes maybe I'm just not used to the tubing I don't know but I cannot stand this applicator spoolie thing ugh I hate those hard little applicators I prefer a traditional old school mascara wand otherwise I think it's pretty color and it seemed to last until I washed it off so I guess if I would recommend it it would be to somebody that doesn't have sensitive eyes that maybe is used to this kind of mascara and doesn't mind a really hard applicator",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Oregon",
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness, Uneven Skin",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 914688211,
+   "stars": 3,
+   "date": "2026-10-28T16:06:04.000Z",
+   "author": "Amanda N.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not for me",
+   "body": "Package and color are great! However, it's too clumpy and flaky. By the end of the day, I've got mascara flakes around my eyes. Would not purchase again.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Black",
+    "Skin Concerns": "Visible Pores, Uneven Skin, Fine Lines + Wrinkles, Oil Control",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 914451555,
+   "stars": 3,
+   "date": "2026-10-27T21:51:29.000Z",
+   "author": "Kristin H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Black only",
+   "body": "I have used this product for many years. I recently got the green color and let me tell you. Don’t waste your money. Colored mascara just looks black. I wasted my money getting/trying green. \nI will not however use any other brand. I LOVE how it stays on but it a comes off so easily. \n\nI would love to have given this 5 stars but I’m terribly disappointed about the way the green didn’t turn out. I guess I essentially have two black mascaras which I would have eventually bought again anyways.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 912580479,
+   "stars": 3,
+   "date": "2026-10-27T03:11:34.000Z",
+   "author": "Alison M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Really want this to work.",
+   "body": "I have had lash extensions for years nd it was recommended that I try the tubing mascara as I transition off of them. The tubing mascara seems to come off in hunks for days and gets everywhere. I hope I can get better at using it and I hope it is the right product for me. So far, not so good. I wouldn’t recommend it yet.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "In my kitchen",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 912517539,
+   "stars": 3,
+   "date": "2026-10-26T20:39:49.000Z",
+   "author": "Elsa R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not as expected",
+   "body": "I was really excited to try this product after seeing the ad, the model’s eyes looked so pretty with the light maroon shade. However, on me, it looks like any other brown mascara. I don’t see the light maroon color shown in the ad, but I do like that it doesn’t run.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Dryness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 910069295,
+   "stars": 3,
+   "date": "2026-10-22T15:38:50.000Z",
+   "author": "Sharon A.",
+   "verified": true,
+   "incentivized": false,
+   "title": "This color did not work",
+   "body": "This color did not work for me!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NC",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles, Puffiness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 908924070,
+   "stars": 3,
+   "date": "2026-10-20T14:51:25.000Z",
+   "author": "Valerie M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Meh",
+   "body": "The color is nice and it washes off easily. No clumping but not easy to use on lower lashes . Overall, its ok. I continue the hunt for the mascara of old .",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "SoCal",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 906353253,
+   "stars": 3,
+   "date": "2026-10-15T20:47:12.000Z",
+   "author": "Rosemary B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "The length is noticeably longer, I am trying different techniques I am getting clumps and lashes stuck together. I would prefer more defined separations between lashes . I like that this washes off with out much effort . I wonder if I needed a lighter color",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NY",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "White",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 905225504,
+   "stars": 3,
+   "date": "2026-10-14T19:45:04.000Z",
+   "author": "Katrina K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It’s only okay.",
+   "body": "Not impressed. Tarte is better.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 904205553,
+   "stars": 3,
+   "date": "2026-10-12T18:54:36.000Z",
+   "author": "Karen T.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Works, but....",
+   "body": "Definitely does lengthen, but does also glop a bit going on, even with a light touch. Had to find an old brush to separate my lashes",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "65 or over",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 902495268,
+   "stars": 3,
+   "date": "2026-10-08T15:39:19.000Z",
+   "author": "Tiffany T.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It's okay for a natural lash",
+   "body": "I tried both the purple and berry brown. I'm used to another brand of tube mascara that really enhances my lashes. However, the applicator on this one makes it give a much more natural/thin vs voluminous look. So, for me, it's 3 stars. But for someone who likes a minimalistic lash, you will like this. Another caveat: this tube mascara actually flakes quite a bit throughout the day. My other brand doesn't do that at all, unless I sleep on it. So just something to consider, especially for the price point.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Trinity, Florida",
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 902487758,
+   "stars": 3,
+   "date": "2026-10-08T14:48:08.000Z",
+   "author": "Stacey S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Shipping Fail",
+   "body": "Was excited to try the plum/purple\nMascara from a friend recommendation. New customer discount! Yay I was excited! Then week goes by, then another. Still in “label created” status. Finally got a hold of someone and they reshipped priority. Still took full business week. No coupon or anything for waiting 2 weeks. Wasn’t even offered. Stated, priority shipping was enough. Prolly order from anyone else after my initial impression. Mascara is good, but for not good enough for the hassle; didn’t make my eyes “pop” as described. Washed off really well as a positive! I’d recommend using another brand.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Cleveland, OH",
+    "Skin Type": "Sensitive",
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 902071208,
+   "stars": 3,
+   "date": "2026-10-07T15:13:03.000Z",
+   "author": "Roberta M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Nice enough, but rather difficult",
+   "body": "Nice enough, but rather difficult to remove, sorry to say! I like your other products better, and I need to look elsewhere for mascara!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 901984747,
+   "stars": 3,
+   "date": "2026-10-07T05:48:54.000Z",
+   "author": "KW",
+   "verified": true,
+   "incentivized": false,
+   "title": "New Formulation? No longer works well",
+   "body": "I’ve used this mascara exclusively for years. The newest one I received does *not* work like it used to. It takes a million coats to get any kind of coverage and clumps up in chunks rather than the easy to apply, old experience. What changed? I’m sad to have to find a new brand.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 901466250,
+   "stars": 3,
+   "date": "2026-10-04T18:37:06.000Z",
+   "author": "Sharon W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Color not as expected",
+   "body": "Color not as expected. Looks black",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Las Vegas",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Puffiness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 901266026,
+   "stars": 3,
+   "date": "2026-10-02T21:37:19.000Z",
+   "author": "Nancy L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It’s ok. I prefer a",
+   "body": "It’s ok. I prefer a curved mascara wand and this doesn’t have one.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 900619861,
+   "stars": 3,
+   "date": "2026-10-02T04:04:26.000Z",
+   "author": "Dj E.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Works if you have enough lashes",
+   "body": "They did separate my lashes but I guess you can’t wrap tubes around lashes that are not there. They didn’t look that different from my regular thrive mascara, but it’s ok- not your products fault and they did come off easy.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "California",
+    "Skin Type": "Sensitive",
+    "Age Range": "65 or over",
+    "Hair Color": "White",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 900162555,
+   "stars": 3,
+   "date": "2026-10-01T09:05:22.000Z",
+   "author": "Carol",
+   "verified": false,
+   "incentivized": false,
+   "title": "Why??",
+   "body": "Why are all the models you use to advertise your mascara already have long lashes?\nWhy Don't You Post People Who Are Lacking Long Or Abundant Lashes?\nThat's Where You Would Bring Many More customers.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Oily",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Puffiness, Visible Pores, Uneven Skin, Oil Control",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 895126198,
+   "stars": 3,
+   "date": "2026-09-28T19:55:45.000Z",
+   "author": "Rebecca R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not so Tubing Mascara",
+   "body": "I believe you may have changed your product. It definitely does not act as lengthening mascara like it used to.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Fort Wayne, IN",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 894846198,
+   "stars": 3,
+   "date": "2026-09-26T19:28:30.000Z",
+   "author": "Carol H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascera",
+   "body": "Still lumping together when applying",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Dryness, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 894121959,
+   "stars": 3,
+   "date": "2026-09-23T20:01:54.000Z",
+   "author": "Katie C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "The packaging is nice and",
+   "body": "The packaging is nice and it comes off pretty easily a little messy in the sink though and seems to clump when applying.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Florida",
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Acne + Blemishes, Visible Pores, Dryness",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 894087275,
+   "stars": 3,
+   "date": "2026-09-23T15:50:21.000Z",
+   "author": "Kathy D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I used to really like this mascara",
+   "body": "I have used this mascara but hadn’t bought any new ones in a while because I stocked up when there was a sale. But I must say when I purchased it this time it’s not as good. I don’t know if it changed formulas or what but the way it used to make my lashes long was wonderful. Now it’s not nearly as good. Doesn’t make my lashes as long. Comes off easily, but the staying power is not as good. Super disappointed and I don’t think I will buy it again",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "White",
+    "Skin Concerns": "Puffiness, Visible Pores, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 893205024,
+   "stars": 3,
+   "date": "2026-09-21T19:52:51.000Z",
+   "author": "Andrea M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not bad",
+   "body": "These are not bad. I have other tubing mascara that I like more, and maybe it's just because I got colors and not black that I feel like my other mascara does a better job, but I do appreciate that it doesn't flake or smudge at all when I'm wearing it.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 892883802,
+   "stars": 3,
+   "date": "2026-09-20T21:32:04.000Z",
+   "author": "Maryanne H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Liquid lash extensions mascara",
+   "body": "Beautiful color. Is irritating to my eyes so I can’t wear.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Sensitive",
+    "Age Range": "55-64",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Redness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 892872055,
+   "stars": 3,
+   "date": "2026-09-20T18:58:34.000Z",
+   "author": "Jennifer G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "I wanted to like this mascara so bad. But, I found it went on clumpy and flaked off during wear and even after cleaning my face.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 892661528,
+   "stars": 3,
+   "date": "2026-09-19T20:48:02.000Z",
+   "author": "KM",
+   "verified": true,
+   "incentivized": false,
+   "title": "color doesn't pop",
+   "body": "This was my first purchase from Thrive cosmetics. I think the packaging is really nice, the formula seems like a good tubing mascara (it lengthens lashes and comes off easily). But, the colors like ivy, berry brown and iris don't pop at all. They look like any other black or brown mascara out there. I don't see the color...or the hype.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 892334576,
+   "stars": 3,
+   "date": "2026-09-19T01:56:19.000Z",
+   "author": "Sarah F.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Just ok",
+   "body": "Another product I was really looking forward to only to be let down especially at the price paid. Don’t get me wrong the color is great and the ability to make my lashes lifted is nice. What I don’t like is if my make up wipe doesn’t fully remove the mascara night then I am left with dried mascara on my eyelashes that makes my eyes gunky. I’ll have thick pieces of leftover mascara pulling off my lashes and sprinkled on my eyelids and cheeks. Just not something I normally have to deal with when using other mascara brands.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 892327468,
+   "stars": 3,
+   "date": "2026-09-18T23:45:12.000Z",
+   "author": "Jammie S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "Mascara is just ok. They mascara that I have been using is much better. But they do not come in as many colors that you offer.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Alabama",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Visible Pores, Fine Lines + Wrinkles, Acne + Blemishes",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 892275109,
+   "stars": 3,
+   "date": "2026-09-18T19:33:34.000Z",
+   "author": "Lara S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not what I wished For",
+   "body": "Loved color but not great coverage",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 892271171,
+   "stars": 3,
+   "date": "2026-09-18T18:44:03.000Z",
+   "author": "Suzanne M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "Disappointed, for me, it certainly didn’t live up to my expectations, just another expensive mascara!!3",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Baxter, Mn.",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 891827598,
+   "stars": 3,
+   "date": "2026-09-17T23:05:08.000Z",
+   "author": "Leann M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Learning curve",
+   "body": "Still on the fence about the mascara I’m feeling I’m getting a little better putting it on those a learning curve. Not like any other mascara I’ve ever used.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Medium"
+   }
+  },
+  {
+   "id": 891689885,
+   "stars": 3,
+   "date": "2026-09-17T18:44:53.000Z",
+   "author": "Kathyline S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "KS",
+   "body": "The mascara made lashes appear longer but it was difficult to remove and was clumped when removing.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "KY",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Dryness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 891636337,
+   "stars": 3,
+   "date": "2026-09-17T15:45:37.000Z",
+   "author": "Melissa M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Tubing lash",
+   "body": "It’s pretty wet when you first receive it. Get the q tips out for clean up. But once it dries up a lil it’s much easier to apply.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 891304731,
+   "stars": 3,
+   "date": "2026-09-17T00:46:01.000Z",
+   "author": "Kathleen M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "I don’t think this mascara did much to showcase my lashes. Pretty average",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Chicago",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 891259753,
+   "stars": 3,
+   "date": "2026-09-16T23:04:11.000Z",
+   "author": "Carol S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Ivy mascara",
+   "body": "It seems a little old and dry.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Kentucky",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Dryness, Redness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 891229153,
+   "stars": 3,
+   "date": "2026-09-16T21:44:29.000Z",
+   "author": "Jean L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "I did nt like the green mascara. It said for blue eyes , which I have, but not for me!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Minnesota",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Uneven Skin, Fine Lines + Wrinkles",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 889849798,
+   "stars": 3,
+   "date": "2026-09-10T22:58:56.000Z",
+   "author": "Andrea M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I think it gives great",
+   "body": "I think it gives great length but does nothing for fullness. It clumps and flakes easily. For the price, I would not buy again",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 887199167,
+   "stars": 3,
+   "date": "2026-09-07T20:04:52.000Z",
+   "author": "Vicki P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "In all fairness I should",
+   "body": "In all fairness I should try it again before reviewing. I’ve used it twice and find that it clumped and was hard to separate the lashes. I will try it again when I can take more care with it",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Northern Kentucky",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Black",
+    "Skin Concerns": "Redness, Visible Pores, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 887033192,
+   "stars": 3,
+   "date": "2026-09-06T21:11:38.000Z",
+   "author": "shawn b.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good color",
+   "body": "Good color and smudge prof but dose not make my lashes better or extend",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Tx",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 886417509,
+   "stars": 3,
+   "date": "2026-09-03T13:19:04.000Z",
+   "author": "Susan S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Globs when removed",
+   "body": "I don't like\n The globs and pieces of mascara that need to be cleaned upon removal",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 885639423,
+   "stars": 3,
+   "date": "2026-08-31T17:12:57.000Z",
+   "author": "Wendy M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good product",
+   "body": "Hi. Definitely one of the better I've used. I'm not a huge make up person though. I have dark black lashes and the purple color doesn't really show, but otherwise a good mascara overall.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "45-54",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness, Uneven Skin",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 885344012,
+   "stars": 3,
+   "date": "2026-08-29T20:31:28.000Z",
+   "author": "Lee M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Wanted to like the green mascara",
+   "body": "I use the tubing mascara, but the green is not as dark as I’d like so it is just ok.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Marshfield MA",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 885123824,
+   "stars": 3,
+   "date": "2026-08-28T17:23:47.000Z",
+   "author": "Jennifer B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Great for sensitive eyes but very hard to remove.",
+   "body": "It has very little to no flaking. But is extremely hard to remove. I can get my other mascara off with just my microfiber cloths and even easier with eye makeup remover liquids but this one comes off flaky and chunky and actually gets into my eye and sticks to my lower inner eyelids and causing me to have to pull on my skin around my eye multiple times to take it all off. I love that it doesn't make my eyes burn or sting while wearing it but once it gets inside my eye when taking it off it does of course. Their other mascara is super flaky. I wish there was an in-between.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884776612,
+   "stars": 3,
+   "date": "2026-08-27T11:42:53.000Z",
+   "author": "Valentina",
+   "verified": true,
+   "incentivized": false,
+   "title": "Unfortunately it dries sooo fast",
+   "body": "Have to order it way more often than any other mascara :(",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "25-34",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884707907,
+   "stars": 3,
+   "date": "2026-08-27T02:32:50.000Z",
+   "author": "Emily S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Clumps",
+   "body": "I wanted to like this so much, but it keeps clumping my eyelashes which is not the effect I’m going for.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "25-34",
+    "Hair Color": "Blond",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884688025,
+   "stars": 3,
+   "date": "2026-08-26T22:16:04.000Z",
+   "author": "Frankie S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "This mascara was recommended but",
+   "body": "This mascara was recommended but it did not give me the length I was looking for",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Ohio",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Black",
+    "Skin Concerns": "Uneven Skin, Visible Pores",
+    "Skin Tone": "Rich",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884524156,
+   "stars": 3,
+   "date": "2026-08-26T05:36:06.000Z",
+   "author": "Angelica D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mid",
+   "body": "Pros: Dark Black, adds length\nCons: Micro Flakes, does not hold a curl for straight lash girlies.\n\nI was optimistic because it said \"waterproof\". For straight lash girls you know Waterproof is the only formula that [should] hold a curl. I found out this one does not. So I have to use another waterproof mascara that I know will hold a curl and add Thrive for added bold black look. It's mid & wouldn't purchase again since I'm having to use 2 products for the [what I had hoped] work of one. Was looking to try something new since they changed the formula on my other trusted mascara that still holds a curl but not as waterproof as before and not as dark black as before.",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Location": "TN",
+    "Skin Type": "Oily",
+    "Age Range": "35-44",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884478950,
+   "stars": 3,
+   "date": "2026-08-25T21:16:06.000Z",
+   "author": "Vicky A.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Didn’t see a big difference",
+   "body": "I did not see a big difference in my eyelashes from this mascara, similar to the brand I had purchased previously.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Hesperia CA",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884425099,
+   "stars": 3,
+   "date": "2026-08-25T18:14:43.000Z",
+   "author": "Lori B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Messy to remove",
+   "body": "This mascara covers nicely, however, when removing it there are little black flakes all over my face. It’s very messy. I’ve tried using oil to remove, water, and I make up remover. They all have the same results.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884166032,
+   "stars": 3,
+   "date": "2026-08-24T17:55:32.000Z",
+   "author": "Julie A.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Less than impressed",
+   "body": "It's ok, I wish the purple showed a little more",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Kansas",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 884148623,
+   "stars": 3,
+   "date": "2026-08-24T15:19:44.000Z",
+   "author": "Jessica M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Totally fine!",
+   "body": "I've been getting ads for this mascara for literally years, and finally tried it. I have short eyelashes and sensitive eyes, and I was hoping this one would be different. Unfortunately, it still made my eyes burn a bit, and turned out really clumpy for me. It was a totally fine mascara, but I didn't notice a huge difference between this one and my $7 one from Target unfortunately. I wanted so much to love it!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883706846,
+   "stars": 3,
+   "date": "2026-08-22T15:30:09.000Z",
+   "author": "Victoria S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It’s ok",
+   "body": "I get a lot of little pieces flaking off after several hours.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883577262,
+   "stars": 3,
+   "date": "2026-08-21T20:27:04.000Z",
+   "author": "Amy W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mixed luck with mascara",
+   "body": "It tends to clump if I put on too much; I must wipe off the initial application to prevent that. However, it is easy to wash off. I do love the navy mascara, yet the plum is too light to cover the bleached tips of my lashes.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "55-64",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883545930,
+   "stars": 3,
+   "date": "2026-08-21T16:44:45.000Z",
+   "author": "Debra P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Several Layers Mascara",
+   "body": "Have to do several layers to get the look",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "GA",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Rich",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883313565,
+   "stars": 3,
+   "date": "2026-08-20T18:33:16.000Z",
+   "author": "Kathy M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good but not great",
+   "body": "This mascara is fine but way overhyped. It does lengthen & thicken my lashes but it's messy as hell. I have to go in with a q-tip & lash comb just to make it look okay & that's crazy for such an expensive product. Do not plan to rebuy.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Los Angeles CA",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Black",
+    "Skin Concerns": "Puffiness, Uneven Skin, Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883307405,
+   "stars": 3,
+   "date": "2026-08-20T17:49:25.000Z",
+   "author": "Gina O.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good not my favorite",
+   "body": "I do the mascara is great for not flaking, smudging and taking it off is a breeze. It didn’t do much for my lashes ,",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Pittsburgh",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883155713,
+   "stars": 3,
+   "date": "2026-08-19T22:57:18.000Z",
+   "author": "Kathi L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "A bit disappointing",
+   "body": "It is wry nice mascara but the purple color is very dark once applied and looks dark gray",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Alabama",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "White",
+    "Skin Concerns": "Dryness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883145975,
+   "stars": 3,
+   "date": "2026-08-19T21:06:00.000Z",
+   "author": "Ayana D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not what I was expecting :(",
+   "body": "Unfortunately, this did not meet my expectations, and I love Thrive! The mascara is just OK, but it's can clump easily and the color barely comes through on me. I have pretty light lashes and green eyes too, so any sort of violet hue would have been pretty noticeable, but not on me.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "North Carolina",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Visible Pores, Fine Lines + Wrinkles, Dryness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 883144209,
+   "stars": 3,
+   "date": "2026-08-19T20:45:58.000Z",
+   "author": "Joanne R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not enough coverage for my lashes.",
+   "body": "Website suggested the green for my blue eyes. I have very blonde lashes and yet it still didn’t look like I had on mascara. I did not like the green. Should have stuck with standard black or brown.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 882231324,
+   "stars": 3,
+   "date": "2026-08-18T01:52:05.000Z",
+   "author": "Zoe C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Great except for the colors",
+   "body": "Love the texture and lasting power of these mascaras but both the berry brown and the purple look way off of the colors advertised online and hardly look any different from one another. Big bummer especially for the price.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 882063816,
+   "stars": 3,
+   "date": "2026-08-17T12:15:35.000Z",
+   "author": "Michelle C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I like the color, but",
+   "body": "I like the color, but it seems to clump up on lashes.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 881987631,
+   "stars": 3,
+   "date": "2026-08-16T23:08:25.000Z",
+   "author": "Dawn K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "The mascara itself is good",
+   "body": "The mascara itself is good when you first apply it. But after a while it starts flaking.",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Ohio",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 881935890,
+   "stars": 3,
+   "date": "2026-08-16T12:15:14.000Z",
+   "author": "Ivette A.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Lengthens and thickens",
+   "body": "But you have to apply while it’s still wet. Once it dries up it starts to clump. If you happen to rub your eyes or keep it on overnight by accident, it gets very flakey and falls into your eyes. I’ve had to remove and reapply a few times to get it perfect. Pretty expensive I think I’ll stick with my regular brand",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Florida",
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Black",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 881932781,
+   "stars": 3,
+   "date": "2026-08-16T11:38:42.000Z",
+   "author": "Claudia G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Works good but not magical",
+   "body": "Works good but not magical as shown on advertisement. I have to add a few coats which is normal but then looks clumpy close up. It does make my lashes look abundant so this is why I gave it a 3.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Coral Springs Florida",
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Black",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Golden",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 881903361,
+   "stars": 3,
+   "date": "2026-08-16T07:19:20.000Z",
+   "author": "Lisa A.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Missed feelings about the texture",
+   "body": "Missed feelings about the texture and clumponess of this",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "55-64"
+   }
+  },
+  {
+   "id": 881878740,
+   "stars": 3,
+   "date": "2026-08-16T03:11:53.000Z",
+   "author": "Mary W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "This product is very dry.",
+   "body": "This product is very dry. I have used your mascara before and loved it. Almost like it is old or almost used up. I even tried running it under warm water but that did not help.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium"
+   }
+  },
+  {
+   "id": 881865154,
+   "stars": 3,
+   "date": "2026-08-15T23:10:17.000Z",
+   "author": "Arlene M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good but compared to my current mascara expensive.",
+   "body": "The mascara is fine however I do not find it better or worse than my OTC mascara. Except it is more expensive. I doubt I would buy it again. However, I still would like to try your brow with the wand. I have tried a couple of times but my shade was out. I will try again shortly.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Colorado",
+    "Skin Type": "Sensitive",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles, Acne + Blemishes",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 881689568,
+   "stars": 3,
+   "date": "2026-08-14T17:03:52.000Z",
+   "author": "Brenda W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "So far so good",
+   "body": "So far so good",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Chicago",
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 881355140,
+   "stars": 3,
+   "date": "2026-08-13T19:03:25.000Z",
+   "author": "Sherry W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I love the way it",
+   "body": "I love the way it goes on - no clumping, however after a few hours it flakes so I cannot recommend.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Alabama",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 881219122,
+   "stars": 3,
+   "date": "2026-08-13T04:54:02.000Z",
+   "author": "Lisa S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Eye twitch",
+   "body": "Liked this at first , but then my eye started twitching and watering weirdly whenever I wear it.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Az",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Uneven Skin, Fine Lines + Wrinkles, Acne + Blemishes, Oil Control, Visible Pores",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 880897423,
+   "stars": 3,
+   "date": "2026-08-12T12:12:03.000Z",
+   "author": "Tanya F.",
+   "verified": true,
+   "incentivized": false,
+   "title": "New Lash Extender Mascara not impressed.",
+   "body": "This is not my favorite. I ordered it by mistake but decided to try it. I usually order the other tubular mascara which I am more than sold on. The lash extender is crackly when dry and removal is much more difficult. I feel the coverage is not as good either. Is it supposed to be used on top of the other tubular mascara? If that is the case I will never order at the price point charged. I do love your eye products especially the eye shadow in the applicator. For someone more mature it is perfect for women who have jiggly hands lol!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Catawba Island, Ohio",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Oil Control, Fine Lines + Wrinkles, Uneven Skin",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 879994473,
+   "stars": 3,
+   "date": "2026-08-12T03:52:27.000Z",
+   "author": "Diane P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Didn’t work for me",
+   "body": "Left my eyelashes stuck together.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Sherman Oaks",
+    "Age Range": "65 or over",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 879408265,
+   "stars": 3,
+   "date": "2026-08-10T09:35:07.000Z",
+   "author": "jackie h.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Having some trouble taking the",
+   "body": "Having some trouble taking the mascara off",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 879336059,
+   "stars": 3,
+   "date": "2026-08-09T19:30:31.000Z",
+   "author": "Margaret M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "I really wanted to love this mascara, my eyelashes seemed to be thinning out and it promised to help build and lengthen. However, it does no better job than my $7. 00 Maybelline mascara. It was also a lighter color than the black/brown label indicated. \n\nThis is the second time I've been disappointed by one of this company's products: the Sheer Strength lip gloss was also not as expected, it was not at all moisturizing, nor did it have a gloss tint effect.\n\nI will say the brilliant eye brightened is, in fact, brilliant and wonderful--I love it. I don't want to seem like nothing has worked well for me!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Chicago, Illinois",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 878877775,
+   "stars": 3,
+   "date": "2026-08-07T18:49:19.000Z",
+   "author": "Jan H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I wasn't as pleased this",
+   "body": "I wasn't as pleased this time, as I usually am. This tube seemed clumpier and harder to get off the wand. I usually love it, but not so much this time. Did you change your formula?",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Lockhart tx",
+    "Skin Type": "Dry",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 878818589,
+   "stars": 3,
+   "date": "2026-08-07T13:33:12.000Z",
+   "author": "Pam D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Clumpy",
+   "body": "I love the color, but it came out clumsy.\nIt also denied out my eyes",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 877991207,
+   "stars": 3,
+   "date": "2026-08-06T17:30:10.000Z",
+   "author": "Sharon D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Only used it once so",
+   "body": "Only used it once so far. I need to try a few more time's to give a accurate review",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Uneven Skin, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 876609264,
+   "stars": 3,
+   "date": "2026-08-02T21:30:14.000Z",
+   "author": "Joanna N.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Decent mascara",
+   "body": "I like the color, would like a little more lift but overall a good mascara. Stays on doesn’t flake",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 876443408,
+   "stars": 3,
+   "date": "2026-08-01T14:38:30.000Z",
+   "author": "Darlene F.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Dissappointed",
+   "body": "I am 69. My lashes aren't as long as I like. This practice use to really make 'em visible. But now it seems to weigh them down. 😒 any product for 'Senior' Lashes?",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Sagamore Hills, OH",
+    "Skin Type": "Sensitive",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles, Puffiness",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 876051190,
+   "stars": 3,
+   "date": "2026-07-30T22:38:24.000Z",
+   "author": "Deborah K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Clumps",
+   "body": "I like the wand, but the product drops around the eyes and face and is sort of sticky. It’s OK though.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "55-64",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 875219140,
+   "stars": 3,
+   "date": "2026-07-28T21:16:47.000Z",
+   "author": "Trish K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It's ok",
+   "body": "I'm not loving it so far. I don't know what \"tubing\" means, but I have used it 5 or 6 times. I do not allow excessive air to get into the tube and yet it seems clumpy. Little clumps get on the tips of my lashes. There seems to be so much mascara accumulated on the base. It would be nice if there was another mascara option with a brush rather than the plastic applicator.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Southern California",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 875212857,
+   "stars": 3,
+   "date": "2026-07-28T20:16:07.000Z",
+   "author": "Patricia T.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara was clumpy",
+   "body": "Mascara was clumpy",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 874361363,
+   "stars": 3,
+   "date": "2026-07-27T19:58:58.000Z",
+   "author": "Anna M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It's just okay. It is",
+   "body": "It's just okay. It is a light coverage mascara and natural looking but I do not like the way it comes off. I wash my face in the sink and it peels off like paint all over my face. I do not have the patience to pull it off each lash like advised. A 3 star rating is generous.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 874144308,
+   "stars": 3,
+   "date": "2026-07-26T12:37:51.000Z",
+   "author": "GAYLANN K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "Bought this mascara hoping it would not be smudgy under my lower lashes. Unfortunately this is not the case. It does smudge while wearing. Also I find that it flaked off. I do love the color though.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NY",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 873209984,
+   "stars": 3,
+   "date": "2026-07-25T02:46:29.000Z",
+   "author": "Deanne V.",
+   "verified": true,
+   "incentivized": false,
+   "title": "good but not a miracle",
+   "body": "I bought this, convinced by many social media posts, that it would be a miracle product for my sparse lashes. I didn’t find that to be true, and it doesn’t perform better than my less expensive Mary Kay mascara. I gave it to my daughter, however, and it looks lovely on her much younger (22 y. o. ) lashes.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Colorado",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 872684341,
+   "stars": 3,
+   "date": "2026-07-23T07:56:52.000Z",
+   "author": "Tara C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "I honestly did not see that big of a difference from other lengthing mascara",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Idaho",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 872404219,
+   "stars": 3,
+   "date": "2026-07-22T16:38:33.000Z",
+   "author": "Mike J.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not totally tubular 😜",
+   "body": "I love the brown color, and how long it lasts. I don’t like the “tubes” as they can fall into the eyes especially when using a cotton pad and makeup remover. It comes off in tubes. Also enjoying that this order is somehow in my husband’s name. For the record: He didn’t use the mascara",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Minnesota",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 872277689,
+   "stars": 3,
+   "date": "2026-07-22T07:48:06.000Z",
+   "author": "Heather S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mixed review",
+   "body": "The Brown is excellent the Blue is too goopy. Not sure if the heat from shipping affected the viscosity? But the Brown is great.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "New York",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 871637816,
+   "stars": 3,
+   "date": "2026-07-19T11:38:55.000Z",
+   "author": "Eunice M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It’s ok",
+   "body": "It’s good but did not extend my lashes",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Vermont",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 871202474,
+   "stars": 3,
+   "date": "2026-07-18T10:31:28.000Z",
+   "author": "Cathy S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "No instructions",
+   "body": "I bought this mascara based upon a friends suggestion. I was surprised to find no instructions on how to remove it. I knew only because of my interaction with my friend to use warm water. It seems quite messy to remove but I do like the way it helps to lengthen my lashes.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Midwest",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Dryness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 870144767,
+   "stars": 3,
+   "date": "2026-07-15T23:06:10.000Z",
+   "author": "Suzanne L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It’s different",
+   "body": "I don’t know if they changed the formula , but the new one I got doesn’t stay on as nice as it used to. The company was even kind enough to send me a second one, but it runs under my lower lashes after few hours. Too bad because this was my favorite mascara",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 870069977,
+   "stars": 3,
+   "date": "2026-07-15T18:59:25.000Z",
+   "author": "Debbie B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not impressed for the price",
+   "body": "Was hoping for better results.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 870022644,
+   "stars": 3,
+   "date": "2026-07-15T16:26:52.000Z",
+   "author": "Ondrea L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "I was disappointed. My issues with other mascaras was clumping on lashes. I experienced the same with your mascara. :-(",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Calfornia",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 868882739,
+   "stars": 3,
+   "date": "2026-07-13T21:36:45.000Z",
+   "author": "Brenda F.",
+   "verified": true,
+   "incentivized": false,
+   "title": "The mascara was nice, The",
+   "body": "The mascara was nice, The other items r nothing special, \n\nU could give back a refund or partial,",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Hawarden,iowa",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 867806549,
+   "stars": 3,
+   "date": "2026-07-10T02:32:52.000Z",
+   "author": "T G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not flake free but ok",
+   "body": "It’s good. A little chunky but u have to realize that’s how tubing is. It is DEFINITELY not flake free, but it’s much better than most mascaras. Kinda just have to accept it for what it is",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "25-34",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 867707115,
+   "stars": 3,
+   "date": "2026-07-09T13:46:11.000Z",
+   "author": "Marlene G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Product Quality is not as good",
+   "body": "When I first started using your product I recommended to everyone! But within last year I've noticed the eyeliner does not last all day, the eye makeup creases - awful! And, the tubing mascara clumps! I'll finish off these products- I've invested a lot in them but will be looking to switch! I've love the free shipping and discounts but have been very disappointed in quality. ☹️☹️",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Trafford, Pa",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 867300563,
+   "stars": 3,
+   "date": "2026-07-07T22:14:15.000Z",
+   "author": "Grace B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Lengthening mascara",
+   "body": "Great color, nice packaging. Goes on easily and does some lengthening but not as expected. Mascara is waterproof but it crumbles, will not buy again.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Florida",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Golden",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 867142391,
+   "stars": 3,
+   "date": "2026-07-07T16:13:20.000Z",
+   "author": "Lisa C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Cost prohibitive",
+   "body": "Again nothing special no better than the store bought",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Michigan",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 867123894,
+   "stars": 3,
+   "date": "2026-07-07T15:42:01.000Z",
+   "author": "Krissy",
+   "verified": true,
+   "incentivized": false,
+   "title": "Purple mascara just OK",
+   "body": "I have been using the Black Lengthening mascara for years and LOVE it. I use nothing else. I tried the purple shade hoping it would pop my green eyes a little but honestly did not find it the same at all. I definitely did not get the length that the black gives, so maybe the formula is a little different?? Also not I or anyone else noticed the purple shade on me. Not sure why its not the same but I did not love it.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Massachusetts",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 866952372,
+   "stars": 3,
+   "date": "2026-07-06T22:46:45.000Z",
+   "author": "Lori H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "DISAPPOINTED",
+   "body": "LOVE IT. . . BUT i THINK THE \"WIPER\" CAME LOOSE SO BRUSH COMES OUT IN GOBBS!\nWOULD LOVE ANOTHER TUBE OF THE EXTENSIONS TUBING MASCARA",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 866253714,
+   "stars": 3,
+   "date": "2026-07-03T15:15:54.000Z",
+   "author": "Roxanne M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not for brunette girlies",
+   "body": "I'm a long time user of both the Extensions and Volumizer mascaras. Sadly, the blue doesn't show up at all on my dark lashes, even with THREE coats. I'm so disappointed, since I was really looking forward to having a little fun with this one. I may as well have bought black mascara.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NYC",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 864321185,
+   "stars": 3,
+   "date": "2026-07-02T01:59:19.000Z",
+   "author": "Nancie L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I love the look and how long it lasts",
+   "body": "It looks great and lasts fairly well. I have noticed a bit of flaking getting into my eyes when removing the product. It is much better than any other mascara I've used!!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Western Noth Carolina",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 862460591,
+   "stars": 3,
+   "date": "2026-06-29T21:58:31.000Z",
+   "author": "Mary B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I did not notice any",
+   "body": "I did not notice any added length to my lashes.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Milford, Ohio",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Redness, Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 862225775,
+   "stars": 3,
+   "date": "2026-06-28T21:38:48.000Z",
+   "author": "Andee P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "just okay",
+   "body": "the berry brown is much more purple than I anticipated even after doing a lot of research. It started to flake mid day and over all i thought it was just okay",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Pacific Northwest",
+    "Skin Type": "Sensitive",
+    "Age Range": "35-44",
+    "Hair Color": "Gray",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 862215367,
+   "stars": 3,
+   "date": "2026-06-28T19:26:07.000Z",
+   "author": "Tia G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Too clumpy",
+   "body": "I like how much it makes my eyelashes stand out, and I like that it giant flake, but it’s too clumpy and I found it difficult to apply and comb through to prevent the clumps. Decent for being on camera but not great for close-ups!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 862070773,
+   "stars": 3,
+   "date": "2026-06-27T20:48:02.000Z",
+   "author": "Melinda G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Just ok. . . . flakes off. Not sure",
+   "body": "Just ok. . . . flakes off. Not sure I would buy again.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "New Mexico",
+    "Age Range": "45-54",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 861719353,
+   "stars": 3,
+   "date": "2026-06-25T22:41:18.000Z",
+   "author": "Vonda R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I ordered 2 of same",
+   "body": "I ordered 2 of same color mascara and got a bright blue. I am 71 yrs old just wish you would send me the brownish black",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "918 SWAndrew Arnote Dr Antlers,Ok 74523",
+    "Skin Type": "Sensitive",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Uneven Skin",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 861327295,
+   "stars": 3,
+   "date": "2026-06-24T16:12:06.000Z",
+   "author": "Kristi N.",
+   "verified": true,
+   "incentivized": false,
+   "title": "great color",
+   "body": "i really love the color of this gray mascara, it’s a little less harsh than the black i’ve been using for my age. i do not like the fact that it’s waterproof. i would love an option for a non waterproof mascara in the same color.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Cincinnati",
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 860526020,
+   "stars": 3,
+   "date": "2026-06-20T22:21:12.000Z",
+   "author": "Amy D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I will stick with black",
+   "body": "I was hoping to try the mulberry but they were out of stock so I tried the brown. Don’t care for the brown. Still love the black!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Arizona",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 860509752,
+   "stars": 3,
+   "date": "2026-06-20T20:03:01.000Z",
+   "author": "Bonnie L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not worth the money",
+   "body": "Clumps just like less expensive brands",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NY",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 859992699,
+   "stars": 3,
+   "date": "2026-06-19T13:36:58.000Z",
+   "author": "Debbie",
+   "verified": true,
+   "incentivized": false,
+   "title": "It clumps",
+   "body": "I recently purchased this mascara hoping it would lengthen and give my lashes more volume. \n\nI am disappointed because it clumps, especially if you go over your lashes more than once.\n\nHowever, it is the easiest mascara to remove that I've ever used.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "OR",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 859344098,
+   "stars": 3,
+   "date": "2026-06-17T21:32:35.000Z",
+   "author": "Michelle G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It wasn’t what I expected",
+   "body": "Yes it definitely helped a slight amount but honestly I didn’t see much of a difference from the price.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "25-34",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 859043638,
+   "stars": 3,
+   "date": "2026-06-16T12:42:26.000Z",
+   "author": "Monica D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Too watery",
+   "body": "Very wet and you have to be very careful putting it on or it ends up on your eye lids. Doesn’t extend the lashes very well either. It’s just average. Removes easily which is a plus.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "New Jersey",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles, Redness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 858665465,
+   "stars": 3,
+   "date": "2026-06-15T20:18:27.000Z",
+   "author": "Cathryn K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not for me",
+   "body": "This is anti-smudge, which I was looking for. However, it is not anti-flake. My lashes also stick together and have been falling out. It is not for me.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Louisiana",
+    "Skin Type": "Oily",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 854197542,
+   "stars": 3,
+   "date": "2026-06-14T11:17:37.000Z",
+   "author": "Janice S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Won’t come off lashes very",
+   "body": "Won’t come off lashes very stiff like the color",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 854150415,
+   "stars": 3,
+   "date": "2026-06-13T21:10:13.000Z",
+   "author": "Debra G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "First time buyer",
+   "body": "Read good things about this product but my lashes clumped. May return it.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "55-64",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 854098682,
+   "stars": 3,
+   "date": "2026-06-13T14:00:12.000Z",
+   "author": "Tina H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Nothing special about this mascara",
+   "body": "Nothing special about this mascara for the price. Average.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 853980646,
+   "stars": 3,
+   "date": "2026-06-12T19:32:17.000Z",
+   "author": "Jane R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good mascara for mature skin",
+   "body": "Nice mascara that does the job well !",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "South Florida",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Puffiness",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 853265329,
+   "stars": 3,
+   "date": "2026-06-10T21:54:25.000Z",
+   "author": "Judy S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "To expensive",
+   "body": "I can find mascara that is cheaper and works just as well",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Tennessee",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 853120541,
+   "stars": 3,
+   "date": "2026-06-10T17:56:17.000Z",
+   "author": "Geralynn W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Back to black",
+   "body": "I thought I would try the Crystal color in the lash extension mascara. I always used the black before and loved it. Well, Crystal does not have nearly the amount of \"extension stuff\" that the black color has. I can get plain mascara anywhere. . .",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 852443074,
+   "stars": 3,
+   "date": "2026-06-09T14:30:55.000Z",
+   "author": "Mary R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Color is meh",
+   "body": "The mascara is nice but you cannot tell that it is blue. Color is not vibrant or distinct.\nGood as a basic lengthening mascara",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Vermont",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 851060388,
+   "stars": 3,
+   "date": "2026-06-05T19:31:20.000Z",
+   "author": "Melissa",
+   "verified": true,
+   "incentivized": false,
+   "title": "Maximum Effect, But Flakes",
+   "body": "Wow! I don't think my lashes ever stood out so much. They look full and great with this product.\n\nMy only complaint is that it flakes horribly. I'm a bit concerned wearing it out and to work; I don't want to be 'that' gal.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "CO",
+    "Age Range": "55-64",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 851021867,
+   "stars": 3,
+   "date": "2026-06-05T16:14:54.000Z",
+   "author": "Kimberly",
+   "verified": true,
+   "incentivized": false,
+   "title": "Different, But Not Perfect",
+   "body": "While I do like this mascara overall, I have to disagree with the claims that it is sweat-proof and easy to remove. In my experience, the only reliable way to remove it is with very warm to hot water. Since sweat is essentially warm moisture, I don’t find the sweat-proof claim entirely accurate.\n\nI also find that, especially when applying more than one coat, the water needs to be quite hot and held against the lashes for 10–20 seconds before the product begins to break down and come off completely. Even then, it requires a fair amount of rubbing back and forth to fully remove the mascara. While it is removable without a separate makeup remover, I wouldn’t describe the process as particularly easy or gentle as the marketing suggests.\n\nAnother issue is that this formula does not hold up to tears. If you cry, even briefly, it can start coming off quite easily. Given that tears are also a warm liquid, this isn’t particularly surprising, but it does further undermine the product’s claims of being sweat-proof and resistant to moisture.\n\nIt’s also worth noting that if you have fine or short lashes, the formula can feel somewhat heavy and cause lashes to lose their curl fairly quickly.\n\nOverall, I do like the product and appreciate many of its qualities, but I feel that some of the marketing claims, particularly regarding sweat resistance and ease of removal, overstate its performance.",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Puffiness, Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 846673214,
+   "stars": 3,
+   "date": "2026-06-02T17:55:00.000Z",
+   "author": "Kelsey S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "More flaky than it used to be",
+   "body": "I have used this on and off for years (it was my favorite!) and just repurchased and wondering if they changed the formula. I used to love how it wouldn’t run all day with sweat or even a little water. But this time I was constantly wiping away flakes under my eyes :/ Super bummed because I used to love this!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 846558614,
+   "stars": 3,
+   "date": "2026-06-02T13:35:50.000Z",
+   "author": "Gloria G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Liquid Mascara",
+   "body": "I have been seeing a change in this produce, since the first few times. Almost like the shelf life is getting ready to expire. It's thicker than it should be. This use to be the best Mascara out there. I always gave it a 5 star review and always told my friends what l used when they'd ask.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Pittsfield, MA",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 846180475,
+   "stars": 3,
+   "date": "2026-06-01T17:30:57.000Z",
+   "author": "Jaclyn",
+   "verified": false,
+   "incentivized": false,
+   "title": "Crying under my berry lashes",
+   "body": "I was SO excited for this delivery. I have hazel green eyes and brown mascara has done wonders for me in the past. \n\nI have naturally long eye lashes, so usually a little color goes a long way. \n\nWell I didn’t realize that this wasn’t a typical mascara. Instead of darkening and filling out my lashes, it just like grouped them together and made them really stiff. I could not build any coverage or achieve a dramatic look at all. \n\nI also don’t know how to remove the mascara. These pictures are from today, Monday, after a shower. I applied the ‘mascara’ Friday and Saturday. I’m going to use aquaphor to attempt to soften my lashes and get the product off. \n\nI like the color a lot I just wish this product behaved more like regular mascara",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Piermont NY",
+    "Skin Type": "Dry",
+    "Age Range": "25-34",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Redness, Dryness",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 845449979,
+   "stars": 3,
+   "date": "2026-05-30T20:56:18.000Z",
+   "author": "Catherine M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Clumpy",
+   "body": "Clumpy",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Sensitive",
+    "Age Range": "65 or over",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 844712204,
+   "stars": 3,
+   "date": "2026-05-28T19:19:28.000Z",
+   "author": "Kathy S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara isn't the Best For Me",
+   "body": "The grey color isn't very attractive since it is too pale and should be darker charcoal.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 843800274,
+   "stars": 3,
+   "date": "2026-05-27T00:52:11.000Z",
+   "author": "Diana S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Flaky",
+   "body": "Color nice. Flakes too much.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Nv",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 843766598,
+   "stars": 3,
+   "date": "2026-05-26T21:20:10.000Z",
+   "author": "Melissa R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascaras",
+   "body": "After being on awhile. . I noticed flakes on my face",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "TN",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Visible Pores, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 842841332,
+   "stars": 3,
+   "date": "2026-05-23T19:20:32.000Z",
+   "author": "Debi B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "Mascara is ok but when you take it off it’s flaky and hard to remove. I didn’t care for it.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "65 or over",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 842801241,
+   "stars": 3,
+   "date": "2026-05-23T15:52:16.000Z",
+   "author": "Kimberly M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Just Okay",
+   "body": "This mascara is hit and miss. A lot of product comes out initially making a mess and clumping lashes. After using for a bit the amount that comes out lessens. Overall it's okay.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 842787011,
+   "stars": 3,
+   "date": "2026-05-23T13:01:14.000Z",
+   "author": "G S.",
+   "verified": false,
+   "incentivized": false,
+   "title": "Not as described",
+   "body": "I purchased this Mascara, because all the hipe! \nWell it's like Wet and doesn't separate my Lashes! Just feels Wet and clupsy lashes together!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "PA",
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Hair Color": "Red",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 842301237,
+   "stars": 3,
+   "date": "2026-05-22T07:24:47.000Z",
+   "author": "LUCY I.",
+   "verified": true,
+   "incentivized": false,
+   "title": "MASCARA",
+   "body": "I WAS EXPECTING MORE FROM THIS MASCARA, IT WASNT ANY BETTER THAN THE RIMMEL I AM USING IN FACT I LIKE THE RIMMEL BETTER SORRY. I DO LIKE YOUR EYESHADOWS THOUGH",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 842074956,
+   "stars": 3,
+   "date": "2026-05-21T14:54:25.000Z",
+   "author": "Brooke N.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not sure what to think about it.",
+   "body": "The brown black is much blacker than I expected. As a light blonde with fair skin, I was hoping for something less harsh than black, but I honestly can't tell a difference. I like the way it coats my lashes, and separates them, but it is very thin and smudges more than my current (non waterproof) mascara. I can't tell if I like it or not, but I will use it since I bought it. If I dont wash it off at night there are smudges under my eyes which never happens with my Lash Nextdoor mascara. I am nervous for beach season, it will definitely smudge.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 841376229,
+   "stars": 3,
+   "date": "2026-05-21T00:07:36.000Z",
+   "author": "Lisa M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "This is not dark blue--it's periwinkle",
+   "body": "People need to know before they buy the Nola shade that it is periwinkle blue, not a dark blue. \nIt's not a good color for me as I am light blonde. I thought I was buying the Dark Navy. I will go back to Brynn only.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Sensitive",
+    "Age Range": "55-64",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 839853294,
+   "stars": 3,
+   "date": "2026-05-18T02:12:56.000Z",
+   "author": "Nancy S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I was excited to try",
+   "body": "I was excited to try this highly rated mascara. Unfortunately it was not what I was hoping. At my age I'm looking for something natural to darken my lashes . This makes them very long looking. Some would love this feature. I was just looking for more natural look.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Ohio",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Dryness, Visible Pores, Fine Lines + Wrinkles, Uneven Skin",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 839808875,
+   "stars": 3,
+   "date": "2026-05-17T17:51:56.000Z",
+   "author": "Douglass W.",
+   "verified": false,
+   "incentivized": false,
+   "title": "Love/Hate relationship",
+   "body": "I’m loving the lengthy lashes and most days it’s great! But it doesn’t like hot humid days and sweat! I end up with tubes looking like ants on my face… \nNot sure how to handle this?",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "65 or over"
+   }
+  },
+  {
+   "id": 839714210,
+   "stars": 3,
+   "date": "2026-05-17T00:00:33.000Z",
+   "author": "Terry",
+   "verified": false,
+   "incentivized": false,
+   "title": "Okay",
+   "body": "Bought this because it claimed to be flake, smudge and vertually everything proof. Unfortunately I haven't found it so. Sometimes my eyes are okay for several hours and sometimes not. This flakes off under my eyes many times during the day and I have to clean it off, embarrassing and not what I was led to believe.",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Location": "FL"
+   }
+  },
+  {
+   "id": 839688702,
+   "stars": 3,
+   "date": "2026-05-16T18:11:28.000Z",
+   "author": "Jen K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Love the consistency of black better",
+   "body": "I like this. However the black elongates my lashes better. Feels like the formula is a little different with this green color.",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Phoenix",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Redness",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 839439585,
+   "stars": 3,
+   "date": "2026-05-15T16:09:49.000Z",
+   "author": "Ashley W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Was okay",
+   "body": "I didn’t feel like greeen highlighted by blue eyes. I also wasn’t has voluminous as the regular black that I love. 0",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 838846115,
+   "stars": 3,
+   "date": "2026-05-14T23:56:59.000Z",
+   "author": "Michelle M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not crazy about mascara",
+   "body": "The mascara has a very small wand making it difficult to apply just once. It takes Multiple applications to get the volume and length you desire.\nThen the mascara flakes off in large flakes after a few hours sitting on your cheeks and around eye area.\nI’m not a fan!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Florida",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Visible Pores",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 838546413,
+   "stars": 3,
+   "date": "2026-05-13T20:45:30.000Z",
+   "author": "Ann P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Okay",
+   "body": "I was so excited about the green color but it doesn’t really show up. It is ok but doesn’t make my lashes as thick as my other mascara.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Indiana",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 838457367,
+   "stars": 3,
+   "date": "2026-05-13T12:39:43.000Z",
+   "author": "Jessica R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Did not love",
+   "body": "I ordered the plum colored mascara and was sooo excited to try it. It applied fairly easily, but did not separate and lengthen my lashes, like I hoped. The color also did not pop as it did on the models in the ads. By the end of the day, it had gotten flakey and oddly textured.",
+   "votes_up": 1,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Germantown Ohio",
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Uneven Skin, Puffiness, Redness, Visible Pores",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 838358333,
+   "stars": 3,
+   "date": "2026-05-13T01:28:27.000Z",
+   "author": "Hannah M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Good product bad color",
+   "body": "This mascara goes on well and comes off great. It’s not as bold and dramatic as the description says but it adds a little volume. However I do not like the brown color. The quiz recommended I get brown and all my friends thought it was red! They said I looked like I was going to a concert! So I caution against the brown.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Normal",
+    "Age Range": "25-34",
+    "Hair Color": "Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 838335995,
+   "stars": 3,
+   "date": "2026-05-12T22:54:59.000Z",
+   "author": "Debbie P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "colored mascara",
+   "body": "doesn't built length like the others",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Pittsburgh Pa",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Reddish-Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 838024726,
+   "stars": 3,
+   "date": "2026-05-11T18:12:44.000Z",
+   "author": "LG",
+   "verified": true,
+   "incentivized": false,
+   "title": "flaky",
+   "body": "flaky and gloppy",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NY",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837827113,
+   "stars": 3,
+   "date": "2026-05-11T02:28:41.000Z",
+   "author": "Debbie M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Keep looking",
+   "body": "Its a bit clumsy and starts flaking after about 4 hours",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837815608,
+   "stars": 3,
+   "date": "2026-05-10T23:44:20.000Z",
+   "author": "Ina S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not my favorite",
+   "body": "I don’t see how this is grey. It still looks very black when I take it on. I bought it mainly for that reason, so that was a bit dissapointing. It also does not give that wow look, so I will probably not continue using this product as I have other mascaras that are better.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837757726,
+   "stars": 3,
+   "date": "2026-05-10T12:21:38.000Z",
+   "author": "Kayla W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Worth a try",
+   "body": "This is a nice quality mascara. I wear it with other colorful make up so the color doesnt stand out too much. No one has commented saying they notice it specifically. The container is heavy, especially the handle of the mascara, which seems strange. Shipping was 3-5 days. I will probably stick to regular mascara because its cheaper.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Tacoma washington",
+    "Skin Type": "Normal",
+    "Age Range": "25-34",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837700329,
+   "stars": 3,
+   "date": "2026-05-09T21:12:44.000Z",
+   "author": "Melody J.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Nothing special",
+   "body": "I was a bit disappointed. I didn't see a significant difference between this product and the $8 mascara",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Virginia",
+    "Skin Type": "Dry",
+    "Age Range": "55-64",
+    "Hair Color": "Red",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837693250,
+   "stars": 3,
+   "date": "2026-05-09T19:40:23.000Z",
+   "author": "KRISTINA C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "It doesn’t seem like it’s",
+   "body": "It doesn’t seem like it’s an exceptional product. No different than any other store bought mascara.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837691106,
+   "stars": 3,
+   "date": "2026-05-09T19:10:59.000Z",
+   "author": "Kristie P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I was so hoping to",
+   "body": "I was so hoping to love this mascara. It doesn't make your lashes appear long like my Clinique mascara. I am disappointed in it. Maybe it's the tubing wand, not a fan. Probably will go back to Clinique.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Ohio",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837661119,
+   "stars": 3,
+   "date": "2026-05-09T13:31:54.000Z",
+   "author": "TERRESA G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "The only reason I am",
+   "body": "The only reason I am giving this product 3 stars is because I was expecting it to be more purple, I was expecting it to make my eye color pop more. I used to use blue mascara in the cover girl brand (many many moons ago) and it would make my brown eyes pop so nicely. This mascara definitely goes on easy, doesn’t clump or leave raccoon eyes hours later, but the people in the videos if you notice are in such bright rooms with bright lights and that’s the only reason it shows so well. The product is very well made, but does not show as much as I expected!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Michigan",
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Oil Control, Redness, Uneven Skin",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837561360,
+   "stars": 3,
+   "date": "2026-05-09T02:08:48.000Z",
+   "author": "Beverly H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Average",
+   "body": "This mascara did not perform better than ones I’ve bought in stores for a much lower price.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "65 or over",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837494335,
+   "stars": 3,
+   "date": "2026-05-08T19:48:37.000Z",
+   "author": "Erin E.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Missing something??",
+   "body": "Good not great. I’m not sure what all the hype is about…? Am I missing something??",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NYC",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Visible Pores, Uneven Skin",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837258062,
+   "stars": 3,
+   "date": "2026-05-07T21:47:39.000Z",
+   "author": "Lisa W.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Love the color.",
+   "body": "I’ve been wanting to try this mascara mainly because it is waterproof and I could get it in other colors besides black. I was hoping I would get length and fullness also. I ordered the gray and really love the color. I also like the staying power. It lasts all day and doesn’t flake. Unfortunately, I didn’t get the length and fullness. I won’t be buying it again.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "North Carolina",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Uneven Skin, Dryness, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 837193427,
+   "stars": 3,
+   "date": "2026-05-07T19:26:53.000Z",
+   "author": "Samantha G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not for Asian/Straight Eyelashes :(",
+   "body": "I wear waterproof mascara to hold my eyelash curl because regular mascaras weigh it down and my lash’s are pin straight. This mascara and wand was amazing for adding length without being crazy clumpy, but my lashes were weighed down within 5 mins of applying. Def recommend if your eyelashes are naturally curled but it wasn’t for me :(",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Los Angeles, CA",
+    "Skin Type": "Combination",
+    "Age Range": "18-24",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 837155213,
+   "stars": 3,
+   "date": "2026-05-07T17:24:15.000Z",
+   "author": "Casey H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Looks good at first but it doesn't last the whole day",
+   "body": "I had high expectations for a mascara that cost almost $30. I was hoping that the purple would make my lashes look thicker and would make my green eyes pop as advertised. After the initial application, my lashes do look dark and thick. However, by the end of the work day, they look thing and clumpy. I am NOT a picky person when it comes to make up but I must say I was disappointed with the quality, especially with the price tag.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Indiana",
+    "Skin Type": "Combination",
+    "Age Range": "35-44",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 836777785,
+   "stars": 3,
+   "date": "2026-05-06T19:32:21.000Z",
+   "author": "Jane L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Was disappointed in fullness",
+   "body": "Was disappointed in fullness",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 836752730,
+   "stars": 3,
+   "date": "2026-05-06T17:33:49.000Z",
+   "author": "Jacqueline R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Disappointed",
+   "body": "I really thought the brush would elongate your lashes more. The brush doesn't grasping to your lashes. Had to use 2-3 coats to notice a difference. Will not buy again.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Dark Blond",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 836290166,
+   "stars": 3,
+   "date": "2026-05-05T12:54:36.000Z",
+   "author": "Cindy S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Strange how it comes off.",
+   "body": "The color is really pretty. I was surprised how it came off, kind of flaky and still on my face after the shower. I had to pick it off my face.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {}
+  },
+  {
+   "id": 835639007,
+   "stars": 3,
+   "date": "2026-05-02T22:41:16.000Z",
+   "author": "Cheryl S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "I thought this would be a lot better. It’s expensive mascara and it’s not living up to the expectations I had.\n\nI was not very impressed.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "MA",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Red",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835529905,
+   "stars": 3,
+   "date": "2026-05-01T23:28:09.000Z",
+   "author": "Omy K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Looks clumpy",
+   "body": "Finally sprang for the $30 mascara because of all the hype, and this tubing mascara clumps up after I apply two coats. I look like I am a kid clowning around with my mom's makeup. Is there a chance I am applying it wrong? Could be. Also definitely gonna need the eyelash curler with this product. Overall not worth the extra money, I've used a drug store brand of tubing volumizing mascara that works better than this for half the price (wish I could remember the brand so I could purchase it again!)",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835520553,
+   "stars": 3,
+   "date": "2026-05-01T22:42:41.000Z",
+   "author": "Roxana M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "So-so",
+   "body": "It does accentuate eye color. It doesn't go on as smoothly as Liquid Lash Extensions previously used. It doesn't smudge. Removes cleanly with makeup remover.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Kansas, USA",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Visible Pores, Uneven Skin, Redness, Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835431254,
+   "stars": 3,
+   "date": "2026-05-01T13:35:26.000Z",
+   "author": "Terri S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Eyeliner not as “smooth” as",
+   "body": "Eyeliner not as “smooth” as I expected. I’ve had 2. 99 liner go on better. Mascara color is not as bright as shown. Makes my eyes look washed out. It stays on well but not worth the money.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Wyoming",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Golden",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835428614,
+   "stars": 3,
+   "date": "2026-05-01T13:13:55.000Z",
+   "author": "Barbara P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not loving it Color is",
+   "body": "Not loving it Color is muted.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Massachusetts",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835237522,
+   "stars": 3,
+   "date": "2026-04-30T18:52:58.000Z",
+   "author": "Rachael J.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Won’t buy again.",
+   "body": "Not quite the purple I was expecting, doesn’t really show on lashes. Also, I don’t like how it clumps and comes off way too easily.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Minneapolis, MN",
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835178142,
+   "stars": 3,
+   "date": "2026-04-30T16:54:41.000Z",
+   "author": "Amy R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I really liked the way",
+   "body": "I really liked the way this mascara made my lashes look, I didn't like the way it washed off and unfortunately I had an allergic reaction",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "New Jersey",
+    "Skin Type": "Sensitive",
+    "Age Range": "45-54",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Uneven Skin, Acne + Blemishes",
+    "Skin Tone": "Medium"
+   }
+  },
+  {
+   "id": 835169012,
+   "stars": 3,
+   "date": "2026-04-30T16:12:39.000Z",
+   "author": "Lynda R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "I like it, but not",
+   "body": "I like it, but not sure it really makes my eyes pop. Seems a bit overprices",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 835160639,
+   "stars": 3,
+   "date": "2026-04-30T15:53:43.000Z",
+   "author": "Shelley M.",
+   "verified": true,
+   "incentivized": false,
+   "title": "i like the eye brightener",
+   "body": "i like the eye brightener but mascara doesn’t make your lashes super long like it claims",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "new orleans",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Tone": "Light"
+   }
+  },
+  {
+   "id": 835131192,
+   "stars": 3,
+   "date": "2026-04-30T14:28:02.000Z",
+   "author": "Lisa",
+   "verified": true,
+   "incentivized": false,
+   "title": "Flakes",
+   "body": "Looks beautiful however it flakes. Is there something I can do about flaking?",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light"
+   }
+  },
+  {
+   "id": 835128170,
+   "stars": 3,
+   "date": "2026-04-30T14:00:25.000Z",
+   "author": "Summer S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not my thing. . .",
+   "body": "Pros: Love the color. Doesn't smudge or flake. \n\nCons: Hate the wand. Makes eyelashes stick together in clumps. Dries too fast.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "California",
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Hair Color": "Blond",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834912527,
+   "stars": 3,
+   "date": "2026-04-29T18:47:37.000Z",
+   "author": "Judy K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Wrong Items Sent",
+   "body": "Well, for starters they sent me the wrong items. I ordered one eye brightener and one iris mascara and then got a free sample of an eye brightener. They sent me 2 mascaras, no eye brightener and a FREE sample. Not very happy!",
+   "votes_up": 0,
+   "votes_down": 1,
+   "fields": {
+    "Location": "Overland Park, Kansas",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles, Uneven Skin, Visible Pores",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834783355,
+   "stars": 3,
+   "date": "2026-04-29T03:39:56.000Z",
+   "author": "Mary B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Was hoping to buy the",
+   "body": "Was hoping to buy the volumizer but couldn’t find it sold alone. Tried the extensions, but don’t like the brush. Hope you can sell the volumizer without pairing. Too expensive to buy more than one mascara at a time.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834760171,
+   "stars": 3,
+   "date": "2026-04-29T00:26:26.000Z",
+   "author": "Jacquelyn H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not as expected",
+   "body": "The product works; however I have clumping.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Las vegas",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Deep",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834709846,
+   "stars": 3,
+   "date": "2026-04-28T20:06:20.000Z",
+   "author": "Donna G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Great at first but Disappointing now",
+   "body": "I’ve purchased a few tubes of this mascara. \nI loved it at first but my last 2 tubes have been disappointing. \nLittle goes on at first and when I try to build upon it, it clumps",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "NYC",
+    "Skin Type": "Sensitive",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834280368,
+   "stars": 3,
+   "date": "2026-04-27T15:52:46.000Z",
+   "author": "ZANELLA D.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not a fan",
+   "body": "Honestly, I think it was OK. I definitely would not buy it again.\nWould prefer the mascara that I’ve been using for years over this.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Upstate New York",
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Uneven Skin",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834248651,
+   "stars": 3,
+   "date": "2026-04-27T11:43:24.000Z",
+   "author": "Shannon T.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Beautiful color, but NOT TEAR/WATER PROOF",
+   "body": "Applies nicely and the coloring was beautiful, however, I cried while wearing it and it started falling off in clumps on my cheeks , so very warned!",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "25-34",
+    "Hair Color": "Dark Brown",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834071668,
+   "stars": 3,
+   "date": "2026-04-26T01:50:10.000Z",
+   "author": "Judy L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Just OK",
+   "body": "I bought this mascara on the glowing recommendation of a very close friend and the videos of lashes being sky high\n\nUnfortunately for me I was not as lucky to have achieved the same results\n\nThis formula didn't work out well for me",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "California",
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Hair Color": "Black",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834059839,
+   "stars": 3,
+   "date": "2026-04-25T23:27:31.000Z",
+   "author": "Cindy E.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Clumpy at first but takes",
+   "body": "Clumpy at first but takes some getting used to",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "55-64",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 834037646,
+   "stars": 3,
+   "date": "2026-04-25T18:41:02.000Z",
+   "author": "Adriana C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Great color.",
+   "body": "I love the color! I don’t think it thickens lashes as well as other mascaras.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Poughkeepsie NY",
+    "Skin Type": "Normal",
+    "Age Range": "35-44",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 833675688,
+   "stars": 3,
+   "date": "2026-04-24T19:05:06.000Z",
+   "author": "Lynne R.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Purple doesn’t stand out",
+   "body": "The tubing formula is great, it Doesn’t smudge and comesOf nicely with warm water. I got because I loved the color purple, but once it’s applied it just looks black… bummer",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Light Brown",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 833671395,
+   "stars": 3,
+   "date": "2026-04-24T18:45:48.000Z",
+   "author": "Dondra G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Colored mascara",
+   "body": "Love the colors but unhappy with the way the product works. Sadly I bought 2 colors should have just tried one.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "65 or over",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 832859070,
+   "stars": 3,
+   "date": "2026-04-23T20:37:58.000Z",
+   "author": "Rebecca A.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Sooo thick",
+   "body": "It’s sooo thick I’m having a hard time putting it on. I have big globs on my lashes and it takes me forever to get rid of them. Any help would be appreciated.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "White",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 832606167,
+   "stars": 3,
+   "date": "2026-04-22T22:53:11.000Z",
+   "author": "Pat L.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Promises Not Kept",
+   "body": "I can’t say I’m impressed with this mascara. It does not coat my lashes easily and certainly does not lengthen them. I had better luck with L’Oréal Lash Lengthening Mascara than this product.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 832530347,
+   "stars": 3,
+   "date": "2026-04-22T15:56:35.000Z",
+   "author": "Melanie G.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara",
+   "body": "I like how it goes on but after it goes on the mascara starts flaking off.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Neillsville, WI",
+    "Skin Type": "Dry",
+    "Age Range": "65 or over",
+    "Hair Color": "Light Brown",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 832502908,
+   "stars": 3,
+   "date": "2026-04-22T12:44:30.000Z",
+   "author": "Andrea C.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not worth the price tag",
+   "body": "This is a good mascara, but not mind-blowing. A bit disappointed that it really doesn't make lashes look fuller. I have used less expensive brands with the same results. All that said, it does not clump or flake off. Probably won't buy again b/c of price point.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "South central Pennsylvania",
+    "Skin Type": "Sensitive",
+    "Age Range": "55-64",
+    "Hair Color": "Dark Brown",
+    "Skin Concerns": "Redness, Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 832042327,
+   "stars": 3,
+   "date": "2026-04-20T22:14:17.000Z",
+   "author": "MR",
+   "verified": false,
+   "incentivized": false,
+   "title": "Pros and Cons",
+   "body": "While I love that this mascara doesn't smudge or flake at all - a plus for my sensitive eyes - I find that the applicator clumps my lashes together. The look is more chunky and less lash-defined than I would like.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "WA",
+    "Age Range": "45-54",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 832031646,
+   "stars": 3,
+   "date": "2026-04-20T21:48:17.000Z",
+   "author": "Nancy B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "The color was OK, but",
+   "body": "The color was OK, but I didn’t feel that it came off as easily as your other mascara. The formula must be somewhat different. I was not happy with it and would not purchase that again.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Minnesota",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 831743397,
+   "stars": 3,
+   "date": "2026-04-20T03:11:42.000Z",
+   "author": "Kate",
+   "verified": true,
+   "incentivized": false,
+   "title": "Mascara is ok, but can’t see the color",
+   "body": "I think the mascara is just ok, but I bought it for the color and you can’t see the color at all. I have dark lashes, so maybe this only works on really light lashes?",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Combination",
+    "Age Range": "45-54",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 831569189,
+   "stars": 3,
+   "date": "2026-04-19T17:06:02.000Z",
+   "author": "Christina K.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Smudges",
+   "body": "I like that it is cruelty free, that's a big plus. I am looking for a new mascara as the one that I had been using for decades all of a sudden, the new tube that I bought, stung my eyes. Your brand was recommended by a friend and also a few on a SM platform. But, it smudges,. I need to constantly wipe away the smudges until hardly anything remains on my lashes. I have puffy eyelids, so that doesn't help.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Sensitive",
+    "Age Range": "65 or over",
+    "Skin Tone": "Light"
+   }
+  },
+  {
+   "id": 831242681,
+   "stars": 3,
+   "date": "2026-04-18T17:19:36.000Z",
+   "author": "Margaret S.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Like color",
+   "body": "But prefer a mascara that builds thickness.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "65 or over",
+    "Hair Color": "White",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 831123451,
+   "stars": 3,
+   "date": "2026-04-17T22:27:33.000Z",
+   "author": "Shannon B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Meh",
+   "body": "The length was good. Clumped terrible though.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Age Range": "25-34",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 830699698,
+   "stars": 3,
+   "date": "2026-04-16T18:06:11.000Z",
+   "author": "Karen P.",
+   "verified": true,
+   "incentivized": false,
+   "title": "This mascara started out good,",
+   "body": "This mascara started out good, but after a week of use it is clumping. I'm careful not to pump it and close it immediately after use. Don't know why it seems to be drying up.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "PA",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Visible Pores, Uneven Skin, Fine Lines + Wrinkles",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 830618069,
+   "stars": 3,
+   "date": "2026-04-16T11:52:23.000Z",
+   "author": "Joy H.",
+   "verified": true,
+   "incentivized": false,
+   "title": "For all the hype advertised,",
+   "body": "For all the hype advertised, I was disappointed. This is no better than your regular liquid lash. I saw no difference in the length at all. Really disappointed.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 830463763,
+   "stars": 3,
+   "date": "2026-04-16T04:02:22.000Z",
+   "author": "Terri",
+   "verified": true,
+   "incentivized": false,
+   "title": "A no go for me this time. Sorry.",
+   "body": "I love the black extinction mascara guys!\nWas excited to see the color green get here,\nBut I’m being honest. It does NOT LOOK GREEN ON YOUR eye lashes. Totally black for sure.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Texas",
+    "Skin Type": "Combination",
+    "Age Range": "55-64",
+    "Hair Color": "Blond",
+    "Skin Concerns": "Fine Lines + Wrinkles",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 830432219,
+   "stars": 3,
+   "date": "2026-04-16T01:29:42.000Z",
+   "author": "Digon J.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Color is not as advertised",
+   "body": "Color is not as advertised",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "Southern California",
+    "Skin Type": "Combination",
+    "Age Range": "65 or over",
+    "Hair Color": "Gray",
+    "Skin Concerns": "Fine Lines + Wrinkles, Uneven Skin",
+    "Skin Tone": "Fair",
+    "Recommend to a Friend": "No"
+   }
+  },
+  {
+   "id": 830402687,
+   "stars": 3,
+   "date": "2026-04-15T21:00:47.000Z",
+   "author": "Maia N.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Only great mid lifespan of the mascara",
+   "body": "Let me preface I have used this mascara for years, initially trying from Ipsy bag, and bought my own full size not too long after. In the beginning, upon opening the mascara & using it daily, it is far too “wet” giving me really thick stuck together lashes making it appear I have far less lashes than I actually do. I ordered a new one because at the end of my last tubes life - it was also causing extreme clumping, but atleast wasn’t applying thick. So basically, the lifespan of the mascara isn’t great, and the optimal application is only during the middle of its life when it’s not super wet on the wand, and not too dry that it’s clumping the mascara itself. Really wish the formula was a tad better. It does come off really easily and not runny, but in pieces. I do like that aspect of it.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Location": "New york",
+    "Skin Type": "Combination",
+    "Age Range": "25-34",
+    "Hair Color": "Dark Blond",
+    "Skin Concerns": "Acne + Blemishes",
+    "Skin Tone": "Light",
+    "Recommend to a Friend": "Yes"
+   }
+  },
+  {
+   "id": 830149457,
+   "stars": 3,
+   "date": "2026-04-14T20:56:16.000Z",
+   "author": "Emma B.",
+   "verified": true,
+   "incentivized": false,
+   "title": "Not as good as used to be",
+   "body": "I have bought this in the past and loved it, however this time it is flaking off and not as good as it used to be.",
+   "votes_up": 0,
+   "votes_down": 0,
+   "fields": {
+    "Skin Type": "Normal",
+    "Age Range": "45-54",
+    "Skin Tone": "Medium",
+    "Recommend to a Friend": "No"
+   }
+  }
+ ]
+}

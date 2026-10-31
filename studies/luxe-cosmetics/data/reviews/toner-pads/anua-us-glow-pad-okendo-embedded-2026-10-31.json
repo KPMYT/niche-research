@@ -1,0 +1,397 @@
+{
+ "areReviewsGrouped": false,
+ "chatAssistant": {
+  "reviewCount": 15
+ },
+ "media": [],
+ "productAttributes": [],
+ "questionCount": 0,
+ "reviewAggregate": {
+  "customerAttributeCount": [
+   {
+    "title": "How old are you?",
+    "type": "drop-down",
+    "options": [
+     {
+      "title": "36-40",
+      "count": 2
+     },
+     {
+      "title": "18-24",
+      "count": 1
+     },
+     {
+      "title": "51-55",
+      "count": 1
+     },
+     {
+      "title": "56-60",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "title": "What are your skin concerns?",
+    "type": "multi-value",
+    "options": [
+     {
+      "title": "Sensitivity",
+      "count": 3
+     },
+     {
+      "title": "Dryness",
+      "count": 3
+     },
+     {
+      "title": "Ageing",
+      "count": 2
+     },
+     {
+      "title": "Redness",
+      "count": 2
+     },
+     {
+      "title": "Oiliness",
+      "count": 2
+     },
+     {
+      "title": "Wrinkles",
+      "count": 2
+     },
+     {
+      "title": "Sun Damage",
+      "count": 2
+     },
+     {
+      "title": "Texture",
+      "count": 2
+     },
+     {
+      "title": "Acne",
+      "count": 1
+     },
+     {
+      "title": "Pigmentation",
+      "count": 1
+     },
+     {
+      "title": "Blackheads",
+      "count": 1
+     },
+     {
+      "title": "Irritation",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "title": "What is your skin type?",
+    "type": "drop-down",
+    "options": [
+     {
+      "title": "Combination",
+      "count": 4
+     },
+     {
+      "title": "Dry",
+      "count": 1
+     }
+    ]
+   }
+  ],
+  "dateUpdated": "2026-06-09T14:19:02.552Z",
+  "mediaCount": 0,
+  "productId": "shopify-9980159885590",
+  "productName": "PDRN 100 Hyaluronic Acid Glow Pad",
+  "ratingAndReviewCount": 15,
+  "ratingAndReviewCountByLevel": {
+   "level4Count": 2,
+   "level5Count": 13
+  },
+  "ratingAndReviewValuesTotal": 73,
+  "ratingCount": 0,
+  "ratingCountByLevel": {},
+  "ratingValuesTotal": 0,
+  "recommendationCount": 15,
+  "replyCount": 0,
+  "replyWordsTotal": 0,
+  "reviewCount": 15,
+  "reviewCountByLevel": {
+   "level4Count": 2,
+   "level5Count": 13
+  },
+  "reviewRatingValuesTotal": 73,
+  "reviewWordsTotal": 1296,
+  "subscriberId_productId": "e8c19539-12a0-44b1-a296-7cf4fb962169:shopify-9980159885590",
+  "subscriberId": "e8c19539-12a0-44b1-a296-7cf4fb962169"
+ },
+ "reviews": [
+  {
+   "subscriberId": "e8c19539-12a0-44b1-a296-7cf4fb962169",
+   "reviewId": "8d7ef0b8-740b-41d8-b499-7c47df0e0771",
+   "subscriberId_productId": "e8c19539-12a0-44b1-a296-7cf4fb962169:shopify-9980159885590",
+   "productId": "shopify-9980159885590",
+   "body": "These pads are super saturated with quality skin care ingredients that cool the skin they are best placed in one area at a time and slid to another area until the whole face gets the product ",
+   "dateCreated": "2026-06-09T14:19:00.995Z",
+   "dateUpdated": "2026-06-09T14:19:00.995Z",
+   "helpfulCount": 1,
+   "isRecommended": true,
+   "languageCode": "en",
+   "productHandle": "pdrn-100-hyaluronic-acid-glow-pad",
+   "productImageUrl": "https://cdn.shopify.com/s/files/1/0753/1429/9158/files/anua-us-toner-pdrn-100-hyaluronic-acid-glow-pad-1239193725_x280.jpg?v=1779176411",
+   "productName": "PDRN 100 Hyaluronic Acid Glow Pad",
+   "productUrl": "//anua.com/products/pdrn-100-hyaluronic-acid-glow-pad",
+   "rating": 5,
+   "reviewer": {
+    "attributes": [
+     {
+      "title": "How old are you?",
+      "type": "single-value",
+      "value": "51-55"
+     },
+     {
+      "title": "What are your skin concerns?",
+      "type": "multi-value",
+      "value": [
+       "Sensitivity",
+       "Dryness",
+       "Redness",
+       "Texture"
+      ]
+     },
+     {
+      "title": "What is your skin type?",
+      "type": "single-value",
+      "value": "Dry"
+     }
+    ],
+    "displayName": "Jennifer S.",
+    "isVerified": true
+   },
+   "isIncentivized": true,
+   "status": "approved",
+   "title": "Super hydrated skin",
+   "unhelpfulCount": 0,
+   "variantId": "50066449465622"
+  },
+  {
+   "subscriberId": "e8c19539-12a0-44b1-a296-7cf4fb962169",
+   "reviewId": "5a0484ac-b589-43e4-b73b-72bf40e7c1f4",
+   "subscriberId_productId": "e8c19539-12a0-44b1-a296-7cf4fb962169:shopify-9980159885590",
+   "productId": "shopify-9980159885590",
+   "body": "Love this product. Everyone comments on my glowy skin and inhave never had great skin before. Price is amazing for the product.",
+   "dateCreated": "2026-03-03T16:02:38.000Z",
+   "dateUpdated": "2026-03-03T16:02:38.000Z",
+   "externalProvider": "shopify-shop",
+   "helpfulCount": 0,
+   "isRecommended": true,
+   "languageCode": "en",
+   "productHandle": "pdrn-100-hyaluronic-acid-glow-pad",
+   "productImageUrl": "https://cdn.shopify.com/s/files/1/0753/1429/9158/files/anua-us-toner-pdrn-100-hyaluronic-acid-glow-pad-1239193725_x280.jpg?v=1779176411",
+   "productName": "PDRN 100 Hyaluronic Acid Glow Pad",
+   "productUrl": "//anua.com/products/pdrn-100-hyaluronic-acid-glow-pad",
+   "rating": 5,
+   "reviewer": {
+    "displayName": "beth"
+   },
+   "isIncentivized": false,
+   "status": "approved",
+   "title": "5 Stars",
+   "unhelpfulCount": 0,
+   "variantId": "50066449465622"
+  },
+  {
+   "subscriberId": "e8c19539-12a0-44b1-a296-7cf4fb962169",
+   "reviewId": "f0e625ef-f70a-40e2-a0e8-2d2e05fead58",
+   "subscriberId_productId": "e8c19539-12a0-44b1-a296-7cf4fb962169:shopify-9980159885590",
+   "productId": "shopify-9980159885590",
+   "body": "The best product i ever used",
+   "dateCreated": "2026-02-22T07:31:04.000Z",
+   "dateUpdated": "2026-02-22T07:31:04.000Z",
+   "externalProvider": "shopify-shop",
+   "helpfulCount": 0,
+   "isRecommended": true,
+   "languageCode": "en",
+   "productHandle": "pdrn-100-hyaluronic-acid-glow-pad",
+   "productImageUrl": "https://cdn.shopify.com/s/files/1/0753/1429/9158/files/anua-us-toner-pdrn-100-hyaluronic-acid-glow-pad-1239193725_x280.jpg?v=1779176411",
+   "productName": "PDRN 100 Hyaluronic Acid Glow Pad",
+   "productUrl": "//anua.com/products/pdrn-100-hyaluronic-acid-glow-pad",
+   "rating": 5,
+   "reviewer": {
+    "displayName": "Sabrina"
+   },
+   "isIncentivized": false,
+   "status": "approved",
+   "title": "5 Stars",
+   "unhelpfulCount": 0,
+   "variantId": "50066449465622"
+  }
+ ],
+ "reviewsKeywords": {
+  "keywordTopics": [
+   {
+    "keywords": [
+     {
+      "name": "hydrating",
+      "occurrences": 3
+     },
+     {
+      "name": "hydration",
+      "occurrences": 2
+     },
+     {
+      "name": "moisturized",
+      "occurrences": 1
+     },
+     {
+      "name": "moisturizing",
+      "occurrences": 1
+     },
+     {
+      "name": "dryness",
+      "occurrences": 1
+     }
+    ],
+    "topic": "Hydration"
+   },
+   {
+    "keywords": [
+     {
+      "name": "texture",
+      "occurrences": 2
+     },
+     {
+      "name": "absorption",
+      "occurrences": 2
+     },
+     {
+      "name": "dual texture",
+      "occurrences": 1
+     },
+     {
+      "name": "non-sticky",
+      "occurrences": 1
+     },
+     {
+      "name": "stickiness",
+      "occurrences": 1
+     },
+     {
+      "name": "thickness",
+      "occurrences": 1
+     }
+    ],
+    "topic": "Texture"
+   },
+   {
+    "keywords": [
+     {
+      "name": "effectiveness",
+      "occurrences": 2
+     },
+     {
+      "name": "results",
+      "occurrences": 1
+     },
+     {
+      "name": "brightening",
+      "occurrences": 1
+     },
+     {
+      "name": "plumping",
+      "occurrences": 1
+     },
+     {
+      "name": "glow",
+      "occurrences": 1
+     }
+    ],
+    "topic": "Effectiveness"
+   },
+   {
+    "keywords": [
+     {
+      "name": "quantity",
+      "occurrences": 2
+     },
+     {
+      "name": "affordability",
+      "occurrences": 1
+     },
+     {
+      "name": "price",
+      "occurrences": 1
+     },
+     {
+      "name": "product amount",
+      "occurrences": 1
+     }
+    ],
+    "topic": "Value"
+   },
+   {
+    "keywords": [
+     {
+      "name": "ease of use",
+      "occurrences": 1
+     },
+     {
+      "name": "dries quickly",
+      "occurrences": 1
+     },
+     {
+      "name": "dual-sided",
+      "occurrences": 1
+     },
+     {
+      "name": "convenience",
+      "occurrences": 1
+     },
+     {
+      "name": "morning routine",
+      "occurrences": 1
+     }
+    ],
+    "topic": "Application"
+   },
+   {
+    "keywords": [
+     {
+      "name": "gentle",
+      "occurrences": 1
+     },
+     {
+      "name": "soothing",
+      "occurrences": 1
+     },
+     {
+      "name": "cooling",
+      "occurrences": 1
+     },
+     {
+      "name": "fresh feeling",
+      "occurrences": 1
+     },
+     {
+      "name": "skin feel",
+      "occurrences": 1
+     },
+     {
+      "name": "softness",
+      "occurrences": 1
+     }
+    ],
+    "topic": "Comfort"
+   }
+  ],
+  "languageCode": "en"
+ },
+ "reviewsNextUrl": "https://api.okendo.io/v1/stores/e8c19539-12a0-44b1-a296-7cf4fb962169/products/shopify-9980159885590/reviews?limit=5&orderBy=tag%3AuuKkzn7%20desc&orderBy=date%20desc&lastEvaluated=%7B%22from%22%3A3%7D",
+ "sort": {
+  "defaultSort": "tags desc",
+  "secondarySort": "date desc",
+  "featuredReviewsTags": [
+   "uuKkzn7"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "source": "judge.me reviews_for_widget shop=luxe-cosmetics-us.myshopify.com product_id=8265320202498",
+ "pulled": "2026-10-31",
+ "total_count": 2,
+ "reviews": [
+  {
+   "store": "luxe.com / luxecosmetics.us (US store)",
+   "product_id": "8265320202498",
+   "id": "eeffc141-8287-4dc3-af96-61a73e476ef7",
+   "verified": "false",
+   "product": "Luxe Conditioning Peptide Mascara",
+   "stars": "5",
+   "date": "2024-08-07T19:14:24Z",
+   "author": "Jan W.",
+   "location": "",
+   "title": "",
+   "body": "I received this mascara as a gift and I absolutely love it. Since then I have purchased 2 more tubes. It defines your lashes and stays on.",
+   "thumbs_up": "0"
+  },
+  {
+   "store": "luxe.com / luxecosmetics.us (US store)",
+   "product_id": "8265320202498",
+   "id": "958d6b73-c28c-407b-9d34-0a3de7c1d1f7",
+   "verified": "true",
+   "product": "Luxe Conditioning Peptide Mascara",
+   "stars": "5",
+   "date": "2024-08-06T17:00:00Z",
+   "author": "Jan W.",
+   "location": "",
+   "title": "",
+   "body": "‎",
+   "thumbs_up": "0"
+  }
+ ]
+}

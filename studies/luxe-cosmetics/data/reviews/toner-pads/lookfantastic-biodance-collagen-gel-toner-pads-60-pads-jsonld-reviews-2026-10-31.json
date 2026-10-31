@@ -1,0 +1,83 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 4.583333333333333,
+   "reviewCount": 12
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Ana",
+   "date": "2026-09-23",
+   "stars": 5,
+   "title": null,
+   "body": "I really liked these flakes, they are very comfortable to use and work well in daily care. The skin after them is moisturised, soft and looks fresh.\n\nThey do not irritate and are gentle, so you can safely use them every day. They also work well as a quick skin refresh.\n\nFor me, a great option, especially if I don't want to use a classic tonic.\n\nFor normal and sensitive combination skin."
+  },
+  {
+   "name": "Claudi",
+   "date": "2026-08-24",
+   "stars": 5,
+   "title": null,
+   "body": "Suchte ein Augenfeuchtigkeitspad und habe nicht richtig gelesen ABER bin total zufrieden. Nach der Reinigung mit der mitgelieferten Pinzette ein dünnes pad entnehmen und schon beginnt die Feuchtigkeit auf der Haut zu wirken. Tolles Produkt..."
+  },
+  {
+   "name": "Nic",
+   "date": "2026-08-16",
+   "stars": 3,
+   "title": null,
+   "body": "Were ok but didn't really do anything for my skin."
+  },
+  {
+   "name": "Mojama",
+   "date": "2026-07-22",
+   "stars": 5,
+   "title": null,
+   "body": "These are brilliant best 1s ive tried, stay were they should dont slip like others do n you can actually see the diff afterwards"
+  },
+  {
+   "name": "Jan",
+   "date": "2026-07-03",
+   "stars": 5,
+   "title": null,
+   "body": "These are fab, skin feels lovely after using them, I keep them in the fridge if had a rubbish night sleep, helps with the puffiness."
+  },
+  {
+   "name": ":))",
+   "date": "2026-06-27",
+   "stars": 5,
+   "title": null,
+   "body": "Love this product and it’s great for oily skin types !"
+  },
+  {
+   "name": "Helliejx",
+   "date": "2026-06-25",
+   "stars": 5,
+   "title": null,
+   "body": "This genuinely makes you achieve that glass skin, really does nourish the skin and hydrate it. I have sensitive skin and it hasn’t caused any issues. Second time purchase and I think this will be a new staple for me"
+  },
+  {
+   "name": "Jen",
+   "date": "2026-06-15",
+   "stars": 2,
+   "title": null,
+   "body": "I find them a bit slimy.  They aren't unpleasant on the skin, I just can't seem to fit it into my routine."
+  },
+  {
+   "name": "Niky",
+   "date": "2026-05-11",
+   "stars": 5,
+   "title": null,
+   "body": "I love these toning pads. Super convenient and hydrate my skin really well."
+  },
+  {
+   "name": "NikW",
+   "date": "2026-05-07",
+   "stars": 5,
+   "title": null,
+   "body": "Great product. My skin looks much fresher and plumper. Fine lines are less visible."
+  }
+ ]
+}

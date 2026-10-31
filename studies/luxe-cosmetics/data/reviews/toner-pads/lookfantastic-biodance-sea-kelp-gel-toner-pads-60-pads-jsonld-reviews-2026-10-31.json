@@ -1,0 +1,34 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 5,
+   "reviewCount": 3
+  }
+ ],
+ "reviews": [
+  {
+   "name": "T.L",
+   "date": "2026-10-29",
+   "stars": 5,
+   "title": null,
+   "body": "I love using these toner pads as a quick 5 to 10-minute mask before applying makeup, depending on how my skin feels that day. It prepares my skin so well and makes my makeup go on smoothly!"
+  },
+  {
+   "name": "Emma",
+   "date": "2026-07-22",
+   "stars": 5,
+   "title": null,
+   "body": "Sadly, these toner pads are worth it. I personally prefer the blue hydrating version more than these one, but they are still a solid choice. I leave the toner pads on for 20 minutes and they leave my skin calm and happy. I am a complete convert for toner pads. Huge difference to my skin."
+  },
+  {
+   "name": ":))",
+   "date": "2026-06-27",
+   "stars": 5,
+   "title": null,
+   "body": "Love the bio dance refreshing sea kelp face pads !!"
+  }
+ ]
+}

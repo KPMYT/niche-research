@@ -1,0 +1,48 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 4.8,
+   "reviewCount": 5
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Abbe",
+   "date": "2026-09-23",
+   "stars": 5,
+   "title": null,
+   "body": "So hydrating and soothing, i leave it on as a face mask before makeup"
+  },
+  {
+   "name": "T.L",
+   "date": "2026-06-26",
+   "stars": 5,
+   "title": null,
+   "body": "I usually use it as a quick 5–10 minute mask before makeup, and it makes my foundation apply so smoothly."
+  },
+  {
+   "name": "Chloe",
+   "date": "2026-06-24",
+   "stars": 4,
+   "title": null,
+   "body": "I have used these once before an event and although I liked the feel of them I haven’t reached for them again. Personally I prefer a sheet mask and although a little messier/ trickier it is just personal preference for overall hydration."
+  },
+  {
+   "name": "Flufg",
+   "date": "2026-05-03",
+   "stars": 5,
+   "title": null,
+   "body": "I love these. I slap one on each cheek while I'm brushing my teeth like a mini face mask. They are so cooling."
+  },
+  {
+   "name": "Anonymous",
+   "date": "2026-04-22",
+   "stars": 5,
+   "title": null,
+   "body": "Very hydrating and good for sensitive skin, highly recommend."
+  }
+ ]
+}

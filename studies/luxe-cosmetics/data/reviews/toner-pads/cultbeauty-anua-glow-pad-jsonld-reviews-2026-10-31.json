@@ -1,0 +1,83 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 4.67,
+   "reviewCount": 18
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Zuz",
+   "date": "2026-10-30",
+   "stars": 5,
+   "title": null,
+   "body": "I just started using it so nothing much to report yet, but it leaves the skin nice and hydrated. "
+  },
+  {
+   "name": "Coco",
+   "date": "2026-10-30",
+   "stars": 4,
+   "title": null,
+   "body": "I've been using it for 2 weeks now and it's very hydrating. I feel my skin moisturized and glowing. I use it in the morning juste after washing my face. I think it's a great value for the price."
+  },
+  {
+   "name": "Sunny",
+   "date": "2026-06-23",
+   "stars": 4,
+   "title": null,
+   "body": "Tried this face mask for the first time. It’s very hydrating, and the results are visible."
+  },
+  {
+   "name": "Emilia",
+   "date": "2026-05-07",
+   "stars": 5,
+   "title": null,
+   "body": "I discovered this in February, it was a gift a friend uses religiously, and she converted me to this brand! My skin is more radiant, my fine lines less visible, and my skin glows, I'm in my 3rd purchase!"
+  },
+  {
+   "name": "Qwendy",
+   "date": "2026-05-05",
+   "stars": 4,
+   "title": null,
+   "body": "I'm completely flummoxed by the two sided pad which I can't perceive, being completely saturated with serum. The serum is lovely and hydrating but I don't understand why it has to be in this enormous jar with a tweezer and on these pads? It's very moisturizing but takes up a lot of space in my tiny bathroom!"
+  },
+  {
+   "name": "Luci",
+   "date": "2026-05-02",
+   "stars": 5,
+   "title": null,
+   "body": "Skin is left very well hydrated, I am already repurchising. "
+  },
+  {
+   "name": "Maria_London",
+   "date": "2026-04-30",
+   "stars": 4,
+   "title": null,
+   "body": "I like these patches and find them juicy and hydrating.\nI just think that I prefer the shape of traditional sheet masks and eye patches, as I feel like they hug better the contours of the face that I personally want to target."
+  },
+  {
+   "name": "Lyssa",
+   "date": "2026-04-21",
+   "stars": 5,
+   "title": null,
+   "body": "I have dehydrated skin, not dry skin, so it’s hard to find products that give my skin water-based hydration rather than something heavy or greasy. This product is honestly amazing,it feels so fresh. It’s also really economical because I don’t use three patches each time; I just use one or two on my cheeks, then my forehead, and massage the remaining product into my skin until it’s fully absorbed. I’m left with a glass-skin effect, plump skin, and when I apply my moisturizer on top, it looks incredible."
+  },
+  {
+   "name": "Lucia",
+   "date": "2026-04-14",
+   "stars": 5,
+   "title": null,
+   "body": "It hydrates my skin, calms redness and it's pefect under makeup. "
+  },
+  {
+   "name": "kovesdii",
+   "date": "2026-03-10",
+   "stars": 5,
+   "title": null,
+   "body": "They moisturize really well and don't irritate my sensitive skin."
+  }
+ ]
+}

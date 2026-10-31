@@ -1,0 +1,27 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 5,
+   "reviewCount": 2
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Angelika",
+   "date": "2026-10-30",
+   "stars": 5,
+   "title": null,
+   "body": "I love these patches for quick hydration routing and I pair them with Biodance collagen eye taches. Perfect match "
+  },
+  {
+   "name": "Maria",
+   "date": "2026-07-02",
+   "stars": 5,
+   "title": null,
+   "body": "Lovely toner pads, I use these a couple times a week as a quick mask in the morning to help keep my skin hydrated."
+  }
+ ]
+}

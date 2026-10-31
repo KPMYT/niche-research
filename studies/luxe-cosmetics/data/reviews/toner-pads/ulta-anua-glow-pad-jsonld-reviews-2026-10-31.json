@@ -1,0 +1,46 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "ratingValue": 4.8,
+   "reviewCount": 124
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Kat",
+   "date": "2026-10-25",
+   "stars": 5,
+   "title": "Arua face pads",
+   "body": "Im in lovr between these and medicube toner pads once your face is dry just slap on your fav serum and some moisturizer after that your done!"
+  },
+  {
+   "name": "Sissy Cakes",
+   "date": "2026-10-18",
+   "stars": 5,
+   "title": "Must have",
+   "body": "These are very saturated and make my skin feel wonderful. I cut them in half and use them as a mask! Love them!"
+  },
+  {
+   "name": "Lina",
+   "date": "2026-09-30",
+   "stars": 5,
+   "title": "calms my skin",
+   "body": "These pads are so refreshing and hydrating. My skin looks plumper and more radiant after using them."
+  },
+  {
+   "name": "Thanh",
+   "date": "2026-09-30",
+   "stars": 5,
+   "title": "i would buy this product again for sure",
+   "body": "Deeply cleanses while unclogging pores and effectively reducing acne."
+  },
+  {
+   "name": "Jerra",
+   "date": "2026-09-30",
+   "stars": 5,
+   "title": "perfect toner pad for skin prep",
+   "body": "i love how cooling and moisturizing this is on my skin!!! helps my base makeup smooth and glowy"
+  }
+ ]
+}

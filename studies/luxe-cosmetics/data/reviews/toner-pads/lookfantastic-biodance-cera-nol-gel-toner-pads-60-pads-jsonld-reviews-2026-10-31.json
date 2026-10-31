@@ -1,0 +1,62 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 5,
+   "reviewCount": 7
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Angelika",
+   "date": "2026-10-27",
+   "stars": 5,
+   "title": null,
+   "body": "Love this instead of toner. Smell nice and lasts for 2 months. Very hydrating and lots of serum."
+  },
+  {
+   "name": "Cdouglas",
+   "date": "2026-10-25",
+   "stars": 5,
+   "title": null,
+   "body": "I Love them,  so easy to use & easy to store would definitely recommend"
+  },
+  {
+   "name": "SJx",
+   "date": "2026-10-13",
+   "stars": 5,
+   "title": null,
+   "body": ""
+  },
+  {
+   "name": "EmsyD",
+   "date": "2026-09-06",
+   "stars": 5,
+   "title": null,
+   "body": "Saw this in a different make on line. Got this as it was on offer. Love the feeling on my skin. Feels really fresh. A bit wet for a while but I like them"
+  },
+  {
+   "name": "Liv",
+   "date": "2026-08-10",
+   "stars": 5,
+   "title": null,
+   "body": "These are very lovely and hydrating pads, I love leaving them on my cheeks when they’re feeling dehydrated and they instantly look glowy when I remove them."
+  },
+  {
+   "name": "Emma",
+   "date": "2026-07-22",
+   "stars": 5,
+   "title": null,
+   "body": "Sadly, this product is 100% worth it. I love these toner pads, they’ve really made a difference to my hydration and skin barrier. I leave them on for 20 minutes each evening, they stick well to the skin and don’t dry out. They leave my skin calm, without redness, and soft and supple. Will be a forever purchase."
+  },
+  {
+   "name": ":))",
+   "date": "2026-06-27",
+   "stars": 5,
+   "title": null,
+   "body": "Great product especially for oily skin types !!!!!"
+  }
+ ]
+}

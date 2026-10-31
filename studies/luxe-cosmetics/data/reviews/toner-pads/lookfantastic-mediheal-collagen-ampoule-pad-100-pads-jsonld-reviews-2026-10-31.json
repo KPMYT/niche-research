@@ -1,0 +1,83 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 4.7272727272727275,
+   "reviewCount": 11
+  }
+ ],
+ "reviews": [
+  {
+   "name": "lexxpetunia",
+   "date": "2026-09-29",
+   "stars": 5,
+   "title": null,
+   "body": "Bought these as another brand were out of stock but I’m a convert. I’ve been using them twice a day morning/night and really noticed a difference in texture and fullness of my face."
+  },
+  {
+   "name": "Kirsty",
+   "date": "2026-08-31",
+   "stars": 3,
+   "title": null,
+   "body": "I like the feeling of these but they weren't as good as some other pdrn pads out there. The box also leaked quite badly and didn't travel well."
+  },
+  {
+   "name": "Jennie",
+   "date": "2026-08-16",
+   "stars": 5,
+   "title": null,
+   "body": "Ideal sized pads for those who don’t want to commit to a full on sheet mask."
+  },
+  {
+   "name": "Looby",
+   "date": "2026-08-15",
+   "stars": 5,
+   "title": null,
+   "body": "Easy to use and skin feels clean and supple after use"
+  },
+  {
+   "name": "RachelW",
+   "date": "2026-06-01",
+   "stars": 5,
+   "title": null,
+   "body": "I brought these on a whim as i was curious and i absolutely love them. You can swipe over your face or apply as a spot mask to various areas i apply to my neck and particularly dry spot on head and they have worked really well especially if used daily. Will be repurchasing"
+  },
+  {
+   "name": "Dani",
+   "date": "2026-05-13",
+   "stars": 4,
+   "title": null,
+   "body": "Unsure yet on the actual effect of these pads but they are very nice texture wise and easy to use"
+  },
+  {
+   "name": "Vics77",
+   "date": "2026-05-12",
+   "stars": 5,
+   "title": null,
+   "body": "I’m enjoying using these. I’m noticing more fine lines and wrinkles and found these on here. I feel that they are very hydrating and not overly adding to my current combination menopausal skin."
+  },
+  {
+   "name": "Selene",
+   "date": "2026-05-07",
+   "stars": 5,
+   "title": null,
+   "body": "Love, that it has smaller economical footsteps, like the other  individual  masks. And i like the results too."
+  },
+  {
+   "name": "Kim",
+   "date": "2026-05-04",
+   "stars": 5,
+   "title": null,
+   "body": "Really good. Leaves your skin feeling very hydrated"
+  },
+  {
+   "name": "Jo D",
+   "date": "2026-05-03",
+   "stars": 5,
+   "title": null,
+   "body": "I tried these as I’ve got ageing skin and wanted something to give it a moisture boost. These are fab and much better than the glow recipe similar pads. Leave my skin bouncy and soft but not tacky. Great for makeup prep!"
+  }
+ ]
+}

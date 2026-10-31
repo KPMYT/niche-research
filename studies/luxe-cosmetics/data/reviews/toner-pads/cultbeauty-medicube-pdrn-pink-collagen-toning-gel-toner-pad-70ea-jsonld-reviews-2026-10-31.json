@@ -1,0 +1,20 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 5,
+   "reviewCount": 1
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Peta",
+   "date": "2026-09-15",
+   "stars": 5,
+   "title": null,
+   "body": "I love these toner pads, my skin feels so hydrated and plumped after using them. Nice subtle smell, love that they come with tweezers to pick them up individually and they stick so well to your face "
+  }
+ ]
+}

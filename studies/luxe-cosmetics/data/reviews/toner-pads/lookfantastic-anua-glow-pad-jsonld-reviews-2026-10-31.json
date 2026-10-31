@@ -1,0 +1,83 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 4.681818181818182,
+   "reviewCount": 44
+  }
+ ],
+ "reviews": [
+  {
+   "name": "BethanyL",
+   "date": "2026-10-26",
+   "stars": 5,
+   "title": null,
+   "body": "These have changed my skin for the better will repurchase"
+  },
+  {
+   "name": "EMMA.P",
+   "date": "2026-10-07",
+   "stars": 5,
+   "title": null,
+   "body": "These pads are very generous with thr liquid, they are not exfoliating whatsoever more of a liquid thirst quenching drink for your skin. Im.not sure if i would repurchase again fue to the shear liquid that glides onto your skin."
+  },
+  {
+   "name": "SK12x",
+   "date": "2026-07-21",
+   "stars": 5,
+   "title": null,
+   "body": "I love these glow pads! They have so much product on them compared to other toning pads I have tried. They are really refreshing & definitely do leave your face glowing. These will continue to be a repurchase for me going forward now, along with most of the Anua products I have tried."
+  },
+  {
+   "name": "Mhairi",
+   "date": "2026-07-13",
+   "stars": 5,
+   "title": null,
+   "body": "Love these pads, although the instructions for use are confusing as they say to leave on skin, but I'm assuming that's for targeted areas. I swipe the pad all over my face & my skin drinks it in"
+  },
+  {
+   "name": "Rotu",
+   "date": "2026-06-29",
+   "stars": 5,
+   "title": null,
+   "body": "The anua pdrn glow pads are lovely. I use then before applying makeup and leave on dor around 20 mins. It leaves make up application so easy. My skins looks so glowy"
+  },
+  {
+   "name": "Amelia",
+   "date": "2026-06-24",
+   "stars": 5,
+   "title": null,
+   "body": "I cannot compliment this product enough it’s incredible it’s gentle but does the job my 50 year old skin feels amazing"
+  },
+  {
+   "name": "Jane A",
+   "date": "2026-06-19",
+   "stars": 5,
+   "title": null,
+   "body": "These patch’s are great. Plenty of product so can move them to different areas after 5 minutes. Thought hydration effect would wear off within hours like many patch’s but have found regular use maintains long term hydration of fine lines."
+  },
+  {
+   "name": "N.elle",
+   "date": "2026-06-05",
+   "stars": 5,
+   "title": null,
+   "body": "Already been through three of these toner pad tubs. So hydrating makes your skin feel amazing afterwards. Will often use at night instead of a mask or to prep my skin before make up."
+  },
+  {
+   "name": "Bexo",
+   "date": "2026-06-04",
+   "stars": 2,
+   "title": null,
+   "body": "I wanted to love this but I could not use it with anything without experiencing pilling."
+  },
+  {
+   "name": "Danni",
+   "date": "2026-06-02",
+   "stars": 5,
+   "title": null,
+   "body": "I love these pads. So soft on my skin and makes my face feel fresh & cleansed"
+  }
+ ]
+}

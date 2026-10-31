@@ -1,0 +1,34 @@
+{
+ "aggregate": [
+  {
+   "@type": "AggregateRating",
+   "bestRating": 5,
+   "worstRating": 1,
+   "ratingValue": 5,
+   "reviewCount": 3
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Susie1979",
+   "date": "2026-09-12",
+   "stars": 5,
+   "title": null,
+   "body": "Nice pads, feels refreshing and lovely on my skin."
+  },
+  {
+   "name": "Jan",
+   "date": "2026-09-04",
+   "stars": 5,
+   "title": null,
+   "body": "Use this in the morning, leaves my skin feeling fresh, hydrated & helps with dark circles. Also leaves my skin feeling refreshed,"
+  },
+  {
+   "name": ":))",
+   "date": "2026-06-27",
+   "stars": 5,
+   "title": null,
+   "body": "Love these toner pads and they’re great for oily skin types"
+  }
+ ]
+}
