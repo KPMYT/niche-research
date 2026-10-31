@@ -61,7 +61,7 @@ Think of the skin on your cheek as a thick winter coat and the skin under your e
 | **Right by the lashes it is thinner still.** Eyelid skin measured 320 µm (about a third of a millimetre) near the lash edge, and 1,127 µm just under the eyebrow. | The area closest to the eye is the most delicate. That's where products get into the eye and sting. | Hwang et al. 2006, Korean cadavers, PMID 16432408 [M] |
 | **Doctors usually say "half a millimetre".** | A simple number for the camera. | Dr Michael Chua, ophthalmologist (eye doctor), nj_VYMVtKrQ: "the skin on your eyelid is about half a millimeter it's the thinnest skin in your entire body" [M] |
 | **It has fewer oil glands, and less collagen and elastin.** | It dries out faster, and its springiness wears out sooner. That's why the first lines of ageing often show here. | Dr Sam Ellis: "that skin is really thin. It has less collagen. It has less elastin. It has fewer oil glands." (XKROvYsp0QM) [M]. A 2015 eye-pad study: "The skin around the eye is an area without many oil glands and collagen in comparison to the body rest" (PMID 25625116) [M] |
-| **It moves all day.** You blink thousands of times, smile and squint. | Lines form where skin folds over and over, like a crease in a shirt you wear every day. | Dr Dray, a2Hot5ZsYU8: wrinkles come from "chronic creasing of the skin from expression throughout our lifetime coupled with age related decline in collagen" (in si9l1VZtzvQ) [M] |
+| **It moves all day.** You blink thousands of times, smile and squint. | Lines form where skin folds over and over, like a crease in a shirt you wear every day. | Dr Dray: wrinkles come from "chronic creasing of the skin from expression throughout our lifetime coupled with age related decline in collagen" (si9l1VZtzvQ) [M] |
 | **It reacts easily.** | Things that are fine on the cheeks can cause a rash on the eyelids. | Dr Sam Ellis: "your eyelids are like your first indicator that something is wrong in your skincare routine" (XKROvYsp0QM) [M] |
 | **It traps things.** | Product, makeup and allergens collect in the folds. | Dr Dray: "You have hollows around your eye that can trap things... The way the muscles of your eyes contract to blink... it ends up sucking stuff up even closer into the skin." (si9l1VZtzvQ) [M] |
 | **Its oil glands help keep tears healthy.** The glands in the eyelid rims (meibomian glands) make the oil layer of your tears. | Strong products near the eye, especially retinol, can upset those glands and make dry eye worse. | Dr Rupa Wong, ophthalmologist, N7Zl2keLo1M: "retinol actually can be really toxic to the meibomian glands and the goblet cells" [M] |
@@ -692,7 +692,7 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
   - **Allergies:** "histamine ... cause[s] your blood vessels and your tissues to swell up" (same).
   - **Lying flat**, too little sleep, **alcohol**: Dr Michael Chua.
   - **Age:** "Fluid accumulates there" as support weakens (Dr Dray).
-- **How it feels [M].** "I sleep fine, drink water, do everything right. But my eyes never got the memo. Puffy, dark, swollen every morning" (this is the brand's own featured testimonial, quoted only to show the pitch; not independent).
+- **How it feels [M].** "I have pretty puffy lower bags... Looks like I'm keeping my bags packed for the duration of my trip on earth." (@rtbrain, 267 likes, hql6k88BKP8). "I've noticed that my eye bags tend to minimize and even go away when I do a lot of cardio and sleep right." (@hartsickdisciple, 5.5K likes, hql6k88BKP8): that it comes and goes is the sign of fluid.
 - **What people try [M]:**
   - cucumbers, which only work by being cold: "it's really probably just the coolness of having a cold cucumber" (Doctor Eye Health);
   - tea bags (the caffeine helps a little);
@@ -720,7 +720,7 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 - **What people try, and why it fails [M].** Creams. Doctor Eye Health: they are "only temporary as a fix they ultimately don't solve the issue". A commenter: "You can't treat eyebags with cream and stuff, as you get older." (59 likes, iwyLM5aJ7mE). An optometrist commenter: "There are so many myths about the fluid or fatty tissue around the eye being "removable" with products." (@maryhemphill9419, 73 likes, from `05`).
 - **What can fix it [M]:**
   - **Instant tighteners**, for a few hours: a film that "tightens and basically causes the under eyes to essentially just collapse in on itself" (Doctorly). Good for "a photo shoot ... a wedding". Downsides: it can flake and cause acrylate allergy. One 67-year-old viewer uses one: "Loreal "Revitalift" eye bag instant eraser... It will stay put up to 10 hours." (@Babsrunning).
-  - **Filler** to blend the edge of the bag into the cheek (Dr Zoumalan's and Dr Karam's videos).
+  - **Filler** in the groove beneath a bag, to soften the edge. Dr Chua: if the tear trough is "more sunken in then the bulge of a fat pad may appear more prominent" (nj_VYMVtKrQ).
   - **Surgery: lower blepharoplasty.** Dr Karam does it "from the inside of the eyelid" (transconjunctival), so there is no outside scar, and "trim a little bit of that puffy fat pad away". Viewer stories: "I had a lower lid blepharoplasty done at age 66 and never regretted it... now I look like the rest of the population" (@PigeonsPie1, 164 likes, hql6k88BKP8). "I had my under eye fat removed by a plastic surgeon... Once the fat was removed, it never came back. That was 35 years ago." (@lindamarie8308, 517 likes).
   - **Cost** is a barrier: "paid $150 consult fee only for them to tell me that the total cost was around 16k" (@rtbrain, 267 likes; a viewer's quote, not a price list). Typical surgery prices: not found.
 - **This balm [R].** **None.** Calling it "Lift & Firm" doesn't change the fat.
@@ -750,7 +750,7 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
   - Menopause (5.3).
   - Rubbing: "when you rub the skin, it almost creates like a defense mechanism and it causes something called epidermal hyperplasia... the thickening of the top layer of the skin actually leads to the appearance of more lines and wrinkles" (Dr Sam Ellis).
   - Lifelong squinting: a viewer, "I've squinted my whole life so even as a 13 year old I noticed crepe skin under my eyes" (@CateHammers, QbvzKn9GG_w).
-- **How it feels [M].** "My creepy eyelids make me crazy." (@roseport20001, T-qO5qhE82s, from `05`). "If you have crepey under eyes, you know the struggle" (quoted on the brand page; origin unverified). "I get so afraid of using new products on my face but the under eye wrinkles are really upsetting and I'm so over it." (@francessimon2296, 18 likes, QbvzKn9GG_w).
+- **How it feels [M].** "My creepy eyelids make me crazy." (@roseport20001, T-qO5qhE82s, from `05`). "I get so afraid of using new products on my face but the under eye wrinkles are really upsetting and I'm so over it." (@francessimon2296, 18 likes, QbvzKn9GG_w).
 - **What people try, and why it fails [R].** Instant tighteners (gone with water or by evening). Strong retinol (stings). Heavy concealer (sinks into the crepe).
 - **What can fix it [M]:**
   - **Moisturise** (an instant, temporary smoothing).
@@ -797,14 +797,13 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 - **How it feels [M]:**
   - "Every sales rep at every major cosmetics counter just sold me a concealer and told me to put it under my eyes which, of course, emphasized the bags." (@Anne-ux3ex, age 64, 509 likes, mx6mhz5cqjU; from `05`)
   - "Concealer can make them look worse. It sits on top, settles into fine lines, and creases" (Kim Sullins's video description, eA9YIs-49sc)
-  - Brand testimonial, for the pitch only: "Put on concealer. Look in mirror. Watch it crease. Add more. Crease again."
 - **What people try, and why it fails [R].** More powder: it looks drier. "Crease-proof" concealers: everyone still creases somewhere (Lisa Eldridge).
 - **What can fix it [M]:**
   - **Hydrate first.** One viewer: "I usually swipe a bit of aquaphor lip balm under my eyes and then I use just a little Mabeline instant age rewind... the Aquaphor helps to keep the concealer from getting chalky." (@barbarascully5451, eA9YIs-49sc).
   - **Less concealer, and only where it is dark**: inner corner, the area that "doesn't move" (Wayne Goss).
   - **Wait, find your creases, and wipe them out** (Lisa Eldridge).
   - **Little powder**, or a setting spray on a brush (Kim Sullins).
-  - **A sheer brightener or tinted eye cream instead of concealer** (Kim Sullins: "Concealer covers and sits on top. A brightener is sheer and uses light, so it moves with your skin as we age").
+  - **A sheer brightener or tinted eye cream instead of concealer** (Kim Sullins, in her pinned comment on eA9YIs-49sc: "Concealer covers and sits on top. A brightener is sheer and uses light, so it moves with your skin as we age").
 - **This balm [R].** **Good**, as the smooth, moist base. This is the most honest everyday reason to use it.
 
 ### 6.12 Milia and other little bumps
@@ -1021,7 +1020,6 @@ Word for word, from YouTube comments read through NexLev on 2026-10-31 (or by th
 ### 10.3 Wishes and hopes
 
 - "I WANTED AN EASY FIX ! ! !" (56, hql6k88BKP8)
-- "Can you share brands that are safer..." (334, tiRLNc6_A0E; said of lash serums, but the same "safe for my eyes" wish runs through eye-cream comments)
 - "You should have mentioned which are best for dark circles" (41, wgWdHoI9leI)
 - "Please make a video on wrinkles around eyes and sagging eyelids." (175, iwyLM5aJ7mE)
 - "Upper eyelid crepey skin: please provide a video on this." (183, QbvzKn9GG_w)
@@ -1118,8 +1116,6 @@ Saved working copies of these transcripts are in the helper's scratchpad, `/tmp/
 - Dark-circle types and treatments:
   - Park 2016, PMID 26346687
   - Michelle 2021, PMID 32740208
-  - Woolhiser 2025, PMID 39412152
-  - Hamie 2024, PMID 38873621
   - Liew 2024, PMID 38489829
 - Tear-trough filler: Liu 2024, PMID 37684413
 - Eye-area ageing:
@@ -1158,4 +1154,4 @@ Earlier abstracts (from the first report) are saved in `data/eye-balm/science/`.
 - A medical study linking rich eye creams to milia.
 - The official MFDS anti-wrinkle ingredient list, and the year adenosine was added.
 
-Web searches used by this helper: 6, plus 3 WebFetch loads (one 404, one 403, one with no article text). NexLev and PubMed calls aren't counted.
+Web searches used by this helper: 5. WebFetch page loads: 5 (one worked; two returned 404, one 403, one with no article text). NexLev and PubMed calls aren't counted.
