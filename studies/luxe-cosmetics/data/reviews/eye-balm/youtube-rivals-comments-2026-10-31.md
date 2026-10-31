@@ -167,7 +167,7 @@ Dates = NexLev computed publishDate (approximate, from "x months ago"). Likes as
 
 ## yiu3FrWf6Zs  The MusiCal MusiGal "I Put a $15 Balm Stick On My Face and My Skin Looked 10 Years Younger" (Medicube PDRN Pink Collagen Volume Multi Balm; 7,149 views; 15 comments, 7 returned)
 - @SheIsRooted-t2e (~2026-08-31, 2): "i love it I saw results the first week"
-- @lisaouthier7859 (~2026-10-01, 1): "I just got mine today! Making healthy changes.. but really love how it makes my face glow already! ..."
+- @lisaouthier7859 (~2026-10-01, 1): "I just got mine today! Making healthy changes.. but really love how it makes my face glow already! excited to use my yuri tonight also 😊 after 1 use confidence is gonna be alright ❤"
 - @spaghettarius (~2026-10-01, 2): "Have you noticed any long-term results?"
 - @ahuda3204 (~2026-08-31, 2): "Not a miracle stick. Doesn't do anything"
 - @lubnarahman8354 (~2026-10-01, 1): "Does this good for eye pigmentation? 😢"
@@ -182,7 +182,7 @@ Dates = NexLev computed publishDate (approximate, from "x months ago"). Likes as
 - @lizzyq25 (~2026-10-01, 4): "I will try Dr. Meloxin cuz medicine pink doesn't work for me"
 - @annapelcdraper (~2026-10-01, 0): "How and when would you use these?  Should you use both?"
 - @janiceturner2849 (~2026-10-29, 0): "Very confusing it's one or the other…. What's the real deal? Please be honest. Thank you"
-- @Gina_Love444 (~2026-10-17, 1): "Hi! I just purchased this off Amazon before I seen your video so I just started using it and I was reading the box it says formulated with Volufiline and Pdrn but when I looked at the ingredients I couldn't find it! Is it under a different name? Please help 🙏 ..."
+- @Gina_Love444 (~2026-10-17, 1): "Hi! I just purchased this off Amazon before I seen your video so I just started using it and I was reading the box it says formulated with Volufiline and Pdrn but when I looked at the ingredients I couldn't find it! Is it under a different name? Please help 🙏 Somebody!!! Anybody!!! Thank you 😊 !"
 - @TherealEbby (~2026-10-18, 2): "The medicube one is it safe to use while pregnant?"
 - @TheAstridPiltz (~2026-10-01, 2, edited): "Does Medicube work for under eye aera?"
 - @JesusMendoza-r4h7v (~2026-10-18, 1): "Review kinda sus"

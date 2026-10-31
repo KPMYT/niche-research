@@ -519,19 +519,19 @@ These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buye
 
 **Luxe Korean Under Eye Balm**: Brand's own site (luxe.com and luxeresearchlab.com product pages; identical text on both; shown with 5 stars and "Verified Buyer")
 
-- **#22** ·  · not dated · 5★ (as shown) · "Anita S." · [crepey/lines]  
+- **#22** · brand page · not dated · 5★ (as shown) · "Anita S." · [crepey/lines]  
   "If you have crepey under eyes, you know the struggle. You can love yourself, and not be in love with every inch of yourSELF... know what I mean?"
-- **#23** ·  · "Purchased on Feb 11th, 2026" · 5★ (as shown) · "Margaret T., 56" · [puffiness/bags, dark circles, worked, timing, story, tried before]  
+- **#23** · brand page · "Purchased on Feb 11th, 2026" · 5★ (as shown) · "Margaret T., 56" · [puffiness/bags, dark circles, worked, timing, story, tried before]  
   "I'm 56. I sleep fine, drink water, do everything right. But my eyes never got the memo. Puffy, dark, swollen every morning. Started using this two weeks ago. Day 4 my husband asked what I was doing differently. By day 10 the puffiness was genuinely less visible. Not gone but noticeably less. First eye cream that actually did something I could see with my own eyes."
-- **#24** ·  · "Purchased on Jan 24th, 2026" · 5★ (as shown) · "Diane K., 52" · [tried before, texture, timing, crepey/lines, dark circles, worked]  
+- **#24** · brand page · "Purchased on Jan 24th, 2026" · 5★ (as shown) · "Diane K., 52" · [tried before, texture, timing, crepey/lines, dark circles, worked]  
   "La Mer. Estée Lauder. Two brands from Sephora I can't even remember. None did anything except make my under-eyes greasy. This absorbs in seconds and I could feel the difference by end of week one. My fine lines look softer. Dark circles lighter. I'm genuinely angry nobody told me about this sooner tbh."
-- **#25** ·  · "Purchased on Feb 18th, 2026" · 5★ (as shown) · "Susan L, 47" · [crepey/lines, puffiness/bags, concealer, timing, worked, story]  
+- **#25** · brand page · "Purchased on Feb 18th, 2026" · 5★ (as shown) · "Susan L, 47" · [crepey/lines, puffiness/bags, concealer, timing, worked, story]  
   "I've made peace with most of aging. But my under-eyes — the crepey texture, the bags, the way concealer just cakes into the lines — couldn't accept that part. This didn't make me look 30 again. But three weeks in my under-eyes look rested. Smoother. More alive. My daughter said I look like I came back from vacation. I didn't lol. Just found the right eye cream finally."
-- **#26** ·  · "Purchased on Jan 13th, 2026" · 5★ (as shown) · "Linda R., 51" · [concealer, timing, worked, story]  
+- **#26** · brand page · "Purchased on Jan 13th, 2026" · 5★ (as shown) · "Linda R., 51" · [concealer, timing, worked, story]  
   "Every single morning. Put on concealer. Look in mirror. Watch it crease. Add more. Crease again. A daily cycle of trying to hide something that refused to be hidden. Two weeks into using this I skipped concealer one morning just to test it. My coworker said I looked good. No concealer. First time in years honestly."
-- **#27** ·  · "Purchased on Feb 15th, 2026" · 5★ (as shown) · "Carol A, 63" · [dark circles, timing, worked, story, price]  
+- **#27** · brand page · "Purchased on Feb 15th, 2026" · 5★ (as shown) · "Carol A, 63" · [dark circles, timing, worked, story, price]  
   "Not in a dramatic way. Just learned to glance quickly, fix my hair, move on. My under-eyes were the reason. Dark circles made me look exhausted no matter how much sleep I got. Been using this 25 days now. Yesterday I caught myself actually looking. Not glancing. Looking. The dark circles are visibly lighter. That alone was worth every penny."
-- **#28** ·  · "Purchased on Dec 28th, 2025" · 5★ (as shown) · "Barbara M, 43" · [puffiness/bags, dark circles, timing, worked, story]  
+- **#28** · brand page · "Purchased on Dec 28th, 2025" · 5★ (as shown) · "Barbara M, 43" · [puffiness/bags, dark circles, timing, worked, story]  
   "I used to angle my face or insist on bad lighting because my under-eyes looked so puffy and dark in close-ups. Last Sunday my daughter grabbed my phone and took a selfie of us. I looked at it and didn't delete it. That hasn't happened in a long time. Three weeks using this. That photo is my lock screen now."
 
 ### 4.3 Rival balm sticks
@@ -935,9 +935,9 @@ These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buye
 - **#173** · @December074 · ~2025-10-31 · 8 likes · 50 · [no change, dark circles, price, tried before, concealer, story]  
   "I am 50 years old and started using eye serums and creams a few years ago. Started with Estée Lauder's eye serum because it was supposed to be the best. I've spent several hundred dollars on everything imaginable, and not one single thing has changed about my eyes. I have dark circles around and under my eyes. I have both pigmentation and collagen loss. Concealer keeps me from looking like someone from the Victorian era who's dying of the flu. ... Tretinoin does help me look more fresh. ..."
 - **#174** · @alicesmith1995 · ~2025-10-31 · 2 likes · over 40; contact allergies, eczema, rosacea · [side effects, hydration, concealer, worked]  
-  "... As someone with contact allergies, eczema, rosacea and sensitive skin, I can tell you this product is very gentle. As someone over 40, I can also tell you it is very hydrating and looks great under makeup. I've been using it since I was patch tested 9 years ago."
+  "If you haven't yet, you should try the Cleure Eye Repair Gel. As someone with contact allergies, eczema, rosacea and sensitive skin, I can tell you this product is very gentle. As someone over 40, I can also tell you it is very hydrating and looks great under makeup. I've been using it since I was patch tested 9 years ago."
 - **#175** · @champagenroses · ~2025-10-31 · 8 likes · rosacea, sensitive · [side effects, texture, worked]  
-  "I have very sensitive skin with Rosacea .  I use the Vanicream Moisturizing Lotion around my eyes - absorbs nicely and is fragrance free too.  I have some irritation under my eyebrows that my Dr said is Contact dermatitis.   I've been using the Flexitol Face & eyelid Cream - it does help with the itch and redness.  It is also fragrance free. ..."
+  "I have very sensitive skin with Rosacea .  I use the Vanicream Moisturizing Lotion around my eyes - absorbs nicely and is fragrance free too.  I have some irritation under my eyebrows that my Dr said is Contact dermatitis.   I've been using the Flexitol Face & eyelid Cream - it does help with the itch and redness.  It is also fragrance free.   Thank you Dr. Dray for sharing 🌸🌹🌼🌷"
 - **#176** · @Ανδριάνα-3ο3 · ~2025-10-31 · 10 likes · eczema · [hydration, crepey/lines, worked, how to use, texture]  
   "... One ointment is called Vitaposh and contains vitamin A and petrolatum jelly. The other one is called Vitadex and contains vitamin A and Dexpanthenol. Because they are in ointment form, I only use them night since in the morning my eyes are completely hydrated and free of irritation. Vitamin A helps a lot with the small wrinkles under my eyes! ..."
 - **#177** · @aceee4386 · ~2025-10-31 · 313 likes · oily face, dry under-eyes · [crepey/lines, hydration, worked, texture]  
