@@ -2,6 +2,8 @@
 
 Written 2026-10-31 by a research helper, following `packs/PACK-BRIEF.md`. This is the explainer half of pack 3. The reviews half is written separately (`packs/reviews/03-under-eye-balm-reviews.md`); here, real quotes appear only where they help explain a problem.
 
+A second helper checked this file the same day (`checks/packs/03-under-eye-balm-pack-check.md`). A finishing helper then made every fix that check listed (2026-10-31): the wording of six facts, the source notes, the missing word explanations, sources for the questions in section 8, the "what people tried" parts of section 6, and the removal of brand material the operator does not want.
+
 **How to read this pack**
 
 - **[M]** = measured: copied from a page, a video transcript, a comment, a study or a feed, with its source and the date it was pulled.
@@ -9,19 +11,20 @@ Written 2026-10-31 by a research helper, following `packs/PACK-BRIEF.md`. This i
 - "not found" = I looked and could not get it. No number here is guessed.
 - Everything was pulled on **2026-10-31** unless another date is given. YouTube view and like counts are as NexLev showed them that day.
 - Amazon was not loaded (it blocks automated loads from this machine). Amazon facts come second-hand from the earlier report `03-under-eye-balm.md`, which got them from search results and an Amazon affiliate's video description.
-- Doctors quoted below are speaking in their own YouTube videos. Their transcripts were pulled through NexLev on 2026-10-31. Where a quote comes from automatic captions I have fixed obvious spelling only (for example "millia" to "milia"), never the meaning.
+- Doctors quoted below are speaking in their own YouTube videos. Their transcripts were pulled through NexLev on 2026-10-31 and are saved in `data/eye-balm/pack-sources/tx/`. Where a quote comes from automatic captions I have fixed obvious spelling only (for example "millia" to "milia"), never the meaning.
+- "PMID" after a study means its number in PubMed, the US National Library of Medicine's index of medical research. Anyone can look a study up by that number at pubmed.ncbi.nlm.nih.gov.
 - Brand red flags are left out, as the operator asked. The only exceptions are one short section on what can't be said on camera and on safety (section 11).
 
 ---
 
 ## The whole pack on one page
 
-1. **Under-eye skin is the thinnest skin on the face.** In a study of 10 donated heads, the thinnest skin on the whole face was the upper inner eyelid, at about 0.76 mm of dermis (the thick middle layer). Eyelid skin near the lashes measured about 0.32 mm. [M: Chopra 2015, PMID 26508650; Hwang 2006, PMID 16432408]
-2. **"Tired eyes" is not one problem. It is up to six.** They are brown pigment, blue or purple blood vessels, shadow from a hollow, puffiness from fluid, bags from fat, and crepey, dry, lined skin. Most people over 50 have more than one. [M: Doctorly 74eZe8KsHsw; Dr Idriss c6G0kjKQNGw]
+1. **Eyelid skin is the thinnest skin on the face.** In a study of 10 donated heads, the thinnest skin on the whole face was the **upper** inner eyelid, at about 0.76 mm of dermis (the thick middle layer of skin). The under-eye area is close by and also very thin. A second study measured the whole skin of the **upper** eyelid in 10 Korean cadavers (donated bodies): about 0.32 mm near the lashes. [M: Chopra 2015, PMID 26508650; Hwang 2006, PMID 16432408]
+2. **"Tired eyes" is not one problem. It is up to six.** They are brown pigment, blue or purple blood vessels, shadow from a hollow, puffiness from fluid, bags from fat, and crepey, dry, lined skin. Most people over 50 have more than one. [M: Dr Idriss c6G0kjKQNGw lists these six. Doctorly 74eZe8KsHsw groups dark circles into three causes: shadowing, thin skin and true pigment.]
 3. **A balm works on the top layer only.** It can make dry, crepey skin smoother for some hours, help concealer sit better and, with the right ingredients, soften fine lines a little over weeks. It cannot move fat, fill a hollow, rebuild bone or hide veins. [R, from the doctors and studies in sections 1 and 6]
 4. **The Luxe balm is a twist-up stick**, like a large lip balm, sold for under the eyes. The brand names five "actives". On luxe.com they are adenosine, niacinamide, hyaluronic acid, bisabolol and vitamin E. On luxeresearchlab.com, argan oil replaces niacinamide. The pack also says "PDRN extract", and older packs said "collagen extract". **No full ingredient list and no size were found anywhere.** [M]
-5. **Its best-supported active is adenosine.** In one trial (L'Oréal, 2006), 126 women aged 45 to 65 used an adenosine cream twice a day, and the skin of their crow's feet was measurably smoother at 3 and 8 weeks. We don't know how much adenosine Luxe contains. [M: PMID 18489289]
-6. **Its real point of difference is what it leaves out.** The brand says it has no retinol, no fragrance, no alcohol and no essential oils. Its best-known rival stick (Medicube's) has retinol plus geranium, ylang-ylang, bergamot and rose oils. Those are the kinds of ingredients that often sting thin, older eyelids. [M: Luxe pages; medicube.us INCI]
+5. **Its best-supported active is adenosine.** In one trial (L'Oréal, 2006), 126 women aged 45 to 65 each put two of three products (an adenosine cream, an adenosine film or a dummy cream) twice a day, one on each side of the face. On the adenosine sides, the skin around the eyes was measurably smoother at 3 and 8 weeks. We don't know how much adenosine Luxe contains. [M: PMID 18489289]
+6. **Its real point of difference is what it leaves out.** The brand says it has no retinol, no fragrance, no alcohol and no essential oils. Its best-known rival stick (Medicube's) has retinol plus geranium, ylang-ylang, bergamot and rose oils. Those are the kinds of ingredients that often sting thin, older eyelids. [M: Luxe pages; medicube.us INCI list, that is, the full ingredient list in standard names]
 7. **How to use it:** on clean, dry skin, a light swipe along the bone below the eye, never on the rim of the eye. Then tap it in with the ring finger. Then sunscreen, then concealer. Use it morning and night. [R, built on Renée Rouleau PC3NL1HOdBU, Dr Sam Ellis XKROvYsp0QM and the brand's directions]
 8. **What you'll see and when:** smoother, less dry skin within minutes, which fades within hours. Possibly softer fine lines after 3 to 8 weeks. No change ever to bags, hollows or blue circles. [R, from the studies in section 3]
 
@@ -51,15 +54,15 @@ An under-eye product is a cream, gel, serum, patch or balm that is made to be ge
 
 Dr Dray: "there are eye creams out there formulated with ingredients that might improve those concerns." [M, si9l1VZtzvQ]
 
-### 1.2 Why under-eye skin is different (the thinnest skin on the body)
+### 1.2 Why under-eye skin is different (the thinnest skin on the face)
 
 Think of the skin on your cheek as a thick winter coat and the skin under your eye as a silk scarf. The scarf is thin, light and moves a lot. You can see what's underneath it, and it creases easily. [R]
 
 | Fact | What it means | Source |
 |---|---|---|
-| **It is the thinnest skin on the face.** In 10 donated heads, the thinnest dermis (the thick middle layer of skin, where collagen lives) was on the upper inner eyelid, at 758.9 micrometres. That is about 0.76 mm, roughly the thickness of 7 sheets of printer paper. The thickest, on the lower side of the nose, was 1,969 µm, about 2.6 times thicker. | Under the eye you have far less "padding" between the air and the blood vessels, muscle and fat underneath. | Chopra et al. 2015, Aesthet Surg J, PMID 26508650 [M] |
-| **Right by the lashes it is thinner still.** Eyelid skin measured 320 µm (about a third of a millimetre) near the lash edge, and 1,127 µm just under the eyebrow. | The area closest to the eye is the most delicate. That's where products get into the eye and sting. | Hwang et al. 2006, Korean cadavers, PMID 16432408 [M] |
-| **Doctors usually say "half a millimetre".** | A simple number for the camera. | Dr Michael Chua, ophthalmologist (eye doctor), nj_VYMVtKrQ: "the skin on your eyelid is about half a millimeter it's the thinnest skin in your entire body" [M] |
+| **Eyelid skin is the thinnest skin on the face.** In 10 donated heads, the thinnest dermis (the thick middle layer of skin, where collagen lives) was on the **upper** inner eyelid, at 758.9 micrometres (µm; a micrometre is a thousandth of a millimetre). That is about 0.76 mm, roughly the thickness of 7 sheets of printer paper. The thickest, on the lower side of the nose, was 1,969 µm, about 2.6 times thicker. The study's own words: "eyelid skin is the thinnest in the face". | Around the eye you have far less "padding" between the air and the blood vessels, muscle and fat underneath. | Chopra et al. 2015, Aesthet Surg J, PMID 26508650 [M] |
+| **Near the lashes it is very thin indeed.** A different study measured the **whole** skin (all layers) of the **upper** eyelid in 10 Korean cadavers (9 men, 1 woman): 320 µm (about a third of a millimetre) near the lash edge, and 1,127 µm just under the eyebrow. These are whole-skin figures, while Chopra's 759 µm is the dermis alone, so the two numbers can't be compared directly. | The skin closest to the eye is the most delicate. That's where products get into the eye and sting. | Hwang et al. 2006, PMID 16432408 [M] |
+| **Doctors usually say "half a millimetre".** | A simple number for the camera. Calling it the thinnest on the whole body is the doctor's own words; the measured study covered the face only. | Dr Michael Chua, ophthalmologist (eye doctor), nj_VYMVtKrQ: "the skin on your eyelid is about half a millimeter it's the thinnest skin in your entire body" [M] |
 | **It has fewer oil glands, and less collagen and elastin.** | It dries out faster, and its springiness wears out sooner. That's why the first lines of ageing often show here. | Dr Sam Ellis: "that skin is really thin. It has less collagen. It has less elastin. It has fewer oil glands." (XKROvYsp0QM) [M]. A 2015 eye-pad study: "The skin around the eye is an area without many oil glands and collagen in comparison to the body rest" (PMID 25625116) [M] |
 | **It moves all day.** You blink thousands of times, smile and squint. | Lines form where skin folds over and over, like a crease in a shirt you wear every day. | Dr Dray: wrinkles come from "chronic creasing of the skin from expression throughout our lifetime coupled with age related decline in collagen" (si9l1VZtzvQ) [M] |
 | **It reacts easily.** | Things that are fine on the cheeks can cause a rash on the eyelids. | Dr Sam Ellis: "your eyelids are like your first indicator that something is wrong in your skincare routine" (XKROvYsp0QM) [M] |
@@ -91,7 +94,7 @@ Every under-eye product does one or more of four jobs. [R]
 | Kind | What it does | Kitchen comparison | Examples |
 |---|---|---|---|
 | **Humectant** | Pulls water into the top layer of skin and holds it there. | A sponge. | Hyaluronic acid (sodium hyaluronate), glycerin |
-| **Emollient** | Fills the tiny gaps between dry skin flakes so the surface feels soft and smooth. | Butter smoothed into a cracked cake. | Plant oils (argan), esters, squalane |
+| **Emollient** | Fills the tiny gaps between dry skin flakes so the surface feels soft and smooth. | Butter smoothed into a cracked cake. | Plant oils (argan), esters (lab-made oils, light and silky), squalane |
 | **Occlusive** | Lies on top like a thin film and stops water escaping. | A lid on a saucepan, or cling film. | Waxes, petrolatum (Vaseline), shea |
 
 A balm stick is mostly emollient and occlusive (oils and waxes), so it is very good at the "lid" job. [R; see 1.5 for what rival sticks are made of]
@@ -104,7 +107,7 @@ Why moisture alone makes lines look smaller: when the top layer of skin is full 
 
 **Job 4: cool and de-puff.** Cold makes blood vessels narrow, so less fluid leaks out and swelling goes down for a while. A cold stick or metal tip helps a little. Dr Dray: "Simply cool temperatures... can help vasoconstrict and push that fluid back." [M, si9l1VZtzvQ]
 
-**What no cream can do: reach the deep layers.** The skin's outer layer is a strong barrier. A well-known rule says a molecule must weigh less than about 500 daltons (a unit for the weight of molecules) to get through. "Larger molecules cannot pass the corneal layer." [M: Bos & Meinardi 2000, PMID 10839713] Collagen and DNA fragments are far bigger than that. And even small molecules don't travel down to the fat pads or the bone. That is why every doctor in section 6 says creams can't fix fat bags or hollows. [R]
+**What no cream can do: reach the deep layers.** The skin's outer layer (the "corneal layer", the dead top cells) is a strong barrier. A well-known rule says a molecule must weigh less than about 500 daltons (a unit for the weight of molecules) to get through. "Larger molecules cannot pass the corneal layer." [M: Bos & Meinardi 2000, PMID 10839713] Collagen and DNA fragments are far bigger than that. And even small molecules don't travel down to the fat pads or the bone. That is why every doctor in section 6 says creams can't fix fat bags or hollows. [R]
 
 ### 1.5 What a "multi-balm stick" is, and the Korean stick trend
 
@@ -116,12 +119,12 @@ Why moisture alone makes lines look smaller: when the top layer of skin is full 
 - **In plain words [R]:** the first ingredients, which make up most of the stick, are **oils and waxes**. Water comes late in the list. The "star" ingredients (adenosine, collagen, PDRN) come far down the list, so they are present in small amounts. A Luxe buyer described hers as "a more solid version of vaseline" (@debbiecook3203, video hVadCZUeLzg; from the review helper's pull) [M]. That fits a wax-and-oil base.
 
 **Why sticks became popular [M unless marked]:**
-1. **The Korean "pink stick".** Kahi Wrinkle Bounce Multi Balm took off in Korea around 2021 to 2022 through product placement in K-dramas (Korean TV dramas). Cassandra Bankson, medical esthetician: "that pink stick that you see everywhere ... took off back in 2022" (LmP5MWmL8cs, 111,788 views). Her claim that searches went "from a hundred thousand to 12 million" has no source given.
-2. **"Functional cosmetics" in Korea.** Korea's food and drug regulator (the MFDS) lets products with approved ingredients make official anti-wrinkle claims. Adenosine is one of those ingredients, reportedly at 0.04% (secondary sources only: dermfnd.org, mirai-skin.com, buybeautykorea.com, via WebSearch). The same secondary sources also list retinol, retinyl palmitate and polyethoxylated retinamide as approved anti-wrinkle ingredients. So "adenosine is the only one" (a Luxe claim) looks wrong [R]. The official MFDS list was not pulled.
-3. **The 2025–2026 TikTok Shop and Amazon wave.** Dr.Melaxin's calcium stick is labelled "[TikTok Bestseller]" on its own shop. Medicube's PDRN pink stick was added to its US shop in July 2026. Dozens of unbranded "Wrinkle Core Stick" copies sell on eBay and Walmart (earlier report, §7.2).
+1. **The Korean "pink stick".** Kahi Wrinkle Bounce Multi Balm took off in Korea around 2021 to 2022 through product placement in K-dramas (Korean TV dramas). Cassandra Bankson, medical esthetician (a skin-care specialist trained to work alongside doctors, not a doctor): "that pink stick that you see everywhere ... took off back in 2022" (LmP5MWmL8cs, 111,788 views). She says its "sales literally went from about a hundred thousand" to "12 million" (the captions write "bombs", probably "balms"). She gives no source for those figures.
+2. **"Functional cosmetics" in Korea.** Korea's food and drug regulator (the MFDS) lets products with approved ingredients make official anti-wrinkle claims. Adenosine is one of those ingredients, reportedly at 0.04% (secondary sources only: dermfnd.org, mirai-skin.com, buybeautykorea.com, via WebSearch). The same secondary sources also list retinol, retinyl palmitate and polyethoxylated retinamide (two other lab-made forms of vitamin A) as approved anti-wrinkle ingredients. So "adenosine is the only one" (a Luxe claim) looks wrong [R]. The official MFDS list was not pulled.
+3. **The 2025–2026 TikTok Shop and Amazon wave.** Dr.Melaxin's calcium stick is labelled "[TikTok Bestseller]" on its own shop. Medicube's PDRN pink stick was added to its US shop in July 2026.
 4. **Ads that promise too much.** The stick wave came with "Botox in a stick" and "filler alternative" ads. They drew a backlash, like James Welsh's "THE BIGGEST SKINCARE SCAM ON TIKTOK?! Who Are Dr Melaxin?" (TybFB4gyKcg, 403,792 views).
-5. **The PDRN fashion.** PDRN (salmon DNA) is the 2026 ingredient of the moment. The earlier pads report found PDRN searches up 609.8% year on year (Spate, via `02-pdrn-toner-pads.md`). Luxe's newer pack says "PDRN extract".
-6. **Luxe's timing.** The Luxe stick appeared in March to April 2026. Its first images went onto the shop on 16 March 2026, and the first independent blog review is dated 8 April 2026 (earlier report §1.2). It is a late entry in the stick wave. [R]
+5. **The PDRN fashion.** PDRN (salmon DNA) is the 2026 ingredient of the moment. The earlier pads report found PDRN searches up 609.8% year on year (Spate, a company that tracks beauty search trends, via `02-pdrn-toner-pads.md`). Luxe's newer pack says "PDRN extract".
+6. **Luxe's timing.** The stick was first published on the luxeresearchlab.com shop on 2 March 2026 (that listing was created on 3 December 2025); a second listing was created on 15 March 2026 [M: shop product data, `data/reviews/eye-balm/luxeresearchlab-products-2026-10-31.json`]. The first independent blog review is dated 8 April 2026 (earlier report §1.2). It is a late entry in the stick wave. [R]
 
 **Why people like sticks [R, with quotes where marked]:**
 - **No fingers in a jar.** You hold the tube.
@@ -145,7 +148,7 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 | **Eye gel** | Water-based jelly, often with caffeine | Cool, light, sticky until dry | Puffiness, oily skin, under makeup | not priced in this pull |
 | **Eye serum** | Thin liquid, often with a dropper or roller | Light | Actives in a light texture | Beauty of Joseon Revive Eye Serum (retinal) $17 / 30 mL (beautyofjoseon.com) |
 | **Caffeine solution** | A thin serum with caffeine | Watery | Morning puffiness | The Ordinary Caffeine Solution 5% + EGCG, about $9–11 / 30 mL (snippets) |
-| **Balm stick (multi-balm)** | Wax and oil stick, twist-up | Like lip balm | Dry, crepey skin; on-the-go | Medicube $22 / 10 g; Dr.Melaxin $19 / 9 g; d'Alba $21 / 10 g; Kahi $21–24 / 9 g; Luxe $34.99–39.95, size not found |
+| **Balm stick (multi-balm)** | Wax and oil stick, twist-up | Like lip balm | Dry, crepey skin; on-the-go | Medicube $22 / 10 g; Dr.Melaxin $19 / 9 g; d'Alba $21 / 10 g; Kahi $24.99 / 9 g (vitacost.com, pulled 2026-10-31); Luxe $34.99–39.95, size not found |
 | **Eye patches** | Gel or hydrogel half-moons you leave on 10–20 minutes | Cold, wet | A quick de-puff and plump before an event | not priced in this pull |
 | **Instant tightener** | A cream that dries into a tight film | Tight, can flake | A few hours of smoother bags for a photo or wedding | Peter Thomas Roth Instant FIRMx Eye $39 / 30 mL |
 | **Retinoid eye cream** | A cream with retinol or retinal | Cream; can sting | Lines and crepiness over months | RoC Retinol Correxion eye $21.99 / 15 mL; Olay Retinol 24 eye $22 / 15 mL (Walmart) |
@@ -237,14 +240,14 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 | Name on Amazon | "Luxe Cosmetics Luxe Korean Under Eye Balm – Lift & Firm 3-in-1 Multi Balm Stick, Hydrating, Smoothing, and Refreshing Eye Care for Dark Circles, Puffiness, and Fine Lines, with PDRN Collagen Extract" | Amazon affiliate's video description (7actG6FajQw, 2026-10-17), via the earlier report [M] |
 | ASIN | B0GYK3T766 | earlier report [M] |
 | Form | A twist-up stick in a round tube. The current pack is lavender and printed "Luxe Korean under-eye balm" and "PDRN extract". Older images show a blue-grey pack: "Lift & Firm Multi Balm / WRINKLE CORE STICK / COLLAGEN EXTRACT / ELASTICITY". | product images, `data/eye-balm/images/` [M] |
-| Price on luxe.com | $39.95, "BUY 1, GET 1 FREE" banner | luxe.com product JSON and page [M] |
+| Price on luxe.com | $39.95, "BUY 1, GET 1 FREE" banner (BOGO: buy one, get one free) | luxe.com product JSON and page [M] |
 | Price on luxeresearchlab.com | $34.99 (marked down from $39.95), "BUY 2, GET 1 FREE"; a second listing at $34.95 | luxeresearchlab.com products.json [M] |
 | Price on Amazon | not found (Amazon not loaded) | — |
-| Size (grams or ounces) | **not found**. The shop records give weight 0. Look-alike Amazon listings say 0.38 oz (about 10.8 g). One buyer: "it doesn't even say how much of the product is in the tube" (@debbiecook3203, hVadCZUeLzg) | shop JSON; earlier report; review helper's pull [M] |
+| Size (grams or ounces) | **not found**. The shop records give weight 0. Look-alike Amazon listings say 0.38 oz (about 10.8 g). | shop JSON; earlier report [M] |
 | Price per gram | **not computable** without a size. For comparison, the Korean rival sticks cost about $2.10–2.68 a gram. | earlier report §5 [M] |
 | How long one lasts | Three different answers from the brand: "About 60-75 days with twice-daily use" (luxe.com); "Approximately 30-45 days with twice-daily use" (luxeresearchlab.com); "One tube lasts about 2–3 months" (Amazon bullet, via an affiliate). | brand pages; earlier report [M] |
 | Monthly cost the brand claims | "Cost per month $15" (luxe.com comparison chart) | luxe.com [M] |
-| Where it is made | not found. The page says "Born in Korean Labs" but names no maker. | earlier report [M] |
+| Where it is made | not stated | earlier report [M] |
 
 [R] **For a buyer:** at about $35–40 a stick, with BOGO roughly $17–20 each, and lasting somewhere between 1 and 3 months, the cost works out at roughly $6–40 a month. The spread is wide because the brand's own figures disagree.
 
@@ -257,7 +260,6 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 | **Feel, as the Amazon listing describes it** | "The lightweight balm absorbs quickly without feeling greasy." | search snippet of an Amazon listing, earlier report's notes [M] |
 | **Feel, as buyers describe it** | "It feels like chapstick!" (@helenpapanagnostou8069); "a more solid version of vaseline... it definitely is hydrating" (@debbiecook3203); "It seems like it is vaseline" (@LoriJones-o9x); "the product is a glorified Vaseline" (@YulieJ2012, eA_1gxIFJXk) | YouTube comments, hVadCZUeLzg and eA_1gxIFJXk [M] |
 | **Smell** | The brand says "No fragrance... No essential oils". What it actually smells like: not found. Unscented wax-and-oil balms usually smell faintly waxy or of nothing. [R] | luxe.com [M] |
-| **Packaging detail** | One buyer says the back of her stick was "totally blank": no ingredients, no origin, no size. | @debbiecook3203 [M] |
 
 [R] **What to expect in the hand.** Going by buyers' words and the way rival sticks are built, expect a firm, waxy-smooth balm like a soft lip balm. It glides when warm and leaves a slight soft sheen that settles after a minute or two. "Absorbs in 8 seconds" is a sales line. Wax-based balms stay on the surface, which is what they are meant to do.
 
@@ -277,8 +279,8 @@ So the named ingredients across all sources are: **adenosine, niacinamide, hyalu
 
 - **What it is.** A small natural molecule found in all living cells. It is part of ATP, the cell's "battery". In skincare it is usually made in a lab. [R]
 - **What it does on skin.** It is used as an anti-wrinkle ingredient. Lab work suggests it nudges skin cells (fibroblasts, the cells that make collagen) to be more active. That lab work was not pulled here, so I mark it [R]. What *was* pulled is a human trial. [M]
-- **The evidence [M].** A blind, randomised trial with a dummy cream for comparison:
-  - who and what: 126 women aged 45 to 65 put an adenosine cream (or an adenosine film) on one side of the eye area and a dummy on the other, twice a day for 2 months;
+- **The evidence [M].** A blind, randomised trial (people were put into groups by chance, and they didn't know which product was which), with a dummy cream for comparison:
+  - who and what: 126 women aged 45 to 65. Each woman used two of three products (an adenosine cream, an adenosine film or a dummy cream), one on each side of the face, twice a day for 2 months. So 84 women tried each product, and some women had no dummy side;
   - result: "Both adenosine-containing products led to significant improvements in skin smoothness in the periorbital area. Improvements were evidenced after 3 weeks";
   - the cream also softened frown lines between the brows;
   - funding: L'Oréal ran it.
@@ -305,15 +307,15 @@ So the named ingredients across all sources are: **adenosine, niacinamide, hyalu
 - **What it does.** It is a humectant (sponge). It pulls water into the top layer and plumps it, so fine dry lines look softer at once. [R]
 - **The evidence [M].** 76 women aged 30 to 60 put 0.1% HA cream around one eye and a dummy around the other, twice a day for 60 days:
   - every HA cream "demonstrated a significant improvement in skin hydration and overall elasticity";
-  - only the small-molecule versions (50 and 130 kDa) also made wrinkles measurably shallower.
+  - only the small-molecule versions (50 and 130 kDa; kDa, kilodaltons, is a unit for the weight of large molecules) also made wrinkles measurably shallower.
   - Source: Pavicic 2011, J Drugs Dermatol, PMID 22052267.
 - **A sticking point [R].** HA dissolves in water, and a balm is mostly oil and wax, so it is usually present only in small amounts in a stick. Its type and size in Luxe: not found.
-- **Not the same as filler.** HA filler is the same molecule, cross-linked into a gel and injected by a doctor. Rubbing HA on the skin is nothing like filler. Dr Karam explains that natural HA "breaks down in about 24 hours" in the body, which is why fillers are cross-linked (Z1P5oKFQokw) [M].
+- **Not the same as filler.** HA filler is the same molecule, cross-linked (chemically tied together, like knitting loose threads into a net) into a gel and injected by a doctor. Rubbing HA on the skin is nothing like filler. Dr Karam explains that natural HA "breaks down in about 24 hours" in the body, which is why fillers are cross-linked (Z1P5oKFQokw) [M].
 - **Side effects.** Rarely irritating. One commenter says she is allergic: "For those of us with allergies to vitamin c and hyaluronic acid can't use any of the products you mentioned" (@JKayShill, 11 likes, eA9YIs-49sc) [M].
 
 #### Bisabolol (named on both shops)
 
-- **What it is.** A soothing oil-like compound first found in **German chamomile** flowers. It is now often made in a lab or taken from the candeia tree. The US Library of Medicine's chamomile entry lists bisabolol as one of chamomile's ingredients (LactMed, PMID 30000867) [M]. The candeia-tree source is my background knowledge [R].
+- **What it is.** A soothing oil-like compound first found in **German chamomile** flowers. It is now often made in a lab or taken from the candeia tree. The US Library of Medicine's chamomile entry lists bisabolol as one of chamomile's ingredients (LactMed, the library's database on medicines and herbs during breastfeeding; PMID 30000867, saved in `data/eye-balm/pack-sources/pm/abs3.txt`) [M]. The candeia-tree source is my background knowledge [R].
 - **What it does.** It is used to calm redness and irritation, and helps other ingredients feel gentler. [R] Medicube's and Dr.Melaxin's sticks both contain it too [M: their INCI lists].
 - **Evidence.** No trial specific to the eye area was pulled. Treat it as a "helper", not a fix. [R]
 - **Side effects.** Chamomile extract can cause allergy in sensitive people: "Topical chamomile is a known sensitizing agent" (LactMed). Pure bisabolol is generally considered low-risk. [M for chamomile; R for bisabolol]
@@ -360,7 +362,7 @@ These are what really give the "feels like chapstick / Vaseline" result buyers d
 
 | Claim (brand) | What it means | Why it matters around the eyes |
 |---|---|---|
-| "No retinol" | No vitamin A. | Retinol is the best-proven anti-wrinkle cream, but near the eyes it often stings, dries and can upset the tear-oil glands. A 2026 review of 89 studies (10,794 people) found topical vitamin A near the eyes raised the odds of pain (6.37×), dryness (2.69×) and burning (2.44×). Prescription strength carried most of the risk. "non-prescription formulations were not significantly associated with increased harms" (PMID 42708560) [M] |
+| "No retinol" | No vitamin A. | Retinol is the best-proven anti-wrinkle cream, but near the eyes it often stings, dries and can upset the tear-oil glands. A 2026 review that pooled (added together) 89 studies of 10,794 people found topical vitamin A near the eyes raised the odds of pain (6.37×, meaning pain was about six times as likely), dryness (2.69×) and burning (2.44×). Prescription strength carried most of the risk. "non-prescription formulations were not significantly associated with increased harms" (PMID 42708560) [M] |
 | "No fragrance" | No added perfume. | Fragrance is among the most common causes of eyelid allergy. The American Academy of Ophthalmology's 2025 review of patch tests lists "fragrance mixes", balsam of Peru and cinnamic alcohol among allergens with at least 10% positive results in eyelid dermatitis (PMID 40119863) [M] |
 | "No essential oils" | No plant perfume oils (lavender, rose, bergamot and so on). | These are fragrance by another name. Medicube's stick contains geranium, ylang-ylang, bergamot and rose oils (medicube.us INCI) [M] |
 | "No alcohol" | No drying alcohol (ethanol). | Drying alcohol can sting thin skin. ("Fatty alcohols" like cetyl alcohol are different and harmless; the brand doesn't say which it means.) [R] |
@@ -368,7 +370,7 @@ These are what really give the "feels like chapstick / Vaseline" result buyers d
 
 ### 2.4 The claims it makes, word for word
 
-All are from luxe.com and luxeresearchlab.com unless marked. The plain meaning and my reading are in the right column.
+All are from luxe.com and luxeresearchlab.com unless marked. The right column gives the plain meaning and, briefly, whether it has been measured for this product.
 
 | Claim [M] | What it means in plain words, and how it stands [R] |
 |---|---|
@@ -378,13 +380,13 @@ All are from luxe.com and luxeresearchlab.com unless marked. The plain meaning a
 | "Calms, never stings · No retinol. No burn" | Plausible for a fragrance-free, retinol-free balm. No one can promise "never". |
 | "One balm, whole routine · Five actives, one swipe" | Convenience. It does not replace sunscreen. |
 | "Built around adenosine, the anti-wrinkle active Korea's MFDS approved back in 2014." | Adenosine is on Korea's anti-wrinkle list (secondary sources). The year was not confirmed: one source says 2003. |
-| "the only anti-wrinkle active officially recognized by the Korean MFDS" | Likely untrue: secondary sources list retinoids too. |
+| "the only anti-wrinkle active officially recognized by the Korean MFDS" | Secondary sources list vitamin A forms on the same list too. |
 | "It triggers collagen synthesis" | A drug-type claim (section 11). Not measured for this product. |
 | "Most women notice a visible difference within 7-10 days... Puffiness and dark circles typically improve first, followed by smoother texture and reduced fine lines over 3-4 weeks." / "The full collagen response peaks around day 28." | The timeline is not backed by any study we could see. Puffiness and dark circles usually don't respond to a balm (section 6). |
-| "Absorbs in about 8 seconds. Works for 12+ hours." | Not measured. Wax balms sit on the surface. |
-| "Tested on women 40-65, not 'all ages'." / "dermatologist-tested" | No test report was found. |
-| "96% saw visibly smoother under-eyes within the first week..." (from "a 2,431-customer satisfaction survey, Q1 2026") | A customer survey, not a clinical trial. |
-| Image: "Reduced the total wrinkle area around the eyes by 44.9%"; "Improved skin smoothness by up to 20.7%" | No study details given (who, how many, how long, compared with what). |
+| "Absorbs in about 8 seconds. Works for 12+ hours." | Not measured for this product. Wax balms sit on the surface. |
+| "Tested on women 40-65, not 'all ages'." / "dermatologist-tested" | Not measured for this product in any report we could see. |
+| "96% saw visibly smoother under-eyes within the first week..." (from "a 2,431-customer satisfaction survey, Q1 2026") | What customers said in a survey. Not a measurement of the skin. |
+| Image: "Reduced the total wrinkle area around the eyes by 44.9%"; "Improved skin smoothness by up to 20.7%" | Not measured for this product in any study we could see. |
 | Comparison chart: Luxe ticked for "Fixes collagen loss", "Fixes pigment pooling", "Fixes barrier collapse" | Drug-type claims. A balm can support the barrier; "fixes collagen loss" is not supported. |
 | "Lift & Firm" (Amazon title); "Clinically Tested to Lift What Time Pulls Down" (image) | No cream lifts tissue (section 6.6). |
 | "Use Luxe in the morning, your other actives at night." / "Apply it after cleansing and before moisturizer or makeup. It doesn't conflict with retinol, vitamin C serums, or SPF." | Sensible routine advice. |

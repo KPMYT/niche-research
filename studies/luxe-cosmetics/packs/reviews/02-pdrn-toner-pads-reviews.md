@@ -22,7 +22,7 @@ Pulled 2026-10-31 by a review-collecting helper, following `packs/PACK-BRIEF.md`
 4. **Most people use them as a mini face mask, not a wipe.** 19 Anua reviews describe leaving a pad on the cheeks or forehead for 5 to 20 minutes. Some cut pads in half, keep them in the fridge, or put them on the neck and the backs of the hands. 12 say it makes makeup go on smoother.
 5. **The main complaints are about wetness and the jar.** The pads can feel too wet, sticky or "goopy"; a few say the product "pills" (rolls into crumbs under makeup or cream); the jar leaks when you open it or tip it; the jar is big; and the instructions (two-sided pad, leave on or wipe?) confuse people. [R]
 6. **Several say the glow does not last, or the PDRN is only a marketing word.** An over-40 reviewer: "the glow fades after a few hours. So, my verdict is save your money". Ingredient-reading YouTubers say the PDRN amount is tiny and the real work is done by the other ingredients (niacinamide, peptides, hyaluronic acid, glycerin). PDRN commenters in general are split: some swear by it, the most-liked ones say there is no proof it does much on the skin's surface. [R]
-7. **Bad reactions are rare but real.** Across the 267 independent reviews of the first pull, 11 report a reaction; the 52 added later report none. For the Anua pad: skin peeling, a rash with burning eyes, and an itchy hive-like rash that came back each time. One of the 11 (C-054) is about a PDRN **injection** (swelling), not a skincare product, so 10 are about products put on the skin. [R: sorted by reading each review, not by a machine count]
+7. **Bad reactions are rare but real.** Across the 267 independent reviews of the first pull, 11 report a reaction. The 52 added later report no reaction to a skincare product (one, C-097, describes swelling after PDRN injections). For the Anua pad: skin peeling, a rash with burning eyes, and an itchy hive-like rash that came back each time. One of the 11 (C-054) is about a PDRN **injection** (swelling), not a skincare product, so 10 are about products put on the skin. [R: sorted by reading each review, not by a machine count]
 8. **Long-term results are reported by a few people, and they are about feel and fine lines, not dark spots.** For example "regular use maintains long term hydration of fine lines", "my fine lines less visible", and a nose scar "greatly reduced" in 2 to 3 weeks. None of the 73 Anua reviews mentions dark spots or pigment. The big promises on the Luxe page (dark spots fading, firmer neck) were not found in any independent Anua review. [R]
 9. **Few reviewers say their age, but the over-40s who do are mostly positive and calm.** 13 independent reviews give an age of 40+ or say "mature"/"ageing" skin. Two were added in the second pull: a creator turning 60 with "very sensitive skin" who leaves Medicube's PDRN pads on "until they barely feel moist anymore" (R-133), and a 62-year-old man with "dryish and thin mature skin" (C-109). A 50-year-old: "my 50 year old skin feels amazing". A reviewer aged 51-55 with dry, sensitive skin: "super saturated with quality skin care ingredients that cool the skin". Two over-50 YouTubers testing other pads: results are "not overly dramatic, but noticeable" and "subtle can be exactly what 50 plus skin needs". On Glow Recipe's PDRN pads, 34 of the 113 reviewers who gave an age range were 45 or older (20 aged 45-54, 6 aged 55-64, 8 aged 65+) [M, glowrecipe.com Okendo data].
 10. **Toner pads as a whole get a recurring "waste" complaint.** A dermatologist Short with 3.6 million views says toner pads are bad for the environment, and several commenters repeat it. Some people simply prefer a liquid toner or a sheet mask. [M]
@@ -171,12 +171,15 @@ One review can touch several themes, so the columns add up to more than the numb
 | Décolleté | The neck and upper chest. |
 | Holy grail / "Holigrail" | Reviewers' slang for "my favourite; I can't do without it". |
 | Hwahae | A Korean app that rates products and their ingredients. |
-| Comedogenic | Likely to block pores and cause spots (C-101). |
+| Comedogenic | Likely to block pores and cause spots. C-101 names isopropyl myristate, an oily ingredient, as an example. |
+| Humectant | A water-grabbing ingredient, like glycerin or hyaluronic acid (C-106). |
+| Occlusive | A sealing ingredient that sits on top of the skin, like petroleum jelly; it can feel heavy (C-109). |
+| SPF / sunscreen | Sun protection. Needed the morning after using retinol (R-136). |
+| Macrophages | Clean-up cells in the body that break down debris (C-066). |
 | Botox / lip filler | Clinic injections: Botox relaxes muscles to soften lines; filler is a gel that plumps the lips. |
-| Red light therapy | A mask or lamp that shines red light on the face, sold for skin care (C-109's routine, R-133's routine). |
-| Skin booster / Rejuran | An injection meant to improve skin quality. Rejuran is the best-known salmon-DNA injection brand. |
+| Skin booster / Rejuran / PN | An injection meant to improve skin quality. Rejuran is the best-known salmon-DNA injection brand; it uses PN (polynucleotide), a longer form of the same salmon DNA. |
 | Microneedling / laser | Clinic treatments: tiny needles, or a beam of light, make controlled small injuries so skin repairs itself. |
-| Dalton (Da) | A unit for how big a molecule is. "243 Da collagen" is a brand claim about a small piece of collagen (R-134, R-135). |
+| Dalton (Da) / kDa | A unit for how big a molecule is; 1 kDa = 1,000 Da. Skin lets through only small molecules, roughly under 500 Da. "243 Da collagen" is a brand claim about a small piece of collagen (R-134, R-135). |
 | Booster Pro | A Medicube beauty gadget that is pressed over the skin (C-107). |
 | Incentivised review | A review written by someone who got the product free or got something in return. Marked as such where the store says so. |
 
@@ -1252,6 +1255,18 @@ Also about: texture. Source: https://www.youtube.com/watch?v=YZZ5zK76BrE
 
 Mentions of price, value, buying again, or the jar lasting a long time. [R]
 
+**What the pads cost (measured 2026-10-31) [M]**
+
+| Product | Price | Pads | Per pad | Where |
+|---|---|---|---|---|
+| Anua PDRN 100 Hyaluronic Acid Glow Pad | $23.00 | 60 | about $0.38 | anua.us product data |
+| Anua PDRN 100 Hyaluronic Acid Glow Pad | $22.00 | 60 | about $0.37 | Ulta and Vitacost product pages |
+| Luxe PDRN Toner Pads (same ingredient list) | $59.95 | 140 | about $0.43 | luxeresearchlab.com product data |
+| Biodance Bio-Collagen Gel Toner Pads | "$26" on Biodance's site; she paid "20 bucks" | 60 | not worked out | what creators say in R-134 and R-135 (not measured by me) |
+| Mediheal collagen pad with retinol | "about $24" | 100 | not worked out | what the creator says in R-136 (not measured by me) |
+
+The reviews printed in full below are the ones whose main point is price or value. 36 more reviews also touch price or value; they are printed in full in other sections and their price words are quoted in the table after these.
+
 **A-002** · *Anua PDRN 100 Hyaluronic Acid Glow Pad* · anua.us (Anua's own US store, Okendo widget) · 2026-03-03 · 5 stars; 0 helpful · beth
 > 5 Stars. Love this product. Everyone comments on my glowy skin and inhave never had great skin before. Price is amazing for the product.
 Source: https://anua.us/products/pdrn-100-hyaluronic-acid-glow-pad
@@ -1315,6 +1330,49 @@ Also about: problem, texture. Source: https://www.youtube.com/watch?v=wfZpcHv8Mo
 **C-110** · *Toner pads in general (comment under a Short about an Anua PDRN routine; the product is not named)* · YouTube comment, video 9eTanSpOMcc ("I Tested PDRN (Salmon DNA) Skincare for Anti-Aging! ANUA Routine for Sensitive Skin | K-Beauty") · ~9 months ago · not shown · @michellem7649
 > Cost a lot to use that many on a daily basis. Serum would be more cost effective. Would like to try them though and use 1 a day.
 Source: https://www.youtube.com/watch?v=9eTanSpOMcc
+
+**The other 36 reviews that touch price or value, printed in full elsewhere.** Their price or value words, word for word:
+
+| ID | Product | Printed in | Their words on price or value |
+|---|---|---|---|
+| A-026 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.1 | "Don’t buy this product waist of money" |
+| A-066 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.2 | "they retail for only $22. ... So, my verdict is save your money because I actually like the Anua 77 plus pads better." |
+| A-033 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.3 | "will repurchase" |
+| A-005 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.4 | "I think it's a great value for the price." |
+| A-011 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.5 | "It’s also really economical because I don’t use three patches each time; I just use one or two on my cheeks, then my forehead" |
+| A-007 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.5 | "I'm in my 3rd purchase!" |
+| A-069 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.6 | "it actually includes quite a few peptides which are expensive skin care ingredients" |
+| A-039 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.6 | "It’s like getting 60 mini masks in every tub. ... I just bought two more, as they were on sale." |
+| A-016 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.6 | "They have so much product on them compared to other toning pads I have tried. ... These will continue to be a repurchase for me" |
+| A-065 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.6 | "Well worth it" |
+| A-015 | Anua PDRN 100 Hyaluronic Acid Glow Pad | 5.8 | "Im.not sure if i would repurchase again fue to the shear liquid that glides onto your skin." |
+| R-070 | Mediheal Collagen Ampoule Pad | 5.1 | "I bought two during a sale, so I hope it works out." |
+| R-056 | Medicube PDRN Pink Collagen Toning Gel Toner Pad | 5.2 | "I first bought the bundle set medicube offered on tik tock. It had so many items in it." |
+| R-069 | Mediheal Collagen Ampoule Pad | 5.3 | "I'll definitely repurchase it." |
+| R-134 | Biodance Bio-Collagen Gel Toner Pads | 5.3 | "that's 20 bucks for 60 pads. ... I'm not seeing firmness or elasticity, so I don't think they're worth $20." |
+| R-087 | Isntree GIM PDRN Boosting Glow Pad | 5.4 | "I’d buy them again" |
+| R-024 | Biodance Hydro Cera-nol Gel Toner Pads | 5.4 | "lasts for 2 months" |
+| R-083 | Mediheal Watermide Moisture Pad | 5.5 | "The cost of these toner pads is also excellent. I consider them to be an excellent value for money. I will repurchase (probably for years to come)" |
+| R-028 | Biodance Hydro Cera-nol Gel Toner Pads | 5.5 | "Sadly, this product is 100% worth it. ... Will be a forever purchase." |
+| R-090 | SNP Glutathione PDRN Bright Turn-On Pad | 5.5 | "Definitely a product I’d buy again!" |
+| R-040 | Mediheal Collagen Ampoule Pad | 5.5 | "Will be repurchasing" |
+| R-063 | VT Cosmetics PDRN Tension Toner Pad | 5.5 | "I plan to re-buy more in the future!" |
+| R-096 | Medicube PDRN Pink Collagen Toning Gel Toner Pad | 5.5 | "Dinero tirado a la basura" ("Money thrown in the trash.") |
+| R-007 | Medicube PDRN Pink Collagen Toning Gel Toner Pad | 5.6 | "Will definitely repurchase them" |
+| R-062 | VT Cosmetics PDRN Tension Toner Pad | 5.6 | "Definitely will be repurchasing!" |
+| R-135 | Biodance Bio-Collagen Gel Toner Pads | 5.6 | "it's about $26 for 60 toner pads. I think it's a fair price." |
+| R-031 | Biodance Sea Kelp Gel Toner Pads | 5.7 | "Sadly, these toner pads are worth it." |
+| R-043 | Mediheal Collagen Ampoule Pad | 5.7 | "Love, that it has smaller economical footsteps, like the other individual masks." |
+| R-079 | Mediheal Watermide Moisture Pad | 5.8 | "Fine, but wont be repurchasing." |
+| R-122 | Medicube PDRN Pink Collagen Toning Gel Toner Pad | 5.8 | "Was expected more in the package. The container is large but not much pad inside." |
+| C-024 | Anua Heartleaf 77 Clear Pad (different formula) | 5.3 | "makes them feel like a luxurious yet practical choice" |
+| C-097 | PDRN in general: Rejuran injections, then a Rejuran serum | 5.3 | "Due to the expense, I had absolutely no incentive to do them again." |
+| C-028 | Medicube Zero Pore Pad (exfoliating pad) | 5.4 | "I will be buying this product again. ... I was scared bc it was popular but worth it!" |
+| C-027 | Medicube Zero Pore Pad (exfoliating pad) | 5.5 | "It was around twenty dollars, so I had really hoped it would be well worth the money I spent on it." |
+| C-062 | PDRN skincare in general | 5.5 | "I regret not checking dr dray and wasting my money lol" |
+| C-066 | PDRN skincare in general | 5.8 | "these ten products are likely completely ineffective — a waste of money! ... if you just apply it topically, chances are, you're wasting your money." |
+
+**What price and value reviews say, in plain words [R]:** buyers of the Anua pad mostly feel it is good value (repurchases, "great value for the price", "60 mini masks in every tub"). The money complaints are about pads that did not work for that person ("waist of money", "Money thrown in the trash"), about the glow not lasting ("save your money"), and about the cost of using several pads a day (C-110). Nobody in these reviews mentions the Luxe price.
 
 ### 5.10 Short, general praise (53 printed here; A 10, R 22, C 21)
 
@@ -1549,6 +1607,8 @@ Every independent review that gives an age of 40+ or says "mature", "ageing" or 
 | R-103 | Rejuran Pore Tightening Toner Pad | creator of an over-40 skin channel (own age not stated) | "They are large enough to leave on for 5 minutes." |
 | C-083 | JiYu Toning Polish Pads (exfoliating pad) | 50+ | "What I've noticed is my skin looks smoother, more hydrated, and a little bit more even overall" |
 | C-084 | JiYu Toning Polish Pads (exfoliating pad) | 50+ | "Not overly dramatic, but noticeable." |
+| R-133 | Medicube PDRN Pink Collagen Toning Gel Toner Pad (creator's own routine) | turning 60; very sensitive skin | "I leave these on until they barely feel moist anymore." |
+| C-109 | Korean skincare in general | 62, man; dryish, thin mature skin | "I tend to dislike heavy sticky and occlusive products and prefer to layer lighter products." |
 
 Store data on ages (not single reviews): Glow Recipe PDRN+ pads, 113 reviewers who chose an age range: under 18: 2, 18-24: 3, 25-34: 28, 35-44: 46, 45-54: 20, 55-64: 6, 65+: 8 [M, glowrecipe.com]. Anua glow pad on anua.us, 5 who chose: 18-24: 1, 36-40: 2, 51-55: 1, 56-60: 1 [M, anua.us]. A 56-60 reviewer is counted there, but that reviewer's text is not among the reviews served in the page, so it could not be read.
 
@@ -1586,9 +1646,17 @@ Store data on ages (not single reviews): Glow Recipe PDRN+ pads, 113 reviewers w
 - Medicube's, Mediheal's and StyleKorean's own pages show only a star average (Medicube 4.77 from 78, Mediheal 4.76 from 72, StyleKorean 4.9 from 19 [M]); the review words load later and could not be read.
 - Torriden and COSRX pads: no review text found on the pages loaded (dodoskin shows 0 reviews for the COSRX pad); YouTube videos found had almost no comments.
 - Reddit: blocked.
+- Second pull (2026-10-31), one normal load each, nothing retried: Stylevana (HTTP 403), YesStyle (403), The Baerry (403); Boots' search page returned an almost empty page (about 1 KB), so no Boots product page was found. Sephora Middle East's Bahrain, UAE, Saudi and Kuwait sites show the same 10 Anua reviews as the Qatar site, so nothing new. saranghae.ch and olivekollection.com show no review text; boozyshop.com shows one rating with no text. Vitacost's search and collection pages build their product lists with scripts, so only two more Vitacost pad pages (Medicube PDRN and Mediheal Vitamide) could be found, through a web search. No new Anua pad reviews were found anywhere in the second pull.
+- One Vitacost Mediheal Vitamide "review" is about waterproof gaiters (leg covers), not skincare; it was left out.
 
 ## 9. Sources
 
 Every review above carries its own URL. The full list of pages loaded, store totals and raw files is in `data/reviews/toner-pads/sources-log-2026-10-31.md`; YouTube pulls are in `data/reviews/toner-pads/youtube-comments-batch1-2026-10-31.md`, `youtube-comments-batch2-2026-10-31.md` and the earlier `data/toner-pads/youtube-pulls-2026-10-31.md`. All pulled 2026-10-31.
 
-**Check status.** CLAUDE.md rule 3 asks a second helper to re-check a sample against the sources. Not done yet.
+**Second pull (2026-10-31), saved in `data/reviews/toner-pads/round3-2026-10-31/`:**
+- Vitacost: Medicube PDRN Pink Collagen Toning Gel Toner Pad, 4.85 from 52 (https://www.vitacost.com/products/medicube-pdrn-pink-collagen-toning-gel-toner-pad-70-pads-154376); Mediheal Vitamide Brightening Pad, 4.71 from 165 (https://www.vitacost.com/products/mediheal-vitamide-brightening-pad-day-night-100-pads-6-08-fl-oz-180-ml-142620). Each page serves its latest reviews in the page itself.
+- Cult Beauty: Medicube PDRN pad (5 from 1), Mediheal Collagen Ampoule Pad (4.5 from 2), Mediheal Watermide (5 from 3). Lookfantastic: Mediheal Vitamide (4 from 1).
+- YouTube via NexLev, 2026-10-31: transcripts GrTmbV8RTTk, bl-nELE-670, 7nGU-XUbYlU, jI-e-Y3lZUM; top comments on wfZpcHv8Mo0 (302 comments), YZZ5zK76BrE (135), NDISNKCqxI4 (44), iTFerpOh5oY (144), 9eTanSpOMcc (2). View and like counts are from NexLev on that day.
+- Web searches used in the second pull: 4.
+
+**Check status.** CLAUDE.md rule 3 asks a second helper to re-check a sample against the sources. Done for the first pull: `checks/packs/02-pdrn-toner-pads-pack-check.md` (25 of 25 sampled reviews confirmed, more than 20 re-pulled live); its fixes are applied here. The 52 reviews added in the second pull (R-111 to R-136, C-085 to C-110) have **not** yet been re-checked by a second helper.

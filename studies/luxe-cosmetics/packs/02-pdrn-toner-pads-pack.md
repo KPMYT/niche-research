@@ -8,7 +8,9 @@ Written 2026-10-31 for the round-2 research packs (brief: `packs/PACK-BRIEF.md`)
 - **"not found"** means I looked and could not find it. No number has been guessed.
 - All pulls are dated **2026-10-31** unless another date is given. YouTube view and like counts are from NexLev on 2026-10-31.
 - Amazon blocks automated page loads from this machine, so the Amazon price, stars and reviews for B0HM229JP6 are **not found**. The product facts come from the brand's own shop, luxeresearchlab.com, and from the identical Anua formula.
-- Earlier work this builds on: `02-pdrn-toner-pads.md`, its check `checks/02-pdrn-toner-pads-check.md`, and `SUMMARY.md` section 7 (corrections). The check's corrections are applied here.
+- Earlier work this builds on: `02-pdrn-toner-pads.md`, its check `checks/02-pdrn-toner-pads-check.md`, and `SUMMARY.md` section 7 (corrections). The check's corrections are applied here. The fixes listed in the later check `checks/packs/02-pdrn-toner-pads-pack-check.md` are applied too (2026-10-31).
+- **Every beauty or science word** is explained in plain words the first time it appears (in brackets) and again in the glossary (section 1.9).
+- Review IDs such as A-012 or R-069 point to the reviews part (`packs/reviews/02-pdrn-toner-pads-reviews.md`), where each review is printed in full with its source and date.
 
 ---
 
@@ -16,12 +18,12 @@ Written 2026-10-31 for the round-2 research packs (brief: `packs/PACK-BRIEF.md`)
 
 1. **What it is.** A jar of 140 round gel pads soaked in a pink, watery gel. You lay one on your face for 5 minutes like a tiny mask, then wipe with the other side. It is a **moisture (hydration) product** [M: ingredient list].
 2. **What's really in it.** Mostly water plus "water magnets" (glycerin and friends), a good dose of **niacinamide** (vitamin B3), a small amount of **salmon DNA (PDRN)**, and traces of hyaluronic acid, peptides, collagen and plant extracts. **No acids, no retinol, no fragrance, no alcohol** [M].
-3. **It is the same 45 ingredients as Anua PDRN 100 Hyaluronic Acid Glow Pad**, a Korean pad that states its PDRN at **100 ppm = 0.01%** [M: dodoskin.com].
+3. **It is the same 45 ingredients as Anua PDRN 100 Hyaluronic Acid Glow Pad**, a Korean pad that states its PDRN at **100 ppm (parts per million) = 0.01%** [M: dodoskin.com].
 4. **What it honestly does.** Skin looks plumper, dewier and smoother for some hours. With daily use, niacinamide may slowly help tone look more even. That's the believable part [R, based on the studies in section 2.3].
 5. **What it can't do.** Lift sagging skin, firm a crepey neck, rebuild collagen or "repair cells". PDRN works when injected; on the skin surface the evidence is very thin [M: Dermatology Times 11 Jul 2026; Dr Dray].
 6. **Who it suits.** Dry, dull, easily irritated skin, especially women over 50 who can't tolerate retinol or acids [R].
 7. **Who should not use it.** Anyone with a **fish allergy** (salmon DNA; the collagen source isn't stated) or soy allergy, and vegans [M: ingredient list; R: advice].
-8. **Price.** $59.95 for 140 pads on the brand site = **$0.43 a pad** [M]. The identical Anua pad is $23 for 60 = $0.38 a pad [M].
+8. **Price.** $59.95 for 140 pads on the brand site = **$0.43 a pad** [M]. The identical Anua pad has two prices, both for 60 pads and both measured 2026-10-31: **$23.00 on Anua's own US store** (anua.us product data) = $0.38 a pad, and **$22.00 at Ulta and Vitacost** (their product pages) = $0.37 a pad [M].
 
 ---
 
@@ -38,7 +40,7 @@ Your skin is the biggest organ you have. Think of it as **three layers stacked l
 | **Dermis** (middle layer) | Thick, living layer full of **collagen** (strength), **elastin** (snap-back) and **hyaluronic acid** (holds water). Blood vessels and oil glands live here | The **mattress springs and stuffing** | Wrinkles and sagging start here. Creams and pads barely reach it |
 | **Fat layer, muscle and bone** (underneath) | Fat pads, muscles and the skull | The **couch frame and cushions** | Sagging jowls and hollows come from here. Skincare can't change it |
 
-Dr Shereene Idriss (dermatologist, "Over 50? Your Skincare Routine Should Change Like This", 753,067 views [M]) uses the same picture: *"we should think of our faces as couches. Our skin is the fabric of the couch. The skin care can affect the fabric of the couch, but our skincare is never going to fill our couches and plump them up with feathers and our skincare is never going to fix the foundation of our couch, i.e. our bone structure"* [M: transcript ve54izFiAUY].
+Dr Shereene Idriss (dermatologist, i.e. a skin doctor, "Over 50? Your Skincare Routine Should Change Like This", 753,067 views [M]) uses the same picture: *"we should think of our faces as couches. Our skin is the fabric of the couch. The skin care can affect the fabric of the couch, but our skincare is never going to fill our couches and plump them up with feathers and our skincare is never going to fix the foundation of our couch, i.e. our bone structure"* [M: transcript ve54izFiAUY].
 
 **How long the conveyor belt takes.** Cells take roughly two to four weeks to travel up and flake off. It slows with age: one review gives about 20 days in young adults against 30 or more in older adults [M: secondary source in search results; peer-reviewed Journal of Cosmetic Science review confirms "the rate of SC turnover decreases with age", exact figures vary]. Slower turnover means dead cells pile up, and skin looks **dull** (it reflects light less evenly).
 
@@ -53,7 +55,7 @@ Dr Shereene Idriss (dermatologist, "Over 50? Your Skincare Routine Should Change
 
 | Kind | What it does | Kitchen comparison | Examples in this pad |
 |---|---|---|---|
-| **Humectant** | Grabs water and holds it in the top layer | A sponge | Glycerin, butylene glycol, hyaluronic acid, urea-type, sugars. **The pad is mostly these** [M: INCI] |
+| **Humectant** | Grabs water and holds it in the top layer | A sponge | Glycerin, butylene glycol, hyaluronic acid, urea-type, sugars. **The pad is mostly these** [M: INCI, the official ingredient list printed on the pack; see the glossary] |
 | **Emollient** | Smooths and softens, fills the gaps between dead cells | Butter spread on rough toast | Very little in this pad |
 | **Occlusive** | Forms a seal so water can't escape | Cling film over a bowl | **None** in this pad |
 
@@ -132,7 +134,7 @@ Dr Idriss recommends exactly this kind after 50: *"Essences and quote unquote to
 
 ### 1.6 Korean skincare and "glass skin"
 
-- **K-beauty** is short for Korean beauty: skincare and makeup from South Korea. It is known for gentle, layered routines, lots of hydration, sunscreen, sheet masks and new "hero" ingredients (snail mucin, centella, and now PDRN) [R].
+- **K-beauty** is short for Korean beauty: skincare and makeup from South Korea. It is known for gentle, layered routines, lots of hydration, sunscreen, sheet masks and new "hero" ingredients (snail mucin, the slime of snails, used as a moisturiser; centella, a soothing herb also called "cica" or tiger grass; and now PDRN) [R].
 - **The "10-step routine".** Charlotte Cho, who founded the shop Soko Glam in 2012, says she learned the many steps Koreans use and *"coined"* the phrase "10-step skincare routine" for Americans; it caught on around 2014 [M: search results citing Soko Glam's "Our story" page and press]. Steps typically: oil cleanser, water cleanser, exfoliant, toner, essence, serum/ampoule, sheet mask, eye cream, moisturiser, sunscreen [R]. Even Soko Glam now says it's "not about using more products".
 - **"Glass skin"** means skin so smooth, clear and dewy that it shines like glass. The Korean phrase is *yuri pibu* (유리 피부). The English term went viral in **2017** after a tweet by the make-up artist Ellie Choi (Cosmetics Business, 21 Nov 2017) [M: search results; much of the background comes from brand blogs].
 - **What glass skin actually is, per doctors:**
@@ -150,14 +152,14 @@ Dr Idriss recommends exactly this kind after 50: *"Essences and quote unquote to
 
 **How it's supposed to work (lab theory).** PDRN switches on a "receptor" (a lock on the surface of cells) called adenosine A2A. In cells in a dish, wounds and animals, that calms inflammation and nudges **fibroblasts** (the collagen-making cells) to work [M: Dr Dray XC2OZDLpEJ0: *"it can have modulatory effects on tissue regeneration, wound healing pathways, have anti-inflammatory effects, stimulate [fibroblasts] to produce collagen"*]. Kitchen picture [R]: like a doorbell on a factory; ring it and the workers start up. The catch: the doorbell is deep inside the house (the dermis), and a pad leaves the PDRN on the doorstep.
 
-**Medical use (real and approved).** Korea's drug regulator (MFDS) approved PDRN as an **injected medicine for tissue repair and wound healing**; Italy's Placentex has been sold since the early 1990s [M: Kim 2025]. Dr Dray: *"Probably one of the most intriguing, compelling uses of PDRN is not for anti-aging. It's for healing stubborn diabetic foot ulcers"*; in a trial it was **injected** around the wounds and they healed faster than with placebo [M: XC2OZDLpEJ0].
+**Medical use (real and approved).** Korea's drug regulator (MFDS) approved PDRN as an **injected medicine for tissue repair and wound healing**; Italy's Placentex has been sold since the early 1990s [M: Kim 2025]. Dr Dray: *"Probably one of the most intriguing, compelling uses of PDRN is not for anti-aging. It's for healing stubborn diabetic foot ulcers"*; in a trial it was **injected** around the wounds and they healed faster than with placebo (a dummy treatment with nothing active in it, given to a comparison group) [M: XC2OZDLpEJ0].
 
 **PN vs PDRN.** PN (polynucleotide) = longer, heavier DNA chains; PDRN = shorter ones. **Rejuran**, the famous "salmon sperm" injection, is a PN product classed in Korea as a medical device. The terms are used loosely: *"no standardized criteria have been established to delineate molecular weight thresholds"* [M: Kim 2025].
 
 **Injections (the "salmon sperm facial", Rejuran) [M: Dr Dray 9fdKDS1Zdi0 unless noted]:**
 - What happens: numbing cream, then either an injector "gun" or hundreds of tiny injections into the face. Usually 2–3 sessions, then top-ups about every 6 months. Kim Kardashian made it famous.
-- The evidence: small studies. A 5-patient study; a 44-patient trial on thyroid-surgery scars (better scars); and a 27-patient split-face trial (2022) of polynucleotide against a hyaluronic-acid injection, where the polynucleotide side improved pores and roughness more, *"however these differences were not statistically significant"* [M: Dr Dray]. Dermatology Times (11 Jul 2026) describes a 27-person split-face trial in which Rejuran, compared with an HA filler, scored higher on a global aesthetic scale at 16 weeks [M]. These may be the same trial reported on different measures [R].
-- Dr Dray's verdict on injections for ageing: *"purely anecdotal at this point. No good clinical trials"* [M: XC2OZDLpEJ0]. A commenter: *"I had PDRN injected under my eyes and it did absolutely nothing beyond the temporary swelling"* (@Criticalbeauty411, 161 likes) [M].
+- The evidence: small studies. A 5-patient study; a 44-patient trial on thyroid-surgery scars (better scars); and a 27-patient split-face trial (2022; a split-face trial treats one half of each person's face with one product and the other half with the comparison) of polynucleotide against a hyaluronic-acid injection, where the polynucleotide side improved pores and roughness more, *"however these differences were not statistically significant"* [M: Dr Dray] (in plain words: the gap was small enough that it could have been luck). Dermatology Times (11 Jul 2026) describes a 27-person split-face trial in which Rejuran, compared with an HA filler (an injection of hyaluronic-acid gel that fills out lines and hollows), scored higher on a global aesthetic scale (a doctor's overall score of how good the skin looks) at 16 weeks [M]. These may be the same trial reported on different measures [R].
+- Dr Dray's verdict on injections for ageing: *"purely anecdotal at this point. No good clinical trials"* [M: XC2OZDLpEJ0] (anecdotal = based on people's stories, not on proper tests). A commenter: *"I had PDRN injected under my eyes and it did absolutely nothing beyond the temporary swelling"* (@Criticalbeauty411, 161 likes) [M].
 - Safety of injections: *"PDRN injections have not been clinically associated with serious adverse effects"* [M: Kim 2025]. Bruising, swelling and infection risk come from the needle [M: Dr Dray].
 
 **Creams, serums and pads (what Luxe is) [M]:**
@@ -209,48 +211,74 @@ Why now [R]: a celebrity injection story, a strange name that gets clicks, Korea
 | **Active / active ingredient** | An ingredient that does a job beyond moisturising (retinol, acids, vitamin C, niacinamide) |
 | **Adenosine** | A natural molecule; a Korean-approved anti-wrinkle cosmetic ingredient. In this pad |
 | **Ampoule** | A concentrated serum, usually in a small bottle |
+| **Anecdotal** | Based on people's stories, not on proper tests |
+| **Antioxidant** | An ingredient that helps protect skin from damage by sunlight and air pollution (like lemon juice stops a cut apple going brown) |
 | **Barrier** | The top layer's "brick wall" that keeps water in and irritants out |
+| **Centella / cica** | Centella asiatica, a soothing herb (also called tiger grass). "Cica" is its nickname. Not in this pad |
 | **Ceramides** | The main fats in the barrier's "mortar" |
 | **Collagen** | The protein that gives skin strength, like mattress springs. Lost with age |
 | **Crepey skin** | Thin, finely crinkled skin, like crepe paper. Common on the neck, chest, eyelids and arms after 50 |
 | **Dehydrated** | Short of water (feels tight, looks dull) |
+| **Dermatologist** | A skin doctor |
 | **Dermis** | The living middle layer with collagen and elastin |
 | **Dewy** | Fresh, slightly shiny, "just-misted" look |
 | **Dual-sided pad** | A pad with two different faces (here: a gel side and a plain side) |
+| **Eczema** | A long-lasting skin condition with itchy, dry, sore patches |
 | **Elastin** | The stretchy protein that lets skin snap back |
 | **Emollient** | Softening, smoothing ingredient (oils, butters) |
+| **Emulsifier / solubiliser** | A helper ingredient that lets oil and water mix |
 | **Epidermis** | The thin top layer |
 | **Essence** | A watery-to-slightly-thick hydrating liquid, between toner and serum |
 | **Exfoliate** | Remove dead cells, with acids (chemical) or rubbing (physical) |
 | **Fibroblast** | The cell in the dermis that makes collagen |
+| **Film-former** | An ingredient that leaves a thin, invisible layer on the skin |
 | **Fragrance-free** | No added perfume or essential oils. True of this pad (none listed) |
 | **Glass skin** | Very smooth, clear, shiny skin (Korean "yuri pibu") |
+| **Global aesthetic scale** | A doctor's overall score of how good the skin looks, used in trials |
 | **Glow** | Healthy light-reflecting look; mostly from smoothness plus water |
+| **HA filler** | An injection of hyaluronic-acid gel that fills out lines and hollows |
 | **Humectant** | Water-grabbing ingredient (glycerin, hyaluronic acid). Most of this pad |
 | **Hyaluronic acid (HA)** | A sugar chain that holds water. Your skin makes it; products add it to the surface |
 | **Hyperpigmentation / dark spots** | Patches darker than the rest of the skin: sun spots, age spots, marks left by spots |
 | **INCI** | The official ingredient list on the pack, in a standard naming system |
-| **kDa / Da (dalton)** | Units of molecule size. Skin lets through roughly 500 Da; PDRN is 50,000–1,500,000 Da |
 | **K-beauty** | Korean beauty products |
+| **kDa / Da (dalton)** | Units of molecule size. Skin lets through roughly 500 Da; PDRN is 50,000–1,500,000 Da |
+| **Laser** | A clinic treatment: a beam of light that heats the skin so it repairs itself |
 | **Mask / sheet mask** | A fabric soaked in essence, left on 10–20 minutes. The gel side of this pad is a mini version |
 | **Mature skin** | Industry phrase for skin after about 40–50 |
 | **Menopause** | When periods stop for 12 months; estrogen falls and skin changes (section 5) |
+| **Micellar water** | A water-like cleanser with tiny oil-grabbing particles; you wipe it on with cotton and don't rinse |
+| **Microneedling** | A clinic treatment: tiny needles make small holes so the skin repairs itself |
 | **Niacinamide** | Vitamin B3. One of the best-studied cosmetic ingredients. 4th in this pad's list |
 | **Occlusive** | Sealing ingredient (petrolatum, shea butter). Not in this pad |
+| **Panthenol** | Vitamin B5, a soothing moisturiser. Not in this pad |
 | **Patch test** | Trying a new product on a small area for a few days before using it all over |
-| **Peptides** | Short chains of amino acids (protein building blocks). Some send "signals" to skin in lab tests |
 | **PDRN** | Polydeoxyribonucleotide: DNA fragments, usually from salmon. "Sodium DNA" on labels |
+| **Peel (chemical peel)** | A strong acid put on in a clinic (or at home, milder) that makes the top layer flake off |
+| **Peptides** | Short chains of amino acids (protein building blocks). Some send "signals" to skin in lab tests |
+| **Perimenopause** | The years of change before periods stop, when hormones go up and down |
 | **pH** | How acidic or alkaline something is. Skin is slightly acidic (about 5.5) |
+| **Placebo** | A dummy treatment with nothing active in it, given to a comparison group in a trial |
 | **PN** | Polynucleotide: longer DNA chains, used in injections like Rejuran |
+| **Polymer** | A long, chain-like molecule |
 | **ppm / ppb** | Parts per million / per billion. 100 ppm = 0.01% |
+| **Preservative booster** | An ingredient that helps the preservatives keep germs out, so less of them is needed |
+| **Pruritus** | The medical word for itching |
 | **Purging** | A short spell of breakouts caused by acids or retinoids speeding up turnover. **Can't happen with this pad** (no acids or retinoids) |
-| **Retinoid / retinol / tretinoin** | Vitamin A family. The best-proven anti-ageing ingredient; can sting and peel |
+| **Randomised trial** | A test where people are put into groups by chance (like a coin toss), so the comparison is fair |
 | **Rejuran** | Korean brand of salmon PN injections (and now skincare, including pads) |
+| **Retinoid / retinol / tretinoin** | Vitamin A family. The best-proven anti-ageing ingredient; can sting and peel |
+| **Rosacea** | A long-lasting skin condition with redness and flushing, often on the cheeks and nose |
 | **Salmon sperm facial** | Nickname for PDRN/PN injections |
+| **Sebum** | The skin's own oil |
 | **Serum** | Concentrated treatment liquid |
 | **Skin booster** | An injection meant to improve skin quality rather than add volume |
+| **Snail mucin** | Snail slime, filtered and sold as a moisturiser. Not in this pad |
 | **Sodium DNA** | The label name for PDRN |
+| **Solvent** | A liquid that other things dissolve in, the way sugar dissolves in tea |
 | **SPF / sunscreen** | Sun protection factor; blocks UV rays |
+| **Split-face trial** | A test where each person uses one product on one half of the face and the comparison on the other half |
+| **Statistically significant** | The difference is big enough that it is unlikely to be luck. "Not statistically significant" means it could have been luck |
 | **Stratum corneum** | The dead-cell "brick wall" on top |
 | **TEWL** | Transepidermal water loss: water evaporating out through the skin |
 | **Texture** | How skin feels and looks up close: smooth or rough, bumpy, flaky |
@@ -258,6 +286,7 @@ Why now [R]: a celebrity injection story, a strange name that gets clicks, Korea
 | **Toner pad** | Pre-soaked toner pads in a jar |
 | **Vegan PDRN** | DNA taken from plants instead of fish |
 | **Wipe / swipe** | Sweeping a pad across the face |
+| **Xerosis** | The medical word for dry skin |
 
 ---
 
@@ -274,9 +303,9 @@ Why now [R]: a celebrity injection story, a strange name that gets clicks, Korea
 | Price (brand site) | **$59.95** (second listing $59.99). The page also offers "Buy 1 Get 1 Free" | Product JSON [M] |
 | Price per pad | $59.95 ÷ 140 = **$0.43** | [M, calculation] |
 | How long a jar lasts | 2 pads a day (morning and night) = **70 days**; 1 a day = **140 days** | [M, calculation] |
-| Contradiction | The page FAQ says *"One jar contains 100 pads... a 50-day supply"*; the jar says 140 | Page text [M] |
+| Pad count | The jar says **140**. The page FAQ says *"One jar contains 100 pads... a 50-day supply"*. Count your own jar | Jar image; page text [M] |
 | On sale since | 4 Aug 2026 on the brand site | Product JSON [M] |
-| Made in | Page: "Born in Korean Labs". No maker named: **not found** | Page text [M] |
+| Made in | Page: "Born in Korean Labs" | Page text [M] |
 | Shelf life after opening | **not found** | |
 
 ### 2.2 What it looks, feels and smells like
@@ -286,8 +315,8 @@ Why now [R]: a celebrity injection story, a strange name that gets clicks, Korea
   - **"Soft & Hydrating Gel Side: Peptide-Infused Fabric, Hydration Delivery with Mask Pack Effect"**
   - **"Gentle Plain Side: Low-irritation Vegan Fabric, Lock-in Moisture after wiping"**
 - **Which side is which is confusing [M].** Anua (same pad) describes it the other way round: *"The peptide-infused fabric side works as a gentle pore minimizer... while the smooth gel side delivers soothing hydration"* (anua.us product JSON). Its description also says the pads *"gently exfoliate dead skin cells"*, which can only mean the light rub of the textured fabric, since there's no acid. A Cult Beauty reviewer of the Anua pad found the two-sided pad confusing [M: earlier report 6.2]. **Practical tip [R]:** the side that feels slippery and jelly-like is the mask side; the side that feels like fabric is the wiping side.
-- **Feel on the skin:** no reviews of the Luxe pads were found anywhere. For the identical Anua pad, buyers say: *"These pads are super saturated with quality skin care ingredients that cool the skin"* (Jennifer S., age 51–55, dry and sensitive skin, 5 stars, anua.com via Okendo, 9 Jun 2026; **marked "incentivized" by the review system**, meaning she got something for reviewing) [M: `data/reviews/toner-pads/anua-us-glow-pad-okendo-rendered-reviews-2026-10-31.json`]; *"leaves the skin nice and hydrated"*; *"sits well under make-up"*; *"the packaging takes up a lot of space"* (Cult Beauty, earlier report 6.2) [M]. Gel pads in general can feel sticky: *"Just wish it wasn't so sticky!!"* (@AhnaHendrix, on a different pad, EmpVHOGyYLw) [M].
-- **Smell:** no fragrance is listed [M: INCI]. Any smell will come from the plant extracts and should be faint. Actual smell: **not found** (no review mentions it).
+- **Feel on the skin:** no reviews of the Luxe pads were found anywhere. For the identical Anua pad, buyers say: *"These pads are super saturated with quality skin care ingredients that cool the skin"* (Jennifer S., age 51–55, dry and sensitive skin, 5 stars, anua.com via Okendo, 9 Jun 2026; **marked "incentivized" by the review system**, meaning she got something for reviewing) [M: `data/reviews/toner-pads/anua-us-glow-pad-okendo-rendered-reviews-2026-10-31.json`]; *"leaves the skin nice and hydrated"*; *"the packaging takes up a lot of space"* (Cult Beauty, earlier report 6.2) [M]; and *"It hydrates my skin, calms redness and it's pefect under makeup"* (Lucia, Cult Beauty, 2026-04-14, 5 stars; review A-012) [M]. Gel pads in general can feel sticky: *"Just wish it wasn't so sticky!!"* (@AhnaHendrix, on a different pad, EmpVHOGyYLw) [M].
+- **Smell:** no fragrance is listed [M: INCI]. For the identical Anua pad, buyers say *"Pads are very saturated, there’s next to no smell"* (Vitacost, 2026-05-22, 4 stars, review A-041) and *"A few people mention a light smell from the pad but I did not notice any scent"* (Ulta, most-helpful positive review, review A-059) [M]. Another Vitacost buyer adds that it *"does have a slight bitter taste if it accidentally gets on your lips"* (2026-06-13, 5 stars, review A-036) [M]. So: almost no smell. No review of the Luxe jar itself was found.
 
 ### 2.3 Every ingredient, one by one
 
@@ -306,8 +335,8 @@ Below, the 45 are grouped by job. The number is the position in the list.
 | # | Ingredient | What it is, plainly | What it does here |
 |---|---|---|---|
 | 1 | **Aqua (Water)** | Purified water | The bulk of the gel. Everything else is dissolved in it [R] |
-| 2 | **Butylene Glycol** | A light, clear liquid related to glycerin, but less sticky | Humectant (holds water) and solvent (helps plant extracts dissolve). Gives "slip" [R] |
-| 3 | **Glycereth-26** | Glycerin chemically joined to a short chain of a common polymer (it is "a polyethylene glycol ether of glycerin") | A humectant and moisturiser that feels less tacky than plain glycerin [M: supplier datasheets via search, "acts as a solvent, moisturizer and humectant"] |
+| 2 | **Butylene Glycol** | A light, clear liquid related to glycerin, but less sticky | Humectant (holds water) and solvent (a liquid that other things dissolve in, so it helps plant extracts dissolve). Gives "slip" [R] |
+| 3 | **Glycereth-26** | Glycerin chemically joined to a short chain of a common polymer (a polymer is a long, chain-like molecule; here it is polyethylene glycol, a common cosmetic ingredient; the full name is "a polyethylene glycol ether of glycerin") | A humectant and moisturiser that feels less tacky than plain glycerin [M: supplier datasheets via search, "acts as a solvent, moisturizer and humectant"] |
 | 5 | **Glycerin** | The classic moisturiser, made from plant oils; also in soap and sweets | One of the most proven humectants. Pulls water into the top layer [R] |
 | 15 | **Xanthan Gum** | A thickener made by fermenting sugar; also used in salad dressing and gluten-free baking | Turns the liquid into the wobbly gel you see [R] |
 | 16 | **Propanediol** | A light liquid, often made from corn sugar | Humectant and solvent [R] |
@@ -319,13 +348,13 @@ Below, the 45 are grouped by job. The number is the position in the list.
 | # | Ingredient | What it is | What it does, and how strong the evidence is |
 |---|---|---|---|
 | 4 | **Niacinamide** | Vitamin B3 | **The most important real active in the pad [R].** In a 12-week split-face trial on 50 women aged 40–60, a moisturiser with 5% niacinamide improved fine lines and wrinkles, dark spots, texture, red blotchiness and yellowing compared with the same moisturiser without it (Bissett 2004, *Int J Cosmet Sci*, PMID 18492135) [M]. In 18 people with dark spots, 5% niacinamide *"significantly decreased hyperpigmentation and increased skin lightness"* in 4 weeks (Hakozaki 2002, *Br J Dermatol*, PMID 12100180) [M]. It also helps skin make its own ceramides (Tanno 2000, *Br J Dermatol*, via search) [M, secondary]. **Amount in the pad: not stated.** Being 4th, above glycerin, suggests a few percent [R]. Dr Dray calls it *"an evidence-based ingredient for dark spots, redness, the moisture barrier, anti-aging"* [M: XC2OZDLpEJ0]. Can briefly flush or sting very reactive skin [R] |
-| 17 | **Adenosine** | A natural molecule found in every cell | Korea lists it as a "functional cosmetic" anti-wrinkle ingredient, usually at **0.04%** [M: secondary sources only; the official MFDS list was not pulled]. One randomised trial: 126 women aged 45–65, adenosine cream twice a day, smoother crow's-feet skin at 3 and 8 weeks (Abella 2006, L'Oréal, PMID 18489289) [M: from `03-under-eye-balm.md`]. **Amount in the pad: not stated** [M] |
+| 17 | **Adenosine** | A natural molecule found in every cell | Korea lists it as a "functional cosmetic" anti-wrinkle ingredient, usually at **0.04%** [M: secondary sources only; the official MFDS list was not pulled]. One randomised trial (people were put into groups by chance, like a coin toss, so the test is fair): 126 women aged 45–65, adenosine cream twice a day, smoother crow's-feet skin at 3 and 8 weeks (Abella 2006, L'Oréal, PMID 18489289) [M: from `03-under-eye-balm.md`]. **Amount in the pad: not stated** [M] |
 | 21 | **Sodium DNA (PDRN)** | DNA fragments from salmon | The headline ingredient. **100 ppm (0.01%)** in the identical Anua formula [M]. On the skin surface it works as a light moisturiser; the "repair" story is not shown for creams or pads (section 1.7) [M: Dermatology Times; Dr Dray]. **Fish source: allergy warning** |
-| 30 | **Sodium Hyaluronate** | The salt form of hyaluronic acid (HA), a water-holding sugar chain | Humectant, film on the surface. **5 ppm** [M]. For scale: a 60-day trial of 0.1% HA creams (76 women, 30–60) improved hydration and elasticity, and the smaller-sized HA reduced wrinkle depth (Pavicic 2011, *J Drugs Dermatol*, PMID 22052267) [M]. The pad has **about 200 times less** of each form (5 ppm = 0.0005%) [M: calculation] |
+| 30 | **Sodium Hyaluronate** | The salt form of hyaluronic acid (HA), a water-holding sugar chain | Humectant, film on the surface. **5 ppm** [M]. For scale: a 60-day trial of 0.1% HA creams (76 women aged 30–60; the creams were used around the eyes, which the paper calls "periocular") improved hydration and elasticity, and the smaller-sized HA reduced wrinkle depth (Pavicic 2011, *J Drugs Dermatol*, PMID 22052267) [M]. The pad has **about 200 times less** of each form (5 ppm = 0.0005%) [M: calculation] |
 | 31 | **Hyaluronic Acid** | The acid form of HA | Same as above, 5 ppm [M] |
 | 32 | **Hydrolyzed Hyaluronic Acid** | HA chopped into smaller pieces | Smaller pieces may get further into the top layer [M: Pavicic 2011 suggests better penetration for low-molecular-weight HA]. 5 ppm [M] |
-| 22 | **Hydrolyzed Collagen** | Collagen protein broken into small pieces; source not stated (could be fish, pig or cow) | A humectant and film-former. **It does not become your collagen.** Doctorly on a collagen cream: *"I think they use collagen cuz it's a buzzword. It's not going to penetrate your skin. It could be a good moisturizer"* [M: 1NOgLh46HdM]. A viewer: *"collagen cannot be absorbed through the skin, so the collagen is not what's soothing your skin"* (@jbeandip, 103 likes) [M] |
-| 38 | **Collagen Extract** | Another collagen ingredient; source not stated | As above. The Luxe image calls it "Patented 7D vita collagen" (Anua's wording) [M] |
+| 22 | **Hydrolyzed Collagen** | Collagen protein broken into small pieces; source not stated (could be fish, pig or cow) | A humectant and film-former (it leaves a thin, invisible layer on the skin). **It does not become your collagen.** Doctorly on a collagen cream: *"I think they use collagen cuz it's a buzzword. It's not going to penetrate your skin. It could be a good moisturizer"* [M: 1NOgLh46HdM]. A viewer: *"collagen cannot be absorbed through the skin, so the collagen is not what's soothing your skin"* (@jbeandip, 103 likes) [M] |
+| 38 | **Collagen Extract** | Another collagen ingredient; source not stated | As above. The Luxe image calls it "Patented 7D vita collagen" [M] |
 | 42 | **Hexapeptide-11** | A peptide (6 amino acids), originally from fermented yeast [R] | Anua's claim: *"Hexapeptide-11 provides skin elasticity"* [M: dodoskin Anua description]. Human evidence at this level: not found. Near the end of the list, so a tiny amount [R] |
 | 43 | **Oligopeptide-1** | On Korean labels, the name for a lab-made copy of **EGF (epidermal growth factor)**, a 53-amino-acid human protein; officially "sh-Oligopeptide-1" [M: search results, ingredient databases] | Anua's claim: *"provides collagen synthesis"* [M]. Evidence is limited and small [M: search summary]. Tiny amount [R] |
 | 44 | **Oligopeptide-2** | A lab-made peptide; on Korean labels often a copy of the growth factor IGF-1 [R, not confirmed for this product] | Anua's claim: *"provides skin anti-aging"* [M]. Tiny amount |
@@ -337,7 +366,7 @@ Below, the 45 are grouped by job. The number is the position in the list.
 |---|---|---|---|
 | 7 | **Diethoxyethyl Succinate** | A light, water-friendly liquid | Solvent and skin-feel helper, used to make watery products feel silky and to carry other ingredients into the top layer [R; no source found today] |
 | 8 | **Hydroxyethyl Urea** | A relative of urea, the moisturiser in many foot creams, but gentler | Humectant and skin conditioner; judged safe by the US Cosmetic Ingredient Review panel *"when formulated to be non-irritating"* [M: CIR and COSMILE Europe via search] |
-| 10 | **Glycereth-25 PCA Isostearate** | A glycerin-based molecule joined to a fatty acid | Emulsifier/solubiliser: helps tiny amounts of oily ingredients dissolve in the water gel, and softens [R] |
+| 10 | **Glycereth-25 PCA Isostearate** | A glycerin-based molecule joined to a fatty acid | Emulsifier/solubiliser (a helper that lets oil and water mix): helps tiny amounts of oily ingredients dissolve in the water gel, and softens [R] |
 | 11 | **Glycosyl Trehalose** | A sugar (trehalose, found in mushrooms and yeast) with extra sugar attached | EU ingredient database (CosIng) lists "Emulsion Stabilising, Film Forming" [M: via SkinSort in search] |
 | 12 | **Hydrogenated Starch Hydrolysate** | A sugar-alcohol syrup made from starch | Humectant [M: SkinSort via search] |
 | 34 | **Fructan** | A chain of fruit sugars (like inulin) | Humectant, light film [R] |
@@ -347,6 +376,8 @@ Below, the 45 are grouped by job. The number is the position in the list.
 #### Group D. Plant, sea and ferment extracts (all in small amounts)
 
 Eight of these (neem leaf and flower, ivy gourd, aloe flower, eggplant, holy basil, coral weed, turmeric) look like a ready-made blend of mostly Indian (Ayurvedic) plants plus a seaweed that suppliers sell as one package; such blends are common in Korean formulas [R]. Each is likely well under 1% [R].
+
+**"Antioxidant"** comes up a lot below. An antioxidant is an ingredient that helps protect the skin from damage by sunlight and air pollution, a bit like the way lemon juice stops a cut apple going brown [R]. At these tiny amounts, the protection is mostly a lab claim.
 
 | # | Ingredient | What it is | What it's there for |
 |---|---|---|---|
@@ -372,9 +403,9 @@ A water gel full of sugars is a feast for germs. These stop that [R].
 | # | Ingredient | What it is | What it does |
 |---|---|---|---|
 | 6 | **1,2-Hexanediol** | A light glycol | Humectant that also helps preserve; very common in Korean products [R] |
-| 9 | **Hydroxyacetophenone** | A small aromatic molecule | Antioxidant [M: supplier listing via search]; widely used as a preservative booster and soothing agent [R] |
+| 9 | **Hydroxyacetophenone** | A small aromatic molecule | Antioxidant [M: supplier listing via search]; widely used as a preservative booster (it helps the preservatives keep germs out, so less of them is needed) and soothing agent [R] |
 | 14 | **Ethylhexylglycerin** | A glycerin relative | Preservative booster and skin conditioner; a rare cause of contact allergy [R] |
-| 20 | **Disodium EDTA** | A "chelator" | Grabs stray metal traces (from water or plant extracts) so the formula doesn't go off or change colour. Kitchen picture: like a water softener [R]. The Luxe image wrongly labels it "PDRN (Disodium EDTA)", copied from Anua's image [M: check file] |
+| 20 | **Disodium EDTA** | A "chelator" | Grabs stray metal traces (from water or plant extracts) so the formula doesn't go off or change colour. Kitchen picture: like a water softener [R] |
 | 40 | **Caprylyl Glycol** | A glycol | Humectant and preservative booster [R] |
 
 #### What's NOT in it [M: INCI]
@@ -387,7 +418,7 @@ A water gel full of sugars is a feast for germs. These stop that [R].
 | Fragrance or essential oils | Kinder to sensitive skin |
 | Drying alcohol (ethanol, "alcohol denat.") | Not drying |
 | Oils, butters, ceramides | It doesn't seal moisture in. Use a moisturiser after |
-| Centella | Not a "cica" pad |
+| Centella (a soothing herb, also called "cica" or tiger grass) | Not a "cica" pad |
 
 #### What the 45 ingredients add up to [R]
 
@@ -430,7 +461,7 @@ All quotes from luxeresearchlab.com/products/luxe-pads, pulled 2026-10-31 [M]. V
 | "One Pad Replaces Your Whole Routine. Toner. Exfoliator. Serum. Treatment mask." | **No.** It replaces a toner and a sheet mask. You still need moisturiser and, by day, sunscreen |
 | "Each pad works on your face, neck, chest, hands, elbows, knees, and underarms" | Harmless; it's a hydrating gel |
 | "Hypoallergenic and dermatologist-tested" | No test published. The FDA says "hypoallergenic" has no legal meaning (from `01-mascara.md`) |
-| "125.39% Improvement in Skin Hydration Immediately After Use (Temporary Effect)" and "100% agreed..." | These numbers come from a test of **Anua's** identical pad on 21 women aged 20–59 (P&K Skin Clinical Research Center, 30–31 Dec 2024), including a self-assessment right after first use [M: Anua image footnotes]. They describe a short-lived effect and are not Luxe's own test |
+| "125.39% Improvement in Skin Hydration Immediately After Use (Temporary Effect)" and "100% agreed..." | From a test of the identical Anua pad on 21 women aged 20–59 (Dec 2024), measured right after first use [M: Anua image footnotes]. A short-lived effect. Not to be quoted on camera (section 11) |
 
 ---
 
@@ -503,7 +534,7 @@ The brand's own steps are quoted in bold [M: image `tonnerfixed_6`]; the rest is
 
 | Step | Morning | Night |
 |---|---|---|
-| 1 | Rinse with water or a gentle cleanser | **Remove makeup** (micellar water or cleansing oil/balm), then a **gentle cleanser** |
+| 1 | Rinse with water or a gentle cleanser | **Remove makeup** (micellar water, a water-like cleanser you wipe on with cotton and don't rinse off; or a cleansing oil or balm), then a **gentle cleanser** |
 | 2 | **Luxe pad** (mask 5 min, wipe, pat) | **Luxe pad** |
 | 3 | Optional serum (vitamin C or other) | Optional treatment: **retinoid** (retinol or prescription tretinoin) on some nights |
 | 4 | Eye cream or balm (optional) | Eye cream or balm (optional) |
@@ -529,8 +560,8 @@ The brand's own steps are quoted in bold [M: image `tonnerfixed_6`]; the rest is
 |---|---|
 | **Another toner pad or acid toner** on the same night | Doubling up is pointless and can over-wipe thin skin |
 | **Scrubs** and cleansing brushes on the same day | Adds rubbing on top of rubbing |
-| **Prescription creams for eczema or rosacea** | Ask the prescriber; extra layers can change how they work |
-| **Very strong acid peels or a fresh in-clinic treatment** (laser, peel, microneedling) | Follow the clinic's aftercare; use nothing new for a few days |
+| **Prescription creams for eczema or rosacea** (eczema: itchy, dry, sore patches; rosacea: long-lasting redness and flushing, often on the cheeks and nose) | Ask the prescriber; extra layers can change how they work |
+| **Very strong acid peels or a fresh in-clinic treatment** (laser: a beam of light that heats the skin; peel: a strong acid that makes the top layer flake off; microneedling: tiny needles that make small holes so the skin repairs itself) | Follow the clinic's aftercare; use nothing new for a few days |
 
 There is **no dangerous combination** with this pad. It's a gentle hydrating gel [R].
 
@@ -575,15 +606,16 @@ There is **no dangerous combination** with this pad. It's a gentle hydrating gel
 | **Lifestyle** | People who want a quick, no-mess step | People who dislike waste or bulky jars |
 | **Budget** | Those happy to pay about $0.43 a use for convenience | Tight budgets: a plain hydrating toner on cotton does a similar job for less [R]; the Anua version is cheaper per pad |
 | **Values** | — | Vegans: salmon DNA is an animal ingredient |
+| **Eye area** | Pat the leftover gel gently under the eyes | Not for the eyelids or the lash line: wipe around the eyes, not over them (Anua says to avoid the eye area [M: dodoskin]) |
 
 ### 5.2 How skin changes after 50 and 60, and why
 
-**The big driver is menopause.** Menopause officially starts 12 months after the last period; the skin changes start years earlier in perimenopause [M: Dr Sam Ellis, N7SgoUm_YDE]. Estrogen, which helps keep skin thick, plump, oily and quick to heal, falls [M: Dr Sam Ellis; Dr Dray cmKERM23uhs].
+**The big driver is menopause.** Menopause officially starts 12 months after the last period; the skin changes start years earlier in perimenopause (the years of change before periods stop) [M: Dr Sam Ellis, N7SgoUm_YDE]. Estrogen, which helps keep skin thick, plump, oily and quick to heal, falls [M: Dr Sam Ellis; Dr Dray cmKERM23uhs].
 
 | Change | What happens, and why | What it looks and feels like | Can this pad help? [R] |
 |---|---|---|---|
 | **Collagen loss** | *"nearly a third lost in the first 5 years and a decline of 2.1% per year over the 15 years following menopause"* [M: Kamp et al., *Clin Exp Dermatol* 2022;47(12):2117]. Dr Dray: *"women lose about 30 percent of collagen in the first five years after menopause"* [M]. (The 30% figure comes from older, small studies measured on the forearm [M: search result note]) | Thinner skin, crepey patches, fine lines that deepen | **No** for collagen; **yes** for the look of fine lines for a few hours (plumping) |
-| **Dryness** | Oil glands get quieter: *"reduction in the number and size of sebaceous glands and associated reduction in skin sebum levels"* [M: Kamp 2022]. Skin holds water less well: *"the skin loses some of its ability to hold on to water"* [M: Dr Dray]. Dr Dray: dry skin is *"probably the most striking change that people notice early on"* [M] | Tight after washing, flaky patches, makeup clings to dry bits, itching | **Yes, the pad's main strength**, together with a moisturiser |
+| **Dryness** | The same review paper links menopause to dry, itchy skin: *"Pruritus is also frequently seen in postmenopausal women, commonly with associated xerosis"* (pruritus = itching; xerosis = dry skin), and says that *"the hypo-oestrogenic state could be implicated in increased TEWL"* (in plain words: low oestrogen may be why more water escapes through the skin) [M: Kamp et al. 2022, Part 2, PMC10092853, page loaded 2026-10-31]. Skin holds water less well: *"the skin loses some of its ability to hold on to water"* [M: Dr Dray]. Dr Dray: dry skin is *"probably the most striking change that people notice early on"* [M] | Tight after washing, flaky patches, makeup clings to dry bits, itching | **Yes, the pad's main strength**, together with a moisturiser |
 | **A weaker barrier and more sensitivity** | Ceramides decline: *"ceramides which are fats found in our Skin Barrier the levels of those start to decline with age making you more prone to water loss dryness and irritation"* [M: Dr Dray]. Hormonal flushing, rosacea flares [M: Dr Idriss] | Old products suddenly sting; redness; "my skin hates everything" | **Partly**: fragrance-free, acid-free, with niacinamide. Still patch test |
 | **Dullness** | Cell turnover slows, so dead cells pile up and reflect light unevenly [M: Doctorly 1NOgLh46HdM: *"a decrease in cell turnover, which can make your skin look more dull"*] | Grey, tired, "lost my glow" | **Yes, short term** (water + the gentle wipe). An exfoliant does more long term |
 | **Fine lines and wrinkles** | Less collagen and elastin; sun damage adds up | Lines around eyes, mouth, forehead | **A little, for hours** (plumping); niacinamide and adenosine may help slightly over weeks |
@@ -647,12 +679,21 @@ Quotes are word for word, with source and likes. Where a quote is about a differ
 
 - **What:** sandpaper feel, flaky bits, tiny bumps.
 - **Why:** dead-cell build-up, dryness.
+- **How it feels:** *"during seasonal changes, my cheeks become dry. My cheeks get rough, and my skin deteriorates as if my immune system is weakening"* (Ulta, most-helpful positive review of the Mediheal Collagen Ampoule Pad, review R-069) [M]. *"I struggle with texture on my higher cheek bones and on my chin, under my bottom lip"* (Aly, Dallas, Ulta, 2026-10-22, 5 stars, on Medicube's exfoliating Zero Pore Pad, review C-029) [M].
+- **What they tried, and why it failed:**
+  1. **Accepting it.** The same Mediheal reviewer: *"Even dermatologists say it's just due to seasonal changes and stress, so I've accepted that I can't fix it and am destined to use only gentle skincare products"* (R-069) [M].
+  2. **Scrubs.** They feel smoothing but can scratch: *"they actually leave these tiny scratches"* (Seoul Beauty doctor, 864b16vfJQk) [M].
+  3. **Strong exfoliating pads.** They can backfire: *"after four days, I began to see new breakouts. I lessened the use to three times a week, until I was only using it once a week. ... Even once a week, I was getting small irritated red bumps"* (Ulta, most-helpful critical review of the Medicube Zero Pore Pad, review C-032) [M]. Why [R]: thin, dry mature skin often can't take acid or rubbing every day.
 - **How the pad helps [R]:** softens through hydration and a gentle fabric wipe. **It does not exfoliate chemically**, despite the page. An acid (lactic or mandelic for sensitive skin, per Dr Idriss and Doctorly [M]) once or twice a week does more.
 
 ### 6.7 Makeup that looks cakey or clings to dry patches
 
 - **Why:** foundation sticks to flakes and sinks into lines on dry skin [R].
-- **How the pad helps:** a 5-minute mask before makeup gives a smoother, dewier base. Anua buyer: *"sits well under make-up"* (Cult Beauty, earlier report) [M]. Commenters ask: *"Do you have any recommendations on what toner pads to use before makeup?"* (@laradevlin4503) [M].
+- **What they tried, and why it failed:**
+  1. **Putting makeup straight on top of a wet pad.** It can flake or "pill" (roll into little crumbs): *"These pads always make my skin peel and also peel under makeup"* (Sephora Middle East, 2026-08-26, 1 star, Anua pad, review A-025) [M]; *"I wanted to love this but I could not use it with anything without experiencing pilling"* (Lookfantastic, 2026-06-04, 2 stars, Anua pad, review A-022) [M]. Why [R]: the gel is still wet and tacky, so the next layer rubs it into crumbs.
+  2. **Rubbing in a lot of extra liquid, then cream.** *"I didn’t like how my skin felt after I first used these and rubbed everything in- I felt sticky or tacky ... I wound up having to wipe my face with a damp cloth to remove the ballies (pilling)"* (glowrecipe.com, 2026-02-19, 3 stars, Glow Recipe PDRN pads, review R-005) [M].
+  3. **What worked for others:** waiting. *"the finish is quite rich and tacky, so give it a few minutes to sink in before applying makeup to avoid pilling"* (Vitacost, 2026-06-13, 5 stars, Anua pad, review A-036) [M].
+- **How the pad helps:** a 5-minute mask before makeup gives a smoother, dewier base. Anua buyer: *"It hydrates my skin, calms redness and it's pefect under makeup"* (Lucia, Cult Beauty, 2026-04-14, 5 stars, review A-012) [M]. Commenters ask: *"Do you have any recommendations on what toner pads to use before makeup?"* (@laradevlin4503) [M].
 
 ### 6.8 Too many steps, too confusing
 
@@ -669,12 +710,23 @@ Quotes are word for word, with source and likes. Where a quote is about a differ
 
 - **How it feels:** on a Medicube PDRN gel pad demo (846,000 views): *"Looks the same to me"* (@Mimi0427-c6h, **921 likes**); *"Is the calmer skin in the room with us????"* (@iloveLmorethanyou) [M].
 - **Why:** hydration changes are subtle on camera; the "repair" claims don't show in minutes [R].
+- **What they tried, and why it failed:**
+  1. **One PDRN product after another.** *"In K-beauty right now, PDRN is everywhere. I've tried a lot of them hoping for good results, but honestly ... Most products didn't really live up to the hype"* (@zz9zz6, 168 likes, Dr Dray video XC2OZDLpEJ0, review C-053; the one that worked for this person was VT's) [M].
+  2. **Using a whole bottle.** *"I used an entire bottle of the pdrn. While it felt good, I'm uncertain whether it actually did anything"* (@zoeberry33, on Anua's PDRN serum, review C-105) [M].
+  3. **Pads used daily for weeks.** *"They do seem to moisturize in the short term but haven't noticed any change in my skin. I guess nothing is magic."* (RAH, Atlanta, Ulta, 2026-09-08, 4 stars, Mediheal Collagen Ampoule Pad, review R-067) [M]. After 3 weeks of Biodance's collagen gel pads morning and night: *"I'm not seeing firmness or elasticity"* (YouTube creator, bl-nELE-670, review R-134) [M].
+  4. **The injections themselves.** *"once the swelling went down my under eyes looked identical to how they did before"* (@Criticalbeauty411, after Rejuran injections, review C-097) [M].
+  - Why it failed [R]: what these products really do is add water, which shows as softness and glow for some hours, then fades. People were hoping for firming, which they can't give.
 - **What this means:** set expectations: feel and dewiness, not a new face.
 
 ### 6.11 Pads drying out, jar too big, two sides confusing
 
-- *"Do they dry out quickly?"* (@Mirendawali, 11 likes) [M]. *"the packaging takes up a lot of space"*; two-sided pad confusing (Anua buyers, Cult Beauty) [M].
-- **Fix [R]:** close the lid; keep it upright or flip it for a day; use the slippery side to mask.
+- *"Do they dry out quickly?"* (@Mirendawali, 11 likes) [M]. *"the packaging takes up a lot of space"*; two-sided pad confusing (Anua buyers, Cult Beauty) [M]. *"I'm completely flummoxed by the two sided pad which I can't perceive, being completely saturated with serum"* (Qwendy, Cult Beauty, 2026-05-05, 4 stars, Anua pad, review A-008) [M].
+- **What they tried, and why it failed:**
+  1. **Travelling with the jar.** *"every time I go out of town and pack my facial products, almost always these pads find a way to tussle and turn about in my luggage and somehow open and leak"* (Lei, Ulta, 2026-07-20, 4 stars, Mediheal Watermide pad, review R-078) [M]. An Anua buyer: *"if you hold it at an angle for even a second, serum will leak out of the box"* (Ulta, most-helpful critical review, review A-060) [M]. Why [R]: the jar is full of loose liquid, and the lid is not a tight seal.
+  2. **Following the box instructions.** *"the instructions for use are confusing as they say to leave on skin, but I'm assuming that's for targeted areas. I swipe the pad all over my face"* (Mhairi, Lookfantastic, 2026-07-13, 5 stars, Anua pad, review A-017) [M].
+  3. **Wiping with a slippery gel pad.** *"they are very slippery and normally when I wipe them across my face like it will slip out. So I found the best way is to really hold it with your thumb and all of your fingers"* (YouTube creator, Biodance gel pads, review R-134) [M].
+  4. **The tweezers.** *"the included tweezers are too blunt, often picking up two pads at once"* (Ulta, Mediheal Watermide pad, review R-084) [M].
+- **Fix [R]:** close the lid; keep it upright, or flip it for a day so the top pads get wet again; use the slippery side to mask; hold the pad flat with all your fingers to wipe; travel with the jar in a sealed bag.
 
 ### 6.12 Sagging and jowls
 
@@ -699,7 +751,7 @@ Prices measured 2026-10-31 on the named site unless dated; per-pad is my calcula
 | Product | What it is | Pads | Price (source) | Per pad | PDRN | What's different from Luxe |
 |---|---|---|---|---|---|---|
 | **Luxe PDRN Toner Pads** | Dual-sided gel pad, hydrating | 140 | $59.95 (luxeresearchlab.com) | **$0.43** | Salmon; level not stated (Anua's identical list: 100 ppm) | Biggest jar; marketed to women 40+ |
-| **Anua PDRN 100 Hyaluronic Acid Glow Pad** | **Same 45 ingredients**, same pad design | 60 | $23.00 (anua.us); $21.78 (dodoskin); $22 Amazon (BestReviews, Feb 2026) | $0.36–0.38 | Salmon, 100 ppm | Same formula, cheaper per pad, smaller jar |
+| **Anua PDRN 100 Hyaluronic Acid Glow Pad** | **Same 45 ingredients**, same pad design | 60 | $23.00 (anua.us, 2026-10-31); $22.00 (Ulta and Vitacost, 2026-10-31); $21.78 (dodoskin); $22 Amazon (BestReviews, Feb 2026) | $0.36–0.38 | Salmon, 100 ppm | Same formula, cheaper per pad, smaller jar |
 | **Medicube PDRN Pink Collagen Gel Toner Pad** | Ultra-thin gel pad; the category's best-known brand | 70 | $26.14 (dodoskin, after re-check) | $0.37 | Salmon, 1 ppm | Also has retinol; less PDRN |
 | **Medicube PDRN Pink Collagen Jelly Pad** (DIY) | Empty pads + essence you pour in | 70 | $19.89 Amazon (BestReviews, Feb 2026); $26 (medicube.us) | $0.28 (Amazon) | Salmon | Pads stay wet; you mix them |
 | **Mediheal Derma 365 PDRN Lifting Pad** | Hydrating, "lifting" pad | 100 | $26.40 (mediheal.com); $27.42 (dodoskin) | $0.26–0.27 | No sodium DNA in dodoskin's list | **Contains fragrance**; cheaper per pad |
@@ -707,7 +759,7 @@ Prices measured 2026-10-31 on the named site unless dated; per-pad is my calcula
 | **Biodance Caviar PDRN Dual Gel Toner Pads** | Dual texture: gel + exfoliating side | 60 | $24.09 (dodoskin) | $0.40 | Salmon, **1,000 ppm** (10× Luxe's likely level) + salmon roe | **Exfoliates** (lactic, salicylic acids, PHA) |
 | **Isntree Gim PDRN Boosting Glow Pad** | Glow pad | 70 | $23.01 (dodoskin) | $0.33 | Seaweed, 100 ppm | Plant (vegan) PDRN; mild PHA |
 | **Rejuran Derma Healer Pore Tightening Toner Pad** | From the injection brand | 60 | $26.78 (dodoskin) | $0.45 | "c-PDRN" | **Exfoliates** (AHA, BHA, PHA). One Eye Beauty's favourite pad [M] |
-| **Glow Recipe PDRN+ Repair + Soothe Toner Pads** | Calming pad, sold at Sephora | 60 | $30.00 (glowrecipe.com) | $0.50 | "Vegan PDRN+" | Centella, panthenol; dearest per pad |
+| **Glow Recipe PDRN+ Repair + Soothe Toner Pads** | Calming pad, sold at Sephora | 60 | $30.00 (glowrecipe.com) | $0.50 | "Vegan PDRN+" | Centella (a soothing herb) and panthenol (vitamin B5, a soothing moisturiser); dearest per pad |
 | **COSRX Peptide Collagen Lifting Glow Pad** | Peptide pad, no PDRN | 100 | $24.58 (dodoskin) | $0.25 | None | Says "especially mature and dull skin" [M] |
 | **Torriden Dive-In Hyaluronic Acid Multi Pad** | Plain hydrating pad | 80 | $18.71 (dodoskin) | $0.23 | None | Simple hydration, cheap |
 | **A bottle of hydrating toner + cotton pads** | Same idea, you soak your own | — | not pulled | not found | — | Cheaper, less waste, no mask effect [R] |
@@ -777,7 +829,7 @@ Sources for the questions: comments on the videos in section 12 (marked with the
 | Myth | Truth | Source |
 |---|---|---|
 | "It's the same as the salmon-sperm injection" | The injection puts PN/PDRN into the dermis; the pad leaves about 0.01% on the surface | Dr Dray; Dermatology Times; Anua 100 ppm [M] |
-| "99% PDRN" means the pad is 99% PDRN | It's the raw material's purity. Pads hold 1 to 1,000 ppm | One Eye Beauty; retailer INCIs [M] |
+| "99% PDRN" means the pad is 99% PDRN | It's the raw material's purity. Pads hold 0.01 to 1,000 ppm | One Eye Beauty; retailer INCIs [M] |
 | "PDRN repairs skin at the cellular level" | Shown for injections into wounds, and in lab dishes; not shown for creams or pads | Dr Dray; Dermatology Times [M] |
 | "Collagen in the pad builds my collagen" | Collagen can't soak in as collagen. It's a moisturiser | Doctorly [M] |
 | "The hyaluronic acid gives deep, lasting hydration at multiple skin layers" (Luxe page) | The pad has 5 ppm of each HA form, working on the surface; the level studied in a wrinkle trial was 0.1% (200 times more) | Anua ppm; Pavicic 2011 [M] |
@@ -886,9 +938,10 @@ All accessed 2026-10-31 unless dated otherwise. View and like counts from NexLev
 - Luxe product page and data: https://luxeresearchlab.com/products/luxe-pads and https://luxeresearchlab.com/products/luxe-pads.json; https://luxeresearchlab.com/products/luxe-pdrn-toner-pads-sub.json. Saved: `data/toner-pads/luxeresearchlab-*`.
 - Luxe images (jar, how-to, pad sides, ingredient list): `data/toner-pads/images/luxeresearchlab-*.jpg`.
 - Ingredient list transcription and Luxe vs Anua table: `data/toner-pads/luxe-pads-inci-transcribed-from-image-2026-10-31.txt`; `data/toner-pads/luxe-vs-anua-inci-comparison-2026-10-31.txt`.
-- Anua PDRN 100 Hyaluronic Acid Glow Pad: https://anua.us/products/pdrn-100-hyaluronic-acid-glow-pad.json (created 2025-05-15; $23.00); dodoskin ingredient list with ppm: https://www.dodoskin.com/products/anua-pdrn-100-hyaluronic-acid-glow-pad-60p.json.
+- Anua PDRN 100 Hyaluronic Acid Glow Pad: https://anua.us/products/pdrn-100-hyaluronic-acid-glow-pad.json (created 2025-05-15; $23.00); dodoskin ingredient list with ppm: https://www.dodoskin.com/products/anua-pdrn-100-hyaluronic-acid-glow-pad-60p.json. Anua's $22.00 price: https://www.ulta.com/p/pdrn-100-hyaluronic-acid-glow-pad-pimprod2052157 and https://www.vitacost.com/products/anua-pdrn-100-hyaluronic-acid-glow-pad-60-pads-155440 (both 2026-10-31, re-confirmed by the pack check).
 - Anua reviews (Okendo widget, anua.com): `data/reviews/toner-pads/anua-us-glow-pad-okendo-rendered-reviews-2026-10-31.json` (pulled by the review helper).
 - Cult Beauty Anua reviews: https://www.cultbeauty.com/p/anua-pdrn-100-hyaluronic-acid-glow-pad-180ml/16674994/ (via `02-pdrn-toner-pads.md` section 6.2).
+- Buyer quotes in sections 2.2 and 6 marked with a review ID (A-, R-, C-) are printed in full, with source and date, in `packs/reviews/02-pdrn-toner-pads-reviews.md`.
 - Competitor prices: dodoskin.com product JSONs in `data/toner-pads/`; medicube.us, mediheal.com, glowrecipe.com; BestReviews "Best PDRN pads", updated Feb 2026: https://bestreviews.com/beauty-and-personal-care/skin-care/best-pdrn-pads. Corrections: `checks/02-pdrn-toner-pads-check.md`.
 
 **Science**
@@ -899,7 +952,7 @@ All accessed 2026-10-31 unless dated otherwise. View and like counts from NexLev
 - Tanno O et al. *Br J Dermatol* 2000 (niacinamide and ceramides), via search summary, not opened.
 - Pavicic T et al. "Efficacy of cream-based novel formulations of hyaluronic acid of different molecular weights in anti-wrinkle treatment." *J Drugs Dermatol* 2011: https://pubmed.ncbi.nlm.nih.gov/22052267/ (search summary of abstract)
 - Abella ML. Adenosine trial, 2006, PMID 18489289 (from `03-under-eye-balm.md`).
-- Kamp E, Ashraf M, Musbahi E, DeGiovanni C. "Menopause, skin and common dermatoses. Part 2." *Clin Exp Dermatol* 2022;47(12):2117–2122: https://academic.oup.com/ced/article/47/12/2117/6966236
+- Kamp E, Ashraf M, Musbahi E, DeGiovanni C. "Menopause, skin and common dermatoses. Part 2." *Clin Exp Dermatol* 2022;47(12):2117–2122: https://academic.oup.com/ced/article/47/12/2117/6966236 ; full text https://pmc.ncbi.nlm.nih.gov/articles/PMC10092853/ (loaded 2026-10-31 for the dryness quotes in section 5.2)
 - StatPearls skin anatomy (NCBI Bookshelf): https://www.ncbi.nlm.nih.gov/books/NBK470464/ ; https://ncbi.nlm.nih.gov/books/NBK513299 (search summaries)
 - Journal of Cosmetic Science, aging skin barrier review: https://library.scconline.org/v075n05/20 (search summary)
 - FDA Cosmetics Labeling Guide: https://www.fda.gov/cosmetics/cosmetics-labeling-regulations/cosmetics-labeling-guide
@@ -936,4 +989,4 @@ All accessed 2026-10-31 unless dated otherwise. View and like counts from NexLev
 | ThJz4gHQOhk | How Korean it girls use toner pads ("Korean cream mask") (Short) | — | 73,000 | Third method |
 | 2t9UeE4XZcs, g6Tbd49ZvM4, nLoIdL10bU4 | Medicube and toner-pad videos | various | 846,000; 241,000; 15,671 | Comments (from `data/toner-pads/youtube-pulls-2026-10-31.md`) |
 
-**Not found:** Amazon price, stars, reviews and seller for B0HM229JP6; any review or video of the Luxe pads themselves; the pads' smell; shelf life after opening; the maker; exact amounts of every ingredient except PDRN and hyaluronic acid (Anua's figures); the official MFDS adenosine listing; the identity of oligopeptide-3 on this label.
+**Not found:** Amazon price, stars, reviews and seller for B0HM229JP6; any review or video of the Luxe pads themselves; any smell report for the Luxe jar itself (the identical Anua pad: "next to no smell", section 2.2); shelf life after opening; exact amounts of every ingredient except PDRN and hyaluronic acid (Anua's figures); the official MFDS adenosine listing; the identity of oligopeptide-3 on this label.
