@@ -55,4 +55,5 @@ The live note passed from chat to chat. A new chat reads `CLAUDE.md`, then this 
 - **Owns:** `studies/luxe-cosmetics/`. Branch `claude/serene-maxwell-0pcpm0`.
 - **Status:** round 1 done and checked. Read `studies/luxe-cosmetics/SUMMARY.md` first. Amazon blocks automated page loads from here; only the eyelash serum's Amazon page was read.
 - **Main findings:** one small Dutch/Wyoming business behind luxe.com and luxeresearchlab.com; the pads copy Anua's formula and images; the brand pages carry fake-looking reviews and drug claims; the serum (prostaglandin-free, $13, Amazon's Choice) is the strongest to sell.
+- **Round 2 (2026-10-31):** the four beginner packs are done: `studies/luxe-cosmetics/packs/FINAL-01`–`04`, sent to the operator with NotebookLM prompts. Reviews added after the checks are not yet re-checked.
 - **Next actions:** the operator's answers to the questions in the chat (the unfinished "I also want to understand deeply…", whether to sell the pads, a page version); the operator's own checks of the three unseen Amazon pages.

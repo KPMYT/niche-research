@@ -7,20 +7,28 @@ Collected 2026-10-31 for `packs/PACK-BRIEF.md` ("The reviews"). Raw pulls are in
 - **Prostaglandin** (say "pross-ta-GLAN-din"): a family of drug-like ingredients first used in glaucoma eye drops. They make lashes grow much longer, but can darken eyelids, change eye colour and thin the fat around the eye. Latisse is the prescription one. Some shop serums hide a cousin of it under a long chemical name such as "isopropyl cloprostenate".
 - **Prostaglandin-free / peptide serum**: a gentler serum built on **peptides** (short chains of protein building blocks), vitamins and plant extracts. Luxe is one of these. The results people describe are usually smaller and slower.
 - **Brand's own site**: the review box on the seller's own web shop. The seller runs it.
+- **Loox, Trustoo, Judge.me, Okendo, Yotpo**: the names of the review-box apps the shops use. They are named only so that each quote can be traced back.
+- **Latisse**: the prescription lash drug (its active ingredient is bimatoprost, a prostaglandin copy). **Careprost**: an Indian-made generic copy of Latisse's drug, bimatoprost.
+- **Castor oil**: a thick plant oil that people paint on their lashes at home, hoping they grow.
+- **Blepharitis**: red, itchy, crusty eyelid edges. **Stye**: a painful red bump on the edge of the eyelid, from a blocked, infected gland.
+- **Extensions**: single false lashes glued one by one onto your own. A **lash tech** is the person who glues them on.
+- **Words inside the quotes**, left as written: "falsies" = false lashes; "HG" = "holy grail", a favourite ever; "concealer" = skin-coloured makeup that hides marks; "Klarna" and "PayPal" = online payment services; "PG" = prostaglandin; "filler" and "PRF" = treatments a doctor injects under the skin; "mascara" = the black or brown paint brushed onto lashes for the day.
 
 ## 1. What the reviews tell us (simple English)
 
-1. **There is not much independent feedback on Luxe itself, but there are 85 pieces in total [M].** 81 are reviews in the Luxe web shops' own review boxes (67 on the German shop, plus a few on the Dutch, UK and US shops). 2 are YouTube video reviews, 1 is a passing mention in a video, and 1 is a YouTube comment. The 495 Amazon reviews could not be read: Amazon blocks this machine, and I did not try to get around it.
-2. **About half of the Luxe buyers say it worked (46 of 85) [M].** They describe longer and denser lashes, and friends, a boyfriend or a beautician noticing; Elke L. (68) is "often asked whether I have false lashes" (my translation). When they give a time, it is usually **3 to 5 weeks** (11 of 13). Several give the same tip: *take a photo before you start, or you won't notice the change.*
-3. **The German shop's box is the only place with unhappy Luxe buyers, and it has many [M].** Its 67 reviews average 4.0 stars, and **13 of them are 1-star** (about 1 in 5). In 12 Luxe reviews nothing happened, including after 4 weeks, "more than a month" and "3 months of daily use". 10 are about refunds or deliveries, not the liquid itself.
-4. **Luxe side effects are rare in these reviews, but they do appear [M].** Burning: 2 (one German buyer after 3 months, plus very dry eyes in the morning; and a YouTuber who used Latisse for 10 years and stopped after 5 nights because "it burned every time"). Allergic reaction: 1. "Didn't tolerate it well": 1. On the other side, 5 say it is gentle, including a YouTuber with "really sensitive" eyes: "I don't have any stinging in my eyes."
-5. **Only one Luxe reviewer gives an age over 50, and she is the strongest story [M].** Elke L., 68, German shop, 5 stars: her lashes were "so to speak, no longer existent", and "after about 3 weeks of Luxe serum the miracle began… I'm often asked whether I have false lashes" (my translation).
-6. **The prostaglandin-free rivals (Vegamour, Babe Renewing, The Ordinary and others, 104 reviews) show the same pattern as Luxe [M].** Many say it works, but slowly. Often the change is **"thicker, less shedding" rather than "longer"** (15). It did nothing for 21. Side effects are mild and fewer: stinging (7), redness or itch (8), allergic swelling (3), dry eyes (4). The scary ones (darker lids, hollow eyes) mostly refer to an *earlier* prostaglandin serum the person had used.
-7. **The prostaglandin serums (Latisse, GrandeLASH-MD, RevitaLash, Babe Essential, neuLASH, Careprost, 106 reviews) give the biggest results and the most side-effect stories [M].** People write "lashes hit my glasses" and "300 times thicker". But: redness and irritation 21, darker eyelids 9, hollow or sunken eyes 8, eye colour change 5, dry eyes or blurry vision 5. Some of these cleared after stopping; others "never went back".
-8. **Women over 50 and 60 (27 reviews) do report results, with both kinds of serum [M].** Ages 54 to 77: "I'm 76 years old and my lashes look and feel like they did when I was in high school" (Vegamour). "I'm 71!!" (RevitaLash). "I'm 61… for the first time have LONG, THICK lashes" (GrandeLASH). But one 70-year-old saw no growth after about 3 months on an oil serum, and wondered whether "my hair growth has slowed down generally". A woman over 70 says her hands are no longer steady enough for mascara.
-9. **When you stop, the gain fades [M].** This shows up in reviews of every type: "the process of growing slows down when you stop" (The Ordinary). "It is true that after you stop using it, your hair game will get back to normal" (an unnamed Amazon serum). It works only while you keep using it, so the price over a year matters to buyers (29 price or value comments).
-10. **Fear is the loudest voice in the comments [M].** 37 comments are afraid of side effects or ask "which safe one actually works?". The most-liked ones: "I decided my lashes were ok as is" (1.5K likes); "Can you share brands that are safer…" (334 likes).
-11. **My reading [R]:** the reviews describe Luxe as a typical prostaglandin-free serum. For many buyers it gives a modest change in about a month, it is gentle for most, and a minority get nothing. Set expectations at "fuller and healthier-looking, slowly", not "Latisse results". Sensitive eyes should test it first: the two worst Luxe stories are about burning.
+1. **There is not much feedback on the Luxe serum itself: 93 pieces in total [M].** 88 are in the Luxe web shops' own review boxes: 67 in the German shop's lash-serum box, 6 more from its lash-and-brow "serum bundle" box, 7 from its second box, 3 on the Dutch shop, 1 on the UK shop and 4 on the US shop. 4 are YouTube video reviews (two real tests, one passing mention and one that reads like a sponsored script), and 1 is a YouTube comment. The 495 Amazon reviews could not be read: Amazon blocks this machine, and I did not try to get around it. The other Luxe country shops (fr.luxe.com, no.luxe.com, sa.luxe.com, luxecosmetics.mx) turned out to be the US shop in other languages, with the same reviews. I found no other Luxe review feeds, so there are no more long Luxe stories to add.
+2. **About half of the Luxe buyers say it worked (50 of 93) [M].** That is 49 tagged "worked", plus 1 (L-T2, "somewhat denser lashes") counted only as "thicker / less shedding"; this is why the "It worked" row in table 2.3 says 49. They describe longer and denser lashes, and friends, a boyfriend or a beautician noticing; Elke L. (68) is "often asked whether I have false lashes" (my translation). When they give a time, it is usually **3 to 5 weeks** (11 of 13). Several give the same tip: *take a photo before you start, or you won't notice the change.*
+3. **Some Luxe buyers saw nothing [M].** The German shop's lash-serum box has 67 reviews, averaging 4.0 stars, with 13 one-star reviews. In 12 Luxe reviews nothing happened, including after 4 weeks, "more than a month" and "3 months of daily use". (10 Luxe reviews also, or only, talk about orders, deliveries or refunds. They are counted, but that part of their text is left out, because it is not about the serum.)
+4. **What Luxe looks and feels like, in buyers' words [M].** Clear, put on "like an eyeliner" along the lash line (L-59, L-Y2). "It has no smell of its own" (L-59, my translation). One says her lashes only got "sticky" (L-29). A US buyer of the lash-and-brow set: "Love the way it feels" (L-S4).
+5. **Luxe side effects are rare in these reviews, but they do appear [M].** Burning: 2 (a German buyer after 3 months, with "very dry eyes in the morning"; and a YouTuber who had used Latisse for 10 years and stopped after 5 nights because "it burned every time"). Allergic reaction: 1. "Didn't tolerate it well", with no detail: 1. On the other side, 6 say it is gentle, including a YouTuber with "really sensitive" eyes: "I don't have any stinging in my eyes."
+6. **Only one Luxe reviewer gives an age over 50, and she is the strongest story [M].** Elke L., 68, German shop, 5 stars: her lashes were "so to speak, no longer existent", and "after about 3 weeks of Luxe serum the miracle began… I'm often asked whether I have false lashes" (my translation).
+7. **The prostaglandin-free rivals (175 reviews: Vegamour, Sweed, Babe Renewing, The Ordinary and others) show the same pattern as Luxe [M].** Many say it works (108), but slowly. Often the change is **"thicker, less shedding" rather than "longer"** (17). It did nothing for 27. Side effects are milder and fewer: stinging (7), redness or itch (14), allergic swelling (4), dry eyes (4). The scary ones (darker lids 9, hollow eyes 3) mostly refer to an *earlier* prostaglandin serum the person had used.
+8. **The prostaglandin serums (Latisse, GrandeLASH-MD, RevitaLash, Babe Essential, neuLASH, Careprost; 106 reviews) give the biggest results and the most side-effect stories [M].** People write "lashes hit my glasses" and "300 times thicker". But: redness and irritation 21, darker eyelids 9, hollow or sunken eyes 8, eye colour change 5, dry eyes or blurry vision 5. Some of these cleared after stopping; others "never went back".
+9. **Women 50 and over: 84 reviews [M], 69 of them about prostaglandin-free serums.** This counts ages written in the text and the age the reviewer picked on Vegamour's and Sweed's review forms (55-64 or 65+ on Vegamour; 51-60, 51-60+ or 61-70+ on Sweed). Ages written in the text run from 50 to 87. Of the 69 prostaglandin-free ones, 49 say it worked, 7 saw nothing and 3 say it is too early. Examples: "Oh!!! By the way I am 87 years old" (Dorothy F., after heart-surgery hair loss, Vegamour); "I am 79… It totally works" (Joan, Sweed); "I'm 75 years old so I'm not gonna have the lashes I did when I was younger, but the ingredients… don't cause the dreaded darkness" (Dolores D., Vegamour). Against: "do not see any eyelash growth" (Melanie W., 51-60, Sweed); "very little progress" (Irene C., 61-70+, Sweed); "my eyes became scratchy and dry and I had to stop… Could be my age" (MaryAnn F., 65+, Vegamour); red, swollen lids the next morning (Kelly, 51-60, Sweed).
+10. **The whole review sets, not just my picks, lean positive for older women on these two rivals [M].** Of the 112 Sweed reviewers who chose an age group of 51 or over, 101 gave 5 stars, 4 gave 4, 4 gave 3 and 3 gave 1. Of the 58 Vegamour reviewers who chose 55-64 or 65+, 38 gave 5 stars, 10 gave 4, 6 gave 3, 2 gave 2 and 2 gave 1. [R] These are the brands' own review boxes, so they show what the brand displays.
+11. **When you stop, the gain fades [M].** This shows up in reviews of every type: "the process of growing slows down when you stop" (The Ordinary). "It is true that after you stop using it, your hair game will get back to normal" (an unnamed Amazon serum). It works only while you keep using it, so the price over a year matters to buyers (40 price or value comments).
+12. **Fear is the loudest voice in the comments [M].** 41 comments are afraid of side effects or ask "which safe one actually works?". The most-liked ones: "I decided my lashes were ok as is" (1.5K likes); "Can you share brands that are safer…" (334 likes). 4 more rival-site reviews say "I was afraid… then it worked" (R-018, R-265, R-421, R-523); they are not in this count, which would be about 45 with them.
+13. **My reading [R]:** the reviews describe Luxe as a typical prostaglandin-free serum. For many buyers it gives a modest change in about a month, it is gentle for most, and a minority get nothing. Set expectations at "fuller and healthier-looking, slowly", not "Latisse results". Sensitive eyes should test it first: the two worst Luxe stories are about burning.
 
 ## 2. The counts
 
@@ -28,26 +36,27 @@ Collected 2026-10-31 for `packs/PACK-BRIEF.md` ("The reviews"). Raw pulls are in
 
 | Source | Luxe Eyelash Serum | Prostaglandin-free rivals | Prostaglandin rivals | Lash serums in general, castor oil, unnamed | All |
 |---|---:|---:|---:|---:|---:|
-| Brand's own store review widgets | 81 | 0 | 0 | 0 | 81 |
-| Rival brands' own store review widgets | 0 | 68 | 28 | 0 | 96 |
-| YouTube video reviews (transcripts) | 3 | 0 | 0 | 0 | 3 |
-| YouTube comments | 1 | 36 | 78 | 44 | 159 |
-| **Total** | 85 | 104 | 106 | 44 | **339** |
+| Brand's own store review widgets | 88 | 0 | 0 | 0 | 88 |
+| Rival brands' own store review widgets | 0 | 139 | 28 | 0 | 167 |
+| YouTube video reviews (transcripts) | 4 | 0 | 0 | 0 | 4 |
+| YouTube comments | 1 | 36 | 78 | 56 | 171 |
+| **Total** | 93 | 175 | 106 | 56 | **430** |
 
 Notes on the counts [M]:
-- **Luxe, brand's own sites (81):** luxecosmetics.de, 67 reviews in the Loox widget (all of them were read, pages 1 to 23, plus the full text of 6 that the grid cuts off; the site's own text is cut off in 4 of them); 7 more reviews only in the German shop's second widget (Trustoo, first page of 15 read); 3 on luxecosmetics.nl (Trustoo, first page of 15 read); 1 on luxe-cosmetics.uk (Judge.me, all 25 read); 3 on luxe.com (Judge.me, all 6 entries read: 3 are blank duplicates).
+- **Luxe, brand's own sites (88):** luxecosmetics.de, 67 reviews in the Loox box on the lash-serum page (all of them were read, pages 1 to 23, plus the full text of 6 that the grid cuts off; the site's own text is cut off in 4 of them); 6 more from the Loox box on the German "Luxe Seren Bundle Set" page (lash serum + brow serum: all 186 reviews read, pages 1 to 62; 67 are the lash-serum reviews already counted, and of the other 119 only these 6 mention the lashes, the rest are about the brow serum); 7 more reviews only in the German shop's second box (Trustoo, first page of 15 read); 3 on luxecosmetics.nl (Trustoo, first page of 15 read); 1 on luxe-cosmetics.uk (Judge.me, all 25 read); 4 on luxe.com (Judge.me: all 6 entries on the serum page, 3 of them blank, plus 1 of the 2 entries on the "Luxe Serum Bundle Set" page).
 - **12 of the German reviews also appear on the UK shop in English and on the Dutch shop in Dutch**, with the same names. Each is counted once and quoted in English where the English version exists.
-- **Rival brand sites (96):** quoted from 583 reviews read on 2026-10-31. They are Vegamour GRO Lash Serum (150 newest of 'shopify-6555775169', Okendo), Babe Original Essential (150: the 100 newest plus the 50 most-voted, of 9,680), Babe Original Renewing (all 196) and neuLASH (all 87). I chose detailed reviews, every review that gave an age or said "older" or "menopause", and every low-star review with a reason.
-- **YouTube (163):** comments pulled with NexLev from 21 videos (14 pulled this round and 8 reused from round 1, with one video in both), and the full transcripts of the 2 Luxe review videos. Off-topic comments (praise for the creator, other products) were left out.
-- **Not found:** Amazon review text (the bot check blocks it); Luxe's public Loox store page (loox.io/s/4kWOkvCs9n returned 403 "Crawling behavior detected", not retried); the Loox widgets on luxe.com, .nl and .uk ("Loox reviews is uninstalled"); Trustoo pages 2 to 5 (no plain page link to them); Lashfood (its Judge.me returned 0 reviews); GrandeLASH's own site (HTTP 503, not retried); VieBeauty (no review data found on its page). Reddit was not tried (blocked).
+- **Rival brand sites (167):** chosen from 2,497 reviews read on 2026-10-31. They are Vegamour GRO Lash Serum (all 498 reviews the Okendo feed returned, 2018-11 to 2026-10), Sweed Eyelash Growth Serum (all 1,566, Yotpo), Babe Original Essential (150: the 100 newest plus the 50 most-voted, of 9,680), Babe Original Renewing (all 196) and neuLASH (all 87). I chose detailed reviews, every review that gave an age, an older age group, "older" or "menopause", and every low-star review with a reason.
+- **YouTube (175):** comments pulled with NexLev from 22 videos, and the transcripts of the 3 Luxe review videos. Off-topic comments (praise for the creator, other products) were left out.
+- **Not found or not reached:** Amazon review text (the bot check blocks it); Luxe's public Loox store page (loox.io/s/4kWOkvCs9n returned 403 "Crawling behavior detected", not retried); the Loox widgets on luxe.com, .nl and .uk ("Loox reviews is uninstalled"); Trustoo pages 2 to 5 on the German and Dutch shops (there is no plain page link: the widget fetches them with a signed request made by its own script, so I did not try); Trustpilot's Luxe pages (403, not retried); other Luxe domains (luxecosmetics.se answered "402", luxecosmetics.com and .co.uk are parked pages, the others did not connect); Lashfood (its Judge.me returned 0 reviews); GrandeLASH's own site (HTTP 503, not retried); VieBeauty (no review data found on its page). Reddit was not tried (blocked).
 
 ### 2.2 By exact product
 
 | Product | Reviews or comments |
 |---|---:|
-| Luxe | 85 |
-| Other or unnamed (castor oil, glaucoma drops, RapidLash, Dermelect, UK Lash, Eye Envy, Lilash, serums in general) | 64 |
-| Vegamour | 42 |
+| Luxe | 93 |
+| Other or unnamed (castor oil, glaucoma drops, Reviv, RapidLash, Dermelect, UK Lash, Eye Envy, Lilash, M2 Beaute, serums in general) | 76 |
+| Vegamour | 67 |
+| Sweed | 46 |
 | The Ordinary | 34 |
 | Babe Original Renewing | 27 |
 | GrandeLASH | 21 |
@@ -62,49 +71,54 @@ Notes on the counts [M]:
 
 One review can count under several themes. A side-effect count means the review *mentions* that side effect; in a few rival reviews it is about an earlier serum the person used (the quote says which).
 
+- **"It worked" for Luxe:** the row says 49; the summary's "50" adds L-T2, which is counted only under "thicker / less shedding".
+- **L-14** (Kim N.) wrote "nicht so gut vertragen" ("didn't tolerate it well"), with no redness or itch, so she has her own row rather than "redness".
+- **Before-and-after stories are thin, and this is true to the data.** There is no separate before-and-after count: such stories sit in "Other people noticed, or before-and-after photos" (18). The shops' review boxes show customer photos, but this file quotes text only, and Amazon's photo reviews cannot be reached. Several reviewers say they never took a "before" photo (for example L-B2, R-608, R-702).
+
 | Theme | Luxe Eyelash Serum | Prostaglandin-free rivals | Prostaglandin rivals | Lash serums in general, castor oil, unnamed | All |
 |---|---:|---:|---:|---:|---:|
-| It worked: longer, fuller or regrown lashes | 45 | 52 | 48 | 6 | 151 |
-| Thicker or fuller, or less shedding, but not much longer | 5 | 15 | 2 | 1 | 23 |
-| No result, or too little to matter | 12 | 21 | 4 | 2 | 39 |
-| Too early to tell | 7 | 2 | 2 | 0 | 11 |
-| Short praise with no detail | 11 | 0 | 0 | 0 | 11 |
-| Side effect: burning or stinging | 2 | 7 | 3 | 0 | 12 |
-| Side effect: redness, itching or irritation | 1 | 8 | 21 | 5 | 35 |
-| Side effect: allergic reaction or swelling | 1 | 3 | 0 | 1 | 5 |
-| Side effect: dry eyes or blurred vision | 1 | 4 | 5 | 1 | 11 |
-| Side effect: darker eyelids or under-eyes | 0 | 3 | 9 | 2 | 14 |
-| Side effect: fat loss, hollow or sunken eyes | 0 | 1 | 8 | 0 | 9 |
+| It worked: longer, fuller or regrown lashes | 49 | 108 | 48 | 9 | 214 |
+| Thicker or fuller, or less shedding, but not much longer | 6 | 17 | 2 | 1 | 26 |
+| No result, or too little to matter | 12 | 27 | 4 | 3 | 46 |
+| Too early to tell | 10 | 5 | 2 | 2 | 19 |
+| Short praise with no detail | 12 | 0 | 0 | 0 | 12 |
+| Side effect: burning or stinging | 2 | 7 | 3 | 2 | 14 |
+| Side effect: redness, itching or irritation | 0 | 14 | 21 | 8 | 43 |
+| Side effect: "didn't tolerate it", no detail given (L-14) | 1 | 0 | 0 | 0 | 1 |
+| Side effect: allergic reaction or swelling | 1 | 4 | 0 | 1 | 6 |
+| Side effect: dry eyes or blurred vision | 1 | 4 | 5 | 2 | 12 |
+| Side effect: darker eyelids or under-eyes | 0 | 9 | 9 | 3 | 21 |
+| Side effect: fat loss, hollow or sunken eyes | 0 | 3 | 8 | 1 | 12 |
 | Side effect: puffy or heavy lids | 0 | 2 | 0 | 0 | 2 |
 | Side effect: eye colour change | 0 | 0 | 5 | 1 | 6 |
-| Side effect: lashes fell out, broke or grew wrong | 0 | 4 | 3 | 3 | 10 |
-| Side effect: styes, infections, bumps or blepharitis | 0 | 0 | 3 | 3 | 6 |
-| No side effects, gentle on sensitive eyes | 5 | 18 | 14 | 1 | 38 |
-| Ease of use, brush, texture, smell, routine | 11 | 6 | 5 | 2 | 24 |
-| After stopping or switching | 1 | 16 | 16 | 3 | 36 |
-| Stopped working over time | 0 | 1 | 1 | 1 | 3 |
-| Price, value, how long a tube lasts | 5 | 8 | 12 | 4 | 29 |
-| Women who say they are 50+, menopausal or older | 1 | 12 | 12 | 2 | 27 |
-| Problem before: lashes damaged by extensions, glue, lifts or curlers | 5 | 5 | 7 | 4 | 21 |
-| Problem before: lash loss from chemo, illness, alopecia, pregnancy or medicine | 0 | 12 | 8 | 3 | 23 |
-| Problem before: thin, short or sparse lashes with age | 0 | 3 | 1 | 2 | 6 |
-| Other people noticed, or before-and-after photos | 9 | 1 | 3 | 0 | 13 |
-| Afraid of side effects, or asking which serum is safe | 0 | 11 | 10 | 16 | 37 |
-| Ingredient talk: what is or is not in it | 0 | 3 | 5 | 0 | 8 |
+| Side effect: lashes fell out, broke or grew wrong | 0 | 5 | 3 | 3 | 11 |
+| Side effect: styes, infections, bumps or blepharitis | 0 | 1 | 3 | 3 | 7 |
+| No side effects, gentle on sensitive eyes | 6 | 41 | 14 | 3 | 64 |
+| Ease of use, brush, texture, smell, routine | 13 | 17 | 5 | 2 | 37 |
+| After stopping or switching | 1 | 28 | 16 | 6 | 51 |
+| Stopped working over time | 0 | 2 | 1 | 1 | 4 |
+| Price, value, how long a tube lasts | 6 | 17 | 12 | 5 | 40 |
+| Women 50 or over (age in the text, or 55-64 / 65+ on Vegamour's form, or 51+ on Sweed's form), menopausal or older | 1 | 69 | 12 | 2 | 84 |
+| Problem before: lashes damaged by extensions, glue, lifts or curlers | 5 | 9 | 7 | 4 | 25 |
+| Problem before: lash loss from chemo, illness, alopecia, pregnancy or medicine | 0 | 22 | 8 | 4 | 34 |
+| Problem before: thin, short or sparse lashes with age | 0 | 13 | 1 | 3 | 17 |
+| Other people noticed, or before-and-after photos | 9 | 6 | 3 | 0 | 18 |
+| Afraid of side effects, or asking which serum is safe | 0 | 11 | 10 | 20 | 41 |
+| Ingredient talk: what is or is not in it | 0 | 3 | 5 | 1 | 9 |
 | Glaucoma eye drops (same drug family as Latisse) | 0 | 0 | 4 | 0 | 4 |
-| Castor oil and home remedies | 0 | 0 | 2 | 12 | 14 |
-| Ordering, delivery or refund problems (not the formula) | 10 | 0 | 0 | 0 | 10 |
-| **Reviews and comments in the group** | **85** | **104** | **106** | **44** | **339** |
+| Castor oil and home remedies | 0 | 0 | 2 | 14 | 16 |
+| Ordering, delivery or refund problems (not the formula; text left out) | 10 | 0 | 0 | 0 | 10 |
+| **Reviews and comments in the group** | **93** | **175** | **106** | **56** | **430** |
 
 ### 2.4 How long results took (reviews that said it worked)
 
 | Time to first results | Luxe Eyelash Serum | Prostaglandin-free rivals | Prostaglandin rivals | Lash serums in general, castor oil, unnamed |
 |---|---:|---:|---:|---:|
-| 2 weeks or less | 1 | 6 | 3 | 1 |
-| 3-5 weeks | 11 | 11 | 3 | 1 |
-| 6-12 weeks | 1 | 5 | 2 | 0 |
-| over 3 months | 0 | 1 | 3 | 1 |
-| not stated | 33 | 37 | 38 | 4 |
+| 2 weeks or less | 1 | 11 | 3 | 1 |
+| 3-5 weeks | 11 | 20 | 3 | 1 |
+| 6-12 weeks | 1 | 8 | 2 | 0 |
+| over 3 months | 0 | 2 | 3 | 1 |
+| not stated | 37 | 77 | 38 | 7 |
 
 ### 2.5 Star ratings shown on the Luxe pages [M]
 
@@ -112,23 +126,22 @@ One review can count under several themes. A side-effect count means the review 
 |---|---|---|
 | Amazon B0C21JM5PY | 4.0 out of 5, 495 ratings; review text not readable | `data/amazon-B0C21JM5PY-2026-10-31.txt`, 2026-10-31 |
 | luxecosmetics.de, Loox box | 4.0 from 67: 40 five-star, 11 four-star, 2 three-star, 1 two-star, **13 one-star** (all 67 read) | `loox-de-8422167118105-*.html` |
+| luxecosmetics.de, lash + brow serum bundle box (Loox) | 4.3 from 186: 115 five-star, 48 four-star, 5 three-star, 1 two-star, 17 one-star (all 186 read; 67 are the lash-serum reviews above, almost all the rest are about the brow serum) | `round3/loox-de-8422165119257-*.html` |
 | luxecosmetics.de, second box (Trustoo) | 4.72 from 64: 46 five-star, 18 four-star, no 1- to 3-star | `trustoo-luxecosmetics-de-p1-2026-10-31.json` |
 | luxecosmetics.nl (Trustoo) | 4.61 from 46: 34 five, 10 four, 2 one-star | `luxecosmetics-nl-wimperserum-page-2026-10-31.html` |
 | luxe-cosmetics.uk (Judge.me) | badge 4.83 from 77; the widget returned 25 entries (13 different reviews) | `judgeme-uk-*.json` |
 | luxe.com (Judge.me) | 5.0 from 6 (3 have text) | `judgeme-us-*.json` |
 
-The two German boxes show the same product with very different star mixes; the Loox box is the one that includes the complaints. [M]
+**How to read each quote:** the code (L- = Luxe, R- = a rival's own site, Y- = YouTube), the exact product, the stars or likes, the reviewer's name, the stated age (only if they gave it; on Vegamour and Sweed also the age group the reviewer picked on the review form, and on Sweed her skin type), the date, and the source with a link. German, Dutch, Italian and French reviews are quoted in the original, with my translation underneath. "Themes" shows every theme the review was counted under. YouTube comment dates are the tool's conversion of "3 years ago" and are approximate.
 
-**How to read each quote:** the code (L- = Luxe, R- = a rival's own site, Y- = YouTube), the exact product, the stars or likes, the reviewer's name, the stated age (only if they gave it), the date, and the source with a link. German and Dutch reviews are quoted in the original, with my translation underneath. "Themes" shows every theme the review was counted under. YouTube comment dates are the tool's conversion of "3 years ago" and are approximate.
+**Each quote is listed once**, in sections 3 to 7, under the main point it makes. Codes from L-B1, L-S4, L-Y5, R-601, R-701 and Y-201 onward were added on 2026-10-31 in a third pull. The counts in section 2.3 include every theme a review touches, so they are larger than the headings below. "Time to results" is filled in only when the reviewer says when they first saw a change.
 
-**Each quote is listed once**, in sections 3 to 7, under the main point it makes. The counts in section 2.3 include every theme a review touches, so they are larger than the headings below. "Time to results" is filled in only when the reviewer says when they first saw a change.
-
-## 3. The Luxe Eyelash Serum itself (85)
+## 3. The Luxe Eyelash Serum itself (93)
 
 Every review of the Luxe serum that could be read, from any source. They are grouped by the main point each one makes. Most are from the German shop, where the product is sold as "Luxe Wimpernserum" (wimpern = eyelashes). The formula is the one listed in `04-eyelash-serum.md` (peptides, biotin, ginseng, no prostaglandin). No Luxe reviewer said which country store's bottle, size or batch they had, except the two YouTubers, who show the 3 mL Amazon box.
 
 
-### It worked: longer, fuller or regrown lashes (42)
+### It worked: longer, fuller or regrown lashes (46)
 
 **L-01** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 5/5 stars · Rebekka S. · 2024-11-04 (date shown on another Luxe review box for the same review) · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
@@ -186,7 +199,7 @@ Themes: worked · others noticed / photos · Time to results: 3-5 weeks
 
 **L-08** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 4/5 stars · Hanna U. · 2022-06-12 (date shown on another Luxe review box for the same review) · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews); the same review appears in English on luxe-cosmetics.uk (Judge.me) and in Dutch on luxecosmetics.nl (Trustoo) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Absolutely fantastic! I have been using it every day since 18 April. Daily use is crucial! One minus point because shipping took a little longer for me. Dhl screwed something up
+> Absolutely fantastic! I have been using it every day since 18 April. Daily use is crucial! [One sentence about the delivery left out: not about the serum.]
 
 Themes: worked · ordering / refund
 
@@ -425,10 +438,9 @@ Themes: worked
 
 **L-T4** · *Luxe Eyelash Serum* · 4/5 stars · Andrea K. · 2023-01-25 · brand's own site: luxecosmetics.de product page (Trustoo widget) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Funktioniert überraschend gut. 
-> Leider hat die letzte Lieferung sehr sehr lange gedauert, dass mir in der Zwischenzeit die letzten Produkte ausgegangen sind. Ich war immer eine viel schnellere Lieferung gewohnt.  Lag wahrscheinlich an Weihnachten und die Feiertage.
+> Funktioniert überraschend gut. [...]
 >
-> *My translation:* Works surprisingly well. / Unfortunately the last delivery took very, very long, so that in the meantime I ran out of the last products. I was always used to much faster delivery. Probably because of Christmas and the holidays.
+> *My translation:* Works surprisingly well. [The rest is about a slow delivery, left out: not about the serum.]
 
 Themes: worked · ordering / refund
 
@@ -462,6 +474,38 @@ Themes: worked
 
 Themes: worked · extension damage · Time to results: 3-5 weeks
 
+**L-B1** · *Luxe brow serum review that also reports on the lashes (German 'Luxe Seren Bundle Set' box; the photo is tagged 'Luxe Augenbrauenserum')* · 5/5 stars · Sabrina G. · date not shown (photo file dated 2023-07-16) · brand's own site: luxecosmetics.de serum-bundle page (Loox widget, 186 reviews: the 67 lash-serum reviews already in this section plus 119 others, almost all about the brow serum) ([link](https://luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum))
+
+> Wirklich gut! Die Wimpern und Augenbrauen wachsen tatsächlich!
+>
+> *My translation:* Really good! The lashes and brows really do grow!
+
+Themes: worked
+
+**L-B2** · *Luxe brow serum review that also covers the Luxe lash serum (German 'Luxe Seren Bundle Set' box; the photo is tagged 'Luxe Augenbrauenserum')* · 5/5 stars · Jenny S. · date not shown (photo file dated 2023-07-16) · brand's own site: luxecosmetics.de serum-bundle page (Loox widget, 186 reviews: the 67 lash-serum reviews already in this section plus 119 others, almost all about the brow serum) ([link](https://luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum))
+
+> Von nicht vorhandenen Augenbrauen bis hin zu sehr dicken Augenbrauen. Ich bin verliebt in dieses Luxe Serum. Auch das Serum für die Wimpern. Ich habe zwar keine Bilder, um zu beweisen, dass das Luxe Wimpernserum funktioniert, aber es funktioniert wirklich. Ich bin sehr glücklich und sehr zufrieden.
+>
+> *My translation:* From non-existent brows to very thick brows. I'm in love with this Luxe serum. Also the serum for the lashes. I don't have pictures to prove that the Luxe lash serum works, but it really does work. I'm very happy and very satisfied.
+
+Themes: worked
+
+**L-B3** · *Luxe lash serum, reviewed in the German 'Luxe Seren Bundle Set' box (lash serum + brow serum)* · 5/5 stars · Franziska T. · date not shown · brand's own site: luxecosmetics.de serum-bundle page (Loox widget, 186 reviews: the 67 lash-serum reviews already in this section plus 119 others, almost all about the brow serum) ([link](https://luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum))
+
+> Spitze, habe schon viele Andere ausprobiert, dieses Serum hält wirklich was es verspricht, werde ich bei bleiben, top. Noch nie solange und dichte Wimpern gehabt.
+>
+> *My translation:* Great, I've already tried many others, this serum really does what it promises, I'll stick with it, top. Never had such long and dense lashes.
+
+Themes: worked
+
+**L-Y5** · *Luxe Eyelash Serum (3 mL, the Amazon one)* · video review, 6 views · 'Shopping Review' channel (no face or name; the description says "Sponsored Amazon link") · about 2026-03 ('7mo ago') · YouTube video coZYl1p8HmA (transcript) ([link](https://www.youtube.com/watch?v=coZYl1p8HmA))
+
+> Luxe Cosmetics Eyelash Serum has become a staple in my beauty routine and I can confidently say that this 3ml serum has delivered impressive results. From the moment I started using it, I noticed a difference in the length and thickness of my lashes, something that many products often promise but rarely deliver. The application process is straightforward and convenient. The serum comes in a sleek, easy to handle tube with a precision applicator that allows for effortless application along the lash line. The serum has a lightweight, non-sticky formula that glides on smoothly without any irritation. I appreciate that it didn't make my eyes feel heavy or greasy, which is a common issue with some other lash serums. Within just a few weeks of consistent use, I began to see visible changes. My lashes appeared not only longer, but also noticeably fuller, giving my eyes a more striking and captivating look. I was pleasantly surprised to find that my lashes felt stronger and healthier, reducing the amount of fallout when I applied mascara or removed my makeup. Another noteworthy aspect of Luxe Cosmetics eyelash serum is its formulation. It's infused with nourishing ingredients like peptids and botanical extracts which not only promote growth but also condition the lashes. This dual action ensures that while I'm working on lengthening my lashes, I'm also enhancing their overall health. Despite being a bit on the pricier side compared to some drugstore options, the results justify the investment. A little goes a long way, so I expect this 3ml tube to last for several months. Overall, Lux Cosmetics eyelash serum is a reliable and effective choice for anyone looking to enhance their lashes naturally. If you're in search of a product that lives up to its promises, this serum is worth trying. The visible results have transformed my lashes, making it a beauty essential that I will continue to repurchase.
+
+[R] This reads like a scripted review: it never says how long the person used it or shows their lashes in the transcript. Treat it as weak evidence.
+
+Themes: worked · ease of use · no side effects · thicker / less shedding · price / value
+
 ### Thicker or fuller, or less shedding, but not much longer (2)
 
 **L-55** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 5/5 stars · Lisa O. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
@@ -484,11 +528,11 @@ Themes: thicker / less shedding
 
 **L-14** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Kim N. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Das Serum hat bei mir nichts bewirkt und ich hab es leider nicht so gut vertragen. Ich habe dann dem Kundenservice innerhalb der 30 Tage Rückgabefrist geschrieben, dass ich es gerne zurück erstattet bekommen wollen würde, weil diese Option auf der Seite angeboten wird. Aber ich hab keine Antwort bekommen. Also ist es eigentlich ein Betrug, dass die auf deren Seite schreiben, dass man das Geld zurückbekommt innerhalb der 30 Tage. Ich bin leider sehr enttäuscht darüber.
+> Das Serum hat bei mir nichts bewirkt und ich hab es leider nicht so gut vertragen. [Der Rest betrifft eine Rückerstattung.]
 >
-> *My translation:* The serum did nothing for me and unfortunately I didn't tolerate it very well. I then wrote to customer service within the 30-day return period that I would like a refund, because this option is offered on the site. But I got no answer. So it is actually a fraud that they write on their site that you get your money back within 30 days. I'm very disappointed about this.
+> *My translation:* The serum did nothing for me and unfortunately I didn't tolerate it very well. [The rest of the review is about a refund request, left out: not about the serum.]
 
-Themes: no result · redness / itching · ordering / refund
+Themes: no result · didn't tolerate (no detail) · ordering / refund
 
 **L-15** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Miriam G. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
@@ -500,9 +544,9 @@ Themes: no result
 
 **L-16** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Carola G. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Dieses Serum taugt bei mir nicht, ich streite mich jetzt schon seit Wochen mit euch rum. Wann schliesst ihr meinen Fall bei Klarna endlich ab ?? Bitte schickt mir einen Retourenschein zu !!!
+> Dieses Serum taugt bei mir nicht, [...]
 >
-> *My translation:* This serum doesn't work for me, I've been arguing with you for weeks now. When will you finally close my case at Klarna?? Please send me a return label!!!
+> *My translation:* This serum doesn't work for me, [...] [The rest is about a return, left out: not about the serum.]
 
 Themes: no result · ordering / refund
 
@@ -524,19 +568,17 @@ Themes: no result · burning · dry eye / blurry
 
 **L-20** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Jasmin H. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Ich habe bei Luxe Cosmetics ein Wimpernserum bestellt und mich von der 30-Tage-Geld-zurück-Garantie überzeugen lassen. Leider hat das Produkt bei mir keinerlei Wirkung gezeigt. Also habe ich – wie in den AGBs beschrieben – fristgerecht widerrufen und die Ware (auf eigene Kosten!) zurückgeschickt.
+> [...] Leider hat das Produkt bei mir keinerlei Wirkung gezeigt. [...]
 >
-> Doch die Rücksendung wurde nicht angenommen. Seitdem gibt es nur Hinhalte-Mails vom Kundenservice, unter anderem von einer „Monica“, die sich zwar bemüht gibt, aber keine Lösung bietet. Der Fall bei Pa...
->
-> *My translation:* I ordered a lash serum from Luxe Cosmetics and let myself be persuaded by the 30-day money-back guarantee. Unfortunately the product showed no effect at all for me. So, as described in the terms and conditions, I withdrew in time and sent the goods back (at my own cost!). / But the return was not accepted. Since then there have only been stalling emails from customer service, among them from a 'Monica', who seems to be trying but offers no solution. The case at Pa... [cut off on the site]
+> *My translation:* [...] Unfortunately the product showed no effect at all for me. [...] [The rest is about a return and refund, left out: not about the serum.]
 
 Themes: no result · ordering / refund
 
 **L-22** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Ulrike L. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Bei mir hat das Serum nicht gewirkt. Ich wollte die Ware zurückschicken, hab das auch gemacht u da kam sie wieder zurück zu mir mit der Nachricht Empfänger verzogen. Das ist Betrug. Leute lasst die Finger davon. Ihr bekommt euer Geld nicht zurück. Ich werde Anzeige erstatten wegen Betrugs u falschen Angaben. Die haben mir eine falsche Rücksendeadresse geschickt.
+> Bei mir hat das Serum nicht gewirkt. [...]
 >
-> *My translation:* The serum didn't work for me. I wanted to send the goods back, did so, and it came back to me with the message 'recipient moved'. That is fraud. People, keep your hands off it. You won't get your money back. I will file a complaint for fraud and false information. They sent me a wrong return address.
+> *My translation:* The serum didn't work for me. [...] [The rest is about a return, left out: not about the serum.]
 
 Themes: no result · ordering / refund
 
@@ -580,7 +622,7 @@ Themes: no result
 
 Themes: no result
 
-### Too early to tell (7)
+### Too early to tell (10)
 
 **L-26** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 5/5 stars · Manuela G. · 2025-02-04 (date shown on another Luxe review box for the same review) · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
@@ -639,7 +681,29 @@ Themes: too early
 
 Themes: too early · ease of use
 
-### Short praise with no detail (11)
+**L-B4** · *Luxe lash serum and brow serum, used together (German 'Luxe Seren Bundle Set' box)* · 4/5 stars · Brigitte K. · date not shown · brand's own site: luxecosmetics.de serum-bundle page (Loox widget, 186 reviews: the 67 lash-serum reviews already in this section plus 119 others, almost all about the brow serum) ([link](https://luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum))
+
+> Ich wende das Augenbrauenserum und Wimpernserum ja erst seit kurzer Zeit an. Ich kann mich dazu noch nicht äußern.
+>
+> *My translation:* I've only been using the brow serum and lash serum for a short time. I can't say anything about it yet.
+
+Themes: too early
+
+**L-B5** · *Luxe lash serum and brow serum, used together (German 'Luxe Seren Bundle Set' box)* · 4/5 stars · Birgit M. · date not shown · brand's own site: luxecosmetics.de serum-bundle page (Loox widget, 186 reviews: the 67 lash-serum reviews already in this section plus 119 others, almost all about the brow serum) ([link](https://luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum))
+
+> [Erster Teil über eine Lieferung ausgelassen.] Zu der Wirkung der Produkte, Wimpern- und Augenbrauenserum kann ich noch nicht viel sagen. Nutze es erst seit kurzem. Sobald ich die Wirkung beurteilen kann, schreibe ich eine weitere Beurteilung.
+>
+> *My translation:* [First part, about a delivery, left out: not about the serum.] I can't say much yet about the effect of the products, lash and brow serum. I've only been using it for a short time. As soon as I can judge the effect, I'll write another review.
+
+Themes: too early
+
+**L-S4** · *Luxe Serum Bundle Set (lash serum + brow serum), US shop* · 5/5 stars · Debby L. · 2024-12-25 · brand's own site: luxe.com (Judge.me widget for the 'Luxe Serum Bundle Set', 2 entries, 1 with text) ([link](https://luxe.com/products/lash-brow-serum-set))
+
+> Love the way it feels.  To early to tell if it us working yet.
+
+Themes: too early · ease of use
+
+### Short praise with no detail (12)
 
 **L-30** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 5/5 stars · Iris H. · 2024-11-29 (date shown on another Luxe review box for the same review) · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
@@ -723,6 +787,14 @@ Themes: short praise
 
 Themes: short praise
 
+**L-B6** · *Luxe brow serum review by a Luxe lash-serum user (German 'Luxe Seren Bundle Set' box)* · 5/5 stars · Sonja R. · date not shown · brand's own site: luxecosmetics.de serum-bundle page (Loox widget, 186 reviews: the 67 lash-serum reviews already in this section plus 119 others, almost all about the brow serum) ([link](https://luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum))
+
+> Ich hab es mir bestellt weil ich auch das Luxe Wimpernserum hab und damit super happy bin. Ich hätte nicht gedacht das es auch bei den Augenbrauen funktioniert. 5 sterne
+>
+> *My translation:* I ordered it because I also have the Luxe lash serum and am super happy with it. I wouldn't have thought it also works on the brows. 5 stars
+
+Themes: short praise
+
 ### Side effect: burning or stinging (1)
 
 **L-Y1** · *Luxe Eyelash Serum (3 mL, the Amazon one)* · video review, 47 views · 'Ageless! YouTube beauty for when you're not 20.' (presenter, age about 45-55 per a Gemini watch, not stated) · 2026-09-15 · YouTube video 12dTKpvKhyw (transcript) ([link](https://www.youtube.com/watch?v=12dTKpvKhyw))
@@ -735,9 +807,9 @@ Themes: burning · after stopping
 
 **L-21** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Christine W. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Habe leider auf das Produkt eine allergische Reaktion bekommen. Habe innerhalb der Rückgabefrist die Ware retour gesendet da war man mit mir noch in Kontakt. Ich warte seit einem Monat auf die Rückerstattung des Betrages von € 59,90 und seit einem Monat nach mehrmaligen Mails keine Antwort bekommen. Ich glaube nicht dass Luxe Cosmetics das nötig hat.
+> Habe leider auf das Produkt eine allergische Reaktion bekommen. [Der Rest betrifft eine Rückerstattung.]
 >
-> *My translation:* Unfortunately I got an allergic reaction to the product. I sent the goods back within the return period, and at that point they were still in contact with me. I've been waiting a month for the refund of 59.90 euros and for a month, after several emails, I've had no answer. I don't think Luxe Cosmetics needs to do this.
+> *My translation:* Unfortunately I got an allergic reaction to the product. [The rest of the review is about a refund, left out: not about the serum.]
 
 Themes: allergy / swelling · ordering / refund
 
@@ -801,63 +873,57 @@ Themes: extension damage
 
 **L-25** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Renate R. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Die bstellte Menge war 3 x Serum
-> und auch bezahlt mittels pay pal.
-> Angekommen sind nur 2 x Serum,
-> die Nachsendung wurde zugesagt
-> aber es wurde bis dato nicht nachgeliefert.
-> Der Service ist nicht akzeptabel !!!
->
-> *My translation:* The quantity ordered was 3 x serum / and also paid via PayPal. / Only 2 x serum arrived, / the follow-up delivery was promised / but to date it has not been delivered. / The service is not acceptable!!!
+> [Quote left out. It is about an order, a delivery or a return, not about the serum itself.]
 
 Themes: ordering / refund
 
 **L-31** · *Luxe Eyelash Serum (German store: "Luxe Wimpernserum")* · 1/5 stars · Mario P. · date not shown · brand's own site: luxecosmetics.de product page (Loox widget, 67 reviews) ([link](https://luxecosmetics.de/products/wimpernserum))
 
-> Bereits mitgeteilt das ich das falsche für meine Frau bestellt habe und den Artikel zurücksenden möchte.
->
-> *My translation:* Already reported that I ordered the wrong thing for my wife and would like to return the item.
+> [Quote left out. It is about an order, a delivery or a return, not about the serum itself.]
 
 Themes: ordering / refund
 
 **L-Y4** · *Luxe lash serum* · comment, likes not shown · @eridelae (comment on Luxe Cosmetics' own video 'Luxe Eyelash Serum - Quick Explanation') · about 2025 · YouTube video yh0CqruLCVQ (comment, pulled in round 1) ([link](https://www.youtube.com/watch?v=yh0CqruLCVQ))
 
-> DONT BUY THIS PRODUCT!!! IT'S A SCAM. I BOIUGHT IT ON 26 OF NOVEMBER AND I HAVEN'T RECIEVED ANYTHING. THEY KEEP SENDING ME EMAILS THAT THE DELIVERY WASN'T POSSIBLE ... I TRIED TO WRITE TO THE EMAIL THEY HAVE FOR CUSTOMER SERVICE AND GOT NO ANSWER AT ALL!!!!
+> [Quote left out. It is about an order, a delivery or a return, not about the serum itself.]
 
 Themes: ordering / refund
 
-## 4. Women over 50 and 60, all products (26 more; the one Luxe reviewer over 50, L-17, is in section 3)
+## 4. Women over 50 and 60, all products (75 here; 8 more in section 5 and 1 Luxe reviewer in section 3)
 
-Every review or comment, from any product, in which the writer gives an age of 50 or more, or says "older", "senior", "menopause" or "in our 60's". This is the operator's viewer. The product is named on each one. (One 48-year-old and one 42-year-old are in the other sections.)
+Every review or comment, from any product, in which the writer gives an age of 50 or more, or says "older", "senior", "menopause" or "in our 60's", or (on Vegamour and Sweed) picks an older age group on the review form. This is the operator's viewer. The product is named on each one. (One 48-year-old and one 42-year-old are in the other sections.)
+
+- **Also over 50, but quoted elsewhere under their main point:** the one Luxe reviewer, Elke L., 68 (L-17, section 3), and 8 Vegamour reviewers whose own age-range answer is 55-64 or 65+: R-008, R-030, R-034 (MaryAnn F., 65+), R-062 (Laura B., 65+), R-074, R-101, R-108 and R-143 (section 5).
+- **45-54 on Vegamour's form:** these reviewers are labelled with their range but not counted as 50+, because the range starts at 45.
 
 
-### Women who say they are 50+, menopausal or older (26)
+### Women who say they are 50+, menopausal or older (75)
 
-**R-023** · *Vegamour GRO Lash Serum* · 5/5 stars, 6 found it helpful · Tammi · age: perimenopausal · 2026-02-02 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-023** · *Vegamour GRO Lash Serum* · 5/5 stars, 6 found it helpful · Tammi · age: perimenopausal · Age Range: not given on the review form · 2026-02-02 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > This serum is fantastic. It’s easy to use — and most importantly, it works! Thanks to this product, my lashes have been restored to their pre-perimenopausal glory. Thank you, Vegemour!
 
 Themes: over 50 · worked
 
-**R-045** · *Vegamour GRO Lash Serum* · 5/5 stars · Stephanie R. · age: 'an older user' · 2025-03-11 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-045** · *Vegamour GRO Lash Serum* · 5/5 stars · Stephanie R. · age: 'an older user' · Age Range (her own answer on the review form): 65+ · 2025-03-11 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [My Vegamour] I do love Vegamour! As an older user, I believe it has helped me maintain my lashes— which, before I started using, were falling out.  I continue to have fuller and longer lashes with this “can’t do without” product.
 
 Themes: over 50 · worked · thicker / less shedding · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-051** · *Vegamour GRO Lash Serum* · 5/5 stars · Amanda B. · age: 'as I've gotten older' · 2025-01-15 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-051** · *Vegamour GRO Lash Serum* · 5/5 stars · Amanda B. · age: 'as I've gotten older' · Age Range (her own answer on the review form): 35-44 · 2025-01-15 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Love, love, love it!] I have been using GRO lash for a few years here and there as I've gotten older. This past 6 months, I have been using it everyday due to lash loss from health issues. They are just as long as they were prior to losing them thanks to GRO lash. Very happy with this product.
 
 Themes: over 50 · worked · illness / chemo · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-093** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Catherine · age: postmenopausal · 2024-01-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-093** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Catherine · age: postmenopausal · Age Range (her own answer on the review form): 55-64 · 2024-01-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Patience is key] Before trying this serum I had noticed that my eyelashes were falling out at a more rapid rate. Also, the lashes I was brushing off my cheek seemed to be shorter than I remembered. (Another delightful postmenopausal feature, perhaps?) I was looking for a lash serum that did not contain prostaglandin analogues, and Vegamour’s serum was among the most highly rated. Knowing that the lash “life cycle” was pretty long —months and months, in fact— I diligently applied it once a day and stayed patient, as long as I experienced no irritation. After about five months, I noticed a difference: the rate of lash loss had slowed significantly. I’ve used it for 11 months and am very, very pleased. Thank you, Vegamour, for a safe alternative!
 
 Themes: over 50 · thicker / less shedding · fear / which is safe · Time to results: over 3 months · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-116** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Jenna W. · age: 76 · 2023-04-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-116** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Jenna W. · age: 76 · Age Range (her own answer on the review form): 65+ · 2023-04-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Love This GRO Lash Serum!] It has made such a difference to my eyelashes, top and bottom! I’m 76 years old and my lashes look and feel like they did when I was in high school.
 >
@@ -865,7 +931,7 @@ Themes: over 50 · thicker / less shedding · fear / which is safe · Time to re
 
 Themes: over 50 · worked · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-144** · *Vegamour GRO Lash Serum* · 4/5 stars, 47 found it helpful · Karen C. · age: 69 · 2022-10-31 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-144** · *Vegamour GRO Lash Serum* · 4/5 stars, 47 found it helpful · Karen C. · age: 69 · Age Range (her own answer on the review form): 65+ · 2022-10-31 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [There is growth] Working through my 2nd installment from Vegamour. I am 69 years old . My lashes are fuller which is very nice, but not longer...yet. There is the smallest hint of irritation at my lash line and I am debating with myself as to whether or not to discontinue my subscription .
 
@@ -997,128 +1063,461 @@ Themes: over 50 · worked · ease of use · extension damage
 
 Themes: over 50 · ease of use
 
-## 5. Close rivals without prostaglandins (92)
+#### Vegamour GRO Lash Serum: more reviews from older women (earlier reviews, 2019-2022, pulled 2026-10-31)
+
+Most reviews this old have no age-range answer, so these are reviews where the woman gives her age, or says menopause or 'older', in her own words.
+
+**R-601** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars, 11 found it helpful · Elizabeth A. · Age Range (her own answer on the review form): 55-64 · 2022-09-20 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Gro lash serum] Can see a definite difference in my lashes. People ask me what I'm doing because the look so long and fuller. There is no irritation with the product either. Very happy with the results.
+
+Themes: over 50 · worked · others noticed / photos · no side effects · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
+
+**R-602** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars, 3 found it helpful · Nancy M. · Age Range (her own answer on the review form): 65+ · 2022-08-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [LOVE] My daughter asked me if I got lash extensions! I've tried other serums that work (not as well) but Vegamour doesn't sting if it accidentally gets in your eye. I'm now on subscription for this magic!
+
+Themes: over 50 · worked · others noticed / photos · no side effects · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine, Improved lash/brow strength
+
+**R-603** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Laurie · Age Range (her own answer on the review form): 55-64 · 2022-08-05 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Not Exactly As Advertised. But Better Than the Resr] I’ve been using Gro Lash Serum for six months +/-  and while I don’t have amazingly thicker, longer lashes, I DO almost have the lashes of my youth which were great and they curled just right.  Aging had left me with thinner and thinner lashes.  They were always falling out!  I have so little fall out now, it’s an occasion like when I was a child!  One coat of mascara (I use Melaleuca’s mascara - it’s easy on the lashes and sensitive eyes but stays on without flaking, great stuff) and eyelashes are Wow! Lashes are not really longer but they are back to thicker and look/feel much healthier!  And, other formulas make your lashes grow in cockeyed directions but I haven’t had that with Vegamour.  PLUS, the tube lasts MUCH longer than other brands I tried!!  And, yes, I apply twice/day.
+
+Themes: over 50 · thicker / less shedding · thinning with age · price / value · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow density, Improved lash/brow strength, Easy to incorporate in daily routine
+
+**R-604** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 4/5 stars, 24 found it helpful · Dolores D. · age: 75 (in her text) · Age Range: not given on the review form · 2022-04-21 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Nice formulas] I wish there was a selection of Good plus. The only reason I didn't rate it great is that it doesn't work quite as well as the bad stuff. I'm 75 years old so I'm not gonna have the lashes I did when I was younger, but the ingredients are really good and don't cause the dreaded darkness above my lash line. No irritation at all, and filled in some areas that were bald. All in all I definitely will repurchase.
+
+Themes: over 50 · worked · no side effects · darker lids
+
+**R-605** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Karen K. · age: 60 (in her text) · Age Range: not given on the review form · 2021-10-30 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [I’ve tried so many lash] I’ve tried so many lash serum and while my lashes did seem longer and fuller, the ingredient that darkens the eye area make me look like a raccoon. I’m 60 years old so I already have dark circles under my eyes and I certainly didn’t more darkening. I finally found this serum which doesn’t contain that awful ingredient and my lashes look great and no more dark circles. Highly recommend this serum!!!
+
+Themes: over 50 · worked · darker lids · after stopping · no side effects
+
+**R-606** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Bette N. · in her text: "almost 70" · Age Range: not given on the review form · 2021-09-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [You won't believe your eyelashes] I'm really not one for writing reviews but I have to write this one.... I started using vegamour eyelash serum and within two weeks I started to notice a difference I am almost through with my first bottle and my eyelashes upper and lower and I even used it on my eyebrows the hair is growing like crazy... my eyelashes are not only long but thicker also my eyebrows have really filled in.. I'm truly amazed that this product I just thought if you're sitting on the fence about purchasing it don't wait any longer for longer lashes or Fuller brows... I just ordered the brow serum and another eyelash serum I don't want to run out of either.. PS I am almost 70 years old and beautiful eyelashes I might add..
+
+Themes: over 50 · worked · Time to results: 2 weeks or less
+
+**R-607** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Carol N. · in her text: "over 60" · Age Range: not given on the review form · 2021-04-02 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [I had given up hope] I had given up hope after using a prescription product. Even though the two are applied similarly, this one doesn't irritate my eyes. My lashes are not super long, but they are fuller. I am over 60, so who knows if anything works. I am upgrading to the serum + for my lashes and brows. Will review after using one month.
+
+Themes: over 50 · thicker / less shedding · no side effects · after stopping
+
+**R-608** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Lisa H. · age: 54 (in her text) · Age Range: not given on the review form · 2021-02-17 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Helped this 54 you!] OK, so I didn't take a before pic but my lashes are the longest that they have ever been and I am 54 yrs old! Next up: brows.😊
+
+Themes: over 50 · worked
+
+**R-609** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Janet F. · age: 70 (in her text) · Age Range: not given on the review form · 2019-10-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [works] I am 70 and very fair. My eyelashes, particularly the bottom ones, were becoming less and less visible. Vegalash has made them longer and fuller in about 2 months so that now I have them dyed and they really stand out.
+
+Themes: over 50 · worked · thinning with age · Time to results: 6-12 weeks
+
+**R-610** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Dorothy F. · age: 87 (in her text) · Age Range: not given on the review form · 2019-02-15 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Excellant] After heart surgery I had a severe problem with hair loss. I ordered 2ea of Vegamoure serum...when I started on #2 I already was getting good results.
+> Am so pleased ..have longer lashes than ever in my life.
+> Oh!!!By the way I am 87 years old.
+
+Themes: over 50 · worked · illness / chemo
+
+#### Sweed Eyelash Growth Serum: reviews from women 50 and over (pulled 2026-10-31)
+
+Sweed's review form asks for an age group (18-24 up to '61-70+'). These are reviewers who chose 51-60, 51-60+ or 61-70+, or who give their age or menopause in the text. Of the 1,566 Sweed reviews, 296 answered the age question; 112 of those chose an age group of 51 or over.
+
+**R-701** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Judith A. · age: 61 (in her text) · age group (her own answer on the review form): 61-70+ · skin type Combination, skin tone Medium (form answers) · 2026-08-14 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Effective!] I’m 61, and due to normal aging (and a not-normal bout with cancer), my eyelashes were becoming sparse. I’d tried another serum, but found that the results weren’t consistent. I’m glad I looked for another and found Sweed. Sweed’s eyelash serum has impressed me: results were noticeable, fast, and they’ve reliably continued. It’s become a staple in my routine -- I love the thicker, longer lashes it creates. No scent, no stinging, no discoloration of the skin.
+
+Themes: over 50 · worked · illness / chemo · no side effects · ease of use
+
+**R-702** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Lesa M. · in her text: "menopause" · age group (her own answer on the review form): 61-70+ · skin type Normal, skin tone Light (form answers) · 2026-09-15 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [The eyelash serum has made a huge difference!] Between menopause and hypothyroidism, my lashes were pretty much nonexistent. Since starting the Sweed eyelash serum less than a month ago, I honestly cannot believe how much thicker and longer my lashes already are. I can actually see them without mascara. I didn’t take a before photo because I didn’t believe anything could give me back thick lashes. I was wrong. I’ll definitely continue using this. I’m thinking about trying the hair serum as well.
+
+Themes: over 50 · worked · illness / chemo · Time to results: 3-5 weeks
+
+**R-703** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Joan · age: 79 (in her text) · age group: not given on the review form · 2023-09-17 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Never too old!] I smiled when I saw that your survey of users of this product had a maximum age of 60. I am 79, and found that my eye lashes were becoming so sparse, and yes I minded, I wear eyeliner and mascara every day. I saw this serum recommended by Sali Hughes in The Guardian newspaper, and I totally trust her recommendations so I bought it. It totally works, lengthening my lashes and they appear thicker.
+
+Themes: over 50 · worked · thinning with age
+
+**R-704** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Georgena B. · in her text: "a menopausal woman" · age group: not given on the review form · 2024-06-20 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [OMG!] Absolutely, blooming fantastic. From a menopausal woman whose eyes & skin are soo sensitive, I genuinely thought that this was a huge waste of money - but how wrong was I! I started applying every other day to make sure there was no latent reaction and then every day. Not once did my eyes water, skin go red or red patches appear and my lashes are now fantastic! Try it, you won’t regret it. ❤️❤️
+
+Themes: over 50 · worked · no side effects
+
+**R-705** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · vitaminrc · age: 52 (in her text) · age group (her own answer on the review form): 51-60+ · skin type Sensitive, skin tone Light (form answers) · 2026-10-02 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [really works...finally] I believe I have tried every eyelash growth serum out there. I am 52 and this really truly works. I had given up trying to grow my lashes until I saw a dermatologist recommend this and so I said, "ok last one" and I got it and I was skeptical and after about 12 weeks, I saw a big difference. I apply it every night and just bought my second tube. So happy I found this.
+
+Themes: over 50 · worked · Time to results: 6-12 weeks
+
+**R-706** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Kristine K. · age group (her own answer on the review form): 51-60 · skin type Sensitive, skin tone Light (form answers) · 2026-08-31 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [So far so good?] I have gotten through one bottle of sweed lash serum and I can tell my lashes are a little bit longer!. Absolutely! There is some curve and length to the ends. I had no irritation and it is easy to apply. I actually had to throw away a previous and much more expensive serum that I was using so I was so happy to find sweed!
+
+Themes: over 50 · worked · no side effects · ease of use
+
+**R-707** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Veronica Q. · age group (her own answer on the review form): 51-60 · skin type Combination, skin tone Medium (form answers) · 2026-05-13 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Really works!] I have been getting my lashes done professionally for years before I decided to take a break. I did my research, took the leap and couldn’t believe it when I saw noticeable results in only one month. My lashes are significantly longer than they ever have been. Love this clean, healthy and affordable alternative!
+
+Themes: over 50 · worked · extension damage · price / value · Time to results: 3-5 weeks
+
+**R-708** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Cathie K. · age: 67 (in her text) · age group: not given on the review form · 2024-03-15 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Amazing!!!!] My daughter was using this serum and I was very sceptical but wow! I couldn’t get over how long her eyelashes had become so I treated myself to it. I was sceptical again as to how it would work on a 67 year old but yet again it was another WOW!!! I luv it. Flutter my eyelashes everywhere I go now :))
+
+Themes: over 50 · worked
+
+**R-709** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Patricia B. · age: 63 (in her text) · age group: not given on the review form · 2024-08-17 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Amazing product] I have been using this product for approximately 2 months and my lashes look incredible. I’m 63 years young and take good care of my skin, hair and nails. This product truly has made a big impact on my eyelashes. Please let me know when the larger size is available! Thank you. 💜💜💜
+
+Themes: over 50 · worked
+
+**R-710** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Charlene H. · in her text: "post menopausal" · age group: not given on the review form · 2025-05-19 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [I have my eyelashes back!] As a post menopausal woman my eyelashes were sparse and getting sparser! This is my second tube and I couldn’t be happier! I have my eyelashes back! In fact, I now only need to apply it only every other night as my eyelashes are so long they hit my eyeglasses.
+
+Themes: over 50 · worked · thinning with age
+
+**R-711** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Amy L. · age group (her own answer on the review form): 61-70+ · skin type Dry, skin tone Medium (form answers) · 2026-06-22 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Works!!!!!!!] Between aging and meds for breast cancer my eyelashes which used to be naturally so long that they hit my glasses , were in desperate need of help. THIS serum works! I’ve been using it since it first came out and it’s amazing. It is worth every penny
+
+Themes: over 50 · worked · illness / chemo · price / value
+
+**R-712** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Shari B. · in her text: "menopause" · age group (her own answer on the review form): 51-60 · skin type Dry, skin tone Light (form answers) · 2026-07-10 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [My FAVORITE lash serum!!!] I have really sensitive eyes and not only has this been the most gentle lash serum, but my lashes are the longest they’ve ever been! Menopause wrecked my lashes and now I have the longest lashes of my life! I cant wait to try the hair serum!
+
+Themes: over 50 · worked · no side effects
+
+**R-713** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Erika R. · age group (her own answer on the review form): 51-60 · skin type Combination, skin tone Light (form answers) · 2026-10-02 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [All the good, none of the bad!] I love this growth serum. I had been using another brand that worked but was darkening my lids and irritating my eyes. Grateful I don’t have to live with that any more! This serum is lovely and my lashes are lush and healthy. Thank you.
+
+Themes: over 50 · worked · darker lids · redness / itching · after stopping · no side effects
+
+**R-714** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Erin L. · age: 66 (in her text) · age group: not given on the review form · 2025-07-11 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [I ordered this serum after] I ordered this serum after hearing a review from a MUA I trust.
+> This product is fabulous! I have never had long lashes, but I do now!!! 
+> I noo difference right away.
+> I will never be w/o this.
+> For reference, I am 66 yrs young.
+
+Themes: over 50 · worked
+
+**R-715** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Joanna M. · in her text: "through menopause" · age group: not given on the review form · 2023-10-08 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [I bought this as through] I bought this as through menopause my eyelashes were very sparse.
+> It works!
+> Quite quickly - after about 3 weeks I could notice a difference and now I dont need mascara anymore, if I use mascara I get a false eyelash effect!
+
+Themes: over 50 · worked · Time to results: 3-5 weeks
+
+**R-716** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Karen H. · age group (her own answer on the review form): 61-70+ · skin type Dry, skin tone Light (form answers) · 2026-07-15 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Nothing better!] I have tried other serums with little or no results. This product is spectacular. Due to aging a lot has changed including my lashes. This has changed my lashes so dramatically I enjoy using eye makeup again.
+> Thank you…. .
+
+Themes: over 50 · worked · thinning with age
+
+**R-717** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 1/5 stars · Kelly · age group (her own answer on the review form): 51-60 · skin type Sensitive, skin tone Light (form answers) · 2026-10-20 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [DO NOT BUY THIS PRODUCT!] I purchased the eyelash serum and applied it to my lashes as instructed. The next morning I woke up and both my eyelids were red and swollen. I returned the product and sent pictures to customer service showing the extreme allergic reaction I had to the product. I was told because I used the product, Sweed would not refund my money. They did not investigate if I received a botched batch or have any empathy their product created such an issue for me, which also resulted in a bill to my dermatologist for medicine to clear up my eyes. Sweed obviously cares more about their bottom line than how their product can affect their customers. I have searched other eyelash serums for aging women and found Prime Prometics. The serum is very good quality and I’ve had amazing results with no adverse reactions. I HIGHLY RECOMMEND PRIME PROMETICS!!
+
+Themes: over 50 · allergy / swelling
+
+**R-718** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Diana S. · age group (her own answer on the review form): 61-70+ · skin type Normal, skin tone Light (form answers) · 2026-10-25 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Love it!] I’m on my second tube and already have another waiting in the wings. I’ve been using the eyelash serum for almost one year and I could see results after just one month. My lashes are light in color and not too thick. After one month of use, I could actually see them when I looked in the mirror from a distance. After almost a year, they look even better. I was using Babe Lash with great results but it has Prostaglandin so I stopped using it. Fortunately, I watched a Dr. Sam Ellis YT video and she recommended Sweed’s serum.
+
+Themes: over 50 · worked · after stopping · Time to results: 3-5 weeks
+
+**R-719** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Linda S. · age group (her own answer on the review form): 61-70+ · skin type Normal, skin tone Medium (form answers) · 2026-10-12 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [LOVE MY LASHES AGAIN!] I’ve struggled with styes every so often & have lost many lashes as a result. I’ve tried different brands of “growth serums” for my lashes but was always dissatisfied…until now. Sweed’s growth serum is a “clean” formulation that doesn’t sting & doesn’t make my lashes so brittle that they fall out. I can use it with confidence that I won’t be applying anything harmful to my sensitive lash base. My lashes are fuller & longer and those sparse areas have filled in beautifully! What a find! I also apply this serum day & night. It even works great before applying my Cloud Mascara. No other brands can compare. Love my lashes again!
+
+Themes: over 50 · worked · styes / infection · no side effects
+
+**R-720** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Melanie W. · age group (her own answer on the review form): 51-60 · skin type Combination, skin tone Light (form answers) · 2026-10-27 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [No growth] I have very little luck with eyelash serum so this isn’t with this one I was hopeful still I’ve been using it regularly and do not see any eyelash growth
+
+Themes: over 50 · no result
+
+**R-721** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 3/5 stars · Sarah M. · age group (her own answer on the review form): 61-70+ · skin type Dry, skin tone Tan (form answers) · 2026-09-21 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Serum leaked out when set it its side accidentally] Seems like it should have a tighter seal at the opening if this possibility of a fall over happens… lost more than half of my large tube of serum…
+
+Themes: over 50 · ease of use · price / value
+
+**R-722** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Joy G. · age group (her own answer on the review form): 51-60+ · skin type Sensitive, skin tone Deep (form answers) · 2026-09-13 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Easy application] Easy to apply. Every night before bed.
+> Others noticed my lashes before I did!
+> I had noticed that although my lashes are black, they seemed darker - more intense.
+> Mascara application has been easier, also I do not need to apply as much as before.
+
+Themes: over 50 · worked · others noticed / photos · ease of use
+
+**R-723** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Denise P. · age group (her own answer on the review form): 51-60 · skin type Normal, skin tone Fair (form answers) · 2026-07-14 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [It works!] I have very fine, short lashes. I used to use Latisse but stopped because it’s too expensive. The Sweed lash serum works as well or better than Latisse.
+
+Themes: over 50 · worked · after stopping · price / value
+
+**R-724** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Cheryl M. · age group (her own answer on the review form): 51-60+ · 2026-07-04 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [It works!] I’ve been using the serum for 6 months once daily and my lashes are noticeably longer and fuller. I didn’t tolerate Latisse and this is the first non PG serum that worked for me. Thank you!
+
+Themes: over 50 · worked · after stopping
+
+**R-725** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars, 1 found it helpful · Karen K. · age: 75 (in her text) · age group (her own answer on the review form): 61-70+ · skin type Normal, skin tone Light (form answers) · 2026-06-08 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [It works!] 75 year old here. Many effects of aging, but one thing I’ve hates most is the loss of my lashes! The Eyelash Growth Serum has worked wonders! Length visible without mascara again! Thank you
+
+Themes: over 50 · worked · thinning with age
+
+**R-726** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Carol T. · age group (her own answer on the review form): 61-70+ · skin type Combination, skin tone Medium (form answers) · 2026-06-03 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Gentle Serum] I had been using an eyelash growth serum that contained prostaglandin that was very irritating. Sweed has been gentle and I no longer have purple circles around my eyes. I have only been using it for about 4 weeks, showing a little length in my lashes. I bought the 5 ml serum and will continue to use it as I am hoping that the growth will continue. I do feel better about using Sweed because it does not irritate my eyes and I know it is safe to use.
+
+Themes: over 50 · worked · darker lids · redness / itching · after stopping · no side effects
+
+**R-727** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Lonna S. · age group (her own answer on the review form): 61-70+ · skin type Normal, skin tone Light (form answers) · 2026-05-08 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Yay!!!!!!] This serum works great. I had been using a different one with prostaglandins. I can tell a difference in the hollow under eye. I am so glad I switched.
+
+Themes: over 50 · worked · hollow eyes · after stopping
+
+**R-728** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 1/5 stars · Cristiana L. · age group (her own answer on the review form): 51-60+ · skin type Normal, skin tone Light (form answers) · 2026-05-23 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Allungamento appena percettibile a fronte] Allungamento appena percettibile a fronte di un prezzo elevatissimo. Non consiglio assolutamente di buttare il denaro così.
+>
+> *My translation:* Barely noticeable lengthening, for a very high price. I absolutely do not recommend throwing money away like this.
+
+Themes: over 50 · no result · price / value
+
+**R-729** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 3/5 stars · Irene C. · age group (her own answer on the review form): 61-70+ · skin type Dry, skin tone Medium (form answers) · 2026-05-13 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Sweet lash growth serum] Very expensive to have it shipped to Canada !!!!!
+> I use it every night and found very little progress in lash growth
+
+Themes: over 50 · no result · price / value
+
+**R-730** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 1/5 stars · Ruth D. · age group (her own answer on the review form): 51-60+ · skin type Dry, skin tone Medium (form answers) · 2026-05-11 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [There has been hardly any] There has been hardly any improvement, I'm really disappointed given the hype & price of product. I will be going back to UKlash
+
+Themes: over 50 · no result · price / value
+
+**R-731** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Pratesi G. · age: 54 (in her text) · age group (her own answer on the review form): 51-60+ · skin type Combination, skin tone Medium (form answers) · 2026-07-22 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Ho scoperto questo siero ciglia] Ho scoperto questo siero ciglia per caso, ne avevo provati altri precedentemente, ma nessuno ha dato i risultati di Eyelash Growth! Ho 54 anni e le mie ciglia si erano diradate e indebolite, ma adesso sono molto più lunghe e folte. L' ho già riacquistato più volte e continuerò senz' altro.
+>
+> *My translation:* I discovered this lash serum by chance; I had tried others before, but none gave the results of Eyelash Growth! I am 54 and my lashes had thinned and weakened, but now they are much longer and thicker. I have already bought it again several times and will certainly continue.
+
+Themes: over 50 · worked · thinning with age
+
+**R-732** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Corinne L. · age group (her own answer on the review form): 51-60+ · skin type Combination, skin tone Fair (form answers) · 2026-06-02 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Incroyable Il faut être disciplinée] Incroyable 
+> Il faut être disciplinée mais au bout de 2 semaines environ j ai senti un changement effectif : cils plus forts ( 1 er aspect constaté ) puis cils plus longs au fur et à mesure de la cure. 
+> Merci à Lily_von_ e_makeup artist d’en avoir parlé et d avoir partagé son avis sur la marque et notamment sur ce sérum ! 
+> Ps. J ajoute que j ai des yeux très sensibles et aucuns désagréments constatés !!! 
+> Je poste une photo SANS mascara
+>
+> *My translation:* Incredible. You have to be disciplined, but after about 2 weeks I felt a real change: stronger lashes (the first thing I noticed), then longer lashes as the treatment went on. Thanks to Lily_von_ e_makeup artist for talking about it and sharing her opinion on the brand and especially on this serum! PS. I'd add that I have very sensitive eyes and noticed no problems at all!!! I'm posting a photo WITHOUT mascara
+
+Themes: over 50 · worked · no side effects · Time to results: 2 weeks or less
+
+**R-733** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Anna P. · age group (her own answer on the review form): 51-60+ · skin type Combination, skin tone Medium (form answers) · 2026-05-12 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Non posso ancora esprimere mia] Non posso ancora esprimere mia completa valutazione di quel famoso siero per ciglia. Sto usando da una settimana,per ciò presto avere effetto ciglia finti. Ma posso dire che prodotto piacevole da usare,no ne untuoso,si asciuga abbastanza velocemente. Volendosi può usare anche di giorno prima di trucco. Da applicare e facile grazie a pennellino finissimo.
+>
+> *My translation:* I can't yet give my full verdict on this famous lash serum. I've been using it for a week, so [I hope] soon to have a false-lash effect. But I can say it is a pleasant product to use, not greasy, it dries fairly quickly. If you want, you can also use it in the daytime before makeup. Easy to apply thanks to the very fine little brush.
+
+Themes: over 50 · too early · ease of use
+
+**R-734** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · C C. · age group (her own answer on the review form): 61-70+ · skin type Combination, skin tone Medium (form answers) · 2026-05-21 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Eyelash growth serum] Still in review of eyelash serum for eyelash growth. It has only been 2. 5 weeks, however, I appreciate the gentleness of serum, ease of application, applicator design and the absence of fragrance.
+
+Themes: over 50 · too early · ease of use · no side effects
+
+**R-735** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Lisa H. · age group (her own answer on the review form): 51-60 · skin type Sensitive, skin tone Fair (form answers) · 2026-09-30 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Only used this 2 weeks but love it] I have super sensitive eye area every little thing makes them red. I've used this only about 2 weeks so far but love & eill be reordering. No redness, no weird crusting overnight. Its light & easy to apply. Not goopy. We'll see how the growth goes in a few more weeks
+
+Themes: over 50 · too early · no side effects · ease of use
+
+**R-736** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Seascape · age group (her own answer on the review form): 51-60 · skin type Sensitive, skin tone Light (form answers) · 2026-06-28 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Amazing!] The Sweed eye serum is amazing but be patient. I was using another serum and once you stop your eyelashes seem to fall out. I have now used the Sweed serum for three months and I can truly say it works. No redness, itchy eyes or side effects on me. Very pleased!
+
+Themes: over 50 · worked · no side effects · after stopping
+
+**R-737** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Jennifer P. · age group (her own answer on the review form): 61-70+ · skin type Dry, skin tone Light (form answers) · 2026-09-01 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Great product] Ive been using the eyelash growth serum for about 3 weeks now. Im already seeing a difference in both top and bottom lashes. I tend to be a bit sensitive and it doesnt bother my eyes at all. Ive used other products that sting when you apply, this does not. I will def continue using!!
+
+Themes: over 50 · worked · no side effects · Time to results: 3-5 weeks
+
+**R-738** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Mary M. · age group (her own answer on the review form): 61-70+ · skin type Sensitive, skin tone Fair (form answers) · 2026-06-27 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Lo-----ng Lashes] My eyelashes are very long compared to how they used to be. They also seem quite strong even when rubbing to remove mascara.
+> I am very pleased with this product.
+
+Themes: over 50 · worked
+
+**R-739** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Amy F. · age: 50 (in her text) · age group (her own answer on the review form): 41-50 · skin type Combination, skin tone Light (form answers) · 2026-08-30 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Great product!] I really like the Eyelash Growth Serum. I agree with other reviewers that you need to be patient. I started seeing a change at about 4 weeks after regular use. It's a very gentle formula and goes on easily every night. 
+> I am 50 and I started noticing that I had some small gaps in my eyelashes. Mascara wasn't even helping - it didn't feel like my eyes looked good. 
+> After 6 weeks using the serum, I am very happy! The gaps have filled in and over-all they are fuller lashes. They may be slightly longer, but mostly full.
+>
+> I'm also using Sweed mascara and that has been a game changer. The combination of the these two products has been great! I love my eyes again!
+> (the photos are without mascara)
+
+Themes: over 50 · worked · Time to results: 3-5 weeks
+
+## 5. Close rivals without prostaglandins (114)
 
 Serums without a prostaglandin, like Luxe: Vegamour GRO Lash Serum (peptide plus red clover and mung bean sprout extracts), Babe Original Renewing (peptides), The Ordinary Multi-Peptide Lash and Brow Serum, Dermelect XLASH and TwentyTwenty (oil-based). Note that some reviewers here are comparing them with a prostaglandin serum they used before. Their side effects are from that earlier serum where the quote says so.
 
 
-### It worked: longer, fuller or regrown lashes (37)
+### It worked: longer, fuller or regrown lashes (52)
 
-**R-014** · *Vegamour GRO Lash Serum* · 5/5 stars, 3 found it helpful · Julie L. · 2026-06-01 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-014** · *Vegamour GRO Lash Serum* · 5/5 stars, 3 found it helpful · Julie L. · Age Range (her own answer on the review form): 25-34 · 2026-06-01 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Amazing that my lash grows obviously!] My lash was born in a very short way and was even too short to use eyelash curler all the time when I did makeup. After I used this product for half a month, first I can obviously see the lower lash grow longer by about 1-2 mm, and then upper lash can be used with eyelash curler much easier, 
 
 Themes: worked · Time to results: 2 weeks or less · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-015** · *Vegamour GRO Lash Serum* · 5/5 stars, 12 found it helpful · Krisha M. · 2026-05-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-015** · *Vegamour GRO Lash Serum* · 5/5 stars, 12 found it helpful · Krisha M. · Age Range (her own answer on the review form): 45-54 · 2026-05-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [The best lash serum on the market!] I have tried every lash growing serum on the market! I use to think Rodam Fiields lash grow serum was the best until I tried Vegamour.  I have an autoimmune disease that causes my eyelashes to fall out in patches literally over night. I wake up missing  6-7  lashes right in the middle or end of my lash line. Rodan Fields would only work prior to my autoimmune disease. Vegamour works all the time, but most importantly after an episode of eyelash loss.
 
 Themes: worked · illness / chemo · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-018** · *Vegamour GRO Lash Serum* · 5/5 stars, 9 found it helpful · Amy W. · 2026-04-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-018** · *Vegamour GRO Lash Serum* · 5/5 stars, 9 found it helpful · Amy W. · Age Range (her own answer on the review form): 45-54 · 2026-04-13 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [It does work] I’ve used the same lash serum (different brand) for over 10 years and it worked amazingly well, but I was noticing hollowing around my eyes and had learned this is an actual thing that can happen with the ingredients of my other serum. I’ve switched before to another brand and watched my lashes slowly thin out and stop growing  so I was terrified for that to happen when I tried this brand. To my joy and surprise, that did not happen. I’ve been using it over a month now and while my lashes are maybe not quite as long as before they have filled out quite a lot. So this is definitely working and doesn’t have the questionable ingredients that can cause the hollowing. So I will keep on this and hoping the length will continue to improve as time goes on. 
 
 Themes: worked · thicker / less shedding · hollow eyes · after stopping · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow density
 
-**R-022** · *Vegamour GRO Lash Serum* · 5/5 stars, 5 found it helpful · Laura · 2026-02-07 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-022** · *Vegamour GRO Lash Serum* · 5/5 stars, 5 found it helpful · Laura · Age Range: not given on the review form · 2026-02-07 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > This is the most AMAZING lash serum that really, really works! I had tried Grande Lash Serum which ultimately caused eye irritation and caused me to have “ floaters” in my eyes. Once I stopped eyes were no longer irritated. Trust me, Vegamour Gro Lash does really work. Follow directions and lashes will grow, be patient and you will have longer, thicker lashes !
 
 Themes: worked · no side effects · after stopping
 
-**R-026** · *Vegamour GRO Lash Serum* · 5/5 stars, 11 found it helpful · Ashley · 2025-10-23 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-026** · *Vegamour GRO Lash Serum* · 5/5 stars, 11 found it helpful · Ashley · Age Range (her own answer on the review form): 35-44 · 2025-10-23 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Hello long lashes!!] I started using this serum after losing a ton of lashes from extensions. I started seeing a difference within a couple weeks and now my lashes are the longest I’ve ever seen them (it’s only been a month since I started using the serum). I’ve even had people ask if I have extensions. I’m shocked at the results and couldn’t recommend this product more!
 
 Themes: worked · extension damage · others noticed / photos · Time to results: 2 weeks or less · Reviewer's survey answers: How often are you using the product? 3-4x per week; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow length, Improved lash/brow strength
 
-**R-027** · *Vegamour GRO Lash Serum* · 5/5 stars, 12 found it helpful · camille · 2025-10-21 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-027** · *Vegamour GRO Lash Serum* · 5/5 stars, 12 found it helpful · camille · Age Range (her own answer on the review form): Under 24 · 2025-10-21 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [amazingggg product] i love this so so much! i have contacts and sensitive eyes and this didn’t bother me a single time! i’ve accidentally put the lash wand thing on my eyeball too, and it never once bothered my eyes! and my lashes have gotten soo long i never wear mascara because i prefer how they look without it! i’d absolutely recommend this product!!
 
 Themes: worked · no side effects · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 90 days (3 months); What improvements have you noticed? Improved lash/brow length, Improved lash/brow density, Easy to incorporate in daily routine
 
-**R-041** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Kristina K. · 2025-04-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-041** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Kristina K. · Age Range (her own answer on the review form): 45-54 · 2025-04-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Longer lashes  ] This serum seems to increase the length of my lashes , although not the thickness.  One thing I've noticed, though, is that the lashes fall out after a while.  I wonder if this is because they are longer than usual.  But, I do think it's not my imagination that my lashes are longer since I started using this serum.   
 
 Themes: worked · lash loss / breakage · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-061** · *Vegamour GRO Lash Serum* · 5/5 stars, 3 found it helpful · Tracy L. · 2024-11-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-061** · *Vegamour GRO Lash Serum* · 5/5 stars, 3 found it helpful · Tracy L. · Age Range (her own answer on the review form): 45-54 · 2024-11-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Thicker lashes!] I love that it has all natural ingredients. Every serum I’ve ever tried irritates my skin and creates itchiness. This serum works without causing redness or itchiness.  I’ve noticed thicker lashes after just 3 weeks. They aren’t necessarily longer, but definitely more dense. 
 
 Themes: worked · thicker / less shedding · no side effects · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow density, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-064** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · J V. · 2024-10-31 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-064** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · J V. · Age Range (her own answer on the review form): 35-44 · 2024-10-31 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Lashes are growing back thicker/fuller in just five weeks :)] After having eye lash extensions for an extended period of time, when I saw that the growth of my natural lashes had been severely stunted and it appeared as though I had no eye lashes (they were very, very short and in some places non-existent).  After using this product for just five weeks, my lashes have grown back over 60%! 
 
 Themes: worked · extension damage · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-067** · *Vegamour GRO Lash Serum* · 5/5 stars · Samantha S. · 2024-10-09 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-067** · *Vegamour GRO Lash Serum* · 5/5 stars · Samantha S. · Age Range (her own answer on the review form): 25-34 · 2024-10-09 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Good Stuff] My lashes were damaged and falling out from last lifts and I used this for about 6 weeks and my lashes are in MUCH better shape now. This doesn’t have the same dramatic lengthening effect as other lash serum’s but also doesn’t have the side effects and I was very pleasantly surprised by the results. I will definitely be buying again. 
 
 Themes: worked · extension damage · no side effects · Time to results: 6-12 weeks · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow density, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-072** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Taylor T. · 2024-09-21 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-072** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Taylor T. · Age Range (her own answer on the review form): 35-44 · 2024-09-21 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Missing lashes from eyelash extensions ] I naturally have good lashes but gave in to eyelash extensions for postpartum convenience. It was a mistake to say the least. I was desperate to find something that didn’t contain prostaglandins and finally stumbled upon vegamour….this stuff works and fast!! In 2 weeks my missing lashes had already sprouted and by the end of the month my lashes were already thick and long. I’m on my second bottle and I couldn’t be more pleased with the results! 
 
 Themes: worked · extension damage · fear / which is safe · Time to results: 2 weeks or less · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow strength, Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-073** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Andrea E. · 2024-09-09 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-073** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Andrea E. · Age Range (her own answer on the review form): 25-34 · 2024-09-09 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Works for postpartum lash loss!] I used to use another lash serum that contained hormones, and while it worked, it made my eyes red and I had to stop using it when I got pregnant. Then I had my baby, and my lashes started falling out!! So I ordered this serum, as it's safe while breastfeeding, and right now after 5 weeks, my eyelashes look fabulous! Big difference. And no red eyes! 10/10, absolutely would recommend.
 
 Themes: worked · illness / chemo · after stopping · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow strength, Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-074** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Kerry T. · 2024-09-08 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-074** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Kerry T. · Age Range (her own answer on the review form): 55-64 · 2024-09-08 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Love this serum!] I have tried Latisse and several other brands but they were too harsh and made me grow tiny hairs around  my eyes. Vegamour lash serum is more gentle but really works. I love it, and I have used the brow grow serum for years now since it also works great!
 
-Themes: worked · no side effects · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine
+Themes: over 50 · worked · no side effects · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-075** · *Vegamour GRO Lash Serum* · 4/5 stars · Brittany J. · 2024-08-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-075** · *Vegamour GRO Lash Serum* · 4/5 stars · Brittany J. · Age Range (her own answer on the review form): 25-34 · 2024-08-04 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Great lash serum] I have noticed that my lashes are longer. I haven’t noticed any irritation of my lids with use. It does sting a bit if it gets into eyes, but goes away pretty quickly. I also appreciate that this tube has more product and lasts longer than a lot of others that are similar. 
 
 Themes: worked · burning · price / value · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 120 days (4 months); What improvements have you noticed? Improved lash/brow length, Easy to incorporate in daily routine, Improved lash/brow density
 
-**R-083** · *Vegamour GRO Lash Serum* · 4/5 stars · Lauren D. · 2024-05-11 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-083** · *Vegamour GRO Lash Serum* · 4/5 stars · Lauren D. · Age Range (her own answer on the review form): 45-54 · 2024-05-11 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [It works!] Love that this serum is safe. I tried others which left my eyelids discolored. It does take some time (about a month or so) but it does work. The results are natural and fuller looking lashes. Definitely recommend; just be patient in achieving results.
 
 Themes: worked · darker lids · no side effects · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine
 
-**R-085** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Emily · 2024-03-16 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-085** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · Emily · Age Range (her own answer on the review form): Under 24 · 2024-03-16 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Amazing product worth the money ] My mum got this in an advent calendar and gave it to me. I’d been thinking about getting a lash serum for months but I was unsure due to the risk of under eye circles darkening (I already have deep set dark under eyes so I didn’t really want to contribute to the problem). After the researching the product after my mum gave it to me and seeing that this serum did not contain the ingredient that causes that side effect I decided to give it a go . And oh my lord. It’s been 2 weeks and I can already notice a huge difference. My lashes are thicker and longer and I’ve actually had to relearn how to use my mascara because I’m not used to having lashes so long ! I know it’s in the pricey side, but I will definitely be repurchasing once I’ve run out of my gifted serum . I know they’re only eyelashes, but they’ve just given me that extra little boost of confidence ! 
 
 Themes: worked · fear / which is safe · Time to results: 2 weeks or less · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow length, Improved lash/brow density, Easy to incorporate in daily routine
 
-**R-088** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · G.M. · 2024-02-07 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-088** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · G.M. · Age Range (her own answer on the review form): 25-34 · 2024-02-07 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Kept my lashes during chemo!] I was diagnosed with breast cancer at 32 and started chemo in October. I finished chemo 6 weeks ago and I still have my lashes because of this serum! I always had long and thick lashes and I did lose a little bit volume during treatment, but not length.  An oncology nurse just told me I have the longest lashes she has even seen, after going what I went through, that comment made my day. Before I started chemo, I checked with my doctor to make sure it was ok to use this serum, and with her approval, I used this serum twice a day.  There was a spot on my lower lashes that were missing a few hairs before I started treatment and I kid you not, it filled in while I was losing my hair everywhere else! I don't know what is in this serum, but it works and you should give it a try. 
 
 Themes: worked · illness / chemo · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-099** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · L. F. · age: late 40s · 2023-10-19 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-099** · *Vegamour GRO Lash Serum* · 5/5 stars, 1 found it helpful · L. F. · age: late 40s · Age Range (her own answer on the review form): 45-54 · 2023-10-19 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [This stuff works!] I’ve been using Gro Lash on and off for a few years and recently got back on again and this stuff works. Seriously. I don’t know how but my lashes are long and thick and i’m late 40s. i plan on using it forever so hoping there aren’t any long term side effects because it REALLY makes my lashes look amazing
 
 Themes: worked · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 120 days (4 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-105** · *Vegamour GRO Lash Serum* · 5/5 stars, 4 found it helpful · maria b. · 2023-08-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-105** · *Vegamour GRO Lash Serum* · 5/5 stars, 4 found it helpful · maria b. · Age Range (her own answer on the review form): Under 24 · 2023-08-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [this lash serum made me feel like myself again] last year, im not sure why, i lost my most eyelashes. they just felt out and didn’t really grow back. the whole middle part of my lids were so sparse and thin and my self esteem plummeted. my eyes were always one of my favorite features and without lashes i felt awful about my appearance. i tried changing my mascara a couple times, i tried gummies, i didn’t wear makeup for weeks, nothing stuck nothing helped. and then out of desperation i tried this! i’ve been using it since january and by february i had already seen such improvement. my lashes were growing and coming back stronger. the before picture isn’t the best (it doesn’t show how bad it got). but i hope this can help someone else the way it helped me. i can’t promise it’ll work but it’s definitely worth a shot :) 
 
 Themes: worked · thinning with age · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow strength, Improved lash/brow length
 
-**R-108** · *Vegamour GRO Lash Serum* · 4/5 stars, 2 found it helpful · Shari J. · 2023-06-27 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-108** · *Vegamour GRO Lash Serum* · 4/5 stars, 2 found it helpful · Shari J. · Age Range (her own answer on the review form): 55-64 · 2023-06-27 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [My "no gap" lashes!!] Hey everyone
 > I am happy to post this review. I had a few lashes that had fallen out, maybe from allergies and rubbing itchy eyes-not sure. I am happy to report that the gap is filled in. It didnt happen overnight, but I stuck with it because in all honesty, I did see quicker results with other brands-but those caused red eyelids so what good  are beautiful lashes accompanied by irritation?!
@@ -1126,19 +1525,19 @@ Themes: worked · thinning with age · Time to results: 3-5 weeks · Reviewer's 
 > SJ
 >
 
-Themes: worked · no side effects · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Easy to incorporate in daily routine, Improved lash/brow density
+Themes: over 50 · worked · no side effects · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Easy to incorporate in daily routine, Improved lash/brow density
 
-**R-136** · *Vegamour GRO Lash Serum* · 5/5 stars, 120 found it helpful · Kristin · 2023-01-06 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-136** · *Vegamour GRO Lash Serum* · 5/5 stars, 120 found it helpful · Kristin · Age Range (her own answer on the review form): 45-54 · 2023-01-06 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [My lashes are back!] This stuff is nothing short of amazing. I lost my lashes during chemo and six months after stopping treatment I still had very short, very sparse lashes. I tried Grande Lash but it made some of my already sparse lashes fall out. Then I found Vegamour. After 5 weeks of using it every morning my lashes have filled back in and even gotten longer. I’ve gotten comments from friends and family who can definitely see the difference. I can’t  recommend this enough!
 
 Themes: worked · illness / chemo · lash loss / breakage · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Improved lash/brow strength, Easy to incorporate in daily routine
 
-**R-143** · *Vegamour GRO Lash Serum* · 5/5 stars, 16 found it helpful · Debbie G. · 2022-11-06 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-143** · *Vegamour GRO Lash Serum* · 5/5 stars, 16 found it helpful · Debbie G. · Age Range (her own answer on the review form): 55-64 · 2022-11-06 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [It’s working!] I wasn’t confident that I would ever be able to find a product that would help grow lashes back after chemo. I’ve used this product for four months and I’ve noticed an improvement in longer lashes and they aren’t falling out as much. Im going to try the eyebrow product next. 
 
-Themes: worked · illness / chemo · thicker / less shedding · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 120 days (4 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine
+Themes: over 50 · worked · illness / chemo · thicker / less shedding · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 120 days (4 months); What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine
 
 **R-305** · *Babe Original Renewing Lash Serum (prostaglandin-free); some reviewers on this page compare it with the Essential serum* · 5/5 stars, 2 found it helpful · Kassy R. · 2025-12-16 · rival's own site: babelash.com (Yotpo widget, 196 reviews on this product) ([link](https://babelash.com/products/renewing-serum))
 
@@ -1238,9 +1637,130 @@ Themes: worked · redness / itching
 
 Themes: worked · illness / chemo · Time to results: 3-5 weeks
 
+**R-611** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Krissy A. · in her text: "middle age" · Age Range: not given on the review form · 2020-11-23 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Well, hello there lashes!] I wish I had photos of my eye lash transformation - but alas, I did not truly believe this product would result in what I have now! This morning, while putting on mascara I noticed my REAL lashes were just as long and plentiful as my nieces fake magnetic ones. This is coming from a blonde woman who had very very few lashes due to stress, middle age, and life. I'm not one to be vain, but hello beauties! I will NOT miss an application of this magic dust for years to come.
+
+Themes: worked · thinning with age
+
+**R-612** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars, 4 found it helpful · Dominique · in her text: "with age" · Age Range (her own answer on the review form): 45-54 · 2022-08-14 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Amazing] I have been using this for about a year now and my lashes couldn't be more full and beautiful.  I have naturally long lashes, but with age they have spots that are thinning out and this has taken care of it.  I started with using it twice a day to get them back again in the lacking areas, and now I use once a day to maintain.  I am really amazed with the results!   I really can't recommend this more if you are looking to grow/maintain your beautiful eyelashes.
+
+Themes: worked · thinning with age · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Improved lash/brow density, Improved lash/brow length, Easy to incorporate in daily routine
+
+**R-613** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Melissa A. · Age Range: not given on the review form · 2019-09-08 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Great lash and brow serum] I had no eyebrows left do to too much chemotherapy and radiation they are actually growing back with this stuff and I also now have eyelashes nothing incredible but since using this they are growing back
+
+Themes: worked · illness / chemo
+
+**R-614** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Lily · Age Range: not given on the review form · 2021-06-25 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [It really works!!] I used a different lash serum for 2 years before I realized the serious side effects some chemical ingredients can have--my eyes were irritated, swollen, and darkening. To transition back to my natural lashes after quitting the serum, I thought I would give Vegamour a go--it didn't have the scary ingredients and sounded like it really works for some people. Well, about 6 months later I am so happy with my results from Vegamour. My lashes are healthy, longer, and fuller than they used to be naturally. I was terrified to stop using the old serum and lose all my lashes, but Vegamour really helped with the transition and made me happy with my natural lashes for the first time. I have sensitive eyes, and this serum has never irritated them even slightly. I seriously recommend!
+
+Themes: worked · after stopping · darker lids · redness / itching · no side effects
+
+**R-615** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Amanda W. · Age Range: not given on the review form · 2020-05-10 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [SAVED my lashes after extensions!] This stuff is amazing! I had lash extensions for over 3 years and took them off about 3 weeks ago. My natural lashes were basically non-existent: super short, brittle, thin, barely hanging on. I've tried Latisse and another "natural" lash serum but they irritated my eyes sooo bad. I have super sensitive skin and am also prone to getting excema above and below my eyes. Fun stuff. I decided to try this. I loved that it's vegan and uses natural ingredients. 3 weeks in and my lashes are noticeably darker and getting longer and longer! I'm so excited that this works and doesn't irritate my eyes. The first week I did experience a little bit of itchiness after applying. Nothing crazy or unbearable and has completely gone away now. 
+>
+> Thank you for this product!
+
+Themes: worked · extension damage · redness / itching · Time to results: 3-5 weeks
+
+**R-616** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 4/5 stars · Marlie C. · Age Range: not given on the review form · 2021-12-10 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [healthier longer lashes!] I have been using this for about 8 months now. I had lash fallout from a surgery I had a couple years back and they never came all the way back in. This worked for me! It took me about 2 months of consistent use but it really increased the length of my lashes and density. It didn’t make them any thicker though, but now my mascara is much more helpful and looks more even- no lash gaps! I now use it once a day for maintenance. Love that it’s vegan and unless you get a ton in your eye it doesn’t cause any irritation for me (none of the vegamour products do which is huge because i’m very sensitive to fragrance and things. no issues here.) I will continue to use because i feel my lashes are much more healthy!
+
+Themes: worked · illness / chemo · no side effects · Time to results: 6-12 weeks
+
+**R-617** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 4/5 stars, 1 found it helpful · Jessica · Age Range: not given on the review form · 2021-03-25 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Four Weeks In] I’m officially four weeks into my serum use and I’m pleasantly surprised with my results! My results aren’t as drastic as some pictured, but I’m still pleased. I use the regular lash serum as instructed on my top lashes I my twice a day (there was one day where I only applied once). I’m lucky to have a dark, thick lash line, but my lashes have always been really short. It was almost impossible to curl them, and when I did it would actually hurt a little (from the curler pulling the lashes). 
+>
+> I don’t know if my results are noticeable to anyone else yet, but I can see a difference. My lashes are thicker, darker, and a little bit longer. It’s hard to judge exactly how much longer they’ve gotten (when I close my eyes, my bottom lashes would stick out longer than my top lashes), but there’s definitely a difference! The difference is most obvious when I curl them, they actually stay visibly curled and there’s no pinching pain!!!
+>
+> All pictures are of my naked lashes (no mascara or serum). Before pics on top, after pictures on bottom. 
+>
+> I’ll update my review after 8 weeks.
+
+Themes: worked · others noticed / photos · Time to results: 3-5 weeks
+
+**R-618** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Sarah K. · Age Range: not given on the review form · 2021-03-09 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Noticed improvement in 2 weeks!] I got lash extensions a few years ago and experienced a reaction on the right lash line (presumably from the glue). Unfortunately, I had to remove some pieces/lashes very quickly to stop the burning. Since then, I've had shorter less organized lashes on this side. After using this serum for 2 weeks, I definitely noticed healthier looking lashes.
+> It's going on 2 months of usage and my lashes are longer, thicker and the lash line looks more symmetrical. Will definitely keep using vegamour!
+
+Themes: worked · extension damage · Time to results: 2 weeks or less
+
+**R-619** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 5/5 stars · Christina B. · Age Range: not given on the review form · 2021-04-28 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Effective lash serum] I have sensitive eyes with brittle lashes, searching for a safe, non hormone based serum to improve length and fullness. I have been using this serum regularly twice a day for 7 weeks, and I am thrilled with the results. I noticed progressive increase in length by the second week. One dip covers both eyes, top and bottom. I have not experienced any negative side effects, no sensitivity. I will continue using and decrease frequency to once a day as recommended after 2 months of use. I am going to try the brow serum next...
+
+Themes: worked · no side effects · ease of use · Time to results: 2 weeks or less
+
+**R-620** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 4/5 stars · Janelle · Age Range: not given on the review form · 2020-07-16 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Works for Short Asian Lashes But Takes Longer To See Results] I was skeptical this would work for my short asian lashes, and after two months I didn't see a difference at all. I started at the beginning of quarantine (march) and finally saw longer lashes by June. Now into July they start to really pop with just an eyelash curler and no mascara which is great! I wanted to leave this review in case you have shorter lashes - stick with it and you will eventually see results! Minus one star because while they are longer, I don't see a density/volume difference.
+
+Themes: worked
+
+**R-621** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 4/5 stars, 2 found it helpful · Kristen B. · Age Range: not given on the review form · 2022-02-03 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Long-Term Consistency Will Yield Result] I’ve used this serum consistently since beginning Oct 2021 (about 4mos). I do see a slightly noticeable improvement in length but only with mascara on since my lashes are light at the tips, but nothing like crazy long spider lashes. I’ve tried Latisse and my eyes were bloodshot, just started trying Grandelash and it seems to doing the same. This formula is the most gentle to use to implement into your daily routine. Chances are I will goes back to Vegalash and probably try the CBD formula at some point. You just have to give it a lot of time and don’t give up after just a few weeks, it’s the “long game” with this stuff like +6mo
+
+Themes: worked · no side effects · redness / itching · after stopping · Time to results: over 3 months
+
+**R-740** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Missie · age group: not given on the review form · 2025-09-15 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Amazing] I lost my lashes going through Chemo .
+>
+> Finally finished and was looking for a serum to help with the growth .
+>
+> Tried many different ones and got little results .
+>
+> I was at the Detox Market where they sell this product and decided to give it a try .
+>
+> Within a week I started to notice growth and there has been more since .
+>
+> This is the best I have used to date so far .
+>
+> Now I only wish that they had a hair serum that did the same thing 😁
+>
+> Some food for thought as they say ?
+>
+> Cannot wait to see more results as time goes on.
+>
+> The ingredients that are needed for growth are at the top of the ingredient list and not full of fillers .
+>
+> Which makes the difference between growth and a product not doing anything 
+>
+> Very happy with this .
+
+Themes: worked · illness / chemo · Time to results: 2 weeks or less
+
+**R-741** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Sabrina · age group: not given on the review form · 2025-01-26 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [An unbelievable transformation for my lashes] have always been fortunate to have naturally beautiful, long, and dense lashes. However, with age and the effects of chemotherapy, they became increasingly thin and prone to falling out. I believe I have tried nearly every eyelash serum available on the market, with varying results. Then, I came across Sweed’s serum, and I was astonished! I purchased three bottles and waited to see if the results would be both genuine and long-lasting—and they truly are! My lashes look amazing, even without mascara, and there have been no side effects. I won’t be searching for an alternative again. Congratulations, Sweed, on creating such an incredible product!
+
+Themes: worked · illness / chemo · no side effects
+
+**R-742** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Tiffany · age group: not given on the review form · 2025-11-16 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [I works wonders and doesn't irritate my eyes] What more could I ask for? This has made a tremendous difference for me. I have hypothyroidism and Hashimotos thyroiditis that I have been finally getting under control this past year. My hair and eyebrows were starting to recover, but my lashes were still struggling. I ordered this when I noticed that a small chunk of the lashes on my right eye were still missing. Within a month they were growing in and now 3 months in it looks like I have false eyelashes on when I curl my lashes. I'm so happy with this!
+
+Themes: worked · illness / chemo · no side effects · Time to results: 3-5 weeks
+
+**R-743** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Missy S. · age group: not given on the review form · 2025-01-22 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Game changer] I normally don't write reviews, but wth this product, there's no way I couldn't!! Due to aging and using eyelash extensions, my lashes were short, thin and sparse. I was watching on of my favorite makeup influencers and she raved about this product, so I had to try it! OMG!!! I received results what seemed like a few weeks. My lashes are the longest I've ever seen them and they're so much thicker and fuller. I cannot say enough good things about your eyelash serum! Thank you!
+
+Themes: worked · extension damage · thinning with age
+
 ### Thicker or fuller, or less shedding, but not much longer (7)
 
-**R-065** · *Vegamour GRO Lash Serum* · 3/5 stars · Stephanie P. · 2024-10-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-065** · *Vegamour GRO Lash Serum* · 3/5 stars · Stephanie P. · Age Range (her own answer on the review form): 25-34 · 2024-10-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Unsure how well it’s working] After a few months of use, the lash serum appears to have slightly thickened my lashes but that’s about it :( haven’t seen any difference in lash length. I’ll continue using the product though since I know these things can take more than a few months sometimes
 
@@ -1282,33 +1802,33 @@ Themes: thicker / less shedding
 
 Themes: thicker / less shedding · fear / which is safe
 
-### No result, or too little to matter (14)
+### No result, or too little to matter (16)
 
-**R-004** · *Vegamour GRO Lash Serum* · 1/5 stars, 6 found it helpful · swtshawna · 2026-08-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-004** · *Vegamour GRO Lash Serum* · 1/5 stars, 6 found it helpful · swtshawna · Age Range (her own answer on the review form): 45-54 · 2026-08-22 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [No Improvement] I was a user of Latisse  before becoming a vegan.  Latisse did amazing things for my eyelashes. Sadly this product did nothing. I am writing this review not to be negative but to allow other former Latisse users read that they DO NOT compare. Save your money. This is too expensive to not get results.  Unfortunately it is probably to late for me to return the unused eyebrow serum or 2nd set so if you get this product try it asap so you can get your money back if you also do not see results.
 
 Themes: no result · price / value · after stopping · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months)
 
-**R-008** · *Vegamour GRO Lash Serum* · 1/5 stars, 4 found it helpful · PAOLA C. · 2026-08-11 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-008** · *Vegamour GRO Lash Serum* · 1/5 stars, 4 found it helpful · PAOLA C. · Age Range (her own answer on the review form): 55-64 · 2026-08-11 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [TOTAL WASTE OF MONEY] I'll write it again as I see that my yesterday review wasn't even posted. The product is a total scam and a total waste of money. It barely works as conditioner but, just barely and only if you wanr to use a lot of imagination. After my yesterday review their customer care reached to me via  e - mail giving directions about how to appropriately use it showing that she had not read my review at all. Ridiculous! I don't know how you can take people's money this way!
 
-Themes: no result · price / value · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 90 days (3 months)
+Themes: over 50 · no result · price / value · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 90 days (3 months)
 
-**R-030** · *Vegamour GRO Lash Serum* · 3/5 stars, 10 found it helpful · Cheryl F. · 2025-08-15 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-030** · *Vegamour GRO Lash Serum* · 3/5 stars, 10 found it helpful · Cheryl F. · Age Range (her own answer on the review form): 55-64 · 2025-08-15 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Lash serum ]  A small area in my eyelashes fell out in October of 2024 and I started using the Vegamour lash serum 1 -2 times a day for regrowth.  It is now August 2025 and I have barely had any new eyelash growth. I still have a bald spot in my lashes. I will continue to use the product since I still have it, but I am very disappointed that the lash serum didn't do what it claims to do.
 
-Themes: no result · illness / chemo · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Easy to incorporate in daily routine
+Themes: over 50 · no result · illness / chemo · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 150 days (5 months) or more; What improvements have you noticed? Easy to incorporate in daily routine
 
-**R-087** · *Vegamour GRO Lash Serum* · 1/5 stars, 1 found it helpful · Claudia A. · 2024-02-29 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-087** · *Vegamour GRO Lash Serum* · 1/5 stars, 1 found it helpful · Claudia A. · Age Range (her own answer on the review form): 25-34 · 2024-02-29 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Not pleased ] I’ve used other products from Vegamour before which I liked but I didn’t see any results at all with this lash serum. I’ve used quite a few different ones in the past and this was probably one of the worst ones for the price unfortunately. I really wanted it to work given the ingredients but it didn’t make any difference.
 
 Themes: no result · price / value · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 90 days (3 months)
 
-**R-118** · *Vegamour GRO Lash Serum* · 1/5 stars, 18 found it helpful · Marinella D. · 2023-03-18 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-118** · *Vegamour GRO Lash Serum* · 1/5 stars, 18 found it helpful · Marinella D. · Age Range (her own answer on the review form): 35-44 · 2023-03-18 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Doesn't work ] I've been using this system for a year. I was using Latisse and Grande before but they both caused a lot of irritation to my eye lids and sometimes my face. However, both brands worked great for length, volume, and curl. Since using this brand, I've noticed my eyelashes are super short, no volume, sparse and are board straight. Basically how they were before I ever used lash serums. I've wasted a lot if money on this brand and highly wouldn't recommend. Does. Not. Work. 
 
@@ -1368,9 +1888,21 @@ Themes: no result
 
 Themes: no result
 
+**R-623** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 3/5 stars · Carolyn H. · Age Range: not given on the review form · 2021-10-08 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Have been using for over] Have been using for over a month now and see no change. I may be different and need more time as I came off chemotherapy.
+
+Themes: no result · illness / chemo
+
+**R-624** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 1/5 stars, 3 found it helpful · Jessica M. · Age Range: not given on the review form · 2022-01-21 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [No length, Revitalash better] After using other serums for years, this one is probably the least effective. I guess you can say it’s “volumizing”, but my lashes looked way better three months ago with the Revitalash. Even Latisse is a lot better. Beautiful packaging though!
+
+Themes: no result · after stopping
+
 ### Too early to tell (1)
 
-**R-035** · *Vegamour GRO Lash Serum* · 3/5 stars, 5 found it helpful · REBECCA R. G. · 2025-06-18 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-035** · *Vegamour GRO Lash Serum* · 3/5 stars, 5 found it helpful · REBECCA R. G. · Age Range (her own answer on the review form): 45-54 · 2025-06-18 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [No results, but it's only been 1 month] It's hard to assess the product because I haven't seen any results, but it's only been a month.  I'm going to stick with it for at least three months.  When I first applied it, my eyelashes did get itchy.  The itchiness eventually goes away though.
 
@@ -1378,11 +1910,11 @@ Themes: too early · redness / itching · Reviewer's survey answers: How often a
 
 ### Side effect: burning or stinging (5)
 
-**R-101** · *Vegamour GRO Lash Serum* · 3/5 stars · Lee Ann R. · 2023-09-20 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-101** · *Vegamour GRO Lash Serum* · 3/5 stars · Lee Ann R. · Age Range (her own answer on the review form): 55-64 · 2023-09-20 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Changes to serum?] I’ve been using GRO Lash serum for a couple of years with success and no negative effects. However, this serum burns a bit upon application,. The burning sensation doesn’t last long, and doesn’t make my eyes red, though, so I have continued to use it.  The applicator is attached in an odd way as well. The top rattles and seems ready to fall apart.  On the whole, I’d prefer the “old” product.
 
-Themes: burning · ease of use · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 120 days (4 months); What improvements have you noticed? Improved lash/brow density
+Themes: over 50 · burning · ease of use · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 120 days (4 months); What improvements have you noticed? Improved lash/brow density
 
 **R-312** · *Babe Original Renewing Lash Serum (prostaglandin-free); some reviewers on this page compare it with the Essential serum* · 5/5 stars, 1 found it helpful · Angelic M. · 2025-06-11 · rival's own site: babelash.com (Yotpo widget, 196 reviews on this product) ([link](https://babelash.com/products/renewing-serum))
 
@@ -1439,11 +1971,11 @@ Themes: allergy / swelling · dry eye / blurry
 
 ### Side effect: dry eyes or blurred vision (2)
 
-**R-034** · *Vegamour GRO Lash Serum* · 3/5 stars, 6 found it helpful · MaryAnn F. · 2025-06-20 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-034** · *Vegamour GRO Lash Serum* · 3/5 stars, 6 found it helpful · MaryAnn F. · Age Range (her own answer on the review form): 65+ · 2025-06-20 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Neutral?] Started off well, or at least seem to.  Then my eyes became scratchy and dry and I had to stop.  I don’t have seasonal allergies but can’t rule out something in the air.  Could be my age.  Took a few weeks off and am trying again.  Hopeful for good results.
 
-Themes: dry eye / blurry · after stopping · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Easy to incorporate in daily routine
+Themes: over 50 · dry eye / blurry · after stopping · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Improved lash/brow density, Easy to incorporate in daily routine
 
 **Y-019** · *The Ordinary Multi-Peptide Lash and Brow Serum* · 17 likes · @shaunalockett8260 · 2023-10 (approx.) · YouTube comment on "THE ORDINARY MULTI-PEPTIDE LASH & BROW SERUM | 90 DAY UPDATE WITH BEFORE & AFTER'S" (Sincerely Miss Ash, 102,901 views) ([link](https://www.youtube.com/watch?v=Z86iZsbqybo))
 
@@ -1467,7 +1999,7 @@ Themes: puffy lids · dry eye / blurry · redness / itching
 
 ### Side effect: lashes fell out, broke or grew wrong (2)
 
-**R-044** · *Vegamour GRO Lash Serum* · 1/5 stars, 9 found it helpful · Jenna P. · 2025-03-12 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-044** · *Vegamour GRO Lash Serum* · 1/5 stars, 9 found it helpful · Jenna P. · Age Range (her own answer on the review form): 35-44 · 2025-03-12 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Nope] I waited too long to get a refund and accidentally didn’t update my subscription so I paid for a second tube. But this stuff broke my eyelashes off and created bald spots that weren’t there before. Once I stopped using it, my eyelashes started growing again. I’m so bummed it didn’t work at all for me and made my eyelashes worse. 
 
@@ -1481,17 +2013,17 @@ Themes: lash loss / breakage · no result · price / value
 
 ### No side effects, gentle on sensitive eyes (4)
 
-**R-048** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Melissa M. · 2025-01-19 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-048** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Melissa M. · Age Range (her own answer on the review form): 45-54 · 2025-01-19 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Doesn’t irritate the eyes] I’ve tried several lash serums and all of them left my eye area irritated and dry.  Except this one!  My lashes are growing and I’m experiencing less fall out. 10/10 would recommend to people experiencing irritation and dryness from other brands.  
 
 Themes: no side effects · worked · thicker / less shedding · Reviewer's survey answers: How often are you using the product? 3-4x per week; How long have you been using the product? 60 days (2 months); What improvements have you noticed? Easy to incorporate in daily routine, Improved lash/brow density, Improved lash/brow strength
 
-**R-062** · *Vegamour GRO Lash Serum* · 5/5 stars, 3 found it helpful · Laura B. · 2024-11-03 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-062** · *Vegamour GRO Lash Serum* · 5/5 stars, 3 found it helpful · Laura B. · Age Range (her own answer on the review form): 65+ · 2024-11-03 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [Love it] I have lashes! I have tried other lash serums and didn't like them. Some burned when I used them, others did nothing and then some have bad ingredients. I had no redness, itching or burning with this serum and will continue using it.  
 
-Themes: no side effects · worked · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow length, Improved lash/brow density, Easy to incorporate in daily routine
+Themes: over 50 · no side effects · worked · Reviewer's survey answers: How often are you using the product? Twice a day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow length, Improved lash/brow density, Easy to incorporate in daily routine
 
 **R-300** · *Babe Original Renewing Lash Serum (prostaglandin-free); some reviewers on this page compare it with the Essential serum* · 5/5 stars, 2 found it helpful · Nicole F. · 2026-05-12 · rival's own site: babelash.com (Yotpo widget, 196 reviews on this product) ([link](https://babelash.com/products/renewing-serum))
 
@@ -1505,13 +2037,27 @@ Themes: no side effects · worked · extension damage
 
 Themes: no side effects · worked
 
-### Ease of use, brush, texture, smell, routine (1)
+### Ease of use, brush, texture, smell, routine (3)
 
 **Y-026** · *The Ordinary Multi-Peptide Lash and Brow Serum (on brows)* · 1 likes · @susanmcf1 · 2023-10 (approx.) · YouTube comment on "THE ORDINARY MULTI-PEPTIDE LASH & BROW SERUM | 90 DAY UPDATE WITH BEFORE & AFTER'S" (Sincerely Miss Ash, 102,901 views) ([link](https://www.youtube.com/watch?v=Z86iZsbqybo))
 
 > I only use this on my brows. It makes brow pencil go on much better. It hasn't grown new brow hairs.  I'll keep buying it.
 
 Themes: ease of use · no result
+
+**R-622** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 4/5 stars · Allison · Age Range: not given on the review form · 2021-06-07 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Works well even with infrequent use!] I didn't use this as often as I should have and I've still seen a noticeable difference in my lashes, especially the lower lashes. I've been getting complimented on them even when I'm not wearing makeup! My only gripe is that I don't like applying the product and I feel like it's hard to get close to the lash line without getting it in my eye. I usually have to use a steady hand like I'm applying liquid liner and as someone who likes a minimal daily routine, I usually leave this out and save it for self-care days.
+
+Themes: ease of use · worked · others noticed / photos
+
+**R-744** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 5/5 stars · Helga S. · age group: not given on the review form · 2025-09-30 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Review: ⭐⭐⭐⭐⭐] I'm really happy with this product! The consistency is just right, and I love that it doesn't have a strong smell. I've been using it daily in the evenings, and I can already see visible results.
+> My lashes feel stronger, yet they remain flexible and soft. I no longer feel the need to use mascara every day—just curling my lashes is enough now!
+> I also really like the color of the packaging—it's eye-catching among other products and serves as a great reminder to use it regularly. Highly recommend!
+
+Themes: ease of use · worked
 
 ### After stopping or switching (2)
 
@@ -1527,15 +2073,21 @@ Themes: after stopping
 
 Themes: after stopping
 
-### Stopped working over time (1)
+### Stopped working over time (2)
 
-**R-127** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Christine S. · 2023-02-18 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+**R-127** · *Vegamour GRO Lash Serum* · 5/5 stars, 2 found it helpful · Christine S. · Age Range (her own answer on the review form): 45-54 · 2023-02-18 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
 
 > [GRO Lash Serum] I've been using Grande for about the past two years. It worked great at first then seemed to stop. I started using Vegamour and have seen significant growth in the past month! I also swipe it on my brows and have seen growth there too. Would definitely recommend.
 
 Themes: stopped working · worked · Time to results: 3-5 weeks · Reviewer's survey answers: How often are you using the product? 1x per day; How long have you been using the product? 30 days (1 month); What improvements have you noticed? Improved lash/brow strength
 
-### Price, value, how long a tube lasts (2)
+**R-625** · *Vegamour GRO Lash Serum (older reviews call it 'Vegalash')* · 3/5 stars · Tara · Age Range: not given on the review form · 2021-08-08 · rival's own site: vegamour.com (Okendo widget) ([link](https://vegamour.com/products/gro-lash-serum))
+
+> [Lash Loser] My lashes always seem to shed too easily and I notice a lot of fall out. I started using this product a few months ago to help decrease shedding. I felt like I had to go through a period of even more shedding than usual before this product started bro show some results. Around month 2 I thought I was seeing a lot of improvement but since then I feel like I'm going backwards again. I'm going to keep trying this product but right now I'm unsure about it.
+
+Themes: stopped working · lash loss / breakage
+
+### Price, value, how long a tube lasts (3)
 
 **Y-066** · *The Ordinary Multi-Peptide Lash and Brow Serum* · 72 likes · @tac0_6 · 2024-10 (approx.) · YouTube comment on "Is Ordinary Lash Serum Safe? Eye Doctor Explains" (Dr. Rupa Wong, 179,725 views) ([link](https://www.youtube.com/watch?v=cGIkskWfMuI))
 
@@ -1548,6 +2100,12 @@ Themes: price / value · fear / which is safe
 > I think it's too expensive to use twice a day = the 5ml product would last only 16 days for £14.20 or how much ever it is in the us also.
 
 Themes: price / value
+
+**R-746** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 3/5 stars · Tania V. · age group: not given on the review form · 2025-12-20 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Small amount, cheap packaging] I purchased the brow and lash serums. These products cost me a fortune, especially considering I ordered them to Canada. Of course the extra cost is on me, however I am surprised at the tiny amount of product in each of these tubes and the packaging is extremely cheap. I only hope this will last me until I can see some results. I should also mention that it makes your eyelids turn red. Not a big deal but might bother some people.
+
+Themes: price / value · redness / itching · ease of use
 
 ### Problem before: thin, short or sparse lashes with age (1)
 
@@ -1604,6 +2162,16 @@ Themes: ingredients
 > i think one needs to use many tubes to be able to catch the hairs during their growth phase
 
 Themes: ingredients
+
+### Side effect: darker eyelids or under-eyes (1)
+
+**R-745** · *Sweed Eyelash Growth Serum (sold as prostaglandin-free: "A clean, prostaglandin-free lash serum", brand page)* · 1/5 stars · Ginger · age group: not given on the review form · 2025-09-15 · rival's own site: sweedbeauty.com (Yotpo widget, 1,566 reviews on this product) ([link](https://sweedbeauty.com/products/eyelash-growth-serum))
+
+> [Pigmentation Deposit] My eyelashes are thicker and slightly longer but at a cost. The skin around my eyes became extremely dark and i have also had significant fat loss under the eyes. On the packaging it does state that one of the side effects is enhanced skin pigmentation in the area of application.
+
+[R] The serum is sold as prostaglandin-free, and dark skin and fat loss are typical prostaglandin effects. Her note about the packaging could not be checked. She may be mixing it up with another product, or this may be a real reaction.
+
+Themes: darker lids · hollow eyes · worked
 
 ## 6. Prostaglandin serums, for contrast (94)
 
@@ -2100,7 +2668,7 @@ Themes: no side effects · worked
 
 ### Ease of use, brush, texture, smell, routine (1)
 
-**Y-082** · *generic Latisse (bimatoprost)* · no likes shown · @msluvtodraw2 · 2015-10 (approx.) · YouTube comment on "Longer Eyelashes in My Later Years - My Before and After Photos" (MaryEllen After 60, 8,358 views) ([link](https://www.youtube.com/watch?v=5s86NGOVsQ0))
+**Y-082** · *generic Latisse (bimatoprost) [R: my reading; the video's tags include "Latisse", "Careprost" and "Bimatoprost"]* · no likes shown · @msluvtodraw2 · 2015-10 (approx.) · YouTube comment on "Longer Eyelashes in My Later Years - My Before and After Photos" (MaryEllen After 60, 8,358 views) ([link](https://www.youtube.com/watch?v=5s86NGOVsQ0))
 
 > I've used it before and still do from time to time. I put my drop in the divot on the top of the cap and it really does go a long way!  I use it on my eyebrows when they get sparse too. Great review!  ~Mary
 
@@ -2242,12 +2810,12 @@ Themes: glaucoma drops
 
 Themes: castor oil
 
-## 7. Lash serums in general, castor oil and fears (42)
+## 7. Lash serums in general, castor oil and fears (54)
 
 Comments about lash serums in general, unnamed serums, castor oil and other home remedies, and the many comments from people who are afraid to start.
 
 
-### It worked: longer, fuller or regrown lashes (5)
+### It worked: longer, fuller or regrown lashes (8)
 
 **Y-022** · *UK Lash serum (ingredients not checked)* · 2 likes · @alisonreed4408 · 2023-10 (approx.) · YouTube comment on "THE ORDINARY MULTI-PEPTIDE LASH & BROW SERUM | 90 DAY UPDATE WITH BEFORE & AFTER'S" (Sincerely Miss Ash, 102,901 views) ([link](https://www.youtube.com/watch?v=Z86iZsbqybo))
 
@@ -2284,7 +2852,27 @@ Themes: worked · redness / itching
 
 Themes: worked · lash loss / breakage · after stopping
 
-### Side effect: redness, itching or irritation (2)
+**Y-201** · *Reviv lash serum (sold in the video as prostaglandin-free; one later commenter, Y-207, says otherwise; ingredients not checked)* · 38 likes · @margareto1600 · 2023 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> Everyone should try this product. It worked for me much better than Latisse and everything else. 
+> Claudia talked about this brand few months back. My lashes r so much longer and darker and fuller!!! I'm on my 3rd month, same bottle,  every night use.
+> Thank u Claudia for that older video!
+
+Themes: worked · after stopping
+
+**Y-202** · *Reviv lash serum (sold in the video as prostaglandin-free; ingredients not checked)* · no likes shown · @carolwong9279 · 2025 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> Claudia, I have been using the Reviv lash serum for almost 2 months now and I am loving the results.  Now, i don't have many lashes but I have noticed longer and thicker lashes.  I just ordered my second tube.  Thank you for your discount code.  Love you😘
+
+Themes: worked
+
+**Y-203** · *Reviv lash serum, alternated with castor oil; The Ordinary (did nothing)* · 8 likes · @nancydavis9712 · 2023 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> Claudia, I have been using this eye serum since the end of June.  I love it, no side effects that I had with the others I tried.  Like you the ordinary one, did nothing for me.  I have found that I only need to use the reviv, every other day, and castor oil the other days.  Thank you for all your recommendations.
+
+Themes: worked · no side effects · castor oil
+
+### Side effect: redness, itching or irritation (3)
 
 **Y-051** · *lash growth serums (not named), then castor oil* · 26 likes · @marinaa.acosta-saucedo686 · 2023-10 (approx.) · YouTube comment on "Beware! Lash Serum Side Effects + Safe Alternatives" (The Budget Dermatologist, 104,051 views) ([link](https://www.youtube.com/watch?v=zZQiphx37d0))
 
@@ -2298,6 +2886,12 @@ Themes: redness / itching · lash loss / breakage · castor oil
 
 Themes: redness / itching
 
+**Y-212** · *RevitaBrow (a brow serum from the RevitaLash brand; ingredients not checked here)* · no likes shown · @kosmosbjm · 2023 (approx.) · YouTube comment on "Thicker Brows + Longer Lashes Over 50! My Favorite Serums" (HotandFlashy, 148,769 views) ([link](https://www.youtube.com/watch?v=BHfB8_Jnb_8))
+
+> My RevitaBrow worked well for over a year, until I began to have very itchy side effects.  I would itch and that turned into bumps and skin irritation.  I loved RevitaBrow, too, until over a year when the side effects began to show up.  Beware of this happening over time due to the ingredients contained in the formula.  I finally had to stop using and then my itching and irritation stopped.
+
+Themes: redness / itching · after stopping
+
 ### Side effect: dry eyes or blurred vision (1)
 
 **Y-141** · *a lash serum (not named)* · 21 likes · @radiandrea · 2022 (approx.) · YouTube comment on "LASH SERUM WARNING! EXPOSED for AGING YOUR EYES" (Dr. Anil Rajani, 112,361 views) ([link](https://www.youtube.com/watch?v=5bNNbQuPYIQ))
@@ -2306,13 +2900,19 @@ Themes: redness / itching
 
 Themes: dry eye / blurry · redness / itching
 
-### Side effect: darker eyelids or under-eyes (1)
+### Side effect: darker eyelids or under-eyes (2)
 
 **Y-045** · *over-the-counter lash boosters* · 13 likes · @robyncoward2999 · 2024-10 (approx.) · YouTube comment on "Beware! Lash Serum Side Effects + Safe Alternatives" (The Budget Dermatologist, 104,051 views) ([link](https://www.youtube.com/watch?v=zZQiphx37d0))
 
 > Thank you SO much for this show. I had seen weird effects from some of the ill effects of the over the counter lash boosters, plus the packaging talks about darkening of the lid. Now to hear the science behind these dark circles I'm so glad I threw it all away before more damage was done. Shame on the industry for allowing these for sale. Thank you, thank you, thank you,
 
 Themes: darker lids · after stopping · fear / which is safe
+
+**Y-208** · *M2 Beaute, Xlash, RapidLash and RevitaLash* · 2 likes · @lovetopisces · 2023 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> I tried M2 Beaute lash serum, the first bottle went completely fine, visible lash improvement, no side effects. I got the second bottle and after a short while my eye lids became brownish red, they didn’t itch or anything but the color changed definitely. So I dropped it. Xlash gave me irritation very quickly, stopped using. RapidLash and RevitaLash were OK but no noticeable difference.
+
+Themes: darker lids · redness / itching · no result
 
 ### Side effect: eye colour change (1)
 
@@ -2378,7 +2978,7 @@ Themes: extension damage · fear / which is safe
 
 Themes: extension damage · darker lids
 
-### Problem before: lash loss from chemo, illness, alopecia, pregnancy or medicine (3)
+### Problem before: lash loss from chemo, illness, alopecia, pregnancy or medicine (4)
 
 **Y-064** · *castor oil (planning to try)* · 45 likes · @Thisismesewing · 2020-10 (approx.) · YouTube comment on "THE DIRTY TRUTH ABOUT NATURAL EYELASH SERUMS | 5 Month Results" (Kackie Reviews Beauty, 362,979 views) ([link](https://www.youtube.com/watch?v=CdtDzhjpsds))
 
@@ -2400,7 +3000,13 @@ Themes: illness / chemo · fear / which is safe
 
 Themes: illness / chemo · thinning with age
 
-### Problem before: thin, short or sparse lashes with age (1)
+**Y-209** · *Reviv lash serum (just ordered)* · 16 likes · @e.b.4379 · 2023 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> Another great video - thank you, Claudia! I just ordered the serum using your discount code. I recently completed my last round of chemo 2 months ago and hope this helps to restore some of my eyelashes and thinning eyebrows. 🤞
+
+Themes: illness / chemo · too early
+
+### Problem before: thin, short or sparse lashes with age (2)
 
 **Y-006** · *lash serums in general (over-50 channel)* · 2 likes · @marlynnek6449 · 2020-10 (approx.) · YouTube comment on "Thicker Brows + Longer Lashes Over 50! My Favorite Serums" (HotandFlashy, 148,769 views) ([link](https://www.youtube.com/watch?v=BHfB8_Jnb_8))
 
@@ -2408,7 +3014,13 @@ Themes: illness / chemo · thinning with age
 
 Themes: thinning with age
 
-### Afraid of side effects, or asking which serum is safe (11)
+**Y-211** · *Babe brow serum (asking)* · no likes shown · @silverlight6005 · 2026-02 (approx.) · YouTube comment on "Thicker Brows + Longer Lashes Over 50! My Favorite Serums" (HotandFlashy, 148,769 views) ([link](https://www.youtube.com/watch?v=BHfB8_Jnb_8))
+
+> Do u still use Babe amplifying brow serum? If u stop using this product do u lose the eyebrow hairs that appeared while u were using the product? My daughter plucked my brows 7 years ago and with age I have lost my tails my eyebrows are very sparse.I need some brow hairs and I cannot fill in the hairs I have because the color shades in pencils don't look right. I do tint them myself. I wish I would have let them be but everyone was doing the thin brow. These serums are expensive that's why I wanted to see how the product worked for u so I don't waste my money.Have a great day!
+
+Themes: thinning with age · fear / which is safe · price / value
+
+### Afraid of side effects, or asking which serum is safe (13)
 
 **Y-009** · *lash serums in general* · 29 likes · @jessicagutierrez7193 · 2022-10 (approx.) · YouTube comment on "My Top 4 Natural Lash Serums | Eye Doctor Explains" (Dr. Rupa Wong, 180,485 views) ([link](https://www.youtube.com/watch?v=9ehrWmpxQZQ))
 
@@ -2476,6 +3088,18 @@ Themes: fear / which is safe
 
 Themes: fear / which is safe
 
+**Y-206** · *bimatoprost and RevitaLash for years; castor oil; now starting Reviv* · 2 likes · @beyond50skin · 2023 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> I’ve used bimatoprost for quite a while & for a few years now have been alternating it with RevitaLash. Unlike many I have had very good results with bimatoprost. No noticeable side effects; but of course I don’t want to risk fat loss in the orbital area. Before I started using bimatoprost, about seven years ago, I had severely sunken eyes (age related ) which improved with a touch of filler and some PRF. My castor oil lash experiment didn’t last long.  For some reason my eyes became very irritated 🤷🏼‍♀️. Most recently, RevitaLash  has started to burn my eyes. I’m definitely interested in moving away from a prostaglandin based lash serums. I certainly don’t want to risk fat pad loss, if there’s a sum out there that can give similar benefits to bimatoprost / prostate Landon serums . My Reviv journey has just started!! I hope my results are as beautiful as yours. I had no luck with the ordinary serum 😢 either. I agree with you it’s all in the formulation. Thanks for this wonderful review.😊
+
+Themes: fear / which is safe · burning · hollow eyes · castor oil · after stopping
+
+**Y-210** · *asking for a serum that doesn't dry or redden the eyes* · no likes shown · @teresasmith6653 · 2026-04 (approx.) · YouTube comment on "Thicker Brows + Longer Lashes Over 50! My Favorite Serums" (HotandFlashy, 148,769 views) ([link](https://www.youtube.com/watch?v=BHfB8_Jnb_8))
+
+> Anyone know of a lash serum that doesn’t dry eyes and doesn’t turn them red
+
+Themes: fear / which is safe · dry eye / blurry
+
 ### Castor oil and home remedies (9)
 
 **Y-042** · *pure castor oil* · 43 likes · @AW-uv3cb · 2023-10 (approx.) · YouTube comment on "Beware! Lash Serum Side Effects + Safe Alternatives" (The Budget Dermatologist, 104,051 views) ([link](https://www.youtube.com/watch?v=zZQiphx37d0))
@@ -2533,13 +3157,39 @@ Themes: castor oil · no result
 
 Themes: castor oil · no result
 
+### Side effect: burning or stinging (1)
+
+**Y-204** · *Reviv lash serum (on lashes: burned; on brows: worked)* · 9 likes · @kg5158 · 2023 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> I ordered the Reviv 2 months ago on your recommendation but sadly not for sensitives eyes, burns & irritates just like the others and i have tried them all, so bummed. HOWEVER I use the Reviv on my eyebrows and have had the best results ever !!  My eyebrows grew in full and dark and SOFT- not wirey like the others so very happy about that : )
+
+Themes: burning · redness / itching
+
+### Too early to tell (1)
+
+**Y-205** · *Reviv lash serum, after prostaglandin serums* · 5 likes · @harrybeech4944 · 2024 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> Hi I bought some of this, I have spent lots of money in the past on eyelash serum and had bad results re the Prosterglandins. This new product has proved to be a gem, although it did take 3 weeks to arrive.  I have been using this now for 10 days, no sign of new growth but I have no doubt that within the month they will be thickening and length growth. I have been delighted that it has not irritated or made my eyes red or sore.
+
+Themes: too early · no side effects
+
+### Ingredient talk: what is or is not in it (1)
+
+**Y-207** · *Reviv lash serum (a commenter's claim about its ingredients; not checked)* · 1 likes · @saradise99 · 2026-09 (approx.) · YouTube comment on "Grow longer, thicker Lashes without the side effects of Prostaglandins" (Claudia Glows, 33,106 views) ([link](https://www.youtube.com/watch?v=WQTyX0LHYo8))
+
+> Claudia is so lovely and I appreciate her sharing this. But unfortunately Revive was found to have been hiding prostaglandins in their formula at the time this video was made. People were starting to experience side effects similar to Latisse and other prostaglandin based serums after using it for longer periods of time. So be careful! Shame on these companies for being so shady. Would love an updated video
+
+Themes: ingredients · fear / which is safe
+
 ## 8. Gaps and limits
 
 - **Amazon review text for B0C21JM5PY: not found.** Amazon blocks automated loads from this machine, and I did not try to get around it. The operator can read the 495 ratings by hand.
-- **Ages:** only 1 of the 85 Luxe reviews states an age. Over-50 evidence comes mainly from rival products.
-- **Selection:** for the rival sites I chose detailed reviews, so the rival counts describe the quoted set, not every review on those sites. The Luxe set is complete for the German Loox box.
-- **Brand's own sites:** the seller runs these boxes and chooses what they show. The German shop's two boxes show different star mixes for the same product (section 2.5). [M]
-- **Second check:** per CLAUDE.md rule 3, a second helper should re-check a sample of these quotes against the raw files before this goes to the operator. This file has not been checked yet.
+- **No more Luxe reviews could be reached.** Every Luxe review feed that loads normally has now been read (section 2.1). The long, story-like Luxe reviews are therefore few; most Luxe reviews are one or two lines.
+- **Ages:** only 1 of the 93 Luxe reviews states an age. Over-50 evidence comes mainly from rival products, especially Vegamour and Sweed, whose review forms ask for an age group.
+- **Before-and-after stories:** thin (see the note under table 2.3). Customer photos exist on the shops' boxes, but they are not described here.
+- **Selection:** for the rival sites I chose detailed reviews and all older reviewers' reviews, so the rival counts describe the quoted set, not every review on those sites. The star mixes in summary point 10 cover every older reviewer on those two sites. The Luxe set is complete for the German Loox boxes.
+- **Brand's own sites:** the seller runs these boxes and chooses what they show. [M]
+- **Second check:** this file was checked on 2026-10-31 (`checks/packs/04-eyelash-serum-pack-check.md`) and its fixes are applied. The quotes added afterwards (L-B1 to L-B6, L-S4, L-Y5, R-601 to R-625, R-701 to R-746, Y-201 to Y-212) were copied by a script straight from the saved raw files in `data/reviews/serum/round3/`, but a second helper has not yet re-checked a sample of them (CLAUDE.md rule 3).
 
 ## 9. Sources (all pulled 2026-10-31)
 
@@ -2549,17 +3199,24 @@ Themes: castor oil · no result
 - luxe-cosmetics.uk/products/lash-growth-serum (Judge.me `reviews_for_widget`).
 - luxe.com/products/luxe-eyelash-growth-serum-1-1-free and /products/lash-growth-serum (Judge.me).
 
+**Luxe's own shops, third pull (2026-10-31, `data/reviews/serum/round3/`):**
+- luxecosmetics.de/products/luxe-wimpern-und-augenbrauen-serum: Loox widget `loox.io/widget/nunhYUdVC2/reviews/8422165119257`, pages 1 to 62.
+- luxe.com/products/lash-brow-serum-set (Judge.me, product 7731733659906).
+- Checked and empty: Judge.me for luxe.com product 9272292442370 and for the UK bundle 7847968375000 (0 reviews); the German Loox boxes for products 15014034375031 (0) and 14909091021175 (the same 67 as the main serum box).
+
 **Rivals' own shops:**
-- vegamour.com/products/gro-lash-serum (Okendo public API).
+- vegamour.com/products/gro-lash-serum (Okendo public API): pages 1 to 6 in round 2, pages 7 to 20 on 2026-10-31 (`round3/okendo-vegamour-gro-lash-p7…p20`).
+- sweedbeauty.com/products/eyelash-growth-serum (Yotpo public widget API, product 9152780894431, all 11 pages of 150; `round3/yotpo-sweed-*`). Brand page text and price ($65 for 3 mL, $90 for 5 mL) from sweedbeauty.com/products.json, saved as `round3/sweed-eyelash-growth-serum-product-2026-10-31.json`.
 - babelash.com/products/essential-eyelash-serum and /products/renewing-serum (Yotpo widget API).
 - neulash.com/products/neulash-lash-enhancing-serum (Yotpo).
 
 **YouTube (NexLev):**
-- Luxe videos: 12dTKpvKhyw, JW3zXgn1hgU, 5zsIv3wmzek, yh0CqruLCVQ.
+- Luxe videos: 12dTKpvKhyw, JW3zXgn1hgU, 5zsIv3wmzek, yh0CqruLCVQ, coZYl1p8HmA.
 - Comments, this round: BHfB8_Jnb_8, 9ehrWmpxQZQ, Z86iZsbqybo, naxAuelsgVk, 6DLGHODOHrI, zZQiphx37d0, CdtDzhjpsds, cGIkskWfMuI, 6NoQAdxRMhk, 5s86NGOVsQ0, MC4gZn2xjWc (newest), BJkOLUtY7hc, phqyjc8xLMM, igR1YTT-zAM.
+- Comments, third pull (2026-10-31): WQTyX0LHYo8 (Claudia Glows, top, 2 pages) and BHfB8_Jnb_8 (newest, 1 page), saved as `round3/yt-comments-round3-2026-10-31.json`; transcript of coZYl1p8HmA (`round3/yt-transcript-coZYl1p8HmA-2026-10-31.txt`). Looked at and not used: h-NBqG3O0kQ (the transcript is about the website, not the serum) and T6soHbJAsJw (its one comment is the same as L-Y4).
 - Comments reused from round 1: tiRLNc6_A0E, pwgJzhK_uo0, ugIVUGBgxoA, MC4gZn2xjWc (top), 5bNNbQuPYIQ, LyTIspJDdmA, JAkepikAVSc, -CkalOVFWn8.
 
-**Web searches:** 2, both on Luxe reviews. They found no independent Luxe serum reviews. They did surface the Loox store page, which was blocked.
+**Web searches:** 2, both on Luxe reviews (none in the third pull, which used direct page loads and NexLev only). They found no independent Luxe serum reviews. They did surface the Loox store page, which was blocked.
 
 **Ingredients and prostaglandin status:** `data/serum/competitor-ingredients-2026-10-31.txt` (round 1).
 
