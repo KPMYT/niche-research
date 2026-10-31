@@ -18,8 +18,8 @@ Pulled and written 2026-10-31 by a review-collecting helper. Raw pulls: `data/re
 
 I collected **253 reviews and comments**, word for word: 28 about the Luxe balm itself, 84 about rival balm sticks, 77 about eye creams and 64 about under-eye care in general. 28 of them come from people who say they are 50 or older. [M]
 
-1. **There are very few real reviews of the Luxe balm yet.** I found 21 independent comments about it (YouTube and Trustpilot), plus 7 written testimonials on the brand's own two shops. No Amazon reviews could be read, and no rival-type review widget on the Luxe shops holds any reviews. [M]
-   - Of the 21 independent comments, **1 says it worked** ("It did take care of the bags", #4), **4 say it did nothing**, and 4 compare it to Vaseline or lip balm ("a glorified Vaseline", "It feels like chapstick"). 10 are viewers who decided not to buy after a review video. 8 are about ordering, delivery or refunds rather than the balm. [M count, R coding]
+1. **There are very few real reviews of the Luxe balm yet.** I found 21 independent comments about it (YouTube and Trustpilot), plus 7 written testimonials on the brand's own two shops. No Amazon reviews could be read, and the review-app slots on the Luxe shop pages are empty. [M]
+   - Of the 21 independent comments, **1 says it worked** ("It did take care of the bags", #4), **4 say it did nothing**, and 4 compare it to Vaseline or lip balm ("a glorified Vaseline", "It feels like chapstick"). 10 distrust the ads or thank a review video for the warning; 5 of them say the video stopped them buying or made them cancel. 8 are about ordering, delivery or refunds rather than the balm. [M count, R coding]
    - The brand's testimonials are all 5 stars, from women aged 43 to 63, and tell the stories the brand is selling: puffiness "less visible" by day 10, concealer that stops creasing after two weeks, dark circles "visibly lighter" at 25 days. They are the brand's own text, not independent reviews. [M]
 2. **The same formula sold elsewhere: not found.** No full ingredient list is published, so no twin product can be matched. [M]
 3. **Rival balm sticks (Medicube, Kahi, Dr.Melaxin, the RoC under-eye stick) get the most useful real reviews** (84 comments). The same story repeats [R]:
@@ -442,6 +442,8 @@ All: #32, #34, #35, #36, #37, #41, #45, #48, #50, #55, #56, #57, #58, #60, #87, 
 
 Grouped by product (Luxe first), then by where it was posted. Format: **#number** · who · date · likes or stars · stated age/skin · [tags].
 
+Tag key: worked, no change, dark circles, puffiness/bags, crepey/lines, concealer, timing (a time is stated), texture, hydration, how to use, side effects, price, ad distrust, ordering (shipping/refund), tried before, story (before-and-after), procedure (only surgery/filler fixes it), question.
+
 ### 4.1 The Luxe balm: independent buyers and viewers
 
 Also seen but not a buyer review: the creator of YouTube Short U_dHfrUSIfg ("Cassi", 2,389 views, 2026-07-15) describes the stick in the video text: "Since it comes in a stick format, I can apply it directly under my eyes without using my fingers, which keeps things more hygienic and avoids unnecessary tugging on skin that bruises and creases easily" and names "PDRN", "collagen extract", "Adenosine and licorice". [M]
@@ -449,87 +451,87 @@ Also seen but not a buyer review: the creator of YouTube Short U_dHfrUSIfg ("Cas
 
 **Luxe Korean Under Eye Balm**: YouTube eA_1gxIFJXk (TRUST IQ "Luxe Korean Under Eye Balm Review — Does It Really Work Or Scam?")
 
-- **#1** · @martamalavich2965 · ~2026-08-31 · 0 likes · — · [It did nothing / disappointed, Price and value]  
+- **#1** · @martamalavich2965 · ~2026-08-31 · 0 likes · — · [no change, price]  
   "I got mine pretty quickly.  However, I agree…it's another expensive scam.  I did not notice ANY difference after application.  Save your money!"
-- **#2** · @YulieJ2012 · ~2026-07-01 · 0 likes · — · [It did nothing / disappointed, Texture and feel, Buying, shipping and refund problems, Before-and-after stories]  
+- **#2** · @YulieJ2012 · ~2026-07-01 · 0 likes · — · [no change, texture, ordering, story]  
   "It's a scam, the product is a glorified Vaseline. Don't waste your money. Ordered early April, after being told it was shipped 17/4 .. no goods shipped and online tracking showed label created but not picked up. Raised it with my bank, Luxe emailed to say Refund would take 10 days .. waited 3 weeks later no refund and then they shipped product end May Regund never arrived and then I was told I would have to pay shipping to return product !!! .. Dishonest unscrupulous company ,worst customer service ever received."
-- **#3** · @jesb0rg · ~2026-10-24 · 0 likes · — · [Distrust of ads, claims and hype]  
+- **#3** · @jesb0rg · ~2026-10-24 · 0 likes · — · [ad distrust]  
   "I don't get why it's even legal to lie about products for marketing"
 
 **Luxe Korean Under Eye Balm**: YouTube cG7_XwI-vUU (Verify Beta "Luxe Under Eye Balm Review - Does it Work or Scam?")
 
-- **#4** · @josephinal · ~2026-10-30 · 0 likes · — · [It worked / the problem got better, Puffiness and bags]  
+- **#4** · @josephinal · ~2026-10-30 · 0 likes · — · [worked, puffiness/bags]  
   "I tried this. It did take care of the bags and still worked when I woke from my nap"
-- **#5** · @hollyeubanks4207 · ~2026-10-01 · 0 likes · 45 · [Price and value, Buying, shipping and refund problems]  
+- **#5** · @hollyeubanks4207 · ~2026-10-01 · 0 likes · 45 · [price, ordering]  
   "Oh no I just paid $38 for this product and I just received it today! I'm 45 yrs old my skin isn't that bad I'm using it as a preventative measure but now I feel like I wasted my $ I'm asking for a refund! ..."
-- **#6** · @Maureen-d9y · ~2026-10-01 · 0 likes · — · [Distrust of ads, claims and hype]  
+- **#6** · @Maureen-d9y · ~2026-10-01 · 0 likes · — · [ad distrust]  
   "Wow! Thank you. I almost ordered."
-- **#7** · @JAGPabst · ~2026-07-31 · 0 likes · — · [Distrust of ads, claims and hype, Price and value]  
+- **#7** · @JAGPabst · ~2026-07-31 · 0 likes · — · [ad distrust, price]  
   "Thank you for doing the research and saving me money!"
-- **#8** · @lindarusick4402 · ~2026-05-31 · 0 likes · — · [Distrust of ads, claims and hype, Buying, shipping and refund problems]  
+- **#8** · @lindarusick4402 · ~2026-05-31 · 0 likes · — · [ad distrust, ordering]  
   "Cancelled my order."
 
 **Luxe Korean Under Eye Balm**: YouTube hVadCZUeLzg (Verify Beta "Luxe Under Eye Balm Review - Legit or Another Scam?", 6,155 views)
 
-- **#9** · @20chiafri · ~2026-05-01 · 6 likes · — · [Distrust of ads, claims and hype]  
+- **#9** · @20chiafri · ~2026-05-01 · 6 likes · — · [ad distrust]  
   "Nearly bought this. Thanks for the heads up 👍"
-- **#10** · @candilong7055 · ~2026-05-01 · 5 likes · — · [Distrust of ads, claims and hype]  
+- **#10** · @candilong7055 · ~2026-05-01 · 5 likes · — · [ad distrust]  
   "The Korean stuff is all the sudden everywhere! Its an automatic red flag.  But yes! Thank you for the truth!"
-- **#11** · @helenpapanagnostou8069 · ~2026-07-01 · 4 likes · — · [It did nothing / disappointed, Texture and feel, Price and value]  
+- **#11** · @helenpapanagnostou8069 · ~2026-07-01 · 4 likes · — · [no change, texture, price]  
   "I recently tried this eye balm it doesn't do anything. It feels like chapstick! Don't waist your money! I wish I found this video before I bought it"
-- **#12** · @debbiecook3203 · ~2026-07-01 · 4 likes · — · [Dryness and hydration, Texture and feel, Buying, shipping and refund problems, Price and value]  
+- **#12** · @debbiecook3203 · ~2026-07-01 · 4 likes · — · [hydration, texture, ordering, price]  
   "I bought this and realized once I received the products, the packaging was obviously a fake. It doesn't show any ingredients, where it was made, the back of the stick is totally blank, it doesn't even say how much of the product is in the tube, like 10ml or however much should be in there. I do still use it, and it definitely is hydrating, but that is probably because it just seems like its a more solid version of vaseline. Don't waste your money, or be careful because I got a fake"
-- **#13** · @michaelpanopoulos4336 · ~2026-08-31 · 1 likes · — · [Distrust of ads, claims and hype, Price and value]  
+- **#13** · @michaelpanopoulos4336 · ~2026-08-31 · 1 likes · — · [ad distrust, price]  
   "!!!!!MASSIVE RIP-OFF SCAM STAY AWAY!!!!!!"
-- **#14** · @OnaBlaser · ~2026-07-31 · 1 likes · — · [Distrust of ads, claims and hype, What they tried before]  
+- **#14** · @OnaBlaser · ~2026-07-31 · 1 likes · — · [ad distrust, tried before]  
   "Thank you...I was considering buying it. I thought I would look it up first. I have been burned before. So I am more cautious now. Ladies always look up products. If it looks to good to be true, then it probably is."
-- **#15** · @carlalatuda6574 · ~2026-08-31 · 1 likes · — · [Buying, shipping and refund problems]  
+- **#15** · @carlalatuda6574 · ~2026-08-31 · 1 likes · — · [ordering]  
   "It appears there are more and more fake products are becoming available. They claim to be a name brand, but the actual product is fake—not from the brand you thought you were purchasing!!"
-- **#16** · @LoriJones-o9x · ~2026-07-01 · 1 likes · — · [Buying, shipping and refund problems, Texture and feel]  
+- **#16** · @LoriJones-o9x · ~2026-07-01 · 1 likes · — · [ordering, texture]  
   "I bought this was charged for 2 received one. Scam. It seems like it is vaseline"
-- **#17** · @joannemikulas1677 · ~2026-07-01 · 0 likes · — · [It did nothing / disappointed, Buying, shipping and refund problems]  
+- **#17** · @joannemikulas1677 · ~2026-07-01 · 0 likes · — · [no change, ordering]  
   "This product is horrible. I am trying to return but they are giving me the run around. I am going to blast them on Facebook if I don't get my money shortly."
 
 **Luxe Korean Under Eye Balm**: YouTube U_dHfrUSIfg (Cassi Short "luxe Cosmetics PDRN under eye balm", 2,389 views)
 
-- **#18** · @bernadettekasa3458 · ~2026-10-28 · 0 likes · — · [Distrust of ads, claims and hype]  
+- **#18** · @bernadettekasa3458 · ~2026-10-28 · 0 likes · — · [ad distrust]  
   "You have no lines"
 
 **Luxe Korean Under Eye Balm**: YouTube SfQLhSgu6ZY (Pree's World "Luxe Under Eye Balm Reviews: Real Results or Just Hype?")
 
-- **#19** · @DONNAWHITE-u6s · ~2026-07-01 · 1 likes · — · [Distrust of ads, claims and hype]  
+- **#19** · @DONNAWHITE-u6s · ~2026-07-01 · 1 likes · — · [ad distrust]  
   "It makes you stop and think"
 
-**Luxe Korean Under Eye Balm**: YouTube cG7_XwI-vUU
+**Luxe Korean Under Eye Balm**: YouTube cG7_XwI-vUU (Verify Beta "Luxe Under Eye Balm Review - Does it Work or Scam?")
 
 - **#20** · @sadiebernal939 · ~2026-05-31 · 0 likes · — · [no tag]  
   "I just bought it."
 
 **Luxe Korean Under Eye Balm (named in review title)**: Trustpilot luxe-cosmetics.com, review by "Shari", 1★
 
-- **#21** · Shari · 2026-10-30 · 1★ · — · [Buying, shipping and refund problems]  
+- **#21** · Shari · 2026-10-30 · 1★ · — · [ordering]  
   "Wanted this eye balm but will never order from here again"
 
 ### 4.2 The Luxe balm: brand's own site (luxe.com and luxeresearchlab.com)
 
-These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buyer" label and the product "Luxe - Korean Under-Eye Balm". They are part of the page, not a review app. The same pages show "Rated 4.8/5 based on +10,839 Total Ratings" and "Excellent 4.8 | 1319 reviews"; the luxeresearchlab.com page code gives "ratingValue 4.81, reviewCount 73". No individual reviews behind those figures could be found. [M] Pulled 2026-10-31.
+These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buyer" label and the product "Luxe - Korean Under-Eye Balm". They are part of the page, not a review app. The same pages show "Rated 4.8/5 based on +10,839 Total Ratings" and "Excellent 4.8 | 1319 reviews"; the luxeresearchlab.com page code gives "ratingValue 4.81, reviewCount 73". The individual reviews behind those figures are not shown on the pages. [M] Pulled 2026-10-31.
 
 
 **Luxe Korean Under Eye Balm**: Brand's own site (luxe.com and luxeresearchlab.com product pages; identical text on both; shown with 5 stars and "Verified Buyer")
 
-- **#22** ·  · not dated · 5★ (as shown) · "Anita S." · [Crepey skin, fine lines, wrinkles]  
+- **#22** ·  · not dated · 5★ (as shown) · "Anita S." · [crepey/lines]  
   "If you have crepey under eyes, you know the struggle. You can love yourself, and not be in love with every inch of yourSELF... know what I mean?"
-- **#23** ·  · "Purchased on Feb 11th, 2026" · 5★ (as shown) · "Margaret T., 56" · [Puffiness and bags, Dark circles, It worked / the problem got better, How long results took, Before-and-after stories, What they tried before]  
+- **#23** ·  · "Purchased on Feb 11th, 2026" · 5★ (as shown) · "Margaret T., 56" · [puffiness/bags, dark circles, worked, timing, story, tried before]  
   "I'm 56. I sleep fine, drink water, do everything right. But my eyes never got the memo. Puffy, dark, swollen every morning. Started using this two weeks ago. Day 4 my husband asked what I was doing differently. By day 10 the puffiness was genuinely less visible. Not gone but noticeably less. First eye cream that actually did something I could see with my own eyes."
-- **#24** ·  · "Purchased on Jan 24th, 2026" · 5★ (as shown) · "Diane K., 52" · [What they tried before, Texture and feel, How long results took, Crepey skin, fine lines, wrinkles, Dark circles, It worked / the problem got better]  
+- **#24** ·  · "Purchased on Jan 24th, 2026" · 5★ (as shown) · "Diane K., 52" · [tried before, texture, timing, crepey/lines, dark circles, worked]  
   "La Mer. Estée Lauder. Two brands from Sephora I can't even remember. None did anything except make my under-eyes greasy. This absorbs in seconds and I could feel the difference by end of week one. My fine lines look softer. Dark circles lighter. I'm genuinely angry nobody told me about this sooner tbh."
-- **#25** ·  · "Purchased on Feb 18th, 2026" · 5★ (as shown) · "Susan L, 47" · [Crepey skin, fine lines, wrinkles, Puffiness and bags, Under concealer and makeup, How long results took, It worked / the problem got better, Before-and-after stories]  
+- **#25** ·  · "Purchased on Feb 18th, 2026" · 5★ (as shown) · "Susan L, 47" · [crepey/lines, puffiness/bags, concealer, timing, worked, story]  
   "I've made peace with most of aging. But my under-eyes — the crepey texture, the bags, the way concealer just cakes into the lines — couldn't accept that part. This didn't make me look 30 again. But three weeks in my under-eyes look rested. Smoother. More alive. My daughter said I look like I came back from vacation. I didn't lol. Just found the right eye cream finally."
-- **#26** ·  · "Purchased on Jan 13th, 2026" · 5★ (as shown) · "Linda R., 51" · [Under concealer and makeup, How long results took, It worked / the problem got better, Before-and-after stories]  
+- **#26** ·  · "Purchased on Jan 13th, 2026" · 5★ (as shown) · "Linda R., 51" · [concealer, timing, worked, story]  
   "Every single morning. Put on concealer. Look in mirror. Watch it crease. Add more. Crease again. A daily cycle of trying to hide something that refused to be hidden. Two weeks into using this I skipped concealer one morning just to test it. My coworker said I looked good. No concealer. First time in years honestly."
-- **#27** ·  · "Purchased on Feb 15th, 2026" · 5★ (as shown) · "Carol A, 63" · [Dark circles, How long results took, It worked / the problem got better, Before-and-after stories, Price and value]  
+- **#27** ·  · "Purchased on Feb 15th, 2026" · 5★ (as shown) · "Carol A, 63" · [dark circles, timing, worked, story, price]  
   "Not in a dramatic way. Just learned to glance quickly, fix my hair, move on. My under-eyes were the reason. Dark circles made me look exhausted no matter how much sleep I got. Been using this 25 days now. Yesterday I caught myself actually looking. Not glancing. Looking. The dark circles are visibly lighter. That alone was worth every penny."
-- **#28** ·  · "Purchased on Dec 28th, 2025" · 5★ (as shown) · "Barbara M, 43" · [Puffiness and bags, Dark circles, How long results took, It worked / the problem got better, Before-and-after stories]  
+- **#28** ·  · "Purchased on Dec 28th, 2025" · 5★ (as shown) · "Barbara M, 43" · [puffiness/bags, dark circles, timing, worked, story]  
   "I used to angle my face or insist on bad lighting because my under-eyes looked so puffy and dark in close-ups. Last Sunday my daughter grabbed my phone and took a selfie of us. I looked at it and didn't delete it. That hasn't happened in a long time. Three weeks using this. That photo is my lock screen now."
 
 ### 4.3 Rival balm sticks
@@ -537,209 +539,209 @@ These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buye
 
 **Medicube PDRN Pink Collagen Volume Multi Balm (stick)**: YouTube HxsOvh5HVzQ (The Urban Edit "Medicube PDRN Balm Stick Review, Before & After", 30,409 views)
 
-- **#29** · @jeanie.....5209 · ~2026-08-31 · 17 likes · — · [It worked / the problem got better, How long results took]  
+- **#29** · @jeanie.....5209 · ~2026-08-31 · 17 likes · — · [worked, timing]  
   "Ladies it Works seriously!!. Day 3 Huge difference🎉"
-- **#30** · @dianagreer5388 · ~2026-08-31 · 1 likes · — · [It worked / the problem got better]  
+- **#30** · @dianagreer5388 · ~2026-08-31 · 1 likes · — · [worked]  
   "Yes it works ❤❤❤❤Love it🎉🎉🎉🎉"
-- **#31** · @mysol96 · ~2026-07-31 · 2 likes · — · [Dryness and hydration, It worked / the problem got better, How to use it / ease of use]  
+- **#31** · @mysol96 · ~2026-07-31 · 2 likes · — · [hydration, worked, how to use]  
   "You missed your lips! It's amazing on my lips, plumping and hydrating!"
-- **#32** · @janetgrant8786 · ~2026-10-01 · 0 likes · — · [Questions people ask, How long results took]  
+- **#32** · @janetgrant8786 · ~2026-10-01 · 0 likes · — · [question, timing]  
   "You look great! After a few months of using it, do you still recommend it?"
-- **#33** · @jessiness4753 · ~2026-10-30 · 0 likes · — · [How to use it / ease of use]  
+- **#33** · @jessiness4753 · ~2026-10-30 · 0 likes · — · [how to use]  
   "I hear you should not use your fingers it made a girls finger have more fat padding."
-- **#34** · @JellyspoonsJen · ~2026-10-10 · 0 likes · — · [Questions people ask, How to use it / ease of use, Under concealer and makeup]  
+- **#34** · @JellyspoonsJen · ~2026-10-10 · 0 likes · — · [question, how to use, concealer]  
   "At what part do we apply this pre make up? I have the spf dew moisturiser and I've no idea when to apply?"
-- **#35** · @NicoleMerenda23 · ~2026-10-28 · 0 likes · — · [Side effects, Questions people ask]  
+- **#35** · @NicoleMerenda23 · ~2026-10-28 · 0 likes · — · [side effects, question]  
   "Did it burn anyone else's face"
-- **#36** · @paulabee81 · ~2026-08-31 · 0 likes · — · [Questions people ask, How to use it / ease of use, Side effects]  
+- **#36** · @paulabee81 · ~2026-08-31 · 0 likes · — · [question, how to use, side effects]  
   "Do you wear it under sunscreen due to the retinol?"
-- **#37** · @robmen1402 · ~2026-08-31 · 0 likes · — · [Questions people ask]  
+- **#37** · @robmen1402 · ~2026-08-31 · 0 likes · — · [question]  
   "I'm more interested in what it can do if anything for the following under the eyes."
-- **#38** · @JLB-z3m · ~2026-10-22 · 0 likes · — · [Distrust of ads, claims and hype, Under concealer and makeup]  
+- **#38** · @JLB-z3m · ~2026-10-22 · 0 likes · — · [ad distrust, concealer]  
   "Why would you show us the results AFTER you applied make up… if it worked, you would just show us before make up. 🙄"
 - **#39** · @adriennemarierozario6591 · ~2026-08-31 · 0 likes · — · [no tag]  
   "Amazing‼️I'm glad it works. I just ordered a stick & facial spray for my mother's birthday 🎂 in November."
 
 **Medicube PDRN Pink Collagen Volume Multi Balm (stick)**: YouTube icazcVh-fSE (Worth the Hype with Kate "Medicube PDRN Pink Collagen Balm Review", 17,859 views)
 
-- **#40** · @ABCM70 · ~2026-10-01 · 2 likes · — · [It worked / the problem got better, How to use it / ease of use]  
+- **#40** · @ABCM70 · ~2026-10-01 · 2 likes · — · [worked, how to use]  
   "My lips plumped from using it around them!"
-- **#41** · @owlinlin9134 · ~2026-08-31 · 6 likes · — · [Questions people ask, How long results took]  
+- **#41** · @owlinlin9134 · ~2026-08-31 · 6 likes · — · [question, timing]  
   "please show an update after a few weeks! like if there is a before and after"
-- **#42** · @monicasolair321 · ~2026-08-31 · 14 likes · — · [It worked / the problem got better, How long results took, Crepey skin, fine lines, wrinkles]  
+- **#42** · @monicasolair321 · ~2026-08-31 · 14 likes · — · [worked, timing, crepey/lines]  
   "I just received mine. This stuff is amazing. I wouldn't never believed it until I tried it! One application and my lines around my lips are gone. I kid you not!! This stuff is incredible"
-- **#43** · @Blossumness · ~2026-10-01 · 2 likes · — · [Distrust of ads, claims and hype]  
+- **#43** · @Blossumness · ~2026-10-01 · 2 likes · — · [ad distrust]  
   "I see a lot of ads on things like this, but I dont see and know the ingredients"
-- **#44** · @Kristylynn19833 · ~2026-10-01 · 1 likes · — · [Buying, shipping and refund problems]  
+- **#44** · @Kristylynn19833 · ~2026-10-01 · 1 likes · — · [ordering]  
   "Mine will arrive soon I'm super excited but 2 weeks for shipping is very disappointing"
-- **#45** · @1olive1Olive · ~2026-07-31 · 2 likes · — · [How to use it / ease of use, Questions people ask]  
+- **#45** · @1olive1Olive · ~2026-07-31 · 2 likes · — · [how to use, question]  
   "U used ur fingers!  Doesnt it swell ur fingers up?"
 
 **Medicube PDRN Pink Collagen Volume Multi Balm (stick)**: YouTube yiu3FrWf6Zs (The MusiCal MusiGal "I Put a $15 Balm Stick On My Face...", 7,149 views)
 
-- **#46** · @SheIsRooted-t2e · ~2026-08-31 · 2 likes · — · [It worked / the problem got better, How long results took]  
+- **#46** · @SheIsRooted-t2e · ~2026-08-31 · 2 likes · — · [worked, timing]  
   "i love it I saw results the first week"
-- **#47** · @lisaouthier7859 · ~2026-10-01 · 1 likes · — · [It worked / the problem got better, Texture and feel, How long results took]  
+- **#47** · @lisaouthier7859 · ~2026-10-01 · 1 likes · — · [worked, texture, timing]  
   "I just got mine today! Making healthy changes.. but really love how it makes my face glow already! excited to use my yuri tonight also 😊 after 1 use confidence is gonna be alright ❤"
-- **#48** · @spaghettarius · ~2026-10-01 · 2 likes · — · [Questions people ask, How long results took]  
+- **#48** · @spaghettarius · ~2026-10-01 · 2 likes · — · [question, timing]  
   "Have you noticed any long-term results?"
-- **#49** · @ahuda3204 · ~2026-08-31 · 2 likes · — · [It did nothing / disappointed]  
+- **#49** · @ahuda3204 · ~2026-08-31 · 2 likes · — · [no change]  
   "Not a miracle stick. Doesn't do anything"
-- **#50** · @lubnarahman8354 · ~2026-10-01 · 1 likes · — · [Questions people ask, Dark circles]  
+- **#50** · @lubnarahman8354 · ~2026-10-01 · 1 likes · — · [question, dark circles]  
   "Does this good for eye pigmentation? 😢"
-- **#51** · @sheilad7324 · ~2026-05-31 · 2 likes · — · [Distrust of ads, claims and hype, What they tried before]  
+- **#51** · @sheilad7324 · ~2026-05-31 · 2 likes · — · [ad distrust, tried before]  
   "Seen this on TikTok but hesitant to buy because nothing I bought off TikTok ever worked"
 
 **Medicube PDRN Pink Collagen Volume Multi Balm (stick)**: YouTube TaEBEUMs6js (Short "Medicube vs Dr. Melaxin Multibalm stick", ~47K views)
 
-- **#52** · @MidMorningFarmer · ~2026-10-24 · 1 likes · — · [It worked / the problem got better, How to use it / ease of use]  
+- **#52** · @MidMorningFarmer · ~2026-10-24 · 1 likes · — · [worked, how to use]  
   "Medicube is my favorite. I use it on my lips and it's better than any lip plumper."
-- **#53** · @Dohaglowstyle · ~2026-10-01 · 6 likes · 54 · [It worked / the problem got better]  
+- **#53** · @Dohaglowstyle · ~2026-10-01 · 6 likes · 54 · [worked]  
   "Medicube I got great result. I'm 54 but my skin looked 40s"
-- **#54** · @lizzyq25 · ~2026-10-01 · 4 likes · — · [It did nothing / disappointed]  
+- **#54** · @lizzyq25 · ~2026-10-01 · 4 likes · — · [no change]  
   "I will try Dr. Meloxin cuz medicine pink doesn't work for me"
-- **#55** · @Gina_Love444 · ~2026-10-17 · 1 likes · — · [Questions people ask, Distrust of ads, claims and hype]  
+- **#55** · @Gina_Love444 · ~2026-10-17 · 1 likes · — · [question, ad distrust]  
   "Hi! I just purchased this off Amazon before I seen your video so I just started using it and I was reading the box it says formulated with Volufiline and Pdrn but when I looked at the ingredients I couldn't find it! Is it under a different name? Please help 🙏 Somebody!!! Anybody!!! Thank you 😊 !"
-- **#56** · @TheAstridPiltz · ~2026-10-01 · 2 likes · — · [Questions people ask]  
+- **#56** · @TheAstridPiltz · ~2026-10-01 · 2 likes · — · [question]  
   "Does Medicube work for under eye aera?"
-- **#57** · @TherealEbby · ~2026-10-18 · 2 likes · — · [Questions people ask, Side effects]  
+- **#57** · @TherealEbby · ~2026-10-18 · 2 likes · — · [question, side effects]  
   "The medicube one is it safe to use while pregnant?"
 
 **Medicube PDRN Pink Collagen Volume Multi Balm (stick) / Dr.Melaxin Cemenrete Calcium Multi Balm (stick)**: YouTube TaEBEUMs6js (Short "Medicube vs Dr. Melaxin Multibalm stick", ~47K views)
 
-- **#58** · @janiceturner2849 · ~2026-10-29 · 0 likes · — · [Questions people ask, Distrust of ads, claims and hype]  
+- **#58** · @janiceturner2849 · ~2026-10-29 · 0 likes · — · [question, ad distrust]  
   "Very confusing it's one or the other…. What's the real deal? Please be honest. Thank you"
-- **#59** · @Melaniesmugzandstuff · ~2026-10-10 · 21 likes · — · [Distrust of ads, claims and hype, Side effects]  
+- **#59** · @Melaniesmugzandstuff · ~2026-10-10 · 21 likes · — · [ad distrust, side effects]  
   "Which one won't have a class action lawsuit in 10 years cuz its causing cancer"
 
 **Medicube PDRN Pink Collagen Volume Multi Balm (stick)**: YouTube ALOyafthgu0 (Esthetician Nikki "REVIEW MEDICUBE VOLUME BALM STICK")
 
-- **#60** · @jasonphipps6200 · ~2026-10-01 · 2 likes · — · [Questions people ask]  
+- **#60** · @jasonphipps6200 · ~2026-10-01 · 2 likes · — · [question]  
   "Does this actually work"
 
 **KAHI Wrinkle Bounce Multi Balm (stick)**: YouTube ExYS5rRTxCM (Adrienne Hill "The Truth About The Most VIRAL K-Drama Skincare Product", 90,040 views)
 
-- **#61** · @peanut9725 · ~2023-10-31 · 58 likes · 60 · [It worked / the problem got better, How long results took]  
+- **#61** · @peanut9725 · ~2023-10-31 · 58 likes · 60 · [worked, timing]  
   "60 years old and using it for a couple months now from seeing it on Kdrama.  It's really good and people notice how nice my skin looks."
-- **#62** · @pamelaghetti5407 · ~2023-10-31 · 6 likes · — · [It did nothing / disappointed, Price and value, Texture and feel, Crepey skin, fine lines, wrinkles]  
+- **#62** · @pamelaghetti5407 · ~2023-10-31 · 6 likes · — · [no change, price, texture, crepey/lines]  
   "Kahi is expensive, but is nothing else than a stick on a oli base and does NOT help agsinst wrinkles or other problems.... dont waste your money 😊"
-- **#63** · @MariGomez · ~2022-10-31 · 22 likes · — · [Texture and feel, How to use it / ease of use, It worked / the problem got better]  
+- **#63** · @MariGomez · ~2022-10-31 · 22 likes · — · [texture, how to use, worked]  
   "... The first time I saw the Kahi stick was on Business Proposal. I immediately got it and I love it. I use it mostly on my lips and occasionally on my under eyes. I find it a bit heavy for my t-zone, but I love it. ..."
-- **#64** · @FedeKTV · ~2022-10-31 · 10 likes · — · [It worked / the problem got better, How long results took, Crepey skin, fine lines, wrinkles, Price and value, Before-and-after stories]  
+- **#64** · @FedeKTV · ~2022-10-31 · 10 likes · — · [worked, timing, crepey/lines, price, story]  
   "Hey Adrienne, thanks for the great review 😊I got the Kahi Multi Balm around 6 months ago and I have just finished the whole tube. I am definitely going to repurchase it because I did see some fading of the smile lines, which were my biggest concern, but now you made me want to try their other balms too!! 😁😁"
-- **#65** · @777SagittariusVibes · ~2023-10-31 · 1 likes · — · [Dryness and hydration, Under concealer and makeup, How to use it / ease of use]  
+- **#65** · @777SagittariusVibes · ~2023-10-31 · 1 likes · — · [hydration, concealer, how to use]  
   "I love sticks like this for my dry skin area concerns as the day goes by certain spots get dryer than others and it's so frustrating because it doesn't disturb my makeup I have a cooling one since my thyroid issues sometimes make my face feel as if it's hot/burning"
-- **#66** · @tinatankersleyrobinson1667 · ~2022-10-31 · 3 likes · — · [It did nothing / disappointed, Texture and feel, How long results took, Price and value, What they tried before]  
+- **#66** · @tinatankersleyrobinson1667 · ~2022-10-31 · 3 likes · — · [no change, texture, timing, price, tried before]  
   "It's a waste of money I absolutely have seen no difference I've been using it for well over a month now and it's just an uncomfortable greasy mess and why would anybody want to put salmon collagen on our skin?? I will be honest with you and tell you that the best product that I have found only cost $2 and it's wonderful and it's called ponds rejuvenate..love it"
-- **#67** · @LanaBKnight · ~2022-10-31 · 10 likes · — · [Distrust of ads, claims and hype]  
+- **#67** · @LanaBKnight · ~2022-10-31 · 10 likes · — · [ad distrust]  
   "I appreciate this because sometimes certain products are over glamorized because of cameos in kdramas and this is a genuine review of them. ..."
-- **#68** · @kendramccord7836 · ~2022-10-31 · 2 likes · — · [Distrust of ads, claims and hype]  
+- **#68** · @kendramccord7836 · ~2022-10-31 · 2 likes · — · [ad distrust]  
   "Now I can understand why alot of the Korean girls, plus Asian girls have flawless glowy skin in alot of the dramas that I've seen ... I'm definitely trying this without a doubt."
 
 **KAHI Wrinkle Bounce Multi Balm (stick)**: YouTube LmP5MWmL8cs (Cassandra Bankson, medical esthetician, "The Truth Behind Korean Multi Balms", 111,788 views)
 
-- **#69** · @hitomitomtom · ~2023-10-31 · 37 likes · — · [Texture and feel, Price and value, It worked / the problem got better]  
+- **#69** · @hitomitomtom · ~2023-10-31 · 37 likes · — · [texture, price, worked]  
   "I actually bought the Kahi multi balm twice. I didn't hate it or anything, it was just pricey. 😂 But it was amazing, applying it to my skin!"
-- **#70** · @suss632 · ~2023-10-31 · 5 likes · — · [Under concealer and makeup, How to use it / ease of use]  
+- **#70** · @suss632 · ~2023-10-31 · 5 likes · — · [concealer, how to use]  
   "Kahi goes well over makeup, which was very surprising"
-- **#71** · @0-Mayari-0 · ~2023-10-31 · 14 likes · — · [How to use it / ease of use, Distrust of ads, claims and hype]  
+- **#71** · @0-Mayari-0 · ~2023-10-31 · 14 likes · — · [how to use, ad distrust]  
   "My mom bought me the Kahi one when she went to Korea but I haven't used it yet because I haven't been sure about how effective/sanitary it was.  Thanks for the overview!"
-- **#72** · @melisalinh2657 · ~2023-10-31 · 10 likes · sensitive skin · [Side effects, Dryness and hydration]  
+- **#72** · @melisalinh2657 · ~2023-10-31 · 10 likes · sensitive skin · [side effects, hydration]  
   "I have sensitive skin and the kahi balm has fragrance, so I can't try that one. But I love the em cosmetics one soo much. It's fragrance free and very moisturizing."
-- **#73** · @sarahsrini5857 · ~2023-10-31 · 5 likes · — · [Texture and feel, It worked / the problem got better]  
+- **#73** · @sarahsrini5857 · ~2023-10-31 · 5 likes · — · [texture, worked]  
   "I got my mum and I the pink Kahi one and we both rly like it!! It's got a rly nice texture and give you a glass skin like sheen :) you should def try it!!"
-- **#74** · @KuzisNe · ~2023-10-31 · 46 likes · — · [Dryness and hydration, How to use it / ease of use]  
+- **#74** · @KuzisNe · ~2023-10-31 · 46 likes · — · [hydration, how to use]  
   "... I like balms or serums on stick and I always have one in my bag when my skin needs some moisture or extra glow. I didn't try Kahi yet but I've used Tatcha serum stick and loved it."
-- **#75** · @limbo576 · ~2023-10-31 · 90 likes · — · [Distrust of ads, claims and hype]  
+- **#75** · @limbo576 · ~2023-10-31 · 90 likes · — · [ad distrust]  
   "Multi balms have been around in South Korea much longer than 2020. ... I think it was more used for wintertime or a dry night than compared to now where it's trending- viewed as a necessity all the time."
 
 **Milk Makeup eye balm stick**: YouTube LmP5MWmL8cs (Cassandra Bankson, medical esthetician, "The Truth Behind Korean Multi Balms", 111,788 views)
 
-- **#76** · @barttrodd7918 · ~2023-10-31 · 42 likes · — · [Texture and feel, It did nothing / disappointed]  
+- **#76** · @barttrodd7918 · ~2023-10-31 · 42 likes · — · [texture, no change]  
   "Milk makeup and skincare uses the stick balms as well. I've used a few samples of them (specifically the eye balm stick) and they were definitely not my cup of tea 😂 I found the balms a bit hard and didn't really get the pay off I was expecting. I also used the "eye stick" all over my face 😆 ..."
 
 **Korean multi-balm sticks in general (Kahi featured)**: YouTube LmP5MWmL8cs (Cassandra Bankson, medical esthetician, "The Truth Behind Korean Multi Balms", 111,788 views)
 
-- **#77** · @Tree_hugger_jenn · ~2023-10-31 · 4 likes · — · [Dryness and hydration, How to use it / ease of use]  
+- **#77** · @Tree_hugger_jenn · ~2023-10-31 · 4 likes · — · [hydration, how to use]  
   "I was considering getting one of these for travel. You know, being on a plane can suck ALL the moisture out of your skin 😩 ..."
-- **#78** · @20thcenturyrelic · ~2023-10-31 · 8 likes · dry skin · [Texture and feel, How to use it / ease of use, Side effects]  
+- **#78** · @20thcenturyrelic · ~2023-10-31 · 8 likes · dry skin · [texture, how to use, side effects]  
   "... These products look to me like they'd be convenient for travel for those of us with dry skin, or maybe for others in the winter. The waxes that hold the products together may be problematic for those with oily skin, or oily areas of combination skin. ... And I'd make sure not to use these around the eyes if using them on the lips."
-- **#79** · @pandabubba986 · ~2023-10-31 · 2 likes · dry skin · [Dryness and hydration, It worked / the problem got better, How to use it / ease of use]  
+- **#79** · @pandabubba986 · ~2023-10-31 · 2 likes · dry skin · [hydration, worked, how to use]  
   "I love these sticks for when I'm at work! I have really dry skin around my mouth. and these save me!"
 
 **Dr.Melaxin Cemenrete Calcium Multi Balm (stick)**: YouTube kih_Rb5JQYs (Dr. Jenny Liu, dermatologist, "Dr. Melaxin Review: Viral Skincare Worth It or Hype?", 80,951 views)
 
-- **#80** · @Luvur-s7z · ~2026-10-01 · 4 likes · — · [It did nothing / disappointed, Dark circles, Price and value]  
+- **#80** · @Luvur-s7z · ~2026-10-01 · 4 likes · — · [no change, dark circles, price]  
   "Dr.Melaxin / Cemenrete Calcium Volume Multi Balm waste of money it done nothing to me . I need help to get rid off my dark circles"
-- **#81** · @kathleenmartin5264 · ~2026-07-31 · 4 likes · — · [Dryness and hydration, Price and value, It worked / the problem got better]  
+- **#81** · @kathleenmartin5264 · ~2026-07-31 · 4 likes · — · [hydration, price, worked]  
   "i love the collagen stick. its nice and as under eyes its hydrating.    its affordability..  i mean we would all like botox in a bottle but even if it was a thing.. most cant afford it.  i cant see paying over 50 in this economy"
-- **#82** · @TheTermani · ~2026-07-31 · 4 likes · — · [It worked / the problem got better, Distrust of ads, claims and hype]  
+- **#82** · @TheTermani · ~2026-07-31 · 4 likes · — · [worked, ad distrust]  
   "I like this review. I bought it and it works well for my skincare but it isn't as crazy as the influencer hype."
-- **#83** · @patriciamaryniak1216 · ~2026-10-01 · 2 likes · — · [Distrust of ads, claims and hype, It did nothing / disappointed]  
+- **#83** · @patriciamaryniak1216 · ~2026-10-01 · 2 likes · — · [ad distrust, no change]  
   "Of course, I would find this video after my purchase. At least nothing negative is going to happen and my skin will look brighter, radiant and healthier. I was banking on the “better than Botox” claim, so I can't help but be a little disappointed."
-- **#84** · @AmberLandwerlen · date not recorded in pull · 0 likes · — · [Dryness and hydration, It worked / the problem got better, Crepey skin, fine lines, wrinkles, How long results took, How to use it / ease of use]  
+- **#84** · @AmberLandwerlen · date not recorded in pull · 0 likes · — · [hydration, worked, crepey/lines, timing, how to use]  
   "I tried the balm at night and woke up with very moisturized skin and at least the appearance of less wrinkles."
-- **#85** · @serenah.2150 · date not recorded in pull · 0 likes · — · [Dryness and hydration, How to use it / ease of use]  
+- **#85** · @serenah.2150 · date not recorded in pull · 0 likes · — · [hydration, how to use]  
   "I use the balm as a moisturizer balm so it's a win for me....lol"
-- **#86** · @RhondaMcintosh-q6r · ~2026-10-22 · 0 likes · — · [It worked / the problem got better, Price and value, What they tried before, Distrust of ads, claims and hype]  
+- **#86** · @RhondaMcintosh-q6r · ~2026-10-22 · 0 likes · — · [worked, price, tried before, ad distrust]  
   "I have uaed it for ages mt skin has never looked better but its not a replacement for botox or filler..but its lovley and its cheap..and i have used prescription skincare and this works better..just make sure you buy from a official  site."
-- **#87** · @AuntDi2 · ~2026-10-01 · 2 likes · — · [How to use it / ease of use, Questions people ask]  
+- **#87** · @AuntDi2 · ~2026-10-01 · 2 likes · — · [how to use, question]  
   "I just received the kit. There is no instructions on how to best use the product. Use all of them at once? Use morning? Use night? How do I know which product does what? Ughhh - I'm frustrated!"
-- **#88** · @BethBrady-k8h · ~2026-07-31 · 38 likes · — · [Distrust of ads, claims and hype, How long results took]  
+- **#88** · @BethBrady-k8h · ~2026-07-31 · 38 likes · — · [ad distrust, timing]  
   "Skip the video...heres a recap... Dr Melaxin is not a real Dr. ... says they will most likely provide some results over time with consistent use, and warns us the products do not surpass Botox as claimed and are not immediate results, manage our expectations as the results aren't instant or magnanimous. ..."
 
 **Dr.Melaxin ads**: YouTube TybFB4gyKcg (James Welsh "THE BIGGEST SKINCARE SCAM ON TIKTOK?! Who Are Dr Melaxin?", 403,792 views)
 
-- **#89** · @sluggybunny · date not recorded in pull · 1.5K likes · — · [Distrust of ads, claims and hype]  
+- **#89** · @sluggybunny · date not recorded in pull · 1.5K likes · — · [ad distrust]  
   "do not trust any brand that uses AI adverts. 100% always a scam if they cant even show you a legit video of their product..."
-- **#90** · @RenLaurenO · date not recorded in pull · 886 likes · — · [Distrust of ads, claims and hype]  
+- **#90** · @RenLaurenO · date not recorded in pull · 886 likes · — · [ad distrust]  
   "I'm never inclined to trust a brand named after a fictional doctor..."
-- **#91** · @fuzzyfriendsrescuevoluntee3036 · date not recorded in pull · 314 likes · — · [Distrust of ads, claims and hype]  
+- **#91** · @fuzzyfriendsrescuevoluntee3036 · date not recorded in pull · 314 likes · — · [ad distrust]  
   "..."clinically tested" means zilch..."
-- **#92** · @chthonicdrosera · date not recorded in pull · 212 likes · — · [Distrust of ads, claims and hype]  
+- **#92** · @chthonicdrosera · date not recorded in pull · 212 likes · — · [ad distrust]  
   "As soon as Korean Skincare got popular, of course there were going to be cheap brands capitalizing on it, calling everything Korean/Korean-inspired even if its not/its absolutely average."
-- **#93** · @marianne6373 · date not recorded in pull · 79 likes · — · [Distrust of ads, claims and hype]  
+- **#93** · @marianne6373 · date not recorded in pull · 79 likes · — · [ad distrust]  
   "Promoting skincare products as «Botox alternatives» and now also «fillers» makes me violent."
 
 **RoC under-eye balm stick (as named in video title)**: YouTube G59y1UO5Lgw (Short "Dark Circles? Derm Tests RoC Eye Balm Stick", ~115K views)
 
-- **#94** · @MsSarahP · ~2026-03-31 · 8 likes · — · [Dark circles, It did nothing / disappointed, Under concealer and makeup, Price and value]  
+- **#94** · @MsSarahP · ~2026-03-31 · 8 likes · — · [dark circles, no change, concealer, price]  
   "I bought this and I'm not convinced it's helping my dark under eyes - I agree it's a good base for my concealer. $27 I won't be repurchasing"
-- **#95** · @chanelljackson657 · ~2026-03-03 · 35 likes · — · [It did nothing / disappointed, Dryness and hydration]  
+- **#95** · @chanelljackson657 · ~2026-03-03 · 35 likes · — · [no change, hydration]  
   "It didn't work for me.  It's not that moisturizing.  ❤❤"
-- **#96** · @jessicad6866 · ~2026-03-03 · 15 likes · — · [Under concealer and makeup, Texture and feel, It worked / the problem got better]  
+- **#96** · @jessicad6866 · ~2026-03-03 · 15 likes · — · [concealer, texture, worked]  
   "I have this product and it is by no means a miracle worker but makeup does look better under the eyes. It feels nice too!"
-- **#97** · @cymandybro9519 · ~2026-03-03 · 12 likes · — · [What they tried before, Distrust of ads, claims and hype]  
+- **#97** · @cymandybro9519 · ~2026-03-03 · 12 likes · — · [tried before, ad distrust]  
   "Thank you. I'm tried of buying products that don't work."
-- **#98** · @Jacqueline_R · ~2026-03-31 · 4 likes · — · [Price and value, What they tried before]  
+- **#98** · @Jacqueline_R · ~2026-03-31 · 4 likes · — · [price, tried before]  
   "Thank you.  I will save $ and stick with Vaseline ❤"
-- **#99** · @jdl1986now · ~2026-05-01 · 3 likes · — · [Texture and feel, Price and value, It did nothing / disappointed]  
+- **#99** · @jdl1986now · ~2026-05-01 · 3 likes · — · [texture, price, no change]  
   "I liked the feel of it, but it's not good enough to warrant the high cost."
-- **#100** · @Txmedic76 · ~2026-03-03 · 6 likes · — · [It did nothing / disappointed]  
+- **#100** · @Txmedic76 · ~2026-03-03 · 6 likes · — · [no change]  
   "I thought this product was horrible. It did nothing for me.😮"
-- **#101** · @elainehardman1683 · ~2026-05-01 · 0 likes · — · [It worked / the problem got better, Dark circles, Dryness and hydration, Under concealer and makeup, How long results took, How to use it / ease of use, Before-and-after stories]  
+- **#101** · @elainehardman1683 · ~2026-05-01 · 0 likes · — · [worked, dark circles, hydration, concealer, timing, how to use, story]  
   "I love this product. I put it on, followed by an eye brightening cream, all sealed in with Vaseline. Just within a few,dats my undereyes look tons better. They're less dark and not dry anymore. Plus, my concealer goes on easier, sits better and covers perfectly. Yep, I love ROC and I love this product."
-- **#102** · @ElizabethFlores-q9g · ~2026-03-03 · 12 likes · — · [It did nothing / disappointed]  
+- **#102** · @ElizabethFlores-q9g · ~2026-03-03 · 12 likes · — · [no change]  
   "Unfortunately, it did not work for me. No improvement at all."
-- **#103** · @AS-qk5ii · ~2026-05-01 · 0 likes · — · [Under concealer and makeup, It worked / the problem got better, Price and value]  
+- **#103** · @AS-qk5ii · ~2026-05-01 · 0 likes · — · [concealer, worked, price]  
   "I love this and have repurchased multiple times which is unheard of for me. I mostly just like how it looks under makeup in the morning."
-- **#104** · @Fyctiongal · ~2026-03-03 · 8 likes · 59 · [Under concealer and makeup, It worked / the problem got better, Crepey skin, fine lines, wrinkles]  
+- **#104** · @Fyctiongal · ~2026-03-03 · 8 likes · 59 · [concealer, worked, crepey/lines]  
   "This eye balm has been a game changer for 59 year old me to be able to put / Concealer on under my eyes without adding creases and wrinkles"
-- **#105** · @cinthyagallardo4705 · ~2026-03-03 · 1 likes · — · [It did nothing / disappointed, Texture and feel, Puffiness and bags, What they tried before]  
+- **#105** · @cinthyagallardo4705 · ~2026-03-03 · 1 likes · — · [no change, texture, puffiness/bags, tried before]  
   "It doesn't work, yes it gives your eyes a more glowy finish but that's it. I've tried many other moisturizers that de-puff your eyes"
-- **#106** · @gailmcgrath · ~2026-03-03 · 3 likes · — · [Dryness and hydration, Under concealer and makeup, Price and value, How to use it / ease of use]  
+- **#106** · @gailmcgrath · ~2026-03-03 · 3 likes · — · [hydration, concealer, price, how to use]  
   "I use this every morning and i use cvs coupons to help with the price i find it really moisturizing before makeup"
-- **#107** · @gailwilson8727 · ~2026-10-01 · 0 likes · — · [Price and value]  
+- **#107** · @gailwilson8727 · ~2026-10-01 · 0 likes · — · [price]  
   "I bought it. It's used up too quickly-not a repeat purchase."
-- **#108** · @sarabecker3421 · ~2026-10-01 · 0 likes · — · [Under concealer and makeup, How to use it / ease of use]  
+- **#108** · @sarabecker3421 · ~2026-10-01 · 0 likes · — · [concealer, how to use]  
   "Yep, I use it  it for skin prepping prior to applying concealer."
-- **#109** · @bonniedill5500 · ~2026-07-01 · 1 likes · — · [Under concealer and makeup, How to use it / ease of use]  
+- **#109** · @bonniedill5500 · ~2026-07-01 · 1 likes · — · [concealer, how to use]  
   "I use it for concealer  application.."
-- **#110** · @xtothezbeltran5991 · ~2026-03-31 · 4 likes · — · [Price and value]  
+- **#110** · @xtothezbeltran5991 · ~2026-03-31 · 4 likes · — · [price]  
   "I wanted to try but saw the price 30 bucks 😅 for” drugstore “"
-- **#111** · @user-vc1qn7bc9y · ~2026-10-01 · 0 likes · — · [Questions people ask, Under concealer and makeup, Price and value]  
+- **#111** · @user-vc1qn7bc9y · ~2026-10-01 · 0 likes · — · [question, concealer, price]  
   "... What do you recommend for under eye  hollow and what would be an affordable version of this that could help the underrate area as this seams to do under makeup?"
-- **#112** · @human_number123 · ~2026-07-31 · 3 likes · — · [Puffiness and bags, What they tried before]  
+- **#112** · @human_number123 · ~2026-07-31 · 3 likes · — · [puffiness/bags, tried before]  
   "Nothing helps better than a good night sleep and a low sodium dinner :)"
 
 ### 4.4 Eye creams
@@ -747,228 +749,228 @@ These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buye
 
 **The Ordinary Caffeine Solution 5% + EGCG**: YouTube ShE3IVbZRbo (Cassandra Bankson "I Tried The Ordinary's Eye Cream For 2 Months...", 2,082,123 views)
 
-- **#113** · @michelmiyat · ~2021-10-31 · 4.8K likes · — · [Dark circles, Questions people ask]  
+- **#113** · @michelmiyat · ~2021-10-31 · 4.8K likes · — · [dark circles, question]  
   "Does anyone else notice that when you wake up your under eye darkness is less noticeable and throughout the day i gets darker? or is ot just me?"
-- **#114** · @shellShock1111 · ~2021-10-31 · 3K likes · — · [It did nothing / disappointed]  
+- **#114** · @shellShock1111 · ~2021-10-31 · 3K likes · — · [no change]  
   ""and this is what it did to my face...". Spoiler: NOTHING AT ALL."
-- **#115** · @paulinesvisuals · ~2021-10-31 · 4.3K likes · 64 · [Puffiness and bags, It worked / the problem got better, Before-and-after stories, How long results took]  
+- **#115** · @paulinesvisuals · ~2021-10-31 · 4.3K likes · 64 · [puffiness/bags, worked, story, timing]  
   "I'm on my 2nd bottle of this.  I have found that my eye bags went from luggage to tote bags.  I'm 64 so I'm happy with that."
-- **#116** · @demm5477 · ~2021-10-31 · 1.7K likes · — · [Texture and feel]  
+- **#116** · @demm5477 · ~2021-10-31 · 1.7K likes · — · [texture]  
   "Why on earth is she calling it an eye cream when it's marketed and formulated as a serum?"
-- **#117** · @leila77 · ~2021-10-31 · 2.9K likes · — · [Price and value, How to use it / ease of use]  
+- **#117** · @leila77 · ~2021-10-31 · 2.9K likes · — · [price, how to use]  
   "How did you use a bottle and a half in 2  / months I'm still using the same bottle since like august 😂😂"
 
 **Eye creams in general (viewer of The Ordinary video)**: YouTube ShE3IVbZRbo (Cassandra Bankson "I Tried The Ordinary's Eye Cream For 2 Months...", 2,082,123 views)
 
-- **#118** · @mariafernandaescalona9734 · ~2021-10-31 · 1.1K likes · 40 · [It worked / the problem got better, How long results took, Before-and-after stories]  
+- **#118** · @mariafernandaescalona9734 · ~2021-10-31 · 1.1K likes · 40 · [worked, timing, story]  
   "I am 40 years old, I started taking care of my skin in my 20s with a simple 3-step routine, at 23 I started using creams for the first signs of aging, the eye contour, serums and sunscreen ... Today I can say that having used creams for the eye contour has been a better decision than not having used them instead, I see my friends and cousins my age who have not bothered about the issue and the difference is very noticeable. In my experience I am happy that I have prevented rather than wait 20 years to see if they could have made a difference. Trying a product for 2 months is not the same as taking care of your skin for 20 years"
 
 **The Ordinary Caffeine Solution 5% + EGCG**: YouTube ShE3IVbZRbo (Cassandra Bankson "I Tried The Ordinary's Eye Cream For 2 Months...", 2,082,123 views)
 
-- **#119** · @NeedMoreCoffeeOG · ~2021-10-31 · 1.3K likes · — · [Dark circles, It worked / the problem got better, Before-and-after stories]  
+- **#119** · @NeedMoreCoffeeOG · ~2021-10-31 · 1.3K likes · — · [dark circles, worked, story]  
   "I got undereye darkness when I worked night shifts in my late 20s - I never used to have them, they were definitely not genetic they were a consequence of 'lifestyle' (that sounds so leisurely - I worked my ass off as an immigrant in the only job I could get) and this serum has dramatically reduced dark circles for me."
-- **#120** · @whitneypolk9170 · ~2021-10-31 · 396 likes · — · [Puffiness and bags, It worked / the problem got better, How long results took]  
+- **#120** · @whitneypolk9170 · ~2021-10-31 · 396 likes · — · [puffiness/bags, worked, timing]  
   "This product is a lifesaver for me especially any time I have cried and need to go somewhere or if my eyes are puffy from crying the night before. Such a big difference within a few minutes!"
-- **#121** · @geraver · ~2021-10-31 · 35 likes · — · [Dark circles, It worked / the problem got better]  
+- **#121** · @geraver · ~2021-10-31 · 35 likes · — · [dark circles, worked]  
   "I had dark circles that came primarily from lifestyle and this product removed them almost entirely and my lifestyle hasn't changed at all: 100% recommend"
-- **#122** · @blurryer · ~2021-10-31 · 141 likes · — · [Dark circles, It worked / the problem got better, How to use it / ease of use, How long results took]  
+- **#122** · @blurryer · ~2021-10-31 · 141 likes · — · [dark circles, worked, how to use, timing]  
   "Personally, I visited their store and the salesperson was transparent about it being a temporary solution. I use it in the morning when I find that my under-eye area looks dark but never expected long term results and it helps with my dark circles :)"
-- **#123** · @Jane.Garrett · ~2021-10-31 · 303 likes · — · [Dark circles, It worked / the problem got better, How long results took, Dryness and hydration, Before-and-after stories]  
+- **#123** · @Jane.Garrett · ~2021-10-31 · 303 likes · — · [dark circles, worked, timing, hydration, story]  
   "I've been using the caffeine serum for three years, and my dark circles have completely disappeared (they did in the first six months). I definitely swear by it. I do need a separate eye cream for hydration, though."
-- **#124** · @westcoastvibes1193 · ~2021-10-31 · 27 likes · — · [Dark circles, What they tried before]  
+- **#124** · @westcoastvibes1193 · ~2021-10-31 · 27 likes · — · [dark circles, tried before]  
   "Hydration is so important. My dark circles are worse when I don't drink water"
-- **#125** · @soojincho2829 · ~2021-10-31 · 63 likes · — · [It worked / the problem got better, Dark circles]  
+- **#125** · @soojincho2829 · ~2021-10-31 · 63 likes · — · [worked, dark circles]  
   "Honestly I can tell I haven't used this stuff in awhile. I think it really helps even out under my eyes. I won't skip it ever again"
-- **#126** · @lucky-rw3co · ~2021-10-31 · 299 likes · — · [Questions people ask]  
+- **#126** · @lucky-rw3co · ~2021-10-31 · 299 likes · — · [question]  
   "So I know you don't really like eye cream, but could you do a video on the best eye cream for each problem base on ingredients? I think it would help a lot of us"
-- **#127** · @Megan.Reeves · ~2021-10-31 · 7 likes · — · [It worked / the problem got better, How to use it / ease of use, Puffiness and bags]  
+- **#127** · @Megan.Reeves · ~2021-10-31 · 7 likes · — · [worked, how to use, puffiness/bags]  
   "I've had great success using this cold from the refrigerator!"
 
 **CeraVe Eye Repair Cream**: YouTube EhH7b4ZlidE (Matt Randon "DO NOT BUY!! Cerave Eye Repair Cream Full Review!", 89,316 views)
 
-- **#128** · @queeenmary2266 · ~2022-10-31 · 73 likes · — · [It worked / the problem got better, Dark circles, How long results took, Under concealer and makeup]  
+- **#128** · @queeenmary2266 · ~2022-10-31 · 73 likes · — · [worked, dark circles, timing, concealer]  
   "I've been using this product for a month and it's been working for me. My dark spots are gone and I don't feel like I need concealer everyday."
-- **#129** · @YeoYeo32 · ~2022-10-31 · 21 likes · — · [Puffiness and bags, It worked / the problem got better, How long results took, Before-and-after stories]  
+- **#129** · @YeoYeo32 · ~2022-10-31 · 21 likes · — · [puffiness/bags, worked, timing, story]  
   "I used Cerave when I got an infection that caused one of my under eyes to suddenly and rapidly puff up with double bags. Cerave was the only thing I put under my eyes and it helped  to completely cause the bags to shrink back and disappear. It took several days but it worked for me"
-- **#130** · @jessicazamora3267 · ~2021-10-31 · 100 likes · — · [Dark circles, Puffiness and bags, It worked / the problem got better, How long results took, How to use it / ease of use]  
+- **#130** · @jessicazamora3267 · ~2021-10-31 · 100 likes · — · [dark circles, puffiness/bags, worked, timing, how to use]  
   "Maybe it's to each their own. Because it did take awhile for it get rid of my dark circles, but it did work for me. I put it on morning and night, and it got rid of my puffiness."
-- **#131** · @deaqisya8394 · ~2022-10-31 · 204 likes · — · [Distrust of ads, claims and hype]  
+- **#131** · @deaqisya8394 · ~2022-10-31 · 204 likes · — · [ad distrust]  
   "btw everybody's skin is different so let's not put, "do not buy" in the caption and shaming the product, just because it didn't work for you."
-- **#132** · @lesliescott9944 · ~2021-10-31 · 1 likes · — · [It did nothing / disappointed]  
+- **#132** · @lesliescott9944 · ~2021-10-31 · 1 likes · — · [no change]  
   "I wish i would have seen your video sooner before i bought this. You are so right about your review of this product. 😠😠😭"
-- **#133** · @nolab2889 · ~2021-10-31 · 97 likes · — · [How long results took]  
+- **#133** · @nolab2889 · ~2021-10-31 · 97 likes · — · [timing]  
   "The thing is your meant to use it for at LEAST a month. Using it for a week isn't gonna give you the results you want"
-- **#134** · @12day1 · ~2021-10-31 · 16 likes · allergic to almond · [Side effects]  
+- **#134** · @12day1 · ~2021-10-31 · 16 likes · allergic to almond · [side effects]  
   "Also includes sweet almond oil. I didn't know and am allergic. It really hurt, itched, & irritated the skin around my eyes."
-- **#135** · @Sid-wb3yv · ~2025-10-31 · 0 likes · — · [It worked / the problem got better, Under concealer and makeup]  
+- **#135** · @Sid-wb3yv · ~2025-10-31 · 0 likes · — · [worked, concealer]  
   "Cera ve eye cream and night repair cream worked wonders on my skin. I now have a zero-makeup fresh face ❤❤❤❤❤❤"
 
 **Vitamin A&D ointment (drugstore)**: YouTube EhH7b4ZlidE (Matt Randon "DO NOT BUY!! Cerave Eye Repair Cream Full Review!", 89,316 views)
 
-- **#136** · @dreaaa810 · ~2021-10-31 · 1 likes · dry skin · [Dryness and hydration, What they tried before]  
+- **#136** · @dreaaa810 · ~2021-10-31 · 1 likes · dry skin · [hydration, tried before]  
   "I have been using recently vitamin a&d ointment for my eyes...and face cause I have much drier skin due to weather and being sick for this long 😪"
 
 **CeraVe Eye Repair Cream**: YouTube MsWB8tYyLqk (Emerald Sea "CeraVe Eye Cream for Dark Puffy Circles Review", 14,766 views)
 
-- **#137** · @QuickWorksBeauty · ~2025-10-31 · 1 likes · — · [It did nothing / disappointed]  
+- **#137** · @QuickWorksBeauty · ~2025-10-31 · 1 likes · — · [no change]  
   "It didn't work for me. Very disappointed."
-- **#138** · @dianehopkins22 · ~2024-10-31 · 10 likes · — · [It did nothing / disappointed]  
+- **#138** · @dianehopkins22 · ~2024-10-31 · 10 likes · — · [no change]  
   "THIS CRAP DOES NOT WORK"
-- **#139** · @soloM81 · ~2025-10-31 · 0 likes · — · [It did nothing / disappointed]  
+- **#139** · @soloM81 · ~2025-10-31 · 0 likes · — · [no change]  
   "junk doesnt work"
-- **#140** · @thandekazikali7131 · ~2024-10-31 · 12 likes · — · [It worked / the problem got better]  
+- **#140** · @thandekazikali7131 · ~2024-10-31 · 12 likes · — · [worked]  
   "Its does work 🤗❤"
-- **#141** · @Inismoon · ~2024-10-31 · 11 likes · — · [It did nothing / disappointed, Puffiness and bags, "Only a procedure fixes it", Price and value]  
+- **#141** · @Inismoon · ~2024-10-31 · 11 likes · — · [no change, puffiness/bags, procedure, price]  
   "For anyone who wants to know this eye cream does not work on bags or puffiness. Save your money the only way to get rid of bags under the eyes is surgery. Trust me! 😉"
 
 **CeraVe Skin Renewing Eye Cream**: YouTube si9l1VZtzvQ (Dr Dray, dermatologist, "The Ultimate Guide To Eye Creams 2025", 421,455 views)
 
-- **#142** · @Kayak-fz6mj · ~2025-10-31 · 20 likes · breakout-prone · [What they tried before, Side effects, Puffiness and bags, Dryness and hydration, It worked / the problem got better]  
+- **#142** · @Kayak-fz6mj · ~2025-10-31 · 20 likes · breakout-prone · [tried before, side effects, puffiness/bags, hydration, worked]  
   "I have tried 5 or 6 eye treatments. Each of them gave be breakouts under my eye...frustrating. Until I tried CeraVe Skin Renewing Eye Cream. This was the game changer for me. It worked very well for puffiness and dryness and is the only product that does not break me out!"
-- **#143** · @shari247peace · ~2025-10-31 · 59 likes · eyelid eczema · [Side effects, It worked / the problem got better, How to use it / ease of use, Texture and feel, Before-and-after stories]  
+- **#143** · @shari247peace · ~2025-10-31 · 59 likes · eyelid eczema · [side effects, worked, how to use, texture, story]  
   "A few years ago eyelid eczema hit me hard. Eyelids would break open and bleed, swell up super red and scaly. I used Avene Soothing eye cream which would absorb immediately, then I would follow with Cerave Skin Renewing Eye Cream which is a thicker texture. Did this day and night. It cleared up the eczema on my eyelids. I do use retinal on my face, and I learned the hard way to put my eyelids first in my skincare after cleansing. ... One time I had thoroughly applied retinal to my face, it was absorbed, I then applied my Avene/Cerave combo to my eyelids. Immediate fire. That tiny bit of residue of the retinal on my finger was the culprit. So order of product application is important too for sensitive skin."
 
 **CeraVe eye cream**: YouTube h8ln13JgSCs (Stephanie Marie "The BEST EYE CREAM For DRY MATURE Skin for UNDER MAKEUP", 66,096 views)
 
-- **#144** · @Ahtango · ~2020-10-31 · 7 likes · — · [Dryness and hydration, Texture and feel, Dark circles, It worked / the problem got better, Price and value, What they tried before]  
+- **#144** · @Ahtango · ~2020-10-31 · 7 likes · — · [hydration, texture, dark circles, worked, price, tried before]  
   "Im not one to be cheap about my skincare but I actually love the CeraVe eye cream. It's hydrating but not too thick and seems to help a little with my dark circles. It's about $11 and I think it works better than some eye creams that are 8 to 9 times the price that I've tried. ... Also I love your channel bc I really appreciate someone who isn't in their early 20's talking about makeup!!"
 
 **Beauty of Joseon Revive Eye Serum: Ginseng + Retinal + CeraVe Vitamin C eye cream**: YouTube 3xvUx4vnJC4 (Short "2-months update Using the Viral Beauty of Joseon Eye Cream", ~595K views)
 
-- **#145** · @juls41056 · ~2026-08-31 · 6 likes · — · [It worked / the problem got better, Dark circles, Crepey skin, fine lines, wrinkles, How to use it / ease of use]  
+- **#145** · @juls41056 · ~2026-08-31 · 6 likes · — · [worked, dark circles, crepey/lines, how to use]  
   "I love that eye cream. I actually use two. I use this first and  cerave eye cream with vitamin c and the results were amazing. Evened out the tone and made the entire area tighter and mlre plump."
 
 **Beauty of Joseon Revive Eye Serum: Ginseng + Retinal**: YouTube 3xvUx4vnJC4 (Short "2-months update Using the Viral Beauty of Joseon Eye Cream", ~595K views)
 
-- **#146** · @CuppycakeCooks · ~2026-07-01 · 8 likes · — · [It did nothing / disappointed, How long results took]  
+- **#146** · @CuppycakeCooks · ~2026-07-01 · 8 likes · — · [no change, timing]  
   "I bought it and have been using it for over two months but I haven't noticed any difference"
-- **#147** · @sumaiyaafrin3553 · ~2026-01-31 · 5 likes · — · [Side effects, Questions people ask, How long results took]  
+- **#147** · @sumaiyaafrin3553 · ~2026-01-31 · 5 likes · — · [side effects, question, timing]  
   "Does it cause a burning sensation? Because after I apply it, I feel a slight burning but goes away after 2/3 mnt..Plzz reply."
-- **#148** · @ElinaGolbedagh · ~2025-12-01 · 19 likes · — · [Questions people ask]  
+- **#148** · @ElinaGolbedagh · ~2025-12-01 · 19 likes · — · [question]  
   "There is two type of beauty of Joseon eye cream one of its is yellow and the other one is white what is the difference can someone please explain??"
-- **#149** · @AMIRA-zh4nj · ~2025-10-31 · 5 likes · — · [Distrust of ads, claims and hype]  
+- **#149** · @AMIRA-zh4nj · ~2025-10-31 · 5 likes · — · [ad distrust]  
   "I can't really see the big difference. I ordered the cream expecting to arrive tmw. Hope it works with me 🥲"
-- **#150** · @rashib23 · ~2026-10-01 · 0 likes · — · [How long results took, How to use it / ease of use]  
+- **#150** · @rashib23 · ~2026-10-01 · 0 likes · — · [timing, how to use]  
   "use it for 6 months"
 
 **Beauty of Joseon Revive Eye Serum: Ginseng + Retinal**: YouTube QbvzKn9GG_w (The Budget Dermatologist "Fix Your Crepey Under Eye Skin!", 536,135 views)
 
-- **#151** · @heatherlynn4652 · ~2024-10-31 · 42 likes · — · [It worked / the problem got better, How to use it / ease of use]  
+- **#151** · @heatherlynn4652 · ~2024-10-31 · 42 likes · — · [worked, how to use]  
   "Love the Beauty of Joseon Revive Eye Serum with Retinal. I use it every day"
 
 **Beauty of Joseon Revive Eye Serum: Ginseng + Retinal**: YouTube QbvzKn9GG_w
 
-- **#152** · @paintyourrosesred · ~2024-10-31 · 18 likes · periocular dermatitis · [Side effects]  
+- **#152** · @paintyourrosesred · ~2024-10-31 · 18 likes · periocular dermatitis · [side effects]  
   "I've heard the beauty of joseon retinal eye cream is great - I've got it sitting unopened at home waiting for periocular dermatitis to clear up 😫"
 
 **Beauty of Joseon Revive Eye Serum: Ginseng + Retinal**: YouTube si9l1VZtzvQ (Dr Dray, dermatologist, "The Ultimate Guide To Eye Creams 2025", 421,455 views)
 
-- **#153** · @lisinbondi1240 · ~2025-10-31 · 244 likes · — · [It worked / the problem got better, How long results took, Before-and-after stories, Crepey skin, fine lines, wrinkles]  
+- **#153** · @lisinbondi1240 · ~2025-10-31 · 244 likes · — · [worked, timing, story, crepey/lines]  
   "I started using the BoJ retinol eye cream about 5 years ago based on your review. I saw a photo of myself from 8 years ago and my eyes now look 10 years younger than they did. Honestly I was shocked. And delighted 🎉"
-- **#154** · @Jmexmaldo · ~2025-10-31 · 36 likes · 44 · [Side effects, How to use it / ease of use, How long results took]  
+- **#154** · @Jmexmaldo · ~2025-10-31 · 36 likes · 44 · [side effects, how to use, timing]  
   "I'm 44 and started using tretinoin 4 years ago, not around my eyes, and used the Beauty of Joeson eye cream instead. After 4 years of use I'm able to tolerate tretinoin now around the eye."
 
 **Beauty of Joseon Revive Eye Serum: Ginseng + Retinal**: YouTube wgWdHoI9leI (CYoung "Best & Worst Korean Eye Creams 2026 (Tier List: Dark Circles, Wrinkles & Milia)", 278,140 views)
 
-- **#155** · @jyotisinghania-l6l · date not recorded in pull · likes not recorded · — · [Dark circles, It worked / the problem got better, How long results took]  
+- **#155** · @jyotisinghania-l6l · date not recorded in pull · likes not recorded · — · [dark circles, worked, timing]  
   "Beauty of joseon is amazing for dark circles... after about 3 months of continuous use I have seen amazing difference"
 
 **Korean eye creams (CYoung tier list)**: YouTube wgWdHoI9leI (CYoung "Best & Worst Korean Eye Creams 2026 (Tier List: Dark Circles, Wrinkles & Milia)", 278,140 views)
 
-- **#156** · @Maisha_Sarkar4545 · date not recorded in pull · 41 likes · — · [Dark circles, Questions people ask]  
+- **#156** · @Maisha_Sarkar4545 · date not recorded in pull · 41 likes · — · [dark circles, question]  
   "You should have mentioned which are best for dark circles"
-- **#157** · @michahgarcia6064 · date not recorded in pull · likes not recorded · milia-prone · [Side effects]  
+- **#157** · @michahgarcia6064 · date not recorded in pull · likes not recorded · milia-prone · [side effects]  
   "Im prone to Milia & syringoma under the eyes..."
 
 **Kiehl's Creamy Eye Treatment with Avocado**: YouTube h8ln13JgSCs (Stephanie Marie "The BEST EYE CREAM For DRY MATURE Skin for UNDER MAKEUP", 66,096 views)
 
-- **#158** · @LeahDonnally · ~2020-10-31 · 19 likes · — · [It worked / the problem got better, Price and value, How long results took]  
+- **#158** · @LeahDonnally · ~2020-10-31 · 19 likes · — · [worked, price, timing]  
   "I bought the Kiehl's eye cream because of your recommendation about a year ago. I never would have tried it if not for you. I am almost out of my third jar and will repurchase again and again!"
-- **#159** · @MaryLynnEvans · ~2026-01-31 · 0 likes · — · [It worked / the problem got better]  
+- **#159** · @MaryLynnEvans · ~2026-01-31 · 0 likes · — · [worked]  
   "Kiels eye cream has made a huge difference under my eyes. I'll never switch."
-- **#160** · @abdelrahmane657 · ~2025-10-31 · 2 likes · — · [Dryness and hydration, Side effects]  
+- **#160** · @abdelrahmane657 · ~2025-10-31 · 2 likes · — · [hydration, side effects]  
   "Kiehl's eyes cream and It confidence are super hydrating but my eyes get watery."
-- **#161** · @rcqm09 · ~2020-10-31 · 21 likes · — · [It worked / the problem got better]  
+- **#161** · @rcqm09 · ~2020-10-31 · 21 likes · — · [worked]  
   "... I love the Kiehls and the Belif Moisturizing eye bomb is amazing!!!! ..."
 
 **Hada Labo Age Correcting Eye Cream**: YouTube h8ln13JgSCs (Stephanie Marie "The BEST EYE CREAM For DRY MATURE Skin for UNDER MAKEUP", 66,096 views)
 
-- **#162** · @julipagemorganbeauty · ~2020-10-31 · 26 likes · — · [Under concealer and makeup, Texture and feel, Dryness and hydration, Crepey skin, fine lines, wrinkles, It worked / the problem got better, How long results took, Dark circles, It did nothing / disappointed, Price and value]  
+- **#162** · @julipagemorganbeauty · ~2020-10-31 · 26 likes · — · [concealer, texture, hydration, crepey/lines, worked, timing, dark circles, no change, price]  
   "I'm loving the Age Correcting Eye Cream by Hada Labo. It's right around $19 at Target for 0.5 ounces. It's great under makeup, lightweight but super hydrating (it has hyaluranic acid, collagen, and caffeine), and my lines and wrinkles around my eyes are much less noticeable after using it for a little over a month. My hereditary dark circles haven't been affected in the least, though. Stubborn things!"
-- **#163** · @donnagill7346 · ~2020-10-31 · 14 likes · 56 · [It worked / the problem got better, How long results took]  
+- **#163** · @donnagill7346 · ~2020-10-31 · 14 likes · 56 · [worked, timing]  
   "The Hado Labo Anti-aging Eye Cream is my new favorite.  I am on my 2nd tube and I've noticed a considerable difference in my aging 56 yr. old eyes. ..."
-- **#164** · @juliemoyer9713 · ~2020-10-31 · 8 likes · about to turn 54 · [Puffiness and bags, It worked / the problem got better, Under concealer and makeup, What they tried before]  
+- **#164** · @juliemoyer9713 · ~2020-10-31 · 8 likes · about to turn 54 · [puffiness/bags, worked, concealer, tried before]  
   "100%pure coffee bean caffeine eye cream is the best I've ever used. I'm about to turn 54 and have tried some of the ones mentioned in your video. This beats them hands down. Great at night, great under makeup. My biggest problem was puffiness and this took care of that. I got mine on Amazon. You have to try it!"
-- **#165** · @Peridot500 · ~2020-10-31 · 4 likes · 63 · [It worked / the problem got better, Price and value]  
+- **#165** · @Peridot500 · ~2020-10-31 · 4 likes · 63 · [worked, price]  
   "Tatcha Silk Peony Eye Cream - I'm 63 and even though this is expensive it's worth it. Get a sample at Sephora."
-- **#166** · @fionafrazer8820 · ~2020-10-31 · 6 likes · 60+ ("one of your older subs") · [Price and value, How to use it / ease of use]  
+- **#166** · @fionafrazer8820 · ~2020-10-31 · 6 likes · 60+ ("one of your older subs") · [price, how to use]  
   "As one of your older subs, these products might appeal to those 60+!  I am using the Bobbi Brown Extra Repair Eye Cream, pricey, but you use such a tiny amount, and an Ola Hendricksen Brightener dupe, which is the Pixi +C Undereye Brightener."
-- **#167** · @gloriasalvante2919 · ~2020-10-31 · 5 likes · — · [Dryness and hydration, Texture and feel, Under concealer and makeup, How to use it / ease of use, Price and value, How long results took]  
+- **#167** · @gloriasalvante2919 · ~2020-10-31 · 5 likes · — · [hydration, texture, concealer, how to use, price, timing]  
   "... I'm a huge fan of Lancôme's Visionnaire Eye Cream Advanced Multi-Correcting Eye Balm -- purely for hydration. Silky is the best word I can use to describe this eye cream. I love that it comes in a pump instead of a pot (which I can't stand because of my long nails). It performs flawlessly for me underneath makeup, as long as I give it 10 or so minutes to sink in. It's $65 for 0.5oz ..."
 
 **La Roche-Posay / IT Cosmetics eye creams**: YouTube h8ln13JgSCs (Stephanie Marie "The BEST EYE CREAM For DRY MATURE Skin for UNDER MAKEUP", 66,096 views)
 
-- **#168** · @timibit1408 · ~2020-10-31 · 7 likes · sensitive under-eyes · [Side effects, It worked / the problem got better]  
+- **#168** · @timibit1408 · ~2020-10-31 · 7 likes · sensitive under-eyes · [side effects, worked]  
   "I love the La Roche Posay and It Cosmetics..no irritation for my sensitive under eyes."
 
 **Face moisturiser instead of eye cream**: YouTube h8ln13JgSCs (Stephanie Marie "The BEST EYE CREAM For DRY MATURE Skin for UNDER MAKEUP", 66,096 views)
 
-- **#169** · @mariagk5596 · ~2020-10-31 · 30 likes · — · [Price and value, What they tried before, How to use it / ease of use]  
+- **#169** · @mariagk5596 · ~2020-10-31 · 30 likes · — · [price, tried before, how to use]  
   "I don't use a separate eye cream anymore. I just bring my moisturizer all the way up to my eye area.  / As per my dermatologist they're pretty much the same product as your moisturizer in a tiny jar at double the price!!"
 
 **Clinique All About Eyes**: YouTube si9l1VZtzvQ (Dr Dray, dermatologist, "The Ultimate Guide To Eye Creams 2025", 421,455 views)
 
-- **#170** · @missmayflower · ~2025-10-31 · 3 likes · 70 · [Texture and feel, It worked / the problem got better, Dryness and hydration, Side effects]  
+- **#170** · @missmayflower · ~2025-10-31 · 3 likes · 70 · [texture, worked, hydration, side effects]  
   "I only ever used my moisturizer on my eyes. When I turned 70, I tried an eye cream that came as a gift with my Clinique, All About Eyes. It feels fantastic and, amazingly, helped with my dry eye condition so I don't need to use eyedrops as often."
 
 **Medik8 Crystal Retinal Ceramide Eye; Dermelect Eye Lift; La Roche-Posay Cicaplast Gel**: YouTube si9l1VZtzvQ (Dr Dray, dermatologist, "The Ultimate Guide To Eye Creams 2025", 421,455 views)
 
-- **#171** · @tquirkyt7118 · ~2025-10-31 · 25 likes · — · [How to use it / ease of use, Side effects, It worked / the problem got better, What they tried before]  
+- **#171** · @tquirkyt7118 · ~2025-10-31 · 25 likes · — · [how to use, side effects, worked, tried before]  
   "✨Night eye routine: Medik8 Crystal Retinal Ceramide Eye 6, DERMELECT Eye Lift, LRP Cicaplast Gel….Perfection💥 20 years ago I was using Tretinoin around the eyes, no can do any longer, regardless of sandwiching…the Medik8 fits the bill😊"
-- **#172** · @Jen-lm8hb · ~2025-10-31 · 49 likes · dry, sensitive skin · [Dryness and hydration, It worked / the problem got better, Texture and feel, Side effects]  
+- **#172** · @Jen-lm8hb · ~2025-10-31 · 49 likes · dry, sensitive skin · [hydration, worked, texture, side effects]  
   "The La Roche Posay Cicaplast product is pure gold for me. ... My dry skin now looks moisturized, glowing and smooth without any greasiness. I also have sensitive skin and haven't had any reaction to it whatsoever. ..."
 
 **Estée Lauder eye serum and "everything imaginable"; tretinoin**: YouTube si9l1VZtzvQ (Dr Dray, dermatologist, "The Ultimate Guide To Eye Creams 2025", 421,455 views)
 
-- **#173** · @December074 · ~2025-10-31 · 8 likes · 50 · [It did nothing / disappointed, Dark circles, Price and value, What they tried before, Under concealer and makeup, Before-and-after stories]  
+- **#173** · @December074 · ~2025-10-31 · 8 likes · 50 · [no change, dark circles, price, tried before, concealer, story]  
   "I am 50 years old and started using eye serums and creams a few years ago. Started with Estée Lauder's eye serum because it was supposed to be the best. I've spent several hundred dollars on everything imaginable, and not one single thing has changed about my eyes. I have dark circles around and under my eyes. I have both pigmentation and collagen loss. Concealer keeps me from looking like someone from the Victorian era who's dying of the flu. ... Tretinoin does help me look more fresh. ..."
-- **#174** · @alicesmith1995 · ~2025-10-31 · 2 likes · over 40; contact allergies, eczema, rosacea · [Side effects, Dryness and hydration, Under concealer and makeup, It worked / the problem got better]  
+- **#174** · @alicesmith1995 · ~2025-10-31 · 2 likes · over 40; contact allergies, eczema, rosacea · [side effects, hydration, concealer, worked]  
   "... As someone with contact allergies, eczema, rosacea and sensitive skin, I can tell you this product is very gentle. As someone over 40, I can also tell you it is very hydrating and looks great under makeup. I've been using it since I was patch tested 9 years ago."
-- **#175** · @champagenroses · ~2025-10-31 · 8 likes · rosacea, sensitive · [Side effects, Texture and feel, It worked / the problem got better]  
+- **#175** · @champagenroses · ~2025-10-31 · 8 likes · rosacea, sensitive · [side effects, texture, worked]  
   "I have very sensitive skin with Rosacea .  I use the Vanicream Moisturizing Lotion around my eyes - absorbs nicely and is fragrance free too.  I have some irritation under my eyebrows that my Dr said is Contact dermatitis.   I've been using the Flexitol Face & eyelid Cream - it does help with the itch and redness.  It is also fragrance free. ..."
-- **#176** · @Ανδριάνα-3ο3 · ~2025-10-31 · 10 likes · eczema · [Dryness and hydration, Crepey skin, fine lines, wrinkles, It worked / the problem got better, How to use it / ease of use, Texture and feel]  
+- **#176** · @Ανδριάνα-3ο3 · ~2025-10-31 · 10 likes · eczema · [hydration, crepey/lines, worked, how to use, texture]  
   "... One ointment is called Vitaposh and contains vitamin A and petrolatum jelly. The other one is called Vitadex and contains vitamin A and Dexpanthenol. Because they are in ointment form, I only use them night since in the morning my eyes are completely hydrated and free of irritation. Vitamin A helps a lot with the small wrinkles under my eyes! ..."
-- **#177** · @aceee4386 · ~2025-10-31 · 313 likes · oily face, dry under-eyes · [Crepey skin, fine lines, wrinkles, Dryness and hydration, It worked / the problem got better, Texture and feel]  
+- **#177** · @aceee4386 · ~2025-10-31 · 313 likes · oily face, dry under-eyes · [crepey/lines, hydration, worked, texture]  
   "Regarding not needing an eye cream.  Perhaps. But I have noticed that when I use a good eye cream, I absolutely see a softening of the crow's feet around my eyes, I know it's not getting rid of them, but there is way more hydration that doesn't happen from my regular moisturizer.  Maybe I need a thicker moisturizer, but my lower face skin likes the gel creams and my eyes like thicker moisturizer that really hydrates and protects.  I have definitely taken your advice and others that eye cream is just marketing but a good eye cream does help."
-- **#178** · @IreneMcDowell-ho4lg · ~2025-10-31 · 44 likes · — · [Dryness and hydration, Crepey skin, fine lines, wrinkles, How long results took]  
+- **#178** · @IreneMcDowell-ho4lg · ~2025-10-31 · 44 likes · — · [hydration, crepey/lines, timing]  
   "I have been using eye creams for years ,what I have found is they hydrate the skin around the eyes and smooth any fine lines,  but do not stop skin ageing."
-- **#179** · @imsteph21 · ~2025-10-31 · 26 likes · — · [Side effects]  
+- **#179** · @imsteph21 · ~2025-10-31 · 26 likes · — · [side effects]  
   "I'm sure regular facial creams work well under the eyes but, personally, I've noticed it burns my eyes when I use creams that aren't formulated for the eyes. 😕"
-- **#180** · @ffmadari · ~2025-10-31 · 24 likes · oily face, very dry under-eyes · [Dryness and hydration]  
+- **#180** · @ffmadari · ~2025-10-31 · 24 likes · oily face, very dry under-eyes · [hydration]  
   "I know I don't need an eye cream, but I love them.  / My face is oily and my under eyes are very dry.  / I honestly can't use the same cream all over ❤"
-- **#181** · @trisham22333 · ~2025-10-31 · 7 likes · — · [How to use it / ease of use, Crepey skin, fine lines, wrinkles, It worked / the problem got better, How long results took]  
+- **#181** · @trisham22333 · ~2025-10-31 · 7 likes · — · [how to use, crepey/lines, worked, timing]  
   "At night - Under my eyes & on the sides (crows feet area ) - I put a super thin layer of cetaphil moisturizer, then a thin later of trenintion, then a thin layer of vaseline, like a sandwhich lol, I have been doing it almost 6 years now, it seems to work, I barely have any lines at all ..."
-- **#182** · @cathygiuliana9089 · ~2025-10-31 · 66 likes · RN, shift worker · [Puffiness and bags, It worked / the problem got better, How long results took, Price and value, How to use it / ease of use]  
+- **#182** · @cathygiuliana9089 · ~2025-10-31 · 66 likes · RN, shift worker · [puffiness/bags, worked, timing, price, how to use]  
   "When I was working always second shift as an RN seemed like the better I slept the more swollen, puffier my eye got. ... I would put two spoons in the freezer for a few minutes then lie on couch and put spoons curved sides down apply to both eyes ... When I sat up a few minutes after my eyes were completely free of any edema/swelling ... Also Essence makes a wonderful depuffing eye gel for about $5. ..."
 
 **The Inkey List products**: YouTube QbvzKn9GG_w
 
-- **#183** · @whiterockgal · ~2024-10-31 · 13 likes · 52 · [It worked / the problem got better, Price and value]  
+- **#183** · @whiterockgal · ~2024-10-31 · 13 likes · 52 · [worked, price]  
   "I've been using The Inkey List products that are very affordable and I have been noticing amazing improvments in my 52 year old skin! Very affordable products."
-- **#184** · @liselavoie5892 · ~2024-10-31 · 2 likes · — · [It worked / the problem got better]  
+- **#184** · @liselavoie5892 · ~2024-10-31 · 2 likes · — · [worked]  
   "Naturium multi peptide eye cream! Love it! I have seen a good difference with my undereyes"
-- **#185** · @Leo_Riising · ~2024-10-31 · 5 likes · — · [It worked / the problem got better]  
+- **#185** · @Leo_Riising · ~2024-10-31 · 5 likes · — · [worked]  
   "For me, the Retrouve eye cream is amazing!"
 
 **Medik8 Crystal Retinal for Eyes; Skinbetter AlphaRet eye; PRF/PRP**: YouTube XKROvYsp0QM (Dr. Sam Ellis "How to Treat Crepey Eyes Like a Dermatologist", 148,367 views)
 
-- **#186** · @kacey357 · ~2025-10-31 · 117 likes · 63 · [It worked / the problem got better, How to use it / ease of use, Under concealer and makeup, Dryness and hydration, Before-and-after stories]  
+- **#186** · @kacey357 · ~2025-10-31 · 117 likes · 63 · [worked, how to use, concealer, hydration, story]  
   "I used the Medik8  Crystal Retinal for Eyes . It's a beautiful formula and I had amazing results. ... I'm currently using Skinbetter AlphaRet for eyes and it is reeeallly good. I will often layer ZO growth factor eye gel over top or Neocutis Lumiere Firm Riche to help with hydration. ... I do PRF or PRP about every three or four months as well. I try not to overuse undereye makeup. ... I'm 63 and quite often mistaken for a forty something so it's worth the effort for me"
-- **#187** · @ricky7111 · ~2025-10-31 · 8 likes · — · [Side effects, What they tried before, How to use it / ease of use]  
+- **#187** · @ricky7111 · ~2025-10-31 · 8 likes · — · [side effects, tried before, how to use]  
   "A few things you said were so validating for me. I used to use a retinol undereye cream, and I felt I was going crazy because my eyes were getting so dry.  So I'm glad you mentioned that. ... I use cera ve facial moisturizer sunscreen and eveey night add The Ordinary's multi peptide serum under my eyes, and I'm always wearing sunglasses if not also a hat, so I feel I'm on a good path. Thanks so much!"
-- **#188** · @Lizvonmay9560 · ~2025-10-31 · 14 likes · — · [How to use it / ease of use, Side effects]  
+- **#188** · @Lizvonmay9560 · ~2025-10-31 · 14 likes · — · [how to use, side effects]  
   "I apply 0.025% Tretinoin under my eyes and hadn't had a bad reaction; however I cycle my Tretinoin with Retinaldehyde to help prevent dryness. ..."
-- **#189** · @FarrahNorton · ~2025-10-31 · 4 likes · — · [Texture and feel, It worked / the problem got better]  
+- **#189** · @FarrahNorton · ~2025-10-31 · 4 likes · — · [texture, worked]  
   "Shiseido Beneficence is my favorite! So creamy and dewy, lasts all day!"
 
 ### 4.5 Under-eye care in general, mostly women 50+
@@ -976,232 +978,232 @@ These 7 texts appear on both shops' product pages with 5 stars, a "Verified Buye
 
 **Under-eye care in general (makeup + skincare)**: YouTube vQ1wyKafvWI (Mature Makeup Masterclass "No More Dark Circles (or Bags): A Pro's Guide for Mature Skin", 291,424 views)
 
-- **#190** · @TheBeautyBeneathTheMakeup · ~2026-10-03 · 128 likes · 58 · [Under concealer and makeup, It worked / the problem got better, Before-and-after stories, Crepey skin, fine lines, wrinkles]  
+- **#190** · @TheBeautyBeneathTheMakeup · ~2026-10-03 · 128 likes · 58 · [concealer, worked, story, crepey/lines]  
   "I no longer use foundation daily! 😮 I NEVER would have left my house without it in the past. After learning a proper skincare routine, my 58-year-old skin now looks like glass, and I don't need foundation anymore! Too much foundation can really age you by emphasizing texture, lines, and wrinkles. I use a bit of spot concealer over my SPF 70 sunscreen. ..."
-- **#191** · @Virgo8250 · ~2026-10-03 · 50 likes · "A Boomer" · [Price and value, What they tried before]  
+- **#191** · @Virgo8250 · ~2026-10-03 · 50 likes · "A Boomer" · [price, tried before]  
   "Your video popped up at the right time. I've been wasting so much money on fixing this problem. I became an instant fan. (A Boomer from Ct)"
 
 **Vaseline under concealer (tip from the video)**: YouTube vQ1wyKafvWI (Mature Makeup Masterclass "No More Dark Circles (or Bags): A Pro's Guide for Mature Skin", 291,424 views)
 
-- **#192** · @mariannemeyers4897 · ~2026-10-01 · 34 likes · — · [Under concealer and makeup, It worked / the problem got better, Dryness and hydration]  
+- **#192** · @mariannemeyers4897 · ~2026-10-01 · 34 likes · — · [concealer, worked, hydration]  
   "Your Vaseline trick has been the biggest game-changer for improving my under eye makeup!   Thanks so much!!!❤❤"
 
 **Under-eye care in general**: YouTube vQ1wyKafvWI (Mature Makeup Masterclass "No More Dark Circles (or Bags): A Pro's Guide for Mature Skin", 291,424 views)
 
-- **#193** · @RioGirl16 · ~2026-10-10 · 31 likes · 48+ · [Puffiness and bags, Before-and-after stories]  
+- **#193** · @RioGirl16 · ~2026-10-10 · 31 likes · 48+ · [puffiness/bags, story]  
   "When I turned 48, my face just fell 😩 Bags, jowls, the whole 9! I'm going to try this! Please do the marionette lines next! 🙏🏼"
-- **#194** · @gramfactor · ~2026-10-10 · 4 likes · — · [Under concealer and makeup, What they tried before]  
+- **#194** · @gramfactor · ~2026-10-10 · 4 likes · — · [concealer, tried before]  
   "I watch a lot of YouTube tutorials and this is the first video that makes sense. Most everyone else says to lighten and brighten under eyes . Thank you, I subscribed."
 
 **Bronzer on puffy areas (makeup tip)**: YouTube vQ1wyKafvWI (Mature Makeup Masterclass "No More Dark Circles (or Bags): A Pro's Guide for Mature Skin", 291,424 views)
 
-- **#195** · @LA-jy8hq · ~2026-10-03 · 16 likes · — · [Puffiness and bags, Dark circles, Under concealer and makeup, It worked / the problem got better]  
+- **#195** · @LA-jy8hq · ~2026-10-03 · 16 likes · — · [puffiness/bags, dark circles, concealer, worked]  
   "Hi I'm new here, and I have puffiness, dents and darkness only in the corner of my eyes.  So I used the bronzer on my puffies and it looked great! Thank you, that is a great tip!!!"
 
 **Under-eye care in general**: YouTube vQ1wyKafvWI (Mature Makeup Masterclass "No More Dark Circles (or Bags): A Pro's Guide for Mature Skin", 291,424 views)
 
-- **#196** · @donnawendell8882 · ~2026-10-17 · 1 likes · — · [Puffiness and bags]  
+- **#196** · @donnawendell8882 · ~2026-10-17 · 1 likes · — · [puffiness/bags]  
   "I have the worst eye bags ! And, my face is extremely round ! I will definitely try this, and I like how you said the closeup club! Love it !"
 
 **Under-eye care in general**: YouTube XKROvYsp0QM (Dr. Sam Ellis "How to Treat Crepey Eyes Like a Dermatologist", 148,367 views)
 
-- **#197** · @hazelletomlin5 · ~2025-10-31 · 82 likes · — · [Crepey skin, fine lines, wrinkles, How to use it / ease of use, Questions people ask]  
+- **#197** · @hazelletomlin5 · ~2025-10-31 · 82 likes · — · [crepey/lines, how to use, question]  
   "Please cover crepey upper eyelids and drooping upper eyelids, products, surgery, laser, and upneeq and what to realistically expect in another video - I find very little information available on how to apply products and probably care for that oh so delicate region, sometimes the only information available is “don't go there” which obviously is not helpful 🙏"
 
 **Lip sunscreen around the eyes (tip)**: YouTube XKROvYsp0QM (Dr. Sam Ellis "How to Treat Crepey Eyes Like a Dermatologist", 148,367 views)
 
-- **#198** · @juicygnome2093 · ~2026-03-03 · 36 likes · — · [Side effects, How to use it / ease of use]  
+- **#198** · @juicygnome2093 · ~2026-03-03 · 36 likes · — · [side effects, how to use]  
   "Little hack for people who get sunscreen 'bleeding' into the eyes and causing irritation: Lip Suncreens dont tend to move, and are fantastic for under your eyes and eye lids ❤"
 
 **Under-eye care in general**: YouTube XKROvYsp0QM (Dr. Sam Ellis "How to Treat Crepey Eyes Like a Dermatologist", 148,367 views)
 
-- **#199** · @roxannechapa2131 · ~2025-10-31 · 64 likes · — · [Questions people ask]  
+- **#199** · @roxannechapa2131 · ~2025-10-31 · 64 likes · — · [question]  
   "Please do a video on hooded eyes due to age"
-- **#200** · @MISSYMINX261 · ~2025-10-31 · 71 likes · milia-prone · [Side effects, Questions people ask]  
+- **#200** · @MISSYMINX261 · ~2025-10-31 · 71 likes · milia-prone · [side effects, question]  
   "Could you please create a video on what to use for the upper eyelid skin? and options for those who are milia prone"
 
 **Gentle double cleanse (no cotton pad)**: YouTube XKROvYsp0QM (Dr. Sam Ellis "How to Treat Crepey Eyes Like a Dermatologist", 148,367 views)
 
-- **#201** · @lmrh65 · ~2025-10-31 · 11 likes · 65 · [How to use it / ease of use, It worked / the problem got better, Crepey skin, fine lines, wrinkles]  
+- **#201** · @lmrh65 · ~2025-10-31 · 11 likes · 65 · [how to use, worked, crepey/lines]  
   "Thank you for this, something I have found is when I cleanse my 65 year old eyes from makeup is my double cleanse. With the slip the first cleanse creates makes it simple to remove eye makeup, without the use of a cotton round, making even less friction. I feel my under eyes have actually improved with this method. ♥️ 👀"
-- **#202** · @maybe800 · ~2025-10-31 · 13 likes · — · [How to use it / ease of use, Side effects]  
+- **#202** · @maybe800 · ~2025-10-31 · 13 likes · — · [how to use, side effects]  
   "I always use a regular, liquid spf on my face and then close to my eyes and on my eyelids I use an spf stick. Like this I never have the problem of getting spf into my eyes and at the same time, my eyes are very well protected. ☺️"
 
 **Under-eye care in general**: YouTube XKROvYsp0QM (Dr. Sam Ellis "How to Treat Crepey Eyes Like a Dermatologist", 148,367 views)
 
-- **#203** · @jmd8338 · ~2026-08-31 · 1 likes · — · [Crepey skin, fine lines, wrinkles, Questions people ask]  
+- **#203** · @jmd8338 · ~2026-08-31 · 1 likes · — · [crepey/lines, question]  
   "Crepey UPPER eyelids, please!"
-- **#204** · @carinagomez8812 · ~2025-10-31 · 16 likes · — · [Questions people ask, "Only a procedure fixes it"]  
+- **#204** · @carinagomez8812 · ~2025-10-31 · 16 likes · — · [question, procedure]  
   "Would love to see a video on hollow under eyes and what, if anything, can be done about that (besides fillers which I'm not interested in). Both as procedures and at home."
 
 **SPF 50 + sunglasses**: YouTube QbvzKn9GG_w (The Budget Dermatologist "Fix Your Crepey Under Eye Skin!", 536,135 views)
 
-- **#205** · @maxie-q4r · ~2024-10-31 · 292 likes · 58 · [Crepey skin, fine lines, wrinkles, It worked / the problem got better, How long results took, Before-and-after stories, How to use it / ease of use]  
+- **#205** · @maxie-q4r · ~2024-10-31 · 292 likes · 58 · [crepey/lines, worked, timing, story, how to use]  
   "Started SPF 50 under my eyes from about age 38 and now at age 58 have hardly any under eye lines. Also always wear sunglasses outside and while driving.😎"
 
 **Under-eye care in general**: YouTube QbvzKn9GG_w (The Budget Dermatologist "Fix Your Crepey Under Eye Skin!", 536,135 views)
 
-- **#206** · @francessimon2296 · ~2025-10-31 · 18 likes · — · [Crepey skin, fine lines, wrinkles, Side effects]  
+- **#206** · @francessimon2296 · ~2025-10-31 · 18 likes · — · [crepey/lines, side effects]  
   "I get so afraid of using new products on my face but the under eye wrinkles are really upsetting and I'm so over it. Thanks for this video"
-- **#207** · @annieelkins8746 · ~2025-10-31 · 23 likes · — · [Dryness and hydration, How to use it / ease of use]  
+- **#207** · @annieelkins8746 · ~2025-10-31 · 23 likes · — · [hydration, how to use]  
   "Hydrate. Sunscreen /  And moisture everyday"
-- **#208** · @CateHammers · ~2026-03-03 · 11 likes · — · [Crepey skin, fine lines, wrinkles]  
+- **#208** · @CateHammers · ~2026-03-03 · 11 likes · — · [crepey/lines]  
   "I've squinted my whole life so even as a 13 year old I noticed crepe skin under my eyes"
 
 **Castor oil + almond oil massage**: YouTube QbvzKn9GG_w (The Budget Dermatologist "Fix Your Crepey Under Eye Skin!", 536,135 views)
 
-- **#209** · @jackierizk7846 · ~2024-10-31 · 127 likes · 60 · [Puffiness and bags, Dark circles, Crepey skin, fine lines, wrinkles, It worked / the problem got better, How to use it / ease of use]  
+- **#209** · @jackierizk7846 · ~2024-10-31 · 127 likes · 60 · [puffiness/bags, dark circles, crepey/lines, worked, how to use]  
   "Have been massaging Castor Oil + almond oil (good quality- organic cold pressed) around the eye area every night before going to bed reduced my under eye puffiness and lightened my dark circles and mostly reduced lines around my eyes.. I am 60 btw 😊"
-- **#210** · @Lexi_________ · ~2024-10-31 · 33 likes · — · [It worked / the problem got better, Price and value, How to use it / ease of use]  
+- **#210** · @Lexi_________ · ~2024-10-31 · 33 likes · — · [worked, price, how to use]  
   "Easy and cheap...castor oil under the eye at night. Worked for me!"
 
 **Under-eye care in general**: YouTube QbvzKn9GG_w (The Budget Dermatologist "Fix Your Crepey Under Eye Skin!", 536,135 views)
 
-- **#211** · @beautifulvictory9683 · ~2024-10-31 · 183 likes · — · [Crepey skin, fine lines, wrinkles, Questions people ask]  
+- **#211** · @beautifulvictory9683 · ~2024-10-31 · 183 likes · — · [crepey/lines, question]  
   "Upper eyelid crepey skin: please provide a video on this. Thx! 😊"
-- **#212** · @dominiquedeangelo2616 · ~2024-10-31 · 21 likes · 48 · [Dark circles, Puffiness and bags, Crepey skin, fine lines, wrinkles]  
+- **#212** · @dominiquedeangelo2616 · ~2024-10-31 · 21 likes · 48 · [dark circles, puffiness/bags, crepey/lines]  
   "Thank you! I so needed this video. I have hereditary dark circles and now eye bags/ lines at 48. You're the best Dr. L"
 - **#213** · @mexicandee1122 · ~2025-10-31 · 2 likes · 52 · [no tag]  
   "Instantly subscribed!!! I'm 52 and definitely need your advice and knowledge! 🙏🏼🙏🏼"
 
 **Under-eye care in general (makeup on mature skin)**: YouTube PhcCaoDaUjk (Glam Girl Gabi "How To Cover DARK CIRCLES On Mature Eyes", 88,348 views)
 
-- **#214** · @staceycordell3739 · ~2026-01-31 · 51 likes · — · [Under concealer and makeup, Distrust of ads, claims and hype]  
+- **#214** · @staceycordell3739 · ~2026-01-31 · 51 likes · — · [concealer, ad distrust]  
   "I love all your tutorials but this one hit it out of the park! It's so nice to see makeup application on “real” skin. Would love to see full tutorials on gorgeous Daphne or anyone that has real life skin - lines, wrinkles, crows feet, sagginess, lip lines, etc"
-- **#215** · @debbiejaxel9205 · ~2026-01-31 · 18 likes · 71 · [Dark circles, Under concealer and makeup]  
+- **#215** · @debbiejaxel9205 · ~2026-01-31 · 18 likes · 71 · [dark circles, concealer]  
   "YES, please give us the full tutorial on this particular video.  Thank you for featuring women in their 70's (I am 71 and am a SUBSCRIBER ...).  Speaking for myself, the dark circles are an ongoing issue, and dealing with the HOLLOWS is even more challenging. ..."
 
 **Setting spray + powder under concealer**: YouTube PhcCaoDaUjk (Glam Girl Gabi "How To Cover DARK CIRCLES On Mature Eyes", 88,348 views)
 
-- **#216** · @Thepw1 · ~2026-01-31 · 6 likes · — · [Under concealer and makeup, It worked / the problem got better, How to use it / ease of use]  
+- **#216** · @Thepw1 · ~2026-01-31 · 6 likes · — · [concealer, worked, how to use]  
   "One thing I have found that works, for me anyway, is that I spray setting spray on a small sponge and pat into the under eye, then apply a light dusting of setting powder over that. It seems so backwards, but it actually works on my skin much better. I go all day with no creasing."
 
 **Under-eye care in general**: YouTube PhcCaoDaUjk (Glam Girl Gabi "How To Cover DARK CIRCLES On Mature Eyes", 88,348 views)
 
-- **#217** · @abbeydove123 · ~2026-01-31 · 6 likes · — · [How to use it / ease of use]  
+- **#217** · @abbeydove123 · ~2026-01-31 · 6 likes · — · [how to use]  
   "This whole series of events is so beyond what I have time to deal with in the morning."
 
 **Typology eye products (sponsor)**: YouTube PhcCaoDaUjk (Glam Girl Gabi "How To Cover DARK CIRCLES On Mature Eyes", 88,348 views)
 
-- **#218** · @Sheri6776 · ~2026-01-31 · 13 likes · — · [Price and value]  
+- **#218** · @Sheri6776 · ~2026-01-31 · 13 likes · — · [price]  
   "I would love to try typology , but the cost is a little over my budget. But I do have some similar products I can use, if I have time. Thank you, this was helpful."
 
 **Korean skincare vs lower blepharoplasty (eyelid surgery)**: YouTube bQuVtFwFOA0 (Dr. Sam Ellis "This is What Will Get Rid Your Your Eye Bags", 496,518 views)
 
-- **#219** · @lynnp6942 · ~2026-01-31 · 119 likes · 55+ · [Puffiness and bags, What they tried before, It did nothing / disappointed, "Only a procedure fixes it", Before-and-after stories]  
+- **#219** · @lynnp6942 · ~2026-01-31 · 119 likes · 55+ · [puffiness/bags, tried before, no change, procedure, story]  
   "My under-eye fat pads really started to bother me around age 55. I take very good care of my skin (lots of Korean skincare—especially centella-based products), but no amount of topical products made a meaningful difference for the bags themselves. /  / After losing a significant amount of weight and feeling great mentally and physically, the under-eye bags were still the one thing that bothered me every time I looked in the mirror. I eventually decided to move forward with a lower blepharoplasty, and it was honestly one of the best decisions I've made for myself. /  / Skincare helped with overall skin quality, but surgery was the only thing that truly addressed the fat pads. No regrets at all."
 
 **Under-eye care in general**: YouTube bQuVtFwFOA0 (Dr. Sam Ellis "This is What Will Get Rid Your Your Eye Bags", 496,518 views)
 
-- **#220** · @bethunfiltered · ~2026-01-31 · 217 likes · — · [Puffiness and bags, What they tried before, It did nothing / disappointed, "Only a procedure fixes it"]  
+- **#220** · @bethunfiltered · ~2026-01-31 · 217 likes · — · [puffiness/bags, tried before, no change, procedure]  
   "Yes, please, to the lower blepharoplasty video. Now that I understand what my issue truly is, it's no wonder nothing ever worked. The before-and-after photos make me want to run to a surgeon, and I'd like to be more informed by you before that happens. Thank you, Dr. Sam!"
 
 **Upper and lower blepharoplasty**: YouTube bQuVtFwFOA0 (Dr. Sam Ellis "This is What Will Get Rid Your Your Eye Bags", 496,518 views)
 
-- **#221** · @MF-se1zl · ~2026-01-31 · 58 likes · 63 · [Puffiness and bags, "Only a procedure fixes it", Before-and-after stories, How long results took, Price and value]  
+- **#221** · @MF-se1zl · ~2026-01-31 · 58 likes · 63 · [puffiness/bags, procedure, story, timing, price]  
   "I had both upper and lower blefaroplasty done and it was the best thing ever.  I'm 63 and in good health and active.  I had big fat herniation and sagging skin In both lids. My recovery from 3 hour surgery  took two weeks and the results were amazing . I had it done in Spain where I live . ... The cost was 5000 EU for EVERITHING."
 
 **Under-eye care in general**: YouTube bQuVtFwFOA0 (Dr. Sam Ellis "This is What Will Get Rid Your Your Eye Bags", 496,518 views)
 
-- **#222** · @PegLegAsus-n1k · ~2026-01-31 · 118 likes · — · ["Only a procedure fixes it", Questions people ask, Price and value]  
+- **#222** · @PegLegAsus-n1k · ~2026-01-31 · 118 likes · — · [procedure, question, price]  
   "Lower eye bag surgery information would be great. Plus typical costs, down time, success rates, how often possibly needed, etc."
-- **#223** · @AG-jp5yx · ~2026-01-31 · 88 likes · over 40 · [Dark circles, Under concealer and makeup, Price and value, Questions people ask]  
+- **#223** · @AG-jp5yx · ~2026-01-31 · 88 likes · over 40 · [dark circles, concealer, price, question]  
   "Yes pleaae dark circles video really needed thank you at home remedies or affordable creams also best concealers for women over 40"
 
 **Colour-correcting makeup**: YouTube bQuVtFwFOA0 (Dr. Sam Ellis "This is What Will Get Rid Your Your Eye Bags", 496,518 views)
 
-- **#224** · @katiemarreel · ~2026-01-31 · 16 likes · fair skin · [Dark circles, Under concealer and makeup, What they tried before]  
+- **#224** · @katiemarreel · ~2026-01-31 · 16 likes · fair skin · [dark circles, concealer, tried before]  
   "More on Dark circles, please! I'm hollow and dark under my eyes with fair skin. So far, color correction makeup is my most effective tool. I'd love to get rid of the look without so much makeup."
-- **#225** · @CourageFreedom-yo3ul · ~2026-03-03 · 8 likes · — · [Side effects]  
+- **#225** · @CourageFreedom-yo3ul · ~2026-03-03 · 8 likes · — · [side effects]  
   "Retinol under eyes? That can lead one straight to eye problems. My ophthalmologist said NEVER bring retinol face creams up under your eyes. ..."
-- **#226** · @bigblue7091 · ~2026-03-03 · 12 likes · — · [Puffiness and bags, It worked / the problem got better, How long results took, How to use it / ease of use]  
+- **#226** · @bigblue7091 · ~2026-03-03 · 12 likes · — · [puffiness/bags, worked, timing, how to use]  
   "... Buy a Small Gel pack , keep in freezer,  not fridge 😮place on each eye bag 💼 area for 1 min- ish / 3 :4 times a Day for weeks ... you'll see them Diminish in the first week ..."
-- **#227** · @TryMyMartini · ~2026-03-31 · 4 likes · 47 · [Dark circles, Crepey skin, fine lines, wrinkles, It worked / the problem got better, How long results took, Before-and-after stories]  
+- **#227** · @TryMyMartini · ~2026-03-31 · 4 likes · 47 · [dark circles, crepey/lines, worked, timing, story]  
   "I am 47 with some volume loss and thinning skin under the eyes. It was definitely causing dark circles and creppy skin.  The absolute game changer for me it was definitely using my tretinoin up under my eyes. I haven't had any problem with dry eyes or sensitivity, so luckily I tolerate it very well. I've been using it for about 16 months now, and the area just keeps improving! If I had known it would make this much of a difference, I would've started years ago!"
-- **#228** · @marialva9053 · ~2026-01-31 · 11 likes · approaching 60 · [Puffiness and bags, Price and value, "Only a procedure fixes it", How to use it / ease of use]  
+- **#228** · @marialva9053 · ~2026-01-31 · 11 likes · approaching 60 · [puffiness/bags, price, procedure, how to use]  
   "... I have the hollow type of "bag". It is partly due to bone structure, I think, but as I approach 60, its become more pronounced. Unfortunately, I cannot afford a procedure but I do apply all skin care to my under-eye area, including my retinal."
-- **#229** · @ehsanr2026 · ~2026-03-03 · 13 likes · — · [Puffiness and bags, How to use it / ease of use]  
+- **#229** · @ehsanr2026 · ~2026-03-03 · 13 likes · — · [puffiness/bags, how to use]  
   "It would be good to also add rapid blinking. ... eye rolls are very good ... And when combined with cooling compresses, the results will be even more noticeable. A serum with vitamin C or niacinamide will moisturize and brighten the skin around the eyes. ..."
 
 **Under-eye care in general**: YouTube iwyLM5aJ7mE (Doctorly "How Treat Under Eye Bags Like A Dermatologist", 2,249,600 views)
 
-- **#230** · @kelliesposito2171 · date not recorded in pull · 1.1K likes · — · [Puffiness and bags, "Only a procedure fixes it"]  
+- **#230** · @kelliesposito2171 · date not recorded in pull · 1.1K likes · — · [puffiness/bags, procedure]  
   "I've had eye bags since I was in grade school. I think I'd have to have them cut out."
 
 **Caffeine cream AM + retinol cream PM, kept off the waterline**: YouTube iwyLM5aJ7mE (Doctorly "How Treat Under Eye Bags Like A Dermatologist", 2,249,600 views)
 
-- **#231** · @anarey-oktay2683 · date not recorded in pull · 662 likes · — · [Puffiness and bags, Side effects, How to use it / ease of use, It worked / the problem got better]  
+- **#231** · @anarey-oktay2683 · date not recorded in pull · 662 likes · — · [puffiness/bags, side effects, how to use, worked]  
   "...What's helped is caffeine cream in the morning, and retinol cream at night. What helps me is to not let ANY product touch the water line of my eyes... My eyes used to water all day long before I started doing that..."
 
 **Under-eye care in general**: YouTube iwyLM5aJ7mE (Doctorly "How Treat Under Eye Bags Like A Dermatologist", 2,249,600 views)
 
-- **#232** · @JayTeeAyy · date not recorded in pull · 375 likes · — · [Puffiness and bags, What they tried before]  
+- **#232** · @JayTeeAyy · date not recorded in pull · 375 likes · — · [puffiness/bags, tried before]  
   "I'm to the point where pulling them back with clothes pins is the only option"
-- **#233** · @sebumpostmortem · date not recorded in pull · 306 likes · — · [Puffiness and bags, Distrust of ads, claims and hype]  
+- **#233** · @sebumpostmortem · date not recorded in pull · 306 likes · — · [puffiness/bags, ad distrust]  
   "Step 1: Ask to your derm wich kind of eyebags you have... Step 2: Be realistic."
-- **#234** · @jps0369 · date not recorded in pull · 59 likes · — · [Puffiness and bags, It did nothing / disappointed]  
+- **#234** · @jps0369 · date not recorded in pull · 59 likes · — · [puffiness/bags, no change]  
   "You can't treat eyebags with cream and stuff, as you get older."
 
 **Retinol (dry-eye warning)**: YouTube iwyLM5aJ7mE (Doctorly "How Treat Under Eye Bags Like A Dermatologist", 2,249,600 views)
 
-- **#235** · @j.a.1239 · date not recorded in pull · likes not recorded · — · [Side effects]  
+- **#235** · @j.a.1239 · date not recorded in pull · likes not recorded · — · [side effects]  
   "THANK YOU for mentioning how retinol may cause dry eye."
 
 **Under-eye care in general**: YouTube iwyLM5aJ7mE (Doctorly "How Treat Under Eye Bags Like A Dermatologist", 2,249,600 views)
 
-- **#236** · @Knk.07 · date not recorded in pull · 175 likes · — · [Crepey skin, fine lines, wrinkles, Questions people ask]  
+- **#236** · @Knk.07 · date not recorded in pull · 175 likes · — · [crepey/lines, question]  
   "Please make a video on wrinkles around eyes and sagging eyelids."
-- **#237** · @Neenerella333 · date not recorded in pull · 85 likes · — · [Puffiness and bags]  
+- **#237** · @Neenerella333 · date not recorded in pull · 85 likes · — · [puffiness/bags]  
   "Had them since 2nd grade. They are a genetic feature of many mediterranean people."
 
 **Anti-ageing ads in general**: YouTube hAc7jewvVWE (Laura Fagelman, mature-skin creator, "I Can't Take The Lies Anymore!", 96,022 views)
 
-- **#238** · @lou4445c · date not recorded in pull · 601 likes · 64 · [Distrust of ads, claims and hype]  
+- **#238** · @lou4445c · date not recorded in pull · 601 likes · 64 · [ad distrust]  
   "I'm 64, and it drives me nuts when the advertisements show some youngster talking about lines and wrinkles..."
-- **#239** · @isabelledupond1660 · date not recorded in pull · 485 likes · — · [Distrust of ads, claims and hype]  
+- **#239** · @isabelledupond1660 · date not recorded in pull · 485 likes · — · [ad distrust]  
   "Misleading advertizing should be a crime punished by law"
-- **#240** · @K9que · date not recorded in pull · 257 likes · 62 · [Distrust of ads, claims and hype, It did nothing / disappointed]  
+- **#240** · @K9que · date not recorded in pull · 257 likes · 62 · [ad distrust, no change]  
   "The only beauty tips I take are from Women of my own age, 62, no amount of collagen creams or fancy serums are going to make my skin bounce back to the skin of a 20 year old."
-- **#241** · @RoseannaSassoSchottenfeld · date not recorded in pull · 214 likes · — · [Distrust of ads, claims and hype]  
+- **#241** · @RoseannaSassoSchottenfeld · date not recorded in pull · 214 likes · — · [ad distrust]  
   "I am NOT a fan of AI at all. I think it's so deceptive."
-- **#242** · @Saintly2 · date not recorded in pull · 126 likes · — · [Distrust of ads, claims and hype]  
+- **#242** · @Saintly2 · date not recorded in pull · 126 likes · — · [ad distrust]  
   "So ridiculous watching kids promoting stuff for women our age."
-- **#243** · @ahalma3720 · date not recorded in pull · 145 likes · — · [Distrust of ads, claims and hype]  
+- **#243** · @ahalma3720 · date not recorded in pull · 145 likes · — · [ad distrust]  
   "Any time there is a very young person showing something for mature skin, I block not even watching."
-- **#244** · @debm8470 · date not recorded in pull · 96 likes · — · [Distrust of ads, claims and hype]  
+- **#244** · @debm8470 · date not recorded in pull · 96 likes · — · [ad distrust]  
   "...Everything from AI puppies, to magic glasses, to botox in a stick. All lies."
-- **#245** · @maureenbrophy7852 · date not recorded in pull · 70 likes · — · [Distrust of ads, claims and hype, It did nothing / disappointed, Dryness and hydration]  
+- **#245** · @maureenbrophy7852 · date not recorded in pull · 70 likes · — · [ad distrust, no change, hydration]  
   "If creams & serums make us younger, there would be no plastic surgery. Moisturiser nice & feel good factor. Full stop"
-- **#246** · @meritaholmes5085 · date not recorded in pull · 94 likes · — · [Distrust of ads, claims and hype, Price and value, It did nothing / disappointed]  
+- **#246** · @meritaholmes5085 · date not recorded in pull · 94 likes · — · [ad distrust, price, no change]  
   "I'm tired of all the lies too and I'm tired of the prices and it doesn't do anything"
-- **#247** · @Phyllida-r7n · date not recorded in pull · 26 likes · — · [Distrust of ads, claims and hype, How long results took]  
+- **#247** · @Phyllida-r7n · date not recorded in pull · 26 likes · — · [ad distrust, timing]  
   "Remember any "difference" will last a few minutes……."
 
 **Under-eye care in general**: YouTube hAc7jewvVWE (Laura Fagelman, mature-skin creator, "I Can't Take The Lies Anymore!", 96,022 views)
 
-- **#248** · @blinkypushbuttons · date not recorded in pull · 36 likes · — · [Distrust of ads, claims and hype]  
+- **#248** · @blinkypushbuttons · date not recorded in pull · 36 likes · — · [ad distrust]  
   "Why are we not allowed to look our age but look good?..."
 
 **Perimenopause/menopause skin change**: YouTube kih_Rb5JQYs (Dr. Jenny Liu)
 
-- **#249** · @FawnKeosy · date not recorded in pull · likes not recorded · perimenopause, post-menopause · [Before-and-after stories]  
+- **#249** · @FawnKeosy · date not recorded in pull · likes not recorded · perimenopause, post-menopause · [story]  
   "...my skin facial skin has changed due to hormonal changes because of perimenopause and now post menopause..."
 
 **Under-eye concealers (request)**: YouTube wgWdHoI9leI (CYoung)
 
-- **#250** · @sonrise-c5n · date not recorded in pull · likes not recorded · — · [Under concealer and makeup, Questions people ask]  
+- **#250** · @sonrise-c5n · date not recorded in pull · likes not recorded · — · [concealer, question]  
   "Would love if you did a video on undereye concealers!"
 
 **Ferritin (iron) and dark circles**: YouTube 3xvUx4vnJC4 (BoJ Short)
 
-- **#251** · @AHappyBunny · ~2026-10-01 · 1 likes · — · [Dark circles]  
+- **#251** · @AHappyBunny · ~2026-10-01 · 1 likes · — · [dark circles]  
   "Check your ferritin levels - can cause dark under eyes"
 
 **Under-eye care in general**: YouTube h8ln13JgSCs (Stephanie Marie)
 
-- **#252** · @lilaht5287 · ~2024-10-31 · 1 likes · 35 · [Crepey skin, fine lines, wrinkles]  
+- **#252** · @lilaht5287 · ~2024-10-31 · 1 likes · 35 · [crepey/lines]  
   "I like your video a lot. I'm only 35 but I have the undereyes of a 45 year old 🙁"
-- **#253** · @IrisK975 · ~2020-10-31 · 3 likes · — · [How to use it / ease of use, What they tried before]  
+- **#253** · @IrisK975 · ~2020-10-31 · 3 likes · — · [how to use, tried before]  
   "Thanks for this video. I tend to be very lazy about eye cream. I just usually use whatever I'm putting on my face."
 
 ---

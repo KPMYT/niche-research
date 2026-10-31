@@ -783,7 +783,7 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 - **What it is.** Tight, flaky or papery skin with very fine lines that fade when the skin is moisturised.
 - **Why it happens [M].** Few oil glands; less water-holding after menopause (Dr Dray); harsh cleansers; dry air [R].
 - **How it feels [M].** "Super dry skin, regardless of trying to consistently hydrate" (@Luvbug64, eA9YIs-49sc, from `05`).
-- **What can fix it [M].** Occlusive protectants. Dr Dray: "Pet petroleum jelly does not cause milia", and a glycerin skin protectant at night has been "an absolute gamechanger... for keeping eyelid skin hydrated" (si9l1VZtzvQ). Kim Sullins: "you have got to hydrate your under eyes. It's one of the most important things you can do for yourself." (eA9YIs-49sc).
+- **What can fix it [M].** Occlusive protectants. Dr Dray: "petroleum jelly does not cause milia", and a glycerin skin protectant at night has been "an absolute gamechanger... for keeping eyelid skin hydrated" (si9l1VZtzvQ). Kim Sullins: "you have got to hydrate your under eyes. It's one of the most important things you can do for yourself." (eA9YIs-49sc).
 - **This balm [R].** **Good.** This is what a wax-and-oil stick does best.
 
 ### 6.11 Concealer creasing and caking
@@ -885,7 +885,7 @@ Prices were pulled 2026-10-31 (sources: earlier report §5 and the pages named).
 | **d'Alba Double Serum All In One Multi Balm Stick** | Korean stick | $21 / 10 g, dalba.com | Has a "signature aromatic floral citrus fragrance" [M, dalba.com]. Not for fragrance-sensitive eyes. |
 | **Plain petrolatum (Vaseline, Aquaphor)** | Pure occlusive | Not priced in this pull (drugstore staple) | Does the main job of a balm (sealing in water) for very little money. Dr Dray: "petroleum jelly does not cause milia" [M]. No actives. |
 | **Glycerin skin protectant gel (La Roche-Posay Cicaplast Gel, Prequel Skin Utility)** | Dermatologist-favoured barrier gel | price not found | Dr Dray's own night eye routine (si9l1VZtzvQ) [M]. |
-| **Fragrance-free face moisturiser (e.g. CeraVe Moisturizing Cream)** | Your normal cream, used round the eyes too | price not found | Dr Dray: "you don't need a dedicated moisturizing eye cream" (a2Hot5ZsYU8) [M]. |
+| **Fragrance-free face moisturiser (e.g. CeraVe Moisturizing Cream)** | Your normal cream, used round the eyes too | price not found | Dr Dray: "you do not need a dedicated moisturizing eye cream" (a2Hot5ZsYU8) [M]. |
 | **CeraVe Eye Repair / Skin Renewing Eye Cream** | Drugstore eye cream with niacinamide and caffeine | $19.99 (Eye Repair, cerave.com) | A dermatologist favourite: Dr Dray found it gave "a nice brightening, hydrated, smoother appearance" (si9l1VZtzvQ) [M]. Has caffeine for puffiness. |
 | **The Ordinary Caffeine Solution 5% + EGCG** | Caffeine serum | about $9–11 / 30 mL | Cheapest de-puffer. Works only for some people. |
 | **Retinoid eye creams** (RoC Retinol Correxion eye; Neutrogena Rapid Wrinkle Repair eye; Beauty of Joseon Revive Eye Serum with retinal; Olay Retinol 24 eye) | Vitamin A creams for the eye area | RoC $21.99 / 15 mL; BoJ $17 / 30 mL; Olay $22 / 15 mL; Neutrogena price not found | The best-proven creams for lines and crepiness. Can sting; caution with dry eye. Luxe is the gentler, weaker option. |
