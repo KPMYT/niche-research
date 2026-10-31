@@ -24,14 +24,14 @@ I collected **253 reviews and comments**, word for word: 28 about the Luxe balm 
 2. **The same formula sold elsewhere: not found.** No full ingredient list is published, so no twin product can be matched. [M]
 3. **Rival balm sticks (Medicube, Kahi, Dr.Melaxin, the RoC under-eye stick) get the most useful real reviews** (84 comments). The same story repeats [R]:
    - It **feels nice and moisturises**, and it is handy (in the bag, on the lips, over makeup).
-   - Its clearest everyday win is **as a base under concealer** (concealer: the skin-coloured makeup dabbed under the eyes to hide darkness). 13 stick comments mention makeup or concealer. "This eye balm has been a game changer for 59 year old me to be able to put Concealer on under my eyes without adding creases and wrinkles" (#107).
+   - Its clearest everyday win is **as a base under concealer** (concealer: the skin-coloured makeup dabbed under the eyes to hide darkness). 13 stick comments mention makeup or concealer. "This eye balm has been a game changer for 59 year old me to be able to put Concealer on under my eyes without adding creases and wrinkles" (#104).
    - It **does not shift dark circles or bags** for most people: "I'm not convinced it's helping my dark under eyes - I agree it's a good base for my concealer" (#94). 13 stick comments say no change; 23 say it helped.
    - Many people **don't know how or when to use it** (16 questions: before or after sunscreen? fingers or stick? under the eyes too?).
 4. **Eye creams show what does change the under-eye area, and how slowly.** Quick wins are cold and caffeine for morning puffiness ("Such a big difference within a few minutes!", #120). Slow wins take months: dark circles fading "after about 3 months" (#155) or "in the first six months" (#123), and smoother eyes after years of a retinal (vitamin A) cream (#153). [M quotes, R summary]
-5. **Side effects worry this audience.** 30 comments mention burning, watery eyes, allergy or tiny white bumps (milia). Retinol near the eyes is the usual suspect ("my eyes were getting so dry", #194). Product touching the waterline (the wet inner rim of the eyelid) made one woman's eyes "water all day long" (#230). [M]
+5. **Side effects worry this audience.** 30 comments mention burning, watery eyes, allergy or tiny white bumps (milia). Retinol near the eyes is the usual suspect ("my eyes were getting so dry", #187). Product touching the waterline (the wet inner rim of the eyelid) made one woman's eyes "water all day long" (#231). [M]
 6. **Women over 50 talk about three things above all** [R, from 28 stated 50+ comments and the general threads]:
    - **Bags from fat pads that no cream fixed.** "no amount of topical products made a meaningful difference for the bags themselves ... surgery was the only thing that truly addressed the fat pads" (age 55+, #219). 8 comments say only a procedure works.
-   - **Crepey lower lids and concealer that creases**, fought with sunscreen, sunglasses, a gentle cleanse and a greasy base ("Your Vaseline trick has been the biggest game-changer", #198).
+   - **Crepey lower lids and concealer that creases**, fought with sunscreen, sunglasses, a gentle cleanse and a greasy base ("Your Vaseline trick has been the biggest game-changer", #192).
    - **Anger at ads**: young or AI models selling to older women, and "botox in a stick" claims (45 comments distrust ads or hype; the top one has 1.5K likes).
 7. **Value is judged against Vaseline.** It comes up again and again as the cheap yardstick ("a glorified Vaseline", "I will save $ and stick with Vaseline", "a more solid version of vaseline"). 42 comments talk about price or value. [M count]
 
@@ -158,6 +158,7 @@ For each theme: what it means, how many comments carry it, the clearest quotes (
 By group: Luxe independent 1, Luxe brand site 6, rival sticks 23, eye creams 43, general 11.
 
 - **#4** (Luxe Korean Under Eye Balm): "I tried this. It did take care of the bags and still worked when I woke from my nap"
+- **#104** (RoC under-eye balm stick, 59): "This eye balm has been a game changer for 59 year old me to be able to put Concealer on under my eyes without adding creases and wrinkles"
 - **#115** (The Ordinary Caffeine Solution 5% + EGCG, 64): "I'm on my 2nd bottle of this.  I have found that my eye bags went from luggage to tote bags.  I'm 64 so I'm happy with that."
 - **#123** (The Ordinary Caffeine Solution 5% + EGCG): "I've been using the caffeine serum for three years, and my dark circles have completely disappeared (they did in the first six months). I definitely swear by it. I do need a separate eye cream for hydration, though."
 - **#153** (Beauty of Joseon Revive Eye Serum): "I started using the BoJ retinol eye cream about 5 years ago based on your review. I saw a photo of myself from 8 years ago and my eyes now look 10 years younger than they did. Honestly I was shocked. And delighted 🎉"
@@ -175,10 +176,10 @@ By group: Luxe independent 4, Luxe brand site 0, rival sticks 13, eye creams 9, 
 - **#1** (Luxe Korean Under Eye Balm): "I got mine pretty quickly.  However, I agree…it's another expensive scam.  I did not notice ANY difference after application.  Save your money!"
 - **#11** (Luxe Korean Under Eye Balm): "I recently tried this eye balm it doesn't do anything. It feels like chapstick! Don't waist your money! I wish I found this video before I bought it"
 - **#49** (Medicube PDRN Pink Collagen Volume Multi Balm): "Not a miracle stick. Doesn't do anything"
-- **#94** (RoC under-eye balm stick): "I bought this and I'm not convinced it's helping my dark under eyes - I agree it's a good base for my concealer. $27 I won't be repurchasing"
 - **#146** (Beauty of Joseon Revive Eye Serum): "I bought it and have been using it for over two months but I haven't noticed any difference"
 - **#66** (KAHI Wrinkle Bounce Multi Balm): "It's a waste of money I absolutely have seen no difference I've been using it for well over a month now and it's just an uncomfortable greasy mess and why would anybody want to put salmon collagen on our skin?? I will ..."
-- **#219** (Home remedies, makeup tips and procedures, 55+): "My under-eye fat pads really started to bother me around age 55. I take very good care of my skin (lots of Korean skincare—especially centella-based products), but no amount of topical products made a meaningful ..."
+- **#173** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...), 50): "I am 50 years old and started using eye serums and creams a few years ago. Started with Estée Lauder's eye serum because it was supposed to be the best. I've spent several hundred dollars on everything imaginable, and ..."
+- **#114** (The Ordinary Caffeine Solution 5% + EGCG): ""and this is what it did to my face...". Spoiler: NOTHING AT ALL."
 
 All: #1, #2, #11, #17, #49, #54, #62, #66, #76, #80, #83, #94, #95, #99, #100, #102, #105, #114, #132, #137, #138, #139, #141, #146, #162, #173, #219, #220, #234, #240, #245, #246
 
@@ -188,10 +189,11 @@ By group: Luxe independent 0, Luxe brand site 4, rival sticks 4, eye creams 15, 
 
 - **#27** (Luxe Korean Under Eye Balm, "Carol A, 63"): "Not in a dramatic way. Just learned to glance quickly, fix my hair, move on. My under-eyes were the reason. Dark circles made me look exhausted no matter how much sleep I got. Been using this 25 days now. Yesterday I ..."
 - **#94** (RoC under-eye balm stick): "I bought this and I'm not convinced it's helping my dark under eyes - I agree it's a good base for my concealer. $27 I won't be repurchasing"
-- **#123** (The Ordinary Caffeine Solution 5% + EGCG): "I've been using the caffeine serum for three years, and my dark circles have completely disappeared (they did in the first six months). I definitely swear by it. I do need a separate eye cream for hydration, though."
 - **#155** (Beauty of Joseon Revive Eye Serum): "Beauty of joseon is amazing for dark circles... after about 3 months of continuous use I have seen amazing difference"
+- **#123** (The Ordinary Caffeine Solution 5% + EGCG): "I've been using the caffeine serum for three years, and my dark circles have completely disappeared (they did in the first six months). I definitely swear by it. I do need a separate eye cream for hydration, though."
 - **#162** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...)): "I'm loving the Age Correcting Eye Cream by Hada Labo. It's right around $19 at Target for 0.5 ounces. It's great under makeup, lightweight but super hydrating (it has hyaluranic acid, collagen, and caffeine), and my ..."
-- **#130** (CeraVe eye creams (Eye Repair / Skin Renewing)): "Maybe it's to each their own. Because it did take awhile for it get rid of my dark circles, but it did work for me. I put it on morning and night, and it got rid of my puffiness."
+- **#119** (The Ordinary Caffeine Solution 5% + EGCG): "I got undereye darkness when I worked night shifts in my late 20s - I never used to have them, they were definitely not genetic they were a consequence of 'lifestyle' (that sounds so leisurely - I worked my ass off as ..."
+- **#224** (Home remedies, makeup tips and procedures, fair skin): "More on Dark circles, please! I'm hollow and dark under my eyes with fair skin. So far, color correction makeup is my most effective tool. I'd love to get rid of the look without so much makeup."
 
 All: #23, #24, #27, #28, #50, #80, #94, #101, #113, #119, #121, #122, #123, #124, #125, #128, #130, #144, #145, #155, #156, #162, #173, #195, #209, #212, #215, #223, #224, #227, #251
 
@@ -204,8 +206,9 @@ By group: Luxe independent 1, Luxe brand site 3, rival sticks 2, eye creams 9, g
 - **#115** (The Ordinary Caffeine Solution 5% + EGCG, 64): "I'm on my 2nd bottle of this.  I have found that my eye bags went from luggage to tote bags.  I'm 64 so I'm happy with that."
 - **#120** (The Ordinary Caffeine Solution 5% + EGCG): "This product is a lifesaver for me especially any time I have cried and need to go somewhere or if my eyes are puffy from crying the night before. Such a big difference within a few minutes!"
 - **#219** (Home remedies, makeup tips and procedures, 55+): "My under-eye fat pads really started to bother me around age 55. I take very good care of my skin (lots of Korean skincare—especially centella-based products), but no amount of topical products made a meaningful ..."
-- **#221** (Home remedies, makeup tips and procedures, 63): "I had both upper and lower blefaroplasty done and it was the best thing ever.  I'm 63 and in good health and active.  I had big fat herniation and sagging skin In both lids. My recovery from 3 hour surgery  took two ..."
-- **#230** (Under-eye care in general (no product)): "I've had eye bags since I was in grade school. I think I'd have to have them cut out."
+- **#231** (Home remedies, makeup tips and procedures): "...What's helped is caffeine cream in the morning, and retinol cream at night. What helps me is to not let ANY product touch the water line of my eyes... My eyes used to water all day long before I started doing that..."
+- **#141** (CeraVe eye creams (Eye Repair / Skin Renewing)): "For anyone who wants to know this eye cream does not work on bags or puffiness. Save your money the only way to get rid of bags under the eyes is surgery. Trust me! 😉"
+- **#232** (Under-eye care in general (no product)): "I'm to the point where pulling them back with clothes pins is the only option"
 
 All: #4, #23, #25, #28, #105, #112, #115, #120, #127, #129, #130, #141, #142, #164, #182, #193, #195, #196, #209, #212, #219, #220, #221, #226, #228, #229, #230, #231, #232, #233, #234, #237
 
@@ -214,6 +217,7 @@ All: #4, #23, #25, #28, #105, #112, #115, #120, #127, #129, #130, #141, #142, #1
 By group: Luxe independent 0, Luxe brand site 3, rival sticks 5, eye creams 7, general 13.
 
 - **#25** (Luxe Korean Under Eye Balm, "Susan L, 47"): "I've made peace with most of aging. But my under-eyes — the crepey texture, the bags, the way concealer just cakes into the lines — couldn't accept that part. This didn't make me look 30 again. But three weeks in my ..."
+- **#104** (RoC under-eye balm stick, 59): "This eye balm has been a game changer for 59 year old me to be able to put Concealer on under my eyes without adding creases and wrinkles"
 - **#153** (Beauty of Joseon Revive Eye Serum): "I started using the BoJ retinol eye cream about 5 years ago based on your review. I saw a photo of myself from 8 years ago and my eyes now look 10 years younger than they did. Honestly I was shocked. And delighted 🎉"
 - **#178** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...)): "I have been using eye creams for years ,what I have found is they hydrate the skin around the eyes and smooth any fine lines,  but do not stop skin ageing."
 - **#205** (Home remedies, makeup tips and procedures, 58): "Started SPF 50 under my eyes from about age 38 and now at age 58 have hardly any under eye lines. Also always wear sunglasses outside and while driving.😎"
@@ -229,8 +233,10 @@ By group: Luxe independent 0, Luxe brand site 2, rival sticks 13, eye creams 8, 
 - **#26** (Luxe Korean Under Eye Balm, "Linda R., 51"): "Every single morning. Put on concealer. Look in mirror. Watch it crease. Add more. Crease again. A daily cycle of trying to hide something that refused to be hidden. Two weeks into using this I skipped concealer one ..."
 - **#94** (RoC under-eye balm stick): "I bought this and I'm not convinced it's helping my dark under eyes - I agree it's a good base for my concealer. $27 I won't be repurchasing"
 - **#96** (RoC under-eye balm stick): "I have this product and it is by no means a miracle worker but makeup does look better under the eyes. It feels nice too!"
-- **#214** (Under-eye care in general (no product)): "I love all your tutorials but this one hit it out of the park! It's so nice to see makeup application on “real” skin. Would love to see full tutorials on gorgeous Daphne or anyone that has real life skin - lines, ..."
-- **#101** (RoC under-eye balm stick): "I love this product. I put it on, followed by an eye brightening cream, all sealed in with Vaseline. Just within a few,dats my undereyes look tons better. They're less dark and not dry anymore. Plus, my concealer goes ..."
+- **#104** (RoC under-eye balm stick, 59): "This eye balm has been a game changer for 59 year old me to be able to put Concealer on under my eyes without adding creases and wrinkles"
+- **#192** (Home remedies, makeup tips and procedures): "Your Vaseline trick has been the biggest game-changer for improving my under eye makeup!   Thanks so much!!!❤❤"
+- **#216** (Home remedies, makeup tips and procedures): "One thing I have found that works, for me anyway, is that I spray setting spray on a small sponge and pat into the under eye, then apply a light dusting of setting powder over that. It seems so backwards, but it ..."
+- **#38** (Medicube PDRN Pink Collagen Volume Multi Balm): "Why would you show us the results AFTER you applied make up… if it worked, you would just show us before make up. 🙄"
 
 All: #25, #26, #34, #38, #65, #70, #94, #96, #101, #103, #104, #106, #108, #109, #111, #128, #135, #162, #164, #167, #173, #174, #186, #190, #192, #194, #195, #214, #215, #216, #223, #224, #250
 
@@ -245,8 +251,7 @@ By group: Luxe independent 0, Luxe brand site 6, rival sticks 13, eye creams 22,
 - **#120** (The Ordinary Caffeine Solution 5% + EGCG): "This product is a lifesaver for me especially any time I have cried and need to go somewhere or if my eyes are puffy from crying the night before. Such a big difference within a few minutes!"
 - **#155** (Beauty of Joseon Revive Eye Serum): "Beauty of joseon is amazing for dark circles... after about 3 months of continuous use I have seen amazing difference"
 - **#123** (The Ordinary Caffeine Solution 5% + EGCG): "I've been using the caffeine serum for three years, and my dark circles have completely disappeared (they did in the first six months). I definitely swear by it. I do need a separate eye cream for hydration, though."
-- **#153** (Beauty of Joseon Revive Eye Serum): "I started using the BoJ retinol eye cream about 5 years ago based on your review. I saw a photo of myself from 8 years ago and my eyes now look 10 years younger than they did. Honestly I was shocked. And delighted 🎉"
-- **#205** (Home remedies, makeup tips and procedures, 58): "Started SPF 50 under my eyes from about age 38 and now at age 58 have hardly any under eye lines. Also always wear sunglasses outside and while driving.😎"
+- **#133** (CeraVe eye creams (Eye Repair / Skin Renewing)): "The thing is your meant to use it for at LEAST a month. Using it for a week isn't gonna give you the results you want"
 - **#227** (Home remedies, makeup tips and procedures, 47): "I am 47 with some volume loss and thinning skin under the eyes. It was definitely causing dark circles and creppy skin.  The absolute game changer for me it was definitely using my tretinoin up under my eyes. I haven't ..."
 - **#247** (Home remedies, makeup tips and procedures): "Remember any "difference" will last a few minutes……."
 
@@ -261,6 +266,7 @@ By group: Luxe independent 4, Luxe brand site 1, rival sticks 11, eye creams 11,
 - **#12** (Luxe Korean Under Eye Balm): "I bought this and realized once I received the products, the packaging was obviously a fake. It doesn't show any ingredients, where it was made, the back of the stick is totally blank, it doesn't even say how much of ..."
 - **#66** (KAHI Wrinkle Bounce Multi Balm): "It's a waste of money I absolutely have seen no difference I've been using it for well over a month now and it's just an uncomfortable greasy mess and why would anybody want to put salmon collagen on our skin?? I will ..."
 - **#96** (RoC under-eye balm stick): "I have this product and it is by no means a miracle worker but makeup does look better under the eyes. It feels nice too!"
+- **#76** (Other / general multi-balm sticks): "Milk makeup and skincare uses the stick balms as well. I've used a few samples of them (specifically the eye balm stick) and they were definitely not my cup of tea 😂 I found the balms a bit hard and didn't really get ..."
 - **#167** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...)): "... I'm a huge fan of Lancôme's Visionnaire Eye Cream Advanced Multi-Correcting Eye Balm -- purely for hydration. Silky is the best word I can use to describe this eye cream. I love that it comes in a pump instead of a ..."
 
 All: #2, #11, #12, #16, #24, #47, #62, #63, #66, #69, #73, #76, #78, #96, #99, #105, #116, #143, #144, #162, #167, #170, #172, #175, #176, #177, #189
@@ -270,8 +276,11 @@ All: #2, #11, #12, #16, #24, #47, #62, #63, #66, #69, #73, #76, #78, #96, #99, #
 By group: Luxe independent 1, Luxe brand site 0, rival sticks 12, eye creams 15, general 3.
 
 - **#12** (Luxe Korean Under Eye Balm): "I bought this and realized once I received the products, the packaging was obviously a fake. It doesn't show any ingredients, where it was made, the back of the stick is totally blank, it doesn't even say how much of ..."
-- **#79** (KAHI Wrinkle Bounce Multi Balm, dry skin): "I love these sticks for when I'm at work! I have really dry skin around my mouth. and these save me!"
+- **#81** (Dr.Melaxin Cemenrete Calcium Multi Balm / Dr.Melaxin): "i love the collagen stick. its nice and as under eyes its hydrating.    its affordability..  i mean we would all like botox in a bottle but even if it was a thing.. most cant afford it.  i cant see paying over 50 in ..."
+- **#84** (Dr.Melaxin Cemenrete Calcium Multi Balm / Dr.Melaxin): "I tried the balm at night and woke up with very moisturized skin and at least the appearance of less wrinkles."
+- **#95** (RoC under-eye balm stick): "It didn't work for me.  It's not that moisturizing.  ❤❤"
 - **#177** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...), oily face, dry under-eyes): "Regarding not needing an eye cream.  Perhaps. But I have noticed that when I use a good eye cream, I absolutely see a softening of the crow's feet around my eyes, I know it's not getting rid of them, but there is way ..."
+- **#180** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...), oily face, very dry under-eyes): "I know I don't need an eye cream, but I love them.  My face is oily and my under eyes are very dry.  I honestly can't use the same cream all over ❤"
 
 All: #12, #31, #65, #72, #74, #77, #79, #81, #84, #85, #95, #101, #106, #123, #136, #142, #144, #160, #162, #167, #170, #172, #174, #176, #177, #178, #180, #186, #192, #207, #245
 
@@ -279,9 +288,13 @@ All: #12, #31, #65, #72, #74, #77, #79, #81, #84, #85, #95, #101, #106, #123, #1
 
 By group: Luxe independent 0, Luxe brand site 0, rival sticks 22, eye creams 19, general 15.
 
+- **#34** (Medicube PDRN Pink Collagen Volume Multi Balm): "At what part do we apply this pre make up? I have the spf dew moisturiser and I've no idea when to apply?"
+- **#36** (Medicube PDRN Pink Collagen Volume Multi Balm): "Do you wear it under sunscreen due to the retinol?"
 - **#33** (Medicube PDRN Pink Collagen Volume Multi Balm): "I hear you should not use your fingers it made a girls finger have more fat padding."
-- **#109** (RoC under-eye balm stick): "I use it for concealer  application.."
-- **#79** (KAHI Wrinkle Bounce Multi Balm, dry skin): "I love these sticks for when I'm at work! I have really dry skin around my mouth. and these save me!"
+- **#87** (Dr.Melaxin Cemenrete Calcium Multi Balm / Dr.Melaxin): "I just received the kit. There is no instructions on how to best use the product. Use all of them at once? Use morning? Use night? How do I know which product does what? Ughhh - I'm frustrated!"
+- **#143** (CeraVe eye creams (Eye Repair / Skin Renewing), eyelid eczema): "A few years ago eyelid eczema hit me hard. Eyelids would break open and bleed, swell up super red and scaly. I used Avene Soothing eye cream which would absorb immediately, then I would follow with Cerave Skin Renewing ..."
+- **#231** (Home remedies, makeup tips and procedures): "...What's helped is caffeine cream in the morning, and retinol cream at night. What helps me is to not let ANY product touch the water line of my eyes... My eyes used to water all day long before I started doing that..."
+- **#78** (KAHI Wrinkle Bounce Multi Balm, dry skin): "... These products look to me like they'd be convenient for travel for those of us with dry skin, or maybe for others in the winter. The waxes that hold the products together may be problematic for those with oily skin, ..."
 
 All: #31, #33, #34, #36, #40, #45, #52, #63, #65, #70, #71, #74, #77, #78, #79, #84, #85, #87, #101, #106, #108, #109, #117, #122, #127, #130, #143, #145, #150, #151, #154, #166, #167, #169, #171, #176, #181, #182, #186, #187, #188, #197, #198, #201, #202, #205, #207, #209, #210, #216, #217, #226, #228, #229, #231, #253
 
@@ -290,7 +303,14 @@ All: #31, #33, #34, #36, #40, #45, #52, #63, #65, #70, #71, #74, #77, #78, #79, 
 By group: Luxe independent 0, Luxe brand site 0, rival sticks 6, eye creams 17, general 7.
 
 - **#35** (Medicube PDRN Pink Collagen Volume Multi Balm): "Did it burn anyone else's face"
+- **#134** (CeraVe eye creams (Eye Repair / Skin Renewing), allergic to almond): "Also includes sweet almond oil. I didn't know and am allergic. It really hurt, itched, & irritated the skin around my eyes."
 - **#147** (Beauty of Joseon Revive Eye Serum): "Does it cause a burning sensation? Because after I apply it, I feel a slight burning but goes away after 2/3 mnt..Plzz reply."
+- **#160** (Kiehl's Creamy Eye Treatment with Avocado): "Kiehl's eyes cream and It confidence are super hydrating but my eyes get watery."
+- **#187** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...)): "A few things you said were so validating for me. I used to use a retinol undereye cream, and I felt I was going crazy because my eyes were getting so dry.  So I'm glad you mentioned that. ... I use cera ve facial ..."
+- **#231** (Home remedies, makeup tips and procedures): "...What's helped is caffeine cream in the morning, and retinol cream at night. What helps me is to not let ANY product touch the water line of my eyes... My eyes used to water all day long before I started doing that..."
+- **#143** (CeraVe eye creams (Eye Repair / Skin Renewing), eyelid eczema): "A few years ago eyelid eczema hit me hard. Eyelids would break open and bleed, swell up super red and scaly. I used Avene Soothing eye cream which would absorb immediately, then I would follow with Cerave Skin Renewing ..."
+- **#200** (Under-eye care in general (no product), milia-prone): "Could you please create a video on what to use for the upper eyelid skin? and options for those who are milia prone"
+- **#225** (Home remedies, makeup tips and procedures): "Retinol under eyes? That can lead one straight to eye problems. My ophthalmologist said NEVER bring retinol face creams up under your eyes. ..."
 
 All: #35, #36, #57, #59, #72, #78, #134, #142, #143, #147, #152, #154, #157, #160, #168, #170, #171, #172, #174, #175, #179, #187, #188, #198, #200, #202, #206, #225, #231, #235
 
@@ -299,9 +319,12 @@ All: #35, #36, #57, #59, #72, #78, #134, #142, #143, #147, #152, #154, #157, #16
 By group: Luxe independent 6, Luxe brand site 1, rival sticks 15, eye creams 12, general 8.
 
 - **#5** (Luxe Korean Under Eye Balm, 45): "Oh no I just paid $38 for this product and I just received it today! I'm 45 yrs old my skin isn't that bad I'm using it as a preventative measure but now I feel like I wasted my $ I'm asking for a refund! ..."
-- **#99** (RoC under-eye balm stick): "I liked the feel of it, but it's not good enough to warrant the high cost."
-- **#110** (RoC under-eye balm stick): "I wanted to try but saw the price 30 bucks 😅 for” drugstore “"
-- **#183** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...), 52): "I've been using The Inkey List products that are very affordable and I have been noticing amazing improvments in my 52 year old skin! Very affordable products."
+- **#1** (Luxe Korean Under Eye Balm): "I got mine pretty quickly.  However, I agree…it's another expensive scam.  I did not notice ANY difference after application.  Save your money!"
+- **#81** (Dr.Melaxin Cemenrete Calcium Multi Balm / Dr.Melaxin): "i love the collagen stick. its nice and as under eyes its hydrating.    its affordability..  i mean we would all like botox in a bottle but even if it was a thing.. most cant afford it.  i cant see paying over 50 in ..."
+- **#98** (RoC under-eye balm stick): "Thank you.  I will save $ and stick with Vaseline ❤"
+- **#94** (RoC under-eye balm stick): "I bought this and I'm not convinced it's helping my dark under eyes - I agree it's a good base for my concealer. $27 I won't be repurchasing"
+- **#107** (RoC under-eye balm stick): "I bought it. It's used up too quickly-not a repeat purchase."
+- **#169** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...)): "I don't use a separate eye cream anymore. I just bring my moisturizer all the way up to my eye area.  As per my dermatologist they're pretty much the same product as your moisturizer in a tiny jar at double the price!!"
 
 All: #1, #5, #7, #11, #12, #13, #27, #62, #64, #66, #69, #80, #81, #86, #94, #98, #99, #103, #106, #107, #110, #111, #117, #141, #144, #158, #162, #165, #166, #167, #169, #173, #182, #183, #191, #210, #218, #221, #222, #223, #228, #246
 
@@ -310,9 +333,11 @@ All: #1, #5, #7, #11, #12, #13, #27, #62, #64, #66, #69, #80, #81, #86, #94, #98
 By group: Luxe independent 10, Luxe brand site 0, rival sticks 20, eye creams 2, general 13.
 
 - **#89** (Dr.Melaxin Cemenrete Calcium Multi Balm / Dr.Melaxin): "do not trust any brand that uses AI adverts. 100% always a scam if they cant even show you a legit video of their product..."
+- **#238** (Home remedies, makeup tips and procedures, 64): "I'm 64, and it drives me nuts when the advertisements show some youngster talking about lines and wrinkles..."
 - **#240** (Home remedies, makeup tips and procedures, 62): "The only beauty tips I take are from Women of my own age, 62, no amount of collagen creams or fancy serums are going to make my skin bounce back to the skin of a 20 year old."
-- **#243** (Home remedies, makeup tips and procedures): "Any time there is a very young person showing something for mature skin, I block not even watching."
-- **#10** (Luxe Korean Under Eye Balm): "The Korean stuff is all the sudden everywhere! Its an automatic red flag.  But yes! Thank you for the truth!"
+- **#244** (Home remedies, makeup tips and procedures): "...Everything from AI puppies, to magic glasses, to botox in a stick. All lies."
+- **#9** (Luxe Korean Under Eye Balm): "Nearly bought this. Thanks for the heads up 👍"
+- **#83** (Dr.Melaxin Cemenrete Calcium Multi Balm / Dr.Melaxin): "Of course, I would find this video after my purchase. At least nothing negative is going to happen and my skin will look brighter, radiant and healthier. I was banking on the “better than Botox” claim, so I can't help ..."
 - **#38** (Medicube PDRN Pink Collagen Volume Multi Balm): "Why would you show us the results AFTER you applied make up… if it worked, you would just show us before make up. 🙄"
 
 All: #3, #6, #7, #8, #9, #10, #13, #14, #18, #19, #38, #43, #51, #55, #58, #59, #67, #68, #71, #75, #82, #83, #86, #88, #89, #90, #91, #92, #93, #97, #131, #149, #214, #233, #238, #239, #240, #241, #242, #243, #244, #245, #246, #247, #248
@@ -334,8 +359,10 @@ All: #2, #5, #8, #12, #15, #16, #17, #21, #44
 By group: Luxe independent 1, Luxe brand site 2, rival sticks 7, eye creams 9, general 7.
 
 - **#24** (Luxe Korean Under Eye Balm, "Diane K., 52"): "La Mer. Estée Lauder. Two brands from Sephora I can't even remember. None did anything except make my under-eyes greasy. This absorbs in seconds and I could feel the difference by end of week one. My fine lines look ..."
-- **#14** (Luxe Korean Under Eye Balm): "Thank you...I was considering buying it. I thought I would look it up first. I have been burned before. So I am more cautious now. Ladies always look up products. If it looks to good to be true, then it probably is."
+- **#173** (Other eye creams (Hada Labo, Tatcha, Medik8, La Roche-Posay, Lancôme...), 50): "I am 50 years old and started using eye serums and creams a few years ago. Started with Estée Lauder's eye serum because it was supposed to be the best. I've spent several hundred dollars on everything imaginable, and ..."
 - **#219** (Home remedies, makeup tips and procedures, 55+): "My under-eye fat pads really started to bother me around age 55. I take very good care of my skin (lots of Korean skincare—especially centella-based products), but no amount of topical products made a meaningful ..."
+- **#14** (Luxe Korean Under Eye Balm): "Thank you...I was considering buying it. I thought I would look it up first. I have been burned before. So I am more cautious now. Ladies always look up products. If it looks to good to be true, then it probably is."
+- **#142** (CeraVe eye creams (Eye Repair / Skin Renewing), breakout-prone): "I have tried 5 or 6 eye treatments. Each of them gave be breakouts under my eye...frustrating. Until I tried CeraVe Skin Renewing Eye Cream. This was the game changer for me. It worked very well for puffiness and ..."
 
 All: #14, #23, #24, #51, #66, #86, #97, #98, #105, #112, #124, #136, #142, #144, #164, #169, #171, #173, #187, #191, #194, #219, #220, #224, #232, #253
 
@@ -343,12 +370,13 @@ All: #14, #23, #24, #51, #66, #86, #97, #98, #105, #112, #124, #136, #142, #144,
 
 By group: Luxe independent 1, Luxe brand site 5, rival sticks 2, eye creams 9, general 7.
 
-- **#2** (Luxe Korean Under Eye Balm): "It's a scam, the product is a glorified Vaseline. Don't waste your money. Ordered early April, after being told it was shipped 17/4 .. no goods shipped and online tracking showed label created but not picked up. Raised ..."
 - **#23** (Luxe Korean Under Eye Balm, "Margaret T., 56"): "I'm 56. I sleep fine, drink water, do everything right. But my eyes never got the memo. Puffy, dark, swollen every morning. Started using this two weeks ago. Day 4 my husband asked what I was doing differently. By day ..."
 - **#115** (The Ordinary Caffeine Solution 5% + EGCG, 64): "I'm on my 2nd bottle of this.  I have found that my eye bags went from luggage to tote bags.  I'm 64 so I'm happy with that."
+- **#119** (The Ordinary Caffeine Solution 5% + EGCG): "I got undereye darkness when I worked night shifts in my late 20s - I never used to have them, they were definitely not genetic they were a consequence of 'lifestyle' (that sounds so leisurely - I worked my ass off as ..."
 - **#219** (Home remedies, makeup tips and procedures, 55+): "My under-eye fat pads really started to bother me around age 55. I take very good care of my skin (lots of Korean skincare—especially centella-based products), but no amount of topical products made a meaningful ..."
 - **#221** (Home remedies, makeup tips and procedures, 63): "I had both upper and lower blefaroplasty done and it was the best thing ever.  I'm 63 and in good health and active.  I had big fat herniation and sagging skin In both lids. My recovery from 3 hour surgery  took two ..."
 - **#153** (Beauty of Joseon Revive Eye Serum): "I started using the BoJ retinol eye cream about 5 years ago based on your review. I saw a photo of myself from 8 years ago and my eyes now look 10 years younger than they did. Honestly I was shocked. And delighted 🎉"
+- **#205** (Home remedies, makeup tips and procedures, 58): "Started SPF 50 under my eyes from about age 38 and now at age 58 have hardly any under eye lines. Also always wear sunglasses outside and while driving.😎"
 
 All: #2, #23, #25, #26, #27, #28, #64, #101, #115, #118, #119, #123, #129, #143, #153, #173, #186, #190, #193, #205, #219, #221, #227, #249
 
@@ -357,9 +385,10 @@ All: #2, #23, #25, #26, #27, #28, #64, #101, #115, #118, #119, #123, #129, #143,
 By group: Luxe independent 0, Luxe brand site 0, rival sticks 0, eye creams 1, general 7.
 
 - **#219** (Home remedies, makeup tips and procedures, 55+): "My under-eye fat pads really started to bother me around age 55. I take very good care of my skin (lots of Korean skincare—especially centella-based products), but no amount of topical products made a meaningful ..."
-- **#220** (Under-eye care in general (no product)): "Yes, please, to the lower blepharoplasty video. Now that I understand what my issue truly is, it's no wonder nothing ever worked. The before-and-after photos make me want to run to a surgeon, and I'd like to be more ..."
 - **#221** (Home remedies, makeup tips and procedures, 63): "I had both upper and lower blefaroplasty done and it was the best thing ever.  I'm 63 and in good health and active.  I had big fat herniation and sagging skin In both lids. My recovery from 3 hour surgery  took two ..."
 - **#141** (CeraVe eye creams (Eye Repair / Skin Renewing)): "For anyone who wants to know this eye cream does not work on bags or puffiness. Save your money the only way to get rid of bags under the eyes is surgery. Trust me! 😉"
+- **#230** (Under-eye care in general (no product)): "I've had eye bags since I was in grade school. I think I'd have to have them cut out."
+- **#228** (Home remedies, makeup tips and procedures, approaching 60): "... I have the hollow type of "bag". It is partly due to bone structure, I think, but as I approach 60, its become more pronounced. Unfortunately, I cannot afford a procedure but I do apply all skin care to my under-eye ..."
 
 All: #141, #204, #219, #220, #221, #222, #228, #230
 
@@ -368,10 +397,11 @@ All: #141, #204, #219, #220, #221, #222, #228, #230
 By group: Luxe independent 0, Luxe brand site 0, rival sticks 16, eye creams 5, general 10.
 
 - **#32** (Medicube PDRN Pink Collagen Volume Multi Balm): "You look great! After a few months of using it, do you still recommend it?"
+- **#34** (Medicube PDRN Pink Collagen Volume Multi Balm): "At what part do we apply this pre make up? I have the spf dew moisturiser and I've no idea when to apply?"
 - **#36** (Medicube PDRN Pink Collagen Volume Multi Balm): "Do you wear it under sunscreen due to the retinol?"
-- **#48** (Medicube PDRN Pink Collagen Volume Multi Balm): "Have you noticed any long-term results?"
 - **#57** (Medicube PDRN Pink Collagen Volume Multi Balm): "The medicube one is it safe to use while pregnant?"
-- **#37** (Medicube PDRN Pink Collagen Volume Multi Balm): "I'm more interested in what it can do if anything for the following under the eyes."
+- **#148** (Beauty of Joseon Revive Eye Serum): "There is two type of beauty of Joseon eye cream one of its is yellow and the other one is white what is the difference can someone please explain??"
+- **#56** (Medicube PDRN Pink Collagen Volume Multi Balm): "Does Medicube work for under eye aera?"
 
 All: #32, #34, #35, #36, #37, #41, #45, #48, #50, #55, #56, #57, #58, #60, #87, #111, #113, #126, #147, #148, #156, #197, #199, #200, #203, #204, #211, #222, #223, #236, #250
 
