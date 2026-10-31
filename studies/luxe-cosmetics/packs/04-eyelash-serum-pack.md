@@ -299,7 +299,7 @@ These serums try to make the lashes you already have **healthier and less breaka
 |---|---|---|
 | Full Amazon name | "Luxe Cosmetics Eyelash Serum (3mL) Eyelash Growth Serum for Thicker, Longer & Fuller Lashes - Premium Lash Growth, Volume Lashes - Visible Results After 4 Weeks - Suitable for All Eyelashes" | (S1) [M] |
 | Amazon ID (ASIN) | B0C21JM5PY | (S1) [M] |
-| Size | 3 mL (0.1 fl oz). [R] About 60 drops' worth, a little over half a teaspoon. | (S1); box "3ml / 0.1 fl oz" (Y20) [M] |
+| Size | 3 mL (0.1 fl oz). [R] A little over half a teaspoon (a teaspoon is about 5 mL). | (S1); box "3ml / 0.1 fl oz" (Y20) [M] |
 | Amazon price | $13.00, against a "typical price" of $15.99 (Amazon's 90-day median). Subscribe & Save $11.70 or $11.05. A "Serum Bundle" $21.95. | (S1) [M] |
 | Brand-site price | $29.95 for one (luxe.com); $44.95 for 2, $59.95 for 3 | (S2), earlier report §1.1 [M] |
 | Price per mL | Amazon $4.33; brand site $9.98 | [R] my arithmetic from the prices above |
@@ -625,13 +625,15 @@ Many viewers over 60 find fine work at the eye hard. A German woman over 70: "My
 
 ### 5.3 By budget [M, prices from S1 and S23, pulled 2026-10-31]
 
-| Budget per year (rough, [R] my arithmetic) | Options |
+| Price band, per tube | Options (price / size) |
 |---|---|
-| About $36 | The Ordinary Multi-Peptide, $14.90 per 5 mL (if one tube lasts about 2.5 months, a guess, not measured) |
-| About $78 | **Luxe**, $13 per 3 mL, about 6 tubes a year at once a night |
-| About $170–$290 | Babe Renewing, GrandeLASH Peptide+ |
-| About $400+ | GrandeLASH-MD, neuLASH, RevitaLash, Latisse at retail |
-| $1,200+ | Extensions (brand's own estimate: "vs. Extensions: $1,200+/year", S3) |
+| Under $20 | **Luxe** $13 / 3 mL (Amazon); The Ordinary Multi-Peptide $14.90 / 5 mL; castor oil about $10–14 |
+| $25–50 | Babe Renewing $29 / 3 mL or $49 / 6 mL; GrandeLASH Peptide+ $28 / 2 mL or $48 / 4 mL; Babe Essential $49 / 2 mL (prostaglandin type) |
+| $50–100 | GrandeLASH-MD $68 / 2 mL; Vegamour GRO $68; neuLASH $95 / 3.2 mL; RevitaLash Advanced $100 / 2 mL (snippet) (all but Vegamour are prostaglandin type) |
+| Prescription | Latisse about $155 / 3 mL at average retail, about $38 with a coupon (GoodRx snippet) |
+| Salon | Extensions: the brand's own estimate is "$100+ every 4-6 weeks" and "$1,200+/year" (S3) |
+
+**Luxe per year [R]:** at once a night a tube lasts about 2 months (60 applications, S2), so about 6 tubes, about $78 a year at $13. How long the rival tubes last was not found, so their yearly cost is not calculated here.
 
 ### 5.4 How lashes change with age, and why
 
@@ -669,7 +671,7 @@ Each problem: what it is, why it happens, how it feels (real quotes), what peopl
 
 - **What:** lashes that don't show, even with mascara.
 - **Why:** genetics (a short growing stage), plus aging: about 20% shorter by 50–65 (S8).
-- **How it feels:** "I find all lash/brow serums work for a while and then you have to switch it up" (@julieturner1541, Y22 comments, see note). A 66-year-old German woman: "my lashes were too fine and they fell out very quickly [with extensions]… Lash serum… worked noticeably better and at times my lashes were really much thicker and longer again. But you have to apply it daily and that's a bit tedious" (@susannemirjan3959, Y11, my translation).
+- **How it feels:** a 66-year-old German woman: "my lashes were too fine and they fell out very quickly [with extensions]… Lash serum… worked noticeably better and at times my lashes were really much thicker and longer again. But you have to apply it daily and that's a bit tedious" (@susannemirjan3959, Y11, my translation).
 - **Tried:** mascara (clumps on few lashes), extensions (too heavy for fine lashes), castor oil ("didn't have longer lashes just greasy eyeballs", @sharischmidt4712, 862 likes, Y8).
 - **Does Luxe help?** Maybe a little, by reducing breakage. It will not double length. Pair it with a lengthening mascara for the day.
 
@@ -677,7 +679,7 @@ Each problem: what it is, why it happens, how it feels (real quotes), what peopl
 
 - **What:** a few lashes on the cotton pad every night.
 - **Why:** 1–5 lashes a day is normal (Y6); scrubbing waterproof mascara pulls out extra (Y6).
-- **How it feels:** "If i have to scrub my eyes to get it off that is a deal breaker" (pack 1, mascara comments).
+- **How it feels:** "If i have to scrub my eyes to get it off that is a deal breaker" (mascara-video comment, quoted in `01-mascara.md`).
 - **Tried:** stronger removers, which mean more rubbing.
 - **Does Luxe help?** This is where a conditioning serum is most plausible. The brand itself makes this its weeks 3–4 promise (S3). Also change the removal: oil cleanser, press and hold, wipe down (Y6). A peptide-serum user: "they are no longer, no thicker. Just all of them stay with me until the end" (@sebumpostmortem, 112 likes, Y7).
 
@@ -839,3 +841,247 @@ Prices from brands' own pages or Amazon as pulled 2026-10-31 (S23) [M]. Price pe
 4. You want an effect today: **mascara**, or a **lift** if you accept the chemicals.
 5. You reacted to Luxe on a patch test: a different, short-list peptide serum, after your skin settles.
 
+---
+
+## 8. Questions viewers ask, with plain answers
+
+Taken from real YouTube comments (codes given) and the common questions in the earlier report's comment review (`04-eyelash-serum.md` §7.10). Answers are [R], built on the sources shown.
+
+| # | Question (real wording where quoted) | Plain answer |
+|---|---|---|
+| 1 | "Can you share brands that are safer…?" (334 likes, Y2) | Pick one with **no prostaglandin-type ingredient**: Luxe, The Ordinary, GrandeLASH Peptide+, Babe Renewing, Vegamour, Lashfood (S23). Read the box: avoid names containing "prost". |
+| 2 | "Can you please recommend a few lash serums that work, and don't have any of the harmful ingredients?" (128 likes, Y2) | The gentle ones mostly reduce breakage; they don't grow lashes like Latisse. Expect fuller-*looking* lashes at best, after 2–3 months. |
+| 3 | Is Luxe really prostaglandin-free? | Its published list has none, and the brand says "100% prostaglandin-free" (S2, S3). Nobody has lab-tested it. Check your box. |
+| 4 | Will it change my eye colour? | Iris change is a prostaglandin effect (S7). Luxe's list has none, so it should not. |
+| 5 | Will it make my eyes look sunken? | Fat loss is also a prostaglandin effect (S7, Y2). Not expected with a peptide serum (Dr Dray, Y7). |
+| 6 | Will it darken my eyelids? | Not expected from the ingredients. Any irritation can leave darker marks on darker skin, though (Dr Dray, Y7). |
+| 7 | Does it actually grow lashes? | No study shows it. It may keep lashes from breaking so they look longer and fuller (Y1, Y7). |
+| 8 | How long until I see results? | Give it 8–12 weeks (brand, S2; lash cycle, S5). Some see change in weeks, some never. |
+| 9 | Do I have to use it forever? | To keep any effect, yes. When you stop, lashes slowly go back to how they were (S7, Y17). |
+| 10 | What happens if I stop? | Nothing sudden. Gains fade over the next few months as lashes shed normally. |
+| 11 | Once or twice a day? | Once a night is enough. More doesn't help, even with the prescription drug (S7). |
+| 12 | Morning or night? | Night, on a clean lash line, so it isn't disturbed by makeup (S3, Y19). |
+| 13 | How long does one tube last? | About 60 applications, roughly 2 months at once a night (S2). |
+| 14 | Can I wear mascara with it? | Yes, in the daytime. Remove it gently at night before the serum (S2, Y6). |
+| 15 | Can I use it with lash extensions? | The brand says yes, because it is oil-free (S2). Keep the lash line clean (Y12). |
+| 16 | Can I use it after a lash lift? | Salons say wait about 24 hours (S20). |
+| 17 | Can I use it on my eyebrows? | Not sold for brows on Amazon; Luxe has a separate brow serum (S2). Many people use peptide lash serums on brows (Y17). |
+| 18 | Can I use it with contact lenses? | Take lenses out first (Y19). |
+| 19 | "Can I use it with glaucoma drops or after eye surgery?" (earlier report §7.10) | Ask your eye doctor. Luxe has no prostaglandin, so the Latisse warnings about these (S7) shouldn't apply, but the brand itself says use it under a doctor's supervision if you're being treated (S2). |
+| 20 | Is it safe if I'm pregnant or breastfeeding? | The brand says ask your doctor (S2). |
+| 21 | It stings. Is that normal? | No. Stop and rinse with water (S2). One reviewer's burning didn't settle after 5 nights (Y20). |
+| 22 | Should I patch test? | Yes. An optometrist suggests 5–7 days on the back of the hand (Y10). |
+| 23 | Will it help lashes I lost from chemotherapy? | It's a cosmetic, not a treatment. Ask the oncologist; bimatoprost has trial data (S9). |
+| 24 | "I was losing eyelashes on one eye only…" (71 likes, Y4): what should I do? | See an eye doctor. One-sided loss often has a local cause, such as blepharitis or mites (S5, Y1). |
+| 25 | "Is castor oil enough?" (earlier report §7.10) | It coats lashes; it doesn't change the growth cycle (Dr Dray, Y6; Dr Sam Ellis, Y2). "I tried caster oil and didn't have longer lashes just greasy eyeballs" (862 likes, Y8). |
+| 26 | Does biotin in a serum do anything? | No study shows it grows lashes (Y1). Biotin pills only help people who truly lack biotin, which is rare (S12). |
+| 27 | Will taking biotin pills help my lashes? | Same answer: not unless you're deficient. High doses can upset some blood tests; tell your doctor if you take them (S13). |
+| 28 | Is the expensive serum worth it? | Expensive cosmetic serums often contain prostaglandin copies (S23). For a gentle serum, price doesn't show a clear benefit [R]. |
+| 29 | Why does Latisse work and this doesn't (as much)? | Latisse is a drug that keeps lashes growing longer (S7, Y2). Luxe conditions; it doesn't contain that drug. |
+| 30 | "How is something with so many side effects… even allowed to be sold?" (142 likes, Y8) | In the US, cosmetics don't need approval before sale (S18 review). The EU is moving to ban prostaglandins in cosmetics (S17). |
+| 31 | Why do lashes get thinner after 50? | Aging shortens and thins them (S8), and lid problems, dry eye and mites are more common (S11, S21). |
+| 32 | Is it OK for men? | The brand says yes (S2). |
+| 33 | Can I put it on the lower lashes? | No. Upper lash line only (S3). |
+| 34 | What if I miss a night? | Just carry on the next night; don't double up (S3). |
+| 35 | Does it expire? | Brand: shelf life 4 months; use within 1–2 months once open; store between 36°F and 77°F (S2). |
+| 36 | "Any research on this product?" (Y1 comment, about another serum) | For Luxe: no study found. |
+| 37 | Why do all lash serums seem to stop working after a while? ("all lash/ brows serums work for a while and then you have to switch it up", Y22) | [R] Probably the lash cycle: a batch of lashes grows, then sheds together, so it seems to "stop". There's no evidence that switching brands helps. |
+| 38 | Does it work on lashes that are completely gone? | It can't work where the root is dead, for example from scarring blepharitis (Y1). Patchy or total loss needs a doctor. |
+
+---
+
+## 9. Myths and truths
+
+| Myth | Truth | Source |
+|---|---|---|
+| "Natural or prostaglandin-free serums grow lashes like Latisse." | No trial shows that. "you're not going to see the tremendous growth that you do with the prostaglandins." | Dr Rupa Wong (Y1) [M] |
+| "If the label doesn't say prostaglandin, there's none in it." | 3 of 4 bimatoprost-containing serums in a Japanese lab test didn't declare it. | (S18) [M] |
+| "Look for the word 'prostaglandin' on the label." | The label uses chemical names; look for "prost" inside a word (cloprostenate, ethylcloprostenolamide). | (Y10, Y15) [M] |
+| "Cosmetic serums are milder than prescription Latisse." | Many cosmetic serums use similar chemicals, with "these same exact side effects". | Dr Dray (Y8) [M] |
+| "Prostaglandin side effects only happen to a few people." | The label says under 4% for common ones in the trial, but fat and colour changes can take months or years and be "subtle over time". Dr Sam Ellis: "it's not a matter of if it will happen." | (S7) [M]; @hellocococakes (Y4) [M]; (Y2) [M] |
+| "Prostaglandin damage is always permanent." | Iris colour: "likely to be permanent". Lid darkening and fat loss: often reversible after stopping, but not always. | (S7); (Y2) [M]; viewers both ways (Y9) [M] |
+| "Castor oil grows lashes." | No evidence it changes the growth cycle; it coats and conditions. It can clog lid glands. | Dr Dray (Y6); Dr Sam Ellis (Y2); Dr Rupa Wong (Y1) [M] |
+| "Biotin makes lashes grow." | No lash studies; pills help only real deficiency, which is rare. | (Y1); (S12) [M] |
+| "Vitamin E grows lashes." | It conditions; no growth data. | Dr Rupa Wong (Y1) [M] |
+| "Twice a day works faster." | For Latisse, extra doses don't add growth. Unproven for Luxe. | (S7) [M]; [R] |
+| "Results are permanent once you get them." | Lashes return to their old state after stopping (Latisse label; doctors on peptide serums). | (S7), (Y17) [M] |
+| "You'll see results in 2 weeks." | A lash's growing stage alone lasts 4–10 weeks. Judge at 12 weeks. | (S5) [M] |
+| "Longer is always better for the eyes." | Lashes about a third of eye width protect best; much longer ones funnel air to the eye. | (S10) [M] |
+| "Losing lashes every day means something is wrong." | 1–5 a day is normal. | (Y6) [M] |
+| "Lash extensions don't harm your own lashes." | They can, through weight, glue allergy and dirt build-up, though no study has measured it properly. | (Y5), (Y12), (S19) [M] |
+| "Serums treat lash loss from illness." | Find the cause: thyroid, alopecia areata, blepharitis, chemotherapy. Cosmetics are not treatments. | (S5), (S6) [M] |
+| "If it's gentle it can't irritate." | Any product near the eye can cause irritation or allergy, including peptide serums. | Dr Dray (Y6, Y7); optometrist (Y10) [M] |
+| "Serum on the lower lashes doubles the effect." | Upper only; blinking moves it down anyway. | (S3), (S7) [M] |
+
+---
+
+## 10. The words viewers use
+
+Word for word, from YouTube comments and reviews pulled 2026-10-31 (video codes in section 12). Likes in brackets.
+
+### 10.1 Their phrases for the problem
+
+- "short and stubby" (Dr Rupa Wong describing what women say after extensions, Y12)
+- "my wimpy lash[es]" (Y1 comment, 19 likes)
+- "my lashes were too fine" (66-year-old, Y11, translated)
+- "lashes on my right eye fell out" (Y7, 19 likes)
+- "losing eyelashes on one eye only" (Y4, 71 likes)
+- "lashes of my dreams" (Y8, 522 likes)
+- "LONG, THICK lashes" (61-year-old, Y8, 307 likes)
+- "baby blues" (Y4, 197 likes)
+- "veiny eyelids" (Y2, 167 likes)
+- "sunken eyes", "hollow", "eye aging" (Y9)
+- "chemical blepharoplasty" (Y4, 68 likes)
+- "greasy eyeballs" (Y8, 862 likes)
+- "brown shadows" (Y9, 47 likes)
+- "red eye-shadow" (Y8)
+
+### 10.2 Their complaints
+
+- "I suffered from this with generic latisse… I had peri-orbital fat loss and the blood vessels in my upper lids were very pronounced. I also had blurred vision." (Y2, 167 likes)
+- "People noticed my red eyes more so then my new long lashes." (Y9, 32 likes)
+- "It changed my color from a pretty brown to a an almost black and it'll never change back." (Y9)
+- "After 2 years of using Latisse, I developed yellow-is discoloration on my eyelids… It's been 5 years & they haven't gone away." (Y4, 31 likes)
+- "now I have dry eye syndrome!" (Y8, 27 likes)
+- "How slimy they added this ingredient in another form and didn't disclose!" (Y9)
+- "How is something with so many side effects & some serious additives even allowed to be sold." (Y8, 142 likes)
+- "Used it for about 6 months. No change in lash fullness or growth whatsoever." (The Ordinary, Y7, 41 likes)
+- "it burned every time I put it on" (Luxe, Y20)
+- "It does not come with instructions." (Luxe, Y19)
+- "I wouldn't spend my money on this one." (Luxe, Y20)
+- "you have to apply it daily and that's a bit tedious" (Y11, translated)
+- "I have friends that use lash serums that work great but cost 150.00." (Y22)
+
+### 10.3 Their fears
+
+- "I have light blue eyes and I'm scared to ruin my eye color just for longer lashes." (Y2, 51 likes)
+- "I've considered a lash serum, but when I did my research and read about the side effects, I decided my lashes were ok as is." (Y8, **1.5K likes**)
+- "I'm afraid of lash growth serums. In my opinion, Your eyes are too precious to take a chance." (Y7, 69 likes)
+- "I was always afraid of the other products." (Y7, 44 likes)
+- "It's crazy, I'm scared to use any serums now" (after styes from GrandeLASH, Y1)
+- "I bought this serum but I was scared of side effects like eye color change, phew!" (Y17)
+
+### 10.4 Their wishes
+
+- "Can you share brands that are safer that some of your patients have had success with please?" (Y2, 334 likes)
+- "Have you ever thought about posting a video talking about the lash serums that are safe to use?" (Y2, 295 likes)
+- "Can you please recommend a few lash serums that work, and don't have any of the harmful ingredients?" (Y2, 128 likes)
+- "I'm ok with it just conditioning and reducing breakage as that is one of my biggest issues." (Y7, 44 likes)
+- "I'd love to have my eyebrows back" (Y7, 33 likes)
+- "Yes, please review the Ordinary lash/brow product!" (Y6, 140 likes)
+
+### 10.5 Their praise, for gentle serums
+
+- "After using this product for less than two weeks, my lashes got objectively longer." (The Ordinary, Y7, 387 likes)
+- "I was surprised because it doesn't have prostaglandins, but it works for me." (The Ordinary, Y17, 321 likes)
+- "Just all of them stay with me until the end." (Y7, 112 likes)
+- "it has prevented lash fall out! So it definitely works." (The Ordinary, Y1, 73 likes)
+- "My lashes are nice & long now! Plus it doesn't irritate my eyes! ( I have dry eye )" (Lashfood, Y1, 73 likes)
+- "slow and steady results… At first it did sting my eyelids but over time that feeling stopped." (The Ordinary, Y17, 46 likes)
+- "gentle enough for somebody that has sensitive eyes and sensitive skin" (Luxe, Y19)
+- "So far, so good! It's only been a week. Nice brush." (Luxe, luxe.com review, S2)
+
+### 10.6 Words that sum up what they want [R]
+
+safe · gentle · no side effects · won't change my eye colour · my own lashes · fuller · stop falling out · less breakage · affordable · works · natural · for sensitive eyes · easy
+
+---
+
+## 11. Safety, and what you can and can't say on camera
+
+**Safety (short) [R, built on the sources shown]:**
+
+1. Patch-test for about a week before using it on the lash line (Y10).
+2. Upper lash line only; keep it out of the eye. If it gets in, "rinse your eyes thoroughly with water" (S2).
+3. Stop if it burns, stings, itches or reddens, and don't push through (Y20).
+4. Contact lenses out first (Y19).
+5. Ask your eye doctor first if you use glaucoma drops, have had eye surgery, or are being treated for any eye condition (S2, S7).
+6. Pregnant or breastfeeding: ask your doctor (S2).
+7. Sudden, patchy or one-eye lash loss, or red crusty lids: see a doctor, not a serum (S5, Y1).
+8. Don't share the tube; replace it after 2 months (S2).
+9. Check the box ingredients for any name with "prost" (Y10).
+
+**Can't say (drug-type claims), and what to say instead [M for the FDA rule, S16]:** the FDA treats claims that a product will "restore hair growth" as drug claims (S16).
+
+| Don't say | Say instead |
+|---|---|
+| "Grows your lashes", "regrows", "stimulates growth", "restores natural growth" | "Helps lashes look longer and fuller" |
+| "Stops lash loss", "treats thinning", "for eyelash illness", "for chemo or alopecia" | "Conditions lashes so they're less likely to break" |
+| "Clinically proven", "70% longer", "results in 4 weeks guaranteed" | "Give it 8 to 12 weeks" |
+| "Zero side effects", "safe for everyone", "safe for cancer patients" | "Patch-test first and stop if it stings" |
+| "Works like Latisse" | "It's not Latisse; it's the gentle, prostaglandin-free kind" |
+
+---
+
+## 12. Sources
+
+All pulled **2026-10-31** unless another date is shown. Saved copies are in `data/serum/` where marked. "Snippet" = a web-search summary; the page itself was not opened.
+
+### Written sources
+
+| Code | Source |
+|---|---|
+| S1 | Amazon listing B0C21JM5PY, https://www.amazon.com/dp/B0C21JM5PY. Saved: `data/amazon-B0C21JM5PY-2026-10-31.txt` (earlier helper). |
+| S2 | luxe.com, "Luxe Eyelash Growth Serum", https://luxe.com/products/luxe-eyelash-growth-serum-1-1-free. Saved: `data/serum/luxe-com-luxe-eyelash-growth-serum-1-1-free-page-2026-10-31.txt`. |
+| S3 | luxe.com, "Lash Growth Serum", https://luxe.com/products/lash-growth-serum. Saved: `data/serum/luxe-com-lash-growth-serum-page-2026-10-31.txt`. |
+| S4 | luxecosmetics.de, https://luxecosmetics.de/products/luxe-wimpernserum. Saved: `data/serum/luxecosmetics-de-wimpernserum-page-2026-10-31.txt`. |
+| S5 | "Eyebrow and Eyelash Alopecia: A Clinical Review", Am J Clin Dermatol 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC9870835/. Saved: `data/serum/pmc9870835-fulltext-2026-10-31.txt`. |
+| S6 | "Impact and Management of Loss of Eyebrows and Eyelashes", Dermatol Ther 2023, https://pmc.ncbi.nlm.nih.gov/articles/PMC10264316/. Saved: `data/serum/pmc10264316-fulltext-2026-10-31.txt`. |
+| S7 | LATISSE prescribing information (AbbVie, "Revised 7/2024"), https://www.rxabbvie.com/pdf/latisse_pi.pdf. Saved: `data/serum/latisse-pi-abbvie-2026-10-31.txt`. Figures re-confirmed against DailyMed version 25 by the earlier check (`checks/04-eyelash-serum-check.md`). |
+| S8 | Glaser DA et al., "Epidemiologic analysis of change in eyelash characteristics with increasing age in a population of healthy women", Dermatol Surg 2014;40(11):1208-13, PMID 25347452, https://pubmed.ncbi.nlm.nih.gov/25347452/ (abstract read via NCBI E-utilities). One author is from Allergan, the maker of Latisse. |
+| S9 | Wirta D et al., "Safety and Efficacy of Bimatoprost for Eyelash Growth in Postchemotherapy Subjects", J Clin Aesthet Dermatol 2015;8(4):11-20, PMID 26060513, https://pubmed.ncbi.nlm.nih.gov/26060513/ (abstract via E-utilities). Allergan co-authors. |
+| S10 | Amador GJ et al., "Eyelashes divert airflow to protect the eye", J R Soc Interface 2015. Snippets via https://news.gatech.edu/news/2015/02/25/easy-eyes-how-eyelash-length-keeps-your-eyes-healthy and https://www.scientificamerican.com/article/your-eyelashes-should-be-this-long-science-says. |
+| S11 | "The impact of age, sex, blepharitis, rosacea and rheumatoid arthritis on Demodex mite infection", Arch Med Sci 2016, https://pmc.ncbi.nlm.nih.gov/articles/PMC5868666/ (full text read via E-utilities). Patients were suspected of infection, not a random sample. |
+| S12 | Biotin evidence: Patel DP et al. 2017, https://pmc.ncbi.nlm.nih.gov/articles/PMC5582478/; "Biotin for Hair Loss: Teasing Out the Evidence", JCAD 2024, https://jcadonline.com/wp-content/uploads/Biotin-for-Hair-Loss-Teasing-Out-the-Evidence.pdf. Snippets. |
+| S13 | FDA safety communications on biotin and lab tests (2017, 2019), snippets via https://www.tctmd.com/news/biotin-supplements-can-interfere-cardiac-troponin-tests-fda and https://labtestsonline.org/news/fda-warns-biotin-may-affect-some-lab-test-results. |
+| S14 | Ginseng and hair (mostly mouse studies): https://pmc.ncbi.nlm.nih.gov/articles/PMC4247959 ; https://www.doi.org/10.1155/2014/319795. Snippets. |
+| S15 | INCIDecoder ingredient pages (incidecoder.com now redirects to inkeedecoder.com): myristoyl-pentapeptide-4, myristoyl-pentapeptide-17, tripeptide-1, arginine-lysine-polypeptide (saved: `data/serum/incidecoder-peptides-2026-10-31.txt`); glycerin, tocopherol, biotin, panax-ginseng-root-extract, arginine, 1-2-hexanediol, caprylhydroxamic-acid (read by this helper), e.g. https://incidecoder.com/ingredients/glycerin. |
+| S16 | FDA, "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)", https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap. Saved: `data/serum/fda-cosmetic-vs-drug-2026-10-31.txt`. |
+| S17 | EU SCCS final opinion on MDN, isopropyl cloprostenate and DDDE (published 10 Feb 2026), https://health.ec.europa.eu/publications/sccs-prostaglandin-analogues-methylamido-dihydro-noralfaprostal-mdn-isopropyl-cloprostenate-ipcp_en ; draft ban: Council document 13462/26 ADD 1 (22 Sep 2026), https://data.consilium.europa.eu/doc/document/ST-13462-2026-ADD-1/en/pdf ; CIRS, 2026-07-16. As checked in `checks/04-eyelash-serum-check.md`. |
+| S18 | PubMed abstracts saved in `data/serum/pubmed-lash-serum-abstracts-2026-10-31.txt`: 35882176 (Japan 2022, hidden bimatoprost); 42269767 (France 2026); 35700523 (UK 2022); 42578722 (Spain 2026); 27595988 (Germany 2017); 38475901 (J Cosmet Dermatol 2024 review). FDA 2007 seizure of Age Intervention Eyelash: snippets (drugs.com/fda-alerts/382-0.html; healio.com), logged in `data/serum/web-search-log-2026-10-31.txt`. |
+| S19 | EyeWiki (American Academy of Ophthalmology), "Eyelash Extensions", https://eyewiki.aao.org/Eyelash_Extensions. Snippet. |
+| S20 | Waiting after a lash lift: The Lash Lounge, https://www.thelashlounge.com/?p=1003456 ; Silly George, https://sillygeorge.com/pages/serum-faq ; Divine Lashes, https://divinelashes.ca/blog/lash-serum-with-lash-lift/. Snippets; salon and brand advice, not medical. |
+| S21 | Dry eye in older women: review quoting the Women's Health Study (https://www.dovepress.com/article/download/3335); The Menopause Society press release, https://menopause.org/press-releases/risk-of-dry-eye-disease-increases-during-menopause-transition. Snippets. |
+| S22 | Pyo HK et al. 2007, AHK-Cu and human hair follicles in the lab, https://agris.fao.org/search/fr/records/65de423b63b8185d9ca7d5b9. Snippet. |
+| S23 | Competitor ingredients and prices: earlier report `04-eyelash-serum.md` §5; brand Shopify catalogues saved as `data/serum/comp-*-products-2026-10-31.json` and `data/serum/competitor-ingredients-2026-10-31.txt`; https://theordinary.com/en-us/multi-peptide-lash-and-brow-serum-100111.html ; RevitaLash and Latisse prices from snippets (GoodRx etc.), logged in `data/serum/web-search-log-2026-10-31.txt`. |
+| S24 | Grazia, "#lashserum has over 409 million views on TikTok", https://graziadaily.co.uk/beauty-hair/skin/ordinary-lash-serum-tiktok (snippet, article date not shown). |
+| S25 | Menopause and lashes, brand blogs only: https://www.uklash.com/blogs/news/why-are-my-eyelashes-falling-out-during-menopause ; https://prolash.com/blogs/eyelash-extensions/why-your-lashes-look-thinner-with-age-and-what-actually-helps-1. Snippets, commercial, unverified. |
+
+### YouTube videos (NexLev transcripts, comments and details, pulled 2026-10-31)
+
+| Code | Video ID | Title | Channel (who) | Views |
+|---|---|---|---|---|
+| Y1 | 9ehrWmpxQZQ | My Top 4 Natural Lash Serums \| Eye Doctor Explains | Dr. Rupa Wong (ophthalmologist) | 180,485 |
+| Y2 | tiRLNc6_A0E | Why I Don't Use Lash Growth Serums as a Dermatologist | Dr. Sam Ellis (dermatologist) | 539,359 |
+| Y3 | Aa5pQFJCMY8 | Why You NEED to Wash Your EYELASHES - 5 Tips for Blepharitis | Doctor Eye Health (Dr. Allen, eye doctor) | 834,735 |
+| Y4 | pwgJzhK_uo0 | FAT LOSS & SUNKEN EYES FROM LASH SERUMS | Dr Dray (dermatologist) | 83,268 |
+| Y5 | vpD8rHQwVTQ | Lash extensions: What they don't tell you \| Dr Dray | Dr Dray | 108,276 |
+| Y6 | sQqlbHpfBzw | Best Lash Growth Tips From A Dermatologist | Dr Dray | 115,355 |
+| Y7 | MC4gZn2xjWc | The Ordinary Multi-Peptide Lash & Brow Serum Review | Dr Dray | 183,400 |
+| Y8 | ugIVUGBgxoA | The TRUTH about LASH SERUMS (GrandeLASH, RevitaLASH, Lash Boost) | Dr Dray | 401,543 |
+| Y9 | 5bNNbQuPYIQ | LASH SERUM WARNING! EXPOSED for AGING YOUR EYES | Dr. Anil Rajani | 112,361 |
+| Y10 | hd4RszTi-3Q | LASH SERUMS - WHICH ONES TO PICK AND WHICH ONES TO STAY AWAY FROM! | Vibe Optometry (Dr. Sarah Blackwelder, optometrist) | 88,222 |
+| Y11 | -CkalOVFWn8 | Wimpern ab 60 - voll und schön? ("Lashes over 60 - full and beautiful?") | Barbara Formann (German) | 116,582 (earlier pull) |
+| Y12 | SsPZ0HYV6JI | Do Lash Extensions Damage Your Lashes? | Dr. Rupa Wong | 40,382 |
+| Y13 | pgr0SEh3v_0 | Are Lash Lifts Dangerous? Eye Doctor Investigates | Dr. Rupa Wong | 196,462 |
+| Y14 | bNuALiFJNMU | What Is Blepharitis? Eye Doctor Explains | Dr. Rupa Wong | 504,678 |
+| Y15 | p0XBFFbXfB4 | The PROBLEM with Lash Serums! \| 5 Dangerous Side Effects | The Budget Dermatologist (a dermatologist; her name is unclear in the auto-captions) | 26,681 |
+| Y16 | Oz01bOgkQ7Y | Lash Lifts - are they safe? \| Eye Doctor Explains | Vibe Optometry (Dr. Sarah Blackwelder) | 18,136 |
+| Y17 | cGIkskWfMuI | Is Ordinary Lash Serum Safe? Eye Doctor Explains | Dr. Rupa Wong | 179,725 |
+| Y18 | i45uolSjJLc | What's Really in Your Lash Serum? Eye Doctor Explains! | Dr. Rupa Wong | 19,803 |
+| Y19 | JW3zXgn1hgU | Luxe Cosmetics How to apply Luxe Lash Serum! Overview \| Is it worth it? | Ashley Barfuss (Amazon affiliate) | 701 (2026-03-30) |
+| Y20 | 12dTKpvKhyw | Luxe Eyelash Serum | Ageless! YouTube beauty for when you're not 20. | 47 (2026-09-15) |
+| Y21 | UuMsXeNUQXg | Do Lash Lifts Damage Your Eyelashes? | Eye School with Dr. D (optometrist) | 42,116 |
+| Y22 | JAkepikAVSc | Grow your Lashes and Brows after MENOPAUSE with GRANDE LASH MD!! | Stung by Samantha | 2,412 (earlier pull) |
+
+Comment likes are as shown on 2026-10-31. Comments from Y2, Y4, Y7, Y8, Y9, Y11 and Y22 are saved in `data/serum/youtube-pulls-2026-10-31.json` (earlier helper); comments from Y1, Y6 and Y17 were pulled by this helper (NexLev, "top" sort). German quotes are my translations.
+
+### Not found
+
+- The ingredient list printed on the Amazon box (unreadable in both videos).
+- Any study or lab test of the Luxe serum, including a prostaglandin test.
+- Any study showing myristoyl pentapeptide-4, tripeptide-1, arginine/lysine polypeptide, biotin, ginseng or vitamin E grow eyelashes.
+- Peer-reviewed figures on menopause and eyelashes.
+- Whether the Luxe lash serum and the Luxe brow serums share a formula.
+- The serum's smell, from any reviewer.
+- Amazon review text (Amazon blocks automated loads; not retried).

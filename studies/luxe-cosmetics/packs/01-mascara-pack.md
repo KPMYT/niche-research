@@ -378,3 +378,360 @@ What the peptide evidence is [M]:
 | "100% Natural", "Cruelty-Free", 60-day money-back guarantee | — | "Natural" implausible for a mascara; cruelty-free uncertified |
 
 ---
+
+## 3. How to use it, step by step (and how to take it off)
+
+Luxe's own instructions are only "2 coats. That's all it took" and "Warm water. That's it." [M] **S1**. Below is the full method, built from makeup artists, eye doctors and the tubing brands. Where advice differs, both sides are shown.
+
+### 3.1 What you need
+
+| Item | Why | Must-have? |
+|---|---|---|
+| The mascara | — | Yes |
+| A mirror you can put **below** your face, ideally a magnifying one (5x–10x) | Looking down stops you hitting the lid; magnification helps tired eyes | Strongly advised over 50 |
+| Good light from the front (a window) | Shadows hide clumps | Yes |
+| Cotton buds (Q-tips) | Fixing smudges | Yes |
+| Eyelash curler (optional) | Lifts straight lashes | Optional |
+| Clean spoolie or lash comb (optional) | Separating clumps | Optional |
+| Eyeshadow primer or loose powder (optional) | Stops oily or hooded lids smudging mascara | Optional, useful for hooded lids |
+
+### 3.2 Step by step: applying it
+
+1. **Start with clean, dry, cream-free lashes.**
+   - Wash your face. Keep eye cream **below** the eye and away from the lashes, and let it sink in.
+   - Why: oil or cream on lashes breaks mascara down and causes clumps and smudging. Nina Ubhi: "if you have like skin care left over on your lashes… it's actually oil, right? So, it's moisture and it's going to end up causing your mascara to slide off, flake, or break down" [M] **Y7**.
+   - Dermatologist Dr Dray: wash lids before putting on new eye makeup, because "pollen dirt pollutants" settle there [M] **Y12**.
+2. **(Hooded or oily lids) Prime or powder the lid.**
+   - Put a tiny amount of eyeshadow primer on the lid, "especially right there, that's exactly where your lashes are going to touch", and wait about 30 seconds [M] **Y9**.
+   - Or dust loose powder there. Commenter: "The key for preventing smudging (for me anyway) is to make sure the eye area is powdered" (@Pamela-B, **Y9** comments) [M].
+3. **(Optional) Curl your lashes, BEFORE mascara.**
+   - Why before: "curl your lashes gently before the mascara goes on, never after it dries because clamping a curler onto a coated lash is how brittle lashes break" [M] **Y2**.
+   - How (classic): open the curler, slide it as close to the root as is comfortable without pinching skin, squeeze gently, then move out a little and squeeze again, then once more near the middle, so the lash curves like a C, not a sharp "check mark" [M] **Y3**, **Y9**.
+   - How (tips-first, from makeup artist Erin Parsons via Michelle Spieler): curl the **tips** first, then the **middle**, then the **base** [M] **Y3**.
+   - Pinching means the curler's curve doesn't match your eye; try another shape: "if you're constantly giving a little [flinch]… you don't have the right curve" [M] **Y9**.
+   - Heated curler alternative: used **after** mascara, held on the lashes; no pinching (makeup artist Aran P, **Y18**) [M].
+   - Note the warnings: Dr Dray says curlers often contain **nickel** (a common allergy) and can break lashes; clean them with an alcohol pad [M] **Y12**. A study of 36 women found curler use did **not** significantly change lash structure [M] **S14**.
+4. **Take the wand out the right way. Do NOT pump it.**
+   - Twist and pull out slowly. Wipe the extra off on the tube's neck, not on a tissue (saves product) [M] **Y18**.
+   - "Don't pump it… rummage it around on the inside" [M] **Y9**. Pumping "pushes air in there into the barrel and it dries out the mascara so you're going to get clumps" [M] **Y18**. Thrive: "avoid pumping the wand in and out of the tube" [M] **S7**.
+5. **Position: chin up, eyes down.**
+   - Put the mirror below you and look down into it. "when you're looking down you're less likely to get it on your lids" [M] **Y9**. "tilt my head down so I'm looking up my nose" [M] **Y18**.
+6. **First coat, upper lashes: wiggle at the root, then pull through.**
+   - Put the brush at the very base of the lashes, wiggle side to side a little, then sweep up and out to the tips. Dominique Sachse: "Kind of the little wiggle. Little wiggle and then pull. And I feel like it just deposits a little bit more of the product at the base" [M] **Y6**.
+   - Thrive: "Beginning at the base of your lashes, gently guide the wand from root to tip" [M] **S7**.
+   - Use the **tip of the wand** held upright for the tiny inner- and outer-corner lashes [M] **Y10**, **Y6**.
+   - A salon trick: brush the **tips** first with the wand tip, then do the root-to-tip pass, "you can never get the tips as long when you skip this step" (@DreamJeanneee1111, 56 likes, **Y17** comments) [M].
+7. **Second coat: timing depends on the formula.**
+   - **Tubing:** add the second coat **while the first is still wet**. Thrive: "Layer additional coats while lashes are still wet"; Tarte (per Dominique): "quickly apply the second coat before the first coat dries" [M] **S7**, **Y6**. A Thrive fan: "If it gets dry and then you add a coat it is more prone to clumping" (@CarolZone8A) [M].
+   - Some tubing formulas are meant as one coat: makeup artist: "they are one coat only… anytime someone has gone in with the second or third coat they'll say oh it's really chunky" [M] **Y3**. Blinc's newer formula says you can build [M] **Y10**.
+   - **Regular:** let it sit a few seconds, but not dry. Nina Ubhi: "Just let it sit a few seconds before you go in with the second coat… not even semi-dry" [M] **Y7**. Mindful Midlife: "don't ever let one coat completely dry" [M] **Y9**.
+   - [R] Luxe says "2 coats". Do the second coat within a minute, as for tubing, until you know how it behaves.
+8. **One eye at a time.** "For optimal performance, we recommend focusing on one eye at a time" [M] **S7**.
+9. **Lower lashes: go light, or skip.**
+   - Film and TV makeup artists won't put mascara on women's lower lashes, as it can "cast shadows and can end up making you look more hollowed out", especially over 40 [M] **Y3**.
+   - "A light hand up top, almost nothing on the bottom" [M] **Y2**.
+   - If you do them: wait until the top is dry, look up a little, and **dab** or use the wand **upright** (vertical) [M] **Y9**, **Y18**; "I use the mascara brush pointed up and down rather than sideways on bottom lashes" (@LisaIsHappyToBeSane, 119 likes) [M].
+   - Tissue trick: hold a tissue under the lower lashes while doing the top (@granjmy, 82 likes) [M].
+   - Some use a tubing mascara only on the lower lashes because it won't smear: "works great on the lower lashes as it doesn't smear, cause raccoon eyes, or fallout" (@hiannahgus574, 45 likes) [M].
+10. **Fix mistakes the safe way.**
+    - Let a smudge on the lid **dry**, then flick it off with a dry cotton bud.
+    - Comb clumps with a clean spoolie or lash comb. **Never a pin or safety pin**: Dr Dray, "you could inadvertently stab your eye" [M] **Y12**. (Some viral hacks use tweezers coated in mascara for lower lashes, **Y17**; [R] for shaky hands or poor sight, skip it.)
+11. **Never apply in a moving car or bus.** FDA: a bump can scratch the eye with the wand, and "Even a slight scratch can result in a serious infection" [M] **S9**.
+
+### 3.3 Step by step: taking it off
+
+**Tubing (which is how Luxe describes itself)**
+1. **Contact lens wearers: take lenses out first** ("Take lenses out before removing makeup") [M] **S23**.
+2. Soak a cotton pad or washcloth in **warm** (not hot) water and hold it on closed eyes for about **30 seconds** [M] **S7**.
+3. Gently press and slide **downward** along the lashes with the pad or fingertips. The little tubes slide off. Thrive: "slowly move in downward swiping motions" [M] **S7**.
+4. Rinse the sink: "it leaves a mess in the sink… I'd rather have a mess in my sink than a mess all over my eyes" [M] **Y3**.
+5. Then cleanse the face as normal.
+
+**Warnings from users** [M]:
+- Use warm, not cold: "sometimes i'm too lazy to use hot water so i'll use cold water and it pulls some of my eyelashes out" (@Madilyn-sh5pd, **Y21** comments).
+- It doesn't always "noodle off" neatly: Dominique Sachse wiggled her lashes with dry fingers and got nothing; at the sink it took "face soap as well as a oil-free eye makeup remover" to get Tarte's tubing off [M] **Y6**.
+- In a chemist's test, one product sold as tubing just turned to "mush" in water and smudged, with no tubes [M] **Y8**. [R] Testing Luxe's warm-water removal on camera is the single most useful thing the operator can show.
+
+**Regular (washable) mascara**
+- Cleansing oil or balm first, then a gentle cleanser. Dr Dray: "use an oil cleanser… the oil will just dissolve that makeup… and it'll slide right off" then follow with a gentle cleanser; ophthalmologists often suggest **baby shampoo** for the lid edge [M] **Y13**.
+- Micellar water on a pad works too; ophthalmologist Dr Rupa Wong warns some micellar waters contain alcohol and that she once had "a horrible allergic dermatitis reaction" to one [M] **Y16**.
+- Use the **ring finger** and little circles; finish with a cotton bud along the lid edge to catch bits that could fall into the eye [M] **Y16**, **Y13**.
+
+**Waterproof mascara**
+- Needs an oil or **bi-phase** remover. Hold a soaked pad on the closed eye for 10–20 seconds, then wipe down; never scrub [M] **Y14**; L'Oréal advice for its mascara, **S8**.
+- Ophthalmologist: waterproof "usually requires a biphasic makeup remover and… a lot more [rubbing]… that can cause lash loss, it can cause wrinkles" [M] **Y14**.
+
+**For everyone**
+- **Take it off every night.** Dr Dray describes a published case of a woman who slept in mascara for about 25 years until bits of it were "embedded into the eyelid", causing painful bumps [M] **Y12**, **Y13**.
+- Don't use face scrubs or acne washes (benzoyl peroxide, salicylic or glycolic acid) around the eyes [M] **Y13**.
+
+### 3.4 Common beginner mistakes
+
+| Mistake | Why it's a problem | Fix | Source |
+|---|---|---|---|
+| Pumping the wand | Pushes air in, dries the tube, causes clumps | Twist and swirl | [M] **Y9**, **Y18**, **S7** |
+| Too much on the brush | Clumps, spider lashes | Wipe on the tube neck | [M] **Y7**, **Y18** |
+| Eye cream or oil on the lashes | Mascara slides, smudges, clumps | Keep creams below the eye; clean lashes | [M] **Y7** |
+| Looking straight ahead into the mirror | Dots on the lid | Mirror low, look down | [M] **Y9**, **Y18** |
+| Curling after mascara | Breaks coated lashes | Curl first (or heated curler after) | [M] **Y2** |
+| Waiting too long between coats (tubing) | Clumps, chunks | Second coat while wet | [M] **S7**, **Y3** |
+| Too many coats | Heavy, droops, "Tammy Faye" | One or two coats | [M] **Y3**, **Y6** |
+| Heavy lower lashes | Shadows, "Baby Jane", smudges | Little or none | [M] **Y2**, **Y3** |
+| Cold water on tubing | Pulls lashes | Warm water and patience | [M] **Y21** comments |
+| Scrubbing waterproof off | Lash loss, irritation | Oil/bi-phase, soak, press | [M] **Y14**, **Y13** |
+| Keeping a tube for a year | Bacteria, dried clumpy formula | Replace every 2–4 months | [M] **S9** |
+| Adding water or spit to a dry tube | Contamination | Throw it out | [M] **S9** (via **S5**) |
+| Sharing mascara or using shop testers | Germs | Never share | [M] **S9** |
+
+### 3.5 How long before you see anything
+
+| Effect | When | Source |
+|---|---|---|
+| Darker, longer-looking, separated lashes | **Immediately**, with the first coat | [R] how all mascara works |
+| How well it lasts (smudging, flaking) | Judge at **the end of a full day** | [M] Dominique tested each "at the end of the day", **Y6** |
+| Easy removal | That night | [R] |
+| Brand's "visibly healthier" bare lashes | Brand says **4–6 weeks** | [M] **S1**; [R] no evidence; a lash's whole growing phase is 4–10 weeks (**S13**), so any real change would take months, not weeks |
+| How a tube ages | Some users see changes at **45 days to "a couple of months"** | [M] "until about the 45 day mark and it just seems to change. It clumps and transfers" (@leonnahofer9138); "after a couple of months it dries" (@unik428) |
+
+---
+
+## 4. Where it fits in a routine
+
+### 4.1 The order of steps
+
+**Morning (makeup)**
+1. Cleanse.
+2. Skincare: moisturiser; eye cream **under** the eye, not on the lashes.
+3. Sunscreen.
+4. Contact lenses in (**before** makeup) [M] **S23**.
+5. Face makeup: foundation or tinted moisturiser, concealer.
+6. Eyes: lid primer or powder (hooded lids) → eyeshadow (optional) → eyeliner (optional; on the skin, not the waterline) → brows.
+7. Curl lashes (optional).
+8. **Mascara: the last eye step.** Luxe goes here.
+9. Blush, lips.
+
+[R] Mascara usually goes last on the eyes so eyeshadow dust doesn't land on wet lashes and so you can clean the lid up after.
+
+**Night**
+1. Contact lenses out first [M] **S23**.
+2. **Remove the mascara** (warm water for tubing; oil for regular/waterproof).
+3. Cleanse the face.
+4. Skincare.
+5. **Lash serum, last, on a clean, dry upper lash line** (e.g. the Luxe Eyelash Serum, pack 4).
+
+[M] The Luxe-linked creator describes this exact split: "I use a conditioning treatment in the morning and I use a lash serum at night" (**Y20**).
+
+### 4.2 What it goes with, and what not to mix
+
+| Combination | Good or bad | Why |
+|---|---|---|
+| Lash curler before | Good | Lift, then lock it with mascara |
+| Eyeshadow primer or powder on the lid | Good | Stops lid oil breaking mascara down [M] **Y9** |
+| Lash serum at night | Good | Different jobs; never at the same time [R] |
+| Brown liner instead of black | Good for mature eyes | Softer; "I tend to like a dark chocolate compared to a black" [M] **Y19** |
+| Rich eye cream or eye oil on or near lashes before mascara | Bad | Breaks mascara down; smudging [M] **Y7** |
+| Castor oil on lashes in the morning | Bad | Castor oil is for night only: "you don't want to do that right before you put on your makeup because it is kind of thick" [M] **Y5** |
+| A conditioning lash treatment then mascara on top | Often bad | Makes regular mascara clumpy; "Usually your choices are just don't wear mascara or don't use your conditioning treatment" [M] **Y20**; that is the problem Luxe claims to solve |
+| Tubing mascara over waterproof, or a "refresher" over tubing | Bad | MAC's refresher "is not meant to go over waterproof… and it's not meant to go over tubing" [M] **Y3** |
+| Regular mascara over a tubing base for an event | Works for some | "For an event I will apply a normal mascara over and/or under it for more oomph" [M] (@lorainemcgillivray77, **Y9** comments) |
+| Lash extensions | Only with an oil-free formula | Oil loosens glue [M] **Y10**; Luxe says "Lash Extension Friendly" |
+| Waterproof liner in the waterline | Avoid | Blocks oil glands [M] **Y14** |
+| Fibre mascara with contact lenses | Avoid | Fibres get under lenses [M] **Y2**; snippet in **S5** |
+| Prescription eye drops | Watch out | Drops and tears can break tubing: "when the tubing mascaras broke up" (@bethirwin7445) [M] |
+
+### 4.3 Example routines
+
+**A. The 3-minute "look awake" routine (any age)**
+1. Clean, dry lashes.
+2. One coat of mascara on the upper lashes, root to tip.
+3. Nothing on the lower lashes.
+4. Night: warm water, then face wash.
+
+**B. A woman over 60 with hooded, sensitive eyes and reading glasses**
+1. Morning: moisturiser; eye cream only under the eye; let it absorb.
+2. A tiny amount of eyeshadow primer or a dusting of powder over the whole lid.
+3. Optional: a soft brown pencil smudged close to the upper lashes (skin side, not the waterline).
+4. Optional: curl gently (heated curler if the metal one pinches).
+5. Magnifying mirror placed low; chin up, eyes looking down.
+6. Mascara (tubing or water-based, fragrance-free): one coat on the upper lashes, wiggle at the root; tip of the wand for corners. Second coat straight away only if needed.
+7. Skip the lower lashes, or one light dab at the outer third.
+8. Cotton bud on hand for touch-ups.
+9. Night: lenses out (if worn); warm-water soak 30 seconds; slide off; gentle cleanser; lash serum on a dry lash line if used.
+10. Replace the mascara every 3 months (write the date on the tube).
+
+Sources for B: **Y2**, **Y3**, **Y9**, **Y18**, **Y19**, **S9**, **S23** [M]; the combination is my reading [R].
+
+**C. Contact-lens wearer**
+1. Hands washed; lenses in **first**.
+2. Water-based or tubing mascara; no fibres; tips and top lashes only.
+3. Never liner inside the lash line ("Don't apply eyeliner to the inner edge of the lid") [M] **S23**.
+4. Night: lenses out **first**, then remove mascara [M] **S23**.
+
+**D. A wedding, a funeral, a swim**
+- Waterproof for one day is fine: "for occasional use of course waterproof mascara and eyeliner are fine" [M] **Y14**. A makeup artist keeps waterproof "for brides or mother of the brides anyone who thinks they're going to get emotional" [M] **Y3**.
+- Remove carefully with an oil remover that night.
+
+**E. Dry-eye routine (from an ophthalmologist)**
+- Warm compress on closed eyes for 10–15 minutes (a sock filled with rice, warmed 30 seconds) to open the oil glands; lid wipes; preservative-free artificial tears. Add makeup back slowly, one product at a time [M] **Y15**.
+
+---
+
+## 5. Who it's for and who it isn't
+
+### 5.1 By age
+
+| Age | Typical lashes and lids | What helps | Fit with Luxe's pitch [R] |
+|---|---|---|---|
+| 20s–30s | Longest, thickest lashes (7.98 mm average at 22–29) [M] **S12**; firm lids | Anything; volume formulas | Not the target |
+| 40s | Lids start to hood; richer eye creams; more smudging [M] **Y7** | Smudge-resistant, tubing | Partly |
+| 50s | Lashes ~20% shorter and thinner [M] **S12** [R sum]; tear film less stable; menopause | Lightweight, tubing, easy removal, separation | **Main target** |
+| 60s–70s+ | Hooded lids, crepey skin, poorer near sight, cataract surgery, dry eyes, eye drops; some give up mascara | Precision brush, magnifying mirror, gentle removal, maybe brown-black; less on lower lashes | **Main target**; but watery eyes and drops can defeat tubing |
+
+### 5.2 By lash type
+
+| Lashes | Need | Luxe fit [R] |
+|---|---|---|
+| Short, sparse, fine | Length and separation without weight | Pitched for this ("grips short, fine lashes") |
+| Straight / downward | Curl first; lifting brush or formula | Brand claims "Straight lashes get lift"; untested |
+| Light / blonde | Colour matters most; black may look harsh | Black only |
+| Thick, long | Volume formulas | Not the target |
+| Lash extensions | Oil-free | Says "Lash Extension Friendly" |
+| Brittle | Gentle removal more than "conditioning" | Warm-water removal (if true) is the real help |
+
+### 5.3 By eye type
+
+| Eyes | Issue | What helps | Luxe fit [R] |
+|---|---|---|---|
+| **Hooded** | Lashes touch the lid → transfer | Tubing or waterproof; primer; curl | Fits if it really is tubing |
+| **Oily lids** | Oil breaks wax mascara | Tubing (water-soluble polymers resist oil) [M] **Y8** | Fits if tubing |
+| **Watery** | Warm tears dissolve tubing | Waterproof or regular | **Possibly poor fit** |
+| **Dry eye / eye drops** | Drops break tubing; waterproof clogs glands | Gentle, fragrance-free, removed nightly | Uncertain |
+| **Sensitive / allergic** | Fragrance, preservatives, nickel, wax | Short, fragrance-free list you can check | **Can't be checked: no list** |
+| **Contact lenses** | Flakes and fibres under lenses | Water-based, no fibres | Claims "safe for contact lens wearers"; untested |
+| **Deep-set** | Hard to reach | Slim brush | Plausible |
+| **After eye surgery** | Infection risk | Wait for the surgeon's OK; new tube | Same as any mascara |
+
+### 5.4 By budget
+
+| Budget | Options | Where Luxe sits [M] |
+|---|---|---|
+| Under $10 | Essence Lash Princess $4.97, Maybelline Sky High $10.82 | — |
+| $10–20 | L'Oréal Lash Paradise $13.99, Telescopic $11.97 | Luxe on Amazon UK £14.99 |
+| $20–30 | Thrive $26, Tarte $28, Grande $25, Ilia ~$29, PrimeLash $22.40–28 | Luxe "buy 1 get 1" works out at about $20 a tube [R] |
+| $30+ | Lancôme Lash Idôle $30 (asinsight) / $40–45 (Face Value), Dior $33–44 | Luxe $39.95 single on its own site |
+
+Sources: **S5** (asinsight and brand pages, Jun–Aug 2026), **Y1**, **Y2**, **Y6**. Price-conscious viewers: "I don't want to spend over $25 for mascara especially when we need to replace them every 3 months" (@vanessawilen2417, 190 likes) [M].
+
+### 5.5 What changes after 50 and 60, and why
+
+1. **Fewer, shorter, finer lashes.** Measured: 20% shorter, thinner [M] **S12**. Why: lashes grow for only 4–10 weeks [M] **S13**; with age, follicles may spend longer resting (expert view, **Y2**). Result: mascara has less to grip; heavy formulas drag them down.
+2. **Lids hood.** Extra skin folds over; lashes touch it [M] **Y7**. Result: transfer to the lid, "polka dots" on the brow bone [M] **Y3**.
+3. **Under-eye skin thins and creases.** Result: flakes and smudges sit in lines and look like dark circles. "tiny black confetti sits in your fine lines and dark circles" [M] **S2**; "Heavy, dry mascara emphasizes dark circles and every fine line" (makeup artist Caroline Hernandez, quoted in **Y2**) [M].
+4. **More eye cream and richer skincare.** Result: more grease near lashes → smudging [M] **Y7**.
+5. **Tear film changes; dry eye and eye drops.** Oil glands work less well; eyes sting and water [M] **Y2**, **Y15**. Meibomian gland problems are linked to preservatives, surfactants and essential oils near the eye in a 2026 review [M] **S17**.
+6. **Allergies can start late.** "you can develop an allergic reaction to a product even if you've used that product one, ten or even a thousand times before" (Dr Rupa, **Y15**) [M]. Eyelids are a top site for cosmetic allergy [M] **S16**.
+7. **Eyesight.** Hard to see lashes; cataract surgery; shaky hands [M] **Y5** comments.
+8. **Less curl.** "As I got older I found that curling didn't work any longer" (@elenapizzarello9344) [M].
+9. **Style shift.** Many want "less is more", softer black or brown-black: "a softer brown-black instead of a harsh jet black on fair or cool skin" [M] **Y2**. Some want to avoid looking "clownish" or "Baby Jane" [M] **S5**.
+
+---
+
+## 6. Every problem the viewer has, one by one
+
+For each: what it is, why it happens, how it feels (real quotes), what people tried and why it failed, and how Luxe helps or doesn't. Quotes are from YouTube comments pulled with NexLev (**S5** raw file `data/mascara/nexlev-youtube-comments-2026-10-31.md`, plus new pulls on 2026-10-31 noted as **Y9c**, **Y17c**, **Y21c**). Full review collections are in `packs/reviews/`.
+
+### Problem 1: "My lashes have disappeared" (short, sparse, light)
+- **What:** Lashes too short or few to show; the eye looks bare and tired.
+- **Why:** Lashes ~20% shorter and thinner after 50 [M] **S12**; finer hairs reflect less.
+- **How it feels:** "I have blonde thin and straight lashes that are invisible without mascara" (@nedamm5677, 18 likes). "I didn't feel pulled together like I once did" (@elenapizzarello9344). Luxe's own copy plays on it: "This isn't another mascara that looks amazing on a 25-year-old model and invisible on you" [M] **S1**.
+- **Tried and failed:** Volume mascaras that clump on sparse lashes; extensions (cost, damage; one commenter got them after mascara stopped working); false lashes; serums with side-effect fears (pack 4).
+- **Luxe [R]:** Its pitch fits exactly (slim "precision" wand, "featherlight"). Any mascara darkens and lengthens instantly; whether Luxe's brush catches tiny corner lashes better than a $5–11 slim brush (Essence, Sky High) is **untested**. It will not regrow lashes.
+
+### Problem 2: Smudging, transfer and "raccoon eyes"
+- **What:** Black marks under the eye or on the lid by midday.
+- **Why:** Lid oil, eye cream, tears, heat and hooded skin soften wax mascaras; lashes droop and touch the skin [M] **Y7**, **Y3**, **Y8**.
+- **How it feels:** "Every single mascara I've tried over the last 30 years plus ends up transferring onto the foundation under my eyes or just creating a very dark shadow underneath" (@teddyroon, 66). "Raccoon eyes have been the bane of my existence because I have significant chronic dry eye and have to use eye drops throughout the day" (@donkiml5805). "I've been struggling with mascara ending up under my eyes for YEARS" (@danikafarnsworth5590).
+- **Tried and failed:** Waterproof (hard removal; "even waterproof mascara would end up looking like raccoon eyes", @NIKKIRHODES1212); expensive brands ("YSL… it smudge!", @mikaelamichael7456); skipping lower lashes.
+- **Luxe [R]:** If it is a true tubing formula, this is its strongest benefit: tubes "do not smudge from anything from oil, sweat, tears, or even eye cream" (**Y4**). But the page also says "Waterproof", so test a full day on a hooded lid.
+
+### Problem 3: Flakes in fine lines
+- **What:** Dry crumbs falling under the eyes.
+- **Why:** Wax-and-pigment coats dry stiff and crack; old tubes dry out.
+- **How it feels:** "start to crumble from your eyes around lunch time" (@unik428). "Halfway through the day, flaking" (reviewer quoted in **Y1**).
+- **Tried and failed:** Prestige volume mascaras; fresh tubes that go off after weeks.
+- **Luxe [R]:** Claims "zero flaking"; tubing generally flakes less ("tubing mascara is incapable of flaking", makeup artist **Y3**; though one Thrive user said "after few weeks of using it, it would start to flake", @VictoriaBC610). Untested for Luxe.
+
+### Problem 4: Hard removal that pulls lashes out
+- **What:** Rubbing and scrubbing at night; lashes on the cotton pad.
+- **Why:** Waterproof and long-wear formulas need oil and friction; rubbing breaks and pulls lashes [M] **Y14**, **S13**.
+- **How it feels:** "If i have to scrub my eyes to get it off that is a deal breaker" (@dfollmer1428). "whenever I take off waterproof mascara it always rips out my lashes and takes so long" (@josiejohnson_28). "how easily they remove is just as important to me as how they perform" (@Keeper_of_the_Hearth). Luxe: "Every lash left on a cotton pad feels personal when you already have fewer to spare" [M] **S2**.
+- **Tried and failed:** Waterproof + bi-phase remover; wipes (Dr Dray: wipes "require more rubbing" and cause "eyelash breakage", **Y13**).
+- **Luxe [R]:** "Warm water dissolves it cleanly" is the centre of the pitch. If true, it helps. Remember tubing can still need patience and warm water (Problem 4 in **Y6**, cold-water warning in **Y21c**).
+
+### Problem 5: Sensitive, stinging, itchy, watering eyes
+- **What:** Eyes burn, water or itch, lids go red after mascara.
+- **Why:** Allergy or irritation to fragrance, preservatives, wax, nickel, alcohol; dry eye; blocked oil glands [M] **Y15**, **Y12**, **S16**, **S17**.
+- **How it feels:** "Essence looked great but caused an itching and burning every time I wore it" (@JoyWinters-t4h). "some black mascaras just make my eyes water and hurt" (@AudriannaB-World-Peace). Molly Burke, quoted by Dr Rupa: "mascaras, makeup removers, eye creams i burn my eyes make my eyes water" (**Y15**).
+- **Tried and failed:** "Hypoallergenic" products (term has no legal meaning, **S10**); "sensitive skin" micellar water that still caused a reaction (**Y15**, **Y16**).
+- **Luxe [R]:** Claims hypoallergenic, pH balanced, water-based. **But with no ingredient list, someone with a known allergy cannot check it.** Patch test and stop if it stings.
+
+### Problem 6: Watery eyes and eye drops break the mascara
+- **What:** Tears and drops make mascara run, even tubing.
+- **Why:** Tubing films soften in warm water; tears are warm [M] comments.
+- **How it feels:** "Tears are warm so they cause the mascara to smear, just as warm water does" (@JoyWinters-t4h). "Victoria Beckham's Vast Lash… holds up to the multiple medicated eye drops I have to use when the tubing mascaras broke up" (@bethirwin7445). "Tubing mascaras smudge and run down my face from May-December in the heat and humidity of Florida" (@Corrine919).
+- **Luxe [R]:** If it is warm-water tubing, this is its **weak spot**. Say so honestly.
+
+### Problem 7: Contact lenses
+- **What:** Bits of mascara or fibres get under lenses; lenses cloud.
+- **Why:** Mascara sticks to lenses: non-waterproof mascara left 0.9–7.1% coverage on silicone hydrogel lenses after an hour's soak, depending on lens material [M] **S15**.
+- **How it feels:** "I wore contacts for over 50 years" and preferred no mascara (Rebecca, 70, **Y5**). Luxe ad persona: "My eyes water at everything and I wear contacts, so most mascaras are a nightmare" [M] **S2** (brand copy, not a verified customer).
+- **Luxe [R]:** Claims "safe for contact lens wearers"; no lens test named. Rivals publish one (Thrive: "Dermatologist + ophthalmologist tested… safe for contact lens wearers", **S7**). Lens rules apply regardless (3.3, 4.3C).
+
+### Problem 8: Straight lashes that won't curl or hold a curl; curlers that pinch
+- **What:** Lashes point straight out or down; curl drops in an hour.
+- **Why:** Natural shape; heavy wet formulas weigh lashes down; regular mascara relaxes curl.
+- **How it feels:** "They are short and cannot hold a curl at all" (@michelleyork7647). "There are plenty of us out here… who keep getting pinched by the curlers or who are unable to get the curlers in the right position to work. I'm looking for a good self curling mascara" (@user-zk8ed4kd2b). "Anything not waterproof will wilt your freshly curled lashes quicker than you can say 'Flop'" (@DSmith-ix1xf).
+- **Tried and failed:** Cheap curlers ("cheap ones have the potential of pulling your eyelashes out", **Y9**); waterproof just for curl.
+- **Luxe [R]:** Claims "lifts without weighing down"; brand's own line "Curlers lose their grip after 20 minutes" [M] **S1**. Untested. Tubing films can hold curl (Thrive says "lifts and curls"), but evidence for Luxe is none.
+
+### Problem 9: Clumps and "spider legs"
+- **What:** Lashes stick together in thick spikes.
+- **Why:** Too much on the brush; thick formula; dried tube; second coat on a dry first coat.
+- **How it feels:** "I bought the Hourglass on your recommendation and it is sooo clumpy!!" (@Rachierooh). "I cannot apply 2 coats due to clumping but even one coat clumps" (PrimeLash reviewer, snippet, **S5**).
+- **Luxe [R]:** Claims "Zero clumps"; the one independent short says "Absolutely zero clumps" after ¾ of a coat (**Y20**). Untested beyond that.
+
+### Problem 10: Can't see to apply; hooded lids get covered; shaky hands
+- **What:** Mascara on the lid, the brow bone, the nose.
+- **Why:** Poor near sight, hooding, tremor.
+- **How it feels:** "it made my hooded eyes look smaller and I really couldn't see my eyelashes anymore to apply it and got more on my eyelids than lashes" (@Kim-ek7xy, almost 70). "I even try to put tape on my eyelids before applying mascara" (@HurshRoad, **Y9c**). "my lashline tucks up behind that immobile skin flap 'hood' lol" (@errrkt, **Y9c**).
+- **Fixes:** Low magnifying mirror, look down (**Y9**, **Y18**); primer (**Y9**); slim brush (**Y1**: Rare Beauty's tip for lower lashes).
+- **Luxe [R]:** A slim wand helps; the technique matters more than the brand.
+
+### Problem 11: Tubes that dry out or "go off"; the cost of replacing
+- **What:** A tube changes after 6–8 weeks: clumps, flakes, transfer.
+- **Why:** Air gets in (pumping); bacteria; evaporation.
+- **How it feels:** "until about the 45 day mark and it just seems to change" (@leonnahofer9138). "I dread to think how much money I have spent trying to find the one" (@lornacartwright1341).
+- **Luxe [R]:** Brand page gives no shelf life. At $39.95 single, a 3-monthly replacement is pricey; the 2-for-1 or Amazon price makes more sense.
+
+### Problem 12: Too harsh; wants brown
+- **What:** Jet black looks stark on fair, older skin.
+- **How it feels:** "My problem is that I want brown mascara, not black." (@mlaiuppa). "If I use mascara on all my lashes, I get a Bette Davis as Baby Jane look" (@phyllistallent4149, 57 likes). "I do not wish to appear clownish" (@lindap.p.1337, 77).
+- **Fixes:** Brown-black shades (Thrive's brown-black is "the one older reviewers reach for", **Y2**); Tarte tubing in brown (**Y4**); navy (**Y18**).
+- **Luxe [R]:** **Black only.** Not for viewers who want brown.
+
+### Problem 13: Lower lashes smudge or "cast shadows"
+- **How it feels:** "This is the mascara for women who gave up on lower lashes years ago" (**Y1**). "Loading the bottom row drops dark pigment right against the under eye, where it deepens shadows" (**Y2**).
+- **Fixes:** Skip; dab; vertical wand; tissue; a tubing formula on the bottom only (comments in **Y17c**).
+- **Luxe [R]:** No specific claim beyond "tiny ones in the corners".
+
+### Problem 14: Wants lash health without serum side effects
+- **What:** Fear of lash serums (prostaglandins can darken the iris) but wanting "healthier" lashes.
+- **How it feels:** "I have light blue eyes and I'm scared to ruin my eye color just for longer lashes" [M] **S5** (pack 4 data). "Should we use a lash serum such as Sweed or Grande Lash?" (@carolgarrett5650).
+- **Luxe [R]:** "Conditioning peptide" sounds like a gentle middle path. In truth a peptide in mascara has no good evidence for growth (2.3B). Some mascaras do contain a prostaglandin (isopropyl cloprostenate) per an ophthalmologist (**Y15**); **Luxe's list is unknown**, so photograph the box.
+
+### Problem 15: "I've given up on mascara"
+- **How it feels:** "I am 69 and just recently decided to ditch masacra. Its a bit scary but I am sick of the mess!" (@loftonrudolph7586, 57 likes). "Love not using mascara any more… I don't dread removing markup!!" (@rebeccaholley1544, 44 likes). "I don't like how it feels & it's messy to remove… I turned 76" (@patwagner9308). Rebecca, 70: "mascaras are basically putting tar on your lashes" (**Y5**).
+- **The other side:** "I will never give up my mascara.EVER!" (@robiness5344, 125 likes, 29 replies). "At 64 years old, it makes me feel pretty." (@jamiebrennan5779, 76 likes).
+- **Luxe [R]:** Tubing is often the reason women come back: "For a lot of women past 50, this is the reason they start wearing mascara again after quitting in frustration" (**Y1**); "I never wore mascara because it always smeared. But I recently starred wearing tubing mascara and it makes a huge difference" (@ItzaMuMu). Luxe's whole pitch aims at this group.
+
+---
