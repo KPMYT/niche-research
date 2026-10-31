@@ -1,0 +1,24 @@
+Web search log, product #4 (Luxe Cosmetics Eyelash Serum, B0C21JM5PY). All searches run 2026-10-31 with the WebSearch tool (standard mode).
+Searches used: 21 of the ~35 allowed. Results are search-engine summaries; anything used in the report was either opened directly (see other files in this folder) or is marked as "search snippet".
+
+1  "Luxe Cosmetics" eyelash serum ingredients -> no INCI; low-quality pages naming Panax ginseng / rosemary / magnolia.
+2  B0C21JM5PY eyelash serum -> nothing for the ASIN.
+3  "Luxe Cosmetics" "Eyelash Serum" 3mL ... -> asinsight.com keyword reports (opened, saved).
+4  "Luxe Cosmetics" lash serum skinsort/incidecoder/walmart/ebay -> parse.gl brand page (luxe-cosmetics.com = lash-lift brand); no INCI databases list it.
+5  Luxe Cosmetics lash serum reviews trustpilot/reddit -> pl.trustpilot.com/review/luxe-cosmetics.com (title "Recenzje 2117", TrustScore 3.8 per snippet); loox.io/s/4kWOkvCs9n ("Luxe Cosmetics US Reviews - 4,839 Reviews"). Trustpilot and Loox both returned 403 to a plain load; not retried.
+6  trustpilot luxe-cosmetics.com reviews serum lashes refund -> snippets: refund complaints ("the best they would give me was 20%!"), pump broken, "No human support"; malwaretips scan "Suspicious" 30/100 (automated, low confidence).
+7  "Luxe Cosmetics Eyelash Serum" review -> no independent review found.
+8  Latisse label clinical trial -> rxabbvie.com/pdf/latisse_pi.pdf (downloaded, saved).
+9  FDA eyelash serum cosmetic/drug, Age Intervention seizure -> snippets: 2007 FDA seizure of Age Intervention Eyelash (Jan Marini) as unapproved drug/adulterated cosmetic containing bimatoprost (drugs.com/fda-alerts/382-0.html, healio.com); FDA warning letter to Lifetech Resources re RapidLash/NeuLash growth claims (cosmeticsandtoiletries.com/regulatory/claims/120476614.html); 2009 FDA letter to Allergan re Latisse website minimising risks. Primary pages blocked (403/Cloudflare); not retried.
+10 SCCS prostaglandin analogues -> health.ec.europa.eu SCCS page (opened: Final Opinion published 10 February 2026).
+11 peptide eyelash serum evidence myristoyl pentapeptide-17 -> no independent peer-reviewed trial found; only supplier/brand data.
+12 RevitaLash Advanced price -> snippet: revitalash.com and dermstore.com list 2.0 mL $100, 3.5 mL $152 (revitalash.com itself 403 to plain load).
+13 madarosis causes review -> PMC9870835 (Am J Clin Dermatol 2023), PMC10264316 (Dermatol Ther 2023): full text pulled via NCBI E-utilities API (saved).
+14 reddit prostaglandin-free lash serum -> no reddit threads surfaced. Reddit itself returns 403 to plain loads.
+15 site:reddit.com lash serum over 50 menopause -> no reddit threads; Mumsnet threads surfaced but return 403.
+16 study OTC eyelash serums undisclosed prostaglandin -> leads followed up via PubMed E-utilities (saved abstracts).
+17 tiktok lash serum viral -> snippet: Grazia: "#lashserum has over 409 million views on TikTok" (graziadaily.co.uk/beauty-hair/skin/ordinary-lash-serum-tiktok, article date not shown); Maybelline Lash Sensational Boosting Serum ~$11 viral (sheknows.com); GrandeLASH-MD "TikTok especially loves" (aol.com/yahoo In The Know).
+18 Latisse price GoodRx -> snippet: goodrx.com average retail ~$155 (3 mL), ~$212 (5 mL); coupon ~$38 (3 mL); generic bimatoprost avg ~$148 (3 mL); singlecare.com generic $165 retail / $44 with card. Insurance usually does not cover (cosmetic).
+19 eyelash extensions traction alopecia -> eyewiki.aao.org/Eyelash_Extensions (traction alopecia, keratoconjunctivitis, allergic blepharitis; cites Amano et al., Cornea 2012); PMC10895549 (Nigerian student survey: 16.0% noticed side effects); mdedge.com review.
+20 "Luxe Cosmetics" eyelash serum customer reviews amazon -> no product-specific reviews; desertcart.nz mirror returned 403.
+21 rosemary oil vs minoxidil (Panahi 2015) -> scalp androgenetic alopecia only, vs 2% minoxidil, 6 months; no eyelash data.

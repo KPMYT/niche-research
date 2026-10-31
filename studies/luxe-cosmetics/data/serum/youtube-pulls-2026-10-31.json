@@ -1,0 +1,742 @@
+{
+ "pulled": "2026-10-31",
+ "tool": "NexLev youtube_search / youtube_video_details / youtube_video_comments / get_video_transcript",
+ "note": "Selected records copied from tool output. Comment dates are YouTube relative dates ('3 years ago') converted by the tool to approximate dates; likes as shown on 2026-10-31.",
+ "searches": {
+  "Luxe Cosmetics eyelash serum review": [
+   {
+    "id": "JW3zXgn1hgU",
+    "title": "Luxe Cosmetics How to apply Luxe Lash Serum! Overview | Is it worth it?",
+    "channel": "Ashley Barfuss",
+    "views": 701,
+    "published": "2026-03-30",
+    "duration": "2:56",
+    "note": "Amazon affiliate link to the 3 mL Amazon listing"
+   },
+   {
+    "id": "12dTKpvKhyw",
+    "title": "Luxe Eyelash Serum",
+    "channel": "Ageless! YouTube beauty for when you're not 20.",
+    "views": 47,
+    "published": "2026-09-15",
+    "duration": "2:35"
+   },
+   {
+    "id": "yh0CqruLCVQ",
+    "title": "Luxe Eyelash Serum - Quick Explanation",
+    "channel": "Luxe Cosmetics (brand)",
+    "views": 17150,
+    "published": "~4y ago",
+    "duration": "0:32",
+    "comments": 2
+   },
+   {
+    "id": "coZYl1p8HmA",
+    "title": "Luxe Cosmetics Eyelash Serum (3mL) Eyelash Growth Serum for Thicker Longer",
+    "channel": "Shopping Review",
+    "views": 6,
+    "published": "~7mo ago"
+   },
+   {
+    "id": "h-NBqG3O0kQ",
+    "title": "Luxe Eyelash Growth Serum Reviews - Worth it Or A Scam?",
+    "channel": "Insider Review",
+    "views": 121,
+    "published": "~9mo ago"
+   },
+   {
+    "id": "5zsIv3wmzek",
+    "title": "AT HOME LASH LIFT TUTORIAL WITH LUXE COSMETICS LASH LIFT KIT **UPDATED TUTORIAL**",
+    "channel": "Delaney",
+    "views": 63078,
+    "published": "~1y ago",
+    "note": "mentions 'currently I'm loving the lash serum from Lux cosmetics'"
+   },
+   {
+    "id": "QfaW8TATP44",
+    "title": "Luxe Lash Lift Starter Set Review & Tutorial #beautyfails",
+    "channel": "Mascara & Mutts",
+    "views": 27761,
+    "published": "~3y ago"
+   }
+  ],
+  "category (sorted by views / relevance)": [
+   {
+    "id": "EU4OXlwg4rE",
+    "title": "THE TRUTH ABOUT LASH SERUM AND GROWING LONG LASHES!",
+    "channel": "Lainey Ostrom",
+    "views": 1151212,
+    "published": "~7y ago"
+   },
+   {
+    "id": "YhNPTRKLHXc",
+    "title": "How to Grow Long Thick Eyelashes QUICKLY! - Dr. Berg",
+    "channel": "Dr. Eric Berg DC",
+    "views": 2715636,
+    "published": "~4y ago"
+   },
+   {
+    "id": "tiRLNc6_A0E",
+    "title": "Why I Don't Use Lash Growth Serums as a Dermatologist",
+    "channel": "Dr. Sam Ellis",
+    "views": 539358,
+    "published": "~5y ago",
+    "comments": "1.1K"
+   },
+   {
+    "id": "ugIVUGBgxoA",
+    "title": "The TRUTH about LASH SERUMS (GrandeLASH, RevitaLASH, Lash Boost)| Dr Dray",
+    "channel": "Dr Dray",
+    "views": 401543,
+    "published": "~6y ago",
+    "comments": "1.6K"
+   },
+   {
+    "id": "MC4gZn2xjWc",
+    "title": "The Ordinary Multi-Peptide Lash & Brow Serum Review",
+    "channel": "Dr Dray",
+    "views": 183400,
+    "published": "~2y ago",
+    "comments": 308
+   },
+   {
+    "id": "9ehrWmpxQZQ",
+    "title": "My Top 4 Natural Lash Serums | Eye Doctor Explains",
+    "channel": "Dr. Rupa Wong",
+    "views": 180485,
+    "published": "~4y ago"
+   },
+   {
+    "id": "sQqlbHpfBzw",
+    "title": "Best Lash Growth Tips From A Dermatologist",
+    "channel": "Dr Dray",
+    "views": 115355,
+    "published": "~2y ago"
+   },
+   {
+    "id": "5bNNbQuPYIQ",
+    "title": "LASH SERUM WARNING! EXPOSED for AGING YOUR EYES",
+    "channel": "Dr. Anil Rajani",
+    "views": 112361,
+    "published": "~4y ago"
+   },
+   {
+    "id": "-Xy_QTS0eB8",
+    "title": "Side Effects of Lash Serums | Eye Doctor Explains",
+    "channel": "Dr. Rupa Wong",
+    "views": 107553,
+    "published": "~5y ago"
+   },
+   {
+    "id": "hd4RszTi-3Q",
+    "title": "LASH SERUMS - WHICH ONES TO PICK AND WHICH ONES TO STAY AWAY FROM!",
+    "channel": "Vibe Optometry",
+    "views": 88222,
+    "published": "~4y ago"
+   },
+   {
+    "id": "J5qtBIh-H04",
+    "title": "MY EXPERIENCE WITH LATISSE AND 4 MONTH RESULTS",
+    "channel": "Sydney Nicole",
+    "views": 83524,
+    "published": "~5y ago"
+   },
+   {
+    "id": "pwgJzhK_uo0",
+    "title": "FAT LOSS & SUNKEN EYES FROM LASH SERUMS",
+    "channel": "Dr Dray",
+    "views": 83268,
+    "published": "~3y ago",
+    "comments": 354
+   },
+   {
+    "id": "O9KW-oLtSS0",
+    "title": "THESE LASH SERUMS May DROOP YOUR EYES",
+    "channel": "Dr. Anil Rajani",
+    "views": 35860,
+    "published": "~4y ago"
+   },
+   {
+    "id": "1wRX0RLeXq0",
+    "title": "2 YEARS USING LATISSE: MY RESULTS | Any Negative Side Effects?",
+    "channel": "Sydney Nicole",
+    "views": 32339,
+    "published": "~3y ago"
+   },
+   {
+    "id": "p0XBFFbXfB4",
+    "title": "The PROBLEM with Lash Serums! | 5 Dangerous Side Effects",
+    "channel": "The Budget Dermatologist",
+    "views": 26681,
+    "published": "~2y ago"
+   },
+   {
+    "id": "LyTIspJDdmA",
+    "title": "How To Get Massive Lashes Over 50 | Castor Oil Vs Revitalash",
+    "channel": "fabulous50s",
+    "views": 26017,
+    "published": "~8y ago",
+    "comments": 152
+   },
+   {
+    "id": "6DLGHODOHrI",
+    "title": "LASH GROWTH SERUM that does NOT contain PROSTAGLANDINS",
+    "channel": "Graceful Beauty",
+    "views": 16528,
+    "published": "~2y ago"
+   },
+   {
+    "id": "JAkepikAVSc",
+    "title": "Grow your Lashes and Brows after MENOPAUSE with GRANDE LASH MD!!",
+    "channel": "Stung by Samantha",
+    "views": 2412,
+    "published": "~5y ago"
+   },
+   {
+    "id": "Zt-ZTXa9ALk",
+    "title": "Thinning Lashes After 50? Let's Talk Lash Serums!",
+    "channel": "Lisa Aungst",
+    "views": 34,
+    "published": "~2w ago"
+   }
+  ],
+  "thin eyelashes after 60 what to do": [
+   {
+    "id": "-CkalOVFWn8",
+    "title": "Lashes over 60 - full and beautiful?",
+    "channel": "Barbara Formann (German-language channel)",
+    "views": 116582,
+    "published": "~5 days before 2026-10-31",
+    "duration": "11:36",
+    "comments": 143
+   },
+   {
+    "id": "YhNPTRKLHXc",
+    "title": "How to Grow Long Thick Eyelashes QUICKLY! - Dr. Berg",
+    "channel": "Dr. Eric Berg DC",
+    "views": 2715631,
+    "published": "~4y ago"
+   },
+   {
+    "id": "vnBtihWYZgE",
+    "title": "#1 Best Remedy Restore Eyelashes",
+    "channel": "Dr. Eric Berg DC",
+    "views": 244201,
+    "published": "~4y ago"
+   },
+   {
+    "id": "whLyC5Yuy3c",
+    "title": "1 Vitamin That Regrows Thinning Eyelashes and Eyebrows in 30 Days After 60 | Dr William Li",
+    "channel": "Health & Science",
+    "views": 4988,
+    "published": "~2w ago",
+    "note": "several copycat uploads of same title on other channels"
+   },
+   {
+    "id": "Tf-9PXt34Y0",
+    "title": "My Brow System for Sparse Brows Over 50 (Real Time)",
+    "channel": "Camille Cowher Makeup Over 50",
+    "views": 135328,
+    "published": "~9mo ago"
+   },
+   {
+    "id": "-3zlvxnTmqg",
+    "title": "THE SNEAKY EYELINER TRICK FOR MATURE WOMEN",
+    "channel": "Nikol Johnson",
+    "views": 5868382,
+    "published": "~3y ago"
+   }
+  ],
+  "lash serum (sorted by views)": [
+   {
+    "id": "f1q2dhKcPCg",
+    "title": "Wimpernserum im Test - Lange, dichte, volle Wimpern? | taff",
+    "views": 921617,
+    "published": "~12y ago"
+   },
+   {
+    "id": "Oxu6HI4tW38",
+    "title": "REVIEW: Refectocil Lash & Brow Booster + vorher nachher Fotos",
+    "views": 128240
+   },
+   {
+    "id": "wfOQdCyAbwk",
+    "title": "DON'T ruin your FACIAL FAT: BIG RISKS of lash serums (and what to choose INSTEAD)",
+    "channel": "PENN.SMITH.SKINCARE",
+    "views": 39631,
+    "published": "~3y ago"
+   },
+   {
+    "id": "NfbtSRvlEx4",
+    "title": "(German-dubbed title) Do lash serums make your eyes age faster?",
+    "channel": "The Cost of Pretty",
+    "views": 37880,
+    "published": "~2w ago",
+    "duration": "31:24"
+   },
+   {
+    "id": "oNW7UNyNH5I",
+    "title": "i tested two lash serums for 3 months so you don't have to (Grande vs The Ordinary)",
+    "channel": "Lauryn Helena",
+    "views": 10498
+   }
+  ]
+ },
+ "transcripts_quoted": {
+  "JW3zXgn1hgU": [
+   "My eyelashes are really sensitive. I can't do false lashes that I apply myself. I can't do the glue.",
+   "It does not come with instructions.",
+   "I don't have any stinging in my eyes."
+  ],
+  "12dTKpvKhyw": [
+   "It's supposed to be all-natural and does gets the same results as Latisse. I have used Latisse for gosh, probably 10 years.",
+   "So I tried this for only 5 days. And the reason only 5 days is because it burned.",
+   "This is way more of a burn.",
+   "I would also pass on this one.",
+   "I wouldn't spend my money on this one."
+  ],
+  "9ehrWmpxQZQ": [
+   "as far as i could find there are no scientific studies linking any of these ingredients i'm going to talk about with enhanced lash growth",
+   "peptides are great because they give strength to the lashes but not shown in scientific studies as far as i could find as to an actually enhancing lash growth",
+   "these natural lash serums you're not going to see the tremendous growth that you do with the prostaglandins",
+   "avoid things like lash tints lash lifts and extensions those are all going to cause lash drop out eventually"
+  ]
+ },
+ "comments": [
+  {
+   "video": "yh0CqruLCVQ",
+   "author": "@eridelae",
+   "date": "~2025",
+   "likes": null,
+   "text": "DONT BUY THIS PRODUCT!!! IT'S A SCAM. I BOIUGHT IT ON 26 OF NOVEMBER AND I HAVEN'T RECIEVED ANYTHING. THEY KEEP SENDING ME EMAILS THAT THE DELIVERY WASN'T POSSIBLE ... I TRIED TO WRITE TO THE EMAIL THEY HAVE FOR CUSTOMER SERVICE AND GOT NO ANSWER AT ALL!!!!"
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@rachelathome7516",
+   "date": "~2021",
+   "likes": 167,
+   "text": "I suffered from this with generic latisse which I probably used for 6-9 months.  I had peri-orbital fat loss and the blood vessels in my upper lids were very pronounced. I also had blurred vision.  It got so bad I had to stop. Luckily the “veiny eyelids” did get better but it took a good year to correct."
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@marystewart5555",
+   "date": "~2021",
+   "likes": 334,
+   "text": "Can you share brands that are safer that some of your patients have had success with please?"
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@jazzogbonnie",
+   "date": "~2021",
+   "likes": 295,
+   "text": "Thanks for explaining that! Have you ever thought about posting a video talking about the lash serums that are safe to use? ..."
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@carynnoah1961",
+   "date": "~2021",
+   "likes": 128,
+   "text": "Can you please recommend a few lash serums that work, and don't have any of the harmful ingredients?"
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@isie.",
+   "date": "~2023",
+   "likes": 51,
+   "text": "I have light blue eyes and I‘m scared to ruin my eye color just for longer lashes."
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@JAllen-tx3di",
+   "date": "~2023",
+   "likes": 225,
+   "text": "Castor oil definitely helped my eye lashes to grow. ... They don’t make them thicker though, just longer. ... I was considering latisse ... but after this video I see it’s not with the risk."
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@PanDeSal.28",
+   "date": "~2022",
+   "likes": 12,
+   "text": "i'm a lash tech and usually i get clients who come to me with damaged natural lashes from other salon's lash extensions service. ... they tell me that they either notice their eyelids and lower lash skin darkens."
+  },
+  {
+   "video": "tiRLNc6_A0E",
+   "author": "@enchantedforestcreature",
+   "date": "~2021",
+   "likes": 29,
+   "text": "I have been using neulash for about 3 months now. I haven't noticed any of these effects"
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@elleo3441",
+   "date": "~2023",
+   "likes": 28,
+   "text": "I’ve only been using grandelash for two weeks, and already I started noticing the skin around my eyes looking textured with fine lines. ... I can feel the orbital bone under and on the sides, wasn’t like this before."
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@teresamcg431",
+   "date": "~2023",
+   "likes": 31,
+   "text": "After 2 years of using Latisse, I developed yellow-is discoloration on my eyelids at the level my lashes touched my lids. It’s been 5 years & they haven’t gone away."
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@carolynhunt7333",
+   "date": "~2023",
+   "likes": 45,
+   "text": "I’ve been using Latisse for 17 years with none of these side effects. ... By the way, I started using it in my late fifties."
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@modelmindsstudio",
+   "date": "~2023",
+   "likes": 68,
+   "text": "I have extremely saggy upper eye lid skin and hooded eyes. I actually like the slight fat loss I get from using Latisse. It’s like a chemical blepharoplasty."
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@LadyCatherine538",
+   "date": "~2023",
+   "likes": 197,
+   "text": "My glaucoma has worsened so these drops were added two months ago. ... My baby blues may alter in pigment but seeing the world clearly is a gift."
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@kellyholtman8403",
+   "date": "~2023",
+   "likes": 71,
+   "text": "I was losing eyelashes on one eye only. The eye doctor told me it was a result of getting older and offered no remedy. The dermatologist put me on Latisse and the condition continued to get worse. ... we all have mites on our skin and eyelashes."
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@hellocococakes",
+   "date": "~2023",
+   "likes": 22,
+   "text": "I don't believe the risk is low at all. Happened to me -- the change is subtle over time"
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@vmmurphy3918",
+   "date": "~2023",
+   "likes": 6,
+   "text": "I had the browning of the skin. It was a bummer"
+  },
+  {
+   "video": "pwgJzhK_uo0",
+   "author": "@DoctorEyeHealth (verified)",
+   "date": "~2023",
+   "likes": 15,
+   "text": "That is why many eye docs never prescribe this type of medication for just one eye."
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@pinkpeony5302",
+   "date": "~2020",
+   "likes": 737,
+   "text": "I have used lash serums for years. ... I noticed my eyes becoming a bit more bloodshot ... I had grown like a short, sharp, stubby second row of lashes on the inside of my eyelids that were rubbing on the surface of my eyes ... I stopped using my serum."
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@Hopeful-w7h",
+   "date": "~2020",
+   "likes": 1500,
+   "text": "I’ve considered a lash serum,  but when I did my research and read about the side effects, I decided my lashes were ok as is."
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@sharischmidt4712",
+   "date": "~2020",
+   "likes": 862,
+   "text": "I tried caster oil and didn't have longer lashes just greasy eyeballs"
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@amycortez3289",
+   "date": "~2020",
+   "likes": 522,
+   "text": "GrandeLash has given me the lashes of my dreams. ... But I have been wondering why my eyelids and entire eye area has been so dark."
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@loreej2479",
+   "date": "~2020",
+   "likes": 307,
+   "text": "I’m 61 and have been using Grande Lash for 3 years. I have had NO PROBLEMS and for the first time have LONG, THICK lashes. I love it and find it necessary to use only once a week now to maintain my LASHES"
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@j1morgan1",
+   "date": "~2020",
+   "likes": 142,
+   "text": "How is something with so many side effects & some serious additives even allowed to be sold."
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@moriah6071",
+   "date": "~2020",
+   "likes": 27,
+   "text": "I tried the Rodan & Fields Lash Boost and it did work ... However, now I have dry eye syndrome!"
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@vfonseca91",
+   "date": "~2023",
+   "likes": 3,
+   "text": "I have used Grandelash for about 4 years, and the redness around my eyes has gotten so much worse. People have asked me if I am wearing red eye-shadow"
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@erinbrochovic6154",
+   "date": "~2020",
+   "likes": 123,
+   "text": "I have been using revitalash and M2 lashes for over 10 years and never had any problems"
+  },
+  {
+   "video": "ugIVUGBgxoA",
+   "author": "@simply-living8523",
+   "date": "~2021",
+   "likes": 25,
+   "text": "I actually got Grandelash and have seen my eyelashes growing but I do have some of these side affects. ... I will be throwing it out."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@valeriezaverukha433",
+   "date": "~2024",
+   "likes": 387,
+   "text": "After using this product for less than two weeks, my lashes got objectively longer. ... I do believe the process of growing slows down when you stop using the product though."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@Pinkflo363",
+   "date": "~2024",
+   "likes": 149,
+   "text": "I’ve been using it and have surprisingly seen growth. I only use it maybe once or twice a week though because it did irritate my eyes."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@sebumpostmortem",
+   "date": "~2024",
+   "likes": 112,
+   "text": "IT WORKS ... In my case they are no longer, no thicker. Just all of them stay with me until the end."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@notapplicable9970",
+   "date": "~2024",
+   "likes": 41,
+   "text": "Used it for about 6 months. No change in lash fullness or growth whatsoever."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@Katepwe",
+   "date": "~2024",
+   "likes": 33,
+   "text": "I’d love to have my eyebrows back…..they all fell out during the menopause transition"
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@BookishBeautyLover",
+   "date": "~2024",
+   "likes": 44,
+   "text": "I was always afraid of the other products. I’m ok with it just conditioning and reducing breakage as that is one of my biggest issues."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@annettehankins3268",
+   "date": "~2024",
+   "likes": 69,
+   "text": "I’m afraid of lash growth serums. In my opinion, Your eyes are too precious to take a chance."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@pamela5450",
+   "date": "~2024",
+   "likes": 19,
+   "text": "About 2 years ago, 90% of my lashes on my right eye fell out. ... I started using The Ordinary’s Lash and Brow Serum and within a month I started seeing growth."
+  },
+  {
+   "video": "MC4gZn2xjWc",
+   "author": "@GRBsPullUp",
+   "date": "~2024",
+   "likes": 59,
+   "text": "i think one needs to use many tubes to be able to catch the hairs during their growth phase"
+  },
+  {
+   "video": "LyTIspJDdmA",
+   "author": "@JustaSassAssGirl",
+   "date": "~2018",
+   "likes": 1,
+   "text": "I switched from Revitalash to Babe Lash (was a gift) and like it even better. My lashes are longer than when using Revitalash. I see no difference in the thickness though."
+  },
+  {
+   "video": "LyTIspJDdmA",
+   "author": "@larabarsan1227",
+   "date": "~2021",
+   "likes": 0,
+   "text": "Years ago I tried Castor oil and I agree with you, it is not that effective"
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@PanamaRose",
+   "likes": 156,
+   "date": "~2022",
+   "text": "I was losing my eyelashes, but it has improved since I got my Vit D level up. ... He told me that there are too many side effects and it's not worth using."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@amitysantalucia6265",
+   "likes": 2,
+   "date": "~2026-05",
+   "text": "My eyes are naturally dark green ... After using it for about six months, I noticed my eyes had darkened slightly ... I now use The Ordinary Multi-Peptide Lash & Brow Serum"
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@ILuvSlvrShuz",
+   "likes": 47,
+   "date": "~2022",
+   "text": "I stopped using Revitalash when  I was told it was most likely the cause of my dark brown under-eye circles.  I stopped using Revitalash and brown shadows cleared."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@staceyo1723",
+   "likes": 33,
+   "date": "~2022",
+   "text": "I had very heavy hooded eyes and lost all the fat in my upper lid so became hollow with tons of loose skin.   After stopping, some fat has come back but not much."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@radiandrea",
+   "likes": 21,
+   "date": "~2022",
+   "text": "Lash serum caused me blurry vision and itchy eyes."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@susanwong6471",
+   "likes": 32,
+   "date": "~2022",
+   "text": "they made my eye lashes fuller, longer and more dense but it also made my eyes bloodshot. People noticed my red eyes more so then my new long lashes."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@dk1472",
+   "likes": 10,
+   "date": "~2022",
+   "text": "It changed my color from a pretty brown to a an almost black and it'll never change back."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@deniseshore9637",
+   "likes": 142,
+   "date": "~2022",
+   "text": "This explains my eye aging, redness and irritation. Ive been using this since it came out."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@Paintlady1",
+   "likes": 13,
+   "date": "~2022",
+   "text": "I've tried Latisse and several others but every serum I've ever tried made my eyes so red, irritated and tired looking."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@itsacarolbthing5221",
+   "likes": 12,
+   "date": "~2022",
+   "text": "Under eye darkness, bags, thinning in the skin all around my eye and wrinkling on my eyelid. Two years after stopping use, and I still have all of these."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@justlivin404",
+   "likes": 2,
+   "date": "~2025",
+   "text": "Hallowed and sunken eyes, red underneath my eye. ... I stopped Latisse 4 years ago, but my eyes never went back to looking normal."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@lwk7140",
+   "likes": 12,
+   "date": "~2022",
+   "text": "When I was using lilash, it would constantly make my eyelids and the skin around it turn into a purple hue."
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@StelmaDesigns",
+   "likes": 7,
+   "date": "~2022",
+   "text": "I was shocked and angry to see Revitalash on that list!  How slimy they added this ingredient in another form and didn't disclose! ... I am 60 but thankfully my hooded dyes have not had the side effect you mention"
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@energeticsoulhealer888",
+   "likes": 8,
+   "date": "~2022",
+   "text": "I knew about Latisse's side affects, which is why I never used it, but to find out the same ingredients are in others, and not even listed. WTH?!!!"
+  },
+  {
+   "video": "5bNNbQuPYIQ",
+   "author": "@Jerseygirlinberkeley1",
+   "likes": 51,
+   "date": "~2022",
+   "text": "As someone who suffers from glaucoma, I've wondered why my eyes seem to be aging so much ... The medicine I use is what these serums are based upon."
+  },
+  {
+   "video": "JAkepikAVSc",
+   "author": "@KayScorp",
+   "likes": 1,
+   "date": "~2021",
+   "text": "The serum on my lashes was making my eyes dark so I'm going to use it on my eyebrows for now instead"
+  },
+  {
+   "video": "JAkepikAVSc",
+   "author": "@julieturner1541",
+   "likes": 1,
+   "date": "~2021",
+   "text": "I find all lash/ brows serums work for a while and then you have to switch it up."
+  },
+  {
+   "video": "JAkepikAVSc",
+   "author": "@janetwilliams4475",
+   "likes": 0,
+   "date": "~2021",
+   "text": "I have friends that use lash serums that work great but cost 150.00."
+  },
+  {
+   "video": "-CkalOVFWn8",
+   "author": "@UrsulaNRW",
+   "likes": 15,
+   "date": "2026-10-26",
+   "lang": "de",
+   "text": "Das Wimpernserum, das vor einiger Zeit gehypt wurde,  hat für extrem lange Wimpern gesorgt. Aber kurz darauf fielen sie aus und danach waren sie nicht mehr so dicht und lang wie davor. Bei meiner Tochter war es genauso."
+  },
+  {
+   "video": "-CkalOVFWn8",
+   "author": "@susannemirjan3959",
+   "likes": 1,
+   "date": "2026-10-27",
+   "lang": "de",
+   "text": "Ich bin 66 Jahre alt ... Auch bei mir haben die Wimpernverlängerungen nicht viel gebracht. Meine Wimpern waren zu fein und sie sind sehr schnell ausgefallen. ... Was ich ebenfalls probiert habe, waren Wimpernserum. Das hat deutlich besser geklappt und zeitweise waren meine Wimpern wirklich wieder viel dichter und länger. Aber man muss das täglich anwenden und das ist ein bisschen mühsam."
+  },
+  {
+   "video": "-CkalOVFWn8",
+   "author": "@Florence-c1f",
+   "likes": 9,
+   "date": "2026-10-26",
+   "lang": "de",
+   "text": "Bei mir sind vor Jahren ein Großteil meiner Wimpern ausgegangen, nachdem ich Medikamente gegen ein Pilzinfektion ... einnehmen musste. Die Wimpern sind wieder nachgewachsen, aber leider sind sie seitdem auch dünner geworden."
+  },
+  {
+   "video": "-CkalOVFWn8",
+   "author": "@brigitteschadeberg1584",
+   "likes": 5,
+   "date": "2026-10-26",
+   "lang": "de",
+   "text": "Mit Ü70 sind meine Hände nicht mehr so ruhig, das tuschen ist für mich eine  Herausforderung."
+  }
+ ],
+ "gemini_watch": {
+  "JW3zXgn1hgU": "Packaging text legible: 'Luxe', 'LUXE EYELASH SERUM', '3ml'. Ingredient list, warnings, website, origin, batch/expiry not legible or not shown. Black cylindrical bottle, rose-gold/pink lettering, fine eyeliner-type brush. (Gemini said liquid looked light orange/amber on the brush; presenter says on camera 'it's completely clear'.)",
+  "12dTKpvKhyw": "Box: 'Luxe', 'Luxe Eyelash Serum', tagline 'Natural ingredients for longer and fuller lashes', LC logo, '3ml / 0.1 fl oz'. Ingredient list on back of box visible but NOT legible. Presenter estimated age 45-55."
+ }
+}
