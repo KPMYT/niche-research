@@ -67,7 +67,7 @@ Think of the skin on your cheek as a thick winter coat and the skin under your e
 | **It moves all day.** You blink thousands of times, smile and squint. | Lines form where skin folds over and over, like a crease in a shirt you wear every day. | Dr Dray: wrinkles come from "chronic creasing of the skin from expression throughout our lifetime coupled with age related decline in collagen" (si9l1VZtzvQ) [M] |
 | **It reacts easily.** | Things that are fine on the cheeks can cause a rash on the eyelids. | Dr Sam Ellis: "your eyelids are like your first indicator that something is wrong in your skincare routine" (XKROvYsp0QM) [M] |
 | **It traps things.** | Product, makeup and allergens collect in the folds. | Dr Dray: "You have hollows around your eye that can trap things... The way the muscles of your eyes contract to blink... it ends up sucking stuff up even closer into the skin." (si9l1VZtzvQ) [M] |
-| **Its oil glands help keep tears healthy.** The glands in the eyelid rims (meibomian glands) make the oil layer of your tears. | Strong products near the eye, especially retinol, can upset those glands and make dry eye worse. | Dr Rupa Wong, ophthalmologist, N7Zl2keLo1M: "retinol actually can be really toxic to the meibomian glands and the goblet cells" [M] |
+| **Its oil glands help keep tears healthy.** The glands in the eyelid rims (meibomian glands) make the oil layer of your tears. Goblet cells, in the thin wet lining of the eye and inner lids, make the tears' slippery mucus layer. | Strong products near the eye, especially retinol, can upset those glands and cells and make dry eye worse. | Dr Rupa Wong, ophthalmologist, N7Zl2keLo1M: "retinol actually can be really toxic to the meibomian glands and the goblet cells" [M] |
 
 ### 1.3 What is under the skin: the layers, in plain words
 
@@ -122,7 +122,7 @@ Why moisture alone makes lines look smaller: when the top layer of skin is full 
 1. **The Korean "pink stick".** Kahi Wrinkle Bounce Multi Balm took off in Korea around 2021 to 2022 through product placement in K-dramas (Korean TV dramas). Cassandra Bankson, medical esthetician (a skin-care specialist trained to work alongside doctors, not a doctor): "that pink stick that you see everywhere ... took off back in 2022" (LmP5MWmL8cs, 111,788 views). She says its "sales literally went from about a hundred thousand" to "12 million" (the captions write "bombs", probably "balms"). She gives no source for those figures.
 2. **"Functional cosmetics" in Korea.** Korea's food and drug regulator (the MFDS) lets products with approved ingredients make official anti-wrinkle claims. Adenosine is one of those ingredients, reportedly at 0.04% (secondary sources only: dermfnd.org, mirai-skin.com, buybeautykorea.com, via WebSearch). The same secondary sources also list retinol, retinyl palmitate and polyethoxylated retinamide (two other lab-made forms of vitamin A) as approved anti-wrinkle ingredients. So "adenosine is the only one" (a Luxe claim) looks wrong [R]. The official MFDS list was not pulled.
 3. **The 2025–2026 TikTok Shop and Amazon wave.** Dr.Melaxin's calcium stick is labelled "[TikTok Bestseller]" on its own shop. Medicube's PDRN pink stick was added to its US shop in July 2026.
-4. **Ads that promise too much.** The stick wave came with "Botox in a stick" and "filler alternative" ads. They drew a backlash, like James Welsh's "THE BIGGEST SKINCARE SCAM ON TIKTOK?! Who Are Dr Melaxin?" (TybFB4gyKcg, 403,792 views).
+4. **Ads that promise too much.** The stick wave came with "Botox in a stick" and "filler alternative" ads. (Botox is an injection, given by a doctor or nurse, that relaxes muscles so lines soften; filler is a gel injected to fill hollows.) They drew a backlash, like James Welsh's "THE BIGGEST SKINCARE SCAM ON TIKTOK?! Who Are Dr Melaxin?" (TybFB4gyKcg, 403,792 views).
 5. **The PDRN fashion.** PDRN (salmon DNA) is the 2026 ingredient of the moment. The earlier pads report found PDRN searches up 609.8% year on year (Spate, a company that tracks beauty search trends, via `02-pdrn-toner-pads.md`). Luxe's newer pack says "PDRN extract".
 6. **Luxe's timing.** The stick was first published on the luxeresearchlab.com shop on 2 March 2026 (that listing was created on 3 December 2025); a second listing was created on 15 March 2026 [M: shop product data, `data/reviews/eye-balm/luxeresearchlab-products-2026-10-31.json`]. The first independent blog review is dated 8 April 2026 (earlier report §1.2). It is a late entry in the stick wave. [R]
 
@@ -155,7 +155,7 @@ Prices were pulled 2026-10-31 and come from the earlier report §5 unless marked
 | **Tinted eye cream / brightener** | A lightly coloured, light-reflecting cream | Thin, sheer | Mild darkness without a cakey look | e.l.f. eye brightener, "the $7 solution" (Kim Sullins, eA9YIs-49sc) [M] |
 | **Colour corrector** | A peach or orange cream that cancels blue | Creamy makeup | Blue or purple circles under concealer | e.l.f. Camo Corrector (Kim Sullins; price not stated) |
 | **Concealer** | Skin-coloured makeup that covers | Creamy or liquid | Covering colour | many |
-| **Prescription creams** | Tretinoin, hydroquinone, topical estrogen | Cream | Lines, pigment, menopausal thinning, under a doctor's care | price not found |
+| **Prescription creams** | Tretinoin (strong vitamin A), hydroquinone (a strong skin-lightening cream), topical estrogen (the female hormone, as a cream) | Cream | Lines, pigment, menopausal thinning, under a doctor's care | price not found |
 
 ### 1.7 Glossary: every word you will hear
 
@@ -438,7 +438,7 @@ The brand's own directions are short: "Dab gently around the under-eye area ... 
 | Using it with retinol on the same spot from day one | Stinging and peeling | See 4.3: alternate nights or "buffer". |
 | Not patch-testing | A rash on the eyelids is miserable and slow to clear | Test on the jaw or behind the ear for 2–3 days first [R]. |
 | Using a friend's stick | Germs | Your own stick only. |
-| Using it on broken, red or itchy eyelid skin | Can sting and worsen eczema | See a doctor about the rash first. |
+| Using it on broken, red or itchy eyelid skin | Can sting and worsen eczema (a long-lasting dry, itchy, red skin condition) | See a doctor about the rash first. |
 | Leaving it in a hot car or on a sunny windowsill | It melts and loses shape | Store it at room temperature [R]. |
 | Pulling the skin tight to apply it | More stretching of thin skin | Look up into the mirror instead; the skin flattens on its own [R]. |
 
@@ -493,7 +493,7 @@ Note: the second Luxe shop says to put the balm "before moisturizer". Either wor
 | Combination | Risk | What to do |
 |---|---|---|
 | **Retinol / retinal / tretinoin near the eyes** | Stinging, dryness, peeling, dry eye | Use the retinoid at night on alternate nights, or "buffer" it: balm first, retinoid on top. Dr Sam Ellis: "applying your moisturizer first under your eyes... and then layering the normal facial retinoid... the moisturizer underneath it will kind of act as a buffer" (XKROvYsp0QM) [M]. People with dry eye: skip retinoids near the eyes. Dr Sam Ellis: "for people who are prone to dry eye, I don't recommend putting a retinoid near your eyes" [M] |
-| **Exfoliating acids** (glycolic, lactic, salicylic) and acid pads on the eyelids | Stinging, redness | Keep them on the face, away from the lids. Dr Ellis does say AHAs can be brought "up under your eyes... always stay over the bone" [M]. For beginners I'd say: don't [R] |
+| **Exfoliating acids** (glycolic, lactic, salicylic; glycolic and lactic acid are AHAs, alpha hydroxy acids) and acid pads on the eyelids | Stinging, redness | Keep them on the face, away from the lids. Dr Ellis does say AHAs can be brought "up under your eyes... always stay over the bone" [M]. For beginners I'd say: don't [R] |
 | **Another balm with retinol or essential oils** (e.g. Medicube's PDRN stick) | More chances of irritation | Use one balm, not two [R]. |
 | **Instant-tightening creams** (film-formers) | Water-based products break the film. Dr Sam Ellis: "as soon as you add water to that ... it breaks that netting apart" [M]. A balm on top may also stop it setting [R]. | Use a tightener on its own on special days, not layered with balm. |
 | **Eye drops** | Balm on the lids can get into the eye with the drops | Put drops in first and wait a few minutes before applying balm [R]. |
@@ -601,7 +601,7 @@ Note: the second Luxe shop says to put the balm "before moisturizer". Either wor
 **4. The cheek fat below shrinks, so a groove appears.** Dr Karam: the cheek fat pad (SOOF) "starts to diminish and as a result of that eyes start to look hollow". He describes the over-50 eye as "a combination of excess soft tissue and deficient fat": bags above, hollow below (Z1P5oKFQokw, 1,223,488 views) [M].
 
 **5. The bone changes.**
-- In CT scans of the same 96 adults taken about 11 years apart, the "Orbital aperture area (+91 mm2)" (the opening of the eye socket) grew with age (Sifil & Kahn 2026, Aesthet Surg J, PMID 40658792) [M].
+- In CT scans (3-D X-ray scans) of the same 96 adults taken about 11 years apart, the "Orbital aperture area (+91 mm2)" (the opening of the eye socket) grew with age (Sifil & Kahn 2026, Aesthet Surg J, PMID 40658792) [M]. Note the group: 96 Caucasian adults (56 men, 40 women) whose average age at the first scan was about 35 (34.71), and "Most changes were most pronounced in participants aged 30 to 50 years". So this shows the bone change starting well before 50, not only after it.
 - In 240 orbits, "The female bony orbit expands with age and is associated with a more anterior position of the globe" (the eyeball sits further forward) (PMID 35749164) [M].
 - Dr Idriss: "our bone structure, the frame holding our face starts to get hollower and starts to slowly recede" (RVADMAuXNKM) [M].
 - **In plain words [R]:** the "picture frame" of bone around the eye gets bigger, so the soft tissue sinks into it. That deepens the hollow.
@@ -638,7 +638,9 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 
 - **What it is.** A general look of fatigue, made up of the problems below.
 - **Why it happens.** A long lid-cheek junction, hollows, bags, darkness and crepey skin (sections 5.3 and 6.2–6.10).
-- **How it feels [M].** Clinicians report patients worrying about "under-eye hollows (91%), dark eye circles (80%), and looking tired (60%)" (survey of 39 practitioners, PMID 38489829). Dr Idriss: "you have been personally victimized by the question, "Are you tired?" Despite the fact that you had 10 hours of sleep" (RVADMAuXNKM). The Luxe page itself leads with: "If you sleep 7 hours and still look tired, it's not the sleep."
+- **How it feels [M].**
+  - Viewers' own words: "I hate it when people say, "You look tired", and I'm not." (@ScottishWoman24, 307 likes, cNlcapwWdaw). "Without doing my under eyes people look at me and exclaim, "Oh. My. Goodness! Are you okay??! Did someone hit you???" Uuuugh, that drives me CrAzY!" (@krakked88, 5 likes, MX95EGYDkkU). [reviews #355, #307]
+  - Clinicians report patients worrying about "under-eye hollows (91%), dark eye circles (80%), and looking tired (60%)" (survey of 39 practitioners, PMID 38489829). Dr Idriss: "you have been personally victimized by the question, "Are you tired?" Despite the fact that you had 10 hours of sleep" (RVADMAuXNKM). The Luxe page itself leads with: "If you sleep 7 hours and still look tired, it's not the sleep."
 - **What people try, and why it fails [R].** More sleep, more concealer and pricey creams each fix at most one layer.
 - **What this balm can do [R].** It fixes the "dry, crepey surface" layer, which is often the layer concealer sits on. It does not fix the others.
 
@@ -649,14 +651,14 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
   - genetics: Doctorly, "A lot of people have this just genetically" (74eZe8KsHsw);
   - sun: "sun exposure with time ... can lead to basically tanning of this area, and a lot of people neglect to put sunscreen on the areas around their eyes";
   - rubbing, eczema and allergy, which leave dark marks: "allergies to your skin care products ... Allergy to your nail products, actually very common cause of eyelid reactions";
-  - in deeper skin tones, "pigmentary demarcation lines" (Dr Dray, si9l1VZtzvQ).
+  - in deeper skin tones, "pigmentary demarcation lines" (a natural, sharp border between darker and lighter skin; Dr Dray, si9l1VZtzvQ).
 - **How it feels [M].** "I have fought DARK circles ALL MY LIFE!! I just turned 60" (@kristengomerimhof4633, vQ1wyKafvWI, from `05` report). "I have hereditary dark circles and now eye bags/ lines at 48." (@dominiquedeangelo2616, 21 likes, QbvzKn9GG_w).
 - **What people try, and why it fails [R].** Thick concealer: covers the colour but shows texture (Wayne Goss: concealer makes skin "look more lined"). Expensive "brightening" eye creams: slow, and useless without sunscreen.
 - **What can fix it [M]:**
   - **Daily sunscreen**, tinted if possible (the iron oxides block visible light): "use a tinted sunscreen... Tinted because they contain iron oxides" (Doctorly).
-  - **Brightening creams**, slowly: niacinamide, vitamin C, azelaic acid, kojic acid, tranexamic acid, alpha arbutin, retinoids (Doctorly; Dr Dray).
-  - **Hydroquinone** only with a dermatologist: "you don't really want to use that longer than 2 months without really talking to a dermatologist" (Doctorly).
-  - **Chemical peels and lasers.** The systematic review: "Various topical creams and chemical peels are useful in treating pigment-based POH" (PMID 32740208).
+  - **Brightening creams**, slowly: niacinamide, vitamin C, azelaic acid, kojic acid, tranexamic acid, alpha arbutin, retinoids (Doctorly; Dr Dray). All of these are ingredients that slow the skin's making or spreading of brown pigment; azelaic and kojic acid come from grains and fungi, tranexamic acid is also a medicine, and alpha arbutin comes from bearberry-type plants.
+  - **Hydroquinone** (a strong skin-lightening cream) only with a dermatologist: "you don't really want to use that longer than 2 months without really talking to a dermatologist" (Doctorly).
+  - **Chemical peels and lasers.** A chemical peel is an acid put on in a clinic to make the top layer of skin peel off and regrow. A systematic review (a study that gathers and weighs all the earlier studies on one question) found: "Various topical creams and chemical peels are useful in treating pigment-based POH" (POH: periorbital hyperpigmentation, brown darkness round the eyes; PMID 32740208).
 - **This balm [R].** It helps only if niacinamide is truly present at a useful level. It can't be checked, and one Luxe shop leaves it out. **Weak.**
 
 ### 6.3 Dark circles: the blue or purple (vascular, thin-skin) kind
@@ -667,11 +669,11 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 - **What people try, and why it fails [R].** A skin-coloured concealer alone: blue shows through as grey. Brightening creams: they target brown, not blue.
 - **What can fix it [M]:**
   - **Colour corrector first, then concealer.** Kim Sullins: an "orange-based corrector... is going to cancel out those dark blue, brown undertones" (eA9YIs-49sc).
-  - **Caffeine and vitamin K creams**, a little and temporarily: "caffeine-based creams that cause vasoconstriction of the blood vessels ... at least temporarily while these caffeine creams are on" (Doctorly). One small trial (11 women) of a 3% caffeine + 1% vitamin K pad found less darkness and fewer wrinkles at 4 weeks (PMID 25625116), but it was small and single-blind.
+  - **Caffeine and vitamin K creams**, a little and temporarily: "caffeine-based creams that cause vasoconstriction of the blood vessels ... at least temporarily while these caffeine creams are on" (Doctorly). One small trial (11 women) of a 3% caffeine + 1% vitamin K pad found less darkness and fewer wrinkles at 4 weeks (PMID 25625116), but it was small and single-blind (the women didn't know which product they had, but the researchers did).
   - **Treat allergies**: an antihistamine (Dr Sam Ellis; Doctor Eye Health).
   - **Retinoids** to thicken the skin slowly: "they will thicken the skin in the area ... over long period of time" (Doctorly).
-  - **Lasers** that target vessels: "If you want to eliminate it permanently, then laser that targets blood vessels" (Doctorly); Dr Idriss names the pulsed dye laser. The review: lasers are "mildly to moderately beneficial for both vascular and pigment types" (PMID 32740208).
-  - **PRP** injections: Dr Sam Ellis says "It really helps with dark circles and improving the quality of the skin".
+  - **Lasers** that target vessels: "If you want to eliminate it permanently, then laser that targets blood vessels" (Doctorly); Dr Idriss names the pulsed dye laser (a laser whose light is soaked up by red blood, so it shrinks small vessels). The review: lasers are "mildly to moderately beneficial for both vascular and pigment types" (PMID 32740208).
+  - **PRP** injections (platelet-rich plasma: your own blood, spun to concentrate it, then injected): Dr Sam Ellis says "It really helps with dark circles and improving the quality of the skin".
 - **This balm [R].** **Poor.** Nothing in its named list targets vessels. A moist surface reflects light a little more evenly, which is a tiny optical help.
 
 ### 6.4 Dark circles: the shadow kind (structural)
@@ -721,7 +723,7 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
   - "I WANTED AN EASY FIX ! ! ! But thank you for your honesty" (@boblossie3192, 56 likes, hql6k88BKP8)
 - **What people try, and why it fails [M].** Creams. Doctor Eye Health: they are "only temporary as a fix they ultimately don't solve the issue". A commenter: "You can't treat eyebags with cream and stuff, as you get older." (59 likes, iwyLM5aJ7mE). An optometrist commenter: "There are so many myths about the fluid or fatty tissue around the eye being "removable" with products." (@maryhemphill9419, 73 likes, from `05`).
 - **What can fix it [M]:**
-  - **Instant tighteners**, for a few hours: a film that "tightens and basically causes the under eyes to essentially just collapse in on itself" (Doctorly). Good for "a photo shoot ... a wedding". Downsides: it can flake and cause acrylate allergy. One 67-year-old viewer uses one: "Loreal "Revitalift" eye bag instant eraser... It will stay put up to 10 hours." (@Babsrunning).
+  - **Instant tighteners**, for a few hours: a film that "tightens and basically causes the under eyes to essentially just collapse in on itself" (Doctorly). Good for "a photo shoot ... a wedding". Downsides: it can flake and cause acrylate allergy (an allergy to the plastic-like film-formers in these creams, the same family as the glue in nail gels). One 67-year-old viewer uses one: "Loreal "Revitalift" eye bag instant eraser... It will stay put up to 10 hours." (@Babsrunning).
   - **Filler** in the groove beneath a bag, to soften the edge. Dr Chua: if the tear trough is "more sunken in then the bulge of a fat pad may appear more prominent" (nj_VYMVtKrQ).
   - **Surgery: lower blepharoplasty.** Dr Karam does it "from the inside of the eyelid" (transconjunctival), so there is no outside scar, and "trim a little bit of that puffy fat pad away". Viewer stories: "I had a lower lid blepharoplasty done at age 66 and never regretted it... now I look like the rest of the population" (@PigeonsPie1, 164 likes, hql6k88BKP8). "I had my under eye fat removed by a plastic surgeon... Once the fat was removed, it never came back. That was 35 years ago." (@lindamarie8308, 517 likes).
   - **Cost** is a barrier: "paid $150 consult fee only for them to tell me that the total cost was around 16k" (@rtbrain, 267 likes; a viewer's quote, not a price list). Typical surgery prices: not found.
@@ -734,12 +736,12 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 - **How it feels [M].** "Hollowing under the eye is a big problem." (@FLgurl100). "When I turned 48, my face just fell 😩 Bags, jowls, the whole 9!" (@RioGirl16, 31 likes, vQ1wyKafvWI; from `05`).
 - **What people try, and why it fails [R].** Plumping creams and "filler in a stick" balms. They can't add volume. The plumping is surface water.
 - **What can fix it [M]:**
-  - **HA filler, in small amounts.** A meta-analysis of 31 reports (2,556 people) gave a pooled satisfaction rate of 91.0%. Side effects: swelling 19.2%, bruising 18.4%, redness 7.1%, lumps 5.3%, blue tint (Tyndall effect) 0.9% (Liu 2024, PMID 37684413).
+  - **HA filler, in small amounts.** A meta-analysis (a study that adds up the results of many earlier studies) of 31 reports (2,556 people) gave a pooled (combined) satisfaction rate of 91.0%. Side effects: swelling 19.2%, bruising 18.4%, redness 7.1%, lumps 5.3%, blue tint (Tyndall effect) 0.9% (Liu 2024, PMID 37684413).
   - **Doctors' cautions on filler:**
     - Dr Karam: overfilled HA under the eye "becomes puffy and it actually becomes boggy and blue looking". He suggests "between a quarter to a third of a syringe of filler per side". Filler suits mostly "people in their 30s... maybe early 40s".
     - Dr Idriss: "a tiny amount can look beautiful in the right person... but too much of it can make somebody look puffy, heavy, or actually more tired" (c6G0kjKQNGw).
     - Dr Sam Ellis says she "often recommend[s] against" under-eye filler (XKROvYsp0QM).
-  - **Fat transfer:** your own fat moved from the thighs or stomach. Dr Karam calls it "a permanent way to replace lost volume". Dr Idriss had nano-fat under the eyes at 42 (c6G0kjKQNGw).
+  - **Fat transfer:** your own fat moved from the thighs or stomach. Dr Karam calls it "a permanent way to replace lost volume". Dr Idriss had nano-fat (your own fat, filtered into a very fine liquid and injected) under the eyes at 42 (c6G0kjKQNGw).
   - **Treating the cheek** to support the area. Practitioners agree "that midcheek volume was critical when treating tear-trough depression" (100% of 39 surveyed, PMID 38489829).
 - **This balm [R].** **None.** At most, a moist surface makes the groove's edges a little softer to look at.
 
@@ -762,8 +764,8 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
   - **Prescription topical estrogen**: "it's particularly effective for the undereye area because that skin is so thin and responsive to estrogen" (Dr Sam Ellis).
   - **In-office treatments** (Dr Sam Ellis):
     - "one or two units of Botox right under the eye skin" for fine rippling;
-    - PRP or PRF;
-    - microneedling, light peels and lasers. "CO2 lasers ... are the most powerful things we can do to resurface the under eye area".
+    - PRP or PRF (your own blood, spun and injected);
+    - microneedling (a pen of tiny needles that makes small pricks so the skin repairs itself), light peels and lasers. "CO2 lasers ... are the most powerful things we can do to resurface the under eye area". (A CO2 laser burns away a very thin top layer of skin so new skin grows; "resurfacing" means exactly that.)
   - **Surgery**: a "skin pinch" to remove extra skin (Dr Karam).
 - **This balm [R].** **Its strongest use.** It smooths the look of crepiness for hours; adenosine may add a little over weeks; and being retinol-free makes it easy to use every day.
 
@@ -771,20 +773,28 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 
 - **What it is.** Fine lines are shallow wrinkles under the eye. Crow's feet fan out from the outer corners.
 - **Why it happens [M].** Expression plus collagen loss plus sun: "chronic creasing of the skin from expression throughout our lifetime coupled with age related decline in collagen, collagen loss due to well good oldfashioned sun" (Dr Dray, si9l1VZtzvQ). Poor sleep: "people who are sleep deprived have more prominent signs of photo aging and they have deeper wrinkles" (Dr Dray, a2Hot5ZsYU8).
-- **How it feels [M].** "62, no amount of collagen creams or fancy serums are going to make my skin bounce back to the skin of a 20 year old." (@K9que, 257 likes, hAc7jewvVWE).
+- **How it feels [M].** "62, no amount of collagen creams or fancy serums are going to make my skin bounce back to the skin of a 20 year old." (@K9que, 257 likes, hAc7jewvVWE). "I am 65, and no matter what I do, the fine and so fine lines show up." (@LindaLorge, 50 likes, MX95EGYDkkU).
+- **What people try, and why it fails [M quotes, R summary].**
+  - **Expensive eye creams.** "I've spent several hundred dollars on everything imaginable, and not one single thing has changed about my eyes." (@December074, 50, si9l1VZtzvQ). Moisture softens lines for hours, but most creams have no proven active at a useful strength.
+  - **Face retinol taken up to the eyes.** It works for some ("I've been using it for about 16 months now, and the area just keeps improving!", @TryMyMartini, 47, bQuVtFwFOA0) but dries and stings others ("I used to use a retinol undereye cream, and I felt I was going crazy because my eyes were getting so dry.", @ricky7111, XKROvYsp0QM).
+  - **"Botox in a stick" balms.** "Definitely not "botox " in a stick" (iHerb review of the Dr.Melaxin stick, 2026-03-06). They moisturise; they do not relax the muscles that make crow's feet.
 - **What can fix it [M]:**
-  - **Topical vitamin A**, "probably your best bet" (Dr Dray, a2Hot5ZsYU8). Use a gentle eye-strength version: "if you're using a retinol on your face it's ... very likely it's too strong for the thin skin of the eyelids". Dr Dray recommends fragrance-free retinol eye creams such as Neutrogena Rapid Wrinkle Repair eye and Avène's retinaldehyde eye cream.
+  - **Topical vitamin A**, which "probably is your best bet" (Dr Dray, a2Hot5ZsYU8). Use a gentle eye-strength version: "if you're using a retinol on your face it's ... very likely it's too strong for the thin skin of the eyelids". Dr Dray recommends fragrance-free retinol eye creams such as Neutrogena Rapid Wrinkle Repair eye and Avène's retinaldehyde eye cream.
   - **Moisturisers with humectants**: "moisturizers have humectants like hyaluronic acid that plump up those superficial skin cells" (Dr Dray).
   - **Sun protection and sleep** (Dr Dray: "aim for eight hours").
   - **Adenosine** (one trial, PMID 18489289). **Peptides**: a small trial (21 women, 8 weeks) found palmitoyl pentapeptide-4 cream beat the dummy for crow's feet (PMID 36909866).
-  - **In-office:** Botox for crow's feet; radiofrequency and resurfacing (Dr Dray, a2Hot5ZsYU8).
+  - **In-office:** Botox for crow's feet; radiofrequency (a device that heats the deeper skin to tighten it) and resurfacing (lasers or peels that remove the top layer so new skin grows) (Dr Dray, a2Hot5ZsYU8).
 - **This balm [R].** **Fair.** Instant softening from moisture; possibly a little more over 3–8 weeks.
 
 ### 6.10 Dryness and dehydration lines
 
 - **What it is.** Tight, flaky or papery skin with very fine lines that fade when the skin is moisturised.
 - **Why it happens [M].** Few oil glands; less water-holding after menopause (Dr Dray); harsh cleansers; dry air [R].
-- **How it feels [M].** "Super dry skin, regardless of trying to consistently hydrate" (@Luvbug64, eA9YIs-49sc, from `05`).
+- **How it feels [M].** "Super dry skin, regardless of trying to consistently hydrate" (@Luvbug64, eA9YIs-49sc, from `05`). "I find that it preps my parchment paper dry and thin inner under eye area beautifully" (@JLeigh75309, a dry-skinned "older person", utG6mhY7zGU).
+- **What people try, and why it fails [M quotes, R summary].**
+  - **Face moisturiser round the eyes.** It works for many, but some find it too light or irritating there: "my lower face skin likes the gel creams and my eyes like thicker moisturizer" (@aceee4386, 313 likes, si9l1VZtzvQ); "I used your beloved Neutrogena hydra boost gel cream fragrance free under my eyes, I woke up with burned and puffy and dry under eye." (@Ellie-es4ms, 7-iXff77NC0).
+  - **Light, watery eye serums.** "It does not have a hydrating effect." (Lookfantastic review of The Ordinary caffeine serum, 2026-08-31). Watery products add water but do not seal it in.
+  - **Drinking more water.** Commenters link it to darkness ("My dark circles are worse when I don't drink water", @westcoastvibes1193, ShE3IVbZRbo), but water drunk does not stop water leaving the skin surface. A seal on top does that. [R]
 - **What can fix it [M].** Occlusive protectants. Dr Dray: "petroleum jelly does not cause milia", and a glycerin skin protectant at night has been "an absolute gamechanger... for keeping eyelid skin hydrated" (si9l1VZtzvQ). Kim Sullins: "you have got to hydrate your under eyes. It's one of the most important things you can do for yourself." (eA9YIs-49sc).
 - **This balm [R].** **Good.** This is what a wax-and-oil stick does best.
 
@@ -819,7 +829,11 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 | **Xanthelasma / xanthoma** | Flat yellow patches | "seen in people who have problems with their blood lipids" | Check blood fats; removal | Dr Dray |
 
 - **Do rich balms cause milia?** This is widely said, but **I found no medical study proving that rich eye creams cause milia** (earlier report §7.1 found none either). Dr Dray says outright: "petroleum jelly does not cause milia". [M; R]
-- **How it feels [M].** "Im prone to Milia & syringoma under the eyes" (@michahgarcia6064, wgWdHoI9leI).
+- **How it feels [M].** "Im prone to Milia & syringoma under the eyes" (@michahgarcia6064, wgWdHoI9leI). "It caused milia under my skin because it is a very rich cream with oils" (Lookfantastic review of Kiehl's Creamy Eye Treatment, 2026-10-21).
+- **What people try, and why it fails [M quotes, R summary].**
+  - **Squeezing or picking.** Milia have no opening, so they don't squeeze out; picking thin skin leaves marks. Dr Dray: "no product is necessarily going to melt them away".
+  - **Exfoliating (AHA) products.** One viewer, 68: "my milia is almost totally gone now from the Halo and Horns, All About The Base exfoliator" (@lindamarocco4583, MX95EGYDkkU). Exfoliation can slow new milia (Dr Dray), but it doesn't remove old ones quickly, and acids sting near the eyes.
+  - **Stopping all rich creams.** People often do this, but no study was found proving rich creams cause milia (see above), and the skin then gets drier.
 - **This balm [R].** It won't treat bumps. If you get milia easily, use a thin layer and watch for new bumps over 4 weeks.
 
 ### 6.13 Stinging, watery eyes, eyelid rashes (sensitivity)
@@ -843,14 +857,24 @@ Most people have more than one. Dr Idriss: "most of us, myself included, have mo
 
 ### 6.14 Dry eye made worse by products
 
-- **What it is.** Gritty, burning, watery or tired eyes from a poor tear film.
+- **What it is.** Gritty, burning, watery or tired eyes from a poor tear film (the thin layer of water, oil and mucus that covers the eye).
 - **Why it happens [M].** Age and sex: "more common in older women 50s 60s" (Dr Rupa Wong). Retinol and some preservatives near the lid rims affect the meibomian glands (Dr Rupa Wong; Doctor Eye Health). "THANK YOU for mentioning how retinol may cause dry eye." (commenter, iwyLM5aJ7mE).
+- **How it feels [M].** "I find my eyelids so dry" (@bcourtney4024, Y_xk7NUJf7k). "When I turned 70, I tried an eye cream ... and, amazingly, helped with my dry eye condition so I don't need to use eyedrops as often." (@missmayflower, 70, si9l1VZtzvQ).
+- **What people try, and why it fails [M quotes, R summary].**
+  - **More eye drops alone.** Drops add water, but if the lid-rim oil glands are blocked or damaged the tears still dry fast.
+  - **Retinol near the eyes, buffered or not.** "20 years ago I was using Tretinoin around the eyes, no can do any longer, regardless of sandwiching" (@tquirkyt7118, si9l1VZtzvQ). Dr Sam Ellis: "for people who are prone to dry eye, I don't recommend putting a retinoid near your eyes" (XKROvYsp0QM).
+  - **Oral allergy tablets for puffy eyes.** Doctor Eye Health warns that oral antihistamines "often do dry out your tissues", so people taking them "can end up with really dry eyes" (hql6k88BKP8).
 - **What can fix it [R].** An eye doctor's care (drops, lid hygiene). Keep all creams and balms off the lid margin; choose retinol-free products near the eyes.
 - **This balm [R].** Retinol-free is a plus. Waxy balm on the lid rim is not. Keep it low.
 
 ### 6.15 Loose skin, hooding and festoons (briefly)
 
 - **What it is.** Extra skin on the upper or lower lids (dermatochalasis); swelling pouches on the upper cheek (festoons or malar bags).
+- **How it feels [M].** "Please do a video on hooded eyes due to age" (@roxannechapa2131, 64 likes, XKROvYsp0QM). "Please make a video on wrinkles around eyes and sagging eyelids." (@Knk.07, 175 likes, iwyLM5aJ7mE). "I had both upper and lower blefaroplasty done and it was the best thing ever. I'm 63 ... I had big fat herniation and sagging skin In both lids." (@MF-se1zl, 58 likes, bQuVtFwFOA0).
+- **What people try, and why it fails [M quotes, R summary].**
+  - **Firming or "lifting" creams.** No cream removes extra skin; at most a film-former tightens it for a few hours.
+  - **Tape and "clothes pins".** "I'm to the point where pulling them back with clothes pins is the only option" (375 likes, iwyLM5aJ7mE), said half in jest. Pulling the skin only stretches it more.
+  - **Thinking about surgery but held back by cost.** "Unfortunately, I cannot afford a procedure" (@marialva9053, approaching 60, bQuVtFwFOA0).
 - **Fix [M].** Surgery for extra skin (Dr Karam's "skin pinch"; blepharoplasty). Hooding of the upper lid is mainly surgical; some instant-tightening products give a few hours (Doctorly on RoC's two-part eye cream with a "glue polymer" for the upper lid).
 - **This balm [R].** **None.**
 
