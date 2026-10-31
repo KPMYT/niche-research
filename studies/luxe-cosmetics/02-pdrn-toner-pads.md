@@ -1,5 +1,7 @@
 # 02. Luxe PDRN Toner Pads (140 pads), ASIN B0HM229JP6
 
+> **Checked 2026-10-31.** A second helper re-checked a sample of this report against the sources: `checks/02-pdrn-toner-pads-check.md`. The text below is as first written; the corrections are listed in `SUMMARY.md` section 7 and in the check file.
+
 Study date: 2026-10-31. Helper report for the Luxe Cosmetics product study (brief: `BRIEF.md`).
 Raw pulls: `data/toner-pads/` (sources log: `data/toner-pads/web-sources-log-2026-10-31.md`; YouTube pulls: `data/toner-pads/youtube-pulls-2026-10-31.md`; product images: `data/toner-pads/images/`).
 

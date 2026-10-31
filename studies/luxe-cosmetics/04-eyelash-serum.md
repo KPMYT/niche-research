@@ -1,5 +1,7 @@
 # Product 4: Luxe Cosmetics Eyelash Serum (3 mL), ASIN B0C21JM5PY
 
+> **Checked 2026-10-31.** A second helper re-checked a sample of this report against the sources: `checks/04-eyelash-serum-check.md`. The text below is as first written; the corrections are listed in `SUMMARY.md` section 7 and in the check file.
+
 Study for the brief in `BRIEF.md` (set 2026-10-31). Everything below was pulled on **2026-10-31** unless another date is given. Raw pulls are in `data/serum/`. Labels used in this file:
 
 - **Measured**: copied from a page, label, study or tool output, with the source given.

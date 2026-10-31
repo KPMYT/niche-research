@@ -1,5 +1,7 @@
 # Product 3: Luxe Korean Under Eye Balm (ASIN B0GYK3T766) and the under-eye category
 
+> **Checked 2026-10-31.** A second helper re-checked a sample of this report against the sources: `checks/03-under-eye-balm-check.md`. The text below is as first written; the corrections are listed in `SUMMARY.md` section 7 and in the check file.
+
 Study for the operator's Luxe Cosmetics product videos. Brief: `studies/luxe-cosmetics/BRIEF.md` (set 2026-10-31).
 Pulled and written 2026-10-31 by a research helper. Raw pulls: `studies/luxe-cosmetics/data/eye-balm/`.
 

@@ -1,5 +1,7 @@
 # 05: The Luxe Cosmetics brand, how the four products work together, the 50+/60+ audience, and how to sell them honestly
 
+> **Checked 2026-10-31.** A second helper re-checked a sample of this report against the sources: `checks/05-brand-audience-and-selling-rules-check.md`. The text below is as first written; the corrections are listed in `SUMMARY.md` section 7 and in the check file.
+
 Helper report, pulled 2026-10-31. This file covers the brand and the selling side. The four product files (01 to 04) cover each product.
 Raw pulls are in `data/brand/` (file names are given in each section).
 

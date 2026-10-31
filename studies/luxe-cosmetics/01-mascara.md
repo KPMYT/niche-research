@@ -1,5 +1,7 @@
 # 01: Luxe Cosmetics Conditioning Peptide Mascara (ASIN B0GSXJCZ93) and the mascara category
 
+> **Checked 2026-10-31.** A second helper re-checked a sample of this report against the sources: `checks/01-mascara-check.md`. The text below is as first written; the corrections are listed in `SUMMARY.md` section 7 and in the check file.
+
 Study for the operator's Luxe Cosmetics product videos. Brief: `studies/luxe-cosmetics/BRIEF.md` (2026-10-31).
 Everything below was pulled on **2026-10-31** unless another date is given. Raw pulls are in `studies/luxe-cosmetics/data/mascara/`.
 
