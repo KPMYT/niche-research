@@ -1,0 +1,19 @@
+# Rules pages read on 2026-10-31 (FTC, YouTube, Amazon, FDA)
+
+Method: these pages were read with the WebFetch tool, which returns a model summary with quotes, not raw HTML
+(direct curl to ftc.gov returned 404 to the script). The quotes used in 05-brand-audience-and-selling-rules.md are as returned.
+
+| Page | URL | Date on page | Key quotes used |
+|---|---|---|---|
+| FTC Endorsement Guides FAQ | https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking | not shown | "I get commissions for purchases made through links in this post."; "“Paid link” right next to an affiliate link should be an adequate disclosure"; "“Commissionable link” is probably not a clear disclosure."; "If the representation is made audibly, the disclosure should be made at least audibly."; disclose "both in the videos and in the description near the links"; "An endorsement must reflect the honest opinion of the endorser." |
+| FTC Disclosures 101 | https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers | November 2019 | "the disclosure should be in the video and not just in the description uploaded with the video"; avoid "sp," "spon," or "collab" |
+| FTC press release (Endorsement Guides update) | https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-updated-advertising-guides-combat-deceptive-reviews-endorsements | June 29, 2023 | platform tool "might not be an adequate disclosure"; definition covers "fake reviews, virtual influencers, and tags in social media" |
+| FTC press release (Consumer Review Rule) | https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials | August 14, 2024 | six banned practices; "seek civil penalties against knowing violators"; effective "60 days after ... Federal Register" |
+| YouTube Help | https://support.google.com/youtube/answer/154235 | not shown | "you have to let YouTube know by selecting the paid promotion button in your video details"; label "appears at the beginning of your video"; affiliate links not mentioned |
+| Amazon Associates Operating Agreement | https://affiliate-program.amazon.com/help/operating/agreement | October 15, 2025 | "As an Amazon Associate I earn from qualifying purchases." "clearly and prominently" |
+| Amazon Associates Program Policies | https://affiliate-program.amazon.com/help/operating/policies | April 14, 2026 | price only if "we serve the link"; "date/time stamp adjacent"; no cloaking; no "oral solicitation"; reviews/stars only via API |
+| Amazon commission table | https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ | none ("© 1996-2025") | Luxury Beauty, Luxury Stores Beauty, Amazon Explore 10.00%; Beauty 3.00%; Health & Personal Care 1.00%; All Other 4.00% |
+| FDA cosmetic vs drug | https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap | 09/11/2024 | drug = "intended to affect the structure or any function of the body"; "restore hair growth, reduce cellulite" |
+| FDA anti-aging | https://www.fda.gov/cosmetics/cosmetic-products/wrinkle-treatments-and-other-anti-aging-products | 02/25/2022 | "remove wrinkles or increase the skin's production of collagen" = drug or device; "less noticeable, simply by moisturizing" = cosmetic |
+| FDA eye cosmetic safety | https://www.fda.gov/cosmetics/cosmetic-products/eye-cosmetic-safety | 06/28/2022 | "discarding mascara two to four months after purchase"; tints/dyes "serious eye injuries, including blindness" |
+| FDA MoCRA | https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra | 10/29/2026 | "within 15 business days"; small-business exemption excludes eye-mucous-membrane products; recall guidance Oct 29, 2026 |
