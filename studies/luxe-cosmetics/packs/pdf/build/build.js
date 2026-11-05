@@ -7,7 +7,7 @@ const { chromium } = require('playwright');
     await p.pdf({ path: pdf, format: 'A4', printBackground: true, displayHeaderFooter: true,
       headerTemplate: '<div></div>',
       footerTemplate: '<div style="font-size:8pt;width:100%;text-align:center;color:#888"><span class="pageNumber"></span> / <span class="totalPages"></span></div>',
-      margin: { top: '16mm', bottom: '18mm', left: '15mm', right: '15mm' }, timeout: 0 });
+      margin: { top: '12mm', bottom: '14mm', left: '13mm', right: '13mm' }, timeout: 0 });
     console.log(pdf); await p.close();
   }
   await b.close();
