@@ -1,0 +1,4 @@
+# Large media stays out of git (about 350 MB of videos, about 1,000 single frames).
+videos/*.mp4
+videos/*.log
+frames/*/t*.jpg
